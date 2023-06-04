@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,501 |
-| That's a Grand Army | 8.00% | ~4,001 |
-| That is mine! | 8.00% | ~4,001 |
-| Victorious! | 8.00% | ~4,001 |
-| Brothers in Arms | 6.00% | ~3,000 |
-| That's a Grand Navy | 6.00% | ~3,000 |
-| Seriously?! | 6.00% | ~3,000 |
-| For the Glory | 5.00% | ~2,500 |
-| Cold War | 4.00% | ~2,000 |
-| True Catholic | 4.00% | ~2,000 |
-| Defender of the Faith | 3.00% | ~1,500 |
-| It's all about the money | 3.00% | ~1,500 |
-| Respected | 3.00% | ~1,500 |
-| Truly Divine Ruler | 3.00% | ~1,500 |
-| Agressive Expander | 2.00% | ~1,000 |
-| Blockader | 2.00% | ~1,000 |
-| Combined Arms | 2.00% | ~1,000 |
-| Double the Love | 2.00% | ~1,000 |
-| Gentle Persuasion | 2.00% | ~1,000 |
-| It's all about luck | 2.00% | ~1,000 |
-| My armies are invincible! | 2.00% | ~1,000 |
-| Queen of Conquest | 2.00% | ~1,000 |
-| Royal Authority | 2.00% | ~1,000 |
-| The Princess is in this Castle | 2.00% | ~1,000 |
-| Total Control | 2.00% | ~1,000 |
+| Until death do us apart | 9.00% | ~4,504 |
+| That's a Grand Army | 8.00% | ~4,004 |
+| That is mine! | 8.00% | ~4,004 |
+| Victorious! | 8.00% | ~4,004 |
+| Brothers in Arms | 6.00% | ~3,003 |
+| That's a Grand Navy | 6.00% | ~3,003 |
+| Seriously?! | 6.00% | ~3,003 |
+| For the Glory | 5.00% | ~2,502 |
+| Cold War | 4.00% | ~2,002 |
+| True Catholic | 4.00% | ~2,002 |
+| Defender of the Faith | 3.00% | ~1,501 |
+| It's all about the money | 3.00% | ~1,501 |
+| Respected | 3.00% | ~1,501 |
+| Truly Divine Ruler | 3.00% | ~1,501 |
+| Agressive Expander | 2.00% | ~1,001 |
+| Blockader | 2.00% | ~1,001 |
+| Combined Arms | 2.00% | ~1,001 |
+| Double the Love | 2.00% | ~1,001 |
+| Gentle Persuasion | 2.00% | ~1,001 |
+| It's all about luck | 2.00% | ~1,001 |
+| My armies are invincible! | 2.00% | ~1,001 |
+| Queen of Conquest | 2.00% | ~1,001 |
+| Royal Authority | 2.00% | ~1,001 |
+| The Princess is in this Castle | 2.00% | ~1,001 |
+| Total Control | 2.00% | ~1,001 |
 | All That's Thine Shall Be Mine | 1.00% | ~500 |
 | Azur semé de lis or | 1.00% | ~500 |
 | Bright Spark | 1.00% | ~500 |
@@ -61,6 +61,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Grand Coalition | 0.40% | ~200 |
 | In the Name of the Father | 0.40% | ~200 |
 | Live Long and Prosper | 0.40% | ~200 |
+| One Night in Paris | 0.40% | ~200 |
 | Ruina Imperii | 0.40% | ~200 |
 | Tear Down This Wall | 0.40% | ~200 |
 | The Continuation of Diplomacy | 0.40% | ~200 |
@@ -75,7 +76,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Multiculturalism | 0.30% | ~150 |
 | No Pirates in my Caribbean | 0.30% | ~150 |
 | Not so sad a state... | 0.30% | ~150 |
-| One Night in Paris | 0.30% | ~150 |
 | The Chrysanthemum Throne | 0.30% | ~150 |
 | Three Trivial Tributary Tribes | 0.30% | ~150 |
 | Traditional Player | 0.30% | ~150 |
@@ -228,6 +228,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One King to Rule! | 0.10% | ~50 |
 | Østindisk Kompagni Te | 0.10% | ~50 |
 | Over a Thousand! | 0.10% | ~50 |
+| Pandya Empire | 0.10% | ~50 |
 | Parisian Pasha | 0.10% | ~50 |
 | Philippine Tiger | 0.10% | ~50 |
 | Pirate Bay of Janjira | 0.10% | ~50 |
@@ -340,7 +341,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | No Trail of Tears | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
-| Pandya Empire | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,007 (Ranked 78)  
+Progressed: 50,047 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 48,185 | 0 |
 | 2023-06-02 | 48,793 | 0 |
 | 2023-06-03 | 49,497 | 0 |
-| 2023-06-04 | 50,007 | 0 |
+| 2023-06-04 | 50,047 | 0 |
 ## Awards
 Max (Educational): 5,342  (Ranked 61)  
 Sum: 44,111 (Ranked 27)  

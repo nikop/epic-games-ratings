@@ -625,9 +625,9 @@
       "ID": "bullet_hell",
       "SetID": "jig50d",
       "Name": "Bullet Hell",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "collector",
@@ -834,8 +834,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-04T17:02:13.6127209+00:00",
+  "LastChanged_Achievements": "2023-06-04T18:01:29.1746027+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:23.8350057+00:00",
-  "LastUpdate_Ratings": "2023-06-04T17:00:53.5052095+00:00",
-  "LastUpdate_Achievements": "2023-06-04T17:02:13.6127451+00:00"
+  "LastUpdate_Ratings": "2023-06-04T18:00:18.7176236+00:00",
+  "LastUpdate_Achievements": "2023-06-04T18:01:29.1746273+00:00"
 }

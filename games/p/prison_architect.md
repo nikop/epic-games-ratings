@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~33,988 |
-| Get Busy Living | 17.00% | ~22,223 |
-| Samuel Norton | 10.00% | ~13,072 |
-| Spare The Rod | 5.00% | ~6,536 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,229 |
-| Don't Put Me In The Dark | 3.00% | ~3,922 |
-| Wait and Hope | 3.00% | ~3,922 |
-| Iron Bars | 3.00% | ~3,922 |
-| Throw The Book At Them | 2.00% | ~2,614 |
-| D.B. Cooper | 1.00% | ~1,307 |
-| Reformation | 0.60% | ~784 |
+| Stone Walls | 26.00% | ~33,995 |
+| Get Busy Living | 17.00% | ~22,228 |
+| Samuel Norton | 10.00% | ~13,075 |
+| Spare The Rod | 5.00% | ~6,538 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,230 |
+| Don't Put Me In The Dark | 3.00% | ~3,923 |
+| Wait and Hope | 3.00% | ~3,923 |
+| Iron Bars | 3.00% | ~3,923 |
+| Throw The Book At Them | 2.00% | ~2,615 |
+| D.B. Cooper | 1.00% | ~1,308 |
+| Reformation | 0.60% | ~785 |
 | Crowd Control | 0.50% | ~654 |
 | Freedom | 0.40% | ~523 |
 | Confined | 0.40% | ~523 |
 | It's Not What You Know... | 0.10% | ~131 |
 | ... It's What You Can Prove | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,723 (Ranked 56)  
+Progressed: 130,751 (Ranked 56)  
 Completed: 5 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,21 +68,21 @@ Completed: 5 (0.00%) (Ranked 212)
 | 2023-06-01 | 129,304 | 5 |
 | 2023-06-02 | 129,764 | 5 |
 | 2023-06-03 | 130,304 | 5 |
-| 2023-06-04 | 130,723 | 5 |
+| 2023-06-04 | 130,751 | 5 |
 ## Awards
 Max (Extremely Fun): 432  (Ranked 194)  
-Sum: 3,379 (Ranked 144)  
+Sum: 3,383 (Ranked 144)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 432 |
 | This game is Great for Beginners | 419 |
 | This game is Highly Recommended | 416 |
-| This game has Quickly Understood Controls | 399 |
+| This game has Quickly Understood Controls | 401 |
 | This game is Relaxing | 377 |
 | This game has Diverse Characters | 369 |
 | This game has Amazing Storytelling | 361 |
-| This game has Amazing Characters | 340 |
+| This game has Amazing Characters | 342 |
 | This game has a Creative Community | 266 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
@@ -224,4 +224,4 @@ Diff (max vs sum): 50
 | 2023-06-01 | 4.61 | - | 430 | 3,372 |
 | 2023-06-02 | 4.61 | - | 432 | 3,376 |
 | 2023-06-03 | 4.61 | - | 432 | 3,378 |
-| 2023-06-04 | 4.61 | - | 432 | 3,379 |
+| 2023-06-04 | 4.61 | - | 432 | 3,383 |

@@ -8,10 +8,10 @@
 | Cluster One | 83.00% | ~72 |
 | Another Brick in the Wall (Part 1) | 71.00% | ~62 |
 | High Hopes | 61.00% | ~53 |
-| Comfortably Numb | 56.00% | ~49 |
+| Comfortably Numb | 57.00% | ~50 |
 | Another Brick in the Wall (Part 2) | 49.00% | ~43 |
 | Echoes | 48.00% | ~42 |
-| Biding My Time | 46.00% | ~40 |
+| Biding My Time | 47.00% | ~41 |
 | The Gunner's Dream | 40.00% | ~35 |
 | Another Brick in the Wall (Part 3) | 38.00% | ~33 |
 | Burning Bridges | 26.00% | ~23 |

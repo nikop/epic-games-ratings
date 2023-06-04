@@ -7,7 +7,7 @@
 | Time Heals All Wounds | 94.00% | ~561 |
 | Rail Rat | 78.00% | ~466 |
 | The Mysterious Stranger | 76.00% | ~454 |
-| Immaculate Aim | 64.00% | ~382 |
+| Immaculate Aim | 65.00% | ~388 |
 | The Brass Boss | 57.00% | ~340 |
 | Honest Mistake | 56.00% | ~334 |
 | No, Thanks! | 55.00% | ~328 |
@@ -40,10 +40,10 @@
 | Fairgrounds Explorer | 20.00% | ~119 |
 | Cultivair Explorer | 16.00% | ~96 |
 | Theater Explorer | 16.00% | ~96 |
+| Rungs Was Right | 14.00% | ~84 |
 | Corin Goes Home | 13.00% | ~78 |
 | Sartorialist | 13.00% | ~78 |
 | Entresol Explorer | 13.00% | ~78 |
-| Rungs Was Right | 13.00% | ~78 |
 | Clovemary for Remembering | 10.00% | ~60 |
 | Hexlock for Protection | 9.00% | ~54 |
 | Golem Hunter | 9.00% | ~54 |

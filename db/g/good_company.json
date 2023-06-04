@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4909,
+  "EOS_Progressed": 4910,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1269,6 +1269,11 @@
       "Time": "2023-06-04T15:06:34.2897145+00:00",
       "NumProgressed": 4909,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T18:06:31.0055972+00:00",
+      "NumProgressed": 4910,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1392,7 +1397,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1414,9 +1419,9 @@
       "ID": "ach_campaign_progress8",
       "SetID": "8cb3id7",
       "Name": "Level: Eye In The Sky",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_campaign_progress9",
@@ -1432,7 +1437,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "ach_campaign_special10",
@@ -1536,7 +1541,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ach_campaign_special6",
@@ -1566,9 +1571,9 @@
       "ID": "ach_campaign_special9",
       "SetID": "8cb3id7",
       "Name": "Bet On Bots: Inspector\u0027s Favorite",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_challenge_special1",
@@ -1712,7 +1717,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -1872,7 +1877,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ach_trait_overload",
@@ -1887,15 +1892,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4909,
+      "Progressed": 4910,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-04T17:07:12.3894759+00:00",
+  "LastChanged_Achievements": "2023-06-04T18:06:31.0055965+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-04T16:59:34.2691336+00:00",
-  "LastUpdate_Achievements": "2023-06-04T17:07:12.3895557+00:00"
+  "LastUpdate_Ratings": "2023-06-04T17:59:16.0756549+00:00",
+  "LastUpdate_Achievements": "2023-06-04T18:06:31.0057638+00:00"
 }

@@ -1,23 +1,23 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 600)  
+Rating: 4.46 (Ranked 601)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,422 |
-| My First Runbow | 50.00% | ~122,096 |
-| It's The Fall | 26.00% | ~63,490 |
-| The Stunner | 21.00% | ~51,281 |
-| Be Aggressive | 20.00% | ~48,839 |
-| Curator | 20.00% | ~48,839 |
-| Crowning Around | 18.00% | ~43,955 |
-| Can You Dig It? | 17.00% | ~41,513 |
-| You Juan-A-Go? | 16.00% | ~39,071 |
-| Chan-tastic | 15.00% | ~36,629 |
-| Muddy Waters | 14.00% | ~34,187 |
-| Toasty! | 13.00% | ~31,745 |
-| Lazy Laser | 8.00% | ~19,535 |
+| In The Zone | 53.00% | ~129,425 |
+| My First Runbow | 50.00% | ~122,100 |
+| It's The Fall | 26.00% | ~63,492 |
+| The Stunner | 21.00% | ~51,282 |
+| Be Aggressive | 20.00% | ~48,840 |
+| Curator | 20.00% | ~48,840 |
+| Crowning Around | 18.00% | ~43,956 |
+| Can You Dig It? | 17.00% | ~41,514 |
+| You Juan-A-Go? | 16.00% | ~39,072 |
+| Chan-tastic | 15.00% | ~36,630 |
+| Muddy Waters | 14.00% | ~34,188 |
+| Toasty! | 13.00% | ~31,746 |
+| Lazy Laser | 8.00% | ~19,536 |
 | Into The Drift | 7.00% | ~17,094 |
 | Ready? Fight! | 7.00% | ~17,094 |
 | Just A Phaze | 6.00% | ~14,652 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 600)
 | Talent Scout | 0.10% | ~244 |
 | True Completionist | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,193 (Ranked 42)  
+Progressed: 244,199 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 2 (0.00%) (Ranked 212)
 | 2023-06-01 | 244,010 | 2 |
 | 2023-06-02 | 244,068 | 2 |
 | 2023-06-03 | 244,144 | 2 |
-| 2023-06-04 | 244,193 | 2 |
+| 2023-06-04 | 244,199 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

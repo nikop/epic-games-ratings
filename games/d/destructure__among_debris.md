@@ -19,6 +19,7 @@
 | Legendary Destructor | 3.00% | ~4 |
 | Ticking Clock | 3.00% | ~4 |
 | Ball Collector | 2.00% | ~2 |
+| Bullet Hell | 2.00% | ~2 |
 | Collector | 2.00% | ~2 |
 | Detoxed | 2.00% | ~2 |
 | Ice Breaker | 2.00% | ~2 |
@@ -27,7 +28,6 @@
 | Nomad | 2.00% | ~2 |
 | Single Person On Earth | 2.00% | ~2 |
 | Untouchable | 2.00% | ~2 |
-| Bullet Hell | 0.80% | ~1 |
 | Machine Man | 0.80% | ~1 |
 | Mushroom Man | 0.80% | ~1 |
 | Scrap Collector | 0.80% | ~1 |

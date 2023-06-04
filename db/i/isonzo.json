@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -604,7 +604,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6064,
+  "EOS_Progressed": 6065,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
@@ -2144,6 +2144,11 @@
       "Time": "2023-06-04T17:02:18.9835484+00:00",
       "NumProgressed": 6064,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-04T18:01:33.9390935+00:00",
+      "NumProgressed": 6065,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2171,7 +2176,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2790
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -2203,7 +2208,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -2267,7 +2272,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -2507,14 +2512,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3153
+      "UsersEstimate": 3154
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6064,
+      "Progressed": 6065,
       "Completed": 8
     }
   ],
@@ -2522,8 +2527,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-04T11:57:34.843695+00:00",
-  "LastChanged_Achievements": "2023-06-04T17:02:18.9835478+00:00",
+  "LastChanged_Achievements": "2023-06-04T18:01:33.9390929+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:28.4757017+00:00",
-  "LastUpdate_Ratings": "2023-06-04T16:57:30.6468084+00:00",
-  "LastUpdate_Achievements": "2023-06-04T17:02:18.9835942+00:00"
+  "LastUpdate_Ratings": "2023-06-04T17:57:25.2532758+00:00",
+  "LastUpdate_Achievements": "2023-06-04T18:01:33.9391681+00:00"
 }

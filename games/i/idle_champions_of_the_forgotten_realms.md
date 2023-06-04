@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 883)  
+Rating: 4.06 (Ranked 884)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.40% | ~359 |
 | Maddening | 0.30% | ~269 |
 | Owlbear Necessities | 0.30% | ~168 |
+| Frail Doesn't Mean Broken | 0.30% | ~168 |
 | Pin and Skewer | 0.30% | ~168 |
 | No One Can Hear You Scream | 0.30% | ~168 |
 | Beast Mode | 0.30% | ~269 |
@@ -70,7 +71,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.20% | ~112 |
 | Hands Off! | 0.20% | ~112 |
 | The Dread Domain of Tovag | 0.20% | ~112 |
-| Frail Doesn't Mean Broken | 0.20% | ~112 |
 | The Castle of a Thousand Vecnas | 0.20% | ~112 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~112 |
 | The Sanctum of the Sword | 0.20% | ~112 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,778 (Ranked 62)  
-Completed: 1,914 (2.13%) (Ranked 64)  
+Progressed: 89,782 (Ranked 62)  
+Completed: 1,915 (2.13%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -545,7 +545,7 @@ Completed: 1,914 (2.13%) (Ranked 64)
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
-| 2023-06-04 | 89,778 | 1,914 |
+| 2023-06-04 | 89,782 | 1,915 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,030 (Ranked 37)  

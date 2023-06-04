@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 90.00% | ~126 |
-| Wake Up | 81.00% | ~113 |
-| Time Gates | 62.00% | ~87 |
-| Command Centre | 48.00% | ~67 |
-| This is a Wall | 41.00% | ~57 |
-| Extendable Bridges | 34.00% | ~48 |
-| 48 Attempts | 34.00% | ~48 |
-| Chain Reaction | 31.00% | ~43 |
-| Man's Best Friend | 30.00% | ~42 |
-| Handyman | 23.00% | ~32 |
-| No Time To Relax | 16.00% | ~22 |
-| Bad Robots | 14.00% | ~20 |
-| Running Boots | 14.00% | ~20 |
-| Fashionista | 11.00% | ~15 |
+| It's Rewind Time | 89.00% | ~126 |
+| Wake Up | 80.00% | ~114 |
+| Time Gates | 61.00% | ~87 |
+| Command Centre | 47.00% | ~67 |
+| This is a Wall | 41.00% | ~58 |
+| Extendable Bridges | 33.00% | ~47 |
+| 48 Attempts | 33.00% | ~47 |
+| Man's Best Friend | 30.00% | ~43 |
+| Chain Reaction | 30.00% | ~43 |
+| Handyman | 23.00% | ~33 |
+| No Time To Relax | 16.00% | ~23 |
+| Bad Robots | 13.00% | ~18 |
+| Running Boots | 13.00% | ~18 |
+| Fashionista | 11.00% | ~16 |
 | Looper | 10.00% | ~14 |
-| Kaboom! | 9.00% | ~13 |
-| All Alone | 9.00% | ~13 |
-| Cataclysm | 9.00% | ~13 |
 | Archivist | 9.00% | ~13 |
-| Reunited | 9.00% | ~13 |
 | Transformers, cubes in disguise | 8.00% | ~11 |
+| Kaboom! | 8.00% | ~11 |
+| All Alone | 8.00% | ~11 |
+| Cataclysm | 8.00% | ~11 |
+| Reunited | 8.00% | ~11 |
 | So Close | 7.00% | ~10 |
-| Final Charge | 6.00% | ~8 |
+| Final Charge | 6.00% | ~9 |
 | Summer Luvin' | 4.00% | ~6 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |
 | You Are Terminated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 261)  
+Progressed: 142 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,6 +60,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 135 | 0 |
 | 2023-06-02 | 138 | 0 |
 | 2023-06-03 | 140 | 0 |
+| 2023-06-04 | 142 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

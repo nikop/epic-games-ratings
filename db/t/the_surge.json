@@ -2,7 +2,7 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 601,
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 128,
@@ -1502,8 +1502,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-04T17:02:36.3570289+00:00",
+  "LastChanged_Achievements": "2023-06-04T18:02:18.7648881+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:09.2823727+00:00",
-  "LastUpdate_Ratings": "2023-06-04T16:58:14.9610347+00:00",
-  "LastUpdate_Achievements": "2023-06-04T17:02:36.3570983+00:00"
+  "LastUpdate_Ratings": "2023-06-04T17:58:08.4992761+00:00",
+  "LastUpdate_Achievements": "2023-06-04T18:02:18.7649674+00:00"
 }

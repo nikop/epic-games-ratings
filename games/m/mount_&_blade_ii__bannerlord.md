@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~18,229 |
-| Landlord | 30.00% | ~15,625 |
-| Horde breaker | 21.00% | ~10,937 |
-| Lawmaker | 21.00% | ~10,937 |
-| Bannerlord | 20.00% | ~10,417 |
-| Trained | 20.00% | ~10,417 |
-| King Solomon | 16.00% | ~8,333 |
-| The king is pleased | 16.00% | ~8,333 |
+| Lawbringer | 35.00% | ~18,231 |
+| Landlord | 30.00% | ~15,626 |
+| Horde breaker | 21.00% | ~10,938 |
+| Lawmaker | 21.00% | ~10,938 |
+| Bannerlord | 20.00% | ~10,418 |
+| Trained | 20.00% | ~10,418 |
+| King Solomon | 16.00% | ~8,334 |
+| The king is pleased | 16.00% | ~8,334 |
 | Apple of my eye | 14.00% | ~7,292 |
 | I can do it | 14.00% | ~7,292 |
-| God of the Arena | 12.00% | ~6,250 |
-| Against all odds | 10.00% | ~5,208 |
-| Swordbearer | 9.00% | ~4,687 |
+| God of the Arena | 12.00% | ~6,251 |
+| Against all odds | 10.00% | ~5,209 |
+| Swordbearer | 9.00% | ~4,688 |
 | Duelist | 8.00% | ~4,167 |
 | Dynasty | 8.00% | ~4,167 |
 | I spit on your grave | 8.00% | ~4,167 |
@@ -27,18 +27,18 @@ Number of Ratings: 5,603  (23.09.2022)
 | This Is Our Land | 7.00% | ~3,646 |
 | Mastery | 6.00% | ~3,125 |
 | Know your enemy | 5.00% | ~2,604 |
-| Crowdfunded | 4.00% | ~2,083 |
-| Crush your enemies | 4.00% | ~2,083 |
-| My way | 4.00% | ~2,083 |
-| Veni vidi vici | 4.00% | ~2,083 |
-| Freedom! | 3.00% | ~1,562 |
+| Crowdfunded | 4.00% | ~2,084 |
+| Crush your enemies | 4.00% | ~2,084 |
+| My way | 4.00% | ~2,084 |
+| Veni vidi vici | 4.00% | ~2,084 |
+| Freedom! | 3.00% | ~1,563 |
 | Entrepreneur | 2.00% | ~1,042 |
 | Long live the Empire! | 2.00% | ~1,042 |
 | Real Estate | 2.00% | ~1,042 |
 | Supreme Emperor | 1.00% | ~521 |
 | Undercover | 0.80% | ~417 |
 | Crackshot | 0.70% | ~365 |
-| Fat Cat | 0.60% | ~312 |
+| Fat Cat | 0.60% | ~313 |
 | Catch | 0.50% | ~260 |
 | Slice 'n dice | 0.40% | ~208 |
 | Mounted Archery | 0.30% | ~156 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,083 (Ranked 76)  
+Progressed: 52,088 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,14 +103,14 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 51,729 | 0 |
 | 2023-06-02 | 51,825 | 0 |
 | 2023-06-03 | 51,966 | 0 |
-| 2023-06-04 | 52,083 | 0 |
+| 2023-06-04 | 52,088 | 0 |
 ## Awards
-Max (Character Customization): 6,624  (Ranked 49)  
-Sum: 13,275 (Ranked 67)  
+Max (Character Customization): 6,631  (Ranked 49)  
+Sum: 13,282 (Ranked 67)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,624 |
+| This game has Inclusive Character Customization | 6,631 |
 | This game is Great for Beginners | 837 |
 | This game has Diverse Characters | 816 |
 | This game is Highly Recommended | 786 |
@@ -265,4 +265,4 @@ Diff (max vs sum): -18
 | 2023-06-01 | 4.74 | - | 6,612 | 13,241 |
 | 2023-06-02 | 4.74 | - | 6,618 | 13,255 |
 | 2023-06-03 | 4.74 | - | 6,624 | 13,267 |
-| 2023-06-04 | 4.74 | - | 6,624 | 13,275 |
+| 2023-06-04 | 4.74 | - | 6,631 | 13,282 |

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Wraith | 61.00% | ~242 |
+| Welcome to Mordor! | 50.00% | ~198 |
 | Collectibles Part 1 | 49.00% | ~194 |
-| Welcome to Mordor! | 49.00% | ~194 |
 | Wait! Wait! Not yet! | 35.00% | ~139 |
 | Like Flying... | 32.00% | ~127 |
 | Memories | 28.00% | ~111 |
@@ -25,9 +25,9 @@
 | Master of the Old Game | 3.00% | ~12 |
 | So Silly! | 3.00% | ~12 |
 | Made a Song | 3.00% | ~12 |
+| Break a Leg! | 2.00% | ~8 |
 | Sweet Darkness | 2.00% | ~8 |
 | So Tasty! | 2.00% | ~8 |
-| Break a Leg! | 1.00% | ~4 |
 | Ss ss ss... | 1.00% | ~4 |
 | And now we wish... | 0.80% | ~3 |
 | Nervous Hands | 0.80% | ~3 |

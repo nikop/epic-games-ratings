@@ -4,7 +4,7 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -154,9 +154,9 @@
       "ID": "ACH_100_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Crushing All Cars",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
@@ -226,9 +226,9 @@
       "ID": "ACH_25_BLIMPS",
       "SetID": "aio76gp",
       "Name": "Hindenburgerer",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_25_EATEN_AIRBORNE",
@@ -242,9 +242,9 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_40_STAGES_ENDLESS",
@@ -258,9 +258,9 @@
       "ID": "ACH_5000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Reign of Terror",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_50_CATCHES",
@@ -274,9 +274,9 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_50_MILITARY_CARS",
@@ -354,9 +354,9 @@
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_STORY_MODE",
@@ -395,8 +395,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-06-04T16:02:27.365205+00:00",
+  "LastChanged_Achievements": "2023-06-04T18:01:06.3877443+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:38.3518992+00:00",
-  "LastUpdate_Ratings": "2023-06-04T16:58:49.2435033+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:02:27.3652278+00:00"
+  "LastUpdate_Ratings": "2023-06-04T17:58:35.4977587+00:00",
+  "LastUpdate_Achievements": "2023-06-04T18:01:06.390845+00:00"
 }

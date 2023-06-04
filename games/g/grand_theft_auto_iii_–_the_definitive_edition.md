@@ -1,24 +1,24 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.12 (Ranked 866)  
+Rating: 4.12 (Ranked 867)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~5,011 |
-| Disposing of the Evidence | 36.00% | ~2,173 |
-| Without a Scratch | 32.00% | ~1,932 |
-| Wreckless Driving | 27.00% | ~1,630 |
+| First Day on the Job | 83.00% | ~5,013 |
+| Disposing of the Evidence | 36.00% | ~2,174 |
+| Without a Scratch | 32.00% | ~1,933 |
+| Wreckless Driving | 27.00% | ~1,631 |
 | A Marked Man | 23.00% | ~1,389 |
-| Street Sweeper | 17.00% | ~1,026 |
+| Street Sweeper | 17.00% | ~1,027 |
 | Liberty City Minute | 16.00% | ~966 |
-| Offshore Delivery | 12.00% | ~724 |
+| Offshore Delivery | 12.00% | ~725 |
 | Dirty Money | 11.00% | ~664 |
-| By a Mile | 9.00% | ~543 |
-| Right-hand Man | 9.00% | ~543 |
+| By a Mile | 9.00% | ~544 |
+| Right-hand Man | 9.00% | ~544 |
 | Not So Fast | 8.00% | ~483 |
 | A Gift from the King | 6.00% | ~362 |
-| Full Artillery | 4.00% | ~241 |
+| Full Artillery | 4.00% | ~242 |
 | Mob Boss | 2.00% | ~121 |
 | Splish Splash | 2.00% | ~121 |
 | Escape Artist | 1.00% | ~60 |
@@ -35,7 +35,7 @@ Rating: 4.12 (Ranked 866)
 | Is That All You've Got? | 0.70% | ~42 |
 | King of Liberty City | 0.50% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,037 (Ranked 123)  
+Progressed: 6,040 (Ranked 123)  
 Completed: 31 (0.51%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 31 (0.51%) (Ranked 111)
 | 2023-06-01 | 5,801 | 28 |
 | 2023-06-02 | 5,881 | 30 |
 | 2023-06-03 | 5,982 | 30 |
-| 2023-06-04 | 6,037 | 31 |
+| 2023-06-04 | 6,040 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You and what Army? | 90.00% | ~2,624 |
-| Flanked! | 79.00% | ~2,304 |
+| Flanked! | 80.00% | ~2,333 |
 | Economics 101 | 65.00% | ~1,895 |
 | Get Rich Quick | 48.00% | ~1,400 |
 | Do the Splits | 41.00% | ~1,196 |
 | Maestro | 28.00% | ~816 |
-| Full Employment | 19.00% | ~554 |
+| Full Employment | 20.00% | ~583 |
 | Clay Fighter | 17.00% | ~496 |
 | Nowhere left to Hide | 15.00% | ~437 |
 | Boulder Clash | 14.00% | ~408 |

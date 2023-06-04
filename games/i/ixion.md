@@ -5,10 +5,10 @@ Rating: 4.57 (Ranked 441)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 14.00% | ~340 |
+| Wakey Wakey | 14.00% | ~341 |
 | Infinite Growth... | 12.00% | ~292 |
 | Sputnik 2049 | 12.00% | ~292 |
-| Without Breaking Some Eggs... | 11.00% | ~267 |
+| Without Breaking Some Eggs... | 11.00% | ~268 |
 | Space Society | 7.00% | ~170 |
 | A Thousand Strong | 7.00% | ~170 |
 | Ready for a New World | 7.00% | ~170 |
@@ -44,12 +44,12 @@ Rating: 4.57 (Ranked 441)
 | Catastrophe Avoided | 0.70% | ~17 |
 | Praise the Hull! | 0.70% | ~17 |
 | You Had One Job... | 0.70% | ~17 |
+| Help of the Forgotten Member | 0.60% | ~15 |
 | Tiqqun Contender | 0.50% | ~12 |
 | Gregor Spinoza | 0.50% | ~12 |
 | Space Greenhouse | 0.50% | ~12 |
 | Tiqqun Unchained | 0.50% | ~12 |
 | Scientifically Accurate | 0.50% | ~12 |
-| Help of the Forgotten Member | 0.50% | ~12 |
 | Better Him Than Me | 0.40% | ~10 |
 | Remember the Dead | 0.20% | ~5 |
 | Soylent Green | 0.20% | ~5 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,431 (Ranked 145)  
+Progressed: 2,434 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 2,350 | 0 |
 | 2023-06-02 | 2,386 | 0 |
 | 2023-06-03 | 2,408 | 0 |
-| 2023-06-04 | 2,431 | 0 |
+| 2023-06-04 | 2,434 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

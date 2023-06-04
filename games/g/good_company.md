@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,454 |
-| Returning Home: Quick Learner | 25.00% | ~1,227 |
+| Level: Returning Home | 50.00% | ~2,455 |
+| Returning Home: Quick Learner | 25.00% | ~1,228 |
 | Level: Charlie's Circuits | 22.00% | ~1,080 |
 | Level: Rising Markets | 9.00% | ~442 |
 | Peddler | 8.00% | ~393 |
@@ -15,9 +15,9 @@ Number of Ratings: 75  (23.09.2022)
 | Rising Markets: Avoiding the Reds | 7.00% | ~344 |
 | Data Churn Type I | 7.00% | ~344 |
 | Millionaire | 6.00% | ~295 |
-| Extra Life: Wish Granted | 5.00% | ~245 |
-| Data Churn Type II | 5.00% | ~245 |
-| Speedy | 5.00% | ~245 |
+| Extra Life: Wish Granted | 5.00% | ~246 |
+| Data Churn Type II | 5.00% | ~246 |
+| Speedy | 5.00% | ~246 |
 | High Five! | 4.00% | ~196 |
 | Modular Progress | 4.00% | ~196 |
 | Salesperson | 4.00% | ~196 |
@@ -45,11 +45,11 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Topple The Top | 0.90% | ~44 |
 | Tycoon | 0.90% | ~44 |
 | Bet On Bots: Safety First | 0.80% | ~39 |
-| Level: Eye In The Sky | 0.60% | ~29 |
 | Merry-Go-Around: Self-Made | 0.60% | ~29 |
-| Bet On Bots: Inspector's Favorite | 0.60% | ~29 |
 | Trendsetter | 0.60% | ~29 |
 | Level: Heating-Up | 0.50% | ~25 |
+| Level: Eye In The Sky | 0.50% | ~25 |
+| Bet On Bots: Inspector's Favorite | 0.50% | ~25 |
 | CEO | 0.50% | ~25 |
 | Campaign: Man vs. Machine | 0.40% | ~20 |
 | Rockstar | 0.40% | ~20 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,909 (Ranked 127)  
+Progressed: 4,910 (Ranked 127)  
 Completed: 1 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 1 (0.02%) (Ranked 195)
 | 2023-06-01 | 4,889 | 1 |
 | 2023-06-02 | 4,894 | 1 |
 | 2023-06-03 | 4,902 | 1 |
-| 2023-06-04 | 4,909 | 1 |
+| 2023-06-04 | 4,910 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

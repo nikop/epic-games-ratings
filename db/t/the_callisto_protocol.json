@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 839,
   "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 103,
@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14481,
+  "EOS_Progressed": 14482,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2740,6 +2740,11 @@
       "Time": "2023-06-04T17:04:37.931182+00:00",
       "NumProgressed": 14481,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-04T18:04:17.0904215+00:00",
+      "NumProgressed": 14482,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2927,7 +2932,7 @@
       "Name": "Paper Jams",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2965,9 +2970,9 @@
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 579
     },
     {
       "ID": "STORY_MINETOWN",
@@ -3070,13 +3075,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14481,
+      "Progressed": 14482,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2407,
+      "Progressed": 2408,
       "Completed": 29
     }
   ],
@@ -3084,8 +3089,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-04T17:04:37.9311815+00:00",
+  "LastChanged_Achievements": "2023-06-04T18:04:17.0904208+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-04T16:58:05.6338377+00:00",
-  "LastUpdate_Achievements": "2023-06-04T17:04:37.9312227+00:00"
+  "LastUpdate_Ratings": "2023-06-04T17:58:00.9106391+00:00",
+  "LastUpdate_Achievements": "2023-06-04T18:04:17.0904922+00:00"
 }

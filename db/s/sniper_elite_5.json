@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2240,
+  "EOS_Progressed": 2241,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2485,6 +2485,11 @@
       "Time": "2023-06-04T17:06:55.4215307+00:00",
       "NumProgressed": 2240,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-04T18:06:15.8206899+00:00",
+      "NumProgressed": 2241,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2576,7 +2581,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2614,9 +2619,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 157
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -2664,7 +2669,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2720,15 +2725,15 @@
       "Name": "Resourceful",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 134
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -2742,9 +2747,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 381
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3063,13 +3068,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2191,
+      "Progressed": 2192,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2240,
+      "Progressed": 2241,
       "Completed": 2
     }
   ],
@@ -3077,8 +3082,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-04T17:06:55.4215304+00:00",
+  "LastChanged_Achievements": "2023-06-04T18:06:15.8206893+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T17:01:42.0898202+00:00",
-  "LastUpdate_Achievements": "2023-06-04T17:06:55.4216164+00:00"
+  "LastUpdate_Ratings": "2023-06-04T18:01:01.3032436+00:00",
+  "LastUpdate_Achievements": "2023-06-04T18:06:15.8208276+00:00"
 }

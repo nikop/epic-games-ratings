@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Augmented | 82.00% | ~74 |
 | Rookie | 76.00% | ~68 |
+| Nanonic I | 70.00% | ~63 |
+| Terminated I | 70.00% | ~63 |
 | Challenge Accepted | 69.00% | ~62 |
-| Nanonic I | 68.00% | ~61 |
-| Terminated I | 68.00% | ~61 |
-| Unlocked and Loaded | 62.00% | ~56 |
-| Terminated II | 57.00% | ~51 |
+| Unlocked and Loaded | 64.00% | ~58 |
+| Terminated II | 59.00% | ~53 |
 | Terminated III | 38.00% | ~34 |
 | Nanonic II | 36.00% | ~32 |
-| Challenge Mastered | 31.00% | ~28 |
+| Challenge Mastered | 33.00% | ~30 |
 | The City | 24.00% | ~22 |
 | Supply Run | 24.00% | ~22 |
 | Up Close And Personal | 24.00% | ~22 |

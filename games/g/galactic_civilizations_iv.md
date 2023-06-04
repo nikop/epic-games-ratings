@@ -1,21 +1,21 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 838)  
+Rating: 4.18 (Ranked 839)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,641 |
-| Worker Specialization | 78.00% | ~4,582 |
+| Colonize a Planet | 79.00% | ~4,642 |
+| Worker Specialization | 78.00% | ~4,583 |
 | First Contact | 73.00% | ~4,289 |
-| Win a Battle | 67.00% | ~3,936 |
-| Anomaly Researcher | 63.00% | ~3,701 |
-| Unleash My Power | 62.00% | ~3,642 |
-| Own 30 Planets | 35.00% | ~2,056 |
+| Win a Battle | 67.00% | ~3,937 |
+| Anomaly Researcher | 63.00% | ~3,702 |
+| Unleash My Power | 62.00% | ~3,643 |
+| Own 30 Planets | 35.00% | ~2,057 |
 | Xenocide | 33.00% | ~1,939 |
 | Design a Civilization | 32.00% | ~1,880 |
-| Commodity Trader | 31.00% | ~1,821 |
+| Commodity Trader | 31.00% | ~1,822 |
 | Design a Ship | 29.00% | ~1,704 |
 | Commodity Seller | 26.00% | ~1,528 |
 | Prestige Victory! | 14.00% | ~823 |
@@ -24,7 +24,7 @@ Number of Ratings: 429  (23.09.2022)
 | Fleet Victory | 8.00% | ~470 |
 | Win as Terrans | 7.00% | ~411 |
 | Win with a Custom Faction | 7.00% | ~411 |
-| Gain an Ally | 6.00% | ~352 |
+| Gain an Ally | 6.00% | ~353 |
 | War with the Unknown | 5.00% | ~294 |
 | Win Quickly | 5.00% | ~294 |
 | Conquest Victory! | 4.00% | ~235 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,875 (Ranked 124)  
+Progressed: 5,876 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,11 +124,11 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 5,846 | 0 |
 | 2023-06-02 | 5,857 | 0 |
 | 2023-06-03 | 5,869 | 0 |
-| 2023-06-04 | 5,875 | 0 |
+| 2023-06-04 | 5,876 | 0 |
 ## Awards
-Max (Diverse Characters): 92  (Ranked 338)  
+Max (Diverse Characters): 92  (Ranked 339)  
 Sum: 663 (Ranked 268)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 92 |

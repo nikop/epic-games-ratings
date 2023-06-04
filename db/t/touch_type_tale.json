@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 2916,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1964,9 +1964,9 @@
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2333
     },
     {
       "ID": "campaign20",
@@ -2044,9 +2044,9 @@
       "ID": "scenario2",
       "SetID": "2h56gn1",
       "Name": "Full Employment",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 554
+      "UsersEstimate": 583
     },
     {
       "ID": "scenario3",
@@ -2101,8 +2101,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-04T17:07:11.704805+00:00",
+  "LastChanged_Achievements": "2023-06-04T18:06:30.4026563+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-04T17:01:15.2967113+00:00",
-  "LastUpdate_Achievements": "2023-06-04T17:07:11.7048379+00:00"
+  "LastUpdate_Ratings": "2023-06-04T18:00:35.3566863+00:00",
+  "LastUpdate_Achievements": "2023-06-04T18:06:30.4027151+00:00"
 }

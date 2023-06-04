@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2790,
+  "EOS_Progressed": 2791,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2134,6 +2134,11 @@
       "Time": "2023-06-04T16:02:20.3541354+00:00",
       "NumProgressed": 2790,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T18:02:15.2628945+00:00",
+      "NumProgressed": 2791,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2145,7 +2150,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "AceDetective_9",
@@ -2169,7 +2174,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "BloodAndJustice_50",
@@ -2329,7 +2334,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2369,7 +2374,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2409,7 +2414,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -2480,15 +2485,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2790,
+      "Progressed": 2791,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-04T17:02:32.0857664+00:00",
+  "LastChanged_Achievements": "2023-06-04T18:02:15.262894+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-04T16:57:59.8612308+00:00",
-  "LastUpdate_Achievements": "2023-06-04T17:02:32.0858278+00:00"
+  "LastUpdate_Ratings": "2023-06-04T17:57:52.8219889+00:00",
+  "LastUpdate_Achievements": "2023-06-04T18:02:15.262939+00:00"
 }

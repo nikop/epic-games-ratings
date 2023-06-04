@@ -1,27 +1,27 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.41 (Ranked 934)  
+Rating: 3.41 (Ranked 935)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~12,545 |
-| Hard Worker | 20.00% | ~11,947 |
-| Master, Commander | 20.00% | ~11,947 |
-| Mechanic | 19.00% | ~11,350 |
-| Adios, Friendo | 18.00% | ~10,753 |
-| Bottom's Up | 17.00% | ~10,155 |
-| Nice Try | 16.00% | ~9,558 |
-| Right On Target | 13.00% | ~7,766 |
-| Piano Man | 10.00% | ~5,974 |
-| Lazy Bones | 9.00% | ~5,376 |
+| Be Seeing You | 21.00% | ~12,547 |
+| Hard Worker | 20.00% | ~11,950 |
+| Master, Commander | 20.00% | ~11,950 |
+| Mechanic | 19.00% | ~11,352 |
+| Adios, Friendo | 18.00% | ~10,755 |
+| Bottom's Up | 17.00% | ~10,157 |
+| Nice Try | 16.00% | ~9,560 |
+| Right On Target | 13.00% | ~7,767 |
+| Piano Man | 10.00% | ~5,975 |
+| Lazy Bones | 9.00% | ~5,377 |
 | Sniper | 7.00% | ~4,182 |
 | Vinyl Vibes | 7.00% | ~4,182 |
-| Nothing Left to Say | 6.00% | ~3,584 |
+| Nothing Left to Say | 6.00% | ~3,585 |
 | Cut Call | 5.00% | ~2,987 |
-| Butcher | 4.00% | ~2,389 |
-| Magnetic Miracles | 4.00% | ~2,389 |
-| Spicy | 4.00% | ~2,389 |
+| Butcher | 4.00% | ~2,390 |
+| Magnetic Miracles | 4.00% | ~2,390 |
+| Spicy | 4.00% | ~2,390 |
 | A Man Of Taste | 3.00% | ~1,792 |
 | Ace in the Hole | 3.00% | ~1,792 |
 | Fair's Fair | 3.00% | ~1,792 |
@@ -31,7 +31,7 @@ Rating: 3.41 (Ranked 934)
 | Audiophile | 2.00% | ~1,195 |
 | Tape Head | 1.00% | ~597 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,737 (Ranked 73)  
+Progressed: 59,749 (Ranked 73)  
 Completed: 502 (0.84%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 502 (0.84%) (Ranked 95)
 | 2023-06-01 | 59,200 | 495 |
 | 2023-06-02 | 59,387 | 496 |
 | 2023-06-03 | 59,576 | 499 |
-| 2023-06-04 | 59,737 | 502 |
+| 2023-06-04 | 59,749 | 502 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

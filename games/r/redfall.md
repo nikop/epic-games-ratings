@@ -1,28 +1,28 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.46 (Ranked 933)  
+Rating: 3.46 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 76.00% | ~1,262 |
-| Home Is Where the Heart Is | 59.00% | ~979 |
-| Ne Plus Ultra | 59.00% | ~979 |
-| Wounded Whispers | 59.00% | ~979 |
+| Home Is Where the Heart Is | 59.00% | ~980 |
+| Ne Plus Ultra | 59.00% | ~980 |
+| Wounded Whispers | 59.00% | ~980 |
 | Blood Will Have Blood | 48.00% | ~797 |
-| ICU | 44.00% | ~730 |
+| ICU | 44.00% | ~731 |
 | Catch and Release | 43.00% | ~714 |
-| Peek-a-boo | 42.00% | ~697 |
-| Sucks To Be You | 42.00% | ~697 |
+| Peek-a-boo | 42.00% | ~698 |
+| Sucks To Be You | 42.00% | ~698 |
 | Welcome to the Neighborhood | 36.00% | ~598 |
-| Fly Fisher | 34.00% | ~564 |
+| Fly Fisher | 34.00% | ~565 |
 | Throw The First Stone | 33.00% | ~548 |
 | Enter of Your Own Free Will | 31.00% | ~515 |
 | Heart Attack | 31.00% | ~515 |
 | Skin of Their Teeth | 31.00% | ~515 |
 | Grounded | 23.00% | ~382 |
 | Bad Wiring | 20.00% | ~332 |
-| I Spit On Your Grave | 19.00% | ~315 |
+| I Spit On Your Grave | 19.00% | ~316 |
 | Neighborhood Revitalization | 15.00% | ~249 |
 | Radio Silence | 15.00% | ~249 |
 | Helping Hand | 12.00% | ~199 |
@@ -72,7 +72,7 @@ Rating: 3.46 (Ranked 933)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,660 (Ranked 155)  
+Progressed: 1,661 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 1,653 | 0 |
 | 2023-06-02 | 1,654 | 0 |
 | 2023-06-03 | 1,657 | 0 |
-| 2023-06-04 | 1,660 | 0 |
+| 2023-06-04 | 1,661 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
