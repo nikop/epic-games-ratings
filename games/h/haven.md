@@ -7,16 +7,16 @@ Number of Ratings: 38  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Balding bloot! | 79.00% | ~961 |
-| Lovebirds | 51.00% | ~620 |
-| Life’s short, ride long | 46.00% | ~559 |
-| Hug therapy | 45.00% | ~547 |
+| Lovebirds | 51.00% | ~621 |
+| Life’s short, ride long | 46.00% | ~560 |
+| Hug therapy | 45.00% | ~548 |
 | Over my dead body | 41.00% | ~499 |
 | Shake the rust off their feet | 22.00% | ~268 |
 | Strike! | 20.00% | ~243 |
 | My little pony | 20.00% | ~243 |
 | A love supreme | 19.00% | ~231 |
 | In my shoes | 18.00% | ~219 |
-| Like new! | 15.00% | ~182 |
+| Like new! | 15.00% | ~183 |
 | Heartstrings | 14.00% | ~170 |
 | Head in the clouds | 14.00% | ~170 |
 | Don't look back | 13.00% | ~158 |
@@ -24,7 +24,7 @@ Number of Ratings: 38  (23.09.2022)
 | Flower Powered | 12.00% | ~146 |
 | Perfect timing | 10.00% | ~122 |
 | Unstoppable | 10.00% | ~122 |
-| Ain't no mountain high enough | 9.00% | ~109 |
+| Ain't no mountain high enough | 9.00% | ~110 |
 | Self-sustainability | 8.00% | ~97 |
 | Can't get wetter... | 5.00% | ~61 |
 | Spring cleaning | 5.00% | ~61 |
@@ -32,13 +32,13 @@ Number of Ratings: 38  (23.09.2022)
 | Second thoughts | 4.00% | ~49 |
 | Mooning the moon | 4.00% | ~49 |
 | Strip-a-bobble | 4.00% | ~49 |
-| Pearls before Birble | 3.00% | ~36 |
-| Last minute | 3.00% | ~36 |
+| Pearls before Birble | 3.00% | ~37 |
+| Last minute | 3.00% | ~37 |
 | Thar she blows | 2.00% | ~24 |
 | À la carte | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,216 (Ranked 165)  
-Completed: 8 (0.66%) (Ranked 106)  
+Progressed: 1,217 (Ranked 165)  
+Completed: 8 (0.66%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,7 +78,7 @@ Completed: 8 (0.66%) (Ranked 106)
 | 2023-06-01 | 1,190 | 8 |
 | 2023-06-02 | 1,196 | 8 |
 | 2023-06-03 | 1,208 | 8 |
-| 2023-06-04 | 1,216 | 8 |
+| 2023-06-04 | 1,217 | 8 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

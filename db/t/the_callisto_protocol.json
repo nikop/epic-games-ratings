@@ -6,9 +6,9 @@
   "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 103,
-  "Ranking_EOS_Completed": 118,
+  "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14474,
+  "EOS_Progressed": 14481,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2735,6 +2735,11 @@
       "Time": "2023-06-04T16:04:11.9784424+00:00",
       "NumProgressed": 14474,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-04T17:04:37.931182+00:00",
+      "NumProgressed": 14481,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2762,7 +2767,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2778,7 +2783,7 @@
       "Name": "Flesh Wound",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2810,7 +2815,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -2858,7 +2863,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "KILL_2HEAD",
@@ -2874,7 +2879,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "KILL_ROBOT",
@@ -2890,7 +2895,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2914,7 +2919,7 @@
       "Name": "Reforged",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2930,7 +2935,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -2938,7 +2943,7 @@
       "Name": "The Outer Way",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2946,7 +2951,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "STORY_HABITAT",
@@ -2970,7 +2975,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -2984,9 +2989,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 579
     },
     {
       "ID": "STORY_TOWER",
@@ -2994,7 +2999,7 @@
       "Name": "Full Circle",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "STORY_TUNNELS",
@@ -3065,13 +3070,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14474,
+      "Progressed": 14481,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2400,
+      "Progressed": 2407,
       "Completed": 29
     }
   ],
@@ -3079,8 +3084,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-04T16:04:11.9784414+00:00",
+  "LastChanged_Achievements": "2023-06-04T17:04:37.9311815+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:57:49.9115184+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:04:11.9784901+00:00"
+  "LastUpdate_Ratings": "2023-06-04T16:58:05.6338377+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:04:37.9312227+00:00"
 }

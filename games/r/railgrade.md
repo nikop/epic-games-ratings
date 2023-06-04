@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,462 |
-| Before the Downfall | 93.00% | ~17,520 |
-| Money like Water | 91.00% | ~17,143 |
-| Minimalist | 90.00% | ~16,955 |
-| Builder | 83.00% | ~15,636 |
-| Eraser | 70.00% | ~13,187 |
-| Pocket of Trains | 65.00% | ~12,245 |
-| Inspector | 59.00% | ~11,115 |
-| Going the Distance | 54.00% | ~10,173 |
-| Oil Baron | 42.00% | ~7,912 |
-| Loads-a-Money | 42.00% | ~7,912 |
-| Helper of the People | 39.00% | ~7,347 |
-| Simplification | 34.00% | ~6,405 |
+| Trevithick's Legacy | 98.00% | ~18,463 |
+| Before the Downfall | 93.00% | ~17,521 |
+| Money like Water | 91.00% | ~17,144 |
+| Minimalist | 90.00% | ~16,956 |
+| Builder | 83.00% | ~15,637 |
+| Eraser | 70.00% | ~13,188 |
+| Pocket of Trains | 65.00% | ~12,246 |
+| Inspector | 59.00% | ~11,116 |
+| Going the Distance | 54.00% | ~10,174 |
+| Oil Baron | 42.00% | ~7,913 |
+| Loads-a-Money | 42.00% | ~7,913 |
+| Helper of the People | 39.00% | ~7,348 |
+| Simplification | 34.00% | ~6,406 |
 | Box of Trains | 33.00% | ~6,217 |
-| Let There be Light | 32.00% | ~6,028 |
+| Let There be Light | 32.00% | ~6,029 |
 | Hot Water | 31.00% | ~5,840 |
-| Indecisive | 29.00% | ~5,463 |
+| Indecisive | 29.00% | ~5,464 |
 | The scenic route | 27.00% | ~5,087 |
 | Industrialist | 25.00% | ~4,710 |
 | Perfectionist | 23.00% | ~4,333 |
@@ -43,8 +43,8 @@ Rating: 4.54 (Ranked 489)
 | Overdeer | 0.50% | ~94 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,839 (Ranked 98)  
-Completed: 30 (0.16%) (Ranked 149)  
+Progressed: 18,840 (Ranked 98)  
+Completed: 30 (0.16%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,7 +88,7 @@ Completed: 30 (0.16%) (Ranked 149)
 | 2023-06-01 | 18,787 | 29 |
 | 2023-06-02 | 18,799 | 30 |
 | 2023-06-03 | 18,829 | 30 |
-| 2023-06-04 | 18,839 | 30 |
+| 2023-06-04 | 18,840 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 344)  
 Sum: 649 (Ranked 275)  

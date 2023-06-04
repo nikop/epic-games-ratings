@@ -3,9 +3,9 @@
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 199,
-  "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 43,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 475,
+  "EOS_Progressed": 476,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.37,
+  "EOS_Completed_Percentage": 3.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -187,6 +187,11 @@
       "Time": "2023-06-03T06:06:07.8546414+00:00",
       "NumProgressed": 475,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-04T17:07:08.3030284+00:00",
+      "NumProgressed": 476,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -198,7 +203,7 @@
       "Name": "Beat It",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "blast_from_the_past",
@@ -206,7 +211,7 @@
       "Name": "Blast From The Past",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "deadly_secret",
@@ -270,7 +275,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ending_8",
@@ -286,7 +291,7 @@
       "Name": "Falling For You",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "free_champagne",
@@ -294,7 +299,7 @@
       "Name": "Free Champagne",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "kamikaze",
@@ -348,16 +353,16 @@
       "ID": "tough_decision",
       "SetID": "d4f4pll",
       "Name": "Tough Decision",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 446
+      "UsersEstimate": 443
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 475,
+      "Progressed": 476,
       "Completed": 16
     }
   ],
@@ -365,8 +370,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-04T16:06:18.2992011+00:00",
+  "LastChanged_Achievements": "2023-06-04T17:07:08.3030277+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:15.4237814+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:57:06.0911377+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:06:18.2992185+00:00"
+  "LastUpdate_Ratings": "2023-06-04T16:57:18.4871566+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:07:08.3030433+00:00"
 }

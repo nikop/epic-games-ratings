@@ -5,21 +5,21 @@ Rating: 4.44 (Ranked 631)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 26.00% | ~580 |
-| Confirming Suspicions | 21.00% | ~469 |
-| The Kraken Wakes | 16.00% | ~357 |
-| It's Starting to Crack | 14.00% | ~312 |
-| Lord of War | 12.00% | ~268 |
-| Change the Channel | 12.00% | ~268 |
+| Meeting Resistance | 26.00% | ~582 |
+| Confirming Suspicions | 21.00% | ~470 |
+| The Kraken Wakes | 16.00% | ~358 |
+| It's Starting to Crack | 14.00% | ~314 |
+| Lord of War | 12.00% | ~269 |
+| Change the Channel | 12.00% | ~269 |
 | Resourceful | 11.00% | ~246 |
-| Taking it back | 10.00% | ~223 |
-| Organ Grinder | 9.00% | ~201 |
+| Taking it back | 10.00% | ~224 |
+| Organ Grinder | 9.00% | ~202 |
 | As Quiet as a Mouse | 8.00% | ~179 |
 | Target America | 8.00% | ~179 |
-| Enemy at the Gates | 7.00% | ~156 |
-| Just a Flesh Wound | 7.00% | ~156 |
-| Sharpshooter | 7.00% | ~156 |
-| Explosive Efficiency | 7.00% | ~156 |
+| Enemy at the Gates | 7.00% | ~157 |
+| Just a Flesh Wound | 7.00% | ~157 |
+| Sharpshooter | 7.00% | ~157 |
+| Explosive Efficiency | 7.00% | ~157 |
 | Liberté | 6.00% | ~134 |
 | Opposing Force | 6.00% | ~134 |
 | Gunslinger | 6.00% | ~134 |
@@ -29,11 +29,11 @@ Rating: 4.44 (Ranked 631)
 | Der Geist | 5.00% | ~112 |
 | Close Quarters | 5.00% | ~112 |
 | Snake in the Grass | 5.00% | ~112 |
-| Climbing the Ladder | 4.00% | ~89 |
-| No Stone Unturned | 4.00% | ~89 |
-| Skirmisher | 4.00% | ~89 |
-| Set Europe Ablaze | 4.00% | ~89 |
-| Brains of the Operation | 4.00% | ~89 |
+| Climbing the Ladder | 4.00% | ~90 |
+| No Stone Unturned | 4.00% | ~90 |
+| Skirmisher | 4.00% | ~90 |
+| Set Europe Ablaze | 4.00% | ~90 |
+| Brains of the Operation | 4.00% | ~90 |
 | Precision Is Key | 3.00% | ~67 |
 | Rigged to Blow | 2.00% | ~45 |
 | My Little Friend | 2.00% | ~45 |
@@ -45,9 +45,9 @@ Rating: 4.44 (Ranked 631)
 | Herr Today, Gone Tomorrow | 1.00% | ~22 |
 | Operation Foxley | 1.00% | ~22 |
 | Don't hold your breath | 0.90% | ~20 |
-| Ghost of Falaise | 0.80% | ~17 |
+| Siegebreaker | 0.80% | ~18 |
+| Ghost of Falaise | 0.80% | ~18 |
 | Tinkerer | 0.70% | ~16 |
-| Siegebreaker | 0.70% | ~15 |
 | Last Resort | 0.60% | ~13 |
 | From Paris with Love | 0.50% | ~11 |
 | Burn after reading | 0.40% | ~9 |
@@ -77,8 +77,8 @@ Rating: 4.44 (Ranked 631)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,232 (Ranked 149)  
-Completed: 2 (0.09%) (Ranked 169)  
+Progressed: 2,240 (Ranked 149)  
+Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,7 +121,7 @@ Completed: 2 (0.09%) (Ranked 169)
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
 | 2023-06-03 | 2,182 | 2 |
-| 2023-06-04 | 2,232 | 2 |
+| 2023-06-04 | 2,240 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

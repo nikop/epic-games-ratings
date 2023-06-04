@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.60 (Ranked 386)  
+Rating: 4.60 (Ranked 385)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,8 +18,8 @@ Number of Ratings: 46  (23.09.2022)
 | Scion | 11.00% | ~17 |
 | Glare | 11.00% | ~17 |
 | Sharpened Vessel | 11.00% | ~63 |
+| Jawcrab | 10.00% | ~57 |
 | Host | 9.00% | ~14 |
-| Jawcrab | 9.00% | ~51 |
 | Feast | 9.00% | ~51 |
 | Shapely | 8.00% | ~46 |
 | Jawstag | 8.00% | ~46 |
@@ -50,7 +50,7 @@ Number of Ratings: 46  (23.09.2022)
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 572 (Ranked 196)  
-Completed: 0 (0.00%) (Ranked 211)  
+Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

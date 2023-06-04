@@ -38,10 +38,10 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 4.00% | ~90 |
 | Renaissance man | 4.00% | ~90 |
 | Tank commander | 4.00% | ~90 |
+| Trick shot marksman | 4.00% | ~90 |
 | Cops called! | 3.00% | ~67 |
 | G.O.A.T. status | 3.00% | ~67 |
 | Hoarder | 3.00% | ~67 |
-| Trick shot marksman | 3.00% | ~67 |
 | We get it, you're good | 3.00% | ~67 |
 | Cross lock country | 2.00% | ~45 |
 | Many plys later... | 2.00% | ~45 |
@@ -56,7 +56,7 @@ Number of Ratings: 111  (23.09.2022)
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,243 (Ranked 148)  
-Completed: 0 (0.00%) (Ranked 211)  
+Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

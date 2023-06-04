@@ -6,9 +6,9 @@
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 111,
-  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2666,9 +2666,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9516,
+  "EOS_Progressed": 9522,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5486,6 +5486,11 @@
       "Time": "2023-06-04T16:06:26.5702088+00:00",
       "NumProgressed": 9516,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T17:07:17.6948434+00:00",
+      "NumProgressed": 9522,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5497,7 +5502,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "02_BurningCity",
@@ -5513,7 +5518,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "04_FithCrusade",
@@ -5569,7 +5574,7 @@
       "Name": "Path of the Azata",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "11_PathOfAeon",
@@ -5591,9 +5596,9 @@
       "ID": "13_PathOfLich",
       "SetID": "989of5o",
       "Name": "Path of the Lich",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 190
     },
     {
       "ID": "14_PathOfSwarm",
@@ -5625,7 +5630,7 @@
       "Name": "Transformation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "18_MythicChoices",
@@ -5633,7 +5638,7 @@
       "Name": "Mythic Choices",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "19_EqualToAroden",
@@ -5681,7 +5686,7 @@
       "Name": "The Legacy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "25_MasterfulDispell",
@@ -5697,7 +5702,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "28_GreatUpstart",
@@ -5705,7 +5710,7 @@
       "Name": "Great Upstart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "29_StrategicVictory",
@@ -5745,7 +5750,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -5841,7 +5846,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "46_AllPathsOpen",
@@ -5849,7 +5854,7 @@
       "Name": "All Paths Open",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -5873,7 +5878,7 @@
       "Name": "A Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -5921,7 +5926,7 @@
       "Name": "Next-Door Play",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "56_GetToad",
@@ -5929,7 +5934,7 @@
       "Name": "Get the Toad",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "57_PathOfDevil",
@@ -6424,21 +6429,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8298,
+      "Progressed": 8304,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9516,
+      "Progressed": 9522,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-04T04:58:36.9677587+00:00",
-  "LastChanged_Achievements": "2023-06-04T16:06:26.5702083+00:00",
+  "LastChanged_Achievements": "2023-06-04T17:07:17.694843+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:58:19.0826125+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:06:26.5703933+00:00"
+  "LastUpdate_Ratings": "2023-06-04T16:58:42.0307142+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:07:17.6950328+00:00"
 }

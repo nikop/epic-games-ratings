@@ -6,9 +6,9 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1700,
+  "EOS_Progressed": 1701,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -955,6 +955,11 @@
       "Time": "2023-06-04T13:09:02.2433228+00:00",
       "NumProgressed": 1700,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-04T17:07:16.2595447+00:00",
+      "NumProgressed": 1701,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -974,7 +979,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ACHV_03",
@@ -1100,9 +1105,9 @@
       "ID": "ACHV_18",
       "SetID": "8p5mlmc",
       "Name": "True Survivor",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 357
     },
     {
       "ID": "ACHV_19",
@@ -1166,7 +1171,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "ACHV_27",
@@ -1268,9 +1273,9 @@
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1293
     },
     {
       "ID": "ACHV_40",
@@ -1421,7 +1426,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1700,
+      "Progressed": 1701,
       "Completed": 10
     }
   ],
@@ -1429,8 +1434,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-04T16:06:25.1860616+00:00",
+  "LastChanged_Achievements": "2023-06-04T17:07:16.2595441+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:57.1438675+00:00",
-  "LastUpdate_Ratings": "2023-06-04T16:00:33.5449502+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:06:25.1861219+00:00"
+  "LastUpdate_Ratings": "2023-06-04T17:01:35.8146161+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:07:16.2596045+00:00"
 }

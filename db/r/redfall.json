@@ -6,9 +6,9 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1659,
+  "EOS_Progressed": 1660,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1750,6 +1750,11 @@
       "Time": "2023-06-04T11:02:16.2272256+00:00",
       "NumProgressed": 1659,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T17:02:05.4494218+00:00",
+      "NumProgressed": 1660,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1785,7 +1790,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "Achievement_006",
@@ -1809,7 +1814,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "Achievement_009",
@@ -1825,7 +1830,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "Achievement_011",
@@ -1897,7 +1902,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "Achievement_020",
@@ -1969,7 +1974,7 @@
       "Name": "You Clean It Up",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Achievement_029",
@@ -1977,7 +1982,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "Achievement_030",
@@ -2017,7 +2022,7 @@
       "Name": "Catch and Release",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "Achievement_035",
@@ -2065,7 +2070,7 @@
       "Name": "Heart Attack",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "Achievement_041",
@@ -2097,7 +2102,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "Achievement_046",
@@ -2288,7 +2293,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1659,
+      "Progressed": 1660,
       "Completed": 0
     }
   ],
@@ -2296,8 +2301,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-31T19:57:47.4503842+00:00",
-  "LastChanged_Achievements": "2023-06-04T16:00:56.4568142+00:00",
+  "LastChanged_Achievements": "2023-06-04T17:02:05.4494209+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:59.53368+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:57:49.0917305+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:00:56.4569022+00:00"
+  "LastUpdate_Ratings": "2023-06-04T16:58:04.6702408+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:02:05.4497106+00:00"
 }

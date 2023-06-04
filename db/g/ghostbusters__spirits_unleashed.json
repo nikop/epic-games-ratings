@@ -6,9 +6,9 @@
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 93,
-  "Ranking_EOS_Completed": 147,
+  "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1128,9 +1128,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22637,
+  "EOS_Progressed": 22641,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4508,6 +4508,11 @@
       "Time": "2023-06-04T16:06:18.3465175+00:00",
       "NumProgressed": 22637,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-04T17:07:08.4054219+00:00",
+      "NumProgressed": 22641,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -4519,7 +4524,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16525
+      "UsersEstimate": 16528
     },
     {
       "ID": "Animated",
@@ -4527,7 +4532,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 5659
+      "UsersEstimate": 5660
     },
     {
       "ID": "Back_Off",
@@ -4535,7 +4540,7 @@
       "Name": "Back Off",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 8149
+      "UsersEstimate": 8151
     },
     {
       "ID": "Best_Insurance",
@@ -4543,7 +4548,7 @@
       "Name": "We have the best insurance",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6112
+      "UsersEstimate": 6113
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -4559,7 +4564,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9281
+      "UsersEstimate": 9283
     },
     {
       "ID": "Collect_Spores",
@@ -4567,7 +4572,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11771
+      "UsersEstimate": 11773
     },
     {
       "ID": "Collector",
@@ -4575,7 +4580,7 @@
       "Name": "Collector",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5433
+      "UsersEstimate": 5434
     },
     {
       "ID": "Cultured",
@@ -4583,7 +4588,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11998
+      "UsersEstimate": 12000
     },
     {
       "ID": "Daily_Dose",
@@ -4591,7 +4596,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7923
+      "UsersEstimate": 7924
     },
     {
       "ID": "Diabolical",
@@ -4599,7 +4604,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3622
+      "UsersEstimate": 3623
     },
     {
       "ID": "Discovery",
@@ -4607,7 +4612,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 14035
+      "UsersEstimate": 14037
     },
     {
       "ID": "Dont_Need_These",
@@ -4623,7 +4628,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5433
+      "UsersEstimate": 5434
     },
     {
       "ID": "Efficient",
@@ -4631,7 +4636,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14488
+      "UsersEstimate": 14490
     },
     {
       "ID": "Escape_Artist",
@@ -4639,7 +4644,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3622
+      "UsersEstimate": 3623
     },
     {
       "ID": "Fragile_Panes",
@@ -4647,7 +4652,7 @@
       "Name": "Fragile Panes",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "Fully_Upgraded",
@@ -4655,7 +4660,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12450
+      "UsersEstimate": 12453
     },
     {
       "ID": "GB_In_Training",
@@ -4663,7 +4668,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 7017
+      "UsersEstimate": 7019
     },
     {
       "ID": "Ghost_Expert",
@@ -4679,7 +4684,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6791
+      "UsersEstimate": 6792
     },
     {
       "ID": "Legions",
@@ -4687,7 +4692,7 @@
       "Name": "Legions",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6112
+      "UsersEstimate": 6113
     },
     {
       "ID": "Liability",
@@ -4735,7 +4740,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5886
+      "UsersEstimate": 5887
     },
     {
       "ID": "Reckless",
@@ -4751,7 +4756,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4527
+      "UsersEstimate": 4528
     },
     {
       "ID": "Rift_Seeker",
@@ -4767,7 +4772,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5886
+      "UsersEstimate": 5887
     },
     {
       "ID": "Rivalry",
@@ -4783,7 +4788,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3622
+      "UsersEstimate": 3623
     },
     {
       "ID": "Side_Hustle",
@@ -4791,7 +4796,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "Skilled",
@@ -4799,7 +4804,7 @@
       "Name": "Skilled",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5659
+      "UsersEstimate": 5660
     },
     {
       "ID": "Solo_Capture",
@@ -4807,7 +4812,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7244
+      "UsersEstimate": 7245
     },
     {
       "ID": "Stunner",
@@ -4815,7 +4820,7 @@
       "Name": "Stunner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6112
+      "UsersEstimate": 6113
     },
     {
       "ID": "Stylish",
@@ -4823,7 +4828,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19468
+      "UsersEstimate": 19471
     },
     {
       "ID": "Summoner",
@@ -4831,7 +4836,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6112
+      "UsersEstimate": 6113
     },
     {
       "ID": "Surprise",
@@ -4839,7 +4844,7 @@
       "Name": "Surprise!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "Swift_Removers",
@@ -4847,7 +4852,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 12677
+      "UsersEstimate": 12679
     },
     {
       "ID": "Teamwork",
@@ -4855,7 +4860,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9960
+      "UsersEstimate": 9962
     },
     {
       "ID": "Terrifying",
@@ -4863,7 +4868,7 @@
       "Name": "Terrifying",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3848
+      "UsersEstimate": 3849
     },
     {
       "ID": "Therapeutic",
@@ -4879,7 +4884,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9960
+      "UsersEstimate": 9962
     },
     {
       "ID": "Tobins_Prodigy",
@@ -4887,7 +4892,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "Ultimate_Defense",
@@ -4903,7 +4908,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 11092
+      "UsersEstimate": 11094
     },
     {
       "ID": "Welcome_Crew",
@@ -4911,7 +4916,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7472
     },
     {
       "ID": "Whoopsie",
@@ -4926,7 +4931,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22637,
+      "Progressed": 22641,
       "Completed": 40
     }
   ],
@@ -4934,8 +4939,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-03T20:58:54.5371243+00:00",
-  "LastChanged_Achievements": "2023-06-04T16:06:18.3465171+00:00",
+  "LastChanged_Achievements": "2023-06-04T17:07:08.4054216+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6996784+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:58:57.0139525+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:06:18.3465845+00:00"
+  "LastUpdate_Ratings": "2023-06-04T16:59:29.8340452+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:07:08.4054914+00:00"
 }

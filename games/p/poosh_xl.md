@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pooshed Past 2500 | 72.00% | ~84 |
-| Destroyed 25 Obstacles | 49.00% | ~57 |
-| Obtained 50 PowerUps | 48.00% | ~56 |
-| Pooshed over 250000 | 48.00% | ~56 |
-| Pooshed Past 5000 | 26.00% | ~30 |
+| Pooshed Past 2500 | 71.00% | ~84 |
+| Destroyed 25 Obstacles | 48.00% | ~57 |
+| Obtained 50 PowerUps | 47.00% | ~55 |
+| Pooshed over 250000 | 47.00% | ~55 |
+| Pooshed Past 5000 | 25.00% | ~30 |
 | Terrible Start | 17.00% | ~20 |
 | Challenge 01 | 9.00% | ~11 |
 | Pooshed Past 7500 | 9.00% | ~11 |
@@ -22,11 +22,11 @@
 | Challenge 08 | 2.00% | ~2 |
 | Challenge 09 | 2.00% | ~2 |
 | Challenge 10 | 2.00% | ~2 |
-| Challenge 11 | 0.90% | ~1 |
-| Challenge 12 | 0.90% | ~1 |
+| Challenge 11 | 0.80% | ~1 |
+| Challenge 12 | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 268)  
-Completed: 1 (0.85%) (Ranked 93)  
+Progressed: 118 (Ranked 268)  
+Completed: 1 (0.85%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,4 +57,4 @@ Completed: 1 (0.85%) (Ranked 93)
 | 2023-06-01 | 110 | 0 |
 | 2023-06-02 | 113 | 1 |
 | 2023-06-03 | 115 | 1 |
-| 2023-06-04 | 117 | 1 |
+| 2023-06-04 | 118 | 1 |

@@ -6,28 +6,29 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 16.00% | ~1,523 |
+| Devoured by Darkness | 16.00% | ~1,524 |
 | Burning City | 11.00% | ~1,047 |
 | A Spark | 11.00% | ~1,047 |
-| Mythic Choices | 9.00% | ~856 |
-| Defender's Heart | 9.00% | ~856 |
-| Banner over the Citadel | 8.00% | ~761 |
-| Queen's Gratitude | 7.00% | ~666 |
+| Mythic Choices | 9.00% | ~857 |
+| Defender's Heart | 9.00% | ~857 |
+| Banner over the Citadel | 8.00% | ~762 |
+| Queen's Gratitude | 7.00% | ~667 |
 | Fifth Crusade | 5.00% | ~476 |
 | Embrace of the Abyss | 4.00% | ~381 |
 | Path of the Angel | 4.00% | ~381 |
 | Demonic and Divine | 4.00% | ~381 |
-| Path of the Azata | 3.00% | ~285 |
-| Transformation | 3.00% | ~285 |
-| The Legacy | 3.00% | ~285 |
-| Great Upstart | 3.00% | ~285 |
-| Voice from Your Dreams | 3.00% | ~285 |
-| All Paths Open | 3.00% | ~285 |
-| A Flame | 3.00% | ~285 |
-| Next-Door Play | 3.00% | ~285 |
-| Get the Toad | 3.00% | ~285 |
+| Path of the Azata | 3.00% | ~286 |
+| Transformation | 3.00% | ~286 |
+| The Legacy | 3.00% | ~286 |
+| Great Upstart | 3.00% | ~286 |
+| Voice from Your Dreams | 3.00% | ~286 |
+| All Paths Open | 3.00% | ~286 |
+| A Flame | 3.00% | ~286 |
+| Next-Door Play | 3.00% | ~286 |
+| Get the Toad | 3.00% | ~286 |
 | Heart of the Fallen Land | 2.00% | ~190 |
 | Path of the Trickster | 2.00% | ~190 |
+| Path of the Lich | 2.00% | ~190 |
 | Heroic Victory | 2.00% | ~190 |
 | Divide and Rule | 2.00% | ~190 |
 | Mythic Reinforcements | 2.00% | ~190 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Beware Still Water | 2.00% | ~166 |
 | Path of the Demon | 1.00% | ~95 |
 | Path of the Aeon | 1.00% | ~95 |
-| Path of the Lich | 1.00% | ~95 |
 | Capitulation Is Now Moot | 1.00% | ~95 |
 | Truly Important Deed | 1.00% | ~95 |
 | Abyssal Conspiracy | 0.90% | ~86 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,516 (Ranked 111)  
-Completed: 0 (0.00%) (Ranked 211)  
+Progressed: 9,522 (Ranked 111)  
+Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -168,7 +168,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 9,419 | 0 |
 | 2023-06-02 | 9,452 | 0 |
 | 2023-06-03 | 9,484 | 0 |
-| 2023-06-04 | 9,516 | 0 |
+| 2023-06-04 | 9,522 | 0 |
 ## Awards
 Max (Character Customization): 1,651  (Ranked 111)  
 Sum: 6,693 (Ranked 110)  

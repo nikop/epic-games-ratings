@@ -12,7 +12,7 @@
 | Amokuali Tower | 30.00% | ~24 |
 | Armored | 28.00% | ~22 |
 | Your Training Continues | 27.00% | ~21 |
-| Freedom | 23.00% | ~18 |
+| Freedom | 24.00% | ~19 |
 | The Pride of Moozhaw | 23.00% | ~18 |
 | Winner | 20.00% | ~16 |
 | Omnia Vincit Amor | 18.00% | ~14 |
@@ -27,7 +27,7 @@
 | Vivid Dreams | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 79 (Ranked 284)  
-Completed: 1 (1.27%) (Ranked 79)  
+Completed: 1 (1.27%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

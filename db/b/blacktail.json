@@ -6,7 +6,7 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 140,
+  "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 443,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -724,6 +724,11 @@
       "Time": "2023-06-04T15:06:14.8947758+00:00",
       "NumProgressed": 442,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T17:06:50.5230983+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -767,7 +772,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Devoted",
@@ -951,7 +956,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Toxic",
@@ -990,7 +995,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 443,
       "Completed": 1
     }
   ],
@@ -998,8 +1003,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-04T16:06:02.4772909+00:00",
+  "LastChanged_Achievements": "2023-06-04T17:06:50.5230978+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:01.7126872+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:57:50.7156909+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:06:02.4773205+00:00"
+  "LastUpdate_Ratings": "2023-06-04T16:58:06.5810243+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:06:50.5231274+00:00"
 }

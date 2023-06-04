@@ -10,9 +10,9 @@ Number of Ratings: 58  (23.09.2022)
 | Space Traveler | 80.00% | ~742 |
 | Voices from the Past | 79.00% | ~733 |
 | Demigod | 77.00% | ~715 |
-| The Great Destroyer | 75.00% | ~696 |
+| The Great Destroyer | 76.00% | ~705 |
 | Shields Down | 73.00% | ~677 |
-| Safe Home | 68.00% | ~631 |
+| Safe Home | 69.00% | ~640 |
 | Helping Hand | 67.00% | ~622 |
 | Paragon | 64.00% | ~594 |
 | Old Days Born Anew | 63.00% | ~585 |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 928 (Ranked 178)  
-Completed: 11 (1.19%) (Ranked 81)  
+Completed: 11 (1.19%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

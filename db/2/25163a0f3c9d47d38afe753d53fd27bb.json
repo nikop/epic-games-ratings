@@ -1169,9 +1169,9 @@
       "ID": "LEVEL_019",
       "SetID": "212bg48",
       "Name": "Calling Mr. Joe",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "LEVEL_020",
@@ -1185,9 +1185,9 @@
       "ID": "LEVEL_021",
       "SetID": "212bg48",
       "Name": "Island in the center of the island",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "LEVEL_022",
@@ -1272,8 +1272,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-04T16:04:03.7749505+00:00",
+  "LastChanged_Achievements": "2023-06-04T17:04:28.3217333+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:56:57.9805262+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:04:03.7749821+00:00"
+  "LastUpdate_Ratings": "2023-06-04T16:57:08.5376114+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:04:28.3217634+00:00"
 }

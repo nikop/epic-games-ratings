@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2915,
+  "EOS_Progressed": 2916,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1814,6 +1814,11 @@
       "Time": "2023-06-04T16:06:21.0925367+00:00",
       "NumProgressed": 2915,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-04T17:07:11.7048054+00:00",
+      "NumProgressed": 2916,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1959,9 +1964,9 @@
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2304
     },
     {
       "ID": "campaign20",
@@ -1985,7 +1990,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "campaign5",
@@ -2033,7 +2038,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "scenario2",
@@ -2088,7 +2093,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2915,
+      "Progressed": 2916,
       "Completed": 9
     }
   ],
@@ -2096,8 +2101,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-04T16:06:21.0925364+00:00",
+  "LastChanged_Achievements": "2023-06-04T17:07:11.704805+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-04T16:00:16.14145+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:06:21.092568+00:00"
+  "LastUpdate_Ratings": "2023-06-04T17:01:15.2967113+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:07:11.7048379+00:00"
 }

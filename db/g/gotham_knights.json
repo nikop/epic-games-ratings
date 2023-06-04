@@ -6,7 +6,7 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
@@ -1382,9 +1382,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63581,
+  "EOS_Progressed": 63591,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1038,
+  "EOS_NewPlayers": 1043,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5037,6 +5037,11 @@
       "Time": "2023-06-04T16:06:23.5810791+00:00",
       "NumProgressed": 63581,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-04T17:07:14.5693554+00:00",
+      "NumProgressed": 63591,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5232,7 +5237,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -5392,7 +5397,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -5512,7 +5517,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -5535,13 +5540,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63581,
+      "Progressed": 63591,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33861,
+      "Progressed": 33871,
       "Completed": 2644
     }
   ],
@@ -5549,8 +5554,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-04T03:22:41.9796942+00:00",
-  "LastChanged_Achievements": "2023-06-04T16:06:23.5810786+00:00",
+  "LastChanged_Achievements": "2023-06-04T17:07:14.5693549+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:59:47.0154551+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:06:23.5811657+00:00"
+  "LastUpdate_Ratings": "2023-06-04T17:00:36.8458952+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:07:14.5694342+00:00"
 }

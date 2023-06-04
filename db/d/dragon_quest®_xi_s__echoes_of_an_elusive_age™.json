@@ -2,13 +2,13 @@
   "ID": "94a50905f377470c84c8e4b7c38f9cdd",
   "Name": "DRAGON QUEST\u00AE XI S: Echoes of an Elusive Age\u2122",
   "ProductSlug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
-  "Ranking_Rating": 50,
+  "Ranking_Rating": 49,
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 433,
-  "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-09-24T09:00:00+00:00",
     "PcReleaseDate": "2020-12-04T17:00:00+00:00",
@@ -585,6 +585,6 @@
   "FirstSeen": "2022-07-22T20:19:40.4195288+00:00",
   "LastChanged": "2023-06-04T13:58:59.0095862+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:43.0571752+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:59:23.6979408+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:05:04.0700675+00:00"
+  "LastUpdate_Ratings": "2023-06-04T17:00:07.4857444+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:05:40.2649982+00:00"
 }

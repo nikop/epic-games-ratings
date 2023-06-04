@@ -11,8 +11,8 @@ Number of Ratings: 53  (23.09.2022)
 | Every beginning is difficult | 63.00% | ~383 |
 | 3, 2, 1, mine | 55.00% | ~334 |
 | Gofer | 55.00% | ~334 |
+| O Captain! My Captain! | 54.00% | ~328 |
 | Seafarer | 53.00% | ~322 |
-| O Captain! My Captain! | 53.00% | ~322 |
 | Greed for gold | 42.00% | ~255 |
 | Intangible | 41.00% | ~249 |
 | I'm out of here for a while | 41.00% | ~249 |
@@ -30,8 +30,8 @@ Number of Ratings: 53  (23.09.2022)
 | Conquistador | 13.00% | ~79 |
 | Panic buying | 11.00% | ~67 |
 | Just a scratch | 9.00% | ~55 |
+| All mine! | 9.00% | ~55 |
 | Your vessel, my vessel | 9.00% | ~55 |
-| All mine! | 8.00% | ~49 |
 | Paths of Glory | 8.00% | ~49 |
 | Panel of experts | 8.00% | ~49 |
 | Maker | 7.00% | ~43 |
@@ -58,7 +58,7 @@ Number of Ratings: 53  (23.09.2022)
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 608 (Ranked 194)  
-Completed: 0 (0.00%) (Ranked 211)  
+Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

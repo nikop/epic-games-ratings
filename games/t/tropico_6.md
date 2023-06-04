@@ -6,25 +6,25 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,579 |
-| Un-Lonely Island | 48.00% | ~1,629 |
-| The Beginning of a Servantship | 46.00% | ~1,561 |
-| Trade Is My Trait | 37.00% | ~1,255 |
-| Number 18 | 25.00% | ~848 |
+| Just One...More...Term... | 76.00% | ~2,581 |
+| Un-Lonely Island | 48.00% | ~1,630 |
+| The Beginning of a Servantship | 46.00% | ~1,562 |
+| Trade Is My Trait | 37.00% | ~1,257 |
+| Number 18 | 25.00% | ~849 |
 | We Don't Have Time For That | 20.00% | ~679 |
 | The Governator | 18.00% | ~611 |
 | Caribbean Comrade | 17.00% | ~577 |
 | The Legend of Langostino | 17.00% | ~577 |
 | The Dreamer of Dreams | 16.00% | ~543 |
-| Happy Ending? | 11.00% | ~373 |
-| Go Sovereigns! | 11.00% | ~373 |
-| For Science! | 11.00% | ~373 |
-| Of Seals And Men | 10.00% | ~339 |
-| Shackadelic | 10.00% | ~339 |
-| Double Trouble | 9.00% | ~305 |
-| Firestarter | 8.00% | ~271 |
-| Make Tropico Great Again! | 8.00% | ~271 |
-| French Connection | 8.00% | ~271 |
+| Happy Ending? | 11.00% | ~374 |
+| Go Sovereigns! | 11.00% | ~374 |
+| For Science! | 11.00% | ~374 |
+| Of Seals And Men | 10.00% | ~340 |
+| Shackadelic | 10.00% | ~340 |
+| Double Trouble | 9.00% | ~306 |
+| Firestarter | 8.00% | ~272 |
+| Make Tropico Great Again! | 8.00% | ~272 |
+| French Connection | 8.00% | ~272 |
 | Don't Panic! | 7.00% | ~238 |
 | Computer Says "No" | 6.00% | ~204 |
 | Beware The Betman | 6.00% | ~204 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~34 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,393 (Ranked 135)  
-Completed: 1 (0.03%) (Ranked 189)  
+Progressed: 3,396 (Ranked 135)  
+Completed: 1 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,7 +92,7 @@ Completed: 1 (0.03%) (Ranked 189)
 | 2023-06-01 | 3,287 | 1 |
 | 2023-06-02 | 3,317 | 1 |
 | 2023-06-03 | 3,366 | 1 |
-| 2023-06-04 | 3,393 | 1 |
+| 2023-06-04 | 3,396 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 317)  
 Sum: 754 (Ranked 255)  

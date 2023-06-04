@@ -3,12 +3,12 @@
   "Name": "Marvel\u0027s Spider-Man Remastered",
   "ProductSlug": "marvels-spider-man-remastered",
   "Ranking_Rating": 26,
-  "Ranking_Popularity": 32,
+  "Ranking_Popularity": 31,
   "Ranking_PopularitySum": 53,
   "Ranking_EOS_Progress": 433,
-  "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-12T15:00:00+00:00",
     "PcReleaseDate": "2022-08-12T15:00:00+00:00",
@@ -3326,18 +3326,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 19307,
       "NumberOfAwardsMax": 11478
+    },
+    {
+      "Time": "2023-06-04T16:58:44.8984008+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 19321,
+      "NumberOfAwardsMax": 11489
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19307,
-  "NumberOfAwardsMax": 11478,
+  "NumberOfAwards": 19321,
+  "NumberOfAwardsMax": 11489,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11478
+      "Count": 11489
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3397,7 +3403,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 890
+      "Count": 893
     },
     {
       "Text": "This game is Educational",
@@ -3418,8 +3424,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-12T18:01:31.1852692+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
-  "LastChanged": "2023-06-04T07:58:58.5718103+00:00",
+  "LastChanged": "2023-06-04T16:58:44.8984006+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:34.8876203+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:58:21.4961712+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:04:36.4304562+00:00"
+  "LastUpdate_Ratings": "2023-06-04T16:58:44.8984012+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:05:07.2624112+00:00"
 }

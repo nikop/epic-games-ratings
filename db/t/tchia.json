@@ -6,9 +6,9 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 121,
+  "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6305,
+  "EOS_Progressed": 6306,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
@@ -2958,6 +2958,11 @@
       "Time": "2023-06-04T16:05:51.2618592+00:00",
       "NumProgressed": 6305,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-04T17:06:36.5236113+00:00",
+      "NumProgressed": 6306,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -2969,7 +2974,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ARRR",
@@ -2993,7 +2998,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -3136,7 +3141,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6305,
+      "Progressed": 6306,
       "Completed": 23
     }
   ],
@@ -3144,8 +3149,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-04T16:05:51.2618587+00:00",
+  "LastChanged_Achievements": "2023-06-04T17:06:36.5236107+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:57:55.4309713+00:00",
-  "LastUpdate_Achievements": "2023-06-04T16:05:51.2618931+00:00"
+  "LastUpdate_Ratings": "2023-06-04T16:58:12.8093584+00:00",
+  "LastUpdate_Achievements": "2023-06-04T17:06:36.523648+00:00"
 }
