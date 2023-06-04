@@ -11,8 +11,8 @@
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
 | 11 | [Island Cities](games/i/island_cities.md) | 14.62% |
-| 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.03% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.95% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 15 | [Without Escape](games/w/without_escape.md) | 10.00% |
@@ -22,10 +22,10 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.12% |
 | 21 | [Remains](games/r/remains.md) | 8.11% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.84% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.76% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.74% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Scorn](games/s/scorn.md) | 6.85% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.81% |
 | 27 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.42% |
 | 29 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -76,7 +76,7 @@
 | 74 | [Frogun](games/f/frogun.md) | 1.51% |
 | 74 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.51% |
 | 74 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 77 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.47% |
+| 77 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.45% |
 | 78 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
 | 79 | [Ten Dates](games/t/ten_dates.md) | 1.30% |
 | 80 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.25% |
@@ -114,8 +114,8 @@
 | 111 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 113 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 113 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
-| 115 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 116 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
+| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
+| 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 117 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
 | 117 | [Tails of Iron](games/t/tails_of_iron.md) | 0.38% |
 | 119 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
