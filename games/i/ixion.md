@@ -24,13 +24,13 @@ Rating: 4.57 (Ranked 441)
 | Power Outage | 3.00% | ~73 |
 | Necessary Enhancement | 3.00% | ~73 |
 | Please Make it Stop! | 3.00% | ~73 |
-| Man's Best Friend | 2.00% | ~48 |
-| Oats | 2.00% | ~48 |
-| Sightseeing | 2.00% | ~48 |
-| Access Granted | 2.00% | ~48 |
-| Convenient Transport | 2.00% | ~48 |
-| All in Good Health | 2.00% | ~48 |
-| From the Past | 2.00% | ~48 |
+| Man's Best Friend | 2.00% | ~49 |
+| Oats | 2.00% | ~49 |
+| Sightseeing | 2.00% | ~49 |
+| Access Granted | 2.00% | ~49 |
+| Convenient Transport | 2.00% | ~49 |
+| All in Good Health | 2.00% | ~49 |
+| From the Past | 2.00% | ~49 |
 | What They Hide From Us | 1.00% | ~24 |
 | ...  in a finite world | 1.00% | ~24 |
 | In Dolos We Trust | 1.00% | ~24 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,425 (Ranked 145)  
+Progressed: 2,427 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 2,350 | 0 |
 | 2023-06-02 | 2,386 | 0 |
 | 2023-06-03 | 2,408 | 0 |
-| 2023-06-04 | 2,425 | 0 |
+| 2023-06-04 | 2,427 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

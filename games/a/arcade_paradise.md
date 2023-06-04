@@ -5,7 +5,7 @@ Rating: 4.58 (Ranked 422)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~592 |
+| Pushing a pull door | 97.00% | ~598 |
 | Fetch Quest Complete | 91.00% | ~561 |
 | I can't wait! | 83.00% | ~512 |
 | Swish | 56.00% | ~346 |

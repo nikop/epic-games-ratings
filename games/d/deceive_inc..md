@@ -20,12 +20,12 @@ Rating: 4.65 (Ranked 295)
 | Private Collection | 25.00% | ~1,641 |
 | Hostile Takeover | 25.00% | ~1,641 |
 | Assistant Accountant | 24.00% | ~1,575 |
+| Dr. No Kill | 24.00% | ~1,575 |
 | The Living Portrait | 24.00% | ~1,575 |
 | My Motto, My Creed | 24.00% | ~1,575 |
 | Killer Looks | 24.00% | ~1,575 |
 | Keycards Royale | 23.00% | ~1,510 |
 | In It to Win It | 23.00% | ~1,510 |
-| Dr. No Kill | 23.00% | ~1,510 |
 | Security Supervisor | 10.00% | ~656 |
 | License to Thrill | 8.00% | ~525 |
 | Social of Solace | 8.00% | ~525 |

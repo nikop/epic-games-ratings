@@ -6,19 +6,19 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 59.00% | ~180 |
+| The Adventure Begins | 58.00% | ~177 |
 | Cartographer | 52.00% | ~159 |
-| A Strange Artefact | 48.00% | ~146 |
-| Insomnia | 44.00% | ~134 |
+| A Strange Artefact | 48.00% | ~147 |
+| Insomnia | 44.00% | ~135 |
 | From Whence we Came | 40.00% | ~122 |
 | Lost & Found & Lost Again | 38.00% | ~116 |
 | Fire and Flood | 36.00% | ~110 |
 | Spooky! | 34.00% | ~104 |
 | Shennong Herbalist | 31.00% | ~95 |
 | Treasure Hunt | 31.00% | ~95 |
-| Good Mama | 30.00% | ~92 |
-| O Captain My Captain | 28.00% | ~85 |
-| Plunderer | 26.00% | ~79 |
+| Good Mama | 29.00% | ~89 |
+| O Captain My Captain | 28.00% | ~86 |
+| Plunderer | 26.00% | ~80 |
 | Taxonomist | 25.00% | ~76 |
 | Uncertain Loyalties | 23.00% | ~70 |
 | Traveller | 22.00% | ~67 |
@@ -38,13 +38,13 @@ Number of Ratings: 20  (23.09.2022)
 | Plays Well With Others | 13.00% | ~40 |
 | Discovery | 12.00% | ~37 |
 | Very Classy | 11.00% | ~34 |
-| And Here Is Your Statue | 10.00% | ~30 |
-| Under the Table | 10.00% | ~30 |
-| It's Complicated | 10.00% | ~30 |
-| Cold Blood, Warm Heart | 9.00% | ~27 |
-| Errand Runner | 9.00% | ~27 |
+| And Here Is Your Statue | 10.00% | ~31 |
+| Under the Table | 9.00% | ~28 |
+| It's Complicated | 9.00% | ~28 |
+| Cold Blood, Warm Heart | 9.00% | ~28 |
 | SCHMETTERLING | 8.00% | ~24 |
 | The Great Library | 8.00% | ~24 |
+| Errand Runner | 8.00% | ~24 |
 | No Laughing Matter | 7.00% | ~21 |
 | Level Up | 7.00% | ~21 |
 | Zookeeper | 6.00% | ~18 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.70% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 305 (Ranked 223)  
+Progressed: 306 (Ranked 223)  
 Completed: 1 (0.33%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.33%) (Ranked 123)
 | 2023-05-31 | 302 | 1 |
 | 2023-06-01 | 303 | 1 |
 | 2023-06-02 | 304 | 1 |
-| 2023-06-04 | 305 | 1 |
+| 2023-06-04 | 306 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

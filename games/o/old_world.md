@@ -41,8 +41,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 41.00% | ~4,806 |
 | Christianity | 41.00% | ~4,806 |
 | Roman Paganism | 41.00% | ~4,806 |
+| Great | 40.00% | ~4,689 |
 | Lighthouse | 40.00% | ~4,689 |
-| Great | 39.00% | ~4,572 |
 | Able Difficulty | 39.00% | ~4,572 |
 | Ambitious | 38.00% | ~4,455 |
 | Carthaginian Paganism | 38.00% | ~4,455 |

@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2226,
+  "EOS_Progressed": 2230,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2470,6 +2470,11 @@
       "Time": "2023-06-04T14:05:20.0311616+00:00",
       "NumProgressed": 2226,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-04T15:06:19.2253552+00:00",
+      "NumProgressed": 2230,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2529,7 +2534,7 @@
       "Name": "Fields of Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -2545,7 +2550,7 @@
       "Name": "Organ Grinder",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2561,7 +2566,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2649,7 +2654,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2689,7 +2694,7 @@
       "Name": "Lord of War",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2697,7 +2702,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -2713,7 +2718,7 @@
       "Name": "Der Geist",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -2729,7 +2734,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2737,7 +2742,7 @@
       "Name": "Close Quarters",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -2745,7 +2750,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -2817,7 +2822,7 @@
       "Name": "Change the Channel",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2951,9 +2956,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -3048,13 +3053,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2177,
+      "Progressed": 2181,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2226,
+      "Progressed": 2230,
       "Completed": 2
     }
   ],
@@ -3062,8 +3067,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-04T14:05:20.0311607+00:00",
+  "LastChanged_Achievements": "2023-06-04T15:06:19.2253546+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T14:00:02.0090171+00:00",
-  "LastUpdate_Achievements": "2023-06-04T14:05:20.0312442+00:00"
+  "LastUpdate_Ratings": "2023-06-04T15:00:54.251599+00:00",
+  "LastUpdate_Achievements": "2023-06-04T15:06:19.2254316+00:00"
 }

@@ -13,7 +13,7 @@ Number of Ratings: 58  (23.09.2022)
 | The Great Destroyer | 76.00% | ~705 |
 | Shields Down | 73.00% | ~677 |
 | Safe Home | 69.00% | ~640 |
-| Helping Hand | 67.00% | ~621 |
+| Helping Hand | 68.00% | ~630 |
 | Paragon | 64.00% | ~593 |
 | Old Days Born Anew | 63.00% | ~584 |
 | Full Arsenal | 57.00% | ~528 |

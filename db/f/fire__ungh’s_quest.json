@@ -305,9 +305,9 @@
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
       "SetID": "6od1ndi",
       "Name": "Kokakoka",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
@@ -393,9 +393,9 @@
       "ID": "Level_completed_010_010",
       "SetID": "6od1ndi",
       "Name": "AKRE!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 60,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "Monkey_IQ_test_passed_in_004",
@@ -442,8 +442,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-04T14:05:21.4017106+00:00",
+  "LastChanged_Achievements": "2023-06-04T15:06:20.8582777+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:17.2024584+00:00",
-  "LastUpdate_Ratings": "2023-06-04T13:59:27.0901929+00:00",
-  "LastUpdate_Achievements": "2023-06-04T14:05:21.4017275+00:00"
+  "LastUpdate_Ratings": "2023-06-04T15:00:10.0117809+00:00",
+  "LastUpdate_Achievements": "2023-06-04T15:06:20.8582977+00:00"
 }

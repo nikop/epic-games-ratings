@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Clean Sweep | 94.00% | ~350 |
 | Scavenger | 75.00% | ~279 |
-| Line of Duty | 72.00% | ~268 |
+| Line of Duty | 73.00% | ~272 |
 | Gunner | 55.00% | ~205 |
 | DocKing | 46.00% | ~171 |
 | What-A-Shot | 44.00% | ~164 |

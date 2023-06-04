@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2425,
+  "EOS_Progressed": 2427,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2076,6 +2076,11 @@
       "Time": "2023-06-04T14:05:19.2435845+00:00",
       "NumProgressed": 2425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T15:06:18.3847424+00:00",
+      "NumProgressed": 2427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2095,7 +2100,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_BASE_11",
@@ -2119,7 +2124,7 @@
       "Name": "Oats",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_BASE_15",
@@ -2215,7 +2220,7 @@
       "Name": "Sightseeing",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_BASE_27",
@@ -2303,7 +2308,7 @@
       "Name": "Access Granted",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_BASE_37",
@@ -2415,7 +2420,7 @@
       "Name": "Convenient Transport",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_BASE_52",
@@ -2431,7 +2436,7 @@
       "Name": "All in Good Health",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_BASE_56",
@@ -2519,7 +2524,7 @@
       "Name": "From the Past",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_BASE_8",
@@ -2542,13 +2547,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 606,
+      "Progressed": 608,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2425,
+      "Progressed": 2427,
       "Completed": 0
     }
   ],
@@ -2556,8 +2561,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-03T09:58:13.4383447+00:00",
-  "LastChanged_Achievements": "2023-06-04T14:05:19.243584+00:00",
+  "LastChanged_Achievements": "2023-06-04T15:06:18.3847417+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:41.734154+00:00",
-  "LastUpdate_Ratings": "2023-06-04T13:58:12.7184822+00:00",
-  "LastUpdate_Achievements": "2023-06-04T14:05:19.2436538+00:00"
+  "LastUpdate_Ratings": "2023-06-04T14:58:40.6457083+00:00",
+  "LastUpdate_Achievements": "2023-06-04T15:06:18.384809+00:00"
 }

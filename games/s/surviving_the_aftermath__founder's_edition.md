@@ -59,8 +59,8 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Adventurer | 1.00% | ~61 |
 | A Closer Look | 1.00% | ~61 |
 | True Survivor | 1.00% | ~61 |
+| Slimy yet Satisfying | 0.90% | ~55 |
 | Feng Shui | 0.90% | ~55 |
-| Slimy yet Satisfying | 0.80% | ~49 |
 | Finnished | 0.30% | ~18 |
 | Choo-choo! | 0.20% | ~12 |
 | Fun and Games | 0.10% | ~6 |

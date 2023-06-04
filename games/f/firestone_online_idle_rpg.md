@@ -5,34 +5,34 @@ Rating: 3.95 (Ranked 904)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,199 |
-| World Map | 80.00% | ~1,021 |
-| Temple of Eternals | 56.00% | ~715 |
-| Prestigious | 53.00% | ~676 |
-| Fellowship Power | 40.00% | ~510 |
-| Guild Power | 24.00% | ~306 |
-| Prestigious x10 | 21.00% | ~268 |
-| The game is on | 19.00% | ~242 |
+| Victor | 94.00% | ~1,202 |
+| World Map | 80.00% | ~1,023 |
+| Temple of Eternals | 56.00% | ~716 |
+| Prestigious | 53.00% | ~678 |
+| Fellowship Power | 40.00% | ~512 |
+| Guild Power | 24.00% | ~307 |
+| Prestigious x10 | 21.00% | ~269 |
+| The game is on | 19.00% | ~243 |
 | Exotic Merchant | 17.00% | ~217 |
-| Dragon Clicker | 16.00% | ~204 |
-| Miner Clicker | 16.00% | ~204 |
-| Inspection | 15.00% | ~191 |
+| Dragon Clicker | 16.00% | ~205 |
+| Miner Clicker | 16.00% | ~205 |
+| Inspection | 15.00% | ~192 |
 | Full Party | 14.00% | ~179 |
 | Dragon Master | 13.00% | ~166 |
 | Enlightenment | 13.00% | ~166 |
 | Hero inspection | 13.00% | ~166 |
 | Lieutenant | 12.00% | ~153 |
-| Milestone collector | 11.00% | ~140 |
-| Mysterious Rock | 11.00% | ~140 |
-| Natural Talent | 11.00% | ~140 |
-| Superior | 11.00% | ~140 |
-| The Unstoppable | 11.00% | ~140 |
+| Milestone collector | 11.00% | ~141 |
+| Mysterious Rock | 11.00% | ~141 |
+| Natural Talent | 11.00% | ~141 |
+| Superior | 11.00% | ~141 |
+| The Unstoppable | 11.00% | ~141 |
 | Scientist | 9.00% | ~115 |
 | Challenger | 8.00% | ~102 |
 | Daily Quest Completionist | 8.00% | ~102 |
 | The power of Awakening | 8.00% | ~102 |
-| Hunter | 7.00% | ~89 |
-| Scroll Master | 7.00% | ~89 |
+| Hunter | 7.00% | ~90 |
+| Scroll Master | 7.00% | ~90 |
 | Doing My Part | 6.00% | ~77 |
 | Frostfire Liberator | 6.00% | ~77 |
 | Mastery | 6.00% | ~77 |
@@ -60,7 +60,7 @@ Rating: 3.95 (Ranked 904)
 | Active Member | 1.00% | ~13 |
 | Ebony Jungle Liberator | 1.00% | ~13 |
 | The Alchemist | 1.00% | ~13 |
-| Arena Challenger | 0.90% | ~11 |
+| Arena Challenger | 0.90% | ~12 |
 | Legendary | 0.80% | ~10 |
 | Training makes a Pro player | 0.70% | ~9 |
 | Transmute | 0.60% | ~8 |
@@ -81,7 +81,7 @@ Rating: 3.95 (Ranked 904)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,276 (Ranked 162)  
+Progressed: 1,279 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 1 (0.08%) (Ranked 172)
 | 2023-06-01 | 1,249 | 1 |
 | 2023-06-02 | 1,257 | 1 |
 | 2023-06-03 | 1,267 | 1 |
-| 2023-06-04 | 1,276 | 1 |
+| 2023-06-04 | 1,279 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

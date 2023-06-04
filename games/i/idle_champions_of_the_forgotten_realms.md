@@ -126,6 +126,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~180 |
 | Dinosaur Racing | 0.20% | ~180 |
 | Elturel Has Fallen | 0.20% | ~180 |
+| Hailstorm! | 0.20% | ~112 |
 | Resolve Amongst Chaos | 0.20% | ~180 |
 | Avernus Frozen Over | 0.20% | ~112 |
 | Market Fluctuations | 0.20% | ~180 |
@@ -147,6 +148,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.20% | ~180 |
 | Overdue Rendezvous | 0.20% | ~180 |
 | Moose Tracks | 0.20% | ~112 |
+| The Sibriex | 0.20% | ~112 |
 | Witty Riposting | 0.20% | ~112 |
 | How Far Away is Thay | 0.20% | ~112 |
 | The Templar's Camp | 0.20% | ~180 |
@@ -366,7 +368,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~56 |
 | Everything is Awful | 0.10% | ~90 |
 | Earthquake! | 0.10% | ~56 |
-| Hailstorm! | 0.10% | ~56 |
 | All You Know Is Wrong | 0.10% | ~90 |
 | Shadow Stalkers | 0.10% | ~56 |
 | Once More Into The Breach | 0.10% | ~90 |
@@ -429,7 +430,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Taunting Lord | 0.10% | ~56 |
 | Durable Deep | 0.10% | ~90 |
 | Lone Wolf Party | 0.10% | ~56 |
-| The Sibriex | 0.10% | ~56 |
 | The Archduke's Blessing | 0.10% | ~56 |
 | A Neutral Party | 0.10% | ~56 |
 | Wrecked Flying Fortress | 0.10% | ~56 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,751 (Ranked 62)  
-Completed: 1,913 (2.13%) (Ranked 63)  
+Progressed: 89,761 (Ranked 62)  
+Completed: 1,914 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -545,7 +545,7 @@ Completed: 1,913 (2.13%) (Ranked 63)
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
-| 2023-06-04 | 89,751 | 1,913 |
+| 2023-06-04 | 89,761 | 1,914 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,030 (Ranked 37)  

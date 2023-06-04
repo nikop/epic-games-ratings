@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1215,
+  "EOS_Progressed": 1216,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -683,6 +683,11 @@
       "Time": "2023-06-04T13:08:51.8079328+00:00",
       "NumProgressed": 1215,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-04T15:06:27.0433187+00:00",
+      "NumProgressed": 1216,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -718,7 +723,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "13",
@@ -758,7 +763,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "18",
@@ -918,7 +923,7 @@
       "Name": "Over my dead body",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "9",
@@ -933,15 +938,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1215,
+      "Progressed": 1216,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-04T14:05:26.8490557+00:00",
+  "LastChanged_Achievements": "2023-06-04T15:06:27.043318+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.0417129+00:00",
-  "LastUpdate_Ratings": "2023-06-04T13:59:09.5726477+00:00",
-  "LastUpdate_Achievements": "2023-06-04T14:05:26.8490814+00:00"
+  "LastUpdate_Ratings": "2023-06-04T14:59:48.2599899+00:00",
+  "LastUpdate_Achievements": "2023-06-04T15:06:27.0433425+00:00"
 }

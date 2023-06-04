@@ -2,9 +2,9 @@
   "ID": "a32fec328323428da84e902b3d3f98fb",
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
-  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.86,
+  "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:01.034139+00:00",
@@ -539,6 +539,11 @@
       "Time": "2023-06-04T02:38:42.2987279+00:00",
       "NumProgressed": 116,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T15:03:37.5480059+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -550,7 +555,7 @@
       "Name": "Challenge 01",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Challenge 02",
@@ -566,7 +571,7 @@
       "Name": "Challenge 03",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Challenge 04",
@@ -574,7 +579,7 @@
       "Name": "Challenge 04",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Challenge 05",
@@ -662,7 +667,7 @@
       "Name": "Pooshed Past 10000",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Poosh Past 2500",
@@ -686,7 +691,7 @@
       "Name": "Pooshed Past 7500",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Poosh over 250000",
@@ -709,13 +714,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-06-04T14:03:22.1152178+00:00",
+  "LastChanged_Achievements": "2023-06-04T15:03:37.5480052+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:42.348695+00:00",
-  "LastUpdate_Ratings": "2023-06-04T13:57:23.4474823+00:00",
-  "LastUpdate_Achievements": "2023-06-04T14:03:22.1152339+00:00"
+  "LastUpdate_Ratings": "2023-06-04T14:57:42.0658886+00:00",
+  "LastUpdate_Achievements": "2023-06-04T15:03:37.5480228+00:00"
 }

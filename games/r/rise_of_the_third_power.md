@@ -8,10 +8,10 @@
 | Side Job | 78.00% | ~98 |
 | Bloodlust | 57.00% | ~71 |
 | Gettin' It Done | 54.00% | ~68 |
-| Feast | 42.00% | ~52 |
+| Feast | 43.00% | ~54 |
 | Attuned | 37.00% | ~46 |
+| Specialist | 34.00% | ~42 |
 | Opulent | 33.00% | ~41 |
-| Specialist | 33.00% | ~41 |
 | Sparkly | 30.00% | ~38 |
 | Ready to Rock | 22.00% | ~28 |
 | Teamwork | 22.00% | ~28 |

@@ -24,6 +24,7 @@
 | Show me your true self | 52.00% | ~12 |
 | Close the deal | 48.00% | ~11 |
 | GG | 43.00% | ~10 |
+| You've got mail! | 43.00% | ~10 |
 | Makeover | 43.00% | ~10 |
 | Ring-a-ding-ding | 43.00% | ~10 |
 | Pain in the hands | 43.00% | ~10 |
@@ -31,7 +32,6 @@
 | No posters allowed | 43.00% | ~10 |
 | Little genius | 43.00% | ~10 |
 | Shattered | 39.00% | ~9 |
-| You've got mail! | 39.00% | ~9 |
 | Memories | 39.00% | ~9 |
 | Singstar | 39.00% | ~9 |
 | Kill it! KILL IT! | 39.00% | ~9 |
@@ -40,9 +40,9 @@
 | Turn the last page | 30.00% | ~7 |
 | Cameodalic | 30.00% | ~7 |
 | Bahahahaha... | 30.00% | ~7 |
+| What a mess | 22.00% | ~5 |
 | Clever reference #451 | 22.00% | ~5 |
 | Posterboy! | 22.00% | ~5 |
-| What a mess | 17.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23 (Ranked 331)  
 Completed: 4 (17.39%) (Ranked 9)  

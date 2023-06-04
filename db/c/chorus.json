@@ -270,7 +270,7 @@
   ],
   "EOS_Progressed": 927,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -766,9 +766,9 @@
       "ID": "Finish5SideMissions",
       "SetID": "a6c395p",
       "Name": "Helping Hand",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 621
+      "UsersEstimate": 630
     },
     {
       "ID": "FinishAllSideMissions",
@@ -1094,8 +1094,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-06-04T14:05:33.6006545+00:00",
+  "LastChanged_Achievements": "2023-06-04T15:06:34.7672958+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:26.7111078+00:00",
-  "LastUpdate_Ratings": "2023-06-04T13:59:35.2434194+00:00",
-  "LastUpdate_Achievements": "2023-06-04T14:05:33.6006915+00:00"
+  "LastUpdate_Ratings": "2023-06-04T15:00:18.6735408+00:00",
+  "LastUpdate_Achievements": "2023-06-04T15:06:34.767331+00:00"
 }

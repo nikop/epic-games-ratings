@@ -6,16 +6,16 @@ Rating: 3.83 (Ranked 919)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I don't feel so good | 42.00% | ~468 |
-| Electrician | 33.00% | ~368 |
+| Electrician | 34.00% | ~379 |
 | Fear my botany powers, Mars | 31.00% | ~345 |
 | Zero Waste | 28.00% | ~312 |
+| I am the greatest botanist on this planet. | 28.00% | ~312 |
 | Bob The Builder | 28.00% | ~312 |
-| I am the greatest botanist on this planet. | 27.00% | ~301 |
 | Gardener | 23.00% | ~256 |
 | Miner | 23.00% | ~256 |
 | Houston we have a problem | 20.00% | ~223 |
-| Occupy Mars! | 19.00% | ~212 |
-| Detective | 16.00% | ~178 |
+| Occupy Mars! | 20.00% | ~223 |
+| Detective | 17.00% | ~189 |
 | The Collector | 13.00% | ~145 |
 | Get your hands dirty | 9.00% | ~100 |
 | All Wheel Trouble | 6.00% | ~67 |
@@ -27,7 +27,7 @@ Rating: 3.83 (Ranked 919)
 | Hard Landing | 1.00% | ~11 |
 | To infinity and beyond! | 1.00% | ~11 |
 | Driver's License | 0.80% | ~9 |
-| Explosive Miner | 0.60% | ~7 |
+| Explosive Miner | 0.70% | ~8 |
 | Rocket Jump | 0.60% | ~7 |
 | Thunderstruck | 0.60% | ~7 |
 | 5G Network | 0.40% | ~4 |
