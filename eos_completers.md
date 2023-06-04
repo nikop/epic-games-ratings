@@ -61,7 +61,7 @@
 | 59 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 60 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.30% |
 | 61 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
+| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [Iron Danger](games/i/iron_danger.md) | 2.11% |
 | 65 | [JARS](games/j/jars.md) | 2.04% |
@@ -69,7 +69,7 @@
 | 67 | [Sifu](games/s/sifu.md) | 1.80% |
 | 68 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 69 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.64% |
-| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.62% |
+| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.60% |
 | 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
 | 71 | [Night Book](games/n/night_book.md) | 1.59% |
 | 71 | [Somerville](games/s/somerville.md) | 1.59% |
@@ -85,14 +85,14 @@
 | 83 | [Trifox](games/t/trifox.md) | 1.18% |
 | 84 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.14% |
 | 84 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
-| 86 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.08% |
+| 86 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.07% |
 | 87 | [Late Shift](games/l/late_shift.md) | 1.03% |
 | 88 | [Five Dates](games/f/five_dates.md) | 0.99% |
 | 89 | [Sable](games/s/sable.md) | 0.94% |
 | 90 | [Hades](games/h/hades.md) | 0.89% |
 | 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 92 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
 | 92 | [Poosh XL](games/p/poosh_xl.md) | 0.86% |
+| 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.85% |
 | 94 | [Adios](games/a/adios.md) | 0.84% |
 | 95 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.82% |
 | 95 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.82% |
@@ -119,26 +119,26 @@
 | 116 | [Tails of Iron](games/t/tails_of_iron.md) | 0.38% |
 | 118 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 118 | [Potion Permit](games/p/potion_permit.md) | 0.37% |
-| 118 | [Tchia](games/t/tchia.md) | 0.37% |
 | 118 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
-| 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
+| 121 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
+| 121 | [Tchia](games/t/tchia.md) | 0.36% |
 | 123 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.33% |
 | 123 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 123 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 126 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 126 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 128 | [Godlike Burger](games/g/godlike_burger.md) | 0.31% |
-| 128 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 128 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
-| 131 | [The Surge](games/t/the_surge.md) | 0.30% |
-| 132 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
-| 132 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
-| 134 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
-| 134 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.27% |
-| 134 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
-| 137 | [Despot's Game](games/d/despot's_game.md) | 0.26% |
-| 138 | [Circus Electrique](games/c/circus_electrique.md) | 0.24% |
-| 138 | [Wildermyth](games/w/wildermyth.md) | 0.24% |
+| 126 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
+| 129 | [Godlike Burger](games/g/godlike_burger.md) | 0.31% |
+| 129 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 129 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
+| 132 | [The Surge](games/t/the_surge.md) | 0.30% |
+| 133 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
+| 133 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
+| 135 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
+| 135 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.27% |
+| 135 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
+| 138 | [Despot's Game](games/d/despot's_game.md) | 0.26% |
+| 139 | [Circus Electrique](games/c/circus_electrique.md) | 0.24% |
 | 140 | [BLACKTAIL](games/b/blacktail.md) | 0.23% |
 | 141 | [Against the Storm](games/a/against_the_storm.md) | 0.22% |
 | 141 | [Filament](games/f/filament.md) | 0.22% |
@@ -152,16 +152,16 @@
 | 149 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 149 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
 | 149 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 153 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.15% |
 | 153 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 153 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
-| 155 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
-| 155 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
-| 155 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 158 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 158 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
-| 160 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 161 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.11% |
-| 161 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 156 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
+| 156 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
+| 156 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 159 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 159 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
+| 161 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 162 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
 | 163 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
 | 163 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 163 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
