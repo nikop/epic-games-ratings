@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -2033,9 +2033,9 @@
       "ID": "achTrainFacing",
       "SetID": "dgl390n",
       "Name": "Now what?",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 558
     },
     {
       "ID": "achTrainFever",
@@ -2073,8 +2073,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-02T16:00:15.751864+00:00",
-  "LastChanged_Achievements": "2023-06-04T05:06:15.4676007+00:00",
+  "LastChanged_Achievements": "2023-06-04T06:07:22.1788069+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:02.3781621+00:00",
-  "LastUpdate_Ratings": "2023-06-04T04:59:45.8519082+00:00",
-  "LastUpdate_Achievements": "2023-06-04T05:06:15.4676636+00:00"
+  "LastUpdate_Ratings": "2023-06-04T06:00:47.5927853+00:00",
+  "LastUpdate_Achievements": "2023-06-04T06:07:22.1788751+00:00"
 }

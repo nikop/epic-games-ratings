@@ -3,9 +3,9 @@
   "Name": "Super Bit Blaster XL",
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 45,
+  "Ranking_EOS_Completed": 46,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
     "PcReleaseDate": "2020-03-16T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.16,
+  "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
     {
       "Time": "2023-05-04T22:06:12.5880447+00:00",
@@ -451,6 +451,11 @@
       "Time": "2023-06-04T03:28:31.1932284+00:00",
       "NumProgressed": 95,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-04T06:06:40.7158369+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 17,
@@ -468,7 +473,7 @@
       "ID": "10K",
       "SetID": "1f269fc",
       "Name": "10K",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 40,
       "UsersEstimate": 72
     },
@@ -476,7 +481,7 @@
       "ID": "15K",
       "SetID": "1f269fc",
       "Name": "15K",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 50,
       "UsersEstimate": 67
     },
@@ -492,7 +497,7 @@
       "ID": "2.5K",
       "SetID": "1f269fc",
       "Name": "2.5K",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 20,
       "UsersEstimate": 82
     },
@@ -500,7 +505,7 @@
       "ID": "25K",
       "SetID": "1f269fc",
       "Name": "25K",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 75,
       "UsersEstimate": 59
     },
@@ -508,7 +513,7 @@
       "ID": "500K",
       "SetID": "1f269fc",
       "Name": "500K",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 75,
       "UsersEstimate": 33
     },
@@ -516,7 +521,7 @@
       "ID": "50K",
       "SetID": "1f269fc",
       "Name": "50K",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 100,
       "UsersEstimate": 54
     },
@@ -597,14 +602,14 @@
     {
       "ID": "1f269fc",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-06-04T05:05:44.8331474+00:00",
+  "LastChanged_Achievements": "2023-06-04T06:06:40.715836+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:52.7277821+00:00",
-  "LastUpdate_Ratings": "2023-06-04T04:58:03.556814+00:00",
-  "LastUpdate_Achievements": "2023-06-04T05:05:44.8331605+00:00"
+  "LastUpdate_Ratings": "2023-06-04T05:58:19.6990263+00:00",
+  "LastUpdate_Achievements": "2023-06-04T06:06:40.7158564+00:00"
 }

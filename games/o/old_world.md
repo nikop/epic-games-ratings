@@ -1,29 +1,29 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 296)  
+Rating: 4.65 (Ranked 295)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~9,714 |
-| Settler | 82.00% | ~9,597 |
-| Explorer | 79.00% | ~9,246 |
-| Friendly Family | 76.00% | ~8,895 |
-| Intrepid | 70.00% | ~8,193 |
-| Able | 61.00% | ~7,139 |
-| Architect | 61.00% | ~7,139 |
-| Mason | 61.00% | ~7,139 |
-| Strong | 60.00% | ~7,022 |
-| Hanging Gardens | 59.00% | ~6,905 |
-| Noble | 58.00% | ~6,788 |
-| Oracle | 58.00% | ~6,788 |
-| Good | 56.00% | ~6,554 |
-| Just | 55.00% | ~6,437 |
-| Judaism | 55.00% | ~6,437 |
-| Keystone | 54.00% | ~6,320 |
-| Glorious | 52.00% | ~6,086 |
-| Trade Caravan | 52.00% | ~6,086 |
+| Play a Single Player Game | 83.00% | ~9,715 |
+| Settler | 82.00% | ~9,598 |
+| Explorer | 79.00% | ~9,247 |
+| Friendly Family | 76.00% | ~8,896 |
+| Intrepid | 70.00% | ~8,194 |
+| Able | 61.00% | ~7,140 |
+| Architect | 61.00% | ~7,140 |
+| Mason | 61.00% | ~7,140 |
+| Strong | 60.00% | ~7,023 |
+| Hanging Gardens | 59.00% | ~6,906 |
+| Noble | 58.00% | ~6,789 |
+| Oracle | 58.00% | ~6,789 |
+| Good | 56.00% | ~6,555 |
+| Just | 55.00% | ~6,438 |
+| Judaism | 55.00% | ~6,438 |
+| Keystone | 54.00% | ~6,321 |
+| Glorious | 52.00% | ~6,087 |
+| Trade Caravan | 52.00% | ~6,087 |
 | Naming Landmarks | 50.00% | ~5,852 |
 | Learned | 49.00% | ~5,735 |
 | Zoroastrianism | 49.00% | ~5,735 |
@@ -46,21 +46,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 39.00% | ~4,565 |
 | Ambitious | 38.00% | ~4,448 |
 | Carthaginian Paganism | 38.00% | ~4,448 |
-| Necropolis | 37.00% | ~4,330 |
-| Egyptian Paganism | 36.00% | ~4,213 |
-| Apadana | 35.00% | ~4,096 |
-| Musaeum | 35.00% | ~4,096 |
-| Manichaeism | 35.00% | ~4,096 |
-| Brilliant | 34.00% | ~3,979 |
-| Drillmaster | 32.00% | ~3,745 |
-| Colossus | 32.00% | ~3,745 |
-| Legendary Cities | 31.00% | ~3,628 |
-| Furious Family | 31.00% | ~3,628 |
-| Learn to Play 1 | 31.00% | ~3,628 |
-| Just Difficulty | 30.00% | ~3,511 |
-| Artisans | 30.00% | ~3,511 |
-| Acropolis | 30.00% | ~3,511 |
-| Mythology | 30.00% | ~3,511 |
+| Necropolis | 37.00% | ~4,331 |
+| Egyptian Paganism | 36.00% | ~4,214 |
+| Apadana | 35.00% | ~4,097 |
+| Musaeum | 35.00% | ~4,097 |
+| Manichaeism | 35.00% | ~4,097 |
+| Brilliant | 34.00% | ~3,980 |
+| Drillmaster | 32.00% | ~3,746 |
+| Colossus | 32.00% | ~3,746 |
+| Legendary Cities | 31.00% | ~3,629 |
+| Furious Family | 31.00% | ~3,629 |
+| Learn to Play 1 | 31.00% | ~3,629 |
+| Just Difficulty | 30.00% | ~3,512 |
+| Artisans | 30.00% | ~3,512 |
+| Acropolis | 30.00% | ~3,512 |
+| Mythology | 30.00% | ~3,512 |
 | Wise | 29.00% | ~3,394 |
 | Mausoleum | 29.00% | ~3,394 |
 | Intercessor | 27.00% | ~3,160 |
@@ -129,13 +129,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 13.00% | ~1,522 |
 | One True Faith | 13.00% | ~1,522 |
 | Cataphract Archer | 13.00% | ~1,522 |
-| Egypt | 12.00% | ~1,404 |
-| Ten Crowns | 12.00% | ~1,404 |
-| All Nations | 12.00% | ~1,404 |
-| Ishtar Gate in Babylon | 11.00% | ~1,287 |
-| Ready | 11.00% | ~1,287 |
-| Noble Difficulty | 11.00% | ~1,287 |
-| Learn to Play 4 | 11.00% | ~1,287 |
+| Egypt | 12.00% | ~1,405 |
+| Ten Crowns | 12.00% | ~1,405 |
+| All Nations | 12.00% | ~1,405 |
+| Ishtar Gate in Babylon | 11.00% | ~1,288 |
+| Ready | 11.00% | ~1,288 |
+| Noble Difficulty | 11.00% | ~1,288 |
+| Learn to Play 4 | 11.00% | ~1,288 |
 | Cao'an | 10.00% | ~1,170 |
 | Siege Tower | 10.00% | ~1,170 |
 | Carthage - Ox Hide | 9.00% | ~1,053 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~12 |
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,704 (Ranked 106)  
+Progressed: 11,705 (Ranked 106)  
 Completed: 3 (0.03%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 3 (0.03%) (Ranked 189)
 | 2023-06-01 | 11,640 | 3 |
 | 2023-06-02 | 11,671 | 3 |
 | 2023-06-03 | 11,698 | 3 |
-| 2023-06-04 | 11,704 | 3 |
+| 2023-06-04 | 11,705 | 3 |
 ## Awards
 Max (Relaxing): 217  (Ranked 250)  
 Sum: 1,764 (Ranked 199)  

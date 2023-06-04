@@ -117,6 +117,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.20% | ~179 |
 | Waterdeep Under Siege | 0.20% | ~179 |
 | The Darkness Runs Deeper | 0.20% | ~179 |
+| Difficult Terrain | 0.20% | ~179 |
 | Dinosaur Racing | 0.20% | ~179 |
 | Elturel Has Fallen | 0.20% | ~179 |
 | Resolve Amongst Chaos | 0.20% | ~179 |
@@ -344,7 +345,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.10% | ~90 |
 | Dark Doppelgangers | 0.10% | ~90 |
 | Faerûn's Most Wanted | 0.10% | ~56 |
-| Difficult Terrain | 0.10% | ~90 |
 | Cold & Wet | 0.10% | ~90 |
 | Madcap Adventures | 0.10% | ~90 |
 | Faerûn's Most Neglected | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,709 (Ranked 62)  
+Progressed: 89,712 (Ranked 62)  
 Completed: 1,913 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,7 +545,7 @@ Completed: 1,913 (2.13%) (Ranked 63)
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
-| 2023-06-04 | 89,709 | 1,913 |
+| 2023-06-04 | 89,712 | 1,913 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,027 (Ranked 37)  

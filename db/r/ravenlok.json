@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 950,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 6.74,
   "EosHistory": [
@@ -2389,9 +2389,9 @@
       "ID": "38",
       "SetID": "d0g98p",
       "Name": "Max Level!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 133
     },
     {
       "ID": "39",
@@ -2550,8 +2550,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-04T05:05:50.9155849+00:00",
+  "LastChanged_Achievements": "2023-06-04T06:06:49.1717364+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-04T04:57:47.8604801+00:00",
-  "LastUpdate_Achievements": "2023-06-04T05:05:50.9156414+00:00"
+  "LastUpdate_Ratings": "2023-06-04T05:57:55.1505218+00:00",
+  "LastUpdate_Achievements": "2023-06-04T06:06:49.1717987+00:00"
 }

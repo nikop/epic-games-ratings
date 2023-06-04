@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
     "PcReleaseDate": "2022-04-18T04:00:00+00:00",
@@ -1522,9 +1522,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 78461,
+  "EOS_Progressed": 78462,
   "EOS_Completed": 2133,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.72,
   "EosHistory": [
@@ -3817,6 +3817,11 @@
       "Time": "2023-06-04T05:01:02.4700324+00:00",
       "NumProgressed": 78461,
       "NumCompleted": 2133
+    },
+    {
+      "Time": "2023-06-04T06:02:36.3227398+00:00",
+      "NumProgressed": 78462,
+      "NumCompleted": 2133
     }
   ],
   "TotalAchievements": 46,
@@ -3836,7 +3841,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 64338
+      "UsersEstimate": 64339
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -3852,7 +3857,7 @@
       "Name": "The King of the Dark Elves",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 53353
+      "UsersEstimate": 53354
     },
     {
       "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
@@ -3860,7 +3865,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 49430
+      "UsersEstimate": 49431
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -3868,7 +3873,7 @@
       "Name": "A Landscape of Memory",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 45507
+      "UsersEstimate": 45508
     },
     {
       "ID": "006_TROPHY_MISSION_WIND_MEMORIES",
@@ -3900,7 +3905,7 @@
       "Name": "Phantom Memories",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 36092
+      "UsersEstimate": 36093
     },
     {
       "ID": "010_TROPHY_MISSION_EARTH_MEMORIES",
@@ -3908,7 +3913,7 @@
       "Name": "The Earth\u0027s Light",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 35307
+      "UsersEstimate": 35308
     },
     {
       "ID": "011_TROPHY_MISSION_REMEMBER",
@@ -3980,7 +3985,7 @@
       "Name": "Memories of the Distant Past",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 51784
+      "UsersEstimate": 51785
     },
     {
       "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
@@ -3996,7 +4001,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 76107
+      "UsersEstimate": 76108
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -4004,7 +4009,7 @@
       "Name": "Imbued Memories",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 36092
+      "UsersEstimate": 36093
     },
     {
       "ID": "023_TROPHY_DEFEAT_USAB",
@@ -4012,7 +4017,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 67476
+      "UsersEstimate": 67477
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -4028,7 +4033,7 @@
       "Name": "Seeker of Power",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 66692
+      "UsersEstimate": 66693
     },
     {
       "ID": "026_TROPHY_FIRST_ANIMA_CRYSTAL",
@@ -4044,7 +4049,7 @@
       "Name": "Artifact Collector",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 17261
+      "UsersEstimate": 17262
     },
     {
       "ID": "028_TROPHY_USE_JOB_CREST",
@@ -4100,7 +4105,7 @@
       "Name": "Dark Crystal, Warrior\u0027s Heart",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 55707
+      "UsersEstimate": 55708
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -4148,7 +4153,7 @@
       "Name": "Path of the Liberator",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 27461
+      "UsersEstimate": 27462
     },
     {
       "ID": "041_TROPHY_UNLOCKED_BREAKER",
@@ -4180,7 +4185,7 @@
       "Name": "Path of the Sage",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31384
+      "UsersEstimate": 31385
     },
     {
       "ID": "045_TROPHY_UNLOCKED_CYCLIC_WARRIOR",
@@ -4195,15 +4200,15 @@
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 78461,
+      "Progressed": 78462,
       "Completed": 2133
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-05-22T11:59:16.2659588+00:00",
-  "LastChanged_Achievements": "2023-06-04T05:01:02.4700318+00:00",
+  "LastChanged_Achievements": "2023-06-04T06:02:36.3227392+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:12.2924551+00:00",
-  "LastUpdate_Ratings": "2023-06-04T04:59:53.634749+00:00",
-  "LastUpdate_Achievements": "2023-06-04T05:01:02.4700827+00:00"
+  "LastUpdate_Ratings": "2023-06-04T06:00:57.9342382+00:00",
+  "LastUpdate_Achievements": "2023-06-04T06:02:36.3228082+00:00"
 }

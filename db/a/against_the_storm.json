@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2330,9 +2330,9 @@
       "Count": 305
     }
   ],
-  "EOS_Progressed": 15167,
+  "EOS_Progressed": 15168,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4755,6 +4755,11 @@
       "Time": "2023-06-04T05:06:12.8808952+00:00",
       "NumProgressed": 15167,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-04T06:07:19.0360605+00:00",
+      "NumProgressed": 15168,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -4828,9 +4833,9 @@
       "ID": "ManyEvents",
       "SetID": "cfbk359",
       "Name": "Efficient Explorer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 76
     },
     {
       "ID": "MetalChain",
@@ -4948,9 +4953,9 @@
       "ID": "WinNearHaunted",
       "SetID": "cfbk359",
       "Name": "Haunted Forest",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 152
     },
     {
       "ID": "WinNearLevitating",
@@ -5165,15 +5170,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15167,
+      "Progressed": 15168,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-02T22:00:29.3349524+00:00",
-  "LastChanged_Achievements": "2023-06-04T05:06:12.8808946+00:00",
+  "LastChanged_Achievements": "2023-06-04T06:07:19.0360599+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.9758941+00:00",
-  "LastUpdate_Ratings": "2023-06-04T05:00:03.8235556+00:00",
-  "LastUpdate_Achievements": "2023-06-04T05:06:12.880952+00:00"
+  "LastUpdate_Ratings": "2023-06-04T06:01:12.2662325+00:00",
+  "LastUpdate_Achievements": "2023-06-04T06:07:19.0361545+00:00"
 }

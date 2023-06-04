@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -2378,9 +2378,9 @@
       "ID": "ISONZO_ACH_SOCA_DRAG",
       "SetID": "akchbl3",
       "Name": "So\u010Da Drag",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "ISONZO_ACH_SUPER_MARIO",
@@ -2491,8 +2491,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-31T13:04:59.5463809+00:00",
-  "LastChanged_Achievements": "2023-06-04T05:00:44.1512479+00:00",
+  "LastChanged_Achievements": "2023-06-04T06:02:10.6052696+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:28.4757017+00:00",
-  "LastUpdate_Ratings": "2023-06-04T04:57:45.3196852+00:00",
-  "LastUpdate_Achievements": "2023-06-04T05:00:44.1512916+00:00"
+  "LastUpdate_Ratings": "2023-06-04T05:57:50.4498283+00:00",
+  "LastUpdate_Achievements": "2023-06-04T06:02:10.6053268+00:00"
 }

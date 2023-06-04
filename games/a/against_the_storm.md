@@ -20,6 +20,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 1.00% | ~152 |
 | Sparkdew Crystals | 1.00% | ~152 |
 | Dangerous Lands | 1.00% | ~152 |
+| Haunted Forest | 1.00% | ~152 |
 | Levitating Monument | 1.00% | ~152 |
 | Flooded Mines | 1.00% | ~152 |
 | Monastery of the Holy Flame | 1.00% | ~152 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 1.00% | ~152 |
 | Refinery | 0.90% | ~137 |
 | Against All Odds | 0.90% | ~137 |
-| Haunted Forest | 0.90% | ~137 |
 | Statue of the Forefathers | 0.90% | ~137 |
 | Serving Ale | 0.80% | ~121 |
 | Forsaken Gods Temple | 0.80% | ~121 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 0.70% | ~106 |
 | Into the Forest | 0.70% | ~106 |
 | Forbidden Lands | 0.60% | ~91 |
+| Efficient Explorer | 0.50% | ~76 |
 | Fishmen Ritual Site | 0.50% | ~76 |
-| Efficient Explorer | 0.40% | ~61 |
 | Prestigious Expedition | 0.40% | ~61 |
 | Blood Flower Farmer | 0.40% | ~61 |
 | Victory through Prosperity | 0.40% | ~61 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,167 (Ranked 100)  
+Progressed: 15,168 (Ranked 100)  
 Completed: 33 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 33 (0.22%) (Ranked 141)
 | 2023-06-01 | 15,121 | 33 |
 | 2023-06-02 | 15,142 | 33 |
 | 2023-06-03 | 15,161 | 33 |
-| 2023-06-04 | 15,167 | 33 |
+| 2023-06-04 | 15,168 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,036 (Ranked 152)  

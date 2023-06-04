@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1694,
+  "EOS_Progressed": 1696,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -935,6 +935,11 @@
       "Time": "2023-06-04T05:06:15.1785554+00:00",
       "NumProgressed": 1694,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-04T06:07:21.8392975+00:00",
+      "NumProgressed": 1696,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -954,7 +959,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "ACHV_03",
@@ -970,7 +975,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACHV_05",
@@ -1018,7 +1023,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHV_11",
@@ -1098,7 +1103,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHV_21",
@@ -1106,7 +1111,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHV_22",
@@ -1122,7 +1127,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACHV_24",
@@ -1146,7 +1151,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1357
     },
     {
       "ID": "ACHV_27",
@@ -1154,7 +1159,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACHV_28",
@@ -1170,7 +1175,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHV_30",
@@ -1178,7 +1183,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ACHV_31",
@@ -1186,7 +1191,7 @@
       "Name": "Where It All Began",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHV_32",
@@ -1218,7 +1223,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ACHV_36",
@@ -1248,9 +1253,9 @@
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1289
     },
     {
       "ID": "ACHV_40",
@@ -1274,7 +1279,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHV_43",
@@ -1401,7 +1406,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1694,
+      "Progressed": 1696,
       "Completed": 10
     }
   ],
@@ -1409,8 +1414,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-04T05:06:15.178555+00:00",
+  "LastChanged_Achievements": "2023-06-04T06:07:21.8392968+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:57.1438675+00:00",
-  "LastUpdate_Ratings": "2023-06-04T05:00:29.8545284+00:00",
-  "LastUpdate_Achievements": "2023-06-04T05:06:15.1786096+00:00"
+  "LastUpdate_Ratings": "2023-06-04T06:01:47.5562352+00:00",
+  "LastUpdate_Achievements": "2023-06-04T06:07:21.8393596+00:00"
 }

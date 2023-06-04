@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,666 |
-| Biggest Communism Builder | 24.00% | ~28,856 |
-| The World's Most Laughable Centrist | 20.00% | ~24,047 |
-| Il Coppo Del'Arte! | 18.00% | ~21,642 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,238 |
-| Hyperstellar Law Official | 15.00% | ~18,035 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~16,833 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,631 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,631 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,226 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,821 |
+| Goodest Of The Good Cops | 28.00% | ~33,668 |
+| Biggest Communism Builder | 24.00% | ~28,858 |
+| The World's Most Laughable Centrist | 20.00% | ~24,049 |
+| Il Coppo Del'Arte! | 18.00% | ~21,644 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,239 |
+| Hyperstellar Law Official | 15.00% | ~18,036 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~16,834 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,632 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,632 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,227 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,822 |
 | Unbelievably Boring **** | 8.00% | ~9,619 |
 | Enemy Of The Physical Realm | 8.00% | ~9,619 |
 | Hardie's Heroes | 5.00% | ~6,012 |
-| The Lawbringer | 4.00% | ~4,809 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,809 |
+| The Lawbringer | 4.00% | ~4,810 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,810 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,607 |
 | Bother Kim After Hours | 3.00% | ~3,607 |
 | Baddest Of the Bad Cops | 2.00% | ~2,405 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~120 |
 | What body? | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,235 (Ranked 58)  
+Progressed: 120,243 (Ranked 58)  
 Completed: 25 (0.02%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 25 (0.02%) (Ranked 194)
 | 2023-06-01 | 119,949 | 25 |
 | 2023-06-02 | 120,057 | 25 |
 | 2023-06-03 | 120,205 | 25 |
-| 2023-06-04 | 120,235 | 25 |
+| 2023-06-04 | 120,243 | 25 |
 ## Awards
 Max (Character Customization): 691  (Ranked 157)  
 Sum: 1,047 (Ranked 230)  

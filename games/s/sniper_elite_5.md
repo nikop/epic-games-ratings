@@ -12,8 +12,8 @@ Rating: 4.44 (Ranked 631)
 | Lord of War | 12.00% | ~263 |
 | Resourceful | 11.00% | ~241 |
 | Change the Channel | 11.00% | ~241 |
+| Organ Grinder | 9.00% | ~197 |
 | Taking it back | 9.00% | ~197 |
-| Organ Grinder | 8.00% | ~176 |
 | As Quiet as a Mouse | 8.00% | ~176 |
 | Target America | 8.00% | ~176 |
 | Enemy at the Gates | 7.00% | ~154 |
@@ -24,13 +24,13 @@ Rating: 4.44 (Ranked 631)
 | Gunslinger | 6.00% | ~132 |
 | Sharpshooter | 6.00% | ~132 |
 | The Kraken Sleeps | 6.00% | ~132 |
+| Fields of Glory | 5.00% | ~110 |
 | Die Nussknacker Sweet! | 5.00% | ~110 |
 | Der Geist | 5.00% | ~110 |
 | Close Quarters | 5.00% | ~110 |
 | Snake in the Grass | 5.00% | ~110 |
 | Climbing the Ladder | 4.00% | ~88 |
 | No Stone Unturned | 4.00% | ~88 |
-| Fields of Glory | 4.00% | ~88 |
 | Skirmisher | 4.00% | ~88 |
 | Set Europe Ablaze | 4.00% | ~88 |
 | Brains of the Operation | 4.00% | ~88 |

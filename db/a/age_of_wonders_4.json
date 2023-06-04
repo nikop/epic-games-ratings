@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -190,7 +190,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4284,
+  "EOS_Progressed": 4285,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 0,
@@ -2990,6 +2990,11 @@
       "Time": "2023-06-04T05:04:41.940354+00:00",
       "NumProgressed": 4284,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T06:05:05.5532263+00:00",
+      "NumProgressed": 4285,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3001,7 +3006,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "10",
@@ -3049,7 +3054,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "16",
@@ -3105,7 +3110,7 @@
       "Name": "Eternal Lord",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "22",
@@ -3113,7 +3118,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "23",
@@ -3129,7 +3134,7 @@
       "Name": "Secret Technique",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "25",
@@ -3137,7 +3142,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 3084
+      "UsersEstimate": 3085
     },
     {
       "ID": "26",
@@ -3145,7 +3150,7 @@
       "Name": "Bone Peddler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "27",
@@ -3153,7 +3158,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "28",
@@ -3161,7 +3166,7 @@
       "Name": "From Friends to Family",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 2913
+      "UsersEstimate": 2914
     },
     {
       "ID": "29",
@@ -3169,7 +3174,7 @@
       "Name": "Stronger Together",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "3",
@@ -3177,7 +3182,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "30",
@@ -3201,7 +3206,7 @@
       "Name": "My Final Form",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "33",
@@ -3241,7 +3246,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "38",
@@ -3273,7 +3278,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "41",
@@ -3352,13 +3357,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4284,
-      "Completed": 4284
+      "Progressed": 4285,
+      "Completed": 4285
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4284,
+      "Progressed": 4285,
       "Completed": 0
     }
   ],
@@ -3366,8 +3371,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-04T05:04:41.9403534+00:00",
+  "LastChanged_Achievements": "2023-06-04T06:05:05.5532255+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-04T04:59:35.6521389+00:00",
-  "LastUpdate_Achievements": "2023-06-04T05:04:41.9404081+00:00"
+  "LastUpdate_Ratings": "2023-06-04T06:00:32.7638211+00:00",
+  "LastUpdate_Achievements": "2023-06-04T06:05:05.5532826+00:00"
 }

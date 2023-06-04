@@ -7,23 +7,23 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~662 |
-| Project Arena | 3.00% | ~496 |
-| The Old Grandmaster | 1.00% | ~7,072 |
-| The Assault | 1.00% | ~7,072 |
-| The Hateful Pole Fighter | 1.00% | ~7,072 |
-| A Lady's Blood in the Snow | 1.00% | ~7,072 |
-| Lady Wing Chun | 1.00% | ~7,072 |
-| Kill Nil | 1.00% | ~7,072 |
-| Street Fighting | 1.00% | ~7,072 |
-| Life is your teacher | 1.00% | ~7,072 |
-| State of constant learning | 1.00% | ~7,072 |
-| Qi Gong: Breath | 1.00% | ~7,072 |
-| Qi Gong: Essence | 1.00% | ~7,072 |
-| Lightning Hands | 1.00% | ~7,072 |
-| Path of the Prospect | 1.00% | ~7,072 |
-| Rumble in the Hangar | 1.00% | ~7,072 |
-| Bloody Sport | 1.00% | ~165 |
-| The best strikes are the ones we avoid | 1.00% | ~165 |
+| Project Arena | 3.00% | ~497 |
+| The Old Grandmaster | 1.00% | ~7,073 |
+| The Assault | 1.00% | ~7,073 |
+| The Hateful Pole Fighter | 1.00% | ~7,073 |
+| A Lady's Blood in the Snow | 1.00% | ~7,073 |
+| Lady Wing Chun | 1.00% | ~7,073 |
+| Kill Nil | 1.00% | ~7,073 |
+| Street Fighting | 1.00% | ~7,073 |
+| Life is your teacher | 1.00% | ~7,073 |
+| State of constant learning | 1.00% | ~7,073 |
+| Qi Gong: Breath | 1.00% | ~7,073 |
+| Qi Gong: Essence | 1.00% | ~7,073 |
+| Lightning Hands | 1.00% | ~7,073 |
+| Path of the Prospect | 1.00% | ~7,073 |
+| Rumble in the Hangar | 1.00% | ~7,073 |
+| Bloody Sport | 1.00% | ~166 |
+| The best strikes are the ones we avoid | 1.00% | ~166 |
 | Furious Fists | 0.90% | ~6,365 |
 | Stuntmaster | 0.90% | ~6,365 |
 | Old Child | 0.90% | ~6,365 |
@@ -32,7 +32,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.70% | ~4,951 |
 | Qi Gong: Mind | 0.70% | ~4,951 |
 | Kung-Fu Tussle | 0.70% | ~4,951 |
-| I know Kung-Fu | 0.60% | ~4,243 |
+| I know Kung-Fu | 0.60% | ~4,244 |
 | Deadly Venom | 0.60% | ~99 |
 | A Touch of Acumen | 0.60% | ~99 |
 | Muk Yan Master | 0.50% | ~3,536 |
@@ -47,17 +47,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Hub | 0.40% | ~66 |
 | Knowledge Greed | 0.30% | ~2,122 |
 | Secure, Protect, Leave | 0.30% | ~50 |
-| Drunken Fighter | 0.20% | ~1,414 |
-| Martial Artist | 0.20% | ~1,414 |
-| Healing Memory | 0.20% | ~1,414 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,414 |
-| The Pit Protector | 0.20% | ~1,414 |
-| Be like water my friend | 0.20% | ~1,414 |
-| Come Snap With Me | 0.20% | ~1,414 |
+| Drunken Fighter | 0.20% | ~1,415 |
+| Martial Artist | 0.20% | ~1,415 |
+| Healing Memory | 0.20% | ~1,415 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,415 |
+| The Pit Protector | 0.20% | ~1,415 |
+| Be like water my friend | 0.20% | ~1,415 |
+| Come Snap With Me | 0.20% | ~1,415 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,247 (Ranked 15)  
+Progressed: 707,253 (Ranked 15)  
 Completed: 12,754 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 12,754 (1.80%) (Ranked 67)
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
 | 2023-06-03 | 707,194 | 12,754 |
-| 2023-06-04 | 707,247 | 12,754 |
+| 2023-06-04 | 707,253 | 12,754 |
 ## Awards
 Max (Great Boss Battles): 6,130  (Ranked 53)  
 Sum: 10,457 (Ranked 78)  

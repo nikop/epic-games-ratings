@@ -42,8 +42,8 @@ Number of Ratings: 98  (23.09.2022)
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~242 |
 | Ponte of No Return | 3.00% | ~182 |
 | Seeing Red | 3.00% | ~182 |
+| Soča Drag | 3.00% | ~182 |
 | Farewell to Arms | 2.00% | ~121 |
-| Soča Drag | 2.00% | ~121 |
 | Saboteur | 2.00% | ~121 |
 | Compagnia della Morte | 1.00% | ~61 |
 | Drop and Give Me 20 | 1.00% | ~61 |

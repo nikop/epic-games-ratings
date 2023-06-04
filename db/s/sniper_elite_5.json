@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -262,7 +262,7 @@
   "Tags": [],
   "EOS_Progressed": 2194,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2492,9 +2492,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 110
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -2508,9 +2508,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 197
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3027,8 +3027,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-04T05:05:59.2475754+00:00",
+  "LastChanged_Achievements": "2023-06-04T06:07:00.6149382+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T05:00:34.8038303+00:00",
-  "LastUpdate_Achievements": "2023-06-04T05:05:59.2476473+00:00"
+  "LastUpdate_Ratings": "2023-06-04T06:01:53.820154+00:00",
+  "LastUpdate_Achievements": "2023-06-04T06:07:00.6150282+00:00"
 }

@@ -1,23 +1,23 @@
 # Grindstone
 [Store](https://store.epicgames.com/en-US/p/grindstone)  
 [View Rawdata](../../db/g/grindstone.json)  
-Rating: 4.84 (Ranked 50)  
+Rating: 4.84 (Ranked 49)  
 Number of Ratings: 63  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~4,992 |
-| The Journey Begins | 98.00% | ~4,992 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,973 |
+| Quinceañera Time | 98.00% | ~4,993 |
+| The Journey Begins | 98.00% | ~4,993 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,974 |
 | There is No Escape | 71.00% | ~3,617 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,158 |
-| Royal Flush | 62.00% | ~3,158 |
-| Timber! | 60.00% | ~3,056 |
-| Survive the Bombsequences | 59.00% | ~3,005 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,159 |
+| Royal Flush | 62.00% | ~3,159 |
+| Timber! | 60.00% | ~3,057 |
+| Survive the Bombsequences | 59.00% | ~3,006 |
 | Killed 20 Jerks | 53.00% | ~2,700 |
 | Death Defied | 53.00% | ~2,700 |
-| Fortunate Soul | 49.00% | ~2,496 |
-| Jerk-Slayer | 43.00% | ~2,190 |
+| Fortunate Soul | 49.00% | ~2,497 |
+| Jerk-Slayer | 43.00% | ~2,191 |
 | Employee of the Month | 37.00% | ~1,885 |
 | I Believe I Can Fly | 37.00% | ~1,885 |
 | Bone Collector | 35.00% | ~1,783 |
@@ -25,7 +25,7 @@ Number of Ratings: 63  (23.09.2022)
 | Top of the Food Chain | 32.00% | ~1,630 |
 | Pardon my Slob | 32.00% | ~1,630 |
 | Humerus Achievement | 31.00% | ~1,579 |
-| Ghost Facers! | 27.00% | ~1,375 |
+| Ghost Facers! | 27.00% | ~1,376 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,070 |
 | Royal Flush, Again | 19.00% | ~968 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~917 |
@@ -39,10 +39,10 @@ Number of Ratings: 63  (23.09.2022)
 | Budding Gardener | 14.00% | ~713 |
 | Stop Hitting Each Other | 13.00% | ~662 |
 | Ultimate Jerk | 13.00% | ~662 |
-| Hot Potato | 10.00% | ~509 |
-| Off the Beaten Path | 9.00% | ~458 |
-| It's Been a Blast | 9.00% | ~458 |
-| For Rock and Stone! | 9.00% | ~458 |
+| Hot Potato | 10.00% | ~510 |
+| Off the Beaten Path | 9.00% | ~459 |
+| It's Been a Blast | 9.00% | ~459 |
+| For Rock and Stone! | 9.00% | ~459 |
 | Don't Get Too Greedy | 7.00% | ~357 |
 | You're In a Cult, Call Your Dad | 6.00% | ~306 |
 | The Poison You Just Drank | 4.00% | ~204 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,094 (Ranked 126)  
+Progressed: 5,095 (Ranked 126)  
 Completed: 26 (0.51%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 26 (0.51%) (Ranked 110)
 | 2023-06-01 | 5,090 | 26 |
 | 2023-06-02 | 5,091 | 26 |
 | 2023-06-03 | 5,094 | 26 |
+| 2023-06-04 | 5,095 | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

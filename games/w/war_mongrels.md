@@ -13,7 +13,7 @@ Number of Ratings: 34  (23.09.2022)
 | Prospector | 43.00% | ~133 |
 | Here Comes the Boom | 43.00% | ~133 |
 | Treasure Hunter | 41.00% | ~127 |
-| The Breaking Point | 39.00% | ~121 |
+| The Breaking Point | 40.00% | ~124 |
 | Sniper Wolf | 37.00% | ~115 |
 | Missing in Action | 36.00% | ~112 |
 | The Motivation | 35.00% | ~108 |
