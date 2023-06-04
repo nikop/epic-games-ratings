@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.06% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.01% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.03% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -19,10 +19,10 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.14% |
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.15% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.14% |
 | 21 | [Remains](games/r/remains.md) | 8.11% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Scorn](games/s/scorn.md) | 6.86% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.84% |
@@ -67,7 +67,7 @@
 | 65 | [JARS](games/j/jars.md) | 2.04% |
 | 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 67 | [Sifu](games/s/sifu.md) | 1.80% |
-| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.74% |
+| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.70% |
 | 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.64% |
 | 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |
