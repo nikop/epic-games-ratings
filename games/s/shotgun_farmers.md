@@ -18,7 +18,7 @@
 | Bouncemato | 21.00% | ~7 |
 | Quick-Draw Pod | 20.00% | ~6 |
 | Grave Digger | 17.00% | ~5 |
-| This Is My Boomstick | 15.00% | ~5 |
+| This Is My Boomstick | 16.00% | ~5 |
 | 15K | 13.00% | ~11 |
 | 10K | 13.00% | ~11 |
 | Professional Survivor | 12.00% | ~4 |
@@ -26,9 +26,9 @@
 | Oh My Gourd | 10.00% | ~3 |
 | Perfect | 9.00% | ~3 |
 | Expert Survivor | 9.00% | ~3 |
+| Summers Here | 9.00% | ~3 |
 | Quadsparagus | 9.00% | ~3 |
 | Skin Of Your Teeth | 7.00% | ~6 |
-| Summers Here | 7.00% | ~2 |
 | Quit Horsin' Around | 6.00% | ~5 |
 | Master Survivor | 6.00% | ~2 |
 | Bring Home The Bacon | 4.00% | ~3 |

@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4278,
+  "EOS_Progressed": 4279,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2975,6 +2975,11 @@
       "Time": "2023-06-04T00:03:57.625228+00:00",
       "NumProgressed": 4278,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T03:27:28.0526872+00:00",
+      "NumProgressed": 4279,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3026,7 +3031,7 @@
       "Name": "Full Ascension",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "15",
@@ -3034,7 +3039,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "16",
@@ -3090,7 +3095,7 @@
       "Name": "Eternal Lord",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "22",
@@ -3098,7 +3103,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "23",
@@ -3106,7 +3111,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3337
+      "UsersEstimate": 3338
     },
     {
       "ID": "24",
@@ -3122,7 +3127,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 3080
+      "UsersEstimate": 3081
     },
     {
       "ID": "26",
@@ -3138,7 +3143,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "28",
@@ -3146,15 +3151,15 @@
       "Name": "From Friends to Family",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 2909
+      "UsersEstimate": 2910
     },
     {
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2353
     },
     {
       "ID": "3",
@@ -3162,7 +3167,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "30",
@@ -3178,7 +3183,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "32",
@@ -3226,7 +3231,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "38",
@@ -3242,7 +3247,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "4",
@@ -3337,13 +3342,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4278,
-      "Completed": 4278
+      "Progressed": 4279,
+      "Completed": 4279
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4278,
+      "Progressed": 4279,
       "Completed": 0
     }
   ],
@@ -3351,8 +3356,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-04T02:39:24.1459933+00:00",
+  "LastChanged_Achievements": "2023-06-04T03:27:28.0526867+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-04T02:34:37.2582354+00:00",
-  "LastUpdate_Achievements": "2023-06-04T02:39:24.1460477+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:22:26.6255176+00:00",
+  "LastUpdate_Achievements": "2023-06-04T03:27:28.0527401+00:00"
 }

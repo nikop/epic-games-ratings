@@ -5,28 +5,28 @@ Rating: 4.32 (Ranked 748)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~908 |
+| First Blood | 91.00% | ~909 |
 | Ranidaphobia | 74.00% | ~739 |
 | Aspiring Editor | 71.00% | ~709 |
 | Gun for Hire | 65.00% | ~649 |
 | I am the law! | 57.00% | ~569 |
-| Lumberjack | 42.00% | ~419 |
-| Croaked | 37.00% | ~369 |
-| Limp Richard | 36.00% | ~359 |
-| From Darkness to Light | 35.00% | ~349 |
-| Firestarter | 34.00% | ~339 |
-| Editor Adept | 33.00% | ~329 |
-| Exorcist | 33.00% | ~329 |
-| Giant Killer | 28.00% | ~279 |
-| Sensei | 28.00% | ~279 |
-| The meaning of Kain | 27.00% | ~269 |
+| Lumberjack | 42.00% | ~420 |
+| Croaked | 37.00% | ~370 |
+| Limp Richard | 36.00% | ~360 |
+| From Darkness to Light | 35.00% | ~350 |
+| Firestarter | 34.00% | ~340 |
+| Editor Adept | 33.00% | ~330 |
+| Exorcist | 33.00% | ~330 |
+| Giant Killer | 29.00% | ~290 |
+| Sensei | 28.00% | ~280 |
+| The meaning of Kain | 27.00% | ~270 |
 | Technophobe | 22.00% | ~220 |
 | Recycler | 19.00% | ~190 |
 | Chain Killer | 17.00% | ~170 |
 | Are you not entertained? | 16.00% | ~160 |
+| Jarhead | 16.00% | ~160 |
 | Hold The Line | 16.00% | ~160 |
 | Ganglord | 15.00% | ~150 |
-| Jarhead | 15.00% | ~150 |
 | Infiltrator | 15.00% | ~150 |
 | There Can Be Only One! | 15.00% | ~150 |
 | Pushing Daisy | 14.00% | ~140 |
@@ -57,7 +57,7 @@ Rating: 4.32 (Ranked 748)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 998 (Ranked 172)  
+Progressed: 999 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 940 | 0 |
 | 2023-06-02 | 967 | 0 |
 | 2023-06-03 | 997 | 0 |
-| 2023-06-04 | 998 | 0 |
+| 2023-06-04 | 999 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

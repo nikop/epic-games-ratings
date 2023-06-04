@@ -17,7 +17,7 @@
 | Burning Bridges | 26.00% | ~23 |
 | The Last Few Bricks | 26.00% | ~23 |
 | The Dogs of War | 11.00% | ~10 |
-| I'm a King Bee | 7.00% | ~6 |
+| I'm a King Bee | 8.00% | ~7 |
 | What Shall We Do Now? | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 87 (Ranked 278)  

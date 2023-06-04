@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2192,
+  "EOS_Progressed": 2193,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2425,6 +2425,11 @@
       "Time": "2023-06-04T02:40:43.9722006+00:00",
       "NumProgressed": 2192,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-04T03:28:45.7107786+00:00",
+      "NumProgressed": 2193,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2466,9 +2471,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 132
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2476,7 +2481,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2492,7 +2497,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2604,7 +2609,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2636,7 +2641,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3003,13 +3008,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2143,
+      "Progressed": 2144,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2192,
+      "Progressed": 2193,
       "Completed": 2
     }
   ],
@@ -3017,8 +3022,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-04T02:40:43.9721999+00:00",
+  "LastChanged_Achievements": "2023-06-04T03:28:45.7107781+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T02:35:33.7003508+00:00",
-  "LastUpdate_Achievements": "2023-06-04T02:40:43.9722809+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:23:22.5709233+00:00",
+  "LastUpdate_Achievements": "2023-06-04T03:28:45.7108586+00:00"
 }

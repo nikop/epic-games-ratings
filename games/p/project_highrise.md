@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~116 |
-| Starting Skyward | 51.00% | ~100 |
-| Grime is Not Good | 46.00% | ~91 |
-| Campaign Launch | 41.00% | ~81 |
-| Dinner Dash | 40.00% | ~79 |
-| Floor Galore | 39.00% | ~77 |
-| It's Technical | 37.00% | ~73 |
-| Upgrade Unlock | 35.00% | ~69 |
-| Need a Consult | 34.00% | ~67 |
-| Delegate Maintenance | 34.00% | ~67 |
-| Proper Walls | 32.00% | ~63 |
-| Destination Destiny | 28.00% | ~55 |
-| Happy Tenants | 25.00% | ~49 |
-| Smooth Service | 24.00% | ~47 |
-| Lux Living | 23.00% | ~45 |
-| Your Prestige is Rising | 23.00% | ~45 |
-| Potent Potables | 23.00% | ~45 |
-| Retail Revenue | 23.00% | ~45 |
-| People Mover | 22.00% | ~43 |
-| Emporium Empire | 21.00% | ~41 |
-| Leveled Up Shops | 21.00% | ~41 |
-| Get Electrified | 21.00% | ~41 |
-| Artfully Done | 20.00% | ~39 |
-| Rehab Expert | 20.00% | ~39 |
-| Don't Feel a Loan | 20.00% | ~39 |
-| Tasty Profits | 19.00% | ~37 |
-| Cashflow Chief | 18.00% | ~35 |
-| Under One Roof | 17.00% | ~33 |
-| Established Fame | 17.00% | ~33 |
-| We Don't Need No Education | 17.00% | ~33 |
+| In the Black | 59.00% | ~117 |
+| Starting Skyward | 51.00% | ~101 |
+| Grime is Not Good | 46.00% | ~92 |
+| Campaign Launch | 41.00% | ~82 |
+| Floor Galore | 39.00% | ~78 |
+| Dinner Dash | 39.00% | ~78 |
+| It's Technical | 37.00% | ~74 |
+| Upgrade Unlock | 35.00% | ~70 |
+| Need a Consult | 34.00% | ~68 |
+| Delegate Maintenance | 33.00% | ~66 |
+| Proper Walls | 32.00% | ~64 |
+| Destination Destiny | 28.00% | ~56 |
+| Happy Tenants | 25.00% | ~50 |
+| Smooth Service | 24.00% | ~48 |
+| Lux Living | 23.00% | ~46 |
+| Your Prestige is Rising | 23.00% | ~46 |
+| Potent Potables | 23.00% | ~46 |
+| Retail Revenue | 23.00% | ~46 |
+| People Mover | 22.00% | ~44 |
+| Emporium Empire | 21.00% | ~42 |
+| Leveled Up Shops | 21.00% | ~42 |
+| Get Electrified | 21.00% | ~42 |
+| Artfully Done | 20.00% | ~40 |
+| Rehab Expert | 20.00% | ~40 |
+| Don't Feel a Loan | 20.00% | ~40 |
+| Tasty Profits | 19.00% | ~38 |
+| Cashflow Chief | 18.00% | ~36 |
+| Under One Roof | 17.00% | ~34 |
+| Established Fame | 17.00% | ~34 |
+| We Don't Need No Education | 17.00% | ~34 |
 | Thrilled Tenants | 16.00% | ~32 |
 | Starred Dining | 15.00% | ~30 |
 | Boutique Benefits | 15.00% | ~30 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197 (Ranked 244)  
+Progressed: 199 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 192 | 0 |
 | 2023-06-02 | 194 | 0 |
 | 2023-06-03 | 197 | 0 |
+| 2023-06-04 | 199 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1971,9 +1971,9 @@
       "ID": "UNLOCK_RESEARCH_10",
       "SetID": "5349c2e",
       "Name": "Adept Researcher",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1338
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -2011,8 +2011,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-02T06:00:06.4515781+00:00",
-  "LastChanged_Achievements": "2023-06-04T02:40:47.0376261+00:00",
+  "LastChanged_Achievements": "2023-06-04T03:28:48.6163331+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.8895612+00:00",
-  "LastUpdate_Ratings": "2023-06-04T02:34:57.3611498+00:00",
-  "LastUpdate_Achievements": "2023-06-04T02:40:47.0376526+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:22:47.0561293+00:00",
+  "LastUpdate_Achievements": "2023-06-04T03:28:48.6163588+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,10 +489,10 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 12954,
+  "EOS_Progressed": 12955,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 191,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 192,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
     {
@@ -3344,6 +3344,11 @@
       "Time": "2023-06-04T02:40:33.3818919+00:00",
       "NumProgressed": 12954,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-06-04T03:28:35.386709+00:00",
+      "NumProgressed": 12955,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 41,
@@ -3395,7 +3400,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4405
     },
     {
       "ID": "tpote_achievement_15",
@@ -3443,7 +3448,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4405
     },
     {
       "ID": "tpote_achievement_20",
@@ -3523,7 +3528,7 @@
       "Name": "Skilled merchant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "tpote_achievement_3",
@@ -3539,7 +3544,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "tpote_achievement_31",
@@ -3643,7 +3648,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "tpote_achievement_6",
@@ -3675,22 +3680,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4663
+      "UsersEstimate": 4664
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12954,
+      "Progressed": 12955,
       "Completed": 97
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-04T02:40:33.3818911+00:00",
+  "LastChanged_Achievements": "2023-06-04T03:28:35.3867085+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.2103721+00:00",
-  "LastUpdate_Ratings": "2023-06-04T02:35:04.2810335+00:00",
-  "LastUpdate_Achievements": "2023-06-04T02:40:33.3819411+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:22:53.1590372+00:00",
+  "LastUpdate_Achievements": "2023-06-04T03:28:35.3867568+00:00"
 }

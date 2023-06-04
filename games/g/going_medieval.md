@@ -19,7 +19,7 @@ Number of Ratings: 706  (23.09.2022)
 | Feast or Famine | 46.00% | ~1,399 |
 | Home Cooked Meal | 45.00% | ~1,368 |
 | Beam Me Up | 44.00% | ~1,338 |
-| Adept Researcher | 43.00% | ~1,308 |
+| Adept Researcher | 44.00% | ~1,338 |
 | Luminary Researcher | 39.00% | ~1,186 |
 | Retribution | 35.00% | ~1,064 |
 | Fit For A King | 35.00% | ~1,064 |

@@ -51,9 +51,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "c98563l",
       "Name": "First steps!!",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -529,8 +529,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2023-06-04T02:35:56.6861466+00:00",
+  "LastChanged_Achievements": "2023-06-04T03:23:46.3464977+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:45.9987877+00:00",
-  "LastUpdate_Ratings": "2023-06-04T02:34:34.7125134+00:00",
-  "LastUpdate_Achievements": "2023-06-04T02:35:56.6862003+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:22:24.2113398+00:00",
+  "LastUpdate_Achievements": "2023-06-04T03:23:46.3465555+00:00"
 }

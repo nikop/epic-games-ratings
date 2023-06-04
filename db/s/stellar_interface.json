@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -210,9 +210,9 @@
       "ID": "BronzeHoberMallowBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Foundation",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BronzeHomunculusBossDefeatedAchievement",
@@ -362,9 +362,9 @@
       "ID": "ClearedAllLevels1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Hitchhiker",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ClearedAllLevels20TimesAchievement",
@@ -522,9 +522,9 @@
       "ID": "ConsumableUsed50TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Beta",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ConsumableWithActiveCountOf10Achievement",
@@ -1114,9 +1114,9 @@
       "ID": "VisitLostLord10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage II",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VisitLostLord1TimeAchievement",
@@ -1233,8 +1233,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-04T02:41:02.6880885+00:00",
+  "LastChanged_Achievements": "2023-06-04T03:29:03.8144277+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:00.3946276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T02:34:01.3098025+00:00",
-  "LastUpdate_Achievements": "2023-06-04T02:41:02.6882958+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:21:51.2128758+00:00",
+  "LastUpdate_Achievements": "2023-06-04T03:29:03.8146215+00:00"
 }

@@ -20,11 +20,14 @@
 | Omicron Alpha | 10.00% | ~3 |
 | Pacifist | 10.00% | ~3 |
 | Collateral Damage I | 10.00% | ~3 |
+| Bronze Foundation | 3.00% | ~1 |
 | Sectoral Ensign | 3.00% | ~1 |
 | Cartridge Hoarder | 3.00% | ~1 |
 | Rambo III | 3.00% | ~1 |
 | Rambo II | 3.00% | ~1 |
+| Hitchhiker | 3.00% | ~1 |
 | Diligent | 3.00% | ~1 |
+| Omicron Beta | 3.00% | ~1 |
 | Hoarder | 3.00% | ~1 |
 | Defrosted | 3.00% | ~1 |
 | Food Poisoning | 3.00% | ~1 |
@@ -35,13 +38,13 @@
 | Galactic Cadet | 3.00% | ~1 |
 | Silver Prince of Ball-air | 3.00% | ~1 |
 | Sectoral Captain | 3.00% | ~1 |
+| Collateral Damage II | 3.00% | ~1 |
 | Merchant Prince II | 3.00% | ~1 |
 | Fighting Fit II | 3.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
 | Archer's Bronze Fate | 0.00% | ~0 |
-| Bronze Foundation | 0.00% | ~0 |
 | Bronze Alchemist | 0.00% | ~0 |
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |
 | System Ensign | 0.00% | ~0 |
@@ -55,7 +58,6 @@
 | Curious | 0.00% | ~0 |
 | Rambo V | 0.00% | ~0 |
 | Space Odysseus | 0.00% | ~0 |
-| Hitchhiker | 0.00% | ~0 |
 | Argonaut | 0.00% | ~0 |
 | Pilgrim | 0.00% | ~0 |
 | Voyager 3 | 0.00% | ~0 |
@@ -73,7 +75,6 @@
 | Omicron Major | 0.00% | ~0 |
 | Omicron Theta | 0.00% | ~0 |
 | Omicron Gamma | 0.00% | ~0 |
-| Omicron Beta | 0.00% | ~0 |
 | No Peace | 0.00% | ~0 |
 | Bird of Prey | 0.00% | ~0 |
 | Unbalanced | 0.00% | ~0 |
@@ -128,7 +129,6 @@
 | Consumist | 0.00% | ~0 |
 | Hal | 0.00% | ~0 |
 | Collateral Damage IV | 0.00% | ~0 |
-| Collateral Damage II | 0.00% | ~0 |
 | Collateral Damage III | 0.00% | ~0 |
 | Merchant Prince III | 0.00% | ~0 |
 | Almost There V | 0.00% | ~0 |

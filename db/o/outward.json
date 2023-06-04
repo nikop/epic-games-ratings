@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2776,
+  "EOS_Progressed": 2778,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2094,6 +2094,11 @@
       "Time": "2023-06-04T02:35:51.3843713+00:00",
       "NumProgressed": 2776,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T03:23:41.1435988+00:00",
+      "NumProgressed": 2778,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2129,7 +2134,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "BloodAndJustice_50",
@@ -2145,7 +2150,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "CrowdPleaser",
@@ -2161,7 +2166,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "Eureka_23",
@@ -2289,7 +2294,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2297,7 +2302,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2305,7 +2310,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -2425,7 +2430,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2056
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2440,15 +2445,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2776,
+      "Progressed": 2778,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-04T02:35:51.384371+00:00",
+  "LastChanged_Achievements": "2023-06-04T03:23:41.1435983+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-04T02:33:06.2411004+00:00",
-  "LastUpdate_Achievements": "2023-06-04T02:35:51.3844181+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:20:56.4769526+00:00",
+  "LastUpdate_Achievements": "2023-06-04T03:23:41.1436446+00:00"
 }

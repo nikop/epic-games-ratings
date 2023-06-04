@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -798,9 +798,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5869,
+  "EOS_Progressed": 5870,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2883,6 +2883,11 @@
       "Time": "2023-06-03T23:04:29.0396876+00:00",
       "NumProgressed": 5869,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T03:26:59.2305005+00:00",
+      "NumProgressed": 5870,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2926,7 +2931,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -2934,7 +2939,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "Control_All_Relics",
@@ -3006,7 +3011,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4284
+      "UsersEstimate": 4285
     },
     {
       "ID": "First_Ship_Designed",
@@ -3030,7 +3035,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4578
+      "UsersEstimate": 4579
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -3238,7 +3243,7 @@
       "Name": "War with the Unknown",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "Win_As_Altarian",
@@ -3382,7 +3387,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3932
+      "UsersEstimate": 3933
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -3404,9 +3409,9 @@
       "ID": "Win_CustomFaction",
       "SetID": "4h07amh",
       "Name": "Win with a Custom Faction",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 411
     },
     {
       "ID": "Win_Diplomacy",
@@ -3452,9 +3457,9 @@
       "ID": "Win_Quickly",
       "SetID": "4h07amh",
       "Name": "Win Quickly",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 294
     },
     {
       "ID": "Win_Research",
@@ -3469,15 +3474,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5869,
+      "Progressed": 5870,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-02T21:01:45.7762711+00:00",
-  "LastChanged_Achievements": "2023-06-04T02:39:04.8532408+00:00",
+  "LastChanged_Achievements": "2023-06-04T03:26:59.2305+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:31.0102409+00:00",
-  "LastUpdate_Ratings": "2023-06-04T02:32:49.7392007+00:00",
-  "LastUpdate_Achievements": "2023-06-04T02:39:04.8533264+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:20:41.1532979+00:00",
+  "LastUpdate_Achievements": "2023-06-04T03:26:59.2305836+00:00"
 }

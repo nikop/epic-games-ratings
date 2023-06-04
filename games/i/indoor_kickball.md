@@ -11,8 +11,8 @@
 | Kickball Unlocked | 63.00% | ~26 |
 | Have a good trip! | 63.00% | ~26 |
 | First Win | 61.00% | ~25 |
+| Stay Hydrated | 59.00% | ~24 |
 | Settle Down | 56.00% | ~23 |
-| Stay Hydrated | 56.00% | ~23 |
 | Butter Fingers | 46.00% | ~19 |
 | True Story! | 32.00% | ~13 |
 | Grand Slam! | 27.00% | ~11 |
@@ -23,8 +23,8 @@
 | Spooky | 20.00% | ~8 |
 | Bathroom Secret Spot | 17.00% | ~7 |
 | Classroom Secret Spot | 10.00% | ~4 |
+| Living Room Secret Spot | 10.00% | ~4 |
 | Kitchen Secret Spot | 7.00% | ~3 |
-| Living Room Secret Spot | 7.00% | ~3 |
 | At least everyone still had fun | 7.00% | ~3 |
 | Just how we drew it up | 7.00% | ~3 |
 | Basement Secret Spot | 5.00% | ~2 |

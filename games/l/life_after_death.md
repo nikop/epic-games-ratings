@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Game is Starting! | 100.00% | ~2 |
+| First steps!! | 100.00% | ~2 |
 | Keep going!!! | 100.00% | ~2 |
-| First steps!! | 50.00% | ~1 |
 | I can do it more!!! | 50.00% | ~1 |
 | This is a a good day!!!! | 50.00% | ~1 |
 | I will not wait for tomorrow is now!!! | 50.00% | ~1 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -2173,9 +2173,9 @@
       "Count": 727
     }
   ],
-  "EOS_Progressed": 230044,
+  "EOS_Progressed": 230045,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6478,6 +6478,11 @@
       "Time": "2023-06-04T02:41:02.6254454+00:00",
       "NumProgressed": 230044,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-06-04T03:29:03.5671712+00:00",
+      "NumProgressed": 230045,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 122,
@@ -6521,7 +6526,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 220842
+      "UsersEstimate": 220843
     },
     {
       "ID": "CURSE1HP",
@@ -6529,7 +6534,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 89717
+      "UsersEstimate": 89718
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -6537,7 +6542,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 59811
+      "UsersEstimate": 59812
     },
     {
       "ID": "DAILY7",
@@ -6569,7 +6574,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 121923
+      "UsersEstimate": 121924
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -6585,7 +6590,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 96618
+      "UsersEstimate": 96619
     },
     {
       "ID": "DEPTH12HARD",
@@ -6609,7 +6614,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 167932
+      "UsersEstimate": 167933
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -6649,7 +6654,7 @@
       "Name": "To The Death!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43708
+      "UsersEstimate": 43709
     },
     {
       "ID": "DIEHARD",
@@ -6697,7 +6702,7 @@
       "Name": "Well Prepared",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43708
+      "UsersEstimate": 43709
     },
     {
       "ID": "ENDINGCHOICE",
@@ -6745,7 +6750,7 @@
       "Name": "Just Chilling",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43708
+      "UsersEstimate": 43709
     },
     {
       "ID": "FREEZE20TIMES",
@@ -6897,7 +6902,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 59811
+      "UsersEstimate": 59812
     },
     {
       "ID": "KILL10000",
@@ -6985,7 +6990,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 105820
+      "UsersEstimate": 105821
     },
     {
       "ID": "KILLPARANOIA",
@@ -7001,7 +7006,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43708
+      "UsersEstimate": 43709
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -7017,7 +7022,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 105820
+      "UsersEstimate": 105821
     },
     {
       "ID": "KILLSPITTER",
@@ -7025,7 +7030,7 @@
       "Name": "Shootout",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 80515
+      "UsersEstimate": 80516
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -7217,7 +7222,7 @@
       "Name": "New Perspectives",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 59811
+      "UsersEstimate": 59812
     },
     {
       "ID": "SNAKESTEALTH",
@@ -7233,7 +7238,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 204739
+      "UsersEstimate": 204740
     },
     {
       "ID": "SPECIALROOMS10",
@@ -7241,7 +7246,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 142627
+      "UsersEstimate": 142628
     },
     {
       "ID": "SPEEDRUN10",
@@ -7289,7 +7294,7 @@
       "Name": "Shapeshifting",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 59811
+      "UsersEstimate": 59812
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -7464,7 +7469,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 230044,
+      "Progressed": 230045,
       "Completed": 235
     }
   ],
@@ -7472,8 +7477,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-06-03T21:59:10.8300661+00:00",
-  "LastChanged_Achievements": "2023-06-04T02:41:02.6254449+00:00",
+  "LastChanged_Achievements": "2023-06-04T03:29:03.5671708+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:51.2413043+00:00",
-  "LastUpdate_Ratings": "2023-06-04T02:34:38.5723575+00:00",
-  "LastUpdate_Achievements": "2023-06-04T02:41:02.6256456+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:22:27.7412059+00:00",
+  "LastUpdate_Achievements": "2023-06-04T03:29:03.5673437+00:00"
 }

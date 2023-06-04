@@ -2580,10 +2580,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6689,
       "NumberOfAwardsMax": 1648
+    },
+    {
+      "Time": "2023-06-04T03:21:25.7217643+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6690,
+      "NumberOfAwardsMax": 1648
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6689,
+  "NumberOfAwards": 6690,
   "NumberOfAwardsMax": 1648,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2645,7 +2651,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 550
+      "Count": 551
     },
     {
       "Text": "This game has a Creative Community",
@@ -2656,7 +2662,7 @@
   ],
   "EOS_Progressed": 9489,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6364,9 +6370,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-03T16:58:38.1745159+00:00",
-  "LastChanged_Achievements": "2023-06-04T02:41:01.6618916+00:00",
+  "LastChanged": "2023-06-04T03:21:25.7217641+00:00",
+  "LastChanged_Achievements": "2023-06-04T03:29:02.7289898+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-04T02:33:36.8597949+00:00",
-  "LastUpdate_Achievements": "2023-06-04T02:41:01.6620512+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:21:25.7217647+00:00",
+  "LastUpdate_Achievements": "2023-06-04T03:29:02.7291604+00:00"
 }

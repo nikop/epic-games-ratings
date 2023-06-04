@@ -19,10 +19,10 @@
 | Immaculate Aim | 49.00% | ~288 |
 | Make Up For Lost Time | 48.00% | ~282 |
 | Breaking Down Barriers | 44.00% | ~258 |
-| The Steel Shadow | 40.00% | ~235 |
+| The Steel Shadow | 41.00% | ~241 |
 | Golem Chaser | 38.00% | ~223 |
+| The Wicked Twins | 37.00% | ~217 |
 | Like Clockwork | 36.00% | ~211 |
-| The Wicked Twins | 36.00% | ~211 |
 | The Betrayer | 35.00% | ~205 |
 | Check Your Pulse | 32.00% | ~188 |
 | Street Style | 30.00% | ~176 |

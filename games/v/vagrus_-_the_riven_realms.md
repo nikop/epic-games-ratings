@@ -18,6 +18,7 @@
 | Bounty Hunter | 1.00% | ~1 |
 | Scholar | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
+| Harbinger | 1.00% | ~1 |
 | Pilgrimage's End | 1.00% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
@@ -42,7 +43,6 @@
 | Xevarian Gambit | 0.00% | ~0 |
 | Deputized | 0.00% | ~0 |
 | Accomplished Explorer | 0.00% | ~0 |
-| Harbinger | 0.00% | ~0 |
 | Over the Horizon | 0.00% | ~0 |
 | Prepared For Anything | 0.00% | ~0 |
 | Courier | 0.00% | ~0 |

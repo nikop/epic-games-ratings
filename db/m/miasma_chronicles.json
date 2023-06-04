@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 998,
+  "EOS_Progressed": 999,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1207,6 +1207,11 @@
       "Time": "2023-06-04T00:00:02.9268067+00:00",
       "NumProgressed": 998,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T03:23:36.2019886+00:00",
+      "NumProgressed": 999,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1298,7 +1303,7 @@
       "Name": "Croaked",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "CRUELTY",
@@ -1330,15 +1335,15 @@
       "Name": "Limp Richard",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "DIFFERENTLY_ABLED",
       "SetID": "9a4jnji",
       "Name": "Jarhead",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 160
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -1362,7 +1367,7 @@
       "Name": "Editor Adept",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ENDGAME",
@@ -1378,7 +1383,7 @@
       "Name": "Exorcist",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "EXPERIENCED",
@@ -1394,7 +1399,7 @@
       "Name": "Firestarter",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1402,7 +1407,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1426,15 +1431,15 @@
       "Name": "From Darkness to Light",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "GIANT_KILLER",
       "SetID": "9a4jnji",
       "Name": "Giant Killer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 290
     },
     {
       "ID": "GOAL",
@@ -1482,7 +1487,7 @@
       "Name": "Lumberjack",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1554,7 +1559,7 @@
       "Name": "Sensei",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1602,7 +1607,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "THE_WATCHERS",
@@ -1625,7 +1630,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 998,
+      "Progressed": 999,
       "Completed": 0
     }
   ],
@@ -1633,8 +1638,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-03T13:58:34.6988445+00:00",
-  "LastChanged_Achievements": "2023-06-04T02:35:46.2254678+00:00",
+  "LastChanged_Achievements": "2023-06-04T03:23:36.2019881+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-04T02:33:36.4772047+00:00",
-  "LastUpdate_Achievements": "2023-06-04T02:35:46.2255223+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:21:25.2730444+00:00",
+  "LastUpdate_Achievements": "2023-06-04T03:23:36.2020418+00:00"
 }

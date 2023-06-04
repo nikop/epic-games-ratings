@@ -334,9 +334,9 @@
       "ID": "26",
       "SetID": "39djiaj",
       "Name": "Living Room Secret Spot",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "27",
@@ -494,9 +494,9 @@
       "ID": "8",
       "SetID": "39djiaj",
       "Name": "Stay Hydrated",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "9",
@@ -517,8 +517,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-06-04T02:40:38.939326+00:00",
+  "LastChanged_Achievements": "2023-06-04T03:28:40.6567316+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:29.2031334+00:00",
-  "LastUpdate_Ratings": "2023-06-04T02:34:21.7009498+00:00",
-  "LastUpdate_Achievements": "2023-06-04T02:40:38.9393613+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:22:11.8370865+00:00",
+  "LastUpdate_Achievements": "2023-06-04T03:28:40.6567737+00:00"
 }
