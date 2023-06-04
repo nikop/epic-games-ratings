@@ -31,7 +31,7 @@
 | 29 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 30 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
-| 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.89% |
+| 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.86% |
 | 33 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 34 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.18% |
 | 35 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.95% |
@@ -44,8 +44,8 @@
 | 42 | [The Complex](games/t/the_complex.md) | 3.37% |
 | 43 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.23% |
 | 44 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.20% |
-| 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.19% |
-| 46 | [ZZT!](games/z/zzt!.md) | 3.16% |
+| 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.16% |
+| 45 | [ZZT!](games/z/zzt!.md) | 3.16% |
 | 47 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.03% |
 | 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
@@ -66,8 +66,8 @@
 | 64 | [Iron Danger](games/i/iron_danger.md) | 2.11% |
 | 65 | [JARS](games/j/jars.md) | 2.04% |
 | 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
-| 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.80% |
 | 67 | [Sifu](games/s/sifu.md) | 1.80% |
+| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.79% |
 | 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.64% |
 | 71 | [A Musical Story](games/a/a_musical_story.md) | 1.59% |

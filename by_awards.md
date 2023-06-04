@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 428,405 | 4.50 | 543 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 297,199 | 4.68 | 242 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 183,518 | 4.19 | 831 |
-| 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 177,413 | 4.68 | 242 |
+| 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 177,813 | 4.68 | 242 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 145,822 | 4.89 | 13 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 139,956 | 4.53 | 500 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 110,488 | 4.69 | 217 |
@@ -78,7 +78,7 @@
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,976 | 4.56 | 453 |
 | 77 | [SMITE](games/s/smite.md) | 3,852 | 4.45 | 613 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,787 | 4.69 | 217 |
-| 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,621 | 4.29 | 769 |
+| 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,622 | 4.29 | 769 |
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,459 | 4.47 | 590 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,332 | 4.46 | 600 |
 | 82 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,329 | 4.68 | 242 |
@@ -97,7 +97,7 @@
 | 95 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,375 | 4.80 | 79 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,344 | 4.10 | 869 |
 | 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,292 | 4.78 | 101 |
-| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,283 | 4.17 | 844 |
+| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,291 | 4.17 | 844 |
 | 99 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,220 | 4.67 | 261 |
 | 100 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,171 | 4.41 | 666 |
 | 101 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,138 | 4.64 | 314 |
@@ -135,7 +135,7 @@
 | 133 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,055 | 4.78 | 101 |
 | 134 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,045 | 4.66 | 279 |
 | 135 | [Saints Row](games/s/saints_row.md) | 1,033 | 3.78 | 925 |
-| 136 | [EVE Online](games/e/eve_online.md) | 1,025 | 4.25 | 790 |
+| 136 | [EVE Online](games/e/eve_online.md) | 1,025 | 4.25 | 791 |
 | 137 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 807 |
 | 138 | [Ooblets](games/o/ooblets.md) | 1,009 | 4.87 | 26 |
 | 139 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 995 | 4.40 | 678 |
@@ -437,7 +437,7 @@
 | 434 | [DOOM (1993)](games/d/doom_(1993).md) | 33 | 4.81 | 73 |
 | 434 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.19 | 831 |
 | 434 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 33 | 4.54 | 489 |
-| 438 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.13 | 863 |
+| 438 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.13 | 864 |
 | 438 | [Chorus](games/c/chorus.md) | 32 | 4.47 | 590 |
 | 438 | [MythForce](games/m/mythforce.md) | 32 | 4.50 | 543 |
 | 438 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 32 | 4.41 | 666 |
@@ -468,7 +468,7 @@
 | 465 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 716 |
 | 465 | [The Outlast Trials](games/t/the_outlast_trials.md) | 25 | 4.65 | 296 |
 | 468 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 24 | 4.75 | 133 |
-| 468 | [City of Gangsters](games/c/city_of_gangsters.md) | 24 | 4.25 | 790 |
+| 468 | [City of Gangsters](games/c/city_of_gangsters.md) | 24 | 4.25 | 791 |
 | 468 | [ELEX](games/e/elex.md) | 24 | 4.44 | 631 |
 | 468 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.64 | 314 |
 | 468 | [Weird West: Definitive Edition](games/w/weird_west.md) | 24 | 4.45 | 613 |
@@ -476,7 +476,7 @@
 | 473 | [RUINER](games/r/ruiner.md) | 23 | 4.53 | 500 |
 | 473 | [Warpips](games/w/warpips.md) | 23 | 4.41 | 666 |
 | 476 | [Chimeraland](games/c/chimeraland.md) | 22 | 3.94 | 907 |
-| 476 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 790 |
+| 476 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 791 |
 | 476 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 820 |
 | 476 | [MotoGP™21](games/m/motogp™21.md) | 22 | 4.55 | 474 |
 | 476 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.88 | 20 |

@@ -249,7 +249,7 @@
 | 242 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,073 | 47 |
 | 242 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,338 | 61 |
 | 242 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 297,199 | 3 |
-| 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 177,413 | 5 |
+| 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 177,813 | 5 |
 | 242 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.68 | 0 | 493 |
 | 242 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 493 |
 | 242 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 412 | 198 |
@@ -770,7 +770,7 @@
 | 762 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 493 |
 | 769 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 493 |
 | 769 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 493 |
-| 769 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,621 | 79 |
+| 769 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,622 | 79 |
 | 769 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 684 | 158 |
 | 769 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 136 | 294 |
 | 769 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 173 | 276 |
@@ -787,15 +787,15 @@
 | 782 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.27 | 0 | 493 |
 | 782 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 227 |
 | 787 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 493 |
+| 787 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 493 |
 | 787 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 0 | 493 |
 | 787 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 493 |
-| 790 | [Chess Ultra](games/c/chess_ultra.md) | 4.25 | 0 | 493 |
-| 790 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 24 | 468 |
-| 790 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 476 |
-| 790 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,025 | 136 |
-| 790 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 493 |
-| 790 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 493 |
-| 790 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 493 |
+| 791 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 24 | 468 |
+| 791 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 476 |
+| 791 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,025 | 136 |
+| 791 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 493 |
+| 791 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 493 |
+| 791 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 493 |
 | 797 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 493 |
 | 797 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 443 |
 | 797 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 11,423 | 32 |
@@ -845,7 +845,7 @@
 | 838 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 493 |
 | 844 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 461 |
 | 844 | [Gone Home](games/g/gone_home.md) | 4.17 | 0 | 493 |
-| 844 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,283 | 98 |
+| 844 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,291 | 98 |
 | 844 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 493 |
 | 844 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 0 | 493 |
 | 849 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 493 |
@@ -858,14 +858,14 @@
 | 854 | [Relicta](games/r/relicta.md) | 4.15 | 195 | 264 |
 | 854 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 71 | 365 |
 | 854 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 493 |
+| 859 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 0 | 493 |
 | 859 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.14 | 0 | 493 |
 | 859 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 493 |
 | 859 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 493 |
 | 859 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 493 |
-| 863 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 493 |
-| 863 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.13 | 32 | 438 |
-| 863 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 493 |
-| 863 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.13 | 0 | 493 |
+| 864 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 493 |
+| 864 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.13 | 32 | 438 |
+| 864 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.13 | 0 | 493 |
 | 867 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 493 |
 | 867 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 77 | 352 |
 | 869 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 | 493 |
