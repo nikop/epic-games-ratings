@@ -20,12 +20,12 @@
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
 | 20 | [Remains](games/r/remains.md) | 8.11% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.04% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.11% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.81% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Scorn](games/s/scorn.md) | 6.86% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.75% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.74% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.52% |
 | 28 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 29 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -43,7 +43,7 @@
 | 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.42% |
 | 42 | [The Complex](games/t/the_complex.md) | 3.37% |
 | 43 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.30% |
-| 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.25% |
+| 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.24% |
 | 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.20% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.17% |
 | 47 | [The Bunker](games/t/the_bunker.md) | 3.09% |
@@ -60,12 +60,12 @@
 | 58 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 59 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 60 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.30% |
+| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.17% |
 | 61 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 62 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 64 | [Iron Danger](games/i/iron_danger.md) | 2.11% |
 | 65 | [JARS](games/j/jars.md) | 2.08% |
-| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.88% |
+| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.83% |
 | 67 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 68 | [Sifu](games/s/sifu.md) | 1.80% |
 | 69 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
@@ -87,7 +87,7 @@
 | 84 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 86 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.08% |
 | 87 | [Late Shift](games/l/late_shift.md) | 1.04% |
-| 88 | [Five Dates](games/f/five_dates.md) | 1.00% |
+| 88 | [Five Dates](games/f/five_dates.md) | 0.99% |
 | 89 | [Sable](games/s/sable.md) | 0.94% |
 | 90 | [Hades](games/h/hades.md) | 0.89% |
 | 91 | [Poosh XL](games/p/poosh_xl.md) | 0.87% |
