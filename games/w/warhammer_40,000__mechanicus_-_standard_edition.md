@@ -5,27 +5,27 @@ Rating: 4.43 (Ranked 648)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,218 |
-| This is only the beginning | 19.00% | ~40,446 |
-| Knowledge is power | 12.00% | ~25,545 |
-| Power Ranger | 9.00% | ~19,158 |
-| Galvanic Rifle | 9.00% | ~19,158 |
-| Taser Goad | 9.00% | ~19,158 |
-| Radium Ready | 9.00% | ~19,158 |
-| Half a cog | 9.00% | ~19,158 |
-| Watch them crumble | 6.00% | ~12,772 |
-| Competent Cohort | 4.00% | ~8,515 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,515 |
-| One with the Machine | 4.00% | ~8,515 |
-| Legio Cybernetica | 3.00% | ~6,386 |
-| Fleshy Disposal | 3.00% | ~6,386 |
-| Battle Servitor | 2.00% | ~4,257 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,257 |
-| Impatient destruction | 2.00% | ~4,257 |
-| Vivisected Vizier | 2.00% | ~4,257 |
-| Architect Abortion | 2.00% | ~4,257 |
+| No aid from the Omnissiah | 25.00% | ~53,222 |
+| This is only the beginning | 19.00% | ~40,449 |
+| Knowledge is power | 12.00% | ~25,547 |
+| Power Ranger | 9.00% | ~19,160 |
+| Galvanic Rifle | 9.00% | ~19,160 |
+| Taser Goad | 9.00% | ~19,160 |
+| Radium Ready | 9.00% | ~19,160 |
+| Half a cog | 9.00% | ~19,160 |
+| Watch them crumble | 6.00% | ~12,773 |
+| Competent Cohort | 4.00% | ~8,516 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,516 |
+| One with the Machine | 4.00% | ~8,516 |
+| Legio Cybernetica | 3.00% | ~6,387 |
+| Fleshy Disposal | 3.00% | ~6,387 |
+| Battle Servitor | 2.00% | ~4,258 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,258 |
+| Impatient destruction | 2.00% | ~4,258 |
+| Vivisected Vizier | 2.00% | ~4,258 |
+| Architect Abortion | 2.00% | ~4,258 |
 | Cohortus Maximus | 0.70% | ~1,490 |
-| Mother of Xenarites | 0.40% | ~851 |
+| Mother of Xenarites | 0.40% | ~852 |
 | False God | 0.30% | ~639 |
 | Hard | 0.20% | ~426 |
 | Sterile Perfection | 0.10% | ~213 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 648)
 | Perma-live | 0.10% | ~213 |
 | Purge the Heretek | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,872 (Ranked 49)  
+Progressed: 212,889 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 3 (0.00%) (Ranked 211)
 | 2023-06-01 | 212,444 | 3 |
 | 2023-06-02 | 212,587 | 3 |
 | 2023-06-03 | 212,790 | 3 |
-| 2023-06-04 | 212,872 | 3 |
+| 2023-06-04 | 212,889 | 3 |
 ## Awards
 Max (Highly Recommended): 278  (Ranked 231)  
 Sum: 2,103 (Ranked 181)  

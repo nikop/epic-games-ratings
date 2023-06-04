@@ -1382,9 +1382,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63572,
+  "EOS_Progressed": 63581,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1033,
+  "EOS_NewPlayers": 1038,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5032,6 +5032,11 @@
       "Time": "2023-06-04T15:06:36.1478647+00:00",
       "NumProgressed": 63572,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-04T16:06:23.5810791+00:00",
+      "NumProgressed": 63581,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5091,7 +5096,7 @@
       "Name": "The Batman Family",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -5267,7 +5272,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "FREEZE_1_5",
@@ -5347,7 +5352,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "HARLEY_2",
@@ -5355,7 +5360,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "HARLEY_3",
@@ -5419,7 +5424,7 @@
       "Name": "Knighthood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -5435,7 +5440,7 @@
       "Name": "Loose Ends",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "MYSTERY_02",
@@ -5443,7 +5448,7 @@
       "Name": "Whispered Words",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "MYSTERY_03",
@@ -5530,13 +5535,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63572,
+      "Progressed": 63581,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33852,
+      "Progressed": 33861,
       "Completed": 2644
     }
   ],
@@ -5544,8 +5549,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-04T03:22:41.9796942+00:00",
-  "LastChanged_Achievements": "2023-06-04T15:06:36.1478641+00:00",
+  "LastChanged_Achievements": "2023-06-04T16:06:23.5810786+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:00:02.2114756+00:00",
-  "LastUpdate_Achievements": "2023-06-04T15:06:36.1479429+00:00"
+  "LastUpdate_Ratings": "2023-06-04T15:59:47.0154551+00:00",
+  "LastUpdate_Achievements": "2023-06-04T16:06:23.5811657+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~18,129 |
-| Strongman | 31.00% | ~5,979 |
-| Alpha Male | 19.00% | ~3,664 |
-| Just Enough | 18.00% | ~3,471 |
-| Pro-creative | 18.00% | ~3,471 |
-| Worth Every Penny | 15.00% | ~2,893 |
-| Family man | 12.00% | ~2,314 |
-| Junior Estate Agent | 12.00% | ~2,314 |
+| First money | 94.00% | ~18,133 |
+| Strongman | 31.00% | ~5,980 |
+| Alpha Male | 19.00% | ~3,665 |
+| Just Enough | 18.00% | ~3,472 |
+| Pro-creative | 18.00% | ~3,472 |
+| Worth Every Penny | 15.00% | ~2,894 |
+| Family man | 12.00% | ~2,315 |
+| Junior Estate Agent | 12.00% | ~2,315 |
 | Mystery | 10.00% | ~1,929 |
 | Artistic soul | 9.00% | ~1,736 |
 | Estate Agent | 5.00% | ~964 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~96 |
 | Senior Estate Agent | 0.50% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,286 (Ranked 95)  
+Progressed: 19,290 (Ranked 95)  
 Completed: 19 (0.10%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,17 +75,17 @@ Completed: 19 (0.10%) (Ranked 163)
 | 2023-06-01 | 19,184 | 19 |
 | 2023-06-02 | 19,224 | 19 |
 | 2023-06-03 | 19,263 | 19 |
-| 2023-06-04 | 19,286 | 19 |
+| 2023-06-04 | 19,290 | 19 |
 ## Awards
 Max (Great for Beginners): 294  (Ranked 228)  
-Sum: 2,146 (Ranked 178)  
+Sum: 2,147 (Ranked 178)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 294 |
 | This game is Educational | 233 |
 | This game is Extremely Fun | 220 |
-| This game is Relaxing | 219 |
+| This game is Relaxing | 220 |
 | This game has Quickly Understood Controls | 215 |
 | This game is Highly Recommended | 210 |
 | This game has Amazing Storytelling | 205 |
@@ -203,3 +203,4 @@ Diff (max vs sum): 50
 | 2023-06-01 | 4.69 | - | 293 | 2,143 |
 | 2023-06-02 | 4.69 | - | 294 | 2,145 |
 | 2023-06-03 | 4.69 | - | 294 | 2,146 |
+| 2023-06-04 | 4.69 | - | 294 | 2,147 |

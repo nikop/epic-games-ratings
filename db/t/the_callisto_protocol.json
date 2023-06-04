@@ -530,7 +530,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14470,
+  "EOS_Progressed": 14474,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
@@ -2730,6 +2730,11 @@
       "Time": "2023-06-04T15:04:15.6888925+00:00",
       "NumProgressed": 14470,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-04T16:04:11.9784424+00:00",
+      "NumProgressed": 14474,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2973,7 +2978,7 @@
       "Name": "Desperate Times",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3060,13 +3065,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14470,
+      "Progressed": 14474,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2396,
+      "Progressed": 2400,
       "Completed": 29
     }
   ],
@@ -3074,8 +3079,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-04T15:04:15.688892+00:00",
+  "LastChanged_Achievements": "2023-06-04T16:04:11.9784414+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-04T14:57:59.8349781+00:00",
-  "LastUpdate_Achievements": "2023-06-04T15:04:15.6889378+00:00"
+  "LastUpdate_Ratings": "2023-06-04T15:57:49.9115184+00:00",
+  "LastUpdate_Achievements": "2023-06-04T16:04:11.9784901+00:00"
 }

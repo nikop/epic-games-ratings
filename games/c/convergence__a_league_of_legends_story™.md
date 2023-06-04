@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 93.00% | ~554 |
+| Time Heals All Wounds | 94.00% | ~560 |
 | Rail Rat | 78.00% | ~465 |
 | The Mysterious Stranger | 76.00% | ~453 |
-| Immaculate Aim | 64.00% | ~381 |
+| Immaculate Aim | 65.00% | ~387 |
 | The Brass Boss | 57.00% | ~340 |
 | Honest Mistake | 56.00% | ~334 |
 | No, Thanks! | 55.00% | ~328 |
@@ -15,7 +15,7 @@
 | The Harder They Fall | 52.00% | ~310 |
 | The Prince in Heels | 52.00% | ~310 |
 | Right On Time | 50.00% | ~298 |
-| Fast Learner | 49.00% | ~292 |
+| Fast Learner | 50.00% | ~298 |
 | Immaculate Aim | 49.00% | ~292 |
 | Make Up For Lost Time | 48.00% | ~286 |
 | Breaking Down Barriers | 44.00% | ~262 |
@@ -23,7 +23,7 @@
 | Golem Chaser | 38.00% | ~226 |
 | Like Clockwork | 37.00% | ~221 |
 | The Wicked Twins | 37.00% | ~221 |
-| The Betrayer | 35.00% | ~209 |
+| The Betrayer | 36.00% | ~215 |
 | Check Your Pulse | 33.00% | ~197 |
 | Street Style | 30.00% | ~179 |
 | Family Memories | 30.00% | ~179 |

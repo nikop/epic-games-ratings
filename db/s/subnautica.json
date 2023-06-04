@@ -2,7 +2,7 @@
   "ID": "jaguar",
   "Name": "Subnautica",
   "ProductSlug": "subnautica",
-  "Ranking_Rating": 49,
+  "Ranking_Rating": 37,
   "Ranking_Popularity": 161,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 433,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.85,
   "NumberOfRatings": 7928,
   "RatingHistory": [
     {
@@ -3576,10 +3576,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 5291,
       "NumberOfAwardsMax": 664
+    },
+    {
+      "Time": "2023-06-04T15:59:05.8887909+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 5292,
+      "NumberOfAwardsMax": 664
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5291,
+  "NumberOfAwards": 5292,
   "NumberOfAwardsMax": 664,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -3629,7 +3635,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 519
+      "Count": 520
     },
     {
       "Text": "This game is Educational",
@@ -3661,8 +3667,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-06-04T06:00:05.4185277+00:00",
+  "LastChanged": "2023-06-04T15:59:05.8887908+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:24.4776355+00:00",
-  "LastUpdate_Ratings": "2023-06-04T14:59:21.4366657+00:00",
-  "LastUpdate_Achievements": "2023-06-04T15:04:59.2762508+00:00"
+  "LastUpdate_Ratings": "2023-06-04T15:59:05.8887913+00:00",
+  "LastUpdate_Achievements": "2023-06-04T16:04:55.8119682+00:00"
 }

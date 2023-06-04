@@ -1,28 +1,28 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.62 (Ranked 345)  
+Rating: 4.62 (Ranked 346)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,303 |
-| Greasy Palms | 39.00% | ~2,996 |
-| South American Connection | 23.00% | ~1,767 |
-| Life of the Party | 18.00% | ~1,383 |
-| Big Heat from Little Havana | 13.00% | ~999 |
-| Tommy Two-Wheels | 13.00% | ~999 |
-| Chauffeur | 12.00% | ~922 |
-| Salutations My Little Friend | 10.00% | ~768 |
-| Iron-y | 9.00% | ~691 |
+| Legal Counsel | 43.00% | ~3,307 |
+| Greasy Palms | 39.00% | ~2,999 |
+| South American Connection | 23.00% | ~1,769 |
+| Life of the Party | 18.00% | ~1,384 |
+| Big Heat from Little Havana | 13.00% | ~1,000 |
+| Tommy Two-Wheels | 13.00% | ~1,000 |
+| Chauffeur | 12.00% | ~923 |
+| Salutations My Little Friend | 10.00% | ~769 |
+| Iron-y | 9.00% | ~692 |
 | Gun for Hire | 7.00% | ~538 |
 | Mischief Managed | 7.00% | ~538 |
 | Vice City Mogul | 6.00% | ~461 |
 | Bloodstained Hands | 6.00% | ~461 |
 | Catch Me if You Can | 5.00% | ~384 |
-| Not my First Time | 4.00% | ~307 |
-| Grand Theft Auto | 4.00% | ~307 |
-| High Quality H2O | 3.00% | ~230 |
-| Pie Guy | 3.00% | ~230 |
+| Not my First Time | 4.00% | ~308 |
+| Grand Theft Auto | 4.00% | ~308 |
+| High Quality H2O | 3.00% | ~231 |
+| Pie Guy | 3.00% | ~231 |
 | Running Rampant | 2.00% | ~154 |
 | Point A to Point B | 2.00% | ~154 |
 | Bull in a China Shop | 2.00% | ~154 |
@@ -33,14 +33,14 @@ Rating: 4.62 (Ranked 345)
 | City Sleuth | 2.00% | ~154 |
 | One is Better Than Two | 1.00% | ~77 |
 | Chopper’d Up | 1.00% | ~77 |
-| Daredevil | 0.80% | ~61 |
+| Daredevil | 0.80% | ~62 |
 | Born in the 80’s | 0.70% | ~54 |
 | Keepie-Uppy Okie Dokie | 0.70% | ~54 |
 | I'm Famous! | 0.70% | ~54 |
 | Done it All | 0.60% | ~46 |
 | Kingpin | 0.30% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,682 (Ranked 114)  
+Progressed: 7,690 (Ranked 114)  
 Completed: 25 (0.33%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 25 (0.33%) (Ranked 123)
 | 2023-06-01 | 7,430 | 25 |
 | 2023-06-02 | 7,512 | 25 |
 | 2023-06-03 | 7,608 | 25 |
-| 2023-06-04 | 7,682 | 25 |
+| 2023-06-04 | 7,690 | 25 |
 ## Awards
 Max (Great Boss Battles): 43  (Ranked 408)  
 Sum: 43 (Ranked 445)  

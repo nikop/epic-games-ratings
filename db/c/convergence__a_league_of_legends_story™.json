@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 596,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1051,9 +1051,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 215
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1211,9 +1211,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 560
     },
     {
       "ID": "RewindParry",
@@ -1251,9 +1251,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 298
     },
     {
       "ID": "SpeedRun",
@@ -1299,9 +1299,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 387
     },
     {
       "ID": "WarwickDefeated",
@@ -1354,8 +1354,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-04T15:05:32.9911175+00:00",
+  "LastChanged_Achievements": "2023-06-04T16:05:20.0518557+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-04T14:59:41.5068294+00:00",
-  "LastUpdate_Achievements": "2023-06-04T15:05:32.9911682+00:00"
+  "LastUpdate_Ratings": "2023-06-04T15:59:27.3274672+00:00",
+  "LastUpdate_Achievements": "2023-06-04T16:05:20.0519098+00:00"
 }

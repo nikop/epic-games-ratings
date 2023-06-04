@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 1114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1494,9 +1494,9 @@
       "ID": "ACHIEVEMENT_DRIVERS_LICENSE",
       "SetID": "l546gc",
       "Name": "Driver\u0027s License",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_EXPLOSIVE_MINER",
@@ -1871,8 +1871,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-03T17:57:40.7372118+00:00",
-  "LastChanged_Achievements": "2023-06-04T15:03:48.77392+00:00",
+  "LastChanged_Achievements": "2023-06-04T16:03:55.4719318+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-04T14:57:31.2705008+00:00",
-  "LastUpdate_Achievements": "2023-06-04T15:03:48.7739654+00:00"
+  "LastUpdate_Ratings": "2023-06-04T15:57:19.9247537+00:00",
+  "LastUpdate_Achievements": "2023-06-04T16:03:55.4719815+00:00"
 }

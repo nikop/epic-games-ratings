@@ -1,11 +1,11 @@
 # Phantom Brigade
 [Store](https://store.epicgames.com/en-US/p/phantom-brigade)  
 [View Rawdata](../../db/p/phantom_brigade.json)  
-Rating: 4.62 (Ranked 345)  
+Rating: 4.62 (Ranked 346)  
 Number of Ratings: 239  (23.09.2022)  
 ## Awards
-Max (Character Customization): 104  (Ranked 321)  
-Sum: 104 (Ranked 400)  
+Max (Character Customization): 104  (Ranked 322)  
+Sum: 104 (Ranked 401)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |

@@ -14,20 +14,20 @@
 | The New World | 44.00% | ~160 |
 | Lock, Stock, And Barrel | 43.00% | ~156 |
 | Gaze Into The Abyss | 42.00% | ~152 |
-| Open Sesame | 41.00% | ~149 |
-| Sticky Fingers | 41.00% | ~149 |
+| Open Sesame | 42.00% | ~152 |
+| Sticky Fingers | 42.00% | ~152 |
 | Knives Out | 41.00% | ~149 |
 | Back In The Saddle | 40.00% | ~145 |
 | Land, Ho! | 40.00% | ~145 |
 | No Man Is An Island | 38.00% | ~138 |
 | At Wits' End | 37.00% | ~134 |
 | Going Once... | 35.00% | ~127 |
-| Bookworm | 34.00% | ~123 |
+| Bookworm | 35.00% | ~127 |
 | Up In Flames | 34.00% | ~123 |
 | Fhtagn! | 34.00% | ~123 |
 | Let Me Be Frank | 32.00% | ~116 |
 | Brain Food | 31.00% | ~113 |
-| No Stone Unturned | 29.00% | ~105 |
+| No Stone Unturned | 30.00% | ~109 |
 | Curiosity Killed The Cat | 19.00% | ~69 |
 | Read It And Weep | 17.00% | ~62 |
 | Big Breakthrough | 15.00% | ~54 |

@@ -4,7 +4,7 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
@@ -369,9 +369,9 @@
       "ID": "secret31",
       "SetID": "39f6ck8",
       "Name": "Immortal Skin",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "secret32",
@@ -610,8 +610,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-06-04T15:06:33.9908439+00:00",
+  "LastChanged_Achievements": "2023-06-04T16:06:21.3344504+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.0217404+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:00:16.091588+00:00",
-  "LastUpdate_Achievements": "2023-06-04T15:06:33.9908922+00:00"
+  "LastUpdate_Ratings": "2023-06-04T16:00:00.9443001+00:00",
+  "LastUpdate_Achievements": "2023-06-04T16:06:21.3344985+00:00"
 }

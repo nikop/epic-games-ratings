@@ -5,9 +5,9 @@
   "Ranking_Rating": 707,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
-  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.8,
+  "EOS_Completed_Percentage": 2.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -178,6 +178,11 @@
       "Time": "2023-06-01T21:04:11.2100315+00:00",
       "NumProgressed": 286,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-04T16:04:24.9773472+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -253,7 +258,7 @@
       "Name": "There is freedom in awakening",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_09",
@@ -261,7 +266,7 @@
       "Name": "Grau Hill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_10",
@@ -269,7 +274,7 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_11",
@@ -277,7 +282,7 @@
       "Name": "A forgotten language",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_12",
@@ -285,7 +290,7 @@
       "Name": "Lord Wesley",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_13",
@@ -340,7 +345,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 8
     }
   ],
@@ -348,8 +353,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-06-04T15:04:28.6002283+00:00",
+  "LastChanged_Achievements": "2023-06-04T16:04:24.9773467+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:54.9129211+00:00",
-  "LastUpdate_Ratings": "2023-06-04T14:57:54.3393226+00:00",
-  "LastUpdate_Achievements": "2023-06-04T15:04:28.6002411+00:00"
+  "LastUpdate_Ratings": "2023-06-04T15:57:43.2476844+00:00",
+  "LastUpdate_Achievements": "2023-06-04T16:04:24.9773621+00:00"
 }

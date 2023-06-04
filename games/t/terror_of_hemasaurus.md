@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Terror Rising | 66.00% | ~35 |
 | Jalopy Poppy | 64.00% | ~34 |
-| Green-Bodied Monster | 51.00% | ~27 |
+| Green-Bodied Monster | 53.00% | ~28 |
 | Chopper Stopper | 43.00% | ~23 |
-| Test of Faith | 38.00% | ~20 |
+| Test of Faith | 40.00% | ~21 |
 | Aerosolized | 38.00% | ~20 |
 | Reign of Terror | 30.00% | ~16 |
 | Monstrosity Atrocity | 30.00% | ~16 |

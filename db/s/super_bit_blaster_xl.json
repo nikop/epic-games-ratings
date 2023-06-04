@@ -2,7 +2,7 @@
   "ID": "b9857458d4d5405bb222610cd9f979d9",
   "Name": "Super Bit Blaster XL",
   "ProductSlug": "super-bit-blaster-xl-35d206",
-  "Ranking_EOS_Progress": 272,
+  "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 46,
   "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 63,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96,
+  "EOS_Progressed": 97,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.12,
+  "EOS_Completed_Percentage": 3.09,
   "EosHistory": [
     {
       "Time": "2023-05-04T22:06:12.5880447+00:00",
@@ -456,6 +456,11 @@
       "Time": "2023-06-04T06:06:40.7158369+00:00",
       "NumProgressed": 96,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-04T16:05:49.7008992+00:00",
+      "NumProgressed": 97,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 17,
@@ -465,9 +470,9 @@
       "ID": "1.5 Million",
       "SetID": "1f269fc",
       "Name": "1.5 Million",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "10K",
@@ -475,7 +480,7 @@
       "Name": "10K",
       "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "15K",
@@ -483,7 +488,7 @@
       "Name": "15K",
       "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "1K",
@@ -491,39 +496,39 @@
       "Name": "1K",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "2.5K",
       "SetID": "1f269fc",
       "Name": "2.5K",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "25K",
       "SetID": "1f269fc",
       "Name": "25K",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 75,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "500K",
       "SetID": "1f269fc",
       "Name": "500K",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "50K",
       "SetID": "1f269fc",
       "Name": "50K",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "5K",
@@ -531,7 +536,7 @@
       "Name": "5K",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "75K",
@@ -539,7 +544,7 @@
       "Name": "75K",
       "Percentage": 48,
       "XP": 150,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Bit Blaster V2",
@@ -547,21 +552,21 @@
       "Name": "Bit Blaster V2",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Bit Blaster V3",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V3",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Bit Blaster V4",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V4",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 40,
       "UsersEstimate": 15
     },
@@ -602,14 +607,14 @@
     {
       "ID": "1f269fc",
       "IsBase": true,
-      "Progressed": 96,
+      "Progressed": 97,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-06-04T15:06:02.3211988+00:00",
+  "LastChanged_Achievements": "2023-06-04T16:05:49.7008987+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:52.7277821+00:00",
-  "LastUpdate_Ratings": "2023-06-04T14:57:52.0413066+00:00",
-  "LastUpdate_Achievements": "2023-06-04T15:06:02.3212135+00:00"
+  "LastUpdate_Ratings": "2023-06-04T15:57:39.3669681+00:00",
+  "LastUpdate_Achievements": "2023-06-04T16:05:49.7009162+00:00"
 }

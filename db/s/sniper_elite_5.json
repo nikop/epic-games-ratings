@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2230,
+  "EOS_Progressed": 2232,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2475,6 +2475,11 @@
       "Time": "2023-06-04T15:06:19.2253552+00:00",
       "NumProgressed": 2230,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-04T16:06:06.8762113+00:00",
+      "NumProgressed": 2232,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2654,7 +2659,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2710,7 +2715,7 @@
       "Name": "Resourceful",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2726,7 +2731,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2878,7 +2883,7 @@
       "Name": "Target America",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3053,13 +3058,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2181,
+      "Progressed": 2183,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2230,
+      "Progressed": 2232,
       "Completed": 2
     }
   ],
@@ -3067,8 +3072,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-04T15:06:19.2253546+00:00",
+  "LastChanged_Achievements": "2023-06-04T16:06:06.8762108+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T15:00:54.251599+00:00",
-  "LastUpdate_Achievements": "2023-06-04T15:06:19.2254316+00:00"
+  "LastUpdate_Ratings": "2023-06-04T16:00:38.9335712+00:00",
+  "LastUpdate_Achievements": "2023-06-04T16:06:06.8762912+00:00"
 }

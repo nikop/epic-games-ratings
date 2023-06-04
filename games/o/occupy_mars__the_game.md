@@ -26,7 +26,7 @@ Rating: 3.83 (Ranked 919)
 | Plumber | 2.00% | ~22 |
 | Hard Landing | 1.00% | ~11 |
 | To infinity and beyond! | 1.00% | ~11 |
-| Driver's License | 0.80% | ~9 |
+| Driver's License | 0.90% | ~10 |
 | Explosive Miner | 0.70% | ~8 |
 | Rocket Jump | 0.60% | ~7 |
 | Thunderstruck | 0.60% | ~7 |

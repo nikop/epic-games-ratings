@@ -5,15 +5,15 @@ Rating: 4.61 (Ranked 362)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~7,595 |
-| Pay 'n' Spray | 48.00% | ~4,557 |
-| All Dressed Up for San Fierro | 22.00% | ~2,089 |
-| The American Dream | 17.00% | ~1,614 |
-| School's Out | 15.00% | ~1,424 |
-| Smooth Moves | 15.00% | ~1,424 |
-| Today Was a Good Day | 13.00% | ~1,234 |
-| What happens in Las Venturas... | 12.00% | ~1,139 |
-| Horror of the Santa Maria | 9.00% | ~854 |
+| Getting Started | 80.00% | ~7,600 |
+| Pay 'n' Spray | 48.00% | ~4,560 |
+| All Dressed Up for San Fierro | 22.00% | ~2,090 |
+| The American Dream | 17.00% | ~1,615 |
+| School's Out | 15.00% | ~1,425 |
+| Smooth Moves | 15.00% | ~1,425 |
+| Today Was a Good Day | 13.00% | ~1,235 |
+| What happens in Las Venturas... | 12.00% | ~1,140 |
+| Horror of the Santa Maria | 9.00% | ~855 |
 | Liberty City State of Mind | 7.00% | ~665 |
 | With Extra Dip | 6.00% | ~570 |
 | The End of the Line | 6.00% | ~570 |
@@ -33,15 +33,15 @@ Rating: 4.61 (Ranked 362)
 | Swiss Army Strife | 1.00% | ~95 |
 | Assassin | 1.00% | ~95 |
 | Ain’t Nothing But a G Thing | 1.00% | ~95 |
-| Chick Magnet | 0.90% | ~85 |
+| Chick Magnet | 0.90% | ~86 |
 | Lucky Spinner | 0.80% | ~76 |
 | Hoopin' it Up | 0.70% | ~66 |
 | Not a Player | 0.60% | ~57 |
-| Remastered | 0.50% | ~47 |
+| Remastered | 0.50% | ~48 |
 | ...Here we go again | 0.20% | ~19 |
 | I Ain't No Buster | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,494 (Ranked 112)  
+Progressed: 9,500 (Ranked 112)  
 Completed: 17 (0.18%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 17 (0.18%) (Ranked 147)
 | 2023-06-01 | 9,142 | 17 |
 | 2023-06-02 | 9,258 | 17 |
 | 2023-06-03 | 9,408 | 17 |
-| 2023-06-04 | 9,494 | 17 |
+| 2023-06-04 | 9,500 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

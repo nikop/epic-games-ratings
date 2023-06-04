@@ -20,16 +20,16 @@ Rating: 4.34 (Ranked 731)
 | Giant Killer | 30.00% | ~304 |
 | Sensei | 29.00% | ~293 |
 | The meaning of Kain | 28.00% | ~283 |
-| Technophobe | 23.00% | ~233 |
+| Technophobe | 24.00% | ~243 |
 | Recycler | 21.00% | ~213 |
 | Chain Killer | 18.00% | ~182 |
 | Are you not entertained? | 17.00% | ~172 |
+| Jarhead | 17.00% | ~172 |
 | Ganglord | 16.00% | ~162 |
-| Jarhead | 16.00% | ~162 |
 | Hold The Line | 16.00% | ~162 |
-| Infiltrator | 15.00% | ~152 |
+| Infiltrator | 16.00% | ~162 |
+| There Can Be Only One! | 16.00% | ~162 |
 | Pushing Daisy | 15.00% | ~152 |
-| There Can Be Only One! | 15.00% | ~152 |
 | Experienced | 13.00% | ~132 |
 | Newtonian Knockout | 13.00% | ~132 |
 | Endgame | 10.00% | ~101 |

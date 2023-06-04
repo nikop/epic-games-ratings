@@ -8,14 +8,14 @@ Number of Ratings: 53  (23.09.2022)
 | ---- | ---------- | ----- |
 | Cabin boy | 81.00% | ~492 |
 | My little farm | 65.00% | ~395 |
-| Every beginning is difficult | 62.00% | ~377 |
+| Every beginning is difficult | 63.00% | ~383 |
 | 3, 2, 1, mine | 55.00% | ~334 |
 | Gofer | 55.00% | ~334 |
 | Seafarer | 53.00% | ~322 |
 | O Captain! My Captain! | 53.00% | ~322 |
 | Greed for gold | 42.00% | ~255 |
 | Intangible | 41.00% | ~249 |
-| I'm out of here for a while | 40.00% | ~243 |
+| I'm out of here for a while | 41.00% | ~249 |
 | In a mint condition | 37.00% | ~225 |
 | Licence to Kill | 35.00% | ~213 |
 | Pirates! | 34.00% | ~207 |
