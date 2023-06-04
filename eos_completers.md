@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.73% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.67% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.03% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -25,7 +25,7 @@
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.76% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Scorn](games/s/scorn.md) | 6.85% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.83% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.45% |
 | 27 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 29 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -45,15 +45,15 @@
 | 43 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.23% |
 | 44 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.20% |
 | 45 | [ZZT!](games/z/zzt!.md) | 3.16% |
-| 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.12% |
-| 47 | [The Bunker](games/t/the_bunker.md) | 3.09% |
+| 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.09% |
+| 46 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.02% |
 | 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 51 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 52 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 2.82% |
-| 54 | [Lamentum](games/l/lamentum.md) | 2.80% |
+| 54 | [Lamentum](games/l/lamentum.md) | 2.79% |
 | 55 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.75% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 57 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
@@ -72,7 +72,7 @@
 | 70 | [Night Book](games/n/night_book.md) | 1.59% |
 | 70 | [Somerville](games/s/somerville.md) | 1.59% |
 | 72 | [A Musical Story](games/a/a_musical_story.md) | 1.56% |
-| 73 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.53% |
+| 73 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.52% |
 | 74 | [Frogun](games/f/frogun.md) | 1.51% |
 | 74 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 76 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.47% |
@@ -91,8 +91,8 @@
 | 89 | [Sable](games/s/sable.md) | 0.94% |
 | 90 | [Hades](games/h/hades.md) | 0.89% |
 | 91 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 92 | [Dungeons 3](games/d/dungeons_3.md) | 0.85% |
-| 92 | [Poosh XL](games/p/poosh_xl.md) | 0.85% |
+| 92 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
+| 93 | [Poosh XL](games/p/poosh_xl.md) | 0.85% |
 | 94 | [Adios](games/a/adios.md) | 0.84% |
 | 95 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.82% |
 | 95 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.82% |
@@ -114,7 +114,7 @@
 | 112 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 112 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
 | 114 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
+| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
 | 116 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
 | 116 | [Tails of Iron](games/t/tails_of_iron.md) | 0.38% |
 | 118 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
