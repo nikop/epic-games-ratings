@@ -6,8 +6,8 @@ Rating: 4.57 (Ranked 441)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 14.00% | ~341 |
-| Infinite Growth... | 12.00% | ~292 |
-| Sputnik 2049 | 12.00% | ~292 |
+| Infinite Growth... | 12.00% | ~293 |
+| Sputnik 2049 | 12.00% | ~293 |
 | Without Breaking Some Eggs... | 11.00% | ~268 |
 | Space Society | 7.00% | ~171 |
 | A Thousand Strong | 7.00% | ~171 |
@@ -19,8 +19,8 @@ Rating: 4.57 (Ranked 441)
 | Breaking Protocol | 5.00% | ~122 |
 | The Ship of Theseus | 5.00% | ~122 |
 | Hope Seeker | 5.00% | ~122 |
-| A Hunk of Junk | 4.00% | ~97 |
-| Exceeding Capacity | 4.00% | ~97 |
+| A Hunk of Junk | 4.00% | ~98 |
+| Exceeding Capacity | 4.00% | ~98 |
 | Power Outage | 3.00% | ~73 |
 | Necessary Enhancement | 3.00% | ~73 |
 | Please Make it Stop! | 3.00% | ~73 |
@@ -29,26 +29,26 @@ Rating: 4.57 (Ranked 441)
 | Sightseeing | 2.00% | ~49 |
 | Access Granted | 2.00% | ~49 |
 | Convenient Transport | 2.00% | ~49 |
+| BRAWL! | 2.00% | ~49 |
 | All in Good Health | 2.00% | ~49 |
 | From the Past | 2.00% | ~49 |
 | What They Hide From Us | 1.00% | ~24 |
 | ...  in a finite world | 1.00% | ~24 |
 | In Dolos We Trust | 1.00% | ~24 |
-| BRAWL! | 1.00% | ~24 |
+| Delivery! | 1.00% | ~24 |
 | What the Ruins Teach Us | 1.00% | ~24 |
 | Sustainable Energy | 0.90% | ~22 |
-| Delivery! | 0.90% | ~22 |
-| Mutual Loyalty | 0.80% | ~19 |
-| Pedal to the Metal | 0.80% | ~19 |
-| Pulsar Disciple | 0.80% | ~19 |
+| Mutual Loyalty | 0.80% | ~20 |
+| Pedal to the Metal | 0.80% | ~20 |
+| Pulsar Disciple | 0.80% | ~20 |
 | Catastrophe Avoided | 0.70% | ~17 |
 | Praise the Hull! | 0.70% | ~17 |
 | You Had One Job... | 0.70% | ~17 |
+| Tiqqun Unchained | 0.60% | ~15 |
 | Help of the Forgotten Member | 0.60% | ~15 |
 | Tiqqun Contender | 0.50% | ~12 |
 | Gregor Spinoza | 0.50% | ~12 |
 | Space Greenhouse | 0.50% | ~12 |
-| Tiqqun Unchained | 0.50% | ~12 |
 | Scientifically Accurate | 0.50% | ~12 |
 | Better Him Than Me | 0.40% | ~10 |
 | Remember the Dead | 0.20% | ~5 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,436 (Ranked 145)  
+Progressed: 2,439 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 2,350 | 0 |
 | 2023-06-02 | 2,386 | 0 |
 | 2023-06-03 | 2,408 | 0 |
-| 2023-06-04 | 2,436 | 0 |
+| 2023-06-04 | 2,439 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

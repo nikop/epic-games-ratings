@@ -4,11 +4,11 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 474,
   "Ranking_Popularity": 443,
-  "Ranking_PopularitySum": 344,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,7 +484,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2794,
+  "EOS_Progressed": 2795,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
@@ -2144,6 +2144,11 @@
       "Time": "2023-06-04T19:02:20.1399518+00:00",
       "NumProgressed": 2794,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T20:02:18.8287345+00:00",
+      "NumProgressed": 2795,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2195,7 +2200,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "CrowdPleaser",
@@ -2339,7 +2344,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2347,7 +2352,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2363,7 +2368,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -2427,7 +2432,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "TheStuffOfLegends",
@@ -2490,15 +2495,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2794,
+      "Progressed": 2795,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-04T19:02:20.1399513+00:00",
+  "LastChanged_Achievements": "2023-06-04T20:02:18.8287334+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-04T18:57:51.9064431+00:00",
-  "LastUpdate_Achievements": "2023-06-04T19:02:20.1399942+00:00"
+  "LastUpdate_Ratings": "2023-06-04T19:57:45.231491+00:00",
+  "LastUpdate_Achievements": "2023-06-04T20:02:18.8288085+00:00"
 }

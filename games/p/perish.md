@@ -54,7 +54,7 @@
 | Close Shut the Doors | 1.00% | ~29 |
 | Scrap Metal | 1.00% | ~29 |
 | Invicta | 0.80% | ~23 |
-| Athenian Treasury | 0.70% | ~20 |
+| Athenian Treasury | 0.70% | ~21 |
 | Hipparchia's Labour | 0.50% | ~15 |
 | Olympian | 0.50% | ~15 |
 | Debauchery | 0.40% | ~12 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,927 (Ranked 137)  
+Progressed: 2,929 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 2,908 | 0 |
 | 2023-06-02 | 2,915 | 0 |
 | 2023-06-03 | 2,926 | 0 |
-| 2023-06-04 | 2,927 | 0 |
+| 2023-06-04 | 2,929 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

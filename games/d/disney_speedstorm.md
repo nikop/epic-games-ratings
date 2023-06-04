@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ROOKIE | 52.00% | ~1,402 |
+| EXTRA BOOST | 41.00% | ~1,105 |
 | IT MAKES BOOM! | 41.00% | ~1,105 |
-| EXTRA BOOST | 40.00% | ~1,078 |
 | PRO | 31.00% | ~836 |
 | PROTECTED | 29.00% | ~782 |
 | A TIGER'S FEAR | 29.00% | ~782 |

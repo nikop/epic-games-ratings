@@ -5,28 +5,28 @@ Rating: 4.18 (Ranked 839)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 12.00% | ~1,738 |
+| Flesh Wound | 12.00% | ~1,739 |
 | The Outer Way | 10.00% | ~1,449 |
 | Desperate Times | 9.00% | ~1,304 |
 | Paper Jams | 8.00% | ~1,159 |
 | Chew 'Em Up | 7.00% | ~1,014 |
 | Reforged | 7.00% | ~1,014 |
-| Giving Back | 6.00% | ~869 |
-| Workplace Hazard | 6.00% | ~869 |
-| If the SHU Fits... | 6.00% | ~869 |
-| Get a Grip | 5.00% | ~724 |
-| Without A Paddle | 5.00% | ~724 |
-| Terminated | 4.00% | ~579 |
-| Float Like A Butterfly | 4.00% | ~579 |
-| In the Pipe, Five by Five | 4.00% | ~579 |
-| Crash Site | 4.00% | ~579 |
+| Giving Back | 6.00% | ~870 |
+| Workplace Hazard | 6.00% | ~870 |
+| If the SHU Fits... | 6.00% | ~870 |
+| Get a Grip | 5.00% | ~725 |
+| Without A Paddle | 5.00% | ~725 |
+| Terminated | 4.00% | ~580 |
+| Float Like A Butterfly | 4.00% | ~580 |
+| In the Pipe, Five by Five | 4.00% | ~580 |
+| Crash Site | 4.00% | ~580 |
 | Instigator | 4.00% | ~97 |
 | Big Game Hunter | 4.00% | ~97 |
 | You Need a Gun | 3.00% | ~435 |
 | Two Heads Are Better Than One | 3.00% | ~435 |
 | The Commonality | 3.00% | ~435 |
 | Power Up | 3.00% | ~435 |
-| Bear Trap | 3.00% | ~72 |
+| Bear Trap | 3.00% | ~73 |
 | I Do Belong Here | 2.00% | ~290 |
 | In Striking Distance | 2.00% | ~290 |
 | Mugshot | 2.00% | ~290 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 839)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,487 (Ranked 103)  
+Progressed: 14,492 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 53 (0.37%) (Ranked 119)
 | 2023-06-01 | 14,254 | 53 |
 | 2023-06-02 | 14,323 | 53 |
 | 2023-06-03 | 14,412 | 53 |
-| 2023-06-04 | 14,487 | 53 |
+| 2023-06-04 | 14,492 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 287 (Ranked 328)  

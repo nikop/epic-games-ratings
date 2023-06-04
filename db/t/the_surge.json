@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -319,9 +319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4330,
+  "EOS_Progressed": 4332,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -949,6 +949,11 @@
       "Time": "2023-06-04T17:02:36.3570294+00:00",
       "NumProgressed": 4330,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-04T20:02:21.7426794+00:00",
+      "NumProgressed": 4332,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -960,7 +965,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1008,7 +1013,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3637
+      "UsersEstimate": 3639
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1016,7 +1021,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4070
+      "UsersEstimate": 4072
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1024,7 +1029,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3334
+      "UsersEstimate": 3336
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1032,7 +1037,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -1040,7 +1045,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -1064,7 +1069,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -1080,7 +1085,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -1096,7 +1101,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -1104,7 +1109,7 @@
       "Name": "Melting Down",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -1120,7 +1125,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -1136,7 +1141,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -1176,7 +1181,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1208,7 +1213,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1216,7 +1221,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -1240,7 +1245,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -1296,7 +1301,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -1336,7 +1341,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -1344,7 +1349,7 @@
       "Name": "Carbon Cat",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -1376,7 +1381,7 @@
       "Name": "No More Marching",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -1400,7 +1405,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -1408,7 +1413,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -1495,15 +1500,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4330,
+      "Progressed": 4332,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-04T19:02:23.5538338+00:00",
+  "LastChanged_Achievements": "2023-06-04T20:02:21.7426787+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:09.2823727+00:00",
-  "LastUpdate_Ratings": "2023-06-04T18:58:06.652419+00:00",
-  "LastUpdate_Achievements": "2023-06-04T19:02:23.5539075+00:00"
+  "LastUpdate_Ratings": "2023-06-04T19:57:56.8555732+00:00",
+  "LastUpdate_Achievements": "2023-06-04T20:02:21.7427685+00:00"
 }

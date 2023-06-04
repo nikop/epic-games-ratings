@@ -6,11 +6,11 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 53.00% | ~1,189 |
-| Keeping it classy | 25.00% | ~561 |
+| You're free now! | 53.00% | ~1,191 |
+| Keeping it classy | 25.00% | ~562 |
 | Welcome to the family | 18.00% | ~404 |
-| The finer things in life | 16.00% | ~359 |
-| Backpacker | 12.00% | ~269 |
+| The finer things in life | 16.00% | ~360 |
+| Backpacker | 12.00% | ~270 |
 | Go with the Flow | 11.00% | ~247 |
 | Plastic Surgeon | 9.00% | ~202 |
 | The flip trick crown jewel | 9.00% | ~202 |
@@ -25,8 +25,6 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 5.00% | ~112 |
 | Fulfilled the dream | 5.00% | ~112 |
 | G'Day Mate! | 5.00% | ~112 |
-| NAHELL! | 5.00% | ~112 |
-| Purple passion | 5.00% | ~112 |
 | Squad goals | 5.00% | ~112 |
 | Sup widdit big dog! | 5.00% | ~112 |
 | Commence the Hijinx! | 4.00% | ~90 |
@@ -35,7 +33,9 @@ Number of Ratings: 111  (23.09.2022)
 | Laid back | 4.00% | ~90 |
 | Lines for days | 4.00% | ~90 |
 | Manny Destroys All | 4.00% | ~90 |
+| NAHELL! | 4.00% | ~90 |
 | Prince of Philly | 4.00% | ~90 |
+| Purple passion | 4.00% | ~90 |
 | Renaissance man | 4.00% | ~90 |
 | Tank commander | 4.00% | ~90 |
 | Trick shot marksman | 4.00% | ~90 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,244 (Ranked 148)  
+Progressed: 2,247 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,11 +98,11 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 2,200 | 0 |
 | 2023-06-02 | 2,219 | 0 |
 | 2023-06-03 | 2,230 | 0 |
-| 2023-06-04 | 2,244 | 0 |
+| 2023-06-04 | 2,247 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 397)  
-Sum: 416 (Ranked 301)  
-Diff (max vs sum): 96  
+Sum: 416 (Ranked 302)  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 48 |

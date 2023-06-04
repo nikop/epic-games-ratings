@@ -6,20 +6,20 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,081 |
-| What should I buy? | 83.00% | ~6,320 |
-| Focus! | 62.00% | ~4,721 |
-| Rescued Elder Ent | 62.00% | ~4,721 |
-| The End of the Gold Mane Knights | 47.00% | ~3,579 |
-| Rules of Etiquette | 39.00% | ~2,969 |
-| False Goddess, Disappear | 38.00% | ~2,893 |
+| The Legend Begins | 93.00% | ~7,083 |
+| What should I buy? | 83.00% | ~6,321 |
+| Focus! | 62.00% | ~4,722 |
+| Rescued Elder Ent | 62.00% | ~4,722 |
+| The End of the Gold Mane Knights | 47.00% | ~3,580 |
+| Rules of Etiquette | 39.00% | ~2,970 |
+| False Goddess, Disappear | 38.00% | ~2,894 |
 | Quick Movements | 33.00% | ~2,513 |
 | Inventory Management | 33.00% | ~2,513 |
-| The Fall of the Leonia Order | 29.00% | ~2,208 |
+| The Fall of the Leonia Order | 29.00% | ~2,209 |
 | The Hero Killer | 27.00% | ~2,056 |
 | Go Home... | 26.00% | ~1,980 |
 | The Final Battle of the First Hero | 25.00% | ~1,904 |
-| Brain at Full Throttle | 22.00% | ~1,675 |
+| Brain at Full Throttle | 22.00% | ~1,676 |
 | Rookies Welcome | 20.00% | ~1,523 |
 | Deadly Power | 15.00% | ~1,142 |
 | Castle Restoration Plans | 14.00% | ~1,066 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~76 |
 | Cold-Blooded | 0.80% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,614 (Ranked 115)  
+Progressed: 7,616 (Ranked 115)  
 Completed: 11 (0.14%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,17 +72,17 @@ Completed: 11 (0.14%) (Ranked 157)
 | 2023-06-01 | 7,545 | 11 |
 | 2023-06-02 | 7,564 | 11 |
 | 2023-06-03 | 7,590 | 11 |
-| 2023-06-04 | 7,614 | 11 |
+| 2023-06-04 | 7,616 | 11 |
 ## Awards
 Max (Diverse Characters): 115  (Ranked 312)  
-Sum: 759 (Ranked 254)  
+Sum: 760 (Ranked 254)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 119 |
 | This game has Diverse Characters | 115 |
+| This game is Extremely Fun | 107 |
 | This game is Highly Recommended | 107 |
-| This game is Extremely Fun | 106 |
 | This game is Relaxing | 105 |
 | This game has Quickly Understood Controls | 99 |
 | This game has Amazing Storytelling | 89 |

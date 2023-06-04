@@ -11,9 +11,9 @@
 | Toby foolery | 50.00% | ~88 |
 | Don't fear the baldness | 38.00% | ~67 |
 | Instinct | 37.00% | ~65 |
-| Blow | 31.00% | ~55 |
+| Blow | 32.00% | ~56 |
 | Just like me | 31.00% | ~55 |
-| I bless the rain down in London | 27.00% | ~48 |
+| I bless the rain down in London | 28.00% | ~49 |
 | Brown nosing | 27.00% | ~48 |
 | Cheat | 27.00% | ~48 |
 | Delusions | 27.00% | ~48 |

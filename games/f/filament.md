@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 750)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~180,678 |
-| Snooper. | 10.00% | ~19,221 |
+| Boarded! | 94.00% | ~180,686 |
+| Snooper. | 10.00% | ~19,222 |
 | You have to start somewhere, right? | 7.00% | ~13,455 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,533 |
 | Corrupted. | 5.00% | ~9,611 |
 | Good things come in pairs... Coloured Pairs. | 5.00% | ~9,611 |
-| Answers can be found amongst the stars | 3.00% | ~5,766 |
-| Bend to the will of the arrows. | 3.00% | ~5,766 |
+| Answers can be found amongst the stars | 3.00% | ~5,767 |
+| Bend to the will of the arrows. | 3.00% | ~5,767 |
 | You've been through a lot. | 2.00% | ~3,844 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~3,844 |
 | I hope your remember your colour theory. | 2.00% | ~3,844 |
@@ -25,9 +25,9 @@ Rating: 4.32 (Ranked 750)
 | That's a wrap. | 2.00% | ~3,844 |
 | In balance. | 2.00% | ~3,844 |
 | I hope you're ready. | 1.00% | ~1,922 |
-| Cockpit | 0.70% | ~1,345 |
-| Names to faces. | 0.70% | ~1,345 |
-| Witness it. | 0.70% | ~1,345 |
+| Cockpit | 0.70% | ~1,346 |
+| Names to faces. | 0.70% | ~1,346 |
+| Witness it. | 0.70% | ~1,346 |
 | Bridge crossed. | 0.60% | ~1,153 |
 | A full deck. | 0.60% | ~1,153 |
 | 14237b6509eafd8c | 0.60% | ~1,153 |
@@ -35,8 +35,8 @@ Rating: 4.32 (Ranked 750)
 | Snooper + | 0.40% | ~769 |
 | Corrupted + | 0.30% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,211 (Ranked 50)  
-Completed: 430 (0.22%) (Ranked 142)  
+Progressed: 192,219 (Ranked 50)  
+Completed: 430 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,7 +80,7 @@ Completed: 430 (0.22%) (Ranked 142)
 | 2023-06-01 | 191,860 | 429 |
 | 2023-06-02 | 191,970 | 430 |
 | 2023-06-03 | 192,113 | 430 |
-| 2023-06-04 | 192,211 | 430 |
+| 2023-06-04 | 192,219 | 430 |
 ## Awards
 Max (Challenging Puzzles): 553  (Ranked 176)  
 Sum: 667 (Ranked 267)  

@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 52.00% | ~18 |
+| Aspairagus | 52.00% | ~19 |
+| Seeds of War | 43.00% | ~37 |
 | Survivor | 42.00% | ~15 |
-| Seeds of War | 41.00% | ~35 |
+| First Blood | 35.00% | ~30 |
 | No Diggity | 34.00% | ~12 |
-| First Blood | 33.00% | ~28 |
-| Early Survivor | 32.00% | ~11 |
-| No Asperascope | 25.00% | ~21 |
-| Triple Kill | 25.00% | ~21 |
-| Cornivore | 24.00% | ~20 |
-| I Believe I Can Fly | 22.00% | ~19 |
+| Early Survivor | 31.00% | ~11 |
+| Triple Kill | 27.00% | ~23 |
+| No Asperascope | 24.00% | ~21 |
+| I Believe I Can Fly | 23.00% | ~20 |
+| Cornivore | 23.00% | ~20 |
 | Amateur Survivor | 22.00% | ~8 |
 | Bouncemato | 20.00% | ~7 |
 | Quick-Draw Pod | 20.00% | ~7 |
-| This Is My Boomstick | 18.00% | ~6 |
+| This Is My Boomstick | 17.00% | ~6 |
 | Grave Digger | 16.00% | ~6 |
 | 15K | 13.00% | ~11 |
 | 10K | 13.00% | ~11 |
@@ -33,13 +33,13 @@
 | Master Survivor | 6.00% | ~2 |
 | Bring Home The Bacon | 5.00% | ~4 |
 | Eggtraordinary | 5.00% | ~4 |
-| Chick Magnet | 4.00% | ~3 |
-| Pork Chop Express | 4.00% | ~3 |
-| Carrocketeer | 4.00% | ~3 |
-| Pyromaniac | 4.00% | ~1 |
-| Easy Peasy | 4.00% | ~1 |
+| Pyromaniac | 5.00% | ~2 |
+| Chick Magnet | 3.00% | ~3 |
+| Getting Started | 3.00% | ~3 |
+| Pork Chop Express | 3.00% | ~3 |
+| Carrocketeer | 3.00% | ~3 |
+| Easy Peasy | 3.00% | ~1 |
 | Fresh Pancake | 2.00% | ~2 |
-| Getting Started | 2.00% | ~2 |
 | 15 Days | 1.00% | ~1 |
 | I Have The High Ground | 1.00% | ~1 |
 | Early Bird | 1.00% | ~1 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 281)  
+Progressed: 86 (Ranked 281)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 74 | 0 |
 | 2023-06-02 | 76 | 0 |
 | 2023-06-03 | 81 | 0 |
-| 2023-06-04 | 85 | 0 |
+| 2023-06-04 | 86 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

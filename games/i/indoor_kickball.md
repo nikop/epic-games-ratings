@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 83.00% | ~35 |
-| Accessory Unlocked | 83.00% | ~35 |
-| Character Unlocked | 81.00% | ~34 |
-| Homer | 69.00% | ~29 |
-| Kickball Unlocked | 64.00% | ~27 |
-| Have a good trip! | 64.00% | ~27 |
-| First Win | 62.00% | ~26 |
-| Settle Down | 57.00% | ~24 |
-| Stay Hydrated | 57.00% | ~24 |
-| Butter Fingers | 48.00% | ~20 |
-| True Story! | 31.00% | ~13 |
+| Hat Unlocked | 81.00% | ~35 |
+| Accessory Unlocked | 81.00% | ~35 |
+| Character Unlocked | 79.00% | ~34 |
+| Homer | 67.00% | ~29 |
+| Have a good trip! | 65.00% | ~28 |
+| Kickball Unlocked | 63.00% | ~27 |
+| First Win | 60.00% | ~26 |
+| Settle Down | 56.00% | ~24 |
+| Stay Hydrated | 56.00% | ~24 |
+| Butter Fingers | 47.00% | ~20 |
+| True Story! | 30.00% | ~13 |
 | Grand Slam! | 26.00% | ~11 |
 | Kick It | 26.00% | ~11 |
-| Bedroom Secret Spot | 24.00% | ~10 |
-| Have Mercy | 24.00% | ~10 |
+| Bedroom Secret Spot | 23.00% | ~10 |
+| Have Mercy | 23.00% | ~10 |
 | Save some water for the fishies | 19.00% | ~8 |
 | Spooky | 19.00% | ~8 |
-| Bathroom Secret Spot | 17.00% | ~7 |
-| Classroom Secret Spot | 10.00% | ~4 |
-| Living Room Secret Spot | 10.00% | ~4 |
-| At least everyone still had fun | 10.00% | ~4 |
+| Bathroom Secret Spot | 16.00% | ~7 |
+| Classroom Secret Spot | 9.00% | ~4 |
+| Living Room Secret Spot | 9.00% | ~4 |
+| At least everyone still had fun | 9.00% | ~4 |
 | Kitchen Secret Spot | 7.00% | ~3 |
 | Just how we drew it up | 7.00% | ~3 |
 | Basement Secret Spot | 5.00% | ~2 |
 | Found the Secret Formula! | 5.00% | ~2 |
 | Angry Dad | 5.00% | ~2 |
+| Interference | 5.00% | ~2 |
 | Garage Secret Spot | 2.00% | ~1 |
 | Kickball Kup | 2.00% | ~1 |
 | Goooooooooal! | 2.00% | ~1 |
 | Angry Mom | 2.00% | ~1 |
-| Interference | 2.00% | ~1 |
 | Attic Secret Spot | 0.00% | ~0 |
 | Backyard Secret Spot | 0.00% | ~0 |
 | Gamer Room Secret Spot | 0.00% | ~0 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 308)  
+Progressed: 43 (Ranked 306)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,4 +61,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 37 | 0 |
 | 2023-06-02 | 38 | 0 |
 | 2023-06-03 | 40 | 0 |
-| 2023-06-04 | 42 | 0 |
+| 2023-06-04 | 43 | 0 |

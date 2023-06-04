@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5383,
+  "EOS_Progressed": 5384,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1951,6 +1951,11 @@
       "Time": "2023-06-04T18:03:53.5221447+00:00",
       "NumProgressed": 5383,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-04T20:03:35.4851124+00:00",
+      "NumProgressed": 5384,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 69,
@@ -2320,9 +2325,9 @@
       "ID": "SO_Ashley",
       "SetID": "bmkn7o4",
       "Name": "Smooth Operator: Ashley",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "SO_Madison",
@@ -2513,21 +2518,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2422,
+      "Progressed": 2423,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5383,
+      "Progressed": 5384,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-04T19:03:46.1042714+00:00",
+  "LastChanged_Achievements": "2023-06-04T20:03:35.4851118+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:26.4491447+00:00",
-  "LastUpdate_Ratings": "2023-06-04T18:57:24.7075852+00:00",
-  "LastUpdate_Achievements": "2023-06-04T19:03:46.1043523+00:00"
+  "LastUpdate_Ratings": "2023-06-04T19:57:21.6639673+00:00",
+  "LastUpdate_Achievements": "2023-06-04T20:03:35.4852486+00:00"
 }

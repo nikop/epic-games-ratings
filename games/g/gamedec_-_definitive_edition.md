@@ -6,26 +6,26 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,373 |
-| Powergamer | 27.00% | ~62,074 |
-| Barely scratched the surface | 25.00% | ~57,476 |
-| Write that down | 24.00% | ~55,177 |
-| Guns, lots of guns | 12.00% | ~27,588 |
-| Collector | 11.00% | ~25,289 |
-| Elementary! | 8.00% | ~18,392 |
-| Pumpkin Jack | 8.00% | ~18,392 |
-| Wake up! | 8.00% | ~18,392 |
-| It's honest work | 7.00% | ~16,093 |
-| Griever | 7.00% | ~16,093 |
-| Me smart | 6.00% | ~13,794 |
-| Good listener | 5.00% | ~11,495 |
-| Trash compactor | 5.00% | ~11,495 |
-| Valedictorian | 5.00% | ~11,495 |
-| BOY! | 4.00% | ~9,196 |
-| Ka-ching! | 4.00% | ~9,196 |
-| I like to sniff around | 3.00% | ~6,897 |
-| Mind reader | 3.00% | ~6,897 |
-| So you like to read? | 3.00% | ~6,897 |
+| I will finish what you started | 28.00% | ~64,378 |
+| Powergamer | 27.00% | ~62,078 |
+| Barely scratched the surface | 25.00% | ~57,480 |
+| Write that down | 24.00% | ~55,181 |
+| Guns, lots of guns | 12.00% | ~27,590 |
+| Collector | 11.00% | ~25,291 |
+| Elementary! | 8.00% | ~18,394 |
+| Pumpkin Jack | 8.00% | ~18,394 |
+| Wake up! | 8.00% | ~18,394 |
+| It's honest work | 7.00% | ~16,094 |
+| Griever | 7.00% | ~16,094 |
+| Me smart | 6.00% | ~13,795 |
+| Good listener | 5.00% | ~11,496 |
+| Trash compactor | 5.00% | ~11,496 |
+| Valedictorian | 5.00% | ~11,496 |
+| BOY! | 4.00% | ~9,197 |
+| Ka-ching! | 4.00% | ~9,197 |
+| I like to sniff around | 3.00% | ~6,898 |
+| Mind reader | 3.00% | ~6,898 |
+| So you like to read? | 3.00% | ~6,898 |
 | Gentleman's classic | 2.00% | ~4,598 |
 | Hoarder | 2.00% | ~4,598 |
 | Is that a rift? | 2.00% | ~4,598 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~460 |
 | Memory 5 | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,904 (Ranked 44)  
+Progressed: 229,920 (Ranked 44)  
 Completed: 5 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 5 (0.00%) (Ranked 212)
 | 2023-06-01 | 229,259 | 5 |
 | 2023-06-02 | 229,468 | 5 |
 | 2023-06-03 | 229,712 | 5 |
-| 2023-06-04 | 229,904 | 5 |
+| 2023-06-04 | 229,920 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 360)  
 Sum: 73 (Ranked 419)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14487,
+  "EOS_Progressed": 14492,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2750,6 +2750,11 @@
       "Time": "2023-06-04T19:04:09.3729148+00:00",
       "NumProgressed": 14487,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-04T20:03:55.2361666+00:00",
+      "NumProgressed": 14492,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2777,7 +2782,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2793,7 +2798,7 @@
       "Name": "Flesh Wound",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2865,7 +2870,7 @@
       "Name": "Get a Grip",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2897,7 +2902,7 @@
       "Name": "Terminated",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -2905,7 +2910,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2921,7 +2926,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -2961,7 +2966,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "STORY_HABITAT",
@@ -2969,7 +2974,7 @@
       "Name": "Without A Paddle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "STORY_HANGAR",
@@ -2977,7 +2982,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "STORY_MINETOWN",
@@ -3001,7 +3006,7 @@
       "Name": "Crash Site",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "STORY_TOWER",
@@ -3049,7 +3054,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -3080,13 +3085,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14487,
+      "Progressed": 14492,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2413,
+      "Progressed": 2418,
       "Completed": 29
     }
   ],
@@ -3094,8 +3099,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-04T19:04:09.3729144+00:00",
+  "LastChanged_Achievements": "2023-06-04T20:03:55.236166+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-04T18:57:58.5521549+00:00",
-  "LastUpdate_Achievements": "2023-06-04T19:04:09.3729598+00:00"
+  "LastUpdate_Ratings": "2023-06-04T19:57:49.6979006+00:00",
+  "LastUpdate_Achievements": "2023-06-04T20:03:55.236227+00:00"
 }

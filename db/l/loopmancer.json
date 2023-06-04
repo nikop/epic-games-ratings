@@ -2,10 +2,10 @@
   "ID": "2f0ada8893114e90910b83b554e5e9e7",
   "Name": "LOOPMANCER",
   "ProductSlug": "loopmancer",
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
     "PcReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90,
+  "EOS_Progressed": 91,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -104,6 +104,11 @@
       "Time": "2023-06-04T17:04:35.4949049+00:00",
       "NumProgressed": 90,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T20:03:53.7976694+00:00",
+      "NumProgressed": 91,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -113,7 +118,7 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 98,
+      "Percentage": 97,
       "XP": 5,
       "UsersEstimate": 88
     },
@@ -129,7 +134,7 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 106,
+      "Percentage": 104,
       "XP": 5,
       "UsersEstimate": 95
     },
@@ -161,7 +166,7 @@
       "ID": "ACH_DEFEAT_TIANWU_TPSN",
       "SetID": "6d82akp",
       "Name": "Defeat the AI",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -217,7 +222,7 @@
       "ID": "ACH_ENDING_PRISON",
       "SetID": "6d82akp",
       "Name": "Reappearance",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 14
     },
@@ -225,7 +230,7 @@
       "ID": "ACH_ENDING_SIMULATE",
       "SetID": "6d82akp",
       "Name": "Brain in a Vat",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 14
     },
@@ -283,7 +288,7 @@
       "Name": "Targeting the Enemy",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_HARDMODE_ALLCLEAR",
@@ -393,7 +398,7 @@
       "ID": "ACH_SAVE_LISBETH_TIMEOUT",
       "SetID": "6d82akp",
       "Name": "Unsalvageable",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -401,7 +406,7 @@
       "ID": "ACH_SAVE_LIZBETH",
       "SetID": "6d82akp",
       "Name": "Fleet-footed",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -465,7 +470,7 @@
       "ID": "ACH_UNLOCK_ALL_INFORMATION",
       "SetID": "6d82akp",
       "Name": "Intel Expert",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -513,7 +518,7 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 98,
+      "Percentage": 97,
       "XP": 5,
       "UsersEstimate": 88
     },
@@ -529,7 +534,7 @@
       "ID": "ACH_UNLOCK_SKILL",
       "SetID": "6d82akp",
       "Name": "Growth",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 5,
       "UsersEstimate": 78
     },
@@ -539,7 +544,7 @@
       "Name": "Revenge",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_WATCH_DEVELOPERSLIST",
@@ -570,7 +575,7 @@
     {
       "ID": "6d82akp",
       "IsBase": true,
-      "Progressed": 90,
+      "Progressed": 91,
       "Completed": 0
     }
   ],
@@ -578,8 +583,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-06-04T19:04:07.4530021+00:00",
+  "LastChanged_Achievements": "2023-06-04T20:03:53.7976689+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:02.7585248+00:00",
-  "LastUpdate_Ratings": "2023-06-04T18:59:57.8872103+00:00",
-  "LastUpdate_Achievements": "2023-06-04T19:04:07.4530537+00:00"
+  "LastUpdate_Ratings": "2023-06-04T19:59:29.1519115+00:00",
+  "LastUpdate_Achievements": "2023-06-04T20:03:53.7977382+00:00"
 }

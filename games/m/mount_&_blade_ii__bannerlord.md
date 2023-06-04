@@ -6,26 +6,26 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~18,232 |
-| Landlord | 30.00% | ~15,627 |
-| Horde breaker | 21.00% | ~10,939 |
-| Lawmaker | 21.00% | ~10,939 |
-| Bannerlord | 20.00% | ~10,418 |
-| Trained | 20.00% | ~10,418 |
-| King Solomon | 16.00% | ~8,335 |
-| The king is pleased | 16.00% | ~8,335 |
-| Apple of my eye | 14.00% | ~7,293 |
-| I can do it | 14.00% | ~7,293 |
-| God of the Arena | 12.00% | ~6,251 |
-| Against all odds | 10.00% | ~5,209 |
-| Swordbearer | 9.00% | ~4,688 |
-| Duelist | 8.00% | ~4,167 |
-| Dynasty | 8.00% | ~4,167 |
-| I spit on your grave | 8.00% | ~4,167 |
-| What have the Romans ever done for us? | 8.00% | ~4,167 |
-| Butterlord | 7.00% | ~3,646 |
-| This Is Our Land | 7.00% | ~3,646 |
-| Mastery | 6.00% | ~3,125 |
+| Lawbringer | 35.00% | ~18,234 |
+| Landlord | 30.00% | ~15,629 |
+| Horde breaker | 21.00% | ~10,940 |
+| Lawmaker | 21.00% | ~10,940 |
+| Bannerlord | 20.00% | ~10,419 |
+| Trained | 20.00% | ~10,419 |
+| King Solomon | 16.00% | ~8,336 |
+| The king is pleased | 16.00% | ~8,336 |
+| Apple of my eye | 14.00% | ~7,294 |
+| I can do it | 14.00% | ~7,294 |
+| God of the Arena | 12.00% | ~6,252 |
+| Against all odds | 10.00% | ~5,210 |
+| Swordbearer | 9.00% | ~4,689 |
+| Duelist | 8.00% | ~4,168 |
+| Dynasty | 8.00% | ~4,168 |
+| I spit on your grave | 8.00% | ~4,168 |
+| What have the Romans ever done for us? | 8.00% | ~4,168 |
+| Butterlord | 7.00% | ~3,647 |
+| This Is Our Land | 7.00% | ~3,647 |
+| Mastery | 6.00% | ~3,126 |
 | Know your enemy | 5.00% | ~2,605 |
 | Crowdfunded | 4.00% | ~2,084 |
 | Crush your enemies | 4.00% | ~2,084 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,091 (Ranked 76)  
+Progressed: 52,097 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 51,729 | 0 |
 | 2023-06-02 | 51,825 | 0 |
 | 2023-06-03 | 51,966 | 0 |
-| 2023-06-04 | 52,091 | 0 |
+| 2023-06-04 | 52,097 | 0 |
 ## Awards
 Max (Character Customization): 6,631  (Ranked 49)  
 Sum: 13,282 (Ranked 67)  

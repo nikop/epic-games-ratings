@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -762,10 +762,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 759,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2023-06-04T19:58:51.5017181+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 760,
+      "NumberOfAwardsMax": 115
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 759,
+  "NumberOfAwards": 760,
   "NumberOfAwardsMax": 115,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -773,7 +779,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 106
+      "Count": 107
     },
     {
       "Text": "This game has Challenging Combat",
@@ -836,9 +842,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7614,
+  "EOS_Progressed": 7616,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2221,6 +2227,11 @@
       "Time": "2023-06-04T19:05:52.7253206+00:00",
       "NumProgressed": 7614,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-04T20:05:29.2465038+00:00",
+      "NumProgressed": 7616,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2232,7 +2243,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "Chatterbox",
@@ -2256,7 +2267,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2280,7 +2291,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2893
+      "UsersEstimate": 2894
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -2328,7 +2339,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "LeoniasFall_2",
@@ -2344,7 +2355,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2970
     },
     {
       "ID": "RookieWelcome",
@@ -2360,7 +2371,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2392,7 +2403,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7081
+      "UsersEstimate": 7083
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2400,7 +2411,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3579
+      "UsersEstimate": 3580
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -2416,22 +2427,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6320
+      "UsersEstimate": 6321
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7614,
+      "Progressed": 7616,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-06-04T18:59:10.8488408+00:00",
-  "LastChanged_Achievements": "2023-06-04T19:05:52.7253196+00:00",
+  "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
+  "LastChanged_Achievements": "2023-06-04T20:05:29.2465033+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-04T18:59:10.8488424+00:00",
-  "LastUpdate_Achievements": "2023-06-04T19:05:52.7253456+00:00"
+  "LastUpdate_Ratings": "2023-06-04T19:58:51.5017188+00:00",
+  "LastUpdate_Achievements": "2023-06-04T20:05:29.2465453+00:00"
 }

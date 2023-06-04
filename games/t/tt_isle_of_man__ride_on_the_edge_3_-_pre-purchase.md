@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 94.00% | ~65 |
+| You're Going Down! | 96.00% | ~66 |
 | To Each Their Own | 48.00% | ~33 |
 | You Get An Upgrade, You Get An Upgrade! | 20.00% | ~14 |
 | Onwards and Upwards | 19.00% | ~13 |
@@ -15,6 +15,7 @@
 | Highly Qualified | 6.00% | ~4 |
 | Upgradeaholic | 6.00% | ~4 |
 | Start Your Engines | 6.00% | ~4 |
+| Tailor-Made for Two | 6.00% | ~4 |
 | Playing God | 6.00% | ~4 |
 | Say My Name | 4.00% | ~3 |
 | Nerd | 4.00% | ~3 |
@@ -22,7 +23,6 @@
 | Made Mother Proud | 4.00% | ~3 |
 | Winner Winner Chicken Dinner | 4.00% | ~3 |
 | Tailor-Made | 4.00% | ~3 |
-| Tailor-Made for Two | 4.00% | ~3 |
 | Lone Wolf | 4.00% | ~3 |
 | Déjà-Vu | 3.00% | ~2 |
 | Golden Ratio | 3.00% | ~2 |
@@ -42,10 +42,10 @@
 | Supersport Superfan | 3.00% | ~2 |
 | Superbike Superfan | 3.00% | ~2 |
 | Playing Favourites | 3.00% | ~2 |
-| Tempus Fugit | 1.00% | ~1 |
+| Tempus Fugit | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 69 (Ranked 295)  
-Completed: 1 (1.45%) (Ranked 77)  
+Completed: 2 (2.90%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,4 +74,4 @@ Completed: 1 (1.45%) (Ranked 77)
 | 2023-06-01 | 64 | 1 |
 | 2023-06-02 | 65 | 1 |
 | 2023-06-03 | 66 | 1 |
-| 2023-06-04 | 69 | 1 |
+| 2023-06-04 | 69 | 2 |

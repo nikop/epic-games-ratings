@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1548,7 +1548,7 @@
       "Count": 205
     }
   ],
-  "EOS_Progressed": 19300,
+  "EOS_Progressed": 19301,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
@@ -3678,6 +3678,11 @@
       "Time": "2023-06-04T19:06:03.103742+00:00",
       "NumProgressed": 19300,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-04T20:05:38.1651315+00:00",
+      "NumProgressed": 19301,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3705,7 +3710,7 @@
       "Name": "Nerd",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "DoItASAP",
@@ -3737,7 +3742,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18142
+      "UsersEstimate": 18143
     },
     {
       "ID": "GameOver",
@@ -3833,7 +3838,7 @@
       "Name": "Senior Estate Agent",
       "Percentage": 0.5,
       "XP": 150,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "SmothFamily",
@@ -3872,15 +3877,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19300,
+      "Progressed": 19301,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-04T15:59:27.9566881+00:00",
-  "LastChanged_Achievements": "2023-06-04T19:06:03.1037415+00:00",
+  "LastChanged_Achievements": "2023-06-04T20:05:38.1651307+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-04T18:59:43.9128334+00:00",
-  "LastUpdate_Achievements": "2023-06-04T19:06:03.1037707+00:00"
+  "LastUpdate_Ratings": "2023-06-04T19:59:17.8376752+00:00",
+  "LastUpdate_Achievements": "2023-06-04T20:05:38.1651796+00:00"
 }

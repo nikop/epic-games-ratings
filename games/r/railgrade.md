@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,465 |
-| Before the Downfall | 93.00% | ~17,523 |
-| Money like Water | 91.00% | ~17,146 |
-| Minimalist | 90.00% | ~16,958 |
-| Builder | 83.00% | ~15,639 |
-| Eraser | 70.00% | ~13,189 |
-| Pocket of Trains | 65.00% | ~12,247 |
+| Trevithick's Legacy | 98.00% | ~18,466 |
+| Before the Downfall | 93.00% | ~17,524 |
+| Money like Water | 91.00% | ~17,147 |
+| Minimalist | 90.00% | ~16,959 |
+| Builder | 83.00% | ~15,640 |
+| Eraser | 70.00% | ~13,190 |
+| Pocket of Trains | 65.00% | ~12,248 |
 | Inspector | 59.00% | ~11,117 |
 | Going the Distance | 54.00% | ~10,175 |
 | Oil Baron | 42.00% | ~7,914 |
 | Loads-a-Money | 42.00% | ~7,914 |
-| Helper of the People | 39.00% | ~7,348 |
-| Simplification | 34.00% | ~6,406 |
+| Helper of the People | 39.00% | ~7,349 |
+| Simplification | 34.00% | ~6,407 |
 | Box of Trains | 33.00% | ~6,218 |
-| Let There be Light | 32.00% | ~6,029 |
+| Let There be Light | 32.00% | ~6,030 |
 | Hot Water | 31.00% | ~5,841 |
 | Indecisive | 29.00% | ~5,464 |
-| The scenic route | 27.00% | ~5,087 |
-| Industrialist | 25.00% | ~4,710 |
+| The scenic route | 27.00% | ~5,088 |
+| Industrialist | 25.00% | ~4,711 |
 | Perfectionist | 23.00% | ~4,334 |
 | Trains over Pipes | 23.00% | ~4,334 |
 | 8K is Enough for Everyone | 22.00% | ~4,145 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 489)
 | Overdeer | 0.50% | ~94 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,842 (Ranked 98)  
+Progressed: 18,843 (Ranked 98)  
 Completed: 30 (0.16%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,10 +88,10 @@ Completed: 30 (0.16%) (Ranked 150)
 | 2023-06-01 | 18,787 | 29 |
 | 2023-06-02 | 18,799 | 30 |
 | 2023-06-03 | 18,829 | 30 |
-| 2023-06-04 | 18,842 | 30 |
+| 2023-06-04 | 18,843 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 344)  
-Sum: 649 (Ranked 275)  
+Sum: 650 (Ranked 275)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -101,7 +101,7 @@ Diff (max vs sum): 69
 | This game is Relaxing | 85 |
 | This game is Extremely Fun | 84 |
 | This game has Amazing Storytelling | 78 |
-| This game has Unique Visuals | 57 |
+| This game has Unique Visuals | 58 |
 | This game has Amazing Characters | 44 |
 | This game has a Creative Community | 41 |
 | This game has Challenging Combat | 29 |
@@ -152,3 +152,4 @@ Diff (max vs sum): 69
 | 2023-05-26 | 4.54 | 87 | 647 |
 | 2023-05-27 | 4.54 | 87 | 648 |
 | 2023-06-01 | 4.54 | 87 | 649 |
+| 2023-06-04 | 4.54 | 87 | 650 |

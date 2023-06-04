@@ -32,12 +32,12 @@ Rating: 3.95 (Ranked 905)
 | Daily Quest Completionist | 8.00% | ~103 |
 | The power of Awakening | 8.00% | ~103 |
 | Hunter | 7.00% | ~90 |
+| Relic Of The Past | 7.00% | ~90 |
 | Scroll Master | 7.00% | ~90 |
 | Doing My Part | 6.00% | ~77 |
 | Frostfire Liberator | 6.00% | ~77 |
 | Mastery | 6.00% | ~77 |
 | Moving Up The Ladder | 6.00% | ~77 |
-| Relic Of The Past | 6.00% | ~77 |
 | Here We Go Again | 5.00% | ~64 |
 | How Do You Turn This On? | 5.00% | ~64 |
 | The Expeditioner | 5.00% | ~64 |

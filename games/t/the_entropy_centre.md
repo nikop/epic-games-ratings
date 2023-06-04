@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | It's Rewind Time | 90.00% | ~128 |
 | Wake Up | 81.00% | ~115 |
-| Time Gates | 62.00% | ~88 |
+| Time Gates | 63.00% | ~89 |
 | Command Centre | 47.00% | ~67 |
-| This is a Wall | 41.00% | ~58 |
+| This is a Wall | 42.00% | ~60 |
 | Extendable Bridges | 33.00% | ~47 |
 | 48 Attempts | 33.00% | ~47 |
 | Man's Best Friend | 30.00% | ~43 |
@@ -26,7 +26,7 @@
 | Cataclysm | 8.00% | ~11 |
 | Reunited | 8.00% | ~11 |
 | So Close | 7.00% | ~10 |
-| Final Charge | 6.00% | ~9 |
+| Final Charge | 7.00% | ~10 |
 | Summer Luvin' | 4.00% | ~6 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |

@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brute force | 93.00% | ~25 |
-| What's going on here? | 85.00% | ~23 |
-| Nimble fingers | 74.00% | ~20 |
-| Room 104 | 74.00% | ~20 |
-| Face to face | 74.00% | ~20 |
-| Let's play a game… | 70.00% | ~19 |
-| Now or never | 67.00% | ~18 |
-| First aid | 59.00% | ~16 |
-| Soundtrack | 52.00% | ~14 |
-| Antidote | 48.00% | ~13 |
-| Pick the right door | 26.00% | ~7 |
-| The third floor | 22.00% | ~6 |
-| On the right path | 19.00% | ~5 |
-| I'm close now | 19.00% | ~5 |
-| Failed attempt | 19.00% | ~5 |
-| The real escape | 19.00% | ~5 |
-| Nightmare in the kitchen | 19.00% | ~5 |
-| Good choice | 19.00% | ~5 |
-| It can't be true | 19.00% | ~5 |
-| Take the long way round | 19.00% | ~5 |
-| One-way | 19.00% | ~5 |
-| Born again | 15.00% | ~4 |
-| He who seeks, finds! | 15.00% | ~4 |
+| Brute force | 89.00% | ~25 |
+| What's going on here? | 86.00% | ~24 |
+| Nimble fingers | 75.00% | ~21 |
+| Room 104 | 75.00% | ~21 |
+| Face to face | 75.00% | ~21 |
+| Let's play a game… | 71.00% | ~20 |
+| Now or never | 68.00% | ~19 |
+| First aid | 61.00% | ~17 |
+| Soundtrack | 54.00% | ~15 |
+| Antidote | 50.00% | ~14 |
+| Pick the right door | 25.00% | ~7 |
+| One-way | 21.00% | ~6 |
+| The third floor | 21.00% | ~6 |
+| On the right path | 18.00% | ~5 |
+| I'm close now | 18.00% | ~5 |
+| Failed attempt | 18.00% | ~5 |
+| The real escape | 18.00% | ~5 |
+| Nightmare in the kitchen | 18.00% | ~5 |
+| Good choice | 18.00% | ~5 |
+| It can't be true | 18.00% | ~5 |
+| Take the long way round | 18.00% | ~5 |
+| Born again | 14.00% | ~4 |
+| He who seeks, finds! | 14.00% | ~4 |
 | 373 | 11.00% | ~3 |
 | The experiment | 7.00% | ~2 |
 | Matthew's revenge | 7.00% | ~2 |
@@ -36,7 +36,7 @@
 | A dark past | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 327)  
+Progressed: 28 (Ranked 326)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,3 +58,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-05-29 | 25 | 0 |
 | 2023-05-31 | 26 | 0 |
 | 2023-06-02 | 27 | 0 |
+| 2023-06-04 | 28 | 0 |

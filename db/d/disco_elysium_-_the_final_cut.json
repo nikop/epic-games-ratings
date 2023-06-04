@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1091,9 +1091,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 120343,
+  "EOS_Progressed": 120346,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5216,6 +5216,11 @@
       "Time": "2023-06-04T19:06:09.1584875+00:00",
       "NumProgressed": 120343,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-04T20:05:43.4009872+00:00",
+      "NumProgressed": 120346,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -5275,7 +5280,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9627
+      "UsersEstimate": 9628
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -5283,7 +5288,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28882
+      "UsersEstimate": 28883
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -5291,7 +5296,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9627
+      "UsersEstimate": 9628
     },
     {
       "ID": "ACH_COP_DORK",
@@ -5307,7 +5312,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33696
+      "UsersEstimate": 33697
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -5363,7 +5368,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18051
+      "UsersEstimate": 18052
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -5546,15 +5551,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 120343,
+      "Progressed": 120346,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-31T15:58:44.1451339+00:00",
-  "LastChanged_Achievements": "2023-06-04T19:06:09.1584872+00:00",
+  "LastChanged_Achievements": "2023-06-04T20:05:43.4009867+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:25.8096959+00:00",
-  "LastUpdate_Ratings": "2023-06-04T18:59:22.1663315+00:00",
-  "LastUpdate_Achievements": "2023-06-04T19:06:09.1585435+00:00"
+  "LastUpdate_Ratings": "2023-06-04T19:58:58.4184998+00:00",
+  "LastUpdate_Achievements": "2023-06-04T20:05:43.4010624+00:00"
 }

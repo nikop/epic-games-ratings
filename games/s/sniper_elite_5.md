@@ -5,17 +5,17 @@ Rating: 4.44 (Ranked 631)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 26.00% | ~583 |
+| Meeting Resistance | 26.00% | ~584 |
 | Confirming Suspicions | 21.00% | ~471 |
-| The Kraken Wakes | 17.00% | ~381 |
+| The Kraken Wakes | 17.00% | ~382 |
 | It's Starting to Crack | 14.00% | ~314 |
-| Lord of War | 12.00% | ~269 |
+| Lord of War | 13.00% | ~292 |
 | Change the Channel | 12.00% | ~269 |
 | Resourceful | 11.00% | ~247 |
 | Taking it back | 10.00% | ~224 |
 | Organ Grinder | 9.00% | ~202 |
 | As Quiet as a Mouse | 9.00% | ~202 |
-| Target America | 8.00% | ~179 |
+| Target America | 8.00% | ~180 |
 | Enemy at the Gates | 7.00% | ~157 |
 | Just a Flesh Wound | 7.00% | ~157 |
 | Gunslinger | 7.00% | ~157 |
@@ -37,9 +37,9 @@ Rating: 4.44 (Ranked 631)
 | Precision Is Key | 3.00% | ~67 |
 | Rigged to Blow | 2.00% | ~45 |
 | My Little Friend | 2.00% | ~45 |
+| It'll Buff Right Out | 2.00% | ~45 |
 | Strategist | 1.00% | ~22 |
 | The Long Game | 1.00% | ~22 |
-| It'll Buff Right Out | 1.00% | ~22 |
 | Locomotion Commotion | 1.00% | ~22 |
 | Road Rage | 1.00% | ~22 |
 | Herr Today, Gone Tomorrow | 1.00% | ~22 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 631)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,243 (Ranked 149)  
+Progressed: 2,245 (Ranked 149)  
 Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
 | 2023-06-03 | 2,182 | 2 |
-| 2023-06-04 | 2,243 | 2 |
+| 2023-06-04 | 2,245 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

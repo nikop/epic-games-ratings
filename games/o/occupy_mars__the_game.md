@@ -8,14 +8,14 @@ Rating: 3.83 (Ranked 920)
 | I don't feel so good | 42.00% | ~470 |
 | Electrician | 34.00% | ~381 |
 | Fear my botany powers, Mars | 31.00% | ~347 |
+| Bob The Builder | 29.00% | ~325 |
 | Zero Waste | 28.00% | ~314 |
 | I am the greatest botanist on this planet. | 28.00% | ~314 |
-| Bob The Builder | 28.00% | ~314 |
 | Gardener | 23.00% | ~258 |
 | Miner | 23.00% | ~258 |
 | Houston we have a problem | 20.00% | ~224 |
 | Occupy Mars! | 20.00% | ~224 |
-| Detective | 16.00% | ~179 |
+| Detective | 17.00% | ~190 |
 | The Collector | 13.00% | ~146 |
 | Get your hands dirty | 9.00% | ~101 |
 | All Wheel Trouble | 6.00% | ~67 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -888,9 +888,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3399,
+  "EOS_Progressed": 3403,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3658,6 +3658,11 @@
       "Time": "2023-06-04T19:02:37.126306+00:00",
       "NumProgressed": 3399,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T20:02:33.0796879+00:00",
+      "NumProgressed": 3403,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3725,7 +3730,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3765,7 +3770,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3773,7 +3778,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3789,7 +3794,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3821,7 +3826,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -3829,7 +3834,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2586
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3853,7 +3858,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -3925,7 +3930,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3941,7 +3946,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -3988,15 +3993,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3399,
+      "Progressed": 3403,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-04T19:00:29.2975541+00:00",
-  "LastChanged_Achievements": "2023-06-04T19:02:37.1263055+00:00",
+  "LastChanged_Achievements": "2023-06-04T20:02:33.0796873+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-04T19:00:29.2975548+00:00",
-  "LastUpdate_Achievements": "2023-06-04T19:02:37.1263581+00:00"
+  "LastUpdate_Ratings": "2023-06-04T19:59:58.3925173+00:00",
+  "LastUpdate_Achievements": "2023-06-04T20:02:33.0797882+00:00"
 }

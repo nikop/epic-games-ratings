@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 1.00% | ~898 |
 | Beast Intentions | 0.80% | ~718 |
 | The Mad Wizard | 0.80% | ~718 |
-| The Court of Storms | 0.80% | ~448 |
+| The Court of Storms | 0.80% | ~449 |
 | Beware the Jabberwock | 0.70% | ~392 |
 | The Ring of Regeneration | 0.60% | ~539 |
 | Were-verpowered | 0.50% | ~449 |
@@ -108,6 +108,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~180 |
 | The Death Curse | 0.20% | ~180 |
 | Treasure Hunters | 0.20% | ~180 |
+| The Guardian of Orolunga | 0.20% | ~180 |
 | The Lost Love | 0.20% | ~180 |
 | Flies on the Wall | 0.20% | ~180 |
 | Backtracking Through Barovia | 0.20% | ~180 |
@@ -287,7 +288,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~90 |
 | Our Time To Shine | 0.10% | ~90 |
 | Review by the Blackstaff | 0.10% | ~56 |
-| The Guardian of Orolunga | 0.10% | ~90 |
 | Think Your Way Out Of It | 0.10% | ~90 |
 | Air's Getting Pretty Thin | 0.10% | ~90 |
 | Red Wizard 'Escort' | 0.10% | ~56 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,788 (Ranked 62)  
-Completed: 1,915 (2.13%) (Ranked 64)  
+Progressed: 89,796 (Ranked 62)  
+Completed: 1,915 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -545,7 +545,7 @@ Completed: 1,915 (2.13%) (Ranked 64)
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
-| 2023-06-04 | 89,788 | 1,915 |
+| 2023-06-04 | 89,796 | 1,915 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,030 (Ranked 37)  

@@ -6,22 +6,22 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,969 |
-| Say goodbye, creep! | 65.00% | ~27,691 |
-| Blood splattered | 65.00% | ~27,691 |
-| Choo choo! | 62.00% | ~26,413 |
-| Groovy | 61.00% | ~25,987 |
-| Cleanup on aisle 4! | 56.00% | ~23,857 |
-| Gold | 50.00% | ~21,301 |
-| The boat can leave now...tell the crew | 48.00% | ~20,449 |
-| Give me something to shoot! | 46.00% | ~19,597 |
-| Stand back boy! | 46.00% | ~19,597 |
-| Weird science | 44.00% | ~18,745 |
-| Chain reaction | 44.00% | ~18,745 |
-| Look mummy! A shark! | 41.00% | ~17,467 |
-| What did you say, Blain? | 41.00% | ~17,467 |
-| In the dark dark woods... | 38.00% | ~16,189 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,189 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,971 |
+| Say goodbye, creep! | 65.00% | ~27,693 |
+| Blood splattered | 65.00% | ~27,693 |
+| Choo choo! | 62.00% | ~26,414 |
+| Groovy | 61.00% | ~25,988 |
+| Cleanup on aisle 4! | 56.00% | ~23,858 |
+| Gold | 50.00% | ~21,302 |
+| The boat can leave now...tell the crew | 48.00% | ~20,450 |
+| Give me something to shoot! | 46.00% | ~19,598 |
+| Stand back boy! | 46.00% | ~19,598 |
+| Weird science | 44.00% | ~18,746 |
+| Chain reaction | 44.00% | ~18,746 |
+| Look mummy! A shark! | 41.00% | ~17,468 |
+| What did you say, Blain? | 41.00% | ~17,468 |
+| In the dark dark woods... | 38.00% | ~16,190 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,190 |
 | Double tap | 36.00% | ~15,337 |
 | Cranial blowout! | 36.00% | ~15,337 |
 | Zombie killin' machine | 36.00% | ~15,337 |
@@ -35,15 +35,15 @@ Number of Ratings: 743  (23.09.2022)
 | I never liked them anyway | 30.00% | ~12,781 |
 | Is it over? | 28.00% | ~11,929 |
 | Got your back | 27.00% | ~11,503 |
-| Gore soaked | 24.00% | ~10,224 |
-| Shock therapy | 22.00% | ~9,372 |
-| Leave the limbs you've lost | 22.00% | ~9,372 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,668 |
-| Take them down screaming | 18.00% | ~7,668 |
-| Weapons expert | 17.00% | ~7,242 |
-| Bad Blood | 16.00% | ~6,816 |
-| The bigger they are... | 15.00% | ~6,390 |
-| I'm going deeper underground | 14.00% | ~5,964 |
+| Gore soaked | 24.00% | ~10,225 |
+| Shock therapy | 22.00% | ~9,373 |
+| Leave the limbs you've lost | 22.00% | ~9,373 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,669 |
+| Take them down screaming | 18.00% | ~7,669 |
+| Weapons expert | 17.00% | ~7,243 |
+| Bad Blood | 16.00% | ~6,817 |
+| The bigger they are... | 15.00% | ~6,391 |
+| I'm going deeper underground | 14.00% | ~5,965 |
 | Well equipped | 12.00% | ~5,112 |
 | Into the deep | 12.00% | ~5,112 |
 | Damnedbusters | 9.00% | ~3,834 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~426 |
 | None more hard | 0.50% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,602 (Ranked 82)  
+Progressed: 42,604 (Ranked 82)  
 Completed: 25 (0.06%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,10 +118,10 @@ Completed: 25 (0.06%) (Ranked 179)
 | 2023-06-01 | 42,537 | 25 |
 | 2023-06-02 | 42,554 | 25 |
 | 2023-06-03 | 42,581 | 25 |
-| 2023-06-04 | 42,602 | 25 |
+| 2023-06-04 | 42,604 | 25 |
 ## Awards
 Max (Great Boss Battles): 781  (Ranked 147)  
-Sum: 2,387 (Ranked 168)  
+Sum: 2,388 (Ranked 168)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
@@ -131,7 +131,7 @@ Diff (max vs sum): -21
 | This game is Extremely Fun | 203 |
 | This game is Highly Recommended | 203 |
 | This game has Diverse Characters | 202 |
-| This game has Quickly Understood Controls | 195 |
+| This game has Quickly Understood Controls | 196 |
 | This game is Relaxing | 182 |
 | This game has Amazing Characters | 175 |
 | This game has Obsessive Gameplay | 165 |
@@ -265,3 +265,4 @@ Diff (max vs sum): -21
 | 2023-06-01 | 4.69 | - | 779 | 2,382 |
 | 2023-06-02 | 4.69 | - | 780 | 2,383 |
 | 2023-06-03 | 4.69 | - | 781 | 2,387 |
+| 2023-06-04 | 4.69 | - | 781 | 2,388 |
