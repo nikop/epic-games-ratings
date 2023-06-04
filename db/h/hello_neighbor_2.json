@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 36,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -324,7 +324,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2416,
+  "EOS_Progressed": 2417,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
@@ -1109,6 +1109,11 @@
       "Time": "2023-06-04T09:06:54.2230086+00:00",
       "NumProgressed": 2416,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-04T14:05:24.9458245+00:00",
+      "NumProgressed": 2417,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 14,
@@ -1120,7 +1125,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1224,14 +1229,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2416,
+      "Progressed": 2417,
       "Completed": 95
     }
   ],
@@ -1239,8 +1244,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-23T22:01:02.7899752+00:00",
-  "LastChanged_Achievements": "2023-06-04T13:08:49.5752112+00:00",
+  "LastChanged_Achievements": "2023-06-04T14:05:24.945824+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:48.6058965+00:00",
-  "LastUpdate_Ratings": "2023-06-04T13:03:14.4295163+00:00",
-  "LastUpdate_Achievements": "2023-06-04T13:08:49.5752241+00:00"
+  "LastUpdate_Ratings": "2023-06-04T13:59:51.5557417+00:00",
+  "LastUpdate_Achievements": "2023-06-04T14:05:24.9458417+00:00"
 }

@@ -13,6 +13,7 @@ Rating: 4.17 (Ranked 844)
 | Knighthood | 2.00% | ~1,271 |
 | Loose Ends | 2.00% | ~1,271 |
 | Whispered Words | 2.00% | ~1,271 |
+| In Your Element | 1.00% | ~636 |
 | Protector of Gotham | 1.00% | ~636 |
 | Something in the Clay | 1.00% | ~636 |
 | The Show Mud Go On | 1.00% | ~636 |
@@ -29,7 +30,6 @@ Rating: 4.17 (Ranked 844)
 | From Inside Gotham's Walls | 1.00% | ~636 |
 | Voiceless | 1.00% | ~636 |
 | End of an Era | 0.90% | ~572 |
-| In Your Element | 0.90% | ~572 |
 | Not On My Watch | 0.90% | ~572 |
 | Bulldozed | 0.90% | ~572 |
 | Seeking Asylum | 0.90% | ~572 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 844)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,554 (Ranked 71)  
+Progressed: 63,559 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 93 (0.15%) (Ranked 153)
 | 2023-06-01 | 63,155 | 93 |
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
-| 2023-06-04 | 63,554 | 93 |
+| 2023-06-04 | 63,559 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,291  (Ranked 98)  
 Sum: 3,792 (Ranked 137)  

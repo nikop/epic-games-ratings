@@ -11,20 +11,20 @@
 | The spiritual world... | 24.00% | ~52 |
 | The woodcutter | 22.00% | ~48 |
 | I like books | 20.00% | ~43 |
-| I like my life | 19.00% | ~41 |
+| I like my life | 18.00% | ~39 |
 | Clean energy | 17.00% | ~37 |
 | Soviet town | 17.00% | ~37 |
-| Bucolic city | 13.00% | ~28 |
-| I love books! | 9.00% | ~19 |
-| King of fish | 9.00% | ~19 |
-| I love parks | 9.00% | ~19 |
+| Bucolic city | 12.00% | ~26 |
+| I love books! | 9.00% | ~20 |
+| King of fish | 9.00% | ~20 |
+| I love parks | 9.00% | ~20 |
 | What would we do if we can't go out with friends? | 8.00% | ~17 |
 | Food producer | 6.00% | ~13 |
 | Metropolurbek | 6.00% | ~13 |
 | I am very happy! | 4.00% | ~9 |
 | Sport is the best thing | 4.00% | ~9 |
-| Little Mayor | 3.00% | ~6 |
-| Temperate builder | 3.00% | ~6 |
+| Little Mayor | 3.00% | ~7 |
+| Temperate builder | 3.00% | ~7 |
 | Banking city | 2.00% | ~4 |
 | Read! Everyone should read! | 2.00% | ~4 |
 | Oh, I love parks, listening to birds! | 2.00% | ~4 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216 (Ranked 240)  
+Progressed: 217 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 210 | 0 |
 | 2023-06-02 | 212 | 0 |
 | 2023-06-03 | 213 | 0 |
-| 2023-06-04 | 216 | 0 |
+| 2023-06-04 | 217 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

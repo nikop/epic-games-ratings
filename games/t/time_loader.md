@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Screwdriver | 64.00% | ~65 |
+| Screwdriver | 65.00% | ~66 |
 | Springs | 61.00% | ~62 |
-| Soap | 41.00% | ~41 |
-| Act 1 | 34.00% | ~34 |
-| Wrench | 33.00% | ~33 |
-| Capacitors | 33.00% | ~33 |
-| Purr-fect | 32.00% | ~32 |
-| Soldering iron | 30.00% | ~30 |
-| Mug | 29.00% | ~29 |
-| Robot Bros | 26.00% | ~26 |
-| Act 2 | 25.00% | ~25 |
+| Soap | 40.00% | ~41 |
+| Act 1 | 33.00% | ~34 |
+| Wrench | 32.00% | ~33 |
+| Capacitors | 32.00% | ~33 |
+| Purr-fect | 31.00% | ~32 |
+| Soldering iron | 29.00% | ~30 |
+| Mug | 28.00% | ~29 |
+| Robot Bros | 25.00% | ~26 |
+| Act 2 | 25.00% | ~26 |
 | Cassette | 22.00% | ~22 |
 | Harpoon | 22.00% | ~22 |
 | Act 3 | 22.00% | ~22 |
@@ -34,8 +34,8 @@
 | Leave me alone | 9.00% | ~9 |
 | Secret ending | 9.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 270)  
-Completed: 8 (7.92%) (Ranked 22)  
+Progressed: 102 (Ranked 270)  
+Completed: 8 (7.84%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -45,6 +45,7 @@ Completed: 8 (7.92%) (Ranked 22)
 | 2023-05-21 | 99 | 8 |
 | 2023-05-23 | 100 | 8 |
 | 2023-05-24 | 101 | 8 |
+| 2023-06-04 | 102 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

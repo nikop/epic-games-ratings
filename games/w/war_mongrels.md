@@ -8,24 +8,24 @@ Number of Ratings: 34  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 62.00% | ~193 |
 | Cowardice | 54.00% | ~168 |
-| NO LIFE IS WORTH SAVING... | 49.00% | ~152 |
-| Eat Lead! | 47.00% | ~146 |
+| NO LIFE IS WORTH SAVING... | 48.00% | ~150 |
+| Eat Lead! | 47.00% | ~147 |
 | Prospector | 43.00% | ~134 |
 | Here Comes the Boom | 43.00% | ~134 |
-| Treasure Hunter | 41.00% | ~128 |
-| The Breaking Point | 40.00% | ~124 |
+| Treasure Hunter | 40.00% | ~125 |
+| The Breaking Point | 39.00% | ~122 |
 | Sniper Wolf | 37.00% | ~115 |
 | Missing in Action | 36.00% | ~112 |
 | The Motivation | 35.00% | ~109 |
 | Heroism | 33.00% | ~103 |
-| Collectibles of Chapter I | 32.00% | ~100 |
-| King of Knives | 32.00% | ~100 |
+| Collectibles of Chapter I | 31.00% | ~97 |
+| King of Knives | 31.00% | ~97 |
 | Consequences | 29.00% | ~90 |
 | Opportunities | 28.00% | ~87 |
 | The Horror | 26.00% | ~81 |
 | Collectibles of Chapter II | 24.00% | ~75 |
 | The Difference | 23.00% | ~72 |
-| Vengeance | 22.00% | ~68 |
+| Vengeance | 22.00% | ~69 |
 | It's Just an Accident | 20.00% | ~62 |
 | Broken Hopes | 19.00% | ~59 |
 | Food Massacre | 19.00% | ~59 |
@@ -34,7 +34,7 @@ Number of Ratings: 34  (23.09.2022)
 | Sorrow | 16.00% | ~50 |
 | Collectibles of Chapter IV | 15.00% | ~47 |
 | Atonement | 15.00% | ~47 |
-| Without a Second Thought | 13.00% | ~40 |
+| Without a Second Thought | 13.00% | ~41 |
 | Helping Hand | 12.00% | ~37 |
 | Collectibles of Chapter V | 9.00% | ~28 |
 | Such is War! | 8.00% | ~25 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 311 (Ranked 222)  
+Progressed: 312 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 302 | 0 |
 | 2023-06-02 | 306 | 0 |
 | 2023-06-03 | 310 | 0 |
-| 2023-06-04 | 311 | 0 |
+| 2023-06-04 | 312 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

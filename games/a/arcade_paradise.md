@@ -5,20 +5,20 @@ Rating: 4.58 (Ranked 422)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~591 |
+| Pushing a pull door | 96.00% | ~592 |
 | Fetch Quest Complete | 91.00% | ~561 |
-| I can't wait! | 83.00% | ~511 |
-| Swish | 56.00% | ~345 |
-| Clean up on Aisle 9 | 40.00% | ~246 |
+| I can't wait! | 83.00% | ~512 |
+| Swish | 56.00% | ~346 |
+| Clean up on Aisle 9 | 40.00% | ~247 |
 | Machine Maxed | 30.00% | ~185 |
 | Bug Fixer | 25.00% | ~154 |
 | Gerald of Riviera | 25.00% | ~154 |
 | Existential dread | 24.00% | ~148 |
 | Goal | 22.00% | ~136 |
-| I ran the numbers | 15.00% | ~92 |
+| I ran the numbers | 15.00% | ~93 |
 | Taking the plunge | 13.00% | ~80 |
 | Hidden Packages | 11.00% | ~68 |
-| GOOOAAAL | 9.00% | ~55 |
+| GOOOAAAL | 9.00% | ~56 |
 | New Kid on the Block | 7.00% | ~43 |
 | Ahoy Hoy | 6.00% | ~37 |
 | Jimmy Goldman Would be Proud | 6.00% | ~37 |
@@ -29,10 +29,10 @@ Rating: 4.58 (Ranked 422)
 | GoldGuy Jr | 4.00% | ~25 |
 | Nose to the Grindstone | 4.00% | ~25 |
 | Waking nightmare | 4.00% | ~25 |
-| We come in peace | 3.00% | ~18 |
-| Crowning achievement | 3.00% | ~18 |
-| Modern Gorefare | 3.00% | ~18 |
-| Hammer time | 3.00% | ~18 |
+| We come in peace | 3.00% | ~19 |
+| Crowning achievement | 3.00% | ~19 |
+| Modern Gorefare | 3.00% | ~19 |
+| Hammer time | 3.00% | ~19 |
 | 1CC | 2.00% | ~12 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~12 |
 | To do. Done! | 2.00% | ~12 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 422)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 616 (Ranked 193)  
+Progressed: 617 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 611 | 0 |
 | 2023-06-02 | 612 | 0 |
 | 2023-06-03 | 616 | 0 |
+| 2023-06-04 | 617 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,15 +1,15 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.14 (Ranked 859)  
+Rating: 4.12 (Ranked 866)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,999 |
-| Disposing of the Evidence | 36.00% | ~2,168 |
-| Without a Scratch | 32.00% | ~1,927 |
-| Wreckless Driving | 27.00% | ~1,626 |
-| A Marked Man | 23.00% | ~1,385 |
+| First Day on the Job | 83.00% | ~5,001 |
+| Disposing of the Evidence | 36.00% | ~2,169 |
+| Without a Scratch | 32.00% | ~1,928 |
+| Wreckless Driving | 27.00% | ~1,627 |
+| A Marked Man | 23.00% | ~1,386 |
 | Street Sweeper | 17.00% | ~1,024 |
 | Liberty City Minute | 16.00% | ~964 |
 | Offshore Delivery | 12.00% | ~723 |
@@ -17,7 +17,7 @@ Rating: 4.14 (Ranked 859)
 | By a Mile | 9.00% | ~542 |
 | Right-hand Man | 9.00% | ~542 |
 | Not So Fast | 8.00% | ~482 |
-| A Gift from the King | 6.00% | ~361 |
+| A Gift from the King | 6.00% | ~362 |
 | Full Artillery | 4.00% | ~241 |
 | Mob Boss | 2.00% | ~120 |
 | Splish Splash | 2.00% | ~120 |
@@ -35,7 +35,7 @@ Rating: 4.14 (Ranked 859)
 | Is That All You've Got? | 0.70% | ~42 |
 | King of Liberty City | 0.50% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,023 (Ranked 123)  
+Progressed: 6,025 (Ranked 123)  
 Completed: 30 (0.50%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 30 (0.50%) (Ranked 111)
 | 2023-06-01 | 5,801 | 28 |
 | 2023-06-02 | 5,881 | 30 |
 | 2023-06-03 | 5,982 | 30 |
-| 2023-06-04 | 6,023 | 30 |
+| 2023-06-04 | 6,025 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -131,3 +131,4 @@ Completed: 30 (0.50%) (Ranked 111)
 | 2023-05-31 | 4.16 | 0 | 0 |
 | 2023-06-01 | 4.15 | 0 | 0 |
 | 2023-06-03 | 4.14 | 0 | 0 |
+| 2023-06-04 | 4.12 | 0 | 0 |

@@ -22,9 +22,9 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet | 90.00% | ~1,858 |
 | Industrial Area | 89.00% | ~1,838 |
 | Magnet Repel | 88.00% | ~1,817 |
+| Boomeraxe | 87.00% | ~1,797 |
 | You feel middle classy | 86.00% | ~1,776 |
 | Banking District | 86.00% | ~1,776 |
-| Boomeraxe | 86.00% | ~1,776 |
 | Iron Pickaxe | 86.00% | ~1,776 |
 | Arrested | 85.00% | ~1,755 |
 | Zappy Gun | 85.00% | ~1,755 |
@@ -43,7 +43,7 @@ Number of Ratings: 209  (23.09.2022)
 | Trickle Down Economy | 76.00% | ~1,569 |
 | Win | 75.00% | ~1,549 |
 | Greenhouse | 72.00% | ~1,487 |
-| Played with fire | 69.00% | ~1,425 |
+| Played with fire | 70.00% | ~1,446 |
 | You feel very sorry | 69.00% | ~1,425 |
 | No Match for you | 65.00% | ~1,342 |
 | Bouncy | 61.00% | ~1,260 |

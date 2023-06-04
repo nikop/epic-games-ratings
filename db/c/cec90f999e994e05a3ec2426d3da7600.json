@@ -4,8 +4,8 @@
   "ProductSlug": "perimeter-emperors-testament-af1efc",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-11T17:00:00+00:00",
     "PcReleaseDate": "2006-08-29T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-12T06:57:03.853028+00:00",
   "LastUpdate_AppInfo": "2023-06-01T19:56:55.5496614+00:00",
-  "LastUpdate_Ratings": "2023-06-04T12:59:49.1556419+00:00",
+  "LastUpdate_Ratings": "2023-06-04T13:56:57.9584799+00:00",
   "LastUpdate_Achievements": "2023-06-04T13:03:58.8349377+00:00"
 }

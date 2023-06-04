@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 94.00% | ~349 |
-| Scavenger | 75.00% | ~278 |
-| Line of Duty | 73.00% | ~271 |
-| Gunner | 56.00% | ~208 |
+| Clean Sweep | 94.00% | ~350 |
+| Scavenger | 75.00% | ~279 |
+| Line of Duty | 72.00% | ~268 |
+| Gunner | 55.00% | ~205 |
 | DocKing | 46.00% | ~171 |
-| What-A-Shot | 44.00% | ~163 |
+| What-A-Shot | 44.00% | ~164 |
 | Batteries Included | 39.00% | ~145 |
-| Death from Above | 37.00% | ~137 |
+| Death from Above | 37.00% | ~138 |
 | Hull King | 27.00% | ~100 |
 | Boss Down | 20.00% | ~74 |
 | Extra Ammo | 20.00% | ~74 |
-| Hazardous Duty | 18.00% | ~67 |
 | Splash Damage | 18.00% | ~67 |
-| Perky | 16.00% | ~59 |
+| Hazardous Duty | 17.00% | ~63 |
+| Perky | 16.00% | ~60 |
 | Salvage | 12.00% | ~45 |
 | Perk King | 11.00% | ~41 |
-| Shocking | 11.00% | ~41 |
 | Perfect Timing | 10.00% | ~37 |
 | Sixty Seconds | 10.00% | ~37 |
+| Shocking | 10.00% | ~37 |
 | Killer Elite | 6.00% | ~22 |
 | Bumper Car | 5.00% | ~19 |
 | First Victory | 5.00% | ~19 |
 | OP | 5.00% | ~19 |
 | Thirty Birds... | 5.00% | ~19 |
 | The Disruptor | 4.00% | ~15 |
-| Early Bird | 4.00% | ~15 |
+| Early Bird | 3.00% | ~11 |
 | Swiss Cheese | 3.00% | ~11 |
 | Heavy Metal | 2.00% | ~7 |
 | Mister Fix It | 2.00% | ~7 |
@@ -49,7 +49,7 @@
 | Burn Them | 0.30% | ~1 |
 | Final Ascension | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371 (Ranked 213)  
+Progressed: 372 (Ranked 213)  
 Completed: 1 (0.27%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 1 (0.27%) (Ranked 135)
 | 2023-05-29 | 368 | 1 |
 | 2023-06-02 | 369 | 1 |
 | 2023-06-03 | 370 | 1 |
-| 2023-06-04 | 371 | 1 |
+| 2023-06-04 | 372 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

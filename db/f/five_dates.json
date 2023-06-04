@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -508,9 +508,9 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
@@ -525,8 +525,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-04T13:06:28.8987217+00:00",
+  "LastChanged_Achievements": "2023-06-04T14:03:27.9841178+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:18.3504404+00:00",
-  "LastUpdate_Ratings": "2023-06-04T13:00:54.315481+00:00",
-  "LastUpdate_Achievements": "2023-06-04T13:06:28.898731+00:00"
+  "LastUpdate_Ratings": "2023-06-04T13:57:50.3014358+00:00",
+  "LastUpdate_Achievements": "2023-06-04T14:03:27.9841333+00:00"
 }

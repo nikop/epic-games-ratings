@@ -4,8 +4,8 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -152,6 +152,11 @@
       "Time": "2023-06-04T11:03:22.1853786+00:00",
       "NumProgressed": 371,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T14:02:31.5686654+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -203,7 +208,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -211,7 +216,7 @@
       "Name": "Death from Above",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -241,9 +246,9 @@
       "ID": "Award_EarlyBird",
       "SetID": "9ojec6n",
       "Name": "Early Bird",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "Award_ExtraAmmo",
@@ -273,9 +278,9 @@
       "ID": "Award_Gunner",
       "SetID": "9ojec6n",
       "Name": "Gunner",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 205
     },
     {
       "ID": "Award_HalfwayThere",
@@ -297,9 +302,9 @@
       "ID": "Award_HazardousDuty",
       "SetID": "9ojec6n",
       "Name": "Hazardous Duty",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "Award_HeavyMetal",
@@ -337,9 +342,9 @@
       "ID": "Award_LineOfDuty",
       "SetID": "9ojec6n",
       "Name": "Line of Duty",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 268
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -387,7 +392,7 @@
       "Name": "Perky",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Award_PowerUp",
@@ -411,7 +416,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "Award_ShellShock",
@@ -457,9 +462,9 @@
       "ID": "Award_Stunning",
       "SetID": "9ojec6n",
       "Name": "Shocking",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     },
     {
       "ID": "Award_SwissCheese",
@@ -507,14 +512,14 @@
       "Name": "What-A-Shot",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 1
     }
   ],
@@ -522,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-04T13:05:14.2183888+00:00",
+  "LastChanged_Achievements": "2023-06-04T14:02:31.5686648+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:28.8451881+00:00",
-  "LastUpdate_Ratings": "2023-06-04T13:01:03.6096867+00:00",
-  "LastUpdate_Achievements": "2023-06-04T13:05:14.2184184+00:00"
+  "LastUpdate_Ratings": "2023-06-04T13:57:58.085624+00:00",
+  "LastUpdate_Achievements": "2023-06-04T14:02:31.5686999+00:00"
 }

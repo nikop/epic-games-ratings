@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~5,822 |
-| Battering Crew | 20.00% | ~2,911 |
-| The Kingsroad | 19.00% | ~2,765 |
-| Well Stocked | 14.00% | ~2,038 |
-| Royal Fleet | 14.00% | ~2,038 |
+| Conqueror | 40.00% | ~5,826 |
+| Battering Crew | 20.00% | ~2,913 |
+| The Kingsroad | 19.00% | ~2,767 |
+| Well Stocked | 14.00% | ~2,039 |
+| Royal Fleet | 14.00% | ~2,039 |
 | The Kraken’s Grasp | 10.00% | ~1,456 |
-| Alliance | 9.00% | ~1,310 |
-| Daggers in the Dark | 8.00% | ~1,164 |
-| Oathkeeper | 8.00% | ~1,164 |
-| Influential | 8.00% | ~1,164 |
-| A Long Journey | 8.00% | ~1,164 |
-| Ours is the Fury | 7.00% | ~1,019 |
-| We Do Not Sow | 7.00% | ~1,019 |
-| Winter is Coming | 7.00% | ~1,019 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~873 |
-| Hear me Roar! | 6.00% | ~873 |
-| Defender of the Wall | 6.00% | ~873 |
+| Alliance | 9.00% | ~1,311 |
+| Daggers in the Dark | 8.00% | ~1,165 |
+| Oathkeeper | 8.00% | ~1,165 |
+| Influential | 8.00% | ~1,165 |
+| A Long Journey | 8.00% | ~1,165 |
+| Ours is the Fury | 7.00% | ~1,020 |
+| We Do Not Sow | 7.00% | ~1,020 |
+| Winter is Coming | 7.00% | ~1,020 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~874 |
+| Hear me Roar! | 6.00% | ~874 |
+| Defender of the Wall | 6.00% | ~874 |
 | Growing Strong | 5.00% | ~728 |
 | What is Dead may Never Die | 3.00% | ~437 |
 | The Swift | 3.00% | ~437 |
 | King in the North | 2.00% | ~291 |
 | War of the Five Kings | 1.00% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,555 (Ranked 102)  
+Progressed: 14,565 (Ranked 102)  
 Completed: 30 (0.21%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 30 (0.21%) (Ranked 143)
 | 2023-06-01 | 14,224 | 30 |
 | 2023-06-02 | 14,343 | 30 |
 | 2023-06-03 | 14,485 | 30 |
-| 2023-06-04 | 14,555 | 30 |
+| 2023-06-04 | 14,565 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 303)  
 Sum: 782 (Ranked 253)  
