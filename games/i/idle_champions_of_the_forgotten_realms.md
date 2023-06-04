@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,794 |
+| A Brief Tour of the Realms | 2.00% | ~1,795 |
 | The Cursed Farmer | 1.00% | ~897 |
 | Beast Intentions | 0.80% | ~718 |
 | The Mad Wizard | 0.80% | ~718 |
@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.50% | ~449 |
 | Friendly Imps | 0.50% | ~449 |
 | Coasting to the Finish | 0.50% | ~280 |
+| Quick or Quack | 0.50% | ~280 |
 | Best Thay Ever | 0.40% | ~224 |
 | Checkmate | 0.40% | ~224 |
 | Vecna Out! | 0.40% | ~224 |
@@ -25,7 +26,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.40% | ~359 |
 | Mad Cow Disease | 0.40% | ~359 |
 | Pure Energy | 0.40% | ~359 |
-| Quick or Quack | 0.40% | ~224 |
 | Maddening | 0.30% | ~269 |
 | Owlbear Necessities | 0.30% | ~168 |
 | Pin and Skewer | 0.30% | ~168 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,719 (Ranked 62)  
+Progressed: 89,726 (Ranked 62)  
 Completed: 1,913 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,7 +545,7 @@ Completed: 1,913 (2.13%) (Ranked 63)
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
-| 2023-06-04 | 89,719 | 1,913 |
+| 2023-06-04 | 89,726 | 1,913 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,027 (Ranked 37)  

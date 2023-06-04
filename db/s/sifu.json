@@ -4330,10 +4330,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10457,
       "NumberOfAwardsMax": 6130
+    },
+    {
+      "Time": "2023-06-04T08:59:31.9360412+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10459,
+      "NumberOfAwardsMax": 6130
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10457,
+  "NumberOfAwards": 10459,
   "NumberOfAwardsMax": 6130,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4353,7 +4359,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 507
+      "Count": 509
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4410,10 +4416,10 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 707270,
-  "EOS_Completed": 12754,
-  "EOS_NewPlayers": 1362,
-  "EOS_NewCompleters": 15,
+  "EOS_Progressed": 707281,
+  "EOS_Completed": 12755,
+  "EOS_NewPlayers": 1355,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -8460,6 +8466,11 @@
       "Time": "2023-06-04T08:07:20.0392656+00:00",
       "NumProgressed": 707270,
       "NumCompleted": 12754
+    },
+    {
+      "Time": "2023-06-04T09:07:02.3599004+00:00",
+      "NumProgressed": 707281,
+      "NumCompleted": 12755
     }
   ],
   "TotalAchievements": 50,
@@ -8511,7 +8522,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6365
+      "UsersEstimate": 6366
     },
     {
       "ID": "07_Wude_H1",
@@ -8623,7 +8634,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6365
+      "UsersEstimate": 6366
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -8719,7 +8730,7 @@
       "Name": "Old Child",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6365
+      "UsersEstimate": 6366
     },
     {
       "ID": "33_BladeOneShot",
@@ -8783,7 +8794,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6365
+      "UsersEstimate": 6366
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -8870,21 +8881,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16571,
+      "Progressed": 16582,
       "Completed": 10220
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707270,
-      "Completed": 12754
+      "Progressed": 707281,
+      "Completed": 12755
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-03T22:59:22.7674116+00:00",
-  "LastChanged_Achievements": "2023-06-04T08:07:20.0392651+00:00",
+  "LastChanged": "2023-06-04T08:59:31.9360406+00:00",
+  "LastChanged_Achievements": "2023-06-04T09:07:02.3598999+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-04T07:59:47.4459978+00:00",
-  "LastUpdate_Achievements": "2023-06-04T08:07:20.0393347+00:00"
+  "LastUpdate_Ratings": "2023-06-04T08:59:31.9360416+00:00",
+  "LastUpdate_Achievements": "2023-06-04T09:07:02.3599509+00:00"
 }

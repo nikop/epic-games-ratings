@@ -28,6 +28,7 @@ Number of Ratings: 177  (23.09.2022)
 | Casanova | 0.20% | ~11 |
 | It Smells Like Roses | 0.20% | ~5 |
 | Love Conquers All | 0.20% | ~11 |
+| Now It's a Party! | 0.20% | ~11 |
 | Rachael | 0.20% | ~11 |
 | Smooth Operator: Ashley | 0.20% | ~11 |
 | The Muse: Madison | 0.20% | ~11 |
@@ -56,7 +57,6 @@ Number of Ratings: 177  (23.09.2022)
 | Ice Bath | 0.10% | ~5 |
 | Money Shot | 0.10% | ~5 |
 | Notice Me, Sensei | 0.10% | ~5 |
-| Now It's a Party! | 0.10% | ~5 |
 | Rule 34 | 0.10% | ~5 |
 | Party Pooper | 0.10% | ~5 |
 | Ronin | 0.10% | ~5 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,377 (Ranked 125)  
+Progressed: 5,378 (Ranked 125)  
 Completed: 2 (0.04%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 2 (0.04%) (Ranked 183)
 | 2023-06-01 | 5,316 | 2 |
 | 2023-06-02 | 5,339 | 2 |
 | 2023-06-03 | 5,370 | 2 |
-| 2023-06-04 | 5,377 | 2 |
+| 2023-06-04 | 5,378 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1239,7 +1239,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14528,
+  "EOS_Progressed": 14532,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 832,
   "EOS_NewCompleters": 0,
@@ -5724,6 +5724,11 @@
       "Time": "2023-06-04T08:07:07.4952661+00:00",
       "NumProgressed": 14528,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-04T09:06:50.5024367+00:00",
+      "NumProgressed": 14532,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -5775,7 +5780,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "1021",
@@ -5807,7 +5812,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "1025",
@@ -5823,7 +5828,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "1027",
@@ -5839,7 +5844,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "1029",
@@ -5871,7 +5876,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5811
+      "UsersEstimate": 5813
     },
     {
       "ID": "1033",
@@ -5887,7 +5892,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "1035",
@@ -5903,22 +5908,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 14528,
+      "Progressed": 14532,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-06-04T08:07:07.4952653+00:00",
+  "LastChanged_Achievements": "2023-06-04T09:06:50.5024364+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.849482+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:01:16.3659141+00:00",
-  "LastUpdate_Achievements": "2023-06-04T08:07:07.495305+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:00:56.7799355+00:00",
+  "LastUpdate_Achievements": "2023-06-04T09:06:50.5024668+00:00"
 }

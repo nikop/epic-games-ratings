@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Black Cat's Warning | 103.00% | ~95 |
 | Break no Sweat | 96.00% | ~88 |
-| Every little bit counts | 95.00% | ~87 |
+| Every little bit counts | 96.00% | ~88 |
 | Growth | 85.00% | ~78 |
 | Targeting the Enemy | 66.00% | ~61 |
 | Unavoidable | 62.00% | ~57 |

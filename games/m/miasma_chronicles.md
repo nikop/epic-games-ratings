@@ -5,11 +5,11 @@ Rating: 4.32 (Ranked 749)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~912 |
-| Ranidaphobia | 74.00% | ~741 |
-| Aspiring Editor | 71.00% | ~711 |
-| Gun for Hire | 65.00% | ~651 |
-| I am the law! | 57.00% | ~571 |
+| First Blood | 91.00% | ~913 |
+| Ranidaphobia | 74.00% | ~742 |
+| Aspiring Editor | 71.00% | ~712 |
+| Gun for Hire | 66.00% | ~662 |
+| I am the law! | 57.00% | ~572 |
 | Lumberjack | 42.00% | ~421 |
 | Croaked | 37.00% | ~371 |
 | Limp Richard | 36.00% | ~361 |
@@ -18,11 +18,11 @@ Rating: 4.32 (Ranked 749)
 | Firestarter | 34.00% | ~341 |
 | Editor Adept | 33.00% | ~331 |
 | Giant Killer | 29.00% | ~291 |
-| Sensei | 28.00% | ~281 |
+| Sensei | 29.00% | ~291 |
 | The meaning of Kain | 27.00% | ~271 |
-| Technophobe | 22.00% | ~220 |
-| Recycler | 20.00% | ~200 |
-| Chain Killer | 17.00% | ~170 |
+| Technophobe | 22.00% | ~221 |
+| Recycler | 20.00% | ~201 |
+| Chain Killer | 17.00% | ~171 |
 | Are you not entertained? | 16.00% | ~160 |
 | Jarhead | 16.00% | ~160 |
 | Hold The Line | 16.00% | ~160 |
@@ -46,8 +46,8 @@ Rating: 4.32 (Ranked 749)
 | Bot Whisperer | 3.00% | ~30 |
 | Dressed To Kill | 3.00% | ~30 |
 | Cruelty | 1.00% | ~10 |
+| Five Finger Deathcount | 0.60% | ~6 |
 | Fratricide | 0.60% | ~6 |
-| Five Finger Deathcount | 0.50% | ~5 |
 | Goaaaaal! | 0.40% | ~4 |
 | Alpha Editor | 0.30% | ~3 |
 | QA Has Suffered! (Redux) | 0.30% | ~3 |
@@ -57,7 +57,7 @@ Rating: 4.32 (Ranked 749)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,002 (Ranked 171)  
+Progressed: 1,003 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 940 | 0 |
 | 2023-06-02 | 967 | 0 |
 | 2023-06-03 | 997 | 0 |
-| 2023-06-04 | 1,002 | 0 |
+| 2023-06-04 | 1,003 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

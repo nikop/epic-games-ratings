@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,467 |
-| That's a Grand Army | 8.00% | ~3,971 |
-| That is mine! | 8.00% | ~3,971 |
-| Victorious! | 8.00% | ~3,971 |
-| Brothers in Arms | 6.00% | ~2,978 |
-| That's a Grand Navy | 6.00% | ~2,978 |
-| Seriously?! | 6.00% | ~2,978 |
-| For the Glory | 5.00% | ~2,482 |
+| Until death do us apart | 9.00% | ~4,470 |
+| That's a Grand Army | 8.00% | ~3,973 |
+| That is mine! | 8.00% | ~3,973 |
+| Victorious! | 8.00% | ~3,973 |
+| Brothers in Arms | 6.00% | ~2,980 |
+| That's a Grand Navy | 6.00% | ~2,980 |
+| Seriously?! | 6.00% | ~2,980 |
+| For the Glory | 5.00% | ~2,483 |
 | Cold War | 4.00% | ~1,986 |
 | True Catholic | 4.00% | ~1,986 |
-| Defender of the Faith | 3.00% | ~1,489 |
-| It's all about the money | 3.00% | ~1,489 |
-| Respected | 3.00% | ~1,489 |
-| Truly Divine Ruler | 3.00% | ~1,489 |
+| Defender of the Faith | 3.00% | ~1,490 |
+| It's all about the money | 3.00% | ~1,490 |
+| Respected | 3.00% | ~1,490 |
+| Truly Divine Ruler | 3.00% | ~1,490 |
 | Agressive Expander | 2.00% | ~993 |
 | Blockader | 2.00% | ~993 |
 | Combined Arms | 2.00% | ~993 |
@@ -31,19 +31,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~993 |
 | The Princess is in this Castle | 2.00% | ~993 |
 | Total Control | 2.00% | ~993 |
-| All That's Thine Shall Be Mine | 1.00% | ~496 |
-| Azur semé de lis or | 1.00% | ~496 |
-| Bright Spark | 1.00% | ~496 |
-| City of Cities | 1.00% | ~496 |
-| Factionalism | 1.00% | ~496 |
-| A Golden Empire | 1.00% | ~496 |
+| All That's Thine Shall Be Mine | 1.00% | ~497 |
+| Azur semé de lis or | 1.00% | ~497 |
+| Bright Spark | 1.00% | ~497 |
+| City of Cities | 1.00% | ~497 |
+| Factionalism | 1.00% | ~497 |
+| A Golden Empire | 1.00% | ~497 |
 | The Five Colonies | 0.90% | ~447 |
 | This navy can take it all | 0.90% | ~447 |
 | Down Under | 0.80% | ~397 |
 | The Emperors new clothes | 0.80% | ~397 |
 | Isn't this the way to India? | 0.80% | ~397 |
 | Market Control | 0.80% | ~397 |
-| Trustworthy | 0.70% | ~347 |
+| Trustworthy | 0.70% | ~348 |
 | All belongs to Mother Russia | 0.60% | ~298 |
 | Electable! | 0.60% | ~298 |
 | Time Bandit | 0.60% | ~298 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,638 (Ranked 78)  
+Progressed: 49,662 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,17 +406,17 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 48,185 | 0 |
 | 2023-06-02 | 48,793 | 0 |
 | 2023-06-03 | 49,497 | 0 |
-| 2023-06-04 | 49,638 | 0 |
+| 2023-06-04 | 49,662 | 0 |
 ## Awards
-Max (Educational): 5,338  (Ranked 61)  
-Sum: 44,086 (Ranked 27)  
+Max (Educational): 5,342  (Ranked 61)  
+Sum: 44,099 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,338 |
+| This game is Educational | 5,342 |
 | This game is Highly Recommended | 5,101 |
 | This game has Challenging Combat | 5,081 |
-| This game is Extremely Fun | 5,054 |
+| This game is Extremely Fun | 5,063 |
 | This game has Diverse Characters | 5,026 |
 | This game is Relaxing | 4,953 |
 | This game has Competitive Players | 4,804 |
@@ -564,4 +564,4 @@ Diff (max vs sum): 34
 | 2023-06-01 | 4.68 | - | 5,330 | 44,027 |
 | 2023-06-02 | 4.68 | - | 5,338 | 44,064 |
 | 2023-06-03 | 4.68 | - | 5,338 | 44,083 |
-| 2023-06-04 | 4.68 | - | 5,338 | 44,086 |
+| 2023-06-04 | 4.68 | - | 5,342 | 44,099 |

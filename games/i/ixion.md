@@ -7,16 +7,16 @@ Rating: 4.57 (Ranked 441)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 13.00% | ~314 |
 | Sputnik 2049 | 12.00% | ~290 |
-| Without Breaking Some Eggs... | 11.00% | ~265 |
-| Infinite Growth... | 11.00% | ~265 |
+| Without Breaking Some Eggs... | 11.00% | ~266 |
+| Infinite Growth... | 11.00% | ~266 |
 | Space Society | 7.00% | ~169 |
 | A Thousand Strong | 7.00% | ~169 |
 | Ready for a New World | 7.00% | ~169 |
+| Permanent Redesigns | 6.00% | ~145 |
 | Ain't Nobody Got Time for That | 6.00% | ~145 |
 | Guy de Borderlands | 5.00% | ~121 |
 | Fully Recycled | 5.00% | ~121 |
 | Breaking Protocol | 5.00% | ~121 |
-| Permanent Redesigns | 5.00% | ~121 |
 | The Ship of Theseus | 5.00% | ~121 |
 | Hope Seeker | 5.00% | ~121 |
 | A Hunk of Junk | 4.00% | ~97 |
@@ -48,9 +48,9 @@ Rating: 4.57 (Ranked 441)
 | Gregor Spinoza | 0.50% | ~12 |
 | Space Greenhouse | 0.50% | ~12 |
 | Tiqqun Unchained | 0.50% | ~12 |
+| Scientifically Accurate | 0.50% | ~12 |
 | Help of the Forgotten Member | 0.50% | ~12 |
 | Better Him Than Me | 0.40% | ~10 |
-| Scientifically Accurate | 0.40% | ~10 |
 | Remember the Dead | 0.20% | ~5 |
 | Soylent Green | 0.20% | ~5 |
 | Work Harder | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,413 (Ranked 146)  
+Progressed: 2,414 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 2,350 | 0 |
 | 2023-06-02 | 2,386 | 0 |
 | 2023-06-03 | 2,408 | 0 |
-| 2023-06-04 | 2,413 | 0 |
+| 2023-06-04 | 2,414 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

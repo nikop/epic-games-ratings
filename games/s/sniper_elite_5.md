@@ -5,13 +5,13 @@ Rating: 4.44 (Ranked 631)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 26.00% | ~571 |
-| Confirming Suspicions | 21.00% | ~461 |
-| The Kraken Wakes | 16.00% | ~351 |
-| It's Starting to Crack | 14.00% | ~307 |
-| Lord of War | 12.00% | ~263 |
-| Resourceful | 11.00% | ~241 |
-| Change the Channel | 11.00% | ~241 |
+| Meeting Resistance | 26.00% | ~572 |
+| Confirming Suspicions | 21.00% | ~462 |
+| The Kraken Wakes | 16.00% | ~352 |
+| It's Starting to Crack | 14.00% | ~308 |
+| Lord of War | 12.00% | ~264 |
+| Change the Channel | 12.00% | ~264 |
+| Resourceful | 11.00% | ~242 |
 | Taking it back | 10.00% | ~220 |
 | Organ Grinder | 9.00% | ~198 |
 | As Quiet as a Mouse | 8.00% | ~176 |
@@ -41,8 +41,8 @@ Rating: 4.44 (Ranked 631)
 | The Long Game | 1.00% | ~22 |
 | It'll Buff Right Out | 1.00% | ~22 |
 | Road Rage | 1.00% | ~22 |
-| Herr Today, Gone Tomorrow | 1.00% | ~21 |
-| Operation Foxley | 1.00% | ~21 |
+| Herr Today, Gone Tomorrow | 1.00% | ~22 |
+| Operation Foxley | 1.00% | ~22 |
 | Locomotion Commotion | 0.90% | ~20 |
 | Don't hold your breath | 0.90% | ~20 |
 | Ghost of Falaise | 0.80% | ~17 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 631)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,195 (Ranked 149)  
+Progressed: 2,199 (Ranked 149)  
 Completed: 2 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 2 (0.09%) (Ranked 169)
 | 2023-06-01 | 2,025 | 2 |
 | 2023-06-02 | 2,091 | 2 |
 | 2023-06-03 | 2,182 | 2 |
-| 2023-06-04 | 2,195 | 2 |
+| 2023-06-04 | 2,199 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1002,
+  "EOS_Progressed": 1003,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1222,6 +1222,11 @@
       "Time": "2023-06-04T08:02:11.6779201+00:00",
       "NumProgressed": 1002,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T09:01:50.8301148+00:00",
+      "NumProgressed": 1003,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1249,7 +1254,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1281,7 +1286,7 @@
       "Name": "Chain Killer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1417,15 +1422,15 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
       "SetID": "9a4jnji",
       "Name": "Five Finger Deathcount",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FRATRICIDE",
@@ -1463,9 +1468,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 662
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1481,7 +1486,7 @@
       "Name": "I am the law!",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "INFILTRATOR",
@@ -1537,7 +1542,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "RECYCLER",
@@ -1545,7 +1550,7 @@
       "Name": "Recycler",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "RUTHLESS",
@@ -1567,9 +1572,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 291
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1601,7 +1606,7 @@
       "Name": "Technophobe",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1640,7 +1645,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1002,
+      "Progressed": 1003,
       "Completed": 0
     }
   ],
@@ -1648,8 +1653,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-03T13:58:34.6988445+00:00",
-  "LastChanged_Achievements": "2023-06-04T08:02:11.6779196+00:00",
+  "LastChanged_Achievements": "2023-06-04T09:01:50.8301141+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-04T07:58:54.8730558+00:00",
-  "LastUpdate_Achievements": "2023-06-04T08:02:11.6779737+00:00"
+  "LastUpdate_Ratings": "2023-06-04T08:58:40.8398849+00:00",
+  "LastUpdate_Achievements": "2023-06-04T09:01:50.8301535+00:00"
 }

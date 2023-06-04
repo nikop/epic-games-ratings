@@ -1161,9 +1161,9 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "LEVEL_005",
@@ -1209,17 +1209,17 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "LEVEL_012",
@@ -1322,8 +1322,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-04T08:06:48.5655245+00:00",
+  "LastChanged_Achievements": "2023-06-04T09:06:31.961477+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-04T07:58:34.576564+00:00",
-  "LastUpdate_Achievements": "2023-06-04T08:06:48.5655471+00:00"
+  "LastUpdate_Ratings": "2023-06-04T08:58:22.5344692+00:00",
+  "LastUpdate_Achievements": "2023-06-04T09:06:31.9614982+00:00"
 }

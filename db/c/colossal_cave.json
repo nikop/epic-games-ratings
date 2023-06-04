@@ -4,7 +4,7 @@
   "ProductSlug": "colossal-cave-6f902f",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -62,25 +62,25 @@
       "ID": "01-OnlyJustBegun",
       "SetID": "5iij4gg",
       "Name": "We\u0027ve only just begun",
-      "Percentage": 97,
+      "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "02-YoureSpelunkinNow",
       "SetID": "5iij4gg",
       "Name": "You\u0027re spelunkin\u0027 now!",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "03-BirdmanOfTheCaves",
       "SetID": "5iij4gg",
       "Name": "The Birdman of The Caves",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "04-CharminTheSnake",
@@ -263,8 +263,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-06-04T08:07:15.7930579+00:00",
+  "LastChanged_Achievements": "2023-06-04T09:06:58.2876479+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:52.8995599+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:01:30.4284618+00:00",
-  "LastUpdate_Achievements": "2023-06-04T08:07:15.7930756+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:01:10.5707788+00:00",
+  "LastUpdate_Achievements": "2023-06-04T09:06:58.287661+00:00"
 }

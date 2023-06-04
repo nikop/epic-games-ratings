@@ -15,10 +15,10 @@
 | The Prince in Heels | 52.00% | ~306 |
 | The Harder They Fall | 51.00% | ~300 |
 | Right On Time | 50.00% | ~294 |
-| Fast Learner | 49.00% | ~289 |
+| Fast Learner | 50.00% | ~294 |
 | Immaculate Aim | 49.00% | ~289 |
 | Make Up For Lost Time | 48.00% | ~283 |
-| Breaking Down Barriers | 44.00% | ~259 |
+| Breaking Down Barriers | 45.00% | ~265 |
 | The Steel Shadow | 41.00% | ~241 |
 | Golem Chaser | 38.00% | ~224 |
 | Like Clockwork | 37.00% | ~218 |
@@ -38,8 +38,8 @@
 | Syron for Hope | 21.00% | ~124 |
 | Factorywood Explorer | 20.00% | ~118 |
 | Fairgrounds Explorer | 20.00% | ~118 |
+| Theater Explorer | 17.00% | ~100 |
 | Cultivair Explorer | 16.00% | ~94 |
-| Theater Explorer | 16.00% | ~94 |
 | Rungs Was Right | 14.00% | ~82 |
 | Corin Goes Home | 13.00% | ~77 |
 | Sartorialist | 13.00% | ~77 |

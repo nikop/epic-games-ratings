@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2778,
+  "EOS_Progressed": 2779,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2099,6 +2099,11 @@
       "Time": "2023-06-04T03:23:41.1435988+00:00",
       "NumProgressed": 2778,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T09:01:57.5230913+00:00",
+      "NumProgressed": 2779,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2110,7 +2115,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "AceDetective_9",
@@ -2214,7 +2219,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "HouseofCards_19",
@@ -2222,7 +2227,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -2238,7 +2243,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "LightofLevant_18",
@@ -2294,7 +2299,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2302,7 +2307,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2318,7 +2323,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -2334,7 +2339,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2358,7 +2363,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -2374,7 +2379,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -2445,15 +2450,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2778,
+      "Progressed": 2779,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-04T08:02:19.0213311+00:00",
+  "LastChanged_Achievements": "2023-06-04T09:01:57.5230908+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-04T07:58:12.8911358+00:00",
-  "LastUpdate_Achievements": "2023-06-04T08:02:19.0213738+00:00"
+  "LastUpdate_Ratings": "2023-06-04T08:58:01.684716+00:00",
+  "LastUpdate_Achievements": "2023-06-04T09:01:57.5231253+00:00"
 }

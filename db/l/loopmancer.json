@@ -503,9 +503,9 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_UNLOCK_MANY_CARDS",
@@ -568,8 +568,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-06-04T08:04:44.6796569+00:00",
+  "LastChanged_Achievements": "2023-06-04T09:04:36.0444753+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:02.7585248+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:00:34.3075247+00:00",
-  "LastUpdate_Achievements": "2023-06-04T08:04:44.6797077+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:00:18.4999831+00:00",
+  "LastUpdate_Achievements": "2023-06-04T09:04:36.0445155+00:00"
 }

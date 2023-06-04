@@ -24,10 +24,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,073 |
 | Bloody Sport | 1.00% | ~166 |
 | The best strikes are the ones we avoid | 1.00% | ~166 |
-| Furious Fists | 0.90% | ~6,365 |
-| Stuntmaster | 0.90% | ~6,365 |
-| Old Child | 0.90% | ~6,365 |
-| Take damage to save time | 0.90% | ~6,365 |
+| Furious Fists | 0.90% | ~6,366 |
+| Stuntmaster | 0.90% | ~6,366 |
+| Old Child | 0.90% | ~6,366 |
+| Take damage to save time | 0.90% | ~6,366 |
 | Scareless | 0.70% | ~4,951 |
 | Dance of the Praying Mantis | 0.70% | ~4,951 |
 | Qi Gong: Mind | 0.70% | ~4,951 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,270 (Ranked 15)  
-Completed: 12,754 (1.80%) (Ranked 67)  
+Progressed: 707,281 (Ranked 15)  
+Completed: 12,755 (1.80%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,17 +102,17 @@ Completed: 12,754 (1.80%) (Ranked 67)
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
 | 2023-06-03 | 707,194 | 12,754 |
-| 2023-06-04 | 707,270 | 12,754 |
+| 2023-06-04 | 707,281 | 12,755 |
 ## Awards
 Max (Great Boss Battles): 6,130  (Ranked 53)  
-Sum: 10,457 (Ranked 78)  
+Sum: 10,459 (Ranked 78)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,130 |
 | This game has Diverse Characters | 523 |
 | This game has Challenging Combat | 518 |
-| This game has Quickly Understood Controls | 507 |
+| This game has Quickly Understood Controls | 509 |
 | This game is Extremely Fun | 502 |
 | This game has Amazing Storytelling | 499 |
 | This game has Amazing Characters | 486 |
@@ -262,3 +262,4 @@ Diff (max vs sum): -25
 | 2023-06-01 | 4.82 | - | 6,119 | 10,434 |
 | 2023-06-02 | 4.82 | - | 6,122 | 10,445 |
 | 2023-06-03 | 4.82 | - | 6,130 | 10,457 |
+| 2023-06-04 | 4.82 | - | 6,130 | 10,459 |

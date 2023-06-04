@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 70.00% | ~59 |
-| Complete Level 1-1 | 63.00% | ~53 |
-| Immortal | 54.00% | ~45 |
+| What is this? | 71.00% | ~60 |
+| Complete Level 1-1 | 64.00% | ~54 |
+| Immortal | 54.00% | ~46 |
 | Complete Level 1-2 | 46.00% | ~39 |
 | Scraping by | 33.00% | ~28 |
-| Engineer-mage hybrid | 32.00% | ~27 |
-| Complete Level 1-3 | 30.00% | ~25 |
-| Defeat the warrior boss | 23.00% | ~19 |
+| Engineer-mage hybrid | 33.00% | ~28 |
+| Complete Level 1-3 | 29.00% | ~25 |
+| Defeat the warrior boss | 22.00% | ~19 |
 | Get out of my way | 20.00% | ~17 |
 | Redecorator | 19.00% | ~16 |
 | Just a sip | 18.00% | ~15 |
-| Versatile | 17.00% | ~14 |
+| Versatile | 16.00% | ~14 |
 | Complete Level 2-1 | 15.00% | ~13 |
 | Complete Level 2-2 | 15.00% | ~13 |
 | Complete Level 2-3 | 13.00% | ~11 |
@@ -25,7 +25,7 @@
 | Too many crates | 12.00% | ~10 |
 | Complete Level 3-2 | 11.00% | ~9 |
 | Engineer-warrior hybrid | 11.00% | ~9 |
-| Baby steps | 10.00% | ~8 |
+| Baby steps | 9.00% | ~8 |
 | Should have left me alone | 8.00% | ~7 |
 | Drink up | 8.00% | ~7 |
 | Complete Level 3-3 | 8.00% | ~7 |
@@ -51,8 +51,8 @@
 | Almost there | 1.00% | ~1 |
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 280)  
-Completed: 1 (1.19%) (Ranked 81)  
+Progressed: 85 (Ranked 280)  
+Completed: 1 (1.18%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,6 +60,7 @@ Completed: 1 (1.19%) (Ranked 81)
 | 2023-05-21 | 82 | 1 |
 | 2023-05-28 | 83 | 1 |
 | 2023-05-30 | 84 | 1 |
+| 2023-06-04 | 85 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

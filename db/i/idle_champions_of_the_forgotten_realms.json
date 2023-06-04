@@ -4096,9 +4096,9 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89719,
+  "EOS_Progressed": 89726,
   "EOS_Completed": 1913,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8601,6 +8601,11 @@
       "Time": "2023-06-04T08:07:30.6497976+00:00",
       "NumProgressed": 89719,
       "NumCompleted": 1913
+    },
+    {
+      "Time": "2023-06-04T09:07:13.0762019+00:00",
+      "NumProgressed": 89726,
+      "NumCompleted": 1913
     }
   ],
   "TotalAchievements": 493,
@@ -8612,7 +8617,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "objective_completed_10",
@@ -12546,30 +12551,30 @@
       "ID": "objective_completed_1361",
       "SetID": "415jc5c",
       "Name": "Quick or Quack",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 280
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55993,
+      "Progressed": 56000,
       "Completed": 2767
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89719,
+      "Progressed": 89726,
       "Completed": 1913
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-04T02:33:23.4476933+00:00",
-  "LastChanged_Achievements": "2023-06-04T08:07:30.6497969+00:00",
+  "LastChanged_Achievements": "2023-06-04T09:07:13.0762014+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-04T07:58:35.5318396+00:00",
-  "LastUpdate_Achievements": "2023-06-04T08:07:30.652645+00:00"
+  "LastUpdate_Ratings": "2023-06-04T08:58:23.4399128+00:00",
+  "LastUpdate_Achievements": "2023-06-04T09:07:13.0783611+00:00"
 }
