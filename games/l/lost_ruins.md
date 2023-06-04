@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 38.00% | ~133 |
+| Inquisitor | 37.00% | ~130 |
 | Goblin Tales | 31.00% | ~108 |
-| Bug Hunter | 25.00% | ~87 |
+| Bug Hunter | 25.00% | ~88 |
 | Boss Killer | 24.00% | ~84 |
-| The Fallen | 21.00% | ~73 |
-| Trap Master | 21.00% | ~73 |
+| The Fallen | 21.00% | ~74 |
+| Trap Master | 21.00% | ~74 |
 | Artifact Collector | 20.00% | ~70 |
-| Ghost Buster | 17.00% | ~59 |
+| Ghost Buster | 17.00% | ~60 |
 | Reincarnation | 16.00% | ~56 |
-| Iconoclasm | 13.00% | ~45 |
-| Librarian | 13.00% | ~45 |
-| The End | 13.00% | ~45 |
+| Iconoclasm | 13.00% | ~46 |
+| Librarian | 13.00% | ~46 |
+| The End | 13.00% | ~46 |
 | Gladiator | 12.00% | ~42 |
 | Lumberjack | 12.00% | ~42 |
 | Orcs Must Die! | 12.00% | ~42 |
 | Troubleshooter | 12.00% | ~42 |
 | Money Swag | 8.00% | ~28 |
-| Shield Crusher | 7.00% | ~24 |
-| Treasure Hunter | 7.00% | ~24 |
+| Shield Crusher | 7.00% | ~25 |
+| Treasure Hunter | 7.00% | ~25 |
 | Explorer | 6.00% | ~21 |
 | Oops | 6.00% | ~21 |
-| Pyromancer | 5.00% | ~17 |
-| Trio | 5.00% | ~17 |
+| Pyromancer | 5.00% | ~18 |
+| Trio | 5.00% | ~18 |
 | Spell Master | 4.00% | ~14 |
 | Arrive Home | 3.00% | ~10 |
 | Holy Knight | 2.00% | ~7 |
@@ -34,9 +34,9 @@
 | Marksman | 2.00% | ~7 |
 | Meat Lover | 2.00% | ~7 |
 | Sword Master | 2.00% | ~7 |
-| Rune Master | 1.00% | ~3 |
-| Sling of David | 1.00% | ~3 |
-| Witch | 1.00% | ~3 |
+| Rune Master | 1.00% | ~4 |
+| Sling of David | 1.00% | ~4 |
+| Witch | 1.00% | ~4 |
 | Assassin | 0.90% | ~3 |
 | Roughneck | 0.90% | ~3 |
 | Weapon Master | 0.90% | ~3 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.00% | ~0 |
 | Necromancer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349 (Ranked 217)  
+Progressed: 350 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 338 | 0 |
 | 2023-06-02 | 343 | 0 |
 | 2023-06-03 | 345 | 0 |
-| 2023-06-04 | 349 | 0 |
+| 2023-06-04 | 350 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

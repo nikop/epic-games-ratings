@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2799,
+  "EOS_Progressed": 2800,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2159,6 +2159,11 @@
       "Time": "2023-06-04T22:02:19.5912333+00:00",
       "NumProgressed": 2799,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T23:02:28.7705739+00:00",
+      "NumProgressed": 2800,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2362,7 +2367,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2490,7 +2495,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2505,15 +2510,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2799,
+      "Progressed": 2800,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-04T22:02:19.5912328+00:00",
+  "LastChanged_Achievements": "2023-06-04T23:02:28.7705731+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-04T21:57:50.7574473+00:00",
-  "LastUpdate_Achievements": "2023-06-04T22:02:19.5912755+00:00"
+  "LastUpdate_Ratings": "2023-06-04T22:58:06.0575949+00:00",
+  "LastUpdate_Achievements": "2023-06-04T23:02:28.7706176+00:00"
 }

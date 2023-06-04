@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22790,
+  "EOS_Progressed": 22791,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1203,6 +1203,11 @@
       "Time": "2023-06-04T22:04:32.1153467+00:00",
       "NumProgressed": 22790,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-04T23:04:59.3539626+00:00",
+      "NumProgressed": 22791,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1230,7 +1235,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17548
+      "UsersEstimate": 17549
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -1278,7 +1283,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17320
+      "UsersEstimate": 17321
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1318,7 +1323,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18916
+      "UsersEstimate": 18917
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1334,7 +1339,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12990
+      "UsersEstimate": 12991
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1342,7 +1347,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13446
+      "UsersEstimate": 13447
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -1430,7 +1435,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -1469,22 +1474,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22790,
+      "Progressed": 22791,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 83,
-      "Completed": 83
+      "Progressed": 84,
+      "Completed": 84
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-06-04T22:04:32.1153463+00:00",
+  "LastChanged_Achievements": "2023-06-04T23:04:59.3539622+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:10.2395765+00:00",
-  "LastUpdate_Ratings": "2023-06-04T21:58:07.6356838+00:00",
-  "LastUpdate_Achievements": "2023-06-04T22:04:32.1153759+00:00"
+  "LastUpdate_Ratings": "2023-06-04T22:58:20.9413626+00:00",
+  "LastUpdate_Achievements": "2023-06-04T23:04:59.3539923+00:00"
 }

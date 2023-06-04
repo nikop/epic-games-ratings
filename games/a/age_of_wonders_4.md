@@ -14,7 +14,7 @@ Rating: 4.54 (Ranked 489)
 | Bone Peddler | 60.00% | ~2,595 |
 | Stronger Together | 55.00% | ~2,379 |
 | Full Ascension | 53.00% | ~2,292 |
-| There Can Only Be One! | 46.00% | ~1,990 |
+| There Can Only Be One! | 47.00% | ~2,033 |
 | Seat of Power | 46.00% | ~1,990 |
 | My Final Form | 43.00% | ~1,860 |
 | Intimidation Tactics | 43.00% | ~1,860 |

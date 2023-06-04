@@ -12,11 +12,11 @@ Rating: 4.34 (Ranked 733)
 | I am the law! | 58.00% | ~591 |
 | Lumberjack | 42.00% | ~428 |
 | Croaked | 38.00% | ~387 |
-| Limp Richard | 37.00% | ~377 |
+| Limp Richard | 38.00% | ~387 |
 | From Darkness to Light | 36.00% | ~367 |
+| Exorcist | 35.00% | ~357 |
 | Firestarter | 35.00% | ~357 |
 | Editor Adept | 34.00% | ~346 |
-| Exorcist | 34.00% | ~346 |
 | Giant Killer | 31.00% | ~316 |
 | Sensei | 29.00% | ~296 |
 | The meaning of Kain | 28.00% | ~285 |

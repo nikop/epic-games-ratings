@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2653,
+  "EOS_Progressed": 2655,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 504,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3041,6 +3041,11 @@
       "Time": "2023-06-04T22:05:47.9685071+00:00",
       "NumProgressed": 2653,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T23:06:14.1269667+00:00",
+      "NumProgressed": 2655,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -3052,7 +3057,7 @@
       "Name": "First Step",
       "Percentage": 44,
       "XP": 45,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "10",
@@ -3116,7 +3121,7 @@
       "Name": "Cactus Vally",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "4",
@@ -3132,7 +3137,7 @@
       "Name": "Snowy Peak",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "6",
@@ -3154,9 +3159,9 @@
       "ID": "8",
       "SetID": "1dkhij4",
       "Name": "Sunset Ridge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 106
     },
     {
       "ID": "9",
@@ -3171,7 +3176,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 2653,
+      "Progressed": 2655,
       "Completed": 0
     }
   ],
@@ -3179,8 +3184,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-04T22:05:47.9685064+00:00",
+  "LastChanged_Achievements": "2023-06-04T23:06:14.1269663+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.5603944+00:00",
-  "LastUpdate_Ratings": "2023-06-04T21:58:10.8518244+00:00",
-  "LastUpdate_Achievements": "2023-06-04T22:05:47.9685349+00:00"
+  "LastUpdate_Ratings": "2023-06-04T22:58:24.8721177+00:00",
+  "LastUpdate_Achievements": "2023-06-04T23:06:14.1269951+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -192,7 +192,7 @@
   "Tags": [],
   "EOS_Progressed": 4325,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3095,9 +3095,9 @@
       "ID": "11",
       "SetID": "3aa2279",
       "Name": "There Can Only Be One!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1990
+      "UsersEstimate": 2033
     },
     {
       "ID": "12",
@@ -3446,8 +3446,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-04T22:04:29.8969102+00:00",
+  "LastChanged_Achievements": "2023-06-04T23:04:57.2357216+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-04T21:59:47.5601836+00:00",
-  "LastUpdate_Achievements": "2023-06-04T22:04:29.8969618+00:00"
+  "LastUpdate_Ratings": "2023-06-04T22:59:54.5619738+00:00",
+  "LastUpdate_Achievements": "2023-06-04T23:04:57.2357699+00:00"
 }

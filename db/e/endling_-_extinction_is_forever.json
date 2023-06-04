@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -518,9 +518,9 @@
       "ID": "TROP021",
       "SetID": "9n0dl35",
       "Name": "Tasty",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 157
     },
     {
       "ID": "TROP022",
@@ -583,8 +583,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-06-04T22:03:20.0085786+00:00",
+  "LastChanged_Achievements": "2023-06-04T23:03:37.8093977+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:12.9891619+00:00",
-  "LastUpdate_Ratings": "2023-06-04T21:59:06.5650064+00:00",
-  "LastUpdate_Achievements": "2023-06-04T22:03:20.0086003+00:00"
+  "LastUpdate_Ratings": "2023-06-04T22:59:20.015706+00:00",
+  "LastUpdate_Achievements": "2023-06-04T23:03:37.8094203+00:00"
 }

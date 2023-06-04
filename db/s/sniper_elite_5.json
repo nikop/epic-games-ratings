@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2255,
+  "EOS_Progressed": 2257,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2510,6 +2510,11 @@
       "Time": "2023-06-04T22:06:16.0718484+00:00",
       "NumProgressed": 2255,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-04T23:06:31.8616129+00:00",
+      "NumProgressed": 2257,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2601,7 +2606,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2769,7 +2774,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2913,7 +2918,7 @@
       "Name": "Target America",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3088,13 +3093,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2206,
+      "Progressed": 2208,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2255,
+      "Progressed": 2257,
       "Completed": 2
     }
   ],
@@ -3102,8 +3107,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-04T22:06:16.0718476+00:00",
+  "LastChanged_Achievements": "2023-06-04T23:06:31.8616121+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T22:01:03.926152+00:00",
-  "LastUpdate_Achievements": "2023-06-04T22:06:16.0719298+00:00"
+  "LastUpdate_Ratings": "2023-06-04T23:01:02.7671228+00:00",
+  "LastUpdate_Achievements": "2023-06-04T23:06:31.8616879+00:00"
 }

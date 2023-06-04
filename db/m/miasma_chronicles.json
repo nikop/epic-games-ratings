@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 1019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1404,9 +1404,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 387
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1452,9 +1452,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 357
     },
     {
       "ID": "EXPERIENCED",
@@ -1709,8 +1709,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-04T14:58:28.7773787+00:00",
-  "LastChanged_Achievements": "2023-06-04T22:02:14.9354754+00:00",
+  "LastChanged_Achievements": "2023-06-04T23:02:24.0113237+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-04T21:58:25.3103093+00:00",
-  "LastUpdate_Achievements": "2023-06-04T22:02:14.9355322+00:00"
+  "LastUpdate_Ratings": "2023-06-04T22:58:39.3644663+00:00",
+  "LastUpdate_Achievements": "2023-06-04T23:02:24.0113721+00:00"
 }

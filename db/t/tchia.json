@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6308,
+  "EOS_Progressed": 6310,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2973,6 +2973,11 @@
       "Time": "2023-06-04T22:05:50.5553139+00:00",
       "NumProgressed": 6308,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-04T23:06:16.4861496+00:00",
+      "NumProgressed": 6310,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -3024,7 +3029,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ENERGY_SAVER",
@@ -3032,7 +3037,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -3072,7 +3077,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ICONOCLAST",
@@ -3080,7 +3085,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "IN_A_PINCH",
@@ -3112,7 +3117,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "SNIP_SNIP",
@@ -3128,7 +3133,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -3151,7 +3156,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6308,
+      "Progressed": 6310,
       "Completed": 23
     }
   ],
@@ -3159,8 +3164,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-04T22:05:50.5553135+00:00",
+  "LastChanged_Achievements": "2023-06-04T23:06:16.4861491+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-04T21:58:03.1715912+00:00",
-  "LastUpdate_Achievements": "2023-06-04T22:05:50.5553446+00:00"
+  "LastUpdate_Ratings": "2023-06-04T22:58:17.5026883+00:00",
+  "LastUpdate_Achievements": "2023-06-04T23:06:16.4861812+00:00"
 }

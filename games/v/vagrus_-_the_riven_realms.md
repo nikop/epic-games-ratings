@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 52.00% | ~46 |
+| A Second Chance | 53.00% | ~47 |
 | Press-ganged | 39.00% | ~35 |
 | The Package | 21.00% | ~19 |
 | Randomized | 10.00% | ~9 |
@@ -19,6 +19,7 @@
 | Scholar | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
 | Harbinger | 1.00% | ~1 |
+| Tail-wind | 1.00% | ~1 |
 | Taskmaster | 1.00% | ~1 |
 | Pilgrimage's End | 1.00% | ~1 |
 | Liberator | 0.00% | ~0 |
@@ -71,7 +72,6 @@
 | Loader | 0.00% | ~0 |
 | Mercenary | 0.00% | ~0 |
 | Mercenary Lord | 0.00% | ~0 |
-| Tail-wind | 0.00% | ~0 |
 | Moving At Odd Angles | 0.00% | ~0 |
 | A Terrible Will | 0.00% | ~0 |
 | Handymen | 0.00% | ~0 |

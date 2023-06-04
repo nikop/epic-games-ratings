@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 94.00% | ~565 |
-| Rail Rat | 78.00% | ~469 |
-| The Mysterious Stranger | 76.00% | ~457 |
+| Time Heals All Wounds | 94.00% | ~566 |
+| Rail Rat | 78.00% | ~470 |
+| The Mysterious Stranger | 76.00% | ~458 |
 | Immaculate Aim | 65.00% | ~391 |
 | The Brass Boss | 57.00% | ~343 |
 | Honest Mistake | 56.00% | ~337 |
@@ -14,21 +14,21 @@
 | Time Flies | 53.00% | ~319 |
 | The Harder They Fall | 52.00% | ~313 |
 | The Prince in Heels | 52.00% | ~313 |
-| Right On Time | 50.00% | ~300 |
-| Fast Learner | 50.00% | ~300 |
-| Immaculate Aim | 49.00% | ~294 |
-| Make Up For Lost Time | 48.00% | ~288 |
-| Breaking Down Barriers | 45.00% | ~270 |
-| The Steel Shadow | 40.00% | ~240 |
-| Golem Chaser | 39.00% | ~234 |
-| Like Clockwork | 37.00% | ~222 |
-| The Wicked Twins | 37.00% | ~222 |
-| The Betrayer | 36.00% | ~216 |
-| Check Your Pulse | 33.00% | ~198 |
-| Street Style | 30.00% | ~180 |
-| Family Memories | 30.00% | ~180 |
-| The Loose Cannon | 30.00% | ~180 |
-| Good Neighbor | 30.00% | ~180 |
+| Right On Time | 50.00% | ~301 |
+| Fast Learner | 50.00% | ~301 |
+| Immaculate Aim | 49.00% | ~295 |
+| Make Up For Lost Time | 48.00% | ~289 |
+| Breaking Down Barriers | 45.00% | ~271 |
+| The Steel Shadow | 41.00% | ~247 |
+| Golem Chaser | 39.00% | ~235 |
+| Like Clockwork | 37.00% | ~223 |
+| The Wicked Twins | 37.00% | ~223 |
+| The Betrayer | 36.00% | ~217 |
+| Check Your Pulse | 33.00% | ~199 |
+| Family Memories | 31.00% | ~187 |
+| Street Style | 30.00% | ~181 |
+| The Loose Cannon | 30.00% | ~181 |
+| Good Neighbor | 30.00% | ~181 |
 | The Family Fortune | 25.00% | ~150 |
 | The Man Who Shattered Time | 24.00% | ~144 |
 | Whiz Kid | 23.00% | ~138 |
@@ -58,7 +58,7 @@
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 601 (Ranked 195)  
+Progressed: 602 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 565 | 0 |
 | 2023-06-02 | 578 | 0 |
 | 2023-06-03 | 586 | 0 |
-| 2023-06-04 | 601 | 0 |
+| 2023-06-04 | 602 | 0 |

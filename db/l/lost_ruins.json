@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -356,6 +356,11 @@
       "Time": "2023-06-04T22:06:29.3735867+00:00",
       "NumProgressed": 349,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T23:06:45.6425668+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -407,7 +412,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Cryomancer",
@@ -431,7 +436,7 @@
       "Name": "Ghost Buster",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Gladiator",
@@ -479,15 +484,15 @@
       "Name": "Iconoclasm",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 130
     },
     {
       "ID": "Librarian",
@@ -495,7 +500,7 @@
       "Name": "Librarian",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Lumberjack",
@@ -559,7 +564,7 @@
       "Name": "Pyromancer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Reincarnation",
@@ -583,7 +588,7 @@
       "Name": "Rune Master",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ShieldCrusher",
@@ -591,7 +596,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SlingOfDavid",
@@ -599,7 +604,7 @@
       "Name": "Sling of David",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SpellMaster",
@@ -623,7 +628,7 @@
       "Name": "The End",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "TheFallen",
@@ -631,7 +636,7 @@
       "Name": "The Fallen",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "TheTrio",
@@ -639,7 +644,7 @@
       "Name": "Trio",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "TrapMaster",
@@ -647,7 +652,7 @@
       "Name": "Trap Master",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "TreasureHunter",
@@ -655,7 +660,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Troubleshooter",
@@ -679,14 +684,14 @@
       "Name": "Witch",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 0
     }
   ],
@@ -694,8 +699,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-04T22:06:29.3735862+00:00",
+  "LastChanged_Achievements": "2023-06-04T23:06:45.6425664+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:56.1759151+00:00",
-  "LastUpdate_Ratings": "2023-06-04T21:59:53.4374957+00:00",
-  "LastUpdate_Achievements": "2023-06-04T22:06:29.3736186+00:00"
+  "LastUpdate_Ratings": "2023-06-04T23:00:00.2819425+00:00",
+  "LastUpdate_Achievements": "2023-06-04T23:06:45.6425995+00:00"
 }

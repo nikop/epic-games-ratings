@@ -15,7 +15,7 @@ Number of Ratings: 98  (23.09.2022)
 | Agent 47 | 19.00% | ~187 |
 | You're Gonna Go Far, Kid | 19.00% | ~187 |
 | Bomberman | 19.00% | ~187 |
-| Death to the Oppressor! | 13.00% | ~128 |
+| Death to the Oppressor! | 14.00% | ~137 |
 | The Gang's All Here | 11.00% | ~108 |
 | Your Answer | 10.00% | ~98 |
 | The Big Bertha | 9.00% | ~88 |

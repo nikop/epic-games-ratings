@@ -7,7 +7,7 @@
 | Read Between The Lines | 61.00% | ~225 |
 | To Hell In A Handcart | 61.00% | ~225 |
 | High Profile | 52.00% | ~192 |
-| Whispers In The Dark | 51.00% | ~188 |
+| Whispers In The Dark | 52.00% | ~192 |
 | Fond Memories | 48.00% | ~177 |
 | A Method To His Madness | 47.00% | ~173 |
 | History Check | 46.00% | ~170 |
@@ -19,17 +19,17 @@
 | Knives Out | 41.00% | ~151 |
 | Land, Ho! | 41.00% | ~151 |
 | Back In The Saddle | 40.00% | ~148 |
-| No Man Is An Island | 39.00% | ~144 |
-| At Wits' End | 38.00% | ~140 |
+| No Man Is An Island | 40.00% | ~148 |
+| At Wits' End | 39.00% | ~144 |
 | Bookworm | 36.00% | ~133 |
+| Up In Flames | 36.00% | ~133 |
 | Fhtagn! | 36.00% | ~133 |
 | Going Once... | 35.00% | ~129 |
-| Up In Flames | 35.00% | ~129 |
 | Let Me Be Frank | 32.00% | ~118 |
 | Brain Food | 31.00% | ~114 |
 | No Stone Unturned | 31.00% | ~114 |
 | Curiosity Killed The Cat | 19.00% | ~70 |
-| Read It And Weep | 17.00% | ~63 |
+| Read It And Weep | 18.00% | ~66 |
 | Big Breakthrough | 15.00% | ~55 |
 | Reawakened | 6.00% | ~22 |
 ## Popularity (Based on EOS Achievements)

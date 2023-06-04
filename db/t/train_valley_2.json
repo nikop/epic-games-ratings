@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -581,9 +581,9 @@
       "ID": "AchievementEngineer",
       "SetID": "76o014g",
       "Name": "Engineer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "AchievementEnvironmentalActivist",
@@ -1043,8 +1043,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-06-04T22:03:11.5520933+00:00",
+  "LastChanged_Achievements": "2023-06-04T23:03:29.5413701+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:36.3247048+00:00",
-  "LastUpdate_Ratings": "2023-06-04T21:57:31.9181814+00:00",
-  "LastUpdate_Achievements": "2023-06-04T22:03:11.5521701+00:00"
+  "LastUpdate_Ratings": "2023-06-04T22:57:48.2042787+00:00",
+  "LastUpdate_Achievements": "2023-06-04T23:03:29.5414744+00:00"
 }
