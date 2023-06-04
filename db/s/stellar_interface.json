@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -274,9 +274,9 @@
       "ID": "BronzeTheHiveBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Pest Control",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CartdridgeHoarderAchievement",
@@ -378,9 +378,9 @@
       "ID": "ClearedAllLevels2TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Pilgrim",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ClearedAllLevels50TimesAchievement",
@@ -570,9 +570,9 @@
       "ID": "ErebusSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Defrosted",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FlamethrowerDiarrheaAchievement",
@@ -746,9 +746,9 @@
       "ID": "Killed10000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Wicked Sick",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Killed1000BossesAchievement",
@@ -786,9 +786,9 @@
       "ID": "Killed10BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper I",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Killed10EnemiesAchievement",
@@ -1233,8 +1233,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-04T03:29:03.8144277+00:00",
+  "LastChanged_Achievements": "2023-06-04T04:06:44.4509014+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:00.3946276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:21:51.2128758+00:00",
-  "LastUpdate_Achievements": "2023-06-04T03:29:03.8146215+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:58:51.8562962+00:00",
+  "LastUpdate_Achievements": "2023-06-04T04:06:44.4510955+00:00"
 }

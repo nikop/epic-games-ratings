@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 83.00% | ~34 |
-| Accessory Unlocked | 83.00% | ~34 |
-| Character Unlocked | 80.00% | ~33 |
-| Homer | 68.00% | ~28 |
-| Kickball Unlocked | 63.00% | ~26 |
-| Have a good trip! | 63.00% | ~26 |
-| First Win | 61.00% | ~25 |
-| Stay Hydrated | 59.00% | ~24 |
-| Settle Down | 56.00% | ~23 |
-| Butter Fingers | 46.00% | ~19 |
-| True Story! | 32.00% | ~13 |
-| Grand Slam! | 27.00% | ~11 |
-| Kick It | 27.00% | ~11 |
+| Hat Unlocked | 83.00% | ~35 |
+| Accessory Unlocked | 83.00% | ~35 |
+| Character Unlocked | 81.00% | ~34 |
+| Homer | 69.00% | ~29 |
+| Kickball Unlocked | 64.00% | ~27 |
+| Have a good trip! | 64.00% | ~27 |
+| First Win | 62.00% | ~26 |
+| Settle Down | 57.00% | ~24 |
+| Stay Hydrated | 57.00% | ~24 |
+| Butter Fingers | 45.00% | ~19 |
+| True Story! | 31.00% | ~13 |
+| Grand Slam! | 26.00% | ~11 |
+| Kick It | 26.00% | ~11 |
+| Bedroom Secret Spot | 24.00% | ~10 |
 | Have Mercy | 24.00% | ~10 |
-| Bedroom Secret Spot | 22.00% | ~9 |
-| Save some water for the fishies | 20.00% | ~8 |
-| Spooky | 20.00% | ~8 |
+| Save some water for the fishies | 19.00% | ~8 |
+| Spooky | 19.00% | ~8 |
 | Bathroom Secret Spot | 17.00% | ~7 |
 | Classroom Secret Spot | 10.00% | ~4 |
 | Living Room Secret Spot | 10.00% | ~4 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41 (Ranked 309)  
+Progressed: 42 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,4 +61,4 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 37 | 0 |
 | 2023-06-02 | 38 | 0 |
 | 2023-06-03 | 40 | 0 |
-| 2023-06-04 | 41 | 0 |
+| 2023-06-04 | 42 | 0 |

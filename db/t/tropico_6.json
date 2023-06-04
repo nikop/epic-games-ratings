@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 316,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 135,
@@ -882,9 +882,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3373,
+  "EOS_Progressed": 3374,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3582,6 +3582,11 @@
       "Time": "2023-06-04T03:24:05.7842179+00:00",
       "NumProgressed": 3373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T04:02:38.8493598+00:00",
+      "NumProgressed": 3374,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3649,7 +3654,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3697,7 +3702,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3713,7 +3718,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3753,7 +3758,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -3849,7 +3854,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3912,15 +3917,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3373,
+      "Progressed": 3374,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-03T21:00:10.0889241+00:00",
-  "LastChanged_Achievements": "2023-06-04T03:24:05.7842176+00:00",
+  "LastChanged_Achievements": "2023-06-04T04:02:38.8493593+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:23:01.8780434+00:00",
-  "LastUpdate_Achievements": "2023-06-04T03:24:05.7842613+00:00"
+  "LastUpdate_Ratings": "2023-06-04T04:00:32.9186984+00:00",
+  "LastUpdate_Achievements": "2023-06-04T04:02:38.8494043+00:00"
 }

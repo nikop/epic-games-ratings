@@ -1382,9 +1382,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63498,
+  "EOS_Progressed": 63503,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1053,
+  "EOS_NewPlayers": 1049,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4972,6 +4972,11 @@
       "Time": "2023-06-04T03:29:00.2585583+00:00",
       "NumProgressed": 63498,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-04T04:06:40.5507476+00:00",
+      "NumProgressed": 63503,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5055,7 +5060,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ALL_VILLAIN",
@@ -5063,7 +5068,7 @@
       "Name": "End of an Era",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "APPLY_STATUS",
@@ -5071,7 +5076,7 @@
       "Name": "In Your Element",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "CHALLENGES_1",
@@ -5127,7 +5132,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -5143,7 +5148,7 @@
       "Name": "Not On My Watch",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -5151,15 +5156,15 @@
       "Name": "Talonted",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "DEFEAT_FREAKS_1",
       "SetID": "4eo5ebm",
       "Name": "Bulldozed",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 572
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -5175,7 +5180,7 @@
       "Name": "The Man-Bat Family",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "DEFEAT_OC_1",
@@ -5183,7 +5188,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -5191,7 +5196,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -5199,7 +5204,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "FREEZE_1",
@@ -5255,7 +5260,7 @@
       "Name": "Batarang Collector",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "GOTHAM_COO_PAGES",
@@ -5263,7 +5268,7 @@
       "Name": "Read Owl About It",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "GOTHAM_HISTORICAL_PLATES",
@@ -5271,7 +5276,7 @@
       "Name": "History Major",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "GOTHAM_MURALS",
@@ -5279,7 +5284,7 @@
       "Name": "Claiming the Mural High Ground",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "HARLEY_1",
@@ -5343,7 +5348,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -5423,7 +5428,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "MYSTERY_08",
@@ -5431,7 +5436,7 @@
       "Name": "Gotham Knight",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "SECRET_CACHE",
@@ -5470,13 +5475,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63498,
+      "Progressed": 63503,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33778,
+      "Progressed": 33783,
       "Completed": 2644
     }
   ],
@@ -5484,8 +5489,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-04T03:22:41.9796942+00:00",
-  "LastChanged_Achievements": "2023-06-04T03:29:00.258558+00:00",
+  "LastChanged_Achievements": "2023-06-04T04:06:40.550747+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:22:41.9796948+00:00",
-  "LastUpdate_Achievements": "2023-06-04T03:29:00.2586363+00:00"
+  "LastUpdate_Ratings": "2023-06-04T04:00:04.6896837+00:00",
+  "LastUpdate_Achievements": "2023-06-04T04:06:40.550824+00:00"
 }

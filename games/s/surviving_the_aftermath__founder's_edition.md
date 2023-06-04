@@ -6,7 +6,7 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~4,266 |
+| First Step | 71.00% | ~4,327 |
 | Leader | 61.00% | ~3,718 |
 | Explorer | 53.00% | ~3,230 |
 | Healer | 53.00% | ~3,230 |

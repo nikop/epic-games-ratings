@@ -4551,9 +4551,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 51981,
+  "EOS_Progressed": 51982,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 822,
+  "EOS_NewPlayers": 823,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8951,6 +8951,11 @@
       "Time": "2023-06-04T03:29:00.005786+00:00",
       "NumProgressed": 51981,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T04:06:40.2200108+00:00",
+      "NumProgressed": 51982,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -9042,7 +9047,7 @@
       "Name": "Duelist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     },
     {
       "ID": "Dynasty",
@@ -9050,7 +9055,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     },
     {
       "ID": "Entrepreneur",
@@ -9138,7 +9143,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     },
     {
       "ID": "Jack of All Trades",
@@ -9186,7 +9191,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15594
+      "UsersEstimate": 15595
     },
     {
       "ID": "Lawbringer",
@@ -9194,7 +9199,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 18193
+      "UsersEstimate": 18194
     },
     {
       "ID": "Lawmaker",
@@ -9362,22 +9367,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 51981,
+      "Progressed": 51982,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-04T03:22:39.6563582+00:00",
-  "LastChanged_Achievements": "2023-06-04T03:29:00.0057854+00:00",
+  "LastChanged_Achievements": "2023-06-04T04:06:40.2200103+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:06.5602034+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:22:39.6563589+00:00",
-  "LastUpdate_Achievements": "2023-06-04T03:29:00.0058517+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:59:59.9565795+00:00",
+  "LastUpdate_Achievements": "2023-06-04T04:06:40.2200768+00:00"
 }

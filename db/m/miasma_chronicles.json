@@ -54,7 +54,7 @@
   "Tags": [],
   "EOS_Progressed": 999,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1533,9 +1533,9 @@
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 200
     },
     {
       "ID": "RUTHLESS",
@@ -1638,8 +1638,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-03T13:58:34.6988445+00:00",
-  "LastChanged_Achievements": "2023-06-04T03:23:36.2019881+00:00",
+  "LastChanged_Achievements": "2023-06-04T04:01:20.6722929+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:21:25.2730444+00:00",
-  "LastUpdate_Achievements": "2023-06-04T03:23:36.2020418+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:58:21.8720671+00:00",
+  "LastUpdate_Achievements": "2023-06-04T04:01:20.6723487+00:00"
 }

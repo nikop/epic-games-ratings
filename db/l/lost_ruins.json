@@ -409,9 +409,9 @@
       "ID": "GhostBuster",
       "SetID": "82505mn",
       "Name": "Ghost Buster",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     },
     {
       "ID": "Gladiator",
@@ -674,8 +674,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-04T03:28:57.6330203+00:00",
+  "LastChanged_Achievements": "2023-06-04T04:06:37.4809819+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:56.1759151+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:22:31.5199836+00:00",
-  "LastUpdate_Achievements": "2023-06-04T03:28:57.6330527+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:59:49.8556134+00:00",
+  "LastUpdate_Achievements": "2023-06-04T04:06:37.481015+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 818,
+  "EOS_Progressed": 819,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1036,6 +1036,11 @@
       "Time": "2023-06-04T03:28:54.8421334+00:00",
       "NumProgressed": 818,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T04:06:34.025866+00:00",
+      "NumProgressed": 819,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -1125,9 +1130,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 573
     },
     {
       "ID": "A11",
@@ -1143,7 +1148,7 @@
       "Name": "Departure",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "A13",
@@ -1159,7 +1164,7 @@
       "Name": "A new Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "A15",
@@ -1207,7 +1212,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "A21",
@@ -1215,7 +1220,7 @@
       "Name": "Country Life",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "A22",
@@ -1319,7 +1324,7 @@
       "Name": "Producer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "A35",
@@ -1343,15 +1348,15 @@
       "Name": "All around the World",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 418
     },
     {
       "ID": "A39",
@@ -1367,7 +1372,7 @@
       "Name": "Mind the Gap",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "A41",
@@ -1391,7 +1396,7 @@
       "Name": "Mole",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "A44",
@@ -1415,7 +1420,7 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "A47",
@@ -1423,7 +1428,7 @@
       "Name": "Travel Company",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "A48",
@@ -1486,14 +1491,14 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 818,
+      "Progressed": 819,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-04T03:28:54.8421328+00:00",
+  "LastChanged_Achievements": "2023-06-04T04:06:34.0258655+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:21:12.1777242+00:00",
-  "LastUpdate_Achievements": "2023-06-04T03:28:54.8421849+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:58:06.2623224+00:00",
+  "LastUpdate_Achievements": "2023-06-04T04:06:34.0259213+00:00"
 }

@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 18.00% | ~2,107 |
 | Subjugator | 17.00% | ~1,990 |
 | Traders | 17.00% | ~1,990 |
+| Learn to Play 3 | 17.00% | ~1,990 |
 | Assyrian Paganism | 17.00% | ~1,990 |
 | Military Prestige | 17.00% | ~1,990 |
 | Kushite Cavalry | 17.00% | ~1,990 |
@@ -109,7 +110,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 16.00% | ~1,873 |
 | Strong Difficulty | 16.00% | ~1,873 |
 | Hunters | 16.00% | ~1,873 |
-| Learn to Play 3 | 16.00% | ~1,873 |
 | Gnosticism | 16.00% | ~1,873 |
 | Veneration | 16.00% | ~1,873 |
 | Capable | 15.00% | ~1,756 |

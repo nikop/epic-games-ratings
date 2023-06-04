@@ -33,8 +33,8 @@ Rating: 4.18 (Ranked 838)
 | Full Circle | 2.00% | ~288 |
 | Big Spender | 2.00% | ~47 |
 | I Do Belong Here | 1.00% | ~144 |
-| Parole Denied | 1.00% | ~23 |
-| Hoard Mode | 1.00% | ~23 |
+| Parole Denied | 1.00% | ~24 |
+| Hoard Mode | 1.00% | ~24 |
 | Recidivist | 0.70% | ~16 |
 | Lifer | 0.70% | ~16 |
 | Grim Reaper | 0.60% | ~87 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 838)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,423 (Ranked 103)  
+Progressed: 14,424 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 53 (0.37%) (Ranked 118)
 | 2023-06-01 | 14,254 | 53 |
 | 2023-06-02 | 14,323 | 53 |
 | 2023-06-03 | 14,412 | 53 |
-| 2023-06-04 | 14,423 | 53 |
+| 2023-06-04 | 14,424 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 287 (Ranked 328)  

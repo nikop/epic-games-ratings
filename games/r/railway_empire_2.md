@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~605 |
-| A new Journey | 73.00% | ~597 |
-| Departure | 72.00% | ~589 |
-| From X to Y | 71.00% | ~581 |
+| Country Bumpkin | 74.00% | ~606 |
+| A new Journey | 73.00% | ~598 |
+| Departure | 72.00% | ~590 |
+| From X to Y | 70.00% | ~573 |
 | Way of Iron | 70.00% | ~573 |
-| Mystery Tour | 67.00% | ~548 |
+| Mystery Tour | 67.00% | ~549 |
 | Brainstorm | 65.00% | ~532 |
 | We brake for nobody | 65.00% | ~532 |
-| Mind the Gap | 63.00% | ~515 |
-| Travel Company | 63.00% | ~515 |
-| All around the World | 61.00% | ~499 |
+| Mind the Gap | 63.00% | ~516 |
+| Travel Company | 63.00% | ~516 |
+| All around the World | 61.00% | ~500 |
 | Right through the middle | 54.00% | ~442 |
-| Poor Devil | 50.00% | ~409 |
+| Poor Devil | 51.00% | ~418 |
 | Facility Manager | 48.00% | ~393 |
-| Producer | 46.00% | ~376 |
+| Producer | 46.00% | ~377 |
 | Apprentice | 42.00% | ~344 |
 | Bridge Builder | 37.00% | ~303 |
 | Stoker | 34.00% | ~278 |
@@ -26,13 +26,13 @@
 | Full Steam ahead | 28.00% | ~229 |
 | Going once, going twice, sold | 28.00% | ~229 |
 | Bull and bear | 26.00% | ~213 |
-| Mole | 24.00% | ~196 |
+| Mole | 24.00% | ~197 |
 | Financial Shark | 22.00% | ~180 |
 | Seven at one stroke | 21.00% | ~172 |
 | All mine | 21.00% | ~172 |
 | Hostile Takeover | 20.00% | ~164 |
 | Socializer | 20.00% | ~164 |
-| Country Life | 19.00% | ~155 |
+| Country Life | 19.00% | ~156 |
 | General Manager | 18.00% | ~147 |
 | Trailblazer | 17.00% | ~139 |
 | Traffic Jam | 12.00% | ~98 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 818 (Ranked 182)  
+Progressed: 819 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 668 | 0 |
 | 2023-06-02 | 725 | 0 |
 | 2023-06-03 | 812 | 0 |
-| 2023-06-04 | 818 | 0 |
+| 2023-06-04 | 819 | 0 |

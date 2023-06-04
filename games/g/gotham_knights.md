@@ -27,23 +27,23 @@ Rating: 4.17 (Ranked 844)
 | Bad Apples in Every Orchard | 1.00% | ~635 |
 | From Inside Gotham's Walls | 1.00% | ~635 |
 | Voiceless | 1.00% | ~635 |
-| End of an Era | 0.90% | ~571 |
-| In Your Element | 0.90% | ~571 |
-| Not On My Watch | 0.90% | ~571 |
-| Shock Til They Drop | 0.90% | ~571 |
-| Seeking Asylum | 0.90% | ~571 |
-| Gotham Knight | 0.90% | ~571 |
-| Bulldozed | 0.80% | ~508 |
+| End of an Era | 0.90% | ~572 |
+| In Your Element | 0.90% | ~572 |
+| Not On My Watch | 0.90% | ~572 |
+| Bulldozed | 0.90% | ~572 |
+| Shock Til They Drop | 0.90% | ~572 |
+| Seeking Asylum | 0.90% | ~572 |
+| Gotham Knight | 0.90% | ~572 |
 | Gotham City Confidential | 0.80% | ~508 |
-| Drone You Out | 0.70% | ~444 |
+| Drone You Out | 0.70% | ~445 |
 | Out of Their League | 0.60% | ~381 |
 | Solid Alibi | 0.60% | ~381 |
-| Fusion Expert | 0.50% | ~317 |
-| Family Meeting | 0.50% | ~317 |
+| Fusion Expert | 0.50% | ~318 |
+| Family Meeting | 0.50% | ~318 |
 | Dressed to Impress | 0.40% | ~254 |
 | Expert Crime Fighter | 0.40% | ~254 |
 | A Worthy Successor | 0.40% | ~254 |
-| A Momentum Occasion | 0.30% | ~190 |
+| A Momentum Occasion | 0.30% | ~191 |
 | Hammer and Icicle | 0.20% | ~68 |
 | Renewable Enemy Source | 0.20% | ~68 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~68 |
@@ -54,20 +54,20 @@ Rating: 4.17 (Ranked 844)
 | The Cold, the Bad and the Ugly | 0.10% | ~34 |
 | Gotham's Greatest Depths | 0.10% | ~34 |
 | Showdown Sovereign | 0.10% | ~34 |
-| Practice Makes Perfect | 0.10% | ~63 |
+| Practice Makes Perfect | 0.10% | ~64 |
 | That's Showbiz, Clayby | 0.10% | ~34 |
-| Talonted | 0.10% | ~63 |
-| The Man-Bat Family | 0.10% | ~63 |
+| Talonted | 0.10% | ~64 |
+| The Man-Bat Family | 0.10% | ~64 |
 | Icebreaker | 0.10% | ~34 |
 | Don't Mecha Big Deal About It | 0.10% | ~34 |
-| Batarang Collector | 0.10% | ~63 |
-| Read Owl About It | 0.10% | ~63 |
-| History Major | 0.10% | ~63 |
-| Claiming the Mural High Ground | 0.10% | ~63 |
+| Batarang Collector | 0.10% | ~64 |
+| Read Owl About It | 0.10% | ~64 |
+| History Major | 0.10% | ~64 |
+| Claiming the Mural High Ground | 0.10% | ~64 |
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,498 (Ranked 71)  
+Progressed: 63,503 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 93 (0.15%) (Ranked 153)
 | 2023-06-01 | 63,155 | 93 |
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
-| 2023-06-04 | 63,498 | 93 |
+| 2023-06-04 | 63,503 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,291  (Ranked 98)  
 Sum: 3,792 (Ranked 137)  

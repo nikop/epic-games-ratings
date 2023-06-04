@@ -23,12 +23,12 @@
 | At Wits' End | 37.00% | ~133 |
 | Going Once... | 35.00% | ~126 |
 | Bookworm | 34.00% | ~122 |
+| Up In Flames | 34.00% | ~122 |
 | Fhtagn! | 34.00% | ~122 |
-| Up In Flames | 33.00% | ~118 |
 | Let Me Be Frank | 32.00% | ~115 |
 | Brain Food | 30.00% | ~108 |
 | No Stone Unturned | 30.00% | ~108 |
-| Curiosity Killed The Cat | 18.00% | ~65 |
+| Curiosity Killed The Cat | 19.00% | ~68 |
 | Read It And Weep | 18.00% | ~65 |
 | Big Breakthrough | 15.00% | ~54 |
 | Reawakened | 6.00% | ~22 |

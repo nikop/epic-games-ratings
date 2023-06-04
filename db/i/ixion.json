@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2408,
+  "EOS_Progressed": 2409,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2036,6 +2036,11 @@
       "Time": "2023-06-03T22:05:27.9561322+00:00",
       "NumProgressed": 2408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T04:06:21.5929885+00:00",
+      "NumProgressed": 2409,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2351,7 +2356,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_BASE_5",
@@ -2502,13 +2507,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 589,
+      "Progressed": 590,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2408,
+      "Progressed": 2409,
       "Completed": 0
     }
   ],
@@ -2516,8 +2521,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-03T09:58:13.4383447+00:00",
-  "LastChanged_Achievements": "2023-06-04T03:28:44.6841806+00:00",
+  "LastChanged_Achievements": "2023-06-04T04:06:21.5929881+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:41.734154+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:21:33.3778445+00:00",
-  "LastUpdate_Achievements": "2023-06-04T03:28:44.6842446+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:58:32.5399682+00:00",
+  "LastUpdate_Achievements": "2023-06-04T04:06:21.5930571+00:00"
 }

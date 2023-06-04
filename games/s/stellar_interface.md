@@ -20,18 +20,22 @@
 | Omicron Alpha | 10.00% | ~3 |
 | Pacifist | 10.00% | ~3 |
 | Collateral Damage I | 10.00% | ~3 |
+| Defrosted | 7.00% | ~2 |
 | Bronze Foundation | 3.00% | ~1 |
 | Sectoral Ensign | 3.00% | ~1 |
+| Bronze Pest Control | 3.00% | ~1 |
 | Cartridge Hoarder | 3.00% | ~1 |
 | Rambo III | 3.00% | ~1 |
 | Rambo II | 3.00% | ~1 |
 | Hitchhiker | 3.00% | ~1 |
+| Pilgrim | 3.00% | ~1 |
 | Diligent | 3.00% | ~1 |
 | Omicron Beta | 3.00% | ~1 |
 | Hoarder | 3.00% | ~1 |
-| Defrosted | 3.00% | ~1 |
 | Food Poisoning | 3.00% | ~1 |
 | Golden Prince of Ball-air | 3.00% | ~1 |
+| Wicked Sick | 3.00% | ~1 |
+| Usurper I | 3.00% | ~1 |
 | Unstoppable | 3.00% | ~1 |
 | 25Gb HDD | 3.00% | ~1 |
 | 50Gb HDD | 3.00% | ~1 |
@@ -51,7 +55,6 @@
 | Galactic Ensign | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
 | Bronze BBQ | 0.00% | ~0 |
-| Bronze Pest Control | 0.00% | ~0 |
 | Rambo VI | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |
 | Rambo IV | 0.00% | ~0 |
@@ -59,7 +62,6 @@
 | Rambo V | 0.00% | ~0 |
 | Space Odysseus | 0.00% | ~0 |
 | Argonaut | 0.00% | ~0 |
-| Pilgrim | 0.00% | ~0 |
 | Voyager 3 | 0.00% | ~0 |
 | Space Magellan | 0.00% | ~0 |
 | Pedal to the Metal | 0.00% | ~0 |
@@ -96,10 +98,8 @@
 | The Healer | 0.00% | ~0 |
 | Space Surfer | 0.00% | ~0 |
 | Godlike | 0.00% | ~0 |
-| Wicked Sick | 0.00% | ~0 |
 | Usurper VI | 0.00% | ~0 |
 | Usurper IV | 0.00% | ~0 |
-| Usurper I | 0.00% | ~0 |
 | Usurper II | 0.00% | ~0 |
 | Rampage | 0.00% | ~0 |
 | Usurper V | 0.00% | ~0 |

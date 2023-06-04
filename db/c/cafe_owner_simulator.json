@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 538,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1133,6 +1133,11 @@
       "Time": "2023-06-04T02:40:36.4806715+00:00",
       "NumProgressed": 537,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T04:06:13.7905965+00:00",
+      "NumProgressed": 538,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1152,15 +1157,15 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "CHIEF",
       "SetID": "64e5lgf",
       "Name": "CHIEF",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 91
     },
     {
       "ID": "CLEANER",
@@ -1168,7 +1173,7 @@
       "Name": "CLEANER",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "DEBTOR",
@@ -1208,7 +1213,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "INTRODUCTION",
@@ -1240,7 +1245,7 @@
       "Name": "THINGS ARE GOING WELL",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "YETTI",
@@ -1255,7 +1260,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 538,
       "Completed": 0
     }
   ],
@@ -1263,8 +1268,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-06-04T03:28:38.3770146+00:00",
+  "LastChanged_Achievements": "2023-06-04T04:06:13.7905959+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.052301+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:22:24.8055435+00:00",
-  "LastUpdate_Achievements": "2023-06-04T03:28:38.3770339+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:59:39.0531479+00:00",
+  "LastUpdate_Achievements": "2023-06-04T04:06:13.7906134+00:00"
 }

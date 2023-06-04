@@ -2,7 +2,7 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 397,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 148,
@@ -670,9 +670,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2234,
+  "EOS_Progressed": 2235,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1915,6 +1915,11 @@
       "Time": "2023-06-04T03:28:41.2754085+00:00",
       "NumProgressed": 2234,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T04:06:17.4218438+00:00",
+      "NumProgressed": 2235,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2078,7 +2083,7 @@
       "Name": "Keeping it classy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -2230,7 +2235,7 @@
       "Name": "The finer things in life",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -2302,22 +2307,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2234,
+      "Progressed": 2235,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-03T23:58:38.5908242+00:00",
-  "LastChanged_Achievements": "2023-06-04T03:28:41.275408+00:00",
+  "LastChanged_Achievements": "2023-06-04T04:06:17.421843+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:22:06.7259773+00:00",
-  "LastUpdate_Achievements": "2023-06-04T03:28:41.2754537+00:00"
+  "LastUpdate_Ratings": "2023-06-04T03:59:11.899059+00:00",
+  "LastUpdate_Achievements": "2023-06-04T04:06:17.421887+00:00"
 }

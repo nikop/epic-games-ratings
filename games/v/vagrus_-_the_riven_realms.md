@@ -19,6 +19,7 @@
 | Scholar | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
 | Harbinger | 1.00% | ~1 |
+| Taskmaster | 1.00% | ~1 |
 | Pilgrimage's End | 1.00% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
@@ -88,7 +89,6 @@
 | Rage Repressed | 0.00% | ~0 |
 | The Last Voyage | 0.00% | ~0 |
 | Life... Finds a Way | 0.00% | ~0 |
-| Taskmaster | 0.00% | ~0 |
 | Tax Evasion | 0.00% | ~0 |
 | Theory to Practice | 0.00% | ~0 |
 | Wyrmslayer | 0.00% | ~0 |
