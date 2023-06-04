@@ -150,7 +150,7 @@
 | 143 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 774 | 148 |
 | 143 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 605 | 167 |
 | 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,624 | 49 |
-| 143 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 32,346 | 14 |
+| 143 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 32,403 | 14 |
 | 143 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 493 |
 | 143 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 493 |
 | 143 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 760 | 150 |
@@ -259,7 +259,7 @@
 | 241 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 32 | 438 |
 | 241 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 86 | 345 |
 | 241 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 493 |
-| 260 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 648 | 162 |
+| 260 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 649 | 162 |
 | 260 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 493 |
 | 260 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 72 | 361 |
 | 260 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 493 |
@@ -295,7 +295,7 @@
 | 279 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 458 | 191 |
 | 279 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 493 |
 | 295 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 493 |
-| 295 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,613 | 66 |
+| 295 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,623 | 66 |
 | 295 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 166 | 280 |
 | 295 | [Deceive Inc.](games/d/deceive_inc..md) | 4.65 | 0 | 493 |
 | 295 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 324 | 219 |
@@ -592,7 +592,7 @@
 | 590 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 0 | 493 |
 | 590 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 493 |
 | 590 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 438 |
-| 590 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,459 | 80 |
+| 590 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,460 | 80 |
 | 590 | [Mars Horizon](games/m/mars_horizon.md) | 4.47 | 0 | 493 |
 | 590 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 493 |
 | 590 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 493 |
@@ -737,25 +737,25 @@
 | 731 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 53 | 384 |
 | 731 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.34 | 0 | 493 |
 | 731 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 493 |
+| 731 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.34 | 0 | 493 |
 | 731 | [Paladins](games/p/paladins.md) | 4.34 | 3,274 | 83 |
 | 731 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 493 |
 | 731 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,991 | 63 |
 | 731 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 242 | 243 |
 | 731 | [The Silent Age](games/t/the_silent_age.md) | 4.34 | 0 | 493 |
-| 743 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 493 |
-| 743 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 116 | 311 |
-| 743 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 493 |
-| 743 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 493 |
-| 743 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 482 |
-| 748 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 345 | 213 |
-| 748 | [Filament](games/f/filament.md) | 4.32 | 553 | 176 |
-| 748 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 73 | 360 |
-| 748 | [House Party](games/h/house_party.md) | 4.32 | 0 | 493 |
-| 748 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.32 | 0 | 493 |
-| 748 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.32 | 0 | 493 |
-| 748 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 451 |
-| 748 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 493 |
-| 748 | [Vampyr](games/v/vampyr.md) | 4.32 | 549 | 178 |
+| 744 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 493 |
+| 744 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 116 | 311 |
+| 744 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 493 |
+| 744 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 493 |
+| 744 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 482 |
+| 749 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 345 | 213 |
+| 749 | [Filament](games/f/filament.md) | 4.32 | 553 | 176 |
+| 749 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 73 | 360 |
+| 749 | [House Party](games/h/house_party.md) | 4.32 | 0 | 493 |
+| 749 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.32 | 0 | 493 |
+| 749 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 451 |
+| 749 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 493 |
+| 749 | [Vampyr](games/v/vampyr.md) | 4.32 | 549 | 178 |
 | 757 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 493 |
 | 757 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 493 |
 | 757 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 945 | 141 |
