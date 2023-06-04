@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 14.17,
+  "EOS_Completed_Percentage": 14.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1113,6 +1113,11 @@
       "Time": "2023-06-04T02:40:32.003113+00:00",
       "NumProgressed": 254,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-04T05:05:47.5551095+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 22,
@@ -1124,7 +1129,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "LEVEL_002",
@@ -1132,7 +1137,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "LEVEL_003",
@@ -1140,7 +1145,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "LEVEL_004",
@@ -1156,7 +1161,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "LEVEL_006",
@@ -1180,7 +1185,7 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "LEVEL_009",
@@ -1194,9 +1199,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "LEVEL_011",
@@ -1299,7 +1304,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 36
     }
   ],
@@ -1307,8 +1312,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-04T04:06:08.1894712+00:00",
+  "LastChanged_Achievements": "2023-06-04T05:05:47.5551089+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:58:05.0584594+00:00",
-  "LastUpdate_Achievements": "2023-06-04T04:06:08.1894925+00:00"
+  "LastUpdate_Ratings": "2023-06-04T04:58:22.3741426+00:00",
+  "LastUpdate_Achievements": "2023-06-04T05:05:47.555132+00:00"
 }

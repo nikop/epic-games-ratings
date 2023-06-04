@@ -6,18 +6,18 @@ Rating: 4.18 (Ranked 838)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 11.00% | ~1,587 |
-| The Outer Way | 10.00% | ~1,442 |
+| The Outer Way | 10.00% | ~1,443 |
 | Desperate Times | 9.00% | ~1,298 |
 | Paper Jams | 8.00% | ~1,154 |
 | Chew 'Em Up | 7.00% | ~1,010 |
 | Reforged | 7.00% | ~1,010 |
-| Giving Back | 6.00% | ~865 |
-| Workplace Hazard | 6.00% | ~865 |
-| If the SHU Fits... | 6.00% | ~865 |
+| Giving Back | 6.00% | ~866 |
+| Workplace Hazard | 6.00% | ~866 |
+| If the SHU Fits... | 6.00% | ~866 |
 | Get a Grip | 5.00% | ~721 |
+| Without A Paddle | 5.00% | ~721 |
 | Terminated | 4.00% | ~577 |
 | Float Like A Butterfly | 4.00% | ~577 |
-| Without A Paddle | 4.00% | ~577 |
 | Instigator | 4.00% | ~94 |
 | Big Game Hunter | 4.00% | ~94 |
 | You Need a Gun | 3.00% | ~433 |
@@ -26,11 +26,11 @@ Rating: 4.18 (Ranked 838)
 | In the Pipe, Five by Five | 3.00% | ~433 |
 | Crash Site | 3.00% | ~433 |
 | Power Up | 3.00% | ~433 |
-| Bear Trap | 3.00% | ~70 |
-| In Striking Distance | 2.00% | ~288 |
-| Mugshot | 2.00% | ~288 |
-| What Lies Beneath | 2.00% | ~288 |
-| Full Circle | 2.00% | ~288 |
+| Bear Trap | 3.00% | ~71 |
+| In Striking Distance | 2.00% | ~289 |
+| Mugshot | 2.00% | ~289 |
+| What Lies Beneath | 2.00% | ~289 |
+| Full Circle | 2.00% | ~289 |
 | Big Spender | 2.00% | ~47 |
 | I Do Belong Here | 1.00% | ~144 |
 | Parole Denied | 1.00% | ~24 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 838)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,424 (Ranked 103)  
+Progressed: 14,426 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 53 (0.37%) (Ranked 118)
 | 2023-06-01 | 14,254 | 53 |
 | 2023-06-02 | 14,323 | 53 |
 | 2023-06-03 | 14,412 | 53 |
-| 2023-06-04 | 14,424 | 53 |
+| 2023-06-04 | 14,426 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 287 (Ranked 328)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4551,9 +4551,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 51982,
+  "EOS_Progressed": 51986,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8956,6 +8956,11 @@
       "Time": "2023-06-04T04:06:40.2200108+00:00",
       "NumProgressed": 51982,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T05:06:13.7888377+00:00",
+      "NumProgressed": 51986,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -8967,7 +8972,7 @@
       "Name": "Against all odds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5198
+      "UsersEstimate": 5199
     },
     {
       "ID": "Apple of my eye",
@@ -8975,7 +8980,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7277
+      "UsersEstimate": 7278
     },
     {
       "ID": "Bannerlord",
@@ -8983,7 +8988,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 10396
+      "UsersEstimate": 10397
     },
     {
       "ID": "Best served cold",
@@ -9087,7 +9092,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "God of the Arena",
@@ -9127,7 +9132,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 10916
+      "UsersEstimate": 10917
     },
     {
       "ID": "I can do it",
@@ -9135,7 +9140,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7277
+      "UsersEstimate": 7278
     },
     {
       "ID": "I spit on your grave",
@@ -9159,7 +9164,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8317
+      "UsersEstimate": 8318
     },
     {
       "ID": "Kingslayer",
@@ -9191,7 +9196,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15595
+      "UsersEstimate": 15596
     },
     {
       "ID": "Lawbringer",
@@ -9199,7 +9204,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 18194
+      "UsersEstimate": 18195
     },
     {
       "ID": "Lawmaker",
@@ -9207,7 +9212,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10916
+      "UsersEstimate": 10917
     },
     {
       "ID": "Long live the Empire",
@@ -9311,7 +9316,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4678
+      "UsersEstimate": 4679
     },
     {
       "ID": "The king is pleased",
@@ -9319,7 +9324,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8317
+      "UsersEstimate": 8318
     },
     {
       "ID": "This Is Our Land",
@@ -9343,7 +9348,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10396
+      "UsersEstimate": 10397
     },
     {
       "ID": "Undercover",
@@ -9374,15 +9379,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 51982,
+      "Progressed": 51986,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-04T03:22:39.6563582+00:00",
-  "LastChanged_Achievements": "2023-06-04T04:06:40.2200103+00:00",
+  "LastChanged_Achievements": "2023-06-04T05:06:13.7888369+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:06.5602034+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:59:59.9565795+00:00",
-  "LastUpdate_Achievements": "2023-06-04T04:06:40.2200768+00:00"
+  "LastUpdate_Ratings": "2023-06-04T04:59:48.5106449+00:00",
+  "LastUpdate_Achievements": "2023-06-04T05:06:13.7889083+00:00"
 }

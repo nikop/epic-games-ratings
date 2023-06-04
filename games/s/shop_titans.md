@@ -6,27 +6,27 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~125,902 |
-| Titan's First Steps | 96.00% | ~124,604 |
-| Basic in Bulk | 91.00% | ~118,114 |
-| Tinkle of Coins | 87.00% | ~112,923 |
-| Disintermediation | 76.00% | ~98,645 |
-| Capitalism Ho! | 75.00% | ~97,347 |
-| It's Free Real Estate | 70.00% | ~90,857 |
-| Budding Merchant | 66.00% | ~85,665 |
-| Another Satisfied Customer | 61.00% | ~79,176 |
-| One Easy Payment | 60.00% | ~77,878 |
-| Own the Means of Production | 60.00% | ~77,878 |
-| Some Assembly Required | 58.00% | ~75,282 |
-| Pretty Penny | 57.00% | ~73,984 |
-| One-Armed Bandit | 50.00% | ~64,898 |
-| Through Repetition, Perfection | 46.00% | ~59,706 |
-| The Daily Grind | 45.00% | ~58,408 |
-| Bounty Hunters | 44.00% | ~57,110 |
-| Where it Hurts | 43.00% | ~55,812 |
-| Dungeon Imports | 42.00% | ~54,514 |
-| Flooding the Market | 41.00% | ~53,216 |
-| Demand for Supplies | 38.00% | ~49,322 |
+| Sponsored by Argon | 97.00% | ~125,904 |
+| Titan's First Steps | 96.00% | ~124,606 |
+| Basic in Bulk | 91.00% | ~118,116 |
+| Tinkle of Coins | 87.00% | ~112,924 |
+| Disintermediation | 76.00% | ~98,646 |
+| Capitalism Ho! | 75.00% | ~97,348 |
+| It's Free Real Estate | 70.00% | ~90,859 |
+| Budding Merchant | 66.00% | ~85,667 |
+| Another Satisfied Customer | 61.00% | ~79,177 |
+| One Easy Payment | 60.00% | ~77,879 |
+| Own the Means of Production | 60.00% | ~77,879 |
+| Some Assembly Required | 58.00% | ~75,283 |
+| Pretty Penny | 57.00% | ~73,985 |
+| One-Armed Bandit | 50.00% | ~64,899 |
+| Through Repetition, Perfection | 46.00% | ~59,707 |
+| The Daily Grind | 45.00% | ~58,409 |
+| Bounty Hunters | 44.00% | ~57,111 |
+| Where it Hurts | 43.00% | ~55,813 |
+| Dungeon Imports | 42.00% | ~54,515 |
+| Flooding the Market | 41.00% | ~53,217 |
+| Demand for Supplies | 38.00% | ~49,323 |
 | Gild-Gotten Goods | 37.00% | ~48,025 |
 | Did we pack lunch? | 35.00% | ~45,429 |
 | Arcane Industries | 34.00% | ~44,131 |
@@ -38,28 +38,28 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 27.00% | ~35,045 |
 | Efficient Floor Space | 27.00% | ~35,045 |
 | Vanity, Verily | 26.00% | ~33,747 |
-| Research & Development | 25.00% | ~32,449 |
-| Flawless Fusion | 24.00% | ~31,151 |
-| Power of Love | 23.00% | ~29,853 |
-| Natural 20 | 23.00% | ~29,853 |
-| Fated Encounters | 21.00% | ~27,257 |
-| Royal Ransom | 21.00% | ~27,257 |
-| Magical Harmony | 21.00% | ~27,257 |
-| Tax not Included | 20.00% | ~25,959 |
-| Trash to Treasure | 19.00% | ~24,661 |
-| For the Hoard! | 17.00% | ~22,065 |
-| Special Ingredient | 17.00% | ~22,065 |
-| A Notch Above the Rest | 15.00% | ~19,469 |
-| Scrapbooker | 15.00% | ~19,469 |
-| This Power Level...! | 15.00% | ~19,469 |
-| Expansion in Session | 15.00% | ~19,469 |
-| Seasoned Journeyman | 15.00% | ~19,469 |
-| Black Friday Special | 15.00% | ~19,469 |
-| Big Game Hunting | 14.00% | ~18,171 |
-| Locally Sourced | 14.00% | ~18,171 |
-| Flying off the Shelves | 14.00% | ~18,171 |
-| Laden with Loot | 14.00% | ~18,171 |
-| Fat Cat Tag Team | 13.00% | ~16,873 |
+| Research & Development | 25.00% | ~32,450 |
+| Flawless Fusion | 24.00% | ~31,152 |
+| Power of Love | 23.00% | ~29,854 |
+| Natural 20 | 23.00% | ~29,854 |
+| Fated Encounters | 21.00% | ~27,258 |
+| Royal Ransom | 21.00% | ~27,258 |
+| Magical Harmony | 21.00% | ~27,258 |
+| Tax not Included | 20.00% | ~25,960 |
+| Trash to Treasure | 19.00% | ~24,662 |
+| For the Hoard! | 17.00% | ~22,066 |
+| Special Ingredient | 17.00% | ~22,066 |
+| A Notch Above the Rest | 15.00% | ~19,470 |
+| Scrapbooker | 15.00% | ~19,470 |
+| This Power Level...! | 15.00% | ~19,470 |
+| Expansion in Session | 15.00% | ~19,470 |
+| Seasoned Journeyman | 15.00% | ~19,470 |
+| Black Friday Special | 15.00% | ~19,470 |
+| Big Game Hunting | 14.00% | ~18,172 |
+| Locally Sourced | 14.00% | ~18,172 |
+| Flying off the Shelves | 14.00% | ~18,172 |
+| Laden with Loot | 14.00% | ~18,172 |
+| Fat Cat Tag Team | 13.00% | ~16,874 |
 | Hidden Potential | 12.00% | ~15,576 |
 | Mammonite | 12.00% | ~15,576 |
 | Attrition Mission | 12.00% | ~15,576 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~649 |
 | Capitalist Camaraderie | 0.20% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,796 (Ranked 57)  
+Progressed: 129,798 (Ranked 57)  
 Completed: 93 (0.07%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 93 (0.07%) (Ranked 176)
 | 2023-06-01 | 129,630 | 90 |
 | 2023-06-02 | 129,706 | 93 |
 | 2023-06-03 | 129,780 | 94 |
-| 2023-06-04 | 129,796 | 93 |
+| 2023-06-04 | 129,798 | 93 |
 ## Awards
 Max (Great for Beginners): 4,606  (Ranked 67)  
 Sum: 26,696 (Ranked 44)  

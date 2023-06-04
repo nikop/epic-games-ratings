@@ -34,8 +34,8 @@
 | All Skilled Up! | 34.00% | ~323 |
 | It's Pointy! | 34.00% | ~323 |
 | Extinct Again! | 33.00% | ~314 |
-| Bird of Prey | 32.00% | ~304 |
-| Stardust | 32.00% | ~304 |
+| Bird of Prey | 33.00% | ~314 |
+| Stardust | 33.00% | ~314 |
 | Heartbreaker | 32.00% | ~304 |
 | Kidnapped! | 32.00% | ~304 |
 | Trick Question! | 31.00% | ~294 |
@@ -47,7 +47,7 @@
 | Spot of Tea? | 30.00% | ~285 |
 | Going Home | 30.00% | ~285 |
 | Extraordinary! | 29.00% | ~276 |
-| Mirror, Mirror | 27.00% | ~256 |
+| Mirror, Mirror | 28.00% | ~266 |
 | Flower Power | 24.00% | ~228 |
 | Shopping Spree! | 23.00% | ~218 |
 | Crowned | 21.00% | ~200 |

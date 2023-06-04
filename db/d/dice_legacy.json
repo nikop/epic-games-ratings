@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -820,9 +820,9 @@
       "ID": "GOLDMASTER",
       "SetID": "6ohhfoc",
       "Name": "Greedy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 33
     },
     {
       "ID": "PREVENTRIOT",
@@ -997,8 +997,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-06-04T04:06:15.9799206+00:00",
+  "LastChanged_Achievements": "2023-06-04T05:05:53.7082882+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:51.047236+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:57:43.9893891+00:00",
-  "LastUpdate_Achievements": "2023-06-04T04:06:15.9799595+00:00"
+  "LastUpdate_Ratings": "2023-06-04T04:58:02.5116731+00:00",
+  "LastUpdate_Achievements": "2023-06-04T05:05:53.7083282+00:00"
 }

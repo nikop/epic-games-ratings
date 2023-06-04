@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -5538,9 +5538,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 49579,
+  "EOS_Progressed": 49592,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4290,
+  "EOS_NewPlayers": 4288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10143,6 +10143,11 @@
       "Time": "2023-06-04T04:06:46.4350717+00:00",
       "NumProgressed": 49579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T05:06:19.3339895+00:00",
+      "NumProgressed": 49592,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -10298,7 +10303,7 @@
       "Name": "All belongs to Mother Russia",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "achievement_all_blue",
@@ -10594,7 +10599,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2975
+      "UsersEstimate": 2976
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -10674,7 +10679,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "achievement_colonial_management",
@@ -10770,7 +10775,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -10824,9 +10829,9 @@
       "ID": "achievement_down_under",
       "SetID": "67mdiil",
       "Name": "Down Under",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -10850,7 +10855,7 @@
       "Name": "Early-Modern Warfare",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "achievement_eat_your_greens",
@@ -10866,7 +10871,7 @@
       "Name": "Electable!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -10986,7 +10991,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "achievement_forever_golden",
@@ -11154,7 +11159,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "achievement_grand_coalition",
@@ -11178,7 +11183,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2975
+      "UsersEstimate": 2976
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -11370,7 +11375,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -12090,7 +12095,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -12154,7 +12159,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2975
+      "UsersEstimate": 2976
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -12434,7 +12439,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -12690,7 +12695,7 @@
       "Name": "Time Bandit",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "achievement_to_the_bone",
@@ -12746,7 +12751,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -12762,7 +12767,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "achievement_trustworthy",
@@ -12818,7 +12823,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4462
+      "UsersEstimate": 4463
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -12850,7 +12855,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -12985,21 +12990,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 49579,
+      "Progressed": 49592,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 49579,
+      "Progressed": 49592,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-06-03T21:57:15.3646068+00:00",
-  "LastChanged_Achievements": "2023-06-04T04:06:46.4350711+00:00",
+  "LastChanged_Achievements": "2023-06-04T05:06:19.3339887+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:21.9407188+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:57:13.3269093+00:00",
-  "LastUpdate_Achievements": "2023-06-04T04:06:46.4362187+00:00"
+  "LastUpdate_Ratings": "2023-06-04T04:57:40.8869117+00:00",
+  "LastUpdate_Achievements": "2023-06-04T05:06:19.3351711+00:00"
 }

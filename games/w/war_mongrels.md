@@ -21,13 +21,13 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter I | 32.00% | ~99 |
 | King of Knives | 32.00% | ~99 |
 | Consequences | 29.00% | ~90 |
-| Opportunities | 27.00% | ~84 |
+| Opportunities | 28.00% | ~87 |
 | The Horror | 26.00% | ~81 |
 | Collectibles of Chapter II | 24.00% | ~74 |
 | The Difference | 24.00% | ~74 |
 | Vengeance | 22.00% | ~68 |
+| It's Just an Accident | 20.00% | ~62 |
 | Broken Hopes | 19.00% | ~59 |
-| It's Just an Accident | 19.00% | ~59 |
 | Food Massacre | 19.00% | ~59 |
 | Bullseye! | 19.00% | ~59 |
 | Collectibles of Chapter III | 16.00% | ~50 |

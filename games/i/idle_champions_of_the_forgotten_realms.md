@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~269 |
 | Running of the Saurs | 0.30% | ~269 |
 | The Contagious Curse | 0.30% | ~269 |
+| An Even Worse Time in Avernus | 0.30% | ~168 |
 | Escort to Waterdeep | 0.30% | ~269 |
 | Waterdeep Detours | 0.30% | ~269 |
 | Underdeep Cartography | 0.30% | ~269 |
@@ -67,6 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.20% | ~112 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~112 |
 | The Sanctum of the Sword | 0.20% | ~112 |
+| Kas the Bloody Handed | 0.20% | ~112 |
 | Get Back In The Castle | 0.20% | ~112 |
 | Bully for Vecna | 0.20% | ~112 |
 | Who Lurks Below? | 0.20% | ~112 |
@@ -125,7 +127,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Look Out! | 0.20% | ~112 |
 | Bad Odds in Avernus | 0.20% | ~112 |
 | The Lost Hollyphant | 0.20% | ~112 |
-| An Even Worse Time in Avernus | 0.20% | ~112 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~112 |
 | Bel's Forge | 0.20% | ~112 |
 | The Giant's Bane Tavern | 0.20% | ~112 |
@@ -217,7 +218,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Avernus in a Handbasket | 0.10% | ~56 |
 | Weak Doesn't Mean Feeble | 0.10% | ~56 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~56 |
-| Kas the Bloody Handed | 0.10% | ~56 |
 | Kas the Destroyer | 0.10% | ~56 |
 | Clowning Around | 0.10% | ~56 |
 | A Whale of a Time | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,702 (Ranked 62)  
+Progressed: 89,709 (Ranked 62)  
 Completed: 1,913 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,7 +545,7 @@ Completed: 1,913 (2.13%) (Ranked 63)
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
-| 2023-06-04 | 89,702 | 1,913 |
+| 2023-06-04 | 89,709 | 1,913 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,027 (Ranked 37)  

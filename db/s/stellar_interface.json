@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -234,9 +234,9 @@
       "ID": "BronzeMissionsCompleted10Achievement",
       "SetID": "a8djcgh",
       "Name": "System Ensign",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BronzeMissionsCompleted20Achievement",
@@ -330,9 +330,9 @@
       "ID": "Cleared20LevelsInAtLeast20LongAGraph",
       "SetID": "a8djcgh",
       "Name": "Curious",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Cleared500LevelsAchievement",
@@ -530,9 +530,9 @@
       "ID": "ConsumableWithActiveCountOf10Achievement",
       "SetID": "a8djcgh",
       "Name": "Hoarder",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CorvetteSpacecraftUnlockAchievement",
@@ -722,9 +722,9 @@
       "ID": "KilgoreSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Space Surfer",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Killed0EnemiesInLevelAchievement",
@@ -946,9 +946,9 @@
       "ID": "PlayedFor5HoursAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Lieutenant",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PlayerHas10DronesAchievement",
@@ -994,9 +994,9 @@
       "ID": "SilverHoberMallowBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Foundation",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SilverHomunculusBossDefeatedAchievement",
@@ -1233,8 +1233,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-04T04:06:44.4509014+00:00",
+  "LastChanged_Achievements": "2023-06-04T05:06:17.3004761+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:00.3946276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:58:51.8562962+00:00",
-  "LastUpdate_Achievements": "2023-06-04T04:06:44.4510955+00:00"
+  "LastUpdate_Ratings": "2023-06-04T04:59:01.0157819+00:00",
+  "LastUpdate_Achievements": "2023-06-04T05:06:17.3006794+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 81,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -270,7 +270,7 @@
   ],
   "EOS_Progressed": 924,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -884,9 +884,9 @@
       "ID": "MissionEosReturn",
       "SetID": "a6c395p",
       "Name": "Set in Motion",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 360
     },
     {
       "ID": "MissionFirstRiftBoss",
@@ -1084,8 +1084,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-06-04T04:06:38.6808728+00:00",
+  "LastChanged_Achievements": "2023-06-04T05:06:12.4060921+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:26.7111078+00:00",
-  "LastUpdate_Ratings": "2023-06-04T04:00:23.425649+00:00",
-  "LastUpdate_Achievements": "2023-06-04T04:06:38.6809095+00:00"
+  "LastUpdate_Ratings": "2023-06-04T05:00:05.517369+00:00",
+  "LastUpdate_Achievements": "2023-06-04T05:06:12.4061271+00:00"
 }

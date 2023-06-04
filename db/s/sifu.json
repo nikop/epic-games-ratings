@@ -4410,9 +4410,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 707235,
+  "EOS_Progressed": 707247,
   "EOS_Completed": 12754,
-  "EOS_NewPlayers": 1381,
+  "EOS_NewPlayers": 1384,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8440,6 +8440,11 @@
       "Time": "2023-06-04T04:06:36.9318597+00:00",
       "NumProgressed": 707235,
       "NumCompleted": 12754
+    },
+    {
+      "Time": "2023-06-04T05:06:11.0343609+00:00",
+      "NumProgressed": 707247,
+      "NumCompleted": 12754
     }
   ],
   "TotalAchievements": 50,
@@ -8795,7 +8800,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8850,21 +8855,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16536,
+      "Progressed": 16548,
       "Completed": 10219
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707235,
+      "Progressed": 707247,
       "Completed": 12754
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-03T22:59:22.7674116+00:00",
-  "LastChanged_Achievements": "2023-06-04T04:06:36.9318589+00:00",
+  "LastChanged_Achievements": "2023-06-04T05:06:11.0343602+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:59:09.4320727+00:00",
-  "LastUpdate_Achievements": "2023-06-04T04:06:36.9319234+00:00"
+  "LastUpdate_Ratings": "2023-06-04T04:59:13.3893867+00:00",
+  "LastUpdate_Achievements": "2023-06-04T05:06:11.0344262+00:00"
 }

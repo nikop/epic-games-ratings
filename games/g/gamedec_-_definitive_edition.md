@@ -6,21 +6,21 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,329 |
-| Powergamer | 27.00% | ~62,031 |
-| Barely scratched the surface | 25.00% | ~57,436 |
-| Write that down | 24.00% | ~55,139 |
+| I will finish what you started | 28.00% | ~64,330 |
+| Powergamer | 27.00% | ~62,033 |
+| Barely scratched the surface | 25.00% | ~57,438 |
+| Write that down | 24.00% | ~55,140 |
 | Guns, lots of guns | 12.00% | ~27,570 |
 | Collector | 11.00% | ~25,272 |
 | Elementary! | 8.00% | ~18,380 |
 | Pumpkin Jack | 8.00% | ~18,380 |
 | Wake up! | 8.00% | ~18,380 |
-| It's honest work | 7.00% | ~16,082 |
-| Griever | 7.00% | ~16,082 |
+| It's honest work | 7.00% | ~16,083 |
+| Griever | 7.00% | ~16,083 |
 | Me smart | 6.00% | ~13,785 |
-| Good listener | 5.00% | ~11,487 |
-| Trash compactor | 5.00% | ~11,487 |
-| Valedictorian | 5.00% | ~11,487 |
+| Good listener | 5.00% | ~11,488 |
+| Trash compactor | 5.00% | ~11,488 |
+| Valedictorian | 5.00% | ~11,488 |
 | BOY! | 4.00% | ~9,190 |
 | Ka-ching! | 4.00% | ~9,190 |
 | I like to sniff around | 3.00% | ~6,892 |
@@ -34,13 +34,13 @@ Number of Ratings: 33  (23.09.2022)
 | Rinse and repeat | 2.00% | ~4,595 |
 | Mama, I'm a criminal | 2.00% | ~4,595 |
 | Never gonna give you up | 2.00% | ~4,595 |
-| A muscle to rely on | 1.00% | ~2,297 |
-| Catnip | 1.00% | ~2,297 |
-| I am in great pain, please help me | 1.00% | ~2,297 |
-| High noon | 1.00% | ~2,297 |
-| Random encounter | 1.00% | ~2,297 |
-| SysOp on duty | 1.00% | ~2,297 |
-| Take the blue pill | 1.00% | ~2,297 |
+| A muscle to rely on | 1.00% | ~2,298 |
+| Catnip | 1.00% | ~2,298 |
+| I am in great pain, please help me | 1.00% | ~2,298 |
+| High noon | 1.00% | ~2,298 |
+| Random encounter | 1.00% | ~2,298 |
+| SysOp on duty | 1.00% | ~2,298 |
+| Take the blue pill | 1.00% | ~2,298 |
 | A true blacksmith | 0.90% | ~2,068 |
 | The power of three | 0.90% | ~2,068 |
 | Let's try another | 0.80% | ~1,838 |
@@ -53,13 +53,13 @@ Number of Ratings: 33  (23.09.2022)
 | Un-bear-able | 0.40% | ~919 |
 | LET ME OUT! | 0.30% | ~689 |
 | Well-deserved reunion | 0.30% | ~689 |
-| Breaking the chains | 0.20% | ~459 |
-| Aren't you overthinking? | 0.20% | ~459 |
-| Take the red pill | 0.20% | ~459 |
-| This is the way | 0.20% | ~459 |
+| Breaking the chains | 0.20% | ~460 |
+| Aren't you overthinking? | 0.20% | ~460 |
+| Take the red pill | 0.20% | ~460 |
+| This is the way | 0.20% | ~460 |
 | Memory 5 | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,746 (Ranked 44)  
+Progressed: 229,750 (Ranked 44)  
 Completed: 5 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 5 (0.00%) (Ranked 211)
 | 2023-06-01 | 229,259 | 5 |
 | 2023-06-02 | 229,468 | 5 |
 | 2023-06-03 | 229,712 | 5 |
-| 2023-06-04 | 229,746 | 5 |
+| 2023-06-04 | 229,750 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 360)  
 Sum: 73 (Ranked 419)  

@@ -11,6 +11,7 @@ Rating: 4.27 (Ranked 782)
 | Hear me out | 5.00% | ~42 |
 | Full house | 4.00% | ~33 |
 | Burn and Pillage | 4.00% | ~33 |
+| Greedy | 4.00% | ~33 |
 | Hidden Secrets | 4.00% | ~33 |
 | Listening to the crowd | 4.00% | ~33 |
 | The Stranded King | 4.00% | ~33 |
@@ -18,7 +19,6 @@ Rating: 4.27 (Ranked 782)
 | Ascended | 3.00% | ~25 |
 | Incredible Strength | 3.00% | ~25 |
 | The Penitent Ones | 3.00% | ~25 |
-| Greedy | 3.00% | ~25 |
 | Prophecy Fulfilled | 3.00% | ~25 |
 | Just Chilling | 2.00% | ~17 |
 | The Greedy Ones | 2.00% | ~17 |

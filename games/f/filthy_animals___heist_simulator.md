@@ -8,7 +8,7 @@
 | Supermart Objectives Complete | 2.00% | ~137 |
 | Supermart Heisted | 2.00% | ~137 |
 | Sewer Objectives Complete | 1.00% | ~68 |
-| Bank Heisted | 0.40% | ~27 |
+| Bank Heisted | 0.50% | ~34 |
 | Crocodile Maxed Out | 0.20% | ~14 |
 | All Objectives Complete | 0.10% | ~7 |
 | All Gold Chest Slots Unlocked | 0.10% | ~7 |

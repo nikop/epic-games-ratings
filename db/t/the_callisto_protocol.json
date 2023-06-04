@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14424,
+  "EOS_Progressed": 14426,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2675,6 +2675,11 @@
       "Time": "2023-06-04T04:04:20.3773229+00:00",
       "NumProgressed": 14424,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-04T05:04:25.189203+00:00",
+      "NumProgressed": 14426,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2702,7 +2707,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2798,7 +2803,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "KILL_2HEAD",
@@ -2830,7 +2835,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2870,7 +2875,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -2878,7 +2883,7 @@
       "Name": "The Outer Way",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2886,15 +2891,15 @@
       "Name": "If the SHU Fits...",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 721
     },
     {
       "ID": "STORY_HANGAR",
@@ -2910,7 +2915,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -2934,7 +2939,7 @@
       "Name": "Full Circle",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "STORY_TUNNELS",
@@ -2974,7 +2979,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -3005,13 +3010,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14424,
+      "Progressed": 14426,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2350,
+      "Progressed": 2352,
       "Completed": 29
     }
   ],
@@ -3019,8 +3024,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-04T04:04:20.3773224+00:00",
+  "LastChanged_Achievements": "2023-06-04T05:04:25.1892022+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:57:53.3041889+00:00",
-  "LastUpdate_Achievements": "2023-06-04T04:04:20.3773667+00:00"
+  "LastUpdate_Ratings": "2023-06-04T04:58:10.1742469+00:00",
+  "LastUpdate_Achievements": "2023-06-04T05:04:25.1892517+00:00"
 }

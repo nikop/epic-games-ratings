@@ -20,27 +20,32 @@
 | Omicron Alpha | 10.00% | ~3 |
 | Pacifist | 10.00% | ~3 |
 | Collateral Damage I | 10.00% | ~3 |
+| Hoarder | 7.00% | ~2 |
 | Defrosted | 7.00% | ~2 |
 | Bronze Foundation | 3.00% | ~1 |
+| System Ensign | 3.00% | ~1 |
 | Sectoral Ensign | 3.00% | ~1 |
 | Bronze Pest Control | 3.00% | ~1 |
 | Cartridge Hoarder | 3.00% | ~1 |
 | Rambo III | 3.00% | ~1 |
+| Curious | 3.00% | ~1 |
 | Rambo II | 3.00% | ~1 |
 | Hitchhiker | 3.00% | ~1 |
 | Pilgrim | 3.00% | ~1 |
 | Diligent | 3.00% | ~1 |
 | Omicron Beta | 3.00% | ~1 |
-| Hoarder | 3.00% | ~1 |
 | Food Poisoning | 3.00% | ~1 |
 | Golden Prince of Ball-air | 3.00% | ~1 |
+| Space Surfer | 3.00% | ~1 |
 | Wicked Sick | 3.00% | ~1 |
 | Usurper I | 3.00% | ~1 |
 | Unstoppable | 3.00% | ~1 |
 | 25Gb HDD | 3.00% | ~1 |
 | 50Gb HDD | 3.00% | ~1 |
 | Galactic Cadet | 3.00% | ~1 |
+| Galactic Lieutenant | 3.00% | ~1 |
 | Silver Prince of Ball-air | 3.00% | ~1 |
+| Silver Foundation | 3.00% | ~1 |
 | Sectoral Captain | 3.00% | ~1 |
 | Collateral Damage II | 3.00% | ~1 |
 | Merchant Prince II | 3.00% | ~1 |
@@ -51,14 +56,12 @@
 | Archer's Bronze Fate | 0.00% | ~0 |
 | Bronze Alchemist | 0.00% | ~0 |
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |
-| System Ensign | 0.00% | ~0 |
 | Galactic Ensign | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
 | Bronze BBQ | 0.00% | ~0 |
 | Rambo VI | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |
 | Rambo IV | 0.00% | ~0 |
-| Curious | 0.00% | ~0 |
 | Rambo V | 0.00% | ~0 |
 | Space Odysseus | 0.00% | ~0 |
 | Argonaut | 0.00% | ~0 |
@@ -96,7 +99,6 @@
 | Golden Pest Control | 0.00% | ~0 |
 | Completionist | 0.00% | ~0 |
 | The Healer | 0.00% | ~0 |
-| Space Surfer | 0.00% | ~0 |
 | Godlike | 0.00% | ~0 |
 | Usurper VI | 0.00% | ~0 |
 | Usurper IV | 0.00% | ~0 |
@@ -110,12 +112,10 @@
 | Galactic Captain | 0.00% | ~0 |
 | Galactic Colonel | 0.00% | ~0 |
 | Galactic Major | 0.00% | ~0 |
-| Galactic Lieutenant | 0.00% | ~0 |
 | You've drone good! | 0.00% | ~0 |
 | Surrounded | 0.00% | ~0 |
 | Silver Tovarish | 0.00% | ~0 |
 | Archer's Silver Fate | 0.00% | ~0 |
-| Silver Foundation | 0.00% | ~0 |
 | Silver Alchemist | 0.00% | ~0 |
 | Magic Silver mirror; on the wall | 0.00% | ~0 |
 | System Captain | 0.00% | ~0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -670,7 +670,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2235,
+  "EOS_Progressed": 2236,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -1920,6 +1920,11 @@
       "Time": "2023-06-04T04:06:17.4218438+00:00",
       "NumProgressed": 2235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T05:05:54.9003355+00:00",
+      "NumProgressed": 2236,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2059,7 +2064,7 @@
       "Name": "Good vibes",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_HOARDER",
@@ -2314,15 +2319,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2235,
+      "Progressed": 2236,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-03T23:58:38.5908242+00:00",
-  "LastChanged_Achievements": "2023-06-04T04:06:17.421843+00:00",
+  "LastChanged_Achievements": "2023-06-04T05:05:54.9003348+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-04T03:59:11.899059+00:00",
-  "LastUpdate_Achievements": "2023-06-04T04:06:17.421887+00:00"
+  "LastUpdate_Ratings": "2023-06-04T04:59:14.7650399+00:00",
+  "LastUpdate_Achievements": "2023-06-04T05:05:54.9003811+00:00"
 }

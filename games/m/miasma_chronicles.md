@@ -13,10 +13,10 @@ Rating: 4.32 (Ranked 748)
 | Lumberjack | 42.00% | ~420 |
 | Croaked | 37.00% | ~370 |
 | Limp Richard | 36.00% | ~360 |
-| From Darkness to Light | 35.00% | ~350 |
+| From Darkness to Light | 36.00% | ~360 |
+| Exorcist | 34.00% | ~340 |
 | Firestarter | 34.00% | ~340 |
 | Editor Adept | 33.00% | ~330 |
-| Exorcist | 33.00% | ~330 |
 | Giant Killer | 29.00% | ~290 |
 | Sensei | 28.00% | ~280 |
 | The meaning of Kain | 27.00% | ~270 |
@@ -30,8 +30,8 @@ Rating: 4.32 (Ranked 748)
 | Infiltrator | 15.00% | ~150 |
 | There Can Be Only One! | 15.00% | ~150 |
 | Pushing Daisy | 14.00% | ~140 |
+| Experienced | 13.00% | ~130 |
 | Newtonian Knockout | 13.00% | ~130 |
-| Experienced | 12.00% | ~120 |
 | Endgame | 10.00% | ~100 |
 | Ruthless | 10.00% | ~100 |
 | Savior | 10.00% | ~100 |

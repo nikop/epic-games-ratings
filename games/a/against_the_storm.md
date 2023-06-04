@@ -31,10 +31,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 1.00% | ~152 |
 | Like a Machine | 1.00% | ~152 |
 | Trade Baron | 1.00% | ~152 |
-| Refinery | 0.90% | ~136 |
-| Against All Odds | 0.90% | ~136 |
-| Haunted Forest | 0.90% | ~136 |
-| Statue of the Forefathers | 0.90% | ~136 |
+| Refinery | 0.90% | ~137 |
+| Against All Odds | 0.90% | ~137 |
+| Haunted Forest | 0.90% | ~137 |
+| Statue of the Forefathers | 0.90% | ~137 |
 | Serving Ale | 0.80% | ~121 |
 | Forsaken Gods Temple | 0.80% | ~121 |
 | Ruined Armory | 0.70% | ~106 |
@@ -46,9 +46,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Prestigious Expedition | 0.40% | ~61 |
 | Blood Flower Farmer | 0.40% | ~61 |
 | Victory through Prosperity | 0.40% | ~61 |
-| Beaver Utopia | 0.30% | ~45 |
-| Human Utopia | 0.30% | ~45 |
-| Lizard Utopia | 0.30% | ~45 |
+| Beaver Utopia | 0.30% | ~46 |
+| Human Utopia | 0.30% | ~46 |
+| Lizard Utopia | 0.30% | ~46 |
 | Feeding The People | 0.20% | ~30 |
 | Harpy Utopia | 0.20% | ~30 |
 | The Queen's Chosen | 0.20% | ~30 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,166 (Ranked 100)  
+Progressed: 15,167 (Ranked 100)  
 Completed: 33 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 33 (0.22%) (Ranked 141)
 | 2023-06-01 | 15,121 | 33 |
 | 2023-06-02 | 15,142 | 33 |
 | 2023-06-03 | 15,161 | 33 |
-| 2023-06-04 | 15,166 | 33 |
+| 2023-06-04 | 15,167 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,036 (Ranked 152)  

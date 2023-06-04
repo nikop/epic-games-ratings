@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,462 |
-| That's a Grand Army | 8.00% | ~3,966 |
-| That is mine! | 8.00% | ~3,966 |
-| Victorious! | 8.00% | ~3,966 |
-| Brothers in Arms | 6.00% | ~2,975 |
-| That's a Grand Navy | 6.00% | ~2,975 |
-| Seriously?! | 6.00% | ~2,975 |
-| For the Glory | 5.00% | ~2,479 |
-| Cold War | 4.00% | ~1,983 |
-| True Catholic | 4.00% | ~1,983 |
-| Defender of the Faith | 3.00% | ~1,487 |
-| It's all about the money | 3.00% | ~1,487 |
-| Respected | 3.00% | ~1,487 |
-| Truly Divine Ruler | 3.00% | ~1,487 |
+| Until death do us apart | 9.00% | ~4,463 |
+| That's a Grand Army | 8.00% | ~3,967 |
+| That is mine! | 8.00% | ~3,967 |
+| Victorious! | 8.00% | ~3,967 |
+| Brothers in Arms | 6.00% | ~2,976 |
+| That's a Grand Navy | 6.00% | ~2,976 |
+| Seriously?! | 6.00% | ~2,976 |
+| For the Glory | 5.00% | ~2,480 |
+| Cold War | 4.00% | ~1,984 |
+| True Catholic | 4.00% | ~1,984 |
+| Defender of the Faith | 3.00% | ~1,488 |
+| It's all about the money | 3.00% | ~1,488 |
+| Respected | 3.00% | ~1,488 |
+| Truly Divine Ruler | 3.00% | ~1,488 |
 | Agressive Expander | 2.00% | ~992 |
 | Blockader | 2.00% | ~992 |
 | Combined Arms | 2.00% | ~992 |
@@ -39,15 +39,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~496 |
 | The Five Colonies | 0.90% | ~446 |
 | This navy can take it all | 0.90% | ~446 |
+| Down Under | 0.80% | ~397 |
 | The Emperors new clothes | 0.80% | ~397 |
 | Isn't this the way to India? | 0.80% | ~397 |
 | Market Control | 0.80% | ~397 |
-| Down Under | 0.70% | ~347 |
 | Trustworthy | 0.70% | ~347 |
-| All belongs to Mother Russia | 0.60% | ~297 |
-| Early-Modern Warfare | 0.60% | ~297 |
-| Electable! | 0.60% | ~297 |
-| Time Bandit | 0.60% | ~297 |
+| All belongs to Mother Russia | 0.60% | ~298 |
+| Early-Modern Warfare | 0.60% | ~298 |
+| Electable! | 0.60% | ~298 |
+| Time Bandit | 0.60% | ~298 |
 | At every continent | 0.50% | ~248 |
 | One Family to Rule them All | 0.50% | ~248 |
 | Populists in Government | 0.50% | ~248 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,579 (Ranked 78)  
+Progressed: 49,592 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 48,185 | 0 |
 | 2023-06-02 | 48,793 | 0 |
 | 2023-06-03 | 49,497 | 0 |
-| 2023-06-04 | 49,579 | 0 |
+| 2023-06-04 | 49,592 | 0 |
 ## Awards
 Max (Educational): 5,338  (Ranked 61)  
 Sum: 44,083 (Ranked 27)  
