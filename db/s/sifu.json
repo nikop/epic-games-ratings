@@ -4416,9 +4416,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 707281,
+  "EOS_Progressed": 707289,
   "EOS_Completed": 12755,
-  "EOS_NewPlayers": 1355,
+  "EOS_NewPlayers": 1351,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8471,6 +8471,11 @@
       "Time": "2023-06-04T09:07:02.3599004+00:00",
       "NumProgressed": 707281,
       "NumCompleted": 12755
+    },
+    {
+      "Time": "2023-06-04T10:06:03.6906345+00:00",
+      "NumProgressed": 707289,
+      "NumCompleted": 12755
     }
   ],
   "TotalAchievements": 50,
@@ -8818,7 +8823,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -8826,7 +8831,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -8850,7 +8855,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -8874,28 +8879,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16582,
-      "Completed": 10220
+      "Progressed": 16590,
+      "Completed": 10221
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707281,
+      "Progressed": 707289,
       "Completed": 12755
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-04T08:59:31.9360406+00:00",
-  "LastChanged_Achievements": "2023-06-04T09:07:02.3598999+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:06:03.6906339+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:59:31.9360416+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:07:02.3599509+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:59:10.1969663+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:06:03.6907017+00:00"
 }

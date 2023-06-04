@@ -4,7 +4,7 @@
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 2,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 50,
   "EosHistory": [
@@ -134,8 +134,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-06-04T09:03:26.7486865+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:03:25.3546146+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:27.5450613+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:59:39.0712963+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:03:26.7486937+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:59:14.7453736+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:03:25.3546231+00:00"
 }

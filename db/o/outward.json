@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2779,
+  "EOS_Progressed": 2780,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2104,6 +2104,11 @@
       "Time": "2023-06-04T09:01:57.5230913+00:00",
       "NumProgressed": 2779,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T10:00:55.9310552+00:00",
+      "NumProgressed": 2780,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2179,7 +2184,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2187,7 +2192,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ForAllAurai_8",
@@ -2331,7 +2336,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Tapped_22",
@@ -2371,7 +2376,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -2435,7 +2440,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2057
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2450,15 +2455,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2779,
+      "Progressed": 2780,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-04T09:01:57.5230908+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:00:55.9310548+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:58:01.684716+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:01:57.5231253+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:58:02.5332008+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:00:55.9310941+00:00"
 }

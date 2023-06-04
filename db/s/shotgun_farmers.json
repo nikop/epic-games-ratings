@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82,
+  "EOS_Progressed": 83,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -393,6 +393,11 @@
       "Time": "2023-06-04T00:04:27.6593399+00:00",
       "NumProgressed": 82,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T10:04:55.01051+00:00",
+      "NumProgressed": 83,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -458,9 +463,9 @@
       "ID": "ach_first_harvest",
       "SetID": "cmg602e",
       "Name": "Seeds of War",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -778,7 +783,7 @@
       "ID": "ach_hit_player_with_bounce_grenade",
       "SetID": "bf10c8p",
       "Name": "Bouncemato",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -786,7 +791,7 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -802,7 +807,7 @@
       "ID": "ach_perfect",
       "SetID": "bf10c8p",
       "Name": "Perfect",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -876,7 +881,7 @@
       "Name": "Amateur Survivor",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_waves_30",
@@ -890,7 +895,7 @@
       "ID": "ach_waves_40",
       "SetID": "bf10c8p",
       "Name": "Expert Survivor",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -924,7 +929,7 @@
       "Name": "No Diggity",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -962,7 +967,7 @@
       "ID": "ach_x_victims_using_lmg",
       "SetID": "bf10c8p",
       "Name": "Summers Here",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -980,13 +985,13 @@
       "Name": "Grave Digger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_y_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Quadsparagus",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 3
     }
@@ -995,13 +1000,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 82,
+      "Progressed": 83,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 2
     }
   ],
@@ -1009,8 +1014,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-04T09:05:28.9654349+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:04:55.0105096+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:32.4470818+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:58:42.4544971+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:05:28.9654951+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:58:35.2060984+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:04:55.0105886+00:00"
 }

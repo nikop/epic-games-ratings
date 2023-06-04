@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2695,
+  "EOS_Progressed": 2696,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2260,6 +2260,11 @@
       "Time": "2023-06-04T02:38:51.1782342+00:00",
       "NumProgressed": 2695,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-04T10:04:03.1057483+00:00",
+      "NumProgressed": 2696,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -2351,7 +2356,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 11,
       "XP": 85,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "2",
@@ -2423,7 +2428,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "6",
@@ -2431,7 +2436,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "7",
@@ -2462,13 +2467,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2695,
+      "Progressed": 2696,
       "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-04T09:04:18.0196091+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:04:03.1057478+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.6683071+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:59:27.4814563+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:04:18.0196334+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:59:06.7870209+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:04:03.105781+00:00"
 }

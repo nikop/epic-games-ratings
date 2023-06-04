@@ -15,16 +15,16 @@
 | Who loves trains? | 28.00% | ~72 |
 | Easy and steady climb | 28.00% | ~72 |
 | At the heart of the city | 24.00% | ~62 |
-| Calm neighborhood | 22.00% | ~57 |
-| Elevated ring | 22.00% | ~57 |
-| Not lonely anymore | 20.00% | ~51 |
-| Monumental tribute | 19.00% | ~49 |
+| Calm neighborhood | 23.00% | ~59 |
+| Elevated ring | 23.00% | ~59 |
+| Not lonely anymore | 21.00% | ~54 |
+| Monumental tribute | 20.00% | ~51 |
 | The beach is right there | 18.00% | ~46 |
 | Commuting | 18.00% | ~46 |
 | Le jardin magnifique | 17.00% | ~44 |
-| Aiming for a living and human city | 15.00% | ~39 |
+| Aiming for a living and human city | 16.00% | ~41 |
 | City of dreams | 15.00% | ~39 |
-| Happy Christmas night! | 14.00% | ~36 |
+| Happy Christmas night! | 15.00% | ~39 |
 | Night walk along the beach | 14.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 257 (Ranked 233)  

@@ -18,13 +18,13 @@
 | Bad Robots | 14.00% | ~20 |
 | Running Boots | 14.00% | ~20 |
 | Fashionista | 11.00% | ~15 |
+| Looper | 10.00% | ~14 |
 | Kaboom! | 9.00% | ~13 |
 | All Alone | 9.00% | ~13 |
+| Cataclysm | 9.00% | ~13 |
 | Archivist | 9.00% | ~13 |
-| Looper | 9.00% | ~13 |
 | Reunited | 9.00% | ~13 |
 | Transformers, cubes in disguise | 8.00% | ~11 |
-| Cataclysm | 8.00% | ~11 |
 | So Close | 7.00% | ~10 |
 | Final Charge | 6.00% | ~8 |
 | Summer Luvin' | 4.00% | ~6 |

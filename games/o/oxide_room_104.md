@@ -26,8 +26,8 @@
 | Take the long way round | 19.00% | ~5 |
 | One-way | 19.00% | ~5 |
 | Born again | 15.00% | ~4 |
+| He who seeks, finds! | 15.00% | ~4 |
 | 373 | 11.00% | ~3 |
-| He who seeks, finds! | 11.00% | ~3 |
 | The experiment | 7.00% | ~2 |
 | Matthew's revenge | 7.00% | ~2 |
 | Eva's diary | 4.00% | ~1 |

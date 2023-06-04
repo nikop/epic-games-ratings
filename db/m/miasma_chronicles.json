@@ -54,7 +54,7 @@
   "Tags": [],
   "EOS_Progressed": 1003,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1412,9 +1412,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 351
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1524,9 +1524,9 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 150
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -1604,9 +1604,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 231
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1653,8 +1653,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-03T13:58:34.6988445+00:00",
-  "LastChanged_Achievements": "2023-06-04T09:01:50.8301141+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:00:50.9745171+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:58:40.8398849+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:01:50.8301535+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:58:34.0831866+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:00:50.9745686+00:00"
 }

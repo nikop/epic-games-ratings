@@ -44,27 +44,27 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Lich | 1.00% | ~95 |
 | Capitulation Is Now Moot | 1.00% | ~95 |
 | Truly Important Deed | 1.00% | ~95 |
-| Abyssal Conspiracy | 0.90% | ~85 |
+| Abyssal Conspiracy | 0.90% | ~86 |
 | This Wall Won't Fall | 0.80% | ~66 |
 | Not the Last Sarkorian | 0.80% | ~66 |
-| The Final Threshold | 0.70% | ~66 |
-| Strategic Victory | 0.70% | ~66 |
-| End of Eternal Guard | 0.70% | ~66 |
+| The Final Threshold | 0.70% | ~67 |
+| Strategic Victory | 0.70% | ~67 |
+| End of Eternal Guard | 0.70% | ~67 |
 | Path of the Dragon | 0.60% | ~57 |
 | Path of the Legend | 0.60% | ~57 |
 | Playful Mood | 0.60% | ~57 |
-| Dreadful Dragon | 0.50% | ~47 |
-| Truly Profane Gift | 0.50% | ~47 |
+| Dreadful Dragon | 0.50% | ~48 |
+| Truly Profane Gift | 0.50% | ~48 |
 | Masterful Charge | 0.40% | ~38 |
-| Prelate's Nemesis | 0.30% | ~28 |
+| Prelate's Nemesis | 0.30% | ~29 |
 | Masterful Dispel | 0.20% | ~19 |
 | Just Pathetic | 0.20% | ~19 |
 | Ashes to Ashes | 0.20% | ~19 |
-| Path of the Swarm | 0.10% | ~9 |
-| Equal to Aroden | 0.10% | ~9 |
-| Spirit of Adventure | 0.10% | ~9 |
-| Test of the Starstone | 0.10% | ~9 |
-| Masterful Craftsmanship | 0.10% | ~9 |
+| Path of the Swarm | 0.10% | ~10 |
+| Equal to Aroden | 0.10% | ~10 |
+| Spirit of Adventure | 0.10% | ~10 |
+| Test of the Starstone | 0.10% | ~10 |
+| Masterful Craftsmanship | 0.10% | ~10 |
 | Blight of Drezen | 0.00% | ~0 |
 | Memories Frozen in Time | 0.00% | ~0 |
 | Death by Column | 0.00% | ~0 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,497 (Ranked 111)  
+Progressed: 9,501 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 9,419 | 0 |
 | 2023-06-02 | 9,452 | 0 |
 | 2023-06-03 | 9,484 | 0 |
-| 2023-06-04 | 9,497 | 0 |
+| 2023-06-04 | 9,501 | 0 |
 ## Awards
 Max (Character Customization): 1,651  (Ranked 111)  
 Sum: 6,693 (Ranked 110)  

@@ -4,7 +4,7 @@
   "ProductSlug": "nibiru-ce8efd",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-03-22T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.0782119+00:00",
   "LastChanged": "2023-03-31T05:57:23.078212+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:53.5674509+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:59:04.8507486+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:04:38.5047075+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:58:49.6225183+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:04:18.0692407+00:00"
 }

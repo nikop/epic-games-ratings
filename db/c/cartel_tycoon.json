@@ -280,7 +280,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 365,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -715,6 +715,11 @@
       "Time": "2023-06-03T20:06:13.0420507+00:00",
       "NumProgressed": 364,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T10:05:58.2924052+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -726,7 +731,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "cool-shirts",
@@ -742,7 +747,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "dont-miss-calls",
@@ -766,7 +771,7 @@
       "Name": "That was base",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "hire-lieutenant",
@@ -774,15 +779,15 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "kill-lieutenants",
       "SetID": "bed33dd",
       "Name": "Spreading Fear",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "pack-and-sell",
@@ -790,7 +795,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "play-at-night",
@@ -798,7 +803,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "product-profit",
@@ -806,7 +811,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "rage-quit",
@@ -814,7 +819,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "rename-lieutenant",
@@ -822,7 +827,7 @@
       "Name": "I\u0027m Going To Call You Kitty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "rob-village",
@@ -830,7 +835,7 @@
       "Name": "Bite the Blow",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "sell-variety",
@@ -844,9 +849,9 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 204
     },
     {
       "ID": "unlock-residences",
@@ -862,7 +867,7 @@
       "Name": "Take-Off",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "use-submarine",
@@ -877,15 +882,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 365,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-06-04T09:06:55.5909399+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:05:58.2924014+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:34.3322021+00:00",
-  "LastUpdate_Ratings": "2023-06-04T09:00:51.3445216+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:06:55.5909529+00:00"
+  "LastUpdate_Ratings": "2023-06-04T10:00:07.0503811+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:05:58.2924208+00:00"
 }

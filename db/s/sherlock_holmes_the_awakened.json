@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.14,
+  "EOS_Completed_Percentage": 4.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1019,6 +1019,11 @@
       "Time": "2023-06-04T06:04:32.3084063+00:00",
       "NumProgressed": 362,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-04T10:04:12.3525382+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 28,
@@ -1046,7 +1051,7 @@
       "Name": "High Profile",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "MQ02_2",
@@ -1060,17 +1065,17 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 189
     },
     {
       "ID": "MQ03_1",
@@ -1084,9 +1089,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 152
     },
     {
       "ID": "MQ03_3",
@@ -1110,7 +1115,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "MQ04_1",
@@ -1142,15 +1147,15 @@
       "Name": "Open Sesame",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 142
     },
     {
       "ID": "MQ05_3",
@@ -1158,7 +1163,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "MQ05_4",
@@ -1188,9 +1193,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 142
     },
     {
       "ID": "MQ06_4",
@@ -1220,9 +1225,9 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 105
     },
     {
       "ID": "MQ08_2",
@@ -1253,7 +1258,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 15
     }
   ],
@@ -1261,8 +1266,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-04T09:04:30.686791+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:04:12.3525376+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:57:26.3522459+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:04:30.6868105+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:57:36.6083466+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:04:12.3525651+00:00"
 }

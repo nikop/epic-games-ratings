@@ -6,33 +6,33 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 85.00% | ~785 |
-| Space Traveler | 80.00% | ~739 |
-| Voices from the Past | 79.00% | ~730 |
-| Demigod | 77.00% | ~711 |
-| The Great Destroyer | 76.00% | ~702 |
-| Shields Down | 73.00% | ~675 |
+| Another Life | 85.00% | ~786 |
+| Space Traveler | 80.00% | ~740 |
+| Voices from the Past | 79.00% | ~731 |
+| Demigod | 77.00% | ~712 |
+| The Great Destroyer | 76.00% | ~703 |
+| Shields Down | 74.00% | ~684 |
 | Safe Home | 69.00% | ~638 |
-| Helping Hand | 67.00% | ~619 |
-| Paragon | 64.00% | ~591 |
-| Old Days Born Anew | 63.00% | ~582 |
+| Helping Hand | 67.00% | ~620 |
+| Paragon | 64.00% | ~592 |
+| Old Days Born Anew | 63.00% | ~583 |
 | Full Arsenal | 58.00% | ~536 |
-| Controlled Demolition | 56.00% | ~517 |
-| Payback | 54.00% | ~499 |
+| Controlled Demolition | 56.00% | ~518 |
+| Payback | 54.00% | ~500 |
 | Born to Drift | 53.00% | ~490 |
 | Huntress | 53.00% | ~490 |
 | Relentless | 49.00% | ~453 |
-| The Path Forward | 46.00% | ~425 |
+| The Path Forward | 46.00% | ~426 |
 | Disruption | 44.00% | ~407 |
 | Phoenix | 44.00% | ~407 |
 | Cult Slayer | 41.00% | ~379 |
 | Origin | 40.00% | ~370 |
 | It Was An Accident | 40.00% | ~370 |
-| Set in Motion | 39.00% | ~360 |
+| Set in Motion | 38.00% | ~352 |
 | In the Eye of the Storm | 37.00% | ~342 |
 | The Crimson Void | 34.00% | ~314 |
 | The Nameless Dread | 34.00% | ~314 |
-| Time to Spear | 30.00% | ~277 |
+| Time to Spear | 30.00% | ~278 |
 | Mastery of Weapons | 29.00% | ~268 |
 | Disciple | 29.00% | ~268 |
 | Two Birds | 25.00% | ~231 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Overcharged | 9.00% | ~83 |
 | At Least You Tried | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 924 (Ranked 179)  
+Progressed: 925 (Ranked 179)  
 Completed: 11 (1.19%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 11 (1.19%) (Ranked 81)
 | 2023-06-01 | 912 | 11 |
 | 2023-06-02 | 921 | 11 |
 | 2023-06-03 | 924 | 11 |
+| 2023-06-04 | 925 | 11 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 438)  
 Sum: 32 (Ranked 462)  

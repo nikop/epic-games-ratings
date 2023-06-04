@@ -12,8 +12,8 @@
 | Honest Mistake | 56.00% | ~330 |
 | No, Thanks! | 55.00% | ~324 |
 | Time Flies | 53.00% | ~312 |
+| The Harder They Fall | 52.00% | ~306 |
 | The Prince in Heels | 52.00% | ~306 |
-| The Harder They Fall | 51.00% | ~300 |
 | Right On Time | 50.00% | ~294 |
 | Fast Learner | 50.00% | ~294 |
 | Immaculate Aim | 49.00% | ~289 |
@@ -29,15 +29,15 @@
 | Family Memories | 30.00% | ~177 |
 | The Loose Cannon | 30.00% | ~177 |
 | Good Neighbor | 30.00% | ~177 |
+| The Man Who Shattered Time | 25.00% | ~147 |
 | The Family Fortune | 25.00% | ~147 |
-| The Man Who Shattered Time | 24.00% | ~141 |
 | Whiz Kid | 23.00% | ~135 |
 | Sump Explorer | 22.00% | ~130 |
 | Ask Questions Later | 22.00% | ~130 |
 | Chaincrawler Explorer | 21.00% | ~124 |
+| Fairgrounds Explorer | 21.00% | ~124 |
 | Syron for Hope | 21.00% | ~124 |
 | Factorywood Explorer | 20.00% | ~118 |
-| Fairgrounds Explorer | 20.00% | ~118 |
 | Theater Explorer | 17.00% | ~100 |
 | Cultivair Explorer | 16.00% | ~94 |
 | Rungs Was Right | 14.00% | ~82 |
@@ -45,8 +45,8 @@
 | Sartorialist | 13.00% | ~77 |
 | Entresol Explorer | 13.00% | ~77 |
 | Clovemary for Remembering | 10.00% | ~59 |
-| Hexlock for Protection | 9.00% | ~53 |
-| Golem Hunter | 8.00% | ~47 |
+| Hexlock for Protection | 10.00% | ~59 |
+| Golem Hunter | 9.00% | ~53 |
 | Wunderkind | 4.00% | ~24 |
 | Fitting In | 4.00% | ~24 |
 | Thinking Two Steps Ahead | 3.00% | ~18 |

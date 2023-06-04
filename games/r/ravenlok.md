@@ -34,8 +34,8 @@
 | Spellbound | 34.00% | ~323 |
 | All Skilled Up! | 34.00% | ~323 |
 | Extinct Again! | 33.00% | ~314 |
-| Bird of Prey | 32.00% | ~304 |
-| Stardust | 32.00% | ~304 |
+| Bird of Prey | 33.00% | ~314 |
+| Stardust | 33.00% | ~314 |
 | Heartbreaker | 32.00% | ~304 |
 | Kidnapped! | 32.00% | ~304 |
 | Trick Question! | 31.00% | ~295 |

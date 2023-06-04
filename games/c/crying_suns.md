@@ -1,7 +1,7 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 543)  
+Rating: 4.50 (Ranked 544)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Void Mastery | 0.00% | ~0 |
 | Kaos Supremacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,798 (Ranked 33)  
+Progressed: 459,801 (Ranked 33)  
 Completed: 14 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 14 (0.00%) (Ranked 211)
 | 2023-06-01 | 459,598 | 14 |
 | 2023-06-02 | 459,674 | 14 |
 | 2023-06-03 | 459,773 | 14 |
-| 2023-06-04 | 459,798 | 14 |
+| 2023-06-04 | 459,801 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

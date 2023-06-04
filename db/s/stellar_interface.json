@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
+  "EOS_Progressed": 31,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -165,6 +165,11 @@
     {
       "Time": "2023-06-04T07:06:34.4292642+00:00",
       "NumProgressed": 30,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T10:06:10.1881127+00:00",
+      "NumProgressed": 31,
       "NumCompleted": 0
     }
   ],
@@ -311,7 +316,7 @@
       "ID": "Cleared10LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo I",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -535,7 +540,7 @@
       "ID": "ConsumableWithActiveCountOf10Achievement",
       "SetID": "a8djcgh",
       "Name": "Hoarder",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -543,7 +548,7 @@
       "ID": "CorvetteSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "The Vette",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -575,7 +580,7 @@
       "ID": "ErebusSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Defrosted",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -767,7 +772,7 @@
       "ID": "Killed1000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Mega Kill",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -783,9 +788,9 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Killed10BossesAchievement",
@@ -801,7 +806,7 @@
       "Name": "First Blood",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Killed20BossesAchievement",
@@ -839,7 +844,7 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -879,7 +884,7 @@
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -903,9 +908,9 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "PerksUnlocked80Achievement",
@@ -1159,9 +1164,9 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "VisitOverlord100TimeAchievement",
@@ -1232,14 +1237,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 30,
+      "Progressed": 31,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-04T09:07:10.2446135+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:06:10.1881122+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:00.3946276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:59:14.0972843+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:07:10.2447673+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:58:57.1701182+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:06:10.1883111+00:00"
 }

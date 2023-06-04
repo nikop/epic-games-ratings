@@ -2,7 +2,7 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 87,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -1149,6 +1149,11 @@
       "Time": "2023-06-04T07:02:13.4298772+00:00",
       "NumProgressed": 285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T10:03:12.1164221+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1238,7 +1243,7 @@
       "ID": "DilemasResponsibility10",
       "SetID": "d1bm05f",
       "Name": "Eco Warrior",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1246,7 +1251,7 @@
       "ID": "FirstArrabbiataPasta",
       "SetID": "d1bm05f",
       "Name": "Codename: Arrabbiata",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1286,9 +1291,9 @@
       "ID": "LayoutBig",
       "SetID": "d1bm05f",
       "Name": "The Bigger the Better",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Level10",
@@ -1318,17 +1323,17 @@
       "ID": "MenuGastronomic",
       "SetID": "d1bm05f",
       "Name": "Haute Cuisine",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "Money10000",
       "SetID": "d1bm05f",
       "Name": "Rolling in Dough",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "OpenRestaurant",
@@ -1336,15 +1341,15 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "PerfectGrade25",
@@ -1416,7 +1421,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "TrattoriaSet",
@@ -1479,7 +1484,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 0
     }
   ],
@@ -1487,8 +1492,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-04T09:02:17.0934706+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:03:12.1164216+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:38.5369331+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:58:49.8794292+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:02:17.0935232+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:58:39.569058+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:03:12.116455+00:00"
 }

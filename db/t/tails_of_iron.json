@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1580,
+  "EOS_Progressed": 1581,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2023-06-04T08:03:14.0149582+00:00",
       "NumProgressed": 1580,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-04T10:00:33.1001727+00:00",
+      "NumProgressed": 1581,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1177,7 +1182,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "Collect20Gold",
@@ -1185,7 +1190,7 @@
       "Name": "Collect Gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "Collect20Iron",
@@ -1241,7 +1246,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "CompleteElderFaction",
@@ -1249,7 +1254,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "CompleteGuardFaction",
@@ -1257,7 +1262,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1297,7 +1302,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -1321,7 +1326,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "GetTHWeapon",
@@ -1329,7 +1334,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "Kill25Bugs",
@@ -1345,7 +1350,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "Kill25Mozi",
@@ -1353,7 +1358,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "MeetTheMoles",
@@ -1361,7 +1366,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "MysteryKingsChamber",
@@ -1369,7 +1374,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "RepairChef",
@@ -1385,7 +1390,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "RepairThroneRoom",
@@ -1409,29 +1414,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1580,
+      "Progressed": 1581,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 221,
-      "Completed": 221
+      "Progressed": 222,
+      "Completed": 222
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-04T08:03:14.0149575+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:00:33.1001714+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:58:46.4376932+00:00",
-  "LastUpdate_Achievements": "2023-06-04T08:03:14.0150017+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:58:37.6584238+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:00:33.1002727+00:00"
 }

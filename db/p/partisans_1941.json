@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 978,
+  "EOS_Progressed": 979,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -895,6 +895,11 @@
       "Time": "2023-06-04T02:40:50.9256198+00:00",
       "NumProgressed": 978,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-04T10:05:58.7442095+00:00",
+      "NumProgressed": 979,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -986,7 +991,7 @@
       "Name": "E1M1",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "Everyone_is_here",
@@ -1034,7 +1039,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "High_noon",
@@ -1098,7 +1103,7 @@
       "Name": "Mosquito bite",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Scout",
@@ -1145,15 +1150,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 978,
+      "Progressed": 979,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-04T09:06:56.2027835+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:05:58.7442091+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
-  "LastUpdate_Ratings": "2023-06-04T08:59:48.1390172+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:06:56.2028026+00:00"
+  "LastUpdate_Ratings": "2023-06-04T09:59:20.8685284+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:05:58.7442351+00:00"
 }

@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 67.00% | ~191 |
-| You're the Expert! | 32.00% | ~91 |
+| The Big Day | 67.00% | ~192 |
+| You're the Expert! | 32.00% | ~92 |
 | Home Cook | 29.00% | ~83 |
 | So Clean You Can Eat Off the Floor | 20.00% | ~57 |
 | French Flair | 18.00% | ~51 |
 | S is for Scrumptious | 16.00% | ~46 |
-| Next Level Cuisine | 11.00% | ~31 |
+| Next Level Cuisine | 12.00% | ~34 |
+| Haute Cuisine | 8.00% | ~23 |
 | Italian Style | 8.00% | ~23 |
 | Sous-Chef | 7.00% | ~20 |
-| Haute Cuisine | 7.00% | ~20 |
 | Well-Stocked Kitchen | 5.00% | ~14 |
 | Culinary Arts | 4.00% | ~11 |
 | Perfectionist | 4.00% | ~11 |
-| Rolling in Dough | 4.00% | ~11 |
+| Rolling in Dough | 3.00% | ~9 |
 | Leaning Tower of Pizza | 3.00% | ~9 |
 | Chef, Yes Chef! | 0.70% | ~2 |
-| Eco Warrior | 0.40% | ~1 |
-| Codename: Arrabbiata | 0.40% | ~1 |
-| The Bigger the Better | 0.40% | ~1 |
+| The Bigger the Better | 0.70% | ~2 |
+| Eco Warrior | 0.30% | ~1 |
+| Codename: Arrabbiata | 0.30% | ~1 |
 | Teamwork | 0.00% | ~0 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 227)  
+Progressed: 286 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 271 | 0 |
 | 2023-06-02 | 278 | 0 |
 | 2023-06-03 | 283 | 0 |
-| 2023-06-04 | 285 | 0 |
+| 2023-06-04 | 286 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

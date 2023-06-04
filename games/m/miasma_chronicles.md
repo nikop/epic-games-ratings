@@ -14,13 +14,13 @@ Rating: 4.32 (Ranked 749)
 | Croaked | 37.00% | ~371 |
 | Limp Richard | 36.00% | ~361 |
 | From Darkness to Light | 36.00% | ~361 |
+| Firestarter | 35.00% | ~351 |
 | Exorcist | 34.00% | ~341 |
-| Firestarter | 34.00% | ~341 |
 | Editor Adept | 33.00% | ~331 |
 | Giant Killer | 29.00% | ~291 |
 | Sensei | 29.00% | ~291 |
 | The meaning of Kain | 27.00% | ~271 |
-| Technophobe | 22.00% | ~221 |
+| Technophobe | 23.00% | ~231 |
 | Recycler | 20.00% | ~201 |
 | Chain Killer | 17.00% | ~171 |
 | Are you not entertained? | 16.00% | ~160 |
@@ -28,8 +28,8 @@ Rating: 4.32 (Ranked 749)
 | Hold The Line | 16.00% | ~160 |
 | Ganglord | 15.00% | ~150 |
 | Infiltrator | 15.00% | ~150 |
+| Pushing Daisy | 15.00% | ~150 |
 | There Can Be Only One! | 15.00% | ~150 |
-| Pushing Daisy | 14.00% | ~140 |
 | Experienced | 13.00% | ~130 |
 | Newtonian Knockout | 13.00% | ~130 |
 | Endgame | 10.00% | ~100 |

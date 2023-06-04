@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2199,
+  "EOS_Progressed": 2206,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 525,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2445,6 +2445,11 @@
       "Time": "2023-06-04T09:06:47.7337557+00:00",
       "NumProgressed": 2199,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-04T10:05:51.97473+00:00",
+      "NumProgressed": 2206,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2520,7 +2525,7 @@
       "Name": "Organ Grinder",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2536,7 +2541,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 574
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2624,7 +2629,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2664,7 +2669,7 @@
       "Name": "Lord of War",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2680,7 +2685,7 @@
       "Name": "Resourceful",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2704,7 +2709,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2768,7 +2773,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2790,9 +2795,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2824,7 +2829,7 @@
       "Name": "Taking it back",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3023,13 +3028,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2150,
+      "Progressed": 2157,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2199,
+      "Progressed": 2206,
       "Completed": 2
     }
   ],
@@ -3037,8 +3042,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-04T09:06:47.7337552+00:00",
+  "LastChanged_Achievements": "2023-06-04T10:05:51.9747293+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T09:01:21.129006+00:00",
-  "LastUpdate_Achievements": "2023-06-04T09:06:47.7338234+00:00"
+  "LastUpdate_Ratings": "2023-06-04T10:00:28.5304876+00:00",
+  "LastUpdate_Achievements": "2023-06-04T10:05:51.9748102+00:00"
 }
