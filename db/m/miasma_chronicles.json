@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 749,
+  "Ranking_Rating": 748,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1007,
+  "EOS_Progressed": 1008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1232,6 +1232,11 @@
       "Time": "2023-06-04T11:02:40.9743129+00:00",
       "NumProgressed": 1007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T12:00:39.858146+00:00",
+      "NumProgressed": 1008,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1259,7 +1264,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1315,7 +1320,7 @@
       "Name": "Commando",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CROAKED",
@@ -1379,7 +1384,7 @@
       "Name": "Dr Jones",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -1387,7 +1392,7 @@
       "Name": "Editor Adept",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ENDGAME",
@@ -1403,7 +1408,7 @@
       "Name": "Exorcist",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "EXPERIENCED",
@@ -1419,15 +1424,15 @@
       "Name": "Firestarter",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 916
+      "UsersEstimate": 927
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1457,9 +1462,9 @@
       "ID": "GIANT_KILLER",
       "SetID": "9a4jnji",
       "Name": "Giant Killer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 302
     },
     {
       "ID": "GOAL",
@@ -1491,7 +1496,7 @@
       "Name": "I am the law!",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "INFILTRATOR",
@@ -1547,7 +1552,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "RECYCLER",
@@ -1555,7 +1560,7 @@
       "Name": "Recycler",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "RUTHLESS",
@@ -1650,7 +1655,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1007,
+      "Progressed": 1008,
       "Completed": 0
     }
   ],
@@ -1658,8 +1663,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-03T13:58:34.6988445+00:00",
-  "LastChanged_Achievements": "2023-06-04T11:02:40.9743119+00:00",
+  "LastChanged_Achievements": "2023-06-04T12:00:39.8581452+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-04T10:59:08.4962483+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:02:40.9743679+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:58:22.314671+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:00:39.8582626+00:00"
 }

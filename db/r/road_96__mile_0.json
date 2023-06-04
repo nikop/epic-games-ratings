@@ -2,10 +2,10 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 235,
+  "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -539,6 +539,11 @@
       "Time": "2023-06-04T11:04:27.3469117+00:00",
       "NumProgressed": 243,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-04T12:03:32.0177283+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -550,7 +555,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 52,
       "XP": 60,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "completeact2",
@@ -558,7 +563,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 43,
       "XP": 80,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "completeact3",
@@ -638,7 +643,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "scoreminrankrp3",
@@ -646,15 +651,15 @@
       "Name": "The Eye of the Storm",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "scoreminrankrv2",
@@ -669,7 +674,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 2
     }
   ],
@@ -677,8 +682,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-04T11:04:27.3469111+00:00",
+  "LastChanged_Achievements": "2023-06-04T12:03:32.0177276+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-04T10:59:48.5806425+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:04:27.3469276+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:58:48.5401086+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:03:32.0177433+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 209,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -751,6 +751,11 @@
       "Time": "2023-06-04T02:39:30.6309228+00:00",
       "NumProgressed": 208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T12:04:19.8876566+00:00",
+      "NumProgressed": 209,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -850,7 +855,7 @@
       "Name": "Recluse \u2714",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achMeat",
@@ -858,7 +863,7 @@
       "Name": "Scent of Meat \u2714",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achSaveses",
@@ -898,21 +903,21 @@
       "Name": "Witch \u2714",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 209,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-06-04T11:05:36.5380629+00:00",
+  "LastChanged_Achievements": "2023-06-04T12:04:19.8876559+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:10.50477+00:00",
-  "LastUpdate_Ratings": "2023-06-04T10:57:43.1964276+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:05:36.5380992+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:57:23.369264+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:04:19.8876738+00:00"
 }

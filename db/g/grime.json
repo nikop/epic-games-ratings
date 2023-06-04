@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -428,6 +428,11 @@
       "Time": "2023-06-04T02:35:59.2018246+00:00",
       "NumProgressed": 571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T12:00:20.6408842+00:00",
+      "NumProgressed": 572,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -503,7 +508,7 @@
       "Name": "Taste",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -685,9 +690,9 @@
       "ID": "MISC_MAXUPGRADE",
       "SetID": "ccc0dlh",
       "Name": "Breathsmith",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 17
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -774,21 +779,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 572,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-06-04T11:02:13.2771331+00:00",
+  "LastChanged_Achievements": "2023-06-04T12:00:20.6408836+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.4730882+00:00",
-  "LastUpdate_Ratings": "2023-06-04T11:01:56.9321084+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:02:13.2771832+00:00"
+  "LastUpdate_Ratings": "2023-06-04T12:00:09.6126544+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:00:20.6409242+00:00"
 }

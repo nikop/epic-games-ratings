@@ -25,10 +25,10 @@
 | People Mover | 21.00% | ~42 |
 | Leveled Up Shops | 21.00% | ~42 |
 | Get Electrified | 21.00% | ~42 |
+| Rehab Expert | 20.00% | ~40 |
 | Don't Feel a Loan | 20.00% | ~40 |
 | Emporium Empire | 20.00% | ~40 |
 | Artfully Done | 19.00% | ~38 |
-| Rehab Expert | 19.00% | ~38 |
 | Tasty Profits | 19.00% | ~38 |
 | Under One Roof | 17.00% | ~34 |
 | Cashflow Chief | 17.00% | ~34 |

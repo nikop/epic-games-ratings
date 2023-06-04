@@ -6,12 +6,12 @@ Rating: 4.57 (Ranked 441)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 14.00% | ~339 |
-| Sputnik 2049 | 12.00% | ~290 |
+| Sputnik 2049 | 12.00% | ~291 |
 | Without Breaking Some Eggs... | 11.00% | ~266 |
 | Infinite Growth... | 11.00% | ~266 |
-| Space Society | 7.00% | ~169 |
-| A Thousand Strong | 7.00% | ~169 |
-| Ready for a New World | 7.00% | ~169 |
+| Space Society | 7.00% | ~170 |
+| A Thousand Strong | 7.00% | ~170 |
+| Ready for a New World | 7.00% | ~170 |
 | Permanent Redesigns | 6.00% | ~145 |
 | Ain't Nobody Got Time for That | 6.00% | ~145 |
 | Guy de Borderlands | 5.00% | ~121 |
@@ -24,20 +24,20 @@ Rating: 4.57 (Ranked 441)
 | Necessary Enhancement | 3.00% | ~73 |
 | Please Make it Stop! | 3.00% | ~73 |
 | Man's Best Friend | 2.00% | ~48 |
+| Oats | 2.00% | ~48 |
 | Sightseeing | 2.00% | ~48 |
 | Power Outage | 2.00% | ~48 |
 | Access Granted | 2.00% | ~48 |
 | Convenient Transport | 2.00% | ~48 |
 | All in Good Health | 2.00% | ~48 |
 | From the Past | 2.00% | ~48 |
-| Oats | 1.00% | ~24 |
 | What They Hide From Us | 1.00% | ~24 |
 | ...  in a finite world | 1.00% | ~24 |
 | In Dolos We Trust | 1.00% | ~24 |
-| Delivery! | 1.00% | ~24 |
 | BRAWL! | 1.00% | ~24 |
 | What the Ruins Teach Us | 1.00% | ~24 |
 | Sustainable Energy | 0.90% | ~22 |
+| Delivery! | 0.90% | ~22 |
 | Pedal to the Metal | 0.80% | ~19 |
 | Pulsar Disciple | 0.80% | ~19 |
 | Mutual Loyalty | 0.70% | ~17 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,420 (Ranked 145)  
+Progressed: 2,422 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 2,350 | 0 |
 | 2023-06-02 | 2,386 | 0 |
 | 2023-06-03 | 2,408 | 0 |
-| 2023-06-04 | 2,420 | 0 |
+| 2023-06-04 | 2,422 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

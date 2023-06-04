@@ -6,7 +6,7 @@
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
@@ -3166,10 +3166,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 36091,
       "NumberOfAwardsMax": 19531
+    },
+    {
+      "Time": "2023-06-04T11:57:32.4996497+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 36096,
+      "NumberOfAwardsMax": 19531
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36091,
+  "NumberOfAwards": 36096,
   "NumberOfAwardsMax": 19531,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3201,7 +3207,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 806
+      "Count": 811
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3246,9 +3252,9 @@
       "Count": 495
     }
   ],
-  "EOS_Progressed": 276019,
+  "EOS_Progressed": 276024,
   "EOS_Completed": 384,
-  "EOS_NewPlayers": 2482,
+  "EOS_NewPlayers": 2467,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7786,6 +7792,11 @@
       "Time": "2023-06-04T11:05:39.7788656+00:00",
       "NumProgressed": 276019,
       "NumCompleted": 384
+    },
+    {
+      "Time": "2023-06-04T12:04:22.2230567+00:00",
+      "NumProgressed": 276024,
+      "NumCompleted": 384
     }
   ],
   "TotalAchievements": 45,
@@ -7805,7 +7816,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19321
+      "UsersEstimate": 19322
     },
     {
       "ID": "PFA_11",
@@ -7813,15 +7824,15 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 19321
+      "UsersEstimate": 19322
     },
     {
       "ID": "PFA_12",
       "SetID": "1hf4dep",
       "Name": "The Hallowed Hero",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16561
+      "UsersEstimate": 19322
     },
     {
       "ID": "PFA_13",
@@ -8125,7 +8136,7 @@
       "Name": "First Class Student",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19321
+      "UsersEstimate": 19322
     },
     {
       "ID": "PFA_7",
@@ -8133,7 +8144,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19321
+      "UsersEstimate": 19322
     },
     {
       "ID": "PFA_8",
@@ -8156,16 +8167,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 276019,
+      "Progressed": 276024,
       "Completed": 384
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-04T08:57:33.3224368+00:00",
-  "LastChanged_Achievements": "2023-06-04T11:05:39.7788653+00:00",
+  "LastChanged": "2023-06-04T11:57:32.4996495+00:00",
+  "LastChanged_Achievements": "2023-06-04T12:04:22.2230561+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:24.8723684+00:00",
-  "LastUpdate_Ratings": "2023-06-04T10:57:57.777073+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:05:39.778945+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:57:32.4996504+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:04:22.2231186+00:00"
 }

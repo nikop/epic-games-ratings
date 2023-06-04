@@ -382,9 +382,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 7659,
+  "EOS_Progressed": 7664,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3457,6 +3457,11 @@
       "Time": "2023-06-04T11:03:48.7636829+00:00",
       "NumProgressed": 7659,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-04T12:03:19.2333916+00:00",
+      "NumProgressed": 7664,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 34,
@@ -3484,7 +3489,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH04",
@@ -3492,7 +3497,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH05",
@@ -3572,7 +3577,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2989
     },
     {
       "ID": "ACH15",
@@ -3628,7 +3633,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3296
     },
     {
       "ID": "ACH22",
@@ -3636,7 +3641,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "ACH23",
@@ -3644,7 +3649,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "ACH24",
@@ -3660,7 +3665,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ACH26",
@@ -3676,7 +3681,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH28",
@@ -3739,7 +3744,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7659,
+      "Progressed": 7664,
       "Completed": 25
     }
   ],
@@ -3747,8 +3752,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-04T03:58:20.2916012+00:00",
-  "LastChanged_Achievements": "2023-06-04T11:03:48.7636824+00:00",
+  "LastChanged_Achievements": "2023-06-04T12:03:19.2333909+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.8139479+00:00",
-  "LastUpdate_Ratings": "2023-06-04T10:59:06.9592746+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:03:48.7637322+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:58:21.3054076+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:03:19.2334344+00:00"
 }

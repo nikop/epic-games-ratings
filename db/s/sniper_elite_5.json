@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2209,
+  "EOS_Progressed": 2215,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2455,6 +2455,11 @@
       "Time": "2023-06-04T11:07:21.4458367+00:00",
       "NumProgressed": 2209,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-04T12:05:32.7086361+00:00",
+      "NumProgressed": 2215,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2466,7 +2471,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -2490,7 +2495,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -2514,7 +2519,7 @@
       "Name": "Fields of Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -2528,9 +2533,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 177
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2546,7 +2551,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 576
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2594,7 +2599,7 @@
       "Name": "Skirmisher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -2618,7 +2623,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -2634,7 +2639,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2674,7 +2679,7 @@
       "Name": "Lord of War",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2682,7 +2687,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -2690,7 +2695,7 @@
       "Name": "Resourceful",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2698,7 +2703,7 @@
       "Name": "Der Geist",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -2714,7 +2719,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2722,7 +2727,7 @@
       "Name": "Close Quarters",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -2730,7 +2735,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -2770,7 +2775,7 @@
       "Name": "Tinkerer",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -2778,7 +2783,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2792,9 +2797,9 @@
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -2802,7 +2807,7 @@
       "Name": "Change the Channel",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2834,7 +2839,7 @@
       "Name": "Taking it back",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -2842,7 +2847,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2936,9 +2941,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -3033,13 +3038,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2160,
+      "Progressed": 2166,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2209,
+      "Progressed": 2215,
       "Completed": 2
     }
   ],
@@ -3047,8 +3052,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-04T11:07:21.4458364+00:00",
+  "LastChanged_Achievements": "2023-06-04T12:05:32.7086358+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T11:02:05.5894351+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:07:21.4460147+00:00"
+  "LastUpdate_Ratings": "2023-06-04T12:00:15.0359451+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:05:32.7087119+00:00"
 }

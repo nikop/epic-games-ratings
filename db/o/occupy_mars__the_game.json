@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1110,
+  "EOS_Progressed": 1111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1454,6 +1454,11 @@
       "Time": "2023-06-04T11:04:42.432343+00:00",
       "NumProgressed": 1110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T12:03:42.2011903+00:00",
+      "NumProgressed": 1111,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1641,7 +1646,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -1657,7 +1662,7 @@
       "Name": "Gardener",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -1713,7 +1718,7 @@
       "Name": "Miner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -1721,7 +1726,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -1848,7 +1853,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1110,
+      "Progressed": 1111,
       "Completed": 0
     }
   ],
@@ -1856,8 +1861,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-03T17:57:40.7372118+00:00",
-  "LastChanged_Achievements": "2023-06-04T11:04:42.4323424+00:00",
+  "LastChanged_Achievements": "2023-06-04T12:03:42.2011894+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-04T10:58:02.6323049+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:04:42.4323904+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:57:35.697742+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:03:42.2013017+00:00"
 }

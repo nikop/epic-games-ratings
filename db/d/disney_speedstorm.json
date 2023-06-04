@@ -3,9 +3,9 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -16,10 +16,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 2696,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 94,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.11,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -2265,6 +2265,11 @@
       "Time": "2023-06-04T10:04:03.1057483+00:00",
       "NumProgressed": 2696,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-04T12:03:41.0138603+00:00",
+      "NumProgressed": 2696,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -2338,9 +2343,9 @@
       "ID": "17",
       "SetID": "9p3jgda",
       "Name": "BE OUR GUEST",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 189
     },
     {
       "ID": "18",
@@ -2378,9 +2383,9 @@
       "ID": "21",
       "SetID": "9p3jgda",
       "Name": "ACE DEFENDER",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 216
+      "UsersEstimate": 243
     },
     {
       "ID": "22",
@@ -2468,12 +2473,12 @@
       "ID": "9p3jgda",
       "IsBase": true,
       "Progressed": 2696,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-04T11:04:40.7001117+00:00",
+  "LastChanged_Achievements": "2023-06-04T12:03:41.0138598+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.6683071+00:00",
-  "LastUpdate_Ratings": "2023-06-04T10:59:59.6351718+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:04:40.7001483+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:58:55.8963375+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:03:41.0138928+00:00"
 }

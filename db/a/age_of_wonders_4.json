@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4297,
+  "EOS_Progressed": 4298,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3020,6 +3020,11 @@
       "Time": "2023-06-04T11:05:27.1313333+00:00",
       "NumProgressed": 4297,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T12:04:13.0233496+00:00",
+      "NumProgressed": 4298,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3063,7 +3068,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "14",
@@ -3071,7 +3076,7 @@
       "Name": "Full Ascension",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "15",
@@ -3087,7 +3092,7 @@
       "Name": "God Emperor",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "17",
@@ -3103,7 +3108,7 @@
       "Name": "Arch Mage",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "19",
@@ -3143,7 +3148,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "23",
@@ -3159,7 +3164,7 @@
       "Name": "Secret Technique",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     },
     {
       "ID": "25",
@@ -3167,7 +3172,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3137
+      "UsersEstimate": 3138
     },
     {
       "ID": "26",
@@ -3175,7 +3180,7 @@
       "Name": "Bone Peddler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "27",
@@ -3191,7 +3196,7 @@
       "Name": "From Friends to Family",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 2922
+      "UsersEstimate": 2923
     },
     {
       "ID": "29",
@@ -3199,7 +3204,7 @@
       "Name": "Stronger Together",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "3",
@@ -3215,7 +3220,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "31",
@@ -3223,7 +3228,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "32",
@@ -3382,13 +3387,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4297,
-      "Completed": 4297
+      "Progressed": 4298,
+      "Completed": 4298
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4297,
+      "Progressed": 4298,
       "Completed": 0
     }
   ],
@@ -3396,8 +3401,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-04T11:05:27.1313326+00:00",
+  "LastChanged_Achievements": "2023-06-04T12:04:13.0233488+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-04T11:00:38.5236802+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:05:27.131393+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:59:21.8018575+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:04:13.0234021+00:00"
 }

@@ -23,7 +23,7 @@
 | Golem Chaser | 39.00% | ~230 |
 | Like Clockwork | 37.00% | ~218 |
 | The Wicked Twins | 37.00% | ~218 |
-| The Betrayer | 35.00% | ~206 |
+| The Betrayer | 36.00% | ~212 |
 | Check Your Pulse | 33.00% | ~194 |
 | Street Style | 30.00% | ~177 |
 | Family Memories | 30.00% | ~177 |
@@ -44,7 +44,7 @@
 | Corin Goes Home | 13.00% | ~77 |
 | Sartorialist | 13.00% | ~77 |
 | Entresol Explorer | 13.00% | ~77 |
-| Clovemary for Remembering | 10.00% | ~59 |
+| Clovemary for Remembering | 11.00% | ~65 |
 | Hexlock for Protection | 10.00% | ~59 |
 | Golem Hunter | 9.00% | ~53 |
 | Wunderkind | 4.00% | ~24 |

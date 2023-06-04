@@ -6,11 +6,11 @@ Rating: 4.77 (Ranked 107)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 8.00% | ~22,082 |
-| Grappling with a Graphorn | 7.00% | ~19,321 |
-| The One Who Mastered Memories | 7.00% | ~19,321 |
-| First Class Student | 7.00% | ~19,321 |
-| Troll with the Punches | 7.00% | ~19,321 |
-| The Hallowed Hero | 6.00% | ~16,561 |
+| Grappling with a Graphorn | 7.00% | ~19,322 |
+| The One Who Mastered Memories | 7.00% | ~19,322 |
+| The Hallowed Hero | 7.00% | ~19,322 |
+| First Class Student | 7.00% | ~19,322 |
+| Troll with the Punches | 7.00% | ~19,322 |
 | The Hero of Hogwarts | 6.00% | ~16,561 |
 | The Defender of Dragons | 6.00% | ~16,561 |
 | Challenge Accepted | 6.00% | ~16,561 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.40% | ~1,104 |
 | Collector's Edition | 0.20% | ~552 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 276,019 (Ranked 40)  
-Completed: 384 (0.14%) (Ranked 155)  
+Progressed: 276,024 (Ranked 40)  
+Completed: 384 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,17 +96,17 @@ Completed: 384 (0.14%) (Ranked 155)
 | 2023-06-01 | 275,109 | 384 |
 | 2023-06-02 | 275,430 | 383 |
 | 2023-06-03 | 275,838 | 383 |
-| 2023-06-04 | 276,019 | 384 |
+| 2023-06-04 | 276,024 | 384 |
 ## Awards
 Max (Character Customization): 19,531  (Ranked 18)  
-Sum: 36,091 (Ranked 33)  
+Sum: 36,096 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 19,531 |
 | This game has Great Boss Battles | 9,241 |
+| This game is Great for Beginners | 811 |
 | This game is Relaxing | 810 |
-| This game is Great for Beginners | 806 |
 | This game is Extremely Fun | 803 |
 | This game has Amazing Storytelling | 783 |
 | This game has Diverse Characters | 774 |
@@ -190,4 +190,4 @@ Diff (max vs sum): -15
 | 2023-06-01 | 4.77 | 19,395 | 35,832 |
 | 2023-06-02 | 4.77 | 19,435 | 35,932 |
 | 2023-06-03 | 4.77 | 19,478 | 36,029 |
-| 2023-06-04 | 4.77 | 19,531 | 36,091 |
+| 2023-06-04 | 4.77 | 19,531 | 36,096 |

@@ -7,7 +7,7 @@ Number of Ratings: 46  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Imprint | 24.00% | ~137 |
-| Taste | 23.00% | ~131 |
+| Taste | 23.00% | ~132 |
 | Ravenous | 21.00% | ~120 |
 | The Hunt | 20.00% | ~114 |
 | Weeper | 18.00% | ~103 |
@@ -36,10 +36,10 @@ Number of Ratings: 46  (23.09.2022)
 | Passage | 5.00% | ~29 |
 | Kin | 5.00% | ~8 |
 | Kinship | 4.00% | ~23 |
-| Breathsmith | 4.00% | ~23 |
 | Unwrap the Gift | 4.00% | ~23 |
 | Proportions | 4.00% | ~23 |
 | Weakness | 3.00% | ~17 |
+| Breathsmith | 3.00% | ~17 |
 | Listen | 3.00% | ~5 |
 | Bloodhunter | 2.00% | ~11 |
 | Zygote | 2.00% | ~3 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.90% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 571 (Ranked 196)  
+Progressed: 572 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-05-30 | 566 | 0 |
 | 2023-06-01 | 569 | 0 |
 | 2023-06-03 | 570 | 0 |
-| 2023-06-04 | 571 | 0 |
+| 2023-06-04 | 572 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

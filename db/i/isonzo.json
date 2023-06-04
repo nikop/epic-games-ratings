@@ -6,9 +6,9 @@
   "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -530,10 +530,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 240,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-06-04T11:57:34.8436953+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 241,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 240,
+  "NumberOfAwards": 241,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -571,7 +577,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Educational",
@@ -600,7 +606,7 @@
   ],
   "EOS_Progressed": 6058,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2188,9 +2194,9 @@
       "ID": "ISONZO_ACH_DANTES_INFERNO",
       "SetID": "akchbl3",
       "Name": "Dante\u0027s Inferno",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 606
+      "UsersEstimate": 666
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -2500,9 +2506,9 @@
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-05-31T13:04:59.5463809+00:00",
-  "LastChanged_Achievements": "2023-06-04T11:02:30.1429232+00:00",
+  "LastChanged": "2023-06-04T11:57:34.843695+00:00",
+  "LastChanged_Achievements": "2023-06-04T12:00:32.3598946+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:28.4757017+00:00",
-  "LastUpdate_Ratings": "2023-06-04T10:58:01.1554599+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:02:30.1429884+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:57:34.8436958+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:00:32.3599696+00:00"
 }

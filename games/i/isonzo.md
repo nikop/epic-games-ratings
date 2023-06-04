@@ -28,9 +28,9 @@ Number of Ratings: 98  (23.09.2022)
 | Uomo Universale | 13.00% | ~788 |
 | Machiavelli | 12.00% | ~727 |
 | Shaken, Not Stirred | 12.00% | ~727 |
+| Dante's Inferno | 11.00% | ~666 |
 | Die Bosniaken Kommen! | 11.00% | ~666 |
 | The Devil's Paintbrush | 11.00% | ~666 |
-| Dante's Inferno | 10.00% | ~606 |
 | I Have the High Ground | 9.00% | ~545 |
 | Millenial | 9.00% | ~545 |
 | The Show Must Go On | 8.00% | ~485 |
@@ -53,7 +53,7 @@ Number of Ratings: 98  (23.09.2022)
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,058 (Ranked 122)  
-Completed: 8 (0.13%) (Ranked 158)  
+Completed: 8 (0.13%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,16 +97,16 @@ Completed: 8 (0.13%) (Ranked 158)
 | 2023-06-04 | 6,058 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 443)  
-Sum: 240 (Ranked 343)  
+Sum: 241 (Ranked 343)  
 Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |
 | This game is Extremely Fun | 29 |
 | This game has Quickly Understood Controls | 27 |
+| This game has Amazing Characters | 27 |
 | This game is Educational | 27 |
 | This game has Challenging Combat | 26 |
-| This game has Amazing Characters | 26 |
 | This game has Realistic Visuals | 26 |
 | This game has Diverse Characters | 25 |
 | This game has Competitive Players | 23 |
@@ -188,3 +188,4 @@ Diff (max vs sum): 100
 | 2023-05-29 | 4.56 | - | 31 | 240 |
 | 2023-05-30 | 4.57 | - | 31 | 240 |
 | 2023-05-31 | 4.56 | - | 31 | 240 |
+| 2023-06-04 | 4.56 | - | 31 | 241 |

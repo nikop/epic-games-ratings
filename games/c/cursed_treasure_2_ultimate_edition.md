@@ -26,9 +26,9 @@
 | Architect of Darkness | 68.00% | ~107 |
 | The Apotheosis of War | 65.00% | ~103 |
 | Stasis Alcatraz | 65.00% | ~103 |
+| Combo Breaker | 61.00% | ~96 |
 | Tastes Like Chicken | 61.00% | ~96 |
 | Brilliant: Holy Mountain | 60.00% | ~95 |
-| Combo Breaker | 60.00% | ~95 |
 | Thunderstorm | 60.00% | ~95 |
 | Clean Forests | 58.00% | ~92 |
 | Starry: Meadowshire | 55.00% | ~87 |

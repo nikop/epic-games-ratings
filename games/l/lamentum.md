@@ -1,7 +1,7 @@
 # Lamentum
 [Store](https://store.epicgames.com/en-US/p/lamentum-962e3e)  
 [View Rawdata](../../db/l/lamentum.json)  
-Rating: 4.37 (Ranked 706)  
+Rating: 4.37 (Ranked 707)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,14 +18,14 @@ Rating: 4.37 (Ranked 706)
 | Ritual | 9.00% | ~26 |
 | Cowardice | 9.00% | ~26 |
 | Bloodrush | 7.00% | ~20 |
+| The moth and the flame | 6.00% | ~17 |
 | Moon Cloudiness Sonata by Danloop | 6.00% | ~17 |
 | True magic doesn't exist | 6.00% | ~17 |
-| The moth and the flame | 5.00% | ~14 |
 | Redemption | 4.00% | ~11 |
 | Sacrifice | 3.00% | ~9 |
 | Lamentum | 3.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286 (Ranked 226)  
+Progressed: 286 (Ranked 227)  
 Completed: 8 (2.80%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14447,
+  "EOS_Progressed": 14452,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2710,6 +2710,11 @@
       "Time": "2023-06-04T11:05:02.7105418+00:00",
       "NumProgressed": 14447,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-04T12:03:56.6602008+00:00",
+      "NumProgressed": 14452,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2745,7 +2750,7 @@
       "Name": "You Need a Gun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "DISARM_ENEMY",
@@ -2753,7 +2758,7 @@
       "Name": "Flesh Wound",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2825,7 +2830,7 @@
       "Name": "Get a Grip",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2841,7 +2846,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -2849,7 +2854,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "KILL_ROBOT",
@@ -2873,7 +2878,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -2889,7 +2894,7 @@
       "Name": "Reforged",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2929,7 +2934,7 @@
       "Name": "Without A Paddle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "STORY_HANGAR",
@@ -2937,7 +2942,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "STORY_MINETOWN",
@@ -2953,7 +2958,7 @@
       "Name": "Desperate Times",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2961,7 +2966,7 @@
       "Name": "Crash Site",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "STORY_TOWER",
@@ -2977,7 +2982,7 @@
       "Name": "Power Up",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "DISMEMBER_100",
@@ -3033,20 +3038,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14447,
+      "Progressed": 14452,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2373,
+      "Progressed": 2378,
       "Completed": 29
     }
   ],
@@ -3054,8 +3059,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-04T11:05:02.7105413+00:00",
+  "LastChanged_Achievements": "2023-06-04T12:03:56.6602002+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-04T10:58:35.6271229+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:05:02.7105927+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:57:58.3162895+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:03:56.6602415+00:00"
 }

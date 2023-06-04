@@ -2,13 +2,13 @@
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
   "ProductSlug": "far-cry-3",
-  "Ranking_Rating": 196,
+  "Ranking_Rating": 180,
   "Ranking_Popularity": 211,
-  "Ranking_PopularitySum": 307,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2013-01-15T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 504,
   "RatingHistory": [
     {
@@ -813,10 +813,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 400,
       "NumberOfAwardsMax": 356
+    },
+    {
+      "Time": "2023-06-04T11:59:44.9906413+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 401,
+      "NumberOfAwardsMax": 356
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 400,
+  "NumberOfAwards": 401,
   "NumberOfAwardsMax": 356,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -830,7 +836,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -850,8 +856,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2023-06-03T15:00:42.2199211+00:00",
+  "LastChanged": "2023-06-04T11:59:44.990641+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:21.0135517+00:00",
-  "LastUpdate_Ratings": "2023-06-04T11:01:17.3659754+00:00",
-  "LastUpdate_Achievements": "2023-06-04T11:06:29.231161+00:00"
+  "LastUpdate_Ratings": "2023-06-04T11:59:44.9906417+00:00",
+  "LastUpdate_Achievements": "2023-06-04T12:04:55.6103653+00:00"
 }

@@ -15,7 +15,7 @@ Number of Ratings: 54  (23.09.2022)
 | Head Burst | 18.00% | ~162 |
 | Grave Robber | 17.00% | ~153 |
 | Double agent | 15.00% | ~135 |
-| Paranoia | 14.00% | ~126 |
+| Paranoia | 15.00% | ~135 |
 | Kraina Grzybow | 9.00% | ~81 |
 | Love Guru | 9.00% | ~81 |
 | Savant | 9.00% | ~81 |

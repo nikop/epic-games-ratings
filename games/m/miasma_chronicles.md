@@ -1,27 +1,27 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.32 (Ranked 749)  
+Rating: 4.32 (Ranked 748)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~916 |
-| Ranidaphobia | 74.00% | ~745 |
-| Aspiring Editor | 71.00% | ~715 |
+| First Blood | 92.00% | ~927 |
+| Ranidaphobia | 74.00% | ~746 |
+| Aspiring Editor | 71.00% | ~716 |
 | Gun for Hire | 66.00% | ~665 |
-| I am the law! | 57.00% | ~574 |
+| I am the law! | 57.00% | ~575 |
 | Lumberjack | 42.00% | ~423 |
 | Croaked | 37.00% | ~373 |
 | Limp Richard | 36.00% | ~363 |
 | From Darkness to Light | 36.00% | ~363 |
-| Firestarter | 35.00% | ~352 |
-| Exorcist | 34.00% | ~342 |
-| Editor Adept | 33.00% | ~332 |
-| Giant Killer | 29.00% | ~292 |
+| Firestarter | 35.00% | ~353 |
+| Exorcist | 34.00% | ~343 |
+| Editor Adept | 33.00% | ~333 |
+| Giant Killer | 30.00% | ~302 |
 | Sensei | 29.00% | ~292 |
 | The meaning of Kain | 27.00% | ~272 |
 | Technophobe | 23.00% | ~232 |
-| Recycler | 21.00% | ~211 |
+| Recycler | 21.00% | ~212 |
 | Chain Killer | 17.00% | ~171 |
 | Are you not entertained? | 16.00% | ~161 |
 | Ganglord | 16.00% | ~161 |
@@ -36,8 +36,8 @@ Rating: 4.32 (Ranked 749)
 | Ruthless | 10.00% | ~101 |
 | Savior | 10.00% | ~101 |
 | The Watchers | 10.00% | ~101 |
-| Commando | 7.00% | ~70 |
-| Dr Jones | 7.00% | ~70 |
+| Commando | 7.00% | ~71 |
+| Dr Jones | 7.00% | ~71 |
 | Chain Reaction | 6.00% | ~60 |
 | Chaos Theory | 6.00% | ~60 |
 | Curveball | 6.00% | ~60 |
@@ -57,7 +57,7 @@ Rating: 4.32 (Ranked 749)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,007 (Ranked 171)  
+Progressed: 1,008 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 940 | 0 |
 | 2023-06-02 | 967 | 0 |
 | 2023-06-03 | 997 | 0 |
-| 2023-06-04 | 1,007 | 0 |
+| 2023-06-04 | 1,008 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

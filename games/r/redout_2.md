@@ -12,9 +12,9 @@ Rating: 4.45 (Ranked 613)
 | A Cheese Grater to the Face | 19.00% | ~190 |
 | It's like an haircut | 18.00% | ~180 |
 | Put it on a shelf | 18.00% | ~180 |
-| Ride in the rising sun | 16.00% | ~160 |
 | Suit up | 16.00% | ~160 |
 | Walked like an Egyptian | 15.00% | ~150 |
+| Ride in the rising sun | 15.00% | ~150 |
 | Martian explorer | 12.00% | ~120 |
 | Rookie No-No More | 12.00% | ~120 |
 | Running at the speed of sound | 12.00% | ~120 |
@@ -28,10 +28,7 @@ Rating: 4.45 (Ranked 613)
 | Even Faster! | 6.00% | ~60 |
 | Longshot | 6.00% | ~60 |
 | Under the neon lights | 4.00% | ~40 |
-| All Power to Engines! | 4.00% | ~40 |
-| Had to sweat a bit | 4.00% | ~40 |
 | Almost broke the game | 4.00% | ~40 |
-| It's like a party! | 4.00% | ~40 |
 | Better luck next time | 4.00% | ~40 |
 | Dev, this! | 4.00% | ~40 |
 | He who laughs last... | 4.00% | ~40 |
@@ -39,14 +36,17 @@ Rating: 4.45 (Ranked 613)
 | A-mazing! | 3.00% | ~30 |
 | To infinity and gravity! | 3.00% | ~30 |
 | One giant drive for mankind | 3.00% | ~30 |
+| All Power to Engines! | 3.00% | ~30 |
+| Had to sweat a bit | 3.00% | ~30 |
 | [Sweats profusely] | 3.00% | ~30 |
+| It's like a party! | 3.00% | ~30 |
 | Healthy competition | 3.00% | ~30 |
-| S-uper! | 2.00% | ~20 |
 | This is to go, even Further Beyond! | 2.00% | ~20 |
 | Gitting Gud | 2.00% | ~20 |
 | Redout Champion | 2.00% | ~20 |
 | Great Start | 2.00% | ~20 |
 | Fashion Racer | 1.00% | ~10 |
+| S-uper! | 1.00% | ~10 |
 | Put a sign on it | 1.00% | ~10 |
 | Everything is better with friends | 1.00% | ~10 |
 | Redout Grandmaster | 1.00% | ~10 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 613)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,000 (Ranked 172)  
+Progressed: 1,001 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 996 | 0 |
 | 2023-06-02 | 997 | 0 |
 | 2023-06-03 | 1,000 | 0 |
+| 2023-06-04 | 1,001 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
