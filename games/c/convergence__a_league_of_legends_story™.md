@@ -24,11 +24,11 @@
 | Like Clockwork | 37.00% | ~218 |
 | The Wicked Twins | 37.00% | ~218 |
 | The Betrayer | 35.00% | ~206 |
-| Check Your Pulse | 32.00% | ~188 |
+| Check Your Pulse | 33.00% | ~194 |
 | Street Style | 30.00% | ~177 |
 | Family Memories | 30.00% | ~177 |
+| The Loose Cannon | 30.00% | ~177 |
 | Good Neighbor | 30.00% | ~177 |
-| The Loose Cannon | 29.00% | ~171 |
 | The Family Fortune | 25.00% | ~147 |
 | The Man Who Shattered Time | 24.00% | ~141 |
 | Whiz Kid | 23.00% | ~135 |
@@ -40,10 +40,10 @@
 | Fairgrounds Explorer | 20.00% | ~118 |
 | Cultivair Explorer | 16.00% | ~94 |
 | Theater Explorer | 16.00% | ~94 |
+| Rungs Was Right | 14.00% | ~82 |
 | Corin Goes Home | 13.00% | ~77 |
 | Sartorialist | 13.00% | ~77 |
 | Entresol Explorer | 13.00% | ~77 |
-| Rungs Was Right | 13.00% | ~77 |
 | Clovemary for Remembering | 10.00% | ~59 |
 | Hexlock for Protection | 9.00% | ~53 |
 | Golem Hunter | 8.00% | ~47 |

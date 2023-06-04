@@ -2510,10 +2510,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1890,
       "NumberOfAwardsMax": 303
+    },
+    {
+      "Time": "2023-06-04T06:57:38.1311151+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1897,
+      "NumberOfAwardsMax": 303
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1890,
+  "NumberOfAwards": 1897,
   "NumberOfAwardsMax": 303,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2551,7 +2557,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 169
+      "Count": 174
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2581,7 +2587,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 117
+      "Count": 119
     }
   ],
   "EOS_Progressed": 0,
@@ -2596,8 +2602,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-06-04T02:32:57.0259919+00:00",
+  "LastChanged": "2023-06-04T06:57:38.131115+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:40.9983243+00:00",
-  "LastUpdate_Ratings": "2023-06-04T05:58:05.1250699+00:00",
-  "LastUpdate_Achievements": "2023-06-04T06:03:36.5533392+00:00"
+  "LastUpdate_Ratings": "2023-06-04T06:57:38.1311156+00:00",
+  "LastUpdate_Achievements": "2023-06-04T07:03:40.4700462+00:00"
 }

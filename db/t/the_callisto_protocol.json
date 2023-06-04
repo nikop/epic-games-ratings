@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14429,
+  "EOS_Progressed": 14434,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2685,6 +2685,11 @@
       "Time": "2023-06-04T06:04:40.8462574+00:00",
       "NumProgressed": 14429,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-04T07:04:17.5569046+00:00",
+      "NumProgressed": 14434,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2728,7 +2733,7 @@
       "Name": "Flesh Wound",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2776,7 +2781,7 @@
       "Name": "Recidivist",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -2784,7 +2789,7 @@
       "Name": "Lifer",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "FINISH_NEW_GAME_PLUS",
@@ -2800,7 +2805,7 @@
       "Name": "Get a Grip",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2872,7 +2877,7 @@
       "Name": "Paper Jams",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2904,7 +2909,7 @@
       "Name": "Without A Paddle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "STORY_HANGAR",
@@ -3015,13 +3020,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14429,
+      "Progressed": 14434,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2355,
+      "Progressed": 2360,
       "Completed": 29
     }
   ],
@@ -3029,8 +3034,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-04T06:04:40.8462567+00:00",
+  "LastChanged_Achievements": "2023-06-04T07:04:17.5569039+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-04T05:58:28.5020789+00:00",
-  "LastUpdate_Achievements": "2023-06-04T06:04:40.8463612+00:00"
+  "LastUpdate_Ratings": "2023-06-04T06:57:56.0761905+00:00",
+  "LastUpdate_Achievements": "2023-06-04T07:04:17.5569822+00:00"
 }

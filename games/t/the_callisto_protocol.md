@@ -5,17 +5,17 @@ Rating: 4.18 (Ranked 838)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 11.00% | ~1,587 |
+| Flesh Wound | 11.00% | ~1,588 |
 | The Outer Way | 10.00% | ~1,443 |
 | Desperate Times | 9.00% | ~1,299 |
-| Paper Jams | 8.00% | ~1,154 |
+| Paper Jams | 8.00% | ~1,155 |
 | Chew 'Em Up | 7.00% | ~1,010 |
 | Reforged | 7.00% | ~1,010 |
 | Giving Back | 6.00% | ~866 |
 | Workplace Hazard | 6.00% | ~866 |
 | If the SHU Fits... | 6.00% | ~866 |
-| Get a Grip | 5.00% | ~721 |
-| Without A Paddle | 5.00% | ~721 |
+| Get a Grip | 5.00% | ~722 |
+| Without A Paddle | 5.00% | ~722 |
 | Terminated | 4.00% | ~577 |
 | Float Like A Butterfly | 4.00% | ~577 |
 | Instigator | 4.00% | ~94 |
@@ -35,8 +35,8 @@ Rating: 4.18 (Ranked 838)
 | I Do Belong Here | 1.00% | ~144 |
 | Parole Denied | 1.00% | ~24 |
 | Hoard Mode | 1.00% | ~24 |
-| Recidivist | 0.70% | ~16 |
-| Lifer | 0.70% | ~16 |
+| Recidivist | 0.70% | ~17 |
+| Lifer | 0.70% | ~17 |
 | Grim Reaper | 0.60% | ~87 |
 | Armed to the Teeth | 0.20% | ~5 |
 | The Protocol is About Life | 0.20% | ~29 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 838)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,429 (Ranked 103)  
+Progressed: 14,434 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 53 (0.37%) (Ranked 118)
 | 2023-06-01 | 14,254 | 53 |
 | 2023-06-02 | 14,323 | 53 |
 | 2023-06-03 | 14,412 | 53 |
-| 2023-06-04 | 14,429 | 53 |
+| 2023-06-04 | 14,434 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 287 (Ranked 328)  

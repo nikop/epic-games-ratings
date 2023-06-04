@@ -17,7 +17,7 @@ Number of Ratings: 371  (23.09.2022)
 | Surgical Excision | 15.00% | ~427 |
 | Bloodless | 15.00% | ~427 |
 | Honoured Battle-Brother | 11.00% | ~313 |
-| The Emperor Protects | 10.00% | ~284 |
+| The Emperor Protects | 11.00% | ~313 |
 | Nemesis Master | 10.00% | ~284 |
 | Gunmaster | 10.00% | ~284 |
 | A Foul Creche | 10.00% | ~284 |

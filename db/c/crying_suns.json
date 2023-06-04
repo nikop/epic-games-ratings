@@ -540,7 +540,7 @@
   ],
   "EOS_Progressed": 459792,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5231,9 +5231,9 @@
       "ID": "achievement_win_all_chapers_with_church_easy_normal",
       "SetID": "8cokdon",
       "Name": "Jericho Mastery",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_win_all_chapers_with_church_hard",
@@ -5533,8 +5533,8 @@
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-06-04T06:07:19.6745141+00:00",
+  "LastChanged_Achievements": "2023-06-04T07:06:30.2563509+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.8909494+00:00",
-  "LastUpdate_Ratings": "2023-06-04T06:00:18.9263809+00:00",
-  "LastUpdate_Achievements": "2023-06-04T06:07:19.6746586+00:00"
+  "LastUpdate_Ratings": "2023-06-04T06:59:23.7180044+00:00",
+  "LastUpdate_Achievements": "2023-06-04T07:06:30.2565855+00:00"
 }

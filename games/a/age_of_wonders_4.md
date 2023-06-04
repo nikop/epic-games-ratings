@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 78.00% | ~3,342 |
+| A Wonderful Discovery | 78.00% | ~3,343 |
 | Realm Estate | 75.00% | ~3,214 |
-| Secret Technique | 74.00% | ~3,171 |
-| Walls Cannot Stop Us | 72.00% | ~3,085 |
+| Secret Technique | 74.00% | ~3,172 |
+| Walls Cannot Stop Us | 72.00% | ~3,086 |
 | From Friends to Family | 68.00% | ~2,914 |
-| Magical Synergy | 64.00% | ~2,742 |
-| Bone Peddler | 60.00% | ~2,571 |
+| Magical Synergy | 64.00% | ~2,743 |
+| Bone Peddler | 60.00% | ~2,572 |
 | Stronger Together | 55.00% | ~2,357 |
-| Full Ascension | 53.00% | ~2,271 |
-| There Can Only Be One! | 46.00% | ~1,971 |
-| Seat of Power | 46.00% | ~1,971 |
+| Full Ascension | 53.00% | ~2,272 |
+| There Can Only Be One! | 46.00% | ~1,972 |
+| Seat of Power | 46.00% | ~1,972 |
 | Intimidation Tactics | 43.00% | ~1,843 |
 | My Final Form | 42.00% | ~1,800 |
 | Valley of Wonders | 41.00% | ~1,757 |
-| In a Liege of Your Own | 37.00% | ~1,585 |
+| In a Liege of Your Own | 37.00% | ~1,586 |
 | Return of the Wizard King | 30.00% | ~1,286 |
 | Digging for Treasure | 30.00% | ~1,286 |
 | Against the Odds | 30.00% | ~1,286 |
@@ -28,7 +28,7 @@ Rating: 4.54 (Ranked 489)
 | The Magic That Empowers Me! | 19.00% | ~814 |
 | Preparation Is Everything | 19.00% | ~814 |
 | Arch Mage | 18.00% | ~771 |
-| God Emperor | 17.00% | ~728 |
+| God Emperor | 17.00% | ~729 |
 | Eternal Lord | 16.00% | ~686 |
 | Crimson Caldera | 16.00% | ~686 |
 | The Creator | 14.00% | ~600 |
@@ -46,11 +46,11 @@ Rating: 4.54 (Ranked 489)
 | I Want to Break Free | 2.00% | ~86 |
 | Manufactured War | 1.00% | ~43 |
 | I'll Fight You All | 0.80% | ~34 |
-| The Grey Wizard | 0.40% | ~17 |
 | Master of Evilness | 0.30% | ~13 |
+| The Grey Wizard | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,285 (Ranked 129)  
+Progressed: 4,286 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 4,139 | 0 |
 | 2023-06-02 | 4,204 | 0 |
 | 2023-06-03 | 4,275 | 0 |
-| 2023-06-04 | 4,285 | 0 |
+| 2023-06-04 | 4,286 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1104,
+  "EOS_Progressed": 1105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1434,6 +1434,11 @@
       "Time": "2023-06-04T06:04:20.6344453+00:00",
       "NumProgressed": 1104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T07:04:00.1751474+00:00",
+      "NumProgressed": 1105,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1565,7 +1570,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1621,7 +1626,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -1659,9 +1664,9 @@
       "ID": "NEW_ACHIEVEMENT_GREATEST_BOTANIST",
       "SetID": "l546gc",
       "Name": "I am the greatest botanist on this planet.",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 309
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -1828,7 +1833,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1104,
+      "Progressed": 1105,
       "Completed": 0
     }
   ],
@@ -1836,8 +1841,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-03T17:57:40.7372118+00:00",
-  "LastChanged_Achievements": "2023-06-04T06:04:20.6344446+00:00",
+  "LastChanged_Achievements": "2023-06-04T07:04:00.1751464+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-04T05:57:52.3473928+00:00",
-  "LastUpdate_Achievements": "2023-06-04T06:04:20.6344981+00:00"
+  "LastUpdate_Ratings": "2023-06-04T06:57:28.6956707+00:00",
+  "LastUpdate_Achievements": "2023-06-04T07:04:00.1752295+00:00"
 }

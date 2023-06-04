@@ -4,7 +4,7 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -384,8 +384,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-06-04T06:03:38.7534548+00:00",
+  "LastChanged_Achievements": "2023-06-04T07:03:42.3179058+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:35.375098+00:00",
-  "LastUpdate_Ratings": "2023-06-04T05:57:57.8355969+00:00",
-  "LastUpdate_Achievements": "2023-06-04T06:03:38.7534877+00:00"
+  "LastUpdate_Ratings": "2023-06-04T06:57:32.6032362+00:00",
+  "LastUpdate_Achievements": "2023-06-04T07:03:42.3179554+00:00"
 }

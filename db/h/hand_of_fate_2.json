@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 657310,
+  "EOS_Progressed": 657313,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4885,6 +4885,11 @@
       "Time": "2023-06-04T06:06:58.4180797+00:00",
       "NumProgressed": 657310,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-04T07:06:11.9735717+00:00",
+      "NumProgressed": 657313,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -4896,7 +4901,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473263
+      "UsersEstimate": 473265
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -4904,7 +4909,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381240
+      "UsersEstimate": 381242
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -4912,7 +4917,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151181
+      "UsersEstimate": 151182
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -5016,7 +5021,7 @@
       "Name": "Ally",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5258
+      "UsersEstimate": 5259
     },
     {
       "ID": "Achievement_17_Rebel",
@@ -5032,7 +5037,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151181
+      "UsersEstimate": 151182
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -5040,7 +5045,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92023
+      "UsersEstimate": 92024
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -5136,7 +5141,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 78877
+      "UsersEstimate": 78878
     },
     {
       "ID": "Achievement_32_Karma",
@@ -5224,7 +5229,7 @@
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5258
+      "UsersEstimate": 5259
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -5279,15 +5284,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 657310,
+      "Progressed": 657313,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-04T06:06:58.4180791+00:00",
+  "LastChanged_Achievements": "2023-06-04T07:06:11.9735713+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.7468095+00:00",
-  "LastUpdate_Ratings": "2023-06-04T05:58:10.3507811+00:00",
-  "LastUpdate_Achievements": "2023-06-04T06:06:58.4181678+00:00"
+  "LastUpdate_Ratings": "2023-06-04T06:57:41.4719197+00:00",
+  "LastUpdate_Achievements": "2023-06-04T07:06:11.9736512+00:00"
 }

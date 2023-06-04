@@ -50,6 +50,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Art of War | 0.10% | ~460 |
 | Geno Mastery | 0.10% | ~460 |
 | Geno Supremacy | 0.10% | ~460 |
+| Jericho Mastery | 0.10% | ~460 |
 | Hammer Mastery | 0.10% | ~460 |
 | Hammer Supremacy | 0.10% | ~460 |
 | Void Supremacy | 0.10% | ~460 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kronos Supremacy | 0.10% | ~4 |
 | Horus Rule | 0.10% | ~4 |
 | Kronos Rule | 0.10% | ~4 |
-| Jericho Mastery | 0.00% | ~0 |
 | Jericho Supremacy | 0.00% | ~0 |
 | Void Mastery | 0.00% | ~0 |
 | Kaos Supremacy | 0.00% | ~0 |

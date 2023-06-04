@@ -23,9 +23,9 @@ Number of Ratings: 54  (23.09.2022)
 | Bustin' nuts | 7.00% | ~63 |
 | Superhuman | 7.00% | ~63 |
 | The Vitinsky Rifle | 7.00% | ~63 |
+| Protection racket | 5.00% | ~45 |
 | Secret room | 5.00% | ~45 |
 | Indy | 4.00% | ~36 |
-| Protection racket | 4.00% | ~36 |
 | Sacrifice | 4.00% | ~36 |
 | Career criminal | 2.00% | ~18 |
 | Wishmaster | 2.00% | ~18 |
