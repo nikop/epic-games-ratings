@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Martian Invaders](games/b/ba379411990446cc90d33093ac594c66.md) | 2023-06-04 | - |  | - | - |
 | [The Sports Trivia Challenge](games/a/a3dafcfbe71246d98d152c13b1040f27.md) | 2023-06-04 | - |  | - | - |
 | [Moto](games/d/d1332913f13a4ec1a74ae177a67be056.md) | 2023-06-05 | - |  | - | - |
 | [Tiny Thor](games/t/tiny_thor.md) | 2023-06-05 | - |  | - | - |

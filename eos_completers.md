@@ -47,9 +47,9 @@
 | 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.20% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.15% |
 | 47 | [The Bunker](games/t/the_bunker.md) | 3.09% |
-| 48 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.03% |
-| 49 | [Monster Harvest](games/m/monster_harvest.md) | 3.02% |
-| 50 | [HordeCore](games/h/hordecore.md) | 2.99% |
+| 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.02% |
+| 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
+| 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.97% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 52 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 52 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.90% |
@@ -71,8 +71,8 @@
 | 69 | [Sifu](games/s/sifu.md) | 1.80% |
 | 70 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 71 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.64% |
-| 72 | [Night Book](games/n/night_book.md) | 1.59% |
 | 72 | [Somerville](games/s/somerville.md) | 1.59% |
+| 73 | [Night Book](games/n/night_book.md) | 1.58% |
 | 74 | [A Musical Story](games/a/a_musical_story.md) | 1.56% |
 | 75 | [Frogun](games/f/frogun.md) | 1.51% |
 | 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
@@ -96,7 +96,7 @@
 | 94 | [Poosh XL](games/p/poosh_xl.md) | 0.85% |
 | 95 | [Adios](games/a/adios.md) | 0.84% |
 | 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.82% |
-| 96 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.82% |
+| 97 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.81% |
 | 98 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
 | 99 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.77% |
