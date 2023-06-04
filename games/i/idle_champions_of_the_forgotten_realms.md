@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Witchlight Carnival | 0.20% | ~112 |
 | Thieves of the Coven | 0.20% | ~112 |
 | Hither of the Feywild | 0.20% | ~112 |
+| The Prince of a Thousand Enemies | 0.20% | ~112 |
 | Third Third Out | 0.20% | ~112 |
 | The Silken Swamp | 0.20% | ~179 |
 | A Steadfast Love | 0.20% | ~112 |
@@ -105,11 +106,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.20% | ~179 |
 | Excavating History | 0.20% | ~179 |
 | Premature Betrayal | 0.20% | ~179 |
+| Towering Expectations | 0.20% | ~179 |
 | Hopelessly Lost | 0.20% | ~179 |
 | Enter the Sargauth | 0.20% | ~179 |
 | A Tale of Two Cities | 0.20% | ~179 |
 | The Dead Three | 0.20% | ~179 |
 | Flying Monkey Skulls of Doom | 0.20% | ~179 |
+| Lair of the Xanathar | 0.20% | ~179 |
 | Waterdeep Under Siege | 0.20% | ~179 |
 | The Darkness Runs Deeper | 0.20% | ~179 |
 | Dinosaur Racing | 0.20% | ~179 |
@@ -161,7 +164,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.10% | ~56 |
 | Icequake | 0.10% | ~56 |
 | A Lesson in Classes | 0.10% | ~56 |
-| The Prince of a Thousand Enemies | 0.10% | ~56 |
 | Uncommon Allies | 0.10% | ~56 |
 | The Birds | 0.10% | ~56 |
 | Where the Magic Happens | 0.10% | ~56 |
@@ -299,7 +301,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Screams of the Dead | 0.10% | ~90 |
 | Frantic Excavation | 0.10% | ~90 |
 | Birds of a Feather | 0.10% | ~56 |
-| Towering Expectations | 0.10% | ~90 |
 | Guests of the Groom | 0.10% | ~90 |
 | Careful Consideration | 0.10% | ~90 |
 | Tanking Expectations | 0.10% | ~56 |
@@ -324,7 +325,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.10% | ~90 |
 | A Hero's Entourage | 0.10% | ~90 |
 | Sneak Attack | 0.10% | ~56 |
-| Lair of the Xanathar | 0.10% | ~90 |
 | Dreams of Beholders | 0.10% | ~90 |
 | Feigned Weakness | 0.10% | ~90 |
 | DPS in the Deeps | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,683 (Ranked 62)  
+Progressed: 89,686 (Ranked 62)  
 Completed: 1,913 (2.13%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,6 +545,7 @@ Completed: 1,913 (2.13%) (Ranked 63)
 | 2023-06-01 | 89,445 | 1,907 |
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
+| 2023-06-04 | 89,686 | 1,913 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,025 (Ranked 37)  

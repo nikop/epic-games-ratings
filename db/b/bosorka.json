@@ -2,9 +2,9 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 288,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77,
+  "EOS_Progressed": 78,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -178,6 +178,11 @@
       "Time": "2023-05-29T22:05:24.6678788+00:00",
       "NumProgressed": 77,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T00:05:15.5615789+00:00",
+      "NumProgressed": 78,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -187,7 +192,7 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 55,
       "UsersEstimate": 42
     },
@@ -203,7 +208,7 @@
       "ID": "RUNE_BOOSTDAMAGERANGE",
       "SetID": "9433p49",
       "Name": "This is just the beginning...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 40,
       "UsersEstimate": 12
     },
@@ -259,7 +264,7 @@
       "ID": "RUNE_DROPFIRSTAIDKIT",
       "SetID": "9433p49",
       "Name": "Witch\u0027s duty",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 55,
       "UsersEstimate": 43
     },
@@ -275,7 +280,7 @@
       "ID": "RUNE_LIGHTNINGSTUN",
       "SetID": "9433p49",
       "Name": "Skilled rider",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 75,
       "UsersEstimate": 33
     },
@@ -291,7 +296,7 @@
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 81,
+      "Percentage": 79,
       "XP": 55,
       "UsersEstimate": 62
     },
@@ -308,7 +313,7 @@
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 77,
+      "Progressed": 78,
       "Completed": 0
     }
   ],
@@ -316,8 +321,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-06-03T23:06:19.5196058+00:00",
+  "LastChanged_Achievements": "2023-06-04T00:05:15.5615784+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:41.3790572+00:00",
-  "LastUpdate_Ratings": "2023-06-03T22:57:52.0830128+00:00",
-  "LastUpdate_Achievements": "2023-06-03T23:06:19.5196184+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:57:25.1577953+00:00",
+  "LastUpdate_Achievements": "2023-06-04T00:05:15.5615914+00:00"
 }

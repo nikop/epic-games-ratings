@@ -1,39 +1,39 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.64 (Ranked 312)  
+Rating: 4.64 (Ranked 313)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~3,814 |
-| All thumbs | 91.00% | ~3,773 |
-| I will survive! | 91.00% | ~3,773 |
-| Home, sweet home | 89.00% | ~3,690 |
-| Survivalist | 87.00% | ~3,607 |
-| One way ticket | 83.00% | ~3,441 |
-| Last man standing | 77.00% | ~3,192 |
+| Prepper | 92.00% | ~3,815 |
+| All thumbs | 91.00% | ~3,774 |
+| I will survive! | 91.00% | ~3,774 |
+| Home, sweet home | 89.00% | ~3,691 |
+| Survivalist | 87.00% | ~3,608 |
+| One way ticket | 83.00% | ~3,442 |
+| Last man standing | 77.00% | ~3,193 |
 | Family guy | 75.00% | ~3,110 |
-| Out of the Bag | 72.00% | ~2,985 |
+| Out of the Bag | 72.00% | ~2,986 |
 | The Dark Side | 67.00% | ~2,778 |
 | Duck and cover! | 62.00% | ~2,571 |
-| Souper! | 61.00% | ~2,529 |
-| Pacifist | 55.00% | ~2,280 |
+| Souper! | 61.00% | ~2,530 |
+| Pacifist | 55.00% | ~2,281 |
 | 2-1-6 | 54.00% | ~2,239 |
-| A gift | 50.00% | ~2,073 |
-| Girl Power | 44.00% | ~1,824 |
-| What goes around... | 40.00% | ~1,658 |
+| A gift | 50.00% | ~2,074 |
+| Girl Power | 44.00% | ~1,825 |
+| What goes around... | 40.00% | ~1,659 |
 | Be Prepared | 35.00% | ~1,451 |
 | Unbreakable | 34.00% | ~1,410 |
 | Atomic drill | 32.00% | ~1,327 |
 | This is the end | 32.00% | ~1,327 |
-| Gotta get 'em all | 29.00% | ~1,202 |
+| Gotta get 'em all | 29.00% | ~1,203 |
 | Disco Roach | 26.00% | ~1,078 |
 | Dawkins Residence | 19.00% | ~788 |
-| Rescue time! | 16.00% | ~663 |
-| New species | 16.00% | ~663 |
+| Rescue time! | 16.00% | ~664 |
+| New species | 16.00% | ~664 |
 | New order | 15.00% | ~622 |
-| A New Hope | 14.00% | ~580 |
-| Enigma | 14.00% | ~580 |
+| A New Hope | 14.00% | ~581 |
+| Enigma | 14.00% | ~581 |
 | Challenger | 11.00% | ~456 |
 | Men in Black | 11.00% | ~456 |
 | No stone unturned | 10.00% | ~415 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 312)
 | Miracle | 0.20% | ~8 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,146 (Ranked 131)  
+Progressed: 4,147 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 4,126 | 0 |
 | 2023-06-02 | 4,134 | 0 |
 | 2023-06-03 | 4,146 | 0 |
+| 2023-06-04 | 4,147 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

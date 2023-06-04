@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6286,
+  "EOS_Progressed": 6288,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2908,6 +2908,11 @@
       "Time": "2023-06-03T23:06:15.0999223+00:00",
       "NumProgressed": 6286,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-04T00:05:11.8450975+00:00",
+      "NumProgressed": 6288,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -2991,7 +2996,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -2999,7 +3004,7 @@
       "Name": "Happy Camper",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "HISTORIAN",
@@ -3023,7 +3028,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "LIBERATOR",
@@ -3031,7 +3036,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "LIVE_WIRE",
@@ -3039,7 +3044,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "SHREDDER",
@@ -3086,7 +3091,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6286,
+      "Progressed": 6288,
       "Completed": 23
     }
   ],
@@ -3094,8 +3099,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-03T23:06:15.0999216+00:00",
+  "LastChanged_Achievements": "2023-06-04T00:05:11.8450969+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-03T22:58:15.7847874+00:00",
-  "LastUpdate_Achievements": "2023-06-03T23:06:15.0999558+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:57:42.7296074+00:00",
+  "LastUpdate_Achievements": "2023-06-04T00:05:11.8451269+00:00"
 }

@@ -1,22 +1,22 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.67 (Ranked 259)  
+Rating: 4.67 (Ranked 260)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 53.00% | ~1,182 |
+| You're free now! | 53.00% | ~1,183 |
 | Keeping it classy | 25.00% | ~558 |
-| Welcome to the family | 18.00% | ~401 |
+| Welcome to the family | 18.00% | ~402 |
 | The finer things in life | 16.00% | ~357 |
 | Backpacker | 12.00% | ~268 |
-| Go with the Flow | 11.00% | ~245 |
+| Go with the Flow | 11.00% | ~246 |
 | Plastic Surgeon | 9.00% | ~201 |
 | The flip trick crown jewel | 9.00% | ~201 |
-| Keep the dream alive | 8.00% | ~178 |
-| The hard way | 8.00% | ~178 |
-| Upfront shredder | 8.00% | ~178 |
+| Keep the dream alive | 8.00% | ~179 |
+| The hard way | 8.00% | ~179 |
+| Upfront shredder | 8.00% | ~179 |
 | Good vibes | 7.00% | ~156 |
 | Finally he zips it | 6.00% | ~134 |
 | That pinch! | 6.00% | ~134 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,230 (Ranked 148)  
+Progressed: 2,232 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,15 +98,16 @@ Completed: 0 (0.00%) (Ranked 211)
 | 2023-06-01 | 2,200 | 0 |
 | 2023-06-02 | 2,219 | 0 |
 | 2023-06-03 | 2,230 | 0 |
+| 2023-06-04 | 2,232 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 397)  
-Sum: 415 (Ranked 301)  
+Sum: 416 (Ranked 301)  
 Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 48 |
+| This game is Great for Quick Sessions | 41 |
 | This game has a Creative Community | 40 |
-| This game is Great for Quick Sessions | 40 |
 | This game has Amazing Storytelling | 39 |
 | This game is Relaxing | 38 |
 | This game has Amazing Characters | 38 |
@@ -216,4 +217,4 @@ Diff (max vs sum): 96
 | 2023-05-18 | 4.66 | - | 48 | 412 |
 | 2023-05-19 | 4.66 | - | 48 | 414 |
 | 2023-06-02 | 4.66 | - | 48 | 415 |
-| 2023-06-03 | 4.67 | - | 48 | 415 |
+| 2023-06-03 | 4.67 | - | 48 | 416 |

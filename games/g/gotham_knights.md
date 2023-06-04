@@ -6,13 +6,13 @@ Rating: 4.17 (Ranked 843)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 3.00% | ~1,904 |
-| The Batman Family | 2.00% | ~1,269 |
-| To the Victor Go the Spoils | 2.00% | ~1,269 |
-| Har, Har, Har, Very Funny | 2.00% | ~1,269 |
-| Get ReQ'd | 2.00% | ~1,269 |
-| Knighthood | 2.00% | ~1,269 |
-| Loose Ends | 2.00% | ~1,269 |
-| Whispered Words | 2.00% | ~1,269 |
+| The Batman Family | 2.00% | ~1,270 |
+| To the Victor Go the Spoils | 2.00% | ~1,270 |
+| Har, Har, Har, Very Funny | 2.00% | ~1,270 |
+| Get ReQ'd | 2.00% | ~1,270 |
+| Knighthood | 2.00% | ~1,270 |
+| Loose Ends | 2.00% | ~1,270 |
+| Whispered Words | 2.00% | ~1,270 |
 | Protector of Gotham | 1.00% | ~635 |
 | Something in the Clay | 1.00% | ~635 |
 | The Show Mud Go On | 1.00% | ~635 |
@@ -44,9 +44,9 @@ Rating: 4.17 (Ranked 843)
 | Expert Crime Fighter | 0.40% | ~254 |
 | A Worthy Successor | 0.40% | ~254 |
 | A Momentum Occasion | 0.30% | ~190 |
-| Hammer and Icicle | 0.20% | ~67 |
-| Renewable Enemy Source | 0.20% | ~67 |
-| Crime Is a Terrible Thing to Waste | 0.20% | ~67 |
+| Hammer and Icicle | 0.20% | ~68 |
+| Renewable Enemy Source | 0.20% | ~68 |
+| Crime Is a Terrible Thing to Waste | 0.20% | ~68 |
 | He'd Be So Proud of You | 0.20% | ~127 |
 | Bat Out of Hell | 0.20% | ~127 |
 | Element of Surprise | 0.10% | ~34 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 843)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,469 (Ranked 71)  
+Progressed: 63,475 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 93 (0.15%) (Ranked 153)
 | 2023-06-01 | 63,155 | 93 |
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
+| 2023-06-04 | 63,475 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,283  (Ranked 98)  
 Sum: 3,783 (Ranked 137)  

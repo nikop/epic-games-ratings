@@ -2,12 +2,12 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 397,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -584,10 +584,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 415,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-06-03T23:58:38.5908244+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 416,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 415,
+  "NumberOfAwards": 416,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -625,7 +631,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -664,9 +670,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2230,
+  "EOS_Progressed": 2232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1894,6 +1900,11 @@
       "Time": "2023-06-03T20:05:59.9319701+00:00",
       "NumProgressed": 2230,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-04T00:05:20.4464183+00:00",
+      "NumProgressed": 2232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2009,7 +2020,7 @@
       "Name": "Go with the Flow",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -2049,7 +2060,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -2225,7 +2236,7 @@
       "Name": "The hard way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -2257,7 +2268,7 @@
       "Name": "Upfront shredder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -2273,7 +2284,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -2281,22 +2292,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2230,
+      "Progressed": 2232,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-06-03T19:59:12.3173428+00:00",
-  "LastChanged_Achievements": "2023-06-03T23:06:25.4192979+00:00",
+  "LastChanged": "2023-06-03T23:58:38.5908242+00:00",
+  "LastChanged_Achievements": "2023-06-04T00:05:20.4464178+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-03T22:59:25.374551+00:00",
-  "LastUpdate_Achievements": "2023-06-03T23:06:25.4193441+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:58:38.5908248+00:00",
+  "LastUpdate_Achievements": "2023-06-04T00:05:20.4464665+00:00"
 }

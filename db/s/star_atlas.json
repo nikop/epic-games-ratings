@@ -2,7 +2,7 @@
   "ID": "4c644e7f0d80469cb9bb42cad2ffe46d",
   "Name": "Star Atlas",
   "ProductSlug": "star-atlas-bead34",
-  "Ranking_Rating": 312,
+  "Ranking_Rating": 216,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 433,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.64,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:30.8564201+00:00",
@@ -36,6 +36,12 @@
     {
       "Time": "2023-06-02T23:58:10.6415193+00:00",
       "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-03T23:58:10.6472995+00:00",
+      "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -56,8 +62,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-18T11:58:41.4612428+00:00",
   "FirstSeenRating": "2023-03-31T05:58:30.8564198+00:00",
-  "LastChanged": "2023-06-02T23:58:10.6415151+00:00",
+  "LastChanged": "2023-06-03T23:58:10.6472993+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:46.5800646+00:00",
-  "LastUpdate_Ratings": "2023-06-03T22:58:51.3933448+00:00",
-  "LastUpdate_Achievements": "2023-06-03T23:02:15.3875469+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:58:10.6473+00:00",
+  "LastUpdate_Achievements": "2023-06-04T00:02:12.5220292+00:00"
 }

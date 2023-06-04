@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -282,9 +282,9 @@
       "ID": "CartdridgeHoarderAchievement",
       "SetID": "a8djcgh",
       "Name": "Cartridge Hoarder",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Cleared1000LevelsAchievement",
@@ -1233,8 +1233,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-03T23:06:51.660448+00:00",
+  "LastChanged_Achievements": "2023-06-04T00:05:43.1296152+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:00.3946276+00:00",
-  "LastUpdate_Ratings": "2023-06-03T22:59:06.0981566+00:00",
-  "LastUpdate_Achievements": "2023-06-03T23:06:51.6606472+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:58:24.616978+00:00",
+  "LastUpdate_Achievements": "2023-06-04T00:05:43.1297869+00:00"
 }

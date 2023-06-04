@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73322,
+  "EOS_Progressed": 73323,
   "EOS_Completed": 337,
-  "EOS_NewPlayers": 974,
+  "EOS_NewPlayers": 966,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -4923,6 +4923,11 @@
       "Time": "2023-06-03T23:06:31.9306226+00:00",
       "NumProgressed": 73322,
       "NumCompleted": 337
+    },
+    {
+      "Time": "2023-06-04T00:05:26.2272657+00:00",
+      "NumProgressed": 73323,
+      "NumCompleted": 337
     }
   ],
   "TotalAchievements": 10,
@@ -5006,22 +5011,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8065
+      "UsersEstimate": 8066
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 73322,
+      "Progressed": 73323,
       "Completed": 337
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-06-03T23:06:31.9306219+00:00",
+  "LastChanged_Achievements": "2023-06-04T00:05:26.2272654+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.6520085+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:00:53.3530064+00:00",
-  "LastUpdate_Achievements": "2023-06-03T23:06:31.9306609+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:59:48.2839291+00:00",
+  "LastUpdate_Achievements": "2023-06-04T00:05:26.2273009+00:00"
 }

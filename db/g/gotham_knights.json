@@ -1370,9 +1370,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63469,
+  "EOS_Progressed": 63475,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1049,
+  "EOS_NewPlayers": 1048,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4945,6 +4945,11 @@
       "Time": "2023-06-03T23:06:47.9559673+00:00",
       "NumProgressed": 63469,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-04T00:05:39.9211743+00:00",
+      "NumProgressed": 63475,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -4956,7 +4961,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -4980,7 +4985,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -4988,7 +4993,7 @@
       "Name": "Crime Is a Terrible Thing to Waste",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "AC1_HA_STARLABS",
@@ -5004,7 +5009,7 @@
       "Name": "The Batman Family",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -5180,7 +5185,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "FREEZE_1_5",
@@ -5260,7 +5265,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "HARLEY_2",
@@ -5268,7 +5273,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "HARLEY_3",
@@ -5332,7 +5337,7 @@
       "Name": "Knighthood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -5348,7 +5353,7 @@
       "Name": "Loose Ends",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "MYSTERY_02",
@@ -5356,7 +5361,7 @@
       "Name": "Whispered Words",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "MYSTERY_03",
@@ -5443,13 +5448,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63469,
+      "Progressed": 63475,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 33749,
+      "Progressed": 33755,
       "Completed": 2644
     }
   ],
@@ -5457,8 +5462,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-03T17:00:25.239892+00:00",
-  "LastChanged_Achievements": "2023-06-03T23:06:47.9559668+00:00",
+  "LastChanged_Achievements": "2023-06-04T00:05:39.9211737+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-03T23:00:11.1541655+00:00",
-  "LastUpdate_Achievements": "2023-06-03T23:06:47.9560476+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:59:13.5989996+00:00",
+  "LastUpdate_Achievements": "2023-06-04T00:05:39.921251+00:00"
 }

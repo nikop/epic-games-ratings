@@ -20,6 +20,7 @@
 | Bronze Prince of Ball-air | 7.00% | ~2 |
 | Pacifist | 7.00% | ~2 |
 | Collateral Damage I | 7.00% | ~2 |
+| Cartridge Hoarder | 3.00% | ~1 |
 | Diligent | 3.00% | ~1 |
 | Hoarder | 3.00% | ~1 |
 | Defrosted | 3.00% | ~1 |
@@ -38,7 +39,6 @@
 | Universal Ensign | 0.00% | ~0 |
 | Bronze BBQ | 0.00% | ~0 |
 | Bronze Pest Control | 0.00% | ~0 |
-| Cartridge Hoarder | 0.00% | ~0 |
 | Rambo VI | 0.00% | ~0 |
 | Rambo III | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |

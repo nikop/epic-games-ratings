@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -201,9 +201,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 192113,
+  "EOS_Progressed": 192115,
   "EOS_Completed": 430,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4706,6 +4706,11 @@
       "Time": "2023-06-03T23:06:21.7747312+00:00",
       "NumProgressed": 192113,
       "NumCompleted": 430
+    },
+    {
+      "Time": "2023-06-04T00:05:17.4317227+00:00",
+      "NumProgressed": 192115,
+      "NumCompleted": 430
     }
   ],
   "TotalAchievements": 29,
@@ -4741,7 +4746,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 180586
+      "UsersEstimate": 180588
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -4901,7 +4906,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19211
+      "UsersEstimate": 19212
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -4948,7 +4953,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 192113,
+      "Progressed": 192115,
       "Completed": 430
     }
   ],
@@ -4956,8 +4961,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-02T10:59:31.3885731+00:00",
-  "LastChanged_Achievements": "2023-06-03T23:06:21.7747307+00:00",
+  "LastChanged_Achievements": "2023-06-04T00:05:17.4317222+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:06.3904528+00:00",
-  "LastUpdate_Ratings": "2023-06-03T22:59:09.9434163+00:00",
-  "LastUpdate_Achievements": "2023-06-03T23:06:21.7747817+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:58:27.4240307+00:00",
+  "LastUpdate_Achievements": "2023-06-04T00:05:17.4317693+00:00"
 }

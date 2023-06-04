@@ -46,7 +46,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.40% | ~2,829 |
 | Martial Hub | 0.40% | ~66 |
 | Knowledge Greed | 0.30% | ~2,122 |
-| Secure, Protect, Leave | 0.30% | ~49 |
+| Secure, Protect, Leave | 0.30% | ~50 |
 | Drunken Fighter | 0.20% | ~1,414 |
 | Martial Artist | 0.20% | ~1,414 |
 | Healing Memory | 0.20% | ~1,414 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,194 (Ranked 15)  
+Progressed: 707,202 (Ranked 15)  
 Completed: 12,754 (1.80%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 12,754 (1.80%) (Ranked 68)
 | 2023-06-01 | 706,734 | 12,750 |
 | 2023-06-02 | 706,954 | 12,751 |
 | 2023-06-03 | 707,194 | 12,754 |
+| 2023-06-04 | 707,202 | 12,754 |
 ## Awards
 Max (Great Boss Battles): 6,130  (Ranked 53)  
 Sum: 10,457 (Ranked 78)  

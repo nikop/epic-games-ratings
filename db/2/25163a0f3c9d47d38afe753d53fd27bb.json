@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -23,8 +23,8 @@
   "Tags": [],
   "EOS_Progressed": 399,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 60,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 59,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 6.52,
   "EosHistory": [
     {
@@ -1162,9 +1162,9 @@
       "ID": "LEVEL_020",
       "SetID": "212bg48",
       "Name": "Go round and round",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 110,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "LEVEL_021",
@@ -1257,8 +1257,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-03T23:04:23.3580074+00:00",
+  "LastChanged_Achievements": "2023-06-04T00:03:34.3701712+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-03T22:57:22.1301816+00:00",
-  "LastUpdate_Achievements": "2023-06-03T23:04:23.3580349+00:00"
+  "LastUpdate_Ratings": "2023-06-03T23:56:59.5144466+00:00",
+  "LastUpdate_Achievements": "2023-06-04T00:03:34.370201+00:00"
 }
