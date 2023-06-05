@@ -4,7 +4,7 @@
   "ProductSlug": "7-billion-humans",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2018-08-23T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:40.3862176+00:00",
   "LastChanged": "2023-03-31T05:57:40.3862177+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.8408306+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:57:32.9669607+00:00",
-  "LastUpdate_Achievements": "2023-06-05T11:04:26.18938+00:00"
+  "LastUpdate_Ratings": "2023-06-05T11:58:00.6908344+00:00",
+  "LastUpdate_Achievements": "2023-06-05T12:04:53.3079002+00:00"
 }

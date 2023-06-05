@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14536,
+  "EOS_Progressed": 14541,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2815,6 +2815,11 @@
       "Time": "2023-06-05T11:03:44.6537581+00:00",
       "NumProgressed": 14536,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-05T12:04:21.7520087+00:00",
+      "NumProgressed": 14541,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2858,7 +2863,7 @@
       "Name": "Flesh Wound",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2962,15 +2967,15 @@
       "Name": "Terminated",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1018
+      "UsersEstimate": 872
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2986,7 +2991,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3042,7 +3047,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "STORY_MINETOWN",
@@ -3066,7 +3071,7 @@
       "Name": "Crash Site",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "STORY_TOWER",
@@ -3098,7 +3103,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3106,7 +3111,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3145,13 +3150,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14536,
+      "Progressed": 14541,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2462,
+      "Progressed": 2467,
       "Completed": 29
     }
   ],
@@ -3159,8 +3164,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-05T11:03:44.6537576+00:00",
+  "LastChanged_Achievements": "2023-06-05T12:04:21.7520081+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:57:47.1168948+00:00",
-  "LastUpdate_Achievements": "2023-06-05T11:03:44.6538022+00:00"
+  "LastUpdate_Ratings": "2023-06-05T11:58:14.1705761+00:00",
+  "LastUpdate_Achievements": "2023-06-05T12:04:21.7520509+00:00"
 }

@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 1027,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1421,9 +1421,9 @@
       "ID": "DEAD_DD",
       "SetID": "9a4jnji",
       "Name": "Ganglord",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 185
     },
     {
       "ID": "DEAD_DICK",
@@ -1573,9 +1573,9 @@
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 175
     },
     {
       "ID": "LUMBERJACK",
@@ -1734,8 +1734,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-04T14:58:28.7773787+00:00",
-  "LastChanged_Achievements": "2023-06-05T11:02:14.582052+00:00",
+  "LastChanged_Achievements": "2023-06-05T12:03:12.5083637+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:58:10.2424716+00:00",
-  "LastUpdate_Achievements": "2023-06-05T11:02:14.5821038+00:00"
+  "LastUpdate_Ratings": "2023-06-05T11:58:38.8012243+00:00",
+  "LastUpdate_Achievements": "2023-06-05T12:03:12.5084136+00:00"
 }

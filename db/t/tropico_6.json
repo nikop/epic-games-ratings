@@ -5,7 +5,7 @@
   "Ranking_Rating": 259,
   "Ranking_Popularity": 317,
   "Ranking_PopularitySum": 255,
-  "Ranking_EOS_Progress": 135,
+  "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 92,
@@ -888,7 +888,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3418,
+  "EOS_Progressed": 3419,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
@@ -3713,6 +3713,11 @@
       "Time": "2023-06-05T11:02:27.033833+00:00",
       "NumProgressed": 3418,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-05T12:03:24.6586529+00:00",
+      "NumProgressed": 3419,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3820,7 +3825,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3844,7 +3849,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3852,7 +3857,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -4004,7 +4009,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -4028,7 +4033,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -4043,15 +4048,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3418,
+      "Progressed": 3419,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-04T19:00:29.2975541+00:00",
-  "LastChanged_Achievements": "2023-06-05T11:02:27.0338325+00:00",
+  "LastChanged_Achievements": "2023-06-05T12:03:24.6586522+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:59:51.2109451+00:00",
-  "LastUpdate_Achievements": "2023-06-05T11:02:27.0338784+00:00"
+  "LastUpdate_Ratings": "2023-06-05T12:00:18.957502+00:00",
+  "LastUpdate_Achievements": "2023-06-05T12:03:24.6586981+00:00"
 }

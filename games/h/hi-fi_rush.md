@@ -19,7 +19,7 @@ Rating: 4.89 (Ranked 13)
 | Uh, they were broken when I got here | 46.00% | ~1,262 |
 | Z-shielding's got nothing on us! | 45.00% | ~1,234 |
 | Kissing the sky! | 44.00% | ~1,207 |
-| Does that say weakpoint? | 41.00% | ~1,125 |
+| Does that say weakpoint? | 42.00% | ~1,152 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,097 |
 | The Negotiator | 38.00% | ~1,042 |
 | You must like calling me in, Chai | 33.00% | ~905 |

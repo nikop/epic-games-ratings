@@ -392,9 +392,9 @@
       "ID": "ach_win_depression",
       "SetID": "7flpkel",
       "Name": "Deal with Depression",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_win_shock",
@@ -441,8 +441,8 @@
   "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00",
   "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
-  "LastChanged_Achievements": "2023-06-05T11:05:21.0370247+00:00",
+  "LastChanged_Achievements": "2023-06-05T12:05:48.1750554+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:19.299645+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:58:00.1768374+00:00",
-  "LastUpdate_Achievements": "2023-06-05T11:05:21.0370519+00:00"
+  "LastUpdate_Ratings": "2023-06-05T11:58:28.1866233+00:00",
+  "LastUpdate_Achievements": "2023-06-05T12:05:48.1750787+00:00"
 }

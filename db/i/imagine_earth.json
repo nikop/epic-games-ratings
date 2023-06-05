@@ -202,9 +202,9 @@
       "ID": "CampaignStars3",
       "SetID": "c2k469b",
       "Name": "Campaign Gold",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "CampaignStars4",
@@ -379,8 +379,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-06-05T11:00:47.9535754+00:00",
+  "LastChanged_Achievements": "2023-06-05T12:01:17.2100339+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:35.7552132+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:58:58.4139222+00:00",
-  "LastUpdate_Achievements": "2023-06-05T11:00:47.9535935+00:00"
+  "LastUpdate_Ratings": "2023-06-05T11:59:29.4731466+00:00",
+  "LastUpdate_Achievements": "2023-06-05T12:01:17.2100503+00:00"
 }

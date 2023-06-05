@@ -18,8 +18,8 @@ Number of Ratings: 706  (23.09.2022)
 | Studious Researcher | 47.00% | ~1,481 |
 | Home Cooked Meal | 46.00% | ~1,450 |
 | Feast or Famine | 46.00% | ~1,450 |
-| Beam Me Up | 44.00% | ~1,387 |
-| Adept Researcher | 43.00% | ~1,355 |
+| Beam Me Up | 45.00% | ~1,418 |
+| Adept Researcher | 44.00% | ~1,387 |
 | Luminary Researcher | 38.00% | ~1,198 |
 | Retribution | 35.00% | ~1,103 |
 | Fit For A King | 35.00% | ~1,103 |

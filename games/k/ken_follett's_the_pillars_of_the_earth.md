@@ -6,25 +6,25 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,458 |
+| Tattletale | 42.00% | ~5,459 |
 | Man of politics | 36.00% | ~4,679 |
 | Friends of sorts | 34.00% | ~4,419 |
 | Yet another secret | 34.00% | ~4,419 |
 | Let there be darkness | 33.00% | ~4,289 |
 | End of Book One | 31.00% | ~4,029 |
-| Garden of Eden | 25.00% | ~3,249 |
-| Wannabe knight | 24.00% | ~3,119 |
-| Full house | 24.00% | ~3,119 |
-| Help an old friend | 22.00% | ~2,859 |
-| Two of us | 20.00% | ~2,599 |
-| Negotiation skills | 19.00% | ~2,469 |
-| Workers' union | 18.00% | ~2,339 |
-| End of Book Two | 18.00% | ~2,339 |
-| Everything's in order | 17.00% | ~2,209 |
-| Jack was here! | 15.00% | ~1,949 |
-| Twist of Fate | 14.00% | ~1,819 |
-| Exterminator | 14.00% | ~1,819 |
-| Whodunnit | 13.00% | ~1,689 |
+| Garden of Eden | 25.00% | ~3,250 |
+| Wannabe knight | 24.00% | ~3,120 |
+| Full house | 24.00% | ~3,120 |
+| Help an old friend | 22.00% | ~2,860 |
+| Two of us | 20.00% | ~2,600 |
+| Negotiation skills | 19.00% | ~2,470 |
+| Workers' union | 18.00% | ~2,340 |
+| End of Book Two | 18.00% | ~2,340 |
+| Everything's in order | 17.00% | ~2,210 |
+| Jack was here! | 15.00% | ~1,950 |
+| Twist of Fate | 14.00% | ~1,820 |
+| Exterminator | 14.00% | ~1,820 |
+| Whodunnit | 13.00% | ~1,690 |
 | Good midwife | 11.00% | ~1,430 |
 | Friar Tuck | 11.00% | ~1,430 |
 | First profit | 11.00% | ~1,430 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~390 |
 | Boy of mystery | 2.00% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,996 (Ranked 105)  
+Progressed: 12,998 (Ranked 105)  
 Completed: 99 (0.76%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 99 (0.76%) (Ranked 101)
 | 2023-06-02 | 12,925 | 97 |
 | 2023-06-03 | 12,953 | 97 |
 | 2023-06-04 | 12,985 | 99 |
-| 2023-06-05 | 12,996 | 99 |
+| 2023-06-05 | 12,998 | 99 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 288)  
 Sum: 188 (Ranked 356)  

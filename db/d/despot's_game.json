@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,11 +35,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 392,
+  "EOS_Progressed": 393,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.26,
+  "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.8924559+00:00",
@@ -245,6 +245,11 @@
       "Time": "2023-06-04T21:07:32.4326721+00:00",
       "NumProgressed": 392,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-05T12:05:58.3644844+00:00",
+      "NumProgressed": 393,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -288,7 +293,7 @@
       "Name": "Frugal",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "collect-discounted-items2",
@@ -312,7 +317,7 @@
       "Name": "Party",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "different-items2",
@@ -328,7 +333,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "finished-quest-cube",
@@ -336,7 +341,7 @@
       "Name": "Impossible Cube",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "finished-quest-flight",
@@ -360,7 +365,7 @@
       "Name": "Feed a God",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "finished-quest-pit",
@@ -374,17 +379,17 @@
       "ID": "finished-quest-rat",
       "SetID": "799afm0",
       "Name": "The Return of a Rat",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 153
     },
     {
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 102
     },
     {
       "ID": "finished-quest-sci",
@@ -392,7 +397,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "finished-quest-secret",
@@ -400,7 +405,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "finished-quest-sword",
@@ -432,7 +437,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "save-zombie",
@@ -472,7 +477,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "win-first-level",
@@ -480,7 +485,7 @@
       "Name": "Good start!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "win-koth-fights1",
@@ -535,7 +540,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 392,
+      "Progressed": 393,
       "Completed": 1
     }
   ],
@@ -543,8 +548,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-05T11:05:31.1350161+00:00",
+  "LastChanged_Achievements": "2023-06-05T12:05:58.3644838+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.398253+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:58:30.6148607+00:00",
-  "LastUpdate_Achievements": "2023-06-05T11:05:31.1350428+00:00"
+  "LastUpdate_Ratings": "2023-06-05T11:58:59.4048197+00:00",
+  "LastUpdate_Achievements": "2023-06-05T12:05:58.364508+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 238,
+  "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232,
+  "EOS_Progressed": 233,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -248,6 +248,11 @@
       "Time": "2023-06-05T04:06:38.8433973+00:00",
       "NumProgressed": 232,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-05T12:05:41.5337216+00:00",
+      "NumProgressed": 233,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -353,9 +358,9 @@
       "ID": "success_hazel",
       "SetID": "6h5h9ho",
       "Name": "The individualist",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "success_jake",
@@ -371,7 +376,7 @@
       "Name": "The intellectual",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "success_lucas",
@@ -410,7 +415,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 232,
+      "Progressed": 233,
       "Completed": 3
     }
   ],
@@ -418,8 +423,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-06-05T11:05:14.2384535+00:00",
+  "LastChanged_Achievements": "2023-06-05T12:05:41.5337208+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:29.1261182+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:57:20.6460962+00:00",
-  "LastUpdate_Achievements": "2023-06-05T11:05:14.2384885+00:00"
+  "LastUpdate_Ratings": "2023-06-05T11:57:47.4415627+00:00",
+  "LastUpdate_Achievements": "2023-06-05T12:05:41.5337349+00:00"
 }

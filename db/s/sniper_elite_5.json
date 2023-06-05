@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2270,
+  "EOS_Progressed": 2273,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2555,6 +2555,11 @@
       "Time": "2023-06-05T11:05:28.3715981+00:00",
       "NumProgressed": 2270,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T12:05:55.5738404+00:00",
+      "NumProgressed": 2273,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2630,7 +2635,7 @@
       "Name": "Organ Grinder",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2646,7 +2651,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2734,7 +2739,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2806,7 +2811,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2902,7 +2907,7 @@
       "Name": "Change the Channel",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -2958,7 +2963,7 @@
       "Name": "Target America",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3133,13 +3138,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2221,
+      "Progressed": 2224,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2270,
+      "Progressed": 2273,
       "Completed": 2
     }
   ],
@@ -3147,8 +3152,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-05T11:05:28.3715976+00:00",
+  "LastChanged_Achievements": "2023-06-05T12:05:55.5738397+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-05T11:00:11.7867186+00:00",
-  "LastUpdate_Achievements": "2023-06-05T11:05:28.3716773+00:00"
+  "LastUpdate_Ratings": "2023-06-05T12:00:39.9214163+00:00",
+  "LastUpdate_Achievements": "2023-06-05T12:05:55.5739183+00:00"
 }

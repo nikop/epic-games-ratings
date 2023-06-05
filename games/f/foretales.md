@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Caged tiger | 61.00% | ~158 |
-| Gorilla warfare | 57.00% | ~148 |
+| Gorilla warfare | 58.00% | ~150 |
 | Isenburg's fall | 48.00% | ~124 |
 | Pieces of eight! | 41.00% | ~106 |
 | Aboard the Sea Bird | 31.00% | ~80 |

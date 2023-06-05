@@ -24,11 +24,11 @@ Rating: 4.34 (Ranked 734)
 | Recycler | 22.00% | ~226 |
 | Are you not entertained? | 18.00% | ~185 |
 | Chain Killer | 18.00% | ~185 |
+| Ganglord | 18.00% | ~185 |
 | Jarhead | 18.00% | ~185 |
-| Ganglord | 17.00% | ~175 |
+| Infiltrator | 17.00% | ~175 |
 | Pushing Daisy | 17.00% | ~175 |
 | Hold The Line | 16.00% | ~164 |
-| Infiltrator | 16.00% | ~164 |
 | There Can Be Only One! | 16.00% | ~164 |
 | Experienced | 14.00% | ~144 |
 | Newtonian Knockout | 13.00% | ~134 |

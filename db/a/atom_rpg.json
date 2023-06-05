@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -352,9 +352,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 906,
+  "EOS_Progressed": 907,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1107,6 +1107,11 @@
       "Time": "2023-06-04T21:07:40.727921+00:00",
       "NumProgressed": 906,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T12:06:14.661588+00:00",
+      "NumProgressed": 907,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1174,7 +1179,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "EXPERT_1",
@@ -1292,9 +1297,9 @@
       "ID": "PARANOIA",
       "SetID": "bf13m8j",
       "Name": "Paranoia",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 136
     },
     {
       "ID": "PRIVATE_EYE",
@@ -1302,7 +1307,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -1364,17 +1369,17 @@
       "ID": "SUPERHUMAN_1",
       "SetID": "bf13m8j",
       "Name": "Superhuman",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 63
     },
     {
       "ID": "TRAVELER_1",
       "SetID": "bf13m8j",
       "Name": "Traveler",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 218
     },
     {
       "ID": "VVE",
@@ -1405,15 +1410,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 906,
+      "Progressed": 907,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-03T14:00:49.4692031+00:00",
-  "LastChanged_Achievements": "2023-06-05T11:05:37.3064801+00:00",
+  "LastChanged_Achievements": "2023-06-05T12:06:14.6615873+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.2333517+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:59:49.4292983+00:00",
-  "LastUpdate_Achievements": "2023-06-05T11:05:37.3065114+00:00"
+  "LastUpdate_Ratings": "2023-06-05T12:00:17.980305+00:00",
+  "LastUpdate_Achievements": "2023-06-05T12:06:14.6616181+00:00"
 }

@@ -8,7 +8,7 @@
 | Skinner | 52.00% | ~22 |
 | Deal with Anger | 31.00% | ~13 |
 | Robolimb Ripper | 17.00% | ~7 |
-| Deal with Depression | 14.00% | ~6 |
+| Deal with Depression | 17.00% | ~7 |
 | Total Shock | 10.00% | ~4 |
 | No Shock Race | 7.00% | ~3 |
 | Bronze Tunnel Collector | 5.00% | ~2 |

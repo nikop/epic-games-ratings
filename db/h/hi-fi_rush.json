@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 2743,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2734,9 +2734,9 @@
       "ID": "Ach053",
       "SetID": "12n4k20",
       "Name": "Does that say weakpoint?",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1152
     },
     {
       "ID": "Ach054",
@@ -2821,8 +2821,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-03T21:58:22.8890273+00:00",
-  "LastChanged_Achievements": "2023-06-05T11:05:37.3593037+00:00",
+  "LastChanged_Achievements": "2023-06-05T12:06:14.7926427+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:48.102192+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:58:22.985543+00:00",
-  "LastUpdate_Achievements": "2023-06-05T11:05:37.3593755+00:00"
+  "LastUpdate_Ratings": "2023-06-05T11:58:51.1865968+00:00",
+  "LastUpdate_Achievements": "2023-06-05T12:06:14.7927105+00:00"
 }

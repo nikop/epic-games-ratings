@@ -4,7 +4,7 @@
   "ProductSlug": "falcon-age",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2019-09-06T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:06.3264266+00:00",
   "LastChanged": "2023-03-31T05:58:06.3264267+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.3108939+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:57:46.7234045+00:00",
-  "LastUpdate_Achievements": "2023-06-05T11:02:17.0524478+00:00"
+  "LastUpdate_Ratings": "2023-06-05T11:58:13.6496561+00:00",
+  "LastUpdate_Achievements": "2023-06-05T12:03:14.8154598+00:00"
 }
