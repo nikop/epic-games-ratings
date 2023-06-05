@@ -6,46 +6,46 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Déjà vu | 100.00% | ~2 |
-| Where's that freaking Dwarf? | 100.00% | ~2 |
-| Sock! SOCK! | 100.00% | ~2 |
-| Alt+F4 | 100.00% | ~2 |
-| Speedrun | 100.00% | ~2 |
-| Fireproof Wizardess | 100.00% | ~2 |
-| Livin' in a dwarven paradise | 50.00% | ~1 |
-| Cursed die | 50.00% | ~1 |
-| Shiny and Crôm | 50.00% | ~1 |
-| Way of the Wimp | 50.00% | ~1 |
-| Scholar of the Lands of Fangh | 50.00% | ~1 |
-| The plot thickens... At the tavern | 50.00% | ~1 |
-| The demons' feast | 50.00% | ~1 |
-| The Great Library | 50.00% | ~1 |
-| Urik's Depths | 50.00% | ~1 |
-| The Statuette of Gladeulfeurah | 50.00% | ~1 |
-| Necrophilia | 50.00% | ~1 |
-| He’s alive! Aliiiive! | 50.00% | ~1 |
-| Elite Adventurers | 50.00% | ~1 |
-| Take your time back in time | 50.00% | ~1 |
-| Egghead | 50.00% | ~1 |
-| The Famous Dungeon of Naheulbeuk | 50.00% | ~1 |
-| A tale of adventurers not quite like the others... | 50.00% | ~1 |
-| Dwarf Fortress | 50.00% | ~1 |
-| Look but don't touch | 50.00% | ~1 |
-| GG EZ | 50.00% | ~1 |
-| DM intervention | 50.00% | ~1 |
-| The beards of change | 50.00% | ~1 |
-| An old poacher makes the best gamekeeper | 50.00% | ~1 |
-| Dead for good | 50.00% | ~1 |
-| Super-Ultra-Lydian | 50.00% | ~1 |
-| Gargantua | 50.00% | ~1 |
-| Law and Order | 50.00% | ~1 |
-| Lëgal Legend | 50.00% | ~1 |
-| The Ranger of Chaos | 50.00% | ~1 |
-| I am the night | 50.00% | ~1 |
-| Thieves' Guild Accreditation | 50.00% | ~1 |
-| Team Building Exercise | 50.00% | ~1 |
-| Oh, when I'll be level 10... | 50.00% | ~1 |
-| Material Girl | 50.00% | ~1 |
+| Where's that freaking Dwarf? | 100.00% | ~4 |
+| Alt+F4 | 100.00% | ~4 |
+| Déjà vu | 75.00% | ~3 |
+| Speedrun | 75.00% | ~3 |
+| Sock! SOCK! | 50.00% | ~2 |
+| GG EZ | 50.00% | ~2 |
+| DM intervention | 50.00% | ~2 |
+| Fireproof Wizardess | 50.00% | ~2 |
+| Livin' in a dwarven paradise | 25.00% | ~1 |
+| Cursed die | 25.00% | ~1 |
+| Shiny and Crôm | 25.00% | ~1 |
+| Way of the Wimp | 25.00% | ~1 |
+| Scholar of the Lands of Fangh | 25.00% | ~1 |
+| The plot thickens... At the tavern | 25.00% | ~1 |
+| The demons' feast | 25.00% | ~1 |
+| The Great Library | 25.00% | ~1 |
+| Urik's Depths | 25.00% | ~1 |
+| The Statuette of Gladeulfeurah | 25.00% | ~1 |
+| Necrophilia | 25.00% | ~1 |
+| He’s alive! Aliiiive! | 25.00% | ~1 |
+| Elite Adventurers | 25.00% | ~1 |
+| Take your time back in time | 25.00% | ~1 |
+| Egghead | 25.00% | ~1 |
+| The Famous Dungeon of Naheulbeuk | 25.00% | ~1 |
+| A tale of adventurers not quite like the others... | 25.00% | ~1 |
+| Dwarf Fortress | 25.00% | ~1 |
+| Look but don't touch | 25.00% | ~1 |
+| The beards of change | 25.00% | ~1 |
+| An old poacher makes the best gamekeeper | 25.00% | ~1 |
+| Dead for good | 25.00% | ~1 |
+| Super-Ultra-Lydian | 25.00% | ~1 |
+| Gargantua | 25.00% | ~1 |
+| Law and Order | 25.00% | ~1 |
+| Lëgal Legend | 25.00% | ~1 |
+| The Ranger of Chaos | 25.00% | ~1 |
+| I am the night | 25.00% | ~1 |
+| Thieves' Guild Accreditation | 25.00% | ~1 |
+| Team Building Exercise | 25.00% | ~1 |
+| Oh, when I'll be level 10... | 25.00% | ~1 |
+| Material Girl | 25.00% | ~1 |
 | Holistic Adventuring Party | 0.00% | ~0 |
 | A beer, two curses, three companions | 0.00% | ~0 |
 | Torture and Sensibility | 0.00% | ~0 |
@@ -95,12 +95,12 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 395)  
+Progressed: 4 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-06-05 | 2 | 0 |
+| 2023-06-05 | 4 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 378)  
 Sum: 61 (Ranked 431)  

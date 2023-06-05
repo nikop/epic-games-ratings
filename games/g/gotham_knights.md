@@ -6,10 +6,10 @@ Rating: 4.17 (Ranked 846)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 4.00% | ~2,549 |
+| Har, Har, Har, Very Funny | 3.00% | ~1,912 |
 | The Batman Family | 2.00% | ~1,274 |
 | To the Victor Go the Spoils | 2.00% | ~1,274 |
 | Quartzer Life Crisis | 2.00% | ~1,274 |
-| Har, Har, Har, Very Funny | 2.00% | ~1,274 |
 | Get ReQ'd | 2.00% | ~1,274 |
 | Working Hard or Harley Working? | 2.00% | ~1,274 |
 | Knighthood | 2.00% | ~1,274 |
@@ -31,9 +31,9 @@ Rating: 4.17 (Ranked 846)
 | From Inside Gotham's Walls | 1.00% | ~637 |
 | Voiceless | 1.00% | ~637 |
 | Seeking Asylum | 1.00% | ~637 |
-| End of an Era | 0.90% | ~573 |
-| Bulldozed | 0.90% | ~573 |
-| Gotham Knight | 0.90% | ~573 |
+| End of an Era | 0.90% | ~574 |
+| Bulldozed | 0.90% | ~574 |
+| Gotham Knight | 0.90% | ~574 |
 | Gotham City Confidential | 0.80% | ~510 |
 | Out of Their League | 0.70% | ~446 |
 | Drone You Out | 0.70% | ~446 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 846)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,721 (Ranked 71)  
+Progressed: 63,724 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 93 (0.15%) (Ranked 154)
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
 | 2023-06-04 | 63,645 | 93 |
-| 2023-06-05 | 63,721 | 93 |
+| 2023-06-05 | 63,724 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,296  (Ranked 97)  
 Sum: 3,800 (Ranked 136)  

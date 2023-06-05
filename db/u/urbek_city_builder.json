@@ -809,9 +809,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -833,9 +833,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "MILLS",
@@ -1122,8 +1122,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-05T15:08:16.905589+00:00",
+  "LastChanged_Achievements": "2023-06-05T16:06:29.0253986+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:07.2808901+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:00:10.0387611+00:00",
-  "LastUpdate_Achievements": "2023-06-05T15:08:16.905673+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:59:01.1888146+00:00",
+  "LastUpdate_Achievements": "2023-06-05T16:06:29.0254804+00:00"
 }

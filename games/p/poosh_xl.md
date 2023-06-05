@@ -22,7 +22,7 @@
 | Challenge 08 | 2.00% | ~2 |
 | Challenge 09 | 2.00% | ~2 |
 | Challenge 10 | 2.00% | ~2 |
-| Challenge 11 | 0.80% | ~1 |
+| Challenge 11 | 2.00% | ~2 |
 | Challenge 12 | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 119 (Ranked 268)  

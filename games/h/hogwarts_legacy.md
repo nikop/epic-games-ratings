@@ -5,40 +5,40 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~22,116 |
-| Grappling with a Graphorn | 7.00% | ~19,352 |
-| The One Who Mastered Memories | 7.00% | ~19,352 |
-| The Hallowed Hero | 7.00% | ~19,352 |
-| First Class Student | 7.00% | ~19,352 |
-| Troll with the Punches | 7.00% | ~19,352 |
-| The Hero of Hogwarts | 6.00% | ~16,587 |
-| The Defender of Dragons | 6.00% | ~16,587 |
-| Challenge Accepted | 6.00% | ~16,587 |
-| A Keen Sense of Spell | 6.00% | ~16,587 |
-| Loom for Improvement | 6.00% | ~16,587 |
-| A Talent for Spending | 6.00% | ~16,587 |
-| Coasting Along | 6.00% | ~16,587 |
-| That's a Keeper | 6.00% | ~16,587 |
-| Rising From the Ashes | 6.00% | ~16,587 |
-| The Avenging Gazelle | 5.00% | ~13,823 |
-| Beast Friends | 5.00% | ~13,823 |
-| A Sallow Grave | 5.00% | ~13,823 |
-| Flight the Good Flight | 5.00% | ~13,823 |
-| Followed the Butterflies | 5.00% | ~13,823 |
-| The Spell Master | 5.00% | ~13,823 |
-| The Seeker of Knowledge | 4.00% | ~11,058 |
-| The Root of the Problem | 4.00% | ~11,058 |
-| Third Time's a Charm | 4.00% | ~11,058 |
+| The Sort Who Makes an Entrance | 8.00% | ~22,118 |
+| Grappling with a Graphorn | 7.00% | ~19,353 |
+| The One Who Mastered Memories | 7.00% | ~19,353 |
+| The Hallowed Hero | 7.00% | ~19,353 |
+| First Class Student | 7.00% | ~19,353 |
+| Troll with the Punches | 7.00% | ~19,353 |
+| That's a Keeper | 7.00% | ~19,353 |
+| The Hero of Hogwarts | 6.00% | ~16,589 |
+| The Defender of Dragons | 6.00% | ~16,589 |
+| Challenge Accepted | 6.00% | ~16,589 |
+| A Keen Sense of Spell | 6.00% | ~16,589 |
+| Loom for Improvement | 6.00% | ~16,589 |
+| A Talent for Spending | 6.00% | ~16,589 |
+| Coasting Along | 6.00% | ~16,589 |
+| Rising From the Ashes | 6.00% | ~16,589 |
+| The Avenging Gazelle | 5.00% | ~13,824 |
+| Beast Friends | 5.00% | ~13,824 |
+| A Sallow Grave | 5.00% | ~13,824 |
+| Flight the Good Flight | 5.00% | ~13,824 |
+| Followed the Butterflies | 5.00% | ~13,824 |
+| The Spell Master | 5.00% | ~13,824 |
+| The Seeker of Knowledge | 4.00% | ~11,059 |
+| The Root of the Problem | 4.00% | ~11,059 |
+| Third Time's a Charm | 4.00% | ~11,059 |
 | The Toast of the Town | 3.00% | ~8,294 |
 | Room with a View | 3.00% | ~8,294 |
 | The Intrepid Explorer | 3.00% | ~8,294 |
 | The Ends Petrify the Means | 3.00% | ~8,294 |
 | Raising Expectations | 3.00% | ~8,294 |
-| Going Through the Potions | 2.00% | ~5,529 |
-| Put Down Roots | 2.00% | ~5,529 |
-| Floo Around the World | 2.00% | ~5,529 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,529 |
-| The Wise Owl | 2.00% | ~5,529 |
+| Going Through the Potions | 2.00% | ~5,530 |
+| Put Down Roots | 2.00% | ~5,530 |
+| Floo Around the World | 2.00% | ~5,530 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,530 |
+| The Wise Owl | 2.00% | ~5,530 |
 | The Good Samaritan | 1.00% | ~2,765 |
 | The Auror's Apprentice | 1.00% | ~2,765 |
 | Rise to the Challenges | 1.00% | ~2,765 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.40% | ~1,106 |
 | Collector's Edition | 0.20% | ~553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 276,456 (Ranked 40)  
+Progressed: 276,477 (Ranked 40)  
 Completed: 388 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,20 +97,20 @@ Completed: 388 (0.14%) (Ranked 156)
 | 2023-06-02 | 275,430 | 383 |
 | 2023-06-03 | 275,838 | 383 |
 | 2023-06-04 | 276,277 | 386 |
-| 2023-06-05 | 276,456 | 388 |
+| 2023-06-05 | 276,477 | 388 |
 ## Awards
 Max (Character Customization): 19,577  (Ranked 18)  
-Sum: 36,190 (Ranked 32)  
+Sum: 36,202 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 19,577 |
 | This game has Great Boss Battles | 9,270 |
+| This game is Great for Beginners | 814 |
 | This game is Relaxing | 812 |
-| This game is Great for Beginners | 811 |
 | This game is Extremely Fun | 803 |
+| This game has Diverse Characters | 788 |
 | This game has Amazing Storytelling | 785 |
-| This game has Diverse Characters | 779 |
 | This game has Amazing Characters | 763 |
 | This game is Highly Recommended | 752 |
 | This game has Quickly Understood Controls | 693 |
@@ -192,4 +192,4 @@ Diff (max vs sum): -14
 | 2023-06-02 | 4.77 | 19,435 | 35,932 |
 | 2023-06-03 | 4.77 | 19,478 | 36,029 |
 | 2023-06-04 | 4.77 | 19,531 | 36,142 |
-| 2023-06-05 | 4.77 | 19,577 | 36,190 |
+| 2023-06-05 | 4.77 | 19,577 | 36,202 |

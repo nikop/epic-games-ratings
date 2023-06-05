@@ -2,9 +2,9 @@
   "ID": "ed0abf2ea33d4c76ad24ee0aad5f1430",
   "Name": "Poi",
   "ProductSlug": "poi-08959d",
-  "Ranking_EOS_Progress": 395,
+  "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-01T17:00:00+00:00",
@@ -244,8 +244,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:53.5136061+00:00",
-  "LastChanged_Achievements": "2023-06-05T15:08:05.2190509+00:00",
+  "LastChanged_Achievements": "2023-06-05T16:06:19.7943981+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:11.7504475+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:01:38.429187+00:00",
-  "LastUpdate_Achievements": "2023-06-05T15:08:05.2190682+00:00"
+  "LastUpdate_Ratings": "2023-06-05T16:00:13.1715617+00:00",
+  "LastUpdate_Achievements": "2023-06-05T16:06:19.7944161+00:00"
 }

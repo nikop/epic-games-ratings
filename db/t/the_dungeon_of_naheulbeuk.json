@@ -5,9 +5,9 @@
   "Ranking_Rating": 197,
   "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 431,
-  "Ranking_EOS_Progress": 395,
+  "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -378,15 +378,20 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-06-05T15:06:23.5107658+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T16:04:58.9241808+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -397,7 +402,7 @@
       "ID": "10000Gold",
       "SetID": "50chcgj",
       "Name": "Livin\u0027 in a dwarven paradise",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -405,7 +410,7 @@
       "ID": "100Fail",
       "SetID": "50chcgj",
       "Name": "Cursed die",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -421,7 +426,7 @@
       "ID": "BarbarianEpic",
       "SetID": "50chcgj",
       "Name": "Shiny and Cr\u00F4m",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -429,7 +434,7 @@
       "ID": "BarbarianKillUsingBow",
       "SetID": "50chcgj",
       "Name": "Way of the Wimp",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -437,7 +442,7 @@
       "ID": "BookCollection",
       "SetID": "50chcgj",
       "Name": "Scholar of the Lands of Fangh",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -445,9 +450,9 @@
       "ID": "Chapter1",
       "SetID": "50chcgj",
       "Name": "D\u00E9j\u00E0 vu",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Chapter2",
@@ -461,7 +466,7 @@
       "ID": "Chapter3",
       "SetID": "50chcgj",
       "Name": "The plot thickens... At the tavern",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -469,7 +474,7 @@
       "ID": "Chapter4",
       "SetID": "50chcgj",
       "Name": "The demons\u0027 feast",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -477,7 +482,7 @@
       "ID": "Chapter5",
       "SetID": "50chcgj",
       "Name": "The Great Library",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -493,7 +498,7 @@
       "ID": "Chapter7",
       "SetID": "50chcgj",
       "Name": "Urik\u0027s Depths",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -509,7 +514,7 @@
       "ID": "Chapter9",
       "SetID": "50chcgj",
       "Name": "The Statuette of Gladeulfeurah",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -557,7 +562,7 @@
       "ID": "DLC1ChooseNecro",
       "SetID": "50p8kh1",
       "Name": "Necrophilia",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -573,7 +578,7 @@
       "ID": "DLC1SummonTroll",
       "SetID": "50p8kh1",
       "Name": "He\u2019s alive! Aliiiive!",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -629,7 +634,7 @@
       "ID": "DLC3AllLegendaryWeapons",
       "SetID": "50p8kh1",
       "Name": "Elite Adventurers",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -637,7 +642,7 @@
       "ID": "DLC3AllSideQuests",
       "SetID": "50p8kh1",
       "Name": "Take your time back in time",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -645,7 +650,7 @@
       "ID": "DLC3BigBrain",
       "SetID": "50p8kh1",
       "Name": "Egghead",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -749,7 +754,7 @@
       "ID": "DifficultyHero",
       "SetID": "50chcgj",
       "Name": "The Famous Dungeon of Naheulbeuk",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -781,7 +786,7 @@
       "ID": "DifficultyStory",
       "SetID": "50chcgj",
       "Name": "A tale of adventurers not quite like the others...",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -799,7 +804,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "DwarfElf15Support",
@@ -813,7 +818,7 @@
       "ID": "DwarfEpic",
       "SetID": "50chcgj",
       "Name": "Dwarf Fortress",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -829,7 +834,7 @@
       "ID": "DwarfLevel2",
       "SetID": "50chcgj",
       "Name": "Sock! SOCK!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -837,7 +842,7 @@
       "ID": "ElfEpic",
       "SetID": "50chcgj",
       "Name": "Look but don\u0027t touch",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -863,7 +868,7 @@
       "Name": "GG EZ",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EndCombatOneHp",
@@ -871,7 +876,7 @@
       "Name": "DM intervention",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EndGameCursed",
@@ -895,13 +900,13 @@
       "Name": "Alt\u002BF4",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "FollowBraztok",
       "SetID": "50chcgj",
       "Name": "The beards of change",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -909,7 +914,7 @@
       "ID": "FollowNarzatok",
       "SetID": "50chcgj",
       "Name": "An old poacher makes the best gamekeeper",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -925,7 +930,7 @@
       "ID": "KillDungeonLich",
       "SetID": "50chcgj",
       "Name": "Dead for good",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -941,7 +946,7 @@
       "ID": "MinistrelEpic",
       "SetID": "50chcgj",
       "Name": "Super-Ultra-Lydian",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -949,7 +954,7 @@
       "ID": "OgreEpic",
       "SetID": "50chcgj",
       "Name": "Gargantua",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -965,7 +970,7 @@
       "ID": "PaladineEpic",
       "SetID": "50chcgj",
       "Name": "Law and Order",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1005,7 +1010,7 @@
       "ID": "QuestPaladine",
       "SetID": "50chcgj",
       "Name": "L\u00EBgal Legend",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1021,7 +1026,7 @@
       "ID": "RangerEpic",
       "SetID": "50chcgj",
       "Name": "The Ranger of Chaos",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1029,7 +1034,7 @@
       "ID": "Rogue30Backstab",
       "SetID": "50chcgj",
       "Name": "I am the night",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1037,7 +1042,7 @@
       "ID": "RogueEpic",
       "SetID": "50chcgj",
       "Name": "Thieves\u0027 Guild Accreditation",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1045,15 +1050,15 @@
       "ID": "Speedrun",
       "SetID": "50chcgj",
       "Name": "Speedrun",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SupportCount4",
       "SetID": "50chcgj",
       "Name": "Team Building Exercise",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1077,7 +1082,7 @@
       "ID": "TeamLevel10",
       "SetID": "50chcgj",
       "Name": "Oh, when I\u0027ll be level 10...",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1085,7 +1090,7 @@
       "ID": "WizardEpic",
       "SetID": "50chcgj",
       "Name": "Material Girl",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1093,7 +1098,7 @@
       "ID": "WizardResistBurn",
       "SetID": "50chcgj",
       "Name": "Fireproof Wizardess",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 2
     }
@@ -1102,21 +1107,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 4,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 2,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-05T15:06:23.5107653+00:00",
+  "LastChanged_Achievements": "2023-06-05T16:04:58.9241803+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:21.831619+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:00:31.9883442+00:00",
-  "LastUpdate_Achievements": "2023-06-05T15:06:23.5109448+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:59:15.7908454+00:00",
+  "LastUpdate_Achievements": "2023-06-05T16:04:58.924283+00:00"
 }

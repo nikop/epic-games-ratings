@@ -11,7 +11,7 @@ Rating: 4.56 (Ranked 453)
 | Keep 'em coming! | 40.00% | ~248 |
 | Big Spender | 37.00% | ~230 |
 | The things they print nowadays | 37.00% | ~230 |
-| That's gotta hurt | 34.00% | ~211 |
+| That's gotta hurt | 35.00% | ~217 |
 | I think it's broke | 25.00% | ~155 |
 | The Ann Flores Combo Experience | 25.00% | ~155 |
 | Club Star | 23.00% | ~143 |

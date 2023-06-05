@@ -21,11 +21,11 @@
 | Archivist | 10.00% | ~14 |
 | Looper | 10.00% | ~14 |
 | Cataclysm | 9.00% | ~13 |
+| So Close | 8.00% | ~12 |
 | Transformers, cubes in disguise | 8.00% | ~12 |
 | Kaboom! | 8.00% | ~12 |
 | All Alone | 8.00% | ~12 |
 | Reunited | 8.00% | ~12 |
-| So Close | 7.00% | ~10 |
 | Final Charge | 7.00% | ~10 |
 | Summer Luvin' | 3.00% | ~4 |
 | So, this is the End? | 0.00% | ~0 |

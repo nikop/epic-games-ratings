@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Small town | 62.00% | ~137 |
-| I like parks | 48.00% | ~106 |
+| I like parks | 49.00% | ~108 |
 | It is nice to share with friends in the city | 25.00% | ~55 |
 | Sport is good for you | 25.00% | ~55 |
 | The spiritual world... | 24.00% | ~53 |
-| The woodcutter | 21.00% | ~46 |
+| The woodcutter | 22.00% | ~49 |
 | I like books | 19.00% | ~42 |
 | I like my life | 19.00% | ~42 |
 | Clean energy | 17.00% | ~38 |

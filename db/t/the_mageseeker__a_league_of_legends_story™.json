@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2264,
+  "EOS_Progressed": 2265,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2261,6 +2261,11 @@
       "Time": "2023-06-05T14:07:33.690294+00:00",
       "NumProgressed": 2264,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-05T16:06:18.4213309+00:00",
+      "NumProgressed": 2265,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2320,7 +2325,7 @@
       "Name": "Elemental master",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2336,7 +2341,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2352,7 +2357,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2376,7 +2381,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2408,7 +2413,7 @@
       "Name": "Old friend",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2456,7 +2461,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2480,7 +2485,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -2504,7 +2509,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2512,7 +2517,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2520,7 +2525,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2576,7 +2581,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2648,7 +2653,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2695,7 +2700,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2264,
+      "Progressed": 2265,
       "Completed": 1
     }
   ],
@@ -2703,8 +2708,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-06-05T15:08:03.3612816+00:00",
+  "LastChanged_Achievements": "2023-06-05T16:06:18.4213304+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.5523883+00:00",
-  "LastUpdate_Ratings": "2023-06-05T14:58:20.1284389+00:00",
-  "LastUpdate_Achievements": "2023-06-05T15:08:03.3613439+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:57:39.8047567+00:00",
+  "LastUpdate_Achievements": "2023-06-05T16:06:18.4213885+00:00"
 }

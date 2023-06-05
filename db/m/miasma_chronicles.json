@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1029,
+  "EOS_Progressed": 1030,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1324,6 +1324,11 @@
       "Time": "2023-06-05T15:03:51.6399261+00:00",
       "NumProgressed": 1029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T16:03:22.9363404+00:00",
+      "NumProgressed": 1030,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1341,9 +1346,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 196
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -1351,7 +1356,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1415,15 +1420,15 @@
       "Name": "Croaked",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "CRUELTY",
       "SetID": "9a4jnji",
       "Name": "Cruelty",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 21
     },
     {
       "ID": "CURVEBALL",
@@ -1487,7 +1492,7 @@
       "Name": "Endgame",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "EXORCIST",
@@ -1519,7 +1524,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1567,7 +1572,7 @@
       "Name": "Gun for Hire",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1599,7 +1604,7 @@
       "Name": "Lumberjack",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1637,9 +1642,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 772
     },
     {
       "ID": "RECYCLER",
@@ -1687,7 +1692,7 @@
       "Name": "Side Order",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -1703,7 +1708,7 @@
       "Name": "Technophobe",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1719,7 +1724,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "THE_WATCHERS",
@@ -1742,7 +1747,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1029,
+      "Progressed": 1030,
       "Completed": 0
     }
   ],
@@ -1750,8 +1755,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-05T15:03:51.6399255+00:00",
+  "LastChanged_Achievements": "2023-06-05T16:03:22.9363399+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-05T14:59:24.8934857+00:00",
-  "LastUpdate_Achievements": "2023-06-05T15:03:51.6399715+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:58:24.7780122+00:00",
+  "LastUpdate_Achievements": "2023-06-05T16:03:22.9363889+00:00"
 }

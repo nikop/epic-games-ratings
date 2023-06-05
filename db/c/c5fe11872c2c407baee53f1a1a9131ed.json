@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -84,6 +84,11 @@
       "Time": "2023-06-05T13:12:22.2555331+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T16:03:32.3737221+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -101,7 +106,7 @@
       "ID": "ach_boss2_zone",
       "SetID": "5a4225j",
       "Name": "Won Super Boss",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -133,7 +138,7 @@
       "ID": "ach_bp_30",
       "SetID": "5a4225j",
       "Name": "Ballpit 30 Seconds",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -149,7 +154,7 @@
       "ID": "ach_customized",
       "SetID": "5a4225j",
       "Name": "Customize Ship",
-      "Percentage": 57,
+      "Percentage": 53,
       "XP": 40,
       "UsersEstimate": 8
     },
@@ -157,7 +162,7 @@
       "ID": "ach_endless_120",
       "SetID": "5a4225j",
       "Name": "Endless 2 Minutes",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -165,7 +170,7 @@
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 100,
+      "Percentage": 93,
       "XP": 35,
       "UsersEstimate": 14
     },
@@ -173,7 +178,7 @@
       "ID": "ach_endless_60",
       "SetID": "5a4225j",
       "Name": "Endless 60 Seconds",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 35,
       "UsersEstimate": 5
     },
@@ -189,7 +194,7 @@
       "ID": "ach_endless_h_30",
       "SetID": "5a4225j",
       "Name": "Endless Hardcore 30 Seconds",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -253,9 +258,9 @@
       "ID": "ach_practiceperfect",
       "SetID": "5a4225j",
       "Name": "Practice Makes Perfect",
-      "Percentage": 36,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_pulser_zone",
@@ -302,13 +307,13 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-06-05T15:04:05.6309798+00:00",
+  "LastChanged_Achievements": "2023-06-05T16:03:32.3737216+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:07.5758155+00:00",
-  "LastUpdate_Ratings": "2023-06-05T14:57:14.8617492+00:00",
-  "LastUpdate_Achievements": "2023-06-05T15:04:05.6309993+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:56:53.6378312+00:00",
+  "LastUpdate_Achievements": "2023-06-05T16:03:32.3737411+00:00"
 }

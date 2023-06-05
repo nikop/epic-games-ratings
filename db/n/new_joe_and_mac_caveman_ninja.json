@@ -2,9 +2,9 @@
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
-  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 169,
+  "EOS_Progressed": 170,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -108,6 +108,11 @@
       "Time": "2023-06-04T20:05:31.3110483+00:00",
       "NumProgressed": 169,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T16:05:58.1973462+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -117,9 +122,9 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 88
     },
     {
       "ID": "02",
@@ -127,7 +132,7 @@
       "Name": "Crazy Jungle.",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "03",
@@ -143,15 +148,15 @@
       "Name": "At the top of the mountain.",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "05",
       "SetID": "6glb5g1",
       "Name": "A turbulent river.",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "06",
@@ -159,7 +164,7 @@
       "Name": "Dino Ride.",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "07",
@@ -173,9 +178,9 @@
       "ID": "08",
       "SetID": "6glb5g1",
       "Name": "Aggressive rocks.",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "09",
@@ -189,9 +194,9 @@
       "ID": "10",
       "SetID": "6glb5g1",
       "Name": "The mountain of peril.",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "11",
@@ -238,7 +243,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 169,
+      "Progressed": 170,
       "Completed": 2
     }
   ],
@@ -246,8 +251,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-06-05T15:07:49.6189727+00:00",
+  "LastChanged_Achievements": "2023-06-05T16:05:58.1973456+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:41.1874088+00:00",
-  "LastUpdate_Ratings": "2023-06-05T14:58:16.6764145+00:00",
-  "LastUpdate_Achievements": "2023-06-05T15:07:49.6189799+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:57:37.510458+00:00",
+  "LastUpdate_Achievements": "2023-06-05T16:05:58.1973577+00:00"
 }

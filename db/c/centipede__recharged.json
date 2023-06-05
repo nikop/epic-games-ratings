@@ -6,9 +6,9 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,11 +296,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14259,
-  "EOS_Completed": 91,
-  "EOS_NewPlayers": 194,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Progressed": 14262,
+  "EOS_Completed": 92,
+  "EOS_NewPlayers": 193,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.2496506+00:00",
@@ -3816,6 +3816,11 @@
       "Time": "2023-06-05T11:03:30.757605+00:00",
       "NumProgressed": 14259,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-06-05T16:01:13.2166238+00:00",
+      "NumProgressed": 14262,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 16,
@@ -3835,7 +3840,7 @@
       "Name": "Burning For You",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4135
+      "UsersEstimate": 4136
     },
     {
       "ID": "Deadline",
@@ -3875,7 +3880,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4705
+      "UsersEstimate": 4706
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -3899,7 +3904,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6131
+      "UsersEstimate": 6133
     },
     {
       "ID": "Mirrors",
@@ -3923,7 +3928,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7272
+      "UsersEstimate": 7274
     },
     {
       "ID": "Sole_Survivor",
@@ -3931,7 +3936,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5276
+      "UsersEstimate": 5277
     },
     {
       "ID": "Still_Burning",
@@ -3954,15 +3959,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14259,
-      "Completed": 91
+      "Progressed": 14262,
+      "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-05T14:04:34.8330772+00:00",
+  "LastChanged_Achievements": "2023-06-05T16:01:13.2166005+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:21.5801911+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:00:31.301272+00:00",
-  "LastUpdate_Achievements": "2023-06-05T14:04:34.8331207+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:59:15.4099678+00:00",
+  "LastUpdate_Achievements": "2023-06-05T16:01:13.2188699+00:00"
 }

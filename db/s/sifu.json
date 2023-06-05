@@ -4428,9 +4428,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 707527,
+  "EOS_Progressed": 707534,
   "EOS_Completed": 12758,
-  "EOS_NewPlayers": 1321,
+  "EOS_NewPlayers": 1317,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8628,6 +8628,11 @@
       "Time": "2023-06-05T15:08:15.8680533+00:00",
       "NumProgressed": 707527,
       "NumCompleted": 12758
+    },
+    {
+      "Time": "2023-06-05T16:06:27.9556052+00:00",
+      "NumProgressed": 707534,
+      "NumCompleted": 12758
     }
   ],
   "TotalAchievements": 50,
@@ -9015,7 +9020,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -9038,21 +9043,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16828,
-      "Completed": 10225
+      "Progressed": 16835,
+      "Completed": 10226
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707527,
+      "Progressed": 707534,
       "Completed": 12758
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-05T03:09:44.811688+00:00",
-  "LastChanged_Achievements": "2023-06-05T15:08:15.8680529+00:00",
+  "LastChanged_Achievements": "2023-06-05T16:06:27.9556046+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:00:29.9287992+00:00",
-  "LastUpdate_Achievements": "2023-06-05T15:08:15.8681633+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:59:14.8397753+00:00",
+  "LastUpdate_Achievements": "2023-06-05T16:06:27.955673+00:00"
 }

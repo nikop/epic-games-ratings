@@ -7,6 +7,7 @@
 | Breaking Free | 33.00% | ~4 |
 | Overcoming Weakness | 17.00% | ~2 |
 | Crystal Hunter | 8.00% | ~1 |
+| Boulder Breaker | 8.00% | ~1 |
 | Fence-Sitter | 8.00% | ~1 |
 | Green Thumb | 8.00% | ~1 |
 | Equivalent Exchange | 8.00% | ~1 |
@@ -14,7 +15,6 @@
 | My Turn | 0.00% | ~0 |
 | Column Crusher | 0.00% | ~0 |
 | Armor Annihilator | 0.00% | ~0 |
-| Boulder Breaker | 0.00% | ~0 |
 | Bye-Bye, Butcher | 0.00% | ~0 |
 | Rejected Parasite | 0.00% | ~0 |
 | Rebellious Servant | 0.00% | ~0 |

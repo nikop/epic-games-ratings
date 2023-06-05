@@ -111,6 +111,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.20% | ~180 |
 | Haaave You Met Asmodeus? | 0.20% | ~180 |
 | The Immortal Warrior | 0.20% | ~180 |
+| The Wyrmheart Mine | 0.20% | ~180 |
 | Tower on the Lake | 0.20% | ~180 |
 | Seeds of Deceit | 0.20% | ~180 |
 | Trollskull Manor | 0.20% | ~180 |
@@ -278,7 +279,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hold for the Red Wizards | 0.10% | ~90 |
 | Form Ranks | 0.10% | ~90 |
 | Drop of Time | 0.10% | ~56 |
-| The Wyrmheart Mine | 0.10% | ~90 |
 | They Who Smelt It | 0.10% | ~90 |
 | Distribute Your Weight | 0.10% | ~90 |
 | Mongrelfolk Incursion | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,856 (Ranked 62)  
+Progressed: 89,858 (Ranked 62)  
 Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,856 | 1,917 |
+| 2023-06-05 | 89,858 | 1,917 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,035 (Ranked 37)  

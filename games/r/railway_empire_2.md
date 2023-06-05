@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~659 |
-| A new Journey | 72.00% | ~650 |
-| Departure | 71.00% | ~641 |
-| From X to Y | 70.00% | ~632 |
-| Way of Iron | 69.00% | ~623 |
-| Mystery Tour | 66.00% | ~596 |
-| Brainstorm | 64.00% | ~578 |
-| We brake for nobody | 64.00% | ~578 |
-| Mind the Gap | 63.00% | ~569 |
-| Travel Company | 62.00% | ~560 |
+| Country Bumpkin | 73.00% | ~660 |
+| A new Journey | 72.00% | ~651 |
+| Departure | 71.00% | ~642 |
+| From X to Y | 70.00% | ~633 |
+| Way of Iron | 69.00% | ~624 |
+| Mystery Tour | 66.00% | ~597 |
+| We brake for nobody | 65.00% | ~588 |
+| Brainstorm | 64.00% | ~579 |
+| Mind the Gap | 63.00% | ~570 |
+| Travel Company | 63.00% | ~570 |
 | All around the World | 60.00% | ~542 |
 | Right through the middle | 55.00% | ~497 |
 | Poor Devil | 51.00% | ~461 |
 | Facility Manager | 50.00% | ~452 |
-| Producer | 46.00% | ~415 |
-| Apprentice | 42.00% | ~379 |
+| Producer | 46.00% | ~416 |
+| Apprentice | 42.00% | ~380 |
 | Bridge Builder | 37.00% | ~334 |
 | Stoker | 34.00% | ~307 |
 | Access granted | 33.00% | ~298 |
@@ -29,15 +29,15 @@
 | Mole | 25.00% | ~226 |
 | All mine | 23.00% | ~208 |
 | Financial Shark | 23.00% | ~208 |
+| Socializer | 22.00% | ~199 |
 | Seven at one stroke | 21.00% | ~190 |
 | Hostile Takeover | 21.00% | ~190 |
-| Socializer | 21.00% | ~190 |
-| General Manager | 19.00% | ~172 |
+| General Manager | 20.00% | ~181 |
 | Country Life | 19.00% | ~172 |
 | Trailblazer | 18.00% | ~163 |
-| Breaking Ground | 14.00% | ~126 |
-| Traffic Jam | 13.00% | ~117 |
-| Traffic Junction | 13.00% | ~117 |
+| Breaking Ground | 14.00% | ~127 |
+| Traffic Jam | 13.00% | ~118 |
+| Traffic Junction | 13.00% | ~118 |
 | Assimilated | 12.00% | ~108 |
 | Locusts | 12.00% | ~108 |
 | Resistance is futile | 11.00% | ~99 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 903 (Ranked 181)  
+Progressed: 904 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,4 +82,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 725 | 0 |
 | 2023-06-03 | 812 | 0 |
 | 2023-06-04 | 880 | 0 |
-| 2023-06-05 | 903 | 0 |
+| 2023-06-05 | 904 | 0 |

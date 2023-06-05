@@ -1400,9 +1400,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63721,
+  "EOS_Progressed": 63724,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 990,
+  "EOS_NewPlayers": 988,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5165,6 +5165,11 @@
       "Time": "2023-06-05T15:08:19.1357374+00:00",
       "NumProgressed": 63721,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-05T16:06:30.6585893+00:00",
+      "NumProgressed": 63724,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5256,7 +5261,7 @@
       "Name": "End of an Era",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "APPLY_STATUS",
@@ -5352,7 +5357,7 @@
       "Name": "Bulldozed",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -5478,9 +5483,9 @@
       "ID": "HARLEY_1",
       "SetID": "4eo5ebm",
       "Name": "Har, Har, Har, Very Funny",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1912
     },
     {
       "ID": "HARLEY_2",
@@ -5624,7 +5629,7 @@
       "Name": "Gotham Knight",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "SECRET_CACHE",
@@ -5663,13 +5668,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63721,
+      "Progressed": 63724,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34001,
+      "Progressed": 34004,
       "Completed": 2644
     }
   ],
@@ -5677,8 +5682,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-05T15:01:33.8084561+00:00",
-  "LastChanged_Achievements": "2023-06-05T15:08:19.135737+00:00",
+  "LastChanged_Achievements": "2023-06-05T16:06:30.6585889+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:01:33.8084567+00:00",
-  "LastUpdate_Achievements": "2023-06-05T15:08:19.1358247+00:00"
+  "LastUpdate_Ratings": "2023-06-05T16:00:07.3027858+00:00",
+  "LastUpdate_Achievements": "2023-06-05T16:06:30.6586658+00:00"
 }

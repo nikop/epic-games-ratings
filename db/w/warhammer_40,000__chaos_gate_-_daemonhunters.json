@@ -528,7 +528,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2858,
+  "EOS_Progressed": 2859,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -1628,6 +1628,11 @@
       "Time": "2023-06-05T15:08:18.2533519+00:00",
       "NumProgressed": 2858,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T16:06:30.0493027+00:00",
+      "NumProgressed": 2859,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1799,15 +1804,15 @@
       "Name": "Hold Your Ground",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 829
+      "UsersEstimate": 858
     },
     {
       "ID": "Kills_Bleed",
@@ -1863,7 +1868,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "Kills_Streak",
@@ -1887,7 +1892,7 @@
       "Name": "An Ill Omen",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -2110,21 +2115,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2858,
+      "Progressed": 2859,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2858,
+      "Progressed": 2859,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-05T15:08:18.2533517+00:00",
+  "LastChanged_Achievements": "2023-06-05T16:06:30.0493024+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-05T14:59:57.558875+00:00",
-  "LastUpdate_Achievements": "2023-06-05T15:08:18.2534196+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:58:51.0842513+00:00",
+  "LastUpdate_Achievements": "2023-06-05T16:06:30.0493602+00:00"
 }

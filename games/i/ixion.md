@@ -44,10 +44,10 @@ Rating: 4.57 (Ranked 443)
 | Catastrophe Avoided | 0.70% | ~17 |
 | Praise the Hull! | 0.70% | ~17 |
 | You Had One Job... | 0.70% | ~17 |
+| Space Greenhouse | 0.60% | ~15 |
 | Tiqqun Unchained | 0.60% | ~15 |
 | Help of the Forgotten Member | 0.60% | ~15 |
 | Tiqqun Contender | 0.50% | ~12 |
-| Space Greenhouse | 0.50% | ~12 |
 | Scientifically Accurate | 0.50% | ~12 |
 | Better Him Than Me | 0.40% | ~10 |
 | Gregor Spinoza | 0.40% | ~10 |

@@ -5,20 +5,20 @@ Rating: 4.60 (Ranked 385)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~7,684 |
-| Pay 'n' Spray | 48.00% | ~4,610 |
-| All Dressed Up for San Fierro | 23.00% | ~2,209 |
-| The American Dream | 17.00% | ~1,633 |
-| School's Out | 15.00% | ~1,441 |
-| Smooth Moves | 15.00% | ~1,441 |
-| Today Was a Good Day | 13.00% | ~1,249 |
+| Getting Started | 80.00% | ~7,690 |
+| Pay 'n' Spray | 48.00% | ~4,614 |
+| All Dressed Up for San Fierro | 23.00% | ~2,211 |
+| The American Dream | 17.00% | ~1,634 |
+| School's Out | 15.00% | ~1,442 |
+| Smooth Moves | 15.00% | ~1,442 |
+| Today Was a Good Day | 13.00% | ~1,250 |
 | What happens in Las Venturas... | 12.00% | ~1,153 |
-| Horror of the Santa Maria | 9.00% | ~864 |
-| Liberty City State of Mind | 7.00% | ~672 |
-| With Extra Dip | 6.00% | ~576 |
-| Original Gangster | 6.00% | ~576 |
-| The End of the Line | 5.00% | ~480 |
-| Saviour | 5.00% | ~480 |
+| Horror of the Santa Maria | 9.00% | ~865 |
+| Liberty City State of Mind | 7.00% | ~673 |
+| With Extra Dip | 6.00% | ~577 |
+| Original Gangster | 6.00% | ~577 |
+| The End of the Line | 5.00% | ~481 |
+| Saviour | 5.00% | ~481 |
 | Rescue a Kitten Too? | 4.00% | ~384 |
 | They Can’t Stop All of Us | 3.00% | ~288 |
 | What are the Odds | 3.00% | ~288 |
@@ -33,7 +33,7 @@ Rating: 4.60 (Ranked 385)
 | Swiss Army Strife | 1.00% | ~96 |
 | Assassin | 1.00% | ~96 |
 | Ain’t Nothing But a G Thing | 1.00% | ~96 |
-| Chick Magnet | 0.90% | ~86 |
+| Chick Magnet | 0.90% | ~87 |
 | Lucky Spinner | 0.80% | ~77 |
 | Hoopin' it Up | 0.70% | ~67 |
 | Not a Player | 0.60% | ~58 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 385)
 | ...Here we go again | 0.20% | ~19 |
 | I Ain't No Buster | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,605 (Ranked 111)  
+Progressed: 9,612 (Ranked 111)  
 Completed: 17 (0.18%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 17 (0.18%) (Ranked 148)
 | 2023-06-02 | 9,258 | 17 |
 | 2023-06-03 | 9,408 | 17 |
 | 2023-06-04 | 9,539 | 17 |
-| 2023-06-05 | 9,605 | 17 |
+| 2023-06-05 | 9,612 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
