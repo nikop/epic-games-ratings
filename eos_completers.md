@@ -10,29 +10,29 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.66% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.61% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.95% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 15 | [Without Escape](games/w/without_escape.md) | 10.00% |
-| 17 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.09% |
-| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.99% |
-| 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
+| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.99% |
+| 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
+| 19 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.70% |
 | 20 | [Smelter](games/s/smelter.md) | 8.57% |
 | 21 | [Remains](games/r/remains.md) | 8.11% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.10% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
-| 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 26 | [Scorn](games/s/scorn.md) | 6.89% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
+| 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
+| 26 | [Scorn](games/s/scorn.md) | 6.88% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
 | 28 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.37% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.41% |
-| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.94% |
+| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.04% |
 | 36 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.95% |
@@ -50,7 +50,7 @@
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.02% |
 | 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
-| 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.94% |
+| 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.91% |
 | 52 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 52 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.90% |
 | 54 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
@@ -116,10 +116,10 @@
 | 113 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
 | 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 117 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
-| 117 | [Tails of Iron](games/t/tails_of_iron.md) | 0.38% |
-| 119 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 119 | [Potion Permit](games/p/potion_permit.md) | 0.37% |
+| 117 | [Potion Permit](games/p/potion_permit.md) | 0.45% |
+| 118 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
+| 118 | [Tails of Iron](games/t/tails_of_iron.md) | 0.38% |
+| 120 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 121 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 121 | [Tchia](games/t/tchia.md) | 0.36% |
 | 121 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
