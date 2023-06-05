@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.71% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.65% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.95% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -26,8 +26,8 @@
 | 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.69% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
 | 26 | [Scorn](games/s/scorn.md) | 6.88% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.60% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.78% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.59% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -53,9 +53,9 @@
 | 51 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 52 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.86% |
-| 54 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.82% |
-| 55 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
-| 56 | [Lamentum](games/l/lamentum.md) | 2.79% |
+| 54 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
+| 55 | [Lamentum](games/l/lamentum.md) | 2.79% |
+| 56 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.78% |
 | 57 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.75% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
@@ -93,8 +93,8 @@
 | 91 | [Hades](games/h/hades.md) | 0.89% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
-| 94 | [Adios](games/a/adios.md) | 0.84% |
-| 94 | [Poosh XL](games/p/poosh_xl.md) | 0.84% |
+| 94 | [Adios](games/a/adios.md) | 0.85% |
+| 95 | [Poosh XL](games/p/poosh_xl.md) | 0.84% |
 | 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.81% |
 | 97 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
@@ -120,9 +120,9 @@
 | 118 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
 | 118 | [Tails of Iron](games/t/tails_of_iron.md) | 0.38% |
 | 120 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 121 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
-| 121 | [Tchia](games/t/tchia.md) | 0.36% |
-| 121 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
+| 120 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
+| 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
+| 122 | [Tchia](games/t/tchia.md) | 0.36% |
 | 124 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 125 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 125 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
@@ -139,7 +139,7 @@
 | 136 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.27% |
 | 136 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 139 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
-| 140 | [Circus Electrique](games/c/circus_electrique.md) | 0.24% |
+| 140 | [Circus Electrique](games/c/circus_electrique.md) | 0.23% |
 | 141 | [Against the Storm](games/a/against_the_storm.md) | 0.22% |
 | 141 | [BLACKTAIL](games/b/blacktail.md) | 0.22% |
 | 141 | [Filament](games/f/filament.md) | 0.22% |
@@ -167,11 +167,11 @@
 | 164 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 164 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 164 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
-| 164 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
 | 164 | [Supraland](games/s/supraland.md) | 0.10% |
-| 170 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
-| 170 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 170 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.09% |
+| 169 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
+| 169 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 169 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 169 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.09% |
 | 173 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
 | 173 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 173 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
