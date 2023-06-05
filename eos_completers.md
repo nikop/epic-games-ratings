@@ -17,7 +17,7 @@
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 15 | [Without Escape](games/w/without_escape.md) | 10.00% |
 | 17 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.09% |
-| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.09% |
+| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.04% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 20 | [Smelter](games/s/smelter.md) | 8.57% |
 | 21 | [Remains](games/r/remains.md) | 8.11% |
@@ -97,8 +97,8 @@
 | 95 | [Adios](games/a/adios.md) | 0.84% |
 | 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.82% |
 | 97 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.81% |
+| 98 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 98 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
-| 99 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.77% |
 | 101 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 101 | [Them and Us](games/t/them_and_us.md) | 0.76% |
