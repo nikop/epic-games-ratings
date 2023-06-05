@@ -2,8 +2,8 @@
 | - | ---- | --------- |
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 47.62% |
 | 2 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 33.33% |
-| 3 | [Volley Pals](games/v/volley_pals.md) | 28.57% |
-| 4 | [Overloop](games/o/overloop.md) | 25.00% |
+| 3 | [Overloop](games/o/overloop.md) | 25.00% |
+| 3 | [Volley Pals](games/v/volley_pals.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
@@ -34,13 +34,13 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.41% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.04% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.02% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 36 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
-| 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
-| 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
-| 40 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
+| 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
+| 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.77% |
+| 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.36% |
 | 42 | [The Complex](games/t/the_complex.md) | 3.36% |
 | 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.22% |
@@ -76,7 +76,7 @@
 | 74 | [A Musical Story](games/a/a_musical_story.md) | 1.56% |
 | 75 | [Frogun](games/f/frogun.md) | 1.51% |
 | 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 77 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.42% |
+| 77 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.41% |
 | 78 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
 | 79 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
 | 80 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.25% |
@@ -138,7 +138,7 @@
 | 136 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
 | 136 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.27% |
 | 136 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
-| 139 | [Despot's Game](games/d/despot's_game.md) | 0.26% |
+| 139 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 140 | [Circus Electrique](games/c/circus_electrique.md) | 0.24% |
 | 141 | [Against the Storm](games/a/against_the_storm.md) | 0.22% |
 | 141 | [BLACKTAIL](games/b/blacktail.md) | 0.22% |
@@ -160,8 +160,8 @@
 | 157 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
 | 157 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 160 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 160 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
-| 162 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 161 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 161 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.12% |
 | 163 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
 | 164 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
 | 164 | [House Flipper](games/h/house_flipper.md) | 0.10% |
