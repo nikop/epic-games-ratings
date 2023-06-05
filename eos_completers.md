@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.65% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.60% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.95% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -34,15 +34,15 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.38% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.01% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.00% |
 | 36 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
+| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
 | 41 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
-| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.36% |
 | 42 | [The Complex](games/t/the_complex.md) | 3.36% |
+| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.33% |
 | 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.22% |
 | 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.20% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.19% |
@@ -65,7 +65,7 @@
 | 63 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 64 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 66 | [Iron Danger](games/i/iron_danger.md) | 2.08% |
+| 66 | [Iron Danger](games/i/iron_danger.md) | 2.07% |
 | 67 | [JARS](games/j/jars.md) | 1.96% |
 | 68 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 69 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -73,11 +73,11 @@
 | 71 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
 | 72 | [Somerville](games/s/somerville.md) | 1.59% |
 | 73 | [Night Book](games/n/night_book.md) | 1.57% |
-| 74 | [A Musical Story](games/a/a_musical_story.md) | 1.56% |
+| 74 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
 | 75 | [Frogun](games/f/frogun.md) | 1.51% |
 | 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
-| 78 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.36% |
+| 78 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.35% |
 | 79 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
 | 80 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.25% |
 | 81 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
@@ -118,9 +118,9 @@
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 117 | [Potion Permit](games/p/potion_permit.md) | 0.44% |
 | 118 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
-| 118 | [Tails of Iron](games/t/tails_of_iron.md) | 0.38% |
-| 120 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 120 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
+| 119 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 119 | [Tails of Iron](games/t/tails_of_iron.md) | 0.37% |
+| 119 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 122 | [Tchia](games/t/tchia.md) | 0.36% |
 | 124 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
