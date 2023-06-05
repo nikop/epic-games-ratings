@@ -5,7 +5,7 @@
 | 3 | [Rain World](games/r/rain_world.md) | 4.94 | 0 | 493 |
 | 4 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.92 | 20 | 489 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,469 | 115 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,094 | 88 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,097 | 88 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 493 |
 | 8 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 493 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 493 |
@@ -85,7 +85,7 @@
 | 80 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 198 | 262 |
 | 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 325 |
 | 80 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 493 |
-| 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 316 | 222 |
+| 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 316 | 223 |
 | 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 493 |
 | 80 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 493 |
 | 80 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 493 |
@@ -295,7 +295,7 @@
 | 280 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 459 | 191 |
 | 280 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 493 |
 | 295 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 493 |
-| 295 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,623 | 66 |
+| 295 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,635 | 66 |
 | 295 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 166 | 281 |
 | 295 | [Deceive Inc.](games/d/deceive_inc..md) | 4.65 | 0 | 493 |
 | 295 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 324 | 219 |
@@ -394,7 +394,7 @@
 | 385 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.60 | 0 | 493 |
 | 385 | [GRIME](games/g/grime.md) | 4.60 | 0 | 493 |
 | 385 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 37 | 422 |
-| 385 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 574 | 171 |
+| 385 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 575 | 171 |
 | 385 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 376 |
 | 385 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 0 | 493 |
 | 385 | [Operation: Tango](games/o/operation__tango.md) | 4.60 | 0 | 493 |
@@ -572,7 +572,7 @@
 | 563 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 233 | 246 |
 | 563 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 493 |
 | 563 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 493 |
-| 563 | [Maneater](games/m/maneater.md) | 4.49 | 13,488 | 25 |
+| 563 | [Maneater](games/m/maneater.md) | 4.49 | 13,492 | 25 |
 | 563 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 619 | 164 |
 | 563 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 493 |
 | 563 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 0 | 493 |
@@ -902,7 +902,7 @@
 | 900 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 370 | 207 |
 | 900 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 493 |
 | 902 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 493 |
-| 902 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,146 | 101 |
+| 902 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,158 | 101 |
 | 902 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,608 | 67 |
 | 905 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.97 | 0 | 493 |
 | 905 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 493 |
@@ -911,7 +911,7 @@
 | 909 | [Chimeraland](games/c/chimeraland.md) | 3.94 | 22 | 476 |
 | 909 | [Patron](games/p/patron.md) | 3.94 | 0 | 493 |
 | 911 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 451 |
-| 911 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 316 | 222 |
+| 911 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 318 | 222 |
 | 911 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 493 |
 | 914 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 493 |
 | 915 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 324 |
