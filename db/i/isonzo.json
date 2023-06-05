@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6087,
+  "EOS_Progressed": 6088,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2214,6 +2214,11 @@
       "Time": "2023-06-05T22:01:03.496484+00:00",
       "NumProgressed": 6087,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-05T23:02:06.639431+00:00",
+      "NumProgressed": 6088,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2271,9 +2276,9 @@
       "ID": "ISONZO_ACH_CONRAD_VON_HOTZENSOCKS",
       "SetID": "akchbl3",
       "Name": "Conrad von Hotzensocks",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2192
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -2289,7 +2294,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -2313,7 +2318,7 @@
       "Name": "Donatello",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -2377,7 +2382,7 @@
       "Name": "Machiavelli",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -2393,7 +2398,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -2409,7 +2414,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -2417,7 +2422,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3287
+      "UsersEstimate": 3288
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2465,7 +2470,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -2473,7 +2478,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -2553,7 +2558,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3287
+      "UsersEstimate": 3288
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2577,14 +2582,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6087,
+      "Progressed": 6088,
       "Completed": 8
     }
   ],
@@ -2592,8 +2597,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-04T11:57:34.843695+00:00",
-  "LastChanged_Achievements": "2023-06-05T22:01:03.4964835+00:00",
+  "LastChanged_Achievements": "2023-06-05T23:02:06.6394304+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:28.4757017+00:00",
-  "LastUpdate_Ratings": "2023-06-05T21:57:23.2430774+00:00",
-  "LastUpdate_Achievements": "2023-06-05T22:01:03.4965219+00:00"
+  "LastUpdate_Ratings": "2023-06-05T22:57:39.6720656+00:00",
+  "LastUpdate_Achievements": "2023-06-05T23:02:06.6394774+00:00"
 }

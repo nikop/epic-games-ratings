@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -252,7 +252,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187961,
+  "EOS_Progressed": 187965,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 0,
@@ -4992,6 +4992,11 @@
       "Time": "2023-06-05T22:06:07.1379991+00:00",
       "NumProgressed": 187961,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-05T23:06:56.5750648+00:00",
+      "NumProgressed": 187965,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -5011,7 +5016,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 133452
+      "UsersEstimate": 133455
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -5035,7 +5040,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33833
+      "UsersEstimate": 33834
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -5130,7 +5135,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 187961,
+      "Progressed": 187965,
       "Completed": 4
     }
   ],
@@ -5138,8 +5143,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-06-05T05:00:10.9262642+00:00",
-  "LastChanged_Achievements": "2023-06-05T22:06:07.1379987+00:00",
+  "LastChanged_Achievements": "2023-06-05T23:06:56.5750636+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:07.1582654+00:00",
-  "LastUpdate_Ratings": "2023-06-05T21:59:47.039107+00:00",
-  "LastUpdate_Achievements": "2023-06-05T22:06:07.1380289+00:00"
+  "LastUpdate_Ratings": "2023-06-05T23:00:36.2554245+00:00",
+  "LastUpdate_Achievements": "2023-06-05T23:06:56.5751308+00:00"
 }

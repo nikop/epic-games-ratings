@@ -9,7 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~1,798 |
 | The Cursed Farmer | 1.00% | ~899 |
 | The Mad Wizard | 0.90% | ~809 |
-| The Court of Storms | 0.90% | ~505 |
+| The Court of Storms | 0.90% | ~506 |
 | Beast Intentions | 0.80% | ~719 |
 | The Ring of Regeneration | 0.70% | ~629 |
 | Beware the Jabberwock | 0.70% | ~393 |
@@ -31,13 +31,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.40% | ~360 |
 | Pure Energy | 0.40% | ~360 |
 | Maddening | 0.30% | ~270 |
-| Keep Your Distance | 0.30% | ~168 |
-| Hands Off! | 0.30% | ~168 |
-| Frail Doesn't Mean Broken | 0.30% | ~168 |
-| Unreasonable Doesn't Mean Stupid | 0.30% | ~168 |
-| Pin and Skewer | 0.30% | ~168 |
-| No One Can Hear You Scream | 0.30% | ~168 |
-| Welcome to the Rock | 0.30% | ~168 |
+| Keep Your Distance | 0.30% | ~169 |
+| Hands Off! | 0.30% | ~169 |
+| Frail Doesn't Mean Broken | 0.30% | ~169 |
+| Unreasonable Doesn't Mean Stupid | 0.30% | ~169 |
+| Pin and Skewer | 0.30% | ~169 |
+| No One Can Hear You Scream | 0.30% | ~169 |
+| Welcome to the Rock | 0.30% | ~169 |
 | Beast Mode | 0.30% | ~270 |
 | Low Initiative | 0.30% | ~270 |
 | A Mysterious Summons | 0.30% | ~270 |
@@ -45,7 +45,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.30% | ~270 |
 | Running of the Saurs | 0.30% | ~270 |
 | The Contagious Curse | 0.30% | ~270 |
-| An Even Worse Time in Avernus | 0.30% | ~168 |
+| An Even Worse Time in Avernus | 0.30% | ~169 |
 | Escort to Waterdeep | 0.30% | ~270 |
 | Waterdeep Detours | 0.30% | ~270 |
 | Underdeep Cartography | 0.30% | ~270 |
@@ -179,6 +179,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sibriex | 0.20% | ~112 |
 | Wrecked Flying Fortress | 0.20% | ~112 |
 | Expert Opinion | 0.20% | ~180 |
+| Dwarven Rumors | 0.20% | ~112 |
 | Sunblight | 0.20% | ~112 |
 | The Bleeding Citadel | 0.20% | ~112 |
 | Witty Riposting | 0.20% | ~112 |
@@ -438,7 +439,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Neutral Party | 0.10% | ~56 |
 | Relentless Peril | 0.10% | ~56 |
 | Rickety Rubble | 0.10% | ~56 |
-| Dwarven Rumors | 0.10% | ~56 |
 | Mimic Perception | 0.10% | ~56 |
 | Frozen in Fear | 0.10% | ~56 |
 | It's Cold Out There Today | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,891 (Ranked 62)  
+Progressed: 89,893 (Ranked 62)  
 Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,891 | 1,917 |
+| 2023-06-05 | 89,893 | 1,917 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,035 (Ranked 37)  

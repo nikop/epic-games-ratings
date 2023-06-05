@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -266,7 +266,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2305,
+  "EOS_Progressed": 2307,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
@@ -2616,6 +2616,11 @@
       "Time": "2023-06-05T22:06:13.3920488+00:00",
       "NumProgressed": 2305,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T23:07:03.6353393+00:00",
+      "NumProgressed": 2307,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2683,7 +2688,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2691,7 +2696,7 @@
       "Name": "Organ Grinder",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2707,7 +2712,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2795,7 +2800,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2867,7 +2872,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2995,7 +3000,7 @@
       "Name": "Taking it back",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3019,7 +3024,7 @@
       "Name": "Target America",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3194,13 +3199,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2256,
+      "Progressed": 2258,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2305,
+      "Progressed": 2307,
       "Completed": 2
     }
   ],
@@ -3208,8 +3213,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-05T22:06:13.3920484+00:00",
+  "LastChanged_Achievements": "2023-06-05T23:07:03.6353384+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-05T22:00:39.6010481+00:00",
-  "LastUpdate_Achievements": "2023-06-05T22:06:13.3921105+00:00"
+  "LastUpdate_Ratings": "2023-06-05T23:01:36.6351679+00:00",
+  "LastUpdate_Achievements": "2023-06-05T23:07:03.6354494+00:00"
 }

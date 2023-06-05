@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1298,
+  "EOS_Progressed": 1299,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2729,6 +2729,11 @@
       "Time": "2023-06-05T22:06:20.6952667+00:00",
       "NumProgressed": 1298,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-05T23:07:12.3460274+00:00",
+      "NumProgressed": 1299,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2924,7 +2929,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "fourleafclover",
@@ -3194,9 +3199,9 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 740
     },
     {
       "ID": "thealchemist",
@@ -3300,7 +3305,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "warmachinesarmy",
@@ -3332,14 +3337,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1298,
+      "Progressed": 1299,
       "Completed": 1
     }
   ],
@@ -3347,8 +3352,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-05T10:57:55.1665769+00:00",
-  "LastChanged_Achievements": "2023-06-05T22:06:20.6952663+00:00",
+  "LastChanged_Achievements": "2023-06-05T23:07:12.3460264+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-05T21:58:03.3734887+00:00",
-  "LastUpdate_Achievements": "2023-06-05T22:06:20.6953383+00:00"
+  "LastUpdate_Ratings": "2023-06-05T22:58:26.9281178+00:00",
+  "LastUpdate_Achievements": "2023-06-05T23:07:12.3461195+00:00"
 }

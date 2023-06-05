@@ -5,26 +5,26 @@ Rating: 4.51 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 78.00% | ~1,249 |
+| Complete Guard Faction | 78.00% | ~1,250 |
 | Become King | 71.00% | ~1,137 |
 | Defeat 25 Frogs | 60.00% | ~961 |
 | Ranged Weapon | 59.00% | ~945 |
-| Collect Monster Parts | 56.00% | ~897 |
+| Collect Monster Parts | 55.00% | ~881 |
 | Two Handed Weapon | 54.00% | ~865 |
-| Defeat 25 Grubs | 50.00% | ~800 |
-| Rescue Redgi's Brothers | 50.00% | ~800 |
-| Collect Iron Ore | 45.00% | ~720 |
-| Kitchen Ready To Cook | 45.00% | ~720 |
-| Defeat 25 Mozis | 44.00% | ~704 |
-| Collect Gold | 43.00% | ~688 |
-| Smithy Ready to Craft | 43.00% | ~688 |
-| Fix the Travellers Wagon | 42.00% | ~672 |
-| Complete Elder Faction | 39.00% | ~624 |
-| End of the Mozis | 36.00% | ~576 |
-| Throne Room Fit For A King | 36.00% | ~576 |
-| Meet the Creatures from the Deep | 33.00% | ~528 |
-| Return Power To The Depths | 33.00% | ~528 |
-| Defeat Ratnor Rodentson | 28.00% | ~448 |
+| Defeat 25 Grubs | 50.00% | ~801 |
+| Rescue Redgi's Brothers | 50.00% | ~801 |
+| Collect Iron Ore | 45.00% | ~721 |
+| Kitchen Ready To Cook | 45.00% | ~721 |
+| Defeat 25 Mozis | 44.00% | ~705 |
+| Collect Gold | 43.00% | ~689 |
+| Smithy Ready to Craft | 43.00% | ~689 |
+| Fix the Travellers Wagon | 42.00% | ~673 |
+| Complete Elder Faction | 39.00% | ~625 |
+| End of the Mozis | 36.00% | ~577 |
+| Throne Room Fit For A King | 36.00% | ~577 |
+| Return Power To The Depths | 34.00% | ~545 |
+| Meet the Creatures from the Deep | 33.00% | ~529 |
+| Defeat Ratnor Rodentson | 28.00% | ~449 |
 | Return the Statues | 25.00% | ~400 |
 | Defeat Rattus Augustail | 24.00% | ~384 |
 | Complete the Chefs Book | 23.00% | ~368 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 529)
 | King of Kings | 7.00% | ~112 |
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,601 (Ranked 157)  
+Progressed: 1,602 (Ranked 157)  
 Completed: 6 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 6 (0.37%) (Ranked 119)
 | 2023-06-02 | 1,555 | 6 |
 | 2023-06-03 | 1,574 | 6 |
 | 2023-06-04 | 1,592 | 6 |
-| 2023-06-05 | 1,601 | 6 |
+| 2023-06-05 | 1,602 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

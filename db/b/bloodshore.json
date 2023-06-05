@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.48,
+  "EOS_Completed_Percentage": 2.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -162,6 +162,11 @@
       "Time": "2023-06-05T18:05:40.8609008+00:00",
       "NumProgressed": 161,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-05T23:07:10.261695+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -173,15 +178,15 @@
       "Name": "Bromance",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "comedy_killer",
       "SetID": "84ad177",
       "Name": "Comedy Killer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -245,7 +250,7 @@
       "Name": "Mission Complete",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "super_seducer",
@@ -275,9 +280,9 @@
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "tried_to_warn_you",
@@ -293,7 +298,7 @@
       "Name": "Um, ok...",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -308,7 +313,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 4
     }
   ],
@@ -316,8 +321,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-05T22:06:18.861567+00:00",
+  "LastChanged_Achievements": "2023-06-05T23:07:10.2616943+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:21.7685384+00:00",
-  "LastUpdate_Ratings": "2023-06-05T22:00:00.7935128+00:00",
-  "LastUpdate_Achievements": "2023-06-05T22:06:18.8615754+00:00"
+  "LastUpdate_Ratings": "2023-06-05T23:00:52.4777794+00:00",
+  "LastUpdate_Achievements": "2023-06-05T23:07:10.2617138+00:00"
 }

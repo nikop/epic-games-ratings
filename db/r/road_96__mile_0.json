@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -564,6 +564,11 @@
       "Time": "2023-06-05T16:03:58.1302374+00:00",
       "NumProgressed": 250,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T23:04:14.8139127+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -573,9 +578,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "completeact2",
@@ -589,9 +594,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 105
+      "UsersEstimate": 103
     },
     {
       "ID": "findalltapes",
@@ -607,7 +612,7 @@
       "Name": "Try Harder",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "scoreminrankrb1",
@@ -623,7 +628,7 @@
       "Name": "Freedom",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "scoreminrankrf1",
@@ -639,15 +644,15 @@
       "Name": "Partners in Crime",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "scoreminrankrp1",
@@ -687,14 +692,14 @@
       "Name": "Friendzone",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 2
     }
   ],
@@ -702,8 +707,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-05T22:03:50.6344631+00:00",
+  "LastChanged_Achievements": "2023-06-05T23:04:14.813912+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-05T21:58:50.7476761+00:00",
-  "LastUpdate_Achievements": "2023-06-05T22:03:50.634475+00:00"
+  "LastUpdate_Ratings": "2023-06-05T22:59:25.770771+00:00",
+  "LastUpdate_Achievements": "2023-06-05T23:04:14.8139264+00:00"
 }

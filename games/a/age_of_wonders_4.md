@@ -5,36 +5,36 @@ Rating: 4.54 (Ranked 490)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,439 |
-| Realm Estate | 75.00% | ~3,265 |
-| Secret Technique | 75.00% | ~3,265 |
+| A Wonderful Discovery | 79.00% | ~3,440 |
+| Realm Estate | 75.00% | ~3,266 |
+| Secret Technique | 75.00% | ~3,266 |
 | Walls Cannot Stop Us | 73.00% | ~3,178 |
 | From Friends to Family | 69.00% | ~3,004 |
-| Magical Synergy | 64.00% | ~2,786 |
-| Bone Peddler | 61.00% | ~2,655 |
-| Stronger Together | 55.00% | ~2,394 |
+| Magical Synergy | 64.00% | ~2,787 |
+| Bone Peddler | 61.00% | ~2,656 |
+| Stronger Together | 55.00% | ~2,395 |
 | Full Ascension | 54.00% | ~2,351 |
 | There Can Only Be One! | 47.00% | ~2,046 |
 | Seat of Power | 47.00% | ~2,046 |
-| Intimidation Tactics | 44.00% | ~1,915 |
+| Intimidation Tactics | 44.00% | ~1,916 |
 | My Final Form | 43.00% | ~1,872 |
-| Valley of Wonders | 42.00% | ~1,828 |
+| Valley of Wonders | 42.00% | ~1,829 |
 | In a Liege of Your Own | 37.00% | ~1,611 |
-| Return of the Wizard King | 31.00% | ~1,349 |
+| Return of the Wizard King | 31.00% | ~1,350 |
 | Digging for Treasure | 30.00% | ~1,306 |
 | Against the Odds | 30.00% | ~1,306 |
-| Enchanted Archipelago | 27.00% | ~1,175 |
+| Enchanted Archipelago | 27.00% | ~1,176 |
 | Impenetrable Fortress | 26.00% | ~1,132 |
 | Preparation Is Everything | 20.00% | ~871 |
 | The Magic That Empowers Me! | 19.00% | ~827 |
 | Arch Mage | 19.00% | ~827 |
 | God Emperor | 18.00% | ~784 |
 | Crimson Caldera | 17.00% | ~740 |
-| Eternal Lord | 16.00% | ~696 |
+| Eternal Lord | 16.00% | ~697 |
 | Fiery Friend | 15.00% | ~653 |
-| Lord of Chaos | 14.00% | ~609 |
-| The Creator | 14.00% | ~609 |
-| The Goddess of Nature | 14.00% | ~609 |
+| Lord of Chaos | 14.00% | ~610 |
+| The Creator | 14.00% | ~610 |
+| The Goddess of Nature | 14.00% | ~610 |
 | The Eternal Court | 9.00% | ~392 |
 | Jack of All Tomes | 9.00% | ~392 |
 | Pruning for Progress | 9.00% | ~392 |
@@ -50,7 +50,7 @@ Rating: 4.54 (Ranked 490)
 | Master of Evilness | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,353 (Ranked 128)  
+Progressed: 4,354 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 4,204 | 0 |
 | 2023-06-03 | 4,275 | 0 |
 | 2023-06-04 | 4,325 | 0 |
-| 2023-06-05 | 4,353 | 0 |
+| 2023-06-05 | 4,354 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

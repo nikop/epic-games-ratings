@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4353,
+  "EOS_Progressed": 4354,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3140,6 +3140,11 @@
       "Time": "2023-06-05T20:04:56.5299456+00:00",
       "NumProgressed": 4353,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T23:05:13.1215984+00:00",
+      "NumProgressed": 4354,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3151,7 +3156,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "10",
@@ -3199,7 +3204,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "16",
@@ -3215,7 +3220,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "18",
@@ -3231,7 +3236,7 @@
       "Name": "The Creator",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "2",
@@ -3239,7 +3244,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "20",
@@ -3247,7 +3252,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "21",
@@ -3255,7 +3260,7 @@
       "Name": "Eternal Lord",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "22",
@@ -3263,7 +3268,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3265
+      "UsersEstimate": 3266
     },
     {
       "ID": "23",
@@ -3271,7 +3276,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3439
+      "UsersEstimate": 3440
     },
     {
       "ID": "24",
@@ -3279,7 +3284,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3265
+      "UsersEstimate": 3266
     },
     {
       "ID": "25",
@@ -3295,7 +3300,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "27",
@@ -3319,7 +3324,7 @@
       "Name": "Stronger Together",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "3",
@@ -3343,7 +3348,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "32",
@@ -3423,7 +3428,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "41",
@@ -3502,13 +3507,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4353,
-      "Completed": 4353
+      "Progressed": 4354,
+      "Completed": 4354
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4353,
+      "Progressed": 4354,
       "Completed": 0
     }
   ],
@@ -3516,8 +3521,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-05T22:04:40.2463093+00:00",
+  "LastChanged_Achievements": "2023-06-05T23:05:13.121598+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-05T21:59:31.2377705+00:00",
-  "LastUpdate_Achievements": "2023-06-05T22:04:40.2463514+00:00"
+  "LastUpdate_Ratings": "2023-06-05T23:00:17.0784164+00:00",
+  "LastUpdate_Achievements": "2023-06-05T23:05:13.1216614+00:00"
 }

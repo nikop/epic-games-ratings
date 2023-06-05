@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1526,9 +1526,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 46533,
+  "EOS_Progressed": 46536,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 885,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6241,6 +6241,11 @@
       "Time": "2023-06-05T22:06:14.1852875+00:00",
       "NumProgressed": 46533,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-05T23:07:04.5895358+00:00",
+      "NumProgressed": 46536,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 59,
@@ -6252,7 +6257,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 25593
+      "UsersEstimate": 25595
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -6372,7 +6377,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11168
+      "UsersEstimate": 11169
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -6508,7 +6513,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14891
+      "UsersEstimate": 14892
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -6516,7 +6521,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 18613
+      "UsersEstimate": 18614
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -6540,7 +6545,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 29316
+      "UsersEstimate": 29318
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -6564,7 +6569,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11168
+      "UsersEstimate": 11169
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -6588,7 +6593,7 @@
       "Name": "Semper Fidelis!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS1",
@@ -6596,7 +6601,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 11633
+      "UsersEstimate": 11634
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -6620,7 +6625,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 35830
+      "UsersEstimate": 35833
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -6636,7 +6641,7 @@
       "Name": "Honneur et Patrie",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "VERDUN_ACH_SAMEFRIEND1",
@@ -6668,7 +6673,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6049
+      "UsersEstimate": 6050
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -6716,22 +6721,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 17217
+      "UsersEstimate": 17218
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 46533,
+      "Progressed": 46536,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-05-31T03:11:57.3698903+00:00",
-  "LastChanged_Achievements": "2023-06-05T22:06:14.185287+00:00",
+  "LastChanged_Achievements": "2023-06-05T23:07:04.5895353+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:35.4941076+00:00",
-  "LastUpdate_Ratings": "2023-06-05T21:58:24.1711391+00:00",
-  "LastUpdate_Achievements": "2023-06-05T22:06:14.1853491+00:00"
+  "LastUpdate_Ratings": "2023-06-05T22:58:52.4278818+00:00",
+  "LastUpdate_Achievements": "2023-06-05T23:07:04.5896318+00:00"
 }

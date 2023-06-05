@@ -6,22 +6,22 @@ Rating: 3.81 (Ranked 922)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eeligally Ambitious | 95.00% | ~14,754 |
-| No Half Measures | 88.00% | ~13,666 |
-| Personal Matter | 87.00% | ~13,511 |
+| No Half Measures | 88.00% | ~13,667 |
+| Personal Matter | 87.00% | ~13,512 |
 | But You Have Heard of Me | 72.00% | ~11,182 |
 | Double the Barrels, double the Fun | 55.00% | ~8,542 |
-| Pimp My Glide | 47.00% | ~7,299 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,367 |
+| Pimp My Glide | 47.00% | ~7,300 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,368 |
 | House Party! | 33.00% | ~5,125 |
 | Make It Rain | 24.00% | ~3,727 |
-| Curse of the Seven Seas | 21.00% | ~3,261 |
+| Curse of the Seven Seas | 21.00% | ~3,262 |
 | Head First | 15.00% | ~2,330 |
 | To the World's End | 12.00% | ~1,864 |
 | Table for Six | 11.00% | ~1,708 |
 | Sharing Is Caring | 9.00% | ~1,398 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,242 |
 | Morally Flexible | 6.00% | ~932 |
-| Fishing for Compliments | 5.00% | ~776 |
+| Fishing for Compliments | 5.00% | ~777 |
 | After All, Why Shouldn't I Keep It? | 2.00% | ~311 |
 | A True Dandy | 2.00% | ~311 |
 | A New Legend Awaits | 1.00% | ~155 |
@@ -32,7 +32,7 @@ Rating: 3.81 (Ranked 922)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,530 (Ranked 99)  
+Progressed: 15,531 (Ranked 99)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 15,490 | 0 |
 | 2023-06-03 | 15,507 | 0 |
 | 2023-06-04 | 15,523 | 0 |
-| 2023-06-05 | 15,530 | 0 |
+| 2023-06-05 | 15,531 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

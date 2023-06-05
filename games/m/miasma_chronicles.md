@@ -10,10 +10,10 @@ Rating: 4.35 (Ranked 726)
 | Aspiring Editor | 72.00% | ~745 |
 | Gun for Hire | 66.00% | ~683 |
 | I am the law! | 58.00% | ~600 |
-| Lumberjack | 43.00% | ~445 |
+| Lumberjack | 44.00% | ~455 |
 | Croaked | 39.00% | ~404 |
 | Limp Richard | 38.00% | ~393 |
-| From Darkness to Light | 37.00% | ~383 |
+| From Darkness to Light | 38.00% | ~393 |
 | Exorcist | 36.00% | ~373 |
 | Editor Adept | 35.00% | ~362 |
 | Firestarter | 35.00% | ~362 |
@@ -46,7 +46,7 @@ Rating: 4.35 (Ranked 726)
 | Bot Whisperer | 4.00% | ~41 |
 | Dressed To Kill | 3.00% | ~31 |
 | Cruelty | 2.00% | ~21 |
-| Five Finger Deathcount | 0.80% | ~8 |
+| Five Finger Deathcount | 0.90% | ~9 |
 | Fratricide | 0.60% | ~6 |
 | Alpha Editor | 0.50% | ~5 |
 | QA Has Suffered! (Redux) | 0.50% | ~5 |

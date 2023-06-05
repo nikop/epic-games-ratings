@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -58,9 +58,9 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -162,9 +162,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "Epic_Formula_12",
@@ -186,9 +186,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -218,9 +218,9 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 50,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -322,9 +322,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Epic_Revenge_1",
@@ -410,9 +410,9 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -426,9 +426,9 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Epic_WinTimes_500",
@@ -448,8 +448,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-05T22:02:16.9350061+00:00",
+  "LastChanged_Achievements": "2023-06-05T23:02:21.0385266+00:00",
   "LastUpdate_AppInfo": "2023-06-01T03:24:11.2191819+00:00",
-  "LastUpdate_Ratings": "2023-06-05T21:56:54.6734928+00:00",
-  "LastUpdate_Achievements": "2023-06-05T22:02:16.9350375+00:00"
+  "LastUpdate_Ratings": "2023-06-05T22:57:06.0058362+00:00",
+  "LastUpdate_Achievements": "2023-06-05T23:02:21.038595+00:00"
 }

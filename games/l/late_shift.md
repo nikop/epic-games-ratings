@@ -20,7 +20,7 @@
 | Sabotage | 12.00% | ~47 |
 | Choices Matter | 7.00% | ~27 |
 | The Fool | 6.00% | ~23 |
-| The Lion's Den | 4.00% | ~16 |
+| The Lion's Den | 5.00% | ~20 |
 | The Coward | 3.00% | ~12 |
 | Proficient Storyteller | 3.00% | ~12 |
 | Expert Storyteller | 1.00% | ~4 |

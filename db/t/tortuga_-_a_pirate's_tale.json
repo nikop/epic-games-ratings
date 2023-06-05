@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15530,
+  "EOS_Progressed": 15531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1724,6 +1724,11 @@
       "Time": "2023-06-05T21:05:51.402941+00:00",
       "NumProgressed": 15530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T23:07:17.6863442+00:00",
+      "NumProgressed": 15531,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1743,7 +1748,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13511
+      "UsersEstimate": 13512
     },
     {
       "ID": "ACH0010",
@@ -1767,7 +1772,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 7299
+      "UsersEstimate": 7300
     },
     {
       "ID": "ACH0013",
@@ -1807,7 +1812,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACH0018",
@@ -1815,7 +1820,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "ACH0019",
@@ -1895,7 +1900,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13666
+      "UsersEstimate": 13667
     },
     {
       "ID": "ACH005",
@@ -1911,7 +1916,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6367
+      "UsersEstimate": 6368
     },
     {
       "ID": "ACH007",
@@ -1942,7 +1947,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15530,
+      "Progressed": 15531,
       "Completed": 0
     }
   ],
@@ -1950,8 +1955,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-01T22:00:58.8734008+00:00",
-  "LastChanged_Achievements": "2023-06-05T22:06:25.2538693+00:00",
+  "LastChanged_Achievements": "2023-06-05T23:07:17.6863431+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.5075108+00:00",
-  "LastUpdate_Ratings": "2023-06-05T22:00:21.8601954+00:00",
-  "LastUpdate_Achievements": "2023-06-05T22:06:25.2538896+00:00"
+  "LastUpdate_Ratings": "2023-06-05T23:01:15.7578457+00:00",
+  "LastUpdate_Achievements": "2023-06-05T23:07:17.6863842+00:00"
 }

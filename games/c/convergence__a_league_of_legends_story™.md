@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 94.00% | ~571 |
-| Rail Rat | 78.00% | ~473 |
-| The Mysterious Stranger | 76.00% | ~461 |
+| Time Heals All Wounds | 94.00% | ~572 |
+| Rail Rat | 78.00% | ~474 |
+| The Mysterious Stranger | 76.00% | ~462 |
 | Immaculate Aim | 67.00% | ~407 |
-| Honest Mistake | 58.00% | ~352 |
-| The Brass Boss | 58.00% | ~352 |
+| Honest Mistake | 58.00% | ~353 |
+| The Brass Boss | 58.00% | ~353 |
 | No, Thanks! | 56.00% | ~340 |
 | Time Flies | 54.00% | ~328 |
 | The Harder They Fall | 53.00% | ~322 |
@@ -17,15 +17,15 @@
 | Fast Learner | 51.00% | ~310 |
 | Right On Time | 50.00% | ~304 |
 | Immaculate Aim | 50.00% | ~304 |
-| Make Up For Lost Time | 49.00% | ~297 |
-| Breaking Down Barriers | 46.00% | ~279 |
+| Make Up For Lost Time | 49.00% | ~298 |
+| Breaking Down Barriers | 46.00% | ~280 |
 | The Steel Shadow | 41.00% | ~249 |
-| Golem Chaser | 40.00% | ~243 |
+| Golem Chaser | 39.00% | ~237 |
 | The Wicked Twins | 38.00% | ~231 |
 | Like Clockwork | 37.00% | ~225 |
 | The Betrayer | 37.00% | ~225 |
-| Check Your Pulse | 34.00% | ~206 |
-| The Loose Cannon | 32.00% | ~194 |
+| Check Your Pulse | 34.00% | ~207 |
+| The Loose Cannon | 32.00% | ~195 |
 | Street Style | 31.00% | ~188 |
 | Family Memories | 31.00% | ~188 |
 | Good Neighbor | 31.00% | ~188 |
@@ -37,7 +37,7 @@
 | Fairgrounds Explorer | 22.00% | ~134 |
 | Sump Explorer | 22.00% | ~134 |
 | Syron for Hope | 22.00% | ~134 |
-| Factorywood Explorer | 20.00% | ~121 |
+| Factorywood Explorer | 20.00% | ~122 |
 | Theater Explorer | 17.00% | ~103 |
 | Cultivair Explorer | 16.00% | ~97 |
 | Corin Goes Home | 14.00% | ~85 |
@@ -58,7 +58,7 @@
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 607 (Ranked 195)  
+Progressed: 608 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,4 +76,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 578 | 0 |
 | 2023-06-03 | 586 | 0 |
 | 2023-06-04 | 602 | 0 |
-| 2023-06-05 | 607 | 0 |
+| 2023-06-05 | 608 | 0 |
