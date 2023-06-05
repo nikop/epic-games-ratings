@@ -17,7 +17,7 @@
 | All around the World | 60.00% | ~548 |
 | Right through the middle | 55.00% | ~502 |
 | Poor Devil | 51.00% | ~466 |
-| Facility Manager | 49.00% | ~447 |
+| Facility Manager | 50.00% | ~456 |
 | Producer | 46.00% | ~420 |
 | Apprentice | 42.00% | ~383 |
 | Bridge Builder | 36.00% | ~329 |
@@ -26,13 +26,13 @@
 | Going once, going twice, sold | 29.00% | ~265 |
 | Full Steam ahead | 28.00% | ~256 |
 | Bull and bear | 27.00% | ~247 |
-| Mole | 24.00% | ~219 |
+| Mole | 25.00% | ~228 |
 | All mine | 23.00% | ~210 |
 | Financial Shark | 23.00% | ~210 |
 | Socializer | 22.00% | ~201 |
 | Seven at one stroke | 21.00% | ~192 |
 | Hostile Takeover | 21.00% | ~192 |
-| General Manager | 19.00% | ~173 |
+| General Manager | 20.00% | ~183 |
 | Country Life | 19.00% | ~173 |
 | Trailblazer | 18.00% | ~164 |
 | Breaking Ground | 14.00% | ~128 |

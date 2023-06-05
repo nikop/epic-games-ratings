@@ -6,17 +6,17 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 42.00% | ~178 |
-| Grand Opening | 37.00% | ~157 |
-| Circus Electrique Proudly Presents... | 37.00% | ~157 |
-| Path of Learning | 37.00% | ~157 |
+| Self Defense | 42.00% | ~179 |
+| Grand Opening | 37.00% | ~158 |
+| Circus Electrique Proudly Presents... | 37.00% | ~158 |
+| Path of Learning | 37.00% | ~158 |
 | Built in a Day | 31.00% | ~132 |
-| More Brain Than Brawn | 26.00% | ~110 |
+| More Brain Than Brawn | 26.00% | ~111 |
 | Perfect Illusion | 20.00% | ~85 |
 | Hundred Percent First | 20.00% | ~85 |
 | Dirty Dozen | 17.00% | ~72 |
-| Lion Tamer | 16.00% | ~68 |
 | Fan Service | 16.00% | ~68 |
+| Lion Tamer | 15.00% | ~64 |
 | King of District 1 | 14.00% | ~60 |
 | Amazing! | 14.00% | ~60 |
 | Flawless Presentation | 13.00% | ~55 |
@@ -24,7 +24,7 @@ Number of Ratings: 22  (23.09.2022)
 | Lucky Day | 12.00% | ~51 |
 | Bar Brawler | 12.00% | ~51 |
 | King of District 2 | 12.00% | ~51 |
-| Time Travel! | 10.00% | ~42 |
+| Time Travel! | 10.00% | ~43 |
 | Marketing Manager | 9.00% | ~38 |
 | Circus Versus Circus | 8.00% | ~34 |
 | King of District 3 | 8.00% | ~34 |
@@ -41,14 +41,14 @@ Number of Ratings: 22  (23.09.2022)
 | Hundred Percent Third | 3.00% | ~13 |
 | Hundred Percent Fourth | 3.00% | ~13 |
 | City Savior | 3.00% | ~13 |
-| Unmatched Skills | 2.00% | ~8 |
-| Hundred Percent Fifth | 2.00% | ~8 |
-| Victorian Victor | 2.00% | ~8 |
-| King of District 6 | 2.00% | ~8 |
-| Grand Slam | 2.00% | ~8 |
-| The Greatest Show | 2.00% | ~8 |
-| Perfect Chemistry | 2.00% | ~8 |
-| Last Man Standing | 2.00% | ~8 |
+| Unmatched Skills | 2.00% | ~9 |
+| Hundred Percent Fifth | 2.00% | ~9 |
+| Victorian Victor | 2.00% | ~9 |
+| King of District 6 | 2.00% | ~9 |
+| Grand Slam | 2.00% | ~9 |
+| The Greatest Show | 2.00% | ~9 |
+| Perfect Chemistry | 2.00% | ~9 |
+| Last Man Standing | 2.00% | ~9 |
 | Hundred Percent Sixth | 1.00% | ~4 |
 | London Liberator | 1.00% | ~4 |
 | Vicious Busters | 1.00% | ~4 |
@@ -57,8 +57,8 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 204)  
-Completed: 1 (0.24%) (Ranked 140)  
+Progressed: 426 (Ranked 203)  
+Completed: 1 (0.23%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,7 +78,7 @@ Completed: 1 (0.24%) (Ranked 140)
 | 2023-06-02 | 418 | 1 |
 | 2023-06-03 | 421 | 1 |
 | 2023-06-04 | 424 | 1 |
-| 2023-06-05 | 425 | 1 |
+| 2023-06-05 | 426 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

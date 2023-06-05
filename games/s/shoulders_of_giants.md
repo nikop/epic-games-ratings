@@ -5,27 +5,27 @@ Rating: 4.35 (Ranked 726)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,870 |
-| A Ribbiting Performance | 77.00% | ~1,636 |
-| At Least We Have Each Other... | 76.00% | ~1,615 |
-| Frogbot | 73.00% | ~1,551 |
-| Ouch | 55.00% | ~1,169 |
-| Fun in the Stun | 54.00% | ~1,148 |
-| Do you feel like a tough guy? | 44.00% | ~935 |
-| The Interdimensional Power of Friendship | 44.00% | ~935 |
-| Turn Up The HEAT | 40.00% | ~850 |
-| Stop Hitting Yourself! | 35.00% | ~744 |
+| On the Shoulders of Giants | 88.00% | ~1,873 |
+| A Ribbiting Performance | 77.00% | ~1,639 |
+| At Least We Have Each Other... | 76.00% | ~1,617 |
+| Frogbot | 73.00% | ~1,553 |
+| Ouch | 55.00% | ~1,170 |
+| Fun in the Stun | 54.00% | ~1,149 |
+| Do you feel like a tough guy? | 44.00% | ~936 |
+| The Interdimensional Power of Friendship | 44.00% | ~936 |
+| Turn Up The HEAT | 40.00% | ~851 |
+| Stop Hitting Yourself! | 34.00% | ~724 |
 | Nothing to Wear | 30.00% | ~638 |
-| The First Law of Thermodynamics | 27.00% | ~574 |
+| The First Law of Thermodynamics | 27.00% | ~575 |
 | The Second Law of Thermodynamics | 15.00% | ~319 |
 | Do you trust me? | 15.00% | ~319 |
-| The Third Law of Thermodynamics | 9.00% | ~191 |
-| Taking Out the Trash | 9.00% | ~191 |
+| The Third Law of Thermodynamics | 9.00% | ~192 |
+| Taking Out the Trash | 9.00% | ~192 |
 | Say "Cheese!" | 8.00% | ~170 |
 | Better Than the Devs | 4.00% | ~85 |
-| So do we just stay up here, or?... | 2.00% | ~42 |
+| So do we just stay up here, or?... | 2.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,125 (Ranked 150)  
+Progressed: 2,128 (Ranked 150)  
 Completed: 8 (0.38%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 8 (0.38%) (Ranked 118)
 | 2023-06-02 | 2,104 | 8 |
 | 2023-06-03 | 2,115 | 8 |
 | 2023-06-04 | 2,120 | 8 |
-| 2023-06-05 | 2,125 | 8 |
+| 2023-06-05 | 2,128 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 913,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1361,17 +1361,17 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 456
     },
     {
       "ID": "A18",
       "SetID": "9b7p7eo",
       "Name": "General Manager",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 183
     },
     {
       "ID": "A19",
@@ -1569,9 +1569,9 @@
       "ID": "A43",
       "SetID": "9b7p7eo",
       "Name": "Mole",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 228
     },
     {
       "ID": "A44",
@@ -1672,8 +1672,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:05:54.3728765+00:00",
+  "LastChanged_Achievements": "2023-06-05T20:06:25.00775+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:58:03.866543+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:05:54.372936+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:58:21.0921507+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:06:25.0078046+00:00"
 }

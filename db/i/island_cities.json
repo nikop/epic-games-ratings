@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 14.71,
+  "EOS_Completed_Percentage": 14.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1203,6 +1203,11 @@
       "Time": "2023-06-05T19:05:31.5164843+00:00",
       "NumProgressed": 272,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-05T20:06:02.7227676+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 22,
@@ -1214,7 +1219,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "LEVEL_002",
@@ -1222,31 +1227,31 @@
       "Name": "A tiny town",
       "Percentage": 84,
       "XP": 35,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 177
+      "UsersEstimate": 180
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 152
+      "UsersEstimate": 150
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 133
+      "UsersEstimate": 131
     },
     {
       "ID": "LEVEL_006",
@@ -1270,7 +1275,7 @@
       "Name": "Passion for sports",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LEVEL_009",
@@ -1278,7 +1283,7 @@
       "Name": "Who loves trains?",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "LEVEL_010",
@@ -1318,7 +1323,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "LEVEL_015",
@@ -1348,9 +1353,9 @@
       "ID": "LEVEL_018",
       "SetID": "3khpmem",
       "Name": "Le jardin magnifique",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_019",
@@ -1389,7 +1394,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 40
     }
   ],
@@ -1397,8 +1402,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:05:31.5164837+00:00",
+  "LastChanged_Achievements": "2023-06-05T20:06:02.7227672+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:58:01.6577075+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:05:31.5165059+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:58:19.6777832+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:06:02.722792+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 103,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -530,11 +530,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14558,
-  "EOS_Completed": 53,
-  "EOS_NewPlayers": 569,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.36,
+  "EOS_Progressed": 14562,
+  "EOS_Completed": 54,
+  "EOS_NewPlayers": 567,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.0112544+00:00",
@@ -2850,6 +2850,11 @@
       "Time": "2023-06-05T19:03:59.5526993+00:00",
       "NumProgressed": 14558,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-05T20:04:39.4903811+00:00",
+      "NumProgressed": 14562,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -2877,7 +2882,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3133,7 +3138,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3141,7 +3146,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3180,13 +3185,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14558,
-      "Completed": 53
+      "Progressed": 14562,
+      "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2484,
+      "Progressed": 2488,
       "Completed": 29
     }
   ],
@@ -3194,8 +3199,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:03:59.5526987+00:00",
+  "LastChanged_Achievements": "2023-06-05T20:04:39.4903806+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:57:50.6237182+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:03:59.5527459+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:58:10.9151517+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:04:39.4904301+00:00"
 }

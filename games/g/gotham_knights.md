@@ -17,21 +17,21 @@ Rating: 4.17 (Ranked 846)
 | Loose Ends | 2.00% | ~1,275 |
 | Whispered Words | 2.00% | ~1,275 |
 | Lock and Key | 2.00% | ~1,275 |
-| In Your Element | 1.00% | ~637 |
-| Protector of Gotham | 1.00% | ~637 |
-| The Show Mud Go On | 1.00% | ~637 |
-| Rock and a Hard Place | 1.00% | ~637 |
-| Not On My Watch | 1.00% | ~637 |
-| Shock Til They Drop | 1.00% | ~637 |
-| Snow Problem | 1.00% | ~637 |
-| Cooldown | 1.00% | ~637 |
-| Universal Health Scare | 1.00% | ~637 |
-| Unstoppable Force | 1.00% | ~637 |
-| Bad Apples in Every Orchard | 1.00% | ~637 |
-| From Inside Gotham's Walls | 1.00% | ~637 |
-| Voiceless | 1.00% | ~637 |
-| Seeking Asylum | 1.00% | ~637 |
-| Gotham Knight | 1.00% | ~637 |
+| In Your Element | 1.00% | ~638 |
+| Protector of Gotham | 1.00% | ~638 |
+| The Show Mud Go On | 1.00% | ~638 |
+| Rock and a Hard Place | 1.00% | ~638 |
+| Not On My Watch | 1.00% | ~638 |
+| Shock Til They Drop | 1.00% | ~638 |
+| Snow Problem | 1.00% | ~638 |
+| Cooldown | 1.00% | ~638 |
+| Universal Health Scare | 1.00% | ~638 |
+| Unstoppable Force | 1.00% | ~638 |
+| Bad Apples in Every Orchard | 1.00% | ~638 |
+| From Inside Gotham's Walls | 1.00% | ~638 |
+| Voiceless | 1.00% | ~638 |
+| Seeking Asylum | 1.00% | ~638 |
+| Gotham Knight | 1.00% | ~638 |
 | End of an Era | 0.90% | ~574 |
 | Bulldozed | 0.90% | ~574 |
 | Gotham City Confidential | 0.90% | ~574 |
@@ -48,8 +48,8 @@ Rating: 4.17 (Ranked 846)
 | Hammer and Icicle | 0.20% | ~68 |
 | Renewable Enemy Source | 0.20% | ~68 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~68 |
-| Practice Makes Perfect | 0.20% | ~127 |
-| He'd Be So Proud of You | 0.20% | ~127 |
+| Practice Makes Perfect | 0.20% | ~128 |
+| He'd Be So Proud of You | 0.20% | ~128 |
 | Element of Surprise | 0.10% | ~34 |
 | It's Nice to Be Wanted | 0.10% | ~34 |
 | The Cold, the Bad and the Ugly | 0.10% | ~34 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 846)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,742 (Ranked 71)  
+Progressed: 63,750 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 93 (0.15%) (Ranked 154)
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
 | 2023-06-04 | 63,645 | 93 |
-| 2023-06-05 | 63,742 | 93 |
+| 2023-06-05 | 63,750 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,296  (Ranked 97)  
 Sum: 3,801 (Ranked 136)  

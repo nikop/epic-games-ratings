@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 44,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -330,9 +330,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 230108,
+  "EOS_Progressed": 230115,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1476,
+  "EOS_NewPlayers": 1467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5105,6 +5105,11 @@
       "Time": "2023-06-05T19:05:43.5105654+00:00",
       "NumProgressed": 230108,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-05T20:06:14.1431346+00:00",
+      "NumProgressed": 230115,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 52,
@@ -5116,7 +5121,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 62129
+      "UsersEstimate": 62131
     },
     {
       "ID": "ACH_AON",
@@ -5140,7 +5145,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9204
+      "UsersEstimate": 9205
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -5156,7 +5161,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25312
+      "UsersEstimate": 25313
     },
     {
       "ID": "ACH_ENJOY",
@@ -5180,7 +5185,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27613
+      "UsersEstimate": 27614
     },
     {
       "ID": "ACH_HATTRICK",
@@ -5260,7 +5265,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 64430
+      "UsersEstimate": 64432
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -5284,7 +5289,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9204
+      "UsersEstimate": 9205
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -5332,7 +5337,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 55226
+      "UsersEstimate": 55228
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -5348,7 +5353,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11505
+      "UsersEstimate": 11506
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -5396,7 +5401,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13806
+      "UsersEstimate": 13807
     },
     {
       "ID": "ACH_MEMORY5",
@@ -5436,7 +5441,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 57527
+      "UsersEstimate": 57529
     },
     {
       "ID": "ACH_SOREAD",
@@ -5484,7 +5489,7 @@
       "Name": "Trash compactor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11505
+      "UsersEstimate": 11506
     },
     {
       "ID": "ACH_TROLLKING",
@@ -5500,7 +5505,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11505
+      "UsersEstimate": 11506
     },
     {
       "ID": "ACH_WAKEUP",
@@ -5531,7 +5536,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 230108,
+      "Progressed": 230115,
       "Completed": 5
     }
   ],
@@ -5539,8 +5544,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-04T15:57:56.7982664+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:05:43.5105649+00:00",
+  "LastChanged_Achievements": "2023-06-05T20:06:14.1431342+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:08.8017739+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:57:57.5373056+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:05:43.5106353+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:58:16.6262043+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:06:14.1432092+00:00"
 }

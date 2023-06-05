@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7630,
+  "EOS_Progressed": 7631,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2277,6 +2277,11 @@
       "Time": "2023-06-05T18:05:25.6685666+00:00",
       "NumProgressed": 7630,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-05T20:06:03.9609406+00:00",
+      "NumProgressed": 7631,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2336,7 +2341,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2899
+      "UsersEstimate": 2900
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -2344,7 +2349,7 @@
       "Name": "Deadly Power",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -2448,7 +2453,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7096
+      "UsersEstimate": 7097
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2456,7 +2461,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -2472,22 +2477,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6333
+      "UsersEstimate": 6334
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7630,
+      "Progressed": 7631,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:05:32.6720384+00:00",
+  "LastChanged_Achievements": "2023-06-05T20:06:03.9609402+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:58:56.0571796+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:05:32.6720633+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:59:12.6662153+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:06:03.9609682+00:00"
 }

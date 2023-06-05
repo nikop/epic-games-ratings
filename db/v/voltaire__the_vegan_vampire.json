@@ -4,8 +4,8 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -161,9 +161,9 @@
       "ID": "COSMETICS",
       "SetID": "3c20ib3",
       "Name": "Fashionista",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "FIRST_HARVEST",
@@ -394,8 +394,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:03:31.3610383+00:00",
+  "LastChanged_Achievements": "2023-06-05T20:04:11.2717471+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:35.375098+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:57:28.1019004+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:03:31.3610608+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:57:47.9923071+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:04:11.2717717+00:00"
 }

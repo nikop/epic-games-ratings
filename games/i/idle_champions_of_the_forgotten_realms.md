@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,797 |
+| A Brief Tour of the Realms | 2.00% | ~1,798 |
 | The Cursed Farmer | 1.00% | ~899 |
 | The Mad Wizard | 0.90% | ~809 |
 | The Court of Storms | 0.90% | ~505 |
@@ -24,12 +24,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.40% | ~225 |
 | Checkmate | 0.40% | ~225 |
 | Vecna Out! | 0.40% | ~225 |
-| A Persistent Buzzing | 0.40% | ~359 |
-| Terror in the Dark | 0.40% | ~359 |
-| Unearthed Evil | 0.40% | ~359 |
-| The Crumbling Temple | 0.40% | ~359 |
-| Exploring Port Nyanzaru | 0.40% | ~359 |
-| Pure Energy | 0.40% | ~359 |
+| A Persistent Buzzing | 0.40% | ~360 |
+| Terror in the Dark | 0.40% | ~360 |
+| Unearthed Evil | 0.40% | ~360 |
+| The Crumbling Temple | 0.40% | ~360 |
+| Exploring Port Nyanzaru | 0.40% | ~360 |
+| Pure Energy | 0.40% | ~360 |
 | Maddening | 0.30% | ~270 |
 | Keep Your Distance | 0.30% | ~168 |
 | Hands Off! | 0.30% | ~168 |
@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.30% | ~270 |
 | Rescue in the Jungle | 0.30% | ~270 |
 | Pros and CONs | 0.20% | ~180 |
+| Upholding the Law | 0.20% | ~180 |
 | Tall Tales | 0.20% | ~112 |
 | Nightmare Rats! | 0.20% | ~112 |
 | The Witchlight Carnival | 0.20% | ~112 |
@@ -66,6 +67,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.20% | ~112 |
 | Wet Feet | 0.20% | ~180 |
 | Hatchlings Underfoot | 0.20% | ~180 |
+| Don't Look Up! | 0.20% | ~180 |
 | Will of the Feywild | 0.20% | ~112 |
 | The Roots of Loomlurch | 0.20% | ~112 |
 | The Lutes of Loomlurch | 0.20% | ~112 |
@@ -176,10 +178,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sibriex | 0.20% | ~112 |
 | Wrecked Flying Fortress | 0.20% | ~112 |
 | Expert Opinion | 0.20% | ~180 |
+| Sunblight | 0.20% | ~112 |
 | Witty Riposting | 0.20% | ~112 |
 | How Far Away is Thay | 0.20% | ~112 |
 | The Haunted Jungle | 0.20% | ~180 |
-| Upholding the Law | 0.10% | ~90 |
 | Starving in the Jungle | 0.10% | ~90 |
 | Cold as Ice | 0.10% | ~56 |
 | Keep Your Friends Close | 0.10% | ~56 |
@@ -220,7 +222,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Levelheaded | 0.10% | ~56 |
 | The Madness of Zuggtmoy | 0.10% | ~56 |
 | It's So Pretty… | 0.10% | ~56 |
-| Don't Look Up! | 0.10% | ~90 |
 | The Cult of Lolth | 0.10% | ~56 |
 | Head over Heals | 0.10% | ~56 |
 | The Demon Lords of the Abyss | 0.10% | ~56 |
@@ -440,7 +441,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Perception | 0.10% | ~56 |
 | Frozen in Fear | 0.10% | ~56 |
 | It's Cold Out There Today | 0.10% | ~56 |
-| Sunblight | 0.10% | ~56 |
 | Fortress Assault | 0.10% | ~56 |
 | Hats off to you! | 0.10% | ~56 |
 | It's Cold Out There Every Day | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,871 (Ranked 62)  
+Progressed: 89,878 (Ranked 62)  
 Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,871 | 1,917 |
+| 2023-06-05 | 89,878 | 1,917 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,035 (Ranked 37)  

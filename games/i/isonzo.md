@@ -6,23 +6,23 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,284 |
-| Tutti Eroi! | 54.00% | ~3,284 |
-| You Shall Not Pass | 52.00% | ~3,163 |
-| Avanti Savoia! | 46.00% | ~2,798 |
+| Peak Performance | 54.00% | ~3,285 |
+| Tutti Eroi! | 54.00% | ~3,285 |
+| You Shall Not Pass | 52.00% | ~3,164 |
+| Avanti Savoia! | 46.00% | ~2,799 |
 | Mamma Mia! | 36.00% | ~2,190 |
 | Conrad von Hotzensocks | 35.00% | ~2,129 |
-| Gabriele D'Annunzio | 32.00% | ~1,946 |
-| Silver Lining | 28.00% | ~1,703 |
+| Gabriele D'Annunzio | 32.00% | ~1,947 |
+| Silver Lining | 28.00% | ~1,704 |
 | Aurelio Baruzzi | 22.00% | ~1,338 |
 | Veni Vidi Vici | 22.00% | ~1,338 |
-| Decimation | 20.00% | ~1,216 |
-| Donatello | 20.00% | ~1,216 |
+| Decimation | 20.00% | ~1,217 |
+| Donatello | 20.00% | ~1,217 |
 | Insubordination | 19.00% | ~1,156 |
 | The Italian Job | 19.00% | ~1,156 |
 | Ragazzi del '99 | 17.00% | ~1,034 |
 | The Lion of the Isonzo | 17.00% | ~1,034 |
-| Thus With A Kiss | 14.00% | ~851 |
+| Thus With A Kiss | 14.00% | ~852 |
 | Dirty Dozen | 13.00% | ~791 |
 | Luigi Cadorna | 13.00% | ~791 |
 | Uomo Universale | 13.00% | ~791 |
@@ -32,7 +32,7 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 11.00% | ~669 |
 | The Devil's Paintbrush | 11.00% | ~669 |
 | I Have the High Ground | 10.00% | ~608 |
-| Millenial | 9.00% | ~547 |
+| Millenial | 9.00% | ~548 |
 | The Show Must Go On | 8.00% | ~487 |
 | Tosca | 8.00% | ~487 |
 | 12th Bottle of the Isonzo | 6.00% | ~365 |
@@ -40,9 +40,9 @@ Number of Ratings: 98  (23.09.2022)
 | Cercatore d'Oro | 5.00% | ~304 |
 | Generalissimo | 5.00% | ~304 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~243 |
-| Ponte of No Return | 3.00% | ~182 |
-| Seeing Red | 3.00% | ~182 |
-| Soča Drag | 3.00% | ~182 |
+| Ponte of No Return | 3.00% | ~183 |
+| Seeing Red | 3.00% | ~183 |
+| Soča Drag | 3.00% | ~183 |
 | Farewell to Arms | 2.00% | ~122 |
 | Saboteur | 2.00% | ~122 |
 | Compagnia della Morte | 1.00% | ~61 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~24 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,082 (Ranked 123)  
+Progressed: 6,084 (Ranked 123)  
 Completed: 8 (0.13%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 8 (0.13%) (Ranked 160)
 | 2023-06-02 | 6,031 | 8 |
 | 2023-06-03 | 6,048 | 8 |
 | 2023-06-04 | 6,072 | 8 |
-| 2023-06-05 | 6,082 | 8 |
+| 2023-06-05 | 6,084 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 443)  
 Sum: 241 (Ranked 344)  

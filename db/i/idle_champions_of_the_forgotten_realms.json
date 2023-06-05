@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4120,7 +4120,7 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89871,
+  "EOS_Progressed": 89878,
   "EOS_Completed": 1917,
   "EOS_NewPlayers": 731,
   "EOS_NewCompleters": 20,
@@ -8790,6 +8790,11 @@
       "Time": "2023-06-05T19:06:04.2707135+00:00",
       "NumProgressed": 89871,
       "NumCompleted": 1917
+    },
+    {
+      "Time": "2023-06-05T20:06:34.9762377+00:00",
+      "NumProgressed": 89878,
+      "NumCompleted": 1917
     }
   ],
   "TotalAchievements": 493,
@@ -8801,7 +8806,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "objective_completed_10",
@@ -8823,9 +8828,9 @@
       "ID": "objective_completed_101",
       "SetID": "cc37lbc",
       "Name": "Upholding the Law",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_102",
@@ -9271,9 +9276,9 @@
       "ID": "objective_completed_112",
       "SetID": "cc37lbc",
       "Name": "Don\u0027t Look Up!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_1121",
@@ -9777,7 +9782,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "objective_completed_130",
@@ -9921,7 +9926,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "objective_completed_150",
@@ -10129,7 +10134,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "objective_completed_20",
@@ -10489,7 +10494,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "objective_completed_36",
@@ -10945,7 +10950,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "objective_completed_540",
@@ -12191,9 +12196,9 @@
       "ID": "objective_completed_832",
       "SetID": "415jc5c",
       "Name": "Sunblight",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_833",
@@ -12545,7 +12550,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "objective_completed_902",
@@ -12744,21 +12749,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56145,
+      "Progressed": 56152,
       "Completed": 2772
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89871,
+      "Progressed": 89878,
       "Completed": 1917
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-05T13:07:15.1307776+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:06:04.2707129+00:00",
+  "LastChanged_Achievements": "2023-06-05T20:06:34.9762371+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:58:03.6048612+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:06:04.2730558+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:58:20.6906451+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:06:34.9786428+00:00"
 }

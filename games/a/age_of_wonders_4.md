@@ -5,30 +5,30 @@ Rating: 4.54 (Ranked 490)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 78.00% | ~3,394 |
-| Realm Estate | 75.00% | ~3,263 |
-| Secret Technique | 75.00% | ~3,263 |
-| Walls Cannot Stop Us | 73.00% | ~3,176 |
-| From Friends to Family | 69.00% | ~3,002 |
-| Magical Synergy | 64.00% | ~2,785 |
-| Bone Peddler | 61.00% | ~2,654 |
-| Stronger Together | 55.00% | ~2,393 |
-| Full Ascension | 54.00% | ~2,350 |
-| There Can Only Be One! | 47.00% | ~2,045 |
-| Seat of Power | 47.00% | ~2,045 |
-| Intimidation Tactics | 44.00% | ~1,914 |
-| My Final Form | 43.00% | ~1,871 |
-| Valley of Wonders | 42.00% | ~1,827 |
-| In a Liege of Your Own | 37.00% | ~1,610 |
+| A Wonderful Discovery | 78.00% | ~3,395 |
+| Realm Estate | 75.00% | ~3,265 |
+| Secret Technique | 75.00% | ~3,265 |
+| Walls Cannot Stop Us | 73.00% | ~3,178 |
+| From Friends to Family | 69.00% | ~3,004 |
+| Magical Synergy | 64.00% | ~2,786 |
+| Bone Peddler | 61.00% | ~2,655 |
+| Stronger Together | 55.00% | ~2,394 |
+| Full Ascension | 54.00% | ~2,351 |
+| There Can Only Be One! | 47.00% | ~2,046 |
+| Seat of Power | 47.00% | ~2,046 |
+| Intimidation Tactics | 44.00% | ~1,915 |
+| My Final Form | 43.00% | ~1,872 |
+| Valley of Wonders | 42.00% | ~1,828 |
+| In a Liege of Your Own | 37.00% | ~1,611 |
 | Return of the Wizard King | 31.00% | ~1,349 |
-| Digging for Treasure | 30.00% | ~1,305 |
-| Against the Odds | 30.00% | ~1,305 |
+| Digging for Treasure | 30.00% | ~1,306 |
+| Against the Odds | 30.00% | ~1,306 |
 | Enchanted Archipelago | 27.00% | ~1,175 |
-| Impenetrable Fortress | 26.00% | ~1,131 |
+| Impenetrable Fortress | 26.00% | ~1,132 |
+| Preparation Is Everything | 20.00% | ~871 |
 | The Magic That Empowers Me! | 19.00% | ~827 |
 | Arch Mage | 19.00% | ~827 |
-| Preparation Is Everything | 19.00% | ~827 |
-| God Emperor | 18.00% | ~783 |
+| God Emperor | 18.00% | ~784 |
 | Crimson Caldera | 17.00% | ~740 |
 | Eternal Lord | 16.00% | ~696 |
 | Fiery Friend | 15.00% | ~653 |
@@ -45,12 +45,12 @@ Rating: 4.54 (Ranked 490)
 | Snap Out of It! | 3.00% | ~131 |
 | I Want to Break Free | 2.00% | ~87 |
 | Manufactured War | 1.00% | ~44 |
-| I'll Fight You All | 0.90% | ~39 |
+| I'll Fight You All | 0.80% | ~35 |
 | The Grey Wizard | 0.40% | ~17 |
 | Master of Evilness | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,351 (Ranked 128)  
+Progressed: 4,353 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 4,204 | 0 |
 | 2023-06-03 | 4,275 | 0 |
 | 2023-06-04 | 4,325 | 0 |
-| 2023-06-05 | 4,351 | 0 |
+| 2023-06-05 | 4,353 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

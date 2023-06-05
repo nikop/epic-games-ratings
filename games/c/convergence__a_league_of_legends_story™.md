@@ -32,11 +32,11 @@
 | The Family Fortune | 26.00% | ~158 |
 | The Man Who Shattered Time | 25.00% | ~152 |
 | Whiz Kid | 24.00% | ~145 |
+| Ask Questions Later | 23.00% | ~139 |
 | Chaincrawler Explorer | 22.00% | ~133 |
 | Fairgrounds Explorer | 22.00% | ~133 |
 | Sump Explorer | 22.00% | ~133 |
-| Ask Questions Later | 22.00% | ~133 |
-| Syron for Hope | 21.00% | ~127 |
+| Syron for Hope | 22.00% | ~133 |
 | Factorywood Explorer | 20.00% | ~121 |
 | Theater Explorer | 17.00% | ~103 |
 | Cultivair Explorer | 16.00% | ~97 |

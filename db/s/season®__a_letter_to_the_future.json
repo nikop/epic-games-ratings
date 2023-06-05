@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 959,
+  "EOS_Progressed": 960,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.75,
   "EosHistory": [
@@ -1016,6 +1016,11 @@
       "Time": "2023-06-05T19:05:33.4499754+00:00",
       "NumProgressed": 959,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-05T20:06:04.7397612+00:00",
+      "NumProgressed": 960,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -1059,7 +1064,7 @@
       "Name": "Goodbye Tieng Valley",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -1083,7 +1088,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1091,7 +1096,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1139,7 +1144,7 @@
       "Name": "The End",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -1154,7 +1159,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 959,
+      "Progressed": 960,
       "Completed": 36
     }
   ],
@@ -1162,8 +1167,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:05:33.4499748+00:00",
+  "LastChanged_Achievements": "2023-06-05T20:06:04.7397608+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:52.9746475+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:58:38.194581+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:05:33.4499924+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:58:52.3303355+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:06:04.7397791+00:00"
 }

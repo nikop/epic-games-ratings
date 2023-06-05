@@ -4,8 +4,8 @@
   "ProductSlug": "orwell-keeping-an-eye-on-you",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-03-18T15:00:00+00:00",
     "PcReleaseDate": "2016-10-27T15:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:33.0220472+00:00",
   "LastChanged": "2023-03-31T05:57:33.0220473+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:29.9473553+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:00:02.9496188+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:05:12.5120177+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:00:13.7805243+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:05:43.083778+00:00"
 }

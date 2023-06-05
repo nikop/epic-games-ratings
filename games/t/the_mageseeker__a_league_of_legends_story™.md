@@ -1,7 +1,7 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.78 (Ranked 101)  
+Rating: 4.79 (Ranked 90)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,7 +14,7 @@ Rating: 4.78 (Ranked 101)
 | You can pet the dog | 60.00% | ~1,359 |
 | Big Helmet Bro | 35.00% | ~793 |
 | Clarion Cove | 35.00% | ~793 |
-| Past trauma | 33.00% | ~747 |
+| Past trauma | 34.00% | ~770 |
 | Thornbarrow | 33.00% | ~747 |
 | Ternmoat Headquarters | 33.00% | ~747 |
 | Elemental master | 32.00% | ~725 |
@@ -123,3 +123,4 @@ Completed: 1 (0.04%) (Ranked 185)
 | 2023-05-17 | 4.76 | 0 | 0 |
 | 2023-05-22 | 4.77 | 0 | 0 |
 | 2023-05-24 | 4.78 | 0 | 0 |
+| 2023-06-05 | 4.79 | 0 | 0 |

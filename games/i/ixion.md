@@ -9,7 +9,7 @@ Rating: 4.57 (Ranked 443)
 | Sputnik 2049 | 13.00% | ~319 |
 | Without Breaking Some Eggs... | 12.00% | ~295 |
 | Infinite Growth... | 12.00% | ~295 |
-| Ready for a New World | 8.00% | ~196 |
+| Ready for a New World | 8.00% | ~197 |
 | Space Society | 7.00% | ~172 |
 | A Thousand Strong | 7.00% | ~172 |
 | Permanent Redesigns | 6.00% | ~147 |
@@ -27,6 +27,7 @@ Rating: 4.57 (Ranked 443)
 | Please Make it Stop! | 3.00% | ~74 |
 | Oats | 2.00% | ~49 |
 | Sightseeing | 2.00% | ~49 |
+| In Dolos We Trust | 2.00% | ~49 |
 | Access Granted | 2.00% | ~49 |
 | Convenient Transport | 2.00% | ~49 |
 | BRAWL! | 2.00% | ~49 |
@@ -35,7 +36,6 @@ Rating: 4.57 (Ranked 443)
 | What They Hide From Us | 1.00% | ~25 |
 | ...  in a finite world | 1.00% | ~25 |
 | Sustainable Energy | 1.00% | ~25 |
-| In Dolos We Trust | 1.00% | ~25 |
 | Delivery! | 1.00% | ~25 |
 | Pedal to the Metal | 1.00% | ~25 |
 | What the Ruins Teach Us | 1.00% | ~25 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 443)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,456 (Ranked 145)  
+Progressed: 2,457 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 2,386 | 0 |
 | 2023-06-03 | 2,408 | 0 |
 | 2023-06-04 | 2,441 | 0 |
-| 2023-06-05 | 2,456 | 0 |
+| 2023-06-05 | 2,457 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

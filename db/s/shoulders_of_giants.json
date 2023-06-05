@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2125,
+  "EOS_Progressed": 2128,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1086,6 +1086,11 @@
       "Time": "2023-06-05T19:05:49.06741+00:00",
       "NumProgressed": 2125,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-05T20:06:19.5917734+00:00",
+      "NumProgressed": 2128,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -1097,7 +1102,7 @@
       "Name": "So do we just stay up here, or?...",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "collect_dyes",
@@ -1113,7 +1118,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 27,
       "XP": 150,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "complete_act_three",
@@ -1121,7 +1126,7 @@
       "Name": "The Third Law of Thermodynamics",
       "Percentage": 9,
       "XP": 150,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "complete_act_two",
@@ -1137,7 +1142,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1873
     },
     {
       "ID": "deal_damage",
@@ -1145,7 +1150,7 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "defeat_enemies",
@@ -1153,7 +1158,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1639
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1161,7 +1166,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "fail_planet",
@@ -1169,7 +1174,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1617
     },
     {
       "ID": "piercing_beam",
@@ -1185,7 +1190,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "reach_high_heat",
@@ -1201,7 +1206,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1553
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1217,15 +1222,15 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "stick_decoy",
       "SetID": "236b9eg",
       "Name": "Stop Hitting Yourself!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 744
+      "UsersEstimate": 724
     },
     {
       "ID": "stun_enemies",
@@ -1233,7 +1238,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "trash_truck",
@@ -1241,14 +1246,14 @@
       "Name": "Taking Out the Trash",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     }
   ],
   "AchievementSets": [
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2125,
+      "Progressed": 2128,
       "Completed": 8
     }
   ],
@@ -1256,8 +1261,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:05:49.0674094+00:00",
+  "LastChanged_Achievements": "2023-06-05T20:06:19.5917729+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:44.7570646+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:00:14.5741873+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:05:49.0674278+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:00:25.9449165+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:06:19.5917938+00:00"
 }

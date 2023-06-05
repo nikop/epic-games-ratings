@@ -4,8 +4,8 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -265,9 +265,9 @@
       "ID": "a_box_of_tricks",
       "SetID": "5anb57n",
       "Name": "A Box of Tricks",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "backstory_buff",
@@ -416,8 +416,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:03:18.0817676+00:00",
+  "LastChanged_Achievements": "2023-06-05T20:03:58.3629989+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:16.6087541+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:58:04.7861442+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:03:18.0817801+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:58:21.9951441+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:03:58.3630166+00:00"
 }

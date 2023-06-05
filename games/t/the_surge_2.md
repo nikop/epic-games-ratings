@@ -6,11 +6,11 @@ Rating: 4.24 (Ranked 800)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,366 |
-| Don't I Know You...? | 76.00% | ~1,297 |
+| Don't I Know You...? | 76.00% | ~1,298 |
 | Jailbreak | 65.00% | ~1,110 |
 | Suited and Booted | 38.00% | ~649 |
 | HEADSHOT! | 37.00% | ~632 |
-| Sleeping With The Fishes | 35.00% | ~597 |
+| Sleeping With The Fishes | 35.00% | ~598 |
 | Overheated | 30.00% | ~512 |
 | High Performance | 30.00% | ~512 |
 | Powered Up | 28.00% | ~478 |
@@ -18,11 +18,11 @@ Rating: 4.24 (Ranked 800)
 | Home Invasion | 22.00% | ~376 |
 | Luminary | 22.00% | ~376 |
 | It's a Trap | 22.00% | ~376 |
-| True Survivor | 21.00% | ~358 |
-| Shocking | 20.00% | ~341 |
-| Court Martial | 19.00% | ~324 |
-| Offensive Defense | 19.00% | ~324 |
-| Unforeseeable Consequences | 19.00% | ~324 |
+| True Survivor | 21.00% | ~359 |
+| Court Martial | 19.00% | ~325 |
+| Offensive Defense | 19.00% | ~325 |
+| Shocking | 19.00% | ~325 |
+| Unforeseeable Consequences | 19.00% | ~325 |
 | Clean Cut | 18.00% | ~307 |
 | Dead Again | 17.00% | ~290 |
 | Full Arsenal | 16.00% | ~273 |
@@ -39,9 +39,9 @@ Rating: 4.24 (Ranked 800)
 | Stimulating The Local Economy | 9.00% | ~154 |
 | Denying Prophecy | 8.00% | ~137 |
 | Defense in Depth | 8.00% | ~137 |
-| A Little Banged Up | 7.00% | ~119 |
-| Reverse Engineering | 7.00% | ~119 |
-| Following In Their Footsteps | 7.00% | ~119 |
+| A Little Banged Up | 7.00% | ~120 |
+| Reverse Engineering | 7.00% | ~120 |
+| Following In Their Footsteps | 7.00% | ~120 |
 | Remote Surgery | 6.00% | ~102 |
 | Turbo Booster | 6.00% | ~102 |
 | Squid Pro Quo | 6.00% | ~102 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 800)
 | Three Birds With One Stone | 1.00% | ~17 |
 | The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,707 (Ranked 154)  
+Progressed: 1,708 (Ranked 154)  
 Completed: 10 (0.59%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 10 (0.59%) (Ranked 110)
 | 2023-06-02 | 1,682 | 10 |
 | 2023-06-03 | 1,691 | 10 |
 | 2023-06-04 | 1,702 | 10 |
-| 2023-06-05 | 1,707 | 10 |
+| 2023-06-05 | 1,708 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

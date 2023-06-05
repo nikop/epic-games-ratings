@@ -4,11 +4,11 @@
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 453,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 316,
+  "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-03-19T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1357,6 +1357,6 @@
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
   "LastChanged": "2023-06-05T02:22:04.514783+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:06.5124354+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:00:37.1497786+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:03:41.718335+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:00:47.7792556+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:04:21.6592191+00:00"
 }

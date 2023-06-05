@@ -24,7 +24,7 @@
 | Tropical Summer | 3.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 285 (Ranked 228)  
-Completed: 8 (2.81%) (Ranked 55)  
+Completed: 8 (2.81%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

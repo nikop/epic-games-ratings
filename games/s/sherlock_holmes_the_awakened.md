@@ -16,10 +16,10 @@
 | Gaze Into The Abyss | 43.00% | ~161 |
 | Open Sesame | 42.00% | ~157 |
 | Sticky Fingers | 42.00% | ~157 |
-| Knives Out | 41.00% | ~153 |
+| Knives Out | 42.00% | ~157 |
+| Back In The Saddle | 41.00% | ~153 |
 | Land, Ho! | 41.00% | ~153 |
-| Back In The Saddle | 40.00% | ~150 |
-| No Man Is An Island | 39.00% | ~146 |
+| No Man Is An Island | 40.00% | ~150 |
 | At Wits' End | 39.00% | ~146 |
 | Bookworm | 36.00% | ~135 |
 | Up In Flames | 36.00% | ~135 |

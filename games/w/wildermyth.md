@@ -19,7 +19,7 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 12.00% | ~149 |
 | A Mythic Menagerie | 11.00% | ~136 |
 | Core Failure | 11.00% | ~136 |
-| Pyrrhic Victory | 9.00% | ~111 |
+| Pyrrhic Victory | 9.00% | ~112 |
 | Thematic Divergence | 8.00% | ~99 |
 | Echoes Die | 8.00% | ~99 |
 | Chain Reaction | 7.00% | ~87 |
@@ -58,12 +58,12 @@ Number of Ratings: 45  (23.09.2022)
 | I'm Not Smiling | 1.00% | ~12 |
 | Thwack! | 1.00% | ~12 |
 | A Temperamental Shrub | 1.00% | ~12 |
-| A Lowly Crust of Beef | 0.80% | ~10 |
+| A Lowly Crust of Beef | 0.90% | ~11 |
 | Overwhelming Monstrosity | 0.60% | ~7 |
 | We Call That Mortificient! | 0.50% | ~6 |
 | Peacemaker | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,238 (Ranked 163)  
+Progressed: 1,239 (Ranked 163)  
 Completed: 4 (0.32%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 4 (0.32%) (Ranked 125)
 | 2023-06-02 | 1,237 | 3 |
 | 2023-06-03 | 1,238 | 3 |
 | 2023-06-04 | 1,238 | 4 |
+| 2023-06-05 | 1,239 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 458)  
 Sum: 27 (Ranked 468)  

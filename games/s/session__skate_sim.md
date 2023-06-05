@@ -6,11 +6,11 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 54.00% | ~1,221 |
+| You're free now! | 54.00% | ~1,223 |
 | Keeping it classy | 25.00% | ~566 |
-| Welcome to the family | 18.00% | ~407 |
+| Welcome to the family | 18.00% | ~408 |
 | The finer things in life | 16.00% | ~362 |
-| Backpacker | 12.00% | ~271 |
+| Backpacker | 12.00% | ~272 |
 | Go with the Flow | 11.00% | ~249 |
 | Plastic Surgeon | 9.00% | ~204 |
 | Keep the dream alive | 8.00% | ~181 |
@@ -24,21 +24,21 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 5.00% | ~113 |
 | Fulfilled the dream | 5.00% | ~113 |
 | G'Day Mate! | 5.00% | ~113 |
+| Purple passion | 5.00% | ~113 |
 | Squad goals | 5.00% | ~113 |
 | Sup widdit big dog! | 5.00% | ~113 |
 | Tight lipslides | 5.00% | ~113 |
-| Commence the Hijinx! | 4.00% | ~90 |
-| DIY Boss | 4.00% | ~90 |
-| Globetrotter | 4.00% | ~90 |
-| Laid back | 4.00% | ~90 |
-| Lines for days | 4.00% | ~90 |
-| Manny Destroys All | 4.00% | ~90 |
-| NAHELL! | 4.00% | ~90 |
-| Prince of Philly | 4.00% | ~90 |
-| Purple passion | 4.00% | ~90 |
-| Renaissance man | 4.00% | ~90 |
-| Tank commander | 4.00% | ~90 |
-| Cops called! | 3.00% | ~68 |
+| Commence the Hijinx! | 4.00% | ~91 |
+| Cops called! | 4.00% | ~91 |
+| DIY Boss | 4.00% | ~91 |
+| Globetrotter | 4.00% | ~91 |
+| Laid back | 4.00% | ~91 |
+| Lines for days | 4.00% | ~91 |
+| Manny Destroys All | 4.00% | ~91 |
+| NAHELL! | 4.00% | ~91 |
+| Prince of Philly | 4.00% | ~91 |
+| Renaissance man | 4.00% | ~91 |
+| Tank commander | 4.00% | ~91 |
 | G.O.A.T. status | 3.00% | ~68 |
 | Hoarder | 3.00% | ~68 |
 | Trick shot marksman | 3.00% | ~68 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,262 (Ranked 149)  
+Progressed: 2,264 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 2,219 | 0 |
 | 2023-06-03 | 2,230 | 0 |
 | 2023-06-04 | 2,248 | 0 |
-| 2023-06-05 | 2,262 | 0 |
+| 2023-06-05 | 2,264 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 397)  
 Sum: 420 (Ranked 299)  

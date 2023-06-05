@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-new-vegas",
   "Ranking_Rating": 313,
   "Ranking_Popularity": 239,
-  "Ranking_PopularitySum": 323,
+  "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 3,
@@ -120,10 +120,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 324,
       "NumberOfAwardsMax": 261
+    },
+    {
+      "Time": "2023-06-05T19:57:22.1230369+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 360,
+      "NumberOfAwardsMax": 261
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 324,
+  "NumberOfAwards": 360,
   "NumberOfAwardsMax": 261,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -137,12 +143,12 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 63
+      "Count": 99
     }
   ],
-  "EOS_Progressed": 563932,
+  "EOS_Progressed": 564390,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 163184,
+  "EOS_NewPlayers": 160912,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1430,6 +1436,11 @@
       "Time": "2023-06-05T19:03:46.5402232+00:00",
       "NumProgressed": 563932,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-05T20:04:26.5228691+00:00",
+      "NumProgressed": 564390,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 75,
@@ -1487,9 +1498,9 @@
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
       "SetID": "a96a0j2",
       "Name": "Caravan Master",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 564
     },
     {
       "ID": "ACHIEVEMENT_CARDIAC_ARREST",
@@ -1551,9 +1562,9 @@
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
       "SetID": "a96a0j2",
       "Name": "Desert Survivalist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 564
     },
     {
       "ID": "ACHIEVEMENT_DOUBLE_DOWN",
@@ -1999,9 +2010,9 @@
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
       "SetID": "6m5nldi",
       "Name": "Warhead Hunter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 564
     },
     {
       "ID": "ACHIEVEMENT_WHEN_WE_REMEMBERED_ZION",
@@ -2040,22 +2051,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 563932,
+      "Progressed": 564390,
       "Completed": 12
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 563932,
+      "Progressed": 564390,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2023-06-05T16:57:17.6214625+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:03:46.5402222+00:00",
+  "LastChanged": "2023-06-05T19:57:22.1230367+00:00",
+  "LastChanged_Achievements": "2023-06-05T20:04:26.5228687+00:00",
   "LastUpdate_AppInfo": "2023-06-01T14:56:59.1245664+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:56:56.4764019+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:03:46.540384+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:57:22.1230373+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:04:26.5229569+00:00"
 }

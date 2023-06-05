@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2706,
+  "EOS_Progressed": 2707,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2315,6 +2315,11 @@
       "Time": "2023-06-05T18:03:38.5289206+00:00",
       "NumProgressed": 2706,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-05T20:04:24.9929458+00:00",
+      "NumProgressed": 2707,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -2334,7 +2339,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "11",
@@ -2366,7 +2371,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "15",
@@ -2438,7 +2443,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "23",
@@ -2462,7 +2467,7 @@
       "Name": "FRIENDLY",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "4",
@@ -2478,7 +2483,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "6",
@@ -2517,13 +2522,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2706,
+      "Progressed": 2707,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:03:44.9592082+00:00",
+  "LastChanged_Achievements": "2023-06-05T20:04:24.9929453+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.6683071+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:58:57.1900949+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:03:44.9592379+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:59:14.105801+00:00",
+  "LastUpdate_Achievements": "2023-06-05T20:04:24.9929784+00:00"
 }
