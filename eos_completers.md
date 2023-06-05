@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.72% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.66% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.95% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -28,13 +28,13 @@
 | 26 | [Scorn](games/s/scorn.md) | 6.89% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
 | 28 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.39% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.37% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.41% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.94% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.04% |
 | 36 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.95% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
@@ -78,7 +78,7 @@
 | 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 77 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.46% |
 | 78 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
-| 79 | [Ten Dates](games/t/ten_dates.md) | 1.30% |
+| 79 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
 | 80 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.25% |
 | 81 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 82 | [Chorus](games/c/chorus.md) | 1.18% |
