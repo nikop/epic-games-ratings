@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,797 |
-| The Cursed Farmer | 1.00% | ~898 |
+| The Cursed Farmer | 1.00% | ~899 |
 | The Mad Wizard | 0.90% | ~809 |
 | Beast Intentions | 0.80% | ~719 |
 | The Court of Storms | 0.80% | ~449 |
@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.40% | ~359 |
 | Pure Energy | 0.40% | ~359 |
 | Maddening | 0.30% | ~270 |
+| Hands Off! | 0.30% | ~168 |
 | Frail Doesn't Mean Broken | 0.30% | ~168 |
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~168 |
 | Pin and Skewer | 0.30% | ~168 |
@@ -74,7 +75,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.20% | ~112 |
 | Keep Your Distance | 0.20% | ~112 |
 | Heatwave | 0.20% | ~112 |
-| Hands Off! | 0.20% | ~112 |
 | The Dread Domain of Tovag | 0.20% | ~112 |
 | Weak Doesn't Mean Feeble | 0.20% | ~112 |
 | The Castle of a Thousand Vecnas | 0.20% | ~112 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,846 (Ranked 62)  
+Progressed: 89,851 (Ranked 62)  
 Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,846 | 1,917 |
+| 2023-06-05 | 89,851 | 1,917 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,035 (Ranked 37)  

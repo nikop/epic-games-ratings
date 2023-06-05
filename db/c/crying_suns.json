@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 459896,
+  "EOS_Progressed": 459900,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5018,6 +5018,11 @@
       "Time": "2023-06-05T13:15:31.6478653+00:00",
       "NumProgressed": 459896,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-05T14:07:49.2561665+00:00",
+      "NumProgressed": 459900,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -5483,9 +5488,9 @@
       "ID": "achievement_win_expedition_without_monster_noloss",
       "SetID": "8cokdon",
       "Name": "Careful planning",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 920
     },
     {
       "ID": "achievement_win_run_hard",
@@ -5660,21 +5665,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 3830,
+      "Progressed": 3834,
       "Completed": 2347
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 459896,
+      "Progressed": 459900,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-06-05T13:15:31.6478647+00:00",
+  "LastChanged_Achievements": "2023-06-05T14:07:49.2561657+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.8909494+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:08:36.5358406+00:00",
-  "LastUpdate_Achievements": "2023-06-05T13:15:31.6479528+00:00"
+  "LastUpdate_Ratings": "2023-06-05T14:00:26.2196477+00:00",
+  "LastUpdate_Achievements": "2023-06-05T14:07:49.2563157+00:00"
 }

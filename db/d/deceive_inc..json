@@ -148,7 +148,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6591,
+  "EOS_Progressed": 6592,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
@@ -3698,6 +3698,11 @@
       "Time": "2023-06-05T13:15:24.2149851+00:00",
       "NumProgressed": 6591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T14:07:40.6916153+00:00",
+      "NumProgressed": 6592,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3709,7 +3714,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "0002",
@@ -3837,7 +3842,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2702
+      "UsersEstimate": 2703
     },
     {
       "ID": "0018",
@@ -3885,7 +3890,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "0024",
@@ -3933,7 +3938,7 @@
       "Name": "A view to Win",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "0030",
@@ -3941,7 +3946,7 @@
       "Name": "For your Eyes only",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "0031",
@@ -3955,9 +3960,9 @@
       "ID": "0032",
       "SetID": "2n2feee",
       "Name": "Killer Looks",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1582
     },
     {
       "ID": "0033",
@@ -3996,7 +4001,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6591,
+      "Progressed": 6592,
       "Completed": 0
     }
   ],
@@ -4004,8 +4009,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-06-05T13:15:24.2149846+00:00",
+  "LastChanged_Achievements": "2023-06-05T14:07:40.6916146+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:04.3175816+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:09:06.3643952+00:00",
-  "LastUpdate_Achievements": "2023-06-05T13:15:24.2150218+00:00"
+  "LastUpdate_Ratings": "2023-06-05T14:01:08.1643221+00:00",
+  "LastUpdate_Achievements": "2023-06-05T14:07:40.6916995+00:00"
 }

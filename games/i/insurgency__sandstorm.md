@@ -6,15 +6,15 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,014 |
-| Wallbanger | 5.00% | ~19,014 |
-| Exploitative | 4.00% | ~15,211 |
-| High Speed Low Drag | 4.00% | ~15,211 |
-| Wet Feet | 4.00% | ~15,211 |
-| Checkpoint Victory | 3.00% | ~11,408 |
-| Lucky | 3.00% | ~11,408 |
-| Stylin' | 3.00% | ~11,408 |
-| Turf War | 3.00% | ~11,408 |
+| Point Shooting | 5.00% | ~19,015 |
+| Wallbanger | 5.00% | ~19,015 |
+| Exploitative | 4.00% | ~15,212 |
+| High Speed Low Drag | 4.00% | ~15,212 |
+| Wet Feet | 4.00% | ~15,212 |
+| Checkpoint Victory | 3.00% | ~11,409 |
+| Lucky | 3.00% | ~11,409 |
+| Stylin' | 3.00% | ~11,409 |
+| Turf War | 3.00% | ~11,409 |
 | Banged | 2.00% | ~7,606 |
 | First Blood | 2.00% | ~7,606 |
 | Flaccid Paralysis | 2.00% | ~7,606 |
@@ -24,9 +24,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 1.00% | ~3,803 |
 | Ruthless | 1.00% | ~3,803 |
 | Semper Paratus | 1.00% | ~3,803 |
-| Carrying | 0.90% | ~3,422 |
-| Mount & Gun | 0.90% | ~3,422 |
-| Personal | 0.90% | ~3,422 |
+| Carrying | 0.90% | ~3,423 |
+| Mount & Gun | 0.90% | ~3,423 |
+| Personal | 0.90% | ~3,423 |
 | Grounded | 0.80% | ~3,042 |
 | Play to Win | 0.80% | ~3,042 |
 | #1 | 0.70% | ~2,662 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~380 |
 | Road Hazard | 0.10% | ~380 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 380,276 (Ranked 38)  
+Progressed: 380,292 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,20 +88,20 @@ Completed: 2 (0.00%) (Ranked 212)
 | 2023-06-02 | 378,722 | 2 |
 | 2023-06-03 | 379,312 | 2 |
 | 2023-06-04 | 380,003 | 2 |
-| 2023-06-05 | 380,276 | 2 |
+| 2023-06-05 | 380,292 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 355  (Ranked 212)  
-Sum: 2,696 (Ranked 162)  
-Diff (max vs sum): 50  
+Max (Quickly Understood Controls): 356  (Ranked 211)  
+Sum: 2,698 (Ranked 162)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 355 |
+| This game has Quickly Understood Controls | 356 |
 | This game has Challenging Combat | 324 |
 | This game is Extremely Fun | 319 |
 | This game has Competitive Players | 317 |
 | This game has Realistic Visuals | 289 |
+| This game has Amazing Storytelling | 288 |
 | This game is Highly Recommended | 288 |
-| This game has Amazing Storytelling | 287 |
 | This game has Amazing Characters | 280 |
 | This game has a Competitive Community | 237 |
 | This game has Obsessive Gameplay | 156 |
@@ -251,3 +251,4 @@ Diff (max vs sum): 50
 | 2023-06-02 | 4.61 | - | 355 | 2,692 |
 | 2023-06-03 | 4.61 | - | 355 | 2,694 |
 | 2023-06-04 | 4.61 | - | 355 | 2,696 |
+| 2023-06-05 | 4.61 | - | 356 | 2,698 |

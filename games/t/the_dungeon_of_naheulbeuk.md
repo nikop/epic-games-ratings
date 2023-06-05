@@ -3,6 +3,97 @@
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
 Rating: 4.70 (Ranked 197)  
 Number of Ratings: 118  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Livin' in a dwarven paradise | 0.00% | ~0 |
+| Cursed die | 0.00% | ~0 |
+| Holistic Adventuring Party | 0.00% | ~0 |
+| Shiny and Crôm | 0.00% | ~0 |
+| Way of the Wimp | 0.00% | ~0 |
+| Scholar of the Lands of Fangh | 0.00% | ~0 |
+| Déjà vu | 0.00% | ~0 |
+| A beer, two curses, three companions | 0.00% | ~0 |
+| The plot thickens... At the tavern | 0.00% | ~0 |
+| The demons' feast | 0.00% | ~0 |
+| The Great Library | 0.00% | ~0 |
+| Torture and Sensibility | 0.00% | ~0 |
+| Urik's Depths | 0.00% | ~0 |
+| The Dungeon Master | 0.00% | ~0 |
+| The Statuette of Gladeulfeurah | 0.00% | ~0 |
+| Friendly fire | 0.00% | ~0 |
+| I'd rather... Just... Sing! | 0.00% | ~0 |
+| The number of the counting shalt be 7 | 0.00% | ~0 |
+| Res Judicata | 0.00% | ~0 |
+| The Woman in the High Castle | 0.00% | ~0 |
+| Necrophilia | 0.00% | ~0 |
+| The Blood Countess | 0.00% | ~0 |
+| He’s alive! Aliiiive! | 0.00% | ~0 |
+| Restless night | 0.00% | ~0 |
+| King of the Arena | 0.00% | ~0 |
+| Finally free | 0.00% | ~0 |
+| Hoarding | 0.00% | ~0 |
+| Staff cut | 0.00% | ~0 |
+| Legendary brew | 0.00% | ~0 |
+| Elite Adventurers | 0.00% | ~0 |
+| Take your time back in time | 0.00% | ~0 |
+| Egghead | 0.00% | ~0 |
+| Free customer service | 0.00% | ~0 |
+| Imposture and Trowels | 0.00% | ~0 |
+| Deep changes | 0.00% | ~0 |
+| A broken clock… | 0.00% | ~0 |
+| Sleep schedule mastery | 0.00% | ~0 |
+| Cute Dungeon | 0.00% | ~0 |
+| Mystical Dungeon | 0.00% | ~0 |
+| Gloomy Dungeon | 0.00% | ~0 |
+| Power struggle | 0.00% | ~0 |
+| Hit snooze | 0.00% | ~0 |
+| Living legends of the Lands of Fangh | 0.00% | ~0 |
+| Kudos from your DM | 0.00% | ~0 |
+| The Famous Dungeon of Naheulbeuk | 0.00% | ~0 |
+| Minmaxer | 0.00% | ~0 |
+| Iron Golems Tamer | 0.00% | ~0 |
+| And they lived happily ever after... | 0.00% | ~0 |
+| A tale of adventurers not quite like the others... | 0.00% | ~0 |
+| Insult to injury | 0.00% | ~0 |
+| Where's that freaking Dwarf? | 0.00% | ~0 |
+| Star-crossed lovers | 0.00% | ~0 |
+| Dwarf Fortress | 0.00% | ~0 |
+| %#*!$*! | 0.00% | ~0 |
+| Sock! SOCK! | 0.00% | ~0 |
+| Look but don't touch | 0.00% | ~0 |
+| Sowwy! | 0.00% | ~0 |
+| Pyrrhic victory | 0.00% | ~0 |
+| GG EZ | 0.00% | ~0 |
+| DM intervention | 0.00% | ~0 |
+| 100% satisfaction guarantee | 0.00% | ~0 |
+| Death is for wimps | 0.00% | ~0 |
+| Alt+F4 | 0.00% | ~0 |
+| The beards of change | 0.00% | ~0 |
+| An old poacher makes the best gamekeeper | 0.00% | ~0 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.00% | ~0 |
+| Dead for good | 0.00% | ~0 |
+| We come in peace | 0.00% | ~0 |
+| Super-Ultra-Lydian | 0.00% | ~0 |
+| Gargantua | 0.00% | ~0 |
+| Lord of the Drunks | 0.00% | ~0 |
+| Law and Order | 0.00% | ~0 |
+| Inception | 0.00% | ~0 |
+| In Navalu's footsteps | 0.00% | ~0 |
+| It's been a hard day's night | 0.00% | ~0 |
+| Demisemiquaver | 0.00% | ~0 |
+| Lëgal Legend | 0.00% | ~0 |
+| Lust and Debauchery | 0.00% | ~0 |
+| The Ranger of Chaos | 0.00% | ~0 |
+| I am the night | 0.00% | ~0 |
+| Thieves' Guild Accreditation | 0.00% | ~0 |
+| Speedrun | 0.00% | ~0 |
+| Team Building Exercise | 0.00% | ~0 |
+| Dumb and dumber | 0.00% | ~0 |
+| Dwarf Candy | 0.00% | ~0 |
+| Oh, when I'll be level 10... | 0.00% | ~0 |
+| Material Girl | 0.00% | ~0 |
+| Fireproof Wizardess | 0.00% | ~0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 378)  
 Sum: 61 (Ranked 431)  

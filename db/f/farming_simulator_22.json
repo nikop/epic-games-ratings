@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5215,10 +5215,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 36900,
       "NumberOfAwardsMax": 4319
+    },
+    {
+      "Time": "2023-06-05T14:01:06.1765284+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 36911,
+      "NumberOfAwardsMax": 4319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36900,
+  "NumberOfAwards": 36911,
   "NumberOfAwardsMax": 4319,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5244,7 +5250,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3848
+      "Count": 3852
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5280,7 +5286,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3653
+      "Count": 3660
     },
     {
       "Text": "This game has a Creative Community",
@@ -5295,9 +5301,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 43544,
+  "EOS_Progressed": 43545,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9135,6 +9141,11 @@
       "Time": "2023-06-05T13:15:21.0002206+00:00",
       "NumProgressed": 43544,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-05T14:07:37.205969+00:00",
+      "NumProgressed": 43545,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -9226,7 +9237,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 27868
+      "UsersEstimate": 27869
     },
     {
       "ID": "CutTree",
@@ -9298,7 +9309,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 33093
+      "UsersEstimate": 33094
     },
     {
       "ID": "HorseJumps",
@@ -9354,7 +9365,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 23078
+      "UsersEstimate": 23079
     },
     {
       "ID": "NumBeehives",
@@ -9378,7 +9389,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 19159
+      "UsersEstimate": 19160
     },
     {
       "ID": "NumProductionPoints",
@@ -9410,7 +9421,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12192
+      "UsersEstimate": 12193
     },
     {
       "ID": "PlayTime",
@@ -9418,7 +9429,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 25691
+      "UsersEstimate": 25692
     },
     {
       "ID": "Sow",
@@ -9466,7 +9477,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11321
+      "UsersEstimate": 11322
     },
     {
       "ID": "VehicleRepair",
@@ -9489,15 +9500,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 43544,
+      "Progressed": 43545,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-06-05T10:00:22.3073273+00:00",
-  "LastChanged_Achievements": "2023-06-05T13:15:21.00022+00:00",
+  "LastChanged": "2023-06-05T14:01:06.1765282+00:00",
+  "LastChanged_Achievements": "2023-06-05T14:07:37.2059523+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:03.1975406+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:09:04.9487631+00:00",
-  "LastUpdate_Achievements": "2023-06-05T13:15:21.0002639+00:00"
+  "LastUpdate_Ratings": "2023-06-05T14:01:06.176529+00:00",
+  "LastUpdate_Achievements": "2023-06-05T14:07:37.2060373+00:00"
 }

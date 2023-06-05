@@ -4120,10 +4120,10 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89846,
+  "EOS_Progressed": 89851,
   "EOS_Completed": 1917,
   "EOS_NewPlayers": 739,
-  "EOS_NewCompleters": 21,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8760,6 +8760,11 @@
       "Time": "2023-06-05T13:15:38.595227+00:00",
       "NumProgressed": 89846,
       "NumCompleted": 1917
+    },
+    {
+      "Time": "2023-06-05T14:07:57.251939+00:00",
+      "NumProgressed": 89851,
+      "NumCompleted": 1917
     }
   ],
   "TotalAchievements": 493,
@@ -9545,9 +9550,9 @@
       "ID": "objective_completed_1180",
       "SetID": "415jc5c",
       "Name": "Hands Off!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_completed_1183",
@@ -10443,7 +10448,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "objective_completed_34",
@@ -12714,21 +12719,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56120,
-      "Completed": 2769
+      "Progressed": 56125,
+      "Completed": 2770
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89846,
+      "Progressed": 89851,
       "Completed": 1917
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-05T13:07:15.1307776+00:00",
-  "LastChanged_Achievements": "2023-06-05T13:15:38.5952262+00:00",
+  "LastChanged_Achievements": "2023-06-05T14:07:57.2519382+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:07:15.1307781+00:00",
-  "LastUpdate_Achievements": "2023-06-05T13:15:38.5974151+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:58:36.1712236+00:00",
+  "LastUpdate_Achievements": "2023-06-05T14:07:57.2550382+00:00"
 }

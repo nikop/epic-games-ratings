@@ -13,19 +13,19 @@
 | Reign of Terror | 32.00% | ~17 |
 | Monstrosity Atrocity | 32.00% | ~17 |
 | Crushing All Cars | 26.00% | ~14 |
-| Brain Chopper | 19.00% | ~10 |
-| Horror Show | 19.00% | ~10 |
+| Brain Chopper | 21.00% | ~11 |
+| Horror Show | 21.00% | ~11 |
 | Night Bird | 15.00% | ~8 |
-| Demolition Ambition | 11.00% | ~6 |
+| Demolition Ambition | 13.00% | ~7 |
 | Hindenburgerer | 8.00% | ~4 |
 | Punchy Wagon | 8.00% | ~4 |
 | Kill All Humans! | 8.00% | ~4 |
+| Holy Terror | 6.00% | ~3 |
 | Midair Affair | 6.00% | ~3 |
 | Plight of the Valkyrie | 6.00% | ~3 |
 | Trash the Planet. | 6.00% | ~3 |
 | Demolition Exhibition | 4.00% | ~2 |
 | Rocket Science | 4.00% | ~2 |
-| Holy Terror | 4.00% | ~2 |
 | Meat Catcher | 4.00% | ~2 |
 | Demolition Tactician | 4.00% | ~2 |
 | Hot Potato | 4.00% | ~2 |

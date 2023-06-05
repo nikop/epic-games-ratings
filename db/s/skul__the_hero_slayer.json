@@ -842,7 +842,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7625,
+  "EOS_Progressed": 7627,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -2262,6 +2262,11 @@
       "Time": "2023-06-05T12:05:45.2563707+00:00",
       "NumProgressed": 7625,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-05T14:07:16.59939+00:00",
+      "NumProgressed": 7627,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2281,7 +2286,7 @@
       "Name": "Too Much of a Talker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ColdBlood",
@@ -2297,7 +2302,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4728
+      "UsersEstimate": 4729
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2337,7 +2342,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -2353,7 +2358,7 @@
       "Name": "Go Home...",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "HeroSlayer",
@@ -2369,7 +2374,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "LeoniasFall_2",
@@ -2385,7 +2390,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "RookieWelcome",
@@ -2401,7 +2406,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4728
+      "UsersEstimate": 4729
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2409,7 +2414,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "SkeletonKing",
@@ -2425,7 +2430,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "TheLegendBegins",
@@ -2433,7 +2438,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7093
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2441,7 +2446,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -2457,22 +2462,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6329
+      "UsersEstimate": 6330
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7625,
+      "Progressed": 7627,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
-  "LastChanged_Achievements": "2023-06-05T13:15:03.4584761+00:00",
+  "LastChanged_Achievements": "2023-06-05T14:07:16.5993891+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:08:17.4455147+00:00",
-  "LastUpdate_Achievements": "2023-06-05T13:15:03.4584959+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:59:57.6706066+00:00",
+  "LastUpdate_Achievements": "2023-06-05T14:07:16.5994204+00:00"
 }

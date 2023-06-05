@@ -6,19 +6,19 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,091 |
-| What should I buy? | 83.00% | ~6,329 |
-| Focus! | 62.00% | ~4,728 |
-| Rescued Elder Ent | 62.00% | ~4,728 |
-| The End of the Gold Mane Knights | 47.00% | ~3,584 |
-| Rules of Etiquette | 39.00% | ~2,974 |
+| The Legend Begins | 93.00% | ~7,093 |
+| What should I buy? | 83.00% | ~6,330 |
+| Focus! | 62.00% | ~4,729 |
+| Rescued Elder Ent | 62.00% | ~4,729 |
+| The End of the Gold Mane Knights | 47.00% | ~3,585 |
+| Rules of Etiquette | 39.00% | ~2,975 |
 | False Goddess, Disappear | 38.00% | ~2,898 |
-| Quick Movements | 33.00% | ~2,516 |
-| Inventory Management | 33.00% | ~2,516 |
-| The Fall of the Leonia Order | 29.00% | ~2,211 |
+| Quick Movements | 33.00% | ~2,517 |
+| Inventory Management | 33.00% | ~2,517 |
+| The Fall of the Leonia Order | 29.00% | ~2,212 |
 | The Hero Killer | 27.00% | ~2,059 |
-| Go Home... | 26.00% | ~1,982 |
-| The Final Battle of the First Hero | 25.00% | ~1,906 |
+| Go Home... | 26.00% | ~1,983 |
+| The Final Battle of the First Hero | 25.00% | ~1,907 |
 | Brain at Full Throttle | 22.00% | ~1,678 |
 | Rookies Welcome | 20.00% | ~1,525 |
 | Deadly Power | 15.00% | ~1,144 |
@@ -27,11 +27,11 @@ Number of Ratings: 546  (23.09.2022)
 | Master of Speed | 9.00% | ~686 |
 | The Levitator | 6.00% | ~458 |
 | The God of Battle | 3.00% | ~229 |
-| Too Much of a Talker | 2.00% | ~152 |
+| Too Much of a Talker | 2.00% | ~153 |
 | The Skeleton King | 1.00% | ~76 |
 | Cold-Blooded | 0.80% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,625 (Ranked 115)  
+Progressed: 7,627 (Ranked 115)  
 Completed: 11 (0.14%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 11 (0.14%) (Ranked 157)
 | 2023-06-02 | 7,564 | 11 |
 | 2023-06-03 | 7,590 | 11 |
 | 2023-06-04 | 7,616 | 11 |
-| 2023-06-05 | 7,625 | 11 |
+| 2023-06-05 | 7,627 | 11 |
 ## Awards
 Max (Diverse Characters): 115  (Ranked 312)  
 Sum: 760 (Ranked 254)  

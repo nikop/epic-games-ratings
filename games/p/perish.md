@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 5.00% | ~146 |
-| Lochos | 5.00% | ~146 |
-| Initiate's Resolve | 5.00% | ~146 |
+| To Suffer is to Learn | 5.00% | ~147 |
+| Initiate's Resolve | 5.00% | ~147 |
 | Missilis | 4.00% | ~117 |
 | Modest Earnings | 4.00% | ~117 |
 | Armaments of the Pantheon | 4.00% | ~117 |
 | Persephone's Guidance | 4.00% | ~117 |
+| Lochos | 4.00% | ~117 |
 | Strength of Herakles | 4.00% | ~117 |
 | Reign in Blood | 4.00% | ~117 |
 | Pillars of Eternity | 3.00% | ~88 |
@@ -28,7 +28,6 @@
 | Comedy and Tragedy | 2.00% | ~59 |
 | Wayward Son of Hephaestus | 2.00% | ~59 |
 | Forged in Fire | 2.00% | ~59 |
-| Rock and a Hard Place | 2.00% | ~59 |
 | Chthonic Investor | 2.00% | ~59 |
 | First Fragment | 2.00% | ~59 |
 | Hapax Legomenon | 2.00% | ~59 |
@@ -43,6 +42,7 @@
 | The Nameless One | 1.00% | ~29 |
 | Lament of the Constellations | 1.00% | ~29 |
 | Rule of Thirds | 1.00% | ~29 |
+| Rock and a Hard Place | 1.00% | ~29 |
 | The Midas Touch | 1.00% | ~29 |
 | Pyr Demon | 1.00% | ~29 |
 | Don't Pay the Ferryman | 1.00% | ~29 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,929 (Ranked 137)  
+Progressed: 2,934 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 2,915 | 0 |
 | 2023-06-03 | 2,926 | 0 |
 | 2023-06-04 | 2,929 | 0 |
+| 2023-06-05 | 2,934 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

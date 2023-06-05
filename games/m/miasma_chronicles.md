@@ -5,19 +5,19 @@ Rating: 4.34 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~945 |
-| Ranidaphobia | 74.00% | ~760 |
-| Aspiring Editor | 72.00% | ~739 |
+| First Blood | 92.00% | ~946 |
+| Ranidaphobia | 74.00% | ~761 |
+| Aspiring Editor | 72.00% | ~740 |
 | Gun for Hire | 66.00% | ~678 |
 | I am the law! | 58.00% | ~596 |
 | Lumberjack | 43.00% | ~442 |
 | Croaked | 39.00% | ~401 |
-| Limp Richard | 38.00% | ~390 |
+| Limp Richard | 38.00% | ~391 |
 | From Darkness to Light | 37.00% | ~380 |
-| Exorcist | 35.00% | ~359 |
-| Firestarter | 35.00% | ~359 |
-| Editor Adept | 34.00% | ~349 |
-| Giant Killer | 31.00% | ~318 |
+| Exorcist | 35.00% | ~360 |
+| Firestarter | 35.00% | ~360 |
+| Editor Adept | 34.00% | ~350 |
+| Giant Killer | 31.00% | ~319 |
 | Sensei | 30.00% | ~308 |
 | The meaning of Kain | 29.00% | ~298 |
 | Technophobe | 25.00% | ~257 |
@@ -32,7 +32,7 @@ Rating: 4.34 (Ranked 734)
 | There Can Be Only One! | 16.00% | ~164 |
 | Experienced | 14.00% | ~144 |
 | Newtonian Knockout | 13.00% | ~134 |
-| Endgame | 11.00% | ~113 |
+| Endgame | 12.00% | ~123 |
 | Ruthless | 11.00% | ~113 |
 | Savior | 11.00% | ~113 |
 | The Watchers | 11.00% | ~113 |
@@ -57,7 +57,7 @@ Rating: 4.34 (Ranked 734)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,027 (Ranked 171)  
+Progressed: 1,028 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 967 | 0 |
 | 2023-06-03 | 997 | 0 |
 | 2023-06-04 | 1,019 | 0 |
-| 2023-06-05 | 1,027 | 0 |
+| 2023-06-05 | 1,028 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

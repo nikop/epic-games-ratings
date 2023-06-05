@@ -798,9 +798,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5883,
+  "EOS_Progressed": 5884,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2938,6 +2938,11 @@
       "Time": "2023-06-05T10:04:51.0016541+00:00",
       "NumProgressed": 5883,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T14:04:52.7792757+00:00",
+      "NumProgressed": 5884,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2989,7 +2994,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3706
+      "UsersEstimate": 3707
     },
     {
       "ID": "Control_All_Relics",
@@ -3005,7 +3010,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -3013,7 +3018,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -3085,7 +3090,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4589
+      "UsersEstimate": 4590
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -3141,7 +3146,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Level_5_Ship",
@@ -3269,7 +3274,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3647
+      "UsersEstimate": 3648
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -3477,7 +3482,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Win_Influence",
@@ -3524,15 +3529,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5883,
+      "Progressed": 5884,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-02T21:01:45.7762711+00:00",
-  "LastChanged_Achievements": "2023-06-05T13:13:21.274556+00:00",
+  "LastChanged_Achievements": "2023-06-05T14:04:52.779275+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:31.0102409+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:06:32.4869497+00:00",
-  "LastUpdate_Achievements": "2023-06-05T13:13:21.2746244+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:57:41.3272429+00:00",
+  "LastUpdate_Achievements": "2023-06-05T14:04:52.7793652+00:00"
 }

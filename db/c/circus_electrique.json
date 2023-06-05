@@ -279,9 +279,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "631ndc2",
       "Name": "Lion Tamer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -503,9 +503,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "631ndc2",
       "Name": "King of District 2",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -672,8 +672,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-05T13:15:27.6572572+00:00",
+  "LastChanged_Achievements": "2023-06-05T14:07:44.6506931+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:13.7097187+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:08:15.8813892+00:00",
-  "LastUpdate_Achievements": "2023-06-05T13:15:27.6572943+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:59:55.9043779+00:00",
+  "LastUpdate_Achievements": "2023-06-05T14:07:44.6507457+00:00"
 }

@@ -26,7 +26,7 @@
 | Spare Ribs | 50.00% | ~36 |
 | My pants squeak when I walk | 49.00% | ~35 |
 | Thats disgusting! | 47.00% | ~34 |
-| Cockadoodledoo! | 46.00% | ~33 |
+| Cockadoodledoo! | 47.00% | ~34 |
 | Surprise!! | 44.00% | ~32 |
 | Self assessed tax return | 42.00% | ~30 |
 | Make America Grate Again | 38.00% | ~27 |

@@ -5,12 +5,12 @@ Rating: 4.78 (Ranked 101)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,150 |
-| No more cages! | 92.00% | ~2,082 |
+| For Demacia | 95.00% | ~2,151 |
+| No more cages! | 92.00% | ~2,083 |
 | Everfrost | 77.00% | ~1,743 |
-| Pentakill | 76.00% | ~1,720 |
-| Dark Forest | 76.00% | ~1,720 |
-| The use of petricite | 72.00% | ~1,629 |
+| Pentakill | 76.00% | ~1,721 |
+| Dark Forest | 76.00% | ~1,721 |
+| The use of petricite | 72.00% | ~1,630 |
 | You can pet the dog | 60.00% | ~1,358 |
 | Big Helmet Bro | 35.00% | ~792 |
 | Clarion Cove | 35.00% | ~792 |
@@ -22,9 +22,9 @@ Rating: 4.78 (Ranked 101)
 | Petricite Burst | 28.00% | ~634 |
 | Old friend | 27.00% | ~611 |
 | Devineur | 27.00% | ~611 |
-| Whispers in the Woods I | 26.00% | ~588 |
-| Hijack | 26.00% | ~588 |
-| Ancient power | 23.00% | ~520 |
+| Whispers in the Woods I | 26.00% | ~589 |
+| Hijack | 26.00% | ~589 |
+| Ancient power | 23.00% | ~521 |
 | I chose my shackles | 22.00% | ~498 |
 | Sacred Woods | 21.00% | ~475 |
 | Little light | 20.00% | ~453 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 101)
 | Silverwing nest | 2.00% | ~45 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,263 (Ranked 148)  
+Progressed: 2,264 (Ranked 148)  
 Completed: 1 (0.04%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 1 (0.04%) (Ranked 185)
 | 2023-06-02 | 2,253 | 1 |
 | 2023-06-03 | 2,256 | 1 |
 | 2023-06-04 | 2,262 | 1 |
-| 2023-06-05 | 2,263 | 1 |
+| 2023-06-05 | 2,264 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

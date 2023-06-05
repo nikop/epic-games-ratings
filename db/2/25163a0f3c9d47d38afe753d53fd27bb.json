@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.37,
+  "EOS_Completed_Percentage": 6.36,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1036,6 +1036,11 @@
       "Time": "2023-06-05T04:04:34.0066995+00:00",
       "NumProgressed": 408,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-05T14:04:45.7067484+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 30,
@@ -1047,7 +1052,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "LEVEL_002",
@@ -1055,7 +1060,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "LEVEL_003",
@@ -1063,7 +1068,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "LEVEL_004",
@@ -1071,7 +1076,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "LEVEL_005",
@@ -1087,7 +1092,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "LEVEL_007",
@@ -1111,7 +1116,7 @@
       "Name": "Going zig zag",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LEVEL_010",
@@ -1151,7 +1156,7 @@
       "Name": "Cross-country",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "LEVEL_015",
@@ -1159,7 +1164,7 @@
       "Name": "Flatland",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "LEVEL_016",
@@ -1253,9 +1258,9 @@
       "ID": "LEVEL_027",
       "SetID": "212bg48",
       "Name": "A farm island lost in time...",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_028",
@@ -1279,21 +1284,21 @@
       "Name": "Celebration with Cake and Balloons",
       "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-05T13:13:15.2566819+00:00",
+  "LastChanged_Achievements": "2023-06-05T14:04:45.7067477+00:00",
   "LastUpdate_AppInfo": "2023-05-29T13:57:00.5288033+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:06:10.0648517+00:00",
-  "LastUpdate_Achievements": "2023-06-05T13:13:15.2567052+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:57:11.5913991+00:00",
+  "LastUpdate_Achievements": "2023-06-05T14:04:45.706798+00:00"
 }

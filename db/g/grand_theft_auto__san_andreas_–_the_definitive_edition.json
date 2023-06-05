@@ -2,12 +2,12 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 384,
+  "Ranking_Rating": 385,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -362,9 +362,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9597,
+  "EOS_Progressed": 9598,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3692,6 +3692,11 @@
       "Time": "2023-06-05T13:15:30.3367066+00:00",
       "NumProgressed": 9597,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-05T14:07:47.6965567+00:00",
+      "NumProgressed": 9598,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -3751,7 +3756,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "ACH08",
@@ -3879,7 +3884,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "ACH24",
@@ -3982,7 +3987,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 9597,
+      "Progressed": 9598,
       "Completed": 17
     }
   ],
@@ -3990,8 +3995,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-04T17:01:19.8705594+00:00",
-  "LastChanged_Achievements": "2023-06-05T13:15:30.3367061+00:00",
+  "LastChanged_Achievements": "2023-06-05T14:07:47.6965563+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.816384+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:09:45.1936807+00:00",
-  "LastUpdate_Achievements": "2023-06-05T13:15:30.3367426+00:00"
+  "LastUpdate_Ratings": "2023-06-05T14:01:59.1429382+00:00",
+  "LastUpdate_Achievements": "2023-06-05T14:07:47.6966106+00:00"
 }

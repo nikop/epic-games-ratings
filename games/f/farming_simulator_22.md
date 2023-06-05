@@ -6,21 +6,21 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~33,093 |
-| I read Shakespeare and stuff | 64.00% | ~27,868 |
+| Own use | 76.00% | ~33,094 |
+| I read Shakespeare and stuff | 64.00% | ~27,869 |
 | Just a sprinkle | 63.00% | ~27,433 |
 | I'm stumped | 61.00% | ~26,562 |
 | Plant get enough | 61.00% | ~26,562 |
-| It's just the beginning | 59.00% | ~25,691 |
+| It's just the beginning | 59.00% | ~25,692 |
 | This is just my weekend vehicle | 58.00% | ~25,256 |
-| Hard work pays off | 53.00% | ~23,078 |
+| Hard work pays off | 53.00% | ~23,079 |
 | It's never too late to farm | 47.00% | ~20,466 |
-| All out of Land | 44.00% | ~19,159 |
+| All out of Land | 44.00% | ~19,160 |
 | Field Trip | 43.00% | ~18,724 |
 | I like to switch it up | 40.00% | ~17,418 |
 | Help me to help you | 38.00% | ~16,547 |
-| Ultimutt Pawesomeness | 28.00% | ~12,192 |
-| Van Gogh | 26.00% | ~11,321 |
+| Ultimutt Pawesomeness | 28.00% | ~12,193 |
+| Van Gogh | 26.00% | ~11,322 |
 | You wood not believe it | 21.00% | ~9,144 |
 | Vehicle fleet | 21.00% | ~9,144 |
 | The plot thickens | 16.00% | ~6,967 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~174 |
 | Raisin the stakes | 0.30% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,544 (Ranked 81)  
+Progressed: 43,545 (Ranked 81)  
 Completed: 5 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,20 +96,20 @@ Completed: 5 (0.01%) (Ranked 201)
 | 2023-06-02 | 43,387 | 5 |
 | 2023-06-03 | 43,461 | 5 |
 | 2023-06-04 | 43,526 | 5 |
-| 2023-06-05 | 43,544 | 5 |
+| 2023-06-05 | 43,545 | 5 |
 ## Awards
 Max (Great for Beginners): 4,319  (Ranked 70)  
-Sum: 36,900 (Ranked 31)  
+Sum: 36,911 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,319 |
 | This game is Relaxing | 3,936 |
 | This game is Educational | 3,874 |
-| This game has Quickly Understood Controls | 3,848 |
+| This game has Quickly Understood Controls | 3,852 |
 | This game is Extremely Fun | 3,720 |
 | This game is Highly Recommended | 3,703 |
-| This game has Diverse Characters | 3,653 |
+| This game has Diverse Characters | 3,660 |
 | This game has Amazing Storytelling | 3,598 |
 | This game has Amazing Characters | 3,218 |
 | This game has a Creative Community | 3,031 |
@@ -257,4 +257,4 @@ Diff (max vs sum): 39
 | 2023-06-02 | 4.70 | - | 4,303 | 36,816 |
 | 2023-06-03 | 4.70 | - | 4,309 | 36,852 |
 | 2023-06-04 | 4.70 | - | 4,319 | 36,892 |
-| 2023-06-05 | 4.70 | - | 4,319 | 36,900 |
+| 2023-06-05 | 4.70 | - | 4,319 | 36,911 |
