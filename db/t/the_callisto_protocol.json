@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14521,
+  "EOS_Progressed": 14525,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2785,6 +2785,11 @@
       "Time": "2023-06-05T03:14:59.3844385+00:00",
       "NumProgressed": 14521,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-05T04:04:43.1188829+00:00",
+      "NumProgressed": 14525,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2812,7 +2817,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2892,7 +2897,7 @@
       "Name": "Parole Denied",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -2940,7 +2945,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2964,7 +2969,7 @@
       "Name": "Reforged",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2996,7 +3001,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "STORY_HABITAT",
@@ -3084,7 +3089,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -3092,7 +3097,7 @@
       "Name": "Hoard Mode",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -3115,13 +3120,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14521,
+      "Progressed": 14525,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2447,
+      "Progressed": 2451,
       "Completed": 29
     }
   ],
@@ -3129,8 +3134,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-05T03:14:59.3844379+00:00",
+  "LastChanged_Achievements": "2023-06-05T04:04:43.1188822+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:08:43.5478521+00:00",
-  "LastUpdate_Achievements": "2023-06-05T03:14:59.3844894+00:00"
+  "LastUpdate_Ratings": "2023-06-05T03:58:14.1014174+00:00",
+  "LastUpdate_Achievements": "2023-06-05T04:04:43.1189616+00:00"
 }

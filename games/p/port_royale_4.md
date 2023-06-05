@@ -6,11 +6,11 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~495 |
-| My little farm | 65.00% | ~397 |
-| Every beginning is difficult | 63.00% | ~385 |
-| 3, 2, 1, mine | 55.00% | ~336 |
-| Gofer | 55.00% | ~336 |
+| Cabin boy | 81.00% | ~496 |
+| My little farm | 65.00% | ~398 |
+| Every beginning is difficult | 63.00% | ~386 |
+| 3, 2, 1, mine | 55.00% | ~337 |
+| Gofer | 55.00% | ~337 |
 | Seafarer | 54.00% | ~330 |
 | O Captain! My Captain! | 54.00% | ~330 |
 | Greed for gold | 43.00% | ~263 |
@@ -23,18 +23,18 @@ Number of Ratings: 53  (23.09.2022)
 | Megalomania | 28.00% | ~171 |
 | Christening | 27.00% | ~165 |
 | Groundskeeper | 25.00% | ~153 |
-| Wholesale | 21.00% | ~128 |
+| Wholesale | 21.00% | ~129 |
 | Walk the plank | 20.00% | ~122 |
 | Pearly gates | 17.00% | ~104 |
 | My precious! | 17.00% | ~104 |
-| Conquistador | 13.00% | ~79 |
+| Conquistador | 13.00% | ~80 |
 | Panic buying | 11.00% | ~67 |
 | Just a scratch | 9.00% | ~55 |
 | All mine! | 9.00% | ~55 |
 | Your vessel, my vessel | 9.00% | ~55 |
+| Maker | 8.00% | ~49 |
 | Paths of Glory | 8.00% | ~49 |
 | Panel of experts | 8.00% | ~49 |
-| Maker | 7.00% | ~43 |
 | Conglomerate | 6.00% | ~37 |
 | The Grande Bouffe | 5.00% | ~31 |
 | Buccaneer | 4.00% | ~24 |
@@ -49,15 +49,15 @@ Number of Ratings: 53  (23.09.2022)
 | All aboard! | 2.00% | ~12 |
 | Gold fever | 2.00% | ~12 |
 | Fill it up, please! | 2.00% | ~12 |
+| Capitalist | 1.00% | ~6 |
 | Administrator | 1.00% | ~6 |
 | Raiders of the Lost Ark | 1.00% | ~6 |
 | Traffic chaos | 1.00% | ~6 |
 | Parlay? | 1.00% | ~6 |
-| Capitalist | 0.80% | ~5 |
 | Fleet Admiral | 0.70% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 611 (Ranked 194)  
+Progressed: 612 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 601 | 0 |
 | 2023-06-03 | 606 | 0 |
 | 2023-06-04 | 611 | 0 |
+| 2023-06-05 | 612 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

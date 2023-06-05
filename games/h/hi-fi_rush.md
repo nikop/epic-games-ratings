@@ -5,25 +5,25 @@ Rating: 4.89 (Ranked 13)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,187 |
-| Feeling the beat! | 80.00% | ~2,187 |
-| You can pet the cat! | 74.00% | ~2,023 |
-| Who put gears in there? | 68.00% | ~1,859 |
-| Cream of the Crop | 63.00% | ~1,722 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~1,695 |
-| You got this, Peppermint? | 57.00% | ~1,558 |
-| Perfect Parry | 54.00% | ~1,476 |
-| Alright, that felt AWESOME! | 54.00% | ~1,476 |
-| I play my own way! | 50.00% | ~1,367 |
+| Start with a bang! | 80.00% | ~2,188 |
+| Feeling the beat! | 80.00% | ~2,188 |
+| You can pet the cat! | 74.00% | ~2,024 |
+| Who put gears in there? | 68.00% | ~1,860 |
+| Cream of the Crop | 63.00% | ~1,723 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~1,696 |
+| You got this, Peppermint? | 57.00% | ~1,559 |
+| Perfect Parry | 54.00% | ~1,477 |
+| Alright, that felt AWESOME! | 54.00% | ~1,477 |
+| I play my own way! | 50.00% | ~1,368 |
 | This will cost you big time | 47.00% | ~1,285 |
 | Uh, they were broken when I got here | 46.00% | ~1,258 |
-| Z-shielding's got nothing on us! | 45.00% | ~1,230 |
+| Z-shielding's got nothing on us! | 45.00% | ~1,231 |
 | Kissing the sky! | 44.00% | ~1,203 |
-| Does that say weakpoint? | 42.00% | ~1,148 |
+| Does that say weakpoint? | 42.00% | ~1,149 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,094 |
 | The Negotiator | 38.00% | ~1,039 |
-| You must like calling me in, Chai | 33.00% | ~902 |
-| Out in a puff of smoke | 33.00% | ~902 |
+| You must like calling me in, Chai | 33.00% | ~903 |
+| Out in a puff of smoke | 33.00% | ~903 |
 | Headliner | 32.00% | ~875 |
 | Time to pay up! | 30.00% | ~820 |
 | Perfecter Parry-er! | 29.00% | ~793 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.30% | ~8 |
 | What a journey it was... | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,734 (Ranked 141)  
+Progressed: 2,735 (Ranked 141)  
 Completed: 4 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 4 (0.15%) (Ranked 154)
 | 2023-06-02 | 2,591 | 4 |
 | 2023-06-03 | 2,658 | 4 |
 | 2023-06-04 | 2,729 | 4 |
-| 2023-06-05 | 2,734 | 4 |
+| 2023-06-05 | 2,735 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

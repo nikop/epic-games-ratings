@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 52169,
+  "EOS_Progressed": 52178,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 2490,
+  "EOS_NewPlayers": 2476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3766,6 +3766,11 @@
       "Time": "2023-06-05T03:16:33.2375596+00:00",
       "NumProgressed": 52169,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-06-05T04:06:58.4745438+00:00",
+      "NumProgressed": 52178,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 67,
@@ -3777,7 +3782,7 @@
       "Name": "Follow the Light",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 14607
+      "UsersEstimate": 14610
     },
     {
       "ID": "02",
@@ -3785,7 +3790,7 @@
       "Name": "Nordic Walking",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8869
+      "UsersEstimate": 8870
     },
     {
       "ID": "03",
@@ -3793,7 +3798,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8347
+      "UsersEstimate": 8348
     },
     {
       "ID": "04",
@@ -3809,7 +3814,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7304
+      "UsersEstimate": 7305
     },
     {
       "ID": "06",
@@ -3817,7 +3822,7 @@
       "Name": "Park Ranger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6260
+      "UsersEstimate": 6261
     },
     {
       "ID": "07",
@@ -3841,7 +3846,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "10",
@@ -3897,7 +3902,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "17",
@@ -3905,7 +3910,7 @@
       "Name": "Departure",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "18",
@@ -3937,7 +3942,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "22",
@@ -3945,7 +3950,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "23",
@@ -3969,7 +3974,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3130
+      "UsersEstimate": 3131
     },
     {
       "ID": "26",
@@ -4001,7 +4006,7 @@
       "Name": "Sound and Fury",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5217
+      "UsersEstimate": 5218
     },
     {
       "ID": "30",
@@ -4017,7 +4022,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5739
+      "UsersEstimate": 5740
     },
     {
       "ID": "32",
@@ -4025,7 +4030,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 10955
+      "UsersEstimate": 10957
     },
     {
       "ID": "33",
@@ -4033,7 +4038,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "34",
@@ -4049,7 +4054,7 @@
       "Name": "Let There Be Light",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 11477
+      "UsersEstimate": 11479
     },
     {
       "ID": "36",
@@ -4057,7 +4062,7 @@
       "Name": "Carny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "37",
@@ -4089,7 +4094,7 @@
       "Name": "Right of Way",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3130
+      "UsersEstimate": 3131
     },
     {
       "ID": "41",
@@ -4097,7 +4102,7 @@
       "Name": "Finders Keepers",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5739
+      "UsersEstimate": 5740
     },
     {
       "ID": "42",
@@ -4113,7 +4118,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6260
+      "UsersEstimate": 6261
     },
     {
       "ID": "44",
@@ -4137,7 +4142,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 5217
+      "UsersEstimate": 5218
     },
     {
       "ID": "47",
@@ -4177,7 +4182,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "52",
@@ -4185,7 +4190,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "53",
@@ -4312,21 +4317,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 52169,
+      "Progressed": 52178,
       "Completed": 48
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 15637,
+      "Progressed": 15646,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-06-05T03:16:33.2375593+00:00",
+  "LastChanged_Achievements": "2023-06-05T04:06:58.4745432+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:48.7333402+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:08:33.5291747+00:00",
-  "LastUpdate_Achievements": "2023-06-05T03:16:33.2376581+00:00"
+  "LastUpdate_Ratings": "2023-06-05T03:58:00.9172791+00:00",
+  "LastUpdate_Achievements": "2023-06-05T04:06:58.4746903+00:00"
 }

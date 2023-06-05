@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6074,
+  "EOS_Progressed": 6075,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2174,6 +2174,11 @@
       "Time": "2023-06-05T02:22:13.0375722+00:00",
       "NumProgressed": 6074,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-05T04:01:59.1548714+00:00",
+      "NumProgressed": 6075,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2289,7 +2294,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -2449,7 +2454,7 @@
       "Name": "Saboteur",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ISONZO_ACH_THE_DEVILS_PAINTBRUSH",
@@ -2497,7 +2502,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -2537,14 +2542,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3158
+      "UsersEstimate": 3159
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6074,
+      "Progressed": 6075,
       "Completed": 8
     }
   ],
@@ -2552,8 +2557,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-04T11:57:34.843695+00:00",
-  "LastChanged_Achievements": "2023-06-05T03:11:15.2038762+00:00",
+  "LastChanged_Achievements": "2023-06-05T04:01:59.1548705+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:28.4757017+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:08:17.2937209+00:00",
-  "LastUpdate_Achievements": "2023-06-05T03:11:15.2039318+00:00"
+  "LastUpdate_Ratings": "2023-06-05T03:57:38.7334809+00:00",
+  "LastUpdate_Achievements": "2023-06-05T04:01:59.1549217+00:00"
 }

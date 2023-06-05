@@ -5,21 +5,21 @@ Rating: 3.93 (Ranked 910)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~47,466 |
-| First One’s Free | 65.00% | ~42,264 |
-| Neophyte Ninja | 50.00% | ~32,511 |
-| Too Old for This | 47.00% | ~30,560 |
+| Downed but Not Outed | 73.00% | ~47,468 |
+| First One’s Free | 65.00% | ~42,266 |
+| Neophyte Ninja | 50.00% | ~32,512 |
+| Too Old for This | 47.00% | ~30,561 |
 | Fancy Pants | 35.00% | ~22,758 |
-| Case Closed | 34.00% | ~22,107 |
-| King of the Hill | 33.00% | ~21,457 |
-| Underworld Initiate | 29.00% | ~18,856 |
+| Case Closed | 34.00% | ~22,108 |
+| King of the Hill | 33.00% | ~21,458 |
+| Underworld Initiate | 29.00% | ~18,857 |
 | Roid Ranger | 21.00% | ~13,655 |
-| True Player | 19.00% | ~12,354 |
-| Off the Rocks | 19.00% | ~12,354 |
+| True Player | 19.00% | ~12,355 |
+| Off the Rocks | 19.00% | ~12,355 |
 | Raider’s Ruin | 16.00% | ~10,404 |
 | Dragonslayer | 16.00% | ~10,404 |
 | Hidden Sonata | 13.00% | ~8,453 |
-| Rockay Rex | 11.00% | ~7,152 |
+| Rockay Rex | 11.00% | ~7,153 |
 | Freebooter | 10.00% | ~6,502 |
 | Classy Joint | 10.00% | ~6,502 |
 | Track Star | 9.00% | ~5,852 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 910)
 | Geek Out | 0.50% | ~325 |
 | Full House | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,022 (Ranked 68)  
+Progressed: 65,024 (Ranked 68)  
 Completed: 31 (0.05%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,10 +89,10 @@ Completed: 31 (0.05%) (Ranked 181)
 | 2023-06-02 | 64,587 | 31 |
 | 2023-06-03 | 64,787 | 31 |
 | 2023-06-04 | 65,003 | 31 |
-| 2023-06-05 | 65,022 | 31 |
+| 2023-06-05 | 65,024 | 31 |
 ## Awards
 Max (Diverse Characters): 316  (Ranked 222)  
-Sum: 1,481 (Ranked 212)  
+Sum: 1,482 (Ranked 212)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
@@ -100,7 +100,7 @@ Diff (max vs sum): 10
 | This game is Highly Recommended | 299 |
 | This game has Amazing Characters | 293 |
 | This game has Quickly Understood Controls | 287 |
-| This game has Challenging Combat | 286 |
+| This game has Challenging Combat | 287 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -175,3 +175,4 @@ Diff (max vs sum): 10
 | 2023-06-02 | 3.93 | 310 | 1,460 |
 | 2023-06-03 | 3.93 | 310 | 1,470 |
 | 2023-06-04 | 3.93 | 316 | 1,481 |
+| 2023-06-05 | 3.93 | 316 | 1,482 |

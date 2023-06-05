@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~654 |
-| Departure | 72.00% | ~636 |
-| A new Journey | 72.00% | ~636 |
-| From X to Y | 70.00% | ~619 |
-| Way of Iron | 70.00% | ~619 |
-| Mystery Tour | 66.00% | ~583 |
+| Country Bumpkin | 74.00% | ~655 |
+| Departure | 72.00% | ~637 |
+| A new Journey | 72.00% | ~637 |
+| From X to Y | 70.00% | ~620 |
+| Way of Iron | 70.00% | ~620 |
+| Mystery Tour | 66.00% | ~584 |
 | Brainstorm | 65.00% | ~575 |
 | We brake for nobody | 65.00% | ~575 |
-| Mind the Gap | 63.00% | ~557 |
-| Travel Company | 63.00% | ~557 |
-| All around the World | 61.00% | ~539 |
-| Right through the middle | 55.00% | ~486 |
+| Mind the Gap | 63.00% | ~558 |
+| Travel Company | 63.00% | ~558 |
+| All around the World | 61.00% | ~540 |
+| Right through the middle | 55.00% | ~487 |
 | Poor Devil | 51.00% | ~451 |
 | Facility Manager | 50.00% | ~442 |
 | Producer | 46.00% | ~407 |
-| Apprentice | 42.00% | ~371 |
+| Apprentice | 42.00% | ~372 |
 | Bridge Builder | 37.00% | ~327 |
 | Stoker | 34.00% | ~301 |
 | Access granted | 34.00% | ~301 |
-| Going once, going twice, sold | 30.00% | ~265 |
-| Full Steam ahead | 29.00% | ~256 |
+| Going once, going twice, sold | 30.00% | ~266 |
+| Full Steam ahead | 29.00% | ~257 |
 | Bull and bear | 27.00% | ~239 |
 | Mole | 24.00% | ~212 |
-| All mine | 23.00% | ~203 |
-| Financial Shark | 23.00% | ~203 |
+| All mine | 23.00% | ~204 |
+| Financial Shark | 23.00% | ~204 |
 | Seven at one stroke | 21.00% | ~186 |
 | Hostile Takeover | 21.00% | ~186 |
 | Socializer | 21.00% | ~186 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 884 (Ranked 181)  
+Progressed: 885 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,4 +82,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 725 | 0 |
 | 2023-06-03 | 812 | 0 |
 | 2023-06-04 | 880 | 0 |
-| 2023-06-05 | 884 | 0 |
+| 2023-06-05 | 885 | 0 |

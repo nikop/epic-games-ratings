@@ -6,30 +6,30 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 74.00% | ~3,017 |
-| Hey Good Hookin | 64.00% | ~2,609 |
-| I'm on a Boat! | 54.00% | ~2,202 |
-| Can you smell what the Rod is Hooking | 48.00% | ~1,957 |
-| Scaling up | 48.00% | ~1,957 |
-| Ready to Rod and Roll | 39.00% | ~1,590 |
-| More Fish in the Sea | 39.00% | ~1,590 |
+| Fish Just Got Reel | 74.00% | ~3,018 |
+| Hey Good Hookin | 64.00% | ~2,611 |
+| I'm on a Boat! | 54.00% | ~2,203 |
+| Can you smell what the Rod is Hooking | 48.00% | ~1,958 |
+| Scaling up | 47.00% | ~1,917 |
+| Ready to Rod and Roll | 39.00% | ~1,591 |
+| More Fish in the Sea | 39.00% | ~1,591 |
 | License to Gill | 32.00% | ~1,305 |
-| Fish Out of Water | 30.00% | ~1,223 |
-| Things that go Splash in the Night | 25.00% | ~1,019 |
-| Goldfish? | 25.00% | ~1,019 |
+| Fish Out of Water | 30.00% | ~1,224 |
+| Things that go Splash in the Night | 25.00% | ~1,020 |
+| Goldfish? | 25.00% | ~1,020 |
 | Going for Gold | 23.00% | ~938 |
 | I'm Hooked! | 17.00% | ~693 |
 | More than a Tourist | 12.00% | ~489 |
 | Diamond in the Rough | 12.00% | ~489 |
-| Hook, Line and Sinker | 7.00% | ~285 |
-| Marathon | 7.00% | ~285 |
+| Hook, Line and Sinker | 7.00% | ~286 |
+| Marathon | 7.00% | ~286 |
 | Big Fish Small Pond | 6.00% | ~245 |
 | I'm the Captain Now | 5.00% | ~204 |
 | School's Out for Summer | 4.00% | ~163 |
 | Gonna Need a Bigger Boat | 3.00% | ~122 |
 | The Beetles | 2.00% | ~82 |
 | Taylor Made | 2.00% | ~82 |
-| Rod and Troll | 1.00% | ~34 |
+| Rod and Troll | 1.00% | ~35 |
 | Head for Heights | 0.60% | ~24 |
 | Lake Me up Before You Go Go | 0.50% | ~20 |
 | Fish upon a Star | 0.50% | ~17 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,077 (Ranked 132)  
+Progressed: 4,079 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 4,008 | 0 |
 | 2023-06-03 | 4,046 | 0 |
 | 2023-06-04 | 4,074 | 0 |
-| 2023-06-05 | 4,077 | 0 |
+| 2023-06-05 | 4,079 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 438)  
 Sum: 158 (Ranked 379)  

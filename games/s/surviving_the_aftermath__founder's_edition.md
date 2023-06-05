@@ -6,8 +6,8 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,351 |
-| Leader | 61.00% | ~3,738 |
+| First Step | 71.00% | ~4,352 |
+| Leader | 61.00% | ~3,739 |
 | Explorer | 53.00% | ~3,248 |
 | Healer | 53.00% | ~3,248 |
 | Aspiring Inventor | 45.00% | ~2,758 |
@@ -15,26 +15,26 @@ Number of Ratings: 836  (23.09.2022)
 | Famous Healer | 38.00% | ~2,329 |
 | Local Leader | 35.00% | ~2,145 |
 | New Opportunities | 34.00% | ~2,084 |
-| Famous Explorer | 33.00% | ~2,022 |
-| Energized | 33.00% | ~2,022 |
-| The Long Haul | 33.00% | ~2,022 |
+| Famous Explorer | 33.00% | ~2,023 |
+| Energized | 33.00% | ~2,023 |
+| The Long Haul | 33.00% | ~2,023 |
 | Survivor | 31.00% | ~1,900 |
-| The Great Healer | 30.00% | ~1,838 |
+| The Great Healer | 30.00% | ~1,839 |
 | Cleaner | 28.00% | ~1,716 |
 | Catastrofan | 28.00% | ~1,716 |
 | Legendary Explorer | 27.00% | ~1,655 |
-| Finders, Keepers | 26.00% | ~1,593 |
+| Finders, Keepers | 26.00% | ~1,594 |
 | Top Notch | 24.00% | ~1,471 |
-| Mentor | 23.00% | ~1,409 |
 | Great Leader | 22.00% | ~1,348 |
 | Ice Lakes | 22.00% | ~1,348 |
+| Mentor | 22.00% | ~1,348 |
 | Merchant | 21.00% | ~1,287 |
 | Real Survivor | 21.00% | ~1,287 |
-| War Never Changes | 19.00% | ~1,164 |
-| Rocket Surgeon | 19.00% | ~1,164 |
+| War Never Changes | 19.00% | ~1,165 |
+| Rocket Surgeon | 19.00% | ~1,165 |
 | Big Game Hunter | 17.00% | ~1,042 |
-| Friendly | 16.00% | ~980 |
-| Spreading Influence | 16.00% | ~980 |
+| Friendly | 16.00% | ~981 |
+| Spreading Influence | 16.00% | ~981 |
 | Around the World | 15.00% | ~919 |
 | Bookworm | 14.00% | ~858 |
 | Famous Adventurer | 13.00% | ~797 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,128 (Ranked 121)  
+Progressed: 6,129 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,20 +112,20 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 6,044 | 0 |
 | 2023-06-03 | 6,087 | 0 |
 | 2023-06-04 | 6,125 | 0 |
-| 2023-06-05 | 6,128 | 0 |
+| 2023-06-05 | 6,129 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 327)  
-Sum: 657 (Ranked 272)  
+Sum: 659 (Ranked 272)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 99 |
 | This game has Amazing Storytelling | 84 |
-| This game is Great for Beginners | 83 |
+| This game is Great for Beginners | 84 |
 | This game is Relaxing | 80 |
 | This game has Quickly Understood Controls | 77 |
 | This game is Highly Recommended | 67 |
-| This game has Diverse Characters | 65 |
+| This game has Diverse Characters | 66 |
 | This game has Amazing Characters | 62 |
 | This game has Obsessive Gameplay | 58 |
 | This game has a Creative Community | 40 |
@@ -218,3 +218,4 @@ Diff (max vs sum): 55
 | 2023-05-28 | 4.47 | - | 99 | 655 |
 | 2023-05-30 | 4.47 | - | 99 | 656 |
 | 2023-06-03 | 4.47 | - | 99 | 657 |
+| 2023-06-05 | 4.47 | - | 99 | 659 |

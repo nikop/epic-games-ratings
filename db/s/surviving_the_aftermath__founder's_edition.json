@@ -943,10 +943,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 657,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-06-05T04:00:59.3034054+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 659,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 657,
+  "NumberOfAwards": 659,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -996,13 +1002,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 65
+      "Count": 66
     },
     {
       "Text": "This game has a Creative Community",
@@ -1011,9 +1017,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6128,
+  "EOS_Progressed": 6129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4751,6 +4757,11 @@
       "Time": "2023-06-05T03:11:17.8324514+00:00",
       "NumProgressed": 6128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T04:02:02.9453304+00:00",
+      "NumProgressed": 6129,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -4762,7 +4773,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3738
+      "UsersEstimate": 3739
     },
     {
       "ID": "10",
@@ -4770,7 +4781,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "11",
@@ -4802,7 +4813,7 @@
       "Name": "Famous Explorer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "15",
@@ -4866,7 +4877,7 @@
       "Name": "The Great Healer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "22",
@@ -4874,7 +4885,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4351
+      "UsersEstimate": 4352
     },
     {
       "ID": "23",
@@ -4914,7 +4925,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "28",
@@ -4986,7 +4997,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "36",
@@ -5002,7 +5013,7 @@
       "Name": "Spreading Influence",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "38",
@@ -5018,7 +5029,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "4",
@@ -5082,7 +5093,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "47",
@@ -5090,7 +5101,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "48",
@@ -5104,9 +5115,9 @@
       "ID": "49",
       "SetID": "8idi9ml",
       "Name": "Mentor",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1348
     },
     {
       "ID": "5",
@@ -5233,15 +5244,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6128,
+      "Progressed": 6129,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-06-03T20:00:11.4981681+00:00",
-  "LastChanged_Achievements": "2023-06-05T03:11:17.832451+00:00",
+  "LastChanged": "2023-06-05T04:00:59.3034052+00:00",
+  "LastChanged_Achievements": "2023-06-05T04:02:02.9453298+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:10:33.9853477+00:00",
-  "LastUpdate_Achievements": "2023-06-05T03:11:17.8325416+00:00"
+  "LastUpdate_Ratings": "2023-06-05T04:00:59.3034061+00:00",
+  "LastUpdate_Achievements": "2023-06-05T04:02:02.9454272+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 78.00% | ~3,377 |
-| Realm Estate | 75.00% | ~3,247 |
-| Secret Technique | 74.00% | ~3,203 |
-| Walls Cannot Stop Us | 73.00% | ~3,160 |
-| From Friends to Family | 68.00% | ~2,944 |
-| Magical Synergy | 64.00% | ~2,771 |
-| Bone Peddler | 60.00% | ~2,597 |
-| Stronger Together | 55.00% | ~2,381 |
-| Full Ascension | 53.00% | ~2,294 |
-| There Can Only Be One! | 47.00% | ~2,035 |
-| Seat of Power | 46.00% | ~1,991 |
-| Intimidation Tactics | 44.00% | ~1,905 |
-| My Final Form | 43.00% | ~1,861 |
-| Valley of Wonders | 41.00% | ~1,775 |
+| A Wonderful Discovery | 78.00% | ~3,378 |
+| Realm Estate | 75.00% | ~3,248 |
+| Secret Technique | 74.00% | ~3,205 |
+| Walls Cannot Stop Us | 73.00% | ~3,162 |
+| From Friends to Family | 68.00% | ~2,945 |
+| Magical Synergy | 64.00% | ~2,772 |
+| Bone Peddler | 60.00% | ~2,599 |
+| Stronger Together | 55.00% | ~2,382 |
+| Full Ascension | 53.00% | ~2,295 |
+| There Can Only Be One! | 47.00% | ~2,036 |
+| Seat of Power | 46.00% | ~1,992 |
+| Intimidation Tactics | 44.00% | ~1,906 |
+| My Final Form | 43.00% | ~1,862 |
+| Valley of Wonders | 41.00% | ~1,776 |
 | In a Liege of Your Own | 37.00% | ~1,602 |
 | Return of the Wizard King | 30.00% | ~1,299 |
 | Digging for Treasure | 30.00% | ~1,299 |
@@ -28,7 +28,7 @@ Rating: 4.54 (Ranked 489)
 | The Magic That Empowers Me! | 19.00% | ~823 |
 | Arch Mage | 19.00% | ~823 |
 | Preparation Is Everything | 19.00% | ~823 |
-| God Emperor | 18.00% | ~779 |
+| God Emperor | 18.00% | ~780 |
 | Crimson Caldera | 17.00% | ~736 |
 | Eternal Lord | 16.00% | ~693 |
 | Lord of Chaos | 14.00% | ~606 |
@@ -39,7 +39,7 @@ Rating: 4.54 (Ranked 489)
 | Pruning for Progress | 9.00% | ~390 |
 | Jack of All Tomes | 8.00% | ~346 |
 | I've Got Everything I Need Right Here | 6.00% | ~260 |
-| Betrayal Most Foul | 5.00% | ~216 |
+| Betrayal Most Foul | 5.00% | ~217 |
 | Grexolis | 4.00% | ~173 |
 | One for All, All for One | 4.00% | ~173 |
 | Snap Out of It! | 3.00% | ~130 |
@@ -50,7 +50,7 @@ Rating: 4.54 (Ranked 489)
 | Master of Evilness | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,329 (Ranked 129)  
+Progressed: 4,331 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 4,204 | 0 |
 | 2023-06-03 | 4,275 | 0 |
 | 2023-06-04 | 4,325 | 0 |
-| 2023-06-05 | 4,329 | 0 |
+| 2023-06-05 | 4,331 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

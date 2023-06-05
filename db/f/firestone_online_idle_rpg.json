@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1287,
+  "EOS_Progressed": 1288,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2673,6 +2673,11 @@
       "Time": "2023-06-05T03:16:39.7369258+00:00",
       "NumProgressed": 1287,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-05T04:07:06.9308517+00:00",
+      "NumProgressed": 1288,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2692,7 +2697,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "angelpower",
@@ -2716,7 +2721,7 @@
       "Name": "Background Story",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "beastwarmachines",
@@ -2876,7 +2881,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "frostfireliberator",
@@ -2980,7 +2985,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "lockandload",
@@ -3002,9 +3007,9 @@
       "ID": "mastery",
       "SetID": "3nl4bcg",
       "Name": "Mastery",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 90
     },
     {
       "ID": "milestonecollector",
@@ -3028,7 +3033,7 @@
       "Name": "Missions Dedication",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "movinguptheladder",
@@ -3076,7 +3081,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "prestigiousx10",
@@ -3164,7 +3169,7 @@
       "Name": "The father of Dragons",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "thegameison",
@@ -3244,7 +3249,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "warmachinesarmy",
@@ -3260,7 +3265,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "whatliesbehindthebush",
@@ -3283,7 +3288,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1287,
+      "Progressed": 1288,
       "Completed": 1
     }
   ],
@@ -3291,8 +3296,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-02T14:57:56.4962792+00:00",
-  "LastChanged_Achievements": "2023-06-05T03:16:39.7369255+00:00",
+  "LastChanged_Achievements": "2023-06-05T04:07:06.9308509+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:08:52.4472023+00:00",
-  "LastUpdate_Achievements": "2023-06-05T03:16:39.7370243+00:00"
+  "LastUpdate_Ratings": "2023-06-05T03:58:28.763309+00:00",
+  "LastUpdate_Achievements": "2023-06-05T04:07:06.9310114+00:00"
 }

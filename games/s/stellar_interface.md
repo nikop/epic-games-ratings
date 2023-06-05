@@ -28,12 +28,15 @@
 | Bronze Pest Control | 3.00% | ~1 |
 | Cartridge Hoarder | 3.00% | ~1 |
 | Rambo III | 3.00% | ~1 |
+| Rambo IV | 3.00% | ~1 |
 | Curious | 3.00% | ~1 |
 | Rambo II | 3.00% | ~1 |
 | Hitchhiker | 3.00% | ~1 |
 | Pilgrim | 3.00% | ~1 |
 | Diligent | 3.00% | ~1 |
+| Omicron Theta | 3.00% | ~1 |
 | Omicron Beta | 3.00% | ~1 |
+| No Peace | 3.00% | ~1 |
 | Food Poisoning | 3.00% | ~1 |
 | Golden Prince of Ball-air | 3.00% | ~1 |
 | Space Surfer | 3.00% | ~1 |
@@ -62,7 +65,6 @@
 | Bronze BBQ | 0.00% | ~0 |
 | Rambo VI | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |
-| Rambo IV | 0.00% | ~0 |
 | Rambo V | 0.00% | ~0 |
 | Space Odysseus | 0.00% | ~0 |
 | Argonaut | 0.00% | ~0 |
@@ -79,9 +81,7 @@
 | Articulated Exoskeleton | 0.00% | ~0 |
 | Wrath of the Stars | 0.00% | ~0 |
 | Omicron Major | 0.00% | ~0 |
-| Omicron Theta | 0.00% | ~0 |
 | Omicron Gamma | 0.00% | ~0 |
-| No Peace | 0.00% | ~0 |
 | Bird of Prey | 0.00% | ~0 |
 | Unbalanced | 0.00% | ~0 |
 | U.N. Squadron I | 0.00% | ~0 |

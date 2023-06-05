@@ -35,9 +35,9 @@
 | Sump Explorer | 22.00% | ~133 |
 | Ask Questions Later | 22.00% | ~133 |
 | Chaincrawler Explorer | 21.00% | ~127 |
+| Fairgrounds Explorer | 21.00% | ~127 |
 | Syron for Hope | 21.00% | ~127 |
 | Factorywood Explorer | 20.00% | ~121 |
-| Fairgrounds Explorer | 20.00% | ~121 |
 | Theater Explorer | 17.00% | ~103 |
 | Cultivair Explorer | 16.00% | ~97 |
 | Rungs Was Right | 14.00% | ~85 |

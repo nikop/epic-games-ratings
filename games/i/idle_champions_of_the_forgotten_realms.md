@@ -29,6 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.40% | ~359 |
 | Maddening | 0.30% | ~269 |
 | Frail Doesn't Mean Broken | 0.30% | ~168 |
+| Unreasonable Doesn't Mean Stupid | 0.30% | ~168 |
 | Pin and Skewer | 0.30% | ~168 |
 | No One Can Hear You Scream | 0.30% | ~168 |
 | Welcome to the Rock | 0.30% | ~168 |
@@ -73,7 +74,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.20% | ~112 |
 | The Dread Domain of Tovag | 0.20% | ~112 |
 | The Castle of a Thousand Vecnas | 0.20% | ~112 |
-| Unreasonable Doesn't Mean Stupid | 0.20% | ~112 |
 | The Sanctum of the Sword | 0.20% | ~112 |
 | Kas the Bloody Handed | 0.20% | ~112 |
 | Get Back In The Castle | 0.20% | ~112 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,822 (Ranked 62)  
+Progressed: 89,824 (Ranked 62)  
 Completed: 1,915 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,915 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,822 | 1,915 |
+| 2023-06-05 | 89,824 | 1,915 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,033 (Ranked 37)  

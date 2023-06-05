@@ -2,7 +2,7 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 384,
   "Ranking_Popularity": 308,
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 136,
@@ -1913,9 +1913,9 @@
       "ID": "HARVEST_CROP_50",
       "SetID": "5349c2e",
       "Name": "Reap What You Sow",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 2041
+      "UsersEstimate": 2072
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -2073,9 +2073,9 @@
       "ID": "UNLOCK_RESEARCH",
       "SetID": "5349c2e",
       "Name": "Novice Researcher",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1853
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -2121,8 +2121,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-02T06:00:06.4515781+00:00",
-  "LastChanged_Achievements": "2023-06-05T03:16:36.18981+00:00",
+  "LastChanged_Achievements": "2023-06-05T04:07:02.2947839+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.8895612+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:10:27.5382184+00:00",
-  "LastUpdate_Achievements": "2023-06-05T03:16:36.1898416+00:00"
+  "LastUpdate_Ratings": "2023-06-05T04:00:49.3848571+00:00",
+  "LastUpdate_Achievements": "2023-06-05T04:07:02.2948203+00:00"
 }

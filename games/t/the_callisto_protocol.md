@@ -10,10 +10,10 @@ Rating: 4.18 (Ranked 839)
 | Desperate Times | 10.00% | ~1,452 |
 | Chew 'Em Up | 8.00% | ~1,162 |
 | Paper Jams | 8.00% | ~1,162 |
-| Reforged | 7.00% | ~1,016 |
-| Giving Back | 6.00% | ~871 |
-| Workplace Hazard | 6.00% | ~871 |
-| If the SHU Fits... | 6.00% | ~871 |
+| Reforged | 7.00% | ~1,017 |
+| Giving Back | 6.00% | ~872 |
+| Workplace Hazard | 6.00% | ~872 |
+| If the SHU Fits... | 6.00% | ~872 |
 | Get a Grip | 5.00% | ~726 |
 | Without A Paddle | 5.00% | ~726 |
 | Terminated | 4.00% | ~581 |
@@ -27,14 +27,14 @@ Rating: 4.18 (Ranked 839)
 | The Commonality | 3.00% | ~436 |
 | What Lies Beneath | 3.00% | ~436 |
 | Power Up | 3.00% | ~436 |
-| Bear Trap | 3.00% | ~73 |
+| Bear Trap | 3.00% | ~74 |
 | I Do Belong Here | 2.00% | ~290 |
 | In Striking Distance | 2.00% | ~290 |
 | Mugshot | 2.00% | ~290 |
 | Full Circle | 2.00% | ~290 |
 | Big Spender | 2.00% | ~49 |
-| Parole Denied | 1.00% | ~24 |
-| Hoard Mode | 1.00% | ~24 |
+| Parole Denied | 1.00% | ~25 |
+| Hoard Mode | 1.00% | ~25 |
 | Recidivist | 0.70% | ~17 |
 | Lifer | 0.70% | ~17 |
 | Grim Reaper | 0.60% | ~87 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 839)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,521 (Ranked 103)  
+Progressed: 14,525 (Ranked 103)  
 Completed: 53 (0.36%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 53 (0.36%) (Ranked 121)
 | 2023-06-02 | 14,323 | 53 |
 | 2023-06-03 | 14,412 | 53 |
 | 2023-06-04 | 14,505 | 53 |
-| 2023-06-05 | 14,521 | 53 |
+| 2023-06-05 | 14,525 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 287 (Ranked 328)  

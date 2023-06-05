@@ -4114,9 +4114,9 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89822,
+  "EOS_Progressed": 89824,
   "EOS_Completed": 1915,
-  "EOS_NewPlayers": 753,
+  "EOS_NewPlayers": 751,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8709,6 +8709,11 @@
       "Time": "2023-06-05T03:16:53.8843629+00:00",
       "NumProgressed": 89822,
       "NumCompleted": 1915
+    },
+    {
+      "Time": "2023-06-05T04:07:24.299456+00:00",
+      "NumProgressed": 89824,
+      "NumCompleted": 1915
     }
   ],
   "TotalAchievements": 493,
@@ -9542,9 +9547,9 @@
       "ID": "objective_completed_1190",
       "SetID": "415jc5c",
       "Name": "Unreasonable Doesn\u0027t Mean Stupid",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_completed_1193",
@@ -12663,21 +12668,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56096,
+      "Progressed": 56098,
       "Completed": 2769
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89822,
+      "Progressed": 89824,
       "Completed": 1915
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-04T22:58:24.4036203+00:00",
-  "LastChanged_Achievements": "2023-06-05T03:16:53.8843624+00:00",
+  "LastChanged_Achievements": "2023-06-05T04:07:24.2994554+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:08:53.7742682+00:00",
-  "LastUpdate_Achievements": "2023-06-05T03:16:53.8894029+00:00"
+  "LastUpdate_Ratings": "2023-06-05T03:58:30.7735826+00:00",
+  "LastUpdate_Achievements": "2023-06-05T04:07:24.3043846+00:00"
 }

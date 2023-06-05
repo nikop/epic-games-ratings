@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 1019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1412,9 +1412,9 @@
       "ID": "DIFFERENTLY_ABLED",
       "SetID": "9a4jnji",
       "Name": "Jarhead",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 183
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -1468,9 +1468,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 367
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1628,9 +1628,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 306
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1709,8 +1709,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-04T14:58:28.7773787+00:00",
-  "LastChanged_Achievements": "2023-06-05T03:13:22.4900668+00:00",
+  "LastChanged_Achievements": "2023-06-05T04:02:36.6031592+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:09:06.7008741+00:00",
-  "LastUpdate_Achievements": "2023-06-05T03:13:22.4901232+00:00"
+  "LastUpdate_Ratings": "2023-06-05T03:58:50.2321495+00:00",
+  "LastUpdate_Achievements": "2023-06-05T04:02:36.6032527+00:00"
 }
