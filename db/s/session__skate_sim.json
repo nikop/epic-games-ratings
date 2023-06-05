@@ -4,11 +4,11 @@
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 259,
   "Ranking_Popularity": 397,
-  "Ranking_PopularitySum": 302,
+  "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -590,10 +590,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 416,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-06-04T23:59:06.4190943+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 420,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 416,
+  "NumberOfAwards": 420,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -637,13 +643,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 36
+      "Count": 38
     },
     {
       "Text": "This game has Diverse Characters",
@@ -661,7 +667,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Educational",
@@ -670,9 +676,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2248,
+  "EOS_Progressed": 2251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1965,6 +1971,11 @@
       "Time": "2023-06-04T21:07:23.7691241+00:00",
       "NumProgressed": 2248,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T00:05:50.3688409+00:00",
+      "NumProgressed": 2251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1992,7 +2003,7 @@
       "Name": "Bottom ply killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_COMMENCE-THE-HIJINX",
@@ -2008,7 +2019,7 @@
       "Name": "Cops called!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -2024,7 +2035,7 @@
       "Name": "Dipped!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_DIY-BOSS",
@@ -2040,7 +2051,7 @@
       "Name": "Fashionista",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -2056,7 +2067,7 @@
       "Name": "Fulfilled the dream",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_GDAY-MATE",
@@ -2064,7 +2075,7 @@
       "Name": "G\u0027Day Mate!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -2080,7 +2091,7 @@
       "Name": "Go with the Flow",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -2088,7 +2099,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_GOLDEN",
@@ -2104,7 +2115,7 @@
       "Name": "Good vibes",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_HOARDER",
@@ -2112,7 +2123,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
@@ -2128,7 +2139,7 @@
       "Name": "Keeping it classy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -2192,7 +2203,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -2232,7 +2243,7 @@
       "Name": "Squad goals",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_SUP-WIDDIT-BIG-DOG",
@@ -2240,7 +2251,7 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_TANK-COMMANDER",
@@ -2264,7 +2275,7 @@
       "Name": "That was wheelie fun",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_THATS-HOW-ITS-DONE",
@@ -2288,7 +2299,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -2336,7 +2347,7 @@
       "Name": "We get it, you\u0027re good",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
@@ -2352,22 +2363,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1193
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2248,
+      "Progressed": 2251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-06-03T23:58:38.5908242+00:00",
-  "LastChanged_Achievements": "2023-06-04T23:06:27.2277768+00:00",
+  "LastChanged": "2023-06-04T23:59:06.4190942+00:00",
+  "LastChanged_Achievements": "2023-06-05T00:05:50.3688405+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-04T22:59:28.3036411+00:00",
-  "LastUpdate_Achievements": "2023-06-04T23:06:27.2278196+00:00"
+  "LastUpdate_Ratings": "2023-06-04T23:59:06.4190947+00:00",
+  "LastUpdate_Achievements": "2023-06-05T00:05:50.3688881+00:00"
 }

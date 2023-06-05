@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 630,
+  "Ranking_Rating": 629,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2257,
+  "EOS_Progressed": 2258,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2515,6 +2515,11 @@
       "Time": "2023-06-04T23:06:31.8616129+00:00",
       "NumProgressed": 2257,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T00:05:54.447871+00:00",
+      "NumProgressed": 2258,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2604,9 +2609,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 610
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2734,7 +2739,7 @@
       "Name": "Lord of War",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3093,13 +3098,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2208,
+      "Progressed": 2209,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2257,
+      "Progressed": 2258,
       "Completed": 2
     }
   ],
@@ -3107,8 +3112,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-04T23:06:31.8616121+00:00",
+  "LastChanged_Achievements": "2023-06-05T00:05:54.4478706+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-04T23:01:02.7671228+00:00",
-  "LastUpdate_Achievements": "2023-06-04T23:06:31.8616879+00:00"
+  "LastUpdate_Ratings": "2023-06-05T00:00:23.2153742+00:00",
+  "LastUpdate_Achievements": "2023-06-05T00:05:54.4479515+00:00"
 }

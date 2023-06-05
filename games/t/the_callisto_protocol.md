@@ -6,22 +6,22 @@ Rating: 4.18 (Ranked 839)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 12.00% | ~1,741 |
-| The Outer Way | 10.00% | ~1,450 |
-| Desperate Times | 10.00% | ~1,450 |
-| Chew 'Em Up | 8.00% | ~1,160 |
-| Paper Jams | 8.00% | ~1,160 |
-| Reforged | 7.00% | ~1,015 |
-| Giving Back | 6.00% | ~870 |
-| Workplace Hazard | 6.00% | ~870 |
-| If the SHU Fits... | 6.00% | ~870 |
-| Get a Grip | 5.00% | ~725 |
-| Without A Paddle | 5.00% | ~725 |
+| The Outer Way | 10.00% | ~1,451 |
+| Desperate Times | 10.00% | ~1,451 |
+| Chew 'Em Up | 8.00% | ~1,161 |
+| Paper Jams | 8.00% | ~1,161 |
+| Reforged | 7.00% | ~1,016 |
+| Giving Back | 6.00% | ~871 |
+| Workplace Hazard | 6.00% | ~871 |
+| If the SHU Fits... | 6.00% | ~871 |
+| Get a Grip | 5.00% | ~726 |
+| Without A Paddle | 5.00% | ~726 |
 | Terminated | 4.00% | ~580 |
 | Float Like A Butterfly | 4.00% | ~580 |
 | In the Pipe, Five by Five | 4.00% | ~580 |
 | Crash Site | 4.00% | ~580 |
-| Instigator | 4.00% | ~97 |
-| Big Game Hunter | 4.00% | ~97 |
+| Instigator | 4.00% | ~98 |
+| Big Game Hunter | 4.00% | ~98 |
 | You Need a Gun | 3.00% | ~435 |
 | Two Heads Are Better Than One | 3.00% | ~435 |
 | The Commonality | 3.00% | ~435 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 839)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,505 (Ranked 103)  
+Progressed: 14,512 (Ranked 103)  
 Completed: 53 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 53 (0.37%) (Ranked 119)
 | 2023-06-02 | 14,323 | 53 |
 | 2023-06-03 | 14,412 | 53 |
 | 2023-06-04 | 14,505 | 53 |
+| 2023-06-05 | 14,512 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 287 (Ranked 328)  

@@ -9,15 +9,15 @@ Rating: 4.54 (Ranked 489)
 | Realm Estate | 75.00% | ~3,244 |
 | Secret Technique | 74.00% | ~3,200 |
 | Walls Cannot Stop Us | 73.00% | ~3,157 |
-| From Friends to Family | 68.00% | ~2,941 |
+| From Friends to Family | 69.00% | ~2,984 |
 | Magical Synergy | 64.00% | ~2,768 |
 | Bone Peddler | 60.00% | ~2,595 |
 | Stronger Together | 55.00% | ~2,379 |
 | Full Ascension | 53.00% | ~2,292 |
 | There Can Only Be One! | 47.00% | ~2,033 |
 | Seat of Power | 46.00% | ~1,990 |
+| Intimidation Tactics | 44.00% | ~1,903 |
 | My Final Form | 43.00% | ~1,860 |
-| Intimidation Tactics | 43.00% | ~1,860 |
 | Valley of Wonders | 41.00% | ~1,773 |
 | In a Liege of Your Own | 37.00% | ~1,600 |
 | Return of the Wizard King | 30.00% | ~1,298 |
@@ -29,8 +29,8 @@ Rating: 4.54 (Ranked 489)
 | Arch Mage | 19.00% | ~822 |
 | Preparation Is Everything | 19.00% | ~822 |
 | God Emperor | 18.00% | ~778 |
+| Crimson Caldera | 17.00% | ~735 |
 | Eternal Lord | 16.00% | ~692 |
-| Crimson Caldera | 16.00% | ~692 |
 | Lord of Chaos | 14.00% | ~606 |
 | The Creator | 14.00% | ~606 |
 | Fiery Friend | 14.00% | ~606 |

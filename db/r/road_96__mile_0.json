@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -563,9 +563,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "completeact2",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-04T23:03:57.3930599+00:00",
+  "LastChanged_Achievements": "2023-06-05T00:03:53.8144225+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-04T22:59:13.6336531+00:00",
-  "LastUpdate_Achievements": "2023-06-04T23:03:57.3930738+00:00"
+  "LastUpdate_Ratings": "2023-06-04T23:58:52.6702957+00:00",
+  "LastUpdate_Achievements": "2023-06-05T00:03:53.8144356+00:00"
 }

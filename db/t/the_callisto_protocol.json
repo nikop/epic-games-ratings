@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14505,
+  "EOS_Progressed": 14512,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2770,6 +2770,11 @@
       "Time": "2023-06-04T23:04:36.691747+00:00",
       "NumProgressed": 14505,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-05T00:04:17.9257154+00:00",
+      "NumProgressed": 14512,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2797,7 +2802,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -2885,7 +2890,7 @@
       "Name": "Get a Grip",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2909,7 +2914,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "KILL_ROBOT",
@@ -2925,7 +2930,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2949,7 +2954,7 @@
       "Name": "Reforged",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "PRINT_WEAPON",
@@ -2957,7 +2962,7 @@
       "Name": "Paper Jams",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "SHARE_PHOTO",
@@ -2973,7 +2978,7 @@
       "Name": "The Outer Way",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "STORY_ESCAPE",
@@ -2981,7 +2986,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "STORY_HABITAT",
@@ -2989,7 +2994,7 @@
       "Name": "Without A Paddle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "STORY_HANGAR",
@@ -3013,7 +3018,7 @@
       "Name": "Desperate Times",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3053,7 +3058,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3061,7 +3066,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3100,13 +3105,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14505,
+      "Progressed": 14512,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2431,
+      "Progressed": 2438,
       "Completed": 29
     }
   ],
@@ -3114,8 +3119,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-04T23:04:36.6917464+00:00",
+  "LastChanged_Achievements": "2023-06-05T00:04:17.9257149+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-04T22:58:11.9677666+00:00",
-  "LastUpdate_Achievements": "2023-06-04T23:04:36.691791+00:00"
+  "LastUpdate_Ratings": "2023-06-04T23:58:02.4489441+00:00",
+  "LastUpdate_Achievements": "2023-06-05T00:04:17.9257586+00:00"
 }

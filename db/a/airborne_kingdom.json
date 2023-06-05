@@ -6,9 +6,9 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 99,
+  "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -314,10 +314,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 6525,
-  "EOS_Completed": 51,
+  "EOS_Completed": 52,
   "EOS_NewPlayers": 61,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.78,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:43.6429949+00:00",
@@ -1538,6 +1538,11 @@
       "Time": "2023-06-04T19:06:00.0795373+00:00",
       "NumProgressed": 6525,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-06-05T00:05:49.9573788+00:00",
+      "NumProgressed": 6525,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -1765,14 +1770,14 @@
       "ID": "dfmb89",
       "IsBase": true,
       "Progressed": 6525,
-      "Completed": 51
+      "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-04T23:06:26.7631903+00:00",
+  "LastChanged_Achievements": "2023-06-05T00:05:49.9573784+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:31.0570874+00:00",
-  "LastUpdate_Ratings": "2023-06-04T22:57:42.5198133+00:00",
-  "LastUpdate_Achievements": "2023-06-04T23:06:26.7632177+00:00"
+  "LastUpdate_Ratings": "2023-06-04T23:57:41.1503927+00:00",
+  "LastUpdate_Achievements": "2023-06-05T00:05:49.9574034+00:00"
 }

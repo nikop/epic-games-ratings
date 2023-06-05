@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| BBFF (Best Brigade Friend Forever) | 52.00% | ~128 |
+| BBFF (Best Brigade Friend Forever) | 53.00% | ~130 |
 | Conspiracy Theorist | 43.00% | ~106 |
 | On the Road | 41.00% | ~101 |
 | Souvenirs | 34.00% | ~84 |

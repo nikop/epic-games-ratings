@@ -7,32 +7,32 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 36.00% | ~1,026 |
-| Look Over There! | 31.00% | ~883 |
+| Look Over There! | 31.00% | ~884 |
 | Watch Where You Step... | 30.00% | ~855 |
 | Not So Fast... | 29.00% | ~826 |
 | An Ill Omen | 28.00% | ~798 |
 | Purging Spree | 22.00% | ~627 |
-| Blood for the Blood God! | 17.00% | ~484 |
+| Blood for the Blood God! | 17.00% | ~485 |
 | Friendly Fire | 16.00% | ~456 |
-| Surgical Excision | 15.00% | ~427 |
-| Bloodless | 15.00% | ~427 |
-| Honoured Battle-Brother | 11.00% | ~313 |
-| The Emperor Protects | 11.00% | ~313 |
-| A Foul Creche | 11.00% | ~313 |
+| Surgical Excision | 15.00% | ~428 |
+| Bloodless | 15.00% | ~428 |
+| Honoured Battle-Brother | 11.00% | ~314 |
+| The Emperor Protects | 11.00% | ~314 |
+| A Foul Creche | 11.00% | ~314 |
 | Nemesis Master | 10.00% | ~285 |
 | Gunmaster | 10.00% | ~285 |
 | Efficient Killer | 8.00% | ~228 |
 | Just a Scratch | 8.00% | ~228 |
-| Opportunist | 7.00% | ~199 |
+| Opportunist | 7.00% | ~200 |
 | Hold Your Ground | 6.00% | ~171 |
 | A Gift Spurned | 4.00% | ~114 |
 | Long Distance Call | 4.00% | ~114 |
-| Daemonkeeper | 3.00% | ~85 |
-| Corruption Cleanser | 3.00% | ~85 |
-| Mind Like a Fortress | 3.00% | ~85 |
-| Harvest No More | 3.00% | ~85 |
-| Junk Banishment | 3.00% | ~85 |
-| Tactical Flexibility | 3.00% | ~85 |
+| Daemonkeeper | 3.00% | ~86 |
+| Corruption Cleanser | 3.00% | ~86 |
+| Mind Like a Fortress | 3.00% | ~86 |
+| Harvest No More | 3.00% | ~86 |
+| Junk Banishment | 3.00% | ~86 |
+| Tactical Flexibility | 3.00% | ~86 |
 | Patron of Deimos | 2.00% | ~57 |
 | Exterminator | 2.00% | ~57 |
 | Preservationist | 2.00% | ~57 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,849 (Ranked 139)  
+Progressed: 2,850 (Ranked 139)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 2,835 | 0 |
 | 2023-06-03 | 2,844 | 0 |
 | 2023-06-04 | 2,849 | 0 |
+| 2023-06-05 | 2,850 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 420 (Ranked 299)  

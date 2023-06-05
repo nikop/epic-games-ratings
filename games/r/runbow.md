@@ -5,25 +5,25 @@ Rating: 4.46 (Ranked 601)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,433 |
-| My First Runbow | 50.00% | ~122,107 |
-| It's The Fall | 26.00% | ~63,496 |
-| The Stunner | 21.00% | ~51,285 |
-| Be Aggressive | 20.00% | ~48,843 |
-| Curator | 20.00% | ~48,843 |
-| Crowning Around | 18.00% | ~43,959 |
-| Can You Dig It? | 17.00% | ~41,516 |
-| You Juan-A-Go? | 16.00% | ~39,074 |
-| Chan-tastic | 15.00% | ~36,632 |
-| Muddy Waters | 14.00% | ~34,190 |
-| Toasty! | 13.00% | ~31,748 |
-| Lazy Laser | 8.00% | ~19,537 |
+| In The Zone | 53.00% | ~129,437 |
+| My First Runbow | 50.00% | ~122,110 |
+| It's The Fall | 26.00% | ~63,497 |
+| The Stunner | 21.00% | ~51,286 |
+| Be Aggressive | 20.00% | ~48,844 |
+| Curator | 20.00% | ~48,844 |
+| Crowning Around | 18.00% | ~43,960 |
+| Can You Dig It? | 17.00% | ~41,517 |
+| You Juan-A-Go? | 16.00% | ~39,075 |
+| Chan-tastic | 15.00% | ~36,633 |
+| Muddy Waters | 14.00% | ~34,191 |
+| Toasty! | 13.00% | ~31,749 |
+| Lazy Laser | 8.00% | ~19,538 |
 | Into The Drift | 7.00% | ~17,095 |
 | Ready? Fight! | 7.00% | ~17,095 |
 | Just A Phaze | 6.00% | ~14,653 |
 | Butt Butt | 6.00% | ~14,653 |
-| He Who Laughs Last | 3.00% | ~7,326 |
-| Shoo, Cat! | 3.00% | ~7,326 |
+| He Who Laughs Last | 3.00% | ~7,327 |
+| Shoo, Cat! | 3.00% | ~7,327 |
 | And You're Okay | 2.00% | ~4,884 |
 | Blotbuster | 2.00% | ~4,884 |
 | Just A Bit | 1.00% | ~2,442 |
@@ -31,7 +31,7 @@ Rating: 4.46 (Ranked 601)
 | Tubular, Dude | 0.90% | ~2,198 |
 | What A Trip | 0.90% | ~2,198 |
 | Please The King | 0.80% | ~1,954 |
-| Here We Go! | 0.70% | ~1,709 |
+| Here We Go! | 0.70% | ~1,710 |
 | Clear-Cut | 0.50% | ~1,221 |
 | Breaking Out | 0.40% | ~977 |
 | Disposable | 0.30% | ~733 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 601)
 | Talent Scout | 0.10% | ~244 |
 | True Completionist | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,214 (Ranked 42)  
+Progressed: 244,220 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 2 (0.00%) (Ranked 212)
 | 2023-06-02 | 244,068 | 2 |
 | 2023-06-03 | 244,144 | 2 |
 | 2023-06-04 | 244,214 | 2 |
+| 2023-06-05 | 244,220 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

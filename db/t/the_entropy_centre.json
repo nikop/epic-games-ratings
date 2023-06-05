@@ -4,8 +4,8 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -342,9 +342,9 @@
       "ID": "ACH_ACT1",
       "SetID": "2310cb1",
       "Name": "Wake Up",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_ACT10",
@@ -406,25 +406,25 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_ACT4",
       "SetID": "2310cb1",
       "Name": "This is a Wall",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_ACT5",
@@ -567,8 +567,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-04T23:06:21.5801359+00:00",
+  "LastChanged_Achievements": "2023-06-05T00:05:45.3865965+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.4593213+00:00",
-  "LastUpdate_Ratings": "2023-06-04T22:57:45.4386757+00:00",
-  "LastUpdate_Achievements": "2023-06-04T23:06:21.5801575+00:00"
+  "LastUpdate_Ratings": "2023-06-04T23:57:42.5869336+00:00",
+  "LastUpdate_Achievements": "2023-06-05T00:05:45.3866153+00:00"
 }

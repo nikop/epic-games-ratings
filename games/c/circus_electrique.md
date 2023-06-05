@@ -6,23 +6,23 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 42.00% | ~178 |
+| Self Defense | 41.00% | ~174 |
 | Grand Opening | 37.00% | ~157 |
 | Circus Electrique Proudly Presents... | 37.00% | ~157 |
 | Path of Learning | 37.00% | ~157 |
-| Built in a Day | 30.00% | ~127 |
+| Built in a Day | 30.00% | ~128 |
 | More Brain Than Brawn | 26.00% | ~110 |
 | Perfect Illusion | 20.00% | ~85 |
 | Hundred Percent First | 20.00% | ~85 |
 | Dirty Dozen | 17.00% | ~72 |
 | Fan Service | 16.00% | ~68 |
 | Lion Tamer | 15.00% | ~64 |
-| Amazing! | 14.00% | ~59 |
-| Bar Brawler | 13.00% | ~55 |
+| Amazing! | 14.00% | ~60 |
 | King of District 1 | 13.00% | ~55 |
-| Flawless Presentation | 13.00% | ~55 |
 | One More Thing... | 12.00% | ~51 |
 | Lucky Day | 12.00% | ~51 |
+| Bar Brawler | 12.00% | ~51 |
+| Flawless Presentation | 12.00% | ~51 |
 | King of District 2 | 11.00% | ~47 |
 | Time Travel! | 10.00% | ~42 |
 | Marketing Manager | 9.00% | ~38 |
@@ -30,8 +30,8 @@ Number of Ratings: 22  (23.09.2022)
 | King of District 3 | 8.00% | ~34 |
 | Club Member | 7.00% | ~30 |
 | Spirits High | 7.00% | ~30 |
-| Hundred Percent Second | 6.00% | ~25 |
-| King of District 4 | 6.00% | ~25 |
+| Hundred Percent Second | 6.00% | ~26 |
+| King of District 4 | 6.00% | ~26 |
 | Around the Clock | 5.00% | ~21 |
 | Club Champion | 5.00% | ~21 |
 | Mobile Infantry | 5.00% | ~21 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424 (Ranked 204)  
+Progressed: 425 (Ranked 203)  
 Completed: 1 (0.24%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 1 (0.24%) (Ranked 140)
 | 2023-06-02 | 418 | 1 |
 | 2023-06-03 | 421 | 1 |
 | 2023-06-04 | 424 | 1 |
+| 2023-06-05 | 425 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "neo-the-world-ends-with-you",
   "Ranking_Rating": 30,
   "Ranking_Popularity": 331,
-  "Ranking_PopularitySum": 376,
+  "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-28T15:00:00+00:00",
     "PcReleaseDate": "2021-09-28T15:00:00+00:00",
@@ -382,6 +382,6 @@
   "FirstSeen": "2022-07-22T20:26:59.3741762+00:00",
   "LastChanged": "2023-05-18T19:00:26.4449454+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:50.3509197+00:00",
-  "LastUpdate_Ratings": "2023-06-04T23:00:52.2744562+00:00",
-  "LastUpdate_Achievements": "2023-06-04T23:06:02.3868083+00:00"
+  "LastUpdate_Ratings": "2023-06-05T00:00:14.4963918+00:00",
+  "LastUpdate_Achievements": "2023-06-05T00:05:29.2549818+00:00"
 }

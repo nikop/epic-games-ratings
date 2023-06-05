@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -528,7 +528,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2849,
+  "EOS_Progressed": 2850,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
@@ -1593,6 +1593,11 @@
       "Time": "2023-06-04T21:07:47.0384337+00:00",
       "NumProgressed": 2849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T00:06:08.3930821+00:00",
+      "NumProgressed": 2850,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1620,7 +1625,7 @@
       "Name": "Look Over There!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "BloodAndIron",
@@ -1692,7 +1697,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1700,7 +1705,7 @@
       "Name": "Surgical Excision",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1756,7 +1761,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -1780,7 +1785,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1788,7 +1793,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Kills_Executioner",
@@ -1820,7 +1825,7 @@
       "Name": "Opportunist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Kills_Knockback",
@@ -1860,7 +1865,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -1868,7 +1873,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1940,7 +1945,7 @@
       "Name": "Bloodless",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1972,7 +1977,7 @@
       "Name": "A Foul Creche",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -2012,7 +2017,7 @@
       "Name": "Harvest No More",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -2020,7 +2025,7 @@
       "Name": "Junk Banishment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -2068,28 +2073,28 @@
       "Name": "Tactical Flexibility",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2849,
+      "Progressed": 2850,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2849,
+      "Progressed": 2850,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-04T23:06:48.2015925+00:00",
+  "LastChanged_Achievements": "2023-06-05T00:06:08.3930816+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-04T22:59:05.3214622+00:00",
-  "LastUpdate_Achievements": "2023-06-04T23:06:48.2016504+00:00"
+  "LastUpdate_Ratings": "2023-06-04T23:58:46.8639529+00:00",
+  "LastUpdate_Achievements": "2023-06-05T00:06:08.3931423+00:00"
 }

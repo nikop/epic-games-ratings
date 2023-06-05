@@ -17,7 +17,7 @@
 | The Shield | 40.00% | ~35 |
 | The Tunneler | 40.00% | ~35 |
 | Level Up!! | 38.00% | ~33 |
-| Kill-streak | 35.00% | ~31 |
+| Kill-streak | 36.00% | ~32 |
 | The Bird | 31.00% | ~27 |
 | Topped up | 27.00% | ~24 |
 | The Idol | 27.00% | ~24 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 279)  
+Progressed: 88 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

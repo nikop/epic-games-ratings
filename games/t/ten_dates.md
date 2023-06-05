@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That wasn't so bad | 86.00% | ~198 |
-| Let it begin | 51.00% | ~117 |
+| That wasn't so bad | 86.00% | ~199 |
+| Let it begin | 51.00% | ~118 |
 | The intellectual | 26.00% | ~60 |
 | The athlete | 26.00% | ~60 |
 | The boss | 25.00% | ~58 |
 | The individualist | 22.00% | ~51 |
-| The activist | 21.00% | ~48 |
+| The activist | 21.00% | ~49 |
 | The nice guy | 13.00% | ~30 |
 | The debonair | 11.00% | ~25 |
 | Picky, Picky! | 10.00% | ~23 |
@@ -24,7 +24,7 @@
 | Keep the spark alive | 3.00% | ~7 |
 | Muggy Misha | 3.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230 (Ranked 239)  
+Progressed: 231 (Ranked 238)  
 Completed: 3 (1.30%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,6 +51,7 @@ Completed: 3 (1.30%) (Ranked 79)
 | 2023-06-02 | 225 | 3 |
 | 2023-06-03 | 227 | 3 |
 | 2023-06-04 | 230 | 3 |
+| 2023-06-05 | 231 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

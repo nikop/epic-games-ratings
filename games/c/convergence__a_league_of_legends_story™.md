@@ -21,8 +21,8 @@
 | Breaking Down Barriers | 45.00% | ~271 |
 | The Steel Shadow | 41.00% | ~247 |
 | Golem Chaser | 39.00% | ~235 |
+| The Wicked Twins | 38.00% | ~229 |
 | Like Clockwork | 37.00% | ~223 |
-| The Wicked Twins | 37.00% | ~223 |
 | The Betrayer | 36.00% | ~217 |
 | Check Your Pulse | 33.00% | ~199 |
 | Family Memories | 31.00% | ~187 |

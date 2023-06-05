@@ -152,6 +152,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.20% | ~180 |
 | Overdue Rendezvous | 0.20% | ~180 |
 | Moose Tracks | 0.20% | ~112 |
+| Durable Deep | 0.20% | ~180 |
 | The Sibriex | 0.20% | ~112 |
 | Witty Riposting | 0.20% | ~112 |
 | How Far Away is Thay | 0.20% | ~112 |
@@ -428,7 +429,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.10% | ~56 |
 | Trench Coat Run | 0.10% | ~56 |
 | The Taunting Lord | 0.10% | ~56 |
-| Durable Deep | 0.10% | ~90 |
 | Lone Wolf Party | 0.10% | ~56 |
 | The Archduke's Blessing | 0.10% | ~56 |
 | A Neutral Party | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,809 (Ranked 62)  
+Progressed: 89,811 (Ranked 62)  
 Completed: 1,915 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,6 +546,7 @@ Completed: 1,915 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
+| 2023-06-05 | 89,811 | 1,915 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,033 (Ranked 37)  

@@ -9,10 +9,10 @@
 | High Profile | 52.00% | ~192 |
 | Whispers In The Dark | 52.00% | ~192 |
 | Fond Memories | 48.00% | ~177 |
+| History Check | 47.00% | ~173 |
 | A Method To His Madness | 47.00% | ~173 |
-| History Check | 46.00% | ~170 |
+| The New World | 44.00% | ~162 |
 | Lock, Stock, And Barrel | 43.00% | ~159 |
-| The New World | 43.00% | ~159 |
 | Gaze Into The Abyss | 42.00% | ~155 |
 | Open Sesame | 42.00% | ~155 |
 | Sticky Fingers | 42.00% | ~155 |

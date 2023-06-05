@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,517 |
-| That's a Grand Army | 8.00% | ~4,016 |
-| That is mine! | 8.00% | ~4,016 |
-| Victorious! | 8.00% | ~4,016 |
-| Brothers in Arms | 6.00% | ~3,012 |
-| That's a Grand Navy | 6.00% | ~3,012 |
-| Seriously?! | 6.00% | ~3,012 |
-| For the Glory | 5.00% | ~2,510 |
+| Until death do us apart | 9.00% | ~4,519 |
+| That's a Grand Army | 8.00% | ~4,017 |
+| That is mine! | 8.00% | ~4,017 |
+| Victorious! | 8.00% | ~4,017 |
+| Brothers in Arms | 6.00% | ~3,013 |
+| That's a Grand Navy | 6.00% | ~3,013 |
+| Seriously?! | 6.00% | ~3,013 |
+| For the Glory | 5.00% | ~2,511 |
 | Cold War | 4.00% | ~2,008 |
 | True Catholic | 4.00% | ~2,008 |
 | Defender of the Faith | 3.00% | ~1,506 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,194 (Ranked 78)  
+Progressed: 50,212 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,9 +407,10 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 48,793 | 0 |
 | 2023-06-03 | 49,497 | 0 |
 | 2023-06-04 | 50,194 | 0 |
+| 2023-06-05 | 50,212 | 0 |
 ## Awards
 Max (Educational): 5,342  (Ranked 61)  
-Sum: 44,141 (Ranked 27)  
+Sum: 44,146 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -417,7 +418,7 @@ Diff (max vs sum): 34
 | This game is Highly Recommended | 5,115 |
 | This game has Challenging Combat | 5,097 |
 | This game is Extremely Fun | 5,063 |
-| This game has Diverse Characters | 5,026 |
+| This game has Diverse Characters | 5,031 |
 | This game is Relaxing | 4,953 |
 | This game has Competitive Players | 4,808 |
 | This game has Amazing Storytelling | 4,542 |
@@ -564,4 +565,4 @@ Diff (max vs sum): 34
 | 2023-06-01 | 4.68 | - | 5,330 | 44,027 |
 | 2023-06-02 | 4.68 | - | 5,338 | 44,064 |
 | 2023-06-03 | 4.68 | - | 5,338 | 44,083 |
-| 2023-06-04 | 4.68 | - | 5,342 | 44,141 |
+| 2023-06-04 | 4.68 | - | 5,342 | 44,146 |

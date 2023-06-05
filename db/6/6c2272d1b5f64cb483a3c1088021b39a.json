@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -596,6 +596,11 @@
       "Time": "2023-06-04T22:01:31.7987508+00:00",
       "NumProgressed": 309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T00:00:48.9503053+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -605,9 +610,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     },
     {
       "ID": "adventurous_2",
@@ -631,7 +636,7 @@
       "Name": "Archmage 1",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "archmage_2",
@@ -1134,14 +1139,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-04T23:02:11.4857898+00:00",
+  "LastChanged_Achievements": "2023-06-05T00:00:48.9503045+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-06-04T22:57:06.3312753+00:00",
-  "LastUpdate_Achievements": "2023-06-04T23:02:11.4858565+00:00"
+  "LastUpdate_Ratings": "2023-06-04T23:57:18.0680572+00:00",
+  "LastUpdate_Achievements": "2023-06-05T00:00:48.9505831+00:00"
 }

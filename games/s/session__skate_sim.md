@@ -6,27 +6,27 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 53.00% | ~1,191 |
-| Keeping it classy | 25.00% | ~562 |
+| You're free now! | 53.00% | ~1,193 |
+| Keeping it classy | 25.00% | ~563 |
 | Welcome to the family | 18.00% | ~405 |
 | The finer things in life | 16.00% | ~360 |
 | Backpacker | 12.00% | ~270 |
-| Go with the Flow | 11.00% | ~247 |
-| Plastic Surgeon | 9.00% | ~202 |
-| The flip trick crown jewel | 9.00% | ~202 |
+| Go with the Flow | 11.00% | ~248 |
+| Plastic Surgeon | 9.00% | ~203 |
+| The flip trick crown jewel | 9.00% | ~203 |
 | Keep the dream alive | 8.00% | ~180 |
 | The hard way | 8.00% | ~180 |
 | Upfront shredder | 8.00% | ~180 |
-| Good vibes | 7.00% | ~157 |
+| Good vibes | 7.00% | ~158 |
 | Finally he zips it | 6.00% | ~135 |
 | That pinch! | 6.00% | ~135 |
 | Tight lipslides | 6.00% | ~135 |
-| Bottom ply killer | 5.00% | ~112 |
-| Fashionista | 5.00% | ~112 |
-| Fulfilled the dream | 5.00% | ~112 |
-| G'Day Mate! | 5.00% | ~112 |
-| Squad goals | 5.00% | ~112 |
-| Sup widdit big dog! | 5.00% | ~112 |
+| Bottom ply killer | 5.00% | ~113 |
+| Fashionista | 5.00% | ~113 |
+| Fulfilled the dream | 5.00% | ~113 |
+| G'Day Mate! | 5.00% | ~113 |
+| Squad goals | 5.00% | ~113 |
+| Sup widdit big dog! | 5.00% | ~113 |
 | Commence the Hijinx! | 4.00% | ~90 |
 | DIY Boss | 4.00% | ~90 |
 | Globetrotter | 4.00% | ~90 |
@@ -39,15 +39,15 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~90 |
 | Tank commander | 4.00% | ~90 |
 | Trick shot marksman | 4.00% | ~90 |
-| Cops called! | 3.00% | ~67 |
-| G.O.A.T. status | 3.00% | ~67 |
-| Hoarder | 3.00% | ~67 |
-| We get it, you're good | 3.00% | ~67 |
+| Cops called! | 3.00% | ~68 |
+| G.O.A.T. status | 3.00% | ~68 |
+| Hoarder | 3.00% | ~68 |
+| We get it, you're good | 3.00% | ~68 |
 | Cross lock country | 2.00% | ~45 |
 | Many plys later... | 2.00% | ~45 |
 | Pew-Pew | 2.00% | ~45 |
-| Dipped! | 1.00% | ~22 |
-| That was wheelie fun | 1.00% | ~22 |
+| Dipped! | 1.00% | ~23 |
+| That was wheelie fun | 1.00% | ~23 |
 | Skatepark hero | 0.80% | ~18 |
 | That's how it's done! | 0.10% | ~2 |
 | Ultimate skate nerd | 0.10% | ~2 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,248 (Ranked 149)  
+Progressed: 2,251 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,23 +99,24 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 2,219 | 0 |
 | 2023-06-03 | 2,230 | 0 |
 | 2023-06-04 | 2,248 | 0 |
+| 2023-06-05 | 2,251 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 397)  
-Sum: 416 (Ranked 302)  
-Diff (max vs sum): 95  
+Sum: 420 (Ranked 299)  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 48 |
 | This game is Great for Quick Sessions | 41 |
 | This game has a Creative Community | 40 |
-| This game has Amazing Storytelling | 39 |
+| This game has Amazing Storytelling | 40 |
 | This game is Relaxing | 38 |
 | This game has Amazing Characters | 38 |
+| This game has Realistic Visuals | 38 |
 | This game is Extremely Fun | 37 |
 | This game has Diverse Characters | 37 |
-| This game has Realistic Visuals | 36 |
 | This game has Quickly Understood Controls | 36 |
-| This game has Challenging Combat | 26 |
+| This game has Challenging Combat | 27 |
 | This game is Educational | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -218,3 +219,4 @@ Diff (max vs sum): 95
 | 2023-05-19 | 4.66 | - | 48 | 414 |
 | 2023-06-02 | 4.66 | - | 48 | 415 |
 | 2023-06-03 | 4.67 | - | 48 | 416 |
+| 2023-06-04 | 4.67 | - | 48 | 420 |

@@ -10,7 +10,7 @@
 | Get Rich Quick | 48.00% | ~1,401 |
 | Do the Splits | 41.00% | ~1,196 |
 | Maestro | 28.00% | ~817 |
-| Full Employment | 19.00% | ~554 |
+| Full Employment | 20.00% | ~584 |
 | Clay Fighter | 17.00% | ~496 |
 | Nowhere left to Hide | 15.00% | ~438 |
 | Boulder Clash | 14.00% | ~409 |
