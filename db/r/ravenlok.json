@@ -2264,9 +2264,9 @@
       "ID": "2",
       "SetID": "d0g98p",
       "Name": "Waff!",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 900
+      "UsersEstimate": 909
     },
     {
       "ID": "20",
@@ -2352,9 +2352,9 @@
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 584
     },
     {
       "ID": "30",
@@ -2585,8 +2585,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-05T08:05:48.2446123+00:00",
+  "LastChanged_Achievements": "2023-06-05T09:05:33.2267142+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-05T07:57:39.5514725+00:00",
-  "LastUpdate_Achievements": "2023-06-05T08:05:48.24466+00:00"
+  "LastUpdate_Ratings": "2023-06-05T08:57:25.3885005+00:00",
+  "LastUpdate_Achievements": "2023-06-05T09:05:33.2267704+00:00"
 }

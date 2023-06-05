@@ -4,7 +4,7 @@
 Rating: 4.61 (Ranked 360)  
 ## Awards
 Max (Great for Beginners): 303  (Ranked 226)  
-Sum: 1,923 (Ranked 188)  
+Sum: 1,925 (Ranked 188)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 38
 | This game has Amazing Characters | 147 |
 | This game has Amazing Storytelling | 143 |
 | This game has Quickly Understood Controls | 133 |
-| This game has Easy Combat | 119 |
+| This game has Easy Combat | 121 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -122,4 +122,4 @@ Diff (max vs sum): 38
 | 2023-06-02 | 4.61 | 298 | 1,851 |
 | 2023-06-03 | 4.61 | 303 | 1,887 |
 | 2023-06-04 | 4.61 | 303 | 1,917 |
-| 2023-06-05 | 4.61 | 303 | 1,923 |
+| 2023-06-05 | 4.61 | 303 | 1,925 |

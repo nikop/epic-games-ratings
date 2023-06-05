@@ -13,7 +13,7 @@ Number of Ratings: 180  (23.09.2022)
 | First passenger waiting | 67.00% | ~818 |
 | First passenger on board | 66.00% | ~806 |
 | First bus arrived | 65.00% | ~794 |
-| First train station | 63.00% | ~769 |
+| First train station | 64.00% | ~781 |
 | First steam train arrived | 60.00% | ~733 |
 | First industry upgraded | 56.00% | ~684 |
 | Transport millionaire | 54.00% | ~659 |
@@ -24,7 +24,7 @@ Number of Ratings: 180  (23.09.2022)
 | Settled down | 48.00% | ~586 |
 | First electric train arrived | 47.00% | ~574 |
 | First ship arrived | 46.00% | ~562 |
-| Now what? | 45.00% | ~549 |
+| Now what? | 46.00% | ~562 |
 | High speed | 43.00% | ~525 |
 | Transport shark | 40.00% | ~488 |
 | First aircraft arrived | 40.00% | ~488 |

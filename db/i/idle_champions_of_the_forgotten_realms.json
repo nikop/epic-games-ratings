@@ -4114,7 +4114,7 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89831,
+  "EOS_Progressed": 89835,
   "EOS_Completed": 1916,
   "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 22,
@@ -8729,6 +8729,11 @@
       "Time": "2023-06-05T07:05:54.012936+00:00",
       "NumProgressed": 89831,
       "NumCompleted": 1916
+    },
+    {
+      "Time": "2023-06-05T09:06:02.5591619+00:00",
+      "NumProgressed": 89835,
+      "NumCompleted": 1916
     }
   ],
   "TotalAchievements": 493,
@@ -8748,7 +8753,7 @@
       "Name": "Maddening",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_100",
@@ -9844,7 +9849,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_149",
@@ -9924,7 +9929,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_164",
@@ -9932,7 +9937,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_165",
@@ -9964,7 +9969,7 @@
       "Name": "Building Trust",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_17",
@@ -10418,9 +10423,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 629
     },
     {
       "ID": "objective_completed_35",
@@ -10612,7 +10617,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_400",
@@ -10884,7 +10889,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_540",
@@ -11228,7 +11233,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_590",
@@ -11284,7 +11289,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_60",
@@ -11812,7 +11817,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_690",
@@ -11916,7 +11921,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_75",
@@ -11948,7 +11953,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_8",
@@ -12683,21 +12688,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56105,
+      "Progressed": 56109,
       "Completed": 2769
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89831,
+      "Progressed": 89835,
       "Completed": 1916
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-04T22:58:24.4036203+00:00",
-  "LastChanged_Achievements": "2023-06-05T08:06:19.0117827+00:00",
+  "LastChanged_Achievements": "2023-06-05T09:06:02.5591615+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-05T07:58:13.9806676+00:00",
-  "LastUpdate_Achievements": "2023-06-05T08:06:19.0144049+00:00"
+  "LastUpdate_Ratings": "2023-06-05T08:58:03.6185029+00:00",
+  "LastUpdate_Achievements": "2023-06-05T09:06:02.5615666+00:00"
 }

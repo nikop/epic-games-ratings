@@ -16,7 +16,7 @@
 | No Asperascope | 26.00% | ~23 |
 | Amateur Survivor | 26.00% | ~10 |
 | Bouncemato | 22.00% | ~9 |
-| This Is My Boomstick | 20.00% | ~8 |
+| This Is My Boomstick | 21.00% | ~8 |
 | Quick-Draw Pod | 19.00% | ~7 |
 | 15K | 17.00% | ~15 |
 | 10K | 17.00% | ~15 |

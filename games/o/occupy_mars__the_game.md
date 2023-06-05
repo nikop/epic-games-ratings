@@ -16,7 +16,7 @@ Rating: 3.83 (Ranked 920)
 | Houston we have a problem | 20.00% | ~225 |
 | Occupy Mars! | 20.00% | ~225 |
 | Detective | 17.00% | ~191 |
-| The Collector | 13.00% | ~146 |
+| The Collector | 14.00% | ~157 |
 | Get your hands dirty | 9.00% | ~101 |
 | All Wheel Trouble | 6.00% | ~67 |
 | Space Forest | 6.00% | ~67 |

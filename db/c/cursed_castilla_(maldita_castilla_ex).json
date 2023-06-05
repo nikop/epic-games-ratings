@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-castilla-maldita-castilla-ex-adaa43",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-11-17T07:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 52,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
     {
       "Time": "2023-06-02T18:05:50.6825348+00:00",
       "NumProgressed": 51,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T09:05:50.4780981+00:00",
+      "NumProgressed": 52,
       "NumCompleted": 0
     }
   ],
@@ -195,7 +200,7 @@
     {
       "ID": "177a8ba",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 0
     }
   ],
@@ -203,8 +208,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.7963027+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.4421841+00:00",
   "LastChanged": "2023-03-31T05:57:25.7963028+00:00",
-  "LastChanged_Achievements": "2023-06-05T08:06:06.6401762+00:00",
+  "LastChanged_Achievements": "2023-06-05T09:05:50.4780976+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:47.2179093+00:00",
-  "LastUpdate_Ratings": "2023-06-05T08:00:22.648498+00:00",
-  "LastUpdate_Achievements": "2023-06-05T08:06:06.6401867+00:00"
+  "LastUpdate_Ratings": "2023-06-05T09:00:05.3795848+00:00",
+  "LastUpdate_Achievements": "2023-06-05T09:05:50.4781102+00:00"
 }

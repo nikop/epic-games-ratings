@@ -45,6 +45,7 @@ Rating: 3.95 (Ranked 905)
 | Background Story | 4.00% | ~52 |
 | Four Leaf Clover | 4.00% | ~52 |
 | How Do You Turn This On? | 4.00% | ~52 |
+| Master Enchanter | 4.00% | ~52 |
 | Missions Dedication | 4.00% | ~52 |
 | The father of Dragons | 4.00% | ~52 |
 | Weekly Quest Completionist | 4.00% | ~52 |
@@ -52,7 +53,6 @@ Rating: 3.95 (Ranked 905)
 | Enchanting skill | 3.00% | ~39 |
 | Engineer Mastery | 3.00% | ~39 |
 | Lock And Load | 3.00% | ~39 |
-| Master Enchanter | 3.00% | ~39 |
 | Blueprint Upgrades | 2.00% | ~26 |
 | Crystal Mining | 2.00% | ~26 |
 | Sailor | 2.00% | ~26 |

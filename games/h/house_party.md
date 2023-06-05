@@ -26,6 +26,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Madison | 0.30% | ~16 |
 | The Magic Number | 0.30% | ~16 |
 | Amy: Scavenger Hunt | 0.20% | ~11 |
+| Benedict Brahrnold | 0.20% | ~11 |
 | I'll Be Back | 0.20% | ~11 |
 | Casanova | 0.20% | ~11 |
 | It Smells Like Roses | 0.20% | ~5 |
@@ -38,7 +39,6 @@ Number of Ratings: 177  (23.09.2022)
 | Te Amo Lety | 0.20% | ~11 |
 | Against All Odds | 0.10% | ~5 |
 | Ashley | 0.10% | ~5 |
-| Benedict Brahrnold | 0.10% | ~5 |
 | Beyond the Call of Dude-y | 0.10% | ~5 |
 | The Bride | 0.10% | ~5 |
 | Casabrova | 0.10% | ~5 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,391 (Ranked 125)  
+Progressed: 5,392 (Ranked 125)  
 Completed: 2 (0.04%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 2 (0.04%) (Ranked 184)
 | 2023-06-02 | 5,339 | 2 |
 | 2023-06-03 | 5,370 | 2 |
 | 2023-06-04 | 5,387 | 2 |
-| 2023-06-05 | 5,391 | 2 |
+| 2023-06-05 | 5,392 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

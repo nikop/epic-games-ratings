@@ -21,10 +21,10 @@ Rating: 4.57 (Ranked 443)
 | Hope Seeker | 5.00% | ~122 |
 | A Hunk of Junk | 4.00% | ~98 |
 | Exceeding Capacity | 4.00% | ~98 |
+| Man's Best Friend | 3.00% | ~74 |
 | Power Outage | 3.00% | ~74 |
 | Necessary Enhancement | 3.00% | ~74 |
 | Please Make it Stop! | 3.00% | ~74 |
-| Man's Best Friend | 2.00% | ~49 |
 | Oats | 2.00% | ~49 |
 | Sightseeing | 2.00% | ~49 |
 | Access Granted | 2.00% | ~49 |
@@ -34,10 +34,10 @@ Rating: 4.57 (Ranked 443)
 | From the Past | 2.00% | ~49 |
 | What They Hide From Us | 1.00% | ~24 |
 | ...  in a finite world | 1.00% | ~24 |
+| Sustainable Energy | 1.00% | ~24 |
 | In Dolos We Trust | 1.00% | ~24 |
 | Delivery! | 1.00% | ~24 |
 | What the Ruins Teach Us | 1.00% | ~24 |
-| Sustainable Energy | 0.90% | ~22 |
 | Pedal to the Metal | 0.90% | ~22 |
 | Pulsar Disciple | 0.90% | ~22 |
 | Mutual Loyalty | 0.80% | ~20 |

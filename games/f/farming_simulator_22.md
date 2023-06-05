@@ -28,8 +28,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | Clucky Streak | 15.00% | ~6,530 |
 | Large-scale supplier | 15.00% | ~6,530 |
 | Well-Oiled Machine | 15.00% | ~6,530 |
+| That's a wrap | 14.00% | ~6,095 |
 | Fix me up | 13.00% | ~5,660 |
-| That's a wrap | 13.00% | ~5,660 |
 | Rock on | 12.00% | ~5,224 |
 | It's sow easy | 11.00% | ~4,789 |
 | Highly cultivated | 10.00% | ~4,354 |

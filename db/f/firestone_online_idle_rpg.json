@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -130,7 +130,7 @@
   "Tags": [],
   "EOS_Progressed": 1290,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3009,9 +3009,9 @@
       "ID": "masterenchanter",
       "SetID": "3nl4bcg",
       "Name": "Master Enchanter",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 52
     },
     {
       "ID": "mastery",
@@ -3306,8 +3306,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-02T14:57:56.4962792+00:00",
-  "LastChanged_Achievements": "2023-06-05T08:06:04.7691292+00:00",
+  "LastChanged_Achievements": "2023-06-05T09:05:48.5315341+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-05T07:58:12.6596719+00:00",
-  "LastUpdate_Achievements": "2023-06-05T08:06:04.769221+00:00"
+  "LastUpdate_Ratings": "2023-06-05T08:58:02.1290789+00:00",
+  "LastUpdate_Achievements": "2023-06-05T09:05:48.5316242+00:00"
 }

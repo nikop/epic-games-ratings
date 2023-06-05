@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 708,
+  "EOS_Progressed": 709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -772,6 +772,11 @@
       "Time": "2023-06-04T22:01:08.9176075+00:00",
       "NumProgressed": 708,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T09:00:38.2304647+00:00",
+      "NumProgressed": 709,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -799,7 +804,7 @@
       "Name": "Act III Complete",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
@@ -807,7 +812,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -823,7 +828,7 @@
       "Name": "A successful procedure!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -845,9 +850,9 @@
       "ID": "ACH_BING_BANG_BOOM",
       "SetID": "108h92c",
       "Name": "Bing Bang BOOM",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -863,7 +868,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -933,9 +938,9 @@
       "ID": "ACH_I_CAN_FIX_IT",
       "SetID": "108h92c",
       "Name": "I can fix it!",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -943,7 +948,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -959,7 +964,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -983,7 +988,7 @@
       "Name": "The Weight of the World",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -998,7 +1003,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 708,
+      "Progressed": 709,
       "Completed": 0
     }
   ],
@@ -1006,8 +1011,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-05T05:57:39.0767455+00:00",
-  "LastChanged_Achievements": "2023-06-05T08:00:52.4158045+00:00",
+  "LastChanged_Achievements": "2023-06-05T09:00:38.2304642+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:38.9499869+00:00",
-  "LastUpdate_Ratings": "2023-06-05T07:57:44.0756613+00:00",
-  "LastUpdate_Achievements": "2023-06-05T08:00:52.4158345+00:00"
+  "LastUpdate_Ratings": "2023-06-05T08:57:30.9329211+00:00",
+  "LastUpdate_Achievements": "2023-06-05T09:00:38.2304943+00:00"
 }

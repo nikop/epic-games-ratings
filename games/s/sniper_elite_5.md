@@ -6,13 +6,13 @@ Rating: 4.44 (Ranked 629)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 27.00% | ~612 |
-| Confirming Suspicions | 22.00% | ~498 |
+| Confirming Suspicions | 22.00% | ~499 |
 | The Kraken Wakes | 17.00% | ~385 |
 | It's Starting to Crack | 14.00% | ~317 |
-| Lord of War | 13.00% | ~294 |
+| Lord of War | 13.00% | ~295 |
 | Change the Channel | 12.00% | ~272 |
 | Resourceful | 11.00% | ~249 |
-| Taking it back | 10.00% | ~226 |
+| Taking it back | 10.00% | ~227 |
 | Organ Grinder | 9.00% | ~204 |
 | As Quiet as a Mouse | 9.00% | ~204 |
 | Target America | 8.00% | ~181 |
@@ -37,17 +37,17 @@ Rating: 4.44 (Ranked 629)
 | Precision Is Key | 4.00% | ~91 |
 | Rigged to Blow | 3.00% | ~68 |
 | My Little Friend | 2.00% | ~45 |
-| It'll Buff Right Out | 2.00% | ~45 |
 | Strategist | 1.00% | ~23 |
 | The Long Game | 1.00% | ~23 |
+| It'll Buff Right Out | 1.00% | ~23 |
 | Locomotion Commotion | 1.00% | ~23 |
 | Road Rage | 1.00% | ~23 |
 | Herr Today, Gone Tomorrow | 1.00% | ~22 |
 | Operation Foxley | 1.00% | ~22 |
 | Don't hold your breath | 0.90% | ~20 |
-| Tinkerer | 0.80% | ~18 |
-| Siegebreaker | 0.80% | ~18 |
 | Ghost of Falaise | 0.80% | ~18 |
+| Tinkerer | 0.70% | ~16 |
+| Siegebreaker | 0.70% | ~16 |
 | Last Resort | 0.60% | ~13 |
 | From Paris with Love | 0.50% | ~11 |
 | Burn after reading | 0.40% | ~9 |
@@ -55,10 +55,10 @@ Rating: 4.44 (Ranked 629)
 | Eagle Eyed | 0.40% | ~9 |
 | Up close and personal | 0.40% | ~9 |
 | Shoot for the Moon | 0.40% | ~9 |
+| If You Go Down To The Woods Today | 0.40% | ~9 |
+| Fight Another Day | 0.40% | ~9 |
 | Can't Outrun A Bullet | 0.30% | ~7 |
 | Reich To The Point | 0.30% | ~7 |
-| If You Go Down To The Woods Today | 0.30% | ~7 |
-| Fight Another Day | 0.30% | ~7 |
 | Sink or Swim | 0.30% | ~2 |
 | Sight Beyond Sights | 0.20% | ~5 |
 | Covert Elimination | 0.20% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 629)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,265 (Ranked 147)  
+Progressed: 2,267 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-02 | 2,091 | 2 |
 | 2023-06-03 | 2,182 | 2 |
 | 2023-06-04 | 2,257 | 2 |
-| 2023-06-05 | 2,265 | 2 |
+| 2023-06-05 | 2,267 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

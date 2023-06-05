@@ -1,7 +1,7 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.31 (Ranked 757)  
+Rating: 4.31 (Ranked 756)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,7 +25,7 @@ Rating: 4.31 (Ranked 757)
 | Arrow in the Wind | 2.00% | ~19 |
 | First Bloom | 1.00% | ~10 |
 | A Promised Voyage | 1.00% | ~10 |
-| Life or Death | 0.70% | ~7 |
+| Life or Death | 0.80% | ~8 |
 | Someone to Protect | 0.60% | ~6 |
 | Lean on Me | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)

@@ -2604,10 +2604,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6695,
       "NumberOfAwardsMax": 1651
+    },
+    {
+      "Time": "2023-06-05T08:58:17.9823424+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6696,
+      "NumberOfAwardsMax": 1651
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6695,
+  "NumberOfAwards": 6696,
   "NumberOfAwardsMax": 1651,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2627,7 +2633,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 631
+      "Count": 632
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2678,9 +2684,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9544,
+  "EOS_Progressed": 9545,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5558,6 +5564,11 @@
       "Time": "2023-06-05T08:06:15.2291542+00:00",
       "NumProgressed": 9544,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T09:05:58.954578+00:00",
+      "NumProgressed": 9545,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6496,21 +6507,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8326,
+      "Progressed": 8327,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9544,
+      "Progressed": 9545,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-04T21:58:26.0483831+00:00",
-  "LastChanged_Achievements": "2023-06-05T08:06:15.2291535+00:00",
+  "LastChanged": "2023-06-05T08:58:17.9823423+00:00",
+  "LastChanged_Achievements": "2023-06-05T09:05:58.9545775+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-05T07:58:31.4457198+00:00",
-  "LastUpdate_Achievements": "2023-06-05T08:06:15.229327+00:00"
+  "LastUpdate_Ratings": "2023-06-05T08:58:17.9823429+00:00",
+  "LastUpdate_Achievements": "2023-06-05T09:05:58.955084+00:00"
 }

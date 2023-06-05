@@ -888,9 +888,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3414,
+  "EOS_Progressed": 3415,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3698,6 +3698,11 @@
       "Time": "2023-06-05T06:03:13.0039793+00:00",
       "NumProgressed": 3414,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-05T09:02:24.5208062+00:00",
+      "NumProgressed": 3415,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3765,7 +3770,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3789,7 +3794,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -3805,7 +3810,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3813,7 +3818,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3821,7 +3826,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -3981,7 +3986,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4028,15 +4033,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3414,
+      "Progressed": 3415,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-04T19:00:29.2975541+00:00",
-  "LastChanged_Achievements": "2023-06-05T08:03:20.2438153+00:00",
+  "LastChanged_Achievements": "2023-06-05T09:02:24.5208058+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-05T08:00:14.4024383+00:00",
-  "LastUpdate_Achievements": "2023-06-05T08:03:20.2438605+00:00"
+  "LastUpdate_Ratings": "2023-06-05T08:59:56.7692867+00:00",
+  "LastUpdate_Achievements": "2023-06-05T09:02:24.5208478+00:00"
 }

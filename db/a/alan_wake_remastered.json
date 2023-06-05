@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 52202,
+  "EOS_Progressed": 52203,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 2447,
+  "EOS_NewPlayers": 2428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3791,6 +3791,11 @@
       "Time": "2023-06-05T08:05:57.9977491+00:00",
       "NumProgressed": 52202,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-06-05T09:05:41.962072+00:00",
+      "NumProgressed": 52203,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 67,
@@ -3810,7 +3815,7 @@
       "Name": "Nordic Walking",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8874
+      "UsersEstimate": 8875
     },
     {
       "ID": "03",
@@ -4000,9 +4005,9 @@
       "ID": "26",
       "SetID": "212770e",
       "Name": "Thunder and Lightning",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3654
+      "UsersEstimate": 4176
     },
     {
       "ID": "27",
@@ -4050,7 +4055,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 10962
+      "UsersEstimate": 10963
     },
     {
       "ID": "33",
@@ -4074,7 +4079,7 @@
       "Name": "Let There Be Light",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 11484
+      "UsersEstimate": 11485
     },
     {
       "ID": "36",
@@ -4337,21 +4342,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 52202,
+      "Progressed": 52203,
       "Completed": 48
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 15670,
+      "Progressed": 15671,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-06-05T08:05:57.9977486+00:00",
+  "LastChanged_Achievements": "2023-06-05T09:05:41.9620716+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:48.7333402+00:00",
-  "LastUpdate_Ratings": "2023-06-05T07:57:52.1441305+00:00",
-  "LastUpdate_Achievements": "2023-06-05T08:05:57.9978309+00:00"
+  "LastUpdate_Ratings": "2023-06-05T08:57:40.2845765+00:00",
+  "LastUpdate_Achievements": "2023-06-05T09:05:41.9621538+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,457 |
-| Man of politics | 36.00% | ~4,677 |
-| Friends of sorts | 34.00% | ~4,417 |
-| Yet another secret | 34.00% | ~4,417 |
-| Let there be darkness | 33.00% | ~4,287 |
+| Tattletale | 42.00% | ~5,458 |
+| Man of politics | 36.00% | ~4,678 |
+| Friends of sorts | 34.00% | ~4,418 |
+| Yet another secret | 34.00% | ~4,418 |
+| Let there be darkness | 33.00% | ~4,288 |
 | End of Book One | 31.00% | ~4,028 |
-| Garden of Eden | 25.00% | ~3,248 |
-| Wannabe knight | 24.00% | ~3,118 |
-| Full house | 24.00% | ~3,118 |
-| Help an old friend | 22.00% | ~2,858 |
-| Two of us | 20.00% | ~2,598 |
-| Negotiation skills | 19.00% | ~2,468 |
+| Garden of Eden | 25.00% | ~3,249 |
+| Wannabe knight | 24.00% | ~3,119 |
+| Full house | 24.00% | ~3,119 |
+| Help an old friend | 22.00% | ~2,859 |
+| Two of us | 20.00% | ~2,599 |
+| Negotiation skills | 19.00% | ~2,469 |
 | Workers' union | 18.00% | ~2,339 |
 | End of Book Two | 18.00% | ~2,339 |
 | Everything's in order | 17.00% | ~2,209 |
@@ -28,15 +28,15 @@ Number of Ratings: 368  (23.09.2022)
 | Good midwife | 11.00% | ~1,429 |
 | Friar Tuck | 11.00% | ~1,429 |
 | First profit | 11.00% | ~1,429 |
-| Team player | 10.00% | ~1,299 |
-| Skilled merchant | 9.00% | ~1,169 |
-| Nothing but make-believe | 9.00% | ~1,169 |
-| Brother Marcus | 9.00% | ~1,169 |
-| The oath | 9.00% | ~1,169 |
-| The truth revealed | 9.00% | ~1,169 |
-| The End. | 9.00% | ~1,169 |
-| A cry for help | 8.00% | ~1,039 |
-| Silentium est aureum | 7.00% | ~909 |
+| Team player | 10.00% | ~1,300 |
+| Skilled merchant | 9.00% | ~1,170 |
+| Nothing but make-believe | 9.00% | ~1,170 |
+| Brother Marcus | 9.00% | ~1,170 |
+| The oath | 9.00% | ~1,170 |
+| The truth revealed | 9.00% | ~1,170 |
+| The End. | 9.00% | ~1,170 |
+| A cry for help | 8.00% | ~1,040 |
+| Silentium est aureum | 7.00% | ~910 |
 | Rebel without a cause | 6.00% | ~780 |
 | Staring contest champion | 5.00% | ~650 |
 | Lone wolf | 5.00% | ~650 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~390 |
 | Boy of mystery | 2.00% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,992 (Ranked 105)  
+Progressed: 12,995 (Ranked 105)  
 Completed: 99 (0.76%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 99 (0.76%) (Ranked 101)
 | 2023-06-02 | 12,925 | 97 |
 | 2023-06-03 | 12,953 | 97 |
 | 2023-06-04 | 12,985 | 99 |
-| 2023-06-05 | 12,992 | 99 |
+| 2023-06-05 | 12,995 | 99 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 288)  
 Sum: 188 (Ranked 356)  
