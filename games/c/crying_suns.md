@@ -7,6 +7,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shutdown | 0.20% | ~920 |
+| Second Coming | 0.20% | ~920 |
 | Jeef Skeejj | 0.20% | ~920 |
 | Knightmare Frames | 0.10% | ~460 |
 | May His passing cleanse the world | 0.10% | ~460 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | General Vivar | 0.10% | ~460 |
 | Pope Zenon | 0.10% | ~460 |
 | Things persisted in not being what they seemed | 0.10% | ~460 |
-| Second Coming | 0.10% | ~460 |
 | Back to Ganyma | 0.10% | ~460 |
 | Mercy | 0.10% | ~460 |
 | The Impersonator | 0.10% | ~460 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Void Mastery | 0.00% | ~0 |
 | Kaos Supremacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,864 (Ranked 33)  
+Progressed: 459,870 (Ranked 33)  
 Completed: 14 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 14 (0.00%) (Ranked 212)
 | 2023-06-02 | 459,674 | 14 |
 | 2023-06-03 | 459,773 | 14 |
 | 2023-06-04 | 459,862 | 14 |
-| 2023-06-05 | 459,864 | 14 |
+| 2023-06-05 | 459,870 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 350)  

@@ -6,24 +6,24 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 74.00% | ~3,016 |
-| Hey Good Hookin | 64.00% | ~2,608 |
-| I'm on a Boat! | 54.00% | ~2,200 |
-| Can you smell what the Rod is Hooking | 48.00% | ~1,956 |
-| Scaling up | 48.00% | ~1,956 |
-| Ready to Rod and Roll | 39.00% | ~1,589 |
-| More Fish in the Sea | 39.00% | ~1,589 |
-| License to Gill | 32.00% | ~1,304 |
-| Fish Out of Water | 30.00% | ~1,222 |
+| Fish Just Got Reel | 74.00% | ~3,017 |
+| Hey Good Hookin | 64.00% | ~2,609 |
+| I'm on a Boat! | 54.00% | ~2,202 |
+| Can you smell what the Rod is Hooking | 48.00% | ~1,957 |
+| Scaling up | 48.00% | ~1,957 |
+| Ready to Rod and Roll | 39.00% | ~1,590 |
+| More Fish in the Sea | 39.00% | ~1,590 |
+| License to Gill | 32.00% | ~1,305 |
+| Fish Out of Water | 30.00% | ~1,223 |
 | Things that go Splash in the Night | 25.00% | ~1,019 |
 | Goldfish? | 25.00% | ~1,019 |
-| Going for Gold | 23.00% | ~937 |
+| Going for Gold | 23.00% | ~938 |
 | I'm Hooked! | 17.00% | ~693 |
 | More than a Tourist | 12.00% | ~489 |
 | Diamond in the Rough | 12.00% | ~489 |
 | Hook, Line and Sinker | 7.00% | ~285 |
 | Marathon | 7.00% | ~285 |
-| Big Fish Small Pond | 6.00% | ~244 |
+| Big Fish Small Pond | 6.00% | ~245 |
 | I'm the Captain Now | 5.00% | ~204 |
 | School's Out for Summer | 4.00% | ~163 |
 | Gonna Need a Bigger Boat | 3.00% | ~122 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,075 (Ranked 132)  
+Progressed: 4,077 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 4,008 | 0 |
 | 2023-06-03 | 4,046 | 0 |
 | 2023-06-04 | 4,074 | 0 |
-| 2023-06-05 | 4,075 | 0 |
+| 2023-06-05 | 4,077 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 438)  
 Sum: 158 (Ranked 379)  

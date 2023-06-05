@@ -21,13 +21,13 @@
 | He is just a child | 20.00% | ~93 |
 | The Walking Robot Among Us | 20.00% | ~93 |
 | Uncertain | 19.00% | ~88 |
+| Ace | 17.00% | ~79 |
 | Concrete painting | 17.00% | ~79 |
 | Goody | 17.00% | ~79 |
 | Hipster | 17.00% | ~79 |
 | Please oh pleeease! | 17.00% | ~79 |
-| Ace | 16.00% | ~74 |
+| Not what it seems | 16.00% | ~74 |
 | Found it! | 15.00% | ~70 |
-| Not what it seems | 15.00% | ~70 |
 | That's much better! | 15.00% | ~70 |
 | Not as clumsy or random | 13.00% | ~60 |
 | Blade Runner | 10.00% | ~46 |

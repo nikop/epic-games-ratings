@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 16.00% | ~1,525 |
+| Devoured by Darkness | 16.00% | ~1,526 |
 | Burning City | 11.00% | ~1,049 |
 | A Spark | 11.00% | ~1,049 |
 | Mythic Choices | 9.00% | ~858 |
 | Defender's Heart | 9.00% | ~858 |
 | Banner over the Citadel | 8.00% | ~763 |
-| Queen's Gratitude | 7.00% | ~667 |
+| Queen's Gratitude | 7.00% | ~668 |
 | Fifth Crusade | 5.00% | ~477 |
 | Embrace of the Abyss | 4.00% | ~381 |
 | Path of the Angel | 4.00% | ~381 |
@@ -28,7 +28,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Get the Toad | 3.00% | ~286 |
 | Heart of the Fallen Land | 2.00% | ~191 |
 | Path of the Trickster | 2.00% | ~191 |
-| Path of the Lich | 2.00% | ~191 |
 | Heroic Victory | 2.00% | ~191 |
 | Divide and Rule | 2.00% | ~191 |
 | Mythic Reinforcements | 2.00% | ~191 |
@@ -42,6 +41,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Beware Still Water | 2.00% | ~166 |
 | Path of the Demon | 1.00% | ~95 |
 | Path of the Aeon | 1.00% | ~95 |
+| Path of the Lich | 1.00% | ~95 |
 | Capitulation Is Now Moot | 1.00% | ~95 |
 | Truly Important Deed | 1.00% | ~95 |
 | Abyssal Conspiracy | 0.90% | ~86 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,533 (Ranked 112)  
+Progressed: 9,536 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 9,452 | 0 |
 | 2023-06-03 | 9,484 | 0 |
 | 2023-06-04 | 9,533 | 0 |
+| 2023-06-05 | 9,536 | 0 |
 ## Awards
 Max (Character Customization): 1,651  (Ranked 111)  
 Sum: 6,695 (Ranked 110)  

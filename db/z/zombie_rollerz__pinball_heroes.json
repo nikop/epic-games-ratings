@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -310,9 +310,9 @@
       "ID": "CLG_UNLOCK_10002",
       "SetID": "89cjc9l",
       "Name": "The Penguin",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -486,9 +486,9 @@
       "ID": "PRG_BOSS_THROWER",
       "SetID": "89cjc9l",
       "Name": "The Thrower",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -823,8 +823,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-05T00:06:11.4291509+00:00",
+  "LastChanged_Achievements": "2023-06-05T02:27:35.3370318+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:34.9607113+00:00",
-  "LastUpdate_Ratings": "2023-06-04T23:57:43.9601344+00:00",
-  "LastUpdate_Achievements": "2023-06-05T00:06:11.4292294+00:00"
+  "LastUpdate_Ratings": "2023-06-05T02:18:04.0788603+00:00",
+  "LastUpdate_Achievements": "2023-06-05T02:27:35.3371098+00:00"
 }

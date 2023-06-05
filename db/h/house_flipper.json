@@ -1474,10 +1474,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2147,
       "NumberOfAwardsMax": 294
+    },
+    {
+      "Time": "2023-06-05T02:20:32.1041183+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2148,
+      "NumberOfAwardsMax": 294
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2147,
+  "NumberOfAwards": 2148,
   "NumberOfAwardsMax": 294,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1503,7 +1509,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 215
+      "Count": 216
     },
     {
       "Text": "This game is Relaxing",
@@ -1548,9 +1554,9 @@
       "Count": 205
     }
   ],
-  "EOS_Progressed": 19305,
+  "EOS_Progressed": 19309,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3703,6 +3709,11 @@
       "Time": "2023-06-05T00:05:52.3786236+00:00",
       "NumProgressed": 19305,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-05T02:27:11.0991352+00:00",
+      "NumProgressed": 19309,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3762,7 +3773,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18147
+      "UsersEstimate": 18150
     },
     {
       "ID": "GameOver",
@@ -3794,7 +3805,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "JuniorEstateAgent",
@@ -3826,7 +3837,7 @@
       "Name": "Just Enough",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3475
+      "UsersEstimate": 3476
     },
     {
       "ID": "Negotiator",
@@ -3850,7 +3861,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3668
+      "UsersEstimate": 3669
     },
     {
       "ID": "SeniorEstateAgent",
@@ -3866,7 +3877,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3475
+      "UsersEstimate": 3476
     },
     {
       "ID": "Strongman",
@@ -3874,7 +3885,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5985
+      "UsersEstimate": 5986
     },
     {
       "ID": "VeronicaLiptson",
@@ -3882,7 +3893,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "YouDoItWrong",
@@ -3897,15 +3908,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19305,
+      "Progressed": 19309,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-06-04T15:59:27.9566881+00:00",
-  "LastChanged_Achievements": "2023-06-05T00:05:52.3786231+00:00",
+  "LastChanged": "2023-06-05T02:20:32.1041182+00:00",
+  "LastChanged_Achievements": "2023-06-05T02:27:11.0991346+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-04T23:59:25.8314782+00:00",
-  "LastUpdate_Achievements": "2023-06-05T00:05:52.3786518+00:00"
+  "LastUpdate_Ratings": "2023-06-05T02:20:32.1041189+00:00",
+  "LastUpdate_Achievements": "2023-06-05T02:27:11.0991704+00:00"
 }

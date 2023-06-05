@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2258,
+  "EOS_Progressed": 2260,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2520,6 +2520,11 @@
       "Time": "2023-06-05T00:05:54.447871+00:00",
       "NumProgressed": 2258,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T02:27:13.7351265+00:00",
+      "NumProgressed": 2260,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2539,7 +2544,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -2563,7 +2568,7 @@
       "Name": "Opposing Force",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2699,7 +2704,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2755,7 +2760,7 @@
       "Name": "Resourceful",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2763,7 +2768,7 @@
       "Name": "Der Geist",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -3098,13 +3103,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2209,
+      "Progressed": 2211,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2258,
+      "Progressed": 2260,
       "Completed": 2
     }
   ],
@@ -3112,8 +3117,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-05T00:05:54.4478706+00:00",
+  "LastChanged_Achievements": "2023-06-05T02:27:13.7351259+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-05T00:00:23.2153742+00:00",
-  "LastUpdate_Achievements": "2023-06-05T00:05:54.4479515+00:00"
+  "LastUpdate_Ratings": "2023-06-05T02:21:59.7618696+00:00",
+  "LastUpdate_Achievements": "2023-06-05T02:27:13.7352249+00:00"
 }

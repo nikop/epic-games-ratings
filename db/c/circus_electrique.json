@@ -583,9 +583,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "631ndc2",
       "Name": "Self Defense",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -672,8 +672,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-05T00:06:04.9977923+00:00",
+  "LastChanged_Achievements": "2023-06-05T02:27:27.3741336+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:13.7097187+00:00",
-  "LastUpdate_Ratings": "2023-06-04T23:58:58.3665017+00:00",
-  "LastUpdate_Achievements": "2023-06-05T00:06:04.9978384+00:00"
+  "LastUpdate_Ratings": "2023-06-05T02:19:54.7634403+00:00",
+  "LastUpdate_Achievements": "2023-06-05T02:27:27.3741823+00:00"
 }

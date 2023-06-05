@@ -9,22 +9,22 @@ Number of Ratings: 177  (23.09.2022)
 | A Friend in Need... | 2.00% | ~108 |
 | Smooth Operator: Madison | 2.00% | ~108 |
 | Katherine | 1.00% | ~54 |
-| The Brahdyssey | 0.90% | ~48 |
-| Caught in the Act | 0.90% | ~48 |
-| Relentless | 0.90% | ~48 |
-| If at First You Don't Succeed... | 0.90% | ~48 |
+| The Brahdyssey | 0.90% | ~49 |
+| Caught in the Act | 0.90% | ~49 |
+| Relentless | 0.90% | ~49 |
+| If at First You Don't Succeed... | 0.90% | ~49 |
 | Life Found a Way | 0.80% | ~19 |
 | Drunk and Disorderly: Stephanie | 0.70% | ~38 |
 | Drunk and Disorderly: Ashley | 0.40% | ~22 |
 | IRL Let's Player | 0.40% | ~22 |
 | Newcomer: Vickie | 0.40% | ~22 |
 | Social Butterfly | 0.40% | ~22 |
+| Amy | 0.30% | ~16 |
 | Inspector | 0.30% | ~16 |
 | Smooth Operator: Ashley | 0.30% | ~16 |
 | Stephanie | 0.30% | ~16 |
 | The Muse: Madison | 0.30% | ~16 |
 | The Magic Number | 0.30% | ~16 |
-| Amy | 0.20% | ~11 |
 | Amy: Scavenger Hunt | 0.20% | ~11 |
 | I'll Be Back | 0.20% | ~11 |
 | Casanova | 0.20% | ~11 |
@@ -42,6 +42,7 @@ Number of Ratings: 177  (23.09.2022)
 | Beyond the Call of Dude-y | 0.10% | ~5 |
 | The Bride | 0.10% | ~5 |
 | Casabrova | 0.10% | ~5 |
+| Congrats, A Celebrity Hates You | 0.10% | ~2 |
 | Deck the Balls | 0.10% | ~2 |
 | Drunk and Disorderly: Madison | 0.10% | ~5 |
 | Do Not Burn | 0.10% | ~5 |
@@ -70,13 +71,12 @@ Number of Ratings: 177  (23.09.2022)
 | The Elder Brahs | 0.10% | ~5 |
 | Simple Geometry | 0.10% | ~5 |
 | Snapped | 0.10% | ~5 |
-| Congrats, A Celebrity Hates You | 0.00% | ~0 |
 | D-Club Certified | 0.00% | ~0 |
 | Sucker Punch | 0.00% | ~0 |
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,388 (Ranked 125)  
+Progressed: 5,389 (Ranked 125)  
 Completed: 2 (0.04%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 2 (0.04%) (Ranked 184)
 | 2023-06-02 | 5,339 | 2 |
 | 2023-06-03 | 5,370 | 2 |
 | 2023-06-04 | 5,387 | 2 |
-| 2023-06-05 | 5,388 | 2 |
+| 2023-06-05 | 5,389 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

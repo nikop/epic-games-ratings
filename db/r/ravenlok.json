@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 954,
+  "EOS_Progressed": 955,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 6.81,
   "EosHistory": [
@@ -2152,6 +2152,11 @@
       "Time": "2023-06-04T19:05:54.9571417+00:00",
       "NumProgressed": 954,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-06-05T02:27:01.996742+00:00",
+      "NumProgressed": 955,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 50,
@@ -2163,15 +2168,15 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "10",
       "SetID": "d0g98p",
       "Name": "Piece of Cake",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 372
     },
     {
       "ID": "11",
@@ -2187,7 +2192,7 @@
       "Name": "Spellbound",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "13",
@@ -2251,7 +2256,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "20",
@@ -2265,9 +2270,9 @@
       "ID": "21",
       "SetID": "d0g98p",
       "Name": "Take Heart",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 353
     },
     {
       "ID": "22",
@@ -2323,7 +2328,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "29",
@@ -2337,9 +2342,9 @@
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 583
     },
     {
       "ID": "30",
@@ -2371,7 +2376,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "34",
@@ -2403,7 +2408,7 @@
       "Name": "Stronger!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "38",
@@ -2419,7 +2424,7 @@
       "Name": "All Skilled Up!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "4",
@@ -2427,7 +2432,7 @@
       "Name": "A Prophecy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "40",
@@ -2451,7 +2456,7 @@
       "Name": "Shopping Spree!",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "43",
@@ -2483,7 +2488,7 @@
       "Name": "Flower Power",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "47",
@@ -2491,7 +2496,7 @@
       "Name": "Crowned",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "48",
@@ -2499,7 +2504,7 @@
       "Name": "Into the Barn",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "49",
@@ -2539,7 +2544,7 @@
       "Name": "Fun Guy",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "8",
@@ -2547,7 +2552,7 @@
       "Name": "Tragic Brave",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "9",
@@ -2562,7 +2567,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 954,
+      "Progressed": 955,
       "Completed": 65
     }
   ],
@@ -2570,8 +2575,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-05T00:05:45.6861022+00:00",
+  "LastChanged_Achievements": "2023-06-05T02:27:01.9967412+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-04T23:57:42.1249601+00:00",
-  "LastUpdate_Achievements": "2023-06-05T00:05:45.6861551+00:00"
+  "LastUpdate_Ratings": "2023-06-05T02:18:01.4404115+00:00",
+  "LastUpdate_Achievements": "2023-06-05T02:27:01.99682+00:00"
 }

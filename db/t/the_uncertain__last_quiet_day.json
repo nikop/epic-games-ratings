@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -245,9 +245,9 @@
       "ID": "ACE",
       "SetID": "2iigf77",
       "Name": "Ace",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 79
     },
     {
       "ID": "ANNOYING",
@@ -397,9 +397,9 @@
       "ID": "NOT_WHAT_IT_SEEMS",
       "SetID": "2iigf77",
       "Name": "Not what it seems",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "NOW_YOU_KNOW",
@@ -510,8 +510,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-06-05T00:05:52.4969652+00:00",
+  "LastChanged_Achievements": "2023-06-05T02:27:11.1248427+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.6157674+00:00",
-  "LastUpdate_Ratings": "2023-06-04T23:58:50.0969862+00:00",
-  "LastUpdate_Achievements": "2023-06-05T00:05:52.4969896+00:00"
+  "LastUpdate_Ratings": "2023-06-05T02:19:42.2110606+00:00",
+  "LastUpdate_Achievements": "2023-06-05T02:27:11.1248694+00:00"
 }

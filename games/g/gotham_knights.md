@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 845)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 4.00% | ~2,546 |
+| First Step Into the Knight | 4.00% | ~2,547 |
 | The Batman Family | 2.00% | ~1,273 |
 | To the Victor Go the Spoils | 2.00% | ~1,273 |
 | Har, Har, Har, Very Funny | 2.00% | ~1,273 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 845)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,657 (Ranked 71)  
+Progressed: 63,673 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 93 (0.15%) (Ranked 154)
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
 | 2023-06-04 | 63,645 | 93 |
-| 2023-06-05 | 63,657 | 93 |
+| 2023-06-05 | 63,673 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,291  (Ranked 98)  
 Sum: 3,793 (Ranked 137)  

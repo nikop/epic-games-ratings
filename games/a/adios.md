@@ -5,20 +5,20 @@ Rating: 3.41 (Ranked 935)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~12,562 |
-| Hard Worker | 20.00% | ~11,964 |
-| Master, Commander | 20.00% | ~11,964 |
-| Mechanic | 19.00% | ~11,366 |
-| Adios, Friendo | 18.00% | ~10,767 |
-| Bottom's Up | 17.00% | ~10,169 |
-| Nice Try | 16.00% | ~9,571 |
-| Right On Target | 13.00% | ~7,776 |
-| Piano Man | 10.00% | ~5,982 |
-| Lazy Bones | 9.00% | ~5,384 |
-| Sniper | 7.00% | ~4,187 |
-| Vinyl Vibes | 7.00% | ~4,187 |
-| Nothing Left to Say | 6.00% | ~3,589 |
-| Cut Call | 5.00% | ~2,991 |
+| Be Seeing You | 21.00% | ~12,565 |
+| Hard Worker | 20.00% | ~11,967 |
+| Master, Commander | 20.00% | ~11,967 |
+| Mechanic | 19.00% | ~11,369 |
+| Adios, Friendo | 18.00% | ~10,770 |
+| Bottom's Up | 17.00% | ~10,172 |
+| Nice Try | 16.00% | ~9,574 |
+| Right On Target | 13.00% | ~7,779 |
+| Piano Man | 10.00% | ~5,984 |
+| Lazy Bones | 9.00% | ~5,385 |
+| Sniper | 7.00% | ~4,188 |
+| Vinyl Vibes | 7.00% | ~4,188 |
+| Nothing Left to Say | 6.00% | ~3,590 |
+| Cut Call | 5.00% | ~2,992 |
 | Butcher | 4.00% | ~2,393 |
 | Magnetic Miracles | 4.00% | ~2,393 |
 | Spicy | 4.00% | ~2,393 |
@@ -28,11 +28,11 @@ Rating: 3.41 (Ranked 935)
 | Hearty | 3.00% | ~1,795 |
 | Meaty | 3.00% | ~1,795 |
 | Taco Toto | 3.00% | ~1,795 |
-| Audiophile | 2.00% | ~1,196 |
+| Audiophile | 2.00% | ~1,197 |
 | Tape Head | 1.00% | ~598 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,819 (Ranked 73)  
-Completed: 503 (0.84%) (Ranked 95)  
+Progressed: 59,835 (Ranked 73)  
+Completed: 504 (0.84%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 503 (0.84%) (Ranked 95)
 | 2023-06-02 | 59,387 | 496 |
 | 2023-06-03 | 59,576 | 499 |
 | 2023-06-04 | 59,809 | 502 |
-| 2023-06-05 | 59,819 | 503 |
+| 2023-06-05 | 59,835 | 504 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

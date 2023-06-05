@@ -8,17 +8,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,796 |
 | The Cursed Farmer | 1.00% | ~898 |
-| Beast Intentions | 0.80% | ~718 |
-| The Mad Wizard | 0.80% | ~718 |
+| Beast Intentions | 0.80% | ~719 |
+| The Mad Wizard | 0.80% | ~719 |
 | The Court of Storms | 0.80% | ~449 |
 | Beware the Jabberwock | 0.70% | ~393 |
 | The Ring of Regeneration | 0.60% | ~539 |
+| Are Ya Chicken? | 0.60% | ~539 |
 | Were-verpowered | 0.50% | ~449 |
 | Seeking Allies | 0.50% | ~449 |
-| Are Ya Chicken? | 0.50% | ~449 |
 | Friendly Imps | 0.50% | ~449 |
 | Coasting to the Finish | 0.50% | ~280 |
 | Quick or Quack | 0.50% | ~280 |
+| Owlbear Necessities | 0.40% | ~224 |
 | Best Thay Ever | 0.40% | ~224 |
 | Checkmate | 0.40% | ~224 |
 | Vecna Out! | 0.40% | ~224 |
@@ -27,7 +28,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.40% | ~359 |
 | Pure Energy | 0.40% | ~359 |
 | Maddening | 0.30% | ~269 |
-| Owlbear Necessities | 0.30% | ~168 |
 | Frail Doesn't Mean Broken | 0.30% | ~168 |
 | Pin and Skewer | 0.30% | ~168 |
 | No One Can Hear You Scream | 0.30% | ~168 |
@@ -127,6 +127,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.20% | ~180 |
 | The Darkness Runs Deeper | 0.20% | ~180 |
 | Difficult Terrain | 0.20% | ~180 |
+| Champions of Waterdeep | 0.20% | ~180 |
 | Dinosaur Racing | 0.20% | ~180 |
 | Elturel Has Fallen | 0.20% | ~180 |
 | Hailstorm! | 0.20% | ~112 |
@@ -358,7 +359,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Pixies | 0.10% | ~90 |
 | Vault of Poison | 0.10% | ~90 |
 | Vault of Cuteness | 0.10% | ~56 |
-| Champions of Waterdeep | 0.10% | ~90 |
 | On The Job Learning | 0.10% | ~90 |
 | Strike! | 0.10% | ~56 |
 | Take Five | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,811 (Ranked 62)  
+Progressed: 89,817 (Ranked 62)  
 Completed: 1,915 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,915 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,811 | 1,915 |
+| 2023-06-05 | 89,817 | 1,915 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,033 (Ranked 37)  

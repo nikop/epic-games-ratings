@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~83,931 |
-| Incurious | 14.00% | ~83,931 |
-| Stroller | 12.00% | ~71,941 |
-| Climate Change | 12.00% | ~71,941 |
-| Toy Train | 11.00% | ~65,946 |
-| Advanced Hiker | 10.00% | ~59,950 |
-| Hiker | 9.00% | ~53,955 |
-| Mojave Courier | 4.00% | ~23,980 |
-| Voyager | 3.00% | ~17,985 |
-| Advanced Voyager | 3.00% | ~17,985 |
-| Expert Stroller | 3.00% | ~17,985 |
-| Orient Express | 3.00% | ~17,985 |
-| Expert Hiker | 2.00% | ~11,990 |
-| Marathon | 2.00% | ~11,990 |
-| Destructionist | 2.00% | ~11,990 |
-| Saved by Nausicaä | 2.00% | ~11,990 |
-| Lost | 1.00% | ~5,995 |
+| Advanced Stroller | 14.00% | ~83,938 |
+| Incurious | 14.00% | ~83,938 |
+| Stroller | 12.00% | ~71,946 |
+| Climate Change | 12.00% | ~71,946 |
+| Toy Train | 11.00% | ~65,951 |
+| Advanced Hiker | 10.00% | ~59,955 |
+| Hiker | 9.00% | ~53,960 |
+| Mojave Courier | 4.00% | ~23,982 |
+| Voyager | 3.00% | ~17,987 |
+| Advanced Voyager | 3.00% | ~17,987 |
+| Expert Stroller | 3.00% | ~17,987 |
+| Orient Express | 3.00% | ~17,987 |
+| Expert Hiker | 2.00% | ~11,991 |
+| Marathon | 2.00% | ~11,991 |
+| Destructionist | 2.00% | ~11,991 |
+| Saved by Nausicaä | 2.00% | ~11,991 |
+| Lost | 1.00% | ~5,996 |
 | Rocketman | 0.60% | ~3,597 |
 | Expert Voyager | 0.50% | ~2,998 |
 | Nanuk | 0.50% | ~2,998 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~600 |
 | 20 Miles under the Sea | 0.10% | ~600 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 599,505 (Ranked 21)  
+Progressed: 599,554 (Ranked 21)  
 Completed: 7 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,15 +105,15 @@ Completed: 7 (0.00%) (Ranked 212)
 | 2023-06-02 | 598,105 | 7 |
 | 2023-06-03 | 598,829 | 7 |
 | 2023-06-04 | 599,481 | 7 |
-| 2023-06-05 | 599,505 | 7 |
+| 2023-06-05 | 599,554 | 7 |
 ## Awards
-Max (Diverse Characters): 186  (Ranked 267)  
-Sum: 1,510 (Ranked 209)  
+Max (Diverse Characters): 187  (Ranked 267)  
+Sum: 1,512 (Ranked 209)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 186 |
-| This game is Great for Beginners | 183 |
+| This game has Diverse Characters | 187 |
+| This game is Great for Beginners | 184 |
 | This game has Quickly Understood Controls | 183 |
 | This game is Extremely Fun | 180 |
 | This game is Relaxing | 179 |
@@ -206,3 +206,4 @@ Diff (max vs sum): 58
 | 2023-05-28 | 4.64 | - | 186 | 1,508 |
 | 2023-05-31 | 4.64 | - | 186 | 1,509 |
 | 2023-06-03 | 4.64 | - | 186 | 1,510 |
+| 2023-06-05 | 4.64 | - | 187 | 1,512 |

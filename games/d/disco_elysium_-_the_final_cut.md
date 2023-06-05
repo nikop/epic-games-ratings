@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,701 |
-| Biggest Communism Builder | 24.00% | ~28,887 |
-| The World's Most Laughable Centrist | 20.00% | ~24,072 |
-| Il Coppo Del'Arte! | 18.00% | ~21,665 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,258 |
-| Hyperstellar Law Official | 15.00% | ~18,054 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~16,851 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,647 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,647 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,240 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,833 |
-| Unbelievably Boring **** | 8.00% | ~9,629 |
-| Enemy Of The Physical Realm | 8.00% | ~9,629 |
-| Hardie's Heroes | 5.00% | ~6,018 |
-| The Lawbringer | 4.00% | ~4,814 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,814 |
+| Goodest Of The Good Cops | 28.00% | ~33,705 |
+| Biggest Communism Builder | 24.00% | ~28,890 |
+| The World's Most Laughable Centrist | 20.00% | ~24,075 |
+| Il Coppo Del'Arte! | 18.00% | ~21,667 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,260 |
+| Hyperstellar Law Official | 15.00% | ~18,056 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~16,852 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,649 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,649 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,241 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,834 |
+| Unbelievably Boring **** | 8.00% | ~9,630 |
+| Enemy Of The Physical Realm | 8.00% | ~9,630 |
+| Hardie's Heroes | 5.00% | ~6,019 |
+| The Lawbringer | 4.00% | ~4,815 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,815 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,611 |
 | Bother Kim After Hours | 3.00% | ~3,611 |
 | Baddest Of the Bad Cops | 2.00% | ~2,407 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~120 |
 | What body? | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,362 (Ranked 58)  
+Progressed: 120,374 (Ranked 58)  
 Completed: 25 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,10 +93,10 @@ Completed: 25 (0.02%) (Ranked 195)
 | 2023-06-02 | 120,057 | 25 |
 | 2023-06-03 | 120,205 | 25 |
 | 2023-06-04 | 120,358 | 25 |
-| 2023-06-05 | 120,362 | 25 |
+| 2023-06-05 | 120,374 | 25 |
 ## Awards
 Max (Character Customization): 691  (Ranked 157)  
-Sum: 1,047 (Ranked 230)  
+Sum: 1,048 (Ranked 230)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
@@ -111,7 +111,7 @@ Diff (max vs sum): -73
 | This game is Extremely Fun | 30 |
 | This game has Diverse Characters | 30 |
 | This game has Obsessive Gameplay | 26 |
-| This game has a Creative Community | 22 |
+| This game has a Creative Community | 23 |
 | This game has Easy Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -212,3 +212,4 @@ Diff (max vs sum): -73
 | 2023-05-19 | 4.86 | - | 689 | 1,045 |
 | 2023-05-22 | 4.86 | - | 690 | 1,046 |
 | 2023-05-31 | 4.86 | - | 691 | 1,047 |
+| 2023-06-05 | 4.86 | - | 691 | 1,048 |

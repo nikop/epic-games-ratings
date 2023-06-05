@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 1019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1500,9 +1500,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 377
     },
     {
       "ID": "GIANT_KILLER",
@@ -1556,9 +1556,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 438
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1660,9 +1660,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 255
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1709,8 +1709,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-04T14:58:28.7773787+00:00",
-  "LastChanged_Achievements": "2023-06-05T00:00:59.2775352+00:00",
+  "LastChanged_Achievements": "2023-06-05T02:23:12.6939705+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-04T23:58:25.9343829+00:00",
-  "LastUpdate_Achievements": "2023-06-05T00:00:59.2775853+00:00"
+  "LastUpdate_Ratings": "2023-06-05T02:19:05.7461324+00:00",
+  "LastUpdate_Achievements": "2023-06-05T02:23:12.6940321+00:00"
 }

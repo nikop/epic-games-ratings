@@ -470,7 +470,7 @@
   ],
   "EOS_Progressed": 1221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1868,9 +1868,9 @@
       "ID": "achFirstPassengerWaiting",
       "SetID": "dgl390n",
       "Name": "First passenger waiting",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 818
     },
     {
       "ID": "achFirstShipArrived",
@@ -2036,9 +2036,9 @@
       "ID": "achSmellOfSuccessCargo",
       "SetID": "dgl390n",
       "Name": "Cargo hub",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 659
     },
     {
       "ID": "achTopSpeed120",
@@ -2108,8 +2108,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-02T16:00:15.751864+00:00",
-  "LastChanged_Achievements": "2023-06-05T00:06:10.8182181+00:00",
+  "LastChanged_Achievements": "2023-06-05T02:27:34.5543542+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:02.3781621+00:00",
-  "LastUpdate_Ratings": "2023-06-04T23:59:36.4537748+00:00",
-  "LastUpdate_Achievements": "2023-06-05T00:06:10.8182816+00:00"
+  "LastUpdate_Ratings": "2023-06-05T02:20:47.7609458+00:00",
+  "LastUpdate_Achievements": "2023-06-05T02:27:34.5544199+00:00"
 }
