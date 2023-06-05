@@ -194,7 +194,7 @@
 | 180 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 493 |
 | 180 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 70 | 366 |
 | 180 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 493 |
-| 180 | [shapez](games/s/shapez.md) | 4.71 | 180 | 270 |
+| 180 | [shapez](games/s/shapez.md) | 4.71 | 182 | 269 |
 | 180 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 115 | 312 |
 | 180 | [Suzerain](games/s/suzerain.md) | 4.71 | 0 | 493 |
 | 198 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,531 | 68 |
@@ -323,7 +323,7 @@
 | 314 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 493 |
 | 314 | [HITMAN](games/h/hitman.md) | 4.64 | 198 | 261 |
 | 314 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.64 | 0 | 493 |
-| 314 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 180 | 270 |
+| 314 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 180 | 271 |
 | 314 | [Returnal™](games/r/returnal™.md) | 4.64 | 29 | 451 |
 | 314 | [Rogue Lords](games/r/rogue_lords.md) | 4.64 | 0 | 493 |
 | 314 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 24 | 468 |
@@ -340,7 +340,7 @@
 | 332 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 493 |
 | 332 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 493 |
 | 332 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 493 |
-| 332 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 181 | 269 |
+| 332 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 181 | 270 |
 | 332 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 225 |
 | 332 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.63 | 72 | 361 |
 | 332 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,743 | 110 |
@@ -409,7 +409,7 @@
 | 407 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 406 |
 | 407 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 0 | 493 |
 | 407 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 57,452 | 10 |
-| 407 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 616 | 165 |
+| 407 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 619 | 164 |
 | 407 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 140 | 291 |
 | 407 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 0 | 493 |
 | 407 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 57 | 383 |
@@ -881,7 +881,7 @@
 | 879 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 138 | 294 |
 | 879 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 493 |
 | 881 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 516 | 184 |
-| 881 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 180 | 270 |
+| 881 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 180 | 271 |
 | 881 | [Wreckfest](games/w/wreckfest.md) | 4.07 | 0 | 493 |
 | 884 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,917 | 64 |
 | 884 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.06 | 93 | 336 |

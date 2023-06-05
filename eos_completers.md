@@ -26,7 +26,7 @@
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 26 | [Scorn](games/s/scorn.md) | 6.88% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 28 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.37% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -76,7 +76,7 @@
 | 74 | [A Musical Story](games/a/a_musical_story.md) | 1.56% |
 | 75 | [Frogun](games/f/frogun.md) | 1.51% |
 | 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 77 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.45% |
+| 77 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.44% |
 | 78 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
 | 79 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
 | 80 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.25% |
