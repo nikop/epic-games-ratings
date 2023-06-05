@@ -9,8 +9,8 @@
 | The Mysterious Stranger | 76.00% | ~460 |
 | Immaculate Aim | 66.00% | ~399 |
 | The Brass Boss | 58.00% | ~351 |
-| Honest Mistake | 56.00% | ~339 |
-| No, Thanks! | 55.00% | ~333 |
+| Honest Mistake | 57.00% | ~345 |
+| No, Thanks! | 56.00% | ~339 |
 | Time Flies | 54.00% | ~327 |
 | The Harder They Fall | 52.00% | ~315 |
 | The Prince in Heels | 52.00% | ~315 |
@@ -24,7 +24,7 @@
 | The Wicked Twins | 38.00% | ~230 |
 | Like Clockwork | 37.00% | ~224 |
 | The Betrayer | 36.00% | ~218 |
-| Check Your Pulse | 33.00% | ~200 |
+| Check Your Pulse | 34.00% | ~206 |
 | Street Style | 31.00% | ~188 |
 | Family Memories | 31.00% | ~188 |
 | The Loose Cannon | 31.00% | ~188 |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 887,
+  "EOS_Progressed": 888,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2023-06-05T06:05:53.2518693+00:00",
       "NumProgressed": 887,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T08:06:08.2708887+00:00",
+      "NumProgressed": 888,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -1201,7 +1206,7 @@
       "Name": "Resistance is futile",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "A04",
@@ -1217,7 +1222,7 @@
       "Name": "A new Hope",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "A06",
@@ -1257,7 +1262,7 @@
       "Name": "From X to Y",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "A11",
@@ -1295,9 +1300,9 @@
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 249
     },
     {
       "ID": "A16",
@@ -1321,15 +1326,15 @@
       "Name": "General Manager",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "A19",
       "SetID": "9b7p7eo",
       "Name": "Tycoon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 44
     },
     {
       "ID": "A20",
@@ -1337,7 +1342,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "A21",
@@ -1463,9 +1468,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 613
     },
     {
       "ID": "A37",
@@ -1473,7 +1478,7 @@
       "Name": "All around the World",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "A38",
@@ -1481,7 +1486,7 @@
       "Name": "Poor Devil",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "A39",
@@ -1513,7 +1518,7 @@
       "Name": "Bridge Builder",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "A43",
@@ -1545,7 +1550,7 @@
       "Name": "Mystery Tour",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "A47",
@@ -1561,7 +1566,7 @@
       "Name": "Bull and bear",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "A49",
@@ -1616,14 +1621,14 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 887,
+      "Progressed": 888,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-05T07:05:43.652796+00:00",
+  "LastChanged_Achievements": "2023-06-05T08:06:08.2708881+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-05T06:58:12.4433854+00:00",
-  "LastUpdate_Achievements": "2023-06-05T07:05:43.6528501+00:00"
+  "LastUpdate_Ratings": "2023-06-05T07:58:14.6395516+00:00",
+  "LastUpdate_Achievements": "2023-06-05T08:06:08.270943+00:00"
 }

@@ -15,8 +15,8 @@
 | Take the Scenic Route | 13.00% | ~10 |
 | Treasure Hunter | 13.00% | ~10 |
 | Green Thumb Goliath | 13.00% | ~10 |
+| St. George's Gauntlet | 11.00% | ~9 |
 | Redbeard's Revenger | 11.00% | ~9 |
-| St. George's Gauntlet | 10.00% | ~8 |
 | BJ & The Bear | 9.00% | ~7 |
 | Mr. Magic | 9.00% | ~7 |
 | Soft Hands | 8.00% | ~6 |

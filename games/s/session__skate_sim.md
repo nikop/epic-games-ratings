@@ -28,6 +28,7 @@ Number of Ratings: 111  (23.09.2022)
 | Sup widdit big dog! | 5.00% | ~113 |
 | Tight lipslides | 5.00% | ~113 |
 | Commence the Hijinx! | 4.00% | ~90 |
+| Cops called! | 4.00% | ~90 |
 | DIY Boss | 4.00% | ~90 |
 | Globetrotter | 4.00% | ~90 |
 | Laid back | 4.00% | ~90 |
@@ -39,7 +40,6 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~90 |
 | Tank commander | 4.00% | ~90 |
 | Trick shot marksman | 4.00% | ~90 |
-| Cops called! | 3.00% | ~68 |
 | G.O.A.T. status | 3.00% | ~68 |
 | Hoarder | 3.00% | ~68 |
 | We get it, you're good | 3.00% | ~68 |

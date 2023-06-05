@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14253,
+  "EOS_Progressed": 14254,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -3796,6 +3796,11 @@
       "Time": "2023-06-05T07:03:45.346147+00:00",
       "NumProgressed": 14253,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-06-05T08:03:55.570263+00:00",
+      "NumProgressed": 14254,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 16,
@@ -3815,7 +3820,7 @@
       "Name": "Burning For You",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4133
+      "UsersEstimate": 4134
     },
     {
       "ID": "Deadline",
@@ -3855,7 +3860,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4703
+      "UsersEstimate": 4704
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -3903,7 +3908,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7269
+      "UsersEstimate": 7270
     },
     {
       "ID": "Sole_Survivor",
@@ -3934,15 +3939,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14253,
+      "Progressed": 14254,
       "Completed": 91
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-05T07:03:45.3461465+00:00",
+  "LastChanged_Achievements": "2023-06-05T08:03:55.5702525+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:21.5801911+00:00",
-  "LastUpdate_Ratings": "2023-06-05T06:59:04.4904756+00:00",
-  "LastUpdate_Achievements": "2023-06-05T07:03:45.3461788+00:00"
+  "LastUpdate_Ratings": "2023-06-05T07:59:11.4720297+00:00",
+  "LastUpdate_Achievements": "2023-06-05T08:03:55.5702931+00:00"
 }

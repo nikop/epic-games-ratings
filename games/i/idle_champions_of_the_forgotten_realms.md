@@ -160,6 +160,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Durable Deep | 0.20% | ~180 |
 | The Sibriex | 0.20% | ~112 |
 | Wrecked Flying Fortress | 0.20% | ~112 |
+| Expert Opinion | 0.20% | ~180 |
 | Witty Riposting | 0.20% | ~112 |
 | How Far Away is Thay | 0.20% | ~112 |
 | The Templar's Camp | 0.20% | ~180 |
@@ -435,7 +436,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Neutral Party | 0.10% | ~56 |
 | Relentless Peril | 0.10% | ~56 |
 | Rickety Rubble | 0.10% | ~56 |
-| Expert Opinion | 0.10% | ~90 |
 | Dwarven Rumors | 0.10% | ~56 |
 | Mimic Perception | 0.10% | ~56 |
 | Frozen in Fear | 0.10% | ~56 |

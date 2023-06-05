@@ -3294,9 +3294,9 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 276379,
+  "EOS_Progressed": 276382,
   "EOS_Completed": 387,
-  "EOS_NewPlayers": 2474,
+  "EOS_NewPlayers": 2466,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7929,6 +7929,11 @@
       "Time": "2023-06-05T07:04:25.7895953+00:00",
       "NumProgressed": 276379,
       "NumCompleted": 387
+    },
+    {
+      "Time": "2023-06-05T08:04:46.6485066+00:00",
+      "NumProgressed": 276382,
+      "NumCompleted": 387
     }
   ],
   "TotalAchievements": 45,
@@ -7940,7 +7945,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22110
+      "UsersEstimate": 22111
     },
     {
       "ID": "PFA_10",
@@ -8026,9 +8031,9 @@
       "ID": "PFA_2",
       "SetID": "1hf4dep",
       "Name": "The Toast of the Town",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5528
+      "UsersEstimate": 8291
     },
     {
       "ID": "PFA_20",
@@ -8299,7 +8304,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 276379,
+      "Progressed": 276382,
       "Completed": 387
     }
   ],
@@ -8307,8 +8312,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-05T06:57:35.2835233+00:00",
-  "LastChanged_Achievements": "2023-06-05T07:04:25.7895948+00:00",
+  "LastChanged_Achievements": "2023-06-05T08:04:46.6485061+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:24.8723684+00:00",
-  "LastUpdate_Ratings": "2023-06-05T06:57:35.2835241+00:00",
-  "LastUpdate_Achievements": "2023-06-05T07:04:25.7896568+00:00"
+  "LastUpdate_Ratings": "2023-06-05T07:57:34.6549594+00:00",
+  "LastUpdate_Achievements": "2023-06-05T08:04:46.6485684+00:00"
 }

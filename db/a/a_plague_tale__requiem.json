@@ -284,9 +284,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11149,
+  "EOS_Progressed": 11150,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2724,6 +2724,11 @@
       "Time": "2023-06-05T07:05:40.3981035+00:00",
       "NumProgressed": 11149,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-05T08:06:05.0026004+00:00",
+      "NumProgressed": 11150,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -2735,7 +2740,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 10257
+      "UsersEstimate": 10258
     },
     {
       "ID": "ACH_02",
@@ -2743,7 +2748,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 8696
+      "UsersEstimate": 8697
     },
     {
       "ID": "ACH_03",
@@ -2751,7 +2756,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 8027
+      "UsersEstimate": 8028
     },
     {
       "ID": "ACH_04",
@@ -2759,7 +2764,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 7581
+      "UsersEstimate": 7582
     },
     {
       "ID": "ACH_05",
@@ -2767,7 +2772,7 @@
       "Name": "In our Wake",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 7358
+      "UsersEstimate": 7359
     },
     {
       "ID": "ACH_06",
@@ -2783,7 +2788,7 @@
       "Name": "Felons",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6689
+      "UsersEstimate": 6690
     },
     {
       "ID": "ACH_08",
@@ -2791,7 +2796,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 6466
+      "UsersEstimate": 6467
     },
     {
       "ID": "ACH_09",
@@ -2799,7 +2804,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 6132
+      "UsersEstimate": 6133
     },
     {
       "ID": "ACH_10",
@@ -2807,7 +2812,7 @@
       "Name": "Bloodline",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5574
+      "UsersEstimate": 5575
     },
     {
       "ID": "ACH_11",
@@ -2831,7 +2836,7 @@
       "Name": "Nothing Left",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4125
+      "UsersEstimate": 4126
     },
     {
       "ID": "ACH_14",
@@ -2871,7 +2876,7 @@
       "Name": "Herbalist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH_19",
@@ -2879,7 +2884,7 @@
       "Name": "Ornithologist",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACH_20",
@@ -2887,7 +2892,7 @@
       "Name": "Explorer",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_21",
@@ -2919,7 +2924,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "ACH_25",
@@ -2927,7 +2932,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     },
     {
       "ID": "ACH_26",
@@ -2967,7 +2972,7 @@
       "Name": "Fighter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH_31",
@@ -2975,7 +2980,7 @@
       "Name": "Malignant",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_32",
@@ -2991,7 +2996,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     },
     {
       "ID": "ACH_34",
@@ -3014,7 +3019,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 11149,
+      "Progressed": 11150,
       "Completed": 32
     }
   ],
@@ -3022,8 +3027,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-06-02T18:59:42.7227713+00:00",
-  "LastChanged_Achievements": "2023-06-05T07:05:40.398103+00:00",
+  "LastChanged_Achievements": "2023-06-05T08:06:05.0026+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:44.0203525+00:00",
-  "LastUpdate_Ratings": "2023-06-05T06:59:22.7740151+00:00",
-  "LastUpdate_Achievements": "2023-06-05T07:05:40.3981441+00:00"
+  "LastUpdate_Ratings": "2023-06-05T07:59:29.2201547+00:00",
+  "LastUpdate_Achievements": "2023-06-05T08:06:05.0026388+00:00"
 }

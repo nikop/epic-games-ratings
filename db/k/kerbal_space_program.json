@@ -4,7 +4,7 @@
   "ProductSlug": "kerbal-space-program",
   "Ranking_Rating": 90,
   "Ranking_Popularity": 169,
-  "Ranking_PopularitySum": 134,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 324,
@@ -2236,10 +2236,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 3942,
       "NumberOfAwardsMax": 601
+    },
+    {
+      "Time": "2023-06-05T07:57:31.7258945+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 3568,
+      "NumberOfAwardsMax": 601
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3942,
+  "NumberOfAwards": 3568,
   "NumberOfAwardsMax": 601,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -2304,8 +2310,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-06-05T03:57:31.7725565+00:00",
+  "LastChanged": "2023-06-05T07:57:31.7258944+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:21.2499044+00:00",
-  "LastUpdate_Ratings": "2023-06-05T06:57:32.2435978+00:00",
-  "LastUpdate_Achievements": "2023-06-05T06:03:12.599441+00:00"
+  "LastUpdate_Ratings": "2023-06-05T07:57:31.725895+00:00",
+  "LastUpdate_Achievements": "2023-06-05T08:00:41.3714474+00:00"
 }

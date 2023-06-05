@@ -6,22 +6,22 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,354 |
-| Leader | 61.00% | ~3,741 |
-| Explorer | 53.00% | ~3,250 |
-| Healer | 53.00% | ~3,250 |
+| First Step | 71.00% | ~4,355 |
+| Leader | 61.00% | ~3,742 |
+| Explorer | 53.00% | ~3,251 |
+| Healer | 53.00% | ~3,251 |
 | Aspiring Inventor | 45.00% | ~2,760 |
 | Adventurer | 41.00% | ~2,515 |
 | Famous Healer | 38.00% | ~2,331 |
 | Local Leader | 35.00% | ~2,147 |
-| New Opportunities | 34.00% | ~2,085 |
+| New Opportunities | 34.00% | ~2,086 |
 | Famous Explorer | 33.00% | ~2,024 |
 | Energized | 33.00% | ~2,024 |
 | The Long Haul | 33.00% | ~2,024 |
-| Survivor | 31.00% | ~1,901 |
+| Survivor | 31.00% | ~1,902 |
 | The Great Healer | 30.00% | ~1,840 |
-| Cleaner | 28.00% | ~1,717 |
-| Catastrofan | 28.00% | ~1,717 |
+| Cleaner | 28.00% | ~1,718 |
+| Catastrofan | 28.00% | ~1,718 |
 | Legendary Explorer | 27.00% | ~1,656 |
 | Finders, Keepers | 26.00% | ~1,595 |
 | Top Notch | 24.00% | ~1,472 |
@@ -47,9 +47,9 @@ Number of Ratings: 836  (23.09.2022)
 | Tailored to fit | 7.00% | ~429 |
 | Really Friendly | 6.00% | ~368 |
 | New Eden | 6.00% | ~368 |
-| Look, no Hands! | 5.00% | ~307 |
 | Amped Up | 5.00% | ~307 |
 | Luxurious Living | 4.00% | ~245 |
+| Look, no Hands! | 4.00% | ~245 |
 | Mogul | 3.00% | ~184 |
 | Ranch Hand | 3.00% | ~184 |
 | Diplomat | 2.00% | ~123 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,133 (Ranked 121)  
+Progressed: 6,134 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 6,044 | 0 |
 | 2023-06-03 | 6,087 | 0 |
 | 2023-06-04 | 6,125 | 0 |
-| 2023-06-05 | 6,133 | 0 |
+| 2023-06-05 | 6,134 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 327)  
 Sum: 659 (Ranked 272)  

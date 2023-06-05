@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~656 |
+| Country Bumpkin | 74.00% | ~657 |
 | A new Journey | 72.00% | ~639 |
 | Departure | 71.00% | ~630 |
-| From X to Y | 70.00% | ~621 |
-| Way of Iron | 70.00% | ~621 |
-| Mystery Tour | 66.00% | ~585 |
+| From X to Y | 70.00% | ~622 |
+| Way of Iron | 69.00% | ~613 |
+| Mystery Tour | 66.00% | ~586 |
 | Brainstorm | 65.00% | ~577 |
 | We brake for nobody | 65.00% | ~577 |
 | Mind the Gap | 63.00% | ~559 |
 | Travel Company | 63.00% | ~559 |
-| All around the World | 61.00% | ~541 |
+| All around the World | 61.00% | ~542 |
 | Right through the middle | 55.00% | ~488 |
-| Poor Devil | 51.00% | ~452 |
+| Poor Devil | 51.00% | ~453 |
 | Facility Manager | 50.00% | ~444 |
 | Producer | 46.00% | ~408 |
 | Apprentice | 42.00% | ~373 |
-| Bridge Builder | 37.00% | ~328 |
+| Bridge Builder | 37.00% | ~329 |
 | Stoker | 34.00% | ~302 |
 | Access granted | 34.00% | ~302 |
 | Going once, going twice, sold | 30.00% | ~266 |
-| Full Steam ahead | 29.00% | ~257 |
-| Bull and bear | 27.00% | ~239 |
+| Full Steam ahead | 28.00% | ~249 |
+| Bull and bear | 27.00% | ~240 |
 | Mole | 25.00% | ~222 |
 | All mine | 23.00% | ~204 |
 | Financial Shark | 23.00% | ~204 |
 | Seven at one stroke | 21.00% | ~186 |
 | Hostile Takeover | 21.00% | ~186 |
 | Socializer | 21.00% | ~186 |
-| General Manager | 20.00% | ~177 |
+| General Manager | 20.00% | ~178 |
 | Country Life | 19.00% | ~169 |
 | Trailblazer | 18.00% | ~160 |
 | Breaking Ground | 14.00% | ~124 |
@@ -40,14 +40,14 @@
 | Assimilated | 13.00% | ~115 |
 | Locusts | 13.00% | ~115 |
 | Traffic Junction | 13.00% | ~115 |
-| Resistance is futile | 12.00% | ~106 |
+| Resistance is futile | 12.00% | ~107 |
 | Networker | 11.00% | ~98 |
 | Go West | 7.00% | ~62 |
 | Max Power | 7.00% | ~62 |
 | Settler | 7.00% | ~62 |
 | Bold and beautiful | 6.00% | ~53 |
-| A new Hope | 4.00% | ~35 |
-| Tycoon | 4.00% | ~35 |
+| Tycoon | 5.00% | ~44 |
+| A new Hope | 4.00% | ~36 |
 | Unstoppable | 2.00% | ~18 |
 | Track to the Future | 2.00% | ~18 |
 | Let off some steam | 1.00% | ~9 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887 (Ranked 181)  
+Progressed: 888 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,4 +82,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 725 | 0 |
 | 2023-06-03 | 812 | 0 |
 | 2023-06-04 | 880 | 0 |
-| 2023-06-05 | 887 | 0 |
+| 2023-06-05 | 888 | 0 |

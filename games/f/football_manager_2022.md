@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~462 |
 | Shoestring Budget | 0.10% | ~462 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,399 (Ranked 32)  
+Progressed: 462,401 (Ranked 32)  
 Completed: 18 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 18 (0.00%) (Ranked 212)
 | 2023-06-02 | 462,119 | 18 |
 | 2023-06-03 | 462,252 | 18 |
 | 2023-06-04 | 462,381 | 18 |
-| 2023-06-05 | 462,399 | 18 |
+| 2023-06-05 | 462,401 | 18 |
 ## Awards
 Max (Relaxing): 6,288  (Ranked 51)  
 Sum: 49,607 (Ranked 24)  

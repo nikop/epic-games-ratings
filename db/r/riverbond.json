@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518464,
+  "EOS_Progressed": 518466,
   "EOS_Completed": 420,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4990,6 +4990,11 @@
       "Time": "2023-06-05T07:05:31.5921326+00:00",
       "NumProgressed": 518464,
       "NumCompleted": 420
+    },
+    {
+      "Time": "2023-06-05T08:05:55.9483543+00:00",
+      "NumProgressed": 518466,
+      "NumCompleted": 420
     }
   ],
   "TotalAchievements": 57,
@@ -5009,7 +5014,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 233309
+      "UsersEstimate": 233310
     },
     {
       "ID": "11",
@@ -5017,7 +5022,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 362925
+      "UsersEstimate": 362926
     },
     {
       "ID": "12",
@@ -5025,7 +5030,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 114062
+      "UsersEstimate": 114063
     },
     {
       "ID": "13",
@@ -5033,7 +5038,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67400
+      "UsersEstimate": 67401
     },
     {
       "ID": "14",
@@ -5049,7 +5054,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 51846
+      "UsersEstimate": 51847
     },
     {
       "ID": "16",
@@ -5081,7 +5086,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 321448
+      "UsersEstimate": 321449
     },
     {
       "ID": "2",
@@ -5089,7 +5094,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 51846
+      "UsersEstimate": 51847
     },
     {
       "ID": "20",
@@ -5097,7 +5102,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 124431
+      "UsersEstimate": 124432
     },
     {
       "ID": "21",
@@ -5121,7 +5126,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36292
+      "UsersEstimate": 36293
     },
     {
       "ID": "24",
@@ -5201,7 +5206,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36292
+      "UsersEstimate": 36293
     },
     {
       "ID": "33",
@@ -5225,7 +5230,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 259232
+      "UsersEstimate": 259233
     },
     {
       "ID": "36",
@@ -5305,7 +5310,7 @@
       "Name": "Under the Radar",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36292
+      "UsersEstimate": 36293
     },
     {
       "ID": "45",
@@ -5329,7 +5334,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 321448
+      "UsersEstimate": 321449
     },
     {
       "ID": "48",
@@ -5377,7 +5382,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 238493
+      "UsersEstimate": 238494
     },
     {
       "ID": "53",
@@ -5456,15 +5461,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 518464,
+      "Progressed": 518466,
       "Completed": 420
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-06-05T07:05:31.592132+00:00",
+  "LastChanged_Achievements": "2023-06-05T08:05:55.9483538+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:23.8726676+00:00",
-  "LastUpdate_Ratings": "2023-06-05T06:57:34.6021914+00:00",
-  "LastUpdate_Achievements": "2023-06-05T07:05:31.592212+00:00"
+  "LastUpdate_Ratings": "2023-06-05T07:57:33.9877654+00:00",
+  "LastUpdate_Achievements": "2023-06-05T08:05:55.9484308+00:00"
 }
