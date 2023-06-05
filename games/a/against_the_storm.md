@@ -37,9 +37,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 0.90% | ~137 |
 | Serving Ale | 0.80% | ~121 |
 | Forsaken Gods Temple | 0.80% | ~121 |
+| Into the Forest | 0.80% | ~121 |
 | Ruined Armory | 0.70% | ~106 |
 | Defying the Crown | 0.70% | ~106 |
-| Into the Forest | 0.70% | ~106 |
 | Forbidden Lands | 0.60% | ~91 |
 | Efficient Explorer | 0.50% | ~76 |
 | Fishmen Ritual Site | 0.50% | ~76 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,184 (Ranked 100)  
+Progressed: 15,185 (Ranked 100)  
 Completed: 33 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 33 (0.22%) (Ranked 141)
 | 2023-06-02 | 15,142 | 33 |
 | 2023-06-03 | 15,161 | 33 |
 | 2023-06-04 | 15,183 | 33 |
-| 2023-06-05 | 15,184 | 33 |
+| 2023-06-05 | 15,185 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,036 (Ranked 152)  

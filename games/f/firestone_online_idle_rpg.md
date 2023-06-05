@@ -5,17 +5,17 @@ Rating: 3.95 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,213 |
-| World Map | 80.00% | ~1,032 |
-| Temple of Eternals | 56.00% | ~722 |
+| Victor | 94.00% | ~1,214 |
+| World Map | 80.00% | ~1,033 |
+| Temple of Eternals | 56.00% | ~723 |
 | Prestigious | 53.00% | ~684 |
 | Fellowship Power | 40.00% | ~516 |
 | Guild Power | 24.00% | ~310 |
 | Prestigious x10 | 21.00% | ~271 |
 | The game is on | 19.00% | ~245 |
 | Exotic Merchant | 17.00% | ~219 |
-| Dragon Clicker | 16.00% | ~206 |
-| Miner Clicker | 16.00% | ~206 |
+| Dragon Clicker | 16.00% | ~207 |
+| Miner Clicker | 16.00% | ~207 |
 | Inspection | 15.00% | ~194 |
 | Full Party | 14.00% | ~181 |
 | Dragon Master | 13.00% | ~168 |
@@ -38,9 +38,9 @@ Rating: 3.95 (Ranked 905)
 | Doing My Part | 6.00% | ~77 |
 | Frostfire Liberator | 6.00% | ~77 |
 | Moving Up The Ladder | 6.00% | ~77 |
-| Here We Go Again | 5.00% | ~64 |
-| The Expeditioner | 5.00% | ~64 |
-| Trader | 5.00% | ~64 |
+| Here We Go Again | 5.00% | ~65 |
+| The Expeditioner | 5.00% | ~65 |
+| Trader | 5.00% | ~65 |
 | Ancient Knowledge | 4.00% | ~52 |
 | Background Story | 4.00% | ~52 |
 | Four Leaf Clover | 4.00% | ~52 |
@@ -81,7 +81,7 @@ Rating: 3.95 (Ranked 905)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,290 (Ranked 162)  
+Progressed: 1,291 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1 (0.08%) (Ranked 173)
 | 2023-06-02 | 1,257 | 1 |
 | 2023-06-03 | 1,267 | 1 |
 | 2023-06-04 | 1,285 | 1 |
-| 2023-06-05 | 1,290 | 1 |
+| 2023-06-05 | 1,291 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

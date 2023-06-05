@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,457 |
-| Returning Home: Quick Learner | 25.00% | ~1,228 |
+| Level: Returning Home | 50.00% | ~2,458 |
+| Returning Home: Quick Learner | 25.00% | ~1,229 |
 | Level: Charlie's Circuits | 22.00% | ~1,081 |
 | Level: Rising Markets | 9.00% | ~442 |
 | Peddler | 8.00% | ~393 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,914 (Ranked 127)  
+Progressed: 4,915 (Ranked 127)  
 Completed: 1 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 1 (0.02%) (Ranked 195)
 | 2023-06-02 | 4,894 | 1 |
 | 2023-06-03 | 4,902 | 1 |
 | 2023-06-04 | 4,912 | 1 |
-| 2023-06-05 | 4,914 | 1 |
+| 2023-06-05 | 4,915 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 34.00% | ~108 |
-| Baby's First Car | 32.00% | ~102 |
+| Brace for impact! | 34.00% | ~109 |
+| Baby's First Car | 33.00% | ~106 |
 | Amateur Mechanic | 32.00% | ~102 |
 | Pushover | 32.00% | ~102 |
 | A Forest Walk | 32.00% | ~102 |
 | C-C-C-Combo! | 30.00% | ~96 |
 | Multiply that! | 30.00% | ~96 |
+| Snow Fun! | 28.00% | ~90 |
 | Fore! | 27.00% | ~86 |
 | Insurance fraud | 27.00% | ~86 |
-| Snow Fun! | 27.00% | ~86 |
 | The Collector | 26.00% | ~83 |
 | The Wild West | 26.00% | ~83 |
 | Bag of Tricks | 26.00% | ~83 |
 | I see the light! | 26.00% | ~83 |
 | You're it | 26.00% | ~83 |
 | To and Fro | 25.00% | ~80 |
+| Take that Frosty! | 25.00% | ~80 |
 | In the Bag! | 25.00% | ~80 |
 | First Come, First Serve | 24.00% | ~77 |
 | Disoriented | 24.00% | ~77 |
-| Take that Frosty! | 24.00% | ~77 |
 | Goodbye cruel world | 24.00% | ~77 |
 | Beach Party! | 24.00% | ~77 |
-| Car-Tapult | 23.00% | ~73 |
-| Anger Issues | 23.00% | ~73 |
-| Your Highness | 23.00% | ~73 |
+| Car-Tapult | 23.00% | ~74 |
+| Anger Issues | 23.00% | ~74 |
+| Your Highness | 23.00% | ~74 |
 | Event Amateur | 22.00% | ~70 |
 | Feeling Dizzy? | 21.00% | ~67 |
 | Drift King! | 20.00% | ~64 |
@@ -40,9 +40,9 @@
 | Special Forces | 15.00% | ~48 |
 | Toot Toot! | 14.00% | ~45 |
 | Blasting away! | 14.00% | ~45 |
-| High Roller | 13.00% | ~41 |
-| Earth Defense Force | 13.00% | ~41 |
-| Rocketman | 13.00% | ~41 |
+| High Roller | 13.00% | ~42 |
+| Earth Defense Force | 13.00% | ~42 |
+| Rocketman | 13.00% | ~42 |
 | Event Pro | 11.00% | ~35 |
 | Space Crash | 8.00% | ~26 |
 | To war! | 8.00% | ~26 |
@@ -60,8 +60,8 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 319 (Ranked 220)  
-Completed: 2 (0.63%) (Ranked 109)  
+Progressed: 320 (Ranked 220)  
+Completed: 2 (0.62%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,6 +83,7 @@ Completed: 2 (0.63%) (Ranked 109)
 | 2023-05-29 | 315 | 2 |
 | 2023-06-01 | 317 | 2 |
 | 2023-06-03 | 319 | 2 |
+| 2023-06-05 | 320 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

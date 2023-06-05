@@ -7,22 +7,22 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 76.00% | ~33,087 |
-| I read Shakespeare and stuff | 64.00% | ~27,862 |
-| Just a sprinkle | 63.00% | ~27,427 |
-| I'm stumped | 61.00% | ~26,556 |
-| Plant get enough | 61.00% | ~26,556 |
+| I read Shakespeare and stuff | 64.00% | ~27,863 |
+| Just a sprinkle | 63.00% | ~27,428 |
+| I'm stumped | 61.00% | ~26,557 |
+| Plant get enough | 61.00% | ~26,557 |
 | It's just the beginning | 59.00% | ~25,686 |
-| This is just my weekend vehicle | 58.00% | ~25,250 |
+| This is just my weekend vehicle | 58.00% | ~25,251 |
 | Hard work pays off | 53.00% | ~23,074 |
-| It's never too late to farm | 47.00% | ~20,461 |
-| All out of Land | 44.00% | ~19,155 |
+| It's never too late to farm | 47.00% | ~20,462 |
+| All out of Land | 44.00% | ~19,156 |
 | Field Trip | 43.00% | ~18,720 |
 | I like to switch it up | 40.00% | ~17,414 |
-| Help me to help you | 38.00% | ~16,543 |
+| Help me to help you | 38.00% | ~16,544 |
 | Ultimutt Pawesomeness | 28.00% | ~12,190 |
 | Van Gogh | 26.00% | ~11,319 |
-| You wood not believe it | 21.00% | ~9,142 |
-| Vehicle fleet | 21.00% | ~9,142 |
+| You wood not believe it | 21.00% | ~9,143 |
+| Vehicle fleet | 21.00% | ~9,143 |
 | The plot thickens | 16.00% | ~6,966 |
 | Long haul | 16.00% | ~6,966 |
 | Clucky Streak | 15.00% | ~6,530 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | It's sow easy | 11.00% | ~4,789 |
 | Highly cultivated | 10.00% | ~4,354 |
 | Giddy-up! | 10.00% | ~4,354 |
-| Cowherd | 7.00% | ~3,047 |
+| Cowherd | 7.00% | ~3,048 |
 | Fluffyness | 6.00% | ~2,612 |
 | Helper A does not stop … ever | 6.00% | ~2,612 |
 | Road Trip | 5.00% | ~2,177 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~174 |
 | Raisin the stakes | 0.30% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,535 (Ranked 81)  
+Progressed: 43,536 (Ranked 81)  
 Completed: 5 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,15 +96,15 @@ Completed: 5 (0.01%) (Ranked 201)
 | 2023-06-02 | 43,387 | 5 |
 | 2023-06-03 | 43,461 | 5 |
 | 2023-06-04 | 43,526 | 5 |
-| 2023-06-05 | 43,535 | 5 |
+| 2023-06-05 | 43,536 | 5 |
 ## Awards
 Max (Great for Beginners): 4,319  (Ranked 70)  
-Sum: 36,895 (Ranked 31)  
+Sum: 36,900 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,319 |
-| This game is Relaxing | 3,931 |
+| This game is Relaxing | 3,936 |
 | This game is Educational | 3,874 |
 | This game has Quickly Understood Controls | 3,848 |
 | This game is Extremely Fun | 3,720 |
@@ -257,4 +257,4 @@ Diff (max vs sum): 39
 | 2023-06-02 | 4.70 | - | 4,303 | 36,816 |
 | 2023-06-03 | 4.70 | - | 4,309 | 36,852 |
 | 2023-06-04 | 4.70 | - | 4,319 | 36,892 |
-| 2023-06-05 | 4.70 | - | 4,319 | 36,895 |
+| 2023-06-05 | 4.70 | - | 4,319 | 36,900 |

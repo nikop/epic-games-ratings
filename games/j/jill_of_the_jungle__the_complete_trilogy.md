@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to the Jungle | 100.00% | ~988 |
+| Welcome to the Jungle | 100.00% | ~990 |
 | Jill the Bold | 12.00% | ~119 |
-| Jill the Brave | 10.00% | ~99 |
+| Jill the Brave | 9.00% | ~89 |
 | Jill the Courageous | 9.00% | ~89 |
 | Jill the Champion | 8.00% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 988 (Ranked 173)  
-Completed: 76 (7.69%) (Ranked 24)  
+Progressed: 990 (Ranked 173)  
+Completed: 76 (7.68%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,7 +55,7 @@ Completed: 76 (7.69%) (Ranked 24)
 | 2023-06-02 | 963 | 75 |
 | 2023-06-03 | 973 | 76 |
 | 2023-06-04 | 985 | 76 |
-| 2023-06-05 | 988 | 76 |
+| 2023-06-05 | 990 | 76 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

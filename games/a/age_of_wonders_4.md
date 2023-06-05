@@ -9,7 +9,7 @@ Rating: 4.54 (Ranked 489)
 | Realm Estate | 75.00% | ~3,255 |
 | Secret Technique | 74.00% | ~3,212 |
 | Walls Cannot Stop Us | 73.00% | ~3,168 |
-| From Friends to Family | 68.00% | ~2,951 |
+| From Friends to Family | 69.00% | ~2,995 |
 | Magical Synergy | 64.00% | ~2,778 |
 | Bone Peddler | 60.00% | ~2,604 |
 | Stronger Together | 55.00% | ~2,387 |

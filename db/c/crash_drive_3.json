@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.63,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:19.8064239+00:00",
@@ -161,6 +161,11 @@
       "Time": "2023-06-03T16:04:02.2239143+00:00",
       "NumProgressed": 319,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T10:04:40.4084465+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -172,7 +177,7 @@
       "Name": "Brace for impact!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -196,7 +201,7 @@
       "Name": "Car-Tapult",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "COIN_COLLECT",
@@ -210,9 +215,9 @@
       "ID": "COLLECT_1_CAR",
       "SetID": "20koof9",
       "Name": "Baby\u0027s First Car",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -228,7 +233,7 @@
       "Name": "High Roller",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -348,7 +353,7 @@
       "Name": "Anger Issues",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -364,15 +369,15 @@
       "Name": "Earth Defense Force",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
       "SetID": "20koof9",
       "Name": "Take that Frosty!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -412,7 +417,7 @@
       "Name": "Your Highness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "LEFT_LEVEL",
@@ -442,9 +447,9 @@
       "ID": "LOADED_LVL_SNOW",
       "SetID": "20koof9",
       "Name": "Snow Fun!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -524,7 +529,7 @@
       "Name": "Rocketman",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "USE_TUNNEL",
@@ -611,7 +616,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 2
     }
   ],
@@ -619,8 +624,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-05T09:03:34.7049929+00:00",
+  "LastChanged_Achievements": "2023-06-05T10:04:40.408446+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:01.3501151+00:00",
-  "LastUpdate_Ratings": "2023-06-05T08:58:41.1366546+00:00",
-  "LastUpdate_Achievements": "2023-06-05T09:03:34.7050431+00:00"
+  "LastUpdate_Ratings": "2023-06-05T09:59:17.5177762+00:00",
+  "LastUpdate_Achievements": "2023-06-05T10:04:40.4084845+00:00"
 }

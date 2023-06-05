@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,527 |
-| That's a Grand Army | 8.00% | ~4,024 |
-| That is mine! | 8.00% | ~4,024 |
-| Victorious! | 8.00% | ~4,024 |
-| Brothers in Arms | 6.00% | ~3,018 |
-| That's a Grand Navy | 6.00% | ~3,018 |
-| Seriously?! | 6.00% | ~3,018 |
-| For the Glory | 5.00% | ~2,515 |
-| Cold War | 4.00% | ~2,012 |
-| True Catholic | 4.00% | ~2,012 |
+| Until death do us apart | 9.00% | ~4,528 |
+| That's a Grand Army | 8.00% | ~4,025 |
+| That is mine! | 8.00% | ~4,025 |
+| Victorious! | 8.00% | ~4,025 |
+| Brothers in Arms | 6.00% | ~3,019 |
+| That's a Grand Navy | 6.00% | ~3,019 |
+| Seriously?! | 6.00% | ~3,019 |
+| For the Glory | 5.00% | ~2,516 |
+| Cold War | 4.00% | ~2,013 |
+| True Catholic | 4.00% | ~2,013 |
 | Defender of the Faith | 3.00% | ~1,509 |
 | It's all about the money | 3.00% | ~1,509 |
 | Respected | 3.00% | ~1,509 |
@@ -41,8 +41,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~453 |
 | The Five Colonies | 0.90% | ~453 |
 | This navy can take it all | 0.90% | ~453 |
-| Down Under | 0.80% | ~402 |
-| The Emperors new clothes | 0.80% | ~402 |
+| Down Under | 0.80% | ~403 |
+| The Emperors new clothes | 0.80% | ~403 |
 | Trustworthy | 0.70% | ~352 |
 | All belongs to Mother Russia | 0.60% | ~302 |
 | At every continent | 0.60% | ~302 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,302 (Ranked 78)  
+Progressed: 50,314 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,10 +407,10 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 48,793 | 0 |
 | 2023-06-03 | 49,497 | 0 |
 | 2023-06-04 | 50,194 | 0 |
-| 2023-06-05 | 50,302 | 0 |
+| 2023-06-05 | 50,314 | 0 |
 ## Awards
 Max (Educational): 5,342  (Ranked 61)  
-Sum: 44,151 (Ranked 27)  
+Sum: 44,157 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -422,7 +422,7 @@ Diff (max vs sum): 34
 | This game is Relaxing | 4,958 |
 | This game has Competitive Players | 4,808 |
 | This game has Amazing Storytelling | 4,542 |
-| This game has Amazing Characters | 4,195 |
+| This game has Amazing Characters | 4,201 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -566,4 +566,4 @@ Diff (max vs sum): 34
 | 2023-06-02 | 4.68 | - | 5,338 | 44,064 |
 | 2023-06-03 | 4.68 | - | 5,338 | 44,083 |
 | 2023-06-04 | 4.68 | - | 5,342 | 44,146 |
-| 2023-06-05 | 4.68 | - | 5,342 | 44,151 |
+| 2023-06-05 | 4.68 | - | 5,342 | 44,157 |

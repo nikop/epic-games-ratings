@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 268,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 14.61,
+  "EOS_Completed_Percentage": 14.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1178,6 +1178,11 @@
       "Time": "2023-06-05T05:06:15.4170111+00:00",
       "NumProgressed": 267,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-05T10:06:35.015396+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 22,
@@ -1187,9 +1192,9 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 98,
+      "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 262
+      "UsersEstimate": 260
     },
     {
       "ID": "LEVEL_002",
@@ -1197,7 +1202,7 @@
       "Name": "A tiny town",
       "Percentage": 84,
       "XP": 35,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "LEVEL_003",
@@ -1221,7 +1226,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "LEVEL_006",
@@ -1229,7 +1234,7 @@
       "Name": "Found an oasis",
       "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "LEVEL_007",
@@ -1269,7 +1274,7 @@
       "Name": "At the heart of the city",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "LEVEL_012",
@@ -1325,7 +1330,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_019",
@@ -1364,7 +1369,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 268,
       "Completed": 39
     }
   ],
@@ -1372,8 +1377,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-05T09:05:29.6818252+00:00",
+  "LastChanged_Achievements": "2023-06-05T10:06:35.0153958+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-05T08:58:02.9056271+00:00",
-  "LastUpdate_Achievements": "2023-06-05T09:05:29.6818481+00:00"
+  "LastUpdate_Ratings": "2023-06-05T09:58:28.5472985+00:00",
+  "LastUpdate_Achievements": "2023-06-05T10:06:35.0154129+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 696,
+  "EOS_Progressed": 697,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -198,6 +198,11 @@
       "Time": "2023-06-04T18:06:05.8873051+00:00",
       "NumProgressed": 696,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T10:06:39.8697668+00:00",
+      "NumProgressed": 697,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -209,7 +214,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "11",
@@ -233,7 +238,7 @@
       "Name": "Don\u0027t get ahead on yourself",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "14",
@@ -241,7 +246,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "15",
@@ -465,14 +470,14 @@
       "Name": "Oops, My bad",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 696,
+      "Progressed": 697,
       "Completed": 0
     }
   ],
@@ -480,8 +485,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-06-05T09:05:33.7418258+00:00",
+  "LastChanged_Achievements": "2023-06-05T10:06:39.8697663+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:38.1673021+00:00",
-  "LastUpdate_Ratings": "2023-06-05T08:58:22.5060818+00:00",
-  "LastUpdate_Achievements": "2023-06-05T09:05:33.7418512+00:00"
+  "LastUpdate_Ratings": "2023-06-05T09:58:53.7916577+00:00",
+  "LastUpdate_Achievements": "2023-06-05T10:06:39.8697877+00:00"
 }

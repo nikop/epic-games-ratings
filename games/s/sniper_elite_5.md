@@ -37,9 +37,9 @@ Rating: 4.44 (Ranked 629)
 | Precision Is Key | 4.00% | ~91 |
 | Rigged to Blow | 3.00% | ~68 |
 | My Little Friend | 2.00% | ~45 |
+| It'll Buff Right Out | 2.00% | ~45 |
 | Strategist | 1.00% | ~23 |
 | The Long Game | 1.00% | ~23 |
-| It'll Buff Right Out | 1.00% | ~23 |
 | Locomotion Commotion | 1.00% | ~23 |
 | Road Rage | 1.00% | ~23 |
 | Herr Today, Gone Tomorrow | 1.00% | ~22 |
