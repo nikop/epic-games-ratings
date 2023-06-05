@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.61% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.55% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.95% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -23,8 +23,8 @@
 | 21 | [Remains](games/r/remains.md) | 8.11% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.09% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
 | 26 | [Scorn](games/s/scorn.md) | 6.88% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 28 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -108,7 +108,7 @@
 | 106 | [Train Valley](games/t/train_valley.md) | 0.68% |
 | 107 | [Haven](games/h/haven.md) | 0.66% |
 | 108 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
-| 109 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.63% |
+| 109 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.62% |
 | 110 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 111 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
 | 111 | [Grindstone](games/g/grindstone.md) | 0.51% |
@@ -178,17 +178,17 @@
 | 173 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 177 | [Shop Titans](games/s/shop_titans.md) | 0.07% |
 | 177 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 179 | [House Party](games/h/house_party.md) | 0.06% |
 | 179 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 179 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 181 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 181 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
-| 181 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 184 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 184 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
-| 184 | [High On Life](games/h/high_on_life.md) | 0.04% |
-| 184 | [House Party](games/h/house_party.md) | 0.04% |
-| 184 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
-| 184 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.04% |
+| 182 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 182 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
+| 182 | [Saints Row](games/s/saints_row.md) | 0.05% |
+| 185 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 185 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
+| 185 | [High On Life](games/h/high_on_life.md) | 0.04% |
+| 185 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
+| 185 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.04% |
 | 190 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 190 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 190 | [Old World](games/o/old_world.md) | 0.03% |
@@ -431,4 +431,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,727 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,728 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

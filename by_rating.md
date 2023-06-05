@@ -117,13 +117,13 @@
 | 107 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 98 | 328 |
 | 107 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 493 |
 | 107 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 458 |
-| 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,398 | 22 |
+| 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,415 | 22 |
 | 118 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 346 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 493 |
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,217 | 85 |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 852 | 145 |
 | 118 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 41 | 410 |
-| 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,072 | 74 |
+| 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,080 | 74 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 493 |
 | 118 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 108 | 316 |
 | 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,651 | 111 |
@@ -155,7 +155,7 @@
 | 143 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 493 |
 | 143 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 760 | 150 |
 | 143 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 0 | 493 |
-| 143 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 602 | 168 |
+| 143 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 603 | 168 |
 | 157 | [Aimlabs](games/a/aimlabs.md) | 4.73 | 0 | 493 |
 | 157 | [Haven](games/h/haven.md) | 4.73 | 0 | 493 |
 | 157 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 292 |
@@ -498,7 +498,7 @@
 | 489 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 493 |
 | 489 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 498 | 186 |
 | 489 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.54 | 0 | 493 |
-| 489 | [VALORANT](games/v/valorant.md) | 4.54 | 55,214 | 11 |
+| 489 | [VALORANT](games/v/valorant.md) | 4.54 | 55,358 | 11 |
 | 500 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 493 |
 | 500 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 493 |
 | 500 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,094 | 17 |
@@ -514,7 +514,7 @@
 | 500 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 28 | 456 |
 | 513 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 20 | 489 |
 | 513 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 741 | 152 |
-| 513 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 28,014 | 16 |
+| 513 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 28,057 | 16 |
 | 513 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 482 |
 | 513 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 493 |
 | 513 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 506 | 185 |
@@ -562,7 +562,7 @@
 | 544 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 753 | 151 |
 | 544 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 31 | 443 |
 | 562 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 376 |
-| 562 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 398 | 203 |
+| 562 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 399 | 203 |
 | 562 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,975 | 104 |
 | 562 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 105 | 319 |
 | 562 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 493 |
@@ -769,7 +769,7 @@
 | 762 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 493 |
 | 768 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 493 |
 | 768 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 493 |
-| 768 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,622 | 79 |
+| 768 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,624 | 79 |
 | 768 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 684 | 158 |
 | 768 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 136 | 295 |
 | 768 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.29 | 173 | 277 |
