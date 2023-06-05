@@ -5,11 +5,11 @@ Rating: 4.45 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 27.00% | ~618 |
-| Confirming Suspicions | 22.00% | ~503 |
-| The Kraken Wakes | 17.00% | ~389 |
-| It's Starting to Crack | 15.00% | ~343 |
-| Lord of War | 13.00% | ~297 |
+| Meeting Resistance | 27.00% | ~619 |
+| Confirming Suspicions | 22.00% | ~504 |
+| The Kraken Wakes | 17.00% | ~390 |
+| It's Starting to Crack | 14.00% | ~321 |
+| Lord of War | 13.00% | ~298 |
 | Change the Channel | 12.00% | ~275 |
 | Resourceful | 11.00% | ~252 |
 | Taking it back | 10.00% | ~229 |
@@ -22,15 +22,15 @@ Rating: 4.45 (Ranked 616)
 | Sharpshooter | 7.00% | ~160 |
 | Explosive Efficiency | 7.00% | ~160 |
 | The Kraken Sleeps | 7.00% | ~160 |
-| Liberté | 6.00% | ~137 |
-| Opposing Force | 6.00% | ~137 |
-| Der Geist | 6.00% | ~137 |
-| Climbing the Ladder | 5.00% | ~114 |
-| Fields of Glory | 5.00% | ~114 |
-| Die Nussknacker Sweet! | 5.00% | ~114 |
-| Close Quarters | 5.00% | ~114 |
-| Snake in the Grass | 5.00% | ~114 |
-| Brains of the Operation | 5.00% | ~114 |
+| Liberté | 6.00% | ~138 |
+| Opposing Force | 6.00% | ~138 |
+| Der Geist | 6.00% | ~138 |
+| Fields of Glory | 5.00% | ~115 |
+| Die Nussknacker Sweet! | 5.00% | ~115 |
+| Close Quarters | 5.00% | ~115 |
+| Snake in the Grass | 5.00% | ~115 |
+| Brains of the Operation | 5.00% | ~115 |
+| Climbing the Ladder | 4.00% | ~92 |
 | No Stone Unturned | 4.00% | ~92 |
 | Skirmisher | 4.00% | ~92 |
 | Set Europe Ablaze | 4.00% | ~92 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 616)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,288 (Ranked 147)  
+Progressed: 2,292 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-02 | 2,091 | 2 |
 | 2023-06-03 | 2,182 | 2 |
 | 2023-06-04 | 2,257 | 2 |
-| 2023-06-05 | 2,288 | 2 |
+| 2023-06-05 | 2,292 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10087,
+  "EOS_Progressed": 10088,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -761,6 +761,11 @@
       "Time": "2023-06-05T04:06:46.4945096+00:00",
       "NumProgressed": 10087,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-05T18:05:27.4596978+00:00",
+      "NumProgressed": 10088,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -796,7 +801,7 @@
       "Name": "autopilot",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -892,7 +897,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -932,7 +937,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7767
+      "UsersEstimate": 7768
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1012,7 +1017,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5951
+      "UsersEstimate": 5952
     },
     {
       "ID": "ACH_NIGHT",
@@ -1020,7 +1025,7 @@
       "Name": "night ride",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -1036,7 +1041,7 @@
       "Name": "snorkel",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ACH_ROLL",
@@ -1115,15 +1120,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10087,
+      "Progressed": 10088,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-05T17:07:29.7976639+00:00",
+  "LastChanged_Achievements": "2023-06-05T18:05:27.4596973+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:29.7548602+00:00",
-  "LastUpdate_Ratings": "2023-06-05T16:57:57.4927214+00:00",
-  "LastUpdate_Achievements": "2023-06-05T17:07:29.7977058+00:00"
+  "LastUpdate_Ratings": "2023-06-05T17:57:18.8616996+00:00",
+  "LastUpdate_Achievements": "2023-06-05T18:05:27.4597311+00:00"
 }

@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2705,
+  "EOS_Progressed": 2706,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2310,6 +2310,11 @@
       "Time": "2023-06-05T17:04:35.7898634+00:00",
       "NumProgressed": 2705,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-05T18:03:38.5289206+00:00",
+      "NumProgressed": 2706,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -2327,9 +2332,9 @@
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1109
     },
     {
       "ID": "11",
@@ -2345,7 +2350,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "13",
@@ -2377,7 +2382,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "17",
@@ -2393,7 +2398,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "19",
@@ -2417,7 +2422,7 @@
       "Name": "PROTECTED",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "21",
@@ -2425,7 +2430,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "22",
@@ -2441,15 +2446,15 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "24",
       "SetID": "9p3jgda",
       "Name": "HERE ARE SOME BARE NECESSITIES",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 757
+      "UsersEstimate": 785
     },
     {
       "ID": "3",
@@ -2465,7 +2470,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "5",
@@ -2489,15 +2494,15 @@
       "Name": "MASTER",
       "Percentage": 10,
       "XP": 65,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "8",
       "SetID": "9p3jgda",
       "Name": "ACE TRICKSTER",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 162
     },
     {
       "ID": "9",
@@ -2505,20 +2510,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2705,
+      "Progressed": 2706,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-05T17:04:35.7898627+00:00",
+  "LastChanged_Achievements": "2023-06-05T18:03:38.5289202+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.6683071+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:00:17.4817104+00:00",
-  "LastUpdate_Achievements": "2023-06-05T17:04:35.7898984+00:00"
+  "LastUpdate_Ratings": "2023-06-05T17:58:45.4947267+00:00",
+  "LastUpdate_Achievements": "2023-06-05T18:03:38.5289505+00:00"
 }

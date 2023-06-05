@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -352,7 +352,7 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 909,
+  "EOS_Progressed": 910,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -1122,6 +1122,11 @@
       "Time": "2023-06-05T17:07:50.829453+00:00",
       "NumProgressed": 909,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T18:05:45.5820019+00:00",
+      "NumProgressed": 910,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1147,7 +1152,7 @@
       "ID": "CHEEKI_BREEKI_1",
       "SetID": "bf13m8j",
       "Name": "Cheeki Breeki",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -1189,13 +1194,13 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "EXPERT_1",
       "SetID": "bf13m8j",
       "Name": "Expert",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -1243,7 +1248,7 @@
       "ID": "KORALOV",
       "SetID": "bf13m8j",
       "Name": "Tourist Korallov",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 35,
       "UsersEstimate": 5
     },
@@ -1325,7 +1330,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "RELICTS",
@@ -1365,7 +1370,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "SHOG",
@@ -1420,15 +1425,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 909,
+      "Progressed": 910,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-03T14:00:49.4692031+00:00",
-  "LastChanged_Achievements": "2023-06-05T17:07:50.8294519+00:00",
+  "LastChanged_Achievements": "2023-06-05T18:05:45.5820015+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.2333517+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:01:59.384471+00:00",
-  "LastUpdate_Achievements": "2023-06-05T17:07:50.8294999+00:00"
+  "LastUpdate_Ratings": "2023-06-05T17:59:57.2046761+00:00",
+  "LastUpdate_Achievements": "2023-06-05T18:05:45.5820316+00:00"
 }

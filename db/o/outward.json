@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2804,
+  "EOS_Progressed": 2805,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2179,6 +2179,11 @@
       "Time": "2023-06-05T04:02:39.3806643+00:00",
       "NumProgressed": 2804,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-05T18:02:24.5526968+00:00",
+      "NumProgressed": 2805,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2254,7 +2259,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2406,7 +2411,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "Tapped_22",
@@ -2414,7 +2419,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2446,7 +2451,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -2510,7 +2515,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2525,15 +2530,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2804,
+      "Progressed": 2805,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-05T17:03:31.7644516+00:00",
+  "LastChanged_Achievements": "2023-06-05T18:02:24.5526964+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-05T16:58:26.3486942+00:00",
-  "LastUpdate_Achievements": "2023-06-05T17:03:31.7644967+00:00"
+  "LastUpdate_Ratings": "2023-06-05T17:57:37.0555866+00:00",
+  "LastUpdate_Achievements": "2023-06-05T18:02:24.5527298+00:00"
 }

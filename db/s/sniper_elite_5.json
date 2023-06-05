@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2288,
+  "EOS_Progressed": 2292,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2591,6 +2591,11 @@
       "Time": "2023-06-05T17:07:40.3379414+00:00",
       "NumProgressed": 2288,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T18:05:36.0177396+00:00",
+      "NumProgressed": 2292,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2600,9 +2605,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 92
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -2610,7 +2615,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -2634,7 +2639,7 @@
       "Name": "Opposing Force",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2650,7 +2655,7 @@
       "Name": "Fields of Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -2682,7 +2687,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2770,7 +2775,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2810,7 +2815,7 @@
       "Name": "Lord of War",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2818,7 +2823,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -2834,7 +2839,7 @@
       "Name": "Der Geist",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -2850,7 +2855,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2858,7 +2863,7 @@
       "Name": "Close Quarters",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -2866,7 +2871,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -2912,9 +2917,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 321
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2978,7 +2983,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -3169,13 +3174,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2239,
+      "Progressed": 2243,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2288,
+      "Progressed": 2292,
       "Completed": 2
     }
   ],
@@ -3183,8 +3188,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-05T17:07:40.3379409+00:00",
+  "LastChanged_Achievements": "2023-06-05T18:05:36.0177393+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:02:30.4851142+00:00",
-  "LastUpdate_Achievements": "2023-06-05T17:07:40.3380422+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:00:23.2707329+00:00",
+  "LastUpdate_Achievements": "2023-06-05T18:05:36.017819+00:00"
 }

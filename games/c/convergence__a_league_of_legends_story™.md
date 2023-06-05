@@ -14,13 +14,13 @@
 | Time Flies | 54.00% | ~327 |
 | The Prince in Heels | 53.00% | ~321 |
 | The Harder They Fall | 52.00% | ~315 |
+| Fast Learner | 51.00% | ~309 |
 | Right On Time | 50.00% | ~303 |
-| Fast Learner | 50.00% | ~303 |
-| Immaculate Aim | 49.00% | ~297 |
+| Immaculate Aim | 50.00% | ~303 |
 | Make Up For Lost Time | 48.00% | ~291 |
 | Breaking Down Barriers | 45.00% | ~273 |
 | The Steel Shadow | 41.00% | ~248 |
-| Golem Chaser | 39.00% | ~236 |
+| Golem Chaser | 40.00% | ~242 |
 | The Wicked Twins | 38.00% | ~230 |
 | Like Clockwork | 37.00% | ~224 |
 | The Betrayer | 36.00% | ~218 |
@@ -28,9 +28,9 @@
 | The Loose Cannon | 32.00% | ~194 |
 | Street Style | 31.00% | ~188 |
 | Family Memories | 31.00% | ~188 |
-| Good Neighbor | 30.00% | ~182 |
+| Good Neighbor | 31.00% | ~188 |
+| The Family Fortune | 26.00% | ~158 |
 | The Man Who Shattered Time | 25.00% | ~152 |
-| The Family Fortune | 25.00% | ~152 |
 | Whiz Kid | 24.00% | ~145 |
 | Chaincrawler Explorer | 22.00% | ~133 |
 | Sump Explorer | 22.00% | ~133 |
@@ -40,13 +40,13 @@
 | Factorywood Explorer | 20.00% | ~121 |
 | Theater Explorer | 17.00% | ~103 |
 | Cultivair Explorer | 16.00% | ~97 |
+| Corin Goes Home | 14.00% | ~85 |
 | Entresol Explorer | 14.00% | ~85 |
 | Rungs Was Right | 14.00% | ~85 |
-| Corin Goes Home | 13.00% | ~79 |
 | Sartorialist | 13.00% | ~79 |
 | Clovemary for Remembering | 11.00% | ~67 |
 | Hexlock for Protection | 10.00% | ~61 |
-| Golem Hunter | 9.00% | ~55 |
+| Golem Hunter | 10.00% | ~61 |
 | Wunderkind | 4.00% | ~24 |
 | Fitting In | 4.00% | ~24 |
 | Thinking Two Steps Ahead | 3.00% | ~18 |

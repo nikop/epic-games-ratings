@@ -19,8 +19,8 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 11.00% | ~17 |
 | Sharpened Vessel | 11.00% | ~63 |
 | Jawcrab | 10.00% | ~57 |
+| Feast | 10.00% | ~57 |
 | Host | 9.00% | ~14 |
-| Feast | 9.00% | ~51 |
 | Shapely | 8.00% | ~46 |
 | Jawstag | 8.00% | ~46 |
 | Celebration | 7.00% | ~40 |

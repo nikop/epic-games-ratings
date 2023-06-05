@@ -6,21 +6,21 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,078 |
-| I'll Be Back | 84.00% | ~3,644 |
-| Sorry, I Dropped This | 77.00% | ~3,340 |
-| First Day on the Job | 76.00% | ~3,297 |
+| On My Own Two Feet | 94.00% | ~4,079 |
+| I'll Be Back | 84.00% | ~3,645 |
+| Sorry, I Dropped This | 77.00% | ~3,341 |
+| First Day on the Job | 76.00% | ~3,298 |
 | Butcher's Bill | 54.00% | ~2,343 |
 | P.A.X | 37.00% | ~1,605 |
 | Hey Listen | 36.00% | ~1,562 |
-| OPERATOR | 35.00% | ~1,518 |
+| OPERATOR | 35.00% | ~1,519 |
 | It's Blue Light | 33.00% | ~1,432 |
 | Most Wanted | 26.00% | ~1,128 |
 | Infidel | 23.00% | ~998 |
 | GOLIATH | 21.00% | ~911 |
 | Firebug | 20.00% | ~868 |
-| I Choose You | 17.00% | ~737 |
-| Nothing to Lose | 17.00% | ~737 |
+| I Choose You | 17.00% | ~738 |
+| Nothing to Lose | 17.00% | ~738 |
 | Big Sister | 15.00% | ~651 |
 | Gear Up | 15.00% | ~651 |
 | SENTINEL | 15.00% | ~651 |
@@ -31,18 +31,18 @@ Number of Ratings: 62  (23.09.2022)
 | Who's in Charge Here? | 11.00% | ~477 |
 | Shall Not Pass | 11.00% | ~477 |
 | Right Tool for the Job | 10.00% | ~434 |
-| Raging Drones | 9.00% | ~390 |
-| Overconfident | 9.00% | ~390 |
+| Raging Drones | 9.00% | ~391 |
+| Overconfident | 9.00% | ~391 |
 | Pusher Man | 8.00% | ~347 |
 | Melting Down | 8.00% | ~347 |
 | Squad Chief Helvig | 8.00% | ~347 |
 | No More Marching | 8.00% | ~347 |
 | Is This Real Life? | 8.00% | ~347 |
 | Duty-Bound | 7.00% | ~304 |
-| Follow the White Rabbit | 7.00% | ~304 |
 | Liberation | 7.00% | ~304 |
 | Risk Assessment | 7.00% | ~304 |
 | Sunglasses at Night | 6.00% | ~260 |
+| Follow the White Rabbit | 6.00% | ~260 |
 | Carbon Cat | 6.00% | ~260 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~217 |
 | Man of Steel | 5.00% | ~217 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,338 (Ranked 129)  
+Progressed: 4,339 (Ranked 129)  
 Completed: 13 (0.30%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 13 (0.30%) (Ranked 133)
 | 2023-06-02 | 4,319 | 13 |
 | 2023-06-03 | 4,326 | 13 |
 | 2023-06-04 | 4,332 | 13 |
-| 2023-06-05 | 4,338 | 13 |
+| 2023-06-05 | 4,339 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 462)  
 Sum: 26 (Ranked 470)  

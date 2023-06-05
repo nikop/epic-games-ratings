@@ -40,7 +40,7 @@
 | Meatballs, coming up! | 29.00% | ~21 |
 | A Megapint...? | 29.00% | ~21 |
 | Another one bites the iron | 28.00% | ~20 |
-| Ripe Meat Off The Bone! | 24.00% | ~17 |
+| Ripe Meat Off The Bone! | 25.00% | ~18 |
 | Hovering around | 24.00% | ~17 |
 | You're not so Big anymore, Boi! | 22.00% | ~16 |
 | Your daily dose of Vitamin C. | 22.00% | ~16 |
@@ -51,10 +51,10 @@
 | Slimy... yet satisfying | 15.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~10 |
 | Deal with it | 14.00% | ~10 |
+| You're looking mozzare-hella good! | 11.00% | ~8 |
 | Yeehaw!!! | 11.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~8 |
 | Spoiler alert! | 10.00% | ~7 |
-| You're looking mozzare-hella good! | 10.00% | ~7 |
 | Scrambled Eggs | 10.00% | ~7 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~6 |
 | Timber! | 7.00% | ~5 |

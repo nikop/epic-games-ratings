@@ -4120,9 +4120,9 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89862,
+  "EOS_Progressed": 89866,
   "EOS_Completed": 1917,
-  "EOS_NewPlayers": 734,
+  "EOS_NewPlayers": 731,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8780,6 +8780,11 @@
       "Time": "2023-06-05T17:08:03.7777292+00:00",
       "NumProgressed": 89862,
       "NumCompleted": 1917
+    },
+    {
+      "Time": "2023-06-05T18:05:57.0448134+00:00",
+      "NumProgressed": 89866,
+      "NumCompleted": 1917
     }
   ],
   "TotalAchievements": 493,
@@ -9533,9 +9538,9 @@
       "ID": "objective_completed_1174",
       "SetID": "415jc5c",
       "Name": "Arcane Efforts",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1175",
@@ -9917,9 +9922,9 @@
       "ID": "objective_completed_150",
       "SetID": "cc37lbc",
       "Name": "Periodic Petrification",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_151",
@@ -12734,21 +12739,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56136,
+      "Progressed": 56140,
       "Completed": 2772
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89862,
+      "Progressed": 89866,
       "Completed": 1917
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-05T13:07:15.1307776+00:00",
-  "LastChanged_Achievements": "2023-06-05T17:08:03.7777287+00:00",
+  "LastChanged_Achievements": "2023-06-05T18:05:57.0448129+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-05T16:58:54.8379347+00:00",
-  "LastUpdate_Achievements": "2023-06-05T17:08:03.7806053+00:00"
+  "LastUpdate_Ratings": "2023-06-05T17:57:52.42086+00:00",
+  "LastUpdate_Achievements": "2023-06-05T18:05:57.0472482+00:00"
 }

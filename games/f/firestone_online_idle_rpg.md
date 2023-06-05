@@ -5,12 +5,12 @@ Rating: 3.97 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,215 |
-| World Map | 80.00% | ~1,034 |
-| Temple of Eternals | 56.00% | ~724 |
-| Prestigious | 53.00% | ~685 |
-| Fellowship Power | 40.00% | ~517 |
-| Guild Power | 24.00% | ~310 |
+| Victor | 94.00% | ~1,216 |
+| World Map | 80.00% | ~1,035 |
+| Temple of Eternals | 56.00% | ~725 |
+| Prestigious | 53.00% | ~686 |
+| Fellowship Power | 40.00% | ~518 |
+| Guild Power | 24.00% | ~311 |
 | Prestigious x10 | 21.00% | ~272 |
 | The game is on | 19.00% | ~246 |
 | Exotic Merchant | 17.00% | ~220 |
@@ -28,13 +28,13 @@ Rating: 3.97 (Ranked 905)
 | Superior | 11.00% | ~142 |
 | The Unstoppable | 11.00% | ~142 |
 | Scientist | 9.00% | ~116 |
-| Challenger | 8.00% | ~103 |
-| Daily Quest Completionist | 8.00% | ~103 |
-| Scroll Master | 8.00% | ~103 |
-| The power of Awakening | 8.00% | ~103 |
+| Challenger | 8.00% | ~104 |
+| Daily Quest Completionist | 8.00% | ~104 |
+| The power of Awakening | 8.00% | ~104 |
 | Hunter | 7.00% | ~91 |
 | Mastery | 7.00% | ~91 |
 | Relic Of The Past | 7.00% | ~91 |
+| Scroll Master | 7.00% | ~91 |
 | Doing My Part | 6.00% | ~78 |
 | Frostfire Liberator | 6.00% | ~78 |
 | Moving Up The Ladder | 6.00% | ~78 |
@@ -81,7 +81,7 @@ Rating: 3.97 (Ranked 905)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,293 (Ranked 162)  
+Progressed: 1,294 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1 (0.08%) (Ranked 173)
 | 2023-06-02 | 1,257 | 1 |
 | 2023-06-03 | 1,267 | 1 |
 | 2023-06-04 | 1,285 | 1 |
-| 2023-06-05 | 1,293 | 1 |
+| 2023-06-05 | 1,294 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

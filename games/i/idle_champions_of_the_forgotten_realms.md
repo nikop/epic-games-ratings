@@ -76,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.20% | ~112 |
 | More Than Well Equipped | 0.20% | ~112 |
 | Return to the Tomb | 0.20% | ~112 |
+| Arcane Efforts | 0.20% | ~112 |
 | Heatwave | 0.20% | ~112 |
 | The Dread Domain of Tovag | 0.20% | ~112 |
 | Weak Doesn't Mean Feeble | 0.20% | ~112 |
@@ -94,6 +95,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Bitter End | 0.20% | ~112 |
 | Anchors Aweigh | 0.20% | ~112 |
 | The Forbidden City | 0.20% | ~180 |
+| Periodic Petrification | 0.20% | ~180 |
 | Captured! | 0.20% | ~180 |
 | Home Field Advantage | 0.20% | ~180 |
 | Street War | 0.20% | ~180 |
@@ -237,7 +239,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Demi-god's Defender | 0.10% | ~56 |
 | Well Equipped | 0.10% | ~56 |
 | Friends of the Forest | 0.10% | ~90 |
-| Arcane Efforts | 0.10% | ~56 |
 | To Avernus in a Handbasket | 0.10% | ~56 |
 | Kas the Destroyer | 0.10% | ~56 |
 | Clowning Around | 0.10% | ~56 |
@@ -254,7 +255,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Palace of Heart's Desire | 0.10% | ~56 |
 | The Egg of Nat's Desire | 0.10% | ~56 |
 | Welcome to the Band | 0.10% | ~56 |
-| Periodic Petrification | 0.10% | ~90 |
 | No Good at All | 0.10% | ~90 |
 | Fall From Grace | 0.10% | ~90 |
 | Double Vision | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,862 (Ranked 62)  
+Progressed: 89,866 (Ranked 62)  
 Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,862 | 1,917 |
+| 2023-06-05 | 89,866 | 1,917 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,035 (Ranked 37)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -319,9 +319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4338,
+  "EOS_Progressed": 4339,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -984,6 +984,11 @@
       "Time": "2023-06-05T13:12:13.5751093+00:00",
       "NumProgressed": 4338,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-05T18:02:26.540485+00:00",
+      "NumProgressed": 4339,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -1043,7 +1048,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3644
+      "UsersEstimate": 3645
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1051,7 +1056,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4078
+      "UsersEstimate": 4079
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1059,7 +1064,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1201,9 +1206,9 @@
       "ID": "ID_ACHIEV_27",
       "SetID": "98bke8c",
       "Name": "Follow the White Rabbit",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 260
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -1211,7 +1216,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1227,7 +1232,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -1283,7 +1288,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -1315,7 +1320,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -1323,7 +1328,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -1339,7 +1344,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -1530,15 +1535,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4338,
+      "Progressed": 4339,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-05T17:03:34.1742952+00:00",
+  "LastChanged_Achievements": "2023-06-05T18:02:26.5404846+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:09.2823727+00:00",
-  "LastUpdate_Ratings": "2023-06-05T16:58:47.4948024+00:00",
-  "LastUpdate_Achievements": "2023-06-05T17:03:34.1743734+00:00"
+  "LastUpdate_Ratings": "2023-06-05T17:57:48.2407301+00:00",
+  "LastUpdate_Achievements": "2023-06-05T18:02:26.5405603+00:00"
 }

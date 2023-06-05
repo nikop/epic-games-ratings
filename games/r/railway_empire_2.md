@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~663 |
+| Country Bumpkin | 73.00% | ~664 |
 | A new Journey | 72.00% | ~654 |
 | Departure | 71.00% | ~645 |
 | From X to Y | 70.00% | ~636 |
 | Way of Iron | 69.00% | ~627 |
-| Mystery Tour | 66.00% | ~599 |
-| We brake for nobody | 65.00% | ~590 |
-| Brainstorm | 64.00% | ~581 |
-| Mind the Gap | 63.00% | ~572 |
-| Travel Company | 63.00% | ~572 |
+| Mystery Tour | 66.00% | ~600 |
+| We brake for nobody | 65.00% | ~591 |
+| Brainstorm | 64.00% | ~582 |
+| Mind the Gap | 63.00% | ~573 |
+| Travel Company | 63.00% | ~573 |
 | All around the World | 60.00% | ~545 |
-| Right through the middle | 55.00% | ~499 |
-| Poor Devil | 51.00% | ~463 |
+| Right through the middle | 55.00% | ~500 |
+| Poor Devil | 51.00% | ~464 |
 | Facility Manager | 49.00% | ~445 |
 | Producer | 46.00% | ~418 |
-| Apprentice | 42.00% | ~381 |
+| Apprentice | 42.00% | ~382 |
 | Bridge Builder | 36.00% | ~327 |
 | Stoker | 34.00% | ~309 |
 | Access granted | 33.00% | ~300 |
-| Going once, going twice, sold | 29.00% | ~263 |
-| Full Steam ahead | 28.00% | ~254 |
-| Bull and bear | 26.00% | ~236 |
-| Mole | 24.00% | ~218 |
+| Going once, going twice, sold | 29.00% | ~264 |
+| Full Steam ahead | 28.00% | ~255 |
+| Bull and bear | 27.00% | ~245 |
+| Mole | 25.00% | ~227 |
 | All mine | 23.00% | ~209 |
 | Financial Shark | 23.00% | ~209 |
 | Socializer | 22.00% | ~200 |
@@ -34,7 +34,7 @@
 | Hostile Takeover | 21.00% | ~191 |
 | General Manager | 19.00% | ~173 |
 | Country Life | 19.00% | ~173 |
-| Trailblazer | 18.00% | ~163 |
+| Trailblazer | 18.00% | ~164 |
 | Breaking Ground | 14.00% | ~127 |
 | Traffic Jam | 13.00% | ~118 |
 | Traffic Junction | 13.00% | ~118 |
@@ -43,9 +43,9 @@
 | Networker | 12.00% | ~109 |
 | Resistance is futile | 11.00% | ~100 |
 | Max Power | 8.00% | ~73 |
+| Go West | 7.00% | ~64 |
 | Bold and beautiful | 7.00% | ~64 |
 | Settler | 7.00% | ~64 |
-| Go West | 6.00% | ~54 |
 | Tycoon | 5.00% | ~45 |
 | A new Hope | 4.00% | ~36 |
 | Unstoppable | 2.00% | ~18 |
@@ -60,7 +60,7 @@
 | United States | 0.00% | ~0 |
 | Call of Duty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 908 (Ranked 181)  
+Progressed: 909 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,4 +82,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 725 | 0 |
 | 2023-06-03 | 812 | 0 |
 | 2023-06-04 | 880 | 0 |
-| 2023-06-05 | 908 | 0 |
+| 2023-06-05 | 909 | 0 |

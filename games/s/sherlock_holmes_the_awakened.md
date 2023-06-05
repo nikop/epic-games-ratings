@@ -21,8 +21,8 @@
 | Back In The Saddle | 40.00% | ~150 |
 | No Man Is An Island | 39.00% | ~146 |
 | At Wits' End | 39.00% | ~146 |
+| Bookworm | 36.00% | ~135 |
 | Fhtagn! | 36.00% | ~135 |
-| Bookworm | 35.00% | ~131 |
 | Up In Flames | 35.00% | ~131 |
 | Going Once... | 34.00% | ~127 |
 | Let Me Be Frank | 32.00% | ~120 |

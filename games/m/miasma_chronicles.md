@@ -14,9 +14,9 @@ Rating: 4.35 (Ranked 726)
 | Croaked | 39.00% | ~402 |
 | Limp Richard | 38.00% | ~392 |
 | From Darkness to Light | 37.00% | ~381 |
+| Editor Adept | 35.00% | ~361 |
 | Exorcist | 35.00% | ~361 |
 | Firestarter | 35.00% | ~361 |
-| Editor Adept | 34.00% | ~351 |
 | Giant Killer | 32.00% | ~330 |
 | Sensei | 30.00% | ~309 |
 | The meaning of Kain | 29.00% | ~299 |
@@ -28,8 +28,8 @@ Rating: 4.35 (Ranked 726)
 | Jarhead | 18.00% | ~186 |
 | Infiltrator | 17.00% | ~175 |
 | Pushing Daisy | 17.00% | ~175 |
+| There Can Be Only One! | 17.00% | ~175 |
 | Hold The Line | 16.00% | ~165 |
-| There Can Be Only One! | 16.00% | ~165 |
 | Experienced | 14.00% | ~144 |
 | Newtonian Knockout | 13.00% | ~134 |
 | Endgame | 12.00% | ~124 |
