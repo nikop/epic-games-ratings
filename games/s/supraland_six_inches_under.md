@@ -6,62 +6,62 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,045 |
-| Hit Rock Bottom | 97.00% | ~2,004 |
-| Rocket Launched | 97.00% | ~2,004 |
-| Speed | 97.00% | ~2,004 |
-| High Jump | 96.00% | ~1,983 |
-| Knee bending | 96.00% | ~1,983 |
-| Pickaxe | 94.00% | ~1,942 |
-| Entered Cage Town | 93.00% | ~1,921 |
-| Stone Pickaxe | 93.00% | ~1,921 |
-| Revenge | 93.00% | ~1,921 |
-| Cage Town | 93.00% | ~1,921 |
-| Surprise | 93.00% | ~1,921 |
-| Force Beam | 92.00% | ~1,901 |
-| Magnet | 90.00% | ~1,859 |
-| Industrial Area | 89.00% | ~1,839 |
-| Magnet Repel | 88.00% | ~1,818 |
-| Boomeraxe | 87.00% | ~1,797 |
-| You feel middle classy | 86.00% | ~1,777 |
-| Banking District | 86.00% | ~1,777 |
-| Iron Pickaxe | 86.00% | ~1,777 |
-| Arrested | 85.00% | ~1,756 |
-| Zappy Gun | 85.00% | ~1,756 |
-| Got your own one now | 85.00% | ~1,756 |
-| Mission Unlikely | 85.00% | ~1,756 |
-| Don't draw dicks pls | 84.00% | ~1,735 |
-| Ripped | 84.00% | ~1,735 |
-| Beat the big arena | 82.00% | ~1,694 |
-| Force Cube | 82.00% | ~1,694 |
-| Got Battery | 80.00% | ~1,653 |
-| Guard Distracted | 80.00% | ~1,653 |
-| Translocator | 79.00% | ~1,632 |
-| Inner Peace | 77.00% | ~1,591 |
-| Diamond Pickaxe | 76.00% | ~1,570 |
-| Killed them all | 76.00% | ~1,570 |
-| Trickle Down Economy | 76.00% | ~1,570 |
+| Good Morning | 99.00% | ~2,046 |
+| Hit Rock Bottom | 97.00% | ~2,005 |
+| Rocket Launched | 97.00% | ~2,005 |
+| Speed | 97.00% | ~2,005 |
+| High Jump | 96.00% | ~1,984 |
+| Knee bending | 96.00% | ~1,984 |
+| Pickaxe | 94.00% | ~1,943 |
+| Entered Cage Town | 93.00% | ~1,922 |
+| Stone Pickaxe | 93.00% | ~1,922 |
+| Revenge | 93.00% | ~1,922 |
+| Cage Town | 93.00% | ~1,922 |
+| Surprise | 93.00% | ~1,922 |
+| Force Beam | 92.00% | ~1,902 |
+| Magnet | 90.00% | ~1,860 |
+| Industrial Area | 89.00% | ~1,840 |
+| Magnet Repel | 88.00% | ~1,819 |
+| Boomeraxe | 87.00% | ~1,798 |
+| You feel middle classy | 86.00% | ~1,778 |
+| Banking District | 86.00% | ~1,778 |
+| Iron Pickaxe | 86.00% | ~1,778 |
+| Arrested | 85.00% | ~1,757 |
+| Zappy Gun | 85.00% | ~1,757 |
+| Got your own one now | 85.00% | ~1,757 |
+| Mission Unlikely | 85.00% | ~1,757 |
+| Don't draw dicks pls | 84.00% | ~1,736 |
+| Ripped | 84.00% | ~1,736 |
+| Beat the big arena | 82.00% | ~1,695 |
+| Force Cube | 81.00% | ~1,674 |
+| Got Battery | 80.00% | ~1,654 |
+| Guard Distracted | 80.00% | ~1,654 |
+| Translocator | 79.00% | ~1,633 |
+| Inner Peace | 77.00% | ~1,592 |
+| Diamond Pickaxe | 76.00% | ~1,571 |
+| Killed them all | 76.00% | ~1,571 |
+| Trickle Down Economy | 76.00% | ~1,571 |
 | Win | 75.00% | ~1,550 |
 | Greenhouse | 72.00% | ~1,488 |
-| Played with fire | 70.00% | ~1,446 |
+| Played with fire | 70.00% | ~1,447 |
 | You feel very sorry | 69.00% | ~1,426 |
-| No Match for you | 65.00% | ~1,343 |
-| Bouncy | 61.00% | ~1,260 |
+| No Match for you | 65.00% | ~1,344 |
+| Bouncy | 61.00% | ~1,261 |
 | Plumbster | 60.00% | ~1,240 |
 | Faster | 60.00% | ~1,240 |
 | Much Magic | 57.00% | ~1,178 |
 | Chest Detector | 54.00% | ~1,116 |
-| Flames | 52.00% | ~1,074 |
+| Flames | 52.00% | ~1,075 |
 | Momentum | 45.00% | ~930 |
 | You're unsure if you broke the game or not | 41.00% | ~847 |
 | But wait... ...There's more... | 39.00% | ~806 |
-| So much force | 34.00% | ~702 |
+| So much force | 34.00% | ~703 |
 | You feel fully engaged | 23.00% | ~475 |
 | Too hot | 19.00% | ~393 |
 | All the chests | 13.00% | ~269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,066 (Ranked 151)  
-Completed: 247 (11.96%) (Ranked 12)  
+Progressed: 2,067 (Ranked 151)  
+Completed: 247 (11.95%) (Ranked 12)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 247 (11.96%) (Ranked 12)
 | 2023-06-02 | 2,060 | 246 |
 | 2023-06-03 | 2,065 | 246 |
 | 2023-06-04 | 2,065 | 247 |
-| 2023-06-05 | 2,066 | 247 |
+| 2023-06-05 | 2,067 | 247 |
 ## Awards
 Max (Challenging Puzzles): 98  (Ranked 328)  
 Sum: 98 (Ranked 402)  

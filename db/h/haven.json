@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1222,
+  "EOS_Progressed": 1223,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -703,6 +703,11 @@
       "Time": "2023-06-05T14:07:39.1481435+00:00",
       "NumProgressed": 1222,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-05T15:08:08.7204319+00:00",
+      "NumProgressed": 1223,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -714,7 +719,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "10",
@@ -730,7 +735,7 @@
       "Name": "Strike!",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "12",
@@ -770,7 +775,7 @@
       "Name": "My little pony",
       "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "17",
@@ -778,7 +783,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "18",
@@ -922,7 +927,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "7",
@@ -953,15 +958,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1222,
+      "Progressed": 1223,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-05T14:07:39.1481428+00:00",
+  "LastChanged_Achievements": "2023-06-05T15:08:08.7204311+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.0417129+00:00",
-  "LastUpdate_Ratings": "2023-06-05T14:00:54.5011054+00:00",
-  "LastUpdate_Achievements": "2023-06-05T14:07:39.1481722+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:01:14.8613765+00:00",
+  "LastUpdate_Achievements": "2023-06-05T15:08:08.7204569+00:00"
 }

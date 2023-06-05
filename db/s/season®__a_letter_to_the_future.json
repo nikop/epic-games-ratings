@@ -2,10 +2,10 @@
   "ID": "3428aac705b44d88beb8334780fa33bd",
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
-  "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 175,
+  "Ranking_EOS_Completed": 41,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 956,
+  "EOS_Progressed": 958,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 73,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.77,
+  "EOS_NewPlayers": 75,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 3.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -1006,6 +1006,11 @@
       "Time": "2023-06-05T14:07:18.0318077+00:00",
       "NumProgressed": 956,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-05T15:07:47.7434181+00:00",
+      "NumProgressed": 958,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -1025,7 +1030,7 @@
       "Name": "Deep Listener",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -1033,7 +1038,7 @@
       "Name": "Dream Listener",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -1057,7 +1062,7 @@
       "Name": "Graffiti Artist",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
@@ -1073,7 +1078,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 784
+      "UsersEstimate": 786
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1081,7 +1086,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 784
+      "UsersEstimate": 786
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1105,7 +1110,7 @@
       "Name": "Outside World Seer",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1137,14 +1142,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 956,
+      "Progressed": 958,
       "Completed": 36
     }
   ],
@@ -1152,8 +1157,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-05T14:07:18.0318067+00:00",
+  "LastChanged_Achievements": "2023-06-05T15:07:47.7434175+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:52.9746475+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:59:31.779624+00:00",
-  "LastUpdate_Achievements": "2023-06-05T14:07:18.0318277+00:00"
+  "LastUpdate_Ratings": "2023-06-05T14:59:53.3974267+00:00",
+  "LastUpdate_Achievements": "2023-06-05T15:07:47.7434385+00:00"
 }

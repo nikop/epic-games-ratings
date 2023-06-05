@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2856,
+  "EOS_Progressed": 2858,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1623,6 +1623,11 @@
       "Time": "2023-06-05T13:15:31.3654506+00:00",
       "NumProgressed": 2856,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T15:08:18.2533519+00:00",
+      "NumProgressed": 2858,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1650,7 +1655,7 @@
       "Name": "Look Over There!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "BloodAndIron",
@@ -1730,7 +1735,7 @@
       "Name": "Surgical Excision",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1802,7 +1807,7 @@
       "Name": "Not So Fast...",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "Kills_Bleed",
@@ -1826,7 +1831,7 @@
       "Name": "Executioner",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "Kills_Exterminator",
@@ -1866,7 +1871,7 @@
       "Name": "Purging Spree",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "Kills_Vakir",
@@ -1962,7 +1967,7 @@
       "Name": "Efficient Killer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -1970,7 +1975,7 @@
       "Name": "Bloodless",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1994,7 +1999,7 @@
       "Name": "Just a Scratch",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "NexusCompleted",
@@ -2105,21 +2110,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2856,
+      "Progressed": 2858,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2856,
+      "Progressed": 2858,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-05T14:07:48.8945245+00:00",
+  "LastChanged_Achievements": "2023-06-05T15:08:18.2533517+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:59:35.8296125+00:00",
-  "LastUpdate_Achievements": "2023-06-05T14:07:48.8945905+00:00"
+  "LastUpdate_Ratings": "2023-06-05T14:59:57.558875+00:00",
+  "LastUpdate_Achievements": "2023-06-05T15:08:18.2534196+00:00"
 }

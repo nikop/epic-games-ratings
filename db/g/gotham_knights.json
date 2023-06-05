@@ -1326,10 +1326,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3798,
       "NumberOfAwardsMax": 2296
+    },
+    {
+      "Time": "2023-06-05T15:01:33.8084563+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3800,
+      "NumberOfAwardsMax": 2296
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3798,
+  "NumberOfAwards": 3800,
   "NumberOfAwardsMax": 2296,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1379,7 +1385,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 194
+      "Count": 196
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1394,9 +1400,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63720,
+  "EOS_Progressed": 63721,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 994,
+  "EOS_NewPlayers": 990,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5154,6 +5160,11 @@
       "Time": "2023-06-05T14:07:49.9391394+00:00",
       "NumProgressed": 63720,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-05T15:08:19.1357374+00:00",
+      "NumProgressed": 63721,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 61,
@@ -5547,9 +5558,9 @@
       "ID": "KNIGHTHOOD_2",
       "SetID": "4eo5ebm",
       "Name": "A Worthy Successor",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 319
     },
     {
       "ID": "MYSTERY_01",
@@ -5627,9 +5638,9 @@
       "ID": "SECRET_IDENTITY",
       "SetID": "4eo5ebm",
       "Name": "Solid Alibi",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 446
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -5652,22 +5663,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63720,
+      "Progressed": 63721,
       "Completed": 93
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34000,
+      "Progressed": 34001,
       "Completed": 2644
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-05T13:09:10.4252607+00:00",
-  "LastChanged_Achievements": "2023-06-05T14:07:49.9391388+00:00",
+  "LastChanged": "2023-06-05T15:01:33.8084561+00:00",
+  "LastChanged_Achievements": "2023-06-05T15:08:19.135737+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-05T14:01:16.2433291+00:00",
-  "LastUpdate_Achievements": "2023-06-05T14:07:49.9392415+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:01:33.8084567+00:00",
+  "LastUpdate_Achievements": "2023-06-05T15:08:19.1358247+00:00"
 }

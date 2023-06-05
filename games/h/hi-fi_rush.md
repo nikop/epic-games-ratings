@@ -5,46 +5,46 @@ Rating: 4.89 (Ranked 13)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,206 |
-| Feeling the beat! | 80.00% | ~2,206 |
-| You can pet the cat! | 74.00% | ~2,040 |
-| Who put gears in there? | 68.00% | ~1,875 |
-| Cream of the Crop | 63.00% | ~1,737 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~1,709 |
-| You got this, Peppermint? | 57.00% | ~1,571 |
-| Perfect Parry | 54.00% | ~1,489 |
-| Alright, that felt AWESOME! | 54.00% | ~1,489 |
-| I play my own way! | 50.00% | ~1,378 |
-| This will cost you big time | 47.00% | ~1,296 |
-| Uh, they were broken when I got here | 46.00% | ~1,268 |
-| Z-shielding's got nothing on us! | 45.00% | ~1,241 |
-| Kissing the sky! | 43.00% | ~1,186 |
-| Does that say weakpoint? | 41.00% | ~1,130 |
-| Whoa! There's ANOTHER health bar!? | 40.00% | ~1,103 |
-| The Negotiator | 38.00% | ~1,048 |
-| You must like calling me in, Chai | 33.00% | ~910 |
-| Out in a puff of smoke | 33.00% | ~910 |
-| Headliner | 32.00% | ~882 |
-| Time to pay up! | 30.00% | ~827 |
-| Perfecter Parry-er! | 30.00% | ~827 |
-| Who's the boss now? | 28.00% | ~772 |
-| I have to read these things? | 28.00% | ~772 |
-| I look cool. But I can look COOLER. | 27.00% | ~744 |
-| There's such a thing as TOO helpful | 21.00% | ~579 |
-| That's a lot of junk metal… | 20.00% | ~551 |
-| Beat-hit mania | 18.00% | ~496 |
-| Well that was a rush! | 17.00% | ~469 |
-| I told you I'd be fine, Peppermint! | 17.00% | ~469 |
-| Wanna hear my playlist? | 12.00% | ~331 |
-| Check out my moves! | 12.00% | ~331 |
-| Chip-tuned | 11.00% | ~303 |
-| We're Jammin' | 9.00% | ~248 |
+| Start with a bang! | 80.00% | ~2,210 |
+| Feeling the beat! | 80.00% | ~2,210 |
+| You can pet the cat! | 74.00% | ~2,045 |
+| Who put gears in there? | 68.00% | ~1,879 |
+| Cream of the Crop | 63.00% | ~1,741 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~1,713 |
+| You got this, Peppermint? | 57.00% | ~1,575 |
+| Perfect Parry | 54.00% | ~1,492 |
+| Alright, that felt AWESOME! | 54.00% | ~1,492 |
+| I play my own way! | 50.00% | ~1,382 |
+| This will cost you big time | 47.00% | ~1,299 |
+| Uh, they were broken when I got here | 46.00% | ~1,271 |
+| Z-shielding's got nothing on us! | 45.00% | ~1,243 |
+| Kissing the sky! | 43.00% | ~1,188 |
+| Does that say weakpoint? | 41.00% | ~1,133 |
+| Whoa! There's ANOTHER health bar!? | 40.00% | ~1,105 |
+| The Negotiator | 38.00% | ~1,050 |
+| You must like calling me in, Chai | 33.00% | ~912 |
+| Out in a puff of smoke | 33.00% | ~912 |
+| Headliner | 32.00% | ~884 |
+| Time to pay up! | 30.00% | ~829 |
+| Perfecter Parry-er! | 29.00% | ~801 |
+| Who's the boss now? | 28.00% | ~774 |
+| I have to read these things? | 28.00% | ~774 |
+| I look cool. But I can look COOLER. | 27.00% | ~746 |
+| There's such a thing as TOO helpful | 21.00% | ~580 |
+| That's a lot of junk metal… | 20.00% | ~553 |
+| Beat-hit mania | 18.00% | ~497 |
+| Well that was a rush! | 17.00% | ~470 |
+| I told you I'd be fine, Peppermint! | 17.00% | ~470 |
+| Wanna hear my playlist? | 12.00% | ~332 |
+| Check out my moves! | 12.00% | ~332 |
+| Chip-tuned | 11.00% | ~304 |
+| We're Jammin' | 9.00% | ~249 |
 | I hit things with a guitar really well. | 8.00% | ~221 |
 | I think I found your calling, Macaron | 7.00% | ~193 |
 | I'm not done with you yet | 7.00% | ~193 |
 | First we parry, then we counter | 7.00% | ~193 |
-| I think I deserve some praise, here! | 6.00% | ~165 |
-| You ever parry a volcano? | 6.00% | ~165 |
+| I think I deserve some praise, here! | 6.00% | ~166 |
+| You ever parry a volcano? | 6.00% | ~166 |
 | This is a breeze! | 5.00% | ~138 |
 | Easy Listening | 3.00% | ~83 |
 | Problem solved... wait, what? | 3.00% | ~83 |
@@ -67,8 +67,8 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.30% | ~8 |
 | What a journey it was... | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,757 (Ranked 141)  
-Completed: 4 (0.15%) (Ranked 154)  
+Progressed: 2,763 (Ranked 141)  
+Completed: 4 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,7 +112,7 @@ Completed: 4 (0.15%) (Ranked 154)
 | 2023-06-02 | 2,591 | 4 |
 | 2023-06-03 | 2,658 | 4 |
 | 2023-06-04 | 2,729 | 4 |
-| 2023-06-05 | 2,757 | 4 |
+| 2023-06-05 | 2,763 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

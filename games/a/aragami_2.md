@@ -6,7 +6,7 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~31,339 |
+| Awakening | 93.00% | ~31,680 |
 | First Steps | 81.00% | ~27,592 |
 | Control the Shadows | 68.00% | ~23,164 |
 | Tools of the Trade | 63.00% | ~21,460 |

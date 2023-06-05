@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -470,7 +470,7 @@
   ],
   "EOS_Progressed": 1221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2092,9 +2092,9 @@
       "ID": "achTunnelLength",
       "SetID": "dgl390n",
       "Name": "Louis Favre",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -2108,8 +2108,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-02T16:00:15.751864+00:00",
-  "LastChanged_Achievements": "2023-06-05T14:07:51.9853442+00:00",
+  "LastChanged_Achievements": "2023-06-05T15:08:21.1455018+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:02.3781621+00:00",
-  "LastUpdate_Ratings": "2023-06-05T14:01:03.4179701+00:00",
-  "LastUpdate_Achievements": "2023-06-05T14:07:51.9854148+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:01:25.6986712+00:00",
+  "LastUpdate_Achievements": "2023-06-05T15:08:21.1455512+00:00"
 }

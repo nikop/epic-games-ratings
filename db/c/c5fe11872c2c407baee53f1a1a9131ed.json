@@ -149,9 +149,9 @@
       "ID": "ach_customized",
       "SetID": "5a4225j",
       "Name": "Customize Ship",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_endless_120",
@@ -165,17 +165,17 @@
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 93,
+      "Percentage": 100,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_endless_60",
       "SetID": "5a4225j",
       "Name": "Endless 60 Seconds",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_endless_c_60",
@@ -307,8 +307,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-06-05T14:03:43.2240223+00:00",
+  "LastChanged_Achievements": "2023-06-05T15:04:05.6309798+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:07.5758155+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:56:59.8889484+00:00",
-  "LastUpdate_Achievements": "2023-06-05T14:03:43.2240624+00:00"
+  "LastUpdate_Ratings": "2023-06-05T14:57:14.8617492+00:00",
+  "LastUpdate_Achievements": "2023-06-05T15:04:05.6309993+00:00"
 }

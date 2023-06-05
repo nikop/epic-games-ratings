@@ -9,8 +9,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~1,797 |
 | The Cursed Farmer | 1.00% | ~899 |
 | The Mad Wizard | 0.90% | ~809 |
+| The Court of Storms | 0.90% | ~505 |
 | Beast Intentions | 0.80% | ~719 |
-| The Court of Storms | 0.80% | ~449 |
 | The Ring of Regeneration | 0.70% | ~629 |
 | Beware the Jabberwock | 0.70% | ~393 |
 | Are Ya Chicken? | 0.60% | ~539 |
@@ -20,10 +20,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.50% | ~449 |
 | Coasting to the Finish | 0.50% | ~281 |
 | Quick or Quack | 0.50% | ~281 |
-| Owlbear Necessities | 0.40% | ~224 |
-| Best Thay Ever | 0.40% | ~224 |
-| Checkmate | 0.40% | ~224 |
-| Vecna Out! | 0.40% | ~224 |
+| Owlbear Necessities | 0.40% | ~225 |
+| Best Thay Ever | 0.40% | ~225 |
+| Checkmate | 0.40% | ~225 |
+| Vecna Out! | 0.40% | ~225 |
 | A Persistent Buzzing | 0.40% | ~359 |
 | Terror in the Dark | 0.40% | ~359 |
 | Unearthed Evil | 0.40% | ~359 |
@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.40% | ~359 |
 | Pure Energy | 0.40% | ~359 |
 | Maddening | 0.30% | ~270 |
+| Keep Your Distance | 0.30% | ~168 |
 | Hands Off! | 0.30% | ~168 |
 | Frail Doesn't Mean Broken | 0.30% | ~168 |
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~168 |
@@ -49,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.30% | ~270 |
 | Underdeep Cartography | 0.30% | ~270 |
 | The Templar's Camp | 0.30% | ~270 |
+| Rescue in the Jungle | 0.30% | ~270 |
 | Pros and CONs | 0.20% | ~180 |
 | Tall Tales | 0.20% | ~112 |
 | Nightmare Rats! | 0.20% | ~112 |
@@ -73,11 +75,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 0.20% | ~112 |
 | More Than Well Equipped | 0.20% | ~112 |
 | Return to the Tomb | 0.20% | ~112 |
-| Keep Your Distance | 0.20% | ~112 |
 | Heatwave | 0.20% | ~112 |
 | The Dread Domain of Tovag | 0.20% | ~112 |
 | Weak Doesn't Mean Feeble | 0.20% | ~112 |
 | The Castle of a Thousand Vecnas | 0.20% | ~112 |
+| Clumsy Doesn't Mean Inept | 0.20% | ~112 |
 | The Sanctum of the Sword | 0.20% | ~112 |
 | Kas the Bloody Handed | 0.20% | ~112 |
 | Get Back In The Castle | 0.20% | ~112 |
@@ -146,6 +148,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into The Fire | 0.20% | ~112 |
 | Hearts Aflame | 0.20% | ~112 |
 | Look Out! | 0.20% | ~112 |
+| The Path of Dreams | 0.20% | ~112 |
 | Bad Odds in Avernus | 0.20% | ~112 |
 | The Lost Hollyphant | 0.20% | ~112 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~112 |
@@ -168,7 +171,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Witty Riposting | 0.20% | ~112 |
 | How Far Away is Thay | 0.20% | ~112 |
 | The Haunted Jungle | 0.20% | ~180 |
-| Rescue in the Jungle | 0.20% | ~180 |
 | Upholding the Law | 0.10% | ~90 |
 | Starving in the Jungle | 0.10% | ~90 |
 | Cold as Ice | 0.10% | ~56 |
@@ -235,7 +237,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends of the Forest | 0.10% | ~90 |
 | Arcane Efforts | 0.10% | ~56 |
 | To Avernus in a Handbasket | 0.10% | ~56 |
-| Clumsy Doesn't Mean Inept | 0.10% | ~56 |
 | Kas the Destroyer | 0.10% | ~56 |
 | Clowning Around | 0.10% | ~56 |
 | A Whale of a Time | 0.10% | ~56 |
@@ -395,7 +396,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreamscape | 0.10% | ~56 |
 | Dream Gauntlet | 0.10% | ~56 |
 | Zombie Dreams | 0.10% | ~56 |
-| The Path of Dreams | 0.10% | ~56 |
 | The Path of Redcaps | 0.10% | ~56 |
 | The Path of Trials | 0.10% | ~56 |
 | Zapper Overload | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,851 (Ranked 62)  
+Progressed: 89,856 (Ranked 62)  
 Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,851 | 1,917 |
+| 2023-06-05 | 89,856 | 1,917 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,035 (Ranked 37)  

@@ -1,35 +1,35 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.34 (Ranked 734)  
+Rating: 4.35 (Ranked 726)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~946 |
+| First Blood | 92.00% | ~947 |
 | Ranidaphobia | 74.00% | ~761 |
-| Aspiring Editor | 72.00% | ~740 |
-| Gun for Hire | 66.00% | ~678 |
-| I am the law! | 58.00% | ~596 |
+| Aspiring Editor | 72.00% | ~741 |
+| Gun for Hire | 66.00% | ~679 |
+| I am the law! | 58.00% | ~597 |
 | Lumberjack | 43.00% | ~442 |
 | Croaked | 39.00% | ~401 |
 | Limp Richard | 38.00% | ~391 |
-| From Darkness to Light | 37.00% | ~380 |
+| From Darkness to Light | 37.00% | ~381 |
 | Exorcist | 35.00% | ~360 |
 | Firestarter | 35.00% | ~360 |
 | Editor Adept | 34.00% | ~350 |
 | Giant Killer | 31.00% | ~319 |
-| Sensei | 30.00% | ~308 |
+| Sensei | 30.00% | ~309 |
 | The meaning of Kain | 29.00% | ~298 |
 | Technophobe | 25.00% | ~257 |
-| Recycler | 22.00% | ~226 |
+| Recycler | 23.00% | ~237 |
 | Are you not entertained? | 18.00% | ~185 |
 | Chain Killer | 18.00% | ~185 |
 | Ganglord | 18.00% | ~185 |
 | Jarhead | 18.00% | ~185 |
 | Infiltrator | 17.00% | ~175 |
 | Pushing Daisy | 17.00% | ~175 |
-| Hold The Line | 16.00% | ~164 |
-| There Can Be Only One! | 16.00% | ~164 |
+| Hold The Line | 16.00% | ~165 |
+| There Can Be Only One! | 16.00% | ~165 |
 | Experienced | 14.00% | ~144 |
 | Newtonian Knockout | 13.00% | ~134 |
 | Endgame | 12.00% | ~123 |
@@ -57,7 +57,7 @@ Rating: 4.34 (Ranked 734)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,028 (Ranked 171)  
+Progressed: 1,029 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 967 | 0 |
 | 2023-06-03 | 997 | 0 |
 | 2023-06-04 | 1,019 | 0 |
-| 2023-06-05 | 1,028 | 0 |
+| 2023-06-05 | 1,029 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -85,3 +85,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 4.30 | 0 | 0 |
 | 2023-06-03 | 4.32 | 0 | 0 |
 | 2023-06-04 | 4.34 | 0 | 0 |
+| 2023-06-05 | 4.35 | 0 | 0 |

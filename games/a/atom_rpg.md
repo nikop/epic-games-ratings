@@ -6,9 +6,9 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~898 |
-| Wanderer | 35.00% | ~317 |
-| One HIT wonder | 34.00% | ~308 |
+| Atom Agent | 99.00% | ~899 |
+| Wanderer | 35.00% | ~318 |
+| One HIT wonder | 34.00% | ~309 |
 | One shot, one kill | 28.00% | ~254 |
 | Traveler | 24.00% | ~218 |
 | Explorer | 18.00% | ~163 |
@@ -20,9 +20,9 @@ Number of Ratings: 54  (23.09.2022)
 | Love Guru | 9.00% | ~82 |
 | Savant | 9.00% | ~82 |
 | Not-so-private Eye | 8.00% | ~73 |
-| Bustin' nuts | 7.00% | ~63 |
-| Superhuman | 7.00% | ~63 |
-| The Vitinsky Rifle | 7.00% | ~63 |
+| Bustin' nuts | 7.00% | ~64 |
+| Superhuman | 7.00% | ~64 |
+| The Vitinsky Rifle | 6.00% | ~54 |
 | Protection racket | 5.00% | ~45 |
 | Secret room | 5.00% | ~45 |
 | Indy | 4.00% | ~36 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 907 (Ranked 180)  
+Progressed: 908 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 895 | 0 |
 | 2023-06-03 | 898 | 0 |
 | 2023-06-04 | 906 | 0 |
-| 2023-06-05 | 907 | 0 |
+| 2023-06-05 | 908 | 0 |
 ## Awards
 Max (Character Customization): 48  (Ranked 397)  
 Sum: 48 (Ranked 440)  

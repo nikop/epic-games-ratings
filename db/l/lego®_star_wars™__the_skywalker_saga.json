@@ -2354,7 +2354,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 48493,
+  "EOS_Progressed": 48496,
   "EOS_Completed": 176,
   "EOS_NewPlayers": 752,
   "EOS_NewCompleters": 5,
@@ -6164,6 +6164,11 @@
       "Time": "2023-06-05T14:07:48.5803782+00:00",
       "NumProgressed": 48493,
       "NumCompleted": 176
+    },
+    {
+      "Time": "2023-06-05T15:08:17.9386114+00:00",
+      "NumProgressed": 48496,
+      "NumCompleted": 176
     }
   ],
   "TotalAchievements": 45,
@@ -6199,7 +6204,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 38309
+      "UsersEstimate": 38312
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -6287,7 +6292,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 28611
+      "UsersEstimate": 28613
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -6295,7 +6300,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22307
+      "UsersEstimate": 22308
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -6303,7 +6308,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19397
+      "UsersEstimate": 19398
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -6311,7 +6316,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 22792
+      "UsersEstimate": 22793
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -6319,7 +6324,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 17457
+      "UsersEstimate": 17459
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -6327,7 +6332,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 15033
+      "UsersEstimate": 15034
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -6335,7 +6340,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12608
+      "UsersEstimate": 12609
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -6343,7 +6348,7 @@
       "Name": "The Last Jedi",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 10668
+      "UsersEstimate": 10669
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -6367,7 +6372,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 27641
+      "UsersEstimate": 27643
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -6415,7 +6420,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28126
+      "UsersEstimate": 28128
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -6439,7 +6444,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 47038
+      "UsersEstimate": 47041
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -6455,7 +6460,7 @@
       "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 3879
+      "UsersEstimate": 3880
     },
     {
       "ID": "JEDI_MIND_TRICKS_CANTINA",
@@ -6479,7 +6484,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 34430
+      "UsersEstimate": 34432
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -6495,7 +6500,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 17942
+      "UsersEstimate": 17944
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -6511,7 +6516,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 25701
+      "UsersEstimate": 25703
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -6527,22 +6532,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 34915
+      "UsersEstimate": 34917
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 48493,
+      "Progressed": 48496,
       "Completed": 176
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-05T07:00:28.508317+00:00",
-  "LastChanged_Achievements": "2023-06-05T14:07:48.5803774+00:00",
+  "LastChanged_Achievements": "2023-06-05T15:08:17.9386109+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:05.8451858+00:00",
-  "LastUpdate_Ratings": "2023-06-05T14:02:27.1367134+00:00",
-  "LastUpdate_Achievements": "2023-06-05T14:07:48.5804379+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:02:50.0366296+00:00",
+  "LastUpdate_Achievements": "2023-06-05T15:08:17.9386792+00:00"
 }

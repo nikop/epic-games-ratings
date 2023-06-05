@@ -40,7 +40,7 @@
 | Thrilled Tenants | 15.00% | ~30 |
 | Swimming in Surplus | 14.00% | ~28 |
 | Smooth Operator | 13.00% | ~26 |
-| 28 Days Later | 11.00% | ~22 |
+| 28 Days Later | 12.00% | ~24 |
 | Plaza Plan | 10.00% | ~20 |
 | Master of Puppets | 10.00% | ~20 |
 | First 100 Days | 9.00% | ~18 |

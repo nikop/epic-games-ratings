@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 14.55,
+  "EOS_Completed_Percentage": 14.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1183,6 +1183,11 @@
       "Time": "2023-06-05T10:06:35.015396+00:00",
       "NumProgressed": 268,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-05T15:07:44.6001359+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 22,
@@ -1194,7 +1199,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "LEVEL_002",
@@ -1202,7 +1207,7 @@
       "Name": "A tiny town",
       "Percentage": 84,
       "XP": 35,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "LEVEL_003",
@@ -1210,7 +1215,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "LEVEL_004",
@@ -1218,7 +1223,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "LEVEL_005",
@@ -1226,7 +1231,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "LEVEL_006",
@@ -1242,7 +1247,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_008",
@@ -1266,7 +1271,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEVEL_011",
@@ -1296,9 +1301,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "LEVEL_015",
@@ -1360,16 +1365,16 @@
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 39
     }
   ],
@@ -1377,8 +1382,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-05T14:07:14.8905982+00:00",
+  "LastChanged_Achievements": "2023-06-05T15:07:44.6001353+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:58:34.9763086+00:00",
-  "LastUpdate_Achievements": "2023-06-05T14:07:14.890628+00:00"
+  "LastUpdate_Ratings": "2023-06-05T14:59:02.0936645+00:00",
+  "LastUpdate_Achievements": "2023-06-05T15:07:44.6001587+00:00"
 }

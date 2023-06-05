@@ -12,8 +12,8 @@ Rating: 4.18 (Ranked 840)
 | Paper Jams | 8.00% | ~1,164 |
 | Workplace Hazard | 7.00% | ~1,018 |
 | Reforged | 7.00% | ~1,018 |
+| If the SHU Fits... | 7.00% | ~1,018 |
 | Giving Back | 6.00% | ~873 |
-| If the SHU Fits... | 6.00% | ~873 |
 | Get a Grip | 5.00% | ~727 |
 | Without A Paddle | 5.00% | ~727 |
 | Terminated | 4.00% | ~582 |

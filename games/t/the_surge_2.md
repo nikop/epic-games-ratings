@@ -5,19 +5,19 @@ Rating: 4.24 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,365 |
+| Rigged And Ready | 80.00% | ~1,366 |
 | Don't I Know You...? | 76.00% | ~1,297 |
-| Jailbreak | 65.00% | ~1,109 |
-| Suited and Booted | 38.00% | ~648 |
-| HEADSHOT! | 37.00% | ~631 |
+| Jailbreak | 65.00% | ~1,110 |
+| Suited and Booted | 38.00% | ~649 |
+| HEADSHOT! | 37.00% | ~632 |
 | Sleeping With The Fishes | 35.00% | ~597 |
 | Overheated | 30.00% | ~512 |
 | High Performance | 30.00% | ~512 |
 | Powered Up | 28.00% | ~478 |
-| Studied The Blade | 24.00% | ~409 |
-| Home Invasion | 22.00% | ~375 |
-| Luminary | 22.00% | ~375 |
-| It's a Trap | 22.00% | ~375 |
+| Studied The Blade | 24.00% | ~410 |
+| Home Invasion | 22.00% | ~376 |
+| Luminary | 22.00% | ~376 |
+| It's a Trap | 22.00% | ~376 |
 | True Survivor | 21.00% | ~358 |
 | Court Martial | 19.00% | ~324 |
 | Offensive Defense | 19.00% | ~324 |
@@ -37,8 +37,8 @@ Rating: 4.24 (Ranked 800)
 | Corrupted Beauty | 11.00% | ~188 |
 | Triplets | 10.00% | ~171 |
 | Stimulating The Local Economy | 9.00% | ~154 |
-| Denying Prophecy | 8.00% | ~136 |
-| Defense in Depth | 8.00% | ~136 |
+| Denying Prophecy | 8.00% | ~137 |
+| Defense in Depth | 8.00% | ~137 |
 | A Little Banged Up | 7.00% | ~119 |
 | Reverse Engineering | 7.00% | ~119 |
 | Following In Their Footsteps | 7.00% | ~119 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 800)
 | Three Birds With One Stone | 1.00% | ~17 |
 | The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,706 (Ranked 154)  
+Progressed: 1,707 (Ranked 154)  
 Completed: 10 (0.59%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 10 (0.59%) (Ranked 110)
 | 2023-06-02 | 1,682 | 10 |
 | 2023-06-03 | 1,691 | 10 |
 | 2023-06-04 | 1,702 | 10 |
-| 2023-06-05 | 1,706 | 10 |
+| 2023-06-05 | 1,707 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

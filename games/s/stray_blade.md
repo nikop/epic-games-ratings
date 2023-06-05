@@ -15,6 +15,7 @@
 | Searing Heat | 50.00% | ~1 |
 | Through Dangers Untold | 50.00% | ~1 |
 | Finally! | 50.00% | ~1 |
+| The End | 50.00% | ~1 |
 | Don't Cry Wolf | 50.00% | ~1 |
 | A new World ahead | 50.00% | ~1 |
 | Can't touch this | 50.00% | ~1 |
@@ -44,7 +45,6 @@
 | Pathfinder | 0.00% | ~0 |
 | Globetrotter | 0.00% | ~0 |
 | Welcome to the Club | 0.00% | ~0 |
-| The End | 0.00% | ~0 |
 | The A-Team | 0.00% | ~0 |
 | A Deceiving Gift | 0.00% | ~0 |
 | Unveiling the Truth | 0.00% | ~0 |

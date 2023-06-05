@@ -1019,7 +1019,7 @@
   ],
   "EOS_Progressed": 6139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5155,9 +5155,9 @@
       "ID": "49",
       "SetID": "8idi9ml",
       "Name": "Mentor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1412
     },
     {
       "ID": "5",
@@ -5291,8 +5291,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-05T04:00:59.3034052+00:00",
-  "LastChanged_Achievements": "2023-06-05T14:03:05.7800825+00:00",
+  "LastChanged_Achievements": "2023-06-05T15:03:29.0396301+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-05T14:01:35.1691382+00:00",
-  "LastUpdate_Achievements": "2023-06-05T14:03:05.7801874+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:01:55.5788961+00:00",
+  "LastUpdate_Achievements": "2023-06-05T15:03:29.0397467+00:00"
 }

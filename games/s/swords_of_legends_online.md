@@ -1,7 +1,7 @@
 # Swords of Legends Online
 [Store](https://store.epicgames.com/en-US/p/swords-of-legends-online)  
 [View Rawdata](../../db/s/swords_of_legends_online.json)  
-Rating: 4.29 (Ranked 769)  
+Rating: 4.28 (Ranked 774)  
 Number of Ratings: 262  (23.09.2022)  
 ## Awards
 Max (Character Customization): 173  (Ranked 277)  
@@ -120,3 +120,4 @@ Diff (max vs sum): -20
 | 2023-05-31 | 4.29 | - | 173 | 443 |
 | 2023-06-01 | 4.29 | - | 173 | 444 |
 | 2023-06-02 | 4.29 | - | 173 | 445 |
+| 2023-06-05 | 4.28 | - | 173 | 445 |

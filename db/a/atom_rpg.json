@@ -352,9 +352,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 907,
+  "EOS_Progressed": 908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1112,6 +1112,11 @@
       "Time": "2023-06-05T12:06:14.661588+00:00",
       "NumProgressed": 907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T15:08:12.1699044+00:00",
+      "NumProgressed": 908,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1123,7 +1128,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -1179,7 +1184,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "EXPERT_1",
@@ -1275,7 +1280,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -1371,7 +1376,7 @@
       "Name": "Superhuman",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "TRAVELER_1",
@@ -1385,9 +1390,9 @@
       "ID": "VVE",
       "SetID": "bf13m8j",
       "Name": "The Vitinsky Rifle",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 54
     },
     {
       "ID": "WANDERER_1",
@@ -1395,7 +1400,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "WISHMASTER_1",
@@ -1410,15 +1415,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 907,
+      "Progressed": 908,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-03T14:00:49.4692031+00:00",
-  "LastChanged_Achievements": "2023-06-05T14:07:42.6213989+00:00",
+  "LastChanged_Achievements": "2023-06-05T15:08:12.1699038+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.2333517+00:00",
-  "LastUpdate_Ratings": "2023-06-05T14:01:50.0186983+00:00",
-  "LastUpdate_Achievements": "2023-06-05T14:07:42.6214326+00:00"
+  "LastUpdate_Ratings": "2023-06-05T15:02:09.5337032+00:00",
+  "LastUpdate_Achievements": "2023-06-05T15:08:12.1699384+00:00"
 }

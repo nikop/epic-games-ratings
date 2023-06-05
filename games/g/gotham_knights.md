@@ -37,12 +37,12 @@ Rating: 4.17 (Ranked 846)
 | Gotham City Confidential | 0.80% | ~510 |
 | Out of Their League | 0.70% | ~446 |
 | Drone You Out | 0.70% | ~446 |
-| Solid Alibi | 0.60% | ~382 |
+| Solid Alibi | 0.70% | ~446 |
 | Fusion Expert | 0.50% | ~319 |
 | Expert Crime Fighter | 0.50% | ~319 |
 | Family Meeting | 0.50% | ~319 |
+| A Worthy Successor | 0.50% | ~319 |
 | Dressed to Impress | 0.40% | ~255 |
-| A Worthy Successor | 0.40% | ~255 |
 | A Momentum Occasion | 0.30% | ~191 |
 | Bat Out of Hell | 0.30% | ~191 |
 | Hammer and Icicle | 0.20% | ~68 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 846)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,720 (Ranked 71)  
+Progressed: 63,721 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,17 +113,17 @@ Completed: 93 (0.15%) (Ranked 154)
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
 | 2023-06-04 | 63,645 | 93 |
-| 2023-06-05 | 63,720 | 93 |
+| 2023-06-05 | 63,721 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,296  (Ranked 97)  
-Sum: 3,798 (Ranked 136)  
+Sum: 3,800 (Ranked 136)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,296 |
+| This game is Extremely Fun | 196 |
 | This game has Quickly Understood Controls | 195 |
 | This game is Relaxing | 195 |
-| This game is Extremely Fun | 194 |
 | This game has Amazing Characters | 191 |
 | This game has Diverse Characters | 185 |
 | This game has Amazing Storytelling | 182 |
@@ -237,4 +237,4 @@ Diff (max vs sum): -39
 | 2023-06-02 | 4.17 | 2,275 | 3,773 |
 | 2023-06-03 | 4.17 | 2,283 | 3,783 |
 | 2023-06-04 | 4.17 | 2,291 | 3,793 |
-| 2023-06-05 | 4.17 | 2,296 | 3,798 |
+| 2023-06-05 | 4.17 | 2,296 | 3,800 |

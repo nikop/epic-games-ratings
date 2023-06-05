@@ -2,7 +2,7 @@
   "ID": "cee9bc2ddce74023a7327f7e71d144c6",
   "Name": "Asemblance: Oversight",
   "ProductSlug": "asemblance-oversight",
-  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 92,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:11.3746064+00:00",
   "LastChanged": "2023-03-31T05:58:11.3746065+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:50.4274699+00:00",
-  "LastUpdate_Ratings": "2023-06-05T13:59:24.472424+00:00",
-  "LastUpdate_Achievements": "2023-06-05T14:03:59.9272792+00:00"
+  "LastUpdate_Ratings": "2023-06-05T14:59:47.2084817+00:00",
+  "LastUpdate_Achievements": "2023-06-05T15:04:22.1748346+00:00"
 }
