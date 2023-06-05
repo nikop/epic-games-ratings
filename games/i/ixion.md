@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 443)  
+Rating: 4.57 (Ranked 442)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,12 +23,12 @@ Rating: 4.57 (Ranked 443)
 | Exceeding Capacity | 4.00% | ~98 |
 | Man's Best Friend | 3.00% | ~74 |
 | Power Outage | 3.00% | ~74 |
+| Access Granted | 3.00% | ~74 |
 | Necessary Enhancement | 3.00% | ~74 |
 | Please Make it Stop! | 3.00% | ~74 |
 | Oats | 2.00% | ~49 |
 | Sightseeing | 2.00% | ~49 |
 | In Dolos We Trust | 2.00% | ~49 |
-| Access Granted | 2.00% | ~49 |
 | Convenient Transport | 2.00% | ~49 |
 | BRAWL! | 2.00% | ~49 |
 | All in Good Health | 2.00% | ~49 |

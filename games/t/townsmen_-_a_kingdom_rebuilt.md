@@ -96,17 +96,17 @@ Number of Ratings: 37  (23.09.2022)
 | Governor-elect | 0.30% | ~12 |
 | I've been everywhere IX | 0.30% | ~12 |
 | I've been everywhere X | 0.30% | ~12 |
+| Waterways | 0.30% | ~12 |
 | You shall not pass | 0.30% | ~12 |
 | Malediction | 0.20% | ~8 |
+| Tired by festival | 0.20% | ~8 |
 | Chief Inspector | 0.20% | ~8 |
 | LEGEN… wait for it… DARY | 0.20% | ~8 |
 | War-zone | 0.20% | ~8 |
-| Waterways | 0.20% | ~8 |
 | Good luck miner! | 0.10% | ~4 |
 | Just let it burn! | 0.10% | ~4 |
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
-| Tired by festival | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,163 (Ranked 131)  
 Completed: 3 (0.07%) (Ranked 177)  

@@ -23,7 +23,7 @@
 | Golem Chaser | 40.00% | ~243 |
 | The Wicked Twins | 38.00% | ~231 |
 | Like Clockwork | 37.00% | ~225 |
-| The Betrayer | 36.00% | ~219 |
+| The Betrayer | 37.00% | ~225 |
 | Check Your Pulse | 34.00% | ~206 |
 | The Loose Cannon | 32.00% | ~194 |
 | Street Style | 31.00% | ~188 |

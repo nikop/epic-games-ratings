@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -514,9 +514,9 @@
       "ID": "FAIL_QTE_FIRST_TIME",
       "SetID": "kakdpn",
       "Name": "Totally Intentional",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1504
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -699,8 +699,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-05T21:05:41.9703432+00:00",
+  "LastChanged_Achievements": "2023-06-05T22:06:15.0789404+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:51.2283126+00:00",
-  "LastUpdate_Ratings": "2023-06-05T20:59:18.565322+00:00",
-  "LastUpdate_Achievements": "2023-06-05T21:05:41.9703946+00:00"
+  "LastUpdate_Ratings": "2023-06-05T21:59:33.6920571+00:00",
+  "LastUpdate_Achievements": "2023-06-05T22:06:15.0789568+00:00"
 }

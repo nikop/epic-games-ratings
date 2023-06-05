@@ -6,7 +6,7 @@ Rating: 4.09 (Ranked 876)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 48.00% | ~1,641 |
-| Totally Intentional | 43.00% | ~1,470 |
+| Totally Intentional | 44.00% | ~1,504 |
 | Each Sold Separately | 36.00% | ~1,231 |
 | We're In | 32.00% | ~1,094 |
 | You're Not Naked | 28.00% | ~957 |

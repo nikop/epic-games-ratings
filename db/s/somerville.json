@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1575,
+  "EOS_Progressed": 1576,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
@@ -279,6 +279,11 @@
       "Time": "2023-06-04T13:06:55.3840411+00:00",
       "NumProgressed": 1575,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-05T22:01:04.4240101+00:00",
+      "NumProgressed": 1576,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 11,
@@ -354,7 +359,7 @@
       "Name": "War of the worlds.",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "SomervilleWearyTraveller",
@@ -362,7 +367,7 @@
       "Name": "Admiring the view.",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "SomervilleWorldsBestDad",
@@ -377,7 +382,7 @@
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1575,
+      "Progressed": 1576,
       "Completed": 25
     }
   ],
@@ -385,8 +390,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-06-05T21:00:36.1648647+00:00",
+  "LastChanged_Achievements": "2023-06-05T22:01:04.4240097+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:52.5302386+00:00",
-  "LastUpdate_Ratings": "2023-06-05T20:57:42.2243538+00:00",
-  "LastUpdate_Achievements": "2023-06-05T21:00:36.1648766+00:00"
+  "LastUpdate_Ratings": "2023-06-05T21:57:44.937818+00:00",
+  "LastUpdate_Achievements": "2023-06-05T22:01:04.4240183+00:00"
 }

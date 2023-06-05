@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~34,121 |
-| Get Busy Living | 17.00% | ~22,310 |
-| Samuel Norton | 10.00% | ~13,123 |
-| Spare The Rod | 5.00% | ~6,562 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,249 |
-| Don't Put Me In The Dark | 3.00% | ~3,937 |
-| Wait and Hope | 3.00% | ~3,937 |
-| Iron Bars | 3.00% | ~3,937 |
+| Stone Walls | 26.00% | ~34,127 |
+| Get Busy Living | 17.00% | ~22,314 |
+| Samuel Norton | 10.00% | ~13,126 |
+| Spare The Rod | 5.00% | ~6,563 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,250 |
+| Don't Put Me In The Dark | 3.00% | ~3,938 |
+| Wait and Hope | 3.00% | ~3,938 |
+| Iron Bars | 3.00% | ~3,938 |
 | Throw The Book At Them | 2.00% | ~2,625 |
-| D.B. Cooper | 1.00% | ~1,312 |
-| Reformation | 0.60% | ~787 |
+| D.B. Cooper | 1.00% | ~1,313 |
+| Reformation | 0.60% | ~788 |
 | Crowd Control | 0.50% | ~656 |
 | Freedom | 0.40% | ~525 |
 | Confined | 0.40% | ~525 |
 | It's Not What You Know... | 0.10% | ~131 |
 | ... It's What You Can Prove | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,233 (Ranked 56)  
+Progressed: 131,256 (Ranked 56)  
 Completed: 5 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,10 +69,10 @@ Completed: 5 (0.00%) (Ranked 212)
 | 2023-06-02 | 129,764 | 5 |
 | 2023-06-03 | 130,304 | 5 |
 | 2023-06-04 | 130,847 | 5 |
-| 2023-06-05 | 131,233 | 5 |
+| 2023-06-05 | 131,256 | 5 |
 ## Awards
 Max (Extremely Fun): 433  (Ranked 194)  
-Sum: 3,385 (Ranked 144)  
+Sum: 3,387 (Ranked 144)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -81,7 +81,7 @@ Diff (max vs sum): 50
 | This game is Highly Recommended | 416 |
 | This game has Quickly Understood Controls | 401 |
 | This game is Relaxing | 377 |
-| This game has Diverse Characters | 369 |
+| This game has Diverse Characters | 371 |
 | This game has Amazing Storytelling | 361 |
 | This game has Amazing Characters | 342 |
 | This game has a Creative Community | 267 |
@@ -226,4 +226,4 @@ Diff (max vs sum): 50
 | 2023-06-02 | 4.61 | - | 432 | 3,376 |
 | 2023-06-03 | 4.61 | - | 432 | 3,378 |
 | 2023-06-04 | 4.61 | - | 432 | 3,383 |
-| 2023-06-05 | 4.61 | - | 433 | 3,385 |
+| 2023-06-05 | 4.61 | - | 433 | 3,387 |

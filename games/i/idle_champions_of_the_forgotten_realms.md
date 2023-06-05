@@ -145,6 +145,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.20% | ~180 |
 | The Darkness Runs Deeper | 0.20% | ~180 |
 | Difficult Terrain | 0.20% | ~180 |
+| Madcap Adventures | 0.20% | ~180 |
 | Champions of Waterdeep | 0.20% | ~180 |
 | Dinosaur Racing | 0.20% | ~180 |
 | Elturel Has Fallen | 0.20% | ~180 |
@@ -179,6 +180,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wrecked Flying Fortress | 0.20% | ~112 |
 | Expert Opinion | 0.20% | ~180 |
 | Sunblight | 0.20% | ~112 |
+| The Bleeding Citadel | 0.20% | ~112 |
 | Witty Riposting | 0.20% | ~112 |
 | How Far Away is Thay | 0.20% | ~112 |
 | The Haunted Jungle | 0.20% | ~180 |
@@ -359,7 +361,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dark Doppelgangers | 0.10% | ~90 |
 | Faerûn's Most Wanted | 0.10% | ~56 |
 | Cold & Wet | 0.10% | ~90 |
-| Madcap Adventures | 0.10% | ~90 |
 | Faerûn's Most Neglected | 0.10% | ~56 |
 | Vault of Dragons | 0.10% | ~90 |
 | Vault of Pixies | 0.10% | ~90 |
@@ -444,7 +445,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fortress Assault | 0.10% | ~56 |
 | Hats off to you! | 0.10% | ~56 |
 | It's Cold Out There Every Day | 0.10% | ~56 |
-| The Bleeding Citadel | 0.10% | ~56 |
 | Don't Pick at the Scab | 0.10% | ~56 |
 | Going To Eleven | 0.10% | ~56 |
 | Idyllglen | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,887 (Ranked 62)  
+Progressed: 89,891 (Ranked 62)  
 Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,887 | 1,917 |
+| 2023-06-05 | 89,891 | 1,917 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,035 (Ranked 37)  

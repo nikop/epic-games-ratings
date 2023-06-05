@@ -2,9 +2,9 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 366,
+  "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
       "Time": "2023-06-05T21:00:46.6156748+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T22:02:16.9350065+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -53,9 +58,9 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 57,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -69,7 +74,7 @@
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 43,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -77,9 +82,9 @@
       "ID": "Epic_ChainSaw_1",
       "SetID": "ba1m2fc",
       "Name": "Maimed Bodies",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Epic_Challenger_1",
@@ -157,7 +162,7 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 57,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -181,7 +186,7 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 29,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -213,9 +218,9 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 57,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -229,9 +234,9 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_InnerWorld_1",
@@ -285,7 +290,7 @@
       "ID": "Epic_NinjaSword_1",
       "SetID": "ba1m2fc",
       "Name": "Knife Out",
-      "Percentage": 14,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -317,9 +322,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 57,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_Revenge_1",
@@ -333,15 +338,15 @@
       "ID": "Epic_RocketCat_1",
       "SetID": "ba1m2fc",
       "Name": "Kitty of Mass Destruction",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Epic_RustySickle_1",
       "SetID": "ba1m2fc",
       "Name": "Life Harvest",
-      "Percentage": 14,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -357,9 +362,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 43,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -381,7 +386,7 @@
       "ID": "Epic_SwampPet_1",
       "SetID": "ba1m2fc",
       "Name": "The Indescribable",
-      "Percentage": 14,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -405,9 +410,9 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 43,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -438,13 +443,13 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-05T21:00:46.6156744+00:00",
+  "LastChanged_Achievements": "2023-06-05T22:02:16.9350061+00:00",
   "LastUpdate_AppInfo": "2023-06-01T03:24:11.2191819+00:00",
-  "LastUpdate_Ratings": "2023-06-05T20:56:52.9237249+00:00",
-  "LastUpdate_Achievements": "2023-06-05T21:00:46.6157145+00:00"
+  "LastUpdate_Ratings": "2023-06-05T21:56:54.6734928+00:00",
+  "LastUpdate_Achievements": "2023-06-05T22:02:16.9350375+00:00"
 }

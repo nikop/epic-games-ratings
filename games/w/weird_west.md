@@ -7,8 +7,8 @@ Number of Ratings: 125  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 87.00% | ~1,395 |
-| Self-Improvement | 71.00% | ~1,138 |
-| Perky | 65.00% | ~1,042 |
+| Self-Improvement | 71.00% | ~1,139 |
+| Perky | 65.00% | ~1,043 |
 | Let’s Ride | 60.00% | ~962 |
 | Welcome to the Weird West | 57.00% | ~914 |
 | Dead or Alive | 55.00% | ~882 |
@@ -22,11 +22,11 @@ Number of Ratings: 125  (23.09.2022)
 | Rain of Death | 24.00% | ~385 |
 | The Great Escape | 23.00% | ~369 |
 | That’s All, Folks | 18.00% | ~289 |
-| Winds of War | 16.00% | ~256 |
-| Fallen Star | 15.00% | ~240 |
-| For Balance | 15.00% | ~240 |
-| Here Comes Santa Claus | 15.00% | ~240 |
-| Dog Days | 13.00% | ~208 |
+| Winds of War | 16.00% | ~257 |
+| Fallen Star | 15.00% | ~241 |
+| For Balance | 15.00% | ~241 |
+| Here Comes Santa Claus | 15.00% | ~241 |
+| Dog Days | 13.00% | ~209 |
 | Elusive Prey | 12.00% | ~192 |
 | Out on the Ebb Tide | 12.00% | ~192 |
 | Power Behind the Pulpit | 12.00% | ~192 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.20% | ~3 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,603 (Ranked 156)  
+Progressed: 1,604 (Ranked 156)  
 Completed: 2 (0.12%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2 (0.12%) (Ranked 161)
 | 2023-06-02 | 1,585 | 2 |
 | 2023-06-03 | 1,595 | 2 |
 | 2023-06-04 | 1,596 | 2 |
-| 2023-06-05 | 1,603 | 2 |
+| 2023-06-05 | 1,604 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 468)  
 Sum: 24 (Ranked 474)  

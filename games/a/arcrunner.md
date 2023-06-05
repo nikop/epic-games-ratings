@@ -11,12 +11,12 @@
 | Challenge Accepted | 69.00% | ~62 |
 | Unlocked and Loaded | 64.00% | ~58 |
 | Terminated II | 59.00% | ~53 |
-| Terminated III | 38.00% | ~34 |
+| Terminated III | 39.00% | ~35 |
 | Nanonic II | 36.00% | ~32 |
-| Challenge Mastered | 33.00% | ~30 |
+| Challenge Mastered | 34.00% | ~31 |
 | The City | 27.00% | ~24 |
+| Up Close And Personal | 26.00% | ~23 |
 | Supply Run | 24.00% | ~22 |
-| Up Close And Personal | 24.00% | ~22 |
 | The Bigger They Are | 16.00% | ~14 |
 | Starship Docks | 16.00% | ~14 |
 | Nanonic III | 16.00% | ~14 |
@@ -33,7 +33,7 @@
 | Hard Boiled | 1.00% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 277)  
+Progressed: 90 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

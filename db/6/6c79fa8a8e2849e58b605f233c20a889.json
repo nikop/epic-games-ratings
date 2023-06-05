@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1315,
+  "EOS_Progressed": 1317,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
@@ -1351,6 +1351,11 @@
       "Time": "2023-06-05T21:03:28.7803187+00:00",
       "NumProgressed": 1315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T22:03:48.3196796+00:00",
+      "NumProgressed": 1317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1442,7 +1447,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "GLOVE_SLAP",
@@ -1466,7 +1471,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "GUARD_MAKER",
@@ -1490,15 +1495,15 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "KNIGHT_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Knight Commander",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 40
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -1537,14 +1542,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1315,
+      "Progressed": 1317,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-05T21:03:28.7803182+00:00",
+  "LastChanged_Achievements": "2023-06-05T22:03:48.3196793+00:00",
   "LastUpdate_AppInfo": "2023-05-30T14:57:06.6193969+00:00",
-  "LastUpdate_Ratings": "2023-06-05T20:57:00.9103958+00:00",
-  "LastUpdate_Achievements": "2023-06-05T21:03:28.7803414+00:00"
+  "LastUpdate_Ratings": "2023-06-05T21:57:03.2924244+00:00",
+  "LastUpdate_Achievements": "2023-06-05T22:03:48.3196961+00:00"
 }

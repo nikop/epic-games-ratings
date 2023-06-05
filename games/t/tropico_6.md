@@ -6,48 +6,48 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,602 |
+| Just One...More...Term... | 76.00% | ~2,604 |
 | Un-Lonely Island | 48.00% | ~1,644 |
-| The Beginning of a Servantship | 46.00% | ~1,575 |
-| Trade Is My Trait | 37.00% | ~1,267 |
+| The Beginning of a Servantship | 46.00% | ~1,576 |
+| Trade Is My Trait | 37.00% | ~1,268 |
 | Number 18 | 25.00% | ~856 |
 | We Don't Have Time For That | 20.00% | ~685 |
-| The Governator | 18.00% | ~616 |
+| The Governator | 18.00% | ~617 |
 | Caribbean Comrade | 17.00% | ~582 |
 | The Legend of Langostino | 17.00% | ~582 |
 | The Dreamer of Dreams | 16.00% | ~548 |
 | Happy Ending? | 11.00% | ~377 |
 | Go Sovereigns! | 11.00% | ~377 |
 | For Science! | 11.00% | ~377 |
-| Of Seals And Men | 10.00% | ~342 |
-| Shackadelic | 10.00% | ~342 |
+| Of Seals And Men | 10.00% | ~343 |
+| Shackadelic | 10.00% | ~343 |
 | Double Trouble | 9.00% | ~308 |
 | Firestarter | 8.00% | ~274 |
 | Make Tropico Great Again! | 8.00% | ~274 |
 | French Connection | 8.00% | ~274 |
 | Don't Panic! | 7.00% | ~240 |
-| Computer Says "No" | 6.00% | ~205 |
-| Beware The Betman | 6.00% | ~205 |
-| I Owe You Nothing | 6.00% | ~205 |
-| Watch The World Burn | 6.00% | ~205 |
-| Fairy Tale Come True | 6.00% | ~205 |
+| Computer Says "No" | 6.00% | ~206 |
+| Beware The Betman | 6.00% | ~206 |
+| I Owe You Nothing | 6.00% | ~206 |
+| Watch The World Burn | 6.00% | ~206 |
+| Fairy Tale Come True | 6.00% | ~206 |
 | Viva Tropico! | 5.00% | ~171 |
 | Apocalypso | 4.00% | ~137 |
 | Been there, Done That | 3.00% | ~103 |
 | Narcissist | 3.00% | ~103 |
 | Promising Endeavors | 3.00% | ~103 |
 | The Time For Wonders | 3.00% | ~103 |
-| Chain Gang | 2.00% | ~68 |
-| From Knight to Little Duck | 2.00% | ~68 |
-| One Does Not Simply Stage A Coup | 2.00% | ~68 |
-| Sublime Subliminal Supreme | 2.00% | ~68 |
-| Teamplayer | 2.00% | ~68 |
-| Terraformer | 2.00% | ~68 |
-| Curse of the Mummy | 2.00% | ~68 |
+| Chain Gang | 2.00% | ~69 |
+| From Knight to Little Duck | 2.00% | ~69 |
+| One Does Not Simply Stage A Coup | 2.00% | ~69 |
+| Sublime Subliminal Supreme | 2.00% | ~69 |
+| Teamplayer | 2.00% | ~69 |
+| Terraformer | 2.00% | ~69 |
+| Curse of the Mummy | 2.00% | ~69 |
 | Survivor | 1.00% | ~34 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,424 (Ranked 134)  
+Progressed: 3,426 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 1 (0.03%) (Ranked 190)
 | 2023-06-02 | 3,317 | 1 |
 | 2023-06-03 | 3,366 | 1 |
 | 2023-06-04 | 3,408 | 1 |
-| 2023-06-05 | 3,424 | 1 |
+| 2023-06-05 | 3,426 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 317)  
 Sum: 756 (Ranked 255)  

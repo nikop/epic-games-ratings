@@ -5,21 +5,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ECG | 97.00% | ~63 |
-| Rehearsal | 94.00% | ~61 |
-| Daily Life | 91.00% | ~59 |
-| Assembly Line Work | 86.00% | ~56 |
-| Solitude | 82.00% | ~53 |
-| Pinewood, Here we come! | 74.00% | ~48 |
-| The Van | 66.00% | ~43 |
-| Road-Trip | 60.00% | ~39 |
-| A Musical Pause | 58.00% | ~38 |
+| Rehearsal | 95.00% | ~62 |
+| Daily Life | 92.00% | ~60 |
+| Assembly Line Work | 88.00% | ~57 |
+| Solitude | 83.00% | ~54 |
+| Pinewood, Here we come! | 75.00% | ~49 |
+| The Van | 68.00% | ~44 |
+| Road-Trip | 62.00% | ~40 |
+| A Musical Pause | 60.00% | ~39 |
 | Sound of Noise | 48.00% | ~31 |
-| Briget's | 46.00% | ~30 |
-| Big City Music | 43.00% | ~28 |
+| Briget's | 48.00% | ~31 |
+| Big City Music | 45.00% | ~29 |
 | Love at First Sight | 42.00% | ~27 |
 | First Kiss | 35.00% | ~23 |
 | A Bigger Band | 32.00% | ~21 |
-| Symbiosis | 31.00% | ~20 |
+| Symbiosis | 32.00% | ~21 |
 | Fuel | 28.00% | ~18 |
 | Alone Together | 26.00% | ~17 |
 | Threatening Nature | 25.00% | ~16 |

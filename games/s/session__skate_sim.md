@@ -20,6 +20,7 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 7.00% | ~159 |
 | Finally he zips it | 6.00% | ~136 |
 | That pinch! | 6.00% | ~136 |
+| Tight lipslides | 6.00% | ~136 |
 | Bottom ply killer | 5.00% | ~113 |
 | Fashionista | 5.00% | ~113 |
 | Fulfilled the dream | 5.00% | ~113 |
@@ -27,7 +28,6 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 5.00% | ~113 |
 | Squad goals | 5.00% | ~113 |
 | Sup widdit big dog! | 5.00% | ~113 |
-| Tight lipslides | 5.00% | ~113 |
 | Commence the Hijinx! | 4.00% | ~91 |
 | Cops called! | 4.00% | ~91 |
 | DIY Boss | 4.00% | ~91 |

@@ -14,7 +14,7 @@
 | Brainstorm | 64.00% | ~586 |
 | Mind the Gap | 63.00% | ~576 |
 | Travel Company | 63.00% | ~576 |
-| All around the World | 60.00% | ~549 |
+| All around the World | 61.00% | ~558 |
 | Right through the middle | 55.00% | ~503 |
 | Poor Devil | 51.00% | ~467 |
 | Facility Manager | 50.00% | ~458 |
