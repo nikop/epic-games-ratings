@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1154,9 +1154,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425733,
+  "EOS_Progressed": 425734,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4384,6 +4384,11 @@
       "Time": "2023-06-05T03:11:29.1270007+00:00",
       "NumProgressed": 425733,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-06-05T05:01:38.656629+00:00",
+      "NumProgressed": 425734,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 41,
@@ -4427,7 +4432,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 106433
+      "UsersEstimate": 106434
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -4443,7 +4448,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 106433
+      "UsersEstimate": 106434
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -4475,7 +4480,7 @@
       "Name": "Rot Commander",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 251182
+      "UsersEstimate": 251183
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -4507,7 +4512,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131977
+      "UsersEstimate": 131978
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -4531,7 +4536,7 @@
       "Name": "Between the Eyes",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 195837
+      "UsersEstimate": 195838
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -4563,7 +4568,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404446
+      "UsersEstimate": 404447
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -4587,7 +4592,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 157521
+      "UsersEstimate": 157522
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -4603,7 +4608,7 @@
       "Name": "The Lonely Path",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 106433
+      "UsersEstimate": 106434
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -4611,7 +4616,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340586
+      "UsersEstimate": 340587
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -4675,7 +4680,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 238410
+      "UsersEstimate": 238411
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -4683,7 +4688,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 183065
+      "UsersEstimate": 183066
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -4691,7 +4696,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 144749
+      "UsersEstimate": 144750
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -4707,7 +4712,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131977
+      "UsersEstimate": 131978
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -4722,15 +4727,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425733,
+      "Progressed": 425734,
       "Completed": 504
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-06-01T15:58:24.2194273+00:00",
-  "LastChanged_Achievements": "2023-06-05T04:02:18.6016958+00:00",
+  "LastChanged_Achievements": "2023-06-05T05:01:38.6566282+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.1303854+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:58:50.5903667+00:00",
-  "LastUpdate_Achievements": "2023-06-05T04:02:18.6017515+00:00"
+  "LastUpdate_Ratings": "2023-06-05T04:58:39.9028904+00:00",
+  "LastUpdate_Achievements": "2023-06-05T05:01:38.6566708+00:00"
 }

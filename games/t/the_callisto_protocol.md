@@ -6,8 +6,8 @@ Rating: 4.18 (Ranked 839)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 12.00% | ~1,743 |
-| The Outer Way | 10.00% | ~1,452 |
-| Desperate Times | 10.00% | ~1,452 |
+| The Outer Way | 10.00% | ~1,453 |
+| Desperate Times | 10.00% | ~1,453 |
 | Chew 'Em Up | 8.00% | ~1,162 |
 | Paper Jams | 8.00% | ~1,162 |
 | Reforged | 7.00% | ~1,017 |
@@ -28,10 +28,10 @@ Rating: 4.18 (Ranked 839)
 | What Lies Beneath | 3.00% | ~436 |
 | Power Up | 3.00% | ~436 |
 | Bear Trap | 3.00% | ~74 |
-| I Do Belong Here | 2.00% | ~290 |
-| In Striking Distance | 2.00% | ~290 |
-| Mugshot | 2.00% | ~290 |
-| Full Circle | 2.00% | ~290 |
+| I Do Belong Here | 2.00% | ~291 |
+| In Striking Distance | 2.00% | ~291 |
+| Mugshot | 2.00% | ~291 |
+| Full Circle | 2.00% | ~291 |
 | Big Spender | 2.00% | ~49 |
 | Parole Denied | 1.00% | ~25 |
 | Hoard Mode | 1.00% | ~25 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 839)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,525 (Ranked 103)  
+Progressed: 14,527 (Ranked 103)  
 Completed: 53 (0.36%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 53 (0.36%) (Ranked 121)
 | 2023-06-02 | 14,323 | 53 |
 | 2023-06-03 | 14,412 | 53 |
 | 2023-06-04 | 14,505 | 53 |
-| 2023-06-05 | 14,525 | 53 |
+| 2023-06-05 | 14,527 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 287 (Ranked 328)  

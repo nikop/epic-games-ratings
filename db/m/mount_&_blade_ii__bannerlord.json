@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4575,9 +4575,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 52118,
+  "EOS_Progressed": 52120,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 820,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9090,6 +9090,11 @@
       "Time": "2023-06-05T03:16:47.6793317+00:00",
       "NumProgressed": 52118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T05:06:46.0761796+00:00",
+      "NumProgressed": 52120,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -9181,7 +9186,7 @@
       "Name": "Duelist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4169
+      "UsersEstimate": 4170
     },
     {
       "ID": "Dynasty",
@@ -9189,7 +9194,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4169
+      "UsersEstimate": 4170
     },
     {
       "ID": "Entrepreneur",
@@ -9277,7 +9282,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4169
+      "UsersEstimate": 4170
     },
     {
       "ID": "Jack of All Trades",
@@ -9325,7 +9330,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15635
+      "UsersEstimate": 15636
     },
     {
       "ID": "Lawbringer",
@@ -9333,7 +9338,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 18241
+      "UsersEstimate": 18242
     },
     {
       "ID": "Lawmaker",
@@ -9501,22 +9506,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4169
+      "UsersEstimate": 4170
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 52118,
+      "Progressed": 52120,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-04T18:00:02.5425086+00:00",
-  "LastChanged_Achievements": "2023-06-05T04:07:17.0983432+00:00",
+  "LastChanged_Achievements": "2023-06-05T05:06:46.0761788+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:06.5602034+00:00",
-  "LastUpdate_Ratings": "2023-06-05T04:00:36.6715179+00:00",
-  "LastUpdate_Achievements": "2023-06-05T04:07:17.0984639+00:00"
+  "LastUpdate_Ratings": "2023-06-05T05:00:10.4184204+00:00",
+  "LastUpdate_Achievements": "2023-06-05T05:06:46.076235+00:00"
 }

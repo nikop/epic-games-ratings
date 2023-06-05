@@ -25,6 +25,7 @@
 | Bronze Foundation | 3.00% | ~1 |
 | System Ensign | 3.00% | ~1 |
 | Sectoral Ensign | 3.00% | ~1 |
+| Bronze BBQ | 3.00% | ~1 |
 | Bronze Pest Control | 3.00% | ~1 |
 | Cartridge Hoarder | 3.00% | ~1 |
 | Rambo III | 3.00% | ~1 |
@@ -37,11 +38,13 @@
 | Omicron Theta | 3.00% | ~1 |
 | Omicron Beta | 3.00% | ~1 |
 | No Peace | 3.00% | ~1 |
+| Bird of Prey | 3.00% | ~1 |
 | Food Poisoning | 3.00% | ~1 |
 | Golden Prince of Ball-air | 3.00% | ~1 |
 | Space Surfer | 3.00% | ~1 |
 | Wicked Sick | 3.00% | ~1 |
 | Usurper I | 3.00% | ~1 |
+| Usurper II | 3.00% | ~1 |
 | Unstoppable | 3.00% | ~1 |
 | Flower Power | 3.00% | ~1 |
 | 25Gb HDD | 3.00% | ~1 |
@@ -51,6 +54,7 @@
 | Silver Prince of Ball-air | 3.00% | ~1 |
 | Silver Foundation | 3.00% | ~1 |
 | Sectoral Captain | 3.00% | ~1 |
+| Silver Pest Control | 3.00% | ~1 |
 | Collateral Damage II | 3.00% | ~1 |
 | Merchant Prince II | 3.00% | ~1 |
 | Fighting Fit II | 3.00% | ~1 |
@@ -62,7 +66,6 @@
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |
 | Galactic Ensign | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
-| Bronze BBQ | 0.00% | ~0 |
 | Rambo VI | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |
 | Rambo V | 0.00% | ~0 |
@@ -82,7 +85,6 @@
 | Wrath of the Stars | 0.00% | ~0 |
 | Omicron Major | 0.00% | ~0 |
 | Omicron Gamma | 0.00% | ~0 |
-| Bird of Prey | 0.00% | ~0 |
 | Unbalanced | 0.00% | ~0 |
 | U.N. Squadron I | 0.00% | ~0 |
 | U.N. Squadron II | 0.00% | ~0 |
@@ -103,7 +105,6 @@
 | Godlike | 0.00% | ~0 |
 | Usurper VI | 0.00% | ~0 |
 | Usurper IV | 0.00% | ~0 |
-| Usurper II | 0.00% | ~0 |
 | Rampage | 0.00% | ~0 |
 | Usurper V | 0.00% | ~0 |
 | Usurper III | 0.00% | ~0 |
@@ -122,7 +123,6 @@
 | Galactic Captain | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |
 | Silver BBQ | 0.00% | ~0 |
-| Silver Pest Control | 0.00% | ~0 |
 | Mysterious Skin | 0.00% | ~0 |
 | Beetle | 0.00% | ~0 |
 | Anger Management | 0.00% | ~0 |

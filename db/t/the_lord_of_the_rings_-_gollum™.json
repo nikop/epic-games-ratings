@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 398,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -752,9 +752,9 @@
       "ID": "Chapter8",
       "SetID": "70l3651",
       "Name": "Her Eyes",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "Chapter9",
@@ -959,8 +959,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-05T04:06:42.4374808+00:00",
+  "LastChanged_Achievements": "2023-06-05T05:06:15.4382415+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.3133808+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:58:06.5810319+00:00",
-  "LastUpdate_Achievements": "2023-06-05T04:06:42.4375207+00:00"
+  "LastUpdate_Ratings": "2023-06-05T04:58:03.9808666+00:00",
+  "LastUpdate_Achievements": "2023-06-05T05:06:15.4382669+00:00"
 }

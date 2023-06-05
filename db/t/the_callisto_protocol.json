@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -530,7 +530,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14525,
+  "EOS_Progressed": 14527,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 0,
@@ -2790,6 +2790,11 @@
       "Time": "2023-06-05T04:04:43.1188829+00:00",
       "NumProgressed": 14525,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-05T05:04:30.7067535+00:00",
+      "NumProgressed": 14527,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2865,7 +2870,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -2913,7 +2918,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "KILL_2HEAD",
@@ -2985,7 +2990,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -2993,7 +2998,7 @@
       "Name": "The Outer Way",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3033,7 +3038,7 @@
       "Name": "Desperate Times",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3049,7 +3054,7 @@
       "Name": "Full Circle",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "STORY_TUNNELS",
@@ -3120,13 +3125,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14525,
+      "Progressed": 14527,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2451,
+      "Progressed": 2453,
       "Completed": 29
     }
   ],
@@ -3134,8 +3139,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-05T04:04:43.1188822+00:00",
+  "LastChanged_Achievements": "2023-06-05T05:04:30.7067531+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:58:14.1014174+00:00",
-  "LastUpdate_Achievements": "2023-06-05T04:04:43.1189616+00:00"
+  "LastUpdate_Ratings": "2023-06-05T04:58:10.3357867+00:00",
+  "LastUpdate_Achievements": "2023-06-05T05:04:30.7067894+00:00"
 }

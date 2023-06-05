@@ -8,8 +8,8 @@ Rating: 4.50 (Ranked 544)
 | Good start! | 83.00% | ~325 |
 | Vanquisher of Robots | 74.00% | ~290 |
 | Party | 46.00% | ~180 |
+| Impossible Cube | 44.00% | ~172 |
 | Knowledge is Power | 44.00% | ~172 |
-| Impossible Cube | 43.00% | ~169 |
 | No Mercy | 41.00% | ~161 |
 | The Return of a Rat | 40.00% | ~157 |
 | Through the Darkness | 40.00% | ~157 |

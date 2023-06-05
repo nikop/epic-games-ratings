@@ -21,20 +21,20 @@
 | Breaking Down Barriers | 45.00% | ~272 |
 | The Steel Shadow | 41.00% | ~248 |
 | Golem Chaser | 39.00% | ~236 |
+| The Wicked Twins | 38.00% | ~230 |
 | Like Clockwork | 37.00% | ~223 |
-| The Wicked Twins | 37.00% | ~223 |
 | The Betrayer | 36.00% | ~217 |
 | Check Your Pulse | 33.00% | ~199 |
+| Street Style | 31.00% | ~187 |
 | Family Memories | 31.00% | ~187 |
 | The Loose Cannon | 31.00% | ~187 |
-| Street Style | 30.00% | ~181 |
 | Good Neighbor | 30.00% | ~181 |
 | The Man Who Shattered Time | 25.00% | ~151 |
 | The Family Fortune | 25.00% | ~151 |
 | Whiz Kid | 23.00% | ~139 |
+| Chaincrawler Explorer | 22.00% | ~133 |
 | Sump Explorer | 22.00% | ~133 |
 | Ask Questions Later | 22.00% | ~133 |
-| Chaincrawler Explorer | 21.00% | ~127 |
 | Fairgrounds Explorer | 21.00% | ~127 |
 | Syron for Hope | 21.00% | ~127 |
 | Factorywood Explorer | 20.00% | ~121 |

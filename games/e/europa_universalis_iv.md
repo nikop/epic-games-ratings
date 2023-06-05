@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,522 |
-| That's a Grand Army | 8.00% | ~4,019 |
-| That is mine! | 8.00% | ~4,019 |
-| Victorious! | 8.00% | ~4,019 |
+| Until death do us apart | 9.00% | ~4,523 |
+| That's a Grand Army | 8.00% | ~4,020 |
+| That is mine! | 8.00% | ~4,020 |
+| Victorious! | 8.00% | ~4,020 |
 | Brothers in Arms | 6.00% | ~3,015 |
 | That's a Grand Navy | 6.00% | ~3,015 |
 | Seriously?! | 6.00% | ~3,015 |
-| For the Glory | 5.00% | ~2,512 |
+| For the Glory | 5.00% | ~2,513 |
 | Cold War | 4.00% | ~2,010 |
 | True Catholic | 4.00% | ~2,010 |
-| Defender of the Faith | 3.00% | ~1,507 |
-| It's all about the money | 3.00% | ~1,507 |
-| Respected | 3.00% | ~1,507 |
-| Truly Divine Ruler | 3.00% | ~1,507 |
+| Defender of the Faith | 3.00% | ~1,508 |
+| It's all about the money | 3.00% | ~1,508 |
+| Respected | 3.00% | ~1,508 |
+| Truly Divine Ruler | 3.00% | ~1,508 |
 | Agressive Expander | 2.00% | ~1,005 |
 | Blockader | 2.00% | ~1,005 |
 | Combined Arms | 2.00% | ~1,005 |
@@ -31,24 +31,24 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~1,005 |
 | The Princess is in this Castle | 2.00% | ~1,005 |
 | Total Control | 2.00% | ~1,005 |
-| All That's Thine Shall Be Mine | 1.00% | ~502 |
-| Azur semé de lis or | 1.00% | ~502 |
-| Bright Spark | 1.00% | ~502 |
-| City of Cities | 1.00% | ~502 |
-| Factionalism | 1.00% | ~502 |
-| A Golden Empire | 1.00% | ~502 |
+| All That's Thine Shall Be Mine | 1.00% | ~503 |
+| Azur semé de lis or | 1.00% | ~503 |
+| Bright Spark | 1.00% | ~503 |
+| City of Cities | 1.00% | ~503 |
+| Factionalism | 1.00% | ~503 |
+| A Golden Empire | 1.00% | ~503 |
+| Isn't this the way to India? | 0.90% | ~452 |
 | Market Control | 0.90% | ~452 |
 | The Five Colonies | 0.90% | ~452 |
 | This navy can take it all | 0.90% | ~452 |
 | Down Under | 0.80% | ~402 |
 | The Emperors new clothes | 0.80% | ~402 |
-| Isn't this the way to India? | 0.80% | ~402 |
 | Trustworthy | 0.70% | ~352 |
-| All belongs to Mother Russia | 0.60% | ~301 |
-| At every continent | 0.60% | ~301 |
-| Early-Modern Warfare | 0.60% | ~301 |
-| Electable! | 0.60% | ~301 |
-| Time Bandit | 0.60% | ~301 |
+| All belongs to Mother Russia | 0.60% | ~302 |
+| At every continent | 0.60% | ~302 |
+| Early-Modern Warfare | 0.60% | ~302 |
+| Electable! | 0.60% | ~302 |
+| Time Bandit | 0.60% | ~302 |
 | One Family to Rule them All | 0.50% | ~251 |
 | Populists in Government | 0.50% | ~251 |
 | The pen is mightier than the sword | 0.50% | ~251 |
@@ -82,14 +82,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Vasa or Wettin? | 0.30% | ~151 |
 | Wonderful | 0.30% | ~151 |
 | World Discoverer | 0.30% | ~151 |
-| A Protected Market | 0.20% | ~100 |
-| AAA Credit | 0.20% | ~100 |
-| Fine Financials | 0.20% | ~100 |
-| A Fine Goosestep | 0.20% | ~100 |
-| Imperio español | 0.20% | ~100 |
-| Industrial Powerhouse | 0.20% | ~100 |
-| Magellan’s Voyage | 0.20% | ~100 |
-| We bled for this | 0.20% | ~100 |
+| A Protected Market | 0.20% | ~101 |
+| AAA Credit | 0.20% | ~101 |
+| Fine Financials | 0.20% | ~101 |
+| A Fine Goosestep | 0.20% | ~101 |
+| Imperio español | 0.20% | ~101 |
+| Industrial Powerhouse | 0.20% | ~101 |
+| Magellan’s Voyage | 0.20% | ~101 |
+| We bled for this | 0.20% | ~101 |
 | The 52 Garhs | 0.10% | ~50 |
 | I don't like sand | 0.10% | ~50 |
 | A Blessed Nation | 0.10% | ~50 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,243 (Ranked 78)  
+Progressed: 50,252 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,10 +407,10 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 48,793 | 0 |
 | 2023-06-03 | 49,497 | 0 |
 | 2023-06-04 | 50,194 | 0 |
-| 2023-06-05 | 50,243 | 0 |
+| 2023-06-05 | 50,252 | 0 |
 ## Awards
 Max (Educational): 5,342  (Ranked 61)  
-Sum: 44,146 (Ranked 27)  
+Sum: 44,151 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -419,7 +419,7 @@ Diff (max vs sum): 34
 | This game has Challenging Combat | 5,097 |
 | This game is Extremely Fun | 5,063 |
 | This game has Diverse Characters | 5,031 |
-| This game is Relaxing | 4,953 |
+| This game is Relaxing | 4,958 |
 | This game has Competitive Players | 4,808 |
 | This game has Amazing Storytelling | 4,542 |
 | This game has Amazing Characters | 4,195 |
@@ -566,3 +566,4 @@ Diff (max vs sum): 34
 | 2023-06-02 | 4.68 | - | 5,338 | 44,064 |
 | 2023-06-03 | 4.68 | - | 5,338 | 44,083 |
 | 2023-06-04 | 4.68 | - | 5,342 | 44,146 |
+| 2023-06-05 | 4.68 | - | 5,342 | 44,151 |

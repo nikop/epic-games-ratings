@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 885,
+  "EOS_Progressed": 886,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1156,6 +1156,11 @@
       "Time": "2023-06-05T04:07:11.528707+00:00",
       "NumProgressed": 885,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T05:06:41.1683582+00:00",
+      "NumProgressed": 886,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -1261,9 +1266,9 @@
       "ID": "A12",
       "SetID": "9b7p7eo",
       "Name": "Departure",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 629
     },
     {
       "ID": "A13",
@@ -1279,7 +1284,7 @@
       "Name": "A new Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "A15",
@@ -1303,7 +1308,7 @@
       "Name": "Facility Manager",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "A18",
@@ -1327,7 +1332,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "A21",
@@ -1343,7 +1348,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "A23",
@@ -1391,7 +1396,7 @@
       "Name": "We brake for nobody",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "A29",
@@ -1439,7 +1444,7 @@
       "Name": "Producer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "A35",
@@ -1471,7 +1476,7 @@
       "Name": "Poor Devil",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "A39",
@@ -1503,7 +1508,7 @@
       "Name": "Bridge Builder",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "A43",
@@ -1511,7 +1516,7 @@
       "Name": "Mole",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "A44",
@@ -1535,7 +1540,7 @@
       "Name": "Mystery Tour",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "A47",
@@ -1606,14 +1611,14 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 885,
+      "Progressed": 886,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-05T04:07:11.5287064+00:00",
+  "LastChanged_Achievements": "2023-06-05T05:06:41.1683577+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:58:31.7724949+00:00",
-  "LastUpdate_Achievements": "2023-06-05T04:07:11.5287999+00:00"
+  "LastUpdate_Ratings": "2023-06-05T04:58:22.1845258+00:00",
+  "LastUpdate_Achievements": "2023-06-05T05:06:41.1684008+00:00"
 }

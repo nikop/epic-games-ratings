@@ -2,10 +2,10 @@
   "ID": "13ccc4892e284ddb898df3e3ee56880e",
   "Name": "EBOLA 2",
   "ProductSlug": "ebola-2-b61221",
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209,
+  "EOS_Progressed": 210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -756,6 +756,11 @@
       "Time": "2023-06-04T12:04:19.8876566+00:00",
       "NumProgressed": 209,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T05:04:58.3116609+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -853,9 +858,9 @@
       "ID": "achIce",
       "SetID": "1al1mjg",
       "Name": "Recluse \u2714",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "achMeat",
@@ -887,7 +892,7 @@
       "Name": "Statue \u2714",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achVirus",
@@ -910,14 +915,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 209,
+      "Progressed": 210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-06-05T04:05:16.1731967+00:00",
+  "LastChanged_Achievements": "2023-06-05T05:04:58.3116604+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:10.50477+00:00",
-  "LastUpdate_Ratings": "2023-06-05T03:57:21.3098441+00:00",
-  "LastUpdate_Achievements": "2023-06-05T04:05:16.1732336+00:00"
+  "LastUpdate_Ratings": "2023-06-05T04:57:26.186606+00:00",
+  "LastUpdate_Achievements": "2023-06-05T05:04:58.3116758+00:00"
 }

@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.51 (Ranked 529)  
+Rating: 4.51 (Ranked 528)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.51 (Ranked 529)
 | Become King | 70.00% | ~1,114 |
 | Defeat 25 Frogs | 60.00% | ~955 |
 | Ranged Weapon | 59.00% | ~939 |
-| Collect Monster Parts | 55.00% | ~876 |
+| Collect Monster Parts | 56.00% | ~892 |
 | Two Handed Weapon | 54.00% | ~860 |
 | Defeat 25 Grubs | 51.00% | ~812 |
 | Rescue Redgi's Brothers | 50.00% | ~796 |
@@ -37,7 +37,7 @@ Rating: 4.51 (Ranked 529)
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,592 (Ranked 157)  
-Completed: 6 (0.38%) (Ranked 117)  
+Completed: 6 (0.38%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

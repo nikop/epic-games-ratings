@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 90.00% | ~79 |
-| Bullseye! | 84.00% | ~74 |
-| Graduation! | 78.00% | ~69 |
-| Villfir Forest | 77.00% | ~68 |
-| Right in the kisser! | 64.00% | ~56 |
+| Level Up! | 90.00% | ~80 |
+| Bullseye! | 83.00% | ~74 |
+| Graduation! | 79.00% | ~70 |
+| Villfir Forest | 76.00% | ~68 |
+| Right in the kisser! | 63.00% | ~56 |
 | The Shaman | 52.00% | ~46 |
 | Duscot Steamcity | 51.00% | ~45 |
-| The Penguin | 49.00% | ~43 |
+| The Penguin | 48.00% | ~43 |
 | The Magician | 45.00% | ~40 |
 | The Thrower | 44.00% | ~39 |
-| The Shield | 40.00% | ~35 |
-| The Tunneler | 40.00% | ~35 |
-| Level Up!! | 38.00% | ~33 |
+| The Shield | 39.00% | ~35 |
+| The Tunneler | 39.00% | ~35 |
+| Level Up!! | 37.00% | ~33 |
 | Kill-streak | 36.00% | ~32 |
-| The Bird | 31.00% | ~27 |
+| The Bird | 30.00% | ~27 |
 | Topped up | 27.00% | ~24 |
 | The Idol | 27.00% | ~24 |
 | The Ninja | 27.00% | ~24 |
 | Inferno Ruins | 27.00% | ~24 |
 | Untouchable | 24.00% | ~21 |
 | I'm Rich | 24.00% | ~21 |
-| 1 is all I need | 22.00% | ~19 |
-| The Slime | 22.00% | ~19 |
+| 1 is all I need | 21.00% | ~19 |
+| The Slime | 21.00% | ~19 |
 | The Giant | 20.00% | ~18 |
 | The Flower | 18.00% | ~16 |
 | Out of the Frying Pan... | 18.00% | ~16 |
@@ -34,18 +34,18 @@
 | The Assistant | 15.00% | ~13 |
 | The Ooze | 15.00% | ~13 |
 | Turquoise | 15.00% | ~13 |
-| Ember | 14.00% | ~12 |
-| The Steampunk | 13.00% | ~11 |
-| Verse | 13.00% | ~11 |
+| Ember | 13.00% | ~12 |
+| The Steampunk | 12.00% | ~11 |
+| Verse | 12.00% | ~11 |
 | The Droid | 11.00% | ~10 |
 | Iron | 10.00% | ~9 |
 | Tested | 10.00% | ~9 |
 | The Bomber | 9.00% | ~8 |
 | The Astronaut | 6.00% | ~5 |
-| The Exorcist | 5.00% | ~4 |
-| Analyzed | 5.00% | ~4 |
-| Highway to Hell | 5.00% | ~4 |
-| Anvil | 5.00% | ~4 |
+| The Exorcist | 4.00% | ~4 |
+| Analyzed | 4.00% | ~4 |
+| Highway to Hell | 4.00% | ~4 |
+| Anvil | 4.00% | ~4 |
 | Combo Master | 3.00% | ~3 |
 | Power Overwhelming | 3.00% | ~3 |
 | Mithril | 3.00% | ~3 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 281)  
+Progressed: 89 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 84 | 0 |
 | 2023-06-03 | 87 | 0 |
 | 2023-06-04 | 88 | 0 |
+| 2023-06-05 | 89 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

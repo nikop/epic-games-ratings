@@ -5,17 +5,17 @@ Rating: 4.12 (Ranked 867)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~5,038 |
-| Disposing of the Evidence | 36.00% | ~2,185 |
-| Without a Scratch | 32.00% | ~1,942 |
-| Wreckless Driving | 27.00% | ~1,639 |
-| A Marked Man | 23.00% | ~1,396 |
+| First Day on the Job | 83.00% | ~5,041 |
+| Disposing of the Evidence | 36.00% | ~2,186 |
+| Without a Scratch | 32.00% | ~1,943 |
+| Wreckless Driving | 27.00% | ~1,640 |
+| A Marked Man | 23.00% | ~1,397 |
 | Street Sweeper | 17.00% | ~1,032 |
-| Liberty City Minute | 16.00% | ~971 |
-| Offshore Delivery | 12.00% | ~728 |
+| Liberty City Minute | 16.00% | ~972 |
+| Offshore Delivery | 12.00% | ~729 |
 | Dirty Money | 11.00% | ~668 |
-| By a Mile | 9.00% | ~546 |
-| Right-hand Man | 9.00% | ~546 |
+| By a Mile | 9.00% | ~547 |
+| Right-hand Man | 9.00% | ~547 |
 | Not So Fast | 8.00% | ~486 |
 | A Gift from the King | 6.00% | ~364 |
 | Full Artillery | 4.00% | ~243 |
@@ -32,10 +32,10 @@ Rating: 4.12 (Ranked 867)
 | Man Toyz | 0.90% | ~55 |
 | Wheels Up | 0.80% | ~49 |
 | Furious First Responder | 0.80% | ~49 |
-| Is That All You've Got? | 0.70% | ~42 |
+| Is That All You've Got? | 0.70% | ~43 |
 | King of Liberty City | 0.50% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,070 (Ranked 123)  
+Progressed: 6,073 (Ranked 123)  
 Completed: 31 (0.51%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 31 (0.51%) (Ranked 111)
 | 2023-06-02 | 5,881 | 30 |
 | 2023-06-03 | 5,982 | 30 |
 | 2023-06-04 | 6,059 | 31 |
-| 2023-06-05 | 6,070 | 31 |
+| 2023-06-05 | 6,073 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

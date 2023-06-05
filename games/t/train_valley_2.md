@@ -32,18 +32,18 @@ Number of Ratings: 87  (23.09.2022)
 | The Tortoise | 3.00% | ~22 |
 | Trapiche Emerald | 3.00% | ~2 |
 | Without a lunch break | 3.00% | ~22 |
-| Beginner | 2.00% | ~14 |
-| Bridge builder | 2.00% | ~14 |
-| Engineer | 2.00% | ~14 |
-| Industrial Age | 2.00% | ~14 |
-| Jewelry accuracy | 2.00% | ~14 |
-| Large construction | 2.00% | ~14 |
-| Living it large | 2.00% | ~14 |
-| Overseer | 2.00% | ~14 |
-| Relocation | 2.00% | ~14 |
-| Sabotage | 2.00% | ~14 |
-| Squander | 2.00% | ~14 |
-| Stargazer | 2.00% | ~14 |
+| Beginner | 2.00% | ~15 |
+| Bridge builder | 2.00% | ~15 |
+| Engineer | 2.00% | ~15 |
+| Industrial Age | 2.00% | ~15 |
+| Jewelry accuracy | 2.00% | ~15 |
+| Large construction | 2.00% | ~15 |
+| Living it large | 2.00% | ~15 |
+| Overseer | 2.00% | ~15 |
+| Relocation | 2.00% | ~15 |
+| Sabotage | 2.00% | ~15 |
+| Squander | 2.00% | ~15 |
+| Stargazer | 2.00% | ~15 |
 | Astronomer | 1.00% | ~7 |
 | At the last moment! | 1.00% | ~7 |
 | Electrical Age | 1.00% | ~7 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725 (Ranked 186)  
+Progressed: 726 (Ranked 186)  
 Completed: 1 (0.14%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 1 (0.14%) (Ranked 157)
 | 2023-05-31 | 722 | 1 |
 | 2023-06-02 | 723 | 1 |
 | 2023-06-03 | 725 | 1 |
+| 2023-06-05 | 726 | 1 |
 ## Awards
 Max (Challenging Puzzles): 71  (Ranked 365)  
 Sum: 71 (Ranked 421)  
