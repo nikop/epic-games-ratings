@@ -31,7 +31,7 @@
 | Good Neighbor | 30.00% | ~181 |
 | The Man Who Shattered Time | 25.00% | ~151 |
 | The Family Fortune | 25.00% | ~151 |
-| Whiz Kid | 23.00% | ~139 |
+| Whiz Kid | 24.00% | ~145 |
 | Chaincrawler Explorer | 22.00% | ~133 |
 | Sump Explorer | 22.00% | ~133 |
 | Ask Questions Later | 22.00% | ~133 |

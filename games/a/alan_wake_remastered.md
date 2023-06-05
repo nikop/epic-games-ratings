@@ -6,18 +6,18 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 28.00% | ~14,612 |
+| Follow the Light | 28.00% | ~14,613 |
 | Let There Be Light | 22.00% | ~11,481 |
 | Float Like a Butterfly | 21.00% | ~10,959 |
-| Nordic Walking | 17.00% | ~8,871 |
+| Nordic Walking | 17.00% | ~8,872 |
 | Bright Falls' Finest | 16.00% | ~8,350 |
 | Under a Thin Layer of Skin | 14.00% | ~7,306 |
-| Park Ranger | 12.00% | ~6,262 |
-| Paging Mr. Wake | 12.00% | ~6,262 |
-| Back! Back, I Say! | 11.00% | ~5,740 |
-| Finders Keepers | 11.00% | ~5,740 |
-| Sound and Fury | 10.00% | ~5,218 |
-| Damn Good Cup of Coffee | 10.00% | ~5,218 |
+| Park Ranger | 12.00% | ~6,263 |
+| Paging Mr. Wake | 12.00% | ~6,263 |
+| Back! Back, I Say! | 11.00% | ~5,741 |
+| Finders Keepers | 11.00% | ~5,741 |
+| Sound and Fury | 10.00% | ~5,219 |
+| Damn Good Cup of Coffee | 10.00% | ~5,219 |
 | Wheels Within Wheels | 9.00% | ~4,697 |
 | They're Heeeeeere! | 9.00% | ~4,697 |
 | The Six-Gun Scribe | 9.00% | ~4,697 |
@@ -40,8 +40,8 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 5.00% | ~2,609 |
 | Departure | 5.00% | ~2,609 |
 | Ding! | 5.00% | ~783 |
-| Drink 'Em Both Up | 4.00% | ~2,087 |
-| Hardboiled Writer | 4.00% | ~2,087 |
+| Drink 'Em Both Up | 4.00% | ~2,088 |
+| Hardboiled Writer | 4.00% | ~2,088 |
 | Boob Tube | 3.00% | ~1,566 |
 | Children of the Elder God | 3.00% | ~1,566 |
 | If It Flies, It Burns | 3.00% | ~1,566 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~52 |
 | No Punctuation | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,185 (Ranked 76)  
+Progressed: 52,188 (Ranked 76)  
 Completed: 48 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 48 (0.09%) (Ranked 170)
 | 2023-06-02 | 51,437 | 48 |
 | 2023-06-03 | 51,789 | 48 |
 | 2023-06-04 | 52,120 | 48 |
-| 2023-06-05 | 52,185 | 48 |
+| 2023-06-05 | 52,188 | 48 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

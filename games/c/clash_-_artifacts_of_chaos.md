@@ -14,7 +14,7 @@
 | Your Training Continues | 26.00% | ~21 |
 | Freedom | 24.00% | ~19 |
 | The Pride of Moozhaw | 23.00% | ~18 |
-| Winner | 21.00% | ~17 |
+| Winner | 23.00% | ~18 |
 | Omnia Vincit Amor | 18.00% | ~14 |
 | Stilt House | 14.00% | ~11 |
 | Armor Collector | 11.00% | ~9 |

@@ -40,6 +40,7 @@
 | Pork Chop Express | 3.00% | ~3 |
 | Easy Peasy | 3.00% | ~1 |
 | Fresh Pancake | 2.00% | ~2 |
+| Tomassacred | 2.00% | ~1 |
 | 15 Days | 1.00% | ~1 |
 | Honk Honk | 1.00% | ~1 |
 | I Have The High Ground | 1.00% | ~1 |
@@ -51,7 +52,6 @@
 | Death From Above | 1.00% | ~0 |
 | Heal Me Peas | 1.00% | ~0 |
 | Heart Breaker | 1.00% | ~0 |
-| Tomassacred | 1.00% | ~0 |
 | 30 Days | 0.00% | ~0 |
 | Darkside Survivor | 0.00% | ~0 |
 | Forestside Survivor | 0.00% | ~0 |

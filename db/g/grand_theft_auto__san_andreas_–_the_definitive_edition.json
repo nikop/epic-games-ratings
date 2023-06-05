@@ -362,9 +362,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9565,
+  "EOS_Progressed": 9569,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 781,
+  "EOS_NewPlayers": 780,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3652,6 +3652,11 @@
       "Time": "2023-06-05T05:06:44.4123611+00:00",
       "NumProgressed": 9565,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-05T06:05:55.9882889+00:00",
+      "NumProgressed": 9569,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -3663,7 +3668,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7652
+      "UsersEstimate": 7655
     },
     {
       "ID": "ACH02",
@@ -3711,7 +3716,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "ACH08",
@@ -3719,7 +3724,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4591
+      "UsersEstimate": 4593
     },
     {
       "ID": "ACH09",
@@ -3839,7 +3844,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "ACH24",
@@ -3887,7 +3892,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "ACH30",
@@ -3942,7 +3947,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 9565,
+      "Progressed": 9569,
       "Completed": 17
     }
   ],
@@ -3950,8 +3955,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-04T17:01:19.8705594+00:00",
-  "LastChanged_Achievements": "2023-06-05T05:06:44.4123607+00:00",
+  "LastChanged_Achievements": "2023-06-05T06:05:55.9882884+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.816384+00:00",
-  "LastUpdate_Ratings": "2023-06-05T05:00:45.0316097+00:00",
-  "LastUpdate_Achievements": "2023-06-05T05:06:44.412396+00:00"
+  "LastUpdate_Ratings": "2023-06-05T06:00:05.3683675+00:00",
+  "LastUpdate_Achievements": "2023-06-05T06:05:55.9883336+00:00"
 }

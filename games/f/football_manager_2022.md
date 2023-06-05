@@ -8,10 +8,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | ---- | ---------- | ----- |
 | He's Signed! | 50.00% | ~231,198 |
 | First Victory | 50.00% | ~231,198 |
-| Clean Sheet | 49.00% | ~226,574 |
-| He's Sold! | 47.00% | ~217,326 |
-| I'm The Boss! | 41.00% | ~189,582 |
-| Hat-trick | 41.00% | ~189,582 |
+| Clean Sheet | 49.00% | ~226,575 |
+| He's Sold! | 47.00% | ~217,327 |
+| I'm The Boss! | 41.00% | ~189,583 |
+| Hat-trick | 41.00% | ~189,583 |
 | Thumping | 37.00% | ~171,087 |
 | Scoring Streak | 37.00% | ~171,087 |
 | Unbeatable! | 36.00% | ~166,463 |
@@ -46,12 +46,12 @@ Number of Ratings: 19,160  (23.09.2022)
 | Do The Double | 18.00% | ~83,231 |
 | Top Form | 17.00% | ~78,607 |
 | Cash To Burn | 17.00% | ~78,607 |
-| Beating Expectations | 15.00% | ~69,359 |
-| Overachiever! | 15.00% | ~69,359 |
-| Rushed signing | 15.00% | ~69,359 |
-| Eyes and Ears | 14.00% | ~64,735 |
-| Window Shopping | 14.00% | ~64,735 |
-| Comeback King! | 13.00% | ~60,111 |
+| Beating Expectations | 15.00% | ~69,360 |
+| Overachiever! | 15.00% | ~69,360 |
+| Rushed signing | 15.00% | ~69,360 |
+| Eyes and Ears | 14.00% | ~64,736 |
+| Window Shopping | 14.00% | ~64,736 |
+| Comeback King! | 13.00% | ~60,112 |
 | You're Up! | 12.00% | ~55,488 |
 | Money, Money, Money | 11.00% | ~50,864 |
 | Invincible! | 10.00% | ~46,240 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~462 |
 | Shoestring Budget | 0.10% | ~462 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,396 (Ranked 32)  
+Progressed: 462,397 (Ranked 32)  
 Completed: 18 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 18 (0.00%) (Ranked 212)
 | 2023-06-02 | 462,119 | 18 |
 | 2023-06-03 | 462,252 | 18 |
 | 2023-06-04 | 462,381 | 18 |
-| 2023-06-05 | 462,396 | 18 |
+| 2023-06-05 | 462,397 | 18 |
 ## Awards
 Max (Relaxing): 6,286  (Ranked 51)  
 Sum: 49,603 (Ranked 24)  

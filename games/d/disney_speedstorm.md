@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 52.00% | ~1,404 |
+| ROOKIE | 52.00% | ~1,405 |
 | EXTRA BOOST | 41.00% | ~1,107 |
 | IT MAKES BOOM! | 41.00% | ~1,107 |
 | PRO | 31.00% | ~837 |
@@ -29,7 +29,7 @@
 | FRAMED! | 2.00% | ~54 |
 | PERFECTLY POISED | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,700 (Ranked 142)  
+Progressed: 2,701 (Ranked 142)  
 Completed: 4 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 4 (0.15%) (Ranked 154)
 | 2023-06-02 | 2,678 | 2 |
 | 2023-06-03 | 2,692 | 3 |
 | 2023-06-04 | 2,698 | 4 |
-| 2023-06-05 | 2,700 | 4 |
+| 2023-06-05 | 2,701 | 4 |

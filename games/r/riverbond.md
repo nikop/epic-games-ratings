@@ -6,10 +6,10 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~362,923 |
-| Now You're Talking | 62.00% | ~321,446 |
-| Steel Yourself | 62.00% | ~321,446 |
-| Window Dressing | 50.00% | ~259,231 |
+| First Step | 70.00% | ~362,924 |
+| Now You're Talking | 62.00% | ~321,447 |
+| Steel Yourself | 62.00% | ~321,447 |
+| Window Dressing | 50.00% | ~259,232 |
 | Trigger Happy | 46.00% | ~238,493 |
 | Riverborn | 45.00% | ~233,308 |
 | Starry Eyed | 34.00% | ~176,277 |
@@ -18,7 +18,7 @@ Number of Ratings: 617  (23.09.2022)
 | AAARR! | 23.00% | ~119,246 |
 | Hello Darkness | 23.00% | ~119,246 |
 | Wind At Our Backs | 22.00% | ~114,062 |
-| To the Beat | 20.00% | ~103,692 |
+| To the Beat | 20.00% | ~103,693 |
 | Sunny Shores | 17.00% | ~88,139 |
 | To Victory! | 15.00% | ~77,769 |
 | Sunday Best | 15.00% | ~77,769 |
@@ -42,12 +42,12 @@ Number of Ratings: 617  (23.09.2022)
 | Noble Intentions | 5.00% | ~25,923 |
 | Rising Star | 5.00% | ~25,923 |
 | Slime Slayer | 5.00% | ~25,923 |
-| Privacy, Please! | 4.00% | ~20,738 |
-| Silky Smooth | 4.00% | ~20,738 |
-| Hash It Over | 4.00% | ~20,738 |
-| Biting Tongue | 4.00% | ~20,738 |
-| What a Catch! | 4.00% | ~20,738 |
-| Hit the Spot | 4.00% | ~20,738 |
+| Privacy, Please! | 4.00% | ~20,739 |
+| Silky Smooth | 4.00% | ~20,739 |
+| Hash It Over | 4.00% | ~20,739 |
+| Biting Tongue | 4.00% | ~20,739 |
+| What a Catch! | 4.00% | ~20,739 |
+| Hit the Spot | 4.00% | ~20,739 |
 | Talk the Talk | 3.00% | ~15,554 |
 | Skin in the Game | 3.00% | ~15,554 |
 | Caving In | 3.00% | ~15,554 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,555 |
 | Point Taken | 0.10% | ~518 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518,462 (Ranked 27)  
+Progressed: 518,463 (Ranked 27)  
 Completed: 420 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 420 (0.08%) (Ranked 173)
 | 2023-06-02 | 518,203 | 418 |
 | 2023-06-03 | 518,320 | 418 |
 | 2023-06-04 | 518,447 | 420 |
-| 2023-06-05 | 518,462 | 420 |
+| 2023-06-05 | 518,463 | 420 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

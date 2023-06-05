@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2700,
+  "EOS_Progressed": 2701,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2285,6 +2285,11 @@
       "Time": "2023-06-05T02:24:34.8321614+00:00",
       "NumProgressed": 2700,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-05T06:03:54.1975623+00:00",
+      "NumProgressed": 2701,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -2448,7 +2453,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "6",
@@ -2487,13 +2492,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2700,
+      "Progressed": 2701,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-05T05:04:12.708381+00:00",
+  "LastChanged_Achievements": "2023-06-05T06:03:54.1975617+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.6683071+00:00",
-  "LastUpdate_Ratings": "2023-06-05T04:59:22.7271029+00:00",
-  "LastUpdate_Achievements": "2023-06-05T05:04:12.7084059+00:00"
+  "LastUpdate_Ratings": "2023-06-05T05:58:55.9543557+00:00",
+  "LastUpdate_Achievements": "2023-06-05T06:03:54.1975936+00:00"
 }

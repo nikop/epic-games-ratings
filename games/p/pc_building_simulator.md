@@ -1,42 +1,42 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 279)  
+Rating: 4.66 (Ranked 280)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,685,735 |
-| Easy to forget | 46.00% | ~1,615,496 |
-| Back in the black | 38.00% | ~1,334,540 |
-| That's what I'm talking about | 28.00% | ~983,345 |
-| The Best of Both Worlds | 24.00% | ~842,867 |
-| Get your wings | 20.00% | ~702,389 |
-| Double trouble | 15.00% | ~526,792 |
-| Smashing it | 10.00% | ~351,195 |
-| But can it run Crysis? | 9.00% | ~316,075 |
-| My favourite feature... | 9.00% | ~316,075 |
-| From humble beginnings... | 7.00% | ~245,836 |
-| Customer satisfaction | 7.00% | ~245,836 |
-| Keeping things neat | 4.00% | ~140,478 |
-| Seems you're pretty good at this | 4.00% | ~140,478 |
-| Triple threat | 3.00% | ~105,358 |
-| You rock at this! | 3.00% | ~105,358 |
-| Your music sucks | 3.00% | ~105,358 |
-| Bending over backwards | 3.00% | ~105,358 |
+| You need to plug it in... | 48.00% | ~1,685,744 |
+| Easy to forget | 46.00% | ~1,615,504 |
+| Back in the black | 38.00% | ~1,334,547 |
+| That's what I'm talking about | 28.00% | ~983,350 |
+| The Best of Both Worlds | 24.00% | ~842,872 |
+| Get your wings | 20.00% | ~702,393 |
+| Double trouble | 15.00% | ~526,795 |
+| Smashing it | 10.00% | ~351,197 |
+| But can it run Crysis? | 9.00% | ~316,077 |
+| My favourite feature... | 9.00% | ~316,077 |
+| From humble beginnings... | 7.00% | ~245,838 |
+| Customer satisfaction | 7.00% | ~245,838 |
+| Keeping things neat | 4.00% | ~140,479 |
+| Seems you're pretty good at this | 4.00% | ~140,479 |
+| Triple threat | 3.00% | ~105,359 |
+| You rock at this! | 3.00% | ~105,359 |
+| Your music sucks | 3.00% | ~105,359 |
+| Bending over backwards | 3.00% | ~105,359 |
 | I'm broke, Uncle! | 2.00% | ~70,239 |
 | Maybe you should try something else? | 2.00% | ~70,239 |
 | Taking care of business | 2.00% | ~70,239 |
 | Perfection | 2.00% | ~70,239 |
 | Calling in Sick | 2.00% | ~70,239 |
-| Overvolted | 1.00% | ~35,119 |
-| If you fail the first time... | 1.00% | ~35,119 |
-| Amazonian | 1.00% | ~35,119 |
-| Things are under control | 1.00% | ~35,119 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,119 |
-| Building isn't cheap! | 1.00% | ~35,119 |
-| Majority Shareholder | 1.00% | ~35,119 |
-| Owner | 1.00% | ~35,119 |
+| Overvolted | 1.00% | ~35,120 |
+| If you fail the first time... | 1.00% | ~35,120 |
+| Amazonian | 1.00% | ~35,120 |
+| Things are under control | 1.00% | ~35,120 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,120 |
+| Building isn't cheap! | 1.00% | ~35,120 |
+| Majority Shareholder | 1.00% | ~35,120 |
+| Owner | 1.00% | ~35,120 |
 | Show off | 0.90% | ~31,608 |
 | Work ethic 101 | 0.60% | ~21,072 |
 | Building momentum | 0.60% | ~21,072 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,512 |
 | Treat yourself - GPU | 0.10% | ~3,512 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,511,947 (Ranked 4)  
+Progressed: 3,511,966 (Ranked 4)  
 Completed: 23 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,14 +105,14 @@ Completed: 23 (0.00%) (Ranked 212)
 | 2023-06-02 | 3,510,269 | 23 |
 | 2023-06-03 | 3,511,067 | 23 |
 | 2023-06-04 | 3,511,819 | 23 |
-| 2023-06-05 | 3,511,947 | 23 |
+| 2023-06-05 | 3,511,966 | 23 |
 ## Awards
-Max (Great for Beginners): 1,045  (Ranked 134)  
-Sum: 7,795 (Ranked 95)  
+Max (Great for Beginners): 1,046  (Ranked 134)  
+Sum: 7,796 (Ranked 95)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,045 |
+| This game is Great for Beginners | 1,046 |
 | This game is Relaxing | 968 |
 | This game is Educational | 965 |
 | This game is Extremely Fun | 960 |
@@ -244,3 +244,4 @@ Diff (max vs sum): 39
 | 2023-06-02 | 4.66 | - | 1,045 | 7,789 |
 | 2023-06-03 | 4.66 | - | 1,045 | 7,791 |
 | 2023-06-04 | 4.66 | - | 1,045 | 7,795 |
+| 2023-06-05 | 4.66 | - | 1,046 | 7,796 |

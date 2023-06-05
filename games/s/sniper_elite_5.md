@@ -5,16 +5,16 @@ Rating: 4.44 (Ranked 629)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 27.00% | ~610 |
+| Meeting Resistance | 27.00% | ~611 |
 | Confirming Suspicions | 21.00% | ~475 |
-| The Kraken Wakes | 17.00% | ~384 |
+| The Kraken Wakes | 17.00% | ~385 |
 | It's Starting to Crack | 14.00% | ~317 |
 | Lord of War | 13.00% | ~294 |
 | Change the Channel | 12.00% | ~271 |
 | Resourceful | 11.00% | ~249 |
 | Taking it back | 10.00% | ~226 |
-| Organ Grinder | 9.00% | ~203 |
-| As Quiet as a Mouse | 9.00% | ~203 |
+| Organ Grinder | 9.00% | ~204 |
+| As Quiet as a Mouse | 9.00% | ~204 |
 | Target America | 8.00% | ~181 |
 | Enemy at the Gates | 7.00% | ~158 |
 | Just a Flesh Wound | 7.00% | ~158 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 629)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,261 (Ranked 148)  
+Progressed: 2,262 (Ranked 148)  
 Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-02 | 2,091 | 2 |
 | 2023-06-03 | 2,182 | 2 |
 | 2023-06-04 | 2,257 | 2 |
-| 2023-06-05 | 2,261 | 2 |
+| 2023-06-05 | 2,262 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

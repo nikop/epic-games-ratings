@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2261,
+  "EOS_Progressed": 2262,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2530,6 +2530,11 @@
       "Time": "2023-06-05T03:16:33.4420868+00:00",
       "NumProgressed": 2261,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T06:05:43.2961012+00:00",
+      "NumProgressed": 2262,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2605,7 +2610,7 @@
       "Name": "Organ Grinder",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2621,7 +2626,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2781,7 +2786,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -2789,7 +2794,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3108,13 +3113,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2212,
+      "Progressed": 2213,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2261,
+      "Progressed": 2262,
       "Completed": 2
     }
   ],
@@ -3122,8 +3127,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-05T05:06:29.038304+00:00",
+  "LastChanged_Achievements": "2023-06-05T06:05:43.2961005+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-05T05:01:05.3121857+00:00",
-  "LastUpdate_Achievements": "2023-06-05T05:06:29.0383681+00:00"
+  "LastUpdate_Ratings": "2023-06-05T06:00:19.1865367+00:00",
+  "LastUpdate_Achievements": "2023-06-05T06:05:43.2961799+00:00"
 }

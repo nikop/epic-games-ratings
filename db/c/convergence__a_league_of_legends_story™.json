@@ -1110,9 +1110,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 145
     },
     {
       "ID": "GrindingTime1",
@@ -1389,8 +1389,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-05T05:05:43.718445+00:00",
+  "LastChanged_Achievements": "2023-06-05T06:05:05.9400037+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-05T04:59:52.0623342+00:00",
-  "LastUpdate_Achievements": "2023-06-05T05:05:43.7184873+00:00"
+  "LastUpdate_Ratings": "2023-06-05T05:59:19.8790059+00:00",
+  "LastUpdate_Achievements": "2023-06-05T06:05:05.9400602+00:00"
 }

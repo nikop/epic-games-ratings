@@ -27,10 +27,10 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 7.00% | ~40 |
 | Watcher | 7.00% | ~40 |
 | Predator | 7.00% | ~40 |
+| Dream | 7.00% | ~11 |
 | Assimilation | 6.00% | ~34 |
-| Dream | 6.00% | ~9 |
+| Artisan | 6.00% | ~34 |
 | Hunt Down | 5.00% | ~29 |
-| Artisan | 5.00% | ~29 |
 | Hush | 5.00% | ~29 |
 | All-Seeing | 5.00% | ~29 |
 | Passage | 5.00% | ~29 |

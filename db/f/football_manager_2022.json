@@ -4853,9 +4853,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 462396,
+  "EOS_Progressed": 462397,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 764,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9328,6 +9328,11 @@
       "Time": "2023-06-05T04:07:20.8249427+00:00",
       "NumProgressed": 462396,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-05T06:06:00.6029357+00:00",
+      "NumProgressed": 462397,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 98,
@@ -9483,7 +9488,7 @@
       "Name": "Beating Expectations",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69359
+      "UsersEstimate": 69360
     },
     {
       "ID": "achievement_big_win",
@@ -9523,7 +9528,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 226574
+      "UsersEstimate": 226575
     },
     {
       "ID": "achievement_club_world_cup",
@@ -9563,7 +9568,7 @@
       "Name": "Eyes and Ears",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 64735
+      "UsersEstimate": 64736
     },
     {
       "ID": "achievement_fine_player",
@@ -9571,7 +9576,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 189582
+      "UsersEstimate": 189583
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -9659,7 +9664,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 189582
+      "UsersEstimate": 189583
     },
     {
       "ID": "achievement_head_to_head",
@@ -9755,7 +9760,7 @@
       "Name": "Overachiever!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69359
+      "UsersEstimate": 69360
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -9851,7 +9856,7 @@
       "Name": "Rushed signing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 69359
+      "UsersEstimate": 69360
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -9883,7 +9888,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 217326
+      "UsersEstimate": 217327
     },
     {
       "ID": "achievement_signed_a_player",
@@ -9939,7 +9944,7 @@
       "Name": "Comeback King!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 60111
+      "UsersEstimate": 60112
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -9955,7 +9960,7 @@
       "Name": "Window Shopping",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 64735
+      "UsersEstimate": 64736
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -10122,15 +10127,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 462396,
+      "Progressed": 462397,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-06-05T00:00:04.7972152+00:00",
-  "LastChanged_Achievements": "2023-06-05T05:06:49.4728938+00:00",
+  "LastChanged_Achievements": "2023-06-05T06:06:00.6029352+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:38.3036136+00:00",
-  "LastUpdate_Ratings": "2023-06-05T05:00:39.4627523+00:00",
-  "LastUpdate_Achievements": "2023-06-05T05:06:49.4730051+00:00"
+  "LastUpdate_Ratings": "2023-06-05T06:00:00.8801817+00:00",
+  "LastUpdate_Achievements": "2023-06-05T06:06:00.6030664+00:00"
 }

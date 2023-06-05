@@ -17,14 +17,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.50% | ~449 |
 | Seeking Allies | 0.50% | ~449 |
 | Friendly Imps | 0.50% | ~449 |
-| Coasting to the Finish | 0.50% | ~280 |
-| Quick or Quack | 0.50% | ~280 |
+| Coasting to the Finish | 0.50% | ~281 |
+| Quick or Quack | 0.50% | ~281 |
 | Owlbear Necessities | 0.40% | ~224 |
 | Best Thay Ever | 0.40% | ~224 |
 | Checkmate | 0.40% | ~224 |
 | Vecna Out! | 0.40% | ~224 |
 | A Persistent Buzzing | 0.40% | ~359 |
 | Terror in the Dark | 0.40% | ~359 |
+| Unearthed Evil | 0.40% | ~359 |
 | Mad Cow Disease | 0.40% | ~359 |
 | Pure Energy | 0.40% | ~359 |
 | Maddening | 0.30% | ~269 |
@@ -37,7 +38,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.30% | ~269 |
 | A Mysterious Summons | 0.30% | ~269 |
 | Building Trust | 0.30% | ~269 |
-| Unearthed Evil | 0.30% | ~269 |
 | The Crumbling Temple | 0.30% | ~269 |
 | Useless Allies | 0.30% | ~269 |
 | Exploring Port Nyanzaru | 0.30% | ~269 |
@@ -73,6 +73,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.20% | ~112 |
 | Hands Off! | 0.20% | ~112 |
 | The Dread Domain of Tovag | 0.20% | ~112 |
+| Weak Doesn't Mean Feeble | 0.20% | ~112 |
 | The Castle of a Thousand Vecnas | 0.20% | ~112 |
 | The Sanctum of the Sword | 0.20% | ~112 |
 | Kas the Bloody Handed | 0.20% | ~112 |
@@ -88,6 +89,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.20% | ~112 |
 | The Forbidden City | 0.20% | ~180 |
 | Captured! | 0.20% | ~180 |
+| Home Field Advantage | 0.20% | ~180 |
 | Street War | 0.20% | ~180 |
 | Force Grey Unleashed | 0.20% | ~180 |
 | March of the Undead | 0.20% | ~180 |
@@ -118,6 +120,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.20% | ~180 |
 | Towering Expectations | 0.20% | ~180 |
 | Hopelessly Lost | 0.20% | ~180 |
+| Cramped Quarters | 0.20% | ~180 |
 | Enter the Sargauth | 0.20% | ~180 |
 | A Tale of Two Cities | 0.20% | ~180 |
 | The Dead Three | 0.20% | ~180 |
@@ -228,7 +231,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends of the Forest | 0.10% | ~90 |
 | Arcane Efforts | 0.10% | ~56 |
 | To Avernus in a Handbasket | 0.10% | ~56 |
-| Weak Doesn't Mean Feeble | 0.10% | ~56 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~56 |
 | Kas the Destroyer | 0.10% | ~56 |
 | Clowning Around | 0.10% | ~56 |
@@ -248,7 +250,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~90 |
 | No Good at All | 0.10% | ~90 |
 | Fall From Grace | 0.10% | ~90 |
-| Home Field Advantage | 0.10% | ~90 |
 | Double Vision | 0.10% | ~90 |
 | Underground Railroad | 0.10% | ~90 |
 | Vajra's Guards | 0.10% | ~90 |
@@ -315,7 +316,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Careful Consideration | 0.10% | ~90 |
 | Tanking Expectations | 0.10% | ~56 |
 | Bazaar Exploits | 0.10% | ~90 |
-| Cramped Quarters | 0.10% | ~90 |
 | Flame(skull) War | 0.10% | ~90 |
 | Servants of the Demon Prince | 0.10% | ~56 |
 | Elder Rune Madness | 0.10% | ~90 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,826 (Ranked 62)  
-Completed: 1,915 (2.13%) (Ranked 65)  
+Progressed: 89,829 (Ranked 62)  
+Completed: 1,916 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -546,7 +546,7 @@ Completed: 1,915 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,826 | 1,915 |
+| 2023-06-05 | 89,829 | 1,916 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,033 (Ranked 37)  

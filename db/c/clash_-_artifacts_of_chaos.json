@@ -245,9 +245,9 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement20",
@@ -334,8 +334,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-06-05T05:06:41.3495955+00:00",
+  "LastChanged_Achievements": "2023-06-05T06:05:53.2928207+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:40.4830963+00:00",
-  "LastUpdate_Ratings": "2023-06-05T05:00:41.7716436+00:00",
-  "LastUpdate_Achievements": "2023-06-05T05:06:41.3496084+00:00"
+  "LastUpdate_Ratings": "2023-06-05T06:00:02.2884564+00:00",
+  "LastUpdate_Achievements": "2023-06-05T06:05:53.2928373+00:00"
 }

@@ -7,19 +7,19 @@ Number of Ratings: 94  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Well Socialised! | 23.00% | ~25,150 |
-| Variety Player - Bronze | 13.00% | ~14,215 |
-| Express Yourself - Bronze | 7.00% | ~7,654 |
-| Getting Friendly | 5.00% | ~5,467 |
-| Challenge Apprentice | 5.00% | ~5,467 |
+| Variety Player - Bronze | 13.00% | ~14,216 |
+| Express Yourself - Bronze | 7.00% | ~7,655 |
+| Getting Friendly | 5.00% | ~5,468 |
+| Challenge Apprentice | 5.00% | ~5,468 |
 | Building Block - Bronze | 4.00% | ~4,374 |
 | Variety Player - Silver | 4.00% | ~4,374 |
 | Building Block - Silver | 2.00% | ~2,187 |
 | Challenge Veteran | 2.00% | ~2,187 |
 | Express Yourself - Silver | 2.00% | ~2,187 |
-| Building Block - Gold | 1.00% | ~1,093 |
-| Grouping Up - Bronze | 1.00% | ~1,093 |
-| Community Creativity | 1.00% | ~1,093 |
-| Shared! | 1.00% | ~1,093 |
+| Building Block - Gold | 1.00% | ~1,094 |
+| Grouping Up - Bronze | 1.00% | ~1,094 |
+| Community Creativity | 1.00% | ~1,094 |
+| Shared! | 1.00% | ~1,094 |
 | These Are a Few of My Favorite Things - Bronze | 0.70% | ~765 |
 | Standing on the Shoulders of Giants - Bronze | 0.60% | ~656 |
 | Going Public! | 0.60% | ~656 |
@@ -41,7 +41,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~109 |
 | Featured Gamer - Gold | 0.10% | ~109 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,349 (Ranked 60)  
+Progressed: 109,350 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 5 (0.00%) (Ranked 212)
 | 2023-06-02 | 109,340 | 5 |
 | 2023-06-03 | 109,345 | 5 |
 | 2023-06-04 | 109,348 | 5 |
-| 2023-06-05 | 109,349 | 5 |
+| 2023-06-05 | 109,350 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 390)  
 Sum: 370 (Ranked 313)  

@@ -2,12 +2,12 @@
   "ID": "315e6807f6684c279fc286d0fc36a44f",
   "Name": "shapez",
   "ProductSlug": "shapez-0929c9",
-  "Ranking_Rating": 179,
+  "Ranking_Rating": 180,
   "Ranking_Popularity": 270,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-31T12:00:00+00:00",
@@ -287,6 +287,6 @@
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
   "LastChanged": "2023-06-03T14:57:48.2538539+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:43.8798855+00:00",
-  "LastUpdate_Ratings": "2023-06-05T04:57:54.8562578+00:00",
-  "LastUpdate_Achievements": "2023-06-05T05:03:55.0758776+00:00"
+  "LastUpdate_Ratings": "2023-06-05T05:57:43.556113+00:00",
+  "LastUpdate_Achievements": "2023-06-05T06:03:32.2367559+00:00"
 }

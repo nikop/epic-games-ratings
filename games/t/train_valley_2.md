@@ -8,9 +8,9 @@ Number of Ratings: 87  (23.09.2022)
 | ---- | ---------- | ----- |
 | Dealmaker | 8.00% | ~58 |
 | Full garage | 7.00% | ~51 |
+| To the eyeballs! | 7.00% | ~51 |
 | Individual delivery | 6.00% | ~44 |
 | Juggler | 6.00% | ~44 |
-| To the eyeballs! | 6.00% | ~44 |
 | Forgot something | 5.00% | ~36 |
 | Mega-railroad | 5.00% | ~36 |
 | Non-Stop | 5.00% | ~36 |
