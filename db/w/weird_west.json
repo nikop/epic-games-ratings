@@ -2,7 +2,7 @@
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
-  "Ranking_Rating": 615,
+  "Ranking_Rating": 616,
   "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 156,
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1602,
+  "EOS_Progressed": 1603,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -890,6 +890,11 @@
       "Time": "2023-06-05T15:07:56.9893119+00:00",
       "NumProgressed": 1602,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T17:07:36.8663096+00:00",
+      "NumProgressed": 1603,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -909,7 +914,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -925,7 +930,7 @@
       "Name": "Dishonored",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -1053,7 +1058,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1149,7 +1154,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1173,7 +1178,7 @@
       "Name": "Rain of Death",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_REVENANT",
@@ -1189,7 +1194,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -1197,7 +1202,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1213,7 +1218,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -1229,7 +1234,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -1261,7 +1266,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -1277,7 +1282,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1285,7 +1290,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1324,15 +1329,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1602,
+      "Progressed": 1603,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-05T16:06:13.3693127+00:00",
+  "LastChanged_Achievements": "2023-06-05T17:07:36.866309+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:41.0593225+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:58:35.0038316+00:00",
-  "LastUpdate_Achievements": "2023-06-05T16:06:13.3693577+00:00"
+  "LastUpdate_Ratings": "2023-06-05T16:59:27.8264427+00:00",
+  "LastUpdate_Achievements": "2023-06-05T17:07:36.866371+00:00"
 }

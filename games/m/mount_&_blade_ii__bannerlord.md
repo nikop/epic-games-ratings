@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~18,264 |
-| Landlord | 30.00% | ~15,655 |
-| Bannerlord | 21.00% | ~10,958 |
-| Horde breaker | 21.00% | ~10,958 |
-| Lawmaker | 21.00% | ~10,958 |
-| Trained | 20.00% | ~10,436 |
-| King Solomon | 16.00% | ~8,349 |
-| The king is pleased | 16.00% | ~8,349 |
-| Apple of my eye | 14.00% | ~7,305 |
-| I can do it | 14.00% | ~7,305 |
+| Lawbringer | 35.00% | ~18,265 |
+| Landlord | 30.00% | ~15,656 |
+| Bannerlord | 21.00% | ~10,959 |
+| Horde breaker | 21.00% | ~10,959 |
+| Lawmaker | 21.00% | ~10,959 |
+| Trained | 20.00% | ~10,437 |
+| King Solomon | 16.00% | ~8,350 |
+| The king is pleased | 16.00% | ~8,350 |
+| Apple of my eye | 14.00% | ~7,306 |
+| I can do it | 14.00% | ~7,306 |
 | God of the Arena | 12.00% | ~6,262 |
 | Against all odds | 10.00% | ~5,218 |
-| Swordbearer | 9.00% | ~4,696 |
+| Swordbearer | 9.00% | ~4,697 |
 | Duelist | 8.00% | ~4,175 |
 | Dynasty | 8.00% | ~4,175 |
 | I spit on your grave | 8.00% | ~4,175 |
@@ -31,7 +31,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crush your enemies | 4.00% | ~2,087 |
 | My way | 4.00% | ~2,087 |
 | Veni vidi vici | 4.00% | ~2,087 |
-| Freedom! | 3.00% | ~1,565 |
+| Freedom! | 3.00% | ~1,566 |
 | Entrepreneur | 2.00% | ~1,044 |
 | Long live the Empire! | 2.00% | ~1,044 |
 | Real Estate | 2.00% | ~1,044 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,182 (Ranked 77)  
+Progressed: 52,185 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 51,825 | 0 |
 | 2023-06-03 | 51,966 | 0 |
 | 2023-06-04 | 52,108 | 0 |
-| 2023-06-05 | 52,182 | 0 |
+| 2023-06-05 | 52,185 | 0 |
 ## Awards
 Max (Character Customization): 6,631  (Ranked 49)  
 Sum: 13,284 (Ranked 67)  

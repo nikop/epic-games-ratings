@@ -7,18 +7,18 @@ Rating: 4.17 (Ranked 846)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 4.00% | ~2,549 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,912 |
-| The Batman Family | 2.00% | ~1,274 |
-| To the Victor Go the Spoils | 2.00% | ~1,274 |
-| Quartzer Life Crisis | 2.00% | ~1,274 |
-| Get ReQ'd | 2.00% | ~1,274 |
-| Working Hard or Harley Working? | 2.00% | ~1,274 |
-| Knighthood | 2.00% | ~1,274 |
-| Loose Ends | 2.00% | ~1,274 |
-| Whispered Words | 2.00% | ~1,274 |
-| Lock and Key | 2.00% | ~1,274 |
+| The Batman Family | 2.00% | ~1,275 |
+| Something in the Clay | 2.00% | ~1,275 |
+| To the Victor Go the Spoils | 2.00% | ~1,275 |
+| Quartzer Life Crisis | 2.00% | ~1,275 |
+| Get ReQ'd | 2.00% | ~1,275 |
+| Working Hard or Harley Working? | 2.00% | ~1,275 |
+| Knighthood | 2.00% | ~1,275 |
+| Loose Ends | 2.00% | ~1,275 |
+| Whispered Words | 2.00% | ~1,275 |
+| Lock and Key | 2.00% | ~1,275 |
 | In Your Element | 1.00% | ~637 |
 | Protector of Gotham | 1.00% | ~637 |
-| Something in the Clay | 1.00% | ~637 |
 | The Show Mud Go On | 1.00% | ~637 |
 | Rock and a Hard Place | 1.00% | ~637 |
 | Not On My Watch | 1.00% | ~637 |
@@ -31,10 +31,10 @@ Rating: 4.17 (Ranked 846)
 | From Inside Gotham's Walls | 1.00% | ~637 |
 | Voiceless | 1.00% | ~637 |
 | Seeking Asylum | 1.00% | ~637 |
+| Gotham Knight | 1.00% | ~637 |
 | End of an Era | 0.90% | ~574 |
 | Bulldozed | 0.90% | ~574 |
-| Gotham Knight | 0.90% | ~574 |
-| Gotham City Confidential | 0.80% | ~510 |
+| Gotham City Confidential | 0.90% | ~574 |
 | Out of Their League | 0.70% | ~446 |
 | Drone You Out | 0.70% | ~446 |
 | Solid Alibi | 0.70% | ~446 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 846)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,724 (Ranked 71)  
+Progressed: 63,729 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 93 (0.15%) (Ranked 154)
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
 | 2023-06-04 | 63,645 | 93 |
-| 2023-06-05 | 63,724 | 93 |
+| 2023-06-05 | 63,729 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,296  (Ranked 97)  
 Sum: 3,800 (Ranked 136)  

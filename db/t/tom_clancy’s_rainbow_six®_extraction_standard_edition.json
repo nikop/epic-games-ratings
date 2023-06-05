@@ -4,10 +4,10 @@
   "ProductSlug": "rainbow-six-extraction",
   "Ranking_Rating": 529,
   "Ranking_Popularity": 286,
-  "Ranking_PopularitySum": 236,
+  "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-01-20T05:00:00+00:00",
@@ -1480,10 +1480,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 933,
       "NumberOfAwardsMax": 154
+    },
+    {
+      "Time": "2023-06-05T17:00:11.0045526+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 935,
+      "NumberOfAwardsMax": 154
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 933,
+  "NumberOfAwards": 935,
   "NumberOfAwardsMax": 154,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1533,7 +1539,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 139
+      "Count": 141
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1559,8 +1565,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2023-06-04T21:59:05.0090563+00:00",
+  "LastChanged": "2023-06-05T17:00:11.0045521+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:11.1207727+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:59:07.347895+00:00",
-  "LastUpdate_Achievements": "2023-06-05T16:03:54.3846075+00:00"
+  "LastUpdate_Ratings": "2023-06-05T17:00:11.0045531+00:00",
+  "LastUpdate_Achievements": "2023-06-05T17:04:19.7930987+00:00"
 }

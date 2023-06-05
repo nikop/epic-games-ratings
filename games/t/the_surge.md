@@ -43,10 +43,10 @@ Number of Ratings: 62  (23.09.2022)
 | Liberation | 7.00% | ~304 |
 | Risk Assessment | 7.00% | ~304 |
 | Sunglasses at Night | 6.00% | ~260 |
+| Carbon Cat | 6.00% | ~260 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~217 |
 | Man of Steel | 5.00% | ~217 |
 | Jack of All Trades | 5.00% | ~217 |
-| Carbon Cat | 5.00% | ~217 |
 | 3-2-1 | 5.00% | ~217 |
 | Rusty Rat | 4.00% | ~174 |
 | Desecration | 4.00% | ~174 |

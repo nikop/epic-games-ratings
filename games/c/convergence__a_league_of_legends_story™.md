@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 94.00% | ~570 |
-| Rail Rat | 78.00% | ~473 |
+| Rail Rat | 79.00% | ~479 |
 | The Mysterious Stranger | 76.00% | ~461 |
 | Immaculate Aim | 67.00% | ~406 |
+| Honest Mistake | 58.00% | ~351 |
 | The Brass Boss | 58.00% | ~351 |
-| Honest Mistake | 57.00% | ~345 |
 | No, Thanks! | 56.00% | ~339 |
 | Time Flies | 54.00% | ~327 |
 | The Prince in Heels | 53.00% | ~321 |
@@ -25,9 +25,9 @@
 | Like Clockwork | 37.00% | ~224 |
 | The Betrayer | 36.00% | ~218 |
 | Check Your Pulse | 34.00% | ~206 |
+| The Loose Cannon | 32.00% | ~194 |
 | Street Style | 31.00% | ~188 |
 | Family Memories | 31.00% | ~188 |
-| The Loose Cannon | 31.00% | ~188 |
 | Good Neighbor | 30.00% | ~182 |
 | The Man Who Shattered Time | 25.00% | ~152 |
 | The Family Fortune | 25.00% | ~152 |

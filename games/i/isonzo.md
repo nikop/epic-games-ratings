@@ -31,7 +31,7 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 11.00% | ~669 |
 | Die Bosniaken Kommen! | 11.00% | ~669 |
 | The Devil's Paintbrush | 11.00% | ~669 |
-| I Have the High Ground | 9.00% | ~547 |
+| I Have the High Ground | 10.00% | ~608 |
 | Millenial | 9.00% | ~547 |
 | The Show Must Go On | 8.00% | ~487 |
 | Tosca | 8.00% | ~487 |
@@ -98,8 +98,8 @@ Completed: 8 (0.13%) (Ranked 160)
 | 2023-06-05 | 6,082 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 443)  
-Sum: 241 (Ranked 343)  
-Diff (max vs sum): 100  
+Sum: 241 (Ranked 344)  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |

@@ -42,10 +42,10 @@ Rating: 4.24 (Ranked 800)
 | A Little Banged Up | 7.00% | ~119 |
 | Reverse Engineering | 7.00% | ~119 |
 | Following In Their Footsteps | 7.00% | ~119 |
+| Remote Surgery | 6.00% | ~102 |
 | Turbo Booster | 6.00% | ~102 |
 | Squid Pro Quo | 6.00% | ~102 |
 | Reborn | 5.00% | ~85 |
-| Remote Surgery | 5.00% | ~85 |
 | Counter-Sniper | 5.00% | ~85 |
 | Shrimp Cocktail | 5.00% | ~85 |
 | Juiced Up | 5.00% | ~85 |

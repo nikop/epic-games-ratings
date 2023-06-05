@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~673 |
+| Diligence as a goal | 4.00% | ~674 |
 | Project Arena | 3.00% | ~505 |
 | The Old Grandmaster | 1.00% | ~7,075 |
 | The Assault | 1.00% | ~7,075 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,534 (Ranked 16)  
+Progressed: 707,541 (Ranked 16)  
 Completed: 12,758 (1.80%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,10 +103,10 @@ Completed: 12,758 (1.80%) (Ranked 69)
 | 2023-06-02 | 706,954 | 12,751 |
 | 2023-06-03 | 707,194 | 12,754 |
 | 2023-06-04 | 707,419 | 12,757 |
-| 2023-06-05 | 707,534 | 12,758 |
+| 2023-06-05 | 707,541 | 12,758 |
 ## Awards
 Max (Great Boss Battles): 6,130  (Ranked 53)  
-Sum: 10,461 (Ranked 78)  
+Sum: 10,462 (Ranked 78)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -118,7 +118,7 @@ Diff (max vs sum): -25
 | This game has Amazing Storytelling | 500 |
 | This game has Amazing Characters | 486 |
 | This game is Highly Recommended | 482 |
-| This game has Unique Visuals | 458 |
+| This game has Unique Visuals | 459 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 353 |
 | This game has Obsessive Gameplay | 293 |
@@ -264,4 +264,4 @@ Diff (max vs sum): -25
 | 2023-06-02 | 4.82 | - | 6,122 | 10,445 |
 | 2023-06-03 | 4.82 | - | 6,130 | 10,457 |
 | 2023-06-04 | 4.82 | - | 6,130 | 10,460 |
-| 2023-06-05 | 4.82 | - | 6,130 | 10,461 |
+| 2023-06-05 | 4.82 | - | 6,130 | 10,462 |

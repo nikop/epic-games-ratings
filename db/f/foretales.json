@@ -283,9 +283,9 @@
       "ID": "sayHelloToMyLittleFriends",
       "SetID": "5bkacmp",
       "Name": "Say hello to my little friends",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "sneakInSneakOut",
@@ -428,8 +428,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-06-05T16:06:28.3504484+00:00",
+  "LastChanged_Achievements": "2023-06-05T17:07:54.669048+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:00.7588517+00:00",
-  "LastUpdate_Ratings": "2023-06-05T16:01:04.3342006+00:00",
-  "LastUpdate_Achievements": "2023-06-05T16:06:28.3504761+00:00"
+  "LastUpdate_Ratings": "2023-06-05T17:02:28.3816073+00:00",
+  "LastUpdate_Achievements": "2023-06-05T17:07:54.6690786+00:00"
 }

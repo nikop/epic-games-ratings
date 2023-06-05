@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 840,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 328,
+  "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 79,
@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14549,
+  "EOS_Progressed": 14551,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2835,6 +2835,11 @@
       "Time": "2023-06-05T16:04:21.5267887+00:00",
       "NumProgressed": 14549,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-05T17:04:53.6625606+00:00",
+      "NumProgressed": 14551,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2870,7 +2875,7 @@
       "Name": "You Need a Gun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "DISARM_ENEMY",
@@ -2950,7 +2955,7 @@
       "Name": "Get a Grip",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -2966,7 +2971,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -2990,7 +2995,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -2998,7 +3003,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -3014,7 +3019,7 @@
       "Name": "Reforged",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3046,7 +3051,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "STORY_HABITAT",
@@ -3054,7 +3059,7 @@
       "Name": "Without A Paddle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "STORY_HANGAR",
@@ -3070,7 +3075,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -3094,7 +3099,7 @@
       "Name": "Full Circle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "STORY_TUNNELS",
@@ -3102,7 +3107,7 @@
       "Name": "Power Up",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "DISMEMBER_100",
@@ -3165,13 +3170,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14549,
+      "Progressed": 14551,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2475,
+      "Progressed": 2477,
       "Completed": 29
     }
   ],
@@ -3179,8 +3184,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-05T16:04:21.5267882+00:00",
+  "LastChanged_Achievements": "2023-06-05T17:04:53.6625598+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:57:55.2792981+00:00",
-  "LastUpdate_Achievements": "2023-06-05T16:04:21.5268338+00:00"
+  "LastUpdate_Ratings": "2023-06-05T16:58:32.8339873+00:00",
+  "LastUpdate_Achievements": "2023-06-05T17:04:53.6626267+00:00"
 }

@@ -1,27 +1,27 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 615)  
+Rating: 4.45 (Ranked 616)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,394 |
-| Self-Improvement | 71.00% | ~1,137 |
-| Perky | 65.00% | ~1,041 |
-| Let’s Ride | 60.00% | ~961 |
-| Welcome to the Weird West | 57.00% | ~913 |
-| Dead or Alive | 55.00% | ~881 |
+| Unforgiven | 87.00% | ~1,395 |
+| Self-Improvement | 71.00% | ~1,138 |
+| Perky | 65.00% | ~1,042 |
+| Let’s Ride | 60.00% | ~962 |
+| Welcome to the Weird West | 57.00% | ~914 |
+| Dead or Alive | 55.00% | ~882 |
 | Full House | 37.00% | ~593 |
 | Off the Trail | 34.00% | ~545 |
 | Justice Served | 28.00% | ~449 |
 | Chain Reaction | 27.00% | ~433 |
-| Scholar | 25.00% | ~400 |
-| Through Their Eyes | 25.00% | ~400 |
-| Dishonored | 24.00% | ~384 |
-| Rain of Death | 24.00% | ~384 |
-| The Great Escape | 23.00% | ~368 |
-| That’s All, Folks | 18.00% | ~288 |
+| Scholar | 25.00% | ~401 |
+| Through Their Eyes | 25.00% | ~401 |
+| Dishonored | 24.00% | ~385 |
+| Rain of Death | 24.00% | ~385 |
+| The Great Escape | 23.00% | ~369 |
+| That’s All, Folks | 18.00% | ~289 |
 | Winds of War | 16.00% | ~256 |
 | Fallen Star | 15.00% | ~240 |
 | For Balance | 15.00% | ~240 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.20% | ~3 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,602 (Ranked 156)  
+Progressed: 1,603 (Ranked 156)  
 Completed: 2 (0.12%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2 (0.12%) (Ranked 161)
 | 2023-06-02 | 1,585 | 2 |
 | 2023-06-03 | 1,595 | 2 |
 | 2023-06-04 | 1,596 | 2 |
-| 2023-06-05 | 1,602 | 2 |
+| 2023-06-05 | 1,603 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 468)  
 Sum: 24 (Ranked 474)  

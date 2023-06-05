@@ -10,24 +10,24 @@ Rating: 4.18 (Ranked 840)
 | Desperate Times | 10.00% | ~1,455 |
 | Chew 'Em Up | 8.00% | ~1,164 |
 | Paper Jams | 8.00% | ~1,164 |
-| Workplace Hazard | 7.00% | ~1,018 |
-| Reforged | 7.00% | ~1,018 |
-| If the SHU Fits... | 7.00% | ~1,018 |
+| Workplace Hazard | 7.00% | ~1,019 |
+| Reforged | 7.00% | ~1,019 |
+| If the SHU Fits... | 7.00% | ~1,019 |
 | Giving Back | 6.00% | ~873 |
-| Get a Grip | 5.00% | ~727 |
-| Without A Paddle | 5.00% | ~727 |
+| Get a Grip | 5.00% | ~728 |
+| Without A Paddle | 5.00% | ~728 |
 | Terminated | 4.00% | ~582 |
 | Float Like A Butterfly | 4.00% | ~582 |
 | In the Pipe, Five by Five | 4.00% | ~582 |
 | Crash Site | 4.00% | ~582 |
 | Instigator | 4.00% | ~99 |
 | Big Game Hunter | 4.00% | ~99 |
-| You Need a Gun | 3.00% | ~436 |
-| Two Heads Are Better Than One | 3.00% | ~436 |
-| The Commonality | 3.00% | ~436 |
-| What Lies Beneath | 3.00% | ~436 |
-| Full Circle | 3.00% | ~436 |
-| Power Up | 3.00% | ~436 |
+| You Need a Gun | 3.00% | ~437 |
+| Two Heads Are Better Than One | 3.00% | ~437 |
+| The Commonality | 3.00% | ~437 |
+| What Lies Beneath | 3.00% | ~437 |
+| Full Circle | 3.00% | ~437 |
+| Power Up | 3.00% | ~437 |
 | Bear Trap | 3.00% | ~74 |
 | I Do Belong Here | 2.00% | ~291 |
 | In Striking Distance | 2.00% | ~291 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,549 (Ranked 103)  
+Progressed: 14,551 (Ranked 103)  
 Completed: 53 (0.36%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,11 +91,11 @@ Completed: 53 (0.36%) (Ranked 121)
 | 2023-06-02 | 14,323 | 53 |
 | 2023-06-03 | 14,412 | 53 |
 | 2023-06-04 | 14,505 | 53 |
-| 2023-06-05 | 14,549 | 53 |
+| 2023-06-05 | 14,551 | 53 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
-Sum: 287 (Ranked 328)  
-Diff (max vs sum): 62  
+Sum: 287 (Ranked 329)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |

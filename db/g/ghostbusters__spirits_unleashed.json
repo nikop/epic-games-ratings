@@ -3,7 +3,7 @@
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 563,
-  "Ranking_Popularity": 245,
+  "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 148,
@@ -1140,9 +1140,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22680,
+  "EOS_Progressed": 22681,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4595,6 +4595,11 @@
       "Time": "2023-06-05T16:06:26.2890155+00:00",
       "NumProgressed": 22680,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-05T17:07:52.2557179+00:00",
+      "NumProgressed": 22681,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -4606,7 +4611,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16556
+      "UsersEstimate": 16557
     },
     {
       "ID": "Animated",
@@ -4670,7 +4675,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 12020
+      "UsersEstimate": 12021
     },
     {
       "ID": "Daily_Dose",
@@ -4718,7 +4723,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14515
+      "UsersEstimate": 14516
     },
     {
       "ID": "Escape_Artist",
@@ -4742,7 +4747,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12474
+      "UsersEstimate": 12475
     },
     {
       "ID": "GB_In_Training",
@@ -4830,7 +4835,7 @@
       "Name": "Reckless",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4082
+      "UsersEstimate": 4083
     },
     {
       "ID": "Rift_Destroyer",
@@ -4878,7 +4883,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "Skilled",
@@ -4910,7 +4915,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19505
+      "UsersEstimate": 19506
     },
     {
       "ID": "Summoner",
@@ -4942,7 +4947,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9979
+      "UsersEstimate": 9980
     },
     {
       "ID": "Terrifying",
@@ -4950,7 +4955,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4082
+      "UsersEstimate": 4083
     },
     {
       "ID": "Therapeutic",
@@ -4966,7 +4971,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9979
+      "UsersEstimate": 9980
     },
     {
       "ID": "Tobins_Prodigy",
@@ -4990,7 +4995,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 11113
+      "UsersEstimate": 11114
     },
     {
       "ID": "Welcome_Crew",
@@ -4998,7 +5003,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7484
+      "UsersEstimate": 7485
     },
     {
       "ID": "Whoopsie",
@@ -5013,7 +5018,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22680,
+      "Progressed": 22681,
       "Completed": 40
     }
   ],
@@ -5021,8 +5026,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-05T15:59:09.7197121+00:00",
-  "LastChanged_Achievements": "2023-06-05T16:06:26.289015+00:00",
+  "LastChanged_Achievements": "2023-06-05T17:07:52.2557176+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6996784+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:59:09.7197126+00:00",
-  "LastUpdate_Achievements": "2023-06-05T16:06:26.2890775+00:00"
+  "LastUpdate_Ratings": "2023-06-05T17:00:14.2053959+00:00",
+  "LastUpdate_Achievements": "2023-06-05T17:07:52.2557863+00:00"
 }

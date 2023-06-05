@@ -12,7 +12,7 @@ Number of Ratings: 801  (23.09.2022)
 | Plug It In | 84.00% | ~5,910 |
 | Adventure Time | 80.00% | ~5,629 |
 | Playing With Power | 77.00% | ~5,418 |
-| Coup d'Etat | 58.00% | ~4,081 |
+| Coup d'Etat | 59.00% | ~4,151 |
 | You're Fired | 58.00% | ~4,081 |
 | Get Furious | 56.00% | ~3,940 |
 | Gunplay And Cosplay | 55.00% | ~3,870 |

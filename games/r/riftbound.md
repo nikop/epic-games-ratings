@@ -14,6 +14,7 @@
 | I'm A Wizard | 6.00% | ~2 |
 | Ender Ender | 3.00% | ~1 |
 | Full House | 3.00% | ~1 |
+| Over 9000 | 3.00% | ~1 |
 | Tactical Spectacular | 3.00% | ~1 |
 | Undead Slayer | 3.00% | ~1 |
 | Worker Wisp | 3.00% | ~1 |
@@ -26,7 +27,6 @@
 | Fair Fight | 0.00% | ~0 |
 | Fries With That? | 0.00% | ~0 |
 | One Hand Tied | 0.00% | ~0 |
-| Over 9000 | 0.00% | ~0 |
 | Resource Management | 0.00% | ~0 |
 | Spellslinger | 0.00% | ~0 |
 | Who Turned Out The Lights | 0.00% | ~0 |

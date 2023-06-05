@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -201,9 +201,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 192294,
+  "EOS_Progressed": 192296,
   "EOS_Completed": 430,
-  "EOS_NewPlayers": 787,
+  "EOS_NewPlayers": 780,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4901,6 +4901,11 @@
       "Time": "2023-06-05T16:05:59.2318735+00:00",
       "NumProgressed": 192294,
       "NumCompleted": 430
+    },
+    {
+      "Time": "2023-06-05T17:07:31.778803+00:00",
+      "NumProgressed": 192296,
+      "NumCompleted": 430
     }
   ],
   "TotalAchievements": 29,
@@ -4936,7 +4941,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 180756
+      "UsersEstimate": 180758
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -5096,7 +5101,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19229
+      "UsersEstimate": 19230
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -5143,7 +5148,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 192294,
+      "Progressed": 192296,
       "Completed": 430
     }
   ],
@@ -5151,8 +5156,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-02T10:59:31.3885731+00:00",
-  "LastChanged_Achievements": "2023-06-05T16:05:59.231873+00:00",
+  "LastChanged_Achievements": "2023-06-05T17:07:31.7788024+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:06.3904528+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:59:01.3197163+00:00",
-  "LastUpdate_Achievements": "2023-06-05T16:05:59.2319213+00:00"
+  "LastUpdate_Ratings": "2023-06-05T17:00:04.5963151+00:00",
+  "LastUpdate_Achievements": "2023-06-05T17:07:31.7788588+00:00"
 }

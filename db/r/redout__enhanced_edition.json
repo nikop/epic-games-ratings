@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223869,
+  "EOS_Progressed": 223870,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4853,6 +4853,11 @@
       "Time": "2023-06-05T16:05:54.8640508+00:00",
       "NumProgressed": 223869,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-06-05T17:07:26.3791876+00:00",
+      "NumProgressed": 223870,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 34,
@@ -4880,7 +4885,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62683
+      "UsersEstimate": 62684
     },
     {
       "ID": "CENTAUR",
@@ -5056,7 +5061,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11193
+      "UsersEstimate": 11194
     },
     {
       "ID": "RESPWND",
@@ -5128,22 +5133,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91786
+      "UsersEstimate": 91787
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 223869,
+      "Progressed": 223870,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-05T16:05:54.8640503+00:00",
+  "LastChanged_Achievements": "2023-06-05T17:07:26.379187+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.4465575+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:58:24.3940142+00:00",
-  "LastUpdate_Achievements": "2023-06-05T16:05:54.8641024+00:00"
+  "LastUpdate_Ratings": "2023-06-05T16:59:14.4848129+00:00",
+  "LastUpdate_Achievements": "2023-06-05T17:07:26.3792464+00:00"
 }

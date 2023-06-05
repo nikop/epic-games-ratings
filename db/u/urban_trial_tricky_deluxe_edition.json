@@ -4,7 +4,7 @@
   "ProductSlug": "urban-trial-tricky-eb0205",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-13T13:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:45.2113814+00:00",
   "LastChanged": "2023-03-31T05:57:45.2113815+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:09.1965023+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:58:01.3469828+00:00",
-  "LastUpdate_Achievements": "2023-06-05T16:04:16.2783755+00:00"
+  "LastUpdate_Ratings": "2023-06-05T16:58:46.2356655+00:00",
+  "LastUpdate_Achievements": "2023-06-05T17:04:47.083709+00:00"
 }

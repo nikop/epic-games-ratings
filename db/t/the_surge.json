@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -321,7 +321,7 @@
   ],
   "EOS_Progressed": 4338,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1377,9 +1377,9 @@
       "ID": "ID_ACHIEV_50",
       "SetID": "98bke8c",
       "Name": "Carbon Cat",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 260
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -1537,8 +1537,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-05T16:03:25.8218142+00:00",
+  "LastChanged_Achievements": "2023-06-05T17:03:34.1742952+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:09.2823727+00:00",
-  "LastUpdate_Ratings": "2023-06-05T15:58:02.2263673+00:00",
-  "LastUpdate_Achievements": "2023-06-05T16:03:25.821904+00:00"
+  "LastUpdate_Ratings": "2023-06-05T16:58:47.4948024+00:00",
+  "LastUpdate_Achievements": "2023-06-05T17:03:34.1743734+00:00"
 }

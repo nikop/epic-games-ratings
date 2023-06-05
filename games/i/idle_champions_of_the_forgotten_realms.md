@@ -73,6 +73,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.20% | ~112 |
 | The Invisible Wizards of Thay | 0.20% | ~112 |
 | Vecna Lives! | 0.20% | ~112 |
+| Vecna Loots! | 0.20% | ~112 |
 | More Than Well Equipped | 0.20% | ~112 |
 | Return to the Tomb | 0.20% | ~112 |
 | Heatwave | 0.20% | ~112 |
@@ -154,6 +155,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Hollyphant | 0.20% | ~112 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~112 |
 | The Wandering Emporium | 0.20% | ~112 |
+| Questlines | 0.20% | ~112 |
 | Bel's Forge | 0.20% | ~112 |
 | The Giant's Bane Tavern | 0.20% | ~112 |
 | The Everlasting Rime | 0.20% | ~112 |
@@ -233,7 +235,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.10% | ~90 |
 | Overwhelmed with Knowledge | 0.10% | ~56 |
 | A Demi-god's Defender | 0.10% | ~56 |
-| Vecna Loots! | 0.10% | ~56 |
 | Well Equipped | 0.10% | ~56 |
 | Friends of the Forest | 0.10% | ~90 |
 | Arcane Efforts | 0.10% | ~56 |
@@ -408,7 +409,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiamat's Army | 0.10% | ~56 |
 | Show of Strength | 0.10% | ~56 |
 | Fight Dragons with Dragons | 0.10% | ~56 |
-| Questlines | 0.10% | ~56 |
 | Raggadragga's Crew | 0.10% | ~56 |
 | Just The Worst | 0.10% | ~56 |
 | Extreme Heat | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,858 (Ranked 62)  
+Progressed: 89,862 (Ranked 62)  
 Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,858 | 1,917 |
+| 2023-06-05 | 89,862 | 1,917 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,035 (Ranked 37)  
