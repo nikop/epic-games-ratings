@@ -89,7 +89,7 @@
 | 87 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.07% |
 | 88 | [Late Shift](games/l/late_shift.md) | 1.03% |
 | 89 | [Five Dates](games/f/five_dates.md) | 0.99% |
-| 90 | [Sable](games/s/sable.md) | 0.94% |
+| 90 | [Sable](games/s/sable.md) | 0.95% |
 | 91 | [Hades](games/h/hades.md) | 0.89% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
@@ -431,4 +431,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,726 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,727 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
