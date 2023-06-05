@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.87% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.81% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.95% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -20,7 +20,7 @@
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
 | 20 | [Remains](games/r/remains.md) | 8.11% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.08% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.07% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.69% |
@@ -89,18 +89,18 @@
 | 87 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.07% |
 | 88 | [Late Shift](games/l/late_shift.md) | 1.03% |
 | 89 | [Five Dates](games/f/five_dates.md) | 0.99% |
-| 90 | [Sable](games/s/sable.md) | 0.95% |
+| 90 | [Sable](games/s/sable.md) | 0.94% |
 | 91 | [Hades](games/h/hades.md) | 0.89% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
 | 94 | [Adios](games/a/adios.md) | 0.84% |
 | 94 | [Poosh XL](games/p/poosh_xl.md) | 0.84% |
-| 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.82% |
+| 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.81% |
 | 97 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
 | 97 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.80% |
-| 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.77% |
-| 101 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.76% |
+| 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
 | 102 | [Them and Us](games/t/them_and_us.md) | 0.75% |
 | 104 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.71% |
