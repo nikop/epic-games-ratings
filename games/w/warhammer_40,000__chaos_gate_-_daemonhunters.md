@@ -9,7 +9,7 @@ Number of Ratings: 371  (23.09.2022)
 | Executioner | 36.00% | ~1,026 |
 | Look Over There! | 31.00% | ~884 |
 | Watch Where You Step... | 30.00% | ~855 |
-| Not So Fast... | 29.00% | ~826 |
+| Not So Fast... | 29.00% | ~827 |
 | An Ill Omen | 28.00% | ~798 |
 | Purging Spree | 22.00% | ~627 |
 | Blood for the Blood God! | 17.00% | ~485 |
@@ -38,13 +38,13 @@ Number of Ratings: 371  (23.09.2022)
 | Preservationist | 2.00% | ~57 |
 | Engine Kill | 2.00% | ~57 |
 | Death Comes For All | 2.00% | ~57 |
-| Clean Slate | 1.00% | ~28 |
-| Fleetmaster | 1.00% | ~28 |
-| For the Machine God | 1.00% | ~28 |
-| Unstable Immaterium | 1.00% | ~28 |
-| Strike Force | 1.00% | ~28 |
-| Hands-On Research | 1.00% | ~28 |
-| Only in Death | 1.00% | ~28 |
+| Clean Slate | 1.00% | ~29 |
+| Fleetmaster | 1.00% | ~29 |
+| For the Machine God | 1.00% | ~29 |
+| Unstable Immaterium | 1.00% | ~29 |
+| Strike Force | 1.00% | ~29 |
+| Hands-On Research | 1.00% | ~29 |
+| Only in Death | 1.00% | ~29 |
 | Exercise in Restraint | 0.90% | ~26 |
 | True Mastery | 0.60% | ~17 |
 | The Flesh is Weak | 0.50% | ~14 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,850 (Ranked 139)  
+Progressed: 2,851 (Ranked 139)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 2,835 | 0 |
 | 2023-06-03 | 2,844 | 0 |
 | 2023-06-04 | 2,849 | 0 |
-| 2023-06-05 | 2,850 | 0 |
+| 2023-06-05 | 2,851 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 420 (Ranked 299)  

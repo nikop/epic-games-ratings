@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adventure Time | 94.00% | ~29 |
-| Master Of The Arts | 68.00% | ~21 |
+| Master Of The Arts | 71.00% | ~22 |
 | Close Call | 26.00% | ~8 |
 | Getting Good At This | 13.00% | ~4 |
 | Evolution Revolution | 6.00% | ~2 |

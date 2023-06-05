@@ -37,11 +37,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 1.00% | ~502 |
 | Factionalism | 1.00% | ~502 |
 | A Golden Empire | 1.00% | ~502 |
-| The Emperors new clothes | 0.90% | ~452 |
-| Isn't this the way to India? | 0.90% | ~452 |
 | Market Control | 0.90% | ~452 |
 | The Five Colonies | 0.90% | ~452 |
 | This navy can take it all | 0.90% | ~452 |
+| The Emperors new clothes | 0.80% | ~402 |
+| Isn't this the way to India? | 0.80% | ~402 |
 | Down Under | 0.70% | ~352 |
 | Trustworthy | 0.70% | ~352 |
 | All belongs to Mother Russia | 0.60% | ~301 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,232 (Ranked 78)  
+Progressed: 50,237 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 48,793 | 0 |
 | 2023-06-03 | 49,497 | 0 |
 | 2023-06-04 | 50,194 | 0 |
-| 2023-06-05 | 50,232 | 0 |
+| 2023-06-05 | 50,237 | 0 |
 ## Awards
 Max (Educational): 5,342  (Ranked 61)  
 Sum: 44,146 (Ranked 27)  

@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1286,
+  "EOS_Progressed": 1287,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2668,6 +2668,11 @@
       "Time": "2023-06-05T00:06:00.7839936+00:00",
       "NumProgressed": 1286,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-05T03:16:39.7369258+00:00",
+      "NumProgressed": 1287,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2863,7 +2868,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "fourleafclover",
@@ -3007,7 +3012,7 @@
       "Name": "Milestone collector",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "minerclicker",
@@ -3039,7 +3044,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "mythicpower",
@@ -3055,7 +3060,7 @@
       "Name": "Natural Talent",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "pokerface",
@@ -3127,15 +3132,15 @@
       "Name": "Superior",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 721
     },
     {
       "ID": "thealchemist",
@@ -3167,7 +3172,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "thepowerofawakening",
@@ -3183,7 +3188,7 @@
       "Name": "The Unstoppable",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "titanpower",
@@ -3239,7 +3244,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "warmachinesarmy",
@@ -3271,14 +3276,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1286,
+      "Progressed": 1287,
       "Completed": 1
     }
   ],
@@ -3286,8 +3291,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-02T14:57:56.4962792+00:00",
-  "LastChanged_Achievements": "2023-06-05T02:27:22.0017989+00:00",
+  "LastChanged_Achievements": "2023-06-05T03:16:39.7369255+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-05T02:18:45.3693205+00:00",
-  "LastUpdate_Achievements": "2023-06-05T02:27:22.0018957+00:00"
+  "LastUpdate_Ratings": "2023-06-05T03:08:52.4472023+00:00",
+  "LastUpdate_Achievements": "2023-06-05T03:16:39.7370243+00:00"
 }

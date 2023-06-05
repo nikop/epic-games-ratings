@@ -19,7 +19,7 @@ Rating: 4.34 (Ranked 733)
 | Editor Adept | 34.00% | ~346 |
 | Giant Killer | 31.00% | ~316 |
 | Sensei | 29.00% | ~296 |
-| The meaning of Kain | 28.00% | ~285 |
+| The meaning of Kain | 29.00% | ~296 |
 | Technophobe | 25.00% | ~255 |
 | Recycler | 22.00% | ~224 |
 | Are you not entertained? | 18.00% | ~183 |

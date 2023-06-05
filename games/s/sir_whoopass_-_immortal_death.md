@@ -46,7 +46,7 @@
 | Your daily dose of Vitamin C. | 22.00% | ~16 |
 | I cant stand still! | 21.00% | ~15 |
 | Kleptomaniac | 21.00% | ~15 |
-| Just wing it! | 17.00% | ~12 |
+| Just wing it! | 18.00% | ~13 |
 | Master Butcher | 15.00% | ~11 |
 | Slimy... yet satisfying | 15.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~10 |
@@ -57,9 +57,9 @@
 | You're looking mozzare-hella good! | 10.00% | ~7 |
 | Scrambled Eggs | 10.00% | ~7 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~6 |
-| Timber! | 6.00% | ~4 |
+| Timber! | 7.00% | ~5 |
+| Free Of Chains | 7.00% | ~5 |
 | Grumpy Immortal | 6.00% | ~4 |
-| Free Of Chains | 6.00% | ~4 |
 | Ancient Ruins of Misplaced Belongings | 4.00% | ~3 |
 | Ancient Ruins of Imperfectly Designed Walls | 4.00% | ~3 |
 | Ancient Ruins of Inadequate Opportunities | 4.00% | ~3 |

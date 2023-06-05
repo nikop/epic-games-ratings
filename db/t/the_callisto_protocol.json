@@ -6,7 +6,7 @@
   "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 103,
-  "Ranking_EOS_Completed": 119,
+  "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
@@ -530,11 +530,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14520,
+  "EOS_Progressed": 14521,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.37,
+  "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.0112544+00:00",
@@ -2780,6 +2780,11 @@
       "Time": "2023-06-05T02:24:56.4852328+00:00",
       "NumProgressed": 14520,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-05T03:14:59.3844385+00:00",
+      "NumProgressed": 14521,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2823,7 +2828,7 @@
       "Name": "Flesh Wound",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3110,13 +3115,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14520,
+      "Progressed": 14521,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2446,
+      "Progressed": 2447,
       "Completed": 29
     }
   ],
@@ -3124,8 +3129,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-05T02:24:56.4852322+00:00",
+  "LastChanged_Achievements": "2023-06-05T03:14:59.3844379+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-05T02:18:33.0802719+00:00",
-  "LastUpdate_Achievements": "2023-06-05T02:24:56.4852838+00:00"
+  "LastUpdate_Ratings": "2023-06-05T03:08:43.5478521+00:00",
+  "LastUpdate_Achievements": "2023-06-05T03:14:59.3844894+00:00"
 }

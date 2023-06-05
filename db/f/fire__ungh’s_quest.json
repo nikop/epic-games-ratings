@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 32,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -286,9 +286,9 @@
       "ID": "Brain_turned_in_008",
       "SetID": "6od1ndi",
       "Name": "Sniarb!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 35,
-      "UsersEstimate": 166
+      "UsersEstimate": 168
     },
     {
       "ID": "Butterfly_eats_Caterpillar_in_007",
@@ -447,8 +447,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-05T02:27:15.404858+00:00",
+  "LastChanged_Achievements": "2023-06-05T03:16:34.6471075+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:17.2024584+00:00",
-  "LastUpdate_Ratings": "2023-06-05T02:21:04.5522229+00:00",
-  "LastUpdate_Achievements": "2023-06-05T02:27:15.4048793+00:00"
+  "LastUpdate_Ratings": "2023-06-05T03:10:28.9342673+00:00",
+  "LastUpdate_Achievements": "2023-06-05T03:16:34.647129+00:00"
 }

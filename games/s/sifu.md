@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~669 |
+| Diligence as a goal | 4.00% | ~670 |
 | Project Arena | 3.00% | ~502 |
 | The Old Grandmaster | 1.00% | ~7,074 |
 | The Assault | 1.00% | ~7,074 |
@@ -28,7 +28,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.90% | ~6,367 |
 | Old Child | 0.90% | ~6,367 |
 | Take damage to save time | 0.90% | ~6,367 |
-| Scareless | 0.80% | ~5,659 |
+| Scareless | 0.80% | ~5,660 |
 | Dance of the Praying Mantis | 0.70% | ~4,952 |
 | Qi Gong: Mind | 0.70% | ~4,952 |
 | Kung-Fu Tussle | 0.70% | ~4,952 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~707 |
 | Warriors from the Mountain | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,434 (Ranked 16)  
+Progressed: 707,440 (Ranked 16)  
 Completed: 12,757 (1.80%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,10 +103,10 @@ Completed: 12,757 (1.80%) (Ranked 69)
 | 2023-06-02 | 706,954 | 12,751 |
 | 2023-06-03 | 707,194 | 12,754 |
 | 2023-06-04 | 707,419 | 12,757 |
-| 2023-06-05 | 707,434 | 12,757 |
+| 2023-06-05 | 707,440 | 12,757 |
 ## Awards
 Max (Great Boss Battles): 6,130  (Ranked 53)  
-Sum: 10,460 (Ranked 78)  
+Sum: 10,461 (Ranked 78)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -115,7 +115,7 @@ Diff (max vs sum): -25
 | This game has Challenging Combat | 518 |
 | This game has Quickly Understood Controls | 509 |
 | This game is Extremely Fun | 502 |
-| This game has Amazing Storytelling | 499 |
+| This game has Amazing Storytelling | 500 |
 | This game has Amazing Characters | 486 |
 | This game is Highly Recommended | 482 |
 | This game has Unique Visuals | 458 |
@@ -264,3 +264,4 @@ Diff (max vs sum): -25
 | 2023-06-02 | 4.82 | - | 6,122 | 10,445 |
 | 2023-06-03 | 4.82 | - | 6,130 | 10,457 |
 | 2023-06-04 | 4.82 | - | 6,130 | 10,460 |
+| 2023-06-05 | 4.82 | - | 6,130 | 10,461 |

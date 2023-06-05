@@ -13,9 +13,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Court of Storms | 0.80% | ~449 |
 | Beware the Jabberwock | 0.70% | ~393 |
 | The Ring of Regeneration | 0.60% | ~539 |
-| Are Ya Chicken? | 0.60% | ~539 |
 | Were-verpowered | 0.50% | ~449 |
 | Seeking Allies | 0.50% | ~449 |
+| Are Ya Chicken? | 0.50% | ~449 |
 | Friendly Imps | 0.50% | ~449 |
 | Coasting to the Finish | 0.50% | ~280 |
 | Quick or Quack | 0.50% | ~280 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,817 (Ranked 62)  
+Progressed: 89,822 (Ranked 62)  
 Completed: 1,915 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,915 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,817 | 1,915 |
+| 2023-06-05 | 89,822 | 1,915 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,033 (Ranked 37)  

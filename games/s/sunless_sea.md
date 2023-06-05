@@ -6,18 +6,18 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,060 |
+| Sink Beneath the Waves | 36.00% | ~11,061 |
 | Sweet Sorrow | 18.00% | ~5,530 |
 | Rules the Waves | 17.00% | ~5,223 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,608 |
-| Rival | 14.00% | ~4,301 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,609 |
+| Rival | 14.00% | ~4,302 |
 | Correspondent | 12.00% | ~3,687 |
 | Lose Your Mind | 12.00% | ~3,687 |
 | Sound Mind? | 12.00% | ~3,687 |
-| Salt's Curse | 11.00% | ~3,379 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,379 |
-| The Fall of the House | 11.00% | ~3,379 |
-| Shipmate | 11.00% | ~3,379 |
+| Salt's Curse | 11.00% | ~3,380 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,380 |
+| The Fall of the House | 11.00% | ~3,380 |
+| Shipmate | 11.00% | ~3,380 |
 | One Year at Zee | 8.00% | ~2,458 |
 | Pupil | 7.00% | ~2,151 |
 | Salvager | 7.00% | ~2,151 |
@@ -44,10 +44,10 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~307 |
 | Under the zee | 1.00% | ~307 |
 | A current under zee | 1.00% | ~307 |
-| A zee-change | 0.90% | ~276 |
-| Never Stop Sinking... | 0.90% | ~276 |
-| Leviathan | 0.90% | ~276 |
-| Depth charge | 0.90% | ~276 |
+| A zee-change | 0.90% | ~277 |
+| Never Stop Sinking... | 0.90% | ~277 |
+| Leviathan | 0.90% | ~277 |
+| Depth charge | 0.90% | ~277 |
 | What lies beneath | 0.80% | ~246 |
 | Stone's Curse | 0.70% | ~215 |
 | Five Years at Zee | 0.50% | ~154 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~31 |
 | Ten Years at Zee | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,722 (Ranked 88)  
+Progressed: 30,725 (Ranked 88)  
 Completed: 3 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 3 (0.01%) (Ranked 201)
 | 2023-06-02 | 30,520 | 3 |
 | 2023-06-03 | 30,615 | 3 |
 | 2023-06-04 | 30,716 | 3 |
-| 2023-06-05 | 30,722 | 3 |
+| 2023-06-05 | 30,725 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 278 (Ranked 331)  

@@ -5580,9 +5580,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 50232,
+  "EOS_Progressed": 50237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4249,
+  "EOS_NewPlayers": 4244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10290,6 +10290,11 @@
       "Time": "2023-06-05T02:27:39.0020946+00:00",
       "NumProgressed": 50232,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T03:16:53.3483494+00:00",
+      "NumProgressed": 50237,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -11027,9 +11032,9 @@
       "ID": "achievement_emperors_new_clothes",
       "SetID": "8p2n7he",
       "Name": "The Emperors new clothes",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_empire_of_mann",
@@ -11491,9 +11496,9 @@
       "ID": "achievement_isnt_this_the_way_to_india",
       "SetID": "8p2n7he",
       "Name": "Isn\u0027t this the way to India?",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_italian_ambition",
@@ -13132,21 +13137,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 50232,
+      "Progressed": 50237,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 50232,
+      "Progressed": 50237,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-06-04T23:57:34.9718419+00:00",
-  "LastChanged_Achievements": "2023-06-05T02:27:39.0020938+00:00",
+  "LastChanged_Achievements": "2023-06-05T03:16:53.3483486+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:21.9407188+00:00",
-  "LastUpdate_Ratings": "2023-06-05T02:17:51.3581103+00:00",
-  "LastUpdate_Achievements": "2023-06-05T02:27:39.0033049+00:00"
+  "LastUpdate_Ratings": "2023-06-05T03:08:13.2830135+00:00",
+  "LastUpdate_Achievements": "2023-06-05T03:16:53.3498004+00:00"
 }
