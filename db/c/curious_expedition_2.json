@@ -2,12 +2,12 @@
   "ID": "2ba34162e36a4caf860fd00f934c8af1",
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 197,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -647,8 +647,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-05T10:07:06.6714688+00:00",
+  "LastChanged_Achievements": "2023-06-05T11:05:43.3586732+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:04.7850575+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:01:26.1411824+00:00",
-  "LastUpdate_Achievements": "2023-06-05T10:07:06.6715097+00:00"
+  "LastUpdate_Ratings": "2023-06-05T11:00:16.1140603+00:00",
+  "LastUpdate_Achievements": "2023-06-05T11:05:43.3587258+00:00"
 }

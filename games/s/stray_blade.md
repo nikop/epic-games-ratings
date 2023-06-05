@@ -8,6 +8,7 @@
 | Tinkerer | 50.00% | ~1 |
 | Defeat Ingla | 50.00% | ~1 |
 | Defeat Tezuth | 50.00% | ~1 |
+| Defeat Uskol | 50.00% | ~1 |
 | Bringing guns to a sword fight | 50.00% | ~1 |
 | Self-Defence | 50.00% | ~1 |
 | Freezing Cold | 50.00% | ~1 |
@@ -26,7 +27,6 @@
 | Craftsmen | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
-| Defeat Uskol | 0.00% | ~0 |
 | Locked and Loaded | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
 | Mountain Lover | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | Master of all Domains | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 394)  
+Progressed: 2 (Ranked 395)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

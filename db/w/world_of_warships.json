@@ -2,12 +2,12 @@
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
   "ProductSlug": "world-of-warships",
-  "Ranking_Rating": 654,
-  "Ranking_Popularity": 130,
+  "Ranking_Rating": 655,
+  "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
@@ -5152,12 +5152,18 @@
       "Rating": 4.42,
       "NumberOfAwards": 9811,
       "NumberOfAwardsMax": 1107
+    },
+    {
+      "Time": "2023-06-05T10:58:35.0197849+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 9815,
+      "NumberOfAwardsMax": 1109
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9811,
-  "NumberOfAwardsMax": 1107,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 9815,
+  "NumberOfAwardsMax": 1109,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
@@ -5181,7 +5187,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1105
+      "Count": 1109
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -5231,8 +5237,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-06-05T08:58:45.3658212+00:00",
+  "LastChanged": "2023-06-05T10:58:35.0197848+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.8048035+00:00",
-  "LastUpdate_Ratings": "2023-06-05T09:59:22.1705204+00:00",
-  "LastUpdate_Achievements": "2023-06-05T10:01:45.2105136+00:00"
+  "LastUpdate_Ratings": "2023-06-05T10:58:35.0197855+00:00",
+  "LastUpdate_Achievements": "2023-06-05T11:00:30.5694902+00:00"
 }

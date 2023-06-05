@@ -2,12 +2,12 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 514,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 794,
+  "EOS_Progressed": 795,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
@@ -604,6 +604,11 @@
       "Time": "2023-06-04T23:06:40.4146874+00:00",
       "NumProgressed": 794,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-05T11:05:35.5266635+00:00",
+      "NumProgressed": 795,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 27,
@@ -615,7 +620,7 @@
       "Name": "Humble beginnings",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -623,7 +628,7 @@
       "Name": "King of hospitality",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -639,7 +644,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -647,7 +652,7 @@
       "Name": "Kaboom",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -663,7 +668,7 @@
       "Name": "Love is in the air",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -695,7 +700,7 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -703,7 +708,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -711,7 +716,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -727,7 +732,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -783,7 +788,7 @@
       "Name": "Still more work ahead",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_STAR_4",
@@ -815,7 +820,7 @@
       "Name": "Excellent service",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -830,7 +835,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 794,
+      "Progressed": 795,
       "Completed": 13
     }
   ],
@@ -838,8 +843,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-06-05T10:06:57.5712866+00:00",
+  "LastChanged_Achievements": "2023-06-05T11:05:35.5266628+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:09.0509421+00:00",
-  "LastUpdate_Ratings": "2023-06-05T09:57:29.8728661+00:00",
-  "LastUpdate_Achievements": "2023-06-05T10:06:57.5713035+00:00"
+  "LastUpdate_Ratings": "2023-06-05T10:57:07.5332235+00:00",
+  "LastUpdate_Achievements": "2023-06-05T11:05:35.5266861+00:00"
 }

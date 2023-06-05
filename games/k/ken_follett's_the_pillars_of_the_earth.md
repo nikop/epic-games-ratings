@@ -1,17 +1,17 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 513)  
+Rating: 4.52 (Ranked 514)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 42.00% | ~5,458 |
-| Man of politics | 36.00% | ~4,678 |
-| Friends of sorts | 34.00% | ~4,418 |
-| Yet another secret | 34.00% | ~4,418 |
-| Let there be darkness | 33.00% | ~4,288 |
-| End of Book One | 31.00% | ~4,028 |
+| Man of politics | 36.00% | ~4,679 |
+| Friends of sorts | 34.00% | ~4,419 |
+| Yet another secret | 34.00% | ~4,419 |
+| Let there be darkness | 33.00% | ~4,289 |
+| End of Book One | 31.00% | ~4,029 |
 | Garden of Eden | 25.00% | ~3,249 |
 | Wannabe knight | 24.00% | ~3,119 |
 | Full house | 24.00% | ~3,119 |
@@ -25,9 +25,9 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~1,819 |
 | Exterminator | 14.00% | ~1,819 |
 | Whodunnit | 13.00% | ~1,689 |
-| Good midwife | 11.00% | ~1,429 |
-| Friar Tuck | 11.00% | ~1,429 |
-| First profit | 11.00% | ~1,429 |
+| Good midwife | 11.00% | ~1,430 |
+| Friar Tuck | 11.00% | ~1,430 |
+| First profit | 11.00% | ~1,430 |
 | Team player | 10.00% | ~1,300 |
 | Skilled merchant | 9.00% | ~1,170 |
 | Nothing but make-believe | 9.00% | ~1,170 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~390 |
 | Boy of mystery | 2.00% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,995 (Ranked 105)  
+Progressed: 12,996 (Ranked 105)  
 Completed: 99 (0.76%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 99 (0.76%) (Ranked 101)
 | 2023-06-02 | 12,925 | 97 |
 | 2023-06-03 | 12,953 | 97 |
 | 2023-06-04 | 12,985 | 99 |
-| 2023-06-05 | 12,995 | 99 |
+| 2023-06-05 | 12,996 | 99 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 288)  
 Sum: 188 (Ranked 356)  

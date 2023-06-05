@@ -1,20 +1,20 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 589)  
+Rating: 4.47 (Ranked 590)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~4,357 |
-| Leader | 61.00% | ~3,743 |
-| Explorer | 53.00% | ~3,252 |
-| Healer | 53.00% | ~3,252 |
-| Aspiring Inventor | 45.00% | ~2,761 |
+| Leader | 61.00% | ~3,744 |
+| Explorer | 53.00% | ~3,253 |
+| Healer | 53.00% | ~3,253 |
+| Aspiring Inventor | 45.00% | ~2,762 |
 | Adventurer | 41.00% | ~2,516 |
 | Famous Healer | 38.00% | ~2,332 |
 | Local Leader | 35.00% | ~2,148 |
-| New Opportunities | 34.00% | ~2,086 |
+| New Opportunities | 34.00% | ~2,087 |
 | Famous Explorer | 33.00% | ~2,025 |
 | Energized | 33.00% | ~2,025 |
 | The Long Haul | 33.00% | ~2,025 |
@@ -23,7 +23,7 @@ Number of Ratings: 836  (23.09.2022)
 | Cleaner | 28.00% | ~1,718 |
 | Catastrofan | 28.00% | ~1,718 |
 | Legendary Explorer | 27.00% | ~1,657 |
-| Finders, Keepers | 26.00% | ~1,595 |
+| Finders, Keepers | 26.00% | ~1,596 |
 | Top Notch | 24.00% | ~1,473 |
 | Great Leader | 22.00% | ~1,350 |
 | Ice Lakes | 22.00% | ~1,350 |
@@ -35,7 +35,7 @@ Number of Ratings: 836  (23.09.2022)
 | Big Game Hunter | 17.00% | ~1,043 |
 | Friendly | 16.00% | ~982 |
 | Spreading Influence | 16.00% | ~982 |
-| Around the World | 15.00% | ~920 |
+| Around the World | 15.00% | ~921 |
 | Bookworm | 14.00% | ~859 |
 | Famous Adventurer | 13.00% | ~798 |
 | Prepared for Anything | 13.00% | ~798 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,136 (Ranked 121)  
+Progressed: 6,137 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 6,044 | 0 |
 | 2023-06-03 | 6,087 | 0 |
 | 2023-06-04 | 6,125 | 0 |
-| 2023-06-05 | 6,136 | 0 |
+| 2023-06-05 | 6,137 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 327)  
 Sum: 659 (Ranked 272)  

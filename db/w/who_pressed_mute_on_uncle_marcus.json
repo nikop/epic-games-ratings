@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 178,
-  "EOS_Completed": 16,
+  "EOS_Completed": 17,
   "EOS_NewPlayers": 13,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 8.99,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 9.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -207,6 +207,11 @@
       "Time": "2023-06-05T02:27:17.2163882+00:00",
       "NumProgressed": 178,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-05T11:05:30.9830481+00:00",
+      "NumProgressed": 178,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 17,
@@ -304,9 +309,9 @@
       "ID": "prove_it",
       "SetID": "202dmm8",
       "Name": "Prove it",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "sorry_kiddo",
@@ -320,9 +325,9 @@
       "ID": "the_truth",
       "SetID": "202dmm8",
       "Name": "The truth",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "the_whole_truth",
@@ -354,15 +359,15 @@
       "ID": "202dmm8",
       "IsBase": true,
       "Progressed": 178,
-      "Completed": 16
+      "Completed": 17
     }
   ],
   "FirstSeen": "2022-11-05T14:31:21.414427+00:00",
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-06-05T10:06:52.2106392+00:00",
+  "LastChanged_Achievements": "2023-06-05T11:05:30.9830476+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:33.3923055+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:00:54.1057601+00:00",
-  "LastUpdate_Achievements": "2023-06-05T10:06:52.2106504+00:00"
+  "LastUpdate_Ratings": "2023-06-05T10:59:47.2723351+00:00",
+  "LastUpdate_Achievements": "2023-06-05T11:05:30.9830633+00:00"
 }

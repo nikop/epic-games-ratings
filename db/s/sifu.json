@@ -4428,9 +4428,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 707488,
+  "EOS_Progressed": 707502,
   "EOS_Completed": 12758,
-  "EOS_NewPlayers": 1345,
+  "EOS_NewPlayers": 1348,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8603,6 +8603,11 @@
       "Time": "2023-06-05T10:07:02.9498539+00:00",
       "NumProgressed": 707488,
       "NumCompleted": 12758
+    },
+    {
+      "Time": "2023-06-05T11:05:40.0545874+00:00",
+      "NumProgressed": 707502,
+      "NumCompleted": 12758
     }
   ],
   "TotalAchievements": 50,
@@ -8654,7 +8659,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 6367
+      "UsersEstimate": 6368
     },
     {
       "ID": "07_Wude_H1",
@@ -8662,7 +8667,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "08_Wude_H2",
@@ -8670,7 +8675,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "09_Wude_H3",
@@ -8678,7 +8683,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "10_Wude_H4",
@@ -8726,7 +8731,7 @@
       "Name": "Detective Story",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "16_Detective_H2",
@@ -8750,7 +8755,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "19_Detective_H5",
@@ -8766,7 +8771,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6367
+      "UsersEstimate": 6368
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -8774,7 +8779,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4952
+      "UsersEstimate": 4953
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -8806,7 +8811,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4952
+      "UsersEstimate": 4953
     },
     {
       "ID": "26_ShrineSpirit",
@@ -8846,7 +8851,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4952
+      "UsersEstimate": 4953
     },
     {
       "ID": "31_ComboHigh",
@@ -8854,7 +8859,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "32_ReachMaxAge",
@@ -8862,7 +8867,7 @@
       "Name": "Old Child",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6367
+      "UsersEstimate": 6368
     },
     {
       "ID": "33_BladeOneShot",
@@ -8886,7 +8891,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4952
+      "UsersEstimate": 4953
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -8926,7 +8931,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6367
+      "UsersEstimate": 6368
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -8934,7 +8939,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -9013,21 +9018,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16789,
-      "Completed": 10224
+      "Progressed": 16803,
+      "Completed": 10225
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707488,
+      "Progressed": 707502,
       "Completed": 12758
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-05T03:09:44.811688+00:00",
-  "LastChanged_Achievements": "2023-06-05T10:07:02.9498535+00:00",
+  "LastChanged_Achievements": "2023-06-05T11:05:40.0545869+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-05T09:59:36.1515086+00:00",
-  "LastUpdate_Achievements": "2023-06-05T10:07:02.9499063+00:00"
+  "LastUpdate_Ratings": "2023-06-05T10:58:45.7665049+00:00",
+  "LastUpdate_Achievements": "2023-06-05T11:05:40.0546574+00:00"
 }

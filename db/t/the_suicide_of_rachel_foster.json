@@ -2,7 +2,7 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 839,
+  "Ranking_Rating": 840,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 167,
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1115,
+  "EOS_Progressed": 1116,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.93,
   "EosHistory": [
@@ -927,6 +927,11 @@
       "Time": "2023-06-05T05:06:31.0378093+00:00",
       "NumProgressed": 1115,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-05T11:05:29.9118688+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 11,
@@ -938,7 +943,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -1002,7 +1007,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1010,7 +1015,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -1018,22 +1023,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1115,
+      "Progressed": 1116,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-06-05T10:06:50.9693057+00:00",
+  "LastChanged_Achievements": "2023-06-05T11:05:29.9118683+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:29.7532968+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:00:50.3748293+00:00",
-  "LastUpdate_Achievements": "2023-06-05T10:06:50.9693169+00:00"
+  "LastUpdate_Ratings": "2023-06-05T10:59:44.6064271+00:00",
+  "LastUpdate_Achievements": "2023-06-05T11:05:29.9118819+00:00"
 }

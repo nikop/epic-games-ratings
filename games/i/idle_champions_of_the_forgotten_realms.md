@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 884)  
+Rating: 4.06 (Ranked 885)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.60% | ~539 |
 | Were-verpowered | 0.50% | ~449 |
 | Seeking Allies | 0.50% | ~449 |
+| Mad Cow Disease | 0.50% | ~449 |
 | Friendly Imps | 0.50% | ~449 |
 | Coasting to the Finish | 0.50% | ~281 |
 | Quick or Quack | 0.50% | ~281 |
@@ -27,7 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.40% | ~359 |
 | Unearthed Evil | 0.40% | ~359 |
 | The Crumbling Temple | 0.40% | ~359 |
-| Mad Cow Disease | 0.40% | ~359 |
+| Exploring Port Nyanzaru | 0.40% | ~359 |
 | Pure Energy | 0.40% | ~359 |
 | Maddening | 0.30% | ~270 |
 | Frail Doesn't Mean Broken | 0.30% | ~168 |
@@ -40,13 +41,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.30% | ~270 |
 | Building Trust | 0.30% | ~270 |
 | Useless Allies | 0.30% | ~270 |
-| Exploring Port Nyanzaru | 0.30% | ~270 |
 | Running of the Saurs | 0.30% | ~270 |
 | The Contagious Curse | 0.30% | ~270 |
 | An Even Worse Time in Avernus | 0.30% | ~168 |
 | Escort to Waterdeep | 0.30% | ~270 |
 | Waterdeep Detours | 0.30% | ~270 |
 | Underdeep Cartography | 0.30% | ~270 |
+| The Templar's Camp | 0.30% | ~270 |
 | Pros and CONs | 0.20% | ~180 |
 | Tall Tales | 0.20% | ~112 |
 | Nightmare Rats! | 0.20% | ~112 |
@@ -104,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.20% | ~180 |
 | The Dinner Party | 0.20% | ~180 |
 | The Botched Kidnapping | 0.20% | ~180 |
+| Haaave You Met Asmodeus? | 0.20% | ~180 |
 | The Immortal Warrior | 0.20% | ~180 |
 | Tower on the Lake | 0.20% | ~180 |
 | Seeds of Deceit | 0.20% | ~180 |
@@ -163,7 +165,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Expert Opinion | 0.20% | ~180 |
 | Witty Riposting | 0.20% | ~112 |
 | How Far Away is Thay | 0.20% | ~112 |
-| The Templar's Camp | 0.20% | ~180 |
 | The Haunted Jungle | 0.20% | ~180 |
 | Rescue in the Jungle | 0.20% | ~180 |
 | Upholding the Law | 0.10% | ~90 |
@@ -271,7 +272,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.10% | ~90 |
 | Modron Assistance | 0.10% | ~90 |
 | Thine Bounty is Mine! | 0.10% | ~56 |
-| Haaave You Met Asmodeus? | 0.10% | ~90 |
 | Domesticated Owlbears | 0.10% | ~90 |
 | This Quest Stinks! | 0.10% | ~56 |
 | Hold for the Red Wizards | 0.10% | ~90 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,837 (Ranked 62)  
-Completed: 1,916 (2.13%) (Ranked 65)  
+Progressed: 89,839 (Ranked 62)  
+Completed: 1,916 (2.13%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -546,7 +546,7 @@ Completed: 1,916 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,837 | 1,916 |
+| 2023-06-05 | 89,839 | 1,916 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,033 (Ranked 37)  

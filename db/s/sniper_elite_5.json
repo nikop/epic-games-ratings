@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 629,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 147,
@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2267,
+  "EOS_Progressed": 2270,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 478,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2550,6 +2550,11 @@
       "Time": "2023-06-05T09:05:41.7361529+00:00",
       "NumProgressed": 2267,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T11:05:28.3715981+00:00",
+      "NumProgressed": 2270,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2609,7 +2614,7 @@
       "Name": "Fields of Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -2641,7 +2646,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2777,7 +2782,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -2785,7 +2790,7 @@
       "Name": "Resourceful",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2809,7 +2814,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2817,7 +2822,7 @@
       "Name": "Close Quarters",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -2825,7 +2830,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -2873,7 +2878,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2937,7 +2942,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -2951,9 +2956,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3128,13 +3133,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2218,
+      "Progressed": 2221,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2267,
+      "Progressed": 2270,
       "Completed": 2
     }
   ],
@@ -3142,8 +3147,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-03T14:01:18.0767881+00:00",
-  "LastChanged_Achievements": "2023-06-05T10:06:49.0838181+00:00",
+  "LastChanged_Achievements": "2023-06-05T11:05:28.3715976+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-05T10:01:23.9617933+00:00",
-  "LastUpdate_Achievements": "2023-06-05T10:06:49.0838809+00:00"
+  "LastUpdate_Ratings": "2023-06-05T11:00:11.7867186+00:00",
+  "LastUpdate_Achievements": "2023-06-05T11:05:28.3716773+00:00"
 }

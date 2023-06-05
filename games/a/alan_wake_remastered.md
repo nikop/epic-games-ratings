@@ -1,34 +1,34 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.56 (Ranked 452)  
+Rating: 4.56 (Ranked 453)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 28.00% | ~14,619 |
-| Let There Be Light | 22.00% | ~11,487 |
-| Float Like a Butterfly | 21.00% | ~10,965 |
-| Nordic Walking | 17.00% | ~8,876 |
-| Bright Falls' Finest | 16.00% | ~8,354 |
+| Follow the Light | 28.00% | ~14,621 |
+| Let There Be Light | 22.00% | ~11,488 |
+| Float Like a Butterfly | 21.00% | ~10,966 |
+| Nordic Walking | 17.00% | ~8,877 |
+| Bright Falls' Finest | 16.00% | ~8,355 |
 | Under a Thin Layer of Skin | 14.00% | ~7,310 |
-| Park Ranger | 12.00% | ~6,265 |
-| Paging Mr. Wake | 12.00% | ~6,265 |
-| Back! Back, I Say! | 11.00% | ~5,743 |
-| Finders Keepers | 11.00% | ~5,743 |
-| Sound and Fury | 10.00% | ~5,221 |
-| Damn Good Cup of Coffee | 10.00% | ~5,221 |
-| Wheels Within Wheels | 9.00% | ~4,699 |
-| They're Heeeeeere! | 9.00% | ~4,699 |
-| The Six-Gun Scribe | 9.00% | ~4,699 |
-| Missed by a Mile | 9.00% | ~4,699 |
+| Park Ranger | 12.00% | ~6,266 |
+| Paging Mr. Wake | 12.00% | ~6,266 |
+| Back! Back, I Say! | 11.00% | ~5,744 |
+| Finders Keepers | 11.00% | ~5,744 |
+| Sound and Fury | 10.00% | ~5,222 |
+| Damn Good Cup of Coffee | 10.00% | ~5,222 |
+| Wheels Within Wheels | 9.00% | ~4,700 |
+| They're Heeeeeere! | 9.00% | ~4,700 |
+| The Six-Gun Scribe | 9.00% | ~4,700 |
+| Missed by a Mile | 9.00% | ~4,700 |
 | Heavy Metal | 8.00% | ~4,177 |
 | Iron Horse | 8.00% | ~4,177 |
 | Perchance to Dream | 8.00% | ~4,177 |
 | Thunder and Lightning | 8.00% | ~4,177 |
 | Collateral Carnage | 8.00% | ~4,177 |
 | Come One, Come All | 8.00% | ~4,177 |
-| A Friend in Need | 8.00% | ~1,254 |
+| A Friend in Need | 8.00% | ~1,255 |
 | Gatekeeper | 7.00% | ~3,655 |
 | The Lady of the Light | 7.00% | ~3,655 |
 | It's Not Just a Typewriter Brand | 7.00% | ~3,655 |
@@ -40,14 +40,14 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 5.00% | ~2,611 |
 | Departure | 5.00% | ~2,611 |
 | Ding! | 5.00% | ~784 |
-| Drink 'Em Both Up | 4.00% | ~2,088 |
-| Hardboiled Writer | 4.00% | ~2,088 |
-| Boob Tube | 3.00% | ~1,566 |
-| Children of the Elder God | 3.00% | ~1,566 |
-| If It Flies, It Burns | 3.00% | ~1,566 |
-| KBF-FM | 3.00% | ~1,566 |
-| Kill Your Darlings | 3.00% | ~470 |
-| Heartbreaker | 3.00% | ~470 |
+| Drink 'Em Both Up | 4.00% | ~2,089 |
+| Hardboiled Writer | 4.00% | ~2,089 |
+| Boob Tube | 3.00% | ~1,567 |
+| Children of the Elder God | 3.00% | ~1,567 |
+| If It Flies, It Burns | 3.00% | ~1,567 |
+| KBF-FM | 3.00% | ~1,567 |
+| Kill Your Darlings | 3.00% | ~471 |
+| Heartbreaker | 3.00% | ~471 |
 | Carny | 2.00% | ~1,044 |
 | Iron Will | 2.00% | ~314 |
 | Medical Opinions | 1.00% | ~522 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~52 |
 | No Punctuation | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,212 (Ranked 76)  
+Progressed: 52,217 (Ranked 76)  
 Completed: 48 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 48 (0.09%) (Ranked 170)
 | 2023-06-02 | 51,437 | 48 |
 | 2023-06-03 | 51,789 | 48 |
 | 2023-06-04 | 52,120 | 48 |
-| 2023-06-05 | 52,212 | 48 |
+| 2023-06-05 | 52,217 | 48 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

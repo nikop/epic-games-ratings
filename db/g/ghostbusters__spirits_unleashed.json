@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 562,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 93,
@@ -1134,9 +1134,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22672,
+  "EOS_Progressed": 22673,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4569,6 +4569,11 @@
       "Time": "2023-06-05T07:05:43.8987387+00:00",
       "NumProgressed": 22672,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-05T11:05:38.5741097+00:00",
+      "NumProgressed": 22673,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -4604,7 +4609,7 @@
       "Name": "We have the best insurance",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6121
+      "UsersEstimate": 6122
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -4628,7 +4633,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11789
+      "UsersEstimate": 11790
     },
     {
       "ID": "Collector",
@@ -4636,7 +4641,7 @@
       "Name": "Collector",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5441
+      "UsersEstimate": 5442
     },
     {
       "ID": "Cultured",
@@ -4644,7 +4649,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 12016
+      "UsersEstimate": 12017
     },
     {
       "ID": "Daily_Dose",
@@ -4652,7 +4657,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7935
+      "UsersEstimate": 7936
     },
     {
       "ID": "Diabolical",
@@ -4684,7 +4689,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5441
+      "UsersEstimate": 5442
     },
     {
       "ID": "Efficient",
@@ -4692,7 +4697,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14510
+      "UsersEstimate": 14511
     },
     {
       "ID": "Escape_Artist",
@@ -4708,7 +4713,7 @@
       "Name": "Fragile Panes",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "Fully_Upgraded",
@@ -4724,7 +4729,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 7028
+      "UsersEstimate": 7029
     },
     {
       "ID": "Ghost_Expert",
@@ -4748,7 +4753,7 @@
       "Name": "Legions",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6121
+      "UsersEstimate": 6122
     },
     {
       "ID": "Liability",
@@ -4812,7 +4817,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "Rift_Seeker",
@@ -4876,7 +4881,7 @@
       "Name": "Stunner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6121
+      "UsersEstimate": 6122
     },
     {
       "ID": "Stylish",
@@ -4884,7 +4889,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19498
+      "UsersEstimate": 19499
     },
     {
       "ID": "Summoner",
@@ -4892,7 +4897,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6121
+      "UsersEstimate": 6122
     },
     {
       "ID": "Surprise",
@@ -4900,7 +4905,7 @@
       "Name": "Surprise!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "Swift_Removers",
@@ -4908,7 +4913,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 12696
+      "UsersEstimate": 12697
     },
     {
       "ID": "Teamwork",
@@ -4964,7 +4969,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 11109
+      "UsersEstimate": 11110
     },
     {
       "ID": "Welcome_Crew",
@@ -4987,7 +4992,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22672,
+      "Progressed": 22673,
       "Completed": 40
     }
   ],
@@ -4995,8 +5000,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-05T08:58:52.6277914+00:00",
-  "LastChanged_Achievements": "2023-06-05T10:07:01.1601636+00:00",
+  "LastChanged_Achievements": "2023-06-05T11:05:38.5741092+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6996784+00:00",
-  "LastUpdate_Ratings": "2023-06-05T09:59:30.1792165+00:00",
-  "LastUpdate_Achievements": "2023-06-05T10:07:01.1602139+00:00"
+  "LastUpdate_Ratings": "2023-06-05T10:58:41.0888482+00:00",
+  "LastUpdate_Achievements": "2023-06-05T11:05:38.5741701+00:00"
 }

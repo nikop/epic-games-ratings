@@ -2,11 +2,11 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 884,
+  "Ranking_Rating": 885,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -4114,10 +4114,10 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89837,
+  "EOS_Progressed": 89839,
   "EOS_Completed": 1916,
-  "EOS_NewPlayers": 746,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 740,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8739,6 +8739,11 @@
       "Time": "2023-06-05T10:07:12.7432668+00:00",
       "NumProgressed": 89837,
       "NumCompleted": 1916
+    },
+    {
+      "Time": "2023-06-05T11:05:48.905724+00:00",
+      "NumProgressed": 89839,
+      "NumCompleted": 1916
     }
   ],
   "TotalAchievements": 493,
@@ -10204,9 +10209,9 @@
       "ID": "objective_completed_236",
       "SetID": "cc37lbc",
       "Name": "Haaave You Met Asmodeus?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_237",
@@ -10884,17 +10889,17 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 449
     },
     {
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 359
     },
     {
       "ID": "objective_completed_540",
@@ -12620,9 +12625,9 @@
       "ID": "objective_completed_94",
       "SetID": "cc37lbc",
       "Name": "The Templar\u0027s Camp",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_95",
@@ -12693,21 +12698,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56111,
+      "Progressed": 56113,
       "Completed": 2769
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89837,
+      "Progressed": 89839,
       "Completed": 1916
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-04T22:58:24.4036203+00:00",
-  "LastChanged_Achievements": "2023-06-05T10:07:12.7432663+00:00",
+  "LastChanged_Achievements": "2023-06-05T11:05:48.9057236+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-05T09:58:29.2291121+00:00",
-  "LastUpdate_Achievements": "2023-06-05T10:07:12.7453941+00:00"
+  "LastUpdate_Ratings": "2023-06-05T10:57:56.9956353+00:00",
+  "LastUpdate_Achievements": "2023-06-05T11:05:48.9084813+00:00"
 }

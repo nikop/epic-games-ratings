@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 61.00% | ~157 |
-| Gorilla warfare | 57.00% | ~147 |
+| Caged tiger | 61.00% | ~158 |
+| Gorilla warfare | 57.00% | ~148 |
 | Isenburg's fall | 48.00% | ~124 |
 | Pieces of eight! | 41.00% | ~106 |
 | Aboard the Sea Bird | 31.00% | ~80 |
-| Elephant in the room | 30.00% | ~77 |
+| Elephant in the room | 30.00% | ~78 |
 | Dark and stinky | 29.00% | ~75 |
 | Sneak in, sneak out | 26.00% | ~67 |
 | Is this the end? | 24.00% | ~62 |
 | A gift horse | 24.00% | ~62 |
 | You sssaved me | 24.00% | ~62 |
-| Say hello to my little friends | 21.00% | ~54 |
+| Say hello to my little friends | 20.00% | ~52 |
 | Gotcha | 19.00% | ~49 |
-| Heal thyself | 18.00% | ~46 |
+| Heal thyself | 18.00% | ~47 |
 | It's not cheating | 17.00% | ~44 |
 | Double trouble | 16.00% | ~41 |
 | Stronk | 15.00% | ~39 |
 | Welcome to Forte Ailes | 13.00% | ~34 |
 | Super Moth Boy | 12.00% | ~31 |
-| Meet your maker | 9.00% | ~23 |
 | The Bad Place | 9.00% | ~23 |
+| Meet your maker | 8.00% | ~21 |
 | A grave matter | 7.00% | ~18 |
 | The pelican brief | 7.00% | ~18 |
 | Peaceful protest | 7.00% | ~18 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258 (Ranked 233)  
+Progressed: 259 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,6 +59,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-05-21 | 256 | 0 |
 | 2023-05-23 | 257 | 0 |
 | 2023-05-31 | 258 | 0 |
+| 2023-06-05 | 259 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

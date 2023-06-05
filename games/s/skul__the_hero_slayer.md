@@ -6,21 +6,21 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,088 |
-| What should I buy? | 83.00% | ~6,325 |
-| Focus! | 62.00% | ~4,725 |
-| Rescued Elder Ent | 62.00% | ~4,725 |
-| The End of the Gold Mane Knights | 47.00% | ~3,582 |
-| Rules of Etiquette | 39.00% | ~2,972 |
-| False Goddess, Disappear | 38.00% | ~2,896 |
-| Quick Movements | 33.00% | ~2,515 |
-| Inventory Management | 33.00% | ~2,515 |
-| The Fall of the Leonia Order | 29.00% | ~2,210 |
+| The Legend Begins | 93.00% | ~7,089 |
+| What should I buy? | 83.00% | ~6,327 |
+| Focus! | 62.00% | ~4,726 |
+| Rescued Elder Ent | 62.00% | ~4,726 |
+| The End of the Gold Mane Knights | 47.00% | ~3,583 |
+| Rules of Etiquette | 39.00% | ~2,973 |
+| False Goddess, Disappear | 38.00% | ~2,897 |
+| Quick Movements | 33.00% | ~2,516 |
+| Inventory Management | 33.00% | ~2,516 |
+| The Fall of the Leonia Order | 29.00% | ~2,211 |
 | The Hero Killer | 27.00% | ~2,058 |
-| Go Home... | 26.00% | ~1,981 |
-| The Final Battle of the First Hero | 25.00% | ~1,905 |
+| Go Home... | 26.00% | ~1,982 |
+| The Final Battle of the First Hero | 25.00% | ~1,906 |
 | Brain at Full Throttle | 22.00% | ~1,677 |
-| Rookies Welcome | 20.00% | ~1,524 |
+| Rookies Welcome | 20.00% | ~1,525 |
 | Deadly Power | 15.00% | ~1,143 |
 | Castle Restoration Plans | 14.00% | ~1,067 |
 | The Dwarven Chandelier | 12.00% | ~915 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~76 |
 | Cold-Blooded | 0.80% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,621 (Ranked 115)  
+Progressed: 7,623 (Ranked 115)  
 Completed: 11 (0.14%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 11 (0.14%) (Ranked 157)
 | 2023-06-02 | 7,564 | 11 |
 | 2023-06-03 | 7,590 | 11 |
 | 2023-06-04 | 7,616 | 11 |
-| 2023-06-05 | 7,621 | 11 |
+| 2023-06-05 | 7,623 | 11 |
 ## Awards
 Max (Diverse Characters): 115  (Ranked 312)  
 Sum: 760 (Ranked 254)  

@@ -1,13 +1,13 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.54 (Ranked 489)  
+Rating: 4.54 (Ranked 490)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 78.00% | ~3,385 |
 | Realm Estate | 75.00% | ~3,255 |
-| Secret Technique | 74.00% | ~3,212 |
+| Secret Technique | 75.00% | ~3,255 |
 | Walls Cannot Stop Us | 73.00% | ~3,168 |
 | From Friends to Family | 69.00% | ~2,995 |
 | Magical Synergy | 64.00% | ~2,778 |
@@ -20,7 +20,7 @@ Rating: 4.54 (Ranked 489)
 | My Final Form | 43.00% | ~1,866 |
 | Valley of Wonders | 41.00% | ~1,779 |
 | In a Liege of Your Own | 37.00% | ~1,606 |
-| Return of the Wizard King | 30.00% | ~1,302 |
+| Return of the Wizard King | 31.00% | ~1,345 |
 | Digging for Treasure | 30.00% | ~1,302 |
 | Against the Odds | 30.00% | ~1,302 |
 | Enchanted Archipelago | 27.00% | ~1,172 |
@@ -33,8 +33,8 @@ Rating: 4.54 (Ranked 489)
 | Eternal Lord | 16.00% | ~694 |
 | Lord of Chaos | 14.00% | ~608 |
 | The Creator | 14.00% | ~608 |
+| The Goddess of Nature | 14.00% | ~608 |
 | Fiery Friend | 14.00% | ~608 |
-| The Goddess of Nature | 13.00% | ~564 |
 | The Eternal Court | 9.00% | ~391 |
 | Pruning for Progress | 9.00% | ~391 |
 | Jack of All Tomes | 8.00% | ~347 |

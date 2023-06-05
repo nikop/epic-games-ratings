@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 16.00% | ~1,527 |
+| Devoured by Darkness | 16.00% | ~1,528 |
 | Burning City | 11.00% | ~1,050 |
 | A Spark | 11.00% | ~1,050 |
 | Mythic Choices | 9.00% | ~859 |
@@ -28,6 +28,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Get the Toad | 3.00% | ~286 |
 | Heart of the Fallen Land | 2.00% | ~191 |
 | Path of the Trickster | 2.00% | ~191 |
+| Path of the Lich | 2.00% | ~191 |
 | Heroic Victory | 2.00% | ~191 |
 | Divide and Rule | 2.00% | ~191 |
 | Mythic Reinforcements | 2.00% | ~191 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Beware Still Water | 2.00% | ~167 |
 | Path of the Demon | 1.00% | ~95 |
 | Path of the Aeon | 1.00% | ~95 |
-| Path of the Lich | 1.00% | ~95 |
 | Capitulation Is Now Moot | 1.00% | ~95 |
 | Truly Important Deed | 1.00% | ~95 |
 | Abyssal Conspiracy | 0.90% | ~86 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,546 (Ranked 112)  
+Progressed: 9,547 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,10 +169,10 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 9,452 | 0 |
 | 2023-06-03 | 9,484 | 0 |
 | 2023-06-04 | 9,533 | 0 |
-| 2023-06-05 | 9,546 | 0 |
+| 2023-06-05 | 9,547 | 0 |
 ## Awards
 Max (Character Customization): 1,651  (Ranked 111)  
-Sum: 6,697 (Ranked 110)  
+Sum: 6,699 (Ranked 110)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -181,7 +181,7 @@ Diff (max vs sum): 1
 | This game has Amazing Characters | 611 |
 | This game is Highly Recommended | 610 |
 | This game has Diverse Characters | 598 |
-| This game has Amazing Storytelling | 591 |
+| This game has Amazing Storytelling | 593 |
 | This game has Quickly Understood Controls | 551 |
 | This game has Challenging Combat | 551 |
 | This game is Relaxing | 527 |
@@ -319,4 +319,4 @@ Diff (max vs sum): 1
 | 2023-06-02 | 4.76 | - | 1,646 | 6,683 |
 | 2023-06-03 | 4.76 | - | 1,648 | 6,689 |
 | 2023-06-04 | 4.76 | - | 1,651 | 6,695 |
-| 2023-06-05 | 4.76 | - | 1,651 | 6,697 |
+| 2023-06-05 | 4.76 | - | 1,651 | 6,699 |

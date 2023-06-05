@@ -1,26 +1,26 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 528)  
+Rating: 4.51 (Ranked 529)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~549,824 |
-| Error: Stack Overflow | 66.00% | ~390,198 |
-| We need more gold | 60.00% | ~354,725 |
-| The dawn of civilization | 53.00% | ~313,341 |
-| More FPS for the FPS god! | 49.00% | ~289,692 |
-| Beauty and harmony | 48.00% | ~283,780 |
-| One more! | 44.00% | ~260,132 |
-| Overmind | 24.00% | ~141,890 |
-| RNG is my best friend now | 18.00% | ~106,418 |
-| Cosplay | 13.00% | ~76,857 |
-| Evolution in progress... | 13.00% | ~76,857 |
+| First.. Bit? | 93.00% | ~549,833 |
+| Error: Stack Overflow | 66.00% | ~390,204 |
+| We need more gold | 60.00% | ~354,731 |
+| The dawn of civilization | 53.00% | ~313,346 |
+| More FPS for the FPS god! | 49.00% | ~289,697 |
+| Beauty and harmony | 48.00% | ~283,785 |
+| One more! | 44.00% | ~260,136 |
+| Overmind | 24.00% | ~141,892 |
+| RNG is my best friend now | 18.00% | ~106,419 |
+| Cosplay | 13.00% | ~76,858 |
+| Evolution in progress... | 13.00% | ~76,858 |
 | Step by step | 8.00% | ~47,297 |
-| README reader | 3.00% | ~17,736 |
-| Data scientist | 3.00% | ~17,736 |
-| One small step for a man... | 3.00% | ~17,736 |
+| README reader | 3.00% | ~17,737 |
+| Data scientist | 3.00% | ~17,737 |
+| One small step for a man... | 3.00% | ~17,737 |
 | To see it all, to learn it all | 2.00% | ~11,824 |
 | Evolution complete | 2.00% | ~11,824 |
 | Is this Skynet? | 2.00% | ~11,824 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,774 |
 | The Scrooge | 0.10% | ~591 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 591,209 (Ranked 22)  
+Progressed: 591,218 (Ranked 22)  
 Completed: 487 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 487 (0.08%) (Ranked 173)
 | 2023-06-02 | 590,812 | 487 |
 | 2023-06-03 | 590,983 | 487 |
 | 2023-06-04 | 591,152 | 487 |
-| 2023-06-05 | 591,209 | 487 |
+| 2023-06-05 | 591,218 | 487 |
 ## Awards
 Max (Challenging Puzzles): 132  (Ranked 298)  
 Sum: 132 (Ranked 388)  

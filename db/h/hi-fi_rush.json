@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 2743,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2558,9 +2558,9 @@
       "ID": "Ach031",
       "SetID": "12n4k20",
       "Name": "Perfect Parry",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1509
     },
     {
       "ID": "Ach032",
@@ -2821,8 +2821,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-03T21:58:22.8890273+00:00",
-  "LastChanged_Achievements": "2023-06-05T10:06:59.7341979+00:00",
+  "LastChanged_Achievements": "2023-06-05T11:05:37.3593037+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:48.102192+00:00",
-  "LastUpdate_Ratings": "2023-06-05T09:59:03.3786363+00:00",
-  "LastUpdate_Achievements": "2023-06-05T10:06:59.7342643+00:00"
+  "LastUpdate_Ratings": "2023-06-05T10:58:22.985543+00:00",
+  "LastUpdate_Achievements": "2023-06-05T11:05:37.3593755+00:00"
 }

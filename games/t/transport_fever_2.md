@@ -37,7 +37,7 @@ Number of Ratings: 180  (23.09.2022)
 | City | 28.00% | ~342 |
 | The king of the sea | 28.00% | ~342 |
 | Transport tycoon | 24.00% | ~293 |
-| Climate change | 22.00% | ~269 |
+| Climate change | 23.00% | ~281 |
 | Old timer | 22.00% | ~269 |
 | The ugly smell of success | 22.00% | ~269 |
 | Heavily loaded | 20.00% | ~244 |

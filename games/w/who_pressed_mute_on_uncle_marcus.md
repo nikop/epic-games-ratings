@@ -17,13 +17,13 @@
 | Brown nosing | 28.00% | ~50 |
 | Cheat | 28.00% | ~50 |
 | Delusions | 27.00% | ~48 |
-| Prove it | 22.00% | ~39 |
-| The truth | 22.00% | ~39 |
+| Prove it | 23.00% | ~41 |
+| The truth | 23.00% | ~41 |
 | Making a murderer | 16.00% | ~28 |
 | The whole truth | 12.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 178 (Ranked 252)  
-Completed: 16 (8.99%) (Ranked 17)  
+Completed: 17 (9.55%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -47,7 +47,7 @@ Completed: 16 (8.99%) (Ranked 17)
 | 2023-06-02 | 173 | 16 |
 | 2023-06-03 | 175 | 16 |
 | 2023-06-04 | 176 | 16 |
-| 2023-06-05 | 178 | 16 |
+| 2023-06-05 | 178 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

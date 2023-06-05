@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 845)  
+Rating: 4.17 (Ranked 846)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,8 +38,8 @@ Rating: 4.17 (Ranked 845)
 | Out of Their League | 0.70% | ~446 |
 | Drone You Out | 0.70% | ~446 |
 | Solid Alibi | 0.60% | ~382 |
-| Fusion Expert | 0.50% | ~318 |
-| Family Meeting | 0.50% | ~318 |
+| Fusion Expert | 0.50% | ~319 |
+| Family Meeting | 0.50% | ~319 |
 | Dressed to Impress | 0.40% | ~255 |
 | Expert Crime Fighter | 0.40% | ~255 |
 | A Worthy Successor | 0.40% | ~255 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 845)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,700 (Ranked 71)  
+Progressed: 63,702 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 93 (0.15%) (Ranked 154)
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
 | 2023-06-04 | 63,645 | 93 |
-| 2023-06-05 | 63,700 | 93 |
+| 2023-06-05 | 63,702 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,291  (Ranked 98)  
 Sum: 3,793 (Ranked 136)  

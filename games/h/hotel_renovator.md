@@ -1,39 +1,39 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.52 (Ranked 513)  
+Rating: 4.52 (Ranked 514)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 75.00% | ~596 |
 | And so it begins | 72.00% | ~572 |
-| No pressure | 69.00% | ~548 |
-| Memento | 61.00% | ~484 |
+| No pressure | 69.00% | ~549 |
+| Memento | 61.00% | ~485 |
 | Let there be light | 58.00% | ~461 |
 | I think you dropped this | 54.00% | ~429 |
 | Soulmate? | 52.00% | ~413 |
-| Excellent service | 48.00% | ~381 |
-| Roll with it | 46.00% | ~365 |
-| Love is in the air | 44.00% | ~349 |
-| Humble beginnings | 43.00% | ~341 |
+| Excellent service | 48.00% | ~382 |
+| Roll with it | 46.00% | ~366 |
+| Love is in the air | 44.00% | ~350 |
+| Humble beginnings | 43.00% | ~342 |
 | Moving up | 41.00% | ~326 |
 | Fine, I'll do it myself | 40.00% | ~318 |
 | No need to call anyone | 38.00% | ~302 |
 | Big fortune | 32.00% | ~254 |
-| Still more work ahead | 28.00% | ~222 |
-| Hotel sleuthing | 27.00% | ~214 |
-| Aesop's fable | 26.00% | ~206 |
-| Kaboom | 25.00% | ~198 |
+| Still more work ahead | 28.00% | ~223 |
+| Hotel sleuthing | 27.00% | ~215 |
+| Aesop's fable | 26.00% | ~207 |
+| Kaboom | 25.00% | ~199 |
 | Nearly there | 24.00% | ~191 |
 | Broken heart | 22.00% | ~175 |
 | Island boy | 21.00% | ~167 |
 | You're a star | 19.00% | ~151 |
 | Unstoppable | 18.00% | ~143 |
 | Reunited | 17.00% | ~135 |
-| King of hospitality | 10.00% | ~79 |
+| King of hospitality | 10.00% | ~80 |
 | Top spot in town | 3.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 794 (Ranked 183)  
+Progressed: 795 (Ranked 183)  
 Completed: 13 (1.64%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 13 (1.64%) (Ranked 71)
 | 2023-06-02 | 788 | 13 |
 | 2023-06-03 | 791 | 13 |
 | 2023-06-04 | 794 | 13 |
+| 2023-06-05 | 795 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,20 +6,20 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,674 |
-| Rookie | 25.00% | ~6,180 |
-| Nomad | 19.00% | ~4,697 |
-| Picking Up Speed | 17.00% | ~4,202 |
-| Welcome Maya | 16.00% | ~3,955 |
-| Sightseer | 12.00% | ~2,966 |
+| Finding Your Footing | 27.00% | ~6,676 |
+| Rookie | 25.00% | ~6,181 |
+| Nomad | 19.00% | ~4,698 |
+| Picking Up Speed | 17.00% | ~4,203 |
+| Welcome Maya | 16.00% | ~3,956 |
+| Sightseer | 12.00% | ~2,967 |
 | Scout | 10.00% | ~2,472 |
 | Amateur | 9.00% | ~2,225 |
 | Wanderer | 9.00% | ~2,225 |
 | Enter Paz | 8.00% | ~1,978 |
-| Unlock Maya | 7.00% | ~1,730 |
-| Aviator | 6.00% | ~1,483 |
-| One With The Board | 6.00% | ~1,483 |
-| Voyager | 6.00% | ~1,483 |
+| Unlock Maya | 7.00% | ~1,731 |
+| Aviator | 6.00% | ~1,484 |
+| One With The Board | 6.00% | ~1,484 |
+| Voyager | 6.00% | ~1,484 |
 | My Little Friend | 5.00% | ~1,236 |
 | Sandboarder | 4.00% | ~989 |
 | Izel Has Arrived | 4.00% | ~989 |
@@ -35,7 +35,7 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Izel | 1.00% | ~247 |
 | Introducing Sumara | 1.00% | ~247 |
 | Vandal | 1.00% | ~247 |
-| Daredevil | 0.90% | ~222 |
+| Daredevil | 0.90% | ~223 |
 | Unlock Felipe | 0.70% | ~173 |
 | Adventurer | 0.60% | ~148 |
 | Unlock Tupa | 0.40% | ~99 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~25 |
 | Windswept | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,719 (Ranked 90)  
+Progressed: 24,725 (Ranked 90)  
 Completed: 3 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 3 (0.01%) (Ranked 201)
 | 2023-06-02 | 24,305 | 3 |
 | 2023-06-03 | 24,489 | 3 |
 | 2023-06-04 | 24,675 | 3 |
-| 2023-06-05 | 24,719 | 3 |
+| 2023-06-05 | 24,725 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 406)  
 Sum: 345 (Ranked 318)  

@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 94.00% | ~569 |
-| Rail Rat | 78.00% | ~472 |
-| The Mysterious Stranger | 76.00% | ~460 |
-| Immaculate Aim | 66.00% | ~399 |
-| The Brass Boss | 58.00% | ~351 |
+| Time Heals All Wounds | 94.00% | ~570 |
+| Rail Rat | 78.00% | ~473 |
+| The Mysterious Stranger | 76.00% | ~461 |
+| Immaculate Aim | 66.00% | ~400 |
 | Honest Mistake | 57.00% | ~345 |
+| The Brass Boss | 57.00% | ~345 |
 | No, Thanks! | 56.00% | ~339 |
 | Time Flies | 54.00% | ~327 |
 | The Harder They Fall | 52.00% | ~315 |
 | The Prince in Heels | 52.00% | ~315 |
-| Right On Time | 50.00% | ~302 |
-| Fast Learner | 50.00% | ~302 |
-| Immaculate Aim | 49.00% | ~296 |
-| Make Up For Lost Time | 48.00% | ~290 |
-| Breaking Down Barriers | 45.00% | ~272 |
+| Right On Time | 50.00% | ~303 |
+| Fast Learner | 50.00% | ~303 |
+| Immaculate Aim | 49.00% | ~297 |
+| Make Up For Lost Time | 48.00% | ~291 |
+| Breaking Down Barriers | 45.00% | ~273 |
 | The Steel Shadow | 41.00% | ~248 |
 | Golem Chaser | 39.00% | ~236 |
 | The Wicked Twins | 38.00% | ~230 |
 | Like Clockwork | 37.00% | ~224 |
-| The Betrayer | 37.00% | ~224 |
+| The Betrayer | 36.00% | ~218 |
 | Check Your Pulse | 34.00% | ~206 |
 | Street Style | 31.00% | ~188 |
 | Family Memories | 31.00% | ~188 |
 | The Loose Cannon | 31.00% | ~188 |
 | Good Neighbor | 30.00% | ~182 |
-| The Man Who Shattered Time | 25.00% | ~151 |
-| The Family Fortune | 25.00% | ~151 |
+| The Man Who Shattered Time | 25.00% | ~152 |
+| The Family Fortune | 25.00% | ~152 |
 | Whiz Kid | 24.00% | ~145 |
 | Chaincrawler Explorer | 22.00% | ~133 |
 | Sump Explorer | 22.00% | ~133 |
@@ -45,8 +45,8 @@
 | Sartorialist | 13.00% | ~79 |
 | Entresol Explorer | 13.00% | ~79 |
 | Clovemary for Remembering | 11.00% | ~67 |
-| Hexlock for Protection | 10.00% | ~60 |
-| Golem Hunter | 9.00% | ~54 |
+| Hexlock for Protection | 10.00% | ~61 |
+| Golem Hunter | 9.00% | ~55 |
 | Wunderkind | 4.00% | ~24 |
 | Fitting In | 4.00% | ~24 |
 | Thinking Two Steps Ahead | 3.00% | ~18 |
@@ -58,7 +58,7 @@
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 605 (Ranked 195)  
+Progressed: 606 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,4 +76,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 578 | 0 |
 | 2023-06-03 | 586 | 0 |
 | 2023-06-04 | 602 | 0 |
-| 2023-06-05 | 605 | 0 |
+| 2023-06-05 | 606 | 0 |
