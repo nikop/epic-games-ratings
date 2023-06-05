@@ -26,7 +26,7 @@
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 26 | [Scorn](games/s/scorn.md) | 6.89% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.81% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
 | 28 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.39% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -38,14 +38,14 @@
 | 36 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.95% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
-| 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
+| 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 40 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
-| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.39% |
-| 43 | [The Complex](games/t/the_complex.md) | 3.36% |
+| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.36% |
+| 42 | [The Complex](games/t/the_complex.md) | 3.36% |
 | 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.23% |
 | 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.20% |
-| 46 | [ZZT!](games/z/zzt!.md) | 3.15% |
+| 46 | [ZZT!](games/z/zzt!.md) | 3.19% |
 | 47 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.02% |
 | 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
@@ -120,9 +120,9 @@
 | 117 | [Tails of Iron](games/t/tails_of_iron.md) | 0.38% |
 | 119 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 119 | [Potion Permit](games/p/potion_permit.md) | 0.37% |
-| 119 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
-| 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
-| 122 | [Tchia](games/t/tchia.md) | 0.36% |
+| 121 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
+| 121 | [Tchia](games/t/tchia.md) | 0.36% |
+| 121 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 124 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.33% |
 | 124 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 126 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |

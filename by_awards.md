@@ -18,7 +18,7 @@
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 28,014 | 4.52 | 513 |
 | 17 | [Dauntless](games/d/dauntless.md) | 20,085 | 4.53 | 499 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 19,577 | 4.77 | 107 |
-| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,543 | 4.57 | 441 |
+| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,543 | 4.57 | 442 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 15,592 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 15,214 | 4.61 | 361 |
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 14,398 | 4.76 | 118 |
@@ -86,7 +86,7 @@
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,222 | 4.59 | 407 |
 | 85 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,217 | 4.76 | 118 |
 | 86 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,113 | 4.68 | 241 |
-| 87 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,108 | 4.57 | 441 |
+| 87 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,108 | 4.57 | 442 |
 | 88 | [Hades](games/h/hades.md) | 3,094 | 4.92 | 4 |
 | 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,036 | 4.77 | 107 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,712 | 4.67 | 259 |
@@ -108,7 +108,7 @@
 | 106 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,834 | 4.70 | 197 |
 | 107 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,815 | 4.90 | 8 |
 | 108 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,777 | 4.56 | 452 |
-| 109 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,750 | 4.57 | 441 |
+| 109 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,750 | 4.57 | 442 |
 | 110 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,743 | 4.63 | 332 |
 | 111 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,651 | 4.76 | 118 |
 | 112 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,597 | 4.51 | 529 |
@@ -116,8 +116,8 @@
 | 114 | [Ring of Pain](games/r/ring_of_pain.md) | 1,475 | 4.58 | 422 |
 | 115 | [Celeste](games/c/celeste.md) | 1,469 | 4.92 | 4 |
 | 116 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,450 | 4.79 | 90 |
-| 117 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,383 | 4.87 | 26 |
-| 118 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 1,372 | 4.46 | 601 |
+| 117 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 1,406 | 4.46 | 601 |
+| 118 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,383 | 4.87 | 26 |
 | 119 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,348 | 4.81 | 72 |
 | 120 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,299 | 4.70 | 197 |
 | 121 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,292 | 4.62 | 347 |
@@ -400,7 +400,7 @@
 | 397 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.67 | 259 |
 | 399 | [Desperados III](games/d/desperados_iii.md) | 47 | 4.84 | 50 |
 | 399 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.37 | 707 |
-| 401 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.57 | 441 |
+| 401 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.57 | 442 |
 | 401 | [Expeditions: Rome](games/e/expeditions__rome.md) | 46 | 4.64 | 315 |
 | 403 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 905 |
 | 403 | [Quake](games/q/quake.md) | 45 | 4.76 | 118 |
@@ -449,7 +449,7 @@
 | 443 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 31 | 4.38 | 700 |
 | 448 | [Blankos Block Party](games/b/blankos_block_party.md) | 30 | 4.21 | 816 |
 | 448 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 30 | 4.43 | 647 |
-| 448 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.57 | 441 |
+| 448 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.57 | 442 |
 | 451 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 910 |
 | 451 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 29 | 4.46 | 601 |
 | 451 | [Northgard](games/n/northgard.md) | 29 | 4.70 | 197 |
@@ -458,7 +458,7 @@
 | 456 | [The Outlast Trials](games/t/the_outlast_trials.md) | 28 | 4.65 | 295 |
 | 456 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.53 | 499 |
 | 458 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 733 |
-| 458 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.57 | 441 |
+| 458 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.57 | 442 |
 | 458 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 218 |
 | 458 | [Wildermyth](games/w/wildermyth.md) | 27 | 4.77 | 107 |
 | 462 | [DOOM II](games/d/doom_ii.md) | 26 | 4.74 | 143 |

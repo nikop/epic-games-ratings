@@ -26,7 +26,7 @@
 | 20 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 476 |
 | 20 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 493 |
 | 26 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 482 |
-| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,383 | 117 |
+| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,383 | 118 |
 | 26 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,489 | 31 |
 | 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,009 | 138 |
 | 30 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 493 |
@@ -422,6 +422,7 @@
 | 407 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 277 | 233 |
 | 407 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 695 | 156 |
 | 422 | [Among Us](games/a/among_us.md) | 4.58 | 2,444 | 93 |
+| 422 | [Aragami 2](games/a/aragami_2.md) | 4.58 | 0 | 493 |
 | 422 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 493 |
 | 422 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 157 | 285 |
 | 422 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 493 |
@@ -440,17 +441,16 @@
 | 422 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 493 |
 | 422 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 209 | 254 |
 | 422 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,377 | 23 |
-| 441 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 493 |
-| 441 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 401 |
-| 441 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 458 |
-| 441 | [Hob](games/h/hob.md) | 4.57 | 0 | 493 |
-| 441 | [IXION](games/i/ixion.md) | 4.57 | 0 | 493 |
-| 441 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,108 | 87 |
-| 441 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 493 |
-| 441 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 448 |
-| 441 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,543 | 19 |
-| 441 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,750 | 109 |
-| 441 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 493 |
+| 442 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 401 |
+| 442 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 458 |
+| 442 | [Hob](games/h/hob.md) | 4.57 | 0 | 493 |
+| 442 | [IXION](games/i/ixion.md) | 4.57 | 0 | 493 |
+| 442 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,108 | 87 |
+| 442 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 493 |
+| 442 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 448 |
+| 442 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,543 | 19 |
+| 442 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,750 | 109 |
+| 442 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 493 |
 | 452 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 0 | 493 |
 | 452 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 0 | 493 |
 | 452 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 0 | 493 |
@@ -609,7 +609,7 @@
 | 601 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 29 | 451 |
 | 601 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 38 | 420 |
 | 601 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 493 |
-| 601 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.46 | 1,372 | 118 |
+| 601 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.46 | 1,406 | 117 |
 | 601 | [The Surge](games/t/the_surge.md) | 4.46 | 26 | 462 |
 | 601 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 278 | 231 |
 | 601 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 0 | 493 |
