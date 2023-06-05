@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 845)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 4.00% | ~2,547 |
+| First Step Into the Knight | 4.00% | ~2,548 |
 | The Batman Family | 2.00% | ~1,274 |
 | To the Victor Go the Spoils | 2.00% | ~1,274 |
 | Quartzer Life Crisis | 2.00% | ~1,274 |
@@ -34,7 +34,7 @@ Rating: 4.17 (Ranked 845)
 | End of an Era | 0.90% | ~573 |
 | Bulldozed | 0.90% | ~573 |
 | Gotham Knight | 0.90% | ~573 |
-| Gotham City Confidential | 0.80% | ~509 |
+| Gotham City Confidential | 0.80% | ~510 |
 | Out of Their League | 0.70% | ~446 |
 | Drone You Out | 0.70% | ~446 |
 | Solid Alibi | 0.60% | ~382 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 845)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,686 (Ranked 71)  
+Progressed: 63,689 (Ranked 71)  
 Completed: 93 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 93 (0.15%) (Ranked 154)
 | 2023-06-02 | 63,314 | 93 |
 | 2023-06-03 | 63,469 | 93 |
 | 2023-06-04 | 63,645 | 93 |
-| 2023-06-05 | 63,686 | 93 |
+| 2023-06-05 | 63,689 | 93 |
 ## Awards
 Max (Great Boss Battles): 2,291  (Ranked 98)  
 Sum: 3,793 (Ranked 137)  

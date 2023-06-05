@@ -1554,9 +1554,9 @@
       "Count": 205
     }
   ],
-  "EOS_Progressed": 19310,
+  "EOS_Progressed": 19311,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3719,6 +3719,11 @@
       "Time": "2023-06-05T03:16:31.3518551+00:00",
       "NumProgressed": 19310,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-05T07:05:31.5203638+00:00",
+      "NumProgressed": 19311,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3762,7 +3767,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2896
+      "UsersEstimate": 2897
     },
     {
       "ID": "EstateAgent",
@@ -3778,7 +3783,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18151
+      "UsersEstimate": 18152
     },
     {
       "ID": "GameOver",
@@ -3913,15 +3918,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19310,
+      "Progressed": 19311,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-05T02:20:32.1041182+00:00",
-  "LastChanged_Achievements": "2023-06-05T06:05:41.4195149+00:00",
+  "LastChanged_Achievements": "2023-06-05T07:05:31.5203631+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-05T05:59:20.373322+00:00",
-  "LastUpdate_Achievements": "2023-06-05T06:05:41.4195469+00:00"
+  "LastUpdate_Ratings": "2023-06-05T06:59:25.2473185+00:00",
+  "LastUpdate_Achievements": "2023-06-05T07:05:31.5204351+00:00"
 }

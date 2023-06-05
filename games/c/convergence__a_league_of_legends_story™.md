@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 94.00% | ~568 |
-| Rail Rat | 78.00% | ~471 |
-| The Mysterious Stranger | 76.00% | ~459 |
+| Time Heals All Wounds | 94.00% | ~569 |
+| Rail Rat | 78.00% | ~472 |
+| The Mysterious Stranger | 76.00% | ~460 |
 | Immaculate Aim | 66.00% | ~399 |
-| The Brass Boss | 57.00% | ~344 |
-| Honest Mistake | 56.00% | ~338 |
-| No, Thanks! | 55.00% | ~332 |
-| Time Flies | 53.00% | ~320 |
-| The Harder They Fall | 52.00% | ~314 |
-| The Prince in Heels | 52.00% | ~314 |
+| The Brass Boss | 58.00% | ~351 |
+| Honest Mistake | 56.00% | ~339 |
+| No, Thanks! | 55.00% | ~333 |
+| Time Flies | 54.00% | ~327 |
+| The Harder They Fall | 52.00% | ~315 |
+| The Prince in Heels | 52.00% | ~315 |
 | Right On Time | 50.00% | ~302 |
 | Fast Learner | 50.00% | ~302 |
 | Immaculate Aim | 49.00% | ~296 |
@@ -22,13 +22,13 @@
 | The Steel Shadow | 41.00% | ~248 |
 | Golem Chaser | 39.00% | ~236 |
 | The Wicked Twins | 38.00% | ~230 |
-| Like Clockwork | 37.00% | ~223 |
-| The Betrayer | 36.00% | ~217 |
-| Check Your Pulse | 33.00% | ~199 |
-| Street Style | 31.00% | ~187 |
-| Family Memories | 31.00% | ~187 |
-| The Loose Cannon | 31.00% | ~187 |
-| Good Neighbor | 30.00% | ~181 |
+| Like Clockwork | 37.00% | ~224 |
+| The Betrayer | 36.00% | ~218 |
+| Check Your Pulse | 33.00% | ~200 |
+| Street Style | 31.00% | ~188 |
+| Family Memories | 31.00% | ~188 |
+| The Loose Cannon | 31.00% | ~188 |
+| Good Neighbor | 30.00% | ~182 |
 | The Man Who Shattered Time | 25.00% | ~151 |
 | The Family Fortune | 25.00% | ~151 |
 | Whiz Kid | 24.00% | ~145 |
@@ -44,7 +44,7 @@
 | Corin Goes Home | 13.00% | ~79 |
 | Sartorialist | 13.00% | ~79 |
 | Entresol Explorer | 13.00% | ~79 |
-| Clovemary for Remembering | 11.00% | ~66 |
+| Clovemary for Remembering | 11.00% | ~67 |
 | Hexlock for Protection | 10.00% | ~60 |
 | Golem Hunter | 9.00% | ~54 |
 | Wunderkind | 4.00% | ~24 |
@@ -58,7 +58,7 @@
 | Treasure Trove | 0.00% | ~0 |
 | Cartographer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 604 (Ranked 195)  
+Progressed: 605 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,4 +76,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 578 | 0 |
 | 2023-06-03 | 586 | 0 |
 | 2023-06-04 | 602 | 0 |
-| 2023-06-05 | 604 | 0 |
+| 2023-06-05 | 605 | 0 |

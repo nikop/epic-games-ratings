@@ -9,7 +9,7 @@ Number of Ratings: 101  (23.09.2022)
 | Our Man | 83.00% | ~305 |
 | Take-Off | 77.00% | ~283 |
 | Hokey-Pokey | 71.00% | ~261 |
-| Camellos | 56.00% | ~206 |
+| Camellos | 57.00% | ~209 |
 | Bad Trip | 46.00% | ~169 |
 | Didn't Miss A Single One | 43.00% | ~158 |
 | Spread | 40.00% | ~147 |

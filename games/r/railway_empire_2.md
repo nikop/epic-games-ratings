@@ -26,7 +26,7 @@
 | Going once, going twice, sold | 30.00% | ~266 |
 | Full Steam ahead | 29.00% | ~257 |
 | Bull and bear | 27.00% | ~239 |
-| Mole | 24.00% | ~213 |
+| Mole | 25.00% | ~222 |
 | All mine | 23.00% | ~204 |
 | Financial Shark | 23.00% | ~204 |
 | Seven at one stroke | 21.00% | ~186 |

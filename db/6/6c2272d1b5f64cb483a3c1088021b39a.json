@@ -750,9 +750,9 @@
       "ID": "conqueror_1",
       "SetID": "53c1p3k",
       "Name": "Conqueror 1",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "conqueror_2",
@@ -846,9 +846,9 @@
       "ID": "from_day_to_day_1",
       "SetID": "53c1p3k",
       "Name": "From Day to Day 1",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "from_day_to_day_2",
@@ -1014,9 +1014,9 @@
       "ID": "punctual_1",
       "SetID": "53c1p3k",
       "Name": "Punctual 1",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "punctual_2",
@@ -1062,7 +1062,7 @@
       "ID": "soul_shards_1",
       "SetID": "53c1p3k",
       "Name": "Soul Shards 1",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1165,8 +1165,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-05T06:00:49.9076166+00:00",
+  "LastChanged_Achievements": "2023-06-05T07:00:59.116996+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-06-05T05:57:12.4897305+00:00",
-  "LastUpdate_Achievements": "2023-06-05T06:00:49.9076829+00:00"
+  "LastUpdate_Ratings": "2023-06-05T06:57:14.6252841+00:00",
+  "LastUpdate_Achievements": "2023-06-05T07:00:59.1170616+00:00"
 }

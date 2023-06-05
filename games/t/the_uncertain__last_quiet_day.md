@@ -5,40 +5,40 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I can do a thing or two | 61.00% | ~284 |
-| Buckle up | 60.00% | ~279 |
-| Quick charge | 60.00% | ~279 |
-| Hands up! | 54.00% | ~251 |
-| Now you know | 54.00% | ~251 |
-| Short circuit | 54.00% | ~251 |
+| Buckle up | 60.00% | ~280 |
+| Quick charge | 60.00% | ~280 |
+| Now you know | 54.00% | ~252 |
+| Hands up! | 53.00% | ~247 |
+| Short circuit | 53.00% | ~247 |
 | Curious | 41.00% | ~191 |
-| Everybody lies | 36.00% | ~167 |
-| Trick or Treat? | 23.00% | ~107 |
+| Everybody lies | 36.00% | ~168 |
+| Trick or Treat? | 24.00% | ~112 |
 | There is another way | 23.00% | ~107 |
-| Sysadmin | 22.00% | ~102 |
+| Sysadmin | 21.00% | ~98 |
 | Annoying | 20.00% | ~93 |
 | Every little helps | 20.00% | ~93 |
 | Hacker | 20.00% | ~93 |
 | He is just a child | 20.00% | ~93 |
 | The Walking Robot Among Us | 20.00% | ~93 |
-| Uncertain | 19.00% | ~88 |
+| Uncertain | 19.00% | ~89 |
 | Ace | 17.00% | ~79 |
 | Concrete painting | 17.00% | ~79 |
 | Goody | 17.00% | ~79 |
 | Hipster | 17.00% | ~79 |
 | Please oh pleeease! | 17.00% | ~79 |
-| Not what it seems | 16.00% | ~74 |
+| Not what it seems | 16.00% | ~75 |
 | Found it! | 15.00% | ~70 |
 | That's much better! | 15.00% | ~70 |
-| Not as clumsy or random | 13.00% | ~60 |
-| Blade Runner | 10.00% | ~46 |
+| Not as clumsy or random | 13.00% | ~61 |
+| Blade Runner | 10.00% | ~47 |
 | Perfect hearing | 9.00% | ~42 |
 | Meticulous | 8.00% | ~37 |
 | Lucky dog | 5.00% | ~23 |
 | Accurate | 5.00% | ~23 |
 | Silent | 4.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465 (Ranked 200)  
-Completed: 15 (3.23%) (Ranked 44)  
+Progressed: 466 (Ranked 200)  
+Completed: 15 (3.22%) (Ranked 44)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,6 +71,7 @@ Completed: 15 (3.23%) (Ranked 44)
 | 2023-06-01 | 460 | 15 |
 | 2023-06-03 | 462 | 15 |
 | 2023-06-04 | 465 | 15 |
+| 2023-06-05 | 466 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

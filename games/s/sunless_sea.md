@@ -1,7 +1,7 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.59 (Ranked 407)  
+Rating: 4.58 (Ranked 421)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~31 |
 | Ten Years at Zee | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,727 (Ranked 88)  
+Progressed: 30,728 (Ranked 88)  
 Completed: 3 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 3 (0.01%) (Ranked 201)
 | 2023-06-02 | 30,520 | 3 |
 | 2023-06-03 | 30,615 | 3 |
 | 2023-06-04 | 30,716 | 3 |
-| 2023-06-05 | 30,727 | 3 |
+| 2023-06-05 | 30,728 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 278 (Ranked 331)  
@@ -206,3 +206,4 @@ Diff (max vs sum): -77
 | 2023-05-16 | 4.58 | - | 208 | 277 |
 | 2023-05-25 | 4.58 | - | 209 | 278 |
 | 2023-05-27 | 4.59 | - | 209 | 278 |
+| 2023-06-05 | 4.58 | - | 209 | 278 |

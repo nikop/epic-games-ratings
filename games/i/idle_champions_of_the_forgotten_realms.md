@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.40% | ~359 |
 | Terror in the Dark | 0.40% | ~359 |
 | Unearthed Evil | 0.40% | ~359 |
+| The Crumbling Temple | 0.40% | ~359 |
 | Mad Cow Disease | 0.40% | ~359 |
 | Pure Energy | 0.40% | ~359 |
 | Maddening | 0.30% | ~269 |
@@ -38,7 +39,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.30% | ~269 |
 | A Mysterious Summons | 0.30% | ~269 |
 | Building Trust | 0.30% | ~269 |
-| The Crumbling Temple | 0.30% | ~269 |
 | Useless Allies | 0.30% | ~269 |
 | Exploring Port Nyanzaru | 0.30% | ~269 |
 | Running of the Saurs | 0.30% | ~269 |
@@ -59,6 +59,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Steadfast Love | 0.20% | ~112 |
 | The Fairy Rings of Thither | 0.20% | ~112 |
 | Wet Feet | 0.20% | ~180 |
+| Hatchlings Underfoot | 0.20% | ~180 |
 | Will of the Feywild | 0.20% | ~112 |
 | The Roots of Loomlurch | 0.20% | ~112 |
 | The Lutes of Loomlurch | 0.20% | ~112 |
@@ -158,6 +159,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.20% | ~112 |
 | Durable Deep | 0.20% | ~180 |
 | The Sibriex | 0.20% | ~112 |
+| Wrecked Flying Fortress | 0.20% | ~112 |
 | Witty Riposting | 0.20% | ~112 |
 | How Far Away is Thay | 0.20% | ~112 |
 | The Templar's Camp | 0.20% | ~180 |
@@ -202,7 +204,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Alien Underdark | 0.10% | ~56 |
 | Thoughts on the Menu | 0.10% | ~56 |
 | Brains on Ice | 0.10% | ~56 |
-| Hatchlings Underfoot | 0.10% | ~90 |
 | The Oozing Hunger | 0.10% | ~56 |
 | Levelheaded | 0.10% | ~56 |
 | The Madness of Zuggtmoy | 0.10% | ~56 |
@@ -432,7 +433,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lone Wolf Party | 0.10% | ~56 |
 | The Archduke's Blessing | 0.10% | ~56 |
 | A Neutral Party | 0.10% | ~56 |
-| Wrecked Flying Fortress | 0.10% | ~56 |
 | Relentless Peril | 0.10% | ~56 |
 | Rickety Rubble | 0.10% | ~56 |
 | Expert Opinion | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,829 (Ranked 62)  
+Progressed: 89,831 (Ranked 62)  
 Completed: 1,916 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,916 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,829 | 1,916 |
+| 2023-06-05 | 89,831 | 1,916 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,033 (Ranked 37)  

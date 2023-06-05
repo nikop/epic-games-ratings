@@ -28,8 +28,8 @@ Rating: 3.83 (Ranked 920)
 | To infinity and beyond! | 1.00% | ~11 |
 | Driver's License | 0.90% | ~10 |
 | Explosive Miner | 0.70% | ~8 |
+| Thunderstruck | 0.70% | ~8 |
 | Rocket Jump | 0.60% | ~7 |
-| Thunderstruck | 0.60% | ~7 |
 | 5G Network | 0.40% | ~4 |
 | Bull’s eye | 0.40% | ~4 |
 | Caveman | 0.40% | ~4 |

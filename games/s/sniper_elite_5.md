@@ -6,11 +6,11 @@ Rating: 4.44 (Ranked 629)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 27.00% | ~611 |
-| Confirming Suspicions | 21.00% | ~475 |
+| Confirming Suspicions | 22.00% | ~498 |
 | The Kraken Wakes | 17.00% | ~385 |
 | It's Starting to Crack | 14.00% | ~317 |
 | Lord of War | 13.00% | ~294 |
-| Change the Channel | 12.00% | ~271 |
+| Change the Channel | 12.00% | ~272 |
 | Resourceful | 11.00% | ~249 |
 | Taking it back | 10.00% | ~226 |
 | Organ Grinder | 9.00% | ~204 |
@@ -29,13 +29,13 @@ Rating: 4.44 (Ranked 629)
 | Die Nussknacker Sweet! | 5.00% | ~113 |
 | Close Quarters | 5.00% | ~113 |
 | Snake in the Grass | 5.00% | ~113 |
-| Climbing the Ladder | 4.00% | ~90 |
-| No Stone Unturned | 4.00% | ~90 |
-| Skirmisher | 4.00% | ~90 |
-| Set Europe Ablaze | 4.00% | ~90 |
-| Brains of the Operation | 4.00% | ~90 |
+| Climbing the Ladder | 4.00% | ~91 |
+| No Stone Unturned | 4.00% | ~91 |
+| Skirmisher | 4.00% | ~91 |
+| Set Europe Ablaze | 4.00% | ~91 |
+| Brains of the Operation | 4.00% | ~91 |
 | Precision Is Key | 3.00% | ~68 |
-| Rigged to Blow | 2.00% | ~45 |
+| Rigged to Blow | 3.00% | ~68 |
 | My Little Friend | 2.00% | ~45 |
 | It'll Buff Right Out | 2.00% | ~45 |
 | Strategist | 1.00% | ~23 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 629)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,262 (Ranked 148)  
+Progressed: 2,263 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-02 | 2,091 | 2 |
 | 2023-06-03 | 2,182 | 2 |
 | 2023-06-04 | 2,257 | 2 |
-| 2023-06-05 | 2,262 | 2 |
+| 2023-06-05 | 2,263 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

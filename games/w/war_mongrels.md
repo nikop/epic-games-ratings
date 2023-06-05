@@ -27,7 +27,7 @@ Number of Ratings: 34  (23.09.2022)
 | The Difference | 24.00% | ~75 |
 | Vengeance | 22.00% | ~69 |
 | It's Just an Accident | 21.00% | ~66 |
-| Broken Hopes | 19.00% | ~59 |
+| Broken Hopes | 20.00% | ~62 |
 | Food Massacre | 19.00% | ~59 |
 | Bullseye! | 19.00% | ~59 |
 | Collectibles of Chapter III | 16.00% | ~50 |

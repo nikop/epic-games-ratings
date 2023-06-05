@@ -4114,7 +4114,7 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89829,
+  "EOS_Progressed": 89831,
   "EOS_Completed": 1916,
   "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 23,
@@ -8724,6 +8724,11 @@
       "Time": "2023-06-05T06:06:03.5183418+00:00",
       "NumProgressed": 89829,
       "NumCompleted": 1916
+    },
+    {
+      "Time": "2023-06-05T07:05:54.012936+00:00",
+      "NumProgressed": 89831,
+      "NumCompleted": 1916
     }
   ],
   "TotalAchievements": 493,
@@ -9165,9 +9170,9 @@
       "ID": "objective_completed_111",
       "SetID": "cc37lbc",
       "Name": "Hatchlings Underfoot",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_1111",
@@ -10421,9 +10426,9 @@
       "ID": "objective_completed_35",
       "SetID": "cc37lbc",
       "Name": "The Crumbling Temple",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 359
     },
     {
       "ID": "objective_completed_36",
@@ -12061,9 +12066,9 @@
       "ID": "objective_completed_817",
       "SetID": "415jc5c",
       "Name": "Wrecked Flying Fortress",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_818",
@@ -12678,21 +12683,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56103,
+      "Progressed": 56105,
       "Completed": 2769
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89829,
+      "Progressed": 89831,
       "Completed": 1916
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-04T22:58:24.4036203+00:00",
-  "LastChanged_Achievements": "2023-06-05T06:06:03.5183413+00:00",
+  "LastChanged_Achievements": "2023-06-05T07:05:54.0129356+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-05T05:58:07.4631097+00:00",
-  "LastUpdate_Achievements": "2023-06-05T06:06:03.5207662+00:00"
+  "LastUpdate_Ratings": "2023-06-05T06:58:11.7914167+00:00",
+  "LastUpdate_Achievements": "2023-06-05T07:05:54.0156779+00:00"
 }
