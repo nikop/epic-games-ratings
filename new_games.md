@@ -3,7 +3,7 @@
 | [Moto](games/d/d1332913f13a4ec1a74ae177a67be056.md) | 2023-06-05 | - |  | - | - |
 | [The Sports Trivia Challenge](games/a/a3dafcfbe71246d98d152c13b1040f27.md) | 2023-06-04 | - |  | - | - |
 | [Martian Invaders](games/b/ba379411990446cc90d33093ac594c66.md) | 2023-06-04 | - |  | - | - |
-| [Battle Ram](games/b/battle_ram.md) | 2023-06-04 | 22 (1,000 XP) | 17 | - | - |
+| [Battle Ram](games/b/battle_ram.md) | 2023-06-04 | 22 (1,000 XP) | 18 | - | - |
 | [Cepheus Protocol](games/c/cepheus_protocol.md) | 2023-06-04 | - |  | - | - |
 | [The Music Trivia Challenge](games/2/2ff17af973164d8b897f27050627f9b6.md) | 2023-06-03 | - |  | - | - |
 | [Bugby](games/6/60125e6f56d14c0d903ab753625354d1.md) | 2023-06-03 | - |  | - | - |
@@ -16,9 +16,9 @@
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 13 | - | - |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | - |  | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | - |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 559,663 | 4.64 | 177 |
-| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 744,418 | 4.41 | 0 |
-| [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 208 | - | 0 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 559,951 | 4.64 | 177 |
+| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 749,567 | 4.41 | 0 |
+| [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 211 | - | 0 |
 | [Nihilsearch](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | - |  | - | - |
 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 2023-06-01 | 6 (1,000 XP) | 23 | - | 0 |
 | [ΔV: Rings of Saturn](games/δ/δv__rings_of_saturn.md) | 2023-06-01 | - |  | - | - |
@@ -112,7 +112,7 @@
 | [Elypse](games/e/elypse.md) | 2023-05-17 | 34 (1,000 XP) | 59 | - | 0 |
 | [CoopValor 2056 WW3](games/c/coopvalor_2056_ww3.md) | 2023-05-17 | - |  | - | 0 |
 | [Unalive 010](games/c/cc4af47bd1374ea99148e5d73869cf43.md) | 2023-05-17 | - |  | - | - |
-| [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 2023-05-16 | 30 (1,000 XP) | 10 | - | 0 |
+| [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 2023-05-16 | 30 (1,000 XP) | 11 | - | 0 |
 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 2023-05-16 | - |  | - | 0 |
 | [Machinika Museum](games/m/machinika_museum.md) | 2023-05-16 | - |  | - | 0 |
 | [Bus Driver Simulator](games/d/d696915035d84092a02a646f25530ccd.md) | 2023-05-16 | - |  | - | - |

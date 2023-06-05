@@ -21,7 +21,7 @@
 | 19 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.70% |
 | 20 | [Smelter](games/s/smelter.md) | 8.57% |
 | 21 | [Remains](games/r/remains.md) | 8.11% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.10% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.09% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
@@ -47,7 +47,7 @@
 | 45 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.20% |
 | 46 | [ZZT!](games/z/zzt!.md) | 3.19% |
 | 47 | [The Bunker](games/t/the_bunker.md) | 3.09% |
-| 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.02% |
+| 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.91% |
@@ -76,7 +76,7 @@
 | 74 | [A Musical Story](games/a/a_musical_story.md) | 1.56% |
 | 75 | [Frogun](games/f/frogun.md) | 1.51% |
 | 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 77 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.44% |
+| 77 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.42% |
 | 78 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.37% |
 | 79 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
 | 80 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.25% |
@@ -93,8 +93,8 @@
 | 91 | [Hades](games/h/hades.md) | 0.89% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
+| 94 | [Adios](games/a/adios.md) | 0.85% |
 | 94 | [Poosh XL](games/p/poosh_xl.md) | 0.85% |
-| 95 | [Adios](games/a/adios.md) | 0.84% |
 | 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.82% |
 | 97 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.81% |
 | 98 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
