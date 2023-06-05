@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 2728,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3490,
+  "EOS_Progressed": 3491,
   "EOS_Completed": -29,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.83,
   "EosHistory": [
@@ -191,6 +191,11 @@
       "Time": "2023-06-04T15:06:09.9216696+00:00",
       "NumProgressed": 3490,
       "NumCompleted": -29
+    },
+    {
+      "Time": "2023-06-05T21:05:32.346094+00:00",
+      "NumProgressed": 3491,
+      "NumCompleted": -29
     }
   ],
   "TotalAchievements": 35,
@@ -250,7 +255,7 @@
       "Name": "Hot Potato",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "16",
@@ -338,7 +343,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "26",
@@ -481,7 +486,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3490,
+      "Progressed": 3491,
       "Completed": -29
     }
   ],
@@ -489,8 +494,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:06:06.5554544+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:05:32.3460933+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:13.4348465+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:57:33.3566441+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:06:06.5554819+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:57:07.2298768+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:05:32.3461187+00:00"
 }

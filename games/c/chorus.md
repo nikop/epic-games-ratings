@@ -12,8 +12,8 @@ Number of Ratings: 58  (23.09.2022)
 | Demigod | 77.00% | ~717 |
 | The Great Destroyer | 75.00% | ~698 |
 | Shields Down | 73.00% | ~680 |
+| Helping Hand | 68.00% | ~633 |
 | Safe Home | 68.00% | ~633 |
-| Helping Hand | 67.00% | ~624 |
 | Paragon | 64.00% | ~596 |
 | Old Days Born Anew | 63.00% | ~587 |
 | Full Arsenal | 58.00% | ~540 |
@@ -36,8 +36,8 @@ Number of Ratings: 58  (23.09.2022)
 | Mastery of Weapons | 29.00% | ~270 |
 | Disciple | 29.00% | ~270 |
 | Two Birds | 25.00% | ~233 |
+| Uneasy Alliance | 24.00% | ~223 |
 | Ghosts | 24.00% | ~223 |
-| Uneasy Alliance | 23.00% | ~214 |
 | Mastery of Combat | 21.00% | ~196 |
 | Retaliate | 21.00% | ~196 |
 | Mastery of Rites | 20.00% | ~186 |

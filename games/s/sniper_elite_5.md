@@ -5,11 +5,11 @@ Rating: 4.45 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 27.00% | ~621 |
-| Confirming Suspicions | 22.00% | ~506 |
-| The Kraken Wakes | 17.00% | ~391 |
-| It's Starting to Crack | 15.00% | ~345 |
-| Lord of War | 13.00% | ~299 |
+| Meeting Resistance | 27.00% | ~622 |
+| Confirming Suspicions | 22.00% | ~507 |
+| The Kraken Wakes | 17.00% | ~392 |
+| It's Starting to Crack | 15.00% | ~346 |
+| Lord of War | 13.00% | ~300 |
 | Resourceful | 12.00% | ~276 |
 | Change the Channel | 12.00% | ~276 |
 | Taking it back | 10.00% | ~230 |
@@ -42,14 +42,14 @@ Rating: 4.45 (Ranked 616)
 | Strategist | 1.00% | ~23 |
 | Locomotion Commotion | 1.00% | ~23 |
 | Road Rage | 1.00% | ~23 |
-| Herr Today, Gone Tomorrow | 1.00% | ~22 |
-| Operation Foxley | 1.00% | ~22 |
+| Herr Today, Gone Tomorrow | 1.00% | ~23 |
+| Operation Foxley | 1.00% | ~23 |
 | Don't hold your breath | 0.90% | ~21 |
 | Tinkerer | 0.80% | ~18 |
 | Ghost of Falaise | 0.80% | ~18 |
 | Siegebreaker | 0.70% | ~16 |
 | Last Resort | 0.60% | ~14 |
-| From Paris with Love | 0.50% | ~11 |
+| From Paris with Love | 0.50% | ~12 |
 | Burn after reading | 0.40% | ~9 |
 | Souvenir hunter | 0.40% | ~9 |
 | Up close and personal | 0.40% | ~9 |
@@ -61,7 +61,7 @@ Rating: 4.45 (Ranked 616)
 | Reich To The Point | 0.30% | ~7 |
 | Sink or Swim | 0.30% | ~2 |
 | Sight Beyond Sights | 0.20% | ~5 |
-| Covert Elimination | 0.20% | ~4 |
+| Covert Elimination | 0.20% | ~5 |
 | Best of the Best | 0.10% | ~2 |
 | Master of Secondaries | 0.10% | ~2 |
 | Master of Rifles | 0.10% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 616)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,299 (Ranked 147)  
+Progressed: 2,304 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 2 (0.09%) (Ranked 169)
 | 2023-06-02 | 2,091 | 2 |
 | 2023-06-03 | 2,182 | 2 |
 | 2023-06-04 | 2,257 | 2 |
-| 2023-06-05 | 2,299 | 2 |
+| 2023-06-05 | 2,304 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

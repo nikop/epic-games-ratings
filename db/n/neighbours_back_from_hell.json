@@ -2,12 +2,12 @@
   "ID": "5d24ed888f9542a09dc406f66705631a",
   "Name": "Neighbours back From Hell",
   "ProductSlug": "neighbours-back-from-hell",
-  "Ranking_Rating": 197,
+  "Ranking_Rating": 196,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-10-08T17:00:00+00:00",
@@ -148,6 +148,6 @@
   "FirstSeenRating": "2022-08-26T08:01:54.6325484+00:00",
   "LastChanged": "2023-04-08T02:57:26.5505141+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:01.3024298+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:59:46.9814575+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:05:29.41334+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:59:24.4814714+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:04:55.4378039+00:00"
 }

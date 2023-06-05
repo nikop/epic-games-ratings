@@ -10,8 +10,8 @@
 | Friend! | 33.00% | ~12 |
 | Setting Off | 33.00% | ~12 |
 | Shine! | 31.00% | ~11 |
+| Riddlesolver | 25.00% | ~9 |
 | Clear as Water | 25.00% | ~9 |
-| Riddlesolver | 22.00% | ~8 |
 | Dungeon Mastery | 19.00% | ~7 |
 | Card Collector | 17.00% | ~6 |
 | The Steed | 14.00% | ~5 |
@@ -45,7 +45,7 @@
 | Gladiator | 3.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 316)  
+Progressed: 36 (Ranked 317)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

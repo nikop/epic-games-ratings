@@ -66,7 +66,7 @@
   "Tags": [],
   "EOS_Progressed": 1033,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1513,9 +1513,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 372
     },
     {
       "ID": "EXPERIENCED",
@@ -1770,8 +1770,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:03:35.4737851+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:02:25.8610346+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:58:32.9955559+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:03:35.473831+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:58:14.0521607+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:02:25.8610843+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 405,
+  "EOS_Progressed": 406,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -392,6 +392,11 @@
       "Time": "2023-06-04T21:04:46.7341907+00:00",
       "NumProgressed": 405,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-05T21:03:37.5113119+00:00",
+      "NumProgressed": 406,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -403,7 +408,7 @@
       "Name": "All Set Up",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "booty_call",
@@ -411,7 +416,7 @@
       "Name": "Booty Call",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "crash_and_burn",
@@ -427,7 +432,7 @@
       "Name": "Digital Casanova",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "hold_my_beer",
@@ -435,7 +440,7 @@
       "Name": "Hold my Beer",
       "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -443,7 +448,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "interrogation",
@@ -522,7 +527,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 405,
+      "Progressed": 406,
       "Completed": 4
     }
   ],
@@ -530,8 +535,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:04:22.4400624+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:03:37.5113115+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:18.3504404+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:58:23.2187964+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:04:22.4400752+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:58:01.6393226+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:03:37.5113262+00:00"
 }

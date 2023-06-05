@@ -192,7 +192,7 @@
   "Tags": [],
   "EOS_Progressed": 4353,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3269,9 +3269,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3395
+      "UsersEstimate": 3439
     },
     {
       "ID": "24",
@@ -3516,8 +3516,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:04:56.5299452+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:04:21.6155883+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:59:38.5369475+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:04:56.530163+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:59:16.3609609+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:04:21.6156404+00:00"
 }

@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.01,
+  "EOS_Completed_Percentage": 4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1064,6 +1064,11 @@
       "Time": "2023-06-05T16:04:16.8939115+00:00",
       "NumProgressed": 374,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-05T21:03:49.8803945+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 28,
@@ -1075,7 +1080,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "MQ01_2",
@@ -1091,7 +1096,7 @@
       "Name": "High Profile",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "MQ02_2",
@@ -1115,7 +1120,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "MQ03_1",
@@ -1145,9 +1150,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 158
     },
     {
       "ID": "MQ03_5",
@@ -1187,7 +1192,7 @@
       "Name": "Open Sesame",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "MQ05_2",
@@ -1195,7 +1200,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MQ05_3",
@@ -1203,7 +1208,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "MQ05_4",
@@ -1211,7 +1216,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "MQ06_1",
@@ -1235,15 +1240,15 @@
       "Name": "Land, Ho!",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     },
     {
       "ID": "MQ07_1",
@@ -1265,9 +1270,9 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 116
     },
     {
       "ID": "MQ08_2",
@@ -1298,7 +1303,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 15
     }
   ],
@@ -1306,8 +1311,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:04:34.7008156+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:03:49.8803941+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:57:36.5382478+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:04:34.7008384+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:57:10.8061553+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:03:49.8804186+00:00"
 }

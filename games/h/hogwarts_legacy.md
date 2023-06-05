@@ -5,27 +5,27 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~22,123 |
-| Grappling with a Graphorn | 7.00% | ~19,358 |
-| The One Who Mastered Memories | 7.00% | ~19,358 |
-| The Hallowed Hero | 7.00% | ~19,358 |
-| First Class Student | 7.00% | ~19,358 |
-| Troll with the Punches | 7.00% | ~19,358 |
-| That's a Keeper | 7.00% | ~19,358 |
-| The Hero of Hogwarts | 6.00% | ~16,592 |
-| The Defender of Dragons | 6.00% | ~16,592 |
-| Challenge Accepted | 6.00% | ~16,592 |
-| A Keen Sense of Spell | 6.00% | ~16,592 |
-| Loom for Improvement | 6.00% | ~16,592 |
-| A Talent for Spending | 6.00% | ~16,592 |
-| Coasting Along | 6.00% | ~16,592 |
-| Rising From the Ashes | 6.00% | ~16,592 |
-| The Avenging Gazelle | 5.00% | ~13,827 |
-| Beast Friends | 5.00% | ~13,827 |
-| A Sallow Grave | 5.00% | ~13,827 |
-| Flight the Good Flight | 5.00% | ~13,827 |
-| Followed the Butterflies | 5.00% | ~13,827 |
-| The Spell Master | 5.00% | ~13,827 |
+| The Sort Who Makes an Entrance | 8.00% | ~22,124 |
+| Grappling with a Graphorn | 7.00% | ~19,359 |
+| The One Who Mastered Memories | 7.00% | ~19,359 |
+| The Hallowed Hero | 7.00% | ~19,359 |
+| First Class Student | 7.00% | ~19,359 |
+| Troll with the Punches | 7.00% | ~19,359 |
+| That's a Keeper | 7.00% | ~19,359 |
+| The Hero of Hogwarts | 6.00% | ~16,593 |
+| The Defender of Dragons | 6.00% | ~16,593 |
+| Challenge Accepted | 6.00% | ~16,593 |
+| A Keen Sense of Spell | 6.00% | ~16,593 |
+| Loom for Improvement | 6.00% | ~16,593 |
+| A Talent for Spending | 6.00% | ~16,593 |
+| Coasting Along | 6.00% | ~16,593 |
+| Rising From the Ashes | 6.00% | ~16,593 |
+| The Avenging Gazelle | 5.00% | ~13,828 |
+| Beast Friends | 5.00% | ~13,828 |
+| A Sallow Grave | 5.00% | ~13,828 |
+| Flight the Good Flight | 5.00% | ~13,828 |
+| Followed the Butterflies | 5.00% | ~13,828 |
+| The Spell Master | 5.00% | ~13,828 |
 | The Seeker of Knowledge | 4.00% | ~11,062 |
 | The Root of the Problem | 4.00% | ~11,062 |
 | Third Time's a Charm | 4.00% | ~11,062 |
@@ -39,10 +39,10 @@ Rating: 4.77 (Ranked 107)
 | Floo Around the World | 2.00% | ~5,531 |
 | The Gryffindor in the Graveyard | 2.00% | ~5,531 |
 | The Wise Owl | 2.00% | ~5,531 |
-| The Good Samaritan | 1.00% | ~2,765 |
-| The Auror's Apprentice | 1.00% | ~2,765 |
-| Rise to the Challenges | 1.00% | ~2,765 |
-| Finishing Touches | 1.00% | ~2,765 |
+| The Good Samaritan | 1.00% | ~2,766 |
+| The Auror's Apprentice | 1.00% | ~2,766 |
+| Rise to the Challenges | 1.00% | ~2,766 |
+| Finishing Touches | 1.00% | ~2,766 |
 | Savvy Spender | 0.90% | ~2,489 |
 | Demiguise Dread | 0.90% | ~2,489 |
 | A Forte for Achievement | 0.90% | ~2,489 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.40% | ~1,106 |
 | Collector's Edition | 0.20% | ~553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 276,539 (Ranked 40)  
+Progressed: 276,550 (Ranked 40)  
 Completed: 388 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,10 +97,10 @@ Completed: 388 (0.14%) (Ranked 156)
 | 2023-06-02 | 275,430 | 383 |
 | 2023-06-03 | 275,838 | 383 |
 | 2023-06-04 | 276,277 | 386 |
-| 2023-06-05 | 276,539 | 388 |
+| 2023-06-05 | 276,550 | 388 |
 ## Awards
 Max (Character Customization): 19,577  (Ranked 18)  
-Sum: 36,238 (Ranked 32)  
+Sum: 36,243 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -112,7 +112,7 @@ Diff (max vs sum): -14
 | This game has Diverse Characters | 788 |
 | This game has Amazing Storytelling | 785 |
 | This game has Amazing Characters | 768 |
-| This game is Highly Recommended | 752 |
+| This game is Highly Recommended | 757 |
 | This game has Quickly Understood Controls | 697 |
 | This game has Beautiful Visuals | 648 |
 | This game has a Creative Community | 497 |
@@ -192,4 +192,4 @@ Diff (max vs sum): -14
 | 2023-06-02 | 4.77 | 19,435 | 35,932 |
 | 2023-06-03 | 4.77 | 19,478 | 36,029 |
 | 2023-06-04 | 4.77 | 19,531 | 36,142 |
-| 2023-06-05 | 4.77 | 19,577 | 36,238 |
+| 2023-06-05 | 4.77 | 19,577 | 36,243 |

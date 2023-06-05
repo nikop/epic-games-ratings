@@ -5,15 +5,15 @@ Rating: 4.57 (Ranked 443)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 14.00% | ~344 |
-| Sputnik 2049 | 13.00% | ~319 |
+| Wakey Wakey | 15.00% | ~369 |
+| Sputnik 2049 | 13.00% | ~320 |
 | Without Breaking Some Eggs... | 12.00% | ~295 |
 | Infinite Growth... | 12.00% | ~295 |
 | Ready for a New World | 8.00% | ~197 |
 | Space Society | 7.00% | ~172 |
 | A Thousand Strong | 7.00% | ~172 |
-| Permanent Redesigns | 6.00% | ~147 |
-| Ain't Nobody Got Time for That | 6.00% | ~147 |
+| Permanent Redesigns | 6.00% | ~148 |
+| Ain't Nobody Got Time for That | 6.00% | ~148 |
 | Guy de Borderlands | 5.00% | ~123 |
 | A Hunk of Junk | 5.00% | ~123 |
 | Fully Recycled | 5.00% | ~123 |
@@ -41,9 +41,9 @@ Rating: 4.57 (Ranked 443)
 | What the Ruins Teach Us | 1.00% | ~25 |
 | Pulsar Disciple | 0.90% | ~22 |
 | Mutual Loyalty | 0.80% | ~20 |
+| You Had One Job... | 0.80% | ~20 |
 | Catastrophe Avoided | 0.70% | ~17 |
 | Praise the Hull! | 0.70% | ~17 |
-| You Had One Job... | 0.70% | ~17 |
 | Space Greenhouse | 0.70% | ~17 |
 | Tiqqun Unchained | 0.60% | ~15 |
 | Help of the Forgotten Member | 0.60% | ~15 |
@@ -51,7 +51,7 @@ Rating: 4.57 (Ranked 443)
 | Scientifically Accurate | 0.50% | ~12 |
 | Better Him Than Me | 0.40% | ~10 |
 | Gregor Spinoza | 0.40% | ~10 |
-| Remember the Dead | 0.20% | ~5 |
+| Remember the Dead | 0.30% | ~7 |
 | Soylent Green | 0.20% | ~5 |
 | Work Harder | 0.10% | ~2 |
 | A Junker's Dream | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 443)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,457 (Ranked 145)  
+Progressed: 2,459 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 2,386 | 0 |
 | 2023-06-03 | 2,408 | 0 |
 | 2023-06-04 | 2,441 | 0 |
-| 2023-06-05 | 2,457 | 0 |
+| 2023-06-05 | 2,459 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

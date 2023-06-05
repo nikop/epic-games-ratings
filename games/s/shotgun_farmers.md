@@ -15,7 +15,7 @@
 | No Asperascope | 27.00% | ~24 |
 | Amateur Survivor | 27.00% | ~11 |
 | I Believe I Can Fly | 26.00% | ~23 |
-| Bouncemato | 24.00% | ~9 |
+| Bouncemato | 25.00% | ~10 |
 | This Is My Boomstick | 21.00% | ~8 |
 | Quick-Draw Pod | 20.00% | ~8 |
 | Grave Digger | 18.00% | ~7 |

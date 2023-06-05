@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2235,9 +2235,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 523539,
+  "EOS_Progressed": 523541,
   "EOS_Completed": 1436,
-  "EOS_NewPlayers": 885,
+  "EOS_NewPlayers": 882,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -6955,6 +6955,11 @@
       "Time": "2023-06-05T20:06:10.3322469+00:00",
       "NumProgressed": 523539,
       "NumCompleted": 1436
+    },
+    {
+      "Time": "2023-06-05T21:05:36.0616884+00:00",
+      "NumProgressed": 523541,
+      "NumCompleted": 1436
     }
   ],
   "TotalAchievements": 37,
@@ -7022,7 +7027,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 434537
+      "UsersEstimate": 434539
     },
     {
       "ID": "HONED",
@@ -7086,7 +7091,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57589
+      "UsersEstimate": 57590
     },
     {
       "ID": "THE_CAVE",
@@ -7126,7 +7131,7 @@
       "Name": "The Forest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 73295
+      "UsersEstimate": 73296
     },
     {
       "ID": "THE_IMPOSTER",
@@ -7222,7 +7227,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 335065
+      "UsersEstimate": 335066
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -7238,7 +7243,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 83766
+      "UsersEstimate": 83767
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -7261,15 +7266,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 523539,
+      "Progressed": 523541,
       "Completed": 1436
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-06-03T21:59:03.2698289+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:06:10.3322463+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:05:36.0616881+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:40.6702899+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:59:32.0650068+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:06:10.3323099+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:59:10.2540423+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:05:36.0617401+00:00"
 }

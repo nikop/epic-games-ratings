@@ -134,7 +134,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1295,
+  "EOS_Progressed": 1296,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -2719,6 +2719,11 @@
       "Time": "2023-06-05T19:05:50.5155681+00:00",
       "NumProgressed": 1295,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-05T21:05:46.7990774+00:00",
+      "NumProgressed": 1296,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3026,7 +3031,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "lockandload",
@@ -3058,7 +3063,7 @@
       "Name": "Milestone collector",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "minerclicker",
@@ -3090,7 +3095,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "mythicpower",
@@ -3106,7 +3111,7 @@
       "Name": "Natural Talent",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "pokerface",
@@ -3122,7 +3127,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "prestigiousx10",
@@ -3178,7 +3183,7 @@
       "Name": "Superior",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "templeofeternals",
@@ -3186,7 +3191,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "thealchemist",
@@ -3234,7 +3239,7 @@
       "Name": "The Unstoppable",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "titanpower",
@@ -3290,7 +3295,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "warmachinesarmy",
@@ -3322,14 +3327,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1295,
+      "Progressed": 1296,
       "Completed": 1
     }
   ],
@@ -3337,8 +3342,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-05T10:57:55.1665769+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:06:21.0062334+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:05:46.7990771+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:58:19.0327601+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:06:21.0063294+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:57:56.2423106+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:05:46.7991633+00:00"
 }

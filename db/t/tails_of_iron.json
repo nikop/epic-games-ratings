@@ -6,8 +6,8 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_Completed": 119,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1599,
+  "EOS_Progressed": 1601,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:46.139377+00:00",
@@ -1231,6 +1231,11 @@
       "Time": "2023-06-05T18:00:47.2066917+00:00",
       "NumProgressed": 1599,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-05T21:00:22.0213011+00:00",
+      "NumProgressed": 1601,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1240,9 +1245,9 @@
       "ID": "BecomeKing",
       "SetID": "9lj35g4",
       "Name": "Become King",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1137
     },
     {
       "ID": "Collect20Gold",
@@ -1266,7 +1271,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 895
+      "UsersEstimate": 897
     },
     {
       "ID": "CollectAllStatues",
@@ -1322,7 +1327,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1249
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1386,7 +1391,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 943
+      "UsersEstimate": 945
     },
     {
       "ID": "GetTHWeapon",
@@ -1394,15 +1399,15 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 865
     },
     {
       "ID": "Kill25Bugs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Grubs",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 815
+      "UsersEstimate": 800
     },
     {
       "ID": "Kill25Frogs",
@@ -1410,7 +1415,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 959
+      "UsersEstimate": 961
     },
     {
       "ID": "Kill25Mozi",
@@ -1472,31 +1477,31 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 544
+      "UsersEstimate": 528
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1599,
+      "Progressed": 1601,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 240,
-      "Completed": 240
+      "Progressed": 242,
+      "Completed": 242
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-05T19:00:58.02432+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:00:22.0212785+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:58:36.6869948+00:00",
-  "LastUpdate_Achievements": "2023-06-05T19:00:58.0243477+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:58:17.4947033+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:00:22.0221538+00:00"
 }

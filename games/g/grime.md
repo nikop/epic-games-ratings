@@ -36,10 +36,10 @@ Number of Ratings: 46  (23.09.2022)
 | Passage | 5.00% | ~29 |
 | Kin | 5.00% | ~8 |
 | Kinship | 4.00% | ~23 |
+| Breathsmith | 4.00% | ~23 |
 | Unwrap the Gift | 4.00% | ~23 |
 | Proportions | 4.00% | ~23 |
 | Weakness | 3.00% | ~17 |
-| Breathsmith | 3.00% | ~17 |
 | Listen | 3.00% | ~5 |
 | Bloodhunter | 2.00% | ~11 |
 | Zygote | 2.00% | ~3 |

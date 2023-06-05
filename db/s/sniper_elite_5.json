@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2299,
+  "EOS_Progressed": 2304,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2606,6 +2606,11 @@
       "Time": "2023-06-05T20:06:14.5602115+00:00",
       "NumProgressed": 2299,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T21:05:40.3921377+00:00",
+      "NumProgressed": 2304,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2697,7 +2702,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2785,7 +2790,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2825,7 +2830,7 @@
       "Name": "Lord of War",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -2865,7 +2870,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -2889,7 +2894,7 @@
       "Name": "From Paris with Love",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -2929,7 +2934,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3065,7 +3070,7 @@
       "Name": "Covert Elimination",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -3081,7 +3086,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -3089,7 +3094,7 @@
       "Name": "Operation Foxley",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -3184,13 +3189,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2250,
+      "Progressed": 2255,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2299,
+      "Progressed": 2304,
       "Completed": 2
     }
   ],
@@ -3198,8 +3203,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:06:14.5602106+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:05:40.3921375+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-05T20:00:42.0043057+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:06:14.5602876+00:00"
+  "LastUpdate_Ratings": "2023-06-05T21:00:17.5814159+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:05:40.3922103+00:00"
 }

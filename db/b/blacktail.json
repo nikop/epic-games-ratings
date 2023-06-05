@@ -54,7 +54,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 451,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
@@ -759,6 +759,11 @@
       "Time": "2023-06-05T12:05:51.9965686+00:00",
       "NumProgressed": 450,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-05T21:05:36.8697207+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -778,7 +783,7 @@
       "Name": "Bad apple",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ChaoticNeutral",
@@ -802,7 +807,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Devoted",
@@ -810,7 +815,7 @@
       "Name": "Loremaster",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Extremist",
@@ -832,9 +837,9 @@
       "ID": "Favourite",
       "SetID": "2aagp3d",
       "Name": "Favorite",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "FisherKing",
@@ -898,7 +903,7 @@
       "Name": "A friend in need...",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "LostAndFound",
@@ -922,7 +927,7 @@
       "Name": "Awards unwarded",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Queen",
@@ -946,7 +951,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Specialist",
@@ -986,7 +991,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Toxic",
@@ -1025,7 +1030,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 451,
       "Completed": 1
     }
   ],
@@ -1033,8 +1038,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:06:11.0270274+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:05:36.8697204+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:01.7126872+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:58:11.4538309+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:06:11.0270576+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:57:48.5930711+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:05:36.8697454+00:00"
 }

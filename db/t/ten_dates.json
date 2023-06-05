@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 233,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -310,9 +310,9 @@
       "ID": "ryan_date2_all",
       "SetID": "6h5h9ho",
       "Name": "More than browsing",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ryan_date3_all",
@@ -374,9 +374,9 @@
       "ID": "success_kathleen",
       "SetID": "6h5h9ho",
       "Name": "The intellectual",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "success_lucas",
@@ -390,9 +390,9 @@
       "ID": "success_toni",
       "SetID": "6h5h9ho",
       "Name": "The athlete",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "success_ty",
@@ -423,8 +423,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:05:59.8711567+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:05:25.8365823+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:29.1261182+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:57:42.9940891+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:05:59.871173+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:57:20.0568998+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:05:25.8365976+00:00"
 }

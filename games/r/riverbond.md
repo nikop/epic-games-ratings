@@ -6,24 +6,24 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~362,962 |
-| Now You're Talking | 62.00% | ~321,481 |
-| Steel Yourself | 62.00% | ~321,481 |
-| Window Dressing | 50.00% | ~259,258 |
-| Trigger Happy | 46.00% | ~238,518 |
-| Riverborn | 45.00% | ~233,333 |
-| Starry Eyed | 34.00% | ~176,296 |
-| Poking Around | 34.00% | ~176,296 |
-| Talk of the Town | 24.00% | ~124,444 |
-| AAARR! | 23.00% | ~119,259 |
-| Hello Darkness | 23.00% | ~119,259 |
+| First Step | 70.00% | ~362,964 |
+| Now You're Talking | 62.00% | ~321,482 |
+| Steel Yourself | 62.00% | ~321,482 |
+| Window Dressing | 50.00% | ~259,260 |
+| Trigger Happy | 46.00% | ~238,519 |
+| Riverborn | 45.00% | ~233,334 |
+| Starry Eyed | 34.00% | ~176,297 |
+| Poking Around | 34.00% | ~176,297 |
+| Talk of the Town | 24.00% | ~124,445 |
+| AAARR! | 23.00% | ~119,260 |
+| Hello Darkness | 23.00% | ~119,260 |
 | Wind At Our Backs | 22.00% | ~114,074 |
-| To the Beat | 20.00% | ~103,703 |
+| To the Beat | 20.00% | ~103,704 |
 | Sunny Shores | 17.00% | ~88,148 |
 | To Victory! | 15.00% | ~77,778 |
 | Sunday Best | 15.00% | ~77,778 |
-| Two of a Kind | 14.00% | ~72,592 |
-| Keep On Trucking | 13.00% | ~67,407 |
+| Two of a Kind | 14.00% | ~72,593 |
+| Keep On Trucking | 13.00% | ~67,408 |
 | Going on an Adventure | 11.00% | ~57,037 |
 | Make Peace, Not War | 11.00% | ~57,037 |
 | Walking The Line | 10.00% | ~51,852 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,556 |
 | Point Taken | 0.10% | ~519 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518,517 (Ranked 27)  
+Progressed: 518,520 (Ranked 27)  
 Completed: 420 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 420 (0.08%) (Ranked 173)
 | 2023-06-02 | 518,203 | 418 |
 | 2023-06-03 | 518,320 | 418 |
 | 2023-06-04 | 518,447 | 420 |
-| 2023-06-05 | 518,517 | 420 |
+| 2023-06-05 | 518,520 | 420 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

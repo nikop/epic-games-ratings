@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22795,
+  "EOS_Progressed": 22797,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1228,6 +1228,11 @@
       "Time": "2023-06-05T20:04:58.0518396+00:00",
       "NumProgressed": 22795,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-05T21:04:23.0764801+00:00",
+      "NumProgressed": 22797,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1247,7 +1252,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7522
+      "UsersEstimate": 7523
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -1255,7 +1260,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17552
+      "UsersEstimate": 17554
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -1263,7 +1268,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9802
+      "UsersEstimate": 9803
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -1303,7 +1308,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17324
+      "UsersEstimate": 17326
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1343,7 +1348,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18920
+      "UsersEstimate": 18922
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1359,7 +1364,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12993
+      "UsersEstimate": 12994
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1367,7 +1372,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13449
+      "UsersEstimate": 13450
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -1423,7 +1428,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16640
+      "UsersEstimate": 16642
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1431,7 +1436,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7522
+      "UsersEstimate": 7523
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -1447,7 +1452,7 @@
       "Name": "We Paid For The Rights To Put A Whole Movie In Here",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 2735
+      "UsersEstimate": 2736
     },
     {
       "ID": "ACH_NARR_WARPBASES",
@@ -1455,7 +1460,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3647
+      "UsersEstimate": 3648
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -1479,7 +1484,7 @@
       "Name": "Carried Stan\u0027s Load To Completion",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -1494,22 +1499,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22795,
+      "Progressed": 22797,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 88,
-      "Completed": 88
+      "Progressed": 90,
+      "Completed": 90
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:04:58.0518392+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:04:23.0764796+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:10.2395765+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:58:18.1265977+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:04:58.0518889+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:57:55.3232266+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:04:23.0765098+00:00"
 }

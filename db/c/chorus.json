@@ -786,9 +786,9 @@
       "ID": "Finish5SideMissions",
       "SetID": "a6c395p",
       "Name": "Helping Hand",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 633
     },
     {
       "ID": "FinishAllSideMissions",
@@ -882,9 +882,9 @@
       "ID": "MissionBuriedInATomb",
       "SetID": "a6c395p",
       "Name": "Uneasy Alliance",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 223
     },
     {
       "ID": "MissionDefenderOfTheWeak",
@@ -1114,8 +1114,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:06:27.6864039+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:05:53.7919561+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:26.7111078+00:00",
-  "LastUpdate_Ratings": "2023-06-05T20:00:10.9555476+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:06:27.6864399+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:59:48.7845916+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:05:53.7919884+00:00"
 }

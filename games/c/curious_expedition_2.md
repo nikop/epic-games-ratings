@@ -1,7 +1,7 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.70 (Ranked 197)  
+Rating: 4.70 (Ranked 196)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,7 +16,7 @@ Number of Ratings: 20  (23.09.2022)
 | Spooky! | 34.00% | ~105 |
 | Shennong Herbalist | 31.00% | ~95 |
 | Treasure Hunt | 31.00% | ~95 |
-| Good Mama | 29.00% | ~89 |
+| Good Mama | 30.00% | ~92 |
 | O Captain My Captain | 28.00% | ~86 |
 | Plunderer | 26.00% | ~80 |
 | Taxonomist | 25.00% | ~77 |
@@ -48,9 +48,9 @@ Number of Ratings: 20  (23.09.2022)
 | No Laughing Matter | 7.00% | ~22 |
 | Level Up | 7.00% | ~22 |
 | Zookeeper | 6.00% | ~18 |
+| Islander Understanding | 5.00% | ~15 |
 | A Paris Sunset | 5.00% | ~15 |
 | The Workshop | 5.00% | ~15 |
-| Islander Understanding | 4.00% | ~12 |
 | The Director Perseveres | 4.00% | ~12 |
 | A Familiar Figure | 4.00% | ~12 |
 | X Marks the Spot | 4.00% | ~12 |

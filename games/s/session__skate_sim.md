@@ -17,7 +17,7 @@ Number of Ratings: 111  (23.09.2022)
 | The flip trick crown jewel | 8.00% | ~181 |
 | The hard way | 8.00% | ~181 |
 | Upfront shredder | 8.00% | ~181 |
-| Good vibes | 7.00% | ~158 |
+| Good vibes | 7.00% | ~159 |
 | Finally he zips it | 6.00% | ~136 |
 | That pinch! | 6.00% | ~136 |
 | Bottom ply killer | 5.00% | ~113 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,264 (Ranked 149)  
+Progressed: 2,265 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 2,219 | 0 |
 | 2023-06-03 | 2,230 | 0 |
 | 2023-06-04 | 2,248 | 0 |
-| 2023-06-05 | 2,264 | 0 |
+| 2023-06-05 | 2,265 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 397)  
 Sum: 420 (Ranked 299)  

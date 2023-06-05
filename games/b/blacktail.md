@@ -5,23 +5,23 @@ Rating: 4.67 (Ranked 259)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 25.00% | ~112 |
+| Tooth fairy | 25.00% | ~113 |
 | Dental maturity | 19.00% | ~86 |
-| Devil's in the details | 13.00% | ~58 |
+| Devil's in the details | 13.00% | ~59 |
 | Uprooting | 12.00% | ~54 |
 | Forbidden techniques | 10.00% | ~45 |
-| Slavic squatter | 9.00% | ~40 |
+| Slavic squatter | 9.00% | ~41 |
 | Devoted | 8.00% | ~36 |
 | Gold rush | 6.00% | ~27 |
 | Spirit animal | 6.00% | ~27 |
-| A friend in need... | 5.00% | ~22 |
+| A friend in need... | 5.00% | ~23 |
 | Sneak peek | 4.00% | ~18 |
+| Favorite | 4.00% | ~18 |
 | Fishing fanatic | 4.00% | ~18 |
 | Liar Liar | 4.00% | ~18 |
 | The cycle acknowledged | 4.00% | ~18 |
 | Baba Yaga | 4.00% | ~18 |
 | Extensive retelling | 3.00% | ~14 |
-| Favorite | 3.00% | ~14 |
 | The word around is... | 3.00% | ~14 |
 | Both sides | 3.00% | ~14 |
 | Queen | 3.00% | ~14 |
@@ -32,13 +32,13 @@ Rating: 4.67 (Ranked 259)
 | Always worth a try | 2.00% | ~9 |
 | Toxic | 2.00% | ~9 |
 | Entangled | 2.00% | ~9 |
-| Bad apple | 1.00% | ~4 |
-| Loremaster | 1.00% | ~4 |
-| Awards unwarded | 1.00% | ~4 |
+| Bad apple | 1.00% | ~5 |
+| Loremaster | 1.00% | ~5 |
+| Awards unwarded | 1.00% | ~5 |
 | Mushrooming enthusiast | 0.40% | ~2 |
 | Apex predator | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450 (Ranked 201)  
+Progressed: 451 (Ranked 201)  
 Completed: 1 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 1 (0.22%) (Ranked 141)
 | 2023-06-02 | 430 | 1 |
 | 2023-06-03 | 438 | 1 |
 | 2023-06-04 | 447 | 1 |
-| 2023-06-05 | 450 | 1 |
+| 2023-06-05 | 451 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

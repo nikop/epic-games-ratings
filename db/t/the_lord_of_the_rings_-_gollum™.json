@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -665,6 +665,11 @@
       "Time": "2023-06-05T19:05:31.9452824+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T21:05:29.0428706+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -674,17 +679,17 @@
       "ID": "Annoying",
       "SetID": "70l3651",
       "Name": "He\u0027s so Annoying",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "BreakLegs",
       "SetID": "70l3651",
       "Name": "Break a Leg!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "CatchAFish",
@@ -700,7 +705,7 @@
       "Name": "The Wraith",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Chapter10",
@@ -714,9 +719,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "Chapter3",
@@ -786,7 +791,7 @@
       "ID": "Collectibles2",
       "SetID": "70l3651",
       "Name": "Collectibles Part 2",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -802,15 +807,15 @@
       "ID": "Darkness",
       "SetID": "70l3651",
       "Name": "Sweet Darkness",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ElfFriend",
       "SetID": "70l3651",
       "Name": "Elf-Friend",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -834,7 +839,7 @@
       "ID": "GollumChoices",
       "SetID": "70l3651",
       "Name": "We wants it! We needs it",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -858,15 +863,15 @@
       "ID": "Murderer",
       "SetID": "70l3651",
       "Name": "Murderer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "NoDamage",
       "SetID": "70l3651",
       "Name": "Nervous Hands",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -906,7 +911,7 @@
       "ID": "Scout",
       "SetID": "70l3651",
       "Name": "Scout",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -963,14 +968,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-05T20:06:03.2571445+00:00",
+  "LastChanged_Achievements": "2023-06-05T21:05:29.0428701+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.3133808+00:00",
-  "LastUpdate_Ratings": "2023-06-05T19:58:05.2590264+00:00",
-  "LastUpdate_Achievements": "2023-06-05T20:06:03.2571747+00:00"
+  "LastUpdate_Ratings": "2023-06-05T20:57:42.0833317+00:00",
+  "LastUpdate_Achievements": "2023-06-05T21:05:29.0428995+00:00"
 }

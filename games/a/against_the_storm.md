@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 2.00% | ~304 |
 | No Deaths | 2.00% | ~304 |
 | Homesick | 1.00% | ~152 |
+| Against All Odds | 1.00% | ~152 |
 | Bandit Camp | 1.00% | ~152 |
 | Barren Lands | 1.00% | ~152 |
 | Ancient Battleground | 1.00% | ~152 |
@@ -33,23 +34,22 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 1.00% | ~152 |
 | Trade Baron | 1.00% | ~152 |
 | Refinery | 0.90% | ~137 |
-| Against All Odds | 0.90% | ~137 |
 | Statue of the Forefathers | 0.90% | ~137 |
 | Serving Ale | 0.80% | ~122 |
 | Forsaken Gods Temple | 0.80% | ~122 |
 | Defying the Crown | 0.80% | ~122 |
 | Into the Forest | 0.80% | ~122 |
 | Ruined Armory | 0.70% | ~106 |
-| Forbidden Lands | 0.60% | ~91 |
+| Forbidden Lands | 0.70% | ~106 |
 | Efficient Explorer | 0.50% | ~76 |
 | Fishmen Ritual Site | 0.50% | ~76 |
 | Prestigious Expedition | 0.40% | ~61 |
 | Blood Flower Farmer | 0.40% | ~61 |
 | Victory through Prosperity | 0.40% | ~61 |
+| Feeding The People | 0.30% | ~46 |
 | Beaver Utopia | 0.30% | ~46 |
 | Human Utopia | 0.30% | ~46 |
 | Lizard Utopia | 0.30% | ~46 |
-| Feeding The People | 0.20% | ~30 |
 | Harpy Utopia | 0.20% | ~30 |
 | The Queen's Chosen | 0.20% | ~30 |
 | Treasure | 0.20% | ~30 |
