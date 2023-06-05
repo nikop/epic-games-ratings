@@ -4,7 +4,7 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -123,6 +123,11 @@
       "Time": "2023-06-04T23:03:51.5889907+00:00",
       "NumProgressed": 92,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T19:03:31.3610389+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -164,7 +169,7 @@
       "ID": "FIRST_HARVEST",
       "SetID": "3c20ib3",
       "Name": "Good to grow",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 5,
       "UsersEstimate": 58
     },
@@ -188,7 +193,7 @@
       "ID": "GET_SOULSTONES",
       "SetID": "3c20ib3",
       "Name": "Make it rain",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -206,7 +211,7 @@
       "Name": "So it begins",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "HUNTING",
@@ -356,7 +361,7 @@
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 33
     },
@@ -381,7 +386,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 0
     }
   ],
@@ -389,8 +394,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:03:25.0507917+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:03:31.3610383+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:35.375098+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:57:22.4242429+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:03:25.0508131+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:57:28.1019004+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:03:31.3610608+00:00"
 }

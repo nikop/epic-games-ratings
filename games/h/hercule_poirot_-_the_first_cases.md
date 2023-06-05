@@ -35,7 +35,7 @@ Rating: 4.33 (Ranked 745)
 | Inge Frank | 30.00% | ~112 |
 | The Search | 30.00% | ~112 |
 | Hugo Beckers | 29.00% | ~108 |
-| The Family | 26.00% | ~97 |
+| The Family | 27.00% | ~101 |
 | Well-travelled | 25.00% | ~94 |
 | Thinking of Everything | 25.00% | ~94 |
 | Exquisite Artwork | 25.00% | ~94 |

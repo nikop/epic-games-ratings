@@ -1017,9 +1017,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6142,
+  "EOS_Progressed": 6143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4812,6 +4812,11 @@
       "Time": "2023-06-05T17:03:12.5951729+00:00",
       "NumProgressed": 6142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T19:02:17.0634247+00:00",
+      "NumProgressed": 6143,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -4855,7 +4860,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "14",
@@ -4871,15 +4876,15 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "16",
       "SetID": "8idi9ml",
       "Name": "Adventurer",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2580
+      "UsersEstimate": 2519
     },
     {
       "ID": "17",
@@ -4887,7 +4892,7 @@
       "Name": "Famous Adventurer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "18",
@@ -4903,7 +4908,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "2",
@@ -4935,7 +4940,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "23",
@@ -4943,7 +4948,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2089
     },
     {
       "ID": "24",
@@ -5119,7 +5124,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "44",
@@ -5213,9 +5218,9 @@
       "ID": "54",
       "SetID": "8idi9ml",
       "Name": "Top Notch",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1474
     },
     {
       "ID": "55",
@@ -5294,15 +5299,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6142,
+      "Progressed": 6143,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-05T04:00:59.3034052+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:00:59.7831904+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:02:17.0634241+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:59:48.6436379+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:00:59.7832645+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:59:54.1915603+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:02:17.0634919+00:00"
 }

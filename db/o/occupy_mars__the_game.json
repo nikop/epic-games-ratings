@@ -2,12 +2,12 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 921,
+  "Ranking_Rating": 919,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 3.83,
+  "Rating": 3.85,
   "RatingHistory": [
     {
       "Time": "2023-05-17T09:57:13.2048269+00:00",
@@ -88,6 +88,12 @@
       "Rating": 3.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-05T18:57:24.3437034+00:00",
+      "Rating": 3.85,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -96,7 +102,7 @@
   "Tags": [],
   "EOS_Progressed": 1127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1611,9 +1617,9 @@
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
       "SetID": "l546gc",
       "Name": "5G Network",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -1755,9 +1761,9 @@
       "ID": "NEW_ACHIEVEMENT_ITS",
       "SetID": "l546gc",
       "Name": "ITS crash site",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 56
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -1915,9 +1921,9 @@
   "FirstSeen": "2023-05-10T20:57:26.0655367+00:00",
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
-  "LastChanged": "2023-06-03T17:57:40.7372118+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:03:39.7256388+00:00",
+  "LastChanged": "2023-06-05T18:57:24.3437031+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:03:46.1497909+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:57:19.0902382+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:03:39.725687+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:57:24.3437039+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:03:46.1498357+00:00"
 }

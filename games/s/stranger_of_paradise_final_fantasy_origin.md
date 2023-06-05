@@ -6,27 +6,27 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~76,141 |
+| Manifestation of the Soul | 97.00% | ~76,142 |
 | No Escape | 86.00% | ~67,507 |
 | Seeker of Power | 85.00% | ~66,722 |
-| Hopes and Dreams | 82.00% | ~64,367 |
-| Lantern Smasher | 78.00% | ~61,227 |
-| The Pirate's Way | 73.00% | ~57,302 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~55,732 |
-| The King of the Dark Elves | 68.00% | ~53,377 |
-| Memories of the Distant Past | 66.00% | ~51,807 |
-| Distortion's Progeny | 63.00% | ~49,452 |
+| Hopes and Dreams | 82.00% | ~64,368 |
+| Lantern Smasher | 78.00% | ~61,228 |
+| The Pirate's Way | 73.00% | ~57,303 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~55,733 |
+| The King of the Dark Elves | 68.00% | ~53,378 |
+| Memories of the Distant Past | 66.00% | ~51,808 |
+| Distortion's Progeny | 63.00% | ~49,453 |
 | Savant | 62.00% | ~48,668 |
 | A Landscape of Memory | 58.00% | ~45,528 |
 | The Wind's Light | 54.00% | ~42,388 |
-| Vague Remembrances | 49.00% | ~38,463 |
-| The Fire's Light | 47.00% | ~36,893 |
-| Phantom Memories | 46.00% | ~36,108 |
-| Imbued Memories | 46.00% | ~36,108 |
-| The Earth's Light | 45.00% | ~35,323 |
-| Shared Recollections | 41.00% | ~32,183 |
-| Path of the Sage | 40.00% | ~31,398 |
-| The Water's Light | 39.00% | ~30,613 |
+| Vague Remembrances | 49.00% | ~38,464 |
+| The Fire's Light | 47.00% | ~36,894 |
+| Phantom Memories | 46.00% | ~36,109 |
+| Imbued Memories | 46.00% | ~36,109 |
+| The Earth's Light | 45.00% | ~35,324 |
+| Shared Recollections | 41.00% | ~32,184 |
+| Path of the Sage | 40.00% | ~31,399 |
+| The Water's Light | 39.00% | ~30,614 |
 | Malice Takes Root | 37.00% | ~29,044 |
 | Path of the Dark Knight | 37.00% | ~29,044 |
 | Path of the Breaker | 37.00% | ~29,044 |
@@ -47,13 +47,13 @@ Number of Ratings: 1,919  (23.09.2022)
 | Origin of True Chaos | 20.00% | ~15,699 |
 | Jack-of-All-Trades | 19.00% | ~14,914 |
 | Master's Awakening | 18.00% | ~14,129 |
-| Cycle of Darkness | 16.00% | ~12,559 |
+| Cycle of Darkness | 16.00% | ~12,560 |
 | Job Master | 8.00% | ~6,280 |
 | Crest Bearer | 6.00% | ~4,710 |
 | Strangers' Memories | 3.00% | ~2,355 |
 | A Tale of Origins and Endings | 2.00% | ~1,570 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,496 (Ranked 64)  
+Progressed: 78,497 (Ranked 64)  
 Completed: 2,133 (2.72%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2,133 (2.72%) (Ranked 58)
 | 2023-06-02 | 78,436 | 2,132 |
 | 2023-06-03 | 78,455 | 2,132 |
 | 2023-06-04 | 78,478 | 2,133 |
-| 2023-06-05 | 78,496 | 2,133 |
+| 2023-06-05 | 78,497 | 2,133 |
 ## Awards
 Max (Great Boss Battles): 753  (Ranked 151)  
 Sum: 1,552 (Ranked 206)  

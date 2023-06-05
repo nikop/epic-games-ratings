@@ -6,8 +6,8 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,601 |
-| Un-Lonely Island | 48.00% | ~1,643 |
+| Just One...More...Term... | 76.00% | ~2,602 |
+| Un-Lonely Island | 48.00% | ~1,644 |
 | The Beginning of a Servantship | 46.00% | ~1,575 |
 | Trade Is My Trait | 37.00% | ~1,267 |
 | Number 18 | 25.00% | ~856 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~34 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,423 (Ranked 134)  
+Progressed: 3,424 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,10 +93,10 @@ Completed: 1 (0.03%) (Ranked 190)
 | 2023-06-02 | 3,317 | 1 |
 | 2023-06-03 | 3,366 | 1 |
 | 2023-06-04 | 3,408 | 1 |
-| 2023-06-05 | 3,423 | 1 |
+| 2023-06-05 | 3,424 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 317)  
-Sum: 755 (Ranked 255)  
+Sum: 756 (Ranked 255)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
@@ -108,7 +108,7 @@ Diff (max vs sum): 62
 | This game is Educational | 81 |
 | This game has Amazing Characters | 80 |
 | This game is Extremely Fun | 79 |
-| This game has a Creative Community | 60 |
+| This game has a Creative Community | 61 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
 ## Ratings History
@@ -213,3 +213,4 @@ Diff (max vs sum): 62
 | 2023-05-28 | 4.67 | - | 106 | 752 |
 | 2023-06-03 | 4.67 | - | 106 | 754 |
 | 2023-06-04 | 4.67 | - | 106 | 755 |
+| 2023-06-05 | 4.67 | - | 106 | 756 |

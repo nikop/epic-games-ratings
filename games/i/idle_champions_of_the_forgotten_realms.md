@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.20% | ~112 |
 | Hither of the Feywild | 0.20% | ~112 |
 | The Prince of a Thousand Enemies | 0.20% | ~112 |
+| Uncommon Allies | 0.20% | ~112 |
 | Where the Magic Happens | 0.20% | ~112 |
 | Third Third Out | 0.20% | ~112 |
 | The Silken Swamp | 0.20% | ~180 |
@@ -118,6 +119,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.20% | ~180 |
 | Seeds of Deceit | 0.20% | ~180 |
 | Trollskull Manor | 0.20% | ~180 |
+| The Gargoyle's Apprentice | 0.20% | ~180 |
 | Attack on the Manor | 0.20% | ~180 |
 | The Death Curse | 0.20% | ~180 |
 | Treasure Hunters | 0.20% | ~180 |
@@ -157,6 +159,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Hollyphant | 0.20% | ~112 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~112 |
 | The Wandering Emporium | 0.20% | ~112 |
+| Tiamat's Army | 0.20% | ~112 |
 | Questlines | 0.20% | ~112 |
 | Bel's Forge | 0.20% | ~112 |
 | The Giant's Bane Tavern | 0.20% | ~112 |
@@ -198,7 +201,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.10% | ~56 |
 | Icequake | 0.10% | ~56 |
 | A Lesson in Classes | 0.10% | ~56 |
-| Uncommon Allies | 0.10% | ~56 |
 | The Birds | 0.10% | ~56 |
 | Downfall | 0.10% | ~56 |
 | First Third Out | 0.10% | ~56 |
@@ -289,7 +291,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~90 |
 | Seeds of Corruption | 0.10% | ~90 |
 | The Strahd Squad | 0.10% | ~56 |
-| The Gargoyle's Apprentice | 0.10% | ~90 |
 | House of Darkness | 0.10% | ~90 |
 | Home Not So Alone | 0.10% | ~56 |
 | The Trepidatious Trio | 0.10% | ~90 |
@@ -406,7 +407,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle | 0.10% | ~56 |
 | Madcap Adventures Redux | 0.10% | ~56 |
 | When the Going Gets Tough | 0.10% | ~56 |
-| Tiamat's Army | 0.10% | ~56 |
 | Show of Strength | 0.10% | ~56 |
 | Fight Dragons with Dragons | 0.10% | ~56 |
 | Raggadragga's Crew | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,866 (Ranked 62)  
+Progressed: 89,871 (Ranked 62)  
 Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,866 | 1,917 |
+| 2023-06-05 | 89,871 | 1,917 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
 Sum: 30,035 (Ranked 37)  

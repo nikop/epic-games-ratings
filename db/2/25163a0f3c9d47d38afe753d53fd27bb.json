@@ -3,9 +3,9 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 205,
-  "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 409,
-  "EOS_Completed": 26,
-  "EOS_NewPlayers": 52,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.36,
+  "EOS_Completed": 27,
+  "EOS_NewPlayers": 51,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 6.6,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1041,6 +1041,11 @@
       "Time": "2023-06-05T14:04:45.7067484+00:00",
       "NumProgressed": 409,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-05T19:03:53.6267785+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 30,
@@ -1282,9 +1287,9 @@
       "ID": "LEVEL_030",
       "SetID": "212bg48",
       "Name": "Celebration with Cake and Balloons",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 110,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
@@ -1292,13 +1297,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 409,
-      "Completed": 26
+      "Completed": 27
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:03:47.4683227+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:03:53.6267778+00:00",
   "LastUpdate_AppInfo": "2023-06-05T14:57:13.8702155+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:57:03.137523+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:03:47.468346+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:57:04.3690777+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:03:53.6268054+00:00"
 }

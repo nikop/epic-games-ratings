@@ -5,8 +5,8 @@ Rating: 3.97 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,216 |
-| World Map | 80.00% | ~1,035 |
+| Victor | 94.00% | ~1,217 |
+| World Map | 80.00% | ~1,036 |
 | Temple of Eternals | 56.00% | ~725 |
 | Prestigious | 53.00% | ~686 |
 | Fellowship Power | 40.00% | ~518 |
@@ -27,7 +27,7 @@ Rating: 3.97 (Ranked 905)
 | Natural Talent | 11.00% | ~142 |
 | Superior | 11.00% | ~142 |
 | The Unstoppable | 11.00% | ~142 |
-| Scientist | 9.00% | ~116 |
+| Scientist | 9.00% | ~117 |
 | Challenger | 8.00% | ~104 |
 | Daily Quest Completionist | 8.00% | ~104 |
 | The power of Awakening | 8.00% | ~104 |
@@ -61,7 +61,7 @@ Rating: 3.97 (Ranked 905)
 | Arena Challenger | 1.00% | ~13 |
 | Ebony Jungle Liberator | 1.00% | ~13 |
 | The Alchemist | 1.00% | ~13 |
-| Legendary | 0.90% | ~12 |
+| Legendary | 0.80% | ~10 |
 | Training makes a Pro player | 0.70% | ~9 |
 | Transmute | 0.60% | ~8 |
 | Mythic Power | 0.50% | ~6 |
@@ -81,7 +81,7 @@ Rating: 3.97 (Ranked 905)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,294 (Ranked 162)  
+Progressed: 1,295 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1 (0.08%) (Ranked 173)
 | 2023-06-02 | 1,257 | 1 |
 | 2023-06-03 | 1,267 | 1 |
 | 2023-06-04 | 1,285 | 1 |
-| 2023-06-05 | 1,294 | 1 |
+| 2023-06-05 | 1,295 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "09508f70d8d44e108e89ebcc7114ec4f",
   "Name": "Match Village",
   "ProductSlug": "match-village-5f41dd",
-  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.36,
   "EosHistory": [
@@ -461,6 +461,11 @@
       "Time": "2023-06-05T18:03:13.7440761+00:00",
       "NumProgressed": 220,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-05T19:03:19.7101597+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -470,9 +475,9 @@
       "ID": "aquatic_farm",
       "SetID": "ap7g2g4",
       "Name": "Aquatic Farm",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "balloon",
@@ -518,9 +523,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "fish_trade",
@@ -550,9 +555,9 @@
       "ID": "hope_farm",
       "SetID": "ap7g2g4",
       "Name": "Hope farm",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "marketplace",
@@ -576,7 +581,7 @@
       "Name": "Match 3",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "match_6",
@@ -584,7 +589,7 @@
       "Name": "Match 6",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "match_9",
@@ -600,7 +605,7 @@
       "Name": "Mill",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "sawmill",
@@ -608,23 +613,23 @@
       "Name": "Sawmill",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "seaweed_farm",
       "SetID": "ap7g2g4",
       "Name": "Seaweed farm",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "tavern",
       "SetID": "ap7g2g4",
       "Name": "Tavern",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "village",
@@ -640,7 +645,7 @@
       "Name": "Water platform",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "wheat_farm",
@@ -648,7 +653,7 @@
       "Name": "Wheat farm",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "wood",
@@ -663,14 +668,14 @@
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:03:13.7440757+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:03:19.7101591+00:00",
   "LastUpdate_AppInfo": "2023-06-01T11:57:15.3558567+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:57:00.7581434+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:03:13.7440955+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:57:01.8378334+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:03:19.7101798+00:00"
 }

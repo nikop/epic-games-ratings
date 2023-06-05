@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 606,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1080,9 +1080,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 133
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -1144,9 +1144,9 @@
       "ID": "InxChromaInTheatre",
       "SetID": "a9e499d",
       "Name": "Fitting In",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "JinxDefeated",
@@ -1160,9 +1160,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 297
     },
     {
       "ID": "MapCompletion1",
@@ -1216,9 +1216,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 321
     },
     {
       "ID": "ParryRepeated1",
@@ -1232,9 +1232,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 279
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1399,8 +1399,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:04:49.7465132+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:05:06.1387848+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:59:12.4525247+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:04:49.7465634+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:59:23.6950255+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:05:06.1388339+00:00"
 }

@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1031,
+  "EOS_Progressed": 1032,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1334,6 +1334,11 @@
       "Time": "2023-06-05T17:03:30.6110183+00:00",
       "NumProgressed": 1031,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T19:02:30.3901379+00:00",
+      "NumProgressed": 1032,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1361,7 +1366,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1417,7 +1422,7 @@
       "Name": "Commando",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CROAKED",
@@ -1481,7 +1486,7 @@
       "Name": "Dr Jones",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -1511,9 +1516,9 @@
       "ID": "EXPERIENCED",
       "SetID": "9a4jnji",
       "Name": "Experienced",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 155
     },
     {
       "ID": "FIRESTARTER",
@@ -1553,7 +1558,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "GIANT_KILLER",
@@ -1577,7 +1582,7 @@
       "Name": "Gun for Hire",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1593,7 +1598,7 @@
       "Name": "I am the law!",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "INFILTRATOR",
@@ -1609,7 +1614,7 @@
       "Name": "Lumberjack",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1649,7 +1654,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "RECYCLER",
@@ -1665,7 +1670,7 @@
       "Name": "Ruthless",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "SAVIOR",
@@ -1681,7 +1686,7 @@
       "Name": "Sensei",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1737,7 +1742,7 @@
       "Name": "The Watchers",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "WIPE_OUT",
@@ -1752,7 +1757,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1031,
+      "Progressed": 1032,
       "Completed": 0
     }
   ],
@@ -1760,8 +1765,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:02:23.7109283+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:02:30.3901371+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:58:07.8005769+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:02:23.7109795+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:58:18.4498291+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:02:30.3901948+00:00"
 }

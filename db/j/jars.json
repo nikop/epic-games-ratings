@@ -139,9 +139,9 @@
       "ID": "ACH_CHAPTER_0_DONE",
       "SetID": "3jfhgga",
       "Name": "The child of the night",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_CHAPTER_1_DONE",
@@ -187,9 +187,9 @@
       "ID": "ACH_ENCYCLOPEDIA_ENTRY",
       "SetID": "3jfhgga",
       "Name": "Missing data",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_EQUIP_PERK",
@@ -284,8 +284,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:00:41.0257548+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:00:53.4185364+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.948594+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:57:51.7341068+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:00:41.0257677+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:58:02.2889518+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:00:53.4185501+00:00"
 }

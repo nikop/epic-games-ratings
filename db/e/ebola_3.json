@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -753,6 +753,11 @@
       "Time": "2023-06-05T00:06:09.4213295+00:00",
       "NumProgressed": 185,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T19:05:58.7324374+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -788,7 +793,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achBett",
@@ -962,9 +967,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "achLizun",
@@ -1034,9 +1039,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "achPriest",
@@ -1100,7 +1105,7 @@
       "Name": "Chess \u2714",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achSpped",
@@ -1148,7 +1153,7 @@
       "Name": "Weapon \u2714",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achWorms",
@@ -1163,7 +1168,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 0
     }
   ],
@@ -1171,8 +1176,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:05:51.0169796+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:05:58.7324365+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:42.5740801+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:00:02.4527+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:05:51.0170279+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:00:12.219102+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:05:58.7324775+00:00"
 }

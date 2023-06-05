@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~38,201 |
-| INFUSED WITH LIGHT | 52.00% | ~29,649 |
-| FOXIN' AROUND | 28.00% | ~15,965 |
-| FETCH | 27.00% | ~15,395 |
-| BLOOMS OF LIGHT | 26.00% | ~14,824 |
-| BEST FRIENDS | 22.00% | ~12,544 |
-| AWAKEN | 21.00% | ~11,974 |
-| ERADICATE | 20.00% | ~11,403 |
-| SPIRIT BARK | 20.00% | ~11,403 |
-| GARDEN OF LIGHT | 18.00% | ~10,263 |
-| SPIRIT FORM | 16.00% | ~9,123 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~38,205 |
+| INFUSED WITH LIGHT | 52.00% | ~29,651 |
+| FOXIN' AROUND | 28.00% | ~15,966 |
+| FETCH | 27.00% | ~15,396 |
+| BLOOMS OF LIGHT | 26.00% | ~14,826 |
+| BEST FRIENDS | 22.00% | ~12,545 |
+| AWAKEN | 21.00% | ~11,975 |
+| ERADICATE | 20.00% | ~11,404 |
+| SPIRIT BARK | 20.00% | ~11,404 |
+| GARDEN OF LIGHT | 18.00% | ~10,264 |
+| SPIRIT FORM | 16.00% | ~9,124 |
 | UPROOTING DARKNESS | 15.00% | ~8,553 |
 | WRITTEN IN STONE | 15.00% | ~8,553 |
 | WEIGHTLESS | 11.00% | ~6,272 |
 | SPIRIT DASH | 10.00% | ~5,702 |
-| OLD COMPANION | 8.00% | ~4,561 |
-| PLAGUE DOCTOR | 8.00% | ~4,561 |
-| MATCH MAKER | 7.00% | ~3,991 |
-| NORTHERN LIGHTS | 7.00% | ~3,991 |
-| SPIRITED AWAY | 7.00% | ~3,991 |
+| OLD COMPANION | 8.00% | ~4,562 |
+| PLAGUE DOCTOR | 8.00% | ~4,562 |
+| MATCH MAKER | 7.00% | ~3,992 |
+| NORTHERN LIGHTS | 7.00% | ~3,992 |
+| SPIRITED AWAY | 7.00% | ~3,992 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,281 |
 | ANCIENT HISTORY | 2.00% | ~1,140 |
 | NONE FORGOTTEN | 2.00% | ~1,140 |
 | KINDRED SPIRITS | 0.60% | ~342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,017 (Ranked 74)  
+Progressed: 57,022 (Ranked 74)  
 Completed: 281 (0.49%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 281 (0.49%) (Ranked 113)
 | 2023-06-02 | 56,584 | 278 |
 | 2023-06-03 | 56,769 | 280 |
 | 2023-06-04 | 56,949 | 281 |
-| 2023-06-05 | 57,017 | 281 |
+| 2023-06-05 | 57,022 | 281 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 466)  
 Sum: 93 (Ranked 404)  

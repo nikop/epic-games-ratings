@@ -9,7 +9,7 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Returning Home | 50.00% | ~2,458 |
 | Returning Home: Quick Learner | 25.00% | ~1,229 |
 | Level: Charlie's Circuits | 22.00% | ~1,082 |
-| Level: Rising Markets | 9.00% | ~442 |
+| Level: Rising Markets | 9.00% | ~443 |
 | Peddler | 8.00% | ~393 |
 | Level: Extra Life | 7.00% | ~344 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~344 |
@@ -21,9 +21,9 @@ Number of Ratings: 75  (23.09.2022)
 | High Five! | 4.00% | ~197 |
 | Modular Progress | 4.00% | ~197 |
 | Salesperson | 4.00% | ~197 |
-| Campaign: Lesson Learned | 3.00% | ~147 |
-| Level: Bet On Bots | 3.00% | ~147 |
-| Modular Performance | 3.00% | ~147 |
+| Campaign: Lesson Learned | 3.00% | ~148 |
+| Level: Bet On Bots | 3.00% | ~148 |
+| Modular Performance | 3.00% | ~148 |
 | Level: Merry-Go-Around | 2.00% | ~98 |
 | Charlies's Circuits: Artist | 2.00% | ~98 |
 | Modular Peak | 2.00% | ~98 |
@@ -45,8 +45,8 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Topple The Top | 0.90% | ~44 |
 | Tycoon | 0.90% | ~44 |
 | Bet On Bots: Safety First | 0.80% | ~39 |
-| Merry-Go-Around: Self-Made | 0.60% | ~29 |
-| Trendsetter | 0.60% | ~29 |
+| Merry-Go-Around: Self-Made | 0.60% | ~30 |
+| Trendsetter | 0.60% | ~30 |
 | Level: Heating-Up | 0.50% | ~25 |
 | Level: Eye In The Sky | 0.50% | ~25 |
 | Bet On Bots: Inspector's Favorite | 0.50% | ~25 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,916 (Ranked 127)  
+Progressed: 4,917 (Ranked 127)  
 Completed: 1 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 1 (0.02%) (Ranked 195)
 | 2023-06-02 | 4,894 | 1 |
 | 2023-06-03 | 4,902 | 1 |
 | 2023-06-04 | 4,912 | 1 |
-| 2023-06-05 | 4,916 | 1 |
+| 2023-06-05 | 4,917 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2292,
+  "EOS_Progressed": 2294,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2596,6 +2596,11 @@
       "Time": "2023-06-05T18:05:36.0177396+00:00",
       "NumProgressed": 2292,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T19:05:43.9698755+00:00",
+      "NumProgressed": 2294,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2605,9 +2610,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -2647,7 +2652,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2663,7 +2668,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2727,7 +2732,7 @@
       "Name": "Gunslinger",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -2743,7 +2748,7 @@
       "Name": "Sharpshooter",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -2775,7 +2780,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2807,7 +2812,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2829,9 +2834,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 275
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -2909,9 +2914,9 @@
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -3015,7 +3020,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -3174,13 +3179,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2243,
+      "Progressed": 2245,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2292,
+      "Progressed": 2294,
       "Completed": 2
     }
   ],
@@ -3188,8 +3193,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:05:36.0177393+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:05:43.969875+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-05T18:00:23.2707329+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:05:36.017819+00:00"
+  "LastUpdate_Ratings": "2023-06-05T19:00:33.6799707+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:05:43.9699526+00:00"
 }

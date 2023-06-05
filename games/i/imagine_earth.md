@@ -6,18 +6,18 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tuto | 60.00% | ~228 |
+| Tuto | 61.00% | ~232 |
 | Joma | 43.00% | ~163 |
 | Campaign Bronze | 35.00% | ~133 |
-| Lorian | 30.00% | ~114 |
+| Lorian | 31.00% | ~118 |
 | Metropolis | 27.00% | ~103 |
 | Rounos | 23.00% | ~87 |
 | Campaign Silver | 21.00% | ~80 |
 | Magni | 21.00% | ~80 |
 | Bora | 18.00% | ~68 |
+| Scientist | 15.00% | ~57 |
 | Campaign Gold | 14.00% | ~53 |
 | Edora | 14.00% | ~53 |
-| Scientist | 14.00% | ~53 |
 | Environmentalist | 12.00% | ~46 |
 | Iqunox | 9.00% | ~34 |
 | Udion Torix | 8.00% | ~30 |

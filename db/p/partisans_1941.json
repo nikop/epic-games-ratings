@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 982,
+  "EOS_Progressed": 983,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -910,6 +910,11 @@
       "Time": "2023-06-04T18:06:24.0367294+00:00",
       "NumProgressed": 982,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-05T19:05:50.7132375+00:00",
+      "NumProgressed": 983,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -969,7 +974,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Defense_Common",
@@ -1049,7 +1054,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "High_noon",
@@ -1113,7 +1118,7 @@
       "Name": "Mosquito bite",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Scout",
@@ -1160,15 +1165,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 982,
+      "Progressed": 983,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:05:42.6811077+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:05:50.713237+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:59:02.4031809+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:05:42.6811325+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:59:14.8101965+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:05:50.7132621+00:00"
 }

@@ -1,7 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.83 (Ranked 921)  
+Rating: 3.85 (Ranked 919)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,7 +20,7 @@ Rating: 3.83 (Ranked 921)
 | Get your hands dirty | 9.00% | ~101 |
 | All Wheel Trouble | 6.00% | ~68 |
 | Space Forest | 6.00% | ~68 |
-| ITS crash site | 4.00% | ~45 |
+| ITS crash site | 5.00% | ~56 |
 | “Aliens” | 3.00% | ~34 |
 | DeDust | 3.00% | ~34 |
 | Plumber | 2.00% | ~23 |
@@ -30,7 +30,7 @@ Rating: 3.83 (Ranked 921)
 | Explosive Miner | 0.80% | ~9 |
 | Thunderstruck | 0.70% | ~8 |
 | Rocket Jump | 0.60% | ~7 |
-| 5G Network | 0.40% | ~5 |
+| 5G Network | 0.50% | ~6 |
 | Bull’s eye | 0.40% | ~5 |
 | Caveman | 0.40% | ~5 |
 | Rover Mechanic | 0.40% | ~5 |
@@ -99,3 +99,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-05-28 | 3.80 | 0 | 0 |
 | 2023-06-01 | 3.86 | 0 | 0 |
 | 2023-06-03 | 3.83 | 0 | 0 |
+| 2023-06-05 | 3.85 | 0 | 0 |

@@ -6,14 +6,14 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~18,266 |
+| Lawbringer | 35.00% | ~18,267 |
 | Landlord | 30.00% | ~15,657 |
 | Bannerlord | 21.00% | ~10,960 |
 | Horde breaker | 21.00% | ~10,960 |
 | Lawmaker | 21.00% | ~10,960 |
 | Trained | 20.00% | ~10,438 |
-| King Solomon | 16.00% | ~8,350 |
-| The king is pleased | 16.00% | ~8,350 |
+| King Solomon | 16.00% | ~8,351 |
+| The king is pleased | 16.00% | ~8,351 |
 | Apple of my eye | 14.00% | ~7,307 |
 | I can do it | 14.00% | ~7,307 |
 | God of the Arena | 12.00% | ~6,263 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,190 (Ranked 77)  
+Progressed: 52,191 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,10 +104,10 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 51,825 | 0 |
 | 2023-06-03 | 51,966 | 0 |
 | 2023-06-04 | 52,108 | 0 |
-| 2023-06-05 | 52,190 | 0 |
+| 2023-06-05 | 52,191 | 0 |
 ## Awards
 Max (Character Customization): 6,631  (Ranked 49)  
-Sum: 13,284 (Ranked 67)  
+Sum: 13,286 (Ranked 67)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
@@ -118,8 +118,8 @@ Diff (max vs sum): -18
 | This game is Extremely Fun | 754 |
 | This game has Amazing Storytelling | 742 |
 | This game has Quickly Understood Controls | 733 |
+| This game has Amazing Characters | 727 |
 | This game is Relaxing | 727 |
-| This game has Amazing Characters | 725 |
 | This game has a Creative Community | 531 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -267,4 +267,4 @@ Diff (max vs sum): -18
 | 2023-06-02 | 4.74 | - | 6,618 | 13,255 |
 | 2023-06-03 | 4.74 | - | 6,624 | 13,267 |
 | 2023-06-04 | 4.74 | - | 6,631 | 13,282 |
-| 2023-06-05 | 4.74 | - | 6,631 | 13,284 |
+| 2023-06-05 | 4.74 | - | 6,631 | 13,286 |

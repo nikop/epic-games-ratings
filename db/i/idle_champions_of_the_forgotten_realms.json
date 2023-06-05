@@ -4120,7 +4120,7 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89866,
+  "EOS_Progressed": 89871,
   "EOS_Completed": 1917,
   "EOS_NewPlayers": 731,
   "EOS_NewCompleters": 20,
@@ -8785,6 +8785,11 @@
       "Time": "2023-06-05T18:05:57.0448134+00:00",
       "NumProgressed": 89866,
       "NumCompleted": 1917
+    },
+    {
+      "Time": "2023-06-05T19:06:04.2707135+00:00",
+      "NumProgressed": 89871,
+      "NumCompleted": 1917
     }
   ],
   "TotalAchievements": 493,
@@ -9042,9 +9047,9 @@
       "ID": "objective_completed_1081",
       "SetID": "415jc5c",
       "Name": "Uncommon Allies",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1082",
@@ -10410,9 +10415,9 @@
       "ID": "objective_completed_279",
       "SetID": "cc37lbc",
       "Name": "The Gargoyle\u0027s Apprentice",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_280",
@@ -11746,9 +11751,9 @@
       "ID": "objective_completed_665",
       "SetID": "415jc5c",
       "Name": "Tiamat\u0027s Army",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_666",
@@ -12739,21 +12744,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56140,
+      "Progressed": 56145,
       "Completed": 2772
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89866,
+      "Progressed": 89871,
       "Completed": 1917
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-05T13:07:15.1307776+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:05:57.0448129+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:06:04.2707129+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:57:52.42086+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:05:57.0472482+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:58:03.6048612+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:06:04.2730558+00:00"
 }

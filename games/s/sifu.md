@@ -7,23 +7,23 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~674 |
-| Project Arena | 3.00% | ~505 |
-| The Old Grandmaster | 1.00% | ~7,075 |
-| The Assault | 1.00% | ~7,075 |
-| The Hateful Pole Fighter | 1.00% | ~7,075 |
-| A Lady's Blood in the Snow | 1.00% | ~7,075 |
-| Lady Wing Chun | 1.00% | ~7,075 |
-| Kill Nil | 1.00% | ~7,075 |
-| Street Fighting | 1.00% | ~7,075 |
-| Life is your teacher | 1.00% | ~7,075 |
-| State of constant learning | 1.00% | ~7,075 |
-| Qi Gong: Breath | 1.00% | ~7,075 |
-| Qi Gong: Essence | 1.00% | ~7,075 |
-| Lightning Hands | 1.00% | ~7,075 |
-| Path of the Prospect | 1.00% | ~7,075 |
-| Rumble in the Hangar | 1.00% | ~7,075 |
-| Bloody Sport | 1.00% | ~168 |
-| The best strikes are the ones we avoid | 1.00% | ~168 |
+| Project Arena | 3.00% | ~506 |
+| The Old Grandmaster | 1.00% | ~7,076 |
+| The Assault | 1.00% | ~7,076 |
+| The Hateful Pole Fighter | 1.00% | ~7,076 |
+| A Lady's Blood in the Snow | 1.00% | ~7,076 |
+| Lady Wing Chun | 1.00% | ~7,076 |
+| Kill Nil | 1.00% | ~7,076 |
+| Street Fighting | 1.00% | ~7,076 |
+| Life is your teacher | 1.00% | ~7,076 |
+| State of constant learning | 1.00% | ~7,076 |
+| Qi Gong: Breath | 1.00% | ~7,076 |
+| Qi Gong: Essence | 1.00% | ~7,076 |
+| Lightning Hands | 1.00% | ~7,076 |
+| Path of the Prospect | 1.00% | ~7,076 |
+| Rumble in the Hangar | 1.00% | ~7,076 |
+| Bloody Sport | 1.00% | ~169 |
+| The best strikes are the ones we avoid | 1.00% | ~169 |
 | Furious Fists | 0.90% | ~6,368 |
 | Stuntmaster | 0.90% | ~6,368 |
 | Old Child | 0.90% | ~6,368 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,545 (Ranked 16)  
+Progressed: 707,550 (Ranked 16)  
 Completed: 12,758 (1.80%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,14 +103,14 @@ Completed: 12,758 (1.80%) (Ranked 69)
 | 2023-06-02 | 706,954 | 12,751 |
 | 2023-06-03 | 707,194 | 12,754 |
 | 2023-06-04 | 707,419 | 12,757 |
-| 2023-06-05 | 707,545 | 12,758 |
+| 2023-06-05 | 707,550 | 12,758 |
 ## Awards
-Max (Great Boss Battles): 6,130  (Ranked 53)  
-Sum: 10,462 (Ranked 78)  
+Max (Great Boss Battles): 6,137  (Ranked 53)  
+Sum: 10,469 (Ranked 78)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,130 |
+| This game has Great Boss Battles | 6,137 |
 | This game has Diverse Characters | 523 |
 | This game has Challenging Combat | 518 |
 | This game has Quickly Understood Controls | 509 |
@@ -264,4 +264,4 @@ Diff (max vs sum): -25
 | 2023-06-02 | 4.82 | - | 6,122 | 10,445 |
 | 2023-06-03 | 4.82 | - | 6,130 | 10,457 |
 | 2023-06-04 | 4.82 | - | 6,130 | 10,460 |
-| 2023-06-05 | 4.82 | - | 6,130 | 10,462 |
+| 2023-06-05 | 4.82 | - | 6,137 | 10,469 |

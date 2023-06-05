@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 332,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -661,6 +661,11 @@
       "Time": "2023-06-05T18:02:20.0056894+00:00",
       "NumProgressed": 330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T19:02:26.5620368+00:00",
+      "NumProgressed": 332,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -696,7 +701,7 @@
       "Name": "Archmage 1",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "archmage_2",
@@ -840,7 +845,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "elemental_stones_2",
@@ -1080,7 +1085,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -1102,9 +1107,9 @@
       "ID": "soul_shards_1",
       "SetID": "53c1p3k",
       "Name": "Soul Shards 1",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "soul_shards_2",
@@ -1199,14 +1204,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 332,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:02:20.005689+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:02:26.5620362+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:56:56.6259783+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:02:20.0057535+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:56:56.2335878+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:02:26.5621037+00:00"
 }

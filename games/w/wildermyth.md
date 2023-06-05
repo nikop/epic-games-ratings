@@ -36,13 +36,13 @@ Number of Ratings: 45  (23.09.2022)
 | A Hunger, Sated | 4.00% | ~50 |
 | Turncoat | 4.00% | ~50 |
 | We Emerge Changed | 3.00% | ~37 |
+| Storied Past | 3.00% | ~37 |
 | No More Nightmares | 3.00% | ~37 |
 | Bears are Scary | 3.00% | ~37 |
 | Grillmaster | 3.00% | ~37 |
 | Into Mulch | 3.00% | ~37 |
 | Astrology | 3.00% | ~37 |
 | No Time for Clawmonsters | 3.00% | ~37 |
-| Storied Past | 2.00% | ~25 |
 | The Power of Friendship | 2.00% | ~25 |
 | Empty the Caves | 2.00% | ~25 |
 | Drauvenslayers | 2.00% | ~25 |

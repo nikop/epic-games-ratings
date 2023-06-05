@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14554,
+  "EOS_Progressed": 14558,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2845,6 +2845,11 @@
       "Time": "2023-06-05T18:03:53.3610546+00:00",
       "NumProgressed": 14554,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-06-05T19:03:59.5526993+00:00",
+      "NumProgressed": 14558,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -2888,7 +2893,7 @@
       "Name": "Flesh Wound",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -2984,7 +2989,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "KILL_ROBOT",
@@ -3032,7 +3037,7 @@
       "Name": "Paper Jams",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3048,7 +3053,7 @@
       "Name": "The Outer Way",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3088,7 +3093,7 @@
       "Name": "Desperate Times",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3144,7 +3149,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -3175,13 +3180,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14554,
+      "Progressed": 14558,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2480,
+      "Progressed": 2484,
       "Completed": 29
     }
   ],
@@ -3189,8 +3194,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:03:53.361054+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:03:59.5526987+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:57:40.7315205+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:03:53.3610996+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:57:50.6237182+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:03:59.5527459+00:00"
 }

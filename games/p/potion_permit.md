@@ -5,25 +5,25 @@ Rating: 3.80 (Ranked 924)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,322 |
-| The First Step | 88.00% | ~1,187 |
+| Welcome to Moonbury | 98.00% | ~1,323 |
+| The First Step | 88.00% | ~1,188 |
 | Moonbury Traveller | 63.00% | ~850 |
-| Rookie Chemist | 61.00% | ~823 |
-| Great Doctor | 50.00% | ~674 |
+| Rookie Chemist | 61.00% | ~824 |
+| Great Doctor | 50.00% | ~675 |
 | Dog Whisperer | 47.00% | ~634 |
 | Friendly | 46.00% | ~621 |
 | The Capitalist | 42.00% | ~567 |
-| K.O.! | 41.00% | ~553 |
+| K.O.! | 41.00% | ~554 |
 | Intermediate Chemist | 38.00% | ~513 |
 | Decorative Mind | 31.00% | ~418 |
-| Lumber Specialist | 29.00% | ~391 |
+| Lumber Specialist | 29.00% | ~392 |
 | Catch of the Day | 23.00% | ~310 |
 | Kind-hearted | 22.00% | ~297 |
 | Amateur Chef | 20.00% | ~270 |
 | Fishing Guru | 18.00% | ~243 |
 | Community Helper | 16.00% | ~216 |
 | Spark of Love | 15.00% | ~202 |
-| Stone Specialist | 13.00% | ~175 |
+| Stone Specialist | 13.00% | ~176 |
 | Expert Chemist | 12.00% | ~162 |
 | Sociable | 11.00% | ~148 |
 | Ablutomaniac | 11.00% | ~148 |
@@ -31,20 +31,20 @@ Rating: 3.80 (Ranked 924)
 | Good Samaritan | 10.00% | ~135 |
 | Line Cook | 10.00% | ~135 |
 | Acrobatic Adventurer | 8.00% | ~108 |
-| Animal Exterminator | 7.00% | ~94 |
+| Animal Exterminator | 7.00% | ~95 |
 | Adolescent Love | 6.00% | ~81 |
-| Mail Carrier | 5.00% | ~67 |
+| Mail Carrier | 5.00% | ~68 |
 | Plantation Exterminator | 4.00% | ~54 |
 | Grape Supplier | 4.00% | ~54 |
 | Sous Chef | 3.00% | ~40 |
 | Community Advisor | 2.00% | ~27 |
 | Rock Exterminator | 2.00% | ~27 |
 | Tree Exterminator | 2.00% | ~27 |
-| Being forgetful... | 1.00% | ~13 |
+| Being forgetful... | 1.00% | ~14 |
 | Moonbury Navigator | 0.80% | ~11 |
 | Being a donut... | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,349 (Ranked 160)  
+Progressed: 1,350 (Ranked 160)  
 Completed: 6 (0.44%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 6 (0.44%) (Ranked 117)
 | 2023-06-02 | 1,330 | 5 |
 | 2023-06-03 | 1,340 | 5 |
 | 2023-06-04 | 1,345 | 5 |
-| 2023-06-05 | 1,349 | 6 |
+| 2023-06-05 | 1,350 | 6 |
 ## Awards
 Max (Character Customization): 66  (Ranked 369)  
 Sum: 66 (Ranked 426)  

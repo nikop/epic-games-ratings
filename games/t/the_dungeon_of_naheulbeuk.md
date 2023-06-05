@@ -6,52 +6,53 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Where's that freaking Dwarf? | 100.00% | ~8 |
-| Alt+F4 | 100.00% | ~8 |
-| Déjà vu | 88.00% | ~7 |
-| GG EZ | 75.00% | ~6 |
-| Sock! SOCK! | 63.00% | ~5 |
-| DM intervention | 63.00% | ~5 |
-| Fireproof Wizardess | 50.00% | ~4 |
-| Speedrun | 38.00% | ~3 |
-| Team Building Exercise | 38.00% | ~3 |
-| Livin' in a dwarven paradise | 25.00% | ~2 |
-| The plot thickens... At the tavern | 25.00% | ~2 |
-| The demons' feast | 25.00% | ~2 |
-| The beards of change | 25.00% | ~2 |
-| Thieves' Guild Accreditation | 25.00% | ~2 |
-| Oh, when I'll be level 10... | 25.00% | ~2 |
-| Cursed die | 13.00% | ~1 |
-| Shiny and Crôm | 13.00% | ~1 |
-| Way of the Wimp | 13.00% | ~1 |
-| Scholar of the Lands of Fangh | 13.00% | ~1 |
-| A beer, two curses, three companions | 13.00% | ~1 |
-| The Great Library | 13.00% | ~1 |
-| Urik's Depths | 13.00% | ~1 |
-| The Statuette of Gladeulfeurah | 13.00% | ~1 |
-| The Woman in the High Castle | 13.00% | ~1 |
-| Necrophilia | 13.00% | ~1 |
-| He’s alive! Aliiiive! | 13.00% | ~1 |
-| Elite Adventurers | 13.00% | ~1 |
-| Take your time back in time | 13.00% | ~1 |
-| Egghead | 13.00% | ~1 |
-| The Famous Dungeon of Naheulbeuk | 13.00% | ~1 |
-| A tale of adventurers not quite like the others... | 13.00% | ~1 |
-| Dwarf Fortress | 13.00% | ~1 |
-| Look but don't touch | 13.00% | ~1 |
-| An old poacher makes the best gamekeeper | 13.00% | ~1 |
-| Dead for good | 13.00% | ~1 |
-| Super-Ultra-Lydian | 13.00% | ~1 |
-| Gargantua | 13.00% | ~1 |
-| Lord of the Drunks | 13.00% | ~1 |
-| Law and Order | 13.00% | ~1 |
-| In Navalu's footsteps | 13.00% | ~1 |
-| Lëgal Legend | 13.00% | ~1 |
-| The Ranger of Chaos | 13.00% | ~1 |
-| I am the night | 13.00% | ~1 |
-| Material Girl | 13.00% | ~1 |
+| Where's that freaking Dwarf? | 100.00% | ~10 |
+| Alt+F4 | 100.00% | ~10 |
+| Déjà vu | 80.00% | ~8 |
+| Sock! SOCK! | 70.00% | ~7 |
+| GG EZ | 70.00% | ~7 |
+| DM intervention | 70.00% | ~7 |
+| Fireproof Wizardess | 60.00% | ~6 |
+| Livin' in a dwarven paradise | 40.00% | ~4 |
+| The beards of change | 40.00% | ~4 |
+| Speedrun | 40.00% | ~4 |
+| Team Building Exercise | 40.00% | ~4 |
+| The plot thickens... At the tavern | 30.00% | ~3 |
+| An old poacher makes the best gamekeeper | 30.00% | ~3 |
+| I am the night | 30.00% | ~3 |
+| Thieves' Guild Accreditation | 30.00% | ~3 |
+| Oh, when I'll be level 10... | 30.00% | ~3 |
+| Shiny and Crôm | 20.00% | ~2 |
+| Way of the Wimp | 20.00% | ~2 |
+| A beer, two curses, three companions | 20.00% | ~2 |
+| The demons' feast | 20.00% | ~2 |
+| Urik's Depths | 20.00% | ~2 |
+| The Statuette of Gladeulfeurah | 20.00% | ~2 |
+| The Famous Dungeon of Naheulbeuk | 20.00% | ~2 |
+| A tale of adventurers not quite like the others... | 20.00% | ~2 |
+| Dwarf Fortress | 20.00% | ~2 |
+| Look but don't touch | 20.00% | ~2 |
+| Gargantua | 20.00% | ~2 |
+| The Ranger of Chaos | 20.00% | ~2 |
+| Material Girl | 20.00% | ~2 |
+| Cursed die | 10.00% | ~1 |
+| Scholar of the Lands of Fangh | 10.00% | ~1 |
+| The Great Library | 10.00% | ~1 |
+| Torture and Sensibility | 10.00% | ~1 |
+| The Woman in the High Castle | 10.00% | ~1 |
+| Necrophilia | 10.00% | ~1 |
+| He’s alive! Aliiiive! | 10.00% | ~1 |
+| Elite Adventurers | 10.00% | ~1 |
+| Take your time back in time | 10.00% | ~1 |
+| Egghead | 10.00% | ~1 |
+| Dead for good | 10.00% | ~1 |
+| Super-Ultra-Lydian | 10.00% | ~1 |
+| Lord of the Drunks | 10.00% | ~1 |
+| Law and Order | 10.00% | ~1 |
+| In Navalu's footsteps | 10.00% | ~1 |
+| Lëgal Legend | 10.00% | ~1 |
+| Lust and Debauchery | 10.00% | ~1 |
 | Holistic Adventuring Party | 0.00% | ~0 |
-| Torture and Sensibility | 0.00% | ~0 |
 | The Dungeon Master | 0.00% | ~0 |
 | Friendly fire | 0.00% | ~0 |
 | I'd rather... Just... Sing! | 0.00% | ~0 |
@@ -91,16 +92,15 @@ Number of Ratings: 118  (23.09.2022)
 | Inception | 0.00% | ~0 |
 | It's been a hard day's night | 0.00% | ~0 |
 | Demisemiquaver | 0.00% | ~0 |
-| Lust and Debauchery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 362)  
+Progressed: 10 (Ranked 355)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-06-05 | 8 | 0 |
+| 2023-06-05 | 10 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 378)  
 Sum: 61 (Ranked 431)  

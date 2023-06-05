@@ -4501,10 +4501,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13284,
       "NumberOfAwardsMax": 6631
+    },
+    {
+      "Time": "2023-06-05T18:59:40.1997586+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13286,
+      "NumberOfAwardsMax": 6631
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13284,
+  "NumberOfAwards": 13286,
   "NumberOfAwardsMax": 6631,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4548,7 +4554,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 725
+      "Count": 727
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4581,9 +4587,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 52190,
+  "EOS_Progressed": 52191,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 796,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9166,6 +9172,11 @@
       "Time": "2023-06-05T18:05:50.536641+00:00",
       "NumProgressed": 52190,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T19:05:58.2850686+00:00",
+      "NumProgressed": 52191,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -9369,7 +9380,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8350
+      "UsersEstimate": 8351
     },
     {
       "ID": "Kingslayer",
@@ -9409,7 +9420,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 18266
+      "UsersEstimate": 18267
     },
     {
       "ID": "Lawmaker",
@@ -9529,7 +9540,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8350
+      "UsersEstimate": 8351
     },
     {
       "ID": "This Is Our Land",
@@ -9584,15 +9595,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 52190,
+      "Progressed": 52191,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-06-05T05:59:37.2243328+00:00",
-  "LastChanged_Achievements": "2023-06-05T18:05:50.5366408+00:00",
+  "LastChanged": "2023-06-05T18:59:40.1997584+00:00",
+  "LastChanged_Achievements": "2023-06-05T19:05:58.2850681+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:06.5602034+00:00",
-  "LastUpdate_Ratings": "2023-06-05T17:59:30.6842493+00:00",
-  "LastUpdate_Achievements": "2023-06-05T18:05:50.5367099+00:00"
+  "LastUpdate_Ratings": "2023-06-05T18:59:40.1997591+00:00",
+  "LastUpdate_Achievements": "2023-06-05T19:05:58.2851401+00:00"
 }
