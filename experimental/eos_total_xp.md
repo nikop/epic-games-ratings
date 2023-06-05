@@ -9,6 +9,7 @@
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 68 | 1,550 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 40 | 1,500 |
+| [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 88 | 1,490 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 |
 | [Sifu](../games/s/sifu.md) | 50 | 1,350 |

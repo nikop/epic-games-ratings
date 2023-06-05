@@ -20,6 +20,7 @@
 | [McPixel 3](../games/m/mcpixel_3.md) | 93 | 1,000 |
 | [Project Highrise](../games/p/project_highrise.md) | 88 | 1,000 |
 | [Rocket League®](../games/r/rocket_league®.md) | 88 | 1,000 |
+| [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 88 | 1,490 |
 | [Defense Grid: The Awakening](../games/d/defense_grid__the_awakening.md) | 87 | 1,000 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 |
 | [Kingdom Come: Deliverance](../games/k/kingdom_come__deliverance.md) | 82 | 1,000 |

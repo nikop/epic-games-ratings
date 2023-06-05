@@ -28,7 +28,7 @@
 | 26 | [Scorn](games/s/scorn.md) | 6.88% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 28 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.37% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.36% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.41% |
@@ -52,8 +52,8 @@
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 51 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 51 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.90% |
-| 53 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.88% |
-| 54 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
+| 53 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
+| 53 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.86% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
 | 56 | [Lamentum](games/l/lamentum.md) | 2.79% |
 | 57 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.75% |
@@ -72,7 +72,7 @@
 | 70 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 71 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.64% |
 | 72 | [Somerville](games/s/somerville.md) | 1.59% |
-| 73 | [Night Book](games/n/night_book.md) | 1.58% |
+| 73 | [Night Book](games/n/night_book.md) | 1.57% |
 | 74 | [A Musical Story](games/a/a_musical_story.md) | 1.56% |
 | 75 | [Frogun](games/f/frogun.md) | 1.51% |
 | 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
@@ -106,7 +106,7 @@
 | 104 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.71% |
 | 105 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.70% |
 | 106 | [Train Valley](games/t/train_valley.md) | 0.68% |
-| 107 | [Haven](games/h/haven.md) | 0.66% |
+| 107 | [Haven](games/h/haven.md) | 0.65% |
 | 108 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 109 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.62% |
 | 110 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
