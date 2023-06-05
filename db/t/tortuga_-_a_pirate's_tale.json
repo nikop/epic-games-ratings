@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15523,
+  "EOS_Progressed": 15524,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1699,6 +1699,11 @@
       "Time": "2023-06-04T23:06:44.3846019+00:00",
       "NumProgressed": 15523,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T13:15:27.8956724+00:00",
+      "NumProgressed": 15524,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1710,7 +1715,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14747
+      "UsersEstimate": 14748
     },
     {
       "ID": "ACH001",
@@ -1718,7 +1723,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13505
+      "UsersEstimate": 13506
     },
     {
       "ID": "ACH0010",
@@ -1788,9 +1793,9 @@
       "ID": "ACH0018",
       "SetID": "6749a6l",
       "Name": "Curse of the Seven Seas",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3415
     },
     {
       "ID": "ACH0019",
@@ -1870,7 +1875,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13660
+      "UsersEstimate": 13661
     },
     {
       "ID": "ACH005",
@@ -1878,7 +1883,7 @@
       "Name": "Head First",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2328
+      "UsersEstimate": 2329
     },
     {
       "ID": "ACH006",
@@ -1886,7 +1891,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6365
     },
     {
       "ID": "ACH007",
@@ -1917,7 +1922,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15523,
+      "Progressed": 15524,
       "Completed": 0
     }
   ],
@@ -1925,8 +1930,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-01T22:00:58.8734008+00:00",
-  "LastChanged_Achievements": "2023-06-05T12:06:16.3910909+00:00",
+  "LastChanged_Achievements": "2023-06-05T13:15:27.8956717+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.5075108+00:00",
-  "LastUpdate_Ratings": "2023-06-05T12:00:22.9868151+00:00",
-  "LastUpdate_Achievements": "2023-06-05T12:06:16.3911187+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:09:44.4974668+00:00",
+  "LastUpdate_Achievements": "2023-06-05T13:15:27.8956938+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1705,
+  "EOS_Progressed": 1706,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -975,6 +975,11 @@
       "Time": "2023-06-05T10:07:07.8801364+00:00",
       "NumProgressed": 1705,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-05T13:15:33.8621171+00:00",
+      "NumProgressed": 1706,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -994,7 +999,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "ACHV_03",
@@ -1146,7 +1151,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHV_22",
@@ -1186,7 +1191,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ACHV_27",
@@ -1210,7 +1215,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHV_30",
@@ -1218,7 +1223,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACHV_31",
@@ -1290,7 +1295,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "ACHV_40",
@@ -1441,7 +1446,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1705,
+      "Progressed": 1706,
       "Completed": 10
     }
   ],
@@ -1449,8 +1454,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-05T12:06:21.6450769+00:00",
+  "LastChanged_Achievements": "2023-06-05T13:15:33.8621165+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:57.1438675+00:00",
-  "LastUpdate_Ratings": "2023-06-05T12:00:33.2653845+00:00",
-  "LastUpdate_Achievements": "2023-06-05T12:06:21.645131+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:09:59.9205563+00:00",
+  "LastUpdate_Achievements": "2023-06-05T13:15:33.8621592+00:00"
 }

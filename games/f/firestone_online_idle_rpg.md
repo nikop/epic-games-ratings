@@ -6,14 +6,14 @@ Rating: 3.97 (Ranked 905)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,214 |
-| World Map | 80.00% | ~1,033 |
-| Temple of Eternals | 56.00% | ~723 |
-| Prestigious | 53.00% | ~684 |
-| Fellowship Power | 40.00% | ~516 |
+| World Map | 80.00% | ~1,034 |
+| Temple of Eternals | 57.00% | ~736 |
+| Prestigious | 53.00% | ~685 |
+| Fellowship Power | 40.00% | ~517 |
 | Guild Power | 24.00% | ~310 |
 | Prestigious x10 | 21.00% | ~271 |
 | The game is on | 19.00% | ~245 |
-| Exotic Merchant | 17.00% | ~219 |
+| Exotic Merchant | 17.00% | ~220 |
 | Dragon Clicker | 16.00% | ~207 |
 | Miner Clicker | 16.00% | ~207 |
 | Inspection | 15.00% | ~194 |
@@ -35,9 +35,9 @@ Rating: 3.97 (Ranked 905)
 | Mastery | 7.00% | ~90 |
 | Relic Of The Past | 7.00% | ~90 |
 | Scroll Master | 7.00% | ~90 |
-| Doing My Part | 6.00% | ~77 |
-| Frostfire Liberator | 6.00% | ~77 |
-| Moving Up The Ladder | 6.00% | ~77 |
+| Doing My Part | 6.00% | ~78 |
+| Frostfire Liberator | 6.00% | ~78 |
+| Moving Up The Ladder | 6.00% | ~78 |
 | Here We Go Again | 5.00% | ~65 |
 | The Expeditioner | 5.00% | ~65 |
 | Trader | 5.00% | ~65 |
@@ -81,7 +81,7 @@ Rating: 3.97 (Ranked 905)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,291 (Ranked 162)  
+Progressed: 1,292 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1 (0.08%) (Ranked 173)
 | 2023-06-02 | 1,257 | 1 |
 | 2023-06-03 | 1,267 | 1 |
 | 2023-06-04 | 1,285 | 1 |
-| 2023-06-05 | 1,291 | 1 |
+| 2023-06-05 | 1,292 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

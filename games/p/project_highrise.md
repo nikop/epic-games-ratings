@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~119 |
-| Starting Skyward | 51.00% | ~103 |
-| Grime is Not Good | 46.00% | ~93 |
-| Campaign Launch | 41.00% | ~83 |
-| Dinner Dash | 39.00% | ~79 |
+| In the Black | 59.00% | ~120 |
+| Starting Skyward | 51.00% | ~104 |
+| Grime is Not Good | 45.00% | ~91 |
+| Campaign Launch | 40.00% | ~81 |
 | Floor Galore | 38.00% | ~77 |
+| Dinner Dash | 38.00% | ~77 |
 | It's Technical | 36.00% | ~73 |
 | Need a Consult | 34.00% | ~69 |
 | Upgrade Unlock | 34.00% | ~69 |
 | Proper Walls | 33.00% | ~67 |
 | Delegate Maintenance | 33.00% | ~67 |
 | Destination Destiny | 28.00% | ~57 |
-| Happy Tenants | 25.00% | ~50 |
-| Smooth Service | 24.00% | ~48 |
-| Lux Living | 23.00% | ~46 |
-| Your Prestige is Rising | 23.00% | ~46 |
-| Potent Potables | 23.00% | ~46 |
-| Retail Revenue | 23.00% | ~46 |
-| People Mover | 22.00% | ~44 |
-| Leveled Up Shops | 22.00% | ~44 |
-| Get Electrified | 21.00% | ~42 |
-| Rehab Expert | 20.00% | ~40 |
-| Don't Feel a Loan | 20.00% | ~40 |
-| Emporium Empire | 20.00% | ~40 |
-| Artfully Done | 19.00% | ~38 |
-| Tasty Profits | 19.00% | ~38 |
-| Under One Roof | 17.00% | ~34 |
-| Cashflow Chief | 17.00% | ~34 |
-| We Don't Need No Education | 17.00% | ~34 |
+| Happy Tenants | 25.00% | ~51 |
+| Smooth Service | 24.00% | ~49 |
+| Lux Living | 23.00% | ~47 |
+| Your Prestige is Rising | 23.00% | ~47 |
+| Potent Potables | 23.00% | ~47 |
+| Retail Revenue | 23.00% | ~47 |
+| People Mover | 22.00% | ~45 |
+| Leveled Up Shops | 22.00% | ~45 |
+| Don't Feel a Loan | 21.00% | ~43 |
+| Get Electrified | 21.00% | ~43 |
+| Rehab Expert | 20.00% | ~41 |
+| Emporium Empire | 20.00% | ~41 |
+| Artfully Done | 19.00% | ~39 |
+| Tasty Profits | 19.00% | ~39 |
+| Under One Roof | 17.00% | ~35 |
+| Cashflow Chief | 17.00% | ~35 |
+| We Don't Need No Education | 17.00% | ~35 |
 | Established Fame | 16.00% | ~32 |
 | Terrifically Trashed | 16.00% | ~32 |
 | Starred Dining | 15.00% | ~30 |
@@ -44,11 +44,11 @@
 | Plaza Plan | 10.00% | ~20 |
 | Master of Puppets | 10.00% | ~20 |
 | First 100 Days | 9.00% | ~18 |
+| Aestheticly Pleased | 9.00% | ~18 |
 | Maximum Reuse | 9.00% | ~18 |
 | Refined Palates | 9.00% | ~18 |
 | Revenue Royalty | 9.00% | ~18 |
 | Pipe Up | 9.00% | ~18 |
-| Aestheticly Pleased | 8.00% | ~16 |
 | Meet Me at HQ | 8.00% | ~16 |
 | Profound Proceeds | 8.00% | ~16 |
 | Phoning It In | 8.00% | ~16 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202 (Ranked 244)  
+Progressed: 203 (Ranked 244)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 194 | 0 |
 | 2023-06-03 | 197 | 0 |
 | 2023-06-04 | 202 | 0 |
+| 2023-06-05 | 203 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

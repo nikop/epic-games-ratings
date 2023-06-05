@@ -5,15 +5,15 @@ Rating: 4.67 (Ranked 259)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,917 |
-| Mods Please Ban | 77.00% | ~17,550 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,322 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,638 |
-| First Bounty Down | 59.00% | ~13,447 |
-| We're All Very Impressed, Trust Me | 57.00% | ~12,991 |
+| Eye Scream, You Scream | 83.00% | ~18,918 |
+| Mods Please Ban | 77.00% | ~17,551 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,323 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,639 |
+| First Bounty Down | 59.00% | ~13,448 |
+| We're All Very Impressed, Trust Me | 57.00% | ~12,992 |
 | Luglox Genocide | 43.00% | ~9,801 |
-| Playing Card To Get | 33.00% | ~7,521 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,521 |
+| Playing Card To Get | 33.00% | ~7,522 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,522 |
 | Creature Feature | 29.00% | ~6,610 |
 | Satisfied Gus-tomer | 28.00% | ~6,382 |
 | Cold-Blooded Driller | 28.00% | ~6,382 |
@@ -23,22 +23,22 @@ Rating: 4.67 (Ranked 259)
 | Sweezy Like Sunday Morning | 24.00% | ~5,470 |
 | Hardest Battle In The Game | 22.00% | ~5,014 |
 | Series Wrap on Suit-O | 22.00% | ~5,014 |
-| Lezduit! | 20.00% | ~4,558 |
-| Who's The Boss? | 20.00% | ~4,558 |
-| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,558 |
-| Self-Actualization | 19.00% | ~4,330 |
+| Lezduit! | 20.00% | ~4,559 |
+| Who's The Boss? | 20.00% | ~4,559 |
+| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,559 |
+| Self-Actualization | 19.00% | ~4,331 |
 | Legendary Bounty Hunter | 18.00% | ~4,103 |
 | Seeing All The Sights | 16.00% | ~3,647 |
 | Carried Stan's Load To Completion | 13.00% | ~2,963 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,735 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,051 |
 | Sequel-Bait | 8.00% | ~1,823 |
-| Gunning For Your Job | 7.00% | ~1,595 |
+| Gunning For Your Job | 7.00% | ~1,596 |
 | Playing Favorites | 6.00% | ~1,368 |
 | Epic Legendary Prize | 1.00% | ~228 |
 | A Starfish Is Born | 1.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,792 (Ranked 92)  
+Progressed: 22,793 (Ranked 92)  
 Completed: 8 (0.04%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 8 (0.04%) (Ranked 185)
 | 2023-06-02 | 22,779 | 8 |
 | 2023-06-03 | 22,785 | 8 |
 | 2023-06-04 | 22,791 | 8 |
-| 2023-06-05 | 22,792 | 8 |
+| 2023-06-05 | 22,793 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

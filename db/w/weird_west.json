@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,7 +325,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1600,
+  "EOS_Progressed": 1601,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -880,6 +880,11 @@
       "Time": "2023-06-05T12:05:52.8008703+00:00",
       "NumProgressed": 1600,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-05T13:15:12.4368044+00:00",
+      "NumProgressed": 1601,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -899,15 +904,15 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
       "SetID": "8j30i9k",
       "Name": "Dirt and Blame",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DISHONORED",
@@ -953,9 +958,9 @@
       "ID": "ACH_FALLEN_STAR",
       "SetID": "8j30i9k",
       "Name": "Fallen Star",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -1043,7 +1048,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1073,9 +1078,9 @@
       "ID": "ACH_MAN_IN_BLACK",
       "SetID": "8j30i9k",
       "Name": "Eternity Can Wait",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_MA_BARKER",
@@ -1139,15 +1144,15 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "ACH_PIT_FIGHTER",
       "SetID": "8j30i9k",
       "Name": "Winter Has Come",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_POWER_BEHIND_THE_PULPIT",
@@ -1187,7 +1192,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1267,7 +1272,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1275,15 +1280,15 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
       "SetID": "8j30i9k",
       "Name": "What\u2019s in the Box?",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_WHO_YOU_GONNA_CALL",
@@ -1314,15 +1319,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1600,
+      "Progressed": 1601,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-05T12:05:52.8008698+00:00",
+  "LastChanged_Achievements": "2023-06-05T13:15:12.4368039+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:41.0593225+00:00",
-  "LastUpdate_Ratings": "2023-06-05T11:58:46.3868904+00:00",
-  "LastUpdate_Achievements": "2023-06-05T12:05:52.8009154+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:07:45.1249948+00:00",
+  "LastUpdate_Achievements": "2023-06-05T13:15:12.4368418+00:00"
 }

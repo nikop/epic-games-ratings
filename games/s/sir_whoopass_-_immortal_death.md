@@ -44,10 +44,10 @@
 | Hovering around | 24.00% | ~17 |
 | You're not so Big anymore, Boi! | 22.00% | ~16 |
 | Your daily dose of Vitamin C. | 22.00% | ~16 |
-| I cant stand still! | 21.00% | ~15 |
-| Kleptomaniac | 21.00% | ~15 |
+| I cant stand still! | 22.00% | ~16 |
+| Kleptomaniac | 22.00% | ~16 |
 | Just wing it! | 18.00% | ~13 |
-| Master Butcher | 15.00% | ~11 |
+| Master Butcher | 17.00% | ~12 |
 | Slimy... yet satisfying | 15.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~10 |
 | Deal with it | 14.00% | ~10 |

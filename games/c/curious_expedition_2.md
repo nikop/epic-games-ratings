@@ -6,14 +6,14 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 59.00% | ~181 |
+| The Adventure Begins | 59.00% | ~182 |
 | Cartographer | 52.00% | ~160 |
-| A Strange Artefact | 48.00% | ~147 |
-| Insomnia | 44.00% | ~135 |
+| A Strange Artefact | 48.00% | ~148 |
+| Insomnia | 44.00% | ~136 |
 | From Whence we Came | 39.00% | ~120 |
 | Lost & Found & Lost Again | 38.00% | ~117 |
 | Fire and Flood | 36.00% | ~111 |
-| Spooky! | 34.00% | ~104 |
+| Spooky! | 34.00% | ~105 |
 | Shennong Herbalist | 31.00% | ~95 |
 | Treasure Hunt | 31.00% | ~95 |
 | Good Mama | 29.00% | ~89 |
@@ -23,7 +23,7 @@ Number of Ratings: 20  (23.09.2022)
 | Uncertain Loyalties | 23.00% | ~71 |
 | Traveller | 22.00% | ~68 |
 | Nahua Seeker | 22.00% | ~68 |
-| Roll to Save | 20.00% | ~61 |
+| Roll to Save | 20.00% | ~62 |
 | Red Flag Pirate | 17.00% | ~52 |
 | Veteran Explorer | 17.00% | ~52 |
 | Iron Man | 15.00% | ~46 |
@@ -45,8 +45,8 @@ Number of Ratings: 20  (23.09.2022)
 | SCHMETTERLING | 8.00% | ~25 |
 | The Great Library | 8.00% | ~25 |
 | Errand Runner | 8.00% | ~25 |
-| No Laughing Matter | 7.00% | ~21 |
-| Level Up | 7.00% | ~21 |
+| No Laughing Matter | 7.00% | ~22 |
+| Level Up | 7.00% | ~22 |
 | Zookeeper | 6.00% | ~18 |
 | A Paris Sunset | 5.00% | ~15 |
 | The Workshop | 5.00% | ~15 |
@@ -62,13 +62,13 @@ Number of Ratings: 20  (23.09.2022)
 | I Set Forth Again... and Again... and Again... | 3.00% | ~9 |
 | Lunatic | 2.00% | ~6 |
 | Everything is FINE... | 1.00% | ~3 |
-| Abominable Hunger | 0.70% | ~2 |
-| Pacifism Ain't Easy | 0.70% | ~2 |
-| It's Not Too Late | 0.70% | ~2 |
+| Abominable Hunger | 0.60% | ~2 |
+| Pacifism Ain't Easy | 0.60% | ~2 |
+| It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 224)  
-Completed: 1 (0.33%) (Ranked 124)  
+Progressed: 308 (Ranked 224)  
+Completed: 1 (0.32%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 1 (0.33%) (Ranked 124)
 | 2023-06-01 | 303 | 1 |
 | 2023-06-02 | 304 | 1 |
 | 2023-06-04 | 307 | 1 |
+| 2023-06-05 | 308 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

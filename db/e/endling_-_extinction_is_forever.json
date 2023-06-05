@@ -3,8 +3,8 @@
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.71,
+  "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -341,6 +341,11 @@
       "Time": "2023-06-04T22:03:20.0085791+00:00",
       "NumProgressed": 425,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-05T13:12:35.7571556+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -360,7 +365,7 @@
       "Name": "We Are a Family",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "TROP002",
@@ -392,7 +397,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "TROP006",
@@ -416,7 +421,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "TROP009",
@@ -488,7 +493,7 @@
       "Name": "Omnivore",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TROP018",
@@ -512,7 +517,7 @@
       "Name": "Peaceful Instinct",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "TROP021",
@@ -520,7 +525,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "TROP022",
@@ -568,14 +573,14 @@
       "Name": "Easter Egg",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 3
     }
   ],
@@ -583,8 +588,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-06-05T12:03:33.5989053+00:00",
+  "LastChanged_Achievements": "2023-06-05T13:12:35.7571551+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:12.9891619+00:00",
-  "LastUpdate_Ratings": "2023-06-05T11:59:10.6432164+00:00",
-  "LastUpdate_Achievements": "2023-06-05T12:03:33.5989264+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:08:14.9989896+00:00",
+  "LastUpdate_Achievements": "2023-06-05T13:12:35.7571709+00:00"
 }

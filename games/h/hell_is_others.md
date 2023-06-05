@@ -1,23 +1,23 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.44 (Ranked 630)  
+Rating: 4.44 (Ranked 631)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,634 |
-| Predator I | 22.00% | ~55,095 |
-| Fixer I | 10.00% | ~25,043 |
-| A week in Century City | 10.00% | ~25,043 |
-| The Wait | 7.00% | ~17,530 |
+| Survivor | 31.00% | ~77,636 |
+| Predator I | 22.00% | ~55,097 |
+| Fixer I | 10.00% | ~25,044 |
+| A week in Century City | 10.00% | ~25,044 |
+| The Wait | 7.00% | ~17,531 |
 | Green thumb I | 6.00% | ~15,026 |
 | Well-oiled machine | 5.00% | ~12,522 |
 | Saver I | 5.00% | ~12,522 |
 | Cleaning Company | 5.00% | ~12,522 |
-| The Ascent | 4.00% | ~10,017 |
-| Pacifist | 4.00% | ~10,017 |
-| Vandalism | 4.00% | ~10,017 |
-| Capitalist I | 4.00% | ~10,017 |
+| The Ascent | 4.00% | ~10,018 |
+| Pacifist | 4.00% | ~10,018 |
+| Vandalism | 4.00% | ~10,018 |
+| Capitalist I | 4.00% | ~10,018 |
 | Adrenaline | 3.00% | ~7,513 |
 | By a hair | 2.00% | ~5,009 |
 | Fixer II | 2.00% | ~5,009 |
@@ -35,7 +35,7 @@ Rating: 4.44 (Ranked 630)
 | Don't try this at home | 1.00% | ~2,504 |
 | Bricklayer | 1.00% | ~2,504 |
 | Run the Economy | 1.00% | ~2,504 |
-| Committed Relationship | 0.80% | ~2,003 |
+| Committed Relationship | 0.80% | ~2,004 |
 | Number 1 | 0.70% | ~1,753 |
 | Interior designer | 0.60% | ~1,503 |
 | The Gamble | 0.50% | ~1,252 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 630)
 | Capitalist III | 0.10% | ~250 |
 | Hell Is You | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,433 (Ranked 41)  
+Progressed: 250,440 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 1 (0.00%) (Ranked 212)
 | 2023-06-02 | 250,217 | 1 |
 | 2023-06-03 | 250,314 | 1 |
 | 2023-06-04 | 250,404 | 1 |
-| 2023-06-05 | 250,433 | 1 |
+| 2023-06-05 | 250,440 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 466)  
 Sum: 70 (Ranked 423)  

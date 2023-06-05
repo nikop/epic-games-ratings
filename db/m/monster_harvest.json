@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -129,9 +129,9 @@
       "ID": "FURNITURE_IN_THE_FOREST",
       "SetID": "ca3djk0",
       "Name": "Furniture in the Forest!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "GREEN_SLIME_SHEEN",
@@ -210,8 +210,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-06-05T12:05:44.9131329+00:00",
+  "LastChanged_Achievements": "2023-06-05T13:15:03.1420979+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:28.4615412+00:00",
-  "LastUpdate_Ratings": "2023-06-05T11:58:35.8904726+00:00",
-  "LastUpdate_Achievements": "2023-06-05T12:05:44.9131396+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:07:27.2398177+00:00",
+  "LastUpdate_Achievements": "2023-06-05T13:15:03.142105+00:00"
 }

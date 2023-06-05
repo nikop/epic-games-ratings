@@ -39,10 +39,10 @@
 | Back To The Future | 21.00% | ~29 |
 | Fire Beacon | 20.00% | ~28 |
 | Lunch Before The Lunch | 19.00% | ~27 |
+| Building Blocks | 17.00% | ~24 |
 | From Here To Eternity | 16.00% | ~22 |
-| Building Blocks | 16.00% | ~22 |
+| Octopostructure | 14.00% | ~20 |
 | Boss Hunter | 14.00% | ~20 |
-| Octopostructure | 13.00% | ~18 |
 | Hawkman | 8.00% | ~11 |
 | Annihilate | 7.00% | ~10 |
 | Fashion Victim | 6.00% | ~8 |

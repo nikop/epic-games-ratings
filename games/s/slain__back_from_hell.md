@@ -5,14 +5,14 @@ Rating: 4.28 (Ranked 775)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~4,823 |
-| A Good Day To Die | 16.00% | ~3,859 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,447 |
-| Right Back Atcha | 6.00% | ~1,447 |
+| Man 'O War | 20.00% | ~4,825 |
+| A Good Day To Die | 16.00% | ~3,860 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,448 |
+| Right Back Atcha | 6.00% | ~1,448 |
 | Killed by Death | 5.00% | ~1,206 |
 | Kill 'Em All | 4.00% | ~965 |
-| Down Boy! | 2.00% | ~482 |
-| A Snowball's Chance in Hell | 2.00% | ~482 |
+| Down Boy! | 2.00% | ~483 |
+| A Snowball's Chance in Hell | 2.00% | ~483 |
 | Enjoy The Silence | 1.00% | ~241 |
 | Sure Footed As A Goat | 0.90% | ~217 |
 | Thorn in My Herbicide | 0.80% | ~193 |
@@ -25,9 +25,9 @@ Rating: 4.28 (Ranked 775)
 | Start As You Mean To Go On | 0.60% | ~145 |
 | Hail the Great Horned Metal God! | 0.60% | ~145 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~121 |
-| Four Legged Friend | 0.40% | ~96 |
-| Ice To See You | 0.40% | ~96 |
-| Smack My Imp Up | 0.40% | ~96 |
+| Four Legged Friend | 0.40% | ~97 |
+| Ice To See You | 0.40% | ~97 |
+| Smack My Imp Up | 0.40% | ~97 |
 | Vroll With It | 0.30% | ~72 |
 | Swift of Foot, Keen of Blade | 0.30% | ~72 |
 | Flame Retardant | 0.20% | ~48 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 775)
 | Too Metal For Magic | 0.10% | ~24 |
 | Heart Of Steel | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,117 (Ranked 91)  
+Progressed: 24,126 (Ranked 91)  
 Completed: 19 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 19 (0.08%) (Ranked 173)
 | 2023-06-02 | 23,694 | 18 |
 | 2023-06-03 | 23,871 | 18 |
 | 2023-06-04 | 24,064 | 19 |
-| 2023-06-05 | 24,117 | 19 |
+| 2023-06-05 | 24,126 | 19 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 302)  
 Sum: 125 (Ranked 390)  

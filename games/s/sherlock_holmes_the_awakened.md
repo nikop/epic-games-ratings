@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Read Between The Lines | 61.00% | ~228 |
 | To Hell In A Handcart | 61.00% | ~228 |
-| Read Between The Lines | 60.00% | ~224 |
 | High Profile | 53.00% | ~198 |
 | Whispers In The Dark | 52.00% | ~194 |
 | Fond Memories | 48.00% | ~179 |

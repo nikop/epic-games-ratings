@@ -55,6 +55,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.20% | ~112 |
 | Hither of the Feywild | 0.20% | ~112 |
 | The Prince of a Thousand Enemies | 0.20% | ~112 |
+| Where the Magic Happens | 0.20% | ~112 |
 | Third Third Out | 0.20% | ~112 |
 | The Silken Swamp | 0.20% | ~180 |
 | A Steadfast Love | 0.20% | ~112 |
@@ -104,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.20% | ~180 |
 | Family Entanglements | 0.20% | ~180 |
 | The Dinner Party | 0.20% | ~180 |
+| Chatty Nobles | 0.20% | ~180 |
 | The Botched Kidnapping | 0.20% | ~180 |
 | Haaave You Met Asmodeus? | 0.20% | ~180 |
 | The Immortal Warrior | 0.20% | ~180 |
@@ -191,7 +193,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Lesson in Classes | 0.10% | ~56 |
 | Uncommon Allies | 0.10% | ~56 |
 | The Birds | 0.10% | ~56 |
-| Where the Magic Happens | 0.10% | ~56 |
 | Downfall | 0.10% | ~56 |
 | First Third Out | 0.10% | ~56 |
 | Second Third Out | 0.10% | ~56 |
@@ -269,7 +270,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~90 |
 | Poor Fortune | 0.10% | ~90 |
 | Relentless Misfortune | 0.10% | ~90 |
-| Chatty Nobles | 0.10% | ~90 |
 | Modron Assistance | 0.10% | ~90 |
 | Thine Bounty is Mine! | 0.10% | ~56 |
 | Domesticated Owlbears | 0.10% | ~90 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,840 (Ranked 62)  
-Completed: 1,917 (2.13%) (Ranked 64)  
+Progressed: 89,846 (Ranked 62)  
+Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -546,15 +546,15 @@ Completed: 1,917 (2.13%) (Ranked 64)
 | 2023-06-02 | 89,548 | 1,910 |
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
-| 2023-06-05 | 89,840 | 1,917 |
+| 2023-06-05 | 89,846 | 1,917 |
 ## Awards
 Max (Diverse Characters): 4,917  (Ranked 64)  
-Sum: 30,033 (Ranked 37)  
+Sum: 30,035 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,917 |
-| This game is Great for Beginners | 4,852 |
+| This game is Great for Beginners | 4,854 |
 | This game has Quickly Understood Controls | 4,610 |
 | This game is Relaxing | 4,506 |
 | This game is Highly Recommended | 3,954 |
@@ -693,3 +693,4 @@ Diff (max vs sum): 27
 | 2023-06-02 | 4.06 | - | 4,915 | 30,021 |
 | 2023-06-03 | 4.06 | - | 4,917 | 30,025 |
 | 2023-06-04 | 4.06 | - | 4,917 | 30,033 |
+| 2023-06-05 | 4.06 | - | 4,917 | 30,035 |

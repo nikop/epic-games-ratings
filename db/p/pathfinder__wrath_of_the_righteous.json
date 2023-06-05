@@ -4,7 +4,7 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 118,
   "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 110,
+  "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 103,
@@ -2622,18 +2622,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6699,
       "NumberOfAwardsMax": 1651
+    },
+    {
+      "Time": "2023-06-05T13:07:33.8762495+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6704,
+      "NumberOfAwardsMax": 1655
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6699,
-  "NumberOfAwardsMax": 1651,
+  "NumberOfAwards": 6704,
+  "NumberOfAwardsMax": 1655,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1651
+      "Count": 1655
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2663,7 +2669,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 610
+      "Count": 611
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2696,9 +2702,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9548,
+  "EOS_Progressed": 9549,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5596,6 +5602,11 @@
       "Time": "2023-06-05T12:06:22.533493+00:00",
       "NumProgressed": 9548,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T13:15:34.8774678+00:00",
+      "NumProgressed": 9549,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6534,21 +6545,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8330,
+      "Progressed": 8331,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9548,
+      "Progressed": 9549,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-05T10:58:11.6386005+00:00",
-  "LastChanged_Achievements": "2023-06-05T12:06:22.5334922+00:00",
+  "LastChanged": "2023-06-05T13:07:33.8762494+00:00",
+  "LastChanged_Achievements": "2023-06-05T13:15:34.877467+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-05T11:58:40.4823115+00:00",
-  "LastUpdate_Achievements": "2023-06-05T12:06:22.5336722+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:07:33.87625+00:00",
+  "LastUpdate_Achievements": "2023-06-05T13:15:34.8776125+00:00"
 }

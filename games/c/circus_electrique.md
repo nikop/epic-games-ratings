@@ -19,10 +19,10 @@ Number of Ratings: 22  (23.09.2022)
 | Lion Tamer | 15.00% | ~64 |
 | King of District 1 | 14.00% | ~60 |
 | Amazing! | 14.00% | ~60 |
+| Flawless Presentation | 13.00% | ~55 |
 | One More Thing... | 12.00% | ~51 |
 | Lucky Day | 12.00% | ~51 |
 | Bar Brawler | 12.00% | ~51 |
-| Flawless Presentation | 12.00% | ~51 |
 | King of District 2 | 11.00% | ~47 |
 | Time Travel! | 10.00% | ~42 |
 | Marketing Manager | 9.00% | ~38 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 203)  
+Progressed: 425 (Ranked 204)  
 Completed: 1 (0.24%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |

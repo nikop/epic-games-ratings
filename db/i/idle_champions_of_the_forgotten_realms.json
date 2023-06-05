@@ -6,7 +6,7 @@
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -4064,10 +4064,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30033,
       "NumberOfAwardsMax": 4917
+    },
+    {
+      "Time": "2023-06-05T13:07:15.1307777+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30035,
+      "NumberOfAwardsMax": 4917
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30033,
+  "NumberOfAwards": 30035,
   "NumberOfAwardsMax": 4917,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4075,7 +4081,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4852
+      "Count": 4854
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4114,9 +4120,9 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89840,
+  "EOS_Progressed": 89846,
   "EOS_Completed": 1917,
-  "EOS_NewPlayers": 736,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8749,6 +8755,11 @@
       "Time": "2023-06-05T12:06:25.9632505+00:00",
       "NumProgressed": 89840,
       "NumCompleted": 1917
+    },
+    {
+      "Time": "2023-06-05T13:15:38.595227+00:00",
+      "NumProgressed": 89846,
+      "NumCompleted": 1917
     }
   ],
   "TotalAchievements": 493,
@@ -9022,9 +9033,9 @@
       "ID": "objective_completed_1083",
       "SetID": "415jc5c",
       "Name": "Where the Magic Happens",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1085",
@@ -10182,9 +10193,9 @@
       "ID": "objective_completed_231",
       "SetID": "cc37lbc",
       "Name": "Chatty Nobles",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_232",
@@ -12703,21 +12714,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56114,
+      "Progressed": 56120,
       "Completed": 2769
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89840,
+      "Progressed": 89846,
       "Completed": 1917
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-04T22:58:24.4036203+00:00",
-  "LastChanged_Achievements": "2023-06-05T12:06:25.9632498+00:00",
+  "LastChanged": "2023-06-05T13:07:15.1307776+00:00",
+  "LastChanged_Achievements": "2023-06-05T13:15:38.5952262+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-05T11:58:25.1707734+00:00",
-  "LastUpdate_Achievements": "2023-06-05T12:06:25.9655848+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:07:15.1307781+00:00",
+  "LastUpdate_Achievements": "2023-06-05T13:15:38.5974151+00:00"
 }

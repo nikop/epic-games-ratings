@@ -1,23 +1,23 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 630)  
+Rating: 4.45 (Ranked 615)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 27.00% | ~614 |
 | Confirming Suspicions | 22.00% | ~500 |
-| The Kraken Wakes | 17.00% | ~386 |
-| It's Starting to Crack | 14.00% | ~318 |
-| Lord of War | 13.00% | ~295 |
+| The Kraken Wakes | 17.00% | ~387 |
+| It's Starting to Crack | 14.00% | ~319 |
+| Lord of War | 13.00% | ~296 |
 | Change the Channel | 12.00% | ~273 |
 | Resourceful | 11.00% | ~250 |
-| Taking it back | 10.00% | ~227 |
+| Taking it back | 10.00% | ~228 |
 | Organ Grinder | 9.00% | ~205 |
 | As Quiet as a Mouse | 9.00% | ~205 |
 | Target America | 9.00% | ~205 |
+| Just a Flesh Wound | 8.00% | ~182 |
 | Enemy at the Gates | 7.00% | ~159 |
-| Just a Flesh Wound | 7.00% | ~159 |
 | Gunslinger | 7.00% | ~159 |
 | Sharpshooter | 7.00% | ~159 |
 | Explosive Efficiency | 7.00% | ~159 |
@@ -36,8 +36,8 @@ Rating: 4.44 (Ranked 630)
 | Set Europe Ablaze | 4.00% | ~91 |
 | Precision Is Key | 4.00% | ~91 |
 | Rigged to Blow | 3.00% | ~68 |
-| My Little Friend | 2.00% | ~45 |
-| It'll Buff Right Out | 2.00% | ~45 |
+| My Little Friend | 2.00% | ~46 |
+| It'll Buff Right Out | 2.00% | ~46 |
 | Strategist | 1.00% | ~23 |
 | The Long Game | 1.00% | ~23 |
 | Locomotion Commotion | 1.00% | ~23 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 630)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,273 (Ranked 147)  
+Progressed: 2,275 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-02 | 2,091 | 2 |
 | 2023-06-03 | 2,182 | 2 |
 | 2023-06-04 | 2,257 | 2 |
-| 2023-06-05 | 2,273 | 2 |
+| 2023-06-05 | 2,275 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -165,3 +165,4 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-01 | 4.45 | 0 | 0 |
 | 2023-06-02 | 4.42 | 0 | 0 |
 | 2023-06-03 | 4.44 | 0 | 0 |
+| 2023-06-05 | 4.45 | 0 | 0 |

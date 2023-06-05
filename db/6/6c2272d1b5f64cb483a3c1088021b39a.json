@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 321,
+  "EOS_Progressed": 323,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -636,6 +636,11 @@
       "Time": "2023-06-05T12:01:17.7439808+00:00",
       "NumProgressed": 321,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-05T13:11:24.7716879+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -645,9 +650,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 87
     },
     {
       "ID": "adventurous_2",
@@ -813,9 +818,9 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 168
     },
     {
       "ID": "elemental_stones_2",
@@ -1055,7 +1060,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -1174,14 +1179,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 321,
+      "Progressed": 323,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-05T12:01:17.7439802+00:00",
+  "LastChanged_Achievements": "2023-06-05T13:11:24.7716872+00:00",
   "LastUpdate_AppInfo": "2023-05-29T18:57:08.4748862+00:00",
-  "LastUpdate_Ratings": "2023-06-05T11:57:20.6515647+00:00",
-  "LastUpdate_Achievements": "2023-06-05T12:01:17.7440427+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:06:02.5303755+00:00",
+  "LastUpdate_Achievements": "2023-06-05T13:11:24.7717405+00:00"
 }

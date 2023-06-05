@@ -6,8 +6,8 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 224,
-  "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -49,11 +49,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 307,
+  "EOS_Progressed": 308,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.33,
+  "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:50.9590463+00:00",
@@ -149,6 +149,11 @@
       "Time": "2023-06-04T16:06:24.6399631+00:00",
       "NumProgressed": 307,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-05T13:15:32.8994908+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -158,7 +163,7 @@
       "ID": "ach-abominationEatPerson",
       "SetID": "17ih7ma",
       "Name": "Abominable Hunger",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -286,7 +291,7 @@
       "ID": "ach-campaign-pacifist",
       "SetID": "17ih7ma",
       "Name": "Pacifism Ain\u0027t Easy",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -296,7 +301,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ach-campaign-story2",
@@ -328,7 +333,7 @@
       "Name": "Roll to Save",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach-discover-locations",
@@ -384,7 +389,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ach-hardExpeditions",
@@ -432,7 +437,7 @@
       "Name": "No Laughing Matter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ach-kill-sandworm",
@@ -488,7 +493,7 @@
       "Name": "Spooky!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ach-noEquipment",
@@ -504,7 +509,7 @@
       "Name": "Insomnia",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach-pacifist-goals",
@@ -518,7 +523,7 @@
       "ID": "ach-paleMask-cure",
       "SetID": "17ih7ma",
       "Name": "It\u0027s Not Too Late",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -544,7 +549,7 @@
       "Name": "Level Up",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ach-raiseDino",
@@ -639,7 +644,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 307,
+      "Progressed": 308,
       "Completed": 1
     }
   ],
@@ -647,8 +652,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-05T12:06:20.8120169+00:00",
+  "LastChanged_Achievements": "2023-06-05T13:15:32.8994903+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:04.7850575+00:00",
-  "LastUpdate_Ratings": "2023-06-05T12:00:43.3565564+00:00",
-  "LastUpdate_Achievements": "2023-06-05T12:06:20.81207+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:10:09.608085+00:00",
+  "LastUpdate_Achievements": "2023-06-05T13:15:32.8995331+00:00"
 }

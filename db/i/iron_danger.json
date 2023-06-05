@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191,
+  "EOS_Progressed": 192,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.09,
+  "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -186,6 +186,11 @@
       "Time": "2023-06-04T20:05:48.6606968+00:00",
       "NumProgressed": 191,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-05T13:15:24.9616989+00:00",
+      "NumProgressed": 192,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -221,7 +226,7 @@
       "Name": "Berry Nice",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_GOOD_STEW",
@@ -259,9 +264,9 @@
       "ID": "ACH_HEALER_MET",
       "SetID": "ao59f0i",
       "Name": "Found the Healer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -269,7 +274,7 @@
       "Name": "Keyu Exterminator",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_KNOCK_KNOCK",
@@ -317,7 +322,7 @@
       "Name": "First Shard",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_SHARD_2",
@@ -341,7 +346,7 @@
       "Name": "Fourth Shard",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_SHARD_5",
@@ -349,7 +354,7 @@
       "Name": "Fifth Shard",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_TROLL",
@@ -380,7 +385,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 4
     }
   ],
@@ -388,8 +393,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-06-05T12:06:13.8439286+00:00",
+  "LastChanged_Achievements": "2023-06-05T13:15:24.9616983+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:28.6199149+00:00",
-  "LastUpdate_Ratings": "2023-06-05T12:00:11.5078709+00:00",
-  "LastUpdate_Achievements": "2023-06-05T12:06:13.8439461+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:09:29.1893206+00:00",
+  "LastUpdate_Achievements": "2023-06-05T13:15:24.9617134+00:00"
 }

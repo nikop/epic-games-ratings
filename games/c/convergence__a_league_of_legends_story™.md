@@ -40,10 +40,10 @@
 | Factorywood Explorer | 20.00% | ~121 |
 | Theater Explorer | 17.00% | ~103 |
 | Cultivair Explorer | 16.00% | ~97 |
+| Entresol Explorer | 14.00% | ~85 |
 | Rungs Was Right | 14.00% | ~85 |
 | Corin Goes Home | 13.00% | ~79 |
 | Sartorialist | 13.00% | ~79 |
-| Entresol Explorer | 13.00% | ~79 |
 | Clovemary for Remembering | 11.00% | ~67 |
 | Hexlock for Protection | 10.00% | ~61 |
 | Golem Hunter | 9.00% | ~55 |

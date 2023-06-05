@@ -6,14 +6,14 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~18,153 |
+| First money | 94.00% | ~18,154 |
 | Strongman | 31.00% | ~5,987 |
 | Alpha Male | 19.00% | ~3,669 |
 | Just Enough | 18.00% | ~3,476 |
 | Pro-creative | 18.00% | ~3,476 |
 | Worth Every Penny | 15.00% | ~2,897 |
-| Family man | 12.00% | ~2,317 |
-| Junior Estate Agent | 12.00% | ~2,317 |
+| Family man | 12.00% | ~2,318 |
+| Junior Estate Agent | 12.00% | ~2,318 |
 | Mystery | 10.00% | ~1,931 |
 | Artistic soul | 9.00% | ~1,738 |
 | Estate Agent | 5.00% | ~966 |
@@ -21,16 +21,16 @@ Number of Ratings: 1,023  (23.09.2022)
 | Perfectionist | 5.00% | ~966 |
 | I'm Belieber | 2.00% | ~386 |
 | You do it wrong | 1.00% | ~193 |
-| Game Over | 0.80% | ~154 |
-| Wall Street Shark | 0.80% | ~154 |
-| Knock, knock | 0.80% | ~154 |
-| Negotiator | 0.80% | ~154 |
+| Game Over | 0.80% | ~155 |
+| Wall Street Shark | 0.80% | ~155 |
+| Knock, knock | 0.80% | ~155 |
+| Negotiator | 0.80% | ~155 |
 | Car Mechanic | 0.70% | ~135 |
 | Do it ASAP | 0.60% | ~116 |
 | Nerd | 0.50% | ~97 |
 | Senior Estate Agent | 0.50% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,312 (Ranked 95)  
+Progressed: 19,313 (Ranked 95)  
 Completed: 19 (0.10%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 19 (0.10%) (Ranked 164)
 | 2023-06-02 | 19,224 | 19 |
 | 2023-06-03 | 19,263 | 19 |
 | 2023-06-04 | 19,304 | 19 |
-| 2023-06-05 | 19,312 | 19 |
+| 2023-06-05 | 19,313 | 19 |
 ## Awards
 Max (Great for Beginners): 294  (Ranked 228)  
 Sum: 2,148 (Ranked 178)  

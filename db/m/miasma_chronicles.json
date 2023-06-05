@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 1027,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1389,17 +1389,17 @@
       "ID": "COMMANDO",
       "SetID": "9a4jnji",
       "Name": "Commando",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 82
     },
     {
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 401
     },
     {
       "ID": "CRUELTY",
@@ -1734,8 +1734,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-04T14:58:28.7773787+00:00",
-  "LastChanged_Achievements": "2023-06-05T12:03:12.5083637+00:00",
+  "LastChanged_Achievements": "2023-06-05T13:11:29.6144804+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-05T11:58:38.8012243+00:00",
-  "LastUpdate_Achievements": "2023-06-05T12:03:12.5084136+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:07:31.4461043+00:00",
+  "LastUpdate_Achievements": "2023-06-05T13:11:29.6145186+00:00"
 }

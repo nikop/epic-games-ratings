@@ -1554,7 +1554,7 @@
       "Count": 205
     }
   ],
-  "EOS_Progressed": 19312,
+  "EOS_Progressed": 19313,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
@@ -3729,6 +3729,11 @@
       "Time": "2023-06-05T11:05:26.5065479+00:00",
       "NumProgressed": 19312,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-05T13:15:13.3517912+00:00",
+      "NumProgressed": 19313,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3740,7 +3745,7 @@
       "Name": "Family man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "CarMechanic",
@@ -3788,7 +3793,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18153
+      "UsersEstimate": 18154
     },
     {
       "ID": "GameOver",
@@ -3796,7 +3801,7 @@
       "Name": "Game Over",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "GorgioShanua",
@@ -3812,7 +3817,7 @@
       "Name": "Wall Street Shark",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "JimmyTraitor",
@@ -3828,7 +3833,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "KnockKnock",
@@ -3836,7 +3841,7 @@
       "Name": "Knock, knock",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Millionaire",
@@ -3860,7 +3865,7 @@
       "Name": "Negotiator",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Perfectionist",
@@ -3923,15 +3928,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19312,
+      "Progressed": 19313,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-05T02:20:32.1041182+00:00",
-  "LastChanged_Achievements": "2023-06-05T12:05:53.5480606+00:00",
+  "LastChanged_Achievements": "2023-06-05T13:15:13.3517902+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-05T11:59:37.9462094+00:00",
-  "LastUpdate_Achievements": "2023-06-05T12:05:53.5480899+00:00"
+  "LastUpdate_Ratings": "2023-06-05T13:08:50.3331117+00:00",
+  "LastUpdate_Achievements": "2023-06-05T13:15:13.3518133+00:00"
 }

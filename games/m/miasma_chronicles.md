@@ -11,7 +11,7 @@ Rating: 4.34 (Ranked 734)
 | Gun for Hire | 66.00% | ~678 |
 | I am the law! | 58.00% | ~596 |
 | Lumberjack | 43.00% | ~442 |
-| Croaked | 38.00% | ~390 |
+| Croaked | 39.00% | ~401 |
 | Limp Richard | 38.00% | ~390 |
 | From Darkness to Light | 37.00% | ~380 |
 | Exorcist | 35.00% | ~359 |
@@ -36,10 +36,10 @@ Rating: 4.34 (Ranked 734)
 | Ruthless | 11.00% | ~113 |
 | Savior | 11.00% | ~113 |
 | The Watchers | 11.00% | ~113 |
+| Commando | 8.00% | ~82 |
 | Dr Jones | 8.00% | ~82 |
 | Chain Reaction | 7.00% | ~72 |
 | Chaos Theory | 7.00% | ~72 |
-| Commando | 7.00% | ~72 |
 | Curveball | 6.00% | ~62 |
 | Wipe Out | 6.00% | ~62 |
 | Side Order | 5.00% | ~51 |
