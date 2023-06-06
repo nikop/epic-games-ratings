@@ -146,9 +146,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 567578,
+  "EOS_Progressed": 567777,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 148460,
+  "EOS_NewPlayers": 147570,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1481,6 +1481,11 @@
       "Time": "2023-06-06T05:03:36.7907962+00:00",
       "NumProgressed": 567578,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-06T06:03:43.7659537+00:00",
+      "NumProgressed": 567777,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 75,
@@ -1492,7 +1497,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3407
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -1572,7 +1577,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -1588,7 +1593,7 @@
       "Name": "Crafty",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -1788,7 +1793,7 @@
       "Name": "New Kid",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -1828,7 +1833,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -1898,9 +1903,9 @@
       "ID": "ACHIEVEMENT_RING_A_DING_DING",
       "SetID": "a96a0j2",
       "Name": "Ring-a-Ding-Ding",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 568
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -1964,7 +1969,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -2042,9 +2047,9 @@
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
       "SetID": "a96a0j2",
       "Name": "Walker of the Mojave",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -2091,13 +2096,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 567578,
+      "Progressed": 567777,
       "Completed": 12
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 567578,
+      "Progressed": 567777,
       "Completed": 11
     }
   ],
@@ -2105,8 +2110,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-06-05T19:57:22.1230367+00:00",
-  "LastChanged_Achievements": "2023-06-06T05:03:36.7907958+00:00",
+  "LastChanged_Achievements": "2023-06-06T06:03:43.7659531+00:00",
   "LastUpdate_AppInfo": "2023-06-01T14:56:59.1245664+00:00",
-  "LastUpdate_Ratings": "2023-06-06T04:57:05.5726358+00:00",
-  "LastUpdate_Achievements": "2023-06-06T05:03:36.7908853+00:00"
+  "LastUpdate_Ratings": "2023-06-06T05:56:57.6036626+00:00",
+  "LastUpdate_Achievements": "2023-06-06T06:03:43.7660267+00:00"
 }

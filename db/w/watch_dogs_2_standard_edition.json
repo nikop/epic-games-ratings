@@ -4,7 +4,7 @@
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 385,
   "Ranking_Popularity": 214,
-  "Ranking_PopularitySum": 164,
+  "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 323,
@@ -3622,10 +3622,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2589,
       "NumberOfAwardsMax": 339
+    },
+    {
+      "Time": "2023-06-06T05:58:41.7984103+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2590,
+      "NumberOfAwardsMax": 339
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2589,
+  "NumberOfAwards": 2590,
   "NumberOfAwardsMax": 339,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3633,7 +3639,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 310
+      "Count": 311
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3701,8 +3707,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-06-05T18:59:03.0375366+00:00",
+  "LastChanged": "2023-06-06T05:58:41.79841+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.783371+00:00",
-  "LastUpdate_Ratings": "2023-06-06T04:59:02.7660458+00:00",
-  "LastUpdate_Achievements": "2023-06-06T05:03:41.8877086+00:00"
+  "LastUpdate_Ratings": "2023-06-06T05:58:41.7984106+00:00",
+  "LastUpdate_Achievements": "2023-06-06T06:03:49.0048022+00:00"
 }

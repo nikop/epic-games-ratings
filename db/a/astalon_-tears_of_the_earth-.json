@@ -3,8 +3,8 @@
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_Completed": 41,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.77,
+  "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -40,6 +40,11 @@
     {
       "Time": "2023-05-30T02:10:25.5070546+00:00",
       "NumProgressed": 53,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-06T06:03:35.5313414+00:00",
+      "NumProgressed": 54,
       "NumCompleted": 2
     }
   ],
@@ -66,7 +71,7 @@
       "ID": "Beat_Game_100",
       "SetID": "4f0g260",
       "Name": "God of the Tower!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 13
     },
@@ -82,7 +87,7 @@
       "ID": "Beat_Game_Gargoyle",
       "SetID": "4f0g260",
       "Name": "Freedom Monster",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -138,7 +143,7 @@
       "ID": "Collect_10000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Gatherer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -162,7 +167,7 @@
       "ID": "Complete_Bestiary_20",
       "SetID": "4f0g260",
       "Name": "Beast Quest",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -186,7 +191,7 @@
       "ID": "Defeat_1000_Enemies",
       "SetID": "4f0g260",
       "Name": "Monster Hunt",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -226,15 +231,15 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Defeat_Volantis",
       "SetID": "4f0g260",
       "Name": "Space worm!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -250,7 +255,7 @@
       "ID": "Get_100_Item_Completion",
       "SetID": "4f0g260",
       "Name": "Relic Collector",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
       "UsersEstimate": 13
     },
@@ -258,7 +263,7 @@
       "ID": "Get_100_Map_Completion",
       "SetID": "4f0g260",
       "Name": "Cartographer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
       "UsersEstimate": 13
     },
@@ -291,7 +296,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 2
     }
   ],
@@ -299,8 +304,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-06-06T05:03:28.6800525+00:00",
+  "LastChanged_Achievements": "2023-06-06T06:03:35.5313407+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:35.0755029+00:00",
-  "LastUpdate_Ratings": "2023-06-06T04:58:23.7709549+00:00",
-  "LastUpdate_Achievements": "2023-06-06T05:03:28.6800726+00:00"
+  "LastUpdate_Ratings": "2023-06-06T05:58:06.3437929+00:00",
+  "LastUpdate_Achievements": "2023-06-06T06:03:35.5313611+00:00"
 }

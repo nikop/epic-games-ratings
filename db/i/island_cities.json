@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 14.6,
+  "EOS_Completed_Percentage": 14.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1213,6 +1213,11 @@
       "Time": "2023-06-05T21:05:28.5058328+00:00",
       "NumProgressed": 274,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-06T06:05:18.4487067+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 22,
@@ -1224,7 +1229,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "LEVEL_002",
@@ -1232,7 +1237,7 @@
       "Name": "A tiny town",
       "Percentage": 84,
       "XP": 35,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "LEVEL_003",
@@ -1240,7 +1245,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "LEVEL_004",
@@ -1264,7 +1269,7 @@
       "Name": "Found an oasis",
       "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_007",
@@ -1344,7 +1349,7 @@
       "Name": "The beach is right there",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_017",
@@ -1352,7 +1357,7 @@
       "Name": "Commuting",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_018",
@@ -1399,7 +1404,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 40
     }
   ],
@@ -1407,8 +1412,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-06T05:05:28.8099979+00:00",
+  "LastChanged_Achievements": "2023-06-06T06:05:18.4487063+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-06T04:58:04.7607275+00:00",
-  "LastUpdate_Achievements": "2023-06-06T05:05:28.8100224+00:00"
+  "LastUpdate_Ratings": "2023-06-06T05:57:50.2131153+00:00",
+  "LastUpdate_Achievements": "2023-06-06T06:05:18.4487251+00:00"
 }

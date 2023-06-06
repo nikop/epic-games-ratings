@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,11 +225,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1709,
+  "EOS_Progressed": 1710,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.0038697+00:00",
@@ -995,6 +995,11 @@
       "Time": "2023-06-06T02:28:27.7357847+00:00",
       "NumProgressed": 1709,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-06T06:05:46.4126123+00:00",
+      "NumProgressed": 1710,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1014,7 +1019,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "ACHV_03",
@@ -1110,7 +1115,7 @@
       "Name": "Reborn",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHV_15",
@@ -1182,7 +1187,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ACHV_24",
@@ -1196,9 +1201,9 @@
       "ID": "ACHV_25",
       "SetID": "8p5mlmc",
       "Name": "Full Arsenal",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 274
     },
     {
       "ID": "ACHV_26",
@@ -1206,7 +1211,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "ACHV_27",
@@ -1252,9 +1257,9 @@
       "ID": "ACHV_32",
       "SetID": "8p5mlmc",
       "Name": "Remote Surgery",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHV_33",
@@ -1310,7 +1315,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "ACHV_40",
@@ -1326,7 +1331,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ACHV_42",
@@ -1350,7 +1355,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHV_45",
@@ -1398,7 +1403,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHV_51",
@@ -1414,7 +1419,7 @@
       "Name": "Juiced Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHV_53",
@@ -1461,7 +1466,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1709,
+      "Progressed": 1710,
       "Completed": 10
     }
   ],
@@ -1469,8 +1474,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-06T05:05:56.31518+00:00",
+  "LastChanged_Achievements": "2023-06-06T06:05:46.4126117+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:57.1438675+00:00",
-  "LastUpdate_Ratings": "2023-06-06T05:00:18.5617314+00:00",
-  "LastUpdate_Achievements": "2023-06-06T05:05:56.3152414+00:00"
+  "LastUpdate_Ratings": "2023-06-06T05:59:53.6434606+00:00",
+  "LastUpdate_Achievements": "2023-06-06T06:05:46.4126682+00:00"
 }

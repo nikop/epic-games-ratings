@@ -6,7 +6,7 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
@@ -266,7 +266,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2315,
+  "EOS_Progressed": 2316,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
@@ -2646,6 +2646,11 @@
       "Time": "2023-06-06T05:05:40.6133366+00:00",
       "NumProgressed": 2315,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-06T06:05:30.6612818+00:00",
+      "NumProgressed": 2316,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2825,7 +2830,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3224,13 +3229,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2266,
+      "Progressed": 2267,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2315,
+      "Progressed": 2316,
       "Completed": 2
     }
   ],
@@ -3238,8 +3243,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-06T05:05:40.6133362+00:00",
+  "LastChanged_Achievements": "2023-06-06T06:05:30.6612812+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-06T05:00:23.0189094+00:00",
-  "LastUpdate_Achievements": "2023-06-06T05:05:40.6134217+00:00"
+  "LastUpdate_Ratings": "2023-06-06T05:59:57.8170943+00:00",
+  "LastUpdate_Achievements": "2023-06-06T06:05:30.6613565+00:00"
 }

@@ -21,7 +21,7 @@
 | Ambush | 6.00% | ~17 |
 | Black Belt | 5.00% | ~14 |
 | Dash Crash - Hero Edition | 5.00% | ~14 |
-| Quite The Hero | 3.00% | ~8 |
+| Quite The Hero | 4.00% | ~11 |
 | Path of the Hero | 2.00% | ~6 |
 | Snake Eyes - Hero Edition | 2.00% | ~6 |
 | The King of Flat - Hero Edition | 2.00% | ~6 |

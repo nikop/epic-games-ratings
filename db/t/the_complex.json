@@ -211,9 +211,9 @@
       "ID": "beat_it",
       "SetID": "d4f4pll",
       "Name": "Beat It",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 258
     },
     {
       "ID": "blast_from_the_past",
@@ -355,9 +355,9 @@
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 287
+      "UsersEstimate": 292
     },
     {
       "ID": "tough_decision",
@@ -380,8 +380,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-06T05:05:49.2195639+00:00",
+  "LastChanged_Achievements": "2023-06-06T06:05:39.3698294+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:15.4237814+00:00",
-  "LastUpdate_Ratings": "2023-06-06T04:57:19.3813245+00:00",
-  "LastUpdate_Achievements": "2023-06-06T05:05:49.2195795+00:00"
+  "LastUpdate_Ratings": "2023-06-06T05:57:09.5017216+00:00",
+  "LastUpdate_Achievements": "2023-06-06T06:05:39.369843+00:00"
 }

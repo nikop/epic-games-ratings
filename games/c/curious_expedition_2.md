@@ -24,8 +24,8 @@ Number of Ratings: 20  (23.09.2022)
 | Traveller | 22.00% | ~68 |
 | Nahua Seeker | 22.00% | ~68 |
 | Roll to Save | 20.00% | ~62 |
+| Red Flag Pirate | 18.00% | ~55 |
 | Veteran Explorer | 18.00% | ~55 |
-| Red Flag Pirate | 17.00% | ~52 |
 | Iron Man | 15.00% | ~46 |
 | For the Club! | 15.00% | ~46 |
 | Shortening of the Way | 15.00% | ~46 |

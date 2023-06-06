@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1245,7 +1245,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14749,
+  "EOS_Progressed": 14752,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 0,
@@ -5940,6 +5940,11 @@
       "Time": "2023-06-06T05:05:41.7874981+00:00",
       "NumProgressed": 14749,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-06T06:05:31.6719193+00:00",
+      "NumProgressed": 14752,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -5951,7 +5956,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "1016",
@@ -5959,7 +5964,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "1017",
@@ -5967,7 +5972,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "1018",
@@ -5983,7 +5988,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "1020",
@@ -5991,7 +5996,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "1021",
@@ -6015,7 +6020,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "1024",
@@ -6055,7 +6060,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2802
+      "UsersEstimate": 2803
     },
     {
       "ID": "1029",
@@ -6063,7 +6068,7 @@
       "Name": "Alliance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "1030",
@@ -6087,7 +6092,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5900
+      "UsersEstimate": 5901
     },
     {
       "ID": "1033",
@@ -6095,7 +6100,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "1034",
@@ -6126,15 +6131,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 14749,
+      "Progressed": 14752,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-04T11:01:39.0273267+00:00",
-  "LastChanged_Achievements": "2023-06-06T05:05:41.7874975+00:00",
+  "LastChanged_Achievements": "2023-06-06T06:05:31.6719187+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.849482+00:00",
-  "LastUpdate_Ratings": "2023-06-06T05:00:06.4328395+00:00",
-  "LastUpdate_Achievements": "2023-06-06T05:05:41.7875432+00:00"
+  "LastUpdate_Ratings": "2023-06-06T05:59:40.8512354+00:00",
+  "LastUpdate_Achievements": "2023-06-06T06:05:31.6719612+00:00"
 }

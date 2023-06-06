@@ -2634,10 +2634,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6705,
       "NumberOfAwardsMax": 1655
+    },
+    {
+      "Time": "2023-06-06T05:58:04.9010055+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6707,
+      "NumberOfAwardsMax": 1655
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6705,
+  "NumberOfAwards": 6707,
   "NumberOfAwardsMax": 1655,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2693,7 +2699,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 551
+      "Count": 553
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2708,7 +2714,7 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9574,
+  "EOS_Progressed": 9575,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
@@ -5668,6 +5674,11 @@
       "Time": "2023-06-06T05:05:57.3378928+00:00",
       "NumProgressed": 9574,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T06:05:47.3421008+00:00",
+      "NumProgressed": 9575,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5719,7 +5730,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "07_FinalThreshold",
@@ -5767,7 +5778,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "13_PathOfLich",
@@ -5775,7 +5786,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "14_PathOfSwarm",
@@ -5903,7 +5914,7 @@
       "Name": "Heroic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "31_DivideAndRule",
@@ -5911,7 +5922,7 @@
       "Name": "Divide and Rule",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "32_MythicReinforcements",
@@ -5919,7 +5930,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "33_DefendersHeart",
@@ -5951,7 +5962,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -5959,7 +5970,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -6063,7 +6074,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -6606,21 +6617,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8356,
+      "Progressed": 8357,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9574,
+      "Progressed": 9575,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-06T03:13:35.719368+00:00",
-  "LastChanged_Achievements": "2023-06-06T05:05:57.3378924+00:00",
+  "LastChanged": "2023-06-06T05:58:04.9010053+00:00",
+  "LastChanged_Achievements": "2023-06-06T06:05:47.3421002+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-06T04:58:22.4349842+00:00",
-  "LastUpdate_Achievements": "2023-06-06T05:05:57.3381746+00:00"
+  "LastUpdate_Ratings": "2023-06-06T05:58:04.9010059+00:00",
+  "LastUpdate_Achievements": "2023-06-06T06:05:47.3422698+00:00"
 }

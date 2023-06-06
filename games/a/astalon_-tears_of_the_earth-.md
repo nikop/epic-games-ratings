@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Horn prize! | 47.00% | ~25 |
-| Beast Quest | 34.00% | ~18 |
-| Monster Hunt | 34.00% | ~18 |
-| Orb Gatherer | 32.00% | ~17 |
-| Space worm! | 32.00% | ~17 |
+| Horn prize! | 48.00% | ~26 |
+| Beast Quest | 33.00% | ~18 |
+| Monster Hunt | 33.00% | ~18 |
+| Orb Gatherer | 31.00% | ~17 |
+| Space worm! | 31.00% | ~17 |
 | Orb Collector | 30.00% | ~16 |
 | Beast Hunter | 30.00% | ~16 |
 | Loot, loot! | 30.00% | ~16 |
@@ -19,9 +19,9 @@
 | Beast Knight | 26.00% | ~14 |
 | Twin slayer! | 26.00% | ~14 |
 | Mercenary! | 26.00% | ~14 |
-| God of the Tower! | 25.00% | ~13 |
-| Relic Collector | 25.00% | ~13 |
-| Cartographer | 25.00% | ~13 |
+| God of the Tower! | 24.00% | ~13 |
+| Relic Collector | 24.00% | ~13 |
+| Cartographer | 24.00% | ~13 |
 | Wizard Mastery | 19.00% | ~10 |
 | Rogue Mastery | 17.00% | ~9 |
 | Fighter Mastery | 15.00% | ~8 |
@@ -31,17 +31,18 @@
 | Collector Mastery | 13.00% | ~7 |
 | Destoy all monsters! | 13.00% | ~7 |
 | True Black Knight | 9.00% | ~5 |
-| Freedom Monster | 8.00% | ~4 |
+| Freedom Monster | 7.00% | ~4 |
 | No match for me! | 4.00% | ~2 |
 | True Titan | 4.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 299)  
-Completed: 2 (3.77%) (Ranked 39)  
+Progressed: 54 (Ranked 299)  
+Completed: 2 (3.70%) (Ranked 41)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 52 | 2 |
 | 2023-05-30 | 53 | 2 |
+| 2023-06-06 | 54 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

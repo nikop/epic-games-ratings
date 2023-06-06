@@ -2280,10 +2280,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6388,
       "NumberOfAwardsMax": 2296
+    },
+    {
+      "Time": "2023-06-06T06:00:00.3853764+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6390,
+      "NumberOfAwardsMax": 2296
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6388,
+  "NumberOfAwards": 6390,
   "NumberOfAwardsMax": 2296,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2315,7 +2321,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 454
+      "Count": 456
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2360,9 +2366,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 48548,
+  "EOS_Progressed": 48550,
   "EOS_Completed": 176,
-  "EOS_NewPlayers": 724,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -6240,6 +6246,11 @@
       "Time": "2023-06-06T05:05:53.7051119+00:00",
       "NumProgressed": 48548,
       "NumCompleted": 176
+    },
+    {
+      "Time": "2023-06-06T06:05:43.5372792+00:00",
+      "NumProgressed": 48550,
+      "NumCompleted": 176
     }
   ],
   "TotalAchievements": 45,
@@ -6275,7 +6286,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 38353
+      "UsersEstimate": 38354
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -6363,7 +6374,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 28643
+      "UsersEstimate": 28644
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -6371,7 +6382,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22332
+      "UsersEstimate": 22333
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -6379,7 +6390,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19419
+      "UsersEstimate": 19420
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -6395,7 +6406,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 17477
+      "UsersEstimate": 17478
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -6411,7 +6422,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12622
+      "UsersEstimate": 12623
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -6443,7 +6454,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 27672
+      "UsersEstimate": 27673
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -6483,7 +6494,7 @@
       "Name": "\u0027\u0027A little short for a Stormtrooper...\u0027\u0027",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "DEFEAT_3_ENEMIES_WITH_ONE_FORCE",
@@ -6491,7 +6502,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28158
+      "UsersEstimate": 28159
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -6515,7 +6526,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 47092
+      "UsersEstimate": 47094
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -6539,7 +6550,7 @@
       "Name": "\u0027\u0027Jedi Business\u0027\u0027",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "LEVEL_CHALLENGES_ALL_LEVELS",
@@ -6547,7 +6558,7 @@
       "Name": "\u0027\u0027No more training, do you require\u0027\u0027",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "LEVEL_CHALLENGES_ONE_LEVEL",
@@ -6555,7 +6566,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 34469
+      "UsersEstimate": 34470
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -6563,7 +6574,7 @@
       "Name": "\u0027\u0027You needn\u0027t worry about your reward\u0027\u0027",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "MINIKITS_ONE_LEVEL",
@@ -6571,7 +6582,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 17963
+      "UsersEstimate": 17964
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -6587,7 +6598,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 25730
+      "UsersEstimate": 25732
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -6603,22 +6614,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 34955
+      "UsersEstimate": 34956
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 48548,
+      "Progressed": 48550,
       "Completed": 176
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-06-06T05:00:26.1003696+00:00",
-  "LastChanged_Achievements": "2023-06-06T05:05:53.7051115+00:00",
+  "LastChanged": "2023-06-06T06:00:00.3853763+00:00",
+  "LastChanged_Achievements": "2023-06-06T06:05:43.5372786+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:05.8451858+00:00",
-  "LastUpdate_Ratings": "2023-06-06T05:00:26.1003703+00:00",
-  "LastUpdate_Achievements": "2023-06-06T05:05:53.705174+00:00"
+  "LastUpdate_Ratings": "2023-06-06T06:00:00.3853768+00:00",
+  "LastUpdate_Achievements": "2023-06-06T06:05:43.5373357+00:00"
 }

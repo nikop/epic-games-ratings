@@ -10,8 +10,8 @@
 | I've Fallen & I Can't Get Up | 49.00% | ~39 |
 | Charmin' the Snake | 37.00% | ~29 |
 | Bridge Builder | 23.00% | ~18 |
+| Treasure Seeker | 22.00% | ~17 |
 | Drums in the Deep | 20.00% | ~16 |
-| Treasure Seeker | 20.00% | ~16 |
 | Take the Scenic Route | 13.00% | ~10 |
 | Redbeard's Revenger | 13.00% | ~10 |
 | Treasure Hunter | 13.00% | ~10 |

@@ -42,9 +42,9 @@
 | Pull the Plug | 31.00% | ~298 |
 | Soul Slayer | 31.00% | ~298 |
 | All Heart | 31.00% | ~298 |
+| Final Showdown | 31.00% | ~298 |
 | The Downfall | 30.00% | ~288 |
 | Extraordinary! | 30.00% | ~288 |
-| Final Showdown | 30.00% | ~288 |
 | Spot of Tea? | 30.00% | ~288 |
 | Going Home | 30.00% | ~288 |
 | Mirror, Mirror | 28.00% | ~269 |
