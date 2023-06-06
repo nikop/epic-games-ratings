@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 81.00% | ~101 |
+| Graduation | 81.00% | ~102 |
 | You Have Been Deaded | 70.00% | ~88 |
-| Rookie | 65.00% | ~81 |
-| Apprentice Destructor | 25.00% | ~31 |
-| I Prefer Jazz Fusion | 10.00% | ~12 |
+| Rookie | 64.00% | ~81 |
+| Apprentice Destructor | 25.00% | ~32 |
+| I Prefer Jazz Fusion | 10.00% | ~13 |
 | Master Destructor | 9.00% | ~11 |
 | Avaricerite | 8.00% | ~10 |
 | Ball Galore | 6.00% | ~8 |
@@ -18,16 +18,16 @@
 | Ball Protector | 4.00% | ~5 |
 | Legendary Destructor | 3.00% | ~4 |
 | Ticking Clock | 3.00% | ~4 |
-| Ball Collector | 2.00% | ~2 |
-| Bullet Hell | 2.00% | ~2 |
-| Collector | 2.00% | ~2 |
-| Detoxed | 2.00% | ~2 |
-| Ice Breaker | 2.00% | ~2 |
-| Medium Rare | 2.00% | ~2 |
-| Monster of Fashion | 2.00% | ~2 |
-| Nomad | 2.00% | ~2 |
-| Single Person On Earth | 2.00% | ~2 |
-| Untouchable | 2.00% | ~2 |
+| Ball Collector | 2.00% | ~3 |
+| Bullet Hell | 2.00% | ~3 |
+| Collector | 2.00% | ~3 |
+| Detoxed | 2.00% | ~3 |
+| Ice Breaker | 2.00% | ~3 |
+| Medium Rare | 2.00% | ~3 |
+| Monster of Fashion | 2.00% | ~3 |
+| Nomad | 2.00% | ~3 |
+| Single Person On Earth | 2.00% | ~3 |
+| Untouchable | 2.00% | ~3 |
 | Machine Man | 0.80% | ~1 |
 | Mushroom Man | 0.80% | ~1 |
 | Scrap Collector | 0.80% | ~1 |
@@ -36,8 +36,8 @@
 | Victory That Is Even More True | 0.80% | ~1 |
 | What Even Are You? | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 265)  
-Completed: 1 (0.80%) (Ranked 96)  
+Progressed: 126 (Ranked 265)  
+Completed: 1 (0.79%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,7 +74,7 @@ Completed: 1 (0.80%) (Ranked 96)
 | 2023-06-02 | 121 | 1 |
 | 2023-06-03 | 122 | 1 |
 | 2023-06-05 | 124 | 1 |
-| 2023-06-06 | 125 | 1 |
+| 2023-06-06 | 126 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

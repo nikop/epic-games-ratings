@@ -5,28 +5,28 @@ Rating: 4.55 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,451 |
+| A Wonderful Discovery | 79.00% | ~3,452 |
 | Realm Estate | 76.00% | ~3,320 |
-| Secret Technique | 75.00% | ~3,276 |
+| Secret Technique | 75.00% | ~3,277 |
 | Walls Cannot Stop Us | 73.00% | ~3,189 |
-| From Friends to Family | 69.00% | ~3,014 |
+| From Friends to Family | 69.00% | ~3,015 |
 | Magical Synergy | 64.00% | ~2,796 |
-| Bone Peddler | 61.00% | ~2,664 |
-| Stronger Together | 55.00% | ~2,402 |
+| Bone Peddler | 61.00% | ~2,665 |
+| Stronger Together | 55.00% | ~2,403 |
 | Full Ascension | 54.00% | ~2,359 |
 | There Can Only Be One! | 47.00% | ~2,053 |
 | Seat of Power | 47.00% | ~2,053 |
 | Intimidation Tactics | 44.00% | ~1,922 |
-| My Final Form | 43.00% | ~1,878 |
+| My Final Form | 43.00% | ~1,879 |
 | Valley of Wonders | 42.00% | ~1,835 |
-| In a Liege of Your Own | 37.00% | ~1,616 |
+| In a Liege of Your Own | 37.00% | ~1,617 |
 | Return of the Wizard King | 31.00% | ~1,354 |
-| Digging for Treasure | 30.00% | ~1,310 |
-| Against the Odds | 30.00% | ~1,310 |
+| Digging for Treasure | 30.00% | ~1,311 |
+| Against the Odds | 30.00% | ~1,311 |
 | Enchanted Archipelago | 28.00% | ~1,223 |
 | Impenetrable Fortress | 26.00% | ~1,136 |
+| The Magic That Empowers Me! | 20.00% | ~874 |
 | Preparation Is Everything | 20.00% | ~874 |
-| The Magic That Empowers Me! | 19.00% | ~830 |
 | Arch Mage | 19.00% | ~830 |
 | God Emperor | 18.00% | ~786 |
 | Crimson Caldera | 17.00% | ~743 |
@@ -50,7 +50,7 @@ Rating: 4.55 (Ranked 475)
 | Master of Evilness | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,368 (Ranked 128)  
+Progressed: 4,369 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 4,275 | 0 |
 | 2023-06-04 | 4,325 | 0 |
 | 2023-06-05 | 4,354 | 0 |
-| 2023-06-06 | 4,368 | 0 |
+| 2023-06-06 | 4,369 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

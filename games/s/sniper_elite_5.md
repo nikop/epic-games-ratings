@@ -5,8 +5,8 @@ Rating: 4.45 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 27.00% | ~627 |
-| Confirming Suspicions | 22.00% | ~511 |
+| Meeting Resistance | 27.00% | ~628 |
+| Confirming Suspicions | 22.00% | ~512 |
 | The Kraken Wakes | 17.00% | ~395 |
 | It's Starting to Crack | 15.00% | ~349 |
 | Lord of War | 13.00% | ~302 |
@@ -23,22 +23,22 @@ Rating: 4.45 (Ranked 616)
 | Gunslinger | 7.00% | ~163 |
 | Sharpshooter | 7.00% | ~163 |
 | The Kraken Sleeps | 7.00% | ~163 |
-| Opposing Force | 6.00% | ~139 |
-| Die Nussknacker Sweet! | 6.00% | ~139 |
-| Der Geist | 6.00% | ~139 |
-| Snake in the Grass | 6.00% | ~139 |
+| Opposing Force | 6.00% | ~140 |
+| Die Nussknacker Sweet! | 6.00% | ~140 |
+| Der Geist | 6.00% | ~140 |
+| Snake in the Grass | 6.00% | ~140 |
 | Climbing the Ladder | 5.00% | ~116 |
+| No Stone Unturned | 5.00% | ~116 |
 | Fields of Glory | 5.00% | ~116 |
 | Skirmisher | 5.00% | ~116 |
 | Close Quarters | 5.00% | ~116 |
 | Brains of the Operation | 5.00% | ~116 |
-| No Stone Unturned | 4.00% | ~93 |
 | Set Europe Ablaze | 4.00% | ~93 |
 | Precision Is Key | 4.00% | ~93 |
 | Rigged to Blow | 3.00% | ~70 |
-| The Long Game | 2.00% | ~46 |
-| My Little Friend | 2.00% | ~46 |
-| It'll Buff Right Out | 2.00% | ~46 |
+| The Long Game | 2.00% | ~47 |
+| My Little Friend | 2.00% | ~47 |
+| It'll Buff Right Out | 2.00% | ~47 |
 | Strategist | 1.00% | ~23 |
 | Locomotion Commotion | 1.00% | ~23 |
 | Road Rage | 1.00% | ~23 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 616)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,324 (Ranked 147)  
+Progressed: 2,326 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-03 | 2,182 | 2 |
 | 2023-06-04 | 2,257 | 2 |
 | 2023-06-05 | 2,307 | 2 |
-| 2023-06-06 | 2,324 | 2 |
+| 2023-06-06 | 2,326 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -330,9 +330,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2423,
+  "EOS_Progressed": 2424,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.96,
   "EosHistory": [
@@ -1155,6 +1155,11 @@
       "Time": "2023-06-06T14:02:31.1326445+00:00",
       "NumProgressed": 2423,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-06-06T15:02:40.263465+00:00",
+      "NumProgressed": 2424,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 14,
@@ -1166,7 +1171,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1190,7 +1195,7 @@
       "Name": "Climber",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -1206,7 +1211,7 @@
       "Name": "Easy As Pie",
       "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -1238,7 +1243,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACH_REUNION",
@@ -1254,7 +1259,7 @@
       "Name": "Shovel Night",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -1270,14 +1275,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2423,
+      "Progressed": 2424,
       "Completed": 96
     }
   ],
@@ -1285,8 +1290,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-05T22:00:26.3420461+00:00",
-  "LastChanged_Achievements": "2023-06-06T14:02:31.132644+00:00",
+  "LastChanged_Achievements": "2023-06-06T15:02:40.2634642+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:48.6058965+00:00",
-  "LastUpdate_Ratings": "2023-06-06T14:01:13.0109342+00:00",
-  "LastUpdate_Achievements": "2023-06-06T14:02:31.1326651+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:01:26.8931157+00:00",
+  "LastUpdate_Achievements": "2023-06-06T15:02:40.2634802+00:00"
 }

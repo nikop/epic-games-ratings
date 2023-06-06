@@ -2,9 +2,9 @@
   "ID": "24e2970ac5124a649554e210843f6774",
   "Name": "Rift Rangers",
   "ProductSlug": "rift-rangers-b3b5fa",
-  "Ranking_EOS_Progress": 386,
+  "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-06T13:30:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-06-06T14:01:35.6843834+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T15:01:49.5051728+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -46,9 +51,9 @@
       "ID": "defeat_level_1",
       "SetID": "7k8abkg",
       "Name": "Ep1: Earth is Under Attack By Time and Space!",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "defeat_level_10",
@@ -86,7 +91,7 @@
       "ID": "defeat_level_13_black",
       "SetID": "7k8abkg",
       "Name": "Special Episode Black 3: Fear my Superior Firepower!",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -118,7 +123,7 @@
       "ID": "defeat_level_1_black",
       "SetID": "7k8abkg",
       "Name": "Special Episode Black 1: Give me a Challenge!",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -142,15 +147,15 @@
       "ID": "defeat_level_1_yellow",
       "SetID": "7k8abkg",
       "Name": "Special Episode Yellow 1: Can\u0027t Catch Me!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "defeat_level_2",
       "SetID": "7k8abkg",
       "Name": "Ep2: Yellow Discovers the Secret of the Station",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -158,7 +163,7 @@
       "ID": "defeat_level_3",
       "SetID": "7k8abkg",
       "Name": "Ep3: Rangers in Space?!",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -166,7 +171,7 @@
       "ID": "defeat_level_4",
       "SetID": "7k8abkg",
       "Name": "Ep4: The Rift Engine",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -174,7 +179,7 @@
       "ID": "defeat_level_5",
       "SetID": "7k8abkg",
       "Name": "Ep5: A Reprieve!? Earth Fights Back!",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -182,7 +187,7 @@
       "ID": "defeat_level_6",
       "SetID": "7k8abkg",
       "Name": "Ep6: A Mysterious Stranger. Friend or Foe?",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -190,7 +195,7 @@
       "ID": "defeat_level_6_black",
       "SetID": "7k8abkg",
       "Name": "Special Episode Black 2: My Enemies Tremble Before me!",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -246,7 +251,7 @@
       "ID": "weapon_grandmaster_accursedcoffin",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Accursed Coffin",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -286,7 +291,7 @@
       "ID": "weapon_grandmaster_omegatempest",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Omega Tempest",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -294,7 +299,7 @@
       "ID": "weapon_grandmaster_piercingbow",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Piercing Bow",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -334,7 +339,7 @@
       "ID": "weapon_grandmaster_ultimatejaguarcall",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Ultimate Jaguar Call",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -350,7 +355,7 @@
       "ID": "weapon_grandmaster_voidbeam",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Void Beam",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -414,7 +419,7 @@
       "ID": "weapon_master_rangershot",
       "SetID": "7k8abkg",
       "Name": "Weapon Master: Ranger Shot",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -471,13 +476,13 @@
     {
       "ID": "7k8abkg",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-06T14:01:35.6862615+00:00",
-  "LastChanged_Achievements": "2023-06-06T14:01:35.6843595+00:00",
+  "LastChanged_Achievements": "2023-06-06T15:01:49.5051713+00:00",
   "LastUpdate_AppInfo": "2023-06-06T13:57:01.9038904+00:00",
-  "LastUpdate_Ratings": "2023-06-06T13:57:02.5632632+00:00",
-  "LastUpdate_Achievements": "2023-06-06T14:01:35.6865601+00:00"
+  "LastUpdate_Ratings": "2023-06-06T14:57:03.7791217+00:00",
+  "LastUpdate_Achievements": "2023-06-06T15:01:49.5052716+00:00"
 }

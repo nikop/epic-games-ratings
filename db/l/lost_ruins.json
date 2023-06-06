@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 353,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -371,6 +371,11 @@
       "Time": "2023-06-06T07:06:30.1506074+00:00",
       "NumProgressed": 352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T15:07:19.6243872+00:00",
+      "NumProgressed": 353,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -398,13 +403,13 @@
       "Name": "Artifact Collector",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Assassin",
       "SetID": "82505mn",
       "Name": "Assassin",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -414,7 +419,7 @@
       "Name": "Boss Killer",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "BugHunter",
@@ -516,9 +521,9 @@
       "ID": "Lumberjack",
       "SetID": "82505mn",
       "Name": "Lumberjack",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "Marksman",
@@ -564,9 +569,9 @@
       "ID": "OrcMustDie",
       "SetID": "82505mn",
       "Name": "Orcs Must Die!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "Pyromancer",
@@ -588,7 +593,7 @@
       "ID": "Roughneck",
       "SetID": "82505mn",
       "Name": "Roughneck",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -684,7 +689,7 @@
       "ID": "WeaponMaster",
       "SetID": "82505mn",
       "Name": "Weapon Master",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -701,7 +706,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 353,
       "Completed": 0
     }
   ],
@@ -709,8 +714,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-06T14:07:19.2994992+00:00",
+  "LastChanged_Achievements": "2023-06-06T15:07:19.6243864+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:56.1759151+00:00",
-  "LastUpdate_Ratings": "2023-06-06T14:00:15.1660512+00:00",
-  "LastUpdate_Achievements": "2023-06-06T14:07:19.2995327+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:00:26.0523749+00:00",
+  "LastUpdate_Achievements": "2023-06-06T15:07:19.6244207+00:00"
 }

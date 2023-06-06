@@ -8,16 +8,16 @@ Rating: 4.17 (Ranked 847)
 | First Step Into the Knight | 4.00% | ~2,553 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,915 |
 | Loose Ends | 3.00% | ~1,915 |
-| The Batman Family | 2.00% | ~1,276 |
-| Something in the Clay | 2.00% | ~1,276 |
-| To the Victor Go the Spoils | 2.00% | ~1,276 |
-| Quartzer Life Crisis | 2.00% | ~1,276 |
-| Get ReQ'd | 2.00% | ~1,276 |
-| Working Hard or Harley Working? | 2.00% | ~1,276 |
-| Unstoppable Force | 2.00% | ~1,276 |
-| Knighthood | 2.00% | ~1,276 |
-| Whispered Words | 2.00% | ~1,276 |
-| Lock and Key | 2.00% | ~1,276 |
+| The Batman Family | 2.00% | ~1,277 |
+| Something in the Clay | 2.00% | ~1,277 |
+| To the Victor Go the Spoils | 2.00% | ~1,277 |
+| Quartzer Life Crisis | 2.00% | ~1,277 |
+| Get ReQ'd | 2.00% | ~1,277 |
+| Working Hard or Harley Working? | 2.00% | ~1,277 |
+| Unstoppable Force | 2.00% | ~1,277 |
+| Knighthood | 2.00% | ~1,277 |
+| Whispered Words | 2.00% | ~1,277 |
+| Lock and Key | 2.00% | ~1,277 |
 | End of an Era | 1.00% | ~638 |
 | In Your Element | 1.00% | ~638 |
 | Protector of Gotham | 1.00% | ~638 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 847)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,824 (Ranked 71)  
+Progressed: 63,828 (Ranked 71)  
 Completed: 94 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,14 +114,14 @@ Completed: 94 (0.15%) (Ranked 154)
 | 2023-06-03 | 63,469 | 93 |
 | 2023-06-04 | 63,645 | 93 |
 | 2023-06-05 | 63,770 | 93 |
-| 2023-06-06 | 63,824 | 94 |
+| 2023-06-06 | 63,828 | 94 |
 ## Awards
-Max (Great Boss Battles): 2,296  (Ranked 97)  
-Sum: 3,801 (Ranked 136)  
+Max (Great Boss Battles): 2,304  (Ranked 97)  
+Sum: 3,809 (Ranked 136)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,296 |
+| This game has Great Boss Battles | 2,304 |
 | This game has Quickly Understood Controls | 196 |
 | This game is Extremely Fun | 196 |
 | This game is Relaxing | 195 |
@@ -239,3 +239,4 @@ Diff (max vs sum): -39
 | 2023-06-03 | 4.17 | 2,283 | 3,783 |
 | 2023-06-04 | 4.17 | 2,291 | 3,793 |
 | 2023-06-05 | 4.17 | 2,296 | 3,801 |
+| 2023-06-06 | 4.17 | 2,304 | 3,809 |

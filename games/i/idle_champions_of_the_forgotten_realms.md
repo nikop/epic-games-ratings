@@ -8,8 +8,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,799 |
 | The Cursed Farmer | 1.00% | ~899 |
-| Beast Intentions | 0.90% | ~809 |
-| The Mad Wizard | 0.90% | ~809 |
+| Beast Intentions | 0.90% | ~810 |
+| The Mad Wizard | 0.90% | ~810 |
 | The Court of Storms | 0.90% | ~506 |
 | The Ring of Regeneration | 0.70% | ~630 |
 | Beware the Jabberwock | 0.70% | ~394 |
@@ -66,6 +66,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prince of a Thousand Enemies | 0.20% | ~112 |
 | Uncommon Allies | 0.20% | ~112 |
 | Where the Magic Happens | 0.20% | ~112 |
+| Downfall | 0.20% | ~112 |
 | Third Third Out | 0.20% | ~112 |
 | The Silken Swamp | 0.20% | ~180 |
 | A Steadfast Love | 0.20% | ~112 |
@@ -214,7 +215,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Icequake | 0.10% | ~56 |
 | A Lesson in Classes | 0.10% | ~56 |
 | The Birds | 0.10% | ~56 |
-| Downfall | 0.10% | ~56 |
 | First Third Out | 0.10% | ~56 |
 | Second Third Out | 0.10% | ~56 |
 | Slack-jawed Lorna | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,942 (Ranked 62)  
+Progressed: 89,946 (Ranked 62)  
 Completed: 1,918 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,7 +547,7 @@ Completed: 1,918 (2.13%) (Ranked 65)
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
-| 2023-06-06 | 89,942 | 1,918 |
+| 2023-06-06 | 89,946 | 1,918 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

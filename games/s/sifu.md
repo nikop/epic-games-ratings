@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,663 (Ranked 16)  
-Completed: 12,760 (1.80%) (Ranked 69)  
+Progressed: 707,671 (Ranked 16)  
+Completed: 12,761 (1.80%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,10 +104,10 @@ Completed: 12,760 (1.80%) (Ranked 69)
 | 2023-06-03 | 707,194 | 12,754 |
 | 2023-06-04 | 707,419 | 12,757 |
 | 2023-06-05 | 707,566 | 12,758 |
-| 2023-06-06 | 707,663 | 12,760 |
+| 2023-06-06 | 707,671 | 12,761 |
 ## Awards
 Max (Great Boss Battles): 6,137  (Ranked 53)  
-Sum: 10,472 (Ranked 78)  
+Sum: 10,473 (Ranked 78)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -116,7 +116,7 @@ Diff (max vs sum): -25
 | This game has Challenging Combat | 518 |
 | This game has Quickly Understood Controls | 509 |
 | This game is Extremely Fun | 503 |
-| This game has Amazing Storytelling | 500 |
+| This game has Amazing Storytelling | 501 |
 | This game has Amazing Characters | 486 |
 | This game is Highly Recommended | 482 |
 | This game has Unique Visuals | 459 |
@@ -266,4 +266,4 @@ Diff (max vs sum): -25
 | 2023-06-03 | 4.82 | - | 6,130 | 10,457 |
 | 2023-06-04 | 4.82 | - | 6,130 | 10,460 |
 | 2023-06-05 | 4.82 | - | 6,137 | 10,471 |
-| 2023-06-06 | 4.82 | - | 6,137 | 10,472 |
+| 2023-06-06 | 4.82 | - | 6,137 | 10,473 |

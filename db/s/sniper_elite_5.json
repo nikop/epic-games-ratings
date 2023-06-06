@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2324,
+  "EOS_Progressed": 2326,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2676,6 +2676,11 @@
       "Time": "2023-06-06T14:07:05.7676361+00:00",
       "NumProgressed": 2324,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-06T15:07:05.7875714+00:00",
+      "NumProgressed": 2326,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2709,9 +2714,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 116
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -2719,7 +2724,7 @@
       "Name": "Opposing Force",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2767,7 +2772,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2831,7 +2836,7 @@
       "Name": "The Long Game",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -2855,7 +2860,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2879,7 +2884,7 @@
       "Name": "My Little Friend",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -2903,7 +2908,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -2919,7 +2924,7 @@
       "Name": "Der Geist",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -2951,7 +2956,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -3007,7 +3012,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -3254,13 +3259,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2275,
+      "Progressed": 2277,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2324,
+      "Progressed": 2326,
       "Completed": 2
     }
   ],
@@ -3268,8 +3273,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-06T14:07:05.7676356+00:00",
+  "LastChanged_Achievements": "2023-06-06T15:07:05.7875704+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-06T14:01:29.0489209+00:00",
-  "LastUpdate_Achievements": "2023-06-06T14:07:05.7677221+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:01:41.8417933+00:00",
+  "LastUpdate_Achievements": "2023-06-06T15:07:05.7877075+00:00"
 }

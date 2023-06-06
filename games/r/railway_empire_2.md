@@ -25,16 +25,16 @@
 | Access granted | 33.00% | ~310 |
 | Going once, going twice, sold | 29.00% | ~272 |
 | Full Steam ahead | 28.00% | ~263 |
-| Bull and bear | 26.00% | ~244 |
+| Bull and bear | 27.00% | ~253 |
 | Mole | 25.00% | ~234 |
 | All mine | 24.00% | ~225 |
+| Financial Shark | 23.00% | ~216 |
 | Socializer | 23.00% | ~216 |
-| Financial Shark | 22.00% | ~206 |
 | Seven at one stroke | 21.00% | ~197 |
 | General Manager | 20.00% | ~188 |
 | Country Life | 20.00% | ~188 |
 | Hostile Takeover | 20.00% | ~188 |
-| Trailblazer | 17.00% | ~159 |
+| Trailblazer | 18.00% | ~169 |
 | Breaking Ground | 15.00% | ~141 |
 | Traffic Jam | 14.00% | ~131 |
 | Traffic Junction | 13.00% | ~122 |

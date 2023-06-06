@@ -1019,7 +1019,7 @@
   ],
   "EOS_Progressed": 6163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5203,9 +5203,9 @@
       "ID": "45",
       "SetID": "8idi9ml",
       "Name": "Look, no Hands!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 308
     },
     {
       "ID": "46",
@@ -5347,9 +5347,9 @@
       "ID": "8",
       "SetID": "8idi9ml",
       "Name": "Real Survivor",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1356
     },
     {
       "ID": "9",
@@ -5371,8 +5371,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-05T04:00:59.3034052+00:00",
-  "LastChanged_Achievements": "2023-06-06T14:01:48.3783008+00:00",
+  "LastChanged_Achievements": "2023-06-06T15:02:02.3761153+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-06T14:00:46.7883669+00:00",
-  "LastUpdate_Achievements": "2023-06-06T14:01:48.3784087+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:00:59.3616052+00:00",
+  "LastUpdate_Achievements": "2023-06-06T15:02:02.3762081+00:00"
 }

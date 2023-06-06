@@ -43,8 +43,8 @@ Rating: 4.57 (Ranked 442)
 | Mutual Loyalty | 0.80% | ~20 |
 | You Had One Job... | 0.80% | ~20 |
 | Praise the Hull! | 0.70% | ~17 |
+| Space Greenhouse | 0.70% | ~17 |
 | Catastrophe Avoided | 0.60% | ~15 |
-| Space Greenhouse | 0.60% | ~15 |
 | Tiqqun Unchained | 0.60% | ~15 |
 | Help of the Forgotten Member | 0.60% | ~15 |
 | Tiqqun Contender | 0.50% | ~12 |

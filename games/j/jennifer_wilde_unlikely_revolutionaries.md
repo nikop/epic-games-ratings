@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clothes Hunter | 133.00% | ~4 |
-| Con Artist | 100.00% | ~3 |
-| I See Dead People | 100.00% | ~3 |
-| Bedtime Storyteller | 100.00% | ~3 |
+| Clothes Hunter | 100.00% | ~3 |
+| Con Artist | 67.00% | ~2 |
+| I See Dead People | 67.00% | ~2 |
+| Bedtime Storyteller | 67.00% | ~2 |
 | I Ain't Afraid of No Ghost | 67.00% | ~2 |
 | Exorcist | 67.00% | ~2 |
 | Electrician | 67.00% | ~2 |
@@ -15,7 +15,7 @@
 | Joyrider | 67.00% | ~2 |
 | Top Detective | 33.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 386)  
+Progressed: 3 (Ranked 387)  
 Completed: 1 (33.33%) (Ranked 2)  
 ## EOS Players History
 | Date | Progressed | Completed |

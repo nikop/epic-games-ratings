@@ -28,8 +28,8 @@ Number of Ratings: 836  (23.09.2022)
 | Mentor | 23.00% | ~1,417 |
 | Great Leader | 22.00% | ~1,356 |
 | Ice Lakes | 22.00% | ~1,356 |
+| Real Survivor | 22.00% | ~1,356 |
 | Merchant | 21.00% | ~1,294 |
-| Real Survivor | 21.00% | ~1,294 |
 | War Never Changes | 19.00% | ~1,171 |
 | Rocket Surgeon | 19.00% | ~1,171 |
 | Big Game Hunter | 17.00% | ~1,048 |
@@ -47,9 +47,9 @@ Number of Ratings: 836  (23.09.2022)
 | Tailored to fit | 7.00% | ~431 |
 | Really Friendly | 6.00% | ~370 |
 | New Eden | 6.00% | ~370 |
+| Look, no Hands! | 5.00% | ~308 |
 | Amped Up | 5.00% | ~308 |
 | Luxurious Living | 4.00% | ~247 |
-| Look, no Hands! | 4.00% | ~247 |
 | Mogul | 3.00% | ~185 |
 | Ranch Hand | 3.00% | ~185 |
 | Diplomat | 2.00% | ~123 |

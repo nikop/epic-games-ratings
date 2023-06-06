@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4368,
+  "EOS_Progressed": 4369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3196,6 +3196,11 @@
       "Time": "2023-06-06T14:05:17.0166717+00:00",
       "NumProgressed": 4368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T15:05:16.7891715+00:00",
+      "NumProgressed": 4369,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3237,9 +3242,9 @@
       "ID": "13",
       "SetID": "3aa2279",
       "Name": "The Magic That Empowers Me!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 874
     },
     {
       "ID": "14",
@@ -3327,7 +3332,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3451
+      "UsersEstimate": 3452
     },
     {
       "ID": "24",
@@ -3335,7 +3340,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3276
+      "UsersEstimate": 3277
     },
     {
       "ID": "25",
@@ -3351,7 +3356,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "27",
@@ -3359,7 +3364,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "28",
@@ -3367,7 +3372,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3015
     },
     {
       "ID": "29",
@@ -3375,7 +3380,7 @@
       "Name": "Stronger Together",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2402
+      "UsersEstimate": 2403
     },
     {
       "ID": "3",
@@ -3407,7 +3412,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "33",
@@ -3423,7 +3428,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "35",
@@ -3447,7 +3452,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "38",
@@ -3558,13 +3563,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4368,
-      "Completed": 4368
+      "Progressed": 4369,
+      "Completed": 4369
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4368,
+      "Progressed": 4369,
       "Completed": 0
     }
   ],
@@ -3572,8 +3577,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-06T09:59:44.2906196+00:00",
-  "LastChanged_Achievements": "2023-06-06T14:05:17.0166712+00:00",
+  "LastChanged_Achievements": "2023-06-06T15:05:16.7891705+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-06T14:00:08.7393995+00:00",
-  "LastUpdate_Achievements": "2023-06-06T14:05:17.0167221+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:00:19.363608+00:00",
+  "LastUpdate_Achievements": "2023-06-06T15:05:16.7892669+00:00"
 }

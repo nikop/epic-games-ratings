@@ -11,8 +11,8 @@
 | Evil Genius | 87.00% | ~138 |
 | Air Defense | 85.00% | ~135 |
 | Tinned Corpse | 84.00% | ~134 |
-| Your War is Over | 81.00% | ~129 |
-| The Starry Night | 75.00% | ~119 |
+| Your War is Over | 82.00% | ~130 |
+| The Starry Night | 76.00% | ~121 |
 | Go Home! | 75.00% | ~119 |
 | Look After the Pence... | 73.00% | ~116 |
 | Sergeant of the Evil | 73.00% | ~116 |

@@ -134,9 +134,9 @@
       "ID": "BADGE_BOSS_1_KILL",
       "SetID": "ak6pfjk",
       "Name": "Your War is Over",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "BADGE_BOSS_2_KILL",
@@ -270,9 +270,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT",
       "SetID": "ak6pfjk",
       "Name": "The Starry Night",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_1",
@@ -559,8 +559,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-06T14:03:47.7416248+00:00",
+  "LastChanged_Achievements": "2023-06-06T15:03:47.0901634+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:52.396282+00:00",
-  "LastUpdate_Ratings": "2023-06-06T13:59:05.9771854+00:00",
-  "LastUpdate_Achievements": "2023-06-06T14:03:47.7416896+00:00"
+  "LastUpdate_Ratings": "2023-06-06T14:59:14.0944812+00:00",
+  "LastUpdate_Achievements": "2023-06-06T15:03:47.0902427+00:00"
 }

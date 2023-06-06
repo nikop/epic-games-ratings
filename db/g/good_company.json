@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -1626,9 +1626,9 @@
       "ID": "ach_campaign_special9",
       "SetID": "8cb3id7",
       "Name": "Bet On Bots: Inspector\u0027s Favorite",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_challenge_special1",
@@ -1954,8 +1954,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-06T14:07:21.7093553+00:00",
+  "LastChanged_Achievements": "2023-06-06T15:07:22.1652346+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-06T13:59:31.8810867+00:00",
-  "LastUpdate_Achievements": "2023-06-06T14:07:21.7095374+00:00"
+  "LastUpdate_Ratings": "2023-06-06T14:59:41.4588619+00:00",
+  "LastUpdate_Achievements": "2023-06-06T15:07:22.1653977+00:00"
 }
