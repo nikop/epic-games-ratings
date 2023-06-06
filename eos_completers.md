@@ -34,12 +34,12 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.35% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.98% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.97% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
 | 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
-| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
+| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.72% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.28% |
@@ -50,7 +50,7 @@
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
-| 51 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
+| 51 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 52 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.86% |
 | 54 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
@@ -128,10 +128,10 @@
 | 125 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
 | 125 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 125 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.32% |
+| 125 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
 | 125 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
-| 130 | [Godlike Burger](games/g/godlike_burger.md) | 0.31% |
-| 130 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 130 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
+| 131 | [Godlike Burger](games/g/godlike_burger.md) | 0.31% |
+| 131 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
 | 133 | [The Surge](games/t/the_surge.md) | 0.30% |
 | 134 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
