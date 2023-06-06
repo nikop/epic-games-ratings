@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Return to Abyss 重返深渊](games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 2023-06-05 | 48 (1,000 XP) | 12 | - | 0 |
+| [Return to Abyss 重返深渊](games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 2023-06-05 | 48 (1,000 XP) | 13 | - | 0 |
 | [Tiny Thor](games/t/tiny_thor.md) | 2023-06-05 | - |  | - | 0 |
 | [To Hell With The Ugly](games/e/ee141714887d486a873a9a5a55fa4dfe.md) | 2023-06-05 | - |  | - | - |
 | [Moto](games/d/d1332913f13a4ec1a74ae177a67be056.md) | 2023-06-05 | - |  | - | - |
@@ -19,8 +19,8 @@
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 17 | - | - |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | - |  | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | - |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 567,108 | 4.64 | 261 |
-| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 833,731 | 4.41 | 0 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 567,314 | 4.64 | 261 |
+| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 836,417 | 4.41 | 0 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 222 | - | 0 |
 | [Nihilsearch](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | - |  | - | - |
 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 2023-06-01 | 6 (1,000 XP) | 26 | - | 0 |
@@ -103,7 +103,7 @@
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 27 (1,000 XP) | 31 | - | 0 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 9 (1,000 XP) | 10 | - | - |
 | [The Empress of Mahjong](games/r/royal_defense.md) | 2023-05-18 | - |  | - | - |
-| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | - |  | 4.66 | 29 |
+| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | - |  | 4.65 | 29 |
 | [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | - |  | - | 0 |
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 12 (1,000 XP) | 2 | - | 0 |
 | [Flyto](games/f/flyto.md) | 2023-05-18 | - |  | - | - |

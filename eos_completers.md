@@ -95,9 +95,9 @@
 | 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
 | 94 | [Adios](games/a/adios.md) | 0.84% |
 | 94 | [Poosh XL](games/p/poosh_xl.md) | 0.84% |
-| 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.81% |
-| 97 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
-| 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
+| 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
+| 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.80% |
+| 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
 | 99 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.79% |
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.76% |
 | 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
