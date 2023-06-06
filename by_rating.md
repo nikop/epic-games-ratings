@@ -85,7 +85,7 @@
 | 80 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 198 | 262 |
 | 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 325 |
 | 80 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 493 |
-| 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 316 | 224 |
+| 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 317 | 224 |
 | 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 493 |
 | 80 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 493 |
 | 80 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 493 |
@@ -289,7 +289,7 @@
 | 280 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,046 | 134 |
 | 280 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 551 | 177 |
 | 280 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 493 |
-| 280 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 450 | 193 |
+| 280 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 451 | 192 |
 | 280 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 34 | 431 |
 | 280 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 493 |
 | 280 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,782 | 56 |
@@ -335,7 +335,7 @@
 | 332 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.63 | 0 | 493 |
 | 332 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 0 | 493 |
 | 332 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 493 |
-| 332 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,139 | 102 |
+| 332 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,143 | 102 |
 | 332 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 60 | 379 |
 | 332 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 493 |
 | 332 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 493 |
@@ -366,7 +366,7 @@
 | 361 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 493 |
 | 361 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 213 | 255 |
 | 361 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 377 | 206 |
-| 361 | [Darkwood](games/d/darkwood.md) | 4.61 | 319 | 222 |
+| 361 | [Darkwood](games/d/darkwood.md) | 4.61 | 319 | 223 |
 | 361 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 47 | 399 |
 | 361 | [Limbo](games/l/limbo.md) | 4.61 | 0 | 493 |
 | 361 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,106 | 131 |
@@ -389,7 +389,7 @@
 | 385 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 357 |
 | 385 | [DOOM 3](games/d/doom_3.md) | 4.60 | 65 | 373 |
 | 385 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 36,983 | 12 |
-| 385 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,354 | 26 |
+| 385 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,359 | 26 |
 | 385 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 119 | 307 |
 | 385 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.60 | 0 | 493 |
 | 385 | [GRIME](games/g/grime.md) | 4.60 | 0 | 493 |
@@ -868,14 +868,14 @@
 | 866 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 493 |
 | 866 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.13 | 32 | 439 |
 | 866 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.13 | 0 | 493 |
-| 869 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 493 |
-| 869 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 77 | 353 |
-| 871 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 | 493 |
-| 871 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 493 |
-| 871 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 386 |
-| 871 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,347 | 96 |
-| 871 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 493 |
-| 871 | [Wreckfest](games/w/wreckfest.md) | 4.10 | 0 | 493 |
+| 866 | [Wreckfest](games/w/wreckfest.md) | 4.13 | 0 | 493 |
+| 870 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 493 |
+| 870 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 77 | 353 |
+| 872 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 | 493 |
+| 872 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 493 |
+| 872 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 386 |
+| 872 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,354 | 96 |
+| 872 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 493 |
 | 877 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 493 |
 | 877 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 493 |
 | 877 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 493 |
@@ -911,7 +911,7 @@
 | 909 | [Chimeraland](games/c/chimeraland.md) | 3.94 | 22 | 476 |
 | 909 | [Patron](games/p/patron.md) | 3.94 | 0 | 493 |
 | 911 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 452 |
-| 911 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 318 | 223 |
+| 911 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 321 | 222 |
 | 911 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 493 |
 | 914 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 493 |
 | 915 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 324 |
