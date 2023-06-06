@@ -3,12 +3,12 @@
   "Name": "World of Warships",
   "ProductSlug": "world-of-warships",
   "Ranking_Rating": 657,
-  "Ranking_Popularity": 130,
+  "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
     "PcReleaseDate": "2017-11-15T16:00:00+00:00",
@@ -5194,18 +5194,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 9839,
       "NumberOfAwardsMax": 1110
+    },
+    {
+      "Time": "2023-06-06T19:59:41.2078472+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 9844,
+      "NumberOfAwardsMax": 1112
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9839,
-  "NumberOfAwardsMax": 1110,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 9844,
+  "NumberOfAwardsMax": 1112,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1038
+      "Count": 1040
     },
     {
       "Text": "This game has Competitive Players",
@@ -5223,7 +5229,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1109
+      "Count": 1112
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -5273,8 +5279,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-06-06T18:00:09.3429103+00:00",
+  "LastChanged": "2023-06-06T19:59:41.207847+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.8048035+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:58:58.2296987+00:00",
-  "LastUpdate_Achievements": "2023-06-06T18:03:31.1981554+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:59:41.2078479+00:00",
+  "LastUpdate_Achievements": "2023-06-06T20:02:03.0662604+00:00"
 }

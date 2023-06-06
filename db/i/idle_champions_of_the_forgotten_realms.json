@@ -4138,10 +4138,10 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 89966,
-  "EOS_Completed": 1919,
-  "EOS_NewPlayers": 730,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 89969,
+  "EOS_Completed": 1920,
+  "EOS_NewPlayers": 727,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8918,6 +8918,11 @@
       "Time": "2023-06-06T19:06:46.1583117+00:00",
       "NumProgressed": 89966,
       "NumCompleted": 1919
+    },
+    {
+      "Time": "2023-06-06T20:07:40.8003695+00:00",
+      "NumProgressed": 89969,
+      "NumCompleted": 1920
     }
   ],
   "TotalAchievements": 493,
@@ -9543,9 +9548,9 @@
       "ID": "objective_completed_115",
       "SetID": "cc37lbc",
       "Name": "Heavy Burden",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_1152",
@@ -9615,9 +9620,9 @@
       "ID": "objective_completed_1164",
       "SetID": "415jc5c",
       "Name": "Overwhelmed with Knowledge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1165",
@@ -10143,9 +10148,9 @@
       "ID": "objective_completed_167",
       "SetID": "cc37lbc",
       "Name": "Vajra\u0027s Guards",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_169",
@@ -10359,9 +10364,9 @@
       "ID": "objective_completed_232",
       "SetID": "cc37lbc",
       "Name": "Modron Assistance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_233",
@@ -10391,9 +10396,9 @@
       "ID": "objective_completed_237",
       "SetID": "cc37lbc",
       "Name": "Domesticated Owlbears",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_238",
@@ -11527,9 +11532,9 @@
       "ID": "objective_completed_606",
       "SetID": "cc37lbc",
       "Name": "All You Know Is Wrong",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_607",
@@ -11823,9 +11828,9 @@
       "ID": "objective_completed_655",
       "SetID": "415jc5c",
       "Name": "Alterdeep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_656",
@@ -12191,9 +12196,9 @@
       "ID": "objective_completed_807",
       "SetID": "415jc5c",
       "Name": "Civilization",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_808",
@@ -12511,9 +12516,9 @@
       "ID": "objective_completed_867",
       "SetID": "415jc5c",
       "Name": "The Battle of High Hall Tower",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_868",
@@ -12815,9 +12820,9 @@
       "ID": "objective_completed_96",
       "SetID": "cc37lbc",
       "Name": "Poor Guidance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_97",
@@ -12872,21 +12877,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56240,
+      "Progressed": 56243,
       "Completed": 2775
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89966,
-      "Completed": 1919
+      "Progressed": 89969,
+      "Completed": 1920
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T13:58:26.881905+00:00",
-  "LastChanged_Achievements": "2023-06-06T19:06:46.1583111+00:00",
+  "LastChanged_Achievements": "2023-06-06T20:07:40.8003687+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:58:11.0574931+00:00",
-  "LastUpdate_Achievements": "2023-06-06T19:06:46.1606835+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:58:42.1741903+00:00",
+  "LastUpdate_Achievements": "2023-06-06T20:07:40.8036313+00:00"
 }

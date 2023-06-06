@@ -9,7 +9,9 @@
 | Like Clockwork | 2.00% | ~12 |
 | Make Up For Lost Time | 2.00% | ~12 |
 | No, Thanks! | 2.00% | ~12 |
+| Breaking Down Barriers | 2.00% | ~12 |
 | Immaculate Aim | 2.00% | ~12 |
+| Chaincrawler Explorer | 1.00% | ~6 |
 | Street Style | 1.00% | ~6 |
 | Family Memories | 1.00% | ~6 |
 | The Mysterious Stranger | 1.00% | ~6 |
@@ -21,7 +23,6 @@
 | Cartographer | 1.00% | ~6 |
 | Time Flies | 1.00% | ~6 |
 | The Harder They Fall | 1.00% | ~6 |
-| Breaking Down Barriers | 1.00% | ~6 |
 | The Wicked Twins | 1.00% | ~6 |
 | The Prince in Heels | 1.00% | ~6 |
 | Time Heals All Wounds | 1.00% | ~6 |
@@ -29,24 +30,23 @@
 | Fast Learner | 1.00% | ~6 |
 | Sump Explorer | 1.00% | ~6 |
 | Check Your Pulse | 1.00% | ~6 |
+| Immaculate Aim | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
 | The Brass Boss | 1.00% | ~6 |
+| The Family Fortune | 1.00% | ~6 |
 | Right On Time | 0.80% | ~5 |
 | Factorywood Explorer | 0.80% | ~5 |
-| Immaculate Aim | 0.80% | ~5 |
-| The Family Fortune | 0.80% | ~5 |
-| Chaincrawler Explorer | 0.70% | ~4 |
-| Honest Mistake | 0.70% | ~4 |
+| Honest Mistake | 0.80% | ~5 |
+| Theater Explorer | 0.80% | ~5 |
+| Sartorialist | 0.70% | ~4 |
 | Golem Hunter | 0.70% | ~4 |
 | Syron for Hope | 0.70% | ~4 |
-| Theater Explorer | 0.70% | ~4 |
 | Corin Goes Home | 0.50% | ~3 |
-| Sartorialist | 0.50% | ~3 |
+| Cultivair Explorer | 0.50% | ~3 |
+| Entresol Explorer | 0.50% | ~3 |
+| Fairgrounds Explorer | 0.50% | ~3 |
+| Rungs Was Right | 0.50% | ~3 |
 | Good Neighbor | 0.50% | ~3 |
-| Cultivair Explorer | 0.30% | ~2 |
-| Entresol Explorer | 0.30% | ~2 |
-| Fairgrounds Explorer | 0.30% | ~2 |
-| Rungs Was Right | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |
 | Hexlock for Protection | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |
@@ -58,7 +58,7 @@
 | A Lesson in Precision | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 614 (Ranked 195)  
+Progressed: 615 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,4 +77,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 586 | 0 |
 | 2023-06-04 | 602 | 0 |
 | 2023-06-05 | 608 | 0 |
-| 2023-06-06 | 614 | 0 |
+| 2023-06-06 | 615 | 0 |

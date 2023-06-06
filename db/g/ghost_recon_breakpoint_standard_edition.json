@@ -3,12 +3,12 @@
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
   "Ranking_Rating": 491,
-  "Ranking_Popularity": 129,
+  "Ranking_Popularity": 130,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4726,6 +4726,6 @@
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
   "LastChanged": "2023-06-06T18:57:35.0479581+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:37.2679126+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:57:35.047959+00:00",
-  "LastUpdate_Achievements": "2023-06-06T19:04:21.8071531+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:57:59.6794111+00:00",
+  "LastUpdate_Achievements": "2023-06-06T20:04:50.3655809+00:00"
 }

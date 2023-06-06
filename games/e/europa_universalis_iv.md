@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,601 |
-| That's a Grand Army | 8.00% | ~4,089 |
-| That is mine! | 8.00% | ~4,089 |
-| Victorious! | 8.00% | ~4,089 |
-| Brothers in Arms | 6.00% | ~3,067 |
-| That's a Grand Navy | 6.00% | ~3,067 |
-| Seriously?! | 6.00% | ~3,067 |
-| For the Glory | 5.00% | ~2,556 |
-| Cold War | 4.00% | ~2,045 |
-| True Catholic | 4.00% | ~2,045 |
+| Until death do us apart | 9.00% | ~4,603 |
+| That's a Grand Army | 8.00% | ~4,092 |
+| That is mine! | 8.00% | ~4,092 |
+| Victorious! | 8.00% | ~4,092 |
+| Brothers in Arms | 6.00% | ~3,069 |
+| That's a Grand Navy | 6.00% | ~3,069 |
+| Seriously?! | 6.00% | ~3,069 |
+| For the Glory | 5.00% | ~2,557 |
+| Cold War | 4.00% | ~2,046 |
+| True Catholic | 4.00% | ~2,046 |
 | Defender of the Faith | 3.00% | ~1,534 |
 | It's all about the money | 3.00% | ~1,534 |
 | Respected | 3.00% | ~1,534 |
 | Truly Divine Ruler | 3.00% | ~1,534 |
-| Agressive Expander | 2.00% | ~1,022 |
-| Blockader | 2.00% | ~1,022 |
-| Combined Arms | 2.00% | ~1,022 |
-| Double the Love | 2.00% | ~1,022 |
-| Gentle Persuasion | 2.00% | ~1,022 |
-| It's all about luck | 2.00% | ~1,022 |
-| My armies are invincible! | 2.00% | ~1,022 |
-| Queen of Conquest | 2.00% | ~1,022 |
-| Royal Authority | 2.00% | ~1,022 |
-| The Princess is in this Castle | 2.00% | ~1,022 |
-| Total Control | 2.00% | ~1,022 |
+| Agressive Expander | 2.00% | ~1,023 |
+| Blockader | 2.00% | ~1,023 |
+| Combined Arms | 2.00% | ~1,023 |
+| Double the Love | 2.00% | ~1,023 |
+| Gentle Persuasion | 2.00% | ~1,023 |
+| It's all about luck | 2.00% | ~1,023 |
+| My armies are invincible! | 2.00% | ~1,023 |
+| Queen of Conquest | 2.00% | ~1,023 |
+| Royal Authority | 2.00% | ~1,023 |
+| The Princess is in this Castle | 2.00% | ~1,023 |
+| Total Control | 2.00% | ~1,023 |
 | All That's Thine Shall Be Mine | 1.00% | ~511 |
 | Azur semé de lis or | 1.00% | ~511 |
 | Bright Spark | 1.00% | ~511 |
@@ -56,16 +56,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.50% | ~256 |
 | Trophy Hunter | 0.50% | ~256 |
 | Voting Streak | 0.50% | ~256 |
-| Absolutely | 0.40% | ~204 |
-| All Your Trade Are Belong to Us | 0.40% | ~204 |
-| Bleed Them Dry | 0.40% | ~204 |
-| Dude, Where's my Boat? | 0.40% | ~204 |
-| Grand Coalition | 0.40% | ~204 |
-| In the Name of the Father | 0.40% | ~204 |
-| Live Long and Prosper | 0.40% | ~204 |
-| One Night in Paris | 0.40% | ~204 |
-| Tear Down This Wall | 0.40% | ~204 |
-| The Continuation of Diplomacy | 0.40% | ~204 |
+| Absolutely | 0.40% | ~205 |
+| All Your Trade Are Belong to Us | 0.40% | ~205 |
+| Bleed Them Dry | 0.40% | ~205 |
+| Dude, Where's my Boat? | 0.40% | ~205 |
+| Grand Coalition | 0.40% | ~205 |
+| In the Name of the Father | 0.40% | ~205 |
+| Live Long and Prosper | 0.40% | ~205 |
+| One Night in Paris | 0.40% | ~205 |
+| Tear Down This Wall | 0.40% | ~205 |
+| The Continuation of Diplomacy | 0.40% | ~205 |
 | A Decent Reserve | 0.30% | ~153 |
 | A Pile of Gold | 0.30% | ~153 |
 | Four For Trade | 0.30% | ~153 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,117 (Ranked 78)  
+Progressed: 51,146 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,20 +408,20 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 49,497 | 0 |
 | 2023-06-04 | 50,194 | 0 |
 | 2023-06-05 | 50,691 | 0 |
-| 2023-06-06 | 51,117 | 0 |
+| 2023-06-06 | 51,146 | 0 |
 ## Awards
 Max (Educational): 5,351  (Ranked 61)  
-Sum: 44,196 (Ranked 27)  
+Sum: 44,208 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,351 |
 | This game is Highly Recommended | 5,120 |
 | This game has Challenging Combat | 5,098 |
-| This game is Extremely Fun | 5,065 |
+| This game is Extremely Fun | 5,071 |
 | This game has Diverse Characters | 5,036 |
 | This game is Relaxing | 4,961 |
-| This game has Competitive Players | 4,812 |
+| This game has Competitive Players | 4,818 |
 | This game has Amazing Storytelling | 4,548 |
 | This game has Amazing Characters | 4,205 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -568,4 +568,4 @@ Diff (max vs sum): 34
 | 2023-06-03 | 4.68 | - | 5,338 | 44,083 |
 | 2023-06-04 | 4.68 | - | 5,342 | 44,146 |
 | 2023-06-05 | 4.68 | - | 5,347 | 44,169 |
-| 2023-06-06 | 4.68 | - | 5,351 | 44,196 |
+| 2023-06-06 | 4.68 | - | 5,351 | 44,208 |

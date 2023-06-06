@@ -7,14 +7,14 @@ Rating: 4.18 (Ranked 840)
 | ---- | ---------- | ----- |
 | Flesh Wound | 12.00% | ~1,755 |
 | The Outer Way | 11.00% | ~1,609 |
-| Desperate Times | 10.00% | ~1,462 |
-| Paper Jams | 9.00% | ~1,316 |
+| Desperate Times | 10.00% | ~1,463 |
+| Paper Jams | 9.00% | ~1,317 |
 | Chew 'Em Up | 8.00% | ~1,170 |
 | Reforged | 8.00% | ~1,170 |
 | Workplace Hazard | 7.00% | ~1,024 |
 | If the SHU Fits... | 7.00% | ~1,024 |
 | Giving Back | 6.00% | ~878 |
-| Get a Grip | 5.00% | ~731 |
+| Get a Grip | 6.00% | ~878 |
 | Without A Paddle | 5.00% | ~731 |
 | Two Heads Are Better Than One | 4.00% | ~585 |
 | Terminated | 4.00% | ~585 |
@@ -29,9 +29,9 @@ Rating: 4.18 (Ranked 840)
 | What Lies Beneath | 3.00% | ~439 |
 | Full Circle | 3.00% | ~439 |
 | Bear Trap | 3.00% | ~77 |
-| I Do Belong Here | 2.00% | ~292 |
-| In Striking Distance | 2.00% | ~292 |
-| Mugshot | 2.00% | ~292 |
+| I Do Belong Here | 2.00% | ~293 |
+| In Striking Distance | 2.00% | ~293 |
+| Mugshot | 2.00% | ~293 |
 | Big Spender | 2.00% | ~51 |
 | Parole Denied | 1.00% | ~26 |
 | Hoard Mode | 1.00% | ~26 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,625 (Ranked 103)  
+Progressed: 14,629 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,15 +92,15 @@ Completed: 54 (0.37%) (Ranked 119)
 | 2023-06-03 | 14,412 | 53 |
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
-| 2023-06-06 | 14,625 | 54 |
+| 2023-06-06 | 14,629 | 54 |
 ## Awards
 Max (Amazing Storytelling): 51  (Ranked 387)  
-Sum: 292 (Ranked 328)  
+Sum: 293 (Ranked 328)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 51 |
 | This game has Amazing Storytelling | 51 |
-| This game is Highly Recommended | 50 |
 | This game has Quickly Understood Controls | 46 |
 | This game has Amazing Characters | 46 |
 | This game is Extremely Fun | 44 |
@@ -166,4 +166,4 @@ Diff (max vs sum): 59
 | 2023-06-01 | 4.18 | 50 | 282 |
 | 2023-06-02 | 4.18 | 50 | 284 |
 | 2023-06-03 | 4.18 | 50 | 287 |
-| 2023-06-06 | 4.18 | 51 | 292 |
+| 2023-06-06 | 4.18 | 51 | 293 |

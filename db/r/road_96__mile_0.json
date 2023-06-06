@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -589,6 +589,11 @@
       "Time": "2023-06-06T11:04:08.0794048+00:00",
       "NumProgressed": 257,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-06T20:04:27.1387528+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -608,7 +613,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 44,
       "XP": 80,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "completeact3",
@@ -670,9 +675,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 88
     },
     {
       "ID": "scoreminrankrp1",
@@ -719,7 +724,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 2
     }
   ],
@@ -727,8 +732,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-06T19:04:01.6923541+00:00",
+  "LastChanged_Achievements": "2023-06-06T20:04:27.1387521+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:58:58.068222+00:00",
-  "LastUpdate_Achievements": "2023-06-06T19:04:01.6923689+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:59:41.0172523+00:00",
+  "LastUpdate_Achievements": "2023-06-06T20:04:27.1387688+00:00"
 }

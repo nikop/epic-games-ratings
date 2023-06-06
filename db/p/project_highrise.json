@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 204,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -272,6 +272,11 @@
       "Time": "2023-06-05T13:15:34.52558+00:00",
       "NumProgressed": 203,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T20:07:36.5828279+00:00",
+      "NumProgressed": 204,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -315,7 +320,7 @@
       "Name": "Floor Galore",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_area_1",
@@ -371,7 +376,7 @@
       "Name": "Campaign Launch",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_campaigns_1",
@@ -451,7 +456,7 @@
       "Name": "Smooth Operator",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_contracts_1",
@@ -489,9 +494,9 @@
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_drones",
@@ -619,7 +624,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_grime_1",
@@ -731,7 +736,7 @@
       "Name": "Established Fame",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_prestige_3",
@@ -745,9 +750,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 118
     },
     {
       "ID": "ach_profit_1",
@@ -755,7 +760,7 @@
       "Name": "Swimming in Surplus",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_profit_2",
@@ -803,7 +808,7 @@
       "Name": "Dinner Dash",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_restaurants_4",
@@ -819,7 +824,7 @@
       "Name": "Starred Dining",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_retail_1",
@@ -851,7 +856,7 @@
       "Name": "Boutique Benefits",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_revs_1",
@@ -915,7 +920,7 @@
       "Name": "Terrifically Trashed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_tutorial",
@@ -971,7 +976,7 @@
       "Name": "Thrilled Tenants",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_visitors_1",
@@ -986,7 +991,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 204,
       "Completed": 0
     }
   ],
@@ -994,8 +999,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-06T19:06:41.9754903+00:00",
+  "LastChanged_Achievements": "2023-06-06T20:07:36.582827+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:15.3370382+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:58:11.5424892+00:00",
-  "LastUpdate_Achievements": "2023-06-06T19:06:41.9755942+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:58:45.7059565+00:00",
+  "LastUpdate_Achievements": "2023-06-06T20:07:36.5829524+00:00"
 }

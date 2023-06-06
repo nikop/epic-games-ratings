@@ -11,7 +11,7 @@
 | Do the Splits | 41.00% | ~1,200 |
 | Maestro | 28.00% | ~819 |
 | Full Employment | 20.00% | ~585 |
-| Clay Fighter | 17.00% | ~497 |
+| Clay Fighter | 18.00% | ~527 |
 | Nowhere left to Hide | 15.00% | ~439 |
 | Boulder Clash | 14.00% | ~410 |
 | All Ovens Blazing | 13.00% | ~380 |
@@ -39,7 +39,7 @@
 | All Geared Up | 0.90% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,926 (Ranked 138)  
-Completed: 9 (0.31%) (Ranked 131)  
+Completed: 9 (0.31%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

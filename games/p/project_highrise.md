@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~120 |
+| In the Black | 58.00% | ~118 |
 | Starting Skyward | 51.00% | ~104 |
-| Grime is Not Good | 45.00% | ~91 |
-| Campaign Launch | 40.00% | ~81 |
-| Floor Galore | 38.00% | ~77 |
-| Dinner Dash | 38.00% | ~77 |
+| Grime is Not Good | 45.00% | ~92 |
+| Campaign Launch | 40.00% | ~82 |
+| Floor Galore | 38.00% | ~78 |
+| Dinner Dash | 38.00% | ~78 |
 | It's Technical | 36.00% | ~73 |
 | Need a Consult | 34.00% | ~69 |
 | Upgrade Unlock | 34.00% | ~69 |
-| Proper Walls | 33.00% | ~67 |
 | Delegate Maintenance | 33.00% | ~67 |
+| Proper Walls | 32.00% | ~65 |
 | Destination Destiny | 28.00% | ~57 |
 | Happy Tenants | 25.00% | ~51 |
 | Smooth Service | 24.00% | ~49 |
@@ -33,13 +33,13 @@
 | Under One Roof | 17.00% | ~35 |
 | Cashflow Chief | 17.00% | ~35 |
 | We Don't Need No Education | 17.00% | ~35 |
-| Established Fame | 16.00% | ~32 |
-| Terrifically Trashed | 16.00% | ~32 |
-| Starred Dining | 15.00% | ~30 |
-| Boutique Benefits | 15.00% | ~30 |
-| Thrilled Tenants | 15.00% | ~30 |
-| Swimming in Surplus | 14.00% | ~28 |
-| Smooth Operator | 13.00% | ~26 |
+| Established Fame | 16.00% | ~33 |
+| Terrifically Trashed | 16.00% | ~33 |
+| Starred Dining | 15.00% | ~31 |
+| Boutique Benefits | 15.00% | ~31 |
+| Thrilled Tenants | 15.00% | ~31 |
+| Swimming in Surplus | 14.00% | ~29 |
+| Smooth Operator | 13.00% | ~27 |
 | 28 Days Later | 12.00% | ~24 |
 | Plaza Plan | 10.00% | ~20 |
 | Master of Puppets | 10.00% | ~20 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203 (Ranked 244)  
+Progressed: 204 (Ranked 244)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 197 | 0 |
 | 2023-06-04 | 202 | 0 |
 | 2023-06-05 | 203 | 0 |
+| 2023-06-06 | 204 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1532,9 +1532,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 46614,
+  "EOS_Progressed": 46615,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 850,
+  "EOS_NewPlayers": 844,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6347,6 +6347,11 @@
       "Time": "2023-06-06T19:06:24.8070591+00:00",
       "NumProgressed": 46614,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-06T20:07:16.7773381+00:00",
+      "NumProgressed": 46615,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 59,
@@ -6478,7 +6483,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11187
+      "UsersEstimate": 11188
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -6588,9 +6593,9 @@
       "ID": "VERDUN_ACH_HEADSHOTS1",
       "SetID": "dje9lo9",
       "Name": "Headhunter I",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12120
+      "UsersEstimate": 12586
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -6614,7 +6619,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14916
+      "UsersEstimate": 14917
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -6670,7 +6675,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11187
+      "UsersEstimate": 11188
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -6726,7 +6731,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 35893
+      "UsersEstimate": 35894
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -6822,22 +6827,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 17247
+      "UsersEstimate": 17248
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 46614,
+      "Progressed": 46615,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-06-06T02:20:42.5632316+00:00",
-  "LastChanged_Achievements": "2023-06-06T19:06:24.8070584+00:00",
+  "LastChanged_Achievements": "2023-06-06T20:07:16.7773374+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:35.4941076+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:58:31.2308841+00:00",
-  "LastUpdate_Achievements": "2023-06-06T19:06:24.8071717+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:59:05.9956689+00:00",
+  "LastUpdate_Achievements": "2023-06-06T20:07:16.777431+00:00"
 }

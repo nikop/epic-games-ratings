@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14289,
+  "EOS_Progressed": 14290,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -3891,6 +3891,11 @@
       "Time": "2023-06-06T19:02:31.9365464+00:00",
       "NumProgressed": 14289,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-06-06T20:02:47.1907772+00:00",
+      "NumProgressed": 14290,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 16,
@@ -3918,7 +3923,7 @@
       "Name": "Deadline",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2144
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -3950,7 +3955,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4715
+      "UsersEstimate": 4716
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -3974,7 +3979,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6144
+      "UsersEstimate": 6145
     },
     {
       "ID": "Mirrors",
@@ -3998,7 +4003,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7287
+      "UsersEstimate": 7288
     },
     {
       "ID": "Sole_Survivor",
@@ -4029,15 +4034,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14289,
+      "Progressed": 14290,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-06T19:02:31.9365459+00:00",
+  "LastChanged_Achievements": "2023-06-06T20:02:47.1907763+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:21.5801911+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:59:12.4971152+00:00",
-  "LastUpdate_Achievements": "2023-06-06T19:02:31.936583+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:59:57.946742+00:00",
+  "LastUpdate_Achievements": "2023-06-06T20:02:47.1908183+00:00"
 }

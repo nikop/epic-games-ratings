@@ -6,15 +6,15 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~18,203 |
-| Strongman | 31.00% | ~6,003 |
-| Alpha Male | 19.00% | ~3,679 |
+| First money | 94.00% | ~18,206 |
+| Strongman | 31.00% | ~6,004 |
+| Alpha Male | 19.00% | ~3,680 |
 | Just Enough | 18.00% | ~3,486 |
 | Pro-creative | 18.00% | ~3,486 |
 | Worth Every Penny | 15.00% | ~2,905 |
 | Family man | 12.00% | ~2,324 |
 | Junior Estate Agent | 12.00% | ~2,324 |
-| Mystery | 10.00% | ~1,936 |
+| Mystery | 10.00% | ~1,937 |
 | Artistic soul | 9.00% | ~1,743 |
 | Estate Agent | 5.00% | ~968 |
 | Millionaire | 5.00% | ~968 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~97 |
 | Senior Estate Agent | 0.50% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,365 (Ranked 95)  
+Progressed: 19,368 (Ranked 95)  
 Completed: 19 (0.10%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,10 +77,10 @@ Completed: 19 (0.10%) (Ranked 164)
 | 2023-06-03 | 19,263 | 19 |
 | 2023-06-04 | 19,304 | 19 |
 | 2023-06-05 | 19,330 | 19 |
-| 2023-06-06 | 19,365 | 19 |
+| 2023-06-06 | 19,368 | 19 |
 ## Awards
 Max (Great for Beginners): 294  (Ranked 229)  
-Sum: 2,149 (Ranked 178)  
+Sum: 2,150 (Ranked 178)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -91,7 +91,7 @@ Diff (max vs sum): 51
 | This game has Quickly Understood Controls | 216 |
 | This game is Highly Recommended | 210 |
 | This game has Amazing Storytelling | 206 |
-| This game has a Creative Community | 205 |
+| This game has a Creative Community | 206 |
 | This game has Amazing Characters | 186 |
 | This game has Obsessive Gameplay | 173 |
 | This game has Easy Combat | 159 |
@@ -207,4 +207,4 @@ Diff (max vs sum): 51
 | 2023-06-03 | 4.69 | - | 294 | 2,146 |
 | 2023-06-04 | 4.69 | - | 294 | 2,147 |
 | 2023-06-05 | 4.69 | - | 294 | 2,148 |
-| 2023-06-06 | 4.69 | - | 294 | 2,149 |
+| 2023-06-06 | 4.69 | - | 294 | 2,150 |

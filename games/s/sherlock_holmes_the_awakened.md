@@ -20,7 +20,7 @@
 | Back In The Saddle | 41.00% | ~156 |
 | Land, Ho! | 41.00% | ~156 |
 | No Man Is An Island | 39.00% | ~149 |
-| At Wits' End | 38.00% | ~145 |
+| At Wits' End | 39.00% | ~149 |
 | Bookworm | 36.00% | ~137 |
 | Up In Flames | 36.00% | ~137 |
 | Fhtagn! | 36.00% | ~137 |
@@ -29,7 +29,7 @@
 | Brain Food | 31.00% | ~118 |
 | No Stone Unturned | 30.00% | ~114 |
 | Curiosity Killed The Cat | 20.00% | ~76 |
-| Read It And Weep | 17.00% | ~65 |
+| Read It And Weep | 18.00% | ~69 |
 | Big Breakthrough | 15.00% | ~57 |
 | Reawakened | 6.00% | ~23 |
 ## Popularity (Based on EOS Achievements)

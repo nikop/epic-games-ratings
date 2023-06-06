@@ -1,7 +1,7 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.61 (Ranked 360)  
+Rating: 4.61 (Ranked 361)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,7 +17,7 @@ Number of Ratings: 98  (23.09.2022)
 | Bomberman | 19.00% | ~187 |
 | Death to the Oppressor! | 14.00% | ~138 |
 | The Gang's All Here | 11.00% | ~108 |
-| Your Answer | 10.00% | ~98 |
+| Your Answer | 10.00% | ~99 |
 | The Big Bertha | 9.00% | ~89 |
 | One by One | 9.00% | ~89 |
 | Game Over | 8.00% | ~79 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 985 (Ranked 174)  
+Progressed: 986 (Ranked 174)  
 Completed: 1 (0.10%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 1 (0.10%) (Ranked 164)
 | 2023-06-03 | 977 | 1 |
 | 2023-06-04 | 982 | 1 |
 | 2023-06-05 | 983 | 1 |
-| 2023-06-06 | 985 | 1 |
+| 2023-06-06 | 986 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

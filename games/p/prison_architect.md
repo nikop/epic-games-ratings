@@ -1,21 +1,21 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 360)  
+Rating: 4.61 (Ranked 361)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~34,228 |
-| Get Busy Living | 17.00% | ~22,380 |
-| Samuel Norton | 10.00% | ~13,165 |
-| Spare The Rod | 5.00% | ~6,582 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,266 |
-| Don't Put Me In The Dark | 3.00% | ~3,949 |
-| Wait and Hope | 3.00% | ~3,949 |
-| Iron Bars | 3.00% | ~3,949 |
+| Stone Walls | 26.00% | ~34,235 |
+| Get Busy Living | 17.00% | ~22,384 |
+| Samuel Norton | 10.00% | ~13,167 |
+| Spare The Rod | 5.00% | ~6,584 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,267 |
+| Don't Put Me In The Dark | 3.00% | ~3,950 |
+| Wait and Hope | 3.00% | ~3,950 |
+| Iron Bars | 3.00% | ~3,950 |
 | Throw The Book At Them | 2.00% | ~2,633 |
-| D.B. Cooper | 1.00% | ~1,316 |
+| D.B. Cooper | 1.00% | ~1,317 |
 | Reformation | 0.60% | ~790 |
 | Crowd Control | 0.50% | ~658 |
 | Freedom | 0.40% | ~527 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~132 |
 | ... It's What You Can Prove | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,646 (Ranked 56)  
+Progressed: 131,673 (Ranked 56)  
 Completed: 5 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,16 +70,16 @@ Completed: 5 (0.00%) (Ranked 212)
 | 2023-06-03 | 130,304 | 5 |
 | 2023-06-04 | 130,847 | 5 |
 | 2023-06-05 | 131,279 | 5 |
-| 2023-06-06 | 131,646 | 5 |
+| 2023-06-06 | 131,673 | 5 |
 ## Awards
 Max (Extremely Fun): 433  (Ranked 194)  
-Sum: 3,390 (Ranked 144)  
+Sum: 3,392 (Ranked 144)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 433 |
 | This game is Great for Beginners | 420 |
-| This game is Highly Recommended | 416 |
+| This game is Highly Recommended | 418 |
 | This game has Quickly Understood Controls | 401 |
 | This game is Relaxing | 378 |
 | This game has Diverse Characters | 371 |
@@ -228,4 +228,4 @@ Diff (max vs sum): 50
 | 2023-06-03 | 4.61 | - | 432 | 3,378 |
 | 2023-06-04 | 4.61 | - | 432 | 3,383 |
 | 2023-06-05 | 4.61 | - | 433 | 3,387 |
-| 2023-06-06 | 4.61 | - | 433 | 3,390 |
+| 2023-06-06 | 4.61 | - | 433 | 3,392 |

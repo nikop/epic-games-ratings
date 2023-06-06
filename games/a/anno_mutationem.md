@@ -34,7 +34,7 @@ Rating: 4.56 (Ranked 453)
 | I feel secure, contained & protected | 6.00% | ~37 |
 | Science, it works! | 6.00% | ~37 |
 | The Traveler | 6.00% | ~37 |
-| Woman on a (side) mission | 4.00% | ~25 |
+| Woman on a (side) mission | 5.00% | ~31 |
 | Ann ULTRA | 3.00% | ~19 |
 | Lady Luck is a cool cat | 3.00% | ~19 |
 | SERENITY NOW | 2.00% | ~12 |

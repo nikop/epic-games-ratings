@@ -7,7 +7,7 @@ Rating: 4.25 (Ranked 793)
 | ---- | ---------- | ----- |
 | MASTER CHEF | 82.00% | ~268 |
 | FIRST BLOOD | 77.00% | ~252 |
-| KEVIN! | 67.00% | ~219 |
+| KEVIN! | 68.00% | ~222 |
 | JACK OF ALL TRADES | 61.00% | ~199 |
 | CRIMINAL | 56.00% | ~183 |
 | GRANDMA WOULD BE PROUD | 45.00% | ~147 |
@@ -35,7 +35,7 @@ Rating: 4.25 (Ranked 793)
 | MISTER ALL THUMBS | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 327 (Ranked 220)  
-Completed: 1 (0.31%) (Ranked 131)  
+Completed: 1 (0.31%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -85,7 +85,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Laid Plans | 0.20% | ~112 |
 | The Howling Peaks of Yon | 0.20% | ~112 |
 | The Invisible Wizards of Thay | 0.20% | ~112 |
+| Heavy Burden | 0.20% | ~180 |
 | Vecna Lives! | 0.20% | ~112 |
+| Overwhelmed with Knowledge | 0.20% | ~112 |
 | A Demi-god's Defender | 0.20% | ~112 |
 | Vecna Loots! | 0.20% | ~112 |
 | More Than Well Equipped | 0.20% | ~112 |
@@ -116,6 +118,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.20% | ~180 |
 | Street War | 0.20% | ~180 |
 | Force Grey Unleashed | 0.20% | ~180 |
+| Vajra's Guards | 0.20% | ~180 |
 | March of the Undead | 0.20% | ~180 |
 | Wisdom Check | 0.20% | ~180 |
 | Sleuth It Out | 0.20% | ~180 |
@@ -125,8 +128,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.20% | ~180 |
 | Family Entanglements | 0.20% | ~180 |
 | Chatty Nobles | 0.20% | ~180 |
+| Modron Assistance | 0.20% | ~180 |
 | The Botched Kidnapping | 0.20% | ~180 |
 | Haaave You Met Asmodeus? | 0.20% | ~180 |
+| Domesticated Owlbears | 0.20% | ~180 |
 | The Immortal Warrior | 0.20% | ~180 |
 | The Wyrmheart Mine | 0.20% | ~180 |
 | Tower on the Lake | 0.20% | ~180 |
@@ -164,6 +169,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.20% | ~180 |
 | Hailstorm! | 0.20% | ~112 |
 | Resolve Amongst Chaos | 0.20% | ~180 |
+| All You Know Is Wrong | 0.20% | ~180 |
 | Avernus Frozen Over | 0.20% | ~112 |
 | Market Fluctuations | 0.20% | ~180 |
 | Déjà Vu All Over Again | 0.20% | ~112 |
@@ -172,6 +178,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Look Out! | 0.20% | ~112 |
 | The Path of Dreams | 0.20% | ~112 |
 | The Lost Hollyphant | 0.20% | ~112 |
+| Alterdeep | 0.20% | ~112 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~112 |
 | The Wandering Emporium | 0.20% | ~112 |
 | Tiamat's Army | 0.20% | ~112 |
@@ -186,6 +193,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.20% | ~180 |
 | Rude Welcome | 0.20% | ~180 |
 | Moose Tracks | 0.20% | ~112 |
+| Civilization | 0.20% | ~112 |
 | Durable Deep | 0.20% | ~180 |
 | The Sibriex | 0.20% | ~112 |
 | Wrecked Flying Fortress | 0.20% | ~112 |
@@ -195,8 +203,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Bleeding Citadel | 0.20% | ~112 |
 | Witty Riposting | 0.20% | ~112 |
 | How Far Away is Thay | 0.20% | ~112 |
+| The Battle of High Hall Tower | 0.20% | ~112 |
 | The Archaeologist and the Sailor | 0.20% | ~112 |
 | The Haunted Jungle | 0.20% | ~180 |
+| Poor Guidance | 0.20% | ~180 |
 | Starving in the Jungle | 0.10% | ~90 |
 | Cold as Ice | 0.10% | ~56 |
 | Keep Your Friends Close | 0.10% | ~56 |
@@ -242,13 +252,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pincushion Party | 0.10% | ~56 |
 | G. O. A. T. | 0.10% | ~56 |
 | Strength of Character | 0.10% | ~56 |
-| Heavy Burden | 0.10% | ~90 |
 | Seeds of Destruction | 0.10% | ~56 |
 | Speeds of Destruction | 0.10% | ~56 |
 | The Evacuation of Waterdeep | 0.10% | ~56 |
 | Flapjacks and Waffles | 0.10% | ~56 |
 | On the Hunt | 0.10% | ~90 |
-| Overwhelmed with Knowledge | 0.10% | ~56 |
 | Well Equipped | 0.10% | ~56 |
 | Friends of the Forest | 0.10% | ~90 |
 | To Avernus in a Handbasket | 0.10% | ~56 |
@@ -269,7 +277,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fall From Grace | 0.10% | ~90 |
 | Double Vision | 0.10% | ~90 |
 | Underground Railroad | 0.10% | ~90 |
-| Vajra's Guards | 0.10% | ~90 |
 | The Newcomers of Notoriety | 0.10% | ~56 |
 | Never Split the Party | 0.10% | ~90 |
 | Azaka's Procession - Part 1 | 0.10% | ~90 |
@@ -283,9 +290,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~90 |
 | Poor Fortune | 0.10% | ~90 |
 | Relentless Misfortune | 0.10% | ~90 |
-| Modron Assistance | 0.10% | ~90 |
 | Thine Bounty is Mine! | 0.10% | ~56 |
-| Domesticated Owlbears | 0.10% | ~90 |
 | This Quest Stinks! | 0.10% | ~56 |
 | Hold for the Red Wizards | 0.10% | ~90 |
 | Form Ranks | 0.10% | ~90 |
@@ -380,7 +385,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~56 |
 | Everything is Awful | 0.10% | ~90 |
 | Earthquake! | 0.10% | ~56 |
-| All You Know Is Wrong | 0.10% | ~90 |
 | Shadow Stalkers | 0.10% | ~56 |
 | Once More Into The Breach | 0.10% | ~90 |
 | Twice More Into The Breach | 0.10% | ~90 |
@@ -406,7 +410,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Trials | 0.10% | ~56 |
 | Zapper Overload | 0.10% | ~56 |
 | Best Friend Search Squad! | 0.10% | ~56 |
-| Alterdeep | 0.10% | ~56 |
 | Elder Rune Attack | 0.10% | ~56 |
 | The Gargoyle | 0.10% | ~56 |
 | Madcap Adventures Redux | 0.10% | ~56 |
@@ -432,7 +435,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Awakened Axe | 0.10% | ~56 |
 | CONtagious Cold | 0.10% | ~56 |
 | Ten in Ten-Towns | 0.10% | ~56 |
-| Civilization | 0.10% | ~56 |
 | Trench Coat Run | 0.10% | ~56 |
 | The Taunting Lord | 0.10% | ~56 |
 | Lone Wolf Party | 0.10% | ~56 |
@@ -463,7 +465,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frozen Vengeance | 0.10% | ~56 |
 | Mimic Vengeance | 0.10% | ~56 |
 | REALLY Frozen Vengeance | 0.10% | ~56 |
-| The Battle of High Hall Tower | 0.10% | ~56 |
 | Might Makes Right | 0.10% | ~56 |
 | The Stunning Tower Battle | 0.10% | ~56 |
 | Elturel's Last Stand | 0.10% | ~56 |
@@ -497,11 +498,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Icewind Dale Reunion | 0.10% | ~56 |
 | The Netherese Necropolis | 0.10% | ~56 |
 | Ineffectual Intellectuals | 0.10% | ~56 |
-| Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,966 (Ranked 62)  
-Completed: 1,919 (2.13%) (Ranked 65)  
+Progressed: 89,969 (Ranked 62)  
+Completed: 1,920 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -547,7 +547,7 @@ Completed: 1,919 (2.13%) (Ranked 65)
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
-| 2023-06-06 | 89,966 | 1,919 |
+| 2023-06-06 | 89,969 | 1,920 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

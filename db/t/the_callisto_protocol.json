@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -492,10 +492,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 292,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-06-06T19:58:28.6100885+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 293,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 292,
+  "NumberOfAwards": 293,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -503,7 +509,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game is Extremely Fun",
@@ -542,9 +548,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14625,
+  "EOS_Progressed": 14629,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 561,
+  "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2972,6 +2978,11 @@
       "Time": "2023-06-06T19:04:30.6023277+00:00",
       "NumProgressed": 14625,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-06T20:05:00.7628945+00:00",
+      "NumProgressed": 14629,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3047,7 +3058,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -3085,9 +3096,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 731
+      "UsersEstimate": 878
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3095,7 +3106,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "KILL_2HEAD",
@@ -3159,7 +3170,7 @@
       "Name": "Paper Jams",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3167,7 +3178,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -3215,7 +3226,7 @@
       "Name": "Desperate Times",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3302,22 +3313,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14625,
+      "Progressed": 14629,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2551,
+      "Progressed": 2555,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-06T18:57:59.4509888+00:00",
-  "LastChanged_Achievements": "2023-06-06T19:04:30.6023271+00:00",
+  "LastChanged": "2023-06-06T19:58:28.6100883+00:00",
+  "LastChanged_Achievements": "2023-06-06T20:05:00.7628938+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:57:59.4509895+00:00",
-  "LastUpdate_Achievements": "2023-06-06T19:04:30.602377+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:58:28.6100889+00:00",
+  "LastUpdate_Achievements": "2023-06-06T20:05:00.7629633+00:00"
 }

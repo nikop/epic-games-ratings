@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -486,7 +486,7 @@
   ],
   "EOS_Progressed": 2820,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2568,9 +2568,9 @@
       "ID": "VentureOutward_21",
       "SetID": "c4hee28",
       "Name": "Venture Outward",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2087
+      "UsersEstimate": 2115
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2592,8 +2592,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-06T19:03:26.6950683+00:00",
+  "LastChanged_Achievements": "2023-06-06T20:03:36.1308433+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:57:53.1976435+00:00",
-  "LastUpdate_Achievements": "2023-06-06T19:03:26.6951319+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:58:19.6444752+00:00",
+  "LastUpdate_Achievements": "2023-06-06T20:03:36.1308934+00:00"
 }

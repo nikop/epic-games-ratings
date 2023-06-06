@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -528,9 +528,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2862,
+  "EOS_Progressed": 2863,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1648,6 +1648,11 @@
       "Time": "2023-06-06T05:05:54.2287599+00:00",
       "NumProgressed": 2862,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T20:07:33.1745069+00:00",
+      "NumProgressed": 2863,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1675,7 +1680,7 @@
       "Name": "Look Over There!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "BloodAndIron",
@@ -1851,7 +1856,7 @@
       "Name": "Executioner",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "Kills_Exterminator",
@@ -1883,15 +1888,15 @@
       "Name": "Watch Where You Step...",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 630
     },
     {
       "ID": "Kills_Vakir",
@@ -1905,9 +1910,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 830
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -2083,7 +2088,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -2099,7 +2104,7 @@
       "Name": "Long Distance Call",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "SkilledKnight",
@@ -2130,21 +2135,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2862,
+      "Progressed": 2863,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2862,
+      "Progressed": 2863,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-06T19:06:38.815326+00:00",
+  "LastChanged_Achievements": "2023-06-06T20:07:33.1745063+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:58:50.3957155+00:00",
-  "LastUpdate_Achievements": "2023-06-06T19:06:38.8153881+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:59:31.1596175+00:00",
+  "LastUpdate_Achievements": "2023-06-06T20:07:33.1745775+00:00"
 }

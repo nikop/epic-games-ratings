@@ -4458,10 +4458,10 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 707704,
+  "EOS_Progressed": 707714,
   "EOS_Completed": 12763,
-  "EOS_NewPlayers": 1309,
-  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 1316,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -8793,6 +8793,11 @@
       "Time": "2023-06-06T19:06:36.0594513+00:00",
       "NumProgressed": 707704,
       "NumCompleted": 12763
+    },
+    {
+      "Time": "2023-06-06T20:07:29.6273693+00:00",
+      "NumProgressed": 707714,
+      "NumCompleted": 12763
     }
   ],
   "TotalAchievements": 50,
@@ -8842,9 +8847,9 @@
       "ID": "06_Vengeance_H5",
       "SetID": "adcm20g",
       "Name": "Furious Fists",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 6369
+      "UsersEstimate": 7077
     },
     {
       "ID": "07_Wude_H1",
@@ -9148,7 +9153,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9203,21 +9208,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17005,
+      "Progressed": 17015,
       "Completed": 10232
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707704,
+      "Progressed": 707714,
       "Completed": 12763
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-06T14:59:45.9496878+00:00",
-  "LastChanged_Achievements": "2023-06-06T19:06:36.0594507+00:00",
+  "LastChanged_Achievements": "2023-06-06T20:07:29.6273684+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:59:11.7031062+00:00",
-  "LastUpdate_Achievements": "2023-06-06T19:06:36.0595201+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:59:56.9633021+00:00",
+  "LastUpdate_Achievements": "2023-06-06T20:07:29.6274484+00:00"
 }
