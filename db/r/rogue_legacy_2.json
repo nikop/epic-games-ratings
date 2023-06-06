@@ -3,7 +3,7 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 37,
-  "Ranking_Popularity": 250,
+  "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 150,
@@ -1149,9 +1149,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22060,
+  "EOS_Progressed": 22061,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3679,6 +3679,11 @@
       "Time": "2023-06-06T16:05:31.9126651+00:00",
       "NumProgressed": 22060,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-06T17:06:18.0674973+00:00",
+      "NumProgressed": 22061,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -3848,9 +3853,9 @@
       "ID": "BossStudyDefeated",
       "SetID": "3ojhj46",
       "Name": "Poise and Poisons",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 176
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -4001,21 +4006,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22060,
+      "Progressed": 22061,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 990,
+      "Progressed": 991,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-03T10:58:54.6277289+00:00",
-  "LastChanged_Achievements": "2023-06-06T16:05:31.9126645+00:00",
+  "LastChanged_Achievements": "2023-06-06T17:06:18.0674967+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:30.088855+00:00",
-  "LastUpdate_Ratings": "2023-06-06T15:58:50.0348847+00:00",
-  "LastUpdate_Achievements": "2023-06-06T16:05:31.9127098+00:00"
+  "LastUpdate_Ratings": "2023-06-06T16:59:26.5052501+00:00",
+  "LastUpdate_Achievements": "2023-06-06T17:06:18.0675493+00:00"
 }

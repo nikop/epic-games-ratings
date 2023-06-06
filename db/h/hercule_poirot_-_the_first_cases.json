@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -271,9 +271,9 @@
       "ID": "ACH_011",
       "SetID": "72imik0",
       "Name": "Well-travelled",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_012",
@@ -632,8 +632,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-06-06T07:57:37.3793148+00:00",
-  "LastChanged_Achievements": "2023-06-06T16:05:34.0565084+00:00",
+  "LastChanged_Achievements": "2023-06-06T17:06:20.6653082+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:56.7957468+00:00",
-  "LastUpdate_Ratings": "2023-06-06T15:57:39.5960509+00:00",
-  "LastUpdate_Achievements": "2023-06-06T16:05:34.0565507+00:00"
+  "LastUpdate_Ratings": "2023-06-06T16:57:58.506825+00:00",
+  "LastUpdate_Achievements": "2023-06-06T17:06:20.6653541+00:00"
 }

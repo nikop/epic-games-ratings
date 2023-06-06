@@ -4,11 +4,11 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 840,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 329,
+  "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -480,10 +480,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 287,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-06-06T16:58:03.8056355+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 291,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 287,
+  "NumberOfAwards": 291,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -503,7 +509,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 42
+      "Count": 46
     },
     {
       "Text": "This game has Amazing Characters",
@@ -530,9 +536,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14614,
+  "EOS_Progressed": 14616,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2945,6 +2951,11 @@
       "Time": "2023-06-06T16:03:55.5388466+00:00",
       "NumProgressed": 14614,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-06T17:04:17.6813011+00:00",
+      "NumProgressed": 14616,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3188,7 +3199,7 @@
       "Name": "Desperate Times",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3275,22 +3286,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14614,
+      "Progressed": 14616,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2540,
+      "Progressed": 2542,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-06T16:03:55.538846+00:00",
+  "LastChanged": "2023-06-06T16:58:03.8056354+00:00",
+  "LastChanged_Achievements": "2023-06-06T17:04:17.6813005+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-06T15:57:43.7288829+00:00",
-  "LastUpdate_Achievements": "2023-06-06T16:03:55.5388969+00:00"
+  "LastUpdate_Ratings": "2023-06-06T16:58:03.805636+00:00",
+  "LastUpdate_Achievements": "2023-06-06T17:04:17.6813546+00:00"
 }

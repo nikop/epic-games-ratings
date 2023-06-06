@@ -10,38 +10,38 @@
 | Like Clockwork | 1.00% | ~6 |
 | Street Style | 1.00% | ~6 |
 | Family Memories | 1.00% | ~6 |
+| The Betrayer | 1.00% | ~6 |
 | The Man Who Shattered Time | 1.00% | ~6 |
 | The Loose Cannon | 1.00% | ~6 |
 | Make Up For Lost Time | 1.00% | ~6 |
 | Cartographer | 1.00% | ~6 |
 | No, Thanks! | 1.00% | ~6 |
 | Breaking Down Barriers | 1.00% | ~6 |
+| The Wicked Twins | 1.00% | ~6 |
 | The Prince in Heels | 1.00% | ~6 |
 | Fast Learner | 1.00% | ~6 |
 | Sump Explorer | 1.00% | ~6 |
+| Check Your Pulse | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
+| The Mysterious Stranger | 0.80% | ~5 |
 | Whiz Kid | 0.80% | ~5 |
+| Rail Rat | 0.80% | ~5 |
+| Time Flies | 0.80% | ~5 |
 | The Harder They Fall | 0.80% | ~5 |
-| The Wicked Twins | 0.80% | ~5 |
 | Time Heals All Wounds | 0.80% | ~5 |
 | Golem Chaser | 0.80% | ~5 |
 | Immaculate Aim | 0.80% | ~5 |
 | The Family Fortune | 0.80% | ~5 |
-| The Mysterious Stranger | 0.70% | ~4 |
-| The Betrayer | 0.70% | ~4 |
-| Rail Rat | 0.70% | ~4 |
-| Time Flies | 0.70% | ~4 |
+| Right On Time | 0.70% | ~4 |
 | Syron for Hope | 0.70% | ~4 |
+| Theater Explorer | 0.70% | ~4 |
 | The Brass Boss | 0.70% | ~4 |
+| Chaincrawler Explorer | 0.50% | ~3 |
 | Corin Goes Home | 0.50% | ~3 |
 | Sartorialist | 0.50% | ~3 |
 | Honest Mistake | 0.50% | ~3 |
 | Golem Hunter | 0.50% | ~3 |
-| Check Your Pulse | 0.50% | ~3 |
-| Theater Explorer | 0.50% | ~3 |
 | Good Neighbor | 0.50% | ~3 |
-| Chaincrawler Explorer | 0.30% | ~2 |
-| Right On Time | 0.30% | ~2 |
 | Cultivair Explorer | 0.30% | ~2 |
 | Entresol Explorer | 0.30% | ~2 |
 | Factorywood Explorer | 0.30% | ~2 |

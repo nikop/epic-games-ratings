@@ -34,7 +34,7 @@ Rating: 4.17 (Ranked 847)
 | Voiceless | 1.00% | ~638 |
 | Seeking Asylum | 1.00% | ~638 |
 | Gotham Knight | 1.00% | ~638 |
-| Gotham City Confidential | 0.90% | ~574 |
+| Gotham City Confidential | 0.90% | ~575 |
 | Drone You Out | 0.80% | ~511 |
 | Out of Their League | 0.70% | ~447 |
 | Solid Alibi | 0.70% | ~447 |
@@ -43,8 +43,8 @@ Rating: 4.17 (Ranked 847)
 | Family Meeting | 0.50% | ~319 |
 | A Worthy Successor | 0.50% | ~319 |
 | Dressed to Impress | 0.40% | ~255 |
-| A Momentum Occasion | 0.30% | ~191 |
-| Bat Out of Hell | 0.30% | ~191 |
+| A Momentum Occasion | 0.30% | ~192 |
+| Bat Out of Hell | 0.30% | ~192 |
 | Hammer and Icicle | 0.20% | ~68 |
 | Renewable Enemy Source | 0.20% | ~68 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~68 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 847)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,830 (Ranked 71)  
+Progressed: 63,835 (Ranked 71)  
 Completed: 94 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 94 (0.15%) (Ranked 154)
 | 2023-06-03 | 63,469 | 93 |
 | 2023-06-04 | 63,645 | 93 |
 | 2023-06-05 | 63,770 | 93 |
-| 2023-06-06 | 63,830 | 94 |
+| 2023-06-06 | 63,835 | 94 |
 ## Awards
 Max (Great Boss Battles): 2,304  (Ranked 97)  
 Sum: 3,809 (Ranked 137)  

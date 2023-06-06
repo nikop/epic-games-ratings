@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -292,9 +292,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6166,
+  "EOS_Progressed": 6167,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3227,6 +3227,11 @@
       "Time": "2023-06-06T16:03:27.5359109+00:00",
       "NumProgressed": 6166,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-06-06T17:03:32.5770537+00:00",
+      "NumProgressed": 6167,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 29,
@@ -3238,7 +3243,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5118
+      "UsersEstimate": 5119
     },
     {
       "ID": "ACH02",
@@ -3286,7 +3291,7 @@
       "Name": "Planned Ahead",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH08",
@@ -3390,7 +3395,7 @@
       "Name": "Man Toyz",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH21",
@@ -3469,7 +3474,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6166,
+      "Progressed": 6167,
       "Completed": 31
     }
   ],
@@ -3477,8 +3482,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-06T13:58:14.9125127+00:00",
-  "LastChanged_Achievements": "2023-06-06T16:03:27.5359103+00:00",
+  "LastChanged_Achievements": "2023-06-06T17:03:32.5770531+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:03.6526306+00:00",
-  "LastUpdate_Ratings": "2023-06-06T15:57:45.1646061+00:00",
-  "LastUpdate_Achievements": "2023-06-06T16:03:27.5359512+00:00"
+  "LastUpdate_Ratings": "2023-06-06T16:58:05.4847694+00:00",
+  "LastUpdate_Achievements": "2023-06-06T17:03:32.5770974+00:00"
 }

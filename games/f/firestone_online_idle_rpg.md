@@ -5,10 +5,10 @@ Rating: 3.97 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,226 |
-| World Map | 80.00% | ~1,043 |
-| Temple of Eternals | 57.00% | ~743 |
-| Prestigious | 53.00% | ~691 |
+| Victor | 94.00% | ~1,227 |
+| World Map | 80.00% | ~1,044 |
+| Temple of Eternals | 57.00% | ~744 |
+| Prestigious | 53.00% | ~692 |
 | Fellowship Power | 41.00% | ~535 |
 | Guild Power | 24.00% | ~313 |
 | Prestigious x10 | 21.00% | ~274 |
@@ -21,12 +21,12 @@ Rating: 3.97 (Ranked 905)
 | Dragon Master | 13.00% | ~170 |
 | Enlightenment | 13.00% | ~170 |
 | Hero inspection | 13.00% | ~170 |
-| Lieutenant | 12.00% | ~156 |
-| Milestone collector | 11.00% | ~143 |
-| Mysterious Rock | 11.00% | ~143 |
-| Natural Talent | 11.00% | ~143 |
-| Superior | 11.00% | ~143 |
-| The Unstoppable | 11.00% | ~143 |
+| Lieutenant | 12.00% | ~157 |
+| Milestone collector | 11.00% | ~144 |
+| Mysterious Rock | 11.00% | ~144 |
+| Natural Talent | 11.00% | ~144 |
+| Superior | 11.00% | ~144 |
+| The Unstoppable | 11.00% | ~144 |
 | Scientist | 9.00% | ~117 |
 | Challenger | 8.00% | ~104 |
 | Daily Quest Completionist | 8.00% | ~104 |
@@ -43,12 +43,12 @@ Rating: 3.97 (Ranked 905)
 | The Expeditioner | 5.00% | ~65 |
 | The father of Dragons | 5.00% | ~65 |
 | Trader | 5.00% | ~65 |
+| Weekly Quest Completionist | 5.00% | ~65 |
 | Ancient Knowledge | 4.00% | ~52 |
 | Background Story | 4.00% | ~52 |
 | How Do You Turn This On? | 4.00% | ~52 |
 | Master Enchanter | 4.00% | ~52 |
 | Missions Dedication | 4.00% | ~52 |
-| Weekly Quest Completionist | 4.00% | ~52 |
 | Dragon Slayer | 3.00% | ~39 |
 | Enchanting skill | 3.00% | ~39 |
 | Engineer Mastery | 3.00% | ~39 |
@@ -81,7 +81,7 @@ Rating: 3.97 (Ranked 905)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,304 (Ranked 162)  
+Progressed: 1,305 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 1 (0.08%) (Ranked 173)
 | 2023-06-03 | 1,267 | 1 |
 | 2023-06-04 | 1,285 | 1 |
 | 2023-06-05 | 1,299 | 1 |
-| 2023-06-06 | 1,304 | 1 |
+| 2023-06-06 | 1,305 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

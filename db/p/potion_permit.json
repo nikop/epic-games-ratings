@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -310,9 +310,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1352,
+  "EOS_Progressed": 1353,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -935,6 +935,11 @@
       "Time": "2023-06-06T05:05:51.6296335+00:00",
       "NumProgressed": 1352,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-06T17:06:26.6944574+00:00",
+      "NumProgressed": 1353,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 38,
@@ -946,7 +951,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -994,7 +999,7 @@
       "Name": "K.O.!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -1002,7 +1007,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1034,7 +1039,7 @@
       "Name": "Amateur Chef",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -1074,7 +1079,7 @@
       "Name": "Kind-hearted",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -1082,7 +1087,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -1106,7 +1111,7 @@
       "Name": "Fishing Guru",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -1249,7 +1254,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1352,
+      "Progressed": 1353,
       "Completed": 6
     }
   ],
@@ -1257,8 +1262,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-31T00:00:26.9693772+00:00",
-  "LastChanged_Achievements": "2023-06-06T16:05:39.2681302+00:00",
+  "LastChanged_Achievements": "2023-06-06T17:06:26.6944568+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.0833594+00:00",
-  "LastUpdate_Ratings": "2023-06-06T15:59:53.8997131+00:00",
-  "LastUpdate_Achievements": "2023-06-06T16:05:39.2681674+00:00"
+  "LastUpdate_Ratings": "2023-06-06T17:00:47.5352938+00:00",
+  "LastUpdate_Achievements": "2023-06-06T17:06:26.6944968+00:00"
 }

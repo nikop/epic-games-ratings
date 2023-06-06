@@ -1412,9 +1412,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63830,
+  "EOS_Progressed": 63835,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 957,
+  "EOS_NewPlayers": 958,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5292,6 +5292,11 @@
       "Time": "2023-06-06T16:05:42.33214+00:00",
       "NumProgressed": 63830,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-06T17:06:30.5161273+00:00",
+      "NumProgressed": 63835,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 61,
@@ -5663,7 +5668,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -5759,7 +5764,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -5783,20 +5788,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63830,
+      "Progressed": 63835,
       "Completed": 94
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34110,
+      "Progressed": 34115,
       "Completed": 2644
     }
   ],
@@ -5804,8 +5809,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-06T15:00:40.7549932+00:00",
-  "LastChanged_Achievements": "2023-06-06T16:05:42.3321394+00:00",
+  "LastChanged_Achievements": "2023-06-06T17:06:30.5161264+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-06T15:59:21.0131938+00:00",
-  "LastUpdate_Achievements": "2023-06-06T16:05:42.3322117+00:00"
+  "LastUpdate_Ratings": "2023-06-06T17:00:03.763821+00:00",
+  "LastUpdate_Achievements": "2023-06-06T17:06:30.5162218+00:00"
 }

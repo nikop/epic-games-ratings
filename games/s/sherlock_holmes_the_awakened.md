@@ -7,7 +7,7 @@
 | To Hell In A Handcart | 62.00% | ~235 |
 | Read Between The Lines | 61.00% | ~231 |
 | High Profile | 54.00% | ~205 |
-| Whispers In The Dark | 52.00% | ~197 |
+| Whispers In The Dark | 53.00% | ~201 |
 | Fond Memories | 49.00% | ~186 |
 | History Check | 47.00% | ~178 |
 | A Method To His Madness | 47.00% | ~178 |
@@ -26,7 +26,7 @@
 | Fhtagn! | 36.00% | ~136 |
 | Going Once... | 35.00% | ~133 |
 | Let Me Be Frank | 33.00% | ~125 |
-| Brain Food | 31.00% | ~117 |
+| Brain Food | 32.00% | ~121 |
 | No Stone Unturned | 30.00% | ~114 |
 | Curiosity Killed The Cat | 20.00% | ~76 |
 | Read It And Weep | 17.00% | ~64 |

@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1138,9 +1138,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 197
+      "UsersEstimate": 201
     },
     {
       "ID": "MQ03_1",
@@ -1242,9 +1242,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 121
     },
     {
       "ID": "MQ06_2",
@@ -1331,8 +1331,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-06T16:03:50.9508667+00:00",
+  "LastChanged_Achievements": "2023-06-06T17:04:11.8545898+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-06T15:57:13.2957006+00:00",
-  "LastUpdate_Achievements": "2023-06-06T16:03:50.9508946+00:00"
+  "LastUpdate_Ratings": "2023-06-06T16:57:23.5217107+00:00",
+  "LastUpdate_Achievements": "2023-06-06T17:04:11.8546194+00:00"
 }

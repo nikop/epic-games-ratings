@@ -5,17 +5,17 @@ Rating: 4.45 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 27.00% | ~628 |
+| Meeting Resistance | 27.00% | ~629 |
 | Confirming Suspicions | 22.00% | ~512 |
-| The Kraken Wakes | 17.00% | ~395 |
+| The Kraken Wakes | 17.00% | ~396 |
 | It's Starting to Crack | 15.00% | ~349 |
-| Lord of War | 13.00% | ~302 |
-| Change the Channel | 13.00% | ~302 |
+| Lord of War | 13.00% | ~303 |
+| Change the Channel | 13.00% | ~303 |
 | Resourceful | 12.00% | ~279 |
 | Taking it back | 11.00% | ~256 |
-| Organ Grinder | 9.00% | ~209 |
-| As Quiet as a Mouse | 9.00% | ~209 |
-| Target America | 9.00% | ~209 |
+| Organ Grinder | 9.00% | ~210 |
+| As Quiet as a Mouse | 9.00% | ~210 |
+| Target America | 9.00% | ~210 |
 | Just a Flesh Wound | 8.00% | ~186 |
 | Explosive Efficiency | 8.00% | ~186 |
 | Liberté | 7.00% | ~163 |
@@ -50,7 +50,7 @@ Rating: 4.45 (Ranked 616)
 | Siegebreaker | 0.70% | ~16 |
 | Last Resort | 0.60% | ~14 |
 | From Paris with Love | 0.50% | ~12 |
-| Burn after reading | 0.40% | ~9 |
+| Burn after reading | 0.50% | ~12 |
 | Souvenir hunter | 0.40% | ~9 |
 | Up close and personal | 0.40% | ~9 |
 | Shoot for the Moon | 0.40% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 616)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,326 (Ranked 147)  
+Progressed: 2,329 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-03 | 2,182 | 2 |
 | 2023-06-04 | 2,257 | 2 |
 | 2023-06-05 | 2,307 | 2 |
-| 2023-06-06 | 2,326 | 2 |
+| 2023-06-06 | 2,329 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

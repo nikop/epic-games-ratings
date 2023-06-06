@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 68.00% | ~90 |
-| Forced to Kill | 68.00% | ~90 |
+| Alone with Them | 68.00% | ~91 |
+| Forced to Kill | 67.00% | ~90 |
 | A Night To Remember | 36.00% | ~48 |
 | Safe...For now? | 30.00% | ~40 |
-| Open Sesame | 26.00% | ~35 |
+| Open Sesame | 25.00% | ~34 |
 | Them and Us | 16.00% | ~21 |
 | OUTRAGE | 16.00% | ~21 |
 | What have I done!? | 16.00% | ~21 |
@@ -16,36 +16,36 @@
 | This Coffin Has Your Name On It! | 13.00% | ~17 |
 | Alone In The Dark | 12.00% | ~16 |
 | Parasite Exterminated | 11.00% | ~15 |
-| The Forgotten Tower | 11.00% | ~15 |
 | Lover of classics | 10.00% | ~13 |
 | Rest In Peace | 10.00% | ~13 |
+| The Forgotten Tower | 10.00% | ~13 |
 | The Curse Is Real | 9.00% | ~12 |
 | Trapped | 8.00% | ~11 |
-| What A Mansion | 8.00% | ~11 |
 | Modern Player | 7.00% | ~9 |
+| What A Mansion | 7.00% | ~9 |
 | Researcher | 6.00% | ~8 |
 | I Am The Gate Keeper! | 6.00% | ~8 |
 | The bus stop | 4.00% | ~5 |
 | This Mansion Is Clean | 4.00% | ~5 |
 | Run and Gun | 3.00% | ~4 |
-| Armed To The Teeth | 2.00% | ~3 |
-| Back In Time | 2.00% | ~3 |
-| Box Of Ploutus | 2.00% | ~3 |
-| Retro Player | 2.00% | ~3 |
-| Spiritual essence well spent | 2.00% | ~3 |
-| Pet The Dog | 2.00% | ~3 |
-| Survival Hero | 2.00% | ~3 |
-| The 5th Element | 2.00% | ~3 |
-| Before The Eclipse | 0.80% | ~1 |
-| Chosen One | 0.80% | ~1 |
-| Die Another Day | 0.80% | ~1 |
-| Dressed to Kill | 0.80% | ~1 |
-| Life Of The Thousand Gods | 0.80% | ~1 |
-| Nightmare Over | 0.80% | ~1 |
-| No Time To Relax | 0.80% | ~1 |
-| Survival Horror | 0.80% | ~1 |
+| Armed To The Teeth | 1.00% | ~1 |
+| Back In Time | 1.00% | ~1 |
+| Box Of Ploutus | 1.00% | ~1 |
+| Retro Player | 1.00% | ~1 |
+| Spiritual essence well spent | 1.00% | ~1 |
+| Pet The Dog | 1.00% | ~1 |
+| Survival Hero | 1.00% | ~1 |
+| The 5th Element | 1.00% | ~1 |
+| Before The Eclipse | 0.70% | ~1 |
+| Chosen One | 0.70% | ~1 |
+| Die Another Day | 0.70% | ~1 |
+| Dressed to Kill | 0.70% | ~1 |
+| Life Of The Thousand Gods | 0.70% | ~1 |
+| Nightmare Over | 0.70% | ~1 |
+| No Time To Relax | 0.70% | ~1 |
+| Survival Horror | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 264)  
+Progressed: 134 (Ranked 264)  
 Completed: 1 (0.75%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 1 (0.75%) (Ranked 102)
 | 2023-06-01 | 131 | 1 |
 | 2023-06-04 | 132 | 1 |
 | 2023-06-05 | 133 | 1 |
+| 2023-06-06 | 134 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

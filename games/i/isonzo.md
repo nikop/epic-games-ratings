@@ -6,13 +6,13 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,291 |
-| Tutti Eroi! | 54.00% | ~3,291 |
-| You Shall Not Pass | 52.00% | ~3,169 |
+| Peak Performance | 54.00% | ~3,292 |
+| Tutti Eroi! | 54.00% | ~3,292 |
+| You Shall Not Pass | 52.00% | ~3,170 |
 | Avanti Savoia! | 46.00% | ~2,804 |
-| Conrad von Hotzensocks | 36.00% | ~2,194 |
-| Mamma Mia! | 36.00% | ~2,194 |
-| Gabriele D'Annunzio | 32.00% | ~1,950 |
+| Conrad von Hotzensocks | 36.00% | ~2,195 |
+| Mamma Mia! | 36.00% | ~2,195 |
+| Gabriele D'Annunzio | 32.00% | ~1,951 |
 | Silver Lining | 28.00% | ~1,707 |
 | Aurelio Baruzzi | 22.00% | ~1,341 |
 | Veni Vidi Vici | 22.00% | ~1,341 |
@@ -26,10 +26,10 @@ Number of Ratings: 98  (23.09.2022)
 | Dirty Dozen | 13.00% | ~792 |
 | Luigi Cadorna | 13.00% | ~792 |
 | Uomo Universale | 13.00% | ~792 |
-| Machiavelli | 12.00% | ~731 |
-| Shaken, Not Stirred | 12.00% | ~731 |
-| Die Bosniaken Kommen! | 11.00% | ~670 |
-| The Devil's Paintbrush | 11.00% | ~670 |
+| Machiavelli | 12.00% | ~732 |
+| Shaken, Not Stirred | 12.00% | ~732 |
+| Die Bosniaken Kommen! | 11.00% | ~671 |
+| The Devil's Paintbrush | 11.00% | ~671 |
 | Dante's Inferno | 10.00% | ~610 |
 | I Have the High Ground | 9.00% | ~549 |
 | Millenial | 9.00% | ~549 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~24 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,095 (Ranked 123)  
+Progressed: 6,096 (Ranked 123)  
 Completed: 8 (0.13%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,11 +96,11 @@ Completed: 8 (0.13%) (Ranked 160)
 | 2023-06-03 | 6,048 | 8 |
 | 2023-06-04 | 6,072 | 8 |
 | 2023-06-05 | 6,088 | 8 |
-| 2023-06-06 | 6,095 | 8 |
+| 2023-06-06 | 6,096 | 8 |
 ## Awards
-Max (Highly Recommended): 31  (Ranked 443)  
+Max (Highly Recommended): 31  (Ranked 444)  
 Sum: 241 (Ranked 344)  
-Diff (max vs sum): 99  
+Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |

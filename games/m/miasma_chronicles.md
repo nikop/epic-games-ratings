@@ -18,13 +18,13 @@ Rating: 4.35 (Ranked 726)
 | Editor Adept | 36.00% | ~374 |
 | Firestarter | 36.00% | ~374 |
 | Giant Killer | 32.00% | ~332 |
-| Sensei | 31.00% | ~322 |
+| Sensei | 32.00% | ~332 |
 | The meaning of Kain | 29.00% | ~301 |
 | Technophobe | 26.00% | ~270 |
 | Recycler | 24.00% | ~249 |
 | Are you not entertained? | 20.00% | ~208 |
+| Ganglord | 20.00% | ~208 |
 | Jarhead | 20.00% | ~208 |
-| Ganglord | 19.00% | ~197 |
 | Chain Killer | 18.00% | ~187 |
 | Infiltrator | 18.00% | ~187 |
 | Pushing Daisy | 18.00% | ~187 |

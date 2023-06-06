@@ -22,6 +22,7 @@
 | Collateral Damage I | 9.00% | ~3 |
 | Hoarder | 6.00% | ~2 |
 | Defrosted | 6.00% | ~2 |
+| Galactic Cadet | 6.00% | ~2 |
 | Bronze Foundation | 3.00% | ~1 |
 | System Ensign | 3.00% | ~1 |
 | Sectoral Ensign | 3.00% | ~1 |
@@ -49,7 +50,6 @@
 | Flower Power | 3.00% | ~1 |
 | 25Gb HDD | 3.00% | ~1 |
 | 50Gb HDD | 3.00% | ~1 |
-| Galactic Cadet | 3.00% | ~1 |
 | Galactic Lieutenant | 3.00% | ~1 |
 | Silver Prince of Ball-air | 3.00% | ~1 |
 | Silver Foundation | 3.00% | ~1 |

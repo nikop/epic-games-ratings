@@ -178,9 +178,9 @@
       "ID": "ach_14",
       "SetID": "392n4e7",
       "Name": "Senior Lieutenant Baran",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_15",
@@ -320,8 +320,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-06-06T16:05:12.7292707+00:00",
+  "LastChanged_Achievements": "2023-06-06T17:05:55.403833+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.7512289+00:00",
-  "LastUpdate_Ratings": "2023-06-06T15:57:53.090329+00:00",
-  "LastUpdate_Achievements": "2023-06-06T16:05:12.7292881+00:00"
+  "LastUpdate_Ratings": "2023-06-06T16:58:17.6286587+00:00",
+  "LastUpdate_Achievements": "2023-06-06T17:05:55.4038462+00:00"
 }

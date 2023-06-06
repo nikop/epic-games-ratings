@@ -7,7 +7,7 @@ Rating: 4.18 (Ranked 840)
 | ---- | ---------- | ----- |
 | Flesh Wound | 12.00% | ~1,754 |
 | The Outer Way | 11.00% | ~1,608 |
-| Desperate Times | 10.00% | ~1,461 |
+| Desperate Times | 10.00% | ~1,462 |
 | Paper Jams | 9.00% | ~1,315 |
 | Chew 'Em Up | 8.00% | ~1,169 |
 | Reforged | 8.00% | ~1,169 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,614 (Ranked 103)  
+Progressed: 14,616 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,18 +92,18 @@ Completed: 54 (0.37%) (Ranked 119)
 | 2023-06-03 | 14,412 | 53 |
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
-| 2023-06-06 | 14,614 | 54 |
+| 2023-06-06 | 14,616 | 54 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
-Sum: 287 (Ranked 329)  
-Diff (max vs sum): 61  
+Sum: 291 (Ranked 328)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |
 | This game has Amazing Storytelling | 50 |
+| This game has Quickly Understood Controls | 46 |
 | This game has Amazing Characters | 46 |
 | This game is Extremely Fun | 44 |
-| This game has Quickly Understood Controls | 42 |
 | This game has Challenging Combat | 35 |
 | This game has a Creative Community | 20 |
 ## Ratings History
@@ -166,3 +166,4 @@ Diff (max vs sum): 61
 | 2023-06-01 | 4.18 | 50 | 282 |
 | 2023-06-02 | 4.18 | 50 | 284 |
 | 2023-06-03 | 4.18 | 50 | 287 |
+| 2023-06-06 | 4.18 | 50 | 291 |

@@ -5,32 +5,32 @@ Rating: 4.64 (Ranked 314)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~3,837 |
-| All thumbs | 91.00% | ~3,796 |
-| I will survive! | 91.00% | ~3,796 |
-| Home, sweet home | 89.00% | ~3,712 |
-| Survivalist | 87.00% | ~3,629 |
-| One way ticket | 83.00% | ~3,462 |
+| Prepper | 92.00% | ~3,838 |
+| All thumbs | 91.00% | ~3,797 |
+| I will survive! | 91.00% | ~3,797 |
+| Home, sweet home | 89.00% | ~3,713 |
+| Survivalist | 88.00% | ~3,671 |
+| One way ticket | 83.00% | ~3,463 |
 | Last man standing | 77.00% | ~3,212 |
-| Family guy | 75.00% | ~3,128 |
-| Out of the Bag | 72.00% | ~3,003 |
+| Family guy | 75.00% | ~3,129 |
+| Out of the Bag | 72.00% | ~3,004 |
 | The Dark Side | 67.00% | ~2,795 |
-| Duck and cover! | 62.00% | ~2,586 |
-| Souper! | 61.00% | ~2,544 |
+| Duck and cover! | 62.00% | ~2,587 |
+| Souper! | 61.00% | ~2,545 |
 | Pacifist | 56.00% | ~2,336 |
-| 2-1-6 | 54.00% | ~2,252 |
+| 2-1-6 | 54.00% | ~2,253 |
 | A gift | 50.00% | ~2,086 |
-| Girl Power | 44.00% | ~1,835 |
-| What goes around... | 40.00% | ~1,668 |
+| Girl Power | 44.00% | ~1,836 |
+| What goes around... | 40.00% | ~1,669 |
 | Be Prepared | 35.00% | ~1,460 |
 | Unbreakable | 34.00% | ~1,418 |
 | Atomic drill | 32.00% | ~1,335 |
 | This is the end | 32.00% | ~1,335 |
-| Gotta get 'em all | 30.00% | ~1,251 |
-| Disco Roach | 26.00% | ~1,084 |
-| Dawkins Residence | 19.00% | ~792 |
-| Rescue time! | 16.00% | ~667 |
-| New species | 16.00% | ~667 |
+| Gotta get 'em all | 30.00% | ~1,252 |
+| Disco Roach | 26.00% | ~1,085 |
+| Dawkins Residence | 19.00% | ~793 |
+| Rescue time! | 16.00% | ~668 |
+| New species | 16.00% | ~668 |
 | New order | 15.00% | ~626 |
 | A New Hope | 14.00% | ~584 |
 | Enigma | 14.00% | ~584 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 314)
 | Miracle | 0.20% | ~8 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,171 (Ranked 130)  
+Progressed: 4,172 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 4,146 | 0 |
 | 2023-06-04 | 4,159 | 0 |
 | 2023-06-05 | 4,167 | 0 |
-| 2023-06-06 | 4,171 | 0 |
+| 2023-06-06 | 4,172 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
