@@ -295,6 +295,7 @@
 | [R-Type Tactics I - II Cosmos](games/r/r-type_tactics_i_-_ii_cosmos.md) | 2099-01-01 | - |  | - | - |
 | [Ravenswatch](games/r/ravenswatch.md) | 2099-01-01 | - |  | - | - |
 | [Relic Space](games/r/relic_space.md) | 2099-01-01 | - |  | - | - |
+| [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2099-01-01 | - |  | - | - |
 | [Robobeat](games/r/robobeat.md) | 2099-01-01 | - |  | - | - |
 | [Runa and the Chaikuru Legacy](games/r/runa_and_the_chaikuru_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Saviorless](games/s/saviorless.md) | 2099-01-01 | - |  | - | - |

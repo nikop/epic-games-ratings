@@ -24,7 +24,7 @@
 | 22 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 23 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.63% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
 | 26 | [Scorn](games/s/scorn.md) | 6.87% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.77% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.55% |
@@ -43,8 +43,8 @@
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.28% |
-| 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.22% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.22% |
+| 45 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
 | 46 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.20% |
 | 47 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
@@ -114,7 +114,7 @@
 | 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
 | 113 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 113 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
-| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
+| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 117 | [Potion Permit](games/p/potion_permit.md) | 0.44% |
 | 118 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
@@ -432,4 +432,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,732 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,733 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
