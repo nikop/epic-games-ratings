@@ -670,9 +670,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "scoreminrankrp1",
@@ -727,8 +727,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-06T15:04:18.3180779+00:00",
+  "LastChanged_Achievements": "2023-06-06T16:03:32.1327391+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-06T14:59:29.3346408+00:00",
-  "LastUpdate_Achievements": "2023-06-06T15:04:18.3181001+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:58:31.9591458+00:00",
+  "LastUpdate_Achievements": "2023-06-06T16:03:32.132756+00:00"
 }

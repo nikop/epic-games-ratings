@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14609,
+  "EOS_Progressed": 14614,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2940,6 +2940,11 @@
       "Time": "2023-06-06T15:04:52.1083113+00:00",
       "NumProgressed": 14609,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-06T16:03:55.5388466+00:00",
+      "NumProgressed": 14614,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -2983,7 +2988,7 @@
       "Name": "Flesh Wound",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3055,7 +3060,7 @@
       "Name": "Get a Grip",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3071,7 +3076,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3087,7 +3092,7 @@
       "Name": "Terminated",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3111,7 +3116,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3143,7 +3148,7 @@
       "Name": "The Outer Way",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3159,7 +3164,7 @@
       "Name": "Without A Paddle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "STORY_HANGAR",
@@ -3167,7 +3172,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "STORY_MINETOWN",
@@ -3191,7 +3196,7 @@
       "Name": "Crash Site",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "STORY_TOWER",
@@ -3223,7 +3228,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3231,7 +3236,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3270,13 +3275,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14609,
+      "Progressed": 14614,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2535,
+      "Progressed": 2540,
       "Completed": 29
     }
   ],
@@ -3284,8 +3289,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-06T15:04:52.1083105+00:00",
+  "LastChanged_Achievements": "2023-06-06T16:03:55.538846+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-06T14:58:19.2377699+00:00",
-  "LastUpdate_Achievements": "2023-06-06T15:04:52.1083913+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:57:43.7288829+00:00",
+  "LastUpdate_Achievements": "2023-06-06T16:03:55.5388969+00:00"
 }

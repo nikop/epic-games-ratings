@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | First Blood | 82.00% | ~27 |
 | Killing Spree | 67.00% | ~22 |
-| 5Gb HDD | 42.00% | ~14 |
-| Merchant Prince I | 39.00% | ~13 |
-| Dominating | 27.00% | ~9 |
-| Fighting Fit I | 21.00% | ~7 |
-| Rambo I | 18.00% | ~6 |
+| 5Gb HDD | 45.00% | ~15 |
+| Merchant Prince I | 42.00% | ~14 |
+| Dominating | 30.00% | ~10 |
+| Fighting Fit I | 24.00% | ~8 |
+| Rambo I | 21.00% | ~7 |
 | The Vette | 18.00% | ~6 |
+| 10Gb HDD | 18.00% | ~6 |
 | Mega Kill | 15.00% | ~5 |
-| 10Gb HDD | 15.00% | ~5 |
 | Stoic | 12.00% | ~4 |
 | Almost There I | 12.00% | ~4 |
 | Bronze Prince of Ball-air | 9.00% | ~3 |

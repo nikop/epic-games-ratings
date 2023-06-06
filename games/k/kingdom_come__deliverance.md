@@ -6,24 +6,24 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~243,565 |
-| Cavalier | 25.00% | ~196,424 |
-| Fatso | 23.00% | ~180,710 |
-| Awakening | 20.00% | ~157,139 |
-| Ranger | 20.00% | ~157,139 |
-| Scrooge | 20.00% | ~157,139 |
-| Anorectic | 16.00% | ~125,711 |
-| Firestarter | 15.00% | ~117,854 |
-| Bookworm | 14.00% | ~109,997 |
-| Insomniac | 13.00% | ~102,140 |
-| Buddy | 11.00% | ~86,426 |
-| Sinner | 11.00% | ~86,426 |
-| Thief | 11.00% | ~86,426 |
-| Convict | 10.00% | ~78,569 |
-| Traveller | 10.00% | ~78,569 |
-| Haggler | 9.00% | ~70,712 |
-| McLovin | 7.00% | ~54,999 |
-| Runt | 7.00% | ~54,999 |
+| Blacksmith's Son | 31.00% | ~243,569 |
+| Cavalier | 25.00% | ~196,427 |
+| Fatso | 23.00% | ~180,713 |
+| Awakening | 20.00% | ~157,142 |
+| Ranger | 20.00% | ~157,142 |
+| Scrooge | 20.00% | ~157,142 |
+| Anorectic | 16.00% | ~125,713 |
+| Firestarter | 15.00% | ~117,856 |
+| Bookworm | 14.00% | ~109,999 |
+| Insomniac | 13.00% | ~102,142 |
+| Buddy | 11.00% | ~86,428 |
+| Sinner | 11.00% | ~86,428 |
+| Thief | 11.00% | ~86,428 |
+| Convict | 10.00% | ~78,571 |
+| Traveller | 10.00% | ~78,571 |
+| Haggler | 9.00% | ~70,714 |
+| McLovin | 7.00% | ~55,000 |
+| Runt | 7.00% | ~55,000 |
 | Casanova | 6.00% | ~47,142 |
 | Bad Trip | 5.00% | ~39,285 |
 | Monk | 5.00% | ~39,285 |
@@ -58,7 +58,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Saviour | 0.70% | ~5,500 |
 | Edward Kelly | 0.60% | ~4,714 |
 | Fighter | 0.60% | ~4,714 |
-| I Can Quit Anytime | 0.50% | ~3,928 |
+| I Can Quit Anytime | 0.50% | ~3,929 |
 | Perfectionist | 0.40% | ~3,143 |
 | Alcoholic | 0.30% | ~2,357 |
 | Sniper | 0.30% | ~2,357 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~786 |
 | Wingman | 0.10% | ~786 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 785,694 (Ranked 14)  
+Progressed: 785,708 (Ranked 14)  
 Completed: 40 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 40 (0.01%) (Ranked 201)
 | 2023-06-03 | 785,166 | 40 |
 | 2023-06-04 | 785,419 | 40 |
 | 2023-06-05 | 785,610 | 40 |
-| 2023-06-06 | 785,694 | 40 |
+| 2023-06-06 | 785,708 | 40 |
 ## Awards
 Max (Character Customization): 7,225  (Ranked 45)  
 Sum: 27,000 (Ranked 43)  

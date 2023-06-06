@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 360,
-  "Ranking_Popularity": 401,
-  "Ranking_PopularitySum": 442,
+  "Ranking_Popularity": 399,
+  "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -380,23 +380,29 @@
       "Rating": 4.61,
       "NumberOfAwards": 46,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-06-06T15:58:06.1078538+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 47,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46,
-  "NumberOfAwardsMax": 46,
+  "NumberOfAwards": 47,
+  "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 46
+      "Count": 47
     }
   ],
-  "EOS_Progressed": 7828,
+  "EOS_Progressed": 7829,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3704,6 +3710,11 @@
       "Time": "2023-06-06T15:02:10.1287232+00:00",
       "NumProgressed": 7828,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-06T16:00:18.9540327+00:00",
+      "NumProgressed": 7829,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 34,
@@ -3891,7 +3902,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "ACH24",
@@ -3986,16 +3997,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7828,
+      "Progressed": 7829,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-06-05T13:58:57.5083639+00:00",
-  "LastChanged_Achievements": "2023-06-06T15:02:10.1287223+00:00",
+  "LastChanged": "2023-06-06T15:58:06.1078536+00:00",
+  "LastChanged_Achievements": "2023-06-06T16:00:18.954032+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.8139479+00:00",
-  "LastUpdate_Ratings": "2023-06-06T14:58:50.244052+00:00",
-  "LastUpdate_Achievements": "2023-06-06T15:02:10.1288003+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:58:06.1078542+00:00",
+  "LastUpdate_Achievements": "2023-06-06T16:00:18.9540769+00:00"
 }

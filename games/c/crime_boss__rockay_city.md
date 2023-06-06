@@ -5,24 +5,24 @@ Rating: 3.93 (Ranked 911)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~48,266 |
-| First One’s Free | 65.00% | ~42,396 |
-| Neophyte Ninja | 50.00% | ~32,612 |
-| Too Old for This | 47.00% | ~30,655 |
-| Fancy Pants | 35.00% | ~22,828 |
-| Case Closed | 34.00% | ~22,176 |
-| King of the Hill | 34.00% | ~22,176 |
-| Underworld Initiate | 29.00% | ~18,915 |
-| Roid Ranger | 21.00% | ~13,697 |
+| Downed but Not Outed | 74.00% | ~48,269 |
+| First One’s Free | 65.00% | ~42,398 |
+| Neophyte Ninja | 50.00% | ~32,614 |
+| Too Old for This | 47.00% | ~30,657 |
+| Fancy Pants | 35.00% | ~22,830 |
+| Case Closed | 34.00% | ~22,178 |
+| King of the Hill | 34.00% | ~22,178 |
+| Underworld Initiate | 29.00% | ~18,916 |
+| Roid Ranger | 21.00% | ~13,698 |
 | True Player | 19.00% | ~12,393 |
 | Off the Rocks | 19.00% | ~12,393 |
 | Raider’s Ruin | 16.00% | ~10,436 |
 | Dragonslayer | 16.00% | ~10,436 |
-| Hidden Sonata | 13.00% | ~8,479 |
+| Hidden Sonata | 13.00% | ~8,480 |
 | Rockay Rex | 11.00% | ~7,175 |
-| Freebooter | 10.00% | ~6,522 |
-| Track Star | 9.00% | ~5,870 |
-| Classy Joint | 9.00% | ~5,870 |
+| Freebooter | 10.00% | ~6,523 |
+| Track Star | 9.00% | ~5,871 |
+| Classy Joint | 9.00% | ~5,871 |
 | I Like Trains | 8.00% | ~5,218 |
 | Headhunter | 8.00% | ~5,218 |
 | Ding Dong | 8.00% | ~5,218 |
@@ -35,15 +35,15 @@ Rating: 3.93 (Ranked 911)
 | Red Star | 4.00% | ~2,609 |
 | Privateer | 3.00% | ~1,957 |
 | Groundhog Days | 3.00% | ~1,957 |
-| Rockay Raider | 2.00% | ~1,304 |
-| Moneybags | 2.00% | ~1,304 |
-| Impossible Dreamer | 2.00% | ~1,304 |
+| Rockay Raider | 2.00% | ~1,305 |
+| Moneybags | 2.00% | ~1,305 |
+| Impossible Dreamer | 2.00% | ~1,305 |
 | Rockay Knight | 1.00% | ~652 |
 | Talent Scout | 1.00% | ~652 |
 | Geek Out | 0.50% | ~326 |
 | Full House | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,224 (Ranked 68)  
+Progressed: 65,228 (Ranked 68)  
 Completed: 31 (0.05%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 31 (0.05%) (Ranked 182)
 | 2023-06-03 | 64,787 | 31 |
 | 2023-06-04 | 65,003 | 31 |
 | 2023-06-05 | 65,132 | 31 |
-| 2023-06-06 | 65,224 | 31 |
+| 2023-06-06 | 65,228 | 31 |
 ## Awards
 Max (Diverse Characters): 318  (Ranked 222)  
 Sum: 1,496 (Ranked 211)  

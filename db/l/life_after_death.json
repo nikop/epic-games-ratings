@@ -227,9 +227,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "c98563l",
       "Name": "There is always a first time!!!",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -259,9 +259,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "c98563l",
       "Name": "Sometimes is better think twice!!!!",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -529,8 +529,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2023-06-06T15:03:29.6743603+00:00",
+  "LastChanged_Achievements": "2023-06-06T16:02:35.2661732+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:45.9987877+00:00",
-  "LastUpdate_Ratings": "2023-06-06T15:00:15.9003841+00:00",
-  "LastUpdate_Achievements": "2023-06-06T15:03:29.6744651+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:59:03.8133433+00:00",
+  "LastUpdate_Achievements": "2023-06-06T16:02:35.2662292+00:00"
 }

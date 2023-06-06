@@ -19,9 +19,9 @@ Rating: 4.24 (Ranked 800)
 | Luminary | 22.00% | ~377 |
 | It's a Trap | 22.00% | ~377 |
 | True Survivor | 21.00% | ~360 |
+| Shocking | 20.00% | ~343 |
 | Court Martial | 19.00% | ~326 |
 | Offensive Defense | 19.00% | ~326 |
-| Shocking | 19.00% | ~326 |
 | Unforeseeable Consequences | 19.00% | ~326 |
 | Clean Cut | 18.00% | ~309 |
 | Dead Again | 17.00% | ~291 |
@@ -29,10 +29,10 @@ Rating: 4.24 (Ranked 800)
 | Can't Trust Banks | 15.00% | ~257 |
 | Mommy Dearest | 13.00% | ~223 |
 | Bad Dog | 13.00% | ~223 |
+| Where It All Began | 13.00% | ~223 |
 | Risk Tolerant | 13.00% | ~223 |
 | What A Catchy Song | 13.00% | ~223 |
 | Marked For Success | 12.00% | ~206 |
-| Where It All Began | 12.00% | ~206 |
 | Sorry, Didn't See You There | 12.00% | ~206 |
 | Corrupted Beauty | 11.00% | ~189 |
 | Triplets | 10.00% | ~171 |

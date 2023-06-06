@@ -11,11 +11,11 @@ Rating: 4.35 (Ranked 726)
 | Gun for Hire | 67.00% | ~695 |
 | I am the law! | 59.00% | ~612 |
 | Lumberjack | 44.00% | ~457 |
-| Croaked | 39.00% | ~405 |
+| Croaked | 40.00% | ~415 |
 | Limp Richard | 38.00% | ~394 |
 | From Darkness to Light | 38.00% | ~394 |
+| Exorcist | 37.00% | ~384 |
 | Editor Adept | 36.00% | ~374 |
-| Exorcist | 36.00% | ~374 |
 | Firestarter | 36.00% | ~374 |
 | Giant Killer | 32.00% | ~332 |
 | Sensei | 31.00% | ~322 |
@@ -23,8 +23,8 @@ Rating: 4.35 (Ranked 726)
 | Technophobe | 26.00% | ~270 |
 | Recycler | 24.00% | ~249 |
 | Are you not entertained? | 20.00% | ~208 |
+| Jarhead | 20.00% | ~208 |
 | Ganglord | 19.00% | ~197 |
-| Jarhead | 19.00% | ~197 |
 | Chain Killer | 18.00% | ~187 |
 | Infiltrator | 18.00% | ~187 |
 | Pushing Daisy | 18.00% | ~187 |
@@ -36,9 +36,9 @@ Rating: 4.35 (Ranked 726)
 | Savior | 12.00% | ~125 |
 | The Watchers | 12.00% | ~125 |
 | Ruthless | 11.00% | ~114 |
+| Dr Jones | 9.00% | ~93 |
 | Chaos Theory | 8.00% | ~83 |
 | Commando | 8.00% | ~83 |
-| Dr Jones | 8.00% | ~83 |
 | Chain Reaction | 7.00% | ~73 |
 | Curveball | 6.00% | ~62 |
 | Wipe Out | 6.00% | ~62 |

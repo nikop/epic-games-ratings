@@ -1453,9 +1453,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 415
     },
     {
       "ID": "CRUELTY",
@@ -1493,9 +1493,9 @@
       "ID": "DIFFERENTLY_ABLED",
       "SetID": "9a4jnji",
       "Name": "Jarhead",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 208
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -1509,9 +1509,9 @@
       "ID": "DR_JONES",
       "SetID": "9a4jnji",
       "Name": "Dr Jones",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 93
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -1533,9 +1533,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 384
     },
     {
       "ID": "EXPERIENCED",
@@ -1790,8 +1790,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-06T15:03:25.7493392+00:00",
+  "LastChanged_Achievements": "2023-06-06T16:02:32.5360858+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-06T14:58:52.359191+00:00",
-  "LastUpdate_Achievements": "2023-06-06T15:03:25.7494259+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:58:07.9090724+00:00",
+  "LastUpdate_Achievements": "2023-06-06T16:02:32.5361353+00:00"
 }

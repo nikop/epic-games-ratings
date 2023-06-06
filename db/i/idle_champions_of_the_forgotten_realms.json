@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4138,10 +4138,10 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 89946,
-  "EOS_Completed": 1918,
-  "EOS_NewPlayers": 731,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 89951,
+  "EOS_Completed": 1919,
+  "EOS_NewPlayers": 733,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8898,6 +8898,11 @@
       "Time": "2023-06-06T15:07:33.4906168+00:00",
       "NumProgressed": 89946,
       "NumCompleted": 1918
+    },
+    {
+      "Time": "2023-06-06T16:05:48.9390113+00:00",
+      "NumProgressed": 89951,
+      "NumCompleted": 1919
     }
   ],
   "TotalAchievements": 493,
@@ -9267,9 +9272,9 @@
       "ID": "objective_completed_1097",
       "SetID": "415jc5c",
       "Name": "Bully for You!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_11",
@@ -10581,7 +10586,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "objective_completed_34",
@@ -11699,9 +11704,9 @@
       "ID": "objective_completed_633",
       "SetID": "415jc5c",
       "Name": "Hearts Aflame",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 169
     },
     {
       "ID": "objective_completed_635",
@@ -12651,9 +12656,9 @@
       "ID": "objective_completed_9",
       "SetID": "cc37lbc",
       "Name": "Pure Energy",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_902",
@@ -12852,21 +12857,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56220,
+      "Progressed": 56225,
       "Completed": 2774
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89946,
-      "Completed": 1918
+      "Progressed": 89951,
+      "Completed": 1919
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T13:58:26.881905+00:00",
-  "LastChanged_Achievements": "2023-06-06T15:07:33.490616+00:00",
+  "LastChanged_Achievements": "2023-06-06T16:05:48.9390106+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-06T14:58:33.6184904+00:00",
-  "LastUpdate_Achievements": "2023-06-06T15:07:33.4935088+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:57:52.48503+00:00",
+  "LastUpdate_Achievements": "2023-06-06T16:05:48.9418015+00:00"
 }

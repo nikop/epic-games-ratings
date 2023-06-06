@@ -8,6 +8,8 @@
 | The Steel Shadow | 1.00% | ~6 |
 | Treasure Trove | 1.00% | ~6 |
 | Like Clockwork | 1.00% | ~6 |
+| Street Style | 1.00% | ~6 |
+| Family Memories | 1.00% | ~6 |
 | The Man Who Shattered Time | 1.00% | ~6 |
 | The Loose Cannon | 1.00% | ~6 |
 | Make Up For Lost Time | 1.00% | ~6 |
@@ -15,41 +17,39 @@
 | No, Thanks! | 1.00% | ~6 |
 | Breaking Down Barriers | 1.00% | ~6 |
 | The Prince in Heels | 1.00% | ~6 |
+| Fast Learner | 1.00% | ~6 |
 | Sump Explorer | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
-| Street Style | 0.80% | ~5 |
-| Family Memories | 0.80% | ~5 |
+| Whiz Kid | 0.80% | ~5 |
 | The Harder They Fall | 0.80% | ~5 |
+| The Wicked Twins | 0.80% | ~5 |
 | Time Heals All Wounds | 0.80% | ~5 |
 | Golem Chaser | 0.80% | ~5 |
-| Fast Learner | 0.80% | ~5 |
+| Immaculate Aim | 0.80% | ~5 |
 | The Family Fortune | 0.80% | ~5 |
 | The Mysterious Stranger | 0.70% | ~4 |
-| Whiz Kid | 0.70% | ~4 |
+| The Betrayer | 0.70% | ~4 |
 | Rail Rat | 0.70% | ~4 |
+| Time Flies | 0.70% | ~4 |
 | Syron for Hope | 0.70% | ~4 |
-| Immaculate Aim | 0.70% | ~4 |
+| The Brass Boss | 0.70% | ~4 |
 | Corin Goes Home | 0.50% | ~3 |
 | Sartorialist | 0.50% | ~3 |
-| Time Flies | 0.50% | ~3 |
-| The Wicked Twins | 0.50% | ~3 |
+| Honest Mistake | 0.50% | ~3 |
 | Golem Hunter | 0.50% | ~3 |
+| Check Your Pulse | 0.50% | ~3 |
 | Theater Explorer | 0.50% | ~3 |
 | Good Neighbor | 0.50% | ~3 |
-| The Brass Boss | 0.50% | ~3 |
+| Chaincrawler Explorer | 0.30% | ~2 |
 | Right On Time | 0.30% | ~2 |
 | Cultivair Explorer | 0.30% | ~2 |
 | Entresol Explorer | 0.30% | ~2 |
 | Factorywood Explorer | 0.30% | ~2 |
 | Fairgrounds Explorer | 0.30% | ~2 |
-| The Betrayer | 0.30% | ~2 |
-| Honest Mistake | 0.30% | ~2 |
 | Rungs Was Right | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |
 | Hexlock for Protection | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |
-| Check Your Pulse | 0.20% | ~1 |
-| Chaincrawler Explorer | 0.00% | ~0 |
 | Clovemary for Remembering | 0.00% | ~0 |
 | Wunderkind | 0.00% | ~0 |
 | Fitting In | 0.00% | ~0 |

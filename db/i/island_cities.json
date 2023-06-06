@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 278,
-  "EOS_Completed": 41,
-  "EOS_NewPlayers": 70,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 14.75,
+  "EOS_Progressed": 279,
+  "EOS_Completed": 42,
+  "EOS_NewPlayers": 69,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 15.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1233,6 +1233,11 @@
       "Time": "2023-06-06T15:06:48.7420154+00:00",
       "NumProgressed": 278,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-06-06T16:05:16.0024518+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 22,
@@ -1242,9 +1247,9 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 270
+      "UsersEstimate": 273
     },
     {
       "ID": "LEVEL_002",
@@ -1252,7 +1257,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "LEVEL_003",
@@ -1276,7 +1281,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "LEVEL_006",
@@ -1290,9 +1295,9 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "LEVEL_008",
@@ -1346,9 +1351,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "LEVEL_015",
@@ -1378,9 +1383,9 @@
       "ID": "LEVEL_018",
       "SetID": "3khpmem",
       "Name": "Le jardin magnifique",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "LEVEL_019",
@@ -1419,16 +1424,16 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 278,
-      "Completed": 41
+      "Progressed": 279,
+      "Completed": 42
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-06T15:06:48.7420144+00:00",
+  "LastChanged_Achievements": "2023-06-06T16:05:16.0024512+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-06T14:58:31.7101349+00:00",
-  "LastUpdate_Achievements": "2023-06-06T15:06:48.7420515+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:57:51.3149852+00:00",
+  "LastUpdate_Achievements": "2023-06-06T16:05:16.0024765+00:00"
 }

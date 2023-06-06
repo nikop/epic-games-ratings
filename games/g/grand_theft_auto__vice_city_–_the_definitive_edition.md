@@ -7,7 +7,7 @@ Rating: 4.61 (Ranked 360)
 | ---- | ---------- | ----- |
 | Legal Counsel | 43.00% | ~3,366 |
 | Greasy Palms | 39.00% | ~3,053 |
-| South American Connection | 23.00% | ~1,800 |
+| South American Connection | 23.00% | ~1,801 |
 | Life of the Party | 18.00% | ~1,409 |
 | Big Heat from Little Havana | 13.00% | ~1,018 |
 | Chauffeur | 13.00% | ~1,018 |
@@ -40,7 +40,7 @@ Rating: 4.61 (Ranked 360)
 | Done it All | 0.60% | ~47 |
 | Kingpin | 0.30% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,828 (Ranked 114)  
+Progressed: 7,829 (Ranked 114)  
 Completed: 25 (0.32%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,14 +87,14 @@ Completed: 25 (0.32%) (Ranked 125)
 | 2023-06-03 | 7,608 | 25 |
 | 2023-06-04 | 7,715 | 25 |
 | 2023-06-05 | 7,784 | 25 |
-| 2023-06-06 | 7,828 | 25 |
+| 2023-06-06 | 7,829 | 25 |
 ## Awards
-Max (Great Boss Battles): 46  (Ranked 401)  
-Sum: 46 (Ranked 442)  
-Diff (max vs sum): -41  
+Max (Great Boss Battles): 47  (Ranked 399)  
+Sum: 47 (Ranked 441)  
+Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 46 |
+| This game has Great Boss Battles | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -160,3 +160,4 @@ Diff (max vs sum): -41
 | 2023-06-02 | 4.64 | 42 | 42 |
 | 2023-06-04 | 4.62 | 43 | 43 |
 | 2023-06-05 | 4.61 | 46 | 46 |
+| 2023-06-06 | 4.61 | 47 | 47 |

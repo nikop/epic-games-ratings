@@ -5,19 +5,19 @@ Rating: 4.60 (Ranked 385)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~7,759 |
-| Pay 'n' Spray | 48.00% | ~4,656 |
-| All Dressed Up for San Fierro | 23.00% | ~2,231 |
-| The American Dream | 17.00% | ~1,649 |
-| School's Out | 15.00% | ~1,455 |
-| Smooth Moves | 15.00% | ~1,455 |
-| Today Was a Good Day | 13.00% | ~1,261 |
-| What happens in Las Venturas... | 12.00% | ~1,164 |
+| Getting Started | 80.00% | ~7,764 |
+| Pay 'n' Spray | 48.00% | ~4,658 |
+| All Dressed Up for San Fierro | 23.00% | ~2,232 |
+| The American Dream | 17.00% | ~1,650 |
+| School's Out | 15.00% | ~1,456 |
+| Smooth Moves | 15.00% | ~1,456 |
+| Today Was a Good Day | 13.00% | ~1,262 |
+| What happens in Las Venturas... | 12.00% | ~1,165 |
 | Horror of the Santa Maria | 9.00% | ~873 |
 | Liberty City State of Mind | 7.00% | ~679 |
 | With Extra Dip | 6.00% | ~582 |
+| The End of the Line | 6.00% | ~582 |
 | Original Gangster | 6.00% | ~582 |
-| The End of the Line | 5.00% | ~485 |
 | Saviour | 5.00% | ~485 |
 | Rescue a Kitten Too? | 4.00% | ~388 |
 | They Can’t Stop All of Us | 3.00% | ~291 |
@@ -37,11 +37,11 @@ Rating: 4.60 (Ranked 385)
 | Lucky Spinner | 0.80% | ~78 |
 | Hoopin' it Up | 0.70% | ~68 |
 | Not a Player | 0.60% | ~58 |
-| Remastered | 0.50% | ~48 |
+| Remastered | 0.50% | ~49 |
 | ...Here we go again | 0.20% | ~19 |
 | I Ain't No Buster | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,699 (Ranked 110)  
+Progressed: 9,705 (Ranked 110)  
 Completed: 17 (0.18%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 17 (0.18%) (Ranked 148)
 | 2023-06-03 | 9,408 | 17 |
 | 2023-06-04 | 9,539 | 17 |
 | 2023-06-05 | 9,646 | 17 |
-| 2023-06-06 | 9,699 | 17 |
+| 2023-06-06 | 9,705 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

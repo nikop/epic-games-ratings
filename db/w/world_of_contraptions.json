@@ -380,9 +380,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-06-06T15:06:46.3620486+00:00",
+  "LastChanged_Achievements": "2023-06-06T16:05:14.2862619+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:23.2883348+00:00",
-  "LastUpdate_Ratings": "2023-06-06T14:58:46.188364+00:00",
-  "LastUpdate_Achievements": "2023-06-06T15:06:46.3620853+00:00"
+  "LastUpdate_Ratings": "2023-06-06T15:58:03.5043724+00:00",
+  "LastUpdate_Achievements": "2023-06-06T16:05:14.2862847+00:00"
 }

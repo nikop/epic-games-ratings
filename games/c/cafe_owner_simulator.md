@@ -10,13 +10,13 @@
 | FIREFIGHTER | 53.00% | ~303 |
 | ADVANCED | 38.00% | ~217 |
 | CHIEF | 17.00% | ~97 |
+| DEBTOR | 10.00% | ~57 |
 | SECOND_FLOOR | 10.00% | ~57 |
-| DEBTOR | 9.00% | ~51 |
 | SUCCESSFUL | 4.00% | ~23 |
 | THINGS ARE GOING WELL | 4.00% | ~23 |
 | YETTI | 3.00% | ~17 |
 | FIRST $100K | 2.00% | ~11 |
-| 500K$. | 0.90% | ~5 |
+| 500K$. | 1.00% | ~6 |
 | INTRODUCTION | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 571 (Ranked 197)  

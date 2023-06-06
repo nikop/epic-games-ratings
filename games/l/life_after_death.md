@@ -9,6 +9,8 @@
 | Keep going!!! | 100.00% | ~2 |
 | I can do it more!!! | 50.00% | ~1 |
 | This is a a good day!!!! | 50.00% | ~1 |
+| There is always a first time!!! | 50.00% | ~1 |
+| Sometimes is better think twice!!!! | 50.00% | ~1 |
 | I will not wait for tomorrow is now!!! | 50.00% | ~1 |
 | They can hit but don't hurt!!! | 0.00% | ~0 |
 | So cool when we achieve!!! | 0.00% | ~0 |
@@ -28,11 +30,9 @@
 | Im feeling with something special!!! | 0.00% | ~0 |
 | Here I am ready to rock you!!!! | 0.00% | ~0 |
 | I have to keep doing it!!!! | 0.00% | ~0 |
-| There is always a first time!!! | 0.00% | ~0 |
 | My level is increasing ohhh yeah!!!! | 0.00% | ~0 |
 | Lazy is not my kind!!!! | 0.00% | ~0 |
 | There is no time to rest!!! | 0.00% | ~0 |
-| Sometimes is better think twice!!!! | 0.00% | ~0 |
 | Long way to travel!!! | 0.00% | ~0 |
 | The better path is always forward!!!! | 0.00% | ~0 |
 | The time is running keep doing!!! | 0.00% | ~0 |

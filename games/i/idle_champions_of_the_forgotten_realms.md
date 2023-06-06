@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,799 |
-| The Cursed Farmer | 1.00% | ~899 |
+| The Cursed Farmer | 1.00% | ~900 |
 | Beast Intentions | 0.90% | ~810 |
 | The Mad Wizard | 0.90% | ~810 |
 | The Court of Storms | 0.90% | ~506 |
@@ -20,6 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.50% | ~450 |
 | Mad Cow Disease | 0.50% | ~450 |
 | Friendly Imps | 0.50% | ~450 |
+| Pure Energy | 0.50% | ~450 |
 | Quick or Quack | 0.50% | ~281 |
 | Owlbear Necessities | 0.40% | ~225 |
 | Best Thay Ever | 0.40% | ~225 |
@@ -30,7 +31,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.40% | ~360 |
 | Exploring Port Nyanzaru | 0.40% | ~360 |
 | The Contagious Curse | 0.40% | ~360 |
-| Pure Energy | 0.40% | ~360 |
 | Maddening | 0.30% | ~270 |
 | Keep Your Distance | 0.30% | ~169 |
 | Hands Off! | 0.30% | ~169 |
@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.30% | ~270 |
 | Useless Allies | 0.30% | ~270 |
 | Running of the Saurs | 0.30% | ~270 |
+| Hearts Aflame | 0.30% | ~169 |
 | Bad Odds in Avernus | 0.30% | ~169 |
 | An Even Worse Time in Avernus | 0.30% | ~169 |
 | Escort to Waterdeep | 0.30% | ~270 |
@@ -71,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~180 |
 | A Steadfast Love | 0.20% | ~112 |
 | The Fairy Rings of Thither | 0.20% | ~112 |
+| Bully for You! | 0.20% | ~112 |
 | Wet Feet | 0.20% | ~180 |
 | Hatchlings Underfoot | 0.20% | ~180 |
 | Don't Look Up! | 0.20% | ~180 |
@@ -164,7 +166,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Market Fluctuations | 0.20% | ~180 |
 | Déjà Vu All Over Again | 0.20% | ~112 |
 | Into The Fire | 0.20% | ~112 |
-| Hearts Aflame | 0.20% | ~112 |
 | Dreamscape | 0.20% | ~112 |
 | Look Out! | 0.20% | ~112 |
 | The Path of Dreams | 0.20% | ~112 |
@@ -221,7 +222,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | I'm Sure I Saw It Move! | 0.10% | ~56 |
 | End of the Line | 0.10% | ~56 |
 | Zarak's Revenge | 0.10% | ~56 |
-| Bully for You! | 0.10% | ~56 |
 | The Dark Heart | 0.10% | ~56 |
 | Undergeared | 0.10% | ~56 |
 | Underdark Chill | 0.10% | ~56 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,946 (Ranked 62)  
-Completed: 1,918 (2.13%) (Ranked 65)  
+Progressed: 89,951 (Ranked 62)  
+Completed: 1,919 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -547,7 +547,7 @@ Completed: 1,918 (2.13%) (Ranked 65)
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
-| 2023-06-06 | 89,946 | 1,918 |
+| 2023-06-06 | 89,951 | 1,919 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  
