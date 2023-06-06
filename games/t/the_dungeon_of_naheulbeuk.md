@@ -34,8 +34,8 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 31.00% | ~8 |
 | The Famous Dungeon of Naheulbeuk | 27.00% | ~7 |
 | Cursed die | 23.00% | ~6 |
+| The Great Library | 23.00% | ~6 |
 | Torture and Sensibility | 23.00% | ~6 |
-| The Great Library | 19.00% | ~5 |
 | The beards of change | 19.00% | ~5 |
 | Law and Order | 19.00% | ~5 |
 | In Navalu's footsteps | 19.00% | ~5 |

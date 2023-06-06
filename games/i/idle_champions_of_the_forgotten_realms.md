@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,799 |
+| A Brief Tour of the Realms | 2.00% | ~1,800 |
 | The Cursed Farmer | 1.00% | ~900 |
 | Beast Intentions | 0.90% | ~810 |
 | The Mad Wizard | 0.90% | ~810 |
@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.70% | ~630 |
 | Beware the Jabberwock | 0.70% | ~394 |
 | Are Ya Chicken? | 0.60% | ~540 |
-| Coasting to the Finish | 0.60% | ~337 |
+| Coasting to the Finish | 0.60% | ~338 |
 | Were-verpowered | 0.50% | ~450 |
 | A Persistent Buzzing | 0.50% | ~450 |
 | Seeking Allies | 0.50% | ~450 |
@@ -58,60 +58,61 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.30% | ~270 |
 | Pros and CONs | 0.20% | ~180 |
 | Upholding the Law | 0.20% | ~180 |
-| Tall Tales | 0.20% | ~112 |
-| Nightmare Rats! | 0.20% | ~112 |
-| The Witchlight Carnival | 0.20% | ~112 |
-| Thieves of the Coven | 0.20% | ~112 |
-| Sticky Fingers | 0.20% | ~112 |
-| Hither of the Feywild | 0.20% | ~112 |
-| Don't Breathe the Marsh Gas | 0.20% | ~112 |
-| The Prince of a Thousand Enemies | 0.20% | ~112 |
-| Uncommon Allies | 0.20% | ~112 |
-| Where the Magic Happens | 0.20% | ~112 |
-| Downfall | 0.20% | ~112 |
-| Second Third Out | 0.20% | ~112 |
-| Third Third Out | 0.20% | ~112 |
+| Tall Tales | 0.20% | ~113 |
+| Nightmare Rats! | 0.20% | ~113 |
+| The Witchlight Carnival | 0.20% | ~113 |
+| A Monarch Among Us | 0.20% | ~113 |
+| Thieves of the Coven | 0.20% | ~113 |
+| Sticky Fingers | 0.20% | ~113 |
+| Hither of the Feywild | 0.20% | ~113 |
+| Don't Breathe the Marsh Gas | 0.20% | ~113 |
+| The Prince of a Thousand Enemies | 0.20% | ~113 |
+| Uncommon Allies | 0.20% | ~113 |
+| Where the Magic Happens | 0.20% | ~113 |
+| Downfall | 0.20% | ~113 |
+| Second Third Out | 0.20% | ~113 |
+| Third Third Out | 0.20% | ~113 |
 | The Silken Swamp | 0.20% | ~180 |
-| A Steadfast Love | 0.20% | ~112 |
-| The Fairy Rings of Thither | 0.20% | ~112 |
-| Bully for You! | 0.20% | ~112 |
+| A Steadfast Love | 0.20% | ~113 |
+| The Fairy Rings of Thither | 0.20% | ~113 |
+| Bully for You! | 0.20% | ~113 |
 | Wet Feet | 0.20% | ~180 |
 | Hatchlings Underfoot | 0.20% | ~180 |
 | Don't Look Up! | 0.20% | ~180 |
-| Will of the Feywild | 0.20% | ~112 |
-| The Roots of Loomlurch | 0.20% | ~112 |
-| The Lutes of Loomlurch | 0.20% | ~112 |
+| Will of the Feywild | 0.20% | ~113 |
+| The Roots of Loomlurch | 0.20% | ~113 |
+| The Lutes of Loomlurch | 0.20% | ~113 |
 | Supply Run | 0.20% | ~180 |
-| Best Laid Plans | 0.20% | ~112 |
-| The Howling Peaks of Yon | 0.20% | ~112 |
-| The Invisible Wizards of Thay | 0.20% | ~112 |
+| Best Laid Plans | 0.20% | ~113 |
+| The Howling Peaks of Yon | 0.20% | ~113 |
+| The Invisible Wizards of Thay | 0.20% | ~113 |
 | Heavy Burden | 0.20% | ~180 |
-| Vecna Lives! | 0.20% | ~112 |
-| Overwhelmed with Knowledge | 0.20% | ~112 |
-| A Demi-god's Defender | 0.20% | ~112 |
-| Vecna Loots! | 0.20% | ~112 |
-| More Than Well Equipped | 0.20% | ~112 |
-| Return to the Tomb | 0.20% | ~112 |
-| Arcane Efforts | 0.20% | ~112 |
-| Heatwave | 0.20% | ~112 |
-| The Dread Domain of Tovag | 0.20% | ~112 |
-| Weak Doesn't Mean Feeble | 0.20% | ~112 |
-| The Castle of a Thousand Vecnas | 0.20% | ~112 |
-| Clumsy Doesn't Mean Inept | 0.20% | ~112 |
-| The Sanctum of the Sword | 0.20% | ~112 |
-| Kas the Bloody Handed | 0.20% | ~112 |
-| Get Back In The Castle | 0.20% | ~112 |
-| Bully for Vecna | 0.20% | ~112 |
-| Who Lurks Below? | 0.20% | ~112 |
-| Xanathaaaaaaar! | 0.20% | ~112 |
+| Vecna Lives! | 0.20% | ~113 |
+| Overwhelmed with Knowledge | 0.20% | ~113 |
+| A Demi-god's Defender | 0.20% | ~113 |
+| Vecna Loots! | 0.20% | ~113 |
+| More Than Well Equipped | 0.20% | ~113 |
+| Return to the Tomb | 0.20% | ~113 |
+| Arcane Efforts | 0.20% | ~113 |
+| Heatwave | 0.20% | ~113 |
+| The Dread Domain of Tovag | 0.20% | ~113 |
+| Weak Doesn't Mean Feeble | 0.20% | ~113 |
+| The Castle of a Thousand Vecnas | 0.20% | ~113 |
+| Clumsy Doesn't Mean Inept | 0.20% | ~113 |
+| The Sanctum of the Sword | 0.20% | ~113 |
+| Kas the Bloody Handed | 0.20% | ~113 |
+| Get Back In The Castle | 0.20% | ~113 |
+| Bully for Vecna | 0.20% | ~113 |
+| Who Lurks Below? | 0.20% | ~113 |
+| Xanathaaaaaaar! | 0.20% | ~113 |
 | Homecoming | 0.20% | ~180 |
 | The Lost Heir of Omu | 0.20% | ~180 |
-| The Minions of Endelyn Moongrave | 0.20% | ~112 |
-| Love Unsoiled | 0.20% | ~112 |
-| The Bitter End | 0.20% | ~112 |
-| The Palace of Heart's Desire | 0.20% | ~112 |
-| Anchors Aweigh | 0.20% | ~112 |
-| Welcome to the Band | 0.20% | ~112 |
+| The Minions of Endelyn Moongrave | 0.20% | ~113 |
+| Love Unsoiled | 0.20% | ~113 |
+| The Bitter End | 0.20% | ~113 |
+| The Palace of Heart's Desire | 0.20% | ~113 |
+| Anchors Aweigh | 0.20% | ~113 |
+| Welcome to the Band | 0.20% | ~113 |
 | The Forbidden City | 0.20% | ~180 |
 | Periodic Petrification | 0.20% | ~180 |
 | Captured! | 0.20% | ~180 |
@@ -143,6 +144,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Treasure Hunters | 0.20% | ~180 |
 | The Guardian of Orolunga | 0.20% | ~180 |
 | The Lost Love | 0.20% | ~180 |
+| A Saurial's Resolve | 0.20% | ~180 |
 | Flies on the Wall | 0.20% | ~180 |
 | Backtracking Through Barovia | 0.20% | ~180 |
 | Nimble Escape | 0.20% | ~180 |
@@ -167,44 +169,48 @@ Number of Ratings: 9,041  (23.09.2022)
 | Champions of Waterdeep | 0.20% | ~180 |
 | Dinosaur Racing | 0.20% | ~180 |
 | Elturel Has Fallen | 0.20% | ~180 |
-| Hailstorm! | 0.20% | ~112 |
+| Earthquake! | 0.20% | ~113 |
+| Hailstorm! | 0.20% | ~113 |
 | Resolve Amongst Chaos | 0.20% | ~180 |
 | All You Know Is Wrong | 0.20% | ~180 |
-| Avernus Frozen Over | 0.20% | ~112 |
+| Avernus Frozen Over | 0.20% | ~113 |
 | Market Fluctuations | 0.20% | ~180 |
-| Déjà Vu All Over Again | 0.20% | ~112 |
-| Into The Fire | 0.20% | ~112 |
-| Dreamscape | 0.20% | ~112 |
-| Look Out! | 0.20% | ~112 |
-| The Path of Dreams | 0.20% | ~112 |
-| The Lost Hollyphant | 0.20% | ~112 |
-| Alterdeep | 0.20% | ~112 |
-| Ulkoria's Escape from Alterdeep | 0.20% | ~112 |
-| The Wandering Emporium | 0.20% | ~112 |
-| Tiamat's Army | 0.20% | ~112 |
-| Questlines | 0.20% | ~112 |
-| Bel's Forge | 0.20% | ~112 |
-| The Giant's Bane Tavern | 0.20% | ~112 |
-| The Everlasting Rime | 0.20% | ~112 |
+| Déjà Vu All Over Again | 0.20% | ~113 |
+| Into The Fire | 0.20% | ~113 |
+| Dreamscape | 0.20% | ~113 |
+| Look Out! | 0.20% | ~113 |
+| The Path of Dreams | 0.20% | ~113 |
+| The Lost Hollyphant | 0.20% | ~113 |
+| Alterdeep | 0.20% | ~113 |
+| Ulkoria's Escape from Alterdeep | 0.20% | ~113 |
+| The Wandering Emporium | 0.20% | ~113 |
+| Tiamat's Army | 0.20% | ~113 |
+| Questlines | 0.20% | ~113 |
+| Bel's Forge | 0.20% | ~113 |
+| The Giant's Bane Tavern | 0.20% | ~113 |
+| The Everlasting Rime | 0.20% | ~113 |
 | Close Escort | 0.20% | ~180 |
 | Constant Banditry | 0.20% | ~180 |
 | The Long Haul | 0.20% | ~180 |
 | Lost in the Deep | 0.20% | ~180 |
 | Easily Distracted | 0.20% | ~180 |
 | Rude Welcome | 0.20% | ~180 |
-| Moose Tracks | 0.20% | ~112 |
-| Civilization | 0.20% | ~112 |
+| Moose Tracks | 0.20% | ~113 |
+| Civilization | 0.20% | ~113 |
 | Durable Deep | 0.20% | ~180 |
-| The Sibriex | 0.20% | ~112 |
-| Wrecked Flying Fortress | 0.20% | ~112 |
+| The Sibriex | 0.20% | ~113 |
+| Wrecked Flying Fortress | 0.20% | ~113 |
 | Expert Opinion | 0.20% | ~180 |
-| Dwarven Rumors | 0.20% | ~112 |
-| Sunblight | 0.20% | ~112 |
-| The Bleeding Citadel | 0.20% | ~112 |
-| Witty Riposting | 0.20% | ~112 |
-| How Far Away is Thay | 0.20% | ~112 |
-| The Battle of High Hall Tower | 0.20% | ~112 |
-| The Archaeologist and the Sailor | 0.20% | ~112 |
+| Dwarven Rumors | 0.20% | ~113 |
+| Sunblight | 0.20% | ~113 |
+| The Bleeding Citadel | 0.20% | ~113 |
+| Witty Riposting | 0.20% | ~113 |
+| How Far Away is Thay | 0.20% | ~113 |
+| Deekin's Mission | 0.20% | ~113 |
+| The Battle of High Hall Tower | 0.20% | ~113 |
+| Ending the Rime - Part 1 | 0.20% | ~113 |
+| The Rite of the Arcane Octad | 0.20% | ~113 |
+| The Archaeologist and the Sailor | 0.20% | ~113 |
 | The Haunted Jungle | 0.20% | ~180 |
 | Poor Guidance | 0.20% | ~180 |
 | Starving in the Jungle | 0.10% | ~90 |
@@ -214,7 +220,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | And Your Enemies Closer | 0.10% | ~56 |
 | An Unexpected Geist | 0.10% | ~56 |
 | Back to Nature | 0.10% | ~56 |
-| A Monarch Among Us | 0.10% | ~56 |
 | A Dragon Against Us | 0.10% | ~56 |
 | A Familiar Behind Us | 0.10% | ~56 |
 | Patron Party | 0.10% | ~56 |
@@ -313,7 +318,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Air's Getting Pretty Thin | 0.10% | ~90 |
 | Red Wizard 'Escort' | 0.10% | ~56 |
 | A Saurial's Lament | 0.10% | ~90 |
-| A Saurial's Resolve | 0.10% | ~90 |
 | Spirit of the Trickster Gods | 0.10% | ~56 |
 | The Killer Mists | 0.10% | ~90 |
 | Class Vacation | 0.10% | ~90 |
@@ -384,7 +388,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Nimble Grove | 0.10% | ~90 |
 | The Misty Grove | 0.10% | ~56 |
 | Everything is Awful | 0.10% | ~90 |
-| Earthquake! | 0.10% | ~56 |
 | Shadow Stalkers | 0.10% | ~56 |
 | Once More Into The Breach | 0.10% | ~90 |
 | Twice More Into The Breach | 0.10% | ~90 |
@@ -459,7 +462,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waiting on Sunrise | 0.10% | ~56 |
 | Frontline Fighters | 0.10% | ~56 |
 | A Chilling Encounter | 0.10% | ~56 |
-| Deekin's Mission | 0.10% | ~56 |
 | Dive Bomb | 0.10% | ~56 |
 | Fire and Ice | 0.10% | ~56 |
 | Frozen Vengeance | 0.10% | ~56 |
@@ -475,7 +477,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Leemooggoogoon Rises | 0.10% | ~56 |
 | Stragglers | 0.10% | ~56 |
 | Volo's Guide to Kuo-toa | 0.10% | ~56 |
-| Ending the Rime - Part 1 | 0.10% | ~56 |
 | Ambitious Speakers - Part 1 | 0.10% | ~56 |
 | Shady Sidekicks - Part 1 | 0.10% | ~56 |
 | Ending the Rime - Part 2 | 0.10% | ~56 |
@@ -493,14 +494,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Encroaching Madness | 0.10% | ~56 |
 | Watchful Eyes | 0.10% | ~56 |
 | Maroon Madness | 0.10% | ~56 |
-| The Rite of the Arcane Octad | 0.10% | ~56 |
 | Alien Allies | 0.10% | ~56 |
 | An Icewind Dale Reunion | 0.10% | ~56 |
 | The Netherese Necropolis | 0.10% | ~56 |
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,973 (Ranked 62)  
+Progressed: 89,978 (Ranked 62)  
 Completed: 1,920 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,7 +547,7 @@ Completed: 1,920 (2.13%) (Ranked 65)
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
-| 2023-06-06 | 89,973 | 1,920 |
+| 2023-06-06 | 89,978 | 1,920 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

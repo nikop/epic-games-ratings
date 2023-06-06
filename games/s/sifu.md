@@ -25,9 +25,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,077 |
 | Bloody Sport | 1.00% | ~170 |
 | The best strikes are the ones we avoid | 1.00% | ~170 |
-| Stuntmaster | 0.90% | ~6,369 |
-| Old Child | 0.90% | ~6,369 |
-| Take damage to save time | 0.90% | ~6,369 |
+| Stuntmaster | 0.90% | ~6,370 |
+| Old Child | 0.90% | ~6,370 |
+| Take damage to save time | 0.90% | ~6,370 |
 | Scareless | 0.80% | ~5,662 |
 | Kung-Fu Tussle | 0.80% | ~5,662 |
 | Dance of the Praying Mantis | 0.70% | ~4,954 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,718 (Ranked 16)  
+Progressed: 707,724 (Ranked 16)  
 Completed: 12,763 (1.80%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,14 +104,14 @@ Completed: 12,763 (1.80%) (Ranked 69)
 | 2023-06-03 | 707,194 | 12,754 |
 | 2023-06-04 | 707,419 | 12,757 |
 | 2023-06-05 | 707,566 | 12,758 |
-| 2023-06-06 | 707,718 | 12,763 |
+| 2023-06-06 | 707,724 | 12,763 |
 ## Awards
-Max (Great Boss Battles): 6,137  (Ranked 53)  
-Sum: 10,473 (Ranked 78)  
-Diff (max vs sum): -25  
+Max (Great Boss Battles): 6,142  (Ranked 52)  
+Sum: 10,478 (Ranked 78)  
+Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,137 |
+| This game has Great Boss Battles | 6,142 |
 | This game has Diverse Characters | 525 |
 | This game has Challenging Combat | 518 |
 | This game has Quickly Understood Controls | 509 |
@@ -266,4 +266,4 @@ Diff (max vs sum): -25
 | 2023-06-03 | 4.82 | - | 6,130 | 10,457 |
 | 2023-06-04 | 4.82 | - | 6,130 | 10,460 |
 | 2023-06-05 | 4.82 | - | 6,137 | 10,471 |
-| 2023-06-06 | 4.82 | - | 6,137 | 10,473 |
+| 2023-06-06 | 4.82 | - | 6,142 | 10,478 |

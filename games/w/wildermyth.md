@@ -12,7 +12,7 @@ Number of Ratings: 45  (23.09.2022)
 | Passing Shadow | 25.00% | ~310 |
 | Cutthroat Competitors | 25.00% | ~310 |
 | How Romantic! | 24.00% | ~298 |
-| Daybreak | 23.00% | ~285 |
+| Daybreak | 23.00% | ~286 |
 | Gotta Ca... Must Collect All of Them | 21.00% | ~261 |
 | Completing the Look | 12.00% | ~149 |
 | Who's Counting? | 12.00% | ~149 |
@@ -24,9 +24,9 @@ Number of Ratings: 45  (23.09.2022)
 | Echoes Die | 8.00% | ~99 |
 | Chain Reaction | 7.00% | ~87 |
 | Everfading | 7.00% | ~87 |
-| Plague Doctor | 6.00% | ~74 |
-| Another Tale to Tell | 6.00% | ~74 |
-| A Story of Heroes | 6.00% | ~74 |
+| Plague Doctor | 6.00% | ~75 |
+| Another Tale to Tell | 6.00% | ~75 |
+| A Story of Heroes | 6.00% | ~75 |
 | Let Me Get My Chisel | 5.00% | ~62 |
 | In Soil, In Smoke | 5.00% | ~62 |
 | Wingknight's Prowess | 5.00% | ~62 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.50% | ~6 |
 | We Call That Mortificient! | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,241 (Ranked 163)  
+Progressed: 1,242 (Ranked 163)  
 Completed: 4 (0.32%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 4 (0.32%) (Ranked 126)
 | 2023-06-03 | 1,238 | 3 |
 | 2023-06-04 | 1,238 | 4 |
 | 2023-06-05 | 1,239 | 4 |
-| 2023-06-06 | 1,241 | 4 |
+| 2023-06-06 | 1,242 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 458)  
 Sum: 27 (Ranked 468)  

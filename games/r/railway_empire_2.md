@@ -9,16 +9,16 @@
 | Departure | 70.00% | ~673 |
 | From X to Y | 69.00% | ~663 |
 | Way of Iron | 68.00% | ~653 |
-| Mystery Tour | 65.00% | ~625 |
+| Mystery Tour | 66.00% | ~634 |
 | Brainstorm | 64.00% | ~615 |
 | We brake for nobody | 64.00% | ~615 |
 | Mind the Gap | 62.00% | ~596 |
 | Travel Company | 62.00% | ~596 |
 | All around the World | 60.00% | ~577 |
-| Right through the middle | 53.00% | ~509 |
+| Right through the middle | 54.00% | ~519 |
 | Facility Manager | 50.00% | ~480 |
 | Poor Devil | 50.00% | ~480 |
-| Producer | 45.00% | ~432 |
+| Producer | 46.00% | ~442 |
 | Apprentice | 42.00% | ~404 |
 | Bridge Builder | 37.00% | ~356 |
 | Stoker | 34.00% | ~327 |

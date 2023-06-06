@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 162,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.97,
+  "Rating": 4,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -128,6 +128,12 @@
       "Rating": 3.97,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-06T21:58:30.8891369+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -136,7 +142,7 @@
   "Tags": [],
   "EOS_Progressed": 1308,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2967,9 +2973,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 536
     },
     {
       "ID": "fourleafclover",
@@ -3391,9 +3397,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-06-05T10:57:55.1665769+00:00",
-  "LastChanged_Achievements": "2023-06-06T21:05:59.5285639+00:00",
+  "LastChanged": "2023-06-06T21:58:30.8891367+00:00",
+  "LastChanged_Achievements": "2023-06-06T22:07:18.7574542+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-06T20:58:06.2875159+00:00",
-  "LastUpdate_Achievements": "2023-06-06T21:05:59.5286409+00:00"
+  "LastUpdate_Ratings": "2023-06-06T21:58:30.8891373+00:00",
+  "LastUpdate_Achievements": "2023-06-06T22:07:18.757546+00:00"
 }

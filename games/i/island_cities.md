@@ -10,7 +10,7 @@
 | Great view from the beach and from the hill | 55.00% | ~156 |
 | Bridges to come and go | 48.00% | ~136 |
 | Found an oasis | 42.00% | ~119 |
-| Burger or pizza? | 36.00% | ~102 |
+| Burger or pizza? | 37.00% | ~105 |
 | Passion for sports | 31.00% | ~88 |
 | Who loves trains? | 27.00% | ~76 |
 | Easy and steady climb | 27.00% | ~76 |
@@ -28,7 +28,7 @@
 | Night walk along the beach | 15.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 283 (Ranked 229)  
-Completed: 42 (14.84%) (Ranked 11)  
+Completed: 43 (15.19%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,7 +72,7 @@ Completed: 42 (14.84%) (Ranked 11)
 | 2023-06-03 | 253 | 36 |
 | 2023-06-04 | 263 | 39 |
 | 2023-06-05 | 274 | 40 |
-| 2023-06-06 | 283 | 42 |
+| 2023-06-06 | 283 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

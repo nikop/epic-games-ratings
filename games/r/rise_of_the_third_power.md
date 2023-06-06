@@ -7,7 +7,7 @@
 | Overpowered | 82.00% | ~103 |
 | Side Job | 77.00% | ~97 |
 | Bloodlust | 56.00% | ~71 |
-| Gettin' It Done | 53.00% | ~67 |
+| Gettin' It Done | 54.00% | ~68 |
 | Feast | 43.00% | ~54 |
 | Attuned | 37.00% | ~47 |
 | Opulent | 33.00% | ~42 |
@@ -26,7 +26,7 @@
 | Patience | 10.00% | ~13 |
 | Master Tactician | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126 (Ranked 265)  
+Progressed: 126 (Ranked 266)  
 Completed: 4 (3.17%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |

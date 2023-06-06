@@ -1045,9 +1045,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1197,9 +1197,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "LacunaCompleted",
@@ -1293,9 +1293,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "RewindDamage1",
@@ -1444,8 +1444,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-06T21:05:17.3349996+00:00",
+  "LastChanged_Achievements": "2023-06-06T22:06:20.676805+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-06T20:59:24.4888406+00:00",
-  "LastUpdate_Achievements": "2023-06-06T21:05:17.335042+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:00:21.1986848+00:00",
+  "LastUpdate_Achievements": "2023-06-06T22:06:20.6768711+00:00"
 }

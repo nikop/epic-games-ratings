@@ -219,9 +219,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Epic_Formula_12",
@@ -275,9 +275,9 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 58,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -291,9 +291,9 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Epic_InnerWorld_1",
@@ -379,9 +379,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Epic_Revenge_1",
@@ -419,9 +419,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -467,9 +467,9 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -506,8 +506,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-06T21:03:14.0891454+00:00",
+  "LastChanged_Achievements": "2023-06-06T22:03:19.4968142+00:00",
   "LastUpdate_AppInfo": "2023-06-01T03:24:11.2191819+00:00",
-  "LastUpdate_Ratings": "2023-06-06T20:57:07.9680641+00:00",
-  "LastUpdate_Achievements": "2023-06-06T21:03:14.0891807+00:00"
+  "LastUpdate_Ratings": "2023-06-06T21:57:06.6713285+00:00",
+  "LastUpdate_Achievements": "2023-06-06T22:03:19.4968553+00:00"
 }

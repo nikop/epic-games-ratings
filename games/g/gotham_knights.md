@@ -5,13 +5,14 @@ Rating: 4.17 (Ranked 847)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 4.00% | ~2,554 |
+| First Step Into the Knight | 4.00% | ~2,555 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,916 |
 | Loose Ends | 3.00% | ~1,916 |
 | The Batman Family | 2.00% | ~1,277 |
 | Something in the Clay | 2.00% | ~1,277 |
 | To the Victor Go the Spoils | 2.00% | ~1,277 |
 | Quartzer Life Crisis | 2.00% | ~1,277 |
+| Snow Problem | 2.00% | ~1,277 |
 | Get ReQ'd | 2.00% | ~1,277 |
 | Working Hard or Harley Working? | 2.00% | ~1,277 |
 | Unstoppable Force | 2.00% | ~1,277 |
@@ -26,7 +27,6 @@ Rating: 4.17 (Ranked 847)
 | Not On My Watch | 1.00% | ~639 |
 | Bulldozed | 1.00% | ~639 |
 | Shock Til They Drop | 1.00% | ~639 |
-| Snow Problem | 1.00% | ~639 |
 | Cooldown | 1.00% | ~639 |
 | Universal Health Scare | 1.00% | ~639 |
 | Bad Apples in Every Orchard | 1.00% | ~639 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 847)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,857 (Ranked 71)  
+Progressed: 63,864 (Ranked 71)  
 Completed: 94 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 94 (0.15%) (Ranked 154)
 | 2023-06-03 | 63,469 | 93 |
 | 2023-06-04 | 63,645 | 93 |
 | 2023-06-05 | 63,770 | 93 |
-| 2023-06-06 | 63,857 | 94 |
+| 2023-06-06 | 63,864 | 94 |
 ## Awards
 Max (Great Boss Battles): 2,304  (Ranked 97)  
 Sum: 3,809 (Ranked 137)  

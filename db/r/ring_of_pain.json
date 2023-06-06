@@ -2191,9 +2191,9 @@
       "Count": 727
     }
   ],
-  "EOS_Progressed": 230226,
+  "EOS_Progressed": 230227,
   "EOS_Completed": 236,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6786,6 +6786,11 @@
       "Time": "2023-06-06T21:06:11.7042155+00:00",
       "NumProgressed": 230226,
       "NumCompleted": 236
+    },
+    {
+      "Time": "2023-06-06T22:07:33.2626629+00:00",
+      "NumProgressed": 230227,
+      "NumCompleted": 236
     }
   ],
   "TotalAchievements": 122,
@@ -6829,7 +6834,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 221017
+      "UsersEstimate": 221018
     },
     {
       "ID": "CURSE1HP",
@@ -6837,7 +6842,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 89788
+      "UsersEstimate": 89789
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -6909,7 +6914,7 @@
       "Name": "A Rough Road",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29929
+      "UsersEstimate": 29930
     },
     {
       "ID": "DEPTH6",
@@ -6917,7 +6922,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 168065
+      "UsersEstimate": 168066
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -6949,15 +6954,15 @@
       "Name": "R.I.P",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 82881
+      "UsersEstimate": 82882
     },
     {
       "ID": "DIEBOSS",
       "SetID": "5l8oe0h",
       "Name": "To The Death!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 43743
+      "UsersEstimate": 46045
     },
     {
       "ID": "DIEHARD",
@@ -6981,7 +6986,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 133531
+      "UsersEstimate": 133532
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -7229,7 +7234,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 92090
+      "UsersEstimate": 92091
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -7285,7 +7290,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 124322
+      "UsersEstimate": 124323
     },
     {
       "ID": "KILLNICEDOG",
@@ -7445,7 +7450,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 149647
+      "UsersEstimate": 149648
     },
     {
       "ID": "PETRIFY50",
@@ -7541,7 +7546,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 204901
+      "UsersEstimate": 204902
     },
     {
       "ID": "SPECIALROOMS10",
@@ -7549,7 +7554,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 142740
+      "UsersEstimate": 142741
     },
     {
       "ID": "SPEEDRUN10",
@@ -7565,7 +7570,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 98997
+      "UsersEstimate": 98998
     },
     {
       "ID": "STEALTH100",
@@ -7772,7 +7777,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 230226,
+      "Progressed": 230227,
       "Completed": 236
     }
   ],
@@ -7780,8 +7785,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-06-05T10:00:11.5833081+00:00",
-  "LastChanged_Achievements": "2023-06-06T21:06:11.7042151+00:00",
+  "LastChanged_Achievements": "2023-06-06T22:07:33.2626624+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:51.2413043+00:00",
-  "LastUpdate_Ratings": "2023-06-06T20:59:28.7437842+00:00",
-  "LastUpdate_Achievements": "2023-06-06T21:06:11.7043756+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:00:26.9844478+00:00",
+  "LastUpdate_Achievements": "2023-06-06T22:07:33.2628558+00:00"
 }

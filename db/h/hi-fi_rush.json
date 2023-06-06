@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 2820,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2738,9 +2738,9 @@
       "ID": "Ach036",
       "SetID": "12n4k20",
       "Name": "Kissing the sky!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1241
     },
     {
       "ID": "Ach037",
@@ -2961,8 +2961,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-03T21:58:22.8890273+00:00",
-  "LastChanged_Achievements": "2023-06-06T21:06:02.6310135+00:00",
+  "LastChanged_Achievements": "2023-06-06T22:07:22.5370261+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:48.102192+00:00",
-  "LastUpdate_Ratings": "2023-06-06T20:58:37.7226151+00:00",
-  "LastUpdate_Achievements": "2023-06-06T21:06:02.6310711+00:00"
+  "LastUpdate_Ratings": "2023-06-06T21:59:11.8374841+00:00",
+  "LastUpdate_Achievements": "2023-06-06T22:07:22.5370999+00:00"
 }

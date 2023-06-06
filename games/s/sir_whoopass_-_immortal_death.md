@@ -61,23 +61,23 @@
 | Free Of Chains | 8.00% | ~6 |
 | Ancient Ruins of Inadequate Opportunities | 6.00% | ~4 |
 | I want to throw up! | 6.00% | ~4 |
+| My name is Whoopass, SIR Whoopass! | 6.00% | ~4 |
 | Grumpy Immortal | 6.00% | ~4 |
 | Ancient Ruins of Misplaced Belongings | 4.00% | ~3 |
 | Ancient Ruins of Imperfectly Designed Walls | 4.00% | ~3 |
 | Ancient Ruins of Leaky Roof | 4.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 4.00% | ~3 |
-| My name is Whoopass, SIR Whoopass! | 4.00% | ~3 |
 | European karaoke king | 4.00% | ~3 |
 | Fifty Shades of Gruyere | 3.00% | ~2 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~2 |
 | Ancient Ruins of Vitamin D Addition | 3.00% | ~2 |
+| Ancient Ruins of Moldy Ceiling | 3.00% | ~2 |
 | Ancient Ruins of Poor Intrusion Prevention | 3.00% | ~2 |
 | Ancient Ruins of Peekaboo | 3.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |
 | Ancient Ruins of Stubbed Toes | 3.00% | ~2 |
 | Ancient Ruins of Chilly Winds | 3.00% | ~2 |
 | Out of bounds | 3.00% | ~2 |
-| Ancient Ruins of Moldy Ceiling | 1.00% | ~1 |
 | Consider it dealt with | 1.00% | ~1 |
 | I'm getting full... | 0.00% | ~0 |
 | Bloody Knuckles | 0.00% | ~0 |

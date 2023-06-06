@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -4537,10 +4537,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13302,
       "NumberOfAwardsMax": 6636
+    },
+    {
+      "Time": "2023-06-06T22:00:44.8439578+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13306,
+      "NumberOfAwardsMax": 6636
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13302,
+  "NumberOfAwards": 13306,
   "NumberOfAwardsMax": 6636,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4572,7 +4578,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 839
+      "Count": 843
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4617,9 +4623,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 52318,
+  "EOS_Progressed": 52321,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 825,
+  "EOS_NewPlayers": 824,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9327,6 +9333,11 @@
       "Time": "2023-06-06T21:06:07.768139+00:00",
       "NumProgressed": 52318,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T22:07:28.6389558+00:00",
+      "NumProgressed": 52321,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -9418,7 +9429,7 @@
       "Name": "Duelist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "Dynasty",
@@ -9426,7 +9437,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "Entrepreneur",
@@ -9466,7 +9477,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6278
+      "UsersEstimate": 6279
     },
     {
       "ID": "Great Granny",
@@ -9514,7 +9525,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "Jack of All Trades",
@@ -9562,7 +9573,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15695
+      "UsersEstimate": 15696
     },
     {
       "ID": "Lawbringer",
@@ -9570,7 +9581,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 18311
+      "UsersEstimate": 18312
     },
     {
       "ID": "Lawmaker",
@@ -9738,22 +9749,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 52318,
+      "Progressed": 52321,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-06-06T17:00:01.1288464+00:00",
-  "LastChanged_Achievements": "2023-06-06T21:06:07.7681385+00:00",
+  "LastChanged": "2023-06-06T22:00:44.8439577+00:00",
+  "LastChanged_Achievements": "2023-06-06T22:07:28.6389553+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:06.5602034+00:00",
-  "LastUpdate_Ratings": "2023-06-06T20:59:39.7305442+00:00",
-  "LastUpdate_Achievements": "2023-06-06T21:06:07.7681997+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:00:44.8439585+00:00",
+  "LastUpdate_Achievements": "2023-06-06T22:07:28.6390313+00:00"
 }

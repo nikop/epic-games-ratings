@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -588,6 +588,11 @@
       "Time": "2023-06-06T15:02:40.2370868+00:00",
       "NumProgressed": 126,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T22:03:15.2269829+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -671,7 +676,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "easy_victory",
@@ -685,7 +690,7 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
       "UsersEstimate": 102
     },
@@ -767,7 +772,7 @@
       "Name": "Rookie",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "scrap_collector",
@@ -846,7 +851,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 1
     }
   ],
@@ -854,8 +859,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-06T21:01:09.7301852+00:00",
+  "LastChanged_Achievements": "2023-06-06T22:03:15.2269823+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:23.8350057+00:00",
-  "LastUpdate_Ratings": "2023-06-06T20:59:55.0210405+00:00",
-  "LastUpdate_Achievements": "2023-06-06T21:01:09.7302042+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:01:03.5896542+00:00",
+  "LastUpdate_Achievements": "2023-06-06T22:03:15.2270073+00:00"
 }

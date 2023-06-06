@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunting | 42.00% | ~15 |
-| Might be useful… | 42.00% | ~15 |
-| Uncut Gem | 39.00% | ~14 |
-| Friend! | 36.00% | ~13 |
-| Setting Off | 33.00% | ~12 |
-| Shine! | 33.00% | ~12 |
-| Clear as Water | 28.00% | ~10 |
-| Riddlesolver | 25.00% | ~9 |
+| Treasure Hunting | 41.00% | ~15 |
+| Might be useful… | 41.00% | ~15 |
+| Uncut Gem | 38.00% | ~14 |
+| Friend! | 35.00% | ~13 |
+| Setting Off | 32.00% | ~12 |
+| Shine! | 32.00% | ~12 |
+| Clear as Water | 27.00% | ~10 |
+| Riddlesolver | 24.00% | ~9 |
 | Dungeon Mastery | 19.00% | ~7 |
 | Card Collector | 19.00% | ~7 |
 | The Steed | 14.00% | ~5 |
@@ -24,28 +24,28 @@
 | Traveler Mastery | 8.00% | ~3 |
 | The Plot Thickens | 8.00% | ~3 |
 | No Stone Unturned | 8.00% | ~3 |
-| Best Pupil | 6.00% | ~2 |
-| Oracle Mastery | 6.00% | ~2 |
-| FOR JUSTICE! | 6.00% | ~2 |
-| Raider Mastery | 6.00% | ~2 |
-| Journey’s End | 6.00% | ~2 |
-| Masterpiece | 6.00% | ~2 |
-| Warden Mastery | 6.00% | ~2 |
-| Towards the Future | 6.00% | ~2 |
-| Trinket Enthusiast | 6.00% | ~2 |
-| Card Completionist | 6.00% | ~2 |
-| The Usurper | 6.00% | ~2 |
-| First time? | 6.00% | ~2 |
-| Harmony | 6.00% | ~2 |
-| The False Prophet | 6.00% | ~2 |
-| Sealed Once Again | 6.00% | ~2 |
-| A New Tomorrow | 6.00% | ~2 |
-| ACHOO! | 6.00% | ~2 |
+| Best Pupil | 5.00% | ~2 |
+| Oracle Mastery | 5.00% | ~2 |
+| FOR JUSTICE! | 5.00% | ~2 |
+| Raider Mastery | 5.00% | ~2 |
+| Journey’s End | 5.00% | ~2 |
+| Masterpiece | 5.00% | ~2 |
+| Warden Mastery | 5.00% | ~2 |
+| Towards the Future | 5.00% | ~2 |
+| Trinket Enthusiast | 5.00% | ~2 |
+| Card Completionist | 5.00% | ~2 |
+| The Usurper | 5.00% | ~2 |
+| First time? | 5.00% | ~2 |
+| Harmony | 5.00% | ~2 |
+| The False Prophet | 5.00% | ~2 |
+| Sealed Once Again | 5.00% | ~2 |
+| A New Tomorrow | 5.00% | ~2 |
+| ACHOO! | 5.00% | ~2 |
 | The New Demon Lord | 3.00% | ~1 |
 | Gladiator | 3.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 317)  
+Progressed: 37 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-05-28 | 34 | 0 |
 | 2023-05-30 | 35 | 0 |
 | 2023-06-01 | 36 | 0 |
+| 2023-06-06 | 37 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -15,8 +15,8 @@ Rating: 4.35 (Ranked 726)
 | Limp Richard | 38.00% | ~396 |
 | From Darkness to Light | 38.00% | ~396 |
 | Exorcist | 37.00% | ~385 |
+| Firestarter | 37.00% | ~385 |
 | Editor Adept | 36.00% | ~375 |
-| Firestarter | 36.00% | ~375 |
 | Giant Killer | 33.00% | ~344 |
 | Sensei | 32.00% | ~333 |
 | The meaning of Kain | 29.00% | ~302 |

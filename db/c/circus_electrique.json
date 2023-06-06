@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 427,
+  "EOS_Progressed": 428,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -264,6 +264,11 @@
       "Time": "2023-06-06T03:21:34.8929769+00:00",
       "NumProgressed": 427,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T22:07:23.4518319+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -283,7 +288,7 @@
       "Name": "Perfect Illusion",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -321,9 +326,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "631ndc2",
       "Name": "Circus Electrique Proudly Presents...",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 163
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -331,7 +336,7 @@
       "Name": "Built in a Day",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -369,9 +374,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "631ndc2",
       "Name": "Bar Brawler",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -427,7 +432,7 @@
       "Name": "Hundred Percent First",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -587,7 +592,7 @@
       "Name": "Marketing Manager",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -595,7 +600,7 @@
       "Name": "Self Defense",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -674,7 +679,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 427,
+      "Progressed": 428,
       "Completed": 1
     }
   ],
@@ -682,8 +687,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-06T21:06:03.3793952+00:00",
+  "LastChanged_Achievements": "2023-06-06T22:07:23.4518312+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:13.7097187+00:00",
-  "LastUpdate_Ratings": "2023-06-06T20:58:59.0826152+00:00",
-  "LastUpdate_Achievements": "2023-06-06T21:06:03.3794318+00:00"
+  "LastUpdate_Ratings": "2023-06-06T21:59:41.8534+00:00",
+  "LastUpdate_Achievements": "2023-06-06T22:07:23.4518775+00:00"
 }
