@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.60% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.55% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.95% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -33,14 +33,14 @@
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.35% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
-| 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
+| 34 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.98% |
 | 36 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
-| 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
-| 41 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
+| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
+| 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.28% |
 | 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.22% |
@@ -109,9 +109,9 @@
 | 107 | [Haven](games/h/haven.md) | 0.65% |
 | 108 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 109 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.62% |
-| 110 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
-| 111 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
+| 110 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
 | 111 | [Grindstone](games/g/grindstone.md) | 0.51% |
+| 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
 | 113 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 113 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
 | 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
@@ -163,15 +163,15 @@
 | 161 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 161 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.12% |
 | 163 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 164 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 164 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
 | 164 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 164 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 164 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
 | 164 | [Supraland](games/s/supraland.md) | 0.10% |
-| 169 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
-| 169 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 169 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 169 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.09% |
+| 170 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 170 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 170 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.09% |
 | 173 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
 | 173 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 173 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
@@ -432,4 +432,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,731 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,732 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
