@@ -11,12 +11,12 @@
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
 | 11 | [Island Cities](games/i/island_cities.md) | 14.44% |
-| 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.95% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
-| 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.11% |
-| 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
-| 16 | [Without Escape](games/w/without_escape.md) | 10.00% |
+| 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
+| 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.95% |
+| 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
+| 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.06% |
+| 17 | [Without Escape](games/w/without_escape.md) | 10.00% |
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
 | 20 | [Remains](games/r/remains.md) | 8.11% |
@@ -50,7 +50,7 @@
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
-| 51 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
+| 51 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
 | 52 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.86% |
 | 54 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
@@ -69,15 +69,15 @@
 | 67 | [JARS](games/j/jars.md) | 1.96% |
 | 68 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 69 | [Sifu](games/s/sifu.md) | 1.80% |
-| 70 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
-| 71 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
-| 72 | [Somerville](games/s/somerville.md) | 1.59% |
-| 73 | [Night Book](games/n/night_book.md) | 1.56% |
-| 74 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
-| 75 | [Frogun](games/f/frogun.md) | 1.51% |
-| 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 77 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.35% |
-| 77 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.35% |
+| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.79% |
+| 71 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
+| 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
+| 73 | [Somerville](games/s/somerville.md) | 1.59% |
+| 74 | [Night Book](games/n/night_book.md) | 1.56% |
+| 75 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
+| 76 | [Frogun](games/f/frogun.md) | 1.51% |
+| 76 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 78 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.35% |
 | 79 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
 | 80 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.25% |
 | 81 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
