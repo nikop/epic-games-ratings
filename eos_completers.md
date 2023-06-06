@@ -10,7 +10,7 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.75% |
+| 11 | [Island Cities](games/i/island_cities.md) | 15.05% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.95% |
 | 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
@@ -114,7 +114,7 @@
 | 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
 | 113 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 113 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
-| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
+| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 117 | [Potion Permit](games/p/potion_permit.md) | 0.44% |
 | 118 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
