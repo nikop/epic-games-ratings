@@ -6,28 +6,28 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,372 |
-| Leader | 61.00% | ~3,756 |
+| First Step | 71.00% | ~4,373 |
+| Leader | 61.00% | ~3,757 |
 | Explorer | 53.00% | ~3,264 |
 | Healer | 53.00% | ~3,264 |
-| Aspiring Inventor | 45.00% | ~2,771 |
-| Adventurer | 42.00% | ~2,586 |
+| Aspiring Inventor | 45.00% | ~2,772 |
+| Adventurer | 42.00% | ~2,587 |
 | Famous Healer | 38.00% | ~2,340 |
-| Local Leader | 35.00% | ~2,155 |
+| Local Leader | 35.00% | ~2,156 |
 | New Opportunities | 34.00% | ~2,094 |
 | Famous Explorer | 33.00% | ~2,032 |
 | Energized | 33.00% | ~2,032 |
 | The Long Haul | 33.00% | ~2,032 |
 | Survivor | 31.00% | ~1,909 |
-| The Great Healer | 30.00% | ~1,847 |
-| Cleaner | 28.00% | ~1,724 |
-| Catastrofan | 28.00% | ~1,724 |
+| The Great Healer | 30.00% | ~1,848 |
+| Cleaner | 28.00% | ~1,725 |
+| Catastrofan | 28.00% | ~1,725 |
 | Legendary Explorer | 27.00% | ~1,663 |
 | Finders, Keepers | 26.00% | ~1,601 |
 | Top Notch | 25.00% | ~1,540 |
+| Mentor | 23.00% | ~1,417 |
 | Great Leader | 22.00% | ~1,355 |
 | Ice Lakes | 22.00% | ~1,355 |
-| Mentor | 22.00% | ~1,355 |
 | Merchant | 21.00% | ~1,293 |
 | Real Survivor | 21.00% | ~1,293 |
 | War Never Changes | 19.00% | ~1,170 |
@@ -45,8 +45,8 @@ Number of Ratings: 836  (23.09.2022)
 | Trader | 8.00% | ~493 |
 | Bread and Circuses | 7.00% | ~431 |
 | Tailored to fit | 7.00% | ~431 |
-| Really Friendly | 6.00% | ~369 |
-| New Eden | 6.00% | ~369 |
+| Really Friendly | 6.00% | ~370 |
+| New Eden | 6.00% | ~370 |
 | Amped Up | 5.00% | ~308 |
 | Luxurious Living | 4.00% | ~246 |
 | Look, no Hands! | 4.00% | ~246 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,158 (Ranked 121)  
+Progressed: 6,159 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 6,087 | 0 |
 | 2023-06-04 | 6,125 | 0 |
 | 2023-06-05 | 6,149 | 0 |
-| 2023-06-06 | 6,158 | 0 |
+| 2023-06-06 | 6,159 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 327)  
 Sum: 659 (Ranked 272)  

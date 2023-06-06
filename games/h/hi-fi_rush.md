@@ -5,15 +5,15 @@ Rating: 4.89 (Ranked 13)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,239 |
-| Feeling the beat! | 80.00% | ~2,239 |
-| You can pet the cat! | 74.00% | ~2,071 |
-| Who put gears in there? | 67.00% | ~1,875 |
-| Cream of the Crop | 63.00% | ~1,763 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~1,735 |
-| You got this, Peppermint? | 56.00% | ~1,567 |
-| Perfect Parry | 54.00% | ~1,511 |
-| Alright, that felt AWESOME! | 54.00% | ~1,511 |
+| Start with a bang! | 80.00% | ~2,241 |
+| Feeling the beat! | 80.00% | ~2,241 |
+| You can pet the cat! | 74.00% | ~2,073 |
+| Who put gears in there? | 67.00% | ~1,877 |
+| Cream of the Crop | 63.00% | ~1,765 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~1,737 |
+| You got this, Peppermint? | 56.00% | ~1,569 |
+| Perfect Parry | 54.00% | ~1,513 |
+| Alright, that felt AWESOME! | 54.00% | ~1,513 |
 | I play my own way! | 50.00% | ~1,400 |
 | This will cost you big time | 47.00% | ~1,316 |
 | Uh, they were broken when I got here | 46.00% | ~1,288 |
@@ -64,10 +64,10 @@ Rating: 4.89 (Ranked 13)
 | OK, I THINK I know what I'm doing now | 0.60% | ~17 |
 | I think that's enough health for now | 0.50% | ~14 |
 | I'm trying to FOCUS HERE! | 0.40% | ~11 |
-| Didn't skip a beat! | 0.30% | ~8 |
+| Didn't skip a beat! | 0.20% | ~6 |
 | What a journey it was... | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,799 (Ranked 141)  
+Progressed: 2,801 (Ranked 141)  
 Completed: 4 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 4 (0.14%) (Ranked 156)
 | 2023-06-03 | 2,658 | 4 |
 | 2023-06-04 | 2,729 | 4 |
 | 2023-06-05 | 2,778 | 4 |
-| 2023-06-06 | 2,799 | 4 |
+| 2023-06-06 | 2,801 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

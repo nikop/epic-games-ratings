@@ -5,7 +5,7 @@ Rating: 4.44 (Ranked 631)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,655 |
+| Survivor | 31.00% | ~77,656 |
 | Predator I | 22.00% | ~55,110 |
 | Fixer I | 10.00% | ~25,050 |
 | A week in Century City | 10.00% | ~25,050 |
@@ -36,33 +36,33 @@ Rating: 4.44 (Ranked 631)
 | Bricklayer | 1.00% | ~2,505 |
 | Run the Economy | 1.00% | ~2,505 |
 | Committed Relationship | 0.80% | ~2,004 |
-| Number 1 | 0.70% | ~1,753 |
+| Number 1 | 0.70% | ~1,754 |
 | Interior designer | 0.60% | ~1,503 |
-| The Gamble | 0.50% | ~1,252 |
-| The Descent | 0.50% | ~1,252 |
-| A major purchase | 0.50% | ~1,252 |
+| The Gamble | 0.50% | ~1,253 |
+| The Descent | 0.50% | ~1,253 |
+| A major purchase | 0.50% | ~1,253 |
 | Expert Hunter | 0.40% | ~1,002 |
 | Fungi hunter | 0.40% | ~1,002 |
 | Predator III | 0.40% | ~1,002 |
-| Arms dealer | 0.30% | ~751 |
-| Fixer III | 0.30% | ~751 |
-| AML questionnaire | 0.30% | ~751 |
-| Heartbreaker | 0.30% | ~751 |
+| Arms dealer | 0.30% | ~752 |
+| Fixer III | 0.30% | ~752 |
+| AML questionnaire | 0.30% | ~752 |
+| Heartbreaker | 0.30% | ~752 |
 | Homerun | 0.20% | ~501 |
 | A season in Century City | 0.20% | ~501 |
-| Saver III | 0.10% | ~250 |
-| Collector | 0.10% | ~250 |
-| Mansion | 0.10% | ~250 |
-| Workhorse | 0.10% | ~250 |
-| Green thumb III | 0.10% | ~250 |
-| Plantation | 0.10% | ~250 |
-| Reminescence | 0.10% | ~250 |
-| Beloved | 0.10% | ~250 |
-| Capitalist II | 0.10% | ~250 |
-| Capitalist III | 0.10% | ~250 |
-| Hell Is You | 0.10% | ~250 |
+| Saver III | 0.10% | ~251 |
+| Collector | 0.10% | ~251 |
+| Mansion | 0.10% | ~251 |
+| Workhorse | 0.10% | ~251 |
+| Green thumb III | 0.10% | ~251 |
+| Plantation | 0.10% | ~251 |
+| Reminescence | 0.10% | ~251 |
+| Beloved | 0.10% | ~251 |
+| Capitalist II | 0.10% | ~251 |
+| Capitalist III | 0.10% | ~251 |
+| Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,499 (Ranked 41)  
+Progressed: 250,502 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 1 (0.00%) (Ranked 212)
 | 2023-06-03 | 250,314 | 1 |
 | 2023-06-04 | 250,404 | 1 |
 | 2023-06-05 | 250,469 | 1 |
-| 2023-06-06 | 250,499 | 1 |
+| 2023-06-06 | 250,502 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 466)  
 Sum: 71 (Ranked 421)  

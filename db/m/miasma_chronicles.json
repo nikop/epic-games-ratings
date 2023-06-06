@@ -1600,9 +1600,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 695
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1785,8 +1785,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-06T11:03:25.8996272+00:00",
+  "LastChanged_Achievements": "2023-06-06T12:03:30.0816172+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-06T10:58:32.0953711+00:00",
-  "LastUpdate_Achievements": "2023-06-06T11:03:25.8996672+00:00"
+  "LastUpdate_Ratings": "2023-06-06T11:58:39.0663203+00:00",
+  "LastUpdate_Achievements": "2023-06-06T12:03:30.0816716+00:00"
 }

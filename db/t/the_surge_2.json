@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1711,
+  "EOS_Progressed": 1713,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1005,6 +1005,11 @@
       "Time": "2023-06-06T09:06:05.8124149+00:00",
       "NumProgressed": 1711,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-06T12:06:51.2330828+00:00",
+      "NumProgressed": 1713,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1024,7 +1029,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACHV_03",
@@ -1040,7 +1045,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACHV_05",
@@ -1056,7 +1061,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACHV_07",
@@ -1072,7 +1077,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHV_09",
@@ -1080,7 +1085,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHV_10",
@@ -1128,7 +1133,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHV_16",
@@ -1152,7 +1157,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACHV_19",
@@ -1168,7 +1173,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHV_21",
@@ -1192,7 +1197,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACHV_24",
@@ -1216,7 +1221,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "ACHV_27",
@@ -1224,7 +1229,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACHV_28",
@@ -1248,15 +1253,15 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACHV_31",
       "SetID": "8p5mlmc",
       "Name": "Where It All Began",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHV_32",
@@ -1278,9 +1283,9 @@
       "ID": "ACHV_34",
       "SetID": "8p5mlmc",
       "Name": "Shocking",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHV_35",
@@ -1288,7 +1293,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHV_36",
@@ -1304,7 +1309,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACHV_38",
@@ -1312,7 +1317,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHV_39",
@@ -1320,7 +1325,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1302
     },
     {
       "ID": "ACHV_40",
@@ -1336,7 +1341,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACHV_42",
@@ -1344,7 +1349,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHV_43",
@@ -1352,15 +1357,15 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHV_44",
       "SetID": "8p5mlmc",
       "Name": "Counter-Sniper",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHV_45",
@@ -1368,7 +1373,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACHV_46",
@@ -1384,7 +1389,7 @@
       "Name": "Geronimo!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHV_48",
@@ -1448,7 +1453,7 @@
       "Name": "Plank of Wood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHV_56",
@@ -1471,7 +1476,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1711,
+      "Progressed": 1713,
       "Completed": 10
     }
   ],
@@ -1479,8 +1484,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-06T11:07:06.6024144+00:00",
+  "LastChanged_Achievements": "2023-06-06T12:06:51.2330823+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:57.1438675+00:00",
-  "LastUpdate_Ratings": "2023-06-06T11:01:04.653245+00:00",
-  "LastUpdate_Achievements": "2023-06-06T11:07:06.6024576+00:00"
+  "LastUpdate_Ratings": "2023-06-06T12:00:56.4413644+00:00",
+  "LastUpdate_Achievements": "2023-06-06T12:06:51.2331524+00:00"
 }

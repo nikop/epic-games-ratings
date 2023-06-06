@@ -6,15 +6,15 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,686 |
-| keep it tidy | 77.00% | ~7,769 |
-| podium | 72.00% | ~7,265 |
-| medium attack | 59.00% | ~5,953 |
-| brail | 56.00% | ~5,650 |
+| light attack | 96.00% | ~9,687 |
+| keep it tidy | 77.00% | ~7,770 |
+| podium | 72.00% | ~7,266 |
+| medium attack | 59.00% | ~5,954 |
+| brail | 56.00% | ~5,651 |
 | good drivers have dead flies on the side windows | 40.00% | ~4,036 |
 | grocery-getter | 39.00% | ~3,935 |
-| rwd only | 26.00% | ~2,623 |
-| food tour: pasta | 26.00% | ~2,623 |
+| rwd only | 26.00% | ~2,624 |
+| food tour: pasta | 26.00% | ~2,624 |
 | to finish first, first you must finish | 21.00% | ~2,119 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,119 |
 | autopilot | 20.00% | ~2,018 |
@@ -39,9 +39,9 @@ Number of Ratings: 56  (23.09.2022)
 | parking lot | 6.00% | ~605 |
 | oktoberfest | 6.00% | ~605 |
 | viking | 6.00% | ~605 |
-| group b | 5.00% | ~504 |
-| in like a lamb, out like a lion | 5.00% | ~504 |
-| if in doubt, flat out! | 5.00% | ~504 |
+| group b | 5.00% | ~505 |
+| in like a lamb, out like a lion | 5.00% | ~505 |
+| if in doubt, flat out! | 5.00% | ~505 |
 | comfy seats | 3.00% | ~303 |
 | simulator | 3.00% | ~303 |
 | real roads, real fast | 2.00% | ~202 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,090 (Ranked 109)  
+Progressed: 10,091 (Ranked 109)  
 Completed: 9 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 9 (0.09%) (Ranked 170)
 | 2023-06-03 | 10,081 | 9 |
 | 2023-06-04 | 10,086 | 9 |
 | 2023-06-05 | 10,090 | 9 |
+| 2023-06-06 | 10,091 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

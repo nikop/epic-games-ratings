@@ -3,7 +3,7 @@
   "Name": "Kaichu - The Kaiju Dating Sim",
   "ProductSlug": "kaichu-the-kaiju-dating-sim-531fb7",
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 15,
+  "Ranking_EOS_Completed": 16,
   "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
@@ -147,9 +147,9 @@
       "ID": "LOVE_IS_IN_THE_AIR",
       "SetID": "dhjj31a",
       "Name": "Love is in the Air",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LOVING_COMMUTE",
@@ -171,25 +171,25 @@
       "ID": "POLYAMOROUSASAURUS",
       "SetID": "dhjj31a",
       "Name": "Polyamorousasaurus",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ROYAL_ROMANCE",
       "SetID": "dhjj31a",
       "Name": "Royal Romance",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SHORT_DISTANCE_RELATIONSHIP",
       "SetID": "dhjj31a",
       "Name": "Short Distance Relationship",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SPEED_DATING",
@@ -220,8 +220,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-06-06T11:06:29.3974474+00:00",
+  "LastChanged_Achievements": "2023-06-06T12:06:17.1456414+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.7022691+00:00",
-  "LastUpdate_Ratings": "2023-06-06T10:57:53.7301451+00:00",
-  "LastUpdate_Achievements": "2023-06-06T11:06:29.3974565+00:00"
+  "LastUpdate_Ratings": "2023-06-06T11:58:03.9995546+00:00",
+  "LastUpdate_Achievements": "2023-06-06T12:06:17.1456508+00:00"
 }

@@ -285,9 +285,9 @@
       "ID": "9",
       "SetID": "6ljhbe4",
       "Name": "Prized Possession",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -302,8 +302,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-06-06T11:06:41.2307203+00:00",
+  "LastChanged_Achievements": "2023-06-06T12:06:27.6595591+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:54.1164031+00:00",
-  "LastUpdate_Ratings": "2023-06-06T10:58:54.0100553+00:00",
-  "LastUpdate_Achievements": "2023-06-06T11:06:41.2307368+00:00"
+  "LastUpdate_Ratings": "2023-06-06T11:58:59.3677827+00:00",
+  "LastUpdate_Achievements": "2023-06-06T12:06:27.6595769+00:00"
 }

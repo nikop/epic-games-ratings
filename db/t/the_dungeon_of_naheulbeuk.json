@@ -498,9 +498,9 @@
       "ID": "Chapter2",
       "SetID": "50chcgj",
       "Name": "A beer, two curses, three companions",
-      "Percentage": 43,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Chapter3",
@@ -594,9 +594,9 @@
       "ID": "CompanionPriestress",
       "SetID": "50chcgj",
       "Name": "The Woman in the High Castle",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -874,9 +874,9 @@
       "ID": "DwarfLevel2",
       "SetID": "50chcgj",
       "Name": "Sock! SOCK!",
-      "Percentage": 86,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ElfEpic",
@@ -1160,8 +1160,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-06T11:05:32.0034519+00:00",
+  "LastChanged_Achievements": "2023-06-06T12:05:24.715723+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:21.831619+00:00",
-  "LastUpdate_Ratings": "2023-06-06T10:59:25.4982692+00:00",
-  "LastUpdate_Achievements": "2023-06-06T11:05:32.0035303+00:00"
+  "LastUpdate_Ratings": "2023-06-06T11:59:27.8362656+00:00",
+  "LastUpdate_Achievements": "2023-06-06T12:05:24.7158218+00:00"
 }

@@ -4132,9 +4132,9 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 89927,
+  "EOS_Progressed": 89931,
   "EOS_Completed": 1918,
-  "EOS_NewPlayers": 732,
+  "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8872,6 +8872,11 @@
       "Time": "2023-06-06T11:07:12.2552759+00:00",
       "NumProgressed": 89927,
       "NumCompleted": 1918
+    },
+    {
+      "Time": "2023-06-06T12:06:56.5051929+00:00",
+      "NumProgressed": 89931,
+      "NumCompleted": 1918
     }
   ],
   "TotalAchievements": 493,
@@ -10563,7 +10568,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "objective_completed_35",
@@ -12826,21 +12831,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56201,
+      "Progressed": 56205,
       "Completed": 2773
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89927,
+      "Progressed": 89931,
       "Completed": 1918
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T09:58:18.0653887+00:00",
-  "LastChanged_Achievements": "2023-06-06T11:07:12.2552753+00:00",
+  "LastChanged_Achievements": "2023-06-06T12:06:56.5051924+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-06T10:58:14.8239305+00:00",
-  "LastUpdate_Achievements": "2023-06-06T11:07:12.2575434+00:00"
+  "LastUpdate_Ratings": "2023-06-06T11:58:23.3263005+00:00",
+  "LastUpdate_Achievements": "2023-06-06T12:06:56.5078204+00:00"
 }

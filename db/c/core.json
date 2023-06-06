@@ -4,7 +4,7 @@
   "ProductSlug": "core",
   "Ranking_Rating": 717,
   "Ranking_Popularity": 153,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 322,
@@ -1794,6 +1794,6 @@
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
   "LastChanged": "2023-06-04T23:59:08.7440176+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:25.4252778+00:00",
-  "LastUpdate_Ratings": "2023-06-06T10:59:28.6252977+00:00",
-  "LastUpdate_Achievements": "2023-06-06T11:05:27.5169104+00:00"
+  "LastUpdate_Ratings": "2023-06-06T11:59:30.6549497+00:00",
+  "LastUpdate_Achievements": "2023-06-06T12:05:20.1659437+00:00"
 }

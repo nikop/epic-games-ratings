@@ -8,20 +8,20 @@
 | Cyber Bully | 70.00% | ~21 |
 | Loving Commute | 63.00% | ~19 |
 | Love is in Bloom | 43.00% | ~13 |
-| Royal Romance | 40.00% | ~12 |
+| Royal Romance | 43.00% | ~13 |
 | Friendzoned | 33.00% | ~10 |
+| Love is in the Air | 27.00% | ~8 |
 | Speed Dating | 27.00% | ~8 |
 | Spread the Love | 27.00% | ~8 |
 | A Heated Affair | 23.00% | ~7 |
-| Love is in the Air | 23.00% | ~7 |
+| Short Distance Relationship | 23.00% | ~7 |
 | Out of Your Shell | 20.00% | ~6 |
-| Short Distance Relationship | 20.00% | ~6 |
 | Long Distance Relationship | 17.00% | ~5 |
-| Polyamorousasaurus | 13.00% | ~4 |
+| Polyamorousasaurus | 17.00% | ~5 |
 | Loved and Lost | 10.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 30 (Ranked 325)  
-Completed: 3 (10.00%) (Ranked 15)  
+Completed: 3 (10.00%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

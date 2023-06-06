@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2714,
+  "EOS_Progressed": 2715,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2340,6 +2340,11 @@
       "Time": "2023-06-06T10:04:26.5818287+00:00",
       "NumProgressed": 2714,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-06T12:04:19.880271+00:00",
+      "NumProgressed": 2715,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -2351,7 +2356,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "10",
@@ -2373,9 +2378,9 @@
       "ID": "12",
       "SetID": "9p3jgda",
       "Name": "TRAINING HARD",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 272
     },
     {
       "ID": "13",
@@ -2407,7 +2412,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "17",
@@ -2423,7 +2428,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "19",
@@ -2503,7 +2508,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "6",
@@ -2511,7 +2516,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "7",
@@ -2535,20 +2540,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2714,
+      "Progressed": 2715,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-06T11:04:20.6383946+00:00",
+  "LastChanged_Achievements": "2023-06-06T12:04:19.8802704+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.6683071+00:00",
-  "LastUpdate_Ratings": "2023-06-06T10:59:19.3308173+00:00",
-  "LastUpdate_Achievements": "2023-06-06T11:04:20.6384179+00:00"
+  "LastUpdate_Ratings": "2023-06-06T11:59:22.3354817+00:00",
+  "LastUpdate_Achievements": "2023-06-06T12:04:19.8803073+00:00"
 }

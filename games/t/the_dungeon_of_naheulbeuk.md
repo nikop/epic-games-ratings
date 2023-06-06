@@ -8,26 +8,26 @@ Number of Ratings: 118  (23.09.2022)
 | ---- | ---------- | ----- |
 | Where's that freaking Dwarf? | 100.00% | ~21 |
 | Alt+F4 | 100.00% | ~21 |
-| Sock! SOCK! | 86.00% | ~18 |
+| Sock! SOCK! | 90.00% | ~19 |
 | Fireproof Wizardess | 67.00% | ~14 |
 | Livin' in a dwarven paradise | 62.00% | ~13 |
 | GG EZ | 62.00% | ~13 |
 | DM intervention | 62.00% | ~13 |
 | Déjà vu | 57.00% | ~12 |
+| A beer, two curses, three companions | 48.00% | ~10 |
 | I am the night | 48.00% | ~10 |
 | Thieves' Guild Accreditation | 48.00% | ~10 |
 | Speedrun | 48.00% | ~10 |
 | Oh, when I'll be level 10... | 48.00% | ~10 |
-| A beer, two curses, three companions | 43.00% | ~9 |
 | The plot thickens... At the tavern | 43.00% | ~9 |
 | Way of the Wimp | 38.00% | ~8 |
 | Dwarf Fortress | 38.00% | ~8 |
 | The Ranger of Chaos | 38.00% | ~8 |
+| The Woman in the High Castle | 33.00% | ~7 |
 | Look but don't touch | 33.00% | ~7 |
 | Material Girl | 33.00% | ~7 |
 | Shiny and Crôm | 29.00% | ~6 |
 | The demons' feast | 29.00% | ~6 |
-| The Woman in the High Castle | 29.00% | ~6 |
 | Gargantua | 29.00% | ~6 |
 | Team Building Exercise | 29.00% | ~6 |
 | The Statuette of Gladeulfeurah | 24.00% | ~5 |

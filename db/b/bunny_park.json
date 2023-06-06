@@ -168,9 +168,9 @@
       "ID": "BP-10",
       "SetID": "7fc93f2",
       "Name": "Bunny Cuddles",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "BP-11",
@@ -249,8 +249,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-06-06T11:01:38.4371295+00:00",
+  "LastChanged_Achievements": "2023-06-06T12:01:27.3171756+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:30.1625711+00:00",
-  "LastUpdate_Ratings": "2023-06-06T10:58:30.2928563+00:00",
-  "LastUpdate_Achievements": "2023-06-06T11:01:38.4371454+00:00"
+  "LastUpdate_Ratings": "2023-06-06T11:58:37.3804658+00:00",
+  "LastUpdate_Achievements": "2023-06-06T12:01:27.3171895+00:00"
 }

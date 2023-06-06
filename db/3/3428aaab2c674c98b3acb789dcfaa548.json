@@ -146,9 +146,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 568924,
+  "EOS_Progressed": 569176,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 143145,
+  "EOS_NewPlayers": 141975,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1511,6 +1511,11 @@
       "Time": "2023-06-06T11:04:22.743201+00:00",
       "NumProgressed": 568924,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-06T12:04:21.869982+00:00",
+      "NumProgressed": 569176,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 75,
@@ -1520,9 +1525,9 @@
       "ID": "ACHIEVEMENT_AINT_THAT_A_KICK_IN_THE_HEAD",
       "SetID": "a96a0j2",
       "Name": "Ain\u0027t That a Kick in the Head",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3982
+      "UsersEstimate": 4553
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -1728,9 +1733,9 @@
       "ID": "ACHIEVEMENT_JURY_RIGGER",
       "SetID": "a96a0j2",
       "Name": "Jury Rigger",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 1138
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -1816,9 +1821,9 @@
       "ID": "ACHIEVEMENT_NEW_KID",
       "SetID": "a96a0j2",
       "Name": "New Kid",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1708
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -1984,17 +1989,17 @@
       "ID": "ACHIEVEMENT_THAT_LUCKY_OL_SUN",
       "SetID": "a96a0j2",
       "Name": "That Lucky Old Sun",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 569
+      "UsersEstimate": 1138
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
       "SetID": "a96a0j2",
       "Name": "They Went That-a-Way",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1708
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -2121,13 +2126,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 568924,
+      "Progressed": 569176,
       "Completed": 12
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 568924,
+      "Progressed": 569176,
       "Completed": 11
     }
   ],
@@ -2135,8 +2140,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-06-05T19:57:22.1230367+00:00",
-  "LastChanged_Achievements": "2023-06-06T11:04:22.7432005+00:00",
+  "LastChanged_Achievements": "2023-06-06T12:04:21.8699817+00:00",
   "LastUpdate_AppInfo": "2023-06-01T14:56:59.1245664+00:00",
-  "LastUpdate_Ratings": "2023-06-06T10:56:59.5274268+00:00",
-  "LastUpdate_Achievements": "2023-06-06T11:04:22.7432706+00:00"
+  "LastUpdate_Ratings": "2023-06-06T11:57:13.933908+00:00",
+  "LastUpdate_Achievements": "2023-06-06T12:04:21.8700744+00:00"
 }

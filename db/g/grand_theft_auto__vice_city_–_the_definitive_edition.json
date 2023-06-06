@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -394,9 +394,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 7814,
+  "EOS_Progressed": 7815,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3684,6 +3684,11 @@
       "Time": "2023-06-06T11:01:34.253113+00:00",
       "NumProgressed": 7814,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-06T12:01:23.3382857+00:00",
+      "NumProgressed": 7815,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 34,
@@ -3775,7 +3780,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ACH12",
@@ -3799,7 +3804,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3047
+      "UsersEstimate": 3048
     },
     {
       "ID": "ACH15",
@@ -3829,9 +3834,9 @@
       "ID": "ACH18",
       "SetID": "9llo822",
       "Name": "I\u0027m Famous!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH19",
@@ -3966,7 +3971,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7814,
+      "Progressed": 7815,
       "Completed": 25
     }
   ],
@@ -3974,8 +3979,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-05T13:58:57.5083639+00:00",
-  "LastChanged_Achievements": "2023-06-06T11:01:34.2531122+00:00",
+  "LastChanged_Achievements": "2023-06-06T12:01:23.3382845+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.8139479+00:00",
-  "LastUpdate_Ratings": "2023-06-06T10:58:30.282136+00:00",
-  "LastUpdate_Achievements": "2023-06-06T11:01:34.2531501+00:00"
+  "LastUpdate_Ratings": "2023-06-06T11:58:37.34459+00:00",
+  "LastUpdate_Achievements": "2023-06-06T12:01:23.3383439+00:00"
 }

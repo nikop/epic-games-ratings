@@ -842,9 +842,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7642,
+  "EOS_Progressed": 7643,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2322,6 +2322,11 @@
       "Time": "2023-06-06T09:05:39.1807201+00:00",
       "NumProgressed": 7642,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-06T12:06:20.2969461+00:00",
+      "NumProgressed": 7643,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2357,7 +2362,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4738
+      "UsersEstimate": 4739
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2397,7 +2402,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -2421,7 +2426,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "LeoniasFall",
@@ -2445,7 +2450,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "RookieWelcome",
@@ -2453,7 +2458,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "SavedElderEnt",
@@ -2461,7 +2466,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4738
+      "UsersEstimate": 4739
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2493,7 +2498,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7107
+      "UsersEstimate": 7108
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2517,22 +2522,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6344
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7642,
+      "Progressed": 7643,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
-  "LastChanged_Achievements": "2023-06-06T11:06:32.8761417+00:00",
+  "LastChanged_Achievements": "2023-06-06T12:06:20.2969458+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-06T10:59:17.5341295+00:00",
-  "LastUpdate_Achievements": "2023-06-06T11:06:32.8761622+00:00"
+  "LastUpdate_Ratings": "2023-06-06T11:59:20.2927183+00:00",
+  "LastUpdate_Achievements": "2023-06-06T12:06:20.2969752+00:00"
 }
