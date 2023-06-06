@@ -1017,9 +1017,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6153,
+  "EOS_Progressed": 6154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4847,6 +4847,11 @@
       "Time": "2023-06-06T05:02:11.6525576+00:00",
       "NumProgressed": 6153,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T07:59:59.8562114+00:00",
+      "NumProgressed": 6154,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -4858,7 +4863,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3753
+      "UsersEstimate": 3754
     },
     {
       "ID": "10",
@@ -4866,7 +4871,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "11",
@@ -4890,7 +4895,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "14",
@@ -4898,7 +4903,7 @@
       "Name": "Famous Explorer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "15",
@@ -4906,7 +4911,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "16",
@@ -4914,7 +4919,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "17",
@@ -4938,7 +4943,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "2",
@@ -4954,7 +4959,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "21",
@@ -5010,7 +5015,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "28",
@@ -5098,7 +5103,7 @@
       "Name": "Spreading Influence",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "38",
@@ -5186,7 +5191,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "48",
@@ -5218,7 +5223,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "51",
@@ -5306,7 +5311,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "8",
@@ -5329,15 +5334,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6153,
+      "Progressed": 6154,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-05T04:00:59.3034052+00:00",
-  "LastChanged_Achievements": "2023-06-06T06:02:18.2203299+00:00",
+  "LastChanged_Achievements": "2023-06-06T07:59:59.8561864+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-06T07:00:22.9985252+00:00",
-  "LastUpdate_Achievements": "2023-06-06T06:02:18.2203981+00:00"
+  "LastUpdate_Ratings": "2023-06-06T07:59:26.6141123+00:00",
+  "LastUpdate_Achievements": "2023-06-06T07:59:59.8582717+00:00"
 }

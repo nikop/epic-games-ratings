@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 960,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 6.77,
   "EosHistory": [
@@ -2223,9 +2223,9 @@
       "ID": "13",
       "SetID": "d0g98p",
       "Name": "Extinct Again!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 326
     },
     {
       "ID": "14",
@@ -2447,9 +2447,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 336
     },
     {
       "ID": "4",
@@ -2600,8 +2600,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-06T07:06:06.5933184+00:00",
+  "LastChanged_Achievements": "2023-06-06T08:05:28.4561051+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-06T06:57:35.6087423+00:00",
-  "LastUpdate_Achievements": "2023-06-06T07:06:06.5933725+00:00"
+  "LastUpdate_Ratings": "2023-06-06T07:57:18.8195515+00:00",
+  "LastUpdate_Achievements": "2023-06-06T08:05:28.4561611+00:00"
 }

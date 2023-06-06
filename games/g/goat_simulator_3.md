@@ -5,17 +5,17 @@ Rating: 4.85 (Ranked 37)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~204,304 |
-| Private Club | 74.00% | ~166,137 |
+| Forgotten Sorority | 91.00% | ~204,305 |
+| Private Club | 74.00% | ~166,138 |
 | Rogue Guild | 65.00% | ~145,932 |
 | I Watched the Intro | 57.00% | ~127,971 |
 | Covert Consortium | 55.00% | ~123,481 |
-| Goat Queen | 53.00% | ~118,990 |
+| Goat Queen | 53.00% | ~118,991 |
 | Reach the Stratosphere | 49.00% | ~110,010 |
 | Synchronization Complete | 47.00% | ~105,520 |
 | Secret Society | 45.00% | ~101,030 |
 | Shadow Syndicate | 37.00% | ~83,069 |
-| What a Waste of Money | 33.00% | ~74,088 |
+| What a Waste of Money | 33.00% | ~74,089 |
 | New Goat Order | 30.00% | ~67,353 |
 | Don't touch the servers | 28.00% | ~62,863 |
 | San Angora: Become Human | 26.00% | ~58,373 |
@@ -24,10 +24,10 @@ Rating: 4.85 (Ranked 37)
 | Welcome to Earth | 25.00% | ~56,128 |
 | Into the Matrix | 18.00% | ~40,412 |
 | Where is It? | 17.00% | ~38,167 |
-| Egg Simulator | 15.00% | ~33,676 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~33,676 |
-| Black Market | 14.00% | ~31,431 |
-| 401(K.O.) | 14.00% | ~31,431 |
+| Egg Simulator | 15.00% | ~33,677 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~33,677 |
+| Black Market | 14.00% | ~31,432 |
+| 401(K.O.) | 14.00% | ~31,432 |
 | Car Cave | 12.00% | ~26,941 |
 | Club Mohair | 8.00% | ~17,961 |
 | A Center for Ants? | 8.00% | ~17,961 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 37)
 | Move! That! Bus! | 0.60% | ~1,347 |
 | G.O.A.T | 0.30% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,510 (Ranked 46)  
+Progressed: 224,511 (Ranked 46)  
 Completed: 721 (0.32%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 721 (0.32%) (Ranked 125)
 | 2023-06-03 | 223,581 | 719 |
 | 2023-06-04 | 224,076 | 719 |
 | 2023-06-05 | 224,444 | 719 |
-| 2023-06-06 | 224,510 | 721 |
+| 2023-06-06 | 224,511 | 721 |
 ## Awards
 Max (Great for Beginners): 331  (Ranked 216)  
 Sum: 2,785 (Ranked 159)  

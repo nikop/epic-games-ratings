@@ -192,7 +192,7 @@
   "Tags": [],
   "EOS_Progressed": 4362,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3291,9 +3291,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3315
     },
     {
       "ID": "23",
@@ -3546,8 +3546,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-06T07:04:39.2528491+00:00",
+  "LastChanged_Achievements": "2023-06-06T08:04:20.5801151+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-06T06:59:47.4153822+00:00",
-  "LastUpdate_Achievements": "2023-06-06T07:04:39.2529023+00:00"
+  "LastUpdate_Ratings": "2023-06-06T07:59:00.1208633+00:00",
+  "LastUpdate_Achievements": "2023-06-06T08:04:20.5801689+00:00"
 }

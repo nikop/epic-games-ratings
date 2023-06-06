@@ -1678,9 +1678,9 @@
       "Count": 234
     }
   ],
-  "EOS_Progressed": 224510,
+  "EOS_Progressed": 224511,
   "EOS_Completed": 721,
-  "EOS_NewPlayers": 3008,
+  "EOS_NewPlayers": 3001,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -6393,6 +6393,11 @@
       "Time": "2023-06-06T07:06:31.5210322+00:00",
       "NumProgressed": 224510,
       "NumCompleted": 721
+    },
+    {
+      "Time": "2023-06-06T08:05:49.5058666+00:00",
+      "NumProgressed": 224511,
+      "NumCompleted": 721
     }
   ],
   "TotalAchievements": 39,
@@ -6468,7 +6473,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 204304
+      "UsersEstimate": 204305
     },
     {
       "ID": "AchievementClownID",
@@ -6500,7 +6505,7 @@
       "Name": "Egg Simulator",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 33676
+      "UsersEstimate": 33677
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -6516,7 +6521,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 74088
+      "UsersEstimate": 74089
     },
     {
       "ID": "AchievementGoatID",
@@ -6532,7 +6537,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 118990
+      "UsersEstimate": 118991
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -6548,7 +6553,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 33676
+      "UsersEstimate": 33677
     },
     {
       "ID": "AchievementInstinctID",
@@ -6580,7 +6585,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 31431
+      "UsersEstimate": 31432
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -6636,7 +6641,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 166137
+      "UsersEstimate": 166138
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -6668,7 +6673,7 @@
       "Name": "401(K.O.)",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 31431
+      "UsersEstimate": 31432
     },
     {
       "ID": "AchievementThroneID",
@@ -6715,7 +6720,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 224510,
+      "Progressed": 224511,
       "Completed": 721
     }
   ],
@@ -6723,8 +6728,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-06-06T05:59:49.7521505+00:00",
-  "LastChanged_Achievements": "2023-06-06T07:06:31.5210316+00:00",
+  "LastChanged_Achievements": "2023-06-06T08:05:49.5058661+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:51.3902988+00:00",
-  "LastUpdate_Ratings": "2023-06-06T07:00:48.5272634+00:00",
-  "LastUpdate_Achievements": "2023-06-06T07:06:31.5210879+00:00"
+  "LastUpdate_Ratings": "2023-06-06T07:59:47.2584116+00:00",
+  "LastUpdate_Achievements": "2023-06-06T08:05:49.5059248+00:00"
 }

@@ -1,7 +1,7 @@
 # King's Bounty II
 [Store](https://store.epicgames.com/en-US/p/kings-bounty-ii)  
 [View Rawdata](../../db/k/king's_bounty_ii.json)  
-Rating: 4.17 (Ranked 846)  
+Rating: 4.18 (Ranked 840)  
 Number of Ratings: 108  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -62,3 +62,4 @@ Number of Ratings: 108  (23.09.2022)
 | 2023-03-29 | 4.16 | - | - | - |
 | 2023-03-31 | 4.16 | - | 0 | 0 |
 | 2023-04-05 | 4.17 | - | 0 | 0 |
+| 2023-06-06 | 4.18 | - | 0 | 0 |

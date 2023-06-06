@@ -6,7 +6,7 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,739 |
+| Goodest Of The Good Cops | 28.00% | ~33,740 |
 | Biggest Communism Builder | 24.00% | ~28,920 |
 | The World's Most Laughable Centrist | 20.00% | ~24,100 |
 | Il Coppo Del'Arte! | 18.00% | ~21,690 |
@@ -29,15 +29,15 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,410 |
 | Wheel of Pleasure and Light | 2.00% | ~2,410 |
 | Massive Torque Dork | 1.00% | ~1,205 |
-| Avowed Inframaterialist | 0.90% | ~1,084 |
-| Real Musor | 0.90% | ~1,084 |
+| Avowed Inframaterialist | 0.90% | ~1,085 |
+| Real Musor | 0.90% | ~1,085 |
 | Baddest Brow in Town | 0.80% | ~964 |
 | Committee of la Responsabilité | 0.80% | ~964 |
 | Venture into the HARDCORE | 0.80% | ~964 |
 | Networthy Individual | 0.70% | ~843 |
 | Leopard Mindset | 0.60% | ~723 |
-| Modus: Mullen | 0.30% | ~361 |
-| Palerunner | 0.30% | ~361 |
+| Modus: Mullen | 0.30% | ~362 |
+| Palerunner | 0.30% | ~362 |
 | Cause a ****storm | 0.20% | ~241 |
 | True Detective | 0.20% | ~241 |
 | The Icebreaker | 0.20% | ~241 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~120 |
 | What body? | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,498 (Ranked 58)  
+Progressed: 120,500 (Ranked 58)  
 Completed: 25 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 25 (0.02%) (Ranked 195)
 | 2023-06-03 | 120,205 | 25 |
 | 2023-06-04 | 120,358 | 25 |
 | 2023-06-05 | 120,482 | 25 |
-| 2023-06-06 | 120,498 | 25 |
+| 2023-06-06 | 120,500 | 25 |
 ## Awards
 Max (Character Customization): 691  (Ranked 157)  
 Sum: 1,049 (Ranked 230)  

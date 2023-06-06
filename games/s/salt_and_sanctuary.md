@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~434,561 |
-| The Three | 64.00% | ~335,084 |
-| The Banquet | 40.00% | ~209,427 |
-| Devara's Light | 30.00% | ~157,070 |
-| The Iron Ones | 18.00% | ~94,242 |
+| Find Sanctuary | 83.00% | ~434,563 |
+| The Three | 64.00% | ~335,085 |
+| The Banquet | 40.00% | ~209,428 |
+| Devara's Light | 30.00% | ~157,071 |
+| The Iron Ones | 18.00% | ~94,243 |
 | The Village | 16.00% | ~83,771 |
 | The Forest | 14.00% | ~73,300 |
 | Branded | 13.00% | ~68,064 |
 | The Imposter | 13.00% | ~68,064 |
 | The Keep | 13.00% | ~68,064 |
-| The Castle | 11.00% | ~57,592 |
+| The Castle | 11.00% | ~57,593 |
 | The Dome | 9.00% | ~47,121 |
 | The Red Hall | 9.00% | ~47,121 |
-| The Sacrifice | 8.00% | ~41,885 |
+| The Sacrifice | 8.00% | ~41,886 |
 | The Cave | 7.00% | ~36,650 |
 | The Stone Roots | 7.00% | ~36,650 |
 | The Ziggurat | 7.00% | ~36,650 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,471 |
 | Fading Fast | 1.00% | ~5,236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,568 (Ranked 26)  
+Progressed: 523,570 (Ranked 26)  
 Completed: 1,437 (0.27%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,11 +91,11 @@ Completed: 1,437 (0.27%) (Ranked 136)
 | 2023-06-03 | 523,271 | 1,435 |
 | 2023-06-04 | 523,436 | 1,436 |
 | 2023-06-05 | 523,545 | 1,436 |
-| 2023-06-06 | 523,568 | 1,437 |
+| 2023-06-06 | 523,570 | 1,437 |
 ## Awards
 Max (Challenging Combat): 271  (Ranked 236)  
-Sum: 1,886 (Ranked 193)  
-Diff (max vs sum): 43  
+Sum: 1,887 (Ranked 192)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 271 |
@@ -103,7 +103,7 @@ Diff (max vs sum): 43
 | This game is Highly Recommended | 247 |
 | This game is Extremely Fun | 229 |
 | This game has Diverse Characters | 228 |
-| This game has Amazing Storytelling | 225 |
+| This game has Amazing Storytelling | 226 |
 | This game has Amazing Characters | 220 |
 | This game has Unique Visuals | 215 |
 | This game has Obsessive Gameplay | 164 |
@@ -223,3 +223,4 @@ Diff (max vs sum): 43
 | 2023-05-27 | 4.61 | - | 270 | 1,884 |
 | 2023-06-02 | 4.61 | - | 271 | 1,885 |
 | 2023-06-03 | 4.61 | - | 271 | 1,886 |
+| 2023-06-06 | 4.61 | - | 271 | 1,887 |

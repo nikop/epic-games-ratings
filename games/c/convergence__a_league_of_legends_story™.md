@@ -18,6 +18,7 @@
 | Fast Learner | 0.70% | ~4 |
 | Syron for Hope | 0.70% | ~4 |
 | Corin Goes Home | 0.50% | ~3 |
+| Sartorialist | 0.50% | ~3 |
 | No, Thanks! | 0.50% | ~3 |
 | Time Heals All Wounds | 0.50% | ~3 |
 | Golem Hunter | 0.50% | ~3 |
@@ -26,9 +27,10 @@
 | Good Neighbor | 0.50% | ~3 |
 | The Family Fortune | 0.50% | ~3 |
 | The Steel Shadow | 0.30% | ~2 |
-| Sartorialist | 0.30% | ~2 |
+| Street Style | 0.30% | ~2 |
 | Entresol Explorer | 0.30% | ~2 |
 | Family Memories | 0.30% | ~2 |
+| Fairgrounds Explorer | 0.30% | ~2 |
 | The Mysterious Stranger | 0.30% | ~2 |
 | Whiz Kid | 0.30% | ~2 |
 | Rail Rat | 0.30% | ~2 |
@@ -38,27 +40,25 @@
 | Theater Explorer | 0.30% | ~2 |
 | The Brass Boss | 0.30% | ~2 |
 | Right On Time | 0.20% | ~1 |
-| Street Style | 0.20% | ~1 |
+| Cultivair Explorer | 0.20% | ~1 |
 | Factorywood Explorer | 0.20% | ~1 |
-| Fairgrounds Explorer | 0.20% | ~1 |
 | The Betrayer | 0.20% | ~1 |
 | Hexlock for Protection | 0.20% | ~1 |
+| The Wicked Twins | 0.20% | ~1 |
 | Rungs Was Right | 0.20% | ~1 |
 | Thinking Two Steps Ahead | 0.00% | ~0 |
 | Chaincrawler Explorer | 0.00% | ~0 |
 | Clovemary for Remembering | 0.00% | ~0 |
-| Cultivair Explorer | 0.00% | ~0 |
 | Wunderkind | 0.00% | ~0 |
 | Fitting In | 0.00% | ~0 |
 | Wildlife Protection | 0.00% | ~0 |
 | Going to Live Forever | 0.00% | ~0 |
 | Raw Talent | 0.00% | ~0 |
 | A Lesson in Precision | 0.00% | ~0 |
-| The Wicked Twins | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 | Check Your Pulse | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610 (Ranked 195)  
+Progressed: 611 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,4 +77,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 586 | 0 |
 | 2023-06-04 | 602 | 0 |
 | 2023-06-05 | 608 | 0 |
-| 2023-06-06 | 610 | 0 |
+| 2023-06-06 | 611 | 0 |

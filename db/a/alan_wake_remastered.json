@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 52385,
+  "EOS_Progressed": 52390,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 2182,
+  "EOS_NewPlayers": 2179,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3901,6 +3901,11 @@
       "Time": "2023-06-06T07:06:17.8256551+00:00",
       "NumProgressed": 52385,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-06-06T08:05:38.1397084+00:00",
+      "NumProgressed": 52390,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 67,
@@ -3912,7 +3917,7 @@
       "Name": "Follow the Light",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 14668
+      "UsersEstimate": 14669
     },
     {
       "ID": "02",
@@ -3920,7 +3925,7 @@
       "Name": "Nordic Walking",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8905
+      "UsersEstimate": 8906
     },
     {
       "ID": "03",
@@ -3928,7 +3933,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8905
+      "UsersEstimate": 8906
     },
     {
       "ID": "04",
@@ -3952,7 +3957,7 @@
       "Name": "Park Ranger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6286
+      "UsersEstimate": 6287
     },
     {
       "ID": "07",
@@ -4008,7 +4013,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "14",
@@ -4032,7 +4037,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2619
+      "UsersEstimate": 2620
     },
     {
       "ID": "17",
@@ -4040,7 +4045,7 @@
       "Name": "Departure",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2619
+      "UsersEstimate": 2620
     },
     {
       "ID": "18",
@@ -4048,7 +4053,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "19",
@@ -4136,7 +4141,7 @@
       "Name": "Sound and Fury",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "30",
@@ -4152,7 +4157,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5762
+      "UsersEstimate": 5763
     },
     {
       "ID": "32",
@@ -4160,7 +4165,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 11525
+      "UsersEstimate": 11526
     },
     {
       "ID": "33",
@@ -4168,7 +4173,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "34",
@@ -4184,7 +4189,7 @@
       "Name": "Let There Be Light",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 12049
+      "UsersEstimate": 12050
     },
     {
       "ID": "36",
@@ -4232,7 +4237,7 @@
       "Name": "Finders Keepers",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5762
+      "UsersEstimate": 5763
     },
     {
       "ID": "42",
@@ -4248,7 +4253,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6286
+      "UsersEstimate": 6287
     },
     {
       "ID": "44",
@@ -4272,7 +4277,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "47",
@@ -4312,7 +4317,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "52",
@@ -4447,21 +4452,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 52385,
+      "Progressed": 52390,
       "Completed": 50
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 15853,
+      "Progressed": 15858,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-06-06T07:06:17.8256545+00:00",
+  "LastChanged_Achievements": "2023-06-06T08:05:38.1397074+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:48.7333402+00:00",
-  "LastUpdate_Ratings": "2023-06-06T06:57:50.5094872+00:00",
-  "LastUpdate_Achievements": "2023-06-06T07:06:17.825741+00:00"
+  "LastUpdate_Ratings": "2023-06-06T07:57:31.1183099+00:00",
+  "LastUpdate_Achievements": "2023-06-06T08:05:38.139793+00:00"
 }

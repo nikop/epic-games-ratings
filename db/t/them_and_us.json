@@ -745,9 +745,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ETUA_StayDead",
@@ -866,8 +866,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-06-06T07:03:22.3680768+00:00",
+  "LastChanged_Achievements": "2023-06-06T08:03:20.3774122+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:12.6993605+00:00",
-  "LastUpdate_Ratings": "2023-06-06T06:57:18.5744077+00:00",
-  "LastUpdate_Achievements": "2023-06-06T07:03:22.36811+00:00"
+  "LastUpdate_Ratings": "2023-06-06T07:57:05.6584673+00:00",
+  "LastUpdate_Achievements": "2023-06-06T08:03:20.3774459+00:00"
 }

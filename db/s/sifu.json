@@ -4446,10 +4446,10 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 707620,
-  "EOS_Completed": 12759,
-  "EOS_NewPlayers": 1325,
-  "EOS_NewCompleters": 12,
+  "EOS_Progressed": 707627,
+  "EOS_Completed": 12760,
+  "EOS_NewPlayers": 1329,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -8721,6 +8721,11 @@
       "Time": "2023-06-06T07:06:31.0580953+00:00",
       "NumProgressed": 707620,
       "NumCompleted": 12759
+    },
+    {
+      "Time": "2023-06-06T08:05:49.051226+00:00",
+      "NumProgressed": 707627,
+      "NumCompleted": 12760
     }
   ],
   "TotalAchievements": 50,
@@ -8804,7 +8809,7 @@
       "Name": "Iron Money",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2831
     },
     {
       "ID": "11_Wude_H5",
@@ -8812,7 +8817,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2831
     },
     {
       "ID": "12_MidAge",
@@ -8828,7 +8833,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2831
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -8948,7 +8953,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2831
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -8988,7 +8993,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2831
     },
     {
       "ID": "34_TimedTakedown",
@@ -9131,21 +9136,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16921,
+      "Progressed": 16928,
       "Completed": 10229
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707620,
-      "Completed": 12759
+      "Progressed": 707627,
+      "Completed": 12760
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-05T19:59:16.9920424+00:00",
-  "LastChanged_Achievements": "2023-06-06T07:06:31.0580948+00:00",
+  "LastChanged_Achievements": "2023-06-06T08:05:49.0512254+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-06T06:59:19.8026714+00:00",
-  "LastUpdate_Achievements": "2023-06-06T07:06:31.0581628+00:00"
+  "LastUpdate_Ratings": "2023-06-06T07:58:38.5030757+00:00",
+  "LastUpdate_Achievements": "2023-06-06T08:05:49.0512951+00:00"
 }

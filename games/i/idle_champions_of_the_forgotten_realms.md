@@ -45,6 +45,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.30% | ~270 |
 | Running of the Saurs | 0.30% | ~270 |
 | The Contagious Curse | 0.30% | ~270 |
+| Bad Odds in Avernus | 0.30% | ~169 |
 | An Even Worse Time in Avernus | 0.30% | ~169 |
 | Escort to Waterdeep | 0.30% | ~270 |
 | Waterdeep Detours | 0.30% | ~270 |
@@ -160,7 +161,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hearts Aflame | 0.20% | ~112 |
 | Look Out! | 0.20% | ~112 |
 | The Path of Dreams | 0.20% | ~112 |
-| Bad Odds in Avernus | 0.20% | ~112 |
 | The Lost Hollyphant | 0.20% | ~112 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~112 |
 | The Wandering Emporium | 0.20% | ~112 |

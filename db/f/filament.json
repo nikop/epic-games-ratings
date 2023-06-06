@@ -2,7 +2,7 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 751,
+  "Ranking_Rating": 750,
   "Ranking_Popularity": 176,
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 50,
@@ -201,9 +201,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 192365,
+  "EOS_Progressed": 192368,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4971,6 +4971,11 @@
       "Time": "2023-06-06T07:06:07.9338138+00:00",
       "NumProgressed": 192365,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-06-06T08:05:29.5327608+00:00",
+      "NumProgressed": 192368,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 29,
@@ -5006,7 +5011,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 180823
+      "UsersEstimate": 180826
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -5166,7 +5171,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19236
+      "UsersEstimate": 19237
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -5213,7 +5218,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 192365,
+      "Progressed": 192368,
       "Completed": 432
     }
   ],
@@ -5221,8 +5226,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-02T10:59:31.3885731+00:00",
-  "LastChanged_Achievements": "2023-06-06T07:06:07.9338133+00:00",
+  "LastChanged_Achievements": "2023-06-06T08:05:29.5327603+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:06.3904528+00:00",
-  "LastUpdate_Ratings": "2023-06-06T06:59:08.1987048+00:00",
-  "LastUpdate_Achievements": "2023-06-06T07:06:07.933874+00:00"
+  "LastUpdate_Ratings": "2023-06-06T07:58:29.5857156+00:00",
+  "LastUpdate_Achievements": "2023-06-06T08:05:29.5328125+00:00"
 }
