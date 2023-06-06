@@ -180,7 +180,7 @@
 | 168 | [Timberborn](games/t/timberborn.md) | 4.72 | 124 | 303 |
 | 168 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 493 |
 | 180 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 493 |
-| 180 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 336 | 215 |
+| 180 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 338 | 215 |
 | 180 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 493 |
 | 180 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,398 | 50 |
 | 180 | [Fez](games/f/fez.md) | 4.71 | 23 | 473 |
@@ -488,7 +488,7 @@
 | 475 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 852 | 145 |
 | 475 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 342 |
 | 475 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 493 |
-| 475 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,171 | 127 |
+| 475 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,173 | 127 |
 | 490 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.54 | 0 | 493 |
 | 490 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,248 | 71 |
 | 490 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 434 |
@@ -820,17 +820,17 @@
 | 816 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 176 | 274 |
 | 816 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,742 | 24 |
 | 816 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 493 |
+| 816 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 493 |
 | 816 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 77 | 353 |
-| 822 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 304 |
-| 822 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 120 | 305 |
-| 822 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.20 | 0 | 493 |
-| 822 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 493 |
-| 822 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 476 |
-| 822 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 355 |
-| 822 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 0 | 493 |
-| 822 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 493 |
-| 822 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 493 |
-| 822 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.20 | 0 | 493 |
+| 823 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 304 |
+| 823 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 120 | 305 |
+| 823 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.20 | 0 | 493 |
+| 823 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 493 |
+| 823 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 476 |
+| 823 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 355 |
+| 823 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 0 | 493 |
+| 823 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 493 |
+| 823 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 493 |
 | 832 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 390 |
 | 832 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 493 |
 | 832 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 493 |

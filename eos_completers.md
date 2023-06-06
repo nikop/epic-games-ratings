@@ -35,8 +35,8 @@
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.98% |
-| 36 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
-| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
+| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
+| 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
 | 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
@@ -55,15 +55,15 @@
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.86% |
 | 54 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
 | 55 | [Lamentum](games/l/lamentum.md) | 2.79% |
-| 56 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.78% |
-| 57 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.75% |
+| 56 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.75% |
+| 57 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.74% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 61 | [Bloodshore](games/b/bloodshore.md) | 2.47% |
 | 62 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.27% |
 | 63 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 64 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
+| 64 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
 | 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 66 | [Iron Danger](games/i/iron_danger.md) | 2.06% |
 | 67 | [JARS](games/j/jars.md) | 1.96% |
@@ -72,7 +72,7 @@
 | 70 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 71 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
 | 72 | [Somerville](games/s/somerville.md) | 1.59% |
-| 73 | [Night Book](games/n/night_book.md) | 1.57% |
+| 73 | [Night Book](games/n/night_book.md) | 1.56% |
 | 74 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
 | 75 | [Frogun](games/f/frogun.md) | 1.51% |
 | 75 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
@@ -88,7 +88,7 @@
 | 85 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 87 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.07% |
 | 88 | [Late Shift](games/l/late_shift.md) | 1.02% |
-| 89 | [Five Dates](games/f/five_dates.md) | 0.99% |
+| 89 | [Five Dates](games/f/five_dates.md) | 0.98% |
 | 90 | [Sable](games/s/sable.md) | 0.94% |
 | 91 | [Hades](games/h/hades.md) | 0.89% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
