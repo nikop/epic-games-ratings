@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -371,9 +371,9 @@
       "ID": "finished-quest-pit",
       "SetID": "799afm0",
       "Name": "Assemble a Meganewbie",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     },
     {
       "ID": "finished-quest-rat",
@@ -387,9 +387,9 @@
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "finished-quest-sci",
@@ -548,8 +548,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-06T10:06:41.5011756+00:00",
+  "LastChanged_Achievements": "2023-06-06T11:06:50.9327422+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.398253+00:00",
-  "LastUpdate_Ratings": "2023-06-06T09:58:57.357455+00:00",
-  "LastUpdate_Achievements": "2023-06-06T10:06:41.5012008+00:00"
+  "LastUpdate_Ratings": "2023-06-06T10:59:00.8051411+00:00",
+  "LastUpdate_Achievements": "2023-06-06T11:06:50.9327648+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1606,
+  "EOS_Progressed": 1607,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1261,6 +1261,11 @@
       "Time": "2023-06-06T06:00:14.8934094+00:00",
       "NumProgressed": 1606,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-06T11:01:47.6447728+00:00",
+      "NumProgressed": 1607,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1270,9 +1275,9 @@
       "ID": "BecomeKing",
       "SetID": "9lj35g4",
       "Name": "Become King",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1141
     },
     {
       "ID": "Collect20Gold",
@@ -1296,7 +1301,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "CollectAllStatues",
@@ -1336,7 +1341,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "CompleteElderFaction",
@@ -1344,7 +1349,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "CompleteGuardFaction",
@@ -1384,7 +1389,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1400,7 +1405,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -1424,7 +1429,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "Kill25Bugs",
@@ -1432,7 +1437,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "Kill25Frogs",
@@ -1488,7 +1493,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "RescueBrothers",
@@ -1496,7 +1501,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1511,22 +1516,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1606,
+      "Progressed": 1607,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 247,
-      "Completed": 247
+      "Progressed": 248,
+      "Completed": 248
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-06T10:01:21.9623532+00:00",
+  "LastChanged_Achievements": "2023-06-06T11:01:47.6447723+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-06T09:58:36.7660924+00:00",
-  "LastUpdate_Achievements": "2023-06-06T10:01:21.9623801+00:00"
+  "LastUpdate_Ratings": "2023-06-06T10:58:36.5150816+00:00",
+  "LastUpdate_Achievements": "2023-06-06T11:01:47.6447948+00:00"
 }

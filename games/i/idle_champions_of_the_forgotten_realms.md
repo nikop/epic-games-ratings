@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,798 |
+| A Brief Tour of the Realms | 2.00% | ~1,799 |
 | The Cursed Farmer | 1.00% | ~899 |
 | The Mad Wizard | 0.90% | ~809 |
 | The Court of Storms | 0.90% | ~506 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,922 (Ranked 62)  
-Completed: 1,917 (2.13%) (Ranked 65)  
+Progressed: 89,927 (Ranked 62)  
+Completed: 1,918 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -547,7 +547,7 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
-| 2023-06-06 | 89,922 | 1,917 |
+| 2023-06-06 | 89,927 | 1,918 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,043 (Ranked 37)  

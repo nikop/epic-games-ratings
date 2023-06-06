@@ -11,7 +11,7 @@ Rating: 4.57 (Ranked 442)
 | Infinite Growth... | 12.00% | ~296 |
 | A Thousand Strong | 8.00% | ~197 |
 | Ready for a New World | 8.00% | ~197 |
-| Space Society | 7.00% | ~172 |
+| Space Society | 7.00% | ~173 |
 | Permanent Redesigns | 6.00% | ~148 |
 | Ain't Nobody Got Time for That | 6.00% | ~148 |
 | Guy de Borderlands | 5.00% | ~123 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 442)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,464 (Ranked 145)  
+Progressed: 2,465 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 2,408 | 0 |
 | 2023-06-04 | 2,441 | 0 |
 | 2023-06-05 | 2,460 | 0 |
-| 2023-06-06 | 2,464 | 0 |
+| 2023-06-06 | 2,465 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

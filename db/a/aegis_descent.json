@@ -2,9 +2,9 @@
   "ID": "ddac88f4f58b4abc99644d6b529a16cd",
   "Name": "Aegis Descent",
   "ProductSlug": "aegis-descent-a1f5a0",
-  "Ranking_EOS_Progress": 214,
+  "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 374,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -162,6 +162,11 @@
       "Time": "2023-06-06T00:02:48.13464+00:00",
       "NumProgressed": 373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T11:01:29.8894224+00:00",
+      "NumProgressed": 374,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -173,7 +178,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Award_BigSpender",
@@ -213,7 +218,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -283,9 +288,9 @@
       "ID": "Award_Gunner",
       "SetID": "9ojec6n",
       "Name": "Gunner",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 209
     },
     {
       "ID": "Award_HalfwayThere",
@@ -309,7 +314,7 @@
       "Name": "Hazardous Duty",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Award_HeavyMetal",
@@ -323,9 +328,9 @@
       "ID": "Award_HullKing",
       "SetID": "9ojec6n",
       "Name": "Hull King",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 97
     },
     {
       "ID": "Award_IntelKing",
@@ -411,9 +416,9 @@
       "ID": "Award_Salvage",
       "SetID": "9ojec6n",
       "Name": "Salvage",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "Award_Scavenger",
@@ -517,14 +522,14 @@
       "Name": "What-A-Shot",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 374,
       "Completed": 1
     }
   ],
@@ -532,8 +537,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-06T10:01:06.2199905+00:00",
+  "LastChanged_Achievements": "2023-06-06T11:01:29.8894219+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:28.8451881+00:00",
-  "LastUpdate_Ratings": "2023-06-06T09:58:30.271952+00:00",
-  "LastUpdate_Achievements": "2023-06-06T10:01:06.2200292+00:00"
+  "LastUpdate_Ratings": "2023-06-06T10:58:29.5069394+00:00",
+  "LastUpdate_Achievements": "2023-06-06T11:01:29.8894567+00:00"
 }

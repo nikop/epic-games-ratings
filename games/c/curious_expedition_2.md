@@ -18,8 +18,8 @@ Number of Ratings: 20  (23.09.2022)
 | Treasure Hunt | 31.00% | ~96 |
 | Good Mama | 29.00% | ~90 |
 | O Captain My Captain | 28.00% | ~87 |
+| Taxonomist | 26.00% | ~80 |
 | Plunderer | 26.00% | ~80 |
-| Taxonomist | 25.00% | ~77 |
 | Uncertain Loyalties | 23.00% | ~71 |
 | Traveller | 22.00% | ~68 |
 | Nahua Seeker | 22.00% | ~68 |

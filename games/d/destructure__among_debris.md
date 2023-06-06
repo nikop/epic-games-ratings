@@ -14,8 +14,8 @@
 | Ball Galore | 6.00% | ~8 |
 | You Are Actually Supposed To Use Those | 6.00% | ~8 |
 | Easy Victory | 5.00% | ~6 |
+| Back From The Dead | 4.00% | ~5 |
 | Ball Protector | 4.00% | ~5 |
-| Back From The Dead | 3.00% | ~4 |
 | Legendary Destructor | 3.00% | ~4 |
 | Ticking Clock | 3.00% | ~4 |
 | Ball Collector | 2.00% | ~2 |

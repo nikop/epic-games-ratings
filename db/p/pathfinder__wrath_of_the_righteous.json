@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2720,7 +2720,7 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9578,
+  "EOS_Progressed": 9579,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
@@ -5695,6 +5695,11 @@
       "Time": "2023-06-06T08:05:54.0683226+00:00",
       "NumProgressed": 9578,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T11:07:08.1179734+00:00",
+      "NumProgressed": 9579,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5706,7 +5711,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "02_BurningCity",
@@ -5906,7 +5911,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "28_GreatUpstart",
@@ -6633,21 +6638,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8360,
+      "Progressed": 8361,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9578,
+      "Progressed": 9579,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-06T06:58:34.2270379+00:00",
-  "LastChanged_Achievements": "2023-06-06T10:06:57.5066079+00:00",
+  "LastChanged_Achievements": "2023-06-06T11:07:08.1179725+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-06T09:58:34.5330661+00:00",
-  "LastUpdate_Achievements": "2023-06-06T10:06:57.5068028+00:00"
+  "LastUpdate_Ratings": "2023-06-06T10:58:33.9447561+00:00",
+  "LastUpdate_Achievements": "2023-06-06T11:07:08.1181123+00:00"
 }

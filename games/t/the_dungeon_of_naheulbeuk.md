@@ -23,13 +23,13 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 38.00% | ~8 |
 | Dwarf Fortress | 38.00% | ~8 |
 | The Ranger of Chaos | 38.00% | ~8 |
+| Look but don't touch | 33.00% | ~7 |
 | Material Girl | 33.00% | ~7 |
+| Shiny and Crôm | 29.00% | ~6 |
 | The demons' feast | 29.00% | ~6 |
 | The Woman in the High Castle | 29.00% | ~6 |
-| Look but don't touch | 29.00% | ~6 |
 | Gargantua | 29.00% | ~6 |
 | Team Building Exercise | 29.00% | ~6 |
-| Shiny and Crôm | 24.00% | ~5 |
 | The Statuette of Gladeulfeurah | 24.00% | ~5 |
 | A tale of adventurers not quite like the others... | 24.00% | ~5 |
 | Cursed die | 19.00% | ~4 |

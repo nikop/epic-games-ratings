@@ -3336,9 +3336,9 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 276663,
+  "EOS_Progressed": 276665,
   "EOS_Completed": 388,
-  "EOS_NewPlayers": 2368,
+  "EOS_NewPlayers": 2362,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -8101,6 +8101,11 @@
       "Time": "2023-06-06T10:05:16.9498879+00:00",
       "NumProgressed": 276663,
       "NumCompleted": 388
+    },
+    {
+      "Time": "2023-06-06T11:05:16.4951072+00:00",
+      "NumProgressed": 276665,
+      "NumCompleted": 388
     }
   ],
   "TotalAchievements": 45,
@@ -8120,7 +8125,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19366
+      "UsersEstimate": 19367
     },
     {
       "ID": "PFA_11",
@@ -8128,7 +8133,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 19366
+      "UsersEstimate": 19367
     },
     {
       "ID": "PFA_12",
@@ -8136,7 +8141,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 19366
+      "UsersEstimate": 19367
     },
     {
       "ID": "PFA_13",
@@ -8232,7 +8237,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19366
+      "UsersEstimate": 19367
     },
     {
       "ID": "PFA_24",
@@ -8440,7 +8445,7 @@
       "Name": "First Class Student",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19366
+      "UsersEstimate": 19367
     },
     {
       "ID": "PFA_7",
@@ -8448,7 +8453,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19366
+      "UsersEstimate": 19367
     },
     {
       "ID": "PFA_8",
@@ -8456,7 +8461,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19366
+      "UsersEstimate": 19367
     },
     {
       "ID": "PFA_9",
@@ -8471,7 +8476,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 276663,
+      "Progressed": 276665,
       "Completed": 388
     }
   ],
@@ -8479,8 +8484,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-06T05:57:16.258759+00:00",
-  "LastChanged_Achievements": "2023-06-06T10:05:16.9498874+00:00",
+  "LastChanged_Achievements": "2023-06-06T11:05:16.4951067+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:24.8723684+00:00",
-  "LastUpdate_Ratings": "2023-06-06T09:57:33.9305039+00:00",
-  "LastUpdate_Achievements": "2023-06-06T10:05:16.9499552+00:00"
+  "LastUpdate_Ratings": "2023-06-06T10:57:24.543127+00:00",
+  "LastUpdate_Achievements": "2023-06-06T11:05:16.4951599+00:00"
 }

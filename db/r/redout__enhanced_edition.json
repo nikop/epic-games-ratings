@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223927,
+  "EOS_Progressed": 223928,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4938,6 +4938,11 @@
       "Time": "2023-06-06T10:06:24.8581925+00:00",
       "NumProgressed": 223927,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-06-06T11:06:32.0521369+00:00",
+      "NumProgressed": 223928,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 34,
@@ -5037,7 +5042,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44785
+      "UsersEstimate": 44786
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -5109,7 +5114,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20153
+      "UsersEstimate": 20154
     },
     {
       "ID": "PHOTOFINISH",
@@ -5220,15 +5225,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 223927,
+      "Progressed": 223928,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-06T10:06:24.858192+00:00",
+  "LastChanged_Achievements": "2023-06-06T11:06:32.0521363+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.4465575+00:00",
-  "LastUpdate_Ratings": "2023-06-06T09:58:31.9264733+00:00",
-  "LastUpdate_Achievements": "2023-06-06T10:06:24.858241+00:00"
+  "LastUpdate_Ratings": "2023-06-06T10:58:30.9894348+00:00",
+  "LastUpdate_Achievements": "2023-06-06T11:06:32.0521782+00:00"
 }

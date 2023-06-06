@@ -10,8 +10,8 @@ Rating: 4.18 (Ranked 840)
 | Desperate Times | 10.00% | ~1,460 |
 | Paper Jams | 9.00% | ~1,314 |
 | Chew 'Em Up | 8.00% | ~1,168 |
+| Reforged | 8.00% | ~1,168 |
 | Workplace Hazard | 7.00% | ~1,022 |
-| Reforged | 7.00% | ~1,022 |
 | If the SHU Fits... | 7.00% | ~1,022 |
 | Giving Back | 6.00% | ~876 |
 | Get a Grip | 5.00% | ~730 |

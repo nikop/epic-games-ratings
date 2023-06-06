@@ -9,14 +9,15 @@
 | Creature Evolution | 45.00% | ~5 |
 | Think Positive | 45.00% | ~5 |
 | Prized Possession | 45.00% | ~5 |
+| Kingdom Party Time | 18.00% | ~2 |
+| Festival Fever | 9.00% | ~1 |
 | Landscaper | 9.00% | ~1 |
 | Dream Big | 9.00% | ~1 |
-| Kingdom Party Time | 9.00% | ~1 |
+| Entering New Territory | 9.00% | ~1 |
 | Lecturer | 9.00% | ~1 |
 | Kindred Spirits | 9.00% | ~1 |
 | Kingdom Champions | 0.00% | ~0 |
 | Dream Team | 0.00% | ~0 |
-| Festival Fever | 0.00% | ~0 |
 | S is for Sensational | 0.00% | ~0 |
 | Gotta Adopt Them All! | 0.00% | ~0 |
 | Protected Nature Reserve | 0.00% | ~0 |
@@ -26,7 +27,6 @@
 | Dragon Academy | 0.00% | ~0 |
 | Fully Booked! | 0.00% | ~0 |
 | Job Done! | 0.00% | ~0 |
-| Entering New Territory | 0.00% | ~0 |
 | Neverending Story | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -30,9 +30,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 0.90% | ~6,369 |
 | Scareless | 0.80% | ~5,661 |
 | Kung-Fu Tussle | 0.80% | ~5,661 |
-| Dance of the Praying Mantis | 0.70% | ~4,953 |
-| Qi Gong: Mind | 0.70% | ~4,953 |
-| I know Kung-Fu | 0.70% | ~4,953 |
+| Dance of the Praying Mantis | 0.70% | ~4,954 |
+| Qi Gong: Mind | 0.70% | ~4,954 |
+| I know Kung-Fu | 0.70% | ~4,954 |
 | Deadly Venom | 0.60% | ~102 |
 | A Touch of Acumen | 0.60% | ~102 |
 | Muk Yan Master | 0.50% | ~3,538 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,640 (Ranked 16)  
+Progressed: 707,646 (Ranked 16)  
 Completed: 12,760 (1.80%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 12,760 (1.80%) (Ranked 69)
 | 2023-06-03 | 707,194 | 12,754 |
 | 2023-06-04 | 707,419 | 12,757 |
 | 2023-06-05 | 707,566 | 12,758 |
-| 2023-06-06 | 707,640 | 12,760 |
+| 2023-06-06 | 707,646 | 12,760 |
 ## Awards
 Max (Great Boss Battles): 6,137  (Ranked 53)  
 Sum: 10,472 (Ranked 78)  

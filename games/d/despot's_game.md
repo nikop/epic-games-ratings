@@ -15,12 +15,12 @@ Rating: 4.50 (Ranked 545)
 | Through the Darkness | 40.00% | ~157 |
 | Fat of the Earth | 34.00% | ~134 |
 | Last Man Standing | 32.00% | ~126 |
-| Catch Jonathan_tostar | 26.00% | ~102 |
+| Catch Jonathan_tostar | 27.00% | ~106 |
 | Great Hero | 26.00% | ~102 |
 | Campaigning | 25.00% | ~98 |
+| Assemble a Meganewbie | 25.00% | ~98 |
 | He's Seen It All | 25.00% | ~98 |
 | Rookie | 25.00% | ~98 |
-| Assemble a Meganewbie | 24.00% | ~94 |
 | Frugal | 21.00% | ~83 |
 | Feed a God | 20.00% | ~79 |
 | To the Moon and Back | 20.00% | ~79 |

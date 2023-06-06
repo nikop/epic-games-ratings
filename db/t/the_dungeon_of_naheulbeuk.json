@@ -466,9 +466,9 @@
       "ID": "BarbarianEpic",
       "SetID": "50chcgj",
       "Name": "Shiny and Cr\u00F4m",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -882,9 +882,9 @@
       "ID": "ElfEpic",
       "SetID": "50chcgj",
       "Name": "Look but don\u0027t touch",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -1160,8 +1160,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-06T10:05:30.7731301+00:00",
+  "LastChanged_Achievements": "2023-06-06T11:05:32.0034519+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:21.831619+00:00",
-  "LastUpdate_Ratings": "2023-06-06T09:59:18.5886397+00:00",
-  "LastUpdate_Achievements": "2023-06-06T10:05:30.7732339+00:00"
+  "LastUpdate_Ratings": "2023-06-06T10:59:25.4982692+00:00",
+  "LastUpdate_Achievements": "2023-06-06T11:05:32.0035303+00:00"
 }
