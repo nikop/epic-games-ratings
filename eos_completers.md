@@ -27,14 +27,14 @@
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.64% |
 | 26 | [Scorn](games/s/scorn.md) | 6.88% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.78% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.59% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.57% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.35% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.00% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.99% |
 | 36 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
@@ -50,7 +50,7 @@
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
-| 51 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
+| 51 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 52 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.86% |
 | 54 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
@@ -89,7 +89,7 @@
 | 87 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.07% |
 | 88 | [Late Shift](games/l/late_shift.md) | 1.02% |
 | 89 | [Five Dates](games/f/five_dates.md) | 0.99% |
-| 90 | [Sable](games/s/sable.md) | 0.94% |
+| 90 | [Sable](games/s/sable.md) | 0.95% |
 | 91 | [Hades](games/h/hades.md) | 0.89% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
