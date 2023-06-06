@@ -34,20 +34,20 @@ Number of Ratings: 1,611  (23.09.2022)
 | Baddest Brow in Town | 0.80% | ~964 |
 | Committee of la Responsabilité | 0.80% | ~964 |
 | Venture into the HARDCORE | 0.80% | ~964 |
-| Networthy Individual | 0.70% | ~843 |
+| Networthy Individual | 0.70% | ~844 |
 | Leopard Mindset | 0.60% | ~723 |
 | Modus: Mullen | 0.30% | ~362 |
 | Palerunner | 0.30% | ~362 |
 | Cause a ****storm | 0.20% | ~241 |
 | True Detective | 0.20% | ~241 |
 | The Icebreaker | 0.20% | ~241 |
-| The Most Honourable Cop in The Land | 0.10% | ~120 |
-| Gluten-Free Topping Pie | 0.10% | ~120 |
-| Get Kim to Wear *The Jacket* | 0.10% | ~120 |
-| Medal dispenser | 0.10% | ~120 |
-| What body? | 0.10% | ~120 |
+| The Most Honourable Cop in The Land | 0.10% | ~121 |
+| Gluten-Free Topping Pie | 0.10% | ~121 |
+| Get Kim to Wear *The Jacket* | 0.10% | ~121 |
+| Medal dispenser | 0.10% | ~121 |
+| What body? | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,500 (Ranked 58)  
+Progressed: 120,501 (Ranked 58)  
 Completed: 25 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 25 (0.02%) (Ranked 195)
 | 2023-06-03 | 120,205 | 25 |
 | 2023-06-04 | 120,358 | 25 |
 | 2023-06-05 | 120,482 | 25 |
-| 2023-06-06 | 120,500 | 25 |
+| 2023-06-06 | 120,501 | 25 |
 ## Awards
 Max (Character Customization): 691  (Ranked 157)  
 Sum: 1,049 (Ranked 230)  

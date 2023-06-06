@@ -8,13 +8,13 @@
 | A bottomless pit | 83.00% | ~49 |
 | Pigeon | 81.00% | ~48 |
 | Baited | 68.00% | ~40 |
-| "Swoosh" | 56.00% | ~33 |
+| "Swoosh" | 58.00% | ~34 |
 | The light at the end of the tunnel | 53.00% | ~31 |
 | Splash! | 53.00% | ~31 |
 | Masochistic | 46.00% | ~27 |
 | Soft skin | 41.00% | ~24 |
+| Sensitive soul | 34.00% | ~20 |
 | Squid game | 32.00% | ~19 |
-| Sensitive soul | 32.00% | ~19 |
 | Rock Solid | 27.00% | ~16 |
 | The beast within | 27.00% | ~16 |
 | Rooftop | 27.00% | ~16 |
@@ -32,7 +32,7 @@
 | MayDay! MayDay! | 14.00% | ~8 |
 | GG EZ | 8.00% | ~5 |
 | Comeback | 8.00% | ~5 |
-| Gooooooaaaaal!!! | 7.00% | ~4 |
+| Gooooooaaaaal!!! | 8.00% | ~5 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
 | Sadistic | 0.00% | ~0 |

@@ -38,13 +38,13 @@ Rating: 3.97 (Ranked 905)
 | Doing My Part | 6.00% | ~78 |
 | Frostfire Liberator | 6.00% | ~78 |
 | Moving Up The Ladder | 6.00% | ~78 |
+| Four Leaf Clover | 5.00% | ~65 |
 | Here We Go Again | 5.00% | ~65 |
 | The Expeditioner | 5.00% | ~65 |
 | The father of Dragons | 5.00% | ~65 |
 | Trader | 5.00% | ~65 |
 | Ancient Knowledge | 4.00% | ~52 |
 | Background Story | 4.00% | ~52 |
-| Four Leaf Clover | 4.00% | ~52 |
 | How Do You Turn This On? | 4.00% | ~52 |
 | Master Enchanter | 4.00% | ~52 |
 | Missions Dedication | 4.00% | ~52 |

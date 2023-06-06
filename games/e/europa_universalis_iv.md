@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,571 |
-| That's a Grand Army | 8.00% | ~4,064 |
-| That is mine! | 8.00% | ~4,064 |
-| Victorious! | 8.00% | ~4,064 |
-| Brothers in Arms | 6.00% | ~3,048 |
-| That's a Grand Navy | 6.00% | ~3,048 |
-| Seriously?! | 6.00% | ~3,048 |
+| Until death do us apart | 9.00% | ~4,573 |
+| That's a Grand Army | 8.00% | ~4,065 |
+| That is mine! | 8.00% | ~4,065 |
+| Victorious! | 8.00% | ~4,065 |
+| Brothers in Arms | 6.00% | ~3,049 |
+| That's a Grand Navy | 6.00% | ~3,049 |
+| Seriously?! | 6.00% | ~3,049 |
 | For the Glory | 5.00% | ~2,540 |
 | Cold War | 4.00% | ~2,032 |
 | True Catholic | 4.00% | ~2,032 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,794 (Ranked 78)  
+Progressed: 50,810 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,21 +408,21 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 49,497 | 0 |
 | 2023-06-04 | 50,194 | 0 |
 | 2023-06-05 | 50,691 | 0 |
-| 2023-06-06 | 50,794 | 0 |
+| 2023-06-06 | 50,810 | 0 |
 ## Awards
 Max (Educational): 5,347  (Ranked 61)  
-Sum: 44,174 (Ranked 27)  
+Sum: 44,185 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,347 |
-| This game is Highly Recommended | 5,115 |
+| This game is Highly Recommended | 5,120 |
 | This game has Challenging Combat | 5,098 |
 | This game is Extremely Fun | 5,065 |
 | This game has Diverse Characters | 5,036 |
 | This game is Relaxing | 4,958 |
 | This game has Competitive Players | 4,812 |
-| This game has Amazing Storytelling | 4,542 |
+| This game has Amazing Storytelling | 4,548 |
 | This game has Amazing Characters | 4,201 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -568,4 +568,4 @@ Diff (max vs sum): 34
 | 2023-06-03 | 4.68 | - | 5,338 | 44,083 |
 | 2023-06-04 | 4.68 | - | 5,342 | 44,146 |
 | 2023-06-05 | 4.68 | - | 5,347 | 44,169 |
-| 2023-06-06 | 4.68 | - | 5,347 | 44,174 |
+| 2023-06-06 | 4.68 | - | 5,347 | 44,185 |

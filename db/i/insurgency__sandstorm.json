@@ -2191,9 +2191,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 380714,
+  "EOS_Progressed": 380722,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3794,
+  "EOS_NewPlayers": 3791,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7016,6 +7016,11 @@
       "Time": "2023-06-06T08:02:34.5719534+00:00",
       "NumProgressed": 380714,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-06T09:03:19.186245+00:00",
+      "NumProgressed": 380722,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -7051,7 +7056,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11421
+      "UsersEstimate": 11422
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -7155,7 +7160,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11421
+      "UsersEstimate": 11422
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -7259,7 +7264,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11421
+      "UsersEstimate": 11422
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -7283,7 +7288,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11421
+      "UsersEstimate": 11422
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -7306,15 +7311,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 380714,
+      "Progressed": 380722,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-06-05T13:58:19.1464362+00:00",
-  "LastChanged_Achievements": "2023-06-06T08:02:34.5719528+00:00",
+  "LastChanged_Achievements": "2023-06-06T09:03:19.1862445+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:58.9693316+00:00",
-  "LastUpdate_Ratings": "2023-06-06T07:57:40.1432465+00:00",
-  "LastUpdate_Achievements": "2023-06-06T08:02:34.5720101+00:00"
+  "LastUpdate_Ratings": "2023-06-06T08:57:59.9714107+00:00",
+  "LastUpdate_Achievements": "2023-06-06T09:03:19.1862875+00:00"
 }

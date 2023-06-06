@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14281,
+  "EOS_Progressed": 14282,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -3866,6 +3866,11 @@
       "Time": "2023-06-06T07:01:32.1871692+00:00",
       "NumProgressed": 14281,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-06-06T09:00:46.6125214+00:00",
+      "NumProgressed": 14282,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 16,
@@ -3885,7 +3890,7 @@
       "Name": "Burning For You",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4141
+      "UsersEstimate": 4142
     },
     {
       "ID": "Deadline",
@@ -3973,7 +3978,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7283
+      "UsersEstimate": 7284
     },
     {
       "ID": "Sole_Survivor",
@@ -4004,15 +4009,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14281,
+      "Progressed": 14282,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-06T08:02:11.503935+00:00",
+  "LastChanged_Achievements": "2023-06-06T09:00:46.6125208+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:21.5801911+00:00",
-  "LastUpdate_Ratings": "2023-06-06T07:58:38.9881188+00:00",
-  "LastUpdate_Achievements": "2023-06-06T08:02:11.5039706+00:00"
+  "LastUpdate_Ratings": "2023-06-06T08:59:00.2071692+00:00",
+  "LastUpdate_Achievements": "2023-06-06T09:00:46.6125481+00:00"
 }

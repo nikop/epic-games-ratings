@@ -4126,9 +4126,9 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89915,
+  "EOS_Progressed": 89918,
   "EOS_Completed": 1917,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8851,6 +8851,11 @@
       "Time": "2023-06-06T07:06:40.5321823+00:00",
       "NumProgressed": 89915,
       "NumCompleted": 1917
+    },
+    {
+      "Time": "2023-06-06T09:06:10.5755634+00:00",
+      "NumProgressed": 89918,
+      "NumCompleted": 1917
     }
   ],
   "TotalAchievements": 493,
@@ -10726,7 +10731,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "objective_completed_40",
@@ -11228,9 +11233,9 @@
       "ID": "objective_completed_571",
       "SetID": "cc37lbc",
       "Name": "Troublesome Prisoner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_572",
@@ -12805,21 +12810,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56189,
+      "Progressed": 56192,
       "Completed": 2773
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89915,
+      "Progressed": 89918,
       "Completed": 1917
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T02:20:25.579569+00:00",
-  "LastChanged_Achievements": "2023-06-06T08:05:57.3861826+00:00",
+  "LastChanged_Achievements": "2023-06-06T09:06:10.575563+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-06T07:57:50.6171727+00:00",
-  "LastUpdate_Achievements": "2023-06-06T08:05:57.3885667+00:00"
+  "LastUpdate_Ratings": "2023-06-06T08:58:10.5191897+00:00",
+  "LastUpdate_Achievements": "2023-06-06T09:06:10.5777347+00:00"
 }

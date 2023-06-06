@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 621,
+  "EOS_Progressed": 622,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -245,6 +245,11 @@
       "Time": "2023-06-04T14:02:28.6170761+00:00",
       "NumProgressed": 621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T09:00:43.6226494+00:00",
+      "NumProgressed": 622,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -270,9 +275,9 @@
       "ID": "Arm_Wrestling",
       "SetID": "gl7plp",
       "Name": "Arm Wrestlin\u0027",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "Big_Spender",
@@ -336,7 +341,7 @@
       "Name": "I\u0027m walking here!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "I_just_love_stuff",
@@ -352,15 +357,15 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "In the smacker...I think",
       "SetID": "gl7plp",
       "Name": "In the smacker...I think",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "Keep_em_coming",
@@ -368,7 +373,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "Lady_Luck",
@@ -382,9 +387,9 @@
       "ID": "Omnipotence",
       "SetID": "gl7plp",
       "Name": "Omnipotence",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 118
+      "UsersEstimate": 112
     },
     {
       "ID": "SERENITY_NOW",
@@ -408,7 +413,7 @@
       "Name": "So Fresh and So clean clean",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Supreme_Bartender_Ann",
@@ -416,7 +421,7 @@
       "Name": "Supreme Bartender Ann",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Tell_me_your_story",
@@ -432,7 +437,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "The Traveler",
@@ -456,7 +461,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "The_Warlord",
@@ -543,7 +548,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 621,
+      "Progressed": 622,
       "Completed": 0
     }
   ],
@@ -551,8 +556,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-06T08:00:17.3900345+00:00",
+  "LastChanged_Achievements": "2023-06-06T09:00:43.6226488+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:46.0234208+00:00",
-  "LastUpdate_Ratings": "2023-06-06T07:57:29.3906445+00:00",
-  "LastUpdate_Achievements": "2023-06-06T08:00:17.390061+00:00"
+  "LastUpdate_Ratings": "2023-06-06T08:57:48.9073916+00:00",
+  "LastUpdate_Achievements": "2023-06-06T09:00:43.6226724+00:00"
 }

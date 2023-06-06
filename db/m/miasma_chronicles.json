@@ -64,7 +64,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1036,
+  "EOS_Progressed": 1037,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
@@ -1354,6 +1354,11 @@
       "Time": "2023-06-06T03:18:15.7917505+00:00",
       "NumProgressed": 1036,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T09:03:22.7942256+00:00",
+      "NumProgressed": 1037,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1381,7 +1386,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1413,7 +1418,7 @@
       "Name": "Chain Killer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1533,7 +1538,7 @@
       "Name": "Experienced",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "FIRESTARTER",
@@ -1549,7 +1554,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1595,9 +1600,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 694
+      "UsersEstimate": 684
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1619,9 +1624,9 @@
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 187
     },
     {
       "ID": "LUMBERJACK",
@@ -1653,7 +1658,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -1669,15 +1674,15 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 249
     },
     {
       "ID": "RUTHLESS",
@@ -1733,7 +1738,7 @@
       "Name": "Technophobe",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1749,7 +1754,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "THE_WATCHERS",
@@ -1772,7 +1777,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1036,
+      "Progressed": 1037,
       "Completed": 0
     }
   ],
@@ -1780,8 +1785,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-06T08:02:38.0718258+00:00",
+  "LastChanged_Achievements": "2023-06-06T09:03:22.794225+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-06T07:58:02.8882816+00:00",
-  "LastUpdate_Achievements": "2023-06-06T08:02:38.0718765+00:00"
+  "LastUpdate_Ratings": "2023-06-06T08:58:23.134402+00:00",
+  "LastUpdate_Achievements": "2023-06-06T09:03:22.794265+00:00"
 }

@@ -6,37 +6,37 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 28.00% | ~14,669 |
-| Let There Be Light | 23.00% | ~12,050 |
-| Float Like a Butterfly | 22.00% | ~11,526 |
-| Nordic Walking | 17.00% | ~8,906 |
-| Bright Falls' Finest | 17.00% | ~8,906 |
-| Under a Thin Layer of Skin | 15.00% | ~7,858 |
-| Park Ranger | 12.00% | ~6,287 |
-| Paging Mr. Wake | 12.00% | ~6,287 |
-| Back! Back, I Say! | 11.00% | ~5,763 |
-| Finders Keepers | 11.00% | ~5,763 |
-| Sound and Fury | 10.00% | ~5,239 |
-| Missed by a Mile | 10.00% | ~5,239 |
-| Damn Good Cup of Coffee | 10.00% | ~5,239 |
-| Wheels Within Wheels | 9.00% | ~4,715 |
-| They're Heeeeeere! | 9.00% | ~4,715 |
-| The Six-Gun Scribe | 9.00% | ~4,715 |
-| Come One, Come All | 9.00% | ~4,715 |
-| Heavy Metal | 8.00% | ~4,191 |
-| Iron Horse | 8.00% | ~4,191 |
-| Perchance to Dream | 8.00% | ~4,191 |
-| It's Not Just a Typewriter Brand | 8.00% | ~4,191 |
-| Thunder and Lightning | 8.00% | ~4,191 |
-| Collateral Carnage | 8.00% | ~4,191 |
+| Follow the Light | 28.00% | ~14,671 |
+| Let There Be Light | 23.00% | ~12,052 |
+| Float Like a Butterfly | 22.00% | ~11,528 |
+| Nordic Walking | 17.00% | ~8,908 |
+| Bright Falls' Finest | 17.00% | ~8,908 |
+| Under a Thin Layer of Skin | 15.00% | ~7,860 |
+| Park Ranger | 12.00% | ~6,288 |
+| Paging Mr. Wake | 12.00% | ~6,288 |
+| Back! Back, I Say! | 11.00% | ~5,764 |
+| Finders Keepers | 11.00% | ~5,764 |
+| Sound and Fury | 10.00% | ~5,240 |
+| Missed by a Mile | 10.00% | ~5,240 |
+| Damn Good Cup of Coffee | 10.00% | ~5,240 |
+| Wheels Within Wheels | 9.00% | ~4,716 |
+| They're Heeeeeere! | 9.00% | ~4,716 |
+| The Six-Gun Scribe | 9.00% | ~4,716 |
+| Come One, Come All | 9.00% | ~4,716 |
+| Heavy Metal | 8.00% | ~4,192 |
+| Iron Horse | 8.00% | ~4,192 |
+| Perchance to Dream | 8.00% | ~4,192 |
+| It's Not Just a Typewriter Brand | 8.00% | ~4,192 |
+| Thunder and Lightning | 8.00% | ~4,192 |
+| Collateral Carnage | 8.00% | ~4,192 |
 | A Friend in Need | 8.00% | ~1,269 |
-| Gatekeeper | 7.00% | ~3,667 |
-| The Lady of the Light | 7.00% | ~3,667 |
-| Two For the Price of One | 7.00% | ~3,667 |
-| Energized! | 7.00% | ~3,667 |
-| What Light Through Yonder Window | 6.00% | ~3,143 |
-| Right of Way | 6.00% | ~3,143 |
-| A Friend Indeed | 6.00% | ~951 |
+| Gatekeeper | 7.00% | ~3,668 |
+| The Lady of the Light | 7.00% | ~3,668 |
+| Two For the Price of One | 7.00% | ~3,668 |
+| Energized! | 7.00% | ~3,668 |
+| What Light Through Yonder Window | 6.00% | ~3,144 |
+| Right of Way | 6.00% | ~3,144 |
+| A Friend Indeed | 6.00% | ~952 |
 | Tornado Wrangler | 5.00% | ~2,620 |
 | Departure | 5.00% | ~2,620 |
 | Ding! | 5.00% | ~793 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~52 |
 | No Punctuation | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,390 (Ranked 76)  
+Progressed: 52,398 (Ranked 76)  
 Completed: 50 (0.10%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 50 (0.10%) (Ranked 164)
 | 2023-06-03 | 51,789 | 48 |
 | 2023-06-04 | 52,120 | 48 |
 | 2023-06-05 | 52,335 | 49 |
-| 2023-06-06 | 52,390 | 50 |
+| 2023-06-06 | 52,398 | 50 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

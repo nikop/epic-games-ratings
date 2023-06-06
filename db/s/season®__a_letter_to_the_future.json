@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 965,
+  "EOS_Progressed": 966,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 1,
@@ -1046,6 +1046,11 @@
       "Time": "2023-06-06T07:06:04.7890595+00:00",
       "NumProgressed": 965,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-06T09:05:39.8463694+00:00",
+      "NumProgressed": 966,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -1113,7 +1118,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1121,7 +1126,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1137,7 +1142,7 @@
       "Name": "Music for Cows",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -1177,14 +1182,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 965,
+      "Progressed": 966,
       "Completed": 36
     }
   ],
@@ -1192,8 +1197,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-06T08:05:26.9432441+00:00",
+  "LastChanged_Achievements": "2023-06-06T09:05:39.8463689+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:52.9746475+00:00",
-  "LastUpdate_Ratings": "2023-06-06T07:58:19.2068891+00:00",
-  "LastUpdate_Achievements": "2023-06-06T08:05:26.9432623+00:00"
+  "LastUpdate_Ratings": "2023-06-06T08:58:39.8752685+00:00",
+  "LastUpdate_Achievements": "2023-06-06T09:05:39.8463822+00:00"
 }

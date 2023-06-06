@@ -13,7 +13,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.80% | ~719 |
 | The Ring of Regeneration | 0.70% | ~629 |
 | Beware the Jabberwock | 0.70% | ~393 |
-| Are Ya Chicken? | 0.60% | ~539 |
+| Are Ya Chicken? | 0.60% | ~540 |
 | Coasting to the Finish | 0.60% | ~337 |
 | Were-verpowered | 0.50% | ~450 |
 | Seeking Allies | 0.50% | ~450 |
@@ -147,6 +147,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Under Siege | 0.20% | ~180 |
 | Crowded Streets | 0.20% | ~180 |
 | The Darkness Runs Deeper | 0.20% | ~180 |
+| Troublesome Prisoner | 0.20% | ~180 |
 | Difficult Terrain | 0.20% | ~180 |
 | Madcap Adventures | 0.20% | ~180 |
 | Champions of Waterdeep | 0.20% | ~180 |
@@ -358,7 +359,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~90 |
 | The Tallest of Kobolds | 0.10% | ~56 |
 | Patience is Key | 0.10% | ~90 |
-| Troublesome Prisoner | 0.10% | ~90 |
 | Dark Doppelgangers | 0.10% | ~90 |
 | Faerûn's Most Wanted | 0.10% | ~56 |
 | Cold & Wet | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,915 (Ranked 62)  
+Progressed: 89,918 (Ranked 62)  
 Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,7 +547,7 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
-| 2023-06-06 | 89,915 | 1,917 |
+| 2023-06-06 | 89,918 | 1,917 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,042 (Ranked 37)  

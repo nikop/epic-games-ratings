@@ -236,9 +236,9 @@
       "Count": 175
     }
   ],
-  "EOS_Progressed": 412572,
+  "EOS_Progressed": 412578,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 2922,
+  "EOS_NewPlayers": 2915,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5081,6 +5081,11 @@
       "Time": "2023-06-06T08:00:19.8455714+00:00",
       "NumProgressed": 412572,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-06T09:00:46.1561013+00:00",
+      "NumProgressed": 412578,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 52,
@@ -5116,7 +5121,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 45383
+      "UsersEstimate": 45384
     },
     {
       "ID": "BIGUPS",
@@ -5164,7 +5169,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24754
+      "UsersEstimate": 24755
     },
     {
       "ID": "CHAPTER3",
@@ -5228,7 +5233,7 @@
       "Name": "FIREFIGHT LEVEL 10",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8251
+      "UsersEstimate": 8252
     },
     {
       "ID": "FIREFIGHT20 LEVEL (0-20)",
@@ -5468,7 +5473,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 37131
+      "UsersEstimate": 37132
     },
     {
       "ID": "SOUL",
@@ -5507,7 +5512,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 412572,
+      "Progressed": 412578,
       "Completed": 32
     }
   ],
@@ -5515,8 +5520,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-06-03T17:00:09.2549946+00:00",
-  "LastChanged_Achievements": "2023-06-06T08:00:19.8455708+00:00",
+  "LastChanged_Achievements": "2023-06-06T09:00:46.1561007+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:54.4796827+00:00",
-  "LastUpdate_Ratings": "2023-06-06T07:59:03.9418547+00:00",
-  "LastUpdate_Achievements": "2023-06-06T08:00:19.8456456+00:00"
+  "LastUpdate_Ratings": "2023-06-06T08:59:27.0853509+00:00",
+  "LastUpdate_Achievements": "2023-06-06T09:00:46.1561577+00:00"
 }

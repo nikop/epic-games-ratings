@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1131,
+  "EOS_Progressed": 1132,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1535,6 +1535,11 @@
       "Time": "2023-06-06T08:03:50.463332+00:00",
       "NumProgressed": 1131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T09:04:03.7619947+00:00",
+      "NumProgressed": 1132,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1736,9 +1741,9 @@
       "ID": "NEW_ACHIEVEMENT_GARDENER",
       "SetID": "l546gc",
       "Name": "Gardener",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 260
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -1794,7 +1799,7 @@
       "Name": "Miner",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -1929,7 +1934,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1131,
+      "Progressed": 1132,
       "Completed": 0
     }
   ],
@@ -1937,8 +1942,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-05T18:57:24.3437031+00:00",
-  "LastChanged_Achievements": "2023-06-06T08:03:50.4633315+00:00",
+  "LastChanged_Achievements": "2023-06-06T09:04:03.7619941+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-06T07:57:17.4802167+00:00",
-  "LastUpdate_Achievements": "2023-06-06T08:03:50.4633903+00:00"
+  "LastUpdate_Ratings": "2023-06-06T08:57:37.4422496+00:00",
+  "LastUpdate_Achievements": "2023-06-06T09:04:03.7620343+00:00"
 }

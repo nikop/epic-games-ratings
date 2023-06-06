@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1406,9 +1406,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63808,
+  "EOS_Progressed": 63812,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 971,
+  "EOS_NewPlayers": 970,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5251,6 +5251,11 @@
       "Time": "2023-06-06T08:05:51.511227+00:00",
       "NumProgressed": 63808,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-06T09:06:04.2981763+00:00",
+      "NumProgressed": 63812,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 61,
@@ -5436,9 +5441,9 @@
       "ID": "DEFEAT_FREAKS_1",
       "SetID": "4eo5ebm",
       "Name": "Bulldozed",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 638
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -5749,13 +5754,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63808,
+      "Progressed": 63812,
       "Completed": 94
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34088,
+      "Progressed": 34092,
       "Completed": 2644
     }
   ],
@@ -5763,8 +5768,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-05T17:59:32.3209224+00:00",
-  "LastChanged_Achievements": "2023-06-06T08:05:51.5112265+00:00",
+  "LastChanged_Achievements": "2023-06-06T09:06:04.2981756+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-06T07:59:15.2825132+00:00",
-  "LastUpdate_Achievements": "2023-06-06T08:05:51.5113102+00:00"
+  "LastUpdate_Ratings": "2023-06-06T08:59:38.2261196+00:00",
+  "LastUpdate_Achievements": "2023-06-06T09:06:04.2982419+00:00"
 }

@@ -5,38 +5,39 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Treasure Trove | 1.00% | ~6 |
+| Like Clockwork | 1.00% | ~6 |
 | Make Up For Lost Time | 1.00% | ~6 |
 | Cartographer | 1.00% | ~6 |
 | Breaking Down Barriers | 1.00% | ~6 |
 | The Prince in Heels | 1.00% | ~6 |
 | Sump Explorer | 1.00% | ~6 |
 | Immaculate Aim | 1.00% | ~6 |
-| Like Clockwork | 0.80% | ~5 |
 | Ask Questions Later | 0.80% | ~5 |
 | The Man Who Shattered Time | 0.70% | ~4 |
 | The Loose Cannon | 0.70% | ~4 |
+| Time Heals All Wounds | 0.70% | ~4 |
+| Golem Chaser | 0.70% | ~4 |
 | Fast Learner | 0.70% | ~4 |
 | Syron for Hope | 0.70% | ~4 |
 | Corin Goes Home | 0.50% | ~3 |
 | Sartorialist | 0.50% | ~3 |
+| Family Memories | 0.50% | ~3 |
+| The Mysterious Stranger | 0.50% | ~3 |
+| Rail Rat | 0.50% | ~3 |
 | No, Thanks! | 0.50% | ~3 |
-| Time Heals All Wounds | 0.50% | ~3 |
 | Golem Hunter | 0.50% | ~3 |
-| Golem Chaser | 0.50% | ~3 |
 | Immaculate Aim | 0.50% | ~3 |
 | Good Neighbor | 0.50% | ~3 |
 | The Family Fortune | 0.50% | ~3 |
 | The Steel Shadow | 0.30% | ~2 |
 | Street Style | 0.30% | ~2 |
 | Entresol Explorer | 0.30% | ~2 |
-| Family Memories | 0.30% | ~2 |
 | Fairgrounds Explorer | 0.30% | ~2 |
-| The Mysterious Stranger | 0.30% | ~2 |
 | Whiz Kid | 0.30% | ~2 |
-| Rail Rat | 0.30% | ~2 |
 | Time Flies | 0.30% | ~2 |
 | The Harder They Fall | 0.30% | ~2 |
 | Honest Mistake | 0.30% | ~2 |
+| Rungs Was Right | 0.30% | ~2 |
 | Theater Explorer | 0.30% | ~2 |
 | The Brass Boss | 0.30% | ~2 |
 | Right On Time | 0.20% | ~1 |
@@ -45,7 +46,6 @@
 | The Betrayer | 0.20% | ~1 |
 | Hexlock for Protection | 0.20% | ~1 |
 | The Wicked Twins | 0.20% | ~1 |
-| Rungs Was Right | 0.20% | ~1 |
 | Thinking Two Steps Ahead | 0.00% | ~0 |
 | Chaincrawler Explorer | 0.00% | ~0 |
 | Clovemary for Remembering | 0.00% | ~0 |

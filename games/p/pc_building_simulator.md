@@ -6,37 +6,37 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,686,020 |
-| Easy to forget | 46.00% | ~1,615,769 |
-| Back in the black | 38.00% | ~1,334,766 |
-| That's what I'm talking about | 28.00% | ~983,511 |
-| The Best of Both Worlds | 24.00% | ~843,010 |
-| Get your wings | 20.00% | ~702,508 |
-| Double trouble | 15.00% | ~526,881 |
-| Smashing it | 10.00% | ~351,254 |
-| But can it run Crysis? | 9.00% | ~316,129 |
-| My favourite feature... | 9.00% | ~316,129 |
-| From humble beginnings... | 7.00% | ~245,878 |
-| Customer satisfaction | 7.00% | ~245,878 |
+| You need to plug it in... | 48.00% | ~1,686,028 |
+| Easy to forget | 46.00% | ~1,615,777 |
+| Back in the black | 38.00% | ~1,334,772 |
+| That's what I'm talking about | 28.00% | ~983,517 |
+| The Best of Both Worlds | 24.00% | ~843,014 |
+| Get your wings | 20.00% | ~702,512 |
+| Double trouble | 15.00% | ~526,884 |
+| Smashing it | 10.00% | ~351,256 |
+| But can it run Crysis? | 9.00% | ~316,130 |
+| My favourite feature... | 9.00% | ~316,130 |
+| From humble beginnings... | 7.00% | ~245,879 |
+| Customer satisfaction | 7.00% | ~245,879 |
 | Keeping things neat | 4.00% | ~140,502 |
 | Seems you're pretty good at this | 4.00% | ~140,502 |
-| Triple threat | 3.00% | ~105,376 |
-| You rock at this! | 3.00% | ~105,376 |
-| Your music sucks | 3.00% | ~105,376 |
-| Bending over backwards | 3.00% | ~105,376 |
+| Triple threat | 3.00% | ~105,377 |
+| You rock at this! | 3.00% | ~105,377 |
+| Your music sucks | 3.00% | ~105,377 |
+| Bending over backwards | 3.00% | ~105,377 |
 | I'm broke, Uncle! | 2.00% | ~70,251 |
 | Maybe you should try something else? | 2.00% | ~70,251 |
 | Taking care of business | 2.00% | ~70,251 |
 | Perfection | 2.00% | ~70,251 |
 | Calling in Sick | 2.00% | ~70,251 |
-| Overvolted | 1.00% | ~35,125 |
-| If you fail the first time... | 1.00% | ~35,125 |
-| Amazonian | 1.00% | ~35,125 |
-| Things are under control | 1.00% | ~35,125 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,125 |
-| Building isn't cheap! | 1.00% | ~35,125 |
-| Majority Shareholder | 1.00% | ~35,125 |
-| Owner | 1.00% | ~35,125 |
+| Overvolted | 1.00% | ~35,126 |
+| If you fail the first time... | 1.00% | ~35,126 |
+| Amazonian | 1.00% | ~35,126 |
+| Things are under control | 1.00% | ~35,126 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,126 |
+| Building isn't cheap! | 1.00% | ~35,126 |
+| Majority Shareholder | 1.00% | ~35,126 |
+| Owner | 1.00% | ~35,126 |
 | Show off | 0.90% | ~31,613 |
 | Work ethic 101 | 0.60% | ~21,075 |
 | Building momentum | 0.60% | ~21,075 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,513 |
 | Treat yourself - GPU | 0.10% | ~3,513 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,512,541 (Ranked 4)  
+Progressed: 3,512,559 (Ranked 4)  
 Completed: 23 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 23 (0.00%) (Ranked 212)
 | 2023-06-03 | 3,511,067 | 23 |
 | 2023-06-04 | 3,511,819 | 23 |
 | 2023-06-05 | 3,512,390 | 23 |
-| 2023-06-06 | 3,512,541 | 23 |
+| 2023-06-06 | 3,512,559 | 23 |
 ## Awards
 Max (Great for Beginners): 1,046  (Ranked 134)  
 Sum: 7,798 (Ranked 95)  
