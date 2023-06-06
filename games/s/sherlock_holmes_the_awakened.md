@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 62.00% | ~234 |
-| Read Between The Lines | 61.00% | ~230 |
-| High Profile | 54.00% | ~204 |
-| Whispers In The Dark | 52.00% | ~196 |
+| Read Between The Lines | 61.00% | ~231 |
+| To Hell In A Handcart | 61.00% | ~231 |
+| High Profile | 53.00% | ~200 |
+| Whispers In The Dark | 52.00% | ~197 |
 | Fond Memories | 48.00% | ~181 |
-| History Check | 47.00% | ~177 |
-| A Method To His Madness | 47.00% | ~177 |
+| History Check | 47.00% | ~178 |
+| A Method To His Madness | 47.00% | ~178 |
 | The New World | 44.00% | ~166 |
-| Lock, Stock, And Barrel | 43.00% | ~162 |
-| Gaze Into The Abyss | 43.00% | ~162 |
-| Open Sesame | 42.00% | ~158 |
-| Sticky Fingers | 42.00% | ~158 |
-| Knives Out | 42.00% | ~158 |
+| Lock, Stock, And Barrel | 43.00% | ~163 |
+| Gaze Into The Abyss | 43.00% | ~163 |
+| Open Sesame | 42.00% | ~159 |
+| Sticky Fingers | 42.00% | ~159 |
+| Knives Out | 42.00% | ~159 |
 | Back In The Saddle | 41.00% | ~155 |
 | Land, Ho! | 41.00% | ~155 |
-| No Man Is An Island | 40.00% | ~151 |
+| No Man Is An Island | 39.00% | ~147 |
 | At Wits' End | 39.00% | ~147 |
-| Fhtagn! | 37.00% | ~139 |
+| Fhtagn! | 37.00% | ~140 |
 | Bookworm | 36.00% | ~136 |
 | Up In Flames | 36.00% | ~136 |
 | Going Once... | 35.00% | ~132 |
-| Let Me Be Frank | 33.00% | ~124 |
+| Let Me Be Frank | 33.00% | ~125 |
 | Brain Food | 31.00% | ~117 |
-| No Stone Unturned | 31.00% | ~117 |
-| Curiosity Killed The Cat | 20.00% | ~75 |
+| No Stone Unturned | 30.00% | ~113 |
+| Curiosity Killed The Cat | 20.00% | ~76 |
 | Read It And Weep | 17.00% | ~64 |
 | Big Breakthrough | 15.00% | ~57 |
 | Reawakened | 6.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377 (Ranked 212)  
-Completed: 15 (3.98%) (Ranked 35)  
+Progressed: 378 (Ranked 211)  
+Completed: 15 (3.97%) (Ranked 35)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 15 (3.98%) (Ranked 35)
 | 2023-06-03 | 358 | 15 |
 | 2023-06-04 | 369 | 15 |
 | 2023-06-05 | 375 | 15 |
-| 2023-06-06 | 377 | 15 |
+| 2023-06-06 | 378 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -11,7 +11,7 @@ Rating: 4.51 (Ranked 529)
 | Ranged Weapon | 59.00% | ~948 |
 | Collect Monster Parts | 55.00% | ~883 |
 | Two Handed Weapon | 54.00% | ~867 |
-| Defeat 25 Grubs | 50.00% | ~803 |
+| Defeat 25 Grubs | 51.00% | ~819 |
 | Rescue Redgi's Brothers | 50.00% | ~803 |
 | Collect Iron Ore | 45.00% | ~723 |
 | Kitchen Ready To Cook | 45.00% | ~723 |

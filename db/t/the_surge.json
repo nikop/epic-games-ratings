@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -319,9 +319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4342,
+  "EOS_Progressed": 4343,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -999,6 +999,11 @@
       "Time": "2023-06-06T02:25:34.8233065+00:00",
       "NumProgressed": 4342,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-06T10:01:03.0349107+00:00",
+      "NumProgressed": 4343,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -1018,7 +1023,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -1058,7 +1063,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3647
+      "UsersEstimate": 3648
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1066,7 +1071,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1074,7 +1079,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1226,7 +1231,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1545,15 +1550,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4342,
+      "Progressed": 4343,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-06T09:00:25.9686882+00:00",
+  "LastChanged_Achievements": "2023-06-06T10:01:03.0349102+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:09.2823727+00:00",
-  "LastUpdate_Ratings": "2023-06-06T08:58:07.2225109+00:00",
-  "LastUpdate_Achievements": "2023-06-06T09:00:25.9688141+00:00"
+  "LastUpdate_Ratings": "2023-06-06T09:58:13.6080277+00:00",
+  "LastUpdate_Achievements": "2023-06-06T10:01:03.0350102+00:00"
 }

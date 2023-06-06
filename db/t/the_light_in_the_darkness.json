@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1550,
+  "EOS_Progressed": 1551,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 8.06,
   "EosHistory": [
@@ -2263,6 +2263,11 @@
       "Time": "2023-06-06T02:28:08.0728985+00:00",
       "NumProgressed": 1550,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-06-06T10:06:33.4249999+00:00",
+      "NumProgressed": 1551,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 12,
@@ -2362,14 +2367,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1550,
+      "Progressed": 1551,
       "Completed": 125
     }
   ],
@@ -2377,8 +2382,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-06T09:05:45.769371+00:00",
+  "LastChanged_Achievements": "2023-06-06T10:06:33.4249992+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.6122754+00:00",
-  "LastUpdate_Ratings": "2023-06-06T08:59:29.0771032+00:00",
-  "LastUpdate_Achievements": "2023-06-06T09:05:45.7693882+00:00"
+  "LastUpdate_Ratings": "2023-06-06T09:59:51.4588487+00:00",
+  "LastUpdate_Achievements": "2023-06-06T10:06:33.42502+00:00"
 }

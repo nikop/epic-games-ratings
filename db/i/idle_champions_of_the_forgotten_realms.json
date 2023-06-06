@@ -4076,10 +4076,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30042,
       "NumberOfAwardsMax": 4920
+    },
+    {
+      "Time": "2023-06-06T09:58:18.0653888+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30043,
+      "NumberOfAwardsMax": 4920
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30042,
+  "NumberOfAwards": 30043,
   "NumberOfAwardsMax": 4920,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4123,12 +4129,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3245
+      "Count": 3246
     }
   ],
-  "EOS_Progressed": 89918,
+  "EOS_Progressed": 89922,
   "EOS_Completed": 1917,
-  "EOS_NewPlayers": 729,
+  "EOS_NewPlayers": 733,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8856,6 +8862,11 @@
       "Time": "2023-06-06T09:06:10.5755634+00:00",
       "NumProgressed": 89918,
       "NumCompleted": 1917
+    },
+    {
+      "Time": "2023-06-06T10:07:01.5960338+00:00",
+      "NumProgressed": 89922,
+      "NumCompleted": 1917
     }
   ],
   "TotalAchievements": 493,
@@ -9009,9 +9020,9 @@
       "ID": "objective_completed_1061",
       "SetID": "415jc5c",
       "Name": "Sticky Fingers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1062",
@@ -10281,9 +10292,9 @@
       "ID": "objective_completed_230",
       "SetID": "cc37lbc",
       "Name": "The Dinner Party",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_231",
@@ -11289,9 +11300,9 @@
       "ID": "objective_completed_580",
       "SetID": "cc37lbc",
       "Name": "Vault of Dragons",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_581",
@@ -11665,9 +11676,9 @@
       "ID": "objective_completed_635",
       "SetID": "415jc5c",
       "Name": "Dreamscape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_636",
@@ -12089,9 +12100,9 @@
       "ID": "objective_completed_80",
       "SetID": "cc37lbc",
       "Name": "Overdue Rendezvous",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_802",
@@ -12810,21 +12821,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56192,
+      "Progressed": 56196,
       "Completed": 2773
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89918,
+      "Progressed": 89922,
       "Completed": 1917
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-06T02:20:25.579569+00:00",
-  "LastChanged_Achievements": "2023-06-06T09:06:10.575563+00:00",
+  "LastChanged": "2023-06-06T09:58:18.0653887+00:00",
+  "LastChanged_Achievements": "2023-06-06T10:07:01.596033+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-06T08:58:10.5191897+00:00",
-  "LastUpdate_Achievements": "2023-06-06T09:06:10.5777347+00:00"
+  "LastUpdate_Ratings": "2023-06-06T09:58:18.0653893+00:00",
+  "LastUpdate_Achievements": "2023-06-06T10:07:01.5984972+00:00"
 }

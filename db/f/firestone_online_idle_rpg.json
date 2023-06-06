@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1301,
+  "EOS_Progressed": 1302,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2744,6 +2744,11 @@
       "Time": "2023-06-06T04:05:45.1947452+00:00",
       "NumProgressed": 1301,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T10:06:46.0215804+00:00",
+      "NumProgressed": 1302,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2939,7 +2944,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "fourleafclover",
@@ -3315,7 +3320,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "warmachinesarmy",
@@ -3347,14 +3352,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1301,
+      "Progressed": 1302,
       "Completed": 1
     }
   ],
@@ -3362,8 +3367,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-05T10:57:55.1665769+00:00",
-  "LastChanged_Achievements": "2023-06-06T09:05:56.841991+00:00",
+  "LastChanged_Achievements": "2023-06-06T10:06:46.0215799+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-06T08:58:08.718911+00:00",
-  "LastUpdate_Achievements": "2023-06-06T09:05:56.8420648+00:00"
+  "LastUpdate_Ratings": "2023-06-06T09:58:15.4130498+00:00",
+  "LastUpdate_Achievements": "2023-06-06T10:06:46.0216701+00:00"
 }

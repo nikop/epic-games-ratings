@@ -1,31 +1,31 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.54 (Ranked 490)  
+Rating: 4.55 (Ranked 475)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,446 |
-| Realm Estate | 76.00% | ~3,315 |
+| A Wonderful Discovery | 79.00% | ~3,447 |
+| Realm Estate | 76.00% | ~3,316 |
 | Secret Technique | 75.00% | ~3,272 |
-| Walls Cannot Stop Us | 73.00% | ~3,184 |
+| Walls Cannot Stop Us | 73.00% | ~3,185 |
 | From Friends to Family | 69.00% | ~3,010 |
 | Magical Synergy | 64.00% | ~2,792 |
 | Bone Peddler | 61.00% | ~2,661 |
-| Stronger Together | 55.00% | ~2,399 |
-| Full Ascension | 54.00% | ~2,355 |
-| There Can Only Be One! | 47.00% | ~2,050 |
-| Seat of Power | 47.00% | ~2,050 |
-| Intimidation Tactics | 44.00% | ~1,919 |
+| Stronger Together | 55.00% | ~2,400 |
+| Full Ascension | 54.00% | ~2,356 |
+| There Can Only Be One! | 47.00% | ~2,051 |
+| Seat of Power | 47.00% | ~2,051 |
+| Intimidation Tactics | 44.00% | ~1,920 |
 | My Final Form | 43.00% | ~1,876 |
 | Valley of Wonders | 42.00% | ~1,832 |
 | In a Liege of Your Own | 37.00% | ~1,614 |
-| Return of the Wizard King | 31.00% | ~1,352 |
+| Return of the Wizard King | 31.00% | ~1,353 |
 | Digging for Treasure | 30.00% | ~1,309 |
 | Against the Odds | 30.00% | ~1,309 |
 | Enchanted Archipelago | 27.00% | ~1,178 |
 | Impenetrable Fortress | 26.00% | ~1,134 |
-| Preparation Is Everything | 20.00% | ~872 |
+| Preparation Is Everything | 20.00% | ~873 |
 | The Magic That Empowers Me! | 19.00% | ~829 |
 | Arch Mage | 19.00% | ~829 |
 | God Emperor | 18.00% | ~785 |
@@ -40,8 +40,8 @@ Rating: 4.54 (Ranked 490)
 | Pruning for Progress | 9.00% | ~393 |
 | I've Got Everything I Need Right Here | 6.00% | ~262 |
 | Betrayal Most Foul | 5.00% | ~218 |
-| Grexolis | 4.00% | ~174 |
-| One for All, All for One | 4.00% | ~174 |
+| Grexolis | 4.00% | ~175 |
+| One for All, All for One | 4.00% | ~175 |
 | Snap Out of It! | 3.00% | ~131 |
 | I Want to Break Free | 2.00% | ~87 |
 | Manufactured War | 1.00% | ~44 |
@@ -50,7 +50,7 @@ Rating: 4.54 (Ranked 490)
 | Master of Evilness | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,362 (Ranked 128)  
+Progressed: 4,363 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 4,275 | 0 |
 | 2023-06-04 | 4,325 | 0 |
 | 2023-06-05 | 4,354 | 0 |
-| 2023-06-06 | 4,362 | 0 |
+| 2023-06-06 | 4,363 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -109,3 +109,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-05-27 | 4.53 | 0 | 0 |
 | 2023-05-28 | 4.54 | 0 | 0 |
 | 2023-05-31 | 4.54 | 0 | 0 |
+| 2023-06-06 | 4.55 | 0 | 0 |

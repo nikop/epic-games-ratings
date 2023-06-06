@@ -15,18 +15,18 @@
 | Ask Questions Later | 0.80% | ~5 |
 | The Man Who Shattered Time | 0.70% | ~4 |
 | The Loose Cannon | 0.70% | ~4 |
+| No, Thanks! | 0.70% | ~4 |
 | Time Heals All Wounds | 0.70% | ~4 |
 | Golem Chaser | 0.70% | ~4 |
 | Fast Learner | 0.70% | ~4 |
 | Syron for Hope | 0.70% | ~4 |
+| Immaculate Aim | 0.70% | ~4 |
 | Corin Goes Home | 0.50% | ~3 |
 | Sartorialist | 0.50% | ~3 |
 | Family Memories | 0.50% | ~3 |
 | The Mysterious Stranger | 0.50% | ~3 |
 | Rail Rat | 0.50% | ~3 |
-| No, Thanks! | 0.50% | ~3 |
 | Golem Hunter | 0.50% | ~3 |
-| Immaculate Aim | 0.50% | ~3 |
 | Good Neighbor | 0.50% | ~3 |
 | The Family Fortune | 0.50% | ~3 |
 | The Steel Shadow | 0.30% | ~2 |

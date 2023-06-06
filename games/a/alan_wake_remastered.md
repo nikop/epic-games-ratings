@@ -6,11 +6,11 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 28.00% | ~14,671 |
-| Let There Be Light | 23.00% | ~12,052 |
-| Float Like a Butterfly | 22.00% | ~11,528 |
-| Nordic Walking | 17.00% | ~8,908 |
-| Bright Falls' Finest | 17.00% | ~8,908 |
+| Follow the Light | 28.00% | ~14,673 |
+| Let There Be Light | 23.00% | ~12,053 |
+| Float Like a Butterfly | 22.00% | ~11,529 |
+| Nordic Walking | 17.00% | ~8,909 |
+| Bright Falls' Finest | 17.00% | ~8,909 |
 | Under a Thin Layer of Skin | 15.00% | ~7,860 |
 | Park Ranger | 12.00% | ~6,288 |
 | Paging Mr. Wake | 12.00% | ~6,288 |
@@ -29,7 +29,7 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 8.00% | ~4,192 |
 | Thunder and Lightning | 8.00% | ~4,192 |
 | Collateral Carnage | 8.00% | ~4,192 |
-| A Friend in Need | 8.00% | ~1,269 |
+| A Friend in Need | 8.00% | ~1,270 |
 | Gatekeeper | 7.00% | ~3,668 |
 | The Lady of the Light | 7.00% | ~3,668 |
 | Two For the Price of One | 7.00% | ~3,668 |
@@ -39,7 +39,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend Indeed | 6.00% | ~952 |
 | Tornado Wrangler | 5.00% | ~2,620 |
 | Departure | 5.00% | ~2,620 |
-| Ding! | 5.00% | ~793 |
+| Ding! | 5.00% | ~794 |
 | Drink 'Em Both Up | 4.00% | ~2,096 |
 | Hardboiled Writer | 4.00% | ~2,096 |
 | Boob Tube | 3.00% | ~1,572 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~52 |
 | No Punctuation | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,398 (Ranked 76)  
+Progressed: 52,403 (Ranked 76)  
 Completed: 50 (0.10%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 50 (0.10%) (Ranked 164)
 | 2023-06-03 | 51,789 | 48 |
 | 2023-06-04 | 52,120 | 48 |
 | 2023-06-05 | 52,335 | 49 |
-| 2023-06-06 | 52,398 | 50 |
+| 2023-06-06 | 52,403 | 50 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

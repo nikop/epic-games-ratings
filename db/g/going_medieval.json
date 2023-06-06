@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1022,9 +1022,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 3216,
+  "EOS_Progressed": 3217,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1992,6 +1992,11 @@
       "Time": "2023-06-06T09:05:52.5601615+00:00",
       "NumProgressed": 3216,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-06T10:06:41.0820435+00:00",
+      "NumProgressed": 3217,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 31,
@@ -2003,7 +2008,7 @@
       "Name": "Get A Room",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -2011,7 +2016,7 @@
       "Name": "Beam Me Up",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -2035,7 +2040,7 @@
       "Name": "Green Thumb",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -2043,7 +2048,7 @@
       "Name": "Having A Field Day",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -2147,7 +2152,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -2161,9 +2166,9 @@
       "ID": "SURVIVE_FIRST_DAY",
       "SetID": "5349c2e",
       "Name": "The First Day",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1994
+      "UsersEstimate": 2027
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -2195,7 +2200,7 @@
       "Name": "All Year Round",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -2211,7 +2216,7 @@
       "Name": "Novice Researcher",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -2235,7 +2240,7 @@
       "Name": "Onward",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -2250,15 +2255,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 3216,
+      "Progressed": 3217,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-05T16:00:14.9351662+00:00",
-  "LastChanged_Achievements": "2023-06-06T09:05:52.5601609+00:00",
+  "LastChanged_Achievements": "2023-06-06T10:06:41.0820429+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.8895612+00:00",
-  "LastUpdate_Ratings": "2023-06-06T08:59:43.5748691+00:00",
-  "LastUpdate_Achievements": "2023-06-06T09:05:52.5601839+00:00"
+  "LastUpdate_Ratings": "2023-06-06T10:00:08.8453584+00:00",
+  "LastUpdate_Achievements": "2023-06-06T10:06:41.0820694+00:00"
 }

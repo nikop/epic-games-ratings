@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.30% | ~270 |
 | A Mysterious Summons | 0.30% | ~270 |
 | Building Trust | 0.30% | ~270 |
+| The Dinner Party | 0.30% | ~270 |
 | Useless Allies | 0.30% | ~270 |
 | Running of the Saurs | 0.30% | ~270 |
 | The Contagious Curse | 0.30% | ~270 |
@@ -50,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.30% | ~270 |
 | Waterdeep Detours | 0.30% | ~270 |
 | Underdeep Cartography | 0.30% | ~270 |
+| Overdue Rendezvous | 0.30% | ~270 |
 | The Templar's Camp | 0.30% | ~270 |
 | Rescue in the Jungle | 0.30% | ~270 |
 | Pros and CONs | 0.20% | ~180 |
@@ -58,6 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.20% | ~112 |
 | The Witchlight Carnival | 0.20% | ~112 |
 | Thieves of the Coven | 0.20% | ~112 |
+| Sticky Fingers | 0.20% | ~112 |
 | Hither of the Feywild | 0.20% | ~112 |
 | The Prince of a Thousand Enemies | 0.20% | ~112 |
 | Uncommon Allies | 0.20% | ~112 |
@@ -115,7 +118,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.20% | ~180 |
 | Invisible Shadows | 0.20% | ~180 |
 | Family Entanglements | 0.20% | ~180 |
-| The Dinner Party | 0.20% | ~180 |
 | Chatty Nobles | 0.20% | ~180 |
 | The Botched Kidnapping | 0.20% | ~180 |
 | Haaave You Met Asmodeus? | 0.20% | ~180 |
@@ -150,6 +152,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.20% | ~180 |
 | Difficult Terrain | 0.20% | ~180 |
 | Madcap Adventures | 0.20% | ~180 |
+| Vault of Dragons | 0.20% | ~180 |
 | Champions of Waterdeep | 0.20% | ~180 |
 | Dinosaur Racing | 0.20% | ~180 |
 | Elturel Has Fallen | 0.20% | ~180 |
@@ -160,6 +163,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Déjà Vu All Over Again | 0.20% | ~112 |
 | Into The Fire | 0.20% | ~112 |
 | Hearts Aflame | 0.20% | ~112 |
+| Dreamscape | 0.20% | ~112 |
 | Look Out! | 0.20% | ~112 |
 | The Path of Dreams | 0.20% | ~112 |
 | The Lost Hollyphant | 0.20% | ~112 |
@@ -176,7 +180,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.20% | ~180 |
 | Easily Distracted | 0.20% | ~180 |
 | Rude Welcome | 0.20% | ~180 |
-| Overdue Rendezvous | 0.20% | ~180 |
 | Moose Tracks | 0.20% | ~112 |
 | Durable Deep | 0.20% | ~180 |
 | The Sibriex | 0.20% | ~112 |
@@ -198,7 +201,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Monarch Among Us | 0.10% | ~56 |
 | A Dragon Against Us | 0.10% | ~56 |
 | A Familiar Behind Us | 0.10% | ~56 |
-| Sticky Fingers | 0.10% | ~56 |
 | Patron Party | 0.10% | ~56 |
 | Go Fourth | 0.10% | ~56 |
 | Don't Breathe the Marsh Gas | 0.10% | ~56 |
@@ -363,7 +365,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Faerûn's Most Wanted | 0.10% | ~56 |
 | Cold & Wet | 0.10% | ~90 |
 | Faerûn's Most Neglected | 0.10% | ~56 |
-| Vault of Dragons | 0.10% | ~90 |
 | Vault of Pixies | 0.10% | ~90 |
 | Vault of Poison | 0.10% | ~90 |
 | Vault of Cuteness | 0.10% | ~56 |
@@ -398,7 +399,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ireena von Zarovich | 0.10% | ~56 |
 | A Difficult Descent | 0.10% | ~56 |
 | The Devil Arrives | 0.10% | ~56 |
-| Dreamscape | 0.10% | ~56 |
 | Dream Gauntlet | 0.10% | ~56 |
 | Zombie Dreams | 0.10% | ~56 |
 | The Path of Redcaps | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,918 (Ranked 62)  
+Progressed: 89,922 (Ranked 62)  
 Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,10 +547,10 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
-| 2023-06-06 | 89,918 | 1,917 |
+| 2023-06-06 | 89,922 | 1,917 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
-Sum: 30,042 (Ranked 37)  
+Sum: 30,043 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -560,7 +560,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,509 |
 | This game is Highly Recommended | 3,954 |
 | This game has Amazing Characters | 3,950 |
-| This game has Playful Visuals | 3,245 |
+| This game has Playful Visuals | 3,246 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -695,4 +695,4 @@ Diff (max vs sum): 27
 | 2023-06-03 | 4.06 | - | 4,917 | 30,025 |
 | 2023-06-04 | 4.06 | - | 4,917 | 30,033 |
 | 2023-06-05 | 4.06 | - | 4,917 | 30,035 |
-| 2023-06-06 | 4.06 | - | 4,920 | 30,042 |
+| 2023-06-06 | 4.06 | - | 4,920 | 30,043 |

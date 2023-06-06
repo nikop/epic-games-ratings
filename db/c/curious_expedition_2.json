@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -49,7 +49,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -154,6 +154,11 @@
       "Time": "2023-06-05T13:15:32.8994908+00:00",
       "NumProgressed": 308,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T10:06:55.2983998+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -181,7 +186,7 @@
       "Name": "Zookeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach-anthropology-complete",
@@ -317,7 +322,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach-cartography-complete",
@@ -339,9 +344,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 161
     },
     {
       "ID": "ach-discover-locations-high",
@@ -371,9 +376,9 @@
       "ID": "ach-find-treasure",
       "SetID": "17ih7ma",
       "Name": "Red Flag Pirate",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "ach-find-treasure-high",
@@ -453,7 +458,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -485,7 +490,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach-meetGhost",
@@ -541,7 +546,7 @@
       "Name": "From Whence we Came",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ach-promotion",
@@ -555,9 +560,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "ach-redElk",
@@ -613,7 +618,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -644,7 +649,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 1
     }
   ],
@@ -652,8 +657,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-06T09:06:05.0311669+00:00",
+  "LastChanged_Achievements": "2023-06-06T10:06:55.2983994+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:04.7850575+00:00",
-  "LastUpdate_Ratings": "2023-06-06T09:00:23.00662+00:00",
-  "LastUpdate_Achievements": "2023-06-06T09:06:05.0312104+00:00"
+  "LastUpdate_Ratings": "2023-06-06T10:00:56.9435468+00:00",
+  "LastUpdate_Achievements": "2023-06-06T10:06:55.2984504+00:00"
 }

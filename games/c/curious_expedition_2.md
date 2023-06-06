@@ -7,25 +7,25 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 59.00% | ~182 |
-| Cartographer | 53.00% | ~163 |
+| Cartographer | 52.00% | ~161 |
 | A Strange Artefact | 48.00% | ~148 |
 | Insomnia | 44.00% | ~136 |
-| From Whence we Came | 39.00% | ~120 |
+| From Whence we Came | 39.00% | ~121 |
 | Lost & Found & Lost Again | 38.00% | ~117 |
 | Fire and Flood | 36.00% | ~111 |
 | Spooky! | 34.00% | ~105 |
-| Shennong Herbalist | 31.00% | ~95 |
-| Treasure Hunt | 31.00% | ~95 |
-| Good Mama | 30.00% | ~92 |
-| O Captain My Captain | 28.00% | ~86 |
+| Shennong Herbalist | 31.00% | ~96 |
+| Treasure Hunt | 31.00% | ~96 |
+| Good Mama | 29.00% | ~90 |
+| O Captain My Captain | 28.00% | ~87 |
 | Plunderer | 26.00% | ~80 |
 | Taxonomist | 25.00% | ~77 |
 | Uncertain Loyalties | 23.00% | ~71 |
 | Traveller | 22.00% | ~68 |
 | Nahua Seeker | 22.00% | ~68 |
 | Roll to Save | 20.00% | ~62 |
-| Red Flag Pirate | 18.00% | ~55 |
-| Veteran Explorer | 18.00% | ~55 |
+| Veteran Explorer | 18.00% | ~56 |
+| Red Flag Pirate | 17.00% | ~53 |
 | Iron Man | 15.00% | ~46 |
 | For the Club! | 15.00% | ~46 |
 | Shortening of the Way | 15.00% | ~46 |
@@ -47,7 +47,7 @@ Number of Ratings: 20  (23.09.2022)
 | Errand Runner | 8.00% | ~25 |
 | No Laughing Matter | 7.00% | ~22 |
 | Level Up | 7.00% | ~22 |
-| Zookeeper | 6.00% | ~18 |
+| Zookeeper | 6.00% | ~19 |
 | Islander Understanding | 5.00% | ~15 |
 | A Paris Sunset | 5.00% | ~15 |
 | The Workshop | 5.00% | ~15 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 308 (Ranked 224)  
+Progressed: 309 (Ranked 224)  
 Completed: 1 (0.32%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 1 (0.32%) (Ranked 125)
 | 2023-06-02 | 304 | 1 |
 | 2023-06-04 | 307 | 1 |
 | 2023-06-05 | 308 | 1 |
+| 2023-06-06 | 309 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

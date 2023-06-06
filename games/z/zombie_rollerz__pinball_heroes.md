@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 90.00% | ~81 |
+| Level Up! | 89.00% | ~81 |
 | Bullseye! | 84.00% | ~76 |
-| Graduation! | 79.00% | ~71 |
-| Villfir Forest | 78.00% | ~70 |
+| Graduation! | 78.00% | ~71 |
+| Villfir Forest | 77.00% | ~70 |
 | Right in the kisser! | 64.00% | ~58 |
 | Duscot Steamcity | 53.00% | ~48 |
 | The Shaman | 52.00% | ~47 |
-| The Penguin | 49.00% | ~44 |
-| The Magician | 48.00% | ~43 |
-| The Thrower | 46.00% | ~41 |
+| The Penguin | 48.00% | ~44 |
+| The Magician | 47.00% | ~43 |
+| The Thrower | 45.00% | ~41 |
 | The Tunneler | 41.00% | ~37 |
 | Level Up!! | 40.00% | ~36 |
-| The Shield | 39.00% | ~35 |
-| Kill-streak | 38.00% | ~34 |
+| The Shield | 38.00% | ~35 |
+| Kill-streak | 37.00% | ~34 |
 | The Bird | 31.00% | ~28 |
-| Topped up | 28.00% | ~25 |
-| The Idol | 28.00% | ~25 |
-| The Ninja | 28.00% | ~25 |
-| Inferno Ruins | 28.00% | ~25 |
+| Topped up | 27.00% | ~25 |
+| The Idol | 27.00% | ~25 |
+| The Ninja | 27.00% | ~25 |
+| Inferno Ruins | 27.00% | ~25 |
 | Untouchable | 24.00% | ~22 |
 | I'm Rich | 24.00% | ~22 |
 | The Slime | 22.00% | ~20 |
@@ -31,8 +31,8 @@
 | The Flower | 19.00% | ~17 |
 | The Blacksmith | 18.00% | ~16 |
 | Out of the Frying Pan... | 18.00% | ~16 |
-| The Ooze | 16.00% | ~14 |
-| Turquoise | 16.00% | ~14 |
+| The Ooze | 15.00% | ~14 |
+| Turquoise | 15.00% | ~14 |
 | The Assistant | 14.00% | ~13 |
 | Ember | 13.00% | ~12 |
 | The Steampunk | 12.00% | ~11 |
@@ -41,7 +41,7 @@
 | Iron | 10.00% | ~9 |
 | Tested | 10.00% | ~9 |
 | The Bomber | 9.00% | ~8 |
-| The Astronaut | 6.00% | ~5 |
+| The Astronaut | 5.00% | ~5 |
 | The Exorcist | 4.00% | ~4 |
 | Analyzed | 4.00% | ~4 |
 | Highway to Hell | 4.00% | ~4 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 278)  
+Progressed: 91 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 87 | 0 |
 | 2023-06-04 | 88 | 0 |
 | 2023-06-05 | 90 | 0 |
+| 2023-06-06 | 91 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

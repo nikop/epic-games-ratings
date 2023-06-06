@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -5124,9 +5124,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 785657,
+  "EOS_Progressed": 785661,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 1428,
+  "EOS_NewPlayers": 1424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9929,6 +9929,11 @@
       "Time": "2023-06-06T09:06:03.3808453+00:00",
       "NumProgressed": 785657,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-06T10:06:53.4969736+00:00",
+      "NumProgressed": 785661,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 82,
@@ -9964,7 +9969,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 125705
+      "UsersEstimate": 125706
     },
     {
       "ID": "Awakening",
@@ -9972,7 +9977,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 157131
+      "UsersEstimate": 157132
     },
     {
       "ID": "BadGirl",
@@ -10020,7 +10025,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 243554
+      "UsersEstimate": 243555
     },
     {
       "ID": "Bookworm",
@@ -10028,7 +10033,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 109992
+      "UsersEstimate": 109993
     },
     {
       "ID": "Buddy",
@@ -10036,7 +10041,7 @@
       "Name": "Buddy",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 86422
+      "UsersEstimate": 86423
     },
     {
       "ID": "Casanova",
@@ -10044,7 +10049,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47139
+      "UsersEstimate": 47140
     },
     {
       "ID": "Cavalier",
@@ -10052,7 +10057,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 196414
+      "UsersEstimate": 196415
     },
     {
       "ID": "Chivalrous",
@@ -10140,7 +10145,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 180701
+      "UsersEstimate": 180702
     },
     {
       "ID": "Fighter",
@@ -10260,7 +10265,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 102135
+      "UsersEstimate": 102136
     },
     {
       "ID": "Judas",
@@ -10420,7 +10425,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 157131
+      "UsersEstimate": 157132
     },
     {
       "ID": "RevenantOfLedechko",
@@ -10460,7 +10465,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 157131
+      "UsersEstimate": 157132
     },
     {
       "ID": "SerialKiller",
@@ -10476,7 +10481,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 86422
+      "UsersEstimate": 86423
     },
     {
       "ID": "Sniper",
@@ -10516,7 +10521,7 @@
       "Name": "Thief",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 86422
+      "UsersEstimate": 86423
     },
     {
       "ID": "TisButAScratch",
@@ -10595,15 +10600,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 785657,
+      "Progressed": 785661,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-06-06T04:58:26.4698547+00:00",
-  "LastChanged_Achievements": "2023-06-06T09:06:03.3808448+00:00",
+  "LastChanged_Achievements": "2023-06-06T10:06:53.4969732+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:37.9685138+00:00",
-  "LastUpdate_Ratings": "2023-06-06T08:58:28.1300662+00:00",
-  "LastUpdate_Achievements": "2023-06-06T09:06:03.3809382+00:00"
+  "LastUpdate_Ratings": "2023-06-06T09:58:38.5661672+00:00",
+  "LastUpdate_Achievements": "2023-06-06T10:06:53.4970881+00:00"
 }

@@ -8,13 +8,13 @@
 | Target Practice | 40.00% | ~32 |
 | Over the Moon | 35.00% | ~28 |
 | The Bigger They Are | 33.00% | ~26 |
-| Enemies of Fate | 31.00% | ~25 |
+| Enemies of Fate | 33.00% | ~26 |
 | Amokuali Tower | 30.00% | ~24 |
+| Armored | 29.00% | ~23 |
 | Your Training Continues | 28.00% | ~22 |
-| Armored | 28.00% | ~22 |
 | Freedom | 25.00% | ~20 |
+| The Pride of Moozhaw | 24.00% | ~19 |
 | Winner | 24.00% | ~19 |
-| The Pride of Moozhaw | 23.00% | ~18 |
 | Omnia Vincit Amor | 21.00% | ~17 |
 | Stilt House | 15.00% | ~12 |
 | Armor Collector | 13.00% | ~10 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -1430,9 +1430,9 @@
       "ID": "Kill25Bugs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Grubs",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 803
+      "UsersEstimate": 819
     },
     {
       "ID": "Kill25Frogs",
@@ -1525,8 +1525,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-06T09:00:41.3980562+00:00",
+  "LastChanged_Achievements": "2023-06-06T10:01:21.9623532+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-06T08:58:26.7080667+00:00",
-  "LastUpdate_Achievements": "2023-06-06T09:00:41.3980788+00:00"
+  "LastUpdate_Ratings": "2023-06-06T09:58:36.7660924+00:00",
+  "LastUpdate_Achievements": "2023-06-06T10:01:21.9623801+00:00"
 }
