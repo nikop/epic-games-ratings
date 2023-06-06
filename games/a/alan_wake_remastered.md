@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 28.00% | ~14,699 |
-| Let There Be Light | 23.00% | ~12,075 |
-| Float Like a Butterfly | 22.00% | ~11,550 |
-| Nordic Walking | 17.00% | ~8,925 |
-| Bright Falls' Finest | 17.00% | ~8,925 |
-| Under a Thin Layer of Skin | 15.00% | ~7,875 |
+| Follow the Light | 28.00% | ~14,701 |
+| Let There Be Light | 23.00% | ~12,076 |
+| Float Like a Butterfly | 22.00% | ~11,551 |
+| Nordic Walking | 17.00% | ~8,926 |
+| Bright Falls' Finest | 17.00% | ~8,926 |
+| Under a Thin Layer of Skin | 15.00% | ~7,876 |
 | Park Ranger | 12.00% | ~6,300 |
 | Paging Mr. Wake | 12.00% | ~6,300 |
 | Back! Back, I Say! | 11.00% | ~5,775 |
@@ -20,16 +20,16 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 10.00% | ~5,250 |
 | Missed by a Mile | 10.00% | ~5,250 |
 | Damn Good Cup of Coffee | 10.00% | ~5,250 |
+| Iron Horse | 9.00% | ~4,725 |
 | Wheels Within Wheels | 9.00% | ~4,725 |
 | The Six-Gun Scribe | 9.00% | ~4,725 |
 | Come One, Come All | 9.00% | ~4,725 |
 | Heavy Metal | 8.00% | ~4,200 |
-| Iron Horse | 8.00% | ~4,200 |
 | Perchance to Dream | 8.00% | ~4,200 |
 | It's Not Just a Typewriter Brand | 8.00% | ~4,200 |
 | Thunder and Lightning | 8.00% | ~4,200 |
 | Collateral Carnage | 8.00% | ~4,200 |
-| A Friend in Need | 8.00% | ~1,277 |
+| A Friend in Need | 8.00% | ~1,278 |
 | Gatekeeper | 7.00% | ~3,675 |
 | The Lady of the Light | 7.00% | ~3,675 |
 | Two For the Price of One | 7.00% | ~3,675 |
@@ -39,7 +39,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend Indeed | 6.00% | ~958 |
 | Tornado Wrangler | 5.00% | ~2,625 |
 | Departure | 5.00% | ~2,625 |
-| Ding! | 5.00% | ~798 |
+| Ding! | 5.00% | ~799 |
 | Drink 'Em Both Up | 4.00% | ~2,100 |
 | Hardboiled Writer | 4.00% | ~2,100 |
 | Boob Tube | 3.00% | ~1,575 |
@@ -61,7 +61,7 @@ Number of Ratings: 524  (23.09.2022)
 | License Revoked | 0.40% | ~64 |
 | Whirlwind | 0.40% | ~64 |
 | Creative Space | 0.40% | ~64 |
-| Picking Up After Yourself | 0.30% | ~157 |
+| Picking Up After Yourself | 0.30% | ~158 |
 | Run-On Sentence | 0.30% | ~48 |
 | Tick Tock | 0.30% | ~48 |
 | Alan, Wake Up | 0.20% | ~105 |
@@ -69,12 +69,12 @@ Number of Ratings: 524  (23.09.2022)
 | Gunless Wonder | 0.20% | ~105 |
 | Bright Falls Aficionado | 0.20% | ~105 |
 | Licensed Properties | 0.20% | ~32 |
-| Every Nook and Cranny | 0.10% | ~52 |
-| Collector's Edition | 0.10% | ~52 |
-| Hypercaffeinated | 0.10% | ~52 |
+| Every Nook and Cranny | 0.10% | ~53 |
+| Collector's Edition | 0.10% | ~53 |
+| Hypercaffeinated | 0.10% | ~53 |
 | No Punctuation | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,498 (Ranked 76)  
+Progressed: 52,504 (Ranked 76)  
 Completed: 50 (0.10%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 50 (0.10%) (Ranked 164)
 | 2023-06-03 | 51,789 | 48 |
 | 2023-06-04 | 52,120 | 48 |
 | 2023-06-05 | 52,335 | 49 |
-| 2023-06-06 | 52,498 | 50 |
+| 2023-06-06 | 52,504 | 50 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

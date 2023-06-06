@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 35.00% | ~112 |
+| Brace for impact! | 34.00% | ~109 |
 | Baby's First Car | 32.00% | ~103 |
 | Amateur Mechanic | 32.00% | ~103 |
 | Pushover | 32.00% | ~103 |
 | A Forest Walk | 32.00% | ~103 |
-| C-C-C-Combo! | 30.00% | ~96 |
-| Multiply that! | 30.00% | ~96 |
+| C-C-C-Combo! | 30.00% | ~97 |
+| Multiply that! | 30.00% | ~97 |
 | Fore! | 27.00% | ~87 |
 | Insurance fraud | 27.00% | ~87 |
 | Snow Fun! | 27.00% | ~87 |
-| The Collector | 26.00% | ~83 |
-| The Wild West | 26.00% | ~83 |
-| Bag of Tricks | 26.00% | ~83 |
-| I see the light! | 26.00% | ~83 |
-| You're it | 26.00% | ~83 |
+| The Collector | 26.00% | ~84 |
+| The Wild West | 26.00% | ~84 |
+| Bag of Tricks | 26.00% | ~84 |
 | To and Fro | 25.00% | ~80 |
 | Take that Frosty! | 25.00% | ~80 |
+| I see the light! | 25.00% | ~80 |
 | In the Bag! | 25.00% | ~80 |
+| You're it | 25.00% | ~80 |
 | First Come, First Serve | 24.00% | ~77 |
 | Disoriented | 24.00% | ~77 |
 | Goodbye cruel world | 24.00% | ~77 |
@@ -30,13 +30,13 @@
 | Anger Issues | 23.00% | ~74 |
 | Your Highness | 23.00% | ~74 |
 | Event Amateur | 22.00% | ~71 |
-| Feeling Dizzy? | 21.00% | ~67 |
 | Drift King! | 20.00% | ~64 |
+| Feeling Dizzy? | 20.00% | ~64 |
 | Feeling Hot Hot Hot! | 19.00% | ~61 |
 | Ferry Good! | 19.00% | ~61 |
 | Assert Dominance | 19.00% | ~61 |
 | Speed of light | 19.00% | ~61 |
-| Out of this League | 16.00% | ~51 |
+| Out of this League | 16.00% | ~52 |
 | Special Forces | 15.00% | ~48 |
 | Toot Toot! | 14.00% | ~45 |
 | Blasting away! | 14.00% | ~45 |
@@ -46,7 +46,7 @@
 | Event Pro | 11.00% | ~35 |
 | Space Crash | 8.00% | ~26 |
 | To war! | 8.00% | ~26 |
-| Hoarder | 7.00% | ~22 |
+| Hoarder | 7.00% | ~23 |
 | Event Master | 6.00% | ~19 |
 | A Starting Collector | 5.00% | ~16 |
 | My Precious | 4.00% | ~13 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321 (Ranked 221)  
+Progressed: 322 (Ranked 221)  
 Completed: 2 (0.62%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 2 (0.62%) (Ranked 109)
 | 2023-06-01 | 317 | 2 |
 | 2023-06-03 | 319 | 2 |
 | 2023-06-05 | 321 | 2 |
+| 2023-06-06 | 322 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

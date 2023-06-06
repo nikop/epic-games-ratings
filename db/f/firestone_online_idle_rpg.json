@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1306,
+  "EOS_Progressed": 1308,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2769,6 +2769,11 @@
       "Time": "2023-06-06T18:08:04.6932914+00:00",
       "NumProgressed": 1306,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T21:05:59.5285643+00:00",
+      "NumProgressed": 1308,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2844,7 +2849,7 @@
       "Name": "Challenger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "conqueror",
@@ -2868,7 +2873,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "doingmypart",
@@ -2962,9 +2967,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 523
     },
     {
       "ID": "fourleafclover",
@@ -3012,7 +3017,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "herewegoagain",
@@ -3044,7 +3049,7 @@
       "Name": "Hunter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "inspection",
@@ -3100,7 +3105,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "milestonecollector",
@@ -3172,7 +3177,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "prestigiousx10",
@@ -3180,7 +3185,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "relicofthepast",
@@ -3188,7 +3193,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "sailor",
@@ -3212,7 +3217,7 @@
       "Name": "Scroll Master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "silverwoodliberator",
@@ -3236,7 +3241,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 744
+      "UsersEstimate": 746
     },
     {
       "ID": "thealchemist",
@@ -3276,7 +3281,7 @@
       "Name": "The power of Awakening",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "theunstoppable",
@@ -3340,7 +3345,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1230
     },
     {
       "ID": "warmachinesarmy",
@@ -3372,14 +3377,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1306,
+      "Progressed": 1308,
       "Completed": 1
     }
   ],
@@ -3387,8 +3392,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-05T10:57:55.1665769+00:00",
-  "LastChanged_Achievements": "2023-06-06T20:07:23.5567843+00:00",
+  "LastChanged_Achievements": "2023-06-06T21:05:59.5285639+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-06T19:58:39.3658086+00:00",
-  "LastUpdate_Achievements": "2023-06-06T20:07:23.5568931+00:00"
+  "LastUpdate_Ratings": "2023-06-06T20:58:06.2875159+00:00",
+  "LastUpdate_Achievements": "2023-06-06T21:05:59.5286409+00:00"
 }

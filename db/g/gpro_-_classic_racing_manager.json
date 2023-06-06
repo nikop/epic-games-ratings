@@ -2,9 +2,9 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -301,6 +301,11 @@
       "Time": "2023-06-06T20:05:58.934935+00:00",
       "NumProgressed": 139,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T21:04:59.23635+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -376,7 +381,7 @@
       "Name": "Newbie",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -552,7 +557,7 @@
       "Name": "Better than cake",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -816,7 +821,7 @@
       "Name": "No brakes",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1607,14 +1612,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-06-06T20:05:58.9349343+00:00",
+  "LastChanged_Achievements": "2023-06-06T21:04:59.2363495+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:10.2014908+00:00",
-  "LastUpdate_Ratings": "2023-06-06T19:57:30.4571971+00:00",
-  "LastUpdate_Achievements": "2023-06-06T20:05:58.9353416+00:00"
+  "LastUpdate_Ratings": "2023-06-06T20:57:19.581449+00:00",
+  "LastUpdate_Achievements": "2023-06-06T21:04:59.2366189+00:00"
 }

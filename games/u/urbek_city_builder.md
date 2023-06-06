@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Small town | 62.00% | ~140 |
-| I like parks | 49.00% | ~110 |
-| The spiritual world... | 24.00% | ~54 |
-| It is nice to share with friends in the city | 24.00% | ~54 |
-| Sport is good for you | 24.00% | ~54 |
+| I like parks | 49.00% | ~111 |
+| It is nice to share with friends in the city | 25.00% | ~56 |
+| Sport is good for you | 25.00% | ~56 |
+| The spiritual world... | 23.00% | ~52 |
 | The woodcutter | 21.00% | ~47 |
 | I like books | 19.00% | ~43 |
-| I like my life | 18.00% | ~40 |
+| I like my life | 18.00% | ~41 |
 | Clean energy | 17.00% | ~38 |
 | Soviet town | 17.00% | ~38 |
 | Bucolic city | 12.00% | ~27 |
@@ -25,11 +25,11 @@
 | Sport is the best thing | 4.00% | ~9 |
 | Little Mayor | 3.00% | ~7 |
 | Temperate builder | 3.00% | ~7 |
-| Banking city | 2.00% | ~4 |
-| Read! Everyone should read! | 2.00% | ~4 |
-| Oh, I love parks, listening to birds! | 2.00% | ~4 |
-| Rebel city | 2.00% | ~4 |
-| Temperate urban planner | 2.00% | ~4 |
+| Banking city | 2.00% | ~5 |
+| Read! Everyone should read! | 2.00% | ~5 |
+| Oh, I love parks, listening to birds! | 2.00% | ~5 |
+| Rebel city | 2.00% | ~5 |
+| Temperate urban planner | 2.00% | ~5 |
 | Archipelago builder | 1.00% | ~2 |
 | Food provider master | 1.00% | ~2 |
 | City crisis | 1.00% | ~2 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 241)  
+Progressed: 226 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 213 | 0 |
 | 2023-06-04 | 219 | 0 |
 | 2023-06-05 | 222 | 0 |
-| 2023-06-06 | 225 | 0 |
+| 2023-06-06 | 226 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

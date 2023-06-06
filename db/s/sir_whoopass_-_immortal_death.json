@@ -424,9 +424,9 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_04",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Vitamin D Addition",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_05",
@@ -472,9 +472,9 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_10",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Inadequate Opportunities",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_11",
@@ -544,9 +544,9 @@
       "ID": "DODGE_3",
       "SetID": "9gfkh7c",
       "Name": "I want to throw up!",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DRUNK_1",
@@ -983,8 +983,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-06-06T20:07:20.9373848+00:00",
+  "LastChanged_Achievements": "2023-06-06T21:05:57.6804497+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:09.8520018+00:00",
-  "LastUpdate_Ratings": "2023-06-06T19:57:30.6448435+00:00",
-  "LastUpdate_Achievements": "2023-06-06T20:07:20.9374926+00:00"
+  "LastUpdate_Ratings": "2023-06-06T20:57:19.7045407+00:00",
+  "LastUpdate_Achievements": "2023-06-06T21:05:57.680523+00:00"
 }

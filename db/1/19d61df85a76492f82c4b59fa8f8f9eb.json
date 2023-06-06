@@ -2,7 +2,7 @@
   "ID": "19d61df85a76492f82c4b59fa8f8f9eb",
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
-  "Ranking_EOS_Progress": 328,
+  "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 52,
@@ -220,8 +220,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-06-06T20:03:48.097484+00:00",
+  "LastChanged_Achievements": "2023-06-06T21:03:34.5586646+00:00",
   "LastUpdate_AppInfo": "2023-06-01T09:56:58.8480789+00:00",
-  "LastUpdate_Ratings": "2023-06-06T19:57:13.841781+00:00",
-  "LastUpdate_Achievements": "2023-06-06T20:03:48.0974925+00:00"
+  "LastUpdate_Ratings": "2023-06-06T20:57:07.586935+00:00",
+  "LastUpdate_Achievements": "2023-06-06T21:03:34.5586712+00:00"
 }

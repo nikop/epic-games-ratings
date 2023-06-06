@@ -16,6 +16,7 @@
 | Seven-League Boots | 5.00% | ~4 |
 | Highly Qualified | 5.00% | ~4 |
 | Tailor-Made for Two | 5.00% | ~4 |
+| Lone Wolf | 5.00% | ~4 |
 | Playing God | 5.00% | ~4 |
 | Say My Name | 4.00% | ~3 |
 | Nerd | 4.00% | ~3 |
@@ -23,7 +24,6 @@
 | Made Mother Proud | 4.00% | ~3 |
 | Winner Winner Chicken Dinner | 4.00% | ~3 |
 | Tailor-Made | 4.00% | ~3 |
-| Lone Wolf | 4.00% | ~3 |
 | Déjà-Vu | 3.00% | ~2 |
 | Golden Ratio | 3.00% | ~2 |
 | POI Hunter | 3.00% | ~2 |

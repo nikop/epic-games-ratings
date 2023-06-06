@@ -5,13 +5,13 @@ Rating: 3.97 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,228 |
-| World Map | 80.00% | ~1,045 |
-| Temple of Eternals | 57.00% | ~744 |
-| Prestigious | 53.00% | ~692 |
-| Fellowship Power | 41.00% | ~535 |
-| Guild Power | 24.00% | ~313 |
-| Prestigious x10 | 21.00% | ~274 |
+| Victor | 94.00% | ~1,230 |
+| World Map | 80.00% | ~1,046 |
+| Temple of Eternals | 57.00% | ~746 |
+| Prestigious | 53.00% | ~693 |
+| Fellowship Power | 40.00% | ~523 |
+| Guild Power | 24.00% | ~314 |
+| Prestigious x10 | 21.00% | ~275 |
 | The game is on | 18.00% | ~235 |
 | Exotic Merchant | 17.00% | ~222 |
 | Dragon Clicker | 16.00% | ~209 |
@@ -28,13 +28,13 @@ Rating: 3.97 (Ranked 905)
 | Superior | 11.00% | ~144 |
 | The Unstoppable | 11.00% | ~144 |
 | Scientist | 9.00% | ~118 |
-| Challenger | 8.00% | ~104 |
-| Daily Quest Completionist | 8.00% | ~104 |
-| Scroll Master | 8.00% | ~104 |
-| The power of Awakening | 8.00% | ~104 |
-| Hunter | 7.00% | ~91 |
-| Mastery | 7.00% | ~91 |
-| Relic Of The Past | 7.00% | ~91 |
+| Challenger | 8.00% | ~105 |
+| Daily Quest Completionist | 8.00% | ~105 |
+| Scroll Master | 8.00% | ~105 |
+| The power of Awakening | 8.00% | ~105 |
+| Hunter | 7.00% | ~92 |
+| Mastery | 7.00% | ~92 |
+| Relic Of The Past | 7.00% | ~92 |
 | Doing My Part | 6.00% | ~78 |
 | Frostfire Liberator | 6.00% | ~78 |
 | Moving Up The Ladder | 6.00% | ~78 |
@@ -81,7 +81,7 @@ Rating: 3.97 (Ranked 905)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,306 (Ranked 162)  
+Progressed: 1,308 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 1 (0.08%) (Ranked 173)
 | 2023-06-03 | 1,267 | 1 |
 | 2023-06-04 | 1,285 | 1 |
 | 2023-06-05 | 1,299 | 1 |
-| 2023-06-06 | 1,306 | 1 |
+| 2023-06-06 | 1,308 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

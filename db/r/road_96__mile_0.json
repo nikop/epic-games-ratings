@@ -2,9 +2,9 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 234,
+  "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 258,
+  "EOS_Progressed": 259,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.78,
+  "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -594,6 +594,11 @@
       "Time": "2023-06-06T20:04:27.1387528+00:00",
       "NumProgressed": 258,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-06T21:03:55.1618386+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -605,7 +610,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "completeact2",
@@ -621,7 +626,7 @@
       "Name": "On the Road",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "findalltapes",
@@ -635,17 +640,17 @@
       "ID": "scoremaxrankallrides",
       "SetID": "40n95i5",
       "Name": "Try Harder",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "scoreminrankrb1",
       "SetID": "40n95i5",
       "Name": "Truthseeker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "scoreminrankrb2",
@@ -691,9 +696,9 @@
       "ID": "scoreminrankrp2",
       "SetID": "40n95i5",
       "Name": "Attack on Tyran",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "scoreminrankrp3",
@@ -724,7 +729,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 258,
+      "Progressed": 259,
       "Completed": 2
     }
   ],
@@ -732,8 +737,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-06T20:04:27.1387521+00:00",
+  "LastChanged_Achievements": "2023-06-06T21:03:55.1618381+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-06T19:59:41.0172523+00:00",
-  "LastUpdate_Achievements": "2023-06-06T20:04:27.1387688+00:00"
+  "LastUpdate_Ratings": "2023-06-06T20:58:52.0489154+00:00",
+  "LastUpdate_Achievements": "2023-06-06T21:03:55.1618504+00:00"
 }

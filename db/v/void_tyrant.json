@@ -2,7 +2,7 @@
   "ID": "9c4d0f80d0fc4cd48760ad7355cd3cac",
   "Name": "Void Tyrant",
   "ProductSlug": "void-tyrant",
-  "Ranking_EOS_Progress": 435,
+  "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 94,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:56:56.5200456+00:00",
   "LastChanged": "2023-03-31T05:56:56.5200457+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:04.0342994+00:00",
-  "LastUpdate_Ratings": "2023-06-06T20:01:56.8380364+00:00",
-  "LastUpdate_Achievements": "2023-06-06T20:06:49.4620761+00:00"
+  "LastUpdate_Ratings": "2023-06-06T21:00:28.7800001+00:00",
+  "LastUpdate_Achievements": "2023-06-06T21:05:34.2712378+00:00"
 }

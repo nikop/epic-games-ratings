@@ -18,11 +18,11 @@ Rating: 4.45 (Ranked 616)
 | Target America | 9.00% | ~210 |
 | Just a Flesh Wound | 8.00% | ~187 |
 | Explosive Efficiency | 8.00% | ~187 |
+| The Kraken Sleeps | 8.00% | ~187 |
 | Liberté | 7.00% | ~164 |
 | Enemy at the Gates | 7.00% | ~164 |
 | Gunslinger | 7.00% | ~164 |
 | Sharpshooter | 7.00% | ~164 |
-| The Kraken Sleeps | 7.00% | ~164 |
 | Opposing Force | 6.00% | ~140 |
 | Die Nussknacker Sweet! | 6.00% | ~140 |
 | Der Geist | 6.00% | ~140 |
@@ -52,27 +52,27 @@ Rating: 4.45 (Ranked 616)
 | From Paris with Love | 0.50% | ~12 |
 | Burn after reading | 0.50% | ~12 |
 | Souvenir hunter | 0.40% | ~9 |
+| Eagle Eyed | 0.40% | ~9 |
 | Up close and personal | 0.40% | ~9 |
 | Shoot for the Moon | 0.40% | ~9 |
 | If You Go Down To The Woods Today | 0.40% | ~9 |
 | Fight Another Day | 0.40% | ~9 |
-| Eagle Eyed | 0.30% | ~7 |
 | Can't Outrun A Bullet | 0.30% | ~7 |
 | Reich To The Point | 0.30% | ~7 |
 | Sink or Swim | 0.30% | ~2 |
 | Sight Beyond Sights | 0.20% | ~5 |
 | Covert Elimination | 0.20% | ~5 |
 | Best of the Best | 0.10% | ~2 |
+| Master of Pistols | 0.10% | ~2 |
 | Master of Secondaries | 0.10% | ~2 |
 | Master of Rifles | 0.10% | ~2 |
+| Master-at-arms | 0.10% | ~2 |
 | Out of Scope | 0.10% | ~2 |
 | Führerious Repetition | 0.10% | ~2 |
 | From Führer Away | 0.10% | ~2 |
 | Alpha | 0.10% | ~2 |
 | Das Familienjuwel | 0.10% | ~2 |
 | Operation Overlord | 0.10% | ~2 |
-| Master of Pistols | 0.00% | ~0 |
-| Master-at-arms | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |

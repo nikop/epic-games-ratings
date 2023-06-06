@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 396,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -342,6 +342,11 @@
       "Time": "2023-06-06T19:06:10.2011192+00:00",
       "NumProgressed": 395,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-06T21:05:41.8733164+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 20,
@@ -353,7 +358,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "CHOICES_MATTER",
@@ -417,7 +422,7 @@
       "Name": "The Frenzy",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -425,7 +430,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -441,7 +446,7 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "GOOD_KARMA",
@@ -449,7 +454,7 @@
       "Name": "Good Karma",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "INTERROGATION",
@@ -465,7 +470,7 @@
       "Name": "Office Clerk",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -489,7 +494,7 @@
       "Name": "Sabotage",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SHILL_BIDDER",
@@ -512,7 +517,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 4
     }
   ],
@@ -520,8 +525,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-06-06T20:06:59.9074974+00:00",
+  "LastChanged_Achievements": "2023-06-06T21:05:41.873316+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:52.1807912+00:00",
-  "LastUpdate_Ratings": "2023-06-06T19:58:16.9067841+00:00",
-  "LastUpdate_Achievements": "2023-06-06T20:06:59.9075167+00:00"
+  "LastUpdate_Ratings": "2023-06-06T20:57:51.8197676+00:00",
+  "LastUpdate_Achievements": "2023-06-06T21:05:41.873328+00:00"
 }

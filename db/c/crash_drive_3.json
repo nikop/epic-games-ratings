@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 321,
+  "EOS_Progressed": 322,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -171,6 +171,11 @@
       "Time": "2023-06-05T17:04:41.9396037+00:00",
       "NumProgressed": 321,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-06T21:04:09.8492291+00:00",
+      "NumProgressed": 322,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -180,9 +185,9 @@
       "ID": "AIRTIME_6_SEC",
       "SetID": "20koof9",
       "Name": "Brace for impact!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 109
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -214,7 +219,7 @@
       "Name": "The Collector",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -350,7 +355,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -438,7 +443,7 @@
       "Name": "The Wild West",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -470,7 +475,7 @@
       "Name": "Multiply that!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -492,9 +497,9 @@
       "ID": "SPIN_1080",
       "SetID": "20koof9",
       "Name": "Feeling Dizzy?",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 64
     },
     {
       "ID": "STUNT_EVENT",
@@ -502,7 +507,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -510,7 +515,7 @@
       "Name": "Out of this League",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -518,7 +523,7 @@
       "Name": "Hoarder",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "USE_FERRY",
@@ -540,9 +545,9 @@
       "ID": "USE_TUNNEL",
       "SetID": "20koof9",
       "Name": "I see the light!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 80
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -604,9 +609,9 @@
       "ID": "WIN_TAG_EVENT",
       "SetID": "20koof9",
       "Name": "You\u0027re it",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 80
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -621,7 +626,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 321,
+      "Progressed": 322,
       "Completed": 2
     }
   ],
@@ -629,8 +634,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-06T20:04:47.864161+00:00",
+  "LastChanged_Achievements": "2023-06-06T21:04:09.8492287+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:01.3501151+00:00",
-  "LastUpdate_Ratings": "2023-06-06T19:59:35.6840735+00:00",
-  "LastUpdate_Achievements": "2023-06-06T20:04:47.8642101+00:00"
+  "LastUpdate_Ratings": "2023-06-06T20:58:47.2971914+00:00",
+  "LastUpdate_Achievements": "2023-06-06T21:04:09.8492913+00:00"
 }

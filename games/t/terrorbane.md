@@ -7,9 +7,9 @@
 | First contact | 100.00% | ~38 |
 | System shocked | 58.00% | ~22 |
 | Exposé | 55.00% | ~21 |
-| Blade of prophecy | 42.00% | ~16 |
-| Normal end | 42.00% | ~16 |
-| C Rank Bug-catcher | 39.00% | ~15 |
+| Blade of prophecy | 45.00% | ~17 |
+| Normal end | 45.00% | ~17 |
+| C Rank Bug-catcher | 42.00% | ~16 |
 | Armed robbery | 32.00% | ~12 |
 | Never learn | 29.00% | ~11 |
 | B Rank Bug-catcher | 24.00% | ~9 |
@@ -30,7 +30,7 @@
 | Arcade master | 0.00% | ~0 |
 | Real completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 312)  
+Progressed: 38 (Ranked 313)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

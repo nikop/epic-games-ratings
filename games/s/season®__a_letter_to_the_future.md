@@ -8,7 +8,7 @@
 | Journal Beautifier | 82.00% | ~794 |
 | Outside World Seer | 64.00% | ~620 |
 | Stranger Encounterer | 38.00% | ~368 |
-| Grey Hands Praxis 101 | 28.00% | ~271 |
+| Grey Hands Praxis 101 | 29.00% | ~281 |
 | Deep Listener | 27.00% | ~261 |
 | Music for Cows | 19.00% | ~184 |
 | Emotional Baggage Handler | 17.00% | ~165 |

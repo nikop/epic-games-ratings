@@ -23,8 +23,8 @@ Rating: 4.24 (Ranked 800)
 | Court Martial | 19.00% | ~326 |
 | Offensive Defense | 19.00% | ~326 |
 | Unforeseeable Consequences | 19.00% | ~326 |
+| Dead Again | 18.00% | ~309 |
 | Clean Cut | 18.00% | ~309 |
-| Dead Again | 17.00% | ~291 |
 | Full Arsenal | 17.00% | ~291 |
 | Can't Trust Banks | 15.00% | ~257 |
 | Mommy Dearest | 13.00% | ~223 |

@@ -6,8 +6,8 @@ Rating: 4.35 (Ranked 726)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~958 |
-| Ranidaphobia | 75.00% | ~781 |
-| Aspiring Editor | 72.00% | ~750 |
+| Ranidaphobia | 76.00% | ~791 |
+| Aspiring Editor | 73.00% | ~760 |
 | Gun for Hire | 67.00% | ~697 |
 | I am the law! | 59.00% | ~614 |
 | Lumberjack | 44.00% | ~458 |
@@ -20,7 +20,7 @@ Rating: 4.35 (Ranked 726)
 | Giant Killer | 33.00% | ~344 |
 | Sensei | 32.00% | ~333 |
 | The meaning of Kain | 29.00% | ~302 |
-| Technophobe | 26.00% | ~271 |
+| Technophobe | 27.00% | ~281 |
 | Recycler | 24.00% | ~250 |
 | Are you not entertained? | 21.00% | ~219 |
 | Ganglord | 20.00% | ~208 |
@@ -32,9 +32,9 @@ Rating: 4.35 (Ranked 726)
 | Hold The Line | 17.00% | ~177 |
 | Experienced | 16.00% | ~167 |
 | Newtonian Knockout | 14.00% | ~146 |
+| The Watchers | 13.00% | ~135 |
 | Endgame | 12.00% | ~125 |
 | Savior | 12.00% | ~125 |
-| The Watchers | 12.00% | ~125 |
 | Ruthless | 11.00% | ~115 |
 | Dr Jones | 9.00% | ~94 |
 | Commando | 8.00% | ~83 |

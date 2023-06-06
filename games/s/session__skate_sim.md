@@ -6,13 +6,13 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 54.00% | ~1,233 |
+| You're free now! | 54.00% | ~1,234 |
 | Keeping it classy | 25.00% | ~571 |
 | Welcome to the family | 18.00% | ~411 |
-| The finer things in life | 16.00% | ~365 |
+| The finer things in life | 16.00% | ~366 |
 | Backpacker | 12.00% | ~274 |
 | Go with the Flow | 11.00% | ~251 |
-| Plastic Surgeon | 9.00% | ~205 |
+| Plastic Surgeon | 9.00% | ~206 |
 | Keep the dream alive | 8.00% | ~183 |
 | The flip trick crown jewel | 8.00% | ~183 |
 | The hard way | 8.00% | ~183 |
@@ -39,10 +39,10 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 4.00% | ~91 |
 | Renaissance man | 4.00% | ~91 |
 | Tank commander | 4.00% | ~91 |
-| G.O.A.T. status | 3.00% | ~68 |
-| Hoarder | 3.00% | ~68 |
-| Trick shot marksman | 3.00% | ~68 |
-| We get it, you're good | 3.00% | ~68 |
+| G.O.A.T. status | 3.00% | ~69 |
+| Hoarder | 3.00% | ~69 |
+| Trick shot marksman | 3.00% | ~69 |
+| We get it, you're good | 3.00% | ~69 |
 | Cross lock country | 2.00% | ~46 |
 | Many plys later... | 2.00% | ~46 |
 | Pew-Pew | 2.00% | ~46 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,283 (Ranked 148)  
+Progressed: 2,285 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 2,230 | 0 |
 | 2023-06-04 | 2,248 | 0 |
 | 2023-06-05 | 2,265 | 0 |
-| 2023-06-06 | 2,283 | 0 |
+| 2023-06-06 | 2,285 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 397)  
 Sum: 420 (Ranked 301)  

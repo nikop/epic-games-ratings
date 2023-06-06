@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -492,6 +492,11 @@
       "Time": "2023-06-06T19:06:37.8865395+00:00",
       "NumProgressed": 225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T21:06:06.3985445+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -551,7 +556,7 @@
       "Name": "Banking city",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BANCO_2",
@@ -663,7 +668,7 @@
       "Name": "Read! Everyone should read!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DESIERTO3_1",
@@ -717,9 +722,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "FAITH_2",
@@ -775,7 +780,7 @@
       "Name": "I like my life",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "FELIZ_2",
@@ -831,7 +836,7 @@
       "Name": "I like parks",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -847,7 +852,7 @@
       "Name": "Oh, I love parks, listening to birds!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MADERA_0",
@@ -885,9 +890,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -959,7 +964,7 @@
       "Name": "Rebel city",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REBELDES_2",
@@ -1021,9 +1026,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "SPORTS_2",
@@ -1063,7 +1068,7 @@
       "Name": "Temperate urban planner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TEMPERADO_3",
@@ -1134,7 +1139,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 0
     }
   ],
@@ -1142,8 +1147,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-06T20:07:31.710702+00:00",
+  "LastChanged_Achievements": "2023-06-06T21:06:06.3985443+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:07.2808901+00:00",
-  "LastUpdate_Ratings": "2023-06-06T19:59:42.9315465+00:00",
-  "LastUpdate_Achievements": "2023-06-06T20:07:31.7108166+00:00"
+  "LastUpdate_Ratings": "2023-06-06T20:58:54.4847157+00:00",
+  "LastUpdate_Achievements": "2023-06-06T21:06:06.3986156+00:00"
 }

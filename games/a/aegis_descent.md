@@ -12,7 +12,7 @@
 | What-A-Shot | 44.00% | ~165 |
 | Batteries Included | 39.00% | ~146 |
 | Death from Above | 37.00% | ~138 |
-| Hull King | 26.00% | ~97 |
+| Hull King | 27.00% | ~101 |
 | Boss Down | 20.00% | ~75 |
 | Extra Ammo | 20.00% | ~75 |
 | Splash Damage | 18.00% | ~67 |
@@ -20,9 +20,9 @@
 | Perky | 16.00% | ~60 |
 | Perk King | 11.00% | ~41 |
 | Salvage | 11.00% | ~41 |
+| Shocking | 11.00% | ~41 |
 | Perfect Timing | 10.00% | ~37 |
 | Sixty Seconds | 10.00% | ~37 |
-| Shocking | 10.00% | ~37 |
 | Killer Elite | 6.00% | ~22 |
 | Bumper Car | 5.00% | ~19 |
 | First Victory | 5.00% | ~19 |

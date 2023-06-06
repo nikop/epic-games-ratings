@@ -6,43 +6,43 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Where's that freaking Dwarf? | 100.00% | ~25 |
-| Alt+F4 | 100.00% | ~25 |
-| Sock! SOCK! | 92.00% | ~23 |
-| Fireproof Wizardess | 68.00% | ~17 |
-| Livin' in a dwarven paradise | 64.00% | ~16 |
-| Déjà vu | 60.00% | ~15 |
-| DM intervention | 60.00% | ~15 |
-| GG EZ | 56.00% | ~14 |
-| A beer, two curses, three companions | 52.00% | ~13 |
-| Speedrun | 52.00% | ~13 |
-| Way of the Wimp | 48.00% | ~12 |
-| The plot thickens... At the tavern | 48.00% | ~12 |
-| Thieves' Guild Accreditation | 48.00% | ~12 |
-| Oh, when I'll be level 10... | 48.00% | ~12 |
-| I am the night | 44.00% | ~11 |
-| The Ranger of Chaos | 40.00% | ~10 |
-| The demons' feast | 36.00% | ~9 |
-| Dwarf Fortress | 36.00% | ~9 |
-| Look but don't touch | 36.00% | ~9 |
-| Shiny and Crôm | 32.00% | ~8 |
-| The Statuette of Gladeulfeurah | 32.00% | ~8 |
-| The Woman in the High Castle | 32.00% | ~8 |
-| A tale of adventurers not quite like the others... | 32.00% | ~8 |
-| Gargantua | 32.00% | ~8 |
-| Team Building Exercise | 32.00% | ~8 |
-| Material Girl | 32.00% | ~8 |
-| The Famous Dungeon of Naheulbeuk | 28.00% | ~7 |
-| Torture and Sensibility | 24.00% | ~6 |
-| Cursed die | 20.00% | ~5 |
-| The Great Library | 20.00% | ~5 |
-| The beards of change | 20.00% | ~5 |
-| Law and Order | 20.00% | ~5 |
-| In Navalu's footsteps | 20.00% | ~5 |
-| Urik's Depths | 16.00% | ~4 |
-| The Blood Countess | 16.00% | ~4 |
-| He’s alive! Aliiiive! | 16.00% | ~4 |
-| Lëgal Legend | 16.00% | ~4 |
+| Where's that freaking Dwarf? | 100.00% | ~26 |
+| Alt+F4 | 100.00% | ~26 |
+| Sock! SOCK! | 92.00% | ~24 |
+| Fireproof Wizardess | 69.00% | ~18 |
+| Livin' in a dwarven paradise | 65.00% | ~17 |
+| Déjà vu | 62.00% | ~16 |
+| DM intervention | 62.00% | ~16 |
+| GG EZ | 58.00% | ~15 |
+| A beer, two curses, three companions | 54.00% | ~14 |
+| Speedrun | 54.00% | ~14 |
+| The plot thickens... At the tavern | 50.00% | ~13 |
+| Way of the Wimp | 46.00% | ~12 |
+| I am the night | 46.00% | ~12 |
+| Thieves' Guild Accreditation | 46.00% | ~12 |
+| Oh, when I'll be level 10... | 46.00% | ~12 |
+| The Ranger of Chaos | 38.00% | ~10 |
+| The demons' feast | 35.00% | ~9 |
+| The Woman in the High Castle | 35.00% | ~9 |
+| Dwarf Fortress | 35.00% | ~9 |
+| Look but don't touch | 35.00% | ~9 |
+| Team Building Exercise | 35.00% | ~9 |
+| Shiny and Crôm | 31.00% | ~8 |
+| The Statuette of Gladeulfeurah | 31.00% | ~8 |
+| A tale of adventurers not quite like the others... | 31.00% | ~8 |
+| Gargantua | 31.00% | ~8 |
+| Material Girl | 31.00% | ~8 |
+| The Famous Dungeon of Naheulbeuk | 27.00% | ~7 |
+| Cursed die | 23.00% | ~6 |
+| Torture and Sensibility | 23.00% | ~6 |
+| The Great Library | 19.00% | ~5 |
+| The beards of change | 19.00% | ~5 |
+| Law and Order | 19.00% | ~5 |
+| In Navalu's footsteps | 19.00% | ~5 |
+| Urik's Depths | 15.00% | ~4 |
+| The Blood Countess | 15.00% | ~4 |
+| He’s alive! Aliiiive! | 15.00% | ~4 |
+| Lëgal Legend | 15.00% | ~4 |
 | The Dungeon Master | 12.00% | ~3 |
 | Res Judicata | 12.00% | ~3 |
 | Necrophilia | 12.00% | ~3 |
@@ -59,6 +59,7 @@ Number of Ratings: 118  (23.09.2022)
 | Super-Ultra-Lydian | 8.00% | ~2 |
 | Holistic Adventuring Party | 4.00% | ~1 |
 | Scholar of the Lands of Fangh | 4.00% | ~1 |
+| I'd rather... Just... Sing! | 4.00% | ~1 |
 | Restless night | 4.00% | ~1 |
 | Take your time back in time | 4.00% | ~1 |
 | A broken clock… | 4.00% | ~1 |
@@ -66,12 +67,13 @@ Number of Ratings: 118  (23.09.2022)
 | Gloomy Dungeon | 4.00% | ~1 |
 | Living legends of the Lands of Fangh | 4.00% | ~1 |
 | Insult to injury | 4.00% | ~1 |
+| Pyrrhic victory | 4.00% | ~1 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 4.00% | ~1 |
 | We come in peace | 4.00% | ~1 |
 | Lord of the Drunks | 4.00% | ~1 |
 | It's been a hard day's night | 4.00% | ~1 |
+| Demisemiquaver | 4.00% | ~1 |
 | Friendly fire | 0.00% | ~0 |
-| I'd rather... Just... Sing! | 0.00% | ~0 |
 | The number of the counting shalt be 7 | 0.00% | ~0 |
 | King of the Arena | 0.00% | ~0 |
 | Finally free | 0.00% | ~0 |
@@ -88,20 +90,18 @@ Number of Ratings: 118  (23.09.2022)
 | And they lived happily ever after... | 0.00% | ~0 |
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
-| Pyrrhic victory | 0.00% | ~0 |
 | 100% satisfaction guarantee | 0.00% | ~0 |
 | Inception | 0.00% | ~0 |
-| Demisemiquaver | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 333)  
+Progressed: 26 (Ranked 330)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-06-05 | 16 | 0 |
-| 2023-06-06 | 25 | 0 |
+| 2023-06-06 | 26 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 378)  
 Sum: 61 (Ranked 431)  
