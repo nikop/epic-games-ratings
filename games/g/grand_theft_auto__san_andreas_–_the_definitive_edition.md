@@ -5,23 +5,23 @@ Rating: 4.60 (Ranked 385)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~7,746 |
-| Pay 'n' Spray | 48.00% | ~4,648 |
-| All Dressed Up for San Fierro | 23.00% | ~2,227 |
-| The American Dream | 17.00% | ~1,646 |
-| School's Out | 15.00% | ~1,452 |
-| Smooth Moves | 15.00% | ~1,452 |
-| Today Was a Good Day | 13.00% | ~1,259 |
-| What happens in Las Venturas... | 12.00% | ~1,162 |
-| Horror of the Santa Maria | 9.00% | ~871 |
+| Getting Started | 80.00% | ~7,751 |
+| Pay 'n' Spray | 48.00% | ~4,651 |
+| All Dressed Up for San Fierro | 23.00% | ~2,228 |
+| The American Dream | 17.00% | ~1,647 |
+| School's Out | 15.00% | ~1,453 |
+| Smooth Moves | 15.00% | ~1,453 |
+| Today Was a Good Day | 13.00% | ~1,260 |
+| What happens in Las Venturas... | 12.00% | ~1,163 |
+| Horror of the Santa Maria | 9.00% | ~872 |
 | Liberty City State of Mind | 7.00% | ~678 |
 | With Extra Dip | 6.00% | ~581 |
 | Original Gangster | 6.00% | ~581 |
 | The End of the Line | 5.00% | ~484 |
 | Saviour | 5.00% | ~484 |
-| Rescue a Kitten Too? | 4.00% | ~387 |
-| They Can’t Stop All of Us | 3.00% | ~290 |
-| What are the Odds | 3.00% | ~290 |
+| Rescue a Kitten Too? | 4.00% | ~388 |
+| They Can’t Stop All of Us | 3.00% | ~291 |
+| What are the Odds | 3.00% | ~291 |
 | I’ll Have Two Number 9s | 2.00% | ~194 |
 | Bike or Biker | 2.00% | ~194 |
 | What the City Needs | 2.00% | ~194 |
@@ -34,14 +34,14 @@ Rating: 4.60 (Ranked 385)
 | Assassin | 1.00% | ~97 |
 | Ain’t Nothing But a G Thing | 1.00% | ~97 |
 | Chick Magnet | 0.90% | ~87 |
-| Lucky Spinner | 0.80% | ~77 |
+| Lucky Spinner | 0.80% | ~78 |
 | Hoopin' it Up | 0.70% | ~68 |
 | Not a Player | 0.60% | ~58 |
 | Remastered | 0.50% | ~48 |
 | ...Here we go again | 0.20% | ~19 |
 | I Ain't No Buster | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,683 (Ranked 110)  
+Progressed: 9,689 (Ranked 110)  
 Completed: 17 (0.18%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 17 (0.18%) (Ranked 148)
 | 2023-06-03 | 9,408 | 17 |
 | 2023-06-04 | 9,539 | 17 |
 | 2023-06-05 | 9,646 | 17 |
-| 2023-06-06 | 9,683 | 17 |
+| 2023-06-06 | 9,689 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

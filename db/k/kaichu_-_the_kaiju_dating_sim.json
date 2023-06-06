@@ -3,9 +3,9 @@
   "Name": "Kaichu - The Kaiju Dating Sim",
   "ProductSlug": "kaichu-the-kaiju-dating-sim-531fb7",
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_Completed": 12,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-09-07T14:00:00+00:00",
     "PcReleaseDate": "2022-09-07T14:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 30,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 13.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:13.8187686+00:00",
@@ -82,6 +82,11 @@
       "Time": "2023-05-27T23:05:09.6891749+00:00",
       "NumProgressed": 30,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-06T13:15:23.8095164+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -115,9 +120,9 @@
       "ID": "FRIENDZONED",
       "SetID": "dhjj31a",
       "Name": "Friendzoned",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LONG_DISTANCE_RELATIONSHIP",
@@ -131,9 +136,9 @@
       "ID": "LOVED_AND_LOST",
       "SetID": "dhjj31a",
       "Name": "Loved and Lost",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LOVE_IS_IN_BLOOM",
@@ -213,15 +218,15 @@
       "ID": "dhjj31a",
       "IsBase": true,
       "Progressed": 30,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-01-14T19:57:38.3223462+00:00",
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-06-06T12:06:17.1456414+00:00",
+  "LastChanged_Achievements": "2023-06-06T13:15:23.8095157+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.7022691+00:00",
-  "LastUpdate_Ratings": "2023-06-06T11:58:03.9995546+00:00",
-  "LastUpdate_Achievements": "2023-06-06T12:06:17.1456508+00:00"
+  "LastUpdate_Ratings": "2023-06-06T13:06:56.2446782+00:00",
+  "LastUpdate_Achievements": "2023-06-06T13:15:23.8095272+00:00"
 }

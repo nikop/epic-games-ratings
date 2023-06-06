@@ -8,20 +8,20 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~678 |
 | Project Arena | 3.00% | ~509 |
-| The Old Grandmaster | 1.00% | ~7,076 |
-| The Assault | 1.00% | ~7,076 |
-| The Hateful Pole Fighter | 1.00% | ~7,076 |
-| A Lady's Blood in the Snow | 1.00% | ~7,076 |
-| Lady Wing Chun | 1.00% | ~7,076 |
-| Kill Nil | 1.00% | ~7,076 |
-| Street Fighting | 1.00% | ~7,076 |
-| Life is your teacher | 1.00% | ~7,076 |
-| State of constant learning | 1.00% | ~7,076 |
-| Qi Gong: Breath | 1.00% | ~7,076 |
-| Qi Gong: Essence | 1.00% | ~7,076 |
-| Lightning Hands | 1.00% | ~7,076 |
-| Path of the Prospect | 1.00% | ~7,076 |
-| Rumble in the Hangar | 1.00% | ~7,076 |
+| The Old Grandmaster | 1.00% | ~7,077 |
+| The Assault | 1.00% | ~7,077 |
+| The Hateful Pole Fighter | 1.00% | ~7,077 |
+| A Lady's Blood in the Snow | 1.00% | ~7,077 |
+| Lady Wing Chun | 1.00% | ~7,077 |
+| Kill Nil | 1.00% | ~7,077 |
+| Street Fighting | 1.00% | ~7,077 |
+| Life is your teacher | 1.00% | ~7,077 |
+| State of constant learning | 1.00% | ~7,077 |
+| Qi Gong: Breath | 1.00% | ~7,077 |
+| Qi Gong: Essence | 1.00% | ~7,077 |
+| Lightning Hands | 1.00% | ~7,077 |
+| Path of the Prospect | 1.00% | ~7,077 |
+| Rumble in the Hangar | 1.00% | ~7,077 |
 | Bloody Sport | 1.00% | ~170 |
 | The best strikes are the ones we avoid | 1.00% | ~170 |
 | Furious Fists | 0.90% | ~6,369 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,650 (Ranked 16)  
+Progressed: 707,659 (Ranked 16)  
 Completed: 12,760 (1.80%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 12,760 (1.80%) (Ranked 69)
 | 2023-06-03 | 707,194 | 12,754 |
 | 2023-06-04 | 707,419 | 12,757 |
 | 2023-06-05 | 707,566 | 12,758 |
-| 2023-06-06 | 707,650 | 12,760 |
+| 2023-06-06 | 707,659 | 12,760 |
 ## Awards
 Max (Great Boss Battles): 6,137  (Ranked 53)  
 Sum: 10,472 (Ranked 78)  

@@ -4452,9 +4452,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 707650,
+  "EOS_Progressed": 707659,
   "EOS_Completed": 12760,
-  "EOS_NewPlayers": 1325,
+  "EOS_NewPlayers": 1323,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8752,6 +8752,11 @@
       "Time": "2023-06-06T12:06:46.5784283+00:00",
       "NumProgressed": 707650,
       "NumCompleted": 12760
+    },
+    {
+      "Time": "2023-06-06T13:15:57.8048761+00:00",
+      "NumProgressed": 707659,
+      "NumCompleted": 12760
     }
   ],
   "TotalAchievements": 50,
@@ -8763,7 +8768,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "02_Vengeance_H1",
@@ -8771,7 +8776,7 @@
       "Name": "The Assault",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "03_Vengeance_H2",
@@ -8779,7 +8784,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "04_Vengeance_H3",
@@ -8787,7 +8792,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "05_Vengeance_H4",
@@ -8795,7 +8800,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "06_Vengeance_H5",
@@ -8867,7 +8872,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "15_Detective_H1",
@@ -8931,7 +8936,7 @@
       "Name": "Street Fighting",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -8939,7 +8944,7 @@
       "Name": "Life is your teacher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -8947,7 +8952,7 @@
       "Name": "State of constant learning",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "25_ShrineMind",
@@ -8963,7 +8968,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "27_ShrineBody",
@@ -8971,7 +8976,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -9027,7 +9032,7 @@
       "Name": "Lightning Hands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "35_WideStrike",
@@ -9043,7 +9048,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -9051,7 +9056,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -9162,21 +9167,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 16951,
-      "Completed": 10230
+      "Progressed": 16960,
+      "Completed": 10231
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707650,
+      "Progressed": 707659,
       "Completed": 12760
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-06T09:59:16.874546+00:00",
-  "LastChanged_Achievements": "2023-06-06T12:06:46.5784279+00:00",
+  "LastChanged_Achievements": "2023-06-06T13:15:57.8048752+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-06T11:59:25.9716661+00:00",
-  "LastUpdate_Achievements": "2023-06-06T12:06:46.5785009+00:00"
+  "LastUpdate_Ratings": "2023-06-06T13:08:31.6170229+00:00",
+  "LastUpdate_Achievements": "2023-06-06T13:15:57.8049586+00:00"
 }

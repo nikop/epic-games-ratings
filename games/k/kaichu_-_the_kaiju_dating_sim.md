@@ -9,7 +9,7 @@
 | Loving Commute | 63.00% | ~19 |
 | Love is in Bloom | 43.00% | ~13 |
 | Royal Romance | 43.00% | ~13 |
-| Friendzoned | 33.00% | ~10 |
+| Friendzoned | 37.00% | ~11 |
 | Love is in the Air | 27.00% | ~8 |
 | Speed Dating | 27.00% | ~8 |
 | Spread the Love | 27.00% | ~8 |
@@ -18,10 +18,10 @@
 | Out of Your Shell | 20.00% | ~6 |
 | Long Distance Relationship | 17.00% | ~5 |
 | Polyamorousasaurus | 17.00% | ~5 |
-| Loved and Lost | 10.00% | ~3 |
+| Loved and Lost | 13.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 30 (Ranked 325)  
-Completed: 3 (10.00%) (Ranked 16)  
+Completed: 4 (13.33%) (Ranked 12)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -33,6 +33,7 @@ Completed: 3 (10.00%) (Ranked 16)
 | 2023-05-25 | 27 | 3 |
 | 2023-05-26 | 28 | 3 |
 | 2023-05-27 | 30 | 3 |
+| 2023-06-06 | 30 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

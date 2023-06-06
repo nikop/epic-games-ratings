@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Wraith | 61.00% | ~248 |
-| Collectibles Part 1 | 50.00% | ~203 |
-| Welcome to Mordor! | 50.00% | ~203 |
+| Collectibles Part 1 | 50.00% | ~204 |
+| Welcome to Mordor! | 50.00% | ~204 |
 | Wait! Wait! Not yet! | 35.00% | ~142 |
-| Like Flying... | 32.00% | ~130 |
+| Like Flying... | 31.00% | ~126 |
 | Memories | 28.00% | ~114 |
 | The Maggot | 26.00% | ~106 |
 | The Breeder | 21.00% | ~85 |
@@ -41,7 +41,7 @@
 | River Hobbit | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406 (Ranked 207)  
+Progressed: 407 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,4 +61,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 394 | 0 |
 | 2023-06-04 | 398 | 0 |
 | 2023-06-05 | 403 | 0 |
-| 2023-06-06 | 406 | 0 |
+| 2023-06-06 | 407 | 0 |

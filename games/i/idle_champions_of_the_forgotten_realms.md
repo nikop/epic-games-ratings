@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 1.00% | ~899 |
 | The Mad Wizard | 0.90% | ~809 |
 | The Court of Storms | 0.90% | ~506 |
-| Beast Intentions | 0.80% | ~719 |
+| Beast Intentions | 0.80% | ~720 |
 | The Ring of Regeneration | 0.70% | ~630 |
 | Beware the Jabberwock | 0.70% | ~393 |
 | Are Ya Chicken? | 0.60% | ~540 |
@@ -29,6 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.40% | ~360 |
 | The Crumbling Temple | 0.40% | ~360 |
 | Exploring Port Nyanzaru | 0.40% | ~360 |
+| The Contagious Curse | 0.40% | ~360 |
 | Pure Energy | 0.40% | ~360 |
 | Maddening | 0.30% | ~270 |
 | Keep Your Distance | 0.30% | ~169 |
@@ -45,7 +46,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.30% | ~270 |
 | Useless Allies | 0.30% | ~270 |
 | Running of the Saurs | 0.30% | ~270 |
-| The Contagious Curse | 0.30% | ~270 |
 | Bad Odds in Avernus | 0.30% | ~169 |
 | An Even Worse Time in Avernus | 0.30% | ~169 |
 | Escort to Waterdeep | 0.30% | ~270 |
@@ -103,6 +103,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Bitter End | 0.20% | ~112 |
 | The Palace of Heart's Desire | 0.20% | ~112 |
 | Anchors Aweigh | 0.20% | ~112 |
+| Welcome to the Band | 0.20% | ~112 |
 | The Forbidden City | 0.20% | ~180 |
 | Periodic Petrification | 0.20% | ~180 |
 | Captured! | 0.20% | ~180 |
@@ -190,6 +191,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Bleeding Citadel | 0.20% | ~112 |
 | Witty Riposting | 0.20% | ~112 |
 | How Far Away is Thay | 0.20% | ~112 |
+| The Archaeologist and the Sailor | 0.20% | ~112 |
 | The Haunted Jungle | 0.20% | ~180 |
 | Starving in the Jungle | 0.10% | ~90 |
 | Cold as Ice | 0.10% | ~56 |
@@ -263,7 +265,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Play's the Thing! | 0.10% | ~56 |
 | A Nimble Approach | 0.10% | ~56 |
 | The Egg of Nat's Desire | 0.10% | ~56 |
-| Welcome to the Band | 0.10% | ~56 |
 | No Good at All | 0.10% | ~90 |
 | Fall From Grace | 0.10% | ~90 |
 | Double Vision | 0.10% | ~90 |
@@ -496,11 +497,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Icewind Dale Reunion | 0.10% | ~56 |
 | The Netherese Necropolis | 0.10% | ~56 |
 | Ineffectual Intellectuals | 0.10% | ~56 |
-| The Archaeologist and the Sailor | 0.10% | ~56 |
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,931 (Ranked 62)  
+Progressed: 89,939 (Ranked 62)  
 Completed: 1,918 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,7 +547,7 @@ Completed: 1,918 (2.13%) (Ranked 65)
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
-| 2023-06-06 | 89,931 | 1,918 |
+| 2023-06-06 | 89,939 | 1,918 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,043 (Ranked 37)  

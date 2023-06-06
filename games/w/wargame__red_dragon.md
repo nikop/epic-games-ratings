@@ -5,7 +5,7 @@ Rating: 4.69 (Ranked 218)
 Number of Ratings: 2,918  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 885  (Ranked 143)  
-Sum: 7,307 (Ranked 101)  
+Sum: 7,309 (Ranked 101)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 42
 | This game has Realistic Visuals | 782 |
 | This game has Amazing Storytelling | 778 |
 | This game has a Competitive Community | 684 |
-| This game has Amazing Characters | 656 |
+| This game has Amazing Characters | 658 |
 | This game has Obsessive Gameplay | 562 |
 | This game is Relaxing | 181 |
 ## Ratings History
@@ -156,4 +156,4 @@ Diff (max vs sum): 42
 | 2023-06-03 | 4.69 | - | 885 | 7,300 |
 | 2023-06-04 | 4.69 | - | 885 | 7,302 |
 | 2023-06-05 | 4.69 | - | 885 | 7,305 |
-| 2023-06-06 | 4.69 | - | 885 | 7,307 |
+| 2023-06-06 | 4.69 | - | 885 | 7,309 |

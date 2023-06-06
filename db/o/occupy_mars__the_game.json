@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1135,
+  "EOS_Progressed": 1136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1555,6 +1555,11 @@
       "Time": "2023-06-06T12:04:21.3856574+00:00",
       "NumProgressed": 1135,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T13:13:09.1249078+00:00",
+      "NumProgressed": 1136,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1684,9 +1689,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 364
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1758,7 +1763,7 @@
       "Name": "Gardener",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -1814,7 +1819,7 @@
       "Name": "Miner",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -1822,7 +1827,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -1949,7 +1954,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1135,
+      "Progressed": 1136,
       "Completed": 0
     }
   ],
@@ -1957,8 +1962,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-05T18:57:24.3437031+00:00",
-  "LastChanged_Achievements": "2023-06-06T12:04:21.3856568+00:00",
+  "LastChanged_Achievements": "2023-06-06T13:13:09.1249071+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-06T11:57:41.063637+00:00",
-  "LastUpdate_Achievements": "2023-06-06T12:04:21.3857074+00:00"
+  "LastUpdate_Ratings": "2023-06-06T13:06:30.1674557+00:00",
+  "LastUpdate_Achievements": "2023-06-06T13:13:09.1249584+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -66,7 +66,7 @@
   "Tags": [],
   "EOS_Progressed": 1037,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1376,9 +1376,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 207
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -1608,17 +1608,17 @@
       "ID": "HOLD_THE_LINE",
       "SetID": "9a4jnji",
       "Name": "Hold The Line",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 176
     },
     {
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 612
     },
     {
       "ID": "INFILTRATOR",
@@ -1785,8 +1785,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-06T12:03:30.0816172+00:00",
+  "LastChanged_Achievements": "2023-06-06T13:12:11.2320004+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-06T11:58:39.0663203+00:00",
-  "LastUpdate_Achievements": "2023-06-06T12:03:30.0816716+00:00"
+  "LastUpdate_Ratings": "2023-06-06T13:07:37.8361635+00:00",
+  "LastUpdate_Achievements": "2023-06-06T13:12:11.2320854+00:00"
 }

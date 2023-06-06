@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adventure Time | 94.00% | ~29 |
+| Adventure Time | 97.00% | ~30 |
 | Master Of The Arts | 71.00% | ~22 |
 | Close Call | 26.00% | ~8 |
 | Getting Good At This | 13.00% | ~4 |

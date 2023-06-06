@@ -5,32 +5,32 @@ Rating: 4.45 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 27.00% | ~626 |
-| Confirming Suspicions | 22.00% | ~510 |
-| The Kraken Wakes | 17.00% | ~394 |
+| Meeting Resistance | 27.00% | ~627 |
+| Confirming Suspicions | 22.00% | ~511 |
+| The Kraken Wakes | 17.00% | ~395 |
 | It's Starting to Crack | 15.00% | ~348 |
-| Lord of War | 13.00% | ~301 |
-| Change the Channel | 13.00% | ~301 |
-| Resourceful | 12.00% | ~278 |
-| Taking it back | 10.00% | ~232 |
+| Lord of War | 13.00% | ~302 |
+| Change the Channel | 13.00% | ~302 |
+| Resourceful | 12.00% | ~279 |
+| Taking it back | 11.00% | ~255 |
 | Organ Grinder | 9.00% | ~209 |
 | As Quiet as a Mouse | 9.00% | ~209 |
 | Target America | 9.00% | ~209 |
 | Just a Flesh Wound | 8.00% | ~186 |
 | Explosive Efficiency | 8.00% | ~186 |
-| Liberté | 7.00% | ~162 |
-| Enemy at the Gates | 7.00% | ~162 |
-| Gunslinger | 7.00% | ~162 |
-| Sharpshooter | 7.00% | ~162 |
-| The Kraken Sleeps | 7.00% | ~162 |
+| Liberté | 7.00% | ~163 |
+| Enemy at the Gates | 7.00% | ~163 |
+| Gunslinger | 7.00% | ~163 |
+| Sharpshooter | 7.00% | ~163 |
+| The Kraken Sleeps | 7.00% | ~163 |
 | Opposing Force | 6.00% | ~139 |
 | Die Nussknacker Sweet! | 6.00% | ~139 |
 | Der Geist | 6.00% | ~139 |
+| Snake in the Grass | 6.00% | ~139 |
 | Climbing the Ladder | 5.00% | ~116 |
 | Fields of Glory | 5.00% | ~116 |
 | Skirmisher | 5.00% | ~116 |
 | Close Quarters | 5.00% | ~116 |
-| Snake in the Grass | 5.00% | ~116 |
 | Brains of the Operation | 5.00% | ~116 |
 | No Stone Unturned | 4.00% | ~93 |
 | Set Europe Ablaze | 4.00% | ~93 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 616)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,319 (Ranked 147)  
+Progressed: 2,322 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-03 | 2,182 | 2 |
 | 2023-06-04 | 2,257 | 2 |
 | 2023-06-05 | 2,307 | 2 |
-| 2023-06-06 | 2,319 | 2 |
+| 2023-06-06 | 2,322 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

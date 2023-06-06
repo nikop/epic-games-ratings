@@ -9,7 +9,7 @@ Rating: 4.35 (Ranked 726)
 | Ranidaphobia | 75.00% | ~778 |
 | Aspiring Editor | 72.00% | ~747 |
 | Gun for Hire | 67.00% | ~695 |
-| I am the law! | 58.00% | ~601 |
+| I am the law! | 59.00% | ~612 |
 | Lumberjack | 44.00% | ~456 |
 | Croaked | 39.00% | ~404 |
 | Limp Richard | 38.00% | ~394 |
@@ -22,14 +22,14 @@ Rating: 4.35 (Ranked 726)
 | The meaning of Kain | 29.00% | ~301 |
 | Technophobe | 26.00% | ~270 |
 | Recycler | 24.00% | ~249 |
-| Are you not entertained? | 19.00% | ~197 |
+| Are you not entertained? | 20.00% | ~207 |
 | Ganglord | 19.00% | ~197 |
 | Jarhead | 19.00% | ~197 |
 | Chain Killer | 18.00% | ~187 |
 | Infiltrator | 18.00% | ~187 |
 | Pushing Daisy | 18.00% | ~187 |
+| Hold The Line | 17.00% | ~176 |
 | There Can Be Only One! | 17.00% | ~176 |
-| Hold The Line | 16.00% | ~166 |
 | Experienced | 15.00% | ~156 |
 | Newtonian Knockout | 13.00% | ~135 |
 | Endgame | 12.00% | ~124 |

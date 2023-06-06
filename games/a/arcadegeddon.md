@@ -6,19 +6,19 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,419 |
+| Let's Get This Party Started | 91.00% | ~6,420 |
 | Photogenic | 88.00% | ~6,208 |
-| Surge Gauntlet Jockey | 85.00% | ~5,996 |
-| Plug It In | 84.00% | ~5,925 |
-| Adventure Time | 80.00% | ~5,643 |
+| Surge Gauntlet Jockey | 85.00% | ~5,997 |
+| Plug It In | 84.00% | ~5,926 |
+| Adventure Time | 80.00% | ~5,644 |
 | Playing With Power | 77.00% | ~5,432 |
 | Coup d'Etat | 59.00% | ~4,162 |
-| You're Fired | 58.00% | ~4,091 |
-| Get Furious | 56.00% | ~3,950 |
+| You're Fired | 58.00% | ~4,092 |
+| Get Furious | 56.00% | ~3,951 |
 | Gunplay And Cosplay | 55.00% | ~3,880 |
-| Hacks In Stacks | 54.00% | ~3,809 |
+| Hacks In Stacks | 54.00% | ~3,810 |
 | Meching Enemies | 48.00% | ~3,386 |
-| Ticket Toddler | 45.00% | ~3,174 |
+| Ticket Toddler | 45.00% | ~3,175 |
 | Booty Bashing | 44.00% | ~3,104 |
 | Here Comes a New Challenger | 38.00% | ~2,681 |
 | Field Medic | 37.00% | ~2,610 |
@@ -32,8 +32,8 @@ Number of Ratings: 801  (23.09.2022)
 | Boss of Bosses | 15.00% | ~1,058 |
 | The Final Blow | 14.00% | ~988 |
 | Light My Fire | 13.00% | ~917 |
-| Seasoned Adventurer | 12.00% | ~846 |
-| To Be Continued | 12.00% | ~846 |
+| Seasoned Adventurer | 12.00% | ~847 |
+| To Be Continued | 12.00% | ~847 |
 | 1.21 Gigawatts | 11.00% | ~776 |
 | This Is My Boomstick! | 11.00% | ~776 |
 | Get In The Ring! | 9.00% | ~635 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~35 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,054 (Ranked 116)  
+Progressed: 7,055 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 6,984 | 0 |
 | 2023-06-04 | 7,023 | 0 |
 | 2023-06-05 | 7,039 | 0 |
-| 2023-06-06 | 7,054 | 0 |
+| 2023-06-06 | 7,055 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 376)  
 Sum: 485 (Ranked 293)  
