@@ -6,10 +6,10 @@ Rating: 4.18 (Ranked 840)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 12.00% | ~1,750 |
-| The Outer Way | 10.00% | ~1,458 |
+| The Outer Way | 11.00% | ~1,604 |
 | Desperate Times | 10.00% | ~1,458 |
-| Chew 'Em Up | 8.00% | ~1,166 |
-| Paper Jams | 8.00% | ~1,166 |
+| Paper Jams | 9.00% | ~1,313 |
+| Chew 'Em Up | 8.00% | ~1,167 |
 | Workplace Hazard | 7.00% | ~1,021 |
 | Reforged | 7.00% | ~1,021 |
 | If the SHU Fits... | 7.00% | ~1,021 |
@@ -22,12 +22,12 @@ Rating: 4.18 (Ranked 840)
 | Crash Site | 4.00% | ~583 |
 | Instigator | 4.00% | ~100 |
 | Big Game Hunter | 4.00% | ~100 |
-| You Need a Gun | 3.00% | ~437 |
-| Two Heads Are Better Than One | 3.00% | ~437 |
-| The Commonality | 3.00% | ~437 |
-| What Lies Beneath | 3.00% | ~437 |
-| Full Circle | 3.00% | ~437 |
-| Power Up | 3.00% | ~437 |
+| You Need a Gun | 3.00% | ~438 |
+| Two Heads Are Better Than One | 3.00% | ~438 |
+| The Commonality | 3.00% | ~438 |
+| What Lies Beneath | 3.00% | ~438 |
+| Full Circle | 3.00% | ~438 |
+| Power Up | 3.00% | ~438 |
 | Bear Trap | 3.00% | ~75 |
 | I Do Belong Here | 2.00% | ~292 |
 | In Striking Distance | 2.00% | ~292 |
@@ -37,7 +37,7 @@ Rating: 4.18 (Ranked 840)
 | Hoard Mode | 1.00% | ~25 |
 | Recidivist | 0.70% | ~18 |
 | Lifer | 0.70% | ~18 |
-| Grim Reaper | 0.60% | ~87 |
+| Grim Reaper | 0.60% | ~88 |
 | Armed to the Teeth | 0.20% | ~5 |
 | The Protocol is About Life | 0.20% | ~29 |
 | It's over, Jacob! | 0.10% | ~15 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,580 (Ranked 103)  
+Progressed: 14,584 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 54 (0.37%) (Ranked 119)
 | 2023-06-03 | 14,412 | 53 |
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
-| 2023-06-06 | 14,580 | 54 |
+| 2023-06-06 | 14,584 | 54 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 287 (Ranked 329)  

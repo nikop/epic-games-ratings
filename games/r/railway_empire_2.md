@@ -50,8 +50,8 @@
 | A new Hope | 4.00% | ~37 |
 | Unstoppable | 2.00% | ~18 |
 | Track to the Future | 2.00% | ~18 |
+| Let off some steam | 2.00% | ~18 |
 | Conductor | 1.00% | ~9 |
-| Let off some steam | 1.00% | ~9 |
 | Accurate | 1.00% | ~9 |
 | Engineer | 0.10% | ~1 |
 | European Union | 0.10% | ~1 |

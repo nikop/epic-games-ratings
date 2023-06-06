@@ -241,6 +241,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gate to Victory | 0.40% | ~47 |
 | Pharaoh | 0.40% | ~47 |
 | Before the Mongol Horde | 0.30% | ~35 |
+| Epic Victory (Carthage 3) | 0.30% | ~35 |
 | Gold Victory (Carthage 4) | 0.30% | ~35 |
 | White Death | 0.30% | ~35 |
 | Elephant in Elephantine | 0.30% | ~35 |
@@ -257,7 +258,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the who? | 0.20% | ~24 |
 | Alliance Victory | 0.20% | ~24 |
 | Hagia Sophia in Byzantion | 0.20% | ~24 |
-| Epic Victory (Carthage 3) | 0.20% | ~24 |
 | Liberator | 0.20% | ~24 |
 | Restorer | 0.20% | ~24 |
 | Via Recta Souk in Damascus | 0.20% | ~24 |

@@ -1457,7 +1457,7 @@
   ],
   "EOS_Progressed": 11769,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5052,9 +5052,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_3_EPIC",
       "SetID": "9201eeb",
       "Name": "Epic Victory (Carthage 3)",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3_GOLD",
@@ -7098,8 +7098,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-06-03T16:58:10.4485458+00:00",
-  "LastChanged_Achievements": "2023-06-06T00:06:28.8231356+00:00",
+  "LastChanged_Achievements": "2023-06-06T02:28:30.9819066+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:05.1771946+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:57:51.123072+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:06:28.8239829+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:20:18.5964797+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:28:30.9828366+00:00"
 }

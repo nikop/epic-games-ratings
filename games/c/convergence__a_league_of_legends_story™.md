@@ -4,61 +4,61 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Trove | 0.20% | ~1 |
-| Cartographer | 0.20% | ~1 |
+| Treasure Trove | 0.80% | ~5 |
+| Cartographer | 0.80% | ~5 |
+| Fast Learner | 0.50% | ~3 |
+| Immaculate Aim | 0.50% | ~3 |
+| Family Memories | 0.30% | ~2 |
+| The Mysterious Stranger | 0.30% | ~2 |
+| Rail Rat | 0.30% | ~2 |
+| Make Up For Lost Time | 0.30% | ~2 |
+| Time Flies | 0.30% | ~2 |
+| Breaking Down Barriers | 0.30% | ~2 |
+| The Prince in Heels | 0.30% | ~2 |
+| Time Heals All Wounds | 0.30% | ~2 |
+| Immaculate Aim | 0.30% | ~2 |
+| The Brass Boss | 0.30% | ~2 |
+| Right On Time | 0.20% | ~1 |
+| Corin Goes Home | 0.20% | ~1 |
+| Like Clockwork | 0.20% | ~1 |
+| Sartorialist | 0.20% | ~1 |
+| Fairgrounds Explorer | 0.20% | ~1 |
+| The Man Who Shattered Time | 0.20% | ~1 |
+| The Harder They Fall | 0.20% | ~1 |
+| No, Thanks! | 0.20% | ~1 |
+| Honest Mistake | 0.20% | ~1 |
 | Golem Hunter | 0.20% | ~1 |
 | Golem Chaser | 0.20% | ~1 |
-| Immaculate Aim | 0.20% | ~1 |
+| Sump Explorer | 0.20% | ~1 |
+| Syron for Hope | 0.20% | ~1 |
+| Ask Questions Later | 0.20% | ~1 |
+| Good Neighbor | 0.20% | ~1 |
+| The Family Fortune | 0.20% | ~1 |
 | Thinking Two Steps Ahead | 0.00% | ~0 |
 | The Steel Shadow | 0.00% | ~0 |
 | Chaincrawler Explorer | 0.00% | ~0 |
-| Right On Time | 0.00% | ~0 |
-| Corin Goes Home | 0.00% | ~0 |
-| Like Clockwork | 0.00% | ~0 |
 | Clovemary for Remembering | 0.00% | ~0 |
-| Sartorialist | 0.00% | ~0 |
 | Street Style | 0.00% | ~0 |
 | Cultivair Explorer | 0.00% | ~0 |
 | Entresol Explorer | 0.00% | ~0 |
-| Family Memories | 0.00% | ~0 |
 | Factorywood Explorer | 0.00% | ~0 |
-| Fairgrounds Explorer | 0.00% | ~0 |
-| The Mysterious Stranger | 0.00% | ~0 |
 | The Betrayer | 0.00% | ~0 |
-| The Man Who Shattered Time | 0.00% | ~0 |
 | Wunderkind | 0.00% | ~0 |
 | Whiz Kid | 0.00% | ~0 |
-| Rail Rat | 0.00% | ~0 |
 | Hexlock for Protection | 0.00% | ~0 |
 | Fitting In | 0.00% | ~0 |
 | The Loose Cannon | 0.00% | ~0 |
-| Make Up For Lost Time | 0.00% | ~0 |
 | Wildlife Protection | 0.00% | ~0 |
 | Going to Live Forever | 0.00% | ~0 |
 | Raw Talent | 0.00% | ~0 |
 | A Lesson in Precision | 0.00% | ~0 |
-| Time Flies | 0.00% | ~0 |
-| The Harder They Fall | 0.00% | ~0 |
-| No, Thanks! | 0.00% | ~0 |
-| Breaking Down Barriers | 0.00% | ~0 |
 | The Wicked Twins | 0.00% | ~0 |
-| The Prince in Heels | 0.00% | ~0 |
-| Time Heals All Wounds | 0.00% | ~0 |
-| Honest Mistake | 0.00% | ~0 |
 | Rungs Was Right | 0.00% | ~0 |
-| Fast Learner | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
-| Sump Explorer | 0.00% | ~0 |
-| Syron for Hope | 0.00% | ~0 |
 | Check Your Pulse | 0.00% | ~0 |
 | Theater Explorer | 0.00% | ~0 |
-| Immaculate Aim | 0.00% | ~0 |
-| Ask Questions Later | 0.00% | ~0 |
-| Good Neighbor | 0.00% | ~0 |
-| The Brass Boss | 0.00% | ~0 |
-| The Family Fortune | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 608 (Ranked 195)  
+Progressed: 609 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,3 +77,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 586 | 0 |
 | 2023-06-04 | 602 | 0 |
 | 2023-06-05 | 608 | 0 |
+| 2023-06-06 | 609 | 0 |

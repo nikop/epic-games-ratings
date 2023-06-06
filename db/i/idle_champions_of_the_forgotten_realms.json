@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 885,
+  "Ranking_Rating": 886,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
@@ -4070,11 +4070,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 30035,
       "NumberOfAwardsMax": 4917
+    },
+    {
+      "Time": "2023-06-06T02:20:25.5795693+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30042,
+      "NumberOfAwardsMax": 4920
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30035,
-  "NumberOfAwardsMax": 4917,
+  "NumberOfAwards": 30042,
+  "NumberOfAwardsMax": 4920,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4087,7 +4093,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4917
+      "Count": 4920
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4099,7 +4105,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4506
+      "Count": 4509
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4111,7 +4117,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3949
+      "Count": 3950
     },
     {
       "Text": "This game has Playful Visuals",
@@ -4120,10 +4126,10 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89894,
+  "EOS_Progressed": 89902,
   "EOS_Completed": 1917,
-  "EOS_NewPlayers": 728,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 727,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8815,6 +8821,11 @@
       "Time": "2023-06-06T00:06:30.3619562+00:00",
       "NumProgressed": 89894,
       "NumCompleted": 1917
+    },
+    {
+      "Time": "2023-06-06T02:28:32.5743932+00:00",
+      "NumProgressed": 89902,
+      "NumCompleted": 1917
     }
   ],
   "TotalAchievements": 493,
@@ -9520,9 +9531,9 @@
       "ID": "objective_completed_1165",
       "SetID": "415jc5c",
       "Name": "A Demi-god\u0027s Defender",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1168",
@@ -9690,7 +9701,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_1203",
@@ -10618,7 +10629,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_390",
@@ -10962,7 +10973,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_54",
@@ -12042,7 +12053,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_80",
@@ -12769,21 +12780,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56168,
+      "Progressed": 56176,
       "Completed": 2773
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89894,
+      "Progressed": 89902,
       "Completed": 1917
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-05T13:07:15.1307776+00:00",
-  "LastChanged_Achievements": "2023-06-06T00:06:30.3619557+00:00",
+  "LastChanged": "2023-06-06T02:20:25.579569+00:00",
+  "LastChanged_Achievements": "2023-06-06T02:28:32.5743927+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:58:00.6390917+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:06:30.3647281+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:20:25.5795697+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:28:32.5771914+00:00"
 }

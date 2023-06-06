@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 54.00% | ~21 |
+| Aspairagus | 53.00% | ~21 |
+| Seeds of War | 46.00% | ~41 |
 | Survivor | 46.00% | ~18 |
-| Seeds of War | 45.00% | ~40 |
-| First Blood | 36.00% | ~32 |
+| First Blood | 37.00% | ~33 |
 | Early Survivor | 36.00% | ~14 |
-| No Diggity | 35.00% | ~14 |
-| Triple Kill | 28.00% | ~25 |
+| No Diggity | 36.00% | ~14 |
+| Triple Kill | 30.00% | ~27 |
 | Cornivore | 28.00% | ~25 |
 | No Asperascope | 27.00% | ~24 |
 | Amateur Survivor | 27.00% | ~11 |
 | I Believe I Can Fly | 26.00% | ~23 |
-| Bouncemato | 25.00% | ~10 |
-| This Is My Boomstick | 21.00% | ~8 |
+| Bouncemato | 24.00% | ~10 |
+| This Is My Boomstick | 22.00% | ~9 |
 | Quick-Draw Pod | 20.00% | ~8 |
 | Grave Digger | 18.00% | ~7 |
 | 15K | 17.00% | ~15 |
@@ -36,10 +36,10 @@
 | Bring Home The Bacon | 4.00% | ~4 |
 | Carrocketeer | 4.00% | ~4 |
 | Chick Magnet | 3.00% | ~3 |
+| Fresh Pancake | 3.00% | ~3 |
 | Getting Started | 3.00% | ~3 |
 | Pork Chop Express | 3.00% | ~3 |
 | Easy Peasy | 3.00% | ~1 |
-| Fresh Pancake | 2.00% | ~2 |
 | King of the Crow | 2.00% | ~1 |
 | Heart Breaker | 2.00% | ~1 |
 | Tomassacred | 2.00% | ~1 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 281)  
+Progressed: 90 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 81 | 0 |
 | 2023-06-04 | 87 | 0 |
 | 2023-06-05 | 89 | 0 |
+| 2023-06-06 | 90 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

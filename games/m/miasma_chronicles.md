@@ -15,17 +15,17 @@ Rating: 4.35 (Ranked 726)
 | Limp Richard | 38.00% | ~393 |
 | From Darkness to Light | 38.00% | ~393 |
 | Exorcist | 36.00% | ~373 |
+| Firestarter | 36.00% | ~373 |
 | Editor Adept | 35.00% | ~362 |
-| Firestarter | 35.00% | ~362 |
 | Giant Killer | 32.00% | ~331 |
 | Sensei | 31.00% | ~321 |
 | The meaning of Kain | 29.00% | ~300 |
-| Technophobe | 25.00% | ~259 |
+| Technophobe | 26.00% | ~269 |
 | Recycler | 23.00% | ~238 |
 | Are you not entertained? | 19.00% | ~197 |
+| Jarhead | 19.00% | ~197 |
 | Chain Killer | 18.00% | ~186 |
 | Ganglord | 18.00% | ~186 |
-| Jarhead | 18.00% | ~186 |
 | Pushing Daisy | 18.00% | ~186 |
 | Infiltrator | 17.00% | ~176 |
 | There Can Be Only One! | 17.00% | ~176 |

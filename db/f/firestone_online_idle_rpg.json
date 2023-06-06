@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1299,
+  "EOS_Progressed": 1300,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2734,6 +2734,11 @@
       "Time": "2023-06-05T23:07:12.3460274+00:00",
       "NumProgressed": 1299,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T02:28:18.5606756+00:00",
+      "NumProgressed": 1300,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3137,7 +3142,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "prestigiousx10",
@@ -3201,7 +3206,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "thealchemist",
@@ -3305,7 +3310,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "warmachinesarmy",
@@ -3337,14 +3342,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1299,
+      "Progressed": 1300,
       "Completed": 1
     }
   ],
@@ -3352,8 +3357,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-05T10:57:55.1665769+00:00",
-  "LastChanged_Achievements": "2023-06-06T00:06:14.1061943+00:00",
+  "LastChanged_Achievements": "2023-06-06T02:28:18.560675+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:57:58.1030125+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:06:14.1062838+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:20:23.8158284+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:28:18.5607755+00:00"
 }

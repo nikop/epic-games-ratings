@@ -11,7 +11,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Good as New | 72.00% | ~306,542 |
 | Into the Woods | 69.00% | ~293,770 |
 | Hunter in the Forest | 60.00% | ~255,452 |
-| Rot Commander | 59.00% | ~251,194 |
+| Rot Commander | 60.00% | ~255,452 |
 | Taro's Fear | 56.00% | ~238,422 |
 | Between the Eyes | 46.00% | ~195,846 |
 | Taro's Love | 45.00% | ~191,589 |

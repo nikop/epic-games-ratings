@@ -4,7 +4,7 @@
   "ProductSlug": "vampyr",
   "Ranking_Rating": 751,
   "Ranking_Popularity": 178,
-  "Ranking_PopularitySum": 256,
+  "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 324,
@@ -1229,6 +1229,6 @@
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
   "LastChanged": "2023-05-31T16:59:38.8603135+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:00.3845074+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:59:42.8432651+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:05:02.4643512+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:21:44.3323494+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:27:22.1425693+00:00"
 }

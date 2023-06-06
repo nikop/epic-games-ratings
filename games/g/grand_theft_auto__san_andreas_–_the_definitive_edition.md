@@ -5,20 +5,20 @@ Rating: 4.60 (Ranked 385)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~7,720 |
-| Pay 'n' Spray | 48.00% | ~4,632 |
+| Getting Started | 80.00% | ~7,722 |
+| Pay 'n' Spray | 48.00% | ~4,633 |
 | All Dressed Up for San Fierro | 23.00% | ~2,220 |
 | The American Dream | 17.00% | ~1,641 |
 | School's Out | 15.00% | ~1,448 |
 | Smooth Moves | 15.00% | ~1,448 |
-| Today Was a Good Day | 13.00% | ~1,254 |
+| Today Was a Good Day | 13.00% | ~1,255 |
 | What happens in Las Venturas... | 12.00% | ~1,158 |
-| Horror of the Santa Maria | 9.00% | ~868 |
+| Horror of the Santa Maria | 9.00% | ~869 |
 | Liberty City State of Mind | 7.00% | ~676 |
 | With Extra Dip | 6.00% | ~579 |
 | Original Gangster | 6.00% | ~579 |
-| The End of the Line | 5.00% | ~482 |
-| Saviour | 5.00% | ~482 |
+| The End of the Line | 5.00% | ~483 |
+| Saviour | 5.00% | ~483 |
 | Rescue a Kitten Too? | 4.00% | ~386 |
 | They Can’t Stop All of Us | 3.00% | ~290 |
 | What are the Odds | 3.00% | ~290 |
@@ -28,11 +28,11 @@ Rating: 4.60 (Ranked 385)
 | Yes I Speak English | 2.00% | ~193 |
 | Double or Nothin' | 2.00% | ~193 |
 | Public Enemy No. 1 | 2.00% | ~193 |
-| A Legitimate Business | 1.00% | ~96 |
-| Who Needs Directions? | 1.00% | ~96 |
-| Swiss Army Strife | 1.00% | ~96 |
-| Assassin | 1.00% | ~96 |
-| Ain’t Nothing But a G Thing | 1.00% | ~96 |
+| A Legitimate Business | 1.00% | ~97 |
+| Who Needs Directions? | 1.00% | ~97 |
+| Swiss Army Strife | 1.00% | ~97 |
+| Assassin | 1.00% | ~97 |
+| Ain’t Nothing But a G Thing | 1.00% | ~97 |
 | Chick Magnet | 0.90% | ~87 |
 | Lucky Spinner | 0.80% | ~77 |
 | Hoopin' it Up | 0.70% | ~68 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 385)
 | ...Here we go again | 0.20% | ~19 |
 | I Ain't No Buster | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,650 (Ranked 111)  
+Progressed: 9,653 (Ranked 111)  
 Completed: 17 (0.18%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 17 (0.18%) (Ranked 148)
 | 2023-06-03 | 9,408 | 17 |
 | 2023-06-04 | 9,539 | 17 |
 | 2023-06-05 | 9,646 | 17 |
-| 2023-06-06 | 9,650 | 17 |
+| 2023-06-06 | 9,653 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Proving Your Skills | 91.00% | ~114 |
-| Bakery Startup | 42.00% | ~52 |
-| Apprentice Baker | 35.00% | ~44 |
+| Bakery Startup | 43.00% | ~54 |
+| Apprentice Baker | 36.00% | ~45 |
 | The Kitchen Is On Fire | 32.00% | ~40 |
 | Perfect Server | 17.00% | ~21 |
 | Adept Baker | 10.00% | ~12 |
@@ -14,8 +14,8 @@
 | Luxury Kitchen | 10.00% | ~12 |
 | Bustling Store | 10.00% | ~12 |
 | Expert Baker | 9.00% | ~11 |
+| Gotta Go Fast | 8.00% | ~10 |
 | Swing The Broom | 8.00% | ~10 |
-| Gotta Go Fast | 7.00% | ~9 |
 | Master Baker | 6.00% | ~8 |
 | A Loving Home | 6.00% | ~8 |
 | Bakery Business | 5.00% | ~6 |

@@ -6,22 +6,22 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~35,834 |
-| Worth it | 63.00% | ~29,319 |
-| Eagle Eye | 55.00% | ~25,596 |
-| Corpseman I | 40.00% | ~18,615 |
-| Blast fishing | 37.00% | ~17,219 |
-| Not alone | 32.00% | ~14,892 |
-| Headhunter I | 26.00% | ~12,100 |
-| Manual Labour I | 25.00% | ~11,634 |
-| Developers, Developers, Developers | 24.00% | ~11,169 |
-| Basic Training | 24.00% | ~11,169 |
+| Setting an example | 77.00% | ~35,837 |
+| Worth it | 63.00% | ~29,321 |
+| Eagle Eye | 55.00% | ~25,598 |
+| Corpseman I | 40.00% | ~18,616 |
+| Blast fishing | 37.00% | ~17,220 |
+| Not alone | 32.00% | ~14,893 |
+| Headhunter I | 26.00% | ~12,101 |
+| Manual Labour I | 25.00% | ~11,635 |
+| Developers, Developers, Developers | 24.00% | ~11,170 |
+| Basic Training | 24.00% | ~11,170 |
 | Furchtlos und Treu | 13.00% | ~6,050 |
 | Gott Mit Uns | 12.00% | ~5,585 |
-| This We'll Defend! | 9.00% | ~4,188 |
-| Anker wirf! | 9.00% | ~4,188 |
-| Providentiea Memor | 9.00% | ~4,188 |
-| For King and Country | 9.00% | ~4,188 |
+| This We'll Defend! | 9.00% | ~4,189 |
+| Anker wirf! | 9.00% | ~4,189 |
+| Providentiea Memor | 9.00% | ~4,189 |
+| For King and Country | 9.00% | ~4,189 |
 | Battle hardened | 8.00% | ~3,723 |
 | Semper Fidelis! | 7.00% | ~3,258 |
 | Honneur et Patrie | 7.00% | ~3,258 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~47 |
 | Blood Brother | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,538 (Ranked 80)  
+Progressed: 46,541 (Ranked 80)  
 Completed: 3 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,10 +113,10 @@ Completed: 3 (0.01%) (Ranked 201)
 | 2023-06-03 | 46,282 | 3 |
 | 2023-06-04 | 46,432 | 3 |
 | 2023-06-05 | 46,536 | 3 |
-| 2023-06-06 | 46,538 | 3 |
+| 2023-06-06 | 46,541 | 3 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 336)  
-Sum: 739 (Ranked 256)  
+Sum: 740 (Ranked 256)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
@@ -130,7 +130,7 @@ Diff (max vs sum): 80
 | This game has Competitive Players | 69 |
 | This game has Amazing Characters | 66 |
 | This game has Realistic Visuals | 66 |
-| This game has a Competitive Community | 62 |
+| This game has a Competitive Community | 63 |
 | This game has Amazing Storytelling | 57 |
 | This game has Challenging Combat | 55 |
 | This game has Obsessive Gameplay | 46 |
@@ -241,3 +241,4 @@ Diff (max vs sum): 80
 | 2023-05-24 | 4.53 | - | 93 | 737 |
 | 2023-05-28 | 4.53 | - | 93 | 738 |
 | 2023-05-31 | 4.53 | - | 93 | 739 |
+| 2023-06-06 | 4.53 | - | 93 | 740 |

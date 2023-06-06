@@ -5,10 +5,10 @@ Rating: 4.45 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 27.00% | ~623 |
+| Meeting Resistance | 27.00% | ~624 |
 | Confirming Suspicions | 22.00% | ~508 |
-| The Kraken Wakes | 17.00% | ~392 |
-| It's Starting to Crack | 15.00% | ~346 |
+| The Kraken Wakes | 17.00% | ~393 |
+| It's Starting to Crack | 15.00% | ~347 |
 | Lord of War | 13.00% | ~300 |
 | Resourceful | 12.00% | ~277 |
 | Change the Channel | 12.00% | ~277 |
@@ -23,14 +23,14 @@ Rating: 4.45 (Ranked 616)
 | Sharpshooter | 7.00% | ~162 |
 | Explosive Efficiency | 7.00% | ~162 |
 | The Kraken Sleeps | 7.00% | ~162 |
-| Opposing Force | 6.00% | ~138 |
-| Die Nussknacker Sweet! | 6.00% | ~138 |
-| Der Geist | 6.00% | ~138 |
-| Climbing the Ladder | 5.00% | ~115 |
-| Fields of Glory | 5.00% | ~115 |
-| Close Quarters | 5.00% | ~115 |
-| Snake in the Grass | 5.00% | ~115 |
-| Brains of the Operation | 5.00% | ~115 |
+| Opposing Force | 6.00% | ~139 |
+| Die Nussknacker Sweet! | 6.00% | ~139 |
+| Der Geist | 6.00% | ~139 |
+| Climbing the Ladder | 5.00% | ~116 |
+| Fields of Glory | 5.00% | ~116 |
+| Close Quarters | 5.00% | ~116 |
+| Snake in the Grass | 5.00% | ~116 |
+| Brains of the Operation | 5.00% | ~116 |
 | No Stone Unturned | 4.00% | ~92 |
 | Skirmisher | 4.00% | ~92 |
 | Set Europe Ablaze | 4.00% | ~92 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 616)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,308 (Ranked 147)  
+Progressed: 2,311 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 2 (0.09%) (Ranked 169)
 | 2023-06-03 | 2,182 | 2 |
 | 2023-06-04 | 2,257 | 2 |
 | 2023-06-05 | 2,307 | 2 |
-| 2023-06-06 | 2,308 | 2 |
+| 2023-06-06 | 2,311 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

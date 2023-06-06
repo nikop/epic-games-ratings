@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 983,
+  "EOS_Progressed": 984,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -915,6 +915,11 @@
       "Time": "2023-06-05T19:05:50.7132375+00:00",
       "NumProgressed": 983,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T02:28:18.5213435+00:00",
+      "NumProgressed": 984,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -950,7 +955,7 @@
       "Name": "The Big Bertha",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Boy",
@@ -1054,7 +1059,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "High_noon",
@@ -1102,7 +1107,7 @@
       "Name": "One by One",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Miner",
@@ -1165,15 +1170,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 983,
+      "Progressed": 984,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-06T00:06:14.3070175+00:00",
+  "LastChanged_Achievements": "2023-06-06T02:28:18.5213428+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:59:19.0715441+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:06:14.3070434+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:21:25.9272585+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:28:18.5213728+00:00"
 }

@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2806,
+  "EOS_Progressed": 2809,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2189,6 +2189,11 @@
       "Time": "2023-06-06T00:02:36.2810568+00:00",
       "NumProgressed": 2806,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T02:25:32.7850444+00:00",
+      "NumProgressed": 2809,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2208,7 +2213,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "AncestorsPride_13",
@@ -2232,7 +2237,7 @@
       "Name": "Blood and justice",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "CordonBleu_28",
@@ -2240,7 +2245,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "CrowdPleaser",
@@ -2256,7 +2261,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "Eureka_23",
@@ -2264,7 +2269,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2272,7 +2277,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ForAllAurai_8",
@@ -2288,7 +2293,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -2296,7 +2301,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "HomeSweetHome_25",
@@ -2304,7 +2309,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "HouseofCards_19",
@@ -2312,7 +2317,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -2328,7 +2333,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "LightofLevant_18",
@@ -2344,7 +2349,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "MasterofAurai_20",
@@ -2384,7 +2389,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2392,7 +2397,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1770
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2400,7 +2405,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -2424,7 +2429,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2448,7 +2453,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -2480,7 +2485,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -2520,7 +2525,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2079
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2535,15 +2540,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2806,
+      "Progressed": 2809,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-06T00:02:36.2810559+00:00",
+  "LastChanged_Achievements": "2023-06-06T02:25:32.7850438+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:57:42.0565245+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:02:36.2811003+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:20:11.6405125+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:25:32.7851104+00:00"
 }

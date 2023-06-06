@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -319,9 +319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4340,
+  "EOS_Progressed": 4342,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -994,6 +994,11 @@
       "Time": "2023-06-05T20:03:43.4728718+00:00",
       "NumProgressed": 4340,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-06T02:25:34.8233065+00:00",
+      "NumProgressed": 4342,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -1005,7 +1010,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1053,7 +1058,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1061,7 +1066,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4080
+      "UsersEstimate": 4081
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1069,7 +1074,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1077,7 +1082,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -1085,7 +1090,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -1109,7 +1114,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -1133,7 +1138,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -1165,7 +1170,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -1213,7 +1218,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -1221,7 +1226,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3298
+      "UsersEstimate": 3300
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1253,7 +1258,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1269,7 +1274,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -1277,7 +1282,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -1285,7 +1290,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -1341,7 +1346,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -1349,7 +1354,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -1389,7 +1394,7 @@
       "Name": "Carbon Cat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -1540,15 +1545,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4340,
+      "Progressed": 4342,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-06T00:02:38.7385198+00:00",
+  "LastChanged_Achievements": "2023-06-06T02:25:34.8232998+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:09.2823727+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:57:55.6117901+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:02:38.7385953+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:20:22.2399711+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:25:34.8233784+00:00"
 }

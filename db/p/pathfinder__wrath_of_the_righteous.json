@@ -2702,9 +2702,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9569,
+  "EOS_Progressed": 9572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5647,6 +5647,11 @@
       "Time": "2023-06-06T00:06:26.1782608+00:00",
       "NumProgressed": 9569,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T02:28:28.6773451+00:00",
+      "NumProgressed": 9572,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5658,7 +5663,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "02_BurningCity",
@@ -5682,7 +5687,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -6024,9 +6029,9 @@
       "ID": "48_Spark",
       "SetID": "989of5o",
       "Name": "A Spark",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1149
     },
     {
       "ID": "49_Flame",
@@ -6585,21 +6590,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8351,
+      "Progressed": 8354,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9569,
+      "Progressed": 9572,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-05T13:07:33.8762494+00:00",
-  "LastChanged_Achievements": "2023-06-06T00:06:26.1782604+00:00",
+  "LastChanged_Achievements": "2023-06-06T02:28:28.6773446+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:58:19.4032489+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:06:26.1784422+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:20:41.2964801+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:28:28.6775329+00:00"
 }

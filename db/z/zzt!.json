@@ -3,9 +3,9 @@
   "Name": "ZZT!",
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_Completed": 44,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -27,10 +27,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2637,
-  "EOS_Completed": 84,
-  "EOS_NewPlayers": 60,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.19,
+  "EOS_Completed": 85,
+  "EOS_NewPlayers": 59,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -2041,6 +2041,11 @@
       "Time": "2023-06-05T19:05:30.342494+00:00",
       "NumProgressed": 2637,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-06-06T02:27:59.4721201+00:00",
+      "NumProgressed": 2637,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 5,
@@ -2074,9 +2079,9 @@
       "ID": "4",
       "SetID": "dm385hd",
       "Name": "Adventurer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 79
+      "UsersEstimate": 105
     },
     {
       "ID": "5",
@@ -2092,15 +2097,15 @@
       "ID": "dm385hd",
       "IsBase": true,
       "Progressed": 2637,
-      "Completed": 84
+      "Completed": 85
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-06-06T00:05:50.8066167+00:00",
+  "LastChanged_Achievements": "2023-06-06T02:27:59.4721193+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:34.3682553+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:58:19.7519972+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:05:50.806635+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:20:41.6310185+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:27:59.4721425+00:00"
 }

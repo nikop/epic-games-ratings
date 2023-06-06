@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 568,
+  "EOS_Progressed": 569,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
@@ -1248,6 +1248,11 @@
       "Time": "2023-06-05T23:06:53.0915059+00:00",
       "NumProgressed": 568,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T02:28:04.5661697+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1267,7 +1272,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "CHIEF",
@@ -1283,7 +1288,7 @@
       "Name": "CLEANER",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "DEBTOR",
@@ -1299,7 +1304,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "FIRST_100K",
@@ -1323,7 +1328,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "INTRODUCTION",
@@ -1370,7 +1375,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 568,
+      "Progressed": 569,
       "Completed": 0
     }
   ],
@@ -1378,8 +1383,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-06-06T00:05:56.9687246+00:00",
+  "LastChanged_Achievements": "2023-06-06T02:28:04.5661691+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.052301+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:59:30.4410401+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:05:56.9687431+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:21:34.5044689+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:28:04.5661856+00:00"
 }

@@ -5,23 +5,23 @@ Rating: 4.51 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 78.00% | ~1,250 |
-| Become King | 71.00% | ~1,138 |
+| Complete Guard Faction | 78.00% | ~1,251 |
+| Become King | 71.00% | ~1,139 |
 | Defeat 25 Frogs | 60.00% | ~962 |
 | Ranged Weapon | 59.00% | ~946 |
 | Collect Monster Parts | 55.00% | ~882 |
 | Two Handed Weapon | 54.00% | ~866 |
 | Defeat 25 Grubs | 50.00% | ~802 |
 | Rescue Redgi's Brothers | 50.00% | ~802 |
-| Collect Iron Ore | 45.00% | ~721 |
-| Kitchen Ready To Cook | 45.00% | ~721 |
-| Defeat 25 Mozis | 44.00% | ~705 |
-| Collect Gold | 43.00% | ~689 |
-| Smithy Ready to Craft | 43.00% | ~689 |
-| Fix the Travellers Wagon | 42.00% | ~673 |
-| Complete Elder Faction | 39.00% | ~625 |
+| Collect Iron Ore | 45.00% | ~722 |
+| Kitchen Ready To Cook | 45.00% | ~722 |
+| Defeat 25 Mozis | 44.00% | ~706 |
+| Collect Gold | 43.00% | ~690 |
+| Smithy Ready to Craft | 43.00% | ~690 |
+| Fix the Travellers Wagon | 42.00% | ~674 |
+| Complete Elder Faction | 39.00% | ~626 |
+| End of the Mozis | 36.00% | ~577 |
 | Throne Room Fit For A King | 36.00% | ~577 |
-| End of the Mozis | 35.00% | ~561 |
 | Meet the Creatures from the Deep | 33.00% | ~529 |
 | Return Power To The Depths | 33.00% | ~529 |
 | Defeat Ratnor Rodentson | 28.00% | ~449 |
@@ -31,12 +31,12 @@ Rating: 4.51 (Ranked 529)
 | Complete Ranger Faction | 20.00% | ~321 |
 | Defeat Avor Warden of the Northern Wastes | 18.00% | ~289 |
 | Discover the mystery of the Kings Chambers | 17.00% | ~273 |
-| Complete Arena Faction | 14.00% | ~224 |
+| Complete Arena Faction | 14.00% | ~225 |
 | Complete Redgi's Armory | 7.00% | ~112 |
 | King of Kings | 7.00% | ~112 |
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,603 (Ranked 157)  
+Progressed: 1,604 (Ranked 157)  
 Completed: 6 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 6 (0.37%) (Ranked 119)
 | 2023-06-03 | 1,574 | 6 |
 | 2023-06-04 | 1,592 | 6 |
 | 2023-06-05 | 1,602 | 6 |
-| 2023-06-06 | 1,603 | 6 |
+| 2023-06-06 | 1,604 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

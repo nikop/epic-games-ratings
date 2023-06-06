@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 995,
+  "EOS_Progressed": 996,
   "EOS_Completed": 76,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 7.64,
+  "EOS_Completed_Percentage": 7.63,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -2689,6 +2689,11 @@
       "Time": "2023-06-05T23:06:41.9543561+00:00",
       "NumProgressed": 995,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-06-06T02:27:56.630528+00:00",
+      "NumProgressed": 996,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 5,
@@ -2700,7 +2705,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "2",
@@ -2708,7 +2713,7 @@
       "Name": "Jill the Bold",
       "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "3",
@@ -2739,7 +2744,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 995,
+      "Progressed": 996,
       "Completed": 76
     }
   ],
@@ -2747,8 +2752,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-06-06T00:05:47.2767383+00:00",
+  "LastChanged_Achievements": "2023-06-06T02:27:56.6305274+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:13.8733556+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:57:04.9085704+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:05:47.2767618+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:19:39.7467967+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:27:56.6305563+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 54.00% | ~1,225 |
-| Keeping it classy | 25.00% | ~567 |
-| Welcome to the family | 18.00% | ~408 |
-| The finer things in life | 16.00% | ~363 |
-| Backpacker | 12.00% | ~272 |
-| Go with the Flow | 11.00% | ~249 |
+| You're free now! | 54.00% | ~1,227 |
+| Keeping it classy | 25.00% | ~568 |
+| Welcome to the family | 18.00% | ~409 |
+| The finer things in life | 16.00% | ~364 |
+| Backpacker | 12.00% | ~273 |
+| Go with the Flow | 11.00% | ~250 |
 | Plastic Surgeon | 9.00% | ~204 |
-| Keep the dream alive | 8.00% | ~181 |
-| The flip trick crown jewel | 8.00% | ~181 |
-| The hard way | 8.00% | ~181 |
-| Upfront shredder | 8.00% | ~181 |
+| Keep the dream alive | 8.00% | ~182 |
+| The flip trick crown jewel | 8.00% | ~182 |
+| The hard way | 8.00% | ~182 |
+| Upfront shredder | 8.00% | ~182 |
 | Good vibes | 7.00% | ~159 |
 | Finally he zips it | 6.00% | ~136 |
 | That pinch! | 6.00% | ~136 |
 | Tight lipslides | 6.00% | ~136 |
-| Bottom ply killer | 5.00% | ~113 |
-| Fashionista | 5.00% | ~113 |
-| Fulfilled the dream | 5.00% | ~113 |
-| G'Day Mate! | 5.00% | ~113 |
-| Squad goals | 5.00% | ~113 |
-| Sup widdit big dog! | 5.00% | ~113 |
+| Bottom ply killer | 5.00% | ~114 |
+| Fashionista | 5.00% | ~114 |
+| Fulfilled the dream | 5.00% | ~114 |
+| G'Day Mate! | 5.00% | ~114 |
+| Squad goals | 5.00% | ~114 |
+| Sup widdit big dog! | 5.00% | ~114 |
 | Commence the Hijinx! | 4.00% | ~91 |
 | Cops called! | 4.00% | ~91 |
 | DIY Boss | 4.00% | ~91 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,268 (Ranked 149)  
+Progressed: 2,272 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 2,230 | 0 |
 | 2023-06-04 | 2,248 | 0 |
 | 2023-06-05 | 2,265 | 0 |
-| 2023-06-06 | 2,268 | 0 |
+| 2023-06-06 | 2,272 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 397)  
 Sum: 420 (Ranked 299)  

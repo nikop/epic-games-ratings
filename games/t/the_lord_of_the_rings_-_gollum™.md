@@ -15,8 +15,8 @@
 | The Veteran | 17.00% | ~69 |
 | The Traitor | 12.00% | ~48 |
 | The Spider | 11.00% | ~44 |
+| He's so Annoying | 7.00% | ~28 |
 | Good as Fish | 7.00% | ~28 |
-| He's so Annoying | 6.00% | ~24 |
 | Her Eyes | 6.00% | ~24 |
 | Murderer | 6.00% | ~24 |
 | Trigger-Happy | 6.00% | ~24 |
@@ -41,7 +41,7 @@
 | River Hobbit | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403 (Ranked 207)  
+Progressed: 404 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,3 +61,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 394 | 0 |
 | 2023-06-04 | 398 | 0 |
 | 2023-06-05 | 403 | 0 |
+| 2023-06-06 | 404 | 0 |

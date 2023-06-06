@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14580,
+  "EOS_Progressed": 14584,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2875,6 +2875,11 @@
       "Time": "2023-06-06T00:04:08.019037+00:00",
       "NumProgressed": 14580,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-06T02:26:38.4940771+00:00",
+      "NumProgressed": 14584,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -2910,7 +2915,7 @@
       "Name": "You Need a Gun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "DISARM_ENEMY",
@@ -2926,7 +2931,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -3006,7 +3011,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3014,7 +3019,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "KILL_ROBOT",
@@ -3038,7 +3043,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -3060,9 +3065,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1313
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3076,9 +3081,9 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1604
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3110,7 +3115,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -3134,7 +3139,7 @@
       "Name": "Full Circle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "STORY_TUNNELS",
@@ -3142,7 +3147,7 @@
       "Name": "Power Up",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "DISMEMBER_100",
@@ -3205,13 +3210,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14580,
+      "Progressed": 14584,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2506,
+      "Progressed": 2510,
       "Completed": 29
     }
   ],
@@ -3219,8 +3224,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-06T00:04:08.0190366+00:00",
+  "LastChanged_Achievements": "2023-06-06T02:26:38.4940764+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:57:48.3280633+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:04:08.0190834+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:20:16.4231405+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:26:38.4941171+00:00"
 }

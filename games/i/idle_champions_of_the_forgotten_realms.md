@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 885)  
+Rating: 4.06 (Ranked 886)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,10 +14,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.70% | ~629 |
 | Beware the Jabberwock | 0.70% | ~393 |
 | Are Ya Chicken? | 0.60% | ~539 |
-| Were-verpowered | 0.50% | ~449 |
-| Seeking Allies | 0.50% | ~449 |
-| Mad Cow Disease | 0.50% | ~449 |
-| Friendly Imps | 0.50% | ~449 |
+| Were-verpowered | 0.50% | ~450 |
+| Seeking Allies | 0.50% | ~450 |
+| Mad Cow Disease | 0.50% | ~450 |
+| Friendly Imps | 0.50% | ~450 |
 | Coasting to the Finish | 0.50% | ~281 |
 | Quick or Quack | 0.50% | ~281 |
 | Owlbear Necessities | 0.40% | ~225 |
@@ -76,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.20% | ~112 |
 | The Invisible Wizards of Thay | 0.20% | ~112 |
 | Vecna Lives! | 0.20% | ~112 |
+| A Demi-god's Defender | 0.20% | ~112 |
 | Vecna Loots! | 0.20% | ~112 |
 | More Than Well Equipped | 0.20% | ~112 |
 | Return to the Tomb | 0.20% | ~112 |
@@ -243,7 +244,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flapjacks and Waffles | 0.10% | ~56 |
 | On the Hunt | 0.10% | ~90 |
 | Overwhelmed with Knowledge | 0.10% | ~56 |
-| A Demi-god's Defender | 0.10% | ~56 |
 | Well Equipped | 0.10% | ~56 |
 | Friends of the Forest | 0.10% | ~90 |
 | To Avernus in a Handbasket | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,894 (Ranked 62)  
+Progressed: 89,902 (Ranked 62)  
 Completed: 1,917 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,19 +547,19 @@ Completed: 1,917 (2.13%) (Ranked 65)
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
-| 2023-06-06 | 89,894 | 1,917 |
+| 2023-06-06 | 89,902 | 1,917 |
 ## Awards
-Max (Diverse Characters): 4,917  (Ranked 64)  
-Sum: 30,035 (Ranked 37)  
+Max (Diverse Characters): 4,920  (Ranked 64)  
+Sum: 30,042 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,917 |
+| This game has Diverse Characters | 4,920 |
 | This game is Great for Beginners | 4,854 |
 | This game has Quickly Understood Controls | 4,610 |
-| This game is Relaxing | 4,506 |
+| This game is Relaxing | 4,509 |
 | This game is Highly Recommended | 3,954 |
-| This game has Amazing Characters | 3,949 |
+| This game has Amazing Characters | 3,950 |
 | This game has Playful Visuals | 3,245 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -695,3 +695,4 @@ Diff (max vs sum): 27
 | 2023-06-03 | 4.06 | - | 4,917 | 30,025 |
 | 2023-06-04 | 4.06 | - | 4,917 | 30,033 |
 | 2023-06-05 | 4.06 | - | 4,917 | 30,035 |
+| 2023-06-06 | 4.06 | - | 4,920 | 30,042 |

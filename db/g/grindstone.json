@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5097,
+  "EOS_Progressed": 5098,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -475,6 +475,11 @@
       "Time": "2023-06-05T12:06:19.4662708+00:00",
       "NumProgressed": 5097,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-06T02:28:25.6324288+00:00",
+      "NumProgressed": 5098,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 49,
@@ -518,7 +523,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -590,7 +595,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3058
+      "UsersEstimate": 3059
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -614,7 +619,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4995
+      "UsersEstimate": 4996
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -622,7 +627,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3160
+      "UsersEstimate": 3161
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -638,7 +643,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -702,7 +707,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -710,7 +715,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -726,15 +731,15 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3160
+      "UsersEstimate": 3161
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
       "SetID": "b8l3p0g",
       "Name": "Royal Flush, Again",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 968
+      "UsersEstimate": 918
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -758,7 +763,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3007
+      "UsersEstimate": 3008
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -774,7 +779,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4995
+      "UsersEstimate": 4996
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -830,7 +835,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -870,22 +875,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3619
+      "UsersEstimate": 3620
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5097,
+      "Progressed": 5098,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-06-06T00:06:22.6664599+00:00",
+  "LastChanged_Achievements": "2023-06-06T02:28:25.6324284+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:31.2717028+00:00",
-  "LastUpdate_Ratings": "2023-06-06T00:00:12.0453681+00:00",
-  "LastUpdate_Achievements": "2023-06-06T00:06:22.6665022+00:00"
+  "LastUpdate_Ratings": "2023-06-06T02:22:07.9279206+00:00",
+  "LastUpdate_Achievements": "2023-06-06T02:28:25.6324655+00:00"
 }

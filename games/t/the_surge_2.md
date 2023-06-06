@@ -5,15 +5,15 @@ Rating: 4.24 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,366 |
-| Don't I Know You...? | 76.00% | ~1,298 |
-| Jailbreak | 65.00% | ~1,110 |
+| Rigged And Ready | 80.00% | ~1,367 |
+| Don't I Know You...? | 76.00% | ~1,299 |
+| Jailbreak | 65.00% | ~1,111 |
 | Suited and Booted | 38.00% | ~649 |
 | HEADSHOT! | 37.00% | ~632 |
 | Sleeping With The Fishes | 35.00% | ~598 |
-| Overheated | 30.00% | ~512 |
-| High Performance | 30.00% | ~512 |
-| Powered Up | 28.00% | ~478 |
+| Overheated | 30.00% | ~513 |
+| High Performance | 30.00% | ~513 |
+| Powered Up | 28.00% | ~479 |
 | Studied The Blade | 24.00% | ~410 |
 | Home Invasion | 22.00% | ~376 |
 | Luminary | 22.00% | ~376 |
@@ -23,9 +23,9 @@ Rating: 4.24 (Ranked 800)
 | Offensive Defense | 19.00% | ~325 |
 | Shocking | 19.00% | ~325 |
 | Unforeseeable Consequences | 19.00% | ~325 |
-| Clean Cut | 18.00% | ~307 |
-| Dead Again | 17.00% | ~290 |
-| Full Arsenal | 17.00% | ~290 |
+| Clean Cut | 18.00% | ~308 |
+| Dead Again | 17.00% | ~291 |
+| Full Arsenal | 17.00% | ~291 |
 | Can't Trust Banks | 15.00% | ~256 |
 | Mommy Dearest | 13.00% | ~222 |
 | Bad Dog | 13.00% | ~222 |
@@ -42,9 +42,9 @@ Rating: 4.24 (Ranked 800)
 | A Little Banged Up | 7.00% | ~120 |
 | Reverse Engineering | 7.00% | ~120 |
 | Following In Their Footsteps | 7.00% | ~120 |
-| Remote Surgery | 6.00% | ~102 |
-| Turbo Booster | 6.00% | ~102 |
-| Squid Pro Quo | 6.00% | ~102 |
+| Remote Surgery | 6.00% | ~103 |
+| Turbo Booster | 6.00% | ~103 |
+| Squid Pro Quo | 6.00% | ~103 |
 | Reborn | 5.00% | ~85 |
 | Counter-Sniper | 5.00% | ~85 |
 | Shrimp Cocktail | 5.00% | ~85 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 800)
 | Swiss Army Drone | 1.00% | ~17 |
 | Three Birds With One Stone | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,708 (Ranked 154)  
+Progressed: 1,709 (Ranked 154)  
 Completed: 10 (0.59%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 10 (0.59%) (Ranked 110)
 | 2023-06-03 | 1,691 | 10 |
 | 2023-06-04 | 1,702 | 10 |
 | 2023-06-05 | 1,708 | 10 |
+| 2023-06-06 | 1,709 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
