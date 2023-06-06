@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 407,
+  "EOS_Progressed": 408,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -695,6 +695,11 @@
       "Time": "2023-06-06T13:15:26.8895278+00:00",
       "NumProgressed": 407,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T18:07:40.9049749+00:00",
+      "NumProgressed": 408,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -706,7 +711,7 @@
       "Name": "He\u0027s so Annoying",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "BreakLegs",
@@ -730,7 +735,7 @@
       "Name": "The Wraith",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "Chapter10",
@@ -744,9 +749,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 102
     },
     {
       "ID": "Chapter3",
@@ -754,7 +759,7 @@
       "Name": "The Breeder",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Chapter4",
@@ -786,7 +791,7 @@
       "Name": "Good as Fish",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Chapter8",
@@ -874,7 +879,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Memories",
@@ -890,7 +895,7 @@
       "Name": "Murderer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "NoDamage",
@@ -993,14 +998,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 407,
+      "Progressed": 408,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-06T17:06:00.2376501+00:00",
+  "LastChanged_Achievements": "2023-06-06T18:07:40.9049744+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.3133808+00:00",
-  "LastUpdate_Ratings": "2023-06-06T16:57:54.9971954+00:00",
-  "LastUpdate_Achievements": "2023-06-06T17:06:00.2376858+00:00"
+  "LastUpdate_Ratings": "2023-06-06T17:58:47.8109721+00:00",
+  "LastUpdate_Achievements": "2023-06-06T18:07:40.9050075+00:00"
 }

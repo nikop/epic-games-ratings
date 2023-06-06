@@ -9,9 +9,9 @@ Rating: 4.57 (Ranked 442)
 | Sputnik 2049 | 13.00% | ~321 |
 | Without Breaking Some Eggs... | 12.00% | ~296 |
 | Infinite Growth... | 12.00% | ~296 |
+| Space Society | 8.00% | ~197 |
 | A Thousand Strong | 8.00% | ~197 |
 | Ready for a New World | 8.00% | ~197 |
-| Space Society | 7.00% | ~173 |
 | Breaking Protocol | 6.00% | ~148 |
 | Permanent Redesigns | 6.00% | ~148 |
 | Ain't Nobody Got Time for That | 6.00% | ~148 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233,
+  "EOS_Progressed": 234,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.29,
+  "EOS_Completed_Percentage": 1.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -253,6 +253,11 @@
       "Time": "2023-06-05T12:05:41.5337216+00:00",
       "NumProgressed": 233,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-06T18:07:36.1005505+00:00",
+      "NumProgressed": 234,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -296,15 +301,15 @@
       "Name": "Let it begin",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "profile_ryan",
       "SetID": "6h5h9ho",
       "Name": "That wasn\u0027t so bad",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 199
     },
     {
       "ID": "ryan_date2_all",
@@ -374,9 +379,9 @@
       "ID": "success_kathleen",
       "SetID": "6h5h9ho",
       "Name": "The intellectual",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "success_lucas",
@@ -415,7 +420,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 233,
+      "Progressed": 234,
       "Completed": 3
     }
   ],
@@ -423,8 +428,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-06-06T17:05:56.0271441+00:00",
+  "LastChanged_Achievements": "2023-06-06T18:07:36.10055+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:29.1261182+00:00",
-  "LastUpdate_Ratings": "2023-06-06T16:57:32.221318+00:00",
-  "LastUpdate_Achievements": "2023-06-06T17:05:56.0271631+00:00"
+  "LastUpdate_Ratings": "2023-06-06T17:58:22.2923476+00:00",
+  "LastUpdate_Achievements": "2023-06-06T18:07:36.1005731+00:00"
 }

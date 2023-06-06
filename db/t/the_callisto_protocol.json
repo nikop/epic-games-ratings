@@ -536,9 +536,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14616,
+  "EOS_Progressed": 14621,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2956,6 +2956,11 @@
       "Time": "2023-06-06T17:04:17.6813011+00:00",
       "NumProgressed": 14616,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-06T18:05:36.9605086+00:00",
+      "NumProgressed": 14621,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -2991,7 +2996,7 @@
       "Name": "You Need a Gun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "DISARM_ENEMY",
@@ -2999,7 +3004,7 @@
       "Name": "Flesh Wound",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3095,7 +3100,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "KILL_ROBOT",
@@ -3119,7 +3124,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -3135,7 +3140,7 @@
       "Name": "Reforged",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3143,7 +3148,7 @@
       "Name": "Paper Jams",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3191,7 +3196,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -3215,15 +3220,15 @@
       "Name": "Full Circle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 585
     },
     {
       "ID": "DISMEMBER_100",
@@ -3286,13 +3291,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14616,
+      "Progressed": 14621,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2542,
+      "Progressed": 2547,
       "Completed": 29
     }
   ],
@@ -3300,8 +3305,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-06T16:58:03.8056354+00:00",
-  "LastChanged_Achievements": "2023-06-06T17:04:17.6813005+00:00",
+  "LastChanged_Achievements": "2023-06-06T18:05:36.9605079+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-06T16:58:03.805636+00:00",
-  "LastUpdate_Achievements": "2023-06-06T17:04:17.6813546+00:00"
+  "LastUpdate_Ratings": "2023-06-06T17:58:57.9298102+00:00",
+  "LastUpdate_Achievements": "2023-06-06T18:05:36.9605564+00:00"
 }

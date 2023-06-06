@@ -64,10 +64,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.20% | ~112 |
 | Sticky Fingers | 0.20% | ~112 |
 | Hither of the Feywild | 0.20% | ~112 |
+| Don't Breathe the Marsh Gas | 0.20% | ~112 |
 | The Prince of a Thousand Enemies | 0.20% | ~112 |
 | Uncommon Allies | 0.20% | ~112 |
 | Where the Magic Happens | 0.20% | ~112 |
 | Downfall | 0.20% | ~112 |
+| Second Third Out | 0.20% | ~112 |
 | Third Third Out | 0.20% | ~112 |
 | The Silken Swamp | 0.20% | ~180 |
 | A Steadfast Love | 0.20% | ~112 |
@@ -207,7 +209,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Familiar Behind Us | 0.10% | ~56 |
 | Patron Party | 0.10% | ~56 |
 | Go Fourth | 0.10% | ~56 |
-| Don't Breathe the Marsh Gas | 0.10% | ~56 |
 | Don't Blast the Brigands | 0.10% | ~56 |
 | Don't Squeeze the Spiders | 0.10% | ~56 |
 | The Spire of Iriolarthas | 0.10% | ~56 |
@@ -217,7 +218,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Lesson in Classes | 0.10% | ~56 |
 | The Birds | 0.10% | ~56 |
 | First Third Out | 0.10% | ~56 |
-| Second Third Out | 0.10% | ~56 |
 | Slack-jawed Lorna | 0.10% | ~56 |
 | I'm Sure I Saw It Move! | 0.10% | ~56 |
 | End of the Line | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,956 (Ranked 62)  
+Progressed: 89,961 (Ranked 62)  
 Completed: 1,919 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,7 +547,7 @@ Completed: 1,919 (2.13%) (Ranked 65)
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
-| 2023-06-06 | 89,956 | 1,919 |
+| 2023-06-06 | 89,961 | 1,919 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

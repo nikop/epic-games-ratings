@@ -10,7 +10,7 @@
 | Great view from the beach and from the hill | 55.00% | ~154 |
 | Bridges to come and go | 48.00% | ~134 |
 | Found an oasis | 41.00% | ~115 |
-| Burger or pizza? | 36.00% | ~101 |
+| Burger or pizza? | 37.00% | ~104 |
 | Passion for sports | 31.00% | ~87 |
 | Who loves trains? | 28.00% | ~78 |
 | Easy and steady climb | 27.00% | ~76 |
@@ -21,7 +21,7 @@
 | Monumental tribute | 19.00% | ~53 |
 | The beach is right there | 18.00% | ~50 |
 | Commuting | 18.00% | ~50 |
-| Le jardin magnifique | 16.00% | ~45 |
+| Le jardin magnifique | 17.00% | ~48 |
 | Aiming for a living and human city | 15.00% | ~42 |
 | City of dreams | 15.00% | ~42 |
 | Happy Christmas night! | 15.00% | ~42 |

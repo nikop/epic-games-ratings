@@ -512,9 +512,9 @@
       "ID": "COWBOY_1",
       "SetID": "9gfkh7c",
       "Name": "Yeehaw!!!",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DIE_1",
@@ -600,9 +600,9 @@
       "ID": "ENT_1",
       "SetID": "9gfkh7c",
       "Name": "Timber!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FIRE_1",
@@ -888,9 +888,9 @@
       "ID": "OTHER_2",
       "SetID": "9gfkh7c",
       "Name": "Free Of Chains",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "OTHER_3",
@@ -983,8 +983,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-06-06T17:06:19.169252+00:00",
+  "LastChanged_Achievements": "2023-06-06T18:08:01.7631184+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:09.8520018+00:00",
-  "LastUpdate_Ratings": "2023-06-06T16:57:16.1691287+00:00",
-  "LastUpdate_Achievements": "2023-06-06T17:06:19.1693612+00:00"
+  "LastUpdate_Ratings": "2023-06-06T17:58:03.3028533+00:00",
+  "LastUpdate_Achievements": "2023-06-06T18:08:01.7632142+00:00"
 }

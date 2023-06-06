@@ -1429,9 +1429,9 @@
       "ID": "GetRangedWeapon",
       "SetID": "9lj35g4",
       "Name": "Ranged Weapon",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 965
     },
     {
       "ID": "GetTHWeapon",
@@ -1540,8 +1540,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-06T17:01:33.2823888+00:00",
+  "LastChanged_Achievements": "2023-06-06T18:03:17.1697887+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-06T16:58:35.9750323+00:00",
-  "LastUpdate_Achievements": "2023-06-06T17:01:33.2824266+00:00"
+  "LastUpdate_Ratings": "2023-06-06T17:59:35.6720933+00:00",
+  "LastUpdate_Achievements": "2023-06-06T18:03:17.1698186+00:00"
 }

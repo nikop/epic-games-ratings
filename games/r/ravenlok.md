@@ -9,7 +9,7 @@
 | Into the Barn | 86.00% | ~826 |
 | A Prophecy | 84.00% | ~807 |
 | Sword, Shield, Fight! | 75.00% | ~721 |
-| A Grand Visit | 70.00% | ~673 |
+| A Grand Visit | 71.00% | ~682 |
 | Vibing | 61.00% | ~586 |
 | Fun Guy | 61.00% | ~586 |
 | Tragic Brave | 52.00% | ~500 |

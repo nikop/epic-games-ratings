@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 257,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -614,9 +614,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "findalltapes",
@@ -662,9 +662,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "scoreminrankrh1",
@@ -727,8 +727,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-06T17:03:38.6024692+00:00",
+  "LastChanged_Achievements": "2023-06-06T18:05:03.0901209+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-06T16:59:03.8235814+00:00",
-  "LastUpdate_Achievements": "2023-06-06T17:03:38.602487+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:00:09.1407199+00:00",
+  "LastUpdate_Achievements": "2023-06-06T18:05:03.0901402+00:00"
 }

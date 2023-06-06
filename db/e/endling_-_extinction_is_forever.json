@@ -555,9 +555,9 @@
       "ID": "TROP025",
       "SetID": "9n0dl35",
       "Name": "Chicken Dinner",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 94
     },
     {
       "ID": "TROP026",
@@ -588,8 +588,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-06-06T17:03:20.454022+00:00",
+  "LastChanged_Achievements": "2023-06-06T18:04:42.2179705+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:12.9891619+00:00",
-  "LastUpdate_Ratings": "2023-06-06T16:59:10.035404+00:00",
-  "LastUpdate_Achievements": "2023-06-06T17:03:20.4540451+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:00:16.4788615+00:00",
+  "LastUpdate_Achievements": "2023-06-06T18:04:42.2179931+00:00"
 }

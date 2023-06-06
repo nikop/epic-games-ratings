@@ -1599,7 +1599,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42629,
+  "EOS_Progressed": 42630,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
@@ -3309,6 +3309,11 @@
       "Time": "2023-06-06T15:07:27.0669384+00:00",
       "NumProgressed": 42629,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-06T18:08:16.5524296+00:00",
+      "NumProgressed": 42630,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -3328,7 +3333,7 @@
       "Name": "Kali Ma",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "SE_COMPLETE_ALL_CHAPTERS_WITH_A_FULL_TEAM",
@@ -3352,7 +3357,7 @@
       "Name": "Well equipped",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -3488,7 +3493,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -3504,7 +3509,7 @@
       "Name": "I told you we should have gone to the beach",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "SE_COMPLETE_MILAN",
@@ -3512,7 +3517,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26430
+      "UsersEstimate": 26431
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3552,7 +3557,7 @@
       "Name": "Have you tried turning it off and on again?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "SE_COMPLETE_TERROR_LAB",
@@ -3592,7 +3597,7 @@
       "Name": "Shock therapy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9378
+      "UsersEstimate": 9379
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -3624,7 +3629,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21314
+      "UsersEstimate": 21315
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -3640,7 +3645,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15346
+      "UsersEstimate": 15347
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -3672,7 +3677,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19609
+      "UsersEstimate": 19610
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -3680,7 +3685,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23872
+      "UsersEstimate": 23873
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -3688,7 +3693,7 @@
       "Name": "Stand back boy!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19609
+      "UsersEstimate": 19610
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -3696,7 +3701,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15346
+      "UsersEstimate": 15347
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -3720,7 +3725,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27709
+      "UsersEstimate": 27710
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -3776,7 +3781,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27709
+      "UsersEstimate": 27710
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -3816,7 +3821,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9378
+      "UsersEstimate": 9379
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -3840,22 +3845,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15346
+      "UsersEstimate": 15347
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42629,
+      "Progressed": 42630,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-06T14:00:36.1370414+00:00",
-  "LastChanged_Achievements": "2023-06-06T17:06:32.6894747+00:00",
+  "LastChanged_Achievements": "2023-06-06T18:08:16.5524291+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.3124724+00:00",
-  "LastUpdate_Ratings": "2023-06-06T17:00:09.8078015+00:00",
-  "LastUpdate_Achievements": "2023-06-06T17:06:32.6895774+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:01:25.3116566+00:00",
+  "LastUpdate_Achievements": "2023-06-06T18:08:16.5525002+00:00"
 }

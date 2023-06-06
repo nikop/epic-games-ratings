@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4925,
+  "EOS_Progressed": 4928,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1334,6 +1334,11 @@
       "Time": "2023-06-06T17:06:29.0775358+00:00",
       "NumProgressed": 4925,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T18:08:12.5711879+00:00",
+      "NumProgressed": 4928,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1457,7 +1462,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2464
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1465,7 +1470,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ach_campaign_progress7",
@@ -1473,7 +1478,7 @@
       "Name": "Level: Merry-Go-Around",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_campaign_progress8",
@@ -1495,9 +1500,9 @@
       "ID": "ach_campaign_special1",
       "SetID": "8cb3id7",
       "Name": "Returning Home: Quick Learner",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1281
     },
     {
       "ID": "ach_campaign_special10",
@@ -1577,7 +1582,7 @@
       "Name": "Charlies\u0027s Circuits: Artist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_campaign_special3",
@@ -1721,7 +1726,7 @@
       "Name": "Modular Peak",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_frp_many_products",
@@ -1745,7 +1750,7 @@
       "Name": "Accountant",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_frp_many_products4",
@@ -1785,7 +1790,7 @@
       "Name": "Data Churn Type III",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_frp_researchdata4",
@@ -1801,7 +1806,7 @@
       "Name": "Multi-Millionaire",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_frp_veryhigh_networth2",
@@ -1841,7 +1846,7 @@
       "Name": "Contender",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_many_trophies",
@@ -1849,7 +1854,7 @@
       "Name": "Trophy Collector",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_prof_assignments",
@@ -1897,7 +1902,7 @@
       "Name": "Module Maniac",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_prof_modules_sold",
@@ -1905,7 +1910,7 @@
       "Name": "Overproducer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_prof_products_sold",
@@ -1945,22 +1950,22 @@
       "Name": "Natural Talent",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     }
   ],
   "AchievementSets": [
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4925,
+      "Progressed": 4928,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-06T17:06:29.0775352+00:00",
+  "LastChanged_Achievements": "2023-06-06T18:08:12.5711873+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-06T16:59:13.8336446+00:00",
-  "LastUpdate_Achievements": "2023-06-06T17:06:29.0776415+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:00:20.5917186+00:00",
+  "LastUpdate_Achievements": "2023-06-06T18:08:12.5712808+00:00"
 }

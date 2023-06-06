@@ -51,14 +51,14 @@
 | Slimy... yet satisfying | 15.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~10 |
 | Deal with it | 14.00% | ~10 |
+| Yeehaw!!! | 13.00% | ~9 |
 | You're looking mozzare-hella good! | 11.00% | ~8 |
-| Yeehaw!!! | 11.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~8 |
 | Spoiler alert! | 10.00% | ~7 |
 | Scrambled Eggs | 10.00% | ~7 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~6 |
-| Timber! | 7.00% | ~5 |
-| Free Of Chains | 7.00% | ~5 |
+| Timber! | 8.00% | ~6 |
+| Free Of Chains | 8.00% | ~6 |
 | Grumpy Immortal | 6.00% | ~4 |
 | Ancient Ruins of Misplaced Belongings | 4.00% | ~3 |
 | Ancient Ruins of Imperfectly Designed Walls | 4.00% | ~3 |

@@ -676,7 +676,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2282,
+  "EOS_Progressed": 2283,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -2086,6 +2086,11 @@
       "Time": "2023-06-06T16:05:24.5951654+00:00",
       "NumProgressed": 2282,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T18:07:51.2725652+00:00",
+      "NumProgressed": 2283,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2249,7 +2254,7 @@
       "Name": "Keeping it classy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -2423,9 +2428,9 @@
       "ID": "ACH_TIGHT-LIPSLIDES",
       "SetID": "72olkc5",
       "Name": "Tight lipslides",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -2473,22 +2478,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2282,
+      "Progressed": 2283,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-04T23:59:06.4190942+00:00",
-  "LastChanged_Achievements": "2023-06-06T17:06:09.5797184+00:00",
+  "LastChanged_Achievements": "2023-06-06T18:07:51.2725647+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-06T16:59:19.9182716+00:00",
-  "LastUpdate_Achievements": "2023-06-06T17:06:09.5797709+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:00:27.9395757+00:00",
+  "LastUpdate_Achievements": "2023-06-06T18:07:51.272613+00:00"
 }

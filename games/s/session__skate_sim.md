@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 54.00% | ~1,232 |
-| Keeping it classy | 25.00% | ~570 |
+| You're free now! | 54.00% | ~1,233 |
+| Keeping it classy | 25.00% | ~571 |
 | Welcome to the family | 18.00% | ~411 |
 | The finer things in life | 16.00% | ~365 |
 | Backpacker | 12.00% | ~274 |
@@ -20,13 +20,13 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 7.00% | ~160 |
 | Finally he zips it | 6.00% | ~137 |
 | That pinch! | 6.00% | ~137 |
+| Tight lipslides | 6.00% | ~137 |
 | Bottom ply killer | 5.00% | ~114 |
 | Fashionista | 5.00% | ~114 |
 | Fulfilled the dream | 5.00% | ~114 |
 | G'Day Mate! | 5.00% | ~114 |
 | Squad goals | 5.00% | ~114 |
 | Sup widdit big dog! | 5.00% | ~114 |
-| Tight lipslides | 5.00% | ~114 |
 | Commence the Hijinx! | 4.00% | ~91 |
 | Cops called! | 4.00% | ~91 |
 | DIY Boss | 4.00% | ~91 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,282 (Ranked 148)  
+Progressed: 2,283 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 2,230 | 0 |
 | 2023-06-04 | 2,248 | 0 |
 | 2023-06-05 | 2,265 | 0 |
-| 2023-06-06 | 2,282 | 0 |
+| 2023-06-06 | 2,283 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 397)  
 Sum: 420 (Ranked 301)  

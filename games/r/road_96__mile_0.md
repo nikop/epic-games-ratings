@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | BBFF (Best Brigade Friend Forever) | 54.00% | ~139 |
 | Conspiracy Theorist | 44.00% | ~113 |
-| On the Road | 41.00% | ~105 |
+| On the Road | 42.00% | ~108 |
 | Souvenirs | 35.00% | ~90 |
 | This is Not Heavy Metal! | 19.00% | ~49 |
 | Welcome to the Garage | 19.00% | ~49 |
 | Truthseeker | 16.00% | ~41 |
 | 86's Nightmare | 11.00% | ~28 |
+| Partners in Crime | 10.00% | ~26 |
 | Freedom | 9.00% | ~23 |
-| Partners in Crime | 9.00% | ~23 |
 | Friendzone | 9.00% | ~23 |
 | The Eye of the Storm | 8.00% | ~21 |
 | Attack on Tyran | 7.00% | ~18 |

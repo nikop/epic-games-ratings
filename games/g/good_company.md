@@ -6,10 +6,10 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,462 |
-| Returning Home: Quick Learner | 25.00% | ~1,231 |
+| Level: Returning Home | 50.00% | ~2,464 |
+| Returning Home: Quick Learner | 26.00% | ~1,281 |
 | Level: Charlie's Circuits | 22.00% | ~1,084 |
-| Level: Rising Markets | 9.00% | ~443 |
+| Level: Rising Markets | 9.00% | ~444 |
 | Peddler | 8.00% | ~394 |
 | Level: Extra Life | 7.00% | ~345 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~345 |
@@ -24,17 +24,17 @@ Number of Ratings: 75  (23.09.2022)
 | Campaign: Lesson Learned | 3.00% | ~148 |
 | Level: Bet On Bots | 3.00% | ~148 |
 | Modular Performance | 3.00% | ~148 |
-| Level: Merry-Go-Around | 2.00% | ~98 |
-| Charlies's Circuits: Artist | 2.00% | ~98 |
-| Modular Peak | 2.00% | ~98 |
-| Accountant | 2.00% | ~98 |
-| Data Churn Type III | 2.00% | ~98 |
-| Multi-Millionaire | 2.00% | ~98 |
-| Contender | 2.00% | ~98 |
-| Trophy Collector | 2.00% | ~98 |
-| Module Maniac | 2.00% | ~98 |
-| Overproducer | 2.00% | ~98 |
-| Natural Talent | 2.00% | ~98 |
+| Level: Merry-Go-Around | 2.00% | ~99 |
+| Charlies's Circuits: Artist | 2.00% | ~99 |
+| Modular Peak | 2.00% | ~99 |
+| Accountant | 2.00% | ~99 |
+| Data Churn Type III | 2.00% | ~99 |
+| Multi-Millionaire | 2.00% | ~99 |
+| Contender | 2.00% | ~99 |
+| Trophy Collector | 2.00% | ~99 |
+| Module Maniac | 2.00% | ~99 |
+| Overproducer | 2.00% | ~99 |
+| Natural Talent | 2.00% | ~99 |
 | Level: A Happy Taskforce | 1.00% | ~49 |
 | Level: The Machinery | 1.00% | ~49 |
 | Extra Life: Knowledge Cap | 1.00% | ~49 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,925 (Ranked 127)  
+Progressed: 4,928 (Ranked 127)  
 Completed: 1 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.02%) (Ranked 195)
 | 2023-06-03 | 4,902 | 1 |
 | 2023-06-04 | 4,912 | 1 |
 | 2023-06-05 | 4,917 | 1 |
-| 2023-06-06 | 4,925 | 1 |
+| 2023-06-06 | 4,928 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

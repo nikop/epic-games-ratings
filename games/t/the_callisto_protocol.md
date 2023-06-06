@@ -5,12 +5,12 @@ Rating: 4.18 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 12.00% | ~1,754 |
+| Flesh Wound | 12.00% | ~1,755 |
 | The Outer Way | 11.00% | ~1,608 |
 | Desperate Times | 10.00% | ~1,462 |
-| Paper Jams | 9.00% | ~1,315 |
-| Chew 'Em Up | 8.00% | ~1,169 |
-| Reforged | 8.00% | ~1,169 |
+| Paper Jams | 9.00% | ~1,316 |
+| Chew 'Em Up | 8.00% | ~1,170 |
+| Reforged | 8.00% | ~1,170 |
 | Workplace Hazard | 7.00% | ~1,023 |
 | If the SHU Fits... | 7.00% | ~1,023 |
 | Giving Back | 6.00% | ~877 |
@@ -21,13 +21,13 @@ Rating: 4.18 (Ranked 840)
 | Float Like A Butterfly | 4.00% | ~585 |
 | In the Pipe, Five by Five | 4.00% | ~585 |
 | Crash Site | 4.00% | ~585 |
+| Power Up | 4.00% | ~585 |
 | Instigator | 4.00% | ~102 |
 | Big Game Hunter | 4.00% | ~102 |
-| You Need a Gun | 3.00% | ~438 |
-| The Commonality | 3.00% | ~438 |
-| What Lies Beneath | 3.00% | ~438 |
-| Full Circle | 3.00% | ~438 |
-| Power Up | 3.00% | ~438 |
+| You Need a Gun | 3.00% | ~439 |
+| The Commonality | 3.00% | ~439 |
+| What Lies Beneath | 3.00% | ~439 |
+| Full Circle | 3.00% | ~439 |
 | Bear Trap | 3.00% | ~76 |
 | I Do Belong Here | 2.00% | ~292 |
 | In Striking Distance | 2.00% | ~292 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,616 (Ranked 103)  
+Progressed: 14,621 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 54 (0.37%) (Ranked 119)
 | 2023-06-03 | 14,412 | 53 |
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
-| 2023-06-06 | 14,616 | 54 |
+| 2023-06-06 | 14,621 | 54 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 291 (Ranked 328)  

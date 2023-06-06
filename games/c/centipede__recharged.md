@@ -17,9 +17,9 @@ Number of Ratings: 76  (23.09.2022)
 | Deadline | 15.00% | ~2,143 |
 | Don't Fear The Reaper | 13.00% | ~1,857 |
 | Eyes On Fire | 13.00% | ~1,857 |
+| Feel The Thunder | 7.00% | ~1,000 |
 | Harvester Of Eyes | 7.00% | ~1,000 |
 | The Reaper | 7.00% | ~1,000 |
-| Feel The Thunder | 6.00% | ~857 |
 | Shadow Warrior | 2.00% | ~286 |
 | Mirrors | 1.00% | ~143 |
 ## Popularity (Based on EOS Achievements)

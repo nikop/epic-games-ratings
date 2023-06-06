@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-grace-92a75a",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -25,9 +25,290 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 35,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ActivateGrace",
+      "SetID": "aao9n96",
+      "Name": "It\u0027s alive! It\u0027s alive!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_AlignRelay",
+      "SetID": "aao9n96",
+      "Name": "Don\u0027t cross the streams",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_AllRooms",
+      "SetID": "aao9n96",
+      "Name": "You call this archaeology?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_AllWishes",
+      "SetID": "aao9n96",
+      "Name": "How many wishes do I get?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_AllZenItems",
+      "SetID": "aao9n96",
+      "Name": "I\u0027m curious what makes you so curious",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_AllenEnding",
+      "SetID": "aao9n96",
+      "Name": "I\u0027ll give her another 20 minutes, but that\u0027s it",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Bathroom",
+      "SetID": "aao9n96",
+      "Name": "He doesn\u0027t know how to use the three seashells",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Beacon",
+      "SetID": "aao9n96",
+      "Name": "This means something",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CastDevice",
+      "SetID": "aao9n96",
+      "Name": "Wilson!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ControlEnding",
+      "SetID": "aao9n96",
+      "Name": "It is your destiny",
+      "Percentage": 0,
+      "XP": 140,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CrossedTrack",
+      "SetID": "aao9n96",
+      "Name": "... death is but the next great adventure",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DarkRoom",
+      "SetID": "aao9n96",
+      "Name": "Let me risk a little more light",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Disassemble",
+      "SetID": "aao9n96",
+      "Name": "No disassemble!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EnterHeaven",
+      "SetID": "aao9n96",
+      "Name": "I\u0027ve a feeling we\u0027re not in Kansas anymore",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EscapeTrap",
+      "SetID": "aao9n96",
+      "Name": "they\u0027ll never take... OUR FREEDOM!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Everett",
+      "SetID": "aao9n96",
+      "Name": "I KNOW HIM!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FirstWish",
+      "SetID": "aao9n96",
+      "Name": "As you wish",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FlawlessSecurity",
+      "SetID": "aao9n96",
+      "Name": "Clever Girl",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GraceEnding",
+      "SetID": "aao9n96",
+      "Name": "The hardest choices require the strongest wills",
+      "Percentage": 0,
+      "XP": 140,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HeldBreath",
+      "SetID": "aao9n96",
+      "Name": "Hold your breath, make a wish, count to three",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Inukshuk",
+      "SetID": "aao9n96",
+      "Name": "Please send me a sign",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Keeper",
+      "SetID": "aao9n96",
+      "Name": "Speak Friend and Enter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LongJump",
+      "SetID": "aao9n96",
+      "Name": "Tis but a scratch!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MomWalk",
+      "SetID": "aao9n96",
+      "Name": "I want to tell you my secret now",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MoonSurface",
+      "SetID": "aao9n96",
+      "Name": "Not all those who wander are lost",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OverridePanel",
+      "SetID": "aao9n96",
+      "Name": "Mess with the best, die like the rest",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_QuestionControl",
+      "SetID": "aao9n96",
+      "Name": "Frankly, my dear, I don\u0027t give a damn",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ResetRelay",
+      "SetID": "aao9n96",
+      "Name": "When we fix something it stays fixed",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Shortcut",
+      "SetID": "aao9n96",
+      "Name": "Get busy living or get busy dying",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Siege",
+      "SetID": "aao9n96",
+      "Name": "Let them come",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Spire",
+      "SetID": "aao9n96",
+      "Name": "Hello there",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Theremin",
+      "SetID": "aao9n96",
+      "Name": "Put it up to eleven",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ThrowRocks",
+      "SetID": "aao9n96",
+      "Name": "I used to bullseye womp rats in my T-16 back home",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TransitWorking",
+      "SetID": "aao9n96",
+      "Name": "It\u0027s working! It\u0027s working!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WeatherStations",
+      "SetID": "aao9n96",
+      "Name": "Elementary, my dear Watson",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "aao9n96",
@@ -37,8 +318,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-06-06T17:04:27.9306556+00:00",
+  "LastChanged_Achievements": "2023-06-06T18:05:49.1352279+00:00",
   "LastUpdate_AppInfo": "2023-06-06T15:56:55.6615256+00:00",
-  "LastUpdate_Ratings": "2023-06-06T16:57:15.4385611+00:00",
-  "LastUpdate_Achievements": "2023-06-06T17:04:27.9306597+00:00"
+  "LastUpdate_Ratings": "2023-06-06T17:58:02.348807+00:00",
+  "LastUpdate_Achievements": "2023-06-06T18:05:49.1352542+00:00"
 }

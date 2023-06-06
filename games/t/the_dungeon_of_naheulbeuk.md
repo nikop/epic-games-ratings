@@ -15,11 +15,11 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 58.00% | ~14 |
 | GG EZ | 54.00% | ~13 |
 | A beer, two curses, three companions | 50.00% | ~12 |
+| Speedrun | 50.00% | ~12 |
 | Way of the Wimp | 46.00% | ~11 |
+| The plot thickens... At the tavern | 46.00% | ~11 |
 | Thieves' Guild Accreditation | 46.00% | ~11 |
-| Speedrun | 46.00% | ~11 |
 | Oh, when I'll be level 10... | 46.00% | ~11 |
-| The plot thickens... At the tavern | 42.00% | ~10 |
 | I am the night | 42.00% | ~10 |
 | The Ranger of Chaos | 38.00% | ~9 |
 | The demons' feast | 33.00% | ~8 |
@@ -33,10 +33,10 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 29.00% | ~7 |
 | Team Building Exercise | 29.00% | ~7 |
 | The Famous Dungeon of Naheulbeuk | 25.00% | ~6 |
+| Torture and Sensibility | 21.00% | ~5 |
 | The beards of change | 21.00% | ~5 |
 | Cursed die | 17.00% | ~4 |
 | The Great Library | 17.00% | ~4 |
-| Torture and Sensibility | 17.00% | ~4 |
 | Urik's Depths | 17.00% | ~4 |
 | He’s alive! Aliiiive! | 17.00% | ~4 |
 | Law and Order | 17.00% | ~4 |
