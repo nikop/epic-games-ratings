@@ -4126,9 +4126,9 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89904,
+  "EOS_Progressed": 89905,
   "EOS_Completed": 1917,
-  "EOS_NewPlayers": 727,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8831,6 +8831,11 @@
       "Time": "2023-06-06T03:21:45.98449+00:00",
       "NumProgressed": 89904,
       "NumCompleted": 1917
+    },
+    {
+      "Time": "2023-06-06T04:05:59.0041399+00:00",
+      "NumProgressed": 89905,
+      "NumCompleted": 1917
     }
   ],
   "TotalAchievements": 493,
@@ -12760,9 +12765,9 @@
       "ID": "objective_completed_1356",
       "SetID": "415jc5c",
       "Name": "Coasting to the Finish",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 337
     },
     {
       "ID": "objective_completed_1360",
@@ -12785,21 +12790,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56178,
+      "Progressed": 56179,
       "Completed": 2773
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89904,
+      "Progressed": 89905,
       "Completed": 1917
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T02:20:25.579569+00:00",
-  "LastChanged_Achievements": "2023-06-06T03:21:45.9844895+00:00",
+  "LastChanged_Achievements": "2023-06-06T04:05:59.0041394+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:13:17.4956137+00:00",
-  "LastUpdate_Achievements": "2023-06-06T03:21:45.9872933+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:57:58.2499777+00:00",
+  "LastUpdate_Achievements": "2023-06-06T04:05:59.0064555+00:00"
 }

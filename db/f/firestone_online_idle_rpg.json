@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1300,
+  "EOS_Progressed": 1301,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2739,6 +2739,11 @@
       "Time": "2023-06-06T02:28:18.5606756+00:00",
       "NumProgressed": 1300,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T04:05:45.1947452+00:00",
+      "NumProgressed": 1301,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3118,7 +3123,7 @@
       "Name": "Mythic Power",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "naturaltalent",
@@ -3142,7 +3147,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "prestigiousx10",
@@ -3206,7 +3211,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "thealchemist",
@@ -3294,7 +3299,7 @@
       "Name": "Tree of Life",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ultimatewarmachines",
@@ -3310,7 +3315,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "warmachinesarmy",
@@ -3342,14 +3347,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1300,
+      "Progressed": 1301,
       "Completed": 1
     }
   ],
@@ -3357,8 +3362,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-05T10:57:55.1665769+00:00",
-  "LastChanged_Achievements": "2023-06-06T03:21:30.7741352+00:00",
+  "LastChanged_Achievements": "2023-06-06T04:05:45.1947445+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:13:15.2593606+00:00",
-  "LastUpdate_Achievements": "2023-06-06T03:21:30.7742648+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:57:56.4679887+00:00",
+  "LastUpdate_Achievements": "2023-06-06T04:05:45.1948386+00:00"
 }

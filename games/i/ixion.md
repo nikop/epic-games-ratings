@@ -42,9 +42,9 @@ Rating: 4.57 (Ranked 442)
 | Pulsar Disciple | 0.90% | ~22 |
 | Mutual Loyalty | 0.80% | ~20 |
 | You Had One Job... | 0.80% | ~20 |
-| Catastrophe Avoided | 0.70% | ~17 |
 | Praise the Hull! | 0.70% | ~17 |
-| Space Greenhouse | 0.70% | ~17 |
+| Catastrophe Avoided | 0.60% | ~15 |
+| Space Greenhouse | 0.60% | ~15 |
 | Tiqqun Unchained | 0.60% | ~15 |
 | Help of the Forgotten Member | 0.60% | ~15 |
 | Tiqqun Contender | 0.50% | ~12 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 442)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,461 (Ranked 145)  
+Progressed: 2,462 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 2,408 | 0 |
 | 2023-06-04 | 2,441 | 0 |
 | 2023-06-05 | 2,460 | 0 |
-| 2023-06-06 | 2,461 | 0 |
+| 2023-06-06 | 2,462 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

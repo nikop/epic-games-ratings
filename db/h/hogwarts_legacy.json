@@ -3330,9 +3330,9 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 276611,
+  "EOS_Progressed": 276619,
   "EOS_Completed": 388,
-  "EOS_NewPlayers": 2371,
+  "EOS_NewPlayers": 2361,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -8060,6 +8060,11 @@
       "Time": "2023-06-06T03:19:58.0723953+00:00",
       "NumProgressed": 276611,
       "NumCompleted": 388
+    },
+    {
+      "Time": "2023-06-06T04:04:30.9317408+00:00",
+      "NumProgressed": 276619,
+      "NumCompleted": 388
     }
   ],
   "TotalAchievements": 45,
@@ -8071,7 +8076,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22129
+      "UsersEstimate": 22130
     },
     {
       "ID": "PFA_10",
@@ -8111,7 +8116,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 11064
+      "UsersEstimate": 11065
     },
     {
       "ID": "PFA_15",
@@ -8159,7 +8164,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8299
     },
     {
       "ID": "PFA_20",
@@ -8207,7 +8212,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11064
+      "UsersEstimate": 11065
     },
     {
       "ID": "PFA_26",
@@ -8239,7 +8244,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11064
+      "UsersEstimate": 11065
     },
     {
       "ID": "PFA_3",
@@ -8263,7 +8268,7 @@
       "Name": "Savvy Spender",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2490
     },
     {
       "ID": "PFA_32",
@@ -8271,7 +8276,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8299
     },
     {
       "ID": "PFA_33",
@@ -8319,7 +8324,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8299
     },
     {
       "ID": "PFA_39",
@@ -8343,7 +8348,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2490
     },
     {
       "ID": "PFA_41",
@@ -8351,7 +8356,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8299
     },
     {
       "ID": "PFA_42",
@@ -8359,7 +8364,7 @@
       "Name": "Raising Expectations",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8299
     },
     {
       "ID": "PFA_43",
@@ -8383,7 +8388,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 0.9,
       "XP": 80,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2490
     },
     {
       "ID": "PFA_5",
@@ -8430,7 +8435,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 276611,
+      "Progressed": 276619,
       "Completed": 388
     }
   ],
@@ -8438,8 +8443,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-06T02:19:47.1705642+00:00",
-  "LastChanged_Achievements": "2023-06-06T03:19:58.0723945+00:00",
+  "LastChanged_Achievements": "2023-06-06T04:04:30.9317403+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:24.8723684+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:12:30.4858919+00:00",
-  "LastUpdate_Achievements": "2023-06-06T03:19:58.0725068+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:57:20.0107676+00:00",
+  "LastUpdate_Achievements": "2023-06-06T04:04:30.931803+00:00"
 }

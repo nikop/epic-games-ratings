@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5325,9 +5325,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 43579,
+  "EOS_Progressed": 43580,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9225,6 +9225,11 @@
       "Time": "2023-06-06T02:28:16.2621832+00:00",
       "NumProgressed": 43579,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-06T04:05:42.5078109+00:00",
+      "NumProgressed": 43580,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -9332,7 +9337,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26583
+      "UsersEstimate": 26584
     },
     {
       "ID": "DeliveryGrapes",
@@ -9372,7 +9377,7 @@
       "Name": "Plant get enough",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26583
+      "UsersEstimate": 26584
     },
     {
       "ID": "Harvested",
@@ -9388,7 +9393,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 33120
+      "UsersEstimate": 33121
     },
     {
       "ID": "HorseJumps",
@@ -9420,7 +9425,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 20482
+      "UsersEstimate": 20483
     },
     {
       "ID": "Mission",
@@ -9532,7 +9537,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5229
+      "UsersEstimate": 5230
     },
     {
       "ID": "TractorDriving",
@@ -9579,15 +9584,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 43579,
+      "Progressed": 43580,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-06-05T23:59:45.3574331+00:00",
-  "LastChanged_Achievements": "2023-06-06T03:21:27.8703299+00:00",
+  "LastChanged_Achievements": "2023-06-06T04:05:42.5078106+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:03.1975406+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:15:05.6487039+00:00",
-  "LastUpdate_Achievements": "2023-06-06T03:21:27.8704256+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:59:26.6167262+00:00",
+  "LastUpdate_Achievements": "2023-06-06T04:05:42.5078632+00:00"
 }

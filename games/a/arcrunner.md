@@ -21,8 +21,8 @@
 | Starship Docks | 17.00% | ~15 |
 | Nanonic III | 17.00% | ~15 |
 | Cybernetic | 12.00% | ~11 |
+| Eden Heights | 10.00% | ~9 |
 | Fully Modded | 10.00% | ~9 |
-| Eden Heights | 9.00% | ~8 |
 | Ripperdoc | 6.00% | ~5 |
 | Inner Core | 4.00% | ~4 |
 | Integration | 4.00% | ~4 |

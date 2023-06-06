@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1245,9 +1245,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14742,
+  "EOS_Progressed": 14745,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 799,
+  "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5930,6 +5930,11 @@
       "Time": "2023-06-06T03:21:24.5366388+00:00",
       "NumProgressed": 14742,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-06T04:05:39.9064415+00:00",
+      "NumProgressed": 14745,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -6013,7 +6018,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "1025",
@@ -6029,7 +6034,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "1027",
@@ -6045,7 +6050,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "1029",
@@ -6061,7 +6066,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2949
     },
     {
       "ID": "1031",
@@ -6077,7 +6082,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "1033",
@@ -6093,7 +6098,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "1035",
@@ -6109,22 +6114,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 14742,
+      "Progressed": 14745,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-04T11:01:39.0273267+00:00",
-  "LastChanged_Achievements": "2023-06-06T03:21:24.5366382+00:00",
+  "LastChanged_Achievements": "2023-06-06T04:05:39.9064409+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.849482+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:15:42.3353114+00:00",
-  "LastUpdate_Achievements": "2023-06-06T03:21:24.5366828+00:00"
+  "LastUpdate_Ratings": "2023-06-06T04:00:12.8915456+00:00",
+  "LastUpdate_Achievements": "2023-06-06T04:05:39.9064806+00:00"
 }

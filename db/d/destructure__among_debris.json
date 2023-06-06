@@ -2,10 +2,10 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
-  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 125,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.81,
+  "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -578,6 +578,11 @@
       "Time": "2023-06-05T22:01:01.4847271+00:00",
       "NumProgressed": 124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T04:00:59.9567196+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -621,7 +626,7 @@
       "Name": "Ball Galore",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ball_protector",
@@ -661,7 +666,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "easy_victory",
@@ -677,7 +682,7 @@
       "Name": "Graduation",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -821,7 +826,7 @@
       "Name": "You Are Actually Supposed To Use Those",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "what_are_you",
@@ -836,7 +841,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 1
     }
   ],
@@ -844,8 +849,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-06T03:16:32.6227744+00:00",
+  "LastChanged_Achievements": "2023-06-06T04:00:59.9567191+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:23.8350057+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:15:24.505584+00:00",
-  "LastUpdate_Achievements": "2023-06-06T03:16:32.6228192+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:59:58.9636648+00:00",
+  "LastUpdate_Achievements": "2023-06-06T04:00:59.9567447+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6133,
+  "EOS_Progressed": 6134,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3161,6 +3161,11 @@
       "Time": "2023-06-06T03:18:50.9785109+00:00",
       "NumProgressed": 6133,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-06-06T04:03:35.2946883+00:00",
+      "NumProgressed": 6134,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 29,
@@ -3172,7 +3177,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5090
+      "UsersEstimate": 5091
     },
     {
       "ID": "ACH02",
@@ -3378,9 +3383,9 @@
       "ID": "ACH27",
       "SetID": "552d41m",
       "Name": "Liberty City Secrets",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 123
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH28",
@@ -3403,7 +3408,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6133,
+      "Progressed": 6134,
       "Completed": 31
     }
   ],
@@ -3411,8 +3416,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-04T13:57:40.7289818+00:00",
-  "LastChanged_Achievements": "2023-06-06T03:18:50.9785098+00:00",
+  "LastChanged_Achievements": "2023-06-06T04:03:35.2946878+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:03.6526306+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:13:06.0943367+00:00",
-  "LastUpdate_Achievements": "2023-06-06T03:18:50.9785732+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:57:50.7505167+00:00",
+  "LastUpdate_Achievements": "2023-06-06T04:03:35.2947247+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2708,9 +2708,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9572,
+  "EOS_Progressed": 9573,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5658,6 +5658,11 @@
       "Time": "2023-06-06T02:28:28.6773451+00:00",
       "NumProgressed": 9572,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T04:05:55.3131046+00:00",
+      "NumProgressed": 9573,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5805,7 +5810,7 @@
       "Name": "Mythic Choices",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "19_EqualToAroden",
@@ -5917,7 +5922,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -6596,21 +6601,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8354,
+      "Progressed": 8355,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9572,
+      "Progressed": 9573,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-06T03:13:35.719368+00:00",
-  "LastChanged_Achievements": "2023-06-06T03:21:42.2931103+00:00",
+  "LastChanged_Achievements": "2023-06-06T04:05:55.3131042+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:13:35.7193692+00:00",
-  "LastUpdate_Achievements": "2023-06-06T03:21:42.293305+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:58:13.5231812+00:00",
+  "LastUpdate_Achievements": "2023-06-06T04:05:55.3132804+00:00"
 }

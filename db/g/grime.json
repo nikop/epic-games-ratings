@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 572,
+  "EOS_Progressed": 573,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -433,6 +433,11 @@
       "Time": "2023-06-04T12:00:20.6408842+00:00",
       "NumProgressed": 572,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T04:02:30.1943052+00:00",
+      "NumProgressed": 573,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -492,7 +497,7 @@
       "Name": "The Hunt",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -514,9 +519,9 @@
       "ID": "DEFEAT_AMAL1",
       "SetID": "ccc0dlh",
       "Name": "Weeper",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 103
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -660,7 +665,7 @@
       "Name": "Imprint",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -779,21 +784,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 572,
+      "Progressed": 573,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-06-06T03:17:27.8190667+00:00",
+  "LastChanged_Achievements": "2023-06-06T04:02:30.1943047+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.4730882+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:15:54.9693778+00:00",
-  "LastUpdate_Achievements": "2023-06-06T03:17:27.8191253+00:00"
+  "LastUpdate_Ratings": "2023-06-06T04:00:23.2979292+00:00",
+  "LastUpdate_Achievements": "2023-06-06T04:02:30.1943397+00:00"
 }

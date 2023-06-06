@@ -1,32 +1,32 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.65 (Ranked 296)  
+Rating: 4.65 (Ranked 295)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,227 |
-| Mainframe Hacker | 47.00% | ~3,104 |
-| Tomorrow Never Dyes | 47.00% | ~3,104 |
-| The Spy who eliminated me | 47.00% | ~3,104 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,228 |
+| Mainframe Hacker | 47.00% | ~3,105 |
+| Tomorrow Never Dyes | 47.00% | ~3,105 |
+| The Spy who eliminated me | 47.00% | ~3,105 |
 | Never Say Loser Again | 41.00% | ~2,708 |
 | For your Eyes only | 39.00% | ~2,576 |
 | Tailor-Made | 38.00% | ~2,510 |
 | From the Vault with Love | 37.00% | ~2,444 |
 | Fully Decked Out | 36.00% | ~2,378 |
 | You Only Live Twice | 32.00% | ~2,114 |
-| A view to Win | 28.00% | ~1,849 |
-| Smells Like Trouble | 26.00% | ~1,717 |
-| Assistant Accountant | 25.00% | ~1,651 |
-| Private Collection | 25.00% | ~1,651 |
-| Killer Looks | 25.00% | ~1,651 |
-| Hostile Takeover | 25.00% | ~1,651 |
+| A view to Win | 28.00% | ~1,850 |
+| Smells Like Trouble | 26.00% | ~1,718 |
+| Assistant Accountant | 25.00% | ~1,652 |
+| Private Collection | 25.00% | ~1,652 |
+| Killer Looks | 25.00% | ~1,652 |
+| Hostile Takeover | 25.00% | ~1,652 |
 | Dr. No Kill | 24.00% | ~1,585 |
 | The Living Portrait | 24.00% | ~1,585 |
 | My Motto, My Creed | 24.00% | ~1,585 |
 | Keycards Royale | 23.00% | ~1,519 |
 | In It to Win It | 23.00% | ~1,519 |
-| Security Supervisor | 10.00% | ~660 |
+| Security Supervisor | 10.00% | ~661 |
 | License to Thrill | 8.00% | ~528 |
 | Social of Solace | 8.00% | ~528 |
 | Safe Withdrawal | 6.00% | ~396 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 296)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,605 (Ranked 118)  
+Progressed: 6,606 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 6,551 | 0 |
 | 2023-06-04 | 6,577 | 0 |
 | 2023-06-05 | 6,602 | 0 |
-| 2023-06-06 | 6,605 | 0 |
+| 2023-06-06 | 6,606 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

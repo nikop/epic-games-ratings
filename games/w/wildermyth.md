@@ -31,10 +31,10 @@ Number of Ratings: 45  (23.09.2022)
 | In Soil, In Smoke | 5.00% | ~62 |
 | Wingknight's Prowess | 5.00% | ~62 |
 | All My Birds, Safely Home | 5.00% | ~62 |
+| Turncoat | 5.00% | ~62 |
 | Worldwalker | 4.00% | ~50 |
 | Legends Never Die | 4.00% | ~50 |
 | A Hunger, Sated | 4.00% | ~50 |
-| Turncoat | 4.00% | ~50 |
 | We Emerge Changed | 3.00% | ~37 |
 | Storied Past | 3.00% | ~37 |
 | No More Nightmares | 3.00% | ~37 |

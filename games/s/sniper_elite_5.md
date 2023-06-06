@@ -5,13 +5,13 @@ Rating: 4.45 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 27.00% | ~624 |
+| Meeting Resistance | 27.00% | ~625 |
 | Confirming Suspicions | 22.00% | ~509 |
 | The Kraken Wakes | 17.00% | ~393 |
 | It's Starting to Crack | 15.00% | ~347 |
 | Lord of War | 13.00% | ~301 |
-| Resourceful | 12.00% | ~277 |
-| Change the Channel | 12.00% | ~277 |
+| Resourceful | 12.00% | ~278 |
+| Change the Channel | 12.00% | ~278 |
 | Taking it back | 10.00% | ~231 |
 | Organ Grinder | 9.00% | ~208 |
 | As Quiet as a Mouse | 9.00% | ~208 |
@@ -31,10 +31,10 @@ Rating: 4.45 (Ranked 616)
 | Close Quarters | 5.00% | ~116 |
 | Snake in the Grass | 5.00% | ~116 |
 | Brains of the Operation | 5.00% | ~116 |
-| No Stone Unturned | 4.00% | ~92 |
-| Skirmisher | 4.00% | ~92 |
-| Set Europe Ablaze | 4.00% | ~92 |
-| Precision Is Key | 4.00% | ~92 |
+| No Stone Unturned | 4.00% | ~93 |
+| Skirmisher | 4.00% | ~93 |
+| Set Europe Ablaze | 4.00% | ~93 |
+| Precision Is Key | 4.00% | ~93 |
 | Rigged to Blow | 3.00% | ~69 |
 | The Long Game | 2.00% | ~46 |
 | My Little Friend | 2.00% | ~46 |
@@ -45,7 +45,7 @@ Rating: 4.45 (Ranked 616)
 | Herr Today, Gone Tomorrow | 1.00% | ~23 |
 | Operation Foxley | 1.00% | ~23 |
 | Don't hold your breath | 0.90% | ~21 |
-| Tinkerer | 0.80% | ~18 |
+| Tinkerer | 0.80% | ~19 |
 | Ghost of Falaise | 0.80% | ~18 |
 | Siegebreaker | 0.70% | ~16 |
 | Last Resort | 0.60% | ~14 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 616)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,312 (Ranked 147)  
+Progressed: 2,313 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 2 (0.09%) (Ranked 169)
 | 2023-06-03 | 2,182 | 2 |
 | 2023-06-04 | 2,257 | 2 |
 | 2023-06-05 | 2,307 | 2 |
-| 2023-06-06 | 2,312 | 2 |
+| 2023-06-06 | 2,313 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
