@@ -12,7 +12,7 @@ Rating: 4.46 (Ranked 602)
 | Be Aggressive | 20.00% | ~48,856 |
 | Curator | 20.00% | ~48,856 |
 | Crowning Around | 18.00% | ~43,970 |
-| Can You Dig It? | 17.00% | ~41,527 |
+| Can You Dig It? | 17.00% | ~41,528 |
 | You Juan-A-Go? | 16.00% | ~39,085 |
 | Chan-tastic | 15.00% | ~36,642 |
 | Muddy Waters | 14.00% | ~34,199 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 602)
 | Talent Scout | 0.10% | ~244 |
 | True Completionist | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,279 (Ranked 42)  
+Progressed: 244,280 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2 (0.00%) (Ranked 212)
 | 2023-06-03 | 244,144 | 2 |
 | 2023-06-04 | 244,214 | 2 |
 | 2023-06-05 | 244,271 | 2 |
-| 2023-06-06 | 244,279 | 2 |
+| 2023-06-06 | 244,280 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

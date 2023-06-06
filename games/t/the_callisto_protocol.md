@@ -13,7 +13,7 @@ Rating: 4.18 (Ranked 840)
 | Workplace Hazard | 7.00% | ~1,021 |
 | Reforged | 7.00% | ~1,021 |
 | If the SHU Fits... | 7.00% | ~1,021 |
-| Giving Back | 6.00% | ~875 |
+| Giving Back | 6.00% | ~876 |
 | Get a Grip | 5.00% | ~730 |
 | Without A Paddle | 5.00% | ~730 |
 | Two Heads Are Better Than One | 4.00% | ~584 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,591 (Ranked 103)  
+Progressed: 14,592 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 54 (0.37%) (Ranked 119)
 | 2023-06-03 | 14,412 | 53 |
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
-| 2023-06-06 | 14,591 | 54 |
+| 2023-06-06 | 14,592 | 54 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 287 (Ranked 329)  

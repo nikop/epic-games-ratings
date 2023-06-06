@@ -28,11 +28,11 @@ Rating: 4.45 (Ranked 616)
 | Der Geist | 6.00% | ~139 |
 | Climbing the Ladder | 5.00% | ~116 |
 | Fields of Glory | 5.00% | ~116 |
+| Skirmisher | 5.00% | ~116 |
 | Close Quarters | 5.00% | ~116 |
 | Snake in the Grass | 5.00% | ~116 |
 | Brains of the Operation | 5.00% | ~116 |
 | No Stone Unturned | 4.00% | ~93 |
-| Skirmisher | 4.00% | ~93 |
 | Set Europe Ablaze | 4.00% | ~93 |
 | Precision Is Key | 4.00% | ~93 |
 | Rigged to Blow | 3.00% | ~69 |

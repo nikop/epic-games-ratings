@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4110,
+  "EOS_Progressed": 4111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2733,6 +2733,11 @@
       "Time": "2023-06-06T06:03:11.5236421+00:00",
       "NumProgressed": 4110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T07:03:19.4135671+00:00",
+      "NumProgressed": 4111,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2744,7 +2749,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -2760,7 +2765,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -2784,7 +2789,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2219
+      "UsersEstimate": 2220
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -2816,7 +2821,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -2846,9 +2851,9 @@
       "ID": "ACHIEVEMENT_014",
       "SetID": "1a05lfd",
       "Name": "Goldfish?",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1069
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -2856,7 +2861,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -3023,13 +3028,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4110,
+      "Progressed": 4111,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3482,
+      "Progressed": 3483,
       "Completed": 112
     }
   ],
@@ -3037,8 +3042,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-06T06:03:11.5236412+00:00",
+  "LastChanged_Achievements": "2023-06-06T07:03:19.4135666+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:14.4046039+00:00",
-  "LastUpdate_Ratings": "2023-06-06T05:59:20.7140704+00:00",
-  "LastUpdate_Achievements": "2023-06-06T06:03:11.5236819+00:00"
+  "LastUpdate_Ratings": "2023-06-06T07:00:12.6540766+00:00",
+  "LastUpdate_Achievements": "2023-06-06T07:03:19.4136073+00:00"
 }

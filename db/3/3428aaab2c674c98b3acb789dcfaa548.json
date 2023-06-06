@@ -146,9 +146,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 567777,
+  "EOS_Progressed": 567968,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 147570,
+  "EOS_NewPlayers": 146729,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1486,6 +1486,11 @@
       "Time": "2023-06-06T06:03:43.7659537+00:00",
       "NumProgressed": 567777,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-06T07:04:00.7383377+00:00",
+      "NumProgressed": 567968,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 75,
@@ -1497,7 +1502,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3407
+      "UsersEstimate": 3408
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -1719,9 +1724,9 @@
       "ID": "ACHIEVEMENT_LEAD_DEALER",
       "SetID": "a96a0j2",
       "Name": "Lead Dealer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -2087,22 +2092,22 @@
       "ID": "ACHIEVEMENT_YOU_RUN_BARTER_TOWN",
       "SetID": "a96a0j2",
       "Name": "You Run Barter Town",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 1136
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 567777,
+      "Progressed": 567968,
       "Completed": 12
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 567777,
+      "Progressed": 567968,
       "Completed": 11
     }
   ],
@@ -2110,8 +2115,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-06-05T19:57:22.1230367+00:00",
-  "LastChanged_Achievements": "2023-06-06T06:03:43.7659531+00:00",
+  "LastChanged_Achievements": "2023-06-06T07:04:00.7383369+00:00",
   "LastUpdate_AppInfo": "2023-06-01T14:56:59.1245664+00:00",
-  "LastUpdate_Ratings": "2023-06-06T05:56:57.6036626+00:00",
-  "LastUpdate_Achievements": "2023-06-06T06:03:43.7660267+00:00"
+  "LastUpdate_Ratings": "2023-06-06T06:57:05.8134372+00:00",
+  "LastUpdate_Achievements": "2023-06-06T07:04:00.7384219+00:00"
 }

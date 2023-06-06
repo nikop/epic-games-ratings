@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4361,
+  "EOS_Progressed": 4362,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3165,6 +3165,11 @@
       "Time": "2023-06-06T06:04:13.2544342+00:00",
       "NumProgressed": 4361,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T07:04:39.2528498+00:00",
+      "NumProgressed": 4362,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3264,7 +3269,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "20",
@@ -3286,9 +3291,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3314
+      "UsersEstimate": 3272
     },
     {
       "ID": "23",
@@ -3296,7 +3301,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3445
+      "UsersEstimate": 3446
     },
     {
       "ID": "24",
@@ -3304,7 +3309,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3271
+      "UsersEstimate": 3272
     },
     {
       "ID": "25",
@@ -3320,7 +3325,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "27",
@@ -3328,7 +3333,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "28",
@@ -3336,7 +3341,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "29",
@@ -3352,7 +3357,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "30",
@@ -3368,7 +3373,7 @@
       "Name": "Magical Synergy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "32",
@@ -3376,7 +3381,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "33",
@@ -3416,7 +3421,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "38",
@@ -3440,7 +3445,7 @@
       "Name": "The Eternal Court",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "40",
@@ -3456,7 +3461,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "42",
@@ -3480,7 +3485,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "5",
@@ -3527,13 +3532,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4361,
-      "Completed": 4361
+      "Progressed": 4362,
+      "Completed": 4362
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4361,
+      "Progressed": 4362,
       "Completed": 0
     }
   ],
@@ -3541,8 +3546,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-06T06:04:13.2544334+00:00",
+  "LastChanged_Achievements": "2023-06-06T07:04:39.2528491+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-06T05:59:01.0926015+00:00",
-  "LastUpdate_Achievements": "2023-06-06T06:04:13.2544873+00:00"
+  "LastUpdate_Ratings": "2023-06-06T06:59:47.4153822+00:00",
+  "LastUpdate_Achievements": "2023-06-06T07:04:39.2529023+00:00"
 }

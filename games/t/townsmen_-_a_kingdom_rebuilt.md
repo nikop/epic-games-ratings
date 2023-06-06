@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.20 (Ranked 822)  
+Rating: 4.21 (Ranked 816)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 37  (23.09.2022)
 | Eureka! | 10.00% | ~416 |
 | Tax-man I | 10.00% | ~416 |
 | A new beginning | 10.00% | ~416 |
-| Friends from the past | 8.00% | ~333 |
+| Friends from the past | 9.00% | ~375 |
 | I like to build stuff... I | 7.00% | ~291 |
 | A time consuming game I | 7.00% | ~291 |
 | Builder I | 6.00% | ~250 |
@@ -179,3 +179,4 @@ Completed: 3 (0.07%) (Ranked 177)
 | 2023-04-28 | 4.24 | - | 0 | 0 |
 | 2023-04-30 | 4.18 | - | 0 | 0 |
 | 2023-05-18 | 4.20 | - | 0 | 0 |
+| 2023-06-06 | 4.21 | - | 0 | 0 |

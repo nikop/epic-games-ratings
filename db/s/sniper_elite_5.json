@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -2788,9 +2788,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 116
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -3243,8 +3243,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-06T06:05:30.6612812+00:00",
+  "LastChanged_Achievements": "2023-06-06T07:06:17.2426286+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-06T05:59:57.8170943+00:00",
-  "LastUpdate_Achievements": "2023-06-06T06:05:30.6613565+00:00"
+  "LastUpdate_Ratings": "2023-06-06T07:00:59.5214827+00:00",
+  "LastUpdate_Achievements": "2023-06-06T07:06:17.2427093+00:00"
 }

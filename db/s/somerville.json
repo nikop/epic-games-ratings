@@ -2,13 +2,13 @@
   "ID": "70f113623e4e48c481c1908cfe002c98",
   "Name": "Somerville",
   "ProductSlug": "somerville-229529",
-  "Ranking_Rating": 822,
+  "Ranking_Rating": 823,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -390,8 +390,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-06-06T06:00:28.7286062+00:00",
+  "LastChanged_Achievements": "2023-06-06T07:01:39.9514732+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:52.5302386+00:00",
-  "LastUpdate_Ratings": "2023-06-06T05:57:35.7020267+00:00",
-  "LastUpdate_Achievements": "2023-06-06T06:00:28.7286154+00:00"
+  "LastUpdate_Ratings": "2023-06-06T06:57:55.5811567+00:00",
+  "LastUpdate_Achievements": "2023-06-06T07:01:39.9514859+00:00"
 }

@@ -12,8 +12,8 @@
 | CHIEF | 17.00% | ~97 |
 | SECOND_FLOOR | 10.00% | ~57 |
 | DEBTOR | 9.00% | ~51 |
+| SUCCESSFUL | 4.00% | ~23 |
 | THINGS ARE GOING WELL | 4.00% | ~23 |
-| SUCCESSFUL | 3.00% | ~17 |
 | YETTI | 3.00% | ~17 |
 | FIRST $100K | 2.00% | ~11 |
 | 500K$. | 0.90% | ~5 |
