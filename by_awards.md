@@ -12,7 +12,7 @@
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 57,488 | 4.59 | 407 |
 | 11 | [VALORANT](games/v/valorant.md) | 55,358 | 4.54 | 490 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 36,983 | 4.60 | 385 |
-| 13 | [Destiny 2](games/d/destiny_2.md) | 34,597 | 4.50 | 545 |
+| 13 | [Destiny 2](games/d/destiny_2.md) | 34,628 | 4.50 | 545 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 32,461 | 4.74 | 143 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,524 | 4.65 | 296 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 28,057 | 4.52 | 514 |
@@ -62,7 +62,7 @@
 | 60 | [DEATH STRANDING](games/d/death_stranding.md) | 5,438 | 4.77 | 107 |
 | 61 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,347 | 4.68 | 240 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,118 | 4.75 | 134 |
-| 63 | [Rogue Company](games/r/rogue_company.md) | 4,991 | 4.34 | 735 |
+| 63 | [Rogue Company](games/r/rogue_company.md) | 4,995 | 4.34 | 735 |
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,920 | 4.06 | 886 |
 | 65 | [MultiVersus](games/m/multiversus.md) | 4,740 | 4.56 | 453 |
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,635 | 4.65 | 296 |
@@ -76,7 +76,7 @@
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,080 | 4.76 | 118 |
 | 75 | [God of War](games/g/god_of_war.md) | 4,033 | 4.88 | 20 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,986 | 4.56 | 453 |
-| 77 | [SMITE](games/s/smite.md) | 3,854 | 4.45 | 616 |
+| 77 | [SMITE](games/s/smite.md) | 3,857 | 4.45 | 616 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,798 | 4.69 | 218 |
 | 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,624 | 4.29 | 769 |
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,460 | 4.47 | 590 |
@@ -116,7 +116,7 @@
 | 114 | [Ring of Pain](games/r/ring_of_pain.md) | 1,475 | 4.58 | 421 |
 | 115 | [Celeste](games/c/celeste.md) | 1,469 | 4.92 | 4 |
 | 116 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,450 | 4.79 | 90 |
-| 117 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 1,406 | 4.46 | 602 |
+| 117 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 1,435 | 4.46 | 602 |
 | 118 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,384 | 4.87 | 26 |
 | 119 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,348 | 4.81 | 72 |
 | 120 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,299 | 4.70 | 196 |
@@ -268,7 +268,7 @@
 | 266 | [Crashlands](games/c/crashlands.md) | 190 | 4.66 | 280 |
 | 267 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 189 | 4.42 | 656 |
 | 268 | [Unrailed!](games/u/unrailed!.md) | 187 | 4.64 | 314 |
-| 269 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 183 | 4.51 | 529 |
+| 269 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 184 | 4.51 | 529 |
 | 270 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 182 | 4.63 | 332 |
 | 270 | [shapez](games/s/shapez.md) | 182 | 4.71 | 180 |
 | 272 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 180 | 4.07 | 883 |

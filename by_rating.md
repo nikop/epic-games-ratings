@@ -534,7 +534,7 @@
 | 529 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 493 |
 | 529 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 95 | 333 |
 | 529 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 105 | 319 |
-| 529 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 183 | 269 |
+| 529 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 184 | 269 |
 | 529 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 1,200 | 125 |
 | 529 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 493 |
 | 529 | [Sable](games/s/sable.md) | 4.51 | 0 | 493 |
@@ -549,7 +549,7 @@
 | 545 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 39 | 416 |
 | 545 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 89 | 342 |
 | 545 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 493 |
-| 545 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,597 | 13 |
+| 545 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,628 | 13 |
 | 545 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 493 |
 | 545 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,401 | 94 |
 | 545 | [Horace](games/h/horace.md) | 4.50 | 0 | 493 |
@@ -611,7 +611,7 @@
 | 602 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 29 | 451 |
 | 602 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 38 | 420 |
 | 602 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 493 |
-| 602 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.46 | 1,406 | 117 |
+| 602 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.46 | 1,435 | 117 |
 | 602 | [The Surge](games/t/the_surge.md) | 4.46 | 26 | 462 |
 | 602 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 278 | 231 |
 | 602 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 0 | 493 |
@@ -624,7 +624,7 @@
 | 616 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,471 | 34 |
 | 616 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 493 |
 | 616 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 493 |
-| 616 | [SMITE](games/s/smite.md) | 4.45 | 3,854 | 77 |
+| 616 | [SMITE](games/s/smite.md) | 4.45 | 3,857 | 77 |
 | 616 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 493 |
 | 616 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 493 |
 | 616 | [STG Football](games/s/stg_football.md) | 4.45 | 40 | 414 |
@@ -741,7 +741,7 @@
 | 735 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 493 |
 | 735 | [Paladins](games/p/paladins.md) | 4.34 | 3,277 | 83 |
 | 735 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 493 |
-| 735 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,991 | 63 |
+| 735 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,995 | 63 |
 | 735 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 242 | 244 |
 | 735 | [The Silent Age](games/t/the_silent_age.md) | 4.34 | 0 | 493 |
 | 745 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 493 |

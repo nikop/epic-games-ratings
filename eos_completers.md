@@ -27,7 +27,7 @@
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.63% |
 | 26 | [Scorn](games/s/scorn.md) | 6.87% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.77% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.57% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.55% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -50,7 +50,7 @@
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
-| 51 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
+| 51 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 52 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.86% |
 | 52 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.86% |
 | 54 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
@@ -93,8 +93,8 @@
 | 91 | [Hades](games/h/hades.md) | 0.89% |
 | 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
-| 94 | [Adios](games/a/adios.md) | 0.85% |
-| 95 | [Poosh XL](games/p/poosh_xl.md) | 0.84% |
+| 94 | [Adios](games/a/adios.md) | 0.84% |
+| 94 | [Poosh XL](games/p/poosh_xl.md) | 0.84% |
 | 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.81% |
 | 97 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
@@ -432,4 +432,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,730 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,731 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

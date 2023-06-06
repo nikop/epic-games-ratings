@@ -208,6 +208,7 @@
 | [Chronicles Of Galdurvale](games/3/342f562fb76f4b098138f1d838bc2169.md) | 2099-01-01 | - |  | - | - |
 | [Chronos Affinity](games/c/chronos_affinity.md) | 2099-01-01 | - |  | - | - |
 | [Cloud Cutter](games/c/cloud_cutter.md) | 2099-01-01 | 34 (1,000 XP) | 0 | - | - |
+| [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 2099-01-01 | - |  | - | - |
 | [Commander Keen Dreams Definitive Edition](games/5/50f4d33e378d4203aeb869ad22f8964a.md) | 2099-01-01 | - |  | - | - |
 | [Cookie Cutter](games/c/cookie_cutter.md) | 2099-01-01 | - |  | - | - |
 | [Corpse Keeper](games/c/corpse_keeper.md) | 2099-01-01 | - |  | - | - |
