@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -430,10 +430,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1521200,
+  "EOS_Progressed": 1521206,
   "EOS_Completed": 620,
-  "EOS_NewPlayers": 1559,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 1564,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -5235,6 +5235,11 @@
       "Time": "2023-06-06T04:03:54.9990434+00:00",
       "NumProgressed": 1521200,
       "NumCompleted": 620
+    },
+    {
+      "Time": "2023-06-06T05:03:40.3663088+00:00",
+      "NumProgressed": 1521206,
+      "NumCompleted": 620
     }
   ],
   "TotalAchievements": 20,
@@ -5294,7 +5299,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136908
+      "UsersEstimate": 136909
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -5342,7 +5347,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152120
+      "UsersEstimate": 152121
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -5405,15 +5410,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1521200,
+      "Progressed": 1521206,
       "Completed": 620
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-06T04:03:54.999043+00:00",
+  "LastChanged_Achievements": "2023-06-06T05:03:40.3663085+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:30.6920773+00:00",
-  "LastUpdate_Ratings": "2023-06-06T04:00:04.4642098+00:00",
-  "LastUpdate_Achievements": "2023-06-06T04:03:54.9990831+00:00"
+  "LastUpdate_Ratings": "2023-06-06T04:59:58.4229297+00:00",
+  "LastUpdate_Achievements": "2023-06-06T05:03:40.3663532+00:00"
 }

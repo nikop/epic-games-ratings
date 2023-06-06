@@ -22,8 +22,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Convict | 10.00% | ~78,564 |
 | Traveller | 10.00% | ~78,564 |
 | Haggler | 9.00% | ~70,707 |
-| McLovin | 7.00% | ~54,994 |
-| Runt | 7.00% | ~54,994 |
+| McLovin | 7.00% | ~54,995 |
+| Runt | 7.00% | ~54,995 |
 | Casanova | 6.00% | ~47,138 |
 | Bad Trip | 5.00% | ~39,282 |
 | Monk | 5.00% | ~39,282 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~786 |
 | Wingman | 0.10% | ~786 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 785,635 (Ranked 14)  
+Progressed: 785,636 (Ranked 14)  
 Completed: 40 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,16 +136,16 @@ Completed: 40 (0.01%) (Ranked 201)
 | 2023-06-03 | 785,166 | 40 |
 | 2023-06-04 | 785,419 | 40 |
 | 2023-06-05 | 785,610 | 40 |
-| 2023-06-06 | 785,635 | 40 |
+| 2023-06-06 | 785,636 | 40 |
 ## Awards
 Max (Character Customization): 7,222  (Ranked 45)  
-Sum: 26,992 (Ranked 43)  
+Sum: 26,993 (Ranked 43)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,222 |
 | This game has Great Boss Battles | 5,310 |
-| This game has Challenging Combat | 1,692 |
+| This game has Challenging Combat | 1,693 |
 | This game has Amazing Storytelling | 1,659 |
 | This game is Extremely Fun | 1,630 |
 | This game has Diverse Characters | 1,628 |
@@ -290,3 +290,4 @@ Diff (max vs sum): 2
 | 2023-06-03 | 4.71 | - | 7,218 | 26,984 |
 | 2023-06-04 | 4.71 | - | 7,222 | 26,991 |
 | 2023-06-05 | 4.71 | - | 7,222 | 26,992 |
+| 2023-06-06 | 4.71 | - | 7,222 | 26,993 |

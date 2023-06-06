@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Treasure Hunting | 42.00% | ~15 |
 | Might be useful… | 42.00% | ~15 |
-| Uncut Gem | 36.00% | ~13 |
-| Friend! | 33.00% | ~12 |
+| Uncut Gem | 39.00% | ~14 |
+| Friend! | 36.00% | ~13 |
 | Setting Off | 33.00% | ~12 |
-| Shine! | 31.00% | ~11 |
+| Shine! | 33.00% | ~12 |
+| Clear as Water | 28.00% | ~10 |
 | Riddlesolver | 25.00% | ~9 |
-| Clear as Water | 25.00% | ~9 |
 | Dungeon Mastery | 19.00% | ~7 |
-| Card Collector | 17.00% | ~6 |
+| Card Collector | 19.00% | ~7 |
 | The Steed | 14.00% | ~5 |
 | A Strange Proposition | 14.00% | ~5 |
 | The Bodyguard | 11.00% | ~4 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -4871,9 +4871,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 462519,
+  "EOS_Progressed": 462520,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 781,
+  "EOS_NewPlayers": 777,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9456,6 +9456,11 @@
       "Time": "2023-06-06T04:05:56.0770575+00:00",
       "NumProgressed": 462519,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-06T05:05:58.131677+00:00",
+      "NumProgressed": 462520,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 98,
@@ -9587,7 +9592,7 @@
       "Name": "Fantastic Five",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 106379
+      "UsersEstimate": 106380
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -9651,7 +9656,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 226634
+      "UsersEstimate": 226635
     },
     {
       "ID": "achievement_club_world_cup",
@@ -9667,7 +9672,7 @@
       "Name": "Do The Double",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 83253
+      "UsersEstimate": 83254
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -9835,7 +9840,7 @@
       "Name": "Iron Curtain",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 106379
+      "UsersEstimate": 106380
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -10067,7 +10072,7 @@
       "Name": "Comeback King!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 60127
+      "UsersEstimate": 60128
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -10250,15 +10255,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 462519,
+      "Progressed": 462520,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-06-06T02:22:13.7376318+00:00",
-  "LastChanged_Achievements": "2023-06-06T04:05:56.077057+00:00",
+  "LastChanged_Achievements": "2023-06-06T05:05:58.1316766+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:38.3036136+00:00",
-  "LastUpdate_Ratings": "2023-06-06T04:00:10.8884983+00:00",
-  "LastUpdate_Achievements": "2023-06-06T04:05:56.0771975+00:00"
+  "LastUpdate_Ratings": "2023-06-06T05:00:05.137817+00:00",
+  "LastUpdate_Achievements": "2023-06-06T05:05:58.1318229+00:00"
 }

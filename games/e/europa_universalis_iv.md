@@ -7,12 +7,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 9.00% | ~4,568 |
-| That's a Grand Army | 8.00% | ~4,060 |
-| That is mine! | 8.00% | ~4,060 |
-| Victorious! | 8.00% | ~4,060 |
-| Brothers in Arms | 6.00% | ~3,045 |
-| That's a Grand Navy | 6.00% | ~3,045 |
-| Seriously?! | 6.00% | ~3,045 |
+| That's a Grand Army | 8.00% | ~4,061 |
+| That is mine! | 8.00% | ~4,061 |
+| Victorious! | 8.00% | ~4,061 |
+| Brothers in Arms | 6.00% | ~3,046 |
+| That's a Grand Navy | 6.00% | ~3,046 |
+| Seriously?! | 6.00% | ~3,046 |
 | For the Glory | 5.00% | ~2,538 |
 | Cold War | 4.00% | ~2,030 |
 | True Catholic | 4.00% | ~2,030 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,751 (Ranked 78)  
+Progressed: 50,760 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,10 +408,10 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 49,497 | 0 |
 | 2023-06-04 | 50,194 | 0 |
 | 2023-06-05 | 50,691 | 0 |
-| 2023-06-06 | 50,751 | 0 |
+| 2023-06-06 | 50,760 | 0 |
 ## Awards
 Max (Educational): 5,347  (Ranked 61)  
-Sum: 44,169 (Ranked 27)  
+Sum: 44,174 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -419,7 +419,7 @@ Diff (max vs sum): 34
 | This game is Highly Recommended | 5,115 |
 | This game has Challenging Combat | 5,098 |
 | This game is Extremely Fun | 5,065 |
-| This game has Diverse Characters | 5,031 |
+| This game has Diverse Characters | 5,036 |
 | This game is Relaxing | 4,958 |
 | This game has Competitive Players | 4,812 |
 | This game has Amazing Storytelling | 4,542 |
@@ -568,3 +568,4 @@ Diff (max vs sum): 34
 | 2023-06-03 | 4.68 | - | 5,338 | 44,083 |
 | 2023-06-04 | 4.68 | - | 5,342 | 44,146 |
 | 2023-06-05 | 4.68 | - | 5,347 | 44,169 |
+| 2023-06-06 | 4.68 | - | 5,347 | 44,174 |

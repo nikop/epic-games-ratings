@@ -6,15 +6,15 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,443 |
-| Thorough | 9.00% | ~15,699 |
+| Genin | 10.00% | ~17,444 |
+| Thorough | 9.00% | ~15,700 |
 | A thief's beginning | 8.00% | ~13,955 |
-| Tanuki Time | 7.00% | ~12,210 |
-| Disguised | 6.00% | ~10,466 |
-| Jonin | 6.00% | ~10,466 |
-| Rescue Takuma | 6.00% | ~10,466 |
-| Rollin' | 6.00% | ~10,466 |
-| Stoned Ox | 6.00% | ~10,466 |
+| Tanuki Time | 7.00% | ~12,211 |
+| Disguised | 6.00% | ~10,467 |
+| Jonin | 6.00% | ~10,467 |
+| Rescue Takuma | 6.00% | ~10,467 |
+| Rollin' | 6.00% | ~10,467 |
+| Stoned Ox | 6.00% | ~10,467 |
 | Chunin | 5.00% | ~8,722 |
 | Flying Rocks | 5.00% | ~8,722 |
 | Happy Planning | 5.00% | ~8,722 |
@@ -22,9 +22,9 @@ Number of Ratings: 495  (23.09.2022)
 | Mugen Unchained | 5.00% | ~8,722 |
 | Warzone | 5.00% | ~8,722 |
 | Yabu | 5.00% | ~8,722 |
-| Okkoto | 4.00% | ~6,977 |
-| Prisoners | 4.00% | ~6,977 |
-| Too Early | 4.00% | ~6,977 |
+| Okkoto | 4.00% | ~6,978 |
+| Prisoners | 4.00% | ~6,978 |
+| Too Early | 4.00% | ~6,978 |
 | Gear up | 3.00% | ~5,233 |
 | Happy little accidents | 3.00% | ~5,233 |
 | Noboru | 3.00% | ~5,233 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | Old Man | 1.00% | ~1,744 |
 | The End | 1.00% | ~1,744 |
 | Undeserved Honor | 0.90% | ~1,570 |
-| When Cut Across the Neck | 0.80% | ~1,395 |
+| When Cut Across the Neck | 0.80% | ~1,396 |
 | High Five the Moon | 0.70% | ~1,221 |
 | The Cave | 0.60% | ~1,047 |
 | Merciful | 0.40% | ~698 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~174 |
 | Release the Kraken | 0.10% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174,432 (Ranked 55)  
+Progressed: 174,442 (Ranked 55)  
 Completed: 51 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 51 (0.03%) (Ranked 190)
 | 2023-06-03 | 173,762 | 48 |
 | 2023-06-04 | 174,124 | 49 |
 | 2023-06-05 | 174,394 | 51 |
-| 2023-06-06 | 174,432 | 51 |
+| 2023-06-06 | 174,442 | 51 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 177)  
 Sum: 4,677 (Ranked 126)  

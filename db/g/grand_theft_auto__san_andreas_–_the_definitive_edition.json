@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -362,9 +362,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9660,
+  "EOS_Progressed": 9663,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3762,6 +3762,11 @@
       "Time": "2023-06-06T04:05:51.1712013+00:00",
       "NumProgressed": 9660,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-06T05:05:53.2525442+00:00",
+      "NumProgressed": 9663,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -3773,7 +3778,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7728
+      "UsersEstimate": 7730
     },
     {
       "ID": "ACH02",
@@ -3821,7 +3826,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "ACH08",
@@ -3829,7 +3834,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4637
+      "UsersEstimate": 4638
     },
     {
       "ID": "ACH09",
@@ -3877,7 +3882,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "ACH15",
@@ -3917,7 +3922,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH20",
@@ -3941,7 +3946,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ACH23",
@@ -4052,7 +4057,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 9660,
+      "Progressed": 9663,
       "Completed": 17
     }
   ],
@@ -4060,8 +4065,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-04T17:01:19.8705594+00:00",
-  "LastChanged_Achievements": "2023-06-06T04:05:51.1712007+00:00",
+  "LastChanged_Achievements": "2023-06-06T05:05:53.2525435+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.816384+00:00",
-  "LastUpdate_Ratings": "2023-06-06T04:00:16.3437858+00:00",
-  "LastUpdate_Achievements": "2023-06-06T04:05:51.1712441+00:00"
+  "LastUpdate_Ratings": "2023-06-06T05:00:09.5515158+00:00",
+  "LastUpdate_Achievements": "2023-06-06T05:05:53.2525927+00:00"
 }

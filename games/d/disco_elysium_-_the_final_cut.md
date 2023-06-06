@@ -8,7 +8,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~33,738 |
 | Biggest Communism Builder | 24.00% | ~28,918 |
-| The World's Most Laughable Centrist | 20.00% | ~24,098 |
+| The World's Most Laughable Centrist | 20.00% | ~24,099 |
 | Il Coppo Del'Arte! | 18.00% | ~21,689 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,279 |
 | Hyperstellar Law Official | 15.00% | ~18,074 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~120 |
 | What body? | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,492 (Ranked 58)  
+Progressed: 120,493 (Ranked 58)  
 Completed: 25 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 25 (0.02%) (Ranked 195)
 | 2023-06-03 | 120,205 | 25 |
 | 2023-06-04 | 120,358 | 25 |
 | 2023-06-05 | 120,482 | 25 |
-| 2023-06-06 | 120,492 | 25 |
+| 2023-06-06 | 120,493 | 25 |
 ## Awards
 Max (Character Customization): 691  (Ranked 157)  
 Sum: 1,049 (Ranked 230)  

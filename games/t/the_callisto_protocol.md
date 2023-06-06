@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 12.00% | ~1,750 |
-| The Outer Way | 11.00% | ~1,604 |
+| Flesh Wound | 12.00% | ~1,751 |
+| The Outer Way | 11.00% | ~1,605 |
 | Desperate Times | 10.00% | ~1,459 |
 | Paper Jams | 9.00% | ~1,313 |
 | Chew 'Em Up | 8.00% | ~1,167 |
@@ -16,14 +16,14 @@ Rating: 4.18 (Ranked 840)
 | Giving Back | 6.00% | ~875 |
 | Get a Grip | 5.00% | ~729 |
 | Without A Paddle | 5.00% | ~729 |
-| Terminated | 4.00% | ~583 |
-| Float Like A Butterfly | 4.00% | ~583 |
-| In the Pipe, Five by Five | 4.00% | ~583 |
-| Crash Site | 4.00% | ~583 |
-| Instigator | 4.00% | ~100 |
-| Big Game Hunter | 4.00% | ~100 |
+| Two Heads Are Better Than One | 4.00% | ~584 |
+| Terminated | 4.00% | ~584 |
+| Float Like A Butterfly | 4.00% | ~584 |
+| In the Pipe, Five by Five | 4.00% | ~584 |
+| Crash Site | 4.00% | ~584 |
+| Instigator | 4.00% | ~101 |
+| Big Game Hunter | 4.00% | ~101 |
 | You Need a Gun | 3.00% | ~438 |
-| Two Heads Are Better Than One | 3.00% | ~438 |
 | The Commonality | 3.00% | ~438 |
 | What Lies Beneath | 3.00% | ~438 |
 | Full Circle | 3.00% | ~438 |
@@ -35,9 +35,9 @@ Rating: 4.18 (Ranked 840)
 | Big Spender | 2.00% | ~50 |
 | Parole Denied | 1.00% | ~25 |
 | Hoard Mode | 1.00% | ~25 |
+| Grim Reaper | 0.70% | ~102 |
 | Recidivist | 0.70% | ~18 |
 | Lifer | 0.70% | ~18 |
-| Grim Reaper | 0.60% | ~88 |
 | Armed to the Teeth | 0.20% | ~5 |
 | The Protocol is About Life | 0.20% | ~29 |
 | It's over, Jacob! | 0.10% | ~15 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,586 (Ranked 103)  
+Progressed: 14,588 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 54 (0.37%) (Ranked 119)
 | 2023-06-03 | 14,412 | 53 |
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
-| 2023-06-06 | 14,586 | 54 |
+| 2023-06-06 | 14,588 | 54 |
 ## Awards
 Max (Amazing Storytelling): 50  (Ranked 390)  
 Sum: 287 (Ranked 329)  

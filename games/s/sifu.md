@@ -29,10 +29,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 0.90% | ~6,368 |
 | Take damage to save time | 0.90% | ~6,368 |
 | Scareless | 0.80% | ~5,661 |
+| Kung-Fu Tussle | 0.80% | ~5,661 |
 | Dance of the Praying Mantis | 0.70% | ~4,953 |
 | Qi Gong: Mind | 0.70% | ~4,953 |
 | I know Kung-Fu | 0.70% | ~4,953 |
-| Kung-Fu Tussle | 0.70% | ~4,953 |
 | Deadly Venom | 0.60% | ~101 |
 | A Touch of Acumen | 0.60% | ~101 |
 | Muk Yan Master | 0.50% | ~3,538 |
@@ -45,8 +45,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,830 |
 | Sword Stained With Blood | 0.40% | ~2,830 |
 | Martial Hub | 0.40% | ~68 |
+| Secure, Protect, Leave | 0.40% | ~68 |
 | Knowledge Greed | 0.30% | ~2,123 |
-| Secure, Protect, Leave | 0.30% | ~51 |
 | Drunken Fighter | 0.20% | ~1,415 |
 | Martial Artist | 0.20% | ~1,415 |
 | Healing Memory | 0.20% | ~1,415 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,597 (Ranked 16)  
-Completed: 12,758 (1.80%) (Ranked 69)  
+Progressed: 707,604 (Ranked 16)  
+Completed: 12,759 (1.80%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 12,758 (1.80%) (Ranked 69)
 | 2023-06-03 | 707,194 | 12,754 |
 | 2023-06-04 | 707,419 | 12,757 |
 | 2023-06-05 | 707,566 | 12,758 |
-| 2023-06-06 | 707,597 | 12,758 |
+| 2023-06-06 | 707,604 | 12,759 |
 ## Awards
 Max (Great Boss Battles): 6,137  (Ranked 53)  
 Sum: 10,471 (Ranked 78)  

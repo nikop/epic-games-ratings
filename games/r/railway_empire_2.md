@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~669 |
+| Country Bumpkin | 74.00% | ~679 |
 | A new Journey | 72.00% | ~660 |
 | Departure | 71.00% | ~651 |
 | From X to Y | 70.00% | ~642 |
@@ -33,7 +33,7 @@
 | Seven at one stroke | 21.00% | ~193 |
 | Hostile Takeover | 21.00% | ~193 |
 | General Manager | 20.00% | ~183 |
-| Country Life | 19.00% | ~174 |
+| Country Life | 20.00% | ~183 |
 | Trailblazer | 18.00% | ~165 |
 | Breaking Ground | 14.00% | ~128 |
 | Traffic Jam | 13.00% | ~119 |

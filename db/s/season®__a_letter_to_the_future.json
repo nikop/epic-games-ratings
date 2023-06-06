@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 963,
+  "EOS_Progressed": 964,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.74,
+  "EOS_Completed_Percentage": 3.73,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -1036,6 +1036,11 @@
       "Time": "2023-06-06T02:28:02.4968752+00:00",
       "NumProgressed": 963,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-06T05:05:30.647256+00:00",
+      "NumProgressed": 964,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 16,
@@ -1063,7 +1068,7 @@
       "Name": "Dream Listener",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -1135,7 +1140,7 @@
       "Name": "Outside World Seer",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1151,7 +1156,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_THEEND",
@@ -1174,7 +1179,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 963,
+      "Progressed": 964,
       "Completed": 36
     }
   ],
@@ -1182,8 +1187,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-06T04:05:28.3935386+00:00",
+  "LastChanged_Achievements": "2023-06-06T05:05:30.6472555+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:52.9746475+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:58:29.0961121+00:00",
-  "LastUpdate_Achievements": "2023-06-06T04:05:28.3935539+00:00"
+  "LastUpdate_Ratings": "2023-06-06T04:58:41.7967177+00:00",
+  "LastUpdate_Achievements": "2023-06-06T05:05:30.6472748+00:00"
 }

@@ -28,8 +28,8 @@ Number of Ratings: 368  (23.09.2022)
 | Good midwife | 11.00% | ~1,431 |
 | Friar Tuck | 11.00% | ~1,431 |
 | First profit | 11.00% | ~1,431 |
+| Skilled merchant | 10.00% | ~1,301 |
 | Team player | 10.00% | ~1,301 |
-| Skilled merchant | 9.00% | ~1,171 |
 | Nothing but make-believe | 9.00% | ~1,171 |
 | Brother Marcus | 9.00% | ~1,171 |
 | The oath | 9.00% | ~1,171 |

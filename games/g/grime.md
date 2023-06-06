@@ -8,8 +8,8 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Imprint | 24.00% | ~138 |
 | Taste | 23.00% | ~132 |
+| The Hunt | 21.00% | ~120 |
 | Ravenous | 21.00% | ~120 |
-| The Hunt | 20.00% | ~115 |
 | Weeper | 18.00% | ~103 |
 | Devourer | 14.00% | ~80 |
 | Harmless | 12.00% | ~69 |

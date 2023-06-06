@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -676,9 +676,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2275,
+  "EOS_Progressed": 2276,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2051,6 +2051,11 @@
       "Time": "2023-06-06T04:05:34.573836+00:00",
       "NumProgressed": 2275,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T05:05:36.5818428+00:00",
+      "NumProgressed": 2276,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2134,7 +2139,7 @@
       "Name": "Finally he zips it",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -2342,7 +2347,7 @@
       "Name": "That pinch!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -2438,22 +2443,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2275,
+      "Progressed": 2276,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-04T23:59:06.4190942+00:00",
-  "LastChanged_Achievements": "2023-06-06T04:05:34.5738355+00:00",
+  "LastChanged_Achievements": "2023-06-06T05:05:36.5818425+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:58:51.0053745+00:00",
-  "LastUpdate_Achievements": "2023-06-06T04:05:34.5738878+00:00"
+  "LastUpdate_Ratings": "2023-06-06T04:59:01.9157219+00:00",
+  "LastUpdate_Achievements": "2023-06-06T05:05:36.5818912+00:00"
 }

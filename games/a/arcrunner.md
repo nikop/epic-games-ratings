@@ -23,13 +23,13 @@
 | Cybernetic | 12.00% | ~11 |
 | Eden Heights | 10.00% | ~9 |
 | Fully Modded | 10.00% | ~9 |
-| Ripperdoc | 6.00% | ~5 |
-| Inner Core | 4.00% | ~4 |
+| Ripperdoc | 7.00% | ~6 |
+| Inner Core | 6.00% | ~5 |
+| Outer Core | 6.00% | ~5 |
 | Integration | 4.00% | ~4 |
-| Outer Core | 4.00% | ~4 |
 | Trickshot | 4.00% | ~4 |
+| Destruction | 2.00% | ~2 |
 | Cyborg | 1.00% | ~1 |
-| Destruction | 1.00% | ~1 |
 | Hard Boiled | 1.00% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

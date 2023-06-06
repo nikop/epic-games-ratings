@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4359,
+  "EOS_Progressed": 4360,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3155,6 +3155,11 @@
       "Time": "2023-06-06T02:26:56.3215154+00:00",
       "NumProgressed": 4359,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T05:04:15.6028526+00:00",
+      "NumProgressed": 4360,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3214,7 +3219,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "16",
@@ -3270,15 +3275,15 @@
       "Name": "Eternal Lord",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3269
+      "UsersEstimate": 3314
     },
     {
       "ID": "23",
@@ -3294,7 +3299,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3269
+      "UsersEstimate": 3270
     },
     {
       "ID": "25",
@@ -3302,7 +3307,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "26",
@@ -3310,7 +3315,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "27",
@@ -3334,7 +3339,7 @@
       "Name": "Stronger Together",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "3",
@@ -3366,7 +3371,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "33",
@@ -3422,7 +3427,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "4",
@@ -3517,13 +3522,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4359,
-      "Completed": 4359
+      "Progressed": 4360,
+      "Completed": 4360
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4359,
+      "Progressed": 4360,
       "Completed": 0
     }
   ],
@@ -3531,8 +3536,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-31T17:59:42.5248667+00:00",
-  "LastChanged_Achievements": "2023-06-06T04:04:21.2955668+00:00",
+  "LastChanged_Achievements": "2023-06-06T05:04:15.6028522+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:59:12.8037746+00:00",
-  "LastUpdate_Achievements": "2023-06-06T04:04:21.2956184+00:00"
+  "LastUpdate_Ratings": "2023-06-06T04:59:22.4710125+00:00",
+  "LastUpdate_Achievements": "2023-06-06T05:04:15.6029095+00:00"
 }

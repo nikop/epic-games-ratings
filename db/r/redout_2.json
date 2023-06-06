@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1005,
+  "EOS_Progressed": 1006,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -328,6 +328,11 @@
       "Time": "2023-06-05T20:06:20.6203797+00:00",
       "NumProgressed": 1005,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T05:05:46.8224246+00:00",
+      "NumProgressed": 1006,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -443,7 +448,7 @@
       "Name": "To the core",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -467,7 +472,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "CAREERADVANCED",
@@ -563,7 +568,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "FINISHSOUND",
@@ -651,7 +656,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ONEPAINT",
@@ -754,7 +759,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1005,
+      "Progressed": 1006,
       "Completed": 0
     }
   ],
@@ -762,8 +767,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-06T04:05:44.9789774+00:00",
+  "LastChanged_Achievements": "2023-06-06T05:05:46.822424+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:17.940759+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:58:01.2689523+00:00",
-  "LastUpdate_Achievements": "2023-06-06T04:05:44.9790256+00:00"
+  "LastUpdate_Ratings": "2023-06-06T04:58:08.8994647+00:00",
+  "LastUpdate_Achievements": "2023-06-06T05:05:46.8224776+00:00"
 }

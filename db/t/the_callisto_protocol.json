@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14586,
+  "EOS_Progressed": 14588,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2890,6 +2890,11 @@
       "Time": "2023-06-06T04:04:04.0206428+00:00",
       "NumProgressed": 14586,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-06T05:03:49.0837582+00:00",
+      "NumProgressed": 14588,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -2933,15 +2938,15 @@
       "Name": "Flesh Wound",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 102
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -3019,9 +3024,9 @@
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 438
+      "UsersEstimate": 584
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3037,7 +3042,7 @@
       "Name": "Terminated",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3061,7 +3066,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3093,7 +3098,7 @@
       "Name": "The Outer Way",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3117,7 +3122,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "STORY_MINETOWN",
@@ -3141,7 +3146,7 @@
       "Name": "Crash Site",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "STORY_TOWER",
@@ -3173,7 +3178,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3181,7 +3186,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3220,13 +3225,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14586,
+      "Progressed": 14588,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2512,
+      "Progressed": 2514,
       "Completed": 29
     }
   ],
@@ -3234,8 +3239,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-06T04:04:04.0206424+00:00",
+  "LastChanged_Achievements": "2023-06-06T05:03:49.0837578+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:57:49.1666622+00:00",
-  "LastUpdate_Achievements": "2023-06-06T04:04:04.0206911+00:00"
+  "LastUpdate_Ratings": "2023-06-06T04:57:55.9778866+00:00",
+  "LastUpdate_Achievements": "2023-06-06T05:03:49.0838059+00:00"
 }

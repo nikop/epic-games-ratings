@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -5032,10 +5032,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 26992,
       "NumberOfAwardsMax": 7222
+    },
+    {
+      "Time": "2023-06-06T04:58:26.4698549+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26993,
+      "NumberOfAwardsMax": 7222
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26992,
+  "NumberOfAwards": 26993,
   "NumberOfAwardsMax": 7222,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5073,7 +5079,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1692
+      "Count": 1693
     },
     {
       "Text": "This game is Educational",
@@ -5118,9 +5124,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 785635,
+  "EOS_Progressed": 785636,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 1432,
+  "EOS_NewPlayers": 1429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9898,6 +9904,11 @@
       "Time": "2023-06-06T04:05:51.4778722+00:00",
       "NumProgressed": 785635,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-06T05:05:53.7260738+00:00",
+      "NumProgressed": 785636,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 82,
@@ -10309,7 +10320,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 54994
+      "UsersEstimate": 54995
     },
     {
       "ID": "MercenarysHonor",
@@ -10413,7 +10424,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54994
+      "UsersEstimate": 54995
     },
     {
       "ID": "Saviour",
@@ -10564,15 +10575,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 785635,
+      "Progressed": 785636,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-06-05T02:19:13.4553773+00:00",
-  "LastChanged_Achievements": "2023-06-06T04:05:51.4778718+00:00",
+  "LastChanged": "2023-06-06T04:58:26.4698547+00:00",
+  "LastChanged_Achievements": "2023-06-06T05:05:53.7260734+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:37.9685138+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:58:16.7352972+00:00",
-  "LastUpdate_Achievements": "2023-06-06T04:05:51.4779884+00:00"
+  "LastUpdate_Ratings": "2023-06-06T04:58:26.4698554+00:00",
+  "LastUpdate_Achievements": "2023-06-06T05:05:53.7261935+00:00"
 }

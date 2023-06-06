@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1604,
+  "EOS_Progressed": 1605,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1251,6 +1251,11 @@
       "Time": "2023-06-06T02:22:42.7417366+00:00",
       "NumProgressed": 1604,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-06T05:00:38.4971533+00:00",
+      "NumProgressed": 1605,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1260,9 +1265,9 @@
       "ID": "BecomeKing",
       "SetID": "9lj35g4",
       "Name": "Become King",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1124
     },
     {
       "ID": "Collect20Gold",
@@ -1286,7 +1291,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "CollectAllStatues",
@@ -1342,7 +1347,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1374,7 +1379,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1406,7 +1411,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "GetTHWeapon",
@@ -1414,7 +1419,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "Kill25Bugs",
@@ -1430,7 +1435,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "Kill25Mozi",
@@ -1446,7 +1451,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "MysteryKingsChamber",
@@ -1478,7 +1483,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "RescueBrothers",
@@ -1494,29 +1499,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1604,
+      "Progressed": 1605,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 245,
-      "Completed": 245
+      "Progressed": 246,
+      "Completed": 246
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-06T04:00:47.5915488+00:00",
+  "LastChanged_Achievements": "2023-06-06T05:00:38.4971529+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:58:15.2362484+00:00",
-  "LastUpdate_Achievements": "2023-06-06T04:00:47.5915812+00:00"
+  "LastUpdate_Ratings": "2023-06-06T04:58:24.082565+00:00",
+  "LastUpdate_Achievements": "2023-06-06T05:00:38.497188+00:00"
 }

@@ -23,8 +23,8 @@
 | Gooey Delight! | 39.00% | ~374 |
 | Well Rested | 39.00% | ~374 |
 | Nightmare Fuel | 38.00% | ~365 |
+| Take Heart | 38.00% | ~365 |
 | Teacups for Toppy | 38.00% | ~365 |
-| Take Heart | 37.00% | ~355 |
 | The Guardian | 37.00% | ~355 |
 | Ancient Wisdom | 36.00% | ~346 |
 | All That Glistens | 36.00% | ~346 |

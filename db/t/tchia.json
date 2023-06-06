@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6321,
+  "EOS_Progressed": 6322,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -3023,6 +3023,11 @@
       "Time": "2023-06-06T02:27:59.2580776+00:00",
       "NumProgressed": 6321,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-06T05:05:27.4593536+00:00",
+      "NumProgressed": 6322,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -3050,7 +3055,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -3082,7 +3087,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -3201,7 +3206,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6321,
+      "Progressed": 6322,
       "Completed": 23
     }
   ],
@@ -3209,8 +3214,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-06T04:05:25.0441474+00:00",
+  "LastChanged_Achievements": "2023-06-06T05:05:27.4593531+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:57:52.6794207+00:00",
-  "LastUpdate_Achievements": "2023-06-06T04:05:25.0441759+00:00"
+  "LastUpdate_Ratings": "2023-06-06T04:57:59.879244+00:00",
+  "LastUpdate_Achievements": "2023-06-06T05:05:27.4593835+00:00"
 }

@@ -11,12 +11,12 @@ Rating: 4.31 (Ranked 757)
 | Monster Hunter | 53.00% | ~507 |
 | Earning Trust | 50.00% | ~478 |
 | Monster Slayer | 28.00% | ~268 |
-| Awakening | 22.00% | ~210 |
+| Awakening | 22.00% | ~211 |
 | Huntmaster | 21.00% | ~201 |
 | Complete the sidequest 'Malice and Greed' | 17.00% | ~163 |
 | Digging Deep | 13.00% | ~124 |
 | House Vulisica's Heirloom | 13.00% | ~124 |
-| Broken Oath | 8.00% | ~76 |
+| Broken Oath | 8.00% | ~77 |
 | Way of the King | 6.00% | ~57 |
 | Til We Meet Again | 4.00% | ~38 |
 | Way of the Warlord | 3.00% | ~29 |
@@ -29,7 +29,7 @@ Rating: 4.31 (Ranked 757)
 | Someone to Protect | 0.60% | ~6 |
 | Lean on Me | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 956 (Ranked 177)  
+Progressed: 957 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 946 | 0 |
 | 2023-06-04 | 950 | 0 |
 | 2023-06-05 | 955 | 0 |
-| 2023-06-06 | 956 | 0 |
+| 2023-06-06 | 957 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

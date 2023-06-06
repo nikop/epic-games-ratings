@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -374,9 +374,9 @@
       "ID": "BADGE_ENEMIES_FRIGHTEN",
       "SetID": "ak6pfjk",
       "Name": "Go Home!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "BADGE_ENEMIES_KILL",
@@ -422,9 +422,9 @@
       "ID": "BADGE_GOLD_COINS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Look After the Pence...",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "BADGE_HOSTILE_WATERS",
@@ -559,8 +559,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-06T04:03:24.1172674+00:00",
+  "LastChanged_Achievements": "2023-06-06T05:03:10.7349679+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:52.396282+00:00",
-  "LastUpdate_Ratings": "2023-06-06T03:58:27.4119749+00:00",
-  "LastUpdate_Achievements": "2023-06-06T04:03:24.1173106+00:00"
+  "LastUpdate_Ratings": "2023-06-06T04:58:40.1033652+00:00",
+  "LastUpdate_Achievements": "2023-06-06T05:03:10.7350131+00:00"
 }
