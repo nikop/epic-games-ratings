@@ -10,24 +10,24 @@
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 14.89% |
+| 11 | [Island Cities](games/i/island_cities.md) | 14.84% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.00% |
 | 16 | [Without Escape](games/w/without_escape.md) | 10.00% |
+| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.94% |
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
 | 20 | [Remains](games/r/remains.md) | 8.11% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.05% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.60% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
 | 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.41% |
 | 26 | [Scorn](games/s/scorn.md) | 6.87% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.76% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.76% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.75% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -86,7 +86,7 @@
 | 84 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.16% |
 | 85 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.14% |
 | 85 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
-| 87 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.07% |
+| 87 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
 | 88 | [Late Shift](games/l/late_shift.md) | 1.01% |
 | 89 | [Five Dates](games/f/five_dates.md) | 0.98% |
 | 90 | [Sable](games/s/sable.md) | 0.94% |
@@ -98,7 +98,7 @@
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
 | 98 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.79% |
-| 99 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.78% |
+| 99 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.77% |
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.76% |
 | 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
@@ -144,8 +144,8 @@
 | 141 | [BLACKTAIL](games/b/blacktail.md) | 0.22% |
 | 141 | [Filament](games/f/filament.md) | 0.22% |
 | 144 | [Blanc](games/b/blanc.md) | 0.21% |
-| 145 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 145 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 144 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 146 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 147 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 147 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
 | 149 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
@@ -361,6 +361,7 @@
 | 212 | [Redfall](games/r/redfall.md) | 0.00% |
 | 212 | [Redout 2](games/r/redout_2.md) | 0.00% |
 | 212 | [Return to Abyss 重返深渊](games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 0.00% |
+| 212 | [Return to Grace](games/c/c4061518e37f40119b54ce93456a8ecb.md) | 0.00% |
 | 212 | [Rift Rangers](games/2/24e2970ac5124a649554e210843f6774.md) | 0.00% |
 | 212 | [Riftbound](games/r/riftbound.md) | 0.00% |
 | 212 | [Rise of Industry](games/r/rise_of_industry.md) | 0.00% |

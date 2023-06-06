@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,382,996 | 4.30 | 764 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,385,327 | 4.30 | 764 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 429,542 | 4.50 | 545 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 297,340 | 4.68 | 240 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 183,712 | 4.19 | 833 |
@@ -37,7 +37,7 @@
 | 35 | [Satisfactory](games/s/satisfactory.md) | 9,641 | 4.88 | 20 |
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,177 | 4.61 | 361 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,158 | 4.78 | 102 |
-| 38 | [SnowRunner](games/s/snowrunner.md) | 8,454 | 4.76 | 118 |
+| 38 | [SnowRunner](games/s/snowrunner.md) | 8,473 | 4.76 | 118 |
 | 39 | [Control](games/c/control.md) | 8,324 | 4.60 | 385 |
 | 40 | [Supraland](games/s/supraland.md) | 7,618 | 4.61 | 361 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,599 | 4.85 | 37 |
@@ -65,7 +65,7 @@
 | 63 | [Rogue Company](games/r/rogue_company.md) | 4,995 | 4.34 | 736 |
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,920 | 4.06 | 886 |
 | 65 | [MultiVersus](games/m/multiversus.md) | 4,740 | 4.56 | 453 |
-| 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,635 | 4.65 | 296 |
+| 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,642 | 4.65 | 296 |
 | 67 | [Shop Titans](games/s/shop_titans.md) | 4,611 | 3.98 | 902 |
 | 68 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,531 | 4.70 | 196 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,335 | 4.70 | 196 |
@@ -88,7 +88,7 @@
 | 86 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,119 | 4.68 | 240 |
 | 87 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,111 | 4.57 | 442 |
 | 88 | [Hades](games/h/hades.md) | 3,099 | 4.92 | 4 |
-| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,051 | 4.77 | 107 |
+| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,067 | 4.77 | 107 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,722 | 4.67 | 259 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,505 | 4.61 | 361 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,464 | 4.28 | 775 |
@@ -210,8 +210,8 @@
 | 208 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 370 | 3.99 | 900 |
 | 209 | [Nuclear Throne](games/n/nuclear_throne.md) | 369 | 4.79 | 90 |
 | 210 | [For The King](games/f/for_the_king.md) | 366 | 4.70 | 196 |
-| 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 356 | 4.70 | 196 |
-| 211 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 356 | 4.62 | 347 |
+| 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 357 | 4.70 | 196 |
+| 212 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 356 | 4.62 | 347 |
 | 213 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 346 | 4.31 | 757 |
 | 214 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 339 | 4.60 | 385 |
 | 215 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 338 | 4.71 | 180 |
@@ -248,7 +248,7 @@
 | 246 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 235 | 4.49 | 564 |
 | 247 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 232 | 4.45 | 616 |
 | 247 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 232 | 4.85 | 37 |
-| 249 | [Overcooked! 2](games/o/overcooked!_2.md) | 224 | 4.73 | 159 |
+| 249 | [Overcooked! 2](games/o/overcooked!_2.md) | 225 | 4.73 | 159 |
 | 250 | [MORDHAU](games/m/mordhau.md) | 221 | 4.41 | 666 |
 | 251 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 218 | 4.85 | 37 |
 | 252 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 217 | 4.58 | 421 |

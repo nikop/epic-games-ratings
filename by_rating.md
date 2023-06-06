@@ -107,7 +107,7 @@
 | 102 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,067 | 132 |
 | 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 912 | 142 |
 | 107 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 0 | 493 |
-| 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,051 | 89 |
+| 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,067 | 89 |
 | 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 5,475 | 60 |
 | 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 19,619 | 18 |
 | 107 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 493 |
@@ -129,7 +129,7 @@
 | 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,655 | 111 |
 | 118 | [Quake](games/q/quake.md) | 4.76 | 45 | 404 |
 | 118 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 493 |
-| 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,454 | 38 |
+| 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,473 | 38 |
 | 118 | [Star Atlas](games/s/star_atlas.md) | 4.76 | 0 | 493 |
 | 118 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 493 |
 | 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 41 | 410 |
@@ -161,7 +161,7 @@
 | 159 | [Haven](games/h/haven.md) | 4.73 | 0 | 493 |
 | 159 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 292 |
 | 159 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 493 |
-| 159 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 224 | 249 |
+| 159 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 225 | 249 |
 | 159 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 493 |
 | 159 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 314 | 225 |
 | 159 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 493 |
@@ -198,7 +198,7 @@
 | 196 | [Barony](games/b/barony.md) | 4.70 | 72 | 361 |
 | 196 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,531 | 68 |
 | 196 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 493 |
-| 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 356 | 211 |
+| 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 357 | 211 |
 | 196 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,326 | 70 |
 | 196 | [For The King](games/f/for_the_king.md) | 4.70 | 366 | 210 |
 | 196 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 493 |
@@ -296,7 +296,7 @@
 | 280 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 459 | 191 |
 | 280 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 493 |
 | 296 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 493 |
-| 296 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,635 | 66 |
+| 296 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,642 | 66 |
 | 296 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 166 | 281 |
 | 296 | [Deceive Inc.](games/d/deceive_inc..md) | 4.65 | 0 | 493 |
 | 296 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 324 | 220 |
@@ -351,7 +351,7 @@
 | 347 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 273 | 235 |
 | 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 431 |
 | 347 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,297 | 121 |
-| 347 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 356 | 211 |
+| 347 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 356 | 212 |
 | 347 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 541 | 179 |
 | 347 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 589 | 170 |
 | 347 | [NORCO](games/n/norco.md) | 4.62 | 0 | 493 |
@@ -765,7 +765,7 @@
 | 757 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 0 | 493 |
 | 764 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 493 |
 | 764 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 0 | 493 |
-| 764 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,382,996 | 1 |
+| 764 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,385,327 | 1 |
 | 764 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 493 |
 | 764 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 493 |
 | 764 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 493 |
