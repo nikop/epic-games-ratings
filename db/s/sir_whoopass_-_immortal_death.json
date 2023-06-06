@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -336,9 +336,9 @@
       "ID": "BILLY_BOB_1",
       "SetID": "9gfkh7c",
       "Name": "You are no match for me, Billy!",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "BILLY_GOAT_1",
@@ -784,9 +784,9 @@
       "ID": "KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "You can\u0027t stop me, bro!",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVELUP_1",
@@ -832,9 +832,9 @@
       "ID": "METAL_BARS_SWA",
       "SetID": "9gfkh7c",
       "Name": "Haemochromatosis",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "MOUNT_1",
@@ -960,9 +960,9 @@
       "ID": "WHOOPASS_1",
       "SetID": "9gfkh7c",
       "Name": "Pasta Bolognese",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "WORM_1",
@@ -983,8 +983,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-06-06T02:28:16.4441779+00:00",
+  "LastChanged_Achievements": "2023-06-06T03:21:28.0784007+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:09.8520018+00:00",
-  "LastUpdate_Ratings": "2023-06-06T02:19:37.6207815+00:00",
-  "LastUpdate_Achievements": "2023-06-06T02:28:16.4442704+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:12:15.8911683+00:00",
+  "LastUpdate_Achievements": "2023-06-06T03:21:28.0785389+00:00"
 }

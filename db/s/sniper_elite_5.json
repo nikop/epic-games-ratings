@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2311,
+  "EOS_Progressed": 2312,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 461,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2631,6 +2631,11 @@
       "Time": "2023-06-06T02:28:12.3100484+00:00",
       "NumProgressed": 2311,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-06T03:21:23.0132328+00:00",
+      "NumProgressed": 2312,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2810,7 +2815,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2850,7 +2855,7 @@
       "Name": "Lord of War",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3209,13 +3214,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2262,
+      "Progressed": 2263,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2311,
+      "Progressed": 2312,
       "Completed": 2
     }
   ],
@@ -3223,8 +3228,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-06T02:28:12.3100477+00:00",
+  "LastChanged_Achievements": "2023-06-06T03:21:23.013232+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-06T02:22:33.29375+00:00",
-  "LastUpdate_Achievements": "2023-06-06T02:28:12.3101271+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:16:03.5301069+00:00",
+  "LastUpdate_Achievements": "2023-06-06T03:21:23.0133692+00:00"
 }

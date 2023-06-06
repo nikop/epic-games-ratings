@@ -15,12 +15,12 @@
 | Nanonic II | 37.00% | ~33 |
 | Challenge Mastered | 34.00% | ~31 |
 | The City | 28.00% | ~25 |
+| Supply Run | 26.00% | ~23 |
 | Up Close And Personal | 26.00% | ~23 |
-| Supply Run | 24.00% | ~22 |
 | The Bigger They Are | 17.00% | ~15 |
 | Starship Docks | 17.00% | ~15 |
 | Nanonic III | 17.00% | ~15 |
-| Cybernetic | 11.00% | ~10 |
+| Cybernetic | 12.00% | ~11 |
 | Fully Modded | 10.00% | ~9 |
 | Eden Heights | 9.00% | ~8 |
 | Ripperdoc | 6.00% | ~5 |

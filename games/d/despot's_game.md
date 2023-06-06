@@ -13,12 +13,12 @@ Rating: 4.50 (Ranked 545)
 | No Mercy | 41.00% | ~161 |
 | The Return of a Rat | 40.00% | ~157 |
 | Through the Darkness | 40.00% | ~157 |
-| Fat of the Earth | 33.00% | ~130 |
+| Fat of the Earth | 34.00% | ~134 |
 | Last Man Standing | 32.00% | ~126 |
 | Catch Jonathan_tostar | 26.00% | ~102 |
+| Great Hero | 26.00% | ~102 |
 | Campaigning | 25.00% | ~98 |
 | He's Seen It All | 25.00% | ~98 |
-| Great Hero | 25.00% | ~98 |
 | Rookie | 25.00% | ~98 |
 | Assemble a Meganewbie | 24.00% | ~94 |
 | Frugal | 21.00% | ~83 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -1492,9 +1492,9 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 529
+      "UsersEstimate": 545
     }
   ],
   "AchievementSets": [
@@ -1515,8 +1515,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-06T02:22:42.7417359+00:00",
+  "LastChanged_Achievements": "2023-06-06T03:16:18.4123114+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-06T02:20:43.0793219+00:00",
-  "LastUpdate_Achievements": "2023-06-06T02:22:42.7417876+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:13:37.8568717+00:00",
+  "LastUpdate_Achievements": "2023-06-06T03:16:18.412364+00:00"
 }

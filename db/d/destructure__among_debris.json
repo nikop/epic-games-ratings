@@ -4,8 +4,8 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 124,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -755,9 +755,9 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "scrap_collector",
@@ -844,8 +844,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-06T02:22:54.1808522+00:00",
+  "LastChanged_Achievements": "2023-06-06T03:16:32.6227744+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:23.8350057+00:00",
-  "LastUpdate_Ratings": "2023-06-06T02:22:02.9260337+00:00",
-  "LastUpdate_Achievements": "2023-06-06T02:22:54.1808827+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:15:24.505584+00:00",
+  "LastUpdate_Achievements": "2023-06-06T03:16:32.6228192+00:00"
 }

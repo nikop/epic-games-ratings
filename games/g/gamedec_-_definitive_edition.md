@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,446 |
-| Powergamer | 27.00% | ~62,144 |
-| Barely scratched the surface | 25.00% | ~57,541 |
-| Write that down | 24.00% | ~55,239 |
+| I will finish what you started | 28.00% | ~64,448 |
+| Powergamer | 27.00% | ~62,146 |
+| Barely scratched the surface | 25.00% | ~57,542 |
+| Write that down | 24.00% | ~55,241 |
 | Guns, lots of guns | 12.00% | ~27,620 |
-| Collector | 11.00% | ~25,318 |
-| Elementary! | 8.00% | ~18,413 |
-| Pumpkin Jack | 8.00% | ~18,413 |
-| Wake up! | 8.00% | ~18,413 |
-| It's honest work | 7.00% | ~16,111 |
-| Griever | 7.00% | ~16,111 |
+| Collector | 11.00% | ~25,319 |
+| Elementary! | 8.00% | ~18,414 |
+| Pumpkin Jack | 8.00% | ~18,414 |
+| Wake up! | 8.00% | ~18,414 |
+| It's honest work | 7.00% | ~16,112 |
+| Griever | 7.00% | ~16,112 |
 | Me smart | 6.00% | ~13,810 |
 | Good listener | 5.00% | ~11,508 |
 | Trash compactor | 5.00% | ~11,508 |
@@ -41,8 +41,8 @@ Number of Ratings: 33  (23.09.2022)
 | Random encounter | 1.00% | ~2,302 |
 | SysOp on duty | 1.00% | ~2,302 |
 | Take the blue pill | 1.00% | ~2,302 |
-| A true blacksmith | 0.90% | ~2,071 |
-| The power of three | 0.90% | ~2,071 |
+| A true blacksmith | 0.90% | ~2,072 |
+| The power of three | 0.90% | ~2,072 |
 | Let's try another | 0.80% | ~1,841 |
 | Home run | 0.80% | ~1,841 |
 | I have the high ground | 0.70% | ~1,611 |
@@ -51,15 +51,15 @@ Number of Ratings: 33  (23.09.2022)
 | Enjoy these little moments | 0.40% | ~921 |
 | Irondec | 0.40% | ~921 |
 | Un-bear-able | 0.40% | ~921 |
-| LET ME OUT! | 0.30% | ~690 |
-| Well-deserved reunion | 0.30% | ~690 |
+| LET ME OUT! | 0.30% | ~691 |
+| Well-deserved reunion | 0.30% | ~691 |
 | Breaking the chains | 0.20% | ~460 |
 | Aren't you overthinking? | 0.20% | ~460 |
 | Take the red pill | 0.20% | ~460 |
 | This is the way | 0.20% | ~460 |
 | Memory 5 | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,163 (Ranked 44)  
+Progressed: 230,170 (Ranked 44)  
 Completed: 5 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 5 (0.00%) (Ranked 212)
 | 2023-06-03 | 229,712 | 5 |
 | 2023-06-04 | 229,951 | 5 |
 | 2023-06-05 | 230,145 | 5 |
-| 2023-06-06 | 230,163 | 5 |
+| 2023-06-06 | 230,170 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 360)  
 Sum: 73 (Ranked 419)  

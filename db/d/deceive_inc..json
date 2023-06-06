@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -148,7 +148,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6604,
+  "EOS_Progressed": 6605,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
@@ -3738,6 +3738,11 @@
       "Time": "2023-06-06T02:28:19.163495+00:00",
       "NumProgressed": 6604,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T03:21:31.3019437+00:00",
+      "NumProgressed": 6605,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3805,7 +3810,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "0009",
@@ -3837,7 +3842,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "0013",
@@ -3853,7 +3858,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "0015",
@@ -4036,7 +4041,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6604,
+      "Progressed": 6605,
       "Completed": 0
     }
   ],
@@ -4044,8 +4049,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-06-06T02:28:19.1634943+00:00",
+  "LastChanged_Achievements": "2023-06-06T03:21:31.3019428+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:04.3175816+00:00",
-  "LastUpdate_Ratings": "2023-06-06T02:21:47.1571366+00:00",
-  "LastUpdate_Achievements": "2023-06-06T02:28:19.163568+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:15:06.7897974+00:00",
+  "LastUpdate_Achievements": "2023-06-06T03:21:31.302024+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -545,9 +545,9 @@
       "ID": "secret51",
       "SetID": "39f6ck8",
       "Name": "Fire Beacon",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "secret52",
@@ -561,9 +561,9 @@
       "ID": "secret53",
       "SetID": "39f6ck8",
       "Name": "Octopy Mayhem",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "secret6",
@@ -610,8 +610,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-06-06T02:28:24.3328293+00:00",
+  "LastChanged_Achievements": "2023-06-06T03:21:37.4342145+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.0217404+00:00",
-  "LastUpdate_Ratings": "2023-06-06T02:22:03.4456087+00:00",
-  "LastUpdate_Achievements": "2023-06-06T02:28:24.3328943+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:15:25.1649714+00:00",
+  "LastUpdate_Achievements": "2023-06-06T03:21:37.4342992+00:00"
 }

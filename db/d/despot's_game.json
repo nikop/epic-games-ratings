@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -331,9 +331,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 134
     },
     {
       "ID": "finished-quest-cube",
@@ -467,9 +467,9 @@
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 102
     },
     {
       "ID": "win-first-biom",
@@ -548,8 +548,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-06T02:28:14.9404286+00:00",
+  "LastChanged_Achievements": "2023-06-06T03:21:26.3161125+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.398253+00:00",
-  "LastUpdate_Ratings": "2023-06-06T02:20:59.7857123+00:00",
-  "LastUpdate_Achievements": "2023-06-06T02:28:14.9404557+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:14:02.6324445+00:00",
+  "LastUpdate_Achievements": "2023-06-06T03:21:26.3161504+00:00"
 }

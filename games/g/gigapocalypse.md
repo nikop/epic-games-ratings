@@ -37,7 +37,7 @@
 | Immortal Skin | 22.00% | ~31 |
 | Loyal Companion | 22.00% | ~31 |
 | Back To The Future | 21.00% | ~29 |
-| Fire Beacon | 20.00% | ~28 |
+| Fire Beacon | 21.00% | ~29 |
 | Lunch Before The Lunch | 19.00% | ~27 |
 | Building Blocks | 17.00% | ~24 |
 | From Here To Eternity | 16.00% | ~22 |
@@ -52,9 +52,9 @@
 | A Phony Clown | 4.00% | ~6 |
 | Unlucky Luke | 4.00% | ~6 |
 | Cheesy Chess | 4.00% | ~6 |
+| Octopy Mayhem | 4.00% | ~6 |
 | Got'em Totem | 4.00% | ~6 |
 | Duck Knight | 3.00% | ~4 |
-| Octopy Mayhem | 3.00% | ~4 |
 | Destroy Everything | 0.70% | ~1 |
 | Hearty Meteor | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)

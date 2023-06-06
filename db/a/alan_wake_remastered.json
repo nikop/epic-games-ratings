@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 52357,
+  "EOS_Progressed": 52360,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 2208,
+  "EOS_NewPlayers": 2203,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3876,6 +3876,11 @@
       "Time": "2023-06-06T02:28:12.88492+00:00",
       "NumProgressed": 52357,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-06-06T03:21:23.6706711+00:00",
+      "NumProgressed": 52360,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 67,
@@ -3887,7 +3892,7 @@
       "Name": "Follow the Light",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 14660
+      "UsersEstimate": 14661
     },
     {
       "ID": "02",
@@ -4079,7 +4084,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "26",
@@ -4127,7 +4132,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5759
+      "UsersEstimate": 5760
     },
     {
       "ID": "32",
@@ -4159,7 +4164,7 @@
       "Name": "Let There Be Light",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 12042
+      "UsersEstimate": 12043
     },
     {
       "ID": "36",
@@ -4199,7 +4204,7 @@
       "Name": "Right of Way",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "41",
@@ -4207,7 +4212,7 @@
       "Name": "Finders Keepers",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5759
+      "UsersEstimate": 5760
     },
     {
       "ID": "42",
@@ -4383,7 +4388,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "64",
@@ -4422,21 +4427,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 52357,
+      "Progressed": 52360,
       "Completed": 49
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 15825,
+      "Progressed": 15828,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-06-06T02:28:12.8849195+00:00",
+  "LastChanged_Achievements": "2023-06-06T03:21:23.6706704+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:48.7333402+00:00",
-  "LastUpdate_Ratings": "2023-06-06T02:20:04.9135064+00:00",
-  "LastUpdate_Achievements": "2023-06-06T02:28:12.8850273+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:12:50.6314777+00:00",
+  "LastUpdate_Achievements": "2023-06-06T03:21:23.6708432+00:00"
 }

@@ -7,9 +7,9 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 10.00% | ~17,442 |
-| Thorough | 9.00% | ~15,697 |
-| A thief's beginning | 8.00% | ~13,953 |
-| Tanuki Time | 7.00% | ~12,209 |
+| Thorough | 9.00% | ~15,698 |
+| A thief's beginning | 8.00% | ~13,954 |
+| Tanuki Time | 7.00% | ~12,210 |
 | Disguised | 6.00% | ~10,465 |
 | Jonin | 6.00% | ~10,465 |
 | Rescue Takuma | 6.00% | ~10,465 |
@@ -25,11 +25,11 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 4.00% | ~6,977 |
 | Prisoners | 4.00% | ~6,977 |
 | Too Early | 4.00% | ~6,977 |
-| Gear up | 3.00% | ~5,232 |
-| Happy little accidents | 3.00% | ~5,232 |
-| Noboru | 3.00% | ~5,232 |
-| Still Rollin' | 3.00% | ~5,232 |
-| Stoned | 3.00% | ~5,232 |
+| Gear up | 3.00% | ~5,233 |
+| Happy little accidents | 3.00% | ~5,233 |
+| Noboru | 3.00% | ~5,233 |
+| Still Rollin' | 3.00% | ~5,233 |
+| Stoned | 3.00% | ~5,233 |
 | Atheist Ox | 2.00% | ~3,488 |
 | It's raining men | 2.00% | ~3,488 |
 | The Old Way | 2.00% | ~3,488 |
@@ -41,7 +41,7 @@ Number of Ratings: 495  (23.09.2022)
 | Undeserved Honor | 0.90% | ~1,570 |
 | When Cut Across the Neck | 0.80% | ~1,395 |
 | High Five the Moon | 0.70% | ~1,221 |
-| The Cave | 0.60% | ~1,046 |
+| The Cave | 0.60% | ~1,047 |
 | Merciful | 0.40% | ~698 |
 | Time Paradox | 0.40% | ~698 |
 | Five Shadows | 0.30% | ~523 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~174 |
 | Release the Kraken | 0.10% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174,415 (Ranked 55)  
+Progressed: 174,424 (Ranked 55)  
 Completed: 51 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 51 (0.03%) (Ranked 190)
 | 2023-06-03 | 173,762 | 48 |
 | 2023-06-04 | 174,124 | 49 |
 | 2023-06-05 | 174,394 | 51 |
-| 2023-06-06 | 174,415 | 51 |
+| 2023-06-06 | 174,424 | 51 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 177)  
 Sum: 4,677 (Ranked 126)  

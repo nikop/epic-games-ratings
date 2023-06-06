@@ -8,23 +8,23 @@ Rating: 4.89 (Ranked 13)
 | Start with a bang! | 80.00% | ~2,226 |
 | Feeling the beat! | 80.00% | ~2,226 |
 | You can pet the cat! | 74.00% | ~2,059 |
-| Who put gears in there? | 67.00% | ~1,864 |
+| Who put gears in there? | 67.00% | ~1,865 |
 | Cream of the Crop | 63.00% | ~1,753 |
 | Thanks for the free chip, Peppermint! | 62.00% | ~1,725 |
 | You got this, Peppermint? | 57.00% | ~1,586 |
-| Perfect Parry | 54.00% | ~1,502 |
-| Alright, that felt AWESOME! | 54.00% | ~1,502 |
-| I play my own way! | 50.00% | ~1,391 |
+| Perfect Parry | 54.00% | ~1,503 |
+| Alright, that felt AWESOME! | 54.00% | ~1,503 |
+| I play my own way! | 50.00% | ~1,392 |
 | This will cost you big time | 47.00% | ~1,308 |
 | Uh, they were broken when I got here | 46.00% | ~1,280 |
 | Z-shielding's got nothing on us! | 45.00% | ~1,252 |
-| Kissing the sky! | 43.00% | ~1,196 |
+| Kissing the sky! | 43.00% | ~1,197 |
 | Does that say weakpoint? | 41.00% | ~1,141 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,113 |
-| The Negotiator | 38.00% | ~1,057 |
+| The Negotiator | 38.00% | ~1,058 |
 | You must like calling me in, Chai | 33.00% | ~918 |
 | Out in a puff of smoke | 33.00% | ~918 |
-| Headliner | 32.00% | ~890 |
+| Headliner | 32.00% | ~891 |
 | Time to pay up! | 30.00% | ~835 |
 | Perfecter Parry-er! | 29.00% | ~807 |
 | Who's the boss now? | 28.00% | ~779 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.30% | ~8 |
 | What a journey it was... | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,782 (Ranked 141)  
+Progressed: 2,783 (Ranked 141)  
 Completed: 4 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 4 (0.14%) (Ranked 156)
 | 2023-06-03 | 2,658 | 4 |
 | 2023-06-04 | 2,729 | 4 |
 | 2023-06-05 | 2,778 | 4 |
-| 2023-06-06 | 2,782 | 4 |
+| 2023-06-06 | 2,783 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

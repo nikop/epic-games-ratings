@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1480,10 +1480,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2148,
       "NumberOfAwardsMax": 294
+    },
+    {
+      "Time": "2023-06-06T03:14:48.967435+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2149,
+      "NumberOfAwardsMax": 294
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2148,
+  "NumberOfAwards": 2149,
   "NumberOfAwardsMax": 294,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1527,7 +1533,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 205
+      "Count": 206
     },
     {
       "Text": "This game is Educational",
@@ -1554,9 +1560,9 @@
       "Count": 205
     }
   ],
-  "EOS_Progressed": 19340,
+  "EOS_Progressed": 19342,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3789,6 +3795,11 @@
       "Time": "2023-06-06T02:28:09.839822+00:00",
       "NumProgressed": 19340,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-06T03:21:19.8857664+00:00",
+      "NumProgressed": 19342,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3848,7 +3859,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18180
+      "UsersEstimate": 18181
     },
     {
       "ID": "GameOver",
@@ -3912,7 +3923,7 @@
       "Name": "Just Enough",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3481
+      "UsersEstimate": 3482
     },
     {
       "ID": "Negotiator",
@@ -3952,7 +3963,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3481
+      "UsersEstimate": 3482
     },
     {
       "ID": "Strongman",
@@ -3960,7 +3971,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5995
+      "UsersEstimate": 5996
     },
     {
       "ID": "VeronicaLiptson",
@@ -3983,15 +3994,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19340,
+      "Progressed": 19342,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-06-05T02:20:32.1041182+00:00",
-  "LastChanged_Achievements": "2023-06-06T02:28:09.8398213+00:00",
+  "LastChanged": "2023-06-06T03:14:48.9674348+00:00",
+  "LastChanged_Achievements": "2023-06-06T03:21:19.8857656+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-06T02:21:35.3250745+00:00",
-  "LastUpdate_Achievements": "2023-06-06T02:28:09.8398738+00:00"
+  "LastUpdate_Ratings": "2023-06-06T03:14:48.9674358+00:00",
+  "LastUpdate_Achievements": "2023-06-06T03:21:19.8858177+00:00"
 }

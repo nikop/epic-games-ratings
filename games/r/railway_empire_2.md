@@ -6,32 +6,32 @@
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~669 |
 | A new Journey | 72.00% | ~660 |
-| Departure | 71.00% | ~650 |
-| From X to Y | 70.00% | ~641 |
-| Way of Iron | 69.00% | ~632 |
+| Departure | 71.00% | ~651 |
+| From X to Y | 70.00% | ~642 |
+| Way of Iron | 69.00% | ~633 |
 | Mystery Tour | 66.00% | ~605 |
-| Brainstorm | 65.00% | ~595 |
-| We brake for nobody | 65.00% | ~595 |
-| Mind the Gap | 63.00% | ~577 |
-| Travel Company | 63.00% | ~577 |
+| We brake for nobody | 65.00% | ~596 |
+| Brainstorm | 64.00% | ~587 |
+| Mind the Gap | 63.00% | ~578 |
+| Travel Company | 63.00% | ~578 |
 | All around the World | 61.00% | ~559 |
 | Right through the middle | 55.00% | ~504 |
-| Poor Devil | 51.00% | ~467 |
+| Poor Devil | 51.00% | ~468 |
 | Facility Manager | 50.00% | ~458 |
-| Producer | 46.00% | ~421 |
+| Producer | 46.00% | ~422 |
 | Apprentice | 42.00% | ~385 |
 | Bridge Builder | 37.00% | ~339 |
-| Stoker | 34.00% | ~311 |
-| Access granted | 34.00% | ~311 |
+| Stoker | 34.00% | ~312 |
+| Access granted | 34.00% | ~312 |
 | Full Steam ahead | 29.00% | ~266 |
 | Going once, going twice, sold | 29.00% | ~266 |
-| Bull and bear | 27.00% | ~247 |
+| Bull and bear | 27.00% | ~248 |
 | Mole | 25.00% | ~229 |
 | All mine | 24.00% | ~220 |
 | Financial Shark | 23.00% | ~211 |
 | Socializer | 22.00% | ~202 |
-| Seven at one stroke | 21.00% | ~192 |
-| Hostile Takeover | 21.00% | ~192 |
+| Seven at one stroke | 21.00% | ~193 |
+| Hostile Takeover | 21.00% | ~193 |
 | General Manager | 20.00% | ~183 |
 | Country Life | 19.00% | ~174 |
 | Trailblazer | 18.00% | ~165 |
@@ -60,7 +60,7 @@
 | United States | 0.00% | ~0 |
 | Call of Duty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 916 (Ranked 180)  
+Progressed: 917 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,3 +83,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 812 | 0 |
 | 2023-06-04 | 880 | 0 |
 | 2023-06-05 | 916 | 0 |
+| 2023-06-06 | 917 | 0 |
