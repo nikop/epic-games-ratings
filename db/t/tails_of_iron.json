@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1609,
+  "EOS_Progressed": 1610,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1276,6 +1276,11 @@
       "Time": "2023-06-06T14:02:20.3396685+00:00",
       "NumProgressed": 1609,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-06T19:02:28.9411676+00:00",
+      "NumProgressed": 1610,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1287,7 +1292,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "Collect20Gold",
@@ -1311,7 +1316,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "CollectAllStatues",
@@ -1367,7 +1372,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1399,7 +1404,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1431,7 +1436,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "GetTHWeapon",
@@ -1455,7 +1460,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Kill25Mozi",
@@ -1503,7 +1508,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "RescueBrothers",
@@ -1511,7 +1516,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1526,22 +1531,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1609,
+      "Progressed": 1610,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 250,
-      "Completed": 250
+      "Progressed": 251,
+      "Completed": 251
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-05-28T02:10:46.8582534+00:00",
-  "LastChanged_Achievements": "2023-06-06T18:03:17.1697887+00:00",
+  "LastChanged_Achievements": "2023-06-06T19:02:28.9411671+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-06T17:59:35.6720933+00:00",
-  "LastUpdate_Achievements": "2023-06-06T18:03:17.1698186+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:58:31.784734+00:00",
+  "LastUpdate_Achievements": "2023-06-06T19:02:28.9411979+00:00"
 }

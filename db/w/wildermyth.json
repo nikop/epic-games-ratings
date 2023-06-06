@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1240,
+  "EOS_Progressed": 1241,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -755,6 +755,11 @@
       "Time": "2023-06-06T03:21:19.0681109+00:00",
       "NumProgressed": 1240,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-06T19:06:19.6227858+00:00",
+      "NumProgressed": 1241,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -782,7 +787,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -798,7 +803,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -830,7 +835,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -884,9 +889,9 @@
       "ID": "achievement_kill1000Monsters",
       "SetID": "95dc8p",
       "Name": "Peacemaker",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_kill1000Morthagi",
@@ -924,17 +929,17 @@
       "ID": "achievement_loseBattle",
       "SetID": "95dc8p",
       "Name": "This Too Shall Pass",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_loversVengeance10Kills",
       "SetID": "95dc8p",
       "Name": "How Romantic!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 298
     },
     {
       "ID": "achievement_maimedHero",
@@ -1070,7 +1075,7 @@
       "Name": "Core Failure",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1204,24 +1209,24 @@
       "ID": "ulstryx_killCalabyneInOneTurn",
       "SetID": "95dc8p",
       "Name": "No Time for Clawmonsters",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1240,
+      "Progressed": 1241,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-06T18:07:52.1195163+00:00",
+  "LastChanged_Achievements": "2023-06-06T19:06:19.6227853+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:06.7864894+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:02:25.3073436+00:00",
-  "LastUpdate_Achievements": "2023-06-06T18:07:52.1195791+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:00:51.6058789+00:00",
+  "LastUpdate_Achievements": "2023-06-06T19:06:19.6228306+00:00"
 }

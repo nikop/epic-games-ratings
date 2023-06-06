@@ -35,11 +35,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 0.70% | ~4,954 |
 | Deadly Venom | 0.60% | ~102 |
 | A Touch of Acumen | 0.60% | ~102 |
-| Muk Yan Master | 0.50% | ~3,538 |
-| Tiger on Fire | 0.50% | ~3,538 |
-| Source of Flying Daggers | 0.50% | ~3,538 |
-| Iron Money | 0.50% | ~3,538 |
-| Detective Story | 0.50% | ~3,538 |
+| Muk Yan Master | 0.50% | ~3,539 |
+| Tiger on Fire | 0.50% | ~3,539 |
+| Source of Flying Daggers | 0.50% | ~3,539 |
+| Iron Money | 0.50% | ~3,539 |
+| Detective Story | 0.50% | ~3,539 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,831 |
 | Prodigal Child | 0.40% | ~2,831 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,831 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,696 (Ranked 16)  
-Completed: 12,761 (1.80%) (Ranked 69)  
+Progressed: 707,704 (Ranked 16)  
+Completed: 12,763 (1.80%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 12,761 (1.80%) (Ranked 69)
 | 2023-06-03 | 707,194 | 12,754 |
 | 2023-06-04 | 707,419 | 12,757 |
 | 2023-06-05 | 707,566 | 12,758 |
-| 2023-06-06 | 707,696 | 12,761 |
+| 2023-06-06 | 707,704 | 12,763 |
 ## Awards
 Max (Great Boss Battles): 6,137  (Ranked 53)  
 Sum: 10,473 (Ranked 78)  

@@ -1149,9 +1149,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22062,
+  "EOS_Progressed": 22063,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3689,6 +3689,11 @@
       "Time": "2023-06-06T18:08:00.4418296+00:00",
       "NumProgressed": 22062,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-06T19:06:27.1481534+00:00",
+      "NumProgressed": 22063,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -3828,7 +3833,7 @@
       "Name": "Harvest and Home",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -3860,7 +3865,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -4011,21 +4016,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22062,
+      "Progressed": 22063,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 992,
+      "Progressed": 993,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-03T10:58:54.6277289+00:00",
-  "LastChanged_Achievements": "2023-06-06T18:08:00.4418291+00:00",
+  "LastChanged_Achievements": "2023-06-06T19:06:27.1481526+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:30.088855+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:00:35.3617346+00:00",
-  "LastUpdate_Achievements": "2023-06-06T18:08:00.4418756+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:59:20.1871111+00:00",
+  "LastUpdate_Achievements": "2023-06-06T19:06:27.1482057+00:00"
 }

@@ -116,17 +116,17 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 6,167 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 327)  
-Sum: 659 (Ranked 272)  
-Diff (max vs sum): 55  
+Sum: 661 (Ranked 270)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 99 |
 | This game has Amazing Storytelling | 84 |
 | This game is Great for Beginners | 84 |
 | This game is Relaxing | 80 |
-| This game has Quickly Understood Controls | 77 |
+| This game has Quickly Understood Controls | 78 |
 | This game is Highly Recommended | 67 |
-| This game has Diverse Characters | 66 |
+| This game has Diverse Characters | 67 |
 | This game has Amazing Characters | 62 |
 | This game has Obsessive Gameplay | 58 |
 | This game has a Creative Community | 40 |
@@ -220,3 +220,4 @@ Diff (max vs sum): 55
 | 2023-05-30 | 4.47 | - | 99 | 656 |
 | 2023-06-03 | 4.47 | - | 99 | 657 |
 | 2023-06-05 | 4.47 | - | 99 | 659 |
+| 2023-06-06 | 4.47 | - | 99 | 661 |

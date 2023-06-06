@@ -33,10 +33,10 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 29.00% | ~7 |
 | Team Building Exercise | 29.00% | ~7 |
 | The Famous Dungeon of Naheulbeuk | 25.00% | ~6 |
+| The Great Library | 21.00% | ~5 |
 | Torture and Sensibility | 21.00% | ~5 |
 | The beards of change | 21.00% | ~5 |
 | Cursed die | 17.00% | ~4 |
-| The Great Library | 17.00% | ~4 |
 | Urik's Depths | 17.00% | ~4 |
 | He’s alive! Aliiiive! | 17.00% | ~4 |
 | Law and Order | 17.00% | ~4 |

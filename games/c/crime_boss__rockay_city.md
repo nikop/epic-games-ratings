@@ -5,27 +5,27 @@ Rating: 3.93 (Ranked 911)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~48,277 |
-| First One’s Free | 65.00% | ~42,405 |
-| Neophyte Ninja | 50.00% | ~32,620 |
-| Too Old for This | 47.00% | ~30,662 |
-| Fancy Pants | 35.00% | ~22,834 |
-| Case Closed | 34.00% | ~22,181 |
-| King of the Hill | 34.00% | ~22,181 |
-| Underworld Initiate | 29.00% | ~18,919 |
-| Roid Ranger | 21.00% | ~13,700 |
-| True Player | 19.00% | ~12,395 |
-| Off the Rocks | 19.00% | ~12,395 |
-| Raider’s Ruin | 16.00% | ~10,438 |
-| Dragonslayer | 16.00% | ~10,438 |
-| Hidden Sonata | 13.00% | ~8,481 |
-| Rockay Rex | 11.00% | ~7,176 |
-| Freebooter | 10.00% | ~6,524 |
-| Classy Joint | 10.00% | ~6,524 |
+| Downed but Not Outed | 74.00% | ~48,283 |
+| First One’s Free | 65.00% | ~42,411 |
+| Neophyte Ninja | 50.00% | ~32,624 |
+| Too Old for This | 47.00% | ~30,666 |
+| Fancy Pants | 35.00% | ~22,836 |
+| Case Closed | 34.00% | ~22,184 |
+| King of the Hill | 34.00% | ~22,184 |
+| Underworld Initiate | 29.00% | ~18,922 |
+| Roid Ranger | 21.00% | ~13,702 |
+| True Player | 19.00% | ~12,397 |
+| Off the Rocks | 19.00% | ~12,397 |
+| Raider’s Ruin | 16.00% | ~10,440 |
+| Dragonslayer | 16.00% | ~10,440 |
+| Hidden Sonata | 13.00% | ~8,482 |
+| Rockay Rex | 11.00% | ~7,177 |
+| Freebooter | 10.00% | ~6,525 |
+| Classy Joint | 10.00% | ~6,525 |
 | Track Star | 9.00% | ~5,872 |
-| I Like Trains | 8.00% | ~5,219 |
-| Headhunter | 8.00% | ~5,219 |
-| Ding Dong | 8.00% | ~5,219 |
+| I Like Trains | 8.00% | ~5,220 |
+| Headhunter | 8.00% | ~5,220 |
+| Ding Dong | 8.00% | ~5,220 |
 | Foo Finder | 7.00% | ~4,567 |
 | Legend Looter | 5.00% | ~3,262 |
 | Savvy Seeker | 5.00% | ~3,262 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 911)
 | Geek Out | 0.50% | ~326 |
 | Full House | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,239 (Ranked 68)  
+Progressed: 65,247 (Ranked 68)  
 Completed: 31 (0.05%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 31 (0.05%) (Ranked 182)
 | 2023-06-03 | 64,787 | 31 |
 | 2023-06-04 | 65,003 | 31 |
 | 2023-06-05 | 65,132 | 31 |
-| 2023-06-06 | 65,239 | 31 |
+| 2023-06-06 | 65,247 | 31 |
 ## Awards
 Max (Diverse Characters): 318  (Ranked 223)  
 Sum: 1,496 (Ranked 211)  

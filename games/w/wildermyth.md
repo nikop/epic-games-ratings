@@ -7,18 +7,18 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 34.00% | ~422 |
-| Me and My Familiar | 31.00% | ~384 |
-| This Too Shall Pass | 26.00% | ~322 |
+| Me and My Familiar | 31.00% | ~385 |
+| This Too Shall Pass | 27.00% | ~335 |
 | Passing Shadow | 25.00% | ~310 |
 | Cutthroat Competitors | 25.00% | ~310 |
-| How Romantic! | 23.00% | ~285 |
+| How Romantic! | 24.00% | ~298 |
 | Daybreak | 23.00% | ~285 |
-| Gotta Ca... Must Collect All of Them | 21.00% | ~260 |
+| Gotta Ca... Must Collect All of Them | 21.00% | ~261 |
 | Completing the Look | 12.00% | ~149 |
 | Who's Counting? | 12.00% | ~149 |
 | War Endured | 12.00% | ~149 |
-| A Mythic Menagerie | 11.00% | ~136 |
-| Core Failure | 11.00% | ~136 |
+| A Mythic Menagerie | 11.00% | ~137 |
+| Core Failure | 11.00% | ~137 |
 | Pyrrhic Victory | 9.00% | ~112 |
 | Thematic Divergence | 8.00% | ~99 |
 | Echoes Die | 8.00% | ~99 |
@@ -35,6 +35,7 @@ Number of Ratings: 45  (23.09.2022)
 | Worldwalker | 4.00% | ~50 |
 | Legends Never Die | 4.00% | ~50 |
 | A Hunger, Sated | 4.00% | ~50 |
+| No Time for Clawmonsters | 4.00% | ~50 |
 | We Emerge Changed | 3.00% | ~37 |
 | Storied Past | 3.00% | ~37 |
 | No More Nightmares | 3.00% | ~37 |
@@ -42,7 +43,6 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 3.00% | ~37 |
 | Into Mulch | 3.00% | ~37 |
 | Astrology | 3.00% | ~37 |
-| No Time for Clawmonsters | 3.00% | ~37 |
 | The Power of Friendship | 2.00% | ~25 |
 | Empty the Caves | 2.00% | ~25 |
 | Drauvenslayers | 2.00% | ~25 |
@@ -60,10 +60,10 @@ Number of Ratings: 45  (23.09.2022)
 | A Temperamental Shrub | 1.00% | ~12 |
 | A Lowly Crust of Beef | 0.90% | ~11 |
 | Overwhelming Monstrosity | 0.60% | ~7 |
+| Peacemaker | 0.50% | ~6 |
 | We Call That Mortificient! | 0.50% | ~6 |
-| Peacemaker | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,240 (Ranked 163)  
+Progressed: 1,241 (Ranked 163)  
 Completed: 4 (0.32%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 4 (0.32%) (Ranked 125)
 | 2023-06-03 | 1,238 | 3 |
 | 2023-06-04 | 1,238 | 4 |
 | 2023-06-05 | 1,239 | 4 |
-| 2023-06-06 | 1,240 | 4 |
+| 2023-06-06 | 1,241 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 458)  
 Sum: 27 (Ranked 468)  

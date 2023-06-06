@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146,
+  "EOS_Progressed": 147,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -127,6 +127,11 @@
       "Time": "2023-06-05T17:05:24.3381713+00:00",
       "NumProgressed": 146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T19:04:50.7087297+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -136,9 +141,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "axe_of_kindness",
@@ -176,9 +181,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "dodgy_geezer",
@@ -194,7 +199,7 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "easy_listening",
@@ -322,7 +327,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "scholar",
@@ -346,7 +351,7 @@
       "Name": "Smooth Operator",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "the_long_night",
@@ -377,7 +382,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 0
     }
   ],
@@ -385,8 +390,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-06-06T18:06:01.5555562+00:00",
+  "LastChanged_Achievements": "2023-06-06T19:04:50.7087292+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:31.6745005+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:00:37.5051027+00:00",
-  "LastUpdate_Achievements": "2023-06-06T18:06:01.5555853+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:59:21.771053+00:00",
+  "LastUpdate_Achievements": "2023-06-06T19:04:50.7087739+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Terror of Hemasaurus",
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_Completed": 41,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54,
+  "EOS_Progressed": 55,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.7,
+  "EOS_Completed_Percentage": 3.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:56.8436927+00:00",
@@ -142,6 +142,11 @@
       "Time": "2023-06-06T17:01:07.5927715+00:00",
       "NumProgressed": 54,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-06T19:01:03.3941967+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -153,13 +158,13 @@
       "Name": "Terror Rising",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_100_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Crushing All Cars",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -191,7 +196,7 @@
       "ID": "ACH_10_SHEPHERDS_KILLED",
       "SetID": "aio76gp",
       "Name": "Test of Faith",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 30,
       "UsersEstimate": 21
     },
@@ -207,7 +212,7 @@
       "ID": "ACH_20000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Holy Terror",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
       "UsersEstimate": 3
     },
@@ -215,15 +220,15 @@
       "ID": "ACH_20_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Jalopy Poppy",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_20_MIDAIR_COLLISIONS",
       "SetID": "aio76gp",
       "Name": "Midair Affair",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -247,9 +252,9 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_40_STAGES_ENDLESS",
@@ -279,9 +284,9 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_50_MILITARY_CARS",
@@ -295,7 +300,7 @@
       "ID": "ACH_50_MILITARY_HELICOPTERS",
       "SetID": "aio76gp",
       "Name": "Plight of the Valkyrie",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -351,9 +356,9 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_KILL_300_ENEMIES",
@@ -367,7 +372,7 @@
       "ID": "ACH_STORY_MODE",
       "SetID": "aio76gp",
       "Name": "Trash the Planet.",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -392,7 +397,7 @@
     {
       "ID": "aio76gp",
       "IsBase": true,
-      "Progressed": 54,
+      "Progressed": 55,
       "Completed": 2
     }
   ],
@@ -400,8 +405,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-06-06T18:02:36.6562482+00:00",
+  "LastChanged_Achievements": "2023-06-06T19:01:03.394196+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:38.3518992+00:00",
-  "LastUpdate_Ratings": "2023-06-06T17:59:37.6971251+00:00",
-  "LastUpdate_Achievements": "2023-06-06T18:02:36.6562773+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:58:33.3801248+00:00",
+  "LastUpdate_Achievements": "2023-06-06T19:01:03.3942247+00:00"
 }

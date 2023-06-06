@@ -2,12 +2,12 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "ProductSlug": "core",
-  "Ranking_Rating": 717,
+  "Ranking_Rating": 708,
   "Ranking_Popularity": 153,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR, CN"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.37,
   "NumberOfRatings": 1439,
   "RatingHistory": [
     {
@@ -1695,18 +1695,24 @@
       "Rating": 4.36,
       "NumberOfAwards": 1916,
       "NumberOfAwardsMax": 734
+    },
+    {
+      "Time": "2023-06-06T18:59:16.4292869+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 1917,
+      "NumberOfAwardsMax": 735
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1916,
-  "NumberOfAwardsMax": 734,
+  "NumberOfAwards": 1917,
+  "NumberOfAwardsMax": 735,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 734
+      "Count": 735
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1792,8 +1798,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2023-06-04T23:59:08.7440176+00:00",
+  "LastChanged": "2023-06-06T18:59:16.4292867+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:25.4252778+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:00:30.6958479+00:00",
-  "LastUpdate_Achievements": "2023-06-06T18:06:27.3625252+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:59:16.4292873+00:00",
+  "LastUpdate_Achievements": "2023-06-06T19:05:12.0548112+00:00"
 }

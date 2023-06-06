@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2332,
+  "EOS_Progressed": 2334,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2691,6 +2691,11 @@
       "Time": "2023-06-06T18:07:56.6998154+00:00",
       "NumProgressed": 2332,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-06T19:06:23.7396332+00:00",
+      "NumProgressed": 2334,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2948,9 +2953,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 420
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3060,9 +3065,9 @@
       "ID": "REWARD_67_NO_ASSISTANCE",
       "SetID": "bm6el81",
       "Name": "Don\u0027t hold your breath",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -3269,13 +3274,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2283,
+      "Progressed": 2285,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2332,
+      "Progressed": 2334,
       "Completed": 2
     }
   ],
@@ -3283,8 +3288,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-06T18:07:56.6998151+00:00",
+  "LastChanged_Achievements": "2023-06-06T19:06:23.7396326+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:02:19.0027938+00:00",
-  "LastUpdate_Achievements": "2023-06-06T18:07:56.6998961+00:00"
+  "LastUpdate_Ratings": "2023-06-06T19:00:46.552553+00:00",
+  "LastUpdate_Achievements": "2023-06-06T19:06:23.7397669+00:00"
 }

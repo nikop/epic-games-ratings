@@ -2,9 +2,9 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -227,6 +227,11 @@
     {
       "Time": "2023-06-05T22:06:20.9983385+00:00",
       "NumProgressed": 91,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T19:06:31.1173075+00:00",
+      "NumProgressed": 92,
       "NumCompleted": 0
     }
   ],
@@ -789,7 +794,7 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -855,7 +860,7 @@
       "Name": "A Second Chance",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1030,7 +1035,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 0
     }
   ],
@@ -1038,8 +1043,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-06-06T18:08:05.0656628+00:00",
+  "LastChanged_Achievements": "2023-06-06T19:06:31.1173069+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:04.378109+00:00",
-  "LastUpdate_Ratings": "2023-06-06T18:00:08.7250264+00:00",
-  "LastUpdate_Achievements": "2023-06-06T18:08:05.0658173+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:58:57.7615272+00:00",
+  "LastUpdate_Achievements": "2023-06-06T19:06:31.1174426+00:00"
 }

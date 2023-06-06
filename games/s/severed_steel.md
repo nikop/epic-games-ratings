@@ -5,18 +5,18 @@ Rating: 4.68 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 12.00% | ~49,531 |
-| 50 HEADSHOTS | 11.00% | ~45,404 |
-| SCIENCE AND INDUSTRY | 9.00% | ~37,148 |
-| FINISHED CHAPTER 1 | 8.00% | ~33,021 |
-| 200 HEADSHOTS | 7.00% | ~28,893 |
+| 100 KILLS | 12.00% | ~49,533 |
+| 50 HEADSHOTS | 11.00% | ~45,405 |
+| SCIENCE AND INDUSTRY | 9.00% | ~37,149 |
+| FINISHED CHAPTER 1 | 8.00% | ~33,022 |
+| 200 HEADSHOTS | 7.00% | ~28,894 |
 | FINISHED CHAPTER 2 | 6.00% | ~24,766 |
-| FINISHED CHAPTER 3 | 5.00% | ~20,638 |
-| FINISHED CHAPTER 4 | 5.00% | ~20,638 |
-| 1000 KILLS | 4.00% | ~16,510 |
-| FINISH CHAPTER 5 | 4.00% | ~16,510 |
-| FINISH CHAPTER 6 | 4.00% | ~16,510 |
-| CATHARTIC ESCAPISM | 4.00% | ~16,510 |
+| FINISHED CHAPTER 3 | 5.00% | ~20,639 |
+| FINISHED CHAPTER 4 | 5.00% | ~20,639 |
+| 1000 KILLS | 4.00% | ~16,511 |
+| FINISH CHAPTER 5 | 4.00% | ~16,511 |
+| FINISH CHAPTER 6 | 4.00% | ~16,511 |
+| CATHARTIC ESCAPISM | 4.00% | ~16,511 |
 | FIREFIGHT LEVEL 10 | 2.00% | ~8,255 |
 | FIREFIGHT LEVEL 20 | 0.70% | ~2,889 |
 | FIRST BLOOD | 0.60% | ~2,477 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 240)
 | THE GAMBLER | 0.10% | ~413 |
 | WARRIOR IN A GARDEN | 0.10% | ~413 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412,760 (Ranked 36)  
+Progressed: 412,771 (Ranked 36)  
 Completed: 32 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,14 +105,14 @@ Completed: 32 (0.01%) (Ranked 201)
 | 2023-06-03 | 411,593 | 32 |
 | 2023-06-04 | 412,084 | 32 |
 | 2023-06-05 | 412,454 | 32 |
-| 2023-06-06 | 412,760 | 32 |
+| 2023-06-06 | 412,771 | 32 |
 ## Awards
-Max (Great Boss Battles): 175  (Ranked 275)  
-Sum: 175 (Ranked 367)  
+Max (Great Boss Battles): 176  (Ranked 274)  
+Sum: 176 (Ranked 366)  
 Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 175 |
+| This game has Great Boss Battles | 176 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -153,3 +153,4 @@ Diff (max vs sum): -92
 | 2023-05-27 | 4.68 | 173 | 173 |
 | 2023-05-29 | 4.68 | 174 | 174 |
 | 2023-06-03 | 4.68 | 175 | 175 |
+| 2023-06-06 | 4.68 | 176 | 176 |

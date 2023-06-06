@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2817,
+  "EOS_Progressed": 2818,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2434,6 +2434,11 @@
       "Time": "2023-06-06T17:06:24.9482195+00:00",
       "NumProgressed": 2817,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-06T19:06:33.8676679+00:00",
+      "NumProgressed": 2818,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 61,
@@ -2469,7 +2474,7 @@
       "Name": "The Negotiator",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "Ach005",
@@ -2477,7 +2482,7 @@
       "Name": "Headliner",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "Ach006",
@@ -2573,7 +2578,7 @@
       "Name": "I play my own way!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "Ach018",
@@ -2685,7 +2690,7 @@
       "Name": "Perfect Parry",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "Ach032",
@@ -2725,7 +2730,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "Ach037",
@@ -2811,9 +2816,9 @@
       "ID": "Ach047",
       "SetID": "12n4k20",
       "Name": "Who put gears in there?",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1888
     },
     {
       "ID": "Ach048",
@@ -2821,7 +2826,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "Ach049",
@@ -2932,22 +2937,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 2817,
+      "Progressed": 2818,
       "Completed": 4
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1338,
-      "Completed": 1338
+      "Progressed": 1339,
+      "Completed": 1339
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-03T21:58:22.8890273+00:00",
-  "LastChanged_Achievements": "2023-06-06T18:08:08.11085+00:00",
+  "LastChanged_Achievements": "2023-06-06T19:06:33.8676673+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:48.102192+00:00",
-  "LastUpdate_Ratings": "2023-06-06T17:59:49.5697923+00:00",
-  "LastUpdate_Achievements": "2023-06-06T18:08:08.1109224+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:58:43.0262475+00:00",
+  "LastUpdate_Achievements": "2023-06-06T19:06:33.867744+00:00"
 }

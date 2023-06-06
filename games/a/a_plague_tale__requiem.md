@@ -1,26 +1,26 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 158)  
+Rating: 4.74 (Ranked 144)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~10,315 |
-| Newcomers | 78.00% | ~8,745 |
+| Under a New Sun | 92.00% | ~10,316 |
+| Newcomers | 78.00% | ~8,746 |
 | A Burden of Blood | 72.00% | ~8,073 |
-| Protector's Duty | 68.00% | ~7,624 |
-| Alchemist | 67.00% | ~7,512 |
-| In our Wake | 66.00% | ~7,400 |
+| Protector's Duty | 68.00% | ~7,625 |
+| Alchemist | 67.00% | ~7,513 |
+| In our Wake | 66.00% | ~7,401 |
 | Leaving all Behind | 63.00% | ~7,064 |
-| Felons | 60.00% | ~6,727 |
-| A Sea of Promises | 58.00% | ~6,503 |
+| Felons | 60.00% | ~6,728 |
+| A Sea of Promises | 58.00% | ~6,504 |
 | Tales and Revelations | 55.00% | ~6,167 |
 | Bloodline | 50.00% | ~5,606 |
 | The Cradle of Centuries | 46.00% | ~5,158 |
-| The Life We Deserve | 44.00% | ~4,933 |
+| The Life We Deserve | 44.00% | ~4,934 |
 | Night guard | 42.00% | ~4,709 |
-| Nothing Left | 37.00% | ~4,148 |
-| Healing our Wounds | 35.00% | ~3,924 |
+| Nothing Left | 37.00% | ~4,149 |
+| Healing our Wounds | 35.00% | ~3,925 |
 | Dying Sun | 31.00% | ~3,476 |
 | Improved crossbow | 26.00% | ~2,915 |
 | King Hugo | 23.00% | ~2,579 |
@@ -35,13 +35,13 @@ Rating: 4.73 (Ranked 158)
 | Herbalist | 7.00% | ~785 |
 | Fighter | 7.00% | ~785 |
 | Ornithologist | 5.00% | ~561 |
-| Sneaky | 4.00% | ~448 |
+| Sneaky | 4.00% | ~449 |
 | Immortal memories | 3.00% | ~336 |
 | Old protector | 2.00% | ~224 |
 | Explorer | 1.00% | ~112 |
 | Malignant | 1.00% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,212 (Ranked 108)  
+Progressed: 11,213 (Ranked 108)  
 Completed: 33 (0.29%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 33 (0.29%) (Ranked 134)
 | 2023-06-03 | 11,086 | 32 |
 | 2023-06-04 | 11,139 | 32 |
 | 2023-06-05 | 11,189 | 32 |
-| 2023-06-06 | 11,212 | 33 |
+| 2023-06-06 | 11,213 | 33 |
 ## Awards
 Max (Great Boss Battles): 402  (Ranked 202)  
 Sum: 578 (Ranked 287)  
@@ -141,3 +141,4 @@ Diff (max vs sum): -85
 | 2023-06-01 | 4.74 | 401 | 577 |
 | 2023-06-02 | 4.74 | 402 | 578 |
 | 2023-06-05 | 4.73 | 402 | 578 |
+| 2023-06-06 | 4.74 | 402 | 578 |

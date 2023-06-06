@@ -6,67 +6,67 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~566,729 |
-| Green Energy | 60.00% | ~478,926 |
-| Foggy Weather | 59.00% | ~470,944 |
-| Singing In The- | 59.00% | ~470,944 |
-| Unpopular Mayor | 41.00% | ~327,266 |
-| Power at Your Fingertips | 33.00% | ~263,409 |
-| City Planner | 23.00% | ~183,588 |
-| Rolling in Dough | 20.00% | ~159,642 |
-| Does My Bum Look Big In This? | 18.00% | ~143,678 |
-| Climbing the Social Ladder | 16.00% | ~127,714 |
-| Safe City | 14.00% | ~111,749 |
-| Quay-King | 11.00% | ~87,803 |
-| Lawmaker | 10.00% | ~79,821 |
-| With Canals You Can! | 10.00% | ~79,821 |
-| Nomen Est Omen | 7.00% | ~55,875 |
-| Well Informed | 6.00% | ~47,893 |
-| Fire Watch | 5.00% | ~39,910 |
-| Greenest City | 4.00% | ~31,928 |
-| Heavenly City | 3.00% | ~23,946 |
-| Reporting! | 3.00% | ~23,946 |
-| SIMulated City | 3.00% | ~23,946 |
-| The Safest Town | 3.00% | ~23,946 |
-| City in Motion | 2.00% | ~15,964 |
-| Professional Dumper | 2.00% | ~15,964 |
-| Earthloving City | 1.00% | ~7,982 |
-| Metropolis | 1.00% | ~7,982 |
-| Beam Me Up | 0.70% | ~5,587 |
-| Higher Education | 0.70% | ~5,587 |
-| Terraformer | 0.70% | ~5,587 |
-| Decorator | 0.60% | ~4,789 |
-| Full Capacity | 0.60% | ~4,789 |
-| The Waters of Our Lives | 0.60% | ~4,789 |
-| Airfield Expertise | 0.50% | ~3,991 |
-| Drop the Base | 0.50% | ~3,991 |
-| It's heading right for us! | 0.50% | ~3,991 |
-| Postman | 0.50% | ~3,991 |
-| Shake It Up! | 0.50% | ~3,991 |
-| Speed up! | 0.50% | ~3,991 |
-| Thunder and Lightning | 0.50% | ~3,991 |
-| Twist and shout | 0.50% | ~3,991 |
-| Airlifter | 0.40% | ~3,193 |
-| Airport Architect | 0.40% | ~3,193 |
-| Are They Naked In There? | 0.40% | ~3,193 |
-| Get Your Snowshoes Ready! | 0.40% | ~3,193 |
-| Happy Town | 0.40% | ~3,193 |
-| I Want It All | 0.40% | ~3,193 |
-| Just Tolling | 0.40% | ~3,193 |
+| Pioneer | 71.00% | ~566,851 |
+| Green Energy | 60.00% | ~479,029 |
+| Foggy Weather | 59.00% | ~471,045 |
+| Singing In The- | 59.00% | ~471,045 |
+| Unpopular Mayor | 41.00% | ~327,336 |
+| Power at Your Fingertips | 33.00% | ~263,466 |
+| City Planner | 23.00% | ~183,628 |
+| Rolling in Dough | 20.00% | ~159,676 |
+| Does My Bum Look Big In This? | 18.00% | ~143,709 |
+| Climbing the Social Ladder | 16.00% | ~127,741 |
+| Safe City | 14.00% | ~111,773 |
+| Quay-King | 11.00% | ~87,822 |
+| Lawmaker | 10.00% | ~79,838 |
+| With Canals You Can! | 10.00% | ~79,838 |
+| Nomen Est Omen | 7.00% | ~55,887 |
+| Well Informed | 6.00% | ~47,903 |
+| Fire Watch | 5.00% | ~39,919 |
+| Greenest City | 4.00% | ~31,935 |
+| Heavenly City | 3.00% | ~23,951 |
+| Reporting! | 3.00% | ~23,951 |
+| SIMulated City | 3.00% | ~23,951 |
+| The Safest Town | 3.00% | ~23,951 |
+| City in Motion | 2.00% | ~15,968 |
+| Professional Dumper | 2.00% | ~15,968 |
+| Earthloving City | 1.00% | ~7,984 |
+| Metropolis | 1.00% | ~7,984 |
+| Beam Me Up | 0.70% | ~5,589 |
+| Higher Education | 0.70% | ~5,589 |
+| Terraformer | 0.70% | ~5,589 |
+| Decorator | 0.60% | ~4,790 |
+| Full Capacity | 0.60% | ~4,790 |
+| The Waters of Our Lives | 0.60% | ~4,790 |
+| Airfield Expertise | 0.50% | ~3,992 |
+| Drop the Base | 0.50% | ~3,992 |
+| It's heading right for us! | 0.50% | ~3,992 |
+| Postman | 0.50% | ~3,992 |
+| Shake It Up! | 0.50% | ~3,992 |
+| Speed up! | 0.50% | ~3,992 |
+| Thunder and Lightning | 0.50% | ~3,992 |
+| Twist and shout | 0.50% | ~3,992 |
+| Airlifter | 0.40% | ~3,194 |
+| Airport Architect | 0.40% | ~3,194 |
+| Are They Naked In There? | 0.40% | ~3,194 |
+| Get Your Snowshoes Ready! | 0.40% | ~3,194 |
+| Happy Town | 0.40% | ~3,194 |
+| I Want It All | 0.40% | ~3,194 |
+| Just Tolling | 0.40% | ~3,194 |
 | A Huge Hadron | 0.30% | ~2,395 |
 | Friendly Teaching | 0.30% | ~2,395 |
 | Here's A Tram | 0.30% | ~2,395 |
 | Run, Bambi! | 0.30% | ~2,395 |
 | Short Fuse | 0.30% | ~2,395 |
 | We need snorkels! | 0.30% | ~2,395 |
-| City in Motion 2 | 0.20% | ~1,596 |
-| Eternal City | 0.20% | ~1,596 |
-| It's Wintertime! | 0.20% | ~1,596 |
-| Make Them Pay | 0.20% | ~1,596 |
-| Medic! | 0.20% | ~1,596 |
-| New Eden | 0.20% | ~1,596 |
-| Power to the People | 0.20% | ~1,596 |
-| The Park To Rule All Parks | 0.20% | ~1,596 |
+| City in Motion 2 | 0.20% | ~1,597 |
+| Eternal City | 0.20% | ~1,597 |
+| It's Wintertime! | 0.20% | ~1,597 |
+| Make Them Pay | 0.20% | ~1,597 |
+| Medic! | 0.20% | ~1,597 |
+| New Eden | 0.20% | ~1,597 |
+| Power to the People | 0.20% | ~1,597 |
+| The Park To Rule All Parks | 0.20% | ~1,597 |
 | 1001 Nights | 0.10% | ~798 |
 | Academic Scholar | 0.10% | ~798 |
 | Airline Tycoon | 0.10% | ~798 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~798 |
 | Z00 | 0.10% | ~798 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,210 (Ranked 13)  
+Progressed: 798,381 (Ranked 13)  
 Completed: 7 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,10 +173,10 @@ Completed: 7 (0.00%) (Ranked 212)
 | 2023-06-03 | 788,491 | 6 |
 | 2023-06-04 | 792,845 | 6 |
 | 2023-06-05 | 796,106 | 7 |
-| 2023-06-06 | 798,210 | 7 |
+| 2023-06-06 | 798,381 | 7 |
 ## Awards
 Max (Relaxing): 4,635  (Ranked 66)  
-Sum: 35,293 (Ranked 34)  
+Sum: 35,301 (Ranked 34)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -185,7 +185,7 @@ Diff (max vs sum): 32
 | This game has Quickly Understood Controls | 4,363 |
 | This game is Educational | 4,327 |
 | This game is Extremely Fun | 4,065 |
-| This game is Highly Recommended | 3,940 |
+| This game is Highly Recommended | 3,948 |
 | This game has Amazing Storytelling | 3,330 |
 | This game has a Creative Community | 3,158 |
 | This game has Amazing Characters | 2,850 |
@@ -324,4 +324,4 @@ Diff (max vs sum): 32
 | 2023-06-03 | 4.65 | - | 4,613 | 35,151 |
 | 2023-06-04 | 4.65 | - | 4,623 | 35,218 |
 | 2023-06-05 | 4.65 | - | 4,635 | 35,267 |
-| 2023-06-06 | 4.65 | - | 4,635 | 35,293 |
+| 2023-06-06 | 4.65 | - | 4,635 | 35,301 |

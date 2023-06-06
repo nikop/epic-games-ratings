@@ -6,21 +6,21 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 85.00% | ~794 |
-| Voices from the Past | 79.00% | ~738 |
-| Space Traveler | 79.00% | ~738 |
-| Demigod | 77.00% | ~719 |
-| The Great Destroyer | 75.00% | ~700 |
-| Shields Down | 73.00% | ~682 |
-| Safe Home | 68.00% | ~635 |
+| Another Life | 85.00% | ~795 |
+| Voices from the Past | 79.00% | ~739 |
+| Space Traveler | 79.00% | ~739 |
+| Demigod | 77.00% | ~720 |
+| The Great Destroyer | 75.00% | ~701 |
+| Shields Down | 73.00% | ~683 |
+| Safe Home | 68.00% | ~636 |
 | Helping Hand | 67.00% | ~626 |
 | Paragon | 64.00% | ~598 |
-| Old Days Born Anew | 63.00% | ~588 |
+| Old Days Born Anew | 63.00% | ~589 |
 | Full Arsenal | 58.00% | ~542 |
-| Controlled Demolition | 56.00% | ~523 |
-| Payback | 54.00% | ~504 |
-| Huntress | 54.00% | ~504 |
-| Born to Drift | 53.00% | ~495 |
+| Controlled Demolition | 56.00% | ~524 |
+| Payback | 54.00% | ~505 |
+| Born to Drift | 53.00% | ~496 |
+| Huntress | 53.00% | ~496 |
 | Relentless | 49.00% | ~458 |
 | The Path Forward | 46.00% | ~430 |
 | Disruption | 44.00% | ~411 |
@@ -43,14 +43,14 @@ Number of Ratings: 58  (23.09.2022)
 | Mastery of Rites | 20.00% | ~187 |
 | Power Chord | 20.00% | ~187 |
 | Crash Test | 20.00% | ~187 |
-| Ascension | 19.00% | ~177 |
+| Ascension | 19.00% | ~178 |
 | Rise as One | 18.00% | ~168 |
 | Showoff | 15.00% | ~140 |
-| Radiation Area | 10.00% | ~93 |
+| Radiation Area | 10.00% | ~94 |
 | Overcharged | 9.00% | ~84 |
 | At Least You Tried | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 934 (Ranked 179)  
+Progressed: 935 (Ranked 179)  
 Completed: 11 (1.18%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 11 (1.18%) (Ranked 82)
 | 2023-06-03 | 924 | 11 |
 | 2023-06-04 | 929 | 11 |
 | 2023-06-05 | 931 | 11 |
-| 2023-06-06 | 934 | 11 |
+| 2023-06-06 | 935 | 11 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 439)  
 Sum: 32 (Ranked 462)  

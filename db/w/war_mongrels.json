@@ -5,9 +5,9 @@
   "Ranking_Rating": 757,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 317,
+  "EOS_Progressed": 318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -666,6 +666,11 @@
       "Time": "2023-06-06T17:03:16.8449839+00:00",
       "NumProgressed": 317,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T19:03:40.8707746+00:00",
+      "NumProgressed": 318,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -787,9 +792,9 @@
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -805,7 +810,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -901,7 +906,7 @@
       "Name": "Cowardice",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -949,7 +954,7 @@
       "Name": "The Horror",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -971,9 +976,9 @@
       "ID": "ACH_FIN_CH10",
       "SetID": "1j25agn",
       "Name": "Broken Hopes",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -1045,7 +1050,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -1059,9 +1064,9 @@
       "ID": "ACH_KILL_ENEMY",
       "SetID": "1j25agn",
       "Name": "NO LIFE IS WORTH SAVING...",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -1109,7 +1114,7 @@
       "Name": "King of Knives",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_NEST1",
@@ -1148,15 +1153,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 317,
+      "Progressed": 318,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-30T02:57:27.9814128+00:00",
-  "LastChanged_Achievements": "2023-06-06T18:04:37.6775554+00:00",
+  "LastChanged_Achievements": "2023-06-06T19:03:40.870774+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:35.3400359+00:00",
-  "LastUpdate_Ratings": "2023-06-06T17:58:29.3249714+00:00",
-  "LastUpdate_Achievements": "2023-06-06T18:04:37.6776127+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:57:34.4192995+00:00",
+  "LastUpdate_Achievements": "2023-06-06T19:03:40.8708292+00:00"
 }

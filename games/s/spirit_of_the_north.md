@@ -1,37 +1,37 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 717)  
+Rating: 4.36 (Ranked 718)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~38,278 |
-| INFUSED WITH LIGHT | 52.00% | ~29,709 |
-| FOXIN' AROUND | 28.00% | ~15,997 |
-| FETCH | 27.00% | ~15,426 |
-| BLOOMS OF LIGHT | 26.00% | ~14,854 |
-| BEST FRIENDS | 22.00% | ~12,569 |
-| AWAKEN | 21.00% | ~11,998 |
-| ERADICATE | 20.00% | ~11,426 |
-| SPIRIT BARK | 20.00% | ~11,426 |
-| GARDEN OF LIGHT | 18.00% | ~10,284 |
-| SPIRIT FORM | 16.00% | ~9,141 |
-| UPROOTING DARKNESS | 15.00% | ~8,570 |
-| WRITTEN IN STONE | 15.00% | ~8,570 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~38,283 |
+| INFUSED WITH LIGHT | 52.00% | ~29,712 |
+| FOXIN' AROUND | 28.00% | ~15,999 |
+| FETCH | 27.00% | ~15,428 |
+| BLOOMS OF LIGHT | 26.00% | ~14,856 |
+| BEST FRIENDS | 22.00% | ~12,571 |
+| AWAKEN | 21.00% | ~11,999 |
+| ERADICATE | 20.00% | ~11,428 |
+| SPIRIT BARK | 20.00% | ~11,428 |
+| GARDEN OF LIGHT | 18.00% | ~10,285 |
+| SPIRIT FORM | 16.00% | ~9,142 |
+| UPROOTING DARKNESS | 15.00% | ~8,571 |
+| WRITTEN IN STONE | 15.00% | ~8,571 |
 | WEIGHTLESS | 11.00% | ~6,285 |
-| SPIRIT DASH | 10.00% | ~5,713 |
+| SPIRIT DASH | 10.00% | ~5,714 |
 | OLD COMPANION | 8.00% | ~4,571 |
 | PLAGUE DOCTOR | 8.00% | ~4,571 |
 | SPIRITED AWAY | 8.00% | ~4,571 |
-| MATCH MAKER | 7.00% | ~3,999 |
-| NORTHERN LIGHTS | 7.00% | ~3,999 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,285 |
+| MATCH MAKER | 7.00% | ~4,000 |
+| NORTHERN LIGHTS | 7.00% | ~4,000 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,286 |
 | ANCIENT HISTORY | 2.00% | ~1,143 |
 | NONE FORGOTTEN | 2.00% | ~1,143 |
 | KINDRED SPIRITS | 0.60% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,132 (Ranked 74)  
+Progressed: 57,139 (Ranked 74)  
 Completed: 283 (0.50%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,11 +78,11 @@ Completed: 283 (0.50%) (Ranked 112)
 | 2023-06-03 | 56,769 | 280 |
 | 2023-06-04 | 56,949 | 281 |
 | 2023-06-05 | 57,042 | 281 |
-| 2023-06-06 | 57,132 | 283 |
+| 2023-06-06 | 57,139 | 283 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 466)  
-Sum: 93 (Ranked 404)  
-Diff (max vs sum): 62  
+Sum: 93 (Ranked 405)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 25 |

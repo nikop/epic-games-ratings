@@ -3,7 +3,7 @@
   "Name": "Crayta",
   "ProductSlug": "crayta",
   "Ranking_Rating": 833,
-  "Ranking_Popularity": 390,
+  "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 212,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109357,
+  "EOS_Progressed": 109358,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1054,6 +1054,11 @@
       "Time": "2023-06-06T18:07:37.453766+00:00",
       "NumProgressed": 109357,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-06T19:06:07.0257984+00:00",
+      "NumProgressed": 109358,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -1193,7 +1198,7 @@
       "Name": "Variety Player - Bronze",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14216
+      "UsersEstimate": 14217
     },
     {
       "ID": "25",
@@ -1329,22 +1334,22 @@
       "Name": "These Are a Few of My Favorite Things - Bronze",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     }
   ],
   "AchievementSets": [
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109357,
+      "Progressed": 109358,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-06-06T18:07:37.4537654+00:00",
+  "LastChanged_Achievements": "2023-06-06T19:06:07.0257978+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:26.9036617+00:00",
-  "LastUpdate_Ratings": "2023-06-06T17:59:28.4814908+00:00",
-  "LastUpdate_Achievements": "2023-06-06T18:07:37.4538055+00:00"
+  "LastUpdate_Ratings": "2023-06-06T18:58:25.9452475+00:00",
+  "LastUpdate_Achievements": "2023-06-06T19:06:07.0258298+00:00"
 }

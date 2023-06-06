@@ -11,13 +11,13 @@
 | This is a Wall | 41.00% | ~60 |
 | Extendable Bridges | 33.00% | ~48 |
 | 48 Attempts | 33.00% | ~48 |
-| Chain Reaction | 30.00% | ~44 |
+| Chain Reaction | 31.00% | ~45 |
 | Man's Best Friend | 29.00% | ~42 |
 | Handyman | 23.00% | ~34 |
 | No Time To Relax | 16.00% | ~23 |
 | Running Boots | 14.00% | ~20 |
 | Bad Robots | 13.00% | ~19 |
-| Fashionista | 11.00% | ~16 |
+| Fashionista | 12.00% | ~18 |
 | Archivist | 10.00% | ~15 |
 | Looper | 10.00% | ~15 |
 | Cataclysm | 9.00% | ~13 |
@@ -32,7 +32,7 @@
 | Data Research | 0.00% | ~0 |
 | You Are Terminated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146 (Ranked 260)  
+Progressed: 146 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

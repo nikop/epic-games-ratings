@@ -5,14 +5,14 @@ Rating: 4.51 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 78.00% | ~1,255 |
-| Become King | 70.00% | ~1,126 |
-| Ranged Weapon | 60.00% | ~965 |
-| Defeat 25 Frogs | 60.00% | ~965 |
-| Collect Monster Parts | 56.00% | ~901 |
+| Complete Guard Faction | 78.00% | ~1,256 |
+| Become King | 70.00% | ~1,127 |
+| Ranged Weapon | 60.00% | ~966 |
+| Defeat 25 Frogs | 60.00% | ~966 |
+| Collect Monster Parts | 56.00% | ~902 |
 | Two Handed Weapon | 54.00% | ~869 |
 | Defeat 25 Grubs | 51.00% | ~821 |
-| Rescue Redgi's Brothers | 50.00% | ~804 |
+| Rescue Redgi's Brothers | 50.00% | ~805 |
 | Collect Iron Ore | 45.00% | ~724 |
 | Kitchen Ready To Cook | 45.00% | ~724 |
 | Defeat 25 Mozis | 44.00% | ~708 |
@@ -20,8 +20,8 @@ Rating: 4.51 (Ranked 530)
 | Smithy Ready to Craft | 43.00% | ~692 |
 | Fix the Travellers Wagon | 42.00% | ~676 |
 | Complete Elder Faction | 39.00% | ~628 |
-| End of the Mozis | 36.00% | ~579 |
-| Throne Room Fit For A King | 36.00% | ~579 |
+| End of the Mozis | 36.00% | ~580 |
+| Throne Room Fit For A King | 36.00% | ~580 |
 | Meet the Creatures from the Deep | 33.00% | ~531 |
 | Return Power To The Depths | 33.00% | ~531 |
 | Defeat Ratnor Rodentson | 28.00% | ~451 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 530)
 | King of Kings | 7.00% | ~113 |
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,609 (Ranked 156)  
+Progressed: 1,610 (Ranked 156)  
 Completed: 6 (0.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 6 (0.37%) (Ranked 119)
 | 2023-06-03 | 1,574 | 6 |
 | 2023-06-04 | 1,592 | 6 |
 | 2023-06-05 | 1,602 | 6 |
-| 2023-06-06 | 1,609 | 6 |
+| 2023-06-06 | 1,610 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
