@@ -15,6 +15,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lady Wing Chun | 1.00% | ~7,077 |
 | Furious Fists | 1.00% | ~7,077 |
 | Kill Nil | 1.00% | ~7,077 |
+| Stuntmaster | 1.00% | ~7,077 |
 | Street Fighting | 1.00% | ~7,077 |
 | Life is your teacher | 1.00% | ~7,077 |
 | State of constant learning | 1.00% | ~7,077 |
@@ -25,7 +26,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,077 |
 | Bloody Sport | 1.00% | ~170 |
 | The best strikes are the ones we avoid | 1.00% | ~170 |
-| Stuntmaster | 0.90% | ~6,370 |
 | Old Child | 0.90% | ~6,370 |
 | Take damage to save time | 0.90% | ~6,370 |
 | Scareless | 0.80% | ~5,662 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,724 (Ranked 16)  
+Progressed: 707,727 (Ranked 16)  
 Completed: 12,763 (1.80%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 12,763 (1.80%) (Ranked 69)
 | 2023-06-03 | 707,194 | 12,754 |
 | 2023-06-04 | 707,419 | 12,757 |
 | 2023-06-05 | 707,566 | 12,758 |
-| 2023-06-06 | 707,724 | 12,763 |
+| 2023-06-06 | 707,727 | 12,763 |
 ## Awards
 Max (Great Boss Battles): 6,142  (Ranked 52)  
 Sum: 10,478 (Ranked 78)  

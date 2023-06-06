@@ -10,8 +10,8 @@
 | Blade of prophecy | 45.00% | ~17 |
 | Normal end | 45.00% | ~17 |
 | C Rank Bug-catcher | 42.00% | ~16 |
-| Armed robbery | 32.00% | ~12 |
-| Never learn | 29.00% | ~11 |
+| Armed robbery | 34.00% | ~13 |
+| Never learn | 32.00% | ~12 |
 | B Rank Bug-catcher | 24.00% | ~9 |
 | Errorbane | 13.00% | ~5 |
 | Secret Admirer | 13.00% | ~5 |

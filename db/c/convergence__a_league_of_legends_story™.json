@@ -1093,9 +1093,9 @@
       "ID": "CultivairChests1",
       "SetID": "a9e499d",
       "Name": "Cultivair Explorer",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EntresolChests1",
@@ -1141,9 +1141,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1325,9 +1325,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "SkillCompletion1",
@@ -1357,9 +1357,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "SyronGift",
@@ -1373,9 +1373,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "TheaterChests1",
@@ -1413,9 +1413,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Zarkon1Defeated",
@@ -1444,8 +1444,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:06:20.676805+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:05:07.2677913+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:00:21.1986848+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:06:20.6768711+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:59:13.7677912+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:05:07.2678442+00:00"
 }

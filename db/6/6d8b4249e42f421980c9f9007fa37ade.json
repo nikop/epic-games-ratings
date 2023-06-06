@@ -115,9 +115,9 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -219,9 +219,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Epic_Formula_12",
@@ -275,9 +275,9 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -347,9 +347,9 @@
       "ID": "Epic_NinjaSword_1",
       "SetID": "ba1m2fc",
       "Name": "Knife Out",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Epic_Parasitic_1",
@@ -379,9 +379,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Epic_Revenge_1",
@@ -506,8 +506,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:03:19.4968142+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:02:33.8388052+00:00",
   "LastUpdate_AppInfo": "2023-06-01T03:24:11.2191819+00:00",
-  "LastUpdate_Ratings": "2023-06-06T21:57:06.6713285+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:03:19.4968553+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:57:05.7102193+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:02:33.8388646+00:00"
 }

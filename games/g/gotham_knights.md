@@ -12,7 +12,6 @@ Rating: 4.17 (Ranked 847)
 | Something in the Clay | 2.00% | ~1,277 |
 | To the Victor Go the Spoils | 2.00% | ~1,277 |
 | Quartzer Life Crisis | 2.00% | ~1,277 |
-| Snow Problem | 2.00% | ~1,277 |
 | Get ReQ'd | 2.00% | ~1,277 |
 | Working Hard or Harley Working? | 2.00% | ~1,277 |
 | Unstoppable Force | 2.00% | ~1,277 |
@@ -27,6 +26,7 @@ Rating: 4.17 (Ranked 847)
 | Not On My Watch | 1.00% | ~639 |
 | Bulldozed | 1.00% | ~639 |
 | Shock Til They Drop | 1.00% | ~639 |
+| Snow Problem | 1.00% | ~639 |
 | Cooldown | 1.00% | ~639 |
 | Universal Health Scare | 1.00% | ~639 |
 | Bad Apples in Every Orchard | 1.00% | ~639 |
@@ -38,7 +38,7 @@ Rating: 4.17 (Ranked 847)
 | Drone You Out | 0.80% | ~511 |
 | Out of Their League | 0.70% | ~447 |
 | Solid Alibi | 0.70% | ~447 |
-| Fusion Expert | 0.50% | ~319 |
+| Fusion Expert | 0.60% | ~383 |
 | Expert Crime Fighter | 0.50% | ~319 |
 | Family Meeting | 0.50% | ~319 |
 | A Worthy Successor | 0.50% | ~319 |
@@ -48,11 +48,11 @@ Rating: 4.17 (Ranked 847)
 | Hammer and Icicle | 0.20% | ~68 |
 | Renewable Enemy Source | 0.20% | ~68 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~68 |
+| The Cold, the Bad and the Ugly | 0.20% | ~68 |
 | Practice Makes Perfect | 0.20% | ~128 |
 | He'd Be So Proud of You | 0.20% | ~128 |
 | Element of Surprise | 0.10% | ~34 |
 | It's Nice to Be Wanted | 0.10% | ~34 |
-| The Cold, the Bad and the Ugly | 0.10% | ~34 |
 | Gotham's Greatest Depths | 0.10% | ~34 |
 | Showdown Sovereign | 0.10% | ~34 |
 | That's Showbiz, Clayby | 0.10% | ~34 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 847)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,864 (Ranked 71)  
+Progressed: 63,871 (Ranked 71)  
 Completed: 94 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 94 (0.15%) (Ranked 154)
 | 2023-06-03 | 63,469 | 93 |
 | 2023-06-04 | 63,645 | 93 |
 | 2023-06-05 | 63,770 | 93 |
-| 2023-06-06 | 63,864 | 94 |
+| 2023-06-06 | 63,871 | 94 |
 ## Awards
 Max (Great Boss Battles): 2,304  (Ranked 97)  
 Sum: 3,809 (Ranked 137)  

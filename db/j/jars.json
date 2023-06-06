@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 52,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.96,
+  "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:38.9338531+00:00",
@@ -106,6 +106,11 @@
       "Time": "2023-06-04T20:00:45.2593228+00:00",
       "NumProgressed": 51,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T23:02:22.4800151+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -115,7 +120,7 @@
       "ID": "ACH_100_ITEMS_USED",
       "SetID": "3jfhgga",
       "Name": "Sticky fingers",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
       "UsersEstimate": 23
     },
@@ -123,7 +128,7 @@
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 67,
+      "Percentage": 65,
       "XP": 25,
       "UsersEstimate": 34
     },
@@ -141,7 +146,7 @@
       "Name": "The child of the night",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_CHAPTER_1_DONE",
@@ -155,7 +160,7 @@
       "ID": "ACH_CHAPTER_2_DONE",
       "SetID": "3jfhgga",
       "Name": "Fangs",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -187,9 +192,9 @@
       "ID": "ACH_ENCYCLOPEDIA_ENTRY",
       "SetID": "3jfhgga",
       "Name": "Missing data",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_EQUIP_PERK",
@@ -197,7 +202,7 @@
       "Name": "It fits. IT FITS!",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_FIND_SECRET",
@@ -259,7 +264,7 @@
       "ID": "ACH_SHOP_FIRST_PURCHASE",
       "SetID": "3jfhgga",
       "Name": "Uncle will be happy",
-      "Percentage": 69,
+      "Percentage": 67,
       "XP": 25,
       "UsersEstimate": 35
     },
@@ -267,16 +272,16 @@
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
       "SetID": "3jfhgga",
       "Name": "Broken jar",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jfhgga",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 1
     }
   ],
@@ -284,8 +289,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:02:32.7031298+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:02:22.4800144+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.948594+00:00",
-  "LastUpdate_Ratings": "2023-06-06T21:58:32.7141774+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:02:32.7031434+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:58:02.5108184+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:02:22.4800293+00:00"
 }

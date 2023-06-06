@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -1447,9 +1447,9 @@
       "ID": "CHAOS_THEORY",
       "SetID": "9a4jnji",
       "Name": "Chaos Theory",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 83
     },
     {
       "ID": "COMMANDO",
@@ -1495,9 +1495,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 406
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1535,9 +1535,9 @@
       "ID": "ENDGAME",
       "SetID": "9a4jnji",
       "Name": "Endgame",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 135
     },
     {
       "ID": "EXORCIST",
@@ -1695,9 +1695,9 @@
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 260
     },
     {
       "ID": "RUTHLESS",
@@ -1800,8 +1800,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:03:35.5820415+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:03:15.1852882+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-06T21:58:51.2938874+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:03:35.582088+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:58:15.4927107+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:03:15.1853398+00:00"
 }

@@ -548,9 +548,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14634,
+  "EOS_Progressed": 14637,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2993,6 +2993,11 @@
       "Time": "2023-06-06T22:04:58.826409+00:00",
       "NumProgressed": 14634,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-06T23:04:09.4033826+00:00",
+      "NumProgressed": 14637,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3148,7 +3153,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3204,15 +3209,15 @@
       "Name": "If the SHU Fits...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 732
+      "UsersEstimate": 878
     },
     {
       "ID": "STORY_HANGAR",
@@ -3236,7 +3241,7 @@
       "Name": "Desperate Times",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3276,7 +3281,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3284,7 +3289,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3323,13 +3328,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14634,
+      "Progressed": 14637,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2560,
+      "Progressed": 2563,
       "Completed": 29
     }
   ],
@@ -3337,8 +3342,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-06T19:58:28.6100883+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:04:58.8264085+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:04:09.4033821+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-06T21:58:20.5916088+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:04:58.8264526+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:57:53.0015324+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:04:09.4034218+00:00"
 }

@@ -16,8 +16,8 @@
 | Travel Company | 62.00% | ~596 |
 | All around the World | 60.00% | ~577 |
 | Right through the middle | 54.00% | ~519 |
+| Poor Devil | 51.00% | ~490 |
 | Facility Manager | 50.00% | ~480 |
-| Poor Devil | 50.00% | ~480 |
 | Producer | 46.00% | ~442 |
 | Apprentice | 42.00% | ~404 |
 | Bridge Builder | 37.00% | ~356 |
@@ -25,7 +25,7 @@
 | Access granted | 33.00% | ~317 |
 | Going once, going twice, sold | 29.00% | ~279 |
 | Full Steam ahead | 28.00% | ~269 |
-| Bull and bear | 26.00% | ~250 |
+| Bull and bear | 27.00% | ~259 |
 | All mine | 24.00% | ~231 |
 | Mole | 24.00% | ~231 |
 | Financial Shark | 23.00% | ~221 |

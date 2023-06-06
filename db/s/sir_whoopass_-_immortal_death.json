@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -600,9 +600,9 @@
       "ID": "ENT_1",
       "SetID": "9gfkh7c",
       "Name": "Timber!",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FIRE_1",
@@ -704,9 +704,9 @@
       "ID": "IMMORTAL_1",
       "SetID": "9gfkh7c",
       "Name": "Grumpy Immortal",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 190,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "IRS_1",
@@ -888,9 +888,9 @@
       "ID": "OTHER_2",
       "SetID": "9gfkh7c",
       "Name": "Free Of Chains",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "OTHER_3",
@@ -983,8 +983,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:07:16.4438024+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:05:47.2748532+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:09.8520018+00:00",
-  "LastUpdate_Ratings": "2023-06-06T21:57:22.2617936+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:07:16.4438913+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:57:15.5857333+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:05:47.2749456+00:00"
 }

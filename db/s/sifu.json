@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4464,9 +4464,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 707724,
+  "EOS_Progressed": 707727,
   "EOS_Completed": 12763,
-  "EOS_NewPlayers": 1317,
+  "EOS_NewPlayers": 1316,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8814,6 +8814,11 @@
       "Time": "2023-06-06T22:07:24.9540799+00:00",
       "NumProgressed": 707724,
       "NumCompleted": 12763
+    },
+    {
+      "Time": "2023-06-06T23:05:53.8283517+00:00",
+      "NumProgressed": 707727,
+      "NumCompleted": 12763
     }
   ],
   "TotalAchievements": 50,
@@ -8975,9 +8980,9 @@
       "ID": "20_Traversal_Trophy",
       "SetID": "adcm20g",
       "Name": "Stuntmaster",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6370
+      "UsersEstimate": 7077
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -9224,21 +9229,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17025,
+      "Progressed": 17028,
       "Completed": 10232
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707724,
+      "Progressed": 707727,
       "Completed": 12763
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-06T21:59:48.9479469+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:07:24.9540794+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:05:53.828351+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-06T21:59:48.9479476+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:07:24.9633629+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:58:50.5560208+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:05:53.8284178+00:00"
 }

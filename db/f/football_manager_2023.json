@@ -2274,7 +2274,7 @@
   ],
   "EOS_Progressed": 68704,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 1292,
+  "EOS_NewPlayers": 1284,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7820,9 +7820,9 @@
       "ID": "achievement_won_promotion",
       "SetID": "26pcimd",
       "Name": "You\u0027re Up!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 12367
+      "UsersEstimate": 13054
     },
     {
       "ID": "achievement_won_top_domestic_cup",
@@ -7925,8 +7925,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-06-06T20:00:28.8069789+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:07:33.1655914+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:06:00.2517445+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:45.7409466+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:00:20.5486827+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:07:33.1657466+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:59:13.2880255+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:06:00.2518903+00:00"
 }

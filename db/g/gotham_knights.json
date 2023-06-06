@@ -1412,9 +1412,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63864,
+  "EOS_Progressed": 63871,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 957,
+  "EOS_NewPlayers": 959,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5317,6 +5317,11 @@
       "Time": "2023-06-06T22:07:28.4333754+00:00",
       "NumProgressed": 63864,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-06T23:05:56.4999998+00:00",
+      "NumProgressed": 63871,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 61,
@@ -5366,9 +5371,9 @@
       "ID": "AC1_HA_STARLABS",
       "SetID": "18c818l",
       "Name": "The Cold, the Bad and the Ugly",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 34
+      "UsersEstimate": 68
     },
     {
       "ID": "ALL_HEROES_PLAYED",
@@ -5470,9 +5475,9 @@
       "ID": "CRAFTING_MOD_CHIPS",
       "SetID": "4eo5ebm",
       "Name": "Fusion Expert",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 383
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -5566,9 +5571,9 @@
       "ID": "FREEZE_2",
       "SetID": "4eo5ebm",
       "Name": "Snow Problem",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1277
+      "UsersEstimate": 639
     },
     {
       "ID": "FREEZE_3",
@@ -5815,13 +5820,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63864,
+      "Progressed": 63871,
       "Completed": 94
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34144,
+      "Progressed": 34151,
       "Completed": 2644
     }
   ],
@@ -5829,8 +5834,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-06T15:00:40.7549932+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:07:28.4333749+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:05:56.499999+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:00:46.9868299+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:07:28.4334701+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:59:29.480389+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:05:56.5000785+00:00"
 }

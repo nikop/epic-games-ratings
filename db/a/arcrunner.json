@@ -441,9 +441,9 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHV_CITY",
@@ -537,17 +537,17 @@
       "ID": "ACHV_NANONIC2",
       "SetID": "cceobco",
       "Name": "Nanonic II",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -601,9 +601,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -650,8 +650,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:02:29.8961243+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:02:20.4748705+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:02.4090562+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:00:40.0434159+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:02:29.8961509+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:59:24.9097655+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:02:20.4748939+00:00"
 }

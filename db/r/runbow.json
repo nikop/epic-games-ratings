@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244307,
+  "EOS_Progressed": 244308,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
@@ -4444,6 +4444,11 @@
       "Time": "2023-06-06T22:07:12.9232007+00:00",
       "NumProgressed": 244307,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-06T23:05:44.6577368+00:00",
+      "NumProgressed": 244308,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -4479,7 +4484,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48861
+      "UsersEstimate": 48862
     },
     {
       "ID": "blotbuster",
@@ -4559,7 +4564,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 48861
+      "UsersEstimate": 48862
     },
     {
       "ID": "didYourTime",
@@ -4647,7 +4652,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17101
+      "UsersEstimate": 17102
     },
     {
       "ID": "itsTheFall",
@@ -4727,7 +4732,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17101
+      "UsersEstimate": 17102
     },
     {
       "ID": "rideTheWave",
@@ -4759,7 +4764,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51304
+      "UsersEstimate": 51305
     },
     {
       "ID": "thunderstruck",
@@ -4822,7 +4827,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 244307,
+      "Progressed": 244308,
       "Completed": 2
     }
   ],
@@ -4830,8 +4835,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:07:12.9232002+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:05:44.6577363+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:32.0631758+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:00:01.0760366+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:07:12.9232695+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:58:58.2999251+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:05:44.6577965+00:00"
 }

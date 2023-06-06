@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -599,6 +599,11 @@
       "Time": "2023-06-06T21:03:55.1618386+00:00",
       "NumProgressed": 259,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-06T23:03:43.7013697+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -616,9 +621,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "completeact3",
@@ -648,9 +653,9 @@
       "ID": "scoreminrankrb1",
       "SetID": "40n95i5",
       "Name": "Truthseeker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "scoreminrankrb2",
@@ -666,7 +671,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "scoreminrankrf2",
@@ -680,9 +685,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "scoreminrankrp1",
@@ -729,7 +734,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 2
     }
   ],
@@ -737,8 +742,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:04:26.1669372+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:03:43.7013691+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-06T21:59:32.4856763+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:04:26.1669531+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:58:39.7417794+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:03:43.7013847+00:00"
 }

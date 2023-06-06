@@ -4138,9 +4138,9 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 89978,
+  "EOS_Progressed": 89983,
   "EOS_Completed": 1920,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8933,6 +8933,11 @@
       "Time": "2023-06-06T22:07:35.8982237+00:00",
       "NumProgressed": 89978,
       "NumCompleted": 1920
+    },
+    {
+      "Time": "2023-06-06T23:06:02.2160769+00:00",
+      "NumProgressed": 89983,
+      "NumCompleted": 1920
     }
   ],
   "TotalAchievements": 493,
@@ -10590,9 +10595,9 @@
       "ID": "objective_completed_284",
       "SetID": "cc37lbc",
       "Name": "The Trepidatious Trio",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_285",
@@ -12887,21 +12892,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56252,
+      "Progressed": 56257,
       "Completed": 2775
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89978,
+      "Progressed": 89983,
       "Completed": 1920
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T13:58:26.881905+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:07:35.8982232+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:06:02.2160759+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-06T21:58:33.6597268+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:07:35.9010146+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:58:03.1475672+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:06:02.2184598+00:00"
 }

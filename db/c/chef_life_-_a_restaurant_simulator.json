@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 305,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -1234,6 +1234,11 @@
       "Time": "2023-06-06T12:03:34.1733122+00:00",
       "NumProgressed": 304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T23:03:18.3919669+00:00",
+      "NumProgressed": 305,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1429,7 +1434,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "PerfectGrade25",
@@ -1467,9 +1472,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "ServiceMaxClient",
@@ -1501,7 +1506,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "TrattoriaSet",
@@ -1564,7 +1569,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 0
     }
   ],
@@ -1572,8 +1577,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:03:40.0721651+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:03:18.391966+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:38.5369331+00:00",
-  "LastUpdate_Ratings": "2023-06-06T21:59:00.5419657+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:03:40.0722024+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:58:20.6857459+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:03:18.3920046+00:00"
 }

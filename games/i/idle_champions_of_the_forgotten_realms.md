@@ -140,6 +140,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~180 |
 | The Gargoyle's Apprentice | 0.20% | ~180 |
 | Attack on the Manor | 0.20% | ~180 |
+| The Trepidatious Trio | 0.20% | ~180 |
 | The Death Curse | 0.20% | ~180 |
 | Treasure Hunters | 0.20% | ~180 |
 | The Guardian of Orolunga | 0.20% | ~180 |
@@ -311,7 +312,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Strahd Squad | 0.10% | ~56 |
 | House of Darkness | 0.10% | ~90 |
 | Home Not So Alone | 0.10% | ~56 |
-| The Trepidatious Trio | 0.10% | ~90 |
 | Our Time To Shine | 0.10% | ~90 |
 | Review by the Blackstaff | 0.10% | ~56 |
 | Think Your Way Out Of It | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,978 (Ranked 62)  
+Progressed: 89,983 (Ranked 62)  
 Completed: 1,920 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,7 +547,7 @@ Completed: 1,920 (2.13%) (Ranked 65)
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
-| 2023-06-06 | 89,978 | 1,920 |
+| 2023-06-06 | 89,983 | 1,920 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

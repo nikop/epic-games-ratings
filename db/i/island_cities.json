@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -1328,17 +1328,17 @@
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_010",
@@ -1457,8 +1457,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:06:54.4458723+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:05:30.7953612+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-06T21:58:32.0032606+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:06:54.4458995+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:58:02.0834158+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:05:30.7953843+00:00"
 }

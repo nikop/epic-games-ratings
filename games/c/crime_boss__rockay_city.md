@@ -5,14 +5,14 @@ Rating: 3.93 (Ranked 911)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~48,294 |
-| First One’s Free | 65.00% | ~42,420 |
-| Neophyte Ninja | 50.00% | ~32,631 |
-| Too Old for This | 47.00% | ~30,673 |
+| Downed but Not Outed | 74.00% | ~48,295 |
+| First One’s Free | 65.00% | ~42,422 |
+| Neophyte Ninja | 50.00% | ~32,632 |
+| Too Old for This | 47.00% | ~30,674 |
 | Fancy Pants | 35.00% | ~22,842 |
-| Case Closed | 34.00% | ~22,189 |
-| King of the Hill | 34.00% | ~22,189 |
-| Underworld Initiate | 29.00% | ~18,926 |
+| Case Closed | 34.00% | ~22,190 |
+| King of the Hill | 34.00% | ~22,190 |
+| Underworld Initiate | 29.00% | ~18,927 |
 | Roid Ranger | 21.00% | ~13,705 |
 | True Player | 19.00% | ~12,400 |
 | Off the Rocks | 19.00% | ~12,400 |
@@ -29,10 +29,10 @@ Rating: 3.93 (Ranked 911)
 | Foo Finder | 7.00% | ~4,568 |
 | Legend Looter | 5.00% | ~3,263 |
 | Savvy Seeker | 5.00% | ~3,263 |
-| Imports and Exports | 4.00% | ~2,610 |
-| Olympus Ascended | 4.00% | ~2,610 |
-| Cracked the Jack | 4.00% | ~2,610 |
-| Red Star | 4.00% | ~2,610 |
+| Imports and Exports | 4.00% | ~2,611 |
+| Olympus Ascended | 4.00% | ~2,611 |
+| Cracked the Jack | 4.00% | ~2,611 |
+| Red Star | 4.00% | ~2,611 |
 | Privateer | 3.00% | ~1,958 |
 | Groundhog Days | 3.00% | ~1,958 |
 | Rockay Raider | 2.00% | ~1,305 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 911)
 | Geek Out | 0.50% | ~326 |
 | Full House | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,262 (Ranked 68)  
+Progressed: 65,264 (Ranked 68)  
 Completed: 32 (0.05%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,14 +90,14 @@ Completed: 32 (0.05%) (Ranked 182)
 | 2023-06-03 | 64,787 | 31 |
 | 2023-06-04 | 65,003 | 31 |
 | 2023-06-05 | 65,132 | 31 |
-| 2023-06-06 | 65,262 | 32 |
+| 2023-06-06 | 65,264 | 32 |
 ## Awards
-Max (Diverse Characters): 318  (Ranked 223)  
-Sum: 1,496 (Ranked 211)  
+Max (Diverse Characters): 321  (Ranked 222)  
+Sum: 1,499 (Ranked 210)  
 Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 318 |
+| This game has Diverse Characters | 321 |
 | This game is Highly Recommended | 299 |
 | This game has Quickly Understood Controls | 295 |
 | This game has Amazing Characters | 294 |
@@ -177,4 +177,4 @@ Diff (max vs sum): 12
 | 2023-06-03 | 3.93 | 310 | 1,470 |
 | 2023-06-04 | 3.93 | 316 | 1,481 |
 | 2023-06-05 | 3.93 | 318 | 1,492 |
-| 2023-06-06 | 3.93 | 318 | 1,496 |
+| 2023-06-06 | 3.93 | 321 | 1,499 |

@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1308,
+  "EOS_Progressed": 1309,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2780,6 +2780,11 @@
       "Time": "2023-06-06T21:05:59.5285643+00:00",
       "NumProgressed": 1308,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-06T23:05:49.0286418+00:00",
+      "NumProgressed": 1309,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2887,7 +2892,7 @@
       "Name": "Doing My Part",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "dragonclicker",
@@ -2967,7 +2972,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "fellowshippower",
@@ -2975,7 +2980,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "fourleafclover",
@@ -2991,7 +2996,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "fullparty",
@@ -3143,7 +3148,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "mysteriousrock",
@@ -3183,7 +3188,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "prestigiousx10",
@@ -3279,7 +3284,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "thepowerofawakening",
@@ -3383,14 +3388,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1308,
+      "Progressed": 1309,
       "Completed": 1
     }
   ],
@@ -3398,8 +3403,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-06T21:58:30.8891367+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:07:18.7574542+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:05:49.0286409+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-06T21:58:30.8891373+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:07:18.757546+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:58:01.3089654+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:05:49.0287482+00:00"
 }

@@ -6,14 +6,14 @@ Rating: 4.00 (Ranked 897)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,230 |
-| World Map | 80.00% | ~1,046 |
+| World Map | 80.00% | ~1,047 |
 | Temple of Eternals | 57.00% | ~746 |
-| Prestigious | 53.00% | ~693 |
-| Fellowship Power | 41.00% | ~536 |
+| Prestigious | 53.00% | ~694 |
+| Fellowship Power | 41.00% | ~537 |
 | Guild Power | 24.00% | ~314 |
 | Prestigious x10 | 21.00% | ~275 |
-| The game is on | 18.00% | ~235 |
-| Exotic Merchant | 17.00% | ~222 |
+| The game is on | 18.00% | ~236 |
+| Exotic Merchant | 17.00% | ~223 |
 | Dragon Clicker | 16.00% | ~209 |
 | Miner Clicker | 16.00% | ~209 |
 | Inspection | 15.00% | ~196 |
@@ -35,9 +35,9 @@ Rating: 4.00 (Ranked 897)
 | Hunter | 7.00% | ~92 |
 | Mastery | 7.00% | ~92 |
 | Relic Of The Past | 7.00% | ~92 |
-| Doing My Part | 6.00% | ~78 |
-| Frostfire Liberator | 6.00% | ~78 |
-| Moving Up The Ladder | 6.00% | ~78 |
+| Doing My Part | 6.00% | ~79 |
+| Frostfire Liberator | 6.00% | ~79 |
+| Moving Up The Ladder | 6.00% | ~79 |
 | Four Leaf Clover | 5.00% | ~65 |
 | Here We Go Again | 5.00% | ~65 |
 | The Expeditioner | 5.00% | ~65 |
@@ -81,7 +81,7 @@ Rating: 4.00 (Ranked 897)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,308 (Ranked 162)  
+Progressed: 1,309 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 1 (0.08%) (Ranked 173)
 | 2023-06-03 | 1,267 | 1 |
 | 2023-06-04 | 1,285 | 1 |
 | 2023-06-05 | 1,299 | 1 |
-| 2023-06-06 | 1,308 | 1 |
+| 2023-06-06 | 1,309 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

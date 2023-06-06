@@ -12,7 +12,7 @@ Rating: 4.35 (Ranked 726)
 | I am the law! | 59.00% | ~614 |
 | Lumberjack | 44.00% | ~458 |
 | Croaked | 40.00% | ~416 |
-| Limp Richard | 38.00% | ~396 |
+| Limp Richard | 39.00% | ~406 |
 | From Darkness to Light | 38.00% | ~396 |
 | Exorcist | 37.00% | ~385 |
 | Firestarter | 37.00% | ~385 |
@@ -21,7 +21,7 @@ Rating: 4.35 (Ranked 726)
 | Sensei | 32.00% | ~333 |
 | The meaning of Kain | 29.00% | ~302 |
 | Technophobe | 27.00% | ~281 |
-| Recycler | 24.00% | ~250 |
+| Recycler | 25.00% | ~260 |
 | Are you not entertained? | 21.00% | ~219 |
 | Ganglord | 20.00% | ~208 |
 | Jarhead | 20.00% | ~208 |
@@ -32,14 +32,14 @@ Rating: 4.35 (Ranked 726)
 | Hold The Line | 17.00% | ~177 |
 | Experienced | 16.00% | ~167 |
 | Newtonian Knockout | 14.00% | ~146 |
+| Endgame | 13.00% | ~135 |
 | The Watchers | 13.00% | ~135 |
-| Endgame | 12.00% | ~125 |
 | Savior | 12.00% | ~125 |
 | Ruthless | 11.00% | ~115 |
 | Dr Jones | 9.00% | ~94 |
+| Chaos Theory | 8.00% | ~83 |
 | Commando | 8.00% | ~83 |
 | Chain Reaction | 7.00% | ~73 |
-| Chaos Theory | 7.00% | ~73 |
 | Curveball | 6.00% | ~62 |
 | Side Order | 6.00% | ~62 |
 | Wipe Out | 6.00% | ~62 |

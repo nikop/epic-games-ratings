@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 204,
+  "EOS_Progressed": 205,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -277,6 +277,11 @@
       "Time": "2023-06-06T20:07:36.5828279+00:00",
       "NumProgressed": 204,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T23:05:59.0214968+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -302,9 +307,9 @@
       "ID": "ach_apartments_1",
       "SetID": "b8gh1fi",
       "Name": "Lux Living",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_apartments_2",
@@ -424,7 +429,7 @@
       "Name": "Need a Consult",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_consultant_1",
@@ -432,7 +437,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_consultants_a",
@@ -496,7 +501,7 @@
       "Name": "Proper Walls",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_drones",
@@ -592,7 +597,7 @@
       "Name": "Starting Skyward",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_floors_1",
@@ -632,7 +637,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_grime_2",
@@ -654,9 +659,9 @@
       "ID": "ach_loan",
       "SetID": "b8gh1fi",
       "Name": "Don\u0027t Feel a Loan",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_mod_1",
@@ -680,7 +685,7 @@
       "Name": "28 Days Later",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_office_1",
@@ -688,7 +693,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_office_2",
@@ -710,9 +715,9 @@
       "ID": "ach_pop_1",
       "SetID": "b8gh1fi",
       "Name": "People Mover",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_pop_2",
@@ -726,9 +731,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_prestige_2",
@@ -752,7 +757,7 @@
       "Name": "In the Black",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ach_profit_1",
@@ -830,9 +835,9 @@
       "ID": "ach_retail_1",
       "SetID": "b8gh1fi",
       "Name": "Retail Revenue",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_retail_2",
@@ -846,9 +851,9 @@
       "ID": "ach_retail_3",
       "SetID": "b8gh1fi",
       "Name": "Leveled Up Shops",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_retail_4",
@@ -926,9 +931,9 @@
       "ID": "ach_tutorial",
       "SetID": "b8gh1fi",
       "Name": "We Don\u0027t Need No Education",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_util_cable",
@@ -991,7 +996,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 204,
+      "Progressed": 205,
       "Completed": 0
     }
   ],
@@ -999,8 +1004,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-06T22:07:31.6451061+00:00",
+  "LastChanged_Achievements": "2023-06-06T23:05:59.0214962+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:15.3370382+00:00",
-  "LastUpdate_Ratings": "2023-06-06T21:58:34.9916104+00:00",
-  "LastUpdate_Achievements": "2023-06-06T22:07:31.6452086+00:00"
+  "LastUpdate_Ratings": "2023-06-06T22:58:04.0405989+00:00",
+  "LastUpdate_Achievements": "2023-06-06T23:05:59.0216+00:00"
 }
