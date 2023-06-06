@@ -83,6 +83,7 @@
 | [A Musical Story](../games/a/a_musical_story.md) | 54 | 1,000 |
 | [Arcade Paradise](../games/a/arcade_paradise.md) | 54 | 1,000 |
 | [Lawn Mowing Simulator](../games/l/lawn_mowing_simulator.md) | 54 | 1,000 |
+| [Rift Rangers](../games/2/24e2970ac5124a649554e210843f6774.md) | 54 | 1,000 |
 | [Sunless Sea](../games/s/sunless_sea.md) | 54 | 1,000 |
 | [CONVERGENCE: A League of Legends Story™](../games/c/convergence__a_league_of_legends_story™.md) | 53 | 1,000 |
 | [Cursed Treasure 2 Ultimate Edition](../games/c/cursed_treasure_2_ultimate_edition.md) | 53 | 1,000 |

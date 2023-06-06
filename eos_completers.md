@@ -69,7 +69,7 @@
 | 67 | [JARS](games/j/jars.md) | 1.96% |
 | 68 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 69 | [Sifu](games/s/sifu.md) | 1.80% |
-| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.79% |
+| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.78% |
 | 71 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
 | 73 | [Somerville](games/s/somerville.md) | 1.59% |
@@ -361,6 +361,7 @@
 | 212 | [Redfall](games/r/redfall.md) | 0.00% |
 | 212 | [Redout 2](games/r/redout_2.md) | 0.00% |
 | 212 | [Return to Abyss 重返深渊](games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 0.00% |
+| 212 | [Rift Rangers](games/2/24e2970ac5124a649554e210843f6774.md) | 0.00% |
 | 212 | [Riftbound](games/r/riftbound.md) | 0.00% |
 | 212 | [Rise of Industry](games/r/rise_of_industry.md) | 0.00% |
 | 212 | [Road 96](games/r/road_96.md) | 0.00% |
@@ -432,4 +433,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,734 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,735 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
