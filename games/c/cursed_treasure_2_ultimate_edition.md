@@ -53,7 +53,7 @@
 | Monument Keeper | 25.00% | ~40 |
 | Brilliant: Free Coast | 24.00% | ~38 |
 | Brilliant: The Deep | 23.00% | ~37 |
-| Starry: Free Coast | 21.00% | ~33 |
+| Starry: Free Coast | 22.00% | ~35 |
 | Starry: The Deep | 19.00% | ~30 |
 | Loveless | 16.00% | ~25 |
 | Hostile Waters | 15.00% | ~24 |

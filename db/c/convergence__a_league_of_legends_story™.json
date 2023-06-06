@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 611,
+  "EOS_Progressed": 612,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -984,6 +984,11 @@
       "Time": "2023-06-06T08:05:00.8765799+00:00",
       "NumProgressed": 611,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T14:06:15.2588486+00:00",
+      "NumProgressed": 612,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -993,9 +998,9 @@
       "ID": "AllSpecials",
       "SetID": "a9e499d",
       "Name": "Thinking Two Steps Ahead",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CamilleDefeated",
@@ -1241,9 +1246,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ParryRepeated1",
@@ -1265,9 +1270,9 @@
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PidgeDefeated",
@@ -1281,9 +1286,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "RewindParry",
@@ -1418,14 +1423,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 611,
+      "Progressed": 612,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-06T13:14:50.8785378+00:00",
+  "LastChanged_Achievements": "2023-06-06T14:06:15.2588482+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-06T13:09:00.2849245+00:00",
-  "LastUpdate_Achievements": "2023-06-06T13:14:50.8786+00:00"
+  "LastUpdate_Ratings": "2023-06-06T14:00:06.1177024+00:00",
+  "LastUpdate_Achievements": "2023-06-06T14:06:15.2589072+00:00"
 }

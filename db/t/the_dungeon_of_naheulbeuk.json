@@ -1015,9 +1015,9 @@
       "ID": "PaladineEpic",
       "SetID": "50chcgj",
       "Name": "Law and Order",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Poster",
@@ -1165,8 +1165,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-06T13:14:22.2560033+00:00",
+  "LastChanged_Achievements": "2023-06-06T14:05:46.6492043+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:21.831619+00:00",
-  "LastUpdate_Ratings": "2023-06-06T13:08:33.9251732+00:00",
-  "LastUpdate_Achievements": "2023-06-06T13:14:22.2561075+00:00"
+  "LastUpdate_Ratings": "2023-06-06T13:59:38.8491229+00:00",
+  "LastUpdate_Achievements": "2023-06-06T14:05:46.6493236+00:00"
 }

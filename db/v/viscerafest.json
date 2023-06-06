@@ -2,7 +2,7 @@
   "ID": "4288b8f6a5e94449a747efd5e1514fde",
   "Name": "Viscerafest",
   "ProductSlug": "viscerafest",
-  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 93,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.5975588+00:00",
   "LastChanged": "2023-03-31T05:57:46.5975589+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:13.0717826+00:00",
-  "LastUpdate_Ratings": "2023-06-06T13:09:28.4537655+00:00",
-  "LastUpdate_Achievements": "2023-06-06T13:14:45.1797546+00:00"
+  "LastUpdate_Ratings": "2023-06-06T14:00:33.2776412+00:00",
+  "LastUpdate_Achievements": "2023-06-06T14:06:08.9115396+00:00"
 }

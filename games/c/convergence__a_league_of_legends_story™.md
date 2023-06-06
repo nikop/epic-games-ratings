@@ -16,10 +16,11 @@
 | Ask Questions Later | 1.00% | ~6 |
 | The Man Who Shattered Time | 0.80% | ~5 |
 | No, Thanks! | 0.80% | ~5 |
+| Time Heals All Wounds | 0.80% | ~5 |
 | Golem Chaser | 0.80% | ~5 |
 | Family Memories | 0.70% | ~4 |
 | Whiz Kid | 0.70% | ~4 |
-| Time Heals All Wounds | 0.70% | ~4 |
+| The Harder They Fall | 0.70% | ~4 |
 | Fast Learner | 0.70% | ~4 |
 | Syron for Hope | 0.70% | ~4 |
 | Immaculate Aim | 0.70% | ~4 |
@@ -31,7 +32,7 @@
 | The Mysterious Stranger | 0.50% | ~3 |
 | Rail Rat | 0.50% | ~3 |
 | Time Flies | 0.50% | ~3 |
-| The Harder They Fall | 0.50% | ~3 |
+| The Wicked Twins | 0.50% | ~3 |
 | Golem Hunter | 0.50% | ~3 |
 | Theater Explorer | 0.50% | ~3 |
 | Good Neighbor | 0.50% | ~3 |
@@ -40,15 +41,14 @@
 | Factorywood Explorer | 0.30% | ~2 |
 | Fairgrounds Explorer | 0.30% | ~2 |
 | The Betrayer | 0.30% | ~2 |
-| The Wicked Twins | 0.30% | ~2 |
 | Honest Mistake | 0.30% | ~2 |
 | Rungs Was Right | 0.30% | ~2 |
+| Thinking Two Steps Ahead | 0.20% | ~1 |
 | Right On Time | 0.20% | ~1 |
 | Cultivair Explorer | 0.20% | ~1 |
 | Hexlock for Protection | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |
 | Check Your Pulse | 0.20% | ~1 |
-| Thinking Two Steps Ahead | 0.00% | ~0 |
 | Chaincrawler Explorer | 0.00% | ~0 |
 | Clovemary for Remembering | 0.00% | ~0 |
 | Wunderkind | 0.00% | ~0 |
@@ -58,7 +58,7 @@
 | A Lesson in Precision | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 611 (Ranked 195)  
+Progressed: 612 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,4 +77,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 586 | 0 |
 | 2023-06-04 | 602 | 0 |
 | 2023-06-05 | 608 | 0 |
-| 2023-06-06 | 611 | 0 |
+| 2023-06-06 | 612 | 0 |

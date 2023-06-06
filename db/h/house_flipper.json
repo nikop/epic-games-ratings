@@ -1560,9 +1560,9 @@
       "Count": 205
     }
   ],
-  "EOS_Progressed": 19354,
+  "EOS_Progressed": 19356,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3840,6 +3840,11 @@
       "Time": "2023-06-06T13:15:38.4163305+00:00",
       "NumProgressed": 19354,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-06T14:07:01.0333807+00:00",
+      "NumProgressed": 19356,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3851,7 +3856,7 @@
       "Name": "Family man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "CarMechanic",
@@ -3899,7 +3904,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18193
+      "UsersEstimate": 18195
     },
     {
       "ID": "GameOver",
@@ -3931,7 +3936,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "JuniorEstateAgent",
@@ -3939,7 +3944,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "KnockKnock",
@@ -3987,7 +3992,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3677
+      "UsersEstimate": 3678
     },
     {
       "ID": "SeniorEstateAgent",
@@ -4034,15 +4039,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19354,
+      "Progressed": 19356,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-06T03:14:48.9674348+00:00",
-  "LastChanged_Achievements": "2023-06-06T13:15:38.4163292+00:00",
+  "LastChanged_Achievements": "2023-06-06T14:07:01.0333801+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-06T13:09:00.910417+00:00",
-  "LastUpdate_Achievements": "2023-06-06T13:15:38.416362+00:00"
+  "LastUpdate_Ratings": "2023-06-06T14:00:06.7983772+00:00",
+  "LastUpdate_Achievements": "2023-06-06T14:07:01.0334134+00:00"
 }

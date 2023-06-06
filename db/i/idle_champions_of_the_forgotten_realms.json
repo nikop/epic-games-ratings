@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4082,10 +4082,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30043,
       "NumberOfAwardsMax": 4920
+    },
+    {
+      "Time": "2023-06-06T13:58:26.8819051+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30044,
+      "NumberOfAwardsMax": 4920
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30043,
+  "NumberOfAwards": 30044,
   "NumberOfAwardsMax": 4920,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4117,7 +4123,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3954
+      "Count": 3955
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4132,9 +4138,9 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 89939,
+  "EOS_Progressed": 89942,
   "EOS_Completed": 1918,
-  "EOS_NewPlayers": 737,
+  "EOS_NewPlayers": 735,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8882,6 +8888,11 @@
       "Time": "2023-06-06T13:16:08.6752276+00:00",
       "NumProgressed": 89939,
       "NumCompleted": 1918
+    },
+    {
+      "Time": "2023-06-06T14:07:30.9539292+00:00",
+      "NumProgressed": 89942,
+      "NumCompleted": 1918
     }
   ],
   "TotalAchievements": 493,
@@ -9259,9 +9270,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 720
+      "UsersEstimate": 809
     },
     {
       "ID": "objective_completed_110",
@@ -9867,9 +9878,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_130",
@@ -10227,9 +10238,9 @@
       "ID": "objective_completed_20",
       "SetID": "cc37lbc",
       "Name": "No Time To Rest",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_208",
@@ -12821,7 +12832,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "objective_completed_1361",
@@ -12836,21 +12847,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56213,
+      "Progressed": 56216,
       "Completed": 2774
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89939,
+      "Progressed": 89942,
       "Completed": 1918
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-06T09:58:18.0653887+00:00",
-  "LastChanged_Achievements": "2023-06-06T13:16:08.6752269+00:00",
+  "LastChanged": "2023-06-06T13:58:26.881905+00:00",
+  "LastChanged_Achievements": "2023-06-06T14:07:30.9539288+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-06T13:07:18.7132237+00:00",
-  "LastUpdate_Achievements": "2023-06-06T13:16:08.678128+00:00"
+  "LastUpdate_Ratings": "2023-06-06T13:58:26.8819216+00:00",
+  "LastUpdate_Achievements": "2023-06-06T14:07:30.9569293+00:00"
 }

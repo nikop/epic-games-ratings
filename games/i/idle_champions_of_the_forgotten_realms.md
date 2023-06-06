@@ -8,14 +8,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,799 |
 | The Cursed Farmer | 1.00% | ~899 |
+| Beast Intentions | 0.90% | ~809 |
 | The Mad Wizard | 0.90% | ~809 |
 | The Court of Storms | 0.90% | ~506 |
-| Beast Intentions | 0.80% | ~720 |
 | The Ring of Regeneration | 0.70% | ~630 |
-| Beware the Jabberwock | 0.70% | ~393 |
+| Beware the Jabberwock | 0.70% | ~394 |
 | Are Ya Chicken? | 0.60% | ~540 |
 | Coasting to the Finish | 0.60% | ~337 |
 | Were-verpowered | 0.50% | ~450 |
+| A Persistent Buzzing | 0.50% | ~450 |
 | Seeking Allies | 0.50% | ~450 |
 | Mad Cow Disease | 0.50% | ~450 |
 | Friendly Imps | 0.50% | ~450 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.40% | ~225 |
 | Checkmate | 0.40% | ~225 |
 | Vecna Out! | 0.40% | ~225 |
-| A Persistent Buzzing | 0.40% | ~360 |
 | Terror in the Dark | 0.40% | ~360 |
 | Unearthed Evil | 0.40% | ~360 |
 | The Crumbling Temple | 0.40% | ~360 |
@@ -43,6 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.30% | ~270 |
 | A Mysterious Summons | 0.30% | ~270 |
 | Building Trust | 0.30% | ~270 |
+| No Time To Rest | 0.30% | ~270 |
 | The Dinner Party | 0.30% | ~270 |
 | Useless Allies | 0.30% | ~270 |
 | Running of the Saurs | 0.30% | ~270 |
@@ -115,7 +116,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sleuth It Out | 0.20% | ~180 |
 | A Grand Puzzle | 0.20% | ~180 |
 | Tomb of the Nine Gods | 0.20% | ~180 |
-| No Time To Rest | 0.20% | ~180 |
 | The Mists of Ravenloft | 0.20% | ~180 |
 | Invisible Shadows | 0.20% | ~180 |
 | Family Entanglements | 0.20% | ~180 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~90 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,939 (Ranked 62)  
+Progressed: 89,942 (Ranked 62)  
 Completed: 1,918 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,10 +547,10 @@ Completed: 1,918 (2.13%) (Ranked 65)
 | 2023-06-03 | 89,683 | 1,913 |
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
-| 2023-06-06 | 89,939 | 1,918 |
+| 2023-06-06 | 89,942 | 1,918 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
-Sum: 30,043 (Ranked 37)  
+Sum: 30,044 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -558,7 +558,7 @@ Diff (max vs sum): 27
 | This game is Great for Beginners | 4,854 |
 | This game has Quickly Understood Controls | 4,610 |
 | This game is Relaxing | 4,509 |
-| This game is Highly Recommended | 3,954 |
+| This game is Highly Recommended | 3,955 |
 | This game has Amazing Characters | 3,950 |
 | This game has Playful Visuals | 3,246 |
 ## Ratings History
@@ -695,4 +695,4 @@ Diff (max vs sum): 27
 | 2023-06-03 | 4.06 | - | 4,917 | 30,025 |
 | 2023-06-04 | 4.06 | - | 4,917 | 30,033 |
 | 2023-06-05 | 4.06 | - | 4,917 | 30,035 |
-| 2023-06-06 | 4.06 | - | 4,920 | 30,043 |
+| 2023-06-06 | 4.06 | - | 4,920 | 30,044 |

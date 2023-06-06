@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -1277,9 +1277,9 @@
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_007",
@@ -1293,9 +1293,9 @@
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "LEVEL_009",
@@ -1422,8 +1422,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-06T13:15:25.6941119+00:00",
+  "LastChanged_Achievements": "2023-06-06T14:06:48.996959+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-06T13:07:17.0228698+00:00",
-  "LastUpdate_Achievements": "2023-06-06T13:15:25.6941353+00:00"
+  "LastUpdate_Ratings": "2023-06-06T13:58:25.2320825+00:00",
+  "LastUpdate_Achievements": "2023-06-06T14:06:48.9969872+00:00"
 }

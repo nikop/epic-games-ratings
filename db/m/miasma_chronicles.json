@@ -66,7 +66,7 @@
   "Tags": [],
   "EOS_Progressed": 1037,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1384,9 +1384,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 757
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1448,9 +1448,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 415
     },
     {
       "ID": "CRUELTY",
@@ -1752,9 +1752,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 311
     },
     {
       "ID": "THE_WATCHERS",
@@ -1785,8 +1785,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-06T13:12:11.2320004+00:00",
+  "LastChanged_Achievements": "2023-06-06T14:03:26.7157801+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-06T13:07:37.8361635+00:00",
-  "LastUpdate_Achievements": "2023-06-06T13:12:11.2320854+00:00"
+  "LastUpdate_Ratings": "2023-06-06T13:58:44.3534323+00:00",
+  "LastUpdate_Achievements": "2023-06-06T14:03:26.715845+00:00"
 }

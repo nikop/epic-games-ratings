@@ -39,12 +39,12 @@ Number of Ratings: 118  (23.09.2022)
 | Torture and Sensibility | 18.00% | ~4 |
 | Urik's Depths | 18.00% | ~4 |
 | He’s alive! Aliiiive! | 18.00% | ~4 |
+| Law and Order | 18.00% | ~4 |
 | In Navalu's footsteps | 18.00% | ~4 |
 | Necrophilia | 14.00% | ~3 |
 | The Blood Countess | 14.00% | ~3 |
 | Egghead | 14.00% | ~3 |
 | An old poacher makes the best gamekeeper | 14.00% | ~3 |
-| Law and Order | 14.00% | ~3 |
 | Lëgal Legend | 14.00% | ~3 |
 | Lust and Debauchery | 14.00% | ~3 |
 | The Dungeon Master | 9.00% | ~2 |

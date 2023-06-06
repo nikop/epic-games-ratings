@@ -35,8 +35,8 @@ Number of Ratings: 20  (23.09.2022)
 | The New Director | 13.00% | ~40 |
 | The Director is Dead | 13.00% | ~40 |
 | Adventurer | 13.00% | ~40 |
+| Discovery | 13.00% | ~40 |
 | Plays Well With Others | 13.00% | ~40 |
-| Discovery | 12.00% | ~37 |
 | Very Classy | 11.00% | ~34 |
 | And Here Is Your Statue | 10.00% | ~31 |
 | Under the Table | 10.00% | ~31 |

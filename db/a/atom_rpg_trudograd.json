@@ -3,11 +3,11 @@
   "Name": "ATOM RPG Trudograd",
   "ProductSlug": "atom-rpg-trudograd-a97244",
   "Ranking_Rating": 514,
-  "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 489,
+  "Ranking_Popularity": 482,
+  "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -175,23 +175,29 @@
       "Rating": 4.52,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-06-06T13:57:30.8071112+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 20
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1077,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -594,6 +600,11 @@
       "Time": "2023-06-05T23:06:54.1224736+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-06T14:06:55.295155+00:00",
+      "NumProgressed": 1077,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -723,9 +734,9 @@
       "ID": "KGB_BUNKER",
       "SetID": "62d2oh4",
       "Name": "KGB Bunker",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "LOT_49",
@@ -853,23 +864,23 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1077,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-11-08T13:31:16.6189198+00:00",
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
-  "LastChanged": "2023-05-31T02:18:16.1842176+00:00",
-  "LastChanged_Achievements": "2023-06-06T13:15:32.6190817+00:00",
+  "LastChanged": "2023-06-06T13:57:30.8071111+00:00",
+  "LastChanged_Achievements": "2023-06-06T14:06:55.2951547+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:21.9727845+00:00",
-  "LastUpdate_Ratings": "2023-06-06T13:06:22.8799812+00:00",
-  "LastUpdate_Achievements": "2023-06-06T13:15:32.6191086+00:00"
+  "LastUpdate_Ratings": "2023-06-06T13:57:30.8071118+00:00",
+  "LastUpdate_Achievements": "2023-06-06T14:06:55.2951857+00:00"
 }

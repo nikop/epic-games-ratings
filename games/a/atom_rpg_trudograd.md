@@ -5,7 +5,7 @@ Rating: 4.52 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~936 |
+| Fresh Prince of Trudograd | 87.00% | ~937 |
 | Household | 6.00% | ~65 |
 | An Old Friend | 5.00% | ~54 |
 | Atomic Soda | 4.00% | ~43 |
@@ -20,9 +20,9 @@ Rating: 4.52 (Ranked 514)
 | Human Antidote | 2.00% | ~22 |
 | Albino Bloodsucker | 1.00% | ~11 |
 | Death of the Author | 1.00% | ~11 |
-| KGB Bunker | 0.70% | ~8 |
 | Memoirs of a Nibbler | 0.70% | ~8 |
 | Sixth Sense | 0.70% | ~8 |
+| KGB Bunker | 0.60% | ~6 |
 | Rising Star | 0.60% | ~6 |
 | Baby Eater | 0.50% | ~5 |
 | Admiral | 0.30% | ~3 |
@@ -38,7 +38,7 @@ Rating: 4.52 (Ranked 514)
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,076 (Ranked 170)  
+Progressed: 1,077 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,13 +79,14 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 1,072 | 0 |
 | 2023-06-04 | 1,074 | 0 |
 | 2023-06-05 | 1,076 | 0 |
+| 2023-06-06 | 1,077 | 0 |
 ## Awards
-Max (Character Customization): 20  (Ranked 489)  
-Sum: 20 (Ranked 489)  
-Diff (max vs sum): 0  
+Max (Character Customization): 21  (Ranked 482)  
+Sum: 21 (Ranked 484)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 20 |
+| This game has Inclusive Character Customization | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -118,3 +119,4 @@ Diff (max vs sum): 0
 | 2023-04-17 | 4.49 | 20 | 20 |
 | 2023-04-29 | 4.50 | 20 | 20 |
 | 2023-05-31 | 4.52 | 20 | 20 |
+| 2023-06-06 | 4.52 | 21 | 21 |
