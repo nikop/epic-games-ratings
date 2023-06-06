@@ -227,7 +227,7 @@
 | 218 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 493 |
 | 218 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 493 |
 | 218 | [Northgard](games/n/northgard.md) | 4.69 | 29 | 451 |
-| 218 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,252 | 33 |
+| 218 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,254 | 33 |
 | 218 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 493 |
 | 218 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 493 |
 | 218 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 44 | 407 |
@@ -427,7 +427,7 @@
 | 421 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 493 |
 | 421 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 7,494 | 42 |
 | 421 | [Everything](games/e/everything.md) | 4.58 | 0 | 493 |
-| 421 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 246 | 242 |
+| 421 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 247 | 242 |
 | 421 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 36 | 424 |
 | 421 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 217 | 251 |
 | 421 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 0 | 493 |
@@ -679,7 +679,7 @@
 | 666 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 539 | 181 |
 | 666 | [Warpips](games/w/warpips.md) | 4.41 | 23 | 473 |
 | 679 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 493 |
-| 679 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 242 |
+| 679 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 243 |
 | 679 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 995 | 139 |
 | 679 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 493 |
 | 679 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.40 | 0 | 493 |

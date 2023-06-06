@@ -149,6 +149,7 @@
 | [Mara's Quest](games/m/mara's_quest.md) | 2023-12-31 | - |  | - | - |
 | [Mars Tactics](games/m/mars_tactics.md) | 2023-12-31 | - |  | - | - |
 | [Men of War II](games/m/men_of_war_ii.md) | 2023-12-31 | - |  | - | - |
+| [Monster Boy and the Cursed Kingdom](games/2/2573986ce0c3433facd6b5a3fec5d950.md) | 2023-12-31 | - |  | - | - |
 | [Moon Village Simulator](games/m/moon_village_simulator.md) | 2023-12-31 | - |  | - | - |
 | [Mushrooms: Forest Walker](games/m/mushrooms__forest_walker.md) | 2023-12-31 | - |  | - | - |
 | [Oceanhorn 2 - Knights of the Lost Realm](games/e/ec8ec4b13e6043cab8d1cbd0edda9a70.md) | 2023-12-31 | - |  | - | - |
@@ -381,7 +382,7 @@
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2099-02-01 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,714 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,715 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [F1 Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |

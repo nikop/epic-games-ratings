@@ -32,7 +32,7 @@
 | 30 | [NBA 2K21](games/n/nba_2k21.md) | 11,680 | 4.39 | 691 |
 | 31 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 11,542 | 4.24 | 800 |
 | 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,503 | 4.87 | 26 |
-| 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,252 | 4.69 | 218 |
+| 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,254 | 4.69 | 218 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,478 | 4.45 | 616 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 9,630 | 4.88 | 20 |
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,177 | 4.61 | 360 |
@@ -241,8 +241,8 @@
 | 239 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 261 | 4.64 | 314 |
 | 240 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 256 | 4.84 | 51 |
 | 241 | [Dead Cells](games/d/dead_cells.md) | 255 | 4.88 | 20 |
-| 242 | [Crysis Remastered](games/c/crysis_remastered.md) | 246 | 4.40 | 679 |
-| 242 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 246 | 4.58 | 421 |
+| 242 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 247 | 4.58 | 421 |
+| 243 | [Crysis Remastered](games/c/crysis_remastered.md) | 246 | 4.40 | 679 |
 | 244 | [Roller Champions™](games/r/roller_champions™.md) | 242 | 4.34 | 736 |
 | 245 | [MudRunner](games/m/mudrunner.md) | 238 | 4.61 | 360 |
 | 246 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 235 | 4.49 | 564 |
