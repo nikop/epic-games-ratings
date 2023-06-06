@@ -12,7 +12,7 @@
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
 | 11 | [Island Cities](games/i/island_cities.md) | 14.60% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.95% |
-| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 15 | [Without Escape](games/w/without_escape.md) | 10.00% |
@@ -40,7 +40,7 @@
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
 | 39 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.77% |
 | 39 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.77% |
-| 41 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
+| 41 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
 | 42 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.28% |
 | 44 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.22% |
@@ -83,7 +83,7 @@
 | 81 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 82 | [Chorus](games/c/chorus.md) | 1.18% |
 | 82 | [Trifox](games/t/trifox.md) | 1.18% |
-| 84 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.17% |
+| 84 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.16% |
 | 85 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.14% |
 | 85 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
 | 87 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.07% |
@@ -98,7 +98,7 @@
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 96 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.80% |
 | 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
-| 99 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.79% |
+| 99 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.78% |
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.76% |
 | 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 102 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |

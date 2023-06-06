@@ -347,6 +347,7 @@
 | [Charon's Staircase](../games/c/charon's_staircase.md) | 20 | 1,000 |
 | [JARS](../games/j/jars.md) | 20 | 1,000 |
 | [Late Shift](../games/l/late_shift.md) | 20 | 1,000 |
+| [One More Dungeon 2](../games/4/46c8eccba1224195bdd112048075cc37.md) | 20 | 1,000 |
 | [Poosh XL](../games/p/poosh_xl.md) | 20 | 1,000 |
 | [Saturnalia](../games/s/saturnalia.md) | 20 | 1,000 |
 | [The Complex](../games/t/the_complex.md) | 20 | 1,000 |

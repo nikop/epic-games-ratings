@@ -16,7 +16,7 @@
 | 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 493 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 493 |
 | 13 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.89 | 0 | 493 |
-| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 146,550 | 6 |
+| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 146,795 | 6 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 410 | 199 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,619 | 20 |
 | 20 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 133 | 297 |
@@ -149,7 +149,7 @@
 | 143 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.74 | 66 | 369 |
 | 143 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 774 | 148 |
 | 143 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 608 | 166 |
-| 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,631 | 49 |
+| 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,636 | 49 |
 | 143 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 32,461 | 14 |
 | 143 | [Star Atlas](games/s/star_atlas.md) | 4.74 | 0 | 493 |
 | 143 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 493 |
@@ -514,7 +514,7 @@
 | 501 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.53 | 0 | 493 |
 | 501 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 28 | 457 |
 | 514 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 20 | 489 |
-| 514 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 741 | 152 |
+| 514 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 742 | 152 |
 | 514 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 28,057 | 16 |
 | 514 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 482 |
 | 514 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 493 |
@@ -554,6 +554,7 @@
 | 545 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,401 | 94 |
 | 545 | [Horace](games/h/horace.md) | 4.50 | 0 | 493 |
 | 545 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.50 | 0 | 493 |
+| 545 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 0 | 493 |
 | 545 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 97 | 329 |
 | 545 | [MythForce](games/m/mythforce.md) | 4.50 | 32 | 438 |
 | 545 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 493 |
@@ -562,22 +563,21 @@
 | 545 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 493 |
 | 545 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 753 | 151 |
 | 545 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 31 | 443 |
-| 563 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 376 |
-| 563 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 399 | 203 |
-| 563 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,975 | 104 |
-| 563 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 105 | 319 |
-| 563 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 493 |
-| 563 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 493 |
-| 563 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 234 |
-| 563 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 233 | 246 |
-| 563 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 493 |
-| 563 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 493 |
-| 563 | [Maneater](games/m/maneater.md) | 4.49 | 13,492 | 25 |
-| 563 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 619 | 164 |
-| 563 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 493 |
-| 563 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 0 | 493 |
-| 563 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 348 |
-| 563 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 424 |
+| 564 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 376 |
+| 564 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 399 | 203 |
+| 564 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,975 | 104 |
+| 564 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 105 | 319 |
+| 564 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 493 |
+| 564 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 493 |
+| 564 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 234 |
+| 564 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 233 | 246 |
+| 564 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 493 |
+| 564 | [Maneater](games/m/maneater.md) | 4.49 | 13,492 | 25 |
+| 564 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 619 | 164 |
+| 564 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 493 |
+| 564 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.49 | 0 | 493 |
+| 564 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 348 |
+| 564 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 424 |
 | 579 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 493 |
 | 579 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 493 |
 | 579 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.48 | 0 | 493 |
