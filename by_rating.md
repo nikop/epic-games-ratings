@@ -68,7 +68,7 @@
 | 65 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 493 |
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 493 |
 | 65 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 520 | 183 |
-| 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,137 | 53 |
+| 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,142 | 52 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 392 | 205 |
 | 65 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 35 | 428 |
 | 72 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 0 | 493 |
@@ -403,7 +403,7 @@
 | 385 | [The Medium](games/t/the_medium.md) | 4.60 | 0 | 493 |
 | 385 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 21 | 482 |
 | 385 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 493 |
-| 385 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 339 | 214 |
+| 385 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 340 | 214 |
 | 385 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 346 |
 | 385 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 493 |
 | 407 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 407 |
@@ -503,7 +503,7 @@
 | 501 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 493 |
 | 501 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 493 |
 | 501 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,100 | 17 |
-| 501 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 140,061 | 7 |
+| 501 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 140,503 | 7 |
 | 501 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 493 |
 | 501 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 473 |
 | 501 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 340 |
@@ -559,7 +559,7 @@
 | 545 | [MythForce](games/m/mythforce.md) | 4.50 | 32 | 439 |
 | 545 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 493 |
 | 545 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 682 | 159 |
-| 545 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 429,542 | 2 |
+| 545 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 430,108 | 2 |
 | 545 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 493 |
 | 545 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 753 | 151 |
 | 545 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 31 | 444 |
@@ -739,7 +739,7 @@
 | 736 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 493 |
 | 736 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 53 | 385 |
 | 736 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 493 |
-| 736 | [Paladins](games/p/paladins.md) | 4.34 | 3,277 | 83 |
+| 736 | [Paladins](games/p/paladins.md) | 4.34 | 3,279 | 83 |
 | 736 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 493 |
 | 736 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,995 | 63 |
 | 736 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 242 | 244 |
@@ -898,14 +898,14 @@
 | 896 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 493 |
 | 897 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 0 | 493 |
 | 897 | [Banished](games/b/banished.md) | 4.00 | 0 | 493 |
+| 897 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.00 | 0 | 493 |
 | 897 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.00 | 0 | 493 |
-| 900 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 370 | 208 |
-| 900 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 493 |
-| 902 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 493 |
-| 902 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,169 | 101 |
-| 902 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,611 | 67 |
-| 905 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.97 | 0 | 493 |
-| 905 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 493 |
+| 901 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 370 | 208 |
+| 901 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 493 |
+| 903 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 493 |
+| 903 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,169 | 101 |
+| 903 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,611 | 67 |
+| 906 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 493 |
 | 907 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 404 |
 | 907 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 0 | 493 |
 | 909 | [Chimeraland](games/c/chimeraland.md) | 3.94 | 22 | 476 |

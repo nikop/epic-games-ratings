@@ -23,8 +23,8 @@
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 17 | - | - |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | - |  | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | - |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 572,746 | 4.64 | 336 |
-| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 898,839 | 4.41 | 0 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 573,118 | 4.64 | 336 |
+| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 903,130 | 4.41 | 0 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 234 | - | 0 |
 | [Nihilsearch](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | - |  | - | - |
 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 2023-06-01 | 6 (1,000 XP) | 27 | - | 0 |
@@ -50,7 +50,7 @@
 | [Nick Quest](games/4/4fa4796b3d9842a79980112c9dc17562.md) | 2023-05-30 | - |  | - | 0 |
 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2023-05-29 | 18 (1,000 XP) | 39 | - | 0 |
 | [Shadows. Price For Our Sins](games/a/a34a8e91b1094d28b0c1b997e9f47b38.md) | 2023-05-29 | - |  | - | 0 |
-| [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 2023-05-29 | 66 (1,000 XP) | 347 | - | 0 |
+| [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 2023-05-29 | 66 (1,000 XP) | 348 | - | 0 |
 | [World of Contraptions](games/w/world_of_contraptions.md) | 2023-05-29 | 30 (1,000 XP) | 96 | - | 0 |
 | [International Basketball Manager 23](games/e/e9543b5d696d4129af27a26b22ceeaff.md) | 2023-05-29 | - |  | - | 0 |
 | [Yodanji](games/c/cc91867fe9ed4055b45b10fe161771bb.md) | 2023-05-29 | - |  | - | 0 |
@@ -112,7 +112,7 @@
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 12 (1,000 XP) | 2 | - | 0 |
 | [Flyto](games/f/flyto.md) | 2023-05-18 | - |  | - | - |
 | [Witchcrafty](games/w/witchcrafty.md) | 2023-05-18 | - |  | - | 0 |
-| [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-18 | 30 (1,000 XP) | 415 | - | 0 |
+| [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-18 | 30 (1,000 XP) | 416 | - | 0 |
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | - |  | - | 0 |
 | [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | 2023-05-17 | - |  | - | - |
 | [Elypse](games/e/elypse.md) | 2023-05-17 | 34 (1,000 XP) | 59 | - | 0 |

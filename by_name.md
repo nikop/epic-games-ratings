@@ -423,7 +423,7 @@
 | [Clicker Guardians](games/c/clicker_guardians.md) | - | - | - | - |
 | [Clid The Snail](games/c/clid_the_snail.md) | - | - | 0 | - |
 | [Clockwork Survivors](games/c/clockwork_survivors.md) | - | - | - | - |
-| [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 902 | 0 | 493 |
+| [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 903 | 0 | 493 |
 | [Cloud Cutter](games/c/cloud_cutter.md) | - | - | - | - |
 | [Clouzy](games/c/clouzy.md) | - | - | 0 | - |
 | [Cobra Kai - The Karate Kid Saga Continues](games/c/cobra_kai_-_the_karate_kid_saga_continues.md) | - | - | 0 | - |
@@ -752,7 +752,7 @@
 | [Faces of War](games/f/faces_of_war.md) | - | - | 0 | - |
 | [Faeria](games/f/faeria.md) | 4.45 | 616 | 105 | 319 |
 | [Falcon Age](games/f/falcon_age.md) | - | - | 0 | - |
-| [Fall Guys](games/f/fall_guys.md) | 4.53 | 501 | 140,061 | 7 |
+| [Fall Guys](games/f/fall_guys.md) | 4.53 | 501 | 140,503 | 7 |
 | [Fall of Light: Darkest Edition](games/f/fall_of_light__darkest_edition.md) | - | - | 0 | - |
 | [Fallen Legion Revenants](games/f/fallen_legion_revenants.md) | - | - | - | - |
 | [Fallen Legion: Rise to Glory](games/f/fallen_legion__rise_to_glory.md) | - | - | - | - |
@@ -805,7 +805,7 @@
 | [Fireburst](games/f/fireburst.md) | - | - | 0 | - |
 | [Firegirl: Hack 'n Splash Rescue DX](games/f/firegirl__hack_'n_splash_rescue_dx.md) | - | - | 0 | - |
 | [Fires At Midnight](games/f/fires_at_midnight_1.md) | - | - | 0 | - |
-| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.97 | 905 | 0 | 493 |
+| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.00 | 897 | 0 | 493 |
 | [Firework](games/f/firework.md) | 4.89 | 13 | 0 | 493 |
 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 530 | 95 | 333 |
 | [First Dwarf](games/f/first_dwarf.md) | - | - | - | - |
@@ -912,7 +912,7 @@
 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 847 | 26 | 462 |
 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 883 | 516 | 184 |
 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 793 | 0 | 493 |
-| [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 905 | 0 | 493 |
+| [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 906 | 0 | 493 |
 | [Godstrike](games/g/godstrike.md) | - | - | 0 | - |
 | [Goetia 2](games/g/goetia_2.md) | - | - | 0 | - |
 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 385 | 119 | 307 |
@@ -1012,7 +1012,7 @@
 | [Homeworld 3](games/h/homeworld_3.md) | - | - | - | - |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 545 | 2,407 | 94 |
 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.68 | 240 | 0 | 493 |
-| [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 900 | 370 | 208 |
+| [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 901 | 370 | 208 |
 | [Horace](games/h/horace.md) | 4.50 | 545 | 0 | 493 |
 | [HordeCore](games/h/hordecore.md) | - | - | 0 | - |
 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 453 | 141 | 291 |
@@ -1570,7 +1570,7 @@
 | [Pacific Drive](games/p/pacific_drive.md) | - | - | - | - |
 | [Painting Werther](games/p/painting_werther.md) | - | - | - | - |
 | [Paladin Dream](games/p/paladin_dream.md) | - | - | 0 | - |
-| [Paladins](games/p/paladins.md) | 4.34 | 736 | 3,277 | 83 |
+| [Paladins](games/p/paladins.md) | 4.34 | 736 | 3,279 | 83 |
 | [Pandemic 1993](games/p/pandemic_1993.md) | - | - | - | - |
 | [Panic Porcupine](games/p/panic_porcupine.md) | - | - | - | - |
 | [Panther](games/p/panther.md) | - | - | - | - |
@@ -1657,7 +1657,7 @@
 | [Project Highrise](games/p/project_highrise.md) | - | - | 0 | - |
 | [Project Pastorate](games/p/project_pastorate.md) | - | - | 0 | - |
 | [Project Warlock II](games/p/project_warlock_ii.md) | - | - | 0 | - |
-| [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 902 | 2,169 | 101 |
+| [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 903 | 2,169 | 101 |
 | [PUGS Agents](games/p/pugs_agents.md) | - | - | - | - |
 | [Pumpkin Jack](games/p/pumpkin_jack.md) | - | - | 0 | - |
 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | - | - | - | - |
@@ -1775,7 +1775,7 @@
 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | - | - | - | - |
 | [Roboplant](games/r/roboplant.md) | - | - | 0 | - |
 | [Rocco's Island](games/r/rocco's_island.md) | - | - | 0 | - |
-| [Rocket League®](games/r/rocket_league®.md) | 4.50 | 545 | 429,542 | 2 |
+| [Rocket League®](games/r/rocket_league®.md) | 4.50 | 545 | 430,108 | 2 |
 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 736 | 4,995 | 63 |
 | [Rogue Invader](games/r/rogue_invader.md) | - | - | 0 | - |
 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 361 | 1,062 | 133 |
@@ -1900,7 +1900,7 @@
 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | - | - | 0 | - |
 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | - | - | 0 | - |
 | [Ship Simulator Realistic](games/s/ship_simulator_realistic.md) | - | - | - | - |
-| [Shop Titans](games/s/shop_titans.md) | 3.98 | 902 | 4,611 | 67 |
+| [Shop Titans](games/s/shop_titans.md) | 3.98 | 903 | 4,611 | 67 |
 | [Shop Tycoon - Prepare Your Wallet](games/a/a558895729e74ef28bc57bdab3cd63f1.md) | - | - | 0 | - |
 | [Shotgun Farmers](games/s/shotgun_farmers.md) | - | - | 0 | - |
 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.35 | 726 | 0 | 493 |
@@ -1909,7 +1909,7 @@
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | - | - | - | - |
 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 144 | 32,506 | 14 |
 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 887 | 0 | 493 |
-| [Sifu](games/s/sifu.md) | 4.82 | 65 | 6,137 | 53 |
+| [Sifu](games/s/sifu.md) | 4.82 | 65 | 6,142 | 52 |
 | [Silence](games/s/silence.md) | - | - | 0 | - |
 | [Silt](games/s/silt.md) | - | - | 0 | - |
 | [SIMULACRA 3](games/s/simulacra_3.md) | - | - | 0 | - |
@@ -2234,7 +2234,7 @@
 | [The Fall](games/t/the_fall.md) | 4.27 | 783 | 0 | 493 |
 | [The Fall Part 2: Unbound](games/t/the_fall_part_2__unbound.md) | - | - | 0 | - |
 | [The First Spark](games/t/the_first_spark.md) | - | - | - | - |
-| [The First Tree](games/t/the_first_tree.md) | 3.99 | 900 | 0 | 493 |
+| [The First Tree](games/t/the_first_tree.md) | 3.99 | 901 | 0 | 493 |
 | [The Flower Collectors](games/t/the_flower_collectors.md) | - | - | 0 | - |
 | [The Fold Ingression](games/t/the_fold_ingression.md) | - | - | - | - |
 | [The Forest Cathedral](games/t/the_forest_cathedral.md) | - | - | - | - |
@@ -2594,7 +2594,7 @@
 | [Warpips](games/w/warpips.md) | 4.41 | 666 | 23 | 473 |
 | [Warrior Kings](games/w/warrior_kings.md) | - | - | 0 | - |
 | [Warshmallows](games/w/warshmallows.md) | - | - | 0 | - |
-| [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 385 | 339 | 214 |
+| [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 385 | 340 | 214 |
 | [Watch Dogs Legion Gold Edition](games/w/watch_dogs_legion_gold_edition.md) | - | - | - | - |
 | [Watch Dogs Legion Ultimate Edition](games/w/watch_dogs_legion_ultimate_edition.md) | - | - | - | - |
 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 453 | 50 | 391 |
