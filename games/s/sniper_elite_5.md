@@ -17,17 +17,17 @@ Rating: 4.45 (Ranked 616)
 | As Quiet as a Mouse | 9.00% | ~208 |
 | Target America | 9.00% | ~208 |
 | Just a Flesh Wound | 8.00% | ~185 |
-| Liberté | 7.00% | ~161 |
-| Enemy at the Gates | 7.00% | ~161 |
-| Gunslinger | 7.00% | ~161 |
-| Sharpshooter | 7.00% | ~161 |
-| Explosive Efficiency | 7.00% | ~161 |
-| The Kraken Sleeps | 7.00% | ~161 |
+| Liberté | 7.00% | ~162 |
+| Enemy at the Gates | 7.00% | ~162 |
+| Gunslinger | 7.00% | ~162 |
+| Sharpshooter | 7.00% | ~162 |
+| Explosive Efficiency | 7.00% | ~162 |
+| The Kraken Sleeps | 7.00% | ~162 |
 | Opposing Force | 6.00% | ~138 |
+| Die Nussknacker Sweet! | 6.00% | ~138 |
 | Der Geist | 6.00% | ~138 |
 | Climbing the Ladder | 5.00% | ~115 |
 | Fields of Glory | 5.00% | ~115 |
-| Die Nussknacker Sweet! | 5.00% | ~115 |
 | Close Quarters | 5.00% | ~115 |
 | Snake in the Grass | 5.00% | ~115 |
 | Brains of the Operation | 5.00% | ~115 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 616)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,307 (Ranked 147)  
+Progressed: 2,308 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 2 (0.09%) (Ranked 169)
 | 2023-06-03 | 2,182 | 2 |
 | 2023-06-04 | 2,257 | 2 |
 | 2023-06-05 | 2,307 | 2 |
+| 2023-06-06 | 2,308 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

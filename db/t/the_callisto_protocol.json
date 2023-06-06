@@ -530,9 +530,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14579,
+  "EOS_Progressed": 14580,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2870,6 +2870,11 @@
       "Time": "2023-06-05T23:04:48.4570956+00:00",
       "NumProgressed": 14579,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-06T00:04:08.019037+00:00",
+      "NumProgressed": 14580,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -2913,7 +2918,7 @@
       "Name": "Flesh Wound",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3200,13 +3205,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14579,
+      "Progressed": 14580,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2505,
+      "Progressed": 2506,
       "Completed": 29
     }
   ],
@@ -3214,8 +3219,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-03T22:58:10.0729601+00:00",
-  "LastChanged_Achievements": "2023-06-05T23:04:48.4570948+00:00",
+  "LastChanged_Achievements": "2023-06-06T00:04:08.0190366+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-05T22:58:15.6381092+00:00",
-  "LastUpdate_Achievements": "2023-06-05T23:04:48.4571723+00:00"
+  "LastUpdate_Ratings": "2023-06-05T23:57:48.3280633+00:00",
+  "LastUpdate_Achievements": "2023-06-06T00:04:08.0190834+00:00"
 }

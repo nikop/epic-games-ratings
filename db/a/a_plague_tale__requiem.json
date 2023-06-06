@@ -2,7 +2,7 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 157,
+  "Ranking_Rating": 158,
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 108,
@@ -292,7 +292,7 @@
   ],
   "EOS_Progressed": 11189,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -3098,8 +3098,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-06-05T18:59:22.4704762+00:00",
-  "LastChanged_Achievements": "2023-06-05T23:07:12.0823749+00:00",
+  "LastChanged_Achievements": "2023-06-06T00:06:13.8257056+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:44.0203525+00:00",
-  "LastUpdate_Ratings": "2023-06-05T23:00:12.9919811+00:00",
-  "LastUpdate_Achievements": "2023-06-05T23:07:12.0824221+00:00"
+  "LastUpdate_Ratings": "2023-06-05T23:59:29.2980933+00:00",
+  "LastUpdate_Achievements": "2023-06-06T00:06:13.8257468+00:00"
 }

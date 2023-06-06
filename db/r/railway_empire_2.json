@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 916,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1355,9 +1355,9 @@
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 266
     },
     {
       "ID": "A16",
@@ -1427,9 +1427,9 @@
       "ID": "A24",
       "SetID": "9b7p7eo",
       "Name": "Access granted",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 311
     },
     {
       "ID": "A25",
@@ -1475,9 +1475,9 @@
       "ID": "A30",
       "SetID": "9b7p7eo",
       "Name": "All mine",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 220
     },
     {
       "ID": "A31",
@@ -1682,8 +1682,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-05T23:07:17.5252976+00:00",
+  "LastChanged_Achievements": "2023-06-06T00:06:18.862091+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-05T22:58:30.3264277+00:00",
-  "LastUpdate_Achievements": "2023-06-05T23:07:17.525354+00:00"
+  "LastUpdate_Ratings": "2023-06-05T23:58:01.1244498+00:00",
+  "LastUpdate_Achievements": "2023-06-06T00:06:18.8621461+00:00"
 }

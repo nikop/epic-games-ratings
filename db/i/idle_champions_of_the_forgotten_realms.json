@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4120,9 +4120,9 @@
       "Count": 3245
     }
   ],
-  "EOS_Progressed": 89893,
+  "EOS_Progressed": 89894,
   "EOS_Completed": 1917,
-  "EOS_NewPlayers": 732,
+  "EOS_NewPlayers": 728,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -8810,6 +8810,11 @@
       "Time": "2023-06-05T23:07:29.9265461+00:00",
       "NumProgressed": 89893,
       "NumCompleted": 1917
+    },
+    {
+      "Time": "2023-06-06T00:06:30.3619562+00:00",
+      "NumProgressed": 89894,
+      "NumCompleted": 1917
     }
   ],
   "TotalAchievements": 493,
@@ -9875,9 +9880,9 @@
       "ID": "objective_completed_1340",
       "SetID": "415jc5c",
       "Name": "The Palace of Heart\u0027s Desire",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_completed_1341",
@@ -12764,21 +12769,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56167,
+      "Progressed": 56168,
       "Completed": 2773
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89893,
+      "Progressed": 89894,
       "Completed": 1917
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-05T13:07:15.1307776+00:00",
-  "LastChanged_Achievements": "2023-06-05T23:07:29.9265454+00:00",
+  "LastChanged_Achievements": "2023-06-06T00:06:30.3619557+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-05T22:58:29.7937079+00:00",
-  "LastUpdate_Achievements": "2023-06-05T23:07:29.9315356+00:00"
+  "LastUpdate_Ratings": "2023-06-05T23:58:00.6390917+00:00",
+  "LastUpdate_Achievements": "2023-06-06T00:06:30.3647281+00:00"
 }

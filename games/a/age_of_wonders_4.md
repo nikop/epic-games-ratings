@@ -8,16 +8,16 @@ Rating: 4.54 (Ranked 490)
 | A Wonderful Discovery | 79.00% | ~3,440 |
 | Realm Estate | 75.00% | ~3,266 |
 | Secret Technique | 75.00% | ~3,266 |
-| Walls Cannot Stop Us | 73.00% | ~3,178 |
-| From Friends to Family | 69.00% | ~3,004 |
+| Walls Cannot Stop Us | 73.00% | ~3,179 |
+| From Friends to Family | 69.00% | ~3,005 |
 | Magical Synergy | 64.00% | ~2,787 |
-| Bone Peddler | 61.00% | ~2,656 |
+| Bone Peddler | 61.00% | ~2,657 |
 | Stronger Together | 55.00% | ~2,395 |
-| Full Ascension | 54.00% | ~2,351 |
-| There Can Only Be One! | 47.00% | ~2,046 |
-| Seat of Power | 47.00% | ~2,046 |
+| Full Ascension | 54.00% | ~2,352 |
+| There Can Only Be One! | 47.00% | ~2,047 |
+| Seat of Power | 47.00% | ~2,047 |
 | Intimidation Tactics | 44.00% | ~1,916 |
-| My Final Form | 43.00% | ~1,872 |
+| My Final Form | 43.00% | ~1,873 |
 | Valley of Wonders | 42.00% | ~1,829 |
 | In a Liege of Your Own | 37.00% | ~1,611 |
 | Return of the Wizard King | 31.00% | ~1,350 |
@@ -50,7 +50,7 @@ Rating: 4.54 (Ranked 490)
 | Master of Evilness | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,354 (Ranked 128)  
+Progressed: 4,355 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 4,275 | 0 |
 | 2023-06-04 | 4,325 | 0 |
 | 2023-06-05 | 4,354 | 0 |
+| 2023-06-06 | 4,355 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

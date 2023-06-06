@@ -6,34 +6,34 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 10.00% | ~56,839 |
-| Into the Unknown | 9.00% | ~51,155 |
-| First Shot | 9.00% | ~51,155 |
-| Herzlich Wilkommen! | 8.00% | ~45,471 |
-| Sancho Panza | 8.00% | ~45,471 |
-| Good Night & Good Luck | 8.00% | ~45,471 |
-| Under Pressure | 7.00% | ~39,788 |
-| Oh, So This Is How It Works! | 7.00% | ~39,788 |
-| On the Trail of the Enemy | 6.00% | ~34,104 |
-| Light in the Darkness | 6.00% | ~34,104 |
-| Get Outta My House! | 6.00% | ~34,104 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,104 |
-| Flag Burning | 6.00% | ~34,104 |
-| Night Hunter | 6.00% | ~34,104 |
-| Being All Social | 5.00% | ~28,420 |
-| Debris and Ashes | 4.00% | ~22,736 |
-| We Will Be Heard! | 4.00% | ~22,736 |
-| Known Associate | 4.00% | ~22,736 |
-| Brush with Death | 4.00% | ~22,736 |
-| Going Down | 4.00% | ~22,736 |
-| Family First | 4.00% | ~22,736 |
-| Your World, Your Rules | 4.00% | ~22,736 |
-| Tunnel Entrance | 4.00% | ~22,736 |
-| After the Fall | 4.00% | ~22,736 |
-| Can't Touch This! | 4.00% | ~22,736 |
-| Death From Afar | 4.00% | ~22,736 |
-| Terminal Headache | 4.00% | ~22,736 |
-| Slowpoke! | 4.00% | ~22,736 |
+| You Never Forget Your First... | 10.00% | ~56,841 |
+| Into the Unknown | 9.00% | ~51,157 |
+| First Shot | 9.00% | ~51,157 |
+| Herzlich Wilkommen! | 8.00% | ~45,473 |
+| Sancho Panza | 8.00% | ~45,473 |
+| Good Night & Good Luck | 8.00% | ~45,473 |
+| Under Pressure | 7.00% | ~39,789 |
+| Oh, So This Is How It Works! | 7.00% | ~39,789 |
+| On the Trail of the Enemy | 6.00% | ~34,105 |
+| Light in the Darkness | 6.00% | ~34,105 |
+| Get Outta My House! | 6.00% | ~34,105 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,105 |
+| Flag Burning | 6.00% | ~34,105 |
+| Night Hunter | 6.00% | ~34,105 |
+| Being All Social | 5.00% | ~28,421 |
+| Debris and Ashes | 4.00% | ~22,737 |
+| We Will Be Heard! | 4.00% | ~22,737 |
+| Known Associate | 4.00% | ~22,737 |
+| Brush with Death | 4.00% | ~22,737 |
+| Going Down | 4.00% | ~22,737 |
+| Family First | 4.00% | ~22,737 |
+| Your World, Your Rules | 4.00% | ~22,737 |
+| Tunnel Entrance | 4.00% | ~22,737 |
+| After the Fall | 4.00% | ~22,737 |
+| Can't Touch This! | 4.00% | ~22,737 |
+| Death From Afar | 4.00% | ~22,737 |
+| Terminal Headache | 4.00% | ~22,737 |
+| Slowpoke! | 4.00% | ~22,737 |
 | You're Going Down! | 3.00% | ~17,052 |
 | Tickets, Please! | 2.00% | ~11,368 |
 | Parkour Master | 2.00% | ~11,368 |
@@ -46,7 +46,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,684 |
 | Fit as a Fiddle | 1.00% | ~5,684 |
 | Ironheart | 1.00% | ~5,684 |
-| Nemesis | 1.00% | ~2,138 |
+| Nemesis | 1.00% | ~2,139 |
 | That's Teamwork! | 0.90% | ~5,116 |
 | Enter the Hall | 0.90% | ~1,925 |
 | Boot Licker | 0.80% | ~4,547 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~214 |
 | Connoisseur | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 568,393 (Ranked 23)  
+Progressed: 568,413 (Ranked 23)  
 Completed: 49 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,13 +119,14 @@ Completed: 49 (0.01%) (Ranked 201)
 | 2023-06-03 | 566,178 | 49 |
 | 2023-06-04 | 567,470 | 49 |
 | 2023-06-05 | 568,393 | 49 |
+| 2023-06-06 | 568,413 | 49 |
 ## Awards
-Max (Character Customization): 7,469  (Ranked 42)  
-Sum: 16,894 (Ranked 59)  
+Max (Character Customization): 7,494  (Ranked 42)  
+Sum: 16,919 (Ranked 59)  
 Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,469 |
+| This game has Inclusive Character Customization | 7,494 |
 | This game has Great Boss Battles | 4,377 |
 | This game is Great for Beginners | 686 |
 | This game is Highly Recommended | 646 |
@@ -285,3 +286,4 @@ Diff (max vs sum): -17
 | 2023-06-03 | 4.58 | - | 7,443 | 16,795 |
 | 2023-06-04 | 4.58 | - | 7,469 | 16,854 |
 | 2023-06-05 | 4.58 | - | 7,469 | 16,894 |
+| 2023-06-06 | 4.58 | - | 7,494 | 16,919 |

@@ -32,9 +32,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 48.00% | ~5,649 |
 | Magnificent | 46.00% | ~5,414 |
 | Pyramids | 46.00% | ~5,414 |
+| Warrior | 45.00% | ~5,296 |
 | Strong Cities | 45.00% | ~5,296 |
 | Greek Paganism | 45.00% | ~5,296 |
-| Warrior | 44.00% | ~5,178 |
 | Ishtar Gate | 44.00% | ~5,178 |
 | Babylonian Paganism | 43.00% | ~5,061 |
 | Enlightened | 42.00% | ~4,943 |

@@ -9,12 +9,12 @@
 | Graduation! | 79.00% | ~71 |
 | Villfir Forest | 78.00% | ~70 |
 | Right in the kisser! | 64.00% | ~58 |
+| Duscot Steamcity | 53.00% | ~48 |
 | The Shaman | 52.00% | ~47 |
-| Duscot Steamcity | 52.00% | ~47 |
 | The Penguin | 49.00% | ~44 |
-| The Magician | 47.00% | ~42 |
+| The Magician | 48.00% | ~43 |
 | The Thrower | 46.00% | ~41 |
-| The Tunneler | 40.00% | ~36 |
+| The Tunneler | 41.00% | ~37 |
 | Level Up!! | 39.00% | ~35 |
 | The Shield | 39.00% | ~35 |
 | Kill-streak | 38.00% | ~34 |

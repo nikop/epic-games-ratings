@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 959,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 6.78,
   "EosHistory": [
@@ -2242,9 +2242,9 @@
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 297
     },
     {
       "ID": "17",
@@ -2595,8 +2595,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-05T23:06:52.111304+00:00",
+  "LastChanged_Achievements": "2023-06-06T00:05:56.2817596+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-05T22:57:43.3315163+00:00",
-  "LastUpdate_Achievements": "2023-06-05T23:06:52.1113774+00:00"
+  "LastUpdate_Ratings": "2023-06-05T23:57:20.6557525+00:00",
+  "LastUpdate_Achievements": "2023-06-06T00:05:56.281815+00:00"
 }

@@ -4,59 +4,59 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 94.00% | ~572 |
-| Rail Rat | 78.00% | ~474 |
-| The Mysterious Stranger | 76.00% | ~462 |
-| Immaculate Aim | 67.00% | ~407 |
-| Honest Mistake | 58.00% | ~353 |
-| The Brass Boss | 58.00% | ~353 |
-| No, Thanks! | 56.00% | ~340 |
-| Time Flies | 54.00% | ~328 |
-| The Harder They Fall | 53.00% | ~322 |
-| The Prince in Heels | 53.00% | ~322 |
-| Fast Learner | 51.00% | ~310 |
-| Right On Time | 50.00% | ~304 |
-| Immaculate Aim | 50.00% | ~304 |
-| Make Up For Lost Time | 49.00% | ~298 |
-| Breaking Down Barriers | 46.00% | ~280 |
-| The Steel Shadow | 41.00% | ~249 |
-| Golem Chaser | 39.00% | ~237 |
-| The Wicked Twins | 38.00% | ~231 |
-| Like Clockwork | 37.00% | ~225 |
-| The Betrayer | 37.00% | ~225 |
-| Check Your Pulse | 34.00% | ~207 |
-| The Loose Cannon | 32.00% | ~195 |
-| Street Style | 31.00% | ~188 |
-| Family Memories | 31.00% | ~188 |
-| Good Neighbor | 31.00% | ~188 |
-| The Family Fortune | 26.00% | ~158 |
-| The Man Who Shattered Time | 25.00% | ~152 |
-| Whiz Kid | 24.00% | ~146 |
-| Ask Questions Later | 23.00% | ~140 |
-| Chaincrawler Explorer | 22.00% | ~134 |
-| Fairgrounds Explorer | 22.00% | ~134 |
-| Sump Explorer | 22.00% | ~134 |
-| Syron for Hope | 22.00% | ~134 |
-| Factorywood Explorer | 20.00% | ~122 |
-| Theater Explorer | 17.00% | ~103 |
-| Cultivair Explorer | 16.00% | ~97 |
-| Corin Goes Home | 14.00% | ~85 |
-| Entresol Explorer | 14.00% | ~85 |
-| Rungs Was Right | 14.00% | ~85 |
-| Sartorialist | 13.00% | ~79 |
-| Clovemary for Remembering | 11.00% | ~67 |
-| Hexlock for Protection | 10.00% | ~61 |
-| Golem Hunter | 10.00% | ~61 |
-| Fitting In | 5.00% | ~30 |
-| Wunderkind | 4.00% | ~24 |
-| Thinking Two Steps Ahead | 3.00% | ~18 |
-| No Time to Waste | 2.00% | ~12 |
-| A Lesson in Precision | 0.80% | ~5 |
-| Raw Talent | 0.50% | ~3 |
-| Wildlife Protection | 0.30% | ~2 |
-| Going to Live Forever | 0.30% | ~2 |
-| Treasure Trove | 0.00% | ~0 |
-| Cartographer | 0.00% | ~0 |
+| Treasure Trove | 0.20% | ~1 |
+| Cartographer | 0.20% | ~1 |
+| Golem Hunter | 0.20% | ~1 |
+| Golem Chaser | 0.20% | ~1 |
+| Immaculate Aim | 0.20% | ~1 |
+| Thinking Two Steps Ahead | 0.00% | ~0 |
+| The Steel Shadow | 0.00% | ~0 |
+| Chaincrawler Explorer | 0.00% | ~0 |
+| Right On Time | 0.00% | ~0 |
+| Corin Goes Home | 0.00% | ~0 |
+| Like Clockwork | 0.00% | ~0 |
+| Clovemary for Remembering | 0.00% | ~0 |
+| Sartorialist | 0.00% | ~0 |
+| Street Style | 0.00% | ~0 |
+| Cultivair Explorer | 0.00% | ~0 |
+| Entresol Explorer | 0.00% | ~0 |
+| Family Memories | 0.00% | ~0 |
+| Factorywood Explorer | 0.00% | ~0 |
+| Fairgrounds Explorer | 0.00% | ~0 |
+| The Mysterious Stranger | 0.00% | ~0 |
+| The Betrayer | 0.00% | ~0 |
+| The Man Who Shattered Time | 0.00% | ~0 |
+| Wunderkind | 0.00% | ~0 |
+| Whiz Kid | 0.00% | ~0 |
+| Rail Rat | 0.00% | ~0 |
+| Hexlock for Protection | 0.00% | ~0 |
+| Fitting In | 0.00% | ~0 |
+| The Loose Cannon | 0.00% | ~0 |
+| Make Up For Lost Time | 0.00% | ~0 |
+| Wildlife Protection | 0.00% | ~0 |
+| Going to Live Forever | 0.00% | ~0 |
+| Raw Talent | 0.00% | ~0 |
+| A Lesson in Precision | 0.00% | ~0 |
+| Time Flies | 0.00% | ~0 |
+| The Harder They Fall | 0.00% | ~0 |
+| No, Thanks! | 0.00% | ~0 |
+| Breaking Down Barriers | 0.00% | ~0 |
+| The Wicked Twins | 0.00% | ~0 |
+| The Prince in Heels | 0.00% | ~0 |
+| Time Heals All Wounds | 0.00% | ~0 |
+| Honest Mistake | 0.00% | ~0 |
+| Rungs Was Right | 0.00% | ~0 |
+| Fast Learner | 0.00% | ~0 |
+| No Time to Waste | 0.00% | ~0 |
+| Sump Explorer | 0.00% | ~0 |
+| Syron for Hope | 0.00% | ~0 |
+| Check Your Pulse | 0.00% | ~0 |
+| Theater Explorer | 0.00% | ~0 |
+| Immaculate Aim | 0.00% | ~0 |
+| Ask Questions Later | 0.00% | ~0 |
+| Good Neighbor | 0.00% | ~0 |
+| The Brass Boss | 0.00% | ~0 |
+| The Family Fortune | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 608 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  

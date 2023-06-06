@@ -1154,9 +1154,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425752,
+  "EOS_Progressed": 425753,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4439,6 +4439,11 @@
       "Time": "2023-06-05T20:03:26.2964756+00:00",
       "NumProgressed": 425752,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-06-06T00:02:27.6170399+00:00",
+      "NumProgressed": 425753,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 41,
@@ -4466,7 +4471,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 255451
+      "UsersEstimate": 255452
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -4618,7 +4623,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404464
+      "UsersEstimate": 404465
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -4634,7 +4639,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306541
+      "UsersEstimate": 306542
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -4642,7 +4647,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 157528
+      "UsersEstimate": 157529
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -4650,7 +4655,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293769
+      "UsersEstimate": 293770
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -4698,7 +4703,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 191588
+      "UsersEstimate": 191589
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -4730,7 +4735,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 238421
+      "UsersEstimate": 238422
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -4738,7 +4743,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 183073
+      "UsersEstimate": 183074
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -4777,15 +4782,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425752,
+      "Progressed": 425753,
       "Completed": 504
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-06-01T15:58:24.2194273+00:00",
-  "LastChanged_Achievements": "2023-06-05T23:03:17.754323+00:00",
+  "LastChanged_Achievements": "2023-06-06T00:02:27.6170394+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.1303854+00:00",
-  "LastUpdate_Ratings": "2023-06-05T22:58:48.3266796+00:00",
-  "LastUpdate_Achievements": "2023-06-05T23:03:17.7543845+00:00"
+  "LastUpdate_Ratings": "2023-06-05T23:58:17.7203337+00:00",
+  "LastUpdate_Achievements": "2023-06-06T00:02:27.6170913+00:00"
 }

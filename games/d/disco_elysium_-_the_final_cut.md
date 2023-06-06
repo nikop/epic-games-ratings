@@ -6,24 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,735 |
+| Goodest Of The Good Cops | 28.00% | ~33,736 |
 | Biggest Communism Builder | 24.00% | ~28,916 |
-| The World's Most Laughable Centrist | 20.00% | ~24,096 |
+| The World's Most Laughable Centrist | 20.00% | ~24,097 |
 | Il Coppo Del'Arte! | 18.00% | ~21,687 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,277 |
-| Hyperstellar Law Official | 15.00% | ~18,072 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~16,867 |
+| Hyperstellar Law Official | 15.00% | ~18,073 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~16,868 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,663 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,663 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,253 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,843 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,844 |
 | Unbelievably Boring **** | 8.00% | ~9,639 |
 | Enemy Of The Physical Realm | 8.00% | ~9,639 |
 | Hardie's Heroes | 5.00% | ~6,024 |
 | The Lawbringer | 4.00% | ~4,819 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,819 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,614 |
-| Bother Kim After Hours | 3.00% | ~3,614 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,615 |
+| Bother Kim After Hours | 3.00% | ~3,615 |
 | Baddest Of the Bad Cops | 2.00% | ~2,410 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,410 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,410 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~120 |
 | What body? | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,482 (Ranked 58)  
+Progressed: 120,484 (Ranked 58)  
 Completed: 25 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,9 +94,10 @@ Completed: 25 (0.02%) (Ranked 195)
 | 2023-06-03 | 120,205 | 25 |
 | 2023-06-04 | 120,358 | 25 |
 | 2023-06-05 | 120,482 | 25 |
+| 2023-06-06 | 120,484 | 25 |
 ## Awards
 Max (Character Customization): 691  (Ranked 157)  
-Sum: 1,048 (Ranked 230)  
+Sum: 1,049 (Ranked 230)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
@@ -107,7 +108,7 @@ Diff (max vs sum): -73
 | This game has Quickly Understood Controls | 40 |
 | This game has Unique Visuals | 35 |
 | This game has Amazing Characters | 35 |
-| This game is Relaxing | 33 |
+| This game is Relaxing | 34 |
 | This game is Extremely Fun | 30 |
 | This game has Diverse Characters | 30 |
 | This game has Obsessive Gameplay | 26 |
@@ -212,4 +213,4 @@ Diff (max vs sum): -73
 | 2023-05-19 | 4.86 | - | 689 | 1,045 |
 | 2023-05-22 | 4.86 | - | 690 | 1,046 |
 | 2023-05-31 | 4.86 | - | 691 | 1,047 |
-| 2023-06-05 | 4.86 | - | 691 | 1,048 |
+| 2023-06-05 | 4.86 | - | 691 | 1,049 |

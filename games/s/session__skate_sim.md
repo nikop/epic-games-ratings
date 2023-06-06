@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 54.00% | ~1,223 |
-| Keeping it classy | 25.00% | ~566 |
+| You're free now! | 54.00% | ~1,225 |
+| Keeping it classy | 25.00% | ~567 |
 | Welcome to the family | 18.00% | ~408 |
-| The finer things in life | 16.00% | ~362 |
+| The finer things in life | 16.00% | ~363 |
 | Backpacker | 12.00% | ~272 |
 | Go with the Flow | 11.00% | ~249 |
 | Plastic Surgeon | 9.00% | ~204 |
@@ -25,7 +25,6 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 5.00% | ~113 |
 | Fulfilled the dream | 5.00% | ~113 |
 | G'Day Mate! | 5.00% | ~113 |
-| Purple passion | 5.00% | ~113 |
 | Squad goals | 5.00% | ~113 |
 | Sup widdit big dog! | 5.00% | ~113 |
 | Commence the Hijinx! | 4.00% | ~91 |
@@ -37,6 +36,7 @@ Number of Ratings: 111  (23.09.2022)
 | Manny Destroys All | 4.00% | ~91 |
 | NAHELL! | 4.00% | ~91 |
 | Prince of Philly | 4.00% | ~91 |
+| Purple passion | 4.00% | ~91 |
 | Renaissance man | 4.00% | ~91 |
 | Tank commander | 4.00% | ~91 |
 | G.O.A.T. status | 3.00% | ~68 |
@@ -48,14 +48,14 @@ Number of Ratings: 111  (23.09.2022)
 | Pew-Pew | 2.00% | ~45 |
 | Dipped! | 1.00% | ~23 |
 | That was wheelie fun | 1.00% | ~23 |
-| Skatepark hero | 0.80% | ~18 |
+| Skatepark hero | 0.70% | ~16 |
 | That's how it's done! | 0.10% | ~2 |
 | Ultimate skate nerd | 0.10% | ~2 |
 | Bing Bong! | 0.00% | ~0 |
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,265 (Ranked 149)  
+Progressed: 2,268 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 2,230 | 0 |
 | 2023-06-04 | 2,248 | 0 |
 | 2023-06-05 | 2,265 | 0 |
+| 2023-06-06 | 2,268 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 397)  
 Sum: 420 (Ranked 299)  

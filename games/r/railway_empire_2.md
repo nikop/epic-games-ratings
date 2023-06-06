@@ -22,12 +22,12 @@
 | Apprentice | 42.00% | ~385 |
 | Bridge Builder | 37.00% | ~339 |
 | Stoker | 34.00% | ~311 |
-| Access granted | 33.00% | ~302 |
+| Access granted | 34.00% | ~311 |
+| Full Steam ahead | 29.00% | ~266 |
 | Going once, going twice, sold | 29.00% | ~266 |
-| Full Steam ahead | 28.00% | ~256 |
 | Bull and bear | 27.00% | ~247 |
 | Mole | 25.00% | ~229 |
-| All mine | 23.00% | ~211 |
+| All mine | 24.00% | ~220 |
 | Financial Shark | 23.00% | ~211 |
 | Socializer | 22.00% | ~202 |
 | Seven at one stroke | 21.00% | ~192 |

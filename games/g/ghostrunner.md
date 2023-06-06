@@ -1,38 +1,38 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 167)  
+Rating: 4.72 (Ranked 168)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 77.00% | ~6,232 |
-| Sword Runner | 63.00% | ~5,099 |
-| Wallrunner | 56.00% | ~4,532 |
-| Running out of breath | 55.00% | ~4,451 |
-| Homerunner | 46.00% | ~3,723 |
-| Out of order | 46.00% | ~3,723 |
-| I call it luck | 45.00% | ~3,642 |
-| Where are my Keys? | 43.00% | ~3,480 |
-| Back to hell | 38.00% | ~3,075 |
-| Perfection | 33.00% | ~2,671 |
-| Why not both | 31.00% | ~2,509 |
-| Sword to a gunfight | 30.00% | ~2,428 |
-| Upgrades not mandatory | 30.00% | ~2,428 |
-| Artificial selection | 29.00% | ~2,347 |
-| Control freak | 29.00% | ~2,347 |
-| Running Wild | 28.00% | ~2,266 |
-| Finish line | 27.00% | ~2,185 |
-| Unstoppable force | 23.00% | ~1,861 |
-| Wave of mutilation | 23.00% | ~1,861 |
+| Longrunner | 77.00% | ~6,234 |
+| Sword Runner | 63.00% | ~5,100 |
+| Wallrunner | 56.00% | ~4,534 |
+| Running out of breath | 55.00% | ~4,453 |
+| Homerunner | 46.00% | ~3,724 |
+| Out of order | 46.00% | ~3,724 |
+| I call it luck | 45.00% | ~3,643 |
+| Where are my Keys? | 43.00% | ~3,481 |
+| Back to hell | 38.00% | ~3,076 |
+| Perfection | 33.00% | ~2,672 |
+| Why not both | 31.00% | ~2,510 |
+| Sword to a gunfight | 30.00% | ~2,429 |
+| Upgrades not mandatory | 30.00% | ~2,429 |
+| Artificial selection | 29.00% | ~2,348 |
+| Control freak | 29.00% | ~2,348 |
+| Running Wild | 28.00% | ~2,267 |
+| Finish line | 27.00% | ~2,186 |
+| Unstoppable force | 23.00% | ~1,862 |
+| Wave of mutilation | 23.00% | ~1,862 |
 | Can't Run Can't Hide | 18.00% | ~1,457 |
 | R is for Running | 18.00% | ~1,457 |
 | Dead in the air | 16.00% | ~1,295 |
 | Improvise, adapt, overrun | 14.00% | ~1,133 |
 | Pre-empative strike | 14.00% | ~1,133 |
 | Strike | 13.00% | ~1,052 |
-| More than human | 12.00% | ~971 |
-| Triple A | 10.00% | ~809 |
+| More than human | 12.00% | ~972 |
+| Triple A | 10.00% | ~810 |
 | Fine addition | 7.00% | ~567 |
 | One Of Those Days | 7.00% | ~567 |
 | Push it to the limit | 5.00% | ~405 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.40% | ~32 |
 | Up Close And Personal | 0.40% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,093 (Ranked 113)  
+Progressed: 8,096 (Ranked 113)  
 Completed: 38 (0.47%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 38 (0.47%) (Ranked 115)
 | 2023-06-03 | 7,736 | 35 |
 | 2023-06-04 | 7,932 | 38 |
 | 2023-06-05 | 8,093 | 38 |
+| 2023-06-06 | 8,096 | 38 |
 ## Awards
 Max (Great Boss Battles): 464  (Ranked 190)  
 Sum: 620 (Ranked 281)  

@@ -29,10 +29,10 @@ Rating: 4.24 (Ranked 800)
 | Can't Trust Banks | 15.00% | ~256 |
 | Mommy Dearest | 13.00% | ~222 |
 | Bad Dog | 13.00% | ~222 |
+| Where It All Began | 13.00% | ~222 |
 | Risk Tolerant | 13.00% | ~222 |
 | What A Catchy Song | 13.00% | ~222 |
 | Marked For Success | 12.00% | ~205 |
-| Where It All Began | 12.00% | ~205 |
 | Sorry, Didn't See You There | 12.00% | ~205 |
 | Corrupted Beauty | 11.00% | ~188 |
 | Triplets | 10.00% | ~171 |
@@ -57,11 +57,11 @@ Rating: 4.24 (Ranked 800)
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~34 |
 | Box Office Smash | 2.00% | ~34 |
 | Going Postal | 2.00% | ~34 |
+| The Easy Way Out | 2.00% | ~34 |
 | Loot, Pillage & Craft | 2.00% | ~34 |
 | Own Medicine | 1.00% | ~17 |
 | Swiss Army Drone | 1.00% | ~17 |
 | Three Birds With One Stone | 1.00% | ~17 |
-| The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,708 (Ranked 154)  
 Completed: 10 (0.59%) (Ranked 110)  
