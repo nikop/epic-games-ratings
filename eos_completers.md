@@ -32,10 +32,10 @@
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.32% |
-| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
+| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.91% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.96% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
+| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
 | 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.72% |
@@ -45,7 +45,7 @@
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.28% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.22% |
 | 45 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
-| 46 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.20% |
+| 46 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.17% |
 | 47 | [The Bunker](games/t/the_bunker.md) | 3.09% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
@@ -78,7 +78,7 @@
 | 76 | [Frogun](games/f/frogun.md) | 1.51% |
 | 76 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 78 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.35% |
-| 79 | [Ten Dates](games/t/ten_dates.md) | 1.29% |
+| 79 | [Ten Dates](games/t/ten_dates.md) | 1.28% |
 | 80 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.25% |
 | 81 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 82 | [Chorus](games/c/chorus.md) | 1.18% |
@@ -112,8 +112,8 @@
 | 110 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
 | 111 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
-| 113 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
-| 113 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.49% |
+| 112 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 114 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 117 | [Potion Permit](games/p/potion_permit.md) | 0.44% |
@@ -146,9 +146,9 @@
 | 144 | [Blanc](games/b/blanc.md) | 0.21% |
 | 145 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 145 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
-| 147 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
-| 148 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
-| 148 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
+| 147 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
+| 147 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
+| 149 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
 | 150 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
 | 150 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 150 | [RAILGRADE](games/r/railgrade.md) | 0.16% |

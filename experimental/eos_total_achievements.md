@@ -210,6 +210,7 @@
 | [Grand Theft Auto: San Andreas – The Definitive Edition](../games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 35 | 1,000 |
 | [Gripper](../games/g/gripper.md) | 35 | 1,000 |
 | [Insurgency: Sandstorm](../games/i/insurgency__sandstorm.md) | 35 | 1,000 |
+| [Return to Grace](../games/c/c4061518e37f40119b54ce93456a8ecb.md) | 35 | 1,000 |
 | [The Library of Babel](../games/t/the_library_of_babel.md) | 35 | 1,000 |
 | [Call of the Sea](../games/c/call_of_the_sea.md) | 34 | 1,000 |
 | [Cloud Cutter](../games/c/cloud_cutter.md) | 34 | 1,000 |
