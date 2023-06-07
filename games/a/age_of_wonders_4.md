@@ -1,25 +1,25 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.55 (Ranked 475)  
+Rating: 4.54 (Ranked 491)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,478 |
-| Realm Estate | 75.00% | ~3,302 |
-| Secret Technique | 75.00% | ~3,302 |
-| Walls Cannot Stop Us | 73.00% | ~3,214 |
-| From Friends to Family | 69.00% | ~3,038 |
-| Magical Synergy | 65.00% | ~2,862 |
+| A Wonderful Discovery | 79.00% | ~3,479 |
+| Realm Estate | 75.00% | ~3,303 |
+| Secret Technique | 75.00% | ~3,303 |
+| Walls Cannot Stop Us | 73.00% | ~3,215 |
+| From Friends to Family | 69.00% | ~3,039 |
+| Magical Synergy | 65.00% | ~2,863 |
 | Bone Peddler | 61.00% | ~2,686 |
 | Stronger Together | 56.00% | ~2,466 |
 | Full Ascension | 54.00% | ~2,378 |
-| There Can Only Be One! | 47.00% | ~2,069 |
-| Seat of Power | 47.00% | ~2,069 |
-| Intimidation Tactics | 44.00% | ~1,937 |
-| My Final Form | 43.00% | ~1,893 |
-| Valley of Wonders | 42.00% | ~1,849 |
-| In a Liege of Your Own | 38.00% | ~1,673 |
+| There Can Only Be One! | 47.00% | ~2,070 |
+| Seat of Power | 47.00% | ~2,070 |
+| Intimidation Tactics | 44.00% | ~1,938 |
+| My Final Form | 43.00% | ~1,894 |
+| Valley of Wonders | 42.00% | ~1,850 |
+| In a Liege of Your Own | 38.00% | ~1,674 |
 | Return of the Wizard King | 31.00% | ~1,365 |
 | Digging for Treasure | 31.00% | ~1,365 |
 | Against the Odds | 31.00% | ~1,365 |
@@ -29,12 +29,12 @@ Rating: 4.55 (Ranked 475)
 | Preparation Is Everything | 20.00% | ~881 |
 | Arch Mage | 19.00% | ~837 |
 | God Emperor | 18.00% | ~793 |
+| Eternal Lord | 17.00% | ~749 |
 | Crimson Caldera | 17.00% | ~749 |
-| Eternal Lord | 16.00% | ~704 |
-| Fiery Friend | 15.00% | ~660 |
-| Lord of Chaos | 14.00% | ~616 |
-| The Creator | 14.00% | ~616 |
-| The Goddess of Nature | 14.00% | ~616 |
+| Fiery Friend | 15.00% | ~661 |
+| Lord of Chaos | 14.00% | ~617 |
+| The Creator | 14.00% | ~617 |
+| The Goddess of Nature | 14.00% | ~617 |
 | The Eternal Court | 9.00% | ~396 |
 | Jack of All Tomes | 9.00% | ~396 |
 | Pruning for Progress | 9.00% | ~396 |
@@ -50,7 +50,7 @@ Rating: 4.55 (Ranked 475)
 | Returning Circle | 0.30% | ~13 |
 | Master of Evilness | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,403 (Ranked 128)  
+Progressed: 4,404 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 4,325 | 0 |
 | 2023-06-05 | 4,354 | 0 |
 | 2023-06-06 | 4,386 | 0 |
-| 2023-06-07 | 4,403 | 0 |
+| 2023-06-07 | 4,404 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -111,3 +111,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-05-28 | 4.54 | 0 | 0 |
 | 2023-05-31 | 4.54 | 0 | 0 |
 | 2023-06-06 | 4.55 | 0 | 0 |
+| 2023-06-07 | 4.54 | 0 | 0 |

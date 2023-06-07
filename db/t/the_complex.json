@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -226,9 +226,9 @@
       "ID": "beat_it",
       "SetID": "d4f4pll",
       "Name": "Beat It",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "blast_from_the_past",
@@ -370,9 +370,9 @@
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 289
+      "UsersEstimate": 293
     },
     {
       "ID": "tough_decision",
@@ -395,8 +395,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-07T18:06:53.8731117+00:00",
+  "LastChanged_Achievements": "2023-06-07T19:07:13.2692644+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:15.4237814+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:57:32.9459241+00:00",
-  "LastUpdate_Achievements": "2023-06-07T18:06:53.8731262+00:00"
+  "LastUpdate_Ratings": "2023-06-07T18:57:48.500295+00:00",
+  "LastUpdate_Achievements": "2023-06-07T19:07:13.2692889+00:00"
 }

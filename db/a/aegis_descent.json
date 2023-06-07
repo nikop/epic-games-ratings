@@ -4,8 +4,8 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -258,9 +258,9 @@
       "ID": "Award_DocKing",
       "SetID": "9ojec6n",
       "Name": "DocKing",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 177
     },
     {
       "ID": "Award_EarlyBird",
@@ -530,9 +530,9 @@
       "ID": "Award_WhatAShot",
       "SetID": "9ojec6n",
       "Name": "What-A-Shot",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
@@ -547,8 +547,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-07T18:03:10.4689106+00:00",
+  "LastChanged_Achievements": "2023-06-07T19:02:41.9138722+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:28.8451881+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:58:36.6044548+00:00",
-  "LastUpdate_Achievements": "2023-06-07T18:03:10.4689798+00:00"
+  "LastUpdate_Ratings": "2023-06-07T18:59:04.1034607+00:00",
+  "LastUpdate_Achievements": "2023-06-07T19:02:41.913917+00:00"
 }

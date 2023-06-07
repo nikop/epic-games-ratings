@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.40% | ~225 |
 | Best Thay Ever | 0.40% | ~225 |
 | Vecna Out! | 0.40% | ~225 |
+| Beast Mode | 0.40% | ~360 |
 | Terror in the Dark | 0.40% | ~360 |
 | A Mysterious Summons | 0.40% | ~360 |
 | Unearthed Evil | 0.40% | ~360 |
@@ -37,10 +38,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.30% | ~169 |
 | Frail Doesn't Mean Broken | 0.30% | ~169 |
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~169 |
+| Get Back In The Castle | 0.30% | ~169 |
 | Pin and Skewer | 0.30% | ~169 |
 | No One Can Hear You Scream | 0.30% | ~169 |
 | Welcome to the Rock | 0.30% | ~169 |
-| Beast Mode | 0.30% | ~270 |
 | Low Initiative | 0.30% | ~270 |
 | Building Trust | 0.30% | ~270 |
 | No Time To Rest | 0.30% | ~270 |
@@ -71,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Go Fourth | 0.20% | ~113 |
 | Hither of the Feywild | 0.20% | ~113 |
 | Don't Breathe the Marsh Gas | 0.20% | ~113 |
+| Don't Squeeze the Spiders | 0.20% | ~113 |
 | The Prince of a Thousand Enemies | 0.20% | ~113 |
 | Uncommon Allies | 0.20% | ~113 |
 | Where the Magic Happens | 0.20% | ~113 |
@@ -111,7 +113,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clumsy Doesn't Mean Inept | 0.20% | ~113 |
 | The Sanctum of the Sword | 0.20% | ~113 |
 | Kas the Bloody Handed | 0.20% | ~113 |
-| Get Back In The Castle | 0.20% | ~113 |
 | Bully for Vecna | 0.20% | ~113 |
 | Who Lurks Below? | 0.20% | ~113 |
 | Xanathaaaaaaar! | 0.20% | ~113 |
@@ -241,7 +242,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Back to Nature | 0.10% | ~56 |
 | A Dragon Against Us | 0.10% | ~56 |
 | Don't Blast the Brigands | 0.10% | ~56 |
-| Don't Squeeze the Spiders | 0.10% | ~56 |
 | The Spire of Iriolarthas | 0.10% | ~56 |
 | Always Watching | 0.10% | ~56 |
 | The Fall of Ythryn | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,032 (Ranked 62)  
+Progressed: 90,036 (Ranked 62)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 90,032 | 1,922 |
+| 2023-06-07 | 90,036 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,047 (Ranked 37)  

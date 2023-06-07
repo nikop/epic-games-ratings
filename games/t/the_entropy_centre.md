@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 89.00% | ~131 |
+| It's Rewind Time | 89.00% | ~132 |
 | Wake Up | 80.00% | ~118 |
 | Time Gates | 63.00% | ~93 |
-| Command Centre | 47.00% | ~69 |
-| This is a Wall | 41.00% | ~60 |
-| Extendable Bridges | 33.00% | ~49 |
-| 48 Attempts | 33.00% | ~49 |
-| Chain Reaction | 31.00% | ~46 |
+| Command Centre | 47.00% | ~70 |
+| This is a Wall | 41.00% | ~61 |
+| Extendable Bridges | 32.00% | ~47 |
+| 48 Attempts | 32.00% | ~47 |
+| Chain Reaction | 30.00% | ~44 |
 | Man's Best Friend | 29.00% | ~43 |
-| Handyman | 22.00% | ~32 |
+| Handyman | 22.00% | ~33 |
 | No Time To Relax | 16.00% | ~24 |
 | Running Boots | 14.00% | ~21 |
 | Bad Robots | 13.00% | ~19 |
-| Fashionista | 12.00% | ~18 |
+| Fashionista | 11.00% | ~16 |
 | Archivist | 10.00% | ~15 |
 | Looper | 10.00% | ~15 |
 | Cataclysm | 9.00% | ~13 |
@@ -32,7 +32,7 @@
 | Data Research | 0.00% | ~0 |
 | You Are Terminated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 261)  
+Progressed: 148 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 140 | 0 |
 | 2023-06-04 | 143 | 0 |
 | 2023-06-05 | 146 | 0 |
-| 2023-06-07 | 147 | 0 |
+| 2023-06-07 | 148 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

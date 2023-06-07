@@ -1,23 +1,23 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.74 (Ranked 144)  
+Rating: 4.73 (Ranked 158)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~10,343 |
-| Newcomers | 78.00% | ~8,769 |
-| A Burden of Blood | 72.00% | ~8,094 |
+| Under a New Sun | 92.00% | ~10,344 |
+| Newcomers | 78.00% | ~8,770 |
+| A Burden of Blood | 72.00% | ~8,095 |
 | Protector's Duty | 68.00% | ~7,645 |
-| Alchemist | 67.00% | ~7,532 |
+| Alchemist | 67.00% | ~7,533 |
 | In our Wake | 66.00% | ~7,420 |
-| Leaving all Behind | 63.00% | ~7,082 |
-| Felons | 60.00% | ~6,745 |
-| A Sea of Promises | 58.00% | ~6,520 |
-| Tales and Revelations | 55.00% | ~6,183 |
-| Bloodline | 50.00% | ~5,621 |
-| The Cradle of Centuries | 46.00% | ~5,171 |
-| The Life We Deserve | 44.00% | ~4,946 |
+| Leaving all Behind | 63.00% | ~7,083 |
+| Felons | 60.00% | ~6,746 |
+| A Sea of Promises | 58.00% | ~6,521 |
+| Tales and Revelations | 55.00% | ~6,184 |
+| Bloodline | 50.00% | ~5,622 |
+| The Cradle of Centuries | 46.00% | ~5,172 |
+| The Life We Deserve | 44.00% | ~4,947 |
 | Night guard | 42.00% | ~4,722 |
 | Nothing Left | 37.00% | ~4,160 |
 | Healing our Wounds | 35.00% | ~3,935 |
@@ -29,7 +29,7 @@ Rating: 4.74 (Ranked 144)
 | Effective instruments | 21.00% | ~2,361 |
 | Perfect throw | 21.00% | ~2,361 |
 | Knights! | 19.00% | ~2,136 |
-| Handful of pockets | 13.00% | ~1,461 |
+| Handful of pockets | 13.00% | ~1,462 |
 | Not a toy anymore | 11.00% | ~1,237 |
 | Pocket laboratory | 11.00% | ~1,237 |
 | Herbalist | 7.00% | ~787 |
@@ -41,7 +41,7 @@ Rating: 4.74 (Ranked 144)
 | Explorer | 1.00% | ~112 |
 | Malignant | 1.00% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,242 (Ranked 108)  
+Progressed: 11,243 (Ranked 108)  
 Completed: 33 (0.29%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,14 +89,14 @@ Completed: 33 (0.29%) (Ranked 134)
 | 2023-06-04 | 11,139 | 32 |
 | 2023-06-05 | 11,189 | 32 |
 | 2023-06-06 | 11,220 | 33 |
-| 2023-06-07 | 11,242 | 33 |
+| 2023-06-07 | 11,243 | 33 |
 ## Awards
-Max (Great Boss Battles): 402  (Ranked 203)  
-Sum: 578 (Ranked 287)  
+Max (Great Boss Battles): 403  (Ranked 203)  
+Sum: 579 (Ranked 287)  
 Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 402 |
+| This game has Great Boss Battles | 403 |
 | This game is Highly Recommended | 29 |
 | This game has Diverse Characters | 28 |
 | This game is Great for Beginners | 27 |
@@ -143,3 +143,4 @@ Diff (max vs sum): -84
 | 2023-06-02 | 4.74 | 402 | 578 |
 | 2023-06-05 | 4.73 | 402 | 578 |
 | 2023-06-06 | 4.74 | 402 | 578 |
+| 2023-06-07 | 4.73 | 403 | 579 |

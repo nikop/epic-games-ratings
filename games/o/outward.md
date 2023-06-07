@@ -99,8 +99,8 @@ Completed: 1 (0.04%) (Ranked 185)
 | 2023-06-07 | 2,827 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 444)  
-Sum: 238 (Ranked 345)  
-Diff (max vs sum): 99  
+Sum: 238 (Ranked 346)  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |

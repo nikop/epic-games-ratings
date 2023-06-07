@@ -40,6 +40,7 @@ Number of Ratings: 87  (23.09.2022)
 | Large construction | 2.00% | ~15 |
 | Living it large | 2.00% | ~15 |
 | Overseer | 2.00% | ~15 |
+| Prick of conscience | 2.00% | ~15 |
 | Relocation | 2.00% | ~15 |
 | Sabotage | 2.00% | ~15 |
 | Squander | 2.00% | ~15 |
@@ -52,7 +53,6 @@ Number of Ratings: 87  (23.09.2022)
 | Lucky vandal | 1.00% | ~7 |
 | Missed it! | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
-| Prick of conscience | 1.00% | ~7 |
 | Vandal | 1.00% | ~7 |
 | Woodcutter | 1.00% | ~7 |
 | Atomic Age | 0.80% | ~1 |

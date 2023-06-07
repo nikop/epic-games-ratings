@@ -2,13 +2,13 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 647,
+  "Ranking_Rating": 646,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4935,
+  "EOS_Progressed": 4936,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1369,6 +1369,11 @@
       "Time": "2023-06-07T17:10:47.6266973+00:00",
       "NumProgressed": 4935,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T19:07:19.3290601+00:00",
+      "NumProgressed": 4936,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1468,7 +1473,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ach_campaign_progress3",
@@ -1628,7 +1633,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ach_campaign_special5",
@@ -1804,7 +1809,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -1987,15 +1992,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4935,
+      "Progressed": 4936,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-07T18:06:59.5951965+00:00",
+  "LastChanged_Achievements": "2023-06-07T19:07:19.3290593+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:59:19.1660635+00:00",
-  "LastUpdate_Achievements": "2023-06-07T18:06:59.5953503+00:00"
+  "LastUpdate_Ratings": "2023-06-07T18:59:54.5090242+00:00",
+  "LastUpdate_Achievements": "2023-06-07T19:07:19.3292456+00:00"
 }

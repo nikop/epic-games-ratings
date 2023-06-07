@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~8,896 |
-| Mama? | 28.00% | ~3,277 |
-| People's Haven | 19.00% | ~2,224 |
-| Cartographer | 18.00% | ~2,107 |
-| Knowledge for Power | 15.00% | ~1,756 |
-| Antlers of Stone | 15.00% | ~1,756 |
-| Gaze into the abyss | 14.00% | ~1,639 |
-| Mausoleum of Ice | 14.00% | ~1,639 |
-| Equilibrium | 13.00% | ~1,522 |
+| Light at the end of the tunnel | 76.00% | ~8,901 |
+| Mama? | 28.00% | ~3,279 |
+| People's Haven | 19.00% | ~2,225 |
+| Cartographer | 18.00% | ~2,108 |
+| Knowledge for Power | 15.00% | ~1,757 |
+| Antlers of Stone | 15.00% | ~1,757 |
+| Gaze into the abyss | 14.00% | ~1,640 |
+| Mausoleum of Ice | 14.00% | ~1,640 |
+| Equilibrium | 13.00% | ~1,523 |
 | In the belly of the beast | 12.00% | ~1,405 |
 | Wings of Stone | 12.00% | ~1,405 |
-| Condor condo | 10.00% | ~1,170 |
-| Memorial | 9.00% | ~1,053 |
-| An uninvited guest | 8.00% | ~936 |
-| Written in stone | 7.00% | ~819 |
-| Talk to all the spirit animals | 7.00% | ~819 |
-| Ripples on the surface | 6.00% | ~702 |
-| Tails of Stone | 6.00% | ~702 |
-| Baa from the past | 6.00% | ~702 |
-| Hide and Seek | 5.00% | ~585 |
+| Condor condo | 10.00% | ~1,171 |
+| Memorial | 9.00% | ~1,054 |
+| An uninvited guest | 8.00% | ~937 |
+| Written in stone | 7.00% | ~820 |
+| Talk to all the spirit animals | 7.00% | ~820 |
+| Ripples on the surface | 6.00% | ~703 |
+| Tails of Stone | 6.00% | ~703 |
+| Baa from the past | 6.00% | ~703 |
+| Hide and Seek | 5.00% | ~586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,705 (Ranked 107)  
+Progressed: 11,712 (Ranked 107)  
 Completed: 252 (2.15%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 252 (2.15%) (Ranked 64)
 | 2023-06-04 | 11,431 | 245 |
 | 2023-06-05 | 11,539 | 248 |
 | 2023-06-06 | 11,625 | 251 |
-| 2023-06-07 | 11,705 | 252 |
+| 2023-06-07 | 11,712 | 252 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

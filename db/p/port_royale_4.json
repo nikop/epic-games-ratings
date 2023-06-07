@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -1157,9 +1157,9 @@
       "ID": "ACH043",
       "SetID": "69nfp41",
       "Name": "Your vessel, my vessel",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH044",
@@ -1221,8 +1221,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-07T18:06:48.4657759+00:00",
+  "LastChanged_Achievements": "2023-06-07T19:07:07.1793101+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:43.7827711+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:58:50.1871159+00:00",
-  "LastUpdate_Achievements": "2023-06-07T18:06:48.4658253+00:00"
+  "LastUpdate_Ratings": "2023-06-07T18:59:20.1667719+00:00",
+  "LastUpdate_Achievements": "2023-06-07T19:07:07.1793908+00:00"
 }

@@ -46,12 +46,12 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 18.00% | ~6 |
 | Free customer service | 15.00% | ~5 |
 | An old poacher makes the best gamekeeper | 15.00% | ~5 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 15.00% | ~5 |
 | Lëgal Legend | 15.00% | ~5 |
 | The Dungeon Master | 12.00% | ~4 |
 | Res Judicata | 12.00% | ~4 |
 | Necrophilia | 12.00% | ~4 |
 | Egghead | 12.00% | ~4 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~4 |
 | Holistic Adventuring Party | 9.00% | ~3 |
 | I'd rather... Just... Sing! | 9.00% | ~3 |
 | Elite Adventurers | 9.00% | ~3 |

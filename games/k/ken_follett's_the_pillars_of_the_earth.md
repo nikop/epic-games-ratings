@@ -6,22 +6,22 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,483 |
-| Man of politics | 36.00% | ~4,700 |
+| Tattletale | 42.00% | ~5,484 |
+| Man of politics | 36.00% | ~4,701 |
 | Friends of sorts | 34.00% | ~4,439 |
 | Yet another secret | 34.00% | ~4,439 |
-| Let there be darkness | 33.00% | ~4,308 |
-| End of Book One | 31.00% | ~4,047 |
+| Let there be darkness | 33.00% | ~4,309 |
+| End of Book One | 31.00% | ~4,048 |
 | Garden of Eden | 25.00% | ~3,264 |
-| Wannabe knight | 24.00% | ~3,133 |
-| Full house | 24.00% | ~3,133 |
-| Help an old friend | 22.00% | ~2,872 |
+| Wannabe knight | 24.00% | ~3,134 |
+| Full house | 24.00% | ~3,134 |
+| Help an old friend | 22.00% | ~2,873 |
 | Two of us | 20.00% | ~2,611 |
-| Negotiation skills | 19.00% | ~2,480 |
-| Workers' union | 19.00% | ~2,480 |
+| Negotiation skills | 19.00% | ~2,481 |
+| Workers' union | 19.00% | ~2,481 |
 | End of Book Two | 18.00% | ~2,350 |
-| Everything's in order | 17.00% | ~2,219 |
-| Jack was here! | 15.00% | ~1,958 |
+| Everything's in order | 17.00% | ~2,220 |
+| Jack was here! | 15.00% | ~1,959 |
 | Twist of Fate | 14.00% | ~1,828 |
 | Exterminator | 14.00% | ~1,828 |
 | Whodunnit | 13.00% | ~1,697 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,175 |
 | The truth revealed | 9.00% | ~1,175 |
 | The End. | 9.00% | ~1,175 |
-| A cry for help | 8.00% | ~1,044 |
+| A cry for help | 8.00% | ~1,045 |
 | Silentium est aureum | 7.00% | ~914 |
 | Rebel without a cause | 6.00% | ~783 |
 | Staring contest champion | 5.00% | ~653 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~392 |
 | Boy of mystery | 2.00% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,055 (Ranked 105)  
+Progressed: 13,057 (Ranked 105)  
 Completed: 99 (0.76%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 99 (0.76%) (Ranked 99)
 | 2023-06-04 | 12,985 | 99 |
 | 2023-06-05 | 13,009 | 99 |
 | 2023-06-06 | 13,034 | 99 |
-| 2023-06-07 | 13,055 | 99 |
+| 2023-06-07 | 13,057 | 99 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 288)  
 Sum: 188 (Ranked 358)  

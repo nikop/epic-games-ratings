@@ -41,12 +41,12 @@
 | Immaculate Aim | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
-| Sartorialist | 0.60% | ~4 |
-| Fairgrounds Explorer | 0.60% | ~4 |
+| Sartorialist | 0.80% | ~5 |
+| Fairgrounds Explorer | 0.80% | ~5 |
+| Corin Goes Home | 0.60% | ~4 |
 | Golem Hunter | 0.60% | ~4 |
 | Rungs Was Right | 0.60% | ~4 |
 | Syron for Hope | 0.60% | ~4 |
-| Corin Goes Home | 0.50% | ~3 |
 | Hexlock for Protection | 0.30% | ~2 |
 | Fitting In | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |

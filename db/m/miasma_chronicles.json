@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 727,
+  "Ranking_Rating": 728,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -66,7 +66,7 @@
   "Tags": [],
   "EOS_Progressed": 1047,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1448,9 +1448,9 @@
       "ID": "BOT_WHISPERER",
       "SetID": "9a4jnji",
       "Name": "Bot Whisperer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 52
     },
     {
       "ID": "CHAIN_KILLER",
@@ -1825,8 +1825,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-07T18:03:39.9932866+00:00",
+  "LastChanged_Achievements": "2023-06-07T19:03:25.1117416+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:58:39.0982425+00:00",
-  "LastUpdate_Achievements": "2023-06-07T18:03:39.9933513+00:00"
+  "LastUpdate_Ratings": "2023-06-07T18:59:07.1990915+00:00",
+  "LastUpdate_Achievements": "2023-06-07T19:03:25.1118304+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -201,33 +201,33 @@
       "ID": "aq_achievement_26",
       "SetID": "7jh86ne",
       "Name": "Far away from home",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "aq_achievement_27",
       "SetID": "7jh86ne",
       "Name": "Ring-a-ding-ding",
-      "Percentage": 43,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "aq_achievement_28",
       "SetID": "7jh86ne",
       "Name": "Cameodalic",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "aq_achievement_29",
       "SetID": "7jh86ne",
       "Name": "Pain in the hands",
-      "Percentage": 43,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "aq_achievement_3",
@@ -313,33 +313,33 @@
       "ID": "aq_achievement_39",
       "SetID": "7jh86ne",
       "Name": "Kill it! KILL IT!",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "aq_achievement_4",
       "SetID": "7jh86ne",
       "Name": "Back to the anvil",
-      "Percentage": 65,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_5",
       "SetID": "7jh86ne",
       "Name": "So soothing...",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "aq_achievement_6",
       "SetID": "7jh86ne",
       "Name": "Kekekeke...",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "aq_achievement_7",
@@ -361,9 +361,9 @@
       "ID": "aq_achievement_9",
       "SetID": "7jh86ne",
       "Name": "Roostwig has entered the building",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
@@ -378,8 +378,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-06-07T18:05:29.8020237+00:00",
+  "LastChanged_Achievements": "2023-06-07T19:05:39.5620493+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:29.535038+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:59:30.4123718+00:00",
-  "LastUpdate_Achievements": "2023-06-07T18:05:29.802075+00:00"
+  "LastUpdate_Ratings": "2023-06-07T19:00:08.348935+00:00",
+  "LastUpdate_Achievements": "2023-06-07T19:05:39.5620791+00:00"
 }

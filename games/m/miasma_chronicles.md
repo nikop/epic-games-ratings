@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.35 (Ranked 727)  
+Rating: 4.35 (Ranked 728)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -43,7 +43,7 @@ Rating: 4.35 (Ranked 727)
 | Curveball | 7.00% | ~73 |
 | Side Order | 6.00% | ~63 |
 | Wipe Out | 6.00% | ~63 |
-| Bot Whisperer | 4.00% | ~42 |
+| Bot Whisperer | 5.00% | ~52 |
 | Dressed To Kill | 4.00% | ~42 |
 | Cruelty | 2.00% | ~21 |
 | Five Finger Deathcount | 0.90% | ~9 |

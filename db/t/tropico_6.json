@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -894,9 +894,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3459,
+  "EOS_Progressed": 3462,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3874,6 +3874,11 @@
       "Time": "2023-06-07T18:01:16.4883514+00:00",
       "NumProgressed": 3459,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T19:02:15.2934947+00:00",
+      "NumProgressed": 3462,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3901,7 +3906,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -3909,7 +3914,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -3925,7 +3930,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -3941,7 +3946,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3957,7 +3962,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -3981,7 +3986,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1593
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -3989,7 +3994,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -4005,7 +4010,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -4029,7 +4034,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -4045,7 +4050,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2631
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4141,7 +4146,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4157,7 +4162,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4204,15 +4209,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3459,
+      "Progressed": 3462,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-05T19:00:08.7652267+00:00",
-  "LastChanged_Achievements": "2023-06-07T18:01:16.4883507+00:00",
+  "LastChanged_Achievements": "2023-06-07T19:02:15.2934938+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-07T18:00:33.2228056+00:00",
-  "LastUpdate_Achievements": "2023-06-07T18:01:16.4884179+00:00"
+  "LastUpdate_Ratings": "2023-06-07T19:01:23.0512697+00:00",
+  "LastUpdate_Achievements": "2023-06-07T19:02:15.2936061+00:00"
 }

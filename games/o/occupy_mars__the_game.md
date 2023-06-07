@@ -1,20 +1,20 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.85 (Ranked 919)  
+Rating: 3.84 (Ranked 921)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I don't feel so good | 42.00% | ~480 |
-| Electrician | 34.00% | ~388 |
-| Fear my botany powers, Mars | 32.00% | ~365 |
-| Zero Waste | 29.00% | ~331 |
-| Bob The Builder | 29.00% | ~331 |
+| Electrician | 34.00% | ~389 |
+| Fear my botany powers, Mars | 32.00% | ~366 |
+| Zero Waste | 29.00% | ~332 |
+| Bob The Builder | 29.00% | ~332 |
 | I am the greatest botanist on this planet. | 28.00% | ~320 |
-| Gardener | 24.00% | ~274 |
-| Miner | 24.00% | ~274 |
+| Gardener | 24.00% | ~275 |
+| Miner | 24.00% | ~275 |
 | Houston we have a problem | 21.00% | ~240 |
-| Occupy Mars! | 20.00% | ~228 |
+| Occupy Mars! | 20.00% | ~229 |
 | Detective | 18.00% | ~206 |
 | The Collector | 14.00% | ~160 |
 | Get your hands dirty | 9.00% | ~103 |
@@ -33,9 +33,9 @@ Rating: 3.85 (Ranked 919)
 | 5G Network | 0.50% | ~6 |
 | Caveman | 0.50% | ~6 |
 | Bull’s eye | 0.40% | ~5 |
-| Rover Mechanic | 0.40% | ~5 |
 | Planetary Defence | 0.30% | ~3 |
 | Korolev crater | 0.30% | ~3 |
+| Rover Mechanic | 0.30% | ~3 |
 | Hot Repairs | 0.20% | ~2 |
 | One does not simply... | 0.20% | ~2 |
 | Cooking Vegetables | 0.10% | ~1 |
@@ -54,7 +54,7 @@ Rating: 3.85 (Ranked 919)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,142 (Ranked 166)  
+Progressed: 1,144 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 1,120 | 0 |
 | 2023-06-05 | 1,130 | 0 |
 | 2023-06-06 | 1,142 | 0 |
+| 2023-06-07 | 1,144 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -101,3 +102,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 3.86 | 0 | 0 |
 | 2023-06-03 | 3.83 | 0 | 0 |
 | 2023-06-05 | 3.85 | 0 | 0 |
+| 2023-06-07 | 3.84 | 0 | 0 |

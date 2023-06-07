@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1925,
+  "EOS_Progressed": 1926,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -633,6 +633,11 @@
       "Time": "2023-06-07T11:03:18.4271096+00:00",
       "NumProgressed": 1925,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-07T19:03:04.808825+00:00",
+      "NumProgressed": 1926,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 13,
@@ -660,7 +665,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -668,7 +673,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "MOVE_ON",
@@ -747,7 +752,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 1925,
+      "Progressed": 1926,
       "Completed": 4
     }
   ],
@@ -755,8 +760,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-06-07T18:03:22.1277603+00:00",
+  "LastChanged_Achievements": "2023-06-07T19:03:04.8088242+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:37.2673962+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:59:37.6643312+00:00",
-  "LastUpdate_Achievements": "2023-06-07T18:03:22.1277757+00:00"
+  "LastUpdate_Ratings": "2023-06-07T19:00:16.9906464+00:00",
+  "LastUpdate_Achievements": "2023-06-07T19:03:04.8088466+00:00"
 }

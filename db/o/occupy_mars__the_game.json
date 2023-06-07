@@ -2,20 +2,20 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 919,
+  "Ranking_Rating": 921,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 3.85,
+  "Rating": 3.84,
   "RatingHistory": [
     {
       "Time": "2023-05-17T09:57:13.2048269+00:00",
@@ -94,15 +94,21 @@
       "Rating": 3.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-07T18:58:02.4478237+00:00",
+      "Rating": 3.84,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1142,
+  "EOS_Progressed": 1144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1585,6 +1591,11 @@
       "Time": "2023-06-06T21:04:05.7707986+00:00",
       "NumProgressed": 1142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T19:04:28.0985358+00:00",
+      "NumProgressed": 1144,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1676,7 +1687,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -1716,7 +1727,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1772,7 +1783,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -1788,7 +1799,7 @@
       "Name": "Gardener",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -1844,7 +1855,7 @@
       "Name": "Miner",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -1868,7 +1879,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -1922,9 +1933,9 @@
       "ID": "NEW_ACHIEVEMENT_ROVER_MECHANIC",
       "SetID": "l546gc",
       "Name": "Rover Mechanic",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPACE_FOREST",
@@ -1956,7 +1967,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -1979,16 +1990,16 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1142,
+      "Progressed": 1144,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-10T20:57:26.0655367+00:00",
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
-  "LastChanged": "2023-06-05T18:57:24.3437031+00:00",
-  "LastChanged_Achievements": "2023-06-07T18:04:27.0174561+00:00",
+  "LastChanged": "2023-06-07T18:58:02.4478234+00:00",
+  "LastChanged_Achievements": "2023-06-07T19:04:28.0985351+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:57:44.4794721+00:00",
-  "LastUpdate_Achievements": "2023-06-07T18:04:27.0175256+00:00"
+  "LastUpdate_Ratings": "2023-06-07T18:58:02.4478241+00:00",
+  "LastUpdate_Achievements": "2023-06-07T19:04:28.0985928+00:00"
 }
