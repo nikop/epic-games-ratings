@@ -8,25 +8,25 @@
 | 6 | [Volley Pals](games/v/volley_pals.md) | 22.22% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
-| 9 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 16.67% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 11 | [Island Cities](games/i/island_cities.md) | 15.03% |
+| 10 | [Island Cities](games/i/island_cities.md) | 15.03% |
+| 11 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 14.29% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 16 | [Without Escape](games/w/without_escape.md) | 10.00% |
-| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.94% |
+| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.50% |
+| 17 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
 | 20 | [Remains](games/r/remains.md) | 8.11% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.09% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.08% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
 | 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.14% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.13% |
-| 27 | [Scorn](games/s/scorn.md) | 6.85% |
+| 27 | [Scorn](games/s/scorn.md) | 6.90% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -82,8 +82,8 @@
 | 80 | [Ten Dates](games/t/ten_dates.md) | 1.28% |
 | 81 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.25% |
 | 82 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
-| 83 | [Chorus](games/c/chorus.md) | 1.18% |
 | 83 | [Trifox](games/t/trifox.md) | 1.18% |
+| 84 | [Chorus](games/c/chorus.md) | 1.17% |
 | 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.16% |
 | 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.13% |
 | 86 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
@@ -113,8 +113,8 @@
 | 111 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
 | 112 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
-| 114 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
-| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
+| 114 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
+| 114 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 117 | [Potion Permit](games/p/potion_permit.md) | 0.44% |
 | 118 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
