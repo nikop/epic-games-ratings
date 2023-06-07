@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -3003,9 +3003,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 528
+      "UsersEstimate": 541
     },
     {
       "ID": "fourleafclover",
@@ -3428,8 +3428,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-06T21:58:30.8891367+00:00",
-  "LastChanged_Achievements": "2023-06-07T08:06:52.3203742+00:00",
+  "LastChanged_Achievements": "2023-06-07T09:06:32.837013+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-07T07:58:36.5740985+00:00",
-  "LastUpdate_Achievements": "2023-06-07T08:06:52.3204692+00:00"
+  "LastUpdate_Ratings": "2023-06-07T08:58:17.6620495+00:00",
+  "LastUpdate_Achievements": "2023-06-07T09:06:32.8370833+00:00"
 }

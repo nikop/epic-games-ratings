@@ -11,10 +11,10 @@ Number of Ratings: 1,331  (23.09.2022)
 | Harvest and Home | 0.90% | ~199 |
 | Poise and Poisons | 0.80% | ~177 |
 | Hands and Hammers | 0.50% | ~110 |
+| Progenitor and Protégé | 0.50% | ~110 |
 | Suns and Soldiers | 0.50% | ~110 |
 | No Harm in Looking | 0.50% | ~110 |
 | King and Kin | 0.40% | ~88 |
-| Progenitor and Protégé | 0.40% | ~88 |
 | Prequel to the Sequel | 0.40% | ~88 |
 | For Glory | 0.30% | ~66 |
 | Truly Blessed | 0.20% | ~44 |

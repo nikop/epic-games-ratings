@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 726,
+  "Ranking_Rating": 727,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -66,7 +66,7 @@
   "Tags": [],
   "EOS_Progressed": 1042,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1652,9 +1652,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 469
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1805,8 +1805,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-07T08:03:32.9308324+00:00",
+  "LastChanged_Achievements": "2023-06-07T09:03:31.3827013+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-07T07:58:54.2869906+00:00",
-  "LastUpdate_Achievements": "2023-06-07T08:03:32.9308861+00:00"
+  "LastUpdate_Ratings": "2023-06-07T08:58:34.9320818+00:00",
+  "LastUpdate_Achievements": "2023-06-07T09:03:31.3827441+00:00"
 }

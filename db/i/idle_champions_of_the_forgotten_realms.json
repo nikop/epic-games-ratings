@@ -4138,10 +4138,10 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 90006,
+  "EOS_Progressed": 90011,
   "EOS_Completed": 1922,
-  "EOS_NewPlayers": 726,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 728,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
     {
@@ -8978,6 +8978,11 @@
       "Time": "2023-06-07T08:07:07.2878583+00:00",
       "NumProgressed": 90006,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-06-07T09:06:47.6284337+00:00",
+      "NumProgressed": 90011,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 493,
@@ -9707,9 +9712,9 @@
       "ID": "objective_completed_117",
       "SetID": "cc37lbc",
       "Name": "Friends of the Forest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_1170",
@@ -9859,9 +9864,9 @@
       "ID": "objective_completed_1203",
       "SetID": "415jc5c",
       "Name": "Checkmate",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 281
     },
     {
       "ID": "objective_completed_1204",
@@ -10267,9 +10272,9 @@
       "ID": "objective_completed_181",
       "SetID": "cc37lbc",
       "Name": "Azaka\u0027s Procession - Part 1",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_182",
@@ -12932,21 +12937,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56280,
+      "Progressed": 56285,
       "Completed": 2775
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90006,
+      "Progressed": 90011,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T13:58:26.881905+00:00",
-  "LastChanged_Achievements": "2023-06-07T08:07:07.2878578+00:00",
+  "LastChanged_Achievements": "2023-06-07T09:06:47.6284332+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-07T07:58:38.8467891+00:00",
-  "LastUpdate_Achievements": "2023-06-07T08:07:07.2902264+00:00"
+  "LastUpdate_Ratings": "2023-06-07T08:58:20.1868888+00:00",
+  "LastUpdate_Achievements": "2023-06-07T09:06:47.6307141+00:00"
 }

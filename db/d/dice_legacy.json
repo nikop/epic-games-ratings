@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -857,9 +857,9 @@
       "ID": "FIND_ATTACKS_SOURCE",
       "SetID": "6ohhfoc",
       "Name": "The City",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 67
     },
     {
       "ID": "GOLDMASTER",
@@ -1042,8 +1042,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-06-07T08:06:39.1007479+00:00",
+  "LastChanged_Achievements": "2023-06-07T09:06:19.5702672+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:51.047236+00:00",
-  "LastUpdate_Ratings": "2023-06-07T07:58:17.1376947+00:00",
-  "LastUpdate_Achievements": "2023-06-07T08:06:39.1007819+00:00"
+  "LastUpdate_Ratings": "2023-06-07T08:57:59.0067499+00:00",
+  "LastUpdate_Achievements": "2023-06-07T09:06:19.5703003+00:00"
 }

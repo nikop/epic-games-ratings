@@ -9,8 +9,8 @@
 | Departure | 70.00% | ~676 |
 | From X to Y | 69.00% | ~666 |
 | Way of Iron | 68.00% | ~656 |
-| Mystery Tour | 65.00% | ~627 |
-| Brainstorm | 64.00% | ~618 |
+| Mystery Tour | 66.00% | ~637 |
+| Brainstorm | 65.00% | ~627 |
 | We brake for nobody | 64.00% | ~618 |
 | Mind the Gap | 62.00% | ~598 |
 | Travel Company | 62.00% | ~598 |
@@ -36,9 +36,9 @@
 | Hostile Takeover | 20.00% | ~193 |
 | Trailblazer | 18.00% | ~174 |
 | Traffic Jam | 14.00% | ~135 |
+| Traffic Junction | 14.00% | ~135 |
 | Breaking Ground | 14.00% | ~135 |
 | Assimilated | 13.00% | ~125 |
-| Traffic Junction | 13.00% | ~125 |
 | Locusts | 12.00% | ~116 |
 | Networker | 12.00% | ~116 |
 | Resistance is futile | 11.00% | ~106 |

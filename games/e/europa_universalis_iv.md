@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,616 |
-| That's a Grand Army | 8.00% | ~4,104 |
-| That is mine! | 8.00% | ~4,104 |
-| Victorious! | 8.00% | ~4,104 |
-| Brothers in Arms | 6.00% | ~3,078 |
-| That's a Grand Navy | 6.00% | ~3,078 |
-| Seriously?! | 6.00% | ~3,078 |
-| For the Glory | 5.00% | ~2,565 |
-| Cold War | 4.00% | ~2,052 |
-| True Catholic | 4.00% | ~2,052 |
+| Until death do us apart | 9.00% | ~4,618 |
+| That's a Grand Army | 8.00% | ~4,105 |
+| That is mine! | 8.00% | ~4,105 |
+| Victorious! | 8.00% | ~4,105 |
+| Brothers in Arms | 6.00% | ~3,079 |
+| That's a Grand Navy | 6.00% | ~3,079 |
+| Seriously?! | 6.00% | ~3,079 |
+| For the Glory | 5.00% | ~2,566 |
+| Cold War | 4.00% | ~2,053 |
+| True Catholic | 4.00% | ~2,053 |
 | Defender of the Faith | 3.00% | ~1,539 |
 | It's all about the money | 3.00% | ~1,539 |
 | Respected | 3.00% | ~1,539 |
@@ -42,7 +42,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~462 |
 | Market Control | 0.90% | ~462 |
 | The Five Colonies | 0.90% | ~462 |
-| Down Under | 0.80% | ~410 |
+| Down Under | 0.80% | ~411 |
 | Trustworthy | 0.70% | ~359 |
 | All belongs to Mother Russia | 0.60% | ~308 |
 | At every continent | 0.60% | ~308 |
@@ -50,12 +50,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Electable! | 0.60% | ~308 |
 | Populists in Government | 0.60% | ~308 |
 | Time Bandit | 0.60% | ~308 |
-| One Family to Rule them All | 0.50% | ~256 |
-| Ruina Imperii | 0.50% | ~256 |
-| The pen is mightier than the sword | 0.50% | ~256 |
-| This is My Faith | 0.50% | ~256 |
-| Trophy Hunter | 0.50% | ~256 |
-| Voting Streak | 0.50% | ~256 |
+| One Family to Rule them All | 0.50% | ~257 |
+| Ruina Imperii | 0.50% | ~257 |
+| The pen is mightier than the sword | 0.50% | ~257 |
+| This is My Faith | 0.50% | ~257 |
+| Trophy Hunter | 0.50% | ~257 |
+| Voting Streak | 0.50% | ~257 |
 | Absolutely | 0.40% | ~205 |
 | All Your Trade Are Belong to Us | 0.40% | ~205 |
 | Bleed Them Dry | 0.40% | ~205 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,294 (Ranked 78)  
+Progressed: 51,316 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 50,194 | 0 |
 | 2023-06-05 | 50,691 | 0 |
 | 2023-06-06 | 51,193 | 0 |
-| 2023-06-07 | 51,294 | 0 |
+| 2023-06-07 | 51,316 | 0 |
 ## Awards
 Max (Educational): 5,351  (Ranked 61)  
 Sum: 44,211 (Ranked 27)  

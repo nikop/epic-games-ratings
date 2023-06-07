@@ -7,21 +7,21 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 42.00% | ~5,478 |
-| Man of politics | 36.00% | ~4,695 |
+| Man of politics | 36.00% | ~4,696 |
 | Friends of sorts | 34.00% | ~4,435 |
 | Yet another secret | 34.00% | ~4,435 |
-| Let there be darkness | 33.00% | ~4,304 |
-| End of Book One | 31.00% | ~4,043 |
+| Let there be darkness | 33.00% | ~4,305 |
+| End of Book One | 31.00% | ~4,044 |
 | Garden of Eden | 25.00% | ~3,261 |
-| Wannabe knight | 24.00% | ~3,130 |
-| Full house | 24.00% | ~3,130 |
-| Help an old friend | 22.00% | ~2,869 |
+| Wannabe knight | 24.00% | ~3,131 |
+| Full house | 24.00% | ~3,131 |
+| Help an old friend | 22.00% | ~2,870 |
 | Two of us | 20.00% | ~2,609 |
 | Negotiation skills | 19.00% | ~2,478 |
 | Workers' union | 19.00% | ~2,478 |
 | End of Book Two | 18.00% | ~2,348 |
 | Everything's in order | 17.00% | ~2,217 |
-| Jack was here! | 15.00% | ~1,956 |
+| Jack was here! | 15.00% | ~1,957 |
 | Twist of Fate | 14.00% | ~1,826 |
 | Exterminator | 14.00% | ~1,826 |
 | Whodunnit | 13.00% | ~1,696 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,174 |
 | The truth revealed | 9.00% | ~1,174 |
 | The End. | 9.00% | ~1,174 |
-| A cry for help | 8.00% | ~1,043 |
+| A cry for help | 8.00% | ~1,044 |
 | Silentium est aureum | 7.00% | ~913 |
 | Rebel without a cause | 6.00% | ~783 |
 | Staring contest champion | 5.00% | ~652 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~391 |
 | Boy of mystery | 2.00% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,043 (Ranked 105)  
+Progressed: 13,044 (Ranked 105)  
 Completed: 99 (0.76%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 99 (0.76%) (Ranked 100)
 | 2023-06-04 | 12,985 | 99 |
 | 2023-06-05 | 13,009 | 99 |
 | 2023-06-06 | 13,034 | 99 |
-| 2023-06-07 | 13,043 | 99 |
+| 2023-06-07 | 13,044 | 99 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 288)  
 Sum: 188 (Ranked 358)  

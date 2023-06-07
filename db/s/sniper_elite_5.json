@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2347,
+  "EOS_Progressed": 2346,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2731,6 +2731,11 @@
       "Time": "2023-06-07T08:06:45.964869+00:00",
       "NumProgressed": 2347,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-07T09:06:26.3514097+00:00",
+      "NumProgressed": 2346,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2822,7 +2827,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 633
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2948,9 +2953,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 328
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3309,13 +3314,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2298,
+      "Progressed": 2297,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2347,
+      "Progressed": 2346,
       "Completed": 2
     }
   ],
@@ -3323,8 +3328,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-07T08:06:45.9648682+00:00",
+  "LastChanged_Achievements": "2023-06-07T09:06:26.3514093+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-07T08:01:13.9890223+00:00",
-  "LastUpdate_Achievements": "2023-06-07T08:06:45.9649497+00:00"
+  "LastUpdate_Ratings": "2023-06-07T09:00:51.9941173+00:00",
+  "LastUpdate_Achievements": "2023-06-07T09:06:26.3514717+00:00"
 }
