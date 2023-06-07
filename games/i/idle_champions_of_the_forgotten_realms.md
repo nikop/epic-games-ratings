@@ -190,6 +190,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All You Know Is Wrong | 0.20% | ~180 |
 | Avernus Frozen Over | 0.20% | ~113 |
 | Market Fluctuations | 0.20% | ~180 |
+| Once More Into The Breach | 0.20% | ~180 |
 | Déjà Vu All Over Again | 0.20% | ~113 |
 | Into The Fire | 0.20% | ~113 |
 | Dreamscape | 0.20% | ~113 |
@@ -393,7 +394,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~56 |
 | Everything is Awful | 0.10% | ~90 |
 | Shadow Stalkers | 0.10% | ~56 |
-| Once More Into The Breach | 0.10% | ~90 |
 | Twice More Into The Breach | 0.10% | ~90 |
 | Thrice More Into The Breach | 0.10% | ~56 |
 | Nightmare Mode | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,030 (Ranked 62)  
+Progressed: 90,032 (Ranked 62)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 90,030 | 1,922 |
+| 2023-06-07 | 90,032 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,047 (Ranked 37)  

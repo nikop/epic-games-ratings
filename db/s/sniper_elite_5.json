@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2365,
+  "EOS_Progressed": 2368,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2782,6 +2782,11 @@
       "Time": "2023-06-07T17:10:34.1154409+00:00",
       "NumProgressed": 2365,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-07T18:06:45.640881+00:00",
+      "NumProgressed": 2368,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2857,7 +2862,7 @@
       "Name": "Organ Grinder",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2873,7 +2878,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2961,7 +2966,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3001,7 +3006,7 @@
       "Name": "Lord of War",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3105,7 +3110,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3129,7 +3134,7 @@
       "Name": "Change the Channel",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3185,7 +3190,7 @@
       "Name": "Target America",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3360,13 +3365,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2316,
+      "Progressed": 2319,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2365,
+      "Progressed": 2368,
       "Completed": 2
     }
   ],
@@ -3374,8 +3379,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-07T14:01:38.5946734+00:00",
-  "LastChanged_Achievements": "2023-06-07T17:10:34.1154401+00:00",
+  "LastChanged_Achievements": "2023-06-07T18:06:45.6408804+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:05:15.2322146+00:00",
-  "LastUpdate_Achievements": "2023-06-07T17:10:34.115519+00:00"
+  "LastUpdate_Ratings": "2023-06-07T18:00:54.7156525+00:00",
+  "LastUpdate_Achievements": "2023-06-07T18:06:45.6409644+00:00"
 }

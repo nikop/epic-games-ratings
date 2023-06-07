@@ -2,9 +2,9 @@
   "ID": "8ee9de55298245e4bfe187dd50560f3c",
   "Name": "Without Escape",
   "ProductSlug": "without-escape-c00993",
-  "Ranking_EOS_Progress": 357,
-  "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Completed": 17,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-18T22:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 11,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10,
+  "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:18.5107292+00:00",
@@ -79,6 +79,11 @@
       "Time": "2023-06-02T15:05:52.2649385+00:00",
       "NumProgressed": 10,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T18:06:34.8991657+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 9,
@@ -88,7 +93,7 @@
       "ID": "ACH_ALL_ENDINGS",
       "SetID": "2a8fdfo",
       "Name": "You got all endings!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -96,7 +101,7 @@
       "ID": "ACH_CALLED_POLICE",
       "SetID": "2a8fdfo",
       "Name": "Never around when you need them",
-      "Percentage": 30,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -104,7 +109,7 @@
       "ID": "ACH_ENDING_1",
       "SetID": "2a8fdfo",
       "Name": "Became the new Maker",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -112,7 +117,7 @@
       "ID": "ACH_ENDING_2",
       "SetID": "2a8fdfo",
       "Name": "Jumped into the void",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -120,7 +125,7 @@
       "ID": "ACH_ENDING_3",
       "SetID": "2a8fdfo",
       "Name": "Did you think you would make it?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -128,7 +133,7 @@
       "ID": "ACH_ENDING_4",
       "SetID": "2a8fdfo",
       "Name": "Where\u0027s the air conditioner?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -136,7 +141,7 @@
       "ID": "ACH_ENDING_5",
       "SetID": "2a8fdfo",
       "Name": "Stubbornness unleashed!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -144,7 +149,7 @@
       "ID": "ACH_ENDING_6",
       "SetID": "2a8fdfo",
       "Name": "So nineties it hurts...",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -152,7 +157,7 @@
       "ID": "ACH_FINISHED_GAME_10_TIMES",
       "SetID": "2a8fdfo",
       "Name": "Still trying to escape?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -161,13 +166,13 @@
     {
       "ID": "2a8fdfo",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 11,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:18.51073+00:00",
-  "LastChanged_Achievements": "2023-06-07T17:10:23.6369378+00:00",
+  "LastChanged_Achievements": "2023-06-07T18:06:34.899165+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:59.827139+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:04:16.350858+00:00",
-  "LastUpdate_Achievements": "2023-06-07T17:10:23.6369466+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:59:57.9151289+00:00",
+  "LastUpdate_Achievements": "2023-06-07T18:06:34.899181+00:00"
 }

@@ -51,13 +51,14 @@ Number of Ratings: 118  (23.09.2022)
 | Res Judicata | 12.00% | ~4 |
 | Necrophilia | 12.00% | ~4 |
 | Egghead | 12.00% | ~4 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~4 |
 | Holistic Adventuring Party | 9.00% | ~3 |
 | I'd rather... Just... Sing! | 9.00% | ~3 |
 | Elite Adventurers | 9.00% | ~3 |
 | Hit snooze | 9.00% | ~3 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 9.00% | ~3 |
 | We come in peace | 9.00% | ~3 |
 | Super-Ultra-Lydian | 9.00% | ~3 |
+| It's been a hard day's night | 9.00% | ~3 |
 | Lust and Debauchery | 9.00% | ~3 |
 | Deep changes | 6.00% | ~2 |
 | A broken clock… | 6.00% | ~2 |
@@ -66,7 +67,6 @@ Number of Ratings: 118  (23.09.2022)
 | Star-crossed lovers | 6.00% | ~2 |
 | Death is for wimps | 6.00% | ~2 |
 | Inception | 6.00% | ~2 |
-| It's been a hard day's night | 6.00% | ~2 |
 | Demisemiquaver | 6.00% | ~2 |
 | Friendly fire | 3.00% | ~1 |
 | Restless night | 3.00% | ~1 |

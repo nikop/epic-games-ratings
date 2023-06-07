@@ -35,8 +35,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 1.00% | ~152 |
 | Trade Baron | 1.00% | ~152 |
 | Statue of the Forefathers | 0.90% | ~137 |
+| Forsaken Gods Temple | 0.90% | ~137 |
 | Serving Ale | 0.80% | ~122 |
-| Forsaken Gods Temple | 0.80% | ~122 |
 | Defying the Crown | 0.80% | ~122 |
 | Into the Forest | 0.80% | ~122 |
 | Ruined Armory | 0.70% | ~107 |

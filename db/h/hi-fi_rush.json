@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2847,
+  "EOS_Progressed": 2848,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2514,6 +2514,11 @@
       "Time": "2023-06-07T17:10:44.4595333+00:00",
       "NumProgressed": 2847,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-07T18:06:56.339076+00:00",
+      "NumProgressed": 2848,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 61,
@@ -2533,7 +2538,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "Ach003",
@@ -2541,7 +2546,7 @@
       "Name": "This will cost you big time",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "Ach004",
@@ -2637,7 +2642,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "Ach016",
@@ -2701,7 +2706,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "Ach024",
@@ -2709,7 +2714,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "Ach025",
@@ -2717,7 +2722,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "Ach026",
@@ -2733,7 +2738,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "Ach028",
@@ -2765,7 +2770,7 @@
       "Name": "Perfect Parry",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "Ach032",
@@ -2893,7 +2898,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "Ach048",
@@ -2901,7 +2906,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "Ach049",
@@ -2925,7 +2930,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "Ach052",
@@ -2941,7 +2946,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "Ach054",
@@ -3012,22 +3017,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 2847,
+      "Progressed": 2848,
       "Completed": 4
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1368,
-      "Completed": 1368
+      "Progressed": 1369,
+      "Completed": 1369
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-03T21:58:22.8890273+00:00",
-  "LastChanged_Achievements": "2023-06-07T17:10:44.4595326+00:00",
+  "LastChanged_Achievements": "2023-06-07T18:06:56.3390753+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:48.102192+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:03:08.7006599+00:00",
-  "LastUpdate_Achievements": "2023-06-07T17:10:44.4595959+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:58:54.4978384+00:00",
+  "LastUpdate_Achievements": "2023-06-07T18:06:56.3391538+00:00"
 }

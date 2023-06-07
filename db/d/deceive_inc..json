@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 296,
+  "Ranking_Rating": 295,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 118,
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6634,
+  "EOS_Progressed": 6635,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3833,6 +3833,11 @@
       "Time": "2023-06-07T17:10:40.109303+00:00",
       "NumProgressed": 6634,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T18:06:52.1998188+00:00",
+      "NumProgressed": 6635,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3860,7 +3865,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "0004",
@@ -3868,7 +3873,7 @@
       "Name": "Security Supervisor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "0005",
@@ -3948,7 +3953,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "0015",
@@ -4034,9 +4039,9 @@
       "ID": "0025",
       "SetID": "2n2feee",
       "Name": "Tailor-Made",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2455
     },
     {
       "ID": "0026",
@@ -4076,7 +4081,7 @@
       "Name": "For your Eyes only",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "0031",
@@ -4084,7 +4089,7 @@
       "Name": "Private Collection",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "0032",
@@ -4092,7 +4097,7 @@
       "Name": "Killer Looks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "0033",
@@ -4100,7 +4105,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "0034",
@@ -4131,7 +4136,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6634,
+      "Progressed": 6635,
       "Completed": 0
     }
   ],
@@ -4139,8 +4144,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-06-07T17:10:40.1093028+00:00",
+  "LastChanged_Achievements": "2023-06-07T18:06:52.1998181+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:04.3175816+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:04:20.0959845+00:00",
-  "LastUpdate_Achievements": "2023-06-07T17:10:40.1094191+00:00"
+  "LastUpdate_Ratings": "2023-06-07T18:00:01.718273+00:00",
+  "LastUpdate_Achievements": "2023-06-07T18:06:52.1998915+00:00"
 }

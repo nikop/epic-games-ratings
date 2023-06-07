@@ -5,31 +5,31 @@ Rating: 4.55 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,477 |
-| Realm Estate | 75.00% | ~3,301 |
-| Secret Technique | 75.00% | ~3,301 |
-| Walls Cannot Stop Us | 73.00% | ~3,213 |
-| From Friends to Family | 69.00% | ~3,037 |
-| Magical Synergy | 65.00% | ~2,861 |
-| Bone Peddler | 61.00% | ~2,685 |
-| Stronger Together | 56.00% | ~2,465 |
-| Full Ascension | 54.00% | ~2,377 |
-| There Can Only Be One! | 47.00% | ~2,068 |
-| Seat of Power | 47.00% | ~2,068 |
-| Intimidation Tactics | 44.00% | ~1,936 |
-| My Final Form | 43.00% | ~1,892 |
-| Valley of Wonders | 42.00% | ~1,848 |
-| In a Liege of Your Own | 38.00% | ~1,672 |
-| Return of the Wizard King | 31.00% | ~1,364 |
-| Digging for Treasure | 31.00% | ~1,364 |
-| Against the Odds | 31.00% | ~1,364 |
-| Enchanted Archipelago | 28.00% | ~1,232 |
-| Impenetrable Fortress | 27.00% | ~1,188 |
-| The Magic That Empowers Me! | 20.00% | ~880 |
-| Preparation Is Everything | 20.00% | ~880 |
-| Arch Mage | 19.00% | ~836 |
-| God Emperor | 18.00% | ~792 |
-| Crimson Caldera | 17.00% | ~748 |
+| A Wonderful Discovery | 79.00% | ~3,478 |
+| Realm Estate | 75.00% | ~3,302 |
+| Secret Technique | 75.00% | ~3,302 |
+| Walls Cannot Stop Us | 73.00% | ~3,214 |
+| From Friends to Family | 69.00% | ~3,038 |
+| Magical Synergy | 65.00% | ~2,862 |
+| Bone Peddler | 61.00% | ~2,686 |
+| Stronger Together | 56.00% | ~2,466 |
+| Full Ascension | 54.00% | ~2,378 |
+| There Can Only Be One! | 47.00% | ~2,069 |
+| Seat of Power | 47.00% | ~2,069 |
+| Intimidation Tactics | 44.00% | ~1,937 |
+| My Final Form | 43.00% | ~1,893 |
+| Valley of Wonders | 42.00% | ~1,849 |
+| In a Liege of Your Own | 38.00% | ~1,673 |
+| Return of the Wizard King | 31.00% | ~1,365 |
+| Digging for Treasure | 31.00% | ~1,365 |
+| Against the Odds | 31.00% | ~1,365 |
+| Enchanted Archipelago | 28.00% | ~1,233 |
+| Impenetrable Fortress | 27.00% | ~1,189 |
+| The Magic That Empowers Me! | 20.00% | ~881 |
+| Preparation Is Everything | 20.00% | ~881 |
+| Arch Mage | 19.00% | ~837 |
+| God Emperor | 18.00% | ~793 |
+| Crimson Caldera | 17.00% | ~749 |
 | Eternal Lord | 16.00% | ~704 |
 | Fiery Friend | 15.00% | ~660 |
 | Lord of Chaos | 14.00% | ~616 |
@@ -50,7 +50,7 @@ Rating: 4.55 (Ranked 475)
 | Returning Circle | 0.30% | ~13 |
 | Master of Evilness | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,401 (Ranked 128)  
+Progressed: 4,403 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 4,325 | 0 |
 | 2023-06-05 | 4,354 | 0 |
 | 2023-06-06 | 4,386 | 0 |
-| 2023-06-07 | 4,401 | 0 |
+| 2023-06-07 | 4,403 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

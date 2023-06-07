@@ -6,15 +6,15 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,769 |
+| Finding Your Footing | 27.00% | ~6,770 |
 | Rookie | 25.00% | ~6,268 |
-| Nomad | 19.00% | ~4,763 |
-| Picking Up Speed | 17.00% | ~4,262 |
-| Welcome Maya | 16.00% | ~4,011 |
-| Sightseer | 12.00% | ~3,008 |
+| Nomad | 19.00% | ~4,764 |
+| Picking Up Speed | 17.00% | ~4,263 |
+| Welcome Maya | 16.00% | ~4,012 |
+| Sightseer | 12.00% | ~3,009 |
 | Scout | 10.00% | ~2,507 |
-| Amateur | 9.00% | ~2,256 |
-| Wanderer | 9.00% | ~2,256 |
+| Amateur | 9.00% | ~2,257 |
+| Wanderer | 9.00% | ~2,257 |
 | Enter Paz | 8.00% | ~2,006 |
 | Unlock Maya | 7.00% | ~1,755 |
 | Aviator | 6.00% | ~1,504 |
@@ -36,7 +36,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~251 |
 | Vandal | 1.00% | ~251 |
 | Daredevil | 0.90% | ~226 |
-| Unlock Felipe | 0.70% | ~175 |
+| Unlock Felipe | 0.70% | ~176 |
 | Adventurer | 0.60% | ~150 |
 | Unlock Tupa | 0.40% | ~100 |
 | Master Of The Sands | 0.30% | ~75 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~25 |
 | Windswept | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,070 (Ranked 90)  
+Progressed: 25,074 (Ranked 90)  
 Completed: 3 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,11 +94,11 @@ Completed: 3 (0.01%) (Ranked 201)
 | 2023-06-04 | 24,675 | 3 |
 | 2023-06-05 | 24,808 | 3 |
 | 2023-06-06 | 24,960 | 3 |
-| 2023-06-07 | 25,070 | 3 |
+| 2023-06-07 | 25,074 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 407)  
-Sum: 345 (Ranked 320)  
-Diff (max vs sum): 87  
+Sum: 346 (Ranked 319)  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 44 |
@@ -108,7 +108,7 @@ Diff (max vs sum): 87
 | This game has Quickly Understood Controls | 36 |
 | This game is Relaxing | 35 |
 | This game is Extremely Fun | 34 |
-| This game has Amazing Storytelling | 26 |
+| This game has Amazing Storytelling | 27 |
 | This game has Diverse Characters | 25 |
 | This game has Amazing Characters | 25 |
 ## Ratings History
@@ -199,3 +199,4 @@ Diff (max vs sum): 87
 | 2023-05-02 | 4.70 | - | 44 | 344 |
 | 2023-05-21 | 4.69 | - | 44 | 344 |
 | 2023-06-01 | 4.69 | - | 44 | 345 |
+| 2023-06-07 | 4.69 | - | 44 | 346 |

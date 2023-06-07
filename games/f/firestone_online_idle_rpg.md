@@ -6,13 +6,13 @@ Rating: 4.00 (Ranked 897)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,246 |
-| World Map | 80.00% | ~1,060 |
-| Temple of Eternals | 57.00% | ~755 |
-| Prestigious | 53.00% | ~702 |
-| Fellowship Power | 41.00% | ~543 |
+| World Map | 80.00% | ~1,061 |
+| Temple of Eternals | 57.00% | ~756 |
+| Prestigious | 53.00% | ~703 |
+| Fellowship Power | 41.00% | ~544 |
 | Guild Power | 24.00% | ~318 |
 | Prestigious x10 | 21.00% | ~278 |
-| The game is on | 18.00% | ~238 |
+| The game is on | 18.00% | ~239 |
 | Exotic Merchant | 17.00% | ~225 |
 | Dragon Clicker | 16.00% | ~212 |
 | Miner Clicker | 16.00% | ~212 |
@@ -53,10 +53,10 @@ Rating: 4.00 (Ranked 897)
 | Enchanting skill | 3.00% | ~40 |
 | Engineer Mastery | 3.00% | ~40 |
 | Lock And Load | 3.00% | ~40 |
-| Blueprint Upgrades | 2.00% | ~26 |
-| Crystal Mining | 2.00% | ~26 |
-| Sailor | 2.00% | ~26 |
-| What lies behind the bush | 2.00% | ~26 |
+| Blueprint Upgrades | 2.00% | ~27 |
+| Crystal Mining | 2.00% | ~27 |
+| Sailor | 2.00% | ~27 |
+| What lies behind the bush | 2.00% | ~27 |
 | Active Member | 1.00% | ~13 |
 | Arena Challenger | 1.00% | ~13 |
 | Ebony Jungle Liberator | 1.00% | ~13 |
@@ -81,7 +81,7 @@ Rating: 4.00 (Ranked 897)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,325 (Ranked 162)  
+Progressed: 1,326 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 1 (0.08%) (Ranked 172)
 | 2023-06-04 | 1,285 | 1 |
 | 2023-06-05 | 1,299 | 1 |
 | 2023-06-06 | 1,309 | 1 |
-| 2023-06-07 | 1,325 | 1 |
+| 2023-06-07 | 1,326 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

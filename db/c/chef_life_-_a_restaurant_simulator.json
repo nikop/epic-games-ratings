@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1259,6 +1259,11 @@
       "Time": "2023-06-07T16:03:45.5929091+00:00",
       "NumProgressed": 309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T18:03:43.2776741+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1446,7 +1451,7 @@
       "Name": "The Big Day",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "Packing20",
@@ -1492,9 +1497,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 50
     },
     {
       "ID": "ServiceMaxClient",
@@ -1582,14 +1587,14 @@
       "Name": "Well-Stocked Kitchen",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 0
     }
   ],
@@ -1597,8 +1602,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-07T17:07:21.6769881+00:00",
+  "LastChanged_Achievements": "2023-06-07T18:03:43.2776728+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:38.5369331+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:02:59.8874225+00:00",
-  "LastUpdate_Achievements": "2023-06-07T17:07:21.6770558+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:58:45.9007671+00:00",
+  "LastUpdate_Achievements": "2023-06-07T18:03:43.2777268+00:00"
 }

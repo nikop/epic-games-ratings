@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Graduation | 80.00% | ~103 |
 | You Have Been Deaded | 71.00% | ~92 |
-| Rookie | 65.00% | ~84 |
+| Rookie | 66.00% | ~85 |
 | Apprentice Destructor | 25.00% | ~32 |
 | I Prefer Jazz Fusion | 10.00% | ~13 |
 | Master Destructor | 9.00% | ~12 |

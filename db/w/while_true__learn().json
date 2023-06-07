@@ -2,7 +2,7 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
-  "Ranking_Rating": 530,
+  "Ranking_Rating": 529,
   "Ranking_Popularity": 298,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 22,
@@ -478,9 +478,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 591513,
+  "EOS_Progressed": 591517,
   "EOS_Completed": 487,
-  "EOS_NewPlayers": 999,
+  "EOS_NewPlayers": 998,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5428,6 +5428,11 @@
       "Time": "2023-06-07T17:10:30.3395028+00:00",
       "NumProgressed": 591513,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-06-07T18:06:41.6414511+00:00",
+      "NumProgressed": 591517,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 28,
@@ -5487,7 +5492,7 @@
       "Name": "README reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 17745
+      "UsersEstimate": 17746
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -5503,7 +5508,7 @@
       "Name": "We need more gold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 354908
+      "UsersEstimate": 354910
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -5519,7 +5524,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 260266
+      "UsersEstimate": 260267
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -5551,7 +5556,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 283926
+      "UsersEstimate": 283928
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -5559,7 +5564,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 289841
+      "UsersEstimate": 289843
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -5567,7 +5572,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 550107
+      "UsersEstimate": 550111
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -5575,7 +5580,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 141963
+      "UsersEstimate": 141964
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -5583,7 +5588,7 @@
       "Name": "Data scientist",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 17745
+      "UsersEstimate": 17746
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -5599,7 +5604,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 390399
+      "UsersEstimate": 390401
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -5607,7 +5612,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 106472
+      "UsersEstimate": 106473
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -5615,7 +5620,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 313502
+      "UsersEstimate": 313504
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -5631,7 +5636,7 @@
       "Name": "One small step for a man...",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 17745
+      "UsersEstimate": 17746
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -5662,15 +5667,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 591513,
+      "Progressed": 591517,
       "Completed": 487
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-05-17T13:05:09.553013+00:00",
-  "LastChanged_Achievements": "2023-06-07T17:10:30.3395024+00:00",
+  "LastChanged_Achievements": "2023-06-07T18:06:41.64145+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:18.7375716+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:03:37.3297164+00:00",
-  "LastUpdate_Achievements": "2023-06-07T17:10:30.3395544+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:59:21.2451008+00:00",
+  "LastUpdate_Achievements": "2023-06-07T18:06:41.6415106+00:00"
 }

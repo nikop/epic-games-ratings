@@ -15,7 +15,7 @@
 | Joyrider | 100.00% | ~3 |
 | Top Detective | 67.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 388)  
+Progressed: 3 (Ranked 389)  
 Completed: 2 (66.67%) (Ranked 1)  
 ## EOS Players History
 | Date | Progressed | Completed |

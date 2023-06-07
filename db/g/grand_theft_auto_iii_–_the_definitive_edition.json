@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -298,9 +298,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6214,
+  "EOS_Progressed": 6216,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3328,6 +3328,11 @@
       "Time": "2023-06-07T17:08:06.7000025+00:00",
       "NumProgressed": 6214,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-06-07T18:04:09.5557828+00:00",
+      "NumProgressed": 6216,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 29,
@@ -3339,7 +3344,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5158
+      "UsersEstimate": 5159
     },
     {
       "ID": "ACH02",
@@ -3347,7 +3352,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "ACH03",
@@ -3363,7 +3368,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "ACH05",
@@ -3379,7 +3384,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "ACH07",
@@ -3443,7 +3448,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH15",
@@ -3459,7 +3464,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "ACH17",
@@ -3555,7 +3560,7 @@
       "Name": "Is That All You\u0027ve Got?",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH29",
@@ -3570,7 +3575,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6214,
+      "Progressed": 6216,
       "Completed": 31
     }
   ],
@@ -3578,8 +3583,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-07T13:58:19.7299811+00:00",
-  "LastChanged_Achievements": "2023-06-07T17:08:06.7000021+00:00",
+  "LastChanged_Achievements": "2023-06-07T18:04:09.5557819+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:03.6526306+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:02:26.912847+00:00",
-  "LastUpdate_Achievements": "2023-06-07T17:08:06.7000611+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:58:14.8416038+00:00",
+  "LastUpdate_Achievements": "2023-06-07T18:04:09.5558412+00:00"
 }

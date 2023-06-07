@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -140,7 +140,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1325,
+  "EOS_Progressed": 1326,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
@@ -2835,6 +2835,11 @@
       "Time": "2023-06-07T16:06:45.25781+00:00",
       "NumProgressed": 1325,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T18:06:52.459452+00:00",
+      "NumProgressed": 1326,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2894,7 +2899,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "cauldronliberator",
@@ -2926,7 +2931,7 @@
       "Name": "Crystal Mining",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "dailyquestcompletionist",
@@ -3030,7 +3035,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "fourleafclover",
@@ -3238,7 +3243,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "prestigiousx10",
@@ -3262,7 +3267,7 @@
       "Name": "Sailor",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "scientist",
@@ -3302,7 +3307,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "thealchemist",
@@ -3334,7 +3339,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "thepowerofawakening",
@@ -3430,7 +3435,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "worldmap",
@@ -3438,14 +3443,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1325,
+      "Progressed": 1326,
       "Completed": 1
     }
   ],
@@ -3453,8 +3458,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-06T21:58:30.8891367+00:00",
-  "LastChanged_Achievements": "2023-06-07T17:10:40.4235824+00:00",
+  "LastChanged_Achievements": "2023-06-07T18:06:52.4594515+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:02:34.367892+00:00",
-  "LastUpdate_Achievements": "2023-06-07T17:10:40.4236767+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:58:21.9106437+00:00",
+  "LastUpdate_Achievements": "2023-06-07T18:06:52.4595489+00:00"
 }

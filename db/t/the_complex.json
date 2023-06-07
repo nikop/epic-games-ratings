@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -212,6 +212,11 @@
       "Time": "2023-06-07T17:10:42.0445961+00:00",
       "NumProgressed": 480,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-07T18:06:53.8731123+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -221,9 +226,9 @@
       "ID": "beat_it",
       "SetID": "d4f4pll",
       "Name": "Beat It",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 259
+      "UsersEstimate": 255
     },
     {
       "ID": "blast_from_the_past",
@@ -231,7 +236,7 @@
       "Name": "Blast From The Past",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "deadly_secret",
@@ -239,7 +244,7 @@
       "Name": "Deadly Secret",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ending_1",
@@ -327,7 +332,7 @@
       "Name": "Kamikaze",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "kindar_surprise",
@@ -359,15 +364,15 @@
       "Name": "Storage Hunter",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 293
+      "UsersEstimate": 289
     },
     {
       "ID": "tough_decision",
@@ -375,14 +380,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 16
     }
   ],
@@ -390,8 +395,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-07T17:10:42.0445957+00:00",
+  "LastChanged_Achievements": "2023-06-07T18:06:53.8731117+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:15.4237814+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:01:37.1289806+00:00",
-  "LastUpdate_Achievements": "2023-06-07T17:10:42.0446097+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:57:32.9459241+00:00",
+  "LastUpdate_Achievements": "2023-06-07T18:06:53.8731262+00:00"
 }

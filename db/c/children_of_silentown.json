@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -194,9 +194,9 @@
       "ID": "Footprint",
       "SetID": "9kk0gal",
       "Name": "Mysterious footprints",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Friend",
@@ -258,9 +258,9 @@
       "ID": "Puppy",
       "SetID": "9kk0gal",
       "Name": "Puppy",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "SchoolRuler",
@@ -339,8 +339,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-07T17:10:44.0908974+00:00",
+  "LastChanged_Achievements": "2023-06-07T18:06:56.0028726+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:33.3761076+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:04:48.2518461+00:00",
-  "LastUpdate_Achievements": "2023-06-07T17:10:44.0909157+00:00"
+  "LastUpdate_Ratings": "2023-06-07T18:00:28.5864769+00:00",
+  "LastUpdate_Achievements": "2023-06-07T18:06:56.0028944+00:00"
 }

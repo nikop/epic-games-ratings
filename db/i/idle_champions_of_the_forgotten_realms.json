@@ -4144,9 +4144,9 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 90030,
+  "EOS_Progressed": 90032,
   "EOS_Completed": 1922,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9029,6 +9029,11 @@
       "Time": "2023-06-07T17:10:56.021319+00:00",
       "NumProgressed": 90030,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-06-07T18:07:08.4406294+00:00",
+      "NumProgressed": 90032,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 493,
@@ -11670,9 +11675,9 @@
       "ID": "objective_completed_610",
       "SetID": "cc37lbc",
       "Name": "Once More Into The Breach",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_611",
@@ -12983,21 +12988,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56304,
+      "Progressed": 56306,
       "Completed": 2775
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90030,
+      "Progressed": 90032,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-07T17:02:36.8093481+00:00",
-  "LastChanged_Achievements": "2023-06-07T17:10:56.0213186+00:00",
+  "LastChanged_Achievements": "2023-06-07T18:07:08.4406282+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-07T17:02:36.8093493+00:00",
-  "LastUpdate_Achievements": "2023-06-07T17:10:56.0241115+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:58:24.3681645+00:00",
+  "LastUpdate_Achievements": "2023-06-07T18:07:08.4435424+00:00"
 }
