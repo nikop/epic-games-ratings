@@ -14,7 +14,7 @@
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 37,094 | 4.60 | 386 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 34,655 | 4.50 | 545 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 32,506 | 4.74 | 144 |
-| 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,527 | 4.65 | 295 |
+| 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,531 | 4.65 | 295 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 28,089 | 4.52 | 514 |
 | 17 | [Dauntless](games/d/dauntless.md) | 20,100 | 4.53 | 502 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 19,672 | 4.77 | 107 |
@@ -76,7 +76,7 @@
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,085 | 4.76 | 118 |
 | 75 | [God of War](games/g/god_of_war.md) | 4,036 | 4.88 | 19 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,995 | 4.56 | 453 |
-| 77 | [SMITE](games/s/smite.md) | 3,857 | 4.45 | 616 |
+| 77 | [SMITE](games/s/smite.md) | 3,860 | 4.45 | 616 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,798 | 4.69 | 218 |
 | 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,627 | 4.29 | 770 |
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,461 | 4.47 | 590 |
@@ -162,7 +162,7 @@
 | 160 | [Neon Abyss](games/n/neon_abyss.md) | 669 | 4.68 | 240 |
 | 161 | [Subnautica](games/s/subnautica.md) | 664 | 4.85 | 37 |
 | 162 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 649 | 4.67 | 259 |
-| 163 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 622 | 4.61 | 360 |
+| 163 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 623 | 4.61 | 360 |
 | 164 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 619 | 4.59 | 408 |
 | 164 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 619 | 4.49 | 564 |
 | 166 | [Dark Deity](games/d/dark_deity.md) | 608 | 4.16 | 851 |

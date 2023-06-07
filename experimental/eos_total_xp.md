@@ -166,6 +166,7 @@
 | [Forklift Extreme - Deluxe Edition](../games/f/forklift_extreme_-_deluxe_edition.md) | 13 | 1,000 |
 | [Forspoken](../games/f/forspoken.md) | 53 | 1,000 |
 | [Frogun](../games/f/frogun.md) | 31 | 1,000 |
+| [Frontier Hunter: Erza's Wheel of Fortune](../games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 45 | 1,000 |
 | [Full Metal Sergeant](../games/f/full_metal_sergeant.md) | 10 | 1,000 |
 | [FUR Squadron](../games/f/fur_squadron.md) | 24 | 1,000 |
 | [Fusion Paradox](../games/f/fusion_paradox.md) | 15 | 1,000 |

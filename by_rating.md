@@ -310,7 +310,7 @@
 | 295 | [Returnal™](games/r/returnal™.md) | 4.65 | 29 | 452 |
 | 295 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 387 |
 | 295 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 493 |
-| 295 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,527 | 15 |
+| 295 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,531 | 15 |
 | 295 | [SOMA](games/s/soma.md) | 4.65 | 0 | 493 |
 | 295 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 493 |
 | 295 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 34 | 431 |
@@ -373,7 +373,7 @@
 | 360 | [MudRunner](games/m/mudrunner.md) | 4.61 | 238 | 245 |
 | 360 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 493 |
 | 360 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,506 | 91 |
-| 360 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 622 | 163 |
+| 360 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 623 | 163 |
 | 360 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 434 | 194 |
 | 360 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,177 | 36 |
 | 360 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,062 | 133 |
@@ -624,7 +624,7 @@
 | 616 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,478 | 34 |
 | 616 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 493 |
 | 616 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 493 |
-| 616 | [SMITE](games/s/smite.md) | 4.45 | 3,857 | 77 |
+| 616 | [SMITE](games/s/smite.md) | 4.45 | 3,860 | 77 |
 | 616 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 493 |
 | 616 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 493 |
 | 616 | [STG Football](games/s/stg_football.md) | 4.45 | 40 | 414 |

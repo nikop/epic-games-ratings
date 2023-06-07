@@ -23,22 +23,22 @@
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.03% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
 | 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.41% |
 | 26 | [Scorn](games/s/scorn.md) | 6.86% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.74% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.70% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.68% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.32% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.17% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.16% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
-| 38 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.82% |
-| 39 | [Doodle God](games/d/doodle_god.md) | 3.81% |
+| 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
+| 38 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.81% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.67% |
 | 42 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.64% |

@@ -138,6 +138,7 @@
 | [Trifox](../games/t/trifox.md) | 46 | 1,000 |
 | [Dead Island 2](../games/d/dead_island_2.md) | 45 | 1,000 |
 | [Dice Legacy](../games/d/dice_legacy.md) | 45 | 1,000 |
+| [Frontier Hunter: Erza's Wheel of Fortune](../games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 45 | 1,000 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
 | [Hogwarts Legacy](../games/h/hogwarts_legacy.md) | 45 | 1,000 |
 | [Isonzo](../games/i/isonzo.md) | 45 | 1,000 |
