@@ -35,7 +35,7 @@
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.50% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.07% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.81% |
@@ -99,10 +99,10 @@
 | 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
 | 98 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.77% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
-| 99 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.76% |
-| 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
-| 101 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
-| 101 | [Them and Us](games/t/them_and_us.md) | 0.75% |
+| 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
+| 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
+| 100 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.75% |
+| 100 | [Them and Us](games/t/them_and_us.md) | 0.75% |
 | 104 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.70% |
 | 105 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.69% |
 | 106 | [Train Valley](games/t/train_valley.md) | 0.68% |
@@ -110,9 +110,9 @@
 | 108 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 109 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.62% |
 | 110 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
+| 111 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
 | 111 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
-| 112 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 113 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 114 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 114 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
