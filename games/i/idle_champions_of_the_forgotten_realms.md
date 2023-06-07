@@ -14,11 +14,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.70% | ~630 |
 | Beware the Jabberwock | 0.70% | ~394 |
 | Were-verpowered | 0.60% | ~540 |
+| Seeking Allies | 0.60% | ~540 |
 | Are Ya Chicken? | 0.60% | ~540 |
 | Coasting to the Finish | 0.60% | ~338 |
 | Checkmate | 0.50% | ~281 |
 | A Persistent Buzzing | 0.50% | ~450 |
-| Seeking Allies | 0.50% | ~450 |
 | Mad Cow Disease | 0.50% | ~450 |
 | Friendly Imps | 0.50% | ~450 |
 | Pure Energy | 0.50% | ~450 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,996 (Ranked 62)  
+Progressed: 89,997 (Ranked 62)  
 Completed: 1,922 (2.14%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1,922 (2.14%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 89,996 | 1,922 |
+| 2023-06-07 | 89,997 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

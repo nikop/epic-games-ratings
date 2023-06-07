@@ -5,34 +5,34 @@ Rating: 3.93 (Ranked 911)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~48,312 |
-| First One’s Free | 65.00% | ~42,436 |
-| Neophyte Ninja | 50.00% | ~32,643 |
-| Too Old for This | 47.00% | ~30,684 |
-| Fancy Pants | 35.00% | ~22,850 |
-| Case Closed | 34.00% | ~22,197 |
-| King of the Hill | 34.00% | ~22,197 |
-| Underworld Initiate | 29.00% | ~18,933 |
-| Roid Ranger | 21.00% | ~13,710 |
-| True Player | 19.00% | ~12,404 |
-| Off the Rocks | 19.00% | ~12,404 |
-| Raider’s Ruin | 16.00% | ~10,446 |
-| Dragonslayer | 16.00% | ~10,446 |
-| Hidden Sonata | 13.00% | ~8,487 |
-| Rockay Rex | 11.00% | ~7,181 |
-| Freebooter | 10.00% | ~6,529 |
-| Track Star | 9.00% | ~5,876 |
-| Classy Joint | 9.00% | ~5,876 |
-| I Like Trains | 8.00% | ~5,223 |
-| Headhunter | 8.00% | ~5,223 |
-| Ding Dong | 8.00% | ~5,223 |
-| Foo Finder | 7.00% | ~4,570 |
-| Legend Looter | 5.00% | ~3,264 |
-| Savvy Seeker | 5.00% | ~3,264 |
-| Imports and Exports | 4.00% | ~2,611 |
-| Olympus Ascended | 4.00% | ~2,611 |
-| Cracked the Jack | 4.00% | ~2,611 |
-| Red Star | 4.00% | ~2,611 |
+| Downed but Not Outed | 74.00% | ~48,319 |
+| First One’s Free | 65.00% | ~42,442 |
+| Neophyte Ninja | 50.00% | ~32,648 |
+| Too Old for This | 47.00% | ~30,689 |
+| Fancy Pants | 35.00% | ~22,854 |
+| Case Closed | 34.00% | ~22,201 |
+| King of the Hill | 34.00% | ~22,201 |
+| Underworld Initiate | 29.00% | ~18,936 |
+| Roid Ranger | 21.00% | ~13,712 |
+| True Player | 19.00% | ~12,406 |
+| Off the Rocks | 19.00% | ~12,406 |
+| Raider’s Ruin | 16.00% | ~10,447 |
+| Dragonslayer | 16.00% | ~10,447 |
+| Hidden Sonata | 13.00% | ~8,488 |
+| Rockay Rex | 11.00% | ~7,183 |
+| Freebooter | 10.00% | ~6,530 |
+| Track Star | 9.00% | ~5,877 |
+| Classy Joint | 9.00% | ~5,877 |
+| I Like Trains | 8.00% | ~5,224 |
+| Headhunter | 8.00% | ~5,224 |
+| Ding Dong | 8.00% | ~5,224 |
+| Foo Finder | 7.00% | ~4,571 |
+| Legend Looter | 5.00% | ~3,265 |
+| Savvy Seeker | 5.00% | ~3,265 |
+| Imports and Exports | 4.00% | ~2,612 |
+| Olympus Ascended | 4.00% | ~2,612 |
+| Cracked the Jack | 4.00% | ~2,612 |
+| Red Star | 4.00% | ~2,612 |
 | Privateer | 3.00% | ~1,959 |
 | Groundhog Days | 3.00% | ~1,959 |
 | Rockay Raider | 2.00% | ~1,306 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 911)
 | Geek Out | 0.50% | ~326 |
 | Full House | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,286 (Ranked 68)  
+Progressed: 65,296 (Ranked 68)  
 Completed: 32 (0.05%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 32 (0.05%) (Ranked 182)
 | 2023-06-04 | 65,003 | 31 |
 | 2023-06-05 | 65,132 | 31 |
 | 2023-06-06 | 65,264 | 32 |
-| 2023-06-07 | 65,286 | 32 |
+| 2023-06-07 | 65,296 | 32 |
 ## Awards
 Max (Diverse Characters): 321  (Ranked 222)  
 Sum: 1,499 (Ranked 210)  

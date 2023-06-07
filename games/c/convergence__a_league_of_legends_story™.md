@@ -4,6 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Make Up For Lost Time | 3.00% | ~19 |
+| Immaculate Aim | 3.00% | ~19 |
 | The Steel Shadow | 2.00% | ~12 |
 | Treasure Trove | 2.00% | ~12 |
 | Like Clockwork | 2.00% | ~12 |
@@ -11,7 +13,6 @@
 | The Betrayer | 2.00% | ~12 |
 | The Man Who Shattered Time | 2.00% | ~12 |
 | The Loose Cannon | 2.00% | ~12 |
-| Make Up For Lost Time | 2.00% | ~12 |
 | Cartographer | 2.00% | ~12 |
 | No, Thanks! | 2.00% | ~12 |
 | Breaking Down Barriers | 2.00% | ~12 |
@@ -22,7 +23,7 @@
 | Fast Learner | 2.00% | ~12 |
 | Sump Explorer | 2.00% | ~12 |
 | Check Your Pulse | 2.00% | ~12 |
-| Immaculate Aim | 2.00% | ~12 |
+| The Family Fortune | 2.00% | ~12 |
 | Chaincrawler Explorer | 1.00% | ~6 |
 | Right On Time | 1.00% | ~6 |
 | Family Memories | 1.00% | ~6 |
@@ -37,10 +38,9 @@
 | Ask Questions Later | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
 | The Brass Boss | 1.00% | ~6 |
-| The Family Fortune | 1.00% | ~6 |
+| Cultivair Explorer | 0.80% | ~5 |
 | Honest Mistake | 0.80% | ~5 |
 | Sartorialist | 0.60% | ~4 |
-| Cultivair Explorer | 0.60% | ~4 |
 | Golem Hunter | 0.60% | ~4 |
 | Rungs Was Right | 0.60% | ~4 |
 | Syron for Hope | 0.60% | ~4 |

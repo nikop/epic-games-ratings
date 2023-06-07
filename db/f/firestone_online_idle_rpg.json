@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1312,
+  "EOS_Progressed": 1314,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2790,6 +2790,11 @@
       "Time": "2023-06-07T02:27:40.3508048+00:00",
       "NumProgressed": 1312,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T05:06:21.190475+00:00",
+      "NumProgressed": 1314,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2809,7 +2814,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "angelpower",
@@ -2833,7 +2838,7 @@
       "Name": "Background Story",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "beastwarmachines",
@@ -2985,7 +2990,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "fourleafclover",
@@ -3057,7 +3062,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "hunter",
@@ -3089,7 +3094,7 @@
       "Name": "Legendary",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "lieutenant",
@@ -3097,7 +3102,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "lockandload",
@@ -3113,7 +3118,7 @@
       "Name": "Master Enchanter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "mastery",
@@ -3129,7 +3134,7 @@
       "Name": "Milestone collector",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "minerclicker",
@@ -3145,7 +3150,7 @@
       "Name": "Missions Dedication",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "movinguptheladder",
@@ -3161,7 +3166,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "mythicpower",
@@ -3177,7 +3182,7 @@
       "Name": "Natural Talent",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "pokerface",
@@ -3193,7 +3198,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "prestigiousx10",
@@ -3249,7 +3254,7 @@
       "Name": "Superior",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "templeofeternals",
@@ -3257,7 +3262,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "thealchemist",
@@ -3289,7 +3294,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "thepowerofawakening",
@@ -3305,7 +3310,7 @@
       "Name": "The Unstoppable",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "titanpower",
@@ -3361,7 +3366,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1235
     },
     {
       "ID": "warmachinesarmy",
@@ -3377,7 +3382,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "whatliesbehindthebush",
@@ -3393,14 +3398,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1312,
+      "Progressed": 1314,
       "Completed": 1
     }
   ],
@@ -3408,8 +3413,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-06T21:58:30.8891367+00:00",
-  "LastChanged_Achievements": "2023-06-07T04:06:14.9540259+00:00",
+  "LastChanged_Achievements": "2023-06-07T05:06:21.1904747+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-07T03:58:03.1699523+00:00",
-  "LastUpdate_Achievements": "2023-06-07T04:06:14.9541101+00:00"
+  "LastUpdate_Ratings": "2023-06-07T04:58:12.849322+00:00",
+  "LastUpdate_Achievements": "2023-06-07T05:06:21.1905471+00:00"
 }

@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 24388,
+  "EOS_Progressed": 24389,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1120,
+  "EOS_NewPlayers": 1111,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5111,6 +5111,11 @@
       "Time": "2023-06-07T03:20:24.3942125+00:00",
       "NumProgressed": 24388,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-07T05:06:12.8624203+00:00",
+      "NumProgressed": 24389,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 29,
@@ -5154,7 +5159,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -5353,7 +5358,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 24388,
+      "Progressed": 24389,
       "Completed": 19
     }
   ],
@@ -5361,8 +5366,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-07T04:06:06.6561664+00:00",
+  "LastChanged_Achievements": "2023-06-07T05:06:12.8624198+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:25.5386302+00:00",
-  "LastUpdate_Ratings": "2023-06-07T04:00:08.867426+00:00",
-  "LastUpdate_Achievements": "2023-06-07T04:06:06.6562225+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:00:25.325631+00:00",
+  "LastUpdate_Achievements": "2023-06-07T05:06:12.8624604+00:00"
 }

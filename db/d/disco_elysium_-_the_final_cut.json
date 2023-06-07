@@ -1109,7 +1109,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 120613,
+  "EOS_Progressed": 120616,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 882,
   "EOS_NewCompleters": 0,
@@ -5499,6 +5499,11 @@
       "Time": "2023-06-07T04:06:10.3111489+00:00",
       "NumProgressed": 120613,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-07T05:06:16.7642063+00:00",
+      "NumProgressed": 120616,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -5542,7 +5547,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21710
+      "UsersEstimate": 21711
     },
     {
       "ID": "ACH_COP_BAD",
@@ -5566,7 +5571,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28947
+      "UsersEstimate": 28948
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -5614,7 +5619,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19298
+      "UsersEstimate": 19299
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -5654,7 +5659,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13267
+      "UsersEstimate": 13268
     },
     {
       "ID": "ACH_CUNO",
@@ -5829,15 +5834,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 120613,
+      "Progressed": 120616,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-07T02:21:00.374028+00:00",
-  "LastChanged_Achievements": "2023-06-07T04:06:10.3111483+00:00",
+  "LastChanged_Achievements": "2023-06-07T05:06:16.7642059+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:25.8096959+00:00",
-  "LastUpdate_Ratings": "2023-06-07T03:59:11.7220739+00:00",
-  "LastUpdate_Achievements": "2023-06-07T04:06:10.3112044+00:00"
+  "LastUpdate_Ratings": "2023-06-07T04:59:22.6151041+00:00",
+  "LastUpdate_Achievements": "2023-06-07T05:06:16.7642527+00:00"
 }

@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2344,
+  "EOS_Progressed": 2346,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2721,6 +2721,11 @@
       "Time": "2023-06-07T03:20:26.068626+00:00",
       "NumProgressed": 2344,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-07T05:06:14.7430448+00:00",
+      "NumProgressed": 2346,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2810,9 +2815,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 633
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2900,7 +2905,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -2956,7 +2961,7 @@
       "Name": "Resourceful",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3299,13 +3304,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2295,
+      "Progressed": 2297,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2344,
+      "Progressed": 2346,
       "Completed": 2
     }
   ],
@@ -3313,8 +3318,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-07T04:06:08.4354884+00:00",
+  "LastChanged_Achievements": "2023-06-07T05:06:14.7430443+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-07T04:00:42.9067208+00:00",
-  "LastUpdate_Achievements": "2023-06-07T04:06:08.4355768+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:01:00.5292432+00:00",
+  "LastUpdate_Achievements": "2023-06-07T05:06:14.7431128+00:00"
 }

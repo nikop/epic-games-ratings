@@ -6,19 +6,19 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~231,315 |
-| First Victory | 50.00% | ~231,315 |
+| He's Signed! | 50.00% | ~231,316 |
+| First Victory | 50.00% | ~231,316 |
 | Clean Sheet | 49.00% | ~226,689 |
-| He's Sold! | 47.00% | ~217,436 |
-| I'm The Boss! | 41.00% | ~189,678 |
-| Hat-trick | 41.00% | ~189,678 |
+| He's Sold! | 47.00% | ~217,437 |
+| I'm The Boss! | 41.00% | ~189,679 |
+| Hat-trick | 41.00% | ~189,679 |
 | Thumping | 37.00% | ~171,173 |
 | Scoring Streak | 37.00% | ~171,173 |
 | Unbeatable! | 36.00% | ~166,547 |
-| Superb Dressing Room Atmosphere | 35.00% | ~161,920 |
+| Superb Dressing Room Atmosphere | 35.00% | ~161,921 |
 | Total Support | 32.00% | ~148,042 |
-| Record Signing | 31.00% | ~143,415 |
-| Millionaire's Club | 31.00% | ~143,415 |
+| Record Signing | 31.00% | ~143,416 |
+| Millionaire's Club | 31.00% | ~143,416 |
 | Team Performance | 30.00% | ~138,789 |
 | He's a Natural | 30.00% | ~138,789 |
 | Parked The Bus | 29.00% | ~134,163 |
@@ -37,18 +37,18 @@ Number of Ratings: 19,160  (23.09.2022)
 | Iron Curtain | 23.00% | ~106,405 |
 | Top Of The Class | 22.00% | ~101,779 |
 | Goal Machine | 22.00% | ~101,779 |
-| Splashing The Cash | 21.00% | ~97,152 |
-| Clean Bill of Health | 21.00% | ~97,152 |
-| What A Goal! | 21.00% | ~97,152 |
-| Cup Glory! | 21.00% | ~97,152 |
+| Splashing The Cash | 21.00% | ~97,153 |
+| Clean Bill of Health | 21.00% | ~97,153 |
+| What A Goal! | 21.00% | ~97,153 |
+| Cup Glory! | 21.00% | ~97,153 |
 | Irresistible Force | 19.00% | ~87,900 |
 | Excellent Match Cohesion | 19.00% | ~87,900 |
-| Do The Double | 18.00% | ~83,273 |
+| Do The Double | 18.00% | ~83,274 |
 | Top Form | 17.00% | ~78,647 |
 | Cash To Burn | 17.00% | ~78,647 |
-| Beating Expectations | 15.00% | ~69,394 |
-| Overachiever! | 15.00% | ~69,394 |
-| Rushed signing | 15.00% | ~69,394 |
+| Beating Expectations | 15.00% | ~69,395 |
+| Overachiever! | 15.00% | ~69,395 |
+| Rushed signing | 15.00% | ~69,395 |
 | Eyes and Ears | 14.00% | ~64,768 |
 | Window Shopping | 14.00% | ~64,768 |
 | Comeback King! | 13.00% | ~60,142 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~463 |
 | Shoestring Budget | 0.10% | ~463 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,630 (Ranked 32)  
+Progressed: 462,631 (Ranked 32)  
 Completed: 18 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 18 (0.00%) (Ranked 212)
 | 2023-06-04 | 462,381 | 18 |
 | 2023-06-05 | 462,500 | 18 |
 | 2023-06-06 | 462,619 | 18 |
-| 2023-06-07 | 462,630 | 18 |
+| 2023-06-07 | 462,631 | 18 |
 ## Awards
 Max (Relaxing): 6,292  (Ranked 51)  
 Sum: 49,624 (Ranked 24)  

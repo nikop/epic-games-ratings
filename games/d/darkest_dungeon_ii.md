@@ -6,73 +6,73 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~94,384 |
-| Don't Make Me Turn This Coach Around | 69.00% | ~70,027 |
-| Unfulfilled Desires | 68.00% | ~69,012 |
-| A Clear Conscience | 68.00% | ~69,012 |
-| Unleash Hell | 67.00% | ~67,997 |
-| Unshackled | 67.00% | ~67,997 |
-| Funny Guy | 66.00% | ~66,982 |
-| Long Live the King | 66.00% | ~66,982 |
-| Wyrdly Reconstructed | 62.00% | ~62,923 |
-| Resurrection | 61.00% | ~61,908 |
-| Boxcar Kid | 60.00% | ~60,893 |
-| To Grandmother's House | 59.00% | ~59,878 |
-| Rush Hour | 58.00% | ~58,863 |
-| Serenity Now! | 50.00% | ~50,744 |
-| Hope Rekindled | 50.00% | ~50,744 |
-| Ramble On | 46.00% | ~46,684 |
-| Nope | 45.00% | ~45,670 |
-| This Looks Familiar | 37.00% | ~37,551 |
-| Hot Air | 35.00% | ~35,521 |
-| Harvest Festival | 34.00% | ~34,506 |
-| Now Stay Dead | 33.00% | ~33,491 |
-| Merry Time | 33.00% | ~33,491 |
-| Creep and Sleep | 31.00% | ~31,461 |
-| Overdue Notice | 29.00% | ~29,432 |
-| Whale | 29.00% | ~29,432 |
-| Banishment | 27.00% | ~27,402 |
-| FNG | 27.00% | ~27,402 |
-| Autodidact | 22.00% | ~22,327 |
-| Predator | 21.00% | ~21,312 |
-| Meat and Greet | 20.00% | ~20,298 |
-| Reverse Banditry | 20.00% | ~20,298 |
-| Spelunker | 19.00% | ~19,283 |
-| Road Trip | 19.00% | ~19,283 |
-| Eyes Up | 18.00% | ~18,268 |
-| It Rings a Bell | 17.00% | ~17,253 |
-| Escape from the Black Hole | 16.00% | ~16,238 |
-| It Happens | 15.00% | ~15,223 |
-| This Belongs in a Museum | 14.00% | ~14,208 |
-| Dissector | 13.00% | ~13,193 |
-| Handled | 13.00% | ~13,193 |
-| Catch and Decease | 12.00% | ~12,179 |
-| Not Today! | 11.00% | ~11,164 |
-| Shrine of Reflection | 10.00% | ~10,149 |
-| Deprogramming | 9.00% | ~9,134 |
-| When You Want Something Done Right | 9.00% | ~9,134 |
-| Utopia | 7.00% | ~7,104 |
-| Body of Work | 7.00% | ~7,104 |
-| Hat Trick | 6.00% | ~6,089 |
+| A Place to Lay Your Head | 93.00% | ~94,395 |
+| Don't Make Me Turn This Coach Around | 69.00% | ~70,035 |
+| Unfulfilled Desires | 68.00% | ~69,020 |
+| A Clear Conscience | 68.00% | ~69,020 |
+| Unleash Hell | 67.00% | ~68,005 |
+| Unshackled | 67.00% | ~68,005 |
+| Funny Guy | 66.00% | ~66,990 |
+| Long Live the King | 66.00% | ~66,990 |
+| Wyrdly Reconstructed | 62.00% | ~62,930 |
+| Resurrection | 61.00% | ~61,915 |
+| Boxcar Kid | 60.00% | ~60,900 |
+| To Grandmother's House | 59.00% | ~59,885 |
+| Rush Hour | 58.00% | ~58,870 |
+| Serenity Now! | 50.00% | ~50,750 |
+| Hope Rekindled | 50.00% | ~50,750 |
+| Ramble On | 46.00% | ~46,690 |
+| Nope | 45.00% | ~45,675 |
+| This Looks Familiar | 37.00% | ~37,555 |
+| Hot Air | 35.00% | ~35,525 |
+| Harvest Festival | 34.00% | ~34,510 |
+| Now Stay Dead | 33.00% | ~33,495 |
+| Merry Time | 33.00% | ~33,495 |
+| Creep and Sleep | 31.00% | ~31,465 |
+| Overdue Notice | 29.00% | ~29,435 |
+| Whale | 29.00% | ~29,435 |
+| Banishment | 27.00% | ~27,405 |
+| FNG | 27.00% | ~27,405 |
+| Autodidact | 22.00% | ~22,330 |
+| Predator | 21.00% | ~21,315 |
+| Meat and Greet | 20.00% | ~20,300 |
+| Reverse Banditry | 20.00% | ~20,300 |
+| Spelunker | 19.00% | ~19,285 |
+| Road Trip | 19.00% | ~19,285 |
+| Eyes Up | 18.00% | ~18,270 |
+| It Rings a Bell | 17.00% | ~17,255 |
+| Escape from the Black Hole | 16.00% | ~16,240 |
+| It Happens | 15.00% | ~15,225 |
+| This Belongs in a Museum | 14.00% | ~14,210 |
+| Dissector | 13.00% | ~13,195 |
+| Handled | 13.00% | ~13,195 |
+| Catch and Decease | 12.00% | ~12,180 |
+| Not Today! | 11.00% | ~11,165 |
+| Shrine of Reflection | 10.00% | ~10,150 |
+| Deprogramming | 9.00% | ~9,135 |
+| When You Want Something Done Right | 9.00% | ~9,135 |
+| Utopia | 7.00% | ~7,105 |
+| Body of Work | 7.00% | ~7,105 |
+| Hat Trick | 6.00% | ~6,090 |
 | The World As It Was | 3.00% | ~3,045 |
 | Ichthyophobic | 3.00% | ~3,045 |
 | No More Mouths to Feed | 3.00% | ~3,045 |
 | Triage | 2.00% | ~2,030 |
 | A Life Well Lived | 1.00% | ~1,015 |
 | Clearing the Ledger | 1.00% | ~1,015 |
-| Eidetic | 0.90% | ~913 |
+| Eidetic | 0.90% | ~914 |
 | Pub Crawl | 0.70% | ~710 |
 | Grand Slam | 0.60% | ~609 |
-| Circle of Life | 0.50% | ~507 |
+| Circle of Life | 0.50% | ~508 |
 | Bacon Bits | 0.40% | ~406 |
 | Tears in the Rain | 0.30% | ~304 |
-| Loop Year | 0.10% | ~101 |
-| No Gravestone Left Unturned | 0.10% | ~101 |
-| 20,000 Leagues Above the Sea | 0.10% | ~101 |
-| The Clash | 0.10% | ~101 |
-| Hard Mode | 0.10% | ~101 |
+| Loop Year | 0.10% | ~102 |
+| No Gravestone Left Unturned | 0.10% | ~102 |
+| 20,000 Leagues Above the Sea | 0.10% | ~102 |
+| The Clash | 0.10% | ~102 |
+| Hard Mode | 0.10% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101,488 (Ranked 61)  
+Progressed: 101,500 (Ranked 61)  
 Completed: 1 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,22 +110,22 @@ Completed: 1 (0.00%) (Ranked 212)
 | 2023-06-04 | 100,583 | 0 |
 | 2023-06-05 | 101,019 | 0 |
 | 2023-06-06 | 101,424 | 1 |
-| 2023-06-07 | 101,488 | 1 |
+| 2023-06-07 | 101,500 | 1 |
 ## Awards
 Max (Character Customization): 7,094  (Ranked 47)  
-Sum: 18,302 (Ranked 54)  
+Sum: 18,311 (Ranked 54)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,094 |
 | This game has Diverse Characters | 1,424 |
-| This game has Challenging Combat | 1,381 |
+| This game has Challenging Combat | 1,385 |
 | This game is Highly Recommended | 1,341 |
 | This game has Amazing Characters | 1,298 |
 | This game is Extremely Fun | 1,292 |
 | This game has Amazing Storytelling | 1,225 |
 | This game has Quickly Understood Controls | 1,216 |
-| This game has Unique Visuals | 1,168 |
+| This game has Unique Visuals | 1,173 |
 | This game has a Creative Community | 863 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -264,3 +264,4 @@ Diff (max vs sum): -7
 | 2023-06-04 | 4.68 | - | 7,082 | 18,255 |
 | 2023-06-05 | 4.68 | - | 7,094 | 18,281 |
 | 2023-06-06 | 4.68 | - | 7,094 | 18,302 |
+| 2023-06-07 | 4.68 | - | 7,094 | 18,311 |

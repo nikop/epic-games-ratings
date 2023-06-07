@@ -2475,9 +2475,9 @@
       "ID": "4",
       "SetID": "d0g98p",
       "Name": "A Prophecy",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 819
     },
     {
       "ID": "40",
@@ -2620,8 +2620,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-07T04:05:57.2128857+00:00",
+  "LastChanged_Achievements": "2023-06-07T05:06:03.5319868+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-07T03:57:23.8565808+00:00",
-  "LastUpdate_Achievements": "2023-06-07T04:05:57.2129442+00:00"
+  "LastUpdate_Ratings": "2023-06-07T04:57:35.1353269+00:00",
+  "LastUpdate_Achievements": "2023-06-07T05:06:03.5320292+00:00"
 }

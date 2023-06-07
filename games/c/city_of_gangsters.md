@@ -5,15 +5,15 @@ Rating: 4.25 (Ranked 793)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~147,136 |
+| Corner Clout | 46.00% | ~147,137 |
 | Copacetic Coordination | 16.00% | ~51,178 |
 | Fronting the Money | 14.00% | ~44,781 |
 | The Dawn of Automation | 14.00% | ~44,781 |
 | Extraordinary Logistics | 14.00% | ~44,781 |
 | Dirty Money | 13.00% | ~41,582 |
 | Family First | 13.00% | ~41,582 |
-| Cleaning House | 12.00% | ~38,383 |
-| Room in the Back | 12.00% | ~38,383 |
+| Cleaning House | 12.00% | ~38,384 |
+| Room in the Back | 12.00% | ~38,384 |
 | Booze Baron | 11.00% | ~35,185 |
 | Beating the Heat | 10.00% | ~31,986 |
 | Friends on the Force | 10.00% | ~31,986 |
@@ -36,11 +36,11 @@ Rating: 4.25 (Ranked 793)
 | Mission Mastery | 5.00% | ~15,993 |
 | Wise Head | 5.00% | ~15,993 |
 | Killing Them Softly | 5.00% | ~15,993 |
-| Considerable Clams | 4.00% | ~12,794 |
-| Gin Joint | 4.00% | ~12,794 |
-| An Affront to the Enemy | 4.00% | ~12,794 |
-| Friends from Back Home | 4.00% | ~12,794 |
-| Half Century Mark | 4.00% | ~12,794 |
+| Considerable Clams | 4.00% | ~12,795 |
+| Gin Joint | 4.00% | ~12,795 |
+| An Affront to the Enemy | 4.00% | ~12,795 |
+| Friends from Back Home | 4.00% | ~12,795 |
+| Half Century Mark | 4.00% | ~12,795 |
 | Corner Opportunities | 3.00% | ~9,596 |
 | 2122 North Clark Street | 3.00% | ~9,596 |
 | Copious Cabbage | 3.00% | ~9,596 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 793)
 | High Pillow | 0.10% | ~320 |
 | Station Master | 0.10% | ~320 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 319,861 (Ranked 39)  
+Progressed: 319,864 (Ranked 39)  
 Completed: 4 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 4 (0.00%) (Ranked 212)
 | 2023-06-04 | 319,268 | 4 |
 | 2023-06-05 | 319,567 | 4 |
 | 2023-06-06 | 319,822 | 4 |
-| 2023-06-07 | 319,861 | 4 |
+| 2023-06-07 | 319,864 | 4 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 468)  
 Sum: 90 (Ranked 407)  

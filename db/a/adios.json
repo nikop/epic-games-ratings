@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60155,
+  "EOS_Progressed": 60156,
   "EOS_Completed": 510,
-  "EOS_NewPlayers": 1246,
+  "EOS_NewPlayers": 1239,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -4994,6 +4994,11 @@
       "Time": "2023-06-07T04:06:11.97967+00:00",
       "NumProgressed": 60155,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-06-07T05:06:18.3798355+00:00",
+      "NumProgressed": 60156,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 25,
@@ -5045,7 +5050,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10226
+      "UsersEstimate": 10227
     },
     {
       "ID": "Butcher",
@@ -5125,7 +5130,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 11429
+      "UsersEstimate": 11430
     },
     {
       "ID": "Nice Try",
@@ -5204,7 +5209,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 60155,
+      "Progressed": 60156,
       "Completed": 510
     }
   ],
@@ -5212,8 +5217,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-05T21:00:16.4869055+00:00",
-  "LastChanged_Achievements": "2023-06-07T04:06:11.9796689+00:00",
+  "LastChanged_Achievements": "2023-06-07T05:06:18.379835+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:01.1570188+00:00",
-  "LastUpdate_Ratings": "2023-06-07T04:00:42.4236668+00:00",
-  "LastUpdate_Achievements": "2023-06-07T04:06:11.9797233+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:00:59.9573298+00:00",
+  "LastUpdate_Achievements": "2023-06-07T05:06:18.3798773+00:00"
 }
