@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [The Silent City Chapter 1](games/9/910c2c0f214946c893429b050c486468.md) | 2023-06-07 | - |  | - | - |
 | [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-07 | 43 (1,000 XP) | 1 | - | - |
 | [Tracks of Triumph Retro Blast](games/e/e542fbd76b3d42a6bf92fcfd0179d8cf.md) | 2023-06-07 | - |  | - | - |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-06-07 | 7 (1,000 XP) | 5 | - | - |
@@ -22,6 +21,7 @@
 | [Brick Breaker Premium 3](games/1/1421a0ed5cb14f0999cc115d2f0f7377.md) | 2023-06-16 | - |  | - | - |
 | [Retro Racers 2](games/e/e97ae982b9d349ecb979266acb98f26d.md) | 2023-06-16 | - |  | - | - |
 | [Line's Guarder](games/0/0622018a4c334c81b78577a8aff76d52.md) | 2023-06-19 | - |  | - | - |
+| [Awesome Pea 2](games/a/awesome_pea_2.md) | 2023-06-20 | - |  | - | - |
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-20 | - |  | - | - |
 | [Dr. Fetus' Mean Meat Machine](games/d/dr._fetus'_mean_meat_machine.md) | 2023-06-22 | - |  | - | - |
 | [Bob A thousand lives - Enhanced Edition](games/b/bob_a_thousand_lives.md) | 2023-06-24 | - |  | - | - |
@@ -31,7 +31,6 @@
 | [Journey to the West](games/j/journey_to_the_west.md) | 2023-06-29 | - |  | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-06-30 | - |  | - | - |
 | [Avian Knights](games/a/avian_knights.md) | 2023-06-30 | - |  | - | - |
-| [Awesome Pea 2](games/a/awesome_pea_2.md) | 2023-06-30 | - |  | - | - |
 | [Brie Parmesan Mysteries](games/b/brie_parmesan_mysteries.md) | 2023-06-30 | - |  | - | - |
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-06-30 | - |  | - | - |
 | [Cook Serve Forever](games/c/cook_serve_forever.md) | 2023-06-30 | - |  | - | - |
@@ -381,7 +380,7 @@
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2099-02-01 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,717 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,719 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [F1 Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
