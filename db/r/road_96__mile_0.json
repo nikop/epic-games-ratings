@@ -717,9 +717,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "scoreminrankrv2",
@@ -742,8 +742,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-06T23:03:43.7013691+00:00",
+  "LastChanged_Achievements": "2023-06-07T00:03:33.0709817+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:58:39.7417794+00:00",
-  "LastUpdate_Achievements": "2023-06-06T23:03:43.7013847+00:00"
+  "LastUpdate_Ratings": "2023-06-06T23:58:37.2582686+00:00",
+  "LastUpdate_Achievements": "2023-06-07T00:03:33.0709974+00:00"
 }

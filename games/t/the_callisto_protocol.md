@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 12.00% | ~1,756 |
+| Flesh Wound | 12.00% | ~1,757 |
 | The Outer Way | 11.00% | ~1,610 |
 | Desperate Times | 10.00% | ~1,464 |
 | Paper Jams | 9.00% | ~1,317 |
@@ -16,12 +16,12 @@ Rating: 4.18 (Ranked 840)
 | Giving Back | 6.00% | ~878 |
 | Get a Grip | 6.00% | ~878 |
 | Without A Paddle | 6.00% | ~878 |
-| Two Heads Are Better Than One | 4.00% | ~585 |
-| Terminated | 4.00% | ~585 |
-| Float Like A Butterfly | 4.00% | ~585 |
-| In the Pipe, Five by Five | 4.00% | ~585 |
-| Crash Site | 4.00% | ~585 |
-| Power Up | 4.00% | ~585 |
+| Two Heads Are Better Than One | 4.00% | ~586 |
+| Terminated | 4.00% | ~586 |
+| Float Like A Butterfly | 4.00% | ~586 |
+| In the Pipe, Five by Five | 4.00% | ~586 |
+| Crash Site | 4.00% | ~586 |
+| Power Up | 4.00% | ~586 |
 | Instigator | 4.00% | ~103 |
 | Big Game Hunter | 4.00% | ~103 |
 | You Need a Gun | 3.00% | ~439 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,637 (Ranked 103)  
+Progressed: 14,638 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,9 +93,10 @@ Completed: 54 (0.37%) (Ranked 118)
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
 | 2023-06-06 | 14,637 | 54 |
+| 2023-06-07 | 14,638 | 54 |
 ## Awards
 Max (Amazing Storytelling): 51  (Ranked 387)  
-Sum: 293 (Ranked 328)  
+Sum: 294 (Ranked 328)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -104,7 +105,7 @@ Diff (max vs sum): 59
 | This game has Quickly Understood Controls | 46 |
 | This game has Amazing Characters | 46 |
 | This game is Extremely Fun | 44 |
-| This game has Challenging Combat | 35 |
+| This game has Challenging Combat | 36 |
 | This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -166,4 +167,4 @@ Diff (max vs sum): 59
 | 2023-06-01 | 4.18 | 50 | 282 |
 | 2023-06-02 | 4.18 | 50 | 284 |
 | 2023-06-03 | 4.18 | 50 | 287 |
-| 2023-06-06 | 4.18 | 51 | 293 |
+| 2023-06-06 | 4.18 | 51 | 294 |

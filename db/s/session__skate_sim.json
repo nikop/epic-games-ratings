@@ -676,9 +676,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2287,
+  "EOS_Progressed": 2288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2106,6 +2106,11 @@
       "Time": "2023-06-06T23:05:39.0237025+00:00",
       "NumProgressed": 2287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T00:05:23.2060421+00:00",
+      "NumProgressed": 2288,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2117,7 +2122,7 @@
       "Name": "Backpacker",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_BING-BONG",
@@ -2141,7 +2146,7 @@
       "Name": "Commence the Hijinx!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -2149,7 +2154,7 @@
       "Name": "Cops called!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -2173,7 +2178,7 @@
       "Name": "DIY Boss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -2213,7 +2218,7 @@
       "Name": "Globetrotter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -2277,7 +2282,7 @@
       "Name": "Laid back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -2285,7 +2290,7 @@
       "Name": "Lines for days",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -2301,7 +2306,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -2317,7 +2322,7 @@
       "Name": "NAHELL!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -2341,7 +2346,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -2349,7 +2354,7 @@
       "Name": "Purple passion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -2357,7 +2362,7 @@
       "Name": "Renaissance man",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -2389,7 +2394,7 @@
       "Name": "Tank commander",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -2493,22 +2498,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2287,
+      "Progressed": 2288,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-04T23:59:06.4190942+00:00",
-  "LastChanged_Achievements": "2023-06-06T23:05:39.0237017+00:00",
+  "LastChanged_Achievements": "2023-06-07T00:05:23.2060417+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:58:52.4723184+00:00",
-  "LastUpdate_Achievements": "2023-06-06T23:05:39.0237491+00:00"
+  "LastUpdate_Ratings": "2023-06-06T23:58:49.2550037+00:00",
+  "LastUpdate_Achievements": "2023-06-07T00:05:23.2060873+00:00"
 }

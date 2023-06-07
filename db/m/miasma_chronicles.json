@@ -66,7 +66,7 @@
   "Tags": [],
   "EOS_Progressed": 1041,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1423,9 +1423,9 @@
       "ID": "BOT_WHISPERER",
       "SetID": "9a4jnji",
       "Name": "Bot Whisperer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 52
     },
     {
       "ID": "CHAIN_KILLER",
@@ -1800,8 +1800,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-06T23:03:15.1852882+00:00",
+  "LastChanged_Achievements": "2023-06-07T00:02:35.3557171+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:58:15.4927107+00:00",
-  "LastUpdate_Achievements": "2023-06-06T23:03:15.1853398+00:00"
+  "LastUpdate_Ratings": "2023-06-06T23:58:13.5050293+00:00",
+  "LastUpdate_Achievements": "2023-06-07T00:02:35.3557663+00:00"
 }

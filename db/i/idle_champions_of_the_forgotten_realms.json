@@ -4138,10 +4138,10 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 89983,
-  "EOS_Completed": 1920,
-  "EOS_NewPlayers": 724,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 89984,
+  "EOS_Completed": 1921,
+  "EOS_NewPlayers": 722,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8938,6 +8938,11 @@
       "Time": "2023-06-06T23:06:02.2160769+00:00",
       "NumProgressed": 89983,
       "NumCompleted": 1920
+    },
+    {
+      "Time": "2023-06-07T00:05:46.7121717+00:00",
+      "NumProgressed": 89984,
+      "NumCompleted": 1921
     }
   ],
   "TotalAchievements": 493,
@@ -9571,9 +9576,9 @@
       "ID": "objective_completed_1152",
       "SetID": "415jc5c",
       "Name": "Seeds of Destruction",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_1153",
@@ -12892,21 +12897,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56257,
+      "Progressed": 56258,
       "Completed": 2775
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89983,
-      "Completed": 1920
+      "Progressed": 89984,
+      "Completed": 1921
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T13:58:26.881905+00:00",
-  "LastChanged_Achievements": "2023-06-06T23:06:02.2160759+00:00",
+  "LastChanged_Achievements": "2023-06-07T00:05:46.7121713+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:58:03.1475672+00:00",
-  "LastUpdate_Achievements": "2023-06-06T23:06:02.2184598+00:00"
+  "LastUpdate_Ratings": "2023-06-06T23:58:01.9454031+00:00",
+  "LastUpdate_Achievements": "2023-06-07T00:05:46.7145443+00:00"
 }

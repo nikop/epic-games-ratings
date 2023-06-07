@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6622,
+  "EOS_Progressed": 6623,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3788,6 +3788,11 @@
       "Time": "2023-06-06T23:05:48.979217+00:00",
       "NumProgressed": 6622,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T00:05:32.8853476+00:00",
+      "NumProgressed": 6623,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3799,7 +3804,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4238
+      "UsersEstimate": 4239
     },
     {
       "ID": "0002",
@@ -3813,9 +3818,9 @@
       "ID": "0003",
       "SetID": "2n2feee",
       "Name": "Assistant Accountant",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1656
     },
     {
       "ID": "0004",
@@ -3855,7 +3860,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2450
+      "UsersEstimate": 2451
     },
     {
       "ID": "0009",
@@ -3863,7 +3868,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3112
+      "UsersEstimate": 3113
     },
     {
       "ID": "0010",
@@ -3983,7 +3988,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3112
+      "UsersEstimate": 3113
     },
     {
       "ID": "0025",
@@ -3991,7 +3996,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2450
+      "UsersEstimate": 2451
     },
     {
       "ID": "0026",
@@ -3999,7 +4004,7 @@
       "Name": "The Living Portrait",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "0027",
@@ -4007,7 +4012,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "0028",
@@ -4015,7 +4020,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3112
+      "UsersEstimate": 3113
     },
     {
       "ID": "0029",
@@ -4086,7 +4091,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6622,
+      "Progressed": 6623,
       "Completed": 0
     }
   ],
@@ -4094,8 +4099,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-06-06T23:05:48.9792163+00:00",
+  "LastChanged_Achievements": "2023-06-07T00:05:32.8853472+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:04.3175816+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:59:26.1126425+00:00",
-  "LastUpdate_Achievements": "2023-06-06T23:05:48.9792645+00:00"
+  "LastUpdate_Ratings": "2023-06-06T23:59:18.3448383+00:00",
+  "LastUpdate_Achievements": "2023-06-07T00:05:32.8853934+00:00"
 }

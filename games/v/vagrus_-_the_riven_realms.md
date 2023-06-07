@@ -22,6 +22,7 @@
 | Tail-wind | 1.00% | ~1 |
 | Taskmaster | 1.00% | ~1 |
 | Pilgrimage's End | 1.00% | ~1 |
+| Trouble at Fort Larius | 1.00% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
@@ -97,14 +98,13 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Merchant | 0.00% | ~0 |
 | Merchant Lord | 0.00% | ~0 |
-| Trouble at Fort Larius | 0.00% | ~0 |
 | Unseen Patterns | 0.00% | ~0 |
 | Glorious leader | 0.00% | ~0 |
 | Voracity Confronted | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 276)  
+Progressed: 92 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

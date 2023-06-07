@@ -87,6 +87,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.20% | ~113 |
 | The Invisible Wizards of Thay | 0.20% | ~113 |
 | Heavy Burden | 0.20% | ~180 |
+| Seeds of Destruction | 0.20% | ~113 |
 | Vecna Lives! | 0.20% | ~113 |
 | Overwhelmed with Knowledge | 0.20% | ~113 |
 | A Demi-god's Defender | 0.20% | ~113 |
@@ -258,7 +259,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pincushion Party | 0.10% | ~56 |
 | G. O. A. T. | 0.10% | ~56 |
 | Strength of Character | 0.10% | ~56 |
-| Seeds of Destruction | 0.10% | ~56 |
 | Speeds of Destruction | 0.10% | ~56 |
 | The Evacuation of Waterdeep | 0.10% | ~56 |
 | Flapjacks and Waffles | 0.10% | ~56 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,983 (Ranked 62)  
-Completed: 1,920 (2.13%) (Ranked 65)  
+Progressed: 89,984 (Ranked 62)  
+Completed: 1,921 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -548,6 +548,7 @@ Completed: 1,920 (2.13%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
+| 2023-06-07 | 89,984 | 1,921 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

@@ -15,7 +15,7 @@ Rating: 3.85 (Ranked 919)
 | Miner | 24.00% | ~274 |
 | Houston we have a problem | 21.00% | ~240 |
 | Occupy Mars! | 20.00% | ~228 |
-| Detective | 17.00% | ~194 |
+| Detective | 18.00% | ~206 |
 | The Collector | 13.00% | ~148 |
 | Get your hands dirty | 9.00% | ~103 |
 | All Wheel Trouble | 6.00% | ~69 |

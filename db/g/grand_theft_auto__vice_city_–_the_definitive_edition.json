@@ -400,9 +400,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 7854,
+  "EOS_Progressed": 7857,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3750,6 +3750,11 @@
       "Time": "2023-06-06T23:02:16.5714819+00:00",
       "NumProgressed": 7854,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-07T00:00:28.3938424+00:00",
+      "NumProgressed": 7857,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 34,
@@ -3841,7 +3846,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ACH12",
@@ -3865,7 +3870,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ACH15",
@@ -3921,7 +3926,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3379
     },
     {
       "ID": "ACH22",
@@ -3937,7 +3942,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "ACH24",
@@ -4032,7 +4037,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7854,
+      "Progressed": 7857,
       "Completed": 26
     }
   ],
@@ -4040,8 +4045,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-06T15:58:06.1078536+00:00",
-  "LastChanged_Achievements": "2023-06-06T23:02:16.5714812+00:00",
+  "LastChanged_Achievements": "2023-06-07T00:00:28.3938418+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.8139479+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:58:14.0151369+00:00",
-  "LastUpdate_Achievements": "2023-06-06T23:02:16.5715255+00:00"
+  "LastUpdate_Ratings": "2023-06-06T23:58:12.1552846+00:00",
+  "LastUpdate_Achievements": "2023-06-07T00:00:28.393886+00:00"
 }

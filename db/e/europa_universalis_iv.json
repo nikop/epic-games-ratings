@@ -5578,10 +5578,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 44208,
       "NumberOfAwardsMax": 5351
+    },
+    {
+      "Time": "2023-06-06T23:57:24.7871239+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 44211,
+      "NumberOfAwardsMax": 5351
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44208,
+  "NumberOfAwards": 44211,
   "NumberOfAwardsMax": 5351,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -5595,7 +5601,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 5098
+      "Count": 5101
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5652,9 +5658,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 51193,
+  "EOS_Progressed": 51206,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4042,
+  "EOS_NewPlayers": 4032,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10582,6 +10588,11 @@
       "Time": "2023-06-06T23:06:02.0216943+00:00",
       "NumProgressed": 51193,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T00:05:45.9898813+00:00",
+      "NumProgressed": 51206,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -11593,7 +11604,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "achievement_grand_coalition",
@@ -12873,7 +12884,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -13257,7 +13268,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4607
+      "UsersEstimate": 4609
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -13289,7 +13300,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -13424,21 +13435,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 51193,
+      "Progressed": 51206,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 51193,
+      "Progressed": 51206,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-06-06T19:57:43.1028367+00:00",
-  "LastChanged_Achievements": "2023-06-06T23:06:02.0216936+00:00",
+  "LastChanged": "2023-06-06T23:57:24.7871237+00:00",
+  "LastChanged_Achievements": "2023-06-07T00:05:45.9898809+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:21.9407188+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:57:22.9160472+00:00",
-  "LastUpdate_Achievements": "2023-06-06T23:06:02.0229497+00:00"
+  "LastUpdate_Ratings": "2023-06-06T23:57:24.7871243+00:00",
+  "LastUpdate_Achievements": "2023-06-07T00:05:45.991131+00:00"
 }

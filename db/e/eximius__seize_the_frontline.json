@@ -252,9 +252,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 188100,
+  "EOS_Progressed": 188104,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 988,
+  "EOS_NewPlayers": 989,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5112,6 +5112,11 @@
       "Time": "2023-06-06T23:05:36.6064908+00:00",
       "NumProgressed": 188100,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-07T00:05:20.8617067+00:00",
+      "NumProgressed": 188104,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -5131,7 +5136,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 133551
+      "UsersEstimate": 133554
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -5155,7 +5160,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33858
+      "UsersEstimate": 33859
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -5219,7 +5224,7 @@
       "Name": "Mastermind",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
@@ -5250,7 +5255,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 188100,
+      "Progressed": 188104,
       "Completed": 4
     }
   ],
@@ -5258,8 +5263,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-06-05T05:00:10.9262642+00:00",
-  "LastChanged_Achievements": "2023-06-06T23:05:36.6064901+00:00",
+  "LastChanged_Achievements": "2023-06-07T00:05:20.8617062+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:07.1582654+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:59:27.9283561+00:00",
-  "LastUpdate_Achievements": "2023-06-06T23:05:36.6065312+00:00"
+  "LastUpdate_Ratings": "2023-06-06T23:59:19.9337232+00:00",
+  "LastUpdate_Achievements": "2023-06-07T00:05:20.861745+00:00"
 }

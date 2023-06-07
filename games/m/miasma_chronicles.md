@@ -43,7 +43,7 @@ Rating: 4.35 (Ranked 726)
 | Curveball | 6.00% | ~62 |
 | Side Order | 6.00% | ~62 |
 | Wipe Out | 6.00% | ~62 |
-| Bot Whisperer | 4.00% | ~42 |
+| Bot Whisperer | 5.00% | ~52 |
 | Dressed To Kill | 4.00% | ~42 |
 | Cruelty | 2.00% | ~21 |
 | Five Finger Deathcount | 0.90% | ~9 |

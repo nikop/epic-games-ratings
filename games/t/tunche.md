@@ -1,7 +1,7 @@
 # Tunche
 [Store](https://store.epicgames.com/en-US/p/tunche)  
 [View Rawdata](../../db/t/tunche.json)  
-Rating: 4.43 (Ranked 648)  
+Rating: 4.42 (Ranked 656)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -35,3 +35,4 @@ Rating: 4.43 (Ranked 648)
 | 2023-05-21 | 4.43 | 0 | 0 |
 | 2023-05-30 | 4.44 | 0 | 0 |
 | 2023-06-01 | 4.43 | 0 | 0 |
+| 2023-06-06 | 4.42 | 0 | 0 |

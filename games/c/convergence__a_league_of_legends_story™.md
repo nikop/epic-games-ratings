@@ -8,6 +8,7 @@
 | Treasure Trove | 2.00% | ~12 |
 | Like Clockwork | 2.00% | ~12 |
 | The Betrayer | 2.00% | ~12 |
+| The Man Who Shattered Time | 2.00% | ~12 |
 | The Loose Cannon | 2.00% | ~12 |
 | Make Up For Lost Time | 2.00% | ~12 |
 | Cartographer | 2.00% | ~12 |
@@ -24,7 +25,6 @@
 | Street Style | 1.00% | ~6 |
 | Family Memories | 1.00% | ~6 |
 | The Mysterious Stranger | 1.00% | ~6 |
-| The Man Who Shattered Time | 1.00% | ~6 |
 | Whiz Kid | 1.00% | ~6 |
 | Rail Rat | 1.00% | ~6 |
 | Time Flies | 1.00% | ~6 |
@@ -33,12 +33,12 @@
 | Time Heals All Wounds | 1.00% | ~6 |
 | Immaculate Aim | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
+| Good Neighbor | 1.00% | ~6 |
 | The Brass Boss | 1.00% | ~6 |
 | The Family Fortune | 1.00% | ~6 |
 | Factorywood Explorer | 0.80% | ~5 |
 | Honest Mistake | 0.80% | ~5 |
 | Theater Explorer | 0.80% | ~5 |
-| Good Neighbor | 0.80% | ~5 |
 | Sartorialist | 0.70% | ~4 |
 | Cultivair Explorer | 0.70% | ~4 |
 | Golem Hunter | 0.70% | ~4 |

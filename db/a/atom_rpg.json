@@ -352,9 +352,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 913,
+  "EOS_Progressed": 914,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1137,6 +1137,11 @@
       "Time": "2023-06-06T12:06:43.5879436+00:00",
       "NumProgressed": 913,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T00:05:34.8151928+00:00",
+      "NumProgressed": 914,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1204,7 +1209,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "EXPERT_1",
@@ -1220,7 +1225,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "GHOSTBUSTER",
@@ -1244,7 +1249,7 @@
       "Name": "Head Burst",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "INDY_1",
@@ -1300,7 +1305,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -1435,15 +1440,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 913,
+      "Progressed": 914,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-03T14:00:49.4692031+00:00",
-  "LastChanged_Achievements": "2023-06-06T23:05:50.9236087+00:00",
+  "LastChanged_Achievements": "2023-06-07T00:05:34.8151924+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.2333517+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:59:50.2927287+00:00",
-  "LastUpdate_Achievements": "2023-06-06T23:05:50.9236386+00:00"
+  "LastUpdate_Ratings": "2023-06-06T23:59:41.015847+00:00",
+  "LastUpdate_Achievements": "2023-06-07T00:05:34.8152231+00:00"
 }

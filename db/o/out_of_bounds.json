@@ -2,7 +2,7 @@
   "ID": "9d471a5b5e574d0abc9358c92e836d5d",
   "Name": "Out of Bounds",
   "ProductSlug": "out-of-bounds-ade206",
-  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 15,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 94,
@@ -335,8 +335,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:55.9543084+00:00",
-  "LastChanged_Achievements": "2023-06-06T23:05:55.7486572+00:00",
+  "LastChanged_Achievements": "2023-06-07T00:05:39.9352684+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:37.7994352+00:00",
-  "LastUpdate_Ratings": "2023-06-06T22:59:50.7228808+00:00",
-  "LastUpdate_Achievements": "2023-06-06T23:05:55.7486984+00:00"
+  "LastUpdate_Ratings": "2023-06-06T23:59:41.50464+00:00",
+  "LastUpdate_Achievements": "2023-06-07T00:05:39.9352918+00:00"
 }

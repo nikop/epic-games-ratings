@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 34.00% | ~109 |
+| Brace for impact! | 34.00% | ~110 |
 | Baby's First Car | 32.00% | ~103 |
 | Amateur Mechanic | 32.00% | ~103 |
 | Pushover | 32.00% | ~103 |
@@ -17,21 +17,21 @@
 | The Collector | 26.00% | ~84 |
 | The Wild West | 26.00% | ~84 |
 | Bag of Tricks | 26.00% | ~84 |
-| To and Fro | 25.00% | ~80 |
-| Take that Frosty! | 25.00% | ~80 |
-| I see the light! | 25.00% | ~80 |
-| In the Bag! | 25.00% | ~80 |
-| You're it | 25.00% | ~80 |
-| First Come, First Serve | 24.00% | ~77 |
-| Disoriented | 24.00% | ~77 |
-| Goodbye cruel world | 24.00% | ~77 |
-| Beach Party! | 24.00% | ~77 |
+| To and Fro | 25.00% | ~81 |
+| I see the light! | 25.00% | ~81 |
+| In the Bag! | 25.00% | ~81 |
+| You're it | 25.00% | ~81 |
+| First Come, First Serve | 24.00% | ~78 |
+| Disoriented | 24.00% | ~78 |
+| Take that Frosty! | 24.00% | ~78 |
+| Goodbye cruel world | 24.00% | ~78 |
+| Beach Party! | 24.00% | ~78 |
 | Car-Tapult | 23.00% | ~74 |
 | Anger Issues | 23.00% | ~74 |
 | Your Highness | 23.00% | ~74 |
 | Event Amateur | 22.00% | ~71 |
-| Drift King! | 20.00% | ~64 |
-| Feeling Dizzy? | 20.00% | ~64 |
+| Drift King! | 20.00% | ~65 |
+| Feeling Dizzy? | 20.00% | ~65 |
 | Feeling Hot Hot Hot! | 19.00% | ~61 |
 | Ferry Good! | 19.00% | ~61 |
 | Assert Dominance | 19.00% | ~61 |
@@ -43,7 +43,7 @@
 | Earth Defense Force | 13.00% | ~42 |
 | Rocketman | 13.00% | ~42 |
 | High Roller | 12.00% | ~39 |
-| Event Pro | 11.00% | ~35 |
+| Event Pro | 11.00% | ~36 |
 | Space Crash | 8.00% | ~26 |
 | To war! | 8.00% | ~26 |
 | Hoarder | 7.00% | ~23 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 322 (Ranked 221)  
+Progressed: 323 (Ranked 221)  
 Completed: 2 (0.62%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 2 (0.62%) (Ranked 109)
 | 2023-06-03 | 319 | 2 |
 | 2023-06-05 | 321 | 2 |
 | 2023-06-06 | 322 | 2 |
+| 2023-06-07 | 323 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

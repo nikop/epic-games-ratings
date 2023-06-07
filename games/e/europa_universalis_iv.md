@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,607 |
-| That's a Grand Army | 8.00% | ~4,095 |
-| That is mine! | 8.00% | ~4,095 |
-| Victorious! | 8.00% | ~4,095 |
+| Until death do us apart | 9.00% | ~4,609 |
+| That's a Grand Army | 8.00% | ~4,096 |
+| That is mine! | 8.00% | ~4,096 |
+| Victorious! | 8.00% | ~4,096 |
 | Brothers in Arms | 6.00% | ~3,072 |
 | That's a Grand Navy | 6.00% | ~3,072 |
 | Seriously?! | 6.00% | ~3,072 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,193 (Ranked 78)  
+Progressed: 51,206 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,15 +409,16 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 50,194 | 0 |
 | 2023-06-05 | 50,691 | 0 |
 | 2023-06-06 | 51,193 | 0 |
+| 2023-06-07 | 51,206 | 0 |
 ## Awards
 Max (Educational): 5,351  (Ranked 61)  
-Sum: 44,208 (Ranked 27)  
+Sum: 44,211 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,351 |
 | This game is Highly Recommended | 5,120 |
-| This game has Challenging Combat | 5,098 |
+| This game has Challenging Combat | 5,101 |
 | This game is Extremely Fun | 5,071 |
 | This game has Diverse Characters | 5,036 |
 | This game is Relaxing | 4,961 |
@@ -568,4 +569,4 @@ Diff (max vs sum): 34
 | 2023-06-03 | 4.68 | - | 5,338 | 44,083 |
 | 2023-06-04 | 4.68 | - | 5,342 | 44,146 |
 | 2023-06-05 | 4.68 | - | 5,347 | 44,169 |
-| 2023-06-06 | 4.68 | - | 5,351 | 44,208 |
+| 2023-06-06 | 4.68 | - | 5,351 | 44,211 |

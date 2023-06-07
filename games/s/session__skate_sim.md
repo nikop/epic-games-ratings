@@ -6,11 +6,11 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 54.00% | ~1,235 |
+| You're free now! | 54.00% | ~1,236 |
 | Keeping it classy | 25.00% | ~572 |
 | Welcome to the family | 18.00% | ~412 |
 | The finer things in life | 16.00% | ~366 |
-| Backpacker | 12.00% | ~274 |
+| Backpacker | 12.00% | ~275 |
 | Go with the Flow | 11.00% | ~252 |
 | Plastic Surgeon | 9.00% | ~206 |
 | Keep the dream alive | 8.00% | ~183 |
@@ -27,18 +27,18 @@ Number of Ratings: 111  (23.09.2022)
 | G'Day Mate! | 5.00% | ~114 |
 | Squad goals | 5.00% | ~114 |
 | Sup widdit big dog! | 5.00% | ~114 |
-| Commence the Hijinx! | 4.00% | ~91 |
-| Cops called! | 4.00% | ~91 |
-| DIY Boss | 4.00% | ~91 |
-| Globetrotter | 4.00% | ~91 |
-| Laid back | 4.00% | ~91 |
-| Lines for days | 4.00% | ~91 |
-| Manny Destroys All | 4.00% | ~91 |
-| NAHELL! | 4.00% | ~91 |
-| Prince of Philly | 4.00% | ~91 |
-| Purple passion | 4.00% | ~91 |
-| Renaissance man | 4.00% | ~91 |
-| Tank commander | 4.00% | ~91 |
+| Commence the Hijinx! | 4.00% | ~92 |
+| Cops called! | 4.00% | ~92 |
+| DIY Boss | 4.00% | ~92 |
+| Globetrotter | 4.00% | ~92 |
+| Laid back | 4.00% | ~92 |
+| Lines for days | 4.00% | ~92 |
+| Manny Destroys All | 4.00% | ~92 |
+| NAHELL! | 4.00% | ~92 |
+| Prince of Philly | 4.00% | ~92 |
+| Purple passion | 4.00% | ~92 |
+| Renaissance man | 4.00% | ~92 |
+| Tank commander | 4.00% | ~92 |
 | G.O.A.T. status | 3.00% | ~69 |
 | Hoarder | 3.00% | ~69 |
 | Trick shot marksman | 3.00% | ~69 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,287 (Ranked 148)  
+Progressed: 2,288 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 2,248 | 0 |
 | 2023-06-05 | 2,265 | 0 |
 | 2023-06-06 | 2,287 | 0 |
+| 2023-06-07 | 2,288 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 397)  
 Sum: 420 (Ranked 301)  
