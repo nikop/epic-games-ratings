@@ -459,6 +459,7 @@
 | [GeoJelly](../games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 7 | 1,000 |
 | [Remains](../games/r/remains.md) | 7 | 1,000 |
 | [The House of Da Vinci](../games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 6 | 1,000 |
+| [Cyber Drift](../games/c/cyber_drift.md) | 5 | 1,000 |
 | [Jill of the Jungle: The Complete Trilogy](../games/j/jill_of_the_jungle__the_complete_trilogy.md) | 5 | 1,000 |
 | [Mason: Building Bricks](../games/m/mason__building_bricks.md) | 5 | 1,000 |
 | [Tabletop Playground](../games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 5 | 1,000 |

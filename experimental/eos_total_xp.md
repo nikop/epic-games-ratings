@@ -115,6 +115,7 @@
 | [Curse of the Deadwood](../games/c/curse_of_the_deadwood.md) | 70 | 1,000 |
 | [Cursed Castilla (Maldita Castilla EX)](../games/c/cursed_castilla_(maldita_castilla_ex).md) | 16 | 1,000 |
 | [Cursed Treasure 2 Ultimate Edition](../games/c/cursed_treasure_2_ultimate_edition.md) | 53 | 1,000 |
+| [Cyber Drift](../games/c/cyber_drift.md) | 5 | 1,000 |
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 44 | 1,000 |
 | [Cymatically Muffed](../games/c/cymatically_muffed.md) | 16 | 1,000 |
 | [Danger Scavenger](../games/d/danger_scavenger.md) | 41 | 1,000 |
