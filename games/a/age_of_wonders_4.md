@@ -6,23 +6,23 @@ Rating: 4.55 (Ranked 475)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 79.00% | ~3,467 |
-| Realm Estate | 75.00% | ~3,291 |
-| Secret Technique | 75.00% | ~3,291 |
-| Walls Cannot Stop Us | 73.00% | ~3,203 |
+| Realm Estate | 75.00% | ~3,292 |
+| Secret Technique | 75.00% | ~3,292 |
+| Walls Cannot Stop Us | 73.00% | ~3,204 |
 | From Friends to Family | 69.00% | ~3,028 |
-| Magical Synergy | 65.00% | ~2,852 |
+| Magical Synergy | 65.00% | ~2,853 |
 | Bone Peddler | 61.00% | ~2,677 |
-| Stronger Together | 55.00% | ~2,413 |
+| Stronger Together | 55.00% | ~2,414 |
 | Full Ascension | 54.00% | ~2,370 |
-| There Can Only Be One! | 47.00% | ~2,062 |
-| Seat of Power | 47.00% | ~2,062 |
+| There Can Only Be One! | 47.00% | ~2,063 |
+| Seat of Power | 47.00% | ~2,063 |
 | Intimidation Tactics | 44.00% | ~1,931 |
 | My Final Form | 43.00% | ~1,887 |
 | Valley of Wonders | 42.00% | ~1,843 |
 | In a Liege of Your Own | 37.00% | ~1,624 |
-| Return of the Wizard King | 31.00% | ~1,360 |
-| Digging for Treasure | 30.00% | ~1,316 |
-| Against the Odds | 30.00% | ~1,316 |
+| Return of the Wizard King | 31.00% | ~1,361 |
+| Digging for Treasure | 30.00% | ~1,317 |
+| Against the Odds | 30.00% | ~1,317 |
 | Enchanted Archipelago | 28.00% | ~1,229 |
 | Impenetrable Fortress | 26.00% | ~1,141 |
 | The Magic That Empowers Me! | 20.00% | ~878 |
@@ -45,12 +45,12 @@ Rating: 4.55 (Ranked 475)
 | Snap Out of It! | 3.00% | ~132 |
 | I Want to Break Free | 2.00% | ~88 |
 | Manufactured War | 1.00% | ~44 |
-| I'll Fight You All | 0.90% | ~39 |
+| I'll Fight You All | 0.90% | ~40 |
 | The Grey Wizard | 0.40% | ~18 |
 | Master of Evilness | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,388 (Ranked 128)  
+Progressed: 4,389 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 4,325 | 0 |
 | 2023-06-05 | 4,354 | 0 |
 | 2023-06-06 | 4,386 | 0 |
-| 2023-06-07 | 4,388 | 0 |
+| 2023-06-07 | 4,389 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

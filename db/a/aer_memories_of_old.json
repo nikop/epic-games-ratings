@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11636,
+  "EOS_Progressed": 11637,
   "EOS_Completed": 251,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.16,
   "EosHistory": [
@@ -5104,6 +5104,11 @@
       "Time": "2023-06-07T02:27:37.1808438+00:00",
       "NumProgressed": 11636,
       "NumCompleted": 251
+    },
+    {
+      "Time": "2023-06-07T03:20:28.933234+00:00",
+      "NumProgressed": 11637,
+      "NumCompleted": 251
     }
   ],
   "TotalAchievements": 20,
@@ -5115,7 +5120,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -5131,7 +5136,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -5179,7 +5184,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "FOUND_ERIN",
@@ -5235,7 +5240,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 8843
+      "UsersEstimate": 8844
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -5274,15 +5279,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 11636,
+      "Progressed": 11637,
       "Completed": 251
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-07T02:27:37.1808434+00:00",
+  "LastChanged_Achievements": "2023-06-07T03:20:28.9332332+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:35.8564123+00:00",
-  "LastUpdate_Ratings": "2023-06-07T02:21:56.2867585+00:00",
-  "LastUpdate_Achievements": "2023-06-07T02:27:37.1808779+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:14:36.4856093+00:00",
+  "LastUpdate_Achievements": "2023-06-07T03:20:28.9332785+00:00"
 }

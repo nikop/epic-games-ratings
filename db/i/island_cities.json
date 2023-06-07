@@ -1301,17 +1301,17 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 156
+      "UsersEstimate": 159
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "LEVEL_006",
@@ -1365,9 +1365,9 @@
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 65
     },
     {
       "ID": "LEVEL_013",
@@ -1462,8 +1462,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-07T02:27:22.3168908+00:00",
+  "LastChanged_Achievements": "2023-06-07T03:20:11.4487302+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-07T02:20:02.4545457+00:00",
-  "LastUpdate_Achievements": "2023-06-07T02:27:22.3169134+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:12:21.2230902+00:00",
+  "LastUpdate_Achievements": "2023-06-07T03:20:11.4487529+00:00"
 }

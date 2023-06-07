@@ -2,10 +2,10 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29,
+  "EOS_Progressed": 30,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -111,6 +111,11 @@
       "Time": "2023-06-07T02:24:31.2498035+00:00",
       "NumProgressed": 29,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T03:17:07.9729168+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -120,7 +125,7 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -136,7 +141,7 @@
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -224,7 +229,7 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -248,7 +253,7 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -280,7 +285,7 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 62,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -296,7 +301,7 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -352,7 +357,7 @@
       "ID": "Epic_NinjaSword_1",
       "SetID": "ba1m2fc",
       "Name": "Knife Out",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -384,7 +389,7 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 55,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -408,7 +413,7 @@
       "ID": "Epic_RustySickle_1",
       "SetID": "ba1m2fc",
       "Name": "Life Harvest",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -424,7 +429,7 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -472,7 +477,7 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -488,7 +493,7 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -505,14 +510,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 29,
+      "Progressed": 30,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-07T02:24:31.2498028+00:00",
+  "LastChanged_Achievements": "2023-06-07T03:17:07.9729161+00:00",
   "LastUpdate_AppInfo": "2023-06-01T03:24:11.2191819+00:00",
-  "LastUpdate_Ratings": "2023-06-07T02:19:07.8063503+00:00",
-  "LastUpdate_Achievements": "2023-06-07T02:24:31.2498439+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:11:11.3326346+00:00",
+  "LastUpdate_Achievements": "2023-06-07T03:17:07.972963+00:00"
 }

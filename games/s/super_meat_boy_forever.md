@@ -1,7 +1,7 @@
 # Super Meat Boy Forever
 [Store](https://store.epicgames.com/en-US/p/super-meat-boy-forever)  
 [View Rawdata](../../db/s/super_meat_boy_forever.json)  
-Rating: 4.67 (Ranked 259)  
+Rating: 4.66 (Ranked 280)  
 Number of Ratings: 24  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -29,3 +29,4 @@ Number of Ratings: 24  (23.09.2022)
 | 2023-04-02 | 4.70 | - | 0 | 0 |
 | 2023-04-12 | 4.68 | - | 0 | 0 |
 | 2023-04-28 | 4.67 | - | 0 | 0 |
+| 2023-06-07 | 4.66 | - | 0 | 0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2342,
+  "EOS_Progressed": 2344,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2716,6 +2716,11 @@
       "Time": "2023-06-07T02:27:34.6574698+00:00",
       "NumProgressed": 2342,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-07T03:20:26.068626+00:00",
+      "NumProgressed": 2344,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2783,7 +2788,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2805,9 +2810,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 656
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2927,7 +2932,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -2935,7 +2940,7 @@
       "Name": "Lord of War",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3039,7 +3044,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3063,7 +3068,7 @@
       "Name": "Change the Channel",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3135,7 +3140,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -3294,13 +3299,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2293,
+      "Progressed": 2295,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2342,
+      "Progressed": 2344,
       "Completed": 2
     }
   ],
@@ -3308,8 +3313,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-07T02:27:34.6574693+00:00",
+  "LastChanged_Achievements": "2023-06-07T03:20:26.0686254+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-07T02:22:15.5262894+00:00",
-  "LastUpdate_Achievements": "2023-06-07T02:27:34.6575789+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:15:02.270956+00:00",
+  "LastUpdate_Achievements": "2023-06-07T03:20:26.0687048+00:00"
 }

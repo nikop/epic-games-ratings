@@ -15,6 +15,7 @@
 | No, Thanks! | 2.00% | ~12 |
 | Breaking Down Barriers | 2.00% | ~12 |
 | The Prince in Heels | 2.00% | ~12 |
+| Time Heals All Wounds | 2.00% | ~12 |
 | Golem Chaser | 2.00% | ~12 |
 | Fast Learner | 2.00% | ~12 |
 | Sump Explorer | 2.00% | ~12 |
@@ -31,7 +32,6 @@
 | Time Flies | 1.00% | ~6 |
 | The Harder They Fall | 1.00% | ~6 |
 | The Wicked Twins | 1.00% | ~6 |
-| Time Heals All Wounds | 1.00% | ~6 |
 | Theater Explorer | 1.00% | ~6 |
 | Immaculate Aim | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
@@ -47,8 +47,8 @@
 | Entresol Explorer | 0.50% | ~3 |
 | Fairgrounds Explorer | 0.50% | ~3 |
 | Rungs Was Right | 0.50% | ~3 |
+| Hexlock for Protection | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |
-| Hexlock for Protection | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |
 | A Lesson in Precision | 0.20% | ~1 |
 | Clovemary for Remembering | 0.00% | ~0 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 616 (Ranked 195)  
+Progressed: 617 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 602 | 0 |
 | 2023-06-05 | 608 | 0 |
 | 2023-06-06 | 615 | 0 |
-| 2023-06-07 | 616 | 0 |
+| 2023-06-07 | 617 | 0 |

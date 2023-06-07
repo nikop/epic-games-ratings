@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2274,
+  "EOS_Progressed": 2275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2307,6 +2307,11 @@
       "Time": "2023-06-07T02:27:36.5268664+00:00",
       "NumProgressed": 2274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T03:20:28.0975885+00:00",
+      "NumProgressed": 2275,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2326,7 +2331,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -2350,7 +2355,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -2358,7 +2363,7 @@
       "Name": "Hijack",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -2374,7 +2379,7 @@
       "Name": "No more holding back",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -2382,7 +2387,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2398,7 +2403,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2406,7 +2411,7 @@
       "Name": "I smell fear",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -2438,7 +2443,7 @@
       "Name": "Past trauma",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -2478,7 +2483,7 @@
       "Name": "Silverwing nest",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "STB_HOOK_CHALLENGE",
@@ -2494,7 +2499,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2502,7 +2507,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2518,7 +2523,7 @@
       "Name": "The end of the experiments",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -2534,7 +2539,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2542,7 +2547,7 @@
       "Name": "Thornbarrow",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2590,7 +2595,7 @@
       "Name": "Terbisia",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -2606,7 +2611,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -2622,7 +2627,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2654,7 +2659,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2692,9 +2697,9 @@
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
       "SetID": "3pe2bac",
       "Name": "The use of petricite",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1638
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2718,7 +2723,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -2741,7 +2746,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2274,
+      "Progressed": 2275,
       "Completed": 1
     }
   ],
@@ -2749,8 +2754,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-05T19:57:57.2340443+00:00",
-  "LastChanged_Achievements": "2023-06-07T02:27:36.5268656+00:00",
+  "LastChanged_Achievements": "2023-06-07T03:20:28.0975879+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.5523883+00:00",
-  "LastUpdate_Ratings": "2023-06-07T02:19:40.8627154+00:00",
-  "LastUpdate_Achievements": "2023-06-07T02:27:36.526923+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:11:54.2698155+00:00",
+  "LastUpdate_Achievements": "2023-06-07T03:20:28.0976458+00:00"
 }

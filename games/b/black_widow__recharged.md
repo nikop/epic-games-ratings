@@ -6,7 +6,7 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Across The Border | 79.00% | ~11,830 |
+| Across The Border | 79.00% | ~11,831 |
 | I'm Alive | 53.00% | ~7,937 |
 | Danger Ahead | 28.00% | ~4,193 |
 | Look at Me Now | 28.00% | ~4,193 |
@@ -17,11 +17,11 @@ Number of Ratings: 34  (23.09.2022)
 | In My Own Time | 13.00% | ~1,947 |
 | Caught in a Trap | 12.00% | ~1,797 |
 | In For The Kill | 12.00% | ~1,797 |
-| Hello My Old Friend | 6.00% | ~898 |
+| Hello My Old Friend | 6.00% | ~899 |
 | After All | 0.90% | ~135 |
 | Time of Our Life | 0.30% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,975 (Ranked 101)  
+Progressed: 14,976 (Ranked 101)  
 Completed: 48 (0.32%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 48 (0.32%) (Ranked 126)
 | 2023-06-04 | 14,895 | 48 |
 | 2023-06-05 | 14,931 | 48 |
 | 2023-06-06 | 14,971 | 48 |
-| 2023-06-07 | 14,975 | 48 |
+| 2023-06-07 | 14,976 | 48 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

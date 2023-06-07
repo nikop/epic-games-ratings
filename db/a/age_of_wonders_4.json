@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4388,
+  "EOS_Progressed": 4389,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3241,6 +3241,11 @@
       "Time": "2023-06-07T02:26:18.9593811+00:00",
       "NumProgressed": 4388,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T03:18:54.0278677+00:00",
+      "NumProgressed": 4389,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3268,7 +3273,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "12",
@@ -3300,7 +3305,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "16",
@@ -3364,7 +3369,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "23",
@@ -3380,7 +3385,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "25",
@@ -3388,7 +3393,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3203
+      "UsersEstimate": 3204
     },
     {
       "ID": "26",
@@ -3404,7 +3409,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "28",
@@ -3420,7 +3425,7 @@
       "Name": "Stronger Together",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2413
+      "UsersEstimate": 2414
     },
     {
       "ID": "3",
@@ -3444,7 +3449,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 2852
+      "UsersEstimate": 2853
     },
     {
       "ID": "32",
@@ -3460,7 +3465,7 @@
       "Name": "Seat of Power",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "34",
@@ -3492,7 +3497,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "38",
@@ -3596,20 +3601,20 @@
       "Name": "I\u0027ll Fight You All",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4388,
-      "Completed": 4388
+      "Progressed": 4389,
+      "Completed": 4389
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4388,
+      "Progressed": 4389,
       "Completed": 0
     }
   ],
@@ -3617,8 +3622,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-06T09:59:44.2906196+00:00",
-  "LastChanged_Achievements": "2023-06-07T02:26:18.9593804+00:00",
+  "LastChanged_Achievements": "2023-06-07T03:18:54.0278669+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-07T02:21:18.3613628+00:00",
-  "LastUpdate_Achievements": "2023-06-07T02:26:18.9594419+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:13:52.6890965+00:00",
+  "LastUpdate_Achievements": "2023-06-07T03:18:54.027922+00:00"
 }

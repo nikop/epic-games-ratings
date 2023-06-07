@@ -13,9 +13,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Court of Storms | 0.90% | ~506 |
 | The Ring of Regeneration | 0.70% | ~630 |
 | Beware the Jabberwock | 0.70% | ~394 |
+| Were-verpowered | 0.60% | ~540 |
 | Are Ya Chicken? | 0.60% | ~540 |
 | Coasting to the Finish | 0.60% | ~338 |
-| Were-verpowered | 0.50% | ~450 |
 | Checkmate | 0.50% | ~281 |
 | A Persistent Buzzing | 0.50% | ~450 |
 | Seeking Allies | 0.50% | ~450 |
@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.40% | ~225 |
 | Vecna Out! | 0.40% | ~225 |
 | Terror in the Dark | 0.40% | ~360 |
+| A Mysterious Summons | 0.40% | ~360 |
 | Unearthed Evil | 0.40% | ~360 |
 | The Crumbling Temple | 0.40% | ~360 |
 | Exploring Port Nyanzaru | 0.40% | ~360 |
@@ -41,10 +42,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.30% | ~169 |
 | Beast Mode | 0.30% | ~270 |
 | Low Initiative | 0.30% | ~270 |
-| A Mysterious Summons | 0.30% | ~270 |
 | Building Trust | 0.30% | ~270 |
 | No Time To Rest | 0.30% | ~270 |
 | The Dinner Party | 0.30% | ~270 |
+| The Death Curse | 0.30% | ~270 |
 | Useless Allies | 0.30% | ~270 |
 | Running of the Saurs | 0.30% | ~270 |
 | Hearts Aflame | 0.30% | ~169 |
@@ -92,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelmed with Knowledge | 0.20% | ~113 |
 | A Demi-god's Defender | 0.20% | ~113 |
 | Vecna Loots! | 0.20% | ~113 |
+| Friends of the Forest | 0.20% | ~180 |
 | More Than Well Equipped | 0.20% | ~113 |
 | Return to the Tomb | 0.20% | ~113 |
 | Arcane Efforts | 0.20% | ~113 |
@@ -124,6 +126,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~180 |
 | Wisdom Check | 0.20% | ~180 |
 | Sleuth It Out | 0.20% | ~180 |
+| The Newcomers of Notoriety | 0.20% | ~113 |
 | A Grand Puzzle | 0.20% | ~180 |
 | Tomb of the Nine Gods | 0.20% | ~180 |
 | The Mists of Ravenloft | 0.20% | ~180 |
@@ -142,7 +145,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.20% | ~180 |
 | Attack on the Manor | 0.20% | ~180 |
 | The Trepidatious Trio | 0.20% | ~180 |
-| The Death Curse | 0.20% | ~180 |
 | Treasure Hunters | 0.20% | ~180 |
 | The Guardian of Orolunga | 0.20% | ~180 |
 | The Lost Love | 0.20% | ~180 |
@@ -177,6 +179,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All You Know Is Wrong | 0.20% | ~180 |
 | Avernus Frozen Over | 0.20% | ~113 |
 | Market Fluctuations | 0.20% | ~180 |
+| Once More Into The Breach | 0.20% | ~180 |
 | Déjà Vu All Over Again | 0.20% | ~113 |
 | Into The Fire | 0.20% | ~113 |
 | Dreamscape | 0.20% | ~113 |
@@ -206,12 +209,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dwarven Rumors | 0.20% | ~113 |
 | Sunblight | 0.20% | ~113 |
 | The Bleeding Citadel | 0.20% | ~113 |
+| Idyllglen | 0.20% | ~113 |
 | Witty Riposting | 0.20% | ~113 |
 | How Far Away is Thay | 0.20% | ~113 |
 | Deekin's Mission | 0.20% | ~113 |
 | The Battle of High Hall Tower | 0.20% | ~113 |
 | Ending the Rime - Part 1 | 0.20% | ~113 |
 | The Rite of the Arcane Octad | 0.20% | ~113 |
+| The Netherese Necropolis | 0.20% | ~113 |
 | The Archaeologist and the Sailor | 0.20% | ~113 |
 | The Haunted Jungle | 0.20% | ~180 |
 | Poor Guidance | 0.20% | ~180 |
@@ -264,7 +269,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flapjacks and Waffles | 0.10% | ~56 |
 | On the Hunt | 0.10% | ~90 |
 | Well Equipped | 0.10% | ~56 |
-| Friends of the Forest | 0.10% | ~90 |
 | To Avernus in a Handbasket | 0.10% | ~56 |
 | Kas the Destroyer | 0.10% | ~56 |
 | Clowning Around | 0.10% | ~56 |
@@ -283,7 +287,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fall From Grace | 0.10% | ~90 |
 | Double Vision | 0.10% | ~90 |
 | Underground Railroad | 0.10% | ~90 |
-| The Newcomers of Notoriety | 0.10% | ~56 |
 | Never Split the Party | 0.10% | ~90 |
 | Azaka's Procession - Part 1 | 0.10% | ~90 |
 | Snakes on our Plane | 0.10% | ~56 |
@@ -389,7 +392,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~56 |
 | Everything is Awful | 0.10% | ~90 |
 | Shadow Stalkers | 0.10% | ~56 |
-| Once More Into The Breach | 0.10% | ~90 |
 | Twice More Into The Breach | 0.10% | ~90 |
 | Thrice More Into The Breach | 0.10% | ~56 |
 | Nightmare Mode | 0.10% | ~56 |
@@ -453,7 +455,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Every Day | 0.10% | ~56 |
 | Don't Pick at the Scab | 0.10% | ~56 |
 | Going To Eleven | 0.10% | ~56 |
-| Idyllglen | 0.10% | ~56 |
 | The Madness of Yeenoghu | 0.10% | ~56 |
 | Reya Reborn | 0.10% | ~56 |
 | The Radiant Nightmare | 0.10% | ~56 |
@@ -496,12 +497,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~56 |
 | Alien Allies | 0.10% | ~56 |
 | An Icewind Dale Reunion | 0.10% | ~56 |
-| The Netherese Necropolis | 0.10% | ~56 |
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,992 (Ranked 62)  
-Completed: 1,921 (2.13%) (Ranked 65)  
+Progressed: 89,995 (Ranked 62)  
+Completed: 1,922 (2.14%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -548,7 +548,7 @@ Completed: 1,921 (2.13%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 89,992 | 1,921 |
+| 2023-06-07 | 89,995 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

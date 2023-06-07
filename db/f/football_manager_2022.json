@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -4895,9 +4895,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 462627,
+  "EOS_Progressed": 462628,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 808,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9570,6 +9570,11 @@
       "Time": "2023-06-07T02:27:51.4402554+00:00",
       "NumProgressed": 462627,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-07T03:20:44.9035297+00:00",
+      "NumProgressed": 462628,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 98,
@@ -9765,7 +9770,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 226687
+      "UsersEstimate": 226688
     },
     {
       "ID": "achievement_club_world_cup",
@@ -9797,7 +9802,7 @@
       "Name": "Best In Europe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 41636
+      "UsersEstimate": 41637
     },
     {
       "ID": "achievement_eyes_and_ears",
@@ -9821,7 +9826,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 111030
+      "UsersEstimate": 111031
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -9861,7 +9866,7 @@
       "Name": "Superb Strike",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 41636
+      "UsersEstimate": 41637
     },
     {
       "ID": "achievement_goal_scored_in_20_consecutive_matches",
@@ -9869,7 +9874,7 @@
       "Name": "Attack!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 124909
+      "UsersEstimate": 124910
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -9917,7 +9922,7 @@
       "Name": "Headhunted",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 41636
+      "UsersEstimate": 41637
     },
     {
       "ID": "achievement_hes_a_natural",
@@ -9965,7 +9970,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 111030
+      "UsersEstimate": 111031
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -10005,7 +10010,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 161919
+      "UsersEstimate": 161920
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -10061,7 +10066,7 @@
       "Name": "International Superstar",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 41636
+      "UsersEstimate": 41637
     },
     {
       "ID": "achievement_reach_top_of_hall_of_fame",
@@ -10085,7 +10090,7 @@
       "Name": "Record Signing",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 143414
+      "UsersEstimate": 143415
     },
     {
       "ID": "achievement_rushed_signing",
@@ -10165,7 +10170,7 @@
       "Name": "Armchair Expert",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 111030
+      "UsersEstimate": 111031
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -10173,7 +10178,7 @@
       "Name": "Domination",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 41636
+      "UsersEstimate": 41637
     },
     {
       "ID": "achievement_win_a_match_after_being_2_goals_behind_at_half_time",
@@ -10277,7 +10282,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 143414
+      "UsersEstimate": 143415
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -10364,15 +10369,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 462627,
+      "Progressed": 462628,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-06-06T21:00:08.0981434+00:00",
-  "LastChanged_Achievements": "2023-06-07T02:27:51.4402549+00:00",
+  "LastChanged_Achievements": "2023-06-07T03:20:44.9035291+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:38.3036136+00:00",
-  "LastUpdate_Ratings": "2023-06-07T02:21:58.3429823+00:00",
-  "LastUpdate_Achievements": "2023-06-07T02:27:51.4403799+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:14:38.9064204+00:00",
+  "LastUpdate_Achievements": "2023-06-07T03:20:44.9036885+00:00"
 }

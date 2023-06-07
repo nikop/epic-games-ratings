@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1412,9 +1412,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63885,
+  "EOS_Progressed": 63892,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 947,
+  "EOS_NewPlayers": 953,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5332,6 +5332,11 @@
       "Time": "2023-06-07T02:27:47.8313029+00:00",
       "NumProgressed": 63885,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-07T03:20:41.0044538+00:00",
+      "NumProgressed": 63892,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 61,
@@ -5687,7 +5692,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -5830,13 +5835,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63885,
+      "Progressed": 63892,
       "Completed": 94
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34165,
+      "Progressed": 34172,
       "Completed": 2644
     }
   ],
@@ -5844,8 +5849,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-06T15:00:40.7549932+00:00",
-  "LastChanged_Achievements": "2023-06-07T02:27:47.8313024+00:00",
+  "LastChanged_Achievements": "2023-06-07T03:20:41.0044532+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-07T02:21:32.7262944+00:00",
-  "LastUpdate_Achievements": "2023-06-07T02:27:47.8313803+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:14:10.5533029+00:00",
+  "LastUpdate_Achievements": "2023-06-07T03:20:41.0045332+00:00"
 }

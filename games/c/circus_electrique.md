@@ -25,7 +25,7 @@ Number of Ratings: 22  (23.09.2022)
 | Lucky Day | 12.00% | ~51 |
 | King of District 2 | 12.00% | ~51 |
 | Time Travel! | 10.00% | ~43 |
-| Marketing Manager | 9.00% | ~39 |
+| Marketing Manager | 10.00% | ~43 |
 | Circus Versus Circus | 8.00% | ~34 |
 | King of District 3 | 8.00% | ~34 |
 | Club Member | 7.00% | ~30 |

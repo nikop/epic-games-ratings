@@ -17,10 +17,10 @@ Rating: 4.32 (Ranked 750)
 | Fine-toothed Comb | 54.00% | ~203 |
 | Order and Method | 53.00% | ~199 |
 | The Altercation | 50.00% | ~188 |
-| Truth from Within | 48.00% | ~180 |
+| Truth from Within | 49.00% | ~184 |
 | The Major | 47.00% | ~177 |
+| Comtesse Margaux de Vos | 45.00% | ~169 |
 | Curious and Beautiful | 44.00% | ~165 |
-| Comtesse Margaux de Vos | 44.00% | ~165 |
 | Jacqueline “Jackie” Conrad | 43.00% | ~162 |
 | The Interrogations | 43.00% | ~162 |
 | Well-acquainted | 41.00% | ~154 |

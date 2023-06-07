@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -5319,9 +5319,9 @@
       "ID": "54",
       "SetID": "8idi9ml",
       "Name": "Top Notch",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1545
     },
     {
       "ID": "55",
@@ -5407,8 +5407,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-06T19:00:11.8041738+00:00",
-  "LastChanged_Achievements": "2023-06-07T02:22:28.3931659+00:00",
+  "LastChanged_Achievements": "2023-06-07T03:15:18.8295739+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-07T02:21:44.2165623+00:00",
-  "LastUpdate_Achievements": "2023-06-07T02:22:28.3932479+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:14:25.8536151+00:00",
+  "LastUpdate_Achievements": "2023-06-07T03:15:18.8296531+00:00"
 }

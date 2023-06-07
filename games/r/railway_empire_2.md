@@ -16,8 +16,8 @@
 | Travel Company | 62.00% | ~598 |
 | All around the World | 60.00% | ~578 |
 | Right through the middle | 54.00% | ~521 |
+| Poor Devil | 51.00% | ~492 |
 | Facility Manager | 50.00% | ~482 |
-| Poor Devil | 50.00% | ~482 |
 | Producer | 46.00% | ~443 |
 | Apprentice | 42.00% | ~405 |
 | Bridge Builder | 37.00% | ~357 |

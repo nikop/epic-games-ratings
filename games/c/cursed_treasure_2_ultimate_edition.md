@@ -19,9 +19,9 @@
 | Brilliant: Meadowshire | 72.00% | ~114 |
 | Drunken Master | 72.00% | ~114 |
 | V.I.P. Cemetery | 70.00% | ~111 |
+| Takeover | 69.00% | ~110 |
 | Woodcutter | 69.00% | ~110 |
 | Architect of Darkness | 69.00% | ~110 |
-| Takeover | 68.00% | ~108 |
 | Sharpshooter | 68.00% | ~108 |
 | Top of the World | 67.00% | ~107 |
 | The Apotheosis of War | 65.00% | ~103 |

@@ -2,13 +2,13 @@
   "ID": "moose",
   "Name": "Super Meat Boy Forever",
   "ProductSlug": "super-meat-boy-forever",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 280,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-12-23T05:00:00+00:00",
     "PcReleaseDate": "2020-12-23T05:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 24,
   "RatingHistory": [
     {
@@ -124,6 +124,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-07T03:11:46.0323064+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -142,8 +148,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:25.4664791+00:00",
   "FirstSeenRating": "2022-09-02T12:31:23.1316509+00:00",
-  "LastChanged": "2023-04-28T21:57:08.7210822+00:00",
+  "LastChanged": "2023-06-07T03:11:46.032306+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:34.422993+00:00",
-  "LastUpdate_Ratings": "2023-06-07T02:19:34.7762683+00:00",
-  "LastUpdate_Achievements": "2023-06-07T02:25:38.9379089+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:11:46.0323069+00:00",
+  "LastUpdate_Achievements": "2023-06-07T03:18:03.9018176+00:00"
 }

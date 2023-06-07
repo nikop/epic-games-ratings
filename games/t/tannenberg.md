@@ -6,43 +6,43 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~101,270 |
-| Comeback | 81.00% | ~92,167 |
-| Information is Key | 80.00% | ~91,029 |
-| Unlucky | 71.00% | ~80,788 |
-| Anarchist | 68.00% | ~77,374 |
-| Wallhack | 65.00% | ~73,961 |
-| Steady Supply | 60.00% | ~68,272 |
-| Lucky Shot | 53.00% | ~60,307 |
-| Forward Observer | 52.00% | ~59,169 |
-| Ring Ring! | 52.00% | ~59,169 |
-| Bossing Around | 45.00% | ~51,204 |
-| Frostbite | 45.00% | ~51,204 |
-| Night Owl | 44.00% | ~50,066 |
-| Strength in Numbers | 44.00% | ~50,066 |
-| Fog of War | 41.00% | ~46,652 |
-| Stronghold Denied | 39.00% | ~44,377 |
-| Anyone Else? | 38.00% | ~43,239 |
-| Rasputin | 38.00% | ~43,239 |
-| This Belongs to Us Now | 36.00% | ~40,963 |
-| Hydra | 35.00% | ~39,825 |
-| Stronghold | 35.00% | ~39,825 |
-| Leeroy | 33.00% | ~37,549 |
-| Lost Batallion | 33.00% | ~37,549 |
-| This is MY Machine Gun! | 31.00% | ~35,274 |
-| Together As One | 31.00% | ~35,274 |
-| Gavrilo Princip | 27.00% | ~30,722 |
-| Lead Harvest | 25.00% | ~28,446 |
+| Immovable Object | 89.00% | ~101,272 |
+| Comeback | 81.00% | ~92,169 |
+| Information is Key | 80.00% | ~91,031 |
+| Unlucky | 71.00% | ~80,790 |
+| Anarchist | 68.00% | ~77,377 |
+| Wallhack | 65.00% | ~73,963 |
+| Steady Supply | 60.00% | ~68,273 |
+| Lucky Shot | 53.00% | ~60,308 |
+| Forward Observer | 52.00% | ~59,170 |
+| Ring Ring! | 52.00% | ~59,170 |
+| Bossing Around | 45.00% | ~51,205 |
+| Frostbite | 45.00% | ~51,205 |
+| Night Owl | 44.00% | ~50,067 |
+| Strength in Numbers | 44.00% | ~50,067 |
+| Fog of War | 41.00% | ~46,653 |
+| Stronghold Denied | 39.00% | ~44,378 |
+| Anyone Else? | 38.00% | ~43,240 |
+| Rasputin | 38.00% | ~43,240 |
+| This Belongs to Us Now | 36.00% | ~40,964 |
+| Hydra | 35.00% | ~39,826 |
+| Stronghold | 35.00% | ~39,826 |
+| Leeroy | 33.00% | ~37,550 |
+| Lost Batallion | 33.00% | ~37,550 |
+| This is MY Machine Gun! | 31.00% | ~35,275 |
+| Together As One | 31.00% | ~35,275 |
+| Gavrilo Princip | 27.00% | ~30,723 |
+| Lead Harvest | 25.00% | ~28,447 |
 | Skynet Confirmed | 23.00% | ~26,171 |
-| Kesselschlacht | 22.00% | ~25,033 |
-| Democracy Works! | 20.00% | ~22,757 |
-| Switch, Please! | 19.00% | ~21,619 |
-| I've Seen It All | 18.00% | ~20,481 |
-| Tourist | 18.00% | ~20,481 |
+| Kesselschlacht | 22.00% | ~25,034 |
+| Democracy Works! | 20.00% | ~22,758 |
+| Switch, Please! | 19.00% | ~21,620 |
+| I've Seen It All | 18.00% | ~20,482 |
+| Tourist | 18.00% | ~20,482 |
 | At Least This Way I Can Win... | 17.00% | ~19,344 |
 | Oops! | 17.00% | ~19,344 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~18,206 |
-| Butcher | 12.00% | ~13,654 |
+| Butcher | 12.00% | ~13,655 |
 | Before the Leaves Fall | 10.00% | ~11,379 |
 | Close Call | 10.00% | ~11,379 |
 | Pinpoint | 10.00% | ~11,379 |
@@ -55,9 +55,9 @@ Number of Ratings: 13,393  (23.09.2022)
 | From Russia with Love | 5.00% | ~5,689 |
 | Overachiever | 5.00% | ~5,689 |
 | Your Family Will Be Proud... | 5.00% | ~5,689 |
-| Gott Mit Uns | 4.00% | ~4,551 |
-| Indivisibiliter ac Inseparabiliter | 4.00% | ~4,551 |
-| Living on the Edge | 4.00% | ~4,551 |
+| Gott Mit Uns | 4.00% | ~4,552 |
+| Indivisibiliter ac Inseparabiliter | 4.00% | ~4,552 |
+| Living on the Edge | 4.00% | ~4,552 |
 | Chivalrous | 3.00% | ~3,414 |
 | S nami Bog! | 3.00% | ~3,414 |
 | Cheeki Breeki | 2.00% | ~2,276 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,024 |
 | Road to Berlin | 0.60% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113,786 (Ranked 59)  
+Progressed: 113,789 (Ranked 59)  
 Completed: 22 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 22 (0.02%) (Ranked 195)
 | 2023-06-04 | 113,424 | 22 |
 | 2023-06-05 | 113,611 | 22 |
 | 2023-06-06 | 113,764 | 22 |
-| 2023-06-07 | 113,786 | 22 |
+| 2023-06-07 | 113,789 | 22 |
 ## Awards
 Max (Competitive Players): 324  (Ranked 220)  
 Sum: 2,835 (Ranked 157)  

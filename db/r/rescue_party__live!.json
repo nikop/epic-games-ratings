@@ -4,8 +4,8 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -318,8 +318,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-06-07T02:27:24.7954429+00:00",
+  "LastChanged_Achievements": "2023-06-07T03:20:14.3843735+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:45.1722306+00:00",
-  "LastUpdate_Ratings": "2023-06-07T02:21:15.8689821+00:00",
-  "LastUpdate_Achievements": "2023-06-07T02:27:24.795456+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:13:49.5577652+00:00",
+  "LastUpdate_Achievements": "2023-06-07T03:20:14.3843859+00:00"
 }

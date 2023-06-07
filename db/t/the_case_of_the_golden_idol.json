@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -436,9 +436,9 @@
       "ID": "2",
       "SetID": "acl54ke",
       "Name": "Solved third case",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "3",
@@ -468,9 +468,9 @@
       "ID": "6",
       "SetID": "acl54ke",
       "Name": "Solved seventh case",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "7",
@@ -515,8 +515,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-06-07T02:25:30.380701+00:00",
+  "LastChanged_Achievements": "2023-06-07T03:17:43.2786837+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.2051339+00:00",
-  "LastUpdate_Ratings": "2023-06-07T02:20:41.7664101+00:00",
-  "LastUpdate_Achievements": "2023-06-07T02:25:30.380714+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:13:06.4278268+00:00",
+  "LastUpdate_Achievements": "2023-06-07T03:17:43.2786946+00:00"
 }
