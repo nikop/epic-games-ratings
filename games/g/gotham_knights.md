@@ -19,6 +19,7 @@ Rating: 4.17 (Ranked 847)
 | Knighthood | 2.00% | ~1,279 |
 | Whispered Words | 2.00% | ~1,279 |
 | Lock and Key | 2.00% | ~1,279 |
+| Bad Apples in Every Orchard | 2.00% | ~1,279 |
 | End of an Era | 1.00% | ~639 |
 | In Your Element | 1.00% | ~639 |
 | Protector of Gotham | 1.00% | ~639 |
@@ -29,12 +30,11 @@ Rating: 4.17 (Ranked 847)
 | Shock Til They Drop | 1.00% | ~639 |
 | Cooldown | 1.00% | ~639 |
 | Universal Health Scare | 1.00% | ~639 |
-| Bad Apples in Every Orchard | 1.00% | ~639 |
 | From Inside Gotham's Walls | 1.00% | ~639 |
 | Voiceless | 1.00% | ~639 |
 | Seeking Asylum | 1.00% | ~639 |
 | Gotham Knight | 1.00% | ~639 |
-| Gotham City Confidential | 0.90% | ~575 |
+| Gotham City Confidential | 0.90% | ~576 |
 | Drone You Out | 0.80% | ~512 |
 | Out of Their League | 0.70% | ~448 |
 | Solid Alibi | 0.70% | ~448 |
@@ -67,8 +67,8 @@ Rating: 4.17 (Ranked 847)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,941 (Ranked 71)  
-Completed: 94 (0.15%) (Ranked 154)  
+Progressed: 63,949 (Ranked 71)  
+Completed: 94 (0.15%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,7 +115,7 @@ Completed: 94 (0.15%) (Ranked 154)
 | 2023-06-04 | 63,645 | 93 |
 | 2023-06-05 | 63,770 | 93 |
 | 2023-06-06 | 63,871 | 94 |
-| 2023-06-07 | 63,941 | 94 |
+| 2023-06-07 | 63,949 | 94 |
 ## Awards
 Max (Great Boss Battles): 2,304  (Ranked 97)  
 Sum: 3,809 (Ranked 137)  

@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 968,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1569,9 +1569,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 629
     },
     {
       "ID": "A29",
@@ -1633,17 +1633,17 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 668
     },
     {
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 581
+      "UsersEstimate": 590
     },
     {
       "ID": "A38",
@@ -1665,9 +1665,9 @@
       "ID": "A40",
       "SetID": "9b7p7eo",
       "Name": "Mind the Gap",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 610
     },
     {
       "ID": "A41",
@@ -1721,9 +1721,9 @@
       "ID": "A47",
       "SetID": "9b7p7eo",
       "Name": "Travel Company",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 600
+      "UsersEstimate": 610
     },
     {
       "ID": "A48",
@@ -1792,8 +1792,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:05:35.0604675+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:06:50.6561219+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:57:52.3074165+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:05:35.0605114+00:00"
+  "LastUpdate_Ratings": "2023-06-07T15:58:25.7128907+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:06:50.6561872+00:00"
 }

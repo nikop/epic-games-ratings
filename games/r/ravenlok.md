@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~927 |
+| Once Upon a Time | 97.00% | ~937 |
 | Waff! | 95.00% | ~918 |
 | Into the Barn | 86.00% | ~831 |
 | A Prophecy | 85.00% | ~821 |

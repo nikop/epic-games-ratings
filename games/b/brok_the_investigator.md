@@ -12,7 +12,7 @@
 | Chapter 5 | 33.00% | ~4 |
 | Your Days Are Numbered | 33.00% | ~4 |
 | All Materials | 33.00% | ~4 |
-| It's In My Nature | 25.00% | ~3 |
+| It's In My Nature | 33.00% | ~4 |
 | Best Student | 17.00% | ~2 |
 | Chapter 6 | 17.00% | ~2 |
 | Highway Survival | 17.00% | ~2 |

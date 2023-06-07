@@ -6,8 +6,14 @@
 | ---- | ---------- | ----- |
 | Travel Streamer | 67.00% | ~2 |
 | Training Simulation | 67.00% | ~2 |
+| Arms Mechanic | 67.00% | ~2 |
 | Fashion Connoisseur | 67.00% | ~2 |
 | Kuku Bird Hunter | 67.00% | ~2 |
+| Storm Traveller | 67.00% | ~2 |
+| Wolf King Killer | 67.00% | ~2 |
+| Flower Thief | 67.00% | ~2 |
+| Apostle of Flame | 67.00% | ~2 |
+| Seal Breaker | 67.00% | ~2 |
 | Giant Lizard Killer | 33.00% | ~1 |
 | Guardian | 33.00% | ~1 |
 | Nosebleeder | 33.00% | ~1 |
@@ -20,17 +26,11 @@
 | Face Slapper | 33.00% | ~1 |
 | Beginner Cook | 33.00% | ~1 |
 | Master Cook | 33.00% | ~1 |
-| Arms Mechanic | 33.00% | ~1 |
 | Beginner Artificer | 33.00% | ~1 |
 | Master Artificer | 33.00% | ~1 |
 | Trader | 33.00% | ~1 |
 | Weapon Boost | 33.00% | ~1 |
-| Storm Traveller | 33.00% | ~1 |
 | Berserker Slayer | 33.00% | ~1 |
-| Wolf King Killer | 33.00% | ~1 |
-| Flower Thief | 33.00% | ~1 |
-| Apostle of Flame | 33.00% | ~1 |
-| Seal Breaker | 33.00% | ~1 |
 | Handyman | 33.00% | ~1 |
 | Flying Kobold Killer | 0.00% | ~0 |
 | Cave Master | 0.00% | ~0 |

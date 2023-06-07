@@ -1566,7 +1566,7 @@
       "Count": 206
     }
   ],
-  "EOS_Progressed": 19375,
+  "EOS_Progressed": 19377,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
@@ -3911,6 +3911,11 @@
       "Time": "2023-06-07T14:06:56.215575+00:00",
       "NumProgressed": 19375,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-07T16:06:33.5506119+00:00",
+      "NumProgressed": 19377,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3954,7 +3959,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "EstateAgent",
@@ -3970,7 +3975,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18212
+      "UsersEstimate": 18214
     },
     {
       "ID": "GameOver",
@@ -4058,7 +4063,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "SeniorEstateAgent",
@@ -4082,7 +4087,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6006
+      "UsersEstimate": 6007
     },
     {
       "ID": "VeronicaLiptson",
@@ -4105,15 +4110,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19375,
+      "Progressed": 19377,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-06T20:00:30.0103604+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:05:20.7927344+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:06:33.5506114+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:59:01.9538391+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:05:20.7927583+00:00"
+  "LastUpdate_Ratings": "2023-06-07T15:59:49.949531+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:06:33.5506409+00:00"
 }

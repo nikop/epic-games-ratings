@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2931,
+  "EOS_Progressed": 2933,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1884,6 +1884,11 @@
       "Time": "2023-06-07T07:06:40.9377848+00:00",
       "NumProgressed": 2931,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-07T16:06:50.7616321+00:00",
+      "NumProgressed": 2933,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1893,9 +1898,9 @@
       "ID": "bonus1",
       "SetID": "2h56gn1",
       "Name": "All Ovens Blazing",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 411
     },
     {
       "ID": "bonus2",
@@ -1943,7 +1948,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2640
     },
     {
       "ID": "campaign10",
@@ -1975,7 +1980,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "campaign14",
@@ -1983,7 +1988,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "campaign15",
@@ -1999,7 +2004,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "campaign17",
@@ -2031,7 +2036,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "campaign20",
@@ -2047,7 +2052,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "campaign4",
@@ -2055,15 +2060,15 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 528
+      "UsersEstimate": 499
     },
     {
       "ID": "campaign6",
@@ -2095,7 +2100,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "scenario1",
@@ -2103,7 +2108,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "scenario2",
@@ -2111,7 +2116,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "scenario3",
@@ -2158,7 +2163,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2931,
+      "Progressed": 2933,
       "Completed": 9
     }
   ],
@@ -2166,8 +2171,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:05:35.165774+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:06:50.7616314+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:59:42.123128+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:05:35.1658017+00:00"
+  "LastUpdate_Ratings": "2023-06-07T16:00:39.7182526+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:06:50.7616852+00:00"
 }

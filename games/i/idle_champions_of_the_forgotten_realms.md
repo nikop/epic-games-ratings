@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,800 |
+| A Brief Tour of the Realms | 2.00% | ~1,801 |
 | The Cursed Farmer | 1.00% | ~900 |
 | Beast Intentions | 0.90% | ~810 |
 | The Mad Wizard | 0.90% | ~810 |
@@ -17,12 +17,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.60% | ~540 |
 | Are Ya Chicken? | 0.60% | ~540 |
 | Coasting to the Finish | 0.60% | ~338 |
-| Checkmate | 0.50% | ~281 |
+| Checkmate | 0.50% | ~282 |
 | A Persistent Buzzing | 0.50% | ~450 |
 | Mad Cow Disease | 0.50% | ~450 |
 | Friendly Imps | 0.50% | ~450 |
 | Pure Energy | 0.50% | ~450 |
-| Quick or Quack | 0.50% | ~281 |
+| Quick or Quack | 0.50% | ~282 |
 | Owlbear Necessities | 0.40% | ~225 |
 | Best Thay Ever | 0.40% | ~225 |
 | Vecna Out! | 0.40% | ~225 |
@@ -63,6 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.20% | ~113 |
 | The Witchlight Carnival | 0.20% | ~113 |
 | A Monarch Among Us | 0.20% | ~113 |
+| A Familiar Behind Us | 0.20% | ~113 |
 | Thieves of the Coven | 0.20% | ~113 |
 | Sticky Fingers | 0.20% | ~113 |
 | Go Fourth | 0.20% | ~113 |
@@ -112,6 +113,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks Below? | 0.20% | ~113 |
 | Xanathaaaaaaar! | 0.20% | ~113 |
 | Homecoming | 0.20% | ~180 |
+| Anti-Dexterous Explorers | 0.20% | ~180 |
 | The Lost Heir of Omu | 0.20% | ~180 |
 | Lobsterfolk Assault | 0.20% | ~180 |
 | The Minions of Endelyn Moongrave | 0.20% | ~113 |
@@ -222,6 +224,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Battle of High Hall Tower | 0.20% | ~113 |
 | Ending the Rime - Part 1 | 0.20% | ~113 |
 | The Rite of the Arcane Octad | 0.20% | ~113 |
+| An Icewind Dale Reunion | 0.20% | ~113 |
 | The Netherese Necropolis | 0.20% | ~113 |
 | The Archaeologist and the Sailor | 0.20% | ~113 |
 | The Haunted Jungle | 0.20% | ~180 |
@@ -234,7 +237,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Unexpected Geist | 0.10% | ~56 |
 | Back to Nature | 0.10% | ~56 |
 | A Dragon Against Us | 0.10% | ~56 |
-| A Familiar Behind Us | 0.10% | ~56 |
 | Patron Party | 0.10% | ~56 |
 | Don't Blast the Brigands | 0.10% | ~56 |
 | Don't Squeeze the Spiders | 0.10% | ~56 |
@@ -276,7 +278,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Destroyer | 0.10% | ~56 |
 | Clowning Around | 0.10% | ~56 |
 | A Whale of a Time | 0.10% | ~56 |
-| Anti-Dexterous Explorers | 0.10% | ~90 |
 | Struggling Toward Omu | 0.10% | ~90 |
 | Wagon Train | 0.10% | ~90 |
 | Not Very Charming | 0.10% | ~90 |
@@ -496,11 +497,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Watchful Eyes | 0.10% | ~56 |
 | Maroon Madness | 0.10% | ~56 |
 | Alien Allies | 0.10% | ~56 |
-| An Icewind Dale Reunion | 0.10% | ~56 |
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,024 (Ranked 62)  
+Progressed: 90,027 (Ranked 62)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 90,024 | 1,922 |
+| 2023-06-07 | 90,027 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

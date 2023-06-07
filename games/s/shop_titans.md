@@ -6,34 +6,34 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~126,132 |
-| Titan's First Steps | 96.00% | ~124,832 |
-| Basic in Bulk | 91.00% | ~118,330 |
-| Tinkle of Coins | 87.00% | ~113,129 |
-| Disintermediation | 76.00% | ~98,825 |
-| Capitalism Ho! | 75.00% | ~97,525 |
-| It's Free Real Estate | 70.00% | ~91,023 |
+| Sponsored by Argon | 97.00% | ~126,133 |
+| Titan's First Steps | 96.00% | ~124,833 |
+| Basic in Bulk | 91.00% | ~118,331 |
+| Tinkle of Coins | 87.00% | ~113,130 |
+| Disintermediation | 76.00% | ~98,826 |
+| Capitalism Ho! | 75.00% | ~97,526 |
+| It's Free Real Estate | 70.00% | ~91,024 |
 | Budding Merchant | 66.00% | ~85,822 |
-| Another Satisfied Customer | 61.00% | ~79,320 |
+| Another Satisfied Customer | 61.00% | ~79,321 |
 | One Easy Payment | 60.00% | ~78,020 |
 | Own the Means of Production | 60.00% | ~78,020 |
-| Some Assembly Required | 58.00% | ~75,419 |
+| Some Assembly Required | 58.00% | ~75,420 |
 | Pretty Penny | 57.00% | ~74,119 |
-| One-Armed Bandit | 50.00% | ~65,016 |
-| Through Repetition, Perfection | 46.00% | ~59,815 |
+| One-Armed Bandit | 50.00% | ~65,017 |
+| Through Repetition, Perfection | 46.00% | ~59,816 |
 | The Daily Grind | 45.00% | ~58,515 |
 | Bounty Hunters | 44.00% | ~57,215 |
-| Where it Hurts | 43.00% | ~55,914 |
+| Where it Hurts | 43.00% | ~55,915 |
 | Dungeon Imports | 42.00% | ~54,614 |
 | Flooding the Market | 41.00% | ~53,314 |
 | Demand for Supplies | 38.00% | ~49,413 |
-| Gild-Gotten Goods | 37.00% | ~48,112 |
+| Gild-Gotten Goods | 37.00% | ~48,113 |
 | Did we pack lunch? | 35.00% | ~45,512 |
-| Arcane Industries | 34.00% | ~44,211 |
-| Accomplished Merchant | 31.00% | ~40,310 |
-| Ascended | 28.00% | ~36,409 |
-| Gem Expert | 28.00% | ~36,409 |
-| Helping Hand | 28.00% | ~36,409 |
+| Arcane Industries | 34.00% | ~44,212 |
+| Accomplished Merchant | 31.00% | ~40,311 |
+| Ascended | 28.00% | ~36,410 |
+| Gem Expert | 28.00% | ~36,410 |
+| Helping Hand | 28.00% | ~36,410 |
 | On the Path to Greatness | 27.00% | ~35,109 |
 | Blank Page Syndrome | 27.00% | ~35,109 |
 | Efficient Floor Space | 27.00% | ~35,109 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~650 |
 | Capitalist Camaraderie | 0.20% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,033 (Ranked 57)  
+Progressed: 130,034 (Ranked 57)  
 Completed: 94 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 94 (0.07%) (Ranked 177)
 | 2023-06-04 | 129,861 | 93 |
 | 2023-06-05 | 129,927 | 94 |
 | 2023-06-06 | 129,989 | 94 |
-| 2023-06-07 | 130,033 | 94 |
+| 2023-06-07 | 130,034 | 94 |
 ## Awards
 Max (Great for Beginners): 4,611  (Ranked 67)  
 Sum: 26,716 (Ranked 44)  

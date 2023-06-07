@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 421,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 7.13,
   "EosHistory": [
@@ -1200,9 +1200,9 @@
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_012",
@@ -1367,8 +1367,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:03:42.2816219+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:04:35.2800295+00:00",
   "LastUpdate_AppInfo": "2023-06-05T14:57:13.8702155+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:57:01.6694591+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:03:42.2816446+00:00"
+  "LastUpdate_Ratings": "2023-06-07T15:57:24.5863626+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:04:35.2800635+00:00"
 }

@@ -528,9 +528,9 @@
       "ID": "win-with-3-cultists",
       "SetID": "799afm0",
       "Name": "Honorary Cultist",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 47
     },
     {
       "ID": "win-with-mrakus",
@@ -553,8 +553,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:05:27.1655612+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:06:40.7675775+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.398253+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:58:25.8970183+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:05:27.1655826+00:00"
+  "LastUpdate_Ratings": "2023-06-07T15:59:05.1617826+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:06:40.7676039+00:00"
 }

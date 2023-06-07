@@ -31,8 +31,8 @@ Rating: 4.35 (Ranked 727)
 | There Can Be Only One! | 18.00% | ~188 |
 | Experienced | 17.00% | ~177 |
 | Hold The Line | 17.00% | ~177 |
+| Endgame | 14.00% | ~146 |
 | Newtonian Knockout | 14.00% | ~146 |
-| Endgame | 13.00% | ~136 |
 | Savior | 13.00% | ~136 |
 | The Watchers | 13.00% | ~136 |
 | Ruthless | 11.00% | ~115 |

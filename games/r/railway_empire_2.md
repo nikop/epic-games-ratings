@@ -8,13 +8,13 @@
 | A new Journey | 72.00% | ~697 |
 | Departure | 71.00% | ~687 |
 | From X to Y | 70.00% | ~678 |
-| Way of Iron | 68.00% | ~658 |
+| Way of Iron | 69.00% | ~668 |
 | Mystery Tour | 66.00% | ~639 |
 | Brainstorm | 65.00% | ~629 |
-| We brake for nobody | 64.00% | ~620 |
-| Mind the Gap | 62.00% | ~600 |
-| Travel Company | 62.00% | ~600 |
-| All around the World | 60.00% | ~581 |
+| We brake for nobody | 65.00% | ~629 |
+| Mind the Gap | 63.00% | ~610 |
+| Travel Company | 63.00% | ~610 |
+| All around the World | 61.00% | ~590 |
 | Right through the middle | 54.00% | ~523 |
 | Poor Devil | 51.00% | ~494 |
 | Facility Manager | 50.00% | ~484 |

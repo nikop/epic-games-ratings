@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 15.09,
+  "EOS_Completed_Percentage": 15.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1273,6 +1273,11 @@
       "Time": "2023-06-07T10:05:56.2440389+00:00",
       "NumProgressed": 285,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-06-07T16:06:22.6876896+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 22,
@@ -1284,7 +1289,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "LEVEL_002",
@@ -1292,7 +1297,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "LEVEL_003",
@@ -1300,7 +1305,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "LEVEL_004",
@@ -1330,9 +1335,9 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 108
+      "UsersEstimate": 106
     },
     {
       "ID": "LEVEL_008",
@@ -1364,7 +1369,7 @@
       "Name": "At the heart of the city",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LEVEL_012",
@@ -1420,7 +1425,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LEVEL_019",
@@ -1459,7 +1464,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 43
     }
   ],
@@ -1467,8 +1472,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:05:11.8057036+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:06:22.6876891+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:57:50.877833+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:05:11.8057227+00:00"
+  "LastUpdate_Ratings": "2023-06-07T15:58:23.6883609+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:06:22.6877146+00:00"
 }

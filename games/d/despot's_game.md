@@ -26,7 +26,7 @@ Rating: 4.50 (Ranked 546)
 | To the Moon and Back | 20.00% | ~79 |
 | Great Flight | 18.00% | ~71 |
 | Holy Vengeance | 15.00% | ~59 |
-| Honorary Cultist | 11.00% | ~43 |
+| Honorary Cultist | 12.00% | ~47 |
 | Strength and Sorcery | 10.00% | ~39 |
 | Brain and Brawn | 10.00% | ~39 |
 | Omae Wa Mou Shindeiru | 8.00% | ~32 |

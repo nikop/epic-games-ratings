@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2361,
+  "EOS_Progressed": 2362,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2772,6 +2772,11 @@
       "Time": "2023-06-07T15:05:25.4283201+00:00",
       "NumProgressed": 2361,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-07T16:06:38.8597279+00:00",
+      "NumProgressed": 2362,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2789,9 +2794,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 165
+      "UsersEstimate": 189
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -2847,7 +2852,7 @@
       "Name": "Organ Grinder",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3023,7 +3028,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3077,9 +3082,9 @@
       "ID": "REWARD_45_STONE_CARVING",
       "SetID": "bm6el81",
       "Name": "Eagle Eyed",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -3093,9 +3098,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 354
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3287,7 +3292,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -3350,13 +3355,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2312,
+      "Progressed": 2313,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2361,
+      "Progressed": 2362,
       "Completed": 2
     }
   ],
@@ -3364,8 +3369,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-07T14:01:38.5946734+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:05:25.4283193+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:06:38.8597274+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:59:58.4762102+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:05:25.4283838+00:00"
+  "LastUpdate_Ratings": "2023-06-07T16:01:00.3432787+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:06:38.8598122+00:00"
 }

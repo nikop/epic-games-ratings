@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-09-05T16:30:00+00:00",
@@ -252,8 +252,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:05:12.3754888+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:06:23.3491026+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:21.2646046+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:58:41.8797087+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:05:12.3755037+00:00"
+  "LastUpdate_Ratings": "2023-06-07T15:59:25.5328795+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:06:23.349117+00:00"
 }

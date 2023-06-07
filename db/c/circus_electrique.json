@@ -363,9 +363,9 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "631ndc2",
       "Name": "Lucky Day",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:05:34.5033418+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:06:50.1097837+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:13.7097187+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:58:36.4057053+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:05:34.5033757+00:00"
+  "LastUpdate_Ratings": "2023-06-07T15:59:18.0355181+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:06:50.1098322+00:00"
 }

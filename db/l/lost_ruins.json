@@ -445,9 +445,9 @@
       "ID": "BugHunter",
       "SetID": "82505mn",
       "Name": "Bug Hunter",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "Cryomancer",
@@ -734,8 +734,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:05:34.9699398+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:06:50.5089808+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:56.1759151+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:59:07.9346876+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:05:34.9699671+00:00"
+  "LastUpdate_Ratings": "2023-06-07T15:59:57.6007653+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:06:50.5090165+00:00"
 }

@@ -66,7 +66,7 @@
   "Tags": [],
   "EOS_Progressed": 1044,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1550,9 +1550,9 @@
       "ID": "ENDGAME",
       "SetID": "9a4jnji",
       "Name": "Endgame",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 146
     },
     {
       "ID": "EXORCIST",
@@ -1815,8 +1815,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:02:27.3450677+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:03:41.9785119+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:58:04.8788681+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:02:27.345112+00:00"
+  "LastUpdate_Ratings": "2023-06-07T15:58:39.8912783+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:03:41.9785631+00:00"
 }

@@ -8,18 +8,18 @@ Rating: 4.48 (Ranked 579)
 | Meeting Resistance | 28.00% | ~661 |
 | Confirming Suspicions | 23.00% | ~543 |
 | The Kraken Wakes | 18.00% | ~425 |
-| It's Starting to Crack | 16.00% | ~378 |
+| It's Starting to Crack | 15.00% | ~354 |
 | Lord of War | 14.00% | ~331 |
 | Change the Channel | 13.00% | ~307 |
 | Resourceful | 12.00% | ~283 |
 | Taking it back | 11.00% | ~260 |
 | Target America | 10.00% | ~236 |
-| Organ Grinder | 9.00% | ~212 |
-| As Quiet as a Mouse | 9.00% | ~212 |
+| Organ Grinder | 9.00% | ~213 |
+| As Quiet as a Mouse | 9.00% | ~213 |
+| Liberté | 8.00% | ~189 |
 | Just a Flesh Wound | 8.00% | ~189 |
 | Explosive Efficiency | 8.00% | ~189 |
 | The Kraken Sleeps | 8.00% | ~189 |
-| Liberté | 7.00% | ~165 |
 | Enemy at the Gates | 7.00% | ~165 |
 | Gunslinger | 7.00% | ~165 |
 | Sharpshooter | 7.00% | ~165 |
@@ -46,14 +46,14 @@ Rating: 4.48 (Ranked 579)
 | Herr Today, Gone Tomorrow | 1.00% | ~23 |
 | Operation Foxley | 1.00% | ~23 |
 | Tinkerer | 0.90% | ~21 |
-| Ghost of Falaise | 0.80% | ~18 |
+| Ghost of Falaise | 0.80% | ~19 |
 | Last Resort | 0.70% | ~16 |
 | Siegebreaker | 0.70% | ~16 |
 | From Paris with Love | 0.60% | ~14 |
 | Burn after reading | 0.60% | ~14 |
 | Souvenir hunter | 0.60% | ~14 |
+| Eagle Eyed | 0.50% | ~12 |
 | Shoot for the Moon | 0.50% | ~12 |
-| Eagle Eyed | 0.40% | ~9 |
 | Up close and personal | 0.40% | ~9 |
 | If You Go Down To The Woods Today | 0.40% | ~9 |
 | Fight Another Day | 0.40% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 579)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,361 (Ranked 147)  
+Progressed: 2,362 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-04 | 2,257 | 2 |
 | 2023-06-05 | 2,307 | 2 |
 | 2023-06-06 | 2,341 | 2 |
-| 2023-06-07 | 2,361 | 2 |
+| 2023-06-07 | 2,362 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

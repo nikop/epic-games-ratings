@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 966,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 6.73,
   "EosHistory": [
@@ -2221,9 +2221,9 @@
       "ID": "1",
       "SetID": "d0g98p",
       "Name": "Once Upon a Time",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 927
+      "UsersEstimate": 937
     },
     {
       "ID": "10",
@@ -2630,8 +2630,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:05:15.2566921+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:06:26.4736155+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:57:19.6913796+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:05:15.2567383+00:00"
+  "LastUpdate_Ratings": "2023-06-07T15:57:45.3929394+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:06:26.4736951+00:00"
 }

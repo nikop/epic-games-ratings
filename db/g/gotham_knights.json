@@ -6,7 +6,7 @@
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
@@ -1412,9 +1412,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63941,
+  "EOS_Progressed": 63949,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 957,
+  "EOS_NewPlayers": 958,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5392,6 +5392,11 @@
       "Time": "2023-06-07T15:05:38.2234837+00:00",
       "NumProgressed": 63941,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-07T16:06:54.2738534+00:00",
+      "NumProgressed": 63949,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 61,
@@ -5817,9 +5822,9 @@
       "ID": "MYSTERY_04",
       "SetID": "4eo5ebm",
       "Name": "Bad Apples in Every Orchard",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 1279
     },
     {
       "ID": "MYSTERY_05",
@@ -5859,7 +5864,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -5890,13 +5895,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63941,
+      "Progressed": 63949,
       "Completed": 94
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34221,
+      "Progressed": 34229,
       "Completed": 2644
     }
   ],
@@ -5904,8 +5909,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-06T15:00:40.7549932+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:05:38.2234832+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:06:54.2738527+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:59:17.6912253+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:05:38.2235474+00:00"
+  "LastUpdate_Ratings": "2023-06-07T16:00:10.1069373+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:06:54.2739432+00:00"
 }

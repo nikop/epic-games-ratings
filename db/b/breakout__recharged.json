@@ -4,7 +4,7 @@
   "ProductSlug": "breakout-recharged",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -190,9 +190,9 @@
       "ID": "ACH_BURNING_BRIDGES",
       "SetID": "5kae3ip",
       "Name": "Burning Bridges",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_CLUSTER_ONE",
@@ -279,8 +279,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-06-07T15:00:16.1578214+00:00",
+  "LastChanged_Achievements": "2023-06-07T16:01:24.2940145+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:31.2403145+00:00",
-  "LastUpdate_Ratings": "2023-06-07T14:57:20.1909302+00:00",
-  "LastUpdate_Achievements": "2023-06-07T15:00:16.157841+00:00"
+  "LastUpdate_Ratings": "2023-06-07T15:57:46.026143+00:00",
+  "LastUpdate_Achievements": "2023-06-07T16:01:24.2940282+00:00"
 }
