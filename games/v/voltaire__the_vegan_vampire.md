@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | So it begins | 99.00% | ~93 |
-| Good to grow | 62.00% | ~58 |
+| Good to grow | 63.00% | ~59 |
 | Fashionista | 43.00% | ~40 |
-| Irrigation not irritation | 37.00% | ~35 |
+| Irrigation not irritation | 38.00% | ~36 |
 | Graduated | 35.00% | ~33 |
 | Night Shift | 23.00% | ~22 |
 | It's about the journey | 14.00% | ~13 |

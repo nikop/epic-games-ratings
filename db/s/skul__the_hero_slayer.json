@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -842,7 +842,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7668,
+  "EOS_Progressed": 7669,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -2407,6 +2407,11 @@
       "Time": "2023-06-07T18:06:30.5319231+00:00",
       "NumProgressed": 7668,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-07T20:06:55.0521635+00:00",
+      "NumProgressed": 7669,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2442,7 +2447,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2506,7 +2511,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "LeoniasFall",
@@ -2546,7 +2551,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2554,7 +2559,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "SkeletonKing",
@@ -2570,7 +2575,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "TheLegendBegins",
@@ -2578,7 +2583,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7131
+      "UsersEstimate": 7132
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2602,22 +2607,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6365
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7668,
+      "Progressed": 7669,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
-  "LastChanged_Achievements": "2023-06-07T19:06:47.204782+00:00",
+  "LastChanged_Achievements": "2023-06-07T20:06:55.0521629+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-07T18:59:53.3152493+00:00",
-  "LastUpdate_Achievements": "2023-06-07T19:06:47.2048096+00:00"
+  "LastUpdate_Ratings": "2023-06-07T19:59:36.355506+00:00",
+  "LastUpdate_Achievements": "2023-06-07T20:06:55.052192+00:00"
 }

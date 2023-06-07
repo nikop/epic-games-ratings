@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | In the Black | 58.00% | ~120 |
 | Starting Skyward | 52.00% | ~108 |
-| Grime is Not Good | 45.00% | ~93 |
+| Grime is Not Good | 46.00% | ~95 |
 | Campaign Launch | 40.00% | ~83 |
 | Floor Galore | 38.00% | ~79 |
 | Dinner Dash | 38.00% | ~79 |
@@ -16,7 +16,7 @@
 | Delegate Maintenance | 33.00% | ~68 |
 | Proper Walls | 32.00% | ~66 |
 | Destination Destiny | 28.00% | ~58 |
-| Happy Tenants | 25.00% | ~52 |
+| Happy Tenants | 26.00% | ~54 |
 | Smooth Service | 24.00% | ~50 |
 | Lux Living | 23.00% | ~48 |
 | Your Prestige is Rising | 23.00% | ~48 |

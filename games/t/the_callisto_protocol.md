@@ -6,9 +6,9 @@ Rating: 4.18 (Ranked 840)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 13.00% | ~1,909 |
-| The Outer Way | 11.00% | ~1,615 |
-| Desperate Times | 10.00% | ~1,468 |
-| Paper Jams | 9.00% | ~1,321 |
+| The Outer Way | 11.00% | ~1,616 |
+| Desperate Times | 10.00% | ~1,469 |
+| Paper Jams | 9.00% | ~1,322 |
 | Chew 'Em Up | 8.00% | ~1,175 |
 | Reforged | 8.00% | ~1,175 |
 | Workplace Hazard | 7.00% | ~1,028 |
@@ -17,17 +17,17 @@ Rating: 4.18 (Ranked 840)
 | Get a Grip | 6.00% | ~881 |
 | Without A Paddle | 6.00% | ~881 |
 | Terminated | 5.00% | ~734 |
-| Two Heads Are Better Than One | 4.00% | ~587 |
-| Float Like A Butterfly | 4.00% | ~587 |
-| In the Pipe, Five by Five | 4.00% | ~587 |
-| Crash Site | 4.00% | ~587 |
-| Power Up | 4.00% | ~587 |
-| Instigator | 4.00% | ~104 |
-| Big Game Hunter | 4.00% | ~104 |
-| You Need a Gun | 3.00% | ~440 |
-| The Commonality | 3.00% | ~440 |
-| What Lies Beneath | 3.00% | ~440 |
-| Full Circle | 3.00% | ~440 |
+| Two Heads Are Better Than One | 4.00% | ~588 |
+| Float Like A Butterfly | 4.00% | ~588 |
+| In the Pipe, Five by Five | 4.00% | ~588 |
+| Crash Site | 4.00% | ~588 |
+| Power Up | 4.00% | ~588 |
+| Instigator | 4.00% | ~105 |
+| Big Game Hunter | 4.00% | ~105 |
+| You Need a Gun | 3.00% | ~441 |
+| The Commonality | 3.00% | ~441 |
+| What Lies Beneath | 3.00% | ~441 |
+| Full Circle | 3.00% | ~441 |
 | Bear Trap | 3.00% | ~78 |
 | I Do Belong Here | 2.00% | ~294 |
 | In Striking Distance | 2.00% | ~294 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,682 (Ranked 103)  
+Progressed: 14,688 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 54 (0.37%) (Ranked 118)
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
 | 2023-06-06 | 14,637 | 54 |
-| 2023-06-07 | 14,682 | 54 |
+| 2023-06-07 | 14,688 | 54 |
 ## Awards
 Max (Amazing Storytelling): 51  (Ranked 387)  
 Sum: 294 (Ranked 328)  

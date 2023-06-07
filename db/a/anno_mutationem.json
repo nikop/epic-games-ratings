@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 622,
+  "EOS_Progressed": 623,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -250,6 +250,11 @@
       "Time": "2023-06-06T09:00:43.6226494+00:00",
       "NumProgressed": 622,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T20:01:51.1900733+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -285,7 +290,7 @@
       "Name": "Big Spender",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Clarity_of_Mind",
@@ -347,9 +352,9 @@
       "ID": "I_just_love_stuff",
       "SetID": "gl7plp",
       "Name": "I just love stuff!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 249
     },
     {
       "ID": "I_think_its_broke",
@@ -429,7 +434,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -469,7 +474,7 @@
       "Name": "The Warlord",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -477,7 +482,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "The_truth_is_out_there",
@@ -507,9 +512,9 @@
       "ID": "Woman on a (side) mission",
       "SetID": "gl7plp",
       "Name": "Woman on a (side) mission",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 25
     },
     {
       "ID": "You_are_the_One",
@@ -525,7 +530,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "posters",
@@ -548,7 +553,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 0
     }
   ],
@@ -556,8 +561,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-07T19:02:06.8963838+00:00",
+  "LastChanged_Achievements": "2023-06-07T20:01:51.1900725+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:46.0234208+00:00",
-  "LastUpdate_Ratings": "2023-06-07T18:58:18.6198378+00:00",
-  "LastUpdate_Achievements": "2023-06-07T19:02:06.8964336+00:00"
+  "LastUpdate_Ratings": "2023-06-07T19:58:00.3589327+00:00",
+  "LastUpdate_Achievements": "2023-06-07T20:01:51.1901075+00:00"
 }

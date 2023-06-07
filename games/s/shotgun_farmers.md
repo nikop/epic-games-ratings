@@ -11,8 +11,8 @@
 | First Blood | 36.00% | ~34 |
 | No Diggity | 35.00% | ~15 |
 | Triple Kill | 31.00% | ~29 |
+| No Asperascope | 29.00% | ~27 |
 | Cornivore | 29.00% | ~27 |
-| No Asperascope | 28.00% | ~26 |
 | Amateur Survivor | 28.00% | ~12 |
 | I Believe I Can Fly | 27.00% | ~25 |
 | Bouncemato | 24.00% | ~11 |

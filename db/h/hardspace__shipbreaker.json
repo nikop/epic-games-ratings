@@ -2,13 +2,13 @@
   "ID": "0208da63c74542c99e8a0837e4e688c3",
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
-  "Ranking_Rating": 295,
+  "Ranking_Rating": 296,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 717,
+  "EOS_Progressed": 718,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -818,6 +818,11 @@
       "Time": "2023-06-07T17:05:33.1420674+00:00",
       "NumProgressed": 717,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T20:01:56.4957184+00:00",
+      "NumProgressed": 718,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -861,7 +866,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -883,9 +888,9 @@
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
       "SetID": "108h92c",
       "Name": "The best thing money can buy",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -909,7 +914,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -989,7 +994,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1005,7 +1010,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1044,7 +1049,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 717,
+      "Progressed": 718,
       "Completed": 0
     }
   ],
@@ -1052,8 +1057,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-07T19:02:12.0129313+00:00",
+  "LastChanged_Achievements": "2023-06-07T20:01:56.4957176+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:38.9499869+00:00",
-  "LastUpdate_Ratings": "2023-06-07T18:58:11.1009763+00:00",
-  "LastUpdate_Achievements": "2023-06-07T19:02:12.0129906+00:00"
+  "LastUpdate_Ratings": "2023-06-07T19:57:52.585115+00:00",
+  "LastUpdate_Achievements": "2023-06-07T20:01:56.495748+00:00"
 }

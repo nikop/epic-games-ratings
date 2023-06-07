@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -225,7 +225,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1720,
+  "EOS_Progressed": 1721,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -1040,6 +1040,11 @@
       "Time": "2023-06-07T16:06:55.9493998+00:00",
       "NumProgressed": 1720,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-07T20:07:29.5782927+00:00",
+      "NumProgressed": 1721,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1049,9 +1054,9 @@
       "ID": "ACHV_01",
       "SetID": "8p5mlmc",
       "Name": "A Little Banged Up",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHV_02",
@@ -1059,15 +1064,15 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ACHV_03",
       "SetID": "8p5mlmc",
       "Name": "Dead Again",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHV_04",
@@ -1091,7 +1096,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHV_07",
@@ -1203,7 +1208,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACHV_21",
@@ -1227,7 +1232,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ACHV_24",
@@ -1243,7 +1248,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHV_26",
@@ -1251,7 +1256,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "ACHV_27",
@@ -1339,7 +1344,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHV_38",
@@ -1355,7 +1360,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "ACHV_40",
@@ -1379,7 +1384,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACHV_43",
@@ -1403,7 +1408,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHV_46",
@@ -1506,7 +1511,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1720,
+      "Progressed": 1721,
       "Completed": 10
     }
   ],
@@ -1514,8 +1519,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-07T19:07:23.2027064+00:00",
+  "LastChanged_Achievements": "2023-06-07T20:07:29.578292+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:57.1438675+00:00",
-  "LastUpdate_Ratings": "2023-06-07T19:01:42.0858975+00:00",
-  "LastUpdate_Achievements": "2023-06-07T19:07:23.2028054+00:00"
+  "LastUpdate_Ratings": "2023-06-07T20:01:25.6465876+00:00",
+  "LastUpdate_Achievements": "2023-06-07T20:07:29.5783535+00:00"
 }

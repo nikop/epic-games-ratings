@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -354,9 +354,9 @@
       "ID": "Award_KillerElite",
       "SetID": "9ojec6n",
       "Name": "Killer Elite",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "Award_LineOfDuty",
@@ -426,9 +426,9 @@
       "ID": "Award_Salvage",
       "SetID": "9ojec6n",
       "Name": "Salvage",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 45
     },
     {
       "ID": "Award_Scavenger",
@@ -450,9 +450,9 @@
       "ID": "Award_SixtySeconds",
       "SetID": "9ojec6n",
       "Name": "Sixty Seconds",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "Award_SoldierLockOn",
@@ -547,8 +547,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-07T19:02:41.9138722+00:00",
+  "LastChanged_Achievements": "2023-06-07T20:03:05.5784369+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:28.8451881+00:00",
-  "LastUpdate_Ratings": "2023-06-07T18:59:04.1034607+00:00",
-  "LastUpdate_Achievements": "2023-06-07T19:02:41.913917+00:00"
+  "LastUpdate_Ratings": "2023-06-07T19:58:46.7228608+00:00",
+  "LastUpdate_Achievements": "2023-06-07T20:03:05.578512+00:00"
 }

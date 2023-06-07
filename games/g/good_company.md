@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,468 |
-| Returning Home: Quick Learner | 26.00% | ~1,283 |
+| Level: Returning Home | 50.00% | ~2,469 |
+| Returning Home: Quick Learner | 26.00% | ~1,284 |
 | Level: Charlie's Circuits | 22.00% | ~1,086 |
 | Level: Rising Markets | 9.00% | ~444 |
 | Peddler | 8.00% | ~395 |
@@ -17,10 +17,10 @@ Number of Ratings: 75  (23.09.2022)
 | Millionaire | 6.00% | ~296 |
 | Data Churn Type II | 5.00% | ~247 |
 | Speedy | 5.00% | ~247 |
-| Extra Life: Wish Granted | 4.00% | ~197 |
-| High Five! | 4.00% | ~197 |
-| Modular Progress | 4.00% | ~197 |
-| Salesperson | 4.00% | ~197 |
+| Extra Life: Wish Granted | 4.00% | ~198 |
+| High Five! | 4.00% | ~198 |
+| Modular Progress | 4.00% | ~198 |
+| Salesperson | 4.00% | ~198 |
 | Campaign: Lesson Learned | 3.00% | ~148 |
 | Level: Bet On Bots | 3.00% | ~148 |
 | Modular Performance | 3.00% | ~148 |
@@ -44,7 +44,7 @@ Number of Ratings: 75  (23.09.2022)
 | Keen Eye | 1.00% | ~49 |
 | Level: Topple The Top | 0.90% | ~44 |
 | Tycoon | 0.90% | ~44 |
-| Bet On Bots: Safety First | 0.80% | ~39 |
+| Bet On Bots: Safety First | 0.80% | ~40 |
 | Merry-Go-Around: Self-Made | 0.60% | ~30 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~30 |
 | Trendsetter | 0.60% | ~30 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,936 (Ranked 127)  
+Progressed: 4,938 (Ranked 127)  
 Completed: 1 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 1 (0.02%) (Ranked 195)
 | 2023-06-04 | 4,912 | 1 |
 | 2023-06-05 | 4,917 | 1 |
 | 2023-06-06 | 4,929 | 1 |
-| 2023-06-07 | 4,936 | 1 |
+| 2023-06-07 | 4,938 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

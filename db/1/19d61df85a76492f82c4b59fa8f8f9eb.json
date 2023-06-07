@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 25,
+  "Ranking_EOS_Completed": 15,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 28,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 27,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.14,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 10.71,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -161,6 +161,11 @@
       "Time": "2023-06-07T16:03:50.2014277+00:00",
       "NumProgressed": 28,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-07T20:03:46.5072177+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 6,
@@ -210,9 +215,9 @@
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 165,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -220,13 +225,13 @@
       "ID": "4ocea6d",
       "IsBase": true,
       "Progressed": 28,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-06-07T19:03:34.3903246+00:00",
+  "LastChanged_Achievements": "2023-06-07T20:03:46.5072168+00:00",
   "LastUpdate_AppInfo": "2023-06-01T09:56:58.8480789+00:00",
-  "LastUpdate_Ratings": "2023-06-07T18:57:28.7565049+00:00",
-  "LastUpdate_Achievements": "2023-06-07T19:03:34.3903363+00:00"
+  "LastUpdate_Ratings": "2023-06-07T19:57:10.0566243+00:00",
+  "LastUpdate_Achievements": "2023-06-07T20:03:46.507227+00:00"
 }

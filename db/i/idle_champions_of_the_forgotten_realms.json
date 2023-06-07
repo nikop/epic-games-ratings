@@ -4144,9 +4144,9 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 90036,
+  "EOS_Progressed": 90043,
   "EOS_Completed": 1922,
-  "EOS_NewPlayers": 713,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9039,6 +9039,11 @@
       "Time": "2023-06-07T19:07:28.9311799+00:00",
       "NumProgressed": 90036,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-06-07T20:07:35.4463189+00:00",
+      "NumProgressed": 90043,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 493,
@@ -10488,9 +10493,9 @@
       "ID": "objective_completed_233",
       "SetID": "415jc5c",
       "Name": "Thine Bounty is Mine!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_235",
@@ -11752,9 +11757,9 @@
       "ID": "objective_completed_620",
       "SetID": "415jc5c",
       "Name": "An Illithid Undertaking",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_621",
@@ -12993,21 +12998,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56310,
-      "Completed": 2775
+      "Progressed": 56317,
+      "Completed": 2776
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90036,
+      "Progressed": 90043,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-07T17:02:36.8093481+00:00",
-  "LastChanged_Achievements": "2023-06-07T19:07:28.9311791+00:00",
+  "LastChanged_Achievements": "2023-06-07T20:07:35.4463179+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-07T18:58:49.2945349+00:00",
-  "LastUpdate_Achievements": "2023-06-07T19:07:28.9344763+00:00"
+  "LastUpdate_Ratings": "2023-06-07T19:58:31.9004442+00:00",
+  "LastUpdate_Achievements": "2023-06-07T20:07:35.4495925+00:00"
 }

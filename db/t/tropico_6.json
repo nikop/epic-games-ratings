@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -894,9 +894,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3462,
+  "EOS_Progressed": 3464,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3879,6 +3879,11 @@
       "Time": "2023-06-07T19:02:15.2934947+00:00",
       "NumProgressed": 3462,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T20:01:59.9349275+00:00",
+      "NumProgressed": 3464,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3952,9 +3957,9 @@
       "ID": "ACH_EP_BUREAUCRAZY",
       "SetID": "1p8ab95",
       "Name": "Computer Says \u0022No\u0022",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -4026,7 +4031,7 @@
       "Name": "Apocalypso",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -4042,7 +4047,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -4050,7 +4055,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2631
+      "UsersEstimate": 2633
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4074,7 +4079,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -4146,7 +4151,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4162,7 +4167,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4209,15 +4214,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3462,
+      "Progressed": 3464,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-05T19:00:08.7652267+00:00",
-  "LastChanged_Achievements": "2023-06-07T19:02:15.2934938+00:00",
+  "LastChanged_Achievements": "2023-06-07T20:01:59.9349268+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-07T19:01:23.0512697+00:00",
-  "LastUpdate_Achievements": "2023-06-07T19:02:15.2936061+00:00"
+  "LastUpdate_Ratings": "2023-06-07T20:01:06.400013+00:00",
+  "LastUpdate_Achievements": "2023-06-07T20:01:59.9350095+00:00"
 }

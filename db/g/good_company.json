@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4936,
+  "EOS_Progressed": 4938,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1374,6 +1374,11 @@
       "Time": "2023-06-07T19:07:19.3290601+00:00",
       "NumProgressed": 4936,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T20:07:25.8943955+00:00",
+      "NumProgressed": 4938,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1497,7 +1502,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2469
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1537,7 +1542,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "ach_campaign_special10",
@@ -1545,7 +1550,7 @@
       "Name": "Bet On Bots: Safety First",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_campaign_special11",
@@ -1641,7 +1646,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ach_campaign_special6",
@@ -1729,7 +1734,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ach_frp_high_networth",
@@ -1745,7 +1750,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -1777,7 +1782,7 @@
       "Name": "Salesperson",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ach_frp_many_products3",
@@ -1992,15 +1997,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4936,
+      "Progressed": 4938,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-07T19:07:19.3290593+00:00",
+  "LastChanged_Achievements": "2023-06-07T20:07:25.8943943+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-07T18:59:54.5090242+00:00",
-  "LastUpdate_Achievements": "2023-06-07T19:07:19.3292456+00:00"
+  "LastUpdate_Ratings": "2023-06-07T19:59:37.5029247+00:00",
+  "LastUpdate_Achievements": "2023-06-07T20:07:25.89448+00:00"
 }

@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 90.00% | ~160 |
-| Terminated I | 70.00% | ~125 |
-| Challenge Accepted | 66.00% | ~117 |
-| Nanonic I | 65.00% | ~116 |
-| Unlocked and Loaded | 63.00% | ~112 |
-| Rookie | 49.00% | ~87 |
-| Terminated II | 49.00% | ~87 |
-| Challenge Mastered | 26.00% | ~46 |
-| Terminated III | 26.00% | ~46 |
-| The City | 24.00% | ~43 |
-| Nanonic II | 24.00% | ~43 |
-| Supply Run | 15.00% | ~27 |
-| Up Close And Personal | 15.00% | ~27 |
-| Nanonic III | 12.00% | ~21 |
-| Cybernetic | 11.00% | ~20 |
-| The Bigger They Are | 10.00% | ~18 |
-| Starship Docks | 9.00% | ~16 |
+| Augmented | 90.00% | ~166 |
+| Terminated I | 70.00% | ~129 |
+| Challenge Accepted | 68.00% | ~125 |
+| Nanonic I | 64.00% | ~118 |
+| Unlocked and Loaded | 63.00% | ~116 |
+| Terminated II | 49.00% | ~90 |
+| Rookie | 47.00% | ~86 |
+| Terminated III | 27.00% | ~50 |
+| Challenge Mastered | 26.00% | ~48 |
+| The City | 26.00% | ~48 |
+| Nanonic II | 25.00% | ~46 |
+| Supply Run | 16.00% | ~29 |
+| Up Close And Personal | 14.00% | ~26 |
+| Nanonic III | 11.00% | ~20 |
+| Cybernetic | 10.00% | ~18 |
+| The Bigger They Are | 9.00% | ~17 |
+| Starship Docks | 9.00% | ~17 |
 | Eden Heights | 5.00% | ~9 |
 | Fully Modded | 5.00% | ~9 |
-| Inner Core | 3.00% | ~5 |
-| Integration | 3.00% | ~5 |
-| Outer Core | 3.00% | ~5 |
-| Ripperdoc | 3.00% | ~5 |
-| Trickshot | 3.00% | ~5 |
+| Inner Core | 3.00% | ~6 |
+| Integration | 3.00% | ~6 |
+| Outer Core | 3.00% | ~6 |
+| Ripperdoc | 3.00% | ~6 |
+| Trickshot | 3.00% | ~6 |
 | Destruction | 1.00% | ~2 |
 | Hard Boiled | 1.00% | ~2 |
-| Cyborg | 0.60% | ~1 |
+| Cyborg | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178 (Ranked 253)  
+Progressed: 184 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 88 | 0 |
 | 2023-06-04 | 90 | 0 |
 | 2023-06-06 | 126 | 0 |
-| 2023-06-07 | 178 | 0 |
+| 2023-06-07 | 184 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

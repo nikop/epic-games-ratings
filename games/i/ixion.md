@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 452)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 15.00% | ~372 |
+| Wakey Wakey | 15.00% | ~373 |
 | Infinite Growth... | 13.00% | ~323 |
 | Sputnik 2049 | 13.00% | ~323 |
 | Without Breaking Some Eggs... | 12.00% | ~298 |
@@ -21,12 +21,12 @@ Rating: 4.56 (Ranked 452)
 | A Hunk of Junk | 5.00% | ~124 |
 | Fully Recycled | 5.00% | ~124 |
 | Exceeding Capacity | 4.00% | ~99 |
-| Man's Best Friend | 3.00% | ~74 |
-| Power Outage | 3.00% | ~74 |
-| Access Granted | 3.00% | ~74 |
-| Necessary Enhancement | 3.00% | ~74 |
-| Convenient Transport | 3.00% | ~74 |
-| Please Make it Stop! | 3.00% | ~74 |
+| Man's Best Friend | 3.00% | ~75 |
+| Power Outage | 3.00% | ~75 |
+| Access Granted | 3.00% | ~75 |
+| Necessary Enhancement | 3.00% | ~75 |
+| Convenient Transport | 3.00% | ~75 |
+| Please Make it Stop! | 3.00% | ~75 |
 | Oats | 2.00% | ~50 |
 | Sightseeing | 2.00% | ~50 |
 | In Dolos We Trust | 2.00% | ~50 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 452)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,483 (Ranked 145)  
+Progressed: 2,484 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 2,441 | 0 |
 | 2023-06-05 | 2,460 | 0 |
 | 2023-06-06 | 2,471 | 0 |
-| 2023-06-07 | 2,483 | 0 |
+| 2023-06-07 | 2,484 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

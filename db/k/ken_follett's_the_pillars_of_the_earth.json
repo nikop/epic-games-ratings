@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13057,
+  "EOS_Progressed": 13060,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3624,6 +3624,11 @@
       "Time": "2023-06-07T19:06:50.0426542+00:00",
       "NumProgressed": 13057,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-07T20:06:57.8697803+00:00",
+      "NumProgressed": 13060,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 41,
@@ -3635,7 +3640,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "tpote_achievement_10",
@@ -3643,7 +3648,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "tpote_achievement_11",
@@ -3675,7 +3680,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4439
+      "UsersEstimate": 4440
     },
     {
       "ID": "tpote_achievement_15",
@@ -3707,7 +3712,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "tpote_achievement_19",
@@ -3723,7 +3728,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4439
+      "UsersEstimate": 4440
     },
     {
       "ID": "tpote_achievement_20",
@@ -3739,7 +3744,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4048
+      "UsersEstimate": 4049
     },
     {
       "ID": "tpote_achievement_22",
@@ -3747,7 +3752,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "tpote_achievement_23",
@@ -3763,7 +3768,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "tpote_achievement_25",
@@ -3795,7 +3800,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "tpote_achievement_29",
@@ -3811,7 +3816,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4310
     },
     {
       "ID": "tpote_achievement_30",
@@ -3827,7 +3832,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "tpote_achievement_32",
@@ -3899,7 +3904,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5484
+      "UsersEstimate": 5485
     },
     {
       "ID": "tpote_achievement_40",
@@ -3923,7 +3928,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "tpote_achievement_6",
@@ -3955,22 +3960,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13057,
+      "Progressed": 13060,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-07T19:06:50.0426533+00:00",
+  "LastChanged_Achievements": "2023-06-07T20:06:57.8697795+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.2103721+00:00",
-  "LastUpdate_Ratings": "2023-06-07T19:01:09.2585652+00:00",
-  "LastUpdate_Achievements": "2023-06-07T19:06:50.0427447+00:00"
+  "LastUpdate_Ratings": "2023-06-07T20:00:52.5189169+00:00",
+  "LastUpdate_Achievements": "2023-06-07T20:06:57.8698671+00:00"
 }

@@ -6,8 +6,10 @@
 | ---- | ---------- | ----- |
 | The Steel Shadow | 3.00% | ~19 |
 | Treasure Trove | 3.00% | ~19 |
+| The Man Who Shattered Time | 3.00% | ~19 |
 | Make Up For Lost Time | 3.00% | ~19 |
 | Cartographer | 3.00% | ~19 |
+| Breaking Down Barriers | 3.00% | ~19 |
 | Immaculate Aim | 3.00% | ~19 |
 | Chaincrawler Explorer | 2.00% | ~12 |
 | Like Clockwork | 2.00% | ~12 |
@@ -15,13 +17,11 @@
 | Family Memories | 2.00% | ~12 |
 | The Mysterious Stranger | 2.00% | ~12 |
 | The Betrayer | 2.00% | ~12 |
-| The Man Who Shattered Time | 2.00% | ~12 |
 | Whiz Kid | 2.00% | ~12 |
 | Rail Rat | 2.00% | ~12 |
 | The Loose Cannon | 2.00% | ~12 |
 | The Harder They Fall | 2.00% | ~12 |
 | No, Thanks! | 2.00% | ~12 |
-| Breaking Down Barriers | 2.00% | ~12 |
 | The Wicked Twins | 2.00% | ~12 |
 | The Prince in Heels | 2.00% | ~12 |
 | Time Heals All Wounds | 2.00% | ~12 |
@@ -32,6 +32,7 @@
 | The Brass Boss | 2.00% | ~12 |
 | The Family Fortune | 2.00% | ~12 |
 | Right On Time | 1.00% | ~6 |
+| Sartorialist | 1.00% | ~6 |
 | Cultivair Explorer | 1.00% | ~6 |
 | Entresol Explorer | 1.00% | ~6 |
 | Factorywood Explorer | 1.00% | ~6 |
@@ -41,11 +42,10 @@
 | Immaculate Aim | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
-| Sartorialist | 0.80% | ~5 |
+| Corin Goes Home | 0.80% | ~5 |
 | Fairgrounds Explorer | 0.80% | ~5 |
-| Corin Goes Home | 0.60% | ~4 |
-| Golem Hunter | 0.60% | ~4 |
-| Rungs Was Right | 0.60% | ~4 |
+| Golem Hunter | 0.80% | ~5 |
+| Rungs Was Right | 0.80% | ~5 |
 | Syron for Hope | 0.60% | ~4 |
 | Hexlock for Protection | 0.30% | ~2 |
 | Fitting In | 0.30% | ~2 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 620 (Ranked 193)  
+Progressed: 621 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 602 | 0 |
 | 2023-06-05 | 608 | 0 |
 | 2023-06-06 | 615 | 0 |
-| 2023-06-07 | 620 | 0 |
+| 2023-06-07 | 621 | 0 |

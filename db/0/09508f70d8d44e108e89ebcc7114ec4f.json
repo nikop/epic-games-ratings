@@ -598,9 +598,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "fish_trade",
@@ -630,9 +630,9 @@
       "ID": "hope_farm",
       "SetID": "ap7g2g4",
       "Name": "Hope farm",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "marketplace",
@@ -710,9 +710,9 @@
       "ID": "village",
       "SetID": "ap7g2g4",
       "Name": "Village",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "water_platform",
@@ -734,9 +734,9 @@
       "ID": "wood",
       "SetID": "ap7g2g4",
       "Name": "Wood",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
@@ -749,8 +749,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-07T19:03:41.4788622+00:00",
+  "LastChanged_Achievements": "2023-06-07T20:04:03.3847565+00:00",
   "LastUpdate_AppInfo": "2023-06-01T11:57:15.3558567+00:00",
-  "LastUpdate_Ratings": "2023-06-07T18:57:36.2863589+00:00",
-  "LastUpdate_Achievements": "2023-06-07T19:03:41.4788967+00:00"
+  "LastUpdate_Ratings": "2023-06-07T19:57:17.5655995+00:00",
+  "LastUpdate_Achievements": "2023-06-07T20:04:03.3847785+00:00"
 }

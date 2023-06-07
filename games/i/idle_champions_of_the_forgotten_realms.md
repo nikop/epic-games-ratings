@@ -145,6 +145,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.20% | ~180 |
 | Chatty Nobles | 0.20% | ~180 |
 | Modron Assistance | 0.20% | ~180 |
+| Thine Bounty is Mine! | 0.20% | ~113 |
 | The Botched Kidnapping | 0.20% | ~180 |
 | Haaave You Met Asmodeus? | 0.20% | ~180 |
 | Domesticated Owlbears | 0.20% | ~180 |
@@ -192,6 +193,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Avernus Frozen Over | 0.20% | ~113 |
 | Market Fluctuations | 0.20% | ~180 |
 | Once More Into The Breach | 0.20% | ~180 |
+| An Illithid Undertaking | 0.20% | ~113 |
 | Déjà Vu All Over Again | 0.20% | ~113 |
 | Into The Fire | 0.20% | ~113 |
 | Dreamscape | 0.20% | ~113 |
@@ -302,7 +304,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~90 |
 | Poor Fortune | 0.10% | ~90 |
 | Relentless Misfortune | 0.10% | ~90 |
-| Thine Bounty is Mine! | 0.10% | ~56 |
 | This Quest Stinks! | 0.10% | ~56 |
 | Hold for the Red Wizards | 0.10% | ~90 |
 | Form Ranks | 0.10% | ~90 |
@@ -402,7 +403,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ettercap Swarm | 0.10% | ~56 |
 | Smooth Talkers | 0.10% | ~56 |
 | Relay Race | 0.10% | ~90 |
-| An Illithid Undertaking | 0.10% | ~56 |
 | An Illithid Ambush | 0.10% | ~56 |
 | Misty Undermountain | 0.10% | ~56 |
 | An Owlbear of an Undertaking | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,036 (Ranked 62)  
+Progressed: 90,043 (Ranked 62)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 90,036 | 1,922 |
+| 2023-06-07 | 90,043 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,047 (Ranked 37)  
