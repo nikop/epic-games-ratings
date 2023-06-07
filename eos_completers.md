@@ -34,14 +34,14 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.08% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
-| 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
-| 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
-| 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
-| 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
-| 41 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.64% |
-| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.60% |
+| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.50% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.07% |
+| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
+| 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
+| 39 | [Doodle God](games/d/doodle_god.md) | 3.81% |
+| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
+| 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
+| 42 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.64% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
 | 45 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
@@ -72,7 +72,7 @@
 | 70 | [Sifu](games/s/sifu.md) | 1.80% |
 | 71 | [Poosh XL](games/p/poosh_xl.md) | 1.68% |
 | 72 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
-| 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
+| 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.62% |
 | 74 | [Somerville](games/s/somerville.md) | 1.59% |
 | 75 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
 | 75 | [Night Book](games/n/night_book.md) | 1.54% |
@@ -89,7 +89,7 @@
 | 86 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 88 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
 | 89 | [Late Shift](games/l/late_shift.md) | 1.00% |
-| 90 | [Five Dates](games/f/five_dates.md) | 0.98% |
+| 90 | [Five Dates](games/f/five_dates.md) | 0.97% |
 | 91 | [Sable](games/s/sable.md) | 0.94% |
 | 92 | [Hades](games/h/hades.md) | 0.89% |
 | 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
