@@ -26,8 +26,8 @@
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
 | 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.41% |
 | 26 | [Scorn](games/s/scorn.md) | 6.87% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.75% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.73% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.74% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.71% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -96,8 +96,8 @@
 | 94 | [Adios](games/a/adios.md) | 0.85% |
 | 95 | [Poosh XL](games/p/poosh_xl.md) | 0.84% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
-| 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.80% |
-| 98 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.79% |
+| 97 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.79% |
+| 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
 | 99 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.77% |
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.76% |
 | 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
