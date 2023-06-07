@@ -2,12 +2,12 @@
   "ID": "calluna",
   "Name": "Control",
   "ProductSlug": "control",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
@@ -3494,6 +3494,6 @@
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
   "LastChanged": "2023-06-05T21:58:30.5862725+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:42.5835633+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:58:21.2407981+00:00",
+  "LastUpdate_Ratings": "2023-06-07T02:20:26.4990616+00:00",
   "LastUpdate_Achievements": "2023-06-07T00:00:23.1690808+00:00"
 }

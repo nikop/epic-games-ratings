@@ -2,12 +2,12 @@
   "ID": "34f7e1e275924bb6a90074920f9c1696",
   "Name": "Assassin\u0027s Creed Rogue Standard Edition",
   "ProductSlug": "assassins-creed-rogue",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 422,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-03-25T15:00:00+00:00",
@@ -583,6 +583,6 @@
   "FirstSeen": "2022-07-22T20:29:01.0113458+00:00",
   "LastChanged": "2023-06-03T03:57:28.7932619+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:45.2879218+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:57:40.5804168+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:03:21.925714+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:19:41.6612542+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:25:28.3629124+00:00"
 }

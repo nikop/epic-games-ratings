@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 421)  
+Rating: 4.58 (Ranked 422)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,9 +25,9 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 8.00% | ~229 |
 | Opportunist | 7.00% | ~200 |
 | Hold Your Ground | 6.00% | ~172 |
+| Daemonkeeper | 4.00% | ~115 |
 | A Gift Spurned | 4.00% | ~115 |
 | Long Distance Call | 4.00% | ~115 |
-| Daemonkeeper | 3.00% | ~86 |
 | Corruption Cleanser | 3.00% | ~86 |
 | Mind Like a Fortress | 3.00% | ~86 |
 | Harvest No More | 3.00% | ~86 |

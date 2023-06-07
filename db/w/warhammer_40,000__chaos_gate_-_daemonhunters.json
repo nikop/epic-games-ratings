@@ -2,12 +2,12 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 422,
   "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -530,7 +530,7 @@
   ],
   "EOS_Progressed": 2864,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1819,9 +1819,9 @@
       "ID": "KadexCaptured",
       "SetID": "3jha1np",
       "Name": "Daemonkeeper",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 115
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -2153,8 +2153,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-31T02:19:57.8956226+00:00",
-  "LastChanged_Achievements": "2023-06-07T00:05:40.5177731+00:00",
+  "LastChanged_Achievements": "2023-06-07T02:27:47.7026287+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:58:31.6301482+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:05:40.5178324+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:20:37.6088956+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:27:47.7026862+00:00"
 }

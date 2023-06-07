@@ -14,11 +14,12 @@
 | Tactician | 3.00% | ~3 |
 | Breached | 3.00% | ~3 |
 | Fight Another Day | 3.00% | ~3 |
+| Scholar | 2.00% | ~2 |
 | The More the Merrier | 2.00% | ~2 |
 | Bounty Hunter | 1.00% | ~1 |
-| Scholar | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
 | Harbinger | 1.00% | ~1 |
+| Acquaintance | 1.00% | ~1 |
 | Tail-wind | 1.00% | ~1 |
 | Taskmaster | 1.00% | ~1 |
 | Pilgrimage's End | 1.00% | ~1 |
@@ -54,7 +55,6 @@
 | Diplomat | 0.00% | ~0 |
 | Factotum | 0.00% | ~0 |
 | The Voice of Hereafter | 0.00% | ~0 |
-| Acquaintance | 0.00% | ~0 |
 | Despised | 0.00% | ~0 |
 | Conqueror | 0.00% | ~0 |
 | Forager | 0.00% | ~0 |

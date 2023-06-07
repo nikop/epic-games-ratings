@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.28,
+  "EOS_Completed_Percentage": 3.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -398,6 +398,11 @@
       "Time": "2023-06-06T02:25:55.6131782+00:00",
       "NumProgressed": 122,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-07T02:25:30.3807017+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -417,7 +422,7 @@
       "Name": "Solved second case",
       "Percentage": 84,
       "XP": 90,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "10",
@@ -433,7 +438,7 @@
       "Name": "Solved third case",
       "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "3",
@@ -455,7 +460,7 @@
       "ID": "5",
       "SetID": "acl54ke",
       "Name": "Solved sixth case",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 41
     },
@@ -471,15 +476,15 @@
       "ID": "7",
       "SetID": "acl54ke",
       "Name": "Solved eighth case",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "8",
       "SetID": "acl54ke",
       "Name": "Solved ninth case",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 30
     },
@@ -489,29 +494,29 @@
       "Name": "Solved tenth case",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 4
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 69,
-      "Completed": 69
+      "Progressed": 70,
+      "Completed": 70
     }
   ],
   "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-06-07T00:03:23.9818791+00:00",
+  "LastChanged_Achievements": "2023-06-07T02:25:30.380701+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.2051339+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:58:33.7404693+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:03:23.9818891+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:20:41.7664101+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:25:30.380714+00:00"
 }

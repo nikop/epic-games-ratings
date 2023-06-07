@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 960,
+  "EOS_Progressed": 962,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -683,6 +683,11 @@
       "Time": "2023-06-06T15:07:09.7213224+00:00",
       "NumProgressed": 960,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T02:27:37.3594474+00:00",
+      "NumProgressed": 962,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -726,7 +731,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 645
     },
     {
       "ID": "06",
@@ -734,7 +739,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 616
     },
     {
       "ID": "07",
@@ -742,7 +747,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "08",
@@ -758,7 +763,7 @@
       "Name": "Awakening",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "10",
@@ -822,7 +827,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "18",
@@ -830,7 +835,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "19",
@@ -870,14 +875,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 960,
+      "Progressed": 962,
       "Completed": 0
     }
   ],
@@ -885,8 +890,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-07T00:05:29.8352909+00:00",
+  "LastChanged_Achievements": "2023-06-07T02:27:37.359447+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:05.6191061+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:59:20.0476928+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:05:29.8353081+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:21:31.1323641+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:27:37.3594666+00:00"
 }

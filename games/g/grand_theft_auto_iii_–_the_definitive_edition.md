@@ -5,20 +5,20 @@ Rating: 4.14 (Ranked 861)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~5,135 |
-| Disposing of the Evidence | 36.00% | ~2,227 |
-| Without a Scratch | 32.00% | ~1,980 |
-| Wreckless Driving | 27.00% | ~1,670 |
-| A Marked Man | 24.00% | ~1,485 |
-| Street Sweeper | 17.00% | ~1,052 |
-| Liberty City Minute | 16.00% | ~990 |
-| Offshore Delivery | 12.00% | ~742 |
+| First Day on the Job | 83.00% | ~5,139 |
+| Disposing of the Evidence | 36.00% | ~2,229 |
+| Without a Scratch | 32.00% | ~1,981 |
+| Wreckless Driving | 27.00% | ~1,672 |
+| A Marked Man | 24.00% | ~1,486 |
+| Street Sweeper | 17.00% | ~1,053 |
+| Liberty City Minute | 16.00% | ~991 |
+| Offshore Delivery | 12.00% | ~743 |
 | Dirty Money | 11.00% | ~681 |
 | By a Mile | 9.00% | ~557 |
 | Right-hand Man | 9.00% | ~557 |
 | Not So Fast | 8.00% | ~495 |
-| A Gift from the King | 6.00% | ~371 |
-| Full Artillery | 4.00% | ~247 |
+| A Gift from the King | 6.00% | ~372 |
+| Full Artillery | 4.00% | ~248 |
 | Mob Boss | 2.00% | ~124 |
 | Splish Splash | 2.00% | ~124 |
 | Liberty City Secrets | 2.00% | ~124 |
@@ -31,11 +31,11 @@ Rating: 4.14 (Ranked 861)
 | Planned Ahead | 0.90% | ~56 |
 | Wheels Up | 0.90% | ~56 |
 | Man Toyz | 0.90% | ~56 |
-| Furious First Responder | 0.80% | ~49 |
+| Furious First Responder | 0.80% | ~50 |
 | Is That All You've Got? | 0.70% | ~43 |
 | King of Liberty City | 0.50% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,187 (Ranked 121)  
+Progressed: 6,192 (Ranked 121)  
 Completed: 31 (0.50%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 31 (0.50%) (Ranked 112)
 | 2023-06-04 | 6,059 | 31 |
 | 2023-06-05 | 6,123 | 31 |
 | 2023-06-06 | 6,185 | 31 |
-| 2023-06-07 | 6,187 | 31 |
+| 2023-06-07 | 6,192 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

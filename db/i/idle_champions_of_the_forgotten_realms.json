@@ -4138,10 +4138,10 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 89984,
+  "EOS_Progressed": 89992,
   "EOS_Completed": 1921,
-  "EOS_NewPlayers": 722,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 725,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -8943,6 +8943,11 @@
       "Time": "2023-06-07T00:05:46.7121717+00:00",
       "NumProgressed": 89984,
       "NumCompleted": 1921
+    },
+    {
+      "Time": "2023-06-07T02:27:54.068571+00:00",
+      "NumProgressed": 89992,
+      "NumCompleted": 1921
     }
   ],
   "TotalAchievements": 493,
@@ -9824,9 +9829,9 @@
       "ID": "objective_completed_1203",
       "SetID": "415jc5c",
       "Name": "Checkmate",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 281
     },
     {
       "ID": "objective_completed_1204",
@@ -12897,21 +12902,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56258,
+      "Progressed": 56266,
       "Completed": 2775
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89984,
+      "Progressed": 89992,
       "Completed": 1921
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T13:58:26.881905+00:00",
-  "LastChanged_Achievements": "2023-06-07T00:05:46.7121713+00:00",
+  "LastChanged_Achievements": "2023-06-07T02:27:54.0685705+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:58:01.9454031+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:05:46.7145443+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:20:03.4363927+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:27:54.0708954+00:00"
 }

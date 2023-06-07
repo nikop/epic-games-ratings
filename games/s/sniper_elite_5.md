@@ -6,8 +6,8 @@ Rating: 4.45 (Ranked 616)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 27.00% | ~632 |
-| Confirming Suspicions | 23.00% | ~538 |
-| The Kraken Wakes | 18.00% | ~421 |
+| Confirming Suspicions | 23.00% | ~539 |
+| The Kraken Wakes | 18.00% | ~422 |
 | It's Starting to Crack | 15.00% | ~351 |
 | Lord of War | 13.00% | ~304 |
 | Change the Channel | 13.00% | ~304 |
@@ -23,10 +23,10 @@ Rating: 4.45 (Ranked 616)
 | Enemy at the Gates | 7.00% | ~164 |
 | Gunslinger | 7.00% | ~164 |
 | Sharpshooter | 7.00% | ~164 |
-| Opposing Force | 6.00% | ~140 |
-| Die Nussknacker Sweet! | 6.00% | ~140 |
-| Der Geist | 6.00% | ~140 |
-| Snake in the Grass | 6.00% | ~140 |
+| Opposing Force | 6.00% | ~141 |
+| Die Nussknacker Sweet! | 6.00% | ~141 |
+| Der Geist | 6.00% | ~141 |
+| Snake in the Grass | 6.00% | ~141 |
 | Climbing the Ladder | 5.00% | ~117 |
 | No Stone Unturned | 5.00% | ~117 |
 | Fields of Glory | 5.00% | ~117 |
@@ -48,10 +48,10 @@ Rating: 4.45 (Ranked 616)
 | Tinkerer | 0.80% | ~19 |
 | Ghost of Falaise | 0.80% | ~18 |
 | Siegebreaker | 0.70% | ~16 |
+| From Paris with Love | 0.60% | ~14 |
+| Burn after reading | 0.60% | ~14 |
 | Last Resort | 0.60% | ~14 |
-| From Paris with Love | 0.50% | ~12 |
-| Burn after reading | 0.50% | ~12 |
-| Souvenir hunter | 0.40% | ~9 |
+| Souvenir hunter | 0.50% | ~12 |
 | Eagle Eyed | 0.40% | ~9 |
 | Up close and personal | 0.40% | ~9 |
 | Shoot for the Moon | 0.40% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 616)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,341 (Ranked 147)  
+Progressed: 2,342 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-04 | 2,257 | 2 |
 | 2023-06-05 | 2,307 | 2 |
 | 2023-06-06 | 2,341 | 2 |
+| 2023-06-07 | 2,342 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

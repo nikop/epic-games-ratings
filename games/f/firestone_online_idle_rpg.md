@@ -5,22 +5,22 @@ Rating: 4.00 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,230 |
-| World Map | 80.00% | ~1,047 |
-| Temple of Eternals | 57.00% | ~746 |
-| Prestigious | 53.00% | ~694 |
-| Fellowship Power | 41.00% | ~537 |
-| Guild Power | 24.00% | ~314 |
-| Prestigious x10 | 21.00% | ~275 |
+| Victor | 94.00% | ~1,233 |
+| World Map | 80.00% | ~1,050 |
+| Temple of Eternals | 57.00% | ~748 |
+| Prestigious | 53.00% | ~695 |
+| Fellowship Power | 41.00% | ~538 |
+| Guild Power | 24.00% | ~315 |
+| Prestigious x10 | 21.00% | ~276 |
 | The game is on | 18.00% | ~236 |
 | Exotic Merchant | 17.00% | ~223 |
-| Dragon Clicker | 16.00% | ~209 |
-| Miner Clicker | 16.00% | ~209 |
-| Inspection | 15.00% | ~196 |
-| Full Party | 14.00% | ~183 |
-| Dragon Master | 13.00% | ~170 |
-| Enlightenment | 13.00% | ~170 |
-| Hero inspection | 13.00% | ~170 |
+| Dragon Clicker | 16.00% | ~210 |
+| Miner Clicker | 16.00% | ~210 |
+| Inspection | 15.00% | ~197 |
+| Full Party | 14.00% | ~184 |
+| Dragon Master | 13.00% | ~171 |
+| Enlightenment | 13.00% | ~171 |
+| Hero inspection | 13.00% | ~171 |
 | Lieutenant | 12.00% | ~157 |
 | Milestone collector | 11.00% | ~144 |
 | Mysterious Rock | 11.00% | ~144 |
@@ -38,17 +38,17 @@ Rating: 4.00 (Ranked 897)
 | Doing My Part | 6.00% | ~79 |
 | Frostfire Liberator | 6.00% | ~79 |
 | Moving Up The Ladder | 6.00% | ~79 |
-| Four Leaf Clover | 5.00% | ~65 |
-| Here We Go Again | 5.00% | ~65 |
-| The Expeditioner | 5.00% | ~65 |
-| The father of Dragons | 5.00% | ~65 |
-| Trader | 5.00% | ~65 |
-| Weekly Quest Completionist | 5.00% | ~65 |
+| Four Leaf Clover | 5.00% | ~66 |
+| Here We Go Again | 5.00% | ~66 |
+| The Expeditioner | 5.00% | ~66 |
+| The father of Dragons | 5.00% | ~66 |
+| Trader | 5.00% | ~66 |
 | Ancient Knowledge | 4.00% | ~52 |
 | Background Story | 4.00% | ~52 |
 | How Do You Turn This On? | 4.00% | ~52 |
 | Master Enchanter | 4.00% | ~52 |
 | Missions Dedication | 4.00% | ~52 |
+| Weekly Quest Completionist | 4.00% | ~52 |
 | Dragon Slayer | 3.00% | ~39 |
 | Enchanting skill | 3.00% | ~39 |
 | Engineer Mastery | 3.00% | ~39 |
@@ -81,7 +81,7 @@ Rating: 4.00 (Ranked 897)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,309 (Ranked 162)  
+Progressed: 1,312 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 1 (0.08%) (Ranked 173)
 | 2023-06-04 | 1,285 | 1 |
 | 2023-06-05 | 1,299 | 1 |
 | 2023-06-06 | 1,309 | 1 |
+| 2023-06-07 | 1,312 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

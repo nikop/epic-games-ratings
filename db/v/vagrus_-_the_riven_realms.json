@@ -370,9 +370,9 @@
       "ID": "Vanilla_CodexTier2",
       "SetID": "27kik8p",
       "Name": "Scholar",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Vanilla_CodexTier3",
@@ -578,9 +578,9 @@
       "ID": "Vanilla_FirstFactionTier3",
       "SetID": "27kik8p",
       "Name": "Acquaintance",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_FirstFactionTier5Neg",
@@ -1043,8 +1043,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-06-07T00:05:33.4556851+00:00",
+  "LastChanged_Achievements": "2023-06-07T02:27:40.9329402+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:04.378109+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:58:37.1366383+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:05:33.4558031+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:20:45.2317708+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:27:40.9330461+00:00"
 }

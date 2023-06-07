@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1126,9 +1126,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 238
+      "UsersEstimate": 242
     },
     {
       "ID": "MQ02_1",
@@ -1254,17 +1254,17 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 157
+      "UsersEstimate": 161
     },
     {
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 119
+      "UsersEstimate": 123
     },
     {
       "ID": "MQ06_2",
@@ -1286,17 +1286,17 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 69
     },
     {
       "ID": "MQ07_2",
@@ -1318,9 +1318,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     },
     {
       "ID": "MQ08_3",
@@ -1351,8 +1351,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-07T00:03:51.2778616+00:00",
+  "LastChanged_Achievements": "2023-06-07T02:25:57.5179788+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:57:23.2066302+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:03:51.2778882+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:19:23.1101285+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:25:57.5180002+00:00"
 }

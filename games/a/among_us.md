@@ -1,11 +1,11 @@
 # Among Us
 [Store](https://store.epicgames.com/en-US/p/among-us)  
 [View Rawdata](../../db/a/among_us.json)  
-Rating: 4.58 (Ranked 421)  
+Rating: 4.58 (Ranked 422)  
 Number of Ratings: 26,171  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 2,444  (Ranked 93)  
-Sum: 22,288 (Ranked 52)  
+Sum: 22,292 (Ranked 52)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -14,8 +14,8 @@ Diff (max vs sum): 41
 | This game has Quickly Understood Controls | 2,089 |
 | This game has Diverse Characters | 2,068 |
 | This game is Relaxing | 2,032 |
-| This game has Competitive Players | 2,000 |
-| This game is Highly Recommended | 1,950 |
+| This game has Competitive Players | 2,001 |
+| This game is Highly Recommended | 1,953 |
 | This game is Extremely Fun | 1,946 |
 | This game has Amazing Storytelling | 1,912 |
 | This game has Amazing Characters | 1,858 |
@@ -156,3 +156,4 @@ Diff (max vs sum): 41
 | 2023-06-04 | 4.58 | - | 2,444 | 22,268 |
 | 2023-06-05 | 4.58 | - | 2,444 | 22,275 |
 | 2023-06-06 | 4.58 | - | 2,444 | 22,288 |
+| 2023-06-07 | 4.58 | - | 2,444 | 22,292 |

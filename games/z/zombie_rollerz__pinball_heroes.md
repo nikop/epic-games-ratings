@@ -19,12 +19,12 @@
 | The Shield | 38.00% | ~35 |
 | Kill-streak | 37.00% | ~34 |
 | The Bird | 31.00% | ~28 |
+| The Idol | 29.00% | ~26 |
 | Topped up | 27.00% | ~25 |
-| The Idol | 27.00% | ~25 |
 | The Ninja | 27.00% | ~25 |
 | Inferno Ruins | 27.00% | ~25 |
+| I'm Rich | 25.00% | ~23 |
 | Untouchable | 24.00% | ~22 |
-| I'm Rich | 24.00% | ~22 |
 | The Slime | 22.00% | ~20 |
 | 1 is all I need | 21.00% | ~19 |
 | The Giant | 21.00% | ~19 |

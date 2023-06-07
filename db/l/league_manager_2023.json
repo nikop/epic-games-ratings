@@ -4,7 +4,7 @@
   "ProductSlug": "league-manager-b7dd4c",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-19T08:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-21T02:57:18.0125912+00:00",
   "LastChanged": "2023-04-21T02:57:18.0125913+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:50.4162972+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:57:44.0286799+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:04:06.3604222+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:19:44.9879178+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:26:12.5277417+00:00"
 }

@@ -42,10 +42,10 @@ Rating: 4.24 (Ranked 800)
 | Defense in Depth | 8.00% | ~137 |
 | Reverse Engineering | 7.00% | ~120 |
 | Following In Their Footsteps | 7.00% | ~120 |
+| Remote Surgery | 6.00% | ~103 |
 | Turbo Booster | 6.00% | ~103 |
 | Squid Pro Quo | 6.00% | ~103 |
 | Reborn | 5.00% | ~86 |
-| Remote Surgery | 5.00% | ~86 |
 | Shrimp Cocktail | 5.00% | ~86 |
 | Juiced Up | 5.00% | ~86 |
 | Hello Darkness My Old Friend | 4.00% | ~69 |

@@ -39,9 +39,9 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 4.00% | ~92 |
 | Renaissance man | 4.00% | ~92 |
 | Tank commander | 4.00% | ~92 |
+| Trick shot marksman | 4.00% | ~92 |
 | G.O.A.T. status | 3.00% | ~69 |
 | Hoarder | 3.00% | ~69 |
-| Trick shot marksman | 3.00% | ~69 |
 | We get it, you're good | 3.00% | ~69 |
 | Cross lock country | 2.00% | ~46 |
 | Many plys later... | 2.00% | ~46 |

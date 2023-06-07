@@ -2,9 +2,9 @@
   "ID": "0702e42d70eb4d8fbb9293e332047474",
   "Name": "Charon\u0027s Staircase",
   "ProductSlug": "charons-staircase-b2d05f",
-  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.86,
+  "EOS_Completed_Percentage": 2.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.3534175+00:00",
@@ -47,6 +47,11 @@
       "Time": "2023-05-27T17:05:17.3533858+00:00",
       "NumProgressed": 70,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-07T02:27:32.3643874+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -56,15 +61,15 @@
       "ID": "ACH_1",
       "SetID": "1g3d1lg",
       "Name": "Seth\u0027s office",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_10",
       "SetID": "1g3d1lg",
       "Name": "First document retrieved",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 35,
       "UsersEstimate": 35
     },
@@ -88,15 +93,15 @@
       "ID": "ACH_13",
       "SetID": "1g3d1lg",
       "Name": "An ear for music",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_14",
       "SetID": "1g3d1lg",
       "Name": "Agatha\u0027s favourite song",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 35,
       "UsersEstimate": 23
     },
@@ -112,9 +117,9 @@
       "ID": "ACH_16",
       "SetID": "1g3d1lg",
       "Name": "Curious by nature",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_17",
@@ -136,7 +141,7 @@
       "ID": "ACH_19",
       "SetID": "1g3d1lg",
       "Name": "There is something strange here...",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
       "UsersEstimate": 33
     },
@@ -144,9 +149,9 @@
       "ID": "ACH_2",
       "SetID": "1g3d1lg",
       "Name": "The secret passage",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_20",
@@ -162,7 +167,7 @@
       "Name": "Across the lake",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_4",
@@ -192,7 +197,7 @@
       "ID": "ACH_7",
       "SetID": "1g3d1lg",
       "Name": "The lowest floor of the lift",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 35,
       "UsersEstimate": 18
     },
@@ -217,7 +222,7 @@
     {
       "ID": "1g3d1lg",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 2
     }
   ],
@@ -225,8 +230,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-06-07T00:05:25.0289701+00:00",
+  "LastChanged_Achievements": "2023-06-07T02:27:32.3643869+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:28.6515183+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:58:53.8654402+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:05:25.0289972+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:21:03.7334589+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:27:32.3644+00:00"
 }

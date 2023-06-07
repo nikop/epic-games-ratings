@@ -1,12 +1,12 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 442)  
+Rating: 4.57 (Ranked 443)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 15.00% | ~371 |
-| Sputnik 2049 | 13.00% | ~321 |
+| Sputnik 2049 | 13.00% | ~322 |
 | Without Breaking Some Eggs... | 12.00% | ~297 |
 | Infinite Growth... | 12.00% | ~297 |
 | Space Society | 8.00% | ~198 |
@@ -42,15 +42,15 @@ Rating: 4.57 (Ranked 442)
 | Pulsar Disciple | 0.90% | ~22 |
 | Mutual Loyalty | 0.80% | ~20 |
 | You Had One Job... | 0.80% | ~20 |
+| Catastrophe Avoided | 0.70% | ~17 |
 | Praise the Hull! | 0.70% | ~17 |
 | Space Greenhouse | 0.70% | ~17 |
-| Catastrophe Avoided | 0.60% | ~15 |
+| Tiqqun Contender | 0.60% | ~15 |
 | Tiqqun Unchained | 0.60% | ~15 |
 | Help of the Forgotten Member | 0.60% | ~15 |
-| Tiqqun Contender | 0.50% | ~12 |
+| Gregor Spinoza | 0.50% | ~12 |
 | Scientifically Accurate | 0.50% | ~12 |
 | Better Him Than Me | 0.40% | ~10 |
-| Gregor Spinoza | 0.40% | ~10 |
 | Remember the Dead | 0.30% | ~7 |
 | Soylent Green | 0.20% | ~5 |
 | Work Harder | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 442)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,471 (Ranked 145)  
+Progressed: 2,474 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 2,441 | 0 |
 | 2023-06-05 | 2,460 | 0 |
 | 2023-06-06 | 2,471 | 0 |
+| 2023-06-07 | 2,474 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

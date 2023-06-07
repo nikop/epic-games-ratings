@@ -14,8 +14,8 @@
 | Everybody lies | 36.00% | ~168 |
 | Trick or Treat? | 24.00% | ~112 |
 | There is another way | 23.00% | ~108 |
-| Sysadmin | 21.00% | ~98 |
-| Annoying | 20.00% | ~94 |
+| Sysadmin | 22.00% | ~103 |
+| Annoying | 21.00% | ~98 |
 | Every little helps | 20.00% | ~94 |
 | Hacker | 20.00% | ~94 |
 | He is just a child | 20.00% | ~94 |

@@ -369,9 +369,9 @@
       "ID": "ACH_021",
       "SetID": "72imik0",
       "Name": "Well-read",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_022",
@@ -642,8 +642,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-06-06T07:57:37.3793148+00:00",
-  "LastChanged_Achievements": "2023-06-07T00:05:32.2369046+00:00",
+  "LastChanged_Achievements": "2023-06-07T02:27:39.7002319+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:56.7957468+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:57:48.8487913+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:05:32.2369446+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:19:49.9607216+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:27:39.7002708+00:00"
 }

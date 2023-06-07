@@ -24,6 +24,7 @@
 | Right On Time | 1.00% | ~6 |
 | Street Style | 1.00% | ~6 |
 | Family Memories | 1.00% | ~6 |
+| Factorywood Explorer | 1.00% | ~6 |
 | The Mysterious Stranger | 1.00% | ~6 |
 | Whiz Kid | 1.00% | ~6 |
 | Rail Rat | 1.00% | ~6 |
@@ -31,18 +32,17 @@
 | The Harder They Fall | 1.00% | ~6 |
 | The Wicked Twins | 1.00% | ~6 |
 | Time Heals All Wounds | 1.00% | ~6 |
+| Theater Explorer | 1.00% | ~6 |
 | Immaculate Aim | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
 | The Brass Boss | 1.00% | ~6 |
 | The Family Fortune | 1.00% | ~6 |
-| Factorywood Explorer | 0.80% | ~5 |
 | Honest Mistake | 0.80% | ~5 |
-| Theater Explorer | 0.80% | ~5 |
-| Sartorialist | 0.70% | ~4 |
-| Cultivair Explorer | 0.70% | ~4 |
-| Golem Hunter | 0.70% | ~4 |
-| Syron for Hope | 0.70% | ~4 |
+| Sartorialist | 0.60% | ~4 |
+| Cultivair Explorer | 0.60% | ~4 |
+| Golem Hunter | 0.60% | ~4 |
+| Syron for Hope | 0.60% | ~4 |
 | Corin Goes Home | 0.50% | ~3 |
 | Entresol Explorer | 0.50% | ~3 |
 | Fairgrounds Explorer | 0.50% | ~3 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615 (Ranked 195)  
+Progressed: 616 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,3 +78,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 602 | 0 |
 | 2023-06-05 | 608 | 0 |
 | 2023-06-06 | 615 | 0 |
+| 2023-06-07 | 616 | 0 |

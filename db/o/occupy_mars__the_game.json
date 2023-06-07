@@ -1666,9 +1666,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -1754,9 +1754,9 @@
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
       "SetID": "l546gc",
       "Name": "DeDust",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 46
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -1987,8 +1987,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-05T18:57:24.3437031+00:00",
-  "LastChanged_Achievements": "2023-06-07T00:03:43.6289229+00:00",
+  "LastChanged_Achievements": "2023-06-07T02:25:49.7730596+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:57:29.7702465+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:03:43.6289689+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:19:30.8601007+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:25:49.7731062+00:00"
 }

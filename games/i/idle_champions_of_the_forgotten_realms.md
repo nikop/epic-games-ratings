@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.60% | ~540 |
 | Coasting to the Finish | 0.60% | ~338 |
 | Were-verpowered | 0.50% | ~450 |
+| Checkmate | 0.50% | ~281 |
 | A Persistent Buzzing | 0.50% | ~450 |
 | Seeking Allies | 0.50% | ~450 |
 | Mad Cow Disease | 0.50% | ~450 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick or Quack | 0.50% | ~281 |
 | Owlbear Necessities | 0.40% | ~225 |
 | Best Thay Ever | 0.40% | ~225 |
-| Checkmate | 0.40% | ~225 |
 | Vecna Out! | 0.40% | ~225 |
 | Terror in the Dark | 0.40% | ~360 |
 | Unearthed Evil | 0.40% | ~360 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,984 (Ranked 62)  
+Progressed: 89,992 (Ranked 62)  
 Completed: 1,921 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1,921 (2.13%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 89,984 | 1,921 |
+| 2023-06-07 | 89,992 | 1,921 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

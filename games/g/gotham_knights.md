@@ -6,18 +6,19 @@ Rating: 4.17 (Ranked 847)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 4.00% | ~2,555 |
-| Har, Har, Har, Very Funny | 3.00% | ~1,916 |
-| Loose Ends | 3.00% | ~1,916 |
-| The Batman Family | 2.00% | ~1,277 |
-| Something in the Clay | 2.00% | ~1,277 |
-| To the Victor Go the Spoils | 2.00% | ~1,277 |
-| Quartzer Life Crisis | 2.00% | ~1,277 |
-| Get ReQ'd | 2.00% | ~1,277 |
-| Working Hard or Harley Working? | 2.00% | ~1,277 |
-| Unstoppable Force | 2.00% | ~1,277 |
-| Knighthood | 2.00% | ~1,277 |
-| Whispered Words | 2.00% | ~1,277 |
-| Lock and Key | 2.00% | ~1,277 |
+| Har, Har, Har, Very Funny | 3.00% | ~1,917 |
+| Loose Ends | 3.00% | ~1,917 |
+| The Batman Family | 2.00% | ~1,278 |
+| Something in the Clay | 2.00% | ~1,278 |
+| To the Victor Go the Spoils | 2.00% | ~1,278 |
+| Quartzer Life Crisis | 2.00% | ~1,278 |
+| Snow Problem | 2.00% | ~1,278 |
+| Get ReQ'd | 2.00% | ~1,278 |
+| Working Hard or Harley Working? | 2.00% | ~1,278 |
+| Unstoppable Force | 2.00% | ~1,278 |
+| Knighthood | 2.00% | ~1,278 |
+| Whispered Words | 2.00% | ~1,278 |
+| Lock and Key | 2.00% | ~1,278 |
 | End of an Era | 1.00% | ~639 |
 | In Your Element | 1.00% | ~639 |
 | Protector of Gotham | 1.00% | ~639 |
@@ -26,7 +27,6 @@ Rating: 4.17 (Ranked 847)
 | Not On My Watch | 1.00% | ~639 |
 | Bulldozed | 1.00% | ~639 |
 | Shock Til They Drop | 1.00% | ~639 |
-| Snow Problem | 1.00% | ~639 |
 | Cooldown | 1.00% | ~639 |
 | Universal Health Scare | 1.00% | ~639 |
 | Bad Apples in Every Orchard | 1.00% | ~639 |
@@ -39,10 +39,10 @@ Rating: 4.17 (Ranked 847)
 | Out of Their League | 0.70% | ~447 |
 | Solid Alibi | 0.70% | ~447 |
 | Fusion Expert | 0.60% | ~383 |
+| Family Meeting | 0.60% | ~383 |
 | Expert Crime Fighter | 0.50% | ~319 |
-| Family Meeting | 0.50% | ~319 |
 | A Worthy Successor | 0.50% | ~319 |
-| Dressed to Impress | 0.40% | ~255 |
+| Dressed to Impress | 0.40% | ~256 |
 | A Momentum Occasion | 0.30% | ~192 |
 | Bat Out of Hell | 0.30% | ~192 |
 | Hammer and Icicle | 0.20% | ~68 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 847)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,874 (Ranked 71)  
+Progressed: 63,885 (Ranked 71)  
 Completed: 94 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 94 (0.15%) (Ranked 154)
 | 2023-06-04 | 63,645 | 93 |
 | 2023-06-05 | 63,770 | 93 |
 | 2023-06-06 | 63,871 | 94 |
-| 2023-06-07 | 63,874 | 94 |
+| 2023-06-07 | 63,885 | 94 |
 ## Awards
 Max (Great Boss Battles): 2,304  (Ranked 97)  
 Sum: 3,809 (Ranked 137)  

@@ -8,22 +8,22 @@ Number of Ratings: 22  (23.09.2022)
 | ---- | ---------- | ----- |
 | Self Defense | 42.00% | ~180 |
 | Circus Electrique Proudly Presents... | 38.00% | ~163 |
-| Grand Opening | 37.00% | ~158 |
-| Path of Learning | 37.00% | ~158 |
+| Grand Opening | 37.00% | ~159 |
+| Path of Learning | 37.00% | ~159 |
 | Built in a Day | 31.00% | ~133 |
-| More Brain Than Brawn | 26.00% | ~111 |
+| More Brain Than Brawn | 26.00% | ~112 |
 | Perfect Illusion | 20.00% | ~86 |
 | Hundred Percent First | 20.00% | ~86 |
 | Dirty Dozen | 17.00% | ~73 |
-| Lion Tamer | 16.00% | ~68 |
-| Fan Service | 16.00% | ~68 |
+| Lion Tamer | 16.00% | ~69 |
+| Fan Service | 16.00% | ~69 |
 | King of District 1 | 14.00% | ~60 |
 | Amazing! | 14.00% | ~60 |
 | Bar Brawler | 13.00% | ~56 |
 | Flawless Presentation | 13.00% | ~56 |
 | One More Thing... | 12.00% | ~51 |
 | Lucky Day | 12.00% | ~51 |
-| King of District 2 | 11.00% | ~47 |
+| King of District 2 | 12.00% | ~51 |
 | Time Travel! | 10.00% | ~43 |
 | Marketing Manager | 9.00% | ~39 |
 | Circus Versus Circus | 8.00% | ~34 |
@@ -35,11 +35,11 @@ Number of Ratings: 22  (23.09.2022)
 | Around the Clock | 5.00% | ~21 |
 | Club Champion | 5.00% | ~21 |
 | Mobile Infantry | 5.00% | ~21 |
-| Circus Maximus | 4.00% | ~17 |
 | King of District 5 | 4.00% | ~17 |
 | Accomplished Veteran | 3.00% | ~13 |
 | Hundred Percent Third | 3.00% | ~13 |
 | Hundred Percent Fourth | 3.00% | ~13 |
+| Circus Maximus | 3.00% | ~13 |
 | City Savior | 3.00% | ~13 |
 | Unmatched Skills | 2.00% | ~9 |
 | Hundred Percent Fifth | 2.00% | ~9 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428 (Ranked 203)  
+Progressed: 429 (Ranked 203)  
 Completed: 1 (0.23%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 1 (0.23%) (Ranked 140)
 | 2023-06-04 | 424 | 1 |
 | 2023-06-05 | 426 | 1 |
 | 2023-06-06 | 428 | 1 |
+| 2023-06-07 | 429 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

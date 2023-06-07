@@ -5,9 +5,9 @@
   "Ranking_Rating": 159,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
-  "Ranking_EOS_Progress": 165,
+  "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1227,
+  "EOS_Progressed": 1228,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -728,6 +728,11 @@
       "Time": "2023-06-06T23:05:47.8985241+00:00",
       "NumProgressed": 1227,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-07T02:27:39.2217863+00:00",
+      "NumProgressed": 1228,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -755,7 +760,7 @@
       "Name": "Strike!",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "12",
@@ -795,7 +800,7 @@
       "Name": "My little pony",
       "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "17",
@@ -803,7 +808,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "18",
@@ -899,7 +904,7 @@
       "Name": "Hug therapy",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "30",
@@ -947,7 +952,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "7",
@@ -955,7 +960,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "8",
@@ -978,15 +983,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1227,
+      "Progressed": 1228,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-07T00:05:31.7472704+00:00",
+  "LastChanged_Achievements": "2023-06-07T02:27:39.2217858+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.0417129+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:59:12.2584223+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:05:31.7472959+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:21:22.8290214+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:27:39.2218097+00:00"
 }

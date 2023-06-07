@@ -2,7 +2,7 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 442,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 145,
@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2471,
+  "EOS_Progressed": 2474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2236,6 +2236,11 @@
       "Time": "2023-06-06T21:05:52.726225+00:00",
       "NumProgressed": 2471,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T02:27:34.0634924+00:00",
+      "NumProgressed": 2474,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2293,9 +2298,9 @@
       "ID": "ACH_BASE_16",
       "SetID": "92iocjf",
       "Name": "Tiqqun Contender",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_BASE_17",
@@ -2359,7 +2364,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_BASE_25",
@@ -2405,9 +2410,9 @@
       "ID": "ACH_BASE_3",
       "SetID": "92iocjf",
       "Name": "Catastrophe Avoided",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_BASE_30",
@@ -2485,9 +2490,9 @@
       "ID": "ACH_BASE_4",
       "SetID": "92iocjf",
       "Name": "Gregor Spinoza",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_BASE_40",
@@ -2702,13 +2707,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 652,
+      "Progressed": 655,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2471,
+      "Progressed": 2474,
       "Completed": 0
     }
   ],
@@ -2716,8 +2721,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-03T09:58:13.4383447+00:00",
-  "LastChanged_Achievements": "2023-06-07T00:05:26.5716493+00:00",
+  "LastChanged_Achievements": "2023-06-07T02:27:34.0634919+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:41.734154+00:00",
-  "LastUpdate_Ratings": "2023-06-06T23:58:20.997908+00:00",
-  "LastUpdate_Achievements": "2023-06-07T00:05:26.5717159+00:00"
+  "LastUpdate_Ratings": "2023-06-07T02:20:26.1024548+00:00",
+  "LastUpdate_Achievements": "2023-06-07T02:27:34.0635594+00:00"
 }

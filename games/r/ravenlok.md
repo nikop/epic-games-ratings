@@ -41,12 +41,12 @@
 | Trick Question! | 32.00% | ~308 |
 | Pull the Plug | 31.00% | ~299 |
 | Soul Slayer | 31.00% | ~299 |
+| The Downfall | 31.00% | ~299 |
 | All Heart | 31.00% | ~299 |
 | Final Showdown | 31.00% | ~299 |
-| The Downfall | 30.00% | ~289 |
+| Spot of Tea? | 31.00% | ~299 |
+| Going Home | 31.00% | ~299 |
 | Extraordinary! | 30.00% | ~289 |
-| Spot of Tea? | 30.00% | ~289 |
-| Going Home | 30.00% | ~289 |
 | Mirror, Mirror | 28.00% | ~270 |
 | Flower Power | 25.00% | ~241 |
 | Shopping Spree! | 23.00% | ~222 |
