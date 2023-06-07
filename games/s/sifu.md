@@ -26,8 +26,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,078 |
 | Bloody Sport | 1.00% | ~171 |
 | The best strikes are the ones we avoid | 1.00% | ~171 |
-| Old Child | 0.90% | ~6,370 |
-| Take damage to save time | 0.90% | ~6,370 |
+| Old Child | 0.90% | ~6,371 |
+| Take damage to save time | 0.90% | ~6,371 |
 | Scareless | 0.80% | ~5,663 |
 | Kung-Fu Tussle | 0.80% | ~5,663 |
 | Dance of the Praying Mantis | 0.70% | ~4,955 |
@@ -44,9 +44,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.40% | ~2,831 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,831 |
 | Sword Stained With Blood | 0.40% | ~2,831 |
-| Martial Hub | 0.40% | ~68 |
-| Secure, Protect, Leave | 0.40% | ~68 |
-| Knowledge Greed | 0.30% | ~2,123 |
+| Martial Hub | 0.40% | ~69 |
+| Secure, Protect, Leave | 0.40% | ~69 |
+| Knowledge Greed | 0.30% | ~2,124 |
 | Drunken Fighter | 0.20% | ~1,416 |
 | Martial Artist | 0.20% | ~1,416 |
 | Healing Memory | 0.20% | ~1,416 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,823 (Ranked 16)  
+Progressed: 707,835 (Ranked 16)  
 Completed: 12,763 (1.80%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 12,763 (1.80%) (Ranked 69)
 | 2023-06-04 | 707,419 | 12,757 |
 | 2023-06-05 | 707,566 | 12,758 |
 | 2023-06-06 | 707,727 | 12,763 |
-| 2023-06-07 | 707,823 | 12,763 |
+| 2023-06-07 | 707,835 | 12,763 |
 ## Awards
 Max (Great Boss Battles): 6,142  (Ranked 52)  
 Sum: 10,479 (Ranked 78)  

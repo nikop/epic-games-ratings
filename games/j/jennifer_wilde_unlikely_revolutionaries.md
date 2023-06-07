@@ -8,15 +8,15 @@
 | Con Artist | 100.00% | ~3 |
 | I See Dead People | 100.00% | ~3 |
 | Bedtime Storyteller | 100.00% | ~3 |
-| I Ain't Afraid of No Ghost | 67.00% | ~2 |
-| Exorcist | 67.00% | ~2 |
-| Electrician | 67.00% | ~2 |
-| Card Sharp | 67.00% | ~2 |
-| Joyrider | 67.00% | ~2 |
-| Top Detective | 33.00% | ~1 |
+| I Ain't Afraid of No Ghost | 100.00% | ~3 |
+| Exorcist | 100.00% | ~3 |
+| Electrician | 100.00% | ~3 |
+| Card Sharp | 100.00% | ~3 |
+| Joyrider | 100.00% | ~3 |
+| Top Detective | 67.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3 (Ranked 387)  
-Completed: 1 (33.33%) (Ranked 2)  
+Completed: 2 (66.67%) (Ranked 1)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -24,3 +24,4 @@ Completed: 1 (33.33%) (Ranked 2)
 | 2023-05-26 | 1 | 1 |
 | 2023-05-29 | 2 | 1 |
 | 2023-06-05 | 3 | 1 |
+| 2023-06-07 | 3 | 2 |

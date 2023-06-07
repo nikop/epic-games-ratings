@@ -14,8 +14,10 @@
 | Family Memories | 2.00% | ~12 |
 | The Betrayer | 2.00% | ~12 |
 | The Man Who Shattered Time | 2.00% | ~12 |
+| Whiz Kid | 2.00% | ~12 |
 | The Loose Cannon | 2.00% | ~12 |
 | Cartographer | 2.00% | ~12 |
+| The Harder They Fall | 2.00% | ~12 |
 | No, Thanks! | 2.00% | ~12 |
 | Breaking Down Barriers | 2.00% | ~12 |
 | The Wicked Twins | 2.00% | ~12 |
@@ -30,10 +32,8 @@
 | Cultivair Explorer | 1.00% | ~6 |
 | Factorywood Explorer | 1.00% | ~6 |
 | The Mysterious Stranger | 1.00% | ~6 |
-| Whiz Kid | 1.00% | ~6 |
 | Rail Rat | 1.00% | ~6 |
 | Time Flies | 1.00% | ~6 |
-| The Harder They Fall | 1.00% | ~6 |
 | Theater Explorer | 1.00% | ~6 |
 | Immaculate Aim | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 618 (Ranked 194)  
+Progressed: 618 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

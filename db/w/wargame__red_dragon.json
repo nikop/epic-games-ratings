@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-03-04T16:00:00+00:00",
     "PcReleaseDate": "2014-04-17T16:00:00+00:00",
@@ -3528,10 +3528,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 7313,
       "NumberOfAwardsMax": 887
+    },
+    {
+      "Time": "2023-06-07T13:07:09.7466833+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7314,
+      "NumberOfAwardsMax": 887
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7313,
+  "NumberOfAwards": 7314,
   "NumberOfAwardsMax": 887,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3593,7 +3599,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 684
+      "Count": 685
     },
     {
       "Text": "This game is Relaxing",
@@ -3619,8 +3625,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2023-06-07T03:57:42.3224946+00:00",
+  "LastChanged": "2023-06-07T13:07:09.7466831+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:49.304294+00:00",
-  "LastUpdate_Ratings": "2023-06-07T11:57:52.6097522+00:00",
-  "LastUpdate_Achievements": "2023-06-07T12:04:34.2020709+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:07:09.7466836+00:00",
+  "LastUpdate_Achievements": "2023-06-07T13:13:45.6518301+00:00"
 }

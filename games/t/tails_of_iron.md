@@ -22,11 +22,11 @@ Rating: 4.51 (Ranked 530)
 | Complete Elder Faction | 39.00% | ~630 |
 | End of the Mozis | 36.00% | ~582 |
 | Throne Room Fit For A King | 36.00% | ~582 |
+| Meet the Creatures from the Deep | 34.00% | ~549 |
 | Return Power To The Depths | 34.00% | ~549 |
-| Meet the Creatures from the Deep | 33.00% | ~533 |
 | Defeat Ratnor Rodentson | 28.00% | ~452 |
 | Return the Statues | 25.00% | ~404 |
-| Defeat Rattus Augustail | 24.00% | ~388 |
+| Defeat Rattus Augustail | 25.00% | ~404 |
 | Complete the Chefs Book | 23.00% | ~372 |
 | Complete Ranger Faction | 20.00% | ~323 |
 | Defeat Avor Warden of the Northern Wastes | 18.00% | ~291 |

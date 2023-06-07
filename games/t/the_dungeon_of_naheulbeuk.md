@@ -6,46 +6,46 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Where's that freaking Dwarf? | 100.00% | ~29 |
-| Alt+F4 | 100.00% | ~29 |
-| Sock! SOCK! | 90.00% | ~26 |
-| Livin' in a dwarven paradise | 66.00% | ~19 |
-| DM intervention | 66.00% | ~19 |
-| Fireproof Wizardess | 66.00% | ~19 |
-| Déjà vu | 59.00% | ~17 |
-| GG EZ | 55.00% | ~16 |
-| Speedrun | 52.00% | ~15 |
-| A beer, two curses, three companions | 48.00% | ~14 |
-| I am the night | 48.00% | ~14 |
-| Thieves' Guild Accreditation | 48.00% | ~14 |
-| Oh, when I'll be level 10... | 48.00% | ~14 |
-| Way of the Wimp | 45.00% | ~13 |
-| The plot thickens... At the tavern | 45.00% | ~13 |
-| The Ranger of Chaos | 41.00% | ~12 |
-| Dwarf Fortress | 38.00% | ~11 |
-| Look but don't touch | 38.00% | ~11 |
-| Shiny and Crôm | 34.00% | ~10 |
-| Gargantua | 34.00% | ~10 |
-| Team Building Exercise | 34.00% | ~10 |
-| Material Girl | 34.00% | ~10 |
-| The demons' feast | 31.00% | ~9 |
-| The Statuette of Gladeulfeurah | 31.00% | ~9 |
-| The Woman in the High Castle | 31.00% | ~9 |
-| A tale of adventurers not quite like the others... | 31.00% | ~9 |
-| Cursed die | 24.00% | ~7 |
-| Torture and Sensibility | 24.00% | ~7 |
-| The Famous Dungeon of Naheulbeuk | 24.00% | ~7 |
-| In Navalu's footsteps | 24.00% | ~7 |
-| The Great Library | 21.00% | ~6 |
-| The Blood Countess | 21.00% | ~6 |
-| Law and Order | 21.00% | ~6 |
+| Where's that freaking Dwarf? | 100.00% | ~30 |
+| Alt+F4 | 100.00% | ~30 |
+| Sock! SOCK! | 87.00% | ~26 |
+| Fireproof Wizardess | 70.00% | ~21 |
+| Livin' in a dwarven paradise | 63.00% | ~19 |
+| DM intervention | 63.00% | ~19 |
+| Déjà vu | 60.00% | ~18 |
+| GG EZ | 57.00% | ~17 |
+| Thieves' Guild Accreditation | 50.00% | ~15 |
+| Speedrun | 50.00% | ~15 |
+| A beer, two curses, three companions | 47.00% | ~14 |
+| I am the night | 47.00% | ~14 |
+| Oh, when I'll be level 10... | 47.00% | ~14 |
+| Way of the Wimp | 43.00% | ~13 |
+| The plot thickens... At the tavern | 43.00% | ~13 |
+| The Ranger of Chaos | 43.00% | ~13 |
+| Dwarf Fortress | 40.00% | ~12 |
+| Look but don't touch | 37.00% | ~11 |
+| Gargantua | 37.00% | ~11 |
+| Material Girl | 37.00% | ~11 |
+| Shiny and Crôm | 33.00% | ~10 |
+| Team Building Exercise | 33.00% | ~10 |
+| The demons' feast | 30.00% | ~9 |
+| The Statuette of Gladeulfeurah | 30.00% | ~9 |
+| The Woman in the High Castle | 30.00% | ~9 |
+| A tale of adventurers not quite like the others... | 30.00% | ~9 |
+| Cursed die | 23.00% | ~7 |
+| Torture and Sensibility | 23.00% | ~7 |
+| The Famous Dungeon of Naheulbeuk | 23.00% | ~7 |
+| In Navalu's footsteps | 23.00% | ~7 |
+| The Great Library | 20.00% | ~6 |
+| The Blood Countess | 20.00% | ~6 |
+| Law and Order | 20.00% | ~6 |
 | He’s alive! Aliiiive! | 17.00% | ~5 |
 | The beards of change | 17.00% | ~5 |
-| Urik's Depths | 14.00% | ~4 |
-| Necrophilia | 14.00% | ~4 |
-| Egghead | 14.00% | ~4 |
-| Free customer service | 14.00% | ~4 |
-| Lëgal Legend | 14.00% | ~4 |
+| Urik's Depths | 13.00% | ~4 |
+| Necrophilia | 13.00% | ~4 |
+| Egghead | 13.00% | ~4 |
+| Free customer service | 13.00% | ~4 |
+| Lëgal Legend | 13.00% | ~4 |
 | Scholar of the Lands of Fangh | 10.00% | ~3 |
 | The Dungeon Master | 10.00% | ~3 |
 | Res Judicata | 10.00% | ~3 |
@@ -95,14 +95,14 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 328)  
+Progressed: 30 (Ranked 327)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-06-05 | 16 | 0 |
 | 2023-06-06 | 26 | 0 |
-| 2023-06-07 | 29 | 0 |
+| 2023-06-07 | 30 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 378)  
 Sum: 61 (Ranked 431)  

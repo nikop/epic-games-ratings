@@ -213,6 +213,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Bleeding Citadel | 0.20% | ~113 |
 | Idyllglen | 0.20% | ~113 |
 | Witty Riposting | 0.20% | ~113 |
+| Waiting on Sunrise | 0.20% | ~113 |
 | How Far Away is Thay | 0.20% | ~113 |
 | Deekin's Mission | 0.20% | ~113 |
 | The Battle of High Hall Tower | 0.20% | ~113 |
@@ -460,7 +461,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Radiant Nightmare | 0.10% | ~56 |
 | Quick Thinking | 0.10% | ~56 |
 | Tough Acting | 0.10% | ~56 |
-| Waiting on Sunrise | 0.10% | ~56 |
 | Frontline Fighters | 0.10% | ~56 |
 | A Chilling Encounter | 0.10% | ~56 |
 | Dive Bomb | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,016 (Ranked 62)  
+Progressed: 90,019 (Ranked 62)  
 Completed: 1,922 (2.14%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1,922 (2.14%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 90,016 | 1,922 |
+| 2023-06-07 | 90,019 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

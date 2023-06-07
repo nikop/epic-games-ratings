@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 73.00% | ~8 |
-| Chapter 1 | 36.00% | ~4 |
-| Chapter 2 | 36.00% | ~4 |
-| Chapter 3 | 36.00% | ~4 |
-| Chapter 4 | 36.00% | ~4 |
-| Chapter 5 | 36.00% | ~4 |
-| Your Days Are Numbered | 36.00% | ~4 |
-| All Materials | 36.00% | ~4 |
-| It's In My Nature | 27.00% | ~3 |
-| Best Student | 18.00% | ~2 |
-| Chapter 6 | 18.00% | ~2 |
-| Highway Survival | 18.00% | ~2 |
-| Ads Fan | 9.00% | ~1 |
-| Food Thief | 9.00% | ~1 |
-| Tramp Saver | 9.00% | ~1 |
-| Hard To Wake Up | 9.00% | ~1 |
+| Introduction completed | 67.00% | ~8 |
+| Chapter 1 | 33.00% | ~4 |
+| Chapter 2 | 33.00% | ~4 |
+| Chapter 3 | 33.00% | ~4 |
+| Chapter 4 | 33.00% | ~4 |
+| Chapter 5 | 33.00% | ~4 |
+| Your Days Are Numbered | 33.00% | ~4 |
+| All Materials | 33.00% | ~4 |
+| It's In My Nature | 25.00% | ~3 |
+| Best Student | 17.00% | ~2 |
+| Chapter 6 | 17.00% | ~2 |
+| Highway Survival | 17.00% | ~2 |
+| Ads Fan | 8.00% | ~1 |
+| Food Thief | 8.00% | ~1 |
+| Tramp Saver | 8.00% | ~1 |
+| Hard To Wake Up | 8.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |
 | Chipmunk | 0.00% | ~0 |
@@ -34,7 +34,7 @@
 | Toilets Tormentor | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 354)  
+Progressed: 12 (Ranked 350)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,6 +45,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-05-13 | 9 | 0 |
 | 2023-05-20 | 10 | 0 |
 | 2023-05-26 | 11 | 0 |
+| 2023-06-07 | 12 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

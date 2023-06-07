@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 2.00% | ~304 |
 | Taking Action | 2.00% | ~304 |
 | No Deaths | 2.00% | ~304 |
+| Refinery | 1.00% | ~152 |
 | Homesick | 1.00% | ~152 |
 | Against All Odds | 1.00% | ~152 |
 | Bandit Camp | 1.00% | ~152 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 1.00% | ~152 |
 | Like a Machine | 1.00% | ~152 |
 | Trade Baron | 1.00% | ~152 |
-| Refinery | 0.90% | ~137 |
 | Statue of the Forefathers | 0.90% | ~137 |
 | Serving Ale | 0.80% | ~122 |
 | Forsaken Gods Temple | 0.80% | ~122 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.80% | ~122 |
 | Ruined Armory | 0.70% | ~107 |
 | Forbidden Lands | 0.70% | ~107 |
+| Fishmen Ritual Site | 0.60% | ~91 |
 | Efficient Explorer | 0.50% | ~76 |
-| Fishmen Ritual Site | 0.50% | ~76 |
 | Prestigious Expedition | 0.50% | ~76 |
 | Lizard Utopia | 0.40% | ~61 |
 | Blood Flower Farmer | 0.40% | ~61 |
@@ -58,7 +58,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,215 (Ranked 100)  
-Completed: 33 (0.22%) (Ranked 141)  
+Completed: 34 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,7 +105,7 @@ Completed: 33 (0.22%) (Ranked 141)
 | 2023-06-04 | 15,183 | 33 |
 | 2023-06-05 | 15,193 | 33 |
 | 2023-06-06 | 15,208 | 33 |
-| 2023-06-07 | 15,215 | 33 |
+| 2023-06-07 | 15,215 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 197)  
 Sum: 3,037 (Ranked 152)  

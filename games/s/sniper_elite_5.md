@@ -5,47 +5,47 @@ Rating: 4.45 (Ranked 615)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~658 |
-| Confirming Suspicions | 23.00% | ~540 |
-| The Kraken Wakes | 18.00% | ~423 |
-| It's Starting to Crack | 15.00% | ~352 |
+| Meeting Resistance | 28.00% | ~659 |
+| Confirming Suspicions | 23.00% | ~541 |
+| The Kraken Wakes | 18.00% | ~424 |
+| It's Starting to Crack | 16.00% | ~376 |
 | Lord of War | 14.00% | ~329 |
-| Change the Channel | 13.00% | ~305 |
+| Change the Channel | 13.00% | ~306 |
 | Resourceful | 12.00% | ~282 |
-| Taking it back | 11.00% | ~258 |
-| Organ Grinder | 9.00% | ~211 |
-| As Quiet as a Mouse | 9.00% | ~211 |
-| Target America | 9.00% | ~211 |
+| Taking it back | 11.00% | ~259 |
+| Target America | 10.00% | ~235 |
+| Organ Grinder | 9.00% | ~212 |
+| As Quiet as a Mouse | 9.00% | ~212 |
 | Just a Flesh Wound | 8.00% | ~188 |
 | Explosive Efficiency | 8.00% | ~188 |
 | The Kraken Sleeps | 8.00% | ~188 |
-| Liberté | 7.00% | ~164 |
-| Enemy at the Gates | 7.00% | ~164 |
-| Gunslinger | 7.00% | ~164 |
-| Sharpshooter | 7.00% | ~164 |
+| Liberté | 7.00% | ~165 |
+| Enemy at the Gates | 7.00% | ~165 |
+| Gunslinger | 7.00% | ~165 |
+| Sharpshooter | 7.00% | ~165 |
 | Opposing Force | 6.00% | ~141 |
 | Die Nussknacker Sweet! | 6.00% | ~141 |
 | Der Geist | 6.00% | ~141 |
 | Snake in the Grass | 6.00% | ~141 |
-| Climbing the Ladder | 5.00% | ~117 |
-| No Stone Unturned | 5.00% | ~117 |
-| Fields of Glory | 5.00% | ~117 |
-| Skirmisher | 5.00% | ~117 |
-| Close Quarters | 5.00% | ~117 |
-| Brains of the Operation | 5.00% | ~117 |
+| Climbing the Ladder | 5.00% | ~118 |
+| No Stone Unturned | 5.00% | ~118 |
+| Fields of Glory | 5.00% | ~118 |
+| Skirmisher | 5.00% | ~118 |
+| Close Quarters | 5.00% | ~118 |
+| Brains of the Operation | 5.00% | ~118 |
 | Set Europe Ablaze | 4.00% | ~94 |
 | Precision Is Key | 4.00% | ~94 |
-| Rigged to Blow | 3.00% | ~70 |
+| Rigged to Blow | 3.00% | ~71 |
 | The Long Game | 2.00% | ~47 |
 | My Little Friend | 2.00% | ~47 |
 | It'll Buff Right Out | 2.00% | ~47 |
-| Strategist | 1.00% | ~23 |
-| Locomotion Commotion | 1.00% | ~23 |
-| Road Rage | 1.00% | ~23 |
-| Don't hold your breath | 1.00% | ~23 |
+| Strategist | 1.00% | ~24 |
+| Locomotion Commotion | 1.00% | ~24 |
+| Road Rage | 1.00% | ~24 |
+| Don't hold your breath | 1.00% | ~24 |
 | Herr Today, Gone Tomorrow | 1.00% | ~23 |
 | Operation Foxley | 1.00% | ~23 |
-| Tinkerer | 0.90% | ~21 |
+| Tinkerer | 0.80% | ~19 |
 | Ghost of Falaise | 0.80% | ~18 |
 | Last Resort | 0.70% | ~16 |
 | Siegebreaker | 0.70% | ~16 |
@@ -77,8 +77,8 @@ Rating: 4.45 (Ranked 615)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,349 (Ranked 147)  
-Completed: 2 (0.09%) (Ranked 170)  
+Progressed: 2,353 (Ranked 147)  
+Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,7 +124,7 @@ Completed: 2 (0.09%) (Ranked 170)
 | 2023-06-04 | 2,257 | 2 |
 | 2023-06-05 | 2,307 | 2 |
 | 2023-06-06 | 2,341 | 2 |
-| 2023-06-07 | 2,349 | 2 |
+| 2023-06-07 | 2,353 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

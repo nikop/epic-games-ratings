@@ -11,18 +11,18 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 21.00% | ~121 |
 | Ravenous | 21.00% | ~121 |
 | Weeper | 19.00% | ~109 |
-| Devourer | 14.00% | ~80 |
+| Devourer | 14.00% | ~81 |
 | Harmless | 12.00% | ~69 |
 | Silenced Whispers | 12.00% | ~69 |
 | Yank | 12.00% | ~69 |
 | Scion | 11.00% | ~17 |
 | Glare | 11.00% | ~17 |
 | Sharpened Vessel | 11.00% | ~63 |
-| Jawcrab | 10.00% | ~57 |
-| Feast | 10.00% | ~57 |
+| Jawcrab | 10.00% | ~58 |
+| Feast | 10.00% | ~58 |
 | Host | 9.00% | ~14 |
+| Jawstag | 9.00% | ~52 |
 | Shapely | 8.00% | ~46 |
-| Jawstag | 8.00% | ~46 |
 | Celebration | 7.00% | ~40 |
 | Inevitable | 7.00% | ~40 |
 | Watcher | 7.00% | ~40 |
@@ -41,15 +41,15 @@ Number of Ratings: 46  (23.09.2022)
 | Proportions | 4.00% | ~23 |
 | Weakness | 3.00% | ~17 |
 | Listen | 3.00% | ~5 |
-| Bloodhunter | 2.00% | ~11 |
+| Bloodhunter | 2.00% | ~12 |
 | Zygote | 2.00% | ~3 |
-| Breath | 2.00% | ~11 |
-| Generous | 2.00% | ~11 |
+| Breath | 2.00% | ~12 |
+| Generous | 2.00% | ~12 |
 | Skinmaker | 1.00% | ~6 |
 | Instruments | 0.90% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 574 (Ranked 197)  
+Progressed: 575 (Ranked 197)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 570 | 0 |
 | 2023-06-04 | 572 | 0 |
 | 2023-06-06 | 574 | 0 |
+| 2023-06-07 | 575 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,12 +4,12 @@
 Rating: 4.52 (Ranked 514)  
 Number of Ratings: 2,249  (23.09.2022)  
 ## Awards
-Max (Competitive Players): 742  (Ranked 152)  
-Sum: 5,895 (Ranked 115)  
+Max (Competitive Players): 744  (Ranked 152)  
+Sum: 5,899 (Ranked 115)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 742 |
+| This game has Competitive Players | 744 |
 | This game has Diverse Characters | 734 |
 | This game is Relaxing | 723 |
 | This game has Quickly Understood Controls | 705 |
@@ -19,7 +19,7 @@ Diff (max vs sum): 37
 | This game has Amazing Storytelling | 485 |
 | This game has Playful Visuals | 428 |
 | This game is Great for Beginners | 394 |
-| This game has a Competitive Community | 390 |
+| This game has a Competitive Community | 392 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -165,4 +165,4 @@ Diff (max vs sum): 37
 | 2023-06-02 | 4.52 | - | 741 | 5,887 |
 | 2023-06-04 | 4.52 | - | 741 | 5,889 |
 | 2023-06-06 | 4.52 | - | 742 | 5,894 |
-| 2023-06-07 | 4.52 | - | 742 | 5,895 |
+| 2023-06-07 | 4.52 | - | 744 | 5,899 |

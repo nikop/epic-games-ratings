@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2277,
+  "EOS_Progressed": 2278,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -2322,6 +2322,11 @@
       "Time": "2023-06-07T10:06:11.037181+00:00",
       "NumProgressed": 2277,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T13:15:43.2921736+00:00",
+      "NumProgressed": 2278,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2333,7 +2338,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 11,
       "XP": 120,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -2349,7 +2354,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -2397,7 +2402,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2413,7 +2418,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2453,7 +2458,7 @@
       "Name": "Past trauma",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -2461,7 +2466,7 @@
       "Name": "Little light",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -2517,7 +2522,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2557,7 +2562,7 @@
       "Name": "Thornbarrow",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2597,7 +2602,7 @@
       "Name": "Capelworth",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -2637,7 +2642,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2669,7 +2674,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2685,7 +2690,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -2709,7 +2714,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2756,7 +2761,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2277,
+      "Progressed": 2278,
       "Completed": 1
     }
   ],
@@ -2764,8 +2769,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-05T19:57:57.2340443+00:00",
-  "LastChanged_Achievements": "2023-06-07T12:06:18.236882+00:00",
+  "LastChanged_Achievements": "2023-06-07T13:15:43.2921733+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.5523883+00:00",
-  "LastUpdate_Ratings": "2023-06-07T11:57:46.0749068+00:00",
-  "LastUpdate_Achievements": "2023-06-07T12:06:18.2369465+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:07:03.3327549+00:00",
+  "LastUpdate_Achievements": "2023-06-07T13:15:43.2922191+00:00"
 }

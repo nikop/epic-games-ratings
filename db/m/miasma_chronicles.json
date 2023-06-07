@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -66,7 +66,7 @@
   "Tags": [],
   "EOS_Progressed": 1043,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1401,9 +1401,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 229
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -1561,9 +1561,9 @@
       "ID": "EXPERIENCED",
       "SetID": "9a4jnji",
       "Name": "Experienced",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 177
     },
     {
       "ID": "FIRESTARTER",
@@ -1649,9 +1649,9 @@
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 209
     },
     {
       "ID": "LUMBERJACK",
@@ -1810,8 +1810,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-07T12:03:20.4528221+00:00",
+  "LastChanged_Achievements": "2023-06-07T13:12:16.4409547+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-07T11:58:29.6812587+00:00",
-  "LastUpdate_Achievements": "2023-06-07T12:03:20.4528791+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:07:50.8486559+00:00",
+  "LastUpdate_Achievements": "2023-06-07T13:12:16.4409964+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 420,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 6.9,
   "EosHistory": [
@@ -1339,9 +1339,9 @@
       "ID": "LEVEL_029",
       "SetID": "212bg48",
       "Name": "Bridges connect us",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_030",
@@ -1362,8 +1362,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-07T12:04:15.9036514+00:00",
+  "LastChanged_Achievements": "2023-06-07T13:13:25.6521561+00:00",
   "LastUpdate_AppInfo": "2023-06-05T14:57:13.8702155+00:00",
-  "LastUpdate_Ratings": "2023-06-07T11:57:13.972147+00:00",
-  "LastUpdate_Achievements": "2023-06-07T12:04:15.9036848+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:06:28.2506827+00:00",
+  "LastUpdate_Achievements": "2023-06-07T13:13:25.6521771+00:00"
 }

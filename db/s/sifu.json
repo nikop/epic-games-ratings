@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4470,10 +4470,10 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 707823,
+  "EOS_Progressed": 707835,
   "EOS_Completed": 12763,
-  "EOS_NewPlayers": 1330,
-  "EOS_NewCompleters": 15,
+  "EOS_NewPlayers": 1333,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -8885,6 +8885,11 @@
       "Time": "2023-06-07T12:06:27.9662869+00:00",
       "NumProgressed": 707823,
       "NumCompleted": 12763
+    },
+    {
+      "Time": "2023-06-07T13:15:53.8811114+00:00",
+      "NumProgressed": 707835,
+      "NumCompleted": 12763
     }
   ],
   "TotalAchievements": 50,
@@ -9032,7 +9037,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "19_Detective_H5",
@@ -9144,7 +9149,7 @@
       "Name": "Old Child",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6370
+      "UsersEstimate": 6371
     },
     {
       "ID": "33_BladeOneShot",
@@ -9208,7 +9213,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6370
+      "UsersEstimate": 6371
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -9256,7 +9261,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -9272,7 +9277,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -9295,21 +9300,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17124,
+      "Progressed": 17136,
       "Completed": 10235
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707823,
+      "Progressed": 707835,
       "Completed": 12763
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-07T08:59:19.1082307+00:00",
-  "LastChanged_Achievements": "2023-06-07T12:06:27.9662862+00:00",
+  "LastChanged_Achievements": "2023-06-07T13:15:53.8811104+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-07T11:59:13.0268546+00:00",
-  "LastUpdate_Achievements": "2023-06-07T12:06:27.9663613+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:08:41.2321646+00:00",
+  "LastUpdate_Achievements": "2023-06-07T13:15:53.8811632+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 966,
+  "EOS_Progressed": 967,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1326,6 +1326,11 @@
       "Time": "2023-06-07T11:07:39.0948105+00:00",
       "NumProgressed": 966,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T13:15:53.1940091+00:00",
+      "NumProgressed": 967,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -1345,7 +1350,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "A02",
@@ -1417,7 +1422,7 @@
       "Name": "From X to Y",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "A11",
@@ -1431,9 +1436,9 @@
       "ID": "A12",
       "SetID": "9b7p7eo",
       "Name": "Departure",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 687
     },
     {
       "ID": "A13",
@@ -1457,7 +1462,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "A16",
@@ -1473,7 +1478,7 @@
       "Name": "Facility Manager",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "A18",
@@ -1497,7 +1502,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "A21",
@@ -1513,7 +1518,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "A23",
@@ -1561,7 +1566,7 @@
       "Name": "We brake for nobody",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "A29",
@@ -1609,7 +1614,7 @@
       "Name": "Producer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "A35",
@@ -1625,7 +1630,7 @@
       "Name": "Way of Iron",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "A37",
@@ -1657,7 +1662,7 @@
       "Name": "Mind the Gap",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "A41",
@@ -1673,7 +1678,7 @@
       "Name": "Bridge Builder",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "A43",
@@ -1713,7 +1718,7 @@
       "Name": "Travel Company",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "A48",
@@ -1776,14 +1781,14 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 966,
+      "Progressed": 967,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-07T12:06:27.1872782+00:00",
+  "LastChanged_Achievements": "2023-06-07T13:15:53.1940084+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-07T11:58:15.6909712+00:00",
-  "LastUpdate_Achievements": "2023-06-07T12:06:27.187352+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:07:34.6151955+00:00",
+  "LastUpdate_Achievements": "2023-06-07T13:15:53.1940516+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1023,9 +1023,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6185,
+  "EOS_Progressed": 6186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4948,6 +4948,11 @@
       "Time": "2023-06-07T12:01:17.7730964+00:00",
       "NumProgressed": 6185,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T13:11:02.6457846+00:00",
+      "NumProgressed": 6186,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -4991,7 +4996,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3278
+      "UsersEstimate": 3279
     },
     {
       "ID": "14",
@@ -5039,7 +5044,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3278
+      "UsersEstimate": 3279
     },
     {
       "ID": "2",
@@ -5055,15 +5060,15 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "21",
       "SetID": "8idi9ml",
       "Name": "The Great Healer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1918
     },
     {
       "ID": "22",
@@ -5071,7 +5076,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "23",
@@ -5087,7 +5092,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "25",
@@ -5103,7 +5108,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "27",
@@ -5207,7 +5212,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     },
     {
       "ID": "39",
@@ -5407,7 +5412,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "8",
@@ -5430,15 +5435,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6185,
+      "Progressed": 6186,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-06T19:00:11.8041738+00:00",
-  "LastChanged_Achievements": "2023-06-07T12:01:17.7730957+00:00",
+  "LastChanged_Achievements": "2023-06-07T13:11:02.645784+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-07T12:00:14.0953084+00:00",
-  "LastUpdate_Achievements": "2023-06-07T12:01:17.7731872+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:09:47.2528462+00:00",
+  "LastUpdate_Achievements": "2023-06-07T13:11:02.6458524+00:00"
 }
