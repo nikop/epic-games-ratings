@@ -15,16 +15,16 @@
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.50% |
-| 17 | [Without Escape](games/w/without_escape.md) | 9.09% |
-| 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
-| 19 | [Smelter](games/s/smelter.md) | 8.57% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.15% |
-| 21 | [Remains](games/r/remains.md) | 8.11% |
-| 22 | [Time Loader](games/t/time_loader.md) | 7.84% |
-| 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.57% |
-| 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.14% |
+| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.71% |
+| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.50% |
+| 18 | [Without Escape](games/w/without_escape.md) | 9.09% |
+| 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
+| 20 | [Smelter](games/s/smelter.md) | 8.57% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.15% |
+| 22 | [Remains](games/r/remains.md) | 8.11% |
+| 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
+| 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.57% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.13% |
 | 27 | [Scorn](games/s/scorn.md) | 6.90% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
@@ -34,7 +34,7 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.10% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.08% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
@@ -47,7 +47,7 @@
 | 45 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
 | 45 | [ZZT!](games/z/zzt!.md) | 3.21% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.15% |
-| 48 | [The Bunker](games/t/the_bunker.md) | 3.06% |
+| 48 | [The Bunker](games/t/the_bunker.md) | 3.03% |
 | 49 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 50 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
@@ -104,7 +104,7 @@
 | 101 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
 | 101 | [Them and Us](games/t/them_and_us.md) | 0.75% |
 | 104 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.70% |
-| 104 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.70% |
+| 105 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.69% |
 | 106 | [Train Valley](games/t/train_valley.md) | 0.68% |
 | 107 | [Haven](games/h/haven.md) | 0.65% |
 | 108 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
