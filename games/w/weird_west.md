@@ -6,14 +6,14 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,398 |
-| Self-Improvement | 72.00% | ~1,157 |
+| Unforgiven | 87.00% | ~1,399 |
+| Self-Improvement | 72.00% | ~1,158 |
 | Perky | 66.00% | ~1,061 |
-| Let’s Ride | 60.00% | ~964 |
-| Welcome to the Weird West | 57.00% | ~916 |
+| Let’s Ride | 60.00% | ~965 |
+| Welcome to the Weird West | 57.00% | ~917 |
 | Dead or Alive | 55.00% | ~884 |
 | Full House | 37.00% | ~595 |
-| Off the Trail | 34.00% | ~546 |
+| Off the Trail | 34.00% | ~547 |
 | Justice Served | 28.00% | ~450 |
 | Chain Reaction | 27.00% | ~434 |
 | Scholar | 25.00% | ~402 |
@@ -39,10 +39,10 @@ Number of Ratings: 125  (23.09.2022)
 | The Philosopher’s Stone | 9.00% | ~145 |
 | Gold Digger | 8.00% | ~129 |
 | Eternity Can Wait | 8.00% | ~129 |
-| Do Not Pass Go… | 7.00% | ~112 |
-| Getting the Gang Back Together | 7.00% | ~112 |
-| Monster Hunter | 7.00% | ~112 |
-| Knuckle Sandwich | 7.00% | ~112 |
+| Do Not Pass Go… | 7.00% | ~113 |
+| Getting the Gang Back Together | 7.00% | ~113 |
+| Monster Hunter | 7.00% | ~113 |
+| Knuckle Sandwich | 7.00% | ~113 |
 | Who You Gonna Call? | 6.00% | ~96 |
 | Healing Old Wounds | 5.00% | ~80 |
 | This Is Sparta | 5.00% | ~80 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.20% | ~3 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,607 (Ranked 157)  
+Progressed: 1,608 (Ranked 157)  
 Completed: 2 (0.12%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 2 (0.12%) (Ranked 161)
 | 2023-06-04 | 1,596 | 2 |
 | 2023-06-05 | 1,604 | 2 |
 | 2023-06-06 | 1,607 | 2 |
+| 2023-06-07 | 1,608 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 468)  
 Sum: 24 (Ranked 474)  

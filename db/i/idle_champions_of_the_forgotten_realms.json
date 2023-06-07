@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4138,10 +4138,10 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 90004,
+  "EOS_Progressed": 90006,
   "EOS_Completed": 1922,
   "EOS_NewPlayers": 726,
-  "EOS_NewCompleters": 22,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
     {
@@ -8973,6 +8973,11 @@
       "Time": "2023-06-07T07:06:51.0929629+00:00",
       "NumProgressed": 90004,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-06-07T08:07:07.2878583+00:00",
+      "NumProgressed": 90006,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 493,
@@ -12430,9 +12435,9 @@
       "ID": "objective_completed_842",
       "SetID": "415jc5c",
       "Name": "Idyllglen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_843",
@@ -12927,21 +12932,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56278,
+      "Progressed": 56280,
       "Completed": 2775
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90004,
+      "Progressed": 90006,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T13:58:26.881905+00:00",
-  "LastChanged_Achievements": "2023-06-07T07:06:51.0929624+00:00",
+  "LastChanged_Achievements": "2023-06-07T08:07:07.2878578+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-07T06:58:22.6904605+00:00",
-  "LastUpdate_Achievements": "2023-06-07T07:06:51.0951739+00:00"
+  "LastUpdate_Ratings": "2023-06-07T07:58:38.8467891+00:00",
+  "LastUpdate_Achievements": "2023-06-07T08:07:07.2902264+00:00"
 }

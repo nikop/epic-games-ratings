@@ -7,7 +7,7 @@ Rating: 4.35 (Ranked 726)
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~959 |
 | Ranidaphobia | 75.00% | ~782 |
-| Aspiring Editor | 72.00% | ~750 |
+| Aspiring Editor | 73.00% | ~761 |
 | Gun for Hire | 67.00% | ~698 |
 | I am the law! | 59.00% | ~615 |
 | Lumberjack | 44.00% | ~458 |
@@ -40,7 +40,7 @@ Rating: 4.35 (Ranked 726)
 | Chaos Theory | 8.00% | ~83 |
 | Commando | 8.00% | ~83 |
 | Chain Reaction | 7.00% | ~73 |
-| Curveball | 6.00% | ~63 |
+| Curveball | 7.00% | ~73 |
 | Side Order | 6.00% | ~63 |
 | Wipe Out | 6.00% | ~63 |
 | Bot Whisperer | 5.00% | ~52 |

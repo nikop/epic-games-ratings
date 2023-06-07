@@ -6,19 +6,19 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~33,154 |
-| I read Shakespeare and stuff | 64.00% | ~27,919 |
-| Just a sprinkle | 63.00% | ~27,483 |
+| Own use | 76.00% | ~33,155 |
+| I read Shakespeare and stuff | 64.00% | ~27,920 |
+| Just a sprinkle | 63.00% | ~27,484 |
 | I'm stumped | 61.00% | ~26,611 |
 | Plant get enough | 61.00% | ~26,611 |
-| It's just the beginning | 59.00% | ~25,738 |
+| It's just the beginning | 59.00% | ~25,739 |
 | This is just my weekend vehicle | 58.00% | ~25,302 |
 | Hard work pays off | 53.00% | ~23,121 |
-| It's never too late to farm | 47.00% | ~20,503 |
+| It's never too late to farm | 47.00% | ~20,504 |
 | All out of Land | 44.00% | ~19,195 |
-| Field Trip | 43.00% | ~18,758 |
+| Field Trip | 43.00% | ~18,759 |
 | I like to switch it up | 40.00% | ~17,450 |
-| Help me to help you | 38.00% | ~16,577 |
+| Help me to help you | 38.00% | ~16,578 |
 | Ultimutt Pawesomeness | 28.00% | ~12,215 |
 | Van Gogh | 26.00% | ~11,342 |
 | You wood not believe it | 21.00% | ~9,161 |
@@ -28,15 +28,15 @@ Number of Ratings: 7,683  (23.09.2022)
 | Clucky Streak | 15.00% | ~6,544 |
 | Large-scale supplier | 15.00% | ~6,544 |
 | Well-Oiled Machine | 15.00% | ~6,544 |
-| That's a wrap | 14.00% | ~6,107 |
+| That's a wrap | 14.00% | ~6,108 |
 | Fix me up | 13.00% | ~5,671 |
 | Rock on | 12.00% | ~5,235 |
 | It's sow easy | 11.00% | ~4,799 |
 | Highly cultivated | 10.00% | ~4,362 |
 | Giddy-up! | 10.00% | ~4,362 |
 | Cowherd | 7.00% | ~3,054 |
-| Fluffyness | 6.00% | ~2,617 |
-| Helper A does not stop … ever | 6.00% | ~2,617 |
+| Fluffyness | 6.00% | ~2,618 |
+| Helper A does not stop … ever | 6.00% | ~2,618 |
 | Road Trip | 5.00% | ~2,181 |
 | Bringing in the Honey | 5.00% | ~2,181 |
 | Three little piggies… | 4.00% | ~1,745 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~174 |
 | Raisin the stakes | 0.30% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,624 (Ranked 81)  
+Progressed: 43,625 (Ranked 81)  
 Completed: 5 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,10 +98,10 @@ Completed: 5 (0.01%) (Ranked 201)
 | 2023-06-04 | 43,526 | 5 |
 | 2023-06-05 | 43,574 | 5 |
 | 2023-06-06 | 43,613 | 5 |
-| 2023-06-07 | 43,624 | 5 |
+| 2023-06-07 | 43,625 | 5 |
 ## Awards
 Max (Great for Beginners): 4,326  (Ranked 70)  
-Sum: 36,947 (Ranked 31)  
+Sum: 36,950 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -113,7 +113,7 @@ Diff (max vs sum): 39
 | This game is Highly Recommended | 3,709 |
 | This game has Diverse Characters | 3,663 |
 | This game has Amazing Storytelling | 3,598 |
-| This game has Amazing Characters | 3,222 |
+| This game has Amazing Characters | 3,225 |
 | This game has a Creative Community | 3,035 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
@@ -261,4 +261,4 @@ Diff (max vs sum): 39
 | 2023-06-04 | 4.70 | - | 4,319 | 36,892 |
 | 2023-06-05 | 4.70 | - | 4,326 | 36,926 |
 | 2023-06-06 | 4.70 | - | 4,326 | 36,946 |
-| 2023-06-07 | 4.70 | - | 4,326 | 36,947 |
+| 2023-06-07 | 4.70 | - | 4,326 | 36,950 |

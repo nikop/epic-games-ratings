@@ -6,20 +6,20 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,688 |
-| keep it tidy | 77.00% | ~7,771 |
-| podium | 72.00% | ~7,266 |
-| medium attack | 59.00% | ~5,954 |
+| light attack | 96.00% | ~9,689 |
+| keep it tidy | 77.00% | ~7,772 |
+| podium | 72.00% | ~7,267 |
+| medium attack | 59.00% | ~5,955 |
 | brail | 56.00% | ~5,652 |
 | good drivers have dead flies on the side windows | 40.00% | ~4,037 |
 | grocery-getter | 39.00% | ~3,936 |
 | rwd only | 26.00% | ~2,624 |
 | food tour: pasta | 26.00% | ~2,624 |
-| to finish first, first you must finish | 21.00% | ~2,119 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,119 |
-| autopilot | 20.00% | ~2,018 |
-| turbo | 20.00% | ~2,018 |
-| food tour: pretzel | 19.00% | ~1,917 |
+| to finish first, first you must finish | 21.00% | ~2,120 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,120 |
+| autopilot | 20.00% | ~2,019 |
+| turbo | 20.00% | ~2,019 |
+| food tour: pretzel | 19.00% | ~1,918 |
 | bicycle race | 15.00% | ~1,514 |
 | car wash | 14.00% | ~1,413 |
 | monster | 14.00% | ~1,413 |
@@ -32,10 +32,10 @@ Number of Ratings: 56  (23.09.2022)
 | espresso | 10.00% | ~1,009 |
 | parallel universe | 9.00% | ~908 |
 | samir | 8.00% | ~807 |
-| eurobeat | 7.00% | ~706 |
-| master of rally | 7.00% | ~706 |
-| antilag | 7.00% | ~706 |
-| mittens | 7.00% | ~706 |
+| eurobeat | 7.00% | ~707 |
+| master of rally | 7.00% | ~707 |
+| antilag | 7.00% | ~707 |
+| mittens | 7.00% | ~707 |
 | parking lot | 6.00% | ~606 |
 | oktoberfest | 6.00% | ~606 |
 | viking | 6.00% | ~606 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,092 (Ranked 109)  
+Progressed: 10,093 (Ranked 109)  
 Completed: 9 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 9 (0.09%) (Ranked 170)
 | 2023-06-04 | 10,086 | 9 |
 | 2023-06-05 | 10,090 | 9 |
 | 2023-06-06 | 10,091 | 9 |
-| 2023-06-07 | 10,092 | 9 |
+| 2023-06-07 | 10,093 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

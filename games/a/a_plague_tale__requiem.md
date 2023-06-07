@@ -5,27 +5,27 @@ Rating: 4.74 (Ranked 144)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~10,326 |
-| Newcomers | 78.00% | ~8,755 |
-| A Burden of Blood | 72.00% | ~8,081 |
-| Protector's Duty | 68.00% | ~7,632 |
-| Alchemist | 67.00% | ~7,520 |
+| Under a New Sun | 92.00% | ~10,327 |
+| Newcomers | 78.00% | ~8,756 |
+| A Burden of Blood | 72.00% | ~8,082 |
+| Protector's Duty | 68.00% | ~7,633 |
+| Alchemist | 67.00% | ~7,521 |
 | In our Wake | 66.00% | ~7,408 |
-| Leaving all Behind | 63.00% | ~7,071 |
-| Felons | 60.00% | ~6,734 |
+| Leaving all Behind | 63.00% | ~7,072 |
+| Felons | 60.00% | ~6,735 |
 | A Sea of Promises | 58.00% | ~6,510 |
-| Tales and Revelations | 55.00% | ~6,173 |
+| Tales and Revelations | 55.00% | ~6,174 |
 | Bloodline | 50.00% | ~5,612 |
-| The Cradle of Centuries | 46.00% | ~5,163 |
+| The Cradle of Centuries | 46.00% | ~5,164 |
 | The Life We Deserve | 44.00% | ~4,939 |
 | Night guard | 42.00% | ~4,714 |
 | Nothing Left | 37.00% | ~4,153 |
-| Healing our Wounds | 35.00% | ~3,928 |
-| Dying Sun | 31.00% | ~3,479 |
+| Healing our Wounds | 35.00% | ~3,929 |
+| Dying Sun | 31.00% | ~3,480 |
 | Improved crossbow | 26.00% | ~2,918 |
 | King Hugo | 23.00% | ~2,582 |
 | Mercy | 23.00% | ~2,582 |
-| Perfect shot | 22.00% | ~2,469 |
+| Perfect shot | 22.00% | ~2,470 |
 | Effective instruments | 21.00% | ~2,357 |
 | Perfect throw | 21.00% | ~2,357 |
 | Knights! | 19.00% | ~2,133 |
@@ -41,7 +41,7 @@ Rating: 4.74 (Ranked 144)
 | Explorer | 1.00% | ~112 |
 | Malignant | 1.00% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,224 (Ranked 108)  
+Progressed: 11,225 (Ranked 108)  
 Completed: 33 (0.29%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,11 +89,11 @@ Completed: 33 (0.29%) (Ranked 134)
 | 2023-06-04 | 11,139 | 32 |
 | 2023-06-05 | 11,189 | 32 |
 | 2023-06-06 | 11,220 | 33 |
-| 2023-06-07 | 11,224 | 33 |
+| 2023-06-07 | 11,225 | 33 |
 ## Awards
 Max (Great Boss Battles): 402  (Ranked 202)  
-Sum: 578 (Ranked 287)  
-Diff (max vs sum): -85  
+Sum: 578 (Ranked 286)  
+Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 402 |

@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~683 |
+| Diligence as a goal | 4.00% | ~684 |
 | Project Arena | 3.00% | ~513 |
 | The Old Grandmaster | 1.00% | ~7,078 |
 | The Assault | 1.00% | ~7,078 |
@@ -30,9 +30,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 0.90% | ~6,370 |
 | Scareless | 0.80% | ~5,662 |
 | Kung-Fu Tussle | 0.80% | ~5,662 |
-| Dance of the Praying Mantis | 0.70% | ~4,954 |
-| Qi Gong: Mind | 0.70% | ~4,954 |
-| I know Kung-Fu | 0.70% | ~4,954 |
+| Dance of the Praying Mantis | 0.70% | ~4,955 |
+| Qi Gong: Mind | 0.70% | ~4,955 |
+| I know Kung-Fu | 0.70% | ~4,955 |
 | Deadly Venom | 0.60% | ~103 |
 | A Touch of Acumen | 0.60% | ~103 |
 | Muk Yan Master | 0.50% | ~3,539 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,785 (Ranked 16)  
+Progressed: 707,797 (Ranked 16)  
 Completed: 12,763 (1.80%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 12,763 (1.80%) (Ranked 69)
 | 2023-06-04 | 707,419 | 12,757 |
 | 2023-06-05 | 707,566 | 12,758 |
 | 2023-06-06 | 707,727 | 12,763 |
-| 2023-06-07 | 707,785 | 12,763 |
+| 2023-06-07 | 707,797 | 12,763 |
 ## Awards
 Max (Great Boss Battles): 6,142  (Ranked 52)  
 Sum: 10,478 (Ranked 78)  

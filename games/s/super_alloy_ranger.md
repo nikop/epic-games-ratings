@@ -7,11 +7,11 @@
 | Iceberg Theory | 77.00% | ~27 |
 | Gear Up | 71.00% | ~25 |
 | A Grand Show | 71.00% | ~25 |
-| Freshen Up | 60.00% | ~21 |
+| Freshen Up | 63.00% | ~22 |
 | GG EZ | 57.00% | ~20 |
 | Hydrophobia | 37.00% | ~13 |
+| Stop Right There | 31.00% | ~11 |
 | Ka-Ching! | 29.00% | ~10 |
-| Stop Right There | 29.00% | ~10 |
 | Get to the Point | 26.00% | ~9 |
 | Toe to Toe | 11.00% | ~4 |
 | Phew! | 11.00% | ~4 |

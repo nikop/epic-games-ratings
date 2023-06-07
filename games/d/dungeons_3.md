@@ -6,17 +6,17 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~13,512 |
+| The Shadow strikes | 70.00% | ~13,513 |
 | The Evilest Evil | 59.00% | ~11,389 |
 | Twistram is devastated | 58.00% | ~11,196 |
 | The Gehenna Stones | 51.00% | ~9,845 |
-| No one has to die today! | 47.00% | ~9,072 |
-| Death and destruction! | 46.00% | ~8,879 |
-| The Swamplanders from the swamplands | 45.00% | ~8,686 |
-| The One-Huge-Army-Building Evil | 42.00% | ~8,107 |
-| Rusty Steel | 42.00% | ~8,107 |
-| The last burger | 39.00% | ~7,528 |
-| Braiiiiins! | 38.00% | ~7,335 |
+| No one has to die today! | 47.00% | ~9,073 |
+| Death and destruction! | 46.00% | ~8,880 |
+| The Swamplanders from the swamplands | 45.00% | ~8,687 |
+| The One-Huge-Army-Building Evil | 42.00% | ~8,108 |
+| Rusty Steel | 42.00% | ~8,108 |
+| The last burger | 39.00% | ~7,529 |
+| Braiiiiins! | 38.00% | ~7,336 |
 | Hands off the Dungeonheart! | 37.00% | ~7,142 |
 | A trip on sea, what fun it can be | 36.00% | ~6,949 |
 | Damned good | 34.00% | ~6,563 |
@@ -42,9 +42,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~3,475 |
 | Flat as a pancake | 18.00% | ~3,475 |
 | Lifeguard | 18.00% | ~3,475 |
-| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,088 |
-| This is fun, I’m going to keep doing this! | 13.00% | ~2,509 |
-| Then let them eat cake! | 13.00% | ~2,509 |
+| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,089 |
+| This is fun, I’m going to keep doing this! | 13.00% | ~2,510 |
+| Then let them eat cake! | 13.00% | ~2,510 |
 | Please, no interruptions! | 11.00% | ~2,123 |
 | The White Knight | 10.00% | ~1,930 |
 | Use the terrain | 9.00% | ~1,737 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~386 |
 | Sacrifices! | 2.00% | ~386 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,303 (Ranked 96)  
+Progressed: 19,304 (Ranked 96)  
 Completed: 167 (0.87%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 167 (0.87%) (Ranked 92)
 | 2023-06-04 | 19,046 | 164 |
 | 2023-06-05 | 19,153 | 165 |
 | 2023-06-06 | 19,274 | 167 |
-| 2023-06-07 | 19,303 | 167 |
+| 2023-06-07 | 19,304 | 167 |
 ## Awards
 Max (Great for Beginners): 324  (Ranked 220)  
 Sum: 2,556 (Ranked 166)  

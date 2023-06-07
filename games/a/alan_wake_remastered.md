@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 28.00% | ~14,724 |
-| Let There Be Light | 23.00% | ~12,095 |
-| Float Like a Butterfly | 22.00% | ~11,569 |
-| Nordic Walking | 17.00% | ~8,940 |
-| Bright Falls' Finest | 17.00% | ~8,940 |
-| Under a Thin Layer of Skin | 15.00% | ~7,888 |
-| Park Ranger | 12.00% | ~6,310 |
-| Paging Mr. Wake | 12.00% | ~6,310 |
-| Back! Back, I Say! | 11.00% | ~5,784 |
-| Finders Keepers | 11.00% | ~5,784 |
+| Follow the Light | 28.00% | ~14,726 |
+| Let There Be Light | 23.00% | ~12,096 |
+| Float Like a Butterfly | 22.00% | ~11,570 |
+| Nordic Walking | 17.00% | ~8,941 |
+| Bright Falls' Finest | 17.00% | ~8,941 |
+| Under a Thin Layer of Skin | 15.00% | ~7,889 |
+| Park Ranger | 12.00% | ~6,311 |
+| Paging Mr. Wake | 12.00% | ~6,311 |
+| Back! Back, I Say! | 11.00% | ~5,785 |
+| Finders Keepers | 11.00% | ~5,785 |
 | They're Heeeeeere! | 10.00% | ~5,259 |
 | Sound and Fury | 10.00% | ~5,259 |
 | Missed by a Mile | 10.00% | ~5,259 |
@@ -29,19 +29,19 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 8.00% | ~4,207 |
 | It's Not Just a Typewriter Brand | 8.00% | ~4,207 |
 | Thunder and Lightning | 8.00% | ~4,207 |
-| A Friend in Need | 8.00% | ~1,284 |
+| A Friend in Need | 8.00% | ~1,285 |
 | Gatekeeper | 7.00% | ~3,681 |
 | The Lady of the Light | 7.00% | ~3,681 |
 | Two For the Price of One | 7.00% | ~3,681 |
 | Energized! | 7.00% | ~3,681 |
-| What Light Through Yonder Window | 6.00% | ~3,155 |
-| Right of Way | 6.00% | ~3,155 |
-| A Friend Indeed | 6.00% | ~963 |
-| Tornado Wrangler | 5.00% | ~2,629 |
-| Departure | 5.00% | ~2,629 |
+| What Light Through Yonder Window | 6.00% | ~3,156 |
+| Right of Way | 6.00% | ~3,156 |
+| A Friend Indeed | 6.00% | ~964 |
+| Tornado Wrangler | 5.00% | ~2,630 |
+| Departure | 5.00% | ~2,630 |
 | Ding! | 5.00% | ~803 |
-| Drink 'Em Both Up | 4.00% | ~2,103 |
-| Hardboiled Writer | 4.00% | ~2,103 |
+| Drink 'Em Both Up | 4.00% | ~2,104 |
+| Hardboiled Writer | 4.00% | ~2,104 |
 | Boob Tube | 3.00% | ~1,578 |
 | Children of the Elder God | 3.00% | ~1,578 |
 | If It Flies, It Burns | 3.00% | ~1,578 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~53 |
 | No Punctuation | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,586 (Ranked 76)  
+Progressed: 52,592 (Ranked 76)  
 Completed: 50 (0.10%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 50 (0.10%) (Ranked 164)
 | 2023-06-04 | 52,120 | 48 |
 | 2023-06-05 | 52,335 | 49 |
 | 2023-06-06 | 52,515 | 50 |
-| 2023-06-07 | 52,586 | 50 |
+| 2023-06-07 | 52,592 | 50 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

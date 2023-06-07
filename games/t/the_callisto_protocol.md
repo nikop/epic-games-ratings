@@ -8,7 +8,7 @@ Rating: 4.18 (Ranked 840)
 | Flesh Wound | 12.00% | ~1,758 |
 | The Outer Way | 11.00% | ~1,612 |
 | Desperate Times | 10.00% | ~1,465 |
-| Paper Jams | 9.00% | ~1,318 |
+| Paper Jams | 9.00% | ~1,319 |
 | Chew 'Em Up | 8.00% | ~1,172 |
 | Reforged | 8.00% | ~1,172 |
 | Workplace Hazard | 7.00% | ~1,026 |
@@ -16,7 +16,7 @@ Rating: 4.18 (Ranked 840)
 | Giving Back | 6.00% | ~879 |
 | Get a Grip | 6.00% | ~879 |
 | Without A Paddle | 6.00% | ~879 |
-| Terminated | 5.00% | ~732 |
+| Terminated | 5.00% | ~733 |
 | Two Heads Are Better Than One | 4.00% | ~586 |
 | Float Like A Butterfly | 4.00% | ~586 |
 | In the Pipe, Five by Five | 4.00% | ~586 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,650 (Ranked 103)  
+Progressed: 14,651 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 54 (0.37%) (Ranked 118)
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
 | 2023-06-06 | 14,637 | 54 |
-| 2023-06-07 | 14,650 | 54 |
+| 2023-06-07 | 14,651 | 54 |
 ## Awards
 Max (Amazing Storytelling): 51  (Ranked 387)  
 Sum: 294 (Ranked 328)  

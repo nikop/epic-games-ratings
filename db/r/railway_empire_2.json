@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 964,
+  "EOS_Progressed": 965,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1316,6 +1316,11 @@
       "Time": "2023-06-07T02:27:44.2478396+00:00",
       "NumProgressed": 964,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T08:06:56.5678242+00:00",
+      "NumProgressed": 965,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -1405,9 +1410,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 666
     },
     {
       "ID": "A11",
@@ -1423,7 +1428,7 @@
       "Name": "Departure",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "A13",
@@ -1431,7 +1436,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "A14",
@@ -1439,7 +1444,7 @@
       "Name": "A new Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "A15",
@@ -1503,7 +1508,7 @@
       "Name": "Brainstorm",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "A23",
@@ -1551,7 +1556,7 @@
       "Name": "We brake for nobody",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "A29",
@@ -1567,7 +1572,7 @@
       "Name": "All mine",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "A31",
@@ -1581,9 +1586,9 @@
       "ID": "A32",
       "SetID": "9b7p7eo",
       "Name": "Assimilated",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 125
     },
     {
       "ID": "A33",
@@ -1599,7 +1604,7 @@
       "Name": "Producer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "A35",
@@ -1623,7 +1628,7 @@
       "Name": "All around the World",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "A38",
@@ -1639,7 +1644,7 @@
       "Name": "Bold and beautiful",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "A40",
@@ -1693,9 +1698,9 @@
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 627
     },
     {
       "ID": "A47",
@@ -1711,7 +1716,7 @@
       "Name": "Bull and bear",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "A49",
@@ -1766,14 +1771,14 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 964,
+      "Progressed": 965,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-07T07:06:40.4640019+00:00",
+  "LastChanged_Achievements": "2023-06-07T08:06:56.5678237+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-07T06:58:23.3672323+00:00",
-  "LastUpdate_Achievements": "2023-06-07T07:06:40.4640456+00:00"
+  "LastUpdate_Ratings": "2023-06-07T07:58:39.5855648+00:00",
+  "LastUpdate_Achievements": "2023-06-07T08:06:56.5678826+00:00"
 }
