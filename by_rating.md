@@ -109,7 +109,7 @@
 | 107 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 0 | 493 |
 | 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,067 | 89 |
 | 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 5,475 | 60 |
-| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 19,619 | 18 |
+| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 19,672 | 18 |
 | 107 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 493 |
 | 107 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 37 | 422 |
 | 107 | [SpiderHeck](games/s/spiderheck.md) | 4.77 | 0 | 493 |
@@ -258,6 +258,7 @@
 | 240 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 27 | 458 |
 | 240 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 32 | 439 |
 | 240 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 493 |
+| 259 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 493 |
 | 259 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 649 | 162 |
 | 259 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 493 |
 | 259 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 72 | 361 |
@@ -271,7 +272,6 @@
 | 259 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,221 | 99 |
 | 259 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 315 |
 | 259 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 48 | 397 |
-| 259 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 493 |
 | 259 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 493 |
 | 259 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 493 |
 | 259 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 86 | 345 |
@@ -279,7 +279,6 @@
 | 259 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,722 | 90 |
 | 259 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 106 | 317 |
 | 259 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 482 |
-| 280 | [APE OUT](games/a/ape_out.md) | 4.66 | 0 | 493 |
 | 280 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 410 |
 | 280 | [Crashlands](games/c/crashlands.md) | 4.66 | 190 | 266 |
 | 280 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 493 |
@@ -289,6 +288,7 @@
 | 280 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,046 | 134 |
 | 280 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 551 | 177 |
 | 280 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 493 |
+| 280 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.66 | 0 | 493 |
 | 280 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 451 | 192 |
 | 280 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 493 |
 | 280 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,782 | 56 |
@@ -357,7 +357,7 @@
 | 347 | [NORCO](games/n/norco.md) | 4.62 | 0 | 493 |
 | 347 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 493 |
 | 347 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 104 | 323 |
-| 347 | [Prey](games/p/prey.md) | 4.62 | 5,565 | 57 |
+| 347 | [Prey](games/p/prey.md) | 4.62 | 5,566 | 57 |
 | 347 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 493 |
 | 347 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 63 | 374 |
 | 361 | [20XX](games/2/20xx.md) | 4.61 | 36 | 424 |
@@ -373,7 +373,7 @@
 | 361 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,106 | 131 |
 | 361 | [MudRunner](games/m/mudrunner.md) | 4.61 | 238 | 245 |
 | 361 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 493 |
-| 361 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,505 | 91 |
+| 361 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,506 | 91 |
 | 361 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 622 | 163 |
 | 361 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 434 | 194 |
 | 361 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,177 | 36 |
@@ -926,10 +926,10 @@
 | 924 | [Potion Permit](games/p/potion_permit.md) | 3.80 | 66 | 370 |
 | 925 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.79 | 0 | 493 |
 | 925 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 0 | 493 |
-| 927 | [Poker Club](games/p/poker_club.md) | 3.78 | 0 | 493 |
 | 927 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,035 | 135 |
-| 929 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 493 |
-| 929 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 59 | 381 |
+| 928 | [Poker Club](games/p/poker_club.md) | 3.77 | 0 | 493 |
+| 928 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 493 |
+| 928 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 59 | 381 |
 | 931 | [To The Rescue](games/t/to_the_rescue.md) | 3.76 | 0 | 493 |
 | 932 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 493 |
 | 933 | [Blood of Steel](games/b/blood_of_steel.md) | 3.74 | 0 | 493 |

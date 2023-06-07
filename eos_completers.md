@@ -64,12 +64,12 @@
 | 62 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.25% |
 | 63 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 64 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
-| 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
+| 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.14% |
 | 66 | [Iron Danger](games/i/iron_danger.md) | 2.06% |
 | 67 | [JARS](games/j/jars.md) | 1.92% |
 | 68 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 69 | [Sifu](games/s/sifu.md) | 1.80% |
-| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.71% |
+| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.69% |
 | 71 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
 | 73 | [Somerville](games/s/somerville.md) | 1.59% |
@@ -434,4 +434,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,735 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,736 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
