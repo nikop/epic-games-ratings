@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2276,
+  "EOS_Progressed": 2277,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2317,6 +2317,11 @@
       "Time": "2023-06-07T04:06:10.2834267+00:00",
       "NumProgressed": 2276,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T10:06:11.037181+00:00",
+      "NumProgressed": 2277,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2376,7 +2381,7 @@
       "Name": "Elemental master",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2392,7 +2397,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2464,7 +2469,7 @@
       "Name": "Old friend",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2504,7 +2509,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2512,7 +2517,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2544,7 +2549,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2584,7 +2589,7 @@
       "Name": "Glyndemere",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -2670,9 +2675,9 @@
       "ID": "STB_SECONDARY_ASSAULT_II",
       "SetID": "3pe2bac",
       "Name": "Cypress Glen Headquarters",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 706
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2720,7 +2725,7 @@
       "Name": "Full equipped",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -2736,7 +2741,7 @@
       "Name": "Ancient power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -2744,14 +2749,14 @@
       "Name": "Petricite Burst",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2276,
+      "Progressed": 2277,
       "Completed": 1
     }
   ],
@@ -2759,8 +2764,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-05T19:57:57.2340443+00:00",
-  "LastChanged_Achievements": "2023-06-07T09:06:28.4816946+00:00",
+  "LastChanged_Achievements": "2023-06-07T10:06:11.0371805+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.5523883+00:00",
-  "LastUpdate_Ratings": "2023-06-07T08:57:52.0877687+00:00",
-  "LastUpdate_Achievements": "2023-06-07T09:06:28.4817405+00:00"
+  "LastUpdate_Ratings": "2023-06-07T09:57:44.9776925+00:00",
+  "LastUpdate_Achievements": "2023-06-07T10:06:11.0372263+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4933,
+  "EOS_Progressed": 4934,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1359,6 +1359,11 @@
       "Time": "2023-06-07T06:05:56.738379+00:00",
       "NumProgressed": 4933,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T10:06:20.8441749+00:00",
+      "NumProgressed": 4934,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1482,7 +1487,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2466
+      "UsersEstimate": 2467
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1624,9 +1629,9 @@
       "ID": "ach_campaign_special5",
       "SetID": "8cb3id7",
       "Name": "Extra Life: Wish Granted",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 197
     },
     {
       "ID": "ach_campaign_special6",
@@ -1977,15 +1982,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4933,
+      "Progressed": 4934,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-07T09:06:39.7922256+00:00",
+  "LastChanged_Achievements": "2023-06-07T10:06:20.8441742+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-07T08:59:15.629269+00:00",
-  "LastUpdate_Achievements": "2023-06-07T09:06:39.792295+00:00"
+  "LastUpdate_Ratings": "2023-06-07T09:58:53.5127893+00:00",
+  "LastUpdate_Achievements": "2023-06-07T10:06:20.8442453+00:00"
 }

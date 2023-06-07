@@ -15,21 +15,21 @@ Rating: 4.77 (Ranked 107)
 | First Class Student | 7.00% | ~19,384 |
 | Troll with the Punches | 7.00% | ~19,384 |
 | That's a Keeper | 7.00% | ~19,384 |
-| The Hero of Hogwarts | 6.00% | ~16,614 |
-| Challenge Accepted | 6.00% | ~16,614 |
-| Loom for Improvement | 6.00% | ~16,614 |
-| A Talent for Spending | 6.00% | ~16,614 |
-| Rising From the Ashes | 6.00% | ~16,614 |
-| The Avenging Gazelle | 5.00% | ~13,845 |
-| Beast Friends | 5.00% | ~13,845 |
-| A Sallow Grave | 5.00% | ~13,845 |
-| Flight the Good Flight | 5.00% | ~13,845 |
-| Followed the Butterflies | 5.00% | ~13,845 |
-| The Spell Master | 5.00% | ~13,845 |
-| The Seeker of Knowledge | 4.00% | ~11,076 |
-| The Root of the Problem | 4.00% | ~11,076 |
-| Third Time's a Charm | 4.00% | ~11,076 |
-| Raising Expectations | 4.00% | ~11,076 |
+| The Hero of Hogwarts | 6.00% | ~16,615 |
+| Challenge Accepted | 6.00% | ~16,615 |
+| Loom for Improvement | 6.00% | ~16,615 |
+| A Talent for Spending | 6.00% | ~16,615 |
+| Rising From the Ashes | 6.00% | ~16,615 |
+| The Avenging Gazelle | 5.00% | ~13,846 |
+| Beast Friends | 5.00% | ~13,846 |
+| A Sallow Grave | 5.00% | ~13,846 |
+| Flight the Good Flight | 5.00% | ~13,846 |
+| Followed the Butterflies | 5.00% | ~13,846 |
+| The Spell Master | 5.00% | ~13,846 |
+| The Seeker of Knowledge | 4.00% | ~11,077 |
+| The Root of the Problem | 4.00% | ~11,077 |
+| Third Time's a Charm | 4.00% | ~11,077 |
+| Raising Expectations | 4.00% | ~11,077 |
 | The Toast of the Town | 3.00% | ~8,307 |
 | Room with a View | 3.00% | ~8,307 |
 | The Intrepid Explorer | 3.00% | ~8,307 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.40% | ~1,108 |
 | Collector's Edition | 0.20% | ~554 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 276,908 (Ranked 40)  
+Progressed: 276,914 (Ranked 40)  
 Completed: 389 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 389 (0.14%) (Ranked 156)
 | 2023-06-04 | 276,277 | 386 |
 | 2023-06-05 | 276,567 | 388 |
 | 2023-06-06 | 276,816 | 389 |
-| 2023-06-07 | 276,908 | 389 |
+| 2023-06-07 | 276,914 | 389 |
 ## Awards
 Max (Character Customization): 19,672  (Ranked 18)  
 Sum: 36,377 (Ranked 32)  

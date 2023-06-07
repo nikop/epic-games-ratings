@@ -2652,10 +2652,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6710,
       "NumberOfAwardsMax": 1655
+    },
+    {
+      "Time": "2023-06-07T09:58:20.3950994+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6711,
+      "NumberOfAwardsMax": 1655
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6710,
+  "NumberOfAwards": 6711,
   "NumberOfAwardsMax": 1655,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2693,7 +2699,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 611
+      "Count": 612
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2728,7 +2734,7 @@
   ],
   "EOS_Progressed": 9603,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5790,9 +5796,9 @@
       "ID": "01_DevouredByDarkness",
       "SetID": "989of5o",
       "Name": "Devoured by Darkness",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1633
     },
     {
       "ID": "02_BurningCity",
@@ -6731,9 +6737,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-06T22:58:16.7864954+00:00",
-  "LastChanged_Achievements": "2023-06-07T09:06:44.0051798+00:00",
+  "LastChanged": "2023-06-07T09:58:20.3950993+00:00",
+  "LastChanged_Achievements": "2023-06-07T10:06:24.5419196+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-07T08:58:37.1244124+00:00",
-  "LastUpdate_Achievements": "2023-06-07T09:06:44.0053204+00:00"
+  "LastUpdate_Ratings": "2023-06-07T09:58:20.3950997+00:00",
+  "LastUpdate_Achievements": "2023-06-07T10:06:24.5420718+00:00"
 }

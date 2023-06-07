@@ -5,11 +5,11 @@ Rating: 4.45 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 27.00% | ~633 |
+| Meeting Resistance | 28.00% | ~657 |
 | Confirming Suspicions | 23.00% | ~540 |
 | The Kraken Wakes | 18.00% | ~422 |
 | It's Starting to Crack | 15.00% | ~352 |
-| Lord of War | 14.00% | ~328 |
+| Lord of War | 14.00% | ~329 |
 | Change the Channel | 13.00% | ~305 |
 | Resourceful | 12.00% | ~282 |
 | Taking it back | 11.00% | ~258 |
@@ -52,9 +52,9 @@ Rating: 4.45 (Ranked 616)
 | From Paris with Love | 0.60% | ~14 |
 | Burn after reading | 0.60% | ~14 |
 | Souvenir hunter | 0.50% | ~12 |
+| Shoot for the Moon | 0.50% | ~12 |
 | Eagle Eyed | 0.40% | ~9 |
 | Up close and personal | 0.40% | ~9 |
-| Shoot for the Moon | 0.40% | ~9 |
 | If You Go Down To The Woods Today | 0.40% | ~9 |
 | Fight Another Day | 0.40% | ~9 |
 | Can't Outrun A Bullet | 0.30% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 616)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,346 (Ranked 147)  
+Progressed: 2,347 (Ranked 147)  
 Completed: 2 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |

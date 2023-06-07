@@ -1,25 +1,25 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.60 (Ranked 386)  
+Rating: 4.59 (Ranked 407)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~7,828 |
-| Pay 'n' Spray | 48.00% | ~4,697 |
-| All Dressed Up for San Fierro | 23.00% | ~2,251 |
-| The American Dream | 17.00% | ~1,663 |
+| Getting Started | 80.00% | ~7,832 |
+| Pay 'n' Spray | 48.00% | ~4,699 |
+| All Dressed Up for San Fierro | 23.00% | ~2,252 |
+| The American Dream | 17.00% | ~1,664 |
 | School's Out | 16.00% | ~1,566 |
 | Smooth Moves | 15.00% | ~1,468 |
-| Today Was a Good Day | 13.00% | ~1,272 |
-| What happens in Las Venturas... | 12.00% | ~1,174 |
+| Today Was a Good Day | 13.00% | ~1,273 |
+| What happens in Las Venturas... | 12.00% | ~1,175 |
 | Horror of the Santa Maria | 9.00% | ~881 |
 | Liberty City State of Mind | 7.00% | ~685 |
 | With Extra Dip | 6.00% | ~587 |
 | The End of the Line | 6.00% | ~587 |
 | Original Gangster | 6.00% | ~587 |
-| Saviour | 5.00% | ~489 |
-| Rescue a Kitten Too? | 4.00% | ~391 |
+| Saviour | 5.00% | ~490 |
+| Rescue a Kitten Too? | 4.00% | ~392 |
 | They Can’t Stop All of Us | 3.00% | ~294 |
 | What are the Odds | 3.00% | ~294 |
 | I’ll Have Two Number 9s | 2.00% | ~196 |
@@ -35,13 +35,13 @@ Rating: 4.60 (Ranked 386)
 | Ain’t Nothing But a G Thing | 1.00% | ~98 |
 | Lucky Spinner | 0.80% | ~78 |
 | Chick Magnet | 0.80% | ~78 |
-| Hoopin' it Up | 0.70% | ~68 |
+| Hoopin' it Up | 0.70% | ~69 |
 | Not a Player | 0.60% | ~59 |
 | Remastered | 0.40% | ~39 |
 | ...Here we go again | 0.20% | ~20 |
 | I Ain't No Buster | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,785 (Ranked 110)  
+Progressed: 9,790 (Ranked 110)  
 Completed: 17 (0.17%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 17 (0.17%) (Ranked 149)
 | 2023-06-04 | 9,539 | 17 |
 | 2023-06-05 | 9,646 | 17 |
 | 2023-06-06 | 9,746 | 17 |
-| 2023-06-07 | 9,785 | 17 |
+| 2023-06-07 | 9,790 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -143,3 +143,4 @@ Completed: 17 (0.17%) (Ranked 149)
 | 2023-06-02 | 4.60 | 0 | 0 |
 | 2023-06-03 | 4.61 | 0 | 0 |
 | 2023-06-04 | 4.60 | 0 | 0 |
+| 2023-06-07 | 4.59 | 0 | 0 |

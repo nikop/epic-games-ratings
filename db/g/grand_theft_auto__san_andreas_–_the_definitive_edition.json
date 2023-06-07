@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 386,
+  "Ranking_Rating": 407,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 110,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -356,15 +356,21 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-07T10:00:00.0297826+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9785,
+  "EOS_Progressed": 9790,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 789,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3902,6 +3908,11 @@
       "Time": "2023-06-07T09:06:39.3614788+00:00",
       "NumProgressed": 9785,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-07T10:06:20.4453767+00:00",
+      "NumProgressed": 9790,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -3913,7 +3924,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7828
+      "UsersEstimate": 7832
     },
     {
       "ID": "ACH02",
@@ -3937,7 +3948,7 @@
       "Name": "Hoopin\u0027 it Up",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH05",
@@ -3961,7 +3972,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ACH08",
@@ -3969,7 +3980,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4697
+      "UsersEstimate": 4699
     },
     {
       "ID": "ACH09",
@@ -4049,7 +4060,7 @@
       "Name": "Saviour",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH19",
@@ -4057,7 +4068,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH20",
@@ -4081,7 +4092,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "ACH23",
@@ -4089,7 +4100,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "ACH24",
@@ -4137,7 +4148,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "ACH30",
@@ -4192,16 +4203,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 9785,
+      "Progressed": 9790,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-06-04T17:01:19.8705594+00:00",
-  "LastChanged_Achievements": "2023-06-07T09:06:39.3614783+00:00",
+  "LastChanged": "2023-06-07T10:00:00.0297825+00:00",
+  "LastChanged_Achievements": "2023-06-07T10:06:20.4453762+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.816384+00:00",
-  "LastUpdate_Ratings": "2023-06-07T09:00:36.5381662+00:00",
-  "LastUpdate_Achievements": "2023-06-07T09:06:39.3615138+00:00"
+  "LastUpdate_Ratings": "2023-06-07T10:00:00.0297832+00:00",
+  "LastUpdate_Achievements": "2023-06-07T10:06:20.4454132+00:00"
 }

@@ -1412,9 +1412,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 63916,
+  "EOS_Progressed": 63919,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 954,
+  "EOS_NewPlayers": 956,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5362,6 +5362,11 @@
       "Time": "2023-06-07T09:06:41.0700886+00:00",
       "NumProgressed": 63916,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-07T10:06:21.9762314+00:00",
+      "NumProgressed": 63919,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 61,
@@ -5517,7 +5522,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -5573,7 +5578,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -5677,7 +5682,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "HARLEY_2",
@@ -5765,7 +5770,7 @@
       "Name": "Loose Ends",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "MYSTERY_02",
@@ -5860,13 +5865,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 63916,
+      "Progressed": 63919,
       "Completed": 94
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34196,
+      "Progressed": 34199,
       "Completed": 2644
     }
   ],
@@ -5874,8 +5879,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-06T15:00:40.7549932+00:00",
-  "LastChanged_Achievements": "2023-06-07T09:06:41.0700882+00:00",
+  "LastChanged_Achievements": "2023-06-07T10:06:21.9762307+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-07T09:00:03.6171746+00:00",
-  "LastUpdate_Achievements": "2023-06-07T09:06:41.0701524+00:00"
+  "LastUpdate_Ratings": "2023-06-07T09:59:33.1902615+00:00",
+  "LastUpdate_Achievements": "2023-06-07T10:06:21.9762952+00:00"
 }

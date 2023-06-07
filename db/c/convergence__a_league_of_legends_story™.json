@@ -1103,17 +1103,17 @@
       "ID": "CultivairChests1",
       "SetID": "a9e499d",
       "Name": "Cultivair Explorer",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "EntresolChests1",
       "SetID": "a9e499d",
       "Name": "Entresol Explorer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -1199,9 +1199,9 @@
       "ID": "InxChromaInTheatre",
       "SetID": "a9e499d",
       "Name": "Fitting In",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "JinxDefeated",
@@ -1454,8 +1454,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-07T09:05:43.2728153+00:00",
+  "LastChanged_Achievements": "2023-06-07T10:05:32.982193+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-07T08:59:43.5747093+00:00",
-  "LastUpdate_Achievements": "2023-06-07T09:05:43.2728567+00:00"
+  "LastUpdate_Ratings": "2023-06-07T09:59:17.4562548+00:00",
+  "LastUpdate_Achievements": "2023-06-07T10:05:32.9822444+00:00"
 }

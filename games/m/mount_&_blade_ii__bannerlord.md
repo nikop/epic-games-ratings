@@ -6,23 +6,23 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~18,323 |
-| Landlord | 30.00% | ~15,706 |
-| Bannerlord | 21.00% | ~10,994 |
-| Horde breaker | 21.00% | ~10,994 |
-| Lawmaker | 21.00% | ~10,994 |
-| Trained | 20.00% | ~10,470 |
-| King Solomon | 16.00% | ~8,376 |
-| The king is pleased | 16.00% | ~8,376 |
-| Apple of my eye | 14.00% | ~7,329 |
-| I can do it | 14.00% | ~7,329 |
-| God of the Arena | 12.00% | ~6,282 |
-| Against all odds | 10.00% | ~5,235 |
+| Lawbringer | 35.00% | ~18,325 |
+| Landlord | 30.00% | ~15,707 |
+| Bannerlord | 21.00% | ~10,995 |
+| Horde breaker | 21.00% | ~10,995 |
+| Lawmaker | 21.00% | ~10,995 |
+| Trained | 20.00% | ~10,471 |
+| King Solomon | 16.00% | ~8,377 |
+| The king is pleased | 16.00% | ~8,377 |
+| Apple of my eye | 14.00% | ~7,330 |
+| I can do it | 14.00% | ~7,330 |
+| God of the Arena | 12.00% | ~6,283 |
+| Against all odds | 10.00% | ~5,236 |
 | Swordbearer | 9.00% | ~4,712 |
-| Duelist | 8.00% | ~4,188 |
-| Dynasty | 8.00% | ~4,188 |
-| I spit on your grave | 8.00% | ~4,188 |
-| What have the Romans ever done for us? | 8.00% | ~4,188 |
+| Duelist | 8.00% | ~4,189 |
+| Dynasty | 8.00% | ~4,189 |
+| I spit on your grave | 8.00% | ~4,189 |
+| What have the Romans ever done for us? | 8.00% | ~4,189 |
 | Butterlord | 7.00% | ~3,665 |
 | This Is Our Land | 7.00% | ~3,665 |
 | Mastery | 6.00% | ~3,141 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,352 (Ranked 77)  
+Progressed: 52,357 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 52,108 | 0 |
 | 2023-06-05 | 52,211 | 0 |
 | 2023-06-06 | 52,322 | 0 |
-| 2023-06-07 | 52,352 | 0 |
+| 2023-06-07 | 52,357 | 0 |
 ## Awards
 Max (Character Customization): 6,636  (Ranked 49)  
 Sum: 13,312 (Ranked 67)  

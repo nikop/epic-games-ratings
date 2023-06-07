@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~704 |
-| A new Journey | 71.00% | ~685 |
+| A new Journey | 72.00% | ~695 |
+| From X to Y | 70.00% | ~676 |
 | Departure | 70.00% | ~676 |
-| From X to Y | 69.00% | ~666 |
 | Way of Iron | 68.00% | ~656 |
 | Mystery Tour | 66.00% | ~637 |
 | Brainstorm | 65.00% | ~627 |
@@ -60,7 +60,7 @@
 | Together we stand | 0.10% | ~1 |
 | United States | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 965 (Ranked 176)  
+Progressed: 965 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

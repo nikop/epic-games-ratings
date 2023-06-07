@@ -26,6 +26,7 @@
 | The Family Fortune | 2.00% | ~12 |
 | Chaincrawler Explorer | 1.00% | ~6 |
 | Right On Time | 1.00% | ~6 |
+| Cultivair Explorer | 1.00% | ~6 |
 | Family Memories | 1.00% | ~6 |
 | Factorywood Explorer | 1.00% | ~6 |
 | The Mysterious Stranger | 1.00% | ~6 |
@@ -38,22 +39,21 @@
 | Ask Questions Later | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
 | The Brass Boss | 1.00% | ~6 |
-| Cultivair Explorer | 0.80% | ~5 |
 | Honest Mistake | 0.80% | ~5 |
 | Sartorialist | 0.60% | ~4 |
+| Entresol Explorer | 0.60% | ~4 |
 | Golem Hunter | 0.60% | ~4 |
 | Rungs Was Right | 0.60% | ~4 |
 | Syron for Hope | 0.60% | ~4 |
 | Corin Goes Home | 0.50% | ~3 |
-| Entresol Explorer | 0.50% | ~3 |
 | Fairgrounds Explorer | 0.50% | ~3 |
 | Hexlock for Protection | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |
+| Fitting In | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |
 | A Lesson in Precision | 0.20% | ~1 |
 | Clovemary for Remembering | 0.00% | ~0 |
 | Wunderkind | 0.00% | ~0 |
-| Fitting In | 0.00% | ~0 |
 | Going to Live Forever | 0.00% | ~0 |
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |

@@ -5,26 +5,26 @@ Rating: 4.35 (Ranked 727)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~959 |
+| First Blood | 92.00% | ~960 |
 | Ranidaphobia | 75.00% | ~782 |
-| Aspiring Editor | 73.00% | ~761 |
-| Gun for Hire | 67.00% | ~698 |
+| Aspiring Editor | 72.00% | ~751 |
+| Gun for Hire | 67.00% | ~699 |
 | I am the law! | 59.00% | ~615 |
 | Lumberjack | 45.00% | ~469 |
 | Croaked | 40.00% | ~417 |
-| Limp Richard | 39.00% | ~406 |
+| Limp Richard | 39.00% | ~407 |
 | From Darkness to Light | 38.00% | ~396 |
 | Exorcist | 37.00% | ~386 |
 | Firestarter | 37.00% | ~386 |
 | Editor Adept | 36.00% | ~375 |
 | Giant Killer | 33.00% | ~344 |
-| Sensei | 32.00% | ~333 |
+| Sensei | 32.00% | ~334 |
 | The meaning of Kain | 30.00% | ~313 |
-| Technophobe | 27.00% | ~281 |
-| Recycler | 25.00% | ~260 |
+| Technophobe | 27.00% | ~282 |
+| Recycler | 25.00% | ~261 |
 | Are you not entertained? | 21.00% | ~219 |
 | Jarhead | 21.00% | ~219 |
-| Ganglord | 20.00% | ~208 |
+| Ganglord | 20.00% | ~209 |
 | Chain Killer | 19.00% | ~198 |
 | Infiltrator | 19.00% | ~198 |
 | Pushing Daisy | 19.00% | ~198 |
@@ -32,9 +32,9 @@ Rating: 4.35 (Ranked 727)
 | Hold The Line | 17.00% | ~177 |
 | Experienced | 16.00% | ~167 |
 | Newtonian Knockout | 14.00% | ~146 |
-| Endgame | 13.00% | ~135 |
-| Savior | 13.00% | ~135 |
-| The Watchers | 13.00% | ~135 |
+| Endgame | 13.00% | ~136 |
+| Savior | 13.00% | ~136 |
+| The Watchers | 13.00% | ~136 |
 | Ruthless | 11.00% | ~115 |
 | Dr Jones | 9.00% | ~94 |
 | Chaos Theory | 8.00% | ~83 |
@@ -57,7 +57,7 @@ Rating: 4.35 (Ranked 727)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,042 (Ranked 171)  
+Progressed: 1,043 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 1,019 | 0 |
 | 2023-06-05 | 1,035 | 0 |
 | 2023-06-06 | 1,041 | 0 |
-| 2023-06-07 | 1,042 | 0 |
+| 2023-06-07 | 1,043 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

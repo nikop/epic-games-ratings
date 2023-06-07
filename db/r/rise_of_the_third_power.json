@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.17,
+  "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -71,6 +71,11 @@
       "Time": "2023-06-06T18:07:46.617028+00:00",
       "NumProgressed": 126,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-07T10:06:00.9379852+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 21,
@@ -80,9 +85,9 @@
       "ID": "Attuned",
       "SetID": "4nce15l",
       "Name": "Attuned",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 46
     },
     {
       "ID": "BeginningOfTheEnd",
@@ -98,7 +103,7 @@
       "Name": "Bling",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Bloodlust",
@@ -120,9 +125,9 @@
       "ID": "EmpyreanChampion",
       "SetID": "4nce15l",
       "Name": "Empyrean Champion",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 130,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Expert",
@@ -138,7 +143,7 @@
       "Name": "Feast",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Geared",
@@ -154,7 +159,7 @@
       "Name": "Gettin\u0027 It Done",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "MasterCrafter",
@@ -170,7 +175,7 @@
       "Name": "Master Trader",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MysteriesOfRin",
@@ -184,9 +189,9 @@
       "ID": "Opulent",
       "SetID": "4nce15l",
       "Name": "Opulent",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 41
     },
     {
       "ID": "Overpowered",
@@ -194,15 +199,15 @@
       "Name": "Overpowered",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Patience",
       "SetID": "4nce15l",
       "Name": "Patience",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ReadyToRock",
@@ -210,7 +215,7 @@
       "Name": "Ready to Rock",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SideJob",
@@ -218,7 +223,7 @@
       "Name": "Side Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Sparkly",
@@ -249,7 +254,7 @@
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 4
     }
   ],
@@ -257,8 +262,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-07T09:06:16.6830292+00:00",
+  "LastChanged_Achievements": "2023-06-07T10:06:00.9379847+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:18.9283981+00:00",
-  "LastUpdate_Ratings": "2023-06-07T08:59:18.1585964+00:00",
-  "LastUpdate_Achievements": "2023-06-07T09:06:16.6830398+00:00"
+  "LastUpdate_Ratings": "2023-06-07T09:58:55.5487832+00:00",
+  "LastUpdate_Achievements": "2023-06-07T10:06:00.9379975+00:00"
 }

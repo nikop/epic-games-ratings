@@ -445,9 +445,9 @@
       "ID": "Epic_SpendMoney_100000",
       "SetID": "ba1m2fc",
       "Name": "God of Wealth",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Epic_SwampPet_1",
@@ -516,8 +516,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-07T09:03:19.0757086+00:00",
+  "LastChanged_Achievements": "2023-06-07T10:03:31.8790673+00:00",
   "LastUpdate_AppInfo": "2023-06-01T03:24:11.2191819+00:00",
-  "LastUpdate_Ratings": "2023-06-07T08:57:11.1097697+00:00",
-  "LastUpdate_Achievements": "2023-06-07T09:03:19.0757412+00:00"
+  "LastUpdate_Ratings": "2023-06-07T09:57:10.1843445+00:00",
+  "LastUpdate_Achievements": "2023-06-07T10:03:31.8790993+00:00"
 }

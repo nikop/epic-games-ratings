@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 989,
+  "EOS_Progressed": 991,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -945,6 +945,11 @@
       "Time": "2023-06-07T06:05:49.8854006+00:00",
       "NumProgressed": 989,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T10:06:13.907919+00:00",
+      "NumProgressed": 991,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1004,7 +1009,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Defense_Common",
@@ -1084,7 +1089,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "High_noon",
@@ -1092,7 +1097,7 @@
       "Name": "Payback Time",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "How",
@@ -1108,7 +1113,7 @@
       "Name": "Spice It Up",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "KillAllM2",
@@ -1148,7 +1153,7 @@
       "Name": "Mosquito bite",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Scout",
@@ -1195,15 +1200,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 989,
+      "Progressed": 991,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-07T09:06:31.8450346+00:00",
+  "LastChanged_Achievements": "2023-06-07T10:06:13.9079185+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
-  "LastUpdate_Ratings": "2023-06-07T08:59:32.9020215+00:00",
-  "LastUpdate_Achievements": "2023-06-07T09:06:31.845054+00:00"
+  "LastUpdate_Ratings": "2023-06-07T09:59:08.882+00:00",
+  "LastUpdate_Achievements": "2023-06-07T10:06:13.907939+00:00"
 }

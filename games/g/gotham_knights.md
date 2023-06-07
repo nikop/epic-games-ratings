@@ -6,8 +6,8 @@ Rating: 4.17 (Ranked 847)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 4.00% | ~2,557 |
-| Har, Har, Har, Very Funny | 3.00% | ~1,917 |
-| Loose Ends | 3.00% | ~1,917 |
+| Har, Har, Har, Very Funny | 3.00% | ~1,918 |
+| Loose Ends | 3.00% | ~1,918 |
 | The Batman Family | 2.00% | ~1,278 |
 | Something in the Clay | 2.00% | ~1,278 |
 | To the Victor Go the Spoils | 2.00% | ~1,278 |
@@ -38,8 +38,8 @@ Rating: 4.17 (Ranked 847)
 | Drone You Out | 0.80% | ~511 |
 | Out of Their League | 0.70% | ~447 |
 | Solid Alibi | 0.70% | ~447 |
-| Fusion Expert | 0.60% | ~383 |
-| Family Meeting | 0.60% | ~383 |
+| Fusion Expert | 0.60% | ~384 |
+| Family Meeting | 0.60% | ~384 |
 | Expert Crime Fighter | 0.50% | ~320 |
 | A Worthy Successor | 0.50% | ~320 |
 | Dressed to Impress | 0.40% | ~256 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 847)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,916 (Ranked 71)  
+Progressed: 63,919 (Ranked 71)  
 Completed: 94 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 94 (0.15%) (Ranked 154)
 | 2023-06-04 | 63,645 | 93 |
 | 2023-06-05 | 63,770 | 93 |
 | 2023-06-06 | 63,871 | 94 |
-| 2023-06-07 | 63,916 | 94 |
+| 2023-06-07 | 63,919 | 94 |
 ## Awards
 Max (Great Boss Battles): 2,304  (Ranked 97)  
 Sum: 3,809 (Ranked 137)  

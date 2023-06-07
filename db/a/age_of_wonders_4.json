@@ -196,7 +196,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4393,
+  "EOS_Progressed": 4395,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
@@ -3256,6 +3256,11 @@
       "Time": "2023-06-07T09:04:53.9809648+00:00",
       "NumProgressed": 4393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T10:04:52.0021976+00:00",
+      "NumProgressed": 4395,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3267,7 +3272,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "10",
@@ -3283,7 +3288,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "12",
@@ -3307,7 +3312,7 @@
       "Name": "Full Ascension",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "15",
@@ -3355,7 +3360,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "20",
@@ -3379,7 +3384,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3295
+      "UsersEstimate": 3296
     },
     {
       "ID": "23",
@@ -3387,7 +3392,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3470
+      "UsersEstimate": 3472
     },
     {
       "ID": "24",
@@ -3395,7 +3400,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3295
+      "UsersEstimate": 3296
     },
     {
       "ID": "25",
@@ -3403,7 +3408,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3207
+      "UsersEstimate": 3208
     },
     {
       "ID": "26",
@@ -3411,7 +3416,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "27",
@@ -3427,7 +3432,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3031
+      "UsersEstimate": 3033
     },
     {
       "ID": "29",
@@ -3435,7 +3440,7 @@
       "Name": "Stronger Together",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2416
+      "UsersEstimate": 2417
     },
     {
       "ID": "3",
@@ -3457,9 +3462,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2813
     },
     {
       "ID": "32",
@@ -3467,7 +3472,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "33",
@@ -3475,7 +3480,7 @@
       "Name": "Seat of Power",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "34",
@@ -3483,7 +3488,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "35",
@@ -3523,7 +3528,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "4",
@@ -3531,7 +3536,7 @@
       "Name": "The Eternal Court",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "40",
@@ -3539,7 +3544,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "41",
@@ -3547,7 +3552,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "42",
@@ -3571,7 +3576,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "5",
@@ -3618,13 +3623,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4393,
-      "Completed": 4393
+      "Progressed": 4395,
+      "Completed": 4395
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4393,
+      "Progressed": 4395,
       "Completed": 0
     }
   ],
@@ -3632,8 +3637,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-06T09:59:44.2906196+00:00",
-  "LastChanged_Achievements": "2023-06-07T09:04:53.9809643+00:00",
+  "LastChanged_Achievements": "2023-06-07T10:04:52.0021971+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-07T08:59:46.070332+00:00",
-  "LastUpdate_Achievements": "2023-06-07T09:04:53.9810085+00:00"
+  "LastUpdate_Ratings": "2023-06-07T09:59:19.5017135+00:00",
+  "LastUpdate_Achievements": "2023-06-07T10:04:52.0022413+00:00"
 }

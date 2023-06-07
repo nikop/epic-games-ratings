@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 16.00% | ~1,536 |
+| Devoured by Darkness | 17.00% | ~1,633 |
 | A Spark | 12.00% | ~1,152 |
 | Burning City | 11.00% | ~1,056 |
 | Mythic Choices | 9.00% | ~864 |
@@ -174,14 +174,14 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-07 | 9,603 | 0 |
 ## Awards
 Max (Character Customization): 1,655  (Ranked 111)  
-Sum: 6,710 (Ranked 109)  
+Sum: 6,711 (Ranked 109)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,655 |
 | This game is Extremely Fun | 633 |
+| This game is Highly Recommended | 612 |
 | This game has Amazing Characters | 611 |
-| This game is Highly Recommended | 611 |
 | This game has Diverse Characters | 599 |
 | This game has Amazing Storytelling | 593 |
 | This game has Quickly Understood Controls | 553 |
@@ -323,3 +323,4 @@ Diff (max vs sum): 2
 | 2023-06-04 | 4.76 | - | 1,651 | 6,695 |
 | 2023-06-05 | 4.76 | - | 1,655 | 6,704 |
 | 2023-06-06 | 4.76 | - | 1,655 | 6,710 |
+| 2023-06-07 | 4.76 | - | 1,655 | 6,711 |

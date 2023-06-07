@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 52595,
+  "EOS_Progressed": 52600,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 2020,
+  "EOS_NewPlayers": 2013,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4026,6 +4026,11 @@
       "Time": "2023-06-07T09:06:26.652925+00:00",
       "NumProgressed": 52595,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-06-07T10:06:09.4535585+00:00",
+      "NumProgressed": 52600,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 67,
@@ -4035,9 +4040,9 @@
       "ID": "01",
       "SetID": "212770e",
       "Name": "Follow the Light",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 14727
+      "UsersEstimate": 15254
     },
     {
       "ID": "02",
@@ -4045,7 +4050,7 @@
       "Name": "Nordic Walking",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8941
+      "UsersEstimate": 8942
     },
     {
       "ID": "03",
@@ -4053,7 +4058,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8941
+      "UsersEstimate": 8942
     },
     {
       "ID": "04",
@@ -4069,7 +4074,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "06",
@@ -4077,7 +4082,7 @@
       "Name": "Park Ranger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "07",
@@ -4277,7 +4282,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5785
+      "UsersEstimate": 5786
     },
     {
       "ID": "32",
@@ -4285,7 +4290,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 11571
+      "UsersEstimate": 11572
     },
     {
       "ID": "33",
@@ -4309,7 +4314,7 @@
       "Name": "Let There Be Light",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 12097
+      "UsersEstimate": 12098
     },
     {
       "ID": "36",
@@ -4357,7 +4362,7 @@
       "Name": "Finders Keepers",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5785
+      "UsersEstimate": 5786
     },
     {
       "ID": "42",
@@ -4373,7 +4378,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "44",
@@ -4572,21 +4577,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 52595,
+      "Progressed": 52600,
       "Completed": 50
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 16063,
+      "Progressed": 16068,
       "Completed": 32
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-06-07T09:06:26.6529245+00:00",
+  "LastChanged_Achievements": "2023-06-07T10:06:09.4535578+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:48.7333402+00:00",
-  "LastUpdate_Ratings": "2023-06-07T08:57:55.5114974+00:00",
-  "LastUpdate_Achievements": "2023-06-07T09:06:26.6529919+00:00"
+  "LastUpdate_Ratings": "2023-06-07T09:57:47.5610797+00:00",
+  "LastUpdate_Achievements": "2023-06-07T10:06:09.4536248+00:00"
 }
