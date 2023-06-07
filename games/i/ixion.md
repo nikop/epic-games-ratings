@@ -16,10 +16,10 @@ Rating: 4.57 (Ranked 443)
 | Breaking Protocol | 6.00% | ~149 |
 | Permanent Redesigns | 6.00% | ~149 |
 | Ain't Nobody Got Time for That | 6.00% | ~149 |
+| The Ship of Theseus | 6.00% | ~149 |
 | Hope Seeker | 6.00% | ~149 |
 | A Hunk of Junk | 5.00% | ~124 |
 | Fully Recycled | 5.00% | ~124 |
-| The Ship of Theseus | 5.00% | ~124 |
 | Exceeding Capacity | 4.00% | ~99 |
 | Man's Best Friend | 3.00% | ~74 |
 | Power Outage | 3.00% | ~74 |

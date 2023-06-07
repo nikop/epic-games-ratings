@@ -11,13 +11,13 @@
 | Bridges to come and go | 49.00% | ~140 |
 | Found an oasis | 42.00% | ~120 |
 | Burger or pizza? | 38.00% | ~108 |
-| Passion for sports | 32.00% | ~91 |
+| Passion for sports | 33.00% | ~94 |
 | Who loves trains? | 28.00% | ~80 |
 | Easy and steady climb | 27.00% | ~77 |
 | At the heart of the city | 24.00% | ~68 |
 | Calm neighborhood | 22.00% | ~63 |
 | Elevated ring | 22.00% | ~63 |
-| Not lonely anymore | 20.00% | ~57 |
+| Not lonely anymore | 21.00% | ~60 |
 | Monumental tribute | 19.00% | ~54 |
 | The beach is right there | 18.00% | ~51 |
 | Commuting | 18.00% | ~51 |

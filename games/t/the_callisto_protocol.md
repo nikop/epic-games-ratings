@@ -9,8 +9,8 @@ Rating: 4.18 (Ranked 840)
 | The Outer Way | 11.00% | ~1,612 |
 | Desperate Times | 10.00% | ~1,466 |
 | Paper Jams | 9.00% | ~1,319 |
-| Chew 'Em Up | 8.00% | ~1,172 |
-| Reforged | 8.00% | ~1,172 |
+| Chew 'Em Up | 8.00% | ~1,173 |
+| Reforged | 8.00% | ~1,173 |
 | Workplace Hazard | 7.00% | ~1,026 |
 | If the SHU Fits... | 7.00% | ~1,026 |
 | Giving Back | 6.00% | ~879 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,655 (Ranked 103)  
+Progressed: 14,657 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 54 (0.37%) (Ranked 118)
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
 | 2023-06-06 | 14,637 | 54 |
-| 2023-06-07 | 14,655 | 54 |
+| 2023-06-07 | 14,657 | 54 |
 ## Awards
 Max (Amazing Storytelling): 51  (Ranked 387)  
 Sum: 294 (Ranked 328)  

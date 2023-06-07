@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 86.00% | ~118 |
-| Terminated I | 71.00% | ~97 |
-| Nanonic I | 68.00% | ~93 |
-| Challenge Accepted | 66.00% | ~90 |
-| Unlocked and Loaded | 64.00% | ~88 |
-| Rookie | 60.00% | ~82 |
-| Terminated II | 53.00% | ~73 |
-| Terminated III | 31.00% | ~42 |
-| Challenge Mastered | 30.00% | ~41 |
-| Nanonic II | 28.00% | ~38 |
+| Augmented | 87.00% | ~122 |
+| Terminated I | 70.00% | ~98 |
+| Nanonic I | 66.00% | ~92 |
+| Challenge Accepted | 64.00% | ~90 |
+| Unlocked and Loaded | 64.00% | ~90 |
+| Rookie | 59.00% | ~83 |
+| Terminated II | 52.00% | ~73 |
+| Challenge Mastered | 30.00% | ~42 |
+| Terminated III | 30.00% | ~42 |
+| Nanonic II | 28.00% | ~39 |
 | The City | 26.00% | ~36 |
 | Supply Run | 18.00% | ~25 |
 | Up Close And Personal | 18.00% | ~25 |
-| Nanonic III | 15.00% | ~21 |
-| The Bigger They Are | 12.00% | ~16 |
-| Cybernetic | 12.00% | ~16 |
-| Starship Docks | 12.00% | ~16 |
-| Eden Heights | 7.00% | ~10 |
-| Fully Modded | 7.00% | ~10 |
-| Inner Core | 4.00% | ~5 |
-| Integration | 4.00% | ~5 |
-| Outer Core | 4.00% | ~5 |
-| Ripperdoc | 4.00% | ~5 |
-| Trickshot | 4.00% | ~5 |
+| Nanonic III | 14.00% | ~20 |
+| Cybernetic | 12.00% | ~17 |
+| The Bigger They Are | 11.00% | ~15 |
+| Starship Docks | 11.00% | ~15 |
+| Eden Heights | 6.00% | ~8 |
+| Fully Modded | 6.00% | ~8 |
+| Inner Core | 4.00% | ~6 |
+| Integration | 4.00% | ~6 |
+| Outer Core | 4.00% | ~6 |
+| Ripperdoc | 4.00% | ~6 |
+| Trickshot | 4.00% | ~6 |
 | Destruction | 1.00% | ~1 |
 | Hard Boiled | 1.00% | ~1 |
 | Cyborg | 0.70% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137 (Ranked 264)  
+Progressed: 140 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 88 | 0 |
 | 2023-06-04 | 90 | 0 |
 | 2023-06-06 | 126 | 0 |
-| 2023-06-07 | 137 | 0 |
+| 2023-06-07 | 140 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

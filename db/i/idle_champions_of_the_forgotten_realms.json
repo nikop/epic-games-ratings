@@ -4138,9 +4138,9 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 90015,
+  "EOS_Progressed": 90016,
   "EOS_Completed": 1922,
-  "EOS_NewPlayers": 730,
+  "EOS_NewPlayers": 728,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
@@ -8993,6 +8993,11 @@
       "Time": "2023-06-07T11:07:50.3623542+00:00",
       "NumProgressed": 90015,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-06-07T12:06:37.2657547+00:00",
+      "NumProgressed": 90016,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 493,
@@ -9162,9 +9167,9 @@
       "ID": "objective_completed_1063",
       "SetID": "415jc5c",
       "Name": "Go Fourth",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_1065",
@@ -9626,9 +9631,9 @@
       "ID": "objective_completed_1152",
       "SetID": "415jc5c",
       "Name": "Seeds of Destruction",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_1153",
@@ -12947,21 +12952,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56289,
+      "Progressed": 56290,
       "Completed": 2775
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90015,
+      "Progressed": 90016,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T13:58:26.881905+00:00",
-  "LastChanged_Achievements": "2023-06-07T11:07:50.3623535+00:00",
+  "LastChanged_Achievements": "2023-06-07T12:06:37.2657541+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-07T10:58:42.5228241+00:00",
-  "LastUpdate_Achievements": "2023-06-07T11:07:50.3653702+00:00"
+  "LastUpdate_Ratings": "2023-06-07T11:58:15.1155595+00:00",
+  "LastUpdate_Achievements": "2023-06-07T12:06:37.2686357+00:00"
 }

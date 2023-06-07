@@ -18,13 +18,13 @@
 | On the right path | 25.00% | ~7 |
 | I'm close now | 25.00% | ~7 |
 | Failed attempt | 25.00% | ~7 |
+| The real escape | 25.00% | ~7 |
 | Nightmare in the kitchen | 25.00% | ~7 |
 | Good choice | 25.00% | ~7 |
 | It can't be true | 25.00% | ~7 |
 | Take the long way round | 25.00% | ~7 |
 | One-way | 25.00% | ~7 |
 | The third floor | 25.00% | ~7 |
-| The real escape | 21.00% | ~6 |
 | Born again | 18.00% | ~5 |
 | 373 | 14.00% | ~4 |
 | He who seeks, finds! | 14.00% | ~4 |

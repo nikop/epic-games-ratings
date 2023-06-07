@@ -48,8 +48,8 @@
 | Corin Goes Home | 0.50% | ~3 |
 | Fairgrounds Explorer | 0.50% | ~3 |
 | Hexlock for Protection | 0.30% | ~2 |
+| Fitting In | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |
-| Fitting In | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |
 | A Lesson in Precision | 0.20% | ~1 |
 | Clovemary for Remembering | 0.00% | ~0 |

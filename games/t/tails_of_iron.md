@@ -6,28 +6,28 @@ Rating: 4.51 (Ranked 530)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 78.00% | ~1,260 |
-| Become King | 70.00% | ~1,130 |
-| Ranged Weapon | 60.00% | ~969 |
-| Defeat 25 Frogs | 60.00% | ~969 |
-| Collect Monster Parts | 56.00% | ~904 |
-| Two Handed Weapon | 54.00% | ~872 |
-| Defeat 25 Grubs | 51.00% | ~824 |
+| Become King | 70.00% | ~1,131 |
+| Defeat 25 Frogs | 60.00% | ~970 |
+| Ranged Weapon | 59.00% | ~953 |
+| Collect Monster Parts | 56.00% | ~905 |
+| Two Handed Weapon | 54.00% | ~873 |
+| Defeat 25 Grubs | 50.00% | ~808 |
 | Rescue Redgi's Brothers | 50.00% | ~808 |
 | Collect Iron Ore | 45.00% | ~727 |
 | Kitchen Ready To Cook | 45.00% | ~727 |
 | Defeat 25 Mozis | 44.00% | ~711 |
-| Collect Gold | 43.00% | ~694 |
-| Smithy Ready to Craft | 43.00% | ~694 |
-| Fix the Travellers Wagon | 42.00% | ~678 |
+| Collect Gold | 43.00% | ~695 |
+| Smithy Ready to Craft | 43.00% | ~695 |
+| Fix the Travellers Wagon | 42.00% | ~679 |
 | Complete Elder Faction | 39.00% | ~630 |
-| End of the Mozis | 36.00% | ~581 |
-| Throne Room Fit For A King | 36.00% | ~581 |
+| End of the Mozis | 36.00% | ~582 |
+| Throne Room Fit For A King | 36.00% | ~582 |
 | Return Power To The Depths | 34.00% | ~549 |
 | Meet the Creatures from the Deep | 33.00% | ~533 |
 | Defeat Ratnor Rodentson | 28.00% | ~452 |
 | Return the Statues | 25.00% | ~404 |
 | Defeat Rattus Augustail | 24.00% | ~388 |
-| Complete the Chefs Book | 23.00% | ~371 |
+| Complete the Chefs Book | 23.00% | ~372 |
 | Complete Ranger Faction | 20.00% | ~323 |
 | Defeat Avor Warden of the Northern Wastes | 18.00% | ~291 |
 | Discover the mystery of the Kings Chambers | 17.00% | ~275 |
@@ -36,7 +36,7 @@ Rating: 4.51 (Ranked 530)
 | King of Kings | 7.00% | ~113 |
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,615 (Ranked 156)  
+Progressed: 1,616 (Ranked 156)  
 Completed: 6 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 6 (0.37%) (Ranked 118)
 | 2023-06-04 | 1,592 | 6 |
 | 2023-06-05 | 1,602 | 6 |
 | 2023-06-06 | 1,613 | 6 |
-| 2023-06-07 | 1,615 | 6 |
+| 2023-06-07 | 1,616 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

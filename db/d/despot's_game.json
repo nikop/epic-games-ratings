@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 394,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -250,6 +250,11 @@
       "Time": "2023-06-05T12:05:58.3644844+00:00",
       "NumProgressed": 393,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T12:06:18.2166188+00:00",
+      "NumProgressed": 394,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -277,7 +282,7 @@
       "Name": "Omae Wa Mou Shindeiru",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "collect-combos",
@@ -309,7 +314,7 @@
       "Name": "No Mercy",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "different-items1",
@@ -339,9 +344,9 @@
       "ID": "finished-quest-cube",
       "SetID": "799afm0",
       "Name": "Impossible Cube",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 169
     },
     {
       "ID": "finished-quest-flight",
@@ -381,7 +386,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "finished-quest-reaper",
@@ -477,15 +482,15 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "win-first-level",
       "SetID": "799afm0",
       "Name": "Good start!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 331
     },
     {
       "ID": "win-koth-fights1",
@@ -517,7 +522,7 @@
       "Name": "Through the Darkness",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "win-with-3-cultists",
@@ -540,7 +545,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 394,
       "Completed": 1
     }
   ],
@@ -548,8 +553,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-07T11:07:28.8004892+00:00",
+  "LastChanged_Achievements": "2023-06-07T12:06:18.2166182+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.398253+00:00",
-  "LastUpdate_Ratings": "2023-06-07T10:59:30.2736127+00:00",
-  "LastUpdate_Achievements": "2023-06-07T11:07:28.80052+00:00"
+  "LastUpdate_Ratings": "2023-06-07T11:58:54.3614237+00:00",
+  "LastUpdate_Achievements": "2023-06-07T12:06:18.2166488+00:00"
 }

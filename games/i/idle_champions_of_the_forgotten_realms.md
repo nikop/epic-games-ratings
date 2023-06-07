@@ -65,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Monarch Among Us | 0.20% | ~113 |
 | Thieves of the Coven | 0.20% | ~113 |
 | Sticky Fingers | 0.20% | ~113 |
+| Go Fourth | 0.20% | ~113 |
 | Hither of the Feywild | 0.20% | ~113 |
 | Don't Breathe the Marsh Gas | 0.20% | ~113 |
 | The Prince of a Thousand Enemies | 0.20% | ~113 |
@@ -88,6 +89,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.20% | ~113 |
 | The Invisible Wizards of Thay | 0.20% | ~113 |
 | Heavy Burden | 0.20% | ~180 |
+| Seeds of Destruction | 0.20% | ~113 |
 | Vecna Lives! | 0.20% | ~113 |
 | Overwhelmed with Knowledge | 0.20% | ~113 |
 | A Demi-god's Defender | 0.20% | ~113 |
@@ -230,7 +232,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Dragon Against Us | 0.10% | ~56 |
 | A Familiar Behind Us | 0.10% | ~56 |
 | Patron Party | 0.10% | ~56 |
-| Go Fourth | 0.10% | ~56 |
 | Don't Blast the Brigands | 0.10% | ~56 |
 | Don't Squeeze the Spiders | 0.10% | ~56 |
 | The Spire of Iriolarthas | 0.10% | ~56 |
@@ -264,7 +265,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pincushion Party | 0.10% | ~56 |
 | G. O. A. T. | 0.10% | ~56 |
 | Strength of Character | 0.10% | ~56 |
-| Seeds of Destruction | 0.10% | ~56 |
 | Speeds of Destruction | 0.10% | ~56 |
 | The Evacuation of Waterdeep | 0.10% | ~56 |
 | Flapjacks and Waffles | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,015 (Ranked 62)  
+Progressed: 90,016 (Ranked 62)  
 Completed: 1,922 (2.14%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1,922 (2.14%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 90,015 | 1,922 |
+| 2023-06-07 | 90,016 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

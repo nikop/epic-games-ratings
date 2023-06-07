@@ -16,11 +16,11 @@ Rating: 4.27 (Ranked 783)
 | Hidden Secrets | 4.00% | ~34 |
 | The Stranded King | 4.00% | ~34 |
 | Accepting the Prophecy | 4.00% | ~34 |
+| Just Chilling | 3.00% | ~25 |
 | Ascended | 3.00% | ~25 |
 | Incredible Strength | 3.00% | ~25 |
 | The Penitent Ones | 3.00% | ~25 |
 | Prophecy Fulfilled | 3.00% | ~25 |
-| Just Chilling | 2.00% | ~17 |
 | The Greedy Ones | 2.00% | ~17 |
 | The First King | 1.00% | ~8 |
 | The great fire | 1.00% | ~8 |

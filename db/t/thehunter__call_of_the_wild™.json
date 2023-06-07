@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-11-25T16:00:00+00:00",
     "PcReleaseDate": "2017-02-16T15:00:00+00:00",
@@ -4810,10 +4810,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 23299,
       "NumberOfAwardsMax": 3230
+    },
+    {
+      "Time": "2023-06-07T12:00:53.0562934+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 23302,
+      "NumberOfAwardsMax": 3230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23299,
+  "NumberOfAwards": 23302,
   "NumberOfAwardsMax": 3230,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4869,7 +4875,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2495
+      "Count": 2498
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4889,8 +4895,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2023-06-07T05:01:05.7288132+00:00",
+  "LastChanged": "2023-06-07T12:00:53.0562932+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:07.2760852+00:00",
-  "LastUpdate_Ratings": "2023-06-07T11:01:53.9908813+00:00",
-  "LastUpdate_Achievements": "2023-06-07T11:04:05.5402119+00:00"
+  "LastUpdate_Ratings": "2023-06-07T12:00:53.056294+00:00",
+  "LastUpdate_Achievements": "2023-06-07T12:03:24.5731708+00:00"
 }

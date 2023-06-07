@@ -1,29 +1,29 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 295)  
+Rating: 4.65 (Ranked 296)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~9,793 |
-| Settler | 82.00% | ~9,675 |
-| Explorer | 79.00% | ~9,321 |
-| Friendly Family | 76.00% | ~8,967 |
-| Intrepid | 70.00% | ~8,259 |
-| Architect | 61.00% | ~7,197 |
-| Mason | 61.00% | ~7,197 |
-| Able | 60.00% | ~7,079 |
-| Strong | 60.00% | ~7,079 |
-| Hanging Gardens | 59.00% | ~6,961 |
-| Noble | 58.00% | ~6,843 |
-| Oracle | 58.00% | ~6,843 |
-| Good | 56.00% | ~6,607 |
-| Judaism | 55.00% | ~6,489 |
-| Just | 54.00% | ~6,371 |
-| Keystone | 54.00% | ~6,371 |
-| Glorious | 52.00% | ~6,135 |
-| Trade Caravan | 52.00% | ~6,135 |
+| Play a Single Player Game | 83.00% | ~9,794 |
+| Settler | 82.00% | ~9,676 |
+| Explorer | 79.00% | ~9,322 |
+| Friendly Family | 76.00% | ~8,968 |
+| Intrepid | 70.00% | ~8,260 |
+| Architect | 61.00% | ~7,198 |
+| Mason | 61.00% | ~7,198 |
+| Able | 60.00% | ~7,080 |
+| Strong | 60.00% | ~7,080 |
+| Hanging Gardens | 59.00% | ~6,962 |
+| Noble | 58.00% | ~6,844 |
+| Oracle | 58.00% | ~6,844 |
+| Good | 56.00% | ~6,608 |
+| Judaism | 55.00% | ~6,490 |
+| Just | 54.00% | ~6,372 |
+| Keystone | 54.00% | ~6,372 |
+| Glorious | 52.00% | ~6,136 |
+| Trade Caravan | 52.00% | ~6,136 |
 | Naming Landmarks | 50.00% | ~5,900 |
 | Learned | 49.00% | ~5,782 |
 | Zoroastrianism | 49.00% | ~5,782 |
@@ -31,10 +31,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 48.00% | ~5,664 |
 | Developing Cities | 48.00% | ~5,664 |
 | Magnificent | 46.00% | ~5,428 |
+| Warrior | 45.00% | ~5,310 |
 | Strong Cities | 45.00% | ~5,310 |
 | Pyramids | 45.00% | ~5,310 |
 | Greek Paganism | 45.00% | ~5,310 |
-| Warrior | 44.00% | ~5,192 |
 | Ishtar Gate | 44.00% | ~5,192 |
 | Babylonian Paganism | 43.00% | ~5,074 |
 | Enlightened | 42.00% | ~4,956 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~12 |
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,799 (Ranked 106)  
+Progressed: 11,800 (Ranked 106)  
 Completed: 3 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 3 (0.03%) (Ranked 190)
 | 2023-06-04 | 11,741 | 3 |
 | 2023-06-05 | 11,769 | 3 |
 | 2023-06-06 | 11,792 | 3 |
-| 2023-06-07 | 11,799 | 3 |
+| 2023-06-07 | 11,800 | 3 |
 ## Awards
 Max (Relaxing): 217  (Ranked 252)  
 Sum: 1,766 (Ranked 199)  

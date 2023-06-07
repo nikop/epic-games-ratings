@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~705 |
-| A new Journey | 71.00% | ~686 |
+| A new Journey | 72.00% | ~696 |
 | From X to Y | 70.00% | ~676 |
 | Departure | 70.00% | ~676 |
 | Way of Iron | 68.00% | ~657 |
@@ -35,9 +35,9 @@
 | Country Life | 20.00% | ~193 |
 | Hostile Takeover | 20.00% | ~193 |
 | Trailblazer | 18.00% | ~174 |
+| Breaking Ground | 15.00% | ~145 |
 | Traffic Jam | 14.00% | ~135 |
 | Traffic Junction | 14.00% | ~135 |
-| Breaking Ground | 14.00% | ~135 |
 | Assimilated | 13.00% | ~126 |
 | Locusts | 12.00% | ~116 |
 | Networker | 12.00% | ~116 |

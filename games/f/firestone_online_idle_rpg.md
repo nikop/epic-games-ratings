@@ -5,17 +5,17 @@ Rating: 4.00 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,242 |
-| World Map | 80.00% | ~1,057 |
-| Temple of Eternals | 57.00% | ~753 |
-| Prestigious | 53.00% | ~700 |
+| Victor | 94.00% | ~1,243 |
+| World Map | 80.00% | ~1,058 |
+| Temple of Eternals | 57.00% | ~754 |
+| Prestigious | 53.00% | ~701 |
 | Fellowship Power | 41.00% | ~542 |
 | Guild Power | 24.00% | ~317 |
-| Prestigious x10 | 21.00% | ~277 |
+| Prestigious x10 | 21.00% | ~278 |
 | The game is on | 18.00% | ~238 |
 | Exotic Merchant | 17.00% | ~225 |
-| Dragon Clicker | 16.00% | ~211 |
-| Miner Clicker | 16.00% | ~211 |
+| Dragon Clicker | 16.00% | ~212 |
+| Miner Clicker | 16.00% | ~212 |
 | Inspection | 15.00% | ~198 |
 | Full Party | 14.00% | ~185 |
 | Dragon Master | 13.00% | ~172 |
@@ -32,10 +32,10 @@ Rating: 4.00 (Ranked 897)
 | Daily Quest Completionist | 8.00% | ~106 |
 | Scroll Master | 8.00% | ~106 |
 | The power of Awakening | 8.00% | ~106 |
-| Doing My Part | 7.00% | ~92 |
-| Hunter | 7.00% | ~92 |
-| Mastery | 7.00% | ~92 |
-| Relic Of The Past | 7.00% | ~92 |
+| Doing My Part | 7.00% | ~93 |
+| Hunter | 7.00% | ~93 |
+| Mastery | 7.00% | ~93 |
+| Relic Of The Past | 7.00% | ~93 |
 | Frostfire Liberator | 6.00% | ~79 |
 | Moving Up The Ladder | 6.00% | ~79 |
 | Four Leaf Clover | 5.00% | ~66 |
@@ -81,7 +81,7 @@ Rating: 4.00 (Ranked 897)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,321 (Ranked 162)  
+Progressed: 1,322 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 1 (0.08%) (Ranked 173)
 | 2023-06-04 | 1,285 | 1 |
 | 2023-06-05 | 1,299 | 1 |
 | 2023-06-06 | 1,309 | 1 |
-| 2023-06-07 | 1,321 | 1 |
+| 2023-06-07 | 1,322 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

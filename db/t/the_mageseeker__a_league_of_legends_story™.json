@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -2675,9 +2675,9 @@
       "ID": "STB_SECONDARY_ASSAULT_II",
       "SetID": "3pe2bac",
       "Name": "Cypress Glen Headquarters",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 729
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2764,8 +2764,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-05T19:57:57.2340443+00:00",
-  "LastChanged_Achievements": "2023-06-07T11:07:28.8979551+00:00",
+  "LastChanged_Achievements": "2023-06-07T12:06:18.236882+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.5523883+00:00",
-  "LastUpdate_Ratings": "2023-06-07T10:58:09.0765587+00:00",
-  "LastUpdate_Achievements": "2023-06-07T11:07:28.8980256+00:00"
+  "LastUpdate_Ratings": "2023-06-07T11:57:46.0749068+00:00",
+  "LastUpdate_Achievements": "2023-06-07T12:06:18.2369465+00:00"
 }
