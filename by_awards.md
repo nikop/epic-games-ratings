@@ -1,12 +1,12 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,387,792 | 4.30 | 763 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 430,108 | 4.50 | 546 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 432,902 | 4.50 | 546 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 297,385 | 4.68 | 240 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 183,771 | 4.19 | 833 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 179,008 | 4.68 | 240 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 147,133 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 140,503 | 4.53 | 501 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 140,803 | 4.53 | 501 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 110,750 | 4.69 | 218 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 66,986 | 4.62 | 347 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 57,538 | 4.59 | 407 |
@@ -99,8 +99,8 @@
 | 97 | [Gotham Knights](games/g/gotham_knights.md) | 2,307 | 4.17 | 847 |
 | 98 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,299 | 4.78 | 102 |
 | 99 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,222 | 4.67 | 259 |
-| 100 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,171 | 4.41 | 667 |
-| 101 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,169 | 3.98 | 903 |
+| 100 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,182 | 3.98 | 903 |
+| 101 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,171 | 4.41 | 667 |
 | 102 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,143 | 4.63 | 332 |
 | 103 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,137 | 4.37 | 709 |
 | 104 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,975 | 4.49 | 564 |
@@ -165,8 +165,8 @@
 | 163 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 623 | 4.61 | 360 |
 | 164 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 622 | 4.59 | 407 |
 | 165 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 619 | 4.49 | 564 |
-| 166 | [Dark Deity](games/d/dark_deity.md) | 608 | 4.16 | 851 |
-| 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 608 | 4.74 | 144 |
+| 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 610 | 4.74 | 144 |
+| 167 | [Dark Deity](games/d/dark_deity.md) | 608 | 4.16 | 851 |
 | 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 606 | 4.74 | 144 |
 | 169 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 603 | 4.79 | 90 |
 | 170 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 589 | 4.62 | 347 |
@@ -239,8 +239,8 @@
 | 237 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 271 | 4.61 | 360 |
 | 238 | [Diabotical](games/d/diabotical.md) | 268 | 4.75 | 135 |
 | 239 | [Sheltered](games/s/sheltered.md) | 267 | 4.42 | 656 |
+| 240 | [Dead Cells](games/d/dead_cells.md) | 256 | 4.88 | 19 |
 | 240 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 256 | 4.84 | 51 |
-| 241 | [Dead Cells](games/d/dead_cells.md) | 255 | 4.88 | 19 |
 | 242 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 247 | 4.58 | 423 |
 | 243 | [Crysis Remastered](games/c/crysis_remastered.md) | 246 | 4.40 | 680 |
 | 244 | [Roller Champions™](games/r/roller_champions™.md) | 242 | 4.34 | 735 |
@@ -395,12 +395,12 @@
 | 391 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 50 | 4.70 | 196 |
 | 391 | [Ranch Simulator](games/r/ranch_simulator.md) | 50 | 4.44 | 630 |
 | 391 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 50 | 4.56 | 452 |
+| 396 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 49 | 4.61 | 360 |
 | 396 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 49 | 4.66 | 280 |
-| 397 | [ATOM RPG](games/a/atom_rpg.md) | 48 | 4.46 | 603 |
-| 397 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.67 | 259 |
-| 399 | [Desperados III](games/d/desperados_iii.md) | 47 | 4.84 | 51 |
-| 399 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 47 | 4.61 | 360 |
-| 399 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.37 | 709 |
+| 398 | [ATOM RPG](games/a/atom_rpg.md) | 48 | 4.46 | 603 |
+| 398 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.67 | 259 |
+| 400 | [Desperados III](games/d/desperados_iii.md) | 47 | 4.84 | 51 |
+| 400 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.37 | 709 |
 | 402 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.57 | 443 |
 | 402 | [Expeditions: Rome](games/e/expeditions__rome.md) | 46 | 4.64 | 315 |
 | 404 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 907 |

@@ -20,7 +20,7 @@
 | 18 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 20 | [Smelter](games/s/smelter.md) | 8.57% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.15% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.14% |
 | 22 | [Remains](games/r/remains.md) | 8.11% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
@@ -44,8 +44,8 @@
 | 42 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.64% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
-| 45 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
-| 45 | [ZZT!](games/z/zzt!.md) | 3.21% |
+| 44 | [ZZT!](games/z/zzt!.md) | 3.25% |
+| 46 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.15% |
 | 48 | [The Bunker](games/t/the_bunker.md) | 3.03% |
 | 49 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
@@ -60,7 +60,7 @@
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 61 | [Bloodshore](games/b/bloodshore.md) | 2.47% |
+| 61 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
 | 62 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.25% |
 | 63 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 64 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
@@ -97,7 +97,7 @@
 | 95 | [Adios](games/a/adios.md) | 0.85% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
-| 98 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.78% |
+| 98 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.77% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 99 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.76% |
 | 101 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
