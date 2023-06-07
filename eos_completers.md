@@ -9,7 +9,7 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 10 | [Island Cities](games/i/island_cities.md) | 15.03% |
+| 10 | [Island Cities](games/i/island_cities.md) | 14.98% |
 | 11 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 14.29% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
@@ -19,11 +19,11 @@
 | 17 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
-| 20 | [Remains](games/r/remains.md) | 8.11% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.08% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.15% |
+| 21 | [Remains](games/r/remains.md) | 8.11% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.57% |
 | 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.14% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.13% |
 | 27 | [Scorn](games/s/scorn.md) | 6.90% |
@@ -34,7 +34,7 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.11% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.10% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
@@ -44,8 +44,8 @@
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.60% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
-| 45 | [ZZT!](games/z/zzt!.md) | 3.22% |
-| 46 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
+| 45 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
+| 45 | [ZZT!](games/z/zzt!.md) | 3.21% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.15% |
 | 48 | [The Bunker](games/t/the_bunker.md) | 3.06% |
 | 49 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
@@ -95,8 +95,8 @@
 | 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
 | 93 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 95 | [Adios](games/a/adios.md) | 0.85% |
-| 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
-| 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
+| 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
+| 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
 | 98 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.78% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 99 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.76% |
