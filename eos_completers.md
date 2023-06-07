@@ -25,7 +25,7 @@
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
 | 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.41% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.92% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.90% |
 | 27 | [Scorn](games/s/scorn.md) | 6.86% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -38,7 +38,7 @@
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
-| 38 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.81% |
+| 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.80% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.67% |
 | 42 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.64% |
@@ -69,7 +69,7 @@
 | 67 | [JARS](games/j/jars.md) | 1.92% |
 | 68 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 69 | [Sifu](games/s/sifu.md) | 1.80% |
-| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.69% |
+| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.68% |
 | 71 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
 | 73 | [Somerville](games/s/somerville.md) | 1.59% |
@@ -145,7 +145,7 @@
 | 141 | [Filament](games/f/filament.md) | 0.22% |
 | 144 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 144 | [Blanc](games/b/blanc.md) | 0.21% |
-| 144 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 146 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 147 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 147 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
 | 149 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
@@ -434,4 +434,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,737 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,738 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
