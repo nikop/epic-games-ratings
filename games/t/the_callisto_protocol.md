@@ -32,7 +32,7 @@ Rating: 4.18 (Ranked 840)
 | I Do Belong Here | 2.00% | ~293 |
 | In Striking Distance | 2.00% | ~293 |
 | Mugshot | 2.00% | ~293 |
-| Big Spender | 2.00% | ~51 |
+| Big Spender | 2.00% | ~52 |
 | Parole Denied | 1.00% | ~26 |
 | Hoard Mode | 1.00% | ~26 |
 | Grim Reaper | 0.70% | ~103 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,646 (Ranked 103)  
+Progressed: 14,649 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 54 (0.37%) (Ranked 118)
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
 | 2023-06-06 | 14,637 | 54 |
-| 2023-06-07 | 14,646 | 54 |
+| 2023-06-07 | 14,649 | 54 |
 ## Awards
 Max (Amazing Storytelling): 51  (Ranked 387)  
 Sum: 294 (Ranked 328)  

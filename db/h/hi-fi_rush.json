@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 2827,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2622,9 +2622,9 @@
       "ID": "Ach019",
       "SetID": "12n4k20",
       "Name": "I think that\u0027s enough health for now",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach020",
@@ -2654,9 +2654,9 @@
       "ID": "Ach023",
       "SetID": "12n4k20",
       "Name": "Feeling the beat!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2262
     },
     {
       "ID": "Ach024",
@@ -2981,8 +2981,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-03T21:58:22.8890273+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:06:24.7737622+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:05:53.8745013+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:48.102192+00:00",
-  "LastUpdate_Ratings": "2023-06-07T04:58:45.3293878+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:06:24.7738175+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:58:20.407174+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:05:53.8745748+00:00"
 }

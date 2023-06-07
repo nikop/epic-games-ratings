@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1715,
+  "EOS_Progressed": 1717,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1020,6 +1020,11 @@
       "Time": "2023-06-06T23:05:57.992554+00:00",
       "NumProgressed": 1715,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-07T06:05:59.4622719+00:00",
+      "NumProgressed": 1717,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1039,7 +1044,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "ACHV_03",
@@ -1055,7 +1060,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACHV_05",
@@ -1071,7 +1076,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHV_07",
@@ -1167,7 +1172,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACHV_19",
@@ -1191,7 +1196,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHV_22",
@@ -1215,7 +1220,7 @@
       "Name": "Gotta Craft \u0027em All",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHV_25",
@@ -1231,7 +1236,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1374
     },
     {
       "ID": "ACHV_27",
@@ -1239,7 +1244,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACHV_28",
@@ -1263,7 +1268,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACHV_31",
@@ -1303,7 +1308,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACHV_36",
@@ -1311,7 +1316,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHV_37",
@@ -1319,7 +1324,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHV_38",
@@ -1335,7 +1340,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1305
     },
     {
       "ID": "ACHV_40",
@@ -1383,7 +1388,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHV_46",
@@ -1431,7 +1436,7 @@
       "Name": "Homewrecker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHV_52",
@@ -1486,7 +1491,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1715,
+      "Progressed": 1717,
       "Completed": 10
     }
   ],
@@ -1494,8 +1499,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:06:31.4486842+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:05:59.462271+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:57.1438675+00:00",
-  "LastUpdate_Ratings": "2023-06-07T05:00:55.2798748+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:06:31.4487276+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:59:54.9581927+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:05:59.4623303+00:00"
 }

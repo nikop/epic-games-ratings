@@ -18,8 +18,8 @@ Rating: 4.75 (Ranked 135)
 | Planned Signing | 58.00% | ~39,860 |
 | Thumping | 53.00% | ~36,424 |
 | Scoring Streak | 53.00% | ~36,424 |
+| Wheeler Dealer | 52.00% | ~35,736 |
 | People Pleaser | 51.00% | ~35,049 |
-| Wheeler Dealer | 51.00% | ~35,049 |
 | Unbeatable! | 50.00% | ~34,362 |
 | One Of Our Own | 48.00% | ~32,988 |
 | They're a Natural | 44.00% | ~30,239 |

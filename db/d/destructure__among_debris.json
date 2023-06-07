@@ -639,9 +639,9 @@
       "ID": "ball_galore",
       "SetID": "jig50d",
       "Name": "Ball Galore",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ball_protector",
@@ -864,8 +864,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:03:03.2134977+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:03:10.8338114+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:23.8350057+00:00",
-  "LastUpdate_Ratings": "2023-06-07T05:00:23.0555235+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:03:03.2135186+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:59:30.2583028+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:03:10.833838+00:00"
 }

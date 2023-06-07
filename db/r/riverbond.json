@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518625,
+  "EOS_Progressed": 518626,
   "EOS_Completed": 420,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 673,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5195,6 +5195,11 @@
       "Time": "2023-06-07T05:06:11.6708338+00:00",
       "NumProgressed": 518625,
       "NumCompleted": 420
+    },
+    {
+      "Time": "2023-06-07T06:05:42.4893935+00:00",
+      "NumProgressed": 518626,
+      "NumCompleted": 420
     }
   ],
   "TotalAchievements": 57,
@@ -5214,7 +5219,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 233381
+      "UsersEstimate": 233382
     },
     {
       "ID": "11",
@@ -5254,7 +5259,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 51862
+      "UsersEstimate": 51863
     },
     {
       "ID": "16",
@@ -5294,7 +5299,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 51862
+      "UsersEstimate": 51863
     },
     {
       "ID": "20",
@@ -5390,7 +5395,7 @@
       "Name": "Seek the Rainbow",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10372
+      "UsersEstimate": 10373
     },
     {
       "ID": "31",
@@ -5398,7 +5403,7 @@
       "Name": "Words of Truth",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10372
+      "UsersEstimate": 10373
     },
     {
       "ID": "32",
@@ -5430,7 +5435,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 259312
+      "UsersEstimate": 259313
     },
     {
       "ID": "36",
@@ -5462,7 +5467,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 176332
+      "UsersEstimate": 176333
     },
     {
       "ID": "4",
@@ -5486,7 +5491,7 @@
       "Name": "Star Power",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 10372
+      "UsersEstimate": 10373
     },
     {
       "ID": "42",
@@ -5550,7 +5555,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 176332
+      "UsersEstimate": 176333
     },
     {
       "ID": "5",
@@ -5646,7 +5651,7 @@
       "Name": "Justice Served",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10372
+      "UsersEstimate": 10373
     },
     {
       "ID": "9",
@@ -5661,15 +5666,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 518625,
+      "Progressed": 518626,
       "Completed": 420
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:06:11.6708332+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:05:42.4893928+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:23.8726676+00:00",
-  "LastUpdate_Ratings": "2023-06-07T04:57:29.059227+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:06:11.6708991+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:57:22.7188298+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:05:42.4894752+00:00"
 }

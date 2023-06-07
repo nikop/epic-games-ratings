@@ -1109,9 +1109,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 120616,
+  "EOS_Progressed": 120618,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 881,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5504,6 +5504,11 @@
       "Time": "2023-06-07T05:06:16.7642063+00:00",
       "NumProgressed": 120616,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-07T06:05:46.8627774+00:00",
+      "NumProgressed": 120618,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -5539,7 +5544,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "ACH_COP_ART",
@@ -5595,7 +5600,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33772
+      "UsersEstimate": 33773
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -5627,7 +5632,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24123
+      "UsersEstimate": 24124
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -5651,7 +5656,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18092
+      "UsersEstimate": 18093
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -5675,7 +5680,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10855
+      "UsersEstimate": 10856
     },
     {
       "ID": "ACH_GLUTEN",
@@ -5731,7 +5736,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16886
+      "UsersEstimate": 16887
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -5739,7 +5744,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -5834,15 +5839,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 120616,
+      "Progressed": 120618,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-07T02:21:00.374028+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:06:16.7642059+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:05:46.8627765+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:25.8096959+00:00",
-  "LastUpdate_Ratings": "2023-06-07T04:59:22.6151041+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:06:16.7642527+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:58:47.313489+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:05:46.8628323+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cause and Effect | 95.00% | ~378 |
-| Fair Share | 71.00% | ~283 |
+| Fair Share | 72.00% | ~287 |
 | Even Tempered | 56.00% | ~223 |
 | Star-Crossed Lovers | 46.00% | ~183 |
 | Shill Bidder | 43.00% | ~171 |

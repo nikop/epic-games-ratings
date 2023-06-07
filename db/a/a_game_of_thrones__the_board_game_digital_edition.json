@@ -1245,9 +1245,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14833,
+  "EOS_Progressed": 14835,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6055,6 +6055,11 @@
       "Time": "2023-06-07T05:06:14.4621242+00:00",
       "NumProgressed": 14833,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-07T06:05:45.0334238+00:00",
+      "NumProgressed": 14835,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -6162,7 +6167,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "1028",
@@ -6170,7 +6175,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "1029",
@@ -6202,7 +6207,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5933
+      "UsersEstimate": 5934
     },
     {
       "ID": "1033",
@@ -6241,15 +6246,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 14833,
+      "Progressed": 14835,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-04T11:01:39.0273267+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:06:14.4621239+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:05:45.033423+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.849482+00:00",
-  "LastUpdate_Ratings": "2023-06-07T05:00:39.6022497+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:06:14.4621543+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:59:43.1333951+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:05:45.0334669+00:00"
 }

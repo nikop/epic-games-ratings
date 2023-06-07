@@ -45,7 +45,7 @@ Rating: 4.45 (Ranked 616)
 | Don't hold your breath | 1.00% | ~23 |
 | Herr Today, Gone Tomorrow | 1.00% | ~23 |
 | Operation Foxley | 1.00% | ~23 |
-| Tinkerer | 0.80% | ~19 |
+| Tinkerer | 0.90% | ~21 |
 | Ghost of Falaise | 0.80% | ~18 |
 | Siegebreaker | 0.70% | ~16 |
 | From Paris with Love | 0.60% | ~14 |

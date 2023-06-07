@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22803,
+  "EOS_Progressed": 22804,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1263,6 +1263,11 @@
       "Time": "2023-06-07T04:04:37.8419856+00:00",
       "NumProgressed": 22803,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-07T06:04:31.8960676+00:00",
+      "NumProgressed": 22804,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1290,7 +1295,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17558
+      "UsersEstimate": 17559
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -1298,7 +1303,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9805
+      "UsersEstimate": 9806
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -1338,7 +1343,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17330
+      "UsersEstimate": 17331
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1378,7 +1383,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18926
+      "UsersEstimate": 18927
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1458,7 +1463,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16646
+      "UsersEstimate": 16647
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1490,7 +1495,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3649
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -1514,7 +1519,7 @@
       "Name": "Carried Stan\u0027s Load To Completion",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2964
+      "UsersEstimate": 2965
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -1529,22 +1534,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22803,
+      "Progressed": 22804,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 96,
-      "Completed": 96
+      "Progressed": 97,
+      "Completed": 97
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:04:44.0893743+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:04:31.8960668+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:10.2395765+00:00",
-  "LastUpdate_Ratings": "2023-06-07T04:58:11.7423456+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:04:44.0893996+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:57:54.3224955+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:04:31.8960992+00:00"
 }

@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 988,
+  "EOS_Progressed": 989,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -940,6 +940,11 @@
       "Time": "2023-06-07T02:27:39.6737647+00:00",
       "NumProgressed": 988,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T06:05:49.8854006+00:00",
+      "NumProgressed": 989,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -973,9 +978,9 @@
       "ID": "Big_Bertha",
       "SetID": "85nb4h3",
       "Name": "The Big Bertha",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 79
     },
     {
       "ID": "Boy",
@@ -1031,7 +1036,7 @@
       "Name": "E1M1",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "Everyone_is_here",
@@ -1167,7 +1172,7 @@
       "Name": "War Never Changes",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "We_were_not_here",
@@ -1190,15 +1195,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 988,
+      "Progressed": 989,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:06:20.2325816+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:05:49.8853998+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
-  "LastUpdate_Ratings": "2023-06-07T04:59:34.4176515+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:06:20.2326015+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:58:55.7664088+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:05:49.8854233+00:00"
 }

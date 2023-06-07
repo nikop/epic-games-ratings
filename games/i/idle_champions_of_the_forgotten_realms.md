@@ -14,17 +14,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.70% | ~630 |
 | Beware the Jabberwock | 0.70% | ~394 |
 | Were-verpowered | 0.60% | ~540 |
-| Seeking Allies | 0.60% | ~540 |
 | Are Ya Chicken? | 0.60% | ~540 |
 | Coasting to the Finish | 0.60% | ~338 |
-| Checkmate | 0.50% | ~281 |
 | A Persistent Buzzing | 0.50% | ~450 |
+| Seeking Allies | 0.50% | ~450 |
 | Mad Cow Disease | 0.50% | ~450 |
 | Friendly Imps | 0.50% | ~450 |
 | Pure Energy | 0.50% | ~450 |
 | Quick or Quack | 0.50% | ~281 |
 | Owlbear Necessities | 0.40% | ~225 |
 | Best Thay Ever | 0.40% | ~225 |
+| Checkmate | 0.40% | ~225 |
 | Vecna Out! | 0.40% | ~225 |
 | Terror in the Dark | 0.40% | ~360 |
 | A Mysterious Summons | 0.40% | ~360 |
@@ -88,12 +88,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.20% | ~113 |
 | The Invisible Wizards of Thay | 0.20% | ~113 |
 | Heavy Burden | 0.20% | ~180 |
-| Seeds of Destruction | 0.20% | ~113 |
 | Vecna Lives! | 0.20% | ~113 |
 | Overwhelmed with Knowledge | 0.20% | ~113 |
 | A Demi-god's Defender | 0.20% | ~113 |
 | Vecna Loots! | 0.20% | ~113 |
-| Friends of the Forest | 0.20% | ~180 |
 | More Than Well Equipped | 0.20% | ~113 |
 | Return to the Tomb | 0.20% | ~113 |
 | Arcane Efforts | 0.20% | ~113 |
@@ -126,7 +124,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~180 |
 | Wisdom Check | 0.20% | ~180 |
 | Sleuth It Out | 0.20% | ~180 |
-| The Newcomers of Notoriety | 0.20% | ~113 |
 | A Grand Puzzle | 0.20% | ~180 |
 | Tomb of the Nine Gods | 0.20% | ~180 |
 | The Mists of Ravenloft | 0.20% | ~180 |
@@ -179,7 +176,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All You Know Is Wrong | 0.20% | ~180 |
 | Avernus Frozen Over | 0.20% | ~113 |
 | Market Fluctuations | 0.20% | ~180 |
-| Once More Into The Breach | 0.20% | ~180 |
 | Déjà Vu All Over Again | 0.20% | ~113 |
 | Into The Fire | 0.20% | ~113 |
 | Dreamscape | 0.20% | ~113 |
@@ -209,7 +205,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dwarven Rumors | 0.20% | ~113 |
 | Sunblight | 0.20% | ~113 |
 | The Bleeding Citadel | 0.20% | ~113 |
-| Idyllglen | 0.20% | ~113 |
 | Witty Riposting | 0.20% | ~113 |
 | How Far Away is Thay | 0.20% | ~113 |
 | Deekin's Mission | 0.20% | ~113 |
@@ -264,11 +259,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pincushion Party | 0.10% | ~56 |
 | G. O. A. T. | 0.10% | ~56 |
 | Strength of Character | 0.10% | ~56 |
+| Seeds of Destruction | 0.10% | ~56 |
 | Speeds of Destruction | 0.10% | ~56 |
 | The Evacuation of Waterdeep | 0.10% | ~56 |
 | Flapjacks and Waffles | 0.10% | ~56 |
 | On the Hunt | 0.10% | ~90 |
 | Well Equipped | 0.10% | ~56 |
+| Friends of the Forest | 0.10% | ~90 |
 | To Avernus in a Handbasket | 0.10% | ~56 |
 | Kas the Destroyer | 0.10% | ~56 |
 | Clowning Around | 0.10% | ~56 |
@@ -287,6 +284,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fall From Grace | 0.10% | ~90 |
 | Double Vision | 0.10% | ~90 |
 | Underground Railroad | 0.10% | ~90 |
+| The Newcomers of Notoriety | 0.10% | ~56 |
 | Never Split the Party | 0.10% | ~90 |
 | Azaka's Procession - Part 1 | 0.10% | ~90 |
 | Snakes on our Plane | 0.10% | ~56 |
@@ -392,6 +390,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~56 |
 | Everything is Awful | 0.10% | ~90 |
 | Shadow Stalkers | 0.10% | ~56 |
+| Once More Into The Breach | 0.10% | ~90 |
 | Twice More Into The Breach | 0.10% | ~90 |
 | Thrice More Into The Breach | 0.10% | ~56 |
 | Nightmare Mode | 0.10% | ~56 |
@@ -455,6 +454,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Every Day | 0.10% | ~56 |
 | Don't Pick at the Scab | 0.10% | ~56 |
 | Going To Eleven | 0.10% | ~56 |
+| Idyllglen | 0.10% | ~56 |
 | The Madness of Yeenoghu | 0.10% | ~56 |
 | Reya Reborn | 0.10% | ~56 |
 | The Radiant Nightmare | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,997 (Ranked 62)  
+Progressed: 90,001 (Ranked 62)  
 Completed: 1,922 (2.14%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1,922 (2.14%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 89,997 | 1,922 |
+| 2023-06-07 | 90,001 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

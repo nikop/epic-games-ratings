@@ -6,26 +6,26 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,388 |
+| First Step | 71.00% | ~4,389 |
 | Leader | 61.00% | ~3,770 |
-| Explorer | 53.00% | ~3,275 |
-| Healer | 53.00% | ~3,275 |
+| Explorer | 53.00% | ~3,276 |
+| Healer | 53.00% | ~3,276 |
 | Aspiring Inventor | 45.00% | ~2,781 |
 | Adventurer | 41.00% | ~2,534 |
-| Famous Healer | 38.00% | ~2,348 |
+| Famous Healer | 38.00% | ~2,349 |
 | Local Leader | 35.00% | ~2,163 |
-| New Opportunities | 34.00% | ~2,101 |
-| Famous Explorer | 33.00% | ~2,039 |
-| Energized | 33.00% | ~2,039 |
-| The Long Haul | 33.00% | ~2,039 |
+| New Opportunities | 34.00% | ~2,102 |
+| Famous Explorer | 33.00% | ~2,040 |
+| Energized | 33.00% | ~2,040 |
+| The Long Haul | 33.00% | ~2,040 |
 | Survivor | 31.00% | ~1,916 |
 | The Great Healer | 30.00% | ~1,854 |
-| Cleaner | 28.00% | ~1,730 |
-| Catastrofan | 28.00% | ~1,730 |
+| Cleaner | 28.00% | ~1,731 |
+| Catastrofan | 28.00% | ~1,731 |
 | Legendary Explorer | 27.00% | ~1,669 |
 | Finders, Keepers | 26.00% | ~1,607 |
 | Top Notch | 25.00% | ~1,545 |
-| Mentor | 23.00% | ~1,421 |
+| Mentor | 23.00% | ~1,422 |
 | Great Leader | 22.00% | ~1,360 |
 | Ice Lakes | 22.00% | ~1,360 |
 | Real Survivor | 22.00% | ~1,360 |
@@ -37,8 +37,8 @@ Number of Ratings: 836  (23.09.2022)
 | Spreading Influence | 16.00% | ~989 |
 | Around the World | 15.00% | ~927 |
 | Bookworm | 14.00% | ~865 |
-| Famous Adventurer | 13.00% | ~803 |
-| Prepared for Anything | 13.00% | ~803 |
+| Famous Adventurer | 13.00% | ~804 |
+| Prepared for Anything | 13.00% | ~804 |
 | Big Catastrofan | 12.00% | ~742 |
 | It's a Finnish Thing | 10.00% | ~618 |
 | Sky Burial | 9.00% | ~556 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,180 (Ranked 122)  
+Progressed: 6,181 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 6,125 | 0 |
 | 2023-06-05 | 6,149 | 0 |
 | 2023-06-06 | 6,175 | 0 |
-| 2023-06-07 | 6,180 | 0 |
+| 2023-06-07 | 6,181 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 327)  
 Sum: 661 (Ranked 270)  

@@ -6,7 +6,7 @@ Rating: 4.89 (Ranked 13)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Start with a bang! | 80.00% | ~2,262 |
-| Feeling the beat! | 79.00% | ~2,233 |
+| Feeling the beat! | 80.00% | ~2,262 |
 | You can pet the cat! | 74.00% | ~2,092 |
 | Who put gears in there? | 67.00% | ~1,894 |
 | Cream of the Crop | 62.00% | ~1,753 |
@@ -59,10 +59,10 @@ Rating: 4.89 (Ranked 13)
 | This was... not what I expected. | 0.80% | ~23 |
 | My Ultimate Setlist | 0.70% | ~20 |
 | Have we met before? | 0.70% | ~20 |
+| I think that's enough health for now | 0.60% | ~17 |
 | I have to read ALL of these things? | 0.60% | ~17 |
 | I'm untouchable! | 0.60% | ~17 |
 | OK, I THINK I know what I'm doing now | 0.60% | ~17 |
-| I think that's enough health for now | 0.50% | ~14 |
 | I'm trying to FOCUS HERE! | 0.40% | ~11 |
 | Didn't skip a beat! | 0.20% | ~6 |
 | What a journey it was... | 0.20% | ~6 |

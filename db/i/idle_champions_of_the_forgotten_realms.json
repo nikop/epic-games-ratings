@@ -4138,9 +4138,9 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 89997,
+  "EOS_Progressed": 90001,
   "EOS_Completed": 1922,
-  "EOS_NewPlayers": 723,
+  "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
@@ -8963,6 +8963,11 @@
       "Time": "2023-06-07T05:06:36.5753979+00:00",
       "NumProgressed": 89997,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-06-07T06:06:04.2436439+00:00",
+      "NumProgressed": 90001,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 493,
@@ -9596,9 +9601,9 @@
       "ID": "objective_completed_1152",
       "SetID": "415jc5c",
       "Name": "Seeds of Destruction",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_completed_1153",
@@ -9692,9 +9697,9 @@
       "ID": "objective_completed_117",
       "SetID": "cc37lbc",
       "Name": "Friends of the Forest",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 90
     },
     {
       "ID": "objective_completed_1170",
@@ -9844,9 +9849,9 @@
       "ID": "objective_completed_1203",
       "SetID": "415jc5c",
       "Name": "Checkmate",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 225
     },
     {
       "ID": "objective_completed_1204",
@@ -10228,9 +10233,9 @@
       "ID": "objective_completed_172",
       "SetID": "415jc5c",
       "Name": "The Newcomers of Notoriety",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_completed_179",
@@ -10764,9 +10769,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 450
     },
     {
       "ID": "objective_completed_390",
@@ -11604,9 +11609,9 @@
       "ID": "objective_completed_610",
       "SetID": "cc37lbc",
       "Name": "Once More Into The Breach",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 90
     },
     {
       "ID": "objective_completed_611",
@@ -12420,9 +12425,9 @@
       "ID": "objective_completed_842",
       "SetID": "415jc5c",
       "Name": "Idyllglen",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_completed_843",
@@ -12917,21 +12922,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56271,
+      "Progressed": 56275,
       "Completed": 2775
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 89997,
+      "Progressed": 90001,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T13:58:26.881905+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:06:36.5753973+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:06:04.2436433+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-07T04:58:15.068944+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:06:36.5775921+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:57:57.0285517+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:06:04.2460092+00:00"
 }

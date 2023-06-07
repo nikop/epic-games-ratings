@@ -2,7 +2,7 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 314,
+  "Ranking_Rating": 315,
   "Ranking_Popularity": 216,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 23,
@@ -158,9 +158,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 575168,
+  "EOS_Progressed": 575373,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 119060,
+  "EOS_NewPlayers": 118346,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1608,6 +1608,11 @@
       "Time": "2023-06-07T05:04:07.1261525+00:00",
       "NumProgressed": 575168,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-07T06:04:02.2979713+00:00",
+      "NumProgressed": 575373,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 75,
@@ -1619,7 +1624,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11503
+      "UsersEstimate": 11507
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -1659,7 +1664,7 @@
       "Name": "Blast Mastery",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -1699,7 +1704,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -1723,7 +1728,7 @@
       "Name": "Curios and Relics",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -1915,7 +1920,7 @@
       "Name": "New Kid",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -1955,7 +1960,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -1979,7 +1984,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -2091,7 +2096,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -2163,7 +2168,7 @@
       "Name": "Volare!",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -2218,13 +2223,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 575168,
-      "Completed": 12
+      "Progressed": 575373,
+      "Completed": 13
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 575168,
+      "Progressed": 575373,
       "Completed": 12
     }
   ],
@@ -2232,8 +2237,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-06-06T19:57:17.5572876+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:04:07.126152+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:04:02.2979702+00:00",
   "LastUpdate_AppInfo": "2023-06-01T14:56:59.1245664+00:00",
-  "LastUpdate_Ratings": "2023-06-07T04:57:07.7979853+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:04:07.1262298+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:57:06.9053954+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:04:02.2980591+00:00"
 }

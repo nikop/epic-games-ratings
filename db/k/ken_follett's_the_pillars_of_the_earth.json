@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13039,
+  "EOS_Progressed": 13040,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3574,6 +3574,11 @@
       "Time": "2023-06-07T03:20:14.1781697+00:00",
       "NumProgressed": 13039,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-07T06:05:34.7919717+00:00",
+      "NumProgressed": 13040,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 41,
@@ -3601,7 +3606,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3129
+      "UsersEstimate": 3130
     },
     {
       "ID": "tpote_achievement_12",
@@ -3625,7 +3630,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "tpote_achievement_15",
@@ -3641,7 +3646,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "tpote_achievement_17",
@@ -3665,7 +3670,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "tpote_achievement_2",
@@ -3673,7 +3678,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "tpote_achievement_20",
@@ -3729,7 +3734,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "tpote_achievement_27",
@@ -3737,7 +3742,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "tpote_achievement_28",
@@ -3751,9 +3756,9 @@
       "ID": "tpote_achievement_29",
       "SetID": "3jcf6c3",
       "Name": "Skilled merchant",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1304
     },
     {
       "ID": "tpote_achievement_3",
@@ -3849,7 +3854,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5476
+      "UsersEstimate": 5477
     },
     {
       "ID": "tpote_achievement_40",
@@ -3881,7 +3886,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3129
+      "UsersEstimate": 3130
     },
     {
       "ID": "tpote_achievement_7",
@@ -3912,15 +3917,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13039,
+      "Progressed": 13040,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:06:02.6020226+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:05:34.7919712+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.2103721+00:00",
-  "LastUpdate_Ratings": "2023-06-07T05:00:24.9258647+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:06:02.6020671+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:59:31.748415+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:05:34.7920221+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~22,150 |
+| The Sort Who Makes an Entrance | 8.00% | ~22,151 |
 | Grappling with a Graphorn | 7.00% | ~19,382 |
 | The One Who Mastered Memories | 7.00% | ~19,382 |
 | The Hallowed Hero | 7.00% | ~19,382 |
@@ -30,10 +30,10 @@ Rating: 4.77 (Ranked 107)
 | The Root of the Problem | 4.00% | ~11,075 |
 | Third Time's a Charm | 4.00% | ~11,075 |
 | Raising Expectations | 4.00% | ~11,075 |
-| The Toast of the Town | 3.00% | ~8,306 |
-| Room with a View | 3.00% | ~8,306 |
-| The Intrepid Explorer | 3.00% | ~8,306 |
-| The Ends Petrify the Means | 3.00% | ~8,306 |
+| The Toast of the Town | 3.00% | ~8,307 |
+| Room with a View | 3.00% | ~8,307 |
+| The Intrepid Explorer | 3.00% | ~8,307 |
+| The Ends Petrify the Means | 3.00% | ~8,307 |
 | Going Through the Potions | 2.00% | ~5,538 |
 | Put Down Roots | 2.00% | ~5,538 |
 | Floo Around the World | 2.00% | ~5,538 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.40% | ~1,108 |
 | Collector's Edition | 0.20% | ~554 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 276,881 (Ranked 40)  
+Progressed: 276,886 (Ranked 40)  
 Completed: 389 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 389 (0.14%) (Ranked 156)
 | 2023-06-04 | 276,277 | 386 |
 | 2023-06-05 | 276,567 | 388 |
 | 2023-06-06 | 276,816 | 389 |
-| 2023-06-07 | 276,881 | 389 |
+| 2023-06-07 | 276,886 | 389 |
 ## Awards
 Max (Character Customization): 19,672  (Ranked 18)  
 Sum: 36,377 (Ranked 32)  

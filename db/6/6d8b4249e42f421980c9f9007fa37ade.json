@@ -253,9 +253,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -461,9 +461,9 @@
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Epic_Times_100",
@@ -516,8 +516,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:03:07.1596982+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:03:14.3761365+00:00",
   "LastUpdate_AppInfo": "2023-06-01T03:24:11.2191819+00:00",
-  "LastUpdate_Ratings": "2023-06-07T04:57:04.7383564+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:03:07.1597306+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:57:04.4942704+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:03:14.3761771+00:00"
 }

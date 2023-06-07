@@ -1984,9 +1984,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 31329,
+  "EOS_Progressed": 31330,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 826,
+  "EOS_NewPlayers": 823,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6864,6 +6864,11 @@
       "Time": "2023-06-07T05:06:31.2216702+00:00",
       "NumProgressed": 31329,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-07T06:05:59.357997+00:00",
+      "NumProgressed": 31330,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 75,
@@ -6931,7 +6936,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 10965
+      "UsersEstimate": 10966
     },
     {
       "ID": "achievements_19",
@@ -6979,7 +6984,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 18797
+      "UsersEstimate": 18798
     },
     {
       "ID": "achievements_24",
@@ -6987,7 +6992,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 17231
+      "UsersEstimate": 17232
     },
     {
       "ID": "achievements_25",
@@ -7003,7 +7008,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 13158
+      "UsersEstimate": 13159
     },
     {
       "ID": "achievements_27",
@@ -7011,7 +7016,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 12218
+      "UsersEstimate": 12219
     },
     {
       "ID": "achievements_28",
@@ -7019,7 +7024,7 @@
       "Name": "Mountain King - III",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4699
+      "UsersEstimate": 4700
     },
     {
       "ID": "achievements_29",
@@ -7067,7 +7072,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 9085
+      "UsersEstimate": 9086
     },
     {
       "ID": "achievements_34",
@@ -7075,7 +7080,7 @@
       "Name": "Cannon Fodder - III",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 6892
+      "UsersEstimate": 6893
     },
     {
       "ID": "achievements_35",
@@ -7139,7 +7144,7 @@
       "Name": "Spiritual Attraction",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 6892
+      "UsersEstimate": 6893
     },
     {
       "ID": "achievements_42",
@@ -7163,7 +7168,7 @@
       "Name": "Rare Warrior",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4699
+      "UsersEstimate": 4700
     },
     {
       "ID": "achievements_45",
@@ -7171,7 +7176,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 3759
+      "UsersEstimate": 3760
     },
     {
       "ID": "achievements_46",
@@ -7235,7 +7240,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 13158
+      "UsersEstimate": 13159
     },
     {
       "ID": "achievements_53",
@@ -7251,7 +7256,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 13471
+      "UsersEstimate": 13472
     },
     {
       "ID": "achievements_55",
@@ -7339,7 +7344,7 @@
       "Name": "Nightmare of the Humanity - I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 6892
+      "UsersEstimate": 6893
     },
     {
       "ID": "achievements_66",
@@ -7451,7 +7456,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 22870
+      "UsersEstimate": 22871
     },
     {
       "ID": "achievements_8",
@@ -7474,15 +7479,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 31329,
+      "Progressed": 31330,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-06-06T18:00:10.4648671+00:00",
-  "LastChanged_Achievements": "2023-06-07T05:06:31.2216697+00:00",
+  "LastChanged_Achievements": "2023-06-07T06:05:59.3579963+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:06.9000696+00:00",
-  "LastUpdate_Ratings": "2023-06-07T04:59:02.6817383+00:00",
-  "LastUpdate_Achievements": "2023-06-07T05:06:31.2217657+00:00"
+  "LastUpdate_Ratings": "2023-06-07T05:58:34.5065751+00:00",
+  "LastUpdate_Achievements": "2023-06-07T06:05:59.3581145+00:00"
 }
