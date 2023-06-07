@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 47.62% |
-| 2 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 33.33% |
+| 1 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 66.67% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 47.62% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
@@ -34,7 +34,7 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
@@ -69,32 +69,32 @@
 | 67 | [JARS](games/j/jars.md) | 1.92% |
 | 68 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 69 | [Sifu](games/s/sifu.md) | 1.80% |
-| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.67% |
-| 71 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
-| 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
-| 73 | [Somerville](games/s/somerville.md) | 1.59% |
-| 74 | [Night Book](games/n/night_book.md) | 1.55% |
-| 75 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
-| 76 | [Frogun](games/f/frogun.md) | 1.51% |
-| 76 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 78 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.35% |
-| 79 | [Ten Dates](games/t/ten_dates.md) | 1.28% |
-| 80 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.25% |
-| 81 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
-| 82 | [Chorus](games/c/chorus.md) | 1.18% |
-| 82 | [Trifox](games/t/trifox.md) | 1.18% |
-| 84 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.16% |
-| 85 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.14% |
-| 86 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
-| 87 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
-| 88 | [Late Shift](games/l/late_shift.md) | 1.01% |
-| 89 | [Five Dates](games/f/five_dates.md) | 0.98% |
-| 90 | [Sable](games/s/sable.md) | 0.94% |
-| 91 | [Hades](games/h/hades.md) | 0.89% |
-| 92 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
-| 94 | [Adios](games/a/adios.md) | 0.85% |
-| 95 | [Poosh XL](games/p/poosh_xl.md) | 0.84% |
+| 70 | [Poosh XL](games/p/poosh_xl.md) | 1.68% |
+| 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.67% |
+| 72 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
+| 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
+| 74 | [Somerville](games/s/somerville.md) | 1.59% |
+| 75 | [Night Book](games/n/night_book.md) | 1.55% |
+| 76 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
+| 77 | [Frogun](games/f/frogun.md) | 1.51% |
+| 77 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 79 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.35% |
+| 80 | [Ten Dates](games/t/ten_dates.md) | 1.28% |
+| 81 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.25% |
+| 82 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
+| 83 | [Chorus](games/c/chorus.md) | 1.18% |
+| 83 | [Trifox](games/t/trifox.md) | 1.18% |
+| 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.16% |
+| 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.14% |
+| 87 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
+| 88 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
+| 89 | [Late Shift](games/l/late_shift.md) | 1.01% |
+| 90 | [Five Dates](games/f/five_dates.md) | 0.98% |
+| 91 | [Sable](games/s/sable.md) | 0.94% |
+| 92 | [Hades](games/h/hades.md) | 0.89% |
+| 93 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
+| 94 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
+| 95 | [Adios](games/a/adios.md) | 0.85% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
 | 98 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.78% |
@@ -171,11 +171,11 @@
 | 164 | [Supraland](games/s/supraland.md) | 0.10% |
 | 170 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 170 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 170 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.09% |
-| 173 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
-| 173 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 173 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
-| 173 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 172 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
+| 172 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 172 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
+| 172 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.08% |
+| 172 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 177 | [Shop Titans](games/s/shop_titans.md) | 0.07% |
 | 177 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 179 | [House Party](games/h/house_party.md) | 0.06% |
