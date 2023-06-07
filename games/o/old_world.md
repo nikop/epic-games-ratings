@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~9,792 |
-| Settler | 82.00% | ~9,674 |
-| Explorer | 79.00% | ~9,320 |
-| Friendly Family | 76.00% | ~8,966 |
+| Play a Single Player Game | 83.00% | ~9,793 |
+| Settler | 82.00% | ~9,675 |
+| Explorer | 79.00% | ~9,321 |
+| Friendly Family | 76.00% | ~8,967 |
 | Intrepid | 70.00% | ~8,259 |
 | Architect | 61.00% | ~7,197 |
 | Mason | 61.00% | ~7,197 |
@@ -24,48 +24,48 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 54.00% | ~6,371 |
 | Glorious | 52.00% | ~6,135 |
 | Trade Caravan | 52.00% | ~6,135 |
-| Naming Landmarks | 50.00% | ~5,899 |
-| Learned | 49.00% | ~5,781 |
-| Zoroastrianism | 49.00% | ~5,781 |
-| Fountainhead | 48.00% | ~5,663 |
-| Pioneer | 48.00% | ~5,663 |
-| Developing Cities | 48.00% | ~5,663 |
-| Magnificent | 46.00% | ~5,427 |
-| Strong Cities | 45.00% | ~5,309 |
-| Pyramids | 45.00% | ~5,309 |
-| Greek Paganism | 45.00% | ~5,309 |
-| Warrior | 44.00% | ~5,191 |
-| Ishtar Gate | 44.00% | ~5,191 |
-| Babylonian Paganism | 43.00% | ~5,073 |
-| Enlightened | 42.00% | ~4,955 |
-| Great Ziggurat | 41.00% | ~4,837 |
-| Christianity | 41.00% | ~4,837 |
-| Roman Paganism | 41.00% | ~4,837 |
-| Lighthouse | 40.00% | ~4,719 |
-| Great | 39.00% | ~4,601 |
-| Able Difficulty | 39.00% | ~4,601 |
-| Ambitious | 38.00% | ~4,483 |
-| Carthaginian Paganism | 38.00% | ~4,483 |
-| Necropolis | 36.00% | ~4,247 |
-| Egyptian Paganism | 36.00% | ~4,247 |
-| Apadana | 35.00% | ~4,129 |
-| Musaeum | 35.00% | ~4,129 |
-| Manichaeism | 35.00% | ~4,129 |
-| Brilliant | 34.00% | ~4,011 |
-| Drillmaster | 32.00% | ~3,775 |
-| Colossus | 32.00% | ~3,775 |
-| Legendary Cities | 31.00% | ~3,657 |
-| Furious Family | 31.00% | ~3,657 |
-| Learn to Play 1 | 31.00% | ~3,657 |
-| Just Difficulty | 30.00% | ~3,539 |
-| Artisans | 30.00% | ~3,539 |
-| Acropolis | 30.00% | ~3,539 |
-| Mythology | 30.00% | ~3,539 |
-| Wise | 29.00% | ~3,421 |
-| Mausoleum | 29.00% | ~3,421 |
-| Intercessor | 27.00% | ~3,185 |
-| Valiant | 26.00% | ~3,067 |
-| Sages | 26.00% | ~3,067 |
+| Naming Landmarks | 50.00% | ~5,900 |
+| Learned | 49.00% | ~5,782 |
+| Zoroastrianism | 49.00% | ~5,782 |
+| Fountainhead | 48.00% | ~5,664 |
+| Pioneer | 48.00% | ~5,664 |
+| Developing Cities | 48.00% | ~5,664 |
+| Magnificent | 46.00% | ~5,428 |
+| Strong Cities | 45.00% | ~5,310 |
+| Pyramids | 45.00% | ~5,310 |
+| Greek Paganism | 45.00% | ~5,310 |
+| Warrior | 44.00% | ~5,192 |
+| Ishtar Gate | 44.00% | ~5,192 |
+| Babylonian Paganism | 43.00% | ~5,074 |
+| Enlightened | 42.00% | ~4,956 |
+| Great Ziggurat | 41.00% | ~4,838 |
+| Christianity | 41.00% | ~4,838 |
+| Roman Paganism | 41.00% | ~4,838 |
+| Lighthouse | 40.00% | ~4,720 |
+| Great | 39.00% | ~4,602 |
+| Able Difficulty | 39.00% | ~4,602 |
+| Ambitious | 38.00% | ~4,484 |
+| Carthaginian Paganism | 38.00% | ~4,484 |
+| Necropolis | 36.00% | ~4,248 |
+| Egyptian Paganism | 36.00% | ~4,248 |
+| Apadana | 35.00% | ~4,130 |
+| Musaeum | 35.00% | ~4,130 |
+| Manichaeism | 35.00% | ~4,130 |
+| Brilliant | 34.00% | ~4,012 |
+| Drillmaster | 32.00% | ~3,776 |
+| Colossus | 32.00% | ~3,776 |
+| Legendary Cities | 31.00% | ~3,658 |
+| Furious Family | 31.00% | ~3,658 |
+| Learn to Play 1 | 31.00% | ~3,658 |
+| Just Difficulty | 30.00% | ~3,540 |
+| Artisans | 30.00% | ~3,540 |
+| Acropolis | 30.00% | ~3,540 |
+| Mythology | 30.00% | ~3,540 |
+| Wise | 29.00% | ~3,422 |
+| Mausoleum | 29.00% | ~3,422 |
+| Intercessor | 27.00% | ~3,186 |
+| Valiant | 26.00% | ~3,068 |
+| Sages | 26.00% | ~3,068 |
 | Hanging Gardens in Babylon | 25.00% | ~2,950 |
 | Temple of Solomon | 24.00% | ~2,832 |
 | Learn to Play 2 | 24.00% | ~2,832 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~12 |
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,798 (Ranked 106)  
+Progressed: 11,799 (Ranked 106)  
 Completed: 3 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,17 +340,17 @@ Completed: 3 (0.03%) (Ranked 190)
 | 2023-06-04 | 11,741 | 3 |
 | 2023-06-05 | 11,769 | 3 |
 | 2023-06-06 | 11,792 | 3 |
-| 2023-06-07 | 11,798 | 3 |
+| 2023-06-07 | 11,799 | 3 |
 ## Awards
 Max (Relaxing): 217  (Ranked 252)  
-Sum: 1,765 (Ranked 199)  
+Sum: 1,766 (Ranked 199)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 217 |
 | This game has Diverse Characters | 203 |
 | This game is Extremely Fun | 203 |
-| This game is Educational | 201 |
+| This game is Educational | 202 |
 | This game is Highly Recommended | 201 |
 | This game has Amazing Characters | 188 |
 | This game has Challenging Combat | 187 |
@@ -454,4 +454,4 @@ Diff (max vs sum): 53
 | 2023-05-30 | 4.65 | - | 217 | 1,762 |
 | 2023-06-01 | 4.65 | - | 217 | 1,763 |
 | 2023-06-03 | 4.65 | - | 217 | 1,764 |
-| 2023-06-07 | 4.65 | - | 217 | 1,765 |
+| 2023-06-07 | 4.65 | - | 217 | 1,766 |

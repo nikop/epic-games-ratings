@@ -7,7 +7,7 @@ Rating: 4.35 (Ranked 727)
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~960 |
 | Ranidaphobia | 75.00% | ~782 |
-| Aspiring Editor | 72.00% | ~751 |
+| Aspiring Editor | 73.00% | ~761 |
 | Gun for Hire | 67.00% | ~699 |
 | I am the law! | 59.00% | ~615 |
 | Lumberjack | 45.00% | ~469 |
@@ -51,7 +51,7 @@ Rating: 4.35 (Ranked 727)
 | Alpha Editor | 0.50% | ~5 |
 | QA Has Suffered! (Redux) | 0.50% | ~5 |
 | Goaaaaal! | 0.40% | ~4 |
-| Shadow Boxin' | 0.30% | ~3 |
+| Shadow Boxin' | 0.40% | ~4 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Master Editor | 0.00% | ~0 |

@@ -285,17 +285,17 @@
       "ID": "ACH_KITCHEN",
       "SetID": "511e31d",
       "Name": "Nightmare in the kitchen",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_MATTDOCUMENTS",
       "SetID": "511e31d",
       "Name": "A dark past",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MUSICRADIO",
@@ -325,9 +325,9 @@
       "ID": "ACH_OUTOFMOTEL",
       "SetID": "511e31d",
       "Name": "It can\u0027t be true",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_PICKLOCK",
@@ -420,8 +420,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-06-07T10:05:59.2066114+00:00",
+  "LastChanged_Achievements": "2023-06-07T11:07:12.7200099+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:17.7236727+00:00",
-  "LastUpdate_Ratings": "2023-06-07T09:57:26.1844342+00:00",
-  "LastUpdate_Achievements": "2023-06-07T10:05:59.2066325+00:00"
+  "LastUpdate_Ratings": "2023-06-07T10:57:41.2139234+00:00",
+  "LastUpdate_Achievements": "2023-06-07T11:07:12.7200346+00:00"
 }

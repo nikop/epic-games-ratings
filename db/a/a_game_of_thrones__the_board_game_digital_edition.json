@@ -1245,9 +1245,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14846,
+  "EOS_Progressed": 14848,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 794,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6080,6 +6080,11 @@
       "Time": "2023-06-07T10:06:08.972476+00:00",
       "NumProgressed": 14846,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-06-07T11:07:26.2082362+00:00",
+      "NumProgressed": 14848,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 22,
@@ -6211,7 +6216,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2970
     },
     {
       "ID": "1031",
@@ -6219,7 +6224,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     },
     {
       "ID": "1032",
@@ -6227,7 +6232,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5938
+      "UsersEstimate": 5939
     },
     {
       "ID": "1033",
@@ -6251,7 +6256,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     },
     {
       "ID": "1036",
@@ -6266,15 +6271,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 14846,
+      "Progressed": 14848,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-04T11:01:39.0273267+00:00",
-  "LastChanged_Achievements": "2023-06-07T10:06:08.9724755+00:00",
+  "LastChanged_Achievements": "2023-06-07T11:07:26.2082357+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.849482+00:00",
-  "LastUpdate_Ratings": "2023-06-07T09:59:57.1069905+00:00",
-  "LastUpdate_Achievements": "2023-06-07T10:06:08.9725178+00:00"
+  "LastUpdate_Ratings": "2023-06-07T11:01:23.7852209+00:00",
+  "LastUpdate_Achievements": "2023-06-07T11:07:26.2082804+00:00"
 }

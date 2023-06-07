@@ -6,37 +6,37 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,621 |
+| Just One...More...Term... | 76.00% | ~2,623 |
 | Un-Lonely Island | 48.00% | ~1,656 |
 | The Beginning of a Servantship | 46.00% | ~1,587 |
-| Trade Is My Trait | 37.00% | ~1,276 |
-| Number 18 | 25.00% | ~862 |
+| Trade Is My Trait | 37.00% | ~1,277 |
+| Number 18 | 25.00% | ~863 |
 | We Don't Have Time For That | 20.00% | ~690 |
 | The Governator | 18.00% | ~621 |
-| Caribbean Comrade | 17.00% | ~586 |
-| The Legend of Langostino | 17.00% | ~586 |
+| Caribbean Comrade | 17.00% | ~587 |
+| The Legend of Langostino | 17.00% | ~587 |
 | The Dreamer of Dreams | 16.00% | ~552 |
-| Happy Ending? | 11.00% | ~379 |
-| Go Sovereigns! | 11.00% | ~379 |
-| For Science! | 11.00% | ~379 |
+| Happy Ending? | 11.00% | ~380 |
+| Go Sovereigns! | 11.00% | ~380 |
+| For Science! | 11.00% | ~380 |
 | Of Seals And Men | 10.00% | ~345 |
 | Shackadelic | 10.00% | ~345 |
-| Double Trouble | 9.00% | ~310 |
+| Double Trouble | 9.00% | ~311 |
 | Firestarter | 8.00% | ~276 |
 | Make Tropico Great Again! | 8.00% | ~276 |
 | French Connection | 8.00% | ~276 |
-| Don't Panic! | 7.00% | ~241 |
+| Don't Panic! | 7.00% | ~242 |
 | Computer Says "No" | 6.00% | ~207 |
 | Beware The Betman | 6.00% | ~207 |
 | I Owe You Nothing | 6.00% | ~207 |
 | Watch The World Burn | 6.00% | ~207 |
 | Fairy Tale Come True | 6.00% | ~207 |
-| Viva Tropico! | 5.00% | ~172 |
+| Viva Tropico! | 5.00% | ~173 |
 | Apocalypso | 4.00% | ~138 |
-| Been there, Done That | 3.00% | ~103 |
-| Narcissist | 3.00% | ~103 |
-| Promising Endeavors | 3.00% | ~103 |
-| The Time For Wonders | 3.00% | ~103 |
+| Been there, Done That | 3.00% | ~104 |
+| Narcissist | 3.00% | ~104 |
+| Promising Endeavors | 3.00% | ~104 |
+| The Time For Wonders | 3.00% | ~104 |
 | Chain Gang | 2.00% | ~69 |
 | From Knight to Little Duck | 2.00% | ~69 |
 | One Does Not Simply Stage A Coup | 2.00% | ~69 |
@@ -44,10 +44,10 @@ Number of Ratings: 398  (23.09.2022)
 | Teamplayer | 2.00% | ~69 |
 | Terraformer | 2.00% | ~69 |
 | Curse of the Mummy | 2.00% | ~69 |
-| Survivor | 1.00% | ~34 |
+| Survivor | 1.00% | ~35 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,449 (Ranked 134)  
+Progressed: 3,451 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 1 (0.03%) (Ranked 190)
 | 2023-06-04 | 3,408 | 1 |
 | 2023-06-05 | 3,426 | 1 |
 | 2023-06-06 | 3,443 | 1 |
-| 2023-06-07 | 3,449 | 1 |
+| 2023-06-07 | 3,451 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 317)  
 Sum: 756 (Ranked 255)  

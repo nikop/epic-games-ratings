@@ -68,7 +68,7 @@ Rating: 4.00 (Ranked 897)
 | Tree of Life | 0.50% | ~7 |
 | Cauldron Liberator | 0.40% | ~5 |
 | Gear Enchanting | 0.40% | ~5 |
-| Guardian Master | 0.30% | ~4 |
+| Guardian Master | 0.40% | ~5 |
 | Pokerface | 0.30% | ~4 |
 | Beast War Machines | 0.20% | ~3 |
 | Conqueror | 0.20% | ~3 |

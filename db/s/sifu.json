@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4470,9 +4470,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 707812,
+  "EOS_Progressed": 707820,
   "EOS_Completed": 12763,
-  "EOS_NewPlayers": 1335,
+  "EOS_NewPlayers": 1336,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8875,6 +8875,11 @@
       "Time": "2023-06-07T10:06:19.3496974+00:00",
       "NumProgressed": 707812,
       "NumCompleted": 12763
+    },
+    {
+      "Time": "2023-06-07T11:07:40.039018+00:00",
+      "NumProgressed": 707820,
+      "NumCompleted": 12763
     }
   ],
   "TotalAchievements": 50,
@@ -8974,7 +8979,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5662
+      "UsersEstimate": 5663
     },
     {
       "ID": "13_LowAge",
@@ -9158,7 +9163,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5662
+      "UsersEstimate": 5663
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -9222,7 +9227,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -9285,21 +9290,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17113,
-      "Completed": 10233
+      "Progressed": 17121,
+      "Completed": 10234
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707812,
+      "Progressed": 707820,
       "Completed": 12763
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-07T08:59:19.1082307+00:00",
-  "LastChanged_Achievements": "2023-06-07T10:06:19.3496969+00:00",
+  "LastChanged_Achievements": "2023-06-07T11:07:40.0390173+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-07T09:58:56.3136791+00:00",
-  "LastUpdate_Achievements": "2023-06-07T10:06:19.3497504+00:00"
+  "LastUpdate_Ratings": "2023-06-07T10:59:53.1027803+00:00",
+  "LastUpdate_Achievements": "2023-06-07T11:07:40.0390995+00:00"
 }

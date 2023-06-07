@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1521459,
+  "EOS_Progressed": 1521465,
   "EOS_Completed": 621,
-  "EOS_NewPlayers": 1586,
+  "EOS_NewPlayers": 1585,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5380,6 +5380,11 @@
       "Time": "2023-06-07T10:04:24.8554232+00:00",
       "NumProgressed": 1521459,
       "NumCompleted": 621
+    },
+    {
+      "Time": "2023-06-07T11:04:59.4788691+00:00",
+      "NumProgressed": 1521465,
+      "NumCompleted": 621
     }
   ],
   "TotalAchievements": 20,
@@ -5399,7 +5404,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106502
+      "UsersEstimate": 106503
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -5439,7 +5444,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136931
+      "UsersEstimate": 136932
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -5550,15 +5555,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1521459,
+      "Progressed": 1521465,
       "Completed": 621
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-07T10:04:24.8554222+00:00",
+  "LastChanged_Achievements": "2023-06-07T11:04:59.4788686+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:30.6920773+00:00",
-  "LastUpdate_Ratings": "2023-06-07T09:59:49.1828201+00:00",
-  "LastUpdate_Achievements": "2023-06-07T10:04:24.855457+00:00"
+  "LastUpdate_Ratings": "2023-06-07T11:01:12.0082034+00:00",
+  "LastUpdate_Achievements": "2023-06-07T11:04:59.4789145+00:00"
 }

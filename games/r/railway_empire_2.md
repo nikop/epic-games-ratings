@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~704 |
-| A new Journey | 72.00% | ~695 |
+| Country Bumpkin | 73.00% | ~705 |
+| A new Journey | 71.00% | ~686 |
 | From X to Y | 70.00% | ~676 |
 | Departure | 70.00% | ~676 |
-| Way of Iron | 68.00% | ~656 |
-| Mystery Tour | 66.00% | ~637 |
-| Brainstorm | 65.00% | ~627 |
+| Way of Iron | 68.00% | ~657 |
+| Mystery Tour | 66.00% | ~638 |
+| Brainstorm | 65.00% | ~628 |
 | We brake for nobody | 64.00% | ~618 |
-| Mind the Gap | 62.00% | ~598 |
-| Travel Company | 62.00% | ~598 |
-| All around the World | 60.00% | ~579 |
-| Right through the middle | 54.00% | ~521 |
-| Poor Devil | 51.00% | ~492 |
-| Facility Manager | 50.00% | ~482 |
+| Mind the Gap | 62.00% | ~599 |
+| Travel Company | 62.00% | ~599 |
+| All around the World | 60.00% | ~580 |
+| Right through the middle | 54.00% | ~522 |
+| Poor Devil | 51.00% | ~493 |
+| Facility Manager | 50.00% | ~483 |
 | Producer | 46.00% | ~444 |
-| Apprentice | 42.00% | ~405 |
+| Apprentice | 42.00% | ~406 |
 | Bridge Builder | 37.00% | ~357 |
 | Stoker | 34.00% | ~328 |
-| Access granted | 33.00% | ~318 |
+| Access granted | 33.00% | ~319 |
 | Going once, going twice, sold | 29.00% | ~280 |
 | Full Steam ahead | 28.00% | ~270 |
 | Bull and bear | 27.00% | ~261 |
-| Mole | 25.00% | ~241 |
+| Mole | 25.00% | ~242 |
 | All mine | 24.00% | ~232 |
 | Financial Shark | 23.00% | ~222 |
 | Socializer | 23.00% | ~222 |
@@ -38,7 +38,7 @@
 | Traffic Jam | 14.00% | ~135 |
 | Traffic Junction | 14.00% | ~135 |
 | Breaking Ground | 14.00% | ~135 |
-| Assimilated | 13.00% | ~125 |
+| Assimilated | 13.00% | ~126 |
 | Locusts | 12.00% | ~116 |
 | Networker | 12.00% | ~116 |
 | Resistance is futile | 11.00% | ~106 |
@@ -60,7 +60,7 @@
 | Together we stand | 0.10% | ~1 |
 | United States | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 965 (Ranked 177)  
+Progressed: 966 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,4 +84,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 880 | 0 |
 | 2023-06-05 | 916 | 0 |
 | 2023-06-06 | 961 | 0 |
-| 2023-06-07 | 965 | 0 |
+| 2023-06-07 | 966 | 0 |

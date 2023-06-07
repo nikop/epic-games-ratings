@@ -4,7 +4,7 @@
   "ProductSlug": "second-extinction",
   "Ranking_Rating": 890,
   "Ranking_Popularity": 195,
-  "Ranking_PopularitySum": 294,
+  "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 319,
@@ -1044,8 +1044,8 @@
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.2596991+00:00",
   "LastChanged": "2023-06-02T07:59:38.4024474+00:00",
-  "LastChanged_Achievements": "2023-06-07T10:03:14.1141542+00:00",
+  "LastChanged_Achievements": "2023-06-07T11:02:30.6727198+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:40.4827348+00:00",
-  "LastUpdate_Ratings": "2023-06-07T09:59:12.0530681+00:00",
-  "LastUpdate_Achievements": "2023-06-07T10:03:14.1141573+00:00"
+  "LastUpdate_Ratings": "2023-06-07T11:00:15.471771+00:00",
+  "LastUpdate_Achievements": "2023-06-07T11:02:30.6727228+00:00"
 }

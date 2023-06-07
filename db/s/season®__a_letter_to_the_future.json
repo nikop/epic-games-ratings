@@ -3,7 +3,7 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 175,
-  "Ranking_EOS_Completed": 38,
+  "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 971,
+  "EOS_Progressed": 973,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.81,
+  "EOS_Completed_Percentage": 3.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -1076,6 +1076,11 @@
       "Time": "2023-06-07T08:06:33.0701124+00:00",
       "NumProgressed": 971,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-07T11:07:11.2739201+00:00",
+      "NumProgressed": 973,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 16,
@@ -1095,7 +1100,7 @@
       "Name": "Deep Listener",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -1143,7 +1148,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 796
+      "UsersEstimate": 798
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1151,7 +1156,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 796
+      "UsersEstimate": 798
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1159,7 +1164,7 @@
       "Name": "Love Uncoverer",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -1167,7 +1172,7 @@
       "Name": "Music for Cows",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -1175,7 +1180,7 @@
       "Name": "Outside World Seer",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 621
+      "UsersEstimate": 623
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1191,7 +1196,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH_THEEND",
@@ -1214,7 +1219,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 971,
+      "Progressed": 973,
       "Completed": 37
     }
   ],
@@ -1222,8 +1227,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-07T10:05:58.130841+00:00",
+  "LastChanged_Achievements": "2023-06-07T11:07:11.2739194+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:52.9746475+00:00",
-  "LastUpdate_Ratings": "2023-06-07T09:58:36.507937+00:00",
-  "LastUpdate_Achievements": "2023-06-07T10:05:58.1308544+00:00"
+  "LastUpdate_Ratings": "2023-06-07T10:59:25.1976122+00:00",
+  "LastUpdate_Achievements": "2023-06-07T11:07:11.2739393+00:00"
 }

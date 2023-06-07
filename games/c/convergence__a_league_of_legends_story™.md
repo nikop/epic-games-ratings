@@ -7,9 +7,11 @@
 | Make Up For Lost Time | 3.00% | ~19 |
 | Immaculate Aim | 3.00% | ~19 |
 | The Steel Shadow | 2.00% | ~12 |
+| Chaincrawler Explorer | 2.00% | ~12 |
 | Treasure Trove | 2.00% | ~12 |
 | Like Clockwork | 2.00% | ~12 |
 | Street Style | 2.00% | ~12 |
+| Family Memories | 2.00% | ~12 |
 | The Betrayer | 2.00% | ~12 |
 | The Man Who Shattered Time | 2.00% | ~12 |
 | The Loose Cannon | 2.00% | ~12 |
@@ -24,10 +26,8 @@
 | Sump Explorer | 2.00% | ~12 |
 | Check Your Pulse | 2.00% | ~12 |
 | The Family Fortune | 2.00% | ~12 |
-| Chaincrawler Explorer | 1.00% | ~6 |
 | Right On Time | 1.00% | ~6 |
 | Cultivair Explorer | 1.00% | ~6 |
-| Family Memories | 1.00% | ~6 |
 | Factorywood Explorer | 1.00% | ~6 |
 | The Mysterious Stranger | 1.00% | ~6 |
 | Whiz Kid | 1.00% | ~6 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 617 (Ranked 195)  
+Progressed: 618 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 602 | 0 |
 | 2023-06-05 | 608 | 0 |
 | 2023-06-06 | 615 | 0 |
-| 2023-06-07 | 617 | 0 |
+| 2023-06-07 | 618 | 0 |

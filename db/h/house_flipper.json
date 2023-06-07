@@ -1566,9 +1566,9 @@
       "Count": 206
     }
   ],
-  "EOS_Progressed": 19372,
+  "EOS_Progressed": 19374,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3901,6 +3901,11 @@
       "Time": "2023-06-07T10:06:04.9817108+00:00",
       "NumProgressed": 19372,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-07T11:07:20.8312319+00:00",
+      "NumProgressed": 19374,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -3960,7 +3965,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18210
+      "UsersEstimate": 18212
     },
     {
       "ID": "GameOver",
@@ -4072,7 +4077,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6005
+      "UsersEstimate": 6006
     },
     {
       "ID": "VeronicaLiptson",
@@ -4080,7 +4085,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "YouDoItWrong",
@@ -4095,15 +4100,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19372,
+      "Progressed": 19374,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-06T20:00:30.0103604+00:00",
-  "LastChanged_Achievements": "2023-06-07T10:06:04.98171+00:00",
+  "LastChanged_Achievements": "2023-06-07T11:07:20.8312314+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-07T09:59:17.8897038+00:00",
-  "LastUpdate_Achievements": "2023-06-07T10:06:04.981734+00:00"
+  "LastUpdate_Ratings": "2023-06-07T11:00:24.3708631+00:00",
+  "LastUpdate_Achievements": "2023-06-07T11:07:20.8312616+00:00"
 }

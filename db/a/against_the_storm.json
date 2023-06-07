@@ -2336,9 +2336,9 @@
       "Count": 305
     }
   ],
-  "EOS_Progressed": 15214,
+  "EOS_Progressed": 15215,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4941,6 +4941,11 @@
       "Time": "2023-06-07T08:06:59.5229405+00:00",
       "NumProgressed": 15214,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-07T11:07:42.2645816+00:00",
+      "NumProgressed": 15215,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -5064,7 +5069,7 @@
       "Name": "Ruined Armory",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "WinNearBandit",
@@ -5128,7 +5133,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "WinNearHaunted",
@@ -5351,15 +5356,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15214,
+      "Progressed": 15215,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-06T15:59:32.754626+00:00",
-  "LastChanged_Achievements": "2023-06-07T10:06:21.1036793+00:00",
+  "LastChanged_Achievements": "2023-06-07T11:07:42.264581+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.9758941+00:00",
-  "LastUpdate_Ratings": "2023-06-07T09:59:45.5513558+00:00",
-  "LastUpdate_Achievements": "2023-06-07T10:06:21.1037252+00:00"
+  "LastUpdate_Ratings": "2023-06-07T11:01:06.4680861+00:00",
+  "LastUpdate_Achievements": "2023-06-07T11:07:42.26465+00:00"
 }

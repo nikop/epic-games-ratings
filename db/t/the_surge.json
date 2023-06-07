@@ -319,9 +319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4351,
+  "EOS_Progressed": 4352,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1034,6 +1034,11 @@
       "Time": "2023-06-07T06:00:15.3266672+00:00",
       "NumProgressed": 4351,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-07T11:02:21.8954175+00:00",
+      "NumProgressed": 4352,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -1093,7 +1098,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1101,7 +1106,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1109,7 +1114,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3350
+      "UsersEstimate": 3351
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1117,7 +1122,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -1131,9 +1136,9 @@
       "ID": "ID_ACHIEV_12",
       "SetID": "98bke8c",
       "Name": "Gear Up",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 609
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -1261,7 +1266,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1309,7 +1314,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -1580,15 +1585,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4351,
+      "Progressed": 4352,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-07T10:03:07.8239601+00:00",
+  "LastChanged_Achievements": "2023-06-07T11:02:21.8954169+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:09.2823727+00:00",
-  "LastUpdate_Ratings": "2023-06-07T09:58:03.620613+00:00",
-  "LastUpdate_Achievements": "2023-06-07T10:03:07.8240224+00:00"
+  "LastUpdate_Ratings": "2023-06-07T10:58:37.9108976+00:00",
+  "LastUpdate_Achievements": "2023-06-07T11:02:21.895525+00:00"
 }

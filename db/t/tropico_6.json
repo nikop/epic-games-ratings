@@ -894,9 +894,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3449,
+  "EOS_Progressed": 3451,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3839,6 +3839,11 @@
       "Time": "2023-06-07T09:00:58.9805783+00:00",
       "NumProgressed": 3449,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T11:02:01.666405+00:00",
+      "NumProgressed": 3451,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3858,7 +3863,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -3866,7 +3871,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -3874,7 +3879,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -3882,7 +3887,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -3890,7 +3895,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -3898,7 +3903,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -3906,7 +3911,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -3954,7 +3959,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3970,7 +3975,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -3994,7 +3999,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -4010,7 +4015,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2623
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4058,7 +4063,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -4066,7 +4071,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -4082,7 +4087,7 @@
       "Name": "Survivor",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -4114,7 +4119,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -4122,7 +4127,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4169,15 +4174,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3449,
+      "Progressed": 3451,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-05T19:00:08.7652267+00:00",
-  "LastChanged_Achievements": "2023-06-07T10:00:21.9424992+00:00",
+  "LastChanged_Achievements": "2023-06-07T11:02:01.6664044+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-07T09:59:55.1461959+00:00",
-  "LastUpdate_Achievements": "2023-06-07T10:00:21.9425441+00:00"
+  "LastUpdate_Ratings": "2023-06-07T11:01:21.0320557+00:00",
+  "LastUpdate_Achievements": "2023-06-07T11:02:01.6664583+00:00"
 }

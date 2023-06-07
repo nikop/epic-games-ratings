@@ -5,26 +5,26 @@ Rating: 4.55 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,472 |
-| Realm Estate | 75.00% | ~3,296 |
-| Secret Technique | 75.00% | ~3,296 |
-| Walls Cannot Stop Us | 73.00% | ~3,208 |
+| A Wonderful Discovery | 79.00% | ~3,473 |
+| Realm Estate | 75.00% | ~3,297 |
+| Secret Technique | 75.00% | ~3,297 |
+| Walls Cannot Stop Us | 73.00% | ~3,209 |
 | From Friends to Family | 69.00% | ~3,033 |
 | Magical Synergy | 64.00% | ~2,813 |
-| Bone Peddler | 61.00% | ~2,681 |
-| Stronger Together | 55.00% | ~2,417 |
-| Full Ascension | 54.00% | ~2,373 |
+| Bone Peddler | 61.00% | ~2,682 |
+| Stronger Together | 55.00% | ~2,418 |
+| Full Ascension | 54.00% | ~2,374 |
 | There Can Only Be One! | 47.00% | ~2,066 |
 | Seat of Power | 47.00% | ~2,066 |
 | Intimidation Tactics | 44.00% | ~1,934 |
 | My Final Form | 43.00% | ~1,890 |
 | Valley of Wonders | 42.00% | ~1,846 |
-| In a Liege of Your Own | 37.00% | ~1,626 |
-| Return of the Wizard King | 31.00% | ~1,362 |
-| Digging for Treasure | 30.00% | ~1,318 |
-| Against the Odds | 30.00% | ~1,318 |
+| In a Liege of Your Own | 37.00% | ~1,627 |
+| Return of the Wizard King | 31.00% | ~1,363 |
+| Digging for Treasure | 30.00% | ~1,319 |
+| Against the Odds | 30.00% | ~1,319 |
 | Enchanted Archipelago | 28.00% | ~1,231 |
-| Impenetrable Fortress | 26.00% | ~1,143 |
+| Impenetrable Fortress | 27.00% | ~1,187 |
 | The Magic That Empowers Me! | 20.00% | ~879 |
 | Preparation Is Everything | 20.00% | ~879 |
 | Arch Mage | 19.00% | ~835 |
@@ -50,7 +50,7 @@ Rating: 4.55 (Ranked 475)
 | Master of Evilness | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,395 (Ranked 128)  
+Progressed: 4,396 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 4,325 | 0 |
 | 2023-06-05 | 4,354 | 0 |
 | 2023-06-06 | 4,386 | 0 |
-| 2023-06-07 | 4,395 | 0 |
+| 2023-06-07 | 4,396 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

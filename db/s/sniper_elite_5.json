@@ -266,7 +266,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2347,
+  "EOS_Progressed": 2348,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
@@ -2741,6 +2741,11 @@
       "Time": "2023-06-07T10:06:09.2113493+00:00",
       "NumProgressed": 2347,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-07T11:07:26.6553598+00:00",
+      "NumProgressed": 2348,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3000,7 +3005,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3062,9 +3067,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 376
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3319,13 +3324,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2298,
+      "Progressed": 2299,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2347,
+      "Progressed": 2348,
       "Completed": 2
     }
   ],
@@ -3333,8 +3338,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-05T13:10:05.9944784+00:00",
-  "LastChanged_Achievements": "2023-06-07T10:06:09.2113489+00:00",
+  "LastChanged_Achievements": "2023-06-07T11:07:26.6553591+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-07T10:00:13.5479981+00:00",
-  "LastUpdate_Achievements": "2023-06-07T10:06:09.2114121+00:00"
+  "LastUpdate_Ratings": "2023-06-07T11:01:47.1838961+00:00",
+  "LastUpdate_Achievements": "2023-06-07T11:07:26.6554468+00:00"
 }

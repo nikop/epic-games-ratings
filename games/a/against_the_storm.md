@@ -39,8 +39,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forsaken Gods Temple | 0.80% | ~122 |
 | Defying the Crown | 0.80% | ~122 |
 | Into the Forest | 0.80% | ~122 |
-| Ruined Armory | 0.70% | ~106 |
-| Forbidden Lands | 0.70% | ~106 |
+| Ruined Armory | 0.70% | ~107 |
+| Forbidden Lands | 0.70% | ~107 |
 | Efficient Explorer | 0.50% | ~76 |
 | Fishmen Ritual Site | 0.50% | ~76 |
 | Prestigious Expedition | 0.50% | ~76 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,214 (Ranked 100)  
+Progressed: 15,215 (Ranked 100)  
 Completed: 33 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 33 (0.22%) (Ranked 141)
 | 2023-06-04 | 15,183 | 33 |
 | 2023-06-05 | 15,193 | 33 |
 | 2023-06-06 | 15,208 | 33 |
-| 2023-06-07 | 15,214 | 33 |
+| 2023-06-07 | 15,215 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 197)  
 Sum: 3,037 (Ranked 152)  

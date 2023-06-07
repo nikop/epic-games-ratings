@@ -8,7 +8,7 @@
 | Waff! | 95.00% | ~918 |
 | Into the Barn | 86.00% | ~831 |
 | A Prophecy | 85.00% | ~821 |
-| Sword, Shield, Fight! | 74.00% | ~715 |
+| Sword, Shield, Fight! | 75.00% | ~724 |
 | A Grand Visit | 70.00% | ~676 |
 | Fun Guy | 61.00% | ~589 |
 | Vibing | 60.00% | ~580 |
@@ -18,21 +18,21 @@
 | Surprise! | 44.00% | ~425 |
 | An Actor! | 44.00% | ~425 |
 | Curtain Call | 42.00% | ~406 |
+| Piece of Cake | 40.00% | ~386 |
 | Glimmer of Hope | 40.00% | ~386 |
-| Piece of Cake | 39.00% | ~377 |
 | Gooey Delight! | 39.00% | ~377 |
+| Teacups for Toppy | 39.00% | ~377 |
 | Well Rested | 39.00% | ~377 |
 | Nightmare Fuel | 38.00% | ~367 |
-| Teacups for Toppy | 38.00% | ~367 |
-| Take Heart | 37.00% | ~357 |
+| Take Heart | 38.00% | ~367 |
 | The Guardian | 37.00% | ~357 |
 | Ancient Wisdom | 36.00% | ~348 |
+| Frog Facts! | 36.00% | ~348 |
 | All That Glistens | 36.00% | ~348 |
 | Stronger! | 36.00% | ~348 |
-| Frog Facts! | 35.00% | ~338 |
+| Spellbound | 35.00% | ~338 |
 | All Skilled Up! | 35.00% | ~338 |
 | It's Pointy! | 35.00% | ~338 |
-| Spellbound | 34.00% | ~328 |
 | Extinct Again! | 34.00% | ~328 |
 | Bird of Prey | 33.00% | ~319 |
 | Stardust | 33.00% | ~319 |
