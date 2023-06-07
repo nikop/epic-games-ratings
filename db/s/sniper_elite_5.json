@@ -280,7 +280,7 @@
   "Tags": [],
   "EOS_Progressed": 2377,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2862,9 +2862,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 190
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3310,9 +3310,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -3405,8 +3405,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-07T21:00:47.5607681+00:00",
-  "LastChanged_Achievements": "2023-06-07T22:05:24.6871275+00:00",
+  "LastChanged_Achievements": "2023-06-07T23:06:08.4697676+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:59:47.915179+00:00",
-  "LastUpdate_Achievements": "2023-06-07T22:05:24.6872075+00:00"
+  "LastUpdate_Ratings": "2023-06-07T23:00:41.0203512+00:00",
+  "LastUpdate_Achievements": "2023-06-07T23:06:08.4698296+00:00"
 }

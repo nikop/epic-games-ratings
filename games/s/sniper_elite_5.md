@@ -17,11 +17,11 @@ Rating: 4.49 (Ranked 564)
 | Target America | 10.00% | ~238 |
 | As Quiet as a Mouse | 9.00% | ~214 |
 | Liberté | 8.00% | ~190 |
+| Enemy at the Gates | 8.00% | ~190 |
 | Just a Flesh Wound | 8.00% | ~190 |
 | Sharpshooter | 8.00% | ~190 |
 | Explosive Efficiency | 8.00% | ~190 |
 | The Kraken Sleeps | 8.00% | ~190 |
-| Enemy at the Gates | 7.00% | ~166 |
 | Gunslinger | 7.00% | ~166 |
 | Opposing Force | 6.00% | ~143 |
 | Die Nussknacker Sweet! | 6.00% | ~143 |
@@ -46,9 +46,9 @@ Rating: 4.49 (Ranked 564)
 | Herr Today, Gone Tomorrow | 1.00% | ~23 |
 | Operation Foxley | 1.00% | ~23 |
 | Tinkerer | 0.90% | ~21 |
+| Last Resort | 0.80% | ~19 |
 | Siegebreaker | 0.80% | ~19 |
 | Ghost of Falaise | 0.80% | ~19 |
-| Last Resort | 0.70% | ~16 |
 | From Paris with Love | 0.60% | ~14 |
 | Burn after reading | 0.60% | ~14 |
 | Souvenir hunter | 0.60% | ~14 |

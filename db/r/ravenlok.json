@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -30,7 +30,7 @@
   "EOS_Progressed": 966,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 55,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 6.73,
   "EosHistory": [
     {
@@ -2493,9 +2493,9 @@
       "ID": "40",
       "SetID": "d0g98p",
       "Name": "Mirror, Mirror",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 280
     },
     {
       "ID": "41",
@@ -2630,8 +2630,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-07T22:05:14.2187498+00:00",
+  "LastChanged_Achievements": "2023-06-07T23:05:56.6305205+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:57:15.9775495+00:00",
-  "LastUpdate_Achievements": "2023-06-07T22:05:14.2188042+00:00"
+  "LastUpdate_Ratings": "2023-06-07T22:57:32.6510239+00:00",
+  "LastUpdate_Achievements": "2023-06-07T23:05:56.6305836+00:00"
 }

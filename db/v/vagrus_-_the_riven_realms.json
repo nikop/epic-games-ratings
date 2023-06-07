@@ -575,9 +575,9 @@
       "ID": "Vanilla_Finndurarth",
       "SetID": "27kik8p",
       "Name": "The Voice of Hereafter",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_FirstFactionTier3",
@@ -1048,8 +1048,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-06-07T22:05:30.890087+00:00",
+  "LastChanged_Achievements": "2023-06-07T23:06:15.864467+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:04.378109+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:58:22.7772092+00:00",
-  "LastUpdate_Achievements": "2023-06-07T22:05:30.8902053+00:00"
+  "LastUpdate_Ratings": "2023-06-07T22:58:55.5281593+00:00",
+  "LastUpdate_Achievements": "2023-06-07T23:06:15.8645591+00:00"
 }

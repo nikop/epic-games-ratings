@@ -4,8 +4,8 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -2759,9 +2759,9 @@
       "ID": "3",
       "SetID": "dg4cch5",
       "Name": "Jill the Brave",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 90
+      "UsersEstimate": 100
     },
     {
       "ID": "4",
@@ -2792,8 +2792,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-06-07T22:05:06.9235412+00:00",
+  "LastChanged_Achievements": "2023-06-07T23:05:47.9811609+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:13.8733556+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:57:04.4484337+00:00",
-  "LastUpdate_Achievements": "2023-06-07T22:05:06.9235639+00:00"
+  "LastUpdate_Ratings": "2023-06-07T22:57:18.8211087+00:00",
+  "LastUpdate_Achievements": "2023-06-07T23:05:47.9811793+00:00"
 }

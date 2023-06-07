@@ -1599,9 +1599,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42642,
+  "EOS_Progressed": 42643,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3354,6 +3354,11 @@
       "Time": "2023-06-07T17:10:51.225443+00:00",
       "NumProgressed": 42642,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-07T23:06:25.2331871+00:00",
+      "NumProgressed": 42643,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -3437,7 +3442,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17483
+      "UsersEstimate": 17484
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -3557,7 +3562,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26438
+      "UsersEstimate": 26439
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3581,7 +3586,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18762
+      "UsersEstimate": 18763
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -3613,7 +3618,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20468
+      "UsersEstimate": 20469
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -3661,7 +3666,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 17483
+      "UsersEstimate": 17484
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -3669,7 +3674,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21321
+      "UsersEstimate": 21322
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -3717,7 +3722,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19615
+      "UsersEstimate": 19616
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -3733,7 +3738,7 @@
       "Name": "Stand back boy!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19615
+      "UsersEstimate": 19616
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -3749,7 +3754,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11513
+      "UsersEstimate": 11514
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -3757,7 +3762,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18762
+      "UsersEstimate": 18763
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -3765,7 +3770,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27717
+      "UsersEstimate": 27718
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -3805,7 +3810,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14498
+      "UsersEstimate": 14499
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -3821,7 +3826,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27717
+      "UsersEstimate": 27718
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -3892,15 +3897,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42642,
+      "Progressed": 42643,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-06T14:00:36.1370414+00:00",
-  "LastChanged_Achievements": "2023-06-07T22:05:39.2024607+00:00",
+  "LastChanged_Achievements": "2023-06-07T23:06:25.2331866+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.3124724+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:59:13.8001423+00:00",
-  "LastUpdate_Achievements": "2023-06-07T22:05:39.2025297+00:00"
+  "LastUpdate_Ratings": "2023-06-07T22:59:58.1683492+00:00",
+  "LastUpdate_Achievements": "2023-06-07T23:06:25.233241+00:00"
 }

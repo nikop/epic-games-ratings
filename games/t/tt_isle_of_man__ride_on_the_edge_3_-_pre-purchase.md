@@ -13,11 +13,11 @@
 | No Room for Improvement | 8.00% | ~6 |
 | Start Your Engines | 8.00% | ~6 |
 | Upgradeaholic | 7.00% | ~5 |
+| Playing God | 7.00% | ~5 |
 | Seven-League Boots | 5.00% | ~4 |
 | Highly Qualified | 5.00% | ~4 |
 | Tailor-Made for Two | 5.00% | ~4 |
 | Lone Wolf | 5.00% | ~4 |
-| Playing God | 5.00% | ~4 |
 | Say My Name | 4.00% | ~3 |
 | Nerd | 4.00% | ~3 |
 | First and Foremost | 4.00% | ~3 |

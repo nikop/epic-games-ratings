@@ -4100,10 +4100,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30048,
       "NumberOfAwardsMax": 4920
+    },
+    {
+      "Time": "2023-06-07T22:58:10.9450924+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30049,
+      "NumberOfAwardsMax": 4920
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30048,
+  "NumberOfAwards": 30049,
   "NumberOfAwardsMax": 4920,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4147,10 +4153,10 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3246
+      "Count": 3247
     }
   ],
-  "EOS_Progressed": 90053,
+  "EOS_Progressed": 90057,
   "EOS_Completed": 1922,
   "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 18,
@@ -9060,6 +9066,11 @@
       "Time": "2023-06-07T22:05:43.7643388+00:00",
       "NumProgressed": 90053,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-06-07T23:06:30.9651353+00:00",
+      "NumProgressed": 90057,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 493,
@@ -9439,7 +9450,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "objective_completed_110",
@@ -9781,9 +9792,9 @@
       "ID": "objective_completed_1169",
       "SetID": "415jc5c",
       "Name": "Well Equipped",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_117",
@@ -12215,7 +12226,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "objective_completed_70",
@@ -12685,9 +12696,9 @@
       "ID": "objective_completed_873",
       "SetID": "415jc5c",
       "Name": "Gargauth\u0027s Betrayal",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_877",
@@ -13014,21 +13025,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56327,
+      "Progressed": 56331,
       "Completed": 2776
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90053,
+      "Progressed": 90057,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-07T21:57:46.7120694+00:00",
-  "LastChanged_Achievements": "2023-06-07T22:05:43.7643384+00:00",
+  "LastChanged": "2023-06-07T22:58:10.9450923+00:00",
+  "LastChanged_Achievements": "2023-06-07T23:06:30.9651347+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:57:46.7120701+00:00",
-  "LastUpdate_Achievements": "2023-06-07T22:05:43.7666668+00:00"
+  "LastUpdate_Ratings": "2023-06-07T22:58:10.9450928+00:00",
+  "LastUpdate_Achievements": "2023-06-07T23:06:30.9672699+00:00"
 }

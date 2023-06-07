@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~717 |
-| A new Journey | 72.00% | ~707 |
-| Departure | 71.00% | ~697 |
-| From X to Y | 70.00% | ~687 |
-| Way of Iron | 69.00% | ~678 |
-| Mystery Tour | 66.00% | ~648 |
-| Brainstorm | 65.00% | ~638 |
-| We brake for nobody | 65.00% | ~638 |
-| Mind the Gap | 63.00% | ~619 |
-| Travel Company | 63.00% | ~619 |
-| All around the World | 60.00% | ~589 |
-| Right through the middle | 54.00% | ~530 |
-| Poor Devil | 51.00% | ~501 |
-| Facility Manager | 50.00% | ~491 |
-| Producer | 46.00% | ~452 |
-| Apprentice | 42.00% | ~412 |
-| Bridge Builder | 37.00% | ~363 |
-| Stoker | 34.00% | ~334 |
-| Access granted | 33.00% | ~324 |
+| Country Bumpkin | 73.00% | ~718 |
+| A new Journey | 72.00% | ~708 |
+| Departure | 71.00% | ~699 |
+| From X to Y | 70.00% | ~689 |
+| Way of Iron | 69.00% | ~679 |
+| Mystery Tour | 66.00% | ~649 |
+| Brainstorm | 65.00% | ~640 |
+| We brake for nobody | 65.00% | ~640 |
+| Travel Company | 63.00% | ~620 |
+| Mind the Gap | 62.00% | ~610 |
+| All around the World | 60.00% | ~590 |
+| Right through the middle | 54.00% | ~531 |
+| Poor Devil | 51.00% | ~502 |
+| Facility Manager | 50.00% | ~492 |
+| Producer | 46.00% | ~453 |
+| Apprentice | 42.00% | ~413 |
+| Bridge Builder | 37.00% | ~364 |
+| Stoker | 34.00% | ~335 |
+| Access granted | 33.00% | ~325 |
 | Going once, going twice, sold | 29.00% | ~285 |
-| Full Steam ahead | 28.00% | ~275 |
-| Bull and bear | 27.00% | ~265 |
+| Full Steam ahead | 28.00% | ~276 |
+| Bull and bear | 27.00% | ~266 |
 | Mole | 25.00% | ~246 |
 | All mine | 24.00% | ~236 |
 | Financial Shark | 24.00% | ~236 |
 | Socializer | 24.00% | ~236 |
-| Seven at one stroke | 21.00% | ~206 |
-| General Manager | 21.00% | ~206 |
-| Country Life | 20.00% | ~196 |
-| Hostile Takeover | 20.00% | ~196 |
+| Seven at one stroke | 21.00% | ~207 |
+| General Manager | 21.00% | ~207 |
+| Country Life | 20.00% | ~197 |
+| Hostile Takeover | 20.00% | ~197 |
 | Trailblazer | 18.00% | ~177 |
-| Traffic Jam | 14.00% | ~137 |
-| Traffic Junction | 14.00% | ~137 |
-| Breaking Ground | 14.00% | ~137 |
+| Traffic Jam | 14.00% | ~138 |
+| Traffic Junction | 14.00% | ~138 |
+| Breaking Ground | 14.00% | ~138 |
 | Assimilated | 13.00% | ~128 |
 | Locusts | 13.00% | ~128 |
 | Networker | 12.00% | ~118 |
@@ -60,7 +60,7 @@
 | Together we stand | 0.10% | ~1 |
 | United States | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 982 (Ranked 175)  
+Progressed: 984 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,4 +84,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 880 | 0 |
 | 2023-06-05 | 916 | 0 |
 | 2023-06-06 | 961 | 0 |
-| 2023-06-07 | 982 | 0 |
+| 2023-06-07 | 984 | 0 |

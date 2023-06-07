@@ -14,7 +14,7 @@
 | On foot racer | 40.00% | ~80 |
 | Prickly situation handler | 34.00% | ~68 |
 | Hat lover | 33.00% | ~66 |
-| Perfectionist | 30.00% | ~60 |
+| Perfectionist | 31.00% | ~62 |
 | Protected | 29.00% | ~58 |
 | Pragmatic | 24.00% | ~48 |
 | Calory burner | 17.00% | ~34 |

@@ -13,16 +13,16 @@
 | Triple Kill | 31.00% | ~29 |
 | No Asperascope | 29.00% | ~27 |
 | Cornivore | 29.00% | ~27 |
-| Amateur Survivor | 28.00% | ~12 |
+| Amateur Survivor | 29.00% | ~13 |
 | I Believe I Can Fly | 27.00% | ~25 |
 | Bouncemato | 24.00% | ~11 |
 | This Is My Boomstick | 22.00% | ~10 |
 | Quick-Draw Pod | 19.00% | ~8 |
+| 15K | 18.00% | ~17 |
+| 10K | 18.00% | ~17 |
 | Professional Survivor | 18.00% | ~8 |
-| 15K | 17.00% | ~16 |
-| 10K | 17.00% | ~16 |
 | Grave Digger | 17.00% | ~7 |
-| Drinking Problem | 13.00% | ~12 |
+| Drinking Problem | 14.00% | ~13 |
 | Oh My Gourd | 10.00% | ~4 |
 | Perfect | 9.00% | ~4 |
 | Expert Survivor | 9.00% | ~4 |

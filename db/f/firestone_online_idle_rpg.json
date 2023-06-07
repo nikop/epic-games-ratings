@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1328,
+  "EOS_Progressed": 1329,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2850,6 +2850,11 @@
       "Time": "2023-06-07T21:06:25.8421926+00:00",
       "NumProgressed": 1328,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T23:06:14.916788+00:00",
+      "NumProgressed": 1329,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2965,7 +2970,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "dragonmaster",
@@ -3045,7 +3050,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "fourleafclover",
@@ -3197,7 +3202,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "missionsdedication",
@@ -3317,7 +3322,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "thealchemist",
@@ -3421,7 +3426,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "warmachinesarmy",
@@ -3453,14 +3458,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1328,
+      "Progressed": 1329,
       "Completed": 1
     }
   ],
@@ -3468,8 +3473,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-06T21:58:30.8891367+00:00",
-  "LastChanged_Achievements": "2023-06-07T22:05:30.1419665+00:00",
+  "LastChanged_Achievements": "2023-06-07T23:06:14.9167874+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:57:44.8845049+00:00",
-  "LastUpdate_Achievements": "2023-06-07T22:05:30.1420568+00:00"
+  "LastUpdate_Ratings": "2023-06-07T22:58:08.6463159+00:00",
+  "LastUpdate_Achievements": "2023-06-07T23:06:14.9168612+00:00"
 }

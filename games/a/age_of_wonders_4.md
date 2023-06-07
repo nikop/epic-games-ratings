@@ -6,7 +6,7 @@ Rating: 4.54 (Ranked 491)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 79.00% | ~3,482 |
-| Realm Estate | 75.00% | ~3,305 |
+| Realm Estate | 76.00% | ~3,349 |
 | Secret Technique | 75.00% | ~3,305 |
 | Walls Cannot Stop Us | 73.00% | ~3,217 |
 | From Friends to Family | 69.00% | ~3,041 |

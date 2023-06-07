@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55014,
+  "EOS_Progressed": 55016,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3267,6 +3267,11 @@
       "Time": "2023-06-07T21:00:54.2032278+00:00",
       "NumProgressed": 55014,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-07T23:00:51.4430946+00:00",
+      "NumProgressed": 55016,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -3580,9 +3585,9 @@
       "ID": "StruckLove",
       "SetID": "8gem5jc",
       "Name": "Struck By Love",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 165
     },
     {
       "ID": "Sunflower",
@@ -3669,7 +3674,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55014,
+      "Progressed": 55016,
       "Completed": 4
     }
   ],
@@ -3677,8 +3682,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-06-07T21:59:54.2297575+00:00",
+  "LastChanged_Achievements": "2023-06-07T23:00:51.4430941+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:04.1817194+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:59:49.1273007+00:00",
-  "LastUpdate_Achievements": "2023-06-07T21:59:54.2298441+00:00"
+  "LastUpdate_Ratings": "2023-06-07T23:00:42.5056963+00:00",
+  "LastUpdate_Achievements": "2023-06-07T23:00:51.4431465+00:00"
 }

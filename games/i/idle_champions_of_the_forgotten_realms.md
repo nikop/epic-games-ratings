@@ -8,8 +8,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,801 |
 | The Cursed Farmer | 1.00% | ~901 |
-| Beast Intentions | 0.90% | ~810 |
-| The Mad Wizard | 0.90% | ~810 |
+| Beast Intentions | 0.90% | ~811 |
+| The Mad Wizard | 0.90% | ~811 |
 | The Court of Storms | 0.90% | ~507 |
 | The Ring of Regeneration | 0.70% | ~630 |
 | Beware the Jabberwock | 0.70% | ~394 |
@@ -101,6 +101,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelmed with Knowledge | 0.20% | ~113 |
 | A Demi-god's Defender | 0.20% | ~113 |
 | Vecna Loots! | 0.20% | ~113 |
+| Well Equipped | 0.20% | ~113 |
 | Friends of the Forest | 0.20% | ~180 |
 | More Than Well Equipped | 0.20% | ~113 |
 | Return to the Tomb | 0.20% | ~113 |
@@ -230,6 +231,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Deekin's Mission | 0.20% | ~113 |
 | Frozen Vengeance | 0.20% | ~113 |
 | The Battle of High Hall Tower | 0.20% | ~113 |
+| Gargauth's Betrayal | 0.20% | ~113 |
 | Ending the Rime - Part 1 | 0.20% | ~113 |
 | The Rite of the Arcane Octad | 0.20% | ~113 |
 | An Icewind Dale Reunion | 0.20% | ~113 |
@@ -279,7 +281,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Evacuation of Waterdeep | 0.10% | ~56 |
 | Flapjacks and Waffles | 0.10% | ~56 |
 | On the Hunt | 0.10% | ~90 |
-| Well Equipped | 0.10% | ~56 |
 | Kas the Destroyer | 0.10% | ~56 |
 | Clowning Around | 0.10% | ~56 |
 | A Whale of a Time | 0.10% | ~56 |
@@ -472,7 +473,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Might Makes Right | 0.10% | ~56 |
 | The Stunning Tower Battle | 0.10% | ~56 |
 | Elturel's Last Stand | 0.10% | ~56 |
-| Gargauth's Betrayal | 0.10% | ~56 |
 | Lost in the Underdark | 0.10% | ~56 |
 | Demons Here, Demons There | 0.10% | ~56 |
 | Visions of Hornfirth | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,053 (Ranked 62)  
+Progressed: 90,057 (Ranked 62)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,10 +548,10 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 90,053 | 1,922 |
+| 2023-06-07 | 90,057 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
-Sum: 30,048 (Ranked 37)  
+Sum: 30,049 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -561,7 +561,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,509 |
 | This game is Highly Recommended | 3,955 |
 | This game has Amazing Characters | 3,950 |
-| This game has Playful Visuals | 3,246 |
+| This game has Playful Visuals | 3,247 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -697,4 +697,4 @@ Diff (max vs sum): 27
 | 2023-06-04 | 4.06 | - | 4,917 | 30,033 |
 | 2023-06-05 | 4.06 | - | 4,917 | 30,035 |
 | 2023-06-06 | 4.06 | - | 4,920 | 30,044 |
-| 2023-06-07 | 4.06 | - | 4,920 | 30,048 |
+| 2023-06-07 | 4.06 | - | 4,920 | 30,049 |

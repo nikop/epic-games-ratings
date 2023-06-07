@@ -19,6 +19,7 @@
 | Bounty Hunter | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
 | Harbinger | 1.00% | ~1 |
+| The Voice of Hereafter | 1.00% | ~1 |
 | Acquaintance | 1.00% | ~1 |
 | Tail-wind | 1.00% | ~1 |
 | Taskmaster | 1.00% | ~1 |
@@ -54,7 +55,6 @@
 | Ever After | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
 | Factotum | 0.00% | ~0 |
-| The Voice of Hereafter | 0.00% | ~0 |
 | Despised | 0.00% | ~0 |
 | Conqueror | 0.00% | ~0 |
 | Forager | 0.00% | ~0 |

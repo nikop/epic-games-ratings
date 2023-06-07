@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2727,
+  "EOS_Progressed": 2728,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2395,6 +2395,11 @@
       "Time": "2023-06-07T22:03:34.8387151+00:00",
       "NumProgressed": 2727,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-07T23:03:47.7024731+00:00",
+      "NumProgressed": 2728,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 24,
@@ -2510,7 +2515,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "22",
@@ -2518,7 +2523,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "23",
@@ -2558,7 +2563,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "6",
@@ -2566,7 +2571,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "7",
@@ -2597,13 +2602,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2727,
+      "Progressed": 2728,
       "Completed": 5
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-07T22:03:34.8387147+00:00",
+  "LastChanged_Achievements": "2023-06-07T23:03:47.7024723+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.6683071+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:58:31.4746908+00:00",
-  "LastUpdate_Achievements": "2023-06-07T22:03:34.8387456+00:00"
+  "LastUpdate_Ratings": "2023-06-07T22:59:06.2225135+00:00",
+  "LastUpdate_Achievements": "2023-06-07T23:03:47.7024965+00:00"
 }

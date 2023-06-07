@@ -2,9 +2,9 @@
   "ID": "c4061518e37f40119b54ce93456a8ecb",
   "Name": "Return to Grace",
   "ProductSlug": "return-to-grace-92a75a",
-  "Ranking_EOS_Progress": 415,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-06-06T21:04:27.3267868+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T23:04:24.5694162+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -198,7 +203,7 @@
       "ID": "ACH_Inukshuk",
       "SetID": "aao9n96",
       "Name": "Please send me a sign",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -230,7 +235,7 @@
       "ID": "ACH_MoonSurface",
       "SetID": "aao9n96",
       "Name": "Not all those who wander are lost",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -319,13 +324,13 @@
     {
       "ID": "aao9n96",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-06-07T22:03:57.1440357+00:00",
+  "LastChanged_Achievements": "2023-06-07T23:04:24.5694158+00:00",
   "LastUpdate_AppInfo": "2023-06-06T15:56:55.6615256+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:57:01.5037516+00:00",
-  "LastUpdate_Achievements": "2023-06-07T22:03:57.1440617+00:00"
+  "LastUpdate_Ratings": "2023-06-07T22:57:15.219278+00:00",
+  "LastUpdate_Achievements": "2023-06-07T23:04:24.5694359+00:00"
 }

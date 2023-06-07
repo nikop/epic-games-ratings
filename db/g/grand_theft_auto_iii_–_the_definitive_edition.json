@@ -6,9 +6,9 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -298,11 +298,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6229,
-  "EOS_Completed": 31,
+  "EOS_Progressed": 6231,
+  "EOS_Completed": 32,
   "EOS_NewPlayers": 488,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.5,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -3353,6 +3353,11 @@
       "Time": "2023-06-07T22:03:22.1863143+00:00",
       "NumProgressed": 6229,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-06-07T23:03:32.035924+00:00",
+      "NumProgressed": 6231,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 29,
@@ -3364,7 +3369,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5170
+      "UsersEstimate": 5172
     },
     {
       "ID": "ACH02",
@@ -3372,7 +3377,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "ACH03",
@@ -3388,7 +3393,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "ACH05",
@@ -3492,7 +3497,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ACH18",
@@ -3595,16 +3600,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6229,
-      "Completed": 31
+      "Progressed": 6231,
+      "Completed": 32
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-07T13:58:19.7299811+00:00",
-  "LastChanged_Achievements": "2023-06-07T22:03:22.1863139+00:00",
+  "LastChanged_Achievements": "2023-06-07T23:03:32.0359236+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:03.6526306+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:57:39.1108435+00:00",
-  "LastUpdate_Achievements": "2023-06-07T22:03:22.1863505+00:00"
+  "LastUpdate_Ratings": "2023-06-07T22:58:01.1880837+00:00",
+  "LastUpdate_Achievements": "2023-06-07T23:03:32.0359533+00:00"
 }

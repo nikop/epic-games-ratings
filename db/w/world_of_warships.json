@@ -3,11 +3,11 @@
   "Name": "World of Warships",
   "ProductSlug": "world-of-warships",
   "Ranking_Rating": 656,
-  "Ranking_Popularity": 130,
+  "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
@@ -5230,12 +5230,18 @@
       "Rating": 4.42,
       "NumberOfAwards": 9859,
       "NumberOfAwardsMax": 1112
+    },
+    {
+      "Time": "2023-06-07T22:58:57.4487229+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 9865,
+      "NumberOfAwardsMax": 1116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9859,
-  "NumberOfAwardsMax": 1112,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 9865,
+  "NumberOfAwardsMax": 1116,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
@@ -5259,7 +5265,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1112
+      "Count": 1116
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -5277,7 +5283,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 797
+      "Count": 799
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5309,8 +5315,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-06-07T19:59:28.0051336+00:00",
+  "LastChanged": "2023-06-07T22:58:57.4487227+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.8048035+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:58:24.3215972+00:00",
-  "LastUpdate_Achievements": "2023-06-07T22:00:09.8969194+00:00"
+  "LastUpdate_Ratings": "2023-06-07T22:58:57.4487233+00:00",
+  "LastUpdate_Achievements": "2023-06-07T23:01:09.2595004+00:00"
 }
