@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1141,9 +1141,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 240
+      "UsersEstimate": 244
     },
     {
       "ID": "MQ02_1",
@@ -1205,9 +1205,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "MQ03_5",
@@ -1253,9 +1253,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 159
     },
     {
       "ID": "MQ05_3",
@@ -1366,8 +1366,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-07T14:04:39.335832+00:00",
+  "LastChanged_Achievements": "2023-06-07T15:03:43.6803865+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:57:30.8611889+00:00",
-  "LastUpdate_Achievements": "2023-06-07T14:04:39.3358581+00:00"
+  "LastUpdate_Ratings": "2023-06-07T14:57:10.7156019+00:00",
+  "LastUpdate_Achievements": "2023-06-07T15:03:43.6804072+00:00"
 }

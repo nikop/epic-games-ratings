@@ -42,9 +42,9 @@ Number of Ratings: 20  (23.09.2022)
 | Under the Table | 10.00% | ~31 |
 | It's Complicated | 9.00% | ~28 |
 | Cold Blood, Warm Heart | 9.00% | ~28 |
+| Errand Runner | 9.00% | ~28 |
 | SCHMETTERLING | 8.00% | ~25 |
 | The Great Library | 8.00% | ~25 |
-| Errand Runner | 8.00% | ~25 |
 | No Laughing Matter | 7.00% | ~22 |
 | Level Up | 7.00% | ~22 |
 | Zookeeper | 6.00% | ~19 |

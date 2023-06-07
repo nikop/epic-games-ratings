@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 847)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 4.00% | ~2,557 |
+| First Step Into the Knight | 4.00% | ~2,558 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,918 |
 | Loose Ends | 3.00% | ~1,918 |
 | The Batman Family | 2.00% | ~1,279 |
@@ -19,7 +19,6 @@ Rating: 4.17 (Ranked 847)
 | Knighthood | 2.00% | ~1,279 |
 | Whispered Words | 2.00% | ~1,279 |
 | Lock and Key | 2.00% | ~1,279 |
-| Bad Apples in Every Orchard | 2.00% | ~1,279 |
 | End of an Era | 1.00% | ~639 |
 | In Your Element | 1.00% | ~639 |
 | Protector of Gotham | 1.00% | ~639 |
@@ -30,12 +29,13 @@ Rating: 4.17 (Ranked 847)
 | Shock Til They Drop | 1.00% | ~639 |
 | Cooldown | 1.00% | ~639 |
 | Universal Health Scare | 1.00% | ~639 |
+| Bad Apples in Every Orchard | 1.00% | ~639 |
 | From Inside Gotham's Walls | 1.00% | ~639 |
 | Voiceless | 1.00% | ~639 |
 | Seeking Asylum | 1.00% | ~639 |
 | Gotham Knight | 1.00% | ~639 |
 | Gotham City Confidential | 0.90% | ~575 |
-| Drone You Out | 0.80% | ~511 |
+| Drone You Out | 0.80% | ~512 |
 | Out of Their League | 0.70% | ~448 |
 | Solid Alibi | 0.70% | ~448 |
 | Fusion Expert | 0.60% | ~384 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 847)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,934 (Ranked 71)  
+Progressed: 63,941 (Ranked 71)  
 Completed: 94 (0.15%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 94 (0.15%) (Ranked 154)
 | 2023-06-04 | 63,645 | 93 |
 | 2023-06-05 | 63,770 | 93 |
 | 2023-06-06 | 63,871 | 94 |
-| 2023-06-07 | 63,934 | 94 |
+| 2023-06-07 | 63,941 | 94 |
 ## Awards
 Max (Great Boss Battles): 2,304  (Ranked 97)  
 Sum: 3,809 (Ranked 137)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "Award_LineOfDuty",
       "SetID": "9ojec6n",
       "Name": "Line of Duty",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 274
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -542,8 +542,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-07T14:02:29.2714773+00:00",
+  "LastChanged_Achievements": "2023-06-07T15:02:03.8281968+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:28.8451881+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:58:46.0651218+00:00",
-  "LastUpdate_Achievements": "2023-06-07T14:02:29.2715129+00:00"
+  "LastUpdate_Ratings": "2023-06-07T14:58:02.8957995+00:00",
+  "LastUpdate_Achievements": "2023-06-07T15:02:03.8282261+00:00"
 }

@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 443)  
+Rating: 4.56 (Ranked 452)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 443)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,478 (Ranked 145)  
+Progressed: 2,479 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 2,441 | 0 |
 | 2023-06-05 | 2,460 | 0 |
 | 2023-06-06 | 2,471 | 0 |
-| 2023-06-07 | 2,478 | 0 |
+| 2023-06-07 | 2,479 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -152,3 +152,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-05-30 | 4.57 | 0 | 0 |
 | 2023-06-01 | 4.58 | 0 | 0 |
 | 2023-06-03 | 4.57 | 0 | 0 |
+| 2023-06-07 | 4.56 | 0 | 0 |

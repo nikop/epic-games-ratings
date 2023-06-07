@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7666,
+  "EOS_Progressed": 7667,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2397,6 +2397,11 @@
       "Time": "2023-06-07T14:06:45.9790137+00:00",
       "NumProgressed": 7666,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-07T15:05:12.8931176+00:00",
+      "NumProgressed": 7667,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2432,7 +2437,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2472,7 +2477,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -2536,7 +2541,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2568,7 +2573,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7129
+      "UsersEstimate": 7130
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2592,22 +2597,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6363
+      "UsersEstimate": 6364
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7666,
+      "Progressed": 7667,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
-  "LastChanged_Achievements": "2023-06-07T14:06:45.9790133+00:00",
+  "LastChanged_Achievements": "2023-06-07T15:05:12.8931173+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:59:38.4746717+00:00",
-  "LastUpdate_Achievements": "2023-06-07T14:06:45.9790379+00:00"
+  "LastUpdate_Ratings": "2023-06-07T14:58:37.7290148+00:00",
+  "LastUpdate_Achievements": "2023-06-07T15:05:12.8931385+00:00"
 }

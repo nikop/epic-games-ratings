@@ -6,23 +6,23 @@ Rating: 4.35 (Ranked 727)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~960 |
-| Ranidaphobia | 75.00% | ~782 |
-| Aspiring Editor | 73.00% | ~761 |
+| Ranidaphobia | 75.00% | ~783 |
+| Aspiring Editor | 73.00% | ~762 |
 | Gun for Hire | 67.00% | ~699 |
-| I am the law! | 59.00% | ~615 |
-| Lumberjack | 45.00% | ~469 |
-| Croaked | 40.00% | ~417 |
+| I am the law! | 59.00% | ~616 |
+| Lumberjack | 45.00% | ~470 |
+| Croaked | 40.00% | ~418 |
 | Limp Richard | 39.00% | ~407 |
-| From Darkness to Light | 38.00% | ~396 |
+| From Darkness to Light | 38.00% | ~397 |
 | Exorcist | 37.00% | ~386 |
 | Firestarter | 37.00% | ~386 |
-| Editor Adept | 36.00% | ~375 |
-| Giant Killer | 33.00% | ~344 |
+| Editor Adept | 36.00% | ~376 |
+| Giant Killer | 33.00% | ~345 |
 | Sensei | 32.00% | ~334 |
 | The meaning of Kain | 30.00% | ~313 |
 | Technophobe | 27.00% | ~282 |
 | Recycler | 25.00% | ~261 |
-| Are you not entertained? | 22.00% | ~229 |
+| Are you not entertained? | 22.00% | ~230 |
 | Ganglord | 21.00% | ~219 |
 | Jarhead | 21.00% | ~219 |
 | Infiltrator | 20.00% | ~209 |
@@ -37,8 +37,8 @@ Rating: 4.35 (Ranked 727)
 | The Watchers | 13.00% | ~136 |
 | Ruthless | 11.00% | ~115 |
 | Dr Jones | 9.00% | ~94 |
-| Chaos Theory | 8.00% | ~83 |
-| Commando | 8.00% | ~83 |
+| Chaos Theory | 8.00% | ~84 |
+| Commando | 8.00% | ~84 |
 | Chain Reaction | 7.00% | ~73 |
 | Curveball | 7.00% | ~73 |
 | Side Order | 6.00% | ~63 |
@@ -57,7 +57,7 @@ Rating: 4.35 (Ranked 727)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,043 (Ranked 171)  
+Progressed: 1,044 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 1,019 | 0 |
 | 2023-06-05 | 1,035 | 0 |
 | 2023-06-06 | 1,041 | 0 |
-| 2023-06-07 | 1,043 | 0 |
+| 2023-06-07 | 1,044 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

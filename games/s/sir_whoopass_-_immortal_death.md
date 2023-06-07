@@ -59,10 +59,10 @@
 | Scrambled Eggs | 10.00% | ~7 |
 | Free Of Chains | 10.00% | ~7 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~6 |
-| Grumpy Immortal | 7.00% | ~5 |
+| Grumpy Immortal | 8.00% | ~6 |
+| My name is Whoopass, SIR Whoopass! | 7.00% | ~5 |
 | Ancient Ruins of Inadequate Opportunities | 6.00% | ~4 |
 | I want to throw up! | 6.00% | ~4 |
-| My name is Whoopass, SIR Whoopass! | 6.00% | ~4 |
 | Ancient Ruins of Misplaced Belongings | 4.00% | ~3 |
 | Ancient Ruins of Imperfectly Designed Walls | 4.00% | ~3 |
 | Ancient Ruins of Leaky Roof | 4.00% | ~3 |

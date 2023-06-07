@@ -2,13 +2,13 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2022-12-11T21:57:21.9707652+00:00",
@@ -200,13 +200,19 @@
       "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-07T14:58:13.3423787+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2478,
+  "EOS_Progressed": 2479,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
@@ -2261,6 +2267,11 @@
       "Time": "2023-06-07T13:15:39.9004418+00:00",
       "NumProgressed": 2478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T15:05:24.5466153+00:00",
+      "NumProgressed": 2479,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2727,22 +2738,22 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 659,
+      "Progressed": 660,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2478,
+      "Progressed": 2479,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-12-07T21:57:33.3706141+00:00",
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
-  "LastChanged": "2023-06-03T09:58:13.4383447+00:00",
-  "LastChanged_Achievements": "2023-06-07T14:07:00.8771262+00:00",
+  "LastChanged": "2023-06-07T14:58:13.3423785+00:00",
+  "LastChanged_Achievements": "2023-06-07T15:05:24.5466149+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:41.734154+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:59:00.8073519+00:00",
-  "LastUpdate_Achievements": "2023-06-07T14:07:00.877194+00:00"
+  "LastUpdate_Ratings": "2023-06-07T14:58:13.3423791+00:00",
+  "LastUpdate_Achievements": "2023-06-07T15:05:24.5466703+00:00"
 }

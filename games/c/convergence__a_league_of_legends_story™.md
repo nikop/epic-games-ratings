@@ -27,6 +27,7 @@
 | Fast Learner | 2.00% | ~12 |
 | Sump Explorer | 2.00% | ~12 |
 | Check Your Pulse | 2.00% | ~12 |
+| The Brass Boss | 2.00% | ~12 |
 | The Family Fortune | 2.00% | ~12 |
 | Right On Time | 1.00% | ~6 |
 | Cultivair Explorer | 1.00% | ~6 |
@@ -39,7 +40,6 @@
 | Immaculate Aim | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
-| The Brass Boss | 1.00% | ~6 |
 | Sartorialist | 0.60% | ~4 |
 | Entresol Explorer | 0.60% | ~4 |
 | Golem Hunter | 0.60% | ~4 |

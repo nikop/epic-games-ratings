@@ -6,47 +6,47 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~13,533 |
-| The Evilest Evil | 59.00% | ~11,406 |
-| Twistram is devastated | 58.00% | ~11,213 |
-| The Gehenna Stones | 51.00% | ~9,860 |
+| The Shadow strikes | 70.00% | ~13,534 |
+| The Evilest Evil | 59.00% | ~11,408 |
+| Twistram is devastated | 58.00% | ~11,214 |
+| The Gehenna Stones | 51.00% | ~9,861 |
 | No one has to die today! | 47.00% | ~9,087 |
-| Death and destruction! | 46.00% | ~8,893 |
-| The Swamplanders from the swamplands | 45.00% | ~8,700 |
-| The One-Huge-Army-Building Evil | 42.00% | ~8,120 |
-| Rusty Steel | 42.00% | ~8,120 |
-| The last burger | 39.00% | ~7,540 |
+| Death and destruction! | 46.00% | ~8,894 |
+| The Swamplanders from the swamplands | 45.00% | ~8,701 |
+| The One-Huge-Army-Building Evil | 42.00% | ~8,121 |
+| Rusty Steel | 42.00% | ~8,121 |
+| The last burger | 39.00% | ~7,541 |
 | Braiiiiins! | 38.00% | ~7,347 |
-| Hands off the Dungeonheart! | 37.00% | ~7,153 |
-| A trip on sea, what fun it can be | 36.00% | ~6,960 |
-| Damned good | 34.00% | ~6,573 |
-| Factory farming | 33.00% | ~6,380 |
+| Hands off the Dungeonheart! | 37.00% | ~7,154 |
+| A trip on sea, what fun it can be | 36.00% | ~6,961 |
+| Damned good | 34.00% | ~6,574 |
+| Factory farming | 33.00% | ~6,381 |
 | Stock Market Crash | 32.00% | ~6,187 |
-| Not-So-Overproud | 31.00% | ~5,993 |
+| Not-So-Overproud | 31.00% | ~5,994 |
 | For a handfull of Catapults | 30.00% | ~5,800 |
 | Thirst quencher | 29.00% | ~5,607 |
 | Ogre Solo! | 29.00% | ~5,607 |
 | Shadow hunter | 29.00% | ~5,607 |
-| Tide Master | 28.00% | ~5,413 |
+| Tide Master | 28.00% | ~5,414 |
 | Destroy the thing | 27.00% | ~5,220 |
 | Difficult family relationships | 26.00% | ~5,027 |
-| MASS-O-BOT | 25.00% | ~4,833 |
-| Prepare the grave | 25.00% | ~4,833 |
-| Angel of Fire | 25.00% | ~4,833 |
+| MASS-O-BOT | 25.00% | ~4,834 |
+| Prepare the grave | 25.00% | ~4,834 |
+| Angel of Fire | 25.00% | ~4,834 |
 | Where there is Light, there is Shadow | 24.00% | ~4,640 |
 | At the foot of Mount Destiny | 23.00% | ~4,447 |
-| The Force disturbed | 22.00% | ~4,253 |
+| The Force disturbed | 22.00% | ~4,254 |
 | The Victorious Evil | 21.00% | ~4,060 |
 | Chorus of damnation | 20.00% | ~3,867 |
 | We don’t have time! | 20.00% | ~3,867 |
 | The Stones’ Power | 18.00% | ~3,480 |
 | Flat as a pancake | 18.00% | ~3,480 |
 | Lifeguard | 18.00% | ~3,480 |
-| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,093 |
-| This is fun, I’m going to keep doing this! | 13.00% | ~2,513 |
-| Then let them eat cake! | 13.00% | ~2,513 |
+| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,094 |
+| This is fun, I’m going to keep doing this! | 13.00% | ~2,514 |
+| Then let them eat cake! | 13.00% | ~2,514 |
 | Please, no interruptions! | 11.00% | ~2,127 |
-| The White Knight | 10.00% | ~1,933 |
+| The White Knight | 10.00% | ~1,934 |
 | Use the terrain | 9.00% | ~1,740 |
 | Master of Traps | 9.00% | ~1,740 |
 | Ignore The Level Designer’s Plan | 9.00% | ~1,740 |
@@ -67,8 +67,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~387 |
 | Sacrifices! | 2.00% | ~387 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,333 (Ranked 96)  
-Completed: 167 (0.86%) (Ranked 94)  
+Progressed: 19,335 (Ranked 96)  
+Completed: 168 (0.87%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,14 +115,14 @@ Completed: 167 (0.86%) (Ranked 94)
 | 2023-06-04 | 19,046 | 164 |
 | 2023-06-05 | 19,153 | 165 |
 | 2023-06-06 | 19,274 | 167 |
-| 2023-06-07 | 19,333 | 167 |
+| 2023-06-07 | 19,335 | 168 |
 ## Awards
-Max (Great for Beginners): 324  (Ranked 220)  
-Sum: 2,556 (Ranked 166)  
+Max (Great for Beginners): 325  (Ranked 220)  
+Sum: 2,557 (Ranked 166)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 324 |
+| This game is Great for Beginners | 325 |
 | This game is Extremely Fun | 309 |
 | This game has Quickly Understood Controls | 300 |
 | This game has Amazing Storytelling | 286 |
@@ -252,3 +252,4 @@ Diff (max vs sum): 54
 | 2023-06-01 | 4.65 | - | 324 | 2,553 |
 | 2023-06-03 | 4.65 | - | 324 | 2,554 |
 | 2023-06-04 | 4.65 | - | 324 | 2,556 |
+| 2023-06-07 | 4.65 | - | 325 | 2,557 |

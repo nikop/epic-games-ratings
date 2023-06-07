@@ -21,8 +21,8 @@ Rating: 4.55 (Ranked 475)
 | Valley of Wonders | 42.00% | ~1,848 |
 | In a Liege of Your Own | 38.00% | ~1,672 |
 | Return of the Wizard King | 31.00% | ~1,364 |
-| Digging for Treasure | 30.00% | ~1,320 |
-| Against the Odds | 30.00% | ~1,320 |
+| Digging for Treasure | 31.00% | ~1,364 |
+| Against the Odds | 31.00% | ~1,364 |
 | Enchanted Archipelago | 28.00% | ~1,232 |
 | Impenetrable Fortress | 27.00% | ~1,188 |
 | The Magic That Empowers Me! | 20.00% | ~880 |

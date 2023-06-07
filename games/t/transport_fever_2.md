@@ -9,22 +9,22 @@ Number of Ratings: 180  (23.09.2022)
 | First line | 77.00% | ~949 |
 | First cargo item on board | 71.00% | ~875 |
 | First cargo item waiting | 71.00% | ~875 |
-| First bus stop | 70.00% | ~862 |
-| First passenger on board | 66.00% | ~813 |
-| First passenger waiting | 66.00% | ~813 |
+| First bus stop | 70.00% | ~863 |
+| First passenger on board | 66.00% | ~814 |
+| First passenger waiting | 66.00% | ~814 |
 | First bus arrived | 65.00% | ~801 |
-| First train station | 64.00% | ~788 |
-| First steam train arrived | 60.00% | ~739 |
+| First train station | 64.00% | ~789 |
+| First steam train arrived | 60.00% | ~740 |
 | First industry upgraded | 56.00% | ~690 |
 | Transport millionaire | 55.00% | ~678 |
-| Cargo hub | 54.00% | ~665 |
+| Cargo hub | 54.00% | ~666 |
 | Transport master | 52.00% | ~641 |
 | Cadet | 52.00% | ~641 |
 | Sculpturer | 50.00% | ~616 |
-| Settled down | 48.00% | ~591 |
-| First electric train arrived | 47.00% | ~579 |
+| Settled down | 48.00% | ~592 |
+| First electric train arrived | 47.00% | ~580 |
 | First ship arrived | 46.00% | ~567 |
-| Now what? | 45.00% | ~554 |
+| Now what? | 45.00% | ~555 |
 | High speed | 43.00% | ~530 |
 | Transport shark | 40.00% | ~493 |
 | First aircraft arrived | 40.00% | ~493 |
@@ -40,7 +40,7 @@ Number of Ratings: 180  (23.09.2022)
 | Climate change | 22.00% | ~271 |
 | Old timer | 22.00% | ~271 |
 | The ugly smell of success | 22.00% | ~271 |
-| Heavily loaded | 20.00% | ~246 |
+| Heavily loaded | 20.00% | ~247 |
 | Bob Ross | 16.00% | ~197 |
 | Campaign expert | 11.00% | ~136 |
 | No free seats | 10.00% | ~123 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~2 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,232 (Ranked 164)  
+Progressed: 1,233 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 1,212 | 0 |
 | 2023-06-04 | 1,221 | 0 |
 | 2023-06-06 | 1,228 | 0 |
-| 2023-06-07 | 1,232 | 0 |
+| 2023-06-07 | 1,233 | 0 |
 ## Awards
 Max (Highly Recommended): 39  (Ranked 416)  
 Sum: 267 (Ranked 337)  

@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 261,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -604,6 +604,11 @@
       "Time": "2023-06-06T23:03:43.7013697+00:00",
       "NumProgressed": 260,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-07T15:03:24.7629638+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -615,7 +620,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "completeact2",
@@ -631,7 +636,7 @@
       "Name": "On the Road",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "findalltapes",
@@ -661,17 +666,17 @@
       "ID": "scoreminrankrb2",
       "SetID": "40n95i5",
       "Name": "Freedom",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "scoreminrankrf1",
       "SetID": "40n95i5",
       "Name": "86\u0027s Nightmare",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "scoreminrankrf2",
@@ -709,9 +714,9 @@
       "ID": "scoreminrankrp3",
       "SetID": "40n95i5",
       "Name": "The Eye of the Storm",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "scoreminrankrv1",
@@ -734,7 +739,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 261,
       "Completed": 2
     }
   ],
@@ -742,8 +747,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-07T14:04:12.4878455+00:00",
+  "LastChanged_Achievements": "2023-06-07T15:03:24.7629633+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:59:26.9200015+00:00",
-  "LastUpdate_Achievements": "2023-06-07T14:04:12.4878634+00:00"
+  "LastUpdate_Ratings": "2023-06-07T14:58:30.1701928+00:00",
+  "LastUpdate_Achievements": "2023-06-07T15:03:24.7629745+00:00"
 }
