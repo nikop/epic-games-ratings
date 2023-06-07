@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2934,
+  "EOS_Progressed": 2935,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1894,6 +1894,11 @@
       "Time": "2023-06-07T20:07:23.7114211+00:00",
       "NumProgressed": 2934,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-07T22:05:34.1214229+00:00",
+      "NumProgressed": 2935,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1905,7 +1910,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "bonus2",
@@ -1953,7 +1958,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "campaign10",
@@ -2041,7 +2046,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "campaign20",
@@ -2057,7 +2062,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "campaign4",
@@ -2065,7 +2070,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "campaign5",
@@ -2097,7 +2102,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "campaign9",
@@ -2168,7 +2173,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2934,
+      "Progressed": 2935,
       "Completed": 9
     }
   ],
@@ -2176,8 +2181,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-07T21:06:30.4966493+00:00",
+  "LastChanged_Achievements": "2023-06-07T22:05:34.1214224+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:00:27.9650767+00:00",
-  "LastUpdate_Achievements": "2023-06-07T21:06:30.4966766+00:00"
+  "LastUpdate_Ratings": "2023-06-07T21:59:31.9467571+00:00",
+  "LastUpdate_Achievements": "2023-06-07T22:05:34.1214584+00:00"
 }

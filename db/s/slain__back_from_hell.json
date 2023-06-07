@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 24492,
+  "EOS_Progressed": 24500,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1113,
+  "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5196,6 +5196,11 @@
       "Time": "2023-06-07T21:06:17.3466648+00:00",
       "NumProgressed": 24492,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-07T22:05:22.9687914+00:00",
+      "NumProgressed": 24500,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 29,
@@ -5207,7 +5212,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3919
+      "UsersEstimate": 3920
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -5215,7 +5220,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4898
+      "UsersEstimate": 4900
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -5239,7 +5244,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -5399,7 +5404,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -5407,7 +5412,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -5438,7 +5443,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 24492,
+      "Progressed": 24500,
       "Completed": 19
     }
   ],
@@ -5446,8 +5451,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-07T21:06:17.3466644+00:00",
+  "LastChanged_Achievements": "2023-06-07T22:05:22.968791+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:25.5386302+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:00:14.9322938+00:00",
-  "LastUpdate_Achievements": "2023-06-07T21:06:17.3467014+00:00"
+  "LastUpdate_Ratings": "2023-06-07T21:59:21.5403933+00:00",
+  "LastUpdate_Achievements": "2023-06-07T22:05:22.9688413+00:00"
 }

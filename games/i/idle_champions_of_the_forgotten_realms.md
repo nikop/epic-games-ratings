@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,801 |
-| The Cursed Farmer | 1.00% | ~900 |
+| The Cursed Farmer | 1.00% | ~901 |
 | Beast Intentions | 0.90% | ~810 |
 | The Mad Wizard | 0.90% | ~810 |
 | The Court of Storms | 0.90% | ~507 |
@@ -34,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.40% | ~360 |
 | The Contagious Curse | 0.40% | ~360 |
 | Maddening | 0.30% | ~270 |
+| The Silken Swamp | 0.30% | ~270 |
 | Supply Run | 0.30% | ~270 |
 | Keep Your Distance | 0.30% | ~169 |
 | Hands Off! | 0.30% | ~169 |
@@ -81,7 +82,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | First Third Out | 0.20% | ~113 |
 | Second Third Out | 0.20% | ~113 |
 | Third Third Out | 0.20% | ~113 |
-| The Silken Swamp | 0.20% | ~180 |
 | A Steadfast Love | 0.20% | ~113 |
 | The Fairy Rings of Thither | 0.20% | ~113 |
 | Zarak's Revenge | 0.20% | ~113 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,047 (Ranked 62)  
+Progressed: 90,053 (Ranked 62)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,16 +548,16 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 90,047 | 1,922 |
+| 2023-06-07 | 90,053 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
-Sum: 30,047 (Ranked 37)  
+Sum: 30,048 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,920 |
 | This game is Great for Beginners | 4,857 |
-| This game has Quickly Understood Controls | 4,610 |
+| This game has Quickly Understood Controls | 4,611 |
 | This game is Relaxing | 4,509 |
 | This game is Highly Recommended | 3,955 |
 | This game has Amazing Characters | 3,950 |
@@ -697,4 +697,4 @@ Diff (max vs sum): 27
 | 2023-06-04 | 4.06 | - | 4,917 | 30,033 |
 | 2023-06-05 | 4.06 | - | 4,917 | 30,035 |
 | 2023-06-06 | 4.06 | - | 4,920 | 30,044 |
-| 2023-06-07 | 4.06 | - | 4,920 | 30,047 |
+| 2023-06-07 | 4.06 | - | 4,920 | 30,048 |

@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | The Steel Shadow | 3.00% | ~19 |
 | Treasure Trove | 3.00% | ~19 |
+| Street Style | 3.00% | ~19 |
 | The Betrayer | 3.00% | ~19 |
 | The Man Who Shattered Time | 3.00% | ~19 |
 | Make Up For Lost Time | 3.00% | ~19 |
@@ -14,7 +15,6 @@
 | Immaculate Aim | 3.00% | ~19 |
 | Chaincrawler Explorer | 2.00% | ~12 |
 | Like Clockwork | 2.00% | ~12 |
-| Street Style | 2.00% | ~12 |
 | Family Memories | 2.00% | ~12 |
 | The Mysterious Stranger | 2.00% | ~12 |
 | Whiz Kid | 2.00% | ~12 |
@@ -32,6 +32,7 @@
 | The Brass Boss | 2.00% | ~12 |
 | The Family Fortune | 2.00% | ~12 |
 | Right On Time | 1.00% | ~6 |
+| Corin Goes Home | 1.00% | ~6 |
 | Sartorialist | 1.00% | ~6 |
 | Cultivair Explorer | 1.00% | ~6 |
 | Entresol Explorer | 1.00% | ~6 |
@@ -43,17 +44,16 @@
 | Immaculate Aim | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
-| Corin Goes Home | 0.80% | ~5 |
 | Golem Hunter | 0.80% | ~5 |
 | Rungs Was Right | 0.80% | ~5 |
 | Syron for Hope | 0.80% | ~5 |
 | Hexlock for Protection | 0.30% | ~2 |
 | Fitting In | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |
+| Wunderkind | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |
 | A Lesson in Precision | 0.20% | ~1 |
 | Clovemary for Remembering | 0.00% | ~0 |
-| Wunderkind | 0.00% | ~0 |
 | Going to Live Forever | 0.00% | ~0 |
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |

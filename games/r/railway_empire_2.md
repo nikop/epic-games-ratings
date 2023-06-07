@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~717 |
-| A new Journey | 71.00% | ~697 |
+| A new Journey | 72.00% | ~707 |
+| Departure | 71.00% | ~697 |
 | From X to Y | 70.00% | ~687 |
-| Departure | 70.00% | ~687 |
-| Way of Iron | 68.00% | ~668 |
+| Way of Iron | 69.00% | ~678 |
 | Mystery Tour | 66.00% | ~648 |
-| Brainstorm | 64.00% | ~628 |
-| We brake for nobody | 64.00% | ~628 |
-| Mind the Gap | 62.00% | ~609 |
-| Travel Company | 62.00% | ~609 |
+| Brainstorm | 65.00% | ~638 |
+| We brake for nobody | 65.00% | ~638 |
+| Mind the Gap | 63.00% | ~619 |
+| Travel Company | 63.00% | ~619 |
 | All around the World | 60.00% | ~589 |
 | Right through the middle | 54.00% | ~530 |
 | Poor Devil | 51.00% | ~501 |
@@ -31,7 +31,7 @@
 | Financial Shark | 24.00% | ~236 |
 | Socializer | 24.00% | ~236 |
 | Seven at one stroke | 21.00% | ~206 |
-| General Manager | 20.00% | ~196 |
+| General Manager | 21.00% | ~206 |
 | Country Life | 20.00% | ~196 |
 | Hostile Takeover | 20.00% | ~196 |
 | Trailblazer | 18.00% | ~177 |

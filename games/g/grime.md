@@ -33,11 +33,11 @@ Number of Ratings: 46  (23.09.2022)
 | Artisan | 6.00% | ~35 |
 | All-Seeing | 6.00% | ~35 |
 | Hush | 5.00% | ~29 |
+| Unwrap the Gift | 5.00% | ~29 |
 | Passage | 5.00% | ~29 |
 | Kin | 5.00% | ~8 |
 | Kinship | 4.00% | ~23 |
 | Breathsmith | 4.00% | ~23 |
-| Unwrap the Gift | 4.00% | ~23 |
 | Proportions | 4.00% | ~23 |
 | Weakness | 3.00% | ~17 |
 | Listen | 3.00% | ~5 |

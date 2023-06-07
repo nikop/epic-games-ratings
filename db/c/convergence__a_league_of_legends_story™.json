@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 623,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1088,9 +1088,9 @@
       "ID": "ClockworkCompletion1",
       "SetID": "a9e499d",
       "Name": "Corin Goes Home",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClockworkProgress1",
@@ -1120,9 +1120,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 19
     },
     {
       "ID": "CultivairChests1",
@@ -1192,9 +1192,9 @@
       "ID": "GadgetCompletion1",
       "SetID": "a9e499d",
       "Name": "Wunderkind",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GadgetProgress1",
@@ -1479,8 +1479,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-07T21:05:34.4468046+00:00",
+  "LastChanged_Achievements": "2023-06-07T22:04:48.1112135+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-07T20:59:38.5171592+00:00",
-  "LastUpdate_Achievements": "2023-06-07T21:05:34.4468454+00:00"
+  "LastUpdate_Ratings": "2023-06-07T21:58:53.0326608+00:00",
+  "LastUpdate_Achievements": "2023-06-07T22:04:48.1112659+00:00"
 }

@@ -9,7 +9,7 @@
 | Bloodlust | 56.00% | ~71 |
 | Gettin' It Done | 54.00% | ~69 |
 | Feast | 43.00% | ~55 |
-| Attuned | 36.00% | ~46 |
+| Attuned | 37.00% | ~47 |
 | Specialist | 33.00% | ~42 |
 | Opulent | 32.00% | ~41 |
 | Sparkly | 29.00% | ~37 |

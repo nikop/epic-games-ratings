@@ -4,7 +4,7 @@
   "ProductSlug": "blankos-block-party-09fc55",
   "Ranking_Rating": 816,
   "Ranking_Popularity": 450,
-  "Ranking_PopularitySum": 366,
+  "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 322,
@@ -395,10 +395,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 176,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-06-07T21:58:37.6629885+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 196,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 176,
+  "NumberOfAwards": 196,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -443,6 +449,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 20
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -457,8 +469,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-15T18:02:36.8331612+00:00",
   "FirstSeenRating": "2022-09-21T21:02:42.6156669+00:00",
-  "LastChanged": "2023-05-26T13:59:34.853827+00:00",
+  "LastChanged": "2023-06-07T21:58:37.6629883+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:25.2651068+00:00",
-  "LastUpdate_Ratings": "2023-06-07T20:59:19.5167614+00:00",
-  "LastUpdate_Achievements": "2023-06-07T21:03:34.9684134+00:00"
+  "LastUpdate_Ratings": "2023-06-07T21:58:37.6629889+00:00",
+  "LastUpdate_Achievements": "2023-06-07T22:03:09.8364581+00:00"
 }

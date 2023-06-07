@@ -2261,9 +2261,9 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 328
     },
     {
       "ID": "15",
@@ -2317,9 +2317,9 @@
       "ID": "20",
       "SetID": "d0g98p",
       "Name": "Stardust",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 328
     },
     {
       "ID": "21",
@@ -2630,8 +2630,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-07T21:06:07.4557651+00:00",
+  "LastChanged_Achievements": "2023-06-07T22:05:14.2187498+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-07T20:57:36.5885641+00:00",
-  "LastUpdate_Achievements": "2023-06-07T21:06:07.4558076+00:00"
+  "LastUpdate_Ratings": "2023-06-07T21:57:15.9775495+00:00",
+  "LastUpdate_Achievements": "2023-06-07T22:05:14.2188042+00:00"
 }

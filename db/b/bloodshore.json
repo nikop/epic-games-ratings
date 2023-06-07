@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.47,
+  "EOS_Completed_Percentage": 2.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -167,6 +167,11 @@
       "Time": "2023-06-05T23:07:10.261695+00:00",
       "NumProgressed": 162,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-07T22:05:27.6982913+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -176,9 +181,9 @@
       "ID": "bromance",
       "SetID": "84ad177",
       "Name": "Bromance",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "comedy_killer",
@@ -192,9 +197,9 @@
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 78
     },
     {
       "ID": "deathlooper",
@@ -250,7 +255,7 @@
       "Name": "Mission Complete",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "super_seducer",
@@ -258,7 +263,7 @@
       "Name": "Super Seducer",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -266,7 +271,7 @@
       "Name": "Superstar-crossed lovers",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "thats_my_boy",
@@ -274,7 +279,7 @@
       "Name": "That\u0027s my boy!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "this_wont_end_well",
@@ -282,7 +287,7 @@
       "Name": "This won\u0027t end well...",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "tried_to_warn_you",
@@ -290,7 +295,7 @@
       "Name": "We tried to warn you!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "um_ok",
@@ -313,7 +318,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 4
     }
   ],
@@ -321,8 +326,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-07T21:06:22.9060991+00:00",
+  "LastChanged_Achievements": "2023-06-07T22:05:27.6982908+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:21.7685384+00:00",
-  "LastUpdate_Ratings": "2023-06-07T21:00:10.7103088+00:00",
-  "LastUpdate_Achievements": "2023-06-07T21:06:22.9061093+00:00"
+  "LastUpdate_Ratings": "2023-06-07T21:59:18.1151426+00:00",
+  "LastUpdate_Achievements": "2023-06-07T22:05:27.6983033+00:00"
 }

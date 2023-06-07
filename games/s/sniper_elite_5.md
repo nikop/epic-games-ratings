@@ -5,16 +5,16 @@ Rating: 4.49 (Ranked 564)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~665 |
-| Confirming Suspicions | 23.00% | ~546 |
-| The Kraken Wakes | 18.00% | ~427 |
+| Meeting Resistance | 28.00% | ~666 |
+| Confirming Suspicions | 23.00% | ~547 |
+| The Kraken Wakes | 18.00% | ~428 |
 | It's Starting to Crack | 16.00% | ~380 |
-| Lord of War | 14.00% | ~332 |
+| Lord of War | 14.00% | ~333 |
 | Change the Channel | 13.00% | ~309 |
 | Resourceful | 12.00% | ~285 |
 | Taking it back | 11.00% | ~261 |
-| Organ Grinder | 10.00% | ~237 |
-| Target America | 10.00% | ~237 |
+| Organ Grinder | 10.00% | ~238 |
+| Target America | 10.00% | ~238 |
 | As Quiet as a Mouse | 9.00% | ~214 |
 | Liberté | 8.00% | ~190 |
 | Just a Flesh Wound | 8.00% | ~190 |
@@ -23,11 +23,11 @@ Rating: 4.49 (Ranked 564)
 | The Kraken Sleeps | 8.00% | ~190 |
 | Enemy at the Gates | 7.00% | ~166 |
 | Gunslinger | 7.00% | ~166 |
-| Opposing Force | 6.00% | ~142 |
-| Die Nussknacker Sweet! | 6.00% | ~142 |
-| Der Geist | 6.00% | ~142 |
-| Close Quarters | 6.00% | ~142 |
-| Snake in the Grass | 6.00% | ~142 |
+| Opposing Force | 6.00% | ~143 |
+| Die Nussknacker Sweet! | 6.00% | ~143 |
+| Der Geist | 6.00% | ~143 |
+| Close Quarters | 6.00% | ~143 |
+| Snake in the Grass | 6.00% | ~143 |
 | Climbing the Ladder | 5.00% | ~119 |
 | No Stone Unturned | 5.00% | ~119 |
 | Fields of Glory | 5.00% | ~119 |
@@ -36,9 +36,9 @@ Rating: 4.49 (Ranked 564)
 | Set Europe Ablaze | 4.00% | ~95 |
 | Precision Is Key | 4.00% | ~95 |
 | Rigged to Blow | 3.00% | ~71 |
-| The Long Game | 2.00% | ~47 |
-| My Little Friend | 2.00% | ~47 |
-| It'll Buff Right Out | 2.00% | ~47 |
+| The Long Game | 2.00% | ~48 |
+| My Little Friend | 2.00% | ~48 |
+| It'll Buff Right Out | 2.00% | ~48 |
 | Strategist | 1.00% | ~24 |
 | Locomotion Commotion | 1.00% | ~24 |
 | Road Rage | 1.00% | ~24 |
@@ -54,7 +54,7 @@ Rating: 4.49 (Ranked 564)
 | Souvenir hunter | 0.60% | ~14 |
 | Eagle Eyed | 0.50% | ~12 |
 | Shoot for the Moon | 0.50% | ~12 |
-| Up close and personal | 0.40% | ~9 |
+| Up close and personal | 0.40% | ~10 |
 | If You Go Down To The Woods Today | 0.40% | ~9 |
 | Fight Another Day | 0.40% | ~9 |
 | Can't Outrun A Bullet | 0.30% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.49 (Ranked 564)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,374 (Ranked 147)  
+Progressed: 2,377 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-04 | 2,257 | 2 |
 | 2023-06-05 | 2,307 | 2 |
 | 2023-06-06 | 2,341 | 2 |
-| 2023-06-07 | 2,374 | 2 |
+| 2023-06-07 | 2,377 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

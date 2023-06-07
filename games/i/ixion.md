@@ -41,9 +41,9 @@ Rating: 4.56 (Ranked 452)
 | What the Ruins Teach Us | 1.00% | ~25 |
 | Pulsar Disciple | 0.90% | ~22 |
 | Mutual Loyalty | 0.80% | ~20 |
+| Praise the Hull! | 0.80% | ~20 |
 | You Had One Job... | 0.80% | ~20 |
 | Catastrophe Avoided | 0.70% | ~17 |
-| Praise the Hull! | 0.70% | ~17 |
 | Space Greenhouse | 0.70% | ~17 |
 | Tiqqun Contender | 0.60% | ~15 |
 | Tiqqun Unchained | 0.60% | ~15 |
@@ -52,8 +52,8 @@ Rating: 4.56 (Ranked 452)
 | Gregor Spinoza | 0.50% | ~12 |
 | Better Him Than Me | 0.40% | ~10 |
 | Remember the Dead | 0.30% | ~7 |
+| Work Harder | 0.20% | ~5 |
 | Soylent Green | 0.20% | ~5 |
-| Work Harder | 0.10% | ~2 |
 | A Junker's Dream | 0.10% | ~2 |
 | Crunch Culture | 0.10% | ~2 |
 | I Give You the Stars | 0.10% | ~1 |

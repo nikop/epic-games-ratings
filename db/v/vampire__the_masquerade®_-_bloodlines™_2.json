@@ -7,14 +7,10 @@
   "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
-    "ReleaseDate": "2099-01-02T03:00:00+00:00",
+    "ReleaseDate": null,
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
-    "CustomAttributes": {
-      "com.epicgames.app.blacklist": "KR",
-      "isPrepurchase": "true",
-      "SupportedPlatforms": "Windows"
-    }
+    "CustomAttributes": {}
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -30,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-02T20:57:25.8545905+00:00",
-  "LastUpdate_Ratings": "2023-06-07T20:57:32.4856264+00:00",
-  "LastUpdate_Achievements": "2023-06-07T21:02:15.6643517+00:00"
+  "LastUpdate_Ratings": "2023-06-07T21:57:12.7711609+00:00",
+  "LastUpdate_Achievements": "2023-06-07T22:02:08.2484617+00:00"
 }

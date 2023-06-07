@@ -6,21 +6,21 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,401 |
-| Self-Improvement | 71.00% | ~1,143 |
+| Unforgiven | 87.00% | ~1,402 |
+| Self-Improvement | 71.00% | ~1,144 |
 | Perky | 66.00% | ~1,063 |
-| Let’s Ride | 60.00% | ~966 |
+| Let’s Ride | 60.00% | ~967 |
 | Welcome to the Weird West | 57.00% | ~918 |
 | Dead or Alive | 55.00% | ~886 |
 | Full House | 37.00% | ~596 |
-| Off the Trail | 34.00% | ~547 |
+| Off the Trail | 34.00% | ~548 |
 | Justice Served | 28.00% | ~451 |
 | Chain Reaction | 27.00% | ~435 |
-| Scholar | 25.00% | ~402 |
-| Through Their Eyes | 25.00% | ~402 |
-| Dishonored | 24.00% | ~386 |
-| Rain of Death | 24.00% | ~386 |
-| The Great Escape | 23.00% | ~370 |
+| Scholar | 25.00% | ~403 |
+| Through Their Eyes | 25.00% | ~403 |
+| Dishonored | 24.00% | ~387 |
+| Rain of Death | 24.00% | ~387 |
+| The Great Escape | 23.00% | ~371 |
 | That’s All, Folks | 18.00% | ~290 |
 | Winds of War | 16.00% | ~258 |
 | Fallen Star | 15.00% | ~242 |
@@ -44,8 +44,8 @@ Number of Ratings: 125  (23.09.2022)
 | Monster Hunter | 7.00% | ~113 |
 | Knuckle Sandwich | 7.00% | ~113 |
 | Who You Gonna Call? | 6.00% | ~97 |
-| Healing Old Wounds | 5.00% | ~80 |
-| This Is Sparta | 5.00% | ~80 |
+| Healing Old Wounds | 5.00% | ~81 |
+| This Is Sparta | 5.00% | ~81 |
 | What’s in the Box? | 4.00% | ~64 |
 | Ghost Town | 3.00% | ~48 |
 | Moondrunk | 3.00% | ~48 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.20% | ~3 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,610 (Ranked 157)  
+Progressed: 1,611 (Ranked 157)  
 Completed: 2 (0.12%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 2 (0.12%) (Ranked 161)
 | 2023-06-04 | 1,596 | 2 |
 | 2023-06-05 | 1,604 | 2 |
 | 2023-06-06 | 1,607 | 2 |
-| 2023-06-07 | 1,610 | 2 |
+| 2023-06-07 | 1,611 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 468)  
 Sum: 24 (Ranked 474)  

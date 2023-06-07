@@ -25,8 +25,8 @@
 | Master of the Old Game | 3.00% | ~12 |
 | So Silly! | 3.00% | ~12 |
 | Made a Song | 3.00% | ~12 |
+| Break a Leg! | 2.00% | ~8 |
 | So Tasty! | 2.00% | ~8 |
-| Break a Leg! | 1.00% | ~4 |
 | And now we wish... | 1.00% | ~4 |
 | Sweet Darkness | 1.00% | ~4 |
 | Ss ss ss... | 1.00% | ~4 |
