@@ -3,9 +3,9 @@
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 47.62% |
 | 2 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 33.33% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
-| 3 | [Volley Pals](games/v/volley_pals.md) | 25.00% |
-| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
+| 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
+| 6 | [Volley Pals](games/v/volley_pals.md) | 22.22% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
@@ -85,7 +85,7 @@
 | 82 | [Trifox](games/t/trifox.md) | 1.18% |
 | 84 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.16% |
 | 85 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.14% |
-| 85 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.14% |
+| 86 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 87 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
 | 88 | [Late Shift](games/l/late_shift.md) | 1.01% |
 | 89 | [Five Dates](games/f/five_dates.md) | 0.98% |
@@ -434,4 +434,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,736 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,737 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

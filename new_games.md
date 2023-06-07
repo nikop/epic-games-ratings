@@ -24,8 +24,8 @@
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 17 | - | - |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | - |  | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | - |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 575,373 | 4.64 | 336 |
-| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 925,006 | 4.42 | 0 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 575,549 | 4.64 | 336 |
+| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 928,951 | 4.42 | 0 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 236 | - | 0 |
 | [Nihilsearch](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | - |  | - | - |
 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 2023-06-01 | 6 (1,000 XP) | 27 | - | 0 |
@@ -103,7 +103,7 @@
 | [PHAGEBORN: Online Card Game](games/p/phageborn__online_card_game.md) | 2023-05-19 | - |  | - | 0 |
 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 2023-05-19 | 10 (1,000 XP) | 16 | - | 0 |
 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | - |  | 4.61 | 0 |
-| [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 10 (1,000 XP) | 8 | - | - |
+| [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 10 (1,000 XP) | 9 | - | - |
 | [Minimal Move](games/m/minimal_move.md) | 2023-05-19 | - |  | - | - |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 27 (1,000 XP) | 31 | - | 0 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 9 (1,000 XP) | 10 | - | - |
@@ -157,7 +157,7 @@
 | [Cyber Drift](games/c/cyber_drift.md) | 2023-05-10 | - |  | - | - |
 | [Save District 3](games/s/save_district_3.md) | 2023-05-09 | - |  | - | - |
 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 2023-05-09 | 40 (1,000 XP) | 4 | - | 0 |
-| [EBOLA 2](games/e/ebola_2.md) | 2023-05-09 | 18 (1,000 XP) | 212 | - | 0 |
+| [EBOLA 2](games/e/ebola_2.md) | 2023-05-09 | 18 (1,000 XP) | 213 | - | 0 |
 | [Roboplant](games/r/roboplant.md) | 2023-05-09 | 34 (1,000 XP) | 2 | - | 0 |
 | [Prince of Persia Standard Edition](games/7/7afef992aaba4b53abfdf561e64e534d.md) | 2023-05-09 | - |  | - | 0 |
 | [County Hospital](games/c/county_hospital.md) | 2023-05-08 | - |  | - | - |
@@ -166,4 +166,3 @@
 | [Poosh XL](games/p/poosh_xl.md) | 2023-05-08 | 20 (1,000 XP) | 119 | - | - |
 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2023-05-08 | 17 (1,000 XP) | 109 | - | 0 |
 | [Axolotl Kingdom](games/a/axolotl_kingdom.md) | 2023-05-08 | - |  | - | - |
-| [Emergency Crew 2 Global Warming](games/b/b1ff2bbe99664fb596cac00470bc64ac.md) | 2023-05-08 | - |  | - | 0 |

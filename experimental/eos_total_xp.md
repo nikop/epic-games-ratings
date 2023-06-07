@@ -24,6 +24,7 @@
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 59 | 1,150 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 75 | 1,140 |
+| [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 |
 | [GRIME](../games/g/grime.md) | 42 | 1,100 |
 | [Saints Row](../games/s/saints_row.md) | 53 | 1,075 |
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 |
