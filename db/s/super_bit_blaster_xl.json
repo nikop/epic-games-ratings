@@ -3,9 +3,9 @@
   "Name": "Super Bit Blaster XL",
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 271,
-  "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
     "PcReleaseDate": "2020-03-16T17:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 111,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 34,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.6,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 4.5,
   "EosHistory": [
     {
       "Time": "2023-05-04T22:06:12.5880447+00:00",
@@ -516,6 +516,11 @@
       "Time": "2023-06-07T17:10:14.7619542+00:00",
       "NumProgressed": 111,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-07T21:06:00.1113267+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 17,
@@ -653,9 +658,9 @@
       "ID": "Bit Blaster V8",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V8",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -663,13 +668,13 @@
       "ID": "1f269fc",
       "IsBase": true,
       "Progressed": 111,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-06-07T20:06:49.6701916+00:00",
+  "LastChanged_Achievements": "2023-06-07T21:06:00.1113263+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:52.7277821+00:00",
-  "LastUpdate_Ratings": "2023-06-07T19:58:08.3778011+00:00",
-  "LastUpdate_Achievements": "2023-06-07T20:06:49.6702107+00:00"
+  "LastUpdate_Ratings": "2023-06-07T20:57:55.8033075+00:00",
+  "LastUpdate_Achievements": "2023-06-07T21:06:00.1113399+00:00"
 }

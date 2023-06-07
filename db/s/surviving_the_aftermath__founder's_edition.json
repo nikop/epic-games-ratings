@@ -1023,9 +1023,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6199,
+  "EOS_Progressed": 6201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4978,6 +4978,11 @@
       "Time": "2023-06-07T20:01:40.2108653+00:00",
       "NumProgressed": 6199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T21:00:55.7473732+00:00",
+      "NumProgressed": 6201,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -4989,7 +4994,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3783
     },
     {
       "ID": "10",
@@ -5021,15 +5026,15 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3285
+      "UsersEstimate": 3287
     },
     {
       "ID": "14",
       "SetID": "8idi9ml",
       "Name": "Famous Explorer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2108
+      "UsersEstimate": 2046
     },
     {
       "ID": "15",
@@ -5069,7 +5074,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3285
+      "UsersEstimate": 3287
     },
     {
       "ID": "2",
@@ -5091,9 +5096,9 @@
       "ID": "21",
       "SetID": "8idi9ml",
       "Name": "The Great Healer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 1922
+      "UsersEstimate": 1860
     },
     {
       "ID": "22",
@@ -5101,7 +5106,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4401
+      "UsersEstimate": 4403
     },
     {
       "ID": "23",
@@ -5219,9 +5224,9 @@
       "ID": "36",
       "SetID": "8idi9ml",
       "Name": "Luxurious Living",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 248
+      "UsersEstimate": 186
     },
     {
       "ID": "37",
@@ -5443,9 +5448,9 @@
       "ID": "8",
       "SetID": "8idi9ml",
       "Name": "Real Survivor",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1302
     },
     {
       "ID": "9",
@@ -5460,15 +5465,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6199,
+      "Progressed": 6201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-06T19:00:11.8041738+00:00",
-  "LastChanged_Achievements": "2023-06-07T20:01:40.2108646+00:00",
+  "LastChanged_Achievements": "2023-06-07T21:00:55.7473726+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-07T20:00:51.0798706+00:00",
-  "LastUpdate_Achievements": "2023-06-07T20:01:40.2109749+00:00"
+  "LastUpdate_Ratings": "2023-06-07T21:00:13.2735675+00:00",
+  "LastUpdate_Achievements": "2023-06-07T21:00:55.7474504+00:00"
 }

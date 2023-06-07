@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1327,
+  "EOS_Progressed": 1328,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2845,6 +2845,11 @@
       "Time": "2023-06-07T19:07:11.6702094+00:00",
       "NumProgressed": 1327,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T21:06:25.8421926+00:00",
+      "NumProgressed": 1328,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3088,7 +3093,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "herewegoagain",
@@ -3248,7 +3253,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "prestigiousx10",
@@ -3280,7 +3285,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "scrollmaster",
@@ -3312,7 +3317,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "thealchemist",
@@ -3416,7 +3421,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "warmachinesarmy",
@@ -3455,7 +3460,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1327,
+      "Progressed": 1328,
       "Completed": 1
     }
   ],
@@ -3463,8 +3468,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-06T21:58:30.8891367+00:00",
-  "LastChanged_Achievements": "2023-06-07T20:07:18.4287794+00:00",
+  "LastChanged_Achievements": "2023-06-07T21:06:25.8421921+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-07T19:58:28.9920113+00:00",
-  "LastUpdate_Achievements": "2023-06-07T20:07:18.4288932+00:00"
+  "LastUpdate_Ratings": "2023-06-07T20:58:12.7987344+00:00",
+  "LastUpdate_Achievements": "2023-06-07T21:06:25.8422636+00:00"
 }

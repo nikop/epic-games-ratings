@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -930,9 +930,9 @@
       "ID": "Beam",
       "SetID": "5lok9mm",
       "Name": "Force Beam",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1926
     },
     {
       "ID": "BenCave",
@@ -1314,8 +1314,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-06-07T20:07:28.4959603+00:00",
+  "LastChanged_Achievements": "2023-06-07T21:06:34.8336597+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:29.1819892+00:00",
-  "LastUpdate_Ratings": "2023-06-07T20:00:55.8458605+00:00",
-  "LastUpdate_Achievements": "2023-06-07T20:07:28.496018+00:00"
+  "LastUpdate_Ratings": "2023-06-07T21:00:17.4518404+00:00",
+  "LastUpdate_Achievements": "2023-06-07T21:06:34.8336999+00:00"
 }

@@ -8,18 +8,18 @@ Rating: 4.17 (Ranked 847)
 | First Step Into the Knight | 4.00% | ~2,559 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,919 |
 | Loose Ends | 3.00% | ~1,919 |
-| The Batman Family | 2.00% | ~1,279 |
-| Something in the Clay | 2.00% | ~1,279 |
-| To the Victor Go the Spoils | 2.00% | ~1,279 |
-| Quartzer Life Crisis | 2.00% | ~1,279 |
-| Snow Problem | 2.00% | ~1,279 |
-| Get ReQ'd | 2.00% | ~1,279 |
-| Working Hard or Harley Working? | 2.00% | ~1,279 |
-| Unstoppable Force | 2.00% | ~1,279 |
-| Knighthood | 2.00% | ~1,279 |
-| Whispered Words | 2.00% | ~1,279 |
-| Lock and Key | 2.00% | ~1,279 |
-| Bad Apples in Every Orchard | 2.00% | ~1,279 |
+| The Batman Family | 2.00% | ~1,280 |
+| Something in the Clay | 2.00% | ~1,280 |
+| To the Victor Go the Spoils | 2.00% | ~1,280 |
+| Quartzer Life Crisis | 2.00% | ~1,280 |
+| Snow Problem | 2.00% | ~1,280 |
+| Get ReQ'd | 2.00% | ~1,280 |
+| Working Hard or Harley Working? | 2.00% | ~1,280 |
+| Unstoppable Force | 2.00% | ~1,280 |
+| Knighthood | 2.00% | ~1,280 |
+| Whispered Words | 2.00% | ~1,280 |
+| Lock and Key | 2.00% | ~1,280 |
+| Bad Apples in Every Orchard | 2.00% | ~1,280 |
 | End of an Era | 1.00% | ~640 |
 | In Your Element | 1.00% | ~640 |
 | Protector of Gotham | 1.00% | ~640 |
@@ -45,10 +45,10 @@ Rating: 4.17 (Ranked 847)
 | Dressed to Impress | 0.40% | ~256 |
 | A Momentum Occasion | 0.30% | ~192 |
 | Bat Out of Hell | 0.30% | ~192 |
-| Hammer and Icicle | 0.20% | ~68 |
-| Renewable Enemy Source | 0.20% | ~68 |
-| Crime Is a Terrible Thing to Waste | 0.20% | ~68 |
-| The Cold, the Bad and the Ugly | 0.20% | ~68 |
+| Hammer and Icicle | 0.20% | ~69 |
+| Renewable Enemy Source | 0.20% | ~69 |
+| Crime Is a Terrible Thing to Waste | 0.20% | ~69 |
+| The Cold, the Bad and the Ugly | 0.20% | ~69 |
 | Practice Makes Perfect | 0.20% | ~128 |
 | He'd Be So Proud of You | 0.20% | ~128 |
 | Element of Surprise | 0.10% | ~34 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 847)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,970 (Ranked 71)  
+Progressed: 63,977 (Ranked 71)  
 Completed: 94 (0.15%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 94 (0.15%) (Ranked 155)
 | 2023-06-04 | 63,645 | 93 |
 | 2023-06-05 | 63,770 | 93 |
 | 2023-06-06 | 63,871 | 94 |
-| 2023-06-07 | 63,970 | 94 |
+| 2023-06-07 | 63,977 | 94 |
 ## Awards
 Max (Great Boss Battles): 2,307  (Ranked 97)  
 Sum: 3,813 (Ranked 137)  

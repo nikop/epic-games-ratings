@@ -5,18 +5,18 @@ Rating: 4.18 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~1,909 |
-| The Outer Way | 11.00% | ~1,616 |
-| Desperate Times | 10.00% | ~1,469 |
-| Paper Jams | 9.00% | ~1,322 |
-| Chew 'Em Up | 8.00% | ~1,175 |
-| Reforged | 8.00% | ~1,175 |
-| Workplace Hazard | 7.00% | ~1,028 |
-| If the SHU Fits... | 7.00% | ~1,028 |
-| Giving Back | 6.00% | ~881 |
-| Get a Grip | 6.00% | ~881 |
-| Without A Paddle | 6.00% | ~881 |
-| Terminated | 5.00% | ~734 |
+| Flesh Wound | 13.00% | ~1,910 |
+| The Outer Way | 11.00% | ~1,617 |
+| Desperate Times | 10.00% | ~1,470 |
+| Paper Jams | 9.00% | ~1,323 |
+| Chew 'Em Up | 8.00% | ~1,176 |
+| Reforged | 8.00% | ~1,176 |
+| Workplace Hazard | 7.00% | ~1,029 |
+| If the SHU Fits... | 7.00% | ~1,029 |
+| Giving Back | 6.00% | ~882 |
+| Get a Grip | 6.00% | ~882 |
+| Without A Paddle | 6.00% | ~882 |
+| Terminated | 5.00% | ~735 |
 | Two Heads Are Better Than One | 4.00% | ~588 |
 | Float Like A Butterfly | 4.00% | ~588 |
 | In the Pipe, Five by Five | 4.00% | ~588 |
@@ -28,7 +28,7 @@ Rating: 4.18 (Ranked 840)
 | The Commonality | 3.00% | ~441 |
 | What Lies Beneath | 3.00% | ~441 |
 | Full Circle | 3.00% | ~441 |
-| Bear Trap | 3.00% | ~78 |
+| Bear Trap | 3.00% | ~79 |
 | I Do Belong Here | 2.00% | ~294 |
 | In Striking Distance | 2.00% | ~294 |
 | Mugshot | 2.00% | ~294 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,688 (Ranked 103)  
+Progressed: 14,696 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,16 +93,16 @@ Completed: 54 (0.37%) (Ranked 118)
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
 | 2023-06-06 | 14,637 | 54 |
-| 2023-06-07 | 14,688 | 54 |
+| 2023-06-07 | 14,696 | 54 |
 ## Awards
 Max (Amazing Storytelling): 51  (Ranked 387)  
-Sum: 294 (Ranked 328)  
+Sum: 295 (Ranked 328)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 51 |
 | This game has Amazing Storytelling | 51 |
-| This game has Quickly Understood Controls | 46 |
+| This game has Quickly Understood Controls | 47 |
 | This game has Amazing Characters | 46 |
 | This game is Extremely Fun | 44 |
 | This game has Challenging Combat | 36 |
@@ -168,3 +168,4 @@ Diff (max vs sum): 59
 | 2023-06-02 | 4.18 | 50 | 284 |
 | 2023-06-03 | 4.18 | 50 | 287 |
 | 2023-06-06 | 4.18 | 51 | 294 |
+| 2023-06-07 | 4.18 | 51 | 295 |

@@ -95,13 +95,13 @@ Completed: 24 (0.00%) (Ranked 212)
 | 2023-06-07 | 1,411,559 | 24 |
 ## Awards
 Max (Highly Recommended): 224  (Ranked 250)  
-Sum: 1,318 (Ranked 221)  
+Sum: 1,323 (Ranked 221)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 224 |
 | This game has Diverse Characters | 219 |
-| This game has Challenging Combat | 199 |
+| This game has Challenging Combat | 204 |
 | This game has Amazing Characters | 186 |
 | This game has Competitive Players | 183 |
 | This game is Extremely Fun | 168 |
@@ -164,4 +164,4 @@ Diff (max vs sum): 29
 | 2023-06-04 | 4.41 | 207 | 1,242 |
 | 2023-06-05 | 4.41 | 213 | 1,275 |
 | 2023-06-06 | 4.41 | 221 | 1,291 |
-| 2023-06-07 | 4.41 | 224 | 1,318 |
+| 2023-06-07 | 4.41 | 224 | 1,323 |

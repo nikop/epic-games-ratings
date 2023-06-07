@@ -1,27 +1,27 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.48 (Ranked 579)  
+Rating: 4.49 (Ranked 564)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~664 |
+| Meeting Resistance | 28.00% | ~665 |
 | Confirming Suspicions | 23.00% | ~546 |
 | The Kraken Wakes | 18.00% | ~427 |
 | It's Starting to Crack | 16.00% | ~380 |
 | Lord of War | 14.00% | ~332 |
-| Change the Channel | 13.00% | ~308 |
+| Change the Channel | 13.00% | ~309 |
 | Resourceful | 12.00% | ~285 |
 | Taking it back | 11.00% | ~261 |
+| Organ Grinder | 10.00% | ~237 |
 | Target America | 10.00% | ~237 |
-| Organ Grinder | 9.00% | ~213 |
-| As Quiet as a Mouse | 9.00% | ~213 |
+| As Quiet as a Mouse | 9.00% | ~214 |
 | Liberté | 8.00% | ~190 |
-| Enemy at the Gates | 8.00% | ~190 |
 | Just a Flesh Wound | 8.00% | ~190 |
 | Sharpshooter | 8.00% | ~190 |
 | Explosive Efficiency | 8.00% | ~190 |
 | The Kraken Sleeps | 8.00% | ~190 |
+| Enemy at the Gates | 7.00% | ~166 |
 | Gunslinger | 7.00% | ~166 |
 | Opposing Force | 6.00% | ~142 |
 | Die Nussknacker Sweet! | 6.00% | ~142 |
@@ -46,9 +46,9 @@ Rating: 4.48 (Ranked 579)
 | Herr Today, Gone Tomorrow | 1.00% | ~23 |
 | Operation Foxley | 1.00% | ~23 |
 | Tinkerer | 0.90% | ~21 |
+| Siegebreaker | 0.80% | ~19 |
 | Ghost of Falaise | 0.80% | ~19 |
 | Last Resort | 0.70% | ~16 |
-| Siegebreaker | 0.70% | ~16 |
 | From Paris with Love | 0.60% | ~14 |
 | Burn after reading | 0.60% | ~14 |
 | Souvenir hunter | 0.60% | ~14 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 579)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,372 (Ranked 147)  
+Progressed: 2,374 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-04 | 2,257 | 2 |
 | 2023-06-05 | 2,307 | 2 |
 | 2023-06-06 | 2,341 | 2 |
-| 2023-06-07 | 2,372 | 2 |
+| 2023-06-07 | 2,374 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -168,4 +168,4 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-02 | 4.42 | 0 | 0 |
 | 2023-06-03 | 4.44 | 0 | 0 |
 | 2023-06-05 | 4.45 | 0 | 0 |
-| 2023-06-07 | 4.48 | 0 | 0 |
+| 2023-06-07 | 4.49 | 0 | 0 |

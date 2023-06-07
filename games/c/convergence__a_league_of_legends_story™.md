@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | The Steel Shadow | 3.00% | ~19 |
 | Treasure Trove | 3.00% | ~19 |
+| The Betrayer | 3.00% | ~19 |
 | The Man Who Shattered Time | 3.00% | ~19 |
 | Make Up For Lost Time | 3.00% | ~19 |
 | Cartographer | 3.00% | ~19 |
@@ -16,7 +17,6 @@
 | Street Style | 2.00% | ~12 |
 | Family Memories | 2.00% | ~12 |
 | The Mysterious Stranger | 2.00% | ~12 |
-| The Betrayer | 2.00% | ~12 |
 | Whiz Kid | 2.00% | ~12 |
 | Rail Rat | 2.00% | ~12 |
 | The Loose Cannon | 2.00% | ~12 |
@@ -36,6 +36,7 @@
 | Cultivair Explorer | 1.00% | ~6 |
 | Entresol Explorer | 1.00% | ~6 |
 | Factorywood Explorer | 1.00% | ~6 |
+| Fairgrounds Explorer | 1.00% | ~6 |
 | Time Flies | 1.00% | ~6 |
 | Honest Mistake | 1.00% | ~6 |
 | Theater Explorer | 1.00% | ~6 |
@@ -43,10 +44,9 @@
 | Ask Questions Later | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
 | Corin Goes Home | 0.80% | ~5 |
-| Fairgrounds Explorer | 0.80% | ~5 |
 | Golem Hunter | 0.80% | ~5 |
 | Rungs Was Right | 0.80% | ~5 |
-| Syron for Hope | 0.60% | ~4 |
+| Syron for Hope | 0.80% | ~5 |
 | Hexlock for Protection | 0.30% | ~2 |
 | Fitting In | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 621 (Ranked 193)  
+Progressed: 623 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 602 | 0 |
 | 2023-06-05 | 608 | 0 |
 | 2023-06-06 | 615 | 0 |
-| 2023-06-07 | 621 | 0 |
+| 2023-06-07 | 623 | 0 |

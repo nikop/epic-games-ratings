@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2461,9 +2461,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 357
     },
     {
       "ID": "38",
@@ -2630,8 +2630,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-07T20:06:57.8973436+00:00",
+  "LastChanged_Achievements": "2023-06-07T21:06:07.4557651+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-07T19:57:45.5421279+00:00",
-  "LastUpdate_Achievements": "2023-06-07T20:06:57.8973998+00:00"
+  "LastUpdate_Ratings": "2023-06-07T20:57:36.5885641+00:00",
+  "LastUpdate_Achievements": "2023-06-07T21:06:07.4558076+00:00"
 }

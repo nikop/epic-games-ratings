@@ -34,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.40% | ~360 |
 | The Contagious Curse | 0.40% | ~360 |
 | Maddening | 0.30% | ~270 |
+| Supply Run | 0.30% | ~270 |
 | Keep Your Distance | 0.30% | ~169 |
 | Hands Off! | 0.30% | ~169 |
 | Frail Doesn't Mean Broken | 0.30% | ~169 |
@@ -91,7 +92,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Feywild | 0.20% | ~113 |
 | The Roots of Loomlurch | 0.20% | ~113 |
 | The Lutes of Loomlurch | 0.20% | ~113 |
-| Supply Run | 0.20% | ~180 |
 | Best Laid Plans | 0.20% | ~113 |
 | The Howling Peaks of Yon | 0.20% | ~113 |
 | The Invisible Wizards of Thay | 0.20% | ~113 |
@@ -180,6 +180,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.20% | ~180 |
 | The Darkness Runs Deeper | 0.20% | ~180 |
 | Troublesome Prisoner | 0.20% | ~180 |
+| Dark Doppelgangers | 0.20% | ~180 |
 | Difficult Terrain | 0.20% | ~180 |
 | Madcap Adventures | 0.20% | ~180 |
 | Vault of Dragons | 0.20% | ~180 |
@@ -227,6 +228,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Witty Riposting | 0.20% | ~113 |
 | Waiting on Sunrise | 0.20% | ~113 |
 | Deekin's Mission | 0.20% | ~113 |
+| Frozen Vengeance | 0.20% | ~113 |
 | The Battle of High Hall Tower | 0.20% | ~113 |
 | Ending the Rime - Part 1 | 0.20% | ~113 |
 | The Rite of the Arcane Octad | 0.20% | ~113 |
@@ -377,7 +379,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~90 |
 | The Tallest of Kobolds | 0.10% | ~56 |
 | Patience is Key | 0.10% | ~90 |
-| Dark Doppelgangers | 0.10% | ~90 |
 | Faerûn's Most Wanted | 0.10% | ~56 |
 | Cold & Wet | 0.10% | ~90 |
 | Faerûn's Most Neglected | 0.10% | ~56 |
@@ -466,7 +467,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Chilling Encounter | 0.10% | ~56 |
 | Dive Bomb | 0.10% | ~56 |
 | Fire and Ice | 0.10% | ~56 |
-| Frozen Vengeance | 0.10% | ~56 |
 | Mimic Vengeance | 0.10% | ~56 |
 | REALLY Frozen Vengeance | 0.10% | ~56 |
 | Might Makes Right | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,043 (Ranked 62)  
+Progressed: 90,047 (Ranked 62)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 90,043 | 1,922 |
+| 2023-06-07 | 90,047 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,047 (Ranked 37)  

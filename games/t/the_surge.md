@@ -6,31 +6,31 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,093 |
-| I'll Be Back | 84.00% | ~3,657 |
+| On My Own Two Feet | 94.00% | ~4,094 |
+| I'll Be Back | 84.00% | ~3,658 |
 | Sorry, I Dropped This | 77.00% | ~3,353 |
-| First Day on the Job | 76.00% | ~3,309 |
+| First Day on the Job | 76.00% | ~3,310 |
 | Butcher's Bill | 55.00% | ~2,395 |
 | P.A.X | 37.00% | ~1,611 |
-| Hey Listen | 36.00% | ~1,567 |
+| Hey Listen | 36.00% | ~1,568 |
 | OPERATOR | 35.00% | ~1,524 |
 | It's Blue Light | 33.00% | ~1,437 |
 | Most Wanted | 26.00% | ~1,132 |
-| Infidel | 23.00% | ~1,001 |
-| GOLIATH | 21.00% | ~914 |
+| Infidel | 23.00% | ~1,002 |
+| GOLIATH | 21.00% | ~915 |
 | Firebug | 20.00% | ~871 |
 | I Choose You | 17.00% | ~740 |
 | Nothing to Lose | 17.00% | ~740 |
 | Big Sister | 15.00% | ~653 |
 | SENTINEL | 15.00% | ~653 |
 | Gear Up | 14.00% | ~610 |
-| The Black Cerberus | 12.00% | ~522 |
-| Watchman | 12.00% | ~522 |
-| Core Power | 12.00% | ~522 |
+| The Black Cerberus | 12.00% | ~523 |
+| Watchman | 12.00% | ~523 |
+| Core Power | 12.00% | ~523 |
 | CREO Killed the Video Star | 11.00% | ~479 |
 | Who's in Charge Here? | 11.00% | ~479 |
 | Shall Not Pass | 11.00% | ~479 |
-| Right Tool for the Job | 10.00% | ~435 |
+| Right Tool for the Job | 10.00% | ~436 |
 | Raging Drones | 9.00% | ~392 |
 | Overconfident | 9.00% | ~392 |
 | Pusher Man | 8.00% | ~348 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,354 (Ranked 129)  
+Progressed: 4,355 (Ranked 129)  
 Completed: 13 (0.30%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 13 (0.30%) (Ranked 132)
 | 2023-06-04 | 4,332 | 13 |
 | 2023-06-05 | 4,340 | 13 |
 | 2023-06-06 | 4,348 | 13 |
-| 2023-06-07 | 4,354 | 13 |
+| 2023-06-07 | 4,355 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 462)  
 Sum: 26 (Ranked 470)  

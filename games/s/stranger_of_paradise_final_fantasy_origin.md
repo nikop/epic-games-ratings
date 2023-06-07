@@ -6,46 +6,46 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~76,166 |
-| No Escape | 86.00% | ~67,529 |
-| Seeker of Power | 85.00% | ~66,744 |
-| Hopes and Dreams | 82.00% | ~64,388 |
-| Lantern Smasher | 78.00% | ~61,247 |
-| The Pirate's Way | 73.00% | ~57,321 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~55,751 |
-| The King of the Dark Elves | 68.00% | ~53,395 |
-| Memories of the Distant Past | 66.00% | ~51,825 |
-| Distortion's Progeny | 63.00% | ~49,469 |
-| Savant | 62.00% | ~48,684 |
-| A Landscape of Memory | 58.00% | ~45,543 |
-| The Wind's Light | 54.00% | ~42,402 |
-| Vague Remembrances | 49.00% | ~38,476 |
-| The Fire's Light | 47.00% | ~36,905 |
-| Phantom Memories | 46.00% | ~36,120 |
-| Imbued Memories | 46.00% | ~36,120 |
-| The Earth's Light | 45.00% | ~35,335 |
-| Shared Recollections | 41.00% | ~32,194 |
-| Path of the Sage | 40.00% | ~31,409 |
+| Manifestation of the Soul | 97.00% | ~76,168 |
+| No Escape | 86.00% | ~67,531 |
+| Seeker of Power | 85.00% | ~66,745 |
+| Hopes and Dreams | 82.00% | ~64,390 |
+| Lantern Smasher | 78.00% | ~61,249 |
+| The Pirate's Way | 73.00% | ~57,323 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~55,752 |
+| The King of the Dark Elves | 68.00% | ~53,396 |
+| Memories of the Distant Past | 66.00% | ~51,826 |
+| Distortion's Progeny | 63.00% | ~49,470 |
+| Savant | 62.00% | ~48,685 |
+| A Landscape of Memory | 58.00% | ~45,544 |
+| The Wind's Light | 54.00% | ~42,403 |
+| Vague Remembrances | 49.00% | ~38,477 |
+| The Fire's Light | 47.00% | ~36,906 |
+| Phantom Memories | 46.00% | ~36,121 |
+| Imbued Memories | 46.00% | ~36,121 |
+| The Earth's Light | 45.00% | ~35,336 |
+| Shared Recollections | 41.00% | ~32,195 |
+| Path of the Sage | 40.00% | ~31,410 |
 | The Water's Light | 39.00% | ~30,624 |
-| Malice Takes Root | 37.00% | ~29,053 |
-| Path of the Dark Knight | 37.00% | ~29,053 |
-| Path of the Breaker | 37.00% | ~29,053 |
-| Duty's Course | 36.00% | ~28,268 |
-| Path of the Paladin | 36.00% | ~28,268 |
+| Malice Takes Root | 37.00% | ~29,054 |
+| Path of the Dark Knight | 37.00% | ~29,054 |
+| Path of the Breaker | 37.00% | ~29,054 |
+| Duty's Course | 36.00% | ~28,269 |
+| Path of the Paladin | 36.00% | ~28,269 |
 | Path of the Liberator | 35.00% | ~27,483 |
-| Led by the Nose | 34.00% | ~26,697 |
-| Path of the Void Knight | 34.00% | ~26,697 |
-| Path of the Tyrant | 34.00% | ~26,697 |
-| Path of the Ninja | 33.00% | ~25,912 |
-| Terminus of Fate | 32.00% | ~25,127 |
-| His Name Is Garland | 32.00% | ~25,127 |
+| Led by the Nose | 34.00% | ~26,698 |
+| Path of the Void Knight | 34.00% | ~26,698 |
+| Path of the Tyrant | 34.00% | ~26,698 |
+| Path of the Ninja | 33.00% | ~25,913 |
+| Terminus of Fate | 32.00% | ~25,128 |
+| His Name Is Garland | 32.00% | ~25,128 |
 | Path of the Assassin | 31.00% | ~24,342 |
-| Seeker of Ultimate Power | 23.00% | ~18,060 |
+| Seeker of Ultimate Power | 23.00% | ~18,061 |
 | Artifact Collector | 22.00% | ~17,275 |
 | True Potential | 21.00% | ~16,490 |
 | Polymath | 21.00% | ~16,490 |
-| Origin of True Chaos | 20.00% | ~15,704 |
-| Jack-of-All-Trades | 19.00% | ~14,919 |
+| Origin of True Chaos | 20.00% | ~15,705 |
+| Jack-of-All-Trades | 19.00% | ~14,920 |
 | Master's Awakening | 18.00% | ~14,134 |
 | Cycle of Darkness | 16.00% | ~12,564 |
 | Job Master | 8.00% | ~6,282 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,356 |
 | A Tale of Origins and Endings | 2.00% | ~1,570 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,522 (Ranked 64)  
+Progressed: 78,524 (Ranked 64)  
 Completed: 2,135 (2.72%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 2,135 (2.72%) (Ranked 58)
 | 2023-06-04 | 78,478 | 2,133 |
 | 2023-06-05 | 78,497 | 2,133 |
 | 2023-06-06 | 78,510 | 2,134 |
-| 2023-06-07 | 78,522 | 2,135 |
+| 2023-06-07 | 78,524 | 2,135 |
 ## Awards
 Max (Great Boss Battles): 753  (Ranked 151)  
 Sum: 1,552 (Ranked 206)  

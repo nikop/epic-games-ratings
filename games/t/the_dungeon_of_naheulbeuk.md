@@ -6,42 +6,42 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Where's that freaking Dwarf? | 100.00% | ~35 |
-| Alt+F4 | 100.00% | ~35 |
-| Sock! SOCK! | 89.00% | ~31 |
-| Fireproof Wizardess | 74.00% | ~26 |
-| DM intervention | 69.00% | ~24 |
-| Livin' in a dwarven paradise | 66.00% | ~23 |
-| Déjà vu | 63.00% | ~22 |
-| GG EZ | 60.00% | ~21 |
-| Speedrun | 57.00% | ~20 |
-| Thieves' Guild Accreditation | 54.00% | ~19 |
-| Way of the Wimp | 51.00% | ~18 |
-| A beer, two curses, three companions | 51.00% | ~18 |
-| Oh, when I'll be level 10... | 51.00% | ~18 |
-| The Ranger of Chaos | 49.00% | ~17 |
-| I am the night | 49.00% | ~17 |
-| The plot thickens... At the tavern | 46.00% | ~16 |
-| Dwarf Fortress | 43.00% | ~15 |
-| Look but don't touch | 43.00% | ~15 |
-| Shiny and Crôm | 40.00% | ~14 |
-| Gargantua | 40.00% | ~14 |
-| Team Building Exercise | 40.00% | ~14 |
-| Material Girl | 40.00% | ~14 |
-| The demons' feast | 37.00% | ~13 |
-| The Statuette of Gladeulfeurah | 34.00% | ~12 |
-| A tale of adventurers not quite like the others... | 34.00% | ~12 |
+| Where's that freaking Dwarf? | 100.00% | ~36 |
+| Alt+F4 | 100.00% | ~36 |
+| Sock! SOCK! | 86.00% | ~31 |
+| Fireproof Wizardess | 72.00% | ~26 |
+| DM intervention | 67.00% | ~24 |
+| Livin' in a dwarven paradise | 64.00% | ~23 |
+| Déjà vu | 64.00% | ~23 |
+| GG EZ | 58.00% | ~21 |
+| Speedrun | 56.00% | ~20 |
+| Way of the Wimp | 53.00% | ~19 |
+| Thieves' Guild Accreditation | 53.00% | ~19 |
+| Oh, when I'll be level 10... | 53.00% | ~19 |
+| A beer, two curses, three companions | 50.00% | ~18 |
+| The Ranger of Chaos | 47.00% | ~17 |
+| I am the night | 47.00% | ~17 |
+| The plot thickens... At the tavern | 44.00% | ~16 |
+| Dwarf Fortress | 42.00% | ~15 |
+| Look but don't touch | 42.00% | ~15 |
+| Shiny and Crôm | 39.00% | ~14 |
+| Gargantua | 39.00% | ~14 |
+| Team Building Exercise | 39.00% | ~14 |
+| Material Girl | 39.00% | ~14 |
+| The demons' feast | 36.00% | ~13 |
+| The Statuette of Gladeulfeurah | 33.00% | ~12 |
+| A tale of adventurers not quite like the others... | 33.00% | ~12 |
 | Torture and Sensibility | 31.00% | ~11 |
-| Cursed die | 29.00% | ~10 |
-| The Great Library | 29.00% | ~10 |
-| The Woman in the High Castle | 29.00% | ~10 |
-| The Famous Dungeon of Naheulbeuk | 29.00% | ~10 |
-| The Blood Countess | 26.00% | ~9 |
-| Law and Order | 26.00% | ~9 |
-| Urik's Depths | 20.00% | ~7 |
-| He’s alive! Aliiiive! | 20.00% | ~7 |
-| The beards of change | 20.00% | ~7 |
-| In Navalu's footsteps | 20.00% | ~7 |
+| Cursed die | 28.00% | ~10 |
+| The Great Library | 28.00% | ~10 |
+| The Woman in the High Castle | 28.00% | ~10 |
+| The Blood Countess | 28.00% | ~10 |
+| The Famous Dungeon of Naheulbeuk | 28.00% | ~10 |
+| Law and Order | 25.00% | ~9 |
+| Urik's Depths | 19.00% | ~7 |
+| He’s alive! Aliiiive! | 19.00% | ~7 |
+| The beards of change | 19.00% | ~7 |
+| In Navalu's footsteps | 19.00% | ~7 |
 | Scholar of the Lands of Fangh | 17.00% | ~6 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 17.00% | ~6 |
 | Dead for good | 17.00% | ~6 |
@@ -53,13 +53,13 @@ Number of Ratings: 118  (23.09.2022)
 | Necrophilia | 11.00% | ~4 |
 | Egghead | 11.00% | ~4 |
 | It's been a hard day's night | 11.00% | ~4 |
-| Holistic Adventuring Party | 9.00% | ~3 |
-| I'd rather... Just... Sing! | 9.00% | ~3 |
-| Elite Adventurers | 9.00% | ~3 |
-| Hit snooze | 9.00% | ~3 |
-| We come in peace | 9.00% | ~3 |
-| Super-Ultra-Lydian | 9.00% | ~3 |
-| Lust and Debauchery | 9.00% | ~3 |
+| Holistic Adventuring Party | 8.00% | ~3 |
+| I'd rather... Just... Sing! | 8.00% | ~3 |
+| Elite Adventurers | 8.00% | ~3 |
+| Hit snooze | 8.00% | ~3 |
+| We come in peace | 8.00% | ~3 |
+| Super-Ultra-Lydian | 8.00% | ~3 |
+| Lust and Debauchery | 8.00% | ~3 |
 | Deep changes | 6.00% | ~2 |
 | A broken clock… | 6.00% | ~2 |
 | Living legends of the Lands of Fangh | 6.00% | ~2 |
@@ -95,14 +95,14 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 321)  
+Progressed: 36 (Ranked 319)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-06-05 | 16 | 0 |
 | 2023-06-06 | 26 | 0 |
-| 2023-06-07 | 35 | 0 |
+| 2023-06-07 | 36 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 378)  
 Sum: 61 (Ranked 431)  

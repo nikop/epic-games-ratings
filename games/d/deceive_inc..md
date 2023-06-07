@@ -19,13 +19,13 @@ Rating: 4.65 (Ranked 296)
 | Smells Like Trouble | 26.00% | ~1,727 |
 | Assistant Accountant | 25.00% | ~1,660 |
 | Private Collection | 25.00% | ~1,660 |
+| Killer Looks | 25.00% | ~1,660 |
 | Hostile Takeover | 25.00% | ~1,660 |
+| Dr. No Kill | 24.00% | ~1,594 |
 | The Living Portrait | 24.00% | ~1,594 |
 | My Motto, My Creed | 24.00% | ~1,594 |
-| Killer Looks | 24.00% | ~1,594 |
 | Keycards Royale | 23.00% | ~1,527 |
 | In It to Win It | 23.00% | ~1,527 |
-| Dr. No Kill | 23.00% | ~1,527 |
 | Security Supervisor | 10.00% | ~664 |
 | License to Thrill | 8.00% | ~531 |
 | Social of Solace | 8.00% | ~531 |

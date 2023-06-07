@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -436,9 +436,9 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_ACT3",
@@ -597,8 +597,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-07T20:06:58.6173074+00:00",
+  "LastChanged_Achievements": "2023-06-07T21:06:07.9985692+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.4593213+00:00",
-  "LastUpdate_Ratings": "2023-06-07T19:57:47.4708267+00:00",
-  "LastUpdate_Achievements": "2023-06-07T20:06:58.617331+00:00"
+  "LastUpdate_Ratings": "2023-06-07T20:57:38.3086866+00:00",
+  "LastUpdate_Achievements": "2023-06-07T21:06:07.9985842+00:00"
 }

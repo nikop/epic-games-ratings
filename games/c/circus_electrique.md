@@ -11,7 +11,7 @@ Number of Ratings: 22  (23.09.2022)
 | Circus Electrique Proudly Presents... | 38.00% | ~163 |
 | Path of Learning | 37.00% | ~159 |
 | Built in a Day | 31.00% | ~133 |
-| More Brain Than Brawn | 26.00% | ~112 |
+| More Brain Than Brawn | 27.00% | ~116 |
 | Perfect Illusion | 20.00% | ~86 |
 | Hundred Percent First | 20.00% | ~86 |
 | Dirty Dozen | 17.00% | ~73 |

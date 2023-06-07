@@ -387,9 +387,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "631ndc2",
       "Name": "More Brain Than Brawn",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-07T20:07:23.2533677+00:00",
+  "LastChanged_Achievements": "2023-06-07T21:06:29.975181+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:13.7097187+00:00",
-  "LastUpdate_Ratings": "2023-06-07T19:59:34.4337865+00:00",
-  "LastUpdate_Achievements": "2023-06-07T20:07:23.2534305+00:00"
+  "LastUpdate_Ratings": "2023-06-07T20:59:08.6591325+00:00",
+  "LastUpdate_Achievements": "2023-06-07T21:06:29.9752159+00:00"
 }

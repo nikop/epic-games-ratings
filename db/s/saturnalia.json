@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64016,
+  "EOS_Progressed": 64017,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3425,6 +3425,11 @@
       "Time": "2023-06-07T20:03:28.7433627+00:00",
       "NumProgressed": 64016,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-07T21:03:14.492222+00:00",
+      "NumProgressed": 64017,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 20,
@@ -3444,7 +3449,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -3588,14 +3593,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64016,
+      "Progressed": 64017,
       "Completed": 12
     }
   ],
@@ -3603,8 +3608,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-06-07T20:03:28.743362+00:00",
+  "LastChanged_Achievements": "2023-06-07T21:03:14.4922216+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:36.3754259+00:00",
-  "LastUpdate_Ratings": "2023-06-07T19:57:50.0214939+00:00",
-  "LastUpdate_Achievements": "2023-06-07T20:03:28.7434035+00:00"
+  "LastUpdate_Ratings": "2023-06-07T20:57:40.3865276+00:00",
+  "LastUpdate_Achievements": "2023-06-07T21:03:14.4922472+00:00"
 }

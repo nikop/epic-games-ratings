@@ -2,12 +2,12 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 728,
+  "Ranking_Rating": 735,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.35,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-05-29T20:58:20.2954549+00:00",
@@ -58,15 +58,21 @@
       "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-07T20:58:30.3152038+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1048,
+  "EOS_Progressed": 1050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1404,6 +1410,11 @@
       "Time": "2023-06-07T20:03:37.6584136+00:00",
       "NumProgressed": 1048,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T21:03:22.12363+00:00",
+      "NumProgressed": 1050,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1413,9 +1424,9 @@
       "ID": "ALPHA_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Alpha Editor",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ARE_YOU_NOT_ENTERTAINED",
@@ -1429,9 +1440,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 756
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1463,7 +1474,7 @@
       "Name": "Chain Killer",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1471,7 +1482,7 @@
       "Name": "Chain Reaction",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "CHAOS_THEORY",
@@ -1495,7 +1506,7 @@
       "Name": "Croaked",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "CRUELTY",
@@ -1511,7 +1522,7 @@
       "Name": "Curveball",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "DEAD_DD",
@@ -1527,7 +1538,7 @@
       "Name": "Limp Richard",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1559,7 +1570,7 @@
       "Name": "Editor Adept",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ENDGAME",
@@ -1599,7 +1610,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 966
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1623,7 +1634,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "GIANT_KILLER",
@@ -1647,7 +1658,7 @@
       "Name": "Gun for Hire",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 702
+      "UsersEstimate": 704
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1663,7 +1674,7 @@
       "Name": "I am the law!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 620
     },
     {
       "ID": "INFILTRATOR",
@@ -1703,15 +1714,15 @@
       "Name": "Pushing Daisy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "QA_HAS_SUFFERED",
       "SetID": "9a4jnji",
       "Name": "QA Has Suffered! (Redux)",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "RANIDAPHOBIA",
@@ -1719,7 +1730,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 788
     },
     {
       "ID": "RECYCLER",
@@ -1735,15 +1746,15 @@
       "Name": "Ruthless",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "SAVIOR",
       "SetID": "9a4jnji",
       "Name": "Savior",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 136
+      "UsersEstimate": 147
     },
     {
       "ID": "SENSEI",
@@ -1751,7 +1762,7 @@
       "Name": "Sensei",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1783,7 +1794,7 @@
       "Name": "Technophobe",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1799,7 +1810,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "THE_WATCHERS",
@@ -1822,16 +1833,16 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1048,
+      "Progressed": 1050,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged": "2023-06-05T14:59:24.8934848+00:00",
-  "LastChanged_Achievements": "2023-06-07T20:03:37.6584126+00:00",
+  "LastChanged": "2023-06-07T20:58:30.3152036+00:00",
+  "LastChanged_Achievements": "2023-06-07T21:03:22.1236294+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-07T19:58:49.8108811+00:00",
-  "LastUpdate_Achievements": "2023-06-07T20:03:37.6584728+00:00"
+  "LastUpdate_Ratings": "2023-06-07T20:58:30.3152041+00:00",
+  "LastUpdate_Achievements": "2023-06-07T21:03:22.1236852+00:00"
 }

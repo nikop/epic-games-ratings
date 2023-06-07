@@ -7,14 +7,14 @@
 | Too Cool For School | 85.00% | ~122 |
 | Caretaker | 83.00% | ~120 |
 | Feng Shui | 72.00% | ~104 |
-| Who's A Good Boy | 67.00% | ~96 |
-| Power Up | 67.00% | ~96 |
-| Thick Skin | 66.00% | ~95 |
+| Who's A Good Boy | 68.00% | ~98 |
+| Power Up | 68.00% | ~98 |
+| Thick Skin | 67.00% | ~96 |
 | Math Wizard | 63.00% | ~91 |
-| Destroy Erase Improve | 62.00% | ~89 |
-| Power Overload | 60.00% | ~86 |
+| Destroy Erase Improve | 63.00% | ~91 |
+| Power Overload | 61.00% | ~88 |
 | Quite A Snack | 55.00% | ~79 |
-| Overwhelming Power | 52.00% | ~75 |
+| Overwhelming Power | 53.00% | ~76 |
 | Impenetrable Skin | 50.00% | ~72 |
 | Chomp Chomp! | 40.00% | ~58 |
 | Glorious Battle | 39.00% | ~56 |

@@ -2,7 +2,7 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 647,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 127,
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4938,
+  "EOS_Progressed": 4939,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -1379,6 +1379,11 @@
       "Time": "2023-06-07T20:07:25.8943955+00:00",
       "NumProgressed": 4938,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T21:06:32.3932173+00:00",
+      "NumProgressed": 4939,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1446,7 +1451,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "ach_campaign_progress10",
@@ -1502,7 +1507,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1510,7 +1515,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ach_campaign_progress7",
@@ -1997,15 +2002,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4938,
+      "Progressed": 4939,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-07T20:07:25.8943943+00:00",
+  "LastChanged_Achievements": "2023-06-07T21:06:32.3932168+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-07T19:59:37.5029247+00:00",
-  "LastUpdate_Achievements": "2023-06-07T20:07:25.89448+00:00"
+  "LastUpdate_Ratings": "2023-06-07T20:59:11.1829552+00:00",
+  "LastUpdate_Achievements": "2023-06-07T21:06:32.39329+00:00"
 }

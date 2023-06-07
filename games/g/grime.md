@@ -12,27 +12,27 @@ Number of Ratings: 46  (23.09.2022)
 | Ravenous | 21.00% | ~121 |
 | Weeper | 19.00% | ~109 |
 | Devourer | 14.00% | ~81 |
+| Silenced Whispers | 13.00% | ~75 |
 | Harmless | 12.00% | ~69 |
-| Silenced Whispers | 12.00% | ~69 |
 | Yank | 12.00% | ~69 |
 | Scion | 11.00% | ~17 |
 | Glare | 11.00% | ~17 |
 | Sharpened Vessel | 11.00% | ~63 |
 | Jawcrab | 10.00% | ~58 |
 | Feast | 10.00% | ~58 |
+| Shapely | 9.00% | ~52 |
 | Host | 9.00% | ~14 |
 | Jawstag | 9.00% | ~52 |
-| Shapely | 8.00% | ~46 |
 | Celebration | 7.00% | ~40 |
 | Inevitable | 7.00% | ~40 |
 | Watcher | 7.00% | ~40 |
 | Predator | 7.00% | ~40 |
 | Dream | 7.00% | ~11 |
-| Assimilation | 6.00% | ~34 |
-| Artisan | 6.00% | ~34 |
-| Hunt Down | 5.00% | ~29 |
+| Assimilation | 6.00% | ~35 |
+| Hunt Down | 6.00% | ~35 |
+| Artisan | 6.00% | ~35 |
+| All-Seeing | 6.00% | ~35 |
 | Hush | 5.00% | ~29 |
-| All-Seeing | 5.00% | ~29 |
 | Passage | 5.00% | ~29 |
 | Kin | 5.00% | ~8 |
 | Kinship | 4.00% | ~23 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.90% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 575 (Ranked 197)  
+Progressed: 576 (Ranked 197)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 570 | 0 |
 | 2023-06-04 | 572 | 0 |
 | 2023-06-06 | 574 | 0 |
-| 2023-06-07 | 575 | 0 |
+| 2023-06-07 | 576 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
