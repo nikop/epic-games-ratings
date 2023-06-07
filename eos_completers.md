@@ -32,7 +32,7 @@
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.32% |
-| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
+| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.17% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
@@ -40,20 +40,20 @@
 | 38 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.82% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.81% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
-| 41 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.64% |
-| 42 | [The Complex](games/t/the_complex.md) | 3.34% |
-| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
-| 44 | [ZZT!](games/z/zzt!.md) | 3.22% |
-| 45 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
-| 46 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.17% |
-| 47 | [The Bunker](games/t/the_bunker.md) | 3.09% |
-| 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
-| 49 | [HordeCore](games/h/hordecore.md) | 2.99% |
-| 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
-| 51 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
-| 52 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.82% |
-| 53 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
-| 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 2.80% |
+| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.67% |
+| 42 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.64% |
+| 43 | [The Complex](games/t/the_complex.md) | 3.34% |
+| 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
+| 45 | [ZZT!](games/z/zzt!.md) | 3.22% |
+| 46 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
+| 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.17% |
+| 48 | [The Bunker](games/t/the_bunker.md) | 3.09% |
+| 49 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
+| 50 | [HordeCore](games/h/hordecore.md) | 2.99% |
+| 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
+| 52 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
+| 53 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.82% |
+| 54 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
 | 55 | [Lamentum](games/l/lamentum.md) | 2.79% |
 | 56 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.75% |
 | 57 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.74% |
