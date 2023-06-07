@@ -25,7 +25,7 @@
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
 | 25 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 7.41% |
-| 26 | [Scorn](games/s/scorn.md) | 6.87% |
+| 26 | [Scorn](games/s/scorn.md) | 6.86% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.74% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.70% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
