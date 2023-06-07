@@ -362,9 +362,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9763,
+  "EOS_Progressed": 9765,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3872,6 +3872,11 @@
       "Time": "2023-06-07T03:20:39.2783+00:00",
       "NumProgressed": 9763,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-07T04:06:21.4645943+00:00",
+      "NumProgressed": 9765,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -3883,7 +3888,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7810
+      "UsersEstimate": 7812
     },
     {
       "ID": "ACH02",
@@ -3939,7 +3944,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4686
+      "UsersEstimate": 4687
     },
     {
       "ID": "ACH09",
@@ -3963,7 +3968,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ACH12",
@@ -3977,9 +3982,9 @@
       "ID": "ACH13",
       "SetID": "4ck5mbe",
       "Name": "School\u0027s Out",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1562
     },
     {
       "ID": "ACH14",
@@ -4003,7 +4008,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "ACH17",
@@ -4059,7 +4064,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "ACH24",
@@ -4121,9 +4126,9 @@
       "ID": "ACH31",
       "SetID": "4ck5mbe",
       "Name": "Chick Magnet",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH32",
@@ -4162,7 +4167,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 9763,
+      "Progressed": 9765,
       "Completed": 17
     }
   ],
@@ -4170,8 +4175,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-04T17:01:19.8705594+00:00",
-  "LastChanged_Achievements": "2023-06-07T03:20:39.2782992+00:00",
+  "LastChanged_Achievements": "2023-06-07T04:06:21.464593+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.816384+00:00",
-  "LastUpdate_Ratings": "2023-06-07T03:14:46.4742501+00:00",
-  "LastUpdate_Achievements": "2023-06-07T03:20:39.2783446+00:00"
+  "LastUpdate_Ratings": "2023-06-07T04:00:26.4531413+00:00",
+  "LastUpdate_Achievements": "2023-06-07T04:06:21.4646465+00:00"
 }

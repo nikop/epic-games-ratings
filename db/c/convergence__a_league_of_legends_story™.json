@@ -1095,9 +1095,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "CultivairChests1",
@@ -1295,9 +1295,9 @@
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "PidgeDefeated",
@@ -1343,9 +1343,9 @@
       "ID": "SkillCompletion1",
       "SetID": "a9e499d",
       "Name": "Rungs Was Right",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SkillProgress1",
@@ -1454,8 +1454,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-07T03:19:43.1511922+00:00",
+  "LastChanged_Achievements": "2023-06-07T04:05:25.1736752+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-07T03:13:50.2243605+00:00",
-  "LastUpdate_Achievements": "2023-06-07T03:19:43.1512436+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:59:32.415918+00:00",
+  "LastUpdate_Achievements": "2023-06-07T04:05:25.1737294+00:00"
 }

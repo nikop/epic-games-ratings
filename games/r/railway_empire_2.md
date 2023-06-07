@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~704 |
 | A new Journey | 71.00% | ~684 |
+| From X to Y | 70.00% | ~675 |
 | Departure | 70.00% | ~675 |
-| From X to Y | 69.00% | ~665 |
 | Way of Iron | 68.00% | ~656 |
-| Mystery Tour | 65.00% | ~627 |
+| Mystery Tour | 66.00% | ~636 |
 | Brainstorm | 64.00% | ~617 |
 | We brake for nobody | 64.00% | ~617 |
 | Mind the Gap | 62.00% | ~598 |
@@ -32,8 +32,8 @@
 | Socializer | 23.00% | ~222 |
 | Seven at one stroke | 21.00% | ~202 |
 | General Manager | 20.00% | ~193 |
+| Country Life | 20.00% | ~193 |
 | Hostile Takeover | 20.00% | ~193 |
-| Country Life | 19.00% | ~183 |
 | Trailblazer | 18.00% | ~174 |
 | Traffic Jam | 14.00% | ~135 |
 | Breaking Ground | 14.00% | ~135 |

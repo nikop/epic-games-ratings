@@ -285,9 +285,9 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -516,8 +516,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-07T03:17:07.9729161+00:00",
+  "LastChanged_Achievements": "2023-06-07T04:02:30.6029736+00:00",
   "LastUpdate_AppInfo": "2023-06-01T03:24:11.2191819+00:00",
-  "LastUpdate_Ratings": "2023-06-07T03:11:11.3326346+00:00",
-  "LastUpdate_Achievements": "2023-06-07T03:17:07.972963+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:56:53.7802656+00:00",
+  "LastUpdate_Achievements": "2023-06-07T04:02:30.6030158+00:00"
 }

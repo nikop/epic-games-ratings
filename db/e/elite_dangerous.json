@@ -4424,10 +4424,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 12306,
       "NumberOfAwardsMax": 2143
+    },
+    {
+      "Time": "2023-06-07T03:57:28.4463283+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 12309,
+      "NumberOfAwardsMax": 2143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12306,
+  "NumberOfAwards": 12309,
   "NumberOfAwardsMax": 2143,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4453,7 +4459,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2062
+      "Count": 2065
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4485,8 +4491,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-06-07T02:19:35.1329382+00:00",
+  "LastChanged": "2023-06-07T03:57:28.4463281+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:35.7538643+00:00",
-  "LastUpdate_Ratings": "2023-06-07T03:11:46.5018026+00:00",
-  "LastUpdate_Achievements": "2023-06-07T03:19:04.6636267+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:57:28.4463288+00:00",
+  "LastUpdate_Achievements": "2023-06-07T04:04:46.7590041+00:00"
 }

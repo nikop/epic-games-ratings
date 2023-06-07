@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244316,
+  "EOS_Progressed": 244317,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4459,6 +4459,11 @@
       "Time": "2023-06-07T02:27:36.0607094+00:00",
       "NumProgressed": 244316,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-07T04:06:09.774865+00:00",
+      "NumProgressed": 244317,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -4542,7 +4547,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36647
+      "UsersEstimate": 36648
     },
     {
       "ID": "clearCut",
@@ -4622,7 +4627,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7329
+      "UsersEstimate": 7330
     },
     {
       "ID": "hereWeGo",
@@ -4646,7 +4651,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129487
+      "UsersEstimate": 129488
     },
     {
       "ID": "indegestible",
@@ -4758,7 +4763,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7329
+      "UsersEstimate": 7330
     },
     {
       "ID": "talentScout",
@@ -4774,7 +4779,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51306
+      "UsersEstimate": 51307
     },
     {
       "ID": "thunderstruck",
@@ -4837,7 +4842,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 244316,
+      "Progressed": 244317,
       "Completed": 2
     }
   ],
@@ -4845,8 +4850,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-07T03:20:27.5515025+00:00",
+  "LastChanged_Achievements": "2023-06-07T04:06:09.7748637+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:32.0631758+00:00",
-  "LastUpdate_Ratings": "2023-06-07T03:13:35.2493184+00:00",
-  "LastUpdate_Achievements": "2023-06-07T03:20:27.5515841+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:59:16.8072345+00:00",
+  "LastUpdate_Achievements": "2023-06-07T04:06:09.7749353+00:00"
 }

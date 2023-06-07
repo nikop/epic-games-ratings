@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 968,
+  "EOS_Progressed": 969,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.82,
   "EosHistory": [
@@ -1066,6 +1066,11 @@
       "Time": "2023-06-07T02:27:24.066808+00:00",
       "NumProgressed": 968,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-07T04:05:55.5995479+00:00",
+      "NumProgressed": 969,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 16,
@@ -1085,7 +1090,7 @@
       "Name": "Deep Listener",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -1117,15 +1122,15 @@
       "Name": "Graffiti Artist",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 281
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -1133,7 +1138,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1141,7 +1146,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1179,9 +1184,9 @@
       "ID": "ACH_STRANGERENCOUNTERER",
       "SetID": "7pam6gn",
       "Name": "Stranger Encounterer",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 368
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_THEEND",
@@ -1189,7 +1194,7 @@
       "Name": "The End",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -1204,7 +1209,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 968,
+      "Progressed": 969,
       "Completed": 37
     }
   ],
@@ -1212,8 +1217,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-07T03:20:13.5432483+00:00",
+  "LastChanged_Achievements": "2023-06-07T04:05:55.599547+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:52.9746475+00:00",
-  "LastUpdate_Ratings": "2023-06-07T03:13:01.6072099+00:00",
-  "LastUpdate_Achievements": "2023-06-07T03:20:13.5432682+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:58:43.6644468+00:00",
+  "LastUpdate_Achievements": "2023-06-07T04:05:55.5995684+00:00"
 }

@@ -7,6 +7,7 @@
 | The Steel Shadow | 2.00% | ~12 |
 | Treasure Trove | 2.00% | ~12 |
 | Like Clockwork | 2.00% | ~12 |
+| Street Style | 2.00% | ~12 |
 | The Betrayer | 2.00% | ~12 |
 | The Man Who Shattered Time | 2.00% | ~12 |
 | The Loose Cannon | 2.00% | ~12 |
@@ -14,6 +15,7 @@
 | Cartographer | 2.00% | ~12 |
 | No, Thanks! | 2.00% | ~12 |
 | Breaking Down Barriers | 2.00% | ~12 |
+| The Wicked Twins | 2.00% | ~12 |
 | The Prince in Heels | 2.00% | ~12 |
 | Time Heals All Wounds | 2.00% | ~12 |
 | Golem Chaser | 2.00% | ~12 |
@@ -23,7 +25,6 @@
 | Immaculate Aim | 2.00% | ~12 |
 | Chaincrawler Explorer | 1.00% | ~6 |
 | Right On Time | 1.00% | ~6 |
-| Street Style | 1.00% | ~6 |
 | Family Memories | 1.00% | ~6 |
 | Factorywood Explorer | 1.00% | ~6 |
 | The Mysterious Stranger | 1.00% | ~6 |
@@ -31,7 +32,6 @@
 | Rail Rat | 1.00% | ~6 |
 | Time Flies | 1.00% | ~6 |
 | The Harder They Fall | 1.00% | ~6 |
-| The Wicked Twins | 1.00% | ~6 |
 | Theater Explorer | 1.00% | ~6 |
 | Immaculate Aim | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
@@ -42,11 +42,11 @@
 | Sartorialist | 0.60% | ~4 |
 | Cultivair Explorer | 0.60% | ~4 |
 | Golem Hunter | 0.60% | ~4 |
+| Rungs Was Right | 0.60% | ~4 |
 | Syron for Hope | 0.60% | ~4 |
 | Corin Goes Home | 0.50% | ~3 |
 | Entresol Explorer | 0.50% | ~3 |
 | Fairgrounds Explorer | 0.50% | ~3 |
-| Rungs Was Right | 0.50% | ~3 |
 | Hexlock for Protection | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |

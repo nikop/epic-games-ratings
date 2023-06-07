@@ -33,8 +33,8 @@ Rating: 4.35 (Ranked 726)
 | Experienced | 16.00% | ~167 |
 | Newtonian Knockout | 14.00% | ~146 |
 | Endgame | 13.00% | ~135 |
+| Savior | 13.00% | ~135 |
 | The Watchers | 13.00% | ~135 |
-| Savior | 12.00% | ~125 |
 | Ruthless | 11.00% | ~115 |
 | Dr Jones | 9.00% | ~94 |
 | Chaos Theory | 8.00% | ~83 |

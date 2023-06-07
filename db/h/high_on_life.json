@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22802,
+  "EOS_Progressed": 22803,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1258,6 +1258,11 @@
       "Time": "2023-06-06T21:04:37.6398334+00:00",
       "NumProgressed": 22802,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-07T04:04:37.8419856+00:00",
+      "NumProgressed": 22803,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1325,7 +1330,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5700
+      "UsersEstimate": 5701
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -1341,7 +1346,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -1349,7 +1354,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5472
+      "UsersEstimate": 5473
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -1357,7 +1362,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5472
+      "UsersEstimate": 5473
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -1389,7 +1394,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12997
+      "UsersEstimate": 12998
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1397,7 +1402,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13453
+      "UsersEstimate": 13454
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -1405,7 +1410,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5700
+      "UsersEstimate": 5701
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -1413,7 +1418,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4104
+      "UsersEstimate": 4105
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -1421,7 +1426,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5016
+      "UsersEstimate": 5017
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -1437,7 +1442,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4332
+      "UsersEstimate": 4333
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -1445,7 +1450,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -1453,7 +1458,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16645
+      "UsersEstimate": 16646
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1493,7 +1498,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -1517,29 +1522,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5016
+      "UsersEstimate": 5017
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22802,
+      "Progressed": 22803,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 95,
-      "Completed": 95
+      "Progressed": 96,
+      "Completed": 96
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-06-07T03:18:55.5112687+00:00",
+  "LastChanged_Achievements": "2023-06-07T04:04:37.8419852+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:10.2395765+00:00",
-  "LastUpdate_Ratings": "2023-06-07T03:12:19.0300202+00:00",
-  "LastUpdate_Achievements": "2023-06-07T03:18:55.5112971+00:00"
+  "LastUpdate_Ratings": "2023-06-07T03:58:02.0354843+00:00",
+  "LastUpdate_Achievements": "2023-06-07T04:04:37.8420184+00:00"
 }
