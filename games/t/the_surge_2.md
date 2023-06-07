@@ -44,16 +44,16 @@ Rating: 4.24 (Ranked 800)
 | Following In Their Footsteps | 7.00% | ~120 |
 | Remote Surgery | 6.00% | ~103 |
 | Turbo Booster | 6.00% | ~103 |
+| Juiced Up | 6.00% | ~103 |
 | Squid Pro Quo | 6.00% | ~103 |
 | Reborn | 5.00% | ~86 |
 | Shrimp Cocktail | 5.00% | ~86 |
-| Juiced Up | 5.00% | ~86 |
 | Hello Darkness My Old Friend | 4.00% | ~69 |
 | Counter-Sniper | 4.00% | ~69 |
 | Geronimo! | 4.00% | ~69 |
+| Homewrecker | 4.00% | ~69 |
 | Plank of Wood | 4.00% | ~69 |
 | Gotta Craft 'em All | 3.00% | ~52 |
-| Homewrecker | 3.00% | ~52 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~34 |
 | Box Office Smash | 2.00% | ~34 |
 | Going Postal | 2.00% | ~34 |

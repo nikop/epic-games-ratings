@@ -2658,18 +2658,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6711,
       "NumberOfAwardsMax": 1655
+    },
+    {
+      "Time": "2023-06-07T17:02:54.7159898+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6712,
+      "NumberOfAwardsMax": 1656
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6711,
-  "NumberOfAwardsMax": 1655,
+  "NumberOfAwards": 6712,
+  "NumberOfAwardsMax": 1656,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1655
+      "Count": 1656
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2732,9 +2738,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9608,
+  "EOS_Progressed": 9611,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5807,6 +5813,11 @@
       "Time": "2023-06-07T16:06:57.0459145+00:00",
       "NumProgressed": 9608,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T17:10:51.9053706+00:00",
+      "NumProgressed": 9611,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5818,7 +5829,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "02_BurningCity",
@@ -5842,7 +5853,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -6745,21 +6756,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8390,
+      "Progressed": 8393,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9608,
+      "Progressed": 9611,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-07T09:58:20.3950993+00:00",
-  "LastChanged_Achievements": "2023-06-07T16:06:57.045914+00:00",
+  "LastChanged": "2023-06-07T17:02:54.7159896+00:00",
+  "LastChanged_Achievements": "2023-06-07T17:10:51.9053701+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-07T15:58:41.4860257+00:00",
-  "LastUpdate_Achievements": "2023-06-07T16:06:57.0461079+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:02:54.7159906+00:00",
+  "LastUpdate_Achievements": "2023-06-07T17:10:51.9055396+00:00"
 }

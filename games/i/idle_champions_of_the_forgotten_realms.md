@@ -55,6 +55,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.30% | ~270 |
 | Underdeep Cartography | 0.30% | ~270 |
 | Overdue Rendezvous | 0.30% | ~270 |
+| How Far Away is Thay | 0.30% | ~169 |
 | The Templar's Camp | 0.30% | ~270 |
 | Rescue in the Jungle | 0.30% | ~270 |
 | Pros and CONs | 0.20% | ~180 |
@@ -66,6 +67,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Familiar Behind Us | 0.20% | ~113 |
 | Thieves of the Coven | 0.20% | ~113 |
 | Sticky Fingers | 0.20% | ~113 |
+| Patron Party | 0.20% | ~113 |
 | Go Fourth | 0.20% | ~113 |
 | Hither of the Feywild | 0.20% | ~113 |
 | Don't Breathe the Marsh Gas | 0.20% | ~113 |
@@ -73,6 +75,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Uncommon Allies | 0.20% | ~113 |
 | Where the Magic Happens | 0.20% | ~113 |
 | Downfall | 0.20% | ~113 |
+| First Third Out | 0.20% | ~113 |
 | Second Third Out | 0.20% | ~113 |
 | Third Third Out | 0.20% | ~113 |
 | The Silken Swamp | 0.20% | ~180 |
@@ -219,7 +222,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Idyllglen | 0.20% | ~113 |
 | Witty Riposting | 0.20% | ~113 |
 | Waiting on Sunrise | 0.20% | ~113 |
-| How Far Away is Thay | 0.20% | ~113 |
 | Deekin's Mission | 0.20% | ~113 |
 | The Battle of High Hall Tower | 0.20% | ~113 |
 | Ending the Rime - Part 1 | 0.20% | ~113 |
@@ -237,7 +239,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Unexpected Geist | 0.10% | ~56 |
 | Back to Nature | 0.10% | ~56 |
 | A Dragon Against Us | 0.10% | ~56 |
-| Patron Party | 0.10% | ~56 |
 | Don't Blast the Brigands | 0.10% | ~56 |
 | Don't Squeeze the Spiders | 0.10% | ~56 |
 | The Spire of Iriolarthas | 0.10% | ~56 |
@@ -246,7 +247,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Icequake | 0.10% | ~56 |
 | A Lesson in Classes | 0.10% | ~56 |
 | The Birds | 0.10% | ~56 |
-| First Third Out | 0.10% | ~56 |
 | Slack-jawed Lorna | 0.10% | ~56 |
 | I'm Sure I Saw It Move! | 0.10% | ~56 |
 | End of the Line | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,027 (Ranked 62)  
+Progressed: 90,030 (Ranked 62)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,15 +548,15 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 90,027 | 1,922 |
+| 2023-06-07 | 90,030 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
-Sum: 30,044 (Ranked 37)  
+Sum: 30,047 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,920 |
-| This game is Great for Beginners | 4,854 |
+| This game is Great for Beginners | 4,857 |
 | This game has Quickly Understood Controls | 4,610 |
 | This game is Relaxing | 4,509 |
 | This game is Highly Recommended | 3,955 |
@@ -697,3 +697,4 @@ Diff (max vs sum): 27
 | 2023-06-04 | 4.06 | - | 4,917 | 30,033 |
 | 2023-06-05 | 4.06 | - | 4,917 | 30,035 |
 | 2023-06-06 | 4.06 | - | 4,920 | 30,044 |
+| 2023-06-07 | 4.06 | - | 4,920 | 30,047 |

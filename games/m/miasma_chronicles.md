@@ -5,32 +5,32 @@ Rating: 4.35 (Ranked 727)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~960 |
-| Ranidaphobia | 75.00% | ~783 |
-| Aspiring Editor | 73.00% | ~762 |
-| Gun for Hire | 67.00% | ~699 |
-| I am the law! | 59.00% | ~616 |
-| Lumberjack | 45.00% | ~470 |
+| First Blood | 92.00% | ~962 |
+| Ranidaphobia | 75.00% | ~784 |
+| Aspiring Editor | 72.00% | ~753 |
+| Gun for Hire | 67.00% | ~701 |
+| I am the law! | 59.00% | ~617 |
+| Lumberjack | 45.00% | ~471 |
 | Croaked | 40.00% | ~418 |
-| Limp Richard | 39.00% | ~407 |
+| Limp Richard | 39.00% | ~408 |
 | From Darkness to Light | 38.00% | ~397 |
-| Exorcist | 37.00% | ~386 |
-| Firestarter | 37.00% | ~386 |
-| Editor Adept | 36.00% | ~376 |
+| Exorcist | 37.00% | ~387 |
+| Firestarter | 37.00% | ~387 |
+| Editor Adept | 36.00% | ~377 |
 | Giant Killer | 33.00% | ~345 |
-| Sensei | 32.00% | ~334 |
-| The meaning of Kain | 30.00% | ~313 |
+| Sensei | 32.00% | ~335 |
+| The meaning of Kain | 30.00% | ~314 |
 | Technophobe | 27.00% | ~282 |
-| Recycler | 25.00% | ~261 |
+| Recycler | 25.00% | ~262 |
 | Are you not entertained? | 22.00% | ~230 |
-| Ganglord | 21.00% | ~219 |
-| Jarhead | 21.00% | ~219 |
+| Ganglord | 21.00% | ~220 |
+| Jarhead | 21.00% | ~220 |
 | Infiltrator | 20.00% | ~209 |
-| Chain Killer | 19.00% | ~198 |
-| Pushing Daisy | 19.00% | ~198 |
+| Chain Killer | 19.00% | ~199 |
+| Pushing Daisy | 19.00% | ~199 |
 | There Can Be Only One! | 18.00% | ~188 |
-| Experienced | 17.00% | ~177 |
-| Hold The Line | 17.00% | ~177 |
+| Experienced | 17.00% | ~178 |
+| Hold The Line | 17.00% | ~178 |
 | Endgame | 14.00% | ~146 |
 | Newtonian Knockout | 14.00% | ~146 |
 | Savior | 13.00% | ~136 |
@@ -43,13 +43,13 @@ Rating: 4.35 (Ranked 727)
 | Curveball | 7.00% | ~73 |
 | Side Order | 6.00% | ~63 |
 | Wipe Out | 6.00% | ~63 |
-| Bot Whisperer | 5.00% | ~52 |
+| Bot Whisperer | 4.00% | ~42 |
 | Dressed To Kill | 4.00% | ~42 |
 | Cruelty | 2.00% | ~21 |
 | Five Finger Deathcount | 0.90% | ~9 |
+| Alpha Editor | 0.60% | ~6 |
 | Fratricide | 0.60% | ~6 |
-| Alpha Editor | 0.50% | ~5 |
-| QA Has Suffered! (Redux) | 0.50% | ~5 |
+| QA Has Suffered! (Redux) | 0.60% | ~6 |
 | Goaaaaal! | 0.40% | ~4 |
 | Shadow Boxin' | 0.40% | ~4 |
 | Attenborough | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Rating: 4.35 (Ranked 727)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,044 (Ranked 171)  
+Progressed: 1,046 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 1,019 | 0 |
 | 2023-06-05 | 1,035 | 0 |
 | 2023-06-06 | 1,041 | 0 |
-| 2023-06-07 | 1,044 | 0 |
+| 2023-06-07 | 1,046 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

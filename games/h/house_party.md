@@ -19,9 +19,9 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Ashley | 0.40% | ~22 |
 | Inspector | 0.40% | ~22 |
 | Newcomer: Vickie | 0.40% | ~22 |
+| Social Butterfly | 0.40% | ~22 |
 | Amy | 0.30% | ~16 |
 | Smooth Operator: Ashley | 0.30% | ~16 |
-| Social Butterfly | 0.30% | ~16 |
 | Stephanie | 0.30% | ~16 |
 | The Muse: Madison | 0.30% | ~16 |
 | The Magic Number | 0.30% | ~16 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,430 (Ranked 125)  
+Progressed: 5,431 (Ranked 125)  
 Completed: 3 (0.06%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 3 (0.06%) (Ranked 179)
 | 2023-06-04 | 5,387 | 2 |
 | 2023-06-05 | 5,402 | 3 |
 | 2023-06-06 | 5,417 | 3 |
-| 2023-06-07 | 5,430 | 3 |
+| 2023-06-07 | 5,431 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -40,15 +40,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.50% | ~3,539 |
 | Iron Money | 0.50% | ~3,539 |
 | Detective Story | 0.50% | ~3,539 |
-| Legendary Talismans of Wuxing | 0.40% | ~2,831 |
-| Prodigal Child | 0.40% | ~2,831 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~2,831 |
-| Sword Stained With Blood | 0.40% | ~2,831 |
+| Legendary Talismans of Wuxing | 0.40% | ~2,832 |
+| Prodigal Child | 0.40% | ~2,832 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,832 |
+| Sword Stained With Blood | 0.40% | ~2,832 |
 | Martial Hub | 0.40% | ~69 |
 | Secure, Protect, Leave | 0.40% | ~69 |
+| Martial Artist | 0.30% | ~2,124 |
 | Knowledge Greed | 0.30% | ~2,124 |
 | Drunken Fighter | 0.20% | ~1,416 |
-| Martial Artist | 0.20% | ~1,416 |
 | Healing Memory | 0.20% | ~1,416 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,416 |
 | The Pit Protector | 0.20% | ~1,416 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,867 (Ranked 16)  
-Completed: 12,763 (1.80%) (Ranked 69)  
+Progressed: 707,877 (Ranked 16)  
+Completed: 12,763 (1.80%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,11 +105,11 @@ Completed: 12,763 (1.80%) (Ranked 69)
 | 2023-06-04 | 707,419 | 12,757 |
 | 2023-06-05 | 707,566 | 12,758 |
 | 2023-06-06 | 707,727 | 12,763 |
-| 2023-06-07 | 707,867 | 12,763 |
+| 2023-06-07 | 707,877 | 12,763 |
 ## Awards
-Max (Great Boss Battles): 6,142  (Ranked 52)  
+Max (Great Boss Battles): 6,142  (Ranked 53)  
 Sum: 10,479 (Ranked 78)  
-Diff (max vs sum): -26  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,142 |

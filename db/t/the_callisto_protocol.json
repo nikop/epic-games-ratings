@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -554,9 +554,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14672,
+  "EOS_Progressed": 14677,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 540,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3074,6 +3074,11 @@
       "Time": "2023-06-07T16:04:44.343197+00:00",
       "NumProgressed": 14672,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-07T17:08:38.5719942+00:00",
+      "NumProgressed": 14677,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3101,7 +3106,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3149,7 +3154,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -3189,7 +3194,7 @@
       "Name": "Get a Grip",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3197,7 +3202,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "KILL_2HEAD",
@@ -3261,7 +3266,7 @@
       "Name": "Paper Jams",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3269,7 +3274,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -3293,7 +3298,7 @@
       "Name": "Without A Paddle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "STORY_HANGAR",
@@ -3317,7 +3322,7 @@
       "Name": "Desperate Times",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3404,13 +3409,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14672,
+      "Progressed": 14677,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2598,
+      "Progressed": 2603,
       "Completed": 29
     }
   ],
@@ -3418,8 +3423,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-06T23:57:52.8549807+00:00",
-  "LastChanged_Achievements": "2023-06-07T16:04:44.3431964+00:00",
+  "LastChanged_Achievements": "2023-06-07T17:08:38.5719938+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-07T15:58:14.4026889+00:00",
-  "LastUpdate_Achievements": "2023-06-07T16:04:44.3432515+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:02:25.9776158+00:00",
+  "LastUpdate_Achievements": "2023-06-07T17:08:38.5720604+00:00"
 }

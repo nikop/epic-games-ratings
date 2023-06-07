@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6108,
+  "EOS_Progressed": 6109,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2294,6 +2294,11 @@
       "Time": "2023-06-07T16:03:03.475088+00:00",
       "NumProgressed": 6108,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-07T17:05:49.5053059+00:00",
+      "NumProgressed": 6109,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2305,7 +2310,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -2439,9 +2444,9 @@
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
       "SetID": "akchbl3",
       "Name": "I Have the High Ground",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 550
+      "UsersEstimate": 611
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -2497,7 +2502,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3298
+      "UsersEstimate": 3299
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2513,7 +2518,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -2553,7 +2558,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -2585,7 +2590,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -2601,7 +2606,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -2633,7 +2638,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3298
+      "UsersEstimate": 3299
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2657,14 +2662,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6108,
+      "Progressed": 6109,
       "Completed": 8
     }
   ],
@@ -2672,8 +2677,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-04T11:57:34.843695+00:00",
-  "LastChanged_Achievements": "2023-06-07T16:03:03.4750873+00:00",
+  "LastChanged_Achievements": "2023-06-07T17:05:49.5053055+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:28.4757017+00:00",
-  "LastUpdate_Ratings": "2023-06-07T15:57:42.7994214+00:00",
-  "LastUpdate_Achievements": "2023-06-07T16:03:03.4751405+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:01:54.0475202+00:00",
+  "LastUpdate_Achievements": "2023-06-07T17:05:49.5054181+00:00"
 }

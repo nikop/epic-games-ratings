@@ -6,26 +6,26 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~522 |
-| It’s Heating up! | 69.00% | ~493 |
-| Let’s patch things up | 65.00% | ~465 |
-| I can fix it! | 62.00% | ~443 |
-| Post No Bills | 55.00% | ~393 |
-| Truly Shocking! | 46.00% | ~329 |
-| Critical Thinker | 34.00% | ~243 |
-| Always Finding Your Mark | 28.00% | ~200 |
-| The Weight of the World | 28.00% | ~200 |
-| Act I Complete | 27.00% | ~193 |
-| No Niños | 27.00% | ~193 |
+| Breathe In… Breathe Out… | 73.00% | ~523 |
+| It’s Heating up! | 68.00% | ~488 |
+| Let’s patch things up | 65.00% | ~466 |
+| I can fix it! | 62.00% | ~445 |
+| Post No Bills | 55.00% | ~394 |
+| Truly Shocking! | 46.00% | ~330 |
+| Critical Thinker | 34.00% | ~244 |
+| Always Finding Your Mark | 28.00% | ~201 |
+| The Weight of the World | 28.00% | ~201 |
+| Act I Complete | 27.00% | ~194 |
+| No Niños | 27.00% | ~194 |
 | A drop in the Ocean | 26.00% | ~186 |
-| I ain’t afraid of no Ghost | 22.00% | ~157 |
+| I ain’t afraid of no Ghost | 22.00% | ~158 |
 | Act II Complete | 19.00% | ~136 |
 | A successful procedure! | 18.00% | ~129 |
 | Bing Bang BOOM | 18.00% | ~129 |
-| Breaking the Ice | 15.00% | ~107 |
+| Breaking the Ice | 15.00% | ~108 |
 | Solidarity Forever | 11.00% | ~79 |
-| A Tucked Tale | 9.00% | ~64 |
-| The best thing money can buy | 9.00% | ~64 |
+| A Tucked Tale | 9.00% | ~65 |
+| The best thing money can buy | 9.00% | ~65 |
 | Act III Complete | 5.00% | ~36 |
 | Fire and Brimstone | 5.00% | ~36 |
 | See you Space Cowboy | 5.00% | ~36 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715 (Ranked 187)  
+Progressed: 717 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 708 | 0 |
 | 2023-06-05 | 713 | 0 |
 | 2023-06-06 | 715 | 0 |
+| 2023-06-07 | 717 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

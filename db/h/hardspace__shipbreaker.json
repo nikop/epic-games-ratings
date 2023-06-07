@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 715,
+  "EOS_Progressed": 717,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -813,6 +813,11 @@
       "Time": "2023-06-06T09:00:29.4330548+00:00",
       "NumProgressed": 715,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T17:05:33.1420674+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -824,7 +829,7 @@
       "Name": "Act I Complete",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -848,7 +853,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -872,7 +877,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -880,7 +885,7 @@
       "Name": "The best thing money can buy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -896,7 +901,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -904,7 +909,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -920,7 +925,7 @@
       "Name": "Critical Thinker",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -958,9 +963,9 @@
       "ID": "ACH_ITS_HEATING_UP",
       "SetID": "108h92c",
       "Name": "It\u2019s Heating up!",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -968,7 +973,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -976,7 +981,7 @@
       "Name": "I can fix it!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -984,7 +989,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -992,7 +997,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -1000,7 +1005,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1024,7 +1029,7 @@
       "Name": "The Weight of the World",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -1032,14 +1037,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 715,
+      "Progressed": 717,
       "Completed": 0
     }
   ],
@@ -1047,8 +1052,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-07T16:01:16.1944216+00:00",
+  "LastChanged_Achievements": "2023-06-07T17:05:33.1420669+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:38.9499869+00:00",
-  "LastUpdate_Ratings": "2023-06-07T15:57:52.0253706+00:00",
-  "LastUpdate_Achievements": "2023-06-07T16:01:16.1944505+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:02:02.6625248+00:00",
+  "LastUpdate_Achievements": "2023-06-07T17:05:33.1420953+00:00"
 }

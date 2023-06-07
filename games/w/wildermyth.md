@@ -46,13 +46,13 @@ Number of Ratings: 45  (23.09.2022)
 | The Power of Friendship | 2.00% | ~25 |
 | Empty the Caves | 2.00% | ~25 |
 | Drauvenslayers | 2.00% | ~25 |
+| Back into the Sea | 2.00% | ~25 |
 | Bonebreakers | 2.00% | ~25 |
 | War-Ender | 2.00% | ~25 |
 | Fight Like a Bird | 2.00% | ~25 |
 | Some Say I'm Too Flashy | 2.00% | ~25 |
 | Tempest | 2.00% | ~25 |
 | Lochias's Hunger | 2.00% | ~25 |
-| Back into the Sea | 1.00% | ~12 |
 | Solid as the Hills | 1.00% | ~12 |
 | Symbiosis | 1.00% | ~12 |
 | I'm Not Smiling | 1.00% | ~12 |

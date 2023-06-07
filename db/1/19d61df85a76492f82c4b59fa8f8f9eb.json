@@ -2,9 +2,9 @@
   "ID": "19d61df85a76492f82c4b59fa8f8f9eb",
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
-  "Ranking_EOS_Progress": 329,
+  "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -170,7 +170,7 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 175,
       "UsersEstimate": 12
     },
@@ -178,15 +178,15 @@
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 70,
+      "Percentage": 68,
       "XP": 165,
-      "UsersEstimate": 20
+      "UsersEstimate": 19
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 165,
       "UsersEstimate": 12
     },
@@ -194,7 +194,7 @@
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 165,
       "UsersEstimate": 5
     },
@@ -202,7 +202,7 @@
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 165,
       "UsersEstimate": 5
     },
@@ -210,7 +210,7 @@
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 165,
       "UsersEstimate": 6
     }
@@ -225,8 +225,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-06-07T16:03:50.2014271+00:00",
+  "LastChanged_Achievements": "2023-06-07T17:07:26.3197922+00:00",
   "LastUpdate_AppInfo": "2023-06-01T09:56:58.8480789+00:00",
-  "LastUpdate_Ratings": "2023-06-07T15:57:15.2098706+00:00",
-  "LastUpdate_Achievements": "2023-06-07T16:03:50.2014391+00:00"
+  "LastUpdate_Ratings": "2023-06-07T16:57:43.3833912+00:00",
+  "LastUpdate_Achievements": "2023-06-07T17:07:26.3198005+00:00"
 }

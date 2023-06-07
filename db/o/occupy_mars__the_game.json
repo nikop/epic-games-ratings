@@ -1906,9 +1906,9 @@
       "ID": "NEW_ACHIEVEMENT_ROCKET_JUMP",
       "SetID": "l546gc",
       "Name": "Rocket Jump",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROCKET_SCIENCE",
@@ -1987,8 +1987,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-05T18:57:24.3437031+00:00",
-  "LastChanged_Achievements": "2023-06-07T16:04:27.0300592+00:00",
+  "LastChanged_Achievements": "2023-06-07T17:08:23.6725922+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-07T15:57:43.9358022+00:00",
-  "LastUpdate_Achievements": "2023-06-07T16:04:27.0301038+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:01:55.0465843+00:00",
+  "LastUpdate_Achievements": "2023-06-07T17:08:23.6726427+00:00"
 }

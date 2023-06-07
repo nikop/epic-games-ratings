@@ -6,24 +6,24 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,066 |
-| Wallbanger | 5.00% | ~19,066 |
-| Exploitative | 4.00% | ~15,253 |
-| High Speed Low Drag | 4.00% | ~15,253 |
-| Wet Feet | 4.00% | ~15,253 |
+| Point Shooting | 5.00% | ~19,068 |
+| Wallbanger | 5.00% | ~19,068 |
+| Exploitative | 4.00% | ~15,254 |
+| High Speed Low Drag | 4.00% | ~15,254 |
+| Wet Feet | 4.00% | ~15,254 |
 | Checkpoint Victory | 3.00% | ~11,440 |
 | Lucky | 3.00% | ~11,440 |
 | Stylin' | 3.00% | ~11,440 |
 | Turf War | 3.00% | ~11,440 |
-| Banged | 2.00% | ~7,626 |
-| First Blood | 2.00% | ~7,626 |
-| Flaccid Paralysis | 2.00% | ~7,626 |
-| Push Victory | 2.00% | ~7,626 |
-| Self-destructive | 2.00% | ~7,626 |
-| Blindfire | 1.00% | ~3,813 |
-| Efficient | 1.00% | ~3,813 |
-| Ruthless | 1.00% | ~3,813 |
-| Semper Paratus | 1.00% | ~3,813 |
+| Banged | 2.00% | ~7,627 |
+| First Blood | 2.00% | ~7,627 |
+| Flaccid Paralysis | 2.00% | ~7,627 |
+| Push Victory | 2.00% | ~7,627 |
+| Self-destructive | 2.00% | ~7,627 |
+| Blindfire | 1.00% | ~3,814 |
+| Efficient | 1.00% | ~3,814 |
+| Ruthless | 1.00% | ~3,814 |
+| Semper Paratus | 1.00% | ~3,814 |
 | Carrying | 0.90% | ~3,432 |
 | Mount & Gun | 0.90% | ~3,432 |
 | Personal | 0.90% | ~3,432 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~381 |
 | Road Hazard | 0.10% | ~381 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 381,319 (Ranked 38)  
+Progressed: 381,350 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,11 +90,11 @@ Completed: 2 (0.00%) (Ranked 212)
 | 2023-06-04 | 380,003 | 2 |
 | 2023-06-05 | 380,521 | 2 |
 | 2023-06-06 | 381,010 | 2 |
-| 2023-06-07 | 381,319 | 2 |
+| 2023-06-07 | 381,350 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 356  (Ranked 212)  
+Max (Quickly Understood Controls): 356  (Ranked 213)  
 Sum: 2,698 (Ranked 162)  
-Diff (max vs sum): 50  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 356 |

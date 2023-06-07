@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4400,
+  "EOS_Progressed": 4401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3281,6 +3281,11 @@
       "Time": "2023-06-07T16:05:05.9480555+00:00",
       "NumProgressed": 4400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T17:09:00.4565789+00:00",
+      "NumProgressed": 4401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3332,7 +3337,7 @@
       "Name": "Full Ascension",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "15",
@@ -3404,7 +3409,7 @@
       "Name": "Realm Estate",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "23",
@@ -3412,7 +3417,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3476
+      "UsersEstimate": 3477
     },
     {
       "ID": "24",
@@ -3420,7 +3425,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "25",
@@ -3428,7 +3433,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3212
+      "UsersEstimate": 3213
     },
     {
       "ID": "26",
@@ -3436,7 +3441,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "27",
@@ -3452,15 +3457,15 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3036
+      "UsersEstimate": 3037
     },
     {
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2465
     },
     {
       "ID": "3",
@@ -3484,7 +3489,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2861
     },
     {
       "ID": "32",
@@ -3578,9 +3583,9 @@
       "ID": "42",
       "SetID": "3aa2279",
       "Name": "Master of Evilness",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "43",
@@ -3643,13 +3648,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4400,
-      "Completed": 4400
+      "Progressed": 4401,
+      "Completed": 4401
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4400,
+      "Progressed": 4401,
       "Completed": 0
     }
   ],
@@ -3657,8 +3662,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-06T09:59:44.2906196+00:00",
-  "LastChanged_Achievements": "2023-06-07T16:05:05.9480548+00:00",
+  "LastChanged_Achievements": "2023-06-07T17:09:00.4565785+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-07T15:59:52.3049254+00:00",
-  "LastUpdate_Achievements": "2023-06-07T16:05:05.9481217+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:04:06.879982+00:00",
+  "LastUpdate_Achievements": "2023-06-07T17:09:00.4566475+00:00"
 }

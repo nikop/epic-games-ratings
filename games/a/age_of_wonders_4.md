@@ -5,15 +5,15 @@ Rating: 4.55 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 79.00% | ~3,476 |
-| Realm Estate | 75.00% | ~3,300 |
-| Secret Technique | 75.00% | ~3,300 |
-| Walls Cannot Stop Us | 73.00% | ~3,212 |
-| From Friends to Family | 69.00% | ~3,036 |
-| Magical Synergy | 65.00% | ~2,860 |
-| Bone Peddler | 61.00% | ~2,684 |
-| Stronger Together | 55.00% | ~2,420 |
-| Full Ascension | 54.00% | ~2,376 |
+| A Wonderful Discovery | 79.00% | ~3,477 |
+| Realm Estate | 75.00% | ~3,301 |
+| Secret Technique | 75.00% | ~3,301 |
+| Walls Cannot Stop Us | 73.00% | ~3,213 |
+| From Friends to Family | 69.00% | ~3,037 |
+| Magical Synergy | 65.00% | ~2,861 |
+| Bone Peddler | 61.00% | ~2,685 |
+| Stronger Together | 56.00% | ~2,465 |
+| Full Ascension | 54.00% | ~2,377 |
 | There Can Only Be One! | 47.00% | ~2,068 |
 | Seat of Power | 47.00% | ~2,068 |
 | Intimidation Tactics | 44.00% | ~1,936 |
@@ -47,10 +47,10 @@ Rating: 4.55 (Ranked 475)
 | Manufactured War | 1.00% | ~44 |
 | I'll Fight You All | 0.90% | ~40 |
 | The Grey Wizard | 0.40% | ~18 |
-| Master of Evilness | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
+| Master of Evilness | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,400 (Ranked 128)  
+Progressed: 4,401 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 4,325 | 0 |
 | 2023-06-05 | 4,354 | 0 |
 | 2023-06-06 | 4,386 | 0 |
-| 2023-06-07 | 4,400 | 0 |
+| 2023-06-07 | 4,401 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

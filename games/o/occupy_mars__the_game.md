@@ -28,8 +28,8 @@ Rating: 3.85 (Ranked 919)
 | Hard Landing | 1.00% | ~11 |
 | To infinity and beyond! | 1.00% | ~11 |
 | Explosive Miner | 0.80% | ~9 |
+| Rocket Jump | 0.70% | ~8 |
 | Thunderstruck | 0.70% | ~8 |
-| Rocket Jump | 0.60% | ~7 |
 | 5G Network | 0.50% | ~6 |
 | Caveman | 0.50% | ~6 |
 | Bull’s eye | 0.40% | ~5 |

@@ -363,9 +363,9 @@
       "ID": "In the smacker...I think",
       "SetID": "gl7plp",
       "Name": "In the smacker...I think",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 62
     },
     {
       "ID": "Keep_em_coming",
@@ -467,9 +467,9 @@
       "ID": "The_Warlord",
       "SetID": "gl7plp",
       "Name": "The Warlord",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 118
+      "UsersEstimate": 124
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -556,8 +556,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-07T16:01:11.8702724+00:00",
+  "LastChanged_Achievements": "2023-06-07T17:05:28.3857359+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:46.0234208+00:00",
-  "LastUpdate_Ratings": "2023-06-07T15:57:58.596412+00:00",
-  "LastUpdate_Achievements": "2023-06-07T16:01:11.8703053+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:02:09.1147462+00:00",
+  "LastUpdate_Achievements": "2023-06-07T17:05:28.3857681+00:00"
 }

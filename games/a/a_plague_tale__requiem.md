@@ -5,43 +5,43 @@ Rating: 4.74 (Ranked 144)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~10,338 |
-| Newcomers | 78.00% | ~8,765 |
-| A Burden of Blood | 72.00% | ~8,091 |
-| Protector's Duty | 68.00% | ~7,641 |
-| Alchemist | 67.00% | ~7,529 |
-| In our Wake | 66.00% | ~7,416 |
-| Leaving all Behind | 63.00% | ~7,079 |
-| Felons | 60.00% | ~6,742 |
-| A Sea of Promises | 58.00% | ~6,517 |
-| Tales and Revelations | 55.00% | ~6,180 |
-| Bloodline | 50.00% | ~5,618 |
-| The Cradle of Centuries | 46.00% | ~5,169 |
-| The Life We Deserve | 44.00% | ~4,944 |
-| Night guard | 42.00% | ~4,720 |
-| Nothing Left | 37.00% | ~4,158 |
-| Healing our Wounds | 35.00% | ~3,933 |
-| Dying Sun | 31.00% | ~3,483 |
-| Improved crossbow | 26.00% | ~2,922 |
-| King Hugo | 23.00% | ~2,585 |
-| Mercy | 23.00% | ~2,585 |
-| Perfect shot | 22.00% | ~2,472 |
-| Effective instruments | 21.00% | ~2,360 |
-| Perfect throw | 21.00% | ~2,360 |
-| Knights! | 19.00% | ~2,135 |
+| Under a New Sun | 92.00% | ~10,343 |
+| Newcomers | 78.00% | ~8,769 |
+| A Burden of Blood | 72.00% | ~8,094 |
+| Protector's Duty | 68.00% | ~7,645 |
+| Alchemist | 67.00% | ~7,532 |
+| In our Wake | 66.00% | ~7,420 |
+| Leaving all Behind | 63.00% | ~7,082 |
+| Felons | 60.00% | ~6,745 |
+| A Sea of Promises | 58.00% | ~6,520 |
+| Tales and Revelations | 55.00% | ~6,183 |
+| Bloodline | 50.00% | ~5,621 |
+| The Cradle of Centuries | 46.00% | ~5,171 |
+| The Life We Deserve | 44.00% | ~4,946 |
+| Night guard | 42.00% | ~4,722 |
+| Nothing Left | 37.00% | ~4,160 |
+| Healing our Wounds | 35.00% | ~3,935 |
+| Dying Sun | 31.00% | ~3,485 |
+| Improved crossbow | 26.00% | ~2,923 |
+| King Hugo | 23.00% | ~2,586 |
+| Mercy | 23.00% | ~2,586 |
+| Perfect shot | 22.00% | ~2,473 |
+| Effective instruments | 21.00% | ~2,361 |
+| Perfect throw | 21.00% | ~2,361 |
+| Knights! | 19.00% | ~2,136 |
 | Handful of pockets | 13.00% | ~1,461 |
-| Not a toy anymore | 11.00% | ~1,236 |
-| Pocket laboratory | 11.00% | ~1,236 |
+| Not a toy anymore | 11.00% | ~1,237 |
+| Pocket laboratory | 11.00% | ~1,237 |
 | Herbalist | 7.00% | ~787 |
 | Fighter | 7.00% | ~787 |
 | Ornithologist | 5.00% | ~562 |
-| Sneaky | 4.00% | ~449 |
+| Sneaky | 4.00% | ~450 |
 | Immortal memories | 3.00% | ~337 |
 | Old protector | 2.00% | ~225 |
 | Explorer | 1.00% | ~112 |
 | Malignant | 1.00% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,237 (Ranked 108)  
+Progressed: 11,242 (Ranked 108)  
 Completed: 33 (0.29%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,10 +89,10 @@ Completed: 33 (0.29%) (Ranked 134)
 | 2023-06-04 | 11,139 | 32 |
 | 2023-06-05 | 11,189 | 32 |
 | 2023-06-06 | 11,220 | 33 |
-| 2023-06-07 | 11,237 | 33 |
+| 2023-06-07 | 11,242 | 33 |
 ## Awards
-Max (Great Boss Battles): 402  (Ranked 202)  
-Sum: 578 (Ranked 286)  
+Max (Great Boss Battles): 402  (Ranked 203)  
+Sum: 578 (Ranked 287)  
 Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |

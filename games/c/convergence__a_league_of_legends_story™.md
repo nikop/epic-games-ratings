@@ -12,9 +12,11 @@
 | Like Clockwork | 2.00% | ~12 |
 | Street Style | 2.00% | ~12 |
 | Family Memories | 2.00% | ~12 |
+| The Mysterious Stranger | 2.00% | ~12 |
 | The Betrayer | 2.00% | ~12 |
 | The Man Who Shattered Time | 2.00% | ~12 |
 | Whiz Kid | 2.00% | ~12 |
+| Rail Rat | 2.00% | ~12 |
 | The Loose Cannon | 2.00% | ~12 |
 | Cartographer | 2.00% | ~12 |
 | The Harder They Fall | 2.00% | ~12 |
@@ -32,16 +34,14 @@
 | Right On Time | 1.00% | ~6 |
 | Cultivair Explorer | 1.00% | ~6 |
 | Factorywood Explorer | 1.00% | ~6 |
-| The Mysterious Stranger | 1.00% | ~6 |
-| Rail Rat | 1.00% | ~6 |
 | Time Flies | 1.00% | ~6 |
 | Honest Mistake | 1.00% | ~6 |
 | Theater Explorer | 1.00% | ~6 |
 | Immaculate Aim | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
+| Entresol Explorer | 0.80% | ~5 |
 | Sartorialist | 0.60% | ~4 |
-| Entresol Explorer | 0.60% | ~4 |
 | Golem Hunter | 0.60% | ~4 |
 | Rungs Was Right | 0.60% | ~4 |
 | Syron for Hope | 0.60% | ~4 |

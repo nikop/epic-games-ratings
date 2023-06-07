@@ -3,10 +3,10 @@
   "Name": "Sifu",
   "ProductSlug": "sifu",
   "Ranking_Rating": 65,
-  "Ranking_Popularity": 52,
+  "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 16,
-  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
@@ -4470,9 +4470,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 707867,
+  "EOS_Progressed": 707877,
   "EOS_Completed": 12763,
-  "EOS_NewPlayers": 1335,
+  "EOS_NewPlayers": 1334,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8905,6 +8905,11 @@
       "Time": "2023-06-07T16:06:51.2309173+00:00",
       "NumProgressed": 707867,
       "NumCompleted": 12763
+    },
+    {
+      "Time": "2023-06-07T17:10:46.1067417+00:00",
+      "NumProgressed": 707877,
+      "NumCompleted": 12763
     }
   ],
   "TotalAchievements": 50,
@@ -8996,7 +9001,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "12_MidAge",
@@ -9012,7 +9017,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -9042,9 +9047,9 @@
       "ID": "17_Detective_H3",
       "SetID": "adcm20g",
       "Name": "Martial Artist",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1416
+      "UsersEstimate": 2124
     },
     {
       "ID": "18_Detective_H4",
@@ -9132,7 +9137,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -9172,7 +9177,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "34_TimedTakedown",
@@ -9315,21 +9320,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17168,
-      "Completed": 10238
+      "Progressed": 17178,
+      "Completed": 10239
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707867,
+      "Progressed": 707877,
       "Completed": 12763
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-07T08:59:19.1082307+00:00",
-  "LastChanged_Achievements": "2023-06-07T16:06:51.2309168+00:00",
+  "LastChanged_Achievements": "2023-06-07T17:10:46.1067412+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-07T15:59:24.5919001+00:00",
-  "LastUpdate_Achievements": "2023-06-07T16:06:51.2309994+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:03:38.5106194+00:00",
+  "LastUpdate_Achievements": "2023-06-07T17:10:46.1068502+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6539,
+  "EOS_Progressed": 6540,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -1608,6 +1608,11 @@
       "Time": "2023-06-07T16:06:31.5344033+00:00",
       "NumProgressed": 6539,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-07T17:10:26.5203615+00:00",
+      "NumProgressed": 6540,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -1723,7 +1728,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -1787,7 +1792,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2223
+      "UsersEstimate": 2224
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -1827,22 +1832,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6539,
+      "Progressed": 6540,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-07T16:06:31.5344028+00:00",
+  "LastChanged_Achievements": "2023-06-07T17:10:26.520361+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:31.0570874+00:00",
-  "LastUpdate_Ratings": "2023-06-07T15:57:45.7070626+00:00",
-  "LastUpdate_Achievements": "2023-06-07T16:06:31.5344337+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:01:56.891663+00:00",
+  "LastUpdate_Achievements": "2023-06-07T17:10:26.5203875+00:00"
 }

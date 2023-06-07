@@ -18,7 +18,7 @@ Rating: 3.81 (Ranked 922)
 | Head First | 15.00% | ~2,334 |
 | To the World's End | 12.00% | ~1,868 |
 | Table for Six | 11.00% | ~1,712 |
-| Sharing Is Caring | 9.00% | ~1,401 |
+| Sharing Is Caring | 10.00% | ~1,556 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,245 |
 | Morally Flexible | 6.00% | ~934 |
 | Fishing for Compliments | 5.00% | ~778 |

@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 963,
+  "EOS_Progressed": 964,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -693,6 +693,11 @@
       "Time": "2023-06-07T15:05:28.0224352+00:00",
       "NumProgressed": 963,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T17:10:36.9532488+00:00",
+      "NumProgressed": 964,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -736,7 +741,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "06",
@@ -744,7 +749,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "07",
@@ -752,7 +757,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "08",
@@ -832,7 +837,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "18",
@@ -887,7 +892,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 963,
+      "Progressed": 964,
       "Completed": 0
     }
   ],
@@ -895,8 +900,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-07T16:06:41.686237+00:00",
+  "LastChanged_Achievements": "2023-06-07T17:10:36.9532485+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:05.6191061+00:00",
-  "LastUpdate_Ratings": "2023-06-07T16:00:08.0037268+00:00",
-  "LastUpdate_Achievements": "2023-06-07T16:06:41.6862566+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:04:22.6605803+00:00",
+  "LastUpdate_Achievements": "2023-06-07T17:10:36.9532689+00:00"
 }

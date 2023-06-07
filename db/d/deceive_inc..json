@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6633,
+  "EOS_Progressed": 6634,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3828,6 +3828,11 @@
       "Time": "2023-06-07T15:05:30.7792757+00:00",
       "NumProgressed": 6633,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-07T17:10:40.109303+00:00",
+      "NumProgressed": 6634,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3839,7 +3844,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4245
+      "UsersEstimate": 4246
     },
     {
       "ID": "0002",
@@ -3895,7 +3900,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     },
     {
       "ID": "0009",
@@ -4029,9 +4034,9 @@
       "ID": "0025",
       "SetID": "2n2feee",
       "Name": "Tailor-Made",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2521
     },
     {
       "ID": "0026",
@@ -4063,7 +4068,7 @@
       "Name": "A view to Win",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "0030",
@@ -4126,7 +4131,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6633,
+      "Progressed": 6634,
       "Completed": 0
     }
   ],
@@ -4134,8 +4139,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-06-07T16:06:45.0272048+00:00",
+  "LastChanged_Achievements": "2023-06-07T17:10:40.1093028+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:04.3175816+00:00",
-  "LastUpdate_Ratings": "2023-06-07T16:00:05.4671982+00:00",
-  "LastUpdate_Achievements": "2023-06-07T16:06:45.0272772+00:00"
+  "LastUpdate_Ratings": "2023-06-07T17:04:20.0959845+00:00",
+  "LastUpdate_Achievements": "2023-06-07T17:10:40.1094191+00:00"
 }
