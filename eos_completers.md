@@ -20,7 +20,7 @@
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [Smelter](games/s/smelter.md) | 8.57% |
 | 20 | [Remains](games/r/remains.md) | 8.11% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.03% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.02% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
@@ -40,8 +40,8 @@
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.81% |
 | 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.80% |
 | 40 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
-| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.67% |
-| 42 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.64% |
+| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.64% |
+| 41 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.64% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.34% |
 | 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
 | 45 | [ZZT!](games/z/zzt!.md) | 3.22% |
@@ -63,15 +63,15 @@
 | 61 | [Bloodshore](games/b/bloodshore.md) | 2.47% |
 | 62 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.25% |
 | 63 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 64 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
-| 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.14% |
+| 64 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
+| 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 66 | [Iron Danger](games/i/iron_danger.md) | 2.05% |
 | 67 | [JARS](games/j/jars.md) | 1.92% |
 | 68 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 69 | [Sifu](games/s/sifu.md) | 1.80% |
 | 70 | [Poosh XL](games/p/poosh_xl.md) | 1.68% |
-| 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.67% |
-| 72 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
+| 71 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
+| 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.66% |
 | 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
 | 74 | [Somerville](games/s/somerville.md) | 1.59% |
 | 75 | [Night Book](games/n/night_book.md) | 1.55% |
@@ -85,15 +85,15 @@
 | 83 | [Chorus](games/c/chorus.md) | 1.18% |
 | 83 | [Trifox](games/t/trifox.md) | 1.18% |
 | 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.16% |
-| 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.14% |
-| 87 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
+| 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.13% |
+| 86 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 88 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
 | 89 | [Late Shift](games/l/late_shift.md) | 1.01% |
 | 90 | [Five Dates](games/f/five_dates.md) | 0.98% |
 | 91 | [Sable](games/s/sable.md) | 0.94% |
 | 92 | [Hades](games/h/hades.md) | 0.89% |
+| 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
 | 93 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 94 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
 | 95 | [Adios](games/a/adios.md) | 0.85% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
@@ -163,14 +163,14 @@
 | 161 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 161 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.12% |
 | 163 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
-| 164 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 164 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
 | 164 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 164 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 164 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
 | 164 | [Supraland](games/s/supraland.md) | 0.10% |
-| 170 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 170 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 169 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
+| 169 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 169 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 172 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
 | 172 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 172 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
