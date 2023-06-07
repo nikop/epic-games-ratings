@@ -1164,9 +1164,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22744,
+  "EOS_Progressed": 22745,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4754,6 +4754,11 @@
       "Time": "2023-06-07T12:06:26.1427166+00:00",
       "NumProgressed": 22744,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-07T14:07:13.2203482+00:00",
+      "NumProgressed": 22745,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -4765,7 +4770,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16603
+      "UsersEstimate": 16604
     },
     {
       "ID": "Animated",
@@ -4829,7 +4834,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 12054
+      "UsersEstimate": 12055
     },
     {
       "ID": "Daily_Dose",
@@ -4837,7 +4842,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7960
+      "UsersEstimate": 7961
     },
     {
       "ID": "Diabolical",
@@ -4853,7 +4858,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 14101
+      "UsersEstimate": 14102
     },
     {
       "ID": "Dont_Need_These",
@@ -4877,7 +4882,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "Escape_Artist",
@@ -4901,7 +4906,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12509
+      "UsersEstimate": 12510
     },
     {
       "ID": "GB_In_Training",
@@ -4925,7 +4930,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6823
+      "UsersEstimate": 6824
     },
     {
       "ID": "Legions",
@@ -4981,7 +4986,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5913
+      "UsersEstimate": 5914
     },
     {
       "ID": "Reckless",
@@ -5013,7 +5018,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5913
+      "UsersEstimate": 5914
     },
     {
       "ID": "Rivalry",
@@ -5037,7 +5042,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6368
+      "UsersEstimate": 6369
     },
     {
       "ID": "Skilled",
@@ -5069,7 +5074,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19560
+      "UsersEstimate": 19561
     },
     {
       "ID": "Summoner",
@@ -5101,7 +5106,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10007
+      "UsersEstimate": 10008
     },
     {
       "ID": "Terrifying",
@@ -5125,7 +5130,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10007
+      "UsersEstimate": 10008
     },
     {
       "ID": "Tobins_Prodigy",
@@ -5133,7 +5138,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "Ultimate_Defense",
@@ -5172,7 +5177,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22744,
+      "Progressed": 22745,
       "Completed": 40
     }
   ],
@@ -5180,8 +5185,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-07T02:20:52.6573241+00:00",
-  "LastChanged_Achievements": "2023-06-07T13:15:52.0522154+00:00",
+  "LastChanged_Achievements": "2023-06-07T14:07:13.2203475+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6996784+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:08:35.2622067+00:00",
-  "LastUpdate_Achievements": "2023-06-07T13:15:52.0522668+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:59:37.4995056+00:00",
+  "LastUpdate_Achievements": "2023-06-07T14:07:13.2204231+00:00"
 }

@@ -1,32 +1,32 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 615)  
+Rating: 4.48 (Ranked 579)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~659 |
-| Confirming Suspicions | 23.00% | ~541 |
-| The Kraken Wakes | 18.00% | ~424 |
-| It's Starting to Crack | 16.00% | ~376 |
-| Lord of War | 14.00% | ~329 |
-| Change the Channel | 13.00% | ~306 |
-| Resourceful | 12.00% | ~282 |
+| Meeting Resistance | 28.00% | ~661 |
+| Confirming Suspicions | 23.00% | ~543 |
+| The Kraken Wakes | 18.00% | ~425 |
+| It's Starting to Crack | 16.00% | ~377 |
+| Lord of War | 14.00% | ~330 |
+| Change the Channel | 13.00% | ~307 |
+| Resourceful | 12.00% | ~283 |
 | Taking it back | 11.00% | ~259 |
-| Target America | 10.00% | ~235 |
+| Target America | 10.00% | ~236 |
 | Organ Grinder | 9.00% | ~212 |
 | As Quiet as a Mouse | 9.00% | ~212 |
-| Just a Flesh Wound | 8.00% | ~188 |
-| Explosive Efficiency | 8.00% | ~188 |
-| The Kraken Sleeps | 8.00% | ~188 |
+| Just a Flesh Wound | 8.00% | ~189 |
+| Explosive Efficiency | 8.00% | ~189 |
+| The Kraken Sleeps | 8.00% | ~189 |
 | Liberté | 7.00% | ~165 |
 | Enemy at the Gates | 7.00% | ~165 |
 | Gunslinger | 7.00% | ~165 |
 | Sharpshooter | 7.00% | ~165 |
-| Opposing Force | 6.00% | ~141 |
-| Die Nussknacker Sweet! | 6.00% | ~141 |
-| Der Geist | 6.00% | ~141 |
-| Snake in the Grass | 6.00% | ~141 |
+| Opposing Force | 6.00% | ~142 |
+| Die Nussknacker Sweet! | 6.00% | ~142 |
+| Der Geist | 6.00% | ~142 |
+| Snake in the Grass | 6.00% | ~142 |
 | Climbing the Ladder | 5.00% | ~118 |
 | No Stone Unturned | 5.00% | ~118 |
 | Fields of Glory | 5.00% | ~118 |
@@ -45,7 +45,7 @@ Rating: 4.45 (Ranked 615)
 | Don't hold your breath | 1.00% | ~24 |
 | Herr Today, Gone Tomorrow | 1.00% | ~23 |
 | Operation Foxley | 1.00% | ~23 |
-| Tinkerer | 0.80% | ~19 |
+| Tinkerer | 0.90% | ~21 |
 | Ghost of Falaise | 0.80% | ~18 |
 | Last Resort | 0.70% | ~16 |
 | Siegebreaker | 0.70% | ~16 |
@@ -59,9 +59,9 @@ Rating: 4.45 (Ranked 615)
 | Fight Another Day | 0.40% | ~9 |
 | Can't Outrun A Bullet | 0.30% | ~7 |
 | Reich To The Point | 0.30% | ~7 |
+| Covert Elimination | 0.30% | ~7 |
 | Sink or Swim | 0.30% | ~2 |
 | Sight Beyond Sights | 0.20% | ~5 |
-| Covert Elimination | 0.20% | ~5 |
 | Best of the Best | 0.10% | ~2 |
 | Master of Pistols | 0.10% | ~2 |
 | Master of Secondaries | 0.10% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 615)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,353 (Ranked 147)  
+Progressed: 2,359 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-04 | 2,257 | 2 |
 | 2023-06-05 | 2,307 | 2 |
 | 2023-06-06 | 2,341 | 2 |
-| 2023-06-07 | 2,353 | 2 |
+| 2023-06-07 | 2,359 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -168,3 +168,4 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-02 | 4.42 | 0 | 0 |
 | 2023-06-03 | 4.44 | 0 | 0 |
 | 2023-06-05 | 4.45 | 0 | 0 |
+| 2023-06-07 | 4.48 | 0 | 0 |

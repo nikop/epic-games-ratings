@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -894,7 +894,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3454,
+  "EOS_Progressed": 3455,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
@@ -3854,6 +3854,11 @@
       "Time": "2023-06-07T13:10:42.8874448+00:00",
       "NumProgressed": 3454,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T14:01:56.6137475+00:00",
+      "NumProgressed": 3455,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3927,9 +3932,9 @@
       "ID": "ACH_EP_BUREAUCRAZY",
       "SetID": "1p8ab95",
       "Name": "Computer Says \u0022No\u0022",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -3945,7 +3950,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -3977,7 +3982,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -4025,7 +4030,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2625
+      "UsersEstimate": 2626
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4184,15 +4189,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3454,
+      "Progressed": 3455,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-05T19:00:08.7652267+00:00",
-  "LastChanged_Achievements": "2023-06-07T13:10:42.887444+00:00",
+  "LastChanged_Achievements": "2023-06-07T14:01:56.613747+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:10:02.0508656+00:00",
-  "LastUpdate_Achievements": "2023-06-07T13:10:42.887494+00:00"
+  "LastUpdate_Ratings": "2023-06-07T14:01:11.3962154+00:00",
+  "LastUpdate_Achievements": "2023-06-07T14:01:56.6138029+00:00"
 }

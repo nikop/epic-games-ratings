@@ -9,7 +9,7 @@ Rating: 4.55 (Ranked 475)
 | Realm Estate | 75.00% | ~3,299 |
 | Secret Technique | 75.00% | ~3,299 |
 | Walls Cannot Stop Us | 73.00% | ~3,211 |
-| From Friends to Family | 68.00% | ~2,991 |
+| From Friends to Family | 69.00% | ~3,035 |
 | Magical Synergy | 65.00% | ~2,859 |
 | Bone Peddler | 61.00% | ~2,683 |
 | Stronger Together | 55.00% | ~2,419 |
@@ -19,7 +19,7 @@ Rating: 4.55 (Ranked 475)
 | Intimidation Tactics | 44.00% | ~1,936 |
 | My Final Form | 43.00% | ~1,892 |
 | Valley of Wonders | 42.00% | ~1,848 |
-| In a Liege of Your Own | 37.00% | ~1,628 |
+| In a Liege of Your Own | 38.00% | ~1,672 |
 | Return of the Wizard King | 31.00% | ~1,364 |
 | Digging for Treasure | 30.00% | ~1,320 |
 | Against the Odds | 30.00% | ~1,320 |

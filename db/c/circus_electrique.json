@@ -283,9 +283,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "631ndc2",
       "Name": "Grand Opening",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 163
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-07T13:15:52.4434032+00:00",
+  "LastChanged_Achievements": "2023-06-07T14:07:13.7705566+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:13.7097187+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:08:34.1580913+00:00",
-  "LastUpdate_Achievements": "2023-06-07T13:15:52.4434394+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:59:36.4392799+00:00",
+  "LastUpdate_Achievements": "2023-06-07T14:07:13.7706173+00:00"
 }

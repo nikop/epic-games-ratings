@@ -34,12 +34,12 @@
 | The Mysterious Stranger | 1.00% | ~6 |
 | Rail Rat | 1.00% | ~6 |
 | Time Flies | 1.00% | ~6 |
+| Honest Mistake | 1.00% | ~6 |
 | Theater Explorer | 1.00% | ~6 |
 | Immaculate Aim | 1.00% | ~6 |
 | Ask Questions Later | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
 | The Brass Boss | 1.00% | ~6 |
-| Honest Mistake | 0.80% | ~5 |
 | Sartorialist | 0.60% | ~4 |
 | Entresol Explorer | 0.60% | ~4 |
 | Golem Hunter | 0.60% | ~4 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 618 (Ranked 195)  
+Progressed: 619 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 602 | 0 |
 | 2023-06-05 | 608 | 0 |
 | 2023-06-06 | 615 | 0 |
-| 2023-06-07 | 618 | 0 |
+| 2023-06-07 | 619 | 0 |

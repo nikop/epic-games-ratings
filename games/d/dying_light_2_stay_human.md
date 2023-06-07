@@ -6,38 +6,38 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 10.00% | ~56,970 |
-| Into the Unknown | 9.00% | ~51,273 |
-| First Shot | 9.00% | ~51,273 |
-| Herzlich Wilkommen! | 8.00% | ~45,576 |
-| Sancho Panza | 8.00% | ~45,576 |
-| Good Night & Good Luck | 8.00% | ~45,576 |
-| Under Pressure | 7.00% | ~39,879 |
-| Oh, So This Is How It Works! | 7.00% | ~39,879 |
-| On the Trail of the Enemy | 6.00% | ~34,182 |
-| Light in the Darkness | 6.00% | ~34,182 |
-| Get Outta My House! | 6.00% | ~34,182 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,182 |
-| Flag Burning | 6.00% | ~34,182 |
-| Night Hunter | 6.00% | ~34,182 |
-| We Will Be Heard! | 5.00% | ~28,485 |
-| Can't Touch This! | 5.00% | ~28,485 |
-| Being All Social | 5.00% | ~28,485 |
-| Debris and Ashes | 4.00% | ~22,788 |
-| Known Associate | 4.00% | ~22,788 |
-| Brush with Death | 4.00% | ~22,788 |
-| Going Down | 4.00% | ~22,788 |
-| Family First | 4.00% | ~22,788 |
-| Your World, Your Rules | 4.00% | ~22,788 |
-| Tunnel Entrance | 4.00% | ~22,788 |
-| After the Fall | 4.00% | ~22,788 |
-| Death From Afar | 4.00% | ~22,788 |
-| Terminal Headache | 4.00% | ~22,788 |
-| Slowpoke! | 4.00% | ~22,788 |
-| You're Going Down! | 3.00% | ~17,091 |
-| Tickets, Please! | 2.00% | ~11,394 |
-| Parkour Master | 2.00% | ~11,394 |
-| Combat Master | 2.00% | ~11,394 |
+| You Never Forget Your First... | 10.00% | ~56,975 |
+| Into the Unknown | 9.00% | ~51,277 |
+| First Shot | 9.00% | ~51,277 |
+| Herzlich Wilkommen! | 8.00% | ~45,580 |
+| Sancho Panza | 8.00% | ~45,580 |
+| Good Night & Good Luck | 8.00% | ~45,580 |
+| Under Pressure | 7.00% | ~39,882 |
+| Oh, So This Is How It Works! | 7.00% | ~39,882 |
+| On the Trail of the Enemy | 6.00% | ~34,185 |
+| Light in the Darkness | 6.00% | ~34,185 |
+| Get Outta My House! | 6.00% | ~34,185 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,185 |
+| Flag Burning | 6.00% | ~34,185 |
+| Night Hunter | 6.00% | ~34,185 |
+| We Will Be Heard! | 5.00% | ~28,487 |
+| Can't Touch This! | 5.00% | ~28,487 |
+| Being All Social | 5.00% | ~28,487 |
+| Debris and Ashes | 4.00% | ~22,790 |
+| Known Associate | 4.00% | ~22,790 |
+| Brush with Death | 4.00% | ~22,790 |
+| Going Down | 4.00% | ~22,790 |
+| Family First | 4.00% | ~22,790 |
+| Your World, Your Rules | 4.00% | ~22,790 |
+| Tunnel Entrance | 4.00% | ~22,790 |
+| After the Fall | 4.00% | ~22,790 |
+| Death From Afar | 4.00% | ~22,790 |
+| Terminal Headache | 4.00% | ~22,790 |
+| Slowpoke! | 4.00% | ~22,790 |
+| You're Going Down! | 3.00% | ~17,092 |
+| Tickets, Please! | 2.00% | ~11,395 |
+| Parkour Master | 2.00% | ~11,395 |
+| Combat Master | 2.00% | ~11,395 |
 | Municipal Services | 1.00% | ~5,697 |
 | Tube Map | 1.00% | ~5,697 |
 | Don Quixote | 1.00% | ~5,697 |
@@ -46,11 +46,11 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,697 |
 | Fit as a Fiddle | 1.00% | ~5,697 |
 | Ironheart | 1.00% | ~5,697 |
-| Nemesis | 1.00% | ~2,151 |
-| That's Teamwork! | 0.90% | ~5,127 |
-| Enter the Hall | 0.90% | ~1,936 |
+| Nemesis | 1.00% | ~2,152 |
+| That's Teamwork! | 0.90% | ~5,128 |
+| Enter the Hall | 0.90% | ~1,937 |
 | Boot Licker | 0.80% | ~4,558 |
-| Night of Terrors | 0.80% | ~1,721 |
+| Night of Terrors | 0.80% | ~1,722 |
 | Find Anything Interesting? | 0.70% | ~3,988 |
 | Who Wants To Be a... | 0.70% | ~3,988 |
 | Tanning Salon | 0.60% | ~3,418 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~215 |
 | Connoisseur | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 569,705 (Ranked 24)  
+Progressed: 569,746 (Ranked 24)  
 Completed: 49 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 49 (0.01%) (Ranked 201)
 | 2023-06-04 | 567,470 | 49 |
 | 2023-06-05 | 568,393 | 49 |
 | 2023-06-06 | 569,284 | 49 |
-| 2023-06-07 | 569,705 | 49 |
+| 2023-06-07 | 569,746 | 49 |
 ## Awards
 Max (Character Customization): 7,524  (Ranked 42)  
 Sum: 16,996 (Ranked 59)  

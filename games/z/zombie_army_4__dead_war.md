@@ -6,55 +6,55 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,991 |
-| Say goodbye, creep! | 65.00% | ~27,712 |
-| Blood splattered | 65.00% | ~27,712 |
-| Choo choo! | 62.00% | ~26,433 |
-| Groovy | 61.00% | ~26,007 |
-| Cleanup on aisle 4! | 56.00% | ~23,875 |
-| Gold | 50.00% | ~21,317 |
-| The boat can leave now...tell the crew | 48.00% | ~20,464 |
-| Give me something to shoot! | 46.00% | ~19,612 |
-| Stand back boy! | 46.00% | ~19,612 |
-| Weird science | 44.00% | ~18,759 |
-| Chain reaction | 44.00% | ~18,759 |
-| Look mummy! A shark! | 41.00% | ~17,480 |
-| What did you say, Blain? | 41.00% | ~17,480 |
-| In the dark dark woods... | 38.00% | ~16,201 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,201 |
-| Double tap | 37.00% | ~15,775 |
-| Cranial blowout! | 36.00% | ~15,348 |
-| Zombie killin' machine | 36.00% | ~15,348 |
-| Every bullet counts | 36.00% | ~15,348 |
-| All of this has happened before… | 35.00% | ~14,922 |
-| You've got red on you | 34.00% | ~14,496 |
-| All roads lead to Rome | 33.00% | ~14,069 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,993 |
+| Say goodbye, creep! | 65.00% | ~27,714 |
+| Blood splattered | 65.00% | ~27,714 |
+| Choo choo! | 62.00% | ~26,435 |
+| Groovy | 61.00% | ~26,009 |
+| Cleanup on aisle 4! | 56.00% | ~23,877 |
+| Gold | 50.00% | ~21,318 |
+| The boat can leave now...tell the crew | 48.00% | ~20,466 |
+| Give me something to shoot! | 46.00% | ~19,613 |
+| Stand back boy! | 46.00% | ~19,613 |
+| Weird science | 44.00% | ~18,760 |
+| Chain reaction | 44.00% | ~18,760 |
+| Look mummy! A shark! | 41.00% | ~17,481 |
+| What did you say, Blain? | 41.00% | ~17,481 |
+| In the dark dark woods... | 38.00% | ~16,202 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,202 |
+| Double tap | 37.00% | ~15,776 |
+| Cranial blowout! | 36.00% | ~15,349 |
+| Zombie killin' machine | 36.00% | ~15,349 |
+| Every bullet counts | 36.00% | ~15,349 |
+| All of this has happened before… | 35.00% | ~14,923 |
+| You've got red on you | 34.00% | ~14,497 |
+| All roads lead to Rome | 33.00% | ~14,070 |
 | You're all going to die down here | 31.00% | ~13,217 |
 | He did Nazi that coming | 31.00% | ~13,217 |
 | Kill of the week | 31.00% | ~13,217 |
-| I never liked them anyway | 30.00% | ~12,790 |
+| I never liked them anyway | 30.00% | ~12,791 |
 | Is it over? | 28.00% | ~11,938 |
-| Got your back | 27.00% | ~11,511 |
-| Gore soaked | 24.00% | ~10,232 |
-| Shock therapy | 22.00% | ~9,379 |
-| Leave the limbs you've lost | 22.00% | ~9,379 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,674 |
-| Take them down screaming | 18.00% | ~7,674 |
+| Got your back | 27.00% | ~11,512 |
+| Gore soaked | 24.00% | ~10,233 |
+| Shock therapy | 22.00% | ~9,380 |
+| Leave the limbs you've lost | 22.00% | ~9,380 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,675 |
+| Take them down screaming | 18.00% | ~7,675 |
 | Weapons expert | 17.00% | ~7,248 |
-| Bad Blood | 16.00% | ~6,821 |
-| The bigger they are... | 15.00% | ~6,395 |
+| Bad Blood | 16.00% | ~6,822 |
+| The bigger they are... | 15.00% | ~6,396 |
 | I'm going deeper underground | 14.00% | ~5,969 |
 | Well equipped | 12.00% | ~5,116 |
 | Into the deep | 12.00% | ~5,116 |
 | Damnedbusters | 9.00% | ~3,837 |
 | I can do anything I want. I got guns | 8.00% | ~3,411 |
 | Send me an angel | 8.00% | ~3,411 |
-| Plane sailing | 7.00% | ~2,984 |
-| This is no Sunday School picnic! | 7.00% | ~2,984 |
-| I never redoubted you! | 7.00% | ~2,984 |
-| Gotcha, didn't I? | 7.00% | ~2,984 |
-| A gross gross | 7.00% | ~2,984 |
-| Hail to the king, baby! | 7.00% | ~2,984 |
+| Plane sailing | 7.00% | ~2,985 |
+| This is no Sunday School picnic! | 7.00% | ~2,985 |
+| I never redoubted you! | 7.00% | ~2,985 |
+| Gotcha, didn't I? | 7.00% | ~2,985 |
+| A gross gross | 7.00% | ~2,985 |
+| Hail to the king, baby! | 7.00% | ~2,985 |
 | Something wicked this way comes | 6.00% | ~2,558 |
 | Not today you won't | 6.00% | ~2,558 |
 | Take a little bit of Italy with you | 6.00% | ~2,558 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~426 |
 | None more hard | 0.50% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,634 (Ranked 82)  
+Progressed: 42,637 (Ranked 82)  
 Completed: 25 (0.06%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 25 (0.06%) (Ranked 179)
 | 2023-06-04 | 42,606 | 25 |
 | 2023-06-05 | 42,621 | 25 |
 | 2023-06-06 | 42,632 | 25 |
-| 2023-06-07 | 42,634 | 25 |
+| 2023-06-07 | 42,637 | 25 |
 ## Awards
 Max (Great Boss Battles): 783  (Ranked 147)  
 Sum: 2,392 (Ranked 168)  

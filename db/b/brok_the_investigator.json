@@ -189,9 +189,9 @@
       "ID": "INTRO",
       "SetID": "bb2dp",
       "Name": "Introduction completed",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LOCKERENDING",
@@ -318,8 +318,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-06-07T13:15:39.5982722+00:00",
+  "LastChanged_Achievements": "2023-06-07T14:07:00.3609016+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.0650729+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:08:40.6956906+00:00",
-  "LastUpdate_Achievements": "2023-06-07T13:15:39.5982898+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:59:43.2663712+00:00",
+  "LastUpdate_Achievements": "2023-06-07T14:07:00.3609227+00:00"
 }

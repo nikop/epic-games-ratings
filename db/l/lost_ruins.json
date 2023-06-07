@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -504,9 +504,9 @@
       "ID": "Horder",
       "SetID": "82505mn",
       "Name": "Hoarder",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "Iconoclasm",
@@ -704,9 +704,9 @@
       "ID": "WeaponMaster",
       "SetID": "82505mn",
       "Name": "Weapon Master",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Witch",
@@ -729,8 +729,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-07T13:15:53.0010205+00:00",
+  "LastChanged_Achievements": "2023-06-07T14:07:14.3373611+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:56.1759151+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:09:17.741814+00:00",
-  "LastUpdate_Achievements": "2023-06-07T13:15:53.0010484+00:00"
+  "LastUpdate_Ratings": "2023-06-07T14:00:24.4232834+00:00",
+  "LastUpdate_Achievements": "2023-06-07T14:07:14.3373998+00:00"
 }

@@ -5,26 +5,26 @@ Rating: 4.74 (Ranked 144)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~10,333 |
-| Newcomers | 78.00% | ~8,761 |
-| A Burden of Blood | 72.00% | ~8,087 |
+| Under a New Sun | 92.00% | ~10,334 |
+| Newcomers | 78.00% | ~8,762 |
+| A Burden of Blood | 72.00% | ~8,088 |
 | Protector's Duty | 68.00% | ~7,638 |
-| Alchemist | 67.00% | ~7,525 |
-| In our Wake | 66.00% | ~7,413 |
-| Leaving all Behind | 63.00% | ~7,076 |
-| Felons | 60.00% | ~6,739 |
+| Alchemist | 67.00% | ~7,526 |
+| In our Wake | 66.00% | ~7,414 |
+| Leaving all Behind | 63.00% | ~7,077 |
+| Felons | 60.00% | ~6,740 |
 | A Sea of Promises | 58.00% | ~6,515 |
 | Tales and Revelations | 55.00% | ~6,178 |
 | Bloodline | 50.00% | ~5,616 |
 | The Cradle of Centuries | 46.00% | ~5,167 |
-| The Life We Deserve | 44.00% | ~4,942 |
-| Night guard | 42.00% | ~4,717 |
+| The Life We Deserve | 44.00% | ~4,943 |
+| Night guard | 42.00% | ~4,718 |
 | Nothing Left | 37.00% | ~4,156 |
-| Healing our Wounds | 35.00% | ~3,931 |
+| Healing our Wounds | 35.00% | ~3,932 |
 | Dying Sun | 31.00% | ~3,482 |
-| Improved crossbow | 26.00% | ~2,920 |
-| King Hugo | 23.00% | ~2,583 |
-| Mercy | 23.00% | ~2,583 |
+| Improved crossbow | 26.00% | ~2,921 |
+| King Hugo | 23.00% | ~2,584 |
+| Mercy | 23.00% | ~2,584 |
 | Perfect shot | 22.00% | ~2,471 |
 | Effective instruments | 21.00% | ~2,359 |
 | Perfect throw | 21.00% | ~2,359 |
@@ -41,7 +41,7 @@ Rating: 4.74 (Ranked 144)
 | Explorer | 1.00% | ~112 |
 | Malignant | 1.00% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,232 (Ranked 108)  
+Progressed: 11,233 (Ranked 108)  
 Completed: 33 (0.29%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 33 (0.29%) (Ranked 134)
 | 2023-06-04 | 11,139 | 32 |
 | 2023-06-05 | 11,189 | 32 |
 | 2023-06-06 | 11,220 | 33 |
-| 2023-06-07 | 11,232 | 33 |
+| 2023-06-07 | 11,233 | 33 |
 ## Awards
 Max (Great Boss Battles): 402  (Ranked 202)  
 Sum: 578 (Ranked 286)  

@@ -6,29 +6,29 @@ Rating: 4.64 (Ranked 315)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Prepper | 92.00% | ~3,847 |
-| All thumbs | 91.00% | ~3,805 |
-| I will survive! | 91.00% | ~3,805 |
-| Home, sweet home | 89.00% | ~3,721 |
-| Survivalist | 87.00% | ~3,637 |
-| One way ticket | 83.00% | ~3,470 |
-| Last man standing | 77.00% | ~3,219 |
+| All thumbs | 91.00% | ~3,806 |
+| I will survive! | 91.00% | ~3,806 |
+| Home, sweet home | 89.00% | ~3,722 |
+| Survivalist | 87.00% | ~3,638 |
+| One way ticket | 83.00% | ~3,471 |
+| Last man standing | 77.00% | ~3,220 |
 | Family guy | 75.00% | ~3,136 |
-| Out of the Bag | 72.00% | ~3,010 |
-| The Dark Side | 67.00% | ~2,801 |
-| Duck and cover! | 62.00% | ~2,592 |
-| Souper! | 61.00% | ~2,550 |
-| Pacifist | 56.00% | ~2,341 |
+| Out of the Bag | 72.00% | ~3,011 |
+| The Dark Side | 67.00% | ~2,802 |
+| Duck and cover! | 62.00% | ~2,593 |
+| Souper! | 61.00% | ~2,551 |
+| Pacifist | 56.00% | ~2,342 |
 | 2-1-6 | 54.00% | ~2,258 |
-| A gift | 50.00% | ~2,090 |
+| A gift | 50.00% | ~2,091 |
 | Girl Power | 44.00% | ~1,840 |
-| What goes around... | 40.00% | ~1,672 |
-| Be Prepared | 35.00% | ~1,463 |
+| What goes around... | 40.00% | ~1,673 |
+| Be Prepared | 35.00% | ~1,464 |
 | Unbreakable | 34.00% | ~1,422 |
 | Atomic drill | 32.00% | ~1,338 |
 | This is the end | 32.00% | ~1,338 |
-| Gotta get 'em all | 29.00% | ~1,212 |
+| Gotta get 'em all | 29.00% | ~1,213 |
 | Disco Roach | 26.00% | ~1,087 |
-| Dawkins Residence | 19.00% | ~794 |
+| Dawkins Residence | 19.00% | ~795 |
 | Rescue time! | 16.00% | ~669 |
 | New species | 16.00% | ~669 |
 | New order | 15.00% | ~627 |
@@ -58,15 +58,15 @@ Rating: 4.64 (Ranked 315)
 | Cuckoo's nest | 0.70% | ~29 |
 | Bughunter | 0.70% | ~29 |
 | Cat Lady | 0.70% | ~29 |
-| Pro gamer | 0.60% | ~25 |
 | Naysayer | 0.50% | ~21 |
+| Pro gamer | 0.50% | ~21 |
 | Manhattan Project | 0.40% | ~17 |
 | Fair Exchange | 0.40% | ~17 |
 | Tora! Tora! Tora! | 0.20% | ~8 |
 | Miracle | 0.20% | ~8 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,181 (Ranked 130)  
+Progressed: 4,182 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 4,159 | 0 |
 | 2023-06-05 | 4,167 | 0 |
 | 2023-06-06 | 4,177 | 0 |
-| 2023-06-07 | 4,181 | 0 |
+| 2023-06-07 | 4,182 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

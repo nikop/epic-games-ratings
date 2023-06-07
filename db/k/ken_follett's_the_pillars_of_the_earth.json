@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13050,
+  "EOS_Progressed": 13051,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3604,6 +3604,11 @@
       "Time": "2023-06-07T13:15:27.7362686+00:00",
       "NumProgressed": 13050,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-07T14:06:47.985303+00:00",
+      "NumProgressed": 13051,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 41,
@@ -3639,7 +3644,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "tpote_achievement_13",
@@ -3647,7 +3652,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "tpote_achievement_14",
@@ -3679,7 +3684,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "tpote_achievement_18",
@@ -3775,7 +3780,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "tpote_achievement_29",
@@ -3783,7 +3788,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "tpote_achievement_3",
@@ -3791,7 +3796,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "tpote_achievement_30",
@@ -3823,7 +3828,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "tpote_achievement_34",
@@ -3847,7 +3852,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "tpote_achievement_37",
@@ -3855,7 +3860,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "tpote_achievement_38",
@@ -3871,7 +3876,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "tpote_achievement_4",
@@ -3887,7 +3892,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "tpote_achievement_41",
@@ -3895,7 +3900,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "tpote_achievement_5",
@@ -3903,7 +3908,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3262
+      "UsersEstimate": 3263
     },
     {
       "ID": "tpote_achievement_6",
@@ -3942,15 +3947,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13050,
+      "Progressed": 13051,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-07T13:15:27.736268+00:00",
+  "LastChanged_Achievements": "2023-06-07T14:06:47.9853024+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.2103721+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:09:49.0842933+00:00",
-  "LastUpdate_Achievements": "2023-06-07T13:15:27.7363082+00:00"
+  "LastUpdate_Ratings": "2023-06-07T14:00:57.0180125+00:00",
+  "LastUpdate_Achievements": "2023-06-07T14:06:47.9853875+00:00"
 }

@@ -4138,9 +4138,9 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 90019,
+  "EOS_Progressed": 90022,
   "EOS_Completed": 1922,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
@@ -9003,6 +9003,11 @@
       "Time": "2023-06-07T13:16:04.1405373+00:00",
       "NumProgressed": 90019,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-06-07T14:07:25.9969922+00:00",
+      "NumProgressed": 90022,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 493,
@@ -9364,9 +9369,9 @@
       "ID": "objective_completed_1096",
       "SetID": "415jc5c",
       "Name": "Zarak\u0027s Revenge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_1097",
@@ -10004,9 +10009,9 @@
       "ID": "objective_completed_131",
       "SetID": "cc37lbc",
       "Name": "Lobsterfolk Assault",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_132",
@@ -10668,9 +10673,9 @@
       "ID": "objective_completed_285",
       "SetID": "cc37lbc",
       "Name": "Our Time To Shine",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_286",
@@ -12957,21 +12962,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56293,
+      "Progressed": 56296,
       "Completed": 2775
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90019,
+      "Progressed": 90022,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T13:58:26.881905+00:00",
-  "LastChanged_Achievements": "2023-06-07T13:16:04.1405368+00:00",
+  "LastChanged_Achievements": "2023-06-07T14:07:25.9969914+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:07:33.962176+00:00",
-  "LastUpdate_Achievements": "2023-06-07T13:16:04.1426894+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:58:31.1502141+00:00",
+  "LastUpdate_Achievements": "2023-06-07T14:07:25.9996995+00:00"
 }

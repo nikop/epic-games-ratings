@@ -6,25 +6,25 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~47,190 |
-| ''I don't like you either!'' | 79.00% | ~38,434 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~35,028 |
-| ''Impressive, most impressive'' | 71.00% | ~34,542 |
-| The Phantom Menace | 59.00% | ~28,704 |
-| ''Aggressive Negotiations'' | 58.00% | ~28,217 |
-| ''I can fly anything'' | 57.00% | ~27,730 |
-| ''And who gave you permission...?'' | 53.00% | ~25,784 |
-| A New Hope | 47.00% | ~22,866 |
-| Attack of the Clones | 46.00% | ~22,379 |
-| Revenge of the Sith | 40.00% | ~19,460 |
-| ''A fine addition to my collection'' | 37.00% | ~18,000 |
-| The Empire Strikes Back | 36.00% | ~17,514 |
-| Return of the Jedi | 31.00% | ~15,082 |
-| The Force Awakens | 26.00% | ~12,649 |
-| The Last Jedi | 22.00% | ~10,703 |
+| ''You guys got yourself a ship!'' | 97.00% | ~47,194 |
+| ''I don't like you either!'' | 79.00% | ~38,437 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~35,031 |
+| ''Impressive, most impressive'' | 71.00% | ~34,544 |
+| The Phantom Menace | 59.00% | ~28,706 |
+| ''Aggressive Negotiations'' | 58.00% | ~28,219 |
+| ''I can fly anything'' | 57.00% | ~27,733 |
+| ''And who gave you permission...?'' | 53.00% | ~25,787 |
+| A New Hope | 47.00% | ~22,867 |
+| Attack of the Clones | 46.00% | ~22,381 |
+| Revenge of the Sith | 40.00% | ~19,462 |
+| ''A fine addition to my collection'' | 37.00% | ~18,002 |
+| The Empire Strikes Back | 36.00% | ~17,515 |
+| Return of the Jedi | 31.00% | ~15,083 |
+| The Force Awakens | 26.00% | ~12,650 |
+| The Last Jedi | 22.00% | ~10,704 |
 | The Rise of Skywalker | 19.00% | ~9,244 |
-| ''It's true... all of it'' | 18.00% | ~8,757 |
-| ''Get the crews to their fighters'' | 18.00% | ~8,757 |
+| ''It's true... all of it'' | 18.00% | ~8,758 |
+| ''Get the crews to their fighters'' | 18.00% | ~8,758 |
 | ''Raw, untamed power'' | 8.00% | ~3,892 |
 | Rishi Maze | 4.00% | ~1,946 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~1,946 |
@@ -46,13 +46,13 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Arkanis Sector | 2.00% | ~973 |
 | ''Power! Unlimited power!'' | 2.00% | ~973 |
 | ''Now I am the Master'' | 2.00% | ~973 |
-| ''A little short for a Stormtrooper...'' | 1.00% | ~486 |
-| ''Jedi Business'' | 1.00% | ~486 |
-| ''No more training, do you require'' | 1.00% | ~486 |
-| ''You needn't worry about your reward'' | 1.00% | ~486 |
+| ''A little short for a Stormtrooper...'' | 1.00% | ~487 |
+| ''Jedi Business'' | 1.00% | ~487 |
+| ''No more training, do you require'' | 1.00% | ~487 |
+| ''You needn't worry about your reward'' | 1.00% | ~487 |
 | ''I've never seen a real one!'' | 0.80% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,650 (Ranked 79)  
+Progressed: 48,654 (Ranked 79)  
 Completed: 177 (0.36%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 177 (0.36%) (Ranked 122)
 | 2023-06-04 | 48,450 | 176 |
 | 2023-06-05 | 48,529 | 176 |
 | 2023-06-06 | 48,608 | 177 |
-| 2023-06-07 | 48,650 | 177 |
+| 2023-06-07 | 48,654 | 177 |
 ## Awards
 Max (Great Boss Battles): 2,299  (Ranked 98)  
 Sum: 6,395 (Ranked 112)  

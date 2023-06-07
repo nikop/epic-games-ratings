@@ -1,7 +1,7 @@
 # WarmSnow
 [Store](https://store.epicgames.com/en-US/p/warmsnow-7e3180)  
 [View Rawdata](../../db/w/warmsnow.json)  
-Rating: 4.81 (Ranked 72)  
+Rating: 4.82 (Ranked 65)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -10,3 +10,4 @@ Rating: 4.81 (Ranked 72)
 | 2023-05-27 | 4.83 | 0 | 0 |
 | 2023-06-02 | 4.80 | 0 | 0 |
 | 2023-06-03 | 4.81 | 0 | 0 |
+| 2023-06-07 | 4.82 | 0 | 0 |

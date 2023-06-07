@@ -29,17 +29,17 @@
 | Trio | 5.00% | ~18 |
 | Spell Master | 4.00% | ~14 |
 | Arrive Home | 3.00% | ~11 |
+| Hoarder | 3.00% | ~11 |
 | Holy Knight | 2.00% | ~7 |
-| Hoarder | 2.00% | ~7 |
 | Marksman | 2.00% | ~7 |
 | Meat Lover | 2.00% | ~7 |
 | Sword Master | 2.00% | ~7 |
 | Rune Master | 1.00% | ~4 |
 | Sling of David | 1.00% | ~4 |
+| Weapon Master | 1.00% | ~4 |
 | Witch | 1.00% | ~4 |
 | Assassin | 0.80% | ~3 |
 | Roughneck | 0.80% | ~3 |
-| Weapon Master | 0.80% | ~3 |
 | Art Collector | 0.30% | ~1 |
 | Hardboiled | 0.30% | ~1 |
 | Cryomancer | 0.00% | ~0 |

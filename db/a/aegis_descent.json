@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -167,6 +167,11 @@
       "Time": "2023-06-06T11:01:29.8894224+00:00",
       "NumProgressed": 374,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T14:02:29.271478+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -226,7 +231,7 @@
       "Name": "Death from Above",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -290,7 +295,7 @@
       "Name": "Gunner",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Award_HalfwayThere",
@@ -322,7 +327,7 @@
       "Name": "Heavy Metal",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Award_HullKing",
@@ -354,7 +359,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -370,7 +375,7 @@
       "Name": "Mister Fix It",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Award_OP",
@@ -386,7 +391,7 @@
       "Name": "Perfect Timing",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Award_PerkKing",
@@ -410,7 +415,7 @@
       "Name": "Power Up",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Award_Salvage",
@@ -426,7 +431,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "Award_ShellShock",
@@ -434,7 +439,7 @@
       "Name": "Shell Shock",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Award_SixtySeconds",
@@ -442,7 +447,7 @@
       "Name": "Sixty Seconds",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Award_SoldierLockOn",
@@ -450,7 +455,7 @@
       "Name": "Hornet Lock On",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Award_Specialized",
@@ -458,7 +463,7 @@
       "Name": "Specialized",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Award_SplashDamage",
@@ -466,7 +471,7 @@
       "Name": "Splash Damage",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Award_Stunning",
@@ -498,7 +503,7 @@
       "Name": "The First Step",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Award_ThirtyBirds",
@@ -529,7 +534,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 1
     }
   ],
@@ -537,8 +542,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-07T13:11:13.5646509+00:00",
+  "LastChanged_Achievements": "2023-06-07T14:02:29.2714773+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:28.8451881+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:07:47.9332757+00:00",
-  "LastUpdate_Achievements": "2023-06-07T13:11:13.56468+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:58:46.0651218+00:00",
+  "LastUpdate_Achievements": "2023-06-07T14:02:29.2715129+00:00"
 }

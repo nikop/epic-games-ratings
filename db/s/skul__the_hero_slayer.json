@@ -842,9 +842,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7665,
+  "EOS_Progressed": 7666,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2392,6 +2392,11 @@
       "Time": "2023-06-07T13:15:25.7209981+00:00",
       "NumProgressed": 7665,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-07T14:06:45.9790137+00:00",
+      "NumProgressed": 7666,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2403,7 +2408,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "Chatterbox",
@@ -2427,7 +2432,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2515,7 +2520,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2989
+      "UsersEstimate": 2990
     },
     {
       "ID": "RookieWelcome",
@@ -2531,7 +2536,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2539,7 +2544,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "SkeletonKing",
@@ -2555,7 +2560,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "TheLegendBegins",
@@ -2563,7 +2568,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7128
+      "UsersEstimate": 7129
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2587,22 +2592,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6362
+      "UsersEstimate": 6363
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7665,
+      "Progressed": 7666,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
-  "LastChanged_Achievements": "2023-06-07T13:15:25.7209975+00:00",
+  "LastChanged_Achievements": "2023-06-07T14:06:45.9790133+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:08:36.0573493+00:00",
-  "LastUpdate_Achievements": "2023-06-07T13:15:25.7210191+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:59:38.4746717+00:00",
+  "LastUpdate_Achievements": "2023-06-07T14:06:45.9790379+00:00"
 }

@@ -1,29 +1,29 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.13 (Ranked 866)  
+Rating: 4.13 (Ranked 865)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 74.00% | ~3,064 |
-| Hey Good Hookin | 64.00% | ~2,650 |
+| Fish Just Got Reel | 74.00% | ~3,065 |
+| Hey Good Hookin | 64.00% | ~2,651 |
 | I'm on a Boat! | 55.00% | ~2,278 |
 | Can you smell what the Rod is Hooking | 48.00% | ~1,988 |
 | Scaling up | 48.00% | ~1,988 |
-| Ready to Rod and Roll | 40.00% | ~1,656 |
+| Ready to Rod and Roll | 40.00% | ~1,657 |
 | More Fish in the Sea | 39.00% | ~1,615 |
 | License to Gill | 32.00% | ~1,325 |
 | Fish Out of Water | 31.00% | ~1,284 |
-| Things that go Splash in the Night | 26.00% | ~1,077 |
 | Goldfish? | 26.00% | ~1,077 |
-| Going for Gold | 23.00% | ~952 |
+| Things that go Splash in the Night | 25.00% | ~1,036 |
+| Going for Gold | 23.00% | ~953 |
 | I'm Hooked! | 17.00% | ~704 |
 | More than a Tourist | 12.00% | ~497 |
 | Diamond in the Rough | 12.00% | ~497 |
 | Hook, Line and Sinker | 7.00% | ~290 |
 | Marathon | 7.00% | ~290 |
-| Big Fish Small Pond | 6.00% | ~248 |
+| Big Fish Small Pond | 6.00% | ~249 |
 | I'm the Captain Now | 5.00% | ~207 |
 | School's Out for Summer | 4.00% | ~166 |
 | Gonna Need a Bigger Boat | 3.00% | ~124 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,141 (Ranked 132)  
+Progressed: 4,142 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 4,074 | 0 |
 | 2023-06-05 | 4,106 | 0 |
 | 2023-06-06 | 4,131 | 0 |
-| 2023-06-07 | 4,141 | 0 |
+| 2023-06-07 | 4,142 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 439)  
 Sum: 158 (Ranked 379)  

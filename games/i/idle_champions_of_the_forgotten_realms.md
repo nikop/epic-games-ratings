@@ -77,6 +77,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~180 |
 | A Steadfast Love | 0.20% | ~113 |
 | The Fairy Rings of Thither | 0.20% | ~113 |
+| Zarak's Revenge | 0.20% | ~113 |
 | Bully for You! | 0.20% | ~113 |
 | Wet Feet | 0.20% | ~180 |
 | Hatchlings Underfoot | 0.20% | ~180 |
@@ -112,6 +113,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Xanathaaaaaaar! | 0.20% | ~113 |
 | Homecoming | 0.20% | ~180 |
 | The Lost Heir of Omu | 0.20% | ~180 |
+| Lobsterfolk Assault | 0.20% | ~180 |
 | The Minions of Endelyn Moongrave | 0.20% | ~113 |
 | Love Unsoiled | 0.20% | ~113 |
 | The Bitter End | 0.20% | ~113 |
@@ -148,6 +150,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.20% | ~180 |
 | Attack on the Manor | 0.20% | ~180 |
 | The Trepidatious Trio | 0.20% | ~180 |
+| Our Time To Shine | 0.20% | ~180 |
 | Treasure Hunters | 0.20% | ~180 |
 | The Guardian of Orolunga | 0.20% | ~180 |
 | The Lost Love | 0.20% | ~180 |
@@ -245,7 +248,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slack-jawed Lorna | 0.10% | ~56 |
 | I'm Sure I Saw It Move! | 0.10% | ~56 |
 | End of the Line | 0.10% | ~56 |
-| Zarak's Revenge | 0.10% | ~56 |
 | The Dark Heart | 0.10% | ~56 |
 | Undergeared | 0.10% | ~56 |
 | Underdark Chill | 0.10% | ~56 |
@@ -278,7 +280,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Struggling Toward Omu | 0.10% | ~90 |
 | Wagon Train | 0.10% | ~90 |
 | Not Very Charming | 0.10% | ~90 |
-| Lobsterfolk Assault | 0.10% | ~90 |
 | Taking Responsibility | 0.10% | ~90 |
 | Between a Brigganock and a Hard Place | 0.10% | ~56 |
 | The Play's the Thing! | 0.10% | ~56 |
@@ -315,7 +316,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Strahd Squad | 0.10% | ~56 |
 | House of Darkness | 0.10% | ~90 |
 | Home Not So Alone | 0.10% | ~56 |
-| Our Time To Shine | 0.10% | ~90 |
 | Review by the Blackstaff | 0.10% | ~56 |
 | Think Your Way Out Of It | 0.10% | ~90 |
 | Air's Getting Pretty Thin | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,019 (Ranked 62)  
+Progressed: 90,022 (Ranked 62)  
 Completed: 1,922 (2.14%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1,922 (2.14%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 90,019 | 1,922 |
+| 2023-06-07 | 90,022 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

@@ -6,24 +6,24 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~9,794 |
-| Settler | 82.00% | ~9,676 |
-| Explorer | 79.00% | ~9,322 |
-| Friendly Family | 76.00% | ~8,968 |
-| Intrepid | 70.00% | ~8,260 |
-| Architect | 61.00% | ~7,198 |
-| Mason | 61.00% | ~7,198 |
-| Able | 60.00% | ~7,080 |
-| Strong | 60.00% | ~7,080 |
-| Hanging Gardens | 59.00% | ~6,962 |
-| Noble | 58.00% | ~6,844 |
-| Oracle | 58.00% | ~6,844 |
-| Good | 56.00% | ~6,608 |
-| Judaism | 55.00% | ~6,490 |
-| Just | 54.00% | ~6,372 |
-| Keystone | 54.00% | ~6,372 |
-| Glorious | 52.00% | ~6,136 |
-| Trade Caravan | 52.00% | ~6,136 |
+| Play a Single Player Game | 83.00% | ~9,795 |
+| Settler | 82.00% | ~9,677 |
+| Explorer | 79.00% | ~9,323 |
+| Friendly Family | 76.00% | ~8,969 |
+| Intrepid | 70.00% | ~8,261 |
+| Architect | 61.00% | ~7,199 |
+| Mason | 61.00% | ~7,199 |
+| Able | 60.00% | ~7,081 |
+| Strong | 60.00% | ~7,081 |
+| Hanging Gardens | 59.00% | ~6,963 |
+| Noble | 58.00% | ~6,845 |
+| Oracle | 58.00% | ~6,845 |
+| Good | 56.00% | ~6,609 |
+| Judaism | 55.00% | ~6,491 |
+| Just | 54.00% | ~6,373 |
+| Keystone | 54.00% | ~6,373 |
+| Glorious | 52.00% | ~6,137 |
+| Trade Caravan | 52.00% | ~6,137 |
 | Naming Landmarks | 50.00% | ~5,900 |
 | Learned | 49.00% | ~5,782 |
 | Zoroastrianism | 49.00% | ~5,782 |
@@ -31,10 +31,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 48.00% | ~5,664 |
 | Developing Cities | 48.00% | ~5,664 |
 | Magnificent | 46.00% | ~5,428 |
-| Warrior | 45.00% | ~5,310 |
 | Strong Cities | 45.00% | ~5,310 |
 | Pyramids | 45.00% | ~5,310 |
 | Greek Paganism | 45.00% | ~5,310 |
+| Warrior | 44.00% | ~5,192 |
 | Ishtar Gate | 44.00% | ~5,192 |
 | Babylonian Paganism | 43.00% | ~5,074 |
 | Enlightened | 42.00% | ~4,956 |
@@ -127,9 +127,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 13.00% | ~1,534 |
 | Peacemaker | 13.00% | ~1,534 |
 | Clerics | 13.00% | ~1,534 |
-| Cataphract Archer | 13.00% | ~1,534 |
 | Egypt | 12.00% | ~1,416 |
 | One True Faith | 12.00% | ~1,416 |
+| Cataphract Archer | 12.00% | ~1,416 |
 | All Nations | 12.00% | ~1,416 |
 | Ishtar Gate in Babylon | 11.00% | ~1,298 |
 | Ready | 11.00% | ~1,298 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~12 |
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,800 (Ranked 106)  
+Progressed: 11,801 (Ranked 106)  
 Completed: 3 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 3 (0.03%) (Ranked 190)
 | 2023-06-04 | 11,741 | 3 |
 | 2023-06-05 | 11,769 | 3 |
 | 2023-06-06 | 11,792 | 3 |
-| 2023-06-07 | 11,800 | 3 |
+| 2023-06-07 | 11,801 | 3 |
 ## Awards
 Max (Relaxing): 217  (Ranked 252)  
 Sum: 1,766 (Ranked 199)  

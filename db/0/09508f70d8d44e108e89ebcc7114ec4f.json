@@ -583,9 +583,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "fish_trade",
@@ -719,9 +719,9 @@
       "ID": "wood",
       "SetID": "ap7g2g4",
       "Name": "Wood",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     }
   ],
   "AchievementSets": [
@@ -734,8 +734,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-07T13:12:32.351013+00:00",
+  "LastChanged_Achievements": "2023-06-07T14:03:50.7279885+00:00",
   "LastUpdate_AppInfo": "2023-06-01T11:57:15.3558567+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:06:24.6287336+00:00",
-  "LastUpdate_Achievements": "2023-06-07T13:12:32.3510325+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:57:14.5324211+00:00",
+  "LastUpdate_Achievements": "2023-06-07T14:03:50.7281428+00:00"
 }

@@ -25,9 +25,50 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "0",
+      "SetID": "590mlci",
+      "Name": "5 Laps",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1",
+      "SetID": "590mlci",
+      "Name": "10 Laps",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "590mlci",
+      "Name": "20 Laps",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "590mlci",
+      "Name": "30 Laps",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "590mlci",
+      "Name": "50 Laps",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "590mlci",
@@ -37,8 +78,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-03T20:00:52.0985709+00:00",
-  "LastChanged_Achievements": "2023-06-07T13:12:27.6234572+00:00",
+  "LastChanged_Achievements": "2023-06-07T14:03:45.7328574+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:15.3118802+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:06:36.9198475+00:00",
-  "LastUpdate_Achievements": "2023-06-07T13:12:27.6234599+00:00"
+  "LastUpdate_Ratings": "2023-06-07T13:57:27.853318+00:00",
+  "LastUpdate_Achievements": "2023-06-07T14:03:45.7328662+00:00"
 }

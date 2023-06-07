@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Clean Sweep | 94.00% | ~352 |
-| Scavenger | 75.00% | ~280 |
-| Line of Duty | 72.00% | ~269 |
-| Gunner | 56.00% | ~209 |
+| Scavenger | 75.00% | ~281 |
+| Line of Duty | 72.00% | ~270 |
+| Gunner | 56.00% | ~210 |
 | DocKing | 46.00% | ~172 |
 | What-A-Shot | 44.00% | ~165 |
 | Batteries Included | 39.00% | ~146 |
-| Death from Above | 37.00% | ~138 |
+| Death from Above | 37.00% | ~139 |
 | Hull King | 27.00% | ~101 |
 | Boss Down | 20.00% | ~75 |
 | Extra Ammo | 20.00% | ~75 |
-| Splash Damage | 18.00% | ~67 |
+| Splash Damage | 18.00% | ~68 |
 | Hazardous Duty | 17.00% | ~64 |
 | Perky | 16.00% | ~60 |
 | Perk King | 11.00% | ~41 |
 | Salvage | 11.00% | ~41 |
 | Shocking | 11.00% | ~41 |
-| Perfect Timing | 10.00% | ~37 |
-| Sixty Seconds | 10.00% | ~37 |
+| Perfect Timing | 10.00% | ~38 |
+| Sixty Seconds | 10.00% | ~38 |
 | Killer Elite | 6.00% | ~22 |
 | Bumper Car | 5.00% | ~19 |
 | First Victory | 5.00% | ~19 |
@@ -31,13 +31,13 @@
 | The Disruptor | 4.00% | ~15 |
 | Early Bird | 3.00% | ~11 |
 | Swiss Cheese | 3.00% | ~11 |
-| Heavy Metal | 2.00% | ~7 |
-| Mister Fix It | 2.00% | ~7 |
-| Power Up | 2.00% | ~7 |
-| Shell Shock | 2.00% | ~7 |
-| Hornet Lock On | 2.00% | ~7 |
-| Specialized | 2.00% | ~7 |
-| The First Step | 2.00% | ~7 |
+| Heavy Metal | 2.00% | ~8 |
+| Mister Fix It | 2.00% | ~8 |
+| Power Up | 2.00% | ~8 |
+| Shell Shock | 2.00% | ~8 |
+| Hornet Lock On | 2.00% | ~8 |
+| Specialized | 2.00% | ~8 |
+| The First Step | 2.00% | ~8 |
 | Having a Blast | 1.00% | ~4 |
 | The Cannoneer | 1.00% | ~4 |
 | Demolition Derby | 0.80% | ~3 |
@@ -49,7 +49,7 @@
 | Burn Them | 0.30% | ~1 |
 | Final Ascension | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 374 (Ranked 214)  
+Progressed: 375 (Ranked 214)  
 Completed: 1 (0.27%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 1 (0.27%) (Ranked 136)
 | 2023-06-03 | 370 | 1 |
 | 2023-06-04 | 372 | 1 |
 | 2023-06-06 | 374 | 1 |
+| 2023-06-07 | 375 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

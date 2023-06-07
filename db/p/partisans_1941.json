@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 991,
+  "EOS_Progressed": 992,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -950,6 +950,11 @@
       "Time": "2023-06-07T10:06:13.907919+00:00",
       "NumProgressed": 991,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-07T14:07:08.0041742+00:00",
+      "NumProgressed": 992,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1033,7 +1038,7 @@
       "Name": "Lock, Stock",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "E1M1",
@@ -1041,7 +1046,7 @@
       "Name": "E1M1",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Everyone_is_here",
@@ -1073,7 +1078,7 @@
       "Name": "Grenadier",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "Hard_Serpent",
@@ -1177,7 +1182,7 @@
       "Name": "War Never Changes",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "We_were_not_here",
@@ -1200,15 +1205,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 991,
+      "Progressed": 992,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-07T13:15:47.0530935+00:00",
+  "LastChanged_Achievements": "2023-06-07T14:07:08.0041735+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
-  "LastUpdate_Ratings": "2023-06-07T13:08:57.0098482+00:00",
-  "LastUpdate_Achievements": "2023-06-07T13:15:47.0531127+00:00"
+  "LastUpdate_Ratings": "2023-06-07T14:00:01.9459311+00:00",
+  "LastUpdate_Achievements": "2023-06-07T14:07:08.0042008+00:00"
 }
