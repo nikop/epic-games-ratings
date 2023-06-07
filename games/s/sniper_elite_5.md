@@ -47,10 +47,10 @@ Rating: 4.45 (Ranked 616)
 | Operation Foxley | 1.00% | ~23 |
 | Tinkerer | 0.90% | ~21 |
 | Ghost of Falaise | 0.80% | ~18 |
+| Last Resort | 0.70% | ~16 |
 | Siegebreaker | 0.70% | ~16 |
 | From Paris with Love | 0.60% | ~14 |
 | Burn after reading | 0.60% | ~14 |
-| Last Resort | 0.60% | ~14 |
 | Souvenir hunter | 0.50% | ~12 |
 | Eagle Eyed | 0.40% | ~9 |
 | Up close and personal | 0.40% | ~9 |

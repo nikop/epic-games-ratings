@@ -6,8 +6,8 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 202,
-  "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.14,
+  "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -274,6 +274,11 @@
       "Time": "2023-06-06T15:07:19.9115528+00:00",
       "NumProgressed": 440,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-07T07:06:40.6995153+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -307,9 +312,9 @@
       "ID": "Caring_Soul",
       "SetID": "ek310c",
       "Name": "Bosom Buddies",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 128
     },
     {
       "ID": "Doors_Closing",
@@ -381,7 +386,7 @@
       "Name": "Short Circuit",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Illustrator",
@@ -419,9 +424,9 @@
       "ID": "MISSING_DATA",
       "SetID": "ek310c",
       "Name": "Does Not Compute",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "Misanthrope",
@@ -461,7 +466,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Paparazzi",
@@ -516,7 +521,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 5
     }
   ],
@@ -524,8 +529,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-06-07T06:05:54.6967581+00:00",
+  "LastChanged_Achievements": "2023-06-07T07:06:40.6995147+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:03.082578+00:00",
-  "LastUpdate_Ratings": "2023-06-07T05:59:58.8907907+00:00",
-  "LastUpdate_Achievements": "2023-06-07T06:05:54.6967807+00:00"
+  "LastUpdate_Ratings": "2023-06-07T07:00:57.6346129+00:00",
+  "LastUpdate_Achievements": "2023-06-07T07:06:40.6995338+00:00"
 }

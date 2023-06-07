@@ -4,7 +4,7 @@
   "ProductSlug": "ghostwire-tokyo-prelude",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-03-08T18:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:41.9905058+00:00",
   "LastChanged": "2023-03-31T05:58:41.990506+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:39.7336767+00:00",
-  "LastUpdate_Ratings": "2023-06-07T05:59:00.3254907+00:00",
-  "LastUpdate_Achievements": "2023-06-07T06:04:52.5717785+00:00"
+  "LastUpdate_Ratings": "2023-06-07T06:59:40.2438705+00:00",
+  "LastUpdate_Achievements": "2023-06-07T07:05:26.0124461+00:00"
 }

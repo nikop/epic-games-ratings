@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244318,
+  "EOS_Progressed": 244320,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4469,6 +4469,11 @@
       "Time": "2023-06-07T05:06:16.0448353+00:00",
       "NumProgressed": 244318,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-07T07:06:31.1249681+00:00",
+      "NumProgressed": 244320,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -4576,7 +4581,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 43977
+      "UsersEstimate": 43978
     },
     {
       "ID": "curator",
@@ -4656,7 +4661,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129489
+      "UsersEstimate": 129490
     },
     {
       "ID": "indegestible",
@@ -4696,7 +4701,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19545
+      "UsersEstimate": 19546
     },
     {
       "ID": "lockupLockdown",
@@ -4720,7 +4725,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 122159
+      "UsersEstimate": 122160
     },
     {
       "ID": "notScared",
@@ -4800,7 +4805,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 31761
+      "UsersEstimate": 31762
     },
     {
       "ID": "treeMedalist",
@@ -4847,7 +4852,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 244318,
+      "Progressed": 244320,
       "Completed": 2
     }
   ],
@@ -4855,8 +4860,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-07T06:05:46.4166269+00:00",
+  "LastChanged_Achievements": "2023-06-07T07:06:31.1249675+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:32.0631758+00:00",
-  "LastUpdate_Ratings": "2023-06-07T05:58:52.3652258+00:00",
-  "LastUpdate_Achievements": "2023-06-07T06:05:46.4166871+00:00"
+  "LastUpdate_Ratings": "2023-06-07T06:59:31.4809457+00:00",
+  "LastUpdate_Achievements": "2023-06-07T07:06:31.1250152+00:00"
 }

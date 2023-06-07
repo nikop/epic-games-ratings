@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,614 |
-| That's a Grand Army | 8.00% | ~4,101 |
-| That is mine! | 8.00% | ~4,101 |
-| Victorious! | 8.00% | ~4,101 |
-| Brothers in Arms | 6.00% | ~3,076 |
-| That's a Grand Navy | 6.00% | ~3,076 |
-| Seriously?! | 6.00% | ~3,076 |
-| For the Glory | 5.00% | ~2,563 |
+| Until death do us apart | 9.00% | ~4,616 |
+| That's a Grand Army | 8.00% | ~4,103 |
+| That is mine! | 8.00% | ~4,103 |
+| Victorious! | 8.00% | ~4,103 |
+| Brothers in Arms | 6.00% | ~3,077 |
+| That's a Grand Navy | 6.00% | ~3,077 |
+| Seriously?! | 6.00% | ~3,077 |
+| For the Glory | 5.00% | ~2,564 |
 | Cold War | 4.00% | ~2,051 |
 | True Catholic | 4.00% | ~2,051 |
-| Defender of the Faith | 3.00% | ~1,538 |
-| It's all about the money | 3.00% | ~1,538 |
-| Respected | 3.00% | ~1,538 |
-| Truly Divine Ruler | 3.00% | ~1,538 |
-| Agressive Expander | 2.00% | ~1,025 |
-| Blockader | 2.00% | ~1,025 |
-| Combined Arms | 2.00% | ~1,025 |
-| Double the Love | 2.00% | ~1,025 |
-| Gentle Persuasion | 2.00% | ~1,025 |
-| It's all about luck | 2.00% | ~1,025 |
-| My armies are invincible! | 2.00% | ~1,025 |
-| Queen of Conquest | 2.00% | ~1,025 |
-| Royal Authority | 2.00% | ~1,025 |
-| The Princess is in this Castle | 2.00% | ~1,025 |
-| Total Control | 2.00% | ~1,025 |
+| Defender of the Faith | 3.00% | ~1,539 |
+| It's all about the money | 3.00% | ~1,539 |
+| Respected | 3.00% | ~1,539 |
+| Truly Divine Ruler | 3.00% | ~1,539 |
+| Agressive Expander | 2.00% | ~1,026 |
+| Blockader | 2.00% | ~1,026 |
+| Combined Arms | 2.00% | ~1,026 |
+| Double the Love | 2.00% | ~1,026 |
+| Gentle Persuasion | 2.00% | ~1,026 |
+| It's all about luck | 2.00% | ~1,026 |
+| My armies are invincible! | 2.00% | ~1,026 |
+| Queen of Conquest | 2.00% | ~1,026 |
+| Royal Authority | 2.00% | ~1,026 |
+| The Princess is in this Castle | 2.00% | ~1,026 |
+| Total Control | 2.00% | ~1,026 |
 | All That's Thine Shall Be Mine | 1.00% | ~513 |
 | Azur semé de lis or | 1.00% | ~513 |
 | Bright Spark | 1.00% | ~513 |
@@ -38,10 +38,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~513 |
 | A Golden Empire | 1.00% | ~513 |
 | This navy can take it all | 1.00% | ~513 |
-| The Emperors new clothes | 0.90% | ~461 |
-| Isn't this the way to India? | 0.90% | ~461 |
-| Market Control | 0.90% | ~461 |
-| The Five Colonies | 0.90% | ~461 |
+| The Emperors new clothes | 0.90% | ~462 |
+| Isn't this the way to India? | 0.90% | ~462 |
+| Market Control | 0.90% | ~462 |
+| The Five Colonies | 0.90% | ~462 |
 | Down Under | 0.80% | ~410 |
 | Trustworthy | 0.70% | ~359 |
 | All belongs to Mother Russia | 0.60% | ~308 |
@@ -300,6 +300,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tiger of Mysore | 0.10% | ~51 |
 | Trade Hegemon | 0.10% | ~51 |
 | Triple the Rome | 0.10% | ~51 |
+| True Heir of Timur | 0.10% | ~51 |
 | Turning the Tide | 0.10% | ~51 |
 | Turtles all the way down | 0.10% | ~51 |
 | Ultimate Military | 0.10% | ~51 |
@@ -353,7 +354,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Freest Man in the World | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
-| True Heir of Timur | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | Turn the Table | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,266 (Ranked 78)  
+Progressed: 51,284 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 50,194 | 0 |
 | 2023-06-05 | 50,691 | 0 |
 | 2023-06-06 | 51,193 | 0 |
-| 2023-06-07 | 51,266 | 0 |
+| 2023-06-07 | 51,284 | 0 |
 ## Awards
 Max (Educational): 5,351  (Ranked 61)  
 Sum: 44,211 (Ranked 27)  

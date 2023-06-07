@@ -4138,7 +4138,7 @@
       "Count": 3246
     }
   ],
-  "EOS_Progressed": 90001,
+  "EOS_Progressed": 90004,
   "EOS_Completed": 1922,
   "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 22,
@@ -8968,6 +8968,11 @@
       "Time": "2023-06-07T06:06:04.2436439+00:00",
       "NumProgressed": 90001,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-06-07T07:06:51.0929629+00:00",
+      "NumProgressed": 90004,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 493,
@@ -9745,9 +9750,9 @@
       "ID": "objective_completed_1179",
       "SetID": "415jc5c",
       "Name": "To Avernus in a Handbasket",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_1180",
@@ -10233,9 +10238,9 @@
       "ID": "objective_completed_172",
       "SetID": "415jc5c",
       "Name": "The Newcomers of Notoriety",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_179",
@@ -10769,9 +10774,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 540
     },
     {
       "ID": "objective_completed_390",
@@ -12891,7 +12896,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "objective_completed_1356",
@@ -12922,21 +12927,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56275,
+      "Progressed": 56278,
       "Completed": 2775
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90001,
+      "Progressed": 90004,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-06T13:58:26.881905+00:00",
-  "LastChanged_Achievements": "2023-06-07T06:06:04.2436433+00:00",
+  "LastChanged_Achievements": "2023-06-07T07:06:51.0929624+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-07T05:57:57.0285517+00:00",
-  "LastUpdate_Achievements": "2023-06-07T06:06:04.2460092+00:00"
+  "LastUpdate_Ratings": "2023-06-07T06:58:22.6904605+00:00",
+  "LastUpdate_Achievements": "2023-06-07T07:06:51.0951739+00:00"
 }

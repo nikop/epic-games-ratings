@@ -6,14 +6,14 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~18,319 |
-| Landlord | 30.00% | ~15,702 |
-| Bannerlord | 21.00% | ~10,991 |
-| Horde breaker | 21.00% | ~10,991 |
-| Lawmaker | 21.00% | ~10,991 |
-| Trained | 20.00% | ~10,468 |
-| King Solomon | 16.00% | ~8,374 |
-| The king is pleased | 16.00% | ~8,374 |
+| Lawbringer | 35.00% | ~18,320 |
+| Landlord | 30.00% | ~15,703 |
+| Bannerlord | 21.00% | ~10,992 |
+| Horde breaker | 21.00% | ~10,992 |
+| Lawmaker | 21.00% | ~10,992 |
+| Trained | 20.00% | ~10,469 |
+| King Solomon | 16.00% | ~8,375 |
+| The king is pleased | 16.00% | ~8,375 |
 | Apple of my eye | 14.00% | ~7,328 |
 | I can do it | 14.00% | ~7,328 |
 | God of the Arena | 12.00% | ~6,281 |
@@ -25,7 +25,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | What have the Romans ever done for us? | 8.00% | ~4,187 |
 | Butterlord | 7.00% | ~3,664 |
 | This Is Our Land | 7.00% | ~3,664 |
-| Mastery | 6.00% | ~3,140 |
+| Mastery | 6.00% | ~3,141 |
 | Know your enemy | 5.00% | ~2,617 |
 | Crowdfunded | 4.00% | ~2,094 |
 | Crush your enemies | 4.00% | ~2,094 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,340 (Ranked 77)  
+Progressed: 52,343 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,16 +106,16 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 52,108 | 0 |
 | 2023-06-05 | 52,211 | 0 |
 | 2023-06-06 | 52,322 | 0 |
-| 2023-06-07 | 52,340 | 0 |
+| 2023-06-07 | 52,343 | 0 |
 ## Awards
 Max (Character Customization): 6,636  (Ranked 49)  
-Sum: 13,308 (Ranked 67)  
+Sum: 13,312 (Ranked 67)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,636 |
 | This game is Great for Beginners | 843 |
-| This game has Diverse Characters | 816 |
+| This game has Diverse Characters | 820 |
 | This game is Highly Recommended | 789 |
 | This game is Extremely Fun | 756 |
 | This game has Amazing Storytelling | 743 |
@@ -271,4 +271,4 @@ Diff (max vs sum): -18
 | 2023-06-04 | 4.74 | - | 6,631 | 13,282 |
 | 2023-06-05 | 4.74 | - | 6,631 | 13,291 |
 | 2023-06-06 | 4.74 | - | 6,636 | 13,306 |
-| 2023-06-07 | 4.74 | - | 6,636 | 13,308 |
+| 2023-06-07 | 4.74 | - | 6,636 | 13,312 |

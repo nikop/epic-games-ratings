@@ -10,14 +10,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 1.00% | ~900 |
 | Beast Intentions | 0.90% | ~810 |
 | The Mad Wizard | 0.90% | ~810 |
-| The Court of Storms | 0.90% | ~506 |
+| The Court of Storms | 0.90% | ~507 |
 | The Ring of Regeneration | 0.70% | ~630 |
 | Beware the Jabberwock | 0.70% | ~394 |
 | Were-verpowered | 0.60% | ~540 |
+| Seeking Allies | 0.60% | ~540 |
 | Are Ya Chicken? | 0.60% | ~540 |
 | Coasting to the Finish | 0.60% | ~338 |
 | A Persistent Buzzing | 0.50% | ~450 |
-| Seeking Allies | 0.50% | ~450 |
 | Mad Cow Disease | 0.50% | ~450 |
 | Friendly Imps | 0.50% | ~450 |
 | Pure Energy | 0.50% | ~450 |
@@ -96,6 +96,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.20% | ~113 |
 | Arcane Efforts | 0.20% | ~113 |
 | Heatwave | 0.20% | ~113 |
+| To Avernus in a Handbasket | 0.20% | ~113 |
 | The Dread Domain of Tovag | 0.20% | ~113 |
 | Weak Doesn't Mean Feeble | 0.20% | ~113 |
 | The Castle of a Thousand Vecnas | 0.20% | ~113 |
@@ -124,6 +125,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~180 |
 | Wisdom Check | 0.20% | ~180 |
 | Sleuth It Out | 0.20% | ~180 |
+| The Newcomers of Notoriety | 0.20% | ~113 |
 | A Grand Puzzle | 0.20% | ~180 |
 | Tomb of the Nine Gods | 0.20% | ~180 |
 | The Mists of Ravenloft | 0.20% | ~180 |
@@ -266,7 +268,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.10% | ~90 |
 | Well Equipped | 0.10% | ~56 |
 | Friends of the Forest | 0.10% | ~90 |
-| To Avernus in a Handbasket | 0.10% | ~56 |
 | Kas the Destroyer | 0.10% | ~56 |
 | Clowning Around | 0.10% | ~56 |
 | A Whale of a Time | 0.10% | ~56 |
@@ -284,7 +285,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fall From Grace | 0.10% | ~90 |
 | Double Vision | 0.10% | ~90 |
 | Underground Railroad | 0.10% | ~90 |
-| The Newcomers of Notoriety | 0.10% | ~56 |
 | Never Split the Party | 0.10% | ~90 |
 | Azaka's Procession - Part 1 | 0.10% | ~90 |
 | Snakes on our Plane | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,001 (Ranked 62)  
+Progressed: 90,004 (Ranked 62)  
 Completed: 1,922 (2.14%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1,922 (2.14%) (Ranked 65)
 | 2023-06-04 | 89,809 | 1,915 |
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
-| 2023-06-07 | 90,001 | 1,922 |
+| 2023-06-07 | 90,004 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,044 (Ranked 37)  

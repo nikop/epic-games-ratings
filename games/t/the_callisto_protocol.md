@@ -6,13 +6,13 @@ Rating: 4.18 (Ranked 840)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 12.00% | ~1,758 |
-| The Outer Way | 11.00% | ~1,611 |
+| The Outer Way | 11.00% | ~1,612 |
 | Desperate Times | 10.00% | ~1,465 |
 | Paper Jams | 9.00% | ~1,318 |
 | Chew 'Em Up | 8.00% | ~1,172 |
 | Reforged | 8.00% | ~1,172 |
-| Workplace Hazard | 7.00% | ~1,025 |
-| If the SHU Fits... | 7.00% | ~1,025 |
+| Workplace Hazard | 7.00% | ~1,026 |
+| If the SHU Fits... | 7.00% | ~1,026 |
 | Giving Back | 6.00% | ~879 |
 | Get a Grip | 6.00% | ~879 |
 | Without A Paddle | 6.00% | ~879 |
@@ -24,10 +24,10 @@ Rating: 4.18 (Ranked 840)
 | Power Up | 4.00% | ~586 |
 | Instigator | 4.00% | ~103 |
 | Big Game Hunter | 4.00% | ~103 |
-| You Need a Gun | 3.00% | ~439 |
-| The Commonality | 3.00% | ~439 |
-| What Lies Beneath | 3.00% | ~439 |
-| Full Circle | 3.00% | ~439 |
+| You Need a Gun | 3.00% | ~440 |
+| The Commonality | 3.00% | ~440 |
+| What Lies Beneath | 3.00% | ~440 |
+| Full Circle | 3.00% | ~440 |
 | Bear Trap | 3.00% | ~77 |
 | I Do Belong Here | 2.00% | ~293 |
 | In Striking Distance | 2.00% | ~293 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,649 (Ranked 103)  
+Progressed: 14,650 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 54 (0.37%) (Ranked 118)
 | 2023-06-04 | 14,505 | 53 |
 | 2023-06-05 | 14,579 | 54 |
 | 2023-06-06 | 14,637 | 54 |
-| 2023-06-07 | 14,649 | 54 |
+| 2023-06-07 | 14,650 | 54 |
 ## Awards
 Max (Amazing Storytelling): 51  (Ranked 387)  
 Sum: 294 (Ranked 328)  

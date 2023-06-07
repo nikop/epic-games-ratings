@@ -32,10 +32,10 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 33.00% | ~9 |
 | The Statuette of Gladeulfeurah | 30.00% | ~8 |
 | A tale of adventurers not quite like the others... | 30.00% | ~8 |
+| Torture and Sensibility | 26.00% | ~7 |
 | The Famous Dungeon of Naheulbeuk | 26.00% | ~7 |
 | Cursed die | 22.00% | ~6 |
 | The Great Library | 22.00% | ~6 |
-| Torture and Sensibility | 22.00% | ~6 |
 | In Navalu's footsteps | 22.00% | ~6 |
 | The Blood Countess | 19.00% | ~5 |
 | He’s alive! Aliiiive! | 19.00% | ~5 |

@@ -19,11 +19,11 @@
 | St. George's Gauntlet | 11.00% | ~9 |
 | BJ & The Bear | 9.00% | ~7 |
 | Mr. Magic | 9.00% | ~7 |
+| Who dat? | 8.00% | ~6 |
 | Soft Hands | 8.00% | ~6 |
 | Egg On His Face | 6.00% | ~5 |
-| Who dat? | 6.00% | ~5 |
+| Batteries not Included | 6.00% | ~5 |
 | Can't bear the weight | 5.00% | ~4 |
-| Batteries not Included | 5.00% | ~4 |
 | Master Cave Plunderer | 5.00% | ~4 |
 | What a Winner! | 5.00% | ~4 |
 | Colossal Cave Explorer | 4.00% | ~3 |

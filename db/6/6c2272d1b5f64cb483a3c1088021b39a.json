@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1244,9 +1244,9 @@
       "ID": "tomb_raider_1",
       "SetID": "53c1p3k",
       "Name": "Tomb Raider 1",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "tomb_raider_2",
@@ -1275,8 +1275,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-07T06:03:21.773601+00:00",
+  "LastChanged_Achievements": "2023-06-07T07:03:22.8701267+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-07T05:57:05.6466267+00:00",
-  "LastUpdate_Achievements": "2023-06-07T06:03:21.7736672+00:00"
+  "LastUpdate_Ratings": "2023-06-07T06:57:15.8011482+00:00",
+  "LastUpdate_Achievements": "2023-06-07T07:03:22.8701765+00:00"
 }

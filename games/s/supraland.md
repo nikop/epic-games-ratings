@@ -1,32 +1,32 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 361)  
+Rating: 4.61 (Ranked 360)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~702,650 |
-| The Blues | 85.00% | ~603,285 |
-| Fast | 66.00% | ~468,433 |
-| Healthbar | 55.00% | ~390,361 |
-| Force Cube | 52.00% | ~369,068 |
-| Double Jump | 48.00% | ~340,679 |
-| Regeneration | 47.00% | ~333,581 |
-| Climb the hill | 42.00% | ~298,094 |
-| Triple Jump | 42.00% | ~298,094 |
-| Through the fire pipe | 38.00% | ~269,704 |
-| MacGuffin | 37.00% | ~262,606 |
-| Just once | 36.00% | ~255,509 |
-| Armor | 30.00% | ~212,924 |
+| Out of bed | 99.00% | ~702,652 |
+| The Blues | 85.00% | ~603,287 |
+| Fast | 66.00% | ~468,434 |
+| Healthbar | 55.00% | ~390,362 |
+| Force Cube | 52.00% | ~369,069 |
+| Double Jump | 48.00% | ~340,680 |
+| Regeneration | 47.00% | ~333,582 |
+| Climb the hill | 42.00% | ~298,095 |
+| Triple Jump | 42.00% | ~298,095 |
+| Through the fire pipe | 38.00% | ~269,705 |
+| MacGuffin | 37.00% | ~262,607 |
+| Just once | 36.00% | ~255,510 |
+| Armor | 30.00% | ~212,925 |
 | True holy spirit | 27.00% | ~191,632 |
-| That's how electronics work obviously | 26.00% | ~184,534 |
+| That's how electronics work obviously | 26.00% | ~184,535 |
 | Force Cube Catapult | 25.00% | ~177,437 |
 | Holy Sword | 23.00% | ~163,242 |
-| Telefrag | 22.00% | ~156,144 |
+| Telefrag | 22.00% | ~156,145 |
 | Freed from prison | 21.00% | ~149,047 |
 | Stomp | 21.00% | ~149,047 |
-| Double Health | 18.00% | ~127,754 |
+| Double Health | 18.00% | ~127,755 |
 | Buckle | 17.00% | ~120,657 |
 | Green Keycard | 17.00% | ~120,657 |
 | Rattle Hag | 15.00% | ~106,462 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~710 |
 | DLC: Top of the world | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,747 (Ranked 15)  
+Progressed: 709,749 (Ranked 15)  
 Completed: 695 (0.10%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 695 (0.10%) (Ranked 164)
 | 2023-06-04 | 709,359 | 694 |
 | 2023-06-05 | 709,551 | 694 |
 | 2023-06-06 | 709,726 | 695 |
-| 2023-06-07 | 709,747 | 695 |
+| 2023-06-07 | 709,749 | 695 |
 ## Awards
 Max (Challenging Puzzles): 7,618  (Ranked 40)  
 Sum: 9,915 (Ranked 79)  

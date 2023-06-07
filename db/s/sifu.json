@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4464,9 +4464,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 707779,
+  "EOS_Progressed": 707785,
   "EOS_Completed": 12763,
-  "EOS_NewPlayers": 1329,
+  "EOS_NewPlayers": 1333,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8849,6 +8849,11 @@
       "Time": "2023-06-07T06:05:55.348883+00:00",
       "NumProgressed": 707779,
       "NumCompleted": 12763
+    },
+    {
+      "Time": "2023-06-07T07:06:41.5036226+00:00",
+      "NumProgressed": 707785,
+      "NumCompleted": 12763
     }
   ],
   "TotalAchievements": 50,
@@ -9196,7 +9201,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -9228,7 +9233,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -9252,28 +9257,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17080,
+      "Progressed": 17086,
       "Completed": 10233
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707779,
+      "Progressed": 707785,
       "Completed": 12763
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-06T21:59:48.9479469+00:00",
-  "LastChanged_Achievements": "2023-06-07T06:05:55.3488825+00:00",
+  "LastChanged_Achievements": "2023-06-07T07:06:41.5036216+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-07T05:58:44.0130699+00:00",
-  "LastUpdate_Achievements": "2023-06-07T06:05:55.3489492+00:00"
+  "LastUpdate_Ratings": "2023-06-07T06:59:21.5606697+00:00",
+  "LastUpdate_Achievements": "2023-06-07T07:06:41.5036755+00:00"
 }

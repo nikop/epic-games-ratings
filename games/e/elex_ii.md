@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.28 (Ranked 775)  
+Rating: 4.29 (Ranked 770)  
 Number of Ratings: 124  (23.09.2022)  
 ## Awards
 | Award | Count |
@@ -101,3 +101,4 @@ Number of Ratings: 124  (23.09.2022)
 | 2023-05-03 | 4.28 | - | 0 | 0 |
 | 2023-05-30 | 4.29 | - | 0 | 0 |
 | 2023-06-02 | 4.28 | - | 0 | 0 |
+| 2023-06-07 | 4.29 | - | 0 | 0 |
