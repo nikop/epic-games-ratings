@@ -13,7 +13,7 @@
 | 11 | [Island Cities](games/i/island_cities.md) | 15.09% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
-| 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
+| 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 16 | [Without Escape](games/w/without_escape.md) | 10.00% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.94% |
@@ -69,7 +69,7 @@
 | 67 | [JARS](games/j/jars.md) | 1.92% |
 | 68 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 69 | [Sifu](games/s/sifu.md) | 1.80% |
-| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.68% |
+| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 1.67% |
 | 71 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.63% |
 | 73 | [Somerville](games/s/somerville.md) | 1.59% |
@@ -145,7 +145,7 @@
 | 141 | [Filament](games/f/filament.md) | 0.22% |
 | 144 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 144 | [Blanc](games/b/blanc.md) | 0.21% |
-| 146 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 144 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 147 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 147 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
 | 149 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
