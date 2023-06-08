@@ -21,10 +21,10 @@
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 20 | [Smelter](games/s/smelter.md) | 8.57% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.13% |
-| 22 | [Remains](games/r/remains.md) | 8.11% |
+| 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.54% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.64% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.11% |
 | 27 | [Scorn](games/s/scorn.md) | 6.89% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 6.71% |
@@ -55,8 +55,8 @@
 | 53 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
 | 54 | [Lamentum](games/l/lamentum.md) | 2.79% |
 | 55 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
-| 56 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.75% |
-| 57 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.74% |
+| 56 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.74% |
+| 57 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.73% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -114,7 +114,7 @@
 | 111 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 113 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 114 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 114 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
+| 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 117 | [Potion Permit](games/p/potion_permit.md) | 0.44% |
 | 118 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
@@ -171,13 +171,13 @@
 | 169 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
 | 169 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 169 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 172 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
 | 172 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 172 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
 | 172 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.08% |
 | 172 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 177 | [Shop Titans](games/s/shop_titans.md) | 0.07% |
-| 177 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 176 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
+| 176 | [Shop Titans](games/s/shop_titans.md) | 0.07% |
+| 176 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 179 | [House Party](games/h/house_party.md) | 0.06% |
 | 179 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 179 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
