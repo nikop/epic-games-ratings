@@ -1566,9 +1566,9 @@
       "Count": 206
     }
   ],
-  "EOS_Progressed": 19391,
+  "EOS_Progressed": 19392,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3961,6 +3961,11 @@
       "Time": "2023-06-08T02:26:34.1331447+00:00",
       "NumProgressed": 19391,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-08T03:19:48.6525183+00:00",
+      "NumProgressed": 19392,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4084,7 +4089,7 @@
       "Name": "Just Enough",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3490
+      "UsersEstimate": 3491
     },
     {
       "ID": "Negotiator",
@@ -4124,7 +4129,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3490
+      "UsersEstimate": 3491
     },
     {
       "ID": "Strongman",
@@ -4132,7 +4137,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6011
+      "UsersEstimate": 6012
     },
     {
       "ID": "VeronicaLiptson",
@@ -4155,15 +4160,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19391,
+      "Progressed": 19392,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-06T20:00:30.0103604+00:00",
-  "LastChanged_Achievements": "2023-06-08T02:26:34.133144+00:00",
+  "LastChanged_Achievements": "2023-06-08T03:19:48.6525178+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-08T02:20:09.9805836+00:00",
-  "LastUpdate_Achievements": "2023-06-08T02:26:34.1331746+00:00"
+  "LastUpdate_Ratings": "2023-06-08T03:13:16.1286284+00:00",
+  "LastUpdate_Achievements": "2023-06-08T03:19:48.6525503+00:00"
 }

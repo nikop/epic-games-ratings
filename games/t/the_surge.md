@@ -6,10 +6,10 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,096 |
-| I'll Be Back | 84.00% | ~3,660 |
-| Sorry, I Dropped This | 77.00% | ~3,355 |
-| First Day on the Job | 76.00% | ~3,311 |
+| On My Own Two Feet | 94.00% | ~4,097 |
+| I'll Be Back | 84.00% | ~3,661 |
+| Sorry, I Dropped This | 77.00% | ~3,356 |
+| First Day on the Job | 76.00% | ~3,312 |
 | Butcher's Bill | 54.00% | ~2,353 |
 | P.A.X | 37.00% | ~1,612 |
 | Hey Listen | 36.00% | ~1,569 |
@@ -18,7 +18,7 @@ Number of Ratings: 62  (23.09.2022)
 | Most Wanted | 26.00% | ~1,133 |
 | Infidel | 23.00% | ~1,002 |
 | GOLIATH | 21.00% | ~915 |
-| Firebug | 20.00% | ~871 |
+| Firebug | 20.00% | ~872 |
 | I Choose You | 17.00% | ~741 |
 | Nothing to Lose | 17.00% | ~741 |
 | Big Sister | 15.00% | ~654 |
@@ -67,14 +67,14 @@ Number of Ratings: 62  (23.09.2022)
 | End of Transmission | 2.00% | ~87 |
 | Gramophone Enthusiast | 2.00% | ~87 |
 | Bling-Bling | 1.00% | ~44 |
-| Sniffing Around | 0.70% | ~30 |
-| Suited and Booted | 0.70% | ~30 |
-| Tools of War | 0.70% | ~30 |
+| Sniffing Around | 0.70% | ~31 |
+| Suited and Booted | 0.70% | ~31 |
+| Tools of War | 0.70% | ~31 |
 | Modus Operandi | 0.60% | ~26 |
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,357 (Ranked 129)  
+Progressed: 4,358 (Ranked 129)  
 Completed: 13 (0.30%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 13 (0.30%) (Ranked 132)
 | 2023-06-05 | 4,340 | 13 |
 | 2023-06-06 | 4,348 | 13 |
 | 2023-06-07 | 4,355 | 13 |
-| 2023-06-08 | 4,357 | 13 |
+| 2023-06-08 | 4,358 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 462)  
 Sum: 26 (Ranked 470)  

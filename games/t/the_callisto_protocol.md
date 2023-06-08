@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~1,912 |
+| Flesh Wound | 13.00% | ~1,913 |
 | The Outer Way | 11.00% | ~1,618 |
 | Desperate Times | 11.00% | ~1,618 |
 | Paper Jams | 9.00% | ~1,324 |
@@ -22,8 +22,8 @@ Rating: 4.18 (Ranked 840)
 | In the Pipe, Five by Five | 4.00% | ~588 |
 | Crash Site | 4.00% | ~588 |
 | Power Up | 4.00% | ~588 |
-| Instigator | 4.00% | ~105 |
-| Big Game Hunter | 4.00% | ~105 |
+| Instigator | 4.00% | ~106 |
+| Big Game Hunter | 4.00% | ~106 |
 | You Need a Gun | 3.00% | ~441 |
 | The Commonality | 3.00% | ~441 |
 | What Lies Beneath | 3.00% | ~441 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,711 (Ranked 103)  
+Progressed: 14,712 (Ranked 103)  
 Completed: 54 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 54 (0.37%) (Ranked 118)
 | 2023-06-05 | 14,579 | 54 |
 | 2023-06-06 | 14,637 | 54 |
 | 2023-06-07 | 14,702 | 54 |
-| 2023-06-08 | 14,711 | 54 |
+| 2023-06-08 | 14,712 | 54 |
 ## Awards
 Max (Amazing Storytelling): 51  (Ranked 387)  
 Sum: 295 (Ranked 328)  

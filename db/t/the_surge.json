@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -319,9 +319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4357,
+  "EOS_Progressed": 4358,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1059,6 +1059,11 @@
       "Time": "2023-06-08T02:21:13.17437+00:00",
       "NumProgressed": 4357,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-08T03:14:39.0298099+00:00",
+      "NumProgressed": 4358,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -1078,7 +1083,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -1118,7 +1123,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3660
+      "UsersEstimate": 3661
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1126,7 +1131,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4097
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1134,7 +1139,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1286,7 +1291,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3311
+      "UsersEstimate": 3312
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1430,7 +1435,7 @@
       "Name": "Sniffing Around",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ID_ACHIEV_48",
@@ -1550,7 +1555,7 @@
       "Name": "Suited and Booted",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ID_ACHIEV_63",
@@ -1558,7 +1563,7 @@
       "Name": "Tools of War",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ID_ACHIEV_64",
@@ -1605,15 +1610,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4357,
+      "Progressed": 4358,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-08T02:21:13.1743695+00:00",
+  "LastChanged_Achievements": "2023-06-08T03:14:39.0298095+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:09.2823727+00:00",
-  "LastUpdate_Ratings": "2023-06-08T02:19:02.9251371+00:00",
-  "LastUpdate_Achievements": "2023-06-08T02:21:13.1744604+00:00"
+  "LastUpdate_Ratings": "2023-06-08T03:11:51.5032978+00:00",
+  "LastUpdate_Achievements": "2023-06-08T03:14:39.0298888+00:00"
 }

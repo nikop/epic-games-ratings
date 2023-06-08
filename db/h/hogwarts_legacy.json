@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -3328,18 +3328,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 36416,
       "NumberOfAwardsMax": 19672
+    },
+    {
+      "Time": "2023-06-08T03:11:12.6979264+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 36446,
+      "NumberOfAwardsMax": 19702
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36416,
-  "NumberOfAwardsMax": 19672,
+  "NumberOfAwards": 36446,
+  "NumberOfAwardsMax": 19702,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 19672
+      "Count": 19702
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -3408,10 +3414,10 @@
       "Count": 504
     }
   ],
-  "EOS_Progressed": 277129,
+  "EOS_Progressed": 277134,
   "EOS_Completed": 390,
-  "EOS_NewPlayers": 2293,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 2291,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
@@ -8363,6 +8369,11 @@
       "Time": "2023-06-08T02:25:33.0025158+00:00",
       "NumProgressed": 277129,
       "NumCompleted": 390
+    },
+    {
+      "Time": "2023-06-08T03:18:33.8627544+00:00",
+      "NumProgressed": 277134,
+      "NumCompleted": 390
     }
   ],
   "TotalAchievements": 45,
@@ -8374,7 +8385,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22170
+      "UsersEstimate": 22171
     },
     {
       "ID": "PFA_10",
@@ -8422,7 +8433,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "PFA_16",
@@ -8438,7 +8449,7 @@
       "Name": "Beast Friends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "PFA_18",
@@ -8446,7 +8457,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "PFA_19",
@@ -8454,7 +8465,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "PFA_2",
@@ -8598,7 +8609,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "PFA_36",
@@ -8678,7 +8689,7 @@
       "Name": "The Spell Master",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "PFA_45",
@@ -8733,16 +8744,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 277129,
+      "Progressed": 277134,
       "Completed": 390
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-08T02:18:32.8479952+00:00",
-  "LastChanged_Achievements": "2023-06-08T02:25:33.0025153+00:00",
+  "LastChanged": "2023-06-08T03:11:12.6979262+00:00",
+  "LastChanged_Achievements": "2023-06-08T03:18:33.8627538+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:24.8723684+00:00",
-  "LastUpdate_Ratings": "2023-06-08T02:18:32.8479964+00:00",
-  "LastUpdate_Achievements": "2023-06-08T02:25:33.0025854+00:00"
+  "LastUpdate_Ratings": "2023-06-08T03:11:12.6979268+00:00",
+  "LastUpdate_Achievements": "2023-06-08T03:18:33.8628221+00:00"
 }

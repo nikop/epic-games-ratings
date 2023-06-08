@@ -9,9 +9,9 @@ Rating: 4.56 (Ranked 453)
 | Infinite Growth... | 13.00% | ~324 |
 | Sputnik 2049 | 13.00% | ~324 |
 | Without Breaking Some Eggs... | 12.00% | ~299 |
-| Space Society | 8.00% | ~199 |
-| A Thousand Strong | 8.00% | ~199 |
-| Ready for a New World | 8.00% | ~199 |
+| Space Society | 8.00% | ~200 |
+| A Thousand Strong | 8.00% | ~200 |
+| Ready for a New World | 8.00% | ~200 |
 | Guy de Borderlands | 6.00% | ~150 |
 | Breaking Protocol | 6.00% | ~150 |
 | Permanent Redesigns | 6.00% | ~150 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 453)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,493 (Ranked 145)  
+Progressed: 2,494 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 2,460 | 0 |
 | 2023-06-06 | 2,471 | 0 |
 | 2023-06-07 | 2,488 | 0 |
-| 2023-06-08 | 2,493 | 0 |
+| 2023-06-08 | 2,494 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

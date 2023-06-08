@@ -10,8 +10,8 @@ Rating: 4.49 (Ranked 564)
 | The Kraken Wakes | 18.00% | ~429 |
 | It's Starting to Crack | 16.00% | ~381 |
 | Lord of War | 14.00% | ~333 |
+| Resourceful | 13.00% | ~310 |
 | Change the Channel | 13.00% | ~310 |
-| Resourceful | 12.00% | ~286 |
 | Taking it back | 11.00% | ~262 |
 | Organ Grinder | 10.00% | ~238 |
 | Target America | 10.00% | ~238 |

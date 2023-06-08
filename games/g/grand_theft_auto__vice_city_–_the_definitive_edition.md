@@ -5,10 +5,10 @@ Rating: 4.61 (Ranked 360)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,412 |
-| Greasy Palms | 39.00% | ~3,095 |
-| South American Connection | 23.00% | ~1,825 |
-| Life of the Party | 18.00% | ~1,428 |
+| Legal Counsel | 43.00% | ~3,413 |
+| Greasy Palms | 39.00% | ~3,096 |
+| South American Connection | 23.00% | ~1,826 |
+| Life of the Party | 18.00% | ~1,429 |
 | Big Heat from Little Havana | 13.00% | ~1,032 |
 | Chauffeur | 13.00% | ~1,032 |
 | Tommy Two-Wheels | 13.00% | ~1,032 |
@@ -19,8 +19,8 @@ Rating: 4.61 (Ranked 360)
 | Vice City Mogul | 6.00% | ~476 |
 | Bloodstained Hands | 6.00% | ~476 |
 | Catch Me if You Can | 5.00% | ~397 |
-| Not my First Time | 4.00% | ~317 |
-| Grand Theft Auto | 4.00% | ~317 |
+| Not my First Time | 4.00% | ~318 |
+| Grand Theft Auto | 4.00% | ~318 |
 | High Quality H2O | 3.00% | ~238 |
 | Pie Guy | 3.00% | ~238 |
 | Running Rampant | 2.00% | ~159 |
@@ -33,14 +33,14 @@ Rating: 4.61 (Ranked 360)
 | City Sleuth | 2.00% | ~159 |
 | One is Better Than Two | 1.00% | ~79 |
 | Chopper’d Up | 1.00% | ~79 |
-| I'm Famous! | 0.80% | ~63 |
-| Daredevil | 0.80% | ~63 |
+| I'm Famous! | 0.80% | ~64 |
+| Daredevil | 0.80% | ~64 |
 | Born in the 80’s | 0.70% | ~56 |
 | Keepie-Uppy Okie Dokie | 0.70% | ~56 |
 | Done it All | 0.60% | ~48 |
 | Kingpin | 0.30% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,936 (Ranked 114)  
+Progressed: 7,938 (Ranked 114)  
 Completed: 26 (0.33%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 26 (0.33%) (Ranked 124)
 | 2023-06-05 | 7,784 | 25 |
 | 2023-06-06 | 7,854 | 26 |
 | 2023-06-07 | 7,929 | 26 |
-| 2023-06-08 | 7,936 | 26 |
+| 2023-06-08 | 7,938 | 26 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 396)  
 Sum: 49 (Ranked 440)  

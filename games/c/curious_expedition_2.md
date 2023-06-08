@@ -6,21 +6,21 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 59.00% | ~182 |
+| The Adventure Begins | 59.00% | ~183 |
 | Cartographer | 53.00% | ~164 |
-| A Strange Artefact | 48.00% | ~148 |
+| A Strange Artefact | 48.00% | ~149 |
 | Insomnia | 44.00% | ~136 |
-| Lost & Found & Lost Again | 39.00% | ~121 |
 | From Whence we Came | 39.00% | ~121 |
-| Fire and Flood | 36.00% | ~111 |
+| Lost & Found & Lost Again | 38.00% | ~118 |
+| Fire and Flood | 36.00% | ~112 |
 | Spooky! | 34.00% | ~105 |
 | Shennong Herbalist | 31.00% | ~96 |
 | Treasure Hunt | 31.00% | ~96 |
 | Good Mama | 29.00% | ~90 |
 | O Captain My Captain | 28.00% | ~87 |
-| Taxonomist | 26.00% | ~80 |
-| Plunderer | 26.00% | ~80 |
-| Uncertain Loyalties | 23.00% | ~71 |
+| Plunderer | 26.00% | ~81 |
+| Taxonomist | 25.00% | ~78 |
+| Uncertain Loyalties | 24.00% | ~74 |
 | Traveller | 22.00% | ~68 |
 | Nahua Seeker | 22.00% | ~68 |
 | Roll to Save | 20.00% | ~62 |
@@ -47,10 +47,10 @@ Number of Ratings: 20  (23.09.2022)
 | The Great Library | 8.00% | ~25 |
 | No Laughing Matter | 7.00% | ~22 |
 | Level Up | 7.00% | ~22 |
-| Zookeeper | 6.00% | ~19 |
-| Islander Understanding | 5.00% | ~15 |
-| A Paris Sunset | 5.00% | ~15 |
-| The Workshop | 5.00% | ~15 |
+| Zookeeper | 5.00% | ~16 |
+| Islander Understanding | 5.00% | ~16 |
+| A Paris Sunset | 5.00% | ~16 |
+| The Workshop | 5.00% | ~16 |
 | The Director Perseveres | 4.00% | ~12 |
 | A Familiar Figure | 4.00% | ~12 |
 | X Marks the Spot | 4.00% | ~12 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309 (Ranked 225)  
+Progressed: 310 (Ranked 225)  
 Completed: 1 (0.32%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 1 (0.32%) (Ranked 126)
 | 2023-06-04 | 307 | 1 |
 | 2023-06-05 | 308 | 1 |
 | 2023-06-06 | 309 | 1 |
+| 2023-06-08 | 310 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

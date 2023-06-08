@@ -8,7 +8,7 @@ Number of Ratings: 706  (23.09.2022)
 | ---- | ---------- | ----- |
 | Get A Room | 70.00% | ~2,338 |
 | Having A Field Day | 69.00% | ~2,305 |
-| Reap What You Sow | 66.00% | ~2,204 |
+| Reap What You Sow | 67.00% | ~2,238 |
 | Green Thumb | 63.00% | ~2,104 |
 | The First Day | 63.00% | ~2,104 |
 | Novice Researcher | 59.00% | ~1,971 |
@@ -69,14 +69,14 @@ Completed: 6 (0.18%) (Ranked 147)
 | 2023-06-08 | 3,340 | 6 |
 ## Awards
 Max (Relaxing): 119  (Ranked 307)  
-Sum: 939 (Ranked 235)  
-Diff (max vs sum): 72  
+Sum: 940 (Ranked 234)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 119 |
 | This game is Great for Beginners | 112 |
+| This game has Diverse Characters | 103 |
 | This game has Quickly Understood Controls | 102 |
-| This game has Diverse Characters | 102 |
 | This game is Extremely Fun | 100 |
 | This game is Highly Recommended | 97 |
 | This game has Amazing Characters | 90 |
@@ -183,3 +183,4 @@ Diff (max vs sum): 72
 | 2023-06-01 | 4.60 | - | 118 | 937 |
 | 2023-06-02 | 4.60 | - | 118 | 938 |
 | 2023-06-05 | 4.60 | - | 119 | 939 |
+| 2023-06-08 | 4.60 | - | 119 | 940 |

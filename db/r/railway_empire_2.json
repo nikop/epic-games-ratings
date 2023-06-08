@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 988,
+  "EOS_Progressed": 989,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1376,6 +1376,11 @@
       "Time": "2023-06-08T02:26:47.9214395+00:00",
       "NumProgressed": 988,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T03:20:05.5579178+00:00",
+      "NumProgressed": 989,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -1483,7 +1488,7 @@
       "Name": "Departure",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "A13",
@@ -1491,7 +1496,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "A14",
@@ -1499,7 +1504,7 @@
       "Name": "A new Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "A15",
@@ -1531,7 +1536,7 @@
       "Name": "General Manager",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "A19",
@@ -1547,7 +1552,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "A21",
@@ -1563,7 +1568,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "A23",
@@ -1611,7 +1616,7 @@
       "Name": "We brake for nobody",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "A29",
@@ -1643,7 +1648,7 @@
       "Name": "Assimilated",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "A33",
@@ -1651,7 +1656,7 @@
       "Name": "Locusts",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "A34",
@@ -1659,7 +1664,7 @@
       "Name": "Producer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "A35",
@@ -1681,9 +1686,9 @@
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 603
+      "UsersEstimate": 593
     },
     {
       "ID": "A38",
@@ -1707,7 +1712,7 @@
       "Name": "Mind the Gap",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "A41",
@@ -1755,7 +1760,7 @@
       "Name": "Mystery Tour",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "A47",
@@ -1763,7 +1768,7 @@
       "Name": "Travel Company",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "A48",
@@ -1826,14 +1831,14 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 988,
+      "Progressed": 989,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-08T02:26:47.921439+00:00",
+  "LastChanged_Achievements": "2023-06-08T03:20:05.5579172+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-08T02:19:06.0315172+00:00",
-  "LastUpdate_Achievements": "2023-06-08T02:26:47.9214946+00:00"
+  "LastUpdate_Ratings": "2023-06-08T03:11:55.4882951+00:00",
+  "LastUpdate_Achievements": "2023-06-08T03:20:05.5579837+00:00"
 }

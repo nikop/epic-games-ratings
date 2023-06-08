@@ -280,7 +280,7 @@
   "Tags": [],
   "EOS_Progressed": 2382,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3056,9 +3056,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 310
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3415,8 +3415,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-07T21:00:47.5607681+00:00",
-  "LastChanged_Achievements": "2023-06-08T02:26:38.7866752+00:00",
+  "LastChanged_Achievements": "2023-06-08T03:19:54.5004567+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-08T02:21:02.1047714+00:00",
-  "LastUpdate_Achievements": "2023-06-08T02:26:38.786758+00:00"
+  "LastUpdate_Ratings": "2023-06-08T03:14:21.7061285+00:00",
+  "LastUpdate_Achievements": "2023-06-08T03:19:54.5005396+00:00"
 }

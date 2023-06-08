@@ -17,6 +17,7 @@
 | Time Heals All Wounds | 3.00% | ~19 |
 | Check Your Pulse | 3.00% | ~19 |
 | Immaculate Aim | 3.00% | ~19 |
+| The Family Fortune | 3.00% | ~19 |
 | Chaincrawler Explorer | 2.00% | ~13 |
 | Family Memories | 2.00% | ~13 |
 | The Mysterious Stranger | 2.00% | ~13 |
@@ -34,7 +35,6 @@
 | Immaculate Aim | 2.00% | ~13 |
 | Ask Questions Later | 2.00% | ~13 |
 | The Brass Boss | 2.00% | ~13 |
-| The Family Fortune | 2.00% | ~13 |
 | Right On Time | 1.00% | ~6 |
 | Corin Goes Home | 1.00% | ~6 |
 | Sartorialist | 1.00% | ~6 |

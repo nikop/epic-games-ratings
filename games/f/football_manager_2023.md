@@ -5,21 +5,21 @@ Rating: 4.75 (Ranked 135)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 78.00% | ~53,738 |
-| The Player Whisperer | 76.00% | ~52,360 |
-| One of Us, One of Us! | 73.00% | ~50,293 |
+| Motivational Speaker | 78.00% | ~53,739 |
+| The Player Whisperer | 76.00% | ~52,361 |
+| One of Us, One of Us! | 73.00% | ~50,294 |
 | Clean Sheet | 68.00% | ~46,849 |
 | First Victory | 68.00% | ~46,849 |
 | #DoneDeal | 67.00% | ~46,160 |
 | Off the Books | 65.00% | ~44,782 |
 | Super-Sub | 65.00% | ~44,782 |
-| Hat-trick | 60.00% | ~41,337 |
-| "I Would Love It If We Beat Them" | 58.00% | ~39,959 |
-| Planned Signing | 58.00% | ~39,959 |
-| Thumping | 53.00% | ~36,514 |
-| Scoring Streak | 53.00% | ~36,514 |
-| Wheeler Dealer | 52.00% | ~35,825 |
-| People Pleaser | 51.00% | ~35,136 |
+| Hat-trick | 60.00% | ~41,338 |
+| "I Would Love It If We Beat Them" | 58.00% | ~39,960 |
+| Planned Signing | 58.00% | ~39,960 |
+| Thumping | 53.00% | ~36,515 |
+| Scoring Streak | 53.00% | ~36,515 |
+| Wheeler Dealer | 52.00% | ~35,826 |
+| People Pleaser | 51.00% | ~35,137 |
 | Unbeatable! | 50.00% | ~34,448 |
 | One Of Our Own | 48.00% | ~33,070 |
 | They're a Natural | 44.00% | ~30,314 |
@@ -33,18 +33,18 @@ Rating: 4.75 (Ranked 135)
 | Parked The Bus | 38.00% | ~26,180 |
 | Beating Expectations | 38.00% | ~26,180 |
 | Goal Rush | 38.00% | ~26,180 |
-| What A Goal! | 36.00% | ~24,802 |
-| Flavour Of The Month | 36.00% | ~24,802 |
-| Unstoppable Force | 35.00% | ~24,113 |
-| Record Sale | 35.00% | ~24,113 |
-| Shots For Days | 35.00% | ~24,113 |
-| You're on Fire | 34.00% | ~23,424 |
-| Tremendous Trio | 34.00% | ~23,424 |
-| The Special One | 33.00% | ~22,735 |
-| On a Roll | 32.00% | ~22,046 |
-| Splashing the Cash | 32.00% | ~22,046 |
-| Drilling Down | 30.00% | ~20,668 |
-| Goal Machine | 30.00% | ~20,668 |
+| What A Goal! | 36.00% | ~24,803 |
+| Flavour Of The Month | 36.00% | ~24,803 |
+| Unstoppable Force | 35.00% | ~24,114 |
+| Record Sale | 35.00% | ~24,114 |
+| Shots For Days | 35.00% | ~24,114 |
+| You're on Fire | 34.00% | ~23,425 |
+| Tremendous Trio | 34.00% | ~23,425 |
+| The Special One | 33.00% | ~22,736 |
+| On a Roll | 32.00% | ~22,047 |
+| Splashing the Cash | 32.00% | ~22,047 |
+| Drilling Down | 30.00% | ~20,669 |
+| Goal Machine | 30.00% | ~20,669 |
 | Immovable Object | 28.00% | ~19,291 |
 | Cup Glory! | 28.00% | ~19,291 |
 | Irresistible Force | 26.00% | ~17,913 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 135)
 | Tête-à-tête | 14.00% | ~9,645 |
 | Best in the World | 14.00% | ~9,645 |
 | Superb Strike | 13.00% | ~8,956 |
-| National Service | 11.00% | ~7,578 |
+| National Service | 11.00% | ~7,579 |
 | Best in the Business | 10.00% | ~6,890 |
 | Bragging Rights | 10.00% | ~6,890 |
 | Second Hand Signing | 10.00% | ~6,890 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 135)
 | Versus Anyone | 0.10% | ~69 |
 | 200 Club | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,895 (Ranked 66)  
+Progressed: 68,896 (Ranked 66)  
 Completed: 15 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,10 +155,10 @@ Completed: 15 (0.02%) (Ranked 195)
 | 2023-06-05 | 68,553 | 15 |
 | 2023-06-06 | 68,704 | 15 |
 | 2023-06-07 | 68,881 | 15 |
-| 2023-06-08 | 68,895 | 15 |
+| 2023-06-08 | 68,896 | 15 |
 ## Awards
 Max (Diverse Characters): 471  (Ranked 188)  
-Sum: 3,392 (Ranked 145)  
+Sum: 3,395 (Ranked 145)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -166,7 +166,7 @@ Diff (max vs sum): 43
 | This game is Extremely Fun | 410 |
 | This game is Highly Recommended | 410 |
 | This game is Educational | 398 |
-| This game is Relaxing | 376 |
+| This game is Relaxing | 379 |
 | This game has Competitive Players | 344 |
 | This game has Quickly Understood Controls | 343 |
 | This game has Amazing Storytelling | 322 |
@@ -277,3 +277,4 @@ Diff (max vs sum): 43
 | 2023-06-05 | 4.75 | 467 | 3,373 |
 | 2023-06-06 | 4.75 | 468 | 3,384 |
 | 2023-06-07 | 4.75 | 471 | 3,392 |
+| 2023-06-08 | 4.75 | 471 | 3,395 |

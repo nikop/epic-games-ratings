@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 89.00% | ~81 |
-| Bullseye! | 84.00% | ~76 |
-| Graduation! | 79.00% | ~72 |
-| Villfir Forest | 77.00% | ~70 |
-| Right in the kisser! | 64.00% | ~58 |
-| Duscot Steamcity | 53.00% | ~48 |
-| The Shaman | 52.00% | ~47 |
+| Level Up! | 89.00% | ~82 |
+| Bullseye! | 84.00% | ~77 |
+| Graduation! | 79.00% | ~73 |
+| Villfir Forest | 76.00% | ~70 |
+| Right in the kisser! | 63.00% | ~58 |
+| Duscot Steamcity | 52.00% | ~48 |
+| The Shaman | 51.00% | ~47 |
 | The Penguin | 48.00% | ~44 |
 | The Magician | 47.00% | ~43 |
-| The Thrower | 45.00% | ~41 |
-| The Tunneler | 41.00% | ~37 |
-| Level Up!! | 40.00% | ~36 |
+| The Thrower | 46.00% | ~42 |
+| The Tunneler | 40.00% | ~37 |
+| Level Up!! | 39.00% | ~36 |
 | The Shield | 38.00% | ~35 |
 | Kill-streak | 37.00% | ~34 |
 | The Bird | 32.00% | ~29 |
-| The Idol | 29.00% | ~26 |
-| Inferno Ruins | 29.00% | ~26 |
+| The Idol | 28.00% | ~26 |
+| Inferno Ruins | 28.00% | ~26 |
 | Topped up | 27.00% | ~25 |
 | The Ninja | 27.00% | ~25 |
 | I'm Rich | 25.00% | ~23 |
@@ -28,9 +28,9 @@
 | The Slime | 22.00% | ~20 |
 | 1 is all I need | 21.00% | ~19 |
 | The Giant | 21.00% | ~19 |
-| The Flower | 19.00% | ~17 |
-| The Blacksmith | 18.00% | ~16 |
-| Out of the Frying Pan... | 18.00% | ~16 |
+| The Flower | 18.00% | ~17 |
+| The Blacksmith | 17.00% | ~16 |
+| Out of the Frying Pan... | 17.00% | ~16 |
 | The Ooze | 15.00% | ~14 |
 | Turquoise | 15.00% | ~14 |
 | The Assistant | 14.00% | ~13 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91 (Ranked 279)  
+Progressed: 92 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 88 | 0 |
 | 2023-06-05 | 90 | 0 |
 | 2023-06-06 | 91 | 0 |
+| 2023-06-08 | 92 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

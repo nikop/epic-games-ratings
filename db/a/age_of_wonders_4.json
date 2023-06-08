@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 491,
+  "Ranking_Rating": 476,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 128,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-05-02T18:59:30.6410122+00:00",
@@ -196,13 +196,19 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-08T03:13:18.2450578+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4410,
+  "EOS_Progressed": 4411,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
@@ -3322,6 +3328,11 @@
       "Time": "2023-06-08T02:25:24.5100475+00:00",
       "NumProgressed": 4410,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T03:18:23.5124108+00:00",
+      "NumProgressed": 4411,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3333,7 +3344,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "10",
@@ -3373,7 +3384,7 @@
       "Name": "Full Ascension",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "15",
@@ -3397,7 +3408,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "18",
@@ -3413,7 +3424,7 @@
       "Name": "The Creator",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "2",
@@ -3429,7 +3440,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "21",
@@ -3453,7 +3464,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "24",
@@ -3469,7 +3480,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3219
+      "UsersEstimate": 3220
     },
     {
       "ID": "26",
@@ -3477,7 +3488,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2691
     },
     {
       "ID": "27",
@@ -3493,7 +3504,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "29",
@@ -3525,7 +3536,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "32",
@@ -3533,7 +3544,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "33",
@@ -3605,7 +3616,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "41",
@@ -3669,7 +3680,7 @@
       "Name": "Betrayal Most Foul",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "9",
@@ -3684,22 +3695,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4410,
-      "Completed": 4410
+      "Progressed": 4411,
+      "Completed": 4411
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4410,
+      "Progressed": 4411,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-06-07T19:00:31.1938575+00:00",
-  "LastChanged_Achievements": "2023-06-08T02:25:24.510047+00:00",
+  "LastChanged": "2023-06-08T03:13:18.2450576+00:00",
+  "LastChanged_Achievements": "2023-06-08T03:18:23.51241+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-08T02:20:11.6536048+00:00",
-  "LastUpdate_Achievements": "2023-06-08T02:25:24.5101015+00:00"
+  "LastUpdate_Ratings": "2023-06-08T03:13:18.2450582+00:00",
+  "LastUpdate_Achievements": "2023-06-08T03:18:23.5124776+00:00"
 }

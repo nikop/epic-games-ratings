@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,801 |
+| A Brief Tour of the Realms | 2.00% | ~1,802 |
 | The Cursed Farmer | 1.00% | ~901 |
 | Beast Intentions | 0.90% | ~811 |
 | The Mad Wizard | 0.90% | ~811 |
@@ -168,6 +168,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flies on the Wall | 0.20% | ~180 |
 | Backtracking Through Barovia | 0.20% | ~180 |
 | Nimble Escape | 0.20% | ~180 |
+| Nimblest Escape | 0.20% | ~180 |
 | Fugitives | 0.20% | ~180 |
 | Excavating History | 0.20% | ~180 |
 | Premature Betrayal | 0.20% | ~180 |
@@ -236,6 +237,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Gargauth's Betrayal | 0.20% | ~113 |
 | Ending the Rime - Part 1 | 0.20% | ~113 |
 | Ending the Rime - Part 2 | 0.20% | ~113 |
+| Tekeli-li's Hunt | 0.20% | ~113 |
 | The Rite of the Arcane Octad | 0.20% | ~113 |
 | An Icewind Dale Reunion | 0.20% | ~113 |
 | The Netherese Necropolis | 0.20% | ~113 |
@@ -335,7 +337,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~90 |
 | Late Game | 0.10% | ~90 |
 | Shadowfell Stalwarts | 0.10% | ~56 |
-| Nimblest Escape | 0.10% | ~90 |
 | Stumbling Escape | 0.10% | ~90 |
 | Distracted Escape | 0.10% | ~56 |
 | From The Shadows | 0.10% | ~90 |
@@ -487,7 +488,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.10% | ~56 |
 | Mysteries Unlocked | 0.10% | ~56 |
 | Male Pattern Boldness | 0.10% | ~56 |
-| Tekeli-li's Hunt | 0.10% | ~56 |
 | Cackling Horror | 0.10% | ~56 |
 | Working for the Weak End | 0.10% | ~56 |
 | Neutral No More | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,073 (Ranked 62)  
+Progressed: 90,075 (Ranked 63)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
-| 2023-06-08 | 90,073 | 1,922 |
+| 2023-06-08 | 90,075 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,049 (Ranked 37)  

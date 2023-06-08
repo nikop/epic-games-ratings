@@ -6,41 +6,41 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,998 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,999 |
 | Say goodbye, creep! | 65.00% | ~27,719 |
 | Blood splattered | 65.00% | ~27,719 |
-| Choo choo! | 62.00% | ~26,439 |
+| Choo choo! | 62.00% | ~26,440 |
 | Groovy | 61.00% | ~26,013 |
 | Cleanup on aisle 4! | 56.00% | ~23,881 |
 | Gold | 50.00% | ~21,322 |
-| The boat can leave now...tell the crew | 48.00% | ~20,469 |
-| Give me something to shoot! | 46.00% | ~19,616 |
-| Stand back boy! | 46.00% | ~19,616 |
-| Weird science | 44.00% | ~18,763 |
-| Chain reaction | 44.00% | ~18,763 |
+| The boat can leave now...tell the crew | 48.00% | ~20,470 |
+| Give me something to shoot! | 46.00% | ~19,617 |
+| Stand back boy! | 46.00% | ~19,617 |
+| Weird science | 44.00% | ~18,764 |
+| Chain reaction | 44.00% | ~18,764 |
 | Look mummy! A shark! | 41.00% | ~17,484 |
 | What did you say, Blain? | 41.00% | ~17,484 |
 | In the dark dark woods... | 38.00% | ~16,205 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,205 |
-| Double tap | 37.00% | ~15,778 |
+| Double tap | 37.00% | ~15,779 |
 | Cranial blowout! | 36.00% | ~15,352 |
 | Zombie killin' machine | 36.00% | ~15,352 |
 | Every bullet counts | 36.00% | ~15,352 |
-| All of this has happened before… | 35.00% | ~14,925 |
+| All of this has happened before… | 35.00% | ~14,926 |
 | You've got red on you | 34.00% | ~14,499 |
 | All roads lead to Rome | 33.00% | ~14,073 |
 | You're all going to die down here | 31.00% | ~13,220 |
 | He did Nazi that coming | 31.00% | ~13,220 |
 | Kill of the week | 31.00% | ~13,220 |
-| I never liked them anyway | 30.00% | ~12,793 |
-| Is it over? | 28.00% | ~11,940 |
+| I never liked them anyway | 30.00% | ~12,794 |
+| Is it over? | 28.00% | ~11,941 |
 | Got your back | 27.00% | ~11,514 |
 | Gore soaked | 24.00% | ~10,235 |
 | Shock therapy | 22.00% | ~9,382 |
 | Leave the limbs you've lost | 22.00% | ~9,382 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,676 |
 | Take them down screaming | 18.00% | ~7,676 |
-| Weapons expert | 17.00% | ~7,249 |
+| Weapons expert | 17.00% | ~7,250 |
 | Bad Blood | 16.00% | ~6,823 |
 | The bigger they are... | 15.00% | ~6,397 |
 | I'm going deeper underground | 14.00% | ~5,970 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~426 |
 | None more hard | 0.50% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,644 (Ranked 83)  
+Progressed: 42,645 (Ranked 83)  
 Completed: 25 (0.06%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,19 +122,19 @@ Completed: 25 (0.06%) (Ranked 179)
 | 2023-06-05 | 42,621 | 25 |
 | 2023-06-06 | 42,632 | 25 |
 | 2023-06-07 | 42,643 | 25 |
-| 2023-06-08 | 42,644 | 25 |
+| 2023-06-08 | 42,645 | 25 |
 ## Awards
 Max (Great Boss Battles): 783  (Ranked 147)  
-Sum: 2,392 (Ranked 168)  
+Sum: 2,394 (Ranked 168)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 783 |
 | This game is Great for Beginners | 243 |
 | This game has Amazing Storytelling | 205 |
+| This game has Diverse Characters | 204 |
 | This game is Extremely Fun | 203 |
 | This game is Highly Recommended | 203 |
-| This game has Diverse Characters | 202 |
 | This game has Quickly Understood Controls | 196 |
 | This game is Relaxing | 182 |
 | This game has Amazing Characters | 175 |
@@ -272,3 +272,4 @@ Diff (max vs sum): -21
 | 2023-06-04 | 4.69 | - | 781 | 2,388 |
 | 2023-06-05 | 4.69 | - | 781 | 2,390 |
 | 2023-06-06 | 4.69 | - | 783 | 2,392 |
+| 2023-06-08 | 4.69 | - | 783 | 2,394 |

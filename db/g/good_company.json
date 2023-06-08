@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4941,
+  "EOS_Progressed": 4942,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1394,6 +1394,11 @@
       "Time": "2023-06-08T02:26:49.3054096+00:00",
       "NumProgressed": 4941,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T03:20:07.1050882+00:00",
+      "NumProgressed": 4942,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1517,7 +1522,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2470
+      "UsersEstimate": 2471
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1757,7 +1762,7 @@
       "Name": "Millionaire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ach_frp_many_modules",
@@ -1971,9 +1976,9 @@
       "ID": "ach_prof_products_sold",
       "SetID": "8cb3id7",
       "Name": "Tycoon",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_prof_success",
@@ -2012,15 +2017,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4941,
+      "Progressed": 4942,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-08T02:26:49.3054091+00:00",
+  "LastChanged_Achievements": "2023-06-08T03:20:07.1050876+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-08T02:19:48.1071391+00:00",
-  "LastUpdate_Achievements": "2023-06-08T02:26:49.3055165+00:00"
+  "LastUpdate_Ratings": "2023-06-08T03:12:48.5186638+00:00",
+  "LastUpdate_Achievements": "2023-06-08T03:20:07.105173+00:00"
 }

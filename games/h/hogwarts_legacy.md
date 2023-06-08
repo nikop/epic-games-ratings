@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~22,170 |
+| The Sort Who Makes an Entrance | 8.00% | ~22,171 |
 | Grappling with a Graphorn | 7.00% | ~19,399 |
 | The One Who Mastered Memories | 7.00% | ~19,399 |
 | The Hallowed Hero | 7.00% | ~19,399 |
@@ -20,12 +20,12 @@ Rating: 4.77 (Ranked 107)
 | Loom for Improvement | 6.00% | ~16,628 |
 | A Talent for Spending | 6.00% | ~16,628 |
 | Rising From the Ashes | 6.00% | ~16,628 |
-| The Avenging Gazelle | 5.00% | ~13,856 |
-| Beast Friends | 5.00% | ~13,856 |
-| A Sallow Grave | 5.00% | ~13,856 |
-| Flight the Good Flight | 5.00% | ~13,856 |
-| Followed the Butterflies | 5.00% | ~13,856 |
-| The Spell Master | 5.00% | ~13,856 |
+| The Avenging Gazelle | 5.00% | ~13,857 |
+| Beast Friends | 5.00% | ~13,857 |
+| A Sallow Grave | 5.00% | ~13,857 |
+| Flight the Good Flight | 5.00% | ~13,857 |
+| Followed the Butterflies | 5.00% | ~13,857 |
+| The Spell Master | 5.00% | ~13,857 |
 | The Seeker of Knowledge | 4.00% | ~11,085 |
 | The Root of the Problem | 4.00% | ~11,085 |
 | Third Time's a Charm | 4.00% | ~11,085 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.40% | ~1,109 |
 | Collector's Edition | 0.20% | ~554 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277,129 (Ranked 40)  
+Progressed: 277,134 (Ranked 40)  
 Completed: 390 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,14 +100,14 @@ Completed: 390 (0.14%) (Ranked 156)
 | 2023-06-05 | 276,567 | 388 |
 | 2023-06-06 | 276,816 | 389 |
 | 2023-06-07 | 277,097 | 390 |
-| 2023-06-08 | 277,129 | 390 |
+| 2023-06-08 | 277,134 | 390 |
 ## Awards
-Max (Character Customization): 19,672  (Ranked 18)  
-Sum: 36,416 (Ranked 32)  
+Max (Character Customization): 19,702  (Ranked 18)  
+Sum: 36,446 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 19,672 |
+| This game has Inclusive Character Customization | 19,702 |
 | This game has Great Boss Battles | 9,322 |
 | This game is Great for Beginners | 820 |
 | This game is Relaxing | 816 |
@@ -198,4 +198,4 @@ Diff (max vs sum): -14
 | 2023-06-05 | 4.77 | 19,577 | 36,243 |
 | 2023-06-06 | 4.77 | 19,619 | 36,314 |
 | 2023-06-07 | 4.77 | 19,672 | 36,413 |
-| 2023-06-08 | 4.77 | 19,672 | 36,416 |
+| 2023-06-08 | 4.77 | 19,702 | 36,446 |
