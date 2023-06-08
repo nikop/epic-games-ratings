@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1028,9 +1028,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 3342,
+  "EOS_Progressed": 3343,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2193,6 +2193,11 @@
       "Time": "2023-06-08T04:07:04.0980722+00:00",
       "NumProgressed": 3342,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-08T05:06:31.1192379+00:00",
+      "NumProgressed": 3343,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 31,
@@ -2204,7 +2209,7 @@
       "Name": "Get A Room",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -2236,7 +2241,7 @@
       "Name": "Green Thumb",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -2244,7 +2249,7 @@
       "Name": "Having A Field Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -2252,7 +2257,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -2324,7 +2329,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -2348,7 +2353,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -2364,7 +2369,7 @@
       "Name": "The First Day",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -2451,15 +2456,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 3342,
+      "Progressed": 3343,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-08T03:13:40.595132+00:00",
-  "LastChanged_Achievements": "2023-06-08T04:07:04.0980717+00:00",
+  "LastChanged_Achievements": "2023-06-08T05:06:31.1192373+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.8895612+00:00",
-  "LastUpdate_Ratings": "2023-06-08T04:00:54.751423+00:00",
-  "LastUpdate_Achievements": "2023-06-08T04:07:04.098105+00:00"
+  "LastUpdate_Ratings": "2023-06-08T05:00:08.2165103+00:00",
+  "LastUpdate_Achievements": "2023-06-08T05:06:31.119287+00:00"
 }

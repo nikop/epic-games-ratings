@@ -3,7 +3,7 @@
   "Name": "Sifu",
   "ProductSlug": "sifu",
   "Ranking_Rating": 65,
-  "Ranking_Popularity": 53,
+  "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 70,
@@ -4396,18 +4396,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10481,
       "NumberOfAwardsMax": 6142
+    },
+    {
+      "Time": "2023-06-08T04:59:18.8647004+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10490,
+      "NumberOfAwardsMax": 6151
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10481,
-  "NumberOfAwardsMax": 6142,
+  "NumberOfAwards": 10490,
+  "NumberOfAwardsMax": 6151,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6142
+      "Count": 6151
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4476,9 +4482,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 707941,
+  "EOS_Progressed": 707948,
   "EOS_Completed": 12763,
-  "EOS_NewPlayers": 1357,
+  "EOS_NewPlayers": 1352,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -8966,6 +8972,11 @@
       "Time": "2023-06-08T04:07:15.8762414+00:00",
       "NumProgressed": 707941,
       "NumCompleted": 12763
+    },
+    {
+      "Time": "2023-06-08T05:06:41.5549777+00:00",
+      "NumProgressed": 707948,
+      "NumCompleted": 12763
     }
   ],
   "TotalAchievements": 50,
@@ -9225,7 +9236,7 @@
       "Name": "Old Child",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6371
+      "UsersEstimate": 6372
     },
     {
       "ID": "33_BladeOneShot",
@@ -9289,7 +9300,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6371
+      "UsersEstimate": 6372
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -9376,21 +9387,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17242,
+      "Progressed": 17249,
       "Completed": 10242
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 707941,
+      "Progressed": 707948,
       "Completed": 12763
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-08T03:12:51.7236277+00:00",
-  "LastChanged_Achievements": "2023-06-08T04:07:15.876241+00:00",
+  "LastChanged": "2023-06-08T04:59:18.8647003+00:00",
+  "LastChanged_Achievements": "2023-06-08T05:06:41.5549768+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-08T03:59:52.9062985+00:00",
-  "LastUpdate_Achievements": "2023-06-08T04:07:15.8763096+00:00"
+  "LastUpdate_Ratings": "2023-06-08T04:59:18.864701+00:00",
+  "LastUpdate_Achievements": "2023-06-08T05:06:41.5550481+00:00"
 }

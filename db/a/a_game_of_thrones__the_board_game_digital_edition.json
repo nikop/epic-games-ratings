@@ -1245,9 +1245,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14921,
+  "EOS_Progressed": 14923,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 783,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6165,6 +6165,11 @@
       "Time": "2023-06-08T04:07:01.5336894+00:00",
       "NumProgressed": 14921,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-06-08T05:06:28.9499129+00:00",
+      "NumProgressed": 14923,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 22,
@@ -6184,7 +6189,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "1017",
@@ -6192,7 +6197,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "1018",
@@ -6208,7 +6213,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "1020",
@@ -6296,7 +6301,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2984
+      "UsersEstimate": 2985
     },
     {
       "ID": "1031",
@@ -6312,7 +6317,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5969
     },
     {
       "ID": "1033",
@@ -6351,15 +6356,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 14921,
+      "Progressed": 14923,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-04T11:01:39.0273267+00:00",
-  "LastChanged_Achievements": "2023-06-08T04:07:01.5336888+00:00",
+  "LastChanged_Achievements": "2023-06-08T05:06:28.9499126+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.849482+00:00",
-  "LastUpdate_Ratings": "2023-06-08T04:01:23.1037281+00:00",
-  "LastUpdate_Achievements": "2023-06-08T04:07:01.5337404+00:00"
+  "LastUpdate_Ratings": "2023-06-08T05:00:30.6753204+00:00",
+  "LastUpdate_Achievements": "2023-06-08T05:06:28.949964+00:00"
 }

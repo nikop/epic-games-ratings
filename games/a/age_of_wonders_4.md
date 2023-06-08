@@ -6,23 +6,23 @@ Rating: 4.55 (Ranked 476)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 79.00% | ~3,485 |
-| Realm Estate | 76.00% | ~3,352 |
-| Secret Technique | 75.00% | ~3,308 |
-| Walls Cannot Stop Us | 73.00% | ~3,220 |
+| Realm Estate | 76.00% | ~3,353 |
+| Secret Technique | 75.00% | ~3,309 |
+| Walls Cannot Stop Us | 73.00% | ~3,221 |
 | From Friends to Family | 69.00% | ~3,044 |
-| Magical Synergy | 65.00% | ~2,867 |
+| Magical Synergy | 65.00% | ~2,868 |
 | Bone Peddler | 61.00% | ~2,691 |
-| Stronger Together | 56.00% | ~2,470 |
+| Stronger Together | 56.00% | ~2,471 |
 | Full Ascension | 54.00% | ~2,382 |
-| Seat of Power | 48.00% | ~2,117 |
-| There Can Only Be One! | 47.00% | ~2,073 |
+| Seat of Power | 48.00% | ~2,118 |
+| There Can Only Be One! | 47.00% | ~2,074 |
 | Intimidation Tactics | 44.00% | ~1,941 |
 | My Final Form | 43.00% | ~1,897 |
 | Valley of Wonders | 42.00% | ~1,853 |
-| In a Liege of Your Own | 38.00% | ~1,676 |
-| Return of the Wizard King | 31.00% | ~1,367 |
-| Digging for Treasure | 31.00% | ~1,367 |
-| Against the Odds | 31.00% | ~1,367 |
+| In a Liege of Your Own | 38.00% | ~1,677 |
+| Return of the Wizard King | 31.00% | ~1,368 |
+| Digging for Treasure | 31.00% | ~1,368 |
+| Against the Odds | 31.00% | ~1,368 |
 | Enchanted Archipelago | 28.00% | ~1,235 |
 | Impenetrable Fortress | 27.00% | ~1,191 |
 | The Magic That Empowers Me! | 20.00% | ~882 |
@@ -50,7 +50,7 @@ Rating: 4.55 (Ranked 476)
 | Returning Circle | 0.30% | ~13 |
 | Master of Evilness | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,411 (Ranked 128)  
+Progressed: 4,412 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 4,354 | 0 |
 | 2023-06-06 | 4,386 | 0 |
 | 2023-06-07 | 4,407 | 0 |
-| 2023-06-08 | 4,411 | 0 |
+| 2023-06-08 | 4,412 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

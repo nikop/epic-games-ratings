@@ -43,10 +43,10 @@
 | Factorywood Explorer | 1.00% | ~6 |
 | Fairgrounds Explorer | 1.00% | ~6 |
 | Honest Mistake | 1.00% | ~6 |
+| Golem Hunter | 1.00% | ~6 |
 | Rungs Was Right | 1.00% | ~6 |
 | Syron for Hope | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
-| Golem Hunter | 0.80% | ~5 |
 | Wunderkind | 0.30% | ~2 |
 | Hexlock for Protection | 0.30% | ~2 |
 | Fitting In | 0.30% | ~2 |

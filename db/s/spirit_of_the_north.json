@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 57280,
+  "EOS_Progressed": 57281,
   "EOS_Completed": 285,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 927,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -5321,6 +5321,11 @@
       "Time": "2023-06-08T04:06:54.0822742+00:00",
       "NumProgressed": 57280,
       "NumCompleted": 285
+    },
+    {
+      "Time": "2023-06-08T05:06:22.6761731+00:00",
+      "NumProgressed": 57281,
+      "NumCompleted": 285
     }
   ],
   "TotalAchievements": 24,
@@ -5388,7 +5393,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 16038
+      "UsersEstimate": 16039
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -5404,7 +5409,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 10310
+      "UsersEstimate": 10311
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -5523,7 +5528,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 57280,
+      "Progressed": 57281,
       "Completed": 285
     }
   ],
@@ -5531,8 +5536,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-06-08T04:06:54.0822737+00:00",
+  "LastChanged_Achievements": "2023-06-08T05:06:22.6761726+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.7663661+00:00",
-  "LastUpdate_Ratings": "2023-06-08T04:00:25.0092599+00:00",
-  "LastUpdate_Achievements": "2023-06-08T04:06:54.0823258+00:00"
+  "LastUpdate_Ratings": "2023-06-08T04:59:43.9980233+00:00",
+  "LastUpdate_Achievements": "2023-06-08T05:06:22.6762267+00:00"
 }

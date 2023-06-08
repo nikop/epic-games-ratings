@@ -610,7 +610,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6115,
+  "EOS_Progressed": 6116,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -2325,6 +2325,11 @@
       "Time": "2023-06-07T21:02:05.7994334+00:00",
       "NumProgressed": 6115,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-08T05:03:13.3913108+00:00",
+      "NumProgressed": 6116,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2344,7 +2349,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -2352,7 +2357,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -2384,7 +2389,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -2470,9 +2475,9 @@
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
       "SetID": "akchbl3",
       "Name": "I Have the High Ground",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 550
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -2504,7 +2509,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -2528,7 +2533,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3302
+      "UsersEstimate": 3303
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2664,7 +2669,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3302
+      "UsersEstimate": 3303
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2680,7 +2685,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -2695,7 +2700,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6115,
+      "Progressed": 6116,
       "Completed": 8
     }
   ],
@@ -2703,8 +2708,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-07T22:57:30.348702+00:00",
-  "LastChanged_Achievements": "2023-06-08T04:03:01.8622165+00:00",
+  "LastChanged_Achievements": "2023-06-08T05:03:13.3913103+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:28.4757017+00:00",
-  "LastUpdate_Ratings": "2023-06-08T03:57:51.6844561+00:00",
-  "LastUpdate_Achievements": "2023-06-08T04:03:01.8622668+00:00"
+  "LastUpdate_Ratings": "2023-06-08T04:57:42.2749705+00:00",
+  "LastUpdate_Achievements": "2023-06-08T05:03:13.3913597+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 2865,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2701,9 +2701,9 @@
       "ID": "Ach017",
       "SetID": "12n4k20",
       "Name": "I play my own way!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1432
     },
     {
       "ID": "Ach018",
@@ -2941,9 +2941,9 @@
       "ID": "Ach047",
       "SetID": "12n4k20",
       "Name": "Who put gears in there?",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1948
     },
     {
       "ID": "Ach048",
@@ -3076,8 +3076,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-03T21:58:22.8890273+00:00",
-  "LastChanged_Achievements": "2023-06-08T04:07:14.2606341+00:00",
+  "LastChanged_Achievements": "2023-06-08T05:06:40.037589+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:48.102192+00:00",
-  "LastUpdate_Ratings": "2023-06-08T03:59:18.6498283+00:00",
-  "LastUpdate_Achievements": "2023-06-08T04:07:14.2607057+00:00"
+  "LastUpdate_Ratings": "2023-06-08T04:58:51.1195565+00:00",
+  "LastUpdate_Achievements": "2023-06-08T05:06:40.0376692+00:00"
 }

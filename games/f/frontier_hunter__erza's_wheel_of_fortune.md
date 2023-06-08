@@ -4,13 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 50.00% | ~2 |
-| Training Simulation | 50.00% | ~2 |
-| Arms Mechanic | 50.00% | ~2 |
+| Travel Streamer | 75.00% | ~3 |
+| Training Simulation | 75.00% | ~3 |
+| Arms Mechanic | 75.00% | ~3 |
+| Kuku Bird Hunter | 75.00% | ~3 |
+| Storm Traveller | 75.00% | ~3 |
+| Wolf King Killer | 75.00% | ~3 |
 | Fashion Connoisseur | 50.00% | ~2 |
-| Kuku Bird Hunter | 50.00% | ~2 |
-| Storm Traveller | 50.00% | ~2 |
-| Wolf King Killer | 50.00% | ~2 |
+| Trader | 50.00% | ~2 |
 | Flower Thief | 50.00% | ~2 |
 | Apostle of Flame | 50.00% | ~2 |
 | Seal Breaker | 50.00% | ~2 |
@@ -28,7 +29,6 @@
 | Master Cook | 25.00% | ~1 |
 | Beginner Artificer | 25.00% | ~1 |
 | Master Artificer | 25.00% | ~1 |
-| Trader | 25.00% | ~1 |
 | Weapon Boost | 25.00% | ~1 |
 | Berserker Slayer | 25.00% | ~1 |
 | Handyman | 25.00% | ~1 |
