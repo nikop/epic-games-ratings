@@ -10,6 +10,7 @@
 | Street Style | 3.00% | ~19 |
 | The Betrayer | 3.00% | ~19 |
 | The Man Who Shattered Time | 3.00% | ~19 |
+| The Loose Cannon | 3.00% | ~19 |
 | Make Up For Lost Time | 3.00% | ~19 |
 | Cartographer | 3.00% | ~19 |
 | Breaking Down Barriers | 3.00% | ~19 |
@@ -23,7 +24,6 @@
 | The Mysterious Stranger | 2.00% | ~13 |
 | Whiz Kid | 2.00% | ~13 |
 | Rail Rat | 2.00% | ~13 |
-| The Loose Cannon | 2.00% | ~13 |
 | Time Flies | 2.00% | ~13 |
 | The Harder They Fall | 2.00% | ~13 |
 | No, Thanks! | 2.00% | ~13 |
@@ -47,10 +47,10 @@
 | Syron for Hope | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
 | Golem Hunter | 0.80% | ~5 |
+| Wunderkind | 0.30% | ~2 |
 | Hexlock for Protection | 0.30% | ~2 |
 | Fitting In | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |
-| Wunderkind | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |
 | A Lesson in Precision | 0.20% | ~1 |
 | Clovemary for Remembering | 0.00% | ~0 |

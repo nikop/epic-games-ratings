@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 992,
+  "EOS_Progressed": 993,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -955,6 +955,11 @@
       "Time": "2023-06-07T14:07:08.0041742+00:00",
       "NumProgressed": 992,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T04:07:08.3645986+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -966,7 +971,7 @@
       "Name": "Agent 47",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Auditor",
@@ -998,7 +1003,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Commandos",
@@ -1012,9 +1017,9 @@
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 129
     },
     {
       "ID": "Defense_Common",
@@ -1044,9 +1049,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 308
     },
     {
       "ID": "Everyone_is_here",
@@ -1150,7 +1155,7 @@
       "Name": "Bomberman",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "MoskitoBite",
@@ -1205,15 +1210,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 992,
+      "Progressed": 993,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-08T03:19:58.9866404+00:00",
+  "LastChanged_Achievements": "2023-06-08T04:07:08.3645981+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
-  "LastUpdate_Ratings": "2023-06-08T03:13:05.4245445+00:00",
-  "LastUpdate_Achievements": "2023-06-08T03:19:58.9866738+00:00"
+  "LastUpdate_Ratings": "2023-06-08T04:00:10.3969756+00:00",
+  "LastUpdate_Achievements": "2023-06-08T04:07:08.3646303+00:00"
 }

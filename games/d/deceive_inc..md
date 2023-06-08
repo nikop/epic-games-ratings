@@ -27,8 +27,8 @@ Rating: 4.65 (Ranked 296)
 | Keycards Royale | 23.00% | ~1,528 |
 | In It to Win It | 23.00% | ~1,528 |
 | Security Supervisor | 10.00% | ~664 |
+| Social of Solace | 9.00% | ~598 |
 | License to Thrill | 8.00% | ~531 |
-| Social of Solace | 8.00% | ~531 |
 | Safe Withdrawal | 6.00% | ~399 |
 | Live and let lie | 5.00% | ~332 |
 | Call Me Maybe | 5.00% | ~332 |

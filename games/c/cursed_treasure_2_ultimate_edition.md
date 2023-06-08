@@ -22,14 +22,14 @@
 | Takeover | 69.00% | ~110 |
 | Woodcutter | 69.00% | ~110 |
 | Architect of Darkness | 69.00% | ~110 |
+| Top of the World | 68.00% | ~108 |
 | Sharpshooter | 68.00% | ~108 |
-| Top of the World | 67.00% | ~107 |
-| The Apotheosis of War | 65.00% | ~103 |
+| The Apotheosis of War | 66.00% | ~105 |
 | Stasis Alcatraz | 65.00% | ~103 |
-| Tastes Like Chicken | 61.00% | ~97 |
+| Tastes Like Chicken | 62.00% | ~99 |
+| Thunderstorm | 61.00% | ~97 |
 | Brilliant: Holy Mountain | 60.00% | ~95 |
 | Combo Breaker | 60.00% | ~95 |
-| Thunderstorm | 60.00% | ~95 |
 | Clean Forests | 58.00% | ~92 |
 | Starry: Meadowshire | 55.00% | ~87 |
 | Lieutenant of the Evil | 54.00% | ~86 |

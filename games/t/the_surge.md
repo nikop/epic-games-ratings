@@ -7,16 +7,16 @@ Number of Ratings: 62  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On My Own Two Feet | 94.00% | ~4,097 |
-| I'll Be Back | 84.00% | ~3,661 |
+| I'll Be Back | 84.00% | ~3,662 |
 | Sorry, I Dropped This | 77.00% | ~3,356 |
-| First Day on the Job | 76.00% | ~3,312 |
-| Butcher's Bill | 54.00% | ~2,353 |
-| P.A.X | 37.00% | ~1,612 |
+| First Day on the Job | 76.00% | ~3,313 |
+| Butcher's Bill | 54.00% | ~2,354 |
+| P.A.X | 37.00% | ~1,613 |
 | Hey Listen | 36.00% | ~1,569 |
-| OPERATOR | 35.00% | ~1,525 |
+| OPERATOR | 35.00% | ~1,526 |
 | It's Blue Light | 33.00% | ~1,438 |
 | Most Wanted | 26.00% | ~1,133 |
-| Infidel | 23.00% | ~1,002 |
+| Infidel | 23.00% | ~1,003 |
 | GOLIATH | 21.00% | ~915 |
 | Firebug | 20.00% | ~872 |
 | I Choose You | 17.00% | ~741 |
@@ -41,8 +41,8 @@ Number of Ratings: 62  (23.09.2022)
 | Duty-Bound | 7.00% | ~305 |
 | Liberation | 7.00% | ~305 |
 | Risk Assessment | 7.00% | ~305 |
-| Sunglasses at Night | 6.00% | ~261 |
-| Follow the White Rabbit | 6.00% | ~261 |
+| Sunglasses at Night | 6.00% | ~262 |
+| Follow the White Rabbit | 6.00% | ~262 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~218 |
 | Man of Steel | 5.00% | ~218 |
 | Jack of All Trades | 5.00% | ~218 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,358 (Ranked 129)  
+Progressed: 4,359 (Ranked 129)  
 Completed: 13 (0.30%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 13 (0.30%) (Ranked 132)
 | 2023-06-05 | 4,340 | 13 |
 | 2023-06-06 | 4,348 | 13 |
 | 2023-06-07 | 4,355 | 13 |
-| 2023-06-08 | 4,358 | 13 |
+| 2023-06-08 | 4,359 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 462)  
 Sum: 26 (Ranked 470)  
