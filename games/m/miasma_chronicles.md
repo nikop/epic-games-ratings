@@ -12,23 +12,23 @@ Rating: 4.34 (Ranked 735)
 | I am the law! | 59.00% | ~625 |
 | Lumberjack | 45.00% | ~477 |
 | Croaked | 41.00% | ~434 |
-| Limp Richard | 39.00% | ~413 |
+| Limp Richard | 40.00% | ~424 |
 | From Darkness to Light | 39.00% | ~413 |
+| Editor Adept | 37.00% | ~392 |
 | Exorcist | 37.00% | ~392 |
 | Firestarter | 37.00% | ~392 |
-| Editor Adept | 36.00% | ~381 |
 | Giant Killer | 34.00% | ~360 |
 | Sensei | 32.00% | ~339 |
-| The meaning of Kain | 30.00% | ~318 |
+| The meaning of Kain | 31.00% | ~328 |
 | Technophobe | 28.00% | ~297 |
-| Recycler | 25.00% | ~265 |
+| Recycler | 26.00% | ~275 |
 | Are you not entertained? | 22.00% | ~233 |
 | Jarhead | 22.00% | ~233 |
 | Ganglord | 21.00% | ~222 |
 | Infiltrator | 21.00% | ~222 |
 | Pushing Daisy | 20.00% | ~212 |
 | Chain Killer | 19.00% | ~201 |
-| There Can Be Only One! | 18.00% | ~191 |
+| There Can Be Only One! | 19.00% | ~201 |
 | Experienced | 17.00% | ~180 |
 | Hold The Line | 17.00% | ~180 |
 | Endgame | 14.00% | ~148 |
@@ -37,7 +37,7 @@ Rating: 4.34 (Ranked 735)
 | The Watchers | 13.00% | ~138 |
 | Ruthless | 12.00% | ~127 |
 | Dr Jones | 10.00% | ~106 |
-| Chaos Theory | 8.00% | ~85 |
+| Chaos Theory | 9.00% | ~95 |
 | Commando | 8.00% | ~85 |
 | Chain Reaction | 7.00% | ~74 |
 | Curveball | 7.00% | ~74 |

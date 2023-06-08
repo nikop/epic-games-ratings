@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-28T14:00:00+00:00",
     "PcReleaseDate": "2017-09-28T11:20:00+00:00",
@@ -3221,10 +3221,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 13586,
       "NumberOfAwardsMax": 4337
+    },
+    {
+      "Time": "2023-06-08T18:57:52.9718887+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 13590,
+      "NumberOfAwardsMax": 4337
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13586,
+  "NumberOfAwards": 13590,
   "NumberOfAwardsMax": 4337,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3262,7 +3268,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 971
+      "Count": 972
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3274,7 +3280,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 911
+      "Count": 913
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3286,7 +3292,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 902
+      "Count": 903
     },
     {
       "Text": "This game has a Creative Community",
@@ -3318,8 +3324,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2023-06-08T13:02:32.724362+00:00",
+  "LastChanged": "2023-06-08T18:57:52.9718886+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:37.7401335+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:57:48.7756425+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:01:28.663942+00:00"
+  "LastUpdate_Ratings": "2023-06-08T18:57:52.9718891+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:02:23.461141+00:00"
 }

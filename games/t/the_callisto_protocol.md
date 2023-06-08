@@ -5,18 +5,18 @@ Rating: 4.18 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~1,917 |
-| The Outer Way | 11.00% | ~1,622 |
-| Desperate Times | 11.00% | ~1,622 |
-| Paper Jams | 9.00% | ~1,327 |
-| Chew 'Em Up | 8.00% | ~1,180 |
-| Reforged | 8.00% | ~1,180 |
-| Workplace Hazard | 7.00% | ~1,032 |
-| If the SHU Fits... | 7.00% | ~1,032 |
+| Flesh Wound | 13.00% | ~1,918 |
+| The Outer Way | 11.00% | ~1,623 |
+| Desperate Times | 11.00% | ~1,623 |
+| Paper Jams | 9.00% | ~1,328 |
+| Chew 'Em Up | 8.00% | ~1,181 |
+| Reforged | 8.00% | ~1,181 |
+| Workplace Hazard | 7.00% | ~1,033 |
+| If the SHU Fits... | 7.00% | ~1,033 |
 | Giving Back | 6.00% | ~885 |
 | Get a Grip | 6.00% | ~885 |
 | Without A Paddle | 6.00% | ~885 |
-| Terminated | 5.00% | ~737 |
+| Terminated | 5.00% | ~738 |
 | Two Heads Are Better Than One | 4.00% | ~590 |
 | Float Like A Butterfly | 4.00% | ~590 |
 | In the Pipe, Five by Five | 4.00% | ~590 |
@@ -24,10 +24,10 @@ Rating: 4.18 (Ranked 840)
 | Power Up | 4.00% | ~590 |
 | Instigator | 4.00% | ~107 |
 | Big Game Hunter | 4.00% | ~107 |
-| You Need a Gun | 3.00% | ~442 |
-| The Commonality | 3.00% | ~442 |
-| What Lies Beneath | 3.00% | ~442 |
-| Full Circle | 3.00% | ~442 |
+| You Need a Gun | 3.00% | ~443 |
+| The Commonality | 3.00% | ~443 |
+| What Lies Beneath | 3.00% | ~443 |
+| Full Circle | 3.00% | ~443 |
 | Bear Trap | 3.00% | ~80 |
 | I Do Belong Here | 2.00% | ~295 |
 | In Striking Distance | 2.00% | ~295 |
@@ -39,14 +39,14 @@ Rating: 4.18 (Ranked 840)
 | Recidivist | 0.70% | ~19 |
 | Lifer | 0.70% | ~19 |
 | Armed to the Teeth | 0.20% | ~5 |
-| The Protocol is About Life | 0.20% | ~29 |
+| The Protocol is About Life | 0.20% | ~30 |
 | It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~3 |
 | You Belong Here | 0.10% | ~3 |
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,749 (Ranked 104)  
+Progressed: 14,757 (Ranked 104)  
 Completed: 54 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 54 (0.37%) (Ranked 118)
 | 2023-06-05 | 14,579 | 54 |
 | 2023-06-06 | 14,637 | 54 |
 | 2023-06-07 | 14,702 | 54 |
-| 2023-06-08 | 14,749 | 54 |
+| 2023-06-08 | 14,757 | 54 |
 ## Awards
 Max (Amazing Storytelling): 51  (Ranked 387)  
 Sum: 296 (Ranked 328)  

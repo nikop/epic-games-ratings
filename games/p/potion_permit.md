@@ -5,31 +5,31 @@ Rating: 3.80 (Ranked 926)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,344 |
-| The First Step | 88.00% | ~1,206 |
+| Welcome to Moonbury | 98.00% | ~1,345 |
+| The First Step | 88.00% | ~1,207 |
 | Moonbury Traveller | 63.00% | ~864 |
-| Rookie Chemist | 62.00% | ~850 |
+| Rookie Chemist | 62.00% | ~851 |
 | Great Doctor | 50.00% | ~686 |
-| Dog Whisperer | 48.00% | ~658 |
+| Dog Whisperer | 48.00% | ~659 |
 | Friendly | 46.00% | ~631 |
 | The Capitalist | 42.00% | ~576 |
-| K.O.! | 41.00% | ~562 |
-| Intermediate Chemist | 37.00% | ~507 |
+| K.O.! | 41.00% | ~563 |
+| Intermediate Chemist | 37.00% | ~508 |
 | Decorative Mind | 31.00% | ~425 |
 | Lumber Specialist | 29.00% | ~398 |
-| Catch of the Day | 23.00% | ~315 |
+| Catch of the Day | 23.00% | ~316 |
 | Kind-hearted | 22.00% | ~302 |
 | Amateur Chef | 20.00% | ~274 |
 | Fishing Guru | 18.00% | ~247 |
-| Community Helper | 16.00% | ~219 |
+| Community Helper | 16.00% | ~220 |
 | Spark of Love | 15.00% | ~206 |
 | Expert Chemist | 12.00% | ~165 |
 | Stone Specialist | 12.00% | ~165 |
-| Line Cook | 11.00% | ~151 |
 | Sociable | 11.00% | ~151 |
 | Ablutomaniac | 11.00% | ~151 |
 | Production Sorter | 11.00% | ~151 |
 | Good Samaritan | 10.00% | ~137 |
+| Line Cook | 10.00% | ~137 |
 | Acrobatic Adventurer | 8.00% | ~110 |
 | Animal Exterminator | 7.00% | ~96 |
 | Adolescent Love | 6.00% | ~82 |
@@ -44,7 +44,7 @@ Rating: 3.80 (Ranked 926)
 | Moonbury Navigator | 0.80% | ~11 |
 | Being a donut... | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,371 (Ranked 162)  
+Progressed: 1,372 (Ranked 162)  
 Completed: 6 (0.44%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 6 (0.44%) (Ranked 117)
 | 2023-06-05 | 1,351 | 6 |
 | 2023-06-06 | 1,357 | 6 |
 | 2023-06-07 | 1,366 | 6 |
-| 2023-06-08 | 1,371 | 6 |
+| 2023-06-08 | 1,372 | 6 |
 ## Awards
 Max (Character Customization): 66  (Ranked 370)  
 Sum: 66 (Ranked 427)  

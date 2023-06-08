@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -2221,9 +2221,9 @@
       "Count": 728
     }
   ],
-  "EOS_Progressed": 230362,
+  "EOS_Progressed": 230363,
   "EOS_Completed": 237,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7011,6 +7011,11 @@
       "Time": "2023-06-08T18:06:53.2696823+00:00",
       "NumProgressed": 230362,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2023-06-08T19:07:44.3555667+00:00",
+      "NumProgressed": 230363,
+      "NumCompleted": 237
     }
   ],
   "TotalAchievements": 122,
@@ -7030,7 +7035,7 @@
       "Name": "Achievement Hunter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9214
+      "UsersEstimate": 9215
     },
     {
       "ID": "ATTACKOWL",
@@ -7038,7 +7043,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 94448
+      "UsersEstimate": 94449
     },
     {
       "ID": "BOSSPIT",
@@ -7062,7 +7067,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 89841
+      "UsersEstimate": 89842
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -7142,7 +7147,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 168164
+      "UsersEstimate": 168165
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -7150,7 +7155,7 @@
       "Name": "Hydrophobe",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9214
+      "UsersEstimate": 9215
     },
     {
       "ID": "DESTROY20ITEMS",
@@ -7174,7 +7179,7 @@
       "Name": "R.I.P",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 82930
+      "UsersEstimate": 82931
     },
     {
       "ID": "DIEBOSS",
@@ -7182,7 +7187,7 @@
       "Name": "To The Death!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 46072
+      "UsersEstimate": 46073
     },
     {
       "ID": "DIEHARD",
@@ -7206,7 +7211,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 133610
+      "UsersEstimate": 133611
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -7214,7 +7219,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76019
+      "UsersEstimate": 76020
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -7270,7 +7275,7 @@
       "Name": "Explosive Betrayal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9214
+      "UsersEstimate": 9215
     },
     {
       "ID": "FREEZE200",
@@ -7342,7 +7347,7 @@
       "Name": "Berzerker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 27643
+      "UsersEstimate": 27644
     },
     {
       "ID": "HIGHCLARITY",
@@ -7350,7 +7355,7 @@
       "Name": "Willing the World",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9214
+      "UsersEstimate": 9215
     },
     {
       "ID": "HIGHDEFENSE",
@@ -7382,7 +7387,7 @@
       "Name": "Predator",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9214
+      "UsersEstimate": 9215
     },
     {
       "ID": "HITOWLSPOON",
@@ -7406,7 +7411,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9214
+      "UsersEstimate": 9215
     },
     {
       "ID": "INTIMIDATE250",
@@ -7414,7 +7419,7 @@
       "Name": "Become The Nightmare",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9214
+      "UsersEstimate": 9215
     },
     {
       "ID": "KILL100",
@@ -7510,7 +7515,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 124395
+      "UsersEstimate": 124396
     },
     {
       "ID": "KILLNICEDOG",
@@ -7614,7 +7619,7 @@
       "Name": "Chain Reaction",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 27643
+      "UsersEstimate": 27644
     },
     {
       "ID": "MULTIKILL30",
@@ -7622,7 +7627,7 @@
       "Name": "C-C-Combo",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 94448
+      "UsersEstimate": 94449
     },
     {
       "ID": "NOEPIC",
@@ -7638,7 +7643,7 @@
       "Name": "No Mercy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9214
+      "UsersEstimate": 9215
     },
     {
       "ID": "PACIFY10DOG",
@@ -7670,7 +7675,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 149735
+      "UsersEstimate": 149736
     },
     {
       "ID": "PETRIFY50",
@@ -7702,7 +7707,7 @@
       "Name": "Toxic",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76019
+      "UsersEstimate": 76020
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -7766,7 +7771,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 205022
+      "UsersEstimate": 205023
     },
     {
       "ID": "SPECIALROOMS10",
@@ -7774,7 +7779,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 142824
+      "UsersEstimate": 142825
     },
     {
       "ID": "SPEEDRUN10",
@@ -7997,7 +8002,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 230362,
+      "Progressed": 230363,
       "Completed": 237
     }
   ],
@@ -8005,8 +8010,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-06-08T16:00:03.2311913+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:06:53.2696814+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:07:44.3555659+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:51.2413043+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:59:49.1826301+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:06:53.2699504+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:00:20.5272468+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:07:44.3557765+00:00"
 }

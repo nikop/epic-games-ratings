@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~732 |
+| Country Bumpkin | 74.00% | ~742 |
 | A new Journey | 72.00% | ~722 |
 | Departure | 71.00% | ~712 |
 | From X to Y | 70.00% | ~702 |
@@ -15,9 +15,9 @@
 | Mind the Gap | 63.00% | ~632 |
 | Travel Company | 63.00% | ~632 |
 | All around the World | 60.00% | ~602 |
-| Right through the middle | 54.00% | ~542 |
+| Right through the middle | 55.00% | ~552 |
+| Facility Manager | 51.00% | ~512 |
 | Poor Devil | 51.00% | ~512 |
-| Facility Manager | 50.00% | ~502 |
 | Producer | 46.00% | ~461 |
 | Apprentice | 42.00% | ~421 |
 | Bridge Builder | 37.00% | ~371 |
@@ -40,8 +40,8 @@
 | Breaking Ground | 14.00% | ~140 |
 | Assimilated | 13.00% | ~130 |
 | Locusts | 13.00% | ~130 |
-| Networker | 12.00% | ~120 |
-| Resistance is futile | 11.00% | ~110 |
+| Networker | 13.00% | ~130 |
+| Resistance is futile | 12.00% | ~120 |
 | Max Power | 9.00% | ~90 |
 | Go West | 8.00% | ~80 |
 | Settler | 8.00% | ~80 |

@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 293,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 15.46,
+  "EOS_Completed_Percentage": 15.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1298,6 +1298,11 @@
       "Time": "2023-06-08T16:06:33.9255478+00:00",
       "NumProgressed": 291,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-06-08T19:07:03.9187505+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 22,
@@ -1309,15 +1314,15 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 285
+      "UsersEstimate": 287
     },
     {
       "ID": "LEVEL_002",
       "SetID": "3khpmem",
       "Name": "A tiny town",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 250
+      "UsersEstimate": 249
     },
     {
       "ID": "LEVEL_003",
@@ -1325,7 +1330,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "LEVEL_004",
@@ -1333,7 +1338,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "LEVEL_005",
@@ -1341,7 +1346,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "LEVEL_006",
@@ -1349,7 +1354,7 @@
       "Name": "Found an oasis",
       "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "LEVEL_007",
@@ -1365,7 +1370,7 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "LEVEL_009",
@@ -1373,7 +1378,7 @@
       "Name": "Who loves trains?",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "LEVEL_010",
@@ -1413,7 +1418,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "LEVEL_015",
@@ -1421,7 +1426,7 @@
       "Name": "Monumental tribute",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_016",
@@ -1429,15 +1434,15 @@
       "Name": "The beach is right there",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "LEVEL_018",
@@ -1445,7 +1450,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "LEVEL_019",
@@ -1484,7 +1489,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 293,
       "Completed": 45
     }
   ],
@@ -1492,8 +1497,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:06:17.9047804+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:07:03.91875+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:58:20.9898948+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:06:17.9048076+00:00"
+  "LastUpdate_Ratings": "2023-06-08T18:58:32.1242173+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:07:03.9187753+00:00"
 }

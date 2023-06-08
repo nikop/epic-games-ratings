@@ -4106,11 +4106,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 30049,
       "NumberOfAwardsMax": 4920
+    },
+    {
+      "Time": "2023-06-08T18:58:33.3558049+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30051,
+      "NumberOfAwardsMax": 4922
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30049,
-  "NumberOfAwardsMax": 4920,
+  "NumberOfAwards": 30051,
+  "NumberOfAwardsMax": 4922,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4123,7 +4129,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4920
+      "Count": 4922
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4156,9 +4162,9 @@
       "Count": 3247
     }
   ],
-  "EOS_Progressed": 90138,
+  "EOS_Progressed": 90144,
   "EOS_Completed": 1924,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9161,6 +9167,11 @@
       "Time": "2023-06-08T18:06:56.0629023+00:00",
       "NumProgressed": 90138,
       "NumCompleted": 1924
+    },
+    {
+      "Time": "2023-06-08T19:07:47.4761834+00:00",
+      "NumProgressed": 90144,
+      "NumCompleted": 1924
     }
   ],
   "TotalAchievements": 493,
@@ -11978,9 +11989,9 @@
       "ID": "objective_completed_636",
       "SetID": "415jc5c",
       "Name": "Dream Gauntlet",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_637",
@@ -12010,9 +12021,9 @@
       "ID": "objective_completed_641",
       "SetID": "415jc5c",
       "Name": "The Path of Redcaps",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_642",
@@ -12314,9 +12325,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 901
     },
     {
       "ID": "objective_completed_70",
@@ -13092,7 +13103,7 @@
       "Name": "Coasting to the Finish",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "objective_completed_1360",
@@ -13115,21 +13126,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56412,
+      "Progressed": 56418,
       "Completed": 2777
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90138,
+      "Progressed": 90144,
       "Completed": 1924
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-07T22:58:10.9450923+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:06:56.0629017+00:00",
+  "LastChanged": "2023-06-08T18:58:33.3558048+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:07:47.476183+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:58:22.1278772+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:06:56.0652745+00:00"
+  "LastUpdate_Ratings": "2023-06-08T18:58:33.3558055+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:07:47.4784472+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -566,9 +566,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14749,
+  "EOS_Progressed": 14757,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 525,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3201,6 +3201,11 @@
       "Time": "2023-06-08T18:04:33.991218+00:00",
       "NumProgressed": 14749,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-08T19:05:04.1383893+00:00",
+      "NumProgressed": 14757,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3236,7 +3241,7 @@
       "Name": "You Need a Gun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "DISARM_ENEMY",
@@ -3244,7 +3249,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3284,7 +3289,7 @@
       "Name": "The Protocol is About Life",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "FINISH_GAME_HARDCORE",
@@ -3340,7 +3345,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "KILL_ROBOT",
@@ -3348,7 +3353,7 @@
       "Name": "Terminated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3356,7 +3361,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3364,7 +3369,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -3380,7 +3385,7 @@
       "Name": "Reforged",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3388,7 +3393,7 @@
       "Name": "Paper Jams",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3404,7 +3409,7 @@
       "Name": "The Outer Way",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3412,7 +3417,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "STORY_HABITAT",
@@ -3436,7 +3441,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -3444,7 +3449,7 @@
       "Name": "Desperate Times",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3460,7 +3465,7 @@
       "Name": "Full Circle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "STORY_TUNNELS",
@@ -3531,13 +3536,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14749,
+      "Progressed": 14757,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2675,
+      "Progressed": 2683,
       "Completed": 29
     }
   ],
@@ -3545,8 +3550,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-08T16:57:58.092836+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:04:33.9912174+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:05:04.1383887+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:58:11.6587096+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:04:33.9912732+00:00"
+  "LastUpdate_Ratings": "2023-06-08T18:58:20.5156133+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:05:04.1384633+00:00"
 }

@@ -9,11 +9,11 @@ Rating: 4.57 (Ranked 443)
 | Infinite Growth... | 13.00% | ~326 |
 | Sputnik 2049 | 13.00% | ~326 |
 | Without Breaking Some Eggs... | 12.00% | ~301 |
-| Space Society | 8.00% | ~200 |
-| A Thousand Strong | 8.00% | ~200 |
-| Ready for a New World | 8.00% | ~200 |
-| Permanent Redesigns | 7.00% | ~175 |
-| Ain't Nobody Got Time for That | 7.00% | ~175 |
+| Space Society | 8.00% | ~201 |
+| A Thousand Strong | 8.00% | ~201 |
+| Ready for a New World | 8.00% | ~201 |
+| Permanent Redesigns | 7.00% | ~176 |
+| Ain't Nobody Got Time for That | 7.00% | ~176 |
 | Guy de Borderlands | 6.00% | ~150 |
 | Fully Recycled | 6.00% | ~150 |
 | Breaking Protocol | 6.00% | ~150 |
@@ -44,7 +44,7 @@ Rating: 4.57 (Ranked 443)
 | Catastrophe Avoided | 0.80% | ~20 |
 | Praise the Hull! | 0.80% | ~20 |
 | You Had One Job... | 0.80% | ~20 |
-| Space Greenhouse | 0.70% | ~18 |
+| Space Greenhouse | 0.80% | ~20 |
 | Tiqqun Contender | 0.60% | ~15 |
 | Gregor Spinoza | 0.60% | ~15 |
 | Tiqqun Unchained | 0.60% | ~15 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 443)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,506 (Ranked 146)  
+Progressed: 2,508 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 2,460 | 0 |
 | 2023-06-06 | 2,471 | 0 |
 | 2023-06-07 | 2,488 | 0 |
-| 2023-06-08 | 2,506 | 0 |
+| 2023-06-08 | 2,508 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

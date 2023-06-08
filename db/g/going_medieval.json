@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1046,9 +1046,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 3393,
+  "EOS_Progressed": 3394,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2281,6 +2281,11 @@
       "Time": "2023-06-08T18:06:35.122106+00:00",
       "NumProgressed": 3393,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-08T19:07:24.0334084+00:00",
+      "NumProgressed": 3394,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 31,
@@ -2292,7 +2297,7 @@
       "Name": "Get A Room",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2376
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -2332,15 +2337,15 @@
       "Name": "Having A Field Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     },
     {
       "ID": "HARVEST_CROP_50",
       "SetID": "5349c2e",
       "Name": "Reap What You Sow",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2274
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -2436,7 +2441,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -2468,7 +2473,7 @@
       "Name": "Heating Up",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -2516,7 +2521,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -2524,7 +2529,7 @@
       "Name": "Onward",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -2539,15 +2544,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 3393,
+      "Progressed": 3394,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-08T13:04:30.5741011+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:06:35.1221052+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:07:24.0334077+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.8895612+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:00:10.890295+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:06:35.1221397+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:00:46.3421771+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:07:24.0334397+00:00"
 }

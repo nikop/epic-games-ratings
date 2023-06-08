@@ -1,13 +1,13 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.61 (Ranked 361)  
+Rating: 4.61 (Ranked 360)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 43.00% | ~3,437 |
-| Greasy Palms | 39.00% | ~3,117 |
-| South American Connection | 23.00% | ~1,838 |
+| Greasy Palms | 39.00% | ~3,118 |
+| South American Connection | 23.00% | ~1,839 |
 | Life of the Party | 18.00% | ~1,439 |
 | Big Heat from Little Havana | 13.00% | ~1,039 |
 | Chauffeur | 13.00% | ~1,039 |
@@ -23,12 +23,12 @@ Rating: 4.61 (Ranked 361)
 | Grand Theft Auto | 4.00% | ~320 |
 | High Quality H2O | 3.00% | ~240 |
 | Pie Guy | 3.00% | ~240 |
+| Don't Need Roads | 3.00% | ~240 |
 | Running Rampant | 2.00% | ~160 |
 | Point A to Point B | 2.00% | ~160 |
 | Bull in a China Shop | 2.00% | ~160 |
 | Somebody Call the Wambulance? | 2.00% | ~160 |
 | Just Like the Real Thing | 2.00% | ~160 |
-| Don't Need Roads | 2.00% | ~160 |
 | Take the Cannoli | 2.00% | ~160 |
 | City Sleuth | 2.00% | ~160 |
 | One is Better Than Two | 1.00% | ~80 |
@@ -40,7 +40,7 @@ Rating: 4.61 (Ranked 361)
 | Done it All | 0.60% | ~48 |
 | Kingpin | 0.30% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,993 (Ranked 115)  
+Progressed: 7,994 (Ranked 115)  
 Completed: 26 (0.33%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 26 (0.33%) (Ranked 124)
 | 2023-06-05 | 7,784 | 25 |
 | 2023-06-06 | 7,854 | 26 |
 | 2023-06-07 | 7,929 | 26 |
-| 2023-06-08 | 7,993 | 26 |
+| 2023-06-08 | 7,994 | 26 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 396)  
 Sum: 49 (Ranked 440)  

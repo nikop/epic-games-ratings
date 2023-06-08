@@ -11,7 +11,7 @@ Rating: 4.50 (Ranked 545)
 | It's Starting to Crack | 16.00% | ~386 |
 | Lord of War | 14.00% | ~338 |
 | Change the Channel | 14.00% | ~338 |
-| Resourceful | 13.00% | ~313 |
+| Resourceful | 13.00% | ~314 |
 | Taking it back | 12.00% | ~289 |
 | Organ Grinder | 10.00% | ~241 |
 | As Quiet as a Mouse | 10.00% | ~241 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 545)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,411 (Ranked 148)  
+Progressed: 2,412 (Ranked 148)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-05 | 2,307 | 2 |
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
-| 2023-06-08 | 2,411 | 2 |
+| 2023-06-08 | 2,412 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

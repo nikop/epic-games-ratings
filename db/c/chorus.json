@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -270,7 +270,7 @@
   ],
   "EOS_Progressed": 942,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -812,9 +812,9 @@
       "ID": "AllTrophies",
       "SetID": "a6c395p",
       "Name": "Demigod",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 150,
-      "UsersEstimate": 716
+      "UsersEstimate": 725
     },
     {
       "ID": "DieInPermadeath",
@@ -1164,8 +1164,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:06:47.1530867+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:07:37.6090876+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:26.7111078+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:00:21.6289539+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:06:47.1531259+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:00:59.6427417+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:07:37.6091216+00:00"
 }

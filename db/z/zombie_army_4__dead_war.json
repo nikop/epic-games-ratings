@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1611,9 +1611,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42660,
+  "EOS_Progressed": 42661,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3426,6 +3426,11 @@
       "Time": "2023-06-08T17:06:29.1524559+00:00",
       "NumProgressed": 42660,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-08T19:07:41.5426358+00:00",
+      "NumProgressed": 42661,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -3533,7 +3538,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 5972
+      "UsersEstimate": 5973
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -3629,7 +3634,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26449
+      "UsersEstimate": 26450
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3653,7 +3658,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18770
+      "UsersEstimate": 18771
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -3725,7 +3730,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15784
+      "UsersEstimate": 15785
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -3829,7 +3834,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18770
+      "UsersEstimate": 18771
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -3837,7 +3842,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27729
+      "UsersEstimate": 27730
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -3877,7 +3882,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14504
+      "UsersEstimate": 14505
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -3893,7 +3898,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27729
+      "UsersEstimate": 27730
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -3901,7 +3906,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10238
+      "UsersEstimate": 10239
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -3964,15 +3969,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42660,
+      "Progressed": 42661,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-08T05:00:07.9659591+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:06:50.7496671+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:07:41.5426353+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.3124724+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:00:10.5804891+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:06:50.7497365+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:00:45.948038+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:07:41.5427147+00:00"
 }

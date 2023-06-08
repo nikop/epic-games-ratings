@@ -10,13 +10,13 @@ Number of Ratings: 118  (23.09.2022)
 | Alt+F4 | 100.00% | ~43 |
 | Sock! SOCK! | 86.00% | ~37 |
 | Fireproof Wizardess | 72.00% | ~31 |
+| Livin' in a dwarven paradise | 67.00% | ~29 |
 | DM intervention | 67.00% | ~29 |
-| Livin' in a dwarven paradise | 65.00% | ~28 |
 | Déjà vu | 65.00% | ~28 |
 | GG EZ | 60.00% | ~26 |
+| Way of the Wimp | 58.00% | ~25 |
 | Speedrun | 58.00% | ~25 |
 | Oh, when I'll be level 10... | 58.00% | ~25 |
-| Way of the Wimp | 56.00% | ~24 |
 | I am the night | 49.00% | ~21 |
 | Thieves' Guild Accreditation | 49.00% | ~21 |
 | A beer, two curses, three companions | 47.00% | ~20 |
@@ -36,9 +36,9 @@ Number of Ratings: 118  (23.09.2022)
 | The Famous Dungeon of Naheulbeuk | 28.00% | ~12 |
 | The Great Library | 26.00% | ~11 |
 | The Blood Countess | 26.00% | ~11 |
+| The beards of change | 26.00% | ~11 |
 | Urik's Depths | 23.00% | ~10 |
 | The Woman in the High Castle | 23.00% | ~10 |
-| The beards of change | 23.00% | ~10 |
 | Law and Order | 23.00% | ~10 |
 | In Navalu's footsteps | 21.00% | ~9 |
 | Scholar of the Lands of Fangh | 19.00% | ~8 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 310)  
+Progressed: 43 (Ranked 311)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

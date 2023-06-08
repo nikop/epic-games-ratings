@@ -6,23 +6,23 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,424 |
-| Leader | 61.00% | ~3,801 |
-| Explorer | 53.00% | ~3,302 |
-| Healer | 53.00% | ~3,302 |
+| First Step | 71.00% | ~4,425 |
+| Leader | 61.00% | ~3,802 |
+| Explorer | 53.00% | ~3,303 |
+| Healer | 53.00% | ~3,303 |
 | Aspiring Inventor | 45.00% | ~2,804 |
 | Adventurer | 41.00% | ~2,555 |
 | Famous Healer | 38.00% | ~2,368 |
 | Local Leader | 35.00% | ~2,181 |
 | New Opportunities | 34.00% | ~2,119 |
-| Famous Explorer | 33.00% | ~2,056 |
-| Energized | 33.00% | ~2,056 |
-| The Long Haul | 33.00% | ~2,056 |
+| Famous Explorer | 33.00% | ~2,057 |
+| Energized | 33.00% | ~2,057 |
+| The Long Haul | 33.00% | ~2,057 |
 | The Great Healer | 31.00% | ~1,932 |
 | Survivor | 31.00% | ~1,932 |
 | Cleaner | 28.00% | ~1,745 |
 | Catastrofan | 28.00% | ~1,745 |
-| Legendary Explorer | 27.00% | ~1,682 |
+| Legendary Explorer | 27.00% | ~1,683 |
 | Finders, Keepers | 26.00% | ~1,620 |
 | Top Notch | 25.00% | ~1,558 |
 | Mentor | 23.00% | ~1,433 |
@@ -42,7 +42,7 @@ Number of Ratings: 836  (23.09.2022)
 | Big Catastrofan | 12.00% | ~748 |
 | It's a Finnish Thing | 10.00% | ~623 |
 | Sky Burial | 9.00% | ~561 |
-| Trader | 8.00% | ~498 |
+| Trader | 8.00% | ~499 |
 | Bread and Circuses | 7.00% | ~436 |
 | Tailored to fit | 7.00% | ~436 |
 | Really Friendly | 6.00% | ~374 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,231 (Ranked 123)  
+Progressed: 6,232 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 6,149 | 0 |
 | 2023-06-06 | 6,175 | 0 |
 | 2023-06-07 | 6,205 | 0 |
-| 2023-06-08 | 6,231 | 0 |
+| 2023-06-08 | 6,232 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 327)  
 Sum: 662 (Ranked 271)  

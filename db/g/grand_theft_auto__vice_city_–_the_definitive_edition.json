@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 361,
+  "Ranking_Rating": 360,
   "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 115,
@@ -406,9 +406,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 7993,
+  "EOS_Progressed": 7994,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3941,6 +3941,11 @@
       "Time": "2023-06-08T18:03:17.428154+00:00",
       "NumProgressed": 7993,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-08T19:03:25.5996219+00:00",
+      "NumProgressed": 7994,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 34,
@@ -4056,7 +4061,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3118
     },
     {
       "ID": "ACH15",
@@ -4094,9 +4099,9 @@
       "ID": "ACH19",
       "SetID": "9llo822",
       "Name": "Don\u0027t Need Roads",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH20",
@@ -4128,7 +4133,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "ACH24",
@@ -4223,7 +4228,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7993,
+      "Progressed": 7994,
       "Completed": 26
     }
   ],
@@ -4231,8 +4236,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-07T21:57:56.8493042+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:03:17.4281535+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:03:25.5996211+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.8139479+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:58:34.9360242+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:03:17.4282049+00:00"
+  "LastUpdate_Ratings": "2023-06-08T18:58:49.1123295+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:03:25.5996677+00:00"
 }

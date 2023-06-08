@@ -4,8 +4,8 @@
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
     "PcReleaseDate": "2021-09-09T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 49,
+  "EOS_Progressed": 50,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
     {
       "Time": "2023-05-29T00:06:14.2014575+00:00",
       "NumProgressed": 49,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T19:01:50.2914183+00:00",
+      "NumProgressed": 50,
       "NumCompleted": 0
     }
   ],
@@ -106,9 +111,9 @@
       "ID": "CrabCakes",
       "SetID": "6jf74lf",
       "Name": "Crab Cakes",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "DropIn",
@@ -132,7 +137,7 @@
       "Name": "Finish Him",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "FlightOfTheRaven",
@@ -164,7 +169,7 @@
       "Name": "Just a Taste",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "LastBullet",
@@ -226,9 +231,9 @@
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ToSunrise",
@@ -242,9 +247,9 @@
       "ID": "TreasureHunter",
       "SetID": "6jf74lf",
       "Name": "Treasure Hunter",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "WalkingOnAir",
@@ -259,7 +264,7 @@
     {
       "ID": "6jf74lf",
       "IsBase": true,
-      "Progressed": 49,
+      "Progressed": 50,
       "Completed": 0
     }
   ],
@@ -267,8 +272,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:01:00.8353755+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:01:50.2914175+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:44.7599444+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:00:36.729676+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:01:00.835396+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:01:19.6111089+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:01:50.2914379+00:00"
 }

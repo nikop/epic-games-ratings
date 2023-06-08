@@ -20,9 +20,11 @@
 | The Prince in Heels | 3.00% | ~19 |
 | Time Heals All Wounds | 3.00% | ~19 |
 | Golem Chaser | 3.00% | ~19 |
+| Sump Explorer | 3.00% | ~19 |
 | Check Your Pulse | 3.00% | ~19 |
 | Immaculate Aim | 3.00% | ~19 |
 | The Family Fortune | 3.00% | ~19 |
+| Right On Time | 2.00% | ~13 |
 | Corin Goes Home | 2.00% | ~13 |
 | Sartorialist | 2.00% | ~13 |
 | Factorywood Explorer | 2.00% | ~13 |
@@ -34,13 +36,11 @@
 | The Harder They Fall | 2.00% | ~13 |
 | No, Thanks! | 2.00% | ~13 |
 | Fast Learner | 2.00% | ~13 |
-| Sump Explorer | 2.00% | ~13 |
 | Theater Explorer | 2.00% | ~13 |
 | Immaculate Aim | 2.00% | ~13 |
 | Ask Questions Later | 2.00% | ~13 |
 | Good Neighbor | 2.00% | ~13 |
 | The Brass Boss | 2.00% | ~13 |
-| Right On Time | 1.00% | ~6 |
 | Cultivair Explorer | 1.00% | ~6 |
 | Entresol Explorer | 1.00% | ~6 |
 | Honest Mistake | 1.00% | ~6 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 631 (Ranked 192)  
+Progressed: 632 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,4 +79,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 608 | 0 |
 | 2023-06-06 | 615 | 0 |
 | 2023-06-07 | 624 | 0 |
-| 2023-06-08 | 631 | 0 |
+| 2023-06-08 | 632 | 0 |

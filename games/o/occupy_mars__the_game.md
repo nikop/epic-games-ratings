@@ -1,16 +1,16 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.84 (Ranked 922)  
+Rating: 3.88 (Ranked 918)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 42.00% | ~483 |
-| Electrician | 34.00% | ~391 |
-| Fear my botany powers, Mars | 32.00% | ~368 |
+| I don't feel so good | 41.00% | ~472 |
+| Electrician | 34.00% | ~392 |
+| Fear my botany powers, Mars | 32.00% | ~369 |
 | Zero Waste | 29.00% | ~334 |
 | Bob The Builder | 29.00% | ~334 |
-| I am the greatest botanist on this planet. | 28.00% | ~322 |
+| I am the greatest botanist on this planet. | 28.00% | ~323 |
 | Gardener | 24.00% | ~276 |
 | Miner | 24.00% | ~276 |
 | Houston we have a problem | 21.00% | ~242 |
@@ -25,9 +25,9 @@ Rating: 3.84 (Ranked 922)
 | “Aliens” | 3.00% | ~35 |
 | Plumber | 2.00% | ~23 |
 | Driver's License | 1.00% | ~12 |
+| Explosive Miner | 1.00% | ~12 |
 | Hard Landing | 1.00% | ~12 |
 | To infinity and beyond! | 1.00% | ~12 |
-| Explosive Miner | 0.90% | ~10 |
 | Rocket Jump | 0.70% | ~8 |
 | Thunderstruck | 0.70% | ~8 |
 | 5G Network | 0.50% | ~6 |
@@ -54,7 +54,7 @@ Rating: 3.84 (Ranked 922)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,151 (Ranked 167)  
+Progressed: 1,152 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 1,130 | 0 |
 | 2023-06-06 | 1,142 | 0 |
 | 2023-06-07 | 1,144 | 0 |
-| 2023-06-08 | 1,151 | 0 |
+| 2023-06-08 | 1,152 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -104,3 +104,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-03 | 3.83 | 0 | 0 |
 | 2023-06-05 | 3.85 | 0 | 0 |
 | 2023-06-07 | 3.84 | 0 | 0 |
+| 2023-06-08 | 3.88 | 0 | 0 |

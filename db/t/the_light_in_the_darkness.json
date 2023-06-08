@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1567,
+  "EOS_Progressed": 1568,
   "EOS_Completed": 127,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 8.1,
   "EosHistory": [
@@ -2348,6 +2348,11 @@
       "Time": "2023-06-08T18:06:26.010889+00:00",
       "NumProgressed": 1567,
       "NumCompleted": 127
+    },
+    {
+      "Time": "2023-06-08T19:07:12.8541637+00:00",
+      "NumProgressed": 1568,
+      "NumCompleted": 127
     }
   ],
   "TotalAchievements": 12,
@@ -2359,7 +2364,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Bernard",
@@ -2423,7 +2428,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -2454,7 +2459,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1567,
+      "Progressed": 1568,
       "Completed": 127
     }
   ],
@@ -2462,8 +2467,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:06:26.0108884+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:07:12.8541629+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.6122754+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:59:54.3085617+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:06:26.0109148+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:00:26.4431183+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:07:12.8541831+00:00"
 }

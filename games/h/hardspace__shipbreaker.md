@@ -6,26 +6,26 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~531 |
-| It’s Heating up! | 69.00% | ~502 |
-| Let’s patch things up | 65.00% | ~473 |
-| I can fix it! | 61.00% | ~443 |
-| Post No Bills | 54.00% | ~393 |
-| Truly Shocking! | 46.00% | ~334 |
-| Critical Thinker | 33.00% | ~240 |
+| Breathe In… Breathe Out… | 73.00% | ~532 |
+| It’s Heating up! | 68.00% | ~496 |
+| Let’s patch things up | 65.00% | ~474 |
+| I can fix it! | 61.00% | ~445 |
+| Post No Bills | 54.00% | ~394 |
+| Truly Shocking! | 45.00% | ~328 |
+| Critical Thinker | 33.00% | ~241 |
 | Always Finding Your Mark | 28.00% | ~204 |
 | The Weight of the World | 28.00% | ~204 |
-| Act I Complete | 27.00% | ~196 |
-| No Niños | 27.00% | ~196 |
-| A drop in the Ocean | 26.00% | ~189 |
+| Act I Complete | 27.00% | ~197 |
+| No Niños | 27.00% | ~197 |
+| A drop in the Ocean | 26.00% | ~190 |
 | I ain’t afraid of no Ghost | 22.00% | ~160 |
-| Act II Complete | 19.00% | ~138 |
+| Act II Complete | 19.00% | ~139 |
 | Bing Bang BOOM | 18.00% | ~131 |
 | A successful procedure! | 17.00% | ~124 |
 | Breaking the Ice | 15.00% | ~109 |
 | Solidarity Forever | 11.00% | ~80 |
-| A Tucked Tale | 9.00% | ~65 |
-| The best thing money can buy | 9.00% | ~65 |
+| A Tucked Tale | 9.00% | ~66 |
+| The best thing money can buy | 9.00% | ~66 |
 | Act III Complete | 5.00% | ~36 |
 | Fire and Brimstone | 5.00% | ~36 |
 | See you Space Cowboy | 5.00% | ~36 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727 (Ranked 188)  
+Progressed: 729 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 713 | 0 |
 | 2023-06-06 | 715 | 0 |
 | 2023-06-07 | 720 | 0 |
-| 2023-06-08 | 727 | 0 |
+| 2023-06-08 | 729 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

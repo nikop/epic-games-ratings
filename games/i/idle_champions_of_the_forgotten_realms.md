@@ -8,15 +8,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,803 |
 | The Cursed Farmer | 1.00% | ~901 |
+| The Mad Wizard | 1.00% | ~901 |
 | Beast Intentions | 0.90% | ~811 |
-| The Mad Wizard | 0.90% | ~811 |
 | The Court of Storms | 0.90% | ~508 |
 | The Ring of Regeneration | 0.70% | ~631 |
 | Beware the Jabberwock | 0.70% | ~395 |
 | Were-verpowered | 0.60% | ~541 |
 | Seeking Allies | 0.60% | ~541 |
 | Are Ya Chicken? | 0.60% | ~541 |
-| Coasting to the Finish | 0.60% | ~338 |
+| Coasting to the Finish | 0.60% | ~339 |
 | Checkmate | 0.50% | ~282 |
 | A Persistent Buzzing | 0.50% | ~451 |
 | Mad Cow Disease | 0.50% | ~451 |
@@ -208,8 +208,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Déjà Vu All Over Again | 0.20% | ~113 |
 | Into The Fire | 0.20% | ~113 |
 | Dreamscape | 0.20% | ~113 |
+| Dream Gauntlet | 0.20% | ~113 |
 | Look Out! | 0.20% | ~113 |
 | The Path of Dreams | 0.20% | ~113 |
+| The Path of Redcaps | 0.20% | ~113 |
 | The Lost Hollyphant | 0.20% | ~113 |
 | Alterdeep | 0.20% | ~113 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~113 |
@@ -416,9 +418,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ireena von Zarovich | 0.10% | ~56 |
 | A Difficult Descent | 0.10% | ~56 |
 | The Devil Arrives | 0.10% | ~56 |
-| Dream Gauntlet | 0.10% | ~56 |
 | Zombie Dreams | 0.10% | ~56 |
-| The Path of Redcaps | 0.10% | ~56 |
 | The Path of Trials | 0.10% | ~56 |
 | Zapper Overload | 0.10% | ~56 |
 | Best Friend Search Squad! | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,138 (Ranked 63)  
+Progressed: 90,144 (Ranked 63)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,14 +549,14 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
-| 2023-06-08 | 90,138 | 1,924 |
+| 2023-06-08 | 90,144 | 1,924 |
 ## Awards
-Max (Diverse Characters): 4,920  (Ranked 64)  
-Sum: 30,049 (Ranked 37)  
+Max (Diverse Characters): 4,922  (Ranked 64)  
+Sum: 30,051 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,920 |
+| This game has Diverse Characters | 4,922 |
 | This game is Great for Beginners | 4,857 |
 | This game has Quickly Understood Controls | 4,611 |
 | This game is Relaxing | 4,509 |
@@ -699,3 +699,4 @@ Diff (max vs sum): 27
 | 2023-06-05 | 4.06 | - | 4,917 | 30,035 |
 | 2023-06-06 | 4.06 | - | 4,920 | 30,044 |
 | 2023-06-07 | 4.06 | - | 4,920 | 30,049 |
+| 2023-06-08 | 4.06 | - | 4,922 | 30,051 |

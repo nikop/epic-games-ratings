@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2756,9 +2756,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9642,
+  "EOS_Progressed": 9644,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5926,6 +5926,11 @@
       "Time": "2023-06-08T18:06:51.8663768+00:00",
       "NumProgressed": 9642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T19:07:43.015555+00:00",
+      "NumProgressed": 9644,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5985,7 +5990,7 @@
       "Name": "The Final Threshold",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "08_PathOfAngel",
@@ -6137,7 +6142,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "28_GreatUpstart",
@@ -6153,7 +6158,7 @@
       "Name": "Strategic Victory",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -6241,7 +6246,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "41_PlayfulMood",
@@ -6809,7 +6814,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -6817,7 +6822,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -6825,7 +6830,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -6849,7 +6854,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -6857,28 +6862,28 @@
       "Name": "Beware Still Water",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8424,
+      "Progressed": 8426,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9642,
+      "Progressed": 9644,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-08T11:58:44.7153071+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:06:51.8663762+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:07:43.0155544+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:58:38.9071653+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:06:51.8665706+00:00"
+  "LastUpdate_Ratings": "2023-06-08T18:58:54.1725535+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:07:43.0157149+00:00"
 }

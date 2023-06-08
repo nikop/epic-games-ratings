@@ -4,8 +4,8 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -65,49 +65,49 @@
       "ID": "aq_achievement_10",
       "SetID": "7jh86ne",
       "Name": "Mystery solved",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "aq_achievement_11",
       "SetID": "7jh86ne",
       "Name": "Close the deal",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "aq_achievement_12",
       "SetID": "7jh86ne",
       "Name": "Game Over!",
-      "Percentage": 57,
-      "XP": 15,
-      "UsersEstimate": 13
-    },
-    {
-      "ID": "aq_achievement_13",
-      "SetID": "7jh86ne",
-      "Name": "Honey, honey, honey\u2026",
       "Percentage": 61,
       "XP": 15,
       "UsersEstimate": 14
     },
     {
+      "ID": "aq_achievement_13",
+      "SetID": "7jh86ne",
+      "Name": "Honey, honey, honey\u2026",
+      "Percentage": 65,
+      "XP": 15,
+      "UsersEstimate": 15
+    },
+    {
       "ID": "aq_achievement_14",
       "SetID": "7jh86ne",
       "Name": "Show me your true self",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "aq_achievement_15",
       "SetID": "7jh86ne",
       "Name": "A very special drink",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "aq_achievement_16",
@@ -241,17 +241,17 @@
       "ID": "aq_achievement_30",
       "SetID": "7jh86ne",
       "Name": "Mischief maker",
-      "Percentage": 43,
+      "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "aq_achievement_31",
       "SetID": "7jh86ne",
       "Name": "Bahahahaha...",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "aq_achievement_32",
@@ -297,9 +297,9 @@
       "ID": "aq_achievement_37",
       "SetID": "7jh86ne",
       "Name": "Guilty conscience",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "aq_achievement_38",
@@ -345,17 +345,17 @@
       "ID": "aq_achievement_7",
       "SetID": "7jh86ne",
       "Name": "NOW GO AWAY!",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "aq_achievement_8",
       "SetID": "7jh86ne",
       "Name": "Sorry Grandpa",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "aq_achievement_9",
@@ -378,8 +378,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:05:20.714326+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:05:57.5782874+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:29.535038+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:59:28.1715752+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:05:20.7143553+00:00"
+  "LastUpdate_Ratings": "2023-06-08T18:59:54.4071151+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:05:57.5783186+00:00"
 }

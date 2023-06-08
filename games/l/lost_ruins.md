@@ -23,8 +23,8 @@
 | Money Swag | 8.00% | ~29 |
 | Shield Crusher | 7.00% | ~25 |
 | Treasure Hunter | 7.00% | ~25 |
-| Explorer | 6.00% | ~21 |
-| Oops | 6.00% | ~21 |
+| Explorer | 6.00% | ~22 |
+| Oops | 6.00% | ~22 |
 | Pyromancer | 5.00% | ~18 |
 | Trio | 5.00% | ~18 |
 | Spell Master | 4.00% | ~14 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.00% | ~0 |
 | Necromancer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358 (Ranked 219)  
+Progressed: 359 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 350 | 0 |
 | 2023-06-06 | 355 | 0 |
 | 2023-06-07 | 357 | 0 |
-| 2023-06-08 | 358 | 0 |
+| 2023-06-08 | 359 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

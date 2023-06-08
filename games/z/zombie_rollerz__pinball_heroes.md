@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Level Up! | 88.00% | ~82 |
 | Bullseye! | 83.00% | ~77 |
-| Graduation! | 78.00% | ~73 |
+| Graduation! | 80.00% | ~74 |
 | Villfir Forest | 75.00% | ~70 |
 | Right in the kisser! | 62.00% | ~58 |
 | Duscot Steamcity | 52.00% | ~48 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 278)  
+Progressed: 93 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

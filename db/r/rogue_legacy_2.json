@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1149,9 +1149,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22104,
+  "EOS_Progressed": 22105,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3819,6 +3819,11 @@
       "Time": "2023-06-08T18:06:37.1987428+00:00",
       "NumProgressed": 22104,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-08T19:07:26.2761926+00:00",
+      "NumProgressed": 22105,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -3940,9 +3945,9 @@
       "ID": "BossFinalDefeated",
       "SetID": "3ojhj46",
       "Name": "King and Kin",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 111
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -4141,21 +4146,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22104,
+      "Progressed": 22105,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1034,
+      "Progressed": 1035,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-03T10:58:54.6277289+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:06:37.1987422+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:07:26.2761921+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:30.088855+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:59:28.9628267+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:06:37.198787+00:00"
+  "LastUpdate_Ratings": "2023-06-08T18:59:55.4048964+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:07:26.2762532+00:00"
 }

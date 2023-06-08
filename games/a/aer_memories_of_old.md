@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~8,970 |
-| Mama? | 28.00% | ~3,305 |
-| People's Haven | 19.00% | ~2,243 |
-| Cartographer | 18.00% | ~2,125 |
-| Knowledge for Power | 15.00% | ~1,770 |
-| Antlers of Stone | 15.00% | ~1,770 |
-| Gaze into the abyss | 14.00% | ~1,652 |
-| Mausoleum of Ice | 14.00% | ~1,652 |
-| Equilibrium | 13.00% | ~1,534 |
-| In the belly of the beast | 12.00% | ~1,416 |
-| Wings of Stone | 12.00% | ~1,416 |
-| Condor condo | 10.00% | ~1,180 |
-| Memorial | 9.00% | ~1,062 |
-| An uninvited guest | 8.00% | ~944 |
-| Written in stone | 7.00% | ~826 |
-| Talk to all the spirit animals | 7.00% | ~826 |
-| Ripples on the surface | 6.00% | ~708 |
-| Tails of Stone | 6.00% | ~708 |
-| Baa from the past | 6.00% | ~708 |
+| Light at the end of the tunnel | 76.00% | ~8,975 |
+| Mama? | 28.00% | ~3,307 |
+| People's Haven | 19.00% | ~2,244 |
+| Cartographer | 18.00% | ~2,126 |
+| Knowledge for Power | 15.00% | ~1,771 |
+| Antlers of Stone | 15.00% | ~1,771 |
+| Gaze into the abyss | 14.00% | ~1,653 |
+| Mausoleum of Ice | 14.00% | ~1,653 |
+| Equilibrium | 13.00% | ~1,535 |
+| In the belly of the beast | 12.00% | ~1,417 |
+| Wings of Stone | 12.00% | ~1,417 |
+| Condor condo | 10.00% | ~1,181 |
+| Memorial | 9.00% | ~1,063 |
+| An uninvited guest | 8.00% | ~945 |
+| Written in stone | 7.00% | ~827 |
+| Talk to all the spirit animals | 7.00% | ~827 |
+| Ripples on the surface | 6.00% | ~709 |
+| Tails of Stone | 6.00% | ~709 |
+| Baa from the past | 6.00% | ~709 |
 | Hide and Seek | 5.00% | ~590 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,803 (Ranked 108)  
+Progressed: 11,809 (Ranked 108)  
 Completed: 253 (2.14%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 253 (2.14%) (Ranked 65)
 | 2023-06-05 | 11,539 | 248 |
 | 2023-06-06 | 11,625 | 251 |
 | 2023-06-07 | 11,736 | 252 |
-| 2023-06-08 | 11,803 | 253 |
+| 2023-06-08 | 11,809 | 253 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,30 +6,30 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 74.00% | ~3,091 |
-| Hey Good Hookin | 64.00% | ~2,673 |
-| I'm on a Boat! | 55.00% | ~2,297 |
-| Can you smell what the Rod is Hooking | 48.00% | ~2,005 |
-| Scaling up | 48.00% | ~2,005 |
-| Ready to Rod and Roll | 40.00% | ~1,671 |
-| More Fish in the Sea | 40.00% | ~1,671 |
+| Fish Just Got Reel | 74.00% | ~3,092 |
+| Hey Good Hookin | 64.00% | ~2,675 |
+| I'm on a Boat! | 55.00% | ~2,298 |
+| Can you smell what the Rod is Hooking | 48.00% | ~2,006 |
+| Scaling up | 48.00% | ~2,006 |
+| Ready to Rod and Roll | 40.00% | ~1,672 |
+| More Fish in the Sea | 40.00% | ~1,672 |
 | License to Gill | 32.00% | ~1,337 |
 | Fish Out of Water | 31.00% | ~1,295 |
-| Things that go Splash in the Night | 26.00% | ~1,086 |
-| Goldfish? | 26.00% | ~1,086 |
+| Things that go Splash in the Night | 26.00% | ~1,087 |
+| Goldfish? | 26.00% | ~1,087 |
 | Going for Gold | 23.00% | ~961 |
 | I'm Hooked! | 17.00% | ~710 |
 | More than a Tourist | 12.00% | ~501 |
 | Diamond in the Rough | 12.00% | ~501 |
-| Hook, Line and Sinker | 7.00% | ~292 |
-| Marathon | 7.00% | ~292 |
+| Hook, Line and Sinker | 7.00% | ~293 |
+| Marathon | 7.00% | ~293 |
 | Big Fish Small Pond | 6.00% | ~251 |
 | I'm the Captain Now | 5.00% | ~209 |
 | School's Out for Summer | 4.00% | ~167 |
 | Gonna Need a Bigger Boat | 3.00% | ~125 |
 | The Beetles | 2.00% | ~84 |
 | Taylor Made | 1.00% | ~42 |
-| Rod and Troll | 1.00% | ~35 |
+| Rod and Troll | 1.00% | ~36 |
 | Head for Heights | 0.60% | ~25 |
 | Lake Me up Before You Go Go | 0.50% | ~21 |
 | Fish upon a Star | 0.50% | ~18 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,177 (Ranked 132)  
+Progressed: 4,179 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 4,106 | 0 |
 | 2023-06-06 | 4,131 | 0 |
 | 2023-06-07 | 4,154 | 0 |
-| 2023-06-08 | 4,177 | 0 |
+| 2023-06-08 | 4,179 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 439)  
 Sum: 158 (Ranked 379)  

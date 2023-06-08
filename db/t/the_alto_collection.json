@@ -5,10 +5,10 @@
   "Ranking_Rating": 218,
   "Ranking_Popularity": 407,
   "Ranking_PopularitySum": 319,
-  "Ranking_EOS_Progress": 90,
+  "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -667,9 +667,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 25234,
+  "EOS_Progressed": 25241,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1130,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5747,6 +5747,11 @@
       "Time": "2023-06-08T18:06:30.8700684+00:00",
       "NumProgressed": 25234,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-08T19:07:18.7709642+00:00",
+      "NumProgressed": 25241,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -5782,7 +5787,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "distance500000",
@@ -5798,7 +5803,7 @@
       "Name": "Rookie",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6308
+      "UsersEstimate": 6310
     },
     {
       "ID": "goals180",
@@ -5814,7 +5819,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "goals75",
@@ -5878,7 +5883,7 @@
       "Name": "Nomad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4794
+      "UsersEstimate": 4796
     },
     {
       "ID": "novice",
@@ -5886,7 +5891,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4290
+      "UsersEstimate": 4291
     },
     {
       "ID": "playerFelipe",
@@ -5910,7 +5915,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "playerPaz",
@@ -5966,7 +5971,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6813
+      "UsersEstimate": 6815
     },
     {
       "ID": "sandboarder",
@@ -5974,7 +5979,7 @@
       "Name": "Sandboarder",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "sightseer",
@@ -5982,7 +5987,7 @@
       "Name": "Sightseer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3029
     },
     {
       "ID": "ultimate",
@@ -6014,7 +6019,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "unlockmaya",
@@ -6022,7 +6027,7 @@
       "Name": "Welcome Maya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4037
+      "UsersEstimate": 4039
     },
     {
       "ID": "unlockpaz",
@@ -6054,7 +6059,7 @@
       "Name": "Wanderer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "windswept",
@@ -6069,15 +6074,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 25234,
+      "Progressed": 25241,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-07T17:59:37.4425865+00:00",
-  "LastChanged_Achievements": "2023-06-08T18:06:30.8700678+00:00",
+  "LastChanged_Achievements": "2023-06-08T19:07:18.7709633+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.7044109+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:59:35.7670714+00:00",
-  "LastUpdate_Achievements": "2023-06-08T18:06:30.8701294+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:00:03.3501675+00:00",
+  "LastUpdate_Achievements": "2023-06-08T19:07:18.7710452+00:00"
 }
