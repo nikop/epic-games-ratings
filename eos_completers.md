@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 66.67% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 47.62% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 45.45% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
@@ -9,7 +9,7 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 10 | [Island Cities](games/i/island_cities.md) | 15.46% |
+| 10 | [Island Cities](games/i/island_cities.md) | 15.36% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 12.50% |
@@ -52,8 +52,8 @@
 | 50 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 52 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
-| 53 | [Bunny Park](games/b/bunny_park.md) | 2.80% |
-| 54 | [Lamentum](games/l/lamentum.md) | 2.79% |
+| 53 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
+| 53 | [Lamentum](games/l/lamentum.md) | 2.79% |
 | 55 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
 | 56 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.73% |
 | 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -66,7 +66,7 @@
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 65 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 67 | [Iron Danger](games/i/iron_danger.md) | 2.04% |
+| 67 | [Iron Danger](games/i/iron_danger.md) | 2.03% |
 | 68 | [JARS](games/j/jars.md) | 1.92% |
 | 69 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 70 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -98,10 +98,10 @@
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
 | 98 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.77% |
-| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
-| 101 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
-| 101 | [Them and Us](games/t/them_and_us.md) | 0.75% |
+| 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
+| 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
+| 100 | [Them and Us](games/t/them_and_us.md) | 0.75% |
 | 103 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.74% |
 | 104 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.70% |
 | 105 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.69% |
