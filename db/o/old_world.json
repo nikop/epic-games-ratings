@@ -5610,9 +5610,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 9578
+      "UsersEstimate": 9696
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -7280,8 +7280,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-06-07T10:58:30.6933502+00:00",
-  "LastChanged_Achievements": "2023-06-08T16:07:12.7355094+00:00",
+  "LastChanged_Achievements": "2023-06-08T17:06:32.6160896+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:05.1771946+00:00",
-  "LastUpdate_Ratings": "2023-06-08T15:58:19.3613865+00:00",
-  "LastUpdate_Achievements": "2023-06-08T16:07:12.7361983+00:00"
+  "LastUpdate_Ratings": "2023-06-08T16:57:59.5799254+00:00",
+  "LastUpdate_Achievements": "2023-06-08T17:06:32.6177502+00:00"
 }

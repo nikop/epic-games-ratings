@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 847)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 4.00% | ~2,562 |
+| First Step Into the Knight | 4.00% | ~2,563 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,922 |
 | Loose Ends | 3.00% | ~1,922 |
 | The Batman Family | 2.00% | ~1,281 |
@@ -35,7 +35,7 @@ Rating: 4.17 (Ranked 847)
 | Seeking Asylum | 1.00% | ~641 |
 | Gotham Knight | 1.00% | ~641 |
 | Gotham City Confidential | 0.90% | ~577 |
-| Drone You Out | 0.80% | ~512 |
+| Drone You Out | 0.80% | ~513 |
 | Out of Their League | 0.70% | ~448 |
 | Solid Alibi | 0.70% | ~448 |
 | Fusion Expert | 0.60% | ~384 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 847)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,060 (Ranked 70)  
+Progressed: 64,068 (Ranked 70)  
 Completed: 94 (0.15%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 94 (0.15%) (Ranked 155)
 | 2023-06-05 | 63,770 | 93 |
 | 2023-06-06 | 63,871 | 94 |
 | 2023-06-07 | 63,990 | 94 |
-| 2023-06-08 | 64,060 | 94 |
+| 2023-06-08 | 64,068 | 94 |
 ## Awards
 Max (Great Boss Battles): 2,307  (Ranked 97)  
 Sum: 3,813 (Ranked 137)  

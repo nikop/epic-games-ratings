@@ -1,20 +1,20 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 347)  
+Rating: 4.62 (Ranked 348)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,089 |
-| Wallbanger | 5.00% | ~19,089 |
-| Exploitative | 4.00% | ~15,271 |
-| High Speed Low Drag | 4.00% | ~15,271 |
-| Wet Feet | 4.00% | ~15,271 |
-| Checkpoint Victory | 3.00% | ~11,453 |
-| Lucky | 3.00% | ~11,453 |
-| Stylin' | 3.00% | ~11,453 |
-| Turf War | 3.00% | ~11,453 |
+| Point Shooting | 5.00% | ~19,090 |
+| Wallbanger | 5.00% | ~19,090 |
+| Exploitative | 4.00% | ~15,272 |
+| High Speed Low Drag | 4.00% | ~15,272 |
+| Turf War | 4.00% | ~15,272 |
+| Wet Feet | 4.00% | ~15,272 |
+| Checkpoint Victory | 3.00% | ~11,454 |
+| Lucky | 3.00% | ~11,454 |
+| Stylin' | 3.00% | ~11,454 |
 | Banged | 2.00% | ~7,636 |
 | First Blood | 2.00% | ~7,636 |
 | Flaccid Paralysis | 2.00% | ~7,636 |
@@ -29,8 +29,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~3,436 |
 | Grounded | 0.80% | ~3,054 |
 | Play to Win | 0.80% | ~3,054 |
-| #1 | 0.70% | ~2,672 |
-| Special Delivery | 0.70% | ~2,672 |
+| #1 | 0.70% | ~2,673 |
+| Special Delivery | 0.70% | ~2,673 |
 | Firefight Victory | 0.60% | ~2,291 |
 | Cinematic | 0.50% | ~1,909 |
 | Thanks Station! | 0.40% | ~1,527 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~382 |
 | Road Hazard | 0.10% | ~382 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 381,783 (Ranked 38)  
+Progressed: 381,798 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 2 (0.00%) (Ranked 212)
 | 2023-06-05 | 380,521 | 2 |
 | 2023-06-06 | 381,010 | 2 |
 | 2023-06-07 | 381,457 | 2 |
-| 2023-06-08 | 381,783 | 2 |
+| 2023-06-08 | 381,798 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 356  (Ranked 213)  
 Sum: 2,698 (Ranked 162)  

@@ -1,28 +1,28 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.61 (Ranked 360)  
+Rating: 4.61 (Ranked 361)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,433 |
-| Greasy Palms | 39.00% | ~3,113 |
-| South American Connection | 23.00% | ~1,836 |
-| Life of the Party | 18.00% | ~1,437 |
+| Legal Counsel | 43.00% | ~3,435 |
+| Greasy Palms | 39.00% | ~3,115 |
+| South American Connection | 23.00% | ~1,837 |
+| Life of the Party | 18.00% | ~1,438 |
 | Big Heat from Little Havana | 13.00% | ~1,038 |
 | Chauffeur | 13.00% | ~1,038 |
 | Tommy Two-Wheels | 13.00% | ~1,038 |
-| Salutations My Little Friend | 10.00% | ~798 |
-| Iron-y | 9.00% | ~718 |
+| Salutations My Little Friend | 10.00% | ~799 |
+| Iron-y | 9.00% | ~719 |
 | Gun for Hire | 7.00% | ~559 |
 | Mischief Managed | 7.00% | ~559 |
 | Vice City Mogul | 6.00% | ~479 |
 | Bloodstained Hands | 6.00% | ~479 |
 | Catch Me if You Can | 5.00% | ~399 |
-| Not my First Time | 4.00% | ~319 |
-| Grand Theft Auto | 4.00% | ~319 |
-| High Quality H2O | 3.00% | ~239 |
-| Pie Guy | 3.00% | ~239 |
+| Not my First Time | 4.00% | ~320 |
+| Grand Theft Auto | 4.00% | ~320 |
+| High Quality H2O | 3.00% | ~240 |
+| Pie Guy | 3.00% | ~240 |
 | Running Rampant | 2.00% | ~160 |
 | Point A to Point B | 2.00% | ~160 |
 | Bull in a China Shop | 2.00% | ~160 |
@@ -33,14 +33,14 @@ Rating: 4.61 (Ranked 360)
 | City Sleuth | 2.00% | ~160 |
 | One is Better Than Two | 1.00% | ~80 |
 | Chopper’d Up | 1.00% | ~80 |
+| Daredevil | 0.90% | ~72 |
 | I'm Famous! | 0.80% | ~64 |
-| Daredevil | 0.80% | ~64 |
 | Born in the 80’s | 0.70% | ~56 |
 | Keepie-Uppy Okie Dokie | 0.70% | ~56 |
 | Done it All | 0.60% | ~48 |
 | Kingpin | 0.30% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,983 (Ranked 114)  
+Progressed: 7,988 (Ranked 115)  
 Completed: 26 (0.33%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 26 (0.33%) (Ranked 124)
 | 2023-06-05 | 7,784 | 25 |
 | 2023-06-06 | 7,854 | 26 |
 | 2023-06-07 | 7,929 | 26 |
-| 2023-06-08 | 7,983 | 26 |
+| 2023-06-08 | 7,988 | 26 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 396)  
 Sum: 49 (Ranked 440)  

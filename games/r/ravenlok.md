@@ -27,10 +27,10 @@
 | Teacups for Toppy | 38.00% | ~369 |
 | The Guardian | 37.00% | ~359 |
 | Ancient Wisdom | 36.00% | ~350 |
+| All That Glistens | 36.00% | ~350 |
 | Stronger! | 36.00% | ~350 |
 | Spellbound | 35.00% | ~340 |
 | Frog Facts! | 35.00% | ~340 |
-| All That Glistens | 35.00% | ~340 |
 | All Skilled Up! | 35.00% | ~340 |
 | It's Pointy! | 35.00% | ~340 |
 | Extinct Again! | 34.00% | ~330 |

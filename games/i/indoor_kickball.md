@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 82.00% | ~36 |
-| Accessory Unlocked | 82.00% | ~36 |
-| Character Unlocked | 80.00% | ~35 |
-| Homer | 66.00% | ~29 |
-| Have a good trip! | 64.00% | ~28 |
-| First Win | 61.00% | ~27 |
-| Kickball Unlocked | 61.00% | ~27 |
-| Settle Down | 57.00% | ~25 |
-| Stay Hydrated | 57.00% | ~25 |
-| Butter Fingers | 48.00% | ~21 |
-| True Story! | 30.00% | ~13 |
-| Grand Slam! | 25.00% | ~11 |
-| Kick It | 25.00% | ~11 |
-| Bedroom Secret Spot | 23.00% | ~10 |
-| Have Mercy | 23.00% | ~10 |
+| Hat Unlocked | 80.00% | ~36 |
+| Accessory Unlocked | 80.00% | ~36 |
+| Character Unlocked | 78.00% | ~35 |
+| Homer | 64.00% | ~29 |
+| Have a good trip! | 62.00% | ~28 |
+| First Win | 60.00% | ~27 |
+| Kickball Unlocked | 60.00% | ~27 |
+| Settle Down | 56.00% | ~25 |
+| Stay Hydrated | 56.00% | ~25 |
+| Butter Fingers | 47.00% | ~21 |
+| True Story! | 29.00% | ~13 |
+| Grand Slam! | 24.00% | ~11 |
+| Kick It | 24.00% | ~11 |
+| Bedroom Secret Spot | 24.00% | ~11 |
+| Have Mercy | 22.00% | ~10 |
 | Save some water for the fishies | 18.00% | ~8 |
 | Spooky | 18.00% | ~8 |
 | Bathroom Secret Spot | 18.00% | ~8 |
@@ -28,9 +28,9 @@
 | Kitchen Secret Spot | 7.00% | ~3 |
 | Angry Dad | 7.00% | ~3 |
 | Just how we drew it up | 7.00% | ~3 |
-| Basement Secret Spot | 5.00% | ~2 |
-| Found the Secret Formula! | 5.00% | ~2 |
-| Interference | 5.00% | ~2 |
+| Basement Secret Spot | 4.00% | ~2 |
+| Found the Secret Formula! | 4.00% | ~2 |
+| Interference | 4.00% | ~2 |
 | Garage Secret Spot | 2.00% | ~1 |
 | You broke it, you bought it | 2.00% | ~1 |
 | Kickball Kup | 2.00% | ~1 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 308)  
+Progressed: 45 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 38 | 0 |
 | 2023-06-03 | 40 | 0 |
 | 2023-06-04 | 43 | 0 |
-| 2023-06-08 | 44 | 0 |
+| 2023-06-08 | 45 | 0 |

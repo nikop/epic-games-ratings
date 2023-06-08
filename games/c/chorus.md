@@ -28,7 +28,7 @@ Number of Ratings: 58  (23.09.2022)
 | Cult Slayer | 41.00% | ~385 |
 | Origin | 40.00% | ~376 |
 | It Was An Accident | 40.00% | ~376 |
-| Set in Motion | 38.00% | ~357 |
+| Set in Motion | 39.00% | ~367 |
 | In the Eye of the Storm | 37.00% | ~348 |
 | The Crimson Void | 34.00% | ~320 |
 | The Nameless Dread | 34.00% | ~320 |

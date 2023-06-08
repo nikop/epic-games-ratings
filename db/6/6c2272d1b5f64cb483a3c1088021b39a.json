@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -958,9 +958,9 @@
       "ID": "conqueror_2",
       "SetID": "53c1p3k",
       "Name": "Conqueror 2",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "conqueror_3",
@@ -1365,8 +1365,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-08T16:03:36.6311067+00:00",
+  "LastChanged_Achievements": "2023-06-08T17:03:05.9546918+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-08T15:57:15.6786553+00:00",
-  "LastUpdate_Achievements": "2023-06-08T16:03:36.6311682+00:00"
+  "LastUpdate_Ratings": "2023-06-08T16:57:00.2598945+00:00",
+  "LastUpdate_Achievements": "2023-06-08T17:03:05.95476+00:00"
 }

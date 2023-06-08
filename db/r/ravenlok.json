@@ -2414,9 +2414,9 @@
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 350
     },
     {
       "ID": "3",
@@ -2655,8 +2655,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-08T16:06:37.6437773+00:00",
+  "LastChanged_Achievements": "2023-06-08T17:05:58.8999498+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-08T15:57:47.1474665+00:00",
-  "LastUpdate_Achievements": "2023-06-08T16:06:37.6438219+00:00"
+  "LastUpdate_Ratings": "2023-06-08T16:57:28.9935764+00:00",
+  "LastUpdate_Achievements": "2023-06-08T17:05:58.9000165+00:00"
 }

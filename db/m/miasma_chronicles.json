@@ -72,7 +72,7 @@
   "Tags": [],
   "EOS_Progressed": 1057,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1534,9 +1534,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 433
     },
     {
       "ID": "CRUELTY",
@@ -1871,8 +1871,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-07T20:58:30.3152036+00:00",
-  "LastChanged_Achievements": "2023-06-08T16:03:39.8348689+00:00",
+  "LastChanged_Achievements": "2023-06-08T17:03:08.8794009+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-08T15:58:45.1763719+00:00",
-  "LastUpdate_Achievements": "2023-06-08T16:03:39.834914+00:00"
+  "LastUpdate_Ratings": "2023-06-08T16:58:23.6150015+00:00",
+  "LastUpdate_Achievements": "2023-06-08T17:03:08.8794547+00:00"
 }

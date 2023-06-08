@@ -6,15 +6,15 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 2.00% | ~304 |
-| Overcoming Difficulty | 2.00% | ~304 |
-| Fertile Meadows | 2.00% | ~304 |
-| Lost Colonies | 2.00% | ~304 |
-| Coral Forest | 2.00% | ~304 |
-| The Marshlands | 2.00% | ~304 |
-| The Scarlet Orchard | 2.00% | ~304 |
-| Taking Action | 2.00% | ~304 |
-| No Deaths | 2.00% | ~304 |
+| First Real Expedition | 2.00% | ~305 |
+| Overcoming Difficulty | 2.00% | ~305 |
+| Fertile Meadows | 2.00% | ~305 |
+| Lost Colonies | 2.00% | ~305 |
+| Coral Forest | 2.00% | ~305 |
+| The Marshlands | 2.00% | ~305 |
+| The Scarlet Orchard | 2.00% | ~305 |
+| Taking Action | 2.00% | ~305 |
+| No Deaths | 2.00% | ~305 |
 | Refinery | 1.00% | ~152 |
 | Homesick | 1.00% | ~152 |
 | Against All Odds | 1.00% | ~152 |
@@ -37,9 +37,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 0.90% | ~137 |
 | Forsaken Gods Temple | 0.90% | ~137 |
 | Serving Ale | 0.80% | ~122 |
+| Ruined Armory | 0.80% | ~122 |
 | Defying the Crown | 0.80% | ~122 |
 | Into the Forest | 0.80% | ~122 |
-| Ruined Armory | 0.70% | ~107 |
 | Forbidden Lands | 0.70% | ~107 |
 | Fishmen Ritual Site | 0.60% | ~91 |
 | Efficient Explorer | 0.50% | ~76 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,225 (Ranked 100)  
+Progressed: 15,226 (Ranked 100)  
 Completed: 34 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,11 +106,11 @@ Completed: 34 (0.22%) (Ranked 141)
 | 2023-06-05 | 15,193 | 33 |
 | 2023-06-06 | 15,208 | 33 |
 | 2023-06-07 | 15,218 | 34 |
-| 2023-06-08 | 15,225 | 34 |
+| 2023-06-08 | 15,226 | 34 |
 ## Awards
-Max (Quickly Understood Controls): 417  (Ranked 197)  
+Max (Quickly Understood Controls): 417  (Ranked 198)  
 Sum: 3,038 (Ranked 152)  
-Diff (max vs sum): 45  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 417 |

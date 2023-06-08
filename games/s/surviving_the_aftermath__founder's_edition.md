@@ -6,7 +6,7 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,420 |
+| First Step | 71.00% | ~4,421 |
 | Leader | 61.00% | ~3,798 |
 | Explorer | 53.00% | ~3,300 |
 | Healer | 53.00% | ~3,300 |
@@ -20,25 +20,25 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~2,055 |
 | The Great Healer | 31.00% | ~1,930 |
 | Survivor | 31.00% | ~1,930 |
-| Cleaner | 28.00% | ~1,743 |
-| Catastrofan | 28.00% | ~1,743 |
+| Cleaner | 28.00% | ~1,744 |
+| Catastrofan | 28.00% | ~1,744 |
 | Legendary Explorer | 27.00% | ~1,681 |
 | Finders, Keepers | 26.00% | ~1,619 |
-| Top Notch | 25.00% | ~1,556 |
+| Top Notch | 25.00% | ~1,557 |
 | Mentor | 23.00% | ~1,432 |
 | Great Leader | 22.00% | ~1,370 |
 | Ice Lakes | 22.00% | ~1,370 |
 | Real Survivor | 22.00% | ~1,370 |
-| Merchant | 21.00% | ~1,307 |
+| Merchant | 21.00% | ~1,308 |
 | War Never Changes | 19.00% | ~1,183 |
 | Rocket Surgeon | 19.00% | ~1,183 |
-| Big Game Hunter | 17.00% | ~1,058 |
+| Big Game Hunter | 17.00% | ~1,059 |
 | Friendly | 16.00% | ~996 |
 | Spreading Influence | 16.00% | ~996 |
 | Around the World | 15.00% | ~934 |
 | Bookworm | 14.00% | ~872 |
-| Famous Adventurer | 13.00% | ~809 |
-| Prepared for Anything | 13.00% | ~809 |
+| Famous Adventurer | 13.00% | ~810 |
+| Prepared for Anything | 13.00% | ~810 |
 | Big Catastrofan | 12.00% | ~747 |
 | It's a Finnish Thing | 10.00% | ~623 |
 | Sky Burial | 9.00% | ~560 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,226 (Ranked 122)  
+Progressed: 6,227 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,11 +115,11 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 6,149 | 0 |
 | 2023-06-06 | 6,175 | 0 |
 | 2023-06-07 | 6,205 | 0 |
-| 2023-06-08 | 6,226 | 0 |
+| 2023-06-08 | 6,227 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 327)  
-Sum: 662 (Ranked 270)  
-Diff (max vs sum): 57  
+Sum: 662 (Ranked 271)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 99 |

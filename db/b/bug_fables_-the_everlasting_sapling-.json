@@ -297,9 +297,9 @@
       "ID": "BFT_VI",
       "SetID": "7o7kd30",
       "Name": "Reconciliation",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
@@ -314,8 +314,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-06-08T16:06:54.777116+00:00",
+  "LastChanged_Achievements": "2023-06-08T17:06:15.9287381+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:25.2935323+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:00:35.6861158+00:00",
-  "LastUpdate_Achievements": "2023-06-08T16:06:54.7771312+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:00:10.0508296+00:00",
+  "LastUpdate_Achievements": "2023-06-08T17:06:15.9287586+00:00"
 }

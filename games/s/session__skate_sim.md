@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 54.00% | ~1,249 |
-| Keeping it classy | 24.00% | ~555 |
-| Welcome to the family | 18.00% | ~416 |
-| The finer things in life | 16.00% | ~370 |
-| Backpacker | 12.00% | ~278 |
-| Go with the Flow | 11.00% | ~254 |
+| You're free now! | 54.00% | ~1,251 |
+| Keeping it classy | 24.00% | ~556 |
+| Welcome to the family | 18.00% | ~417 |
+| The finer things in life | 16.00% | ~371 |
+| Backpacker | 11.00% | ~255 |
+| Go with the Flow | 11.00% | ~255 |
 | Plastic Surgeon | 9.00% | ~208 |
 | Keep the dream alive | 8.00% | ~185 |
 | The flip trick crown jewel | 8.00% | ~185 |
@@ -28,7 +28,6 @@ Number of Ratings: 111  (23.09.2022)
 | Squad goals | 5.00% | ~116 |
 | Sup widdit big dog! | 5.00% | ~116 |
 | Commence the Hijinx! | 4.00% | ~93 |
-| Cops called! | 4.00% | ~93 |
 | DIY Boss | 4.00% | ~93 |
 | Globetrotter | 4.00% | ~93 |
 | Laid back | 4.00% | ~93 |
@@ -39,15 +38,16 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 4.00% | ~93 |
 | Renaissance man | 4.00% | ~93 |
 | Tank commander | 4.00% | ~93 |
-| Trick shot marksman | 4.00% | ~93 |
+| Cops called! | 3.00% | ~69 |
 | G.O.A.T. status | 3.00% | ~69 |
 | Hoarder | 3.00% | ~69 |
+| Trick shot marksman | 3.00% | ~69 |
 | We get it, you're good | 3.00% | ~69 |
 | Cross lock country | 2.00% | ~46 |
 | Many plys later... | 2.00% | ~46 |
 | Pew-Pew | 2.00% | ~46 |
 | Dipped! | 1.00% | ~23 |
-| That was wheelie fun | 1.00% | ~23 |
+| That was wheelie fun | 0.90% | ~21 |
 | Skatepark hero | 0.70% | ~16 |
 | That's how it's done! | 0.10% | ~2 |
 | Ultimate skate nerd | 0.10% | ~2 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,313 (Ranked 148)  
+Progressed: 2,316 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,11 +102,11 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 2,265 | 0 |
 | 2023-06-06 | 2,287 | 0 |
 | 2023-06-07 | 2,306 | 0 |
-| 2023-06-08 | 2,313 | 0 |
+| 2023-06-08 | 2,316 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 398)  
-Sum: 420 (Ranked 302)  
-Diff (max vs sum): 96  
+Sum: 420 (Ranked 301)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 48 |

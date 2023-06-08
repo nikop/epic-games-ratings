@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,871 (Ranked 141)  
+Progressed: 2,871 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,8 +113,8 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-08 | 2,871 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 256)  
-Sum: 421 (Ranked 300)  
-Diff (max vs sum): -44  
+Sum: 421 (Ranked 299)  
+Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 209 |

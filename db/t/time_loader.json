@@ -181,9 +181,9 @@
       "ID": "13_DrAntivirus",
       "SetID": "681m9fa",
       "Name": "Dr. Antivirus",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "14_VhsBlogger",
@@ -237,17 +237,17 @@
       "ID": "20_AccessProtocol",
       "SetID": "681m9fa",
       "Name": "Access protocol",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "21_RobotBros",
       "SetID": "681m9fa",
       "Name": "Robot Bros",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "22_OutOfTheLoop",
@@ -326,8 +326,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-06-08T16:06:43.1492238+00:00",
+  "LastChanged_Achievements": "2023-06-08T17:06:04.0137215+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:04.4122882+00:00",
-  "LastUpdate_Ratings": "2023-06-08T15:58:20.2142922+00:00",
-  "LastUpdate_Achievements": "2023-06-08T16:06:43.1492424+00:00"
+  "LastUpdate_Ratings": "2023-06-08T16:58:00.4004506+00:00",
+  "LastUpdate_Achievements": "2023-06-08T17:06:04.0137435+00:00"
 }

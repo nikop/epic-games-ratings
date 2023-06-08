@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play It Again Sam | 92.00% | ~163 |
-| Strong Silent Type | 91.00% | ~161 |
+| Play It Again Sam | 92.00% | ~164 |
+| Strong Silent Type | 91.00% | ~162 |
 | Play Me By The Hour | 66.00% | ~117 |
 | Patient Listener | 45.00% | ~80 |
-| Video Saved The Radio Star | 37.00% | ~65 |
-| Hashtag Winning | 36.00% | ~64 |
-| A Woman Scorned | 24.00% | ~42 |
+| Video Saved The Radio Star | 37.00% | ~66 |
+| Hashtag Winning | 35.00% | ~62 |
+| A Woman Scorned | 24.00% | ~43 |
 | Chameleon | 21.00% | ~37 |
-| Highlander | 20.00% | ~35 |
+| Highlander | 20.00% | ~36 |
 | Look Mum I'm A Detective | 19.00% | ~34 |
 | You Had One Job | 14.00% | ~25 |
-| Book 'em Danny | 11.00% | ~19 |
-| Oscar Winning Performance | 11.00% | ~19 |
-| Poetent | 11.00% | ~19 |
-| Voyeur | 11.00% | ~19 |
+| Book 'em Danny | 11.00% | ~20 |
+| Oscar Winning Performance | 11.00% | ~20 |
+| Poetent | 11.00% | ~20 |
+| Voyeur | 11.00% | ~20 |
 | Heavy Rayne | 9.00% | ~16 |
 | Put A Ring On It | 9.00% | ~16 |
 | Chicken | 8.00% | ~14 |
@@ -26,8 +26,8 @@
 | Show Me Some Skin | 5.00% | ~9 |
 | The Big Sleep | 4.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177 (Ranked 256)  
-Completed: 2 (1.13%) (Ranked 86)  
+Progressed: 178 (Ranked 255)  
+Completed: 2 (1.12%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -47,6 +47,7 @@ Completed: 2 (1.13%) (Ranked 86)
 | 2023-06-02 | 175 | 2 |
 | 2023-06-03 | 176 | 2 |
 | 2023-06-07 | 177 | 2 |
+| 2023-06-08 | 178 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 360,
+  "Ranking_Rating": 361,
   "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 440,
-  "Ranking_EOS_Progress": 114,
+  "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -406,9 +406,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 7983,
+  "EOS_Progressed": 7988,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3931,6 +3931,11 @@
       "Time": "2023-06-08T16:03:20.0416489+00:00",
       "NumProgressed": 7983,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-08T17:02:20.1276356+00:00",
+      "NumProgressed": 7988,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 34,
@@ -3958,7 +3963,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACH04",
@@ -3966,7 +3971,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH05",
@@ -3990,7 +3995,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH08",
@@ -3998,7 +4003,7 @@
       "Name": "Pie Guy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH09",
@@ -4022,7 +4027,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "ACH12",
@@ -4046,7 +4051,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3115
     },
     {
       "ID": "ACH15",
@@ -4092,9 +4097,9 @@
       "ID": "ACH20",
       "SetID": "9llo822",
       "Name": "Daredevil",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH21",
@@ -4102,7 +4107,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3433
+      "UsersEstimate": 3435
     },
     {
       "ID": "ACH22",
@@ -4110,7 +4115,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "ACH23",
@@ -4118,7 +4123,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "ACH24",
@@ -4150,7 +4155,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH28",
@@ -4213,7 +4218,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 7983,
+      "Progressed": 7988,
       "Completed": 26
     }
   ],
@@ -4221,8 +4226,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-07T21:57:56.8493042+00:00",
-  "LastChanged_Achievements": "2023-06-08T16:03:20.0416482+00:00",
+  "LastChanged_Achievements": "2023-06-08T17:02:20.127635+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.8139479+00:00",
-  "LastUpdate_Ratings": "2023-06-08T15:58:43.1117332+00:00",
-  "LastUpdate_Achievements": "2023-06-08T16:03:20.0416856+00:00"
+  "LastUpdate_Ratings": "2023-06-08T16:58:21.6321946+00:00",
+  "LastUpdate_Achievements": "2023-06-08T17:02:20.1277274+00:00"
 }

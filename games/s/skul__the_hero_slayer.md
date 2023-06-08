@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,152 |
-| What should I buy? | 83.00% | ~6,383 |
-| Focus! | 62.00% | ~4,768 |
-| Rescued Elder Ent | 62.00% | ~4,768 |
-| The End of the Gold Mane Knights | 47.00% | ~3,614 |
-| Rules of Etiquette | 39.00% | ~2,999 |
-| False Goddess, Disappear | 38.00% | ~2,922 |
-| Quick Movements | 33.00% | ~2,538 |
-| Inventory Management | 33.00% | ~2,538 |
-| The Fall of the Leonia Order | 29.00% | ~2,230 |
-| The Hero Killer | 27.00% | ~2,076 |
-| Go Home... | 26.00% | ~1,999 |
-| The Final Battle of the First Hero | 25.00% | ~1,922 |
-| Brain at Full Throttle | 22.00% | ~1,692 |
-| Rookies Welcome | 20.00% | ~1,538 |
+| The Legend Begins | 93.00% | ~7,155 |
+| What should I buy? | 83.00% | ~6,386 |
+| Focus! | 62.00% | ~4,770 |
+| Rescued Elder Ent | 62.00% | ~4,770 |
+| The End of the Gold Mane Knights | 47.00% | ~3,616 |
+| Rules of Etiquette | 39.00% | ~3,001 |
+| False Goddess, Disappear | 38.00% | ~2,924 |
+| Quick Movements | 33.00% | ~2,539 |
+| Inventory Management | 33.00% | ~2,539 |
+| The Fall of the Leonia Order | 29.00% | ~2,231 |
+| The Hero Killer | 27.00% | ~2,077 |
+| Go Home... | 26.00% | ~2,000 |
+| The Final Battle of the First Hero | 25.00% | ~1,924 |
+| Brain at Full Throttle | 22.00% | ~1,693 |
+| Rookies Welcome | 20.00% | ~1,539 |
 | Deadly Power | 15.00% | ~1,154 |
 | Castle Restoration Plans | 14.00% | ~1,077 |
 | The Dwarven Chandelier | 12.00% | ~923 |
 | Master of Speed | 9.00% | ~692 |
-| The Levitator | 6.00% | ~461 |
+| The Levitator | 6.00% | ~462 |
 | The God of Battle | 3.00% | ~231 |
 | Too Much of a Talker | 2.00% | ~154 |
 | The Skeleton King | 1.00% | ~77 |
 | Cold-Blooded | 0.80% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,690 (Ranked 115)  
+Progressed: 7,694 (Ranked 116)  
 Completed: 11 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 11 (0.14%) (Ranked 156)
 | 2023-06-05 | 7,633 | 11 |
 | 2023-06-06 | 7,651 | 11 |
 | 2023-06-07 | 7,672 | 11 |
-| 2023-06-08 | 7,690 | 11 |
+| 2023-06-08 | 7,694 | 11 |
 ## Awards
 Max (Diverse Characters): 115  (Ranked 312)  
 Sum: 760 (Ranked 254)  

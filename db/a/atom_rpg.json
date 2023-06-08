@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -352,9 +352,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 922,
+  "EOS_Progressed": 923,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1182,6 +1182,11 @@
       "Time": "2023-06-08T16:06:58.9950249+00:00",
       "NumProgressed": 922,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T17:06:19.956321+00:00",
+      "NumProgressed": 923,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1249,7 +1254,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "EXPERT_1",
@@ -1345,7 +1350,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -1449,7 +1454,7 @@
       "Name": "Traveler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "VVE",
@@ -1465,7 +1470,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "WISHMASTER_1",
@@ -1480,15 +1485,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 922,
+      "Progressed": 923,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-03T14:00:49.4692031+00:00",
-  "LastChanged_Achievements": "2023-06-08T16:06:58.9950243+00:00",
+  "LastChanged_Achievements": "2023-06-08T17:06:19.9563205+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.2333517+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:00:46.9871577+00:00",
-  "LastUpdate_Achievements": "2023-06-08T16:06:58.9950504+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:00:20.7549176+00:00",
+  "LastUpdate_Achievements": "2023-06-08T17:06:19.9563548+00:00"
 }

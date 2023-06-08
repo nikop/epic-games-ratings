@@ -13,10 +13,10 @@ Rating: 4.57 (Ranked 443)
 | A Thousand Strong | 8.00% | ~200 |
 | Ready for a New World | 8.00% | ~200 |
 | Permanent Redesigns | 7.00% | ~175 |
+| Ain't Nobody Got Time for That | 7.00% | ~175 |
 | Guy de Borderlands | 6.00% | ~150 |
 | Fully Recycled | 6.00% | ~150 |
 | Breaking Protocol | 6.00% | ~150 |
-| Ain't Nobody Got Time for That | 6.00% | ~150 |
 | The Ship of Theseus | 6.00% | ~150 |
 | Hope Seeker | 6.00% | ~150 |
 | A Hunk of Junk | 5.00% | ~125 |
@@ -39,8 +39,8 @@ Rating: 4.57 (Ranked 443)
 | Delivery! | 1.00% | ~25 |
 | Pedal to the Metal | 1.00% | ~25 |
 | What the Ruins Teach Us | 1.00% | ~25 |
+| Pulsar Disciple | 1.00% | ~25 |
 | Mutual Loyalty | 0.90% | ~23 |
-| Pulsar Disciple | 0.90% | ~23 |
 | Catastrophe Avoided | 0.80% | ~20 |
 | Praise the Hull! | 0.80% | ~20 |
 | You Had One Job... | 0.80% | ~20 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 443)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,503 (Ranked 145)  
+Progressed: 2,503 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -25,7 +25,7 @@ Rating: 4.24 (Ranked 800)
 | Unforeseeable Consequences | 19.00% | ~329 |
 | Dead Again | 18.00% | ~311 |
 | Clean Cut | 18.00% | ~311 |
-| Full Arsenal | 16.00% | ~277 |
+| Full Arsenal | 17.00% | ~294 |
 | Can't Trust Banks | 15.00% | ~259 |
 | Mommy Dearest | 13.00% | ~225 |
 | Bad Dog | 13.00% | ~225 |

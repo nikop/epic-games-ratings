@@ -5,9 +5,9 @@
   "Ranking_Rating": 545,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
-  "Ranking_EOS_Progress": 147,
+  "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2407,
+  "EOS_Progressed": 2410,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2879,6 +2879,11 @@
       "Time": "2023-06-08T15:06:21.4206168+00:00",
       "NumProgressed": 2407,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-08T17:06:12.6367014+00:00",
+      "NumProgressed": 2410,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2922,7 +2927,7 @@
       "Name": "Opposing Force",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2970,7 +2975,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3010,7 +3015,7 @@
       "Name": "Gunslinger",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3106,15 +3111,15 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 289
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3122,7 +3127,7 @@
       "Name": "Der Geist",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -3138,7 +3143,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3146,7 +3151,7 @@
       "Name": "Close Quarters",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -3154,7 +3159,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -3202,7 +3207,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3457,13 +3462,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2358,
+      "Progressed": 2361,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2407,
+      "Progressed": 2410,
       "Completed": 2
     }
   ],
@@ -3471,8 +3476,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-08T13:05:05.4339298+00:00",
-  "LastChanged_Achievements": "2023-06-08T16:06:51.4539445+00:00",
+  "LastChanged_Achievements": "2023-06-08T17:06:12.636701+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:01:12.1631651+00:00",
-  "LastUpdate_Achievements": "2023-06-08T16:06:51.4540089+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:00:44.4457833+00:00",
+  "LastUpdate_Achievements": "2023-06-08T17:06:12.6367881+00:00"
 }

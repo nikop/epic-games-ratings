@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1424,10 +1424,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64060,
+  "EOS_Progressed": 64068,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 948,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 951,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -5524,6 +5524,11 @@
       "Time": "2023-06-08T16:07:06.6409412+00:00",
       "NumProgressed": 64060,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-08T17:06:26.8761634+00:00",
+      "NumProgressed": 64068,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 61,
@@ -5751,7 +5756,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "FREEZE_1",
@@ -5879,7 +5884,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2562
+      "UsersEstimate": 2563
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -6022,13 +6027,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64060,
+      "Progressed": 64068,
       "Completed": 94
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34340,
+      "Progressed": 34348,
       "Completed": 2644
     }
   ],
@@ -6036,8 +6041,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-07T20:00:34.4942334+00:00",
-  "LastChanged_Achievements": "2023-06-08T16:07:06.6409407+00:00",
+  "LastChanged_Achievements": "2023-06-08T17:06:26.8761629+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:00:19.8718505+00:00",
-  "LastUpdate_Achievements": "2023-06-08T16:07:06.6410073+00:00"
+  "LastUpdate_Ratings": "2023-06-08T16:59:54.6248738+00:00",
+  "LastUpdate_Achievements": "2023-06-08T17:06:26.876252+00:00"
 }

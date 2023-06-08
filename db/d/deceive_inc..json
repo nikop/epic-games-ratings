@@ -5,9 +5,9 @@
   "Ranking_Rating": 295,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
-  "Ranking_EOS_Progress": 118,
+  "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6647,
+  "EOS_Progressed": 6651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3873,6 +3873,11 @@
       "Time": "2023-06-08T16:06:57.1012627+00:00",
       "NumProgressed": 6647,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T17:06:18.2273625+00:00",
+      "NumProgressed": 6651,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3884,7 +3889,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4254
+      "UsersEstimate": 4257
     },
     {
       "ID": "0002",
@@ -3900,7 +3905,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "0004",
@@ -3916,7 +3921,7 @@
       "Name": "Branch Manager",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "0006",
@@ -3924,7 +3929,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "0007",
@@ -3940,7 +3945,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2461
     },
     {
       "ID": "0009",
@@ -3948,7 +3953,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3126
     },
     {
       "ID": "0010",
@@ -3956,7 +3961,7 @@
       "Name": "Social of Solace",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "0011",
@@ -3972,7 +3977,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2128
     },
     {
       "ID": "0013",
@@ -3980,7 +3985,7 @@
       "Name": "Keycards Royale",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "0014",
@@ -3988,7 +3993,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "0015",
@@ -4004,7 +4009,7 @@
       "Name": "Live and let lie",
       "Percentage": 5,
       "XP": 115,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "0017",
@@ -4012,7 +4017,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2727
     },
     {
       "ID": "0018",
@@ -4020,7 +4025,7 @@
       "Name": "In It to Win It",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "0019",
@@ -4036,7 +4041,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 23,
       "XP": 115,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "0021",
@@ -4044,7 +4049,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "0022",
@@ -4068,7 +4073,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3126
     },
     {
       "ID": "0025",
@@ -4076,7 +4081,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2461
     },
     {
       "ID": "0026",
@@ -4084,7 +4089,7 @@
       "Name": "The Living Portrait",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "0027",
@@ -4092,7 +4097,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "0028",
@@ -4100,7 +4105,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3126
     },
     {
       "ID": "0029",
@@ -4108,7 +4113,7 @@
       "Name": "A view to Win",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     },
     {
       "ID": "0030",
@@ -4116,7 +4121,7 @@
       "Name": "For your Eyes only",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2594
     },
     {
       "ID": "0031",
@@ -4124,7 +4129,7 @@
       "Name": "Private Collection",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "0032",
@@ -4132,7 +4137,7 @@
       "Name": "Killer Looks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "0033",
@@ -4140,7 +4145,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "0034",
@@ -4148,7 +4153,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "0035",
@@ -4171,7 +4176,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6647,
+      "Progressed": 6651,
       "Completed": 0
     }
   ],
@@ -4179,8 +4184,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-06-08T16:06:57.1012622+00:00",
+  "LastChanged_Achievements": "2023-06-08T17:06:18.227362+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:04.3175816+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:00:15.1782593+00:00",
-  "LastUpdate_Achievements": "2023-06-08T16:06:57.1013018+00:00"
+  "LastUpdate_Ratings": "2023-06-08T16:59:50.2871612+00:00",
+  "LastUpdate_Achievements": "2023-06-08T17:06:18.2274223+00:00"
 }

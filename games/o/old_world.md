@@ -7,7 +7,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 83.00% | ~9,815 |
-| Settler | 81.00% | ~9,578 |
+| Settler | 82.00% | ~9,696 |
 | Explorer | 79.00% | ~9,342 |
 | Friendly Family | 76.00% | ~8,987 |
 | Intrepid | 70.00% | ~8,278 |

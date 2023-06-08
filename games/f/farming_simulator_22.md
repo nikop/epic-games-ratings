@@ -6,32 +6,32 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~33,211 |
-| I read Shakespeare and stuff | 64.00% | ~27,967 |
-| Just a sprinkle | 63.00% | ~27,530 |
-| I'm stumped | 61.00% | ~26,656 |
-| Plant get enough | 61.00% | ~26,656 |
-| It's just the beginning | 59.00% | ~25,782 |
-| This is just my weekend vehicle | 58.00% | ~25,345 |
-| Hard work pays off | 53.00% | ~23,160 |
-| It's never too late to farm | 47.00% | ~20,539 |
-| All out of Land | 44.00% | ~19,228 |
-| Field Trip | 43.00% | ~18,791 |
-| I like to switch it up | 40.00% | ~17,480 |
-| Help me to help you | 38.00% | ~16,606 |
-| Ultimutt Pawesomeness | 28.00% | ~12,236 |
-| Van Gogh | 26.00% | ~11,362 |
-| You wood not believe it | 21.00% | ~9,177 |
-| Vehicle fleet | 21.00% | ~9,177 |
-| The plot thickens | 16.00% | ~6,992 |
-| Long haul | 16.00% | ~6,992 |
-| Clucky Streak | 15.00% | ~6,555 |
-| Large-scale supplier | 15.00% | ~6,555 |
-| Well-Oiled Machine | 15.00% | ~6,555 |
-| That's a wrap | 14.00% | ~6,118 |
-| Fix me up | 13.00% | ~5,681 |
-| Rock on | 12.00% | ~5,244 |
-| It's sow easy | 11.00% | ~4,807 |
+| Own use | 76.00% | ~33,216 |
+| I read Shakespeare and stuff | 64.00% | ~27,971 |
+| Just a sprinkle | 63.00% | ~27,534 |
+| I'm stumped | 61.00% | ~26,660 |
+| Plant get enough | 61.00% | ~26,660 |
+| It's just the beginning | 59.00% | ~25,786 |
+| This is just my weekend vehicle | 58.00% | ~25,349 |
+| Hard work pays off | 53.00% | ~23,164 |
+| It's never too late to farm | 47.00% | ~20,541 |
+| All out of Land | 44.00% | ~19,230 |
+| Field Trip | 43.00% | ~18,793 |
+| I like to switch it up | 40.00% | ~17,482 |
+| Help me to help you | 38.00% | ~16,608 |
+| Ultimutt Pawesomeness | 28.00% | ~12,237 |
+| Van Gogh | 26.00% | ~11,363 |
+| You wood not believe it | 21.00% | ~9,178 |
+| Vehicle fleet | 21.00% | ~9,178 |
+| The plot thickens | 16.00% | ~6,993 |
+| Long haul | 16.00% | ~6,993 |
+| Clucky Streak | 15.00% | ~6,556 |
+| Large-scale supplier | 15.00% | ~6,556 |
+| Well-Oiled Machine | 15.00% | ~6,556 |
+| That's a wrap | 14.00% | ~6,119 |
+| Fix me up | 13.00% | ~5,682 |
+| Rock on | 12.00% | ~5,245 |
+| It's sow easy | 11.00% | ~4,808 |
 | Highly cultivated | 10.00% | ~4,370 |
 | Giddy-up! | 10.00% | ~4,370 |
 | Cowherd | 7.00% | ~3,059 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~175 |
 | Raisin the stakes | 0.30% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,699 (Ranked 81)  
+Progressed: 43,705 (Ranked 81)  
 Completed: 5 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,10 +99,10 @@ Completed: 5 (0.01%) (Ranked 201)
 | 2023-06-05 | 43,574 | 5 |
 | 2023-06-06 | 43,613 | 5 |
 | 2023-06-07 | 43,669 | 5 |
-| 2023-06-08 | 43,699 | 5 |
+| 2023-06-08 | 43,705 | 5 |
 ## Awards
 Max (Great for Beginners): 4,332  (Ranked 70)  
-Sum: 36,986 (Ranked 31)  
+Sum: 36,989 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -114,7 +114,7 @@ Diff (max vs sum): 39
 | This game is Highly Recommended | 3,717 |
 | This game has Diverse Characters | 3,665 |
 | This game has Amazing Storytelling | 3,600 |
-| This game has Amazing Characters | 3,225 |
+| This game has Amazing Characters | 3,228 |
 | This game has a Creative Community | 3,042 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
@@ -263,4 +263,4 @@ Diff (max vs sum): 39
 | 2023-06-05 | 4.70 | - | 4,326 | 36,926 |
 | 2023-06-06 | 4.70 | - | 4,326 | 36,946 |
 | 2023-06-07 | 4.70 | - | 4,330 | 36,973 |
-| 2023-06-08 | 4.70 | - | 4,332 | 36,986 |
+| 2023-06-08 | 4.70 | - | 4,332 | 36,989 |

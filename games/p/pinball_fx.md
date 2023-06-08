@@ -1,33 +1,33 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.04 (Ranked 891)  
+Rating: 4.04 (Ranked 892)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 81.00% | ~183,462 |
-| I know the Rules | 42.00% | ~95,128 |
-| Contender | 11.00% | ~24,915 |
-| I Found it! | 7.00% | ~15,855 |
-| First but not Last | 4.00% | ~9,060 |
+| Ball Launched | 81.00% | ~183,478 |
+| I know the Rules | 42.00% | ~95,137 |
+| Contender | 11.00% | ~24,917 |
+| I Found it! | 7.00% | ~15,856 |
+| First but not Last | 4.00% | ~9,061 |
 | Dress Code | 3.00% | ~6,795 |
 | Ready Steady Score | 2.00% | ~4,530 |
 | Full Loot Madness | 2.00% | ~4,530 |
-| My Table, my Rules | 0.90% | ~2,038 |
-| Nine Zeroes | 0.90% | ~2,038 |
-| Shiny Memento | 0.30% | ~679 |
-| Pinball Hoarder | 0.30% | ~679 |
-| Interior Designer | 0.30% | ~679 |
-| Table Mastered, part 10 | 0.10% | ~226 |
-| Medal Hunter | 0.10% | ~226 |
-| Medal Wizard | 0.10% | ~226 |
-| Virtual Pinball Museum | 0.10% | ~226 |
-| Challenge Accepted! | 0.10% | ~226 |
-| Relic Hunter | 0.10% | ~226 |
-| Show Them | 0.10% | ~226 |
-| Totally Furnished | 0.10% | ~226 |
-| Customizer | 0.10% | ~226 |
+| My Table, my Rules | 0.90% | ~2,039 |
+| Nine Zeroes | 0.90% | ~2,039 |
+| Shiny Memento | 0.30% | ~680 |
+| Pinball Hoarder | 0.30% | ~680 |
+| Interior Designer | 0.30% | ~680 |
+| Table Mastered, part 10 | 0.10% | ~227 |
+| Medal Hunter | 0.10% | ~227 |
+| Medal Wizard | 0.10% | ~227 |
+| Virtual Pinball Museum | 0.10% | ~227 |
+| Challenge Accepted! | 0.10% | ~227 |
+| Relic Hunter | 0.10% | ~227 |
+| Show Them | 0.10% | ~227 |
+| Totally Furnished | 0.10% | ~227 |
+| Customizer | 0.10% | ~227 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,496 (Ranked 45)  
+Progressed: 226,516 (Ranked 45)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 225,745 | 0 |
 | 2023-06-06 | 226,025 | 0 |
 | 2023-06-07 | 226,299 | 0 |
-| 2023-06-08 | 226,496 | 0 |
+| 2023-06-08 | 226,516 | 0 |
 ## Awards
 Max (Great for Beginners): 174  (Ranked 276)  
 Sum: 1,497 (Ranked 211)  

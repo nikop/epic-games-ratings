@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13075,
+  "EOS_Progressed": 13076,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3684,6 +3684,11 @@
       "Time": "2023-06-08T16:06:37.3648398+00:00",
       "NumProgressed": 13075,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-08T17:05:58.434779+00:00",
+      "NumProgressed": 13076,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 41,
@@ -3703,7 +3708,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "tpote_achievement_11",
@@ -3799,7 +3804,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "tpote_achievement_22",
@@ -4007,7 +4012,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "tpote_achievement_9",
@@ -4022,15 +4027,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13075,
+      "Progressed": 13076,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-08T16:06:37.3648393+00:00",
+  "LastChanged_Achievements": "2023-06-08T17:05:58.4347785+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.2103721+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:00:37.2009691+00:00",
-  "LastUpdate_Achievements": "2023-06-08T16:06:37.3648826+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:00:11.2089757+00:00",
+  "LastUpdate_Achievements": "2023-06-08T17:05:58.4348357+00:00"
 }
