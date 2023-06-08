@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2326,9 +2326,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 689
     },
     {
       "ID": "2",
@@ -2655,8 +2655,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-08T14:06:19.8668297+00:00",
+  "LastChanged_Achievements": "2023-06-08T15:06:06.2065021+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:57:48.1897432+00:00",
-  "LastUpdate_Achievements": "2023-06-08T14:06:19.8668935+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:57:28.3264251+00:00",
+  "LastUpdate_Achievements": "2023-06-08T15:06:06.2065436+00:00"
 }

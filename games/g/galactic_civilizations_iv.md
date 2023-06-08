@@ -14,8 +14,8 @@ Number of Ratings: 429  (23.09.2022)
 | Unleash My Power | 62.00% | ~3,659 |
 | Own 30 Planets | 35.00% | ~2,065 |
 | Xenocide | 33.00% | ~1,947 |
+| Commodity Trader | 32.00% | ~1,888 |
 | Design a Civilization | 32.00% | ~1,888 |
-| Commodity Trader | 31.00% | ~1,829 |
 | Design a Ship | 29.00% | ~1,711 |
 | Commodity Seller | 26.00% | ~1,534 |
 | Prestige Victory! | 14.00% | ~826 |

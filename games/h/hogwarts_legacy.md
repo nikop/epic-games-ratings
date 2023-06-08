@@ -5,53 +5,53 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~22,179 |
-| Grappling with a Graphorn | 7.00% | ~19,406 |
-| The One Who Mastered Memories | 7.00% | ~19,406 |
-| The Hallowed Hero | 7.00% | ~19,406 |
-| The Defender of Dragons | 7.00% | ~19,406 |
-| A Keen Sense of Spell | 7.00% | ~19,406 |
-| Coasting Along | 7.00% | ~19,406 |
-| First Class Student | 7.00% | ~19,406 |
-| Troll with the Punches | 7.00% | ~19,406 |
-| That's a Keeper | 7.00% | ~19,406 |
-| The Hero of Hogwarts | 6.00% | ~16,634 |
-| Challenge Accepted | 6.00% | ~16,634 |
-| Loom for Improvement | 6.00% | ~16,634 |
-| A Talent for Spending | 6.00% | ~16,634 |
-| Rising From the Ashes | 6.00% | ~16,634 |
-| The Avenging Gazelle | 5.00% | ~13,862 |
-| Beast Friends | 5.00% | ~13,862 |
-| A Sallow Grave | 5.00% | ~13,862 |
-| Flight the Good Flight | 5.00% | ~13,862 |
-| Followed the Butterflies | 5.00% | ~13,862 |
-| The Spell Master | 5.00% | ~13,862 |
-| The Seeker of Knowledge | 4.00% | ~11,089 |
-| The Root of the Problem | 4.00% | ~11,089 |
-| Third Time's a Charm | 4.00% | ~11,089 |
-| Raising Expectations | 4.00% | ~11,089 |
-| The Toast of the Town | 3.00% | ~8,317 |
-| Room with a View | 3.00% | ~8,317 |
-| The Intrepid Explorer | 3.00% | ~8,317 |
-| The Ends Petrify the Means | 3.00% | ~8,317 |
+| The Sort Who Makes an Entrance | 8.00% | ~22,180 |
+| Grappling with a Graphorn | 7.00% | ~19,408 |
+| The One Who Mastered Memories | 7.00% | ~19,408 |
+| The Hallowed Hero | 7.00% | ~19,408 |
+| The Defender of Dragons | 7.00% | ~19,408 |
+| A Keen Sense of Spell | 7.00% | ~19,408 |
+| Coasting Along | 7.00% | ~19,408 |
+| First Class Student | 7.00% | ~19,408 |
+| Troll with the Punches | 7.00% | ~19,408 |
+| That's a Keeper | 7.00% | ~19,408 |
+| The Hero of Hogwarts | 6.00% | ~16,635 |
+| Challenge Accepted | 6.00% | ~16,635 |
+| Loom for Improvement | 6.00% | ~16,635 |
+| A Talent for Spending | 6.00% | ~16,635 |
+| Rising From the Ashes | 6.00% | ~16,635 |
+| The Avenging Gazelle | 5.00% | ~13,863 |
+| Beast Friends | 5.00% | ~13,863 |
+| A Sallow Grave | 5.00% | ~13,863 |
+| Flight the Good Flight | 5.00% | ~13,863 |
+| Followed the Butterflies | 5.00% | ~13,863 |
+| The Spell Master | 5.00% | ~13,863 |
+| The Seeker of Knowledge | 4.00% | ~11,090 |
+| The Root of the Problem | 4.00% | ~11,090 |
+| Third Time's a Charm | 4.00% | ~11,090 |
+| Raising Expectations | 4.00% | ~11,090 |
+| The Toast of the Town | 3.00% | ~8,318 |
+| Room with a View | 3.00% | ~8,318 |
+| The Intrepid Explorer | 3.00% | ~8,318 |
+| The Ends Petrify the Means | 3.00% | ~8,318 |
 | Going Through the Potions | 2.00% | ~5,545 |
 | Put Down Roots | 2.00% | ~5,545 |
 | Floo Around the World | 2.00% | ~5,545 |
 | The Gryffindor in the Graveyard | 2.00% | ~5,545 |
 | The Wise Owl | 2.00% | ~5,545 |
-| The Good Samaritan | 1.00% | ~2,772 |
-| The Auror's Apprentice | 1.00% | ~2,772 |
-| Rise to the Challenges | 1.00% | ~2,772 |
-| Finishing Touches | 1.00% | ~2,772 |
+| The Good Samaritan | 1.00% | ~2,773 |
+| The Auror's Apprentice | 1.00% | ~2,773 |
+| Rise to the Challenges | 1.00% | ~2,773 |
+| Finishing Touches | 1.00% | ~2,773 |
 | Savvy Spender | 0.90% | ~2,495 |
 | Demiguise Dread | 0.90% | ~2,495 |
 | A Forte for Achievement | 0.90% | ~2,495 |
-| Spilled Milk | 0.60% | ~1,663 |
-| Merlin's Beard! | 0.60% | ~1,663 |
+| Spilled Milk | 0.60% | ~1,664 |
+| Merlin's Beard! | 0.60% | ~1,664 |
 | The Nature of the Beast | 0.40% | ~1,109 |
-| Collector's Edition | 0.20% | ~554 |
+| Collector's Edition | 0.20% | ~555 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277,233 (Ranked 40)  
+Progressed: 277,254 (Ranked 40)  
 Completed: 390 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 390 (0.14%) (Ranked 156)
 | 2023-06-05 | 276,567 | 388 |
 | 2023-06-06 | 276,816 | 389 |
 | 2023-06-07 | 277,097 | 390 |
-| 2023-06-08 | 277,233 | 390 |
+| 2023-06-08 | 277,254 | 390 |
 ## Awards
 Max (Character Customization): 19,702  (Ranked 18)  
 Sum: 36,448 (Ranked 32)  

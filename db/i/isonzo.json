@@ -2,7 +2,7 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 454,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 123,
@@ -616,7 +616,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6118,
+  "EOS_Progressed": 6119,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
@@ -2346,6 +2346,11 @@
       "Time": "2023-06-08T12:02:11.9105925+00:00",
       "NumProgressed": 6118,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-08T15:02:32.8902324+00:00",
+      "NumProgressed": 6119,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2373,7 +2378,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -2405,7 +2410,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -2485,7 +2490,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -2525,7 +2530,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -2645,7 +2650,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -2661,7 +2666,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -2677,7 +2682,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -2709,14 +2714,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3181
+      "UsersEstimate": 3182
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6118,
+      "Progressed": 6119,
       "Completed": 8
     }
   ],
@@ -2724,8 +2729,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-08T10:58:11.1993757+00:00",
-  "LastChanged_Achievements": "2023-06-08T14:03:22.492999+00:00",
+  "LastChanged_Achievements": "2023-06-08T15:02:32.8902319+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:28.4757017+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:57:45.787357+00:00",
-  "LastUpdate_Achievements": "2023-06-08T14:03:22.493061+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:57:25.9441284+00:00",
+  "LastUpdate_Achievements": "2023-06-08T15:02:32.8902693+00:00"
 }

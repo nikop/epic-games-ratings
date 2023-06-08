@@ -207,9 +207,9 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 55,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "RUNE_BAT",
@@ -255,9 +255,9 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
@@ -279,9 +279,9 @@
       "ID": "RUNE_DROPFIRSTAIDKIT",
       "SetID": "9433p49",
       "Name": "Witch\u0027s duty",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 55,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "RUNE_DROPRESETSPELL",
@@ -319,9 +319,9 @@
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
@@ -336,8 +336,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-06-08T14:06:18.8361173+00:00",
+  "LastChanged_Achievements": "2023-06-08T15:06:04.8367877+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:41.3790572+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:57:56.7100986+00:00",
-  "LastUpdate_Achievements": "2023-06-08T14:06:18.8361285+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:57:36.6041719+00:00",
+  "LastUpdate_Achievements": "2023-06-08T15:06:04.8367987+00:00"
 }

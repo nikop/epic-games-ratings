@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -560,9 +560,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14728,
+  "EOS_Progressed": 14733,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3175,6 +3175,11 @@
       "Time": "2023-06-08T14:04:39.470901+00:00",
       "NumProgressed": 14728,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-08T15:04:19.5626734+00:00",
+      "NumProgressed": 14733,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3314,7 +3319,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "KILL_ROBOT",
@@ -3322,7 +3327,7 @@
       "Name": "Terminated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3354,7 +3359,7 @@
       "Name": "Reforged",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3378,7 +3383,7 @@
       "Name": "The Outer Way",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3418,7 +3423,7 @@
       "Name": "Desperate Times",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3505,13 +3510,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14728,
+      "Progressed": 14733,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2654,
+      "Progressed": 2659,
       "Completed": 29
     }
   ],
@@ -3519,8 +3524,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-07T20:58:04.7980908+00:00",
-  "LastChanged_Achievements": "2023-06-08T14:04:39.4709002+00:00",
+  "LastChanged_Achievements": "2023-06-08T15:04:19.562673+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:58:16.2545849+00:00",
-  "LastUpdate_Achievements": "2023-06-08T14:04:39.4709842+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:57:55.8979375+00:00",
+  "LastUpdate_Achievements": "2023-06-08T15:04:19.562712+00:00"
 }

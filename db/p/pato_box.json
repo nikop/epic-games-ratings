@@ -2,7 +2,7 @@
   "ID": "59fc9ba3eab144a9a272c9c8101681bd",
   "Name": "Pato Box",
   "ProductSlug": "pato-box-311c99",
-  "Ranking_EOS_Progress": 437,
+  "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 94,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:24.8569454+00:00",
   "LastChanged": "2023-03-31T05:57:24.8569455+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:57.2842506+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:59:05.0857296+00:00",
-  "LastUpdate_Achievements": "2023-06-08T14:01:09.0397431+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:58:44.2271889+00:00",
+  "LastUpdate_Achievements": "2023-06-08T15:00:58.997594+00:00"
 }

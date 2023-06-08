@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2731,
+  "EOS_Progressed": 2732,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2415,6 +2415,11 @@
       "Time": "2023-06-08T11:05:02.9959481+00:00",
       "NumProgressed": 2731,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-08T15:04:02.5881528+00:00",
+      "NumProgressed": 2732,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 24,
@@ -2498,7 +2503,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "19",
@@ -2562,7 +2567,7 @@
       "Name": "FRIENDLY",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "4",
@@ -2578,7 +2583,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "6",
@@ -2594,7 +2599,7 @@
       "Name": "MASTER",
       "Percentage": 11,
       "XP": 65,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "8",
@@ -2617,13 +2622,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2731,
+      "Progressed": 2732,
       "Completed": 5
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-08T14:04:23.2790029+00:00",
+  "LastChanged_Achievements": "2023-06-08T15:04:02.5881524+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.6683071+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:59:21.6279838+00:00",
-  "LastUpdate_Achievements": "2023-06-08T14:04:23.2790543+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:59:00.9803436+00:00",
+  "LastUpdate_Achievements": "2023-06-08T15:04:02.5881781+00:00"
 }

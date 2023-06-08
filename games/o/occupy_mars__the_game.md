@@ -5,28 +5,28 @@ Rating: 3.84 (Ranked 922)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 42.00% | ~482 |
-| Electrician | 34.00% | ~390 |
-| Fear my botany powers, Mars | 32.00% | ~367 |
-| Zero Waste | 29.00% | ~333 |
-| Bob The Builder | 29.00% | ~333 |
-| I am the greatest botanist on this planet. | 28.00% | ~321 |
+| I don't feel so good | 41.00% | ~472 |
+| Electrician | 34.00% | ~391 |
+| Fear my botany powers, Mars | 32.00% | ~368 |
+| Zero Waste | 29.00% | ~334 |
+| Bob The Builder | 29.00% | ~334 |
+| I am the greatest botanist on this planet. | 28.00% | ~322 |
 | Gardener | 24.00% | ~276 |
 | Miner | 24.00% | ~276 |
-| Houston we have a problem | 21.00% | ~241 |
-| Occupy Mars! | 21.00% | ~241 |
+| Houston we have a problem | 21.00% | ~242 |
+| Occupy Mars! | 21.00% | ~242 |
 | Detective | 18.00% | ~207 |
 | The Collector | 14.00% | ~161 |
-| Get your hands dirty | 9.00% | ~103 |
+| Get your hands dirty | 9.00% | ~104 |
 | All Wheel Trouble | 6.00% | ~69 |
 | Space Forest | 6.00% | ~69 |
-| ITS crash site | 5.00% | ~57 |
+| ITS crash site | 5.00% | ~58 |
 | DeDust | 4.00% | ~46 |
 | “Aliens” | 3.00% | ~34 |
 | Plumber | 2.00% | ~23 |
-| Driver's License | 1.00% | ~11 |
-| Hard Landing | 1.00% | ~11 |
-| To infinity and beyond! | 1.00% | ~11 |
+| Driver's License | 1.00% | ~12 |
+| Hard Landing | 1.00% | ~12 |
+| To infinity and beyond! | 1.00% | ~12 |
 | Explosive Miner | 0.90% | ~10 |
 | Rocket Jump | 0.70% | ~8 |
 | Thunderstruck | 0.70% | ~8 |
@@ -54,7 +54,7 @@ Rating: 3.84 (Ranked 922)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,148 (Ranked 166)  
+Progressed: 1,150 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 1,130 | 0 |
 | 2023-06-06 | 1,142 | 0 |
 | 2023-06-07 | 1,144 | 0 |
-| 2023-06-08 | 1,148 | 0 |
+| 2023-06-08 | 1,150 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

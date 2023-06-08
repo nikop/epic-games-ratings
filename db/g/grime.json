@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 577,
+  "EOS_Progressed": 578,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -459,6 +459,11 @@
       "Time": "2023-06-08T06:03:09.387933+00:00",
       "NumProgressed": 577,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T15:03:11.9784127+00:00",
+      "NumProgressed": 578,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -476,9 +481,9 @@
       "ID": "ACQUIRE_ALLHUNTPOINTS",
       "SetID": "ccc0dlh",
       "Name": "Bloodhunter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -534,7 +539,7 @@
       "Name": "Taste",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -564,9 +569,9 @@
       "ID": "DEFEAT_FIDUS",
       "SetID": "ccc0dlh",
       "Name": "Shapely",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -660,9 +665,9 @@
       "ID": "DEFEAT_WHISPERERS",
       "SetID": "ccc0dlh",
       "Name": "Silenced Whispers",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 75
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -734,7 +739,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -748,9 +753,9 @@
       "ID": "MISC_UNLOCKBARRIERDOOR",
       "SetID": "ccc0dlh",
       "Name": "Unwrap the Gift",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 23
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -805,21 +810,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 577,
+      "Progressed": 578,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-06-08T14:03:38.4921626+00:00",
+  "LastChanged_Achievements": "2023-06-08T15:03:11.9784116+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.4730882+00:00",
-  "LastUpdate_Ratings": "2023-06-08T14:00:50.1315351+00:00",
-  "LastUpdate_Achievements": "2023-06-08T14:03:38.4921994+00:00"
+  "LastUpdate_Ratings": "2023-06-08T15:00:36.5451246+00:00",
+  "LastUpdate_Achievements": "2023-06-08T15:03:11.9784438+00:00"
 }

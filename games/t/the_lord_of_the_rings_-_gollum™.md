@@ -20,8 +20,8 @@
 | Murderer | 7.00% | ~29 |
 | Her Eyes | 6.00% | ~25 |
 | Trigger-Happy | 6.00% | ~25 |
+| Gollum/Sméagol | 5.00% | ~21 |
 | The Friend | 4.00% | ~17 |
-| Gollum/Sméagol | 4.00% | ~17 |
 | Made a Song | 4.00% | ~17 |
 | Master of the Old Game | 3.00% | ~12 |
 | So Silly! | 3.00% | ~12 |

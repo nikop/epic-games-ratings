@@ -16,7 +16,7 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 62.00% | ~24 |
 | Way of the Wimp | 56.00% | ~22 |
 | Speedrun | 56.00% | ~22 |
-| Oh, when I'll be level 10... | 54.00% | ~21 |
+| Oh, when I'll be level 10... | 56.00% | ~22 |
 | A beer, two curses, three companions | 49.00% | ~19 |
 | Thieves' Guild Accreditation | 49.00% | ~19 |
 | I am the night | 46.00% | ~18 |

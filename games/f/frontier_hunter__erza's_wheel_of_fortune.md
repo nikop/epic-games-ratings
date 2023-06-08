@@ -9,6 +9,8 @@
 | Arms Mechanic | 80.00% | ~4 |
 | Kuku Bird Hunter | 80.00% | ~4 |
 | Wolf King Killer | 80.00% | ~4 |
+| Beginner Cook | 60.00% | ~3 |
+| Beginner Artificer | 60.00% | ~3 |
 | Fashion Connoisseur | 60.00% | ~3 |
 | Trader | 60.00% | ~3 |
 | Storm Traveller | 60.00% | ~3 |
@@ -22,9 +24,7 @@
 | Kind Adventurer | 40.00% | ~2 |
 | Mermaid Killer | 40.00% | ~2 |
 | Face Slapper | 40.00% | ~2 |
-| Beginner Cook | 40.00% | ~2 |
 | Master Cook | 40.00% | ~2 |
-| Beginner Artificer | 40.00% | ~2 |
 | Master Artificer | 40.00% | ~2 |
 | Weapon Boost | 40.00% | ~2 |
 | Seal Breaker | 40.00% | ~2 |

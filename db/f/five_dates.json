@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -422,6 +422,11 @@
       "Time": "2023-06-07T21:04:02.5601614+00:00",
       "NumProgressed": 412,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-08T15:03:59.5144717+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -433,7 +438,7 @@
       "Name": "All Set Up",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "booty_call",
@@ -457,7 +462,7 @@
       "Name": "Digital Casanova",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "hold_my_beer",
@@ -473,7 +478,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "interrogation",
@@ -481,7 +486,7 @@
       "Name": "Interrogation",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "light_sleepers",
@@ -497,7 +502,7 @@
       "Name": "Not Alone",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "nueva_beginnings",
@@ -552,7 +557,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 4
     }
   ],
@@ -560,8 +565,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-08T14:04:19.8724324+00:00",
+  "LastChanged_Achievements": "2023-06-08T15:03:59.5144712+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:18.3504404+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:58:29.4290701+00:00",
-  "LastUpdate_Achievements": "2023-06-08T14:04:19.872449+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:58:08.9347207+00:00",
+  "LastUpdate_Achievements": "2023-06-08T15:03:59.514482+00:00"
 }

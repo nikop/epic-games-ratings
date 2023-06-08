@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 399,
+  "EOS_Progressed": 400,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -362,6 +362,11 @@
       "Time": "2023-06-07T17:10:20.0002538+00:00",
       "NumProgressed": 399,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-08T15:06:04.0602641+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 20,
@@ -373,7 +378,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "CHOICES_MATTER",
@@ -445,7 +450,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -461,7 +466,7 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "GOOD_KARMA",
@@ -532,7 +537,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 399,
+      "Progressed": 400,
       "Completed": 4
     }
   ],
@@ -540,8 +545,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-06-08T14:06:17.9658147+00:00",
+  "LastChanged_Achievements": "2023-06-08T15:06:04.0602637+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:52.1807912+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:58:06.45171+00:00",
-  "LastUpdate_Achievements": "2023-06-08T14:06:17.9658383+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:57:46.280879+00:00",
+  "LastUpdate_Achievements": "2023-06-08T15:06:04.0602759+00:00"
 }

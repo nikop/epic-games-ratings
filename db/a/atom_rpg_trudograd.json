@@ -778,9 +778,9 @@
       "ID": "MEMOIRS_OF_A_NIBBLER",
       "SetID": "62d2oh4",
       "Name": "Memoirs of a Nibbler",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MYST_KNIFE",
@@ -899,8 +899,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-06-06T13:57:30.8071111+00:00",
-  "LastChanged_Achievements": "2023-06-08T14:06:22.0574863+00:00",
+  "LastChanged_Achievements": "2023-06-08T15:06:08.2058619+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:21.9727845+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:57:40.4204717+00:00",
-  "LastUpdate_Achievements": "2023-06-08T14:06:22.0575293+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:57:20.8058007+00:00",
+  "LastUpdate_Achievements": "2023-06-08T15:06:08.2058825+00:00"
 }

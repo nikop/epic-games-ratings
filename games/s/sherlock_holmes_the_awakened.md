@@ -7,8 +7,8 @@
 | To Hell In A Handcart | 62.00% | ~247 |
 | Read Between The Lines | 60.00% | ~239 |
 | High Profile | 54.00% | ~215 |
-| Whispers In The Dark | 52.00% | ~207 |
-| Fond Memories | 48.00% | ~191 |
+| Whispers In The Dark | 53.00% | ~211 |
+| Fond Memories | 49.00% | ~195 |
 | History Check | 47.00% | ~187 |
 | A Method To His Madness | 47.00% | ~187 |
 | The New World | 44.00% | ~175 |
@@ -21,14 +21,14 @@
 | Back In The Saddle | 40.00% | ~159 |
 | No Man Is An Island | 40.00% | ~159 |
 | At Wits' End | 39.00% | ~155 |
+| Fhtagn! | 37.00% | ~147 |
 | Bookworm | 36.00% | ~143 |
 | Up In Flames | 36.00% | ~143 |
-| Fhtagn! | 36.00% | ~143 |
 | Going Once... | 35.00% | ~139 |
 | Let Me Be Frank | 33.00% | ~131 |
 | Brain Food | 32.00% | ~127 |
 | No Stone Unturned | 30.00% | ~119 |
-| Curiosity Killed The Cat | 19.00% | ~76 |
+| Curiosity Killed The Cat | 20.00% | ~80 |
 | Read It And Weep | 18.00% | ~72 |
 | Big Breakthrough | 15.00% | ~60 |
 | Reawakened | 6.00% | ~24 |

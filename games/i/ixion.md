@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 453)  
+Rating: 4.57 (Ranked 443)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,23 +39,23 @@ Rating: 4.56 (Ranked 453)
 | Delivery! | 1.00% | ~25 |
 | Pedal to the Metal | 1.00% | ~25 |
 | What the Ruins Teach Us | 1.00% | ~25 |
-| Mutual Loyalty | 0.90% | ~22 |
-| Pulsar Disciple | 0.90% | ~22 |
+| Mutual Loyalty | 0.90% | ~23 |
+| Pulsar Disciple | 0.90% | ~23 |
 | Catastrophe Avoided | 0.80% | ~20 |
 | Praise the Hull! | 0.80% | ~20 |
 | You Had One Job... | 0.80% | ~20 |
-| Space Greenhouse | 0.70% | ~17 |
+| Space Greenhouse | 0.70% | ~18 |
 | Tiqqun Contender | 0.60% | ~15 |
 | Gregor Spinoza | 0.60% | ~15 |
 | Tiqqun Unchained | 0.60% | ~15 |
 | Scientifically Accurate | 0.60% | ~15 |
 | Help of the Forgotten Member | 0.60% | ~15 |
 | Better Him Than Me | 0.40% | ~10 |
-| Remember the Dead | 0.30% | ~7 |
+| Remember the Dead | 0.30% | ~8 |
 | Work Harder | 0.20% | ~5 |
 | Soylent Green | 0.20% | ~5 |
-| A Junker's Dream | 0.10% | ~2 |
-| Crunch Culture | 0.10% | ~2 |
+| A Junker's Dream | 0.10% | ~3 |
+| Crunch Culture | 0.10% | ~3 |
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 453)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,499 (Ranked 145)  
+Progressed: 2,502 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 2,460 | 0 |
 | 2023-06-06 | 2,471 | 0 |
 | 2023-06-07 | 2,488 | 0 |
-| 2023-06-08 | 2,499 | 0 |
+| 2023-06-08 | 2,502 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -154,3 +154,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 4.58 | 0 | 0 |
 | 2023-06-03 | 4.57 | 0 | 0 |
 | 2023-06-07 | 4.56 | 0 | 0 |
+| 2023-06-08 | 4.57 | 0 | 0 |

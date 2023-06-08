@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1205,25 +1205,25 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 207
+      "UsersEstimate": 211
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 195
     },
     {
       "ID": "MQ03_2",
@@ -1381,9 +1381,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 147
     },
     {
       "ID": "PLTN",
@@ -1406,8 +1406,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-08T14:04:33.9422221+00:00",
+  "LastChanged_Achievements": "2023-06-08T15:04:13.8563648+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:57:37.800547+00:00",
-  "LastUpdate_Achievements": "2023-06-08T14:04:33.94225+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:57:18.3391726+00:00",
+  "LastUpdate_Achievements": "2023-06-08T15:04:13.8563855+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -310,9 +310,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1368,
+  "EOS_Progressed": 1369,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -1005,6 +1005,11 @@
       "Time": "2023-06-08T06:06:26.7183741+00:00",
       "NumProgressed": 1368,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-08T15:06:33.2632032+00:00",
+      "NumProgressed": 1369,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 38,
@@ -1016,7 +1021,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1056,7 +1061,7 @@
       "Name": "Acrobatic Adventurer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENTS_07",
@@ -1072,7 +1077,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1080,15 +1085,15 @@
       "Name": "Rookie Chemist",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "ACHIEVEMENTS_10",
       "SetID": "d4o538a",
       "Name": "Intermediate Chemist",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 520
+      "UsersEstimate": 507
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -1128,7 +1133,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -1136,7 +1141,7 @@
       "Name": "Sociable",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -1198,9 +1203,9 @@
       "ID": "ACHIEVEMENTS_24",
       "SetID": "d4o538a",
       "Name": "Stone Specialist",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 164
     },
     {
       "ID": "ACHIEVEMENTS_25",
@@ -1256,7 +1261,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -1288,7 +1293,7 @@
       "Name": "Production Sorter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENTS_36",
@@ -1319,7 +1324,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1368,
+      "Progressed": 1369,
       "Completed": 6
     }
   ],
@@ -1327,8 +1332,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-31T00:00:26.9693772+00:00",
-  "LastChanged_Achievements": "2023-06-08T14:06:42.5813884+00:00",
+  "LastChanged_Achievements": "2023-06-08T15:06:33.2632028+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.0833594+00:00",
-  "LastUpdate_Ratings": "2023-06-08T14:00:50.6075626+00:00",
-  "LastUpdate_Achievements": "2023-06-08T14:06:42.581446+00:00"
+  "LastUpdate_Ratings": "2023-06-08T15:00:36.9945567+00:00",
+  "LastUpdate_Achievements": "2023-06-08T15:06:33.2632298+00:00"
 }
