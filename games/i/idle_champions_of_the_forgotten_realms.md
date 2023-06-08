@@ -77,6 +77,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Squeeze the Spiders | 0.20% | ~113 |
 | The Prince of a Thousand Enemies | 0.20% | ~113 |
 | Uncommon Allies | 0.20% | ~113 |
+| The Birds | 0.20% | ~113 |
 | Where the Magic Happens | 0.20% | ~113 |
 | Downfall | 0.20% | ~113 |
 | First Third Out | 0.20% | ~113 |
@@ -253,7 +254,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.10% | ~56 |
 | Icequake | 0.10% | ~56 |
 | A Lesson in Classes | 0.10% | ~56 |
-| The Birds | 0.10% | ~56 |
 | Slack-jawed Lorna | 0.10% | ~56 |
 | I'm Sure I Saw It Move! | 0.10% | ~56 |
 | End of the Line | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,057 (Ranked 62)  
+Progressed: 90,060 (Ranked 62)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,6 +549,7 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
+| 2023-06-08 | 90,060 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,049 (Ranked 37)  

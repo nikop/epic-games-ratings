@@ -18,9 +18,9 @@
 | Bouncemato | 24.00% | ~11 |
 | This Is My Boomstick | 22.00% | ~10 |
 | Quick-Draw Pod | 19.00% | ~8 |
+| Professional Survivor | 19.00% | ~8 |
 | 15K | 18.00% | ~17 |
 | 10K | 18.00% | ~17 |
-| Professional Survivor | 18.00% | ~8 |
 | Grave Digger | 17.00% | ~7 |
 | Drinking Problem | 14.00% | ~13 |
 | Oh My Gourd | 10.00% | ~4 |

@@ -16,11 +16,11 @@
 | Junior Lieutenant Baran | 17.00% | ~6 |
 | Senior warrant officer Baran 1st class | 17.00% | ~6 |
 | Senior warrant officer Baran 2nd class | 17.00% | ~6 |
-| Baran Senior Warrant Officer Grade 5 | 11.00% | ~4 |
-| Senior Lieutenant Baran | 11.00% | ~4 |
-| Captain Baran | 3.00% | ~1 |
-| Senior Major Baran | 3.00% | ~1 |
-| Lieutenant Colonel Baran | 3.00% | ~1 |
+| Baran Senior Warrant Officer Grade 5 | 14.00% | ~5 |
+| Senior Lieutenant Baran | 14.00% | ~5 |
+| Captain Baran | 6.00% | ~2 |
+| Senior Major Baran | 6.00% | ~2 |
+| Lieutenant Colonel Baran | 6.00% | ~2 |
 | Colonel Baran | 0.00% | ~0 |
 | Brigadier General Baran | 0.00% | ~0 |
 | Lieutenant General Baran | 0.00% | ~0 |

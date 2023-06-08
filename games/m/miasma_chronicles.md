@@ -5,21 +5,21 @@ Rating: 4.34 (Ranked 735)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~967 |
-| Ranidaphobia | 75.00% | ~788 |
+| First Blood | 92.00% | ~968 |
+| Ranidaphobia | 75.00% | ~789 |
 | Aspiring Editor | 72.00% | ~757 |
-| Gun for Hire | 67.00% | ~704 |
-| I am the law! | 59.00% | ~620 |
+| Gun for Hire | 67.00% | ~705 |
+| I am the law! | 59.00% | ~621 |
 | Lumberjack | 45.00% | ~473 |
-| Croaked | 40.00% | ~420 |
+| Croaked | 40.00% | ~421 |
 | Limp Richard | 39.00% | ~410 |
-| From Darkness to Light | 38.00% | ~399 |
+| From Darkness to Light | 38.00% | ~400 |
 | Exorcist | 37.00% | ~389 |
 | Firestarter | 37.00% | ~389 |
-| Editor Adept | 36.00% | ~378 |
+| Editor Adept | 36.00% | ~379 |
 | Giant Killer | 33.00% | ~347 |
-| Sensei | 32.00% | ~336 |
-| The meaning of Kain | 30.00% | ~315 |
+| Sensei | 32.00% | ~337 |
+| The meaning of Kain | 30.00% | ~316 |
 | Technophobe | 27.00% | ~284 |
 | Recycler | 25.00% | ~263 |
 | Are you not entertained? | 22.00% | ~231 |
@@ -35,7 +35,7 @@ Rating: 4.34 (Ranked 735)
 | Newtonian Knockout | 14.00% | ~147 |
 | Savior | 14.00% | ~147 |
 | The Watchers | 13.00% | ~137 |
-| Ruthless | 11.00% | ~116 |
+| Ruthless | 12.00% | ~126 |
 | Dr Jones | 10.00% | ~105 |
 | Chaos Theory | 8.00% | ~84 |
 | Commando | 8.00% | ~84 |
@@ -57,7 +57,7 @@ Rating: 4.34 (Ranked 735)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,051 (Ranked 171)  
+Progressed: 1,052 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 1,035 | 0 |
 | 2023-06-06 | 1,041 | 0 |
 | 2023-06-07 | 1,051 | 0 |
+| 2023-06-08 | 1,052 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

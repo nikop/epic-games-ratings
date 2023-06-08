@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanic | 92.00% | ~33 |
-| Firefighter | 89.00% | ~32 |
-| Pirate | 75.00% | ~27 |
-| Miner | 64.00% | ~23 |
-| Expert Mechanic | 53.00% | ~19 |
-| Cookie Addict | 53.00% | ~19 |
-| Salvager | 36.00% | ~13 |
+| Mechanic | 89.00% | ~33 |
+| Firefighter | 86.00% | ~32 |
+| Pirate | 73.00% | ~27 |
+| Miner | 62.00% | ~23 |
+| Expert Mechanic | 51.00% | ~19 |
+| Cookie Addict | 51.00% | ~19 |
+| Salvager | 35.00% | ~13 |
 | You're Hired! | 22.00% | ~8 |
 | Expert Miner | 19.00% | ~7 |
 | Expert Firefighter | 14.00% | ~5 |
 | Master Mechanic | 11.00% | ~4 |
 | Pancake Day | 11.00% | ~4 |
-| Notorious Pirate | 6.00% | ~2 |
-| Master Firefighter | 6.00% | ~2 |
-| Ray of Sunshine | 6.00% | ~2 |
+| Notorious Pirate | 5.00% | ~2 |
+| Master Firefighter | 5.00% | ~2 |
+| Ray of Sunshine | 5.00% | ~2 |
 | Family Reunion | 3.00% | ~1 |
 | Master Miner | 3.00% | ~1 |
 | Pirate Lord | 0.00% | ~0 |
@@ -28,7 +28,7 @@
 | Master Salvager | 0.00% | ~0 |
 | Day Trip | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 320)  
+Progressed: 37 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,6 +46,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 34 | 0 |
 | 2023-06-03 | 35 | 0 |
 | 2023-06-07 | 36 | 0 |
+| 2023-06-08 | 37 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

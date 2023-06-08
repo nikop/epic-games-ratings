@@ -6,21 +6,21 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 77.00% | ~6,453 |
-| Sword Runner | 63.00% | ~5,280 |
-| Wallrunner | 56.00% | ~4,693 |
+| Longrunner | 77.00% | ~6,454 |
+| Sword Runner | 63.00% | ~5,281 |
+| Wallrunner | 56.00% | ~4,694 |
 | Running out of breath | 55.00% | ~4,610 |
-| Homerunner | 46.00% | ~3,855 |
-| Out of order | 46.00% | ~3,855 |
-| I call it luck | 45.00% | ~3,771 |
+| Homerunner | 46.00% | ~3,856 |
+| Out of order | 46.00% | ~3,856 |
+| I call it luck | 45.00% | ~3,772 |
 | Where are my Keys? | 43.00% | ~3,604 |
 | Back to hell | 38.00% | ~3,185 |
 | Perfection | 33.00% | ~2,766 |
 | Sword to a gunfight | 31.00% | ~2,598 |
 | Why not both | 31.00% | ~2,598 |
-| Upgrades not mandatory | 30.00% | ~2,514 |
-| Artificial selection | 29.00% | ~2,430 |
-| Control freak | 29.00% | ~2,430 |
+| Upgrades not mandatory | 30.00% | ~2,515 |
+| Artificial selection | 29.00% | ~2,431 |
+| Control freak | 29.00% | ~2,431 |
 | Running Wild | 28.00% | ~2,347 |
 | Finish line | 27.00% | ~2,263 |
 | Unstoppable force | 23.00% | ~1,928 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.40% | ~34 |
 | Up Close And Personal | 0.40% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,381 (Ranked 113)  
+Progressed: 8,382 (Ranked 113)  
 Completed: 40 (0.48%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 40 (0.48%) (Ranked 114)
 | 2023-06-05 | 8,093 | 38 |
 | 2023-06-06 | 8,251 | 40 |
 | 2023-06-07 | 8,381 | 40 |
+| 2023-06-08 | 8,382 | 40 |
 ## Awards
 Max (Great Boss Battles): 464  (Ranked 190)  
 Sum: 621 (Ranked 283)  

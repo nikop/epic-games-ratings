@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1051,
+  "EOS_Progressed": 1052,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1420,6 +1420,11 @@
       "Time": "2023-06-07T23:03:05.2976462+00:00",
       "NumProgressed": 1051,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T00:03:24.679384+00:00",
+      "NumProgressed": 1052,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1511,7 +1516,7 @@
       "Name": "Croaked",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "CRUELTY",
@@ -1575,7 +1580,7 @@
       "Name": "Editor Adept",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ENDGAME",
@@ -1615,7 +1620,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1639,7 +1644,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "GIANT_KILLER",
@@ -1663,7 +1668,7 @@
       "Name": "Gun for Hire",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1679,7 +1684,7 @@
       "Name": "I am the law!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "INFILTRATOR",
@@ -1735,7 +1740,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "RECYCLER",
@@ -1749,9 +1754,9 @@
       "ID": "RUTHLESS",
       "SetID": "9a4jnji",
       "Name": "Ruthless",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 126
     },
     {
       "ID": "SAVIOR",
@@ -1767,7 +1772,7 @@
       "Name": "Sensei",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1815,7 +1820,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "THE_WATCHERS",
@@ -1838,7 +1843,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1051,
+      "Progressed": 1052,
       "Completed": 0
     }
   ],
@@ -1846,8 +1851,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-07T20:58:30.3152036+00:00",
-  "LastChanged_Achievements": "2023-06-07T23:03:05.2976458+00:00",
+  "LastChanged_Achievements": "2023-06-08T00:03:24.6793834+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-07T22:58:25.7645083+00:00",
-  "LastUpdate_Achievements": "2023-06-07T23:03:05.297685+00:00"
+  "LastUpdate_Ratings": "2023-06-07T23:58:49.5959289+00:00",
+  "LastUpdate_Achievements": "2023-06-08T00:03:24.6794378+00:00"
 }

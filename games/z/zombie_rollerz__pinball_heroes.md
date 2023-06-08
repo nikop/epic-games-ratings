@@ -18,11 +18,11 @@
 | Level Up!! | 40.00% | ~36 |
 | The Shield | 38.00% | ~35 |
 | Kill-streak | 37.00% | ~34 |
-| The Bird | 31.00% | ~28 |
+| The Bird | 32.00% | ~29 |
 | The Idol | 29.00% | ~26 |
+| Inferno Ruins | 29.00% | ~26 |
 | Topped up | 27.00% | ~25 |
 | The Ninja | 27.00% | ~25 |
-| Inferno Ruins | 27.00% | ~25 |
 | I'm Rich | 25.00% | ~23 |
 | Untouchable | 24.00% | ~22 |
 | The Slime | 22.00% | ~20 |

@@ -310,9 +310,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1366,
+  "EOS_Progressed": 1367,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -995,6 +995,11 @@
       "Time": "2023-06-07T22:05:34.3877519+00:00",
       "NumProgressed": 1366,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-08T00:07:05.2543134+00:00",
+      "NumProgressed": 1367,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 38,
@@ -1006,7 +1011,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1014,7 +1019,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -1062,7 +1067,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1070,7 +1075,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -1078,7 +1083,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -1118,7 +1123,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -1158,15 +1163,15 @@
       "Name": "Decorative Mind",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACHIEVEMENTS_21",
       "SetID": "d4o538a",
       "Name": "Fishing Guru",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -1309,7 +1314,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1366,
+      "Progressed": 1367,
       "Completed": 6
     }
   ],
@@ -1317,8 +1322,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-31T00:00:26.9693772+00:00",
-  "LastChanged_Achievements": "2023-06-07T23:06:19.8989214+00:00",
+  "LastChanged_Achievements": "2023-06-08T00:07:05.2543128+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.0833594+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:00:34.2278981+00:00",
-  "LastUpdate_Achievements": "2023-06-07T23:06:19.8989472+00:00"
+  "LastUpdate_Ratings": "2023-06-08T00:01:20.3601771+00:00",
+  "LastUpdate_Achievements": "2023-06-08T00:07:05.2543451+00:00"
 }

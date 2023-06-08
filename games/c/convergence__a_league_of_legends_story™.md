@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | The Steel Shadow | 3.00% | ~19 |
 | Treasure Trove | 3.00% | ~19 |
+| Like Clockwork | 3.00% | ~19 |
 | Street Style | 3.00% | ~19 |
 | The Betrayer | 3.00% | ~19 |
 | The Man Who Shattered Time | 3.00% | ~19 |
@@ -13,22 +14,23 @@
 | Cartographer | 3.00% | ~19 |
 | Breaking Down Barriers | 3.00% | ~19 |
 | The Wicked Twins | 3.00% | ~19 |
+| Time Heals All Wounds | 3.00% | ~19 |
 | Check Your Pulse | 3.00% | ~19 |
 | Immaculate Aim | 3.00% | ~19 |
 | Chaincrawler Explorer | 2.00% | ~12 |
-| Like Clockwork | 2.00% | ~12 |
 | Family Memories | 2.00% | ~12 |
 | The Mysterious Stranger | 2.00% | ~12 |
 | Whiz Kid | 2.00% | ~12 |
 | Rail Rat | 2.00% | ~12 |
 | The Loose Cannon | 2.00% | ~12 |
+| Time Flies | 2.00% | ~12 |
 | The Harder They Fall | 2.00% | ~12 |
 | No, Thanks! | 2.00% | ~12 |
 | The Prince in Heels | 2.00% | ~12 |
-| Time Heals All Wounds | 2.00% | ~12 |
 | Golem Chaser | 2.00% | ~12 |
 | Fast Learner | 2.00% | ~12 |
 | Sump Explorer | 2.00% | ~12 |
+| Immaculate Aim | 2.00% | ~12 |
 | Ask Questions Later | 2.00% | ~12 |
 | The Brass Boss | 2.00% | ~12 |
 | The Family Fortune | 2.00% | ~12 |
@@ -39,12 +41,10 @@
 | Entresol Explorer | 1.00% | ~6 |
 | Factorywood Explorer | 1.00% | ~6 |
 | Fairgrounds Explorer | 1.00% | ~6 |
-| Time Flies | 1.00% | ~6 |
 | Honest Mistake | 1.00% | ~6 |
 | Rungs Was Right | 1.00% | ~6 |
 | Syron for Hope | 1.00% | ~6 |
 | Theater Explorer | 1.00% | ~6 |
-| Immaculate Aim | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
 | Golem Hunter | 0.80% | ~5 |
 | Hexlock for Protection | 0.30% | ~2 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 624 (Ranked 191)  
+Progressed: 625 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,3 +79,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 608 | 0 |
 | 2023-06-06 | 615 | 0 |
 | 2023-06-07 | 624 | 0 |
+| 2023-06-08 | 625 | 0 |

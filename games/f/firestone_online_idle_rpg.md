@@ -5,23 +5,23 @@ Rating: 4.00 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,249 |
-| World Map | 80.00% | ~1,063 |
-| Temple of Eternals | 57.00% | ~758 |
-| Prestigious | 53.00% | ~704 |
-| Fellowship Power | 41.00% | ~545 |
+| Victor | 94.00% | ~1,251 |
+| World Map | 80.00% | ~1,065 |
+| Temple of Eternals | 57.00% | ~759 |
+| Prestigious | 53.00% | ~705 |
+| Fellowship Power | 41.00% | ~546 |
 | Guild Power | 24.00% | ~319 |
-| Prestigious x10 | 21.00% | ~279 |
-| The game is on | 18.00% | ~239 |
+| Prestigious x10 | 21.00% | ~280 |
+| The game is on | 18.00% | ~240 |
 | Exotic Merchant | 17.00% | ~226 |
 | Dragon Clicker | 16.00% | ~213 |
 | Miner Clicker | 16.00% | ~213 |
-| Inspection | 15.00% | ~199 |
+| Inspection | 15.00% | ~200 |
 | Full Party | 14.00% | ~186 |
 | Dragon Master | 13.00% | ~173 |
 | Enlightenment | 13.00% | ~173 |
 | Hero inspection | 13.00% | ~173 |
-| Lieutenant | 12.00% | ~159 |
+| Lieutenant | 12.00% | ~160 |
 | Milestone collector | 11.00% | ~146 |
 | Mysterious Rock | 11.00% | ~146 |
 | Natural Talent | 11.00% | ~146 |
@@ -38,11 +38,11 @@ Rating: 4.00 (Ranked 897)
 | Doing My Part | 6.00% | ~80 |
 | Frostfire Liberator | 6.00% | ~80 |
 | Moving Up The Ladder | 6.00% | ~80 |
-| Four Leaf Clover | 5.00% | ~66 |
-| Here We Go Again | 5.00% | ~66 |
-| The Expeditioner | 5.00% | ~66 |
-| The father of Dragons | 5.00% | ~66 |
-| Trader | 5.00% | ~66 |
+| Four Leaf Clover | 5.00% | ~67 |
+| Here We Go Again | 5.00% | ~67 |
+| The Expeditioner | 5.00% | ~67 |
+| The father of Dragons | 5.00% | ~67 |
+| Trader | 5.00% | ~67 |
 | Ancient Knowledge | 4.00% | ~53 |
 | Background Story | 4.00% | ~53 |
 | How Do You Turn This On? | 4.00% | ~53 |
@@ -81,7 +81,7 @@ Rating: 4.00 (Ranked 897)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,329 (Ranked 162)  
+Progressed: 1,331 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 1 (0.08%) (Ranked 172)
 | 2023-06-05 | 1,299 | 1 |
 | 2023-06-06 | 1,309 | 1 |
 | 2023-06-07 | 1,329 | 1 |
+| 2023-06-08 | 1,331 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

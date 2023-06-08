@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 647,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 41,
@@ -478,9 +478,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 250608,
+  "EOS_Progressed": 250609,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5288,6 +5288,11 @@
       "Time": "2023-06-07T23:03:06.993274+00:00",
       "NumProgressed": 250608,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T00:03:26.6628408+00:00",
+      "NumProgressed": 250609,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -5347,7 +5352,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77688
+      "UsersEstimate": 77689
     },
     {
       "ID": "BackHomeNTimes",
@@ -5499,7 +5504,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15036
+      "UsersEstimate": 15037
     },
     {
       "ID": "GrowPlants2",
@@ -5746,7 +5751,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 250608,
+      "Progressed": 250609,
       "Completed": 1
     }
   ],
@@ -5754,8 +5759,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-07T19:01:29.3487318+00:00",
-  "LastChanged_Achievements": "2023-06-07T23:03:06.9932736+00:00",
+  "LastChanged_Achievements": "2023-06-08T00:03:26.6628402+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.3196281+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:00:24.5948341+00:00",
-  "LastUpdate_Achievements": "2023-06-07T23:03:06.9933355+00:00"
+  "LastUpdate_Ratings": "2023-06-08T00:01:09.1801979+00:00",
+  "LastUpdate_Achievements": "2023-06-08T00:03:26.6629221+00:00"
 }

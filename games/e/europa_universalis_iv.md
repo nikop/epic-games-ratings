@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,654 |
-| That's a Grand Army | 8.00% | ~4,137 |
-| That is mine! | 8.00% | ~4,137 |
-| Victorious! | 8.00% | ~4,137 |
-| Brothers in Arms | 6.00% | ~3,103 |
-| That's a Grand Navy | 6.00% | ~3,103 |
-| Seriously?! | 6.00% | ~3,103 |
+| Until death do us apart | 9.00% | ~4,656 |
+| That's a Grand Army | 8.00% | ~4,138 |
+| That is mine! | 8.00% | ~4,138 |
+| Victorious! | 8.00% | ~4,138 |
+| Brothers in Arms | 6.00% | ~3,104 |
+| That's a Grand Navy | 6.00% | ~3,104 |
+| Seriously?! | 6.00% | ~3,104 |
 | For the Glory | 5.00% | ~2,586 |
 | Cold War | 4.00% | ~2,069 |
 | True Catholic | 4.00% | ~2,069 |
-| Defender of the Faith | 3.00% | ~1,551 |
-| It's all about the money | 3.00% | ~1,551 |
-| Respected | 3.00% | ~1,551 |
-| Truly Divine Ruler | 3.00% | ~1,551 |
-| Agressive Expander | 2.00% | ~1,034 |
-| Blockader | 2.00% | ~1,034 |
-| Combined Arms | 2.00% | ~1,034 |
-| Double the Love | 2.00% | ~1,034 |
-| Gentle Persuasion | 2.00% | ~1,034 |
-| It's all about luck | 2.00% | ~1,034 |
-| My armies are invincible! | 2.00% | ~1,034 |
-| Queen of Conquest | 2.00% | ~1,034 |
-| Royal Authority | 2.00% | ~1,034 |
-| The Princess is in this Castle | 2.00% | ~1,034 |
-| Total Control | 2.00% | ~1,034 |
+| Defender of the Faith | 3.00% | ~1,552 |
+| It's all about the money | 3.00% | ~1,552 |
+| Respected | 3.00% | ~1,552 |
+| Truly Divine Ruler | 3.00% | ~1,552 |
+| Agressive Expander | 2.00% | ~1,035 |
+| Blockader | 2.00% | ~1,035 |
+| Combined Arms | 2.00% | ~1,035 |
+| Double the Love | 2.00% | ~1,035 |
+| Gentle Persuasion | 2.00% | ~1,035 |
+| It's all about luck | 2.00% | ~1,035 |
+| My armies are invincible! | 2.00% | ~1,035 |
+| Queen of Conquest | 2.00% | ~1,035 |
+| Royal Authority | 2.00% | ~1,035 |
+| The Princess is in this Castle | 2.00% | ~1,035 |
+| Total Control | 2.00% | ~1,035 |
 | All That's Thine Shall Be Mine | 1.00% | ~517 |
 | Azur semé de lis or | 1.00% | ~517 |
 | Bright Spark | 1.00% | ~517 |
@@ -38,10 +38,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~517 |
 | A Golden Empire | 1.00% | ~517 |
 | This navy can take it all | 1.00% | ~517 |
-| The Emperors new clothes | 0.90% | ~465 |
-| Isn't this the way to India? | 0.90% | ~465 |
-| Market Control | 0.90% | ~465 |
-| The Five Colonies | 0.90% | ~465 |
+| The Emperors new clothes | 0.90% | ~466 |
+| Isn't this the way to India? | 0.90% | ~466 |
+| Market Control | 0.90% | ~466 |
+| The Five Colonies | 0.90% | ~466 |
 | Down Under | 0.80% | ~414 |
 | Trustworthy | 0.70% | ~362 |
 | All belongs to Mother Russia | 0.60% | ~310 |
@@ -63,7 +63,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Grand Coalition | 0.40% | ~207 |
 | In the Name of the Father | 0.40% | ~207 |
 | Live Long and Prosper | 0.40% | ~207 |
-| One Night in Paris | 0.40% | ~207 |
 | Tear Down This Wall | 0.40% | ~207 |
 | The Continuation of Diplomacy | 0.40% | ~207 |
 | A Decent Reserve | 0.30% | ~155 |
@@ -76,6 +75,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Multiculturalism | 0.30% | ~155 |
 | No Pirates in my Caribbean | 0.30% | ~155 |
 | Not so sad a state... | 0.30% | ~155 |
+| One Night in Paris | 0.30% | ~155 |
 | The Chrysanthemum Throne | 0.30% | ~155 |
 | Three Trivial Tributary Tribes | 0.30% | ~155 |
 | Traditional Player | 0.30% | ~155 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,714 (Ranked 78)  
+Progressed: 51,728 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,6 +410,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 50,691 | 0 |
 | 2023-06-06 | 51,193 | 0 |
 | 2023-06-07 | 51,714 | 0 |
+| 2023-06-08 | 51,728 | 0 |
 ## Awards
 Max (Educational): 5,359  (Ranked 61)  
 Sum: 44,260 (Ranked 27)  

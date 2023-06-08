@@ -25,7 +25,7 @@ Number of Ratings: 36  (23.09.2022)
 | Breaking the Ice | 15.00% | ~108 |
 | Solidarity Forever | 11.00% | ~79 |
 | A Tucked Tale | 9.00% | ~65 |
-| The best thing money can buy | 8.00% | ~58 |
+| The best thing money can buy | 9.00% | ~65 |
 | Act III Complete | 5.00% | ~36 |
 | Fire and Brimstone | 5.00% | ~36 |
 | See you Space Cowboy | 5.00% | ~36 |

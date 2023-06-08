@@ -4156,9 +4156,9 @@
       "Count": 3247
     }
   ],
-  "EOS_Progressed": 90057,
+  "EOS_Progressed": 90060,
   "EOS_Completed": 1922,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 716,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9071,6 +9071,11 @@
       "Time": "2023-06-07T23:06:30.9651353+00:00",
       "NumProgressed": 90057,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-06-08T00:07:16.4749646+00:00",
+      "NumProgressed": 90060,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 493,
@@ -9336,9 +9341,9 @@
       "ID": "objective_completed_1082",
       "SetID": "415jc5c",
       "Name": "The Birds",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_1083",
@@ -13025,21 +13030,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56331,
+      "Progressed": 56334,
       "Completed": 2776
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90057,
+      "Progressed": 90060,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-07T22:58:10.9450923+00:00",
-  "LastChanged_Achievements": "2023-06-07T23:06:30.9651347+00:00",
+  "LastChanged_Achievements": "2023-06-08T00:07:16.4749641+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-07T22:58:10.9450928+00:00",
-  "LastUpdate_Achievements": "2023-06-07T23:06:30.9672699+00:00"
+  "LastUpdate_Ratings": "2023-06-07T23:58:32.3360467+00:00",
+  "LastUpdate_Achievements": "2023-06-08T00:07:16.4778348+00:00"
 }

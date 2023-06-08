@@ -676,9 +676,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2306,
+  "EOS_Progressed": 2308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2171,6 +2171,11 @@
       "Time": "2023-06-07T23:06:03.2909696+00:00",
       "NumProgressed": 2306,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T00:06:47.0745175+00:00",
+      "NumProgressed": 2308,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2180,9 +2185,9 @@
       "ID": "ACH_BACKPACKER",
       "SetID": "72olkc5",
       "Name": "Backpacker",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_BING-BONG",
@@ -2310,7 +2315,7 @@
       "Name": "Good vibes",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_HOARDER",
@@ -2326,7 +2331,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -2334,7 +2339,7 @@
       "Name": "Keeping it classy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -2494,7 +2499,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -2502,7 +2507,7 @@
       "Name": "The hard way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -2532,9 +2537,9 @@
       "ID": "ACH_UPFRONT-SHREDDER",
       "SetID": "72olkc5",
       "Name": "Upfront shredder",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -2558,22 +2563,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2306,
+      "Progressed": 2308,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-04T23:59:06.4190942+00:00",
-  "LastChanged_Achievements": "2023-06-07T23:06:03.2909693+00:00",
+  "LastChanged_Achievements": "2023-06-08T00:06:47.0745168+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-07T22:59:11.42188+00:00",
-  "LastUpdate_Achievements": "2023-06-07T23:06:03.2910119+00:00"
+  "LastUpdate_Ratings": "2023-06-07T23:59:43.3738461+00:00",
+  "LastUpdate_Achievements": "2023-06-08T00:06:47.0745621+00:00"
 }

@@ -429,9 +429,9 @@
       "ID": "PRG_BOSS_BIRD",
       "SetID": "89cjc9l",
       "Name": "The Bird",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "PRG_BOSS_FLOWER",
@@ -533,9 +533,9 @@
       "ID": "PRG_CHAPTER_3",
       "SetID": "89cjc9l",
       "Name": "Inferno Ruins",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "PRG_HARD_10001",
@@ -838,8 +838,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-07T23:06:26.2625988+00:00",
+  "LastChanged_Achievements": "2023-06-08T00:07:12.2929464+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:34.9607113+00:00",
-  "LastUpdate_Ratings": "2023-06-07T22:57:35.0933646+00:00",
-  "LastUpdate_Achievements": "2023-06-07T23:06:26.2626608+00:00"
+  "LastUpdate_Ratings": "2023-06-07T23:57:50.3262901+00:00",
+  "LastUpdate_Achievements": "2023-06-08T00:07:12.2930226+00:00"
 }
