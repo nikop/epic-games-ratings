@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4412,
+  "EOS_Progressed": 4413,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3338,6 +3338,11 @@
       "Time": "2023-06-08T05:05:00.2222788+00:00",
       "NumProgressed": 4412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T06:04:45.1240913+00:00",
+      "NumProgressed": 4413,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3381,7 +3386,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "14",
@@ -3389,7 +3394,7 @@
       "Name": "Full Ascension",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "15",
@@ -3437,7 +3442,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "20",
@@ -3461,7 +3466,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3354
     },
     {
       "ID": "23",
@@ -3469,7 +3474,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3485
+      "UsersEstimate": 3486
     },
     {
       "ID": "24",
@@ -3477,7 +3482,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3309
+      "UsersEstimate": 3310
     },
     {
       "ID": "25",
@@ -3493,7 +3498,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "27",
@@ -3509,7 +3514,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3044
+      "UsersEstimate": 3045
     },
     {
       "ID": "29",
@@ -3533,7 +3538,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "31",
@@ -3549,7 +3554,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "33",
@@ -3605,7 +3610,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "4",
@@ -3621,7 +3626,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "41",
@@ -3661,7 +3666,7 @@
       "Name": "Grexolis",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "6",
@@ -3669,7 +3674,7 @@
       "Name": "One for All, All for One",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "7",
@@ -3700,13 +3705,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4412,
-      "Completed": 4412
+      "Progressed": 4413,
+      "Completed": 4413
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4412,
+      "Progressed": 4413,
       "Completed": 0
     }
   ],
@@ -3714,8 +3719,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-08T03:13:18.2450576+00:00",
-  "LastChanged_Achievements": "2023-06-08T05:05:00.2222784+00:00",
+  "LastChanged_Achievements": "2023-06-08T06:04:45.1240909+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-08T04:59:45.2904527+00:00",
-  "LastUpdate_Achievements": "2023-06-08T05:05:00.222342+00:00"
+  "LastUpdate_Ratings": "2023-06-08T05:59:47.2880984+00:00",
+  "LastUpdate_Achievements": "2023-06-08T06:04:45.1241559+00:00"
 }

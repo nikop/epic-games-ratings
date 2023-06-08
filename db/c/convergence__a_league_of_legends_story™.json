@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 626,
+  "EOS_Progressed": 627,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -1054,6 +1054,11 @@
       "Time": "2023-06-08T02:26:03.6209849+00:00",
       "NumProgressed": 626,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T06:05:33.6883401+00:00",
+      "NumProgressed": 627,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -1087,9 +1092,9 @@
       "ID": "ChestCompletion1",
       "SetID": "a9e499d",
       "Name": "Treasure Trove",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 25
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1263,9 +1268,9 @@
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 25
     },
     {
       "ID": "NoCritterSump",
@@ -1488,14 +1493,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 626,
+      "Progressed": 627,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-08T05:05:48.2812596+00:00",
+  "LastChanged_Achievements": "2023-06-08T06:05:33.6883395+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-08T04:59:42.442416+00:00",
-  "LastUpdate_Achievements": "2023-06-08T05:05:48.2813304+00:00"
+  "LastUpdate_Ratings": "2023-06-08T05:59:44.2389855+00:00",
+  "LastUpdate_Achievements": "2023-06-08T06:05:33.6884286+00:00"
 }

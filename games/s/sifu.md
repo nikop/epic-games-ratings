@@ -7,25 +7,25 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~690 |
-| Project Arena | 3.00% | ~517 |
-| The Old Grandmaster | 1.00% | ~7,079 |
-| The Assault | 1.00% | ~7,079 |
-| The Hateful Pole Fighter | 1.00% | ~7,079 |
-| A Lady's Blood in the Snow | 1.00% | ~7,079 |
-| Lady Wing Chun | 1.00% | ~7,079 |
-| Furious Fists | 1.00% | ~7,079 |
-| Kill Nil | 1.00% | ~7,079 |
-| Stuntmaster | 1.00% | ~7,079 |
-| Street Fighting | 1.00% | ~7,079 |
-| Life is your teacher | 1.00% | ~7,079 |
-| State of constant learning | 1.00% | ~7,079 |
-| Qi Gong: Breath | 1.00% | ~7,079 |
-| Qi Gong: Essence | 1.00% | ~7,079 |
-| Lightning Hands | 1.00% | ~7,079 |
-| Path of the Prospect | 1.00% | ~7,079 |
-| Rumble in the Hangar | 1.00% | ~7,079 |
-| Bloody Sport | 1.00% | ~172 |
-| The best strikes are the ones we avoid | 1.00% | ~172 |
+| Project Arena | 3.00% | ~518 |
+| The Old Grandmaster | 1.00% | ~7,080 |
+| The Assault | 1.00% | ~7,080 |
+| The Hateful Pole Fighter | 1.00% | ~7,080 |
+| A Lady's Blood in the Snow | 1.00% | ~7,080 |
+| Lady Wing Chun | 1.00% | ~7,080 |
+| Furious Fists | 1.00% | ~7,080 |
+| Kill Nil | 1.00% | ~7,080 |
+| Stuntmaster | 1.00% | ~7,080 |
+| Street Fighting | 1.00% | ~7,080 |
+| Life is your teacher | 1.00% | ~7,080 |
+| State of constant learning | 1.00% | ~7,080 |
+| Qi Gong: Breath | 1.00% | ~7,080 |
+| Qi Gong: Essence | 1.00% | ~7,080 |
+| Lightning Hands | 1.00% | ~7,080 |
+| Path of the Prospect | 1.00% | ~7,080 |
+| Rumble in the Hangar | 1.00% | ~7,080 |
+| Bloody Sport | 1.00% | ~173 |
+| The best strikes are the ones we avoid | 1.00% | ~173 |
 | Old Child | 0.90% | ~6,372 |
 | Take damage to save time | 0.90% | ~6,372 |
 | Scareless | 0.80% | ~5,664 |
@@ -33,8 +33,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.70% | ~4,956 |
 | Qi Gong: Mind | 0.70% | ~4,956 |
 | I know Kung-Fu | 0.70% | ~4,956 |
-| Deadly Venom | 0.60% | ~103 |
-| A Touch of Acumen | 0.60% | ~103 |
+| Deadly Venom | 0.60% | ~104 |
+| A Touch of Acumen | 0.60% | ~104 |
 | Muk Yan Master | 0.50% | ~3,540 |
 | Tiger on Fire | 0.50% | ~3,540 |
 | Source of Flying Daggers | 0.50% | ~3,540 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,948 (Ranked 16)  
+Progressed: 707,955 (Ranked 16)  
 Completed: 12,763 (1.80%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 12,763 (1.80%) (Ranked 70)
 | 2023-06-05 | 707,566 | 12,758 |
 | 2023-06-06 | 707,727 | 12,763 |
 | 2023-06-07 | 707,910 | 12,763 |
-| 2023-06-08 | 707,948 | 12,763 |
+| 2023-06-08 | 707,955 | 12,763 |
 ## Awards
 Max (Great Boss Battles): 6,151  (Ranked 52)  
 Sum: 10,490 (Ranked 78)  

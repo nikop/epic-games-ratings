@@ -3420,9 +3420,9 @@
       "Count": 504
     }
   ],
-  "EOS_Progressed": 277151,
+  "EOS_Progressed": 277161,
   "EOS_Completed": 390,
-  "EOS_NewPlayers": 2289,
+  "EOS_NewPlayers": 2292,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -8390,6 +8390,11 @@
       "Time": "2023-06-08T05:05:10.6404706+00:00",
       "NumProgressed": 277151,
       "NumCompleted": 390
+    },
+    {
+      "Time": "2023-06-08T06:04:55.5721997+00:00",
+      "NumProgressed": 277161,
+      "NumCompleted": 390
     }
   ],
   "TotalAchievements": 45,
@@ -8401,7 +8406,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22172
+      "UsersEstimate": 22173
     },
     {
       "ID": "PFA_10",
@@ -8433,7 +8438,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16629
+      "UsersEstimate": 16630
     },
     {
       "ID": "PFA_14",
@@ -8505,7 +8510,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16629
+      "UsersEstimate": 16630
     },
     {
       "ID": "PFA_22",
@@ -8529,7 +8534,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16629
+      "UsersEstimate": 16630
     },
     {
       "ID": "PFA_25",
@@ -8585,7 +8590,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16629
+      "UsersEstimate": 16630
     },
     {
       "ID": "PFA_31",
@@ -8753,14 +8758,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16629
+      "UsersEstimate": 16630
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 277151,
+      "Progressed": 277161,
       "Completed": 390
     }
   ],
@@ -8768,8 +8773,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-08T04:57:40.437226+00:00",
-  "LastChanged_Achievements": "2023-06-08T05:05:10.6404701+00:00",
+  "LastChanged_Achievements": "2023-06-08T06:04:55.5721991+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:24.8723684+00:00",
-  "LastUpdate_Ratings": "2023-06-08T04:57:40.4372267+00:00",
-  "LastUpdate_Achievements": "2023-06-08T05:05:10.6405524+00:00"
+  "LastUpdate_Ratings": "2023-06-08T05:57:39.4674707+00:00",
+  "LastUpdate_Achievements": "2023-06-08T06:04:55.5722772+00:00"
 }

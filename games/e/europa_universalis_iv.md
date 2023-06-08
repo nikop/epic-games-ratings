@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,661 |
-| That's a Grand Army | 8.00% | ~4,143 |
-| That is mine! | 8.00% | ~4,143 |
-| Victorious! | 8.00% | ~4,143 |
-| Brothers in Arms | 6.00% | ~3,107 |
-| That's a Grand Navy | 6.00% | ~3,107 |
-| Seriously?! | 6.00% | ~3,107 |
-| For the Glory | 5.00% | ~2,589 |
-| Cold War | 4.00% | ~2,071 |
-| True Catholic | 4.00% | ~2,071 |
+| Until death do us apart | 9.00% | ~4,662 |
+| That's a Grand Army | 8.00% | ~4,144 |
+| That is mine! | 8.00% | ~4,144 |
+| Victorious! | 8.00% | ~4,144 |
+| Brothers in Arms | 6.00% | ~3,108 |
+| That's a Grand Navy | 6.00% | ~3,108 |
+| Seriously?! | 6.00% | ~3,108 |
+| For the Glory | 5.00% | ~2,590 |
+| Cold War | 4.00% | ~2,072 |
+| True Catholic | 4.00% | ~2,072 |
 | Defender of the Faith | 3.00% | ~1,554 |
 | It's all about the money | 3.00% | ~1,554 |
 | Respected | 3.00% | ~1,554 |
@@ -43,7 +43,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~466 |
 | The Five Colonies | 0.90% | ~466 |
 | Down Under | 0.80% | ~414 |
-| Trustworthy | 0.70% | ~362 |
+| Trustworthy | 0.70% | ~363 |
 | All belongs to Mother Russia | 0.60% | ~311 |
 | At every continent | 0.60% | ~311 |
 | Early-Modern Warfare | 0.60% | ~311 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,784 (Ranked 78)  
+Progressed: 51,796 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 50,691 | 0 |
 | 2023-06-06 | 51,193 | 0 |
 | 2023-06-07 | 51,714 | 0 |
-| 2023-06-08 | 51,784 | 0 |
+| 2023-06-08 | 51,796 | 0 |
 ## Awards
 Max (Educational): 5,359  (Ranked 61)  
 Sum: 44,262 (Ranked 27)  

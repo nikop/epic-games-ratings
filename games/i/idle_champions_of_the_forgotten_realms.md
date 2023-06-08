@@ -12,10 +12,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.90% | ~811 |
 | The Court of Storms | 0.90% | ~507 |
 | The Ring of Regeneration | 0.70% | ~631 |
-| Beware the Jabberwock | 0.70% | ~394 |
-| Were-verpowered | 0.60% | ~540 |
-| Seeking Allies | 0.60% | ~540 |
-| Are Ya Chicken? | 0.60% | ~540 |
+| Beware the Jabberwock | 0.70% | ~395 |
+| Were-verpowered | 0.60% | ~541 |
+| Seeking Allies | 0.60% | ~541 |
+| Are Ya Chicken? | 0.60% | ~541 |
 | Coasting to the Finish | 0.60% | ~338 |
 | Checkmate | 0.50% | ~282 |
 | A Persistent Buzzing | 0.50% | ~450 |
@@ -212,6 +212,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.20% | ~113 |
 | Bel's Forge | 0.20% | ~113 |
 | The Giant's Bane Tavern | 0.20% | ~113 |
+| Rime Bandits | 0.20% | ~113 |
 | The Everlasting Rime | 0.20% | ~113 |
 | Close Escort | 0.20% | ~180 |
 | Constant Banditry | 0.20% | ~180 |
@@ -437,7 +438,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~56 |
 | Prisoners of Lolth | 0.10% | ~56 |
 | Prisoners of Unknown Choices | 0.10% | ~56 |
-| Rime Bandits | 0.10% | ~56 |
 | Giant-Size Adventure | 0.10% | ~56 |
 | Power of Three | 0.10% | ~56 |
 | Enemy Summit | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,083 (Ranked 63)  
+Progressed: 90,086 (Ranked 63)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
-| 2023-06-08 | 90,083 | 1,922 |
+| 2023-06-08 | 90,086 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,049 (Ranked 37)  

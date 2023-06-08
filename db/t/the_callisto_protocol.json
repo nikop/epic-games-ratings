@@ -560,9 +560,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14712,
+  "EOS_Progressed": 14713,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3130,6 +3130,11 @@
       "Time": "2023-06-08T03:18:01.8834946+00:00",
       "NumProgressed": 14712,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-08T06:04:23.0161349+00:00",
+      "NumProgressed": 14713,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3261,7 +3266,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3301,7 +3306,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3357,7 +3362,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "STORY_MINETOWN",
@@ -3381,7 +3386,7 @@
       "Name": "Crash Site",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "STORY_TOWER",
@@ -3397,7 +3402,7 @@
       "Name": "Power Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "DISMEMBER_100",
@@ -3460,13 +3465,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14712,
+      "Progressed": 14713,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2638,
+      "Progressed": 2639,
       "Completed": 29
     }
   ],
@@ -3474,8 +3479,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-07T20:58:04.7980908+00:00",
-  "LastChanged_Achievements": "2023-06-08T05:04:38.3137029+00:00",
+  "LastChanged_Achievements": "2023-06-08T06:04:23.0161343+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-08T04:58:11.8793834+00:00",
-  "LastUpdate_Achievements": "2023-06-08T05:04:38.3137595+00:00"
+  "LastUpdate_Ratings": "2023-06-08T05:58:11.5166773+00:00",
+  "LastUpdate_Achievements": "2023-06-08T06:04:23.016214+00:00"
 }

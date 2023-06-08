@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4156,9 +4156,9 @@
       "Count": 3247
     }
   ],
-  "EOS_Progressed": 90083,
+  "EOS_Progressed": 90086,
   "EOS_Completed": 1922,
-  "EOS_NewPlayers": 729,
+  "EOS_NewPlayers": 730,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9096,6 +9096,11 @@
       "Time": "2023-06-08T05:06:51.3515774+00:00",
       "NumProgressed": 90083,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-06-08T06:06:36.8370248+00:00",
+      "NumProgressed": 90086,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 493,
@@ -9971,7 +9976,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "objective_completed_1203",
@@ -10899,7 +10904,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "objective_completed_390",
@@ -10971,7 +10976,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "objective_completed_40",
@@ -12193,9 +12198,9 @@
       "ID": "objective_completed_691",
       "SetID": "415jc5c",
       "Name": "Rime Bandits",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_692",
@@ -13035,7 +13040,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "objective_completed_1361",
@@ -13050,21 +13055,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56357,
+      "Progressed": 56360,
       "Completed": 2776
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90083,
+      "Progressed": 90086,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-07T22:58:10.9450923+00:00",
-  "LastChanged_Achievements": "2023-06-08T05:06:51.351577+00:00",
+  "LastChanged_Achievements": "2023-06-08T06:06:36.8370243+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-08T04:58:21.9435162+00:00",
-  "LastUpdate_Achievements": "2023-06-08T05:06:51.3543766+00:00"
+  "LastUpdate_Ratings": "2023-06-08T05:58:22.0070441+00:00",
+  "LastUpdate_Achievements": "2023-06-08T06:06:36.8391526+00:00"
 }

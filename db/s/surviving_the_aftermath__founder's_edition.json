@@ -1025,7 +1025,7 @@
   ],
   "EOS_Progressed": 6213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5126,9 +5126,9 @@
       "ID": "21",
       "SetID": "8idi9ml",
       "Name": "The Great Healer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1926
     },
     {
       "ID": "22",
@@ -5478,9 +5478,9 @@
       "ID": "8",
       "SetID": "8idi9ml",
       "Name": "Real Survivor",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1367
     },
     {
       "ID": "9",
@@ -5502,8 +5502,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-06T19:00:11.8041738+00:00",
-  "LastChanged_Achievements": "2023-06-08T05:01:07.4353412+00:00",
+  "LastChanged_Achievements": "2023-06-08T06:01:12.8819093+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-08T05:00:15.9616409+00:00",
-  "LastUpdate_Achievements": "2023-06-08T05:01:07.435446+00:00"
+  "LastUpdate_Ratings": "2023-06-08T06:00:18.6090173+00:00",
+  "LastUpdate_Achievements": "2023-06-08T06:01:12.8820109+00:00"
 }

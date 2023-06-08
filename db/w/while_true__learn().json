@@ -478,9 +478,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 591586,
+  "EOS_Progressed": 591587,
   "EOS_Completed": 488,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5483,6 +5483,11 @@
       "Time": "2023-06-08T05:06:26.4561466+00:00",
       "NumProgressed": 591586,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-06-08T06:06:11.9273221+00:00",
+      "NumProgressed": 591587,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 28,
@@ -5606,7 +5611,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 283961
+      "UsersEstimate": 283962
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -5614,7 +5619,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 289877
+      "UsersEstimate": 289878
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -5622,7 +5627,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 550175
+      "UsersEstimate": 550176
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -5662,7 +5667,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 106485
+      "UsersEstimate": 106486
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -5717,15 +5722,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 591586,
+      "Progressed": 591587,
       "Completed": 488
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-05-17T13:05:09.553013+00:00",
-  "LastChanged_Achievements": "2023-06-08T05:06:26.4561461+00:00",
+  "LastChanged_Achievements": "2023-06-08T06:06:11.9273217+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:18.7375716+00:00",
-  "LastUpdate_Ratings": "2023-06-08T04:59:17.7206569+00:00",
-  "LastUpdate_Achievements": "2023-06-08T05:06:26.4561986+00:00"
+  "LastUpdate_Ratings": "2023-06-08T05:59:18.6479476+00:00",
+  "LastUpdate_Achievements": "2023-06-08T06:06:11.927388+00:00"
 }

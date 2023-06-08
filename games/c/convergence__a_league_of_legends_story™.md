@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Treasure Trove | 4.00% | ~25 |
+| Cartographer | 4.00% | ~25 |
 | The Steel Shadow | 3.00% | ~19 |
-| Treasure Trove | 3.00% | ~19 |
 | Like Clockwork | 3.00% | ~19 |
 | Street Style | 3.00% | ~19 |
 | The Betrayer | 3.00% | ~19 |
 | The Man Who Shattered Time | 3.00% | ~19 |
 | The Loose Cannon | 3.00% | ~19 |
 | Make Up For Lost Time | 3.00% | ~19 |
-| Cartographer | 3.00% | ~19 |
 | Breaking Down Barriers | 3.00% | ~19 |
 | The Wicked Twins | 3.00% | ~19 |
 | Time Heals All Wounds | 3.00% | ~19 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 626 (Ranked 191)  
+Progressed: 627 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,4 +79,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 608 | 0 |
 | 2023-06-06 | 615 | 0 |
 | 2023-06-07 | 624 | 0 |
-| 2023-06-08 | 626 | 0 |
+| 2023-06-08 | 627 | 0 |

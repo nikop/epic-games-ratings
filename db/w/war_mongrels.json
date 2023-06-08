@@ -1036,9 +1036,9 @@
       "ID": "ACH_HEAL",
       "SetID": "1j25agn",
       "Name": "Helping Hand",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -1180,8 +1180,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-30T02:57:27.9814128+00:00",
-  "LastChanged_Achievements": "2023-06-08T05:03:53.706411+00:00",
+  "LastChanged_Achievements": "2023-06-08T06:03:27.833096+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:35.3400359+00:00",
-  "LastUpdate_Ratings": "2023-06-08T04:57:48.6985677+00:00",
-  "LastUpdate_Achievements": "2023-06-08T05:03:53.7064691+00:00"
+  "LastUpdate_Ratings": "2023-06-08T05:57:47.78737+00:00",
+  "LastUpdate_Achievements": "2023-06-08T06:03:27.8331626+00:00"
 }
