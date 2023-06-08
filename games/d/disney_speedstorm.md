@@ -7,7 +7,7 @@
 | ROOKIE | 52.00% | ~1,419 |
 | EXTRA BOOST | 41.00% | ~1,118 |
 | IT MAKES BOOM! | 41.00% | ~1,118 |
-| PRO | 31.00% | ~846 |
+| PRO | 32.00% | ~873 |
 | PROTECTED | 29.00% | ~791 |
 | A TIGER'S FEAR | 29.00% | ~791 |
 | HERE ARE SOME BARE NECESSITIES | 29.00% | ~791 |

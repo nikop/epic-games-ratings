@@ -478,9 +478,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 591593,
+  "EOS_Progressed": 591594,
   "EOS_Completed": 488,
-  "EOS_NewPlayers": 1024,
+  "EOS_NewPlayers": 1020,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5493,6 +5493,11 @@
       "Time": "2023-06-08T07:05:11.152425+00:00",
       "NumProgressed": 591593,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-06-08T08:05:03.0636773+00:00",
+      "NumProgressed": 591594,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 28,
@@ -5632,7 +5637,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 550181
+      "UsersEstimate": 550182
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -5640,7 +5645,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 141982
+      "UsersEstimate": 141983
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -5664,7 +5669,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 390451
+      "UsersEstimate": 390452
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -5680,7 +5685,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 313544
+      "UsersEstimate": 313545
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -5688,7 +5693,7 @@
       "Name": "Step by step",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 47327
+      "UsersEstimate": 47328
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -5727,15 +5732,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 591593,
+      "Progressed": 591594,
       "Completed": 488
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-05-17T13:05:09.553013+00:00",
-  "LastChanged_Achievements": "2023-06-08T07:05:11.1524245+00:00",
+  "LastChanged_Achievements": "2023-06-08T08:05:03.0636769+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:18.7375716+00:00",
-  "LastUpdate_Ratings": "2023-06-08T06:58:44.9611779+00:00",
-  "LastUpdate_Achievements": "2023-06-08T07:05:11.1524798+00:00"
+  "LastUpdate_Ratings": "2023-06-08T07:58:27.3038979+00:00",
+  "LastUpdate_Achievements": "2023-06-08T08:05:03.0637317+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2830,
+  "EOS_Progressed": 2831,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2284,6 +2284,11 @@
       "Time": "2023-06-08T03:17:05.4170005+00:00",
       "NumProgressed": 2830,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T08:02:19.8683113+00:00",
+      "NumProgressed": 2831,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2319,7 +2324,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "BloodAndJustice_50",
@@ -2349,9 +2354,9 @@
       "ID": "Encyclopedic_30",
       "SetID": "c4hee28",
       "Name": "Encyclopedic!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 538
     },
     {
       "ID": "Eureka_23",
@@ -2359,7 +2364,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2399,7 +2404,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "HouseofCards_19",
@@ -2479,7 +2484,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2487,7 +2492,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2519,7 +2524,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2615,7 +2620,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2630,15 +2635,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2830,
+      "Progressed": 2831,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-08T07:02:17.15444+00:00",
+  "LastChanged_Achievements": "2023-06-08T08:02:19.8683109+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-08T06:57:46.8613807+00:00",
-  "LastUpdate_Achievements": "2023-06-08T07:02:17.1544846+00:00"
+  "LastUpdate_Ratings": "2023-06-08T07:57:29.3322138+00:00",
+  "LastUpdate_Achievements": "2023-06-08T08:02:19.8683576+00:00"
 }

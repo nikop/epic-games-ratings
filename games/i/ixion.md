@@ -12,14 +12,14 @@ Rating: 4.56 (Ranked 453)
 | Space Society | 8.00% | ~200 |
 | A Thousand Strong | 8.00% | ~200 |
 | Ready for a New World | 8.00% | ~200 |
+| Permanent Redesigns | 7.00% | ~175 |
 | Guy de Borderlands | 6.00% | ~150 |
+| Fully Recycled | 6.00% | ~150 |
 | Breaking Protocol | 6.00% | ~150 |
-| Permanent Redesigns | 6.00% | ~150 |
 | Ain't Nobody Got Time for That | 6.00% | ~150 |
 | The Ship of Theseus | 6.00% | ~150 |
 | Hope Seeker | 6.00% | ~150 |
 | A Hunk of Junk | 5.00% | ~125 |
-| Fully Recycled | 5.00% | ~125 |
 | Exceeding Capacity | 4.00% | ~100 |
 | Man's Best Friend | 3.00% | ~75 |
 | Power Outage | 3.00% | ~75 |
@@ -41,15 +41,15 @@ Rating: 4.56 (Ranked 453)
 | What the Ruins Teach Us | 1.00% | ~25 |
 | Mutual Loyalty | 0.90% | ~22 |
 | Pulsar Disciple | 0.90% | ~22 |
+| Catastrophe Avoided | 0.80% | ~20 |
 | Praise the Hull! | 0.80% | ~20 |
 | You Had One Job... | 0.80% | ~20 |
-| Catastrophe Avoided | 0.70% | ~17 |
 | Space Greenhouse | 0.70% | ~17 |
 | Tiqqun Contender | 0.60% | ~15 |
+| Gregor Spinoza | 0.60% | ~15 |
 | Tiqqun Unchained | 0.60% | ~15 |
 | Scientifically Accurate | 0.60% | ~15 |
 | Help of the Forgotten Member | 0.60% | ~15 |
-| Gregor Spinoza | 0.50% | ~12 |
 | Better Him Than Me | 0.40% | ~10 |
 | Remember the Dead | 0.30% | ~7 |
 | Work Harder | 0.20% | ~5 |

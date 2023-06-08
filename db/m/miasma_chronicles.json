@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -72,7 +72,7 @@
   "Tags": [],
   "EOS_Progressed": 1055,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1700,9 +1700,9 @@
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 222
     },
     {
       "ID": "LUMBERJACK",
@@ -1861,8 +1861,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-07T20:58:30.3152036+00:00",
-  "LastChanged_Achievements": "2023-06-08T07:02:16.9505237+00:00",
+  "LastChanged_Achievements": "2023-06-08T08:02:19.6500383+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-08T06:58:12.0235348+00:00",
-  "LastUpdate_Achievements": "2023-06-08T07:02:16.9505798+00:00"
+  "LastUpdate_Ratings": "2023-06-08T07:57:54.1525332+00:00",
+  "LastUpdate_Achievements": "2023-06-08T08:02:19.6500922+00:00"
 }

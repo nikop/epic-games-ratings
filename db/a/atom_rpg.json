@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -352,9 +352,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 919,
+  "EOS_Progressed": 920,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1167,6 +1167,11 @@
       "Time": "2023-06-08T05:06:37.8963111+00:00",
       "NumProgressed": 919,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T08:05:12.9221404+00:00",
+      "NumProgressed": 920,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1234,7 +1239,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "EXPERT_1",
@@ -1250,7 +1255,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "GHOSTBUSTER",
@@ -1274,7 +1279,7 @@
       "Name": "Head Burst",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "INDY_1",
@@ -1330,7 +1335,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -1338,7 +1343,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "PACIFIST",
@@ -1450,7 +1455,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "WISHMASTER_1",
@@ -1465,15 +1470,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 919,
+      "Progressed": 920,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-03T14:00:49.4692031+00:00",
-  "LastChanged_Achievements": "2023-06-08T07:05:20.8638205+00:00",
+  "LastChanged_Achievements": "2023-06-08T08:05:12.92214+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.2333517+00:00",
-  "LastUpdate_Ratings": "2023-06-08T06:59:39.476364+00:00",
-  "LastUpdate_Achievements": "2023-06-08T07:05:20.8638561+00:00"
+  "LastUpdate_Ratings": "2023-06-08T07:59:21.983359+00:00",
+  "LastUpdate_Achievements": "2023-06-08T08:05:12.9221723+00:00"
 }

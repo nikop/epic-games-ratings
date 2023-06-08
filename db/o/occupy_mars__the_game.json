@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -106,7 +106,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1146,
+  "EOS_Progressed": 1147,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -1606,6 +1606,11 @@
       "Time": "2023-06-08T07:03:31.2794843+00:00",
       "NumProgressed": 1146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T08:03:23.4730086+00:00",
+      "NumProgressed": 1147,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1639,9 +1644,9 @@
       "ID": "ACHIEVEMENT_EXPLOSIVE_MINER",
       "SetID": "l546gc",
       "Name": "Explosive Miner",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HARD_LANDING",
@@ -1689,7 +1694,7 @@
       "Name": "The Collector",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -1697,7 +1702,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -1873,7 +1878,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -1977,7 +1982,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -2000,7 +2005,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1146,
+      "Progressed": 1147,
       "Completed": 0
     }
   ],
@@ -2008,8 +2013,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-07T18:58:02.4478234+00:00",
-  "LastChanged_Achievements": "2023-06-08T07:03:31.2794837+00:00",
+  "LastChanged_Achievements": "2023-06-08T08:03:23.4730081+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-08T06:57:29.7989607+00:00",
-  "LastUpdate_Achievements": "2023-06-08T07:03:31.2795345+00:00"
+  "LastUpdate_Ratings": "2023-06-08T07:57:12.1545671+00:00",
+  "LastUpdate_Achievements": "2023-06-08T08:03:23.4730575+00:00"
 }

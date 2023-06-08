@@ -32,10 +32,10 @@ Rating: 4.00 (Ranked 897)
 | Daily Quest Completionist | 8.00% | ~107 |
 | Scroll Master | 8.00% | ~107 |
 | The power of Awakening | 8.00% | ~107 |
+| Doing My Part | 7.00% | ~93 |
 | Hunter | 7.00% | ~93 |
 | Mastery | 7.00% | ~93 |
 | Relic Of The Past | 7.00% | ~93 |
-| Doing My Part | 6.00% | ~80 |
 | Frostfire Liberator | 6.00% | ~80 |
 | Moving Up The Ladder | 6.00% | ~80 |
 | Four Leaf Clover | 5.00% | ~67 |

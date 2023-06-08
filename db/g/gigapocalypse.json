@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "secret13",
       "SetID": "39f6ck8",
       "Name": "You Shall Not Pass",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "secret14",
@@ -349,9 +349,9 @@
       "ID": "secret27",
       "SetID": "39f6ck8",
       "Name": "Godlike Power",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "secret28",
@@ -437,9 +437,9 @@
       "ID": "secret37",
       "SetID": "39f6ck8",
       "Name": "Meat Larder",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "secret38",
@@ -477,17 +477,17 @@
       "ID": "secret41",
       "SetID": "39f6ck8",
       "Name": "Happy Little Home",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "secret42",
       "SetID": "39f6ck8",
       "Name": "Final Evolution",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "secret43",
@@ -630,8 +630,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-06-08T07:05:24.6658557+00:00",
+  "LastChanged_Achievements": "2023-06-08T08:05:16.7267073+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.0217404+00:00",
-  "LastUpdate_Ratings": "2023-06-08T06:59:30.4996927+00:00",
-  "LastUpdate_Achievements": "2023-06-08T07:05:24.6659166+00:00"
+  "LastUpdate_Ratings": "2023-06-08T07:59:12.9907592+00:00",
+  "LastUpdate_Achievements": "2023-06-08T08:05:16.7267594+00:00"
 }

@@ -6,12 +6,12 @@ Rating: 4.49 (Ranked 564)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 28.00% | ~669 |
-| Confirming Suspicions | 23.00% | ~549 |
+| Confirming Suspicions | 23.00% | ~550 |
 | The Kraken Wakes | 18.00% | ~430 |
 | It's Starting to Crack | 16.00% | ~382 |
-| Lord of War | 14.00% | ~334 |
-| Change the Channel | 13.00% | ~310 |
-| Resourceful | 12.00% | ~287 |
+| Lord of War | 14.00% | ~335 |
+| Resourceful | 13.00% | ~311 |
+| Change the Channel | 13.00% | ~311 |
 | Taking it back | 11.00% | ~263 |
 | Organ Grinder | 10.00% | ~239 |
 | Target America | 10.00% | ~239 |
@@ -28,11 +28,11 @@ Rating: 4.49 (Ranked 564)
 | Der Geist | 6.00% | ~143 |
 | Close Quarters | 6.00% | ~143 |
 | Snake in the Grass | 6.00% | ~143 |
-| Climbing the Ladder | 5.00% | ~119 |
-| No Stone Unturned | 5.00% | ~119 |
-| Fields of Glory | 5.00% | ~119 |
-| Skirmisher | 5.00% | ~119 |
-| Brains of the Operation | 5.00% | ~119 |
+| Climbing the Ladder | 5.00% | ~120 |
+| No Stone Unturned | 5.00% | ~120 |
+| Fields of Glory | 5.00% | ~120 |
+| Skirmisher | 5.00% | ~120 |
+| Brains of the Operation | 5.00% | ~120 |
 | Set Europe Ablaze | 4.00% | ~96 |
 | Precision Is Key | 4.00% | ~96 |
 | Rigged to Blow | 3.00% | ~72 |
@@ -45,7 +45,7 @@ Rating: 4.49 (Ranked 564)
 | Don't hold your breath | 1.00% | ~24 |
 | Herr Today, Gone Tomorrow | 1.00% | ~23 |
 | Operation Foxley | 1.00% | ~23 |
-| Tinkerer | 0.90% | ~21 |
+| Tinkerer | 0.90% | ~22 |
 | Last Resort | 0.80% | ~19 |
 | Siegebreaker | 0.80% | ~19 |
 | Ghost of Falaise | 0.80% | ~19 |
@@ -77,7 +77,7 @@ Rating: 4.49 (Ranked 564)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,388 (Ranked 147)  
+Progressed: 2,390 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-05 | 2,307 | 2 |
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
-| 2023-06-08 | 2,388 | 2 |
+| 2023-06-08 | 2,390 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

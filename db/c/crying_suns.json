@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 460088,
+  "EOS_Progressed": 460092,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5318,6 +5318,11 @@
       "Time": "2023-06-08T07:05:26.5122788+00:00",
       "NumProgressed": 460088,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-08T08:05:18.5840707+00:00",
+      "NumProgressed": 460092,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -5727,9 +5732,9 @@
       "ID": "achievement_win_all_chapers_with_scrapper_hard",
       "SetID": "8cokdon",
       "Name": "Kaos Supremacy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_win_all_chapers_with_starter_easy_normal",
@@ -5960,21 +5965,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 4022,
+      "Progressed": 4026,
       "Completed": 2347
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 460088,
+      "Progressed": 460092,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-06-08T07:05:26.5122782+00:00",
+  "LastChanged_Achievements": "2023-06-08T08:05:18.5840703+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.8909494+00:00",
-  "LastUpdate_Ratings": "2023-06-08T06:58:57.6064013+00:00",
-  "LastUpdate_Achievements": "2023-06-08T07:05:26.512397+00:00"
+  "LastUpdate_Ratings": "2023-06-08T07:58:39.9717113+00:00",
+  "LastUpdate_Achievements": "2023-06-08T08:05:18.5841864+00:00"
 }

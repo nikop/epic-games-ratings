@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 29.00% | ~15,312 |
-| Let There Be Light | 23.00% | ~12,144 |
-| Float Like a Butterfly | 22.00% | ~11,616 |
-| Nordic Walking | 17.00% | ~8,976 |
-| Bright Falls' Finest | 17.00% | ~8,976 |
-| Under a Thin Layer of Skin | 15.00% | ~7,920 |
+| Follow the Light | 29.00% | ~15,313 |
+| Let There Be Light | 23.00% | ~12,145 |
+| Float Like a Butterfly | 22.00% | ~11,617 |
+| Nordic Walking | 17.00% | ~8,977 |
+| Bright Falls' Finest | 17.00% | ~8,977 |
+| Under a Thin Layer of Skin | 15.00% | ~7,921 |
 | Park Ranger | 12.00% | ~6,336 |
+| Finders Keepers | 12.00% | ~6,336 |
 | Paging Mr. Wake | 12.00% | ~6,336 |
 | Back! Back, I Say! | 11.00% | ~5,808 |
-| Finders Keepers | 11.00% | ~5,808 |
 | They're Heeeeeere! | 10.00% | ~5,280 |
 | Sound and Fury | 10.00% | ~5,280 |
 | Missed by a Mile | 10.00% | ~5,280 |
@@ -29,7 +29,7 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 8.00% | ~4,224 |
 | It's Not Just a Typewriter Brand | 8.00% | ~4,224 |
 | Thunder and Lightning | 8.00% | ~4,224 |
-| A Friend in Need | 8.00% | ~1,301 |
+| A Friend in Need | 8.00% | ~1,302 |
 | Gatekeeper | 7.00% | ~3,696 |
 | The Lady of the Light | 7.00% | ~3,696 |
 | Two For the Price of One | 7.00% | ~3,696 |
@@ -39,7 +39,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend Indeed | 6.00% | ~976 |
 | Tornado Wrangler | 5.00% | ~2,640 |
 | Departure | 5.00% | ~2,640 |
-| Ding! | 5.00% | ~813 |
+| Ding! | 5.00% | ~814 |
 | Drink 'Em Both Up | 4.00% | ~2,112 |
 | Hardboiled Writer | 4.00% | ~2,112 |
 | Boob Tube | 3.00% | ~1,584 |
@@ -63,18 +63,18 @@ Number of Ratings: 524  (23.09.2022)
 | Creative Space | 0.40% | ~65 |
 | Picking Up After Yourself | 0.30% | ~158 |
 | Run-On Sentence | 0.30% | ~49 |
-| Tick Tock | 0.30% | ~49 |
 | Alan, Wake Up | 0.20% | ~106 |
 | Meet the Deadline | 0.20% | ~106 |
 | Gunless Wonder | 0.20% | ~106 |
 | Bright Falls Aficionado | 0.20% | ~106 |
+| Tick Tock | 0.20% | ~33 |
 | Licensed Properties | 0.20% | ~33 |
 | Every Nook and Cranny | 0.10% | ~53 |
 | Collector's Edition | 0.10% | ~53 |
 | Hypercaffeinated | 0.10% | ~53 |
 | No Punctuation | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,800 (Ranked 76)  
+Progressed: 52,804 (Ranked 76)  
 Completed: 50 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 50 (0.09%) (Ranked 169)
 | 2023-06-05 | 52,335 | 49 |
 | 2023-06-06 | 52,515 | 50 |
 | 2023-06-07 | 52,722 | 50 |
-| 2023-06-08 | 52,800 | 50 |
+| 2023-06-08 | 52,804 | 50 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

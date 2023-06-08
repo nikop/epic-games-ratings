@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -610,7 +610,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6116,
+  "EOS_Progressed": 6117,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -2330,6 +2330,11 @@
       "Time": "2023-06-08T05:03:13.3913108+00:00",
       "NumProgressed": 6116,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-08T08:00:18.9527227+00:00",
+      "NumProgressed": 6117,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2477,7 +2482,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -2517,7 +2522,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -2541,7 +2546,7 @@
       "Name": "Ponte of No Return",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
@@ -2573,7 +2578,7 @@
       "Name": "Seeing Red",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -2589,7 +2594,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -2597,7 +2602,7 @@
       "Name": "So\u010Da Drag",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ISONZO_ACH_SUPER_MARIO",
@@ -2683,9 +2688,9 @@
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
       "SetID": "akchbl3",
       "Name": "Veni Vidi Vici",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1285
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -2693,14 +2698,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6116,
+      "Progressed": 6117,
       "Completed": 8
     }
   ],
@@ -2708,8 +2713,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-07T22:57:30.348702+00:00",
-  "LastChanged_Achievements": "2023-06-08T07:00:34.7744246+00:00",
+  "LastChanged_Achievements": "2023-06-08T08:00:18.9527219+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:28.4757017+00:00",
-  "LastUpdate_Ratings": "2023-06-08T06:57:29.0652841+00:00",
-  "LastUpdate_Achievements": "2023-06-08T07:00:34.7744727+00:00"
+  "LastUpdate_Ratings": "2023-06-08T07:57:11.4063958+00:00",
+  "LastUpdate_Achievements": "2023-06-08T08:00:18.9527781+00:00"
 }

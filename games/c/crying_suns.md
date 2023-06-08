@@ -57,6 +57,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Hammer Supremacy | 0.10% | ~460 |
 | Void Supremacy | 0.10% | ~460 |
 | Kaos Mastery | 0.10% | ~460 |
+| Kaos Supremacy | 0.10% | ~460 |
 | Excelsior Mastery | 0.10% | ~460 |
 | Excelsior Supremacy | 0.10% | ~460 |
 | Jeef Skagg | 0.10% | ~460 |
@@ -84,9 +85,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~4 |
 | Kronos Rule | 0.10% | ~4 |
 | Void Mastery | 0.00% | ~0 |
-| Kaos Supremacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460,088 (Ranked 33)  
+Progressed: 460,092 (Ranked 33)  
 Completed: 14 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 14 (0.00%) (Ranked 212)
 | 2023-06-05 | 459,933 | 14 |
 | 2023-06-06 | 460,006 | 14 |
 | 2023-06-07 | 460,061 | 14 |
-| 2023-06-08 | 460,088 | 14 |
+| 2023-06-08 | 460,092 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 256)  
 Sum: 209 (Ranked 351)  

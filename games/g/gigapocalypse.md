@@ -22,13 +22,13 @@
 | Diaper Time! | 39.00% | ~56 |
 | The Duelist | 38.00% | ~55 |
 | Target Practice | 38.00% | ~55 |
+| Meat Larder | 37.00% | ~53 |
 | Mutant And Proud | 36.00% | ~52 |
-| Meat Larder | 36.00% | ~52 |
 | The Emperor's New Clothes | 29.00% | ~42 |
-| Godlike Power | 28.00% | ~40 |
-| Happy Little Home | 28.00% | ~40 |
-| Final Evolution | 28.00% | ~40 |
-| You Shall Not Pass | 27.00% | ~39 |
+| Godlike Power | 29.00% | ~42 |
+| Happy Little Home | 29.00% | ~42 |
+| Final Evolution | 29.00% | ~42 |
+| You Shall Not Pass | 28.00% | ~40 |
 | Fight Me! | 27.00% | ~39 |
 | Mommy's Very Angry | 26.00% | ~37 |
 | Animal Lover | 26.00% | ~37 |

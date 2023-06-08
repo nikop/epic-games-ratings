@@ -6,23 +6,23 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~31,549 |
+| Awakening | 93.00% | ~31,892 |
 | First Steps | 81.00% | ~27,777 |
 | Control the Shadows | 68.00% | ~23,319 |
-| Tools of the Trade | 63.00% | ~21,604 |
-| Apprentice | 60.00% | ~20,575 |
-| Secret Seeker | 57.00% | ~19,546 |
+| Tools of the Trade | 63.00% | ~21,605 |
+| Apprentice | 60.00% | ~20,576 |
+| Secret Seeker | 57.00% | ~19,547 |
 | Forge of Assassins | 56.00% | ~19,204 |
 | Revenant | 52.00% | ~17,832 |
-| I don’t Care! | 45.00% | ~15,431 |
+| I don’t Care! | 45.00% | ~15,432 |
 | Bird of Prey | 37.00% | ~12,688 |
-| Engraved with Power | 32.00% | ~10,973 |
+| Engraved with Power | 32.00% | ~10,974 |
 | Lady | 30.00% | ~10,288 |
 | Fashionable Assassin | 27.00% | ~9,259 |
 | Apex Predator | 24.00% | ~8,230 |
 | Soul Reaver | 22.00% | ~7,544 |
-| Embers | 21.00% | ~7,201 |
-| Wall Lizard | 20.00% | ~6,858 |
+| Embers | 21.00% | ~7,202 |
+| Wall Lizard | 20.00% | ~6,859 |
 | Clinging to Life | 18.00% | ~6,173 |
 | Burning | 17.00% | ~5,830 |
 | Look Behind You | 16.00% | ~5,487 |
@@ -38,7 +38,7 @@ Number of Ratings: 88  (23.09.2022)
 | Denouement | 8.00% | ~2,743 |
 | Get Over Here | 8.00% | ~2,743 |
 | A Pleasant Stay | 8.00% | ~2,743 |
-| Pilgrimage | 7.00% | ~2,400 |
+| Pilgrimage | 7.00% | ~2,401 |
 | The Lookout | 5.00% | ~1,715 |
 | The Spirit of Vengeance | 5.00% | ~1,715 |
 | Hollow | 5.00% | ~1,715 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~343 |
 | Anger Management | 1.00% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,292 (Ranked 85)  
+Progressed: 34,293 (Ranked 85)  
 Completed: 166 (0.48%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 166 (0.48%) (Ranked 114)
 | 2023-06-05 | 34,103 | 166 |
 | 2023-06-06 | 34,175 | 166 |
 | 2023-06-07 | 34,258 | 166 |
-| 2023-06-08 | 34,292 | 166 |
+| 2023-06-08 | 34,293 | 166 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

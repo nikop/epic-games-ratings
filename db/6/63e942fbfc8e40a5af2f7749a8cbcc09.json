@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2019-11-12T15:00:00+00:00",
@@ -25,9 +25,290 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 35,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AllDeathSeen",
+      "SetID": "94lmepd",
+      "Name": "The Grail",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllO01ObjFound",
+      "SetID": "94lmepd",
+      "Name": "The World",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllTrophyGot",
+      "SetID": "94lmepd",
+      "Name": "Only You Can Save Me...",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearA01",
+      "SetID": "94lmepd",
+      "Name": "The Beginning of the End",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearC01",
+      "SetID": "94lmepd",
+      "Name": "The Emperor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearC01END",
+      "SetID": "94lmepd",
+      "Name": "The Moon",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearC02",
+      "SetID": "94lmepd",
+      "Name": "Strength",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearC02END",
+      "SetID": "94lmepd",
+      "Name": "Judgement",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearD01",
+      "SetID": "94lmepd",
+      "Name": "The Magician",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearD01END",
+      "SetID": "94lmepd",
+      "Name": "The Devil",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearD02",
+      "SetID": "94lmepd",
+      "Name": "The High Priestess",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearD02END",
+      "SetID": "94lmepd",
+      "Name": "The Star",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearE01",
+      "SetID": "94lmepd",
+      "Name": "The Fool",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearE01END",
+      "SetID": "94lmepd",
+      "Name": "The Sun",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearE02",
+      "SetID": "94lmepd",
+      "Name": "The Chariot",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearE02END",
+      "SetID": "94lmepd",
+      "Name": "Death",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearF01",
+      "SetID": "94lmepd",
+      "Name": "The Empress",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearF01END",
+      "SetID": "94lmepd",
+      "Name": "The Tower",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearG01",
+      "SetID": "94lmepd",
+      "Name": "Temperance",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearH01",
+      "SetID": "94lmepd",
+      "Name": "The Hierophant",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearI01",
+      "SetID": "94lmepd",
+      "Name": "The Lovers",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearJ01",
+      "SetID": "94lmepd",
+      "Name": "Justice",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearK01",
+      "SetID": "94lmepd",
+      "Name": "The Hanged Man",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearL01",
+      "SetID": "94lmepd",
+      "Name": "The Hermit",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearM01",
+      "SetID": "94lmepd",
+      "Name": "Wheel Of Fortune",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearTE01",
+      "SetID": "94lmepd",
+      "Name": "First Tale",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearTE02",
+      "SetID": "94lmepd",
+      "Name": "Second Tale",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearTE03_01",
+      "SetID": "94lmepd",
+      "Name": "Third Tale",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearTE03_02",
+      "SetID": "94lmepd",
+      "Name": "Fourth Tale",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearTE03_03",
+      "SetID": "94lmepd",
+      "Name": "Fifth Tale",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearTE04",
+      "SetID": "94lmepd",
+      "Name": "Sixth Tale",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearTE05",
+      "SetID": "94lmepd",
+      "Name": "Seventh Tale",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearTE06",
+      "SetID": "94lmepd",
+      "Name": "Eighth Tale",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearTE07",
+      "SetID": "94lmepd",
+      "Name": "Ninth Tale",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClearTE08",
+      "SetID": "94lmepd",
+      "Name": "The End of the Beginning",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "94lmepd",
@@ -37,8 +318,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-06-08T07:00:09.3298455+00:00",
+  "LastChanged_Achievements": "2023-06-08T07:59:53.2571727+00:00",
   "LastUpdate_AppInfo": "2023-06-08T03:57:15.1473188+00:00",
-  "LastUpdate_Ratings": "2023-06-08T06:57:10.7837469+00:00",
-  "LastUpdate_Achievements": "2023-06-08T07:00:09.3298544+00:00"
+  "LastUpdate_Ratings": "2023-06-08T07:56:53.1277832+00:00",
+  "LastUpdate_Achievements": "2023-06-08T07:59:53.2572065+00:00"
 }

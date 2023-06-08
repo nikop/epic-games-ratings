@@ -4,8 +4,8 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
     "PcReleaseDate": "2016-11-11T05:00:00+00:00",
@@ -283,9 +283,9 @@
       "ID": "ach_practiceperfect",
       "SetID": "5a4225j",
       "Name": "Practice Makes Perfect",
-      "Percentage": 27,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_pulser_zone",
@@ -337,8 +337,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-06-08T07:00:35.0764798+00:00",
+  "LastChanged_Achievements": "2023-06-08T08:00:19.2761929+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:07.5758155+00:00",
-  "LastUpdate_Ratings": "2023-06-08T06:57:08.0741016+00:00",
-  "LastUpdate_Achievements": "2023-06-08T07:00:35.0764978+00:00"
+  "LastUpdate_Ratings": "2023-06-08T07:56:50.3887393+00:00",
+  "LastUpdate_Achievements": "2023-06-08T08:00:19.2762115+00:00"
 }

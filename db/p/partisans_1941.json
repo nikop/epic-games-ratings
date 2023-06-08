@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 993,
+  "EOS_Progressed": 994,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -960,6 +960,11 @@
       "Time": "2023-06-08T04:07:08.3645986+00:00",
       "NumProgressed": 993,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T08:05:10.340943+00:00",
+      "NumProgressed": 994,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -995,7 +1000,7 @@
       "Name": "The Big Bertha",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Boy",
@@ -1049,9 +1054,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 298
     },
     {
       "ID": "Everyone_is_here",
@@ -1075,7 +1080,7 @@
       "Name": "Game Over",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Grenadier",
@@ -1123,7 +1128,7 @@
       "Name": "Spice It Up",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "KillAllM2",
@@ -1210,15 +1215,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 993,
+      "Progressed": 994,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-08T07:05:18.3976189+00:00",
+  "LastChanged_Achievements": "2023-06-08T08:05:10.3409425+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
-  "LastUpdate_Ratings": "2023-06-08T06:58:56.5247852+00:00",
-  "LastUpdate_Achievements": "2023-06-08T07:05:18.3976516+00:00"
+  "LastUpdate_Ratings": "2023-06-08T07:58:38.8719405+00:00",
+  "LastUpdate_Achievements": "2023-06-08T08:05:10.3409687+00:00"
 }
