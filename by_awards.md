@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,387,792 | 4.30 | 764 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 432,902 | 4.50 | 545 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 297,427 | 4.68 | 239 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 183,771 | 4.19 | 833 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 183,825 | 4.19 | 833 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 179,471 | 4.68 | 239 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 147,452 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 140,803 | 4.53 | 500 |
@@ -22,7 +22,7 @@
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 15,670 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 15,296 | 4.61 | 360 |
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 14,446 | 4.76 | 118 |
-| 23 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,380 | 4.58 | 423 |
+| 23 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,382 | 4.58 | 423 |
 | 24 | [League of Legends](games/l/league_of_legends.md) | 13,808 | 4.21 | 816 |
 | 25 | [Maneater](games/m/maneater.md) | 13,498 | 4.49 | 565 |
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,362 | 4.60 | 386 |
@@ -76,7 +76,7 @@
 | 74 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,095 | 4.51 | 528 |
 | 75 | [God of War](games/g/god_of_war.md) | 4,039 | 4.88 | 19 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,000 | 4.56 | 454 |
-| 77 | [SMITE](games/s/smite.md) | 3,860 | 4.45 | 617 |
+| 77 | [SMITE](games/s/smite.md) | 3,867 | 4.45 | 617 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,806 | 4.68 | 239 |
 | 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,631 | 4.29 | 770 |
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,461 | 4.47 | 591 |
@@ -139,7 +139,7 @@
 | 137 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 810 |
 | 138 | [Ooblets](games/o/ooblets.md) | 1,009 | 4.87 | 26 |
 | 139 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 995 | 4.40 | 680 |
-| 140 | [Torchlight II](games/t/torchlight_ii.md) | 977 | 4.58 | 423 |
+| 140 | [Torchlight II](games/t/torchlight_ii.md) | 978 | 4.58 | 423 |
 | 141 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 947 | 4.31 | 757 |
 | 142 | [Sonic Mania](games/s/sonic_mania.md) | 912 | 4.78 | 102 |
 | 143 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 887 | 4.69 | 218 |
@@ -386,10 +386,10 @@
 | 384 | [Dead Space](games/d/dead_space.md) | 54 | 4.71 | 180 |
 | 385 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 53 | 4.34 | 735 |
 | 386 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 874 |
-| 387 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 51 | 4.84 | 50 |
-| 387 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 51 | 4.65 | 295 |
-| 387 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 51 | 4.18 | 840 |
-| 387 | [The Escapists 2](games/t/the_escapists_2.md) | 51 | 4.58 | 423 |
+| 386 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 52 | 4.18 | 840 |
+| 388 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 51 | 4.84 | 50 |
+| 388 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 51 | 4.65 | 295 |
+| 388 | [The Escapists 2](games/t/the_escapists_2.md) | 51 | 4.58 | 423 |
 | 391 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 833 |
 | 391 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 50 | 4.56 | 454 |
 | 391 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 50 | 4.70 | 196 |

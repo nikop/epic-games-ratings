@@ -9,7 +9,7 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 10 | [Island Cities](games/i/island_cities.md) | 15.36% |
+| 10 | [Island Cities](games/i/island_cities.md) | 15.31% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 12.50% |
@@ -20,13 +20,13 @@
 | 18 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 20 | [Smelter](games/s/smelter.md) | 8.57% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.10% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.08% |
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.60% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.06% |
-| 27 | [Scorn](games/s/scorn.md) | 6.88% |
+| 27 | [Scorn](games/s/scorn.md) | 6.87% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 6.69% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -35,7 +35,7 @@
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.39% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.01% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.99% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.79% |
@@ -84,7 +84,7 @@
 | 82 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 83 | [Trifox](games/t/trifox.md) | 1.18% |
 | 84 | [Chorus](games/c/chorus.md) | 1.17% |
-| 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.16% |
+| 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.15% |
 | 86 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 87 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 88 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
@@ -436,4 +436,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,750 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,751 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

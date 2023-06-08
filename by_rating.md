@@ -49,7 +49,7 @@
 | 38 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 0 | 493 |
 | 38 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 493 |
 | 38 | [TUNIC](games/t/tunic.md) | 4.85 | 34 | 432 |
-| 50 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 387 |
+| 50 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 388 |
 | 50 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 400 |
 | 50 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 215 | 254 |
 | 50 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 493 |
@@ -308,7 +308,7 @@
 | 295 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 154 | 286 |
 | 295 | [Old World](games/o/old_world.md) | 4.65 | 217 | 252 |
 | 295 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,881 | 105 |
-| 295 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 387 |
+| 295 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 388 |
 | 295 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 493 |
 | 295 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,533 | 15 |
 | 295 | [SOMA](games/s/soma.md) | 4.65 | 0 | 493 |
@@ -436,12 +436,12 @@
 | 423 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 117 | 310 |
 | 423 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 209 | 256 |
 | 423 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 493 |
-| 423 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 51 | 387 |
-| 423 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 977 | 140 |
+| 423 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 51 | 388 |
+| 423 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 978 | 140 |
 | 423 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,147 | 53 |
 | 423 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 493 |
 | 423 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 209 | 256 |
-| 423 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,380 | 23 |
+| 423 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,382 | 23 |
 | 443 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 402 |
 | 443 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 458 |
 | 443 | [Hob](games/h/hob.md) | 4.57 | 0 | 493 |
@@ -624,7 +624,7 @@
 | 617 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,497 | 34 |
 | 617 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 493 |
 | 617 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 493 |
-| 617 | [SMITE](games/s/smite.md) | 4.45 | 3,860 | 77 |
+| 617 | [SMITE](games/s/smite.md) | 4.45 | 3,867 | 77 |
 | 617 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 493 |
 | 617 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 313 |
 | 617 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 24 | 468 |
@@ -836,13 +836,13 @@
 | 833 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 493 |
 | 833 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 493 |
 | 833 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 435 |
-| 833 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 183,771 | 4 |
+| 833 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 183,825 | 4 |
 | 833 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 493 |
 | 833 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 493 |
 | 840 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 340 |
 | 840 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 493 |
 | 840 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 331 |
-| 840 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 51 | 387 |
+| 840 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 52 | 386 |
 | 840 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 493 |
 | 840 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 493 |
 | 840 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 493 |

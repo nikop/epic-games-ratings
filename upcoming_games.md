@@ -2,6 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | - |  | - | - |
 | [MUSYNX](games/7/739d0f3d53054b29befc2753d58c7045.md) | 2023-06-09 | - |  | - | - |
+| [Commander Keen Dreams Definitive Edition](games/5/50f4d33e378d4203aeb869ad22f8964a.md) | 2023-06-09 | - |  | - | - |
 | [Quest Hunter](games/b/b72f5f79f855471e9691ff22e4967656.md) | 2023-06-09 | 74 (1,110 XP) | 0 | - | - |
 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 2023-06-09 | 6 (1,000 XP) | 28 | - | 0 |
 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 2023-06-09 | 10 (1,000 XP) | 3 | - | - |
@@ -59,6 +60,7 @@
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2023-07-07 | 10 (1,000 XP) | 0 | - | - |
 | [Cramped Room of Death](games/c/cramped_room_of_death.md) | 2023-07-19 | - |  | - | - |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-07-20 | - |  | - | - |
+| [Remnant 2](games/r/remnant_2.md) | 2023-07-25 | - |  | - | - |
 | [Ratchet & Clank: Rift Apart Pre-Purchase](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 2023-07-26 | - |  | - | - |
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | - |  | - | - |
 | [Arcade Fishing](games/a/arcade_fishing.md) | 2023-07-31 | - |  | - | - |
@@ -215,7 +217,6 @@
 | [Chronos Affinity](games/c/chronos_affinity.md) | 2099-01-01 | - |  | - | - |
 | [Cloud Cutter](games/c/cloud_cutter.md) | 2099-01-01 | 34 (1,000 XP) | 0 | - | - |
 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 2099-01-01 | - |  | - | - |
-| [Commander Keen Dreams Definitive Edition](games/5/50f4d33e378d4203aeb869ad22f8964a.md) | 2099-01-01 | - |  | - | - |
 | [Cookie Cutter](games/c/cookie_cutter.md) | 2099-01-01 | - |  | - | - |
 | [Corpse Keeper](games/c/corpse_keeper.md) | 2099-01-01 | - |  | - | - |
 | [Corsairs Legacy – Pirate Action RPG & Sea Battles](games/5/55172c31a4094ccda2f06c94635139c6.md) | 2099-01-01 | - |  | - | - |
@@ -390,15 +391,15 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,734 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,736 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |
+| [John Carpenter’s Toxic Commando](games/a/a22be63a94a64dd4a999ed959f0ce77f.md) | 2099-02-01 | - |  | - | - |
 | [Judas](games/j/judas_1.md) | 2099-02-01 | - |  | - | - |
 | [Metalstorm](games/m/metalstorm.md) | 2099-02-01 | - |  | - | - |
 | [Nivalis](games/n/nivalis.md) | 2099-02-01 | - |  | - | - |
 | [Pacific Drive](games/p/pacific_drive.md) | 2099-02-01 | - |  | - | - |
-| [Remnant 2](games/r/remnant_2.md) | 2099-02-01 | - |  | - | - |
 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2099-02-01 | - |  | - | - |
 | [SYNCED](games/s/synced.md) | 2099-02-01 | - |  | - | - |
 | [The Anacrusis](games/t/the_anacrusis.md) | 2099-02-01 | - |  | - | - |
