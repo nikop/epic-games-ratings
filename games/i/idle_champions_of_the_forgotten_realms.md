@@ -122,6 +122,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.20% | ~180 |
 | Anti-Dexterous Explorers | 0.20% | ~180 |
 | The Lost Heir of Omu | 0.20% | ~180 |
+| Not Very Charming | 0.20% | ~180 |
 | Lobsterfolk Assault | 0.20% | ~180 |
 | The Minions of Endelyn Moongrave | 0.20% | ~113 |
 | Love Unsoiled | 0.20% | ~113 |
@@ -178,6 +179,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enter the Sargauth | 0.20% | ~180 |
 | A Tale of Two Cities | 0.20% | ~180 |
 | The Dead Three | 0.20% | ~180 |
+| Sneak Attack | 0.20% | ~113 |
 | Flying Monkey Skulls of Doom | 0.20% | ~180 |
 | Lair of the Xanathar | 0.20% | ~180 |
 | Waterdeep Under Siege | 0.20% | ~180 |
@@ -290,7 +292,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Whale of a Time | 0.10% | ~56 |
 | Struggling Toward Omu | 0.10% | ~90 |
 | Wagon Train | 0.10% | ~90 |
-| Not Very Charming | 0.10% | ~90 |
 | Taking Responsibility | 0.10% | ~90 |
 | Between a Brigganock and a Hard Place | 0.10% | ~56 |
 | The Play's the Thing! | 0.10% | ~56 |
@@ -368,7 +369,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Years | 0.10% | ~56 |
 | Slow and Steady | 0.10% | ~90 |
 | A Hero's Entourage | 0.10% | ~90 |
-| Sneak Attack | 0.10% | ~56 |
 | Dreams of Beholders | 0.10% | ~90 |
 | Feigned Weakness | 0.10% | ~90 |
 | DPS in the Deeps | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,086 (Ranked 63)  
+Progressed: 90,088 (Ranked 63)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
-| 2023-06-08 | 90,086 | 1,922 |
+| 2023-06-08 | 90,088 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,049 (Ranked 37)  

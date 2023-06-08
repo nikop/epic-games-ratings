@@ -10,7 +10,7 @@ Rating: 4.89 (Ranked 13)
 | You can pet the cat! | 74.00% | ~2,120 |
 | Who put gears in there? | 68.00% | ~1,948 |
 | Cream of the Crop | 62.00% | ~1,776 |
-| Thanks for the free chip, Peppermint! | 61.00% | ~1,748 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~1,776 |
 | You got this, Peppermint? | 56.00% | ~1,604 |
 | Perfect Parry | 54.00% | ~1,547 |
 | Alright, that felt AWESOME! | 54.00% | ~1,547 |
@@ -18,7 +18,7 @@ Rating: 4.89 (Ranked 13)
 | This will cost you big time | 47.00% | ~1,347 |
 | Uh, they were broken when I got here | 46.00% | ~1,318 |
 | Z-shielding's got nothing on us! | 45.00% | ~1,289 |
-| Kissing the sky! | 43.00% | ~1,232 |
+| Kissing the sky! | 44.00% | ~1,261 |
 | Does that say weakpoint? | 41.00% | ~1,175 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,146 |
 | The Negotiator | 38.00% | ~1,089 |

@@ -6,22 +6,22 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,502 |
-| Thorough | 9.00% | ~15,752 |
-| A thief's beginning | 8.00% | ~14,002 |
+| Genin | 10.00% | ~17,504 |
+| Thorough | 9.00% | ~15,753 |
+| A thief's beginning | 8.00% | ~14,003 |
 | Disguised | 7.00% | ~12,252 |
 | Rollin' | 7.00% | ~12,252 |
 | Tanuki Time | 7.00% | ~12,252 |
-| Jonin | 6.00% | ~10,501 |
-| Rescue Takuma | 6.00% | ~10,501 |
-| Stoned Ox | 6.00% | ~10,501 |
-| Chunin | 5.00% | ~8,751 |
-| Flying Rocks | 5.00% | ~8,751 |
-| Happy Planning | 5.00% | ~8,751 |
-| Ice Ice Yuki | 5.00% | ~8,751 |
-| Mugen Unchained | 5.00% | ~8,751 |
-| Warzone | 5.00% | ~8,751 |
-| Yabu | 5.00% | ~8,751 |
+| Jonin | 6.00% | ~10,502 |
+| Rescue Takuma | 6.00% | ~10,502 |
+| Stoned Ox | 6.00% | ~10,502 |
+| Chunin | 5.00% | ~8,752 |
+| Flying Rocks | 5.00% | ~8,752 |
+| Happy Planning | 5.00% | ~8,752 |
+| Ice Ice Yuki | 5.00% | ~8,752 |
+| Mugen Unchained | 5.00% | ~8,752 |
+| Warzone | 5.00% | ~8,752 |
+| Yabu | 5.00% | ~8,752 |
 | Okkoto | 4.00% | ~7,001 |
 | Prisoners | 4.00% | ~7,001 |
 | Too Early | 4.00% | ~7,001 |
@@ -30,10 +30,10 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~5,251 |
 | Still Rollin' | 3.00% | ~5,251 |
 | Stoned | 3.00% | ~5,251 |
-| Atheist Ox | 2.00% | ~3,500 |
-| It's raining men | 2.00% | ~3,500 |
-| The Old Way | 2.00% | ~3,500 |
-| Winner Winner | 2.00% | ~3,500 |
+| Atheist Ox | 2.00% | ~3,501 |
+| It's raining men | 2.00% | ~3,501 |
+| The Old Way | 2.00% | ~3,501 |
+| Winner Winner | 2.00% | ~3,501 |
 | Meticulous | 1.00% | ~1,750 |
 | No Gimmicks | 1.00% | ~1,750 |
 | Old Man | 1.00% | ~1,750 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~175 |
 | Release the Kraken | 0.10% | ~175 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175,023 (Ranked 55)  
+Progressed: 175,035 (Ranked 55)  
 Completed: 51 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 51 (0.03%) (Ranked 190)
 | 2023-06-05 | 174,394 | 51 |
 | 2023-06-06 | 174,678 | 51 |
 | 2023-06-07 | 174,952 | 51 |
-| 2023-06-08 | 175,023 | 51 |
+| 2023-06-08 | 175,035 | 51 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 177)  
 Sum: 4,677 (Ranked 126)  

@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1002761,
+  "EOS_Progressed": 1004436,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1002755,
+  "EOS_NewPlayers": 1004430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -881,6 +881,11 @@
       "Time": "2023-06-08T06:01:28.6617402+00:00",
       "NumProgressed": 1002761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T07:00:27.8938379+00:00",
+      "NumProgressed": 1004436,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -892,7 +897,7 @@
       "Name": "Possess 1000 Props!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "100_corruption_kills",
@@ -916,7 +921,7 @@
       "Name": "100 Kills as a Ghost!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "100_ghost_wins",
@@ -924,7 +929,7 @@
       "Name": "100 Ghost Wins!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "100_hero_prop_kills",
@@ -940,7 +945,7 @@
       "Name": "100 Kills as a Hunter!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "100_hunter_wins",
@@ -948,7 +953,7 @@
       "Name": "100 Hunter Wins!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "100_lamp_kills",
@@ -980,7 +985,7 @@
       "Name": "100 Headshots as A Prop!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "100_shoves",
@@ -988,7 +993,7 @@
       "Name": "Shover of Hunters",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "100_telekinesis_kills",
@@ -1004,7 +1009,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 100276
+      "UsersEstimate": 100444
     },
     {
       "ID": "10_ghost_wins",
@@ -1012,7 +1017,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 60166
+      "UsersEstimate": 60266
     },
     {
       "ID": "10_hero_prop_kills",
@@ -1020,7 +1025,7 @@
       "Name": "10 Kills as a Hero Prop!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2009
     },
     {
       "ID": "10_hunter_kills",
@@ -1028,7 +1033,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 140387
+      "UsersEstimate": 140621
     },
     {
       "ID": "10_hunter_wins",
@@ -1036,7 +1041,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 40110
+      "UsersEstimate": 40177
     },
     {
       "ID": "10_prop_headshots",
@@ -1044,7 +1049,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9025
+      "UsersEstimate": 9040
     },
     {
       "ID": "250_c4_kills",
@@ -1068,7 +1073,7 @@
       "Name": "Frostbite Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "250_ghostsmasher_kills",
@@ -1116,7 +1121,7 @@
       "Name": "Salt Shotgun Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "250_sledgehammer_kills",
@@ -1140,7 +1145,7 @@
       "Name": "250 Taunts!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7019
+      "UsersEstimate": 7031
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -1148,7 +1153,7 @@
       "Name": "Unlock 25 Cosmetics!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "25_taunts_single_game",
@@ -1156,7 +1161,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 30083
+      "UsersEstimate": 30133
     },
     {
       "ID": "50_riot_shield_kills",
@@ -1172,7 +1177,7 @@
       "Name": "Ace Master",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 6017
+      "UsersEstimate": 6027
     },
     {
       "ID": "ace",
@@ -1180,7 +1185,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 100276
+      "UsersEstimate": 100444
     },
     {
       "ID": "ghost_win",
@@ -1188,7 +1193,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 601657
+      "UsersEstimate": 602662
     },
     {
       "ID": "hunter_win",
@@ -1196,7 +1201,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 541491
+      "UsersEstimate": 542395
     },
     {
       "ID": "master_of_loadouts",
@@ -1212,7 +1217,7 @@
       "Name": "Unlock All Cosmetics!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "unlock_cosmetic",
@@ -1220,14 +1225,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 220607
+      "UsersEstimate": 220976
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1002761,
+      "Progressed": 1004436,
       "Completed": 0
     }
   ],
@@ -1235,8 +1240,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-06-07T23:57:14.3683248+00:00",
-  "LastChanged_Achievements": "2023-06-08T06:01:28.6617395+00:00",
+  "LastChanged_Achievements": "2023-06-08T07:00:27.8938373+00:00",
   "LastUpdate_AppInfo": "2023-06-01T15:57:12.6804905+00:00",
-  "LastUpdate_Ratings": "2023-06-08T05:57:15.8512034+00:00",
-  "LastUpdate_Achievements": "2023-06-08T06:01:28.6618004+00:00"
+  "LastUpdate_Ratings": "2023-06-08T06:57:08.9535718+00:00",
+  "LastUpdate_Achievements": "2023-06-08T07:00:27.893872+00:00"
 }

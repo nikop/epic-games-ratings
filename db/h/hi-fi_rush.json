@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 2865,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2685,9 +2685,9 @@
       "ID": "Ach015",
       "SetID": "12n4k20",
       "Name": "Thanks for the free chip, Peppermint!",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1776
     },
     {
       "ID": "Ach016",
@@ -2853,9 +2853,9 @@
       "ID": "Ach036",
       "SetID": "12n4k20",
       "Name": "Kissing the sky!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1261
     },
     {
       "ID": "Ach037",
@@ -3076,8 +3076,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-03T21:58:22.8890273+00:00",
-  "LastChanged_Achievements": "2023-06-08T06:06:25.6717776+00:00",
+  "LastChanged_Achievements": "2023-06-08T07:05:22.8710642+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:48.102192+00:00",
-  "LastUpdate_Ratings": "2023-06-08T05:58:51.456077+00:00",
-  "LastUpdate_Achievements": "2023-06-08T06:06:25.6718599+00:00"
+  "LastUpdate_Ratings": "2023-06-08T06:58:23.9721896+00:00",
+  "LastUpdate_Achievements": "2023-06-08T07:05:22.87114+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1231,
+  "EOS_Progressed": 1232,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -748,6 +748,11 @@
       "Time": "2023-06-07T19:07:09.6506488+00:00",
       "NumProgressed": 1231,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-08T07:05:18.1842339+00:00",
+      "NumProgressed": 1232,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -823,7 +828,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "18",
@@ -927,7 +932,7 @@
       "Name": "Self-sustainability",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "31",
@@ -967,7 +972,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "7",
@@ -998,15 +1003,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1231,
+      "Progressed": 1232,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-08T06:06:20.1916425+00:00",
+  "LastChanged_Achievements": "2023-06-08T07:05:18.1842334+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.0417129+00:00",
-  "LastUpdate_Ratings": "2023-06-08T05:59:51.5479742+00:00",
-  "LastUpdate_Achievements": "2023-06-08T06:06:20.1916676+00:00"
+  "LastUpdate_Ratings": "2023-06-08T06:59:09.9754042+00:00",
+  "LastUpdate_Achievements": "2023-06-08T07:05:18.1842645+00:00"
 }

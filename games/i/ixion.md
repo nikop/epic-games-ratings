@@ -39,8 +39,8 @@ Rating: 4.56 (Ranked 453)
 | Delivery! | 1.00% | ~25 |
 | Pedal to the Metal | 1.00% | ~25 |
 | What the Ruins Teach Us | 1.00% | ~25 |
+| Mutual Loyalty | 0.90% | ~22 |
 | Pulsar Disciple | 0.90% | ~22 |
-| Mutual Loyalty | 0.80% | ~20 |
 | Praise the Hull! | 0.80% | ~20 |
 | You Had One Job... | 0.80% | ~20 |
 | Catastrophe Avoided | 0.70% | ~17 |

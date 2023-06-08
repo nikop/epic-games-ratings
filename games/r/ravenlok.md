@@ -18,17 +18,17 @@
 | Surprise! | 44.00% | ~426 |
 | An Actor! | 44.00% | ~426 |
 | Curtain Call | 42.00% | ~407 |
+| Piece of Cake | 40.00% | ~387 |
 | Glimmer of Hope | 40.00% | ~387 |
-| Piece of Cake | 39.00% | ~378 |
 | Gooey Delight! | 39.00% | ~378 |
+| Teacups for Toppy | 39.00% | ~378 |
 | Well Rested | 39.00% | ~378 |
 | Nightmare Fuel | 38.00% | ~368 |
 | Take Heart | 38.00% | ~368 |
-| Teacups for Toppy | 38.00% | ~368 |
 | The Guardian | 37.00% | ~358 |
+| Stronger! | 37.00% | ~358 |
 | Ancient Wisdom | 36.00% | ~348 |
 | All That Glistens | 36.00% | ~348 |
-| Stronger! | 36.00% | ~348 |
 | Spellbound | 35.00% | ~339 |
 | Frog Facts! | 35.00% | ~339 |
 | All Skilled Up! | 35.00% | ~339 |

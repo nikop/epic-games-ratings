@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1532,9 +1532,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 46785,
+  "EOS_Progressed": 46786,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 862,
+  "EOS_NewPlayers": 860,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6512,6 +6512,11 @@
       "Time": "2023-06-08T06:06:16.8776928+00:00",
       "NumProgressed": 46785,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-08T07:05:15.4660181+00:00",
+      "NumProgressed": 46786,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 59,
@@ -6643,7 +6648,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11228
+      "UsersEstimate": 11229
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -6779,7 +6784,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14971
+      "UsersEstimate": 14972
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -6835,7 +6840,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11228
+      "UsersEstimate": 11229
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -6891,7 +6896,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 36024
+      "UsersEstimate": 36025
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -6987,22 +6992,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 17310
+      "UsersEstimate": 17311
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 46785,
+      "Progressed": 46786,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-06-06T02:20:42.5632316+00:00",
-  "LastChanged_Achievements": "2023-06-08T06:06:16.877692+00:00",
+  "LastChanged_Achievements": "2023-06-08T07:05:15.4660175+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:35.4941076+00:00",
-  "LastUpdate_Ratings": "2023-06-08T05:58:39.349315+00:00",
-  "LastUpdate_Achievements": "2023-06-08T06:06:16.8778347+00:00"
+  "LastUpdate_Ratings": "2023-06-08T06:58:14.4786785+00:00",
+  "LastUpdate_Achievements": "2023-06-08T07:05:15.4661128+00:00"
 }

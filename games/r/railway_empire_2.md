@@ -14,7 +14,7 @@
 | We brake for nobody | 65.00% | ~644 |
 | Mind the Gap | 63.00% | ~624 |
 | Travel Company | 63.00% | ~624 |
-| All around the World | 60.00% | ~594 |
+| All around the World | 61.00% | ~604 |
 | Right through the middle | 54.00% | ~535 |
 | Poor Devil | 51.00% | ~505 |
 | Facility Manager | 50.00% | ~495 |

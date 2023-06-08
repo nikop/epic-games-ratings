@@ -5,23 +5,23 @@ Rating: 3.81 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~14,791 |
-| No Half Measures | 88.00% | ~13,701 |
-| Personal Matter | 87.00% | ~13,545 |
-| But You Have Heard of Me | 72.00% | ~11,210 |
-| Double the Barrels, double the Fun | 55.00% | ~8,563 |
-| Pimp My Glide | 47.00% | ~7,317 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,383 |
+| Eeligally Ambitious | 95.00% | ~14,792 |
+| No Half Measures | 88.00% | ~13,702 |
+| Personal Matter | 87.00% | ~13,547 |
+| But You Have Heard of Me | 72.00% | ~11,211 |
+| Double the Barrels, double the Fun | 55.00% | ~8,564 |
+| Pimp My Glide | 47.00% | ~7,318 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,384 |
 | House Party! | 33.00% | ~5,138 |
 | Make It Rain | 23.00% | ~3,581 |
-| Curse of the Seven Seas | 22.00% | ~3,425 |
-| Head First | 15.00% | ~2,335 |
-| To the World's End | 12.00% | ~1,868 |
+| Curse of the Seven Seas | 22.00% | ~3,426 |
+| Head First | 15.00% | ~2,336 |
+| To the World's End | 12.00% | ~1,869 |
 | Table for Six | 11.00% | ~1,713 |
 | Sharing Is Caring | 10.00% | ~1,557 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,246 |
 | Morally Flexible | 6.00% | ~934 |
-| Fishing for Compliments | 5.00% | ~778 |
+| Fishing for Compliments | 5.00% | ~779 |
 | After All, Why Shouldn't I Keep It? | 2.00% | ~311 |
 | A True Dandy | 2.00% | ~311 |
 | A New Legend Awaits | 1.00% | ~156 |
@@ -32,7 +32,7 @@ Rating: 3.81 (Ranked 923)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,569 (Ranked 99)  
+Progressed: 15,571 (Ranked 99)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 15,531 | 0 |
 | 2023-06-06 | 15,553 | 0 |
 | 2023-06-07 | 15,569 | 0 |
+| 2023-06-08 | 15,571 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

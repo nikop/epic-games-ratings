@@ -560,7 +560,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14713,
+  "EOS_Progressed": 14714,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 1,
@@ -3135,6 +3135,11 @@
       "Time": "2023-06-08T06:04:23.0161349+00:00",
       "NumProgressed": 14713,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-08T07:03:42.9792478+00:00",
+      "NumProgressed": 14714,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3338,7 +3343,7 @@
       "Name": "The Outer Way",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3378,7 +3383,7 @@
       "Name": "Desperate Times",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3465,13 +3470,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14713,
+      "Progressed": 14714,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2639,
+      "Progressed": 2640,
       "Completed": 29
     }
   ],
@@ -3479,8 +3484,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-07T20:58:04.7980908+00:00",
-  "LastChanged_Achievements": "2023-06-08T06:04:23.0161343+00:00",
+  "LastChanged_Achievements": "2023-06-08T07:03:42.979247+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-08T05:58:11.5166773+00:00",
-  "LastUpdate_Achievements": "2023-06-08T06:04:23.016214+00:00"
+  "LastUpdate_Ratings": "2023-06-08T06:57:52.367528+00:00",
+  "LastUpdate_Achievements": "2023-06-08T07:03:42.9792975+00:00"
 }

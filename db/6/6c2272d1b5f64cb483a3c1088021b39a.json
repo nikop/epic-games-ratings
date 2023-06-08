@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -791,6 +791,11 @@
       "Time": "2023-06-08T06:03:12.2978398+00:00",
       "NumProgressed": 366,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T07:02:14.0045152+00:00",
+      "NumProgressed": 367,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -944,9 +949,9 @@
       "ID": "diehard_1",
       "SetID": "53c1p3k",
       "Name": "Diehard 1",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "diehard_2",
@@ -968,17 +973,17 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 184
     },
     {
       "ID": "elemental_stones_2",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 2",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "elemental_stones_3",
@@ -1256,9 +1261,9 @@
       "ID": "stronghold_1",
       "SetID": "53c1p3k",
       "Name": "Stronghold 1",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "stronghold_2",
@@ -1329,14 +1334,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 367,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-08T06:03:12.2978392+00:00",
+  "LastChanged_Achievements": "2023-06-08T07:02:14.0045146+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-08T05:57:16.1712416+00:00",
-  "LastUpdate_Achievements": "2023-06-08T06:03:12.2979543+00:00"
+  "LastUpdate_Ratings": "2023-06-08T06:57:09.2106456+00:00",
+  "LastUpdate_Achievements": "2023-06-08T07:02:14.0045824+00:00"
 }
