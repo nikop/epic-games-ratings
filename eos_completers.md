@@ -35,7 +35,7 @@
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.42% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.03% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.02% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.79% |
@@ -44,8 +44,8 @@
 | 42 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.64% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.33% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.28% |
-| 45 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.23% |
-| 46 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
+| 45 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
+| 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.20% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.15% |
 | 48 | [The Bunker](games/t/the_bunker.md) | 3.03% |
 | 49 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
@@ -61,7 +61,7 @@
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 61 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
-| 61 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
+| 62 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.43% |
 | 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.25% |
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 65 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
@@ -70,7 +70,7 @@
 | 68 | [JARS](games/j/jars.md) | 1.92% |
 | 69 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 70 | [Sifu](games/s/sifu.md) | 1.80% |
-| 71 | [Poosh XL](games/p/poosh_xl.md) | 1.68% |
+| 71 | [Poosh XL](games/p/poosh_xl.md) | 1.67% |
 | 72 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.62% |
 | 74 | [Somerville](games/s/somerville.md) | 1.59% |
@@ -92,8 +92,8 @@
 | 90 | [Five Dates](games/f/five_dates.md) | 0.97% |
 | 91 | [Sable](games/s/sable.md) | 0.94% |
 | 92 | [Hades](games/h/hades.md) | 0.89% |
-| 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
 | 93 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
+| 94 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
 | 95 | [Adios](games/a/adios.md) | 0.85% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
