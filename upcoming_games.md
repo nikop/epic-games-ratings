@@ -18,6 +18,7 @@
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | - |  | - | - |
 | [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | 2023-06-15 | - |  | - | - |
 | [F1® 23 Standard Edition](games/f/f1®_23_standard_edition.md) | 2023-06-16 | - |  | - | - |
+| [TV Head: Eight Pages](games/4/4b7c856ef3a54f0489e21feef74b7d08.md) | 2023-06-16 | - |  | - | - |
 | [Brick Breaker Premium 3](games/1/1421a0ed5cb14f0999cc115d2f0f7377.md) | 2023-06-16 | - |  | - | - |
 | [Retro Racers 2](games/e/e97ae982b9d349ecb979266acb98f26d.md) | 2023-06-16 | - |  | - | - |
 | [Line's Guarder](games/0/0622018a4c334c81b78577a8aff76d52.md) | 2023-06-19 | - |  | - | - |
@@ -50,6 +51,7 @@
 | [Stillborn Slayer](games/s/stillborn_slayer.md) | 2023-06-30 | - |  | - | - |
 | [Tabletop Playground](games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 2023-06-30 | 5 (1,000 XP) | 3 | - | - |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-06-30 | - |  | - | - |
+| [Traffic Brains 2](games/f/f6a9fcbf437b48b59cf3d54a75c20932.md) | 2023-06-30 | - |  | - | - |
 | [Workshop Simulator](games/e/eb3087d303e243ff92b3dd0ee3b3fb3f.md) | 2023-06-30 | 22 (1,000 XP) | 0 | - | - |
 | [Yomi 2](games/y/yomi_2.md) | 2023-06-30 | - |  | - | - |
 | [Arcatron-Z](games/b/b7a1153cbf0f49e497f70e3e9d2e28ba.md) | 2023-07-01 | - |  | - | - |
@@ -262,7 +264,7 @@
 | [Japanese Drift Master](games/j/japanese_drift_master.md) | 2099-01-01 | - |  | - | - |
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | 2099-01-01 | - |  | - | - |
 | [KarmaZoo](games/k/karmazoo.md) | 2099-01-01 | - |  | - | - |
-| [Last Labyrinth](games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 2099-01-01 | - |  | - | - |
+| [Last Labyrinth](games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 2099-01-01 | 35 (1,000 XP) | 0 | - | - |
 | [Last Words](games/l/last_words.md) | 2099-01-01 | - |  | - | - |
 | [Legendary Hoplite](games/a/ac45259a6001412d8e57aa5d5ad1811a.md) | 2099-01-01 | - |  | - | - |
 | [Legends of Bezogia](games/l/legends_of_bezogia.md) | 2099-01-01 | - |  | - | - |

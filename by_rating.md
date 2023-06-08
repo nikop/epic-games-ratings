@@ -459,7 +459,7 @@
 | 453 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 391 |
 | 453 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 493 |
 | 453 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.56 | 34 | 432 |
-| 453 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 770 | 149 |
+| 453 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 772 | 149 |
 | 453 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 0 | 493 |
 | 453 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 429 |
 | 453 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 493 |

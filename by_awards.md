@@ -148,7 +148,7 @@
 | 146 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 852 | 4.76 | 118 |
 | 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 786 | 4.69 | 218 |
 | 148 | [Frostpunk](games/f/frostpunk.md) | 774 | 4.74 | 144 |
-| 149 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 770 | 4.56 | 453 |
+| 149 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 772 | 4.56 | 453 |
 | 150 | [The Long Dark](games/t/the_long_dark.md) | 761 | 4.74 | 144 |
 | 151 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 754 | 4.50 | 545 |
 | 152 | [Auto Chess](games/a/auto_chess.md) | 744 | 4.52 | 514 |
