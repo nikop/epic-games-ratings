@@ -163,7 +163,7 @@
 | 157 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 225 | 249 |
 | 157 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 493 |
 | 157 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 493 |
-| 157 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 314 | 225 |
+| 157 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 314 | 226 |
 | 157 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 493 |
 | 157 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 350 |
 | 157 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 493 |
@@ -381,7 +381,7 @@
 | 360 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 271 | 237 |
 | 360 | [Supraland](games/s/supraland.md) | 4.61 | 7,621 | 40 |
 | 360 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 493 |
-| 360 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 312 | 226 |
+| 360 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 315 | 225 |
 | 360 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 493 |
 | 360 | [Wall World](games/w/wall_world.md) | 4.61 | 0 | 493 |
 | 360 | [Warframe](games/w/warframe.md) | 4.61 | 15,271 | 21 |
@@ -560,7 +560,7 @@
 | 545 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 682 | 159 |
 | 545 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 432,902 | 2 |
 | 545 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 493 |
-| 545 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 753 | 151 |
+| 545 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 754 | 151 |
 | 545 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 0 | 493 |
 | 545 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 31 | 444 |
 | 564 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 376 |
@@ -904,7 +904,7 @@
 | 901 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 493 |
 | 903 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 493 |
 | 903 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,182 | 100 |
-| 903 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,611 | 67 |
+| 903 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,614 | 67 |
 | 906 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 493 |
 | 907 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 404 |
 | 907 | [Chimeraland](games/c/chimeraland.md) | 3.95 | 22 | 476 |

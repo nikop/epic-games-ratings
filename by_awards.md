@@ -66,7 +66,7 @@
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,920 | 4.06 | 886 |
 | 65 | [MultiVersus](games/m/multiversus.md) | 4,740 | 4.56 | 453 |
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,651 | 4.65 | 296 |
-| 67 | [Shop Titans](games/s/shop_titans.md) | 4,611 | 3.98 | 903 |
+| 67 | [Shop Titans](games/s/shop_titans.md) | 4,614 | 3.98 | 903 |
 | 68 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,531 | 4.70 | 196 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,337 | 4.70 | 196 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,330 | 4.70 | 196 |
@@ -150,7 +150,7 @@
 | 148 | [Frostpunk](games/f/frostpunk.md) | 774 | 4.74 | 144 |
 | 149 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 770 | 4.56 | 453 |
 | 150 | [The Long Dark](games/t/the_long_dark.md) | 761 | 4.74 | 144 |
-| 151 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 753 | 4.50 | 545 |
+| 151 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 754 | 4.50 | 545 |
 | 152 | [Auto Chess](games/a/auto_chess.md) | 744 | 4.52 | 514 |
 | 153 | [Core](games/c/core.md) | 735 | 4.37 | 709 |
 | 154 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 725 | 4.79 | 90 |
@@ -224,8 +224,8 @@
 | 222 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 321 | 3.93 | 911 |
 | 223 | [Darkwood](games/d/darkwood.md) | 319 | 4.61 | 360 |
 | 224 | [The Messenger](games/t/the_messenger.md) | 317 | 4.80 | 80 |
-| 225 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 314 | 4.73 | 157 |
-| 226 | [The Sims™ 4](games/t/the_sims™_4.md) | 312 | 4.61 | 360 |
+| 225 | [The Sims™ 4](games/t/the_sims™_4.md) | 315 | 4.61 | 360 |
+| 226 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 314 | 4.73 | 157 |
 | 227 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 332 |
 | 228 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 783 |
 | 229 | [House Flipper](games/h/house_flipper.md) | 294 | 4.69 | 218 |
