@@ -20,7 +20,7 @@
 | 18 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 20 | [Smelter](games/s/smelter.md) | 8.57% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.12% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.11% |
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
@@ -64,7 +64,7 @@
 | 62 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.40% |
 | 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.25% |
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 65 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
+| 65 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 67 | [Iron Danger](games/i/iron_danger.md) | 2.04% |
 | 68 | [JARS](games/j/jars.md) | 1.92% |
@@ -85,8 +85,8 @@
 | 83 | [Trifox](games/t/trifox.md) | 1.18% |
 | 84 | [Chorus](games/c/chorus.md) | 1.17% |
 | 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.16% |
-| 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.13% |
 | 86 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
+| 87 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 88 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
 | 89 | [Late Shift](games/l/late_shift.md) | 1.00% |
 | 90 | [Five Dates](games/f/five_dates.md) | 0.97% |
@@ -98,11 +98,11 @@
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
 | 98 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.77% |
+| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
-| 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
-| 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
-| 100 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.75% |
-| 100 | [Them and Us](games/t/them_and_us.md) | 0.75% |
+| 101 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
+| 101 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.75% |
+| 101 | [Them and Us](games/t/them_and_us.md) | 0.75% |
 | 104 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.70% |
 | 105 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.69% |
 | 106 | [Train Valley](games/t/train_valley.md) | 0.68% |
