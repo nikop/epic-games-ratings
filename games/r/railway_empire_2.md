@@ -9,13 +9,13 @@
 | Departure | 71.00% | ~714 |
 | From X to Y | 70.00% | ~704 |
 | Way of Iron | 69.00% | ~694 |
-| Mystery Tour | 66.00% | ~664 |
+| Mystery Tour | 67.00% | ~674 |
 | Brainstorm | 65.00% | ~654 |
 | We brake for nobody | 65.00% | ~654 |
 | Mind the Gap | 63.00% | ~634 |
 | Travel Company | 63.00% | ~634 |
-| All around the World | 60.00% | ~604 |
-| Right through the middle | 54.00% | ~543 |
+| All around the World | 61.00% | ~614 |
+| Right through the middle | 55.00% | ~553 |
 | Facility Manager | 51.00% | ~513 |
 | Poor Devil | 51.00% | ~513 |
 | Producer | 46.00% | ~463 |
@@ -28,17 +28,17 @@
 | Bull and bear | 27.00% | ~272 |
 | Mole | 26.00% | ~262 |
 | All mine | 24.00% | ~241 |
+| Financial Shark | 24.00% | ~241 |
 | Socializer | 24.00% | ~241 |
-| Financial Shark | 23.00% | ~231 |
 | Seven at one stroke | 21.00% | ~211 |
-| General Manager | 20.00% | ~201 |
+| General Manager | 21.00% | ~211 |
 | Country Life | 20.00% | ~201 |
 | Hostile Takeover | 20.00% | ~201 |
 | Trailblazer | 18.00% | ~181 |
+| Breaking Ground | 15.00% | ~151 |
 | Traffic Jam | 14.00% | ~141 |
 | Assimilated | 14.00% | ~141 |
 | Traffic Junction | 14.00% | ~141 |
-| Breaking Ground | 14.00% | ~141 |
 | Locusts | 13.00% | ~131 |
 | Networker | 13.00% | ~131 |
 | Resistance is futile | 12.00% | ~121 |

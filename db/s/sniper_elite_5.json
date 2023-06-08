@@ -3,8 +3,8 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 545,
-  "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 493,
+  "Ranking_Popularity": 494,
+  "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 91,
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2418,
+  "EOS_Progressed": 2420,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2904,6 +2904,11 @@
       "Time": "2023-06-08T21:05:43.3995084+00:00",
       "NumProgressed": 2418,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-08T22:06:04.7302577+00:00",
+      "NumProgressed": 2420,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2923,7 +2928,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -2955,7 +2960,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2971,7 +2976,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -2995,7 +3000,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3035,7 +3040,7 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3051,7 +3056,7 @@
       "Name": "Sharpshooter",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -3083,7 +3088,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3115,7 +3120,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3139,7 +3144,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3163,7 +3168,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3482,13 +3487,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2369,
+      "Progressed": 2371,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2418,
+      "Progressed": 2420,
       "Completed": 2
     }
   ],
@@ -3496,8 +3501,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-08T13:05:05.4339298+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:05:43.3995079+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:06:04.7302572+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-08T21:00:08.808932+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:05:43.3995934+00:00"
+  "LastUpdate_Ratings": "2023-06-08T22:00:36.3326712+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:06:04.7303424+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 156,
-  "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 493,
+  "Ranking_Popularity": 494,
+  "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 159,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1237,
+  "EOS_Progressed": 1238,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -773,6 +773,11 @@
       "Time": "2023-06-08T21:05:46.3467904+00:00",
       "NumProgressed": 1237,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-08T22:06:07.7451446+00:00",
+      "NumProgressed": 1238,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -784,7 +789,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "10",
@@ -798,9 +803,9 @@
       "ID": "11",
       "SetID": "n50no0",
       "Name": "Strike!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 248
     },
     {
       "ID": "12",
@@ -832,7 +837,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "16",
@@ -840,7 +845,7 @@
       "Name": "My little pony",
       "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "17",
@@ -848,7 +853,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "18",
@@ -864,7 +869,7 @@
       "Name": "Second thoughts",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "2",
@@ -872,7 +877,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "20",
@@ -888,7 +893,7 @@
       "Name": "Mooning the moon",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "22",
@@ -928,15 +933,15 @@
       "Name": "Strip-a-bobble",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "29",
       "SetID": "n50no0",
       "Name": "A love supreme",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 223
     },
     {
       "ID": "3",
@@ -1008,7 +1013,7 @@
       "Name": "Over my dead body",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "9",
@@ -1023,15 +1028,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1237,
+      "Progressed": 1238,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:05:46.3467899+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:06:07.7451442+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.0417129+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:59:18.5066869+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:05:46.346821+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:59:47.7717586+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:06:07.74517+00:00"
 }

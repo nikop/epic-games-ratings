@@ -3,8 +3,8 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 134,
-  "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 493,
+  "Ranking_Popularity": 494,
+  "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 122,
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6364,
+  "EOS_Progressed": 6365,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3168,6 +3168,11 @@
       "Time": "2023-06-08T21:05:27.5486596+00:00",
       "NumProgressed": 6364,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-08T22:05:49.4041078+00:00",
+      "NumProgressed": 6365,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -3195,7 +3200,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -3346,7 +3351,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6364,
+      "Progressed": 6365,
       "Completed": 23
     }
   ],
@@ -3354,8 +3359,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:05:27.5486591+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:05:49.4041073+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:57:59.6103863+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:05:27.5486958+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:58:28.2172632+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:05:49.4041404+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 2753,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3492,
+  "EOS_Progressed": 3493,
   "EOS_Completed": -29,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.83,
   "EosHistory": [
@@ -201,6 +201,11 @@
       "Time": "2023-06-07T19:06:51.9442675+00:00",
       "NumProgressed": 3492,
       "NumCompleted": -29
+    },
+    {
+      "Time": "2023-06-08T22:05:55.7053485+00:00",
+      "NumProgressed": 3493,
+      "NumCompleted": -29
     }
   ],
   "TotalAchievements": 35,
@@ -212,7 +217,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "10",
@@ -220,7 +225,7 @@
       "Name": "Purpose Lost",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "11",
@@ -300,7 +305,7 @@
       "Name": "A Scarlet Mark",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "20",
@@ -491,7 +496,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3492,
+      "Progressed": 3493,
       "Completed": -29
     }
   ],
@@ -499,8 +504,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:05:33.937078+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:05:55.7053482+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:13.4348465+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:57:23.6381208+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:05:33.9371072+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:57:52.9469786+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:05:55.7053737+00:00"
 }

@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 632 (Ranked 192)  
+Progressed: 633 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,4 +79,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 608 | 0 |
 | 2023-06-06 | 615 | 0 |
 | 2023-06-07 | 624 | 0 |
-| 2023-06-08 | 632 | 0 |
+| 2023-06-08 | 633 | 0 |

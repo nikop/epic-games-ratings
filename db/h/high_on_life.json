@@ -3,8 +3,8 @@
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
   "Ranking_Rating": 259,
-  "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 493,
+  "Ranking_Popularity": 494,
+  "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 164,
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22809,
+  "EOS_Progressed": 22810,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1293,6 +1293,11 @@
       "Time": "2023-06-08T21:04:24.5250504+00:00",
       "NumProgressed": 22809,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-08T22:04:47.9728384+00:00",
+      "NumProgressed": 22810,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1320,7 +1325,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17563
+      "UsersEstimate": 17564
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -1368,7 +1373,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17335
+      "UsersEstimate": 17336
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1408,7 +1413,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18931
+      "UsersEstimate": 18932
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1424,7 +1429,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13001
+      "UsersEstimate": 13002
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1432,7 +1437,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13457
+      "UsersEstimate": 13458
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -1520,7 +1525,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3649
+      "UsersEstimate": 3650
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -1559,22 +1564,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22809,
+      "Progressed": 22810,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 102,
-      "Completed": 102
+      "Progressed": 103,
+      "Completed": 103
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:04:24.5250499+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:04:47.9728379+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:10.2395765+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:58:02.6817564+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:04:24.5250823+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:58:31.99699+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:04:47.9728695+00:00"
 }

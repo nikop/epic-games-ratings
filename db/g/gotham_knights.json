@@ -5,10 +5,10 @@
   "Ranking_Rating": 847,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 137,
-  "Ranking_EOS_Progress": 70,
+  "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1430,9 +1430,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64099,
+  "EOS_Progressed": 64108,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 961,
+  "EOS_NewPlayers": 963,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5555,6 +5555,11 @@
       "Time": "2023-06-08T21:05:55.2995185+00:00",
       "NumProgressed": 64099,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-08T22:06:16.815711+00:00",
+      "NumProgressed": 64108,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 61,
@@ -5718,7 +5723,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -5950,7 +5955,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MYSTERY_01",
@@ -6053,13 +6058,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64099,
+      "Progressed": 64108,
       "Completed": 94
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34379,
+      "Progressed": 34388,
       "Completed": 2644
     }
   ],
@@ -6067,8 +6072,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-08T20:59:28.8434464+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:05:55.2995181+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:06:16.8157107+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:59:28.8434476+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:05:55.299605+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:59:57.8667782+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:06:16.8157942+00:00"
 }

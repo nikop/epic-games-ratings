@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4162,10 +4162,10 @@
       "Count": 3247
     }
   ],
-  "EOS_Progressed": 90151,
+  "EOS_Progressed": 90160,
   "EOS_Completed": 1924,
-  "EOS_NewPlayers": 709,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 716,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -9182,6 +9182,11 @@
       "Time": "2023-06-08T21:06:02.1289886+00:00",
       "NumProgressed": 90151,
       "NumCompleted": 1924
+    },
+    {
+      "Time": "2023-06-08T22:06:23.3238178+00:00",
+      "NumProgressed": 90160,
+      "NumCompleted": 1924
     }
   ],
   "TotalAchievements": 493,
@@ -10415,9 +10420,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 361
     },
     {
       "ID": "objective_completed_17",
@@ -13136,21 +13141,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56425,
+      "Progressed": 56434,
       "Completed": 2777
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90151,
+      "Progressed": 90160,
       "Completed": 1924
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-08T18:58:33.3558048+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:06:02.1289882+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:06:23.3238174+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:58:05.4147146+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:06:02.1315677+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:58:34.7191799+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:06:23.3262166+00:00"
 }

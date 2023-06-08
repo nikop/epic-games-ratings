@@ -6,19 +6,19 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,159 |
-| What should I buy? | 83.00% | ~6,389 |
+| The Legend Begins | 93.00% | ~7,160 |
+| What should I buy? | 83.00% | ~6,390 |
 | Focus! | 62.00% | ~4,773 |
 | Rescued Elder Ent | 62.00% | ~4,773 |
-| The End of the Gold Mane Knights | 47.00% | ~3,618 |
-| Rules of Etiquette | 39.00% | ~3,002 |
-| False Goddess, Disappear | 38.00% | ~2,925 |
-| Quick Movements | 33.00% | ~2,540 |
-| Inventory Management | 33.00% | ~2,540 |
-| The Fall of the Leonia Order | 29.00% | ~2,232 |
-| The Hero Killer | 27.00% | ~2,078 |
-| Go Home... | 26.00% | ~2,001 |
-| The Final Battle of the First Hero | 25.00% | ~1,924 |
+| The End of the Gold Mane Knights | 47.00% | ~3,619 |
+| Rules of Etiquette | 39.00% | ~3,003 |
+| False Goddess, Disappear | 38.00% | ~2,926 |
+| Quick Movements | 33.00% | ~2,541 |
+| Inventory Management | 33.00% | ~2,541 |
+| The Fall of the Leonia Order | 29.00% | ~2,233 |
+| The Hero Killer | 27.00% | ~2,079 |
+| Go Home... | 26.00% | ~2,002 |
+| The Final Battle of the First Hero | 25.00% | ~1,925 |
 | Brain at Full Throttle | 22.00% | ~1,694 |
 | Rookies Welcome | 20.00% | ~1,540 |
 | Deadly Power | 15.00% | ~1,155 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~77 |
 | Cold-Blooded | 0.80% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,698 (Ranked 116)  
+Progressed: 7,699 (Ranked 116)  
 Completed: 11 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,11 +76,11 @@ Completed: 11 (0.14%) (Ranked 156)
 | 2023-06-05 | 7,633 | 11 |
 | 2023-06-06 | 7,651 | 11 |
 | 2023-06-07 | 7,672 | 11 |
-| 2023-06-08 | 7,698 | 11 |
+| 2023-06-08 | 7,699 | 11 |
 ## Awards
 Max (Diverse Characters): 115  (Ranked 312)  
-Sum: 760 (Ranked 254)  
-Diff (max vs sum): 58  
+Sum: 760 (Ranked 255)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 119 |

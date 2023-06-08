@@ -9,7 +9,7 @@
 | Survivor | 47.00% | ~22 |
 | First Blood | 36.00% | ~35 |
 | Early Survivor | 36.00% | ~17 |
-| No Diggity | 34.00% | ~16 |
+| No Diggity | 35.00% | ~16 |
 | Triple Kill | 32.00% | ~31 |
 | No Asperascope | 28.00% | ~27 |
 | Cornivore | 28.00% | ~27 |
@@ -34,10 +34,10 @@
 | Pyromaniac | 6.00% | ~3 |
 | Eggtraordinary | 5.00% | ~5 |
 | Bring Home The Bacon | 4.00% | ~4 |
+| Fresh Pancake | 4.00% | ~4 |
 | Pork Chop Express | 4.00% | ~4 |
 | Carrocketeer | 4.00% | ~4 |
 | Chick Magnet | 3.00% | ~3 |
-| Fresh Pancake | 3.00% | ~3 |
 | Getting Started | 3.00% | ~3 |
 | Easy Peasy | 3.00% | ~1 |
 | King of the Crow | 2.00% | ~1 |

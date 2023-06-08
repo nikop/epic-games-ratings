@@ -9,10 +9,10 @@
 | Oops, My bad | 68.00% | ~475 |
 | Don't get ahead on yourself | 40.00% | ~280 |
 | I didn't know you where there! | 31.00% | ~217 |
-| Participation trophy | 23.00% | ~161 |
+| Participation trophy | 24.00% | ~168 |
 | Whole again | 12.00% | ~84 |
 | Getting the job done | 8.00% | ~56 |
-| Cash Rules Everything Around Me | 7.00% | ~49 |
+| Cash Rules Everything Around Me | 8.00% | ~56 |
 | Risky business | 6.00% | ~42 |
 | Ready to Mingle | 5.00% | ~35 |
 | First one tastes better | 4.00% | ~28 |

@@ -676,7 +676,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2324,
+  "EOS_Progressed": 2325,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -2221,6 +2221,11 @@
       "Time": "2023-06-08T21:05:37.8006335+00:00",
       "NumProgressed": 2324,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T22:05:59.581797+00:00",
+      "NumProgressed": 2325,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2304,7 +2309,7 @@
       "Name": "Finally he zips it",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -2512,7 +2517,7 @@
       "Name": "That pinch!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -2560,7 +2565,7 @@
       "Name": "Tight lipslides",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -2608,22 +2613,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2324,
+      "Progressed": 2325,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-04T23:59:06.4190942+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:05:37.800633+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:05:59.5817966+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:58:55.5475861+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:05:37.8006846+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:59:24.1556377+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:05:59.5818447+00:00"
 }

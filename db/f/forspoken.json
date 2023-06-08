@@ -3,11 +3,11 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 851,
-  "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 493,
+  "Ranking_Popularity": 494,
+  "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38470,
+  "EOS_Progressed": 38471,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3388,6 +3388,11 @@
       "Time": "2023-06-08T19:07:32.8917774+00:00",
       "NumProgressed": 38470,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-08T22:06:11.8581585+00:00",
+      "NumProgressed": 38471,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -3822,22 +3827,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38470,
+      "Progressed": 38471,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3307,
-      "Completed": 3307
+      "Progressed": 3308,
+      "Completed": 3308
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-06-05T21:58:31.7254334+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:05:50.3818607+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:06:11.8581581+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:43.5964953+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:58:26.4911955+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:05:50.3819333+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:58:55.8423944+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:06:11.8582248+00:00"
 }

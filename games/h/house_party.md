@@ -43,11 +43,11 @@ Number of Ratings: 177  (23.09.2022)
 | Beyond the Call of Dude-y | 0.10% | ~5 |
 | The Bride | 0.10% | ~5 |
 | Casabrova | 0.10% | ~5 |
-| Congrats, A Celebrity Hates You | 0.10% | ~2 |
-| Deck the Balls | 0.10% | ~2 |
+| Congrats, A Celebrity Hates You | 0.10% | ~3 |
+| Deck the Balls | 0.10% | ~3 |
 | Drunk and Disorderly: Madison | 0.10% | ~5 |
 | Do Not Burn | 0.10% | ~5 |
-| Doja's Dope-Ass Dinolicious Danceapalooza | 0.10% | ~2 |
+| Doja's Dope-Ass Dinolicious Danceapalooza | 0.10% | ~3 |
 | Duck n' Weave | 0.10% | ~5 |
 | First Impressions | 0.10% | ~5 |
 | Good Riddance! | 0.10% | ~5 |
@@ -55,7 +55,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Harder They Fall...Dood | 0.10% | ~5 |
 | Hijinks Averted | 0.10% | ~5 |
 | Host Hijinks | 0.10% | ~5 |
-| Hungry Hungry Hot Tubs | 0.10% | ~2 |
+| Hungry Hungry Hot Tubs | 0.10% | ~3 |
 | Ice Bath | 0.10% | ~5 |
 | Money Shot | 0.10% | ~5 |
 | Notice Me, Sensei | 0.10% | ~5 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,461 (Ranked 126)  
+Progressed: 5,462 (Ranked 126)  
 Completed: 3 (0.05%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 3 (0.05%) (Ranked 181)
 | 2023-06-05 | 5,402 | 3 |
 | 2023-06-06 | 5,417 | 3 |
 | 2023-06-07 | 5,438 | 3 |
-| 2023-06-08 | 5,461 | 3 |
+| 2023-06-08 | 5,462 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

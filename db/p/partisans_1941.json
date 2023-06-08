@@ -3,8 +3,8 @@
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
   "Ranking_Rating": 360,
-  "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 493,
+  "Ranking_Popularity": 494,
+  "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 177,
@@ -1013,9 +1013,9 @@
       "ID": "Big_Bertha",
       "SetID": "85nb4h3",
       "Name": "The Big Bertha",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 90
     },
     {
       "ID": "Boy",
@@ -1237,8 +1237,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:05:46.9820004+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:06:08.3266872+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:59:03.9596152+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:05:46.98203+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:59:32.8221997+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:06:08.326715+00:00"
 }

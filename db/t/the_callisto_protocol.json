@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -572,7 +572,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14770,
+  "EOS_Progressed": 14773,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 1,
@@ -3222,6 +3222,11 @@
       "Time": "2023-06-08T21:04:05.428983+00:00",
       "NumProgressed": 14770,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-08T22:04:29.2391882+00:00",
+      "NumProgressed": 14773,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3369,7 +3374,7 @@
       "Name": "Terminated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3409,7 +3414,7 @@
       "Name": "Paper Jams",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3425,7 +3430,7 @@
       "Name": "The Outer Way",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3552,13 +3557,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14770,
+      "Progressed": 14773,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2696,
+      "Progressed": 2699,
       "Completed": 29
     }
   ],
@@ -3566,8 +3571,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-08T19:57:51.4696734+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:04:05.4289825+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:04:29.2391877+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:57:56.8916057+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:04:05.4290273+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:58:25.9207945+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:04:29.2392382+00:00"
 }

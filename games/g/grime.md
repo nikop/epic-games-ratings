@@ -16,8 +16,8 @@ Number of Ratings: 46  (23.09.2022)
 | Scion | 12.00% | ~19 |
 | Harmless | 12.00% | ~69 |
 | Yank | 12.00% | ~69 |
+| Sharpened Vessel | 12.00% | ~69 |
 | Glare | 11.00% | ~18 |
-| Sharpened Vessel | 11.00% | ~64 |
 | Jawcrab | 10.00% | ~58 |
 | Feast | 10.00% | ~58 |
 | Shapely | 9.00% | ~52 |

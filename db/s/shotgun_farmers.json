@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 97,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -488,9 +488,9 @@
       "ID": "ach_crushed_by_supply_drop",
       "SetID": "cmg602e",
       "Name": "Fresh Pancake",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_daily_challenge_15",
@@ -992,7 +992,7 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -1079,8 +1079,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:02:18.5787716+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:03:05.172292+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:32.4470818+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:58:18.5353823+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:02:18.5788547+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:58:47.9333135+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:03:05.172372+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Good Company",
   "ProductSlug": "good-company",
   "Ranking_Rating": 644,
-  "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 493,
+  "Ranking_Popularity": 494,
+  "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4945,
+  "EOS_Progressed": 4946,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1414,6 +1414,11 @@
       "Time": "2023-06-08T19:07:36.9511813+00:00",
       "NumProgressed": 4945,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T22:06:15.1305145+00:00",
+      "NumProgressed": 4946,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1537,7 +1542,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2472
+      "UsersEstimate": 2473
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2032,15 +2037,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4945,
+      "Progressed": 4946,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:05:53.6272545+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:06:15.1305142+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:58:49.748509+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:05:53.6273509+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:59:18.8600478+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:06:15.1306295+00:00"
 }

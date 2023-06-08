@@ -6,39 +6,39 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 70.00% | ~2,382 |
-| Having A Field Day | 69.00% | ~2,348 |
-| Reap What You Sow | 67.00% | ~2,280 |
-| Green Thumb | 63.00% | ~2,144 |
-| The First Day | 63.00% | ~2,144 |
-| Novice Researcher | 60.00% | ~2,042 |
-| Putting Food on the Table | 57.00% | ~1,940 |
-| Onward | 52.00% | ~1,770 |
-| Home Cooked Meal | 48.00% | ~1,633 |
-| The First Week | 48.00% | ~1,633 |
-| Feast or Famine | 47.00% | ~1,599 |
-| Studious Researcher | 47.00% | ~1,599 |
-| Beam Me Up | 45.00% | ~1,531 |
-| Adept Researcher | 43.00% | ~1,463 |
-| Luminary Researcher | 36.00% | ~1,225 |
-| Retribution | 35.00% | ~1,191 |
-| Fit For A King | 35.00% | ~1,191 |
-| ...And Don’t Come Back! | 35.00% | ~1,191 |
+| Get A Room | 70.00% | ~2,384 |
+| Having A Field Day | 69.00% | ~2,350 |
+| Reap What You Sow | 67.00% | ~2,282 |
+| Green Thumb | 63.00% | ~2,146 |
+| The First Day | 63.00% | ~2,146 |
+| Novice Researcher | 60.00% | ~2,044 |
+| Putting Food on the Table | 57.00% | ~1,941 |
+| Onward | 52.00% | ~1,771 |
+| Home Cooked Meal | 48.00% | ~1,635 |
+| The First Week | 48.00% | ~1,635 |
+| Feast or Famine | 47.00% | ~1,601 |
+| Studious Researcher | 47.00% | ~1,601 |
+| Beam Me Up | 45.00% | ~1,533 |
+| Adept Researcher | 43.00% | ~1,465 |
+| Luminary Researcher | 36.00% | ~1,226 |
+| Retribution | 35.00% | ~1,192 |
+| Fit For A King | 35.00% | ~1,192 |
+| ...And Don’t Come Back! | 35.00% | ~1,192 |
 | Heating Up | 24.00% | ~817 |
 | Winter Is Coming | 21.00% | ~715 |
 | Winter Is Here | 18.00% | ~613 |
-| A Party Now | 16.00% | ~544 |
-| Oh Deer! | 16.00% | ~544 |
-| All Year Round | 15.00% | ~510 |
-| Disassembled | 14.00% | ~476 |
-| Nothing Wasted | 10.00% | ~340 |
-| Don't Cry Wolf | 10.00% | ~340 |
-| Deerly Departed | 9.00% | ~306 |
+| A Party Now | 16.00% | ~545 |
+| Oh Deer! | 16.00% | ~545 |
+| All Year Round | 15.00% | ~511 |
+| Disassembled | 14.00% | ~477 |
+| Nothing Wasted | 10.00% | ~341 |
+| Don't Cry Wolf | 10.00% | ~341 |
+| Deerly Departed | 9.00% | ~307 |
 | Where Wolf? | 6.00% | ~204 |
 | Food Chain | 2.00% | ~68 |
 | Wabbit Season | 0.80% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,403 (Ranked 137)  
+Progressed: 3,406 (Ranked 137)  
 Completed: 6 (0.18%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 6 (0.18%) (Ranked 148)
 | 2023-06-05 | 3,195 | 6 |
 | 2023-06-06 | 3,271 | 6 |
 | 2023-06-07 | 3,333 | 6 |
-| 2023-06-08 | 3,403 | 6 |
+| 2023-06-08 | 3,406 | 6 |
 ## Awards
 Max (Relaxing): 120  (Ranked 306)  
 Sum: 943 (Ranked 234)  

@@ -3,11 +3,11 @@
   "Name": "Yoku\u0027s Island Express",
   "ProductSlug": "yokus-island-express",
   "Ranking_Rating": 218,
-  "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 493,
+  "Ranking_Popularity": 494,
+  "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-02T15:00:00+00:00",
@@ -456,6 +456,6 @@
   "FirstSeen": "2022-07-22T20:32:47.6965849+00:00",
   "LastChanged": "2023-03-31T05:58:45.5503299+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:40.2976237+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:59:06.779985+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:03:54.904317+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:59:35.6015007+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:04:19.1069371+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 2,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 22,
-  "EOS_Completed": 10,
+  "EOS_Completed": 11,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 45.45,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 50,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -161,6 +161,11 @@
       "Time": "2023-06-08T19:01:51.4897953+00:00",
       "NumProgressed": 22,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-08T22:00:48.8124812+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 18,
@@ -170,9 +175,9 @@
       "ID": "Best_friends_forever",
       "SetID": "b7i210",
       "Name": "Best friends forever",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 150,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Dreamkeeper",
@@ -266,17 +271,17 @@
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Samaritan",
@@ -316,13 +321,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 22,
-      "Completed": 10
+      "Completed": 11
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-06-08T21:00:20.353544+00:00",
+  "LastChanged_Achievements": "2023-06-08T22:00:48.8124805+00:00",
   "LastUpdate_AppInfo": "2023-06-05T17:56:53.0325903+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:57:20.7585269+00:00",
-  "LastUpdate_Achievements": "2023-06-08T21:00:20.3535657+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:57:50.1466919+00:00",
+  "LastUpdate_Achievements": "2023-06-08T22:00:48.812498+00:00"
 }
