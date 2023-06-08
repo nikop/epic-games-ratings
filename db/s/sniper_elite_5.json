@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2379,
+  "EOS_Progressed": 2382,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2818,6 +2818,11 @@
       "Time": "2023-06-08T00:06:52.8594083+00:00",
       "NumProgressed": 2379,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-08T02:26:38.7866755+00:00",
+      "NumProgressed": 2382,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2837,7 +2842,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -2869,7 +2874,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -2885,15 +2890,15 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 238
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -2909,7 +2914,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2965,7 +2970,7 @@
       "Name": "Sharpshooter",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -2997,7 +3002,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3029,7 +3034,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3053,7 +3058,7 @@
       "Name": "Resourceful",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3077,7 +3082,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3165,7 +3170,7 @@
       "Name": "Change the Channel",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3237,7 +3242,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -3396,13 +3401,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2330,
+      "Progressed": 2333,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2379,
+      "Progressed": 2382,
       "Completed": 2
     }
   ],
@@ -3410,8 +3415,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-07T21:00:47.5607681+00:00",
-  "LastChanged_Achievements": "2023-06-08T00:06:52.8594077+00:00",
+  "LastChanged_Achievements": "2023-06-08T02:26:38.7866752+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-08T00:01:28.0860558+00:00",
-  "LastUpdate_Achievements": "2023-06-08T00:06:52.8595115+00:00"
+  "LastUpdate_Ratings": "2023-06-08T02:21:02.1047714+00:00",
+  "LastUpdate_Achievements": "2023-06-08T02:26:38.786758+00:00"
 }

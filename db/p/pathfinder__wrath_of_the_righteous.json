@@ -2670,10 +2670,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6714,
       "NumberOfAwardsMax": 1656
+    },
+    {
+      "Time": "2023-06-08T02:19:18.5061134+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6717,
+      "NumberOfAwardsMax": 1656
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6714,
+  "NumberOfAwards": 6717,
   "NumberOfAwardsMax": 1656,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2699,7 +2705,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 611
+      "Count": 614
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2746,7 +2752,7 @@
   ],
   "EOS_Progressed": 9619,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6063,9 +6069,9 @@
       "ID": "27_VictorySeige",
       "SetID": "989of5o",
       "Name": "Queen\u0027s Gratitude",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 770
     },
     {
       "ID": "28_GreatUpstart",
@@ -6804,9 +6810,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-07T20:58:32.5572227+00:00",
-  "LastChanged_Achievements": "2023-06-08T00:07:11.9114711+00:00",
+  "LastChanged": "2023-06-08T02:19:18.5061132+00:00",
+  "LastChanged_Achievements": "2023-06-08T02:26:53.4009163+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:58:52.1794628+00:00",
-  "LastUpdate_Achievements": "2023-06-08T00:07:11.9116482+00:00"
+  "LastUpdate_Ratings": "2023-06-08T02:19:18.5061139+00:00",
+  "LastUpdate_Achievements": "2023-06-08T02:26:53.4011169+00:00"
 }

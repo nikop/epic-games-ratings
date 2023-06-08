@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 456,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -779,6 +779,11 @@
       "Time": "2023-06-06T06:05:26.7910115+00:00",
       "NumProgressed": 454,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T02:26:33.7362502+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -814,7 +819,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "DevilDetail",
@@ -1045,7 +1050,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 456,
       "Completed": 1
     }
   ],
@@ -1053,8 +1058,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-08T00:06:46.2303197+00:00",
+  "LastChanged_Achievements": "2023-06-08T02:26:33.7362497+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:01.7126872+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:58:18.675351+00:00",
-  "LastUpdate_Achievements": "2023-06-08T00:06:46.230347+00:00"
+  "LastUpdate_Ratings": "2023-06-08T02:18:56.6305434+00:00",
+  "LastUpdate_Achievements": "2023-06-08T02:26:33.7362762+00:00"
 }

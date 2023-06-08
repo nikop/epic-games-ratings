@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 265,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -628,9 +628,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "completeact2",
@@ -757,8 +757,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-08T00:04:09.7085558+00:00",
+  "LastChanged_Achievements": "2023-06-08T02:24:44.8766503+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:59:24.9494032+00:00",
-  "LastUpdate_Achievements": "2023-06-08T00:04:09.7085721+00:00"
+  "LastUpdate_Ratings": "2023-06-08T02:19:40.3825598+00:00",
+  "LastUpdate_Achievements": "2023-06-08T02:24:44.8766834+00:00"
 }

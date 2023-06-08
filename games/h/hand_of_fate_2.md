@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~473,410 |
-| Apprentice | 58.00% | ~381,358 |
-| Close Shave | 25.00% | ~164,378 |
-| Mercenary | 23.00% | ~151,228 |
-| Ninja | 23.00% | ~151,228 |
-| Northern Scourge | 17.00% | ~111,777 |
+| The Fool | 72.00% | ~473,412 |
+| Apprentice | 58.00% | ~381,360 |
+| Close Shave | 25.00% | ~164,379 |
+| Mercenary | 23.00% | ~151,229 |
+| Ninja | 23.00% | ~151,229 |
+| Northern Scourge | 17.00% | ~111,778 |
 | Thief Bane | 14.00% | ~92,052 |
 | Master of Arms | 12.00% | ~78,902 |
-| Gambler | 10.00% | ~65,751 |
-| Dice Master | 10.00% | ~65,751 |
-| Swordsman | 9.00% | ~59,176 |
+| Gambler | 10.00% | ~65,752 |
+| Dice Master | 10.00% | ~65,752 |
+| Swordsman | 9.00% | ~59,177 |
 | Knight | 8.00% | ~52,601 |
 | Cure for Corruption | 8.00% | ~52,601 |
 | Focused | 8.00% | ~52,601 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 6.00% | ~39,451 |
 | Jack of all Trades | 5.00% | ~32,876 |
 | Smithy | 5.00% | ~32,876 |
-| Leap of Faith | 3.00% | ~19,725 |
-| Combat Ready | 3.00% | ~19,725 |
-| Stuffed Potato | 3.00% | ~19,725 |
+| Leap of Faith | 3.00% | ~19,726 |
+| Combat Ready | 3.00% | ~19,726 |
+| Stuffed Potato | 3.00% | ~19,726 |
 | Card Sharp | 2.00% | ~13,150 |
 | Magician | 2.00% | ~13,150 |
 | Draknar's Bane | 2.00% | ~13,150 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~658 |
 | Blood Pact | 0.10% | ~658 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657,514 (Ranked 19)  
+Progressed: 657,517 (Ranked 19)  
 Completed: 165 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 165 (0.03%) (Ranked 190)
 | 2023-06-05 | 657,420 | 165 |
 | 2023-06-06 | 657,473 | 165 |
 | 2023-06-07 | 657,513 | 165 |
-| 2023-06-08 | 657,514 | 165 |
+| 2023-06-08 | 657,517 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 429)  
 Sum: 180 (Ranked 364)  

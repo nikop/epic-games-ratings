@@ -6,50 +6,50 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~101,399 |
-| Comeback | 81.00% | ~92,284 |
-| Information is Key | 80.00% | ~91,145 |
-| Unlucky | 71.00% | ~80,891 |
-| Anarchist | 68.00% | ~77,473 |
-| Wallhack | 65.00% | ~74,055 |
-| Steady Supply | 60.00% | ~68,359 |
-| Lucky Shot | 53.00% | ~60,383 |
-| Forward Observer | 52.00% | ~59,244 |
-| Ring Ring! | 52.00% | ~59,244 |
-| Bossing Around | 45.00% | ~51,269 |
-| Frostbite | 45.00% | ~51,269 |
-| Night Owl | 44.00% | ~50,130 |
-| Strength in Numbers | 44.00% | ~50,130 |
-| Fog of War | 41.00% | ~46,712 |
-| Stronghold Denied | 39.00% | ~44,433 |
-| Anyone Else? | 38.00% | ~43,294 |
-| Rasputin | 38.00% | ~43,294 |
-| Hydra | 36.00% | ~41,015 |
-| This Belongs to Us Now | 36.00% | ~41,015 |
-| Stronghold | 35.00% | ~39,876 |
-| Leeroy | 33.00% | ~37,597 |
-| Lost Batallion | 33.00% | ~37,597 |
-| This is MY Machine Gun! | 31.00% | ~35,319 |
-| Together As One | 31.00% | ~35,319 |
-| Gavrilo Princip | 27.00% | ~30,761 |
-| Lead Harvest | 25.00% | ~28,483 |
-| Skynet Confirmed | 23.00% | ~26,204 |
-| Kesselschlacht | 22.00% | ~25,065 |
-| Democracy Works! | 20.00% | ~22,786 |
-| Switch, Please! | 19.00% | ~21,647 |
-| I've Seen It All | 18.00% | ~20,508 |
-| Tourist | 18.00% | ~20,508 |
-| At Least This Way I Can Win... | 17.00% | ~19,368 |
-| Oops! | 17.00% | ~19,368 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~18,229 |
+| Immovable Object | 89.00% | ~101,404 |
+| Comeback | 81.00% | ~92,289 |
+| Information is Key | 80.00% | ~91,150 |
+| Unlucky | 71.00% | ~80,895 |
+| Anarchist | 68.00% | ~77,477 |
+| Wallhack | 65.00% | ~74,059 |
+| Steady Supply | 60.00% | ~68,362 |
+| Lucky Shot | 53.00% | ~60,387 |
+| Forward Observer | 52.00% | ~59,247 |
+| Ring Ring! | 52.00% | ~59,247 |
+| Bossing Around | 45.00% | ~51,272 |
+| Frostbite | 45.00% | ~51,272 |
+| Night Owl | 44.00% | ~50,132 |
+| Strength in Numbers | 44.00% | ~50,132 |
+| Fog of War | 41.00% | ~46,714 |
+| Stronghold Denied | 39.00% | ~44,435 |
+| Anyone Else? | 38.00% | ~43,296 |
+| Rasputin | 38.00% | ~43,296 |
+| Hydra | 36.00% | ~41,017 |
+| This Belongs to Us Now | 36.00% | ~41,017 |
+| Stronghold | 35.00% | ~39,878 |
+| Leeroy | 33.00% | ~37,599 |
+| Lost Batallion | 33.00% | ~37,599 |
+| This is MY Machine Gun! | 31.00% | ~35,320 |
+| Together As One | 31.00% | ~35,320 |
+| Gavrilo Princip | 27.00% | ~30,763 |
+| Lead Harvest | 25.00% | ~28,484 |
+| Skynet Confirmed | 23.00% | ~26,206 |
+| Kesselschlacht | 22.00% | ~25,066 |
+| Democracy Works! | 20.00% | ~22,787 |
+| Switch, Please! | 19.00% | ~21,648 |
+| I've Seen It All | 18.00% | ~20,509 |
+| Tourist | 18.00% | ~20,509 |
+| At Least This Way I Can Win... | 17.00% | ~19,369 |
+| Oops! | 17.00% | ~19,369 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~18,230 |
 | Butcher | 12.00% | ~13,672 |
-| Before the Leaves Fall | 10.00% | ~11,393 |
-| Close Call | 10.00% | ~11,393 |
-| Pinpoint | 10.00% | ~11,393 |
+| Before the Leaves Fall | 10.00% | ~11,394 |
+| Close Call | 10.00% | ~11,394 |
+| Pinpoint | 10.00% | ~11,394 |
 | Tannenberg | 9.00% | ~10,254 |
-| For the Emperor | 8.00% | ~9,114 |
-| Hawk Eye | 8.00% | ~9,114 |
-| Hötzendorf | 7.00% | ~7,975 |
+| For the Emperor | 8.00% | ~9,115 |
+| Hawk Eye | 8.00% | ~9,115 |
+| Hötzendorf | 7.00% | ~7,976 |
 | Equality For All | 6.00% | ~6,836 |
 | Crack Shot | 5.00% | ~5,697 |
 | From Russia with Love | 5.00% | ~5,697 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,025 |
 | Road to Berlin | 0.60% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113,931 (Ranked 59)  
+Progressed: 113,937 (Ranked 59)  
 Completed: 22 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 22 (0.02%) (Ranked 195)
 | 2023-06-05 | 113,611 | 22 |
 | 2023-06-06 | 113,764 | 22 |
 | 2023-06-07 | 113,925 | 22 |
-| 2023-06-08 | 113,931 | 22 |
+| 2023-06-08 | 113,937 | 22 |
 ## Awards
 Max (Competitive Players): 324  (Ranked 221)  
 Sum: 2,836 (Ranked 157)  

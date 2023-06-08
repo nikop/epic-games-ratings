@@ -31,8 +31,8 @@
 | Your Highness | 23.00% | ~74 |
 | Event Amateur | 22.00% | ~71 |
 | Drift King! | 20.00% | ~65 |
+| Feeling Hot Hot Hot! | 20.00% | ~65 |
 | Feeling Dizzy? | 20.00% | ~65 |
-| Feeling Hot Hot Hot! | 19.00% | ~61 |
 | Ferry Good! | 19.00% | ~61 |
 | Assert Dominance | 19.00% | ~61 |
 | Speed of light | 19.00% | ~61 |

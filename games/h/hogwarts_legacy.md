@@ -5,21 +5,21 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~22,169 |
-| Grappling with a Graphorn | 7.00% | ~19,398 |
-| The One Who Mastered Memories | 7.00% | ~19,398 |
-| The Hallowed Hero | 7.00% | ~19,398 |
-| The Defender of Dragons | 7.00% | ~19,398 |
-| A Keen Sense of Spell | 7.00% | ~19,398 |
-| Coasting Along | 7.00% | ~19,398 |
-| First Class Student | 7.00% | ~19,398 |
-| Troll with the Punches | 7.00% | ~19,398 |
-| That's a Keeper | 7.00% | ~19,398 |
-| The Hero of Hogwarts | 6.00% | ~16,627 |
-| Challenge Accepted | 6.00% | ~16,627 |
-| Loom for Improvement | 6.00% | ~16,627 |
-| A Talent for Spending | 6.00% | ~16,627 |
-| Rising From the Ashes | 6.00% | ~16,627 |
+| The Sort Who Makes an Entrance | 8.00% | ~22,170 |
+| Grappling with a Graphorn | 7.00% | ~19,399 |
+| The One Who Mastered Memories | 7.00% | ~19,399 |
+| The Hallowed Hero | 7.00% | ~19,399 |
+| The Defender of Dragons | 7.00% | ~19,399 |
+| A Keen Sense of Spell | 7.00% | ~19,399 |
+| Coasting Along | 7.00% | ~19,399 |
+| First Class Student | 7.00% | ~19,399 |
+| Troll with the Punches | 7.00% | ~19,399 |
+| That's a Keeper | 7.00% | ~19,399 |
+| The Hero of Hogwarts | 6.00% | ~16,628 |
+| Challenge Accepted | 6.00% | ~16,628 |
+| Loom for Improvement | 6.00% | ~16,628 |
+| A Talent for Spending | 6.00% | ~16,628 |
+| Rising From the Ashes | 6.00% | ~16,628 |
 | The Avenging Gazelle | 5.00% | ~13,856 |
 | Beast Friends | 5.00% | ~13,856 |
 | A Sallow Grave | 5.00% | ~13,856 |
@@ -30,15 +30,15 @@ Rating: 4.77 (Ranked 107)
 | The Root of the Problem | 4.00% | ~11,085 |
 | Third Time's a Charm | 4.00% | ~11,085 |
 | Raising Expectations | 4.00% | ~11,085 |
-| The Toast of the Town | 3.00% | ~8,313 |
-| Room with a View | 3.00% | ~8,313 |
-| The Intrepid Explorer | 3.00% | ~8,313 |
-| The Ends Petrify the Means | 3.00% | ~8,313 |
-| Going Through the Potions | 2.00% | ~5,542 |
-| Put Down Roots | 2.00% | ~5,542 |
-| Floo Around the World | 2.00% | ~5,542 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,542 |
-| The Wise Owl | 2.00% | ~5,542 |
+| The Toast of the Town | 3.00% | ~8,314 |
+| Room with a View | 3.00% | ~8,314 |
+| The Intrepid Explorer | 3.00% | ~8,314 |
+| The Ends Petrify the Means | 3.00% | ~8,314 |
+| Going Through the Potions | 2.00% | ~5,543 |
+| Put Down Roots | 2.00% | ~5,543 |
+| Floo Around the World | 2.00% | ~5,543 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,543 |
+| The Wise Owl | 2.00% | ~5,543 |
 | The Good Samaritan | 1.00% | ~2,771 |
 | The Auror's Apprentice | 1.00% | ~2,771 |
 | Rise to the Challenges | 1.00% | ~2,771 |
@@ -48,10 +48,10 @@ Rating: 4.77 (Ranked 107)
 | A Forte for Achievement | 0.90% | ~2,494 |
 | Spilled Milk | 0.60% | ~1,663 |
 | Merlin's Beard! | 0.60% | ~1,663 |
-| The Nature of the Beast | 0.40% | ~1,108 |
+| The Nature of the Beast | 0.40% | ~1,109 |
 | Collector's Edition | 0.20% | ~554 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277,114 (Ranked 40)  
+Progressed: 277,129 (Ranked 40)  
 Completed: 390 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,16 +100,16 @@ Completed: 390 (0.14%) (Ranked 156)
 | 2023-06-05 | 276,567 | 388 |
 | 2023-06-06 | 276,816 | 389 |
 | 2023-06-07 | 277,097 | 390 |
-| 2023-06-08 | 277,114 | 390 |
+| 2023-06-08 | 277,129 | 390 |
 ## Awards
 Max (Character Customization): 19,672  (Ranked 18)  
-Sum: 36,413 (Ranked 32)  
+Sum: 36,416 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 19,672 |
 | This game has Great Boss Battles | 9,322 |
-| This game is Great for Beginners | 817 |
+| This game is Great for Beginners | 820 |
 | This game is Relaxing | 816 |
 | This game is Extremely Fun | 813 |
 | This game has Diverse Characters | 792 |
@@ -198,3 +198,4 @@ Diff (max vs sum): -14
 | 2023-06-05 | 4.77 | 19,577 | 36,243 |
 | 2023-06-06 | 4.77 | 19,619 | 36,314 |
 | 2023-06-07 | 4.77 | 19,672 | 36,413 |
+| 2023-06-08 | 4.77 | 19,672 | 36,416 |

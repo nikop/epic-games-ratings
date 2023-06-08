@@ -5,12 +5,12 @@ Rating: 4.00 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,251 |
-| World Map | 80.00% | ~1,065 |
+| Victor | 94.00% | ~1,252 |
+| World Map | 80.00% | ~1,066 |
 | Temple of Eternals | 57.00% | ~759 |
-| Prestigious | 53.00% | ~705 |
+| Prestigious | 53.00% | ~706 |
 | Fellowship Power | 41.00% | ~546 |
-| Guild Power | 24.00% | ~319 |
+| Guild Power | 24.00% | ~320 |
 | Prestigious x10 | 21.00% | ~280 |
 | The game is on | 18.00% | ~240 |
 | Exotic Merchant | 17.00% | ~226 |
@@ -22,16 +22,16 @@ Rating: 4.00 (Ranked 897)
 | Enlightenment | 13.00% | ~173 |
 | Hero inspection | 13.00% | ~173 |
 | Lieutenant | 12.00% | ~160 |
-| Milestone collector | 11.00% | ~146 |
-| Mysterious Rock | 11.00% | ~146 |
-| Natural Talent | 11.00% | ~146 |
-| Superior | 11.00% | ~146 |
-| The Unstoppable | 11.00% | ~146 |
+| Milestone collector | 11.00% | ~147 |
+| Mysterious Rock | 11.00% | ~147 |
+| Natural Talent | 11.00% | ~147 |
+| Superior | 11.00% | ~147 |
+| The Unstoppable | 11.00% | ~147 |
 | Scientist | 9.00% | ~120 |
-| Challenger | 8.00% | ~106 |
-| Daily Quest Completionist | 8.00% | ~106 |
-| Scroll Master | 8.00% | ~106 |
-| The power of Awakening | 8.00% | ~106 |
+| Challenger | 8.00% | ~107 |
+| Daily Quest Completionist | 8.00% | ~107 |
+| Scroll Master | 8.00% | ~107 |
+| The power of Awakening | 8.00% | ~107 |
 | Hunter | 7.00% | ~93 |
 | Mastery | 7.00% | ~93 |
 | Relic Of The Past | 7.00% | ~93 |
@@ -81,7 +81,7 @@ Rating: 4.00 (Ranked 897)
 | Silverwood liberator | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,331 (Ranked 162)  
+Progressed: 1,332 (Ranked 162)  
 Completed: 1 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.08%) (Ranked 172)
 | 2023-06-05 | 1,299 | 1 |
 | 2023-06-06 | 1,309 | 1 |
 | 2023-06-07 | 1,329 | 1 |
-| 2023-06-08 | 1,331 | 1 |
+| 2023-06-08 | 1,332 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 9.00% | ~866 |
 | Defender's Heart | 9.00% | ~866 |
 | Banner over the Citadel | 8.00% | ~770 |
-| Queen's Gratitude | 7.00% | ~673 |
+| Queen's Gratitude | 8.00% | ~770 |
 | Fifth Crusade | 5.00% | ~481 |
 | Embrace of the Abyss | 4.00% | ~385 |
 | Path of the Angel | 4.00% | ~385 |
@@ -174,14 +174,14 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-07 | 9,619 | 0 |
 ## Awards
 Max (Character Customization): 1,656  (Ranked 111)  
-Sum: 6,714 (Ranked 109)  
+Sum: 6,717 (Ranked 109)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,656 |
 | This game is Extremely Fun | 633 |
+| This game has Amazing Characters | 614 |
 | This game is Highly Recommended | 612 |
-| This game has Amazing Characters | 611 |
 | This game has Diverse Characters | 599 |
 | This game has Amazing Storytelling | 594 |
 | This game has Quickly Understood Controls | 553 |
@@ -324,3 +324,4 @@ Diff (max vs sum): 2
 | 2023-06-05 | 4.76 | - | 1,655 | 6,704 |
 | 2023-06-06 | 4.76 | - | 1,655 | 6,710 |
 | 2023-06-07 | 4.76 | - | 1,656 | 6,714 |
+| 2023-06-08 | 4.76 | - | 1,656 | 6,717 |

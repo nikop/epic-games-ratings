@@ -2,7 +2,7 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 475,
+  "Ranking_Rating": 476,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 142,
@@ -486,7 +486,7 @@
   ],
   "EOS_Progressed": 2829,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2344,9 +2344,9 @@
       "ID": "Encyclopedic_30",
       "SetID": "c4hee28",
       "Name": "Encyclopedic!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 538
+      "UsersEstimate": 566
     },
     {
       "ID": "Eureka_23",
@@ -2632,8 +2632,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-08T00:03:25.1831025+00:00",
+  "LastChanged_Achievements": "2023-06-08T02:24:20.8692799+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:58:11.9742251+00:00",
-  "LastUpdate_Achievements": "2023-06-08T00:03:25.1831473+00:00"
+  "LastUpdate_Ratings": "2023-06-08T02:18:52.2919104+00:00",
+  "LastUpdate_Achievements": "2023-06-08T02:24:20.8693259+00:00"
 }

@@ -1307,9 +1307,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "MQ06_2",
@@ -1331,9 +1331,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "MQ07_1",
@@ -1396,8 +1396,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-08T00:04:35.156883+00:00",
+  "LastChanged_Achievements": "2023-06-08T02:25:02.6112531+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:57:35.3598995+00:00",
-  "LastUpdate_Achievements": "2023-06-08T00:04:35.1569254+00:00"
+  "LastUpdate_Ratings": "2023-06-08T02:18:28.4215259+00:00",
+  "LastUpdate_Achievements": "2023-06-08T02:25:02.6112806+00:00"
 }

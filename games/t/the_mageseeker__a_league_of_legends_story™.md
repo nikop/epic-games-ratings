@@ -10,7 +10,7 @@ Rating: 4.79 (Ranked 90)
 | Everfrost | 77.00% | ~1,756 |
 | Pentakill | 76.00% | ~1,733 |
 | Dark Forest | 76.00% | ~1,733 |
-| The use of petricite | 72.00% | ~1,642 |
+| The use of petricite | 73.00% | ~1,664 |
 | You can pet the dog | 60.00% | ~1,368 |
 | Big Helmet Bro | 35.00% | ~798 |
 | Clarion Cove | 35.00% | ~798 |

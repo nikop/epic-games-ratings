@@ -470,9 +470,9 @@
       "ID": "LOADED_LVL_TANK",
       "SetID": "20koof9",
       "Name": "Feeling Hot Hot Hot!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -639,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-08T00:04:29.7660056+00:00",
+  "LastChanged_Achievements": "2023-06-08T02:24:59.0113206+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:01.3501151+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:59:20.8369265+00:00",
-  "LastUpdate_Achievements": "2023-06-08T00:04:29.7660646+00:00"
+  "LastUpdate_Ratings": "2023-06-08T02:19:37.5546625+00:00",
+  "LastUpdate_Achievements": "2023-06-08T02:24:59.0113726+00:00"
 }

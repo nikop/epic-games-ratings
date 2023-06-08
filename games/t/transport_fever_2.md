@@ -24,7 +24,7 @@ Number of Ratings: 180  (23.09.2022)
 | Settled down | 48.00% | ~595 |
 | First electric train arrived | 47.00% | ~582 |
 | First ship arrived | 46.00% | ~570 |
-| Now what? | 45.00% | ~558 |
+| Now what? | 46.00% | ~570 |
 | High speed | 43.00% | ~533 |
 | Transport shark | 40.00% | ~496 |
 | First aircraft arrived | 40.00% | ~496 |

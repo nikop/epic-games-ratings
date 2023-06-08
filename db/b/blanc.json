@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -760,8 +760,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-06-08T00:03:04.8227085+00:00",
+  "LastChanged_Achievements": "2023-06-08T02:24:07.0998584+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:37.2673962+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:59:57.8663522+00:00",
-  "LastUpdate_Achievements": "2023-06-08T00:03:04.8227233+00:00"
+  "LastUpdate_Ratings": "2023-06-08T02:20:02.4893296+00:00",
+  "LastUpdate_Achievements": "2023-06-08T02:24:07.0998904+00:00"
 }

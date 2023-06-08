@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1670,
+  "EOS_Progressed": 1671,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1806,6 +1806,11 @@
       "Time": "2023-06-07T20:03:33.9377749+00:00",
       "NumProgressed": 1670,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T02:24:18.0559118+00:00",
+      "NumProgressed": 1671,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1817,7 +1822,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Achievement_002",
@@ -1833,7 +1838,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Achievement_004",
@@ -1881,7 +1886,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "Achievement_011",
@@ -1953,7 +1958,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "Achievement_020",
@@ -1969,7 +1974,7 @@
       "Name": "Radio Silence",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Achievement_022",
@@ -2017,7 +2022,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "Achievement_028",
@@ -2065,7 +2070,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Achievement_034",
@@ -2073,7 +2078,7 @@
       "Name": "Catch and Release",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Achievement_035",
@@ -2281,7 +2286,7 @@
       "Name": "Helping Hand",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "Achievement_064",
@@ -2344,7 +2349,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1670,
+      "Progressed": 1671,
       "Completed": 0
     }
   ],
@@ -2352,8 +2357,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-05T19:58:09.7958278+00:00",
-  "LastChanged_Achievements": "2023-06-08T00:03:20.2869881+00:00",
+  "LastChanged_Achievements": "2023-06-08T02:24:18.0559114+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:59.53368+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:58:16.6333024+00:00",
-  "LastUpdate_Achievements": "2023-06-08T00:03:20.2870645+00:00"
+  "LastUpdate_Ratings": "2023-06-08T02:18:55.3008107+00:00",
+  "LastUpdate_Achievements": "2023-06-08T02:24:18.0559937+00:00"
 }

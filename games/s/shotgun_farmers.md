@@ -23,10 +23,10 @@
 | 10K | 18.00% | ~17 |
 | Grave Digger | 17.00% | ~7 |
 | Drinking Problem | 14.00% | ~13 |
-| Oh My Gourd | 10.00% | ~4 |
+| Oh My Gourd | 11.00% | ~5 |
+| Skin Of Your Teeth | 9.00% | ~8 |
 | Perfect | 9.00% | ~4 |
 | Expert Survivor | 9.00% | ~4 |
-| Skin Of Your Teeth | 7.00% | ~7 |
 | Summers Here | 7.00% | ~3 |
 | Quadsparagus | 7.00% | ~3 |
 | Quit Horsin' Around | 6.00% | ~6 |

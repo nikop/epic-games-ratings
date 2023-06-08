@@ -534,9 +534,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2869,
+  "EOS_Progressed": 2870,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1684,6 +1684,11 @@
       "Time": "2023-06-07T22:05:37.6249001+00:00",
       "NumProgressed": 2869,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T02:26:51.0706312+00:00",
+      "NumProgressed": 2870,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1711,7 +1716,7 @@
       "Name": "Look Over There!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "BloodAndIron",
@@ -1871,7 +1876,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1919,7 +1924,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "Kills_Streak",
@@ -2119,7 +2124,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -2166,21 +2171,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2869,
+      "Progressed": 2870,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2869,
+      "Progressed": 2870,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-07T10:59:27.9467392+00:00",
-  "LastChanged_Achievements": "2023-06-08T00:07:09.0794419+00:00",
+  "LastChanged_Achievements": "2023-06-08T02:26:51.0706308+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:59:16.5215413+00:00",
-  "LastUpdate_Achievements": "2023-06-08T00:07:09.0795011+00:00"
+  "LastUpdate_Ratings": "2023-06-08T02:19:34.787166+00:00",
+  "LastUpdate_Achievements": "2023-06-08T02:26:51.0706975+00:00"
 }

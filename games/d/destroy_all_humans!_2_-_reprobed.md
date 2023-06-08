@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.55 (Ranked 475)  
+Rating: 4.56 (Ranked 453)  
 Number of Ratings: 90  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 432)  
@@ -50,3 +50,4 @@ Diff (max vs sum): -25
 | 2023-04-09 | 4.58 | - | 34 | 34 |
 | 2023-04-16 | 4.56 | - | 34 | 34 |
 | 2023-05-11 | 4.55 | - | 34 | 34 |
+| 2023-06-08 | 4.56 | - | 34 | 34 |

@@ -16,7 +16,7 @@
 | Soviet town | 17.00% | ~39 |
 | Bucolic city | 13.00% | ~30 |
 | I love books! | 9.00% | ~21 |
-| King of fish | 8.00% | ~18 |
+| King of fish | 9.00% | ~21 |
 | I love parks | 8.00% | ~18 |
 | What would we do if we can't go out with friends? | 8.00% | ~18 |
 | Metropolurbek | 6.00% | ~14 |

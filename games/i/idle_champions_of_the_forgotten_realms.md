@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.90% | ~811 |
 | The Mad Wizard | 0.90% | ~811 |
 | The Court of Storms | 0.90% | ~507 |
-| The Ring of Regeneration | 0.70% | ~630 |
+| The Ring of Regeneration | 0.70% | ~631 |
 | Beware the Jabberwock | 0.70% | ~394 |
 | Were-verpowered | 0.60% | ~540 |
 | Seeking Allies | 0.60% | ~540 |
@@ -40,6 +40,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.30% | ~169 |
 | Frail Doesn't Mean Broken | 0.30% | ~169 |
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~169 |
+| The Sanctum of the Sword | 0.30% | ~169 |
 | Get Back In The Castle | 0.30% | ~169 |
 | Pin and Skewer | 0.30% | ~169 |
 | No One Can Hear You Scream | 0.30% | ~169 |
@@ -83,6 +84,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | First Third Out | 0.20% | ~113 |
 | Second Third Out | 0.20% | ~113 |
 | Third Third Out | 0.20% | ~113 |
+| Slack-jawed Lorna | 0.20% | ~113 |
 | A Steadfast Love | 0.20% | ~113 |
 | The Fairy Rings of Thither | 0.20% | ~113 |
 | Zarak's Revenge | 0.20% | ~113 |
@@ -113,7 +115,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Weak Doesn't Mean Feeble | 0.20% | ~113 |
 | The Castle of a Thousand Vecnas | 0.20% | ~113 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~113 |
-| The Sanctum of the Sword | 0.20% | ~113 |
 | Kas the Bloody Handed | 0.20% | ~113 |
 | Bully for Vecna | 0.20% | ~113 |
 | Who Lurks Below? | 0.20% | ~113 |
@@ -234,6 +235,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Battle of High Hall Tower | 0.20% | ~113 |
 | Gargauth's Betrayal | 0.20% | ~113 |
 | Ending the Rime - Part 1 | 0.20% | ~113 |
+| Ending the Rime - Part 2 | 0.20% | ~113 |
 | The Rite of the Arcane Octad | 0.20% | ~113 |
 | An Icewind Dale Reunion | 0.20% | ~113 |
 | The Netherese Necropolis | 0.20% | ~113 |
@@ -254,7 +256,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.10% | ~56 |
 | Icequake | 0.10% | ~56 |
 | A Lesson in Classes | 0.10% | ~56 |
-| Slack-jawed Lorna | 0.10% | ~56 |
 | I'm Sure I Saw It Move! | 0.10% | ~56 |
 | End of the Line | 0.10% | ~56 |
 | The Dark Heart | 0.10% | ~56 |
@@ -481,7 +482,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Volo's Guide to Kuo-toa | 0.10% | ~56 |
 | Ambitious Speakers - Part 1 | 0.10% | ~56 |
 | Shady Sidekicks - Part 1 | 0.10% | ~56 |
-| Ending the Rime - Part 2 | 0.10% | ~56 |
 | Ambitious Speakers - Part 2 | 0.10% | ~56 |
 | Shady Sidekicks - Part 2 | 0.10% | ~56 |
 | Reghed Glacier Mysteries | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,060 (Ranked 62)  
+Progressed: 90,073 (Ranked 62)  
 Completed: 1,922 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
-| 2023-06-08 | 90,060 | 1,922 |
+| 2023-06-08 | 90,073 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,049 (Ranked 37)  

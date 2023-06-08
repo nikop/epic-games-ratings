@@ -5,30 +5,30 @@ Rating: 4.34 (Ranked 735)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~968 |
-| Ranidaphobia | 75.00% | ~789 |
-| Aspiring Editor | 72.00% | ~757 |
-| Gun for Hire | 67.00% | ~705 |
+| First Blood | 92.00% | ~969 |
+| Ranidaphobia | 75.00% | ~790 |
+| Aspiring Editor | 72.00% | ~758 |
+| Gun for Hire | 67.00% | ~706 |
 | I am the law! | 59.00% | ~621 |
-| Lumberjack | 45.00% | ~473 |
+| Lumberjack | 45.00% | ~474 |
 | Croaked | 40.00% | ~421 |
-| Limp Richard | 39.00% | ~410 |
+| Limp Richard | 39.00% | ~411 |
 | From Darkness to Light | 38.00% | ~400 |
-| Exorcist | 37.00% | ~389 |
-| Firestarter | 37.00% | ~389 |
+| Exorcist | 37.00% | ~390 |
+| Firestarter | 37.00% | ~390 |
 | Editor Adept | 36.00% | ~379 |
 | Giant Killer | 33.00% | ~347 |
 | Sensei | 32.00% | ~337 |
 | The meaning of Kain | 30.00% | ~316 |
 | Technophobe | 27.00% | ~284 |
 | Recycler | 25.00% | ~263 |
-| Are you not entertained? | 22.00% | ~231 |
+| Are you not entertained? | 22.00% | ~232 |
 | Ganglord | 21.00% | ~221 |
 | Jarhead | 21.00% | ~221 |
-| Infiltrator | 20.00% | ~210 |
-| Pushing Daisy | 20.00% | ~210 |
+| Infiltrator | 20.00% | ~211 |
+| Pushing Daisy | 20.00% | ~211 |
 | Chain Killer | 19.00% | ~200 |
-| There Can Be Only One! | 18.00% | ~189 |
+| There Can Be Only One! | 18.00% | ~190 |
 | Experienced | 17.00% | ~179 |
 | Hold The Line | 17.00% | ~179 |
 | Endgame | 14.00% | ~147 |
@@ -36,7 +36,7 @@ Rating: 4.34 (Ranked 735)
 | Savior | 14.00% | ~147 |
 | The Watchers | 13.00% | ~137 |
 | Ruthless | 12.00% | ~126 |
-| Dr Jones | 10.00% | ~105 |
+| Dr Jones | 9.00% | ~95 |
 | Chaos Theory | 8.00% | ~84 |
 | Commando | 8.00% | ~84 |
 | Chain Reaction | 7.00% | ~74 |
@@ -57,7 +57,7 @@ Rating: 4.34 (Ranked 735)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,052 (Ranked 171)  
+Progressed: 1,053 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 1,035 | 0 |
 | 2023-06-06 | 1,041 | 0 |
 | 2023-06-07 | 1,051 | 0 |
-| 2023-06-08 | 1,052 | 0 |
+| 2023-06-08 | 1,053 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

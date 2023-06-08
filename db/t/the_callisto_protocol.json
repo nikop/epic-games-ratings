@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -560,9 +560,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14705,
+  "EOS_Progressed": 14711,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3120,6 +3120,11 @@
       "Time": "2023-06-08T00:04:41.1705244+00:00",
       "NumProgressed": 14705,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-08T02:25:06.7950694+00:00",
+      "NumProgressed": 14711,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3147,7 +3152,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3235,7 +3240,7 @@
       "Name": "Get a Grip",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3259,7 +3264,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "KILL_ROBOT",
@@ -3267,7 +3272,7 @@
       "Name": "Terminated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3275,7 +3280,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3299,7 +3304,7 @@
       "Name": "Reforged",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3307,7 +3312,7 @@
       "Name": "Paper Jams",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3331,7 +3336,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "STORY_HABITAT",
@@ -3339,7 +3344,7 @@
       "Name": "Without A Paddle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "STORY_HANGAR",
@@ -3450,13 +3455,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14705,
+      "Progressed": 14711,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2631,
+      "Progressed": 2637,
       "Completed": 29
     }
   ],
@@ -3464,8 +3469,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-07T20:58:04.7980908+00:00",
-  "LastChanged_Achievements": "2023-06-08T00:04:41.1705237+00:00",
+  "LastChanged_Achievements": "2023-06-08T02:25:06.795069+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:58:20.2507933+00:00",
-  "LastUpdate_Achievements": "2023-06-08T00:04:41.1705797+00:00"
+  "LastUpdate_Ratings": "2023-06-08T02:18:57.6939233+00:00",
+  "LastUpdate_Achievements": "2023-06-08T02:25:06.7951172+00:00"
 }

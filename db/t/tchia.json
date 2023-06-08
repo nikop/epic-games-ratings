@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6349,
+  "EOS_Progressed": 6350,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
@@ -3118,6 +3118,11 @@
       "Time": "2023-06-07T21:06:02.2189334+00:00",
       "NumProgressed": 6349,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-08T02:26:24.5055795+00:00",
+      "NumProgressed": 6350,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -3129,7 +3134,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ARRR",
@@ -3145,7 +3150,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -3161,7 +3166,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "CLAY_PIGEON",
@@ -3191,9 +3196,9 @@
       "ID": "FASHION_VICTIM",
       "SetID": "3cck1g6",
       "Name": "Fashion Victim",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 127
+      "UsersEstimate": 190
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -3225,7 +3230,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "IN_A_PINCH",
@@ -3257,7 +3262,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "SNIP_SNIP",
@@ -3281,7 +3286,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "THING",
@@ -3289,14 +3294,14 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6349,
+      "Progressed": 6350,
       "Completed": 23
     }
   ],
@@ -3304,8 +3309,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-08T00:06:33.8186608+00:00",
+  "LastChanged_Achievements": "2023-06-08T02:26:24.5055791+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-07T23:58:23.8384336+00:00",
-  "LastUpdate_Achievements": "2023-06-08T00:06:33.8187342+00:00"
+  "LastUpdate_Ratings": "2023-06-08T02:19:00.097252+00:00",
+  "LastUpdate_Achievements": "2023-06-08T02:26:24.5056122+00:00"
 }
