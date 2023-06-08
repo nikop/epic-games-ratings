@@ -1,28 +1,28 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.71 (Ranked 179)  
+Rating: 4.71 (Ranked 180)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,143 |
-| What should I buy? | 83.00% | ~6,375 |
-| Focus! | 62.00% | ~4,762 |
-| Rescued Elder Ent | 62.00% | ~4,762 |
-| The End of the Gold Mane Knights | 47.00% | ~3,610 |
+| The Legend Begins | 93.00% | ~7,145 |
+| What should I buy? | 83.00% | ~6,377 |
+| Focus! | 62.00% | ~4,763 |
+| Rescued Elder Ent | 62.00% | ~4,763 |
+| The End of the Gold Mane Knights | 47.00% | ~3,611 |
 | Rules of Etiquette | 39.00% | ~2,996 |
-| False Goddess, Disappear | 38.00% | ~2,919 |
+| False Goddess, Disappear | 38.00% | ~2,920 |
 | Quick Movements | 33.00% | ~2,535 |
 | Inventory Management | 33.00% | ~2,535 |
-| The Fall of the Leonia Order | 29.00% | ~2,227 |
+| The Fall of the Leonia Order | 29.00% | ~2,228 |
 | The Hero Killer | 27.00% | ~2,074 |
-| Go Home... | 26.00% | ~1,997 |
-| The Final Battle of the First Hero | 25.00% | ~1,920 |
+| Go Home... | 26.00% | ~1,998 |
+| The Final Battle of the First Hero | 25.00% | ~1,921 |
 | Brain at Full Throttle | 22.00% | ~1,690 |
-| Rookies Welcome | 20.00% | ~1,536 |
+| Rookies Welcome | 20.00% | ~1,537 |
 | Deadly Power | 15.00% | ~1,152 |
-| Castle Restoration Plans | 14.00% | ~1,075 |
+| Castle Restoration Plans | 14.00% | ~1,076 |
 | The Dwarven Chandelier | 12.00% | ~922 |
 | Master of Speed | 9.00% | ~691 |
 | The Levitator | 6.00% | ~461 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~77 |
 | Cold-Blooded | 0.80% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,681 (Ranked 115)  
+Progressed: 7,683 (Ranked 115)  
 Completed: 11 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 11 (0.14%) (Ranked 156)
 | 2023-06-05 | 7,633 | 11 |
 | 2023-06-06 | 7,651 | 11 |
 | 2023-06-07 | 7,672 | 11 |
-| 2023-06-08 | 7,681 | 11 |
+| 2023-06-08 | 7,683 | 11 |
 ## Awards
 Max (Diverse Characters): 115  (Ranked 312)  
 Sum: 760 (Ranked 254)  

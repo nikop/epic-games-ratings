@@ -240,9 +240,9 @@
       "ID": "2002_achv_burnswamp",
       "SetID": "dhn82m5",
       "Name": "I didn\u0027t do it!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "2002_achv_feedfish",
@@ -433,8 +433,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-06-08T11:04:17.0859799+00:00",
+  "LastChanged_Achievements": "2023-06-08T12:03:16.8729784+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:42.3677383+00:00",
-  "LastUpdate_Ratings": "2023-06-08T11:00:38.0938433+00:00",
-  "LastUpdate_Achievements": "2023-06-08T11:04:17.0860548+00:00"
+  "LastUpdate_Ratings": "2023-06-08T11:59:51.1735494+00:00",
+  "LastUpdate_Achievements": "2023-06-08T12:03:16.8730187+00:00"
 }

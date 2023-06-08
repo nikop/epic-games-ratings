@@ -7,7 +7,7 @@
 | Chapter I | 48.00% | ~44 |
 | Fire in the... nevermind | 48.00% | ~44 |
 | Haute cuisine | 45.00% | ~41 |
-| I didn't do it! | 40.00% | ~36 |
+| I didn't do it! | 41.00% | ~37 |
 | Keep away from children | 36.00% | ~33 |
 | Demolition expert | 35.00% | ~32 |
 | Wooooooow! | 34.00% | ~31 |

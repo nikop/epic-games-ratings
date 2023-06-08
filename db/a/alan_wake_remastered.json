@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 52821,
+  "EOS_Progressed": 52823,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 1852,
+  "EOS_NewPlayers": 1838,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4151,6 +4151,11 @@
       "Time": "2023-06-08T11:07:38.3520961+00:00",
       "NumProgressed": 52821,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-06-08T12:06:23.4055294+00:00",
+      "NumProgressed": 52823,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 67,
@@ -4162,7 +4167,7 @@
       "Name": "Follow the Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 15318
+      "UsersEstimate": 15319
     },
     {
       "ID": "02",
@@ -4266,7 +4271,7 @@
       "Name": "Gatekeeper",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "15",
@@ -4274,7 +4279,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "16",
@@ -4394,7 +4399,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "31",
@@ -4402,7 +4407,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5810
+      "UsersEstimate": 5811
     },
     {
       "ID": "32",
@@ -4426,7 +4431,7 @@
       "Name": "Energized!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "35",
@@ -4626,7 +4631,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "60",
@@ -4697,21 +4702,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 52821,
+      "Progressed": 52823,
       "Completed": 50
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 16289,
+      "Progressed": 16291,
       "Completed": 32
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-06-08T11:07:38.3520956+00:00",
+  "LastChanged_Achievements": "2023-06-08T12:06:23.4055287+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:48.7333402+00:00",
-  "LastUpdate_Ratings": "2023-06-08T10:58:31.2034936+00:00",
-  "LastUpdate_Achievements": "2023-06-08T11:07:38.3522266+00:00"
+  "LastUpdate_Ratings": "2023-06-08T11:58:02.4643613+00:00",
+  "LastUpdate_Achievements": "2023-06-08T12:06:23.4056275+00:00"
 }

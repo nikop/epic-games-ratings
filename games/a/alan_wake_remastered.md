@@ -6,7 +6,7 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 29.00% | ~15,318 |
+| Follow the Light | 29.00% | ~15,319 |
 | Let There Be Light | 23.00% | ~12,149 |
 | Float Like a Butterfly | 22.00% | ~11,621 |
 | Nordic Walking | 17.00% | ~8,980 |
@@ -15,7 +15,7 @@ Number of Ratings: 524  (23.09.2022)
 | Park Ranger | 12.00% | ~6,339 |
 | Finders Keepers | 12.00% | ~6,339 |
 | Paging Mr. Wake | 12.00% | ~6,339 |
-| Back! Back, I Say! | 11.00% | ~5,810 |
+| Back! Back, I Say! | 11.00% | ~5,811 |
 | They're Heeeeeere! | 10.00% | ~5,282 |
 | Sound and Fury | 10.00% | ~5,282 |
 | Missed by a Mile | 10.00% | ~5,282 |
@@ -30,16 +30,16 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 8.00% | ~4,226 |
 | Thunder and Lightning | 8.00% | ~4,226 |
 | A Friend in Need | 8.00% | ~1,303 |
-| Gatekeeper | 7.00% | ~3,697 |
-| The Lady of the Light | 7.00% | ~3,697 |
-| Two For the Price of One | 7.00% | ~3,697 |
-| Energized! | 7.00% | ~3,697 |
+| Gatekeeper | 7.00% | ~3,698 |
+| The Lady of the Light | 7.00% | ~3,698 |
+| Two For the Price of One | 7.00% | ~3,698 |
+| Energized! | 7.00% | ~3,698 |
 | What Light Through Yonder Window | 6.00% | ~3,169 |
 | Right of Way | 6.00% | ~3,169 |
 | A Friend Indeed | 6.00% | ~977 |
 | Tornado Wrangler | 5.00% | ~2,641 |
 | Departure | 5.00% | ~2,641 |
-| Ding! | 5.00% | ~814 |
+| Ding! | 5.00% | ~815 |
 | Drink 'Em Both Up | 4.00% | ~2,113 |
 | Hardboiled Writer | 4.00% | ~2,113 |
 | Boob Tube | 3.00% | ~1,585 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~53 |
 | No Punctuation | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,821 (Ranked 76)  
+Progressed: 52,823 (Ranked 76)  
 Completed: 50 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 50 (0.09%) (Ranked 169)
 | 2023-06-05 | 52,335 | 49 |
 | 2023-06-06 | 52,515 | 50 |
 | 2023-06-07 | 52,722 | 50 |
-| 2023-06-08 | 52,821 | 50 |
+| 2023-06-08 | 52,823 | 50 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

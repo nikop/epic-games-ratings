@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5446,
+  "EOS_Progressed": 5447,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2191,6 +2191,11 @@
       "Time": "2023-06-08T09:03:38.9920655+00:00",
       "NumProgressed": 5446,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-08T12:04:02.6048819+00:00",
+      "NumProgressed": 5447,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -2624,9 +2629,9 @@
       "ID": "TM_Derek",
       "SetID": "bmkn7o4",
       "Name": "The Muse: Derek",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "TM_Frank",
@@ -2753,21 +2758,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2485,
+      "Progressed": 2486,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5446,
+      "Progressed": 5447,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-08T11:04:57.8072776+00:00",
+  "LastChanged_Achievements": "2023-06-08T12:04:02.6048813+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:26.4491447+00:00",
-  "LastUpdate_Ratings": "2023-06-08T10:58:08.782861+00:00",
-  "LastUpdate_Achievements": "2023-06-08T11:04:57.8073715+00:00"
+  "LastUpdate_Ratings": "2023-06-08T11:57:42.9229914+00:00",
+  "LastUpdate_Achievements": "2023-06-08T12:04:02.6049687+00:00"
 }

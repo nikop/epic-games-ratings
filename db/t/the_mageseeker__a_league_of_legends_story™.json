@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2283,
+  "EOS_Progressed": 2284,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2342,6 +2342,11 @@
       "Time": "2023-06-08T11:07:39.7584609+00:00",
       "NumProgressed": 2283,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T12:06:24.5568603+00:00",
+      "NumProgressed": 2284,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2417,7 +2422,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2169
+      "UsersEstimate": 2170
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2433,7 +2438,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2473,7 +2478,7 @@
       "Name": "Past trauma",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -2489,7 +2494,7 @@
       "Name": "Old friend",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2529,7 +2534,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2537,7 +2542,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2569,7 +2574,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2577,7 +2582,7 @@
       "Name": "Thornbarrow",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2593,7 +2598,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2601,7 +2606,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2649,7 +2654,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "STB_PET_DOG",
@@ -2681,7 +2686,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -2689,7 +2694,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2727,9 +2732,9 @@
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
       "SetID": "3pe2bac",
       "Name": "The use of petricite",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1667
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2769,14 +2774,14 @@
       "Name": "Petricite Burst",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2283,
+      "Progressed": 2284,
       "Completed": 1
     }
   ],
@@ -2784,8 +2789,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-05T19:57:57.2340443+00:00",
-  "LastChanged_Achievements": "2023-06-08T11:07:39.7584603+00:00",
+  "LastChanged_Achievements": "2023-06-08T12:06:24.5568597+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.5523883+00:00",
-  "LastUpdate_Ratings": "2023-06-08T10:58:27.4652955+00:00",
-  "LastUpdate_Achievements": "2023-06-08T11:07:39.758525+00:00"
+  "LastUpdate_Ratings": "2023-06-08T11:57:59.1970154+00:00",
+  "LastUpdate_Achievements": "2023-06-08T12:06:24.5569281+00:00"
 }

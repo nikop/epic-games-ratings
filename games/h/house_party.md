@@ -34,6 +34,7 @@ Number of Ratings: 177  (23.09.2022)
 | Love Conquers All | 0.20% | ~11 |
 | Now It's a Party! | 0.20% | ~11 |
 | Rachael | 0.20% | ~11 |
+| The Muse: Derek | 0.20% | ~11 |
 | Vickie | 0.20% | ~11 |
 | Good Ol' Days | 0.20% | ~11 |
 | Te Amo Lety | 0.20% | ~11 |
@@ -63,7 +64,6 @@ Number of Ratings: 177  (23.09.2022)
 | Ronin | 0.10% | ~5 |
 | Do You Smell Blood? | 0.10% | ~5 |
 | A Striking Resemblance | 0.10% | ~5 |
-| The Muse: Derek | 0.10% | ~5 |
 | Howz It Goin Dood | 0.10% | ~5 |
 | The Crush(es) | 0.10% | ~5 |
 | La Coochadora | 0.10% | ~5 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,446 (Ranked 125)  
+Progressed: 5,447 (Ranked 125)  
 Completed: 3 (0.06%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 3 (0.06%) (Ranked 179)
 | 2023-06-05 | 5,402 | 3 |
 | 2023-06-06 | 5,417 | 3 |
 | 2023-06-07 | 5,438 | 3 |
-| 2023-06-08 | 5,446 | 3 |
+| 2023-06-08 | 5,447 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

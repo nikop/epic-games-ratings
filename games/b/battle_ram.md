@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| START | 86.00% | ~31 |
-| Ram Corporal | 78.00% | ~28 |
-| Ram Sergeant | 53.00% | ~19 |
-| Ram Staff Sergeant | 50.00% | ~18 |
-| Ram First Sergeant | 42.00% | ~15 |
-| Senior Sergeant Baran | 42.00% | ~15 |
-| Sergeant Major Baran | 31.00% | ~11 |
-| Senior warrant officer Baran 3rd class | 19.00% | ~7 |
-| Senior warrant officer Baran 4th class | 19.00% | ~7 |
-| Junior Lieutenant Baran | 19.00% | ~7 |
-| Senior warrant officer Baran 1st class | 19.00% | ~7 |
-| Senior warrant officer Baran 2nd class | 19.00% | ~7 |
-| Baran Senior Warrant Officer Grade 5 | 17.00% | ~6 |
-| Senior Lieutenant Baran | 14.00% | ~5 |
-| Captain Baran | 6.00% | ~2 |
-| Senior Major Baran | 6.00% | ~2 |
-| Lieutenant Colonel Baran | 6.00% | ~2 |
+| START | 86.00% | ~32 |
+| Ram Corporal | 78.00% | ~29 |
+| Ram Sergeant | 54.00% | ~20 |
+| Ram Staff Sergeant | 51.00% | ~19 |
+| Ram First Sergeant | 43.00% | ~16 |
+| Senior Sergeant Baran | 43.00% | ~16 |
+| Sergeant Major Baran | 32.00% | ~12 |
+| Senior warrant officer Baran 3rd class | 22.00% | ~8 |
+| Senior warrant officer Baran 4th class | 22.00% | ~8 |
+| Junior Lieutenant Baran | 22.00% | ~8 |
+| Senior warrant officer Baran 1st class | 22.00% | ~8 |
+| Senior warrant officer Baran 2nd class | 22.00% | ~8 |
+| Baran Senior Warrant Officer Grade 5 | 19.00% | ~7 |
+| Senior Lieutenant Baran | 16.00% | ~6 |
+| Captain Baran | 5.00% | ~2 |
+| Senior Major Baran | 5.00% | ~2 |
+| Lieutenant Colonel Baran | 5.00% | ~2 |
 | Colonel Baran | 0.00% | ~0 |
 | Brigadier General Baran | 0.00% | ~0 |
 | Lieutenant General Baran | 0.00% | ~0 |
 | EMERAID RAM | 0.00% | ~0 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 321)  
+Progressed: 37 (Ranked 317)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -43,4 +43,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 24 | 0 |
 | 2023-06-06 | 28 | 0 |
 | 2023-06-07 | 35 | 0 |
-| 2023-06-08 | 36 | 0 |
+| 2023-06-08 | 37 | 0 |

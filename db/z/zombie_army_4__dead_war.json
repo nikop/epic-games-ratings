@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1611,9 +1611,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42649,
+  "EOS_Progressed": 42650,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3396,6 +3396,11 @@
       "Time": "2023-06-08T11:07:55.8128329+00:00",
       "NumProgressed": 42649,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-08T12:06:39.1750878+00:00",
+      "NumProgressed": 42650,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -3431,7 +3436,7 @@
       "Name": "Plane sailing",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "SE_COMPLETE_A_LEVEL_WITH_5_GOLD_SKILLS",
@@ -3471,7 +3476,7 @@
       "Name": "This is no Sunday School picnic!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "SE_COMPLETE_CROATIA",
@@ -3495,7 +3500,7 @@
       "Name": "I never redoubted you!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "SE_COMPLETE_DEEPER_THAN_HELL",
@@ -3519,7 +3524,7 @@
       "Name": "People don\u0027t change. We go round in circles",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "SE_COMPLETE_HELLBASE",
@@ -3527,7 +3532,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13221
+      "UsersEstimate": 13222
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -3551,7 +3556,7 @@
       "Name": "The blighters got through a second time.",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_HELLBASE",
@@ -3599,7 +3604,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26442
+      "UsersEstimate": 26443
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3631,7 +3636,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13221
+      "UsersEstimate": 13222
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -3671,7 +3676,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13221
+      "UsersEstimate": 13222
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -3711,7 +3716,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21324
+      "UsersEstimate": 21325
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -3735,7 +3740,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 29001
+      "UsersEstimate": 29002
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -3743,7 +3748,7 @@
       "Name": "Gotcha, didn\u0027t I?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "SE_KILL_A_ZOMBIE_PLAYER",
@@ -3767,7 +3772,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23883
+      "UsersEstimate": 23884
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -3791,7 +3796,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11515
+      "UsersEstimate": 11516
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -3823,7 +3828,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7250
+      "UsersEstimate": 7251
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -3831,7 +3836,7 @@
       "Name": "A gross gross",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "SE_PERFORM_ALL_HEROIC_ACTIONS",
@@ -3855,7 +3860,7 @@
       "Name": "Hail to the king, baby!",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "SE_REACH_RANK_5",
@@ -3879,7 +3884,7 @@
       "Name": "I\u0027m a survivor!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "SE_REACH_WAVE_X_WITH_PISTOL",
@@ -3911,7 +3916,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6397
+      "UsersEstimate": 6398
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -3934,15 +3939,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42649,
+      "Progressed": 42650,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-08T05:00:07.9659591+00:00",
-  "LastChanged_Achievements": "2023-06-08T11:07:55.8128323+00:00",
+  "LastChanged_Achievements": "2023-06-08T12:06:39.1750872+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.3124724+00:00",
-  "LastUpdate_Ratings": "2023-06-08T11:01:12.3222354+00:00",
-  "LastUpdate_Achievements": "2023-06-08T11:07:55.8129067+00:00"
+  "LastUpdate_Ratings": "2023-06-08T12:00:21.226648+00:00",
+  "LastUpdate_Achievements": "2023-06-08T12:06:39.1751613+00:00"
 }

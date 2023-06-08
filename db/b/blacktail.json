@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 457,
+  "EOS_Progressed": 458,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -789,6 +789,11 @@
       "Time": "2023-06-08T07:05:09.4770484+00:00",
       "NumProgressed": 457,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T12:06:16.3836343+00:00",
+      "NumProgressed": 458,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -832,7 +837,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Devoted",
@@ -862,9 +867,9 @@
       "ID": "Favourite",
       "SetID": "2aagp3d",
       "Name": "Favorite",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "FisherKing",
@@ -1055,7 +1060,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 457,
+      "Progressed": 458,
       "Completed": 1
     }
   ],
@@ -1063,8 +1068,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-08T11:07:30.6410642+00:00",
+  "LastChanged_Achievements": "2023-06-08T12:06:16.3836336+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:01.7126872+00:00",
-  "LastUpdate_Ratings": "2023-06-08T10:58:45.953924+00:00",
-  "LastUpdate_Achievements": "2023-06-08T11:07:30.6411013+00:00"
+  "LastUpdate_Ratings": "2023-06-08T11:58:15.1158622+00:00",
+  "LastUpdate_Achievements": "2023-06-08T12:06:16.3836615+00:00"
 }

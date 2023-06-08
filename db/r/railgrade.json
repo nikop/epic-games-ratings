@@ -438,9 +438,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18881,
+  "EOS_Progressed": 18882,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2688,6 +2688,11 @@
       "Time": "2023-06-08T10:05:33.7148158+00:00",
       "NumProgressed": 18881,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-08T12:06:19.9357713+00:00",
+      "NumProgressed": 18882,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -2731,7 +2736,7 @@
       "Name": "Builder",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 15482
+      "UsersEstimate": 15483
     },
     {
       "ID": "ach.060.goingdistance",
@@ -2771,7 +2776,7 @@
       "Name": "Indecisive",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5475
+      "UsersEstimate": 5476
     },
     {
       "ID": "ach.110.multiverse",
@@ -2795,7 +2800,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 16993
+      "UsersEstimate": 16994
     },
     {
       "ID": "ach.140.legacy",
@@ -2803,7 +2808,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18503
+      "UsersEstimate": 18504
     },
     {
       "ID": "ach.150.pocket",
@@ -2891,7 +2896,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17559
+      "UsersEstimate": 17560
     },
     {
       "ID": "ach.260.investor",
@@ -2955,7 +2960,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17182
+      "UsersEstimate": 17183
     },
     {
       "ID": "ach.340.steel",
@@ -2994,7 +2999,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18881,
+      "Progressed": 18882,
       "Completed": 30
     }
   ],
@@ -3002,8 +3007,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-06-04T19:59:14.0053535+00:00",
-  "LastChanged_Achievements": "2023-06-08T11:07:34.6561664+00:00",
+  "LastChanged_Achievements": "2023-06-08T12:06:19.9357707+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:43.1095649+00:00",
-  "LastUpdate_Ratings": "2023-06-08T11:00:37.1160665+00:00",
-  "LastUpdate_Achievements": "2023-06-08T11:07:34.6562356+00:00"
+  "LastUpdate_Ratings": "2023-06-08T11:59:50.3350541+00:00",
+  "LastUpdate_Achievements": "2023-06-08T12:06:19.9358216+00:00"
 }

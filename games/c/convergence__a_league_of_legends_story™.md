@@ -9,6 +9,7 @@
 | The Steel Shadow | 3.00% | ~19 |
 | Like Clockwork | 3.00% | ~19 |
 | Street Style | 3.00% | ~19 |
+| Family Memories | 3.00% | ~19 |
 | The Betrayer | 3.00% | ~19 |
 | The Man Who Shattered Time | 3.00% | ~19 |
 | The Loose Cannon | 3.00% | ~19 |
@@ -21,7 +22,6 @@
 | Immaculate Aim | 3.00% | ~19 |
 | The Family Fortune | 3.00% | ~19 |
 | Chaincrawler Explorer | 2.00% | ~13 |
-| Family Memories | 2.00% | ~13 |
 | The Mysterious Stranger | 2.00% | ~13 |
 | Whiz Kid | 2.00% | ~13 |
 | Rail Rat | 2.00% | ~13 |

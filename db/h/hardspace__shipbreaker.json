@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 725,
+  "EOS_Progressed": 726,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -848,6 +848,11 @@
       "Time": "2023-06-08T10:02:07.9443166+00:00",
       "NumProgressed": 725,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T12:01:49.4880577+00:00",
+      "NumProgressed": 726,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -857,9 +862,9 @@
       "ID": "ACH_ACT_1_COMPLETE",
       "SetID": "108h92c",
       "Name": "Act I Complete",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -891,7 +896,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -923,7 +928,7 @@
       "Name": "Bing Bang BOOM",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -939,7 +944,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -955,7 +960,7 @@
       "Name": "Critical Thinker",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -987,15 +992,15 @@
       "Name": "Ghost in the Ship",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_ITS_HEATING_UP",
       "SetID": "108h92c",
       "Name": "It\u2019s Heating up!",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 494
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1011,7 +1016,7 @@
       "Name": "I can fix it!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1019,7 +1024,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1074,7 +1079,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 725,
+      "Progressed": 726,
       "Completed": 0
     }
   ],
@@ -1082,8 +1087,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-08T11:03:14.1002451+00:00",
+  "LastChanged_Achievements": "2023-06-08T12:01:49.4880572+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:38.9499869+00:00",
-  "LastUpdate_Ratings": "2023-06-08T10:58:21.2134931+00:00",
-  "LastUpdate_Achievements": "2023-06-08T11:03:14.1002704+00:00"
+  "LastUpdate_Ratings": "2023-06-08T11:57:53.9420542+00:00",
+  "LastUpdate_Achievements": "2023-06-08T12:01:49.4880828+00:00"
 }

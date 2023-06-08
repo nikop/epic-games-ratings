@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -955,10 +955,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 661,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-06-08T12:00:29.6040212+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 662,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 661,
+  "NumberOfAwards": 662,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -978,7 +984,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5082,9 +5088,9 @@
       "ID": "14",
       "SetID": "8idi9ml",
       "Name": "Famous Explorer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2114
     },
     {
       "ID": "15",
@@ -5521,9 +5527,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-06-06T19:00:11.8041738+00:00",
-  "LastChanged_Achievements": "2023-06-08T11:03:01.4602327+00:00",
+  "LastChanged": "2023-06-08T12:00:29.6040209+00:00",
+  "LastChanged_Achievements": "2023-06-08T12:01:38.5171004+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-08T11:01:22.0091318+00:00",
-  "LastUpdate_Achievements": "2023-06-08T11:03:01.4603087+00:00"
+  "LastUpdate_Ratings": "2023-06-08T12:00:29.6040216+00:00",
+  "LastUpdate_Achievements": "2023-06-08T12:01:38.5171835+00:00"
 }

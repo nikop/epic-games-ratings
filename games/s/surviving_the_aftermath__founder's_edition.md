@@ -14,8 +14,8 @@ Number of Ratings: 836  (23.09.2022)
 | Adventurer | 41.00% | ~2,550 |
 | Famous Healer | 38.00% | ~2,363 |
 | Local Leader | 35.00% | ~2,177 |
+| Famous Explorer | 34.00% | ~2,114 |
 | New Opportunities | 34.00% | ~2,114 |
-| Famous Explorer | 33.00% | ~2,052 |
 | Energized | 33.00% | ~2,052 |
 | The Long Haul | 33.00% | ~2,052 |
 | The Great Healer | 31.00% | ~1,928 |
@@ -118,12 +118,12 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-08 | 6,219 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 327)  
-Sum: 661 (Ranked 270)  
+Sum: 662 (Ranked 270)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 99 |
-| This game has Amazing Storytelling | 84 |
+| This game has Amazing Storytelling | 85 |
 | This game is Great for Beginners | 84 |
 | This game is Relaxing | 80 |
 | This game has Quickly Understood Controls | 78 |
@@ -223,3 +223,4 @@ Diff (max vs sum): 57
 | 2023-06-03 | 4.47 | - | 99 | 657 |
 | 2023-06-05 | 4.47 | - | 99 | 659 |
 | 2023-06-06 | 4.47 | - | 99 | 661 |
+| 2023-06-08 | 4.47 | - | 99 | 662 |

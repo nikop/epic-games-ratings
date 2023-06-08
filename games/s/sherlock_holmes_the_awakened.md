@@ -13,7 +13,7 @@
 | A Method To His Madness | 47.00% | ~187 |
 | The New World | 44.00% | ~175 |
 | Lock, Stock, And Barrel | 43.00% | ~171 |
-| Gaze Into The Abyss | 42.00% | ~167 |
+| Gaze Into The Abyss | 43.00% | ~171 |
 | Open Sesame | 42.00% | ~167 |
 | Sticky Fingers | 42.00% | ~167 |
 | Knives Out | 42.00% | ~167 |
@@ -21,10 +21,10 @@
 | Land, Ho! | 41.00% | ~163 |
 | No Man Is An Island | 40.00% | ~159 |
 | At Wits' End | 39.00% | ~155 |
+| Going Once... | 36.00% | ~143 |
 | Bookworm | 36.00% | ~143 |
 | Up In Flames | 36.00% | ~143 |
 | Fhtagn! | 36.00% | ~143 |
-| Going Once... | 35.00% | ~139 |
 | Let Me Be Frank | 33.00% | ~131 |
 | Brain Food | 32.00% | ~127 |
 | No Stone Unturned | 30.00% | ~119 |
