@@ -24,10 +24,10 @@
 | 22 | [Remains](games/r/remains.md) | 8.11% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.57% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.56% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.13% |
 | 27 | [Scorn](games/s/scorn.md) | 6.90% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 6.72% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
