@@ -38,7 +38,7 @@
 | 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 468 | 189 |
 | 37 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 139 | 292 |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 38 | 420 |
-| 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,599 | 41 |
+| 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,604 | 41 |
 | 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,483 | 60 |
 | 37 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 331 | 218 |
 | 37 | [GRIT](games/g/grit.md) | 4.85 | 0 | 493 |
@@ -101,7 +101,7 @@
 | 90 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 493 |
 | 90 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 493 |
 | 90 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.79 | 0 | 493 |
-| 102 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,166 | 37 |
+| 102 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,171 | 37 |
 | 102 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 493 |
 | 102 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,299 | 98 |
 | 102 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,078 | 132 |
@@ -223,7 +223,7 @@
 | 218 | [GNOG](games/g/gnog.md) | 4.69 | 0 | 493 |
 | 218 | [House Flipper](games/h/house_flipper.md) | 4.69 | 294 | 229 |
 | 218 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 493 |
-| 218 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,174 | 126 |
+| 218 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,175 | 126 |
 | 218 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 493 |
 | 218 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 493 |
 | 218 | [Northgard](games/n/northgard.md) | 4.69 | 29 | 453 |
@@ -536,7 +536,7 @@
 | 529 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 105 | 320 |
 | 529 | [Knockout City™](games/k/knockout_city™.md) | 4.51 | 0 | 493 |
 | 529 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 184 | 269 |
-| 529 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 1,208 | 125 |
+| 529 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 1,211 | 125 |
 | 529 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 493 |
 | 529 | [Sable](games/s/sable.md) | 4.51 | 0 | 493 |
 | 529 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 493 |
@@ -549,7 +549,7 @@
 | 545 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 39 | 416 |
 | 545 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 89 | 342 |
 | 545 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 493 |
-| 545 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,655 | 13 |
+| 545 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,683 | 13 |
 | 545 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 493 |
 | 545 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,412 | 94 |
 | 545 | [Horace](games/h/horace.md) | 4.50 | 0 | 493 |
@@ -871,11 +871,11 @@
 | 865 | [Wreckfest](games/w/wreckfest.md) | 4.13 | 0 | 493 |
 | 870 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 493 |
 | 870 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 77 | 353 |
-| 872 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 | 493 |
-| 872 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 493 |
-| 872 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 386 |
-| 872 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,359 | 96 |
-| 872 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 493 |
+| 872 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 493 |
+| 873 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 493 |
+| 873 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 386 |
+| 873 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,359 | 96 |
+| 873 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 493 |
 | 877 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 493 |
 | 877 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 493 |
 | 877 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 493 |
@@ -930,9 +930,9 @@
 | 928 | [Poker Club](games/p/poker_club.md) | 3.77 | 0 | 493 |
 | 928 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 493 |
 | 928 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 59 | 381 |
+| 931 | [Blood of Steel](games/b/blood_of_steel.md) | 3.76 | 0 | 493 |
 | 931 | [To The Rescue](games/t/to_the_rescue.md) | 3.76 | 0 | 493 |
-| 932 | [Blood of Steel](games/b/blood_of_steel.md) | 3.74 | 0 | 493 |
-| 932 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.74 | 0 | 493 |
+| 933 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.74 | 0 | 493 |
 | 934 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.52 | 0 | 493 |
 | 935 | [Redfall](games/r/redfall.md) | 3.44 | 0 | 493 |
 | 936 | [Adios](games/a/adios.md) | 3.39 | 0 | 493 |
