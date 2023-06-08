@@ -104,7 +104,7 @@
 | 102 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,166 | 37 |
 | 102 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 493 |
 | 102 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,299 | 98 |
-| 102 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,070 | 132 |
+| 102 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,078 | 132 |
 | 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 912 | 142 |
 | 107 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 0 | 493 |
 | 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,123 | 87 |
@@ -165,7 +165,7 @@
 | 157 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 493 |
 | 157 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 314 | 226 |
 | 157 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 493 |
-| 157 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 350 |
+| 157 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 351 |
 | 157 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 493 |
 | 168 | [Dead Space](games/d/dead_space.md) | 4.72 | 54 | 384 |
 | 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 464 | 190 |
@@ -385,12 +385,12 @@
 | 360 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 493 |
 | 360 | [Wall World](games/w/wall_world.md) | 4.61 | 0 | 493 |
 | 360 | [Warframe](games/w/warframe.md) | 4.61 | 15,271 | 21 |
-| 386 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,179 | 28 |
+| 386 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,192 | 28 |
 | 386 | [Control](games/c/control.md) | 4.60 | 8,327 | 39 |
 | 386 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 357 |
 | 386 | [DOOM 3](games/d/doom_3.md) | 4.60 | 65 | 373 |
 | 386 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 37,237 | 12 |
-| 386 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,359 | 26 |
+| 386 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,362 | 26 |
 | 386 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 119 | 307 |
 | 386 | [GRIME](games/g/grime.md) | 4.60 | 0 | 493 |
 | 386 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 37 | 423 |
@@ -518,7 +518,7 @@
 | 514 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 28,118 | 16 |
 | 514 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 482 |
 | 514 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 493 |
-| 514 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 506 | 185 |
+| 514 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 507 | 185 |
 | 514 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.52 | 0 | 493 |
 | 514 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 100 | 326 |
 | 514 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 288 |
@@ -716,7 +716,7 @@
 | 709 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 493 |
 | 709 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 400 |
 | 709 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.37 | 0 | 493 |
-| 709 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.37 | 79 | 350 |
+| 709 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.37 | 81 | 350 |
 | 718 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 493 |
 | 718 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 493 |
 | 718 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 280 |
