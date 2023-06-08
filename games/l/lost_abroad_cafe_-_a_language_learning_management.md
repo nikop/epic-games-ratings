@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get Lost! | 21.00% | ~10 |
+| Get Lost! | 23.00% | ~11 |
 | Barista | 19.00% | ~9 |
 | Tea-ser | 15.00% | ~7 |
 | Coffee Connoisseur | 4.00% | ~2 |

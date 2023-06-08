@@ -4,7 +4,7 @@
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 386,
   "Ranking_Popularity": 215,
-  "Ranking_PopularitySum": 165,
+  "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 323,
@@ -3664,10 +3664,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2608,
       "NumberOfAwardsMax": 340
+    },
+    {
+      "Time": "2023-06-08T11:00:13.8882058+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2611,
+      "NumberOfAwardsMax": 340
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2608,
+  "NumberOfAwards": 2611,
   "NumberOfAwardsMax": 340,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3705,7 +3711,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 332
+      "Count": 335
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3743,8 +3749,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-06-07T21:58:35.2625983+00:00",
+  "LastChanged": "2023-06-08T11:00:13.8882056+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.783371+00:00",
-  "LastUpdate_Ratings": "2023-06-08T09:58:53.1796408+00:00",
-  "LastUpdate_Achievements": "2023-06-08T10:03:54.8560881+00:00"
+  "LastUpdate_Ratings": "2023-06-08T11:00:13.8882064+00:00",
+  "LastUpdate_Achievements": "2023-06-08T11:05:10.1177766+00:00"
 }

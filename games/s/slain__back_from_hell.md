@@ -17,9 +17,9 @@ Rating: 4.28 (Ranked 777)
 | Sure Footed As A Goat | 0.90% | ~221 |
 | Thorn in My Herbicide | 0.80% | ~197 |
 | Backdoor Man | 0.80% | ~197 |
+| Death Becomes Her | 0.80% | ~197 |
 | Schadenfreude | 0.80% | ~197 |
 | Red In Tooth And Claw | 0.70% | ~172 |
-| Death Becomes Her | 0.70% | ~172 |
 | The Sky Is Falling | 0.70% | ~172 |
 | That'll Come In Handy... | 0.70% | ~172 |
 | Start As You Mean To Go On | 0.60% | ~147 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 777)
 | Too Metal For Magic | 0.10% | ~25 |
 | Heart Of Steel | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,566 (Ranked 91)  
+Progressed: 24,567 (Ranked 91)  
 Completed: 19 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 19 (0.08%) (Ranked 172)
 | 2023-06-05 | 24,212 | 19 |
 | 2023-06-06 | 24,363 | 19 |
 | 2023-06-07 | 24,511 | 19 |
-| 2023-06-08 | 24,566 | 19 |
+| 2023-06-08 | 24,567 | 19 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 302)  
 Sum: 125 (Ranked 390)  

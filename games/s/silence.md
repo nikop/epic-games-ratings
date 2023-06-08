@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 47.00% | ~43 |
-| Fire in the... nevermind | 47.00% | ~43 |
-| Haute cuisine | 44.00% | ~40 |
+| Chapter I | 48.00% | ~44 |
+| Fire in the... nevermind | 48.00% | ~44 |
+| Haute cuisine | 45.00% | ~41 |
 | I didn't do it! | 40.00% | ~36 |
 | Keep away from children | 36.00% | ~33 |
 | Demolition expert | 35.00% | ~32 |
 | Wooooooow! | 34.00% | ~31 |
 | Artistic fool | 33.00% | ~30 |
 | Chapter II | 31.00% | ~28 |
+| Open up wide | 30.00% | ~27 |
 | Achoo!! | 30.00% | ~27 |
 | Chapter III | 30.00% | ~27 |
 | Like a moth in the Wind | 30.00% | ~27 |
 | Let the boot talk | 29.00% | ~26 |
-| Open up wide | 29.00% | ~26 |
 | Mirror mirror on the wall... | 25.00% | ~23 |
 | Bubblekillerfamily | 24.00% | ~22 |
 | Shadow on the wall | 23.00% | ~21 |
 | Fastidious Clown | 23.00% | ~21 |
+| Handyman | 22.00% | ~20 |
 | It's not easy being green! | 22.00% | ~20 |
 | Home is where the heart is | 22.00% | ~20 |
 | Quite a buggy game | 21.00% | ~19 |
-| Handyman | 21.00% | ~19 |
-| Pacifist | 18.00% | ~16 |
+| Pacifist | 19.00% | ~17 |
 | Master of Thermodynamics | 18.00% | ~16 |
 | Death is a part of life | 16.00% | ~15 |
 | Unfullfilled dreams | 15.00% | ~14 |

@@ -18,14 +18,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.60% | ~541 |
 | Coasting to the Finish | 0.60% | ~338 |
 | Checkmate | 0.50% | ~282 |
-| A Persistent Buzzing | 0.50% | ~450 |
-| Mad Cow Disease | 0.50% | ~450 |
-| Friendly Imps | 0.50% | ~450 |
-| Pure Energy | 0.50% | ~450 |
+| A Persistent Buzzing | 0.50% | ~451 |
+| Mad Cow Disease | 0.50% | ~451 |
+| Friendly Imps | 0.50% | ~451 |
+| Pure Energy | 0.50% | ~451 |
 | Quick or Quack | 0.50% | ~282 |
-| Owlbear Necessities | 0.40% | ~225 |
-| Best Thay Ever | 0.40% | ~225 |
-| Vecna Out! | 0.40% | ~225 |
+| Owlbear Necessities | 0.40% | ~226 |
+| Best Thay Ever | 0.40% | ~226 |
+| Vecna Out! | 0.40% | ~226 |
 | Beast Mode | 0.40% | ~360 |
 | Terror in the Dark | 0.40% | ~360 |
 | A Mysterious Summons | 0.40% | ~360 |
@@ -46,9 +46,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.30% | ~169 |
 | Welcome to the Rock | 0.30% | ~169 |
 | Low Initiative | 0.30% | ~270 |
+| Street War | 0.30% | ~270 |
 | Building Trust | 0.30% | ~270 |
 | No Time To Rest | 0.30% | ~270 |
 | The Dinner Party | 0.30% | ~270 |
+| The Botched Kidnapping | 0.30% | ~270 |
 | The Death Curse | 0.30% | ~270 |
 | Useless Allies | 0.30% | ~270 |
 | Running of the Saurs | 0.30% | ~270 |
@@ -134,7 +136,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.20% | ~180 |
 | Captured! | 0.20% | ~180 |
 | Home Field Advantage | 0.20% | ~180 |
-| Street War | 0.20% | ~180 |
 | Force Grey Unleashed | 0.20% | ~180 |
 | Vajra's Guards | 0.20% | ~180 |
 | March of the Undead | 0.20% | ~180 |
@@ -150,7 +151,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.20% | ~180 |
 | Modron Assistance | 0.20% | ~180 |
 | Thine Bounty is Mine! | 0.20% | ~113 |
-| The Botched Kidnapping | 0.20% | ~180 |
 | Haaave You Met Asmodeus? | 0.20% | ~180 |
 | Domesticated Owlbears | 0.20% | ~180 |
 | The Immortal Warrior | 0.20% | ~180 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,095 (Ranked 63)  
+Progressed: 90,103 (Ranked 63)  
 Completed: 1,922 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 1,922 (2.13%) (Ranked 66)
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
-| 2023-06-08 | 90,095 | 1,922 |
+| 2023-06-08 | 90,103 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,049 (Ranked 37)  

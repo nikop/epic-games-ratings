@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -433,6 +433,11 @@
       "Time": "2023-06-08T04:03:17.9023927+00:00",
       "NumProgressed": 332,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T11:03:38.6243445+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 28,
@@ -444,7 +449,7 @@
       "Name": "BUTCHER",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "GB_CELEBRITY",
@@ -508,7 +513,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "GB_GRATITUDE",
@@ -516,7 +521,7 @@
       "Name": "GRATITUDE",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "GB_HELLS_KITCHEN",
@@ -548,7 +553,7 @@
       "Name": "INDIVIDUAL APPROACH",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -572,7 +577,7 @@
       "Name": "KEVIN!",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -594,9 +599,9 @@
       "ID": "GB_MASTER_CHEF",
       "SetID": "8ga3kd9",
       "Name": "MASTER CHEF",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 272
+      "UsersEstimate": 270
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -667,7 +672,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 1
     }
   ],
@@ -675,8 +680,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-06-08T10:03:05.7997134+00:00",
+  "LastChanged_Achievements": "2023-06-08T11:03:38.624344+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.5026892+00:00",
-  "LastUpdate_Ratings": "2023-06-08T09:58:17.6105285+00:00",
-  "LastUpdate_Achievements": "2023-06-08T10:03:05.7997357+00:00"
+  "LastUpdate_Ratings": "2023-06-08T10:59:18.5033988+00:00",
+  "LastUpdate_Achievements": "2023-06-08T11:03:38.6243641+00:00"
 }

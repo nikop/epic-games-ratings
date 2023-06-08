@@ -29,7 +29,7 @@
 | OP | 5.00% | ~19 |
 | Thirty Birds... | 5.00% | ~19 |
 | The Disruptor | 4.00% | ~15 |
-| Early Bird | 3.00% | ~11 |
+| Early Bird | 4.00% | ~15 |
 | Swiss Cheese | 3.00% | ~11 |
 | Heavy Metal | 2.00% | ~8 |
 | Mister Fix It | 2.00% | ~8 |

@@ -2,7 +2,7 @@
   "ID": "e9f8d704869e4bd1a2d4e065c8c86f6e",
   "Name": "Remains",
   "ProductSlug": "remains-dcb937",
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 94,
@@ -265,9 +265,9 @@
       "ID": "Achievement_RepairMaster",
       "SetID": "436h0ek",
       "Name": "Repair master",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 200,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Achievement_Welcome",
@@ -288,8 +288,8 @@
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-06-08T10:05:18.7288018+00:00",
+  "LastChanged_Achievements": "2023-06-08T11:07:13.9159342+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:26.4623656+00:00",
-  "LastUpdate_Ratings": "2023-06-08T09:58:14.0034481+00:00",
-  "LastUpdate_Achievements": "2023-06-08T10:05:18.7288105+00:00"
+  "LastUpdate_Ratings": "2023-06-08T10:59:12.8440915+00:00",
+  "LastUpdate_Achievements": "2023-06-08T11:07:13.9159454+00:00"
 }

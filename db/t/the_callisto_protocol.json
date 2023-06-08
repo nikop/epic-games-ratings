@@ -560,9 +560,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14721,
+  "EOS_Progressed": 14722,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3155,6 +3155,11 @@
       "Time": "2023-06-08T10:04:03.2060124+00:00",
       "NumProgressed": 14721,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-08T11:05:22.313632+00:00",
+      "NumProgressed": 14722,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3310,7 +3315,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3366,7 +3371,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "STORY_HABITAT",
@@ -3485,13 +3490,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14721,
+      "Progressed": 14722,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2647,
+      "Progressed": 2648,
       "Completed": 29
     }
   ],
@@ -3499,8 +3504,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-07T20:58:04.7980908+00:00",
-  "LastChanged_Achievements": "2023-06-08T10:04:03.2060119+00:00",
+  "LastChanged_Achievements": "2023-06-08T11:05:22.3136312+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-08T09:57:57.6592516+00:00",
-  "LastUpdate_Achievements": "2023-06-08T10:04:03.2060619+00:00"
+  "LastUpdate_Ratings": "2023-06-08T10:58:47.6758152+00:00",
+  "LastUpdate_Achievements": "2023-06-08T11:05:22.3136883+00:00"
 }

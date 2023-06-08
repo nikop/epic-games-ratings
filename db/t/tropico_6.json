@@ -894,9 +894,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3472,
+  "EOS_Progressed": 3473,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3919,6 +3919,11 @@
       "Time": "2023-06-08T10:00:17.1052759+00:00",
       "NumProgressed": 3472,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T11:02:25.3567593+00:00",
+      "NumProgressed": 3473,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3946,7 +3951,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -3992,9 +3997,9 @@
       "ID": "ACH_EP_BUREAUCRAZY",
       "SetID": "1p8ab95",
       "Name": "Computer Says \u0022No\u0022",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -4026,7 +4031,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4114,7 +4119,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -4249,15 +4254,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3472,
+      "Progressed": 3473,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-05T19:00:08.7652267+00:00",
-  "LastChanged_Achievements": "2023-06-08T10:00:17.1052754+00:00",
+  "LastChanged_Achievements": "2023-06-08T11:02:25.3567588+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-08T09:59:46.9296404+00:00",
-  "LastUpdate_Achievements": "2023-06-08T10:00:17.1053306+00:00"
+  "LastUpdate_Ratings": "2023-06-08T11:01:38.326377+00:00",
+  "LastUpdate_Achievements": "2023-06-08T11:02:25.3568403+00:00"
 }

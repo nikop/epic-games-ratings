@@ -1984,9 +1984,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 31454,
+  "EOS_Progressed": 31455,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 862,
+  "EOS_NewPlayers": 856,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6994,6 +6994,11 @@
       "Time": "2023-06-08T10:05:50.3447916+00:00",
       "NumProgressed": 31454,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-08T11:07:55.9826703+00:00",
+      "NumProgressed": 31455,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 75,
@@ -7053,7 +7058,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 14783
+      "UsersEstimate": 14784
     },
     {
       "ID": "achievements_17",
@@ -7085,7 +7090,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 7234
+      "UsersEstimate": 7235
     },
     {
       "ID": "achievements_21",
@@ -7109,7 +7114,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 18872
+      "UsersEstimate": 18873
     },
     {
       "ID": "achievements_24",
@@ -7181,7 +7186,7 @@
       "Name": "Bane of Mercenaries - III",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3145
+      "UsersEstimate": 3146
     },
     {
       "ID": "achievements_32",
@@ -7189,7 +7194,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 10694
+      "UsersEstimate": 10695
     },
     {
       "ID": "achievements_33",
@@ -7229,7 +7234,7 @@
       "Name": "Monument to Greatness",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3145
+      "UsersEstimate": 3146
     },
     {
       "ID": "achievements_38",
@@ -7237,7 +7242,7 @@
       "Name": "Ancient Burial",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3145
+      "UsersEstimate": 3146
     },
     {
       "ID": "achievements_39",
@@ -7253,7 +7258,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 20445
+      "UsersEstimate": 20446
     },
     {
       "ID": "achievements_40",
@@ -7285,7 +7290,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 7234
+      "UsersEstimate": 7235
     },
     {
       "ID": "achievements_44",
@@ -7301,7 +7306,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 3774
+      "UsersEstimate": 3775
     },
     {
       "ID": "achievements_46",
@@ -7309,7 +7314,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 26736
+      "UsersEstimate": 26737
     },
     {
       "ID": "achievements_47",
@@ -7381,7 +7386,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 13525
+      "UsersEstimate": 13526
     },
     {
       "ID": "achievements_55",
@@ -7429,7 +7434,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 10694
+      "UsersEstimate": 10695
     },
     {
       "ID": "achievements_61",
@@ -7475,9 +7480,9 @@
       "ID": "achievements_66",
       "SetID": "6hgbao0",
       "Name": "Nightmare of the Humanity - II",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 6605
+      "UsersEstimate": 6920
     },
     {
       "ID": "achievements_67",
@@ -7581,7 +7586,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 22961
+      "UsersEstimate": 22962
     },
     {
       "ID": "achievements_8",
@@ -7604,15 +7609,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 31454,
+      "Progressed": 31455,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-06-06T18:00:10.4648671+00:00",
-  "LastChanged_Achievements": "2023-06-08T10:05:50.3447912+00:00",
+  "LastChanged_Achievements": "2023-06-08T11:07:55.9826697+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:06.9000696+00:00",
-  "LastUpdate_Ratings": "2023-06-08T09:58:42.0138806+00:00",
-  "LastUpdate_Achievements": "2023-06-08T10:05:50.3449113+00:00"
+  "LastUpdate_Ratings": "2023-06-08T10:59:56.4077444+00:00",
+  "LastUpdate_Achievements": "2023-06-08T11:07:55.9828154+00:00"
 }

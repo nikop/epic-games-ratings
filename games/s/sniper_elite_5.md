@@ -20,9 +20,9 @@ Rating: 4.49 (Ranked 564)
 | Liberté | 8.00% | ~192 |
 | Enemy at the Gates | 8.00% | ~192 |
 | Just a Flesh Wound | 8.00% | ~192 |
+| Gunslinger | 8.00% | ~192 |
 | Sharpshooter | 8.00% | ~192 |
 | Explosive Efficiency | 8.00% | ~192 |
-| Gunslinger | 7.00% | ~168 |
 | Opposing Force | 6.00% | ~144 |
 | Die Nussknacker Sweet! | 6.00% | ~144 |
 | Der Geist | 6.00% | ~144 |

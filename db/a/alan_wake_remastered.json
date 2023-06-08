@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 52815,
+  "EOS_Progressed": 52821,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 1856,
+  "EOS_NewPlayers": 1852,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4146,6 +4146,11 @@
       "Time": "2023-06-08T10:05:36.4588214+00:00",
       "NumProgressed": 52815,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-06-08T11:07:38.3520961+00:00",
+      "NumProgressed": 52821,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 67,
@@ -4157,7 +4162,7 @@
       "Name": "Follow the Light",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 15316
+      "UsersEstimate": 15318
     },
     {
       "ID": "02",
@@ -4165,7 +4170,7 @@
       "Name": "Nordic Walking",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8979
+      "UsersEstimate": 8980
     },
     {
       "ID": "03",
@@ -4173,7 +4178,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8979
+      "UsersEstimate": 8980
     },
     {
       "ID": "04",
@@ -4181,7 +4186,7 @@
       "Name": "Boob Tube",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "05",
@@ -4189,7 +4194,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7922
+      "UsersEstimate": 7923
     },
     {
       "ID": "06",
@@ -4197,7 +4202,7 @@
       "Name": "Park Ranger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "07",
@@ -4205,7 +4210,7 @@
       "Name": "Heavy Metal",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "08",
@@ -4213,7 +4218,7 @@
       "Name": "Iron Horse",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "09",
@@ -4221,7 +4226,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "10",
@@ -4237,7 +4242,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "12",
@@ -4245,7 +4250,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "13",
@@ -4309,7 +4314,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "21",
@@ -4325,7 +4330,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "23",
@@ -4341,7 +4346,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "25",
@@ -4357,7 +4362,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "27",
@@ -4365,7 +4370,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "28",
@@ -4373,7 +4378,7 @@
       "Name": "Come One, Come All",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "29",
@@ -4405,7 +4410,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 11619
+      "UsersEstimate": 11621
     },
     {
       "ID": "33",
@@ -4429,7 +4434,7 @@
       "Name": "Let There Be Light",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 12147
+      "UsersEstimate": 12149
     },
     {
       "ID": "36",
@@ -4477,7 +4482,7 @@
       "Name": "Finders Keepers",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "42",
@@ -4493,7 +4498,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "44",
@@ -4533,7 +4538,7 @@
       "Name": "KBF-FM",
       "Percentage": 3,
       "XP": 110,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "49",
@@ -4629,7 +4634,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "61",
@@ -4685,28 +4690,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 52815,
+      "Progressed": 52821,
       "Completed": 50
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 16283,
+      "Progressed": 16289,
       "Completed": 32
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-06-08T10:05:36.4588208+00:00",
+  "LastChanged_Achievements": "2023-06-08T11:07:38.3520956+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:48.7333402+00:00",
-  "LastUpdate_Ratings": "2023-06-08T09:57:46.2035691+00:00",
-  "LastUpdate_Achievements": "2023-06-08T10:05:36.4589038+00:00"
+  "LastUpdate_Ratings": "2023-06-08T10:58:31.2034936+00:00",
+  "LastUpdate_Achievements": "2023-06-08T11:07:38.3522266+00:00"
 }

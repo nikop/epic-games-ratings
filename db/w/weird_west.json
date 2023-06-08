@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -327,7 +327,7 @@
   ],
   "EOS_Progressed": 1614,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1365,9 +1365,9 @@
       "ID": "ACH_WORKERS_RIGHTS",
       "SetID": "8j30i9k",
       "Name": "Workers\u0027 Rights",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 210
     }
   ],
   "AchievementSets": [
@@ -1381,8 +1381,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-08T10:05:32.3398342+00:00",
+  "LastChanged_Achievements": "2023-06-08T11:07:32.5869155+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:41.0593225+00:00",
-  "LastUpdate_Ratings": "2023-06-08T09:58:24.0508261+00:00",
-  "LastUpdate_Achievements": "2023-06-08T10:05:32.3398843+00:00"
+  "LastUpdate_Ratings": "2023-06-08T10:59:28.4197415+00:00",
+  "LastUpdate_Achievements": "2023-06-08T11:07:32.5869708+00:00"
 }

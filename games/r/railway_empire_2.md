@@ -5,28 +5,28 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~723 |
-| A new Journey | 72.00% | ~713 |
-| Departure | 71.00% | ~703 |
-| From X to Y | 70.00% | ~693 |
-| Way of Iron | 69.00% | ~683 |
-| Mystery Tour | 66.00% | ~653 |
+| A new Journey | 72.00% | ~714 |
+| Departure | 71.00% | ~704 |
+| From X to Y | 70.00% | ~694 |
+| Way of Iron | 69.00% | ~684 |
+| Mystery Tour | 66.00% | ~654 |
 | Brainstorm | 65.00% | ~644 |
-| We brake for nobody | 65.00% | ~644 |
+| We brake for nobody | 64.00% | ~634 |
 | Mind the Gap | 63.00% | ~624 |
 | Travel Company | 63.00% | ~624 |
-| All around the World | 61.00% | ~604 |
+| All around the World | 60.00% | ~595 |
 | Right through the middle | 54.00% | ~535 |
 | Poor Devil | 51.00% | ~505 |
-| Facility Manager | 50.00% | ~495 |
-| Producer | 46.00% | ~455 |
+| Facility Manager | 50.00% | ~496 |
+| Producer | 46.00% | ~456 |
 | Apprentice | 42.00% | ~416 |
-| Bridge Builder | 37.00% | ~366 |
+| Bridge Builder | 37.00% | ~367 |
 | Stoker | 34.00% | ~337 |
 | Access granted | 33.00% | ~327 |
 | Going once, going twice, sold | 29.00% | ~287 |
 | Full Steam ahead | 28.00% | ~277 |
-| Bull and bear | 27.00% | ~267 |
-| Mole | 26.00% | ~257 |
+| Bull and bear | 27.00% | ~268 |
+| Mole | 26.00% | ~258 |
 | All mine | 24.00% | ~238 |
 | Financial Shark | 24.00% | ~238 |
 | Socializer | 24.00% | ~238 |
@@ -35,7 +35,7 @@
 | Country Life | 20.00% | ~198 |
 | Hostile Takeover | 20.00% | ~198 |
 | Trailblazer | 18.00% | ~178 |
-| Breaking Ground | 15.00% | ~148 |
+| Breaking Ground | 15.00% | ~149 |
 | Traffic Jam | 14.00% | ~139 |
 | Traffic Junction | 14.00% | ~139 |
 | Assimilated | 13.00% | ~129 |
@@ -60,7 +60,7 @@
 | Together we stand | 0.10% | ~1 |
 | United States | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 990 (Ranked 175)  
+Progressed: 991 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,4 +85,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 916 | 0 |
 | 2023-06-06 | 961 | 0 |
 | 2023-06-07 | 984 | 0 |
-| 2023-06-08 | 990 | 0 |
+| 2023-06-08 | 991 | 0 |

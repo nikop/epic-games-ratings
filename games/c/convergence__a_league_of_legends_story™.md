@@ -51,9 +51,9 @@
 | Fitting In | 0.50% | ~3 |
 | Wunderkind | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |
+| Clovemary for Remembering | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |
 | A Lesson in Precision | 0.20% | ~1 |
-| Clovemary for Remembering | 0.00% | ~0 |
 | Going to Live Forever | 0.00% | ~0 |
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
