@@ -45,7 +45,7 @@
 | Tempus Fugit | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 73 (Ranked 291)  
-Completed: 2 (2.74%) (Ranked 57)  
+Completed: 2 (2.74%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

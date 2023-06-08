@@ -16,7 +16,7 @@ Number of Ratings: 54  (23.09.2022)
 | Grave Robber | 17.00% | ~156 |
 | Double agent | 15.00% | ~138 |
 | Paranoia | 15.00% | ~138 |
-| Kraina Grzybow | 9.00% | ~83 |
+| Kraina Grzybow | 10.00% | ~92 |
 | Love Guru | 9.00% | ~83 |
 | Savant | 9.00% | ~83 |
 | Not-so-private Eye | 8.00% | ~74 |

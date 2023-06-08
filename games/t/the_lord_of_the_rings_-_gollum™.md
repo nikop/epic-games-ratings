@@ -34,11 +34,11 @@
 | Collectibles Part 2 | 0.20% | ~1 |
 | Elf-Friend | 0.20% | ~1 |
 | We wants it! We needs it | 0.20% | ~1 |
+| River Hobbit | 0.20% | ~1 |
 | Scout | 0.20% | ~1 |
 | Rule them all! | 0.00% | ~0 |
 | We Hates Them! | 0.00% | ~0 |
 | How Did You Do That? | 0.00% | ~0 |
-| River Hobbit | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 415 (Ranked 206)  

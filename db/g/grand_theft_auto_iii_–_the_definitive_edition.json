@@ -298,7 +298,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6252,
+  "EOS_Progressed": 6254,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 4,
@@ -3398,6 +3398,11 @@
       "Time": "2023-06-08T08:03:09.8356554+00:00",
       "NumProgressed": 6252,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-08T10:03:37.7933791+00:00",
+      "NumProgressed": 6254,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 29,
@@ -3409,7 +3414,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5189
+      "UsersEstimate": 5191
     },
     {
       "ID": "ACH02",
@@ -3481,7 +3486,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "ACH11",
@@ -3513,7 +3518,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "ACH15",
@@ -3640,7 +3645,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6252,
+      "Progressed": 6254,
       "Completed": 32
     }
   ],
@@ -3648,8 +3653,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-07T13:58:19.7299811+00:00",
-  "LastChanged_Achievements": "2023-06-08T09:03:28.3351733+00:00",
+  "LastChanged_Achievements": "2023-06-08T10:03:37.7933788+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:03.6526306+00:00",
-  "LastUpdate_Ratings": "2023-06-08T08:58:03.8997734+00:00",
-  "LastUpdate_Achievements": "2023-06-08T09:03:28.3352488+00:00"
+  "LastUpdate_Ratings": "2023-06-08T09:57:58.5554687+00:00",
+  "LastUpdate_Achievements": "2023-06-08T10:03:37.7934181+00:00"
 }

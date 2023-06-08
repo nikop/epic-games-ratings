@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -368,6 +368,11 @@
       "Time": "2023-06-08T06:06:04.819806+00:00",
       "NumProgressed": 150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T10:05:26.284417+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -443,7 +448,7 @@
       "Name": "Time Gates",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_ACT3",
@@ -465,9 +470,9 @@
       "ID": "ACH_ACT5",
       "SetID": "2310cb1",
       "Name": "Extendable Bridges",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_ACT6",
@@ -483,7 +488,7 @@
       "Name": "No Time To Relax",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_ACT8",
@@ -513,9 +518,9 @@
       "ID": "ACH_BESTFRIEND",
       "SetID": "2310cb1",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_CHAINREACTION",
@@ -539,7 +544,7 @@
       "Name": "Fashionista",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_HANDYMAN",
@@ -579,7 +584,7 @@
       "Name": "Summer Luvin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_TERMINATED",
@@ -594,7 +599,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 0
     }
   ],
@@ -602,8 +607,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-08T09:05:54.1464685+00:00",
+  "LastChanged_Achievements": "2023-06-08T10:05:26.2844162+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.4593213+00:00",
-  "LastUpdate_Ratings": "2023-06-08T08:57:35.8234312+00:00",
-  "LastUpdate_Achievements": "2023-06-08T09:05:54.1464992+00:00"
+  "LastUpdate_Ratings": "2023-06-08T09:57:36.2162782+00:00",
+  "LastUpdate_Achievements": "2023-06-08T10:05:26.284438+00:00"
 }

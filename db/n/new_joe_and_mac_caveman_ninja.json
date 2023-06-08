@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 173,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -123,6 +123,11 @@
       "Time": "2023-06-06T05:05:32.400426+00:00",
       "NumProgressed": 172,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-08T10:05:26.1205027+00:00",
+      "NumProgressed": 173,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -134,7 +139,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "02",
@@ -142,7 +147,7 @@
       "Name": "Crazy Jungle.",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "03",
@@ -150,7 +155,7 @@
       "Name": "In the treetops.",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "04",
@@ -172,9 +177,9 @@
       "ID": "06",
       "SetID": "6glb5g1",
       "Name": "Dino Ride.",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "07",
@@ -182,7 +187,7 @@
       "Name": "Swimming on a dino\u0027s back.",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "08",
@@ -198,7 +203,7 @@
       "Name": "In the heart of the volcano.",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "10",
@@ -214,7 +219,7 @@
       "Name": "Rocky fall.",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "12",
@@ -222,7 +227,7 @@
       "Name": "Dinosaur graveyard.",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "13",
@@ -253,7 +258,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 173,
       "Completed": 2
     }
   ],
@@ -261,8 +266,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-06-08T09:05:54.1239941+00:00",
+  "LastChanged_Achievements": "2023-06-08T10:05:26.1205022+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:41.1874088+00:00",
-  "LastUpdate_Ratings": "2023-06-08T08:57:43.8798985+00:00",
-  "LastUpdate_Achievements": "2023-06-08T09:05:54.1240133+00:00"
+  "LastUpdate_Ratings": "2023-06-08T09:57:42.3951739+00:00",
+  "LastUpdate_Achievements": "2023-06-08T10:05:26.1205124+00:00"
 }

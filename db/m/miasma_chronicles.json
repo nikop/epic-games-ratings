@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1055,
+  "EOS_Progressed": 1056,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1435,6 +1435,11 @@
       "Time": "2023-06-08T03:17:05.0024866+00:00",
       "NumProgressed": 1055,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T10:03:17.6029883+00:00",
+      "NumProgressed": 1056,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1494,7 +1499,7 @@
       "Name": "Chain Killer",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1558,7 +1563,7 @@
       "Name": "Limp Richard",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1606,7 +1611,7 @@
       "Name": "Exorcist",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "EXPERIENCED",
@@ -1614,7 +1619,7 @@
       "Name": "Experienced",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "FIRESTARTER",
@@ -1622,7 +1627,7 @@
       "Name": "Firestarter",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1630,7 +1635,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1638,7 +1643,7 @@
       "Name": "Five Finger Deathcount",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FRATRICIDE",
@@ -1678,7 +1683,7 @@
       "Name": "Gun for Hire",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1686,7 +1691,7 @@
       "Name": "Hold The Line",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "IM_THE_LAW",
@@ -1694,7 +1699,7 @@
       "Name": "I am the law!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "INFILTRATOR",
@@ -1750,7 +1755,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "RECYCLER",
@@ -1830,7 +1835,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "THE_WATCHERS",
@@ -1853,7 +1858,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1055,
+      "Progressed": 1056,
       "Completed": 0
     }
   ],
@@ -1861,8 +1866,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-07T20:58:30.3152036+00:00",
-  "LastChanged_Achievements": "2023-06-08T09:03:03.3293267+00:00",
+  "LastChanged_Achievements": "2023-06-08T10:03:17.6029879+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-08T08:58:28.2522198+00:00",
-  "LastUpdate_Achievements": "2023-06-08T09:03:03.3294002+00:00"
+  "LastUpdate_Ratings": "2023-06-08T09:58:17.3486942+00:00",
+  "LastUpdate_Achievements": "2023-06-08T10:03:17.6030417+00:00"
 }

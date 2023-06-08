@@ -5,18 +5,18 @@ Rating: 4.89 (Ranked 13)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,296 |
-| Feeling the beat! | 79.00% | ~2,267 |
-| You can pet the cat! | 74.00% | ~2,124 |
+| Start with a bang! | 80.00% | ~2,297 |
+| Feeling the beat! | 79.00% | ~2,268 |
+| You can pet the cat! | 74.00% | ~2,125 |
 | Who put gears in there? | 68.00% | ~1,952 |
-| Cream of the Crop | 62.00% | ~1,779 |
-| Thanks for the free chip, Peppermint! | 61.00% | ~1,751 |
-| You got this, Peppermint? | 56.00% | ~1,607 |
+| Cream of the Crop | 62.00% | ~1,780 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~1,780 |
+| You got this, Peppermint? | 56.00% | ~1,608 |
 | Perfect Parry | 54.00% | ~1,550 |
 | Alright, that felt AWESOME! | 54.00% | ~1,550 |
-| I play my own way! | 50.00% | ~1,435 |
+| I play my own way! | 50.00% | ~1,436 |
 | This will cost you big time | 47.00% | ~1,349 |
-| Uh, they were broken when I got here | 46.00% | ~1,320 |
+| Uh, they were broken when I got here | 46.00% | ~1,321 |
 | Z-shielding's got nothing on us! | 45.00% | ~1,292 |
 | Kissing the sky! | 44.00% | ~1,263 |
 | Does that say weakpoint? | 41.00% | ~1,177 |
@@ -24,9 +24,9 @@ Rating: 4.89 (Ranked 13)
 | The Negotiator | 38.00% | ~1,091 |
 | You must like calling me in, Chai | 33.00% | ~947 |
 | Out in a puff of smoke | 33.00% | ~947 |
-| Headliner | 32.00% | ~918 |
+| Headliner | 32.00% | ~919 |
 | Time to pay up! | 30.00% | ~861 |
-| Perfecter Parry-er! | 29.00% | ~832 |
+| Perfecter Parry-er! | 29.00% | ~833 |
 | Who's the boss now? | 28.00% | ~804 |
 | I have to read these things? | 28.00% | ~804 |
 | I look cool. But I can look COOLER. | 27.00% | ~775 |
@@ -35,8 +35,8 @@ Rating: 4.89 (Ranked 13)
 | Beat-hit mania | 18.00% | ~517 |
 | Well that was a rush! | 17.00% | ~488 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~488 |
-| Wanna hear my playlist? | 12.00% | ~344 |
-| Check out my moves! | 12.00% | ~344 |
+| Wanna hear my playlist? | 12.00% | ~345 |
+| Check out my moves! | 12.00% | ~345 |
 | Chip-tuned | 11.00% | ~316 |
 | We're Jammin' | 9.00% | ~258 |
 | I hit things with a guitar really well. | 8.00% | ~230 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.20% | ~6 |
 | What a journey it was... | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,870 (Ranked 139)  
+Progressed: 2,871 (Ranked 139)  
 Completed: 4 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 4 (0.14%) (Ranked 156)
 | 2023-06-05 | 2,778 | 4 |
 | 2023-06-06 | 2,820 | 4 |
 | 2023-06-07 | 2,855 | 4 |
-| 2023-06-08 | 2,870 | 4 |
+| 2023-06-08 | 2,871 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

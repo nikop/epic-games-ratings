@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2750,9 +2750,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9627,
+  "EOS_Progressed": 9630,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5885,6 +5885,11 @@
       "Time": "2023-06-08T09:06:22.495338+00:00",
       "NumProgressed": 9627,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T10:05:51.016288+00:00",
+      "NumProgressed": 9630,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5920,7 +5925,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -6032,7 +6037,7 @@
       "Name": "Mythic Choices",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "19_EqualToAroden",
@@ -6144,7 +6149,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -6264,7 +6269,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "49_Flame",
@@ -6823,21 +6828,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8409,
+      "Progressed": 8412,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9627,
+      "Progressed": 9630,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-08T02:19:18.5061132+00:00",
-  "LastChanged_Achievements": "2023-06-08T09:06:22.4953375+00:00",
+  "LastChanged_Achievements": "2023-06-08T10:05:51.0162876+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-08T08:58:30.2719435+00:00",
-  "LastUpdate_Achievements": "2023-06-08T09:06:22.4956615+00:00"
+  "LastUpdate_Ratings": "2023-06-08T09:58:18.8530416+00:00",
+  "LastUpdate_Achievements": "2023-06-08T10:05:51.0164728+00:00"
 }

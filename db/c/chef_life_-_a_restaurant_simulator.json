@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 313,
+  "EOS_Progressed": 314,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1279,6 +1279,11 @@
       "Time": "2023-06-08T00:03:27.447827+00:00",
       "NumProgressed": 313,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T10:03:19.3682519+00:00",
+      "NumProgressed": 314,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1338,7 +1343,7 @@
       "Name": "French Flair",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -1474,7 +1479,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "PerfectGrade25",
@@ -1609,7 +1614,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 313,
+      "Progressed": 314,
       "Completed": 0
     }
   ],
@@ -1617,8 +1622,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-08T09:03:05.5181843+00:00",
+  "LastChanged_Achievements": "2023-06-08T10:03:19.3682515+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:38.5369331+00:00",
-  "LastUpdate_Ratings": "2023-06-08T08:58:34.8105491+00:00",
-  "LastUpdate_Achievements": "2023-06-08T09:03:05.5182204+00:00"
+  "LastUpdate_Ratings": "2023-06-08T09:58:22.5115711+00:00",
+  "LastUpdate_Achievements": "2023-06-08T10:03:19.3682901+00:00"
 }

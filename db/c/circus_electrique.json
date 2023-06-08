@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -291,9 +291,9 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "631ndc2",
       "Name": "Perfect Illusion",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -435,9 +435,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "631ndc2",
       "Name": "Hundred Percent First",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-08T09:06:15.861388+00:00",
+  "LastChanged_Achievements": "2023-06-08T10:05:44.6339857+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:13.7097187+00:00",
-  "LastUpdate_Ratings": "2023-06-08T08:59:05.5239973+00:00",
-  "LastUpdate_Achievements": "2023-06-08T09:06:15.8614696+00:00"
+  "LastUpdate_Ratings": "2023-06-08T09:58:46.6428039+00:00",
+  "LastUpdate_Achievements": "2023-06-08T10:05:44.6340315+00:00"
 }

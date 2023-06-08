@@ -40,7 +40,7 @@
 | Traffic Junction | 14.00% | ~139 |
 | Assimilated | 13.00% | ~129 |
 | Locusts | 13.00% | ~129 |
-| Networker | 12.00% | ~119 |
+| Networker | 13.00% | ~129 |
 | Resistance is futile | 11.00% | ~109 |
 | Go West | 8.00% | ~79 |
 | Max Power | 8.00% | ~79 |

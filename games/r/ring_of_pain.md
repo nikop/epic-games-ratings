@@ -6,45 +6,45 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~221,118 |
+| First Steps | 96.00% | ~221,119 |
 | Uncharted Territory | 89.00% | ~204,995 |
 | Getting A Glimpse | 73.00% | ~168,142 |
-| A Quick Escape | 65.00% | ~149,715 |
-| Explorer | 62.00% | ~142,805 |
-| Defeat The Dark | 61.00% | ~140,502 |
-| An Offering | 61.00% | ~140,502 |
-| Colorful Corpse | 58.00% | ~133,592 |
-| That Was Quick | 56.00% | ~128,985 |
-| A Donation | 56.00% | ~128,985 |
+| A Quick Escape | 65.00% | ~149,716 |
+| Explorer | 62.00% | ~142,806 |
+| Defeat The Dark | 61.00% | ~140,503 |
+| An Offering | 61.00% | ~140,503 |
+| Colorful Corpse | 58.00% | ~133,593 |
+| That Was Quick | 56.00% | ~128,986 |
+| A Donation | 56.00% | ~128,986 |
 | Goodbye, Frog Friend | 54.00% | ~124,379 |
-| Heavy Hitter | 53.00% | ~122,075 |
-| Heartless | 46.00% | ~105,952 |
-| Spine Breaker | 46.00% | ~105,952 |
+| Heavy Hitter | 53.00% | ~122,076 |
+| Heartless | 46.00% | ~105,953 |
+| Spine Breaker | 46.00% | ~105,953 |
 | Deflection | 45.00% | ~103,649 |
-| Sneaky | 43.00% | ~99,042 |
+| Sneaky | 43.00% | ~99,043 |
 | Delving Deeper | 42.00% | ~96,739 |
 | Ambitious Intent | 41.00% | ~94,436 |
 | C-C-Combo | 41.00% | ~94,436 |
-| The Bestiary | 40.00% | ~92,132 |
+| The Bestiary | 40.00% | ~92,133 |
 | Nothing To Lose | 39.00% | ~89,829 |
 | What's Yours Is Mine | 38.00% | ~87,526 |
-| R.I.P | 36.00% | ~82,919 |
+| R.I.P | 36.00% | ~82,920 |
 | Shootout | 35.00% | ~80,616 |
 | Cold Hearted | 34.00% | ~78,313 |
 | I Am Overburdened | 34.00% | ~78,313 |
-| Dig Your Own Grave | 33.00% | ~76,009 |
-| Toxic | 33.00% | ~76,009 |
+| Dig Your Own Grave | 33.00% | ~76,010 |
+| Toxic | 33.00% | ~76,010 |
 | Who To Trust? | 32.00% | ~73,706 |
 | Flesh Wound | 29.00% | ~66,796 |
-| Walk It Off | 27.00% | ~62,189 |
-| Stone Touch | 27.00% | ~62,189 |
-| Acid Bath | 27.00% | ~62,189 |
-| Shadow Walker | 27.00% | ~62,189 |
+| Walk It Off | 27.00% | ~62,190 |
+| Stone Touch | 27.00% | ~62,190 |
+| Acid Bath | 27.00% | ~62,190 |
+| Shadow Walker | 27.00% | ~62,190 |
 | Consecutive Curses | 26.00% | ~59,886 |
 | Destroy Your Fears | 26.00% | ~59,886 |
 | New Perspectives | 26.00% | ~59,886 |
 | Shapeshifting | 26.00% | ~59,886 |
-| Save Our Souls | 24.00% | ~55,279 |
+| Save Our Souls | 24.00% | ~55,280 |
 | To The Death! | 20.00% | ~46,066 |
 | Well Prepared | 19.00% | ~43,763 |
 | Just Chilling | 19.00% | ~43,763 |
@@ -60,17 +60,17 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Rough Road | 13.00% | ~29,943 |
 | Berzerker | 12.00% | ~27,640 |
 | Chain Reaction | 12.00% | ~27,640 |
-| Antivenom | 11.00% | ~25,336 |
+| Antivenom | 11.00% | ~25,337 |
 | Thank You, Friend | 10.00% | ~23,033 |
 | Barbecue | 10.00% | ~23,033 |
 | Snake Sneak | 9.00% | ~20,730 |
-| Challenge Increases | 8.00% | ~18,426 |
-| New Game+ | 8.00% | ~18,426 |
-| Clearing The Room | 8.00% | ~18,426 |
-| Decisions, Decisions | 8.00% | ~18,426 |
-| Fragile Mortality | 8.00% | ~18,426 |
-| Defuser | 8.00% | ~18,426 |
-| Precious | 8.00% | ~18,426 |
+| Challenge Increases | 8.00% | ~18,427 |
+| New Game+ | 8.00% | ~18,427 |
+| Clearing The Room | 8.00% | ~18,427 |
+| Decisions, Decisions | 8.00% | ~18,427 |
+| Fragile Mortality | 8.00% | ~18,427 |
+| Defuser | 8.00% | ~18,427 |
+| Precious | 8.00% | ~18,427 |
 | Friend of Vermin | 7.00% | ~16,123 |
 | Juggernaut | 7.00% | ~16,123 |
 | Path To Enlightenment | 7.00% | ~16,123 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~921 |
 | Near Death Experience | 0.30% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,331 (Ranked 44)  
+Progressed: 230,332 (Ranked 44)  
 Completed: 237 (0.10%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,10 +178,10 @@ Completed: 237 (0.10%) (Ranked 164)
 | 2023-06-05 | 230,169 | 235 |
 | 2023-06-06 | 230,227 | 236 |
 | 2023-06-07 | 230,294 | 236 |
-| 2023-06-08 | 230,331 | 237 |
+| 2023-06-08 | 230,332 | 237 |
 ## Awards
 Max (Quickly Understood Controls): 1,475  (Ranked 115)  
-Sum: 12,909 (Ranked 69)  
+Sum: 12,910 (Ranked 69)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -193,7 +193,7 @@ Diff (max vs sum): 46
 | This game is Highly Recommended | 1,348 |
 | This game has Amazing Storytelling | 1,296 |
 | This game has Amazing Characters | 1,207 |
-| This game has Unique Visuals | 1,189 |
+| This game has Unique Visuals | 1,190 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 728 |
 ## Ratings History
@@ -289,3 +289,4 @@ Diff (max vs sum): 46
 | 2023-06-04 | 4.58 | - | 1,475 | 12,905 |
 | 2023-06-05 | 4.58 | - | 1,475 | 12,906 |
 | 2023-06-07 | 4.58 | - | 1,475 | 12,909 |
+| 2023-06-08 | 4.58 | - | 1,475 | 12,910 |

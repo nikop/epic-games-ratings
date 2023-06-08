@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -894,9 +894,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3471,
+  "EOS_Progressed": 3472,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3914,6 +3914,11 @@
       "Time": "2023-06-08T07:59:48.1343392+00:00",
       "NumProgressed": 3471,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T10:00:17.1052759+00:00",
+      "NumProgressed": 3472,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -3997,7 +4002,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -4085,7 +4090,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4181,7 +4186,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4197,7 +4202,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4244,15 +4249,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3471,
+      "Progressed": 3472,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-05T19:00:08.7652267+00:00",
-  "LastChanged_Achievements": "2023-06-08T09:00:58.9411335+00:00",
+  "LastChanged_Achievements": "2023-06-08T10:00:17.1052754+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-08T09:00:23.8082351+00:00",
-  "LastUpdate_Achievements": "2023-06-08T09:00:58.9412214+00:00"
+  "LastUpdate_Ratings": "2023-06-08T09:59:46.9296404+00:00",
+  "LastUpdate_Achievements": "2023-06-08T10:00:17.1053306+00:00"
 }

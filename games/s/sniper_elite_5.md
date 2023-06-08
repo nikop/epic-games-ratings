@@ -6,23 +6,23 @@ Rating: 4.49 (Ranked 564)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 28.00% | ~670 |
-| Confirming Suspicions | 23.00% | ~550 |
+| Confirming Suspicions | 23.00% | ~551 |
 | The Kraken Wakes | 18.00% | ~431 |
 | It's Starting to Crack | 16.00% | ~383 |
 | Lord of War | 14.00% | ~335 |
-| Resourceful | 13.00% | ~311 |
 | Change the Channel | 13.00% | ~311 |
+| Resourceful | 12.00% | ~287 |
 | Taking it back | 11.00% | ~263 |
 | Organ Grinder | 10.00% | ~239 |
 | Target America | 10.00% | ~239 |
 | As Quiet as a Mouse | 9.00% | ~215 |
-| Liberté | 8.00% | ~191 |
-| Enemy at the Gates | 8.00% | ~191 |
-| Just a Flesh Wound | 8.00% | ~191 |
-| Sharpshooter | 8.00% | ~191 |
-| Explosive Efficiency | 8.00% | ~191 |
-| The Kraken Sleeps | 8.00% | ~191 |
-| Gunslinger | 7.00% | ~167 |
+| The Kraken Sleeps | 9.00% | ~215 |
+| Liberté | 8.00% | ~192 |
+| Enemy at the Gates | 8.00% | ~192 |
+| Just a Flesh Wound | 8.00% | ~192 |
+| Sharpshooter | 8.00% | ~192 |
+| Explosive Efficiency | 8.00% | ~192 |
+| Gunslinger | 7.00% | ~168 |
 | Opposing Force | 6.00% | ~144 |
 | Die Nussknacker Sweet! | 6.00% | ~144 |
 | Der Geist | 6.00% | ~144 |
@@ -77,7 +77,7 @@ Rating: 4.49 (Ranked 564)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,392 (Ranked 147)  
+Progressed: 2,394 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-05 | 2,307 | 2 |
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
-| 2023-06-08 | 2,392 | 2 |
+| 2023-06-08 | 2,394 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

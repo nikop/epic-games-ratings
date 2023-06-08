@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13068,
+  "EOS_Progressed": 13069,
   "EOS_Completed": 99,
   "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 3,
@@ -3654,6 +3654,11 @@
       "Time": "2023-06-08T08:04:56.2721016+00:00",
       "NumProgressed": 13068,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-08T10:05:25.5418732+00:00",
+      "NumProgressed": 13069,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 41,
@@ -3665,7 +3670,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "tpote_achievement_10",
@@ -3681,7 +3686,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "tpote_achievement_12",
@@ -3737,7 +3742,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "tpote_achievement_19",
@@ -3793,7 +3798,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "tpote_achievement_25",
@@ -3841,7 +3846,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4312
+      "UsersEstimate": 4313
     },
     {
       "ID": "tpote_achievement_30",
@@ -3881,7 +3886,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "tpote_achievement_35",
@@ -3961,7 +3966,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "tpote_achievement_7",
@@ -3985,22 +3990,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4704
+      "UsersEstimate": 4705
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13068,
+      "Progressed": 13069,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-08T09:05:53.2274798+00:00",
+  "LastChanged_Achievements": "2023-06-08T10:05:25.5418724+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.2103721+00:00",
-  "LastUpdate_Ratings": "2023-06-08T09:00:11.8845128+00:00",
-  "LastUpdate_Achievements": "2023-06-08T09:05:53.2275574+00:00"
+  "LastUpdate_Ratings": "2023-06-08T09:59:38.0038126+00:00",
+  "LastUpdate_Achievements": "2023-06-08T10:05:25.5419259+00:00"
 }

@@ -7,7 +7,7 @@
 | To Hell In A Handcart | 62.00% | ~245 |
 | Read Between The Lines | 60.00% | ~237 |
 | High Profile | 54.00% | ~213 |
-| Whispers In The Dark | 52.00% | ~205 |
+| Whispers In The Dark | 53.00% | ~209 |
 | Fond Memories | 49.00% | ~194 |
 | History Check | 47.00% | ~186 |
 | A Method To His Madness | 47.00% | ~186 |

@@ -47,9 +47,9 @@
 | Rungs Was Right | 1.00% | ~6 |
 | Syron for Hope | 1.00% | ~6 |
 | Good Neighbor | 1.00% | ~6 |
+| Hexlock for Protection | 0.50% | ~3 |
+| Fitting In | 0.50% | ~3 |
 | Wunderkind | 0.30% | ~2 |
-| Hexlock for Protection | 0.30% | ~2 |
-| Fitting In | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |
 | A Lesson in Precision | 0.20% | ~1 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 627 (Ranked 191)  
+Progressed: 628 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,4 +79,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 608 | 0 |
 | 2023-06-06 | 615 | 0 |
 | 2023-06-07 | 624 | 0 |
-| 2023-06-08 | 627 | 0 |
+| 2023-06-08 | 628 | 0 |
