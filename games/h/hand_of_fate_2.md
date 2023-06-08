@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~473,442 |
-| Apprentice | 58.00% | ~381,384 |
-| Close Shave | 25.00% | ~164,390 |
-| Mercenary | 23.00% | ~151,239 |
-| Ninja | 23.00% | ~151,239 |
-| Northern Scourge | 17.00% | ~111,785 |
-| Thief Bane | 14.00% | ~92,058 |
-| Master of Arms | 12.00% | ~78,907 |
+| The Fool | 72.00% | ~473,446 |
+| Apprentice | 58.00% | ~381,387 |
+| Close Shave | 25.00% | ~164,391 |
+| Mercenary | 23.00% | ~151,240 |
+| Ninja | 23.00% | ~151,240 |
+| Northern Scourge | 17.00% | ~111,786 |
+| Thief Bane | 14.00% | ~92,059 |
+| Master of Arms | 12.00% | ~78,908 |
 | Gambler | 10.00% | ~65,756 |
 | Dice Master | 10.00% | ~65,756 |
-| Swordsman | 9.00% | ~59,180 |
+| Swordsman | 9.00% | ~59,181 |
 | Knight | 8.00% | ~52,605 |
 | Cure for Corruption | 8.00% | ~52,605 |
 | Focused | 8.00% | ~52,605 |
@@ -39,8 +39,8 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,576 |
 | Champion | 1.00% | ~6,576 |
 | Final Death | 1.00% | ~6,576 |
-| Ally | 0.80% | ~5,260 |
-| Thomas' Bane | 0.80% | ~5,260 |
+| Ally | 0.80% | ~5,261 |
+| Thomas' Bane | 0.80% | ~5,261 |
 | Gamester | 0.70% | ~4,603 |
 | Hero | 0.60% | ~3,945 |
 | Rebel | 0.60% | ~3,945 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~658 |
 | Blood Pact | 0.10% | ~658 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657,559 (Ranked 19)  
+Progressed: 657,564 (Ranked 19)  
 Completed: 165 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 165 (0.03%) (Ranked 190)
 | 2023-06-05 | 657,420 | 165 |
 | 2023-06-06 | 657,473 | 165 |
 | 2023-06-07 | 657,513 | 165 |
-| 2023-06-08 | 657,559 | 165 |
+| 2023-06-08 | 657,564 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 429)  
 Sum: 180 (Ranked 365)  

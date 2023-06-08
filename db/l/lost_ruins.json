@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 359,
+  "EOS_Progressed": 360,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -406,6 +406,11 @@
       "Time": "2023-06-08T19:07:34.0088349+00:00",
       "NumProgressed": 359,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T20:05:52.5635604+00:00",
+      "NumProgressed": 360,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -481,7 +486,7 @@
       "Name": "Ghost Buster",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Gladiator",
@@ -497,7 +502,7 @@
       "Name": "Goblin Tales",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Hardboiled",
@@ -537,7 +542,7 @@
       "Name": "Inquisitor",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Librarian",
@@ -617,7 +622,7 @@
       "Name": "Reincarnation",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Roughneck",
@@ -681,7 +686,7 @@
       "Name": "The Fallen",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "TheTrio",
@@ -697,7 +702,7 @@
       "Name": "Trap Master",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "TreasureHunter",
@@ -713,7 +718,7 @@
       "Name": "Troubleshooter",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "WeaponMaster",
@@ -736,7 +741,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 359,
+      "Progressed": 360,
       "Completed": 0
     }
   ],
@@ -744,8 +749,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:07:34.0088343+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:05:52.5635598+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:56.1759151+00:00",
-  "LastUpdate_Ratings": "2023-06-08T19:00:24.5701005+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:07:34.0088716+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:59:15.1343489+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:05:52.5635878+00:00"
 }

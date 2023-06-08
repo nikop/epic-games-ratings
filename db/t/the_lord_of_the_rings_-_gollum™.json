@@ -842,9 +842,9 @@
       "ID": "Chapter8",
       "SetID": "70l3651",
       "Name": "Her Eyes",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "Chapter9",
@@ -922,9 +922,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 150
     },
     {
       "ID": "Memories",
@@ -978,9 +978,9 @@
       "ID": "SIlly",
       "SetID": "70l3651",
       "Name": "So Silly!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "Scout",
@@ -1049,8 +1049,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:07:06.1320294+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:05:31.7510062+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.3133808+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:58:09.6390656+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:07:06.1320608+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:57:43.9712223+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:05:31.751031+00:00"
 }

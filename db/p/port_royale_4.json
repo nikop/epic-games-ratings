@@ -234,7 +234,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 626,
+  "EOS_Progressed": 627,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -829,6 +829,11 @@
       "Time": "2023-06-08T16:06:52.978995+00:00",
       "NumProgressed": 626,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T20:05:45.7907408+00:00",
+      "NumProgressed": 627,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -840,7 +845,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH001",
@@ -896,7 +901,7 @@
       "Name": "My little farm",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH008",
@@ -936,7 +941,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH013",
@@ -1008,7 +1013,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH022",
@@ -1024,7 +1029,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH024",
@@ -1040,7 +1045,7 @@
       "Name": "My precious!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH026",
@@ -1056,7 +1061,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH028",
@@ -1070,9 +1075,9 @@
       "ID": "ACH029",
       "SetID": "69nfp41",
       "Name": "Licence to Kill",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH030",
@@ -1128,7 +1133,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH037",
@@ -1232,22 +1237,22 @@
       "Name": "Wholesale",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 626,
+      "Progressed": 627,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:07:25.1989534+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:05:45.7907403+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:43.7827711+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:59:05.0049774+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:07:25.1990145+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:58:21.2358999+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:05:45.7907743+00:00"
 }

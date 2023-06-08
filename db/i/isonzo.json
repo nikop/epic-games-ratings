@@ -616,7 +616,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6121,
+  "EOS_Progressed": 6122,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -2356,6 +2356,11 @@
       "Time": "2023-06-08T18:03:13.0898421+00:00",
       "NumProgressed": 6121,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-08T20:02:18.1166963+00:00",
+      "NumProgressed": 6122,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2559,7 +2564,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2695,7 +2700,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2726,7 +2731,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6121,
+      "Progressed": 6122,
       "Completed": 8
     }
   ],
@@ -2734,8 +2739,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-08T10:58:11.1993757+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:03:20.3249998+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:02:18.116696+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:28.4757017+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:57:43.8006414+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:03:20.3250455+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:57:25.7500055+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:02:18.1167304+00:00"
 }

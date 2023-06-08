@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 174,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.16,
+  "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -128,6 +128,11 @@
       "Time": "2023-06-08T10:05:26.1205027+00:00",
       "NumProgressed": 173,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-08T20:05:33.5679177+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -145,9 +150,9 @@
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "03",
@@ -163,7 +168,7 @@
       "Name": "At the top of the mountain.",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "05",
@@ -258,7 +263,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 174,
       "Completed": 2
     }
   ],
@@ -266,8 +271,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:07:08.6042221+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:05:33.5679172+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:41.1874088+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:57:58.0099445+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:07:08.604234+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:57:36.0866628+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:05:33.5679273+00:00"
 }

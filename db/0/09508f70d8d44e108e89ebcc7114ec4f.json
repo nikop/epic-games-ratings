@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 250,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
@@ -601,9 +601,9 @@
       "ID": "big_house",
       "SetID": "ap7g2g4",
       "Name": "Big House",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 162
     },
     {
       "ID": "brewery",
@@ -641,9 +641,9 @@
       "ID": "fish_trade",
       "SetID": "ap7g2g4",
       "Name": "Fish trade",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "fishing_house",
@@ -784,8 +784,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:04:09.7524247+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:03:26.2513672+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:57:18.3970419+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:04:09.7524445+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:57:08.5300767+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:03:26.2513835+00:00"
 }

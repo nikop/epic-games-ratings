@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -534,9 +534,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2871,
+  "EOS_Progressed": 2872,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1694,6 +1694,11 @@
       "Time": "2023-06-08T15:06:42.0404746+00:00",
       "NumProgressed": 2871,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T20:05:57.2855569+00:00",
+      "NumProgressed": 2872,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1873,7 +1878,7 @@
       "Name": "Not So Fast...",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "Kills_Bleed",
@@ -1897,7 +1902,7 @@
       "Name": "Executioner",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "Kills_Exterminator",
@@ -1913,7 +1918,7 @@
       "Name": "Friendly Fire",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "Kills_Interactable",
@@ -1937,7 +1942,7 @@
       "Name": "Purging Spree",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "Kills_Vakir",
@@ -2176,21 +2181,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2871,
+      "Progressed": 2872,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2871,
+      "Progressed": 2872,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-07T10:59:27.9467392+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:07:39.7740496+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:05:57.2855564+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:59:20.1458906+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:07:39.7741245+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:58:31.1247746+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:05:57.2856053+00:00"
 }

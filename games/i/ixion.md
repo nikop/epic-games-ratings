@@ -14,11 +14,11 @@ Rating: 4.57 (Ranked 443)
 | Ready for a New World | 8.00% | ~201 |
 | Permanent Redesigns | 7.00% | ~176 |
 | Ain't Nobody Got Time for That | 7.00% | ~176 |
-| Guy de Borderlands | 6.00% | ~150 |
-| Fully Recycled | 6.00% | ~150 |
-| Breaking Protocol | 6.00% | ~150 |
-| The Ship of Theseus | 6.00% | ~150 |
-| Hope Seeker | 6.00% | ~150 |
+| Guy de Borderlands | 6.00% | ~151 |
+| Fully Recycled | 6.00% | ~151 |
+| Breaking Protocol | 6.00% | ~151 |
+| The Ship of Theseus | 6.00% | ~151 |
+| Hope Seeker | 6.00% | ~151 |
 | A Hunk of Junk | 5.00% | ~125 |
 | Exceeding Capacity | 4.00% | ~100 |
 | Man's Best Friend | 3.00% | ~75 |
@@ -28,13 +28,13 @@ Rating: 4.57 (Ranked 443)
 | Convenient Transport | 3.00% | ~75 |
 | Please Make it Stop! | 3.00% | ~75 |
 | Oats | 2.00% | ~50 |
+| What They Hide From Us | 2.00% | ~50 |
 | Sightseeing | 2.00% | ~50 |
 | In Dolos We Trust | 2.00% | ~50 |
 | BRAWL! | 2.00% | ~50 |
 | All in Good Health | 2.00% | ~50 |
 | From the Past | 2.00% | ~50 |
 | Mutual Loyalty | 1.00% | ~25 |
-| What They Hide From Us | 1.00% | ~25 |
 | ...  in a finite world | 1.00% | ~25 |
 | Sustainable Energy | 1.00% | ~25 |
 | Delivery! | 1.00% | ~25 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 443)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,508 (Ranked 146)  
+Progressed: 2,509 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 2,460 | 0 |
 | 2023-06-06 | 2,471 | 0 |
 | 2023-06-07 | 2,488 | 0 |
-| 2023-06-08 | 2,508 | 0 |
+| 2023-06-08 | 2,509 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 840,
-  "Ranking_Popularity": 387,
+  "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 118,
@@ -516,11 +516,17 @@
       "Rating": 4.18,
       "NumberOfAwards": 296,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-06-08T19:57:51.4696736+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 297,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 296,
-  "NumberOfAwardsMax": 51,
+  "NumberOfAwards": 297,
+  "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -551,7 +557,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Challenging Combat",
@@ -566,9 +572,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14757,
+  "EOS_Progressed": 14762,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3206,6 +3212,11 @@
       "Time": "2023-06-08T19:05:04.1383893+00:00",
       "NumProgressed": 14757,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-08T20:04:05.2264687+00:00",
+      "NumProgressed": 14762,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3233,7 +3244,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3249,7 +3260,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3321,7 +3332,7 @@
       "Name": "Get a Grip",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3393,7 +3404,7 @@
       "Name": "Paper Jams",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3407,9 +3418,9 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1771
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3425,7 +3436,7 @@
       "Name": "Without A Paddle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "STORY_HANGAR",
@@ -3449,7 +3460,7 @@
       "Name": "Desperate Times",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3489,7 +3500,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3497,7 +3508,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3505,7 +3516,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -3536,22 +3547,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14757,
+      "Progressed": 14762,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2683,
+      "Progressed": 2688,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-08T16:57:58.092836+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:05:04.1383887+00:00",
+  "LastChanged": "2023-06-08T19:57:51.4696734+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:04:05.2264682+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:58:20.5156133+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:05:04.1384633+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:57:51.4696739+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:04:05.2265066+00:00"
 }

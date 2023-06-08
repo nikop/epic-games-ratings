@@ -5,30 +5,30 @@ Rating: 4.18 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~1,918 |
-| The Outer Way | 11.00% | ~1,623 |
-| Desperate Times | 11.00% | ~1,623 |
-| Paper Jams | 9.00% | ~1,328 |
+| Flesh Wound | 13.00% | ~1,919 |
+| The Outer Way | 12.00% | ~1,771 |
+| Desperate Times | 11.00% | ~1,624 |
+| Paper Jams | 9.00% | ~1,329 |
 | Chew 'Em Up | 8.00% | ~1,181 |
 | Reforged | 8.00% | ~1,181 |
 | Workplace Hazard | 7.00% | ~1,033 |
 | If the SHU Fits... | 7.00% | ~1,033 |
-| Giving Back | 6.00% | ~885 |
-| Get a Grip | 6.00% | ~885 |
-| Without A Paddle | 6.00% | ~885 |
+| Giving Back | 6.00% | ~886 |
+| Get a Grip | 6.00% | ~886 |
+| Without A Paddle | 6.00% | ~886 |
 | Terminated | 5.00% | ~738 |
 | Two Heads Are Better Than One | 4.00% | ~590 |
 | Float Like A Butterfly | 4.00% | ~590 |
 | In the Pipe, Five by Five | 4.00% | ~590 |
 | Crash Site | 4.00% | ~590 |
 | Power Up | 4.00% | ~590 |
-| Instigator | 4.00% | ~107 |
-| Big Game Hunter | 4.00% | ~107 |
+| Instigator | 4.00% | ~108 |
+| Big Game Hunter | 4.00% | ~108 |
 | You Need a Gun | 3.00% | ~443 |
 | The Commonality | 3.00% | ~443 |
 | What Lies Beneath | 3.00% | ~443 |
 | Full Circle | 3.00% | ~443 |
-| Bear Trap | 3.00% | ~80 |
+| Bear Trap | 3.00% | ~81 |
 | I Do Belong Here | 2.00% | ~295 |
 | In Striking Distance | 2.00% | ~295 |
 | Mugshot | 2.00% | ~295 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,757 (Ranked 104)  
+Progressed: 14,762 (Ranked 104)  
 Completed: 54 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,15 +94,15 @@ Completed: 54 (0.37%) (Ranked 118)
 | 2023-06-05 | 14,579 | 54 |
 | 2023-06-06 | 14,637 | 54 |
 | 2023-06-07 | 14,702 | 54 |
-| 2023-06-08 | 14,757 | 54 |
+| 2023-06-08 | 14,762 | 54 |
 ## Awards
-Max (Amazing Storytelling): 51  (Ranked 387)  
-Sum: 296 (Ranked 328)  
-Diff (max vs sum): 59  
+Max (Amazing Storytelling): 52  (Ranked 386)  
+Sum: 297 (Ranked 328)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
+| This game has Amazing Storytelling | 52 |
 | This game is Highly Recommended | 51 |
-| This game has Amazing Storytelling | 51 |
 | This game has Quickly Understood Controls | 47 |
 | This game has Amazing Characters | 47 |
 | This game is Extremely Fun | 44 |
@@ -170,4 +170,4 @@ Diff (max vs sum): 59
 | 2023-06-03 | 4.18 | 50 | 287 |
 | 2023-06-06 | 4.18 | 51 | 294 |
 | 2023-06-07 | 4.18 | 51 | 295 |
-| 2023-06-08 | 4.18 | 51 | 296 |
+| 2023-06-08 | 4.18 | 52 | 297 |

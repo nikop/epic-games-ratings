@@ -14,15 +14,15 @@
 | Your War is Over | 82.00% | ~130 |
 | The Starry Night | 76.00% | ~121 |
 | Go Home! | 75.00% | ~119 |
-| Look After the Pence... | 73.00% | ~116 |
-| Sergeant of the Evil | 73.00% | ~116 |
+| Look After the Pence... | 74.00% | ~118 |
+| Sergeant of the Evil | 74.00% | ~118 |
+| Drunken Master | 73.00% | ~116 |
 | Brilliant: Meadowshire | 72.00% | ~114 |
-| Drunken Master | 72.00% | ~114 |
-| V.I.P. Cemetery | 70.00% | ~111 |
+| V.I.P. Cemetery | 71.00% | ~113 |
+| Top of the World | 69.00% | ~110 |
 | Takeover | 69.00% | ~110 |
 | Woodcutter | 69.00% | ~110 |
 | Architect of Darkness | 69.00% | ~110 |
-| Top of the World | 68.00% | ~108 |
 | Sharpshooter | 68.00% | ~108 |
 | The Apotheosis of War | 66.00% | ~105 |
 | Stasis Alcatraz | 65.00% | ~103 |

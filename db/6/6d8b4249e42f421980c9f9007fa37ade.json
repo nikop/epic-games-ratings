@@ -180,9 +180,9 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -284,9 +284,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Epic_Formula_12",
@@ -340,9 +340,9 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -444,9 +444,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Epic_Revenge_1",
@@ -548,9 +548,9 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Epic_WinTimes_500",
@@ -571,8 +571,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:03:33.1891406+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:03:06.9957578+00:00",
   "LastUpdate_AppInfo": "2023-06-08T03:57:14.5111987+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:57:10.5275269+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:03:33.1891799+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:57:03.1253576+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:03:06.9957918+00:00"
 }

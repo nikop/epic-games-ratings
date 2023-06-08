@@ -225,7 +225,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1729,
+  "EOS_Progressed": 1730,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -1080,6 +1080,11 @@
       "Time": "2023-06-08T16:07:08.664983+00:00",
       "NumProgressed": 1729,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-08T20:05:58.5516947+00:00",
+      "NumProgressed": 1730,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1131,7 +1136,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACHV_07",
@@ -1243,7 +1248,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACHV_21",
@@ -1291,7 +1296,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "ACHV_27",
@@ -1331,7 +1336,7 @@
       "Name": "Where It All Began",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACHV_32",
@@ -1363,7 +1368,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACHV_36",
@@ -1371,7 +1376,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACHV_37",
@@ -1379,7 +1384,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACHV_38",
@@ -1395,7 +1400,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "ACHV_40",
@@ -1419,7 +1424,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACHV_43",
@@ -1443,7 +1448,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACHV_46",
@@ -1546,7 +1551,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1729,
+      "Progressed": 1730,
       "Completed": 10
     }
   ],
@@ -1554,8 +1559,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:07:41.4897517+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:05:58.5516938+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:57.1438675+00:00",
-  "LastUpdate_Ratings": "2023-06-08T19:01:33.140849+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:07:41.4898122+00:00"
+  "LastUpdate_Ratings": "2023-06-08T20:00:01.8526658+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:05:58.5518234+00:00"
 }

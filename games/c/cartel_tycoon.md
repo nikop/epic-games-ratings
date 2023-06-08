@@ -6,27 +6,27 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 83.00% | ~308 |
-| Take-Off | 78.00% | ~289 |
-| Hokey-Pokey | 71.00% | ~263 |
+| Our Man | 83.00% | ~309 |
+| Take-Off | 77.00% | ~286 |
+| Hokey-Pokey | 71.00% | ~264 |
 | Camellos | 56.00% | ~208 |
 | Bad Trip | 46.00% | ~171 |
 | Didn't Miss A Single One | 43.00% | ~160 |
 | Spread | 39.00% | ~145 |
-| That was base | 37.00% | ~137 |
-| Safe Pair of Hands | 35.00% | ~130 |
+| That was base | 37.00% | ~138 |
+| Safe Pair of Hands | 34.00% | ~126 |
 | Don't Let Mom Know You're A Druglord | 29.00% | ~108 |
 | Architect of Fortunes | 25.00% | ~93 |
 | Pampered Life | 25.00% | ~93 |
 | Bite the Blow | 22.00% | ~82 |
 | Spreading Fear | 9.00% | ~33 |
+| I'm Going To Call You Kitty | 8.00% | ~30 |
 | Follow the Money | 7.00% | ~26 |
-| I'm Going To Call You Kitty | 7.00% | ~26 |
 | Operation Odessa | 1.00% | ~4 |
 | Iron Lady | 0.80% | ~3 |
 | Sense Of Style | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371 (Ranked 217)  
+Progressed: 372 (Ranked 217)  
 Completed: 1 (0.27%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 1 (0.27%) (Ranked 137)
 | 2023-06-04 | 367 | 1 |
 | 2023-06-05 | 368 | 1 |
 | 2023-06-06 | 370 | 1 |
-| 2023-06-08 | 371 | 1 |
+| 2023-06-08 | 372 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2756,9 +2756,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9644,
+  "EOS_Progressed": 9647,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5931,6 +5931,11 @@
       "Time": "2023-06-08T19:07:43.015555+00:00",
       "NumProgressed": 9644,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T20:06:00.0286819+00:00",
+      "NumProgressed": 9647,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5942,7 +5947,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "02_BurningCity",
@@ -6310,7 +6315,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "49_Flame",
@@ -6869,21 +6874,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8426,
+      "Progressed": 8429,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9644,
+      "Progressed": 9647,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-08T11:58:44.7153071+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:07:43.0155544+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:06:00.0286812+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:58:54.1725535+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:07:43.0157149+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:58:13.8295797+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:06:00.0288319+00:00"
 }

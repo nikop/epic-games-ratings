@@ -15,6 +15,7 @@
 | The Man Who Shattered Time | 3.00% | ~19 |
 | The Loose Cannon | 3.00% | ~19 |
 | Make Up For Lost Time | 3.00% | ~19 |
+| No, Thanks! | 3.00% | ~19 |
 | Breaking Down Barriers | 3.00% | ~19 |
 | The Wicked Twins | 3.00% | ~19 |
 | The Prince in Heels | 3.00% | ~19 |
@@ -34,7 +35,7 @@
 | Rail Rat | 2.00% | ~13 |
 | Time Flies | 2.00% | ~13 |
 | The Harder They Fall | 2.00% | ~13 |
-| No, Thanks! | 2.00% | ~13 |
+| Honest Mistake | 2.00% | ~13 |
 | Fast Learner | 2.00% | ~13 |
 | Theater Explorer | 2.00% | ~13 |
 | Immaculate Aim | 2.00% | ~13 |
@@ -43,7 +44,6 @@
 | The Brass Boss | 2.00% | ~13 |
 | Cultivair Explorer | 1.00% | ~6 |
 | Entresol Explorer | 1.00% | ~6 |
-| Honest Mistake | 1.00% | ~6 |
 | Golem Hunter | 1.00% | ~6 |
 | Rungs Was Right | 1.00% | ~6 |
 | Syron for Hope | 1.00% | ~6 |

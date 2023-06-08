@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6360,
+  "EOS_Progressed": 6362,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3158,6 +3158,11 @@
       "Time": "2023-06-08T19:07:02.1104708+00:00",
       "NumProgressed": 6360,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-08T20:05:28.4983979+00:00",
+      "NumProgressed": 6362,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -3169,7 +3174,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ARRR",
@@ -3231,9 +3236,9 @@
       "ID": "FASHION_VICTIM",
       "SetID": "3cck1g6",
       "Name": "Fashion Victim",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 191
+      "UsersEstimate": 127
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -3336,7 +3341,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6360,
+      "Progressed": 6362,
       "Completed": 23
     }
   ],
@@ -3344,8 +3349,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:07:02.11047+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:05:28.4983975+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:58:24.5969006+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:07:02.1105244+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:57:53.9753633+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:05:28.4984243+00:00"
 }

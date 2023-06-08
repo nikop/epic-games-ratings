@@ -4488,9 +4488,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 708070,
+  "EOS_Progressed": 708075,
   "EOS_Completed": 12763,
-  "EOS_NewPlayers": 1359,
+  "EOS_NewPlayers": 1358,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9053,6 +9053,11 @@
       "Time": "2023-06-08T19:07:35.6430714+00:00",
       "NumProgressed": 708070,
       "NumCompleted": 12763
+    },
+    {
+      "Time": "2023-06-08T20:05:53.9412821+00:00",
+      "NumProgressed": 708075,
+      "NumCompleted": 12763
     }
   ],
   "TotalAchievements": 50,
@@ -9224,7 +9229,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4956
+      "UsersEstimate": 4957
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -9256,7 +9261,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4956
+      "UsersEstimate": 4957
     },
     {
       "ID": "26_ShrineSpirit",
@@ -9296,7 +9301,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4956
+      "UsersEstimate": 4957
     },
     {
       "ID": "31_ComboHigh",
@@ -9424,7 +9429,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -9440,7 +9445,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -9463,21 +9468,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17371,
+      "Progressed": 17376,
       "Completed": 10244
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708070,
+      "Progressed": 708075,
       "Completed": 12763
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-08T08:59:11.5186478+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:07:35.6430706+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:05:53.9412816+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:59:44.3497379+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:07:35.643145+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:58:47.9320779+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:05:53.9413385+00:00"
 }

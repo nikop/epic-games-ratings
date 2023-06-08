@@ -5,28 +5,28 @@ Rating: 4.05 (Ranked 888)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,260 |
-| World Map | 80.00% | ~1,072 |
+| Victor | 94.00% | ~1,261 |
+| World Map | 80.00% | ~1,073 |
 | Temple of Eternals | 57.00% | ~764 |
-| Prestigious | 53.00% | ~710 |
-| Fellowship Power | 41.00% | ~549 |
+| Prestigious | 53.00% | ~711 |
+| Fellowship Power | 41.00% | ~550 |
 | Guild Power | 24.00% | ~322 |
-| Prestigious x10 | 21.00% | ~281 |
+| Prestigious x10 | 21.00% | ~282 |
 | The game is on | 18.00% | ~241 |
 | Exotic Merchant | 17.00% | ~228 |
-| Dragon Clicker | 16.00% | ~214 |
-| Miner Clicker | 16.00% | ~214 |
+| Dragon Clicker | 16.00% | ~215 |
+| Miner Clicker | 16.00% | ~215 |
 | Inspection | 15.00% | ~201 |
 | Full Party | 14.00% | ~188 |
 | Dragon Master | 13.00% | ~174 |
 | Enlightenment | 13.00% | ~174 |
 | Hero inspection | 13.00% | ~174 |
 | Lieutenant | 12.00% | ~161 |
-| Milestone collector | 11.00% | ~147 |
-| Mysterious Rock | 11.00% | ~147 |
-| Natural Talent | 11.00% | ~147 |
-| Superior | 11.00% | ~147 |
-| The Unstoppable | 11.00% | ~147 |
+| Milestone collector | 11.00% | ~148 |
+| Mysterious Rock | 11.00% | ~148 |
+| Natural Talent | 11.00% | ~148 |
+| Superior | 11.00% | ~148 |
+| The Unstoppable | 11.00% | ~148 |
 | Scientist | 9.00% | ~121 |
 | Challenger | 8.00% | ~107 |
 | Daily Quest Completionist | 8.00% | ~107 |
@@ -61,7 +61,7 @@ Rating: 4.05 (Ranked 888)
 | Arena Challenger | 1.00% | ~13 |
 | Ebony Jungle Liberator | 1.00% | ~13 |
 | The Alchemist | 1.00% | ~13 |
-| Legendary | 0.80% | ~11 |
+| Legendary | 0.90% | ~12 |
 | Training makes a Pro player | 0.70% | ~9 |
 | Transmute | 0.60% | ~8 |
 | Tree of Life | 0.50% | ~7 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 888)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,340 (Ranked 163)  
+Progressed: 1,341 (Ranked 163)  
 Completed: 1 (0.07%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.07%) (Ranked 176)
 | 2023-06-05 | 1,299 | 1 |
 | 2023-06-06 | 1,309 | 1 |
 | 2023-06-07 | 1,329 | 1 |
-| 2023-06-08 | 1,340 | 1 |
+| 2023-06-08 | 1,341 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -750,6 +750,11 @@
       "Time": "2023-06-08T16:06:54.2448955+00:00",
       "NumProgressed": 371,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T20:05:46.8017227+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -759,9 +764,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 126
     },
     {
       "ID": "cool-shirts",
@@ -801,7 +806,7 @@
       "Name": "That was base",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "hire-lieutenant",
@@ -809,7 +814,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "kill-lieutenants",
@@ -825,7 +830,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "play-at-night",
@@ -855,9 +860,9 @@
       "ID": "rename-lieutenant",
       "SetID": "bed33dd",
       "Name": "I\u0027m Going To Call You Kitty",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "rob-village",
@@ -895,9 +900,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 286
     },
     {
       "ID": "use-submarine",
@@ -912,15 +917,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:07:26.6424582+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:05:46.8017218+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:34.3322021+00:00",
-  "LastUpdate_Ratings": "2023-06-08T19:01:09.0631124+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:07:26.6424753+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:59:45.6685803+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:05:46.801754+00:00"
 }

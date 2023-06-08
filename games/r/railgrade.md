@@ -5,30 +5,30 @@ Rating: 4.54 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,509 |
-| Before the Downfall | 93.00% | ~17,565 |
-| Money like Water | 91.00% | ~17,187 |
-| Minimalist | 90.00% | ~16,998 |
-| Builder | 82.00% | ~15,487 |
-| Eraser | 70.00% | ~13,221 |
-| Pocket of Trains | 65.00% | ~12,277 |
-| Inspector | 59.00% | ~11,143 |
-| Going the Distance | 54.00% | ~10,199 |
+| Trevithick's Legacy | 98.00% | ~18,511 |
+| Before the Downfall | 93.00% | ~17,567 |
+| Money like Water | 91.00% | ~17,189 |
+| Minimalist | 90.00% | ~17,000 |
+| Builder | 82.00% | ~15,489 |
+| Eraser | 70.00% | ~13,222 |
+| Pocket of Trains | 65.00% | ~12,278 |
+| Inspector | 59.00% | ~11,145 |
+| Going the Distance | 54.00% | ~10,200 |
 | Oil Baron | 42.00% | ~7,933 |
 | Loads-a-Money | 42.00% | ~7,933 |
-| Helper of the People | 39.00% | ~7,366 |
+| Helper of the People | 39.00% | ~7,367 |
 | Simplification | 34.00% | ~6,422 |
 | Box of Trains | 33.00% | ~6,233 |
 | Let There be Light | 32.00% | ~6,044 |
-| Hot Water | 31.00% | ~5,855 |
-| Indecisive | 29.00% | ~5,477 |
-| The scenic route | 27.00% | ~5,099 |
+| Hot Water | 31.00% | ~5,856 |
+| Indecisive | 29.00% | ~5,478 |
+| The scenic route | 27.00% | ~5,100 |
 | Industrialist | 25.00% | ~4,722 |
 | Perfectionist | 23.00% | ~4,344 |
 | Trains over Pipes | 23.00% | ~4,344 |
-| 8K is Enough for Everyone | 22.00% | ~4,155 |
+| 8K is Enough for Everyone | 22.00% | ~4,156 |
 | Man of Steel | 16.00% | ~3,022 |
-| Room Full of Trains | 12.00% | ~2,266 |
+| Room Full of Trains | 12.00% | ~2,267 |
 | Investor | 9.00% | ~1,700 |
 | Multiverse | 7.00% | ~1,322 |
 | The poor groundwater levels | 7.00% | ~1,322 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 491)
 | Overdeer | 0.50% | ~94 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,887 (Ranked 99)  
+Progressed: 18,889 (Ranked 99)  
 Completed: 30 (0.16%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 30 (0.16%) (Ranked 151)
 | 2023-06-05 | 18,854 | 30 |
 | 2023-06-06 | 18,864 | 30 |
 | 2023-06-07 | 18,874 | 30 |
-| 2023-06-08 | 18,887 | 30 |
+| 2023-06-08 | 18,889 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 344)  
 Sum: 650 (Ranked 276)  

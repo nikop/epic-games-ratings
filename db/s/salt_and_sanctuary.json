@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2253,9 +2253,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 523831,
+  "EOS_Progressed": 523834,
   "EOS_Completed": 1441,
-  "EOS_NewPlayers": 861,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7293,6 +7293,11 @@
       "Time": "2023-06-08T19:07:12.7063563+00:00",
       "NumProgressed": 523831,
       "NumCompleted": 1441
+    },
+    {
+      "Time": "2023-06-08T20:05:36.737687+00:00",
+      "NumProgressed": 523834,
+      "NumCompleted": 1441
     }
   ],
   "TotalAchievements": 37,
@@ -7320,7 +7325,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 157149
+      "UsersEstimate": 157150
     },
     {
       "ID": "DEVOTED",
@@ -7360,7 +7365,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 434780
+      "UsersEstimate": 434782
     },
     {
       "ID": "HONED",
@@ -7416,7 +7421,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 209532
+      "UsersEstimate": 209534
     },
     {
       "ID": "THE_CASTLE",
@@ -7424,7 +7429,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57621
+      "UsersEstimate": 57622
     },
     {
       "ID": "THE_CAVE",
@@ -7464,7 +7469,7 @@
       "Name": "The Forest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 73336
+      "UsersEstimate": 73337
     },
     {
       "ID": "THE_IMPOSTER",
@@ -7544,7 +7549,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 41906
+      "UsersEstimate": 41907
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -7560,7 +7565,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 335252
+      "UsersEstimate": 335254
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -7599,15 +7604,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 523831,
+      "Progressed": 523834,
       "Completed": 1441
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-06-08T16:59:29.2067743+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:07:12.7063556+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:05:36.7376862+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:40.6702899+00:00",
-  "LastUpdate_Ratings": "2023-06-08T19:00:08.8091337+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:07:12.7064134+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:59:04.0300036+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:05:36.7377341+00:00"
 }

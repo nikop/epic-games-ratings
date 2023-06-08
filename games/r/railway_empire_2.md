@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~742 |
-| A new Journey | 72.00% | ~722 |
-| Departure | 71.00% | ~712 |
-| From X to Y | 70.00% | ~702 |
-| Way of Iron | 69.00% | ~692 |
-| Mystery Tour | 66.00% | ~662 |
-| Brainstorm | 65.00% | ~652 |
-| We brake for nobody | 65.00% | ~652 |
-| Mind the Gap | 63.00% | ~632 |
-| Travel Company | 63.00% | ~632 |
+| Country Bumpkin | 74.00% | ~743 |
+| A new Journey | 72.00% | ~723 |
+| Departure | 71.00% | ~713 |
+| From X to Y | 70.00% | ~703 |
+| Way of Iron | 69.00% | ~693 |
+| Mystery Tour | 66.00% | ~663 |
+| Brainstorm | 65.00% | ~653 |
+| We brake for nobody | 65.00% | ~653 |
+| Mind the Gap | 63.00% | ~633 |
+| Travel Company | 63.00% | ~633 |
 | All around the World | 60.00% | ~602 |
-| Right through the middle | 55.00% | ~552 |
+| Right through the middle | 54.00% | ~542 |
 | Facility Manager | 51.00% | ~512 |
 | Poor Devil | 51.00% | ~512 |
-| Producer | 46.00% | ~461 |
-| Apprentice | 42.00% | ~421 |
-| Bridge Builder | 37.00% | ~371 |
+| Producer | 46.00% | ~462 |
+| Apprentice | 42.00% | ~422 |
+| Bridge Builder | 38.00% | ~382 |
 | Stoker | 34.00% | ~341 |
 | Access granted | 33.00% | ~331 |
 | Going once, going twice, sold | 29.00% | ~291 |
@@ -35,12 +35,12 @@
 | Country Life | 20.00% | ~201 |
 | Hostile Takeover | 20.00% | ~201 |
 | Trailblazer | 18.00% | ~181 |
-| Traffic Jam | 14.00% | ~140 |
-| Traffic Junction | 14.00% | ~140 |
-| Breaking Ground | 14.00% | ~140 |
-| Assimilated | 13.00% | ~130 |
-| Locusts | 13.00% | ~130 |
-| Networker | 13.00% | ~130 |
+| Traffic Jam | 14.00% | ~141 |
+| Traffic Junction | 14.00% | ~141 |
+| Breaking Ground | 14.00% | ~141 |
+| Assimilated | 13.00% | ~131 |
+| Locusts | 13.00% | ~131 |
+| Networker | 13.00% | ~131 |
 | Resistance is futile | 12.00% | ~120 |
 | Max Power | 9.00% | ~90 |
 | Go West | 8.00% | ~80 |
@@ -54,13 +54,13 @@
 | Let off some steam | 2.00% | ~20 |
 | Accurate | 1.00% | ~10 |
 | Engineer | 0.30% | ~3 |
-| European Union | 0.20% | ~2 |
+| European Union | 0.30% | ~3 |
 | Call of Duty | 0.20% | ~2 |
 | Three Cheers for Progress | 0.10% | ~1 |
 | Together we stand | 0.10% | ~1 |
 | United States | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,003 (Ranked 175)  
+Progressed: 1,004 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,4 +85,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 916 | 0 |
 | 2023-06-06 | 961 | 0 |
 | 2023-06-07 | 984 | 0 |
-| 2023-06-08 | 1,003 | 0 |
+| 2023-06-08 | 1,004 | 0 |

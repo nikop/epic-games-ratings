@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2734,
+  "EOS_Progressed": 2736,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2435,6 +2435,11 @@
       "Time": "2023-06-08T19:04:44.3055319+00:00",
       "NumProgressed": 2734,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-08T20:03:51.4243242+00:00",
+      "NumProgressed": 2736,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -2454,7 +2459,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "11",
@@ -2470,7 +2475,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "13",
@@ -2486,7 +2491,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "15",
@@ -2502,7 +2507,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "17",
@@ -2510,7 +2515,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "18",
@@ -2534,7 +2539,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "20",
@@ -2598,7 +2603,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "6",
@@ -2630,20 +2635,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2734,
+      "Progressed": 2736,
       "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-08T19:04:44.3055313+00:00",
+  "LastChanged_Achievements": "2023-06-08T20:03:51.4243238+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.6683071+00:00",
-  "LastUpdate_Ratings": "2023-06-08T18:59:41.2715826+00:00",
-  "LastUpdate_Achievements": "2023-06-08T19:04:44.3055918+00:00"
+  "LastUpdate_Ratings": "2023-06-08T19:58:45.9026309+00:00",
+  "LastUpdate_Achievements": "2023-06-08T20:03:51.4243477+00:00"
 }

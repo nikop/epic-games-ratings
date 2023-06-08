@@ -28,6 +28,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 1.00% | ~152 |
 | Monastery of the Holy Flame | 1.00% | ~152 |
 | Royal Outpost | 1.00% | ~152 |
+| Statue of the Forefathers | 1.00% | ~152 |
 | Corrosive Torrent | 1.00% | ~152 |
 | Watchtower | 1.00% | ~152 |
 | Cursed Lands | 1.00% | ~152 |
@@ -35,7 +36,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 1.00% | ~152 |
 | Trade Baron | 1.00% | ~152 |
 | Serving Ale | 0.90% | ~137 |
-| Statue of the Forefathers | 0.90% | ~137 |
 | Forsaken Gods Temple | 0.90% | ~137 |
 | Ruined Armory | 0.80% | ~122 |
 | Defying the Crown | 0.80% | ~122 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,227 (Ranked 101)  
+Progressed: 15,228 (Ranked 101)  
 Completed: 34 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 34 (0.22%) (Ranked 141)
 | 2023-06-05 | 15,193 | 33 |
 | 2023-06-06 | 15,208 | 33 |
 | 2023-06-07 | 15,218 | 34 |
-| 2023-06-08 | 15,227 | 34 |
+| 2023-06-08 | 15,228 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 198)  
 Sum: 3,038 (Ranked 152)  

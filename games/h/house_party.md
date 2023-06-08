@@ -10,10 +10,10 @@ Number of Ratings: 177  (23.09.2022)
 | Smooth Operator: Madison | 2.00% | ~109 |
 | The Brahdyssey | 1.00% | ~55 |
 | Katherine | 1.00% | ~55 |
+| Life Found a Way | 1.00% | ~25 |
 | Relentless | 1.00% | ~55 |
 | If at First You Don't Succeed... | 1.00% | ~55 |
 | Caught in the Act | 0.90% | ~49 |
-| Life Found a Way | 0.90% | ~22 |
 | Drunk and Disorderly: Stephanie | 0.70% | ~38 |
 | IRL Let's Player | 0.50% | ~27 |
 | Drunk and Disorderly: Ashley | 0.40% | ~22 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,459 (Ranked 126)  
+Progressed: 5,460 (Ranked 126)  
 Completed: 3 (0.05%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 3 (0.05%) (Ranked 181)
 | 2023-06-05 | 5,402 | 3 |
 | 2023-06-06 | 5,417 | 3 |
 | 2023-06-07 | 5,438 | 3 |
-| 2023-06-08 | 5,459 | 3 |
+| 2023-06-08 | 5,460 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

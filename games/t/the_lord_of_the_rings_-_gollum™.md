@@ -7,7 +7,7 @@
 | The Wraith | 62.00% | ~259 |
 | Collectibles Part 1 | 51.00% | ~213 |
 | Welcome to Mordor! | 51.00% | ~213 |
-| Wait! Wait! Not yet! | 35.00% | ~146 |
+| Wait! Wait! Not yet! | 36.00% | ~150 |
 | Like Flying... | 31.00% | ~129 |
 | Memories | 29.00% | ~121 |
 | The Maggot | 25.00% | ~104 |
@@ -17,14 +17,14 @@
 | The Spider | 12.00% | ~50 |
 | He's so Annoying | 7.00% | ~29 |
 | Good as Fish | 7.00% | ~29 |
+| Her Eyes | 7.00% | ~29 |
 | Murderer | 7.00% | ~29 |
-| Her Eyes | 6.00% | ~25 |
 | Trigger-Happy | 6.00% | ~25 |
 | Gollum/Sméagol | 5.00% | ~21 |
 | The Friend | 4.00% | ~17 |
+| So Silly! | 4.00% | ~17 |
 | Made a Song | 4.00% | ~17 |
 | Master of the Old Game | 3.00% | ~13 |
-| So Silly! | 3.00% | ~13 |
 | So Tasty! | 3.00% | ~13 |
 | Break a Leg! | 2.00% | ~8 |
 | Sweet Darkness | 2.00% | ~8 |

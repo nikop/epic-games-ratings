@@ -172,6 +172,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~180 |
 | Nimblest Escape | 0.20% | ~180 |
 | Fugitives | 0.20% | ~180 |
+| From The Shadows | 0.20% | ~180 |
 | Excavating History | 0.20% | ~180 |
 | Premature Betrayal | 0.20% | ~180 |
 | Towering Expectations | 0.20% | ~180 |
@@ -246,6 +247,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Gargauth's Betrayal | 0.20% | ~113 |
 | Ending the Rime - Part 1 | 0.20% | ~113 |
 | Ending the Rime - Part 2 | 0.20% | ~113 |
+| Reghed Glacier Mysteries | 0.20% | ~113 |
 | Tekeli-li's Hunt | 0.20% | ~113 |
 | The Rite of the Arcane Octad | 0.20% | ~113 |
 | An Icewind Dale Reunion | 0.20% | ~113 |
@@ -346,7 +348,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~56 |
 | Stumbling Escape | 0.10% | ~90 |
 | Distracted Escape | 0.10% | ~56 |
-| From The Shadows | 0.10% | ~90 |
 | Spined Nuisances | 0.10% | ~90 |
 | Twilight Twist | 0.10% | ~56 |
 | Screams of the Dead | 0.10% | ~90 |
@@ -485,7 +486,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shady Sidekicks - Part 1 | 0.10% | ~56 |
 | Ambitious Speakers - Part 2 | 0.10% | ~56 |
 | Shady Sidekicks - Part 2 | 0.10% | ~56 |
-| Reghed Glacier Mysteries | 0.10% | ~56 |
 | Mysteries Unlocked | 0.10% | ~56 |
 | Male Pattern Boldness | 0.10% | ~56 |
 | Cackling Horror | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,144 (Ranked 63)  
+Progressed: 90,147 (Ranked 63)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
-| 2023-06-08 | 90,144 | 1,924 |
+| 2023-06-08 | 90,147 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
 Sum: 30,051 (Ranked 37)  

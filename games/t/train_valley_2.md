@@ -26,6 +26,7 @@ Number of Ratings: 87  (23.09.2022)
 | Miner | 3.00% | ~2 |
 | Multilevel road | 3.00% | ~22 |
 | One way | 3.00% | ~22 |
+| Overseer | 3.00% | ~22 |
 | Pink Ruby | 3.00% | ~2 |
 | Star Sapphire | 3.00% | ~2 |
 | Steam Age | 3.00% | ~22 |
@@ -34,12 +35,12 @@ Number of Ratings: 87  (23.09.2022)
 | Without a lunch break | 3.00% | ~22 |
 | Beginner | 2.00% | ~15 |
 | Bridge builder | 2.00% | ~15 |
+| Electrical Age | 2.00% | ~15 |
 | Engineer | 2.00% | ~15 |
 | Industrial Age | 2.00% | ~15 |
 | Jewelry accuracy | 2.00% | ~15 |
 | Large construction | 2.00% | ~15 |
 | Living it large | 2.00% | ~15 |
-| Overseer | 2.00% | ~15 |
 | Prick of conscience | 2.00% | ~15 |
 | Relocation | 2.00% | ~15 |
 | Sabotage | 2.00% | ~15 |
@@ -47,7 +48,6 @@ Number of Ratings: 87  (23.09.2022)
 | Stargazer | 2.00% | ~15 |
 | Astronomer | 1.00% | ~7 |
 | At the last moment! | 1.00% | ~7 |
-| Electrical Age | 1.00% | ~7 |
 | Environmental activist | 1.00% | ~7 |
 | Globalisation Age | 1.00% | ~7 |
 | Lucky vandal | 1.00% | ~7 |
