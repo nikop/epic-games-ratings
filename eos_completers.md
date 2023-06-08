@@ -20,11 +20,11 @@
 | 18 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 20 | [Smelter](games/s/smelter.md) | 8.57% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.14% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.13% |
 | 22 | [Remains](games/r/remains.md) | 8.11% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.56% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.55% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.11% |
 | 27 | [Scorn](games/s/scorn.md) | 6.90% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 6.71% |
@@ -34,7 +34,7 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.50% |
+| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.46% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
@@ -66,7 +66,7 @@
 | 64 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.07% |
-| 67 | [Iron Danger](games/i/iron_danger.md) | 2.05% |
+| 67 | [Iron Danger](games/i/iron_danger.md) | 2.04% |
 | 68 | [JARS](games/j/jars.md) | 1.92% |
 | 69 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 70 | [Sifu](games/s/sifu.md) | 1.80% |
