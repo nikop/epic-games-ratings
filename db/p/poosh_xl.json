@@ -4,7 +4,7 @@
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 120,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.68,
+  "EOS_Completed_Percentage": 1.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:01.034139+00:00",
@@ -559,6 +559,11 @@
       "Time": "2023-06-07T13:13:03.6470126+00:00",
       "NumProgressed": 119,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-08T13:08:25.2196171+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -664,7 +669,7 @@
       "ID": "Destroy 25 Obstacles",
       "SetID": "5n829i",
       "Name": "Destroyed 25 Obstacles",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 50,
       "UsersEstimate": 58
     },
@@ -674,7 +679,7 @@
       "Name": "Obtained 50 PowerUps",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Poosh Past 10000",
@@ -714,7 +719,7 @@
       "Name": "Pooshed over 250000",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Terrible Start",
@@ -729,13 +734,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-06-08T12:03:46.5691592+00:00",
+  "LastChanged_Achievements": "2023-06-08T13:08:25.2196165+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:42.348695+00:00",
-  "LastUpdate_Ratings": "2023-06-08T11:57:57.3301794+00:00",
-  "LastUpdate_Achievements": "2023-06-08T12:03:46.5691796+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:02:35.8918834+00:00",
+  "LastUpdate_Achievements": "2023-06-08T13:08:25.2196303+00:00"
 }

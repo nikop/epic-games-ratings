@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 372,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -806,6 +806,11 @@
       "Time": "2023-06-08T11:04:12.0065513+00:00",
       "NumProgressed": 370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T13:07:27.8885129+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -841,7 +846,7 @@
       "Name": "Archmage 1",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "archmage_2",
@@ -863,9 +868,9 @@
       "ID": "call_of_mana_1",
       "SetID": "53c1p3k",
       "Name": "Call of Mana 1",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "call_of_mana_2",
@@ -985,7 +990,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "elemental_stones_2",
@@ -1344,14 +1349,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 372,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-08T12:03:12.3400671+00:00",
+  "LastChanged_Achievements": "2023-06-08T13:07:27.8885121+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-08T11:57:18.4375851+00:00",
-  "LastUpdate_Achievements": "2023-06-08T12:03:12.3401365+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:02:05.7273556+00:00",
+  "LastUpdate_Achievements": "2023-06-08T13:07:27.8885682+00:00"
 }

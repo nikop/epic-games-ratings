@@ -1,18 +1,18 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.49 (Ranked 564)  
+Rating: 4.50 (Ranked 545)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 28.00% | ~671 |
 | Confirming Suspicions | 23.00% | ~551 |
 | The Kraken Wakes | 18.00% | ~431 |
-| It's Starting to Crack | 16.00% | ~383 |
-| Lord of War | 14.00% | ~335 |
-| Resourceful | 13.00% | ~311 |
-| Change the Channel | 13.00% | ~311 |
-| Taking it back | 11.00% | ~263 |
+| It's Starting to Crack | 16.00% | ~384 |
+| Lord of War | 14.00% | ~336 |
+| Resourceful | 13.00% | ~312 |
+| Change the Channel | 13.00% | ~312 |
+| Taking it back | 12.00% | ~288 |
 | Organ Grinder | 10.00% | ~240 |
 | Target America | 10.00% | ~240 |
 | As Quiet as a Mouse | 9.00% | ~216 |
@@ -77,7 +77,7 @@ Rating: 4.49 (Ranked 564)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,395 (Ranked 147)  
+Progressed: 2,397 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-05 | 2,307 | 2 |
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
-| 2023-06-08 | 2,395 | 2 |
+| 2023-06-08 | 2,397 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -170,3 +170,4 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-03 | 4.44 | 0 | 0 |
 | 2023-06-05 | 4.45 | 0 | 0 |
 | 2023-06-07 | 4.49 | 0 | 0 |
+| 2023-06-08 | 4.50 | 0 | 0 |

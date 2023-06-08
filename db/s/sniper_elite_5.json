@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 564,
+  "Ranking_Rating": 545,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 147,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -272,15 +272,21 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-08T13:05:05.43393+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2395,
+  "EOS_Progressed": 2397,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2858,6 +2864,11 @@
       "Time": "2023-06-08T12:06:23.0207061+00:00",
       "NumProgressed": 2395,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-08T13:10:33.7972498+00:00",
+      "NumProgressed": 2397,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3077,7 +3088,7 @@
       "Name": "Lord of War",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3093,7 +3104,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3181,7 +3192,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3205,7 +3216,7 @@
       "Name": "Change the Channel",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3235,9 +3246,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 288
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3436,22 +3447,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2346,
+      "Progressed": 2348,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2395,
+      "Progressed": 2397,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-06-07T21:00:47.5607681+00:00",
-  "LastChanged_Achievements": "2023-06-08T12:06:23.0207056+00:00",
+  "LastChanged": "2023-06-08T13:05:05.4339298+00:00",
+  "LastChanged_Achievements": "2023-06-08T13:10:33.7972493+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-08T12:01:05.6011215+00:00",
-  "LastUpdate_Achievements": "2023-06-08T12:06:23.0207966+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:05:05.4339304+00:00",
+  "LastUpdate_Achievements": "2023-06-08T13:10:33.7973134+00:00"
 }

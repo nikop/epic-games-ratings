@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 233,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3,
   "EosHistory": [
@@ -210,8 +210,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-06-08T12:06:07.0311993+00:00",
+  "LastChanged_Achievements": "2023-06-08T13:10:20.2037349+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:28.4615412+00:00",
-  "LastUpdate_Ratings": "2023-06-08T11:58:39.2654702+00:00",
-  "LastUpdate_Achievements": "2023-06-08T12:06:07.0312106+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:03:10.2690469+00:00",
+  "LastUpdate_Achievements": "2023-06-08T13:10:20.2037431+00:00"
 }

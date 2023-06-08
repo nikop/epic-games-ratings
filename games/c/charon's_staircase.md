@@ -8,7 +8,7 @@
 | The secret passage | 54.00% | ~39 |
 | First document retrieved | 49.00% | ~35 |
 | Across the lake | 49.00% | ~35 |
-| There is something strange here... | 46.00% | ~33 |
+| There is something strange here... | 47.00% | ~34 |
 | Curious by nature | 42.00% | ~30 |
 | A lonely death | 36.00% | ~26 |
 | An ear for music | 35.00% | ~25 |

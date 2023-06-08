@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -735,6 +735,11 @@
       "Time": "2023-06-08T05:06:16.5967592+00:00",
       "NumProgressed": 415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T13:10:21.1922717+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -770,7 +775,7 @@
       "Name": "The Wraith",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "Chapter10",
@@ -914,7 +919,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Memories",
@@ -1033,14 +1038,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-08T12:06:08.1992774+00:00",
+  "LastChanged_Achievements": "2023-06-08T13:10:21.1922711+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.3133808+00:00",
-  "LastUpdate_Ratings": "2023-06-08T11:58:07.3535176+00:00",
-  "LastUpdate_Achievements": "2023-06-08T12:06:08.199312+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:02:44.1081277+00:00",
+  "LastUpdate_Achievements": "2023-06-08T13:10:21.1923002+00:00"
 }

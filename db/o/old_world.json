@@ -1469,7 +1469,7 @@
   ],
   "EOS_Progressed": 11824,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5893,9 +5893,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
       "SetID": "9201eeb",
       "Name": "Friendly Family",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 8868
+      "UsersEstimate": 8986
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -7275,8 +7275,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-06-07T10:58:30.6933502+00:00",
-  "LastChanged_Achievements": "2023-06-08T12:06:43.3145756+00:00",
+  "LastChanged_Achievements": "2023-06-08T13:10:51.395406+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:05.1771946+00:00",
-  "LastUpdate_Ratings": "2023-06-08T11:58:18.2477143+00:00",
-  "LastUpdate_Achievements": "2023-06-08T12:06:43.3160158+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:02:52.8202175+00:00",
+  "LastUpdate_Achievements": "2023-06-08T13:10:51.3960611+00:00"
 }

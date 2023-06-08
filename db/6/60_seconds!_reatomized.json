@@ -1763,9 +1763,9 @@
       "ID": "ACH_MUTANT",
       "SetID": "5nj1ea3",
       "Name": "New species",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_NAYSAYER",
@@ -1875,9 +1875,9 @@
       "ID": "ACH_SURVIVE_20_DAYS",
       "SetID": "5nj1ea3",
       "Name": "Survivalist",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 3654
+      "UsersEstimate": 3696
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -1932,8 +1932,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-05-15T11:00:28.5619005+00:00",
-  "LastChanged_Achievements": "2023-06-08T12:06:38.9872938+00:00",
+  "LastChanged_Achievements": "2023-06-08T13:10:47.845882+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:49.5904183+00:00",
-  "LastUpdate_Ratings": "2023-06-08T12:00:53.4159606+00:00",
-  "LastUpdate_Achievements": "2023-06-08T12:06:38.987369+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:04:55.1024055+00:00",
+  "LastUpdate_Achievements": "2023-06-08T13:10:47.8459309+00:00"
 }

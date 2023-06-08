@@ -1,16 +1,16 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.43 (Ranked 644)  
+Rating: 4.43 (Ranked 643)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,698 |
-| Predator I | 22.00% | ~55,140 |
+| Survivor | 31.00% | ~77,700 |
+| Predator I | 22.00% | ~55,142 |
 | Fixer I | 10.00% | ~25,064 |
 | A week in Century City | 10.00% | ~25,064 |
 | The Wait | 7.00% | ~17,545 |
-| Green thumb I | 6.00% | ~15,038 |
+| Green thumb I | 6.00% | ~15,039 |
 | Well-oiled machine | 5.00% | ~12,532 |
 | Saver I | 5.00% | ~12,532 |
 | Cleaning Company | 5.00% | ~12,532 |
@@ -36,7 +36,7 @@ Rating: 4.43 (Ranked 644)
 | Bricklayer | 1.00% | ~2,506 |
 | Run the Economy | 1.00% | ~2,506 |
 | Committed Relationship | 0.80% | ~2,005 |
-| Number 1 | 0.70% | ~1,754 |
+| Number 1 | 0.70% | ~1,755 |
 | Interior designer | 0.60% | ~1,504 |
 | The Gamble | 0.50% | ~1,253 |
 | The Descent | 0.50% | ~1,253 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 644)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,638 (Ranked 41)  
+Progressed: 250,644 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 1 (0.00%) (Ranked 212)
 | 2023-06-05 | 250,469 | 1 |
 | 2023-06-06 | 250,536 | 1 |
 | 2023-06-07 | 250,608 | 1 |
-| 2023-06-08 | 250,638 | 1 |
+| 2023-06-08 | 250,644 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 466)  
 Sum: 71 (Ranked 421)  

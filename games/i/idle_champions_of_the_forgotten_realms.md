@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 1.00% | ~901 |
 | Beast Intentions | 0.90% | ~811 |
 | The Mad Wizard | 0.90% | ~811 |
-| The Court of Storms | 0.90% | ~507 |
+| The Court of Storms | 0.90% | ~508 |
 | The Ring of Regeneration | 0.70% | ~631 |
 | Beware the Jabberwock | 0.70% | ~395 |
 | Were-verpowered | 0.60% | ~541 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,108 (Ranked 63)  
-Completed: 1,922 (2.13%) (Ranked 66)  
+Progressed: 90,117 (Ranked 63)  
+Completed: 1,923 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -549,7 +549,7 @@ Completed: 1,922 (2.13%) (Ranked 66)
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
-| 2023-06-08 | 90,108 | 1,922 |
+| 2023-06-08 | 90,117 | 1,923 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,049 (Ranked 37)  

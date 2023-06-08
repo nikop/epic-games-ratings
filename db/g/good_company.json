@@ -2,12 +2,12 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 643,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4942,
+  "EOS_Progressed": 4943,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1399,6 +1399,11 @@
       "Time": "2023-06-08T03:20:07.1050882+00:00",
       "NumProgressed": 4942,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T13:10:44.4341738+00:00",
+      "NumProgressed": 4943,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1522,7 +1527,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2471
+      "UsersEstimate": 2472
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2017,15 +2022,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4942,
+      "Progressed": 4943,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-08T12:06:35.1850791+00:00",
+  "LastChanged_Achievements": "2023-06-08T13:10:44.4341733+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-08T11:59:24.5113322+00:00",
-  "LastUpdate_Achievements": "2023-06-08T12:06:35.1851772+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:03:46.4178753+00:00",
+  "LastUpdate_Achievements": "2023-06-08T13:10:44.4342405+00:00"
 }

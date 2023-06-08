@@ -2,9 +2,9 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 40,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -151,6 +151,11 @@
       "Time": "2023-06-08T11:04:01.7834453+00:00",
       "NumProgressed": 39,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T13:07:20.1473992+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -160,7 +165,7 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -176,7 +181,7 @@
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -264,7 +269,7 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -320,7 +325,7 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -336,7 +341,7 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -424,7 +429,7 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 62,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -464,7 +469,7 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -512,7 +517,7 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -545,14 +550,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 40,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-08T12:03:03.2436001+00:00",
+  "LastChanged_Achievements": "2023-06-08T13:07:20.1473985+00:00",
   "LastUpdate_AppInfo": "2023-06-08T03:57:14.5111987+00:00",
-  "LastUpdate_Ratings": "2023-06-08T11:57:16.7832515+00:00",
-  "LastUpdate_Achievements": "2023-06-08T12:03:03.2436447+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:02:04.5087809+00:00",
+  "LastUpdate_Achievements": "2023-06-08T13:07:20.1474319+00:00"
 }

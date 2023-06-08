@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -530,9 +530,9 @@
       "ID": "ACHV_BIGGERTHEYARE",
       "SetID": "cceobco",
       "Name": "The Bigger They Are",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHV_CHALLENGEACCEPTED",
@@ -642,9 +642,9 @@
       "ID": "ACHV_NANONIC2",
       "SetID": "cceobco",
       "Name": "Nanonic II",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHV_NANONIC3",
@@ -706,9 +706,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -722,9 +722,9 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -755,8 +755,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-08T12:02:03.9634666+00:00",
+  "LastChanged_Achievements": "2023-06-08T13:07:04.979228+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:02.4090562+00:00",
-  "LastUpdate_Ratings": "2023-06-08T12:00:09.4505084+00:00",
-  "LastUpdate_Achievements": "2023-06-08T12:02:03.9634923+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:04:20.8641231+00:00",
+  "LastUpdate_Achievements": "2023-06-08T13:07:04.9792466+00:00"
 }

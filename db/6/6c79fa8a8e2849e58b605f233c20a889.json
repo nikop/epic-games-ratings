@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1378,
+  "EOS_Progressed": 1379,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1551,6 +1551,11 @@
       "Time": "2023-06-08T12:03:43.4799843+00:00",
       "NumProgressed": 1378,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T13:08:22.8275113+00:00",
+      "NumProgressed": 1379,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1594,7 +1599,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -1642,7 +1647,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "GLOVE_SLAP",
@@ -1666,7 +1671,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "GUARD_MAKER",
@@ -1696,9 +1701,9 @@
       "ID": "KNIGHT_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Knight Commander",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 41
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -1737,14 +1742,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1378,
+      "Progressed": 1379,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-08T12:03:43.4799836+00:00",
+  "LastChanged_Achievements": "2023-06-08T13:08:22.8275106+00:00",
   "LastUpdate_AppInfo": "2023-06-06T15:56:55.6600857+00:00",
-  "LastUpdate_Ratings": "2023-06-08T11:57:26.4559824+00:00",
-  "LastUpdate_Achievements": "2023-06-08T12:03:43.4800147+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:02:11.8190394+00:00",
+  "LastUpdate_Achievements": "2023-06-08T13:08:22.8275357+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Aspairagus | 53.00% | ~24 |
-| Seeds of War | 47.00% | ~45 |
+| Seeds of War | 48.00% | ~46 |
 | Survivor | 47.00% | ~22 |
 | Early Survivor | 36.00% | ~17 |
 | First Blood | 35.00% | ~34 |
@@ -24,7 +24,7 @@
 | Grave Digger | 17.00% | ~8 |
 | Drinking Problem | 14.00% | ~13 |
 | Oh My Gourd | 10.00% | ~5 |
-| Skin Of Your Teeth | 8.00% | ~8 |
+| Skin Of Your Teeth | 9.00% | ~9 |
 | Perfect | 8.00% | ~4 |
 | Expert Survivor | 8.00% | ~4 |
 | Summers Here | 7.00% | ~3 |

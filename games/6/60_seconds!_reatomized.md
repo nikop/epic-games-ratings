@@ -9,7 +9,7 @@ Rating: 4.64 (Ranked 316)
 | All thumbs | 91.00% | ~3,822 |
 | I will survive! | 91.00% | ~3,822 |
 | Home, sweet home | 89.00% | ~3,738 |
-| Survivalist | 87.00% | ~3,654 |
+| Survivalist | 88.00% | ~3,696 |
 | One way ticket | 83.00% | ~3,486 |
 | Last man standing | 77.00% | ~3,234 |
 | Family guy | 75.00% | ~3,150 |
@@ -30,8 +30,8 @@ Rating: 4.64 (Ranked 316)
 | Disco Roach | 26.00% | ~1,092 |
 | Dawkins Residence | 19.00% | ~798 |
 | Rescue time! | 16.00% | ~672 |
+| New species | 16.00% | ~672 |
 | New order | 15.00% | ~630 |
-| New species | 15.00% | ~630 |
 | A New Hope | 14.00% | ~588 |
 | Enigma | 14.00% | ~588 |
 | Challenger | 11.00% | ~462 |

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're Going Down! | 96.00% | ~70 |
-| To Each Their Own | 45.00% | ~33 |
+| To Each Their Own | 47.00% | ~34 |
 | You Get An Upgrade, You Get An Upgrade! | 19.00% | ~14 |
 | Onwards and Upwards | 19.00% | ~14 |
 | Serial Winner | 14.00% | ~10 |

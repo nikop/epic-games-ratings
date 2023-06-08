@@ -46,7 +46,7 @@ Number of Ratings: 125  (23.09.2022)
 | Who You Gonna Call? | 6.00% | ~97 |
 | Healing Old Wounds | 5.00% | ~81 |
 | This Is Sparta | 5.00% | ~81 |
-| What’s in the Box? | 4.00% | ~65 |
+| What’s in the Box? | 5.00% | ~81 |
 | Ghost Town | 3.00% | ~48 |
 | Moondrunk | 3.00% | ~48 |
 | Lord Inut Sends His Regards | 2.00% | ~32 |
