@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151,
+  "EOS_Progressed": 152,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -373,6 +373,11 @@
       "Time": "2023-06-08T10:05:26.284417+00:00",
       "NumProgressed": 151,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T14:06:20.8221946+00:00",
+      "NumProgressed": 152,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -382,7 +387,7 @@
       "ID": "ACH_ACT1",
       "SetID": "2310cb1",
       "Name": "Wake Up",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 30,
       "UsersEstimate": 122
     },
@@ -454,9 +459,9 @@
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_ACT4",
@@ -480,15 +485,15 @@
       "Name": "48 Attempts",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ACT7",
       "SetID": "2310cb1",
       "Name": "No Time To Relax",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_ACT8",
@@ -520,7 +525,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_CHAINREACTION",
@@ -576,7 +581,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -599,7 +604,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 151,
+      "Progressed": 152,
       "Completed": 0
     }
   ],
@@ -607,8 +612,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-08T13:10:23.6526283+00:00",
+  "LastChanged_Achievements": "2023-06-08T14:06:20.822194+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.4593213+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:02:29.9472308+00:00",
-  "LastUpdate_Achievements": "2023-06-08T13:10:23.6526441+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:57:50.0637275+00:00",
+  "LastUpdate_Achievements": "2023-06-08T14:06:20.8222221+00:00"
 }

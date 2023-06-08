@@ -284,7 +284,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2397,
+  "EOS_Progressed": 2401,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 0,
@@ -2869,6 +2869,11 @@
       "Time": "2023-06-08T13:10:33.7972498+00:00",
       "NumProgressed": 2397,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-08T14:06:32.3665914+00:00",
+      "NumProgressed": 2401,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2960,7 +2965,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -2998,9 +3003,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 168
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3048,7 +3053,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3102,9 +3107,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 288
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3128,7 +3133,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3246,9 +3251,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 264
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3326,9 +3331,9 @@
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
       "SetID": "83mdf7p",
       "Name": "Covert Elimination",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -3344,7 +3349,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -3352,7 +3357,7 @@
       "Name": "Operation Foxley",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -3366,17 +3371,17 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -3447,13 +3452,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2348,
+      "Progressed": 2352,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2397,
+      "Progressed": 2401,
       "Completed": 2
     }
   ],
@@ -3461,8 +3466,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-08T13:05:05.4339298+00:00",
-  "LastChanged_Achievements": "2023-06-08T13:10:33.7972493+00:00",
+  "LastChanged_Achievements": "2023-06-08T14:06:32.3665907+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:05:05.4339304+00:00",
-  "LastUpdate_Achievements": "2023-06-08T13:10:33.7973134+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:00:56.9365857+00:00",
+  "LastUpdate_Achievements": "2023-06-08T14:06:32.3666786+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 643,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -478,9 +478,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 250644,
+  "EOS_Progressed": 250646,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5348,6 +5348,11 @@
       "Time": "2023-06-08T13:08:01.7287659+00:00",
       "NumProgressed": 250644,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T14:03:45.4740163+00:00",
+      "NumProgressed": 250646,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -5463,7 +5468,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25064
+      "UsersEstimate": 25065
     },
     {
       "ID": "CreditLevel2",
@@ -5613,9 +5618,9 @@
       "ID": "KillOtherInFirstMinute",
       "SetID": "3l9dm1h",
       "Name": "Cleaning Company",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12532
+      "UsersEstimate": 15039
     },
     {
       "ID": "KillOtherWithKatana",
@@ -5751,7 +5756,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25064
+      "UsersEstimate": 25065
     },
     {
       "ID": "ReachNDays2",
@@ -5806,7 +5811,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 250644,
+      "Progressed": 250646,
       "Completed": 1
     }
   ],
@@ -5814,8 +5819,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-07T19:01:29.3487318+00:00",
-  "LastChanged_Achievements": "2023-06-08T13:08:01.7287653+00:00",
+  "LastChanged_Achievements": "2023-06-08T14:03:45.4740153+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.3196281+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:04:51.7290962+00:00",
-  "LastUpdate_Achievements": "2023-06-08T13:08:01.728831+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:00:40.930715+00:00",
+  "LastUpdate_Achievements": "2023-06-08T14:03:45.4741527+00:00"
 }

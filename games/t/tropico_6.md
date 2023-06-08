@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,640 |
+| Just One...More...Term... | 76.00% | ~2,641 |
 | Un-Lonely Island | 48.00% | ~1,668 |
 | The Beginning of a Servantship | 46.00% | ~1,598 |
-| Trade Is My Trait | 37.00% | ~1,285 |
-| Number 18 | 25.00% | ~868 |
+| Trade Is My Trait | 37.00% | ~1,286 |
+| Number 18 | 25.00% | ~869 |
 | We Don't Have Time For That | 20.00% | ~695 |
-| The Governator | 18.00% | ~625 |
+| The Governator | 18.00% | ~626 |
 | Caribbean Comrade | 17.00% | ~591 |
 | The Legend of Langostino | 17.00% | ~591 |
 | The Dreamer of Dreams | 16.00% | ~556 |
 | Happy Ending? | 11.00% | ~382 |
 | Go Sovereigns! | 11.00% | ~382 |
 | For Science! | 11.00% | ~382 |
-| Of Seals And Men | 10.00% | ~347 |
-| Shackadelic | 10.00% | ~347 |
+| Of Seals And Men | 10.00% | ~348 |
+| Shackadelic | 10.00% | ~348 |
 | Double Trouble | 9.00% | ~313 |
 | Firestarter | 8.00% | ~278 |
 | Make Tropico Great Again! | 8.00% | ~278 |
@@ -37,17 +37,17 @@ Number of Ratings: 398  (23.09.2022)
 | Narcissist | 3.00% | ~104 |
 | Promising Endeavors | 3.00% | ~104 |
 | The Time For Wonders | 3.00% | ~104 |
-| Chain Gang | 2.00% | ~69 |
-| From Knight to Little Duck | 2.00% | ~69 |
-| One Does Not Simply Stage A Coup | 2.00% | ~69 |
-| Sublime Subliminal Supreme | 2.00% | ~69 |
-| Teamplayer | 2.00% | ~69 |
-| Terraformer | 2.00% | ~69 |
-| Curse of the Mummy | 2.00% | ~69 |
+| Chain Gang | 2.00% | ~70 |
+| From Knight to Little Duck | 2.00% | ~70 |
+| One Does Not Simply Stage A Coup | 2.00% | ~70 |
+| Sublime Subliminal Supreme | 2.00% | ~70 |
+| Teamplayer | 2.00% | ~70 |
+| Terraformer | 2.00% | ~70 |
+| Curse of the Mummy | 2.00% | ~70 |
 | Survivor | 0.90% | ~31 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,474 (Ranked 134)  
+Progressed: 3,475 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.03%) (Ranked 190)
 | 2023-06-05 | 3,426 | 1 |
 | 2023-06-06 | 3,443 | 1 |
 | 2023-06-07 | 3,467 | 1 |
-| 2023-06-08 | 3,474 | 1 |
+| 2023-06-08 | 3,475 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 317)  
 Sum: 756 (Ranked 255)  

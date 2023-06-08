@@ -1478,9 +1478,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "Zarkon1Defeated",
@@ -1509,8 +1509,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-08T13:09:57.3058+00:00",
+  "LastChanged_Achievements": "2023-06-08T14:05:49.9706567+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:04:08.9063058+00:00",
-  "LastUpdate_Achievements": "2023-06-08T13:09:57.3058504+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:59:48.0154798+00:00",
+  "LastUpdate_Achievements": "2023-06-08T14:05:49.9707451+00:00"
 }

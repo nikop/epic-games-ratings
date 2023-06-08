@@ -53,7 +53,7 @@ Rating: 4.45 (Ranked 617)
 | Familiar Face | 1.00% | ~10 |
 | Eat dust my friend | 1.00% | ~10 |
 | Better than half the studio... | 1.00% | ~10 |
-| Grandslam | 0.90% | ~9 |
+| Grandslam | 1.00% | ~10 |
 | Beat you to it! | 0.80% | ~8 |
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2938,
+  "EOS_Progressed": 2939,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -1914,6 +1914,11 @@
       "Time": "2023-06-08T11:07:49.1998144+00:00",
       "NumProgressed": 2938,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-08T14:06:42.1159267+00:00",
+      "NumProgressed": 2939,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1973,7 +1978,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "campaign10",
@@ -2061,7 +2066,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "campaign20",
@@ -2085,7 +2090,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "campaign5",
@@ -2093,7 +2098,7 @@
       "Name": "Clay Fighter",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "campaign6",
@@ -2188,7 +2193,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2938,
+      "Progressed": 2939,
       "Completed": 9
     }
   ],
@@ -2196,8 +2201,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-08T13:10:42.5686722+00:00",
+  "LastChanged_Achievements": "2023-06-08T14:06:42.1159261+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:04:48.9302448+00:00",
-  "LastUpdate_Achievements": "2023-06-08T13:10:42.5687023+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:00:37.530576+00:00",
+  "LastUpdate_Achievements": "2023-06-08T14:06:42.1159744+00:00"
 }

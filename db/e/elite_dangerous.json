@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 73,
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-11-19T16:00:00+00:00",
@@ -4460,10 +4460,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 12321,
       "NumberOfAwardsMax": 2143
+    },
+    {
+      "Time": "2023-06-08T13:57:52.2202949+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 12325,
+      "NumberOfAwardsMax": 2143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12321,
+  "NumberOfAwards": 12325,
   "NumberOfAwardsMax": 2143,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4501,7 +4507,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 2052
+      "Count": 2056
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4521,8 +4527,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-06-08T10:58:18.9037301+00:00",
+  "LastChanged": "2023-06-08T13:57:52.2202946+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:35.7538643+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:02:31.7152751+00:00",
-  "LastUpdate_Achievements": "2023-06-08T13:09:23.4560396+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:57:52.2202954+00:00",
+  "LastUpdate_Achievements": "2023-06-08T14:05:09.4620736+00:00"
 }

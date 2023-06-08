@@ -623,9 +623,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "fish_trade",
@@ -687,17 +687,17 @@
       "ID": "match_6",
       "SetID": "ap7g2g4",
       "Name": "Match 6",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 207
     },
     {
       "ID": "match_9",
       "SetID": "ap7g2g4",
       "Name": "Match 9",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "mill",
@@ -711,17 +711,17 @@
       "ID": "sawmill",
       "SetID": "ap7g2g4",
       "Name": "Sawmill",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 230
     },
     {
       "ID": "seaweed_farm",
       "SetID": "ap7g2g4",
       "Name": "Seaweed farm",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "tavern",
@@ -759,9 +759,9 @@
       "ID": "wood",
       "SetID": "ap7g2g4",
       "Name": "Wood",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
@@ -774,8 +774,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-08T13:08:09.9234555+00:00",
+  "LastChanged_Achievements": "2023-06-08T14:03:55.0895627+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:02:09.5362266+00:00",
-  "LastUpdate_Achievements": "2023-06-08T13:08:09.9234724+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:57:24.7007465+00:00",
+  "LastUpdate_Achievements": "2023-06-08T14:03:55.0895959+00:00"
 }

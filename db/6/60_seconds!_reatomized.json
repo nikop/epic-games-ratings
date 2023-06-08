@@ -116,7 +116,7 @@
   "Tags": [],
   "EOS_Progressed": 4200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1443,9 +1443,9 @@
       "ID": "ACH_10_SOUP",
       "SetID": "5nj1ea3",
       "Name": "Souper!",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2520
+      "UsersEstimate": 2562
     },
     {
       "ID": "ACH_10_WATER",
@@ -1932,8 +1932,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-05-15T11:00:28.5619005+00:00",
-  "LastChanged_Achievements": "2023-06-08T13:10:47.845882+00:00",
+  "LastChanged_Achievements": "2023-06-08T14:06:47.9531665+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:49.5904183+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:04:55.1024055+00:00",
-  "LastUpdate_Achievements": "2023-06-08T13:10:47.8459309+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:00:45.1187616+00:00",
+  "LastUpdate_Achievements": "2023-06-08T14:06:47.9532736+00:00"
 }

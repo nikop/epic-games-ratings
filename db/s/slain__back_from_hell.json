@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 24580,
+  "EOS_Progressed": 24590,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1118,
+  "EOS_NewPlayers": 1125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5271,6 +5271,11 @@
       "Time": "2023-06-08T13:10:31.2964503+00:00",
       "NumProgressed": 24580,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-08T14:06:29.4236786+00:00",
+      "NumProgressed": 24590,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 29,
@@ -5282,7 +5287,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3933
+      "UsersEstimate": 3934
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -5290,7 +5295,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4916
+      "UsersEstimate": 4918
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -5298,7 +5303,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -5354,7 +5359,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -5426,7 +5431,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -5458,7 +5463,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -5513,7 +5518,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 24580,
+      "Progressed": 24590,
       "Completed": 19
     }
   ],
@@ -5521,8 +5526,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-08T13:10:31.2964498+00:00",
+  "LastChanged_Achievements": "2023-06-08T14:06:29.4236779+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:25.5386302+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:04:38.1746583+00:00",
-  "LastUpdate_Achievements": "2023-06-08T13:10:31.296488+00:00"
+  "LastUpdate_Ratings": "2023-06-08T14:00:24.3549458+00:00",
+  "LastUpdate_Achievements": "2023-06-08T14:06:29.4237556+00:00"
 }

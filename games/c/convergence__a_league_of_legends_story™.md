@@ -34,6 +34,7 @@
 | Theater Explorer | 2.00% | ~13 |
 | Immaculate Aim | 2.00% | ~13 |
 | Ask Questions Later | 2.00% | ~13 |
+| Good Neighbor | 2.00% | ~13 |
 | The Brass Boss | 2.00% | ~13 |
 | Right On Time | 1.00% | ~6 |
 | Corin Goes Home | 1.00% | ~6 |
@@ -46,7 +47,6 @@
 | Golem Hunter | 1.00% | ~6 |
 | Rungs Was Right | 1.00% | ~6 |
 | Syron for Hope | 1.00% | ~6 |
-| Good Neighbor | 1.00% | ~6 |
 | Hexlock for Protection | 0.50% | ~3 |
 | Fitting In | 0.50% | ~3 |
 | Wunderkind | 0.30% | ~2 |

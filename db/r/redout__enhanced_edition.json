@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 528,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 47,
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224109,
+  "EOS_Progressed": 224110,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5173,6 +5173,11 @@
       "Time": "2023-06-08T13:10:20.0072944+00:00",
       "NumProgressed": 224109,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-08T14:06:16.8649869+00:00",
+      "NumProgressed": 224110,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -5376,7 +5381,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11205
+      "UsersEstimate": 11206
     },
     {
       "ID": "RESPWND",
@@ -5455,15 +5460,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 224109,
+      "Progressed": 224110,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-08T13:10:20.0072938+00:00",
+  "LastChanged_Achievements": "2023-06-08T14:06:16.864986+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.4465575+00:00",
-  "LastUpdate_Ratings": "2023-06-08T13:03:11.7311902+00:00",
-  "LastUpdate_Achievements": "2023-06-08T13:10:20.0073381+00:00"
+  "LastUpdate_Ratings": "2023-06-08T13:58:39.4040856+00:00",
+  "LastUpdate_Achievements": "2023-06-08T14:06:16.8650821+00:00"
 }

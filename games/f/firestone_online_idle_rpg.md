@@ -5,15 +5,15 @@ Rating: 4.00 (Ranked 898)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,258 |
-| World Map | 80.00% | ~1,070 |
+| Victor | 94.00% | ~1,259 |
+| World Map | 80.00% | ~1,071 |
 | Temple of Eternals | 57.00% | ~763 |
-| Prestigious | 53.00% | ~709 |
+| Prestigious | 53.00% | ~710 |
 | Fellowship Power | 41.00% | ~549 |
 | Guild Power | 24.00% | ~321 |
 | Prestigious x10 | 21.00% | ~281 |
 | The game is on | 18.00% | ~241 |
-| Exotic Merchant | 17.00% | ~227 |
+| Exotic Merchant | 17.00% | ~228 |
 | Dragon Clicker | 16.00% | ~214 |
 | Miner Clicker | 16.00% | ~214 |
 | Inspection | 15.00% | ~201 |
@@ -27,15 +27,15 @@ Rating: 4.00 (Ranked 898)
 | Natural Talent | 11.00% | ~147 |
 | Superior | 11.00% | ~147 |
 | The Unstoppable | 11.00% | ~147 |
-| Scientist | 9.00% | ~120 |
+| Scientist | 9.00% | ~121 |
 | Challenger | 8.00% | ~107 |
 | Daily Quest Completionist | 8.00% | ~107 |
+| Scroll Master | 8.00% | ~107 |
 | The power of Awakening | 8.00% | ~107 |
 | Doing My Part | 7.00% | ~94 |
 | Hunter | 7.00% | ~94 |
 | Mastery | 7.00% | ~94 |
 | Relic Of The Past | 7.00% | ~94 |
-| Scroll Master | 7.00% | ~94 |
 | Frostfire Liberator | 6.00% | ~80 |
 | Moving Up The Ladder | 6.00% | ~80 |
 | Four Leaf Clover | 5.00% | ~67 |
@@ -81,7 +81,7 @@ Rating: 4.00 (Ranked 898)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,338 (Ranked 162)  
+Progressed: 1,339 (Ranked 162)  
 Completed: 1 (0.07%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.07%) (Ranked 176)
 | 2023-06-05 | 1,299 | 1 |
 | 2023-06-06 | 1,309 | 1 |
 | 2023-06-07 | 1,329 | 1 |
-| 2023-06-08 | 1,338 | 1 |
+| 2023-06-08 | 1,339 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

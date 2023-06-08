@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 61.00% | ~254 |
+| The Wraith | 62.00% | ~258 |
 | Collectibles Part 1 | 50.00% | ~208 |
 | Welcome to Mordor! | 50.00% | ~208 |
 | Wait! Wait! Not yet! | 35.00% | ~146 |
 | Like Flying... | 31.00% | ~129 |
-| Memories | 28.00% | ~116 |
+| Memories | 29.00% | ~121 |
 | The Maggot | 25.00% | ~104 |
 | The Breeder | 20.00% | ~83 |
 | The Veteran | 17.00% | ~71 |
@@ -27,11 +27,11 @@
 | So Silly! | 3.00% | ~12 |
 | So Tasty! | 3.00% | ~12 |
 | Break a Leg! | 2.00% | ~8 |
+| Sweet Darkness | 2.00% | ~8 |
 | And now we wish... | 1.00% | ~4 |
-| Sweet Darkness | 1.00% | ~4 |
 | Ss ss ss... | 1.00% | ~4 |
 | Nervous Hands | 0.70% | ~3 |
-| Collectibles Part 2 | 0.20% | ~1 |
+| Collectibles Part 2 | 0.50% | ~2 |
 | Elf-Friend | 0.20% | ~1 |
 | We wants it! We needs it | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
