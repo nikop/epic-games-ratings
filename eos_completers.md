@@ -25,26 +25,26 @@
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.56% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.13% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.11% |
 | 27 | [Scorn](games/s/scorn.md) | 6.90% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 6.72% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 6.71% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
-| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
+| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.50% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
-| 39 | [Doodle God](games/d/doodle_god.md) | 3.81% |
+| 39 | [Doodle God](games/d/doodle_god.md) | 3.79% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.64% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.33% |
-| 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.25% |
+| 45 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.23% |
 | 46 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.15% |
 | 48 | [The Bunker](games/t/the_bunker.md) | 3.03% |
@@ -434,4 +434,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,740 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,741 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
