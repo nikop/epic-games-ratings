@@ -20,12 +20,12 @@
 | 18 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 20 | [Smelter](games/s/smelter.md) | 8.57% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.11% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.10% |
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.08% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.60% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.06% |
 | 27 | [Scorn](games/s/scorn.md) | 6.88% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 6.69% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -42,7 +42,7 @@
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.64% |
-| 43 | [The Complex](games/t/the_complex.md) | 3.32% |
+| 43 | [The Complex](games/t/the_complex.md) | 3.31% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.28% |
 | 45 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
 | 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.20% |
@@ -101,8 +101,8 @@
 | 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 101 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
-| 101 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.75% |
 | 101 | [Them and Us](games/t/them_and_us.md) | 0.75% |
+| 103 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.74% |
 | 104 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.70% |
 | 105 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.69% |
 | 106 | [Train Valley](games/t/train_valley.md) | 0.68% |
@@ -436,4 +436,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,749 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,750 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

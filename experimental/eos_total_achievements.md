@@ -379,6 +379,7 @@
 | [Bloodshore](../games/b/bloodshore.md) | 17 | 1,000 |
 | [Faraday Protocol](../games/f/faraday_protocol.md) | 17 | 1,000 |
 | [Lemon Cake](../games/l/lemon_cake.md) | 17 | 1,000 |
+| [Mask of the Rose](../games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 17 | 1,000 |
 | [Night Book](../games/n/night_book.md) | 17 | 1,000 |
 | [Seven Doors](../games/s/seven_doors.md) | 17 | 1,000 |
 | [Super Bit Blaster XL](../games/s/super_bit_blaster_xl.md) | 17 | 1,000 |
