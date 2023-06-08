@@ -52,9 +52,9 @@
 | 50 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
 | 52 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
-| 53 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.82% |
-| 54 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
-| 55 | [Lamentum](games/l/lamentum.md) | 2.79% |
+| 53 | [Bunny Park](games/b/bunny_park.md) | 2.81% |
+| 54 | [Lamentum](games/l/lamentum.md) | 2.79% |
+| 55 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
 | 56 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.75% |
 | 57 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.74% |
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -65,7 +65,7 @@
 | 63 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 64 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.07% |
+| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.06% |
 | 67 | [Iron Danger](games/i/iron_danger.md) | 2.04% |
 | 68 | [JARS](games/j/jars.md) | 1.92% |
 | 69 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |

@@ -2,7 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-06-07 | 7 (1,000 XP) | 7 | - | - |
 | [Tracks of Triumph Retro Blast](games/e/e542fbd76b3d42a6bf92fcfd0179d8cf.md) | 2023-06-07 | - |  | - | - |
-| [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-07 | 43 (1,000 XP) | 5 | - | - |
+| [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-07 | 43 (1,000 XP) | 6 | - | - |
 | [The Silent City Chapter 1](games/9/910c2c0f214946c893429b050c486468.md) | 2023-06-07 | - |  | - | - |
 | [Scathe](games/s/scathe.md) | 2023-06-06 | - |  | - | 0 |
 | [Rift Rangers](games/2/24e2970ac5124a649554e210843f6774.md) | 2023-06-06 | 54 (1,000 XP) | 6 | - | - |
@@ -27,9 +27,9 @@
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 22 | - | - |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | - |  | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | - |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 581,740 | 4.64 | 414 |
-| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 998,269 | 4.43 | 0 |
-| [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 242 | - | 0 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 581,949 | 4.65 | 414 |
+| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,000,867 | 4.43 | 0 |
+| [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 243 | - | 0 |
 | [Nihilsearch](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | - |  | - | - |
 | [ΔV: Rings of Saturn](games/δ/δv__rings_of_saturn.md) | 2023-06-01 | - |  | - | - |
 | [Homebody](games/h/homebody.md) | 2023-06-01 | - |  | - | 0 |
@@ -71,7 +71,7 @@
 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 2023-05-25 | 12 (1,000 XP) | 32 | - | - |
 | [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 55 (1,000 XP) | 989 | - | 0 |
 | [Hello Goodboy](games/h/hello_goodboy.md) | 2023-05-25 | - |  | - | - |
-| [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 36 (1,000 XP) | 414 | - | 0 |
+| [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 36 (1,000 XP) | 415 | - | 0 |
 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 2023-05-25 | - |  | - | 0 |
 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 11 (1,000 XP) | 28 | - | - |
 | [Tennis Manager 2023](games/t/tennis_manager_2023.md) | 2023-05-25 | - |  | - | 0 |
@@ -110,7 +110,7 @@
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 27 (1,000 XP) | 31 | - | 0 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 9 (1,000 XP) | 11 | - | - |
 | [The Empress of Mahjong](games/r/royal_defense.md) | 2023-05-18 | - |  | - | - |
-| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | - |  | 4.66 | 38 |
+| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | - |  | 4.65 | 38 |
 | [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | - |  | - | 0 |
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 12 (1,000 XP) | 2 | - | 0 |
 | [Flyto](games/f/flyto.md) | 2023-05-18 | - |  | - | - |
