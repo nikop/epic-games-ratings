@@ -76,6 +76,7 @@
 | [Presences: Dark Awakening](games/c/c7eccf43baf24a47a98d1a43108bb187.md) | 2023-08-31 | - |  | - | - |
 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 2023-09-05 | 25 (1,000 XP) | 3 | - | - |
 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 2023-09-06 | - |  | - | - |
+| [Fae Farm Pre-Purchase](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | - |  | - | - |
 | [Dirty Wars: September 11](games/a/a3df291e5482464898a00f1ed892605f.md) | 2023-09-11 | - |  | - | - |
 | [Life by You](games/l/life_by_you.md) | 2023-09-12 | - |  | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | - |  | - | - |
@@ -278,6 +279,7 @@
 | [Loop](games/l/loop.md) | 2099-01-01 | - |  | - | - |
 | [Luna Abyss](games/l/luna_abyss.md) | 2099-01-01 | - |  | - | - |
 | [LunarLux](games/l/lunarlux.md) | 2099-01-01 | - |  | - | - |
+| [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2099-01-01 | - |  | - | - |
 | [Macabre](games/m/macabre.md) | 2099-01-01 | - |  | - | - |
 | [March of Shrooms](games/m/march_of_shrooms.md) | 2099-01-01 | - |  | - | - |
 | [Mega City Police](games/m/mega_city_police.md) | 2099-01-01 | - |  | - | - |

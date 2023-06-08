@@ -9,7 +9,7 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 10 | [Island Cities](games/i/island_cities.md) | 15.31% |
+| 10 | [Island Cities](games/i/island_cities.md) | 15.25% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 12.50% |
@@ -25,7 +25,7 @@
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.06% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.04% |
 | 27 | [Scorn](games/s/scorn.md) | 6.87% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 6.69% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -51,7 +51,7 @@
 | 49 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 50 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
-| 52 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
+| 52 | [Destiny 2](games/d/destiny_2.md) | 2.88% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 53 | [Lamentum](games/l/lamentum.md) | 2.79% |
 | 55 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
@@ -61,7 +61,7 @@
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 61 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
-| 62 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.40% |
+| 62 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.38% |
 | 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.25% |
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 65 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
@@ -80,8 +80,8 @@
 | 77 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 79 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.35% |
 | 80 | [Ten Dates](games/t/ten_dates.md) | 1.28% |
-| 81 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.25% |
-| 82 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
+| 81 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.23% |
+| 82 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 83 | [Trifox](games/t/trifox.md) | 1.18% |
 | 84 | [Chorus](games/c/chorus.md) | 1.17% |
 | 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.15% |
@@ -124,11 +124,11 @@
 | 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 122 | [Tchia](games/t/tchia.md) | 0.36% |
 | 124 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 124 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
-| 126 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
-| 126 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
-| 126 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 126 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
+| 125 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
+| 125 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
+| 125 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 125 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.32% |
+| 125 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
 | 130 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 130 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
 | 132 | [Godlike Burger](games/g/godlike_burger.md) | 0.30% |
@@ -436,4 +436,4 @@
 | 212 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 212 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 212 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,751 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,753 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
