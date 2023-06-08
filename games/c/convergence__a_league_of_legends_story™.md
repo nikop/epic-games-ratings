@@ -16,6 +16,7 @@
 | Breaking Down Barriers | 3.00% | ~19 |
 | The Wicked Twins | 3.00% | ~19 |
 | Time Heals All Wounds | 3.00% | ~19 |
+| Golem Chaser | 3.00% | ~19 |
 | Check Your Pulse | 3.00% | ~19 |
 | Immaculate Aim | 3.00% | ~19 |
 | The Family Fortune | 3.00% | ~19 |
@@ -28,7 +29,6 @@
 | The Harder They Fall | 2.00% | ~13 |
 | No, Thanks! | 2.00% | ~13 |
 | The Prince in Heels | 2.00% | ~13 |
-| Golem Chaser | 2.00% | ~13 |
 | Fast Learner | 2.00% | ~13 |
 | Sump Explorer | 2.00% | ~13 |
 | Theater Explorer | 2.00% | ~13 |

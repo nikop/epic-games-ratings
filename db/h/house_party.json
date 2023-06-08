@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5443,
+  "EOS_Progressed": 5446,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2186,6 +2186,11 @@
       "Time": "2023-06-08T08:03:18.3363747+00:00",
       "NumProgressed": 5443,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-08T09:03:38.9920655+00:00",
+      "NumProgressed": 5446,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -2251,9 +2256,9 @@
       "ID": "Brahdyssey",
       "SetID": "bmkn7o4",
       "Name": "The Brahdyssey",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "Bride",
@@ -2748,21 +2753,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2482,
+      "Progressed": 2485,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5443,
+      "Progressed": 5446,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-08T08:03:18.3363742+00:00",
+  "LastChanged_Achievements": "2023-06-08T09:03:38.9920651+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:26.4491447+00:00",
-  "LastUpdate_Ratings": "2023-06-08T07:57:09.8262705+00:00",
-  "LastUpdate_Achievements": "2023-06-08T08:03:18.3364589+00:00"
+  "LastUpdate_Ratings": "2023-06-08T08:57:29.4950883+00:00",
+  "LastUpdate_Achievements": "2023-06-08T09:03:38.9921774+00:00"
 }

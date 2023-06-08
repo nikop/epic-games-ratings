@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 622,
+  "EOS_Progressed": 623,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -248,6 +248,11 @@
       "Time": "2023-06-07T16:03:34.346881+00:00",
       "NumProgressed": 622,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T09:02:26.1297232+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -267,7 +272,7 @@
       "Name": "Across The Stars",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -331,7 +336,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "Achievement_DustToDust",
@@ -403,7 +408,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -419,7 +424,7 @@
       "Name": "Gold Medalist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Achievement_HandsFull",
@@ -435,7 +440,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "Achievement_Improvinator",
@@ -515,7 +520,7 @@
       "Name": "Non-Fiction",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Achievement_SecondLife",
@@ -593,9 +598,9 @@
       "ID": "Achievement_Tinkerer",
       "SetID": "c01p6e5",
       "Name": "Tinkerer",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 392
     },
     {
       "ID": "Achievement_Traitor",
@@ -610,7 +615,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 1
     }
   ],
@@ -618,8 +623,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-06-08T08:02:14.0289968+00:00",
+  "LastChanged_Achievements": "2023-06-08T09:02:26.1297228+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:11.86913+00:00",
-  "LastUpdate_Ratings": "2023-06-08T07:58:22.4314259+00:00",
-  "LastUpdate_Achievements": "2023-06-08T08:02:14.0290337+00:00"
+  "LastUpdate_Ratings": "2023-06-08T08:59:03.8924825+00:00",
+  "LastUpdate_Achievements": "2023-06-08T09:02:26.1297753+00:00"
 }

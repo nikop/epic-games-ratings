@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2728,
+  "EOS_Progressed": 2729,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2400,6 +2400,11 @@
       "Time": "2023-06-07T23:03:47.7024731+00:00",
       "NumProgressed": 2728,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-08T09:03:43.8601075+00:00",
+      "NumProgressed": 2729,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 24,
@@ -2419,7 +2424,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "11",
@@ -2451,7 +2456,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "15",
@@ -2602,13 +2607,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2728,
+      "Progressed": 2729,
       "Completed": 5
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-08T08:03:22.2984009+00:00",
+  "LastChanged_Achievements": "2023-06-08T09:03:43.8601071+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.6683071+00:00",
-  "LastUpdate_Ratings": "2023-06-08T07:58:26.3008195+00:00",
-  "LastUpdate_Achievements": "2023-06-08T08:03:22.298435+00:00"
+  "LastUpdate_Ratings": "2023-06-08T08:59:09.0935505+00:00",
+  "LastUpdate_Achievements": "2023-06-08T09:03:43.8601398+00:00"
 }

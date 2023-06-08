@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 912,
   "Ranking_Popularity": 222,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 68,
@@ -1926,9 +1926,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 65463,
+  "EOS_Progressed": 65465,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 1155,
+  "EOS_NewPlayers": 1150,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6931,6 +6931,11 @@
       "Time": "2023-06-08T08:05:15.853546+00:00",
       "NumProgressed": 65463,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-08T09:06:16.6017019+00:00",
+      "NumProgressed": 65465,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 37,
@@ -6950,7 +6955,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 18984
+      "UsersEstimate": 18985
     },
     {
       "ID": "ACH_0012",
@@ -6958,7 +6963,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13747
+      "UsersEstimate": 13748
     },
     {
       "ID": "ACH_0013",
@@ -7030,7 +7035,7 @@
       "Name": "Foo Finder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4582
+      "UsersEstimate": 4583
     },
     {
       "ID": "ACH_0060",
@@ -7086,7 +7091,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 42551
+      "UsersEstimate": 42552
     },
     {
       "ID": "ACH_0210",
@@ -7094,7 +7099,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 48443
+      "UsersEstimate": 48444
     },
     {
       "ID": "ACH_0211",
@@ -7110,7 +7115,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 30768
+      "UsersEstimate": 30769
     },
     {
       "ID": "ACH_0300",
@@ -7158,7 +7163,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22257
+      "UsersEstimate": 22258
     },
     {
       "ID": "ACH_0420",
@@ -7166,7 +7171,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22257
+      "UsersEstimate": 22258
     },
     {
       "ID": "ACH_0430",
@@ -7174,7 +7179,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 22912
+      "UsersEstimate": 22913
     },
     {
       "ID": "ACH_0431",
@@ -7237,7 +7242,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 65463,
+      "Progressed": 65465,
       "Completed": 32
     }
   ],
@@ -7245,8 +7250,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-06-08T05:00:15.0305568+00:00",
-  "LastChanged_Achievements": "2023-06-08T08:05:15.8535454+00:00",
+  "LastChanged_Achievements": "2023-06-08T09:06:16.6017014+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:22.8289385+00:00",
-  "LastUpdate_Ratings": "2023-06-08T07:59:12.3969146+00:00",
-  "LastUpdate_Achievements": "2023-06-08T08:05:15.853607+00:00"
+  "LastUpdate_Ratings": "2023-06-08T09:00:09.4039388+00:00",
+  "LastUpdate_Achievements": "2023-06-08T09:06:16.6017987+00:00"
 }

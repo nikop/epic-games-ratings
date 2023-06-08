@@ -29,15 +29,15 @@
 | Happy Little Home | 29.00% | ~42 |
 | Final Evolution | 29.00% | ~42 |
 | You Shall Not Pass | 28.00% | ~40 |
-| Fight Me! | 27.00% | ~39 |
+| Fight Me! | 28.00% | ~40 |
+| Undying Skin | 27.00% | ~39 |
 | Mommy's Very Angry | 26.00% | ~37 |
 | Animal Lover | 26.00% | ~37 |
-| Undying Skin | 26.00% | ~37 |
 | Supremacy | 26.00% | ~37 |
 | Immortal Skin | 22.00% | ~32 |
 | Loyal Companion | 22.00% | ~32 |
 | Back To The Future | 21.00% | ~30 |
-| Fire Beacon | 20.00% | ~29 |
+| Fire Beacon | 21.00% | ~30 |
 | Lunch Before The Lunch | 19.00% | ~27 |
 | Building Blocks | 17.00% | ~24 |
 | From Here To Eternity | 16.00% | ~23 |

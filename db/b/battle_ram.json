@@ -199,25 +199,25 @@
       "ID": "ach_11",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 4th class",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_12",
       "SetID": "392n4e7",
       "Name": "Junior Lieutenant Baran",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_13",
       "SetID": "392n4e7",
       "Name": "Baran Senior Warrant Officer Grade 5",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_14",
@@ -365,8 +365,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-06-08T08:04:50.2093264+00:00",
+  "LastChanged_Achievements": "2023-06-08T09:05:45.9680976+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.7512289+00:00",
-  "LastUpdate_Ratings": "2023-06-08T07:57:43.7968098+00:00",
-  "LastUpdate_Achievements": "2023-06-08T08:04:50.2093432+00:00"
+  "LastUpdate_Ratings": "2023-06-08T08:58:14.4163558+00:00",
+  "LastUpdate_Achievements": "2023-06-08T09:05:45.9681226+00:00"
 }

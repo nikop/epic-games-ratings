@@ -2,10 +2,10 @@
   "ID": "72324f542dc4488681e617b0d39ad115",
   "Name": "SpellForce 3: Versus Edition",
   "ProductSlug": "spellforce-3-versus",
-  "Ranking_Rating": 928,
+  "Ranking_Rating": 929,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
-  "Ranking_EOS_Progress": 436,
+  "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 95,
@@ -318,6 +318,6 @@
   "FirstSeen": "2022-07-22T20:22:51.1807363+00:00",
   "LastChanged": "2023-03-31T05:57:36.390029+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:45.4591057+00:00",
-  "LastUpdate_Ratings": "2023-06-08T07:58:03.902548+00:00",
-  "LastUpdate_Achievements": "2023-06-08T08:02:01.8680329+00:00"
+  "LastUpdate_Ratings": "2023-06-08T08:58:40.5499659+00:00",
+  "LastUpdate_Achievements": "2023-06-08T09:02:10.4527931+00:00"
 }

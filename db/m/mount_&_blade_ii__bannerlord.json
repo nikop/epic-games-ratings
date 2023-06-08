@@ -4665,9 +4665,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 52464,
+  "EOS_Progressed": 52467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 840,
+  "EOS_NewPlayers": 838,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9530,6 +9530,11 @@
       "Time": "2023-06-08T08:05:18.4542851+00:00",
       "NumProgressed": 52464,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T09:06:19.4621641+00:00",
+      "NumProgressed": 52467,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -9541,7 +9546,7 @@
       "Name": "Against all odds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "Apple of my eye",
@@ -9557,7 +9562,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11017
+      "UsersEstimate": 11018
     },
     {
       "ID": "Best served cold",
@@ -9581,7 +9586,7 @@
       "Name": "Butterlord",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3672
+      "UsersEstimate": 3673
     },
     {
       "ID": "Catch",
@@ -9701,7 +9706,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11017
+      "UsersEstimate": 11018
     },
     {
       "ID": "I can do it",
@@ -9733,7 +9738,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8394
+      "UsersEstimate": 8395
     },
     {
       "ID": "Kingslayer",
@@ -9765,7 +9770,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15739
+      "UsersEstimate": 15740
     },
     {
       "ID": "Lawbringer",
@@ -9773,7 +9778,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 18362
+      "UsersEstimate": 18363
     },
     {
       "ID": "Lawmaker",
@@ -9781,7 +9786,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11017
+      "UsersEstimate": 11018
     },
     {
       "ID": "Long live the Empire",
@@ -9893,7 +9898,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8394
+      "UsersEstimate": 8395
     },
     {
       "ID": "This Is Our Land",
@@ -9901,7 +9906,7 @@
       "Name": "This Is Our Land",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3672
+      "UsersEstimate": 3673
     },
     {
       "ID": "This is Sparta",
@@ -9948,15 +9953,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 52464,
+      "Progressed": 52467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-08T07:59:00.9525781+00:00",
-  "LastChanged_Achievements": "2023-06-08T08:05:18.4542845+00:00",
+  "LastChanged_Achievements": "2023-06-08T09:06:19.4621637+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:06.5602034+00:00",
-  "LastUpdate_Ratings": "2023-06-08T07:59:00.9525788+00:00",
-  "LastUpdate_Achievements": "2023-06-08T08:05:18.4543582+00:00"
+  "LastUpdate_Ratings": "2023-06-08T08:59:54.2422719+00:00",
+  "LastUpdate_Achievements": "2023-06-08T09:06:19.4622891+00:00"
 }

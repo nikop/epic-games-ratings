@@ -1,19 +1,19 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.93 (Ranked 911)  
+Rating: 3.93 (Ranked 912)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~48,443 |
-| First One’s Free | 65.00% | ~42,551 |
+| Downed but Not Outed | 74.00% | ~48,444 |
+| First One’s Free | 65.00% | ~42,552 |
 | Neophyte Ninja | 50.00% | ~32,732 |
-| Too Old for This | 47.00% | ~30,768 |
-| Fancy Pants | 35.00% | ~22,912 |
-| Case Closed | 34.00% | ~22,257 |
-| King of the Hill | 34.00% | ~22,257 |
-| Underworld Initiate | 29.00% | ~18,984 |
-| Roid Ranger | 21.00% | ~13,747 |
+| Too Old for This | 47.00% | ~30,769 |
+| Fancy Pants | 35.00% | ~22,913 |
+| Case Closed | 34.00% | ~22,258 |
+| King of the Hill | 34.00% | ~22,258 |
+| Underworld Initiate | 29.00% | ~18,985 |
+| Roid Ranger | 21.00% | ~13,748 |
 | True Player | 19.00% | ~12,438 |
 | Off the Rocks | 19.00% | ~12,438 |
 | Raider’s Ruin | 16.00% | ~10,474 |
@@ -26,7 +26,7 @@ Rating: 3.93 (Ranked 911)
 | I Like Trains | 8.00% | ~5,237 |
 | Headhunter | 8.00% | ~5,237 |
 | Ding Dong | 8.00% | ~5,237 |
-| Foo Finder | 7.00% | ~4,582 |
+| Foo Finder | 7.00% | ~4,583 |
 | Legend Looter | 5.00% | ~3,273 |
 | Savvy Seeker | 5.00% | ~3,273 |
 | Imports and Exports | 4.00% | ~2,619 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 911)
 | Geek Out | 0.50% | ~327 |
 | Full House | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,463 (Ranked 68)  
+Progressed: 65,465 (Ranked 68)  
 Completed: 32 (0.05%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 32 (0.05%) (Ranked 182)
 | 2023-06-05 | 65,132 | 31 |
 | 2023-06-06 | 65,264 | 32 |
 | 2023-06-07 | 65,417 | 32 |
-| 2023-06-08 | 65,463 | 32 |
+| 2023-06-08 | 65,465 | 32 |
 ## Awards
 Max (Diverse Characters): 321  (Ranked 222)  
 Sum: 1,511 (Ranked 210)  

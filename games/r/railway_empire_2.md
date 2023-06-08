@@ -26,7 +26,7 @@
 | Going once, going twice, sold | 29.00% | ~287 |
 | Full Steam ahead | 28.00% | ~277 |
 | Bull and bear | 27.00% | ~267 |
-| Mole | 25.00% | ~248 |
+| Mole | 26.00% | ~257 |
 | All mine | 24.00% | ~238 |
 | Financial Shark | 24.00% | ~238 |
 | Socializer | 24.00% | ~238 |
@@ -35,9 +35,9 @@
 | Country Life | 20.00% | ~198 |
 | Hostile Takeover | 20.00% | ~198 |
 | Trailblazer | 18.00% | ~178 |
+| Breaking Ground | 15.00% | ~148 |
 | Traffic Jam | 14.00% | ~139 |
 | Traffic Junction | 14.00% | ~139 |
-| Breaking Ground | 14.00% | ~139 |
 | Assimilated | 13.00% | ~129 |
 | Locusts | 13.00% | ~129 |
 | Networker | 12.00% | ~119 |

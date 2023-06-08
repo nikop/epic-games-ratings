@@ -1,7 +1,7 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.13 (Ranked 865)  
+Rating: 4.13 (Ranked 866)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,8 +15,8 @@ Rating: 4.13 (Ranked 865)
 | Offshore Delivery | 12.00% | ~750 |
 | Dirty Money | 11.00% | ~688 |
 | By a Mile | 9.00% | ~563 |
+| Not So Fast | 9.00% | ~563 |
 | Right-hand Man | 9.00% | ~563 |
-| Not So Fast | 8.00% | ~500 |
 | A Gift from the King | 6.00% | ~375 |
 | Full Artillery | 4.00% | ~250 |
 | Mob Boss | 2.00% | ~125 |

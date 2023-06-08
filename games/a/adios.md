@@ -1,27 +1,27 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.39 (Ranked 936)  
+Rating: 3.39 (Ranked 937)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~12,665 |
-| Hard Worker | 20.00% | ~12,062 |
-| Master, Commander | 20.00% | ~12,062 |
-| Mechanic | 19.00% | ~11,459 |
-| Adios, Friendo | 18.00% | ~10,856 |
+| Be Seeing You | 21.00% | ~12,666 |
+| Hard Worker | 20.00% | ~12,063 |
+| Master, Commander | 20.00% | ~12,063 |
+| Mechanic | 19.00% | ~11,460 |
+| Adios, Friendo | 18.00% | ~10,857 |
 | Bottom's Up | 17.00% | ~10,253 |
 | Nice Try | 16.00% | ~9,650 |
-| Right On Target | 13.00% | ~7,840 |
+| Right On Target | 13.00% | ~7,841 |
 | Piano Man | 10.00% | ~6,031 |
 | Lazy Bones | 9.00% | ~5,428 |
 | Sniper | 7.00% | ~4,222 |
 | Vinyl Vibes | 7.00% | ~4,222 |
 | Nothing Left to Say | 6.00% | ~3,619 |
 | Cut Call | 5.00% | ~3,016 |
-| Butcher | 4.00% | ~2,412 |
-| Magnetic Miracles | 4.00% | ~2,412 |
-| Spicy | 4.00% | ~2,412 |
+| Butcher | 4.00% | ~2,413 |
+| Magnetic Miracles | 4.00% | ~2,413 |
+| Spicy | 4.00% | ~2,413 |
 | A Man Of Taste | 3.00% | ~1,809 |
 | Ace in the Hole | 3.00% | ~1,809 |
 | Fair's Fair | 3.00% | ~1,809 |
@@ -31,7 +31,7 @@ Rating: 3.39 (Ranked 936)
 | Audiophile | 2.00% | ~1,206 |
 | Tape Head | 1.00% | ~603 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,310 (Ranked 73)  
+Progressed: 60,314 (Ranked 73)  
 Completed: 511 (0.85%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 511 (0.85%) (Ranked 95)
 | 2023-06-05 | 59,981 | 507 |
 | 2023-06-06 | 60,125 | 509 |
 | 2023-06-07 | 60,270 | 511 |
-| 2023-06-08 | 60,310 | 511 |
+| 2023-06-08 | 60,314 | 511 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1380,9 +1380,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "SkillCompletion1",
@@ -1499,8 +1499,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-08T08:04:31.9486228+00:00",
+  "LastChanged_Achievements": "2023-06-08T09:05:22.1837216+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-08T07:58:46.7325723+00:00",
-  "LastUpdate_Achievements": "2023-06-08T08:04:31.9486777+00:00"
+  "LastUpdate_Ratings": "2023-06-08T08:59:35.8079493+00:00",
+  "LastUpdate_Achievements": "2023-06-08T09:05:22.1838105+00:00"
 }

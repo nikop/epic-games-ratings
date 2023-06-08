@@ -328,9 +328,9 @@
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "14_woodcutter",
@@ -552,8 +552,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-06-08T08:03:50.0320394+00:00",
+  "LastChanged_Achievements": "2023-06-08T09:04:29.1730407+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:46.3694729+00:00",
-  "LastUpdate_Ratings": "2023-06-08T07:57:23.5267807+00:00",
-  "LastUpdate_Achievements": "2023-06-08T08:03:50.0320673+00:00"
+  "LastUpdate_Ratings": "2023-06-08T08:57:47.7132561+00:00",
+  "LastUpdate_Achievements": "2023-06-08T09:04:29.1730958+00:00"
 }

@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2390,
+  "EOS_Progressed": 2392,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2843,6 +2843,11 @@
       "Time": "2023-06-08T08:05:06.6814959+00:00",
       "NumProgressed": 2390,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-08T09:06:05.9108666+00:00",
+      "NumProgressed": 2392,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2886,7 +2891,7 @@
       "Name": "Opposing Force",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -2934,7 +2939,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3070,7 +3075,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -3086,7 +3091,7 @@
       "Name": "Der Geist",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -3102,7 +3107,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3110,7 +3115,7 @@
       "Name": "Close Quarters",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -3118,7 +3123,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -3166,7 +3171,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3421,13 +3426,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2341,
+      "Progressed": 2343,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2390,
+      "Progressed": 2392,
       "Completed": 2
     }
   ],
@@ -3435,8 +3440,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-07T21:00:47.5607681+00:00",
-  "LastChanged_Achievements": "2023-06-08T08:05:06.6814948+00:00",
+  "LastChanged_Achievements": "2023-06-08T09:06:05.9108661+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-08T07:59:39.593492+00:00",
-  "LastUpdate_Achievements": "2023-06-08T08:05:06.6815714+00:00"
+  "LastUpdate_Ratings": "2023-06-08T09:00:45.4741986+00:00",
+  "LastUpdate_Achievements": "2023-06-08T09:06:05.9110107+00:00"
 }

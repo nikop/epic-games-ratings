@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 17.00% | ~1,636 |
+| Devoured by Darkness | 17.00% | ~1,637 |
 | A Spark | 12.00% | ~1,155 |
 | Burning City | 11.00% | ~1,059 |
 | Mythic Choices | 9.00% | ~866 |
@@ -26,15 +26,15 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 3.00% | ~289 |
 | Next-Door Play | 3.00% | ~289 |
 | Get the Toad | 3.00% | ~289 |
-| Heart of the Fallen Land | 2.00% | ~192 |
-| Path of the Trickster | 2.00% | ~192 |
-| Path of the Lich | 2.00% | ~192 |
-| Heroic Victory | 2.00% | ~192 |
-| Divide and Rule | 2.00% | ~192 |
-| Mythic Reinforcements | 2.00% | ~192 |
-| Core of the Riddle | 2.00% | ~192 |
-| Your First Big Enemy | 2.00% | ~192 |
-| Hey, I Know You! | 2.00% | ~192 |
+| Heart of the Fallen Land | 2.00% | ~193 |
+| Path of the Trickster | 2.00% | ~193 |
+| Path of the Lich | 2.00% | ~193 |
+| Heroic Victory | 2.00% | ~193 |
+| Divide and Rule | 2.00% | ~193 |
+| Mythic Reinforcements | 2.00% | ~193 |
+| Core of the Riddle | 2.00% | ~193 |
+| Your First Big Enemy | 2.00% | ~193 |
+| Hey, I Know You! | 2.00% | ~193 |
 | Stay Underground | 2.00% | ~168 |
 | Hanged Man's Notes | 2.00% | ~168 |
 | Sarkoris Will Be Green | 2.00% | ~168 |
@@ -55,7 +55,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Playful Mood | 0.60% | ~58 |
 | Dreadful Dragon | 0.50% | ~48 |
 | Truly Profane Gift | 0.50% | ~48 |
-| Masterful Charge | 0.40% | ~38 |
+| Masterful Charge | 0.40% | ~39 |
 | Prelate's Nemesis | 0.30% | ~29 |
 | Masterful Dispel | 0.20% | ~19 |
 | Just Pathetic | 0.20% | ~19 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,624 (Ranked 112)  
+Progressed: 9,627 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 9,565 | 0 |
 | 2023-06-06 | 9,594 | 0 |
 | 2023-06-07 | 9,619 | 0 |
-| 2023-06-08 | 9,624 | 0 |
+| 2023-06-08 | 9,627 | 0 |
 ## Awards
 Max (Character Customization): 1,656  (Ranked 111)  
 Sum: 6,717 (Ranked 109)  

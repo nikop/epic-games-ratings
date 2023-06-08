@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9868,
+  "EOS_Progressed": 9871,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4008,6 +4008,11 @@
       "Time": "2023-06-08T08:05:16.6216155+00:00",
       "NumProgressed": 9868,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-08T09:06:17.5536085+00:00",
+      "NumProgressed": 9871,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -4019,7 +4024,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7894
+      "UsersEstimate": 7897
     },
     {
       "ID": "ACH02",
@@ -4075,7 +4080,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4737
+      "UsersEstimate": 4738
     },
     {
       "ID": "ACH09",
@@ -4139,7 +4144,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "ACH17",
@@ -4155,7 +4160,7 @@
       "Name": "Saviour",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ACH19",
@@ -4187,7 +4192,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ACH23",
@@ -4298,7 +4303,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 9868,
+      "Progressed": 9871,
       "Completed": 17
     }
   ],
@@ -4306,8 +4311,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-07T10:00:00.0297825+00:00",
-  "LastChanged_Achievements": "2023-06-08T08:05:16.6216149+00:00",
+  "LastChanged_Achievements": "2023-06-08T09:06:17.5536078+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.816384+00:00",
-  "LastUpdate_Ratings": "2023-06-08T07:59:27.886816+00:00",
-  "LastUpdate_Achievements": "2023-06-08T08:05:16.6216644+00:00"
+  "LastUpdate_Ratings": "2023-06-08T09:00:30.1182401+00:00",
+  "LastUpdate_Achievements": "2023-06-08T09:06:17.5536838+00:00"
 }

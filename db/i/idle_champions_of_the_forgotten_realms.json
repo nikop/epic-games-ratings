@@ -2,11 +2,11 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 886,
+  "Ranking_Rating": 887,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 63,
-  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -4156,9 +4156,9 @@
       "Count": 3247
     }
   ],
-  "EOS_Progressed": 90091,
+  "EOS_Progressed": 90094,
   "EOS_Completed": 1922,
-  "EOS_NewPlayers": 727,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9111,6 +9111,11 @@
       "Time": "2023-06-08T08:05:24.8069963+00:00",
       "NumProgressed": 90091,
       "NumCompleted": 1922
+    },
+    {
+      "Time": "2023-06-08T09:06:26.9731153+00:00",
+      "NumProgressed": 90094,
+      "NumCompleted": 1922
     }
   ],
   "TotalAchievements": 493,
@@ -11312,9 +11317,9 @@
       "ID": "objective_completed_546",
       "SetID": "cc37lbc",
       "Name": "Slow and Steady",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_547",
@@ -13065,21 +13070,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56365,
+      "Progressed": 56368,
       "Completed": 2776
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90091,
+      "Progressed": 90094,
       "Completed": 1922
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-07T22:58:10.9450923+00:00",
-  "LastChanged_Achievements": "2023-06-08T08:05:24.8069959+00:00",
+  "LastChanged_Achievements": "2023-06-08T09:06:26.9731148+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-08T07:57:42.9906858+00:00",
-  "LastUpdate_Achievements": "2023-06-08T08:05:24.809819+00:00"
+  "LastUpdate_Ratings": "2023-06-08T08:58:13.3092298+00:00",
+  "LastUpdate_Achievements": "2023-06-08T09:06:26.9758002+00:00"
 }

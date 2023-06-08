@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 886)  
+Rating: 4.06 (Ranked 887)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -179,6 +179,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enter the Sargauth | 0.20% | ~180 |
 | A Tale of Two Cities | 0.20% | ~180 |
 | The Dead Three | 0.20% | ~180 |
+| Slow and Steady | 0.20% | ~180 |
 | Sneak Attack | 0.20% | ~113 |
 | Flying Monkey Skulls of Doom | 0.20% | ~180 |
 | Lair of the Xanathar | 0.20% | ~180 |
@@ -367,7 +368,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~90 |
 | A Tale of Two Champions | 0.10% | ~90 |
 | A Tale of Two Years | 0.10% | ~56 |
-| Slow and Steady | 0.10% | ~90 |
 | A Hero's Entourage | 0.10% | ~90 |
 | Dreams of Beholders | 0.10% | ~90 |
 | Feigned Weakness | 0.10% | ~90 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,091 (Ranked 63)  
-Completed: 1,922 (2.13%) (Ranked 65)  
+Progressed: 90,094 (Ranked 63)  
+Completed: 1,922 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -549,7 +549,7 @@ Completed: 1,922 (2.13%) (Ranked 65)
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
-| 2023-06-08 | 90,091 | 1,922 |
+| 2023-06-08 | 90,094 | 1,922 |
 ## Awards
 Max (Diverse Characters): 4,920  (Ranked 64)  
 Sum: 30,049 (Ranked 37)  
