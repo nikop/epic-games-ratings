@@ -36,8 +36,8 @@ Rating: 4.34 (Ranked 735)
 | Savior | 14.00% | ~148 |
 | The Watchers | 13.00% | ~137 |
 | Ruthless | 12.00% | ~127 |
+| Dr Jones | 10.00% | ~106 |
 | Chaos Theory | 9.00% | ~95 |
-| Dr Jones | 9.00% | ~95 |
 | Commando | 8.00% | ~85 |
 | Chain Reaction | 7.00% | ~74 |
 | Curveball | 7.00% | ~74 |
@@ -57,7 +57,7 @@ Rating: 4.34 (Ranked 735)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057 (Ranked 171)  
+Progressed: 1,057 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

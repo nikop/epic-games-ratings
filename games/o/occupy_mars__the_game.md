@@ -5,7 +5,7 @@ Rating: 3.84 (Ranked 922)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~472 |
+| I don't feel so good | 42.00% | ~483 |
 | Electrician | 34.00% | ~391 |
 | Fear my botany powers, Mars | 32.00% | ~368 |
 | Zero Waste | 29.00% | ~334 |
@@ -22,7 +22,7 @@ Rating: 3.84 (Ranked 922)
 | Space Forest | 6.00% | ~69 |
 | ITS crash site | 5.00% | ~58 |
 | DeDust | 4.00% | ~46 |
-| “Aliens” | 3.00% | ~34 |
+| “Aliens” | 3.00% | ~35 |
 | Plumber | 2.00% | ~23 |
 | Driver's License | 1.00% | ~12 |
 | Hard Landing | 1.00% | ~12 |
@@ -54,7 +54,7 @@ Rating: 3.84 (Ranked 922)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,150 (Ranked 166)  
+Progressed: 1,151 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 1,130 | 0 |
 | 2023-06-06 | 1,142 | 0 |
 | 2023-06-07 | 1,144 | 0 |
-| 2023-06-08 | 1,150 | 0 |
+| 2023-06-08 | 1,151 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -820,10 +820,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 756,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2023-06-08T16:00:48.5548642+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 757,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 756,
+  "NumberOfAwards": 757,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -849,7 +855,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -894,9 +900,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3479,
+  "EOS_Progressed": 3482,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3939,6 +3945,11 @@
       "Time": "2023-06-08T15:01:08.9624381+00:00",
       "NumProgressed": 3479,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T16:01:40.7828716+00:00",
+      "NumProgressed": 3482,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4006,7 +4017,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -4046,7 +4057,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1602
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4054,7 +4065,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -4078,7 +4089,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -4102,7 +4113,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -4110,7 +4121,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2646
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4206,7 +4217,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4222,7 +4233,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4230,7 +4241,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -4254,7 +4265,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -4269,15 +4280,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3479,
+      "Progressed": 3482,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-06-05T19:00:08.7652267+00:00",
-  "LastChanged_Achievements": "2023-06-08T15:01:08.9624377+00:00",
+  "LastChanged": "2023-06-08T16:00:48.5548641+00:00",
+  "LastChanged_Achievements": "2023-06-08T16:01:40.782871+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-08T15:00:22.7418995+00:00",
-  "LastUpdate_Achievements": "2023-06-08T15:01:08.9625258+00:00"
+  "LastUpdate_Ratings": "2023-06-08T16:00:48.5548646+00:00",
+  "LastUpdate_Achievements": "2023-06-08T16:01:40.7829092+00:00"
 }

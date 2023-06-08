@@ -12,8 +12,8 @@
 | Puppy | 61.00% | ~96 |
 | Coal's fur | 59.00% | ~93 |
 | Blue's drawing | 55.00% | ~86 |
+| Glass shards | 46.00% | ~72 |
 | Mysterious footprints | 46.00% | ~72 |
-| Glass shards | 45.00% | ~71 |
 | Complicated padlock | 43.00% | ~68 |
 | Big metal ruler | 42.00% | ~66 |
 | Doll | 37.00% | ~58 |
@@ -31,7 +31,7 @@
 | Hope | 5.00% | ~8 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157 (Ranked 260)  
+Progressed: 157 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

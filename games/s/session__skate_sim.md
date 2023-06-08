@@ -6,11 +6,11 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 54.00% | ~1,248 |
+| You're free now! | 54.00% | ~1,249 |
 | Keeping it classy | 24.00% | ~555 |
 | Welcome to the family | 18.00% | ~416 |
 | The finer things in life | 16.00% | ~370 |
-| Backpacker | 12.00% | ~277 |
+| Backpacker | 12.00% | ~278 |
 | Go with the Flow | 11.00% | ~254 |
 | Plastic Surgeon | 9.00% | ~208 |
 | Keep the dream alive | 8.00% | ~185 |
@@ -27,19 +27,19 @@ Number of Ratings: 111  (23.09.2022)
 | G'Day Mate! | 5.00% | ~116 |
 | Squad goals | 5.00% | ~116 |
 | Sup widdit big dog! | 5.00% | ~116 |
-| Commence the Hijinx! | 4.00% | ~92 |
-| Cops called! | 4.00% | ~92 |
-| DIY Boss | 4.00% | ~92 |
-| Globetrotter | 4.00% | ~92 |
-| Laid back | 4.00% | ~92 |
-| Lines for days | 4.00% | ~92 |
-| Manny Destroys All | 4.00% | ~92 |
-| NAHELL! | 4.00% | ~92 |
-| Prince of Philly | 4.00% | ~92 |
-| Purple passion | 4.00% | ~92 |
-| Renaissance man | 4.00% | ~92 |
-| Tank commander | 4.00% | ~92 |
-| Trick shot marksman | 4.00% | ~92 |
+| Commence the Hijinx! | 4.00% | ~93 |
+| Cops called! | 4.00% | ~93 |
+| DIY Boss | 4.00% | ~93 |
+| Globetrotter | 4.00% | ~93 |
+| Laid back | 4.00% | ~93 |
+| Lines for days | 4.00% | ~93 |
+| Manny Destroys All | 4.00% | ~93 |
+| NAHELL! | 4.00% | ~93 |
+| Prince of Philly | 4.00% | ~93 |
+| Purple passion | 4.00% | ~93 |
+| Renaissance man | 4.00% | ~93 |
+| Tank commander | 4.00% | ~93 |
+| Trick shot marksman | 4.00% | ~93 |
 | G.O.A.T. status | 3.00% | ~69 |
 | Hoarder | 3.00% | ~69 |
 | We get it, you're good | 3.00% | ~69 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,312 (Ranked 148)  
+Progressed: 2,313 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 2,265 | 0 |
 | 2023-06-06 | 2,287 | 0 |
 | 2023-06-07 | 2,306 | 0 |
-| 2023-06-08 | 2,312 | 0 |
+| 2023-06-08 | 2,313 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 398)  
 Sum: 420 (Ranked 302)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1424,9 +1424,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64053,
+  "EOS_Progressed": 64060,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 950,
+  "EOS_NewPlayers": 948,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5519,6 +5519,11 @@
       "Time": "2023-06-08T15:06:41.7397329+00:00",
       "NumProgressed": 64053,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-08T16:07:06.6409412+00:00",
+      "NumProgressed": 64060,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 61,
@@ -5986,7 +5991,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -6017,13 +6022,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64053,
+      "Progressed": 64060,
       "Completed": 94
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34333,
+      "Progressed": 34340,
       "Completed": 2644
     }
   ],
@@ -6031,8 +6036,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-07T20:00:34.4942334+00:00",
-  "LastChanged_Achievements": "2023-06-08T15:06:41.7397325+00:00",
+  "LastChanged_Achievements": "2023-06-08T16:07:06.6409407+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-08T14:59:48.2110519+00:00",
-  "LastUpdate_Achievements": "2023-06-08T15:06:41.7398033+00:00"
+  "LastUpdate_Ratings": "2023-06-08T16:00:19.8718505+00:00",
+  "LastUpdate_Achievements": "2023-06-08T16:07:06.6410073+00:00"
 }

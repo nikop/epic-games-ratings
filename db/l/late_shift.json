@@ -2,7 +2,7 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 208,
+  "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 94,
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -367,6 +367,11 @@
       "Time": "2023-06-08T15:06:04.0602641+00:00",
       "NumProgressed": 400,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-08T16:06:35.4556662+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 20,
@@ -378,7 +383,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "CHOICES_MATTER",
@@ -450,7 +455,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -466,7 +471,7 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "GOOD_KARMA",
@@ -528,16 +533,16 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 184
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 4
     }
   ],
@@ -545,8 +550,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-06-08T15:06:04.0602637+00:00",
+  "LastChanged_Achievements": "2023-06-08T16:06:35.4556659+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:52.1807912+00:00",
-  "LastUpdate_Ratings": "2023-06-08T14:57:46.280879+00:00",
-  "LastUpdate_Achievements": "2023-06-08T15:06:04.0602759+00:00"
+  "LastUpdate_Ratings": "2023-06-08T15:58:07.0822341+00:00",
+  "LastUpdate_Achievements": "2023-06-08T16:06:35.455678+00:00"
 }

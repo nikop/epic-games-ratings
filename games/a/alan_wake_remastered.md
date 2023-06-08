@@ -6,54 +6,54 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 29.00% | ~15,325 |
-| Let There Be Light | 23.00% | ~12,155 |
-| Float Like a Butterfly | 22.00% | ~11,626 |
-| Nordic Walking | 17.00% | ~8,984 |
-| Bright Falls' Finest | 17.00% | ~8,984 |
-| Under a Thin Layer of Skin | 15.00% | ~7,927 |
+| Follow the Light | 29.00% | ~15,328 |
+| Let There Be Light | 23.00% | ~12,156 |
+| Float Like a Butterfly | 22.00% | ~11,628 |
+| Nordic Walking | 17.00% | ~8,985 |
+| Bright Falls' Finest | 17.00% | ~8,985 |
+| Under a Thin Layer of Skin | 15.00% | ~7,928 |
 | Park Ranger | 12.00% | ~6,342 |
 | Finders Keepers | 12.00% | ~6,342 |
 | Paging Mr. Wake | 12.00% | ~6,342 |
-| Back! Back, I Say! | 11.00% | ~5,813 |
+| Back! Back, I Say! | 11.00% | ~5,814 |
 | They're Heeeeeere! | 10.00% | ~5,285 |
 | Sound and Fury | 10.00% | ~5,285 |
 | Missed by a Mile | 10.00% | ~5,285 |
 | Damn Good Cup of Coffee | 10.00% | ~5,285 |
-| Iron Horse | 9.00% | ~4,756 |
-| Wheels Within Wheels | 9.00% | ~4,756 |
-| The Six-Gun Scribe | 9.00% | ~4,756 |
-| Collateral Carnage | 9.00% | ~4,756 |
-| Come One, Come All | 9.00% | ~4,756 |
+| Iron Horse | 9.00% | ~4,757 |
+| Wheels Within Wheels | 9.00% | ~4,757 |
+| The Six-Gun Scribe | 9.00% | ~4,757 |
+| Collateral Carnage | 9.00% | ~4,757 |
+| Come One, Come All | 9.00% | ~4,757 |
 | Heavy Metal | 8.00% | ~4,228 |
 | Perchance to Dream | 8.00% | ~4,228 |
 | It's Not Just a Typewriter Brand | 8.00% | ~4,228 |
 | Thunder and Lightning | 8.00% | ~4,228 |
-| A Friend in Need | 8.00% | ~1,305 |
-| Gatekeeper | 7.00% | ~3,699 |
-| The Lady of the Light | 7.00% | ~3,699 |
-| Two For the Price of One | 7.00% | ~3,699 |
-| Energized! | 7.00% | ~3,699 |
+| A Friend in Need | 8.00% | ~1,306 |
+| Gatekeeper | 7.00% | ~3,700 |
+| The Lady of the Light | 7.00% | ~3,700 |
+| Two For the Price of One | 7.00% | ~3,700 |
+| Energized! | 7.00% | ~3,700 |
 | What Light Through Yonder Window | 6.00% | ~3,171 |
 | Right of Way | 6.00% | ~3,171 |
 | A Friend Indeed | 6.00% | ~979 |
-| Tornado Wrangler | 5.00% | ~2,642 |
-| Departure | 5.00% | ~2,642 |
+| Tornado Wrangler | 5.00% | ~2,643 |
+| Departure | 5.00% | ~2,643 |
 | Ding! | 5.00% | ~816 |
 | Drink 'Em Both Up | 4.00% | ~2,114 |
 | Hardboiled Writer | 4.00% | ~2,114 |
-| Boob Tube | 3.00% | ~1,585 |
-| Children of the Elder God | 3.00% | ~1,585 |
-| If It Flies, It Burns | 3.00% | ~1,585 |
-| KBF-FM | 3.00% | ~1,585 |
-| Kill Your Darlings | 3.00% | ~489 |
-| Heartbreaker | 3.00% | ~489 |
+| Boob Tube | 3.00% | ~1,586 |
+| Children of the Elder God | 3.00% | ~1,586 |
+| If It Flies, It Burns | 3.00% | ~1,586 |
+| KBF-FM | 3.00% | ~1,586 |
+| Kill Your Darlings | 3.00% | ~490 |
+| Heartbreaker | 3.00% | ~490 |
 | Carny | 2.00% | ~1,057 |
 | Iron Will | 2.00% | ~326 |
-| Medical Opinions | 1.00% | ~528 |
-| Taken Season | 1.00% | ~528 |
-| An Idyllic Small Town | 1.00% | ~528 |
-| Couch Potato | 1.00% | ~528 |
+| Medical Opinions | 1.00% | ~529 |
+| Taken Season | 1.00% | ~529 |
+| An Idyllic Small Town | 1.00% | ~529 |
+| Couch Potato | 1.00% | ~529 |
 | Go Gentle Into That Good Light | 1.00% | ~163 |
 | Words Will Never Harm You | 0.60% | ~98 |
 | Fast and Furious | 0.50% | ~82 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~53 |
 | No Punctuation | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,846 (Ranked 76)  
+Progressed: 52,854 (Ranked 76)  
 Completed: 50 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 50 (0.09%) (Ranked 169)
 | 2023-06-05 | 52,335 | 49 |
 | 2023-06-06 | 52,515 | 50 |
 | 2023-06-07 | 52,722 | 50 |
-| 2023-06-08 | 52,846 | 50 |
+| 2023-06-08 | 52,854 | 50 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

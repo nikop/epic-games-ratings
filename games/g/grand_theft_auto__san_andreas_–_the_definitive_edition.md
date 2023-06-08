@@ -5,20 +5,20 @@ Rating: 4.59 (Ranked 408)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~7,924 |
-| Pay 'n' Spray | 48.00% | ~4,754 |
-| All Dressed Up for San Fierro | 23.00% | ~2,278 |
-| The American Dream | 17.00% | ~1,684 |
-| School's Out | 16.00% | ~1,585 |
+| Getting Started | 80.00% | ~7,928 |
+| Pay 'n' Spray | 48.00% | ~4,757 |
+| All Dressed Up for San Fierro | 23.00% | ~2,279 |
+| The American Dream | 17.00% | ~1,685 |
+| School's Out | 16.00% | ~1,586 |
 | Smooth Moves | 15.00% | ~1,486 |
 | Today Was a Good Day | 13.00% | ~1,288 |
 | What happens in Las Venturas... | 12.00% | ~1,189 |
-| Horror of the Santa Maria | 9.00% | ~891 |
-| Liberty City State of Mind | 7.00% | ~693 |
-| With Extra Dip | 6.00% | ~594 |
-| The End of the Line | 6.00% | ~594 |
-| Original Gangster | 6.00% | ~594 |
-| Saviour | 5.00% | ~495 |
+| Horror of the Santa Maria | 9.00% | ~892 |
+| Liberty City State of Mind | 7.00% | ~694 |
+| With Extra Dip | 6.00% | ~595 |
+| The End of the Line | 6.00% | ~595 |
+| Original Gangster | 6.00% | ~595 |
+| Saviour | 5.00% | ~496 |
 | Rescue a Kitten Too? | 4.00% | ~396 |
 | They Can’t Stop All of Us | 3.00% | ~297 |
 | What are the Odds | 3.00% | ~297 |
@@ -36,12 +36,12 @@ Rating: 4.59 (Ranked 408)
 | Chick Magnet | 0.90% | ~89 |
 | Lucky Spinner | 0.80% | ~79 |
 | Hoopin' it Up | 0.70% | ~69 |
-| Not a Player | 0.50% | ~50 |
+| Not a Player | 0.60% | ~59 |
 | Remastered | 0.40% | ~40 |
 | ...Here we go again | 0.20% | ~20 |
 | I Ain't No Buster | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,905 (Ranked 110)  
+Progressed: 9,910 (Ranked 110)  
 Completed: 17 (0.17%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 17 (0.17%) (Ranked 150)
 | 2023-06-05 | 9,646 | 17 |
 | 2023-06-06 | 9,746 | 17 |
 | 2023-06-07 | 9,840 | 17 |
-| 2023-06-08 | 9,905 | 17 |
+| 2023-06-08 | 9,910 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

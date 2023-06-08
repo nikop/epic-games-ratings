@@ -12,7 +12,7 @@ Rating: 4.50 (Ranked 545)
 | Lord of War | 14.00% | ~337 |
 | Resourceful | 13.00% | ~313 |
 | Change the Channel | 13.00% | ~313 |
-| Taking it back | 11.00% | ~265 |
+| Taking it back | 12.00% | ~289 |
 | Organ Grinder | 10.00% | ~241 |
 | Target America | 10.00% | ~241 |
 | As Quiet as a Mouse | 9.00% | ~217 |
@@ -40,12 +40,12 @@ Rating: 4.50 (Ranked 545)
 | My Little Friend | 2.00% | ~48 |
 | It'll Buff Right Out | 2.00% | ~48 |
 | Strategist | 1.00% | ~24 |
+| Tinkerer | 1.00% | ~24 |
 | Locomotion Commotion | 1.00% | ~24 |
 | Road Rage | 1.00% | ~24 |
 | Don't hold your breath | 1.00% | ~24 |
 | Herr Today, Gone Tomorrow | 1.00% | ~24 |
 | Operation Foxley | 1.00% | ~24 |
-| Tinkerer | 0.90% | ~22 |
 | Ghost of Falaise | 0.80% | ~19 |
 | Last Resort | 0.70% | ~17 |
 | Siegebreaker | 0.70% | ~17 |

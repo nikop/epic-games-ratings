@@ -4,7 +4,7 @@
   "ProductSlug": "acceptance-beff58",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-02T21:00:33.5581738+00:00",
-  "LastUpdate_Ratings": "2023-06-08T15:00:18.4282504+00:00",
-  "LastUpdate_Achievements": "2023-06-08T15:02:31.4287536+00:00"
+  "LastUpdate_Ratings": "2023-06-08T16:00:44.2870297+00:00",
+  "LastUpdate_Achievements": "2023-06-08T16:03:13.6642045+00:00"
 }

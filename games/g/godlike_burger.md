@@ -5,13 +5,13 @@ Rating: 4.25 (Ranked 793)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 82.00% | ~273 |
-| FIRST BLOOD | 77.00% | ~256 |
-| KEVIN! | 67.00% | ~223 |
-| JACK OF ALL TRADES | 61.00% | ~203 |
-| CRIMINAL | 55.00% | ~183 |
+| MASTER CHEF | 81.00% | ~271 |
+| FIRST BLOOD | 77.00% | ~257 |
+| KEVIN! | 67.00% | ~224 |
+| JACK OF ALL TRADES | 60.00% | ~200 |
+| CRIMINAL | 55.00% | ~184 |
 | GRANDMA WOULD BE PROUD | 45.00% | ~150 |
-| WITHOUT BREAKING A SWEAT | 40.00% | ~133 |
+| WITHOUT BREAKING A SWEAT | 40.00% | ~134 |
 | HONORS STUDENT | 36.00% | ~120 |
 | BUTCHER | 26.00% | ~87 |
 | RAMBO | 22.00% | ~73 |
@@ -26,15 +26,15 @@ Rating: 4.25 (Ranked 793)
 | GOURMET | 8.00% | ~27 |
 | SCATTERBRAIN | 8.00% | ~27 |
 | EXPERIMENTALIST | 7.00% | ~23 |
-| TASTE UNTASTY | 5.00% | ~17 |
+| TASTE UNTASTY | 4.00% | ~13 |
 | HIGH TECHNOLOGIES | 3.00% | ~10 |
 | CORRUPTIONIST | 2.00% | ~7 |
-| DEBTOR | 2.00% | ~7 |
 | I'VE SEEN SOME… | 2.00% | ~7 |
+| DEBTOR | 1.00% | ~3 |
 | TRAVELER | 0.90% | ~3 |
 | MISTER ALL THUMBS | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 220)  
+Progressed: 334 (Ranked 221)  
 Completed: 1 (0.30%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 1 (0.30%) (Ranked 132)
 | 2023-06-05 | 326 | 1 |
 | 2023-06-06 | 328 | 1 |
 | 2023-06-07 | 330 | 1 |
-| 2023-06-08 | 333 | 1 |
+| 2023-06-08 | 334 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

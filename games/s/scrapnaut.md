@@ -13,7 +13,7 @@ Number of Ratings: 38  (23.09.2022)
 | Cook | 41.00% | ~101 |
 | Teleport | 40.00% | ~99 |
 | Scrap Master | 38.00% | ~94 |
-| Smelter | 36.00% | ~89 |
+| Smelter | 37.00% | ~91 |
 | Electro-Scrap Gatherer | 34.00% | ~84 |
 | Digger | 33.00% | ~82 |
 | Survivor | 32.00% | ~79 |
@@ -27,8 +27,8 @@ Number of Ratings: 38  (23.09.2022)
 | Master Of Technology | 18.00% | ~44 |
 | Treasure Hunter | 17.00% | ~42 |
 | Blacksmith | 12.00% | ~30 |
+| Mythical Smelter | 12.00% | ~30 |
 | Fuel | 11.00% | ~27 |
-| Mythical Smelter | 11.00% | ~27 |
 | Master Of Management | 9.00% | ~22 |
 | Forest Lord | 9.00% | ~22 |
 | Smelting Master | 9.00% | ~22 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 1.00% | ~2 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247 (Ranked 236)  
+Progressed: 247 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

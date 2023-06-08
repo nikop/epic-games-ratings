@@ -8,8 +8,8 @@
 | Conspiracy Theorist | 45.00% | ~120 |
 | On the Road | 42.00% | ~112 |
 | Souvenirs | 35.00% | ~93 |
-| Welcome to the Garage | 20.00% | ~53 |
 | This is Not Heavy Metal! | 19.00% | ~51 |
+| Welcome to the Garage | 19.00% | ~51 |
 | Truthseeker | 16.00% | ~43 |
 | 86's Nightmare | 11.00% | ~29 |
 | Partners in Crime | 10.00% | ~27 |
@@ -17,10 +17,10 @@
 | The Eye of the Storm | 9.00% | ~24 |
 | Friendzone | 9.00% | ~24 |
 | Attack on Tyran | 8.00% | ~21 |
-| Song Harvester | 2.00% | ~5 |
 | Try Harder | 2.00% | ~5 |
+| Song Harvester | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 232)  
+Progressed: 267 (Ranked 233)  
 Completed: 2 (0.75%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 2 (0.75%) (Ranked 100)
 | 2023-06-05 | 251 | 2 |
 | 2023-06-06 | 260 | 2 |
 | 2023-06-07 | 265 | 2 |
-| 2023-06-08 | 266 | 2 |
+| 2023-06-08 | 267 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

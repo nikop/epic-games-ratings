@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~126,196 |
-| Titan's First Steps | 96.00% | ~124,895 |
-| Basic in Bulk | 91.00% | ~118,390 |
-| Tinkle of Coins | 87.00% | ~113,186 |
-| Disintermediation | 76.00% | ~98,875 |
-| Capitalism Ho! | 75.00% | ~97,574 |
-| It's Free Real Estate | 70.00% | ~91,069 |
-| Budding Merchant | 66.00% | ~85,865 |
-| Another Satisfied Customer | 61.00% | ~79,360 |
-| One Easy Payment | 60.00% | ~78,059 |
-| Own the Means of Production | 60.00% | ~78,059 |
-| Some Assembly Required | 58.00% | ~75,457 |
-| Pretty Penny | 57.00% | ~74,156 |
+| Sponsored by Argon | 97.00% | ~126,198 |
+| Titan's First Steps | 96.00% | ~124,897 |
+| Basic in Bulk | 91.00% | ~118,392 |
+| Tinkle of Coins | 87.00% | ~113,188 |
+| Disintermediation | 76.00% | ~98,877 |
+| Capitalism Ho! | 75.00% | ~97,576 |
+| It's Free Real Estate | 70.00% | ~91,071 |
+| Budding Merchant | 66.00% | ~85,867 |
+| Another Satisfied Customer | 61.00% | ~79,362 |
+| One Easy Payment | 60.00% | ~78,061 |
+| Own the Means of Production | 60.00% | ~78,061 |
+| Some Assembly Required | 58.00% | ~75,459 |
+| Pretty Penny | 57.00% | ~74,158 |
 | One-Armed Bandit | 50.00% | ~65,050 |
 | Through Repetition, Perfection | 46.00% | ~59,846 |
 | The Daily Grind | 45.00% | ~58,545 |
@@ -116,10 +116,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | JACKPOT!!! | 0.70% | ~911 |
 | Merchant Extraordinaire | 0.60% | ~781 |
 | To Hell and Back | 0.60% | ~781 |
-| Ultimate Collector | 0.50% | ~650 |
+| Ultimate Collector | 0.50% | ~651 |
 | Capitalist Camaraderie | 0.20% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,099 (Ranked 57)  
+Progressed: 130,101 (Ranked 57)  
 Completed: 94 (0.07%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,19 +168,19 @@ Completed: 94 (0.07%) (Ranked 176)
 | 2023-06-05 | 129,927 | 94 |
 | 2023-06-06 | 129,989 | 94 |
 | 2023-06-07 | 130,059 | 94 |
-| 2023-06-08 | 130,099 | 94 |
+| 2023-06-08 | 130,101 | 94 |
 ## Awards
 Max (Great for Beginners): 4,614  (Ranked 67)  
-Sum: 26,720 (Ranked 44)  
+Sum: 26,722 (Ranked 44)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,614 |
 | This game is Relaxing | 3,960 |
 | This game has Quickly Understood Controls | 3,946 |
-| This game has Diverse Characters | 3,779 |
+| This game has Diverse Characters | 3,780 |
 | This game is Highly Recommended | 3,683 |
-| This game has Easy Combat | 3,628 |
+| This game has Easy Combat | 3,629 |
 | This game has Playful Visuals | 3,110 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -321,4 +321,4 @@ Diff (max vs sum): 23
 | 2023-06-05 | 3.98 | - | 4,608 | 26,706 |
 | 2023-06-06 | 3.98 | - | 4,611 | 26,712 |
 | 2023-06-07 | 3.98 | - | 4,611 | 26,716 |
-| 2023-06-08 | 3.98 | - | 4,614 | 26,720 |
+| 2023-06-08 | 3.98 | - | 4,614 | 26,722 |

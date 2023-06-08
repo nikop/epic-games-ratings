@@ -1149,9 +1149,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22102,
+  "EOS_Progressed": 22103,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3809,6 +3809,11 @@
       "Time": "2023-06-08T15:06:24.215223+00:00",
       "NumProgressed": 22102,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-08T16:06:53.9725494+00:00",
+      "NumProgressed": 22103,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -3994,9 +3999,9 @@
       "ID": "BossTowerDefeated",
       "SetID": "3ojhj46",
       "Name": "Suns and Soldiers",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 133
     },
     {
       "ID": "BoxerBoss",
@@ -4131,21 +4136,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22102,
+      "Progressed": 22103,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1032,
+      "Progressed": 1033,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-03T10:58:54.6277289+00:00",
-  "LastChanged_Achievements": "2023-06-08T15:06:24.2152226+00:00",
+  "LastChanged_Achievements": "2023-06-08T16:06:53.972549+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:30.088855+00:00",
-  "LastUpdate_Ratings": "2023-06-08T14:59:12.218424+00:00",
-  "LastUpdate_Achievements": "2023-06-08T15:06:24.2152608+00:00"
+  "LastUpdate_Ratings": "2023-06-08T15:59:41.3925994+00:00",
+  "LastUpdate_Achievements": "2023-06-08T16:06:53.9725872+00:00"
 }

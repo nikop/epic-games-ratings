@@ -6,15 +6,15 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,644 |
-| Un-Lonely Island | 48.00% | ~1,670 |
-| The Beginning of a Servantship | 46.00% | ~1,600 |
-| Trade Is My Trait | 37.00% | ~1,287 |
+| Just One...More...Term... | 76.00% | ~2,646 |
+| Un-Lonely Island | 48.00% | ~1,671 |
+| The Beginning of a Servantship | 46.00% | ~1,602 |
+| Trade Is My Trait | 37.00% | ~1,288 |
 | Number 18 | 25.00% | ~870 |
 | We Don't Have Time For That | 20.00% | ~696 |
-| The Governator | 18.00% | ~626 |
-| Caribbean Comrade | 17.00% | ~591 |
-| The Legend of Langostino | 17.00% | ~591 |
+| The Governator | 18.00% | ~627 |
+| Caribbean Comrade | 17.00% | ~592 |
+| The Legend of Langostino | 17.00% | ~592 |
 | The Dreamer of Dreams | 16.00% | ~557 |
 | Happy Ending? | 11.00% | ~383 |
 | Go Sovereigns! | 11.00% | ~383 |
@@ -22,9 +22,9 @@ Number of Ratings: 398  (23.09.2022)
 | Of Seals And Men | 10.00% | ~348 |
 | Shackadelic | 10.00% | ~348 |
 | Double Trouble | 9.00% | ~313 |
-| Firestarter | 8.00% | ~278 |
-| Make Tropico Great Again! | 8.00% | ~278 |
-| French Connection | 8.00% | ~278 |
+| Firestarter | 8.00% | ~279 |
+| Make Tropico Great Again! | 8.00% | ~279 |
+| French Connection | 8.00% | ~279 |
 | Don't Panic! | 7.00% | ~244 |
 | Beware The Betman | 6.00% | ~209 |
 | I Owe You Nothing | 6.00% | ~209 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~31 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,479 (Ranked 134)  
+Progressed: 3,482 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,17 +96,17 @@ Completed: 1 (0.03%) (Ranked 190)
 | 2023-06-05 | 3,426 | 1 |
 | 2023-06-06 | 3,443 | 1 |
 | 2023-06-07 | 3,467 | 1 |
-| 2023-06-08 | 3,479 | 1 |
+| 2023-06-08 | 3,482 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 317)  
-Sum: 756 (Ranked 255)  
+Sum: 757 (Ranked 255)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
 | This game has Quickly Understood Controls | 93 |
 | This game is Relaxing | 89 |
-| This game is Highly Recommended | 84 |
+| This game is Highly Recommended | 85 |
 | This game has Amazing Storytelling | 83 |
 | This game is Educational | 81 |
 | This game has Amazing Characters | 80 |
@@ -217,3 +217,4 @@ Diff (max vs sum): 62
 | 2023-06-03 | 4.67 | - | 106 | 754 |
 | 2023-06-04 | 4.67 | - | 106 | 755 |
 | 2023-06-05 | 4.67 | - | 106 | 756 |
+| 2023-06-08 | 4.67 | - | 106 | 757 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4156,9 +4156,9 @@
       "Count": 3247
     }
   ],
-  "EOS_Progressed": 90123,
+  "EOS_Progressed": 90132,
   "EOS_Completed": 1923,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9146,6 +9146,11 @@
       "Time": "2023-06-08T15:06:49.6903172+00:00",
       "NumProgressed": 90123,
       "NumCompleted": 1923
+    },
+    {
+      "Time": "2023-06-08T16:07:13.8053141+00:00",
+      "NumProgressed": 90132,
+      "NumCompleted": 1923
     }
   ],
   "TotalAchievements": 493,
@@ -9157,7 +9162,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "objective_completed_10",
@@ -9339,9 +9344,9 @@
       "ID": "objective_completed_1067",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Blast the Brigands",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_1068",
@@ -10261,7 +10266,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "objective_completed_149",
@@ -10277,7 +10282,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "objective_completed_150",
@@ -10349,7 +10354,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "objective_completed_165",
@@ -10387,9 +10392,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_completed_170",
@@ -10485,7 +10490,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "objective_completed_20",
@@ -10845,7 +10850,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "objective_completed_36",
@@ -11301,7 +11306,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "objective_completed_540",
@@ -11701,7 +11706,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "objective_completed_60",
@@ -13100,21 +13105,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56397,
+      "Progressed": 56406,
       "Completed": 2776
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90123,
+      "Progressed": 90132,
       "Completed": 1923
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-07T22:58:10.9450923+00:00",
-  "LastChanged_Achievements": "2023-06-08T15:06:49.6903168+00:00",
+  "LastChanged_Achievements": "2023-06-08T16:07:13.8053135+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-08T14:58:06.0893631+00:00",
-  "LastUpdate_Achievements": "2023-06-08T15:06:49.6925178+00:00"
+  "LastUpdate_Ratings": "2023-06-08T15:58:29.0557264+00:00",
+  "LastUpdate_Achievements": "2023-06-08T16:07:13.8074984+00:00"
 }
