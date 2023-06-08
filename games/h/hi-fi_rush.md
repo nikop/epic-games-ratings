@@ -33,8 +33,8 @@ Rating: 4.89 (Ranked 13)
 | There's such a thing as TOO helpful | 21.00% | ~606 |
 | That's a lot of junk metal… | 19.00% | ~549 |
 | Beat-hit mania | 18.00% | ~520 |
+| I told you I'd be fine, Peppermint! | 18.00% | ~520 |
 | Well that was a rush! | 17.00% | ~491 |
-| I told you I'd be fine, Peppermint! | 17.00% | ~491 |
 | Wanna hear my playlist? | 12.00% | ~346 |
 | Check out my moves! | 12.00% | ~346 |
 | Chip-tuned | 11.00% | ~318 |

@@ -1,15 +1,15 @@
 # Shoulders of Giants
 [Store](https://store.epicgames.com/en-US/p/shoulders-of-giants-61381f)  
 [View Rawdata](../../db/s/shoulders_of_giants.json)  
-Rating: 4.35 (Ranked 728)  
+Rating: 4.35 (Ranked 727)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,883 |
-| A Ribbiting Performance | 77.00% | ~1,648 |
-| At Least We Have Each Other... | 76.00% | ~1,626 |
-| Frogbot | 73.00% | ~1,562 |
-| Ouch | 55.00% | ~1,177 |
+| On the Shoulders of Giants | 88.00% | ~1,884 |
+| A Ribbiting Performance | 77.00% | ~1,649 |
+| At Least We Have Each Other... | 76.00% | ~1,627 |
+| Frogbot | 73.00% | ~1,563 |
+| Ouch | 55.00% | ~1,178 |
 | Fun in the Stun | 54.00% | ~1,156 |
 | Do you feel like a tough guy? | 44.00% | ~942 |
 | The Interdimensional Power of Friendship | 44.00% | ~942 |
@@ -25,7 +25,7 @@ Rating: 4.35 (Ranked 728)
 | Better Than the Devs | 4.00% | ~86 |
 | So do we just stay up here, or?... | 2.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,140 (Ranked 151)  
+Progressed: 2,141 (Ranked 151)  
 Completed: 8 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 8 (0.37%) (Ranked 118)
 | 2023-06-04 | 2,120 | 8 |
 | 2023-06-05 | 2,128 | 8 |
 | 2023-06-06 | 2,134 | 8 |
-| 2023-06-08 | 2,140 | 8 |
+| 2023-06-08 | 2,141 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

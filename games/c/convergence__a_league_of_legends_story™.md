@@ -11,8 +11,11 @@
 | Like Clockwork | 3.00% | ~19 |
 | Street Style | 3.00% | ~19 |
 | Family Memories | 3.00% | ~19 |
+| The Mysterious Stranger | 3.00% | ~19 |
 | The Betrayer | 3.00% | ~19 |
 | The Man Who Shattered Time | 3.00% | ~19 |
+| Whiz Kid | 3.00% | ~19 |
+| Rail Rat | 3.00% | ~19 |
 | The Loose Cannon | 3.00% | ~19 |
 | Make Up For Lost Time | 3.00% | ~19 |
 | No, Thanks! | 3.00% | ~19 |
@@ -30,9 +33,6 @@
 | Sartorialist | 2.00% | ~13 |
 | Factorywood Explorer | 2.00% | ~13 |
 | Fairgrounds Explorer | 2.00% | ~13 |
-| The Mysterious Stranger | 2.00% | ~13 |
-| Whiz Kid | 2.00% | ~13 |
-| Rail Rat | 2.00% | ~13 |
 | Time Flies | 2.00% | ~13 |
 | The Harder They Fall | 2.00% | ~13 |
 | Honest Mistake | 2.00% | ~13 |

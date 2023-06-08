@@ -4,7 +4,7 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -132,9 +132,9 @@
       "ID": "ACH_DESTRUCTIBLEKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Redecorator",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_ENEMYKILLS_LARGE",
@@ -156,9 +156,9 @@
       "ID": "ACH_ENEMYKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Get out of my way",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_GEMSCOLLECTED_1",
@@ -453,8 +453,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-06-08T20:02:07.4328694+00:00",
+  "LastChanged_Achievements": "2023-06-08T21:02:10.4729269+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:24.8549073+00:00",
-  "LastUpdate_Ratings": "2023-06-08T19:58:50.938652+00:00",
-  "LastUpdate_Achievements": "2023-06-08T20:02:07.4328985+00:00"
+  "LastUpdate_Ratings": "2023-06-08T20:58:55.9036811+00:00",
+  "LastUpdate_Achievements": "2023-06-08T21:02:10.4729635+00:00"
 }

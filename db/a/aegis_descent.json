@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 376,
+  "EOS_Progressed": 377,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -177,6 +177,11 @@
       "Time": "2023-06-07T18:03:10.4689116+00:00",
       "NumProgressed": 376,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T21:00:29.3244056+00:00",
+      "NumProgressed": 377,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -228,7 +233,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -258,9 +263,9 @@
       "ID": "Award_DocKing",
       "SetID": "9ojec6n",
       "Name": "DocKing",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 173
     },
     {
       "ID": "Award_EarlyBird",
@@ -362,9 +367,9 @@
       "ID": "Award_LineOfDuty",
       "SetID": "9ojec6n",
       "Name": "Line of Duty",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 271
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -436,7 +441,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "Award_ShellShock",
@@ -532,14 +537,14 @@
       "Name": "What-A-Shot",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 376,
+      "Progressed": 377,
       "Completed": 1
     }
   ],
@@ -547,8 +552,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-08T20:00:24.9506785+00:00",
+  "LastChanged_Achievements": "2023-06-08T21:00:29.3244051+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:28.8451881+00:00",
-  "LastUpdate_Ratings": "2023-06-08T19:58:09.9230846+00:00",
-  "LastUpdate_Achievements": "2023-06-08T20:00:24.9507142+00:00"
+  "LastUpdate_Ratings": "2023-06-08T20:58:15.4437175+00:00",
+  "LastUpdate_Achievements": "2023-06-08T21:00:29.3244435+00:00"
 }

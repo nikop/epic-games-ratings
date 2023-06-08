@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,803 |
-| The Cursed Farmer | 1.00% | ~901 |
-| The Mad Wizard | 1.00% | ~901 |
+| The Cursed Farmer | 1.00% | ~902 |
+| The Mad Wizard | 1.00% | ~902 |
 | Beast Intentions | 0.90% | ~811 |
 | The Court of Storms | 0.90% | ~508 |
 | The Ring of Regeneration | 0.70% | ~631 |
@@ -54,11 +54,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.30% | ~270 |
 | The Death Curse | 0.30% | ~270 |
 | Useless Allies | 0.30% | ~270 |
+| Premature Betrayal | 0.30% | ~270 |
 | Running of the Saurs | 0.30% | ~270 |
 | Hearts Aflame | 0.30% | ~169 |
 | Bad Odds in Avernus | 0.30% | ~169 |
 | An Even Worse Time in Avernus | 0.30% | ~169 |
 | Escort to Waterdeep | 0.30% | ~270 |
+| Constant Banditry | 0.30% | ~270 |
 | Waterdeep Detours | 0.30% | ~270 |
 | Underdeep Cartography | 0.30% | ~270 |
 | Overdue Rendezvous | 0.30% | ~270 |
@@ -146,6 +148,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Grand Puzzle | 0.20% | ~180 |
 | Azaka's Procession - Part 1 | 0.20% | ~180 |
 | Tomb of the Nine Gods | 0.20% | ~180 |
+| Azaka's Procession - Part 2 | 0.20% | ~180 |
 | The Mists of Ravenloft | 0.20% | ~180 |
 | Invisible Shadows | 0.20% | ~180 |
 | Family Entanglements | 0.20% | ~180 |
@@ -174,7 +177,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.20% | ~180 |
 | From The Shadows | 0.20% | ~180 |
 | Excavating History | 0.20% | ~180 |
-| Premature Betrayal | 0.20% | ~180 |
 | Towering Expectations | 0.20% | ~180 |
 | Hopelessly Lost | 0.20% | ~180 |
 | Cramped Quarters | 0.20% | ~180 |
@@ -224,7 +226,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.20% | ~113 |
 | The Everlasting Rime | 0.20% | ~113 |
 | Close Escort | 0.20% | ~180 |
-| Constant Banditry | 0.20% | ~180 |
 | The Long Haul | 0.20% | ~180 |
 | Lost in the Deep | 0.20% | ~180 |
 | Easily Distracted | 0.20% | ~180 |
@@ -239,6 +240,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.20% | ~113 |
 | The Bleeding Citadel | 0.20% | ~113 |
 | Idyllglen | 0.20% | ~113 |
+| The Radiant Nightmare | 0.20% | ~113 |
 | Witty Riposting | 0.20% | ~113 |
 | Waiting on Sunrise | 0.20% | ~113 |
 | Deekin's Mission | 0.20% | ~113 |
@@ -311,7 +313,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Never Split the Party | 0.10% | ~90 |
 | Snakes on our Plane | 0.10% | ~56 |
 | The Soulmonger Calls | 0.10% | ~90 |
-| Azaka's Procession - Part 2 | 0.10% | ~90 |
 | Acererak's Puzzle | 0.10% | ~56 |
 | The Hunt for Owl-y | 0.10% | ~90 |
 | Werewolves in the Mist | 0.10% | ~90 |
@@ -464,7 +465,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Going To Eleven | 0.10% | ~56 |
 | The Madness of Yeenoghu | 0.10% | ~56 |
 | Reya Reborn | 0.10% | ~56 |
-| The Radiant Nightmare | 0.10% | ~56 |
 | Quick Thinking | 0.10% | ~56 |
 | Tough Acting | 0.10% | ~56 |
 | Frontline Fighters | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,147 (Ranked 63)  
+Progressed: 90,151 (Ranked 63)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
-| 2023-06-08 | 90,147 | 1,924 |
+| 2023-06-08 | 90,151 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
 Sum: 30,051 (Ranked 37)  

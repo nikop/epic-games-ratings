@@ -112,18 +112,18 @@ Completed: 22 (0.05%) (Ranked 181)
 | 2023-06-08 | 43,092 | 22 |
 ## Awards
 Max (Extremely Fun): 1,035  (Ranked 135)  
-Sum: 8,407 (Ranked 90)  
+Sum: 8,410 (Ranked 90)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,035 |
-| This game has Quickly Understood Controls | 1,005 |
+| This game has Quickly Understood Controls | 1,007 |
 | This game is Highly Recommended | 979 |
 | This game is Great for Beginners | 968 |
 | This game has Diverse Characters | 963 |
 | This game has Amazing Characters | 963 |
 | This game is Relaxing | 959 |
-| This game has Amazing Storytelling | 954 |
+| This game has Amazing Storytelling | 955 |
 | This game has Playful Visuals | 777 |
 | This game has a Silly Community | 581 |
 ## Ratings History
@@ -221,4 +221,4 @@ Diff (max vs sum): 45
 | 2023-06-05 | 3.78 | - | 1,035 | 8,401 |
 | 2023-06-06 | 3.78 | - | 1,035 | 8,403 |
 | 2023-06-07 | 3.78 | - | 1,035 | 8,406 |
-| 2023-06-08 | 3.78 | - | 1,035 | 8,407 |
+| 2023-06-08 | 3.78 | - | 1,035 | 8,410 |

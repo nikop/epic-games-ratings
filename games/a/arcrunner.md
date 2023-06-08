@@ -9,17 +9,17 @@
 | Challenge Accepted | 70.00% | ~158 |
 | Nanonic I | 68.00% | ~154 |
 | Unlocked and Loaded | 67.00% | ~151 |
-| Terminated II | 53.00% | ~120 |
+| Terminated II | 54.00% | ~122 |
 | Rookie | 40.00% | ~90 |
-| The City | 32.00% | ~72 |
+| The City | 33.00% | ~75 |
 | Terminated III | 31.00% | ~70 |
 | Challenge Mastered | 27.00% | ~61 |
-| Nanonic II | 25.00% | ~56 |
+| Nanonic II | 27.00% | ~61 |
 | Supply Run | 16.00% | ~36 |
 | Up Close And Personal | 13.00% | ~29 |
 | Cybernetic | 12.00% | ~27 |
 | Nanonic III | 12.00% | ~27 |
-| The Bigger They Are | 9.00% | ~20 |
+| The Bigger They Are | 10.00% | ~23 |
 | Starship Docks | 9.00% | ~20 |
 | Eden Heights | 5.00% | ~11 |
 | Fully Modded | 4.00% | ~9 |

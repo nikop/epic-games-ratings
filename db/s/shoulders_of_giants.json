@@ -2,12 +2,12 @@
   "ID": "fa7346c113ff48d8b9a1b48f44a3a48e",
   "Name": "Shoulders of Giants",
   "ProductSlug": "shoulders-of-giants-61381f",
-  "Ranking_Rating": 728,
+  "Ranking_Rating": 727,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2140,
+  "EOS_Progressed": 2141,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1141,6 +1141,11 @@
       "Time": "2023-06-08T19:07:27.0395458+00:00",
       "NumProgressed": 2140,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-08T21:05:45.9376155+00:00",
+      "NumProgressed": 2141,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -1192,7 +1197,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "deal_damage",
@@ -1200,7 +1205,7 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "defeat_enemies",
@@ -1208,7 +1213,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1224,7 +1229,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "piercing_beam",
@@ -1256,7 +1261,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1303,7 +1308,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2140,
+      "Progressed": 2141,
       "Completed": 8
     }
   ],
@@ -1311,8 +1316,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-06-08T20:05:47.1589725+00:00",
+  "LastChanged_Achievements": "2023-06-08T21:05:45.937615+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:44.7570646+00:00",
-  "LastUpdate_Ratings": "2023-06-08T19:59:52.7212645+00:00",
-  "LastUpdate_Achievements": "2023-06-08T20:05:47.1589881+00:00"
+  "LastUpdate_Ratings": "2023-06-08T20:59:55.4005924+00:00",
+  "LastUpdate_Achievements": "2023-06-08T21:05:45.9376353+00:00"
 }

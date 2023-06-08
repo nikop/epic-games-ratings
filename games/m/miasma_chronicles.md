@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.34 (Ranked 735)  
+Rating: 4.31 (Ranked 756)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,15 +10,15 @@ Rating: 4.34 (Ranked 735)
 | Aspiring Editor | 72.00% | ~762 |
 | Gun for Hire | 67.00% | ~710 |
 | I am the law! | 59.00% | ~625 |
-| Lumberjack | 45.00% | ~477 |
+| Lumberjack | 46.00% | ~487 |
 | Croaked | 41.00% | ~434 |
 | Limp Richard | 40.00% | ~424 |
 | From Darkness to Light | 39.00% | ~413 |
+| Exorcist | 38.00% | ~402 |
 | Editor Adept | 37.00% | ~392 |
-| Exorcist | 37.00% | ~392 |
 | Firestarter | 37.00% | ~392 |
 | Giant Killer | 34.00% | ~360 |
-| Sensei | 32.00% | ~339 |
+| Sensei | 33.00% | ~349 |
 | The meaning of Kain | 31.00% | ~328 |
 | Technophobe | 28.00% | ~297 |
 | Recycler | 26.00% | ~275 |
@@ -90,3 +90,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 4.34 | 0 | 0 |
 | 2023-06-05 | 4.35 | 0 | 0 |
 | 2023-06-07 | 4.34 | 0 | 0 |
+| 2023-06-08 | 4.31 | 0 | 0 |

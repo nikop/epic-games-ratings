@@ -2,7 +2,7 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 728,
+  "Ranking_Rating": 727,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 217,
@@ -900,9 +900,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 290
     },
     {
       "ID": "use-submarine",
@@ -924,8 +924,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-06-08T20:05:46.8017218+00:00",
+  "LastChanged_Achievements": "2023-06-08T21:05:45.6478854+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:34.3322021+00:00",
-  "LastUpdate_Ratings": "2023-06-08T19:59:45.6685803+00:00",
-  "LastUpdate_Achievements": "2023-06-08T20:05:46.801754+00:00"
+  "LastUpdate_Ratings": "2023-06-08T20:59:48.0715663+00:00",
+  "LastUpdate_Achievements": "2023-06-08T21:05:45.6479025+00:00"
 }

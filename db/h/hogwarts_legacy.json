@@ -3358,10 +3358,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 36462,
       "NumberOfAwardsMax": 19702
+    },
+    {
+      "Time": "2023-06-08T20:57:30.6643742+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 36479,
+      "NumberOfAwardsMax": 19702
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36462,
+  "NumberOfAwards": 36479,
   "NumberOfAwardsMax": 19702,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3375,7 +3381,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 9322
+      "Count": 9339
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -3438,9 +3444,9 @@
       "Count": 504
     }
   ],
-  "EOS_Progressed": 277338,
+  "EOS_Progressed": 277348,
   "EOS_Completed": 391,
-  "EOS_NewPlayers": 2286,
+  "EOS_NewPlayers": 2277,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -8483,6 +8489,11 @@
       "Time": "2023-06-08T20:04:33.5491576+00:00",
       "NumProgressed": 277338,
       "NumCompleted": 391
+    },
+    {
+      "Time": "2023-06-08T21:04:32.7700271+00:00",
+      "NumProgressed": 277348,
+      "NumCompleted": 391
     }
   ],
   "TotalAchievements": 45,
@@ -8494,7 +8505,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22187
+      "UsersEstimate": 22188
     },
     {
       "ID": "PFA_10",
@@ -8526,7 +8537,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16640
+      "UsersEstimate": 16641
     },
     {
       "ID": "PFA_14",
@@ -8598,7 +8609,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16640
+      "UsersEstimate": 16641
     },
     {
       "ID": "PFA_22",
@@ -8622,7 +8633,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16640
+      "UsersEstimate": 16641
     },
     {
       "ID": "PFA_25",
@@ -8678,7 +8689,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16640
+      "UsersEstimate": 16641
     },
     {
       "ID": "PFA_31",
@@ -8846,23 +8857,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16640
+      "UsersEstimate": 16641
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 277338,
+      "Progressed": 277348,
       "Completed": 391
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-08T19:57:24.4279435+00:00",
-  "LastChanged_Achievements": "2023-06-08T20:04:33.5491571+00:00",
+  "LastChanged": "2023-06-08T20:57:30.664374+00:00",
+  "LastChanged_Achievements": "2023-06-08T21:04:32.7700266+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:24.8723684+00:00",
-  "LastUpdate_Ratings": "2023-06-08T19:57:24.4279442+00:00",
-  "LastUpdate_Achievements": "2023-06-08T20:04:33.5492099+00:00"
+  "LastUpdate_Ratings": "2023-06-08T20:57:30.664375+00:00",
+  "LastUpdate_Achievements": "2023-06-08T21:04:32.7700991+00:00"
 }

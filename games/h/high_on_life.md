@@ -6,17 +6,17 @@ Rating: 4.67 (Ranked 259)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eye Scream, You Scream | 83.00% | ~18,931 |
-| Mods Please Ban | 77.00% | ~17,562 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,334 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,650 |
+| Mods Please Ban | 77.00% | ~17,563 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,335 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,651 |
 | First Bounty Down | 59.00% | ~13,457 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,001 |
-| Luglox Genocide | 43.00% | ~9,807 |
+| Luglox Genocide | 43.00% | ~9,808 |
 | Playing Card To Get | 33.00% | ~7,527 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,527 |
-| Creature Feature | 29.00% | ~6,614 |
-| Satisfied Gus-tomer | 28.00% | ~6,386 |
-| Cold-Blooded Driller | 28.00% | ~6,386 |
+| Creature Feature | 29.00% | ~6,615 |
+| Satisfied Gus-tomer | 28.00% | ~6,387 |
+| Cold-Blooded Driller | 28.00% | ~6,387 |
 | Are You Packin'? | 25.00% | ~5,702 |
 | G3 Graduation | 25.00% | ~5,702 |
 | RIP Davey Glutes | 24.00% | ~5,474 |
@@ -27,18 +27,18 @@ Rating: 4.67 (Ranked 259)
 | Who's The Boss? | 20.00% | ~4,562 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,562 |
 | Self-Actualization | 19.00% | ~4,334 |
-| Legendary Bounty Hunter | 18.00% | ~4,105 |
+| Legendary Bounty Hunter | 18.00% | ~4,106 |
 | Seeing All The Sights | 16.00% | ~3,649 |
 | Carried Stan's Load To Completion | 13.00% | ~2,965 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,737 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,053 |
 | Sequel-Bait | 8.00% | ~1,825 |
 | Gunning For Your Job | 7.00% | ~1,597 |
-| Playing Favorites | 6.00% | ~1,368 |
+| Playing Favorites | 6.00% | ~1,369 |
 | Epic Legendary Prize | 1.00% | ~228 |
 | A Starfish Is Born | 1.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,808 (Ranked 93)  
+Progressed: 22,809 (Ranked 93)  
 Completed: 8 (0.04%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 8 (0.04%) (Ranked 185)
 | 2023-06-05 | 22,798 | 8 |
 | 2023-06-06 | 22,802 | 8 |
 | 2023-06-07 | 22,806 | 8 |
-| 2023-06-08 | 22,808 | 8 |
+| 2023-06-08 | 22,809 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

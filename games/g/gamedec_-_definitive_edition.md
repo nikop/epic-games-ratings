@@ -1,15 +1,15 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.33 (Ranked 745)  
+Rating: 4.33 (Ranked 743)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,595 |
-| Powergamer | 27.00% | ~62,288 |
-| Barely scratched the surface | 25.00% | ~57,674 |
-| Write that down | 24.00% | ~55,367 |
+| I will finish what you started | 28.00% | ~64,597 |
+| Powergamer | 27.00% | ~62,290 |
+| Barely scratched the surface | 25.00% | ~57,676 |
+| Write that down | 24.00% | ~55,369 |
 | Guns, lots of guns | 12.00% | ~27,684 |
 | Collector | 11.00% | ~25,377 |
 | Elementary! | 8.00% | ~18,456 |
@@ -47,7 +47,7 @@ Number of Ratings: 33  (23.09.2022)
 | Home run | 0.80% | ~1,846 |
 | I have the high ground | 0.70% | ~1,615 |
 | It's blue, always blue | 0.70% | ~1,615 |
-| Who wouldn't love a troll? | 0.50% | ~1,153 |
+| Who wouldn't love a troll? | 0.50% | ~1,154 |
 | Enjoy these little moments | 0.40% | ~923 |
 | Irondec | 0.40% | ~923 |
 | Un-bear-able | 0.40% | ~923 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~461 |
 | Memory 5 | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,697 (Ranked 43)  
+Progressed: 230,704 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 5 (0.00%) (Ranked 212)
 | 2023-06-05 | 230,145 | 5 |
 | 2023-06-06 | 230,318 | 5 |
 | 2023-06-07 | 230,523 | 5 |
-| 2023-06-08 | 230,697 | 5 |
+| 2023-06-08 | 230,704 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 360)  
 Sum: 73 (Ranked 419)  

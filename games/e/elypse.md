@@ -30,12 +30,12 @@
 | Payback | 18.00% | ~11 |
 | Magnitude 5 | 17.00% | ~10 |
 | MayDay! MayDay! | 13.00% | ~8 |
-| GG EZ | 8.00% | ~5 |
-| Comeback | 8.00% | ~5 |
+| GG EZ | 10.00% | ~6 |
+| Comeback | 10.00% | ~6 |
 | Gooooooaaaaal!!! | 8.00% | ~5 |
+| Sadistic | 2.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
-| Sadistic | 0.00% | ~0 |
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -5,14 +5,14 @@ Rating: 3.88 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~474 |
-| Electrician | 34.00% | ~393 |
-| Fear my botany powers, Mars | 32.00% | ~370 |
-| Zero Waste | 29.00% | ~335 |
-| Bob The Builder | 29.00% | ~335 |
+| I don't feel so good | 41.00% | ~475 |
+| Electrician | 34.00% | ~394 |
+| Fear my botany powers, Mars | 32.00% | ~371 |
+| Zero Waste | 29.00% | ~336 |
+| Bob The Builder | 29.00% | ~336 |
 | I am the greatest botanist on this planet. | 28.00% | ~324 |
-| Gardener | 24.00% | ~277 |
-| Miner | 24.00% | ~277 |
+| Miner | 24.00% | ~278 |
+| Gardener | 23.00% | ~266 |
 | Houston we have a problem | 21.00% | ~243 |
 | Occupy Mars! | 21.00% | ~243 |
 | Detective | 18.00% | ~208 |
@@ -25,9 +25,9 @@ Rating: 3.88 (Ranked 918)
 | “Aliens” | 3.00% | ~35 |
 | Plumber | 2.00% | ~23 |
 | Driver's License | 1.00% | ~12 |
-| Explosive Miner | 1.00% | ~12 |
 | Hard Landing | 1.00% | ~12 |
 | To infinity and beyond! | 1.00% | ~12 |
+| Explosive Miner | 0.90% | ~10 |
 | Rocket Jump | 0.70% | ~8 |
 | Thunderstruck | 0.70% | ~8 |
 | 5G Network | 0.50% | ~6 |
@@ -54,7 +54,7 @@ Rating: 3.88 (Ranked 918)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,156 (Ranked 167)  
+Progressed: 1,158 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 1,130 | 0 |
 | 2023-06-06 | 1,142 | 0 |
 | 2023-06-07 | 1,144 | 0 |
-| 2023-06-08 | 1,156 | 0 |
+| 2023-06-08 | 1,158 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

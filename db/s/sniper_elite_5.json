@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2416,
+  "EOS_Progressed": 2418,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2899,6 +2899,11 @@
       "Time": "2023-06-08T20:05:44.550447+00:00",
       "NumProgressed": 2416,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-08T21:05:43.3995084+00:00",
+      "NumProgressed": 2418,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2990,7 +2995,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3060,9 +3065,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -3094,7 +3099,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -3118,7 +3123,7 @@
       "Name": "Lord of War",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3156,9 +3161,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 459
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3182,7 +3187,7 @@
       "Name": "From Paris with Love",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -3190,7 +3195,7 @@
       "Name": "Burn after reading",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -3198,7 +3203,7 @@
       "Name": "Souvenir hunter",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -3246,7 +3251,7 @@
       "Name": "Change the Channel",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3318,7 +3323,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -3477,13 +3482,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2367,
+      "Progressed": 2369,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2416,
+      "Progressed": 2418,
       "Completed": 2
     }
   ],
@@ -3491,8 +3496,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-08T13:05:05.4339298+00:00",
-  "LastChanged_Achievements": "2023-06-08T20:05:44.5504465+00:00",
+  "LastChanged_Achievements": "2023-06-08T21:05:43.3995079+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-08T20:00:06.6336241+00:00",
-  "LastUpdate_Achievements": "2023-06-08T20:05:44.5505117+00:00"
+  "LastUpdate_Ratings": "2023-06-08T21:00:08.808932+00:00",
+  "LastUpdate_Achievements": "2023-06-08T21:05:43.3995934+00:00"
 }

@@ -5,26 +5,26 @@ Rating: 4.24 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,384 |
-| Don't I Know You...? | 76.00% | ~1,315 |
-| Jailbreak | 65.00% | ~1,124 |
-| Suited and Booted | 38.00% | ~657 |
+| Rigged And Ready | 80.00% | ~1,385 |
+| Don't I Know You...? | 76.00% | ~1,316 |
+| Jailbreak | 65.00% | ~1,125 |
+| Suited and Booted | 38.00% | ~658 |
 | HEADSHOT! | 37.00% | ~640 |
 | Sleeping With The Fishes | 35.00% | ~606 |
 | Overheated | 30.00% | ~519 |
 | High Performance | 30.00% | ~519 |
-| Powered Up | 28.00% | ~484 |
+| Powered Up | 28.00% | ~485 |
 | Studied The Blade | 24.00% | ~415 |
 | Home Invasion | 22.00% | ~381 |
 | Luminary | 22.00% | ~381 |
 | It's a Trap | 22.00% | ~381 |
-| True Survivor | 21.00% | ~363 |
+| True Survivor | 21.00% | ~364 |
 | Shocking | 20.00% | ~346 |
 | Court Martial | 19.00% | ~329 |
 | Offensive Defense | 19.00% | ~329 |
 | Unforeseeable Consequences | 19.00% | ~329 |
-| Dead Again | 18.00% | ~311 |
-| Clean Cut | 18.00% | ~311 |
+| Dead Again | 18.00% | ~312 |
+| Clean Cut | 18.00% | ~312 |
 | Full Arsenal | 17.00% | ~294 |
 | Can't Trust Banks | 15.00% | ~260 |
 | Mommy Dearest | 13.00% | ~225 |
@@ -44,10 +44,10 @@ Rating: 4.24 (Ranked 800)
 | Following In Their Footsteps | 7.00% | ~121 |
 | Turbo Booster | 6.00% | ~104 |
 | Squid Pro Quo | 6.00% | ~104 |
-| Reborn | 5.00% | ~86 |
-| Remote Surgery | 5.00% | ~86 |
-| Shrimp Cocktail | 5.00% | ~86 |
-| Juiced Up | 5.00% | ~86 |
+| Reborn | 5.00% | ~87 |
+| Remote Surgery | 5.00% | ~87 |
+| Shrimp Cocktail | 5.00% | ~87 |
+| Juiced Up | 5.00% | ~87 |
 | Hello Darkness My Old Friend | 4.00% | ~69 |
 | Counter-Sniper | 4.00% | ~69 |
 | Geronimo! | 4.00% | ~69 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 800)
 | Swiss Army Drone | 1.00% | ~17 |
 | Three Birds With One Stone | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,730 (Ranked 155)  
+Progressed: 1,731 (Ranked 155)  
 Completed: 10 (0.58%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 10 (0.58%) (Ranked 110)
 | 2023-06-05 | 1,708 | 10 |
 | 2023-06-06 | 1,715 | 10 |
 | 2023-06-07 | 1,721 | 10 |
-| 2023-06-08 | 1,730 | 10 |
+| 2023-06-08 | 1,731 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

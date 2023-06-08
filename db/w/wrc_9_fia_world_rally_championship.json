@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-9",
   "Ranking_Rating": 500,
   "Ranking_Popularity": 457,
-  "Ranking_PopularitySum": 349,
+  "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 325,
@@ -519,10 +519,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 216,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-06-08T20:58:45.2440352+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 217,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 216,
+  "NumberOfAwards": 217,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -578,7 +584,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -604,8 +610,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2023-05-29T09:58:48.5124248+00:00",
+  "LastChanged": "2023-06-08T20:58:45.2440351+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:09.2989865+00:00",
-  "LastUpdate_Ratings": "2023-06-08T19:58:40.343965+00:00",
-  "LastUpdate_Achievements": "2023-06-08T20:02:11.7484378+00:00"
+  "LastUpdate_Ratings": "2023-06-08T20:58:45.2440366+00:00",
+  "LastUpdate_Achievements": "2023-06-08T21:02:14.5733556+00:00"
 }

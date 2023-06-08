@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.32 (Ranked 750)  
+Rating: 4.32 (Ranked 749)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -52,7 +52,7 @@ Rating: 4.32 (Ranked 750)
 | Room with a View | 7.00% | ~26 |
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 376 (Ranked 215)  
+Progressed: 376 (Ranked 216)  
 Completed: 4 (1.06%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
