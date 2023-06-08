@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -572,9 +572,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14773,
+  "EOS_Progressed": 14777,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3227,6 +3227,11 @@
       "Time": "2023-06-08T22:04:29.2391882+00:00",
       "NumProgressed": 14773,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-08T23:04:55.4799761+00:00",
+      "NumProgressed": 14777,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3254,7 +3259,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3270,7 +3275,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3302,7 +3307,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -3342,7 +3347,7 @@
       "Name": "Get a Grip",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3350,7 +3355,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "KILL_2HEAD",
@@ -3422,7 +3427,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -3446,7 +3451,7 @@
       "Name": "Without A Paddle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "STORY_HANGAR",
@@ -3476,9 +3481,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 739
     },
     {
       "ID": "STORY_TOWER",
@@ -3557,13 +3562,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14773,
+      "Progressed": 14777,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2699,
+      "Progressed": 2703,
       "Completed": 29
     }
   ],
@@ -3571,8 +3576,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-08T19:57:51.4696734+00:00",
-  "LastChanged_Achievements": "2023-06-08T22:04:29.2391877+00:00",
+  "LastChanged_Achievements": "2023-06-08T23:04:55.4799756+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-08T21:58:25.9207945+00:00",
-  "LastUpdate_Achievements": "2023-06-08T22:04:29.2392382+00:00"
+  "LastUpdate_Ratings": "2023-06-08T22:58:39.3000255+00:00",
+  "LastUpdate_Achievements": "2023-06-08T23:04:55.4800218+00:00"
 }

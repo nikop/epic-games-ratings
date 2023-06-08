@@ -13,11 +13,11 @@
 | Kind heart | 46.00% | ~37 |
 | Devil's dozen | 27.00% | ~22 |
 | It doesn't work like that | 23.00% | ~19 |
+| A small victory | 17.00% | ~14 |
 | This is just the beginning... | 16.00% | ~13 |
-| A small victory | 16.00% | ~13 |
-| Unstoppable Curiosity | 11.00% | ~9 |
+| Unstoppable Curiosity | 12.00% | ~10 |
 | Time is on my side | 10.00% | ~8 |
-| Gold Digger | 9.00% | ~7 |
+| Gold Digger | 10.00% | ~8 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 81 (Ranked 285)  

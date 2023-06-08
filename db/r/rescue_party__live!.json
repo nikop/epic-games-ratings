@@ -4,7 +4,7 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -301,9 +301,9 @@
       "ID": "ACH_SPEEDY",
       "SetID": "1p69hf1",
       "Name": "ASAP",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
@@ -318,8 +318,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-06-08T22:05:52.8839184+00:00",
+  "LastChanged_Achievements": "2023-06-08T23:06:20.7446075+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:45.1722306+00:00",
-  "LastUpdate_Ratings": "2023-06-08T21:59:41.7362103+00:00",
-  "LastUpdate_Achievements": "2023-06-08T22:05:52.8839332+00:00"
+  "LastUpdate_Ratings": "2023-06-08T22:59:54.9168694+00:00",
+  "LastUpdate_Achievements": "2023-06-08T23:06:20.7446201+00:00"
 }

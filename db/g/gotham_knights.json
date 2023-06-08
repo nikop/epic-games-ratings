@@ -1430,9 +1430,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64108,
+  "EOS_Progressed": 64117,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 963,
+  "EOS_NewPlayers": 962,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5560,6 +5560,11 @@
       "Time": "2023-06-08T22:06:16.815711+00:00",
       "NumProgressed": 64108,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-08T23:06:45.182025+00:00",
+      "NumProgressed": 64117,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 61,
@@ -5875,7 +5880,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "HARLEY_2",
@@ -5915,7 +5920,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -5963,7 +5968,7 @@
       "Name": "Loose Ends",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "MYSTERY_02",
@@ -6058,13 +6063,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64108,
+      "Progressed": 64117,
       "Completed": 94
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34388,
+      "Progressed": 34397,
       "Completed": 2644
     }
   ],
@@ -6072,8 +6077,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-08T20:59:28.8434464+00:00",
-  "LastChanged_Achievements": "2023-06-08T22:06:16.8157107+00:00",
+  "LastChanged_Achievements": "2023-06-08T23:06:45.1820234+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-08T21:59:57.8667782+00:00",
-  "LastUpdate_Achievements": "2023-06-08T22:06:16.8157942+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:00:11.8515394+00:00",
+  "LastUpdate_Achievements": "2023-06-08T23:06:45.1821042+00:00"
 }

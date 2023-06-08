@@ -18,6 +18,8 @@
 | Rail Rat | 3.00% | ~19 |
 | The Loose Cannon | 3.00% | ~19 |
 | Make Up For Lost Time | 3.00% | ~19 |
+| Time Flies | 3.00% | ~19 |
+| The Harder They Fall | 3.00% | ~19 |
 | No, Thanks! | 3.00% | ~19 |
 | Breaking Down Barriers | 3.00% | ~19 |
 | The Wicked Twins | 3.00% | ~19 |
@@ -27,21 +29,19 @@
 | Sump Explorer | 3.00% | ~19 |
 | Check Your Pulse | 3.00% | ~19 |
 | Immaculate Aim | 3.00% | ~19 |
+| The Brass Boss | 3.00% | ~19 |
 | The Family Fortune | 3.00% | ~19 |
 | Right On Time | 2.00% | ~13 |
 | Corin Goes Home | 2.00% | ~13 |
 | Sartorialist | 2.00% | ~13 |
 | Factorywood Explorer | 2.00% | ~13 |
 | Fairgrounds Explorer | 2.00% | ~13 |
-| Time Flies | 2.00% | ~13 |
-| The Harder They Fall | 2.00% | ~13 |
 | Honest Mistake | 2.00% | ~13 |
 | Fast Learner | 2.00% | ~13 |
 | Theater Explorer | 2.00% | ~13 |
 | Immaculate Aim | 2.00% | ~13 |
 | Ask Questions Later | 2.00% | ~13 |
 | Good Neighbor | 2.00% | ~13 |
-| The Brass Boss | 2.00% | ~13 |
 | Cultivair Explorer | 1.00% | ~6 |
 | Entresol Explorer | 1.00% | ~6 |
 | Golem Hunter | 1.00% | ~6 |

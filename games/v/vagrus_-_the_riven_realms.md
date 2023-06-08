@@ -19,6 +19,7 @@
 | Bounty Hunter | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
 | Harbinger | 1.00% | ~1 |
+| Courier | 1.00% | ~1 |
 | The Voice of Hereafter | 1.00% | ~1 |
 | Acquaintance | 1.00% | ~1 |
 | Tail-wind | 1.00% | ~1 |
@@ -50,7 +51,6 @@
 | Accomplished Explorer | 0.00% | ~0 |
 | Over the Horizon | 0.00% | ~0 |
 | Prepared For Anything | 0.00% | ~0 |
-| Courier | 0.00% | ~0 |
 | Hired Help | 0.00% | ~0 |
 | Ever After | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |

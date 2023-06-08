@@ -352,9 +352,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 925,
+  "EOS_Progressed": 926,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1197,6 +1197,11 @@
       "Time": "2023-06-08T19:07:31.6502673+00:00",
       "NumProgressed": 925,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T23:06:38.934945+00:00",
+      "NumProgressed": 926,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1216,7 +1221,7 @@
       "Name": "Career criminal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CHEEKI_BREEKI_1",
@@ -1264,7 +1269,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "EXPERT_1",
@@ -1280,7 +1285,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "GHOSTBUSTER",
@@ -1304,7 +1309,7 @@
       "Name": "Head Burst",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "INDY_1",
@@ -1328,7 +1333,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "LOVE_GURU_1",
@@ -1360,7 +1365,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -1480,7 +1485,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "WISHMASTER_1",
@@ -1488,22 +1493,22 @@
       "Name": "Wishmaster",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 925,
+      "Progressed": 926,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-03T14:00:49.4692031+00:00",
-  "LastChanged_Achievements": "2023-06-08T22:06:10.7062434+00:00",
+  "LastChanged_Achievements": "2023-06-08T23:06:38.9349444+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.2333517+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:00:18.4903801+00:00",
-  "LastUpdate_Achievements": "2023-06-08T22:06:10.7062758+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:00:32.7841615+00:00",
+  "LastUpdate_Achievements": "2023-06-08T23:06:38.9349767+00:00"
 }

@@ -21,14 +21,14 @@
 | Back In The Saddle | 40.00% | ~160 |
 | No Man Is An Island | 39.00% | ~156 |
 | At Wits' End | 38.00% | ~152 |
+| Fhtagn! | 37.00% | ~148 |
 | Bookworm | 36.00% | ~144 |
 | Up In Flames | 36.00% | ~144 |
-| Fhtagn! | 36.00% | ~144 |
 | Going Once... | 35.00% | ~140 |
 | Let Me Be Frank | 33.00% | ~132 |
 | Brain Food | 31.00% | ~124 |
 | No Stone Unturned | 30.00% | ~120 |
-| Curiosity Killed The Cat | 19.00% | ~76 |
+| Curiosity Killed The Cat | 20.00% | ~80 |
 | Read It And Weep | 18.00% | ~72 |
 | Big Breakthrough | 15.00% | ~60 |
 | Reawakened | 5.00% | ~20 |

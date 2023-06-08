@@ -2,12 +2,12 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 866,
+  "Ranking_Rating": 867,
   "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -568,7 +568,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4182,
+  "EOS_Progressed": 4183,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
@@ -2913,6 +2913,11 @@
       "Time": "2023-06-08T21:03:21.6641174+00:00",
       "NumProgressed": 4182,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T23:04:12.8511579+00:00",
+      "NumProgressed": 4183,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2932,7 +2937,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2940,7 +2945,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -2956,7 +2961,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -2964,7 +2969,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -2980,7 +2985,7 @@
       "Name": "Scaling up",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2988,7 +2993,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -2996,7 +3001,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -3028,7 +3033,7 @@
       "Name": "Goldfish?",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -3203,13 +3208,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4182,
+      "Progressed": 4183,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3554,
+      "Progressed": 3555,
       "Completed": 112
     }
   ],
@@ -3217,8 +3222,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-08T22:03:27.1624368+00:00",
+  "LastChanged_Achievements": "2023-06-08T23:04:12.8511573+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:14.4046039+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:00:01.1532379+00:00",
-  "LastUpdate_Achievements": "2023-06-08T22:03:27.1624806+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:00:15.3271752+00:00",
+  "LastUpdate_Achievements": "2023-06-08T23:04:12.8511985+00:00"
 }

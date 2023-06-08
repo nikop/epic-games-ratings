@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 91.00% | ~210 |
+| Augmented | 92.00% | ~213 |
 | Terminated I | 73.00% | ~169 |
-| Challenge Accepted | 70.00% | ~162 |
+| Challenge Accepted | 71.00% | ~164 |
 | Nanonic I | 68.00% | ~157 |
-| Unlocked and Loaded | 67.00% | ~155 |
-| Terminated II | 54.00% | ~125 |
+| Unlocked and Loaded | 68.00% | ~157 |
+| Terminated II | 55.00% | ~127 |
 | Rookie | 40.00% | ~92 |
-| The City | 33.00% | ~76 |
-| Terminated III | 30.00% | ~69 |
-| Challenge Mastered | 27.00% | ~62 |
-| Nanonic II | 26.00% | ~60 |
+| The City | 34.00% | ~79 |
+| Terminated III | 32.00% | ~74 |
+| Challenge Mastered | 29.00% | ~67 |
+| Nanonic II | 27.00% | ~62 |
 | Supply Run | 16.00% | ~37 |
 | Up Close And Personal | 13.00% | ~30 |
+| Cybernetic | 12.00% | ~28 |
 | Nanonic III | 12.00% | ~28 |
-| Cybernetic | 11.00% | ~25 |
 | The Bigger They Are | 10.00% | ~23 |
 | Starship Docks | 9.00% | ~21 |
 | Eden Heights | 5.00% | ~12 |

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 401,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.99,
   "EosHistory": [
@@ -1215,9 +1215,9 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "MQ02_4",
@@ -1391,9 +1391,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 148
     },
     {
       "ID": "PLTN",
@@ -1416,8 +1416,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-08T22:04:24.097351+00:00",
+  "LastChanged_Achievements": "2023-06-08T23:04:50.6225258+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-08T21:57:55.1730558+00:00",
-  "LastUpdate_Achievements": "2023-06-08T22:04:24.0973792+00:00"
+  "LastUpdate_Ratings": "2023-06-08T22:58:07.9132747+00:00",
+  "LastUpdate_Achievements": "2023-06-08T23:04:50.6225515+00:00"
 }

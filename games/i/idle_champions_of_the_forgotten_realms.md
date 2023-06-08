@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.40% | ~361 |
 | Unearthed Evil | 0.40% | ~361 |
 | The Crumbling Temple | 0.40% | ~361 |
+| Useless Allies | 0.40% | ~361 |
 | Exploring Port Nyanzaru | 0.40% | ~361 |
 | The Contagious Curse | 0.40% | ~361 |
 | Maddening | 0.30% | ~270 |
@@ -53,7 +54,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.30% | ~270 |
 | The Botched Kidnapping | 0.30% | ~270 |
 | The Death Curse | 0.30% | ~270 |
-| Useless Allies | 0.30% | ~270 |
 | Premature Betrayal | 0.30% | ~270 |
 | Running of the Saurs | 0.30% | ~270 |
 | Hearts Aflame | 0.30% | ~169 |
@@ -91,6 +91,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Second Third Out | 0.20% | ~113 |
 | Third Third Out | 0.20% | ~113 |
 | Slack-jawed Lorna | 0.20% | ~113 |
+| I'm Sure I Saw It Move! | 0.20% | ~113 |
 | A Steadfast Love | 0.20% | ~113 |
 | The Fairy Rings of Thither | 0.20% | ~113 |
 | Zarak's Revenge | 0.20% | ~113 |
@@ -208,6 +209,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Market Fluctuations | 0.20% | ~180 |
 | Once More Into The Breach | 0.20% | ~180 |
 | An Illithid Undertaking | 0.20% | ~113 |
+| Déjà Vu | 0.20% | ~113 |
 | Déjà Vu All Over Again | 0.20% | ~113 |
 | Into The Fire | 0.20% | ~113 |
 | Dreamscape | 0.20% | ~113 |
@@ -270,7 +272,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.10% | ~56 |
 | Icequake | 0.10% | ~56 |
 | A Lesson in Classes | 0.10% | ~56 |
-| I'm Sure I Saw It Move! | 0.10% | ~56 |
 | End of the Line | 0.10% | ~56 |
 | The Dark Heart | 0.10% | ~56 |
 | Undergeared | 0.10% | ~56 |
@@ -415,7 +416,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Illithid Ambush | 0.10% | ~56 |
 | Misty Undermountain | 0.10% | ~56 |
 | An Owlbear of an Undertaking | 0.10% | ~56 |
-| Déjà Vu | 0.10% | ~56 |
 | Wait, What? | 0.10% | ~56 |
 | Ireena von Zarovich | 0.10% | ~56 |
 | A Difficult Descent | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,160 (Ranked 63)  
+Progressed: 90,164 (Ranked 63)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-05 | 89,893 | 1,917 |
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
-| 2023-06-08 | 90,160 | 1,924 |
+| 2023-06-08 | 90,164 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
 Sum: 30,051 (Ranked 37)  

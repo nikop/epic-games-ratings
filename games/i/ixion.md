@@ -21,12 +21,12 @@ Rating: 4.57 (Ranked 443)
 | Hope Seeker | 6.00% | ~151 |
 | A Hunk of Junk | 5.00% | ~126 |
 | Exceeding Capacity | 4.00% | ~101 |
+| Please Make it Stop! | 4.00% | ~101 |
 | Man's Best Friend | 3.00% | ~75 |
 | Power Outage | 3.00% | ~75 |
 | Access Granted | 3.00% | ~75 |
 | Necessary Enhancement | 3.00% | ~75 |
 | Convenient Transport | 3.00% | ~75 |
-| Please Make it Stop! | 3.00% | ~75 |
 | Oats | 2.00% | ~50 |
 | What They Hide From Us | 2.00% | ~50 |
 | Sightseeing | 2.00% | ~50 |

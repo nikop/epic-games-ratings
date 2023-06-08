@@ -6,44 +6,44 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Where's that freaking Dwarf? | 100.00% | ~43 |
-| Alt+F4 | 100.00% | ~43 |
-| Sock! SOCK! | 86.00% | ~37 |
-| Fireproof Wizardess | 72.00% | ~31 |
-| Livin' in a dwarven paradise | 67.00% | ~29 |
-| DM intervention | 67.00% | ~29 |
-| Déjà vu | 65.00% | ~28 |
-| GG EZ | 60.00% | ~26 |
-| Way of the Wimp | 58.00% | ~25 |
-| Speedrun | 58.00% | ~25 |
-| Oh, when I'll be level 10... | 58.00% | ~25 |
-| I am the night | 49.00% | ~21 |
-| Thieves' Guild Accreditation | 49.00% | ~21 |
-| A beer, two curses, three companions | 47.00% | ~20 |
-| The Ranger of Chaos | 44.00% | ~19 |
-| The plot thickens... At the tavern | 42.00% | ~18 |
-| Dwarf Fortress | 42.00% | ~18 |
-| Look but don't touch | 40.00% | ~17 |
-| Team Building Exercise | 40.00% | ~17 |
-| Gargantua | 37.00% | ~16 |
-| Material Girl | 37.00% | ~16 |
-| Shiny and Crôm | 35.00% | ~15 |
-| The demons' feast | 35.00% | ~15 |
-| The Statuette of Gladeulfeurah | 33.00% | ~14 |
-| A tale of adventurers not quite like the others... | 33.00% | ~14 |
+| Where's that freaking Dwarf? | 100.00% | ~44 |
+| Alt+F4 | 100.00% | ~44 |
+| Sock! SOCK! | 86.00% | ~38 |
+| Fireproof Wizardess | 73.00% | ~32 |
+| Livin' in a dwarven paradise | 66.00% | ~29 |
+| Déjà vu | 66.00% | ~29 |
+| DM intervention | 66.00% | ~29 |
+| GG EZ | 59.00% | ~26 |
+| Way of the Wimp | 57.00% | ~25 |
+| Speedrun | 57.00% | ~25 |
+| Oh, when I'll be level 10... | 57.00% | ~25 |
+| I am the night | 48.00% | ~21 |
+| Thieves' Guild Accreditation | 48.00% | ~21 |
+| A beer, two curses, three companions | 45.00% | ~20 |
+| The Ranger of Chaos | 43.00% | ~19 |
+| The plot thickens... At the tavern | 41.00% | ~18 |
+| Dwarf Fortress | 41.00% | ~18 |
+| Look but don't touch | 39.00% | ~17 |
+| Team Building Exercise | 39.00% | ~17 |
+| Gargantua | 36.00% | ~16 |
+| Material Girl | 36.00% | ~16 |
+| Shiny and Crôm | 34.00% | ~15 |
+| The demons' feast | 34.00% | ~15 |
+| The Statuette of Gladeulfeurah | 32.00% | ~14 |
+| A tale of adventurers not quite like the others... | 32.00% | ~14 |
 | Cursed die | 30.00% | ~13 |
 | Torture and Sensibility | 30.00% | ~13 |
-| The Famous Dungeon of Naheulbeuk | 28.00% | ~12 |
-| The Great Library | 26.00% | ~11 |
-| The Blood Countess | 26.00% | ~11 |
-| The beards of change | 26.00% | ~11 |
+| The Famous Dungeon of Naheulbeuk | 27.00% | ~12 |
+| The Great Library | 25.00% | ~11 |
+| The Blood Countess | 25.00% | ~11 |
+| The beards of change | 25.00% | ~11 |
 | Urik's Depths | 23.00% | ~10 |
 | The Woman in the High Castle | 23.00% | ~10 |
 | Law and Order | 23.00% | ~10 |
-| In Navalu's footsteps | 21.00% | ~9 |
-| Scholar of the Lands of Fangh | 19.00% | ~8 |
-| He’s alive! Aliiiive! | 19.00% | ~8 |
-| Dead for good | 19.00% | ~8 |
+| In Navalu's footsteps | 20.00% | ~9 |
+| Scholar of the Lands of Fangh | 18.00% | ~8 |
+| He’s alive! Aliiiive! | 18.00% | ~8 |
+| Dead for good | 18.00% | ~8 |
 | The Dungeon Master | 16.00% | ~7 |
 | Res Judicata | 16.00% | ~7 |
 | Necrophilia | 16.00% | ~7 |
@@ -51,7 +51,7 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 16.00% | ~7 |
 | It's been a hard day's night | 14.00% | ~6 |
 | Lëgal Legend | 14.00% | ~6 |
-| Free customer service | 12.00% | ~5 |
+| Free customer service | 11.00% | ~5 |
 | Holistic Adventuring Party | 9.00% | ~4 |
 | Egghead | 9.00% | ~4 |
 | We come in peace | 9.00% | ~4 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 311)  
+Progressed: 44 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 16 | 0 |
 | 2023-06-06 | 26 | 0 |
 | 2023-06-07 | 37 | 0 |
-| 2023-06-08 | 43 | 0 |
+| 2023-06-08 | 44 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 378)  
 Sum: 61 (Ranked 431)  

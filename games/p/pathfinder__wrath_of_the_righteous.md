@@ -6,9 +6,9 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 17.00% | ~1,640 |
+| Devoured by Darkness | 17.00% | ~1,641 |
 | A Spark | 12.00% | ~1,158 |
-| Burning City | 11.00% | ~1,061 |
+| Burning City | 11.00% | ~1,062 |
 | Banner over the Citadel | 9.00% | ~868 |
 | Mythic Choices | 9.00% | ~868 |
 | Defender's Heart | 9.00% | ~868 |
@@ -17,15 +17,15 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 4.00% | ~386 |
 | Path of the Angel | 4.00% | ~386 |
 | Demonic and Divine | 4.00% | ~386 |
-| Path of the Azata | 3.00% | ~289 |
-| Transformation | 3.00% | ~289 |
-| The Legacy | 3.00% | ~289 |
-| Great Upstart | 3.00% | ~289 |
-| Voice from Your Dreams | 3.00% | ~289 |
-| All Paths Open | 3.00% | ~289 |
-| A Flame | 3.00% | ~289 |
-| Next-Door Play | 3.00% | ~289 |
-| Get the Toad | 3.00% | ~289 |
+| Path of the Azata | 3.00% | ~290 |
+| Transformation | 3.00% | ~290 |
+| The Legacy | 3.00% | ~290 |
+| Great Upstart | 3.00% | ~290 |
+| Voice from Your Dreams | 3.00% | ~290 |
+| All Paths Open | 3.00% | ~290 |
+| A Flame | 3.00% | ~290 |
+| Next-Door Play | 3.00% | ~290 |
+| Get the Toad | 3.00% | ~290 |
 | Heart of the Fallen Land | 2.00% | ~193 |
 | Path of the Trickster | 2.00% | ~193 |
 | Path of the Lich | 2.00% | ~193 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,649 (Ranked 113)  
+Progressed: 9,650 (Ranked 113)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 9,565 | 0 |
 | 2023-06-06 | 9,594 | 0 |
 | 2023-06-07 | 9,619 | 0 |
-| 2023-06-08 | 9,649 | 0 |
+| 2023-06-08 | 9,650 | 0 |
 ## Awards
 Max (Character Customization): 1,656  (Ranked 111)  
 Sum: 6,720 (Ranked 109)  

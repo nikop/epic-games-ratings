@@ -676,9 +676,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2325,
+  "EOS_Progressed": 2327,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2226,6 +2226,11 @@
       "Time": "2023-06-08T22:05:59.581797+00:00",
       "NumProgressed": 2325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T23:06:27.6214299+00:00",
+      "NumProgressed": 2327,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2277,7 +2282,7 @@
       "Name": "Cross lock country",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_DIPPED",
@@ -2429,7 +2434,7 @@
       "Name": "Many plys later...",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_NAHELL",
@@ -2445,7 +2450,7 @@
       "Name": "Pew-Pew",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_PLASTIC-SURGEON",
@@ -2605,7 +2610,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -2613,22 +2618,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2325,
+      "Progressed": 2327,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-04T23:59:06.4190942+00:00",
-  "LastChanged_Achievements": "2023-06-08T22:05:59.5817966+00:00",
+  "LastChanged_Achievements": "2023-06-08T23:06:27.621429+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-08T21:59:24.1556377+00:00",
-  "LastUpdate_Achievements": "2023-06-08T22:05:59.5818447+00:00"
+  "LastUpdate_Ratings": "2023-06-08T22:59:37.7856258+00:00",
+  "LastUpdate_Achievements": "2023-06-08T23:06:27.6214747+00:00"
 }

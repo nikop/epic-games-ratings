@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 360,
-  "Ranking_Popularity": 396,
-  "Ranking_PopularitySum": 440,
+  "Ranking_Popularity": 391,
+  "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -392,23 +392,29 @@
       "Rating": 4.61,
       "NumberOfAwards": 49,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-06-08T22:58:57.8808894+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 50,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49,
-  "NumberOfAwardsMax": 49,
+  "NumberOfAwards": 50,
+  "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 49
+      "Count": 50
     }
   ],
-  "EOS_Progressed": 8005,
+  "EOS_Progressed": 8006,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3961,6 +3967,11 @@
       "Time": "2023-06-08T22:03:08.9092691+00:00",
       "NumProgressed": 8005,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-08T23:03:23.8107275+00:00",
+      "NumProgressed": 8006,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 34,
@@ -3988,7 +3999,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACH04",
@@ -4052,7 +4063,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ACH12",
@@ -4132,7 +4143,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "ACH22",
@@ -4243,16 +4254,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8005,
+      "Progressed": 8006,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-06-07T21:57:56.8493042+00:00",
-  "LastChanged_Achievements": "2023-06-08T22:03:08.9092687+00:00",
+  "LastChanged": "2023-06-08T22:58:57.8808892+00:00",
+  "LastChanged_Achievements": "2023-06-08T23:03:23.8107269+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.8139479+00:00",
-  "LastUpdate_Ratings": "2023-06-08T21:58:45.124971+00:00",
-  "LastUpdate_Achievements": "2023-06-08T22:03:08.9093198+00:00"
+  "LastUpdate_Ratings": "2023-06-08T22:58:57.8808898+00:00",
+  "LastUpdate_Achievements": "2023-06-08T23:03:23.810771+00:00"
 }
