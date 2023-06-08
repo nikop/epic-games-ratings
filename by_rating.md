@@ -90,7 +90,7 @@
 | 80 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 493 |
 | 80 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 493 |
 | 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,451 | 117 |
-| 90 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 371 | 208 |
+| 90 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 372 | 208 |
 | 90 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 493 |
 | 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 608 | 167 |
 | 90 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 725 | 154 |
@@ -154,7 +154,7 @@
 | 143 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 493 |
 | 143 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 761 | 150 |
 | 143 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 0 | 493 |
-| 143 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 606 | 169 |
+| 143 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 607 | 169 |
 | 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 403 | 203 |
 | 156 | [Aimlabs](games/a/aimlabs.md) | 4.73 | 0 | 493 |
 | 156 | [Haven](games/h/haven.md) | 4.73 | 0 | 493 |
@@ -172,33 +172,33 @@
 | 168 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 567 | 173 |
 | 168 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 139 | 292 |
 | 168 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 416 |
+| 168 | [shapez](games/s/shapez.md) | 4.72 | 182 | 270 |
 | 168 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 493 |
 | 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 493 |
 | 168 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 493 |
 | 168 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 493 |
 | 168 | [Timberborn](games/t/timberborn.md) | 4.72 | 124 | 303 |
 | 168 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 493 |
-| 179 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 493 |
-| 179 | [Dead Space](games/d/dead_space.md) | 4.71 | 54 | 384 |
-| 179 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 338 | 216 |
-| 179 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 493 |
-| 179 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,414 | 50 |
-| 179 | [Fez](games/f/fez.md) | 4.71 | 23 | 473 |
-| 179 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 429 |
-| 179 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,226 | 45 |
-| 179 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.71 | 0 | 493 |
-| 179 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 493 |
-| 179 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 493 |
-| 179 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 493 |
-| 179 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 71 | 365 |
-| 179 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 493 |
-| 179 | [shapez](games/s/shapez.md) | 4.71 | 182 | 270 |
-| 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 115 | 312 |
-| 179 | [Suzerain](games/s/suzerain.md) | 4.71 | 0 | 493 |
+| 180 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 493 |
+| 180 | [Dead Space](games/d/dead_space.md) | 4.71 | 54 | 384 |
+| 180 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 338 | 216 |
+| 180 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 493 |
+| 180 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,414 | 50 |
+| 180 | [Fez](games/f/fez.md) | 4.71 | 23 | 473 |
+| 180 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 429 |
+| 180 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,226 | 45 |
+| 180 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.71 | 0 | 493 |
+| 180 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 493 |
+| 180 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 493 |
+| 180 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 493 |
+| 180 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 71 | 365 |
+| 180 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 493 |
+| 180 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 115 | 312 |
+| 180 | [Suzerain](games/s/suzerain.md) | 4.71 | 0 | 493 |
 | 196 | [Barony](games/b/barony.md) | 4.70 | 72 | 361 |
 | 196 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,531 | 68 |
 | 196 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 493 |
-| 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 357 | 212 |
+| 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 358 | 212 |
 | 196 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,330 | 70 |
 | 196 | [For The King](games/f/for_the_king.md) | 4.70 | 367 | 211 |
 | 196 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 493 |
@@ -515,7 +515,7 @@
 | 501 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 28 | 457 |
 | 514 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 21 | 482 |
 | 514 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 744 | 152 |
-| 514 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 28,118 | 16 |
+| 514 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 28,154 | 16 |
 | 514 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 482 |
 | 514 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 493 |
 | 514 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 507 | 185 |
