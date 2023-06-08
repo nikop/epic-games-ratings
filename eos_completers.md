@@ -36,7 +36,7 @@
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.42% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
-| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
+| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.79% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
@@ -60,12 +60,12 @@
 | 58 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 61 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
-| 62 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.25% |
-| 63 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
-| 64 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
-| 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.06% |
+| 61 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.47% |
+| 62 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
+| 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.25% |
+| 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
+| 65 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
+| 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 67 | [Iron Danger](games/i/iron_danger.md) | 2.04% |
 | 68 | [JARS](games/j/jars.md) | 1.92% |
 | 69 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -135,9 +135,9 @@
 | 132 | [The Surge](games/t/the_surge.md) | 0.30% |
 | 134 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
-| 136 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
-| 136 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.27% |
-| 136 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
+| 136 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 137 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
+| 137 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.27% |
 | 139 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 140 | [Circus Electrique](games/c/circus_electrique.md) | 0.23% |
 | 141 | [Against the Storm](games/a/against_the_storm.md) | 0.22% |
@@ -310,6 +310,7 @@
 | 212 | [IXION](games/i/ixion.md) | 0.00% |
 | 212 | [JYDGE](games/j/jydge.md) | 0.00% |
 | 212 | [Kabaret](games/k/kabaret.md) | 0.00% |
+| 212 | [Last Labyrinth](games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 0.00% |
 | 212 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |
 | 212 | [Lichenvale](games/l/lichenvale.md) | 0.00% |
 | 212 | [Life After Death](games/l/life_after_death.md) | 0.00% |
