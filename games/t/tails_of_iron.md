@@ -6,22 +6,22 @@ Rating: 4.50 (Ranked 545)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 78.00% | ~1,264 |
-| Become King | 71.00% | ~1,150 |
-| Ranged Weapon | 60.00% | ~972 |
-| Defeat 25 Frogs | 60.00% | ~972 |
-| Collect Monster Parts | 56.00% | ~907 |
+| Become King | 71.00% | ~1,151 |
+| Ranged Weapon | 60.00% | ~973 |
+| Defeat 25 Frogs | 60.00% | ~973 |
+| Collect Monster Parts | 56.00% | ~908 |
 | Two Handed Weapon | 54.00% | ~875 |
-| Defeat 25 Grubs | 51.00% | ~826 |
+| Defeat 25 Grubs | 51.00% | ~827 |
 | Rescue Redgi's Brothers | 50.00% | ~810 |
-| Collect Iron Ore | 46.00% | ~745 |
+| Collect Iron Ore | 46.00% | ~746 |
 | Defeat 25 Mozis | 45.00% | ~729 |
 | Kitchen Ready To Cook | 45.00% | ~729 |
-| Collect Gold | 44.00% | ~713 |
-| Smithy Ready to Craft | 44.00% | ~713 |
-| Fix the Travellers Wagon | 42.00% | ~680 |
+| Collect Gold | 43.00% | ~697 |
+| Smithy Ready to Craft | 43.00% | ~697 |
+| Fix the Travellers Wagon | 42.00% | ~681 |
 | Complete Elder Faction | 39.00% | ~632 |
-| End of the Mozis | 36.00% | ~583 |
-| Throne Room Fit For A King | 36.00% | ~583 |
+| End of the Mozis | 36.00% | ~584 |
+| Throne Room Fit For A King | 36.00% | ~584 |
 | Meet the Creatures from the Deep | 34.00% | ~551 |
 | Return Power To The Depths | 34.00% | ~551 |
 | Defeat Ratnor Rodentson | 28.00% | ~454 |
@@ -30,13 +30,13 @@ Rating: 4.50 (Ranked 545)
 | Complete the Chefs Book | 23.00% | ~373 |
 | Complete Ranger Faction | 20.00% | ~324 |
 | Defeat Avor Warden of the Northern Wastes | 18.00% | ~292 |
-| Discover the mystery of the Kings Chambers | 17.00% | ~275 |
+| Discover the mystery of the Kings Chambers | 17.00% | ~276 |
 | Complete Arena Faction | 14.00% | ~227 |
 | Complete Redgi's Armory | 7.00% | ~113 |
 | King of Kings | 7.00% | ~113 |
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,620 (Ranked 157)  
+Progressed: 1,621 (Ranked 157)  
 Completed: 6 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 6 (0.37%) (Ranked 118)
 | 2023-06-05 | 1,602 | 6 |
 | 2023-06-06 | 1,613 | 6 |
 | 2023-06-07 | 1,618 | 6 |
-| 2023-06-08 | 1,620 | 6 |
+| 2023-06-08 | 1,621 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

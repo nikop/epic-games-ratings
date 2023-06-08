@@ -5,13 +5,13 @@ Rating: 4.56 (Ranked 454)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~468 |
-| Don't judge a manhole by its cover | 60.00% | ~374 |
+| Tell me your story | 75.00% | ~469 |
+| Don't judge a manhole by its cover | 60.00% | ~375 |
 | I just love stuff! | 40.00% | ~250 |
 | Keep 'em coming! | 40.00% | ~250 |
 | Big Spender | 37.00% | ~231 |
 | The things they print nowadays | 37.00% | ~231 |
-| That's gotta hurt | 35.00% | ~218 |
+| That's gotta hurt | 35.00% | ~219 |
 | I think it's broke | 25.00% | ~156 |
 | The Ann Flores Combo Experience | 25.00% | ~156 |
 | Club Star | 23.00% | ~144 |
@@ -20,7 +20,7 @@ Rating: 4.56 (Ranked 454)
 | Omnipotence | 19.00% | ~119 |
 | You are the One | 19.00% | ~119 |
 | Deadly Kombationem | 18.00% | ~112 |
-| The truth is out there | 14.00% | ~87 |
+| The truth is out there | 14.00% | ~88 |
 | Annakin Skyscroller | 13.00% | ~81 |
 | In the smacker...I think | 10.00% | ~62 |
 | Arm Wrestlin' | 9.00% | ~56 |
@@ -30,10 +30,10 @@ Rating: 4.56 (Ranked 454)
 | I'm walking here! | 7.00% | ~44 |
 | So Fresh and So clean clean | 7.00% | ~44 |
 | Supreme Bartender Ann | 7.00% | ~44 |
-| Clarity of Mind | 6.00% | ~37 |
-| I feel secure, contained & protected | 6.00% | ~37 |
-| Science, it works! | 6.00% | ~37 |
-| The Traveler | 6.00% | ~37 |
+| Clarity of Mind | 6.00% | ~38 |
+| I feel secure, contained & protected | 6.00% | ~38 |
+| Science, it works! | 6.00% | ~38 |
+| The Traveler | 6.00% | ~38 |
 | Woman on a (side) mission | 4.00% | ~25 |
 | Ann ULTRA | 3.00% | ~19 |
 | Lady Luck is a cool cat | 3.00% | ~19 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 454)
 | Love me like I love my posters | 0.80% | ~5 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 624 (Ranked 194)  
+Progressed: 625 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,6 +74,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 621 | 0 |
 | 2023-06-06 | 622 | 0 |
 | 2023-06-07 | 624 | 0 |
+| 2023-06-08 | 625 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

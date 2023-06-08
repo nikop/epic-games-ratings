@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1176,9 +1176,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22791,
+  "EOS_Progressed": 22792,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4871,6 +4871,11 @@
       "Time": "2023-06-08T17:06:22.2938392+00:00",
       "NumProgressed": 22791,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-08T18:06:44.3266314+00:00",
+      "NumProgressed": 22792,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -4882,7 +4887,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16637
+      "UsersEstimate": 16638
     },
     {
       "ID": "Animated",
@@ -4922,7 +4927,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9344
+      "UsersEstimate": 9345
     },
     {
       "ID": "Collect_Spores",
@@ -4930,7 +4935,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11851
+      "UsersEstimate": 11852
     },
     {
       "ID": "Collector",
@@ -4946,7 +4951,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 12079
+      "UsersEstimate": 12080
     },
     {
       "ID": "Daily_Dose",
@@ -4970,7 +4975,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 14130
+      "UsersEstimate": 14131
     },
     {
       "ID": "Dont_Need_These",
@@ -4994,7 +4999,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14586
+      "UsersEstimate": 14587
     },
     {
       "ID": "Escape_Artist",
@@ -5018,7 +5023,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12535
+      "UsersEstimate": 12536
     },
     {
       "ID": "GB_In_Training",
@@ -5026,7 +5031,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 7065
+      "UsersEstimate": 7066
     },
     {
       "ID": "Ghost_Expert",
@@ -5042,7 +5047,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6837
+      "UsersEstimate": 6838
     },
     {
       "ID": "Legions",
@@ -5106,7 +5111,7 @@
       "Name": "Reckless",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4102
+      "UsersEstimate": 4103
     },
     {
       "ID": "Rift_Destroyer",
@@ -5154,7 +5159,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6381
+      "UsersEstimate": 6382
     },
     {
       "ID": "Skilled",
@@ -5186,7 +5191,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19600
+      "UsersEstimate": 19601
     },
     {
       "ID": "Summoner",
@@ -5210,7 +5215,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 12763
+      "UsersEstimate": 12764
     },
     {
       "ID": "Teamwork",
@@ -5226,7 +5231,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4102
+      "UsersEstimate": 4103
     },
     {
       "ID": "Therapeutic",
@@ -5289,7 +5294,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22791,
+      "Progressed": 22792,
       "Completed": 40
     }
   ],
@@ -5297,8 +5302,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-08T03:59:46.8339786+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:06:22.2938389+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:06:44.3266305+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6996784+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:59:03.6804242+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:06:22.293906+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:59:15.5563255+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:06:44.3267502+00:00"
 }

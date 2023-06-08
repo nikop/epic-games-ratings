@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 7.08,
+  "EOS_Completed_Percentage": 7.06,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1126,6 +1126,11 @@
       "Time": "2023-06-08T15:04:12.3372353+00:00",
       "NumProgressed": 424,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-08T18:04:26.1259406+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 30,
@@ -1137,7 +1142,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "LEVEL_002",
@@ -1145,7 +1150,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "LEVEL_003",
@@ -1153,7 +1158,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "LEVEL_004",
@@ -1161,7 +1166,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "LEVEL_005",
@@ -1185,7 +1190,7 @@
       "Name": "Animals in the farm",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "LEVEL_008",
@@ -1199,9 +1204,9 @@
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 119
     },
     {
       "ID": "LEVEL_010",
@@ -1273,7 +1278,7 @@
       "Name": "Isle rock city",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "LEVEL_019",
@@ -1287,9 +1292,9 @@
       "ID": "LEVEL_020",
       "SetID": "212bg48",
       "Name": "Go round and round",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 110,
-      "UsersEstimate": 55
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_021",
@@ -1376,14 +1381,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:04:01.5780103+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:04:26.12594+00:00",
   "LastUpdate_AppInfo": "2023-06-05T14:57:13.8702155+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:57:08.6324541+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:04:01.5780447+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:57:23.330734+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:04:26.1259741+00:00"
 }

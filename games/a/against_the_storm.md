@@ -34,9 +34,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 1.00% | ~152 |
 | Like a Machine | 1.00% | ~152 |
 | Trade Baron | 1.00% | ~152 |
+| Serving Ale | 0.90% | ~137 |
 | Statue of the Forefathers | 0.90% | ~137 |
 | Forsaken Gods Temple | 0.90% | ~137 |
-| Serving Ale | 0.80% | ~122 |
 | Ruined Armory | 0.80% | ~122 |
 | Defying the Crown | 0.80% | ~122 |
 | Into the Forest | 0.80% | ~122 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,226 (Ranked 100)  
+Progressed: 15,226 (Ranked 101)  
 Completed: 34 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |

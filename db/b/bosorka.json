@@ -4,8 +4,8 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -207,9 +207,9 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 55,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "RUNE_BAT",
@@ -255,9 +255,9 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
@@ -279,9 +279,9 @@
       "ID": "RUNE_DROPFIRSTAIDKIT",
       "SetID": "9433p49",
       "Name": "Witch\u0027s duty",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 55,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "RUNE_DROPRESETSPELL",
@@ -319,9 +319,9 @@
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
@@ -336,8 +336,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:05:57.7433338+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:06:20.3450657+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:41.3790572+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:57:37.7600541+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:05:57.743348+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:57:52.1394782+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:06:20.3450808+00:00"
 }

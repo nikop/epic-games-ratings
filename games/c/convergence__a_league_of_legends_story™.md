@@ -7,6 +7,7 @@
 | The Steel Shadow | 4.00% | ~25 |
 | Treasure Trove | 4.00% | ~25 |
 | Cartographer | 4.00% | ~25 |
+| Chaincrawler Explorer | 3.00% | ~19 |
 | Like Clockwork | 3.00% | ~19 |
 | Street Style | 3.00% | ~19 |
 | Family Memories | 3.00% | ~19 |
@@ -22,7 +23,7 @@
 | Check Your Pulse | 3.00% | ~19 |
 | Immaculate Aim | 3.00% | ~19 |
 | The Family Fortune | 3.00% | ~19 |
-| Chaincrawler Explorer | 2.00% | ~13 |
+| Corin Goes Home | 2.00% | ~13 |
 | Sartorialist | 2.00% | ~13 |
 | Factorywood Explorer | 2.00% | ~13 |
 | Fairgrounds Explorer | 2.00% | ~13 |
@@ -40,7 +41,6 @@
 | Good Neighbor | 2.00% | ~13 |
 | The Brass Boss | 2.00% | ~13 |
 | Right On Time | 1.00% | ~6 |
-| Corin Goes Home | 1.00% | ~6 |
 | Cultivair Explorer | 1.00% | ~6 |
 | Entresol Explorer | 1.00% | ~6 |
 | Honest Mistake | 1.00% | ~6 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 630 (Ranked 192)  
+Progressed: 631 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,4 +79,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 608 | 0 |
 | 2023-06-06 | 615 | 0 |
 | 2023-06-07 | 624 | 0 |
-| 2023-06-08 | 630 | 0 |
+| 2023-06-08 | 631 | 0 |

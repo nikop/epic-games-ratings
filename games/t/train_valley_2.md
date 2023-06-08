@@ -6,17 +6,17 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 8.00% | ~58 |
+| Dealmaker | 9.00% | ~66 |
 | Full garage | 8.00% | ~58 |
+| Individual delivery | 7.00% | ~51 |
 | To the eyeballs! | 7.00% | ~51 |
-| Individual delivery | 6.00% | ~44 |
 | Juggler | 6.00% | ~44 |
+| Close call! | 5.00% | ~36 |
 | Common cause | 5.00% | ~36 |
 | Forgot something | 5.00% | ~36 |
 | Mega-railroad | 5.00% | ~36 |
 | Non-Stop | 5.00% | ~36 |
 | Builder | 4.00% | ~29 |
-| Close call! | 4.00% | ~29 |
 | Get out my way | 4.00% | ~29 |
 | Just in time! | 4.00% | ~29 |
 | Need to think | 4.00% | ~29 |
@@ -65,7 +65,7 @@ Number of Ratings: 87  (23.09.2022)
 | Railroad tycoon | 0.70% | ~5 |
 | Vostok | 0.70% | ~0 |
 | Will work | 0.70% | ~5 |
-| Astrochemist | 0.60% | ~0 |
+| Astrochemist | 0.50% | ~0 |
 | BBQ | 0.40% | ~3 |
 | Space Age | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727 (Ranked 187)  
+Progressed: 728 (Ranked 187)  
 Completed: 1 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 1 (0.14%) (Ranked 156)
 | 2023-06-03 | 725 | 1 |
 | 2023-06-05 | 726 | 1 |
 | 2023-06-06 | 727 | 1 |
+| 2023-06-08 | 728 | 1 |
 ## Awards
 Max (Challenging Puzzles): 71  (Ranked 365)  
 Sum: 71 (Ranked 421)  

@@ -15,8 +15,8 @@
 | Mug | 28.00% | ~29 |
 | Robot Bros | 26.00% | ~27 |
 | Act 2 | 25.00% | ~26 |
+| Harpoon | 23.00% | ~23 |
 | Cassette | 22.00% | ~22 |
-| Harpoon | 22.00% | ~22 |
 | Act 3 | 22.00% | ~22 |
 | Here we go again | 21.00% | ~21 |
 | Flyer | 18.00% | ~18 |
@@ -25,7 +25,7 @@
 | Access protocol | 15.00% | ~15 |
 | Time Capsule | 14.00% | ~14 |
 | Photo | 14.00% | ~14 |
-| Ticket | 13.00% | ~13 |
+| Ticket | 14.00% | ~14 |
 | Baseball | 11.00% | ~11 |
 | Contract | 10.00% | ~10 |
 | VHS blogger | 10.00% | ~10 |

@@ -10,7 +10,7 @@ Rating: 3.80 (Ranked 926)
 | Moonbury Traveller | 63.00% | ~864 |
 | Rookie Chemist | 62.00% | ~850 |
 | Great Doctor | 50.00% | ~686 |
-| Dog Whisperer | 47.00% | ~644 |
+| Dog Whisperer | 48.00% | ~658 |
 | Friendly | 46.00% | ~631 |
 | The Capitalist | 42.00% | ~576 |
 | K.O.! | 41.00% | ~562 |
@@ -25,11 +25,11 @@ Rating: 3.80 (Ranked 926)
 | Spark of Love | 15.00% | ~206 |
 | Expert Chemist | 12.00% | ~165 |
 | Stone Specialist | 12.00% | ~165 |
+| Line Cook | 11.00% | ~151 |
 | Sociable | 11.00% | ~151 |
 | Ablutomaniac | 11.00% | ~151 |
 | Production Sorter | 11.00% | ~151 |
 | Good Samaritan | 10.00% | ~137 |
-| Line Cook | 10.00% | ~137 |
 | Acrobatic Adventurer | 8.00% | ~110 |
 | Animal Exterminator | 7.00% | ~96 |
 | Adolescent Love | 6.00% | ~82 |

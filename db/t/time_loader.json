@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -149,9 +149,9 @@
       "ID": "09_Ticket",
       "SetID": "681m9fa",
       "Name": "Ticket",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "10_Flyer",
@@ -229,9 +229,9 @@
       "ID": "19_Harpoon",
       "SetID": "681m9fa",
       "Name": "Harpoon",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "20_AccessProtocol",
@@ -326,8 +326,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:06:04.0137215+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:06:26.7648807+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:04.4122882+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:58:00.4004506+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:06:04.0137435+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:58:13.8037899+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:06:26.764907+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~4,997 |
-| The Journey Begins | 98.00% | ~4,997 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,977 |
-| There is No Escape | 71.00% | ~3,620 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,161 |
-| Royal Flush | 62.00% | ~3,161 |
-| Timber! | 60.00% | ~3,059 |
-| Survive the Bombsequences | 59.00% | ~3,008 |
-| Killed 20 Jerks | 53.00% | ~2,702 |
-| Death Defied | 53.00% | ~2,702 |
+| Quinceañera Time | 98.00% | ~4,998 |
+| The Journey Begins | 98.00% | ~4,998 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,978 |
+| There is No Escape | 71.00% | ~3,621 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,162 |
+| Royal Flush | 62.00% | ~3,162 |
+| Timber! | 60.00% | ~3,060 |
+| Survive the Bombsequences | 59.00% | ~3,009 |
+| Killed 20 Jerks | 53.00% | ~2,703 |
+| Death Defied | 53.00% | ~2,703 |
 | Fortunate Soul | 49.00% | ~2,499 |
 | Jerk-Slayer | 43.00% | ~2,193 |
 | Employee of the Month | 37.00% | ~1,887 |
@@ -54,9 +54,9 @@ Number of Ratings: 63  (23.09.2022)
 | OK Boomer | 0.80% | ~41 |
 | Backdraft | 0.60% | ~31 |
 | The Midas Touch | 0.60% | ~31 |
-| Completionist | 0.50% | ~25 |
+| Completionist | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,099 (Ranked 127)  
+Progressed: 5,100 (Ranked 127)  
 Completed: 26 (0.51%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 26 (0.51%) (Ranked 111)
 | 2023-06-04 | 5,096 | 26 |
 | 2023-06-05 | 5,097 | 26 |
 | 2023-06-06 | 5,098 | 26 |
-| 2023-06-08 | 5,099 | 26 |
+| 2023-06-08 | 5,100 | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

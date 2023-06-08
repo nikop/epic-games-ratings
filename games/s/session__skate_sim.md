@@ -6,16 +6,16 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 54.00% | ~1,251 |
-| Keeping it classy | 24.00% | ~556 |
-| Welcome to the family | 18.00% | ~417 |
+| You're free now! | 54.00% | ~1,253 |
+| Keeping it classy | 24.00% | ~557 |
+| Welcome to the family | 18.00% | ~418 |
 | The finer things in life | 16.00% | ~371 |
 | Backpacker | 11.00% | ~255 |
 | Go with the Flow | 11.00% | ~255 |
-| Plastic Surgeon | 9.00% | ~208 |
-| Keep the dream alive | 8.00% | ~185 |
-| The flip trick crown jewel | 8.00% | ~185 |
-| The hard way | 8.00% | ~185 |
+| Plastic Surgeon | 9.00% | ~209 |
+| Keep the dream alive | 8.00% | ~186 |
+| The flip trick crown jewel | 8.00% | ~186 |
+| The hard way | 8.00% | ~186 |
 | Good vibes | 7.00% | ~162 |
 | Upfront shredder | 7.00% | ~162 |
 | Finally he zips it | 6.00% | ~139 |
@@ -38,11 +38,11 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 4.00% | ~93 |
 | Renaissance man | 4.00% | ~93 |
 | Tank commander | 4.00% | ~93 |
-| Cops called! | 3.00% | ~69 |
-| G.O.A.T. status | 3.00% | ~69 |
-| Hoarder | 3.00% | ~69 |
-| Trick shot marksman | 3.00% | ~69 |
-| We get it, you're good | 3.00% | ~69 |
+| Cops called! | 3.00% | ~70 |
+| G.O.A.T. status | 3.00% | ~70 |
+| Hoarder | 3.00% | ~70 |
+| Trick shot marksman | 3.00% | ~70 |
+| We get it, you're good | 3.00% | ~70 |
 | Cross lock country | 2.00% | ~46 |
 | Many plys later... | 2.00% | ~46 |
 | Pew-Pew | 2.00% | ~46 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,316 (Ranked 149)  
+Progressed: 2,321 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 2,265 | 0 |
 | 2023-06-06 | 2,287 | 0 |
 | 2023-06-07 | 2,306 | 0 |
-| 2023-06-08 | 2,316 | 0 |
+| 2023-06-08 | 2,321 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 398)  
 Sum: 420 (Ranked 301)  

@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 213,
+  "EOS_Progressed": 214,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -776,6 +776,11 @@
       "Time": "2023-06-07T07:05:05.3793381+00:00",
       "NumProgressed": 213,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T18:05:03.2204486+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -873,9 +878,9 @@
       "ID": "achIce",
       "SetID": "1al1mjg",
       "Name": "Recluse \u2714",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "achMeat",
@@ -905,9 +910,9 @@
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 128
     },
     {
       "ID": "achVirus",
@@ -923,21 +928,21 @@
       "Name": "Witch \u2714",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 213,
+      "Progressed": 214,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:04:40.2572667+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:05:03.2204479+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:10.50477+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:57:13.7732184+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:04:40.2572871+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:57:28.3513367+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:05:03.2204662+00:00"
 }

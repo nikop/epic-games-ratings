@@ -38,7 +38,7 @@ Rating: 4.55 (Ranked 476)
 | The Eternal Court | 9.00% | ~398 |
 | Jack of All Tomes | 9.00% | ~398 |
 | Pruning for Progress | 9.00% | ~398 |
-| I've Got Everything I Need Right Here | 6.00% | ~265 |
+| I've Got Everything I Need Right Here | 7.00% | ~310 |
 | Betrayal Most Foul | 5.00% | ~221 |
 | Grexolis | 4.00% | ~177 |
 | One for All, All for One | 4.00% | ~177 |
@@ -46,7 +46,7 @@ Rating: 4.55 (Ranked 476)
 | I Want to Break Free | 2.00% | ~88 |
 | Manufactured War | 1.00% | ~44 |
 | I'll Fight You All | 0.90% | ~40 |
-| The Grey Wizard | 0.40% | ~18 |
+| The Grey Wizard | 0.50% | ~22 |
 | Returning Circle | 0.30% | ~13 |
 | Master of Evilness | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)

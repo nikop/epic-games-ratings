@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1620,
+  "EOS_Progressed": 1621,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1337,6 +1337,11 @@
       "Time": "2023-06-08T16:03:22.2093109+00:00",
       "NumProgressed": 1620,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-08T18:03:19.7715748+00:00",
+      "NumProgressed": 1621,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -1348,15 +1353,15 @@
       "Name": "Become King",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "Collect20Gold",
       "SetID": "9lj35g4",
       "Name": "Collect Gold",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 697
     },
     {
       "ID": "Collect20Iron",
@@ -1364,7 +1369,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "Collect50MonsterParts",
@@ -1372,7 +1377,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "CollectAllStatues",
@@ -1460,7 +1465,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1484,7 +1489,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "GetRangedWeapon",
@@ -1492,7 +1497,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "GetTHWeapon",
@@ -1508,7 +1513,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "Kill25Frogs",
@@ -1516,7 +1521,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "Kill25Mozi",
@@ -1540,7 +1545,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "RepairChef",
@@ -1554,9 +1559,9 @@
       "ID": "RepairSmith",
       "SetID": "9lj35g4",
       "Name": "Smithy Ready to Craft",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 697
     },
     {
       "ID": "RepairThroneRoom",
@@ -1564,7 +1569,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "RescueBrothers",
@@ -1587,22 +1592,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1620,
+      "Progressed": 1621,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 261,
-      "Completed": 261
+      "Progressed": 262,
+      "Completed": 262
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-08T02:19:19.7115512+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:02:22.3082574+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:03:19.7715742+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:58:27.6906469+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:02:22.3082864+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:58:40.5682658+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:03:19.7716024+00:00"
 }

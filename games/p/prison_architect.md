@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~34,467 |
-| Get Busy Living | 17.00% | ~22,536 |
-| Samuel Norton | 10.00% | ~13,257 |
-| Spare The Rod | 5.00% | ~6,628 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,303 |
-| Don't Put Me In The Dark | 3.00% | ~3,977 |
-| Wait and Hope | 3.00% | ~3,977 |
-| Iron Bars | 3.00% | ~3,977 |
-| Throw The Book At Them | 2.00% | ~2,651 |
+| Stone Walls | 26.00% | ~34,475 |
+| Get Busy Living | 17.00% | ~22,541 |
+| Samuel Norton | 10.00% | ~13,260 |
+| Spare The Rod | 5.00% | ~6,630 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,304 |
+| Don't Put Me In The Dark | 3.00% | ~3,978 |
+| Wait and Hope | 3.00% | ~3,978 |
+| Iron Bars | 3.00% | ~3,978 |
+| Throw The Book At Them | 2.00% | ~2,652 |
 | D.B. Cooper | 1.00% | ~1,326 |
-| Reformation | 0.60% | ~795 |
+| Reformation | 0.60% | ~796 |
 | Crowd Control | 0.50% | ~663 |
 | Freedom | 0.40% | ~530 |
 | Confined | 0.40% | ~530 |
 | It's Not What You Know... | 0.10% | ~133 |
 | ... It's What You Can Prove | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,567 (Ranked 56)  
+Progressed: 132,596 (Ranked 56)  
 Completed: 5 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,17 +72,17 @@ Completed: 5 (0.00%) (Ranked 212)
 | 2023-06-05 | 131,279 | 5 |
 | 2023-06-06 | 131,728 | 5 |
 | 2023-06-07 | 132,205 | 5 |
-| 2023-06-08 | 132,567 | 5 |
+| 2023-06-08 | 132,596 | 5 |
 ## Awards
 Max (Extremely Fun): 434  (Ranked 195)  
-Sum: 3,400 (Ranked 144)  
+Sum: 3,401 (Ranked 144)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 434 |
 | This game is Great for Beginners | 421 |
 | This game is Highly Recommended | 418 |
-| This game has Quickly Understood Controls | 401 |
+| This game has Quickly Understood Controls | 402 |
 | This game is Relaxing | 380 |
 | This game has Diverse Characters | 373 |
 | This game has Amazing Storytelling | 362 |
@@ -232,4 +232,4 @@ Diff (max vs sum): 51
 | 2023-06-05 | 4.61 | - | 433 | 3,387 |
 | 2023-06-06 | 4.61 | - | 433 | 3,392 |
 | 2023-06-07 | 4.61 | - | 434 | 3,399 |
-| 2023-06-08 | 4.61 | - | 434 | 3,400 |
+| 2023-06-08 | 4.61 | - | 434 | 3,401 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -312,7 +312,7 @@
   ],
   "EOS_Progressed": 1371,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -1120,9 +1120,9 @@
       "ID": "ACHIEVEMENTS_13",
       "SetID": "d4o538a",
       "Name": "Line Cook",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -1160,9 +1160,9 @@
       "ID": "ACHIEVEMENTS_18",
       "SetID": "d4o538a",
       "Name": "Dog Whisperer",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 644
+      "UsersEstimate": 658
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -1337,8 +1337,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-31T00:00:26.9693772+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:06:23.0719036+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:06:44.9750677+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.0833594+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:00:37.9376437+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:06:23.0719381+00:00"
+  "LastUpdate_Ratings": "2023-06-08T18:00:46.2936868+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:06:44.9751003+00:00"
 }

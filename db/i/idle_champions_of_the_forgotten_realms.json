@@ -4156,10 +4156,10 @@
       "Count": 3247
     }
   ],
-  "EOS_Progressed": 90133,
-  "EOS_Completed": 1923,
-  "EOS_NewPlayers": 720,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 90138,
+  "EOS_Completed": 1924,
+  "EOS_NewPlayers": 718,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -9156,6 +9156,11 @@
       "Time": "2023-06-08T17:06:33.9371104+00:00",
       "NumProgressed": 90133,
       "NumCompleted": 1923
+    },
+    {
+      "Time": "2023-06-08T18:06:56.0629023+00:00",
+      "NumProgressed": 90138,
+      "NumCompleted": 1924
     }
   ],
   "TotalAchievements": 493,
@@ -11397,9 +11402,9 @@
       "ID": "objective_completed_551",
       "SetID": "cc37lbc",
       "Name": "Dreams of Beholders",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_552",
@@ -13110,21 +13115,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56407,
-      "Completed": 2776
+      "Progressed": 56412,
+      "Completed": 2777
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90133,
-      "Completed": 1923
+      "Progressed": 90138,
+      "Completed": 1924
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-07T22:58:10.9450923+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:06:33.9371099+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:06:56.0629017+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:58:08.6797431+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:06:33.9399492+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:58:22.1278772+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:06:56.0652745+00:00"
 }

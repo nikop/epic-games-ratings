@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 599,
+  "EOS_Progressed": 600,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
@@ -1373,6 +1373,11 @@
       "Time": "2023-06-08T16:06:37.5909817+00:00",
       "NumProgressed": 599,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T18:06:21.3603696+00:00",
+      "NumProgressed": 600,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1390,9 +1395,9 @@
       "ID": "BUSINESS_OWNER",
       "SetID": "64e5lgf",
       "Name": "BUSINESS OWNER",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 594
     },
     {
       "ID": "CHIEF",
@@ -1408,7 +1413,7 @@
       "Name": "CLEANER",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "DEBTOR",
@@ -1424,7 +1429,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "FIRST_100K",
@@ -1448,7 +1453,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "INTRODUCTION",
@@ -1495,7 +1500,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 599,
+      "Progressed": 600,
       "Completed": 0
     }
   ],
@@ -1503,8 +1508,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:05:58.6464281+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:06:21.3603691+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.052301+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:59:33.9513222+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:05:58.6464485+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:59:44.5667624+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:06:21.3603888+00:00"
 }

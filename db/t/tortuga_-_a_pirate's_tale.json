@@ -5,10 +5,10 @@
   "Ranking_Rating": 924,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 493,
-  "Ranking_EOS_Progress": 99,
+  "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -194,7 +194,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15581,
+  "EOS_Progressed": 15582,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -1894,6 +1894,11 @@
       "Time": "2023-06-08T17:06:20.9206037+00:00",
       "NumProgressed": 15581,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T18:06:42.8785405+00:00",
+      "NumProgressed": 15582,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1905,7 +1910,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14802
+      "UsersEstimate": 14803
     },
     {
       "ID": "ACH001",
@@ -1913,7 +1918,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13555
+      "UsersEstimate": 13556
     },
     {
       "ID": "ACH0010",
@@ -1937,7 +1942,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 7323
+      "UsersEstimate": 7324
     },
     {
       "ID": "ACH0013",
@@ -1983,9 +1988,9 @@
       "ID": "ACH0018",
       "SetID": "6749a6l",
       "Name": "Curse of the Seven Seas",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 3428
+      "UsersEstimate": 3272
     },
     {
       "ID": "ACH0019",
@@ -2001,7 +2006,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11218
+      "UsersEstimate": 11219
     },
     {
       "ID": "ACH0020",
@@ -2033,7 +2038,7 @@
       "Name": "I\u0027m Somewhat of a Colonial Force Myself",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "ACH0024",
@@ -2065,7 +2070,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13711
+      "UsersEstimate": 13712
     },
     {
       "ID": "ACH005",
@@ -2081,7 +2086,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6388
+      "UsersEstimate": 6389
     },
     {
       "ID": "ACH007",
@@ -2112,7 +2117,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15581,
+      "Progressed": 15582,
       "Completed": 0
     }
   ],
@@ -2120,8 +2125,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-01T22:00:58.8734008+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:06:20.9206031+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:06:42.8785399+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.5075108+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:00:26.6795245+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:06:20.9206317+00:00"
+  "LastUpdate_Ratings": "2023-06-08T18:00:35.7816735+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:06:42.8785782+00:00"
 }

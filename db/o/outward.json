@@ -3,12 +3,12 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 476,
-  "Ranking_Popularity": 444,
+  "Ranking_Popularity": 445,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,7 +484,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2833,
+  "EOS_Progressed": 2834,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -2294,6 +2294,11 @@
       "Time": "2023-06-08T16:03:39.8717193+00:00",
       "NumProgressed": 2833,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-08T18:03:35.5364082+00:00",
+      "NumProgressed": 2834,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2345,7 +2350,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "CrowdPleaser",
@@ -2369,7 +2374,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2457,7 +2462,7 @@
       "Name": "Master of Aurai",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MemoryOfALegend_51",
@@ -2489,7 +2494,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2625,7 +2630,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2640,15 +2645,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2833,
+      "Progressed": 2834,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:03:08.8757796+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:03:35.5364076+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:57:51.0835041+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:03:08.8758256+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:58:04.6846581+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:03:35.5364499+00:00"
 }

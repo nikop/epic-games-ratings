@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -474,7 +474,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1244,
+  "EOS_Progressed": 1245,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -1704,6 +1704,11 @@
       "Time": "2023-06-08T17:06:28.6978751+00:00",
       "NumProgressed": 1244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T18:06:50.4603019+00:00",
+      "NumProgressed": 1245,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -1755,7 +1760,7 @@
       "Name": "Transport millionaire",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "achAircraftEarnings",
@@ -1811,7 +1816,7 @@
       "Name": "First bus stop",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "achBuildTrainStation",
@@ -1819,7 +1824,7 @@
       "Name": "First train station",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "achCannotGetEnough",
@@ -1835,7 +1840,7 @@
       "Name": "City",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "achCollectAllMedals",
@@ -1883,7 +1888,7 @@
       "Name": "First line",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "achCrowdInATrain",
@@ -1899,7 +1904,7 @@
       "Name": "Not in my backyard",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "achEpec",
@@ -1931,7 +1936,7 @@
       "Name": "First cargo item on board",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -1939,7 +1944,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -1963,7 +1968,7 @@
       "Name": "First passenger on board",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -1971,7 +1976,7 @@
       "Name": "First passenger waiting",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "achFirstShipArrived",
@@ -1979,7 +1984,7 @@
       "Name": "First ship arrived",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -1987,7 +1992,7 @@
       "Name": "First steam train arrived",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "achGlacierExpress",
@@ -2011,7 +2016,7 @@
       "Name": "Settled down",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "achHq20",
@@ -2123,7 +2128,7 @@
       "Name": "The king of the sea",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "achSmellOfSuccess",
@@ -2202,15 +2207,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1244,
+      "Progressed": 1245,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-08T16:00:13.2391099+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:06:28.6978745+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:06:50.4603013+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:02.3781621+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:59:48.4413967+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:06:28.6979402+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:59:58.4667773+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:06:50.4603664+00:00"
 }

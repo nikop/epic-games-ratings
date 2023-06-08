@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 630,
+  "EOS_Progressed": 631,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1074,6 +1074,11 @@
       "Time": "2023-06-08T16:06:04.0546481+00:00",
       "NumProgressed": 630,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T18:05:49.5813838+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -1099,9 +1104,9 @@
       "ID": "ChaincrawlerChests1",
       "SetID": "a9e499d",
       "Name": "Chaincrawler Explorer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "ChestCompletion1",
@@ -1123,9 +1128,9 @@
       "ID": "ClockworkCompletion1",
       "SetID": "a9e499d",
       "Name": "Corin Goes Home",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "ClockworkProgress1",
@@ -1508,14 +1513,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 630,
+      "Progressed": 631,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:05:27.058163+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:05:49.5813831+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:59:33.7876697+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:05:27.0582135+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:59:44.408686+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:05:49.58147+00:00"
 }

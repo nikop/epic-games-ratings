@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1294,6 +1294,11 @@
       "Time": "2023-06-08T17:03:11.0292058+00:00",
       "NumProgressed": 316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-08T18:03:37.6054138+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1473,7 +1478,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "OpenRestaurant",
@@ -1561,7 +1566,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "TrattoriaSet",
@@ -1601,7 +1606,7 @@
       "Name": "Leaning Tower of Pizza",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "WholeBeefDishesMenu",
@@ -1624,7 +1629,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 0
     }
   ],
@@ -1632,8 +1637,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:03:11.0292053+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:03:37.6054132+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:38.5369331+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:58:30.6451079+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:03:11.0292387+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:58:43.5303098+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:03:37.6055217+00:00"
 }

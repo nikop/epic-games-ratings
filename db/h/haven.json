@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1235,
+  "EOS_Progressed": 1236,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -763,6 +763,11 @@
       "Time": "2023-06-08T17:06:16.4040491+00:00",
       "NumProgressed": 1235,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-08T18:06:38.4643381+00:00",
+      "NumProgressed": 1236,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -788,9 +793,9 @@
       "ID": "11",
       "SetID": "n50no0",
       "Name": "Strike!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 235
     },
     {
       "ID": "12",
@@ -982,15 +987,15 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "7",
       "SetID": "n50no0",
       "Name": "Ain\u0027t no mountain high enough",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 99
     },
     {
       "ID": "8",
@@ -998,7 +1003,7 @@
       "Name": "Over my dead body",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "9",
@@ -1013,15 +1018,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1235,
+      "Progressed": 1236,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:06:16.4040486+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:06:38.4643375+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.0417129+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:59:41.5211556+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:06:16.4040765+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:59:51.763169+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:06:38.4643635+00:00"
 }

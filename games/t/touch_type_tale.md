@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 90.00% | ~2,647 |
-| Flanked! | 80.00% | ~2,353 |
-| Economics 101 | 65.00% | ~1,912 |
-| Get Rich Quick | 48.00% | ~1,412 |
-| Do the Splits | 41.00% | ~1,206 |
-| Maestro | 28.00% | ~823 |
-| Full Employment | 20.00% | ~588 |
+| You and what Army? | 90.00% | ~2,649 |
+| Flanked! | 80.00% | ~2,354 |
+| Economics 101 | 65.00% | ~1,913 |
+| Get Rich Quick | 48.00% | ~1,413 |
+| Do the Splits | 41.00% | ~1,207 |
+| Maestro | 28.00% | ~824 |
+| Full Employment | 20.00% | ~589 |
 | Clay Fighter | 17.00% | ~500 |
 | Nowhere left to Hide | 15.00% | ~441 |
 | Boulder Clash | 14.00% | ~412 |
-| All Ovens Blazing | 13.00% | ~382 |
-| Held Back by the Roots | 13.00% | ~382 |
+| All Ovens Blazing | 13.00% | ~383 |
+| Held Back by the Roots | 13.00% | ~383 |
 | Well Supplied | 11.00% | ~324 |
 | Damage Control | 8.00% | ~235 |
 | Master of the Brawl | 8.00% | ~235 |
 | Sniped | 7.00% | ~206 |
 | Leave Them no Cake | 7.00% | ~206 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~206 |
-| A Secret Recipe | 6.00% | ~176 |
+| A Secret Recipe | 6.00% | ~177 |
 | Your Biggest Fans | 5.00% | ~147 |
 | An Ally in Need | 5.00% | ~147 |
 | For the Queen | 5.00% | ~147 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~29 |
 | All Geared Up | 0.90% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,941 (Ranked 139)  
+Progressed: 2,943 (Ranked 139)  
 Completed: 9 (0.31%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 9 (0.31%) (Ranked 130)
 | 2023-06-05 | 2,921 | 9 |
 | 2023-06-06 | 2,926 | 9 |
 | 2023-06-07 | 2,935 | 9 |
-| 2023-06-08 | 2,941 | 9 |
+| 2023-06-08 | 2,943 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

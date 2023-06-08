@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2410,
+  "EOS_Progressed": 2411,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2884,6 +2884,11 @@
       "Time": "2023-06-08T17:06:12.6367014+00:00",
       "NumProgressed": 2410,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-08T18:06:34.9011535+00:00",
+      "NumProgressed": 2411,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2895,7 +2900,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -2919,7 +2924,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -2943,7 +2948,7 @@
       "Name": "Fields of Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -3013,9 +3018,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 193
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3023,7 +3028,7 @@
       "Name": "Skirmisher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -3063,7 +3068,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3103,7 +3108,7 @@
       "Name": "Lord of War",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3117,9 +3122,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 313
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3133,9 +3138,9 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 241
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3229,9 +3234,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 338
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3271,7 +3276,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -3462,13 +3467,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2361,
+      "Progressed": 2362,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2410,
+      "Progressed": 2411,
       "Completed": 2
     }
   ],
@@ -3476,8 +3481,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-08T13:05:05.4339298+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:06:12.636701+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:06:34.9011528+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:00:44.4457833+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:06:12.6367881+00:00"
+  "LastUpdate_Ratings": "2023-06-08T18:00:53.2225503+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:06:34.9012192+00:00"
 }

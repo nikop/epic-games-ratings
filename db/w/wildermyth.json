@@ -145,7 +145,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1245,
+  "EOS_Progressed": 1246,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
@@ -780,6 +780,11 @@
       "Time": "2023-06-07T20:07:06.353693+00:00",
       "NumProgressed": 1245,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-08T18:06:28.8898809+00:00",
+      "NumProgressed": 1246,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -855,7 +860,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -879,7 +884,7 @@
       "Name": "Completing the Look",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -935,7 +940,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -967,7 +972,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_mythwalker",
@@ -983,7 +988,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1031,7 +1036,7 @@
       "Name": "War Endured",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "completedStory_legacy",
@@ -1063,7 +1068,7 @@
       "Name": "Daybreak",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1238,15 +1243,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1245,
+      "Progressed": 1246,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:06:06.3307976+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:06:28.8898802+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:06.7864894+00:00",
-  "LastUpdate_Ratings": "2023-06-08T17:00:49.0867873+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:06:06.3308521+00:00"
+  "LastUpdate_Ratings": "2023-06-08T18:00:57.7403857+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:06:28.889925+00:00"
 }

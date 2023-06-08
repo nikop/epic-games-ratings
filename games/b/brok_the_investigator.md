@@ -7,22 +7,22 @@
 | Introduction completed | 75.00% | ~9 |
 | Chapter 1 | 42.00% | ~5 |
 | Chapter 2 | 42.00% | ~5 |
-| Chapter 3 | 33.00% | ~4 |
+| Chapter 3 | 42.00% | ~5 |
 | Chapter 4 | 33.00% | ~4 |
 | Chapter 5 | 33.00% | ~4 |
 | Your Days Are Numbered | 33.00% | ~4 |
 | All Materials | 33.00% | ~4 |
 | It's In My Nature | 33.00% | ~4 |
+| Highway Survival | 25.00% | ~3 |
 | Best Student | 17.00% | ~2 |
 | Chapter 6 | 17.00% | ~2 |
-| Highway Survival | 17.00% | ~2 |
 | Ads Fan | 8.00% | ~1 |
+| Chipmunk | 8.00% | ~1 |
 | Food Thief | 8.00% | ~1 |
 | Tramp Saver | 8.00% | ~1 |
 | Hard To Wake Up | 8.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |
-| Chipmunk | 0.00% | ~0 |
 | Secret Locker | 0.00% | ~0 |
 | Main Endings | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
     "PcReleaseDate": "2022-08-26T19:00:00+00:00",
@@ -125,9 +125,9 @@
       "ID": "CHAPTER3",
       "SetID": "bb2dp",
       "Name": "Chapter 3",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CHAPTER4",
@@ -157,9 +157,9 @@
       "ID": "CHIPMUNK",
       "SetID": "bb2dp",
       "Name": "Chipmunk",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FOODTHIEF",
@@ -181,9 +181,9 @@
       "ID": "HIGHWAYSURVIVE",
       "SetID": "bb2dp",
       "Name": "Highway Survival",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "INTRO",
@@ -318,8 +318,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-06-08T17:06:09.5130713+00:00",
+  "LastChanged_Achievements": "2023-06-08T18:06:31.8564417+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.0650729+00:00",
-  "LastUpdate_Ratings": "2023-06-08T16:59:08.1840272+00:00",
-  "LastUpdate_Achievements": "2023-06-08T17:06:09.5130931+00:00"
+  "LastUpdate_Ratings": "2023-06-08T17:59:19.8779451+00:00",
+  "LastUpdate_Achievements": "2023-06-08T18:06:31.8564608+00:00"
 }
