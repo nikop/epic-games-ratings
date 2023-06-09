@@ -1186,9 +1186,9 @@
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 270
     },
     {
       "ID": "Scout",
@@ -1242,8 +1242,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-09T11:07:36.1511345+00:00",
+  "LastChanged_Achievements": "2023-06-09T12:07:46.0689011+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.3182792+00:00",
-  "LastUpdate_Ratings": "2023-06-09T11:00:29.4279922+00:00",
-  "LastUpdate_Achievements": "2023-06-09T11:07:36.1511615+00:00"
+  "LastUpdate_Ratings": "2023-06-09T12:00:24.7904959+00:00",
+  "LastUpdate_Achievements": "2023-06-09T12:07:46.0689325+00:00"
 }

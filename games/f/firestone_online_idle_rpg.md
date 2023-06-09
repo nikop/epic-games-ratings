@@ -36,9 +36,9 @@ Rating: 4.05 (Ranked 889)
 | Hunter | 7.00% | ~94 |
 | Mastery | 7.00% | ~94 |
 | Relic Of The Past | 7.00% | ~94 |
+| Four Leaf Clover | 6.00% | ~81 |
 | Frostfire Liberator | 6.00% | ~81 |
 | Moving Up The Ladder | 6.00% | ~81 |
-| Four Leaf Clover | 5.00% | ~67 |
 | Here We Go Again | 5.00% | ~67 |
 | How Do You Turn This On? | 5.00% | ~67 |
 | The Expeditioner | 5.00% | ~67 |

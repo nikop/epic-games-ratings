@@ -5,25 +5,25 @@ Rating: 4.18 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~1,925 |
-| The Outer Way | 12.00% | ~1,777 |
-| Desperate Times | 11.00% | ~1,629 |
+| Flesh Wound | 13.00% | ~1,926 |
+| The Outer Way | 12.00% | ~1,778 |
+| Desperate Times | 11.00% | ~1,630 |
 | Paper Jams | 9.00% | ~1,333 |
 | Chew 'Em Up | 8.00% | ~1,185 |
 | Reforged | 8.00% | ~1,185 |
 | Workplace Hazard | 7.00% | ~1,037 |
 | If the SHU Fits... | 7.00% | ~1,037 |
-| Giving Back | 6.00% | ~888 |
-| Get a Grip | 6.00% | ~888 |
-| Without A Paddle | 6.00% | ~888 |
-| Terminated | 5.00% | ~740 |
-| In the Pipe, Five by Five | 5.00% | ~740 |
-| Crash Site | 5.00% | ~740 |
-| Two Heads Are Better Than One | 4.00% | ~592 |
-| Float Like A Butterfly | 4.00% | ~592 |
-| Power Up | 4.00% | ~592 |
-| Instigator | 4.00% | ~109 |
-| Big Game Hunter | 4.00% | ~109 |
+| Giving Back | 6.00% | ~889 |
+| Get a Grip | 6.00% | ~889 |
+| Without A Paddle | 6.00% | ~889 |
+| Terminated | 5.00% | ~741 |
+| In the Pipe, Five by Five | 5.00% | ~741 |
+| Crash Site | 5.00% | ~741 |
+| Two Heads Are Better Than One | 4.00% | ~593 |
+| Float Like A Butterfly | 4.00% | ~593 |
+| Power Up | 4.00% | ~593 |
+| Instigator | 4.00% | ~110 |
+| Big Game Hunter | 4.00% | ~110 |
 | You Need a Gun | 3.00% | ~444 |
 | The Commonality | 3.00% | ~444 |
 | What Lies Beneath | 3.00% | ~444 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,808 (Ranked 104)  
+Progressed: 14,815 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 54 (0.36%) (Ranked 121)
 | 2023-06-06 | 14,637 | 54 |
 | 2023-06-07 | 14,702 | 54 |
 | 2023-06-08 | 14,777 | 54 |
-| 2023-06-09 | 14,808 | 54 |
+| 2023-06-09 | 14,815 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
 Sum: 297 (Ranked 328)  

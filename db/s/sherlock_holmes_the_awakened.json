@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 36,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1201,9 +1201,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 247
+      "UsersEstimate": 251
     },
     {
       "ID": "MQ02_1",
@@ -1241,9 +1241,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 198
     },
     {
       "ID": "MQ03_2",
@@ -1426,8 +1426,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-09T11:05:02.6178589+00:00",
+  "LastChanged_Achievements": "2023-06-09T12:05:13.2380749+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:19.1924362+00:00",
-  "LastUpdate_Ratings": "2023-06-09T10:57:53.3412815+00:00",
-  "LastUpdate_Achievements": "2023-06-09T11:05:02.6179343+00:00"
+  "LastUpdate_Ratings": "2023-06-09T11:57:52.0592672+00:00",
+  "LastUpdate_Achievements": "2023-06-09T12:05:13.2381101+00:00"
 }

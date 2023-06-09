@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2923,
+  "EOS_Progressed": 2925,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3466,6 +3466,11 @@
       "Time": "2023-06-09T11:07:06.8257107+00:00",
       "NumProgressed": 2923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T12:07:17.2493003+00:00",
+      "NumProgressed": 2925,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -3477,7 +3482,7 @@
       "Name": "First Step",
       "Percentage": 43,
       "XP": 45,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "10",
@@ -3533,7 +3538,7 @@
       "Name": "Dense Forest",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "3",
@@ -3549,7 +3554,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "5",
@@ -3573,7 +3578,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "8",
@@ -3596,7 +3601,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 2923,
+      "Progressed": 2925,
       "Completed": 0
     }
   ],
@@ -3604,8 +3609,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-09T11:07:06.8257103+00:00",
+  "LastChanged_Achievements": "2023-06-09T12:07:17.2492995+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.5603944+00:00",
-  "LastUpdate_Ratings": "2023-06-09T10:58:54.9428829+00:00",
-  "LastUpdate_Achievements": "2023-06-09T11:07:06.8257607+00:00"
+  "LastUpdate_Ratings": "2023-06-09T11:58:53.3112732+00:00",
+  "LastUpdate_Achievements": "2023-06-09T12:07:17.249336+00:00"
 }

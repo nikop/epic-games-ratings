@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1065,
+  "EOS_Progressed": 1066,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1481,6 +1481,11 @@
       "Time": "2023-06-09T06:03:56.4731693+00:00",
       "NumProgressed": 1065,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T12:04:12.9271309+00:00",
+      "NumProgressed": 1066,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1498,9 +1503,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 245
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -1508,7 +1513,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1540,7 +1545,7 @@
       "Name": "Chain Killer",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1596,7 +1601,7 @@
       "Name": "Ganglord",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "DEAD_DICK",
@@ -1612,7 +1617,7 @@
       "Name": "Jarhead",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -1628,7 +1633,7 @@
       "Name": "Dr Jones",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -1676,7 +1681,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1700,7 +1705,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "GIANT_KILLER",
@@ -1740,7 +1745,7 @@
       "Name": "I am the law!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "INFILTRATOR",
@@ -1796,7 +1801,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "RECYCLER",
@@ -1828,7 +1833,7 @@
       "Name": "Sensei",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1868,7 +1873,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -1884,7 +1889,7 @@
       "Name": "The Watchers",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "WIPE_OUT",
@@ -1899,7 +1904,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1065,
+      "Progressed": 1066,
       "Completed": 0
     }
   ],
@@ -1907,8 +1912,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-08T20:58:17.2515155+00:00",
-  "LastChanged_Achievements": "2023-06-09T11:04:01.5785783+00:00",
+  "LastChanged_Achievements": "2023-06-09T12:04:12.9271303+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-09T10:59:13.9091437+00:00",
-  "LastUpdate_Achievements": "2023-06-09T11:04:01.5786479+00:00"
+  "LastUpdate_Ratings": "2023-06-09T11:59:11.2478294+00:00",
+  "LastUpdate_Achievements": "2023-06-09T12:04:12.9271837+00:00"
 }

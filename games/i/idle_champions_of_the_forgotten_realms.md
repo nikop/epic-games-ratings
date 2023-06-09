@@ -186,6 +186,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hopelessly Lost | 0.20% | ~180 |
 | Cramped Quarters | 0.20% | ~180 |
 | Enter the Sargauth | 0.20% | ~180 |
+| Elder Rune Madness | 0.20% | ~180 |
 | Who Lurks in Lurkwood | 0.20% | ~180 |
 | Orcs Are Wild | 0.20% | ~180 |
 | The Dead Three | 0.20% | ~180 |
@@ -217,10 +218,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Once More Into The Breach | 0.20% | ~180 |
 | An Illithid Undertaking | 0.20% | ~113 |
 | Déjà Vu | 0.20% | ~113 |
+| Wait, What? | 0.20% | ~113 |
 | Déjà Vu All Over Again | 0.20% | ~113 |
 | Into The Fire | 0.20% | ~113 |
 | Dreamscape | 0.20% | ~113 |
 | Dream Gauntlet | 0.20% | ~113 |
+| Zombie Dreams | 0.20% | ~113 |
 | Look Out! | 0.20% | ~113 |
 | The Path of Dreams | 0.20% | ~113 |
 | The Path of Redcaps | 0.20% | ~113 |
@@ -366,7 +369,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Exploits | 0.10% | ~90 |
 | Flame(skull) War | 0.10% | ~90 |
 | Servants of the Demon Prince | 0.10% | ~56 |
-| Elder Rune Madness | 0.10% | ~90 |
 | The Madness Grows | 0.10% | ~90 |
 | The Madness Peaks | 0.10% | ~56 |
 | Bullywugs in the Bog | 0.10% | ~90 |
@@ -417,11 +419,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Illithid Ambush | 0.10% | ~56 |
 | Misty Undermountain | 0.10% | ~56 |
 | An Owlbear of an Undertaking | 0.10% | ~56 |
-| Wait, What? | 0.10% | ~56 |
 | Ireena von Zarovich | 0.10% | ~56 |
 | A Difficult Descent | 0.10% | ~56 |
 | The Devil Arrives | 0.10% | ~56 |
-| Zombie Dreams | 0.10% | ~56 |
 | The Path of Trials | 0.10% | ~56 |
 | Zapper Overload | 0.10% | ~56 |
 | Best Friend Search Squad! | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,212 (Ranked 64)  
+Progressed: 90,214 (Ranked 64)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,10 +550,10 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
-| 2023-06-09 | 90,212 | 1,924 |
+| 2023-06-09 | 90,214 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
-Sum: 30,056 (Ranked 37)  
+Sum: 30,057 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -563,7 +563,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,509 |
 | This game is Highly Recommended | 3,955 |
 | This game has Amazing Characters | 3,950 |
-| This game has Playful Visuals | 3,247 |
+| This game has Playful Visuals | 3,248 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -701,4 +701,4 @@ Diff (max vs sum): 27
 | 2023-06-06 | 4.06 | - | 4,920 | 30,044 |
 | 2023-06-07 | 4.06 | - | 4,920 | 30,049 |
 | 2023-06-08 | 4.06 | - | 4,922 | 30,051 |
-| 2023-06-09 | 4.06 | - | 4,922 | 30,056 |
+| 2023-06-09 | 4.06 | - | 4,922 | 30,057 |

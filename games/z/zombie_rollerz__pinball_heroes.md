@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 87.00% | ~82 |
-| Bullseye! | 82.00% | ~77 |
-| Graduation! | 80.00% | ~75 |
+| Level Up! | 86.00% | ~82 |
+| Bullseye! | 81.00% | ~77 |
+| Graduation! | 79.00% | ~75 |
 | Villfir Forest | 74.00% | ~70 |
-| Right in the kisser! | 62.00% | ~58 |
+| Right in the kisser! | 61.00% | ~58 |
 | Duscot Steamcity | 51.00% | ~48 |
-| The Shaman | 50.00% | ~47 |
-| The Penguin | 47.00% | ~44 |
-| The Magician | 46.00% | ~43 |
-| The Thrower | 45.00% | ~42 |
+| The Shaman | 49.00% | ~47 |
+| The Penguin | 46.00% | ~44 |
+| The Magician | 45.00% | ~43 |
+| The Thrower | 44.00% | ~42 |
 | The Tunneler | 39.00% | ~37 |
 | Level Up!! | 38.00% | ~36 |
 | The Shield | 37.00% | ~35 |
 | Kill-streak | 36.00% | ~34 |
 | The Bird | 31.00% | ~29 |
-| The Idol | 28.00% | ~26 |
-| Inferno Ruins | 28.00% | ~26 |
-| Topped up | 27.00% | ~25 |
-| The Ninja | 27.00% | ~25 |
+| The Idol | 27.00% | ~26 |
+| Inferno Ruins | 27.00% | ~26 |
+| Topped up | 26.00% | ~25 |
+| The Ninja | 26.00% | ~25 |
 | I'm Rich | 24.00% | ~23 |
 | Untouchable | 23.00% | ~22 |
 | The Slime | 21.00% | ~20 |
@@ -38,9 +38,9 @@
 | The Steampunk | 12.00% | ~11 |
 | Verse | 12.00% | ~11 |
 | The Droid | 11.00% | ~10 |
-| Iron | 10.00% | ~9 |
-| Tested | 10.00% | ~9 |
-| The Bomber | 9.00% | ~8 |
+| Iron | 9.00% | ~9 |
+| Tested | 9.00% | ~9 |
+| The Bomber | 8.00% | ~8 |
 | The Astronaut | 5.00% | ~5 |
 | The Exorcist | 4.00% | ~4 |
 | Analyzed | 4.00% | ~4 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 277)  
+Progressed: 95 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-05 | 90 | 0 |
 | 2023-06-06 | 91 | 0 |
 | 2023-06-08 | 93 | 0 |
-| 2023-06-09 | 94 | 0 |
+| 2023-06-09 | 95 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

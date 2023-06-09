@@ -252,9 +252,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 188420,
+  "EOS_Progressed": 188426,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1027,
+  "EOS_NewPlayers": 1025,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5392,6 +5392,11 @@
       "Time": "2023-06-09T11:07:19.7447689+00:00",
       "NumProgressed": 188420,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-09T12:07:29.8348526+00:00",
+      "NumProgressed": 188426,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -5411,7 +5416,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 133778
+      "UsersEstimate": 133782
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -5435,7 +5440,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33916
+      "UsersEstimate": 33917
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -5507,7 +5512,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3768
+      "UsersEstimate": 3769
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -5530,7 +5535,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 188420,
+      "Progressed": 188426,
       "Completed": 4
     }
   ],
@@ -5538,8 +5543,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-06-05T05:00:10.9262642+00:00",
-  "LastChanged_Achievements": "2023-06-09T11:07:19.7447682+00:00",
+  "LastChanged_Achievements": "2023-06-09T12:07:29.8348519+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:07.1582654+00:00",
-  "LastUpdate_Ratings": "2023-06-09T11:01:05.2849986+00:00",
-  "LastUpdate_Achievements": "2023-06-09T11:07:19.7448243+00:00"
+  "LastUpdate_Ratings": "2023-06-09T12:00:58.6954184+00:00",
+  "LastUpdate_Achievements": "2023-06-09T12:07:29.8349091+00:00"
 }

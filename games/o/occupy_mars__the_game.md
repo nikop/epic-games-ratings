@@ -5,18 +5,18 @@ Rating: 3.88 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~478 |
-| Electrician | 34.00% | ~396 |
-| Fear my botany powers, Mars | 32.00% | ~373 |
-| Zero Waste | 29.00% | ~338 |
-| Bob The Builder | 29.00% | ~338 |
-| I am the greatest botanist on this planet. | 28.00% | ~326 |
+| I don't feel so good | 41.00% | ~479 |
+| Electrician | 34.00% | ~397 |
+| Fear my botany powers, Mars | 32.00% | ~374 |
+| Zero Waste | 29.00% | ~339 |
+| Bob The Builder | 29.00% | ~339 |
+| I am the greatest botanist on this planet. | 28.00% | ~327 |
 | Gardener | 24.00% | ~280 |
 | Miner | 24.00% | ~280 |
 | Occupy Mars! | 21.00% | ~245 |
-| Houston we have a problem | 20.00% | ~233 |
+| Houston we have a problem | 20.00% | ~234 |
 | Detective | 18.00% | ~210 |
-| The Collector | 14.00% | ~163 |
+| The Collector | 14.00% | ~164 |
 | Get your hands dirty | 9.00% | ~105 |
 | All Wheel Trouble | 6.00% | ~70 |
 | Space Forest | 6.00% | ~70 |
@@ -27,15 +27,15 @@ Rating: 3.88 (Ranked 919)
 | Driver's License | 1.00% | ~12 |
 | Hard Landing | 1.00% | ~12 |
 | To infinity and beyond! | 1.00% | ~12 |
-| Explosive Miner | 0.90% | ~10 |
+| Explosive Miner | 0.90% | ~11 |
 | Rocket Jump | 0.70% | ~8 |
 | Thunderstruck | 0.70% | ~8 |
 | 5G Network | 0.50% | ~6 |
 | Caveman | 0.50% | ~6 |
 | Bull’s eye | 0.40% | ~5 |
 | Rover Mechanic | 0.40% | ~5 |
-| Planetary Defence | 0.30% | ~3 |
-| Korolev crater | 0.30% | ~3 |
+| Planetary Defence | 0.30% | ~4 |
+| Korolev crater | 0.30% | ~4 |
 | Hot Repairs | 0.20% | ~2 |
 | One does not simply... | 0.20% | ~2 |
 | Cooking Vegetables | 0.10% | ~1 |
@@ -54,7 +54,7 @@ Rating: 3.88 (Ranked 919)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,166 (Ranked 167)  
+Progressed: 1,168 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 1,142 | 0 |
 | 2023-06-07 | 1,144 | 0 |
 | 2023-06-08 | 1,162 | 0 |
-| 2023-06-09 | 1,166 | 0 |
+| 2023-06-09 | 1,168 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

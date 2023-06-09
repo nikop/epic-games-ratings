@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1577,
+  "EOS_Progressed": 1578,
   "EOS_Completed": 127,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 8.05,
   "EosHistory": [
@@ -2378,6 +2378,11 @@
       "Time": "2023-06-09T11:07:21.5761549+00:00",
       "NumProgressed": 1577,
       "NumCompleted": 127
+    },
+    {
+      "Time": "2023-06-09T12:07:31.359273+00:00",
+      "NumProgressed": 1578,
+      "NumCompleted": 127
     }
   ],
   "TotalAchievements": 12,
@@ -2387,9 +2392,9 @@
       "ID": "Arranging Boxes",
       "SetID": "b40dflc",
       "Name": "Arranging Boxes",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 221
+      "UsersEstimate": 205
     },
     {
       "ID": "Bernard",
@@ -2477,14 +2482,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1577,
+      "Progressed": 1578,
       "Completed": 127
     }
   ],
@@ -2492,8 +2497,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-09T11:07:21.5761543+00:00",
+  "LastChanged_Achievements": "2023-06-09T12:07:31.3592721+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.6122754+00:00",
-  "LastUpdate_Ratings": "2023-06-09T11:00:55.1144357+00:00",
-  "LastUpdate_Achievements": "2023-06-09T11:07:21.5761803+00:00"
+  "LastUpdate_Ratings": "2023-06-09T12:00:49.0373519+00:00",
+  "LastUpdate_Achievements": "2023-06-09T12:07:31.3593002+00:00"
 }

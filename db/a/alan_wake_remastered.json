@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 53109,
+  "EOS_Progressed": 53110,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 1852,
+  "EOS_NewPlayers": 1844,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4266,6 +4266,11 @@
       "Time": "2023-06-09T11:07:31.6483831+00:00",
       "NumProgressed": 53109,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-06-09T12:07:41.4788959+00:00",
+      "NumProgressed": 53110,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 67,
@@ -4397,7 +4402,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "17",
@@ -4405,7 +4410,7 @@
       "Name": "Departure",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "18",
@@ -4812,21 +4817,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 53109,
+      "Progressed": 53110,
       "Completed": 50
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 16577,
+      "Progressed": 16578,
       "Completed": 32
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-06-09T11:07:31.6483824+00:00",
+  "LastChanged_Achievements": "2023-06-09T12:07:41.4788953+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:48.7333402+00:00",
-  "LastUpdate_Ratings": "2023-06-09T10:58:25.0675188+00:00",
-  "LastUpdate_Achievements": "2023-06-09T11:07:31.6484929+00:00"
+  "LastUpdate_Ratings": "2023-06-09T11:58:22.9571615+00:00",
+  "LastUpdate_Achievements": "2023-06-09T12:07:41.4789884+00:00"
 }

@@ -27,11 +27,11 @@ Number of Ratings: 125  (23.09.2022)
 | For Balance | 15.00% | ~243 |
 | Here Comes Santa Claus | 15.00% | ~243 |
 | Dog Days | 13.00% | ~210 |
+| Workers' Rights | 13.00% | ~210 |
 | Elusive Prey | 12.00% | ~194 |
 | Out on the Ebb Tide | 12.00% | ~194 |
 | Power Behind the Pulpit | 12.00% | ~194 |
 | Turning the Tables | 12.00% | ~194 |
-| Workers' Rights | 12.00% | ~194 |
 | Something Wicked This Way Comes… | 11.00% | ~178 |
 | There is Hope | 11.00% | ~178 |
 | Loyalty to the Pack | 9.00% | ~146 |

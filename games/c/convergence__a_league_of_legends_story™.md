@@ -9,7 +9,11 @@
 | The Man Who Shattered Time | 4.00% | ~25 |
 | Make Up For Lost Time | 4.00% | ~25 |
 | Cartographer | 4.00% | ~25 |
+| Time Flies | 4.00% | ~25 |
+| No, Thanks! | 4.00% | ~25 |
+| Breaking Down Barriers | 4.00% | ~25 |
 | The Wicked Twins | 4.00% | ~25 |
+| The Prince in Heels | 4.00% | ~25 |
 | Time Heals All Wounds | 4.00% | ~25 |
 | Immaculate Aim | 4.00% | ~25 |
 | Chaincrawler Explorer | 3.00% | ~19 |
@@ -21,11 +25,8 @@
 | Whiz Kid | 3.00% | ~19 |
 | Rail Rat | 3.00% | ~19 |
 | The Loose Cannon | 3.00% | ~19 |
-| Time Flies | 3.00% | ~19 |
 | The Harder They Fall | 3.00% | ~19 |
-| No, Thanks! | 3.00% | ~19 |
-| Breaking Down Barriers | 3.00% | ~19 |
-| The Prince in Heels | 3.00% | ~19 |
+| Honest Mistake | 3.00% | ~19 |
 | Golem Chaser | 3.00% | ~19 |
 | Fast Learner | 3.00% | ~19 |
 | Sump Explorer | 3.00% | ~19 |
@@ -38,7 +39,6 @@
 | Entresol Explorer | 2.00% | ~13 |
 | Factorywood Explorer | 2.00% | ~13 |
 | Fairgrounds Explorer | 2.00% | ~13 |
-| Honest Mistake | 2.00% | ~13 |
 | Syron for Hope | 2.00% | ~13 |
 | Theater Explorer | 2.00% | ~13 |
 | Immaculate Aim | 2.00% | ~13 |

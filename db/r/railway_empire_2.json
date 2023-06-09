@@ -1874,9 +1874,9 @@
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 285
     },
     {
       "ID": "A49",
@@ -1937,8 +1937,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-09T11:07:43.2609019+00:00",
+  "LastChanged_Achievements": "2023-06-09T12:07:53.0188245+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-09T10:58:55.1404834+00:00",
-  "LastUpdate_Achievements": "2023-06-09T11:07:43.2610561+00:00"
+  "LastUpdate_Ratings": "2023-06-09T11:58:53.5014387+00:00",
+  "LastUpdate_Achievements": "2023-06-09T12:07:53.0188841+00:00"
 }

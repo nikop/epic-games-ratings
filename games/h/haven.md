@@ -15,7 +15,7 @@ Number of Ratings: 38  (23.09.2022)
 | Strike! | 20.00% | ~248 |
 | My little pony | 20.00% | ~248 |
 | A love supreme | 19.00% | ~235 |
-| In my shoes | 17.00% | ~210 |
+| In my shoes | 18.00% | ~223 |
 | Like new! | 15.00% | ~186 |
 | Heartstrings | 14.00% | ~173 |
 | Head in the clouds | 14.00% | ~173 |

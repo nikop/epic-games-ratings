@@ -5,24 +5,24 @@ Rating: 4.50 (Ranked 546)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~684 |
-| Confirming Suspicions | 23.00% | ~562 |
-| The Kraken Wakes | 19.00% | ~464 |
-| It's Starting to Crack | 16.00% | ~391 |
+| Meeting Resistance | 28.00% | ~685 |
+| Confirming Suspicions | 23.00% | ~563 |
+| The Kraken Wakes | 19.00% | ~465 |
+| It's Starting to Crack | 17.00% | ~416 |
 | Lord of War | 14.00% | ~342 |
 | Change the Channel | 14.00% | ~342 |
 | Resourceful | 13.00% | ~318 |
-| Taking it back | 12.00% | ~293 |
-| Organ Grinder | 10.00% | ~244 |
-| As Quiet as a Mouse | 10.00% | ~244 |
-| Target America | 10.00% | ~244 |
+| Taking it back | 12.00% | ~294 |
+| Organ Grinder | 10.00% | ~245 |
+| As Quiet as a Mouse | 10.00% | ~245 |
+| Target America | 10.00% | ~245 |
 | The Kraken Sleeps | 9.00% | ~220 |
-| Liberté | 8.00% | ~195 |
-| Enemy at the Gates | 8.00% | ~195 |
-| Just a Flesh Wound | 8.00% | ~195 |
-| Gunslinger | 8.00% | ~195 |
-| Sharpshooter | 8.00% | ~195 |
-| Explosive Efficiency | 8.00% | ~195 |
+| Liberté | 8.00% | ~196 |
+| Enemy at the Gates | 8.00% | ~196 |
+| Just a Flesh Wound | 8.00% | ~196 |
+| Gunslinger | 8.00% | ~196 |
+| Sharpshooter | 8.00% | ~196 |
+| Explosive Efficiency | 8.00% | ~196 |
 | Opposing Force | 6.00% | ~147 |
 | Die Nussknacker Sweet! | 6.00% | ~147 |
 | Der Geist | 6.00% | ~147 |
@@ -52,9 +52,9 @@ Rating: 4.50 (Ranked 546)
 | Last Resort | 0.70% | ~17 |
 | From Paris with Love | 0.60% | ~15 |
 | Souvenir hunter | 0.60% | ~15 |
-| Eagle Eyed | 0.50% | ~12 |
-| Up close and personal | 0.50% | ~12 |
 | Shoot for the Moon | 0.50% | ~12 |
+| Eagle Eyed | 0.40% | ~10 |
+| Up close and personal | 0.40% | ~10 |
 | If You Go Down To The Woods Today | 0.40% | ~10 |
 | Fight Another Day | 0.40% | ~10 |
 | Can't Outrun A Bullet | 0.30% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 546)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,443 (Ranked 147)  
+Progressed: 2,446 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
-| 2023-06-09 | 2,443 | 2 |
+| 2023-06-09 | 2,446 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
