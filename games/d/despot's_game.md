@@ -5,11 +5,11 @@ Rating: 4.50 (Ranked 546)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 83.00% | ~328 |
+| Good start! | 84.00% | ~332 |
 | Vanquisher of Robots | 74.00% | ~292 |
 | Party | 46.00% | ~182 |
+| Impossible Cube | 44.00% | ~174 |
 | Knowledge is Power | 44.00% | ~174 |
-| Impossible Cube | 43.00% | ~170 |
 | No Mercy | 42.00% | ~166 |
 | Through the Darkness | 41.00% | ~162 |
 | The Return of a Rat | 40.00% | ~158 |

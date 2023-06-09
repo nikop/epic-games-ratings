@@ -616,7 +616,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6125,
+  "EOS_Progressed": 6126,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
@@ -2376,6 +2376,11 @@
       "Time": "2023-06-09T03:19:12.3240448+00:00",
       "NumProgressed": 6125,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-09T11:03:29.5531533+00:00",
+      "NumProgressed": 6126,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2443,7 +2448,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -2491,7 +2496,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -2523,7 +2528,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -2611,7 +2616,7 @@
       "Name": "\u0022Sacro Egoismo\u0022",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ISONZO_ACH_SEEING_RED",
@@ -2651,7 +2656,7 @@
       "Name": "Saboteur",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ISONZO_ACH_THE_DEVILS_PAINTBRUSH",
@@ -2683,7 +2688,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -2739,14 +2744,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6125,
+      "Progressed": 6126,
       "Completed": 8
     }
   ],
@@ -2754,8 +2759,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-08T10:58:11.1993757+00:00",
-  "LastChanged_Achievements": "2023-06-09T10:03:08.0449077+00:00",
+  "LastChanged_Achievements": "2023-06-09T11:03:29.5531528+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:28.4757017+00:00",
-  "LastUpdate_Ratings": "2023-06-09T09:57:39.6931981+00:00",
-  "LastUpdate_Achievements": "2023-06-09T10:03:08.0449564+00:00"
+  "LastUpdate_Ratings": "2023-06-09T10:58:03.8430692+00:00",
+  "LastUpdate_Achievements": "2023-06-09T11:03:29.5532049+00:00"
 }

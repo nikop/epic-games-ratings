@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.30% | ~271 |
 | March of the Undead | 0.30% | ~271 |
 | No Time To Rest | 0.30% | ~271 |
+| Invisible Shadows | 0.30% | ~271 |
 | The Dinner Party | 0.30% | ~271 |
 | The Botched Kidnapping | 0.30% | ~271 |
 | Trollskull Manor | 0.30% | ~271 |
@@ -155,7 +156,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.20% | ~180 |
 | Azaka's Procession - Part 2 | 0.20% | ~180 |
 | The Mists of Ravenloft | 0.20% | ~180 |
-| Invisible Shadows | 0.20% | ~180 |
 | Werewolves in the Mist | 0.20% | ~180 |
 | Family Entanglements | 0.20% | ~180 |
 | Chatty Nobles | 0.20% | ~180 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,211 (Ranked 64)  
+Progressed: 90,212 (Ranked 64)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,7 +550,7 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
-| 2023-06-09 | 90,211 | 1,924 |
+| 2023-06-09 | 90,212 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
 Sum: 30,056 (Ranked 37)  

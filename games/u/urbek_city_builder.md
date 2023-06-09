@@ -22,11 +22,11 @@
 | Metropolurbek | 6.00% | ~14 |
 | Food producer | 5.00% | ~12 |
 | Sport is the best thing | 4.00% | ~9 |
+| Banking city | 3.00% | ~7 |
 | Read! Everyone should read! | 3.00% | ~7 |
 | I am very happy! | 3.00% | ~7 |
 | Little Mayor | 3.00% | ~7 |
 | Temperate builder | 3.00% | ~7 |
-| Banking city | 2.00% | ~5 |
 | Food provider master | 2.00% | ~5 |
 | Oh, I love parks, listening to birds! | 2.00% | ~5 |
 | Rebel city | 2.00% | ~5 |

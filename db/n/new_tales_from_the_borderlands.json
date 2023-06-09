@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,7 +168,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3420,
+  "EOS_Progressed": 3421,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
@@ -478,6 +478,11 @@
       "Time": "2023-06-06T17:06:15.4077352+00:00",
       "NumProgressed": 3420,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T11:07:30.3229175+00:00",
+      "NumProgressed": 3421,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -529,7 +534,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -569,7 +574,7 @@
       "Name": "...To Heroes",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -593,7 +598,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -601,7 +606,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -689,14 +694,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3420,
+      "Progressed": 3421,
       "Completed": 0
     }
   ],
@@ -704,8 +709,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-09T10:06:23.0801958+00:00",
+  "LastChanged_Achievements": "2023-06-09T11:07:30.322917+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:51.2283126+00:00",
-  "LastUpdate_Ratings": "2023-06-09T09:59:56.7237468+00:00",
-  "LastUpdate_Achievements": "2023-06-09T10:06:23.0802179+00:00"
+  "LastUpdate_Ratings": "2023-06-09T11:00:48.1475806+00:00",
+  "LastUpdate_Achievements": "2023-06-09T11:07:30.3229547+00:00"
 }

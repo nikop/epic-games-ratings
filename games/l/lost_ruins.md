@@ -13,7 +13,7 @@
 | Artifact Collector | 20.00% | ~72 |
 | Ghost Buster | 16.00% | ~58 |
 | Reincarnation | 16.00% | ~58 |
-| Iconoclasm | 13.00% | ~47 |
+| Iconoclasm | 14.00% | ~50 |
 | Librarian | 13.00% | ~47 |
 | Lumberjack | 13.00% | ~47 |
 | The End | 13.00% | ~47 |

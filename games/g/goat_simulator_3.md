@@ -1,51 +1,51 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.85 (Ranked 38)  
+Rating: 4.85 (Ranked 39)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~205,147 |
-| Private Club | 74.00% | ~166,823 |
-| Rogue Guild | 65.00% | ~146,533 |
-| I Watched the Intro | 57.00% | ~128,499 |
-| Covert Consortium | 55.00% | ~123,990 |
-| Goat Queen | 53.00% | ~119,481 |
-| Reach the Stratosphere | 49.00% | ~110,464 |
-| Synchronization Complete | 47.00% | ~105,955 |
-| Secret Society | 45.00% | ~101,446 |
-| Shadow Syndicate | 37.00% | ~83,411 |
-| What a Waste of Money | 33.00% | ~74,394 |
-| New Goat Order | 30.00% | ~67,631 |
-| Don't touch the servers | 28.00% | ~63,122 |
-| San Angora: Become Human | 26.00% | ~58,613 |
-| Raider of the Lost Parking Garage | 26.00% | ~58,613 |
-| Real Buoy | 26.00% | ~58,613 |
-| Welcome to Earth | 25.00% | ~56,359 |
-| Into the Matrix | 18.00% | ~40,578 |
-| Where is It? | 17.00% | ~38,324 |
-| Egg Simulator | 15.00% | ~33,815 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~33,815 |
-| Black Market | 14.00% | ~31,561 |
-| 401(K.O.) | 14.00% | ~31,561 |
-| Car Cave | 12.00% | ~27,052 |
-| Club Mohair | 8.00% | ~18,035 |
-| A Center for Ants? | 8.00% | ~18,035 |
-| French Fika | 7.00% | ~15,781 |
-| Who Baywatches the Baywatch? | 4.00% | ~9,017 |
-| Nasty! | 4.00% | ~9,017 |
-| [REDACTED] | 4.00% | ~9,017 |
+| Forgotten Sorority | 91.00% | ~205,166 |
+| Private Club | 74.00% | ~166,838 |
+| Rogue Guild | 65.00% | ~146,547 |
+| I Watched the Intro | 57.00% | ~128,510 |
+| Covert Consortium | 55.00% | ~124,001 |
+| Goat Queen | 53.00% | ~119,492 |
+| Reach the Stratosphere | 49.00% | ~110,474 |
+| Synchronization Complete | 47.00% | ~105,965 |
+| Secret Society | 45.00% | ~101,456 |
+| Shadow Syndicate | 37.00% | ~83,419 |
+| What a Waste of Money | 33.00% | ~74,401 |
+| New Goat Order | 30.00% | ~67,637 |
+| Don't touch the servers | 28.00% | ~63,128 |
+| San Angora: Become Human | 26.00% | ~58,619 |
+| Raider of the Lost Parking Garage | 26.00% | ~58,619 |
+| Real Buoy | 26.00% | ~58,619 |
+| Welcome to Earth | 25.00% | ~56,364 |
+| Into the Matrix | 18.00% | ~40,582 |
+| Where is It? | 17.00% | ~38,328 |
+| Egg Simulator | 15.00% | ~33,819 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~33,819 |
+| Black Market | 14.00% | ~31,564 |
+| 401(K.O.) | 14.00% | ~31,564 |
+| Car Cave | 12.00% | ~27,055 |
+| Club Mohair | 8.00% | ~18,037 |
+| A Center for Ants? | 8.00% | ~18,037 |
+| French Fika | 7.00% | ~15,782 |
+| Who Baywatches the Baywatch? | 4.00% | ~9,018 |
+| Nasty! | 4.00% | ~9,018 |
+| [REDACTED] | 4.00% | ~9,018 |
 | Cannibanana | 2.00% | ~4,509 |
 | Daredevil | 2.00% | ~4,509 |
-| You Trusted Your Instincts | 1.00% | ~2,254 |
-| Certified Fresh | 1.00% | ~2,254 |
-| Streaking | 1.00% | ~2,254 |
-| Try Hard 2 | 1.00% | ~2,254 |
+| You Trusted Your Instincts | 1.00% | ~2,255 |
+| Certified Fresh | 1.00% | ~2,255 |
+| Streaking | 1.00% | ~2,255 |
+| Try Hard 2 | 1.00% | ~2,255 |
 | Crocsquatch | 0.90% | ~2,029 |
 | Move! That! Bus! | 0.60% | ~1,353 |
 | G.O.A.T | 0.30% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,436 (Ranked 46)  
+Progressed: 225,457 (Ranked 46)  
 Completed: 726 (0.32%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,10 +95,10 @@ Completed: 726 (0.32%) (Ranked 125)
 | 2023-06-06 | 224,732 | 722 |
 | 2023-06-07 | 225,046 | 725 |
 | 2023-06-08 | 225,338 | 725 |
-| 2023-06-09 | 225,436 | 726 |
+| 2023-06-09 | 225,457 | 726 |
 ## Awards
 Max (Great for Beginners): 332  (Ranked 217)  
-Sum: 2,804 (Ranked 160)  
+Sum: 2,805 (Ranked 160)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -111,7 +111,7 @@ Diff (max vs sum): 57
 | This game has Amazing Storytelling | 270 |
 | This game has Quickly Understood Controls | 267 |
 | This game has a Silly Community | 247 |
-| This game has Easy Combat | 236 |
+| This game has Easy Combat | 237 |
 | This game is Educational | 158 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -195,4 +195,4 @@ Diff (max vs sum): 57
 | 2023-06-06 | 4.85 | 331 | 2,788 |
 | 2023-06-07 | 4.85 | 331 | 2,794 |
 | 2023-06-08 | 4.85 | 332 | 2,799 |
-| 2023-06-09 | 4.85 | 332 | 2,804 |
+| 2023-06-09 | 4.85 | 332 | 2,805 |

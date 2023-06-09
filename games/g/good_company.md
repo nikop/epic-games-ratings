@@ -6,24 +6,24 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,474 |
+| Level: Returning Home | 50.00% | ~2,476 |
 | Returning Home: Quick Learner | 26.00% | ~1,287 |
 | Level: Charlie's Circuits | 22.00% | ~1,089 |
-| Level: Rising Markets | 9.00% | ~445 |
+| Level: Rising Markets | 9.00% | ~446 |
 | Peddler | 8.00% | ~396 |
-| Level: Extra Life | 7.00% | ~346 |
-| Rising Markets: Avoiding the Reds | 7.00% | ~346 |
-| Data Churn Type I | 7.00% | ~346 |
+| Level: Extra Life | 7.00% | ~347 |
+| Rising Markets: Avoiding the Reds | 7.00% | ~347 |
+| Data Churn Type I | 7.00% | ~347 |
 | Millionaire | 6.00% | ~297 |
-| Data Churn Type II | 5.00% | ~247 |
-| Speedy | 5.00% | ~247 |
+| Data Churn Type II | 5.00% | ~248 |
+| Speedy | 5.00% | ~248 |
 | Extra Life: Wish Granted | 4.00% | ~198 |
 | High Five! | 4.00% | ~198 |
 | Modular Progress | 4.00% | ~198 |
 | Salesperson | 4.00% | ~198 |
-| Campaign: Lesson Learned | 3.00% | ~148 |
-| Level: Bet On Bots | 3.00% | ~148 |
-| Modular Performance | 3.00% | ~148 |
+| Campaign: Lesson Learned | 3.00% | ~149 |
+| Level: Bet On Bots | 3.00% | ~149 |
+| Modular Performance | 3.00% | ~149 |
 | Level: Merry-Go-Around | 2.00% | ~99 |
 | Charlies's Circuits: Artist | 2.00% | ~99 |
 | Modular Peak | 2.00% | ~99 |
@@ -35,13 +35,13 @@ Number of Ratings: 75  (23.09.2022)
 | Module Maniac | 2.00% | ~99 |
 | Overproducer | 2.00% | ~99 |
 | Natural Talent | 2.00% | ~99 |
-| Level: A Happy Taskforce | 1.00% | ~49 |
-| Level: The Machinery | 1.00% | ~49 |
-| Extra Life: Knowledge Cap | 1.00% | ~49 |
-| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~49 |
-| Entrepreneur | 1.00% | ~49 |
-| Data Churn Type IV | 1.00% | ~49 |
-| Keen Eye | 1.00% | ~49 |
+| Level: A Happy Taskforce | 1.00% | ~50 |
+| Level: The Machinery | 1.00% | ~50 |
+| Extra Life: Knowledge Cap | 1.00% | ~50 |
+| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~50 |
+| Entrepreneur | 1.00% | ~50 |
+| Data Churn Type IV | 1.00% | ~50 |
+| Keen Eye | 1.00% | ~50 |
 | Level: Topple The Top | 0.90% | ~45 |
 | Bet On Bots: Safety First | 0.80% | ~40 |
 | Tycoon | 0.80% | ~40 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,949 (Ranked 128)  
+Progressed: 4,951 (Ranked 128)  
 Completed: 1 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 1 (0.02%) (Ranked 195)
 | 2023-06-06 | 4,929 | 1 |
 | 2023-06-07 | 4,940 | 1 |
 | 2023-06-08 | 4,946 | 1 |
-| 2023-06-09 | 4,949 | 1 |
+| 2023-06-09 | 4,951 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

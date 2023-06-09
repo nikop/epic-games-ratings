@@ -5,8 +5,8 @@ Rating: 4.43 (Ranked 645)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,374 |
-| This is only the beginning | 19.00% | ~40,564 |
+| No aid from the Omnissiah | 25.00% | ~53,375 |
+| This is only the beginning | 19.00% | ~40,565 |
 | Knowledge is power | 12.00% | ~25,620 |
 | Power Ranger | 9.00% | ~19,215 |
 | Galvanic Rifle | 9.00% | ~19,215 |
@@ -28,19 +28,19 @@ Rating: 4.43 (Ranked 645)
 | Mother of Xenarites | 0.40% | ~854 |
 | False God | 0.30% | ~640 |
 | Hard | 0.20% | ~427 |
-| Sterile Perfection | 0.10% | ~213 |
-| Impossible | 0.10% | ~213 |
-| Sensory overload | 0.10% | ~213 |
-| Transonic Blur | 0.10% | ~213 |
-| Melee Machine | 0.10% | ~213 |
-| AoE-phobia | 0.10% | ~213 |
-| Zero to Hero | 0.10% | ~213 |
-| No Omnissian Guidance | 0.10% | ~213 |
-| Not the Men-of-Iron | 0.10% | ~213 |
-| Perma-live | 0.10% | ~213 |
-| Purge the Heretek | 0.10% | ~213 |
+| Sterile Perfection | 0.10% | ~214 |
+| Impossible | 0.10% | ~214 |
+| Sensory overload | 0.10% | ~214 |
+| Transonic Blur | 0.10% | ~214 |
+| Melee Machine | 0.10% | ~214 |
+| AoE-phobia | 0.10% | ~214 |
+| Zero to Hero | 0.10% | ~214 |
+| No Omnissian Guidance | 0.10% | ~214 |
+| Not the Men-of-Iron | 0.10% | ~214 |
+| Perma-live | 0.10% | ~214 |
+| Purge the Heretek | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,496 (Ranked 49)  
+Progressed: 213,500 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 3 (0.00%) (Ranked 212)
 | 2023-06-06 | 213,194 | 3 |
 | 2023-06-07 | 213,314 | 3 |
 | 2023-06-08 | 213,436 | 3 |
-| 2023-06-09 | 213,496 | 3 |
+| 2023-06-09 | 213,500 | 3 |
 ## Awards
 Max (Highly Recommended): 278  (Ranked 233)  
 Sum: 2,104 (Ranked 183)  

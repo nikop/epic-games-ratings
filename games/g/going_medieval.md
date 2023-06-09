@@ -18,7 +18,7 @@ Number of Ratings: 706  (23.09.2022)
 | The First Week | 48.00% | ~1,650 |
 | Feast or Famine | 47.00% | ~1,616 |
 | Studious Researcher | 47.00% | ~1,616 |
-| Beam Me Up | 45.00% | ~1,547 |
+| Beam Me Up | 46.00% | ~1,581 |
 | Adept Researcher | 43.00% | ~1,478 |
 | Luminary Researcher | 36.00% | ~1,238 |
 | Retribution | 35.00% | ~1,203 |
