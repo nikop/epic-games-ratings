@@ -40,7 +40,7 @@
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.94% |
 | 39 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 40 | [Doodle God](games/d/doodle_god.md) | 3.79% |
-| 41 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
+| 41 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
 | 42 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 44 | [The Complex](games/t/the_complex.md) | 3.31% |
@@ -110,8 +110,8 @@
 | 107 | [Haven](games/h/haven.md) | 0.65% |
 | 109 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.62% |
 | 110 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
-| 111 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
-| 111 | [Grindstone](games/g/grindstone.md) | 0.51% |
+| 111 | [Grindstone](games/g/grindstone.md) | 0.53% |
+| 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
 | 113 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 114 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
@@ -200,17 +200,17 @@
 | 195 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
 | 195 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
 | 195 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 201 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 201 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 201 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 201 | [Forspoken](games/f/forspoken.md) | 0.01% |
-| 201 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
-| 201 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 201 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 201 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 201 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
-| 201 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 201 | [Verdun](games/v/verdun.md) | 0.01% |
+| 195 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
+| 202 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 202 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 202 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 202 | [Forspoken](games/f/forspoken.md) | 0.01% |
+| 202 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
+| 202 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 202 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 202 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 202 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 202 | [Verdun](games/v/verdun.md) | 0.01% |
 | 212 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 212 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.00% |
 | 212 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
