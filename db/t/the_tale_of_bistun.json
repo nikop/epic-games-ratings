@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 10,
   "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-07-13T16:00:00+00:00",
     "PcReleaseDate": "2022-07-13T14:00:00+00:00",
@@ -133,25 +133,25 @@
       "ID": "BISTUN_ACHIEVEMENT_12",
       "SetID": "1kdk24p",
       "Name": "I Pick You",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_13",
       "SetID": "1kdk24p",
       "Name": "Accomplished Smithy",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_14",
       "SetID": "1kdk24p",
       "Name": "The Blight\u0027s Blight",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_15",
@@ -414,8 +414,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:05:35.1987043+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:06:19.0010842+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:19.092237+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:59:32.9039416+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:05:35.1987283+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:00:06.5262732+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:06:19.0011117+00:00"
 }

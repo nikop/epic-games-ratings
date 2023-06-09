@@ -12,16 +12,16 @@
 | Welcome to the Garage | 19.00% | ~52 |
 | Truthseeker | 16.00% | ~44 |
 | 86's Nightmare | 11.00% | ~30 |
-| Partners in Crime | 10.00% | ~27 |
 | Freedom | 9.00% | ~25 |
+| Partners in Crime | 9.00% | ~25 |
 | Friendzone | 9.00% | ~25 |
 | Attack on Tyran | 8.00% | ~22 |
 | The Eye of the Storm | 8.00% | ~22 |
 | Try Harder | 2.00% | ~5 |
 | Song Harvester | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 273 (Ranked 233)  
-Completed: 2 (0.73%) (Ranked 103)  
+Progressed: 274 (Ranked 233)  
+Completed: 2 (0.73%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,7 +63,7 @@ Completed: 2 (0.73%) (Ranked 103)
 | 2023-06-06 | 260 | 2 |
 | 2023-06-07 | 265 | 2 |
 | 2023-06-08 | 269 | 2 |
-| 2023-06-09 | 273 | 2 |
+| 2023-06-09 | 274 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

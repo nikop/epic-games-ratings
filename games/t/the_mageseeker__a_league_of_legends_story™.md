@@ -1,16 +1,16 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.79 (Ranked 90)  
+Rating: 4.80 (Ranked 81)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,188 |
-| No more cages! | 92.00% | ~2,119 |
-| Everfrost | 77.00% | ~1,773 |
-| Pentakill | 76.00% | ~1,750 |
-| Dark Forest | 76.00% | ~1,750 |
-| The use of petricite | 73.00% | ~1,681 |
+| For Demacia | 95.00% | ~2,189 |
+| No more cages! | 92.00% | ~2,120 |
+| Everfrost | 77.00% | ~1,774 |
+| Pentakill | 76.00% | ~1,751 |
+| Dark Forest | 76.00% | ~1,751 |
+| The use of petricite | 73.00% | ~1,682 |
 | You can pet the dog | 60.00% | ~1,382 |
 | Big Helmet Bro | 35.00% | ~806 |
 | Clarion Cove | 35.00% | ~806 |
@@ -32,17 +32,17 @@ Rating: 4.79 (Ranked 90)
 | Iffighain Headquarters | 20.00% | ~461 |
 | Glyndemere | 19.00% | ~438 |
 | Full equipped | 19.00% | ~438 |
-| Whispers in the Woods II | 16.00% | ~368 |
-| Quickmoore Headquarters | 16.00% | ~368 |
-| Whispers in the Woods III | 14.00% | ~322 |
-| No more holding back | 14.00% | ~322 |
-| Terbisia | 14.00% | ~322 |
-| My heart and sword always for Demacia | 13.00% | ~299 |
-| Friendly fire | 13.00% | ~299 |
-| True power | 13.00% | ~299 |
-| Meltridge | 13.00% | ~299 |
-| The Central Headquarters | 13.00% | ~299 |
-| Cloven Dell Headquarters | 13.00% | ~299 |
+| Whispers in the Woods II | 16.00% | ~369 |
+| Quickmoore Headquarters | 16.00% | ~369 |
+| Whispers in the Woods III | 14.00% | ~323 |
+| No more holding back | 14.00% | ~323 |
+| Terbisia | 14.00% | ~323 |
+| My heart and sword always for Demacia | 13.00% | ~300 |
+| Friendly fire | 13.00% | ~300 |
+| True power | 13.00% | ~300 |
+| Meltridge | 13.00% | ~300 |
+| The Central Headquarters | 13.00% | ~300 |
+| Cloven Dell Headquarters | 13.00% | ~300 |
 | Embrace the darkness | 11.00% | ~253 |
 | Whispers in the Woods IV | 11.00% | ~253 |
 | I smell fear | 10.00% | ~230 |
@@ -59,8 +59,8 @@ Rating: 4.79 (Ranked 90)
 | Silverwing nest | 2.00% | ~46 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,303 (Ranked 150)  
-Completed: 1 (0.04%) (Ranked 185)  
+Progressed: 2,304 (Ranked 150)  
+Completed: 1 (0.04%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,7 +109,7 @@ Completed: 1 (0.04%) (Ranked 185)
 | 2023-06-06 | 2,273 | 1 |
 | 2023-06-07 | 2,279 | 1 |
 | 2023-06-08 | 2,296 | 1 |
-| 2023-06-09 | 2,303 | 1 |
+| 2023-06-09 | 2,304 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -128,3 +128,4 @@ Completed: 1 (0.04%) (Ranked 185)
 | 2023-05-22 | 4.77 | 0 | 0 |
 | 2023-05-24 | 4.78 | 0 | 0 |
 | 2023-06-05 | 4.79 | 0 | 0 |
+| 2023-06-09 | 4.80 | 0 | 0 |

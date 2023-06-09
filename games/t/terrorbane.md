@@ -17,13 +17,13 @@
 | Secret Admirer | 15.00% | ~6 |
 | Bugged, not stupid | 13.00% | ~5 |
 | A Rank Bug-catcher | 10.00% | ~4 |
+| S Rank Bug-catcher | 10.00% | ~4 |
+| Deepest lore | 10.00% | ~4 |
 | Hackerman | 10.00% | ~4 |
-| S Rank Bug-catcher | 8.00% | ~3 |
-| Deepest lore | 8.00% | ~3 |
 | Thanks for Playing | 5.00% | ~2 |
+| Thanks for Buying | 3.00% | ~1 |
 | Brute forcing | 3.00% | ~1 |
 | Pool party | 3.00% | ~1 |
-| Thanks for Buying | 0.00% | ~0 |
 | You never know! | 0.00% | ~0 |
 | Higher on the street | 0.00% | ~0 |
 | Dance machine | 0.00% | ~0 |
@@ -31,7 +31,7 @@
 | Real completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 39 (Ranked 317)  
-Completed: 0 (0.00%) (Ranked 212)  
+Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -584,9 +584,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14855,
+  "EOS_Progressed": 14861,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3334,6 +3334,11 @@
       "Time": "2023-06-09T19:03:54.2354154+00:00",
       "NumProgressed": 14855,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-09T20:04:18.3632669+00:00",
+      "NumProgressed": 14861,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3361,7 +3366,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3377,7 +3382,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3425,7 +3430,7 @@
       "Name": "Recidivist",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -3433,7 +3438,7 @@
       "Name": "Lifer",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "FINISH_NEW_GAME_PLUS",
@@ -3449,7 +3454,7 @@
       "Name": "Get a Grip",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3473,7 +3478,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "KILL_ROBOT",
@@ -3489,7 +3494,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3513,7 +3518,7 @@
       "Name": "Reforged",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3545,7 +3550,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "STORY_HABITAT",
@@ -3553,7 +3558,7 @@
       "Name": "Without A Paddle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "STORY_HANGAR",
@@ -3577,7 +3582,7 @@
       "Name": "Desperate Times",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3633,7 +3638,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -3664,13 +3669,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14855,
+      "Progressed": 14861,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2781,
+      "Progressed": 2787,
       "Completed": 29
     }
   ],
@@ -3678,8 +3683,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-09T13:57:54.3107791+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:03:54.235415+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:04:18.3632663+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:57:51.4240437+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:03:54.2354523+00:00"
+  "LastUpdate_Ratings": "2023-06-09T19:58:01.2040772+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:04:18.3633245+00:00"
 }

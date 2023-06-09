@@ -5,50 +5,50 @@ Rating: 4.49 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,658 |
-| Advancement | 73.00% | ~16,686 |
-| Meticulously Efficient | 64.00% | ~14,629 |
-| Discovery | 62.00% | ~14,172 |
-| Fully Upgraded | 55.00% | ~12,572 |
-| Swift Rift Removers | 55.00% | ~12,572 |
-| Cultured | 53.00% | ~12,115 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,886 |
-| Vaporous Expansion | 49.00% | ~11,200 |
-| Teamwork | 44.00% | ~10,058 |
-| There you are! | 44.00% | ~10,058 |
-| Clutch Capture | 41.00% | ~9,372 |
-| Back Off | 36.00% | ~8,229 |
-| Daily Dose | 35.00% | ~8,000 |
-| Welcome to the Crew | 33.00% | ~7,543 |
-| Solo Capture | 32.00% | ~7,315 |
-| Ghostbuster In Training | 31.00% | ~7,086 |
-| Icing on the Cake | 30.00% | ~6,857 |
-| Side Hustle | 28.00% | ~6,400 |
-| We have the best insurance | 27.00% | ~6,172 |
-| Legions | 27.00% | ~6,172 |
-| Right back at ya | 27.00% | ~6,172 |
-| Stunner | 27.00% | ~6,172 |
-| Summoner | 27.00% | ~6,172 |
-| Pesky Jerks | 26.00% | ~5,943 |
-| Animated | 25.00% | ~5,714 |
-| Skilled | 25.00% | ~5,714 |
-| Collector | 24.00% | ~5,486 |
-| Ectoplasmic Entity | 24.00% | ~5,486 |
-| Rift Destroyer | 20.00% | ~4,572 |
-| Tobin's Prodigy | 19.00% | ~4,343 |
-| Reckless | 18.00% | ~4,114 |
-| Terrifying | 18.00% | ~4,114 |
-| Diabolical | 16.00% | ~3,657 |
-| Escape Artist | 16.00% | ~3,657 |
-| Seasoned | 16.00% | ~3,657 |
-| Liability | 10.00% | ~2,286 |
-| Rivalry | 10.00% | ~2,286 |
-| Whoopsie | 10.00% | ~2,286 |
-| Fragile Panes | 9.00% | ~2,057 |
-| Surprise! | 9.00% | ~2,057 |
-| Master Collector | 7.00% | ~1,600 |
-| Rift Seeker | 7.00% | ~1,600 |
-| Therapeutic | 7.00% | ~1,600 |
+| Stylish | 86.00% | ~19,666 |
+| Advancement | 73.00% | ~16,694 |
+| Meticulously Efficient | 64.00% | ~14,636 |
+| Discovery | 62.00% | ~14,178 |
+| Fully Upgraded | 55.00% | ~12,577 |
+| Swift Rift Removers | 55.00% | ~12,577 |
+| Cultured | 53.00% | ~12,120 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,891 |
+| Vaporous Expansion | 49.00% | ~11,205 |
+| Teamwork | 44.00% | ~10,062 |
+| There you are! | 44.00% | ~10,062 |
+| Clutch Capture | 41.00% | ~9,376 |
+| Back Off | 36.00% | ~8,232 |
+| Daily Dose | 35.00% | ~8,004 |
+| Welcome to the Crew | 33.00% | ~7,546 |
+| Solo Capture | 32.00% | ~7,318 |
+| Ghostbuster In Training | 31.00% | ~7,089 |
+| Icing on the Cake | 30.00% | ~6,860 |
+| Side Hustle | 28.00% | ~6,403 |
+| We have the best insurance | 27.00% | ~6,174 |
+| Legions | 27.00% | ~6,174 |
+| Stunner | 27.00% | ~6,174 |
+| Summoner | 27.00% | ~6,174 |
+| Pesky Jerks | 26.00% | ~5,946 |
+| Right back at ya | 26.00% | ~5,946 |
+| Animated | 25.00% | ~5,717 |
+| Skilled | 25.00% | ~5,717 |
+| Collector | 24.00% | ~5,488 |
+| Ectoplasmic Entity | 24.00% | ~5,488 |
+| Rift Destroyer | 20.00% | ~4,574 |
+| Tobin's Prodigy | 19.00% | ~4,345 |
+| Reckless | 18.00% | ~4,116 |
+| Terrifying | 18.00% | ~4,116 |
+| Diabolical | 16.00% | ~3,659 |
+| Escape Artist | 16.00% | ~3,659 |
+| Seasoned | 16.00% | ~3,659 |
+| Liability | 10.00% | ~2,287 |
+| Rivalry | 10.00% | ~2,287 |
+| Whoopsie | 10.00% | ~2,287 |
+| Fragile Panes | 9.00% | ~2,058 |
+| Surprise! | 9.00% | ~2,058 |
+| Master Collector | 7.00% | ~1,601 |
+| Rift Seeker | 7.00% | ~1,601 |
+| Therapeutic | 7.00% | ~1,601 |
 | Ghost Expert | 3.00% | ~686 |
 | Catostrophic Destroyer | 2.00% | ~457 |
 | Line em' up | 2.00% | ~457 |
@@ -57,8 +57,8 @@ Rating: 4.49 (Ranked 565)
 | I don't need these | 1.00% | ~229 |
 | Mycophile | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,858 (Ranked 93)  
-Completed: 40 (0.17%) (Ranked 148)  
+Progressed: 22,868 (Ranked 93)  
+Completed: 40 (0.17%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,7 +107,7 @@ Completed: 40 (0.17%) (Ranked 148)
 | 2023-06-06 | 22,732 | 40 |
 | 2023-06-07 | 22,765 | 40 |
 | 2023-06-08 | 22,810 | 40 |
-| 2023-06-09 | 22,858 | 40 |
+| 2023-06-09 | 22,868 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 235  (Ranked 246)  
 Sum: 2,109 (Ranked 182)  

@@ -6,27 +6,27 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,668 |
-| Worker Specialization | 78.00% | ~4,609 |
-| First Contact | 73.00% | ~4,314 |
-| Win a Battle | 67.00% | ~3,959 |
-| Anomaly Researcher | 63.00% | ~3,723 |
-| Unleash My Power | 62.00% | ~3,664 |
-| Own 30 Planets | 35.00% | ~2,068 |
-| Xenocide | 33.00% | ~1,950 |
-| Design a Civilization | 32.00% | ~1,891 |
-| Commodity Trader | 31.00% | ~1,832 |
+| Colonize a Planet | 79.00% | ~4,670 |
+| Worker Specialization | 78.00% | ~4,611 |
+| First Contact | 73.00% | ~4,315 |
+| Win a Battle | 67.00% | ~3,960 |
+| Anomaly Researcher | 63.00% | ~3,724 |
+| Unleash My Power | 62.00% | ~3,665 |
+| Own 30 Planets | 35.00% | ~2,069 |
+| Xenocide | 33.00% | ~1,951 |
+| Commodity Trader | 32.00% | ~1,892 |
+| Design a Civilization | 32.00% | ~1,892 |
 | Design a Ship | 29.00% | ~1,714 |
-| Commodity Seller | 26.00% | ~1,536 |
-| Prestige Victory! | 14.00% | ~827 |
+| Commodity Seller | 26.00% | ~1,537 |
+| Prestige Victory! | 14.00% | ~828 |
 | Galactic War | 11.00% | ~650 |
 | Trading Partner | 9.00% | ~532 |
 | Fleet Victory | 8.00% | ~473 |
 | Win as Terrans | 7.00% | ~414 |
 | Gain an Ally | 6.00% | ~355 |
 | Win with a Custom Faction | 6.00% | ~355 |
-| War with the Unknown | 5.00% | ~295 |
-| Win Quickly | 5.00% | ~295 |
+| War with the Unknown | 5.00% | ~296 |
+| Win Quickly | 5.00% | ~296 |
 | Conquest Victory! | 4.00% | ~236 |
 | Pirate Cleansing | 3.00% | ~177 |
 | Win an Immense Game | 3.00% | ~177 |
@@ -79,8 +79,8 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,909 (Ranked 125)  
-Completed: 0 (0.00%) (Ranked 212)  
+Progressed: 5,911 (Ranked 125)  
+Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 5,893 | 0 |
 | 2023-06-07 | 5,898 | 0 |
 | 2023-06-08 | 5,905 | 0 |
-| 2023-06-09 | 5,909 | 0 |
+| 2023-06-09 | 5,911 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 340)  
 Sum: 663 (Ranked 270)  

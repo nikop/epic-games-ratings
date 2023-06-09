@@ -6,9 +6,9 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 202,
-  "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 145,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,11 +54,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 463,
+  "EOS_Progressed": 466,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.2871763+00:00",
@@ -814,6 +814,11 @@
       "Time": "2023-06-09T18:06:36.0344452+00:00",
       "NumProgressed": 463,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T20:06:11.7345733+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -849,7 +854,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "DevilDetail",
@@ -857,7 +862,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Devoted",
@@ -1039,9 +1044,9 @@
       "ID": "ToothFairy",
       "SetID": "2aagp3d",
       "Name": "Tooth fairy",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 112
     },
     {
       "ID": "Toxic",
@@ -1080,7 +1085,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 463,
+      "Progressed": 466,
       "Completed": 1
     }
   ],
@@ -1088,8 +1093,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:05:28.8672418+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:06:11.7345726+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:01.7126872+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:57:50.2888334+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:05:28.8672638+00:00"
+  "LastUpdate_Ratings": "2023-06-09T19:57:59.7600551+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:06:11.7346078+00:00"
 }

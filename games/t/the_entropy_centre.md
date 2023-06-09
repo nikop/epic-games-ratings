@@ -9,7 +9,7 @@
 | Time Gates | 63.00% | ~98 |
 | Command Centre | 46.00% | ~71 |
 | This is a Wall | 43.00% | ~67 |
-| Extendable Bridges | 33.00% | ~51 |
+| Extendable Bridges | 34.00% | ~53 |
 | 48 Attempts | 32.00% | ~50 |
 | Chain Reaction | 30.00% | ~46 |
 | Man's Best Friend | 29.00% | ~45 |
@@ -33,7 +33,7 @@
 | You Are Terminated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 155 (Ranked 262)  
-Completed: 0 (0.00%) (Ranked 212)  
+Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

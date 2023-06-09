@@ -6,9 +6,9 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 111,
-  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10036,
+  "EOS_Progressed": 10042,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 796,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4168,6 +4168,11 @@
       "Time": "2023-06-09T19:05:41.8503528+00:00",
       "NumProgressed": 10036,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-09T20:06:26.326198+00:00",
+      "NumProgressed": 10042,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -4179,7 +4184,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8029
+      "UsersEstimate": 8034
     },
     {
       "ID": "ACH02",
@@ -4187,7 +4192,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH03",
@@ -4195,7 +4200,7 @@
       "Name": "The End of the Line",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH04",
@@ -4227,7 +4232,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "ACH08",
@@ -4235,7 +4240,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4817
+      "UsersEstimate": 4820
     },
     {
       "ID": "ACH09",
@@ -4275,7 +4280,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "ACH14",
@@ -4283,7 +4288,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "ACH15",
@@ -4299,7 +4304,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "ACH17",
@@ -4323,7 +4328,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH20",
@@ -4347,7 +4352,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "ACH23",
@@ -4355,7 +4360,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2310
     },
     {
       "ID": "ACH24",
@@ -4395,7 +4400,7 @@
       "Name": "Original Gangster",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH29",
@@ -4458,7 +4463,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10036,
+      "Progressed": 10042,
       "Completed": 17
     }
   ],
@@ -4466,8 +4471,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-07T10:00:00.0297825+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:05:41.8503523+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:06:26.3261969+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.816384+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:59:53.6103143+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:05:41.8503893+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:00:30.4394967+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:06:26.3262561+00:00"
 }

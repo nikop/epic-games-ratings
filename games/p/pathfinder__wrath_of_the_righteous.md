@@ -6,26 +6,26 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 17.00% | ~1,646 |
+| Devoured by Darkness | 17.00% | ~1,647 |
 | A Spark | 12.00% | ~1,162 |
 | Burning City | 11.00% | ~1,065 |
-| Defender's Heart | 10.00% | ~968 |
-| Banner over the Citadel | 9.00% | ~871 |
-| Mythic Choices | 9.00% | ~871 |
+| Defender's Heart | 10.00% | ~969 |
+| Banner over the Citadel | 9.00% | ~872 |
+| Mythic Choices | 9.00% | ~872 |
 | Queen's Gratitude | 8.00% | ~775 |
 | Fifth Crusade | 5.00% | ~484 |
 | Embrace of the Abyss | 4.00% | ~387 |
 | Path of the Angel | 4.00% | ~387 |
 | Demonic and Divine | 4.00% | ~387 |
-| Path of the Azata | 3.00% | ~290 |
-| Transformation | 3.00% | ~290 |
-| The Legacy | 3.00% | ~290 |
-| Great Upstart | 3.00% | ~290 |
-| Voice from Your Dreams | 3.00% | ~290 |
-| All Paths Open | 3.00% | ~290 |
-| A Flame | 3.00% | ~290 |
-| Next-Door Play | 3.00% | ~290 |
-| Get the Toad | 3.00% | ~290 |
+| Path of the Azata | 3.00% | ~291 |
+| Transformation | 3.00% | ~291 |
+| The Legacy | 3.00% | ~291 |
+| Great Upstart | 3.00% | ~291 |
+| Voice from Your Dreams | 3.00% | ~291 |
+| All Paths Open | 3.00% | ~291 |
+| A Flame | 3.00% | ~291 |
+| Next-Door Play | 3.00% | ~291 |
+| Get the Toad | 3.00% | ~291 |
 | Heart of the Fallen Land | 2.00% | ~194 |
 | Path of the Trickster | 2.00% | ~194 |
 | Path of the Lich | 2.00% | ~194 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,683 (Ranked 112)  
-Completed: 0 (0.00%) (Ranked 212)  
+Progressed: 9,686 (Ranked 112)  
+Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -173,7 +173,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 9,594 | 0 |
 | 2023-06-07 | 9,619 | 0 |
 | 2023-06-08 | 9,650 | 0 |
-| 2023-06-09 | 9,683 | 0 |
+| 2023-06-09 | 9,686 | 0 |
 ## Awards
 Max (Character Customization): 1,656  (Ranked 111)  
 Sum: 6,720 (Ranked 109)  

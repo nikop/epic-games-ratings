@@ -6,36 +6,36 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Where's that freaking Dwarf? | 98.00% | ~48 |
-| Alt+F4 | 98.00% | ~48 |
-| Sock! SOCK! | 86.00% | ~42 |
-| Fireproof Wizardess | 73.00% | ~36 |
-| Déjà vu | 67.00% | ~33 |
-| Livin' in a dwarven paradise | 65.00% | ~32 |
-| DM intervention | 65.00% | ~32 |
-| Speedrun | 57.00% | ~28 |
-| Oh, when I'll be level 10... | 57.00% | ~28 |
-| Way of the Wimp | 55.00% | ~27 |
-| GG EZ | 55.00% | ~27 |
-| I am the night | 49.00% | ~24 |
-| Thieves' Guild Accreditation | 49.00% | ~24 |
-| A beer, two curses, three companions | 47.00% | ~23 |
-| The plot thickens... At the tavern | 45.00% | ~22 |
-| The Ranger of Chaos | 45.00% | ~22 |
-| Team Building Exercise | 43.00% | ~21 |
-| Dwarf Fortress | 39.00% | ~19 |
-| Look but don't touch | 39.00% | ~19 |
-| Material Girl | 37.00% | ~18 |
-| The demons' feast | 35.00% | ~17 |
-| Gargantua | 35.00% | ~17 |
-| Shiny and Crôm | 33.00% | ~16 |
-| Torture and Sensibility | 33.00% | ~16 |
-| The Statuette of Gladeulfeurah | 31.00% | ~15 |
-| A tale of adventurers not quite like the others... | 31.00% | ~15 |
-| Cursed die | 29.00% | ~14 |
-| The Great Library | 29.00% | ~14 |
-| The Famous Dungeon of Naheulbeuk | 27.00% | ~13 |
-| The beards of change | 27.00% | ~13 |
+| Alt+F4 | 100.00% | ~51 |
+| Where's that freaking Dwarf? | 98.00% | ~50 |
+| Sock! SOCK! | 84.00% | ~43 |
+| Fireproof Wizardess | 73.00% | ~37 |
+| Déjà vu | 67.00% | ~34 |
+| Livin' in a dwarven paradise | 65.00% | ~33 |
+| DM intervention | 65.00% | ~33 |
+| GG EZ | 59.00% | ~30 |
+| Speedrun | 57.00% | ~29 |
+| Way of the Wimp | 55.00% | ~28 |
+| Oh, when I'll be level 10... | 55.00% | ~28 |
+| I am the night | 47.00% | ~24 |
+| Thieves' Guild Accreditation | 47.00% | ~24 |
+| A beer, two curses, three companions | 45.00% | ~23 |
+| The plot thickens... At the tavern | 45.00% | ~23 |
+| The Ranger of Chaos | 43.00% | ~22 |
+| Team Building Exercise | 41.00% | ~21 |
+| Dwarf Fortress | 37.00% | ~19 |
+| Look but don't touch | 37.00% | ~19 |
+| The demons' feast | 35.00% | ~18 |
+| Material Girl | 35.00% | ~18 |
+| Gargantua | 33.00% | ~17 |
+| Shiny and Crôm | 31.00% | ~16 |
+| Torture and Sensibility | 31.00% | ~16 |
+| The Statuette of Gladeulfeurah | 29.00% | ~15 |
+| A tale of adventurers not quite like the others... | 29.00% | ~15 |
+| Cursed die | 27.00% | ~14 |
+| The Great Library | 27.00% | ~14 |
+| The Famous Dungeon of Naheulbeuk | 25.00% | ~13 |
+| The beards of change | 25.00% | ~13 |
 | The Woman in the High Castle | 24.00% | ~12 |
 | Urik's Depths | 22.00% | ~11 |
 | The Blood Countess | 22.00% | ~11 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 305)  
-Completed: 0 (0.00%) (Ranked 212)  
+Progressed: 51 (Ranked 304)  
+Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 26 | 0 |
 | 2023-06-07 | 37 | 0 |
 | 2023-06-08 | 44 | 0 |
-| 2023-06-09 | 49 | 0 |
+| 2023-06-09 | 51 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 378)  
 Sum: 61 (Ranked 431)  

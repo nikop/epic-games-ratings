@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 54.00% | ~26 |
+| Aspairagus | 55.00% | ~27 |
 | Seeds of War | 49.00% | ~49 |
 | Survivor | 46.00% | ~23 |
 | First Blood | 36.00% | ~36 |
 | Early Survivor | 35.00% | ~17 |
 | No Diggity | 35.00% | ~17 |
 | Triple Kill | 33.00% | ~33 |
-| No Asperascope | 29.00% | ~29 |
-| Cornivore | 29.00% | ~29 |
+| No Asperascope | 30.00% | ~30 |
+| Cornivore | 30.00% | ~30 |
 | Amateur Survivor | 27.00% | ~13 |
 | I Believe I Can Fly | 26.00% | ~26 |
 | Bouncemato | 24.00% | ~12 |
@@ -27,8 +27,8 @@
 | Skin Of Your Teeth | 9.00% | ~9 |
 | Perfect | 8.00% | ~4 |
 | Expert Survivor | 8.00% | ~4 |
+| Summers Here | 8.00% | ~4 |
 | Pyromaniac | 7.00% | ~3 |
-| Summers Here | 7.00% | ~3 |
 | Quadsparagus | 7.00% | ~3 |
 | Quit Horsin' Around | 6.00% | ~6 |
 | Eggtraordinary | 6.00% | ~6 |
@@ -80,7 +80,7 @@
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 99 (Ranked 275)  
-Completed: 0 (0.00%) (Ranked 212)  
+Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

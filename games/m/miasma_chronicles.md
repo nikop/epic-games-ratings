@@ -5,28 +5,28 @@ Rating: 4.31 (Ranked 756)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~986 |
-| Ranidaphobia | 75.00% | ~804 |
-| Aspiring Editor | 72.00% | ~772 |
-| Gun for Hire | 67.00% | ~718 |
-| I am the law! | 59.00% | ~632 |
-| Lumberjack | 46.00% | ~493 |
+| First Blood | 91.00% | ~977 |
+| Ranidaphobia | 75.00% | ~806 |
+| Aspiring Editor | 72.00% | ~773 |
+| Gun for Hire | 67.00% | ~720 |
+| I am the law! | 59.00% | ~634 |
+| Lumberjack | 46.00% | ~494 |
 | Croaked | 41.00% | ~440 |
-| Limp Richard | 40.00% | ~429 |
-| From Darkness to Light | 39.00% | ~418 |
-| Exorcist | 38.00% | ~407 |
+| Limp Richard | 40.00% | ~430 |
+| From Darkness to Light | 39.00% | ~419 |
+| Exorcist | 38.00% | ~408 |
 | Editor Adept | 37.00% | ~397 |
 | Firestarter | 37.00% | ~397 |
-| Giant Killer | 35.00% | ~375 |
+| Giant Killer | 35.00% | ~376 |
 | Sensei | 33.00% | ~354 |
-| The meaning of Kain | 31.00% | ~332 |
+| The meaning of Kain | 31.00% | ~333 |
 | Technophobe | 29.00% | ~311 |
 | Recycler | 26.00% | ~279 |
 | Are you not entertained? | 22.00% | ~236 |
 | Ganglord | 22.00% | ~236 |
 | Jarhead | 22.00% | ~236 |
-| Infiltrator | 21.00% | ~225 |
-| Pushing Daisy | 20.00% | ~214 |
+| Infiltrator | 21.00% | ~226 |
+| Pushing Daisy | 20.00% | ~215 |
 | Chain Killer | 19.00% | ~204 |
 | There Can Be Only One! | 19.00% | ~204 |
 | Experienced | 18.00% | ~193 |
@@ -37,7 +37,7 @@ Rating: 4.31 (Ranked 756)
 | The Watchers | 14.00% | ~150 |
 | Ruthless | 12.00% | ~129 |
 | Dr Jones | 10.00% | ~107 |
-| Chaos Theory | 9.00% | ~96 |
+| Chaos Theory | 9.00% | ~97 |
 | Chain Reaction | 8.00% | ~86 |
 | Commando | 8.00% | ~86 |
 | Curveball | 7.00% | ~75 |
@@ -57,8 +57,8 @@ Rating: 4.31 (Ranked 756)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,072 (Ranked 172)  
-Completed: 0 (0.00%) (Ranked 212)  
+Progressed: 1,074 (Ranked 172)  
+Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 1,041 | 0 |
 | 2023-06-07 | 1,051 | 0 |
 | 2023-06-08 | 1,062 | 0 |
-| 2023-06-09 | 1,072 | 0 |
+| 2023-06-09 | 1,074 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

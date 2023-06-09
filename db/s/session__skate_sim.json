@@ -6,9 +6,9 @@
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 149,
-  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -682,7 +682,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2335,
+  "EOS_Progressed": 2337,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -2277,6 +2277,11 @@
       "Time": "2023-06-09T16:06:26.2979503+00:00",
       "NumProgressed": 2335,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T20:06:09.5195109+00:00",
+      "NumProgressed": 2337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2416,7 +2421,7 @@
       "Name": "Good vibes",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_HOARDER",
@@ -2440,7 +2445,7 @@
       "Name": "Keeping it classy",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -2640,7 +2645,7 @@
       "Name": "Upfront shredder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -2656,7 +2661,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -2664,22 +2669,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2335,
+      "Progressed": 2337,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-09T15:59:24.8887834+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:05:26.8534987+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:06:09.5195098+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:58:51.7835892+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:05:26.8535342+00:00"
+  "LastUpdate_Ratings": "2023-06-09T19:59:15.1656431+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:06:09.5196163+00:00"
 }

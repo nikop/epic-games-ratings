@@ -36,8 +36,8 @@ Number of Ratings: 58  (23.09.2022)
 | Mastery of Weapons | 29.00% | ~274 |
 | Disciple | 29.00% | ~274 |
 | Two Birds | 25.00% | ~236 |
+| Uneasy Alliance | 24.00% | ~227 |
 | Ghosts | 24.00% | ~227 |
-| Uneasy Alliance | 23.00% | ~217 |
 | Mastery of Combat | 21.00% | ~198 |
 | Retaliate | 21.00% | ~198 |
 | Mastery of Rites | 20.00% | ~189 |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 944 (Ranked 180)  
-Completed: 11 (1.17%) (Ranked 84)  
+Completed: 11 (1.17%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

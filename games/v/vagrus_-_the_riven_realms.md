@@ -26,6 +26,7 @@
 | Tail-wind | 1.00% | ~1 |
 | Taskmaster | 1.00% | ~1 |
 | Pilgrimage's End | 1.00% | ~1 |
+| Merchant | 1.00% | ~1 |
 | Trouble at Fort Larius | 1.00% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
@@ -96,7 +97,6 @@
 | Inquisitions of Discord | 0.00% | ~0 |
 | Defiant | 0.00% | ~0 |
 | Vagrus Supreme | 0.00% | ~0 |
-| Merchant | 0.00% | ~0 |
 | Merchant Lord | 0.00% | ~0 |
 | Unseen Patterns | 0.00% | ~0 |
 | Glorious leader | 0.00% | ~0 |
@@ -105,7 +105,7 @@
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 94 (Ranked 278)  
-Completed: 0 (0.00%) (Ranked 212)  
+Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

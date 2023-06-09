@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Historian | 94.00% | ~188 |
+| Historian | 95.00% | ~190 |
 | Treasure hunter | 91.00% | ~182 |
-| Survivalist | 82.00% | ~164 |
-| Challenge seeker | 78.00% | ~156 |
+| Survivalist | 83.00% | ~166 |
+| Challenge seeker | 79.00% | ~158 |
 | Coin collector | 73.00% | ~146 |
 | Floater | 57.00% | ~114 |
 | Speedrunner | 44.00% | ~88 |
@@ -37,7 +37,7 @@
 | Completionist | 2.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 200 (Ranked 248)  
-Completed: 3 (1.50%) (Ranked 78)  
+Completed: 3 (1.50%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

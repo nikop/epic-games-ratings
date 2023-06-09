@@ -11,7 +11,7 @@ Rating: 4.25 (Ranked 793)
 | JACK OF ALL TRADES | 61.00% | ~206 |
 | CRIMINAL | 56.00% | ~189 |
 | GRANDMA WOULD BE PROUD | 45.00% | ~152 |
-| WITHOUT BREAKING A SWEAT | 40.00% | ~135 |
+| WITHOUT BREAKING A SWEAT | 41.00% | ~139 |
 | HONORS STUDENT | 36.00% | ~122 |
 | BUTCHER | 25.00% | ~84 |
 | RAMBO | 21.00% | ~71 |
@@ -35,7 +35,7 @@ Rating: 4.25 (Ranked 793)
 | MISTER ALL THUMBS | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 338 (Ranked 220)  
-Completed: 1 (0.30%) (Ranked 132)  
+Completed: 1 (0.30%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

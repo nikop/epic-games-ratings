@@ -46,6 +46,7 @@ Number of Ratings: 87  (23.09.2022)
 | Sabotage | 2.00% | ~15 |
 | Squander | 2.00% | ~15 |
 | Stargazer | 2.00% | ~15 |
+| Vandal | 2.00% | ~15 |
 | Astronomer | 1.00% | ~7 |
 | At the last moment! | 1.00% | ~7 |
 | Environmental activist | 1.00% | ~7 |
@@ -53,7 +54,6 @@ Number of Ratings: 87  (23.09.2022)
 | Lucky vandal | 1.00% | ~7 |
 | Missed it! | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
-| Vandal | 1.00% | ~7 |
 | Woodcutter | 1.00% | ~7 |
 | Atomic Age | 0.80% | ~1 |
 | Digital Age | 0.80% | ~1 |
@@ -83,7 +83,7 @@ Number of Ratings: 87  (23.09.2022)
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 730 (Ranked 188)  
-Completed: 1 (0.14%) (Ranked 156)  
+Completed: 1 (0.14%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -13,9 +13,9 @@
 | Instinct | 37.00% | ~67 |
 | Blow | 33.00% | ~60 |
 | Just like me | 31.00% | ~56 |
-| I bless the rain down in London | 29.00% | ~53 |
+| I bless the rain down in London | 30.00% | ~55 |
+| Brown nosing | 28.00% | ~51 |
 | Cheat | 28.00% | ~51 |
-| Brown nosing | 27.00% | ~49 |
 | Delusions | 27.00% | ~49 |
 | Prove it | 24.00% | ~44 |
 | The truth | 24.00% | ~44 |
@@ -23,7 +23,7 @@
 | The whole truth | 13.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 182 (Ranked 254)  
-Completed: 19 (10.44%) (Ranked 16)  
+Completed: 19 (10.44%) (Ranked 15)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

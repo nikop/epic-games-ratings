@@ -38,7 +38,7 @@ Rating: 4.56 (Ranked 452)
 | The Eternal Court | 9.00% | ~402 |
 | Jack of All Tomes | 9.00% | ~402 |
 | Pruning for Progress | 9.00% | ~402 |
-| I've Got Everything I Need Right Here | 6.00% | ~268 |
+| I've Got Everything I Need Right Here | 7.00% | ~312 |
 | Betrayal Most Foul | 5.00% | ~223 |
 | Grexolis | 4.00% | ~179 |
 | One for All, All for One | 4.00% | ~179 |
@@ -51,7 +51,7 @@ Rating: 4.56 (Ranked 452)
 | Master of Evilness | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,463 (Ranked 129)  
-Completed: 0 (0.00%) (Ranked 212)  
+Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

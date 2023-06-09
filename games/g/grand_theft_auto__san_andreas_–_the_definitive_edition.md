@@ -5,21 +5,21 @@ Rating: 4.59 (Ranked 407)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,029 |
-| Pay 'n' Spray | 48.00% | ~4,817 |
-| All Dressed Up for San Fierro | 23.00% | ~2,308 |
-| The American Dream | 17.00% | ~1,706 |
-| School's Out | 16.00% | ~1,606 |
-| Smooth Moves | 15.00% | ~1,505 |
+| Getting Started | 80.00% | ~8,034 |
+| Pay 'n' Spray | 48.00% | ~4,820 |
+| All Dressed Up for San Fierro | 23.00% | ~2,310 |
+| The American Dream | 17.00% | ~1,707 |
+| School's Out | 16.00% | ~1,607 |
+| Smooth Moves | 15.00% | ~1,506 |
 | Today Was a Good Day | 13.00% | ~1,305 |
-| What happens in Las Venturas... | 12.00% | ~1,204 |
-| Horror of the Santa Maria | 9.00% | ~903 |
+| What happens in Las Venturas... | 12.00% | ~1,205 |
+| Horror of the Santa Maria | 9.00% | ~904 |
 | Liberty City State of Mind | 7.00% | ~703 |
-| With Extra Dip | 6.00% | ~602 |
-| The End of the Line | 6.00% | ~602 |
-| Original Gangster | 6.00% | ~602 |
+| With Extra Dip | 6.00% | ~603 |
+| The End of the Line | 6.00% | ~603 |
+| Original Gangster | 6.00% | ~603 |
 | Saviour | 5.00% | ~502 |
-| Rescue a Kitten Too? | 4.00% | ~401 |
+| Rescue a Kitten Too? | 4.00% | ~402 |
 | They Can’t Stop All of Us | 3.00% | ~301 |
 | What are the Odds | 3.00% | ~301 |
 | I’ll Have Two Number 9s | 2.00% | ~201 |
@@ -41,8 +41,8 @@ Rating: 4.59 (Ranked 407)
 | ...Here we go again | 0.20% | ~20 |
 | I Ain't No Buster | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,036 (Ranked 111)  
-Completed: 17 (0.17%) (Ranked 148)  
+Progressed: 10,042 (Ranked 111)  
+Completed: 17 (0.17%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,7 +91,7 @@ Completed: 17 (0.17%) (Ranked 148)
 | 2023-06-06 | 9,746 | 17 |
 | 2023-06-07 | 9,840 | 17 |
 | 2023-06-08 | 9,960 | 17 |
-| 2023-06-09 | 10,036 | 17 |
+| 2023-06-09 | 10,042 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

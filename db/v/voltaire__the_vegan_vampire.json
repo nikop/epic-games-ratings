@@ -3,9 +3,9 @@
   "Name": "Voltaire: The Vegan Vampire",
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -166,9 +166,9 @@
       "ID": "COSMETICS",
       "SetID": "3c20ib3",
       "Name": "Fashionista",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "FIRST_HARVEST",
@@ -294,9 +294,9 @@
       "ID": "KILL_SKULLY",
       "SetID": "3c20ib3",
       "Name": "Night Shift",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "KILL_YEETUS",
@@ -350,9 +350,9 @@
       "ID": "SOUTHERN",
       "SetID": "3c20ib3",
       "Name": "It gets everywhere",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "STRIKE",
@@ -366,9 +366,9 @@
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "UNLOCK_WELL",
@@ -399,8 +399,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:03:26.3201219+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:03:44.5412522+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:35.375098+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:57:30.4228598+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:03:26.320142+00:00"
+  "LastUpdate_Ratings": "2023-06-09T19:57:35.6985015+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:03:44.541293+00:00"
 }

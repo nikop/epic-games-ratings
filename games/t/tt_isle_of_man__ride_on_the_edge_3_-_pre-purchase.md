@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 96.00% | ~74 |
+| You're Going Down! | 95.00% | ~74 |
 | To Each Their Own | 45.00% | ~35 |
 | You Get An Upgrade, You Get An Upgrade! | 18.00% | ~14 |
 | Onwards and Upwards | 18.00% | ~14 |
@@ -44,8 +44,8 @@
 | Playing Favourites | 3.00% | ~2 |
 | Tempus Fugit | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77 (Ranked 290)  
-Completed: 2 (2.60%) (Ranked 58)  
+Progressed: 78 (Ranked 289)  
+Completed: 2 (2.56%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,4 +78,4 @@ Completed: 2 (2.60%) (Ranked 58)
 | 2023-06-05 | 72 | 2 |
 | 2023-06-06 | 73 | 2 |
 | 2023-06-08 | 76 | 2 |
-| 2023-06-09 | 77 | 2 |
+| 2023-06-09 | 78 | 2 |

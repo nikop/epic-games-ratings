@@ -6,9 +6,9 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 140,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 396,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -260,6 +260,11 @@
       "Time": "2023-06-09T07:06:25.2009878+00:00",
       "NumProgressed": 395,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T20:06:15.8867811+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -317,9 +322,9 @@
       "ID": "collect-sacrifices",
       "SetID": "799afm0",
       "Name": "No Mercy",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 162
     },
     {
       "ID": "different-items1",
@@ -343,15 +348,15 @@
       "Name": "Fat of the Earth",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "finished-quest-cube",
       "SetID": "799afm0",
       "Name": "Impossible Cube",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 170
     },
     {
       "ID": "finished-quest-flight",
@@ -381,9 +386,9 @@
       "ID": "finished-quest-pit",
       "SetID": "799afm0",
       "Name": "Assemble a Meganewbie",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 95
     },
     {
       "ID": "finished-quest-rat",
@@ -405,9 +410,9 @@
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 170
     },
     {
       "ID": "finished-quest-secret",
@@ -447,7 +452,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "save-zombie",
@@ -487,7 +492,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "win-first-level",
@@ -495,7 +500,7 @@
       "Name": "Good start!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "win-koth-fights1",
@@ -525,9 +530,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 158
     },
     {
       "ID": "win-with-3-cultists",
@@ -535,7 +540,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "win-with-mrakus",
@@ -550,7 +555,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 1
     }
   ],
@@ -558,8 +563,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:05:32.5106275+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:06:15.8867808+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:59.398253+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:58:33.6199619+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:05:32.5106487+00:00"
+  "LastUpdate_Ratings": "2023-06-09T19:58:51.9123898+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:06:15.8868236+00:00"
 }

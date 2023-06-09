@@ -6,9 +6,9 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 172,
-  "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1072,
+  "EOS_Progressed": 1074,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1506,6 +1506,11 @@
       "Time": "2023-06-09T18:01:21.5877321+00:00",
       "NumProgressed": 1072,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T20:01:05.5706043+00:00",
+      "NumProgressed": 1074,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1533,7 +1538,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1581,7 +1586,7 @@
       "Name": "Chaos Theory",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "COMMANDO",
@@ -1629,7 +1634,7 @@
       "Name": "Limp Richard",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1677,7 +1682,7 @@
       "Name": "Exorcist",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "EXPERIENCED",
@@ -1699,9 +1704,9 @@
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 977
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1725,7 +1730,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "GIANT_KILLER",
@@ -1733,7 +1738,7 @@
       "Name": "Giant Killer",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "GOAL",
@@ -1749,7 +1754,7 @@
       "Name": "Gun for Hire",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 718
+      "UsersEstimate": 720
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1765,7 +1770,7 @@
       "Name": "I am the law!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 634
     },
     {
       "ID": "INFILTRATOR",
@@ -1773,7 +1778,7 @@
       "Name": "Infiltrator",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "LUMBERJACK",
@@ -1781,7 +1786,7 @@
       "Name": "Lumberjack",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1805,7 +1810,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -1821,7 +1826,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 806
     },
     {
       "ID": "RECYCLER",
@@ -1901,7 +1906,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "THE_WATCHERS",
@@ -1924,7 +1929,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1072,
+      "Progressed": 1074,
       "Completed": 0
     }
   ],
@@ -1932,8 +1937,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-08T20:58:17.2515155+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:00:20.6140766+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:01:05.5706038+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:58:12.3869774+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:00:20.6141217+00:00"
+  "LastUpdate_Ratings": "2023-06-09T19:58:26.4629173+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:01:05.5706865+00:00"
 }

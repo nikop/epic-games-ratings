@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 256,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.34,
   "EosHistory": [
@@ -762,9 +762,9 @@
       "ID": "tavern",
       "SetID": "ap7g2g4",
       "Name": "Tavern",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "village",
@@ -809,8 +809,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:03:15.6013143+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:03:31.4758544+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:57:08.6568207+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:03:15.6013265+00:00"
+  "LastUpdate_Ratings": "2023-06-09T19:57:08.8502994+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:03:31.475896+00:00"
 }

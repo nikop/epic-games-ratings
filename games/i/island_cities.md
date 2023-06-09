@@ -21,14 +21,14 @@
 | Monumental tribute | 21.00% | ~64 |
 | The beach is right there | 19.00% | ~58 |
 | Commuting | 19.00% | ~58 |
-| Le jardin magnifique | 18.00% | ~55 |
+| Le jardin magnifique | 19.00% | ~58 |
 | Aiming for a living and human city | 16.00% | ~49 |
 | City of dreams | 16.00% | ~49 |
-| Happy Christmas night! | 15.00% | ~46 |
-| Night walk along the beach | 15.00% | ~46 |
+| Happy Christmas night! | 16.00% | ~49 |
+| Night walk along the beach | 16.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 305 (Ranked 227)  
-Completed: 47 (15.41%) (Ranked 9)  
+Completed: 48 (15.74%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,7 +75,7 @@ Completed: 47 (15.41%) (Ranked 9)
 | 2023-06-06 | 283 | 43 |
 | 2023-06-07 | 287 | 43 |
 | 2023-06-08 | 296 | 45 |
-| 2023-06-09 | 305 | 47 |
+| 2023-06-09 | 305 | 48 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,28 +6,28 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~509 |
-| My little farm | 65.00% | ~409 |
-| Every beginning is difficult | 62.00% | ~390 |
+| Cabin boy | 80.00% | ~504 |
+| My little farm | 65.00% | ~410 |
+| Every beginning is difficult | 62.00% | ~391 |
 | 3, 2, 1, mine | 55.00% | ~346 |
 | Gofer | 55.00% | ~346 |
-| Seafarer | 53.00% | ~333 |
-| O Captain! My Captain! | 53.00% | ~333 |
-| Greed for gold | 43.00% | ~270 |
+| Seafarer | 53.00% | ~334 |
+| O Captain! My Captain! | 53.00% | ~334 |
+| Greed for gold | 43.00% | ~271 |
 | Intangible | 41.00% | ~258 |
-| I'm out of here for a while | 41.00% | ~258 |
+| I'm out of here for a while | 40.00% | ~252 |
 | In a mint condition | 37.00% | ~233 |
 | Licence to Kill | 34.00% | ~214 |
 | Pirates! | 34.00% | ~214 |
 | Collectionitis | 28.00% | ~176 |
-| Megalomania | 28.00% | ~176 |
+| Megalomania | 27.00% | ~170 |
 | Christening | 26.00% | ~164 |
-| Groundskeeper | 25.00% | ~157 |
+| Groundskeeper | 25.00% | ~158 |
 | Wholesale | 21.00% | ~132 |
 | Walk the plank | 20.00% | ~126 |
 | My precious! | 17.00% | ~107 |
 | Pearly gates | 16.00% | ~101 |
-| Conquistador | 12.00% | ~75 |
+| Conquistador | 12.00% | ~76 |
 | Panic buying | 11.00% | ~69 |
 | Just a scratch | 9.00% | ~57 |
 | All mine! | 9.00% | ~57 |
@@ -36,7 +36,7 @@ Number of Ratings: 53  (23.09.2022)
 | Panel of experts | 8.00% | ~50 |
 | Maker | 7.00% | ~44 |
 | Conglomerate | 6.00% | ~38 |
-| The Grande Bouffe | 5.00% | ~31 |
+| The Grande Bouffe | 5.00% | ~32 |
 | Buccaneer | 4.00% | ~25 |
 | Flying Dutchman | 4.00% | ~25 |
 | A true pirate! | 4.00% | ~25 |
@@ -57,8 +57,8 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 629 (Ranked 193)  
-Completed: 0 (0.00%) (Ranked 212)  
+Progressed: 630 (Ranked 193)  
+Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 619 | 0 |
 | 2023-06-07 | 622 | 0 |
 | 2023-06-08 | 628 | 0 |
-| 2023-06-09 | 629 | 0 |
+| 2023-06-09 | 630 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

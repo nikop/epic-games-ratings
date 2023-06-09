@@ -11,15 +11,15 @@
 | Deep in the Mounds | 67.00% | ~24 |
 | Smeltastic! | 36.00% | ~13 |
 | Locked Away | 33.00% | ~12 |
+| Deflect This! | 28.00% | ~10 |
 | A Little Renovating | 28.00% | ~10 |
-| Deflect This! | 25.00% | ~9 |
 | Just Some Improvements | 22.00% | ~8 |
 | It's a Sign! | 22.00% | ~8 |
 | A New Strategy | 19.00% | ~7 |
 | A Little Extra Love | 17.00% | ~6 |
+| Final Announcement | 17.00% | ~6 |
 | Isn't It Beautiful? | 14.00% | ~5 |
 | A Generous Leader | 14.00% | ~5 |
-| Final Announcement | 14.00% | ~5 |
 | A Terrible Way to Go | 14.00% | ~5 |
 | My Precious Gems! | 11.00% | ~4 |
 | Dr. Dreinstein III | 11.00% | ~4 |

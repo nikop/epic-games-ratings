@@ -6,9 +6,9 @@
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 142,
-  "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -534,9 +534,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2877,
+  "EOS_Progressed": 2878,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1724,6 +1724,11 @@
       "Time": "2023-06-09T19:05:44.4482654+00:00",
       "NumProgressed": 2877,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T20:06:29.2146171+00:00",
+      "NumProgressed": 2878,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1823,7 +1828,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1927,7 +1932,7 @@
       "Name": "Executioner",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "Kills_Exterminator",
@@ -1983,7 +1988,7 @@
       "Name": "An Ill Omen",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1999,7 +2004,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -2103,7 +2108,7 @@
       "Name": "A Foul Creche",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -2206,21 +2211,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2877,
+      "Progressed": 2878,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2877,
+      "Progressed": 2878,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-07T10:59:27.9467392+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:05:44.4482646+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:06:29.2146165+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:58:32.1113828+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:05:44.4483129+00:00"
+  "LastUpdate_Ratings": "2023-06-09T19:58:50.1912961+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:06:29.2146694+00:00"
 }

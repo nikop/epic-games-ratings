@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -330,9 +330,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2434,
+  "EOS_Progressed": 2435,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.94,
   "EosHistory": [
@@ -1200,6 +1200,11 @@
       "Time": "2023-06-09T18:02:28.6005274+00:00",
       "NumProgressed": 2434,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-06-09T20:02:17.7905891+00:00",
+      "NumProgressed": 2435,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 14,
@@ -1227,7 +1232,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_CLIMBER",
@@ -1275,7 +1280,7 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -1299,7 +1304,7 @@
       "Name": "Shovel Night",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -1322,7 +1327,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2434,
+      "Progressed": 2435,
       "Completed": 96
     }
   ],
@@ -1330,8 +1335,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-05T22:00:26.3420461+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:02:16.8030403+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:02:17.7905884+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:48.6058965+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:59:56.0649865+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:02:16.8030536+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:00:34.1315367+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:02:17.7906084+00:00"
 }

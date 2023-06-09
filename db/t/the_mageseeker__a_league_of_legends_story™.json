@@ -2,20 +2,20 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 90,
+  "Ranking_Rating": 81,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 185,
+  "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.79,
+  "Rating": 4.8,
   "RatingHistory": [
     {
       "Time": "2023-04-18T18:57:53.9681459+00:00",
@@ -106,15 +106,21 @@
       "Rating": 4.79,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-09T19:57:43.8880981+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2303,
+  "EOS_Progressed": 2304,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2407,6 +2413,11 @@
       "Time": "2023-06-09T14:05:40.7000054+00:00",
       "NumProgressed": 2303,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T20:06:16.4465844+00:00",
+      "NumProgressed": 2304,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2442,7 +2453,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -2450,7 +2461,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -2474,7 +2485,7 @@
       "Name": "No more holding back",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -2482,7 +2493,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2490,7 +2501,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -2498,7 +2509,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2514,7 +2525,7 @@
       "Name": "Friendly fire",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -2562,7 +2573,7 @@
       "Name": "True power",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -2594,7 +2605,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2602,7 +2613,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2610,7 +2621,7 @@
       "Name": "Meltridge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -2634,7 +2645,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2690,7 +2701,7 @@
       "Name": "Terbisia",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -2698,7 +2709,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -2778,7 +2789,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -2786,7 +2797,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -2794,7 +2805,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2841,16 +2852,16 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2303,
+      "Progressed": 2304,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
-  "LastChanged": "2023-06-05T19:57:57.2340443+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:05:33.136394+00:00",
+  "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:06:16.4465836+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.5523883+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:57:36.9489616+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:05:33.1364392+00:00"
+  "LastUpdate_Ratings": "2023-06-09T19:57:43.8880986+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:06:16.4466342+00:00"
 }

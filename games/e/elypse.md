@@ -11,17 +11,17 @@
 | "Swoosh" | 57.00% | ~34 |
 | The light at the end of the tunnel | 55.00% | ~33 |
 | Splash! | 52.00% | ~31 |
-| Masochistic | 47.00% | ~28 |
+| Masochistic | 48.00% | ~29 |
 | Soft skin | 42.00% | ~25 |
+| Squid game | 33.00% | ~20 |
 | Sensitive soul | 33.00% | ~20 |
-| Squid game | 32.00% | ~19 |
-| Rock Solid | 27.00% | ~16 |
-| The beast within | 27.00% | ~16 |
+| Rock Solid | 28.00% | ~17 |
+| The beast within | 28.00% | ~17 |
+| It's getting dark | 28.00% | ~17 |
 | Rooftop | 27.00% | ~16 |
-| It's getting dark | 27.00% | ~16 |
+| Hard Rock | 27.00% | ~16 |
 | Homeless | 25.00% | ~15 |
 | Big badaboom! | 25.00% | ~15 |
-| Hard Rock | 25.00% | ~15 |
 | Bookworm | 22.00% | ~13 |
 | Full power | 20.00% | ~12 |
 | "Ah sh*t... Here we go again!" | 20.00% | ~12 |
@@ -40,7 +40,7 @@
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 60 (Ranked 299)  
-Completed: 0 (0.00%) (Ranked 212)  
+Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

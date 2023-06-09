@@ -6,9 +6,9 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 217,
-  "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 374,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -760,6 +760,11 @@
       "Time": "2023-06-09T02:28:23.0431104+00:00",
       "NumProgressed": 373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T20:06:17.5306559+00:00",
+      "NumProgressed": 374,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -787,15 +792,15 @@
       "Name": "Architect of Fortunes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 160
+      "UsersEstimate": 165
     },
     {
       "ID": "female-conqueror",
@@ -835,15 +840,15 @@
       "Name": "Hokey-Pokey",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "play-at-night",
       "SetID": "bed33dd",
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 108
+      "UsersEstimate": 112
     },
     {
       "ID": "product-profit",
@@ -881,9 +886,9 @@
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "send-smuggling",
@@ -899,7 +904,7 @@
       "Name": "Pampered Life",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "upgrade-building",
@@ -907,7 +912,7 @@
       "Name": "Take-Off",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "use-submarine",
@@ -922,15 +927,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 374,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-06-09T19:05:34.0170123+00:00",
+  "LastChanged_Achievements": "2023-06-09T20:06:17.5306552+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:34.3322021+00:00",
-  "LastUpdate_Ratings": "2023-06-09T18:59:45.4694197+00:00",
-  "LastUpdate_Achievements": "2023-06-09T19:05:34.0170262+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:00:21.4346721+00:00",
+  "LastUpdate_Achievements": "2023-06-09T20:06:17.5306768+00:00"
 }
