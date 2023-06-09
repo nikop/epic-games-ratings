@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 50.00% |
-| 1 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 50.00% |
+| 2 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 40.00% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
@@ -15,17 +15,17 @@
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
-| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.26% |
-| 17 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 9.09% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 17 | [Without Escape](games/w/without_escape.md) | 9.09% |
-| 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
-| 20 | [Smelter](games/s/smelter.md) | 8.33% |
+| 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
+| 19 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 8.33% |
+| 19 | [Smelter](games/s/smelter.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.14% |
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.94% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.93% |
 | 27 | [Scorn](games/s/scorn.md) | 6.85% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 6.64% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -55,13 +55,13 @@
 | 53 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 53 | [Lamentum](games/l/lamentum.md) | 2.79% |
 | 55 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
-| 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 57 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.67% |
-| 58 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.56% |
-| 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 61 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
-| 62 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
+| 56 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.73% |
+| 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 58 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.67% |
+| 59 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.56% |
+| 60 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
+| 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 62 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
 | 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.22% |
 | 63 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.22% |
 | 65 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
@@ -71,9 +71,9 @@
 | 69 | [JARS](games/j/jars.md) | 1.92% |
 | 70 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 71 | [Sifu](games/s/sifu.md) | 1.80% |
-| 72 | [Poosh XL](games/p/poosh_xl.md) | 1.67% |
-| 73 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
-| 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.62% |
+| 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.74% |
+| 73 | [Poosh XL](games/p/poosh_xl.md) | 1.67% |
+| 74 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.66% |
 | 75 | [Somerville](games/s/somerville.md) | 1.59% |
 | 76 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
 | 77 | [Night Book](games/n/night_book.md) | 1.53% |
@@ -90,7 +90,7 @@
 | 86 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
 | 90 | [Late Shift](games/l/late_shift.md) | 0.99% |
-| 91 | [Five Dates](games/f/five_dates.md) | 0.96% |
+| 91 | [Five Dates](games/f/five_dates.md) | 0.95% |
 | 92 | [Sable](games/s/sable.md) | 0.94% |
 | 93 | [Hades](games/h/hades.md) | 0.89% |
 | 94 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
