@@ -523,33 +523,33 @@
 | 513 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 288 |
 | 513 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 119 | 308 |
 | 513 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 494 |
+| 513 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 282 | 231 |
 | 513 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 494 |
 | 513 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 0 | 494 |
 | 513 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.52 | 0 | 494 |
-| 527 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,602 | 112 |
-| 527 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 93 | 337 |
-| 527 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,095 | 74 |
-| 527 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 494 |
-| 527 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 95 | 333 |
-| 527 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 105 | 320 |
-| 527 | [Knockout City™](games/k/knockout_city™.md) | 4.51 | 0 | 494 |
-| 527 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 184 | 269 |
-| 527 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 1,215 | 125 |
-| 527 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 0 | 494 |
-| 527 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 282 | 231 |
-| 527 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 494 |
-| 527 | [Sable](games/s/sable.md) | 4.51 | 0 | 494 |
-| 527 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 494 |
-| 527 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 63 | 374 |
-| 527 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 154 | 286 |
-| 527 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 132 | 298 |
-| 527 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 0 | 494 |
+| 528 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,602 | 112 |
+| 528 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 93 | 337 |
+| 528 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,095 | 74 |
+| 528 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 494 |
+| 528 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 95 | 333 |
+| 528 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 105 | 320 |
+| 528 | [Knockout City™](games/k/knockout_city™.md) | 4.51 | 0 | 494 |
+| 528 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 184 | 269 |
+| 528 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 1,215 | 125 |
+| 528 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 0 | 494 |
+| 528 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 494 |
+| 528 | [Sable](games/s/sable.md) | 4.51 | 0 | 494 |
+| 528 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 494 |
+| 528 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 63 | 374 |
+| 528 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 154 | 286 |
+| 528 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 132 | 298 |
+| 528 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 0 | 494 |
 | 545 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 209 | 256 |
 | 545 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 494 |
 | 545 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 39 | 417 |
 | 545 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 89 | 342 |
 | 545 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 494 |
-| 545 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,683 | 13 |
+| 545 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,719 | 13 |
 | 545 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 494 |
 | 545 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,417 | 94 |
 | 545 | [Horace](games/h/horace.md) | 4.50 | 0 | 494 |
@@ -663,7 +663,7 @@
 | 655 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,134 | 128 |
 | 655 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 48 |
 | 655 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 239 |
-| 655 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 130 | 300 |
+| 655 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 131 | 299 |
 | 655 | [Tunche](games/t/tunche.md) | 4.42 | 0 | 494 |
 | 655 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,116 | 130 |
 | 667 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 494 |
@@ -894,7 +894,7 @@
 | 889 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 494 |
 | 893 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 0 | 494 |
 | 893 | [Pinball FX](games/p/pinball_fx.md) | 4.04 | 175 | 276 |
-| 893 | [Second Extinction™](games/s/second_extinction™.md) | 4.04 | 428 | 196 |
+| 893 | [Second Extinction™](games/s/second_extinction™.md) | 4.04 | 432 | 196 |
 | 896 | [Gravewood High](games/g/gravewood_high.md) | 4.03 | 0 | 494 |
 | 896 | [Lake](games/l/lake.md) | 4.03 | 0 | 494 |
 | 896 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 0 | 494 |
