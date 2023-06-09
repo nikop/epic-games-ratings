@@ -418,9 +418,9 @@
 | 408 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 494 |
 | 408 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 0 | 494 |
 | 408 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 74 | 357 |
-| 408 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,231 | 84 |
+| 408 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,234 | 84 |
 | 408 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.59 | 197 | 264 |
-| 408 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 280 | 232 |
+| 408 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 281 | 232 |
 | 408 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 695 | 156 |
 | 423 | [Among Us](games/a/among_us.md) | 4.58 | 2,448 | 93 |
 | 423 | [Aragami 2](games/a/aragami_2.md) | 4.58 | 0 | 494 |
@@ -463,7 +463,7 @@
 | 452 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 0 | 494 |
 | 452 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 429 |
 | 452 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 494 |
-| 452 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 141 | 291 |
+| 452 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 142 | 291 |
 | 452 | [Isonzo](games/i/isonzo.md) | 4.56 | 31 | 445 |
 | 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 494 |
 | 452 | [Minit](games/m/minit.md) | 4.56 | 0 | 494 |
@@ -876,7 +876,7 @@
 | 874 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 494 |
 | 875 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 494 |
 | 875 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 386 |
-| 875 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,359 | 96 |
+| 875 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,366 | 96 |
 | 875 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 494 |
 | 879 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 494 |
 | 879 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 494 |
@@ -905,7 +905,7 @@
 | 903 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 370 | 209 |
 | 903 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 494 |
 | 905 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 494 |
-| 905 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,182 | 100 |
+| 905 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,196 | 100 |
 | 905 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,614 | 67 |
 | 908 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 494 |
 | 909 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 404 |

@@ -24,7 +24,7 @@
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.04% |
 | 27 | [Scorn](games/s/scorn.md) | 6.86% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 6.67% |
@@ -34,7 +34,7 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.26% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.39% |
+| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.35% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.97% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
@@ -84,9 +84,9 @@
 | 82 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 83 | [Trifox](games/t/trifox.md) | 1.18% |
 | 84 | [Chorus](games/c/chorus.md) | 1.17% |
-| 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.13% |
-| 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
-| 86 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
+| 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.12% |
+| 85 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
+| 85 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 88 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
 | 89 | [Late Shift](games/l/late_shift.md) | 0.99% |
 | 90 | [Five Dates](games/f/five_dates.md) | 0.96% |
