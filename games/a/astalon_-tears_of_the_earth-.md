@@ -22,7 +22,7 @@
 | God of the Tower! | 24.00% | ~13 |
 | Relic Collector | 24.00% | ~13 |
 | Cartographer | 24.00% | ~13 |
-| Wizard Mastery | 19.00% | ~10 |
+| Wizard Mastery | 20.00% | ~11 |
 | Rogue Mastery | 17.00% | ~9 |
 | Fighter Mastery | 15.00% | ~8 |
 | Slay the Monster! | 15.00% | ~8 |

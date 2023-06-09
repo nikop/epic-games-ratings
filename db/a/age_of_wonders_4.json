@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 475,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 129,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-05-02T18:59:30.6410122+00:00",
@@ -202,15 +202,21 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-09T04:00:14.497741+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4433,
+  "EOS_Progressed": 4435,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3403,6 +3409,11 @@
       "Time": "2023-06-09T03:20:44.3834344+00:00",
       "NumProgressed": 4433,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T04:05:14.2966847+00:00",
+      "NumProgressed": 4435,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3414,7 +3425,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "10",
@@ -3430,7 +3441,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "12",
@@ -3454,7 +3465,7 @@
       "Name": "Full Ascension",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "15",
@@ -3462,7 +3473,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "16",
@@ -3486,7 +3497,7 @@
       "Name": "Arch Mage",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "19",
@@ -3502,7 +3513,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "20",
@@ -3526,7 +3537,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3369
+      "UsersEstimate": 3371
     },
     {
       "ID": "23",
@@ -3534,7 +3545,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3504
     },
     {
       "ID": "24",
@@ -3542,7 +3553,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3325
+      "UsersEstimate": 3326
     },
     {
       "ID": "25",
@@ -3550,7 +3561,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3238
     },
     {
       "ID": "26",
@@ -3558,7 +3569,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2704
+      "UsersEstimate": 2705
     },
     {
       "ID": "27",
@@ -3566,7 +3577,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "28",
@@ -3574,7 +3585,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3059
+      "UsersEstimate": 3060
     },
     {
       "ID": "29",
@@ -3582,7 +3593,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2484
     },
     {
       "ID": "3",
@@ -3606,7 +3617,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2883
     },
     {
       "ID": "32",
@@ -3622,7 +3633,7 @@
       "Name": "Seat of Power",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "34",
@@ -3654,7 +3665,7 @@
       "Name": "Against the Odds",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "38",
@@ -3765,22 +3776,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4433,
-      "Completed": 4433
+      "Progressed": 4435,
+      "Completed": 4435
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4433,
+      "Progressed": 4435,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-06-08T03:13:18.2450576+00:00",
-  "LastChanged_Achievements": "2023-06-09T03:20:44.3834334+00:00",
+  "LastChanged": "2023-06-09T04:00:14.4977407+00:00",
+  "LastChanged_Achievements": "2023-06-09T04:05:14.2966842+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:15:44.4145907+00:00",
-  "LastUpdate_Achievements": "2023-06-09T03:20:44.3834909+00:00"
+  "LastUpdate_Ratings": "2023-06-09T04:00:14.4977414+00:00",
+  "LastUpdate_Achievements": "2023-06-09T04:05:14.2967764+00:00"
 }

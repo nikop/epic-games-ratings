@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -534,9 +534,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2874,
+  "EOS_Progressed": 2875,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1709,6 +1709,11 @@
       "Time": "2023-06-09T03:22:16.0715563+00:00",
       "NumProgressed": 2874,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T04:07:22.2498203+00:00",
+      "NumProgressed": 2875,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1784,7 +1789,7 @@
       "Name": "Patron of Deimos",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Dominus",
@@ -1896,7 +1901,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1912,7 +1917,7 @@
       "Name": "Executioner",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "Kills_Exterminator",
@@ -1920,7 +1925,7 @@
       "Name": "Exterminator",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -1968,7 +1973,7 @@
       "Name": "An Ill Omen",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1992,7 +1997,7 @@
       "Name": "Nemesis Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -2000,7 +2005,7 @@
       "Name": "Gunmaster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "MasterOfTheForge",
@@ -2112,7 +2117,7 @@
       "Name": "Preservationist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -2120,7 +2125,7 @@
       "Name": "Engine Kill",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ReaperDefeated_Mortus",
@@ -2152,7 +2157,7 @@
       "Name": "Death Comes For All",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "SacristaCompleted",
@@ -2176,7 +2181,7 @@
       "Name": "Strategic Command",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "UnlockedAllStratagems",
@@ -2191,21 +2196,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2874,
+      "Progressed": 2875,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2874,
+      "Progressed": 2875,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-07T10:59:27.9467392+00:00",
-  "LastChanged_Achievements": "2023-06-09T03:22:16.0715553+00:00",
+  "LastChanged_Achievements": "2023-06-09T04:07:22.2498198+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:15:04.8798849+00:00",
-  "LastUpdate_Achievements": "2023-06-09T03:22:16.0716166+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:59:15.9964447+00:00",
+  "LastUpdate_Achievements": "2023-06-09T04:07:22.2498886+00:00"
 }

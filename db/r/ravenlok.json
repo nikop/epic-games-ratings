@@ -2413,9 +2413,9 @@
       "ID": "27",
       "SetID": "d0g98p",
       "Name": "Frog Facts!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 351
     },
     {
       "ID": "28",
@@ -2501,9 +2501,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 360
     },
     {
       "ID": "38",
@@ -2670,8 +2670,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-09T03:21:52.9512049+00:00",
+  "LastChanged_Achievements": "2023-06-09T04:06:51.3659678+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:14:01.1875605+00:00",
-  "LastUpdate_Achievements": "2023-06-09T03:21:52.9512611+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:57:43.2448719+00:00",
+  "LastUpdate_Achievements": "2023-06-09T04:06:51.3660403+00:00"
 }

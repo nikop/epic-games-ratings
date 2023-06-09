@@ -31,9 +31,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 48.00% | ~5,682 |
 | Developing Cities | 48.00% | ~5,682 |
 | Magnificent | 46.00% | ~5,445 |
+| Pyramids | 46.00% | ~5,445 |
 | Warrior | 45.00% | ~5,327 |
 | Strong Cities | 45.00% | ~5,327 |
-| Pyramids | 45.00% | ~5,327 |
 | Greek Paganism | 45.00% | ~5,327 |
 | Ishtar Gate | 44.00% | ~5,208 |
 | Babylonian Paganism | 43.00% | ~5,090 |

@@ -1300,9 +1300,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 25
     },
     {
       "ID": "MapCompletion1",
@@ -1460,9 +1460,9 @@
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "TemporalPulseKills1",
@@ -1539,8 +1539,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-09T03:21:26.5089654+00:00",
+  "LastChanged_Achievements": "2023-06-09T04:06:14.7487405+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:15:42.2521288+00:00",
-  "LastUpdate_Achievements": "2023-06-09T03:21:26.5090176+00:00"
+  "LastUpdate_Ratings": "2023-06-09T04:00:11.1955884+00:00",
+  "LastUpdate_Achievements": "2023-06-09T04:06:14.7488123+00:00"
 }

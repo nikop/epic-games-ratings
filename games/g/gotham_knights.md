@@ -1,11 +1,11 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 847)  
+Rating: 4.17 (Ranked 848)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 4.00% | ~2,566 |
+| First Step Into the Knight | 4.00% | ~2,567 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,925 |
 | Loose Ends | 3.00% | ~1,925 |
 | The Batman Family | 2.00% | ~1,283 |
@@ -44,7 +44,7 @@ Rating: 4.17 (Ranked 847)
 | A Worthy Successor | 0.50% | ~321 |
 | Dressed to Impress | 0.40% | ~257 |
 | A Momentum Occasion | 0.40% | ~257 |
-| Bat Out of Hell | 0.30% | ~192 |
+| Bat Out of Hell | 0.30% | ~193 |
 | Hammer and Icicle | 0.20% | ~69 |
 | Renewable Enemy Source | 0.20% | ~69 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~69 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 847)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,161 (Ranked 71)  
+Progressed: 64,168 (Ranked 71)  
 Completed: 94 (0.15%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 94 (0.15%) (Ranked 155)
 | 2023-06-06 | 63,871 | 94 |
 | 2023-06-07 | 63,990 | 94 |
 | 2023-06-08 | 64,117 | 94 |
-| 2023-06-09 | 64,161 | 94 |
+| 2023-06-09 | 64,168 | 94 |
 ## Awards
 Max (Great Boss Battles): 2,313  (Ranked 97)  
 Sum: 3,820 (Ranked 137)  

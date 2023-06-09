@@ -1,37 +1,37 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.77 (Ranked 929)  
+Rating: 3.77 (Ranked 930)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~364,811 |
-| Handy | 40.00% | ~192,006 |
-| Cold Caller | 38.00% | ~182,406 |
-| A Bit On The Side | 26.00% | ~124,804 |
-| Backdoor | 24.00% | ~115,204 |
-| Rank Amateur | 20.00% | ~96,003 |
-| Three Way | 18.00% | ~86,403 |
-| Deadly Assassin | 15.00% | ~72,002 |
-| Gutshot | 13.00% | ~62,402 |
-| Risk It For A Biscuit | 13.00% | ~62,402 |
-| Showoff | 12.00% | ~57,602 |
-| W.H.I.P. | 11.00% | ~52,802 |
-| Bet Bet Bet | 8.00% | ~38,401 |
-| Blindman's Bluff | 8.00% | ~38,401 |
-| Poker Joker | 8.00% | ~38,401 |
-| Dog Eat Dog | 7.00% | ~33,601 |
-| Never Give Up | 7.00% | ~33,601 |
-| Quack Quack | 7.00% | ~33,601 |
-| Total Knock Out | 7.00% | ~33,601 |
-| The Bigger They Are | 6.00% | ~28,801 |
-| Give Your Regards To Broadway | 5.00% | ~24,001 |
-| Check Yourself | 4.00% | ~19,201 |
-| In The Gang | 3.00% | ~14,400 |
-| Moneymaker | 3.00% | ~14,400 |
-| On The Button | 3.00% | ~14,400 |
-| Before You Wreck Yourself | 2.00% | ~9,600 |
-| Keep Your Heads Up | 2.00% | ~9,600 |
+| Pro Creation | 76.00% | ~364,829 |
+| Handy | 40.00% | ~192,015 |
+| Cold Caller | 38.00% | ~182,414 |
+| A Bit On The Side | 26.00% | ~124,810 |
+| Backdoor | 24.00% | ~115,209 |
+| Rank Amateur | 20.00% | ~96,008 |
+| Three Way | 18.00% | ~86,407 |
+| Deadly Assassin | 15.00% | ~72,006 |
+| Gutshot | 13.00% | ~62,405 |
+| Risk It For A Biscuit | 13.00% | ~62,405 |
+| Showoff | 12.00% | ~57,605 |
+| W.H.I.P. | 11.00% | ~52,804 |
+| Bet Bet Bet | 8.00% | ~38,403 |
+| Blindman's Bluff | 8.00% | ~38,403 |
+| Poker Joker | 8.00% | ~38,403 |
+| Dog Eat Dog | 7.00% | ~33,603 |
+| Never Give Up | 7.00% | ~33,603 |
+| Quack Quack | 7.00% | ~33,603 |
+| Total Knock Out | 7.00% | ~33,603 |
+| The Bigger They Are | 6.00% | ~28,802 |
+| Give Your Regards To Broadway | 5.00% | ~24,002 |
+| Check Yourself | 4.00% | ~19,202 |
+| In The Gang | 3.00% | ~14,401 |
+| Moneymaker | 3.00% | ~14,401 |
+| On The Button | 3.00% | ~14,401 |
+| Before You Wreck Yourself | 2.00% | ~9,601 |
+| Keep Your Heads Up | 2.00% | ~9,601 |
 | Holding Your Own | 1.00% | ~4,800 |
 | Bluffing Eh? | 0.90% | ~4,320 |
 | Go For It | 0.80% | ~3,840 |
@@ -51,7 +51,7 @@ Rating: 3.77 (Ranked 929)
 | Rounder | 0.10% | ~480 |
 | Top Dog | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480,015 (Ranked 30)  
+Progressed: 480,038 (Ranked 30)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 478,095 | 0 |
 | 2023-06-07 | 478,891 | 0 |
 | 2023-06-08 | 479,859 | 0 |
-| 2023-06-09 | 480,015 | 0 |
+| 2023-06-09 | 480,038 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -48,6 +48,7 @@
 | I Have The High Ground | 1.00% | ~1 |
 | Early Bird | 1.00% | ~1 |
 | Pro Pyromancer | 1.00% | ~1 |
+| Pro Carrocketeer | 1.00% | ~1 |
 | Berry Loved | 1.00% | ~0 |
 | Carrocket From Above | 1.00% | ~0 |
 | Death From Above | 1.00% | ~0 |
@@ -66,7 +67,6 @@
 | Pro Pineappler | 0.00% | ~0 |
 | Pro Moolotover | 0.00% | ~0 |
 | Pro Peavolver | 0.00% | ~0 |
-| Pro Carrocketeer | 0.00% | ~0 |
 | Pro Shotgunner | 0.00% | ~0 |
 | Pro Digger | 0.00% | ~0 |
 | Pro Sniperagus | 0.00% | ~0 |

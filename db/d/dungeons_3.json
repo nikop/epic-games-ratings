@@ -2176,9 +2176,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 19520,
+  "EOS_Progressed": 19521,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 945,
+  "EOS_NewPlayers": 941,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -7221,6 +7221,11 @@
       "Time": "2023-06-09T03:20:49.4096775+00:00",
       "NumProgressed": 19520,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-06-09T04:05:21.4686191+00:00",
+      "NumProgressed": 19521,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 60,
@@ -7240,7 +7245,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 9174
+      "UsersEstimate": 9175
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -7320,7 +7325,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 7027
+      "UsersEstimate": 7028
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -7344,7 +7349,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 9955
+      "UsersEstimate": 9956
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -7368,7 +7373,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 6246
+      "UsersEstimate": 6247
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -7448,7 +7453,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 8198
+      "UsersEstimate": 8199
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -7456,7 +7461,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 7222
+      "UsersEstimate": 7223
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -7464,7 +7469,7 @@
       "Name": "Rusty Steel",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 8198
+      "UsersEstimate": 8199
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -7512,7 +7517,7 @@
       "Name": "Destroy the thing",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -7584,7 +7589,7 @@
       "Name": "The Force disturbed",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -7616,7 +7621,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 8979
+      "UsersEstimate": 8980
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -7632,7 +7637,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 13664
+      "UsersEstimate": 13665
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -7680,7 +7685,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 6051
+      "UsersEstimate": 6052
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -7704,22 +7709,22 @@
       "Name": "Tide Master",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 19520,
+      "Progressed": 19521,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-06-08T17:59:29.6286092+00:00",
-  "LastChanged_Achievements": "2023-06-09T03:20:49.4096771+00:00",
+  "LastChanged_Achievements": "2023-06-09T04:05:21.4686185+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:28.7782542+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:15:29.9935891+00:00",
-  "LastUpdate_Achievements": "2023-06-09T03:20:49.4097649+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:59:52.7800202+00:00",
+  "LastUpdate_Achievements": "2023-06-09T04:05:21.468717+00:00"
 }

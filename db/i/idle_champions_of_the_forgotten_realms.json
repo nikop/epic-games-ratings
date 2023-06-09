@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 887,
+  "Ranking_Rating": 888,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 64,
@@ -4168,9 +4168,9 @@
       "Count": 3247
     }
   ],
-  "EOS_Progressed": 90183,
+  "EOS_Progressed": 90187,
   "EOS_Completed": 1924,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9213,6 +9213,11 @@
       "Time": "2023-06-09T03:22:22.7237096+00:00",
       "NumProgressed": 90183,
       "NumCompleted": 1924
+    },
+    {
+      "Time": "2023-06-09T04:07:29.4494988+00:00",
+      "NumProgressed": 90187,
+      "NumCompleted": 1924
     }
   ],
   "TotalAchievements": 493,
@@ -9230,9 +9235,9 @@
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 361
     },
     {
       "ID": "objective_completed_100",
@@ -9886,9 +9891,9 @@
       "ID": "objective_completed_116",
       "SetID": "cc37lbc",
       "Name": "On the Hunt",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_1160",
@@ -13167,21 +13172,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56457,
+      "Progressed": 56461,
       "Completed": 2778
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90183,
+      "Progressed": 90187,
       "Completed": 1924
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-09T02:20:13.873509+00:00",
-  "LastChanged_Achievements": "2023-06-09T03:22:22.7237092+00:00",
+  "LastChanged_Achievements": "2023-06-09T04:07:29.4494983+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:14:32.8570699+00:00",
-  "LastUpdate_Achievements": "2023-06-09T03:22:22.7260928+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:58:30.1740522+00:00",
+  "LastUpdate_Achievements": "2023-06-09T04:07:29.4526254+00:00"
 }

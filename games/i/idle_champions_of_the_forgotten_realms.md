@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 887)  
+Rating: 4.06 (Ranked 888)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.50% | ~451 |
 | Pure Energy | 0.50% | ~451 |
 | Quick or Quack | 0.50% | ~282 |
+| Maddening | 0.40% | ~361 |
 | Owlbear Necessities | 0.40% | ~226 |
 | Best Thay Ever | 0.40% | ~226 |
 | Vecna Out! | 0.40% | ~226 |
@@ -36,7 +37,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.40% | ~361 |
 | The Contagious Curse | 0.40% | ~361 |
 | Escort to Waterdeep | 0.40% | ~361 |
-| Maddening | 0.30% | ~271 |
 | The Silken Swamp | 0.30% | ~271 |
 | Supply Run | 0.30% | ~271 |
 | Keep Your Distance | 0.30% | ~169 |
@@ -107,6 +107,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Invisible Wizards of Thay | 0.20% | ~113 |
 | Heavy Burden | 0.20% | ~180 |
 | Seeds of Destruction | 0.20% | ~113 |
+| On the Hunt | 0.20% | ~180 |
 | Vecna Lives! | 0.20% | ~113 |
 | Overwhelmed with Knowledge | 0.20% | ~113 |
 | A Demi-god's Defender | 0.20% | ~113 |
@@ -300,7 +301,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Speeds of Destruction | 0.10% | ~56 |
 | The Evacuation of Waterdeep | 0.10% | ~56 |
 | Flapjacks and Waffles | 0.10% | ~56 |
-| On the Hunt | 0.10% | ~90 |
 | Clowning Around | 0.10% | ~56 |
 | A Whale of a Time | 0.10% | ~56 |
 | Struggling Toward Omu | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,183 (Ranked 64)  
+Progressed: 90,187 (Ranked 64)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,7 +550,7 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
-| 2023-06-09 | 90,183 | 1,924 |
+| 2023-06-09 | 90,187 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
 Sum: 30,054 (Ranked 37)  

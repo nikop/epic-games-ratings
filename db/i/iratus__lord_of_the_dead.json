@@ -1984,9 +1984,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 31521,
+  "EOS_Progressed": 31522,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 832,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7074,6 +7074,11 @@
       "Time": "2023-06-09T03:22:18.0199102+00:00",
       "NumProgressed": 31521,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-09T04:07:24.4950854+00:00",
+      "NumProgressed": 31522,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 75,
@@ -7117,7 +7122,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 17967
+      "UsersEstimate": 17968
     },
     {
       "ID": "achievements_14",
@@ -7125,7 +7130,7 @@
       "Name": "Wild Hunger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5043
+      "UsersEstimate": 5044
     },
     {
       "ID": "achievements_15",
@@ -7141,7 +7146,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 11032
+      "UsersEstimate": 11033
     },
     {
       "ID": "achievements_19",
@@ -7221,7 +7226,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 12293
+      "UsersEstimate": 12294
     },
     {
       "ID": "achievements_28",
@@ -7325,7 +7330,7 @@
       "Name": "Rage Concentrated",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5043
+      "UsersEstimate": 5044
     },
     {
       "ID": "achievements_4",
@@ -7389,7 +7394,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 26793
+      "UsersEstimate": 26794
     },
     {
       "ID": "achievements_47",
@@ -7437,7 +7442,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12608
+      "UsersEstimate": 12609
     },
     {
       "ID": "achievements_52",
@@ -7453,7 +7458,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 17967
+      "UsersEstimate": 17968
     },
     {
       "ID": "achievements_54",
@@ -7533,7 +7538,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 8195
+      "UsersEstimate": 8196
     },
     {
       "ID": "achievements_64",
@@ -7565,7 +7570,7 @@
       "Name": "Nightmare of the Humanity - III",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "achievements_68",
@@ -7661,7 +7666,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 23010
+      "UsersEstimate": 23011
     },
     {
       "ID": "achievements_8",
@@ -7669,7 +7674,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 9456
+      "UsersEstimate": 9457
     },
     {
       "ID": "achievements_9",
@@ -7684,15 +7689,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 31521,
+      "Progressed": 31522,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-06-06T18:00:10.4648671+00:00",
-  "LastChanged_Achievements": "2023-06-09T03:22:18.0199096+00:00",
+  "LastChanged_Achievements": "2023-06-09T04:07:24.4950849+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:06.9000696+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:15:12.1915736+00:00",
-  "LastUpdate_Achievements": "2023-06-09T03:22:18.0200362+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:59:27.1107248+00:00",
+  "LastUpdate_Achievements": "2023-06-09T04:07:24.4952667+00:00"
 }

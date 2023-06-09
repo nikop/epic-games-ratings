@@ -6,21 +6,21 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 37.00% | ~1,063 |
+| Executioner | 37.00% | ~1,064 |
 | Look Over There! | 31.00% | ~891 |
 | Watch Where You Step... | 31.00% | ~891 |
 | Not So Fast... | 30.00% | ~862 |
-| An Ill Omen | 29.00% | ~833 |
+| An Ill Omen | 29.00% | ~834 |
 | Purging Spree | 23.00% | ~661 |
-| Blood for the Blood God! | 18.00% | ~517 |
+| Blood for the Blood God! | 18.00% | ~518 |
 | Friendly Fire | 16.00% | ~460 |
 | Surgical Excision | 15.00% | ~431 |
 | Bloodless | 15.00% | ~431 |
 | Honoured Battle-Brother | 11.00% | ~316 |
 | The Emperor Protects | 11.00% | ~316 |
 | A Foul Creche | 11.00% | ~316 |
-| Nemesis Master | 10.00% | ~287 |
-| Gunmaster | 10.00% | ~287 |
+| Nemesis Master | 10.00% | ~288 |
+| Gunmaster | 10.00% | ~288 |
 | Efficient Killer | 8.00% | ~230 |
 | Just a Scratch | 8.00% | ~230 |
 | Opportunist | 7.00% | ~201 |
@@ -33,11 +33,11 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 3.00% | ~86 |
 | Junk Banishment | 3.00% | ~86 |
 | Tactical Flexibility | 3.00% | ~86 |
-| Patron of Deimos | 2.00% | ~57 |
-| Exterminator | 2.00% | ~57 |
-| Preservationist | 2.00% | ~57 |
-| Engine Kill | 2.00% | ~57 |
-| Death Comes For All | 2.00% | ~57 |
+| Patron of Deimos | 2.00% | ~58 |
+| Exterminator | 2.00% | ~58 |
+| Preservationist | 2.00% | ~58 |
+| Engine Kill | 2.00% | ~58 |
+| Death Comes For All | 2.00% | ~58 |
 | Clean Slate | 1.00% | ~29 |
 | Fleetmaster | 1.00% | ~29 |
 | For the Machine God | 1.00% | ~29 |
@@ -49,7 +49,7 @@ Number of Ratings: 371  (23.09.2022)
 | True Mastery | 0.60% | ~17 |
 | The Flesh is Weak | 0.50% | ~14 |
 | Warp Flickers | 0.50% | ~14 |
-| Strategic Command | 0.40% | ~11 |
+| Strategic Command | 0.40% | ~12 |
 | Blood and Iron | 0.30% | ~9 |
 | Crisis Management | 0.20% | ~6 |
 | Grand Master | 0.20% | ~6 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,874 (Ranked 142)  
+Progressed: 2,875 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 2,864 | 0 |
 | 2023-06-07 | 2,869 | 0 |
 | 2023-06-08 | 2,873 | 0 |
-| 2023-06-09 | 2,874 | 0 |
+| 2023-06-09 | 2,875 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 256)  
 Sum: 421 (Ranked 299)  

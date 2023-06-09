@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -478,9 +478,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 250688,
+  "EOS_Progressed": 250689,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5408,6 +5408,11 @@
       "Time": "2023-06-09T03:19:29.1191436+00:00",
       "NumProgressed": 250688,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T04:03:43.4990484+00:00",
+      "NumProgressed": 250689,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -5467,7 +5472,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77713
+      "UsersEstimate": 77714
     },
     {
       "ID": "BackHomeNTimes",
@@ -5707,7 +5712,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55151
+      "UsersEstimate": 55152
     },
     {
       "ID": "KillOthers2",
@@ -5866,7 +5871,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 250688,
+      "Progressed": 250689,
       "Completed": 1
     }
   ],
@@ -5874,8 +5879,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-07T19:01:29.3487318+00:00",
-  "LastChanged_Achievements": "2023-06-09T03:19:29.1191427+00:00",
+  "LastChanged_Achievements": "2023-06-09T04:03:43.4990478+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.3196281+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:16:24.6262001+00:00",
-  "LastUpdate_Achievements": "2023-06-09T03:19:29.1192119+00:00"
+  "LastUpdate_Ratings": "2023-06-09T04:01:14.2264096+00:00",
+  "LastUpdate_Achievements": "2023-06-09T04:03:43.4991863+00:00"
 }

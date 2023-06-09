@@ -2,7 +2,7 @@
   "ID": "4acc3c00b76e48dca196601dfe1940fc",
   "Name": "Gripper",
   "ProductSlug": "gripper-a6534b",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 93,
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43,
+  "EOS_Progressed": 44,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
@@ -148,6 +148,11 @@
       "Time": "2023-06-09T02:28:09.1692348+00:00",
       "NumProgressed": 43,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T04:06:53.4872088+00:00",
+      "NumProgressed": 44,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -245,7 +250,7 @@
       "ID": "ach_quests_shock",
       "SetID": "7flpkel",
       "Name": "Total Shock",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -261,7 +266,7 @@
       "ID": "ach_rip_parts_shock",
       "SetID": "7flpkel",
       "Name": "Robolimb Ripper",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -285,7 +290,7 @@
       "ID": "ach_skin_changer",
       "SetID": "7flpkel",
       "Name": "Skinner",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -397,7 +402,7 @@
       "ID": "ach_win_depression",
       "SetID": "7flpkel",
       "Name": "Deal with Depression",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -405,7 +410,7 @@
       "ID": "ach_win_shock",
       "SetID": "7flpkel",
       "Name": "Deal with Shock",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -438,7 +443,7 @@
     {
       "ID": "7flpkel",
       "IsBase": true,
-      "Progressed": 43,
+      "Progressed": 44,
       "Completed": 0
     }
   ],
@@ -446,8 +451,8 @@
   "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00",
   "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
-  "LastChanged_Achievements": "2023-06-09T03:21:54.5691798+00:00",
+  "LastChanged_Achievements": "2023-06-09T04:06:53.4872084+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:19.299645+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:14:36.5665142+00:00",
-  "LastUpdate_Achievements": "2023-06-09T03:21:54.5692079+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:58:35.4641577+00:00",
+  "LastUpdate_Achievements": "2023-06-09T04:06:53.4872383+00:00"
 }

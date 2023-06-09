@@ -218,9 +218,9 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -290,9 +290,9 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 34,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -394,9 +394,9 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "bad_ending",
@@ -442,9 +442,9 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "git_gud?",
@@ -531,8 +531,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-06-09T03:21:58.1921948+00:00",
+  "LastChanged_Achievements": "2023-06-09T04:06:58.4983907+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:20.1347743+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:13:54.2178064+00:00",
-  "LastUpdate_Achievements": "2023-06-09T03:21:58.192227+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:57:32.8169552+00:00",
+  "LastUpdate_Achievements": "2023-06-09T04:06:58.4984255+00:00"
 }

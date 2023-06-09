@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~22,195 |
+| The Sort Who Makes an Entrance | 8.00% | ~22,196 |
 | Grappling with a Graphorn | 7.00% | ~19,421 |
 | The One Who Mastered Memories | 7.00% | ~19,421 |
 | The Hallowed Hero | 7.00% | ~19,421 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.40% | ~1,110 |
 | Collector's Edition | 0.20% | ~555 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277,442 (Ranked 40)  
+Progressed: 277,449 (Ranked 40)  
 Completed: 391 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 391 (0.14%) (Ranked 156)
 | 2023-06-06 | 276,816 | 389 |
 | 2023-06-07 | 277,097 | 390 |
 | 2023-06-08 | 277,379 | 391 |
-| 2023-06-09 | 277,442 | 391 |
+| 2023-06-09 | 277,449 | 391 |
 ## Awards
 Max (Character Customization): 19,738  (Ranked 18)  
 Sum: 36,520 (Ranked 32)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -572,9 +572,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14785,
+  "EOS_Progressed": 14787,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3242,6 +3242,11 @@
       "Time": "2023-06-09T03:20:25.8931879+00:00",
       "NumProgressed": 14785,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-09T04:04:48.0169123+00:00",
+      "NumProgressed": 14787,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3293,7 +3298,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -3485,7 +3490,7 @@
       "Name": "Desperate Times",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3525,7 +3530,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3533,7 +3538,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3572,13 +3577,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14785,
+      "Progressed": 14787,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2711,
+      "Progressed": 2713,
       "Completed": 29
     }
   ],
@@ -3586,8 +3591,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-08T19:57:51.4696734+00:00",
-  "LastChanged_Achievements": "2023-06-09T03:20:25.8931874+00:00",
+  "LastChanged_Achievements": "2023-06-09T04:04:48.0169118+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:14:24.3520279+00:00",
-  "LastUpdate_Achievements": "2023-06-09T03:20:25.8932388+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:58:17.7877451+00:00",
+  "LastUpdate_Achievements": "2023-06-09T04:04:48.0169728+00:00"
 }

@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | The Steel Shadow | 4.00% | ~25 |
 | Treasure Trove | 4.00% | ~25 |
+| Make Up For Lost Time | 4.00% | ~25 |
 | Cartographer | 4.00% | ~25 |
 | Time Heals All Wounds | 4.00% | ~25 |
 | Immaculate Aim | 4.00% | ~25 |
@@ -19,7 +20,6 @@
 | Whiz Kid | 3.00% | ~19 |
 | Rail Rat | 3.00% | ~19 |
 | The Loose Cannon | 3.00% | ~19 |
-| Make Up For Lost Time | 3.00% | ~19 |
 | Time Flies | 3.00% | ~19 |
 | The Harder They Fall | 3.00% | ~19 |
 | No, Thanks! | 3.00% | ~19 |
@@ -38,6 +38,7 @@
 | Factorywood Explorer | 2.00% | ~13 |
 | Fairgrounds Explorer | 2.00% | ~13 |
 | Honest Mistake | 2.00% | ~13 |
+| Syron for Hope | 2.00% | ~13 |
 | Theater Explorer | 2.00% | ~13 |
 | Immaculate Aim | 2.00% | ~13 |
 | Ask Questions Later | 2.00% | ~13 |
@@ -46,7 +47,6 @@
 | Entresol Explorer | 1.00% | ~6 |
 | Golem Hunter | 1.00% | ~6 |
 | Rungs Was Right | 1.00% | ~6 |
-| Syron for Hope | 1.00% | ~6 |
 | Hexlock for Protection | 0.60% | ~4 |
 | Fitting In | 0.60% | ~4 |
 | Clovemary for Remembering | 0.50% | ~3 |

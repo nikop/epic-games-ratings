@@ -1,13 +1,13 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.82 (Ranked 924)  
+Rating: 3.82 (Ranked 925)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~14,808 |
+| Eeligally Ambitious | 95.00% | ~14,809 |
 | No Half Measures | 88.00% | ~13,717 |
-| Personal Matter | 87.00% | ~13,561 |
+| Personal Matter | 87.00% | ~13,562 |
 | But You Have Heard of Me | 72.00% | ~11,223 |
 | Double the Barrels, double the Fun | 55.00% | ~8,573 |
 | Pimp My Glide | 47.00% | ~7,326 |
@@ -16,7 +16,7 @@ Rating: 3.82 (Ranked 924)
 | Make It Rain | 23.00% | ~3,585 |
 | Curse of the Seven Seas | 22.00% | ~3,429 |
 | Head First | 15.00% | ~2,338 |
-| To the World's End | 12.00% | ~1,870 |
+| To the World's End | 12.00% | ~1,871 |
 | Table for Six | 11.00% | ~1,715 |
 | Sharing Is Caring | 10.00% | ~1,559 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,247 |
@@ -32,7 +32,7 @@ Rating: 3.82 (Ranked 924)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,587 (Ranked 100)  
+Progressed: 15,588 (Ranked 100)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 15,553 | 0 |
 | 2023-06-07 | 15,569 | 0 |
 | 2023-06-08 | 15,585 | 0 |
-| 2023-06-09 | 15,587 | 0 |
+| 2023-06-09 | 15,588 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

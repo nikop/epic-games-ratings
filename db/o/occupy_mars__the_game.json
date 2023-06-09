@@ -2,12 +2,12 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 918,
+  "Ranking_Rating": 919,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1164,
+  "EOS_Progressed": 1165,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1662,6 +1662,11 @@
       "Time": "2023-06-09T02:26:00.9108508+00:00",
       "NumProgressed": 1164,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T04:04:29.9797399+00:00",
+      "NumProgressed": 1165,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1793,7 +1798,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1865,7 +1870,7 @@
       "Name": "Gardener",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -1897,7 +1902,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -1921,7 +1926,7 @@
       "Name": "Miner",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -1929,7 +1934,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -1945,7 +1950,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -2056,7 +2061,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1164,
+      "Progressed": 1165,
       "Completed": 0
     }
   ],
@@ -2064,8 +2069,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-08T18:57:45.1074866+00:00",
-  "LastChanged_Achievements": "2023-06-09T03:20:12.7366214+00:00",
+  "LastChanged_Achievements": "2023-06-09T04:04:29.9797394+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:14:00.2854093+00:00",
-  "LastUpdate_Achievements": "2023-06-09T03:20:12.7366723+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:57:42.0666115+00:00",
+  "LastUpdate_Achievements": "2023-06-09T04:04:29.9798115+00:00"
 }
