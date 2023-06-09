@@ -6,50 +6,50 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 29.00% | ~15,454 |
-| Let There Be Light | 23.00% | ~12,256 |
-| Float Like a Butterfly | 22.00% | ~11,723 |
-| Nordic Walking | 18.00% | ~9,592 |
-| Bright Falls' Finest | 17.00% | ~9,059 |
-| Under a Thin Layer of Skin | 15.00% | ~7,993 |
-| Park Ranger | 12.00% | ~6,395 |
-| Back! Back, I Say! | 12.00% | ~6,395 |
-| Finders Keepers | 12.00% | ~6,395 |
-| Paging Mr. Wake | 12.00% | ~6,395 |
-| They're Heeeeeere! | 10.00% | ~5,329 |
-| Sound and Fury | 10.00% | ~5,329 |
-| Missed by a Mile | 10.00% | ~5,329 |
-| Damn Good Cup of Coffee | 10.00% | ~5,329 |
-| Heavy Metal | 9.00% | ~4,796 |
-| Iron Horse | 9.00% | ~4,796 |
-| Wheels Within Wheels | 9.00% | ~4,796 |
-| The Six-Gun Scribe | 9.00% | ~4,796 |
-| Collateral Carnage | 9.00% | ~4,796 |
-| Come One, Come All | 9.00% | ~4,796 |
-| Perchance to Dream | 8.00% | ~4,263 |
-| It's Not Just a Typewriter Brand | 8.00% | ~4,263 |
-| Thunder and Lightning | 8.00% | ~4,263 |
-| Two For the Price of One | 8.00% | ~4,263 |
-| A Friend in Need | 8.00% | ~1,340 |
-| Gatekeeper | 7.00% | ~3,730 |
-| The Lady of the Light | 7.00% | ~3,730 |
-| Energized! | 7.00% | ~3,730 |
-| What Light Through Yonder Window | 6.00% | ~3,197 |
-| Right of Way | 6.00% | ~3,197 |
-| A Friend Indeed | 6.00% | ~1,005 |
-| Tornado Wrangler | 5.00% | ~2,664 |
-| Departure | 5.00% | ~2,664 |
-| Ding! | 5.00% | ~838 |
-| Drink 'Em Both Up | 4.00% | ~2,132 |
-| Hardboiled Writer | 4.00% | ~2,132 |
+| Follow the Light | 29.00% | ~15,462 |
+| Let There Be Light | 23.00% | ~12,263 |
+| Float Like a Butterfly | 22.00% | ~11,730 |
+| Nordic Walking | 18.00% | ~9,597 |
+| Bright Falls' Finest | 17.00% | ~9,064 |
+| Under a Thin Layer of Skin | 15.00% | ~7,997 |
+| Park Ranger | 12.00% | ~6,398 |
+| Back! Back, I Say! | 12.00% | ~6,398 |
+| Finders Keepers | 12.00% | ~6,398 |
+| Paging Mr. Wake | 12.00% | ~6,398 |
+| Wheels Within Wheels | 10.00% | ~5,332 |
+| They're Heeeeeere! | 10.00% | ~5,332 |
+| Sound and Fury | 10.00% | ~5,332 |
+| Missed by a Mile | 10.00% | ~5,332 |
+| Damn Good Cup of Coffee | 10.00% | ~5,332 |
+| Heavy Metal | 9.00% | ~4,798 |
+| Iron Horse | 9.00% | ~4,798 |
+| The Six-Gun Scribe | 9.00% | ~4,798 |
+| Collateral Carnage | 9.00% | ~4,798 |
+| Come One, Come All | 9.00% | ~4,798 |
+| Perchance to Dream | 8.00% | ~4,265 |
+| It's Not Just a Typewriter Brand | 8.00% | ~4,265 |
+| Thunder and Lightning | 8.00% | ~4,265 |
+| Two For the Price of One | 8.00% | ~4,265 |
+| A Friend in Need | 8.00% | ~1,343 |
+| Gatekeeper | 7.00% | ~3,732 |
+| The Lady of the Light | 7.00% | ~3,732 |
+| Energized! | 7.00% | ~3,732 |
+| What Light Through Yonder Window | 6.00% | ~3,199 |
+| Right of Way | 6.00% | ~3,199 |
+| A Friend Indeed | 6.00% | ~1,007 |
+| Tornado Wrangler | 5.00% | ~2,666 |
+| Departure | 5.00% | ~2,666 |
+| Ding! | 5.00% | ~839 |
+| Drink 'Em Both Up | 4.00% | ~2,133 |
+| Hardboiled Writer | 4.00% | ~2,133 |
 | Boob Tube | 3.00% | ~1,599 |
 | Children of the Elder God | 3.00% | ~1,599 |
 | If It Flies, It Burns | 3.00% | ~1,599 |
 | KBF-FM | 3.00% | ~1,599 |
-| Kill Your Darlings | 3.00% | ~503 |
-| Heartbreaker | 3.00% | ~503 |
+| Kill Your Darlings | 3.00% | ~504 |
+| Heartbreaker | 3.00% | ~504 |
 | Carny | 2.00% | ~1,066 |
-| Iron Will | 2.00% | ~335 |
+| Iron Will | 2.00% | ~336 |
 | Medical Opinions | 1.00% | ~533 |
 | Taken Season | 1.00% | ~533 |
 | An Idyllic Small Town | 1.00% | ~533 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~53 |
 | No Punctuation | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,288 (Ranked 77)  
+Progressed: 53,316 (Ranked 77)  
 Completed: 50 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 50 (0.09%) (Ranked 170)
 | 2023-06-06 | 52,515 | 50 |
 | 2023-06-07 | 52,722 | 50 |
 | 2023-06-08 | 52,962 | 50 |
-| 2023-06-09 | 53,288 | 50 |
+| 2023-06-09 | 53,316 | 50 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

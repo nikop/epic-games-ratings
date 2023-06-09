@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | The Steel Shadow | 5.00% | ~32 |
 | Treasure Trove | 5.00% | ~32 |
+| Make Up For Lost Time | 5.00% | ~32 |
 | Cartographer | 5.00% | ~32 |
 | Time Heals All Wounds | 5.00% | ~32 |
 | Immaculate Aim | 5.00% | ~32 |
@@ -16,13 +17,13 @@
 | The Man Who Shattered Time | 4.00% | ~26 |
 | Rail Rat | 4.00% | ~26 |
 | The Loose Cannon | 4.00% | ~26 |
-| Make Up For Lost Time | 4.00% | ~26 |
 | Time Flies | 4.00% | ~26 |
 | No, Thanks! | 4.00% | ~26 |
 | Breaking Down Barriers | 4.00% | ~26 |
 | The Wicked Twins | 4.00% | ~26 |
 | The Prince in Heels | 4.00% | ~26 |
 | Golem Chaser | 4.00% | ~26 |
+| Fast Learner | 4.00% | ~26 |
 | The Brass Boss | 4.00% | ~26 |
 | The Family Fortune | 4.00% | ~26 |
 | Chaincrawler Explorer | 3.00% | ~19 |
@@ -31,7 +32,6 @@
 | Whiz Kid | 3.00% | ~19 |
 | The Harder They Fall | 3.00% | ~19 |
 | Honest Mistake | 3.00% | ~19 |
-| Fast Learner | 3.00% | ~19 |
 | Sump Explorer | 3.00% | ~19 |
 | Check Your Pulse | 3.00% | ~19 |
 | Immaculate Aim | 3.00% | ~19 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 640 (Ranked 192)  
+Progressed: 642 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,4 +80,4 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-06 | 615 | 0 |
 | 2023-06-07 | 624 | 0 |
 | 2023-06-08 | 633 | 0 |
-| 2023-06-09 | 640 | 0 |
+| 2023-06-09 | 642 | 0 |

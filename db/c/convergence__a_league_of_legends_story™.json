@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 640,
+  "EOS_Progressed": 642,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1114,6 +1114,11 @@
       "Time": "2023-06-09T18:05:54.5773157+00:00",
       "NumProgressed": 640,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T22:10:22.5663335+00:00",
+      "NumProgressed": 642,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -1315,9 +1320,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "MapCompletion1",
@@ -1451,9 +1456,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "SpeedRun",
@@ -1548,14 +1553,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 640,
+      "Progressed": 642,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-09T21:04:52.953918+00:00",
-  "LastUpdate_AppInfo": "2023-06-02T20:59:47.8114621+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:59:06.883955+00:00",
-  "LastUpdate_Achievements": "2023-06-09T21:04:52.9539677+00:00"
+  "LastChanged_Achievements": "2023-06-09T22:10:22.5663329+00:00",
+  "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
+  "LastUpdate_Ratings": "2023-06-09T22:04:19.3027314+00:00",
+  "LastUpdate_Achievements": "2023-06-09T22:10:22.5664223+00:00"
 }

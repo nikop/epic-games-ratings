@@ -6,17 +6,17 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~550,404 |
-| Error: Stack Overflow | 66.00% | ~390,609 |
-| We need more gold | 60.00% | ~355,099 |
-| The dawn of civilization | 53.00% | ~313,671 |
-| More FPS for the FPS god! | 49.00% | ~289,998 |
-| Beauty and harmony | 48.00% | ~284,079 |
-| One more! | 44.00% | ~260,406 |
-| Overmind | 24.00% | ~142,040 |
+| First.. Bit? | 93.00% | ~550,407 |
+| Error: Stack Overflow | 66.00% | ~390,612 |
+| We need more gold | 60.00% | ~355,102 |
+| The dawn of civilization | 53.00% | ~313,673 |
+| More FPS for the FPS god! | 49.00% | ~290,000 |
+| Beauty and harmony | 48.00% | ~284,081 |
+| One more! | 44.00% | ~260,408 |
+| Overmind | 24.00% | ~142,041 |
 | RNG is my best friend now | 18.00% | ~106,530 |
-| Cosplay | 13.00% | ~76,938 |
-| Evolution in progress... | 13.00% | ~76,938 |
+| Cosplay | 13.00% | ~76,939 |
+| Evolution in progress... | 13.00% | ~76,939 |
 | Step by step | 8.00% | ~47,347 |
 | README reader | 3.00% | ~17,755 |
 | Data scientist | 3.00% | ~17,755 |
@@ -28,14 +28,14 @@ Number of Ratings: 896  (23.09.2022)
 | Best deal on the market | 1.00% | ~5,918 |
 | Ping | 1.00% | ~5,918 |
 | Magna cum laude | 1.00% | ~5,918 |
-| The hoarder | 0.90% | ~5,326 |
+| The hoarder | 0.90% | ~5,327 |
 | Deal with it! | 0.50% | ~2,959 |
 | Gold rush | 0.40% | ~2,367 |
 | Cat-o-holic | 0.40% | ~2,367 |
-| Elements will destroy you! | 0.30% | ~1,775 |
+| Elements will destroy you! | 0.30% | ~1,776 |
 | The Scrooge | 0.10% | ~592 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 591,832 (Ranked 23)  
+Progressed: 591,836 (Ranked 23)  
 Completed: 490 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 490 (0.08%) (Ranked 173)
 | 2023-06-06 | 591,423 | 487 |
 | 2023-06-07 | 591,559 | 488 |
 | 2023-06-08 | 591,706 | 489 |
-| 2023-06-09 | 591,832 | 490 |
+| 2023-06-09 | 591,836 | 490 |
 ## Awards
 Max (Challenging Puzzles): 132  (Ranked 298)  
 Sum: 132 (Ranked 388)  

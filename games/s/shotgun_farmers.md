@@ -25,9 +25,9 @@
 | Drinking Problem | 13.00% | ~13 |
 | Oh My Gourd | 10.00% | ~5 |
 | Skin Of Your Teeth | 9.00% | ~9 |
+| Summers Here | 9.00% | ~4 |
 | Perfect | 8.00% | ~4 |
 | Expert Survivor | 8.00% | ~4 |
-| Summers Here | 8.00% | ~4 |
 | Pyromaniac | 7.00% | ~4 |
 | Quadsparagus | 7.00% | ~4 |
 | Quit Horsin' Around | 6.00% | ~6 |

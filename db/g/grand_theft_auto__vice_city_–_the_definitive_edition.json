@@ -412,7 +412,7 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 8077,
+  "EOS_Progressed": 8079,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 2,
@@ -4062,6 +4062,11 @@
       "Time": "2023-06-09T21:02:21.2846431+00:00",
       "NumProgressed": 8077,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-06-09T22:07:25.169008+00:00",
+      "NumProgressed": 8079,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 34,
@@ -4177,7 +4182,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3150
+      "UsersEstimate": 3151
     },
     {
       "ID": "ACH15",
@@ -4199,9 +4204,9 @@
       "ID": "ACH17",
       "SetID": "9llo822",
       "Name": "Gun for Hire",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 565
+      "UsersEstimate": 646
     },
     {
       "ID": "ACH18",
@@ -4233,7 +4238,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3473
+      "UsersEstimate": 3474
     },
     {
       "ID": "ACH22",
@@ -4305,7 +4310,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH31",
@@ -4344,7 +4349,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8077,
+      "Progressed": 8079,
       "Completed": 27
     }
   ],
@@ -4352,8 +4357,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-08T22:58:57.8808892+00:00",
-  "LastChanged_Achievements": "2023-06-09T21:02:21.2846427+00:00",
-  "LastUpdate_AppInfo": "2023-06-02T20:58:29.8139479+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:58:08.0704019+00:00",
-  "LastUpdate_Achievements": "2023-06-09T21:02:21.2846897+00:00"
+  "LastChanged_Achievements": "2023-06-09T22:07:25.1690075+00:00",
+  "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
+  "LastUpdate_Ratings": "2023-06-09T22:02:54.7082107+00:00",
+  "LastUpdate_Achievements": "2023-06-09T22:07:25.1690885+00:00"
 }

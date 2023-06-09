@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.7,
+  "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -371,6 +371,11 @@
       "Time": "2023-06-09T20:03:34.8346028+00:00",
       "NumProgressed": 431,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-09T22:08:06.712943+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -388,9 +393,9 @@
       "ID": "TROP001",
       "SetID": "9n0dl35",
       "Name": "We Are a Family",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "TROP002",
@@ -398,7 +403,7 @@
       "Name": "Three Little Foxes",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "TROP003",
@@ -406,7 +411,7 @@
       "Name": "Two Peas in a Pod",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "TROP004",
@@ -414,7 +419,7 @@
       "Name": "All For One",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "TROP005",
@@ -446,7 +451,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "TROP009",
@@ -454,7 +459,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "TROP010",
@@ -462,7 +467,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "TROP011",
@@ -470,7 +475,7 @@
       "Name": "Extinction is Forever",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "TROP012",
@@ -550,7 +555,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "TROP022",
@@ -574,7 +579,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "TROP025",
@@ -605,7 +610,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 3
     }
   ],
@@ -613,8 +618,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-06-09T21:03:05.1584922+00:00",
-  "LastUpdate_AppInfo": "2023-06-02T20:59:12.9891619+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:58:40.9868018+00:00",
-  "LastUpdate_Achievements": "2023-06-09T21:03:05.1585147+00:00"
+  "LastChanged_Achievements": "2023-06-09T22:08:06.7129424+00:00",
+  "LastUpdate_AppInfo": "2023-06-09T21:59:14.0709355+00:00",
+  "LastUpdate_Ratings": "2023-06-09T22:03:42.0274223+00:00",
+  "LastUpdate_Achievements": "2023-06-09T22:08:06.7129796+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "kingdom-new-lands",
   "Ranking_Rating": 513,
   "Ranking_Popularity": 308,
-  "Ranking_PopularitySum": 263,
+  "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2015-10-21T15:00:00+00:00",
@@ -1475,7 +1475,7 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
   "LastChanged": "2023-05-28T23:57:58.7831793+00:00",
-  "LastUpdate_AppInfo": "2023-06-02T20:58:07.2452249+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:57:53.3947913+00:00",
-  "LastUpdate_Achievements": "2023-06-09T21:03:14.7531478+00:00"
+  "LastUpdate_AppInfo": "2023-06-09T21:58:09.6891312+00:00",
+  "LastUpdate_Ratings": "2023-06-09T22:02:32.4675405+00:00",
+  "LastUpdate_Achievements": "2023-06-09T22:08:19.666541+00:00"
 }

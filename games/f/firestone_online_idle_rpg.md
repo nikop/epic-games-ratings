@@ -33,11 +33,11 @@ Rating: 4.05 (Ranked 889)
 | Scroll Master | 8.00% | ~108 |
 | The power of Awakening | 8.00% | ~108 |
 | Doing My Part | 7.00% | ~94 |
+| Frostfire Liberator | 7.00% | ~94 |
 | Hunter | 7.00% | ~94 |
 | Mastery | 7.00% | ~94 |
 | Relic Of The Past | 7.00% | ~94 |
 | Four Leaf Clover | 6.00% | ~81 |
-| Frostfire Liberator | 6.00% | ~81 |
 | Moving Up The Ladder | 6.00% | ~81 |
 | Here We Go Again | 5.00% | ~67 |
 | How Do You Turn This On? | 5.00% | ~67 |

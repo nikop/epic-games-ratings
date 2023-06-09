@@ -4,7 +4,7 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 30,
   "Ranking_Popularity": 157,
-  "Ranking_PopularitySum": 230,
+  "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 63,
@@ -1121,9 +1121,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 120935,
+  "EOS_Progressed": 120938,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5826,6 +5826,11 @@
       "Time": "2023-06-09T21:05:29.9661384+00:00",
       "NumProgressed": 120935,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-09T22:11:12.5723888+00:00",
+      "NumProgressed": 120938,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -5837,7 +5842,7 @@
       "Name": "Baddest Brow in Town",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACH_CAUSE_SHITSTORM",
@@ -5853,7 +5858,7 @@
       "Name": "Committee of la Responsabilit\u00E9",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACH_COP_APO",
@@ -5869,7 +5874,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21768
+      "UsersEstimate": 21769
     },
     {
       "ID": "ACH_COP_BAD",
@@ -5893,7 +5898,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29024
+      "UsersEstimate": 29025
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -5917,7 +5922,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33862
+      "UsersEstimate": 33863
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -5933,7 +5938,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4837
+      "UsersEstimate": 4838
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -5949,7 +5954,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24187
+      "UsersEstimate": 24188
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -5973,7 +5978,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18140
+      "UsersEstimate": 18141
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -6021,7 +6026,7 @@
       "Name": "Venture into the HARDCORE",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACH_HARDIE",
@@ -6133,7 +6138,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4837
+      "UsersEstimate": 4838
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -6156,15 +6161,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 120935,
+      "Progressed": 120938,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-09T18:58:52.6457366+00:00",
-  "LastChanged_Achievements": "2023-06-09T21:05:29.9661376+00:00",
-  "LastUpdate_AppInfo": "2023-06-02T20:59:25.8096959+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:58:50.4549491+00:00",
-  "LastUpdate_Achievements": "2023-06-09T21:05:29.9661972+00:00"
+  "LastChanged_Achievements": "2023-06-09T22:11:12.5723884+00:00",
+  "LastUpdate_AppInfo": "2023-06-09T21:59:27.3467618+00:00",
+  "LastUpdate_Ratings": "2023-06-09T22:03:55.3469403+00:00",
+  "LastUpdate_Achievements": "2023-06-09T22:11:12.5724905+00:00"
 }

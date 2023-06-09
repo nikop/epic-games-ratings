@@ -14,7 +14,7 @@
 | We brake for nobody | 65.00% | ~673 |
 | Mind the Gap | 63.00% | ~653 |
 | Travel Company | 63.00% | ~653 |
-| All around the World | 60.00% | ~622 |
+| All around the World | 61.00% | ~632 |
 | Right through the middle | 55.00% | ~570 |
 | Facility Manager | 51.00% | ~528 |
 | Poor Devil | 51.00% | ~528 |
@@ -23,9 +23,9 @@
 | Bridge Builder | 38.00% | ~394 |
 | Stoker | 33.00% | ~342 |
 | Access granted | 33.00% | ~342 |
+| Full Steam ahead | 29.00% | ~300 |
 | Going once, going twice, sold | 29.00% | ~300 |
-| Full Steam ahead | 28.00% | ~290 |
-| Bull and bear | 27.00% | ~280 |
+| Bull and bear | 28.00% | ~290 |
 | Mole | 26.00% | ~269 |
 | All mine | 24.00% | ~249 |
 | Financial Shark | 24.00% | ~249 |
@@ -33,7 +33,7 @@
 | Seven at one stroke | 21.00% | ~218 |
 | General Manager | 21.00% | ~218 |
 | Country Life | 21.00% | ~218 |
-| Hostile Takeover | 20.00% | ~207 |
+| Hostile Takeover | 21.00% | ~218 |
 | Trailblazer | 18.00% | ~186 |
 | Breaking Ground | 15.00% | ~155 |
 | Traffic Jam | 14.00% | ~145 |

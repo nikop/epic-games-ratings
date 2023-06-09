@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 528,
   "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 263,
+  "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-02-20T16:00:00+00:00",
@@ -1647,10 +1647,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 709,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-06-09T22:04:43.1581836+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 710,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 709,
+  "NumberOfAwards": 710,
   "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1706,7 +1712,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1738,8 +1744,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2023-06-09T09:00:34.9839507+00:00",
-  "LastUpdate_AppInfo": "2023-06-02T21:00:09.4448243+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:59:23.4718116+00:00",
-  "LastUpdate_Achievements": "2023-06-09T21:04:39.0526193+00:00"
+  "LastChanged": "2023-06-09T22:04:43.1581833+00:00",
+  "LastUpdate_AppInfo": "2023-06-09T22:00:11.993417+00:00",
+  "LastUpdate_Ratings": "2023-06-09T22:04:43.1581843+00:00",
+  "LastUpdate_Achievements": "2023-06-09T22:10:03.24879+00:00"
 }

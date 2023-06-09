@@ -4,7 +4,7 @@
   "ProductSlug": "hellslave-cc8a71",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-05-26T13:00:00+00:00",
@@ -48,8 +48,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.3831427+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.1869188+00:00",
   "LastChanged": "2023-03-31T05:58:36.3831428+00:00",
-  "LastChanged_Achievements": "2023-06-09T21:03:29.2571921+00:00",
-  "LastUpdate_AppInfo": "2023-06-02T20:59:08.2389385+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:58:37.9859756+00:00",
-  "LastUpdate_Achievements": "2023-06-09T21:03:29.2571961+00:00"
+  "LastChanged_Achievements": "2023-06-09T22:08:39.6887429+00:00",
+  "LastUpdate_AppInfo": "2023-06-09T21:59:10.0763014+00:00",
+  "LastUpdate_Ratings": "2023-06-09T22:03:38.0069734+00:00",
+  "LastUpdate_Achievements": "2023-06-09T22:08:39.6887469+00:00"
 }

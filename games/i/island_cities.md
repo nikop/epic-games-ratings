@@ -19,7 +19,7 @@
 | Elevated ring | 23.00% | ~70 |
 | Not lonely anymore | 22.00% | ~67 |
 | Monumental tribute | 21.00% | ~64 |
-| The beach is right there | 19.00% | ~58 |
+| The beach is right there | 20.00% | ~61 |
 | Commuting | 19.00% | ~58 |
 | Le jardin magnifique | 19.00% | ~58 |
 | Aiming for a living and human city | 16.00% | ~49 |

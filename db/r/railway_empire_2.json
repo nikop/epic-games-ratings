@@ -4,7 +4,7 @@
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 1036,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1645,9 +1645,9 @@
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 300
     },
     {
       "ID": "A16",
@@ -1773,9 +1773,9 @@
       "ID": "A31",
       "SetID": "9b7p7eo",
       "Name": "Hostile Takeover",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 218
     },
     {
       "ID": "A32",
@@ -1821,9 +1821,9 @@
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 622
+      "UsersEstimate": 632
     },
     {
       "ID": "A38",
@@ -1909,9 +1909,9 @@
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 290
     },
     {
       "ID": "A49",
@@ -1972,8 +1972,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-09T21:05:38.7247327+00:00",
-  "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:57:58.1413082+00:00",
-  "LastUpdate_Achievements": "2023-06-09T21:05:38.724786+00:00"
+  "LastChanged_Achievements": "2023-06-09T22:11:23.9455097+00:00",
+  "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
+  "LastUpdate_Ratings": "2023-06-09T22:02:39.1550366+00:00",
+  "LastUpdate_Achievements": "2023-06-09T22:11:23.9456079+00:00"
 }

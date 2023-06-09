@@ -22,7 +22,7 @@ Rating: 3.80 (Ranked 927)
 | Amateur Chef | 20.00% | ~276 |
 | Fishing Guru | 18.00% | ~248 |
 | Community Helper | 16.00% | ~220 |
-| Spark of Love | 14.00% | ~193 |
+| Spark of Love | 15.00% | ~207 |
 | Expert Chemist | 12.00% | ~165 |
 | Stone Specialist | 12.00% | ~165 |
 | Sociable | 11.00% | ~152 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13109,
+  "EOS_Progressed": 13110,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3764,6 +3764,11 @@
       "Time": "2023-06-09T21:05:17.9174159+00:00",
       "NumProgressed": 13109,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-09T22:10:56.9651883+00:00",
+      "NumProgressed": 13110,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 41,
@@ -3799,7 +3804,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "tpote_achievement_13",
@@ -3807,7 +3812,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "tpote_achievement_14",
@@ -4015,7 +4020,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "tpote_achievement_38",
@@ -4063,7 +4068,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "tpote_achievement_6",
@@ -4102,15 +4107,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13109,
+      "Progressed": 13110,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-09T21:05:17.9174155+00:00",
-  "LastUpdate_AppInfo": "2023-06-02T21:00:24.2103721+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:59:35.8772176+00:00",
-  "LastUpdate_Achievements": "2023-06-09T21:05:17.9174691+00:00"
+  "LastChanged_Achievements": "2023-06-09T22:10:56.9651878+00:00",
+  "LastUpdate_AppInfo": "2023-06-09T22:00:29.1633629+00:00",
+  "LastUpdate_Ratings": "2023-06-09T22:05:01.5256532+00:00",
+  "LastUpdate_Achievements": "2023-06-09T22:10:56.9652758+00:00"
 }

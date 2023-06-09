@@ -3,7 +3,7 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2950,
+  "EOS_Progressed": 2951,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.3745824+00:00",
@@ -1964,6 +1964,11 @@
       "Time": "2023-06-09T18:06:49.5432251+00:00",
       "NumProgressed": 2950,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-09T22:11:22.9834313+00:00",
+      "NumProgressed": 2951,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -2023,7 +2028,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "campaign10",
@@ -2063,7 +2068,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "campaign15",
@@ -2071,7 +2076,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "campaign16",
@@ -2087,7 +2092,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "campaign18",
@@ -2111,7 +2116,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "campaign20",
@@ -2141,9 +2146,9 @@
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 502
+      "UsersEstimate": 531
     },
     {
       "ID": "campaign6",
@@ -2151,7 +2156,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "campaign7",
@@ -2231,14 +2236,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2950,
+      "Progressed": 2951,
       "Completed": 9
     }
   ],
@@ -2246,8 +2251,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-09T21:05:37.9691379+00:00",
-  "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:59:45.8665623+00:00",
-  "LastUpdate_Achievements": "2023-06-09T21:05:37.9691691+00:00"
+  "LastChanged_Achievements": "2023-06-09T22:11:22.9834306+00:00",
+  "LastUpdate_AppInfo": "2023-06-09T22:00:43.3295912+00:00",
+  "LastUpdate_Ratings": "2023-06-09T22:05:17.0567848+00:00",
+  "LastUpdate_Achievements": "2023-06-09T22:11:22.9834924+00:00"
 }
