@@ -18,7 +18,7 @@ Number of Ratings: 34  (23.09.2022)
 | Sniper Wolf | 36.00% | ~119 |
 | The Motivation | 35.00% | ~115 |
 | Heroism | 33.00% | ~109 |
-| Collectibles of Chapter I | 31.00% | ~102 |
+| Collectibles of Chapter I | 32.00% | ~106 |
 | King of Knives | 31.00% | ~102 |
 | Consequences | 29.00% | ~96 |
 | Opportunities | 27.00% | ~89 |

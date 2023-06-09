@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2837,
+  "EOS_Progressed": 2838,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2309,6 +2309,11 @@
       "Time": "2023-06-09T02:25:18.1030068+00:00",
       "NumProgressed": 2837,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T03:19:27.9905869+00:00",
+      "NumProgressed": 2838,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2336,7 +2341,7 @@
       "Name": "Ancestor\u0027s Pride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ApexPredator_27",
@@ -2376,7 +2381,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "Eureka_23",
@@ -2384,7 +2389,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2400,7 +2405,7 @@
       "Name": "For All Aurai",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "GiftfromtheAncestors_34",
@@ -2480,7 +2485,7 @@
       "Name": "Memory of a legend",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "PerfectDefense_31",
@@ -2504,7 +2509,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2512,7 +2517,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2528,7 +2533,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -2536,7 +2541,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "Tapped_22",
@@ -2576,7 +2581,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -2655,15 +2660,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2837,
+      "Progressed": 2838,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-09T02:25:18.1030061+00:00",
+  "LastChanged_Achievements": "2023-06-09T03:19:27.9905863+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.0930177+00:00",
-  "LastUpdate_Ratings": "2023-06-09T02:19:55.6796006+00:00",
-  "LastUpdate_Achievements": "2023-06-09T02:25:18.1030593+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:14:18.6297202+00:00",
+  "LastUpdate_Achievements": "2023-06-09T03:19:27.9906306+00:00"
 }

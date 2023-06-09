@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38474,
+  "EOS_Progressed": 38478,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3403,6 +3403,11 @@
       "Time": "2023-06-09T02:28:28.5953012+00:00",
       "NumProgressed": 38474,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T03:22:10.8180843+00:00",
+      "NumProgressed": 38478,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -3430,7 +3435,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -3486,7 +3491,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -3494,7 +3499,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -3502,7 +3507,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -3606,7 +3611,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -3614,7 +3619,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -3654,7 +3659,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -3686,7 +3691,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "MONUMENT_ALL",
@@ -3702,7 +3707,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -3726,7 +3731,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -3766,7 +3771,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "STAYING_AIR",
@@ -3837,22 +3842,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38474,
+      "Progressed": 38478,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3311,
-      "Completed": 3311
+      "Progressed": 3315,
+      "Completed": 3315
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-06-05T21:58:31.7254334+00:00",
-  "LastChanged_Achievements": "2023-06-09T02:28:28.5953007+00:00",
+  "LastChanged_Achievements": "2023-06-09T03:22:10.8180838+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:43.5964953+00:00",
-  "LastUpdate_Ratings": "2023-06-09T02:20:41.4826945+00:00",
-  "LastUpdate_Achievements": "2023-06-09T02:28:28.5953695+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:14:54.9661949+00:00",
+  "LastUpdate_Achievements": "2023-06-09T03:22:10.8181511+00:00"
 }

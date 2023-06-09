@@ -6,35 +6,35 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~571,284 |
-| Green Energy | 60.00% | ~482,776 |
-| Foggy Weather | 59.00% | ~474,729 |
-| Singing In The- | 59.00% | ~474,729 |
-| Unpopular Mayor | 41.00% | ~329,897 |
-| Power at Your Fingertips | 33.00% | ~265,527 |
-| City Planner | 23.00% | ~185,064 |
-| Rolling in Dough | 20.00% | ~160,925 |
-| Does My Bum Look Big In This? | 17.00% | ~136,786 |
-| Climbing the Social Ladder | 16.00% | ~128,740 |
-| Safe City | 14.00% | ~112,648 |
-| Quay-King | 11.00% | ~88,509 |
-| Lawmaker | 10.00% | ~80,463 |
-| With Canals You Can! | 10.00% | ~80,463 |
-| Nomen Est Omen | 7.00% | ~56,324 |
-| Well Informed | 6.00% | ~48,278 |
-| Fire Watch | 5.00% | ~40,231 |
-| Greenest City | 4.00% | ~32,185 |
-| Heavenly City | 3.00% | ~24,139 |
-| Reporting! | 3.00% | ~24,139 |
-| SIMulated City | 3.00% | ~24,139 |
-| The Safest Town | 3.00% | ~24,139 |
-| City in Motion | 2.00% | ~16,093 |
-| Professional Dumper | 2.00% | ~16,093 |
-| Earthloving City | 1.00% | ~8,046 |
-| Metropolis | 1.00% | ~8,046 |
-| Beam Me Up | 0.70% | ~5,632 |
-| Higher Education | 0.70% | ~5,632 |
-| Terraformer | 0.70% | ~5,632 |
+| Pioneer | 71.00% | ~571,334 |
+| Green Energy | 60.00% | ~482,818 |
+| Foggy Weather | 59.00% | ~474,771 |
+| Singing In The- | 59.00% | ~474,771 |
+| Unpopular Mayor | 41.00% | ~329,925 |
+| Power at Your Fingertips | 33.00% | ~265,550 |
+| City Planner | 23.00% | ~185,080 |
+| Rolling in Dough | 20.00% | ~160,939 |
+| Does My Bum Look Big In This? | 17.00% | ~136,798 |
+| Climbing the Social Ladder | 16.00% | ~128,751 |
+| Safe City | 14.00% | ~112,657 |
+| Quay-King | 11.00% | ~88,517 |
+| Lawmaker | 10.00% | ~80,470 |
+| With Canals You Can! | 10.00% | ~80,470 |
+| Nomen Est Omen | 7.00% | ~56,329 |
+| Well Informed | 6.00% | ~48,282 |
+| Fire Watch | 5.00% | ~40,235 |
+| Greenest City | 4.00% | ~32,188 |
+| Heavenly City | 3.00% | ~24,141 |
+| Reporting! | 3.00% | ~24,141 |
+| SIMulated City | 3.00% | ~24,141 |
+| The Safest Town | 3.00% | ~24,141 |
+| City in Motion | 2.00% | ~16,094 |
+| Professional Dumper | 2.00% | ~16,094 |
+| Earthloving City | 1.00% | ~8,047 |
+| Metropolis | 1.00% | ~8,047 |
+| Beam Me Up | 0.70% | ~5,633 |
+| Higher Education | 0.70% | ~5,633 |
+| Terraformer | 0.70% | ~5,633 |
 | Decorator | 0.60% | ~4,828 |
 | Full Capacity | 0.60% | ~4,828 |
 | The Waters of Our Lives | 0.60% | ~4,828 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~805 |
 | Z00 | 0.10% | ~805 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 804,626 (Ranked 13)  
+Progressed: 804,696 (Ranked 13)  
 Completed: 7 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 7 (0.00%) (Ranked 212)
 | 2023-06-06 | 798,877 | 7 |
 | 2023-06-07 | 801,618 | 7 |
 | 2023-06-08 | 804,396 | 7 |
-| 2023-06-09 | 804,626 | 7 |
+| 2023-06-09 | 804,696 | 7 |
 ## Awards
 Max (Relaxing): 4,656  (Ranked 66)  
 Sum: 35,432 (Ranked 34)  

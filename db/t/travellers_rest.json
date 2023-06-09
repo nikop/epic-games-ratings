@@ -2,12 +2,12 @@
   "ID": "8ae3c382222c462492f25bab4800b77d",
   "Name": "Travellers Rest",
   "ProductSlug": "travellers-rest-c115d1",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-25T08:00:00+00:00",
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.58,
   "NumberOfRatings": 64,
   "RatingHistory": [
     {
@@ -253,6 +253,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-09T03:14:59.4543543+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -279,9 +285,9 @@
   "FirstSeen": "2022-08-25T19:31:26.5685992+00:00",
   "FirstSeenRating": "2022-09-04T00:31:40.8839276+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.6992303+00:00",
-  "LastChanged": "2023-05-14T10:58:17.6542799+00:00",
-  "LastChanged_Achievements": "2023-06-09T02:24:23.3504334+00:00",
+  "LastChanged": "2023-06-09T03:14:59.4543536+00:00",
+  "LastChanged_Achievements": "2023-06-09T03:19:08.3780939+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:47.912337+00:00",
-  "LastUpdate_Ratings": "2023-06-09T02:20:47.5504839+00:00",
-  "LastUpdate_Achievements": "2023-06-09T02:24:23.3504371+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:14:59.4543552+00:00",
+  "LastUpdate_Achievements": "2023-06-09T03:19:08.3780984+00:00"
 }

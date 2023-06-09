@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2428,
+  "EOS_Progressed": 2429,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2924,6 +2924,11 @@
       "Time": "2023-06-09T02:28:20.4291997+00:00",
       "NumProgressed": 2428,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T03:22:03.9622303+00:00",
+      "NumProgressed": 2429,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3103,7 +3108,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3183,7 +3188,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3247,7 +3252,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3502,13 +3507,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2379,
+      "Progressed": 2380,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2428,
+      "Progressed": 2429,
       "Completed": 2
     }
   ],
@@ -3516,8 +3521,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-08T13:05:05.4339298+00:00",
-  "LastChanged_Achievements": "2023-06-09T02:28:20.429199+00:00",
+  "LastChanged_Achievements": "2023-06-09T03:22:03.9622299+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-09T02:22:52.6506682+00:00",
-  "LastUpdate_Achievements": "2023-06-09T02:28:20.429299+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:16:37.9629082+00:00",
+  "LastUpdate_Achievements": "2023-06-09T03:22:03.9623116+00:00"
 }

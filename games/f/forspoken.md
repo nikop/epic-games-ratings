@@ -8,11 +8,11 @@ Rating: 4.16 (Ranked 851)
 | Attachments | 9.00% | ~3,463 |
 | Unlocked Potential | 9.00% | ~3,463 |
 | Tinkerer | 7.00% | ~2,693 |
-| Leapfrogger | 6.00% | ~2,308 |
-| Knock 'Em Dead | 6.00% | ~2,308 |
-| Pilgrimage: Initiate | 6.00% | ~2,308 |
-| Hell of a Run | 6.00% | ~2,308 |
-| Call of the Fount: Baptized | 6.00% | ~2,308 |
+| Leapfrogger | 6.00% | ~2,309 |
+| Knock 'Em Dead | 6.00% | ~2,309 |
+| Pilgrimage: Initiate | 6.00% | ~2,309 |
+| Hell of a Run | 6.00% | ~2,309 |
+| Call of the Fount: Baptized | 6.00% | ~2,309 |
 | No Mercy | 5.00% | ~1,924 |
 | Explorer: Seeker | 5.00% | ~1,924 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,539 |
@@ -21,12 +21,12 @@ Rating: 4.16 (Ranked 851)
 | The Interloper | 3.00% | ~1,154 |
 | Hop, Step, Jump | 3.00% | ~1,154 |
 | Endless Runner | 3.00% | ~1,154 |
-| Outdoorsperson | 2.00% | ~769 |
-| What Must Be Done | 2.00% | ~769 |
-| Might and Main | 2.00% | ~769 |
-| Damned If You Do... | 2.00% | ~769 |
-| Explorer: Pathfinder | 2.00% | ~769 |
-| From Every Angle | 2.00% | ~769 |
+| Outdoorsperson | 2.00% | ~770 |
+| What Must Be Done | 2.00% | ~770 |
+| Might and Main | 2.00% | ~770 |
+| Damned If You Do... | 2.00% | ~770 |
+| Explorer: Pathfinder | 2.00% | ~770 |
+| From Every Angle | 2.00% | ~770 |
 | The Hue of Blue | 1.00% | ~385 |
 | The Truth Will Out | 1.00% | ~385 |
 | Breaking Point | 1.00% | ~385 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 851)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,474 (Ranked 85)  
+Progressed: 38,478 (Ranked 85)  
 Completed: 2 (0.01%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.01%) (Ranked 201)
 | 2023-06-06 | 38,449 | 2 |
 | 2023-06-07 | 38,461 | 2 |
 | 2023-06-08 | 38,472 | 2 |
-| 2023-06-09 | 38,474 | 2 |
+| 2023-06-09 | 38,478 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

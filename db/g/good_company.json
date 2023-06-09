@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4946,
+  "EOS_Progressed": 4947,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1419,6 +1419,11 @@
       "Time": "2023-06-08T22:06:15.1305145+00:00",
       "NumProgressed": 4946,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T03:22:14.1787156+00:00",
+      "NumProgressed": 4947,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1542,7 +1547,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2037,15 +2042,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4946,
+      "Progressed": 4947,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-09T02:28:32.4632915+00:00",
+  "LastChanged_Achievements": "2023-06-09T03:22:14.1787147+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-09T02:21:12.1789984+00:00",
-  "LastUpdate_Achievements": "2023-06-09T02:28:32.4634+00:00"
+  "LastUpdate_Ratings": "2023-06-09T03:15:19.3671863+00:00",
+  "LastUpdate_Achievements": "2023-06-09T03:22:14.1788064+00:00"
 }

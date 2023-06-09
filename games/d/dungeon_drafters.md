@@ -10,7 +10,7 @@
 | Friend! | 34.00% | ~13 |
 | Setting Off | 32.00% | ~12 |
 | Shine! | 32.00% | ~12 |
-| Clear as Water | 26.00% | ~10 |
+| Clear as Water | 29.00% | ~11 |
 | Riddlesolver | 24.00% | ~9 |
 | Dungeon Mastery | 18.00% | ~7 |
 | Card Collector | 18.00% | ~7 |
