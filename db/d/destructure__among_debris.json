@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -613,6 +613,11 @@
       "Time": "2023-06-09T00:00:57.0042198+00:00",
       "NumProgressed": 131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T10:01:38.5707804+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -632,7 +637,7 @@
       "Name": "Avaricerite",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "back_from_the_dead",
@@ -696,7 +701,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "easy_victory",
@@ -712,7 +717,7 @@
       "Name": "Graduation",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -790,7 +795,7 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 86
     },
@@ -871,7 +876,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 1
     }
   ],
@@ -879,8 +884,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-09T09:02:01.5982133+00:00",
+  "LastChanged_Achievements": "2023-06-09T10:01:38.5707799+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:23.8350057+00:00",
-  "LastUpdate_Ratings": "2023-06-09T09:00:49.8792676+00:00",
-  "LastUpdate_Achievements": "2023-06-09T09:02:01.5982339+00:00"
+  "LastUpdate_Ratings": "2023-06-09T10:00:28.6118207+00:00",
+  "LastUpdate_Achievements": "2023-06-09T10:01:38.57081+00:00"
 }

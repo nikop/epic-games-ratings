@@ -16,7 +16,7 @@ Rating: 4.50 (Ranked 546)
 | Organ Grinder | 10.00% | ~244 |
 | As Quiet as a Mouse | 10.00% | ~244 |
 | Target America | 10.00% | ~244 |
-| The Kraken Sleeps | 9.00% | ~219 |
+| The Kraken Sleeps | 9.00% | ~220 |
 | Liberté | 8.00% | ~195 |
 | Enemy at the Gates | 8.00% | ~195 |
 | Just a Flesh Wound | 8.00% | ~195 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 546)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,438 (Ranked 147)  
+Progressed: 2,439 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
-| 2023-06-09 | 2,438 | 2 |
+| 2023-06-09 | 2,439 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

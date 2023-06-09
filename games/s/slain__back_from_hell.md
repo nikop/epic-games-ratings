@@ -5,15 +5,15 @@ Rating: 4.28 (Ranked 777)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~4,950 |
-| A Good Day To Die | 16.00% | ~3,960 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,485 |
-| Right Back Atcha | 6.00% | ~1,485 |
-| Killed by Death | 5.00% | ~1,237 |
+| Man 'O War | 20.00% | ~4,952 |
+| A Good Day To Die | 16.00% | ~3,961 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,486 |
+| Right Back Atcha | 6.00% | ~1,486 |
+| Killed by Death | 5.00% | ~1,238 |
 | Kill 'Em All | 4.00% | ~990 |
 | Down Boy! | 2.00% | ~495 |
 | A Snowball's Chance in Hell | 2.00% | ~495 |
-| Enjoy The Silence | 1.00% | ~247 |
+| Enjoy The Silence | 1.00% | ~248 |
 | Sure Footed As A Goat | 0.90% | ~223 |
 | Thorn in My Herbicide | 0.80% | ~198 |
 | Backdoor Man | 0.80% | ~198 |
@@ -22,20 +22,20 @@ Rating: 4.28 (Ranked 777)
 | Death Becomes Her | 0.70% | ~173 |
 | The Sky Is Falling | 0.70% | ~173 |
 | That'll Come In Handy... | 0.70% | ~173 |
-| Start As You Mean To Go On | 0.60% | ~148 |
-| Hail the Great Horned Metal God! | 0.60% | ~148 |
+| Start As You Mean To Go On | 0.60% | ~149 |
+| Hail the Great Horned Metal God! | 0.60% | ~149 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~124 |
 | Four Legged Friend | 0.40% | ~99 |
 | Ice To See You | 0.40% | ~99 |
 | Smack My Imp Up | 0.40% | ~99 |
 | Vroll With It | 0.30% | ~74 |
 | Swift of Foot, Keen of Blade | 0.30% | ~74 |
-| Flame Retardant | 0.20% | ~49 |
-| Death or Glory | 0.20% | ~49 |
+| Flame Retardant | 0.20% | ~50 |
+| Death or Glory | 0.20% | ~50 |
 | Too Metal For Magic | 0.10% | ~25 |
 | Heart Of Steel | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,749 (Ranked 92)  
+Progressed: 24,759 (Ranked 92)  
 Completed: 19 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 19 (0.08%) (Ranked 172)
 | 2023-06-06 | 24,363 | 19 |
 | 2023-06-07 | 24,511 | 19 |
 | 2023-06-08 | 24,696 | 19 |
-| 2023-06-09 | 24,749 | 19 |
+| 2023-06-09 | 24,759 | 19 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 302)  
 Sum: 125 (Ranked 390)  

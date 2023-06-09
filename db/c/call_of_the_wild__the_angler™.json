@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4190,
+  "EOS_Progressed": 4192,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2943,6 +2943,11 @@
       "Time": "2023-06-09T08:03:27.6794729+00:00",
       "NumProgressed": 4190,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T10:03:32.1520852+00:00",
+      "NumProgressed": 4192,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -2952,17 +2957,17 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3102
     },
     {
       "ID": "ACHIEVEMENT_002",
       "SetID": "1a05lfd",
       "Name": "Can you smell what the Rod is Hooking",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2012
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2970,7 +2975,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -2978,7 +2983,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -2986,7 +2991,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -2994,7 +2999,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2306
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3002,7 +3007,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -3010,7 +3015,7 @@
       "Name": "Scaling up",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3018,7 +3023,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -3058,7 +3063,7 @@
       "Name": "Goldfish?",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -3114,7 +3119,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -3154,7 +3159,7 @@
       "Name": "Big Fish Small Pond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -3233,13 +3238,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4190,
+      "Progressed": 4192,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3562,
+      "Progressed": 3564,
       "Completed": 112
     }
   ],
@@ -3247,8 +3252,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-09T09:03:49.8727281+00:00",
+  "LastChanged_Achievements": "2023-06-09T10:03:32.1520848+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:14.4046039+00:00",
-  "LastUpdate_Ratings": "2023-06-09T09:00:39.3480703+00:00",
-  "LastUpdate_Achievements": "2023-06-09T09:03:49.8727693+00:00"
+  "LastUpdate_Ratings": "2023-06-09T10:00:19.1066451+00:00",
+  "LastUpdate_Achievements": "2023-06-09T10:03:32.1521281+00:00"
 }

@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 657589,
+  "EOS_Progressed": 657590,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5390,6 +5390,11 @@
       "Time": "2023-06-09T09:07:05.0352535+00:00",
       "NumProgressed": 657589,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-09T10:06:19.2167038+00:00",
+      "NumProgressed": 657590,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -5401,7 +5406,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473464
+      "UsersEstimate": 473465
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -5417,7 +5422,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151245
+      "UsersEstimate": 151246
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -5489,7 +5494,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 32879
+      "UsersEstimate": 32880
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -5537,7 +5542,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151245
+      "UsersEstimate": 151246
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -5545,7 +5550,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92062
+      "UsersEstimate": 92063
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -5577,7 +5582,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32879
+      "UsersEstimate": 32880
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -5665,7 +5670,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164397
+      "UsersEstimate": 164398
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -5784,15 +5789,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 657589,
+      "Progressed": 657590,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-09T09:07:05.0352531+00:00",
+  "LastChanged_Achievements": "2023-06-09T10:06:19.2167032+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.7468095+00:00",
-  "LastUpdate_Ratings": "2023-06-09T08:58:04.7948537+00:00",
-  "LastUpdate_Achievements": "2023-06-09T09:07:05.0353044+00:00"
+  "LastUpdate_Ratings": "2023-06-09T09:57:55.7621699+00:00",
+  "LastUpdate_Achievements": "2023-06-09T10:06:19.2167705+00:00"
 }

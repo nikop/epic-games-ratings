@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 253,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
@@ -683,9 +683,9 @@
       "ID": "marketplace",
       "SetID": "ap7g2g4",
       "Name": "Marketplace",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "match_12",
@@ -763,9 +763,9 @@
       "ID": "water_platform",
       "SetID": "ap7g2g4",
       "Name": "Water platform",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "wheat_farm",
@@ -794,8 +794,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-09T09:04:06.0519528+00:00",
+  "LastChanged_Achievements": "2023-06-09T10:03:37.6064015+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-09T08:57:21.3649017+00:00",
-  "LastUpdate_Achievements": "2023-06-09T09:04:06.0519701+00:00"
+  "LastUpdate_Ratings": "2023-06-09T09:57:16.5085829+00:00",
+  "LastUpdate_Achievements": "2023-06-09T10:03:37.6064254+00:00"
 }

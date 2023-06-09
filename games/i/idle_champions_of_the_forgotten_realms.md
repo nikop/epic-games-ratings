@@ -54,8 +54,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.30% | ~271 |
 | The Dinner Party | 0.30% | ~271 |
 | The Botched Kidnapping | 0.30% | ~271 |
+| Trollskull Manor | 0.30% | ~271 |
 | The Death Curse | 0.30% | ~271 |
 | Premature Betrayal | 0.30% | ~271 |
+| A Tale of Two Cities | 0.30% | ~271 |
 | Running of the Saurs | 0.30% | ~271 |
 | Hearts Aflame | 0.30% | ~169 |
 | Bad Odds in Avernus | 0.30% | ~169 |
@@ -165,7 +167,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.20% | ~180 |
 | Tower on the Lake | 0.20% | ~180 |
 | Seeds of Deceit | 0.20% | ~180 |
-| Trollskull Manor | 0.20% | ~180 |
 | The Gargoyle's Apprentice | 0.20% | ~180 |
 | Attack on the Manor | 0.20% | ~180 |
 | The Trepidatious Trio | 0.20% | ~180 |
@@ -187,9 +188,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enter the Sargauth | 0.20% | ~180 |
 | Who Lurks in Lurkwood | 0.20% | ~180 |
 | Orcs Are Wild | 0.20% | ~180 |
-| A Tale of Two Cities | 0.20% | ~180 |
 | The Dead Three | 0.20% | ~180 |
 | Slow and Steady | 0.20% | ~180 |
+| A Hero's Entourage | 0.20% | ~180 |
 | Sneak Attack | 0.20% | ~113 |
 | Flying Monkey Skulls of Doom | 0.20% | ~180 |
 | Lair of the Xanathar | 0.20% | ~180 |
@@ -377,7 +378,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~90 |
 | A Tale of Two Champions | 0.10% | ~90 |
 | A Tale of Two Years | 0.10% | ~56 |
-| A Hero's Entourage | 0.10% | ~90 |
 | Feigned Weakness | 0.10% | ~90 |
 | DPS in the Deeps | 0.10% | ~56 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,209 (Ranked 64)  
+Progressed: 90,211 (Ranked 64)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,7 +550,7 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
-| 2023-06-09 | 90,209 | 1,924 |
+| 2023-06-09 | 90,211 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
 Sum: 30,056 (Ranked 37)  

@@ -1492,10 +1492,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2150,
       "NumberOfAwardsMax": 294
+    },
+    {
+      "Time": "2023-06-09T09:59:52.6102317+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2154,
+      "NumberOfAwardsMax": 294
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2150,
+  "NumberOfAwards": 2154,
   "NumberOfAwardsMax": 294,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1509,13 +1515,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 220
+      "Count": 221
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 210
+      "Count": 211
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1539,13 +1545,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 233
+      "Count": 234
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1566,9 +1572,9 @@
       "Count": 206
     }
   ],
-  "EOS_Progressed": 19430,
+  "EOS_Progressed": 19433,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4056,6 +4062,11 @@
       "Time": "2023-06-09T08:06:17.5457667+00:00",
       "NumProgressed": 19430,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-09T10:06:16.655755+00:00",
+      "NumProgressed": 19433,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4099,7 +4110,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "EstateAgent",
@@ -4115,7 +4126,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18264
+      "UsersEstimate": 18267
     },
     {
       "ID": "GameOver",
@@ -4179,7 +4190,7 @@
       "Name": "Just Enough",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3498
     },
     {
       "ID": "Negotiator",
@@ -4219,7 +4230,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3498
     },
     {
       "ID": "Strongman",
@@ -4227,7 +4238,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6023
+      "UsersEstimate": 6024
     },
     {
       "ID": "VeronicaLiptson",
@@ -4250,15 +4261,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19430,
+      "Progressed": 19433,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-06-06T20:00:30.0103604+00:00",
-  "LastChanged_Achievements": "2023-06-09T09:07:02.2813384+00:00",
+  "LastChanged": "2023-06-09T09:59:52.6102315+00:00",
+  "LastChanged_Achievements": "2023-06-09T10:06:16.6557545+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-09T09:00:11.8443879+00:00",
-  "LastUpdate_Achievements": "2023-06-09T09:07:02.2813729+00:00"
+  "LastUpdate_Ratings": "2023-06-09T09:59:52.6102322+00:00",
+  "LastUpdate_Achievements": "2023-06-09T10:06:16.6557925+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 75.00% | ~3,142 |
-| Hey Good Hookin | 64.00% | ~2,682 |
-| I'm on a Boat! | 55.00% | ~2,304 |
-| Can you smell what the Rod is Hooking | 49.00% | ~2,053 |
-| Scaling up | 48.00% | ~2,011 |
-| Ready to Rod and Roll | 40.00% | ~1,676 |
-| More Fish in the Sea | 40.00% | ~1,676 |
+| Fish Just Got Reel | 74.00% | ~3,102 |
+| Hey Good Hookin | 64.00% | ~2,683 |
+| I'm on a Boat! | 55.00% | ~2,306 |
+| Can you smell what the Rod is Hooking | 48.00% | ~2,012 |
+| Scaling up | 48.00% | ~2,012 |
+| Ready to Rod and Roll | 40.00% | ~1,677 |
+| More Fish in the Sea | 40.00% | ~1,677 |
 | License to Gill | 32.00% | ~1,341 |
-| Fish Out of Water | 31.00% | ~1,299 |
-| Things that go Splash in the Night | 26.00% | ~1,089 |
-| Goldfish? | 26.00% | ~1,089 |
+| Fish Out of Water | 31.00% | ~1,300 |
+| Things that go Splash in the Night | 26.00% | ~1,090 |
+| Goldfish? | 26.00% | ~1,090 |
 | Going for Gold | 23.00% | ~964 |
-| I'm Hooked! | 17.00% | ~712 |
+| I'm Hooked! | 17.00% | ~713 |
 | More than a Tourist | 12.00% | ~503 |
 | Diamond in the Rough | 12.00% | ~503 |
 | Hook, Line and Sinker | 7.00% | ~293 |
 | Marathon | 7.00% | ~293 |
-| Big Fish Small Pond | 6.00% | ~251 |
+| Big Fish Small Pond | 6.00% | ~252 |
 | I'm the Captain Now | 5.00% | ~210 |
 | School's Out for Summer | 4.00% | ~168 |
 | Gonna Need a Bigger Boat | 3.00% | ~126 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,190 (Ranked 132)  
+Progressed: 4,192 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 4,131 | 0 |
 | 2023-06-07 | 4,154 | 0 |
 | 2023-06-08 | 4,183 | 0 |
-| 2023-06-09 | 4,190 | 0 |
+| 2023-06-09 | 4,192 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 439)  
 Sum: 158 (Ranked 379)  

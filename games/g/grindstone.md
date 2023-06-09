@@ -6,16 +6,16 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,000 |
-| The Journey Begins | 98.00% | ~5,000 |
+| Quinceañera Time | 98.00% | ~5,001 |
+| The Journey Begins | 98.00% | ~5,001 |
 | Slaughterhouse 5 (200 times) | 78.00% | ~3,980 |
-| There is No Escape | 71.00% | ~3,622 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,163 |
-| Royal Flush | 62.00% | ~3,163 |
-| Timber! | 60.00% | ~3,061 |
-| Survive the Bombsequences | 59.00% | ~3,010 |
-| Killed 20 Jerks | 53.00% | ~2,704 |
-| Death Defied | 53.00% | ~2,704 |
+| There is No Escape | 71.00% | ~3,623 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,164 |
+| Royal Flush | 62.00% | ~3,164 |
+| Timber! | 60.00% | ~3,062 |
+| Survive the Bombsequences | 59.00% | ~3,011 |
+| Killed 20 Jerks | 53.00% | ~2,705 |
+| Death Defied | 53.00% | ~2,705 |
 | Fortunate Soul | 49.00% | ~2,500 |
 | Jerk-Slayer | 43.00% | ~2,194 |
 | Employee of the Month | 37.00% | ~1,888 |
@@ -26,10 +26,10 @@ Number of Ratings: 63  (23.09.2022)
 | Pardon my Slob | 32.00% | ~1,633 |
 | Humerus Achievement | 31.00% | ~1,582 |
 | Ghost Facers! | 27.00% | ~1,378 |
-| If It Bleeds, You Can Kill It | 21.00% | ~1,071 |
-| Royal Flush, Again | 19.00% | ~969 |
-| Trying To Get Into That 1%, Huh? | 18.00% | ~918 |
-| Can't Touch This | 18.00% | ~918 |
+| If It Bleeds, You Can Kill It | 21.00% | ~1,072 |
+| Trying To Get Into That 1%, Huh? | 18.00% | ~919 |
+| Can't Touch This | 18.00% | ~919 |
+| Royal Flush, Again | 18.00% | ~919 |
 | Yummy! | 16.00% | ~816 |
 | That Was Quick | 16.00% | ~816 |
 | Goldrush Glory Days | 15.00% | ~765 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,102 (Ranked 127)  
+Progressed: 5,103 (Ranked 127)  
 Completed: 27 (0.53%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 27 (0.53%) (Ranked 111)
 | 2023-06-05 | 5,097 | 26 |
 | 2023-06-06 | 5,098 | 26 |
 | 2023-06-08 | 5,100 | 26 |
-| 2023-06-09 | 5,102 | 27 |
+| 2023-06-09 | 5,103 | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

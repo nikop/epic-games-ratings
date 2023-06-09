@@ -27,11 +27,11 @@
 | Little Mayor | 3.00% | ~7 |
 | Temperate builder | 3.00% | ~7 |
 | Banking city | 2.00% | ~5 |
+| Food provider master | 2.00% | ~5 |
 | Oh, I love parks, listening to birds! | 2.00% | ~5 |
 | Rebel city | 2.00% | ~5 |
 | Temperate urban planner | 2.00% | ~5 |
 | Archipelago builder | 1.00% | ~2 |
-| Food provider master | 1.00% | ~2 |
 | City crisis | 1.00% | ~2 |
 | What is there after death? | 1.00% | ~2 |
 | Freedom to go to the mall! | 1.00% | ~2 |

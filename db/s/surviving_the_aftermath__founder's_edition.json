@@ -1029,9 +1029,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6249,
+  "EOS_Progressed": 6250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5109,6 +5109,11 @@
       "Time": "2023-06-09T09:02:07.1737658+00:00",
       "NumProgressed": 6249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T10:02:04.1272584+00:00",
+      "NumProgressed": 6250,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -5168,7 +5173,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "16",
@@ -5208,7 +5213,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "20",
@@ -5224,7 +5229,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "22",
@@ -5232,7 +5237,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4437
+      "UsersEstimate": 4438
     },
     {
       "ID": "23",
@@ -5304,7 +5309,7 @@
       "Name": "Mogul",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "31",
@@ -5312,7 +5317,7 @@
       "Name": "Ranch Hand",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "32",
@@ -5328,7 +5333,7 @@
       "Name": "Around the World",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "34",
@@ -5344,7 +5349,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "36",
@@ -5352,7 +5357,7 @@
       "Name": "Luxurious Living",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "37",
@@ -5376,7 +5381,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "4",
@@ -5392,7 +5397,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "41",
@@ -5464,7 +5469,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "5",
@@ -5544,7 +5549,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "59",
@@ -5568,7 +5573,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "8",
@@ -5591,15 +5596,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6249,
+      "Progressed": 6250,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-08T12:00:29.6040209+00:00",
-  "LastChanged_Achievements": "2023-06-09T09:02:07.1737654+00:00",
+  "LastChanged_Achievements": "2023-06-09T10:02:04.1272579+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.779066+00:00",
-  "LastUpdate_Ratings": "2023-06-09T09:00:50.4147335+00:00",
-  "LastUpdate_Achievements": "2023-06-09T09:02:07.1738292+00:00"
+  "LastUpdate_Ratings": "2023-06-09T10:00:29.2105668+00:00",
+  "LastUpdate_Achievements": "2023-06-09T10:02:04.127339+00:00"
 }

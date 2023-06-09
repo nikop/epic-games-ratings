@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 573,
+  "EOS_Progressed": 574,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -209,6 +209,11 @@
       "Time": "2023-06-09T02:28:06.1861571+00:00",
       "NumProgressed": 573,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T10:06:10.2881851+00:00",
+      "NumProgressed": 574,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -220,23 +225,23 @@
       "Name": "Learner",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_ASSIGN_LEARN_2",
       "SetID": "ajki3eh",
       "Name": "Dilligent",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_1",
       "SetID": "ajki3eh",
       "Name": "Adored",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_2",
@@ -244,7 +249,7 @@
       "Name": "Precious",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_ASSIGN_RUIN_1",
@@ -252,7 +257,7 @@
       "Name": "Devout",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_ASSIGN_RUIN_2",
@@ -284,7 +289,7 @@
       "Name": "Economical",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_ASSIGN_WORK_2",
@@ -292,7 +297,7 @@
       "Name": "Frugal",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_FINISH_OBJECTIVE",
@@ -300,7 +305,7 @@
       "Name": "Objective Complete",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_FINISH_SUCC_STORY_1",
@@ -340,7 +345,7 @@
       "Name": "I... I did it?",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH_KILL_SUCC_2",
@@ -364,7 +369,7 @@
       "Name": "I did it!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_SUMMON_SUCC_2",
@@ -412,7 +417,7 @@
       "Name": "Between Two Fires",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_UNLOCK_CHAPTER_3",
@@ -420,15 +425,15 @@
       "Name": "A Forked Tongue",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_UNLOCK_LUNA_ENDING",
       "SetID": "ajki3eh",
       "Name": "Luna",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_UNLOCK_SUCC_ENDING_1",
@@ -436,7 +441,7 @@
       "Name": "Ever After",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_UNLOCK_SUCC_ENDING_2",
@@ -460,7 +465,7 @@
       "Name": "The Hobbyist",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_UNLOCK_SUCC_KIND_2",
@@ -468,7 +473,7 @@
       "Name": "The Admirer",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_UNLOCK_SUCC_KIND_3",
@@ -483,15 +488,15 @@
     {
       "ID": "ajki3eh",
       "IsBase": true,
-      "Progressed": 573,
+      "Progressed": 574,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-06-09T09:06:55.3343317+00:00",
+  "LastChanged_Achievements": "2023-06-09T10:06:10.2881848+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:17.2420043+00:00",
-  "LastUpdate_Ratings": "2023-06-09T08:58:38.3499065+00:00",
-  "LastUpdate_Achievements": "2023-06-09T09:06:55.3343496+00:00"
+  "LastUpdate_Ratings": "2023-06-09T09:58:26.4332635+00:00",
+  "LastUpdate_Achievements": "2023-06-09T10:06:10.2882171+00:00"
 }

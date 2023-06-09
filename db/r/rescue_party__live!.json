@@ -4,7 +4,7 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 178,
+  "EOS_Progressed": 179,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.93,
+  "EOS_Completed_Percentage": 3.91,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -156,6 +156,11 @@
       "Time": "2023-06-05T11:05:18.5209888+00:00",
       "NumProgressed": 178,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-09T10:06:09.2363203+00:00",
+      "NumProgressed": 179,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -189,9 +194,9 @@
       "ID": "ACH_HERT_COLLECTOR",
       "SetID": "1p69hf1",
       "Name": "Medal of honor",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -303,14 +308,14 @@
       "Name": "ASAP",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 178,
+      "Progressed": 179,
       "Completed": 7
     }
   ],
@@ -318,8 +323,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-06-09T09:06:54.3074281+00:00",
+  "LastChanged_Achievements": "2023-06-09T10:06:09.2363199+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:45.1722306+00:00",
-  "LastUpdate_Ratings": "2023-06-09T09:00:10.7612103+00:00",
-  "LastUpdate_Achievements": "2023-06-09T09:06:54.3074399+00:00"
+  "LastUpdate_Ratings": "2023-06-09T09:59:51.5657298+00:00",
+  "LastUpdate_Achievements": "2023-06-09T10:06:09.2363356+00:00"
 }

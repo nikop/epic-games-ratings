@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4500,10 +4500,10 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 708176,
-  "EOS_Completed": 12763,
-  "EOS_NewPlayers": 1375,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 708189,
+  "EOS_Completed": 12764,
+  "EOS_NewPlayers": 1380,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -9130,6 +9130,11 @@
       "Time": "2023-06-09T09:07:21.011747+00:00",
       "NumProgressed": 708176,
       "NumCompleted": 12763
+    },
+    {
+      "Time": "2023-06-09T10:06:34.7593028+00:00",
+      "NumProgressed": 708189,
+      "NumCompleted": 12764
     }
   ],
   "TotalAchievements": 50,
@@ -9229,7 +9234,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5665
+      "UsersEstimate": 5666
     },
     {
       "ID": "13_LowAge",
@@ -9413,7 +9418,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5665
+      "UsersEstimate": 5666
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -9477,7 +9482,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -9485,7 +9490,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9540,21 +9545,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17477,
+      "Progressed": 17490,
       "Completed": 10246
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708176,
-      "Completed": 12763
+      "Progressed": 708189,
+      "Completed": 12764
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-09T08:59:42.3216423+00:00",
-  "LastChanged_Achievements": "2023-06-09T09:07:21.0117467+00:00",
+  "LastChanged_Achievements": "2023-06-09T10:06:34.7593023+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-09T08:59:42.3216429+00:00",
-  "LastUpdate_Achievements": "2023-06-09T09:07:21.011802+00:00"
+  "LastUpdate_Ratings": "2023-06-09T09:59:25.5981428+00:00",
+  "LastUpdate_Achievements": "2023-06-09T10:06:34.7593725+00:00"
 }

@@ -5359,10 +5359,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 36999,
       "NumberOfAwardsMax": 4332
+    },
+    {
+      "Time": "2023-06-09T10:00:08.5965831+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 37005,
+      "NumberOfAwardsMax": 4332
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36999,
+  "NumberOfAwards": 37005,
   "NumberOfAwardsMax": 4332,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5382,7 +5388,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 3880
+      "Count": 3886
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10004,9 +10010,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-06-09T02:21:56.3133971+00:00",
-  "LastChanged_Achievements": "2023-06-09T09:07:12.0884832+00:00",
+  "LastChanged": "2023-06-09T10:00:08.5965827+00:00",
+  "LastChanged_Achievements": "2023-06-09T10:06:26.3318271+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:03.1975406+00:00",
-  "LastUpdate_Ratings": "2023-06-09T09:00:28.1092749+00:00",
-  "LastUpdate_Achievements": "2023-06-09T09:07:12.0885277+00:00"
+  "LastUpdate_Ratings": "2023-06-09T10:00:08.5965842+00:00",
+  "LastUpdate_Achievements": "2023-06-09T10:06:26.3318951+00:00"
 }

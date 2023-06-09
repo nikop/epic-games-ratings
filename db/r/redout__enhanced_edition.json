@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224190,
+  "EOS_Progressed": 224192,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5258,6 +5258,11 @@
       "Time": "2023-06-09T09:06:52.1609524+00:00",
       "NumProgressed": 224190,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-09T10:06:07.4428271+00:00",
+      "NumProgressed": 224192,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -5285,7 +5290,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62773
+      "UsersEstimate": 62774
     },
     {
       "ID": "CENTAUR",
@@ -5533,22 +5538,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91918
+      "UsersEstimate": 91919
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 224190,
+      "Progressed": 224192,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-09T09:06:52.160952+00:00",
+  "LastChanged_Achievements": "2023-06-09T10:06:07.4428267+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.4465575+00:00",
-  "LastUpdate_Ratings": "2023-06-09T08:58:50.4772408+00:00",
-  "LastUpdate_Achievements": "2023-06-09T09:06:52.160994+00:00"
+  "LastUpdate_Ratings": "2023-06-09T09:58:37.2315036+00:00",
+  "LastUpdate_Achievements": "2023-06-09T10:06:07.4428925+00:00"
 }
