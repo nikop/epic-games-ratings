@@ -1,7 +1,7 @@
 # Knockout City™
 [Store](https://store.epicgames.com/en-US/p/knockout-city)  
 [View Rawdata](../../db/k/knockout_city™.json)  
-Rating: 4.51 (Ranked 528)  
+Rating: 4.51 (Ranked 529)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,16 +1,16 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.50 (Ranked 546)  
+Rating: 4.52 (Ranked 513)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~685 |
-| Confirming Suspicions | 23.00% | ~563 |
-| The Kraken Wakes | 19.00% | ~465 |
-| It's Starting to Crack | 17.00% | ~416 |
-| Lord of War | 14.00% | ~342 |
-| Change the Channel | 14.00% | ~342 |
+| Meeting Resistance | 28.00% | ~686 |
+| Confirming Suspicions | 23.00% | ~564 |
+| The Kraken Wakes | 19.00% | ~466 |
+| It's Starting to Crack | 16.00% | ~392 |
+| Lord of War | 14.00% | ~343 |
+| Change the Channel | 14.00% | ~343 |
 | Resourceful | 13.00% | ~318 |
 | Taking it back | 12.00% | ~294 |
 | Organ Grinder | 10.00% | ~245 |
@@ -23,7 +23,7 @@ Rating: 4.50 (Ranked 546)
 | Gunslinger | 8.00% | ~196 |
 | Sharpshooter | 8.00% | ~196 |
 | Explosive Efficiency | 8.00% | ~196 |
-| Opposing Force | 6.00% | ~147 |
+| Opposing Force | 7.00% | ~172 |
 | Die Nussknacker Sweet! | 6.00% | ~147 |
 | Der Geist | 6.00% | ~147 |
 | Close Quarters | 6.00% | ~147 |
@@ -35,7 +35,7 @@ Rating: 4.50 (Ranked 546)
 | Skirmisher | 5.00% | ~122 |
 | Set Europe Ablaze | 5.00% | ~122 |
 | Precision Is Key | 4.00% | ~98 |
-| Rigged to Blow | 3.00% | ~73 |
+| Rigged to Blow | 3.00% | ~74 |
 | The Long Game | 2.00% | ~49 |
 | My Little Friend | 2.00% | ~49 |
 | It'll Buff Right Out | 2.00% | ~49 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 546)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,446 (Ranked 147)  
+Progressed: 2,450 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
-| 2023-06-09 | 2,446 | 2 |
+| 2023-06-09 | 2,450 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -172,3 +172,4 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-05 | 4.45 | 0 | 0 |
 | 2023-06-07 | 4.49 | 0 | 0 |
 | 2023-06-08 | 4.50 | 0 | 0 |
+| 2023-06-09 | 4.52 | 0 | 0 |

@@ -6,9 +6,9 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 42.00% | ~180 |
-| Grand Opening | 38.00% | ~163 |
+| Self Defense | 42.00% | ~181 |
 | Circus Electrique Proudly Presents... | 38.00% | ~163 |
+| Grand Opening | 37.00% | ~159 |
 | Path of Learning | 37.00% | ~159 |
 | Built in a Day | 31.00% | ~133 |
 | More Brain Than Brawn | 27.00% | ~116 |
@@ -22,8 +22,8 @@ Number of Ratings: 22  (23.09.2022)
 | Lucky Day | 13.00% | ~56 |
 | Bar Brawler | 13.00% | ~56 |
 | Flawless Presentation | 13.00% | ~56 |
-| One More Thing... | 12.00% | ~51 |
-| King of District 2 | 12.00% | ~51 |
+| One More Thing... | 12.00% | ~52 |
+| King of District 2 | 12.00% | ~52 |
 | Time Travel! | 10.00% | ~43 |
 | Marketing Manager | 10.00% | ~43 |
 | Circus Versus Circus | 8.00% | ~34 |
@@ -32,9 +32,9 @@ Number of Ratings: 22  (23.09.2022)
 | Spirits High | 7.00% | ~30 |
 | Hundred Percent Second | 6.00% | ~26 |
 | King of District 4 | 6.00% | ~26 |
-| Around the Clock | 5.00% | ~21 |
-| Club Champion | 5.00% | ~21 |
-| Mobile Infantry | 5.00% | ~21 |
+| Around the Clock | 5.00% | ~22 |
+| Club Champion | 5.00% | ~22 |
+| Mobile Infantry | 5.00% | ~22 |
 | King of District 5 | 4.00% | ~17 |
 | Accomplished Veteran | 3.00% | ~13 |
 | Hundred Percent Third | 3.00% | ~13 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429 (Ranked 205)  
+Progressed: 430 (Ranked 204)  
 Completed: 1 (0.23%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 1 (0.23%) (Ranked 140)
 | 2023-06-05 | 426 | 1 |
 | 2023-06-06 | 428 | 1 |
 | 2023-06-07 | 429 | 1 |
+| 2023-06-09 | 430 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

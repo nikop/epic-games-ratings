@@ -6,21 +6,21 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,167 |
-| What should I buy? | 83.00% | ~6,396 |
-| Focus! | 62.00% | ~4,778 |
-| Rescued Elder Ent | 62.00% | ~4,778 |
-| The End of the Gold Mane Knights | 47.00% | ~3,622 |
-| False Goddess, Disappear | 39.00% | ~3,005 |
-| Rules of Etiquette | 39.00% | ~3,005 |
-| Quick Movements | 33.00% | ~2,543 |
-| Inventory Management | 33.00% | ~2,543 |
+| The Legend Begins | 93.00% | ~7,168 |
+| What should I buy? | 83.00% | ~6,398 |
+| Focus! | 62.00% | ~4,779 |
+| Rescued Elder Ent | 62.00% | ~4,779 |
+| The End of the Gold Mane Knights | 47.00% | ~3,623 |
+| False Goddess, Disappear | 39.00% | ~3,006 |
+| Rules of Etiquette | 39.00% | ~3,006 |
+| Quick Movements | 33.00% | ~2,544 |
+| Inventory Management | 33.00% | ~2,544 |
 | The Fall of the Leonia Order | 29.00% | ~2,235 |
 | The Hero Killer | 27.00% | ~2,081 |
 | Go Home... | 26.00% | ~2,004 |
-| The Final Battle of the First Hero | 25.00% | ~1,926 |
-| Brain at Full Throttle | 22.00% | ~1,695 |
-| Rookies Welcome | 20.00% | ~1,541 |
+| The Final Battle of the First Hero | 25.00% | ~1,927 |
+| Brain at Full Throttle | 22.00% | ~1,696 |
+| Rookies Welcome | 20.00% | ~1,542 |
 | Deadly Power | 15.00% | ~1,156 |
 | Castle Restoration Plans | 14.00% | ~1,079 |
 | The Dwarven Chandelier | 12.00% | ~925 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~77 |
 | Cold-Blooded | 0.80% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,706 (Ranked 116)  
+Progressed: 7,708 (Ranked 116)  
 Completed: 11 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 11 (0.14%) (Ranked 156)
 | 2023-06-06 | 7,651 | 11 |
 | 2023-06-07 | 7,672 | 11 |
 | 2023-06-08 | 7,699 | 11 |
-| 2023-06-09 | 7,706 | 11 |
+| 2023-06-09 | 7,708 | 11 |
 ## Awards
 Max (Diverse Characters): 115  (Ranked 312)  
 Sum: 760 (Ranked 255)  

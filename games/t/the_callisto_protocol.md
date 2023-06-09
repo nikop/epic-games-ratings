@@ -8,7 +8,7 @@ Rating: 4.18 (Ranked 840)
 | Flesh Wound | 13.00% | ~1,926 |
 | The Outer Way | 12.00% | ~1,778 |
 | Desperate Times | 11.00% | ~1,630 |
-| Paper Jams | 9.00% | ~1,333 |
+| Paper Jams | 10.00% | ~1,482 |
 | Chew 'Em Up | 8.00% | ~1,185 |
 | Reforged | 8.00% | ~1,185 |
 | Workplace Hazard | 7.00% | ~1,037 |
@@ -24,10 +24,10 @@ Rating: 4.18 (Ranked 840)
 | Power Up | 4.00% | ~593 |
 | Instigator | 4.00% | ~110 |
 | Big Game Hunter | 4.00% | ~110 |
-| You Need a Gun | 3.00% | ~444 |
-| The Commonality | 3.00% | ~444 |
-| What Lies Beneath | 3.00% | ~444 |
-| Full Circle | 3.00% | ~444 |
+| You Need a Gun | 3.00% | ~445 |
+| The Commonality | 3.00% | ~445 |
+| What Lies Beneath | 3.00% | ~445 |
+| Full Circle | 3.00% | ~445 |
 | Bear Trap | 3.00% | ~82 |
 | I Do Belong Here | 2.00% | ~296 |
 | In Striking Distance | 2.00% | ~296 |
@@ -35,7 +35,7 @@ Rating: 4.18 (Ranked 840)
 | Big Spender | 2.00% | ~55 |
 | Parole Denied | 1.00% | ~27 |
 | Hoard Mode | 1.00% | ~27 |
-| Grim Reaper | 0.70% | ~104 |
+| Grim Reaper | 0.80% | ~119 |
 | Recidivist | 0.70% | ~19 |
 | Lifer | 0.70% | ~19 |
 | Armed to the Teeth | 0.20% | ~5 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,815 (Ranked 104)  
+Progressed: 14,818 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,10 +95,10 @@ Completed: 54 (0.36%) (Ranked 121)
 | 2023-06-06 | 14,637 | 54 |
 | 2023-06-07 | 14,702 | 54 |
 | 2023-06-08 | 14,777 | 54 |
-| 2023-06-09 | 14,815 | 54 |
+| 2023-06-09 | 14,818 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
-Sum: 297 (Ranked 328)  
+Sum: 298 (Ranked 328)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -106,7 +106,7 @@ Diff (max vs sum): 58
 | This game is Highly Recommended | 51 |
 | This game has Quickly Understood Controls | 47 |
 | This game has Amazing Characters | 47 |
-| This game is Extremely Fun | 44 |
+| This game is Extremely Fun | 45 |
 | This game has Challenging Combat | 36 |
 | This game has a Creative Community | 20 |
 ## Ratings History
@@ -172,3 +172,4 @@ Diff (max vs sum): 58
 | 2023-06-06 | 4.18 | 51 | 294 |
 | 2023-06-07 | 4.18 | 51 | 295 |
 | 2023-06-08 | 4.18 | 52 | 297 |
+| 2023-06-09 | 4.18 | 52 | 298 |

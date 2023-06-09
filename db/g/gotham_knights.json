@@ -1442,7 +1442,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64208,
+  "EOS_Progressed": 64220,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 992,
   "EOS_NewCompleters": 1,
@@ -5637,6 +5637,11 @@
       "Time": "2023-06-09T12:07:56.7523193+00:00",
       "NumProgressed": 64208,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-09T13:12:13.8621036+00:00",
+      "NumProgressed": 64220,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 61,
@@ -5952,7 +5957,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "HARLEY_2",
@@ -5992,7 +5997,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -6040,7 +6045,7 @@
       "Name": "Loose Ends",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "MYSTERY_02",
@@ -6112,7 +6117,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -6135,13 +6140,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64208,
+      "Progressed": 64220,
       "Completed": 94
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34488,
+      "Progressed": 34500,
       "Completed": 2644
     }
   ],
@@ -6149,8 +6154,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-09T12:01:01.7330615+00:00",
-  "LastChanged_Achievements": "2023-06-09T12:07:56.7523186+00:00",
+  "LastChanged_Achievements": "2023-06-09T13:12:13.862103+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-09T12:01:01.7330622+00:00",
-  "LastUpdate_Achievements": "2023-06-09T12:07:56.752412+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:05:28.3596365+00:00",
+  "LastUpdate_Achievements": "2023-06-09T13:12:13.8621895+00:00"
 }

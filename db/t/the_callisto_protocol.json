@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -522,10 +522,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 297,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-06-09T13:03:33.3412116+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 298,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 297,
+  "NumberOfAwards": 298,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -539,7 +545,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -572,9 +578,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14815,
+  "EOS_Progressed": 14818,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3287,6 +3293,11 @@
       "Time": "2023-06-09T12:05:20.383925+00:00",
       "NumProgressed": 14815,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-09T13:09:57.9733966+00:00",
+      "NumProgressed": 14818,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3322,7 +3333,7 @@
       "Name": "You Need a Gun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "DISARM_ENEMY",
@@ -3336,9 +3347,9 @@
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 119
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -3450,7 +3461,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -3472,9 +3483,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1482
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3522,7 +3533,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -3546,7 +3557,7 @@
       "Name": "Full Circle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "STORY_TUNNELS",
@@ -3617,22 +3628,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14815,
+      "Progressed": 14818,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2741,
+      "Progressed": 2744,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-08T19:57:51.4696734+00:00",
-  "LastChanged_Achievements": "2023-06-09T12:05:20.3839244+00:00",
+  "LastChanged": "2023-06-09T13:03:33.3412115+00:00",
+  "LastChanged_Achievements": "2023-06-09T13:09:57.9733962+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-09T11:58:40.2691743+00:00",
-  "LastUpdate_Achievements": "2023-06-09T12:05:20.3839836+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:03:33.341212+00:00",
+  "LastUpdate_Achievements": "2023-06-09T13:09:57.9734474+00:00"
 }

@@ -1,17 +1,17 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 528)  
+Rating: 4.51 (Ranked 529)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~91,922 |
-| NATURAL BORN WINNER | 32.00% | ~71,744 |
-| CALLING HOUSTON | 28.00% | ~62,776 |
-| SNEAKY SNEAKY | 22.00% | ~49,324 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~49,324 |
-| GT9STRADALE | 20.00% | ~44,840 |
+| VANGUARD | 41.00% | ~91,924 |
+| NATURAL BORN WINNER | 32.00% | ~71,745 |
+| CALLING HOUSTON | 28.00% | ~62,777 |
+| SNEAKY SNEAKY | 22.00% | ~49,325 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~49,325 |
+| GT9STRADALE | 20.00% | ~44,841 |
 | CHALLENGER | 11.00% | ~24,662 |
 | ON A ROLL | 9.00% | ~20,178 |
 | CENTAUR | 8.00% | ~17,936 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~448 |
 | ENLIGHTENED | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,201 (Ranked 47)  
+Progressed: 224,204 (Ranked 47)  
 Completed: 46 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 46 (0.02%) (Ranked 195)
 | 2023-06-06 | 223,976 | 45 |
 | 2023-06-07 | 224,067 | 46 |
 | 2023-06-08 | 224,169 | 46 |
-| 2023-06-09 | 224,201 | 46 |
+| 2023-06-09 | 224,204 | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

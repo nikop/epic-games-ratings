@@ -5,10 +5,10 @@
   "Ranking_Rating": 852,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
-  "Ranking_EOS_Progress": 205,
+  "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -274,6 +274,11 @@
       "Time": "2023-06-07T02:27:43.8593036+00:00",
       "NumProgressed": 429,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T13:12:09.7551293+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -283,9 +288,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "631ndc2",
       "Name": "Grand Opening",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -309,7 +314,7 @@
       "Name": "One More Thing...",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -325,7 +330,7 @@
       "Name": "Around the Clock",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -405,7 +410,7 @@
       "Name": "Club Champion",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -525,7 +530,7 @@
       "Name": "King of District 2",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -605,7 +610,7 @@
       "Name": "Self Defense",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -653,7 +658,7 @@
       "Name": "Mobile Infantry",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -684,7 +689,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 1
     }
   ],
@@ -692,8 +697,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-09T12:07:52.3896042+00:00",
+  "LastChanged_Achievements": "2023-06-09T13:12:09.7551289+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:13.7097187+00:00",
-  "LastUpdate_Ratings": "2023-06-09T11:59:58.8886135+00:00",
-  "LastUpdate_Achievements": "2023-06-09T12:07:52.3896535+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:04:38.0896386+00:00",
+  "LastUpdate_Achievements": "2023-06-09T13:12:09.7551799+00:00"
 }

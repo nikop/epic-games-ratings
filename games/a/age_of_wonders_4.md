@@ -38,7 +38,7 @@ Rating: 4.56 (Ranked 452)
 | The Eternal Court | 9.00% | ~400 |
 | Jack of All Tomes | 9.00% | ~400 |
 | Pruning for Progress | 9.00% | ~400 |
-| I've Got Everything I Need Right Here | 6.00% | ~267 |
+| I've Got Everything I Need Right Here | 7.00% | ~311 |
 | Betrayal Most Foul | 5.00% | ~222 |
 | Grexolis | 4.00% | ~178 |
 | One for All, All for One | 4.00% | ~178 |

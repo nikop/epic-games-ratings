@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -667,9 +667,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 25373,
+  "EOS_Progressed": 25381,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1165,
+  "EOS_NewPlayers": 1161,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5832,6 +5832,11 @@
       "Time": "2023-06-09T12:07:37.2906506+00:00",
       "NumProgressed": 25373,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-09T13:11:56.1030965+00:00",
+      "NumProgressed": 25381,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 39,
@@ -5867,7 +5872,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2537
+      "UsersEstimate": 2538
     },
     {
       "ID": "distance500000",
@@ -5883,7 +5888,7 @@
       "Name": "Rookie",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6345
     },
     {
       "ID": "goals180",
@@ -5907,7 +5912,7 @@
       "Name": "Pro",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "hoistthemainsail",
@@ -5923,7 +5928,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "journeyer",
@@ -5963,7 +5968,7 @@
       "Name": "Nomad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4821
+      "UsersEstimate": 4822
     },
     {
       "ID": "novice",
@@ -5971,7 +5976,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4315
     },
     {
       "ID": "playerFelipe",
@@ -5995,7 +6000,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "playerPaz",
@@ -6019,7 +6024,7 @@
       "Name": "Unlock Tupa",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "playerWingsuit",
@@ -6027,7 +6032,7 @@
       "Name": "Human Flight",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "pro",
@@ -6035,7 +6040,7 @@
       "Name": "One With The Board",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "proximityFly1000",
@@ -6051,7 +6056,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6853
     },
     {
       "ID": "sandboarder",
@@ -6067,7 +6072,7 @@
       "Name": "Sightseer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3045
+      "UsersEstimate": 3046
     },
     {
       "ID": "ultimate",
@@ -6107,7 +6112,7 @@
       "Name": "Welcome Maya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4060
+      "UsersEstimate": 4061
     },
     {
       "ID": "unlockpaz",
@@ -6154,15 +6159,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 25373,
+      "Progressed": 25381,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-07T17:59:37.4425865+00:00",
-  "LastChanged_Achievements": "2023-06-09T12:07:37.2906499+00:00",
+  "LastChanged_Achievements": "2023-06-09T13:11:56.1030961+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:36.7044109+00:00",
-  "LastUpdate_Ratings": "2023-06-09T12:00:25.9663614+00:00",
-  "LastUpdate_Achievements": "2023-06-09T12:07:37.2907203+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:04:59.2773573+00:00",
+  "LastUpdate_Achievements": "2023-06-09T13:11:56.1031531+00:00"
 }

@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.50 (Ranked 546)  
+Rating: 4.50 (Ranked 547)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,8 +16,8 @@ Rating: 4.50 (Ranked 546)
 | Collect Iron Ore | 46.00% | ~749 |
 | Defeat 25 Mozis | 45.00% | ~733 |
 | Kitchen Ready To Cook | 45.00% | ~733 |
-| Collect Gold | 43.00% | ~700 |
-| Smithy Ready to Craft | 43.00% | ~700 |
+| Collect Gold | 44.00% | ~716 |
+| Smithy Ready to Craft | 44.00% | ~716 |
 | Fix the Travellers Wagon | 42.00% | ~684 |
 | Complete Elder Faction | 39.00% | ~635 |
 | End of the Mozis | 36.00% | ~586 |

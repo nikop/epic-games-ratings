@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -2203,9 +2203,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 382241,
+  "EOS_Progressed": 382256,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3784,
+  "EOS_NewPlayers": 3776,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7383,6 +7383,11 @@
       "Time": "2023-06-09T12:02:22.9516971+00:00",
       "NumProgressed": 382241,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T13:06:34.0061131+00:00",
+      "NumProgressed": 382256,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -7402,7 +7407,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3822
+      "UsersEstimate": 3823
     },
     {
       "ID": "ACH_CARRYING",
@@ -7418,7 +7423,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11467
+      "UsersEstimate": 11468
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -7442,7 +7447,7 @@
       "Name": "Efficient",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 3822
+      "UsersEstimate": 3823
     },
     {
       "ID": "ACH_EXPLOITATIVE",
@@ -7458,7 +7463,7 @@
       "Name": "Firefight Victory",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "ACH_FIRST_BLOOD",
@@ -7490,7 +7495,7 @@
       "Name": "Hit and Run",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "ACH_HSLD",
@@ -7522,7 +7527,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11467
+      "UsersEstimate": 11468
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -7562,7 +7567,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19112
+      "UsersEstimate": 19113
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -7594,7 +7599,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3822
+      "UsersEstimate": 3823
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -7610,7 +7615,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3822
+      "UsersEstimate": 3823
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -7626,7 +7631,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11467
+      "UsersEstimate": 11468
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -7658,7 +7663,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19112
+      "UsersEstimate": 19113
     },
     {
       "ID": "ACH_WET_FEET",
@@ -7673,15 +7678,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 382241,
+      "Progressed": 382256,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-06-08T18:58:17.3574681+00:00",
-  "LastChanged_Achievements": "2023-06-09T12:02:22.9516963+00:00",
+  "LastChanged_Achievements": "2023-06-09T13:06:34.0061126+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:58.9693316+00:00",
-  "LastUpdate_Ratings": "2023-06-09T11:58:37.0144507+00:00",
-  "LastUpdate_Achievements": "2023-06-09T12:02:22.9517639+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:03:30.7285563+00:00",
+  "LastUpdate_Achievements": "2023-06-09T13:06:34.0061738+00:00"
 }

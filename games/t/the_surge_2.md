@@ -5,20 +5,20 @@ Rating: 4.24 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,388 |
+| Rigged And Ready | 80.00% | ~1,389 |
 | Don't I Know You...? | 76.00% | ~1,319 |
 | Jailbreak | 65.00% | ~1,128 |
-| Suited and Booted | 38.00% | ~659 |
+| Suited and Booted | 38.00% | ~660 |
 | HEADSHOT! | 37.00% | ~642 |
-| Sleeping With The Fishes | 35.00% | ~607 |
-| Overheated | 30.00% | ~520 |
-| High Performance | 30.00% | ~520 |
+| Sleeping With The Fishes | 35.00% | ~608 |
+| Overheated | 30.00% | ~521 |
+| High Performance | 30.00% | ~521 |
 | Powered Up | 28.00% | ~486 |
-| Studied The Blade | 24.00% | ~416 |
+| Studied The Blade | 24.00% | ~417 |
 | Home Invasion | 22.00% | ~382 |
 | Luminary | 22.00% | ~382 |
 | It's a Trap | 22.00% | ~382 |
-| True Survivor | 21.00% | ~364 |
+| True Survivor | 21.00% | ~365 |
 | Shocking | 20.00% | ~347 |
 | Court Martial | 19.00% | ~330 |
 | Offensive Defense | 19.00% | ~330 |
@@ -39,15 +39,15 @@ Rating: 4.24 (Ranked 800)
 | Stimulating The Local Economy | 9.00% | ~156 |
 | Denying Prophecy | 8.00% | ~139 |
 | Defense in Depth | 8.00% | ~139 |
-| A Little Banged Up | 7.00% | ~121 |
-| Reverse Engineering | 7.00% | ~121 |
-| Following In Their Footsteps | 7.00% | ~121 |
+| A Little Banged Up | 7.00% | ~122 |
+| Reverse Engineering | 7.00% | ~122 |
+| Following In Their Footsteps | 7.00% | ~122 |
 | Turbo Booster | 6.00% | ~104 |
+| Juiced Up | 6.00% | ~104 |
 | Squid Pro Quo | 6.00% | ~104 |
 | Reborn | 5.00% | ~87 |
 | Remote Surgery | 5.00% | ~87 |
 | Shrimp Cocktail | 5.00% | ~87 |
-| Juiced Up | 5.00% | ~87 |
 | Hello Darkness My Old Friend | 4.00% | ~69 |
 | Counter-Sniper | 4.00% | ~69 |
 | Geronimo! | 4.00% | ~69 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 800)
 | Three Birds With One Stone | 1.00% | ~17 |
 | The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,735 (Ranked 155)  
+Progressed: 1,736 (Ranked 155)  
 Completed: 10 (0.58%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 10 (0.58%) (Ranked 110)
 | 2023-06-06 | 1,715 | 10 |
 | 2023-06-07 | 1,721 | 10 |
 | 2023-06-08 | 1,733 | 10 |
-| 2023-06-09 | 1,735 | 10 |
+| 2023-06-09 | 1,736 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

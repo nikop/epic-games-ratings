@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -2547,9 +2547,9 @@
       "ID": "STB_DEFEAT_WISTERIA_I",
       "SetID": "3pe2bac",
       "Name": "Old friend",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 645
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2844,8 +2844,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-05T19:57:57.2340443+00:00",
-  "LastChanged_Achievements": "2023-06-09T12:07:43.1728896+00:00",
+  "LastChanged_Achievements": "2023-06-09T13:12:01.6248847+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.5523883+00:00",
-  "LastUpdate_Ratings": "2023-06-09T11:58:18.627047+00:00",
-  "LastUpdate_Achievements": "2023-06-09T12:07:43.1729544+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:03:16.5886983+00:00",
+  "LastUpdate_Achievements": "2023-06-09T13:12:01.6249565+00:00"
 }

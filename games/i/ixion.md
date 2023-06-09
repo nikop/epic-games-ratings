@@ -14,11 +14,11 @@ Rating: 4.57 (Ranked 444)
 | Ready for a New World | 8.00% | ~202 |
 | Permanent Redesigns | 7.00% | ~177 |
 | Ain't Nobody Got Time for That | 7.00% | ~177 |
-| Guy de Borderlands | 6.00% | ~151 |
-| Fully Recycled | 6.00% | ~151 |
-| Breaking Protocol | 6.00% | ~151 |
-| The Ship of Theseus | 6.00% | ~151 |
-| Hope Seeker | 6.00% | ~151 |
+| Guy de Borderlands | 6.00% | ~152 |
+| Fully Recycled | 6.00% | ~152 |
+| Breaking Protocol | 6.00% | ~152 |
+| The Ship of Theseus | 6.00% | ~152 |
+| Hope Seeker | 6.00% | ~152 |
 | A Hunk of Junk | 5.00% | ~126 |
 | Exceeding Capacity | 4.00% | ~101 |
 | Please Make it Stop! | 4.00% | ~101 |
@@ -27,14 +27,14 @@ Rating: 4.57 (Ranked 444)
 | Access Granted | 3.00% | ~76 |
 | Necessary Enhancement | 3.00% | ~76 |
 | Convenient Transport | 3.00% | ~76 |
-| Oats | 2.00% | ~50 |
-| What They Hide From Us | 2.00% | ~50 |
-| Sightseeing | 2.00% | ~50 |
-| In Dolos We Trust | 2.00% | ~50 |
-| BRAWL! | 2.00% | ~50 |
-| All in Good Health | 2.00% | ~50 |
-| From the Past | 2.00% | ~50 |
-| What the Ruins Teach Us | 2.00% | ~50 |
+| Oats | 2.00% | ~51 |
+| What They Hide From Us | 2.00% | ~51 |
+| Sightseeing | 2.00% | ~51 |
+| In Dolos We Trust | 2.00% | ~51 |
+| BRAWL! | 2.00% | ~51 |
+| All in Good Health | 2.00% | ~51 |
+| From the Past | 2.00% | ~51 |
+| What the Ruins Teach Us | 2.00% | ~51 |
 | Mutual Loyalty | 1.00% | ~25 |
 | ...  in a finite world | 1.00% | ~25 |
 | Sustainable Energy | 1.00% | ~25 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 444)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,522 (Ranked 146)  
+Progressed: 2,526 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 2,471 | 0 |
 | 2023-06-07 | 2,488 | 0 |
 | 2023-06-08 | 2,515 | 0 |
-| 2023-06-09 | 2,522 | 0 |
+| 2023-06-09 | 2,526 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
