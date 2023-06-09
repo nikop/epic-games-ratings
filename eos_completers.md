@@ -15,7 +15,7 @@
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.50% |
-| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.68% |
 | 17 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 9.09% |
 | 17 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
@@ -34,7 +34,7 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.26% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.24% |
+| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.20% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.94% |
 | 37 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.94% |
@@ -44,7 +44,7 @@
 | 42 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 44 | [The Complex](games/t/the_complex.md) | 3.31% |
-| 45 | [ZZT!](games/z/zzt!.md) | 3.28% |
+| 45 | [ZZT!](games/z/zzt!.md) | 3.27% |
 | 46 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.12% |
 | 48 | [The Bunker](games/t/the_bunker.md) | 3.03% |
@@ -97,15 +97,15 @@
 | 95 | [Adios](games/a/adios.md) | 0.85% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
-| 98 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.76% |
+| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
 | 98 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
-| 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
+| 100 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.75% |
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
 | 100 | [Them and Us](games/t/them_and_us.md) | 0.75% |
 | 103 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.73% |
 | 104 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.70% |
-| 105 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.69% |
-| 106 | [Train Valley](games/t/train_valley.md) | 0.68% |
+| 105 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.68% |
+| 105 | [Train Valley](games/t/train_valley.md) | 0.68% |
 | 107 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.65% |
 | 107 | [Haven](games/h/haven.md) | 0.65% |
 | 109 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.62% |
@@ -114,12 +114,12 @@
 | 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.52% |
 | 113 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 114 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
-| 115 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
+| 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 117 | [Potion Permit](games/p/potion_permit.md) | 0.44% |
-| 118 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 118 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.37% |
-| 118 | [Tails of Iron](games/t/tails_of_iron.md) | 0.37% |
+| 118 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
+| 119 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 119 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.37% |
 | 121 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 121 | [Tchia](games/t/tchia.md) | 0.36% |
 | 121 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
