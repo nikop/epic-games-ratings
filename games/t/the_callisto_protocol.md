@@ -5,17 +5,17 @@ Rating: 4.18 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~1,927 |
+| Flesh Wound | 13.00% | ~1,928 |
 | The Outer Way | 12.00% | ~1,779 |
-| Desperate Times | 11.00% | ~1,630 |
-| Paper Jams | 10.00% | ~1,482 |
+| Desperate Times | 11.00% | ~1,631 |
+| Paper Jams | 10.00% | ~1,483 |
 | Chew 'Em Up | 8.00% | ~1,186 |
 | Reforged | 8.00% | ~1,186 |
 | Workplace Hazard | 7.00% | ~1,038 |
 | If the SHU Fits... | 7.00% | ~1,038 |
-| Giving Back | 6.00% | ~889 |
-| Get a Grip | 6.00% | ~889 |
-| Without A Paddle | 6.00% | ~889 |
+| Giving Back | 6.00% | ~890 |
+| Get a Grip | 6.00% | ~890 |
+| Without A Paddle | 6.00% | ~890 |
 | Terminated | 5.00% | ~741 |
 | In the Pipe, Five by Five | 5.00% | ~741 |
 | Crash Site | 5.00% | ~741 |
@@ -28,17 +28,17 @@ Rating: 4.18 (Ranked 840)
 | The Commonality | 3.00% | ~445 |
 | What Lies Beneath | 3.00% | ~445 |
 | Full Circle | 3.00% | ~445 |
-| Bear Trap | 3.00% | ~82 |
-| I Do Belong Here | 2.00% | ~296 |
-| In Striking Distance | 2.00% | ~296 |
-| Mugshot | 2.00% | ~296 |
+| Bear Trap | 3.00% | ~83 |
+| I Do Belong Here | 2.00% | ~297 |
+| In Striking Distance | 2.00% | ~297 |
+| Mugshot | 2.00% | ~297 |
 | Big Spender | 2.00% | ~55 |
-| Parole Denied | 1.00% | ~27 |
-| Hoard Mode | 1.00% | ~27 |
+| Parole Denied | 1.00% | ~28 |
+| Hoard Mode | 1.00% | ~28 |
 | Grim Reaper | 0.80% | ~119 |
 | Recidivist | 0.70% | ~19 |
 | Lifer | 0.70% | ~19 |
-| Armed to the Teeth | 0.20% | ~5 |
+| Armed to the Teeth | 0.20% | ~6 |
 | The Protocol is About Life | 0.20% | ~30 |
 | It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~3 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,822 (Ranked 104)  
+Progressed: 14,827 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 54 (0.36%) (Ranked 121)
 | 2023-06-06 | 14,637 | 54 |
 | 2023-06-07 | 14,702 | 54 |
 | 2023-06-08 | 14,777 | 54 |
-| 2023-06-09 | 14,822 | 54 |
+| 2023-06-09 | 14,827 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
 Sum: 301 (Ranked 328)  

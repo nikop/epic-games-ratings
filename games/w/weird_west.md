@@ -6,20 +6,20 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,408 |
+| Unforgiven | 87.00% | ~1,409 |
 | Self-Improvement | 71.00% | ~1,149 |
-| Perky | 66.00% | ~1,068 |
+| Perky | 65.00% | ~1,052 |
 | Let’s Ride | 60.00% | ~971 |
-| Welcome to the Weird West | 57.00% | ~922 |
+| Welcome to the Weird West | 57.00% | ~923 |
 | Dead or Alive | 55.00% | ~890 |
 | Full House | 37.00% | ~599 |
 | Off the Trail | 34.00% | ~550 |
-| Justice Served | 29.00% | ~469 |
+| Justice Served | 29.00% | ~470 |
 | Chain Reaction | 27.00% | ~437 |
-| Scholar | 25.00% | ~404 |
-| Through Their Eyes | 25.00% | ~404 |
-| Dishonored | 24.00% | ~388 |
-| Rain of Death | 24.00% | ~388 |
+| Scholar | 25.00% | ~405 |
+| Through Their Eyes | 25.00% | ~405 |
+| Dishonored | 24.00% | ~389 |
+| Rain of Death | 24.00% | ~389 |
 | The Great Escape | 23.00% | ~372 |
 | That’s All, Folks | 18.00% | ~291 |
 | Winds of War | 16.00% | ~259 |
@@ -37,8 +37,8 @@ Number of Ratings: 125  (23.09.2022)
 | Loyalty to the Pack | 9.00% | ~146 |
 | Mystery Machine | 9.00% | ~146 |
 | The Philosopher’s Stone | 9.00% | ~146 |
-| Gold Digger | 8.00% | ~129 |
-| Eternity Can Wait | 8.00% | ~129 |
+| Gold Digger | 8.00% | ~130 |
+| Eternity Can Wait | 8.00% | ~130 |
 | Do Not Pass Go… | 7.00% | ~113 |
 | Getting the Gang Back Together | 7.00% | ~113 |
 | Monster Hunter | 7.00% | ~113 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.20% | ~3 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,618 (Ranked 158)  
+Progressed: 1,619 (Ranked 158)  
 Completed: 2 (0.12%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 2 (0.12%) (Ranked 161)
 | 2023-06-06 | 1,607 | 2 |
 | 2023-06-07 | 1,611 | 2 |
 | 2023-06-08 | 1,616 | 2 |
-| 2023-06-09 | 1,618 | 2 |
+| 2023-06-09 | 1,619 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 468)  
 Sum: 24 (Ranked 475)  

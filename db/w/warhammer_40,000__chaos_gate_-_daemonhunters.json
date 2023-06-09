@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -534,9 +534,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2875,
+  "EOS_Progressed": 2876,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1714,6 +1714,11 @@
       "Time": "2023-06-09T04:07:22.2498203+00:00",
       "NumProgressed": 2875,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T15:06:01.3686993+00:00",
+      "NumProgressed": 2876,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1741,7 +1746,7 @@
       "Name": "Look Over There!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "BloodAndIron",
@@ -1885,7 +1890,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "Kills_Auto",
@@ -1893,7 +1898,7 @@
       "Name": "Not So Fast...",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "Kills_Bleed",
@@ -1949,7 +1954,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "Kills_Streak",
@@ -2196,21 +2201,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2875,
+      "Progressed": 2876,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2875,
+      "Progressed": 2876,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-07T10:59:27.9467392+00:00",
-  "LastChanged_Achievements": "2023-06-09T14:05:52.2646955+00:00",
+  "LastChanged_Achievements": "2023-06-09T15:06:01.3686978+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:58:34.8346672+00:00",
-  "LastUpdate_Achievements": "2023-06-09T14:05:52.2647578+00:00"
+  "LastUpdate_Ratings": "2023-06-09T14:58:39.0690225+00:00",
+  "LastUpdate_Achievements": "2023-06-09T15:06:01.3687622+00:00"
 }

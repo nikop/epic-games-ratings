@@ -5,17 +5,17 @@ Rating: 3.88 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~479 |
-| Electrician | 34.00% | ~397 |
-| Fear my botany powers, Mars | 31.00% | ~362 |
+| I don't feel so good | 41.00% | ~480 |
+| Electrician | 34.00% | ~398 |
+| Fear my botany powers, Mars | 31.00% | ~363 |
 | Zero Waste | 29.00% | ~339 |
 | Bob The Builder | 29.00% | ~339 |
-| I am the greatest botanist on this planet. | 28.00% | ~327 |
+| I am the greatest botanist on this planet. | 28.00% | ~328 |
 | Gardener | 24.00% | ~281 |
 | Miner | 24.00% | ~281 |
-| Houston we have a problem | 21.00% | ~245 |
-| Occupy Mars! | 21.00% | ~245 |
-| Detective | 18.00% | ~210 |
+| Houston we have a problem | 21.00% | ~246 |
+| Occupy Mars! | 21.00% | ~246 |
+| Detective | 18.00% | ~211 |
 | The Collector | 14.00% | ~164 |
 | Get your hands dirty | 9.00% | ~105 |
 | All Wheel Trouble | 6.00% | ~70 |
@@ -30,8 +30,8 @@ Rating: 3.88 (Ranked 919)
 | Explosive Miner | 0.90% | ~11 |
 | Rocket Jump | 0.70% | ~8 |
 | Thunderstruck | 0.70% | ~8 |
+| Caveman | 0.60% | ~7 |
 | 5G Network | 0.50% | ~6 |
-| Caveman | 0.50% | ~6 |
 | Bull’s eye | 0.40% | ~5 |
 | Planetary Defence | 0.40% | ~5 |
 | Rover Mechanic | 0.40% | ~5 |
@@ -54,7 +54,7 @@ Rating: 3.88 (Ranked 919)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,169 (Ranked 167)  
+Progressed: 1,170 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 1,142 | 0 |
 | 2023-06-07 | 1,144 | 0 |
 | 2023-06-08 | 1,162 | 0 |
-| 2023-06-09 | 1,169 | 0 |
+| 2023-06-09 | 1,170 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

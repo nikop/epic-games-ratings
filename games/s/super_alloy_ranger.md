@@ -22,6 +22,7 @@
 | The Hidden Secret | 5.00% | ~2 |
 | Antaeus | 5.00% | ~2 |
 | Air Interception | 5.00% | ~2 |
+| Decapitation Strike | 5.00% | ~2 |
 | The Deep Frozen Conqueror | 3.00% | ~1 |
 | The Abyss Conqueror | 3.00% | ~1 |
 | The Infinite Train Conqueror | 3.00% | ~1 |
@@ -33,7 +34,6 @@
 | Rapidfire | 3.00% | ~1 |
 | Keep it Up, rookie! | 3.00% | ~1 |
 | Proliferation | 3.00% | ~1 |
-| Decapitation Strike | 3.00% | ~1 |
 | Clean Sweep | 3.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |
 | The Fortress Conqueror | 0.00% | ~0 |

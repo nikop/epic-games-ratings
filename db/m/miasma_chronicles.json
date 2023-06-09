@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1068,
+  "EOS_Progressed": 1069,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1491,6 +1491,11 @@
       "Time": "2023-06-09T14:00:16.3322711+00:00",
       "NumProgressed": 1068,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T15:00:19.2444922+00:00",
+      "NumProgressed": 1069,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1518,7 +1523,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1548,9 +1553,9 @@
       "ID": "CHAIN_KILLER",
       "SetID": "9a4jnji",
       "Name": "Chain Killer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 214
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1574,7 +1579,7 @@
       "Name": "Commando",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CROAKED",
@@ -1614,7 +1619,7 @@
       "Name": "Limp Richard",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1646,7 +1651,7 @@
       "Name": "Editor Adept",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ENDGAME",
@@ -1678,7 +1683,7 @@
       "Name": "Firestarter",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1750,7 +1755,7 @@
       "Name": "I am the law!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "INFILTRATOR",
@@ -1766,7 +1771,7 @@
       "Name": "Lumberjack",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1806,7 +1811,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "RECYCLER",
@@ -1838,7 +1843,7 @@
       "Name": "Sensei",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1868,9 +1873,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 310
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1909,7 +1914,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1068,
+      "Progressed": 1069,
       "Completed": 0
     }
   ],
@@ -1917,8 +1922,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-08T20:58:17.2515155+00:00",
-  "LastChanged_Achievements": "2023-06-09T14:00:16.3322706+00:00",
+  "LastChanged_Achievements": "2023-06-09T15:00:19.2444917+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:58:15.0792628+00:00",
-  "LastUpdate_Achievements": "2023-06-09T14:00:16.3323348+00:00"
+  "LastUpdate_Ratings": "2023-06-09T14:58:17.770517+00:00",
+  "LastUpdate_Achievements": "2023-06-09T15:00:19.2445523+00:00"
 }

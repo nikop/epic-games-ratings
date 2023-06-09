@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -584,9 +584,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14822,
+  "EOS_Progressed": 14827,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3309,6 +3309,11 @@
       "Time": "2023-06-09T14:04:00.5416431+00:00",
       "NumProgressed": 14822,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-09T15:04:10.7021742+00:00",
+      "NumProgressed": 14827,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3328,7 +3333,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -3336,7 +3341,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3352,7 +3357,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3384,7 +3389,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -3416,7 +3421,7 @@
       "Name": "Parole Denied",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -3424,7 +3429,7 @@
       "Name": "Get a Grip",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3432,7 +3437,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "KILL_2HEAD",
@@ -3496,7 +3501,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3504,7 +3509,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -3528,7 +3533,7 @@
       "Name": "Without A Paddle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "STORY_HANGAR",
@@ -3552,7 +3557,7 @@
       "Name": "Desperate Times",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3608,7 +3613,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -3616,7 +3621,7 @@
       "Name": "Hoard Mode",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -3639,13 +3644,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14822,
+      "Progressed": 14827,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2748,
+      "Progressed": 2753,
       "Completed": 29
     }
   ],
@@ -3653,8 +3658,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-09T13:57:54.3107791+00:00",
-  "LastChanged_Achievements": "2023-06-09T14:04:00.5416425+00:00",
+  "LastChanged_Achievements": "2023-06-09T15:04:10.7021736+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:57:54.3107804+00:00",
-  "LastUpdate_Achievements": "2023-06-09T14:04:00.5416929+00:00"
+  "LastUpdate_Ratings": "2023-06-09T14:57:57.1766621+00:00",
+  "LastUpdate_Achievements": "2023-06-09T15:04:10.7022277+00:00"
 }

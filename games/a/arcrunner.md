@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 92.00% | ~226 |
-| Terminated I | 74.00% | ~182 |
-| Challenge Accepted | 72.00% | ~177 |
-| Nanonic I | 71.00% | ~175 |
-| Unlocked and Loaded | 68.00% | ~167 |
-| Terminated II | 55.00% | ~135 |
-| Rookie | 39.00% | ~96 |
-| The City | 35.00% | ~86 |
-| Terminated III | 33.00% | ~81 |
-| Challenge Mastered | 29.00% | ~71 |
-| Nanonic II | 28.00% | ~69 |
-| Supply Run | 15.00% | ~37 |
-| Nanonic III | 14.00% | ~34 |
+| Augmented | 92.00% | ~230 |
+| Terminated I | 74.00% | ~185 |
+| Challenge Accepted | 72.00% | ~180 |
+| Nanonic I | 71.00% | ~178 |
+| Unlocked and Loaded | 68.00% | ~170 |
+| Terminated II | 54.00% | ~135 |
+| Rookie | 38.00% | ~95 |
+| The City | 36.00% | ~90 |
+| Terminated III | 33.00% | ~82 |
+| Challenge Mastered | 29.00% | ~72 |
+| Nanonic II | 28.00% | ~70 |
+| Nanonic III | 15.00% | ~38 |
+| Supply Run | 15.00% | ~38 |
 | Up Close And Personal | 13.00% | ~32 |
 | Cybernetic | 12.00% | ~30 |
-| Starship Docks | 11.00% | ~27 |
+| Starship Docks | 11.00% | ~28 |
 | The Bigger They Are | 10.00% | ~25 |
 | Eden Heights | 6.00% | ~15 |
 | Fully Modded | 4.00% | ~10 |
-| Outer Core | 3.00% | ~7 |
-| Trickshot | 3.00% | ~7 |
-| Inner Core | 2.00% | ~5 |
+| Inner Core | 3.00% | ~8 |
+| Outer Core | 3.00% | ~8 |
+| Trickshot | 3.00% | ~8 |
+| Destruction | 2.00% | ~5 |
 | Integration | 2.00% | ~5 |
 | Ripperdoc | 2.00% | ~5 |
-| Destruction | 0.80% | ~2 |
 | Hard Boiled | 0.80% | ~2 |
 | Cyborg | 0.40% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246 (Ranked 238)  
+Progressed: 250 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 126 | 0 |
 | 2023-06-07 | 185 | 0 |
 | 2023-06-08 | 231 | 0 |
-| 2023-06-09 | 246 | 0 |
+| 2023-06-09 | 250 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

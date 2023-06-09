@@ -3,12 +3,12 @@
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 259,
-  "Ranking_Popularity": 317,
+  "Ranking_Popularity": 318,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -900,9 +900,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3505,
+  "EOS_Progressed": 3509,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4020,6 +4020,11 @@
       "Time": "2023-06-09T12:03:19.2997255+00:00",
       "NumProgressed": 3505,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T15:00:16.4255829+00:00",
+      "NumProgressed": 3509,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4039,7 +4044,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -4047,7 +4052,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -4087,7 +4092,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -4095,7 +4100,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -4111,7 +4116,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -4119,7 +4124,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -4127,7 +4132,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1614
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4135,7 +4140,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -4143,7 +4148,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -4151,7 +4156,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -4159,7 +4164,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -4183,7 +4188,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -4191,7 +4196,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2667
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4215,7 +4220,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -4223,7 +4228,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_MYWAYS",
@@ -4287,7 +4292,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1684
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4303,7 +4308,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4311,7 +4316,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -4319,7 +4324,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -4327,7 +4332,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -4335,7 +4340,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -4350,15 +4355,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3505,
+      "Progressed": 3509,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-08T16:00:48.5548641+00:00",
-  "LastChanged_Achievements": "2023-06-09T13:08:14.0091459+00:00",
+  "LastChanged_Achievements": "2023-06-09T15:00:16.4255595+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:59:51.7596732+00:00",
-  "LastUpdate_Achievements": "2023-06-09T13:08:14.0092028+00:00"
+  "LastUpdate_Ratings": "2023-06-09T14:59:53.1002574+00:00",
+  "LastUpdate_Achievements": "2023-06-09T15:00:16.4275706+00:00"
 }

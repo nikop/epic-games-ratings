@@ -33,7 +33,7 @@
 | Seven at one stroke | 21.00% | ~214 |
 | General Manager | 21.00% | ~214 |
 | Country Life | 21.00% | ~214 |
-| Hostile Takeover | 20.00% | ~204 |
+| Hostile Takeover | 21.00% | ~214 |
 | Trailblazer | 18.00% | ~184 |
 | Traffic Junction | 15.00% | ~153 |
 | Breaking Ground | 15.00% | ~153 |

@@ -6,18 +6,18 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,001 |
-| The Journey Begins | 98.00% | ~5,001 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,980 |
-| There is No Escape | 71.00% | ~3,623 |
+| Quinceañera Time | 98.00% | ~5,002 |
+| The Journey Begins | 98.00% | ~5,002 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,981 |
+| There is No Escape | 71.00% | ~3,624 |
 | Fun, Flirty, and Thirty | 62.00% | ~3,164 |
 | Royal Flush | 62.00% | ~3,164 |
 | Timber! | 60.00% | ~3,062 |
 | Survive the Bombsequences | 59.00% | ~3,011 |
 | Killed 20 Jerks | 53.00% | ~2,705 |
 | Death Defied | 53.00% | ~2,705 |
-| Fortunate Soul | 49.00% | ~2,500 |
-| Jerk-Slayer | 43.00% | ~2,194 |
+| Fortunate Soul | 49.00% | ~2,501 |
+| Jerk-Slayer | 43.00% | ~2,195 |
 | Employee of the Month | 37.00% | ~1,888 |
 | I Believe I Can Fly | 37.00% | ~1,888 |
 | Bone Collector | 35.00% | ~1,786 |
@@ -30,15 +30,15 @@ Number of Ratings: 63  (23.09.2022)
 | Trying To Get Into That 1%, Huh? | 18.00% | ~919 |
 | Can't Touch This | 18.00% | ~919 |
 | Royal Flush, Again | 18.00% | ~919 |
-| Yummy! | 16.00% | ~816 |
-| That Was Quick | 16.00% | ~816 |
-| Goldrush Glory Days | 15.00% | ~765 |
-| Best Party Guest | 15.00% | ~765 |
-| Shrub it Off | 15.00% | ~765 |
-| Collected 50 mushrooms | 14.00% | ~714 |
-| Budding Gardener | 14.00% | ~714 |
-| Stop Hitting Each Other | 13.00% | ~663 |
-| Ultimate Jerk | 13.00% | ~663 |
+| Yummy! | 16.00% | ~817 |
+| That Was Quick | 16.00% | ~817 |
+| Goldrush Glory Days | 15.00% | ~766 |
+| Best Party Guest | 15.00% | ~766 |
+| Shrub it Off | 15.00% | ~766 |
+| Collected 50 mushrooms | 14.00% | ~715 |
+| Budding Gardener | 14.00% | ~715 |
+| Stop Hitting Each Other | 13.00% | ~664 |
+| Ultimate Jerk | 13.00% | ~664 |
 | Hot Potato | 10.00% | ~510 |
 | Off the Beaten Path | 9.00% | ~459 |
 | It's Been a Blast | 9.00% | ~459 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,103 (Ranked 127)  
+Progressed: 5,104 (Ranked 127)  
 Completed: 27 (0.53%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 27 (0.53%) (Ranked 111)
 | 2023-06-05 | 5,097 | 26 |
 | 2023-06-06 | 5,098 | 26 |
 | 2023-06-08 | 5,100 | 26 |
-| 2023-06-09 | 5,103 | 27 |
+| 2023-06-09 | 5,104 | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

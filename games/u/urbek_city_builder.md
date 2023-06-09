@@ -12,7 +12,7 @@
 | The woodcutter | 21.00% | ~49 |
 | I like books | 19.00% | ~44 |
 | I like my life | 18.00% | ~42 |
-| Clean energy | 17.00% | ~39 |
+| Clean energy | 18.00% | ~42 |
 | Soviet town | 17.00% | ~39 |
 | Bucolic city | 13.00% | ~30 |
 | I love books! | 9.00% | ~21 |

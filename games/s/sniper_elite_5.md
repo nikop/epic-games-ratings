@@ -11,18 +11,18 @@ Rating: 4.52 (Ranked 513)
 | It's Starting to Crack | 17.00% | ~418 |
 | Lord of War | 14.00% | ~344 |
 | Change the Channel | 14.00% | ~344 |
-| Resourceful | 13.00% | ~319 |
+| Resourceful | 13.00% | ~320 |
 | Taking it back | 12.00% | ~295 |
 | Organ Grinder | 10.00% | ~246 |
 | As Quiet as a Mouse | 10.00% | ~246 |
 | Target America | 10.00% | ~246 |
 | The Kraken Sleeps | 9.00% | ~221 |
-| Liberté | 8.00% | ~196 |
-| Enemy at the Gates | 8.00% | ~196 |
-| Just a Flesh Wound | 8.00% | ~196 |
-| Gunslinger | 8.00% | ~196 |
-| Sharpshooter | 8.00% | ~196 |
-| Explosive Efficiency | 8.00% | ~196 |
+| Liberté | 8.00% | ~197 |
+| Enemy at the Gates | 8.00% | ~197 |
+| Just a Flesh Wound | 8.00% | ~197 |
+| Gunslinger | 8.00% | ~197 |
+| Sharpshooter | 8.00% | ~197 |
+| Explosive Efficiency | 8.00% | ~197 |
 | Opposing Force | 7.00% | ~172 |
 | Die Nussknacker Sweet! | 6.00% | ~147 |
 | Der Geist | 6.00% | ~147 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 513)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,456 (Ranked 147)  
+Progressed: 2,458 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
-| 2023-06-09 | 2,456 | 2 |
+| 2023-06-09 | 2,458 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

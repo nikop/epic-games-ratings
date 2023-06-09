@@ -4,13 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Steel Shadow | 4.00% | ~25 |
+| The Steel Shadow | 5.00% | ~32 |
+| Cartographer | 5.00% | ~32 |
 | Treasure Trove | 4.00% | ~25 |
 | Like Clockwork | 4.00% | ~25 |
+| Street Style | 4.00% | ~25 |
 | The Betrayer | 4.00% | ~25 |
 | The Man Who Shattered Time | 4.00% | ~25 |
 | Make Up For Lost Time | 4.00% | ~25 |
-| Cartographer | 4.00% | ~25 |
 | Time Flies | 4.00% | ~25 |
 | No, Thanks! | 4.00% | ~25 |
 | Breaking Down Barriers | 4.00% | ~25 |
@@ -19,8 +20,8 @@
 | Time Heals All Wounds | 4.00% | ~25 |
 | Golem Chaser | 4.00% | ~25 |
 | Immaculate Aim | 4.00% | ~25 |
+| The Family Fortune | 4.00% | ~25 |
 | Chaincrawler Explorer | 3.00% | ~19 |
-| Street Style | 3.00% | ~19 |
 | Family Memories | 3.00% | ~19 |
 | The Mysterious Stranger | 3.00% | ~19 |
 | Whiz Kid | 3.00% | ~19 |
@@ -32,8 +33,8 @@
 | Sump Explorer | 3.00% | ~19 |
 | Check Your Pulse | 3.00% | ~19 |
 | Immaculate Aim | 3.00% | ~19 |
+| Ask Questions Later | 3.00% | ~19 |
 | The Brass Boss | 3.00% | ~19 |
-| The Family Fortune | 3.00% | ~19 |
 | Right On Time | 2.00% | ~13 |
 | Corin Goes Home | 2.00% | ~13 |
 | Sartorialist | 2.00% | ~13 |
@@ -42,7 +43,6 @@
 | Fairgrounds Explorer | 2.00% | ~13 |
 | Syron for Hope | 2.00% | ~13 |
 | Theater Explorer | 2.00% | ~13 |
-| Ask Questions Later | 2.00% | ~13 |
 | Good Neighbor | 2.00% | ~13 |
 | Cultivair Explorer | 1.00% | ~6 |
 | Golem Hunter | 1.00% | ~6 |

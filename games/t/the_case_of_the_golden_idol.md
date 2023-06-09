@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Solved first case | 89.00% | ~113 |
 | Solved second case | 85.00% | ~108 |
-| Solved third case | 71.00% | ~90 |
-| Solved fourth case | 54.00% | ~69 |
+| Solved third case | 72.00% | ~91 |
+| Solved fourth case | 55.00% | ~70 |
 | Solved sixth case | 33.00% | ~42 |
 | Solved seventh case | 32.00% | ~41 |
 | Solved eighth case | 28.00% | ~36 |

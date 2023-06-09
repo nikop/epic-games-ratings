@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7710,
+  "EOS_Progressed": 7711,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2552,6 +2552,11 @@
       "Time": "2023-06-09T14:05:26.2996869+00:00",
       "NumProgressed": 7710,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-09T15:05:36.0362799+00:00",
+      "NumProgressed": 7711,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2587,7 +2592,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4780
+      "UsersEstimate": 4781
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2595,7 +2600,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "DwarfChandelier",
@@ -2619,7 +2624,7 @@
       "Name": "Deadly Power",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -2691,7 +2696,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4780
+      "UsersEstimate": 4781
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2699,7 +2704,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "SkeletonKing",
@@ -2715,7 +2720,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "TheLegendBegins",
@@ -2723,7 +2728,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7170
+      "UsersEstimate": 7171
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2747,22 +2752,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6399
+      "UsersEstimate": 6400
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7710,
+      "Progressed": 7711,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
-  "LastChanged_Achievements": "2023-06-09T14:05:26.2996863+00:00",
+  "LastChanged_Achievements": "2023-06-09T15:05:36.0362783+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:58:48.0676435+00:00",
-  "LastUpdate_Achievements": "2023-06-09T14:05:26.2997151+00:00"
+  "LastUpdate_Ratings": "2023-06-09T14:58:51.9781361+00:00",
+  "LastUpdate_Achievements": "2023-06-09T15:05:36.0363084+00:00"
 }

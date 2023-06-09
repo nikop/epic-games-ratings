@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,7 +208,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22814,
+  "EOS_Progressed": 22815,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -1318,6 +1318,11 @@
       "Time": "2023-06-09T13:10:21.6765338+00:00",
       "NumProgressed": 22814,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-09T15:04:30.6042393+00:00",
+      "NumProgressed": 22815,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1345,7 +1350,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17567
+      "UsersEstimate": 17568
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -1409,7 +1414,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5475
+      "UsersEstimate": 5476
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -1417,7 +1422,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5475
+      "UsersEstimate": 5476
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -1449,7 +1454,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13004
+      "UsersEstimate": 13005
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1457,7 +1462,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13460
+      "UsersEstimate": 13461
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -1513,7 +1518,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16654
+      "UsersEstimate": 16655
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1584,22 +1589,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22814,
+      "Progressed": 22815,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 107,
-      "Completed": 107
+      "Progressed": 108,
+      "Completed": 108
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-06-09T14:04:20.2984494+00:00",
+  "LastChanged_Achievements": "2023-06-09T15:04:30.6042377+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:10.2395765+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:57:59.5026477+00:00",
-  "LastUpdate_Achievements": "2023-06-09T14:04:20.2984807+00:00"
+  "LastUpdate_Ratings": "2023-06-09T14:58:02.2980506+00:00",
+  "LastUpdate_Achievements": "2023-06-09T15:04:30.6042719+00:00"
 }

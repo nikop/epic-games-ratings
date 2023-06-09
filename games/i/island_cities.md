@@ -12,7 +12,7 @@
 | Found an oasis | 42.00% | ~126 |
 | Burger or pizza? | 38.00% | ~114 |
 | Passion for sports | 33.00% | ~99 |
-| Who loves trains? | 28.00% | ~84 |
+| Who loves trains? | 29.00% | ~87 |
 | Easy and steady climb | 27.00% | ~81 |
 | At the heart of the city | 24.00% | ~72 |
 | Calm neighborhood | 23.00% | ~69 |
@@ -24,7 +24,7 @@
 | Le jardin magnifique | 18.00% | ~54 |
 | Aiming for a living and human city | 16.00% | ~48 |
 | City of dreams | 16.00% | ~48 |
-| Happy Christmas night! | 15.00% | ~45 |
+| Happy Christmas night! | 16.00% | ~48 |
 | Night walk along the beach | 15.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 301 (Ranked 227)  

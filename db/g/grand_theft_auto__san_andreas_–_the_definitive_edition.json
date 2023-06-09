@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10017,
+  "EOS_Progressed": 10021,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 814,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4143,6 +4143,11 @@
       "Time": "2023-06-09T14:05:49.5554422+00:00",
       "NumProgressed": 10017,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-09T15:05:58.6365292+00:00",
+      "NumProgressed": 10021,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -4154,7 +4159,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8014
+      "UsersEstimate": 8017
     },
     {
       "ID": "ACH02",
@@ -4202,7 +4207,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "ACH08",
@@ -4210,7 +4215,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4808
+      "UsersEstimate": 4810
     },
     {
       "ID": "ACH09",
@@ -4322,7 +4327,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "ACH23",
@@ -4330,7 +4335,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2305
     },
     {
       "ID": "ACH24",
@@ -4378,7 +4383,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "ACH30",
@@ -4433,7 +4438,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10017,
+      "Progressed": 10021,
       "Completed": 17
     }
   ],
@@ -4441,8 +4446,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-07T10:00:00.0297825+00:00",
-  "LastChanged_Achievements": "2023-06-09T14:05:49.5554413+00:00",
+  "LastChanged_Achievements": "2023-06-09T15:05:58.6365285+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.816384+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:59:56.5339477+00:00",
-  "LastUpdate_Achievements": "2023-06-09T14:05:49.5554895+00:00"
+  "LastUpdate_Ratings": "2023-06-09T14:59:57.7031066+00:00",
+  "LastUpdate_Achievements": "2023-06-09T15:05:58.6365845+00:00"
 }
