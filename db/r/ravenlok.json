@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 978,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 6.65,
   "EosHistory": [
@@ -2321,9 +2321,9 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 333
     },
     {
       "ID": "15",
@@ -2377,9 +2377,9 @@
       "ID": "20",
       "SetID": "d0g98p",
       "Name": "Stardust",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 333
     },
     {
       "ID": "21",
@@ -2690,8 +2690,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-09T16:06:19.3419097+00:00",
+  "LastChanged_Achievements": "2023-06-09T17:06:55.4547462+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-09T15:57:37.8093409+00:00",
-  "LastUpdate_Achievements": "2023-06-09T16:06:19.3420202+00:00"
+  "LastUpdate_Ratings": "2023-06-09T16:57:43.0533234+00:00",
+  "LastUpdate_Achievements": "2023-06-09T17:06:55.4548068+00:00"
 }

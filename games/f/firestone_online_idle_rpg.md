@@ -9,7 +9,7 @@ Rating: 4.05 (Ranked 889)
 | World Map | 80.00% | ~1,078 |
 | Temple of Eternals | 57.00% | ~768 |
 | Prestigious | 53.00% | ~714 |
-| Fellowship Power | 40.00% | ~539 |
+| Fellowship Power | 41.00% | ~552 |
 | Guild Power | 24.00% | ~323 |
 | Prestigious x10 | 21.00% | ~283 |
 | The game is on | 18.00% | ~242 |
@@ -49,12 +49,12 @@ Rating: 4.05 (Ranked 889)
 | Master Enchanter | 4.00% | ~54 |
 | Missions Dedication | 4.00% | ~54 |
 | Weekly Quest Completionist | 4.00% | ~54 |
+| Crystal Mining | 3.00% | ~40 |
 | Dragon Slayer | 3.00% | ~40 |
 | Enchanting skill | 3.00% | ~40 |
 | Engineer Mastery | 3.00% | ~40 |
 | Lock And Load | 3.00% | ~40 |
 | Blueprint Upgrades | 2.00% | ~27 |
-| Crystal Mining | 2.00% | ~27 |
 | Sailor | 2.00% | ~27 |
 | What lies behind the bush | 2.00% | ~27 |
 | Active Member | 1.00% | ~13 |

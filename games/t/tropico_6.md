@@ -6,19 +6,19 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,668 |
-| Un-Lonely Island | 48.00% | ~1,685 |
-| The Beginning of a Servantship | 46.00% | ~1,615 |
-| Trade Is My Trait | 37.00% | ~1,299 |
+| Just One...More...Term... | 76.00% | ~2,671 |
+| Un-Lonely Island | 48.00% | ~1,687 |
+| The Beginning of a Servantship | 46.00% | ~1,616 |
+| Trade Is My Trait | 37.00% | ~1,300 |
 | Number 18 | 25.00% | ~878 |
-| We Don't Have Time For That | 20.00% | ~702 |
-| The Governator | 18.00% | ~632 |
+| We Don't Have Time For That | 20.00% | ~703 |
+| The Governator | 18.00% | ~633 |
 | Caribbean Comrade | 17.00% | ~597 |
 | The Legend of Langostino | 17.00% | ~597 |
 | The Dreamer of Dreams | 16.00% | ~562 |
-| Happy Ending? | 11.00% | ~386 |
-| Go Sovereigns! | 11.00% | ~386 |
-| For Science! | 11.00% | ~386 |
+| Happy Ending? | 11.00% | ~387 |
+| Go Sovereigns! | 11.00% | ~387 |
+| For Science! | 11.00% | ~387 |
 | Of Seals And Men | 10.00% | ~351 |
 | Shackadelic | 10.00% | ~351 |
 | Double Trouble | 9.00% | ~316 |
@@ -32,7 +32,7 @@ Number of Ratings: 398  (23.09.2022)
 | Watch The World Burn | 6.00% | ~211 |
 | Fairy Tale Come True | 6.00% | ~211 |
 | Viva Tropico! | 5.00% | ~176 |
-| Apocalypso | 4.00% | ~140 |
+| Apocalypso | 4.00% | ~141 |
 | Been there, Done That | 3.00% | ~105 |
 | Narcissist | 3.00% | ~105 |
 | Promising Endeavors | 3.00% | ~105 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~32 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,511 (Ranked 134)  
+Progressed: 3,514 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 1 (0.03%) (Ranked 190)
 | 2023-06-06 | 3,443 | 1 |
 | 2023-06-07 | 3,467 | 1 |
 | 2023-06-08 | 3,491 | 1 |
-| 2023-06-09 | 3,511 | 1 |
+| 2023-06-09 | 3,514 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 318)  
 Sum: 757 (Ranked 256)  

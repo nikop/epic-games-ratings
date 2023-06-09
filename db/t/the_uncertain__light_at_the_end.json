@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -299,6 +299,11 @@
       "Time": "2023-06-08T23:06:40.7732488+00:00",
       "NumProgressed": 445,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-09T17:07:19.2575795+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -318,7 +323,7 @@
       "Name": "Identity Theft",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Butterfly",
@@ -390,7 +395,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Healthy_Child",
@@ -398,7 +403,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Hitman",
@@ -430,7 +435,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "Leisurely_Strol",
@@ -438,7 +443,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "MISSING_DATA",
@@ -446,7 +451,7 @@
       "Name": "Does Not Compute",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Misanthrope",
@@ -541,7 +546,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 5
     }
   ],
@@ -549,8 +554,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-06-09T16:06:41.1220937+00:00",
+  "LastChanged_Achievements": "2023-06-09T17:07:19.2575789+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:03.082578+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:01:03.9435203+00:00",
-  "LastUpdate_Achievements": "2023-06-09T16:06:41.1221165+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:01:33.8645624+00:00",
+  "LastUpdate_Achievements": "2023-06-09T17:07:19.2576005+00:00"
 }

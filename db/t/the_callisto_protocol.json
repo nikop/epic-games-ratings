@@ -584,9 +584,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14832,
+  "EOS_Progressed": 14836,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3319,6 +3319,11 @@
       "Time": "2023-06-09T16:04:30.2776342+00:00",
       "NumProgressed": 14832,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-09T17:04:49.2530082+00:00",
+      "NumProgressed": 14836,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3362,7 +3367,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3472,9 +3477,9 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1187
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3506,7 +3511,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3649,13 +3654,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14832,
+      "Progressed": 14836,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2758,
+      "Progressed": 2762,
       "Completed": 29
     }
   ],
@@ -3663,8 +3668,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-09T13:57:54.3107791+00:00",
-  "LastChanged_Achievements": "2023-06-09T16:04:30.2776336+00:00",
+  "LastChanged_Achievements": "2023-06-09T17:04:49.2530075+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-09T15:58:09.079999+00:00",
-  "LastUpdate_Achievements": "2023-06-09T16:04:30.2776894+00:00"
+  "LastUpdate_Ratings": "2023-06-09T16:58:17.1768597+00:00",
+  "LastUpdate_Achievements": "2023-06-09T17:04:49.2530884+00:00"
 }

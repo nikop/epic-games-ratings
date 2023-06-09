@@ -2,9 +2,9 @@
   "ID": "19d61df85a76492f82c4b59fa8f8f9eb",
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
-  "Ranking_EOS_Progress": 328,
-  "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Completed": 18,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 34,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 9.38,
+  "EOS_Completed_Percentage": 8.82,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -186,6 +186,11 @@
       "Time": "2023-06-09T16:03:34.5773861+00:00",
       "NumProgressed": 32,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-09T17:03:37.3744953+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 6,
@@ -195,17 +200,17 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 175,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 165,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -213,13 +218,13 @@
       "Name": "Viola Organista",
       "Percentage": 41,
       "XP": 165,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 165,
       "UsersEstimate": 7
     },
@@ -227,15 +232,15 @@
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 165,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 165,
       "UsersEstimate": 8
     }
@@ -244,14 +249,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 34,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-06-09T16:03:34.5773854+00:00",
+  "LastChanged_Achievements": "2023-06-09T17:03:37.3744946+00:00",
   "LastUpdate_AppInfo": "2023-06-08T09:57:08.8988878+00:00",
-  "LastUpdate_Ratings": "2023-06-09T15:57:06.1867041+00:00",
-  "LastUpdate_Achievements": "2023-06-09T16:03:34.5773953+00:00"
+  "LastUpdate_Ratings": "2023-06-09T16:57:06.8579933+00:00",
+  "LastUpdate_Achievements": "2023-06-09T17:03:37.3745037+00:00"
 }

@@ -16,11 +16,11 @@
 | Easy and steady climb | 27.00% | ~82 |
 | At the heart of the city | 24.00% | ~73 |
 | Calm neighborhood | 23.00% | ~70 |
-| Elevated ring | 22.00% | ~67 |
+| Elevated ring | 23.00% | ~70 |
 | Not lonely anymore | 21.00% | ~64 |
 | Monumental tribute | 20.00% | ~61 |
-| The beach is right there | 18.00% | ~55 |
-| Commuting | 18.00% | ~55 |
+| The beach is right there | 19.00% | ~58 |
+| Commuting | 19.00% | ~58 |
 | Le jardin magnifique | 18.00% | ~55 |
 | Aiming for a living and human city | 16.00% | ~48 |
 | City of dreams | 16.00% | ~48 |

@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 296,
+  "Ranking_Rating": 297,
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1469,7 +1469,7 @@
   ],
   "EOS_Progressed": 11853,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7345,8 +7345,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-06-07T10:58:30.6933502+00:00",
-  "LastChanged_Achievements": "2023-06-09T16:06:53.5762995+00:00",
+  "LastChanged_Achievements": "2023-06-09T17:07:31.5847093+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:05.1771946+00:00",
-  "LastUpdate_Ratings": "2023-06-09T15:58:10.2405648+00:00",
-  "LastUpdate_Achievements": "2023-06-09T16:06:53.576984+00:00"
+  "LastUpdate_Ratings": "2023-06-09T16:58:18.5420678+00:00",
+  "LastUpdate_Achievements": "2023-06-09T17:07:31.5859272+00:00"
 }

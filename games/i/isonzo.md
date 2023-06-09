@@ -8,10 +8,10 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 54.00% | ~3,311 |
 | Tutti Eroi! | 54.00% | ~3,311 |
-| You Shall Not Pass | 52.00% | ~3,188 |
+| You Shall Not Pass | 52.00% | ~3,189 |
 | Avanti Savoia! | 47.00% | ~2,882 |
-| Conrad von Hotzensocks | 36.00% | ~2,207 |
-| Mamma Mia! | 36.00% | ~2,207 |
+| Conrad von Hotzensocks | 36.00% | ~2,208 |
+| Mamma Mia! | 36.00% | ~2,208 |
 | Gabriele D'Annunzio | 32.00% | ~1,962 |
 | Silver Lining | 28.00% | ~1,717 |
 | Aurelio Baruzzi | 22.00% | ~1,349 |
@@ -28,13 +28,13 @@ Number of Ratings: 98  (23.09.2022)
 | Uomo Universale | 13.00% | ~797 |
 | Machiavelli | 12.00% | ~736 |
 | Shaken, Not Stirred | 12.00% | ~736 |
-| Die Bosniaken Kommen! | 11.00% | ~674 |
-| The Devil's Paintbrush | 11.00% | ~674 |
+| Die Bosniaken Kommen! | 11.00% | ~675 |
+| The Devil's Paintbrush | 11.00% | ~675 |
 | Dante's Inferno | 10.00% | ~613 |
 | I Have the High Ground | 10.00% | ~613 |
 | Millenial | 9.00% | ~552 |
-| The Show Must Go On | 8.00% | ~490 |
-| Tosca | 8.00% | ~490 |
+| The Show Must Go On | 8.00% | ~491 |
+| Tosca | 8.00% | ~491 |
 | 12th Bottle of the Isonzo | 6.00% | ~368 |
 | The Enlightment | 6.00% | ~368 |
 | Cercatore d'Oro | 5.00% | ~307 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,131 (Ranked 124)  
+Progressed: 6,132 (Ranked 124)  
 Completed: 8 (0.13%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,11 +99,11 @@ Completed: 8 (0.13%) (Ranked 160)
 | 2023-06-06 | 6,098 | 8 |
 | 2023-06-07 | 6,115 | 8 |
 | 2023-06-08 | 6,123 | 8 |
-| 2023-06-09 | 6,131 | 8 |
+| 2023-06-09 | 6,132 | 8 |
 ## Awards
-Max (Highly Recommended): 31  (Ranked 445)  
+Max (Highly Recommended): 31  (Ranked 446)  
 Sum: 243 (Ranked 345)  
-Diff (max vs sum): 100  
+Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |

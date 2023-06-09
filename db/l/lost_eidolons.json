@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 969,
+  "EOS_Progressed": 970,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -723,6 +723,11 @@
       "Time": "2023-06-09T16:06:34.208642+00:00",
       "NumProgressed": 969,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T17:07:12.0242577+00:00",
+      "NumProgressed": 970,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -766,7 +771,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "06",
@@ -774,7 +779,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "07",
@@ -790,7 +795,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "09",
@@ -806,7 +811,7 @@
       "Name": "Huntmaster",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "11",
@@ -870,7 +875,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "19",
@@ -908,16 +913,16 @@
       "ID": "23",
       "SetID": "73ikgfc",
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 969,
+      "Progressed": 970,
       "Completed": 0
     }
   ],
@@ -925,8 +930,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-09T16:06:34.2086414+00:00",
+  "LastChanged_Achievements": "2023-06-09T17:07:12.0242572+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:05.6191061+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:00:08.3724768+00:00",
-  "LastUpdate_Achievements": "2023-06-09T16:06:34.2086628+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:00:33.3599326+00:00",
+  "LastUpdate_Achievements": "2023-06-09T17:07:12.0242791+00:00"
 }

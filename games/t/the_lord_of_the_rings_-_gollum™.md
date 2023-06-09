@@ -13,7 +13,7 @@
 | The Maggot | 26.00% | ~109 |
 | The Breeder | 21.00% | ~88 |
 | The Veteran | 18.00% | ~75 |
-| The Traitor | 13.00% | ~54 |
+| The Traitor | 14.00% | ~59 |
 | The Spider | 12.00% | ~50 |
 | Good as Fish | 8.00% | ~34 |
 | He's so Annoying | 7.00% | ~29 |

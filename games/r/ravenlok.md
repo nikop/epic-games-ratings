@@ -34,8 +34,8 @@
 | All Skilled Up! | 35.00% | ~342 |
 | It's Pointy! | 35.00% | ~342 |
 | Extinct Again! | 34.00% | ~333 |
-| Bird of Prey | 33.00% | ~323 |
-| Stardust | 33.00% | ~323 |
+| Bird of Prey | 34.00% | ~333 |
+| Stardust | 34.00% | ~333 |
 | Heartbreaker | 33.00% | ~323 |
 | Kidnapped! | 33.00% | ~323 |
 | Trick Question! | 32.00% | ~313 |

@@ -7,6 +7,7 @@
 | The Steel Shadow | 5.00% | ~32 |
 | Treasure Trove | 5.00% | ~32 |
 | Cartographer | 5.00% | ~32 |
+| Immaculate Aim | 5.00% | ~32 |
 | Like Clockwork | 4.00% | ~26 |
 | Street Style | 4.00% | ~26 |
 | The Betrayer | 4.00% | ~26 |
@@ -19,7 +20,6 @@
 | The Prince in Heels | 4.00% | ~26 |
 | Time Heals All Wounds | 4.00% | ~26 |
 | Golem Chaser | 4.00% | ~26 |
-| Immaculate Aim | 4.00% | ~26 |
 | The Family Fortune | 4.00% | ~26 |
 | Chaincrawler Explorer | 3.00% | ~19 |
 | Family Memories | 3.00% | ~19 |
@@ -47,7 +47,7 @@
 | Good Neighbor | 2.00% | ~13 |
 | Golem Hunter | 1.00% | ~6 |
 | Rungs Was Right | 1.00% | ~6 |
-| Clovemary for Remembering | 0.60% | ~4 |
+| Clovemary for Remembering | 0.80% | ~5 |
 | Hexlock for Protection | 0.60% | ~4 |
 | Fitting In | 0.60% | ~4 |
 | Wunderkind | 0.30% | ~2 |

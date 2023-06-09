@@ -17,7 +17,7 @@ Number of Ratings: 20  (23.09.2022)
 | Shennong Herbalist | 31.00% | ~97 |
 | Treasure Hunt | 31.00% | ~97 |
 | Good Mama | 29.00% | ~91 |
-| O Captain My Captain | 27.00% | ~85 |
+| O Captain My Captain | 28.00% | ~88 |
 | Plunderer | 26.00% | ~81 |
 | Taxonomist | 25.00% | ~78 |
 | Uncertain Loyalties | 23.00% | ~72 |

@@ -6,14 +6,14 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 81.00% | ~183,759 |
-| I know the Rules | 42.00% | ~95,282 |
-| Contender | 11.00% | ~24,955 |
-| I Found it! | 7.00% | ~15,880 |
+| Ball Launched | 81.00% | ~183,772 |
+| I know the Rules | 42.00% | ~95,289 |
+| Contender | 11.00% | ~24,957 |
+| I Found it! | 7.00% | ~15,882 |
 | First but not Last | 4.00% | ~9,075 |
 | Dress Code | 3.00% | ~6,806 |
-| Ready Steady Score | 2.00% | ~4,537 |
-| Full Loot Madness | 2.00% | ~4,537 |
+| Ready Steady Score | 2.00% | ~4,538 |
+| Full Loot Madness | 2.00% | ~4,538 |
 | My Table, my Rules | 0.90% | ~2,042 |
 | Nine Zeroes | 0.90% | ~2,042 |
 | Shiny Memento | 0.30% | ~681 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,863 (Ranked 46)  
+Progressed: 226,879 (Ranked 46)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,17 +87,17 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 226,025 | 0 |
 | 2023-06-07 | 226,299 | 0 |
 | 2023-06-08 | 226,623 | 0 |
-| 2023-06-09 | 226,863 | 0 |
+| 2023-06-09 | 226,879 | 0 |
 ## Awards
 Max (Great for Beginners): 175  (Ranked 276)  
-Sum: 1,499 (Ranked 211)  
+Sum: 1,500 (Ranked 211)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 175 |
 | This game is Great for Quick Sessions | 170 |
 | This game has Quickly Understood Controls | 160 |
-| This game is Relaxing | 158 |
+| This game is Relaxing | 159 |
 | This game is Extremely Fun | 153 |
 | This game is Highly Recommended | 149 |
 | This game has Competitive Players | 145 |
@@ -237,4 +237,4 @@ Diff (max vs sum): 65
 | 2023-05-30 | 4.04 | - | 173 | 1,496 |
 | 2023-06-01 | 4.04 | - | 174 | 1,497 |
 | 2023-06-08 | 4.04 | - | 175 | 1,498 |
-| 2023-06-09 | 4.04 | - | 175 | 1,499 |
+| 2023-06-09 | 4.04 | - | 175 | 1,500 |

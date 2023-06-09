@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1414,
+  "EOS_Progressed": 1417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1636,6 +1636,11 @@
       "Time": "2023-06-09T16:03:57.206463+00:00",
       "NumProgressed": 1414,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T17:04:13.6712529+00:00",
+      "NumProgressed": 1417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1655,7 +1660,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "BOT_DESTROYER",
@@ -1671,7 +1676,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "CONQUEROR",
@@ -1727,7 +1732,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 551
+      "UsersEstimate": 553
     },
     {
       "ID": "GLOVE_SLAP",
@@ -1751,7 +1756,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 834
+      "UsersEstimate": 836
     },
     {
       "ID": "GUARD_MAKER",
@@ -1775,7 +1780,7 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -1783,7 +1788,7 @@
       "Name": "Knight Commander",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -1822,14 +1827,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1414,
+      "Progressed": 1417,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-09T16:03:57.2064625+00:00",
+  "LastChanged_Achievements": "2023-06-09T17:04:13.6712524+00:00",
   "LastUpdate_AppInfo": "2023-06-06T15:56:55.6600857+00:00",
-  "LastUpdate_Ratings": "2023-06-09T15:57:15.6878684+00:00",
-  "LastUpdate_Achievements": "2023-06-09T16:03:57.2064842+00:00"
+  "LastUpdate_Ratings": "2023-06-09T16:57:18.6407416+00:00",
+  "LastUpdate_Achievements": "2023-06-09T17:04:13.6712837+00:00"
 }

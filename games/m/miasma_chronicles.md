@@ -32,14 +32,14 @@ Rating: 4.31 (Ranked 756)
 | Experienced | 18.00% | ~193 |
 | Hold The Line | 18.00% | ~193 |
 | Endgame | 15.00% | ~161 |
+| Savior | 15.00% | ~161 |
 | Newtonian Knockout | 14.00% | ~150 |
-| Savior | 14.00% | ~150 |
 | The Watchers | 13.00% | ~139 |
 | Ruthless | 12.00% | ~129 |
 | Dr Jones | 10.00% | ~107 |
 | Chaos Theory | 9.00% | ~96 |
+| Chain Reaction | 8.00% | ~86 |
 | Commando | 8.00% | ~86 |
-| Chain Reaction | 7.00% | ~75 |
 | Curveball | 7.00% | ~75 |
 | Side Order | 6.00% | ~64 |
 | Wipe Out | 6.00% | ~64 |
@@ -50,8 +50,8 @@ Rating: 4.31 (Ranked 756)
 | Alpha Editor | 0.70% | ~7 |
 | Fratricide | 0.70% | ~7 |
 | QA Has Suffered! (Redux) | 0.70% | ~7 |
+| Shadow Boxin' | 0.50% | ~5 |
 | Goaaaaal! | 0.40% | ~4 |
-| Shadow Boxin' | 0.40% | ~4 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Master Editor | 0.00% | ~0 |

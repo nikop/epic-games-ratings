@@ -4,8 +4,8 @@
   "ProductSlug": "mage-math-b7ca14",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-15T11:00:00+00:00",
     "PcReleaseDate": "2023-05-15T11:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-07T18:57:26.3929555+00:00",
-  "LastUpdate_Ratings": "2023-06-09T15:57:14.6473766+00:00",
-  "LastUpdate_Achievements": "2023-06-09T16:03:03.3461782+00:00"
+  "LastUpdate_Ratings": "2023-06-09T16:57:17.2522838+00:00",
+  "LastUpdate_Achievements": "2023-06-09T17:03:02.985535+00:00"
 }

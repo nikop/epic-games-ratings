@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -78,7 +78,7 @@
   "Tags": [],
   "EOS_Progressed": 1071,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1566,9 +1566,9 @@
       "ID": "CHAIN_REACTION",
       "SetID": "9a4jnji",
       "Name": "Chain Reaction",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 86
     },
     {
       "ID": "CHAOS_THEORY",
@@ -1838,9 +1838,9 @@
       "ID": "SAVIOR",
       "SetID": "9a4jnji",
       "Name": "Savior",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 150
+      "UsersEstimate": 161
     },
     {
       "ID": "SENSEI",
@@ -1854,9 +1854,9 @@
       "ID": "SHADOW_BOXING",
       "SetID": "9a4jnji",
       "Name": "Shadow Boxin\u0027",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SIDE_ORDER",
@@ -1927,8 +1927,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-08T20:58:17.2515155+00:00",
-  "LastChanged_Achievements": "2023-06-09T16:01:15.2930681+00:00",
+  "LastChanged_Achievements": "2023-06-09T17:01:50.4180822+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-09T15:58:35.4215673+00:00",
-  "LastUpdate_Achievements": "2023-06-09T16:01:15.2931632+00:00"
+  "LastUpdate_Ratings": "2023-06-09T16:58:47.043803+00:00",
+  "LastUpdate_Achievements": "2023-06-09T17:01:50.4181395+00:00"
 }
