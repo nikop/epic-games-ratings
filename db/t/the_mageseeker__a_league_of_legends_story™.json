@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 2302,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2419,9 +2419,9 @@
       "ID": "STB_COLISSEUM_FIRST",
       "SetID": "3pe2bac",
       "Name": "Whispers in the Woods I",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 576
+      "UsersEstimate": 599
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -2844,8 +2844,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-05T19:57:57.2340443+00:00",
-  "LastChanged_Achievements": "2023-06-09T08:06:26.1127328+00:00",
+  "LastChanged_Achievements": "2023-06-09T09:07:11.4540082+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:44.5523883+00:00",
-  "LastUpdate_Ratings": "2023-06-09T07:57:34.8144318+00:00",
-  "LastUpdate_Achievements": "2023-06-09T08:06:26.1127864+00:00"
+  "LastUpdate_Ratings": "2023-06-09T08:58:02.7661145+00:00",
+  "LastUpdate_Achievements": "2023-06-09T09:07:11.4540534+00:00"
 }

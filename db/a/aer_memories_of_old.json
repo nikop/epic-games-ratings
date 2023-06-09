@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11863,
+  "EOS_Progressed": 11866,
   "EOS_Completed": 254,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
@@ -5359,6 +5359,11 @@
       "Time": "2023-06-09T08:06:23.9427136+00:00",
       "NumProgressed": 11863,
       "NumCompleted": 254
+    },
+    {
+      "Time": "2023-06-09T09:07:09.3442363+00:00",
+      "NumProgressed": 11866,
+      "NumCompleted": 254
     }
   ],
   "TotalAchievements": 20,
@@ -5386,7 +5391,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -5410,7 +5415,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -5434,7 +5439,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "FOUND_ERIN",
@@ -5474,7 +5479,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "GAME_FINISHED",
@@ -5482,7 +5487,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "INTRO_FINISHED",
@@ -5490,7 +5495,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9016
+      "UsersEstimate": 9018
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -5514,7 +5519,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "WEST_FINISHED",
@@ -5522,22 +5527,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 11863,
+      "Progressed": 11866,
       "Completed": 254
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-09T08:06:23.942713+00:00",
+  "LastChanged_Achievements": "2023-06-09T09:07:09.3442356+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:35.8564123+00:00",
-  "LastUpdate_Ratings": "2023-06-09T08:00:14.9852692+00:00",
-  "LastUpdate_Achievements": "2023-06-09T08:06:23.9427535+00:00"
+  "LastUpdate_Ratings": "2023-06-09T09:01:03.5822081+00:00",
+  "LastUpdate_Achievements": "2023-06-09T09:07:09.3442702+00:00"
 }

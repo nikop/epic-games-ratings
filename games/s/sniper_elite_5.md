@@ -1,18 +1,18 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.50 (Ranked 545)  
+Rating: 4.50 (Ranked 546)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~682 |
+| Meeting Resistance | 28.00% | ~683 |
 | Confirming Suspicions | 23.00% | ~561 |
 | The Kraken Wakes | 19.00% | ~463 |
 | It's Starting to Crack | 16.00% | ~390 |
 | Lord of War | 14.00% | ~341 |
 | Change the Channel | 14.00% | ~341 |
 | Resourceful | 13.00% | ~317 |
-| Taking it back | 12.00% | ~292 |
+| Taking it back | 12.00% | ~293 |
 | Organ Grinder | 10.00% | ~244 |
 | As Quiet as a Mouse | 10.00% | ~244 |
 | Target America | 10.00% | ~244 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 545)
 | Skirmisher | 5.00% | ~122 |
 | Set Europe Ablaze | 5.00% | ~122 |
 | Brains of the Operation | 5.00% | ~122 |
-| Precision Is Key | 4.00% | ~97 |
+| Precision Is Key | 4.00% | ~98 |
 | Rigged to Blow | 3.00% | ~73 |
 | The Long Game | 2.00% | ~49 |
 | My Little Friend | 2.00% | ~49 |
@@ -46,8 +46,8 @@ Rating: 4.50 (Ranked 545)
 | Don't hold your breath | 1.00% | ~24 |
 | Herr Today, Gone Tomorrow | 1.00% | ~24 |
 | Operation Foxley | 1.00% | ~24 |
-| Siegebreaker | 0.90% | ~21 |
-| Ghost of Falaise | 0.90% | ~21 |
+| Siegebreaker | 0.90% | ~22 |
+| Ghost of Falaise | 0.90% | ~22 |
 | Burn after reading | 0.70% | ~17 |
 | Last Resort | 0.70% | ~17 |
 | From Paris with Love | 0.60% | ~15 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 545)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,437 (Ranked 147)  
+Progressed: 2,438 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
-| 2023-06-09 | 2,437 | 2 |
+| 2023-06-09 | 2,438 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

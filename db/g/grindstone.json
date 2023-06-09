@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,11 +210,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5101,
-  "EOS_Completed": 26,
-  "EOS_NewPlayers": 10,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.51,
+  "EOS_Progressed": 5102,
+  "EOS_Completed": 27,
+  "EOS_NewPlayers": 11,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:21.0391131+00:00",
@@ -495,6 +495,11 @@
       "Time": "2023-06-09T02:28:33.6311911+00:00",
       "NumProgressed": 5101,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-09T09:07:23.8331858+00:00",
+      "NumProgressed": 5102,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 49,
@@ -506,7 +511,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -522,7 +527,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -530,7 +535,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -546,7 +551,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -562,7 +567,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -578,7 +583,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -634,7 +639,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4999
+      "UsersEstimate": 5000
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -650,7 +655,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -682,7 +687,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2499
+      "UsersEstimate": 2500
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -714,7 +719,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 3979
+      "UsersEstimate": 3980
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -752,9 +757,9 @@
       "ID": "ACHIEVE_KILL_SLOBS_50",
       "SetID": "b8l3p0g",
       "Name": "Royal Flush, Again",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 969
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -794,7 +799,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4999
+      "UsersEstimate": 5000
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -802,7 +807,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -882,7 +887,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -897,15 +902,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5101,
-      "Completed": 26
+      "Progressed": 5102,
+      "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-06-09T08:06:37.6515244+00:00",
+  "LastChanged_Achievements": "2023-06-09T09:07:23.8331855+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:31.2717028+00:00",
-  "LastUpdate_Ratings": "2023-06-09T08:00:09.0945164+00:00",
-  "LastUpdate_Achievements": "2023-06-09T08:06:37.651566+00:00"
+  "LastUpdate_Ratings": "2023-06-09T09:00:56.8640423+00:00",
+  "LastUpdate_Achievements": "2023-06-09T09:07:23.8332182+00:00"
 }

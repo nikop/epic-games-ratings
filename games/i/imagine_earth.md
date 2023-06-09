@@ -7,9 +7,9 @@ Number of Ratings: 22  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tuto | 60.00% | ~229 |
-| Joma | 44.00% | ~168 |
-| Campaign Bronze | 35.00% | ~133 |
-| Lorian | 30.00% | ~114 |
+| Joma | 43.00% | ~164 |
+| Campaign Bronze | 35.00% | ~134 |
+| Lorian | 30.00% | ~115 |
 | Metropolis | 27.00% | ~103 |
 | Rounos | 23.00% | ~88 |
 | Campaign Silver | 21.00% | ~80 |
@@ -20,7 +20,7 @@ Number of Ratings: 22  (23.09.2022)
 | Edora | 14.00% | ~53 |
 | Environmentalist | 12.00% | ~46 |
 | Iqunox | 9.00% | ~34 |
-| Udion Torix | 8.00% | ~30 |
+| Udion Torix | 8.00% | ~31 |
 | Forester | 7.00% | ~27 |
 | Thera | 6.00% | ~23 |
 | Campaign Titanium | 5.00% | ~19 |
@@ -31,7 +31,7 @@ Number of Ratings: 22  (23.09.2022)
 | Competitor Silver | 0.30% | ~1 |
 | Competitor Gold | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 381 (Ranked 213)  
+Progressed: 382 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-01 | 376 | 0 |
 | 2023-06-02 | 378 | 0 |
 | 2023-06-04 | 380 | 0 |
-| 2023-06-09 | 381 | 0 |
+| 2023-06-09 | 382 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

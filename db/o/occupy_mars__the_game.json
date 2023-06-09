@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1165,
+  "EOS_Progressed": 1166,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1667,6 +1667,11 @@
       "Time": "2023-06-09T04:04:29.9797399+00:00",
       "NumProgressed": 1165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T09:04:40.8691689+00:00",
+      "NumProgressed": 1166,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1900,9 +1905,9 @@
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
       "SetID": "l546gc",
       "Name": "Houston we have a problem",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 233
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -2061,7 +2066,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1165,
+      "Progressed": 1166,
       "Completed": 0
     }
   ],
@@ -2069,8 +2074,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-08T18:57:45.1074866+00:00",
-  "LastChanged_Achievements": "2023-06-09T08:04:04.3265066+00:00",
+  "LastChanged_Achievements": "2023-06-09T09:04:40.8691686+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-09T07:57:22.4430759+00:00",
-  "LastUpdate_Achievements": "2023-06-09T08:04:04.3265564+00:00"
+  "LastUpdate_Ratings": "2023-06-09T08:57:48.0810848+00:00",
+  "LastUpdate_Achievements": "2023-06-09T09:04:40.869209+00:00"
 }

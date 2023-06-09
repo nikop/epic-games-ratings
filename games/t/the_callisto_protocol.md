@@ -35,7 +35,7 @@ Rating: 4.18 (Ranked 840)
 | Big Spender | 2.00% | ~55 |
 | Parole Denied | 1.00% | ~27 |
 | Hoard Mode | 1.00% | ~27 |
-| Grim Reaper | 0.80% | ~118 |
+| Grim Reaper | 0.70% | ~104 |
 | Recidivist | 0.70% | ~19 |
 | Lifer | 0.70% | ~19 |
 | Armed to the Teeth | 0.20% | ~5 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,800 (Ranked 104)  
+Progressed: 14,802 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 54 (0.36%) (Ranked 121)
 | 2023-06-06 | 14,637 | 54 |
 | 2023-06-07 | 14,702 | 54 |
 | 2023-06-08 | 14,777 | 54 |
-| 2023-06-09 | 14,800 | 54 |
+| 2023-06-09 | 14,802 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
 Sum: 297 (Ranked 328)  

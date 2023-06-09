@@ -2,10 +2,10 @@
   "ID": "4d96a32c1e5b49c3adccbcfa6deed873",
   "Name": "ArcRunner",
   "ProductSlug": "arcrunner-61fee6",
-  "Ranking_EOS_Progress": 240,
+  "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233,
+  "EOS_Progressed": 236,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -558,6 +558,11 @@
       "Time": "2023-06-09T06:03:26.2734575+00:00",
       "NumProgressed": 233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T09:03:16.2583078+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -569,7 +574,7 @@
       "Name": "Augmented",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -585,7 +590,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -601,15 +606,15 @@
       "Name": "The City",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_CYBORG",
@@ -623,7 +628,7 @@
       "ID": "ACHV_DESTRUCTION",
       "SetID": "cceobco",
       "Name": "Destruction",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 60,
       "UsersEstimate": 2
     },
@@ -633,7 +638,7 @@
       "Name": "Starship Docks",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHV_EDEN",
@@ -655,7 +660,7 @@
       "ID": "ACHV_HARDBOILED",
       "SetID": "cceobco",
       "Name": "Hard Boiled",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -681,7 +686,7 @@
       "Name": "Nanonic I",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -689,15 +694,15 @@
       "Name": "Nanonic II",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -721,7 +726,7 @@
       "Name": "Rookie",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -729,7 +734,7 @@
       "Name": "Supply Run",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHV_TERMINATED1",
@@ -737,15 +742,15 @@
       "Name": "Terminated I",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -753,7 +758,7 @@
       "Name": "Terminated III",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -769,7 +774,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -777,7 +782,7 @@
       "Name": "Up Close And Personal",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHV_WEAPONSMITH",
@@ -792,7 +797,7 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 233,
+      "Progressed": 236,
       "Completed": 0
     }
   ],
@@ -800,8 +805,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-09T08:02:27.9475786+00:00",
+  "LastChanged_Achievements": "2023-06-09T09:03:16.2583074+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:02.4090562+00:00",
-  "LastUpdate_Ratings": "2023-06-09T07:59:42.5922578+00:00",
-  "LastUpdate_Achievements": "2023-06-09T08:02:27.9476034+00:00"
+  "LastUpdate_Ratings": "2023-06-09T09:00:27.9292545+00:00",
+  "LastUpdate_Achievements": "2023-06-09T09:03:16.2583253+00:00"
 }

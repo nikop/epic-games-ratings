@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.50 (Ranked 545)  
+Rating: 4.50 (Ranked 546)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,10 +14,10 @@ Rating: 4.50 (Ranked 545)
 | Defeat 25 Grubs | 51.00% | ~829 |
 | Rescue Redgi's Brothers | 50.00% | ~812 |
 | Collect Iron Ore | 46.00% | ~748 |
+| Defeat 25 Mozis | 45.00% | ~731 |
 | Kitchen Ready To Cook | 45.00% | ~731 |
-| Defeat 25 Mozis | 44.00% | ~715 |
+| Collect Gold | 44.00% | ~715 |
 | Smithy Ready to Craft | 44.00% | ~715 |
-| Collect Gold | 43.00% | ~699 |
 | Fix the Travellers Wagon | 42.00% | ~682 |
 | Complete Elder Faction | 39.00% | ~634 |
 | End of the Mozis | 36.00% | ~585 |

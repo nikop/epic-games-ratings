@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1115,7 +1115,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 120850,
+  "EOS_Progressed": 120855,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 0,
@@ -5755,6 +5755,11 @@
       "Time": "2023-06-09T08:06:24.9494991+00:00",
       "NumProgressed": 120850,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-09T09:07:10.1876132+00:00",
+      "NumProgressed": 120855,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -5798,7 +5803,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21753
+      "UsersEstimate": 21754
     },
     {
       "ID": "ACH_COP_BAD",
@@ -5822,7 +5827,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29004
+      "UsersEstimate": 29005
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -5838,7 +5843,7 @@
       "Name": "Massive Torque Dork",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ACH_COP_GOOD",
@@ -5846,7 +5851,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33838
+      "UsersEstimate": 33839
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -5870,7 +5875,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19336
+      "UsersEstimate": 19337
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -5878,7 +5883,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24170
+      "UsersEstimate": 24171
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -5894,7 +5899,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15710
+      "UsersEstimate": 15711
     },
     {
       "ID": "ACH_COP_STAR",
@@ -5926,7 +5931,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10876
+      "UsersEstimate": 10877
     },
     {
       "ID": "ACH_GLUTEN",
@@ -5958,7 +5963,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 6042
+      "UsersEstimate": 6043
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -5982,7 +5987,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16919
+      "UsersEstimate": 16920
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -6046,7 +6051,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15710
+      "UsersEstimate": 15711
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -6085,15 +6090,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 120850,
+      "Progressed": 120855,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-08T23:59:12.2923424+00:00",
-  "LastChanged_Achievements": "2023-06-09T08:06:24.9494982+00:00",
+  "LastChanged_Achievements": "2023-06-09T09:07:10.1876129+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:25.8096959+00:00",
-  "LastUpdate_Ratings": "2023-06-09T07:59:07.3537496+00:00",
-  "LastUpdate_Achievements": "2023-06-09T08:06:24.9495553+00:00"
+  "LastUpdate_Ratings": "2023-06-09T08:59:46.8004658+00:00",
+  "LastUpdate_Achievements": "2023-06-09T09:07:10.1876582+00:00"
 }

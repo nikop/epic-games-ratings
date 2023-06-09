@@ -14,10 +14,10 @@ Number of Ratings: 46  (23.09.2022)
 | Devourer | 15.00% | ~87 |
 | Silenced Whispers | 13.00% | ~75 |
 | Scion | 12.00% | ~19 |
+| Glare | 12.00% | ~19 |
 | Harmless | 12.00% | ~69 |
 | Yank | 12.00% | ~69 |
 | Sharpened Vessel | 12.00% | ~69 |
-| Glare | 11.00% | ~18 |
 | Host | 10.00% | ~16 |
 | Jawcrab | 10.00% | ~58 |
 | Feast | 10.00% | ~58 |
@@ -33,10 +33,10 @@ Number of Ratings: 46  (23.09.2022)
 | Artisan | 6.00% | ~35 |
 | All-Seeing | 6.00% | ~35 |
 | Hush | 5.00% | ~29 |
+| Kinship | 5.00% | ~29 |
 | Unwrap the Gift | 5.00% | ~29 |
 | Passage | 5.00% | ~29 |
 | Kin | 5.00% | ~8 |
-| Kinship | 4.00% | ~23 |
 | Breathsmith | 4.00% | ~23 |
 | Proportions | 4.00% | ~23 |
 | Bloodhunter | 3.00% | ~17 |

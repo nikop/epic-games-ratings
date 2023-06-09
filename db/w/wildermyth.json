@@ -145,7 +145,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1247,
+  "EOS_Progressed": 1248,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
@@ -790,6 +790,11 @@
       "Time": "2023-06-08T22:05:59.817595+00:00",
       "NumProgressed": 1247,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-09T09:07:03.9266617+00:00",
+      "NumProgressed": 1248,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -969,7 +974,7 @@
       "Name": "How Romantic!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "achievement_maimedHero",
@@ -1248,15 +1253,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1247,
+      "Progressed": 1248,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-09T08:06:18.8251634+00:00",
+  "LastChanged_Achievements": "2023-06-09T09:07:03.9266614+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:06.7864894+00:00",
-  "LastUpdate_Ratings": "2023-06-09T08:00:43.4019153+00:00",
-  "LastUpdate_Achievements": "2023-06-09T08:06:18.8252136+00:00"
+  "LastUpdate_Ratings": "2023-06-09T09:01:35.0828758+00:00",
+  "LastUpdate_Achievements": "2023-06-09T09:07:03.9267009+00:00"
 }

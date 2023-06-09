@@ -35,8 +35,8 @@ Rating: 4.17 (Ranked 848)
 | Seeking Asylum | 1.00% | ~642 |
 | Gotham Knight | 1.00% | ~642 |
 | Gotham City Confidential | 1.00% | ~642 |
+| Out of Their League | 0.80% | ~514 |
 | Drone You Out | 0.80% | ~514 |
-| Out of Their League | 0.70% | ~449 |
 | Solid Alibi | 0.70% | ~449 |
 | Fusion Expert | 0.60% | ~385 |
 | Family Meeting | 0.60% | ~385 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 848)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,189 (Ranked 71)  
+Progressed: 64,193 (Ranked 71)  
 Completed: 94 (0.15%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 94 (0.15%) (Ranked 155)
 | 2023-06-06 | 63,871 | 94 |
 | 2023-06-07 | 63,990 | 94 |
 | 2023-06-08 | 64,117 | 94 |
-| 2023-06-09 | 64,189 | 94 |
+| 2023-06-09 | 64,193 | 94 |
 ## Awards
 Max (Great Boss Battles): 2,313  (Ranked 97)  
 Sum: 3,820 (Ranked 137)  

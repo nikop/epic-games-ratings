@@ -6,17 +6,17 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~434,824 |
-| The Three | 64.00% | ~335,286 |
-| The Banquet | 40.00% | ~209,554 |
-| Devara's Light | 30.00% | ~157,165 |
-| The Iron Ones | 18.00% | ~94,299 |
-| The Village | 16.00% | ~83,821 |
+| Find Sanctuary | 83.00% | ~434,827 |
+| The Three | 64.00% | ~335,288 |
+| The Banquet | 40.00% | ~209,555 |
+| Devara's Light | 30.00% | ~157,166 |
+| The Iron Ones | 18.00% | ~94,300 |
+| The Village | 16.00% | ~83,822 |
 | The Forest | 14.00% | ~73,344 |
 | Branded | 13.00% | ~68,105 |
 | The Imposter | 13.00% | ~68,105 |
 | The Keep | 13.00% | ~68,105 |
-| The Castle | 11.00% | ~57,627 |
+| The Castle | 11.00% | ~57,628 |
 | The Dome | 9.00% | ~47,150 |
 | The Red Hall | 9.00% | ~47,150 |
 | The Sacrifice | 8.00% | ~41,911 |
@@ -30,10 +30,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Alkymancery | 5.00% | ~26,194 |
 | The Lake | 5.00% | ~26,194 |
 | The Pitchwoods | 5.00% | ~26,194 |
-| Honed | 4.00% | ~20,955 |
-| The House of Splendor | 4.00% | ~20,955 |
-| The Crypt | 4.00% | ~20,955 |
-| The Palace | 4.00% | ~20,955 |
+| Honed | 4.00% | ~20,956 |
+| The House of Splendor | 4.00% | ~20,956 |
+| The Crypt | 4.00% | ~20,956 |
+| The Palace | 4.00% | ~20,956 |
 | Find Salvation | 3.00% | ~15,717 |
 | The Unspeakable Deep | 3.00% | ~15,717 |
 | Coastrock | 2.00% | ~10,478 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,478 |
 | Fading Fast | 1.00% | ~5,239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,884 (Ranked 27)  
+Progressed: 523,888 (Ranked 27)  
 Completed: 1,442 (0.28%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 1,442 (0.28%) (Ranked 136)
 | 2023-06-06 | 523,647 | 1,437 |
 | 2023-06-07 | 523,746 | 1,440 |
 | 2023-06-08 | 523,844 | 1,441 |
-| 2023-06-09 | 523,884 | 1,442 |
+| 2023-06-09 | 523,888 | 1,442 |
 ## Awards
 Max (Challenging Combat): 271  (Ranked 237)  
 Sum: 1,889 (Ranked 194)  

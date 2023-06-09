@@ -185,6 +185,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hopelessly Lost | 0.20% | ~180 |
 | Cramped Quarters | 0.20% | ~180 |
 | Enter the Sargauth | 0.20% | ~180 |
+| Who Lurks in Lurkwood | 0.20% | ~180 |
 | Orcs Are Wild | 0.20% | ~180 |
 | A Tale of Two Cities | 0.20% | ~180 |
 | The Dead Three | 0.20% | ~180 |
@@ -367,7 +368,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elder Rune Madness | 0.10% | ~90 |
 | The Madness Grows | 0.10% | ~90 |
 | The Madness Peaks | 0.10% | ~56 |
-| Who Lurks in Lurkwood | 0.10% | ~90 |
 | Bullywugs in the Bog | 0.10% | ~90 |
 | Modrons in the Mud | 0.10% | ~90 |
 | And a Pixie in a Pear Treant | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,203 (Ranked 64)  
+Progressed: 90,209 (Ranked 64)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,16 +550,16 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
-| 2023-06-09 | 90,203 | 1,924 |
+| 2023-06-09 | 90,209 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
-Sum: 30,054 (Ranked 37)  
+Sum: 30,056 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,922 |
 | This game is Great for Beginners | 4,860 |
-| This game has Quickly Understood Controls | 4,611 |
+| This game has Quickly Understood Controls | 4,613 |
 | This game is Relaxing | 4,509 |
 | This game is Highly Recommended | 3,955 |
 | This game has Amazing Characters | 3,950 |
@@ -701,4 +701,4 @@ Diff (max vs sum): 27
 | 2023-06-06 | 4.06 | - | 4,920 | 30,044 |
 | 2023-06-07 | 4.06 | - | 4,920 | 30,049 |
 | 2023-06-08 | 4.06 | - | 4,922 | 30,051 |
-| 2023-06-09 | 4.06 | - | 4,922 | 30,054 |
+| 2023-06-09 | 4.06 | - | 4,922 | 30,056 |

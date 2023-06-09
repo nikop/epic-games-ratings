@@ -5,33 +5,33 @@ Rating: 4.85 (Ranked 38)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~205,128 |
-| Private Club | 74.00% | ~166,807 |
-| Rogue Guild | 65.00% | ~146,520 |
-| I Watched the Intro | 57.00% | ~128,487 |
-| Covert Consortium | 55.00% | ~123,978 |
-| Goat Queen | 53.00% | ~119,470 |
-| Reach the Stratosphere | 49.00% | ~110,453 |
-| Synchronization Complete | 47.00% | ~105,945 |
-| Secret Society | 45.00% | ~101,437 |
-| Shadow Syndicate | 37.00% | ~83,404 |
-| What a Waste of Money | 33.00% | ~74,387 |
-| New Goat Order | 30.00% | ~67,624 |
-| Don't touch the servers | 28.00% | ~63,116 |
-| San Angora: Become Human | 26.00% | ~58,608 |
-| Raider of the Lost Parking Garage | 26.00% | ~58,608 |
-| Real Buoy | 26.00% | ~58,608 |
-| Welcome to Earth | 25.00% | ~56,354 |
-| Into the Matrix | 18.00% | ~40,575 |
-| Where is It? | 17.00% | ~38,321 |
-| Egg Simulator | 15.00% | ~33,812 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~33,812 |
-| Black Market | 14.00% | ~31,558 |
-| 401(K.O.) | 14.00% | ~31,558 |
-| Car Cave | 12.00% | ~27,050 |
-| Club Mohair | 8.00% | ~18,033 |
-| A Center for Ants? | 8.00% | ~18,033 |
-| French Fika | 7.00% | ~15,779 |
+| Forgotten Sorority | 91.00% | ~205,134 |
+| Private Club | 74.00% | ~166,812 |
+| Rogue Guild | 65.00% | ~146,524 |
+| I Watched the Intro | 57.00% | ~128,491 |
+| Covert Consortium | 55.00% | ~123,982 |
+| Goat Queen | 53.00% | ~119,474 |
+| Reach the Stratosphere | 49.00% | ~110,457 |
+| Synchronization Complete | 47.00% | ~105,948 |
+| Secret Society | 45.00% | ~101,440 |
+| Shadow Syndicate | 37.00% | ~83,406 |
+| What a Waste of Money | 33.00% | ~74,389 |
+| New Goat Order | 30.00% | ~67,627 |
+| Don't touch the servers | 28.00% | ~63,118 |
+| San Angora: Become Human | 26.00% | ~58,610 |
+| Raider of the Lost Parking Garage | 26.00% | ~58,610 |
+| Real Buoy | 26.00% | ~58,610 |
+| Welcome to Earth | 25.00% | ~56,356 |
+| Into the Matrix | 18.00% | ~40,576 |
+| Where is It? | 17.00% | ~38,322 |
+| Egg Simulator | 15.00% | ~33,813 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~33,813 |
+| Black Market | 14.00% | ~31,559 |
+| 401(K.O.) | 14.00% | ~31,559 |
+| Car Cave | 12.00% | ~27,051 |
+| Club Mohair | 8.00% | ~18,034 |
+| A Center for Ants? | 8.00% | ~18,034 |
+| French Fika | 7.00% | ~15,780 |
 | Who Baywatches the Baywatch? | 4.00% | ~9,017 |
 | Nasty! | 4.00% | ~9,017 |
 | [REDACTED] | 4.00% | ~9,017 |
@@ -42,10 +42,10 @@ Rating: 4.85 (Ranked 38)
 | Streaking | 1.00% | ~2,254 |
 | Try Hard 2 | 1.00% | ~2,254 |
 | Crocsquatch | 0.90% | ~2,029 |
-| Move! That! Bus! | 0.60% | ~1,352 |
+| Move! That! Bus! | 0.60% | ~1,353 |
 | G.O.A.T | 0.30% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,415 (Ranked 46)  
+Progressed: 225,422 (Ranked 46)  
 Completed: 726 (0.32%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,20 +95,20 @@ Completed: 726 (0.32%) (Ranked 125)
 | 2023-06-06 | 224,732 | 722 |
 | 2023-06-07 | 225,046 | 725 |
 | 2023-06-08 | 225,338 | 725 |
-| 2023-06-09 | 225,415 | 726 |
+| 2023-06-09 | 225,422 | 726 |
 ## Awards
 Max (Great for Beginners): 332  (Ranked 217)  
-Sum: 2,801 (Ranked 159)  
-Diff (max vs sum): 58  
+Sum: 2,804 (Ranked 160)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 332 |
 | This game has Diverse Characters | 318 |
 | This game is Highly Recommended | 303 |
-| This game has Amazing Characters | 288 |
+| This game has Amazing Characters | 290 |
 | This game is Relaxing | 271 |
 | This game is Extremely Fun | 270 |
-| This game has Amazing Storytelling | 269 |
+| This game has Amazing Storytelling | 270 |
 | This game has Quickly Understood Controls | 267 |
 | This game has a Silly Community | 247 |
 | This game has Easy Combat | 236 |
@@ -195,4 +195,4 @@ Diff (max vs sum): 58
 | 2023-06-06 | 4.85 | 331 | 2,788 |
 | 2023-06-07 | 4.85 | 331 | 2,794 |
 | 2023-06-08 | 4.85 | 332 | 2,799 |
-| 2023-06-09 | 4.85 | 332 | 2,801 |
+| 2023-06-09 | 4.85 | 332 | 2,804 |

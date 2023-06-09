@@ -17,9 +17,9 @@ Number of Ratings: 2,500  (23.09.2022)
 | Oathkeeper | 8.00% | ~1,203 |
 | Influential | 8.00% | ~1,203 |
 | A Long Journey | 8.00% | ~1,203 |
-| Ours is the Fury | 7.00% | ~1,052 |
-| We Do Not Sow | 7.00% | ~1,052 |
-| Winter is Coming | 7.00% | ~1,052 |
+| Ours is the Fury | 7.00% | ~1,053 |
+| We Do Not Sow | 7.00% | ~1,053 |
+| Winter is Coming | 7.00% | ~1,053 |
 | Unbowed, Unbent, Unbroken | 6.00% | ~902 |
 | Hear me Roar! | 6.00% | ~902 |
 | Defender of the Wall | 6.00% | ~902 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~301 |
 | War of the Five Kings | 1.00% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,035 (Ranked 103)  
+Progressed: 15,036 (Ranked 103)  
 Completed: 32 (0.21%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 32 (0.21%) (Ranked 145)
 | 2023-06-06 | 14,820 | 30 |
 | 2023-06-07 | 14,900 | 31 |
 | 2023-06-08 | 15,000 | 32 |
-| 2023-06-09 | 15,035 | 32 |
+| 2023-06-09 | 15,036 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 304)  
 Sum: 782 (Ranked 253)  

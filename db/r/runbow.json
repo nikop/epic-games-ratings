@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244443,
+  "EOS_Progressed": 244444,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4694,6 +4694,11 @@
       "Time": "2023-06-09T07:06:23.6474089+00:00",
       "NumProgressed": 244443,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T09:07:09.5977965+00:00",
+      "NumProgressed": 244444,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -4777,7 +4782,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36666
+      "UsersEstimate": 36667
     },
     {
       "ID": "clearCut",
@@ -4921,7 +4926,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19555
+      "UsersEstimate": 19556
     },
     {
       "ID": "lockupLockdown",
@@ -5072,7 +5077,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 244443,
+      "Progressed": 244444,
       "Completed": 2
     }
   ],
@@ -5080,8 +5085,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-09T08:06:24.162628+00:00",
+  "LastChanged_Achievements": "2023-06-09T09:07:09.5977962+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:32.0631758+00:00",
-  "LastUpdate_Ratings": "2023-06-09T07:59:12.5614245+00:00",
-  "LastUpdate_Achievements": "2023-06-09T08:06:24.1626926+00:00"
+  "LastUpdate_Ratings": "2023-06-09T08:59:52.7208998+00:00",
+  "LastUpdate_Achievements": "2023-06-09T09:07:09.5978457+00:00"
 }
