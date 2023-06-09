@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1347,
+  "EOS_Progressed": 1348,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2926,6 +2926,11 @@
       "Time": "2023-06-09T16:06:38.3694904+00:00",
       "NumProgressed": 1347,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T18:06:45.8055326+00:00",
+      "NumProgressed": 1348,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3111,9 +3116,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 229
     },
     {
       "ID": "fellowshippower",
@@ -3121,7 +3126,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "fourleafclover",
@@ -3169,7 +3174,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "herewegoagain",
@@ -3425,7 +3430,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "thepowerofawakening",
@@ -3497,7 +3502,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "warmachinesarmy",
@@ -3536,7 +3541,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1347,
+      "Progressed": 1348,
       "Completed": 1
     }
   ],
@@ -3544,8 +3549,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-09T17:07:16.3128182+00:00",
+  "LastChanged_Achievements": "2023-06-09T18:06:45.8055315+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:58:26.9629862+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:07:16.312945+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:58:19.2334842+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:06:45.8056311+00:00"
 }

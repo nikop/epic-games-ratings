@@ -16,10 +16,10 @@
 | Errorbane | 15.00% | ~6 |
 | Secret Admirer | 15.00% | ~6 |
 | Bugged, not stupid | 13.00% | ~5 |
+| Hackerman | 10.00% | ~4 |
 | A Rank Bug-catcher | 8.00% | ~3 |
 | S Rank Bug-catcher | 8.00% | ~3 |
 | Deepest lore | 8.00% | ~3 |
-| Hackerman | 8.00% | ~3 |
 | Thanks for Playing | 5.00% | ~2 |
 | Brute forcing | 3.00% | ~1 |
 | Pool party | 3.00% | ~1 |

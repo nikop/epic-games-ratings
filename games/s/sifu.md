@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~703 |
-| Project Arena | 3.00% | ~527 |
+| Diligence as a goal | 4.00% | ~704 |
+| Project Arena | 3.00% | ~528 |
 | The Old Grandmaster | 1.00% | ~7,083 |
 | The Assault | 1.00% | ~7,083 |
 | The Hateful Pole Fighter | 1.00% | ~7,083 |
@@ -26,15 +26,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,083 |
 | Bloody Sport | 1.00% | ~176 |
 | The best strikes are the ones we avoid | 1.00% | ~176 |
-| Old Child | 0.90% | ~6,374 |
-| Take damage to save time | 0.90% | ~6,374 |
+| Old Child | 0.90% | ~6,375 |
+| Take damage to save time | 0.90% | ~6,375 |
 | Scareless | 0.80% | ~5,666 |
 | Kung-Fu Tussle | 0.80% | ~5,666 |
 | Dance of the Praying Mantis | 0.70% | ~4,958 |
 | Qi Gong: Mind | 0.70% | ~4,958 |
 | I know Kung-Fu | 0.70% | ~4,958 |
-| Deadly Venom | 0.60% | ~105 |
-| A Touch of Acumen | 0.60% | ~105 |
+| Deadly Venom | 0.60% | ~106 |
+| A Touch of Acumen | 0.60% | ~106 |
 | Muk Yan Master | 0.50% | ~3,541 |
 | Tiger on Fire | 0.50% | ~3,541 |
 | Source of Flying Daggers | 0.50% | ~3,541 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,277 (Ranked 16)  
+Progressed: 708,290 (Ranked 16)  
 Completed: 12,764 (1.80%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 12,764 (1.80%) (Ranked 70)
 | 2023-06-06 | 707,727 | 12,763 |
 | 2023-06-07 | 707,910 | 12,763 |
 | 2023-06-08 | 708,100 | 12,763 |
-| 2023-06-09 | 708,277 | 12,764 |
+| 2023-06-09 | 708,290 | 12,764 |
 ## Awards
 Max (Great Boss Battles): 6,153  (Ranked 52)  
 Sum: 10,498 (Ranked 78)  

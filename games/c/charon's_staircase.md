@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seth's office | 56.00% | ~40 |
-| The secret passage | 54.00% | ~39 |
+| The secret passage | 56.00% | ~40 |
 | First document retrieved | 49.00% | ~35 |
 | Across the lake | 49.00% | ~35 |
 | There is something strange here... | 47.00% | ~34 |

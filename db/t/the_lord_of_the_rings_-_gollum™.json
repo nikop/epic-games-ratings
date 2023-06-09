@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 419,
+  "EOS_Progressed": 421,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -755,6 +755,11 @@
       "Time": "2023-06-09T12:07:24.9743181+00:00",
       "NumProgressed": 419,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T18:06:24.9036088+00:00",
+      "NumProgressed": 421,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -790,7 +795,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "Chapter10",
@@ -804,9 +809,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 105
     },
     {
       "ID": "Chapter3",
@@ -822,7 +827,7 @@
       "Name": "The Veteran",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Chapter5",
@@ -836,9 +841,9 @@
       "ID": "Chapter6",
       "SetID": "70l3651",
       "Name": "The Spider",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 55
     },
     {
       "ID": "Chapter7",
@@ -870,7 +875,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Collectibles2",
@@ -916,9 +921,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 131
     },
     {
       "ID": "GollumChoices",
@@ -934,7 +939,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Memories",
@@ -1046,21 +1051,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 419,
+      "Progressed": 421,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-09T17:06:53.1019582+00:00",
+  "LastChanged_Achievements": "2023-06-09T18:06:24.9036075+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.3133808+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:58:06.0432217+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:06:53.1019927+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:58:00.8709937+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:06:24.9036512+00:00"
 }

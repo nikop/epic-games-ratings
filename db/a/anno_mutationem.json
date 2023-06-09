@@ -5,7 +5,7 @@
   "Ranking_Rating": 452,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
-  "Ranking_EOS_Progress": 194,
+  "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 98,
@@ -85,7 +85,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 628,
+  "EOS_Progressed": 629,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
@@ -280,6 +280,11 @@
       "Time": "2023-06-09T15:02:11.7745308+00:00",
       "NumProgressed": 628,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T18:02:07.7673594+00:00",
+      "NumProgressed": 629,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -315,7 +320,7 @@
       "Name": "Big Spender",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Clarity_of_Mind",
@@ -331,7 +336,7 @@
       "Name": "Club Star",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Combine",
@@ -345,9 +350,9 @@
       "ID": "Deadly_Kombationem",
       "SetID": "gl7plp",
       "Name": "Deadly Kombationem",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 107
     },
     {
       "ID": "Fire in the hole!",
@@ -355,7 +360,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -379,7 +384,7 @@
       "Name": "I just love stuff!",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "I_think_its_broke",
@@ -403,7 +408,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "Lady_Luck",
@@ -419,7 +424,7 @@
       "Name": "Omnipotence",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "SERENITY_NOW",
@@ -459,15 +464,15 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "Thats_gotta_hurt",
       "SetID": "gl7plp",
       "Name": "That\u0027s gotta hurt",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 220
+      "UsersEstimate": 214
     },
     {
       "ID": "The Traveler",
@@ -499,7 +504,7 @@
       "Name": "The Warlord",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -507,7 +512,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "The_truth_is_out_there",
@@ -547,7 +552,7 @@
       "Name": "You are the One",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "manhole",
@@ -578,7 +583,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 628,
+      "Progressed": 629,
       "Completed": 0
     }
   ],
@@ -586,8 +591,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-09T17:02:19.3420636+00:00",
+  "LastChanged_Achievements": "2023-06-09T18:02:07.7673585+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:46.0234208+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:57:58.0489866+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:02:19.342093+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:57:53.8661345+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:02:07.7673907+00:00"
 }

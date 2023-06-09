@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1071,
+  "EOS_Progressed": 1072,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -1501,6 +1501,11 @@
       "Time": "2023-06-09T16:01:15.2930689+00:00",
       "NumProgressed": 1071,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T18:01:21.5877321+00:00",
+      "NumProgressed": 1072,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1512,7 +1517,7 @@
       "Name": "Alpha Editor",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ARE_YOU_NOT_ENTERTAINED",
@@ -1528,7 +1533,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1558,9 +1563,9 @@
       "ID": "CHAIN_KILLER",
       "SetID": "9a4jnji",
       "Name": "Chain Killer",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 204
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1592,7 +1597,7 @@
       "Name": "Croaked",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "CRUELTY",
@@ -1624,7 +1629,7 @@
       "Name": "Limp Richard",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1656,7 +1661,7 @@
       "Name": "Editor Adept",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ENDGAME",
@@ -1688,7 +1693,7 @@
       "Name": "Firestarter",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1696,7 +1701,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1712,7 +1717,7 @@
       "Name": "Fratricide",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FROM_DARKNESS",
@@ -1808,7 +1813,7 @@
       "Name": "QA Has Suffered! (Redux)",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "RANIDAPHOBIA",
@@ -1816,7 +1821,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "RECYCLER",
@@ -1824,7 +1829,7 @@
       "Name": "Recycler",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "RUTHLESS",
@@ -1848,23 +1853,23 @@
       "Name": "Sensei",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "SHADOW_BOXING",
       "SetID": "9a4jnji",
       "Name": "Shadow Boxin\u0027",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SIDE_ORDER",
       "SetID": "9a4jnji",
       "Name": "Side Order",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 75
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -1888,7 +1893,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -1919,7 +1924,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1071,
+      "Progressed": 1072,
       "Completed": 0
     }
   ],
@@ -1927,8 +1932,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-08T20:58:17.2515155+00:00",
-  "LastChanged_Achievements": "2023-06-09T17:01:50.4180822+00:00",
+  "LastChanged_Achievements": "2023-06-09T18:01:21.5877308+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:58:47.043803+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:01:50.4181395+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:58:37.905146+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:01:21.6054621+00:00"
 }

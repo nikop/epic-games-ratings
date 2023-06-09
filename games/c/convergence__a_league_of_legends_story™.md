@@ -22,6 +22,7 @@
 | Golem Chaser | 4.00% | ~26 |
 | The Family Fortune | 4.00% | ~26 |
 | Chaincrawler Explorer | 3.00% | ~19 |
+| Right On Time | 3.00% | ~19 |
 | Family Memories | 3.00% | ~19 |
 | The Mysterious Stranger | 3.00% | ~19 |
 | Whiz Kid | 3.00% | ~19 |
@@ -35,7 +36,6 @@
 | Immaculate Aim | 3.00% | ~19 |
 | Ask Questions Later | 3.00% | ~19 |
 | The Brass Boss | 3.00% | ~19 |
-| Right On Time | 2.00% | ~13 |
 | Corin Goes Home | 2.00% | ~13 |
 | Sartorialist | 2.00% | ~13 |
 | Cultivair Explorer | 2.00% | ~13 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 638 (Ranked 192)  
+Progressed: 640 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,4 +80,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 615 | 0 |
 | 2023-06-07 | 624 | 0 |
 | 2023-06-08 | 633 | 0 |
-| 2023-06-09 | 638 | 0 |
+| 2023-06-09 | 640 | 0 |

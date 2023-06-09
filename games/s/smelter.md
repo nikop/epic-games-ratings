@@ -9,8 +9,8 @@
 | Time to Bash Some Heads! | 81.00% | ~29 |
 | Shiny! | 69.00% | ~25 |
 | Deep in the Mounds | 67.00% | ~24 |
-| Smeltastic! | 33.00% | ~12 |
-| Locked Away | 31.00% | ~11 |
+| Smeltastic! | 36.00% | ~13 |
+| Locked Away | 33.00% | ~12 |
 | A Little Renovating | 28.00% | ~10 |
 | Deflect This! | 25.00% | ~9 |
 | It's a Sign! | 22.00% | ~8 |
@@ -57,7 +57,7 @@
 | The More the Merrier | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 36 (Ranked 324)  
-Completed: 3 (8.33%) (Ranked 20)  
+Completed: 3 (8.33%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

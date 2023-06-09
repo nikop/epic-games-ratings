@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -290,9 +290,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2467,
+  "EOS_Progressed": 2470,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3000,6 +3000,11 @@
       "Time": "2023-06-09T17:07:10.9138958+00:00",
       "NumProgressed": 2467,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T18:06:40.8341731+00:00",
+      "NumProgressed": 2470,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3011,7 +3016,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -3019,7 +3024,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -3035,7 +3040,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -3051,7 +3056,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3059,7 +3064,7 @@
       "Name": "Fields of Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -3067,7 +3072,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3091,7 +3096,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3131,7 +3136,7 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3139,7 +3144,7 @@
       "Name": "Skirmisher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -3147,7 +3152,7 @@
       "Name": "Sharpshooter",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -3163,7 +3168,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -3179,7 +3184,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3211,7 +3216,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3219,7 +3224,7 @@
       "Name": "Lord of War",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3323,7 +3328,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3347,7 +3352,7 @@
       "Name": "Change the Channel",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3578,13 +3583,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2418,
+      "Progressed": 2421,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2467,
+      "Progressed": 2470,
       "Completed": 2
     }
   ],
@@ -3592,8 +3597,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T13:06:16.9118411+00:00",
-  "LastChanged_Achievements": "2023-06-09T17:07:10.9138953+00:00",
+  "LastChanged_Achievements": "2023-06-09T18:06:40.8341723+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-09T17:01:33.0899205+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:07:10.9139926+00:00"
+  "LastUpdate_Ratings": "2023-06-09T18:01:06.6121565+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:06:40.8342762+00:00"
 }

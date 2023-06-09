@@ -8,7 +8,7 @@
 | Das Ist Endgültig! | 19.00% | ~39 |
 | La Der des Ders | 14.00% | ~28 |
 | From the Pages of History | 9.00% | ~18 |
-| The Chemists' War | 4.00% | ~8 |
+| The Chemists' War | 5.00% | ~10 |
 | War with Friends | 3.00% | ~6 |
 | A Student of History | 1.00% | ~2 |
 | Bombs Away! | 0.50% | ~1 |

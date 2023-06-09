@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1442,10 +1442,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64246,
-  "EOS_Completed": 94,
-  "EOS_NewPlayers": 993,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 64258,
+  "EOS_Completed": 95,
+  "EOS_NewPlayers": 994,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -5662,6 +5662,11 @@
       "Time": "2023-06-09T17:07:24.8189297+00:00",
       "NumProgressed": 64246,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-09T18:06:53.7470779+00:00",
+      "NumProgressed": 64258,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -5745,7 +5750,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ALL_VILLAIN",
@@ -5753,7 +5758,7 @@
       "Name": "End of an Era",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "APPLY_STATUS",
@@ -5761,7 +5766,7 @@
       "Name": "In Your Element",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "CHALLENGES_1",
@@ -5769,7 +5774,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "CLAYFACE_1",
@@ -5785,7 +5790,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "CLAYFACE_3",
@@ -5793,7 +5798,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -5817,7 +5822,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -5833,7 +5838,7 @@
       "Name": "Not On My Watch",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -5849,7 +5854,7 @@
       "Name": "Bulldozed",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -5873,7 +5878,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -5881,7 +5886,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -5921,7 +5926,7 @@
       "Name": "Cooldown",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -5977,7 +5982,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "HARLEY_2",
@@ -6001,7 +6006,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -6025,7 +6030,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -6065,7 +6070,7 @@
       "Name": "Loose Ends",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "MYSTERY_02",
@@ -6097,7 +6102,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "MYSTERY_06",
@@ -6105,7 +6110,7 @@
       "Name": "Voiceless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "MYSTERY_07",
@@ -6113,7 +6118,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "MYSTERY_08",
@@ -6121,7 +6126,7 @@
       "Name": "Gotham Knight",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "SECRET_CACHE",
@@ -6129,7 +6134,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -6160,13 +6165,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64246,
-      "Completed": 94
+      "Progressed": 64258,
+      "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34526,
+      "Progressed": 34538,
       "Completed": 2645
     }
   ],
@@ -6174,8 +6179,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-09T12:01:01.7330615+00:00",
-  "LastChanged_Achievements": "2023-06-09T17:07:24.8189291+00:00",
+  "LastChanged_Achievements": "2023-06-09T18:06:53.7470772+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-09T17:00:35.8690058+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:07:24.8190513+00:00"
+  "LastUpdate_Ratings": "2023-06-09T18:00:13.898466+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:06:53.7471661+00:00"
 }

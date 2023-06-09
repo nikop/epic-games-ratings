@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -3612,10 +3612,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 15419,
       "NumberOfAwardsMax": 1976
+    },
+    {
+      "Time": "2023-06-09T17:58:37.1600804+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15420,
+      "NumberOfAwardsMax": 1976
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15419,
+  "NumberOfAwards": 15420,
   "NumberOfAwardsMax": 1976,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -3671,7 +3677,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1259
+      "Count": 1260
     },
     {
       "Text": "This game has a Creative Community",
@@ -3691,8 +3697,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:04.6520015+00:00",
-  "LastChanged": "2023-06-09T13:58:14.6581494+00:00",
+  "LastChanged": "2023-06-09T17:58:37.1600802+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:30.7295601+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:58:46.462971+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:03:12.5653822+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:58:37.1600809+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:03:07.1942603+00:00"
 }

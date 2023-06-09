@@ -31,12 +31,12 @@
 | Basement Secret Spot | 4.00% | ~2 |
 | Found the Secret Formula! | 4.00% | ~2 |
 | Interference | 4.00% | ~2 |
+| Attic Secret Spot | 2.00% | ~1 |
 | Garage Secret Spot | 2.00% | ~1 |
 | You broke it, you bought it | 2.00% | ~1 |
 | Kickball Kup | 2.00% | ~1 |
 | Goooooooooal! | 2.00% | ~1 |
 | Angry Mom | 2.00% | ~1 |
-| Attic Secret Spot | 0.00% | ~0 |
 | Backyard Secret Spot | 0.00% | ~0 |
 | Gamer Room Secret Spot | 0.00% | ~0 |
 | Hi Hungry, I'm Dad | 0.00% | ~0 |

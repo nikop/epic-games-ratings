@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1619,
+  "EOS_Progressed": 1620,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -960,6 +960,11 @@
       "Time": "2023-06-09T15:05:44.6625239+00:00",
       "NumProgressed": 1619,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T18:06:34.8813697+00:00",
+      "NumProgressed": 1620,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -979,7 +984,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1003,7 +1008,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -1123,7 +1128,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1203,7 +1208,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1219,7 +1224,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1267,7 +1272,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1283,7 +1288,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -1299,7 +1304,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -1387,22 +1392,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1619,
+      "Progressed": 1620,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-09T17:07:04.4114922+00:00",
+  "LastChanged_Achievements": "2023-06-09T18:06:34.8813684+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:41.0593225+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:58:57.7605254+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:07:04.4115423+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:58:47.7054452+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:06:34.8814573+00:00"
 }

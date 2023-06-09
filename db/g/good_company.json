@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4955,
+  "EOS_Progressed": 4956,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -1454,6 +1454,11 @@
       "Time": "2023-06-09T17:07:23.1285302+00:00",
       "NumProgressed": 4955,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T18:06:52.0737856+00:00",
+      "NumProgressed": 4956,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1617,7 +1622,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "ach_campaign_special10",
@@ -2072,15 +2077,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4955,
+      "Progressed": 4956,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-09T17:07:23.1285296+00:00",
+  "LastChanged_Achievements": "2023-06-09T18:06:52.0737847+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.8575954+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:59:37.5890219+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:07:23.1286219+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:59:22.2284967+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:06:52.0739002+00:00"
 }

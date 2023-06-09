@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,7 +54,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -809,6 +809,11 @@
       "Time": "2023-06-09T12:07:37.2990963+00:00",
       "NumProgressed": 462,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T18:06:36.0344452+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -876,7 +881,7 @@
       "Name": "Sneak peek",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Favourite",
@@ -892,7 +897,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Goal",
@@ -940,7 +945,7 @@
       "Name": "Liar Liar",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LittleHelper",
@@ -964,7 +969,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "NoMoreWards",
@@ -1012,7 +1017,7 @@
       "Name": "Uprooting",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "TheGuardian",
@@ -1020,7 +1025,7 @@
       "Name": "Baba Yaga",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ToadCharming",
@@ -1075,7 +1080,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 1
     }
   ],
@@ -1083,8 +1088,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-09T17:07:05.7841841+00:00",
+  "LastChanged_Achievements": "2023-06-09T18:06:36.0344437+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:01.7126872+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:58:15.5571665+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:07:05.7842133+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:58:09.2795629+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:06:36.0344837+00:00"
 }

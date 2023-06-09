@@ -921,9 +921,9 @@
       "ID": "KILL_1000_WITH_GAS",
       "SetID": "6kcl14p",
       "Name": "The Chemists\u0027 War",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -978,8 +978,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-06-09T17:03:40.2537753+00:00",
+  "LastChanged_Achievements": "2023-06-09T18:03:32.7064313+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:44.1687656+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:59:03.1668667+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:03:40.2537942+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:58:52.750661+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:03:32.7064559+00:00"
 }

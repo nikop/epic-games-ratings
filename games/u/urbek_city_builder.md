@@ -13,7 +13,7 @@
 | I like books | 19.00% | ~44 |
 | I like my life | 18.00% | ~42 |
 | Clean energy | 18.00% | ~42 |
-| Soviet town | 17.00% | ~39 |
+| Soviet town | 17.00% | ~40 |
 | Bucolic city | 13.00% | ~30 |
 | I love books! | 9.00% | ~21 |
 | King of fish | 9.00% | ~21 |
@@ -28,11 +28,11 @@
 | Little Mayor | 3.00% | ~7 |
 | Temperate builder | 3.00% | ~7 |
 | Food provider master | 2.00% | ~5 |
+| City crisis | 2.00% | ~5 |
 | Oh, I love parks, listening to birds! | 2.00% | ~5 |
 | Rebel city | 2.00% | ~5 |
 | Temperate urban planner | 2.00% | ~5 |
 | Archipelago builder | 1.00% | ~2 |
-| City crisis | 1.00% | ~2 |
 | What is there after death? | 1.00% | ~2 |
 | Freedom to go to the mall! | 1.00% | ~2 |
 | Town planner | 1.00% | ~2 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232 (Ranked 242)  
+Progressed: 233 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 226 | 0 |
 | 2023-06-07 | 228 | 0 |
 | 2023-06-08 | 230 | 0 |
-| 2023-06-09 | 232 | 0 |
+| 2023-06-09 | 233 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

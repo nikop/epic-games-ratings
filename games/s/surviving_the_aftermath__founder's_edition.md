@@ -6,40 +6,40 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,452 |
-| Leader | 61.00% | ~3,825 |
-| Explorer | 53.00% | ~3,323 |
-| Healer | 53.00% | ~3,323 |
+| First Step | 71.00% | ~4,453 |
+| Leader | 61.00% | ~3,826 |
+| Explorer | 53.00% | ~3,324 |
+| Healer | 53.00% | ~3,324 |
 | Aspiring Inventor | 45.00% | ~2,822 |
-| Adventurer | 41.00% | ~2,571 |
+| Adventurer | 41.00% | ~2,572 |
 | Famous Healer | 38.00% | ~2,383 |
-| Local Leader | 35.00% | ~2,194 |
+| Local Leader | 35.00% | ~2,195 |
 | New Opportunities | 34.00% | ~2,132 |
-| Famous Explorer | 33.00% | ~2,069 |
-| Energized | 33.00% | ~2,069 |
-| The Long Haul | 33.00% | ~2,069 |
+| Famous Explorer | 33.00% | ~2,070 |
+| Energized | 33.00% | ~2,070 |
+| The Long Haul | 33.00% | ~2,070 |
+| The Great Healer | 31.00% | ~1,944 |
 | Survivor | 31.00% | ~1,944 |
-| The Great Healer | 30.00% | ~1,881 |
 | Cleaner | 28.00% | ~1,756 |
 | Catastrofan | 28.00% | ~1,756 |
 | Legendary Explorer | 27.00% | ~1,693 |
-| Finders, Keepers | 26.00% | ~1,630 |
+| Finders, Keepers | 26.00% | ~1,631 |
 | Top Notch | 25.00% | ~1,568 |
-| Mentor | 23.00% | ~1,442 |
-| Great Leader | 22.00% | ~1,379 |
-| Ice Lakes | 22.00% | ~1,379 |
+| Mentor | 23.00% | ~1,443 |
+| Great Leader | 22.00% | ~1,380 |
+| Ice Lakes | 22.00% | ~1,380 |
 | Merchant | 21.00% | ~1,317 |
 | Real Survivor | 21.00% | ~1,317 |
-| War Never Changes | 19.00% | ~1,191 |
-| Rocket Surgeon | 19.00% | ~1,191 |
+| War Never Changes | 19.00% | ~1,192 |
+| Rocket Surgeon | 19.00% | ~1,192 |
 | Big Game Hunter | 17.00% | ~1,066 |
-| Friendly | 16.00% | ~1,003 |
-| Spreading Influence | 16.00% | ~1,003 |
-| Around the World | 15.00% | ~940 |
+| Friendly | 16.00% | ~1,004 |
+| Spreading Influence | 16.00% | ~1,004 |
+| Around the World | 15.00% | ~941 |
 | Bookworm | 14.00% | ~878 |
 | Famous Adventurer | 13.00% | ~815 |
 | Prepared for Anything | 13.00% | ~815 |
-| Big Catastrofan | 12.00% | ~752 |
+| Big Catastrofan | 12.00% | ~753 |
 | It's a Finnish Thing | 10.00% | ~627 |
 | Sky Burial | 9.00% | ~564 |
 | Trader | 8.00% | ~502 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,270 (Ranked 123)  
+Progressed: 6,272 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 6,175 | 0 |
 | 2023-06-07 | 6,205 | 0 |
 | 2023-06-08 | 6,243 | 0 |
-| 2023-06-09 | 6,270 | 0 |
+| 2023-06-09 | 6,272 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 327)  
 Sum: 662 (Ranked 271)  

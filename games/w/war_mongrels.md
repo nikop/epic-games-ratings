@@ -6,7 +6,7 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 62.00% | ~205 |
+| Explorer | 63.00% | ~209 |
 | Cowardice | 54.00% | ~179 |
 | NO LIFE IS WORTH SAVING... | 48.00% | ~159 |
 | Eat Lead! | 46.00% | ~152 |
@@ -18,7 +18,7 @@ Number of Ratings: 34  (23.09.2022)
 | Sniper Wolf | 36.00% | ~119 |
 | The Motivation | 35.00% | ~116 |
 | Heroism | 33.00% | ~109 |
-| Collectibles of Chapter I | 31.00% | ~103 |
+| Collectibles of Chapter I | 32.00% | ~106 |
 | King of Knives | 31.00% | ~103 |
 | Consequences | 29.00% | ~96 |
 | Opportunities | 27.00% | ~89 |

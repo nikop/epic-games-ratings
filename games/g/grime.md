@@ -40,10 +40,10 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 4.00% | ~23 |
 | Proportions | 4.00% | ~23 |
 | Bloodhunter | 3.00% | ~17 |
+| Breath | 3.00% | ~17 |
 | Weakness | 3.00% | ~17 |
 | Listen | 3.00% | ~5 |
 | Zygote | 2.00% | ~3 |
-| Breath | 2.00% | ~12 |
 | Generous | 2.00% | ~12 |
 | Skinmaker | 1.00% | ~6 |
 | Instruments | 0.90% | ~5 |

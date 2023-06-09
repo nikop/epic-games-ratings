@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 82.00% | ~28 |
-| Killing Spree | 68.00% | ~23 |
-| 5Gb HDD | 47.00% | ~16 |
-| Merchant Prince I | 44.00% | ~15 |
-| Dominating | 32.00% | ~11 |
+| First Blood | 83.00% | ~29 |
+| Killing Spree | 66.00% | ~23 |
+| 5Gb HDD | 46.00% | ~16 |
+| Merchant Prince I | 43.00% | ~15 |
+| Dominating | 31.00% | ~11 |
 | Fighting Fit I | 26.00% | ~9 |
-| Rambo I | 24.00% | ~8 |
-| The Vette | 21.00% | ~7 |
-| 10Gb HDD | 21.00% | ~7 |
-| Mega Kill | 15.00% | ~5 |
-| Almost There I | 15.00% | ~5 |
-| Stoic | 12.00% | ~4 |
+| Rambo I | 23.00% | ~8 |
+| The Vette | 20.00% | ~7 |
+| 10Gb HDD | 20.00% | ~7 |
+| Mega Kill | 14.00% | ~5 |
+| Almost There I | 14.00% | ~5 |
+| Stoic | 11.00% | ~4 |
 | Bronze Prince of Ball-air | 9.00% | ~3 |
 | Omicron Alpha | 9.00% | ~3 |
 | Pacifist | 9.00% | ~3 |
@@ -137,7 +137,7 @@
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 326)  
+Progressed: 35 (Ranked 327)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,3 +160,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-04 | 32 | 0 |
 | 2023-06-06 | 33 | 0 |
 | 2023-06-07 | 34 | 0 |
+| 2023-06-09 | 35 | 0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "dream-engines-nomad-cities",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-07-14T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:24.5682105+00:00",
   "LastChanged": "2023-03-31T05:57:24.5682106+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:32.6267004+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:59:54.5961887+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:03:18.724221+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:59:37.2063866+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:03:12.7045836+00:00"
 }

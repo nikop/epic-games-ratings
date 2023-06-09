@@ -5,8 +5,8 @@ Rating: 4.63 (Ranked 331)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once upon a time... | 36.00% | ~80,459 |
-| ... in the magical land of Foenum... | 34.00% | ~75,989 |
+| Once upon a time... | 36.00% | ~80,460 |
+| ... in the magical land of Foenum... | 34.00% | ~75,990 |
 | Be Gentle... | 22.00% | ~49,170 |
 | A Worthy Opponent | 17.00% | ~37,995 |
 | Makin' Bacon | 4.00% | ~8,940 |
@@ -14,27 +14,27 @@ Rating: 4.63 (Ranked 331)
 | Champ'een of The Praire | 1.00% | ~2,235 |
 | Come At Me! | 1.00% | ~2,235 |
 | Sin'er Man | 0.20% | ~447 |
-| Well-Done | 0.10% | ~223 |
-| Valedictorian | 0.10% | ~223 |
-| Love is a Battlefield | 0.10% | ~223 |
-| That'll Do | 0.10% | ~223 |
-| Swashbuckle'd | 0.10% | ~223 |
-| School of Hard Knocks | 0.10% | ~223 |
-| Way of the Dragon | 0.10% | ~223 |
-| Iced Out | 0.10% | ~223 |
-| Kickin' 'n Stompin' | 0.10% | ~223 |
-| Dark Magic | 0.10% | ~223 |
-| I Love You This Much | 0.10% | ~223 |
-| Who Let The Dogs Out? | 0.10% | ~223 |
-| The GOAT | 0.10% | ~223 |
-| The Key To Victory | 0.10% | ~223 |
-| Honor For All | 0.10% | ~223 |
-| Ice Queen | 0.10% | ~223 |
-| Doohickeys | 0.10% | ~223 |
-| Alpaca Space Program | 0.10% | ~223 |
-| High Priestess | 0.10% | ~223 |
+| Well-Done | 0.10% | ~224 |
+| Valedictorian | 0.10% | ~224 |
+| Love is a Battlefield | 0.10% | ~224 |
+| That'll Do | 0.10% | ~224 |
+| Swashbuckle'd | 0.10% | ~224 |
+| School of Hard Knocks | 0.10% | ~224 |
+| Way of the Dragon | 0.10% | ~224 |
+| Iced Out | 0.10% | ~224 |
+| Kickin' 'n Stompin' | 0.10% | ~224 |
+| Dark Magic | 0.10% | ~224 |
+| I Love You This Much | 0.10% | ~224 |
+| Who Let The Dogs Out? | 0.10% | ~224 |
+| The GOAT | 0.10% | ~224 |
+| The Key To Victory | 0.10% | ~224 |
+| Honor For All | 0.10% | ~224 |
+| Ice Queen | 0.10% | ~224 |
+| Doohickeys | 0.10% | ~224 |
+| Alpaca Space Program | 0.10% | ~224 |
+| High Priestess | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,498 (Ranked 49)  
+Progressed: 223,500 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 3 (0.00%) (Ranked 212)
 | 2023-06-06 | 223,259 | 3 |
 | 2023-06-07 | 223,337 | 3 |
 | 2023-06-08 | 223,417 | 3 |
-| 2023-06-09 | 223,498 | 3 |
+| 2023-06-09 | 223,500 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

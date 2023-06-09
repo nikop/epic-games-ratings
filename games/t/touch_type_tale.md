@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 90.00% | ~2,654 |
-| Flanked! | 80.00% | ~2,359 |
-| Economics 101 | 65.00% | ~1,917 |
+| You and what Army? | 90.00% | ~2,655 |
+| Flanked! | 80.00% | ~2,360 |
+| Economics 101 | 65.00% | ~1,918 |
 | Get Rich Quick | 48.00% | ~1,416 |
-| Do the Splits | 41.00% | ~1,209 |
+| Do the Splits | 41.00% | ~1,210 |
 | Maestro | 28.00% | ~826 |
 | Full Employment | 20.00% | ~590 |
-| Clay Fighter | 17.00% | ~501 |
+| Clay Fighter | 17.00% | ~502 |
 | Nowhere left to Hide | 15.00% | ~442 |
 | Boulder Clash | 14.00% | ~413 |
-| All Ovens Blazing | 13.00% | ~383 |
-| Held Back by the Roots | 13.00% | ~383 |
+| All Ovens Blazing | 13.00% | ~384 |
+| Held Back by the Roots | 13.00% | ~384 |
 | Well Supplied | 11.00% | ~324 |
 | Damage Control | 8.00% | ~236 |
 | Master of the Brawl | 8.00% | ~236 |
-| Sniped | 7.00% | ~206 |
-| Leave Them no Cake | 7.00% | ~206 |
-| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~206 |
+| Sniped | 7.00% | ~207 |
+| Leave Them no Cake | 7.00% | ~207 |
+| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~207 |
 | A Secret Recipe | 6.00% | ~177 |
-| Your Biggest Fans | 5.00% | ~147 |
-| An Ally in Need | 5.00% | ~147 |
-| For the Queen | 5.00% | ~147 |
-| Not a Drop Wasted | 5.00% | ~147 |
+| Your Biggest Fans | 5.00% | ~148 |
+| An Ally in Need | 5.00% | ~148 |
+| For the Queen | 5.00% | ~148 |
+| Not a Drop Wasted | 5.00% | ~148 |
 | Work It | 4.00% | ~118 |
 | Reinforcements | 4.00% | ~118 |
 | Sweet Revenge | 4.00% | ~118 |
@@ -35,10 +35,10 @@
 | Almost Like Winning | 3.00% | ~88 |
 | The Handyman Can! | 3.00% | ~88 |
 | A Brief Moment of Respite | 3.00% | ~88 |
-| Untouchable | 1.00% | ~29 |
+| Untouchable | 1.00% | ~30 |
 | All Geared Up | 0.90% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,949 (Ranked 138)  
+Progressed: 2,950 (Ranked 138)  
 Completed: 9 (0.31%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 9 (0.31%) (Ranked 130)
 | 2023-06-06 | 2,926 | 9 |
 | 2023-06-07 | 2,935 | 9 |
 | 2023-06-08 | 2,944 | 9 |
-| 2023-06-09 | 2,949 | 9 |
+| 2023-06-09 | 2,950 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -22,7 +22,7 @@ Number of Ratings: 118  (23.09.2022)
 | A beer, two curses, three companions | 48.00% | ~23 |
 | The plot thickens... At the tavern | 46.00% | ~22 |
 | The Ranger of Chaos | 46.00% | ~22 |
-| Team Building Exercise | 42.00% | ~20 |
+| Team Building Exercise | 44.00% | ~21 |
 | Dwarf Fortress | 40.00% | ~19 |
 | Look but don't touch | 40.00% | ~19 |
 | Material Girl | 38.00% | ~18 |

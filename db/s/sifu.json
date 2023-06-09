@@ -4512,9 +4512,9 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 708277,
+  "EOS_Progressed": 708290,
   "EOS_Completed": 12764,
-  "EOS_NewPlayers": 1385,
+  "EOS_NewPlayers": 1384,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9182,6 +9182,11 @@
       "Time": "2023-06-09T17:07:21.400098+00:00",
       "NumProgressed": 708277,
       "NumCompleted": 12764
+    },
+    {
+      "Time": "2023-06-09T18:06:50.621552+00:00",
+      "NumProgressed": 708290,
+      "NumCompleted": 12764
     }
   ],
   "TotalAchievements": 50,
@@ -9441,7 +9446,7 @@
       "Name": "Old Child",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6374
+      "UsersEstimate": 6375
     },
     {
       "ID": "33_BladeOneShot",
@@ -9505,7 +9510,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6374
+      "UsersEstimate": 6375
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -9529,7 +9534,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -9537,7 +9542,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9561,7 +9566,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -9585,28 +9590,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17578,
+      "Progressed": 17591,
       "Completed": 10247
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708277,
+      "Progressed": 708290,
       "Completed": 12764
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-09T15:59:21.7321869+00:00",
-  "LastChanged_Achievements": "2023-06-09T17:07:21.4000974+00:00",
+  "LastChanged_Achievements": "2023-06-09T18:06:50.6215509+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-09T16:59:41.9121866+00:00",
-  "LastUpdate_Achievements": "2023-06-09T17:07:21.4001681+00:00"
+  "LastUpdate_Ratings": "2023-06-09T17:59:25.9672438+00:00",
+  "LastUpdate_Achievements": "2023-06-09T18:06:50.6216745+00:00"
 }
