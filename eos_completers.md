@@ -9,7 +9,7 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 10 | [Island Cities](games/i/island_cities.md) | 15.05% |
+| 10 | [Island Cities](games/i/island_cities.md) | 14.95% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
@@ -19,22 +19,22 @@
 | 17 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 9.09% |
 | 17 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
-| 20 | [Smelter](games/s/smelter.md) | 8.57% |
+| 20 | [Smelter](games/s/smelter.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.07% |
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.04% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.03% |
 | 27 | [Scorn](games/s/scorn.md) | 6.86% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 6.67% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 6.66% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.26% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.35% |
+| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.31% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.97% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
@@ -120,9 +120,9 @@
 | 118 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 118 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.37% |
 | 118 | [Tails of Iron](games/t/tails_of_iron.md) | 0.37% |
-| 118 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
-| 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
-| 122 | [Tchia](games/t/tchia.md) | 0.36% |
+| 121 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
+| 121 | [Tchia](games/t/tchia.md) | 0.36% |
+| 121 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 124 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 125 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 125 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
@@ -148,8 +148,8 @@
 | 145 | [Blanc](games/b/blanc.md) | 0.21% |
 | 145 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 148 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
-| 148 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
-| 150 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
+| 149 | [Going Medieval](games/g/going_medieval.md) | 0.17% |
+| 149 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
 | 151 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
 | 151 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 151 | [RAILGRADE](games/r/railgrade.md) | 0.16% |

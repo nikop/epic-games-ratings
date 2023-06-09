@@ -55,7 +55,7 @@
 | 53 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,147 | 4.58 | 423 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,935 | 4.64 | 315 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,879 | 4.79 | 90 |
-| 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,782 | 4.66 | 280 |
+| 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,784 | 4.66 | 280 |
 | 57 | [Prey](games/p/prey.md) | 5,567 | 4.62 | 348 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,544 | 4.82 | 65 |
 | 59 | [DEATH STRANDING](games/d/death_stranding.md) | 5,532 | 4.77 | 108 |
@@ -124,7 +124,7 @@
 | 122 | [DOOM 64](games/d/doom_64.md) | 1,290 | 4.66 | 280 |
 | 123 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,260 | 4.86 | 30 |
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 1,221 | 4.55 | 476 |
-| 125 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,211 | 4.51 | 527 |
+| 125 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,215 | 4.51 | 527 |
 | 126 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,175 | 4.69 | 219 |
 | 127 | [XCOM® 2](games/x/xcom®_2.md) | 1,173 | 4.55 | 476 |
 | 128 | [OUTRIDERS](games/o/outriders.md) | 1,134 | 4.42 | 655 |
@@ -152,7 +152,7 @@
 | 150 | [The Long Dark](games/t/the_long_dark.md) | 761 | 4.74 | 143 |
 | 151 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 754 | 4.50 | 545 |
 | 152 | [Auto Chess](games/a/auto_chess.md) | 745 | 4.52 | 513 |
-| 153 | [Core](games/c/core.md) | 735 | 4.37 | 708 |
+| 153 | [Core](games/c/core.md) | 736 | 4.37 | 708 |
 | 154 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 725 | 4.79 | 90 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 723 | 4.45 | 617 |
 | 156 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 695 | 4.59 | 408 |
@@ -192,8 +192,8 @@
 | 190 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 468 | 4.86 | 30 |
 | 191 | [Ghostrunner](games/g/ghostrunner.md) | 466 | 4.72 | 169 |
 | 192 | [Unreal Tournament](games/u/unreal_tournament.md) | 459 | 4.66 | 280 |
-| 193 | [Surviving Mars](games/s/surviving_mars.md) | 451 | 4.60 | 386 |
-| 193 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 451 | 4.66 | 280 |
+| 193 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 454 | 4.66 | 280 |
+| 194 | [Surviving Mars](games/s/surviving_mars.md) | 451 | 4.60 | 386 |
 | 195 | [Prison Architect](games/p/prison_architect.md) | 434 | 4.61 | 360 |
 | 196 | [Second Extinction™](games/s/second_extinction™.md) | 428 | 4.04 | 893 |
 | 197 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 423 | 4.24 | 800 |
@@ -221,10 +221,10 @@
 | 219 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 331 | 4.76 | 118 |
 | 220 | [Tannenberg](games/t/tannenberg.md) | 326 | 4.39 | 691 |
 | 221 | [Dungeons 3](games/d/dungeons_3.md) | 325 | 4.65 | 296 |
-| 222 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 322 | 3.93 | 913 |
-| 223 | [Darkwood](games/d/darkwood.md) | 319 | 4.61 | 360 |
-| 224 | [The Messenger](games/t/the_messenger.md) | 317 | 4.80 | 80 |
-| 225 | [The Sims™ 4](games/t/the_sims™_4.md) | 315 | 4.61 | 360 |
+| 222 | [The Sims™ 4](games/t/the_sims™_4.md) | 323 | 4.61 | 360 |
+| 223 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 322 | 3.93 | 913 |
+| 224 | [Darkwood](games/d/darkwood.md) | 319 | 4.61 | 360 |
+| 225 | [The Messenger](games/t/the_messenger.md) | 317 | 4.80 | 80 |
 | 226 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 314 | 4.73 | 156 |
 | 227 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 331 |
 | 228 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 783 |
