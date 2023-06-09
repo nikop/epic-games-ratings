@@ -272,6 +272,15 @@ await File.WriteAllTextAsync(
     )
 );
 await File.WriteAllTextAsync(
+    Path.Combine(path, "new_games_with_achievements.md"),
+    nameDateTable.FormatTable(
+        items
+            .Where(x => x.Store.ReleaseDate != null && ratingsCutOffNew < x.Store.ReleaseDate && x.Store.ReleaseDate <= now && x.TotalAchievements > 0)
+            .OrderByDescending(x => x.Store.ReleaseDate)
+            .ThenBy(x => x.Name)
+    )
+);
+await File.WriteAllTextAsync(
     Path.Combine(path, "upcoming_games.md"),
     nameDateTable.FormatTable(
         items
