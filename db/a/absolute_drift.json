@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1521865,
+  "EOS_Progressed": 1521870,
   "EOS_Completed": 621,
-  "EOS_NewPlayers": 1589,
+  "EOS_NewPlayers": 1587,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5595,6 +5595,11 @@
       "Time": "2023-06-09T07:04:12.1880738+00:00",
       "NumProgressed": 1521865,
       "NumCompleted": 621
+    },
+    {
+      "Time": "2023-06-09T08:04:06.965249+00:00",
+      "NumProgressed": 1521870,
+      "NumCompleted": 621
     }
   ],
   "TotalAchievements": 20,
@@ -5702,7 +5707,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152186
+      "UsersEstimate": 152187
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -5718,7 +5723,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121749
+      "UsersEstimate": 121750
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -5750,7 +5755,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76093
+      "UsersEstimate": 76094
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -5765,15 +5770,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1521865,
+      "Progressed": 1521870,
       "Completed": 621
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-09T07:04:12.1880732+00:00",
+  "LastChanged_Achievements": "2023-06-09T08:04:06.9652483+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:30.6920773+00:00",
-  "LastUpdate_Ratings": "2023-06-09T07:00:32.4803759+00:00",
-  "LastUpdate_Achievements": "2023-06-09T07:04:12.1881512+00:00"
+  "LastUpdate_Ratings": "2023-06-09T08:00:08.9213148+00:00",
+  "LastUpdate_Achievements": "2023-06-09T08:04:06.9652957+00:00"
 }

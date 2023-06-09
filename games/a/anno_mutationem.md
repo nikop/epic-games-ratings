@@ -5,24 +5,24 @@ Rating: 4.56 (Ranked 452)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~469 |
-| Don't judge a manhole by its cover | 60.00% | ~375 |
+| Tell me your story | 75.00% | ~470 |
+| Don't judge a manhole by its cover | 60.00% | ~376 |
 | I just love stuff! | 40.00% | ~250 |
 | Keep 'em coming! | 40.00% | ~250 |
-| Big Spender | 37.00% | ~231 |
-| The things they print nowadays | 37.00% | ~231 |
+| Big Spender | 37.00% | ~232 |
+| The things they print nowadays | 37.00% | ~232 |
 | That's gotta hurt | 35.00% | ~219 |
 | I think it's broke | 25.00% | ~156 |
 | The Ann Flores Combo Experience | 25.00% | ~156 |
 | Club Star | 23.00% | ~144 |
-| The Warlord | 20.00% | ~125 |
 | Fire in the hole! | 19.00% | ~119 |
 | Omnipotence | 19.00% | ~119 |
+| The Warlord | 19.00% | ~119 |
 | You are the One | 19.00% | ~119 |
-| Deadly Kombationem | 18.00% | ~112 |
+| Deadly Kombationem | 18.00% | ~113 |
 | The truth is out there | 14.00% | ~88 |
 | Annakin Skyscroller | 13.00% | ~81 |
-| In the smacker...I think | 10.00% | ~62 |
+| In the smacker...I think | 10.00% | ~63 |
 | Arm Wrestlin' | 9.00% | ~56 |
 | 1+1>2 | 8.00% | ~50 |
 | This can't be right… | 8.00% | ~50 |
@@ -37,12 +37,12 @@ Rating: 4.56 (Ranked 452)
 | Woman on a (side) mission | 4.00% | ~25 |
 | Ann ULTRA | 3.00% | ~19 |
 | Lady Luck is a cool cat | 3.00% | ~19 |
-| SERENITY NOW | 2.00% | ~12 |
-| I just got real good | 2.00% | ~12 |
+| SERENITY NOW | 2.00% | ~13 |
+| I just got real good | 2.00% | ~13 |
 | Love me like I love my posters | 0.80% | ~5 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 625 (Ranked 194)  
+Progressed: 626 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 622 | 0 |
 | 2023-06-07 | 624 | 0 |
 | 2023-06-08 | 625 | 0 |
+| 2023-06-09 | 626 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

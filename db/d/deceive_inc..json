@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6675,
+  "EOS_Progressed": 6677,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3923,6 +3923,11 @@
       "Time": "2023-06-09T06:07:22.5875662+00:00",
       "NumProgressed": 6675,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T08:06:30.1950313+00:00",
+      "NumProgressed": 6677,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3934,7 +3939,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "0002",
@@ -3998,7 +4003,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3137
+      "UsersEstimate": 3138
     },
     {
       "ID": "0010",
@@ -4022,7 +4027,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "0013",
@@ -4030,7 +4035,7 @@
       "Name": "Keycards Royale",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "0014",
@@ -4038,7 +4043,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "0015",
@@ -4062,7 +4067,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2738
     },
     {
       "ID": "0018",
@@ -4070,7 +4075,7 @@
       "Name": "In It to Win It",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "0019",
@@ -4086,7 +4091,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 23,
       "XP": 115,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "0021",
@@ -4110,7 +4115,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "0024",
@@ -4118,7 +4123,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3137
+      "UsersEstimate": 3138
     },
     {
       "ID": "0025",
@@ -4150,7 +4155,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3137
+      "UsersEstimate": 3138
     },
     {
       "ID": "0029",
@@ -4158,7 +4163,7 @@
       "Name": "A view to Win",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "0030",
@@ -4166,7 +4171,7 @@
       "Name": "For your Eyes only",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "0031",
@@ -4221,7 +4226,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6675,
+      "Progressed": 6677,
       "Completed": 0
     }
   ],
@@ -4229,8 +4234,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-06-09T07:06:29.4633721+00:00",
+  "LastChanged_Achievements": "2023-06-09T08:06:30.1950306+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:04.3175816+00:00",
-  "LastUpdate_Ratings": "2023-06-09T07:00:07.6503581+00:00",
-  "LastUpdate_Achievements": "2023-06-09T07:06:29.4634554+00:00"
+  "LastUpdate_Ratings": "2023-06-09T07:59:43.8074348+00:00",
+  "LastUpdate_Achievements": "2023-06-09T08:06:30.1950773+00:00"
 }

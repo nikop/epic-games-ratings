@@ -26,8 +26,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 1.00% | ~7,082 |
 | Bloody Sport | 1.00% | ~175 |
 | The best strikes are the ones we avoid | 1.00% | ~175 |
-| Old Child | 0.90% | ~6,373 |
-| Take damage to save time | 0.90% | ~6,373 |
+| Old Child | 0.90% | ~6,374 |
+| Take damage to save time | 0.90% | ~6,374 |
 | Scareless | 0.80% | ~5,665 |
 | Kung-Fu Tussle | 0.80% | ~5,665 |
 | Dance of the Praying Mantis | 0.70% | ~4,957 |
@@ -46,8 +46,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.40% | ~2,833 |
 | Martial Hub | 0.40% | ~70 |
 | Secure, Protect, Leave | 0.40% | ~70 |
-| Martial Artist | 0.30% | ~2,124 |
-| Knowledge Greed | 0.30% | ~2,124 |
+| Martial Artist | 0.30% | ~2,125 |
+| Knowledge Greed | 0.30% | ~2,125 |
 | Drunken Fighter | 0.20% | ~1,416 |
 | Healing Memory | 0.20% | ~1,416 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,416 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,163 (Ranked 16)  
-Completed: 12,764 (1.80%) (Ranked 70)  
+Progressed: 708,170 (Ranked 16)  
+Completed: 12,763 (1.80%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,7 +107,7 @@ Completed: 12,764 (1.80%) (Ranked 70)
 | 2023-06-06 | 707,727 | 12,763 |
 | 2023-06-07 | 707,910 | 12,763 |
 | 2023-06-08 | 708,100 | 12,763 |
-| 2023-06-09 | 708,163 | 12,764 |
+| 2023-06-09 | 708,170 | 12,764 |
 ## Awards
 Max (Great Boss Battles): 6,153  (Ranked 52)  
 Sum: 10,494 (Ranked 78)  

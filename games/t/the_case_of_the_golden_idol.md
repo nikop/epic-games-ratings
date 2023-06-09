@@ -14,10 +14,10 @@
 | Solved fifth case | 26.00% | ~33 |
 | Solved ninth case | 24.00% | ~30 |
 | Solved tenth case | 21.00% | ~27 |
-| Solved eleventh case | 16.00% | ~20 |
+| Solved eleventh case | 17.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 127 (Ranked 269)  
-Completed: 4 (3.15%) (Ranked 46)  
+Completed: 5 (3.94%) (Ranked 38)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,7 +49,7 @@ Completed: 4 (3.15%) (Ranked 46)
 | 2023-06-06 | 122 | 4 |
 | 2023-06-07 | 123 | 4 |
 | 2023-06-08 | 125 | 4 |
-| 2023-06-09 | 127 | 4 |
+| 2023-06-09 | 127 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

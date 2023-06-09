@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -661,9 +661,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 30978,
+  "EOS_Progressed": 30979,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5506,6 +5506,11 @@
       "Time": "2023-06-09T07:01:43.7883302+00:00",
       "NumProgressed": 30978,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-09T08:02:10.9368475+00:00",
+      "NumProgressed": 30979,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -5717,7 +5722,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "ach_legacyrival",
@@ -5733,7 +5738,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "ach_legacyshipmate",
@@ -5749,7 +5754,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "ach_portbell",
@@ -5861,7 +5866,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "ach_sweetheart",
@@ -5948,15 +5953,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 30978,
+      "Progressed": 30979,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-05T06:59:36.6337587+00:00",
-  "LastChanged_Achievements": "2023-06-09T07:01:43.7883295+00:00",
+  "LastChanged_Achievements": "2023-06-09T08:02:10.9368468+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:59.115493+00:00",
-  "LastUpdate_Ratings": "2023-06-09T07:00:04.3356992+00:00",
-  "LastUpdate_Achievements": "2023-06-09T07:01:43.7884636+00:00"
+  "LastUpdate_Ratings": "2023-06-09T07:59:40.3853793+00:00",
+  "LastUpdate_Achievements": "2023-06-09T08:02:10.9369214+00:00"
 }

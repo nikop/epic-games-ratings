@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -388,9 +388,9 @@
       "ID": "Epic_Kill_1000000",
       "SetID": "ba1m2fc",
       "Name": "Easy Defeat",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Epic_Live_100000",
@@ -412,9 +412,9 @@
       "ID": "Epic_NinjaSword_1",
       "SetID": "ba1m2fc",
       "Name": "Knife Out",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Epic_Parasitic_1",
@@ -571,8 +571,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-09T07:01:11.3908107+00:00",
+  "LastChanged_Achievements": "2023-06-09T08:00:47.385657+00:00",
   "LastUpdate_AppInfo": "2023-06-08T03:57:14.5111987+00:00",
-  "LastUpdate_Ratings": "2023-06-09T06:57:12.0683366+00:00",
-  "LastUpdate_Achievements": "2023-06-09T07:01:11.3909664+00:00"
+  "LastUpdate_Ratings": "2023-06-09T07:56:53.8836666+00:00",
+  "LastUpdate_Achievements": "2023-06-09T08:00:47.3857082+00:00"
 }

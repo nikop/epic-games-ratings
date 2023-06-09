@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -164,6 +164,11 @@
       "Time": "2023-06-08T03:20:10.2685776+00:00",
       "NumProgressed": 310,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T08:06:39.693592+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -231,7 +236,7 @@
       "Name": "The Director is Dead",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -295,7 +300,7 @@
       "Name": "Iron Man",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -349,9 +354,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 162
     },
     {
       "ID": "ach-discover-locations-high",
@@ -381,9 +386,9 @@
       "ID": "ach-find-treasure",
       "SetID": "17ih7ma",
       "Name": "Red Flag Pirate",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "ach-find-treasure-high",
@@ -423,7 +428,7 @@
       "Name": "For the Club!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach-keepHighStanding",
@@ -453,9 +458,9 @@
       "ID": "ach-kill-sandworm",
       "SetID": "17ih7ma",
       "Name": "Shortening of the Way",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ach-learn-traits",
@@ -503,7 +508,7 @@
       "Name": "Spooky!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach-noEquipment",
@@ -519,7 +524,7 @@
       "Name": "Insomnia",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ach-pacifist-goals",
@@ -541,9 +546,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "ach-portal-return",
@@ -575,7 +580,7 @@
       "Name": "A Gentle Beast",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach-rideDinosaur",
@@ -583,7 +588,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach-rob-shrines",
@@ -647,14 +652,14 @@
       "Name": "Dapper",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 1
     }
   ],
@@ -662,8 +667,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-09T07:06:39.3326773+00:00",
+  "LastChanged_Achievements": "2023-06-09T08:06:39.6935914+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:04.7850575+00:00",
-  "LastUpdate_Ratings": "2023-06-09T07:01:07.7098761+00:00",
-  "LastUpdate_Achievements": "2023-06-09T07:06:39.3327689+00:00"
+  "LastUpdate_Ratings": "2023-06-09T08:00:43.0253614+00:00",
+  "LastUpdate_Achievements": "2023-06-09T08:06:39.693649+00:00"
 }

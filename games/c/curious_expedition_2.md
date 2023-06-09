@@ -7,32 +7,32 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 59.00% | ~183 |
-| Cartographer | 53.00% | ~164 |
+| Cartographer | 52.00% | ~162 |
 | A Strange Artefact | 48.00% | ~149 |
-| Insomnia | 44.00% | ~136 |
+| Insomnia | 44.00% | ~137 |
 | From Whence we Came | 40.00% | ~124 |
 | Lost & Found & Lost Again | 39.00% | ~121 |
 | Fire and Flood | 36.00% | ~112 |
-| Spooky! | 34.00% | ~105 |
+| Spooky! | 34.00% | ~106 |
 | Shennong Herbalist | 31.00% | ~96 |
 | Treasure Hunt | 31.00% | ~96 |
 | Good Mama | 29.00% | ~90 |
 | O Captain My Captain | 28.00% | ~87 |
 | Plunderer | 26.00% | ~81 |
 | Taxonomist | 25.00% | ~78 |
-| Uncertain Loyalties | 24.00% | ~74 |
+| Uncertain Loyalties | 23.00% | ~72 |
 | Traveller | 22.00% | ~68 |
 | Nahua Seeker | 22.00% | ~68 |
 | Roll to Save | 20.00% | ~62 |
+| Red Flag Pirate | 18.00% | ~56 |
 | Veteran Explorer | 18.00% | ~56 |
-| Red Flag Pirate | 17.00% | ~53 |
-| Iron Man | 15.00% | ~46 |
-| For the Club! | 15.00% | ~46 |
-| Shortening of the Way | 15.00% | ~46 |
-| Practical Palaeontology | 15.00% | ~46 |
-| The Director is Dead | 14.00% | ~43 |
-| A Gentle Beast | 14.00% | ~43 |
-| Dapper | 14.00% | ~43 |
+| Iron Man | 15.00% | ~47 |
+| For the Club! | 15.00% | ~47 |
+| Practical Palaeontology | 15.00% | ~47 |
+| The Director is Dead | 14.00% | ~44 |
+| Shortening of the Way | 14.00% | ~44 |
+| A Gentle Beast | 14.00% | ~44 |
+| Dapper | 14.00% | ~44 |
 | The New Director | 13.00% | ~40 |
 | Adventurer | 13.00% | ~40 |
 | Discovery | 13.00% | ~40 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310 (Ranked 226)  
+Progressed: 311 (Ranked 226)  
 Completed: 1 (0.32%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 1 (0.32%) (Ranked 125)
 | 2023-06-05 | 308 | 1 |
 | 2023-06-06 | 309 | 1 |
 | 2023-06-08 | 310 | 1 |
+| 2023-06-09 | 311 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1617,
+  "EOS_Progressed": 1618,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -950,6 +950,11 @@
       "Time": "2023-06-09T05:07:32.791107+00:00",
       "NumProgressed": 1617,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T08:06:19.3309318+00:00",
+      "NumProgressed": 1618,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -969,7 +974,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1103,9 +1108,9 @@
       "ID": "ACH_JUSTICE_SERVED",
       "SetID": "8j30i9k",
       "Name": "Justice Served",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 453
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -1113,7 +1118,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1209,7 +1214,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1257,7 +1262,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1337,7 +1342,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1384,15 +1389,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1617,
+      "Progressed": 1618,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-09T07:06:18.9452995+00:00",
+  "LastChanged_Achievements": "2023-06-09T08:06:19.3309311+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:41.0593225+00:00",
-  "LastUpdate_Ratings": "2023-06-09T06:58:49.2579758+00:00",
-  "LastUpdate_Achievements": "2023-06-09T07:06:18.9453509+00:00"
+  "LastUpdate_Ratings": "2023-06-09T07:58:26.4102843+00:00",
+  "LastUpdate_Achievements": "2023-06-09T08:06:19.3309762+00:00"
 }

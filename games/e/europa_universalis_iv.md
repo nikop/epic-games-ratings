@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,713 |
-| That's a Grand Army | 8.00% | ~4,189 |
-| That is mine! | 8.00% | ~4,189 |
-| Victorious! | 8.00% | ~4,189 |
-| Brothers in Arms | 6.00% | ~3,142 |
-| That's a Grand Navy | 6.00% | ~3,142 |
-| Seriously?! | 6.00% | ~3,142 |
-| For the Glory | 5.00% | ~2,618 |
+| Until death do us apart | 9.00% | ~4,714 |
+| That's a Grand Army | 8.00% | ~4,191 |
+| That is mine! | 8.00% | ~4,191 |
+| Victorious! | 8.00% | ~4,191 |
+| Brothers in Arms | 6.00% | ~3,143 |
+| That's a Grand Navy | 6.00% | ~3,143 |
+| Seriously?! | 6.00% | ~3,143 |
+| For the Glory | 5.00% | ~2,619 |
 | Cold War | 4.00% | ~2,095 |
 | True Catholic | 4.00% | ~2,095 |
 | Defender of the Faith | 3.00% | ~1,571 |
 | It's all about the money | 3.00% | ~1,571 |
 | Respected | 3.00% | ~1,571 |
 | Truly Divine Ruler | 3.00% | ~1,571 |
-| Agressive Expander | 2.00% | ~1,047 |
-| Blockader | 2.00% | ~1,047 |
-| Combined Arms | 2.00% | ~1,047 |
-| Double the Love | 2.00% | ~1,047 |
-| Gentle Persuasion | 2.00% | ~1,047 |
-| It's all about luck | 2.00% | ~1,047 |
-| My armies are invincible! | 2.00% | ~1,047 |
-| Queen of Conquest | 2.00% | ~1,047 |
-| Royal Authority | 2.00% | ~1,047 |
-| The Princess is in this Castle | 2.00% | ~1,047 |
-| Total Control | 2.00% | ~1,047 |
+| Agressive Expander | 2.00% | ~1,048 |
+| Blockader | 2.00% | ~1,048 |
+| Combined Arms | 2.00% | ~1,048 |
+| Double the Love | 2.00% | ~1,048 |
+| Gentle Persuasion | 2.00% | ~1,048 |
+| It's all about luck | 2.00% | ~1,048 |
+| My armies are invincible! | 2.00% | ~1,048 |
+| Queen of Conquest | 2.00% | ~1,048 |
+| Royal Authority | 2.00% | ~1,048 |
+| The Princess is in this Castle | 2.00% | ~1,048 |
+| Total Control | 2.00% | ~1,048 |
 | All That's Thine Shall Be Mine | 1.00% | ~524 |
 | Azur semé de lis or | 1.00% | ~524 |
 | Bright Spark | 1.00% | ~524 |
@@ -56,16 +56,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.50% | ~262 |
 | Trophy Hunter | 0.50% | ~262 |
 | Voting Streak | 0.50% | ~262 |
-| Absolutely | 0.40% | ~209 |
-| All Your Trade Are Belong to Us | 0.40% | ~209 |
-| Bleed Them Dry | 0.40% | ~209 |
-| Dude, Where's my Boat? | 0.40% | ~209 |
-| Grand Coalition | 0.40% | ~209 |
-| In the Name of the Father | 0.40% | ~209 |
-| Live Long and Prosper | 0.40% | ~209 |
-| One Night in Paris | 0.40% | ~209 |
-| Tear Down This Wall | 0.40% | ~209 |
-| The Continuation of Diplomacy | 0.40% | ~209 |
+| Absolutely | 0.40% | ~210 |
+| All Your Trade Are Belong to Us | 0.40% | ~210 |
+| Bleed Them Dry | 0.40% | ~210 |
+| Dude, Where's my Boat? | 0.40% | ~210 |
+| Grand Coalition | 0.40% | ~210 |
+| In the Name of the Father | 0.40% | ~210 |
+| Live Long and Prosper | 0.40% | ~210 |
+| One Night in Paris | 0.40% | ~210 |
+| Tear Down This Wall | 0.40% | ~210 |
+| The Continuation of Diplomacy | 0.40% | ~210 |
 | A Decent Reserve | 0.30% | ~157 |
 | A Pile of Gold | 0.30% | ~157 |
 | Four For Trade | 0.30% | ~157 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,364 (Ranked 79)  
+Progressed: 52,383 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,16 +411,16 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 51,193 | 0 |
 | 2023-06-07 | 51,714 | 0 |
 | 2023-06-08 | 52,261 | 0 |
-| 2023-06-09 | 52,364 | 0 |
+| 2023-06-09 | 52,383 | 0 |
 ## Awards
 Max (Educational): 5,363  (Ranked 61)  
-Sum: 44,296 (Ranked 27)  
+Sum: 44,302 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,363 |
 | This game is Highly Recommended | 5,134 |
-| This game has Challenging Combat | 5,103 |
+| This game has Challenging Combat | 5,109 |
 | This game is Extremely Fun | 5,076 |
 | This game has Diverse Characters | 5,049 |
 | This game is Relaxing | 4,970 |
@@ -574,3 +574,4 @@ Diff (max vs sum): 34
 | 2023-06-06 | 4.68 | - | 5,351 | 44,211 |
 | 2023-06-07 | 4.68 | - | 5,359 | 44,260 |
 | 2023-06-08 | 4.68 | - | 5,363 | 44,296 |
+| 2023-06-09 | 4.68 | - | 5,363 | 44,302 |

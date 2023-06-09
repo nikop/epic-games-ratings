@@ -298,9 +298,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6302,
+  "EOS_Progressed": 6303,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3493,6 +3493,11 @@
       "Time": "2023-06-09T07:03:51.4764602+00:00",
       "NumProgressed": 6302,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-09T08:03:46.8301807+00:00",
+      "NumProgressed": 6303,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 29,
@@ -3544,7 +3549,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "ACH07",
@@ -3624,7 +3629,7 @@
       "Name": "A Marked Man",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "ACH17",
@@ -3735,7 +3740,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6302,
+      "Progressed": 6303,
       "Completed": 32
     }
   ],
@@ -3743,8 +3748,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-07T13:58:19.7299811+00:00",
-  "LastChanged_Achievements": "2023-06-09T07:03:51.4764597+00:00",
+  "LastChanged_Achievements": "2023-06-09T08:03:46.8301799+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:03.6526306+00:00",
-  "LastUpdate_Ratings": "2023-06-09T06:58:14.6414599+00:00",
-  "LastUpdate_Achievements": "2023-06-09T07:03:51.476501+00:00"
+  "LastUpdate_Ratings": "2023-06-09T07:57:53.5499105+00:00",
+  "LastUpdate_Achievements": "2023-06-09T08:03:46.83022+00:00"
 }

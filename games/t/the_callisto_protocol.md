@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~1,923 |
+| Flesh Wound | 13.00% | ~1,924 |
 | The Outer Way | 12.00% | ~1,776 |
 | Desperate Times | 11.00% | ~1,628 |
 | Paper Jams | 9.00% | ~1,332 |
@@ -32,7 +32,7 @@ Rating: 4.18 (Ranked 840)
 | I Do Belong Here | 2.00% | ~296 |
 | In Striking Distance | 2.00% | ~296 |
 | Mugshot | 2.00% | ~296 |
-| Big Spender | 2.00% | ~54 |
+| Big Spender | 2.00% | ~55 |
 | Parole Denied | 1.00% | ~27 |
 | Hoard Mode | 1.00% | ~27 |
 | Grim Reaper | 0.80% | ~118 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,796 (Ranked 104)  
+Progressed: 14,800 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 54 (0.36%) (Ranked 121)
 | 2023-06-06 | 14,637 | 54 |
 | 2023-06-07 | 14,702 | 54 |
 | 2023-06-08 | 14,777 | 54 |
-| 2023-06-09 | 14,796 | 54 |
+| 2023-06-09 | 14,800 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
 Sum: 297 (Ranked 328)  

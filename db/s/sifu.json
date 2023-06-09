@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4494,10 +4494,10 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 708163,
-  "EOS_Completed": 12764,
+  "EOS_Progressed": 708170,
+  "EOS_Completed": 12763,
   "EOS_NewPlayers": 1375,
-  "EOS_NewCompleters": 14,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -9114,6 +9114,11 @@
       "Time": "2023-06-09T07:06:34.4601306+00:00",
       "NumProgressed": 708163,
       "NumCompleted": 12764
+    },
+    {
+      "Time": "2023-06-09T08:06:35.1515113+00:00",
+      "NumProgressed": 708170,
+      "NumCompleted": 12763
     }
   ],
   "TotalAchievements": 50,
@@ -9253,7 +9258,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "18_Detective_H4",
@@ -9261,7 +9266,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "19_Detective_H5",
@@ -9373,7 +9378,7 @@
       "Name": "Old Child",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6373
+      "UsersEstimate": 6374
     },
     {
       "ID": "33_BladeOneShot",
@@ -9437,7 +9442,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6373
+      "UsersEstimate": 6374
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -9524,21 +9529,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17464,
-      "Completed": 10249
+      "Progressed": 17471,
+      "Completed": 10246
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708163,
-      "Completed": 12764
+      "Progressed": 708170,
+      "Completed": 12763
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-09T05:00:03.9316116+00:00",
-  "LastChanged_Achievements": "2023-06-09T07:06:34.4601299+00:00",
+  "LastChanged_Achievements": "2023-06-09T08:06:35.1515107+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-09T06:59:25.6512097+00:00",
-  "LastUpdate_Achievements": "2023-06-09T07:06:34.4602509+00:00"
+  "LastUpdate_Ratings": "2023-06-09T07:59:03.4687838+00:00",
+  "LastUpdate_Achievements": "2023-06-09T08:06:35.1515836+00:00"
 }

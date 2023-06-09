@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 2946,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1977,9 +1977,9 @@
       "ID": "bonus4",
       "SetID": "2h56gn1",
       "Name": "Work It",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 118
     },
     {
       "ID": "bonus5",
@@ -2226,8 +2226,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-09T07:06:33.5548646+00:00",
+  "LastChanged_Achievements": "2023-06-09T08:06:34.1026493+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:39.5332205+00:00",
-  "LastUpdate_Ratings": "2023-06-09T07:00:42.7061113+00:00",
-  "LastUpdate_Achievements": "2023-06-09T07:06:33.5549224+00:00"
+  "LastUpdate_Ratings": "2023-06-09T08:00:18.5341257+00:00",
+  "LastUpdate_Achievements": "2023-06-09T08:06:34.1026838+00:00"
 }

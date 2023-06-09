@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5439,9 +5439,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 43741,
+  "EOS_Progressed": 43742,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9639,6 +9639,11 @@
       "Time": "2023-06-09T07:06:25.9242726+00:00",
       "NumProgressed": 43741,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-09T08:06:26.737125+00:00",
+      "NumProgressed": 43742,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -9674,7 +9679,7 @@
       "Name": "Fluffyness",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "CarDriving",
@@ -9730,7 +9735,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 27994
+      "UsersEstimate": 27995
     },
     {
       "ID": "CutTree",
@@ -9746,7 +9751,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26682
+      "UsersEstimate": 26683
     },
     {
       "ID": "DeliveryGrapes",
@@ -9786,7 +9791,7 @@
       "Name": "Plant get enough",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26682
+      "UsersEstimate": 26683
     },
     {
       "ID": "Harvested",
@@ -9802,7 +9807,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 33243
+      "UsersEstimate": 33244
     },
     {
       "ID": "HorseJumps",
@@ -9834,7 +9839,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 20558
+      "UsersEstimate": 20559
     },
     {
       "ID": "Mission",
@@ -9842,7 +9847,7 @@
       "Name": "Helper A does not stop \u2026 ever",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "MissionFirst",
@@ -9874,7 +9879,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 17496
+      "UsersEstimate": 17497
     },
     {
       "ID": "NumPlaceables",
@@ -9914,7 +9919,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12247
+      "UsersEstimate": 12248
     },
     {
       "ID": "PlayTime",
@@ -9922,7 +9927,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 25807
+      "UsersEstimate": 25808
     },
     {
       "ID": "Sow",
@@ -9993,15 +9998,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 43741,
+      "Progressed": 43742,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-06-09T02:21:56.3133971+00:00",
-  "LastChanged_Achievements": "2023-06-09T07:06:25.924272+00:00",
+  "LastChanged_Achievements": "2023-06-09T08:06:26.7371244+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:03.1975406+00:00",
-  "LastUpdate_Ratings": "2023-06-09T07:00:06.6602374+00:00",
-  "LastUpdate_Achievements": "2023-06-09T07:06:25.9243704+00:00"
+  "LastUpdate_Ratings": "2023-06-09T07:59:42.7628315+00:00",
+  "LastUpdate_Achievements": "2023-06-09T08:06:26.7371816+00:00"
 }

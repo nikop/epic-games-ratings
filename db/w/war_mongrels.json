@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -869,9 +869,9 @@
       "ID": "ACH_COLL_CH03",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter III",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_COLL_CH04",
@@ -1205,8 +1205,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-30T02:57:27.9814128+00:00",
-  "LastChanged_Achievements": "2023-06-09T07:03:37.6494615+00:00",
+  "LastChanged_Achievements": "2023-06-09T08:03:32.9293306+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:35.3400359+00:00",
-  "LastUpdate_Ratings": "2023-06-09T06:57:47.6612781+00:00",
-  "LastUpdate_Achievements": "2023-06-09T07:03:37.649559+00:00"
+  "LastUpdate_Ratings": "2023-06-09T07:57:27.8111963+00:00",
+  "LastUpdate_Achievements": "2023-06-09T08:03:32.9293876+00:00"
 }

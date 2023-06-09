@@ -1436,9 +1436,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64185,
+  "EOS_Progressed": 64189,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 993,
+  "EOS_NewPlayers": 989,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5606,6 +5606,11 @@
       "Time": "2023-06-09T07:06:38.0895056+00:00",
       "NumProgressed": 64185,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-09T08:06:38.5285323+00:00",
+      "NumProgressed": 64189,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 61,
@@ -5833,7 +5838,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "FREEZE_1",
@@ -5961,7 +5966,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2568
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -6104,13 +6109,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64185,
+      "Progressed": 64189,
       "Completed": 94
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34465,
+      "Progressed": 34469,
       "Completed": 2644
     }
   ],
@@ -6118,8 +6123,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-09T02:22:02.0333393+00:00",
-  "LastChanged_Achievements": "2023-06-09T07:06:38.0895051+00:00",
+  "LastChanged_Achievements": "2023-06-09T08:06:38.5285317+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-09T07:00:12.0047843+00:00",
-  "LastUpdate_Achievements": "2023-06-09T07:06:38.0895922+00:00"
+  "LastUpdate_Ratings": "2023-06-09T07:59:48.86119+00:00",
+  "LastUpdate_Achievements": "2023-06-09T08:06:38.5286135+00:00"
 }
