@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 1009,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1844,9 +1844,9 @@
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 283
     },
     {
       "ID": "A49",
@@ -1907,8 +1907,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-09T04:07:17.7811294+00:00",
+  "LastChanged_Achievements": "2023-06-09T05:07:50.0084536+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3717034+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:58:30.4666163+00:00",
-  "LastUpdate_Achievements": "2023-06-09T04:07:17.7812099+00:00"
+  "LastUpdate_Ratings": "2023-06-09T04:58:51.7054036+00:00",
+  "LastUpdate_Achievements": "2023-06-09T05:07:50.0085171+00:00"
 }

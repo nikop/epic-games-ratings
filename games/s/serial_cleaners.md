@@ -7,8 +7,8 @@
 | So it goes | 12.00% | ~22 |
 | Clean Conscience | 12.00% | ~22 |
 | Small-time Finder | 5.00% | ~9 |
+| A New Broom Sweeps Clean | 5.00% | ~9 |
 | Off to a Good Start | 4.00% | ~7 |
-| A New Broom Sweeps Clean | 4.00% | ~7 |
 | Business as usual | 3.00% | ~6 |
 | All the Stories | 2.00% | ~4 |
 | Total Recall | 2.00% | ~4 |

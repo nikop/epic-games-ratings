@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1344,
+  "EOS_Progressed": 1345,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -2911,6 +2911,11 @@
       "Time": "2023-06-09T02:28:26.2517174+00:00",
       "NumProgressed": 1344,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T05:07:45.3165492+00:00",
+      "NumProgressed": 1345,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3098,7 +3103,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "fellowshippower",
@@ -3314,7 +3319,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "prestigiousx10",
@@ -3378,7 +3383,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "thealchemist",
@@ -3482,7 +3487,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "warmachinesarmy",
@@ -3514,14 +3519,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1344,
+      "Progressed": 1345,
       "Completed": 1
     }
   ],
@@ -3529,8 +3534,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-09T04:07:12.6103747+00:00",
+  "LastChanged_Achievements": "2023-06-09T05:07:45.3165484+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:58:27.6578886+00:00",
-  "LastUpdate_Achievements": "2023-06-09T04:07:12.6104784+00:00"
+  "LastUpdate_Ratings": "2023-06-09T04:58:48.8638838+00:00",
+  "LastUpdate_Achievements": "2023-06-09T05:07:45.3166969+00:00"
 }

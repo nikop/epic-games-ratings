@@ -40,13 +40,13 @@ Number of Ratings: 118  (23.09.2022)
 | Urik's Depths | 23.00% | ~10 |
 | The Woman in the High Castle | 23.00% | ~10 |
 | Law and Order | 23.00% | ~10 |
+| He’s alive! Aliiiive! | 20.00% | ~9 |
 | In Navalu's footsteps | 20.00% | ~9 |
 | Scholar of the Lands of Fangh | 18.00% | ~8 |
-| He’s alive! Aliiiive! | 18.00% | ~8 |
+| Necrophilia | 18.00% | ~8 |
 | Dead for good | 18.00% | ~8 |
 | The Dungeon Master | 16.00% | ~7 |
 | Res Judicata | 16.00% | ~7 |
-| Necrophilia | 16.00% | ~7 |
 | An old poacher makes the best gamekeeper | 16.00% | ~7 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 16.00% | ~7 |
 | It's been a hard day's night | 14.00% | ~6 |

@@ -1,16 +1,16 @@
 # The Binding of Isaac: Repentance
 [Store](https://store.epicgames.com/en-US/p/the-binding-of-isaac-repentance)  
 [View Rawdata](../../db/t/the_binding_of_isaac__repentance.json)  
-Rating: 4.90 (Ranked 8)  
+Rating: 4.91 (Ranked 7)  
 Number of Ratings: 1,859  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,815  (Ranked 107)  
-Sum: 8,462 (Ranked 89)  
+Sum: 8,464 (Ranked 89)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,815 |
-| This game has Inclusive Character Customization | 1,559 |
+| This game has Inclusive Character Customization | 1,561 |
 | This game has Diverse Characters | 642 |
 | This game is Highly Recommended | 597 |
 | This game has Challenging Combat | 587 |
@@ -167,3 +167,4 @@ Diff (max vs sum): 18
 | 2023-06-06 | 4.90 | - | 1,815 | 8,456 |
 | 2023-06-07 | 4.90 | - | 1,815 | 8,461 |
 | 2023-06-08 | 4.90 | - | 1,815 | 8,462 |
+| 2023-06-09 | 4.91 | - | 1,815 | 8,464 |

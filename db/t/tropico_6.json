@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -900,9 +900,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3495,
+  "EOS_Progressed": 3496,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3990,6 +3990,11 @@
       "Time": "2023-06-09T04:02:26.5050917+00:00",
       "NumProgressed": 3495,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T05:03:09.3374161+00:00",
+      "NumProgressed": 3496,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4025,7 +4030,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -4041,7 +4046,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -4063,9 +4068,9 @@
       "ID": "ACH_EP_BUREAUCRAZY",
       "SetID": "1p8ab95",
       "Name": "Computer Says \u0022No\u0022",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -4145,7 +4150,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -4161,7 +4166,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4273,7 +4278,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4320,15 +4325,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3495,
+      "Progressed": 3496,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-08T16:00:48.5548641+00:00",
-  "LastChanged_Achievements": "2023-06-09T04:02:26.5050909+00:00",
+  "LastChanged_Achievements": "2023-06-09T05:03:09.3374153+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-09T04:01:07.8818982+00:00",
-  "LastUpdate_Achievements": "2023-06-09T04:02:26.5051665+00:00"
+  "LastUpdate_Ratings": "2023-06-09T05:01:29.9719852+00:00",
+  "LastUpdate_Achievements": "2023-06-09T05:03:09.3374658+00:00"
 }

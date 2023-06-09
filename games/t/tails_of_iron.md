@@ -5,21 +5,21 @@ Rating: 4.50 (Ranked 545)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 79.00% | ~1,283 |
-| Become King | 71.00% | ~1,153 |
-| Ranged Weapon | 60.00% | ~974 |
-| Defeat 25 Frogs | 60.00% | ~974 |
-| Collect Monster Parts | 56.00% | ~909 |
-| Two Handed Weapon | 54.00% | ~877 |
-| Defeat 25 Grubs | 51.00% | ~828 |
+| Complete Guard Faction | 79.00% | ~1,284 |
+| Become King | 71.00% | ~1,154 |
+| Ranged Weapon | 60.00% | ~975 |
+| Defeat 25 Frogs | 60.00% | ~975 |
+| Collect Monster Parts | 56.00% | ~910 |
+| Two Handed Weapon | 54.00% | ~878 |
+| Defeat 25 Grubs | 51.00% | ~829 |
 | Rescue Redgi's Brothers | 50.00% | ~812 |
-| Collect Iron Ore | 46.00% | ~747 |
-| Defeat 25 Mozis | 45.00% | ~731 |
+| Collect Iron Ore | 46.00% | ~748 |
 | Kitchen Ready To Cook | 45.00% | ~731 |
-| Collect Gold | 43.00% | ~698 |
-| Smithy Ready to Craft | 43.00% | ~698 |
+| Defeat 25 Mozis | 44.00% | ~715 |
+| Collect Gold | 43.00% | ~699 |
+| Smithy Ready to Craft | 43.00% | ~699 |
 | Fix the Travellers Wagon | 42.00% | ~682 |
-| Complete Elder Faction | 39.00% | ~633 |
+| Complete Elder Faction | 39.00% | ~634 |
 | End of the Mozis | 36.00% | ~585 |
 | Throne Room Fit For A King | 36.00% | ~585 |
 | Meet the Creatures from the Deep | 34.00% | ~552 |
@@ -31,12 +31,12 @@ Rating: 4.50 (Ranked 545)
 | Complete Ranger Faction | 20.00% | ~325 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~309 |
 | Discover the mystery of the Kings Chambers | 18.00% | ~292 |
-| Complete Arena Faction | 14.00% | ~227 |
+| Complete Arena Faction | 14.00% | ~228 |
 | Complete Redgi's Armory | 7.00% | ~114 |
 | King of Kings | 7.00% | ~114 |
 | A new Warchief rises | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,624 (Ranked 157)  
+Progressed: 1,625 (Ranked 157)  
 Completed: 6 (0.37%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 6 (0.37%) (Ranked 118)
 | 2023-06-06 | 1,613 | 6 |
 | 2023-06-07 | 1,618 | 6 |
 | 2023-06-08 | 1,624 | 6 |
+| 2023-06-09 | 1,625 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

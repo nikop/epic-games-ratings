@@ -7,24 +7,24 @@ Rating: 4.56 (Ranked 452)
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 79.00% | ~3,504 |
 | Realm Estate | 76.00% | ~3,371 |
-| Secret Technique | 75.00% | ~3,326 |
+| Secret Technique | 75.00% | ~3,327 |
 | Walls Cannot Stop Us | 73.00% | ~3,238 |
-| From Friends to Family | 69.00% | ~3,060 |
+| From Friends to Family | 69.00% | ~3,061 |
 | Magical Synergy | 65.00% | ~2,883 |
-| Bone Peddler | 61.00% | ~2,705 |
+| Bone Peddler | 61.00% | ~2,706 |
 | Stronger Together | 56.00% | ~2,484 |
 | Full Ascension | 54.00% | ~2,395 |
 | There Can Only Be One! | 48.00% | ~2,129 |
 | Seat of Power | 48.00% | ~2,129 |
-| My Final Form | 44.00% | ~1,951 |
-| Intimidation Tactics | 44.00% | ~1,951 |
+| My Final Form | 44.00% | ~1,952 |
+| Intimidation Tactics | 44.00% | ~1,952 |
 | Valley of Wonders | 42.00% | ~1,863 |
-| In a Liege of Your Own | 38.00% | ~1,685 |
+| In a Liege of Your Own | 38.00% | ~1,686 |
 | Return of the Wizard King | 31.00% | ~1,375 |
 | Digging for Treasure | 31.00% | ~1,375 |
 | Against the Odds | 31.00% | ~1,375 |
 | Enchanted Archipelago | 28.00% | ~1,242 |
-| Impenetrable Fortress | 27.00% | ~1,197 |
+| Impenetrable Fortress | 27.00% | ~1,198 |
 | The Magic That Empowers Me! | 20.00% | ~887 |
 | Preparation Is Everything | 20.00% | ~887 |
 | Arch Mage | 19.00% | ~843 |
@@ -50,7 +50,7 @@ Rating: 4.56 (Ranked 452)
 | Returning Circle | 0.30% | ~13 |
 | Master of Evilness | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,435 (Ranked 129)  
+Progressed: 4,436 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 4,386 | 0 |
 | 2023-06-07 | 4,407 | 0 |
 | 2023-06-08 | 4,428 | 0 |
-| 2023-06-09 | 4,435 | 0 |
+| 2023-06-09 | 4,436 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

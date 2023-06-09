@@ -12,7 +12,7 @@ Rating: 4.50 (Ranked 545)
 | Lord of War | 14.00% | ~340 |
 | Change the Channel | 14.00% | ~340 |
 | Resourceful | 13.00% | ~316 |
-| Taking it back | 12.00% | ~291 |
+| Taking it back | 12.00% | ~292 |
 | Organ Grinder | 10.00% | ~243 |
 | As Quiet as a Mouse | 10.00% | ~243 |
 | Target America | 10.00% | ~243 |
@@ -28,12 +28,12 @@ Rating: 4.50 (Ranked 545)
 | Der Geist | 6.00% | ~146 |
 | Close Quarters | 6.00% | ~146 |
 | Snake in the Grass | 6.00% | ~146 |
-| Climbing the Ladder | 5.00% | ~121 |
-| No Stone Unturned | 5.00% | ~121 |
-| Fields of Glory | 5.00% | ~121 |
-| Skirmisher | 5.00% | ~121 |
-| Set Europe Ablaze | 5.00% | ~121 |
-| Brains of the Operation | 5.00% | ~121 |
+| Climbing the Ladder | 5.00% | ~122 |
+| No Stone Unturned | 5.00% | ~122 |
+| Fields of Glory | 5.00% | ~122 |
+| Skirmisher | 5.00% | ~122 |
+| Set Europe Ablaze | 5.00% | ~122 |
+| Brains of the Operation | 5.00% | ~122 |
 | Precision Is Key | 4.00% | ~97 |
 | Rigged to Blow | 3.00% | ~73 |
 | The Long Game | 2.00% | ~49 |
@@ -46,8 +46,8 @@ Rating: 4.50 (Ranked 545)
 | Don't hold your breath | 1.00% | ~24 |
 | Herr Today, Gone Tomorrow | 1.00% | ~24 |
 | Operation Foxley | 1.00% | ~24 |
+| Ghost of Falaise | 0.90% | ~21 |
 | Siegebreaker | 0.80% | ~19 |
-| Ghost of Falaise | 0.80% | ~19 |
 | Last Resort | 0.70% | ~17 |
 | From Paris with Love | 0.60% | ~15 |
 | Burn after reading | 0.60% | ~15 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 545)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,429 (Ranked 148)  
+Progressed: 2,430 (Ranked 148)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
-| 2023-06-09 | 2,429 | 2 |
+| 2023-06-09 | 2,430 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

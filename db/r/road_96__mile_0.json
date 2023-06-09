@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 271,
+  "EOS_Progressed": 272,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2023-06-09T02:25:50.8810801+00:00",
       "NumProgressed": 271,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T05:04:50.3930024+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -663,7 +668,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 44,
       "XP": 80,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "completeact3",
@@ -695,7 +700,7 @@
       "Name": "Truthseeker",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "scoreminrankrb2",
@@ -735,7 +740,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "scoreminrankrp2",
@@ -759,7 +764,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "scoreminrankrv2",
@@ -774,7 +779,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 2
     }
   ],
@@ -782,8 +787,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-09T04:04:17.9321976+00:00",
+  "LastChanged_Achievements": "2023-06-09T05:04:50.3930017+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:05.6978254+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:59:25.0435621+00:00",
-  "LastUpdate_Achievements": "2023-06-09T04:04:17.9322174+00:00"
+  "LastUpdate_Ratings": "2023-06-09T04:59:46.3621753+00:00",
+  "LastUpdate_Achievements": "2023-06-09T05:04:50.393019+00:00"
 }

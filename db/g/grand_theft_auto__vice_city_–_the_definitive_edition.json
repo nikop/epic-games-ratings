@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -412,7 +412,7 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 8014,
+  "EOS_Progressed": 8017,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 1,
@@ -3987,6 +3987,11 @@
       "Time": "2023-06-09T03:19:14.1412123+00:00",
       "NumProgressed": 8014,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-09T05:03:34.2516993+00:00",
+      "NumProgressed": 8017,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 34,
@@ -4014,7 +4019,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ACH04",
@@ -4046,7 +4051,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH08",
@@ -4054,7 +4059,7 @@
       "Name": "Pie Guy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH09",
@@ -4078,7 +4083,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ACH12",
@@ -4102,7 +4107,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3127
     },
     {
       "ID": "ACH15",
@@ -4142,7 +4147,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH20",
@@ -4158,7 +4163,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "ACH22",
@@ -4174,7 +4179,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     },
     {
       "ID": "ACH24",
@@ -4269,7 +4274,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8014,
+      "Progressed": 8017,
       "Completed": 26
     }
   ],
@@ -4277,8 +4282,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-08T22:58:57.8808892+00:00",
-  "LastChanged_Achievements": "2023-06-09T04:03:22.0567581+00:00",
+  "LastChanged_Achievements": "2023-06-09T05:03:34.2516985+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:29.8139479+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:58:45.5135264+00:00",
-  "LastUpdate_Achievements": "2023-06-09T04:03:22.0568148+00:00"
+  "LastUpdate_Ratings": "2023-06-09T04:59:06.6492179+00:00",
+  "LastUpdate_Achievements": "2023-06-09T05:03:34.2517531+00:00"
 }

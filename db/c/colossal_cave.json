@@ -4,7 +4,7 @@
   "ProductSlug": "colossal-cave-6f902f",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -102,9 +102,9 @@
       "ID": "06-CantBearTheWeight",
       "SetID": "5iij4gg",
       "Name": "Can\u0027t bear the weight",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "07-TakeTheScenicRoute",
@@ -126,9 +126,9 @@
       "ID": "09-IveFallenAndICantGetUp",
       "SetID": "5iij4gg",
       "Name": "I\u0027ve Fallen \u0026 I Can\u0027t Get Up",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "10-BridgeBuilder",
@@ -158,9 +158,9 @@
       "ID": "13-TreasureHunter",
       "SetID": "5iij4gg",
       "Name": "Treasure Hunter",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "14-EggOnHisFace",
@@ -174,9 +174,9 @@
       "ID": "15-BJAndTheBear",
       "SetID": "5iij4gg",
       "Name": "BJ \u0026 The Bear",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "16-MrMagic",
@@ -263,8 +263,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-06-09T04:07:10.0041649+00:00",
+  "LastChanged_Achievements": "2023-06-09T05:07:42.4161015+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:52.8995599+00:00",
-  "LastUpdate_Ratings": "2023-06-09T04:01:22.1331253+00:00",
-  "LastUpdate_Achievements": "2023-06-09T04:07:10.0041841+00:00"
+  "LastUpdate_Ratings": "2023-06-09T05:01:45.1246531+00:00",
+  "LastUpdate_Achievements": "2023-06-09T05:07:42.416121+00:00"
 }

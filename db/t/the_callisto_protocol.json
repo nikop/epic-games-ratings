@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -572,7 +572,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14787,
+  "EOS_Progressed": 14789,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 1,
@@ -3247,6 +3247,11 @@
       "Time": "2023-06-09T04:04:48.0169123+00:00",
       "NumProgressed": 14787,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-09T05:05:21.0488827+00:00",
+      "NumProgressed": 14789,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3290,7 +3295,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1922
+      "UsersEstimate": 1923
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3378,7 +3383,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3418,7 +3423,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3450,7 +3455,7 @@
       "Name": "The Outer Way",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3474,7 +3479,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "STORY_MINETOWN",
@@ -3514,7 +3519,7 @@
       "Name": "Power Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "DISMEMBER_100",
@@ -3577,13 +3582,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14787,
+      "Progressed": 14789,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2713,
+      "Progressed": 2715,
       "Completed": 29
     }
   ],
@@ -3591,8 +3596,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-08T19:57:51.4696734+00:00",
-  "LastChanged_Achievements": "2023-06-09T04:04:48.0169118+00:00",
+  "LastChanged_Achievements": "2023-06-09T05:05:21.0488819+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-09T03:58:17.7877451+00:00",
-  "LastUpdate_Achievements": "2023-06-09T04:04:48.0169728+00:00"
+  "LastUpdate_Ratings": "2023-06-09T04:58:38.828152+00:00",
+  "LastUpdate_Achievements": "2023-06-09T05:05:21.0489498+00:00"
 }

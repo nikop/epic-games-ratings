@@ -25,7 +25,7 @@
 | Access granted | 33.00% | ~333 |
 | Going once, going twice, sold | 30.00% | ~303 |
 | Full Steam ahead | 28.00% | ~283 |
-| Bull and bear | 27.00% | ~272 |
+| Bull and bear | 28.00% | ~283 |
 | Mole | 26.00% | ~262 |
 | All mine | 24.00% | ~242 |
 | Financial Shark | 24.00% | ~242 |
