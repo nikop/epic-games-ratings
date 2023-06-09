@@ -16,8 +16,8 @@
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.71% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.50% |
-| 17 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 10.00% |
-| 18 | [Without Escape](games/w/without_escape.md) | 9.09% |
+| 17 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 9.09% |
+| 17 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 20 | [Smelter](games/s/smelter.md) | 8.57% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.07% |

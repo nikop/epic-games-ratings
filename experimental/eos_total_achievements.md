@@ -87,6 +87,7 @@
 | [Lawn Mowing Simulator](../games/l/lawn_mowing_simulator.md) | 54 | 1,000 |
 | [Rift Rangers](../games/2/24e2970ac5124a649554e210843f6774.md) | 54 | 1,000 |
 | [Sunless Sea](../games/s/sunless_sea.md) | 54 | 1,000 |
+| [Coffee Talk Episode 2 - Hibiscus and Butterfly](../games/9/901880c636ef456e936d376fbe089f11.md) | 53 | 1,000 |
 | [CONVERGENCE: A League of Legends Story™](../games/c/convergence__a_league_of_legends_story™.md) | 53 | 1,000 |
 | [Cursed Treasure 2 Ultimate Edition](../games/c/cursed_treasure_2_ultimate_edition.md) | 53 | 1,000 |
 | [Forspoken](../games/f/forspoken.md) | 53 | 1,000 |

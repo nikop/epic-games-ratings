@@ -105,6 +105,7 @@
 | [City of Gangsters](../games/c/city_of_gangsters.md) | 80 | 1,000 |
 | [Clash - Artifacts of Chaos](../games/c/clash_-_artifacts_of_chaos.md) | 21 | 1,000 |
 | [Cloud Cutter](../games/c/cloud_cutter.md) | 34 | 1,000 |
+| [Coffee Talk Episode 2 - Hibiscus and Butterfly](../games/9/901880c636ef456e936d376fbe089f11.md) | 53 | 1,000 |
 | [Colossal Cave](../games/c/colossal_cave.md) | 24 | 1,000 |
 | [CONVERGENCE: A League of Legends Story™](../games/c/convergence__a_league_of_legends_story™.md) | 53 | 1,000 |
 | [Crash Drive 3](../games/c/crash_drive_3.md) | 55 | 1,000 |
