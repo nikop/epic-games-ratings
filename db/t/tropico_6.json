@@ -900,9 +900,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3509,
+  "EOS_Progressed": 3511,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4025,6 +4025,11 @@
       "Time": "2023-06-09T15:00:16.4255829+00:00",
       "NumProgressed": 3509,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T16:01:11.4570106+00:00",
+      "NumProgressed": 3511,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4084,7 +4089,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -4108,7 +4113,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -4132,7 +4137,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4156,7 +4161,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -4196,7 +4201,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4292,7 +4297,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4308,7 +4313,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4355,15 +4360,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3509,
+      "Progressed": 3511,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-08T16:00:48.5548641+00:00",
-  "LastChanged_Achievements": "2023-06-09T15:00:16.4255595+00:00",
+  "LastChanged_Achievements": "2023-06-09T16:01:11.4570089+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-09T14:59:53.1002574+00:00",
-  "LastUpdate_Achievements": "2023-06-09T15:00:16.4275706+00:00"
+  "LastUpdate_Ratings": "2023-06-09T16:00:39.8487814+00:00",
+  "LastUpdate_Achievements": "2023-06-09T16:01:11.4571131+00:00"
 }

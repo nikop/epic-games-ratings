@@ -9,7 +9,7 @@ Number of Ratings: 38  (23.09.2022)
 | Balding bloot! | 79.00% | ~979 |
 | Lovebirds | 50.00% | ~620 |
 | Life’s short, ride long | 46.00% | ~570 |
-| Hug therapy | 44.00% | ~545 |
+| Hug therapy | 45.00% | ~558 |
 | Over my dead body | 41.00% | ~508 |
 | Shake the rust off their feet | 22.00% | ~273 |
 | Strike! | 20.00% | ~248 |

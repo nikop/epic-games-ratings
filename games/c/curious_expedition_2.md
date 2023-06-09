@@ -11,7 +11,7 @@ Number of Ratings: 20  (23.09.2022)
 | A Strange Artefact | 49.00% | ~153 |
 | Insomnia | 44.00% | ~138 |
 | From Whence we Came | 40.00% | ~125 |
-| Lost & Found & Lost Again | 38.00% | ~119 |
+| Lost & Found & Lost Again | 39.00% | ~122 |
 | Fire and Flood | 37.00% | ~116 |
 | Spooky! | 34.00% | ~106 |
 | Shennong Herbalist | 31.00% | ~97 |

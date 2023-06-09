@@ -6,21 +6,21 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,310 |
-| Tutti Eroi! | 54.00% | ~3,310 |
+| Peak Performance | 54.00% | ~3,311 |
+| Tutti Eroi! | 54.00% | ~3,311 |
 | You Shall Not Pass | 52.00% | ~3,188 |
-| Avanti Savoia! | 47.00% | ~2,881 |
+| Avanti Savoia! | 47.00% | ~2,882 |
 | Conrad von Hotzensocks | 36.00% | ~2,207 |
 | Mamma Mia! | 36.00% | ~2,207 |
 | Gabriele D'Annunzio | 32.00% | ~1,962 |
-| Silver Lining | 28.00% | ~1,716 |
+| Silver Lining | 28.00% | ~1,717 |
 | Aurelio Baruzzi | 22.00% | ~1,349 |
 | Veni Vidi Vici | 22.00% | ~1,349 |
 | Decimation | 20.00% | ~1,226 |
 | Donatello | 20.00% | ~1,226 |
 | Insubordination | 19.00% | ~1,165 |
 | The Italian Job | 19.00% | ~1,165 |
-| The Lion of the Isonzo | 18.00% | ~1,103 |
+| The Lion of the Isonzo | 18.00% | ~1,104 |
 | Ragazzi del '99 | 17.00% | ~1,042 |
 | Thus With A Kiss | 14.00% | ~858 |
 | Dirty Dozen | 13.00% | ~797 |
@@ -37,8 +37,8 @@ Number of Ratings: 98  (23.09.2022)
 | Tosca | 8.00% | ~490 |
 | 12th Bottle of the Isonzo | 6.00% | ~368 |
 | The Enlightment | 6.00% | ~368 |
-| Cercatore d'Oro | 5.00% | ~306 |
-| Generalissimo | 5.00% | ~306 |
+| Cercatore d'Oro | 5.00% | ~307 |
+| Generalissimo | 5.00% | ~307 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~245 |
 | Ponte of No Return | 3.00% | ~184 |
 | Seeing Red | 3.00% | ~184 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,130 (Ranked 124)  
+Progressed: 6,131 (Ranked 124)  
 Completed: 8 (0.13%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 8 (0.13%) (Ranked 160)
 | 2023-06-06 | 6,098 | 8 |
 | 2023-06-07 | 6,115 | 8 |
 | 2023-06-08 | 6,123 | 8 |
-| 2023-06-09 | 6,130 | 8 |
+| 2023-06-09 | 6,131 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 445)  
 Sum: 243 (Ranked 345)  

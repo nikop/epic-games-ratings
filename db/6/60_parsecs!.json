@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 624,
+  "EOS_Progressed": 625,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -258,6 +258,11 @@
       "Time": "2023-06-08T21:03:14.1448042+00:00",
       "NumProgressed": 624,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T16:03:25.8598096+00:00",
+      "NumProgressed": 625,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -277,7 +282,7 @@
       "Name": "Across The Stars",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -301,7 +306,7 @@
       "Name": "Axel jump in space!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Achievement_BabyAstro",
@@ -341,15 +346,15 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "Achievement_DustToDust",
       "SetID": "c01p6e5",
       "Name": "Dust to Dust",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 350
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -389,7 +394,7 @@
       "Name": "First of April",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Achievement_FixItFelix",
@@ -413,7 +418,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -493,7 +498,7 @@
       "Name": "Meet the Petersons",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -557,15 +562,15 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "Achievement_SpaceEngineer",
       "SetID": "c01p6e5",
       "Name": "Space Engineer",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 388
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -573,7 +578,7 @@
       "Name": "Space Explorer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Achievement_SpaceSelfie",
@@ -589,7 +594,7 @@
       "Name": "Stay Cool",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -605,7 +610,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "Achievement_Traitor",
@@ -620,7 +625,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 624,
+      "Progressed": 625,
       "Completed": 1
     }
   ],
@@ -628,8 +633,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-06-09T15:03:18.8312903+00:00",
+  "LastChanged_Achievements": "2023-06-09T16:03:25.859809+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:11.86913+00:00",
-  "LastUpdate_Ratings": "2023-06-09T14:58:49.1460594+00:00",
-  "LastUpdate_Achievements": "2023-06-09T15:03:18.8313275+00:00"
+  "LastUpdate_Ratings": "2023-06-09T15:59:13.4238287+00:00",
+  "LastUpdate_Achievements": "2023-06-09T16:03:25.8598529+00:00"
 }

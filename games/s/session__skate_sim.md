@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 54.00% | ~1,260 |
+| You're free now! | 54.00% | ~1,261 |
 | Keeping it classy | 24.00% | ~560 |
 | Welcome to the family | 18.00% | ~420 |
-| The finer things in life | 16.00% | ~373 |
+| The finer things in life | 16.00% | ~374 |
 | Backpacker | 11.00% | ~257 |
 | Go with the Flow | 11.00% | ~257 |
 | Plastic Surgeon | 9.00% | ~210 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,334 (Ranked 149)  
+Progressed: 2,335 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,19 +103,19 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 2,287 | 0 |
 | 2023-06-07 | 2,306 | 0 |
 | 2023-06-08 | 2,327 | 0 |
-| 2023-06-09 | 2,334 | 0 |
+| 2023-06-09 | 2,335 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 398)  
-Sum: 420 (Ranked 302)  
-Diff (max vs sum): 96  
+Sum: 421 (Ranked 300)  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 48 |
 | This game is Great for Quick Sessions | 41 |
 | This game has a Creative Community | 40 |
 | This game has Amazing Storytelling | 40 |
+| This game has Amazing Characters | 39 |
 | This game is Relaxing | 38 |
-| This game has Amazing Characters | 38 |
 | This game has Realistic Visuals | 38 |
 | This game is Extremely Fun | 37 |
 | This game has Diverse Characters | 37 |
@@ -224,3 +224,4 @@ Diff (max vs sum): 96
 | 2023-06-02 | 4.66 | - | 48 | 415 |
 | 2023-06-03 | 4.67 | - | 48 | 416 |
 | 2023-06-04 | 4.67 | - | 48 | 420 |
+| 2023-06-09 | 4.67 | - | 48 | 421 |

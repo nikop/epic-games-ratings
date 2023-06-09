@@ -798,7 +798,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5907,
+  "EOS_Progressed": 5909,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -3048,6 +3048,11 @@
       "Time": "2023-06-09T10:04:25.4386756+00:00",
       "NumProgressed": 5907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T16:04:30.9358174+00:00",
+      "NumProgressed": 5909,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -3089,9 +3094,9 @@
       "ID": "Buy_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Trader",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1832
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -3099,7 +3104,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3723
     },
     {
       "ID": "Control_All_Relics",
@@ -3123,7 +3128,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -3139,7 +3144,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "First_Major_Ally",
@@ -3147,7 +3152,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -3163,7 +3168,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "First_Race_Met",
@@ -3171,7 +3176,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4312
+      "UsersEstimate": 4314
     },
     {
       "ID": "First_Ship_Designed",
@@ -3179,7 +3184,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "First_Stream_Travel",
@@ -3195,7 +3200,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4607
+      "UsersEstimate": 4609
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -3275,7 +3280,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "Play_1000_Hours",
@@ -3379,7 +3384,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3664
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -3515,7 +3520,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "Win_As_Torian",
@@ -3547,7 +3552,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -3571,7 +3576,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Win_Diplomacy",
@@ -3634,15 +3639,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5907,
+      "Progressed": 5909,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-02T21:01:45.7762711+00:00",
-  "LastChanged_Achievements": "2023-06-09T15:04:11.1832753+00:00",
+  "LastChanged_Achievements": "2023-06-09T16:04:30.9358168+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:31.0102409+00:00",
-  "LastUpdate_Ratings": "2023-06-09T14:57:34.9427063+00:00",
-  "LastUpdate_Achievements": "2023-06-09T15:04:11.1833839+00:00"
+  "LastUpdate_Ratings": "2023-06-09T15:57:39.150262+00:00",
+  "LastUpdate_Achievements": "2023-06-09T16:04:30.9359603+00:00"
 }

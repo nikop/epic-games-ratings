@@ -5,18 +5,18 @@ Rating: 4.52 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~688 |
-| Confirming Suspicions | 23.00% | ~565 |
-| The Kraken Wakes | 19.00% | ~467 |
-| It's Starting to Crack | 17.00% | ~418 |
-| Lord of War | 14.00% | ~344 |
-| Change the Channel | 14.00% | ~344 |
+| Meeting Resistance | 28.00% | ~690 |
+| Confirming Suspicions | 23.00% | ~567 |
+| The Kraken Wakes | 19.00% | ~468 |
+| It's Starting to Crack | 17.00% | ~419 |
+| Lord of War | 14.00% | ~345 |
+| Change the Channel | 14.00% | ~345 |
 | Resourceful | 13.00% | ~320 |
-| Taking it back | 12.00% | ~295 |
+| Taking it back | 12.00% | ~296 |
 | Organ Grinder | 10.00% | ~246 |
 | As Quiet as a Mouse | 10.00% | ~246 |
 | Target America | 10.00% | ~246 |
-| The Kraken Sleeps | 9.00% | ~221 |
+| The Kraken Sleeps | 9.00% | ~222 |
 | Liberté | 8.00% | ~197 |
 | Enemy at the Gates | 8.00% | ~197 |
 | Just a Flesh Wound | 8.00% | ~197 |
@@ -24,17 +24,17 @@ Rating: 4.52 (Ranked 513)
 | Sharpshooter | 8.00% | ~197 |
 | Explosive Efficiency | 8.00% | ~197 |
 | Opposing Force | 7.00% | ~172 |
-| Die Nussknacker Sweet! | 6.00% | ~147 |
-| Der Geist | 6.00% | ~147 |
-| Close Quarters | 6.00% | ~147 |
-| Snake in the Grass | 6.00% | ~147 |
-| Brains of the Operation | 6.00% | ~147 |
+| Die Nussknacker Sweet! | 6.00% | ~148 |
+| Der Geist | 6.00% | ~148 |
+| Close Quarters | 6.00% | ~148 |
+| Snake in the Grass | 6.00% | ~148 |
+| Brains of the Operation | 6.00% | ~148 |
 | Climbing the Ladder | 5.00% | ~123 |
 | No Stone Unturned | 5.00% | ~123 |
 | Fields of Glory | 5.00% | ~123 |
 | Skirmisher | 5.00% | ~123 |
 | Set Europe Ablaze | 5.00% | ~123 |
-| Precision Is Key | 4.00% | ~98 |
+| Precision Is Key | 4.00% | ~99 |
 | Rigged to Blow | 3.00% | ~74 |
 | The Long Game | 2.00% | ~49 |
 | My Little Friend | 2.00% | ~49 |
@@ -48,9 +48,9 @@ Rating: 4.52 (Ranked 513)
 | Operation Foxley | 1.00% | ~24 |
 | Siegebreaker | 0.90% | ~22 |
 | Ghost of Falaise | 0.90% | ~22 |
-| Burn after reading | 0.70% | ~17 |
 | Last Resort | 0.70% | ~17 |
 | From Paris with Love | 0.60% | ~15 |
+| Burn after reading | 0.60% | ~15 |
 | Souvenir hunter | 0.60% | ~15 |
 | Shoot for the Moon | 0.50% | ~12 |
 | Eagle Eyed | 0.40% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 513)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,458 (Ranked 147)  
+Progressed: 2,464 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
-| 2023-06-09 | 2,458 | 2 |
+| 2023-06-09 | 2,464 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

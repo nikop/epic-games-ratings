@@ -18,10 +18,10 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 57.00% | ~27 |
 | Oh, when I'll be level 10... | 57.00% | ~27 |
 | I am the night | 51.00% | ~24 |
-| Thieves' Guild Accreditation | 49.00% | ~23 |
+| Thieves' Guild Accreditation | 51.00% | ~24 |
 | A beer, two curses, three companions | 47.00% | ~22 |
+| The Ranger of Chaos | 47.00% | ~22 |
 | The plot thickens... At the tavern | 45.00% | ~21 |
-| The Ranger of Chaos | 45.00% | ~21 |
 | Team Building Exercise | 43.00% | ~20 |
 | Dwarf Fortress | 40.00% | ~19 |
 | Look but don't touch | 40.00% | ~19 |
@@ -51,10 +51,10 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 15.00% | ~7 |
 | It's been a hard day's night | 15.00% | ~7 |
 | Lëgal Legend | 13.00% | ~6 |
+| Lust and Debauchery | 13.00% | ~6 |
 | Egghead | 11.00% | ~5 |
 | Free customer service | 11.00% | ~5 |
 | Super-Ultra-Lydian | 11.00% | ~5 |
-| Lust and Debauchery | 11.00% | ~5 |
 | Holistic Adventuring Party | 9.00% | ~4 |
 | Elite Adventurers | 9.00% | ~4 |
 | We come in peace | 9.00% | ~4 |

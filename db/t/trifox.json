@@ -4,7 +4,7 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -92,9 +92,9 @@
       "ID": "ACH_COINSCORECOLLECTED_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Well-off",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_COINSCORECOLLECTED_SMALL",
@@ -148,9 +148,9 @@
       "ID": "ACH_ENEMYKILLS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Should have left me alone",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ENEMYKILLS_SMALL",
@@ -180,9 +180,9 @@
       "ID": "ACH_GEMSCOLLECTED_25PERCENT",
       "SetID": "cfld5bl",
       "Name": "Baby steps",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_GEMSCOLLECTED_50PERCENT",
@@ -220,9 +220,9 @@
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Just a sip",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_01",
@@ -252,9 +252,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the warrior boss",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_01",
@@ -453,8 +453,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-06-09T14:02:09.0310041+00:00",
+  "LastChanged_Achievements": "2023-06-09T16:01:10.986733+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:24.8549073+00:00",
-  "LastUpdate_Ratings": "2023-06-09T14:58:58.6295708+00:00",
-  "LastUpdate_Achievements": "2023-06-09T14:02:09.031042+00:00"
+  "LastUpdate_Ratings": "2023-06-09T15:59:25.4426055+00:00",
+  "LastUpdate_Achievements": "2023-06-09T16:01:10.9889448+00:00"
 }

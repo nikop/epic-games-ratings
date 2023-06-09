@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22815,
+  "EOS_Progressed": 22816,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1323,6 +1323,11 @@
       "Time": "2023-06-09T15:04:30.6042393+00:00",
       "NumProgressed": 22815,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-09T16:04:54.7600909+00:00",
+      "NumProgressed": 22816,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1358,7 +1363,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9810
+      "UsersEstimate": 9811
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -1374,7 +1379,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6616
+      "UsersEstimate": 6617
     },
     {
       "ID": "ACH_GET_GUS",
@@ -1398,7 +1403,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17339
+      "UsersEstimate": 17340
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1438,7 +1443,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18936
+      "UsersEstimate": 18937
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1486,7 +1491,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5019
+      "UsersEstimate": 5020
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -1518,7 +1523,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16655
+      "UsersEstimate": 16656
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1550,7 +1555,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3651
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -1582,29 +1587,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5019
+      "UsersEstimate": 5020
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22815,
+      "Progressed": 22816,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 108,
-      "Completed": 108
+      "Progressed": 109,
+      "Completed": 109
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-06-09T15:04:30.6042377+00:00",
+  "LastChanged_Achievements": "2023-06-09T16:04:54.7600903+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:10.2395765+00:00",
-  "LastUpdate_Ratings": "2023-06-09T14:58:02.2980506+00:00",
-  "LastUpdate_Achievements": "2023-06-09T15:04:30.6042719+00:00"
+  "LastUpdate_Ratings": "2023-06-09T15:58:16.087859+00:00",
+  "LastUpdate_Achievements": "2023-06-09T16:04:54.7601257+00:00"
 }

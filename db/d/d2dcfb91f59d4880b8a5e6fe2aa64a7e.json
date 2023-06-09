@@ -4,7 +4,7 @@
   "ProductSlug": "skeletal-avengers-af85a4",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
@@ -330,8 +330,8 @@
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-06-09T15:03:52.63031+00:00",
+  "LastChanged_Achievements": "2023-06-09T16:04:06.288151+00:00",
   "LastUpdate_AppInfo": "2023-06-06T20:57:05.9575099+00:00",
-  "LastUpdate_Ratings": "2023-06-09T14:57:13.8483245+00:00",
-  "LastUpdate_Achievements": "2023-06-09T15:03:52.6303256+00:00"
+  "LastUpdate_Ratings": "2023-06-09T15:57:11.7833081+00:00",
+  "LastUpdate_Achievements": "2023-06-09T16:04:06.2881658+00:00"
 }

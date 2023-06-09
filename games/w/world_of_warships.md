@@ -4,12 +4,12 @@
 Rating: 4.42 (Ranked 655)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 1,116  (Ranked 130)  
-Sum: 9,890 (Ranked 80)  
-Diff (max vs sum): 50  
+Max (Quickly Understood Controls): 1,117  (Ranked 129)  
+Sum: 9,891 (Ranked 80)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 1,116 |
+| This game has Quickly Understood Controls | 1,117 |
 | This game is Relaxing | 1,114 |
 | This game is Extremely Fun | 1,069 |
 | This game has Competitive Players | 1,060 |
@@ -170,4 +170,4 @@ Diff (max vs sum): 50
 | 2023-06-06 | 4.42 | - | 1,112 | 9,846 |
 | 2023-06-07 | 4.42 | - | 1,116 | 9,865 |
 | 2023-06-08 | 4.42 | - | 1,116 | 9,883 |
-| 2023-06-09 | 4.42 | - | 1,116 | 9,890 |
+| 2023-06-09 | 4.42 | - | 1,117 | 9,891 |

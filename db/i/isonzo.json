@@ -616,9 +616,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6130,
+  "EOS_Progressed": 6131,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2391,6 +2391,11 @@
       "Time": "2023-06-09T15:03:07.844998+00:00",
       "NumProgressed": 6130,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-09T16:03:11.9125631+00:00",
+      "NumProgressed": 6131,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2418,7 +2423,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2882
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -2434,7 +2439,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -2522,7 +2527,7 @@
       "Name": "Generalissimo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -2594,7 +2599,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2650,7 +2655,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -2698,7 +2703,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -2730,7 +2735,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2761,7 +2766,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6130,
+      "Progressed": 6131,
       "Completed": 8
     }
   ],
@@ -2769,8 +2774,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-08T10:58:11.1993757+00:00",
-  "LastChanged_Achievements": "2023-06-09T15:03:07.8449974+00:00",
+  "LastChanged_Achievements": "2023-06-09T16:03:11.9125625+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:28.4757017+00:00",
-  "LastUpdate_Ratings": "2023-06-09T14:57:32.4085781+00:00",
-  "LastUpdate_Achievements": "2023-06-09T15:03:07.8450427+00:00"
+  "LastUpdate_Ratings": "2023-06-09T15:57:35.8112206+00:00",
+  "LastUpdate_Achievements": "2023-06-09T16:03:11.9126072+00:00"
 }

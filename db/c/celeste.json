@@ -3,11 +3,11 @@
   "Name": "Celeste",
   "ProductSlug": "celeste",
   "Ranking_Rating": 4,
-  "Ranking_Popularity": 116,
+  "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2018-01-05T15:00:00+00:00",
@@ -2386,18 +2386,24 @@
       "Rating": 4.92,
       "NumberOfAwards": 2845,
       "NumberOfAwardsMax": 1473
+    },
+    {
+      "Time": "2023-06-09T15:58:33.1559975+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2847,
+      "NumberOfAwardsMax": 1475
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2845,
-  "NumberOfAwardsMax": 1473,
+  "NumberOfAwards": 2847,
+  "NumberOfAwardsMax": 1475,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1473
+      "Count": 1475
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2471,8 +2477,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2023-06-07T20:58:27.1563156+00:00",
+  "LastChanged": "2023-06-09T15:58:33.1559974+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:27.889717+00:00",
-  "LastUpdate_Ratings": "2023-06-09T14:58:15.8110963+00:00",
-  "LastUpdate_Achievements": "2023-06-09T15:04:21.9923029+00:00"
+  "LastUpdate_Ratings": "2023-06-09T15:58:33.155998+00:00",
+  "LastUpdate_Achievements": "2023-06-09T16:04:43.9987828+00:00"
 }

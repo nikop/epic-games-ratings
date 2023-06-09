@@ -12,8 +12,8 @@ Rating: 3.80 (Ranked 927)
 | Great Doctor | 50.00% | ~688 |
 | Dog Whisperer | 48.00% | ~660 |
 | Friendly | 46.00% | ~632 |
+| K.O.! | 42.00% | ~578 |
 | The Capitalist | 42.00% | ~578 |
-| K.O.! | 41.00% | ~564 |
 | Intermediate Chemist | 38.00% | ~522 |
 | Decorative Mind | 31.00% | ~426 |
 | Lumber Specialist | 29.00% | ~399 |
@@ -23,8 +23,8 @@ Rating: 3.80 (Ranked 927)
 | Fishing Guru | 18.00% | ~248 |
 | Community Helper | 16.00% | ~220 |
 | Spark of Love | 14.00% | ~193 |
+| Stone Specialist | 13.00% | ~179 |
 | Expert Chemist | 12.00% | ~165 |
-| Stone Specialist | 12.00% | ~165 |
 | Sociable | 11.00% | ~151 |
 | Ablutomaniac | 11.00% | ~151 |
 | Production Sorter | 11.00% | ~151 |

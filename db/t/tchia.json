@@ -2,7 +2,7 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 134,
+  "Ranking_Rating": 135,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 121,
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6376,
+  "EOS_Progressed": 6378,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3213,6 +3213,11 @@
       "Time": "2023-06-09T15:05:32.8847623+00:00",
       "NumProgressed": 6376,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-09T16:06:12.8877783+00:00",
+      "NumProgressed": 6378,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -3296,7 +3301,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -3328,7 +3333,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "LIBERATOR",
@@ -3391,7 +3396,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6376,
+      "Progressed": 6378,
       "Completed": 23
     }
   ],
@@ -3399,8 +3404,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-09T15:05:32.8847618+00:00",
+  "LastChanged_Achievements": "2023-06-09T16:06:12.8877777+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-09T14:57:59.380255+00:00",
-  "LastUpdate_Achievements": "2023-06-09T15:05:32.8848063+00:00"
+  "LastUpdate_Ratings": "2023-06-09T15:58:12.0215246+00:00",
+  "LastUpdate_Achievements": "2023-06-09T16:06:12.8878258+00:00"
 }

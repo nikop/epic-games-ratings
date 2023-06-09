@@ -11,22 +11,22 @@
 | Scraping by | 34.00% | ~29 |
 | Engineer-mage hybrid | 33.00% | ~28 |
 | Complete Level 1-3 | 31.00% | ~26 |
-| Defeat the warrior boss | 22.00% | ~19 |
+| Defeat the warrior boss | 24.00% | ~20 |
 | Get out of my way | 21.00% | ~18 |
 | Redecorator | 20.00% | ~17 |
-| Just a sip | 18.00% | ~15 |
+| Just a sip | 19.00% | ~16 |
 | Versatile | 16.00% | ~14 |
 | Complete Level 2-1 | 15.00% | ~13 |
 | Complete Level 2-2 | 15.00% | ~13 |
+| Well-off | 13.00% | ~11 |
 | Complete Level 2-3 | 13.00% | ~11 |
 | Defeat the engineer boss | 13.00% | ~11 |
 | Complete Level 3-1 | 13.00% | ~11 |
-| Well-off | 12.00% | ~10 |
 | Too many crates | 12.00% | ~10 |
+| Baby steps | 11.00% | ~9 |
 | Complete Level 3-2 | 11.00% | ~9 |
 | Engineer-warrior hybrid | 11.00% | ~9 |
-| Baby steps | 9.00% | ~8 |
-| Should have left me alone | 8.00% | ~7 |
+| Should have left me alone | 9.00% | ~8 |
 | Drink up | 8.00% | ~7 |
 | Complete Level 3-3 | 8.00% | ~7 |
 | Mage-warrior hybrid | 8.00% | ~7 |

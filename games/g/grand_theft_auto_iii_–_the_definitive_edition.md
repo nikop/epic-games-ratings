@@ -5,23 +5,23 @@ Rating: 4.13 (Ranked 868)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~5,249 |
-| Disposing of the Evidence | 36.00% | ~2,277 |
-| Without a Scratch | 32.00% | ~2,024 |
-| Wreckless Driving | 27.00% | ~1,707 |
+| First Day on the Job | 83.00% | ~5,252 |
+| Disposing of the Evidence | 36.00% | ~2,278 |
+| Without a Scratch | 32.00% | ~2,025 |
+| Wreckless Driving | 27.00% | ~1,709 |
 | A Marked Man | 23.00% | ~1,455 |
-| Street Sweeper | 17.00% | ~1,075 |
+| Street Sweeper | 17.00% | ~1,076 |
 | Liberty City Minute | 16.00% | ~1,012 |
 | Offshore Delivery | 12.00% | ~759 |
 | Dirty Money | 11.00% | ~696 |
-| By a Mile | 9.00% | ~569 |
-| Not So Fast | 9.00% | ~569 |
-| Right-hand Man | 9.00% | ~569 |
-| A Gift from the King | 6.00% | ~379 |
+| By a Mile | 9.00% | ~570 |
+| Not So Fast | 9.00% | ~570 |
+| Right-hand Man | 9.00% | ~570 |
+| A Gift from the King | 6.00% | ~380 |
 | Full Artillery | 4.00% | ~253 |
-| Mob Boss | 2.00% | ~126 |
-| Splish Splash | 2.00% | ~126 |
-| Liberty City Secrets | 2.00% | ~126 |
+| Mob Boss | 2.00% | ~127 |
+| Splish Splash | 2.00% | ~127 |
+| Liberty City Secrets | 2.00% | ~127 |
 | Escape Artist | 1.00% | ~63 |
 | Got This Figured Out | 1.00% | ~63 |
 | Come Out to Play-y-y-y | 1.00% | ~63 |
@@ -35,7 +35,7 @@ Rating: 4.13 (Ranked 868)
 | Is That All You've Got? | 0.70% | ~44 |
 | King of Liberty City | 0.50% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,324 (Ranked 122)  
+Progressed: 6,328 (Ranked 122)  
 Completed: 33 (0.52%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 33 (0.52%) (Ranked 112)
 | 2023-06-06 | 6,185 | 31 |
 | 2023-06-07 | 6,231 | 32 |
 | 2023-06-08 | 6,292 | 32 |
-| 2023-06-09 | 6,324 | 33 |
+| 2023-06-09 | 6,328 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

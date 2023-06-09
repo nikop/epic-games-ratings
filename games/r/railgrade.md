@@ -5,31 +5,31 @@ Rating: 4.54 (Ranked 490)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,524 |
-| Before the Downfall | 93.00% | ~17,579 |
-| Money like Water | 91.00% | ~17,201 |
-| Minimalist | 90.00% | ~17,012 |
-| Builder | 82.00% | ~15,500 |
-| Eraser | 70.00% | ~13,231 |
-| Pocket of Trains | 65.00% | ~12,286 |
-| Inspector | 59.00% | ~11,152 |
-| Going the Distance | 54.00% | ~10,207 |
-| Oil Baron | 42.00% | ~7,939 |
-| Loads-a-Money | 42.00% | ~7,939 |
-| Helper of the People | 39.00% | ~7,372 |
-| Simplification | 34.00% | ~6,427 |
-| Box of Trains | 33.00% | ~6,238 |
-| Let There be Light | 32.00% | ~6,049 |
-| Hot Water | 31.00% | ~5,860 |
-| Indecisive | 29.00% | ~5,482 |
-| The scenic route | 27.00% | ~5,104 |
+| Trevithick's Legacy | 98.00% | ~18,528 |
+| Before the Downfall | 93.00% | ~17,583 |
+| Money like Water | 91.00% | ~17,204 |
+| Minimalist | 90.00% | ~17,015 |
+| Builder | 82.00% | ~15,503 |
+| Eraser | 70.00% | ~13,234 |
+| Pocket of Trains | 65.00% | ~12,289 |
+| Inspector | 59.00% | ~11,155 |
+| Going the Distance | 54.00% | ~10,209 |
+| Oil Baron | 42.00% | ~7,941 |
+| Loads-a-Money | 42.00% | ~7,941 |
+| Helper of the People | 39.00% | ~7,373 |
+| Simplification | 34.00% | ~6,428 |
+| Box of Trains | 33.00% | ~6,239 |
+| Let There be Light | 32.00% | ~6,050 |
+| Hot Water | 31.00% | ~5,861 |
+| Indecisive | 29.00% | ~5,483 |
+| The scenic route | 27.00% | ~5,105 |
 | Industrialist | 25.00% | ~4,726 |
-| Perfectionist | 23.00% | ~4,347 |
-| Trains over Pipes | 23.00% | ~4,347 |
-| 8K is Enough for Everyone | 22.00% | ~4,158 |
-| Man of Steel | 16.00% | ~3,024 |
-| Room Full of Trains | 12.00% | ~2,268 |
-| Investor | 9.00% | ~1,701 |
+| Perfectionist | 23.00% | ~4,348 |
+| Trains over Pipes | 23.00% | ~4,348 |
+| 8K is Enough for Everyone | 22.00% | ~4,159 |
+| Man of Steel | 16.00% | ~3,025 |
+| Room Full of Trains | 12.00% | ~2,269 |
+| Investor | 9.00% | ~1,702 |
 | Multiverse | 7.00% | ~1,323 |
 | The poor groundwater levels | 7.00% | ~1,323 |
 | Metropolis | 7.00% | ~1,323 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 490)
 | Overdeer | 0.50% | ~95 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,902 (Ranked 99)  
+Progressed: 18,906 (Ranked 99)  
 Completed: 30 (0.16%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 30 (0.16%) (Ranked 151)
 | 2023-06-06 | 18,864 | 30 |
 | 2023-06-07 | 18,874 | 30 |
 | 2023-06-08 | 18,895 | 30 |
-| 2023-06-09 | 18,902 | 30 |
+| 2023-06-09 | 18,906 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 344)  
 Sum: 650 (Ranked 276)  
