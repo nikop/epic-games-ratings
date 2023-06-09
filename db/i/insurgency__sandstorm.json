@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -2221,7 +2221,7 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 382488,
+  "EOS_Progressed": 382511,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 3789,
   "EOS_NewCompleters": 0,
@@ -7451,6 +7451,11 @@
       "Time": "2023-06-09T22:06:21.5128053+00:00",
       "NumProgressed": 382488,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T23:02:02.7449394+00:00",
+      "NumProgressed": 382511,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -7478,7 +7483,7 @@
       "Name": "Carrying",
       "Percentage": 0.9,
       "XP": 70,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "ACH_CHECKPOINT_VICTORY",
@@ -7494,7 +7499,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -7502,7 +7507,7 @@
       "Name": "Designated Driver",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_EFFICIENT",
@@ -7574,7 +7579,7 @@
       "Name": "J.R. .50",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_KNOCK_KNOCK",
@@ -7582,7 +7587,7 @@
       "Name": "Knock Knock",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACH_LUCKY",
@@ -7598,7 +7603,7 @@
       "Name": "Mount \u0026 Gun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "ACH_NUMBAH_ONE",
@@ -7606,7 +7611,7 @@
       "Name": "#1",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "ACH_PERSONAL",
@@ -7614,7 +7619,7 @@
       "Name": "Personal",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "ACH_PLAY_TO_WIN",
@@ -7630,7 +7635,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19124
+      "UsersEstimate": 19126
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -7646,7 +7651,7 @@
       "Name": "It\u0027s All in the Reflexes",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_ROAD_HAZARD",
@@ -7654,7 +7659,7 @@
       "Name": "Road Hazard",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_RUTHLESS",
@@ -7686,7 +7691,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "ACH_STYLING",
@@ -7710,7 +7715,7 @@
       "Name": "There For You",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACH_TURF_WAR",
@@ -7726,7 +7731,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19124
+      "UsersEstimate": 19126
     },
     {
       "ID": "ACH_WET_FEET",
@@ -7741,15 +7746,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 382488,
+      "Progressed": 382511,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-06-09T22:02:23.9861078+00:00",
-  "LastChanged_Achievements": "2023-06-09T22:06:21.5128047+00:00",
+  "LastChanged_Achievements": "2023-06-09T23:02:02.7449389+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:01.5225569+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:02:23.9861085+00:00",
-  "LastUpdate_Achievements": "2023-06-09T22:06:21.5129022+00:00"
+  "LastUpdate_Ratings": "2023-06-09T22:58:03.2875816+00:00",
+  "LastUpdate_Achievements": "2023-06-09T23:02:02.7449843+00:00"
 }

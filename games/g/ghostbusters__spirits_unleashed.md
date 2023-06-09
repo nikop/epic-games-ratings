@@ -15,7 +15,7 @@ Rating: 4.49 (Ranked 565)
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,899 |
 | Vaporous Expansion | 49.00% | ~11,212 |
 | Teamwork | 44.00% | ~10,068 |
-| There you are! | 43.00% | ~9,839 |
+| There you are! | 44.00% | ~10,068 |
 | Clutch Capture | 41.00% | ~9,382 |
 | Back Off | 36.00% | ~8,238 |
 | Daily Dose | 35.00% | ~8,009 |

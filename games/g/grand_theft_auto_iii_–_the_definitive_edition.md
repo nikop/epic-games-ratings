@@ -1,33 +1,33 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.13 (Ranked 868)  
+Rating: 4.14 (Ranked 864)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~5,266 |
-| Disposing of the Evidence | 36.00% | ~2,284 |
-| Without a Scratch | 32.00% | ~2,030 |
-| Wreckless Driving | 27.00% | ~1,713 |
-| A Marked Man | 23.00% | ~1,459 |
-| Street Sweeper | 17.00% | ~1,078 |
-| Liberty City Minute | 16.00% | ~1,015 |
-| Offshore Delivery | 12.00% | ~761 |
-| Dirty Money | 11.00% | ~698 |
-| By a Mile | 9.00% | ~571 |
-| Not So Fast | 9.00% | ~571 |
-| Right-hand Man | 9.00% | ~571 |
+| First Day on the Job | 83.00% | ~5,271 |
+| Disposing of the Evidence | 36.00% | ~2,286 |
+| Without a Scratch | 32.00% | ~2,032 |
+| Wreckless Driving | 27.00% | ~1,715 |
+| A Marked Man | 23.00% | ~1,461 |
+| Street Sweeper | 17.00% | ~1,080 |
+| Liberty City Minute | 16.00% | ~1,016 |
+| Offshore Delivery | 12.00% | ~762 |
+| Dirty Money | 11.00% | ~699 |
+| By a Mile | 9.00% | ~572 |
+| Not So Fast | 9.00% | ~572 |
+| Right-hand Man | 9.00% | ~572 |
 | A Gift from the King | 6.00% | ~381 |
 | Full Artillery | 4.00% | ~254 |
 | Mob Boss | 2.00% | ~127 |
 | Splish Splash | 2.00% | ~127 |
 | Liberty City Secrets | 2.00% | ~127 |
-| Escape Artist | 1.00% | ~63 |
-| Got This Figured Out | 1.00% | ~63 |
-| Come Out to Play-y-y-y | 1.00% | ~63 |
-| Where To? | 1.00% | ~63 |
-| Playing Doctor | 1.00% | ~63 |
-| Going Rogue | 1.00% | ~63 |
+| Escape Artist | 1.00% | ~64 |
+| Got This Figured Out | 1.00% | ~64 |
+| Come Out to Play-y-y-y | 1.00% | ~64 |
+| Where To? | 1.00% | ~64 |
+| Playing Doctor | 1.00% | ~64 |
+| Going Rogue | 1.00% | ~64 |
 | Planned Ahead | 0.90% | ~57 |
 | Wheels Up | 0.90% | ~57 |
 | Man Toyz | 0.90% | ~57 |
@@ -35,7 +35,7 @@ Rating: 4.13 (Ranked 868)
 | Is That All You've Got? | 0.70% | ~44 |
 | King of Liberty City | 0.50% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,344 (Ranked 122)  
+Progressed: 6,351 (Ranked 122)  
 Completed: 33 (0.52%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 33 (0.52%) (Ranked 113)
 | 2023-06-06 | 6,185 | 31 |
 | 2023-06-07 | 6,231 | 32 |
 | 2023-06-08 | 6,292 | 32 |
-| 2023-06-09 | 6,344 | 33 |
+| 2023-06-09 | 6,351 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -139,3 +139,4 @@ Completed: 33 (0.52%) (Ranked 113)
 | 2023-06-04 | 4.12 | 0 | 0 |
 | 2023-06-06 | 4.14 | 0 | 0 |
 | 2023-06-07 | 4.13 | 0 | 0 |
+| 2023-06-09 | 4.14 | 0 | 0 |

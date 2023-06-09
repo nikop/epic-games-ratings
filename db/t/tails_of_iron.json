@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1631,
+  "EOS_Progressed": 1632,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1382,6 +1382,11 @@
       "Time": "2023-06-09T21:02:23.2399195+00:00",
       "NumProgressed": 1631,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-09T23:03:21.5097187+00:00",
+      "NumProgressed": 1632,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 30,
@@ -1393,7 +1398,7 @@
       "Name": "Become King",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "Collect20Gold",
@@ -1409,7 +1414,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "Collect50MonsterParts",
@@ -1417,7 +1422,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "CollectAllStatues",
@@ -1473,7 +1478,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1505,7 +1510,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1543,9 +1548,9 @@
       "ID": "GetTHWeapon",
       "SetID": "9lj35g4",
       "Name": "Two Handed Weapon",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 897
+      "UsersEstimate": 881
     },
     {
       "ID": "Kill25Bugs",
@@ -1609,7 +1614,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "RescueBrothers",
@@ -1632,22 +1637,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1631,
+      "Progressed": 1632,
       "Completed": 7
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 272,
-      "Completed": 272
+      "Progressed": 273,
+      "Completed": 273
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-08T02:19:19.7115512+00:00",
-  "LastChanged_Achievements": "2023-06-09T22:07:27.967755+00:00",
+  "LastChanged_Achievements": "2023-06-09T23:03:21.5097182+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.129082+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:03:02.6541241+00:00",
-  "LastUpdate_Achievements": "2023-06-09T22:07:27.9678032+00:00"
+  "LastUpdate_Ratings": "2023-06-09T22:58:34.9579167+00:00",
+  "LastUpdate_Achievements": "2023-06-09T23:03:21.5097415+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1190,7 +1190,7 @@
   ],
   "EOS_Progressed": 22882,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5377,9 +5377,9 @@
       "ID": "There_You_Are",
       "SetID": "819popo",
       "Name": "There you are!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9839
+      "UsersEstimate": 10068
     },
     {
       "ID": "Tobins_Prodigy",
@@ -5434,8 +5434,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-09T18:58:44.9665474+00:00",
-  "LastChanged_Achievements": "2023-06-09T22:11:23.3019545+00:00",
+  "LastChanged_Achievements": "2023-06-09T23:06:38.0924974+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:16.8585642+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:03:44.9962884+00:00",
-  "LastUpdate_Achievements": "2023-06-09T22:11:23.3020693+00:00"
+  "LastUpdate_Ratings": "2023-06-09T22:59:10.6179614+00:00",
+  "LastUpdate_Achievements": "2023-06-09T23:06:38.0925486+00:00"
 }

@@ -5,33 +5,33 @@ Rating: 3.98 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 75.00% | ~291,650 |
-| Health Junkie | 45.00% | ~174,990 |
-| You Complete Me | 41.00% | ~159,435 |
-| Guardian Angel | 39.00% | ~151,658 |
-| Devil Inside Me | 31.00% | ~120,548 |
-| Killing Spree | 22.00% | ~85,551 |
-| Fantastic Four | 21.00% | ~81,662 |
-| Marksman Novice | 20.00% | ~77,773 |
-| First Blood | 14.00% | ~54,441 |
-| Top 10 | 14.00% | ~54,441 |
-| Now You See Me, Now You Don't | 12.00% | ~46,664 |
-| Marksman Expert | 10.00% | ~38,887 |
-| CQB Novice | 8.00% | ~31,109 |
-| Collateral Damage | 7.00% | ~27,221 |
-| Airborne | 6.00% | ~23,332 |
-| Pacifist | 6.00% | ~23,332 |
+| Blood on My Hands | 75.00% | ~291,664 |
+| Health Junkie | 45.00% | ~174,998 |
+| You Complete Me | 41.00% | ~159,443 |
+| Guardian Angel | 39.00% | ~151,665 |
+| Devil Inside Me | 31.00% | ~120,554 |
+| Killing Spree | 22.00% | ~85,555 |
+| Fantastic Four | 21.00% | ~81,666 |
+| Marksman Novice | 20.00% | ~77,777 |
+| First Blood | 14.00% | ~54,444 |
+| Top 10 | 14.00% | ~54,444 |
+| Now You See Me, Now You Don't | 12.00% | ~46,666 |
+| Marksman Expert | 10.00% | ~38,888 |
+| CQB Novice | 8.00% | ~31,111 |
+| Collateral Damage | 7.00% | ~27,222 |
+| Airborne | 6.00% | ~23,333 |
+| Pacifist | 6.00% | ~23,333 |
 | Last Survivor | 4.00% | ~15,555 |
 | Marksman Master | 4.00% | ~15,555 |
 | Trigonometry Novice | 4.00% | ~15,555 |
 | First Come, First Served | 4.00% | ~15,555 |
 | Dynamic Duo | 4.00% | ~15,555 |
-| Winner Winner Chicken Dinner! | 2.00% | ~7,777 |
-| Okay, Now I'm Ready | 2.00% | ~7,777 |
-| Agent 48 | 2.00% | ~7,777 |
-| Don't Pan Me Bro! | 2.00% | ~7,777 |
-| Fast and Furious | 2.00% | ~7,777 |
-| CQB Expert | 2.00% | ~7,777 |
+| Winner Winner Chicken Dinner! | 2.00% | ~7,778 |
+| Okay, Now I'm Ready | 2.00% | ~7,778 |
+| Agent 48 | 2.00% | ~7,778 |
+| Don't Pan Me Bro! | 2.00% | ~7,778 |
+| Fast and Furious | 2.00% | ~7,778 |
+| CQB Expert | 2.00% | ~7,778 |
 | Fury Road | 1.00% | ~3,889 |
 | Ghost | 1.00% | ~3,889 |
 | Cruising with the Enemy | 1.00% | ~3,889 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 905)
 | The First Rule Is… | 0.10% | ~389 |
 | Shoot the Knee | 0.10% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,866 (Ranked 37)  
+Progressed: 388,885 (Ranked 37)  
 Completed: 8 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 8 (0.00%) (Ranked 213)
 | 2023-06-06 | 385,906 | 8 |
 | 2023-06-07 | 386,814 | 8 |
 | 2023-06-08 | 387,797 | 8 |
-| 2023-06-09 | 388,866 | 8 |
+| 2023-06-09 | 388,885 | 8 |
 ## Awards
 Max (Competitive Players): 2,196  (Ranked 100)  
 Sum: 9,197 (Ranked 82)  

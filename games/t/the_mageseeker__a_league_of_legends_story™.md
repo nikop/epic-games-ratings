@@ -5,20 +5,20 @@ Rating: 4.80 (Ranked 81)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,189 |
-| No more cages! | 92.00% | ~2,120 |
-| Everfrost | 77.00% | ~1,774 |
-| Pentakill | 76.00% | ~1,751 |
-| Dark Forest | 76.00% | ~1,751 |
-| The use of petricite | 73.00% | ~1,682 |
-| You can pet the dog | 60.00% | ~1,382 |
-| Big Helmet Bro | 35.00% | ~806 |
-| Clarion Cove | 35.00% | ~806 |
-| Past trauma | 34.00% | ~783 |
-| Thornbarrow | 33.00% | ~760 |
-| Ternmoat Headquarters | 33.00% | ~760 |
-| Elemental master | 32.00% | ~737 |
-| Cypress Glen Headquarters | 31.00% | ~714 |
+| For Demacia | 95.00% | ~2,190 |
+| No more cages! | 92.00% | ~2,121 |
+| Everfrost | 77.00% | ~1,775 |
+| Pentakill | 76.00% | ~1,752 |
+| Dark Forest | 76.00% | ~1,752 |
+| The use of petricite | 73.00% | ~1,683 |
+| You can pet the dog | 60.00% | ~1,383 |
+| Big Helmet Bro | 35.00% | ~807 |
+| Clarion Cove | 35.00% | ~807 |
+| Past trauma | 34.00% | ~784 |
+| Thornbarrow | 33.00% | ~761 |
+| Ternmoat Headquarters | 33.00% | ~761 |
+| Elemental master | 32.00% | ~738 |
+| Cypress Glen Headquarters | 31.00% | ~715 |
 | Old friend | 28.00% | ~645 |
 | Petricite Burst | 28.00% | ~645 |
 | Devineur | 27.00% | ~622 |
@@ -43,8 +43,8 @@ Rating: 4.80 (Ranked 81)
 | Meltridge | 13.00% | ~300 |
 | The Central Headquarters | 13.00% | ~300 |
 | Cloven Dell Headquarters | 13.00% | ~300 |
-| Embrace the darkness | 11.00% | ~253 |
-| Whispers in the Woods IV | 11.00% | ~253 |
+| Embrace the darkness | 11.00% | ~254 |
+| Whispers in the Woods IV | 11.00% | ~254 |
 | I smell fear | 10.00% | ~230 |
 | The end of the experiments | 10.00% | ~230 |
 | The Great City of Demacia | 10.00% | ~230 |
@@ -59,7 +59,7 @@ Rating: 4.80 (Ranked 81)
 | Silverwing nest | 2.00% | ~46 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,304 (Ranked 150)  
+Progressed: 2,305 (Ranked 150)  
 Completed: 1 (0.04%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 1 (0.04%) (Ranked 186)
 | 2023-06-06 | 2,273 | 1 |
 | 2023-06-07 | 2,279 | 1 |
 | 2023-06-08 | 2,296 | 1 |
-| 2023-06-09 | 2,304 | 1 |
+| 2023-06-09 | 2,305 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

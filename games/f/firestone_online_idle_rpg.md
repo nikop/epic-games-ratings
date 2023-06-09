@@ -5,11 +5,11 @@ Rating: 4.05 (Ranked 889)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,267 |
-| World Map | 80.00% | ~1,078 |
-| Temple of Eternals | 57.00% | ~768 |
-| Prestigious | 53.00% | ~714 |
-| Fellowship Power | 41.00% | ~553 |
+| Victor | 94.00% | ~1,268 |
+| World Map | 80.00% | ~1,079 |
+| Temple of Eternals | 57.00% | ~769 |
+| Prestigious | 53.00% | ~715 |
+| Fellowship Power | 40.00% | ~540 |
 | Guild Power | 24.00% | ~324 |
 | Prestigious x10 | 21.00% | ~283 |
 | The game is on | 18.00% | ~243 |
@@ -56,12 +56,12 @@ Rating: 4.05 (Ranked 889)
 | Lock And Load | 3.00% | ~40 |
 | Blueprint Upgrades | 2.00% | ~27 |
 | Sailor | 2.00% | ~27 |
+| The Alchemist | 2.00% | ~27 |
 | What lies behind the bush | 2.00% | ~27 |
 | Active Member | 1.00% | ~13 |
 | Arena Challenger | 1.00% | ~13 |
 | Ebony Jungle Liberator | 1.00% | ~13 |
 | Legendary | 1.00% | ~13 |
-| The Alchemist | 1.00% | ~13 |
 | Training makes a Pro player | 0.70% | ~9 |
 | Transmute | 0.60% | ~8 |
 | Tree of Life | 0.50% | ~7 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 889)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,348 (Ranked 163)  
+Progressed: 1,349 (Ranked 163)  
 Completed: 1 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 1 (0.07%) (Ranked 177)
 | 2023-06-06 | 1,309 | 1 |
 | 2023-06-07 | 1,329 | 1 |
 | 2023-06-08 | 1,341 | 1 |
-| 2023-06-09 | 1,348 | 1 |
+| 2023-06-09 | 1,349 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

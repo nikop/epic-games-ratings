@@ -4,8 +4,8 @@
 Rating: 4.44 (Ranked 630)  
 ## Awards
 Max (Diverse Characters): 108  (Ranked 316)  
-Sum: 710 (Ranked 261)  
-Diff (max vs sum): 55  
+Sum: 710 (Ranked 262)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 108 |

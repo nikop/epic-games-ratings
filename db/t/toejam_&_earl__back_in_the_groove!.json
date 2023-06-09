@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55072,
+  "EOS_Progressed": 55076,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3412,6 +3412,11 @@
       "Time": "2023-06-09T22:06:02.7838626+00:00",
       "NumProgressed": 55072,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-09T23:01:09.0936747+00:00",
+      "NumProgressed": 55076,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -3431,7 +3436,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "BoomBox",
@@ -3511,7 +3516,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4956
+      "UsersEstimate": 4957
     },
     {
       "ID": "FoolMeTwice",
@@ -3583,7 +3588,7 @@
       "Name": "Hi Fiver",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "IsThisPossible",
@@ -3679,7 +3684,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "RhythmStar",
@@ -3719,7 +3724,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "StruckLove",
@@ -3759,7 +3764,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3304
+      "UsersEstimate": 3305
     },
     {
       "ID": "TimelySplash",
@@ -3767,7 +3772,7 @@
       "Name": "A Timely Splash",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "TotalBummer",
@@ -3814,7 +3819,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55072,
+      "Progressed": 55076,
       "Completed": 4
     }
   ],
@@ -3822,8 +3827,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-06-09T22:06:02.7838599+00:00",
+  "LastChanged_Achievements": "2023-06-09T23:01:09.0936738+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:08.1371786+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:05:43.6443856+00:00",
-  "LastUpdate_Achievements": "2023-06-09T22:06:02.7840015+00:00"
+  "LastUpdate_Ratings": "2023-06-09T23:00:52.285151+00:00",
+  "LastUpdate_Achievements": "2023-06-09T23:01:09.0937248+00:00"
 }

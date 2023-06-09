@@ -2,10 +2,10 @@
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
-  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 178,
+  "EOS_Progressed": 179,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -148,6 +148,11 @@
       "Time": "2023-06-09T06:07:02.3594267+00:00",
       "NumProgressed": 178,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T23:06:15.4663019+00:00",
+      "NumProgressed": 179,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -165,9 +170,9 @@
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "03",
@@ -189,9 +194,9 @@
       "ID": "05",
       "SetID": "6glb5g1",
       "Name": "A turbulent river.",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "06",
@@ -215,7 +220,7 @@
       "Name": "Aggressive rocks.",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "09",
@@ -278,7 +283,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 178,
+      "Progressed": 179,
       "Completed": 2
     }
   ],
@@ -286,8 +291,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-06-09T22:10:57.7056413+00:00",
+  "LastChanged_Achievements": "2023-06-09T23:06:15.4663015+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:43.4344723+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:02:04.6506093+00:00",
-  "LastUpdate_Achievements": "2023-06-09T22:10:57.7056524+00:00"
+  "LastUpdate_Ratings": "2023-06-09T22:57:46.4988946+00:00",
+  "LastUpdate_Achievements": "2023-06-09T23:06:15.4663107+00:00"
 }

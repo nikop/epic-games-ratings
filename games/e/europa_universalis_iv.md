@@ -1,36 +1,36 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 238)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,754 |
-| That's a Grand Army | 8.00% | ~4,226 |
-| That is mine! | 8.00% | ~4,226 |
-| Victorious! | 8.00% | ~4,226 |
-| Brothers in Arms | 6.00% | ~3,169 |
-| That's a Grand Navy | 6.00% | ~3,169 |
-| Seriously?! | 6.00% | ~3,169 |
-| For the Glory | 5.00% | ~2,641 |
+| Until death do us apart | 9.00% | ~4,755 |
+| That's a Grand Army | 8.00% | ~4,227 |
+| That is mine! | 8.00% | ~4,227 |
+| Victorious! | 8.00% | ~4,227 |
+| Brothers in Arms | 6.00% | ~3,170 |
+| That's a Grand Navy | 6.00% | ~3,170 |
+| Seriously?! | 6.00% | ~3,170 |
+| For the Glory | 5.00% | ~2,642 |
 | Cold War | 4.00% | ~2,113 |
 | True Catholic | 4.00% | ~2,113 |
 | Defender of the Faith | 3.00% | ~1,585 |
 | It's all about the money | 3.00% | ~1,585 |
 | Respected | 3.00% | ~1,585 |
 | Truly Divine Ruler | 3.00% | ~1,585 |
-| Agressive Expander | 2.00% | ~1,056 |
-| Blockader | 2.00% | ~1,056 |
-| Combined Arms | 2.00% | ~1,056 |
-| Double the Love | 2.00% | ~1,056 |
-| Gentle Persuasion | 2.00% | ~1,056 |
-| It's all about luck | 2.00% | ~1,056 |
-| My armies are invincible! | 2.00% | ~1,056 |
-| Queen of Conquest | 2.00% | ~1,056 |
-| Royal Authority | 2.00% | ~1,056 |
-| The Princess is in this Castle | 2.00% | ~1,056 |
-| Total Control | 2.00% | ~1,056 |
+| Agressive Expander | 2.00% | ~1,057 |
+| Blockader | 2.00% | ~1,057 |
+| Combined Arms | 2.00% | ~1,057 |
+| Double the Love | 2.00% | ~1,057 |
+| Gentle Persuasion | 2.00% | ~1,057 |
+| It's all about luck | 2.00% | ~1,057 |
+| My armies are invincible! | 2.00% | ~1,057 |
+| Queen of Conquest | 2.00% | ~1,057 |
+| Royal Authority | 2.00% | ~1,057 |
+| The Princess is in this Castle | 2.00% | ~1,057 |
+| Total Control | 2.00% | ~1,057 |
 | All That's Thine Shall Be Mine | 1.00% | ~528 |
 | Azur semé de lis or | 1.00% | ~528 |
 | Bright Spark | 1.00% | ~528 |
@@ -38,10 +38,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~528 |
 | A Golden Empire | 1.00% | ~528 |
 | This navy can take it all | 1.00% | ~528 |
-| The Emperors new clothes | 0.90% | ~475 |
-| Isn't this the way to India? | 0.90% | ~475 |
-| Market Control | 0.90% | ~475 |
-| The Five Colonies | 0.90% | ~475 |
+| The Emperors new clothes | 0.90% | ~476 |
+| Isn't this the way to India? | 0.90% | ~476 |
+| Market Control | 0.90% | ~476 |
+| The Five Colonies | 0.90% | ~476 |
 | Down Under | 0.80% | ~423 |
 | Trustworthy | 0.70% | ~370 |
 | All belongs to Mother Russia | 0.60% | ~317 |
@@ -63,25 +63,25 @@ Number of Ratings: 8,414  (23.09.2022)
 | Global Hegemony | 0.40% | ~211 |
 | Grand Coalition | 0.40% | ~211 |
 | In the Name of the Father | 0.40% | ~211 |
+| Just a Little Patience | 0.40% | ~211 |
 | Live Long and Prosper | 0.40% | ~211 |
 | One Night in Paris | 0.40% | ~211 |
 | Tear Down This Wall | 0.40% | ~211 |
 | The Continuation of Diplomacy | 0.40% | ~211 |
-| A Decent Reserve | 0.30% | ~158 |
-| A Pile of Gold | 0.30% | ~158 |
-| Four For Trade | 0.30% | ~158 |
-| Grand Duchy | 0.30% | ~158 |
-| Italian Ambition | 0.30% | ~158 |
-| Just a Little Patience | 0.30% | ~158 |
-| Multiculturalism | 0.30% | ~158 |
-| No Pirates in my Caribbean | 0.30% | ~158 |
-| Not so sad a state... | 0.30% | ~158 |
-| The Chrysanthemum Throne | 0.30% | ~158 |
-| Three Trivial Tributary Tribes | 0.30% | ~158 |
-| Traditional Player | 0.30% | ~158 |
-| Vasa or Wettin? | 0.30% | ~158 |
-| Wonderful | 0.30% | ~158 |
-| World Discoverer | 0.30% | ~158 |
+| A Decent Reserve | 0.30% | ~159 |
+| A Pile of Gold | 0.30% | ~159 |
+| Four For Trade | 0.30% | ~159 |
+| Grand Duchy | 0.30% | ~159 |
+| Italian Ambition | 0.30% | ~159 |
+| Multiculturalism | 0.30% | ~159 |
+| No Pirates in my Caribbean | 0.30% | ~159 |
+| Not so sad a state... | 0.30% | ~159 |
+| The Chrysanthemum Throne | 0.30% | ~159 |
+| Three Trivial Tributary Tribes | 0.30% | ~159 |
+| Traditional Player | 0.30% | ~159 |
+| Vasa or Wettin? | 0.30% | ~159 |
+| Wonderful | 0.30% | ~159 |
+| World Discoverer | 0.30% | ~159 |
 | A Protected Market | 0.20% | ~106 |
 | AAA Credit | 0.20% | ~106 |
 | An early Reich | 0.20% | ~106 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,822 (Ranked 78)  
+Progressed: 52,837 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-06 | 51,193 | 0 |
 | 2023-06-07 | 51,714 | 0 |
 | 2023-06-08 | 52,261 | 0 |
-| 2023-06-09 | 52,822 | 0 |
+| 2023-06-09 | 52,837 | 0 |
 ## Awards
 Max (Educational): 5,371  (Ranked 61)  
 Sum: 44,348 (Ranked 27)  

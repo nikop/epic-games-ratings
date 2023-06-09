@@ -115,6 +115,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Invisible Wizards of Thay | 0.20% | ~113 |
 | Heavy Burden | 0.20% | ~181 |
 | Seeds of Destruction | 0.20% | ~113 |
+| The Evacuation of Waterdeep | 0.20% | ~113 |
 | On the Hunt | 0.20% | ~181 |
 | Vecna Lives! | 0.20% | ~113 |
 | Overwhelmed with Knowledge | 0.20% | ~113 |
@@ -218,6 +219,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hailstorm! | 0.20% | ~113 |
 | Resolve Amongst Chaos | 0.20% | ~181 |
 | All You Know Is Wrong | 0.20% | ~181 |
+| Shadow Stalkers | 0.20% | ~113 |
 | Avernus Frozen Over | 0.20% | ~113 |
 | Market Fluctuations | 0.20% | ~181 |
 | Once More Into The Breach | 0.20% | ~181 |
@@ -310,7 +312,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | G. O. A. T. | 0.10% | ~57 |
 | Strength of Character | 0.10% | ~57 |
 | Speeds of Destruction | 0.10% | ~57 |
-| The Evacuation of Waterdeep | 0.10% | ~57 |
 | Flapjacks and Waffles | 0.10% | ~57 |
 | Clowning Around | 0.10% | ~57 |
 | A Whale of a Time | 0.10% | ~57 |
@@ -409,7 +410,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~90 |
 | The Nimble Grove | 0.10% | ~90 |
 | The Misty Grove | 0.10% | ~57 |
-| Shadow Stalkers | 0.10% | ~57 |
 | Twice More Into The Breach | 0.10% | ~90 |
 | Thrice More Into The Breach | 0.10% | ~57 |
 | Nightmare Mode | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,265 (Ranked 64)  
+Progressed: 90,268 (Ranked 64)  
 Completed: 1,925 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,14 +550,14 @@ Completed: 1,925 (2.13%) (Ranked 66)
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
-| 2023-06-09 | 90,265 | 1,925 |
+| 2023-06-09 | 90,268 | 1,925 |
 ## Awards
-Max (Diverse Characters): 4,922  (Ranked 64)  
-Sum: 30,061 (Ranked 37)  
+Max (Diverse Characters): 4,925  (Ranked 64)  
+Sum: 30,064 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,922 |
+| This game has Diverse Characters | 4,925 |
 | This game is Great for Beginners | 4,860 |
 | This game has Quickly Understood Controls | 4,613 |
 | This game is Relaxing | 4,509 |
@@ -701,4 +701,4 @@ Diff (max vs sum): 27
 | 2023-06-06 | 4.06 | - | 4,920 | 30,044 |
 | 2023-06-07 | 4.06 | - | 4,920 | 30,049 |
 | 2023-06-08 | 4.06 | - | 4,922 | 30,051 |
-| 2023-06-09 | 4.06 | - | 4,922 | 30,061 |
+| 2023-06-09 | 4.06 | - | 4,925 | 30,064 |

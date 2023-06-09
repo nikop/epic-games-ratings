@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Aspairagus | 55.00% | ~28 |
 | Seeds of War | 50.00% | ~50 |
-| Survivor | 46.00% | ~23 |
+| Survivor | 47.00% | ~24 |
 | First Blood | 37.00% | ~37 |
 | Early Survivor | 35.00% | ~18 |
 | No Diggity | 35.00% | ~18 |
@@ -18,9 +18,9 @@
 | Bouncemato | 24.00% | ~12 |
 | This Is My Boomstick | 23.00% | ~12 |
 | Quick-Draw Pod | 19.00% | ~10 |
+| 10K | 18.00% | ~18 |
 | Professional Survivor | 18.00% | ~9 |
 | 15K | 17.00% | ~17 |
-| 10K | 17.00% | ~17 |
 | Grave Digger | 17.00% | ~8 |
 | Drinking Problem | 13.00% | ~13 |
 | Oh My Gourd | 10.00% | ~5 |
@@ -35,19 +35,19 @@
 | Master Survivor | 6.00% | ~3 |
 | Bring Home The Bacon | 5.00% | ~5 |
 | Fresh Pancake | 4.00% | ~4 |
+| Getting Started | 4.00% | ~4 |
 | Pork Chop Express | 4.00% | ~4 |
 | Carrocketeer | 4.00% | ~4 |
 | Heart Breaker | 4.00% | ~2 |
 | Chick Magnet | 3.00% | ~3 |
-| Getting Started | 3.00% | ~3 |
 | Easy Peasy | 3.00% | ~2 |
+| Pro Pyromancer | 2.00% | ~2 |
 | King of the Crow | 2.00% | ~1 |
 | Tomassacred | 2.00% | ~1 |
 | 15 Days | 1.00% | ~1 |
 | Honk Honk | 1.00% | ~1 |
 | I Have The High Ground | 1.00% | ~1 |
 | Early Bird | 1.00% | ~1 |
-| Pro Pyromancer | 1.00% | ~1 |
 | Pro Carrocketeer | 1.00% | ~1 |
 | Berry Loved | 1.00% | ~0 |
 | Carrocket From Above | 1.00% | ~0 |

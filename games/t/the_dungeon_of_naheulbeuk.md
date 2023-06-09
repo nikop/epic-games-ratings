@@ -1,7 +1,7 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.70 (Ranked 195)  
+Rating: 4.70 (Ranked 194)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,7 +16,7 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 60.00% | ~31 |
 | Way of the Wimp | 56.00% | ~29 |
 | Speedrun | 56.00% | ~29 |
-| Oh, when I'll be level 10... | 54.00% | ~28 |
+| Oh, when I'll be level 10... | 56.00% | ~29 |
 | A beer, two curses, three companions | 46.00% | ~24 |
 | The plot thickens... At the tavern | 46.00% | ~24 |
 | I am the night | 46.00% | ~24 |
@@ -30,10 +30,10 @@ Number of Ratings: 118  (23.09.2022)
 | Torture and Sensibility | 33.00% | ~17 |
 | Gargantua | 33.00% | ~17 |
 | Shiny and Crôm | 31.00% | ~16 |
+| Cursed die | 29.00% | ~15 |
 | The Great Library | 29.00% | ~15 |
 | The Statuette of Gladeulfeurah | 29.00% | ~15 |
 | A tale of adventurers not quite like the others... | 29.00% | ~15 |
-| Cursed die | 27.00% | ~14 |
 | The Famous Dungeon of Naheulbeuk | 25.00% | ~13 |
 | The beards of change | 25.00% | ~13 |
 | The Woman in the High Castle | 23.00% | ~12 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 303)  
+Progressed: 52 (Ranked 304)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |

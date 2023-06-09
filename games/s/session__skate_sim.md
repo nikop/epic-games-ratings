@@ -1,21 +1,21 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.67 (Ranked 259)  
+Rating: 4.67 (Ranked 258)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 54.00% | ~1,265 |
-| Keeping it classy | 24.00% | ~562 |
+| You're free now! | 55.00% | ~1,289 |
+| Keeping it classy | 24.00% | ~563 |
 | Welcome to the family | 18.00% | ~422 |
 | The finer things in life | 16.00% | ~375 |
 | Backpacker | 11.00% | ~258 |
 | Go with the Flow | 11.00% | ~258 |
 | Plastic Surgeon | 9.00% | ~211 |
-| Keep the dream alive | 8.00% | ~187 |
-| The flip trick crown jewel | 8.00% | ~187 |
-| The hard way | 8.00% | ~187 |
+| Keep the dream alive | 8.00% | ~188 |
+| The flip trick crown jewel | 8.00% | ~188 |
+| The hard way | 8.00% | ~188 |
 | Good vibes | 7.00% | ~164 |
 | Upfront shredder | 7.00% | ~164 |
 | Finally he zips it | 6.00% | ~141 |
@@ -34,13 +34,13 @@ Number of Ratings: 111  (23.09.2022)
 | Lines for days | 4.00% | ~94 |
 | Manny Destroys All | 4.00% | ~94 |
 | NAHELL! | 4.00% | ~94 |
-| Prince of Philly | 4.00% | ~94 |
 | Purple passion | 4.00% | ~94 |
 | Renaissance man | 4.00% | ~94 |
 | Tank commander | 4.00% | ~94 |
 | Cops called! | 3.00% | ~70 |
 | G.O.A.T. status | 3.00% | ~70 |
 | Hoarder | 3.00% | ~70 |
+| Prince of Philly | 3.00% | ~70 |
 | Trick shot marksman | 3.00% | ~70 |
 | We get it, you're good | 3.00% | ~70 |
 | Cross lock country | 2.00% | ~47 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,342 (Ranked 149)  
+Progressed: 2,344 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-06 | 2,287 | 0 |
 | 2023-06-07 | 2,306 | 0 |
 | 2023-06-08 | 2,327 | 0 |
-| 2023-06-09 | 2,342 | 0 |
+| 2023-06-09 | 2,344 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 398)  
 Sum: 421 (Ranked 300)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -348,9 +348,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 230896,
+  "EOS_Progressed": 230904,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1433,
+  "EOS_NewPlayers": 1436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5593,6 +5593,11 @@
       "Time": "2023-06-09T22:11:10.5034235+00:00",
       "NumProgressed": 230896,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-09T23:06:26.7411869+00:00",
+      "NumProgressed": 230904,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 52,
@@ -5604,7 +5609,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 62342
+      "UsersEstimate": 62344
     },
     {
       "ID": "ACH_AON",
@@ -5748,7 +5753,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 64651
+      "UsersEstimate": 64653
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -5820,7 +5825,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 55415
+      "UsersEstimate": 55417
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -5924,7 +5929,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 57724
+      "UsersEstimate": 57726
     },
     {
       "ID": "ACH_SOREAD",
@@ -6012,14 +6017,14 @@
       "Name": "Who wouldn\u0027t love a troll?",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 230896,
+      "Progressed": 230904,
       "Completed": 5
     }
   ],
@@ -6027,8 +6032,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-09T19:58:05.9453311+00:00",
-  "LastChanged_Achievements": "2023-06-09T22:11:10.503423+00:00",
+  "LastChanged_Achievements": "2023-06-09T23:06:26.7411866+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:10.0505523+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:02:32.8481181+00:00",
-  "LastUpdate_Achievements": "2023-06-09T22:11:10.5035555+00:00"
+  "LastUpdate_Ratings": "2023-06-09T22:58:10.8533817+00:00",
+  "LastUpdate_Achievements": "2023-06-09T23:06:26.7412456+00:00"
 }

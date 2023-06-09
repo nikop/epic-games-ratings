@@ -584,9 +584,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14873,
+  "EOS_Progressed": 14877,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3349,6 +3349,11 @@
       "Time": "2023-06-09T22:08:56.7482959+00:00",
       "NumProgressed": 14873,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-09T23:04:30.1592288+00:00",
+      "NumProgressed": 14877,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3374,9 +3379,9 @@
       "ID": "BACKSTAB_BLIND",
       "SetID": "4hj6d86",
       "Name": "Giving Back",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 892
+      "UsersEstimate": 1041
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3392,7 +3397,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3424,7 +3429,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -3464,7 +3469,7 @@
       "Name": "Get a Grip",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3472,7 +3477,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "KILL_2HEAD",
@@ -3536,7 +3541,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3544,7 +3549,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -3568,7 +3573,7 @@
       "Name": "Without A Paddle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "STORY_HANGAR",
@@ -3679,13 +3684,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14873,
+      "Progressed": 14877,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2799,
+      "Progressed": 2803,
       "Completed": 29
     }
   ],
@@ -3693,8 +3698,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-09T13:57:54.3107791+00:00",
-  "LastChanged_Achievements": "2023-06-09T22:08:56.7482953+00:00",
+  "LastChanged_Achievements": "2023-06-09T23:04:30.1592283+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:02:27.1178333+00:00",
-  "LastUpdate_Achievements": "2023-06-09T22:08:56.7483842+00:00"
+  "LastUpdate_Ratings": "2023-06-09T22:58:06.1029469+00:00",
+  "LastUpdate_Achievements": "2023-06-09T23:04:30.1592675+00:00"
 }

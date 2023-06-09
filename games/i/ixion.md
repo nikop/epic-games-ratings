@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 444)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 16.00% | ~406 |
+| Wakey Wakey | 16.00% | ~407 |
 | Infinite Growth... | 13.00% | ~330 |
 | Sputnik 2049 | 13.00% | ~330 |
 | Without Breaking Some Eggs... | 12.00% | ~305 |
@@ -42,8 +42,8 @@ Rating: 4.57 (Ranked 444)
 | Pedal to the Metal | 1.00% | ~25 |
 | Pulsar Disciple | 1.00% | ~25 |
 | Catastrophe Avoided | 0.90% | ~23 |
+| Praise the Hull! | 0.90% | ~23 |
 | Space Greenhouse | 0.90% | ~23 |
-| Praise the Hull! | 0.80% | ~20 |
 | You Had One Job... | 0.80% | ~20 |
 | Tiqqun Unchained | 0.70% | ~18 |
 | Help of the Forgotten Member | 0.70% | ~18 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 444)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,539 (Ranked 146)  
+Progressed: 2,541 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-06 | 2,471 | 0 |
 | 2023-06-07 | 2,488 | 0 |
 | 2023-06-08 | 2,515 | 0 |
-| 2023-06-09 | 2,539 | 0 |
+| 2023-06-09 | 2,541 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

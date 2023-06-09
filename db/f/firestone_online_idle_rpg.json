@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1348,
+  "EOS_Progressed": 1349,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2931,6 +2931,11 @@
       "Time": "2023-06-09T18:06:45.8055326+00:00",
       "NumProgressed": 1348,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T23:06:34.6082909+00:00",
+      "NumProgressed": 1349,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3124,9 +3129,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 540
     },
     {
       "ID": "fourleafclover",
@@ -3334,7 +3339,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "prestigiousx10",
@@ -3398,15 +3403,15 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "thealchemist",
       "SetID": "3nl4bcg",
       "Name": "The Alchemist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "theexpeditioner",
@@ -3502,7 +3507,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "warmachinesarmy",
@@ -3534,14 +3539,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1348,
+      "Progressed": 1349,
       "Completed": 1
     }
   ],
@@ -3549,8 +3554,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-09T22:11:19.1368683+00:00",
+  "LastChanged_Achievements": "2023-06-09T23:06:34.6082904+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:02:36.4590629+00:00",
-  "LastUpdate_Achievements": "2023-06-09T22:11:19.136959+00:00"
+  "LastUpdate_Ratings": "2023-06-09T22:58:13.9294408+00:00",
+  "LastUpdate_Achievements": "2023-06-09T23:06:34.6083623+00:00"
 }

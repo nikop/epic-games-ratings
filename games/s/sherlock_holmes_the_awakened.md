@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 62.00% | ~256 |
-| Read Between The Lines | 61.00% | ~252 |
-| High Profile | 55.00% | ~227 |
+| To Hell In A Handcart | 62.00% | ~257 |
+| Read Between The Lines | 61.00% | ~253 |
+| High Profile | 55.00% | ~228 |
 | Whispers In The Dark | 53.00% | ~219 |
-| Fond Memories | 49.00% | ~202 |
+| Fond Memories | 49.00% | ~203 |
+| A Method To His Madness | 47.00% | ~195 |
 | History Check | 46.00% | ~190 |
-| A Method To His Madness | 46.00% | ~190 |
 | Lock, Stock, And Barrel | 43.00% | ~178 |
 | The New World | 43.00% | ~178 |
-| Gaze Into The Abyss | 42.00% | ~173 |
-| Open Sesame | 41.00% | ~169 |
-| Sticky Fingers | 41.00% | ~169 |
-| Knives Out | 41.00% | ~169 |
-| Back In The Saddle | 40.00% | ~165 |
-| Land, Ho! | 40.00% | ~165 |
-| No Man Is An Island | 38.00% | ~157 |
-| At Wits' End | 38.00% | ~157 |
+| Gaze Into The Abyss | 42.00% | ~174 |
+| Open Sesame | 41.00% | ~170 |
+| Sticky Fingers | 41.00% | ~170 |
+| Knives Out | 41.00% | ~170 |
+| Back In The Saddle | 40.00% | ~166 |
+| Land, Ho! | 40.00% | ~166 |
+| No Man Is An Island | 39.00% | ~161 |
+| At Wits' End | 37.00% | ~153 |
 | Fhtagn! | 36.00% | ~149 |
 | Going Once... | 35.00% | ~145 |
 | Bookworm | 35.00% | ~145 |
 | Up In Flames | 35.00% | ~145 |
 | Let Me Be Frank | 32.00% | ~132 |
 | Brain Food | 31.00% | ~128 |
-| No Stone Unturned | 30.00% | ~124 |
+| No Stone Unturned | 29.00% | ~120 |
 | Curiosity Killed The Cat | 20.00% | ~83 |
 | Read It And Weep | 17.00% | ~70 |
 | Big Breakthrough | 15.00% | ~62 |
 | Reawakened | 5.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 413 (Ranked 209)  
-Completed: 16 (3.87%) (Ranked 39)  
+Progressed: 414 (Ranked 209)  
+Completed: 16 (3.86%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,7 +80,7 @@ Completed: 16 (3.87%) (Ranked 39)
 | 2023-06-06 | 384 | 16 |
 | 2023-06-07 | 395 | 16 |
 | 2023-06-08 | 401 | 16 |
-| 2023-06-09 | 413 | 16 |
+| 2023-06-09 | 414 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 868,
+  "Ranking_Rating": 864,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 122,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.13,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -292,15 +292,21 @@
       "Rating": 4.13,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-09T22:58:07.1863304+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6344,
+  "EOS_Progressed": 6351,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -3568,6 +3574,11 @@
       "Time": "2023-06-09T22:08:18.8796826+00:00",
       "NumProgressed": 6344,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-09T23:03:57.8754415+00:00",
+      "NumProgressed": 6351,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 29,
@@ -3579,7 +3590,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5271
     },
     {
       "ID": "ACH02",
@@ -3587,7 +3598,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2032
     },
     {
       "ID": "ACH03",
@@ -3595,7 +3606,7 @@
       "Name": "Escape Artist",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH04",
@@ -3603,7 +3614,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2286
     },
     {
       "ID": "ACH05",
@@ -3619,7 +3630,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1080
     },
     {
       "ID": "ACH07",
@@ -3635,7 +3646,7 @@
       "Name": "Got This Figured Out",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH09",
@@ -3643,7 +3654,7 @@
       "Name": "By a Mile",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH10",
@@ -3651,7 +3662,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1715
     },
     {
       "ID": "ACH11",
@@ -3667,7 +3678,7 @@
       "Name": "Come Out to Play-y-y-y",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH13",
@@ -3675,7 +3686,7 @@
       "Name": "Where To?",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH14",
@@ -3683,7 +3694,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ACH15",
@@ -3699,7 +3710,7 @@
       "Name": "A Marked Man",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACH17",
@@ -3707,7 +3718,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACH18",
@@ -3715,7 +3726,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH19",
@@ -3747,7 +3758,7 @@
       "Name": "Playing Doctor",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH23",
@@ -3755,7 +3766,7 @@
       "Name": "Going Rogue",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH24",
@@ -3763,7 +3774,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ACH25",
@@ -3771,7 +3782,7 @@
       "Name": "Right-hand Man",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH26",
@@ -3810,16 +3821,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6344,
+      "Progressed": 6351,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2023-06-07T13:58:19.7299811+00:00",
-  "LastChanged_Achievements": "2023-06-09T22:08:18.879682+00:00",
+  "LastChanged": "2023-06-09T22:58:07.1863302+00:00",
+  "LastChanged_Achievements": "2023-06-09T23:03:57.875441+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:05.8018306+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:02:28.4369827+00:00",
-  "LastUpdate_Achievements": "2023-06-09T22:08:18.8797599+00:00"
+  "LastUpdate_Ratings": "2023-06-09T22:58:07.1863307+00:00",
+  "LastUpdate_Achievements": "2023-06-09T23:03:57.8754724+00:00"
 }

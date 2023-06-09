@@ -8,6 +8,8 @@
 | Treasure Trove | 5.00% | ~32 |
 | Make Up For Lost Time | 5.00% | ~32 |
 | Cartographer | 5.00% | ~32 |
+| Breaking Down Barriers | 5.00% | ~32 |
+| The Prince in Heels | 5.00% | ~32 |
 | Time Heals All Wounds | 5.00% | ~32 |
 | Immaculate Aim | 5.00% | ~32 |
 | Like Clockwork | 4.00% | ~26 |
@@ -19,9 +21,7 @@
 | The Loose Cannon | 4.00% | ~26 |
 | Time Flies | 4.00% | ~26 |
 | No, Thanks! | 4.00% | ~26 |
-| Breaking Down Barriers | 4.00% | ~26 |
 | The Wicked Twins | 4.00% | ~26 |
-| The Prince in Heels | 4.00% | ~26 |
 | Golem Chaser | 4.00% | ~26 |
 | Fast Learner | 4.00% | ~26 |
 | The Brass Boss | 4.00% | ~26 |
@@ -48,7 +48,7 @@
 | Golem Hunter | 1.00% | ~6 |
 | Rungs Was Right | 1.00% | ~6 |
 | Clovemary for Remembering | 0.90% | ~6 |
-| Hexlock for Protection | 0.60% | ~4 |
+| Hexlock for Protection | 0.80% | ~5 |
 | Fitting In | 0.60% | ~4 |
 | Wunderkind | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |

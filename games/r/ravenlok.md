@@ -36,7 +36,7 @@
 | Extinct Again! | 34.00% | ~333 |
 | Bird of Prey | 34.00% | ~333 |
 | Stardust | 34.00% | ~333 |
-| Heartbreaker | 33.00% | ~323 |
+| Heartbreaker | 34.00% | ~333 |
 | Kidnapped! | 33.00% | ~323 |
 | Trick Question! | 32.00% | ~313 |
 | Pull the Plug | 31.00% | ~303 |
@@ -49,7 +49,7 @@
 | Extraordinary! | 30.00% | ~294 |
 | Mirror, Mirror | 28.00% | ~274 |
 | Flower Power | 25.00% | ~245 |
-| Shopping Spree! | 23.00% | ~225 |
+| Shopping Spree! | 24.00% | ~235 |
 | Crowned | 21.00% | ~206 |
 | Max Level! | 14.00% | ~137 |
 | Dance Master | 8.00% | ~78 |

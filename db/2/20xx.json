@@ -4,11 +4,11 @@
   "ProductSlug": "20xx",
   "Ranking_Rating": 360,
   "Ranking_Popularity": 425,
-  "Ranking_PopularitySum": 343,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-07-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -682,6 +682,6 @@
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
   "LastChanged": "2023-05-25T11:59:26.3577715+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.9432908+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:03:47.8315654+00:00",
-  "LastUpdate_Achievements": "2023-06-09T22:06:34.6376672+00:00"
+  "LastUpdate_Ratings": "2023-06-09T22:59:12.9444424+00:00",
+  "LastUpdate_Achievements": "2023-06-09T23:02:13.453525+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "Achievement_DustToDust",
       "SetID": "c01p6e5",
       "Name": "Dust to Dust",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 357
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -565,9 +565,9 @@
       "ID": "Achievement_SpaceColonization",
       "SetID": "c01p6e5",
       "Name": "Space Colonization",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 501
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -638,8 +638,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-06-09T22:07:38.3621249+00:00",
+  "LastChanged_Achievements": "2023-06-09T23:03:30.1256636+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:13.4644914+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:03:41.4425895+00:00",
-  "LastUpdate_Achievements": "2023-06-09T22:07:38.3621873+00:00"
+  "LastUpdate_Ratings": "2023-06-09T22:59:07.5162558+00:00",
+  "LastUpdate_Achievements": "2023-06-09T23:03:30.1256958+00:00"
 }
