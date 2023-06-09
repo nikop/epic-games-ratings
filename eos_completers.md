@@ -9,13 +9,13 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 10 | [Island Cities](games/i/island_cities.md) | 15.28% |
+| 10 | [Island Cities](games/i/island_cities.md) | 15.51% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.50% |
-| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.68% |
+| 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.38% |
 | 17 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 9.09% |
 | 17 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
@@ -23,9 +23,9 @@
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.16% |
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
-| 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.96% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
+| 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.94% |
 | 27 | [Scorn](games/s/scorn.md) | 6.86% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 6.65% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -36,8 +36,8 @@
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.20% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
-| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.94% |
 | 37 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.94% |
+| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.93% |
 | 39 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.91% |
 | 40 | [Doodle God](games/d/doodle_god.md) | 3.79% |
 | 41 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
@@ -97,11 +97,11 @@
 | 95 | [Adios](games/a/adios.md) | 0.85% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
-| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
 | 98 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
-| 100 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.75% |
-| 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
-| 100 | [Them and Us](games/t/them_and_us.md) | 0.75% |
+| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
+| 99 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.75% |
+| 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
+| 99 | [Them and Us](games/t/them_and_us.md) | 0.75% |
 | 103 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.73% |
 | 104 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.70% |
 | 105 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.68% |
