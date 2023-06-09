@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 2023-06-09 | 6 (1,000 XP) | 28 | - | 0 |
 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 2023-06-09 | 10 (1,000 XP) | 3 | - | - |
 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 2023-06-09 | 20 (1,000 XP) | 0 | - | - |
 | [MADCAR F-1 Multiplayer](games/7/703100e4ec4746ff854e634572e6665e.md) | 2023-06-09 | - |  | - | - |
@@ -47,6 +46,7 @@
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-06-30 | - |  | - | - |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-06-30 | - |  | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-06-30 | - |  | - | - |
+| [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 2023-06-30 | - |  | - | - |
 | [SHAFTED](games/s/shafted.md) | 2023-06-30 | - |  | - | - |
 | [Spiritle](games/f/fb7fec81b0e24770b17b83666e47dddf.md) | 2023-06-30 | - |  | - | - |
 | [Stillborn Slayer](games/s/stillborn_slayer.md) | 2023-06-30 | - |  | - | - |
@@ -81,6 +81,7 @@
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | - |  | - | - |
 | [Outlive](games/o/outlive.md) | 2023-09-14 | - |  | - | - |
 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | - |  | - | - |
+| [Witchfire](games/w/witchfire.md) | 2023-09-20 | - |  | - | - |
 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2023-09-30 | - |  | - | - |
 | [Agatha Christie - Murder on the Orient Express](games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 2023-09-30 | - |  | - | - |
 | [Bloxs](games/b/bloxs.md) | 2023-09-30 | - |  | - | - |
@@ -100,7 +101,6 @@
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2023-09-30 | - |  | - | - |
 | [Oxygen Cocktail](games/b/be46e9830cad476eb46085098aee4afb.md) | 2023-09-30 | - |  | - | - |
 | [Painting Werther](games/p/painting_werther.md) | 2023-09-30 | - |  | - | - |
-| [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 2023-09-30 | - |  | - | - |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | 2023-09-30 | - |  | - | - |
 | [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 0 | - | - |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-09-30 | - |  | - | - |
@@ -360,7 +360,6 @@
 | [Velo](games/v/velo.md) | 2099-01-01 | - |  | - | - |
 | [Vengeance of Mr. Peppermint](games/v/vengeance_of_mr._peppermint.md) | 2099-01-01 | - |  | - | - |
 | [Wayfinder](games/w/wayfinder.md) | 2099-01-01 | - |  | - | - |
-| [Witchfire](games/w/witchfire.md) | 2099-01-01 | - |  | - | - |
 | [Wolfsbane](games/w/wolfsbane.md) | 2099-01-01 | - |  | - | - |
 | [XENOTILT: HOSTILE PINBALL ACTION](games/x/xenotilt__hostile_pinball_action.md) | 2099-01-01 | - |  | - | - |
 | [Zorans: Resistance (Closed Alpha)](games/z/zorans__resistance_(closed_alpha).md) | 2099-01-01 | - |  | - | - |

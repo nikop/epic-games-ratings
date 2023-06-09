@@ -24,7 +24,7 @@
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.64% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.01% |
 | 27 | [Scorn](games/s/scorn.md) | 6.86% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 6.66% |
@@ -38,7 +38,7 @@
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.95% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.94% |
-| 39 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
+| 39 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.91% |
 | 40 | [Doodle God](games/d/doodle_god.md) | 3.79% |
 | 41 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
 | 42 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
@@ -102,7 +102,7 @@
 | 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
 | 100 | [Them and Us](games/t/them_and_us.md) | 0.75% |
-| 103 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.74% |
+| 103 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.73% |
 | 104 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.70% |
 | 105 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.69% |
 | 106 | [Train Valley](games/t/train_valley.md) | 0.68% |

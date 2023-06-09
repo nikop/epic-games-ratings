@@ -18,7 +18,7 @@
 | 13 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.89 | 0 | 494 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 411 | 200 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,704 | 20 |
-| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 296 |
+| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 297 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 256 | 240 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,043 | 75 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 147,835 | 6 |
@@ -39,8 +39,8 @@
 | 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 468 | 190 |
 | 38 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 139 | 292 |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 38 | 421 |
-| 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,604 | 41 |
-| 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,483 | 60 |
+| 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,608 | 41 |
+| 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,485 | 60 |
 | 38 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 332 | 217 |
 | 38 | [GRIT](games/g/grit.md) | 4.85 | 0 | 494 |
 | 38 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 494 |
@@ -55,7 +55,7 @@
 | 50 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 494 |
 | 50 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 408 | 202 |
 | 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 256 | 240 |
-| 50 | [Subnautica](games/s/subnautica.md) | 4.84 | 664 | 161 |
+| 50 | [Subnautica](games/s/subnautica.md) | 4.84 | 666 | 161 |
 | 50 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.84 | 0 | 494 |
 | 58 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 494 |
 | 58 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 494 |
@@ -95,18 +95,18 @@
 | 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 608 | 167 |
 | 90 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 725 | 154 |
 | 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,879 | 55 |
-| 90 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 135 | 296 |
 | 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 370 | 209 |
 | 90 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 309 |
 | 90 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 494 |
 | 90 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 494 |
 | 90 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.79 | 0 | 494 |
-| 102 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,171 | 37 |
-| 102 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 494 |
-| 102 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,300 | 98 |
-| 102 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,084 | 132 |
-| 102 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 494 |
-| 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 912 | 142 |
+| 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,185 | 37 |
+| 101 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 494 |
+| 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,300 | 98 |
+| 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,084 | 132 |
+| 101 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.78 | 136 | 295 |
+| 101 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 494 |
+| 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 912 | 142 |
 | 108 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 0 | 494 |
 | 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,159 | 86 |
 | 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 5,532 | 59 |
@@ -147,7 +147,7 @@
 | 143 | [DOOM II](games/d/doom_ii.md) | 4.74 | 26 | 462 |
 | 143 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.74 | 67 | 369 |
 | 143 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 776 | 148 |
-| 143 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 610 | 166 |
+| 143 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 611 | 166 |
 | 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,646 | 49 |
 | 143 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 32,603 | 14 |
 | 143 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 494 |
