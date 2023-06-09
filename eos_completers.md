@@ -39,13 +39,13 @@
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.93% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.79% |
-| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
+| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 42 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 43 | [The Complex](games/t/the_complex.md) | 3.31% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.28% |
 | 45 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
-| 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.17% |
+| 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.15% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.12% |
 | 48 | [The Bunker](games/t/the_bunker.md) | 3.03% |
 | 49 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
@@ -55,8 +55,8 @@
 | 53 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 53 | [Lamentum](games/l/lamentum.md) | 2.79% |
 | 55 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
-| 56 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.72% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 57 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.70% |
 | 58 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.63% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -88,9 +88,9 @@
 | 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 86 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 88 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
-| 89 | [Late Shift](games/l/late_shift.md) | 1.00% |
+| 89 | [Late Shift](games/l/late_shift.md) | 0.99% |
 | 90 | [Five Dates](games/f/five_dates.md) | 0.96% |
-| 91 | [Sable](games/s/sable.md) | 0.95% |
+| 91 | [Sable](games/s/sable.md) | 0.94% |
 | 92 | [Hades](games/h/hades.md) | 0.89% |
 | 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
 | 93 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
