@@ -20,7 +20,7 @@
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 8.33% |
 | 19 | [Smelter](games/s/smelter.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.14% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.13% |
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
@@ -37,8 +37,8 @@
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.20% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.91% |
-| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
-| 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
+| 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
+| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 40 | [Doodle God](games/d/doodle_god.md) | 3.79% |
 | 41 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.72% |
 | 42 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
@@ -63,8 +63,8 @@
 | 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 62 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
 | 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.22% |
-| 63 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.22% |
-| 65 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
+| 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
+| 64 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 66 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.13% |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 68 | [Iron Danger](games/i/iron_danger.md) | 2.02% |
@@ -84,7 +84,7 @@
 | 82 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.23% |
 | 83 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 84 | [Trifox](games/t/trifox.md) | 1.18% |
-| 85 | [Chorus](games/c/chorus.md) | 1.17% |
+| 85 | [Chorus](games/c/chorus.md) | 1.16% |
 | 86 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.12% |
 | 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 86 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
@@ -104,7 +104,7 @@
 | 101 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
 | 101 | [Them and Us](games/t/them_and_us.md) | 0.75% |
 | 104 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.73% |
-| 105 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.70% |
+| 105 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.69% |
 | 106 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.68% |
 | 106 | [Train Valley](games/t/train_valley.md) | 0.68% |
 | 108 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.65% |
@@ -131,10 +131,10 @@
 | 127 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 127 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
 | 131 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 131 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
-| 133 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
-| 133 | [Godlike Burger](games/g/godlike_burger.md) | 0.30% |
-| 133 | [The Surge](games/t/the_surge.md) | 0.30% |
+| 132 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
+| 132 | [Godlike Burger](games/g/godlike_burger.md) | 0.30% |
+| 132 | [The Surge](games/t/the_surge.md) | 0.30% |
+| 132 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 136 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 137 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 138 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
