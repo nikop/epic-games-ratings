@@ -79,7 +79,7 @@
 | 77 | [Frogun](games/f/frogun.md) | 1.51% |
 | 77 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 79 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.35% |
-| 80 | [Ten Dates](games/t/ten_dates.md) | 1.28% |
+| 80 | [Ten Dates](games/t/ten_dates.md) | 1.27% |
 | 81 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.23% |
 | 82 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 83 | [Trifox](games/t/trifox.md) | 1.18% |
