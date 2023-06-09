@@ -20,14 +20,14 @@
 | 17 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 19 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 20 | [Smelter](games/s/smelter.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.07% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.05% |
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.64% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.01% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.98% |
 | 27 | [Scorn](games/s/scorn.md) | 6.86% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 6.66% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 6.65% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -61,7 +61,7 @@
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 61 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
-| 62 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
+| 62 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.36% |
 | 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.25% |
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 65 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
@@ -92,8 +92,8 @@
 | 90 | [Five Dates](games/f/five_dates.md) | 0.96% |
 | 91 | [Sable](games/s/sable.md) | 0.94% |
 | 92 | [Hades](games/h/hades.md) | 0.89% |
-| 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
-| 94 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
+| 93 | [Dungeons 3](games/d/dungeons_3.md) | 0.86% |
+| 93 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 95 | [Adios](games/a/adios.md) | 0.85% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
@@ -113,7 +113,7 @@
 | 111 | [Grindstone](games/g/grindstone.md) | 0.53% |
 | 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
 | 113 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
-| 114 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
+| 114 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 115 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 117 | [Potion Permit](games/p/potion_permit.md) | 0.44% |
@@ -131,10 +131,10 @@
 | 125 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
 | 130 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 130 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
+| 132 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
 | 132 | [Godlike Burger](games/g/godlike_burger.md) | 0.30% |
 | 132 | [The Surge](games/t/the_surge.md) | 0.30% |
-| 134 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
-| 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
+| 135 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 136 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 137 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
 | 137 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.27% |
