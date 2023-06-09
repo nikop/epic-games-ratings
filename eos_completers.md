@@ -9,7 +9,7 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
-| 10 | [Island Cities](games/i/island_cities.md) | 15.20% |
+| 10 | [Island Cities](games/i/island_cities.md) | 15.15% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
@@ -27,7 +27,7 @@
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.04% |
 | 27 | [Scorn](games/s/scorn.md) | 6.87% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 6.68% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 6.67% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -45,7 +45,7 @@
 | 43 | [The Complex](games/t/the_complex.md) | 3.31% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.28% |
 | 45 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
-| 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.20% |
+| 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.17% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.15% |
 | 48 | [The Bunker](games/t/the_bunker.md) | 3.03% |
 | 49 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
@@ -55,8 +55,8 @@
 | 53 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 53 | [Lamentum](games/l/lamentum.md) | 2.79% |
 | 55 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
-| 56 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.73% |
-| 57 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 56 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.72% |
+| 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 58 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.63% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -84,7 +84,7 @@
 | 82 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 83 | [Trifox](games/t/trifox.md) | 1.18% |
 | 84 | [Chorus](games/c/chorus.md) | 1.17% |
-| 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.15% |
+| 85 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.14% |
 | 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 86 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.12% |
 | 88 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
@@ -97,8 +97,8 @@
 | 95 | [Adios](games/a/adios.md) | 0.85% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 96 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
-| 98 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.77% |
-| 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 98 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.76% |
+| 98 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 100 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
 | 100 | [Them and Us](games/t/them_and_us.md) | 0.75% |
