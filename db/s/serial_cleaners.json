@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 184,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.73,
+  "EOS_Completed_Percentage": 2.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -181,6 +181,11 @@
       "Time": "2023-06-08T10:05:35.4327276+00:00",
       "NumProgressed": 183,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-09T00:06:26.5688015+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 24,
@@ -272,7 +277,7 @@
       "Name": "Business as usual",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DLC01_ACHIEVEMENT01",
@@ -383,13 +388,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 15
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 5
     }
   ],
@@ -397,8 +402,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:06:31.9447145+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:06:26.5688011+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:33.0980588+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:59:44.1203663+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:06:31.9447329+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:59:19.5227739+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:06:26.5688201+00:00"
 }

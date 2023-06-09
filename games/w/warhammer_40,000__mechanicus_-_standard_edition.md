@@ -1,22 +1,22 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 644)  
+Rating: 4.43 (Ranked 645)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,359 |
-| This is only the beginning | 19.00% | ~40,553 |
-| Knowledge is power | 12.00% | ~25,612 |
-| Power Ranger | 9.00% | ~19,209 |
-| Galvanic Rifle | 9.00% | ~19,209 |
-| Taser Goad | 9.00% | ~19,209 |
-| Radium Ready | 9.00% | ~19,209 |
-| Half a cog | 9.00% | ~19,209 |
-| Watch them crumble | 6.00% | ~12,806 |
-| Competent Cohort | 4.00% | ~8,537 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,537 |
-| One with the Machine | 4.00% | ~8,537 |
+| No aid from the Omnissiah | 25.00% | ~53,361 |
+| This is only the beginning | 19.00% | ~40,555 |
+| Knowledge is power | 12.00% | ~25,613 |
+| Power Ranger | 9.00% | ~19,210 |
+| Galvanic Rifle | 9.00% | ~19,210 |
+| Taser Goad | 9.00% | ~19,210 |
+| Radium Ready | 9.00% | ~19,210 |
+| Half a cog | 9.00% | ~19,210 |
+| Watch them crumble | 6.00% | ~12,807 |
+| Competent Cohort | 4.00% | ~8,538 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,538 |
+| One with the Machine | 4.00% | ~8,538 |
 | Legio Cybernetica | 3.00% | ~6,403 |
 | Fleshy Disposal | 3.00% | ~6,403 |
 | Battle Servitor | 2.00% | ~4,269 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 644)
 | Perma-live | 0.10% | ~213 |
 | Purge the Heretek | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,436 (Ranked 49)  
+Progressed: 213,445 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 3 (0.00%) (Ranked 212)
 | 2023-06-06 | 213,194 | 3 |
 | 2023-06-07 | 213,314 | 3 |
 | 2023-06-08 | 213,436 | 3 |
+| 2023-06-09 | 213,445 | 3 |
 ## Awards
 Max (Highly Recommended): 278  (Ranked 233)  
 Sum: 2,104 (Ranked 183)  

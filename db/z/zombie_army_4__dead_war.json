@@ -1611,7 +1611,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42670,
+  "EOS_Progressed": 42671,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
@@ -3446,6 +3446,11 @@
       "Time": "2023-06-08T23:06:47.0408708+00:00",
       "NumProgressed": 42670,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-09T00:06:42.8808449+00:00",
+      "NumProgressed": 42671,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -3489,7 +3494,7 @@
       "Name": "Well equipped",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5120
+      "UsersEstimate": 5121
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -3625,7 +3630,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5120
+      "UsersEstimate": 5121
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -3649,7 +3654,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26455
+      "UsersEstimate": 26456
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3713,7 +3718,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 14934
+      "UsersEstimate": 14935
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -3729,7 +3734,7 @@
       "Name": "Shock therapy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9387
+      "UsersEstimate": 9388
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -3761,7 +3766,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21335
+      "UsersEstimate": 21336
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -3777,7 +3782,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15361
+      "UsersEstimate": 15362
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -3809,7 +3814,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19628
+      "UsersEstimate": 19629
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -3817,7 +3822,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23895
+      "UsersEstimate": 23896
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -3825,7 +3830,7 @@
       "Name": "Stand back boy!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19628
+      "UsersEstimate": 19629
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -3833,7 +3838,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15361
+      "UsersEstimate": 15362
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -3953,7 +3958,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9387
+      "UsersEstimate": 9388
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -3961,7 +3966,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6400
+      "UsersEstimate": 6401
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -3977,22 +3982,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15361
+      "UsersEstimate": 15362
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42670,
+      "Progressed": 42671,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-08T05:00:07.9659591+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:06:47.0408701+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:06:42.8808437+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:15.3124724+00:00",
-  "LastUpdate_Ratings": "2023-06-08T23:00:16.4622027+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:06:47.0409439+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:59:57.3152389+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:06:42.880911+00:00"
 }

@@ -2756,9 +2756,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9650,
+  "EOS_Progressed": 9656,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5946,6 +5946,11 @@
       "Time": "2023-06-08T23:06:48.4869874+00:00",
       "NumProgressed": 9650,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T00:06:44.3004531+00:00",
+      "NumProgressed": 9656,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5957,7 +5962,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "02_BurningCity",
@@ -5973,7 +5978,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "04_FithCrusade",
@@ -5981,7 +5986,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -6021,7 +6026,7 @@
       "Name": "Path of the Demon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "10_PathOfAzata",
@@ -6037,7 +6042,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "12_PathOfTrickster",
@@ -6093,7 +6098,7 @@
       "Name": "Mythic Choices",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "19_EqualToAroden",
@@ -6205,7 +6210,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -6213,7 +6218,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -6325,7 +6330,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "49_Flame",
@@ -6357,7 +6362,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -6853,7 +6858,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -6861,7 +6866,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -6884,21 +6889,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8432,
+      "Progressed": 8438,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9650,
+      "Progressed": 9656,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-08T11:58:44.7153071+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:06:48.4869869+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:06:44.3004526+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:59:01.3102444+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:06:48.4871789+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:58:27.7197736+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:06:44.3006461+00:00"
 }

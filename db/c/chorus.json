@@ -908,9 +908,9 @@
       "ID": "MissionActivateDish",
       "SetID": "a6c395p",
       "Name": "The Crimson Void",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 330
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -1164,8 +1164,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:06:43.910952+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:06:39.5405806+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:26.7111078+00:00",
-  "LastUpdate_Ratings": "2023-06-08T23:00:25.6900338+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:06:43.9109866+00:00"
+  "LastUpdate_Ratings": "2023-06-09T00:00:08.2472364+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:06:39.5406146+00:00"
 }

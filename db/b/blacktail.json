@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 458,
+  "EOS_Progressed": 460,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -794,6 +794,11 @@
       "Time": "2023-06-08T12:06:16.3836343+00:00",
       "NumProgressed": 458,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T00:06:23.5049736+00:00",
+      "NumProgressed": 460,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -893,7 +898,7 @@
       "Name": "Gold rush",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "GossipGirl",
@@ -917,7 +922,7 @@
       "Name": "Spirit animal",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LiarLiar",
@@ -1021,7 +1026,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Toxic",
@@ -1045,7 +1050,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "YagaProfessional",
@@ -1060,7 +1065,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 458,
+      "Progressed": 460,
       "Completed": 1
     }
   ],
@@ -1068,8 +1073,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:06:29.5470109+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:06:23.5049731+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:01.7126872+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:58:38.2350205+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:06:29.5470375+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:57:59.6479339+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:06:23.5049991+00:00"
 }

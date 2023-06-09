@@ -4162,9 +4162,9 @@
       "Count": 3247
     }
   ],
-  "EOS_Progressed": 90164,
+  "EOS_Progressed": 90169,
   "EOS_Completed": 1924,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9192,6 +9192,11 @@
       "Time": "2023-06-08T23:06:52.1051449+00:00",
       "NumProgressed": 90164,
       "NumCompleted": 1924
+    },
+    {
+      "Time": "2023-06-09T00:06:48.3233641+00:00",
+      "NumProgressed": 90169,
+      "NumCompleted": 1924
     }
   ],
   "TotalAchievements": 493,
@@ -9211,7 +9216,7 @@
       "Name": "Maddening",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_100",
@@ -9507,7 +9512,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_1090",
@@ -9571,7 +9576,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "objective_completed_110",
@@ -9763,7 +9768,7 @@
       "Name": "Supply Run",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_1142",
@@ -10387,7 +10392,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_164",
@@ -10403,7 +10408,7 @@
       "Name": "Street War",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_166",
@@ -10435,7 +10440,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_170",
@@ -10539,7 +10544,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_208",
@@ -10619,7 +10624,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_231",
@@ -10651,7 +10656,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_236",
@@ -10899,7 +10904,7 @@
       "Name": "The Death Curse",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_37",
@@ -11147,7 +11152,7 @@
       "Name": "Premature Betrayal",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_410",
@@ -11691,7 +11696,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_590",
@@ -12275,7 +12280,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_690",
@@ -12363,7 +12368,7 @@
       "Name": "Constant Banditry",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_72",
@@ -12379,7 +12384,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_75",
@@ -12411,15 +12416,15 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 541
     },
     {
       "ID": "objective_completed_80",
@@ -12427,7 +12432,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_802",
@@ -13075,7 +13080,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_95",
@@ -13107,7 +13112,7 @@
       "Name": "Rescue in the Jungle",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_completed_1355",
@@ -13146,21 +13151,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56438,
+      "Progressed": 56443,
       "Completed": 2777
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90164,
+      "Progressed": 90169,
       "Completed": 1924
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-08T18:58:33.3558048+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:06:52.1051443+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:06:48.3233635+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:58:47.7032831+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:06:52.1074694+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:58:11.6502783+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:06:48.3260358+00:00"
 }

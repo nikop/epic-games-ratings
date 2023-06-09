@@ -5,21 +5,21 @@ Rating: 4.59 (Ranked 408)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~7,968 |
-| Pay 'n' Spray | 48.00% | ~4,781 |
-| All Dressed Up for San Fierro | 23.00% | ~2,291 |
-| The American Dream | 17.00% | ~1,693 |
+| Getting Started | 80.00% | ~7,971 |
+| Pay 'n' Spray | 48.00% | ~4,783 |
+| All Dressed Up for San Fierro | 23.00% | ~2,292 |
+| The American Dream | 17.00% | ~1,694 |
 | School's Out | 16.00% | ~1,594 |
-| Smooth Moves | 15.00% | ~1,494 |
+| Smooth Moves | 15.00% | ~1,495 |
 | Today Was a Good Day | 13.00% | ~1,295 |
-| What happens in Las Venturas... | 12.00% | ~1,195 |
-| Horror of the Santa Maria | 9.00% | ~896 |
+| What happens in Las Venturas... | 12.00% | ~1,196 |
+| Horror of the Santa Maria | 9.00% | ~897 |
 | Liberty City State of Mind | 7.00% | ~697 |
 | With Extra Dip | 6.00% | ~598 |
 | The End of the Line | 6.00% | ~598 |
 | Original Gangster | 6.00% | ~598 |
 | Saviour | 5.00% | ~498 |
-| Rescue a Kitten Too? | 4.00% | ~398 |
+| Rescue a Kitten Too? | 4.00% | ~399 |
 | They Can’t Stop All of Us | 3.00% | ~299 |
 | What are the Odds | 3.00% | ~299 |
 | I’ll Have Two Number 9s | 2.00% | ~199 |
@@ -41,7 +41,7 @@ Rating: 4.59 (Ranked 408)
 | ...Here we go again | 0.20% | ~20 |
 | I Ain't No Buster | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,960 (Ranked 111)  
+Progressed: 9,964 (Ranked 111)  
 Completed: 17 (0.17%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 17 (0.17%) (Ranked 150)
 | 2023-06-06 | 9,746 | 17 |
 | 2023-06-07 | 9,840 | 17 |
 | 2023-06-08 | 9,960 | 17 |
+| 2023-06-09 | 9,964 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

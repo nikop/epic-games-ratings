@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1062,
+  "EOS_Progressed": 1063,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
@@ -1466,6 +1466,11 @@
       "Time": "2023-06-08T23:04:08.7468245+00:00",
       "NumProgressed": 1062,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T00:03:38.5802877+00:00",
+      "NumProgressed": 1063,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1557,7 +1562,7 @@
       "Name": "Croaked",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "CRUELTY",
@@ -1605,7 +1610,7 @@
       "Name": "Dressed To Kill",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "DR_JONES",
@@ -1661,7 +1666,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1669,7 +1674,7 @@
       "Name": "Five Finger Deathcount",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FRATRICIDE",
@@ -1685,7 +1690,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "GIANT_KILLER",
@@ -1765,7 +1770,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -1781,7 +1786,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "RECYCLER",
@@ -1795,9 +1800,9 @@
       "ID": "RUTHLESS",
       "SetID": "9a4jnji",
       "Name": "Ruthless",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 128
     },
     {
       "ID": "SAVIOR",
@@ -1845,7 +1850,7 @@
       "Name": "Technophobe",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1861,7 +1866,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "THE_WATCHERS",
@@ -1884,7 +1889,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1062,
+      "Progressed": 1063,
       "Completed": 0
     }
   ],
@@ -1892,8 +1897,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-08T20:58:17.2515155+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:04:08.7468238+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:03:38.5802871+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:58:59.4351926+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:04:08.7468734+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:58:25.6748133+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:03:38.5803404+00:00"
 }

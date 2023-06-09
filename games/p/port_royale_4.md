@@ -6,7 +6,7 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~502 |
+| Cabin boy | 81.00% | ~509 |
 | My little farm | 65.00% | ~408 |
 | Every beginning is difficult | 62.00% | ~389 |
 | 3, 2, 1, mine | 55.00% | ~345 |

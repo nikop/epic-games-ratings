@@ -34,12 +34,12 @@ Rating: 4.57 (Ranked 443)
 | BRAWL! | 2.00% | ~50 |
 | All in Good Health | 2.00% | ~50 |
 | From the Past | 2.00% | ~50 |
+| What the Ruins Teach Us | 2.00% | ~50 |
 | Mutual Loyalty | 1.00% | ~25 |
 | ...  in a finite world | 1.00% | ~25 |
 | Sustainable Energy | 1.00% | ~25 |
 | Delivery! | 1.00% | ~25 |
 | Pedal to the Metal | 1.00% | ~25 |
-| What the Ruins Teach Us | 1.00% | ~25 |
 | Pulsar Disciple | 1.00% | ~25 |
 | Catastrophe Avoided | 0.90% | ~23 |
 | Praise the Hull! | 0.80% | ~20 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 443)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,515 (Ranked 146)  
+Progressed: 2,516 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 2,471 | 0 |
 | 2023-06-07 | 2,488 | 0 |
 | 2023-06-08 | 2,515 | 0 |
+| 2023-06-09 | 2,516 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

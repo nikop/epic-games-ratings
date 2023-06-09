@@ -38,8 +38,8 @@
 | Breaking Ground | 15.00% | ~151 |
 | Traffic Jam | 14.00% | ~141 |
 | Assimilated | 14.00% | ~141 |
+| Locusts | 14.00% | ~141 |
 | Traffic Junction | 14.00% | ~141 |
-| Locusts | 13.00% | ~131 |
 | Networker | 13.00% | ~131 |
 | Resistance is futile | 12.00% | ~121 |
 | Max Power | 9.00% | ~91 |

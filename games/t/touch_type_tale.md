@@ -36,7 +36,7 @@
 | The Handyman Can! | 3.00% | ~88 |
 | A Brief Moment of Respite | 3.00% | ~88 |
 | Untouchable | 1.00% | ~29 |
-| All Geared Up | 0.90% | ~26 |
+| All Geared Up | 1.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,944 (Ranked 139)  
 Completed: 9 (0.31%) (Ranked 130)  

@@ -91,9 +91,9 @@
       "ID": "energy800",
       "SetID": "bbgli2k",
       "Name": "Energy Expert",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "gadx",
@@ -355,9 +355,9 @@
       "ID": "squeak100",
       "SetID": "bbgli2k",
       "Name": "OK, I heard you!!",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "wireboxes.all",
@@ -380,8 +380,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:06:24.4375149+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:06:18.1201148+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:08.5593386+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:58:00.6179217+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:06:24.4375438+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:57:14.8585709+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:06:18.1201463+00:00"
 }

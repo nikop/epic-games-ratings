@@ -10,8 +10,8 @@ Number of Ratings: 180  (23.09.2022)
 | First cargo item on board | 71.00% | ~885 |
 | First cargo item waiting | 71.00% | ~885 |
 | First bus stop | 70.00% | ~873 |
+| First passenger waiting | 67.00% | ~835 |
 | First passenger on board | 66.00% | ~823 |
-| First passenger waiting | 66.00% | ~823 |
 | First bus arrived | 65.00% | ~811 |
 | First train station | 64.00% | ~798 |
 | First steam train arrived | 60.00% | ~748 |
@@ -24,7 +24,7 @@ Number of Ratings: 180  (23.09.2022)
 | Settled down | 48.00% | ~599 |
 | First electric train arrived | 47.00% | ~586 |
 | First ship arrived | 46.00% | ~574 |
-| Now what? | 45.00% | ~561 |
+| Now what? | 46.00% | ~574 |
 | High speed | 43.00% | ~536 |
 | Transport shark | 40.00% | ~499 |
 | First aircraft arrived | 40.00% | ~499 |

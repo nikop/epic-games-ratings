@@ -9,18 +9,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~1,803 |
 | The Cursed Farmer | 1.00% | ~902 |
 | The Mad Wizard | 1.00% | ~902 |
-| Beast Intentions | 0.90% | ~811 |
+| Beast Intentions | 0.90% | ~812 |
 | The Court of Storms | 0.90% | ~508 |
 | The Ring of Regeneration | 0.70% | ~631 |
 | Beware the Jabberwock | 0.70% | ~395 |
 | Were-verpowered | 0.60% | ~541 |
 | Seeking Allies | 0.60% | ~541 |
 | Are Ya Chicken? | 0.60% | ~541 |
+| Friendly Imps | 0.60% | ~541 |
 | Coasting to the Finish | 0.60% | ~339 |
 | Checkmate | 0.50% | ~282 |
 | A Persistent Buzzing | 0.50% | ~451 |
 | Mad Cow Disease | 0.50% | ~451 |
-| Friendly Imps | 0.50% | ~451 |
 | Pure Energy | 0.50% | ~451 |
 | Quick or Quack | 0.50% | ~282 |
 | Owlbear Necessities | 0.40% | ~226 |
@@ -35,9 +35,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.40% | ~361 |
 | Exploring Port Nyanzaru | 0.40% | ~361 |
 | The Contagious Curse | 0.40% | ~361 |
-| Maddening | 0.30% | ~270 |
-| The Silken Swamp | 0.30% | ~270 |
-| Supply Run | 0.30% | ~270 |
+| Maddening | 0.30% | ~271 |
+| The Silken Swamp | 0.30% | ~271 |
+| Supply Run | 0.30% | ~271 |
 | Keep Your Distance | 0.30% | ~169 |
 | Hands Off! | 0.30% | ~169 |
 | Frail Doesn't Mean Broken | 0.30% | ~169 |
@@ -47,26 +47,26 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 0.30% | ~169 |
 | No One Can Hear You Scream | 0.30% | ~169 |
 | Welcome to the Rock | 0.30% | ~169 |
-| Low Initiative | 0.30% | ~270 |
-| Street War | 0.30% | ~270 |
-| March of the Undead | 0.30% | ~270 |
-| No Time To Rest | 0.30% | ~270 |
-| The Dinner Party | 0.30% | ~270 |
-| The Botched Kidnapping | 0.30% | ~270 |
-| The Death Curse | 0.30% | ~270 |
-| Premature Betrayal | 0.30% | ~270 |
-| Running of the Saurs | 0.30% | ~270 |
+| Low Initiative | 0.30% | ~271 |
+| Street War | 0.30% | ~271 |
+| March of the Undead | 0.30% | ~271 |
+| No Time To Rest | 0.30% | ~271 |
+| The Dinner Party | 0.30% | ~271 |
+| The Botched Kidnapping | 0.30% | ~271 |
+| The Death Curse | 0.30% | ~271 |
+| Premature Betrayal | 0.30% | ~271 |
+| Running of the Saurs | 0.30% | ~271 |
 | Hearts Aflame | 0.30% | ~169 |
 | Bad Odds in Avernus | 0.30% | ~169 |
 | An Even Worse Time in Avernus | 0.30% | ~169 |
-| Escort to Waterdeep | 0.30% | ~270 |
-| Constant Banditry | 0.30% | ~270 |
-| Waterdeep Detours | 0.30% | ~270 |
-| Underdeep Cartography | 0.30% | ~270 |
-| Overdue Rendezvous | 0.30% | ~270 |
+| Escort to Waterdeep | 0.30% | ~271 |
+| Constant Banditry | 0.30% | ~271 |
+| Waterdeep Detours | 0.30% | ~271 |
+| Underdeep Cartography | 0.30% | ~271 |
+| Overdue Rendezvous | 0.30% | ~271 |
 | How Far Away is Thay | 0.30% | ~169 |
-| The Templar's Camp | 0.30% | ~270 |
-| Rescue in the Jungle | 0.30% | ~270 |
+| The Templar's Camp | 0.30% | ~271 |
+| Rescue in the Jungle | 0.30% | ~271 |
 | Pros and CONs | 0.20% | ~180 |
 | Upholding the Law | 0.20% | ~180 |
 | Tall Tales | 0.20% | ~113 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,164 (Ranked 63)  
+Progressed: 90,169 (Ranked 63)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,6 +550,7 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
+| 2023-06-09 | 90,169 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
 Sum: 30,051 (Ranked 37)  

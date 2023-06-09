@@ -1522,9 +1522,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 226623,
+  "EOS_Progressed": 226633,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2376,
+  "EOS_NewPlayers": 2368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6682,6 +6682,11 @@
       "Time": "2023-06-08T23:06:24.3170012+00:00",
       "NumProgressed": 226623,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T00:06:17.884914+00:00",
+      "NumProgressed": 226633,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -6741,7 +6746,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24929
+      "UsersEstimate": 24930
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -6813,7 +6818,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4532
+      "UsersEstimate": 4533
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -6861,7 +6866,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4532
+      "UsersEstimate": 4533
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -6917,7 +6922,7 @@
       "Name": "Ball Launched",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 183565
+      "UsersEstimate": 183573
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -6925,22 +6930,22 @@
       "Name": "I know the Rules",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 95182
+      "UsersEstimate": 95186
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 226623,
+      "Progressed": 226633,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-06-08T20:58:52.1861518+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:06:24.3170008+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:06:17.8849129+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:19.4904817+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:59:34.5543658+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:06:24.317048+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:59:07.2465903+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:06:17.8849715+00:00"
 }

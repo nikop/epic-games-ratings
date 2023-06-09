@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 749)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~181,087 |
+| Boarded! | 94.00% | ~181,094 |
 | Snooper. | 10.00% | ~19,265 |
-| You have to start somewhere, right? | 7.00% | ~13,485 |
+| You have to start somewhere, right? | 7.00% | ~13,486 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,559 |
-| Corrupted. | 5.00% | ~9,632 |
-| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,632 |
-| Answers can be found amongst the stars | 3.00% | ~5,779 |
-| Bend to the will of the arrows. | 3.00% | ~5,779 |
+| Corrupted. | 5.00% | ~9,633 |
+| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,633 |
+| Answers can be found amongst the stars | 3.00% | ~5,780 |
+| Bend to the will of the arrows. | 3.00% | ~5,780 |
 | You've been through a lot. | 2.00% | ~3,853 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~3,853 |
 | I hope your remember your colour theory. | 2.00% | ~3,853 |
@@ -24,7 +24,7 @@ Rating: 4.32 (Ranked 749)
 | They're like really flat pillars. | 2.00% | ~3,853 |
 | That's a wrap. | 2.00% | ~3,853 |
 | In balance. | 2.00% | ~3,853 |
-| I hope you're ready. | 1.00% | ~1,926 |
+| I hope you're ready. | 1.00% | ~1,927 |
 | Cockpit | 0.70% | ~1,349 |
 | Names to faces. | 0.70% | ~1,349 |
 | Witness it. | 0.70% | ~1,349 |
@@ -35,7 +35,7 @@ Rating: 4.32 (Ranked 749)
 | Snooper + | 0.40% | ~771 |
 | Corrupted + | 0.30% | ~578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,646 (Ranked 50)  
+Progressed: 192,653 (Ranked 50)  
 Completed: 432 (0.22%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,13 +85,14 @@ Completed: 432 (0.22%) (Ranked 141)
 | 2023-06-06 | 192,442 | 432 |
 | 2023-06-07 | 192,536 | 432 |
 | 2023-06-08 | 192,646 | 432 |
+| 2023-06-09 | 192,653 | 432 |
 ## Awards
-Max (Challenging Puzzles): 553  (Ranked 176)  
-Sum: 667 (Ranked 269)  
+Max (Challenging Puzzles): 554  (Ranked 176)  
+Sum: 668 (Ranked 269)  
 Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 553 |
+| This game features Challenging Puzzles | 554 |
 | This game has Amazing Characters | 25 |
 | This game is Highly Recommended | 24 |
 | This game has Quickly Understood Controls | 23 |
@@ -121,3 +122,4 @@ Diff (max vs sum): -93
 | 2023-04-27 | 4.32 | 551 | 665 |
 | 2023-05-15 | 4.32 | 552 | 666 |
 | 2023-06-02 | 4.32 | 553 | 667 |
+| 2023-06-08 | 4.32 | 554 | 668 |

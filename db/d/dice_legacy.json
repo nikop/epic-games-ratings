@@ -855,9 +855,9 @@
       "ID": "EXILED_DESTROY_CAMP",
       "SetID": "6ohhfoc",
       "Name": "Burn and Pillage",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "EXILED_MERCHANT_FRIEND",
@@ -1072,8 +1072,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:06:26.4681735+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:06:20.2506098+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:51.047236+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:58:30.8284163+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:06:26.4682122+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:57:51.2875559+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:06:20.2506462+00:00"
 }

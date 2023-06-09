@@ -31,10 +31,10 @@
 | The Flower | 18.00% | ~17 |
 | The Blacksmith | 17.00% | ~16 |
 | Out of the Frying Pan... | 17.00% | ~16 |
-| The Ooze | 15.00% | ~14 |
+| The Ooze | 16.00% | ~15 |
 | Turquoise | 15.00% | ~14 |
 | The Assistant | 14.00% | ~13 |
-| Ember | 13.00% | ~12 |
+| Ember | 14.00% | ~13 |
 | The Steampunk | 12.00% | ~11 |
 | Verse | 12.00% | ~11 |
 | The Droid | 11.00% | ~10 |

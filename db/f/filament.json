@@ -151,18 +151,24 @@
       "Rating": 4.32,
       "NumberOfAwards": 667,
       "NumberOfAwardsMax": 553
+    },
+    {
+      "Time": "2023-06-08T23:58:58.2054929+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 668,
+      "NumberOfAwardsMax": 554
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 667,
-  "NumberOfAwardsMax": 553,
+  "NumberOfAwards": 668,
+  "NumberOfAwardsMax": 554,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 553
+      "Count": 554
     },
     {
       "Text": "This game is Highly Recommended",
@@ -201,9 +207,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 192646,
+  "EOS_Progressed": 192653,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -5276,6 +5282,11 @@
       "Time": "2023-06-08T23:06:22.5279187+00:00",
       "NumProgressed": 192646,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-06-09T00:06:15.7125655+00:00",
+      "NumProgressed": 192653,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 29,
@@ -5311,7 +5322,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 181087
+      "UsersEstimate": 181094
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -5327,7 +5338,7 @@
       "Name": "I hope you\u0027re ready.",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "ACHIEVEMENT_CARDS",
@@ -5359,7 +5370,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5779
+      "UsersEstimate": 5780
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -5367,7 +5378,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9632
+      "UsersEstimate": 9633
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -5447,7 +5458,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9632
+      "UsersEstimate": 9633
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -5455,7 +5466,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5779
+      "UsersEstimate": 5780
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -5487,7 +5498,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13485
+      "UsersEstimate": 13486
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -5518,16 +5529,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 192646,
+      "Progressed": 192653,
       "Completed": 432
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2023-06-02T10:59:31.3885731+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:06:22.5279182+00:00",
+  "LastChanged": "2023-06-08T23:58:58.2054928+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:06:15.7125649+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:06.3904528+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:59:27.0760638+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:06:22.5279691+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:58:58.2054934+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:06:15.7126187+00:00"
 }

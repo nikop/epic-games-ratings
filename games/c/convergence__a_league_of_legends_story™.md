@@ -7,6 +7,8 @@
 | The Steel Shadow | 4.00% | ~25 |
 | Treasure Trove | 4.00% | ~25 |
 | Cartographer | 4.00% | ~25 |
+| Time Heals All Wounds | 4.00% | ~25 |
+| Immaculate Aim | 4.00% | ~25 |
 | Chaincrawler Explorer | 3.00% | ~19 |
 | Like Clockwork | 3.00% | ~19 |
 | Street Style | 3.00% | ~19 |
@@ -24,11 +26,10 @@
 | Breaking Down Barriers | 3.00% | ~19 |
 | The Wicked Twins | 3.00% | ~19 |
 | The Prince in Heels | 3.00% | ~19 |
-| Time Heals All Wounds | 3.00% | ~19 |
 | Golem Chaser | 3.00% | ~19 |
+| Fast Learner | 3.00% | ~19 |
 | Sump Explorer | 3.00% | ~19 |
 | Check Your Pulse | 3.00% | ~19 |
-| Immaculate Aim | 3.00% | ~19 |
 | The Brass Boss | 3.00% | ~19 |
 | The Family Fortune | 3.00% | ~19 |
 | Right On Time | 2.00% | ~13 |
@@ -37,7 +38,6 @@
 | Factorywood Explorer | 2.00% | ~13 |
 | Fairgrounds Explorer | 2.00% | ~13 |
 | Honest Mistake | 2.00% | ~13 |
-| Fast Learner | 2.00% | ~13 |
 | Theater Explorer | 2.00% | ~13 |
 | Immaculate Aim | 2.00% | ~13 |
 | Ask Questions Later | 2.00% | ~13 |
@@ -49,7 +49,7 @@
 | Syron for Hope | 1.00% | ~6 |
 | Hexlock for Protection | 0.60% | ~4 |
 | Fitting In | 0.60% | ~4 |
-| Clovemary for Remembering | 0.30% | ~2 |
+| Clovemary for Remembering | 0.50% | ~3 |
 | Wunderkind | 0.30% | ~2 |
 | Thinking Two Steps Ahead | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 633 (Ranked 192)  
+Progressed: 634 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,3 +80,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 615 | 0 |
 | 2023-06-07 | 624 | 0 |
 | 2023-06-08 | 633 | 0 |
+| 2023-06-09 | 634 | 0 |

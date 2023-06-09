@@ -8,9 +8,9 @@ Rating: 4.27 (Ranked 783)
 | We made it | 31.00% | ~263 |
 | The City | 8.00% | ~68 |
 | Manipulating Fate | 7.00% | ~59 |
+| Burn and Pillage | 5.00% | ~42 |
 | Hear me out | 5.00% | ~42 |
 | Full house | 4.00% | ~34 |
-| Burn and Pillage | 4.00% | ~34 |
 | Greedy | 4.00% | ~34 |
 | Hidden Secrets | 4.00% | ~34 |
 | Listening to the crowd | 4.00% | ~34 |

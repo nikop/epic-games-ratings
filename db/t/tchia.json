@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6365,
+  "EOS_Progressed": 6366,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
@@ -3173,6 +3173,11 @@
       "Time": "2023-06-08T22:05:49.4041078+00:00",
       "NumProgressed": 6365,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-09T00:06:09.4767397+00:00",
+      "NumProgressed": 6366,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -3208,7 +3213,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -3232,7 +3237,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -3246,9 +3251,9 @@
       "ID": "FASHION_VICTIM",
       "SetID": "3cck1g6",
       "Name": "Fashion Victim",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 127
+      "UsersEstimate": 191
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -3336,7 +3341,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "THING",
@@ -3351,7 +3356,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6365,
+      "Progressed": 6366,
       "Completed": 23
     }
   ],
@@ -3359,8 +3364,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:06:17.0216234+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:06:09.4767393+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:58:41.6627311+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:06:17.0216559+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:58:03.8102216+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:06:09.4767761+00:00"
 }

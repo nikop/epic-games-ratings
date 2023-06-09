@@ -1566,9 +1566,9 @@
       "Count": 206
     }
   ],
-  "EOS_Progressed": 19420,
+  "EOS_Progressed": 19422,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4031,6 +4031,11 @@
       "Time": "2023-06-08T23:06:26.9873856+00:00",
       "NumProgressed": 19420,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-09T00:06:20.7427138+00:00",
+      "NumProgressed": 19422,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4042,7 +4047,7 @@
       "Name": "Family man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "CarMechanic",
@@ -4090,7 +4095,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18255
+      "UsersEstimate": 18257
     },
     {
       "ID": "GameOver",
@@ -4130,7 +4135,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "KnockKnock",
@@ -4202,7 +4207,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6020
+      "UsersEstimate": 6021
     },
     {
       "ID": "VeronicaLiptson",
@@ -4225,15 +4230,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19420,
+      "Progressed": 19422,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-06T20:00:30.0103604+00:00",
-  "LastChanged_Achievements": "2023-06-08T23:06:26.9873851+00:00",
+  "LastChanged_Achievements": "2023-06-09T00:06:20.7427131+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:48.5773225+00:00",
-  "LastUpdate_Ratings": "2023-06-08T22:59:55.7178703+00:00",
-  "LastUpdate_Achievements": "2023-06-08T23:06:26.9874138+00:00"
+  "LastUpdate_Ratings": "2023-06-08T23:59:32.5993262+00:00",
+  "LastUpdate_Achievements": "2023-06-09T00:06:20.7427497+00:00"
 }

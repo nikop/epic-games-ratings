@@ -5,12 +5,12 @@ Rating: 4.50 (Ranked 545)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~678 |
-| Confirming Suspicions | 23.00% | ~557 |
-| The Kraken Wakes | 19.00% | ~460 |
+| Meeting Resistance | 28.00% | ~679 |
+| Confirming Suspicions | 23.00% | ~558 |
+| The Kraken Wakes | 19.00% | ~461 |
 | It's Starting to Crack | 16.00% | ~388 |
-| Lord of War | 14.00% | ~339 |
-| Change the Channel | 14.00% | ~339 |
+| Lord of War | 14.00% | ~340 |
+| Change the Channel | 14.00% | ~340 |
 | Resourceful | 13.00% | ~315 |
 | Taking it back | 12.00% | ~291 |
 | Organ Grinder | 10.00% | ~242 |
@@ -23,11 +23,11 @@ Rating: 4.50 (Ranked 545)
 | Gunslinger | 8.00% | ~194 |
 | Sharpshooter | 8.00% | ~194 |
 | Explosive Efficiency | 8.00% | ~194 |
-| Opposing Force | 6.00% | ~145 |
-| Die Nussknacker Sweet! | 6.00% | ~145 |
-| Der Geist | 6.00% | ~145 |
-| Close Quarters | 6.00% | ~145 |
-| Snake in the Grass | 6.00% | ~145 |
+| Opposing Force | 6.00% | ~146 |
+| Die Nussknacker Sweet! | 6.00% | ~146 |
+| Der Geist | 6.00% | ~146 |
+| Close Quarters | 6.00% | ~146 |
+| Snake in the Grass | 6.00% | ~146 |
 | Climbing the Ladder | 5.00% | ~121 |
 | No Stone Unturned | 5.00% | ~121 |
 | Fields of Glory | 5.00% | ~121 |
@@ -55,8 +55,8 @@ Rating: 4.50 (Ranked 545)
 | Eagle Eyed | 0.50% | ~12 |
 | Up close and personal | 0.50% | ~12 |
 | Shoot for the Moon | 0.50% | ~12 |
-| If You Go Down To The Woods Today | 0.40% | ~9 |
-| Fight Another Day | 0.40% | ~9 |
+| If You Go Down To The Woods Today | 0.40% | ~10 |
+| Fight Another Day | 0.40% | ~10 |
 | Can't Outrun A Bullet | 0.30% | ~7 |
 | Reich To The Point | 0.30% | ~7 |
 | Sink or Swim | 0.30% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 545)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,422 (Ranked 148)  
+Progressed: 2,425 (Ranked 148)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
+| 2023-06-09 | 2,425 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

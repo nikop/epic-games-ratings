@@ -6,16 +6,16 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,829 |
-| Biggest Communism Builder | 24.00% | ~28,997 |
-| The World's Most Laughable Centrist | 20.00% | ~24,164 |
-| Il Coppo Del'Arte! | 18.00% | ~21,747 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,331 |
-| Hyperstellar Law Official | 15.00% | ~18,123 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~16,915 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,706 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,706 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,290 |
+| Goodest Of The Good Cops | 28.00% | ~33,831 |
+| Biggest Communism Builder | 24.00% | ~28,998 |
+| The World's Most Laughable Centrist | 20.00% | ~24,165 |
+| Il Coppo Del'Arte! | 18.00% | ~21,749 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,332 |
+| Hyperstellar Law Official | 15.00% | ~18,124 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~16,916 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,707 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,707 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,291 |
 | The Figurines Won't Win Her Back | 9.00% | ~10,874 |
 | Unbelievably Boring **** | 8.00% | ~9,666 |
 | Enemy Of The Physical Realm | 8.00% | ~9,666 |
@@ -24,10 +24,10 @@ Number of Ratings: 1,611  (23.09.2022)
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,833 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,625 |
 | Bother Kim After Hours | 3.00% | ~3,625 |
-| Baddest Of the Bad Cops | 2.00% | ~2,416 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,416 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,416 |
-| Wheel of Pleasure and Light | 2.00% | ~2,416 |
+| Baddest Of the Bad Cops | 2.00% | ~2,417 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,417 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,417 |
+| Wheel of Pleasure and Light | 2.00% | ~2,417 |
 | Massive Torque Dork | 1.00% | ~1,208 |
 | Avowed Inframaterialist | 0.90% | ~1,087 |
 | Real Musor | 0.90% | ~1,087 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~121 |
 | What body? | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,819 (Ranked 58)  
+Progressed: 120,826 (Ranked 58)  
 Completed: 25 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,13 +97,14 @@ Completed: 25 (0.02%) (Ranked 195)
 | 2023-06-06 | 120,595 | 25 |
 | 2023-06-07 | 120,702 | 25 |
 | 2023-06-08 | 120,819 | 25 |
+| 2023-06-09 | 120,826 | 25 |
 ## Awards
-Max (Character Customization): 692  (Ranked 157)  
-Sum: 1,050 (Ranked 230)  
+Max (Character Customization): 694  (Ranked 157)  
+Sum: 1,052 (Ranked 230)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 692 |
+| This game has Inclusive Character Customization | 694 |
 | This game has Amazing Storytelling | 46 |
 | This game is Educational | 43 |
 | This game is Highly Recommended | 42 |
@@ -217,3 +218,4 @@ Diff (max vs sum): -73
 | 2023-05-31 | 4.86 | - | 691 | 1,047 |
 | 2023-06-05 | 4.86 | - | 691 | 1,049 |
 | 2023-06-07 | 4.86 | - | 692 | 1,050 |
+| 2023-06-08 | 4.86 | - | 694 | 1,052 |

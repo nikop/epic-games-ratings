@@ -33,7 +33,7 @@
 | No Page Unturned | 4.00% | ~4 |
 | The Missing Piece | 4.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 274)  
+Progressed: 99 (Ranked 275)  
 Completed: 3 (3.03%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
