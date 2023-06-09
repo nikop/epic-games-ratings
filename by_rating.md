@@ -85,21 +85,21 @@
 | 81 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,382 | 95 |
 | 81 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 325 |
 | 81 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 494 |
+| 81 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.80 | 0 | 494 |
 | 81 | [The Messenger](games/t/the_messenger.md) | 4.80 | 317 | 225 |
 | 81 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 494 |
 | 81 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 494 |
 | 81 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 494 |
-| 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,451 | 117 |
-| 90 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 375 | 208 |
-| 90 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 494 |
-| 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 612 | 166 |
-| 90 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 725 | 154 |
-| 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,881 | 55 |
-| 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 370 | 209 |
-| 90 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 309 |
-| 90 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 494 |
-| 90 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 494 |
-| 90 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.79 | 0 | 494 |
+| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,452 | 117 |
+| 91 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 375 | 208 |
+| 91 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 494 |
+| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 612 | 166 |
+| 91 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 725 | 154 |
+| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,881 | 55 |
+| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 370 | 209 |
+| 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 309 |
+| 91 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 494 |
+| 91 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 494 |
 | 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,185 | 37 |
 | 101 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 494 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,300 | 98 |
@@ -171,7 +171,7 @@
 | 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 466 | 191 |
 | 169 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 494 |
 | 169 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 139 | 292 |
-| 169 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 417 |
+| 169 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 418 |
 | 169 | [shapez](games/s/shapez.md) | 4.72 | 183 | 270 |
 | 169 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 494 |
 | 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 494 |
@@ -232,7 +232,7 @@
 | 219 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 44 | 407 |
 | 219 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.69 | 0 | 494 |
 | 219 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 494 |
-| 219 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 39 | 417 |
+| 219 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 39 | 418 |
 | 219 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 889 | 143 |
 | 219 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 494 |
 | 219 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 494 |
@@ -488,7 +488,7 @@
 | 476 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 342 |
 | 476 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 494 |
 | 476 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 0 | 494 |
-| 476 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,173 | 127 |
+| 476 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,174 | 127 |
 | 490 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,338 | 69 |
 | 490 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 435 |
 | 490 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,117 | 129 |
@@ -548,7 +548,7 @@
 | 529 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 0 | 494 |
 | 547 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 210 | 256 |
 | 547 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 494 |
-| 547 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 39 | 417 |
+| 547 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 40 | 415 |
 | 547 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 89 | 342 |
 | 547 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 494 |
 | 547 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,719 | 13 |
@@ -724,7 +724,7 @@
 | 718 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,492 | 27 |
 | 718 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 494 |
 | 718 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 466 |
-| 718 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 39 | 417 |
+| 718 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 39 | 418 |
 | 718 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 494 |
 | 727 | [Ashen](games/a/ashen.md) | 4.35 | 0 | 494 |
 | 727 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 494 |
@@ -745,7 +745,7 @@
 | 743 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 494 |
 | 743 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 116 | 311 |
 | 743 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 494 |
-| 743 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 73 | 360 |
+| 743 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 74 | 357 |
 | 743 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 494 |
 | 743 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 482 |
 | 749 | [Filament](games/f/filament.md) | 4.32 | 554 | 177 |
