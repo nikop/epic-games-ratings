@@ -4192,9 +4192,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90256,
+  "EOS_Progressed": 90262,
   "EOS_Completed": 1925,
-  "EOS_NewPlayers": 720,
+  "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9317,6 +9317,11 @@
       "Time": "2023-06-09T20:06:36.1517418+00:00",
       "NumProgressed": 90256,
       "NumCompleted": 1925
+    },
+    {
+      "Time": "2023-06-09T21:05:48.4789335+00:00",
+      "NumProgressed": 90262,
+      "NumCompleted": 1925
     }
   ],
   "TotalAchievements": 493,
@@ -9446,9 +9451,9 @@
       "ID": "objective_completed_1057",
       "SetID": "415jc5c",
       "Name": "A Dragon Against Us",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_1058",
@@ -10134,9 +10139,9 @@
       "ID": "objective_completed_1188",
       "SetID": "415jc5c",
       "Name": "The Castle of a Thousand Vecnas",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 170
     },
     {
       "ID": "objective_completed_1189",
@@ -11486,9 +11491,9 @@
       "ID": "objective_completed_541",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Fiends",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_542",
@@ -13271,21 +13276,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56530,
+      "Progressed": 56536,
       "Completed": 2779
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90256,
+      "Progressed": 90262,
       "Completed": 1925
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-09T18:57:59.8453404+00:00",
-  "LastChanged_Achievements": "2023-06-09T20:06:36.1517407+00:00",
+  "LastChanged_Achievements": "2023-06-09T21:05:48.478933+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-09T19:58:11.7017927+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:06:36.1544143+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:57:58.0308406+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:05:48.4812294+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 452,
   "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 317,
+  "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-03-19T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1276,10 +1276,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 357,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-06-09T21:00:07.5106229+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 359,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 357,
+  "NumberOfAwards": 359,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1305,7 +1311,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 48
+      "Count": 50
     },
     {
       "Text": "This game is Relaxing",
@@ -1367,8 +1373,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-06-08T17:00:49.2538926+00:00",
+  "LastChanged": "2023-06-09T21:00:07.5106228+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:06.5124354+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:00:51.7909945+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:03:53.7941531+00:00"
+  "LastUpdate_Ratings": "2023-06-09T21:00:07.5106233+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:03:20.9055546+00:00"
 }

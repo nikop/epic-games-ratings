@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~704 |
+| Diligence as a goal | 4.00% | ~705 |
 | Project Arena | 3.00% | ~528 |
 | The Old Grandmaster | 1.00% | ~7,083 |
 | The Assault | 1.00% | ~7,083 |
@@ -28,8 +28,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | The best strikes are the ones we avoid | 1.00% | ~176 |
 | Old Child | 0.90% | ~6,375 |
 | Take damage to save time | 0.90% | ~6,375 |
-| Scareless | 0.80% | ~5,666 |
-| Kung-Fu Tussle | 0.80% | ~5,666 |
+| Scareless | 0.80% | ~5,667 |
+| Kung-Fu Tussle | 0.80% | ~5,667 |
 | Dance of the Praying Mantis | 0.70% | ~4,958 |
 | Qi Gong: Mind | 0.70% | ~4,958 |
 | I know Kung-Fu | 0.70% | ~4,958 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,309 (Ranked 16)  
+Progressed: 708,314 (Ranked 16)  
 Completed: 12,764 (1.80%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,17 +107,17 @@ Completed: 12,764 (1.80%) (Ranked 71)
 | 2023-06-06 | 707,727 | 12,763 |
 | 2023-06-07 | 707,910 | 12,763 |
 | 2023-06-08 | 708,100 | 12,763 |
-| 2023-06-09 | 708,309 | 12,764 |
+| 2023-06-09 | 708,314 | 12,764 |
 ## Awards
 Max (Great Boss Battles): 6,153  (Ranked 52)  
-Sum: 10,498 (Ranked 78)  
+Sum: 10,499 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,153 |
 | This game has Diverse Characters | 526 |
 | This game has Challenging Combat | 518 |
-| This game has Quickly Understood Controls | 509 |
+| This game has Quickly Understood Controls | 510 |
 | This game is Extremely Fun | 503 |
 | This game has Amazing Storytelling | 501 |
 | This game has Amazing Characters | 486 |
@@ -272,4 +272,4 @@ Diff (max vs sum): -26
 | 2023-06-06 | 4.82 | - | 6,142 | 10,478 |
 | 2023-06-07 | 4.82 | - | 6,142 | 10,479 |
 | 2023-06-08 | 4.82 | - | 6,151 | 10,492 |
-| 2023-06-09 | 4.82 | - | 6,153 | 10,498 |
+| 2023-06-09 | 4.82 | - | 6,153 | 10,499 |

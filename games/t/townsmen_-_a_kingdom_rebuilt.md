@@ -84,6 +84,7 @@ Number of Ratings: 37  (23.09.2022)
 | Negotiator | 0.40% | ~17 |
 | I've been everywhere IV | 0.40% | ~17 |
 | I've been everywhere III | 0.40% | ~17 |
+| Governor-elect | 0.40% | ~17 |
 | Little place in the country | 0.40% | ~17 |
 | I've been everywhere VIII | 0.40% | ~17 |
 | An honorable departure | 0.40% | ~17 |
@@ -93,7 +94,6 @@ Number of Ratings: 37  (23.09.2022)
 | It went unnoticed | 0.30% | ~12 |
 | Brew master | 0.30% | ~12 |
 | Panacea | 0.30% | ~12 |
-| Governor-elect | 0.30% | ~12 |
 | I've been everywhere IX | 0.30% | ~12 |
 | I've been everywhere X | 0.30% | ~12 |
 | Waterways | 0.30% | ~12 |

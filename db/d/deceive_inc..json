@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -148,7 +148,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6687,
+  "EOS_Progressed": 6688,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
@@ -3973,6 +3973,11 @@
       "Time": "2023-06-09T20:06:20.5335274+00:00",
       "NumProgressed": 6687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T21:05:34.3550143+00:00",
+      "NumProgressed": 6688,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -4040,7 +4045,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "0009",
@@ -4088,7 +4093,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "0015",
@@ -4152,7 +4157,7 @@
       "Name": "PHD in VIP",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "0023",
@@ -4176,7 +4181,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "0026",
@@ -4208,7 +4213,7 @@
       "Name": "A view to Win",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "0030",
@@ -4271,7 +4276,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6687,
+      "Progressed": 6688,
       "Completed": 0
     }
   ],
@@ -4279,8 +4284,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-06-09T20:06:20.5335271+00:00",
+  "LastChanged_Achievements": "2023-06-09T21:05:34.3550139+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:04.3175816+00:00",
-  "LastUpdate_Ratings": "2023-06-09T19:59:52.4194576+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:06:20.533592+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:59:19.8419137+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:05:34.3550703+00:00"
 }

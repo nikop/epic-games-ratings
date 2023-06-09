@@ -14,42 +14,42 @@
 | Destroy Erase Improve | 62.00% | ~91 |
 | Power Overload | 61.00% | ~89 |
 | Quite A Snack | 55.00% | ~80 |
-| Overwhelming Power | 52.00% | ~76 |
+| Overwhelming Power | 53.00% | ~77 |
 | Impenetrable Skin | 51.00% | ~74 |
-| Chomp Chomp! | 40.00% | ~58 |
-| Glorious Battle | 39.00% | ~57 |
+| Chomp Chomp! | 41.00% | ~60 |
+| Glorious Battle | 40.00% | ~58 |
+| Supreme Power | 39.00% | ~57 |
+| Diaper Time! | 39.00% | ~57 |
 | The Duelist | 38.00% | ~55 |
-| Supreme Power | 38.00% | ~55 |
-| Diaper Time! | 38.00% | ~55 |
 | Target Practice | 38.00% | ~55 |
+| Meat Larder | 37.00% | ~54 |
 | Mutant And Proud | 36.00% | ~53 |
-| Meat Larder | 36.00% | ~53 |
 | The Emperor's New Clothes | 29.00% | ~42 |
 | Godlike Power | 29.00% | ~42 |
 | Happy Little Home | 29.00% | ~42 |
 | Final Evolution | 29.00% | ~42 |
-| You Shall Not Pass | 27.00% | ~39 |
+| You Shall Not Pass | 28.00% | ~41 |
+| Fight Me! | 28.00% | ~41 |
+| Mommy's Very Angry | 27.00% | ~39 |
+| Animal Lover | 27.00% | ~39 |
 | Undying Skin | 27.00% | ~39 |
-| Fight Me! | 27.00% | ~39 |
-| Mommy's Very Angry | 26.00% | ~38 |
-| Animal Lover | 26.00% | ~38 |
-| Supremacy | 26.00% | ~38 |
+| Supremacy | 27.00% | ~39 |
+| Immortal Skin | 22.00% | ~32 |
+| Loyal Companion | 22.00% | ~32 |
 | Back To The Future | 21.00% | ~31 |
-| Immortal Skin | 21.00% | ~31 |
-| Loyal Companion | 21.00% | ~31 |
 | Fire Beacon | 21.00% | ~31 |
-| Lunch Before The Lunch | 19.00% | ~28 |
-| Building Blocks | 17.00% | ~25 |
+| Lunch Before The Lunch | 20.00% | ~29 |
+| Building Blocks | 18.00% | ~26 |
 | From Here To Eternity | 16.00% | ~23 |
+| Boss Hunter | 15.00% | ~22 |
 | Octopostructure | 14.00% | ~20 |
-| Boss Hunter | 14.00% | ~20 |
 | Hawkman | 8.00% | ~12 |
+| Fashion Victim | 7.00% | ~10 |
 | Annihilate | 7.00% | ~10 |
-| Fashion Victim | 6.00% | ~9 |
 | See You Later | 5.00% | ~7 |
 | Godlike Skin | 5.00% | ~7 |
+| Unlucky Luke | 5.00% | ~7 |
 | Feast Time | 5.00% | ~7 |
-| Unlucky Luke | 4.00% | ~6 |
 | Cheesy Chess | 4.00% | ~6 |
 | A Phony Clown | 3.00% | ~4 |
 | Duck Knight | 3.00% | ~4 |

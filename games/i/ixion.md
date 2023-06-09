@@ -42,9 +42,9 @@ Rating: 4.57 (Ranked 444)
 | Pedal to the Metal | 1.00% | ~25 |
 | Pulsar Disciple | 1.00% | ~25 |
 | Catastrophe Avoided | 0.90% | ~23 |
+| Space Greenhouse | 0.90% | ~23 |
 | Praise the Hull! | 0.80% | ~20 |
 | You Had One Job... | 0.80% | ~20 |
-| Space Greenhouse | 0.80% | ~20 |
 | Tiqqun Unchained | 0.70% | ~18 |
 | Help of the Forgotten Member | 0.70% | ~18 |
 | Tiqqun Contender | 0.60% | ~15 |

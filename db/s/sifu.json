@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4432,10 +4432,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10498,
       "NumberOfAwardsMax": 6153
+    },
+    {
+      "Time": "2023-06-09T20:58:47.4062087+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10499,
+      "NumberOfAwardsMax": 6153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10498,
+  "NumberOfAwards": 10499,
   "NumberOfAwardsMax": 6153,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4455,7 +4461,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 509
+      "Count": 510
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4512,9 +4518,9 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 708309,
+  "EOS_Progressed": 708314,
   "EOS_Completed": 12764,
-  "EOS_NewPlayers": 1382,
+  "EOS_NewPlayers": 1376,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9197,6 +9203,11 @@
       "Time": "2023-06-09T20:06:25.6404759+00:00",
       "NumProgressed": 708309,
       "NumCompleted": 12764
+    },
+    {
+      "Time": "2023-06-09T21:05:39.0809707+00:00",
+      "NumProgressed": 708314,
+      "NumCompleted": 12764
     }
   ],
   "TotalAchievements": 50,
@@ -9296,7 +9307,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5666
+      "UsersEstimate": 5667
     },
     {
       "ID": "13_LowAge",
@@ -9480,7 +9491,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5666
+      "UsersEstimate": 5667
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -9552,7 +9563,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9607,21 +9618,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17610,
+      "Progressed": 17615,
       "Completed": 10247
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708309,
+      "Progressed": 708314,
       "Completed": 12764
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-09T15:59:21.7321869+00:00",
-  "LastChanged_Achievements": "2023-06-09T20:06:25.6404582+00:00",
+  "LastChanged": "2023-06-09T20:58:47.4062085+00:00",
+  "LastChanged_Achievements": "2023-06-09T21:05:39.0809702+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-09T19:59:11.372871+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:06:25.6406043+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:58:47.4062092+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:05:39.0810382+00:00"
 }

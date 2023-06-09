@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 61.00% | ~257 |
+| The Wraith | 62.00% | ~262 |
+| Collectibles Part 1 | 51.00% | ~215 |
 | Welcome to Mordor! | 51.00% | ~215 |
-| Collectibles Part 1 | 50.00% | ~211 |
 | Wait! Wait! Not yet! | 36.00% | ~152 |
 | Like Flying... | 31.00% | ~131 |
 | Memories | 28.00% | ~118 |
@@ -15,7 +15,7 @@
 | The Veteran | 18.00% | ~76 |
 | The Traitor | 14.00% | ~59 |
 | The Spider | 13.00% | ~55 |
-| Good as Fish | 8.00% | ~34 |
+| Good as Fish | 9.00% | ~38 |
 | Murderer | 8.00% | ~34 |
 | He's so Annoying | 7.00% | ~30 |
 | Her Eyes | 7.00% | ~30 |
@@ -31,7 +31,7 @@
 | Sweet Darkness | 2.00% | ~8 |
 | Ss ss ss... | 1.00% | ~4 |
 | Nervous Hands | 0.90% | ~4 |
-| Collectibles Part 2 | 0.50% | ~2 |
+| Collectibles Part 2 | 0.70% | ~3 |
 | Elf-Friend | 0.20% | ~1 |
 | We wants it! We needs it | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |

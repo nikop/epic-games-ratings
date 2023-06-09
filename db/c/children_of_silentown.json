@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -219,9 +219,9 @@
       "ID": "Footprint",
       "SetID": "9kk0gal",
       "Name": "Mysterious footprints",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Friend",
@@ -283,9 +283,9 @@
       "ID": "Puppy",
       "SetID": "9kk0gal",
       "Name": "Puppy",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "SchoolRuler",
@@ -323,9 +323,9 @@
       "ID": "Trinket",
       "SetID": "9kk0gal",
       "Name": "Lucky charm",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 149
     },
     {
       "ID": "Trumpet",
@@ -364,8 +364,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-09T20:06:23.43995+00:00",
+  "LastChanged_Achievements": "2023-06-09T21:05:36.9790579+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:33.3761076+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:00:20.1767342+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:06:23.4399705+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:59:40.8516587+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:05:36.9790788+00:00"
 }

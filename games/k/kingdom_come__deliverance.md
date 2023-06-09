@@ -6,44 +6,44 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~243,775 |
-| Cavalier | 25.00% | ~196,592 |
-| Fatso | 23.00% | ~180,865 |
-| Awakening | 20.00% | ~157,274 |
-| Ranger | 20.00% | ~157,274 |
-| Scrooge | 20.00% | ~157,274 |
-| Anorectic | 16.00% | ~125,819 |
-| Firestarter | 15.00% | ~117,956 |
-| Bookworm | 14.00% | ~110,092 |
-| Insomniac | 13.00% | ~102,228 |
-| Buddy | 11.00% | ~86,501 |
-| Sinner | 11.00% | ~86,501 |
-| Thief | 11.00% | ~86,501 |
-| Convict | 10.00% | ~78,637 |
-| Traveller | 10.00% | ~78,637 |
-| Haggler | 9.00% | ~70,773 |
-| McLovin | 7.00% | ~55,046 |
-| Runt | 7.00% | ~55,046 |
-| Casanova | 6.00% | ~47,182 |
-| Bad Trip | 5.00% | ~39,318 |
-| Monk | 5.00% | ~39,318 |
-| Serial Killer | 5.00% | ~39,318 |
+| Blacksmith's Son | 31.00% | ~243,780 |
+| Cavalier | 25.00% | ~196,596 |
+| Fatso | 23.00% | ~180,869 |
+| Awakening | 20.00% | ~157,277 |
+| Ranger | 20.00% | ~157,277 |
+| Scrooge | 20.00% | ~157,277 |
+| Anorectic | 16.00% | ~125,822 |
+| Firestarter | 15.00% | ~117,958 |
+| Bookworm | 14.00% | ~110,094 |
+| Insomniac | 13.00% | ~102,230 |
+| Buddy | 11.00% | ~86,502 |
+| Sinner | 11.00% | ~86,502 |
+| Thief | 11.00% | ~86,502 |
+| Convict | 10.00% | ~78,639 |
+| Traveller | 10.00% | ~78,639 |
+| Haggler | 9.00% | ~70,775 |
+| McLovin | 7.00% | ~55,047 |
+| Runt | 7.00% | ~55,047 |
+| Casanova | 6.00% | ~47,183 |
+| Bad Trip | 5.00% | ~39,319 |
+| Monk | 5.00% | ~39,319 |
+| Serial Killer | 5.00% | ~39,319 |
 | Bastard | 4.00% | ~31,455 |
 | Hunter | 4.00% | ~31,455 |
 | Plague Doctor | 4.00% | ~31,455 |
-| Bard | 3.00% | ~23,591 |
-| Conqueror | 3.00% | ~23,591 |
-| Ginger in a Pickle | 3.00% | ~23,591 |
-| Kingdom did not come | 3.00% | ~23,591 |
-| Completionist | 2.00% | ~15,727 |
-| Death by splinter | 2.00% | ~15,727 |
-| King Charming | 2.00% | ~15,727 |
-| Knightrider | 2.00% | ~15,727 |
-| Level Cap | 2.00% | ~15,727 |
-| Arena Master | 2.00% | ~15,727 |
-| Robber Baron | 2.00% | ~15,727 |
-| Talmberger | 2.00% | ~15,727 |
-| The End | 2.00% | ~15,727 |
+| Bard | 3.00% | ~23,592 |
+| Conqueror | 3.00% | ~23,592 |
+| Ginger in a Pickle | 3.00% | ~23,592 |
+| Kingdom did not come | 3.00% | ~23,592 |
+| Completionist | 2.00% | ~15,728 |
+| Death by splinter | 2.00% | ~15,728 |
+| King Charming | 2.00% | ~15,728 |
+| Knightrider | 2.00% | ~15,728 |
+| Level Cap | 2.00% | ~15,728 |
+| Arena Master | 2.00% | ~15,728 |
+| Robber Baron | 2.00% | ~15,728 |
+| Talmberger | 2.00% | ~15,728 |
+| The End | 2.00% | ~15,728 |
 | Woman's Lot | 1.00% | ~7,864 |
 | Chivalrous Soul | 1.00% | ~7,864 |
 | Spoilsport | 1.00% | ~7,864 |
@@ -59,7 +59,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Edward Kelly | 0.60% | ~4,718 |
 | Fighter | 0.60% | ~4,718 |
 | I Can Quit Anytime | 0.50% | ~3,932 |
-| Perfectionist | 0.40% | ~3,145 |
+| Perfectionist | 0.40% | ~3,146 |
 | Alcoholic | 0.30% | ~2,359 |
 | Sniper | 0.30% | ~2,359 |
 | Angel of Mercy | 0.20% | ~1,573 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~786 |
 | Wingman | 0.10% | ~786 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 786,370 (Ranked 14)  
+Progressed: 786,386 (Ranked 14)  
 Completed: 40 (0.01%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,10 +139,10 @@ Completed: 40 (0.01%) (Ranked 203)
 | 2023-06-06 | 785,775 | 40 |
 | 2023-06-07 | 785,929 | 40 |
 | 2023-06-08 | 786,138 | 40 |
-| 2023-06-09 | 786,370 | 40 |
+| 2023-06-09 | 786,386 | 40 |
 ## Awards
 Max (Character Customization): 7,228  (Ranked 45)  
-Sum: 27,017 (Ranked 43)  
+Sum: 27,018 (Ranked 43)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -152,7 +152,7 @@ Diff (max vs sum): 2
 | This game has Amazing Storytelling | 1,659 |
 | This game is Extremely Fun | 1,631 |
 | This game has Diverse Characters | 1,628 |
-| This game is Highly Recommended | 1,618 |
+| This game is Highly Recommended | 1,619 |
 | This game has Amazing Characters | 1,608 |
 | This game has Realistic Visuals | 1,596 |
 | This game is Educational | 1,548 |
@@ -296,4 +296,4 @@ Diff (max vs sum): 2
 | 2023-06-06 | 4.71 | - | 7,225 | 27,003 |
 | 2023-06-07 | 4.71 | - | 7,226 | 27,004 |
 | 2023-06-08 | 4.71 | - | 7,228 | 27,014 |
-| 2023-06-09 | 4.71 | - | 7,228 | 27,017 |
+| 2023-06-09 | 4.71 | - | 7,228 | 27,018 |

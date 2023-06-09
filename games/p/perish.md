@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 5.00% | ~147 |
-| Initiate's Resolve | 5.00% | ~147 |
+| To Suffer is to Learn | 5.00% | ~148 |
+| Initiate's Resolve | 5.00% | ~148 |
 | Missilis | 4.00% | ~118 |
 | Modest Earnings | 4.00% | ~118 |
 | Armaments of the Pantheon | 4.00% | ~118 |
@@ -39,20 +39,20 @@
 | Mors Omnibus | 2.00% | ~59 |
 | Blot Out the Sky | 2.00% | ~59 |
 | Serpentine | 2.00% | ~59 |
-| The Nameless One | 1.00% | ~29 |
-| Lament of the Constellations | 1.00% | ~29 |
-| Rule of Thirds | 1.00% | ~29 |
-| Rock and a Hard Place | 1.00% | ~29 |
-| The Midas Touch | 1.00% | ~29 |
-| Pyr Demon | 1.00% | ~29 |
-| Don't Pay the Ferryman | 1.00% | ~29 |
-| Veneration of Hephaestus | 1.00% | ~29 |
-| Biotechnology | 1.00% | ~29 |
-| No Scylla in Sight | 1.00% | ~29 |
-| The Archimedes Principle | 1.00% | ~29 |
-| Rites at Sea | 1.00% | ~29 |
-| Close Shut the Doors | 1.00% | ~29 |
-| Scrap Metal | 1.00% | ~29 |
+| The Nameless One | 1.00% | ~30 |
+| Lament of the Constellations | 1.00% | ~30 |
+| Rule of Thirds | 1.00% | ~30 |
+| Rock and a Hard Place | 1.00% | ~30 |
+| The Midas Touch | 1.00% | ~30 |
+| Pyr Demon | 1.00% | ~30 |
+| Don't Pay the Ferryman | 1.00% | ~30 |
+| Veneration of Hephaestus | 1.00% | ~30 |
+| Biotechnology | 1.00% | ~30 |
+| No Scylla in Sight | 1.00% | ~30 |
+| The Archimedes Principle | 1.00% | ~30 |
+| Rites at Sea | 1.00% | ~30 |
+| Close Shut the Doors | 1.00% | ~30 |
+| Scrap Metal | 1.00% | ~30 |
 | Invicta | 0.80% | ~24 |
 | Athenian Treasury | 0.70% | ~21 |
 | Hipparchia's Labour | 0.50% | ~15 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,949 (Ranked 139)  
+Progressed: 2,950 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-06 | 2,943 | 0 |
 | 2023-06-07 | 2,945 | 0 |
 | 2023-06-08 | 2,949 | 0 |
+| 2023-06-09 | 2,950 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

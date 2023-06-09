@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1442,9 +1442,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64280,
+  "EOS_Progressed": 64292,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 992,
+  "EOS_NewPlayers": 1000,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5677,6 +5677,11 @@
       "Time": "2023-06-09T20:06:28.6251833+00:00",
       "NumProgressed": 64280,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-09T21:05:41.553558+00:00",
+      "NumProgressed": 64292,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -5798,9 +5803,9 @@
       "ID": "CLAYFACE_2",
       "SetID": "4eo5ebm",
       "Name": "The Show Mud Go On",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 1286
     },
     {
       "ID": "CLAYFACE_3",
@@ -5992,7 +5997,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "HARLEY_2",
@@ -6032,7 +6037,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -6080,7 +6085,7 @@
       "Name": "Loose Ends",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "MYSTERY_02",
@@ -6175,13 +6180,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64280,
+      "Progressed": 64292,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34560,
+      "Progressed": 34572,
       "Completed": 2645
     }
   ],
@@ -6189,8 +6194,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-09T12:01:01.7330615+00:00",
-  "LastChanged_Achievements": "2023-06-09T20:06:28.6251829+00:00",
+  "LastChanged_Achievements": "2023-06-09T21:05:41.5535577+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:09.2602637+00:00",
-  "LastUpdate_Ratings": "2023-06-09T19:59:56.8709456+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:06:28.6253027+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:59:23.070555+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:05:41.5536378+00:00"
 }

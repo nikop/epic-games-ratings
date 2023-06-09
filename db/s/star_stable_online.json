@@ -3,12 +3,12 @@
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
   "Ranking_Rating": 655,
-  "Ranking_Popularity": 299,
+  "Ranking_Popularity": 300,
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
     "PcReleaseDate": "2022-06-22T16:00:00+00:00",
@@ -1250,10 +1250,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 850,
       "NumberOfAwardsMax": 131
+    },
+    {
+      "Time": "2023-06-09T20:57:59.6691048+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 852,
+      "NumberOfAwardsMax": 131
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 850,
+  "NumberOfAwards": 852,
   "NumberOfAwardsMax": 131,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1297,7 +1303,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 103
+      "Count": 105
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1341,8 +1347,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-06-09T11:58:56.1598784+00:00",
+  "LastChanged": "2023-06-09T20:57:59.6691047+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:16.794403+00:00",
-  "LastUpdate_Ratings": "2023-06-09T19:58:13.919839+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:03:43.5312197+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:57:59.6691052+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:03:12.4129984+00:00"
 }

@@ -9,7 +9,7 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 54.00% | ~3,313 |
 | Tutti Eroi! | 54.00% | ~3,313 |
 | You Shall Not Pass | 52.00% | ~3,191 |
-| Avanti Savoia! | 46.00% | ~2,823 |
+| Avanti Savoia! | 47.00% | ~2,884 |
 | Conrad von Hotzensocks | 36.00% | ~2,209 |
 | Mamma Mia! | 36.00% | ~2,209 |
 | Gabriele D'Annunzio | 32.00% | ~1,964 |
@@ -102,12 +102,12 @@ Completed: 8 (0.13%) (Ranked 161)
 | 2023-06-09 | 6,136 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 446)  
-Sum: 243 (Ranked 345)  
+Sum: 244 (Ranked 345)  
 Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |
-| This game is Extremely Fun | 29 |
+| This game is Extremely Fun | 30 |
 | This game has Amazing Characters | 28 |
 | This game has Quickly Understood Controls | 27 |
 | This game is Educational | 27 |
@@ -196,3 +196,4 @@ Diff (max vs sum): 101
 | 2023-06-04 | 4.56 | - | 31 | 241 |
 | 2023-06-07 | 4.56 | - | 31 | 242 |
 | 2023-06-08 | 4.56 | - | 31 | 243 |
+| 2023-06-09 | 4.56 | - | 31 | 244 |

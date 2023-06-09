@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -584,9 +584,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14861,
+  "EOS_Progressed": 14869,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3339,6 +3339,11 @@
       "Time": "2023-06-09T20:04:18.3632669+00:00",
       "NumProgressed": 14861,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-09T21:03:41.1940458+00:00",
+      "NumProgressed": 14869,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3382,7 +3387,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3470,7 +3475,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3478,7 +3483,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "KILL_ROBOT",
@@ -3494,7 +3499,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3510,7 +3515,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3518,7 +3523,7 @@
       "Name": "Reforged",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3526,7 +3531,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3542,7 +3547,7 @@
       "Name": "The Outer Way",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3550,7 +3555,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "STORY_HABITAT",
@@ -3582,7 +3587,7 @@
       "Name": "Desperate Times",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3606,7 +3611,7 @@
       "Name": "Power Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "DISMEMBER_100",
@@ -3622,7 +3627,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3630,7 +3635,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3669,13 +3674,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14861,
+      "Progressed": 14869,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2787,
+      "Progressed": 2795,
       "Completed": 29
     }
   ],
@@ -3683,8 +3688,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-09T13:57:54.3107791+00:00",
-  "LastChanged_Achievements": "2023-06-09T20:04:18.3632663+00:00",
+  "LastChanged_Achievements": "2023-06-09T21:03:41.1940452+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-09T19:58:01.2040772+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:04:18.3633245+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:57:49.1338764+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:03:41.1940948+00:00"
 }

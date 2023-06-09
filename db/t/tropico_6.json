@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -900,7 +900,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3516,
+  "EOS_Progressed": 3517,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
@@ -4045,6 +4045,11 @@
       "Time": "2023-06-09T19:00:17.7535609+00:00",
       "NumProgressed": 3516,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T21:00:15.3694771+00:00",
+      "NumProgressed": 3517,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4072,7 +4077,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -4088,7 +4093,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -4152,7 +4157,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4216,7 +4221,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4264,7 +4269,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -4272,7 +4277,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -4320,7 +4325,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -4375,15 +4380,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3516,
+      "Progressed": 3517,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-08T16:00:48.5548641+00:00",
-  "LastChanged_Achievements": "2023-06-09T20:01:00.8506762+00:00",
+  "LastChanged_Achievements": "2023-06-09T21:00:15.3694765+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:36.6782023+00:00",
-  "LastUpdate_Ratings": "2023-06-09T20:00:24.8180506+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:01:00.8507319+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:59:44.6722018+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:00:15.3695264+00:00"
 }

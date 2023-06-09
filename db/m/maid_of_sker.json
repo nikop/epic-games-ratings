@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -142,6 +142,11 @@
       "Time": "2023-06-09T19:04:12.1317669+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T21:04:08.4456179+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -151,9 +156,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "axe_of_kindness",
@@ -191,9 +196,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "dodgy_geezer",
@@ -217,7 +222,7 @@
       "Name": "Easy Listening",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ending_on_a_high_note",
@@ -225,7 +230,7 @@
       "Name": "Ending on a High Note",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "hard_times",
@@ -289,7 +294,7 @@
       "Name": "Maids of Sker",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "make_love_not_war",
@@ -329,7 +334,7 @@
       "Name": "Phonic Boom",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "rapturous_applause",
@@ -369,7 +374,7 @@
       "Name": "The Long Night",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "the_longest_night",
@@ -385,14 +390,14 @@
       "Name": "Wales Interactive",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 0
     }
   ],
@@ -400,8 +405,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-06-09T20:04:39.5622902+00:00",
+  "LastChanged_Achievements": "2023-06-09T21:04:08.4456175+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:31.6745005+00:00",
-  "LastUpdate_Ratings": "2023-06-09T19:59:22.0555556+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:04:39.5623136+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:58:55.4783278+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:04:08.4456414+00:00"
 }

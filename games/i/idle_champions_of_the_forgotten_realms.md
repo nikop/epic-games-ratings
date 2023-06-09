@@ -43,6 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.30% | ~170 |
 | The Dread Domain of Tovag | 0.30% | ~170 |
 | Frail Doesn't Mean Broken | 0.30% | ~170 |
+| The Castle of a Thousand Vecnas | 0.30% | ~170 |
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~170 |
 | The Sanctum of the Sword | 0.30% | ~170 |
 | Get Back In The Castle | 0.30% | ~170 |
@@ -79,6 +80,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.20% | ~113 |
 | The Witchlight Carnival | 0.20% | ~113 |
 | A Monarch Among Us | 0.20% | ~113 |
+| A Dragon Against Us | 0.20% | ~113 |
 | A Familiar Behind Us | 0.20% | ~113 |
 | Thieves of the Coven | 0.20% | ~113 |
 | Sticky Fingers | 0.20% | ~113 |
@@ -126,7 +128,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.20% | ~113 |
 | To Avernus in a Handbasket | 0.20% | ~113 |
 | Weak Doesn't Mean Feeble | 0.20% | ~113 |
-| The Castle of a Thousand Vecnas | 0.20% | ~113 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~113 |
 | Kas the Bloody Handed | 0.20% | ~113 |
 | Kas the Destroyer | 0.20% | ~113 |
@@ -193,6 +194,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elder Rune Madness | 0.20% | ~181 |
 | Who Lurks in Lurkwood | 0.20% | ~181 |
 | Orcs Are Wild | 0.20% | ~181 |
+| A Tale of Two Fiends | 0.20% | ~181 |
 | The Dead Three | 0.20% | ~181 |
 | Slow and Steady | 0.20% | ~181 |
 | A Hero's Entourage | 0.20% | ~181 |
@@ -281,7 +283,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | And Your Enemies Closer | 0.10% | ~57 |
 | An Unexpected Geist | 0.10% | ~57 |
 | Back to Nature | 0.10% | ~57 |
-| A Dragon Against Us | 0.10% | ~57 |
 | The Spire of Iriolarthas | 0.10% | ~57 |
 | Always Watching | 0.10% | ~57 |
 | The Fall of Ythryn | 0.10% | ~57 |
@@ -379,7 +380,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~90 |
 | Dino Nightmare | 0.10% | ~90 |
 | A Familiar Friend | 0.10% | ~57 |
-| A Tale of Two Fiends | 0.10% | ~90 |
 | A Tale of Two Champions | 0.10% | ~90 |
 | A Tale of Two Years | 0.10% | ~57 |
 | Feigned Weakness | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,256 (Ranked 64)  
+Progressed: 90,262 (Ranked 64)  
 Completed: 1,925 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,7 +550,7 @@ Completed: 1,925 (2.13%) (Ranked 66)
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
-| 2023-06-09 | 90,256 | 1,925 |
+| 2023-06-09 | 90,262 | 1,925 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
 Sum: 30,061 (Ranked 37)  

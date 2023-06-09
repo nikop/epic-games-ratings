@@ -3,9 +3,9 @@
   "Name": "Match Village",
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 237,
-  "Ranking_EOS_Completed": 62,
+  "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 256,
-  "EOS_Completed": 6,
-  "EOS_NewPlayers": 154,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.34,
+  "EOS_Completed": 7,
+  "EOS_NewPlayers": 153,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -601,6 +601,11 @@
       "Time": "2023-06-09T17:03:43.7370729+00:00",
       "NumProgressed": 256,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-09T21:03:02.3363073+00:00",
+      "NumProgressed": 256,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 24,
@@ -682,9 +687,9 @@
       "ID": "fun!",
       "SetID": "ap7g2g4",
       "Name": "Fun!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "hope_farm",
@@ -804,13 +809,13 @@
       "ID": "ap7g2g4",
       "IsBase": true,
       "Progressed": 256,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-09T20:03:31.4758544+00:00",
+  "LastChanged_Achievements": "2023-06-09T21:03:02.3363069+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-09T19:57:08.8502994+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:03:31.475896+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:57:05.0580978+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:03:02.3363265+00:00"
 }

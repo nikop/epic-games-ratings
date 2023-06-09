@@ -7,16 +7,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 17.00% | ~1,647 |
-| A Spark | 12.00% | ~1,162 |
-| Burning City | 11.00% | ~1,065 |
+| A Spark | 12.00% | ~1,163 |
+| Burning City | 11.00% | ~1,066 |
 | Defender's Heart | 10.00% | ~969 |
 | Banner over the Citadel | 9.00% | ~872 |
 | Mythic Choices | 9.00% | ~872 |
 | Queen's Gratitude | 8.00% | ~775 |
 | Fifth Crusade | 5.00% | ~484 |
-| Embrace of the Abyss | 4.00% | ~387 |
-| Path of the Angel | 4.00% | ~387 |
-| Demonic and Divine | 4.00% | ~387 |
+| Embrace of the Abyss | 4.00% | ~388 |
+| Path of the Angel | 4.00% | ~388 |
+| Demonic and Divine | 4.00% | ~388 |
 | Path of the Azata | 3.00% | ~291 |
 | Transformation | 3.00% | ~291 |
 | The Legacy | 3.00% | ~291 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,686 (Ranked 112)  
+Progressed: 9,688 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,14 +173,14 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-06 | 9,594 | 0 |
 | 2023-06-07 | 9,619 | 0 |
 | 2023-06-08 | 9,650 | 0 |
-| 2023-06-09 | 9,686 | 0 |
+| 2023-06-09 | 9,688 | 0 |
 ## Awards
-Max (Character Customization): 1,656  (Ranked 111)  
-Sum: 6,720 (Ranked 109)  
-Diff (max vs sum): 2  
+Max (Character Customization): 1,658  (Ranked 111)  
+Sum: 6,722 (Ranked 110)  
+Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,656 |
+| This game has Inclusive Character Customization | 1,658 |
 | This game is Extremely Fun | 634 |
 | This game has Amazing Characters | 614 |
 | This game is Highly Recommended | 614 |
@@ -327,3 +327,4 @@ Diff (max vs sum): 2
 | 2023-06-06 | 4.76 | - | 1,655 | 6,710 |
 | 2023-06-07 | 4.76 | - | 1,656 | 6,714 |
 | 2023-06-08 | 4.76 | - | 1,656 | 6,720 |
+| 2023-06-09 | 4.76 | - | 1,658 | 6,722 |

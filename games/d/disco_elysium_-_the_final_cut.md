@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,861 |
-| Biggest Communism Builder | 24.00% | ~29,023 |
-| The World's Most Laughable Centrist | 20.00% | ~24,186 |
+| Goodest Of The Good Cops | 28.00% | ~33,862 |
+| Biggest Communism Builder | 24.00% | ~29,024 |
+| The World's Most Laughable Centrist | 20.00% | ~24,187 |
 | Il Coppo Del'Arte! | 18.00% | ~21,768 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,349 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,350 |
 | Hyperstellar Law Official | 15.00% | ~18,140 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~16,930 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,721 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,721 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,302 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~16,931 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,722 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,722 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,303 |
 | The Figurines Won't Win Her Back | 9.00% | ~10,884 |
-| Unbelievably Boring **** | 8.00% | ~9,674 |
-| Enemy Of The Physical Realm | 8.00% | ~9,674 |
+| Unbelievably Boring **** | 8.00% | ~9,675 |
+| Enemy Of The Physical Realm | 8.00% | ~9,675 |
 | Hardie's Heroes | 5.00% | ~6,047 |
 | The Lawbringer | 4.00% | ~4,837 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,837 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~121 |
 | What body? | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,931 (Ranked 59)  
+Progressed: 120,935 (Ranked 59)  
 Completed: 25 (0.02%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 25 (0.02%) (Ranked 196)
 | 2023-06-06 | 120,595 | 25 |
 | 2023-06-07 | 120,702 | 25 |
 | 2023-06-08 | 120,819 | 25 |
-| 2023-06-09 | 120,931 | 25 |
+| 2023-06-09 | 120,935 | 25 |
 ## Awards
 Max (Character Customization): 694  (Ranked 157)  
 Sum: 1,053 (Ranked 230)  

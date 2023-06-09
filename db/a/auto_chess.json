@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2019-08-23T15:00:00+00:00",
     "PcReleaseDate": "2019-04-18T15:00:00+00:00",
@@ -2962,10 +2962,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 5902,
       "NumberOfAwardsMax": 745
+    },
+    {
+      "Time": "2023-06-09T20:58:34.4230516+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 5904,
+      "NumberOfAwardsMax": 745
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5902,
+  "NumberOfAwards": 5904,
   "NumberOfAwardsMax": 745,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -2991,7 +2997,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 705
+      "Count": 707
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3047,8 +3053,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2023-06-09T06:59:09.7109398+00:00",
+  "LastChanged": "2023-06-09T20:58:34.4230514+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:03.7367052+00:00",
-  "LastUpdate_Ratings": "2023-06-09T19:58:55.4268142+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:04:39.1453145+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:58:34.423052+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:04:07.9449246+00:00"
 }

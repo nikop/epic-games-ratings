@@ -47,9 +47,9 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 18.00% | ~9 |
 | Res Judicata | 16.00% | ~8 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 16.00% | ~8 |
+| It's been a hard day's night | 16.00% | ~8 |
 | The Dungeon Master | 14.00% | ~7 |
 | An old poacher makes the best gamekeeper | 14.00% | ~7 |
-| It's been a hard day's night | 14.00% | ~7 |
 | Lëgal Legend | 12.00% | ~6 |
 | Lust and Debauchery | 12.00% | ~6 |
 | Egghead | 10.00% | ~5 |

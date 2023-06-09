@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -526,9 +526,9 @@
       "ID": "PRG_BOSS_THROWER",
       "SetID": "89cjc9l",
       "Name": "The Thrower",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -542,9 +542,9 @@
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -863,8 +863,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-09T20:06:32.0980195+00:00",
+  "LastChanged_Achievements": "2023-06-09T21:05:44.5304606+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:34.9607113+00:00",
-  "LastUpdate_Ratings": "2023-06-09T19:57:35.2015849+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:06:32.0980949+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:57:27.2728122+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:05:44.5305355+00:00"
 }

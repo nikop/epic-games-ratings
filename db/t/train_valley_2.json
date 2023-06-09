@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 730,
+  "EOS_Progressed": 731,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -445,6 +445,11 @@
       "Time": "2023-06-09T13:09:11.9182558+00:00",
       "NumProgressed": 730,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T21:03:04.0245944+00:00",
+      "NumProgressed": 731,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -560,7 +565,7 @@
       "Name": "Close call!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AchievementCommonCause",
@@ -568,7 +573,7 @@
       "Name": "Common cause",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AchievementCriticalCare",
@@ -624,7 +629,7 @@
       "Name": "Forgot something",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AchievementForgotten",
@@ -702,9 +707,9 @@
       "ID": "AchievementInnovator",
       "SetID": "76o014g",
       "Name": "Innovator",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AchievementItsNoCoincidence",
@@ -766,9 +771,9 @@
       "ID": "AchievementLuckyVandal",
       "SetID": "76o014g",
       "Name": "Lucky vandal",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "AchievementMegaRailroad",
@@ -776,7 +781,7 @@
       "Name": "Mega-railroad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AchievementMetroBuilder",
@@ -832,7 +837,7 @@
       "Name": "Non-Stop",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AchievementOneWay",
@@ -1016,7 +1021,7 @@
       "Name": "Vostok",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AchievementVoyager",
@@ -1055,21 +1060,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 730,
+      "Progressed": 731,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-06-09T20:03:33.5396879+00:00",
+  "LastChanged_Achievements": "2023-06-09T21:03:04.0245938+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:36.3247048+00:00",
-  "LastUpdate_Ratings": "2023-06-09T19:57:37.3788294+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:03:33.5398025+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:57:28.9295109+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:03:04.0246701+00:00"
 }

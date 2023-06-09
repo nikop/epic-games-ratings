@@ -11,10 +11,10 @@ Rating: 3.88 (Ranked 919)
 | Zero Waste | 29.00% | ~342 |
 | Bob The Builder | 29.00% | ~342 |
 | I am the greatest botanist on this planet. | 28.00% | ~330 |
-| Gardener | 24.00% | ~283 |
 | Miner | 24.00% | ~283 |
-| Houston we have a problem | 21.00% | ~247 |
-| Occupy Mars! | 21.00% | ~247 |
+| Gardener | 23.00% | ~271 |
+| Houston we have a problem | 21.00% | ~248 |
+| Occupy Mars! | 21.00% | ~248 |
 | Detective | 18.00% | ~212 |
 | The Collector | 14.00% | ~165 |
 | Get your hands dirty | 9.00% | ~106 |
@@ -29,7 +29,7 @@ Rating: 3.88 (Ranked 919)
 | To infinity and beyond! | 1.00% | ~12 |
 | Explosive Miner | 0.90% | ~11 |
 | Rocket Jump | 0.80% | ~9 |
-| Thunderstruck | 0.70% | ~8 |
+| Thunderstruck | 0.80% | ~9 |
 | Caveman | 0.60% | ~7 |
 | 5G Network | 0.50% | ~6 |
 | Bull’s eye | 0.40% | ~5 |
@@ -54,7 +54,7 @@ Rating: 3.88 (Ranked 919)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,178 (Ranked 167)  
+Progressed: 1,179 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-06 | 1,142 | 0 |
 | 2023-06-07 | 1,144 | 0 |
 | 2023-06-08 | 1,162 | 0 |
-| 2023-06-09 | 1,178 | 0 |
+| 2023-06-09 | 1,179 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

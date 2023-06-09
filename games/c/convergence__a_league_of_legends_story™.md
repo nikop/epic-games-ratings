@@ -47,7 +47,7 @@
 | Good Neighbor | 2.00% | ~13 |
 | Golem Hunter | 1.00% | ~6 |
 | Rungs Was Right | 1.00% | ~6 |
-| Clovemary for Remembering | 0.80% | ~5 |
+| Clovemary for Remembering | 0.90% | ~6 |
 | Hexlock for Protection | 0.60% | ~4 |
 | Fitting In | 0.60% | ~4 |
 | Wunderkind | 0.30% | ~2 |

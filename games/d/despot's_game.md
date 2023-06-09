@@ -1,14 +1,14 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 547)  
+Rating: 4.50 (Ranked 546)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start! | 84.00% | ~333 |
 | Vanquisher of Robots | 74.00% | ~293 |
 | Party | 46.00% | ~182 |
-| Impossible Cube | 43.00% | ~170 |
+| Impossible Cube | 44.00% | ~174 |
 | Knowledge is Power | 43.00% | ~170 |
 | No Mercy | 41.00% | ~162 |
 | The Return of a Rat | 40.00% | ~158 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 547)
 | Vet | 1.00% | ~4 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396 (Ranked 211)  
+Progressed: 396 (Ranked 212)  
 Completed: 1 (0.25%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |

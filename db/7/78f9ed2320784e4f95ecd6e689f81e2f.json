@@ -2,10 +2,10 @@
   "ID": "78f9ed2320784e4f95ecd6e689f81e2f",
   "Name": "GeoJelly",
   "ProductSlug": "geojelly-a44cfe",
-  "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-07T18:00:00+00:00",
     "PcReleaseDate": "2023-05-31T15:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_Completed_Percentage": 8.33,
   "EosHistory": [
     {
       "Time": "2023-05-09T08:01:56.5960176+00:00",
@@ -79,6 +79,11 @@
       "Time": "2023-06-09T05:03:38.3737614+00:00",
       "NumProgressed": 11,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T21:00:16.5676263+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 7,
@@ -128,7 +133,7 @@
       "ID": "COMPLETE_BASEMENT",
       "SetID": "dademeo",
       "Name": "Complete basement",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 145,
       "UsersEstimate": 2
     },
@@ -160,15 +165,15 @@
       "ID": "JUMPER_100",
       "SetID": "dademeo",
       "Name": "Jumper 100",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 145,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "JUMPER_1000",
       "SetID": "dademeo",
       "Name": "Jumper 1000",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 145,
       "UsersEstimate": 4
     },
@@ -176,7 +181,7 @@
       "ID": "JUMPER_5000",
       "SetID": "dademeo",
       "Name": "Jumper 5000",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 145,
       "UsersEstimate": 1
     }
@@ -185,13 +190,13 @@
     {
       "ID": "dademeo",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-06-09T20:01:03.4310842+00:00",
+  "LastChanged_Achievements": "2023-06-09T21:00:16.5676257+00:00",
   "LastUpdate_AppInfo": "2023-06-06T09:57:07.639147+00:00",
-  "LastUpdate_Ratings": "2023-06-09T19:57:13.9852372+00:00",
-  "LastUpdate_Achievements": "2023-06-09T20:01:03.4310987+00:00"
+  "LastUpdate_Ratings": "2023-06-09T20:57:09.7436607+00:00",
+  "LastUpdate_Achievements": "2023-06-09T21:00:16.5676496+00:00"
 }
