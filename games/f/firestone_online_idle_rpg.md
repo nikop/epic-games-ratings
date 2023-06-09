@@ -5,22 +5,22 @@ Rating: 4.05 (Ranked 888)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,261 |
-| World Map | 80.00% | ~1,074 |
-| Temple of Eternals | 57.00% | ~765 |
-| Prestigious | 53.00% | ~711 |
-| Fellowship Power | 41.00% | ~550 |
-| Guild Power | 24.00% | ~322 |
+| Victor | 94.00% | ~1,263 |
+| World Map | 80.00% | ~1,075 |
+| Temple of Eternals | 57.00% | ~766 |
+| Prestigious | 53.00% | ~712 |
+| Fellowship Power | 41.00% | ~551 |
+| Guild Power | 24.00% | ~323 |
 | Prestigious x10 | 21.00% | ~282 |
 | The game is on | 18.00% | ~242 |
 | Exotic Merchant | 17.00% | ~228 |
 | Dragon Clicker | 16.00% | ~215 |
 | Miner Clicker | 16.00% | ~215 |
-| Inspection | 15.00% | ~201 |
+| Inspection | 15.00% | ~202 |
 | Full Party | 14.00% | ~188 |
-| Dragon Master | 13.00% | ~174 |
-| Enlightenment | 13.00% | ~174 |
-| Hero inspection | 13.00% | ~174 |
+| Dragon Master | 13.00% | ~175 |
+| Enlightenment | 13.00% | ~175 |
+| Hero inspection | 13.00% | ~175 |
 | Lieutenant | 12.00% | ~161 |
 | Milestone collector | 11.00% | ~148 |
 | Mysterious Rock | 11.00% | ~148 |
@@ -28,10 +28,10 @@ Rating: 4.05 (Ranked 888)
 | Superior | 11.00% | ~148 |
 | The Unstoppable | 11.00% | ~148 |
 | Scientist | 9.00% | ~121 |
-| Challenger | 8.00% | ~107 |
-| Daily Quest Completionist | 8.00% | ~107 |
-| Scroll Master | 8.00% | ~107 |
-| The power of Awakening | 8.00% | ~107 |
+| Challenger | 8.00% | ~108 |
+| Daily Quest Completionist | 8.00% | ~108 |
+| Scroll Master | 8.00% | ~108 |
+| The power of Awakening | 8.00% | ~108 |
 | Doing My Part | 7.00% | ~94 |
 | Hunter | 7.00% | ~94 |
 | Mastery | 7.00% | ~94 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 888)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,342 (Ranked 163)  
+Progressed: 1,344 (Ranked 163)  
 Completed: 1 (0.07%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 1 (0.07%) (Ranked 176)
 | 2023-06-06 | 1,309 | 1 |
 | 2023-06-07 | 1,329 | 1 |
 | 2023-06-08 | 1,341 | 1 |
-| 2023-06-09 | 1,342 | 1 |
+| 2023-06-09 | 1,344 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

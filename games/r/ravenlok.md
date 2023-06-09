@@ -10,29 +10,29 @@
 | A Prophecy | 85.00% | ~828 |
 | Sword, Shield, Fight! | 75.00% | ~730 |
 | A Grand Visit | 71.00% | ~692 |
+| Vibing | 61.00% | ~594 |
 | Fun Guy | 61.00% | ~594 |
-| Vibing | 60.00% | ~584 |
 | Tragic Brave | 52.00% | ~506 |
 | Awakened Spirits | 49.00% | ~477 |
 | Little Shop | 48.00% | ~468 |
 | Surprise! | 44.00% | ~429 |
 | An Actor! | 44.00% | ~429 |
 | Curtain Call | 42.00% | ~409 |
+| Piece of Cake | 40.00% | ~390 |
 | Glimmer of Hope | 40.00% | ~390 |
-| Piece of Cake | 39.00% | ~380 |
 | Gooey Delight! | 39.00% | ~380 |
+| Teacups for Toppy | 39.00% | ~380 |
 | Well Rested | 39.00% | ~380 |
 | Nightmare Fuel | 38.00% | ~370 |
-| Teacups for Toppy | 38.00% | ~370 |
-| Take Heart | 37.00% | ~360 |
+| Take Heart | 38.00% | ~370 |
 | The Guardian | 37.00% | ~360 |
 | Ancient Wisdom | 36.00% | ~351 |
+| All That Glistens | 36.00% | ~351 |
 | Stronger! | 36.00% | ~351 |
+| Spellbound | 35.00% | ~341 |
 | Frog Facts! | 35.00% | ~341 |
-| All That Glistens | 35.00% | ~341 |
 | All Skilled Up! | 35.00% | ~341 |
 | It's Pointy! | 35.00% | ~341 |
-| Spellbound | 34.00% | ~331 |
 | Extinct Again! | 34.00% | ~331 |
 | Bird of Prey | 33.00% | ~321 |
 | Stardust | 33.00% | ~321 |

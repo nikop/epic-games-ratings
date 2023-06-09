@@ -4488,9 +4488,9 @@
       "Count": 353
     }
   ],
-  "EOS_Progressed": 708110,
+  "EOS_Progressed": 708133,
   "EOS_Completed": 12763,
-  "EOS_NewPlayers": 1373,
+  "EOS_NewPlayers": 1380,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9078,6 +9078,11 @@
       "Time": "2023-06-09T00:06:37.7318417+00:00",
       "NumProgressed": 708110,
       "NumCompleted": 12763
+    },
+    {
+      "Time": "2023-06-09T02:28:30.9599734+00:00",
+      "NumProgressed": 708133,
+      "NumCompleted": 12763
     }
   ],
   "TotalAchievements": 50,
@@ -9169,7 +9174,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "12_MidAge",
@@ -9185,7 +9190,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -9305,7 +9310,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -9345,7 +9350,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "34_TimedTakedown",
@@ -9425,7 +9430,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -9433,7 +9438,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9457,7 +9462,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -9481,28 +9486,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17411,
+      "Progressed": 17434,
       "Completed": 10246
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708110,
+      "Progressed": 708133,
       "Completed": 12763
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-08T08:59:11.5186478+00:00",
-  "LastChanged_Achievements": "2023-06-09T00:06:37.7318411+00:00",
+  "LastChanged_Achievements": "2023-06-09T02:28:30.9599728+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:20.2584391+00:00",
-  "LastUpdate_Ratings": "2023-06-08T23:59:08.1565335+00:00",
-  "LastUpdate_Achievements": "2023-06-09T00:06:37.7319151+00:00"
+  "LastUpdate_Ratings": "2023-06-09T02:21:15.7927686+00:00",
+  "LastUpdate_Achievements": "2023-06-09T02:28:30.9600616+00:00"
 }

@@ -5,46 +5,46 @@ Rating: 4.41 (Ranked 667)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 50.00% | ~707,036 |
-| The ABCs | 43.00% | ~608,051 |
-| Home Run | 42.00% | ~593,910 |
-| Keeps Coming Off | 41.00% | ~579,770 |
-| Guts | 20.00% | ~282,814 |
-| Meat Grinder | 20.00% | ~282,814 |
-| Burning Man | 16.00% | ~226,252 |
-| Lived to Tell the Tale | 12.00% | ~169,689 |
-| Highlander | 10.00% | ~141,407 |
-| Unstoppable | 10.00% | ~141,407 |
-| Just a Scratch | 9.00% | ~127,266 |
-| Tough Nut to Crack | 6.00% | ~84,844 |
-| Yoink | 6.00% | ~84,844 |
-| Long List of Names | 4.00% | ~56,563 |
-| Pyromaniac | 4.00% | ~56,563 |
-| The Queen of Weapons | 4.00% | ~56,563 |
-| Eagle Eye | 2.00% | ~28,281 |
-| This isn’t Sparta | 2.00% | ~28,281 |
-| Poacher | 2.00% | ~28,281 |
-| Put That Away | 2.00% | ~28,281 |
-| You’re Welcome | 2.00% | ~28,281 |
-| Crybaby | 1.00% | ~14,141 |
-| I Know Kung Fu | 1.00% | ~14,141 |
-| Chambermaid | 0.90% | ~12,727 |
-| Coming Through | 0.90% | ~12,727 |
-| Training Accident | 0.70% | ~9,899 |
-| Boxer | 0.60% | ~8,484 |
-| Rock’n’Roll | 0.60% | ~8,484 |
-| Virtuoso | 0.60% | ~8,484 |
-| Flyswatter | 0.50% | ~7,070 |
-| Friend Indeed | 0.40% | ~5,656 |
-| Whack-A-Mole | 0.40% | ~5,656 |
-| Vlad the Impaler | 0.30% | ~4,242 |
+| Justice from the Grave | 50.00% | ~707,114 |
+| The ABCs | 43.00% | ~608,118 |
+| Home Run | 42.00% | ~593,976 |
+| Keeps Coming Off | 41.00% | ~579,833 |
+| Guts | 20.00% | ~282,846 |
+| Meat Grinder | 20.00% | ~282,846 |
+| Burning Man | 16.00% | ~226,276 |
+| Lived to Tell the Tale | 12.00% | ~169,707 |
+| Highlander | 10.00% | ~141,423 |
+| Unstoppable | 10.00% | ~141,423 |
+| Just a Scratch | 9.00% | ~127,281 |
+| Tough Nut to Crack | 6.00% | ~84,854 |
+| Yoink | 6.00% | ~84,854 |
+| Long List of Names | 4.00% | ~56,569 |
+| Pyromaniac | 4.00% | ~56,569 |
+| The Queen of Weapons | 4.00% | ~56,569 |
+| Eagle Eye | 2.00% | ~28,285 |
+| This isn’t Sparta | 2.00% | ~28,285 |
+| Poacher | 2.00% | ~28,285 |
+| Put That Away | 2.00% | ~28,285 |
+| You’re Welcome | 2.00% | ~28,285 |
+| Crybaby | 1.00% | ~14,142 |
+| I Know Kung Fu | 1.00% | ~14,142 |
+| Chambermaid | 0.90% | ~12,728 |
+| Coming Through | 0.90% | ~12,728 |
+| Training Accident | 0.70% | ~9,900 |
+| Boxer | 0.60% | ~8,485 |
+| Rock’n’Roll | 0.60% | ~8,485 |
+| Virtuoso | 0.60% | ~8,485 |
+| Flyswatter | 0.50% | ~7,071 |
+| Friend Indeed | 0.40% | ~5,657 |
+| Whack-A-Mole | 0.40% | ~5,657 |
+| Vlad the Impaler | 0.30% | ~4,243 |
 | Clobbered | 0.10% | ~1,414 |
 | Ended Rightly | 0.10% | ~1,414 |
 | Living Sculpture | 0.10% | ~1,414 |
 | That’s No Ordinary Cold | 0.10% | ~1,414 |
 | Stairway to Hell | 0.10% | ~1,414 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,414,072 (Ranked 7)  
+Progressed: 1,414,228 (Ranked 7)  
 Completed: 26 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,20 +94,20 @@ Completed: 26 (0.00%) (Ranked 212)
 | 2023-06-06 | 1,409,936 | 24 |
 | 2023-06-07 | 1,411,854 | 24 |
 | 2023-06-08 | 1,414,003 | 26 |
-| 2023-06-09 | 1,414,072 | 26 |
+| 2023-06-09 | 1,414,228 | 26 |
 ## Awards
-Max (Highly Recommended): 224  (Ranked 250)  
-Sum: 1,336 (Ranked 221)  
-Diff (max vs sum): 29  
+Max (Highly Recommended): 234  (Ranked 247)  
+Sum: 1,349 (Ranked 220)  
+Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 224 |
+| This game is Highly Recommended | 234 |
 | This game has Diverse Characters | 219 |
 | This game has Challenging Combat | 204 |
 | This game has Amazing Characters | 189 |
 | This game has Competitive Players | 187 |
 | This game is Extremely Fun | 174 |
-| This game has Amazing Storytelling | 139 |
+| This game has Amazing Storytelling | 142 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
 ## Ratings History
@@ -168,3 +168,4 @@ Diff (max vs sum): 29
 | 2023-06-06 | 4.41 | 221 | 1,291 |
 | 2023-06-07 | 4.41 | 224 | 1,323 |
 | 2023-06-08 | 4.41 | 224 | 1,336 |
+| 2023-06-09 | 4.41 | 234 | 1,349 |

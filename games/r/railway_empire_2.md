@@ -23,8 +23,8 @@
 | Bridge Builder | 38.00% | ~383 |
 | Stoker | 34.00% | ~342 |
 | Access granted | 33.00% | ~332 |
+| Full Steam ahead | 29.00% | ~292 |
 | Going once, going twice, sold | 29.00% | ~292 |
-| Full Steam ahead | 28.00% | ~282 |
 | Bull and bear | 27.00% | ~272 |
 | Mole | 26.00% | ~262 |
 | All mine | 24.00% | ~242 |
@@ -32,7 +32,7 @@
 | Socializer | 24.00% | ~242 |
 | Seven at one stroke | 21.00% | ~211 |
 | General Manager | 21.00% | ~211 |
-| Country Life | 20.00% | ~201 |
+| Country Life | 21.00% | ~211 |
 | Hostile Takeover | 20.00% | ~201 |
 | Trailblazer | 18.00% | ~181 |
 | Breaking Ground | 15.00% | ~151 |
@@ -60,7 +60,7 @@
 | Together we stand | 0.10% | ~1 |
 | United States | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,007 (Ranked 174)  
+Progressed: 1,007 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

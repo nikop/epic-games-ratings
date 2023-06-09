@@ -5,23 +5,23 @@ Rating: 3.88 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~476 |
-| Electrician | 34.00% | ~395 |
-| Fear my botany powers, Mars | 31.00% | ~360 |
-| Zero Waste | 29.00% | ~337 |
-| Bob The Builder | 29.00% | ~337 |
-| I am the greatest botanist on this planet. | 28.00% | ~325 |
+| I don't feel so good | 41.00% | ~477 |
+| Electrician | 34.00% | ~396 |
+| Fear my botany powers, Mars | 32.00% | ~372 |
+| Zero Waste | 29.00% | ~338 |
+| Bob The Builder | 29.00% | ~338 |
+| I am the greatest botanist on this planet. | 28.00% | ~326 |
+| Gardener | 24.00% | ~279 |
 | Miner | 24.00% | ~279 |
-| Gardener | 23.00% | ~267 |
 | Houston we have a problem | 21.00% | ~244 |
 | Occupy Mars! | 21.00% | ~244 |
-| Detective | 18.00% | ~209 |
+| Detective | 18.00% | ~210 |
 | The Collector | 14.00% | ~163 |
 | Get your hands dirty | 9.00% | ~105 |
 | All Wheel Trouble | 6.00% | ~70 |
 | Space Forest | 6.00% | ~70 |
 | ITS crash site | 5.00% | ~58 |
-| DeDust | 4.00% | ~46 |
+| DeDust | 4.00% | ~47 |
 | “Aliens” | 3.00% | ~35 |
 | Plumber | 2.00% | ~23 |
 | Driver's License | 1.00% | ~12 |
@@ -33,9 +33,9 @@ Rating: 3.88 (Ranked 918)
 | 5G Network | 0.50% | ~6 |
 | Caveman | 0.50% | ~6 |
 | Bull’s eye | 0.40% | ~5 |
+| Rover Mechanic | 0.40% | ~5 |
 | Planetary Defence | 0.30% | ~3 |
 | Korolev crater | 0.30% | ~3 |
-| Rover Mechanic | 0.30% | ~3 |
 | Hot Repairs | 0.20% | ~2 |
 | One does not simply... | 0.20% | ~2 |
 | Cooking Vegetables | 0.10% | ~1 |
@@ -54,7 +54,7 @@ Rating: 3.88 (Ranked 918)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,162 (Ranked 167)  
+Progressed: 1,164 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 1,142 | 0 |
 | 2023-06-07 | 1,144 | 0 |
 | 2023-06-08 | 1,162 | 0 |
+| 2023-06-09 | 1,164 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

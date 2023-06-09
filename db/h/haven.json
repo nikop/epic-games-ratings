@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -170,7 +170,7 @@
   "Tags": [],
   "EOS_Progressed": 1238,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -939,9 +939,9 @@
       "ID": "29",
       "SetID": "n50no0",
       "Name": "A love supreme",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 223
+      "UsersEstimate": 235
     },
     {
       "ID": "3",
@@ -1035,8 +1035,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-09T00:06:30.8967247+00:00",
+  "LastChanged_Achievements": "2023-06-09T02:28:23.9239281+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:55.0417129+00:00",
-  "LastUpdate_Ratings": "2023-06-08T23:59:38.9399007+00:00",
-  "LastUpdate_Achievements": "2023-06-09T00:06:30.8967525+00:00"
+  "LastUpdate_Ratings": "2023-06-09T02:21:48.4549608+00:00",
+  "LastUpdate_Achievements": "2023-06-09T02:28:23.9239598+00:00"
 }

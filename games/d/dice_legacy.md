@@ -5,9 +5,9 @@ Rating: 4.27 (Ranked 783)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 31.00% | ~263 |
+| We made it | 31.00% | ~264 |
 | The City | 8.00% | ~68 |
-| Manipulating Fate | 7.00% | ~59 |
+| Manipulating Fate | 7.00% | ~60 |
 | Burn and Pillage | 5.00% | ~42 |
 | Hear me out | 5.00% | ~42 |
 | Full house | 4.00% | ~34 |
@@ -16,11 +16,11 @@ Rating: 4.27 (Ranked 783)
 | Listening to the crowd | 4.00% | ~34 |
 | The Stranded King | 4.00% | ~34 |
 | Accepting the Prophecy | 4.00% | ~34 |
-| Just Chilling | 3.00% | ~25 |
-| Ascended | 3.00% | ~25 |
-| Incredible Strength | 3.00% | ~25 |
-| The Penitent Ones | 3.00% | ~25 |
-| Prophecy Fulfilled | 3.00% | ~25 |
+| Just Chilling | 3.00% | ~26 |
+| Ascended | 3.00% | ~26 |
+| Incredible Strength | 3.00% | ~26 |
+| The Penitent Ones | 3.00% | ~26 |
+| Prophecy Fulfilled | 3.00% | ~26 |
 | The Greedy Ones | 2.00% | ~17 |
 | The First King | 1.00% | ~8 |
 | The great fire | 1.00% | ~8 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 783)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 849 (Ranked 183)  
+Progressed: 850 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 841 | 0 |
 | 2023-06-07 | 845 | 0 |
 | 2023-06-08 | 849 | 0 |
+| 2023-06-09 | 850 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

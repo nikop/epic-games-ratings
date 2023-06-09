@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 177,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.14,
+  "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -138,6 +138,11 @@
       "Time": "2023-06-09T00:06:15.1220761+00:00",
       "NumProgressed": 176,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T02:28:07.2511591+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -147,9 +152,9 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "02",
@@ -165,7 +170,7 @@
       "Name": "In the treetops.",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "04",
@@ -181,7 +186,7 @@
       "Name": "A turbulent river.",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "06",
@@ -195,9 +200,9 @@
       "ID": "07",
       "SetID": "6glb5g1",
       "Name": "Swimming on a dino\u0027s back.",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "08",
@@ -235,9 +240,9 @@
       "ID": "12",
       "SetID": "6glb5g1",
       "Name": "Dinosaur graveyard.",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "13",
@@ -268,7 +273,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 177,
       "Completed": 2
     }
   ],
@@ -276,8 +281,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-06-09T00:06:15.1220757+00:00",
+  "LastChanged_Achievements": "2023-06-09T02:28:07.2511585+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:41.1874088+00:00",
-  "LastUpdate_Ratings": "2023-06-08T23:57:43.0412119+00:00",
-  "LastUpdate_Achievements": "2023-06-09T00:06:15.1220882+00:00"
+  "LastUpdate_Ratings": "2023-06-09T02:19:43.5858193+00:00",
+  "LastUpdate_Achievements": "2023-06-09T02:28:07.2511716+00:00"
 }

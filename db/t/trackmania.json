@@ -4,11 +4,11 @@
   "ProductSlug": "trackmania",
   "Ranking_Rating": 259,
   "Ranking_Popularity": 90,
-  "Ranking_PopularitySum": 49,
+  "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5979,10 +5979,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 23307,
       "NumberOfAwardsMax": 2739
+    },
+    {
+      "Time": "2023-06-09T02:20:26.7299918+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 23315,
+      "NumberOfAwardsMax": 2739
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23307,
+  "NumberOfAwards": 23315,
   "NumberOfAwardsMax": 2739,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -5996,7 +6002,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2491
+      "Count": 2496
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -6014,7 +6020,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2450
+      "Count": 2453
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6070,8 +6076,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-06-08T22:58:57.7475089+00:00",
+  "LastChanged": "2023-06-09T02:20:26.7299915+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:27.9570789+00:00",
-  "LastUpdate_Ratings": "2023-06-08T23:58:23.6471492+00:00",
-  "LastUpdate_Achievements": "2023-06-09T00:01:10.631678+00:00"
+  "LastUpdate_Ratings": "2023-06-09T02:20:26.7299924+00:00",
+  "LastUpdate_Achievements": "2023-06-09T02:23:27.5973832+00:00"
 }

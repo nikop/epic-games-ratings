@@ -5,18 +5,18 @@ Rating: 4.50 (Ranked 545)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~679 |
+| Meeting Resistance | 28.00% | ~680 |
 | Confirming Suspicions | 23.00% | ~558 |
 | The Kraken Wakes | 19.00% | ~461 |
 | It's Starting to Crack | 16.00% | ~388 |
 | Lord of War | 14.00% | ~340 |
 | Change the Channel | 14.00% | ~340 |
-| Resourceful | 13.00% | ~315 |
+| Resourceful | 13.00% | ~316 |
 | Taking it back | 12.00% | ~291 |
-| Organ Grinder | 10.00% | ~242 |
-| As Quiet as a Mouse | 10.00% | ~242 |
-| Target America | 10.00% | ~242 |
-| The Kraken Sleeps | 9.00% | ~218 |
+| Organ Grinder | 10.00% | ~243 |
+| As Quiet as a Mouse | 10.00% | ~243 |
+| Target America | 10.00% | ~243 |
+| The Kraken Sleeps | 9.00% | ~219 |
 | Liberté | 8.00% | ~194 |
 | Enemy at the Gates | 8.00% | ~194 |
 | Just a Flesh Wound | 8.00% | ~194 |
@@ -36,9 +36,9 @@ Rating: 4.50 (Ranked 545)
 | Brains of the Operation | 5.00% | ~121 |
 | Precision Is Key | 4.00% | ~97 |
 | Rigged to Blow | 3.00% | ~73 |
-| The Long Game | 2.00% | ~48 |
-| My Little Friend | 2.00% | ~48 |
-| It'll Buff Right Out | 2.00% | ~48 |
+| The Long Game | 2.00% | ~49 |
+| My Little Friend | 2.00% | ~49 |
+| It'll Buff Right Out | 2.00% | ~49 |
 | Strategist | 1.00% | ~24 |
 | Tinkerer | 1.00% | ~24 |
 | Locomotion Commotion | 1.00% | ~24 |
@@ -46,9 +46,9 @@ Rating: 4.50 (Ranked 545)
 | Don't hold your breath | 1.00% | ~24 |
 | Herr Today, Gone Tomorrow | 1.00% | ~24 |
 | Operation Foxley | 1.00% | ~24 |
+| Siegebreaker | 0.80% | ~19 |
 | Ghost of Falaise | 0.80% | ~19 |
 | Last Resort | 0.70% | ~17 |
-| Siegebreaker | 0.70% | ~17 |
 | From Paris with Love | 0.60% | ~15 |
 | Burn after reading | 0.60% | ~15 |
 | Souvenir hunter | 0.60% | ~15 |
@@ -77,7 +77,7 @@ Rating: 4.50 (Ranked 545)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,425 (Ranked 148)  
+Progressed: 2,428 (Ranked 148)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
-| 2023-06-09 | 2,425 | 2 |
+| 2023-06-09 | 2,428 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

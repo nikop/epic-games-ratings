@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 545)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 78.00% | ~1,267 |
+| Complete Guard Faction | 79.00% | ~1,283 |
 | Become King | 71.00% | ~1,153 |
 | Ranged Weapon | 60.00% | ~974 |
 | Defeat 25 Frogs | 60.00% | ~974 |
@@ -29,8 +29,8 @@ Rating: 4.50 (Ranked 545)
 | Defeat Rattus Augustail | 25.00% | ~406 |
 | Complete the Chefs Book | 23.00% | ~374 |
 | Complete Ranger Faction | 20.00% | ~325 |
-| Defeat Avor Warden of the Northern Wastes | 18.00% | ~292 |
-| Discover the mystery of the Kings Chambers | 17.00% | ~276 |
+| Defeat Avor Warden of the Northern Wastes | 19.00% | ~309 |
+| Discover the mystery of the Kings Chambers | 18.00% | ~292 |
 | Complete Arena Faction | 14.00% | ~227 |
 | Complete Redgi's Armory | 7.00% | ~114 |
 | King of Kings | 7.00% | ~114 |

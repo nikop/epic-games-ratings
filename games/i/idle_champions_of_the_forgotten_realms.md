@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,803 |
+| A Brief Tour of the Realms | 2.00% | ~1,804 |
 | The Cursed Farmer | 1.00% | ~902 |
 | The Mad Wizard | 1.00% | ~902 |
 | Beast Intentions | 0.90% | ~812 |
 | The Court of Storms | 0.90% | ~508 |
-| The Ring of Regeneration | 0.70% | ~631 |
+| The Ring of Regeneration | 0.80% | ~721 |
 | Beware the Jabberwock | 0.70% | ~395 |
 | Were-verpowered | 0.60% | ~541 |
 | Seeking Allies | 0.60% | ~541 |
@@ -35,6 +35,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.40% | ~361 |
 | Exploring Port Nyanzaru | 0.40% | ~361 |
 | The Contagious Curse | 0.40% | ~361 |
+| Escort to Waterdeep | 0.40% | ~361 |
 | Maddening | 0.30% | ~271 |
 | The Silken Swamp | 0.30% | ~271 |
 | Supply Run | 0.30% | ~271 |
@@ -59,7 +60,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hearts Aflame | 0.30% | ~169 |
 | Bad Odds in Avernus | 0.30% | ~169 |
 | An Even Worse Time in Avernus | 0.30% | ~169 |
-| Escort to Waterdeep | 0.30% | ~271 |
 | Constant Banditry | 0.30% | ~271 |
 | Waterdeep Detours | 0.30% | ~271 |
 | Underdeep Cartography | 0.30% | ~271 |
@@ -123,6 +123,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.20% | ~113 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~113 |
 | Kas the Bloody Handed | 0.20% | ~113 |
+| Kas the Destroyer | 0.20% | ~113 |
 | Bully for Vecna | 0.20% | ~113 |
 | Who Lurks Below? | 0.20% | ~113 |
 | Xanathaaaaaaar! | 0.20% | ~113 |
@@ -152,6 +153,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 2 | 0.20% | ~180 |
 | The Mists of Ravenloft | 0.20% | ~180 |
 | Invisible Shadows | 0.20% | ~180 |
+| Werewolves in the Mist | 0.20% | ~180 |
 | Family Entanglements | 0.20% | ~180 |
 | Chatty Nobles | 0.20% | ~180 |
 | Modron Assistance | 0.20% | ~180 |
@@ -201,6 +203,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Champions of Waterdeep | 0.20% | ~180 |
 | Dinosaur Racing | 0.20% | ~180 |
 | Elturel Has Fallen | 0.20% | ~180 |
+| Everything is Awful | 0.20% | ~180 |
 | Earthquake! | 0.20% | ~113 |
 | Hailstorm! | 0.20% | ~113 |
 | Resolve Amongst Chaos | 0.20% | ~180 |
@@ -239,6 +242,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wrecked Flying Fortress | 0.20% | ~113 |
 | Expert Opinion | 0.20% | ~180 |
 | Dwarven Rumors | 0.20% | ~113 |
+| Frozen in Fear | 0.20% | ~113 |
 | Sunblight | 0.20% | ~113 |
 | The Bleeding Citadel | 0.20% | ~113 |
 | Idyllglen | 0.20% | ~113 |
@@ -297,7 +301,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Evacuation of Waterdeep | 0.10% | ~56 |
 | Flapjacks and Waffles | 0.10% | ~56 |
 | On the Hunt | 0.10% | ~90 |
-| Kas the Destroyer | 0.10% | ~56 |
 | Clowning Around | 0.10% | ~56 |
 | A Whale of a Time | 0.10% | ~56 |
 | Struggling Toward Omu | 0.10% | ~90 |
@@ -316,7 +319,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~90 |
 | Acererak's Puzzle | 0.10% | ~56 |
 | The Hunt for Owl-y | 0.10% | ~90 |
-| Werewolves in the Mist | 0.10% | ~90 |
 | We're not in Faerûn Anymore | 0.10% | ~90 |
 | Haunted Fortunes | 0.10% | ~90 |
 | Poor Fortune | 0.10% | ~90 |
@@ -403,7 +405,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~90 |
 | The Nimble Grove | 0.10% | ~90 |
 | The Misty Grove | 0.10% | ~56 |
-| Everything is Awful | 0.10% | ~90 |
 | Shadow Stalkers | 0.10% | ~56 |
 | Twice More Into The Breach | 0.10% | ~90 |
 | Thrice More Into The Breach | 0.10% | ~56 |
@@ -456,7 +457,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relentless Peril | 0.10% | ~56 |
 | Rickety Rubble | 0.10% | ~56 |
 | Mimic Perception | 0.10% | ~56 |
-| Frozen in Fear | 0.10% | ~56 |
 | It's Cold Out There Today | 0.10% | ~56 |
 | Fortress Assault | 0.10% | ~56 |
 | Hats off to you! | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,169 (Ranked 63)  
+Progressed: 90,180 (Ranked 64)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,15 +550,15 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
-| 2023-06-09 | 90,169 | 1,924 |
+| 2023-06-09 | 90,180 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
-Sum: 30,051 (Ranked 37)  
+Sum: 30,054 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,922 |
-| This game is Great for Beginners | 4,857 |
+| This game is Great for Beginners | 4,860 |
 | This game has Quickly Understood Controls | 4,611 |
 | This game is Relaxing | 4,509 |
 | This game is Highly Recommended | 3,955 |
@@ -701,3 +701,4 @@ Diff (max vs sum): 27
 | 2023-06-06 | 4.06 | - | 4,920 | 30,044 |
 | 2023-06-07 | 4.06 | - | 4,920 | 30,049 |
 | 2023-06-08 | 4.06 | - | 4,922 | 30,051 |
+| 2023-06-09 | 4.06 | - | 4,922 | 30,054 |

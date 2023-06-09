@@ -32,8 +32,8 @@
 | Quit Horsin' Around | 6.00% | ~6 |
 | Master Survivor | 6.00% | ~3 |
 | Pyromaniac | 6.00% | ~3 |
+| Bring Home The Bacon | 5.00% | ~5 |
 | Eggtraordinary | 5.00% | ~5 |
-| Bring Home The Bacon | 4.00% | ~4 |
 | Fresh Pancake | 4.00% | ~4 |
 | Pork Chop Express | 4.00% | ~4 |
 | Carrocketeer | 4.00% | ~4 |

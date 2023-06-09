@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 54.00% | ~51 |
-| Press-ganged | 40.00% | ~38 |
+| Press-ganged | 41.00% | ~39 |
 | The Package | 22.00% | ~21 |
 | Randomized | 11.00% | ~10 |
-| Conquered | 9.00% | ~8 |
+| Conquered | 10.00% | ~9 |
 | Scribe | 4.00% | ~4 |
 | Conciliator | 3.00% | ~3 |
 | Tactician | 3.00% | ~3 |
@@ -18,6 +18,7 @@
 | The More the Merrier | 2.00% | ~2 |
 | Bounty Hunter | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
+| Xevarian Gambit | 1.00% | ~1 |
 | Harbinger | 1.00% | ~1 |
 | Courier | 1.00% | ~1 |
 | The Voice of Hereafter | 1.00% | ~1 |
@@ -46,7 +47,6 @@
 | Company of Heroes | 0.00% | ~0 |
 | Embellished | 0.00% | ~0 |
 | Huntress Unbound | 0.00% | ~0 |
-| Xevarian Gambit | 0.00% | ~0 |
 | Deputized | 0.00% | ~0 |
 | Accomplished Explorer | 0.00% | ~0 |
 | Over the Horizon | 0.00% | ~0 |

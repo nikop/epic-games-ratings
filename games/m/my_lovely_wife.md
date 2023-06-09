@@ -6,14 +6,14 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~555 |
-| I did it! | 94.00% | ~538 |
+| Objective Complete | 97.00% | ~556 |
+| I did it! | 94.00% | ~539 |
 | Learner | 91.00% | ~521 |
 | Economical | 91.00% | ~521 |
-| Devout | 89.00% | ~509 |
-| The Love Martyr | 87.00% | ~498 |
-| Frugal | 85.00% | ~486 |
-| Dilligent | 83.00% | ~475 |
+| Devout | 89.00% | ~510 |
+| The Love Martyr | 87.00% | ~499 |
+| Frugal | 85.00% | ~487 |
+| Dilligent | 83.00% | ~476 |
 | I... I did it? | 80.00% | ~458 |
 | Adored | 76.00% | ~435 |
 | The Hobbyist | 65.00% | ~372 |
@@ -22,14 +22,14 @@ Number of Ratings: 25  (23.09.2022)
 | The Admirer | 51.00% | ~292 |
 | Precious | 44.00% | ~252 |
 | Devoted | 41.00% | ~235 |
-| The Farmer | 38.00% | ~217 |
+| The Farmer | 38.00% | ~218 |
 | Ever After | 36.00% | ~206 |
 | Mandatory Sacrifice | 29.00% | ~166 |
-| Loyal | 27.00% | ~154 |
-| The Collector | 24.00% | ~137 |
-| All Doors Open | 20.00% | ~114 |
+| Loyal | 27.00% | ~155 |
+| The Collector | 24.00% | ~138 |
+| All Doors Open | 20.00% | ~115 |
 | Faithful | 10.00% | ~57 |
-| A Close | 9.00% | ~51 |
+| A Close | 9.00% | ~52 |
 | Asmodeus | 8.00% | ~46 |
 | Luna | 8.00% | ~46 |
 | Lover | 1.00% | ~6 |
@@ -40,7 +40,7 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 572 (Ranked 199)  
+Progressed: 573 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,6 +63,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-02 | 570 | 0 |
 | 2023-06-06 | 571 | 0 |
 | 2023-06-07 | 572 | 0 |
+| 2023-06-09 | 573 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

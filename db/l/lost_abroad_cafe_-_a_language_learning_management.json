@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
     "PcReleaseDate": "2022-12-31T01:00:00+00:00",
@@ -248,9 +248,9 @@
       "ID": "coffee_10",
       "SetID": "56hff7o",
       "Name": "Barista",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "coffee_100",
@@ -280,17 +280,17 @@
       "ID": "get_lost",
       "SetID": "56hff7o",
       "Name": "Get Lost!",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "tea_10",
       "SetID": "56hff7o",
       "Name": "Tea-ser",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "tea_100",
@@ -318,8 +318,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-06-09T00:05:15.2993264+00:00",
+  "LastChanged_Achievements": "2023-06-09T02:27:02.2352953+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:50.0360313+00:00",
-  "LastUpdate_Ratings": "2023-06-08T23:58:42.6243895+00:00",
-  "LastUpdate_Achievements": "2023-06-09T00:05:15.2993368+00:00"
+  "LastUpdate_Ratings": "2023-06-09T02:20:48.124031+00:00",
+  "LastUpdate_Achievements": "2023-06-09T02:27:02.2353058+00:00"
 }

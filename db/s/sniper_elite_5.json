@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2425,
+  "EOS_Progressed": 2428,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2919,6 +2919,11 @@
       "Time": "2023-06-09T00:06:27.6158918+00:00",
       "NumProgressed": 2425,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T02:28:20.4291997+00:00",
+      "NumProgressed": 2428,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2994,7 +2999,7 @@
       "Name": "Organ Grinder",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3010,7 +3015,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3074,7 +3079,7 @@
       "Name": "The Long Game",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -3122,7 +3127,7 @@
       "Name": "My Little Friend",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -3154,7 +3159,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3170,7 +3175,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3250,7 +3255,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -3322,7 +3327,7 @@
       "Name": "Target America",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3338,7 +3343,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -3424,9 +3429,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -3497,13 +3502,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2376,
+      "Progressed": 2379,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2425,
+      "Progressed": 2428,
       "Completed": 2
     }
   ],
@@ -3511,8 +3516,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-08T13:05:05.4339298+00:00",
-  "LastChanged_Achievements": "2023-06-09T00:06:27.6158912+00:00",
+  "LastChanged_Achievements": "2023-06-09T02:28:20.429199+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-09T00:00:39.6427956+00:00",
-  "LastUpdate_Achievements": "2023-06-09T00:06:27.6159779+00:00"
+  "LastUpdate_Ratings": "2023-06-09T02:22:52.6506682+00:00",
+  "LastUpdate_Achievements": "2023-06-09T02:28:20.429299+00:00"
 }

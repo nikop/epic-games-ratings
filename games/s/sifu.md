@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~696 |
-| Project Arena | 3.00% | ~522 |
+| Diligence as a goal | 4.00% | ~697 |
+| Project Arena | 3.00% | ~523 |
 | The Old Grandmaster | 1.00% | ~7,081 |
 | The Assault | 1.00% | ~7,081 |
 | The Hateful Pole Fighter | 1.00% | ~7,081 |
@@ -33,17 +33,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.70% | ~4,957 |
 | Qi Gong: Mind | 0.70% | ~4,957 |
 | I know Kung-Fu | 0.70% | ~4,957 |
-| Deadly Venom | 0.60% | ~104 |
-| A Touch of Acumen | 0.60% | ~104 |
+| Deadly Venom | 0.60% | ~105 |
+| A Touch of Acumen | 0.60% | ~105 |
 | Muk Yan Master | 0.50% | ~3,541 |
 | Tiger on Fire | 0.50% | ~3,541 |
 | Source of Flying Daggers | 0.50% | ~3,541 |
 | Iron Money | 0.50% | ~3,541 |
 | Detective Story | 0.50% | ~3,541 |
-| Legendary Talismans of Wuxing | 0.40% | ~2,832 |
-| Prodigal Child | 0.40% | ~2,832 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~2,832 |
-| Sword Stained With Blood | 0.40% | ~2,832 |
+| Legendary Talismans of Wuxing | 0.40% | ~2,833 |
+| Prodigal Child | 0.40% | ~2,833 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,833 |
+| Sword Stained With Blood | 0.40% | ~2,833 |
 | Martial Hub | 0.40% | ~70 |
 | Secure, Protect, Leave | 0.40% | ~70 |
 | Martial Artist | 0.30% | ~2,124 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,110 (Ranked 16)  
+Progressed: 708,133 (Ranked 16)  
 Completed: 12,763 (1.80%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 12,763 (1.80%) (Ranked 70)
 | 2023-06-06 | 707,727 | 12,763 |
 | 2023-06-07 | 707,910 | 12,763 |
 | 2023-06-08 | 708,100 | 12,763 |
-| 2023-06-09 | 708,110 | 12,763 |
+| 2023-06-09 | 708,133 | 12,763 |
 ## Awards
 Max (Great Boss Battles): 6,151  (Ranked 52)  
 Sum: 10,492 (Ranked 78)  

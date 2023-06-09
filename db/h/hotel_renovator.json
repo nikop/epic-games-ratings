@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -76,7 +76,7 @@
   "Tags": [],
   "EOS_Progressed": 802,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.62,
   "EosHistory": [
@@ -688,9 +688,9 @@
       "ID": "ACH_ELEVATOR_FIXED",
       "SetID": "7k95e4n",
       "Name": "Fine, I\u0027ll do it myself",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -873,8 +873,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-06-09T00:06:32.2597737+00:00",
+  "LastChanged_Achievements": "2023-06-09T02:28:25.2538742+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:09.0509421+00:00",
-  "LastUpdate_Ratings": "2023-06-08T23:57:16.9166869+00:00",
-  "LastUpdate_Achievements": "2023-06-09T00:06:32.2597982+00:00"
+  "LastUpdate_Ratings": "2023-06-09T02:19:14.9742818+00:00",
+  "LastUpdate_Achievements": "2023-06-09T02:28:25.2539015+00:00"
 }

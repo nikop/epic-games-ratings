@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 98.00% | ~291 |
-| A tiny town | 86.00% | ~255 |
-| Buildings, roads, cars, ...and people | 66.00% | ~196 |
-| Great view from the beach and from the hill | 56.00% | ~166 |
-| Bridges to come and go | 48.00% | ~143 |
-| Found an oasis | 42.00% | ~125 |
-| Burger or pizza? | 37.00% | ~110 |
-| Passion for sports | 33.00% | ~98 |
-| Who loves trains? | 28.00% | ~83 |
-| Easy and steady climb | 27.00% | ~80 |
-| At the heart of the city | 24.00% | ~71 |
-| Calm neighborhood | 23.00% | ~68 |
-| Elevated ring | 23.00% | ~68 |
-| Not lonely anymore | 21.00% | ~62 |
-| Monumental tribute | 20.00% | ~59 |
-| The beach is right there | 19.00% | ~56 |
-| Commuting | 18.00% | ~53 |
-| Le jardin magnifique | 18.00% | ~53 |
-| Aiming for a living and human city | 15.00% | ~45 |
-| City of dreams | 15.00% | ~45 |
+| Welcome! | 98.00% | ~293 |
+| A tiny town | 86.00% | ~257 |
+| Buildings, roads, cars, ...and people | 66.00% | ~197 |
+| Great view from the beach and from the hill | 55.00% | ~164 |
+| Bridges to come and go | 48.00% | ~144 |
+| Found an oasis | 42.00% | ~126 |
+| Burger or pizza? | 37.00% | ~111 |
+| Passion for sports | 33.00% | ~99 |
+| Who loves trains? | 28.00% | ~84 |
+| Easy and steady climb | 27.00% | ~81 |
+| At the heart of the city | 24.00% | ~72 |
+| Calm neighborhood | 23.00% | ~69 |
+| Elevated ring | 22.00% | ~66 |
+| Not lonely anymore | 21.00% | ~63 |
+| Monumental tribute | 20.00% | ~60 |
+| The beach is right there | 19.00% | ~57 |
+| Commuting | 18.00% | ~54 |
+| Le jardin magnifique | 18.00% | ~54 |
+| Aiming for a living and human city | 16.00% | ~48 |
+| City of dreams | 16.00% | ~48 |
 | Happy Christmas night! | 15.00% | ~45 |
 | Night walk along the beach | 15.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297 (Ranked 227)  
-Completed: 45 (15.15%) (Ranked 10)  
+Progressed: 299 (Ranked 227)  
+Completed: 45 (15.05%) (Ranked 10)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,7 +75,7 @@ Completed: 45 (15.15%) (Ranked 10)
 | 2023-06-06 | 283 | 43 |
 | 2023-06-07 | 287 | 43 |
 | 2023-06-08 | 296 | 45 |
-| 2023-06-09 | 297 | 45 |
+| 2023-06-09 | 299 | 45 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

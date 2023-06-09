@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -478,9 +478,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 250677,
+  "EOS_Progressed": 250685,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5398,6 +5398,11 @@
       "Time": "2023-06-08T23:04:09.7342715+00:00",
       "NumProgressed": 250677,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T02:25:19.4661083+00:00",
+      "NumProgressed": 250685,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -5409,7 +5414,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17547
+      "UsersEstimate": 17548
     },
     {
       "ID": "Act2",
@@ -5457,7 +5462,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77710
+      "UsersEstimate": 77712
     },
     {
       "ID": "BackHomeNTimes",
@@ -5681,7 +5686,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7520
+      "UsersEstimate": 7521
     },
     {
       "ID": "KillOtherWithMine",
@@ -5697,7 +5702,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55149
+      "UsersEstimate": 55151
     },
     {
       "ID": "KillOthers2",
@@ -5856,7 +5861,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 250677,
+      "Progressed": 250685,
       "Completed": 1
     }
   ],
@@ -5864,8 +5869,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-07T19:01:29.3487318+00:00",
-  "LastChanged_Achievements": "2023-06-09T00:03:39.6159282+00:00",
+  "LastChanged_Achievements": "2023-06-09T02:25:19.4661077+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.3196281+00:00",
-  "LastUpdate_Ratings": "2023-06-09T00:00:24.0942856+00:00",
-  "LastUpdate_Achievements": "2023-06-09T00:03:39.6160315+00:00"
+  "LastUpdate_Ratings": "2023-06-09T02:22:35.3714535+00:00",
+  "LastUpdate_Achievements": "2023-06-09T02:25:19.4662069+00:00"
 }

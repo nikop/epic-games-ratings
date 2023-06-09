@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,7 +443,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73991,
+  "EOS_Progressed": 73999,
   "EOS_Completed": 337,
   "EOS_NewPlayers": 970,
   "EOS_NewCompleters": 0,
@@ -5503,6 +5503,11 @@
       "Time": "2023-06-09T00:06:22.6533354+00:00",
       "NumProgressed": 73991,
       "NumCompleted": 337
+    },
+    {
+      "Time": "2023-06-09T02:28:15.4914252+00:00",
+      "NumProgressed": 73999,
+      "NumCompleted": 337
     }
   ],
   "TotalAchievements": 10,
@@ -5570,7 +5575,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7399
+      "UsersEstimate": 7400
     },
     {
       "ID": "Level00BowlingStrike",
@@ -5578,7 +5583,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 26637
+      "UsersEstimate": 26640
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -5586,22 +5591,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8139
+      "UsersEstimate": 8140
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 73991,
+      "Progressed": 73999,
       "Completed": 337
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-06-09T00:06:22.6533351+00:00",
+  "LastChanged_Achievements": "2023-06-09T02:28:15.4914243+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:55.6520085+00:00",
-  "LastUpdate_Ratings": "2023-06-09T00:00:33.6822828+00:00",
-  "LastUpdate_Achievements": "2023-06-09T00:06:22.6533698+00:00"
+  "LastUpdate_Ratings": "2023-06-09T02:22:45.9414634+00:00",
+  "LastUpdate_Achievements": "2023-06-09T02:28:15.4914835+00:00"
 }

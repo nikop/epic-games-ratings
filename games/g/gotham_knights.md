@@ -5,21 +5,21 @@ Rating: 4.17 (Ranked 847)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 4.00% | ~2,565 |
+| First Step Into the Knight | 4.00% | ~2,566 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,924 |
 | Loose Ends | 3.00% | ~1,924 |
-| The Batman Family | 2.00% | ~1,282 |
-| Something in the Clay | 2.00% | ~1,282 |
-| To the Victor Go the Spoils | 2.00% | ~1,282 |
-| Quartzer Life Crisis | 2.00% | ~1,282 |
-| Snow Problem | 2.00% | ~1,282 |
-| Get ReQ'd | 2.00% | ~1,282 |
-| Working Hard or Harley Working? | 2.00% | ~1,282 |
-| Unstoppable Force | 2.00% | ~1,282 |
-| Knighthood | 2.00% | ~1,282 |
-| Whispered Words | 2.00% | ~1,282 |
-| Lock and Key | 2.00% | ~1,282 |
-| Bad Apples in Every Orchard | 2.00% | ~1,282 |
+| The Batman Family | 2.00% | ~1,283 |
+| Something in the Clay | 2.00% | ~1,283 |
+| To the Victor Go the Spoils | 2.00% | ~1,283 |
+| Quartzer Life Crisis | 2.00% | ~1,283 |
+| Snow Problem | 2.00% | ~1,283 |
+| Get ReQ'd | 2.00% | ~1,283 |
+| Working Hard or Harley Working? | 2.00% | ~1,283 |
+| Unstoppable Force | 2.00% | ~1,283 |
+| Knighthood | 2.00% | ~1,283 |
+| Whispered Words | 2.00% | ~1,283 |
+| Lock and Key | 2.00% | ~1,283 |
+| Bad Apples in Every Orchard | 2.00% | ~1,283 |
 | End of an Era | 1.00% | ~641 |
 | In Your Element | 1.00% | ~641 |
 | Protector of Gotham | 1.00% | ~641 |
@@ -42,8 +42,8 @@ Rating: 4.17 (Ranked 847)
 | Family Meeting | 0.60% | ~385 |
 | Expert Crime Fighter | 0.50% | ~321 |
 | A Worthy Successor | 0.50% | ~321 |
-| Dressed to Impress | 0.40% | ~256 |
-| A Momentum Occasion | 0.40% | ~256 |
+| Dressed to Impress | 0.40% | ~257 |
+| A Momentum Occasion | 0.40% | ~257 |
 | Bat Out of Hell | 0.30% | ~192 |
 | Hammer and Icicle | 0.20% | ~69 |
 | Renewable Enemy Source | 0.20% | ~69 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 847)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,124 (Ranked 71)  
+Progressed: 64,148 (Ranked 71)  
 Completed: 94 (0.15%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,14 +117,14 @@ Completed: 94 (0.15%) (Ranked 155)
 | 2023-06-06 | 63,871 | 94 |
 | 2023-06-07 | 63,990 | 94 |
 | 2023-06-08 | 64,117 | 94 |
-| 2023-06-09 | 64,124 | 94 |
+| 2023-06-09 | 64,148 | 94 |
 ## Awards
-Max (Great Boss Battles): 2,307  (Ranked 97)  
-Sum: 3,814 (Ranked 137)  
+Max (Great Boss Battles): 2,313  (Ranked 97)  
+Sum: 3,820 (Ranked 137)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,307 |
+| This game has Great Boss Battles | 2,313 |
 | This game has Quickly Understood Controls | 196 |
 | This game is Extremely Fun | 196 |
 | This game is Relaxing | 195 |
@@ -245,3 +245,4 @@ Diff (max vs sum): -40
 | 2023-06-06 | 4.17 | 2,304 | 3,809 |
 | 2023-06-07 | 4.17 | 2,307 | 3,813 |
 | 2023-06-08 | 4.17 | 2,307 | 3,814 |
+| 2023-06-09 | 4.17 | 2,313 | 3,820 |

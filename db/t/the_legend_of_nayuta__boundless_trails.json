@@ -4,8 +4,8 @@
   "ProductSlug": "the-legend-of-nayuta-boundless-trails",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.4335958+00:00",
-  "LastUpdate_Ratings": "2023-06-08T23:58:05.1270736+00:00",
-  "LastUpdate_Achievements": "2023-06-09T00:04:22.8406337+00:00"
+  "LastUpdate_Ratings": "2023-06-09T02:20:07.7202876+00:00",
+  "LastUpdate_Achievements": "2023-06-09T02:26:05.4367917+00:00"
 }

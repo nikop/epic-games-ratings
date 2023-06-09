@@ -1,43 +1,43 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.46 (Ranked 603)  
+Rating: 4.46 (Ranked 602)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,106 |
-| I'll Be Back | 84.00% | ~3,669 |
-| Sorry, I Dropped This | 77.00% | ~3,363 |
-| First Day on the Job | 76.00% | ~3,320 |
-| Butcher's Bill | 54.00% | ~2,359 |
-| P.A.X | 37.00% | ~1,616 |
-| Hey Listen | 36.00% | ~1,572 |
-| OPERATOR | 35.00% | ~1,529 |
-| It's Blue Light | 33.00% | ~1,441 |
+| On My Own Two Feet | 94.00% | ~4,108 |
+| I'll Be Back | 84.00% | ~3,671 |
+| Sorry, I Dropped This | 77.00% | ~3,365 |
+| First Day on the Job | 76.00% | ~3,321 |
+| Butcher's Bill | 54.00% | ~2,360 |
+| P.A.X | 37.00% | ~1,617 |
+| Hey Listen | 36.00% | ~1,573 |
+| OPERATOR | 35.00% | ~1,530 |
+| It's Blue Light | 33.00% | ~1,442 |
 | Most Wanted | 26.00% | ~1,136 |
 | Infidel | 23.00% | ~1,005 |
-| GOLIATH | 21.00% | ~917 |
+| GOLIATH | 21.00% | ~918 |
 | Firebug | 20.00% | ~874 |
 | I Choose You | 17.00% | ~743 |
 | Nothing to Lose | 17.00% | ~743 |
-| Big Sister | 15.00% | ~655 |
-| SENTINEL | 15.00% | ~655 |
+| Big Sister | 15.00% | ~656 |
+| SENTINEL | 15.00% | ~656 |
 | Gear Up | 14.00% | ~612 |
 | The Black Cerberus | 12.00% | ~524 |
 | Watchman | 12.00% | ~524 |
 | Core Power | 12.00% | ~524 |
-| CREO Killed the Video Star | 11.00% | ~480 |
-| Who's in Charge Here? | 11.00% | ~480 |
-| Shall Not Pass | 11.00% | ~480 |
+| CREO Killed the Video Star | 11.00% | ~481 |
+| Who's in Charge Here? | 11.00% | ~481 |
+| Shall Not Pass | 11.00% | ~481 |
 | Right Tool for the Job | 10.00% | ~437 |
 | Raging Drones | 9.00% | ~393 |
 | Overconfident | 9.00% | ~393 |
-| Pusher Man | 8.00% | ~349 |
-| Melting Down | 8.00% | ~349 |
-| Squad Chief Helvig | 8.00% | ~349 |
-| No More Marching | 8.00% | ~349 |
-| Is This Real Life? | 8.00% | ~349 |
+| Pusher Man | 8.00% | ~350 |
+| Melting Down | 8.00% | ~350 |
+| Squad Chief Helvig | 8.00% | ~350 |
+| No More Marching | 8.00% | ~350 |
+| Is This Real Life? | 8.00% | ~350 |
 | Duty-Bound | 7.00% | ~306 |
 | Liberation | 7.00% | ~306 |
 | Risk Assessment | 7.00% | ~306 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,368 (Ranked 130)  
+Progressed: 4,370 (Ranked 130)  
 Completed: 13 (0.30%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,6 +117,7 @@ Completed: 13 (0.30%) (Ranked 132)
 | 2023-06-06 | 4,348 | 13 |
 | 2023-06-07 | 4,355 | 13 |
 | 2023-06-08 | 4,368 | 13 |
+| 2023-06-09 | 4,370 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 462)  
 Sum: 26 (Ranked 470)  

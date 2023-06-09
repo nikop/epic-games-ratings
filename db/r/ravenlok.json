@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 974,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
@@ -2269,9 +2269,9 @@
       "ID": "10",
       "SetID": "d0g98p",
       "Name": "Piece of Cake",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 390
     },
     {
       "ID": "11",
@@ -2285,9 +2285,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 341
     },
     {
       "ID": "13",
@@ -2365,9 +2365,9 @@
       "ID": "21",
       "SetID": "d0g98p",
       "Name": "Take Heart",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 370
     },
     {
       "ID": "22",
@@ -2429,17 +2429,17 @@
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 351
     },
     {
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 594
     },
     {
       "ID": "30",
@@ -2485,9 +2485,9 @@
       "ID": "35",
       "SetID": "d0g98p",
       "Name": "Teacups for Toppy",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 380
     },
     {
       "ID": "36",
@@ -2670,8 +2670,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-09T00:06:14.9899805+00:00",
+  "LastChanged_Achievements": "2023-06-09T02:28:07.0783174+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:32.0875221+00:00",
-  "LastUpdate_Ratings": "2023-06-08T23:57:33.5675096+00:00",
-  "LastUpdate_Achievements": "2023-06-09T00:06:14.9900389+00:00"
+  "LastUpdate_Ratings": "2023-06-09T02:19:33.2821321+00:00",
+  "LastUpdate_Achievements": "2023-06-09T02:28:07.0783858+00:00"
 }

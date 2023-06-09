@@ -10,7 +10,7 @@ Rating: 4.31 (Ranked 756)
 | Aspiring Editor | 72.00% | ~765 |
 | Gun for Hire | 67.00% | ~712 |
 | I am the law! | 59.00% | ~627 |
-| Lumberjack | 45.00% | ~478 |
+| Lumberjack | 46.00% | ~489 |
 | Croaked | 41.00% | ~436 |
 | Limp Richard | 40.00% | ~425 |
 | From Darkness to Light | 39.00% | ~415 |
@@ -18,7 +18,7 @@ Rating: 4.31 (Ranked 756)
 | Editor Adept | 37.00% | ~393 |
 | Firestarter | 37.00% | ~393 |
 | Giant Killer | 34.00% | ~361 |
-| Sensei | 32.00% | ~340 |
+| Sensei | 33.00% | ~351 |
 | The meaning of Kain | 31.00% | ~330 |
 | Technophobe | 28.00% | ~298 |
 | Recycler | 26.00% | ~276 |

@@ -5,7 +5,7 @@
   "Ranking_Rating": 887,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
-  "Ranking_EOS_Progress": 63,
+  "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 11,
@@ -4112,10 +4112,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30051,
       "NumberOfAwardsMax": 4922
+    },
+    {
+      "Time": "2023-06-09T02:20:13.8735091+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30054,
+      "NumberOfAwardsMax": 4922
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30051,
+  "NumberOfAwards": 30054,
   "NumberOfAwardsMax": 4922,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4123,7 +4129,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4857
+      "Count": 4860
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4162,9 +4168,9 @@
       "Count": 3247
     }
   ],
-  "EOS_Progressed": 90169,
+  "EOS_Progressed": 90180,
   "EOS_Completed": 1924,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9197,6 +9203,11 @@
       "Time": "2023-06-09T00:06:48.3233641+00:00",
       "NumProgressed": 90169,
       "NumCompleted": 1924
+    },
+    {
+      "Time": "2023-06-09T02:28:41.6363423+00:00",
+      "NumProgressed": 90180,
+      "NumCompleted": 1924
     }
   ],
   "TotalAchievements": 493,
@@ -9208,7 +9219,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "objective_completed_10",
@@ -10062,9 +10073,9 @@
       "ID": "objective_completed_1199",
       "SetID": "415jc5c",
       "Name": "Kas the Destroyer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_12",
@@ -10574,9 +10585,9 @@
       "ID": "objective_completed_210",
       "SetID": "cc37lbc",
       "Name": "Werewolves in the Mist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_211",
@@ -10886,9 +10897,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 721
     },
     {
       "ID": "objective_completed_35",
@@ -11774,9 +11785,9 @@
       "ID": "objective_completed_601",
       "SetID": "cc37lbc",
       "Name": "Everything is Awful",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_602",
@@ -12278,9 +12289,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 361
     },
     {
       "ID": "objective_completed_690",
@@ -12582,9 +12593,9 @@
       "ID": "objective_completed_829",
       "SetID": "415jc5c",
       "Name": "Frozen in Fear",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_830",
@@ -13151,21 +13162,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56443,
-      "Completed": 2777
+      "Progressed": 56454,
+      "Completed": 2778
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90169,
+      "Progressed": 90180,
       "Completed": 1924
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-08T18:58:33.3558048+00:00",
-  "LastChanged_Achievements": "2023-06-09T00:06:48.3233635+00:00",
+  "LastChanged": "2023-06-09T02:20:13.873509+00:00",
+  "LastChanged_Achievements": "2023-06-09T02:28:41.6363417+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-08T23:58:11.6502783+00:00",
-  "LastUpdate_Achievements": "2023-06-09T00:06:48.3260358+00:00"
+  "LastUpdate_Ratings": "2023-06-09T02:20:13.8735096+00:00",
+  "LastUpdate_Achievements": "2023-06-09T02:28:41.6391307+00:00"
 }

@@ -51,6 +51,7 @@ Number of Ratings: 37  (23.09.2022)
 | Builder III | 2.00% | ~83 |
 | Completionist II | 2.00% | ~83 |
 | Genius | 2.00% | ~83 |
+| I've been everywhere V | 2.00% | ~83 |
 | A time consuming game IV | 2.00% | ~83 |
 | Tools of the trade III | 2.00% | ~83 |
 | Out of the frying pan | 2.00% | ~83 |
@@ -64,7 +65,6 @@ Number of Ratings: 37  (23.09.2022)
 | Completionist III | 1.00% | ~42 |
 | Only the sausage has two ends. | 1.00% | ~42 |
 | I've been everywhere I | 1.00% | ~42 |
-| I've been everywhere V | 1.00% | ~42 |
 | Tax-man V | 1.00% | ~42 |
 | A time consuming game V | 1.00% | ~42 |
 | An honorable Governor III | 0.90% | ~37 |
