@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4168,9 +4168,9 @@
       "Count": 3247
     }
   ],
-  "EOS_Progressed": 90194,
+  "EOS_Progressed": 90195,
   "EOS_Completed": 1924,
-  "EOS_NewPlayers": 724,
+  "EOS_NewPlayers": 722,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9223,6 +9223,11 @@
       "Time": "2023-06-09T05:08:00.9524826+00:00",
       "NumProgressed": 90194,
       "NumCompleted": 1924
+    },
+    {
+      "Time": "2023-06-09T06:07:38.8474558+00:00",
+      "NumProgressed": 90195,
+      "NumCompleted": 1924
     }
   ],
   "TotalAchievements": 493,
@@ -11336,9 +11341,9 @@
       "ID": "objective_completed_433",
       "SetID": "cc37lbc",
       "Name": "Orcs Are Wild",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_434",
@@ -13177,21 +13182,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56468,
+      "Progressed": 56469,
       "Completed": 2778
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90194,
+      "Progressed": 90195,
       "Completed": 1924
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-09T02:20:13.873509+00:00",
-  "LastChanged_Achievements": "2023-06-09T05:08:00.9524818+00:00",
+  "LastChanged_Achievements": "2023-06-09T06:07:38.8474553+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-09T04:58:51.3137992+00:00",
-  "LastUpdate_Achievements": "2023-06-09T05:08:00.9551607+00:00"
+  "LastUpdate_Ratings": "2023-06-09T05:58:30.9366589+00:00",
+  "LastUpdate_Achievements": "2023-06-09T06:07:38.8496002+00:00"
 }

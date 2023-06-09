@@ -8,18 +8,18 @@ Rating: 4.17 (Ranked 848)
 | First Step Into the Knight | 4.00% | ~2,567 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,925 |
 | Loose Ends | 3.00% | ~1,925 |
-| The Batman Family | 2.00% | ~1,283 |
-| Something in the Clay | 2.00% | ~1,283 |
-| To the Victor Go the Spoils | 2.00% | ~1,283 |
-| Quartzer Life Crisis | 2.00% | ~1,283 |
-| Snow Problem | 2.00% | ~1,283 |
-| Get ReQ'd | 2.00% | ~1,283 |
-| Working Hard or Harley Working? | 2.00% | ~1,283 |
-| Unstoppable Force | 2.00% | ~1,283 |
-| Knighthood | 2.00% | ~1,283 |
-| Whispered Words | 2.00% | ~1,283 |
-| Lock and Key | 2.00% | ~1,283 |
-| Bad Apples in Every Orchard | 2.00% | ~1,283 |
+| The Batman Family | 2.00% | ~1,284 |
+| Something in the Clay | 2.00% | ~1,284 |
+| To the Victor Go the Spoils | 2.00% | ~1,284 |
+| Quartzer Life Crisis | 2.00% | ~1,284 |
+| Snow Problem | 2.00% | ~1,284 |
+| Get ReQ'd | 2.00% | ~1,284 |
+| Working Hard or Harley Working? | 2.00% | ~1,284 |
+| Unstoppable Force | 2.00% | ~1,284 |
+| Knighthood | 2.00% | ~1,284 |
+| Whispered Words | 2.00% | ~1,284 |
+| Lock and Key | 2.00% | ~1,284 |
+| Bad Apples in Every Orchard | 2.00% | ~1,284 |
 | End of an Era | 1.00% | ~642 |
 | In Your Element | 1.00% | ~642 |
 | Protector of Gotham | 1.00% | ~642 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 848)
 | A Sophisticated Mallet | 0.10% | ~34 |
 | Confronting Your Demon | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,172 (Ranked 71)  
+Progressed: 64,179 (Ranked 71)  
 Completed: 94 (0.15%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 94 (0.15%) (Ranked 155)
 | 2023-06-06 | 63,871 | 94 |
 | 2023-06-07 | 63,990 | 94 |
 | 2023-06-08 | 64,117 | 94 |
-| 2023-06-09 | 64,172 | 94 |
+| 2023-06-09 | 64,179 | 94 |
 ## Awards
 Max (Great Boss Battles): 2,313  (Ranked 97)  
 Sum: 3,820 (Ranked 137)  

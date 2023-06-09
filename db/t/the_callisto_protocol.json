@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -572,9 +572,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14789,
+  "EOS_Progressed": 14791,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3252,6 +3252,11 @@
       "Time": "2023-06-09T05:05:21.0488827+00:00",
       "NumProgressed": 14789,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-09T06:05:03.4869159+00:00",
+      "NumProgressed": 14791,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3301,9 +3306,9 @@
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 118
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -3399,7 +3404,7 @@
       "Name": "Terminated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3477,9 +3482,9 @@
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 740
     },
     {
       "ID": "STORY_MINETOWN",
@@ -3503,7 +3508,7 @@
       "Name": "Crash Site",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "STORY_TOWER",
@@ -3551,7 +3556,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -3582,13 +3587,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14789,
+      "Progressed": 14791,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2715,
+      "Progressed": 2717,
       "Completed": 29
     }
   ],
@@ -3596,8 +3601,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-08T19:57:51.4696734+00:00",
-  "LastChanged_Achievements": "2023-06-09T05:05:21.0488819+00:00",
+  "LastChanged_Achievements": "2023-06-09T06:05:03.4869154+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:00.6958735+00:00",
-  "LastUpdate_Ratings": "2023-06-09T04:58:38.828152+00:00",
-  "LastUpdate_Achievements": "2023-06-09T05:05:21.0489498+00:00"
+  "LastUpdate_Ratings": "2023-06-09T05:58:18.5602306+00:00",
+  "LastUpdate_Achievements": "2023-06-09T06:05:03.4869528+00:00"
 }

@@ -7,8 +7,8 @@ Number of Ratings: 54  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Atom Agent | 99.00% | ~918 |
+| Wanderer | 35.00% | ~324 |
 | One HIT wonder | 34.00% | ~315 |
-| Wanderer | 34.00% | ~315 |
 | One shot, one kill | 28.00% | ~260 |
 | Traveler | 24.00% | ~222 |
 | Explorer | 18.00% | ~167 |
@@ -22,7 +22,7 @@ Number of Ratings: 54  (23.09.2022)
 | Bustin' nuts | 7.00% | ~65 |
 | Not-so-private Eye | 7.00% | ~65 |
 | Superhuman | 7.00% | ~65 |
-| The Vitinsky Rifle | 6.00% | ~56 |
+| The Vitinsky Rifle | 7.00% | ~65 |
 | Protection racket | 5.00% | ~46 |
 | Secret room | 5.00% | ~46 |
 | Sacrifice | 4.00% | ~37 |

@@ -5,7 +5,7 @@
   "Ranking_Rating": 545,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
-  "Ranking_EOS_Progress": 148,
+  "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 93,
@@ -284,7 +284,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2430,
+  "EOS_Progressed": 2432,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
@@ -2934,6 +2934,11 @@
       "Time": "2023-06-09T05:07:38.8071275+00:00",
       "NumProgressed": 2430,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-09T06:07:16.7700329+00:00",
+      "NumProgressed": 2432,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -2953,7 +2958,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -2985,7 +2990,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3001,7 +3006,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3025,7 +3030,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3065,7 +3070,7 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3081,7 +3086,7 @@
       "Name": "Sharpshooter",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -3145,7 +3150,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3255,9 +3260,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 389
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3319,9 +3324,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 146
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -3512,13 +3517,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2381,
+      "Progressed": 2383,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2430,
+      "Progressed": 2432,
       "Completed": 2
     }
   ],
@@ -3526,8 +3531,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-08T13:05:05.4339298+00:00",
-  "LastChanged_Achievements": "2023-06-09T05:07:38.8071267+00:00",
+  "LastChanged_Achievements": "2023-06-09T06:07:16.7700323+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:02.4759276+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:01:56.8369803+00:00",
-  "LastUpdate_Achievements": "2023-06-09T05:07:38.80722+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:01:35.1843772+00:00",
+  "LastUpdate_Achievements": "2023-06-09T06:07:16.7700973+00:00"
 }

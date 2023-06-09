@@ -185,6 +185,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hopelessly Lost | 0.20% | ~180 |
 | Cramped Quarters | 0.20% | ~180 |
 | Enter the Sargauth | 0.20% | ~180 |
+| Orcs Are Wild | 0.20% | ~180 |
 | A Tale of Two Cities | 0.20% | ~180 |
 | The Dead Three | 0.20% | ~180 |
 | Slow and Steady | 0.20% | ~180 |
@@ -370,7 +371,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bullywugs in the Bog | 0.10% | ~90 |
 | Modrons in the Mud | 0.10% | ~90 |
 | And a Pixie in a Pear Treant | 0.10% | ~56 |
-| Orcs Are Wild | 0.10% | ~90 |
 | An Abyssal Situation | 0.10% | ~90 |
 | Dino Nightmare | 0.10% | ~90 |
 | A Familiar Friend | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,194 (Ranked 64)  
+Progressed: 90,195 (Ranked 64)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,7 +550,7 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
-| 2023-06-09 | 90,194 | 1,924 |
+| 2023-06-09 | 90,195 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
 Sum: 30,054 (Ranked 37)  

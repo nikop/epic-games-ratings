@@ -5,20 +5,20 @@ Rating: 3.93 (Ranked 913)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~48,542 |
-| First One’s Free | 65.00% | ~42,638 |
-| Neophyte Ninja | 50.00% | ~32,798 |
-| Too Old for This | 47.00% | ~30,831 |
-| Fancy Pants | 35.00% | ~22,959 |
-| Case Closed | 34.00% | ~22,303 |
-| King of the Hill | 34.00% | ~22,303 |
-| Underworld Initiate | 29.00% | ~19,023 |
-| Roid Ranger | 21.00% | ~13,775 |
-| True Player | 19.00% | ~12,463 |
-| Off the Rocks | 19.00% | ~12,463 |
-| Raider’s Ruin | 16.00% | ~10,496 |
-| Dragonslayer | 16.00% | ~10,496 |
-| Hidden Sonata | 13.00% | ~8,528 |
+| Downed but Not Outed | 74.00% | ~48,547 |
+| First One’s Free | 65.00% | ~42,643 |
+| Neophyte Ninja | 50.00% | ~32,802 |
+| Too Old for This | 47.00% | ~30,834 |
+| Fancy Pants | 35.00% | ~22,961 |
+| Case Closed | 34.00% | ~22,305 |
+| King of the Hill | 34.00% | ~22,305 |
+| Underworld Initiate | 29.00% | ~19,025 |
+| Roid Ranger | 21.00% | ~13,777 |
+| True Player | 19.00% | ~12,465 |
+| Off the Rocks | 19.00% | ~12,465 |
+| Raider’s Ruin | 16.00% | ~10,497 |
+| Dragonslayer | 16.00% | ~10,497 |
+| Hidden Sonata | 13.00% | ~8,529 |
 | Rockay Rex | 11.00% | ~7,216 |
 | Freebooter | 10.00% | ~6,560 |
 | Track Star | 9.00% | ~5,904 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 913)
 | Geek Out | 0.50% | ~328 |
 | Full House | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,597 (Ranked 69)  
+Progressed: 65,604 (Ranked 69)  
 Completed: 32 (0.05%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 32 (0.05%) (Ranked 181)
 | 2023-06-06 | 65,264 | 32 |
 | 2023-06-07 | 65,417 | 32 |
 | 2023-06-08 | 65,557 | 32 |
-| 2023-06-09 | 65,597 | 32 |
+| 2023-06-09 | 65,604 | 32 |
 ## Awards
 Max (Diverse Characters): 322  (Ranked 222)  
 Sum: 1,517 (Ranked 209)  

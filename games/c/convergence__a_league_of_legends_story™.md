@@ -8,6 +8,7 @@
 | Treasure Trove | 4.00% | ~25 |
 | Make Up For Lost Time | 4.00% | ~25 |
 | Cartographer | 4.00% | ~25 |
+| The Wicked Twins | 4.00% | ~25 |
 | Time Heals All Wounds | 4.00% | ~25 |
 | Immaculate Aim | 4.00% | ~25 |
 | Chaincrawler Explorer | 3.00% | ~19 |
@@ -24,7 +25,6 @@
 | The Harder They Fall | 3.00% | ~19 |
 | No, Thanks! | 3.00% | ~19 |
 | Breaking Down Barriers | 3.00% | ~19 |
-| The Wicked Twins | 3.00% | ~19 |
 | The Prince in Heels | 3.00% | ~19 |
 | Golem Chaser | 3.00% | ~19 |
 | Fast Learner | 3.00% | ~19 |

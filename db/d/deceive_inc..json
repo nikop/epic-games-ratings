@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6674,
+  "EOS_Progressed": 6675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3918,6 +3918,11 @@
       "Time": "2023-06-09T05:07:44.7070848+00:00",
       "NumProgressed": 6674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T06:07:22.5875662+00:00",
+      "NumProgressed": 6675,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -3929,7 +3934,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4271
+      "UsersEstimate": 4272
     },
     {
       "ID": "0002",
@@ -3953,7 +3958,7 @@
       "Name": "Security Supervisor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "0005",
@@ -3985,7 +3990,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "0009",
@@ -4041,7 +4046,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 2,
       "XP": 115,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "0016",
@@ -4057,7 +4062,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2736
+      "UsersEstimate": 2737
     },
     {
       "ID": "0018",
@@ -4073,7 +4078,7 @@
       "Name": "Lose Another Day",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "0020",
@@ -4121,7 +4126,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "0026",
@@ -4169,7 +4174,7 @@
       "Name": "Private Collection",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "0032",
@@ -4185,7 +4190,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "0034",
@@ -4193,7 +4198,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "0035",
@@ -4201,7 +4206,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "0036",
@@ -4216,7 +4221,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6674,
+      "Progressed": 6675,
       "Completed": 0
     }
   ],
@@ -4224,8 +4229,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-06-09T05:07:44.707084+00:00",
+  "LastChanged_Achievements": "2023-06-09T06:07:22.5875657+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:04.3175816+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:00:51.7117493+00:00",
-  "LastUpdate_Achievements": "2023-06-09T05:07:44.7071447+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:00:31.7828453+00:00",
+  "LastUpdate_Achievements": "2023-06-09T06:07:22.5876024+00:00"
 }

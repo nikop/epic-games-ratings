@@ -9,8 +9,8 @@ Rating: 4.13 (Ranked 868)
 | Disposing of the Evidence | 36.00% | ~2,267 |
 | Without a Scratch | 32.00% | ~2,015 |
 | Wreckless Driving | 27.00% | ~1,700 |
-| A Marked Man | 23.00% | ~1,448 |
-| Street Sweeper | 17.00% | ~1,070 |
+| A Marked Man | 23.00% | ~1,449 |
+| Street Sweeper | 17.00% | ~1,071 |
 | Liberty City Minute | 16.00% | ~1,008 |
 | Offshore Delivery | 12.00% | ~756 |
 | Dirty Money | 11.00% | ~693 |
@@ -35,7 +35,7 @@ Rating: 4.13 (Ranked 868)
 | Is That All You've Got? | 0.70% | ~44 |
 | King of Liberty City | 0.50% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,297 (Ranked 122)  
+Progressed: 6,298 (Ranked 122)  
 Completed: 32 (0.51%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 32 (0.51%) (Ranked 111)
 | 2023-06-06 | 6,185 | 31 |
 | 2023-06-07 | 6,231 | 32 |
 | 2023-06-08 | 6,292 | 32 |
-| 2023-06-09 | 6,297 | 32 |
+| 2023-06-09 | 6,298 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -23,13 +23,13 @@ Number of Ratings: 2,500  (23.09.2022)
 | Unbowed, Unbent, Unbroken | 6.00% | ~902 |
 | Hear me Roar! | 6.00% | ~902 |
 | Defender of the Wall | 6.00% | ~902 |
-| Growing Strong | 5.00% | ~751 |
+| Growing Strong | 5.00% | ~752 |
 | What is Dead may Never Die | 3.00% | ~451 |
 | The Swift | 3.00% | ~451 |
 | King in the North | 2.00% | ~301 |
 | War of the Five Kings | 1.00% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,029 (Ranked 103)  
+Progressed: 15,030 (Ranked 103)  
 Completed: 32 (0.21%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 32 (0.21%) (Ranked 145)
 | 2023-06-06 | 14,820 | 30 |
 | 2023-06-07 | 14,900 | 31 |
 | 2023-06-08 | 15,000 | 32 |
-| 2023-06-09 | 15,029 | 32 |
+| 2023-06-09 | 15,030 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 304)  
 Sum: 782 (Ranked 253)  

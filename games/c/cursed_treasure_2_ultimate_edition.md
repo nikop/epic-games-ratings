@@ -30,7 +30,7 @@
 | Tastes Like Chicken | 62.00% | ~99 |
 | Thunderstorm | 61.00% | ~97 |
 | Brilliant: Holy Mountain | 60.00% | ~95 |
-| Clean Forests | 58.00% | ~92 |
+| Clean Forests | 59.00% | ~94 |
 | Starry: Meadowshire | 55.00% | ~87 |
 | Lieutenant of the Evil | 54.00% | ~86 |
 | Avada Kedavra | 52.00% | ~83 |

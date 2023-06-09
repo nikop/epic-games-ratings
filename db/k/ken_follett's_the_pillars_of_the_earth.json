@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13090,
+  "EOS_Progressed": 13092,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3719,6 +3719,11 @@
       "Time": "2023-06-09T03:21:52.372471+00:00",
       "NumProgressed": 13090,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-09T06:07:01.4914052+00:00",
+      "NumProgressed": 13092,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 41,
@@ -3738,7 +3743,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "tpote_achievement_11",
@@ -3754,7 +3759,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "tpote_achievement_13",
@@ -3762,7 +3767,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "tpote_achievement_14",
@@ -3794,7 +3799,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "tpote_achievement_18",
@@ -3834,7 +3839,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4058
+      "UsersEstimate": 4059
     },
     {
       "ID": "tpote_achievement_22",
@@ -3922,7 +3927,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "tpote_achievement_32",
@@ -3970,7 +3975,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "tpote_achievement_38",
@@ -3994,7 +3999,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5498
+      "UsersEstimate": 5499
     },
     {
       "ID": "tpote_achievement_40",
@@ -4018,7 +4023,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "tpote_achievement_6",
@@ -4050,22 +4055,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13090,
+      "Progressed": 13092,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-09T05:07:23.0865315+00:00",
+  "LastChanged_Achievements": "2023-06-09T06:07:01.4914047+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:24.2103721+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:01:16.1679085+00:00",
-  "LastUpdate_Achievements": "2023-06-09T05:07:23.0865849+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:00:56.4383518+00:00",
+  "LastUpdate_Achievements": "2023-06-09T06:07:01.4914442+00:00"
 }

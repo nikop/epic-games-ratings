@@ -224,9 +224,9 @@
       "ID": "CHAPTER1_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Off to a Good Start",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -264,9 +264,9 @@
       "ID": "COLLECT_20_EVIDENCE",
       "SetID": "2lk004m",
       "Name": "Small-time Finder",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "DIE_1_TIME",
@@ -407,8 +407,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-06-09T05:07:37.5881183+00:00",
+  "LastChanged_Achievements": "2023-06-09T06:07:15.4210407+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:33.0980588+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:00:17.4456418+00:00",
-  "LastUpdate_Achievements": "2023-06-09T05:07:37.588141+00:00"
+  "LastUpdate_Ratings": "2023-06-09T05:59:54.6004467+00:00",
+  "LastUpdate_Achievements": "2023-06-09T06:07:15.4210542+00:00"
 }

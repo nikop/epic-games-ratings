@@ -1574,9 +1574,9 @@
       "ID": "RepairSmith",
       "SetID": "9lj35g4",
       "Name": "Smithy Ready to Craft",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 715
     },
     {
       "ID": "RepairThroneRoom",
@@ -1621,8 +1621,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-08T02:19:19.7115512+00:00",
-  "LastChanged_Achievements": "2023-06-09T05:03:36.4997666+00:00",
+  "LastChanged_Achievements": "2023-06-09T06:03:38.9551703+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:36.5542511+00:00",
-  "LastUpdate_Ratings": "2023-06-09T04:59:14.1782274+00:00",
-  "LastUpdate_Achievements": "2023-06-09T05:03:36.4998004+00:00"
+  "LastUpdate_Ratings": "2023-06-09T05:58:52.3522009+00:00",
+  "LastUpdate_Achievements": "2023-06-09T06:03:38.9551923+00:00"
 }

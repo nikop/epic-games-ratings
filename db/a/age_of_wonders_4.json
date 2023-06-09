@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4436,
+  "EOS_Progressed": 4437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3419,6 +3419,11 @@
       "Time": "2023-06-09T05:05:47.6102304+00:00",
       "NumProgressed": 4436,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T06:05:29.4521641+00:00",
+      "NumProgressed": 4437,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3430,7 +3435,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "10",
@@ -3446,7 +3451,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "12",
@@ -3470,7 +3475,7 @@
       "Name": "Full Ascension",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2396
     },
     {
       "ID": "15",
@@ -3486,7 +3491,7 @@
       "Name": "God Emperor",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "17",
@@ -3542,7 +3547,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "23",
@@ -3550,7 +3555,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3504
+      "UsersEstimate": 3505
     },
     {
       "ID": "24",
@@ -3558,7 +3563,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     },
     {
       "ID": "25",
@@ -3566,7 +3571,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "26",
@@ -3574,7 +3579,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "27",
@@ -3590,7 +3595,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "29",
@@ -3598,7 +3603,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2484
+      "UsersEstimate": 2485
     },
     {
       "ID": "3",
@@ -3622,7 +3627,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 2883
+      "UsersEstimate": 2884
     },
     {
       "ID": "32",
@@ -3638,7 +3643,7 @@
       "Name": "Seat of Power",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "34",
@@ -3662,7 +3667,7 @@
       "Name": "Fiery Friend",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "37",
@@ -3781,13 +3786,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4436,
-      "Completed": 4436
+      "Progressed": 4437,
+      "Completed": 4437
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4436,
+      "Progressed": 4437,
       "Completed": 0
     }
   ],
@@ -3795,8 +3800,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-09T04:00:14.4977407+00:00",
-  "LastChanged_Achievements": "2023-06-09T05:05:47.6102296+00:00",
+  "LastChanged_Achievements": "2023-06-09T06:05:29.4521631+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:49.5170047+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:00:36.0417912+00:00",
-  "LastUpdate_Achievements": "2023-06-09T05:05:47.6102926+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:00:14.128895+00:00",
+  "LastUpdate_Achievements": "2023-06-09T06:05:29.4522081+00:00"
 }

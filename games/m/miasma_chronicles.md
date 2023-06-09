@@ -5,16 +5,16 @@ Rating: 4.31 (Ranked 756)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~979 |
-| Ranidaphobia | 75.00% | ~798 |
-| Aspiring Editor | 72.00% | ~766 |
-| Gun for Hire | 67.00% | ~713 |
+| First Blood | 92.00% | ~980 |
+| Ranidaphobia | 75.00% | ~799 |
+| Aspiring Editor | 72.00% | ~767 |
+| Gun for Hire | 67.00% | ~714 |
 | I am the law! | 59.00% | ~628 |
 | Lumberjack | 45.00% | ~479 |
-| Croaked | 41.00% | ~436 |
+| Croaked | 41.00% | ~437 |
 | Limp Richard | 40.00% | ~426 |
 | From Darkness to Light | 39.00% | ~415 |
-| Exorcist | 38.00% | ~404 |
+| Exorcist | 38.00% | ~405 |
 | Editor Adept | 37.00% | ~394 |
 | Firestarter | 37.00% | ~394 |
 | Giant Killer | 34.00% | ~362 |
@@ -25,7 +25,7 @@ Rating: 4.31 (Ranked 756)
 | Are you not entertained? | 22.00% | ~234 |
 | Ganglord | 22.00% | ~234 |
 | Jarhead | 22.00% | ~234 |
-| Infiltrator | 21.00% | ~223 |
+| Infiltrator | 21.00% | ~224 |
 | Pushing Daisy | 20.00% | ~213 |
 | Chain Killer | 19.00% | ~202 |
 | There Can Be Only One! | 19.00% | ~202 |
@@ -40,7 +40,7 @@ Rating: 4.31 (Ranked 756)
 | Chaos Theory | 9.00% | ~96 |
 | Chain Reaction | 8.00% | ~85 |
 | Commando | 8.00% | ~85 |
-| Curveball | 7.00% | ~74 |
+| Curveball | 7.00% | ~75 |
 | Side Order | 6.00% | ~64 |
 | Wipe Out | 6.00% | ~64 |
 | Bot Whisperer | 5.00% | ~53 |
@@ -57,7 +57,7 @@ Rating: 4.31 (Ranked 756)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,064 (Ranked 172)  
+Progressed: 1,065 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 1,041 | 0 |
 | 2023-06-07 | 1,051 | 0 |
 | 2023-06-08 | 1,062 | 0 |
-| 2023-06-09 | 1,064 | 0 |
+| 2023-06-09 | 1,065 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
