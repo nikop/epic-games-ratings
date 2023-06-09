@@ -22,7 +22,7 @@
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 258 | 240 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,043 | 75 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 147,835 | 6 |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,677 | 35 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,698 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 476 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 494 |
 | 26 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 482 |
@@ -199,7 +199,7 @@
 | 195 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 494 |
 | 195 | [Dead Space](games/d/dead_space.md) | 4.70 | 56 | 384 |
 | 195 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 358 | 212 |
-| 195 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,332 | 71 |
+| 195 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,338 | 69 |
 | 195 | [For The King](games/f/for_the_king.md) | 4.70 | 367 | 211 |
 | 195 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 494 |
 | 195 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 494 |
@@ -215,7 +215,7 @@
 | 195 | [The Machines Arena](games/t/the_machines_arena.md) | 4.70 | 0 | 494 |
 | 195 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 494 |
 | 195 | [The Witness](games/t/the_witness.md) | 4.70 | 173 | 277 |
-| 195 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,337 | 70 |
+| 195 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,337 | 71 |
 | 195 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,577 | 113 |
 | 195 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 494 |
 | 219 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 110,873 | 8 |
@@ -238,7 +238,7 @@
 | 219 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 494 |
 | 219 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 494 |
 | 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 786 | 147 |
-| 239 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,329 | 82 |
+| 239 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,330 | 82 |
 | 239 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,131 | 87 |
 | 239 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 494 |
 | 239 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 368 |
@@ -310,7 +310,7 @@
 | 297 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,881 | 105 |
 | 297 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 388 |
 | 297 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 494 |
-| 297 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,533 | 15 |
+| 297 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,542 | 15 |
 | 297 | [SOMA](games/s/soma.md) | 4.65 | 0 | 494 |
 | 297 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 494 |
 | 297 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 42 | 411 |
@@ -438,7 +438,7 @@
 | 423 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 494 |
 | 423 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 51 | 388 |
 | 423 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 978 | 140 |
-| 423 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,147 | 53 |
+| 423 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,152 | 53 |
 | 423 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 494 |
 | 423 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 494 |
 | 423 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 209 | 257 |
@@ -523,12 +523,12 @@
 | 513 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 288 |
 | 513 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 119 | 308 |
 | 513 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 494 |
-| 513 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 282 | 231 |
+| 513 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 283 | 231 |
 | 513 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 494 |
 | 513 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 0 | 494 |
 | 513 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.52 | 0 | 494 |
 | 513 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.52 | 0 | 494 |
-| 529 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,602 | 112 |
+| 529 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,606 | 112 |
 | 529 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 93 | 337 |
 | 529 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,095 | 74 |
 | 529 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 494 |
@@ -818,7 +818,7 @@
 | 816 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 31 | 446 |
 | 816 | [Flatout](games/f/flatout.md) | 4.21 | 0 | 494 |
 | 816 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 176 | 274 |
-| 816 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,808 | 24 |
+| 816 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,850 | 24 |
 | 816 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 494 |
 | 816 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 494 |
 | 816 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 77 | 354 |
