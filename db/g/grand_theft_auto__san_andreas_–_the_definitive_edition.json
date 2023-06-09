@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10014,
+  "EOS_Progressed": 10017,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 817,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4138,6 +4138,11 @@
       "Time": "2023-06-09T13:12:11.2774904+00:00",
       "NumProgressed": 10014,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-09T14:05:49.5554422+00:00",
+      "NumProgressed": 10017,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -4149,7 +4154,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8014
     },
     {
       "ID": "ACH02",
@@ -4197,7 +4202,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "ACH08",
@@ -4205,7 +4210,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4807
+      "UsersEstimate": 4808
     },
     {
       "ID": "ACH09",
@@ -4245,7 +4250,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "ACH14",
@@ -4253,7 +4258,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "ACH15",
@@ -4261,7 +4266,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH16",
@@ -4269,7 +4274,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "ACH17",
@@ -4325,7 +4330,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "ACH24",
@@ -4341,7 +4346,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH26",
@@ -4428,7 +4433,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10014,
+      "Progressed": 10017,
       "Completed": 17
     }
   ],
@@ -4436,8 +4441,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-07T10:00:00.0297825+00:00",
-  "LastChanged_Achievements": "2023-06-09T13:12:11.2774898+00:00",
+  "LastChanged_Achievements": "2023-06-09T14:05:49.5554413+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:43.816384+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:06:01.4901299+00:00",
-  "LastUpdate_Achievements": "2023-06-09T13:12:11.2775558+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:59:56.5339477+00:00",
+  "LastUpdate_Achievements": "2023-06-09T14:05:49.5554895+00:00"
 }

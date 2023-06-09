@@ -17,6 +17,7 @@
 | The Wicked Twins | 4.00% | ~25 |
 | The Prince in Heels | 4.00% | ~25 |
 | Time Heals All Wounds | 4.00% | ~25 |
+| Golem Chaser | 4.00% | ~25 |
 | Immaculate Aim | 4.00% | ~25 |
 | Chaincrawler Explorer | 3.00% | ~19 |
 | Street Style | 3.00% | ~19 |
@@ -27,7 +28,6 @@
 | The Loose Cannon | 3.00% | ~19 |
 | The Harder They Fall | 3.00% | ~19 |
 | Honest Mistake | 3.00% | ~19 |
-| Golem Chaser | 3.00% | ~19 |
 | Fast Learner | 3.00% | ~19 |
 | Sump Explorer | 3.00% | ~19 |
 | Check Your Pulse | 3.00% | ~19 |

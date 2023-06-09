@@ -5,18 +5,18 @@ Rating: 4.52 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~686 |
-| Confirming Suspicions | 23.00% | ~564 |
-| The Kraken Wakes | 19.00% | ~466 |
-| It's Starting to Crack | 16.00% | ~392 |
-| Lord of War | 14.00% | ~343 |
-| Change the Channel | 14.00% | ~343 |
-| Resourceful | 13.00% | ~318 |
-| Taking it back | 12.00% | ~294 |
-| Organ Grinder | 10.00% | ~245 |
-| As Quiet as a Mouse | 10.00% | ~245 |
-| Target America | 10.00% | ~245 |
-| The Kraken Sleeps | 9.00% | ~220 |
+| Meeting Resistance | 28.00% | ~688 |
+| Confirming Suspicions | 23.00% | ~565 |
+| The Kraken Wakes | 19.00% | ~467 |
+| It's Starting to Crack | 17.00% | ~418 |
+| Lord of War | 14.00% | ~344 |
+| Change the Channel | 14.00% | ~344 |
+| Resourceful | 13.00% | ~319 |
+| Taking it back | 12.00% | ~295 |
+| Organ Grinder | 10.00% | ~246 |
+| As Quiet as a Mouse | 10.00% | ~246 |
+| Target America | 10.00% | ~246 |
+| The Kraken Sleeps | 9.00% | ~221 |
 | Liberté | 8.00% | ~196 |
 | Enemy at the Gates | 8.00% | ~196 |
 | Just a Flesh Wound | 8.00% | ~196 |
@@ -29,21 +29,21 @@ Rating: 4.52 (Ranked 513)
 | Close Quarters | 6.00% | ~147 |
 | Snake in the Grass | 6.00% | ~147 |
 | Brains of the Operation | 6.00% | ~147 |
-| Climbing the Ladder | 5.00% | ~122 |
-| No Stone Unturned | 5.00% | ~122 |
-| Fields of Glory | 5.00% | ~122 |
-| Skirmisher | 5.00% | ~122 |
-| Set Europe Ablaze | 5.00% | ~122 |
+| Climbing the Ladder | 5.00% | ~123 |
+| No Stone Unturned | 5.00% | ~123 |
+| Fields of Glory | 5.00% | ~123 |
+| Skirmisher | 5.00% | ~123 |
+| Set Europe Ablaze | 5.00% | ~123 |
 | Precision Is Key | 4.00% | ~98 |
 | Rigged to Blow | 3.00% | ~74 |
 | The Long Game | 2.00% | ~49 |
 | My Little Friend | 2.00% | ~49 |
 | It'll Buff Right Out | 2.00% | ~49 |
-| Strategist | 1.00% | ~24 |
-| Tinkerer | 1.00% | ~24 |
-| Locomotion Commotion | 1.00% | ~24 |
-| Road Rage | 1.00% | ~24 |
-| Don't hold your breath | 1.00% | ~24 |
+| Strategist | 1.00% | ~25 |
+| Tinkerer | 1.00% | ~25 |
+| Locomotion Commotion | 1.00% | ~25 |
+| Road Rage | 1.00% | ~25 |
+| Don't hold your breath | 1.00% | ~25 |
 | Herr Today, Gone Tomorrow | 1.00% | ~24 |
 | Operation Foxley | 1.00% | ~24 |
 | Siegebreaker | 0.90% | ~22 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 513)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,450 (Ranked 147)  
+Progressed: 2,456 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
-| 2023-06-09 | 2,450 | 2 |
+| 2023-06-09 | 2,456 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

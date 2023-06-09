@@ -6,11 +6,11 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 59.00% | ~184 |
+| The Adventure Begins | 60.00% | ~187 |
 | Cartographer | 53.00% | ~165 |
 | A Strange Artefact | 48.00% | ~150 |
 | Insomnia | 44.00% | ~137 |
-| From Whence we Came | 39.00% | ~122 |
+| From Whence we Came | 40.00% | ~125 |
 | Lost & Found & Lost Again | 38.00% | ~119 |
 | Fire and Flood | 37.00% | ~115 |
 | Spooky! | 34.00% | ~106 |
@@ -23,7 +23,7 @@ Number of Ratings: 20  (23.09.2022)
 | Uncertain Loyalties | 23.00% | ~72 |
 | Traveller | 22.00% | ~69 |
 | Nahua Seeker | 22.00% | ~69 |
-| Roll to Save | 20.00% | ~62 |
+| Roll to Save | 21.00% | ~66 |
 | Red Flag Pirate | 18.00% | ~56 |
 | Veteran Explorer | 18.00% | ~56 |
 | Iron Man | 15.00% | ~47 |

@@ -2,7 +2,7 @@
   "ID": "corydalis",
   "Name": "Slime Rancher",
   "ProductSlug": "slime-rancher",
-  "Ranking_Rating": 65,
+  "Ranking_Rating": 66,
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 438,
@@ -2630,10 +2630,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3055,
       "NumberOfAwardsMax": 392
+    },
+    {
+      "Time": "2023-06-09T13:59:03.4189598+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3056,
+      "NumberOfAwardsMax": 392
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3055,
+  "NumberOfAwards": 3056,
   "NumberOfAwardsMax": 392,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2665,7 +2671,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 339
+      "Count": 340
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2721,8 +2727,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2023-06-08T11:59:42.9796142+00:00",
+  "LastChanged": "2023-06-09T13:59:03.4189597+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:34.7873871+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:04:58.1451954+00:00",
-  "LastUpdate_Achievements": "2023-06-09T13:08:29.0832128+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:59:03.4189603+00:00",
+  "LastUpdate_Achievements": "2023-06-09T14:02:13.061731+00:00"
 }

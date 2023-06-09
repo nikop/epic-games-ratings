@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~4 |
 | Kronos Rule | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460,180 (Ranked 33)  
+Progressed: 460,188 (Ranked 33)  
 Completed: 14 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 14 (0.00%) (Ranked 212)
 | 2023-06-06 | 460,006 | 14 |
 | 2023-06-07 | 460,061 | 14 |
 | 2023-06-08 | 460,148 | 14 |
-| 2023-06-09 | 460,180 | 14 |
+| 2023-06-09 | 460,188 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 256)  
 Sum: 209 (Ranked 351)  

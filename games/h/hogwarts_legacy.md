@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 8.00% | ~22,204 |
+| The Sort Who Makes an Entrance | 8.00% | ~22,205 |
 | Grappling with a Graphorn | 7.00% | ~19,429 |
 | The One Who Mastered Memories | 7.00% | ~19,429 |
 | The Hallowed Hero | 7.00% | ~19,429 |
@@ -15,11 +15,11 @@ Rating: 4.77 (Ranked 108)
 | First Class Student | 7.00% | ~19,429 |
 | Troll with the Punches | 7.00% | ~19,429 |
 | That's a Keeper | 7.00% | ~19,429 |
-| The Hero of Hogwarts | 6.00% | ~16,653 |
-| Challenge Accepted | 6.00% | ~16,653 |
-| Loom for Improvement | 6.00% | ~16,653 |
-| A Talent for Spending | 6.00% | ~16,653 |
-| Rising From the Ashes | 6.00% | ~16,653 |
+| The Hero of Hogwarts | 6.00% | ~16,654 |
+| Challenge Accepted | 6.00% | ~16,654 |
+| Loom for Improvement | 6.00% | ~16,654 |
+| A Talent for Spending | 6.00% | ~16,654 |
+| Rising From the Ashes | 6.00% | ~16,654 |
 | The Avenging Gazelle | 5.00% | ~13,878 |
 | Beast Friends | 5.00% | ~13,878 |
 | A Sallow Grave | 5.00% | ~13,878 |
@@ -43,15 +43,15 @@ Rating: 4.77 (Ranked 108)
 | The Auror's Apprentice | 1.00% | ~2,776 |
 | Rise to the Challenges | 1.00% | ~2,776 |
 | Finishing Touches | 1.00% | ~2,776 |
+| A Forte for Achievement | 1.00% | ~2,776 |
 | Savvy Spender | 0.90% | ~2,498 |
 | Demiguise Dread | 0.90% | ~2,498 |
-| A Forte for Achievement | 0.90% | ~2,498 |
 | Spilled Milk | 0.60% | ~1,665 |
 | Merlin's Beard! | 0.60% | ~1,665 |
 | The Nature of the Beast | 0.40% | ~1,110 |
 | Collector's Edition | 0.20% | ~555 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277,553 (Ranked 40)  
+Progressed: 277,561 (Ranked 40)  
 Completed: 393 (0.14%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,10 +101,10 @@ Completed: 393 (0.14%) (Ranked 156)
 | 2023-06-06 | 276,816 | 389 |
 | 2023-06-07 | 277,097 | 390 |
 | 2023-06-08 | 277,379 | 391 |
-| 2023-06-09 | 277,553 | 393 |
+| 2023-06-09 | 277,561 | 393 |
 ## Awards
 Max (Character Customization): 19,738  (Ranked 18)  
-Sum: 36,522 (Ranked 32)  
+Sum: 36,523 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -113,7 +113,7 @@ Diff (max vs sum): -14
 | This game is Great for Beginners | 820 |
 | This game is Relaxing | 820 |
 | This game is Extremely Fun | 815 |
-| This game has Diverse Characters | 794 |
+| This game has Diverse Characters | 795 |
 | This game has Amazing Storytelling | 792 |
 | This game has Amazing Characters | 775 |
 | This game is Highly Recommended | 764 |
@@ -200,4 +200,4 @@ Diff (max vs sum): -14
 | 2023-06-06 | 4.77 | 19,619 | 36,314 |
 | 2023-06-07 | 4.77 | 19,672 | 36,413 |
 | 2023-06-08 | 4.77 | 19,702 | 36,484 |
-| 2023-06-09 | 4.77 | 19,738 | 36,522 |
+| 2023-06-09 | 4.77 | 19,738 | 36,523 |

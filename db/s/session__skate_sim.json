@@ -678,7 +678,7 @@
   ],
   "EOS_Progressed": 2334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2603,9 +2603,9 @@
       "ID": "ACH_TIGHT-LIPSLIDES",
       "SetID": "72olkc5",
       "Name": "Tight lipslides",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -2667,8 +2667,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-04T23:59:06.4190942+00:00",
-  "LastChanged_Achievements": "2023-06-09T13:11:53.6480232+00:00",
+  "LastChanged_Achievements": "2023-06-09T14:05:34.1330969+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:22.4066409+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:04:47.5064378+00:00",
-  "LastUpdate_Achievements": "2023-06-09T13:11:53.6480672+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:58:53.9856666+00:00",
+  "LastUpdate_Achievements": "2023-06-09T14:05:34.1331451+00:00"
 }

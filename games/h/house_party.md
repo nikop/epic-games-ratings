@@ -6,8 +6,8 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 2.00% | ~109 |
-| Smooth Operator: Madison | 2.00% | ~109 |
+| A Friend in Need... | 2.00% | ~110 |
+| Smooth Operator: Madison | 2.00% | ~110 |
 | The Brahdyssey | 1.00% | ~55 |
 | Katherine | 1.00% | ~55 |
 | Life Found a Way | 1.00% | ~25 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,474 (Ranked 126)  
+Progressed: 5,475 (Ranked 126)  
 Completed: 3 (0.05%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 3 (0.05%) (Ranked 181)
 | 2023-06-06 | 5,417 | 3 |
 | 2023-06-07 | 5,438 | 3 |
 | 2023-06-08 | 5,462 | 3 |
-| 2023-06-09 | 5,474 | 3 |
+| 2023-06-09 | 5,475 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

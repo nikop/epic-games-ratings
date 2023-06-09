@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.36,
+  "EOS_Completed_Percentage": 2.35,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -591,6 +591,11 @@
       "Time": "2023-06-09T11:04:13.2327683+00:00",
       "NumProgressed": 254,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-09T14:03:20.3413787+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -602,7 +607,7 @@
       "Name": "Aquatic Farm",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "balloon",
@@ -618,7 +623,7 @@
       "Name": "Big House",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "brewery",
@@ -626,7 +631,7 @@
       "Name": "Brewery",
       "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "church",
@@ -650,7 +655,7 @@
       "Name": "Expedition",
       "Percentage": 54,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "fish_trade",
@@ -680,17 +685,17 @@
       "ID": "hope_farm",
       "SetID": "ap7g2g4",
       "Name": "Hope farm",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "marketplace",
       "SetID": "ap7g2g4",
       "Name": "Marketplace",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "match_12",
@@ -706,7 +711,7 @@
       "Name": "Match 3",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "match_6",
@@ -714,7 +719,7 @@
       "Name": "Match 6",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "match_9",
@@ -722,7 +727,7 @@
       "Name": "Match 9",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "mill",
@@ -736,9 +741,9 @@
       "ID": "sawmill",
       "SetID": "ap7g2g4",
       "Name": "Sawmill",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 235
     },
     {
       "ID": "seaweed_farm",
@@ -746,7 +751,7 @@
       "Name": "Seaweed farm",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "tavern",
@@ -793,14 +798,14 @@
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-09T13:09:10.8472821+00:00",
+  "LastChanged_Achievements": "2023-06-09T14:03:20.341378+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:02:41.5256088+00:00",
-  "LastUpdate_Achievements": "2023-06-09T13:09:10.8473029+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:57:11.2637417+00:00",
+  "LastUpdate_Achievements": "2023-06-09T14:03:20.3413989+00:00"
 }

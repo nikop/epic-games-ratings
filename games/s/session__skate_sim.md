@@ -20,13 +20,13 @@ Number of Ratings: 111  (23.09.2022)
 | Upfront shredder | 7.00% | ~163 |
 | Finally he zips it | 6.00% | ~140 |
 | That pinch! | 6.00% | ~140 |
+| Tight lipslides | 6.00% | ~140 |
 | Bottom ply killer | 5.00% | ~117 |
 | Fashionista | 5.00% | ~117 |
 | Fulfilled the dream | 5.00% | ~117 |
 | G'Day Mate! | 5.00% | ~117 |
 | Squad goals | 5.00% | ~117 |
 | Sup widdit big dog! | 5.00% | ~117 |
-| Tight lipslides | 5.00% | ~117 |
 | Commence the Hijinx! | 4.00% | ~93 |
 | DIY Boss | 4.00% | ~93 |
 | Globetrotter | 4.00% | ~93 |

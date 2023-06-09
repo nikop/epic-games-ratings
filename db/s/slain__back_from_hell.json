@@ -2,12 +2,12 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 777,
+  "Ranking_Rating": 778,
   "Ranking_Popularity": 302,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 24777,
+  "EOS_Progressed": 24787,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1155,
+  "EOS_NewPlayers": 1164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5386,6 +5386,11 @@
       "Time": "2023-06-09T13:11:56.5285015+00:00",
       "NumProgressed": 24777,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-09T14:05:36.3583434+00:00",
+      "NumProgressed": 24787,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 29,
@@ -5397,7 +5402,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3966
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -5405,7 +5410,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4957
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -5485,7 +5490,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -5501,7 +5506,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -5533,7 +5538,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -5581,7 +5586,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -5628,7 +5633,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 24777,
+      "Progressed": 24787,
       "Completed": 19
     }
   ],
@@ -5636,8 +5641,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-09T13:11:56.5285012+00:00",
+  "LastChanged_Achievements": "2023-06-09T14:05:36.3583429+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:25.5386302+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:05:44.0636851+00:00",
-  "LastUpdate_Achievements": "2023-06-09T13:11:56.5285553+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:59:42.3003047+00:00",
+  "LastUpdate_Achievements": "2023-06-09T14:05:36.3583961+00:00"
 }

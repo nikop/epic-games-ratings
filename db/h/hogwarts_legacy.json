@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -3388,10 +3388,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 36522,
       "NumberOfAwardsMax": 19738
+    },
+    {
+      "Time": "2023-06-09T13:57:28.0675059+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 36523,
+      "NumberOfAwardsMax": 19738
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36522,
+  "NumberOfAwards": 36523,
   "NumberOfAwardsMax": 19738,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3435,7 +3441,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 794
+      "Count": 795
     },
     {
       "Text": "This game is Relaxing",
@@ -3468,9 +3474,9 @@
       "Count": 504
     }
   ],
-  "EOS_Progressed": 277553,
+  "EOS_Progressed": 277561,
   "EOS_Completed": 393,
-  "EOS_NewPlayers": 2297,
+  "EOS_NewPlayers": 2287,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -8593,6 +8599,11 @@
       "Time": "2023-06-09T13:10:31.4514551+00:00",
       "NumProgressed": 277553,
       "NumCompleted": 393
+    },
+    {
+      "Time": "2023-06-09T14:04:28.1036006+00:00",
+      "NumProgressed": 277561,
+      "NumCompleted": 393
     }
   ],
   "TotalAchievements": 45,
@@ -8604,7 +8615,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22204
+      "UsersEstimate": 22205
     },
     {
       "ID": "PFA_10",
@@ -8636,7 +8647,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16653
+      "UsersEstimate": 16654
     },
     {
       "ID": "PFA_14",
@@ -8708,7 +8719,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16653
+      "UsersEstimate": 16654
     },
     {
       "ID": "PFA_22",
@@ -8732,7 +8743,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16653
+      "UsersEstimate": 16654
     },
     {
       "ID": "PFA_25",
@@ -8788,7 +8799,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16653
+      "UsersEstimate": 16654
     },
     {
       "ID": "PFA_31",
@@ -8914,9 +8925,9 @@
       "ID": "PFA_45",
       "SetID": "1hf4dep",
       "Name": "A Forte for Achievement",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2776
     },
     {
       "ID": "PFA_5",
@@ -8956,23 +8967,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16653
+      "UsersEstimate": 16654
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 277553,
+      "Progressed": 277561,
       "Completed": 393
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-09T13:03:01.0661087+00:00",
-  "LastChanged_Achievements": "2023-06-09T13:10:31.4514547+00:00",
+  "LastChanged": "2023-06-09T13:57:28.0675057+00:00",
+  "LastChanged_Achievements": "2023-06-09T14:04:28.1036001+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:24.8723684+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:03:01.0661095+00:00",
-  "LastUpdate_Achievements": "2023-06-09T13:10:31.4515291+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:57:28.0675064+00:00",
+  "LastUpdate_Achievements": "2023-06-09T14:04:28.1036735+00:00"
 }

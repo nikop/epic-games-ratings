@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it goes | 12.00% | ~22 |
+| So it goes | 13.00% | ~24 |
 | Clean Conscience | 12.00% | ~22 |
 | Small-time Finder | 6.00% | ~11 |
 | Off to a Good Start | 5.00% | ~9 |

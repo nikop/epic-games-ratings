@@ -34,20 +34,20 @@
 | Mutant run ✔ | 4.00% | ~7 |
 | Sheriff ✔ | 4.00% | ~7 |
 | City on fire ✔ | 4.00% | ~7 |
+| Priest ✔ | 4.00% | ~7 |
 | Rank A ✔ | 4.00% | ~7 |
 | Broadcasting ✔ | 4.00% | ~7 |
+| Car ✔ | 3.00% | ~6 |
 | Crocodile Attack ✔ | 3.00% | ~6 |
 | Secret ✔ | 3.00% | ~6 |
 | Boss 2 ✔ | 3.00% | ~6 |
+| Osipov's video message ✔ | 3.00% | ~6 |
 | The escape ✔ | 3.00% | ~6 |
-| Priest ✔ | 3.00% | ~6 |
 | Rank B+ ✔ | 3.00% | ~6 |
 | Boss 3 ✔ | 3.00% | ~6 |
-| Car ✔ | 2.00% | ~4 |
 | Seeker One ✔ | 2.00% | ~4 |
 | Seeker Three ✔ | 2.00% | ~4 |
 | Crocodile Escape ✔ | 2.00% | ~4 |
-| Osipov's video message ✔ | 2.00% | ~4 |
 | VIP ✔ | 2.00% | ~4 |
 | Exterminate pests ✔ | 1.00% | ~2 |
 | Hardcore ✔ | 1.00% | ~2 |

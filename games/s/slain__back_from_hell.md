@@ -1,12 +1,12 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.28 (Ranked 777)  
+Rating: 4.28 (Ranked 778)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~4,955 |
-| A Good Day To Die | 16.00% | ~3,964 |
+| Man 'O War | 20.00% | ~4,957 |
+| A Good Day To Die | 16.00% | ~3,966 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,487 |
 | Right Back Atcha | 6.00% | ~1,487 |
 | Killed by Death | 5.00% | ~1,239 |
@@ -18,10 +18,10 @@ Rating: 4.28 (Ranked 777)
 | Thorn in My Herbicide | 0.80% | ~198 |
 | Backdoor Man | 0.80% | ~198 |
 | Schadenfreude | 0.80% | ~198 |
-| Red In Tooth And Claw | 0.70% | ~173 |
-| Death Becomes Her | 0.70% | ~173 |
-| The Sky Is Falling | 0.70% | ~173 |
-| That'll Come In Handy... | 0.70% | ~173 |
+| Red In Tooth And Claw | 0.70% | ~174 |
+| Death Becomes Her | 0.70% | ~174 |
+| The Sky Is Falling | 0.70% | ~174 |
+| That'll Come In Handy... | 0.70% | ~174 |
 | Start As You Mean To Go On | 0.60% | ~149 |
 | Hail the Great Horned Metal God! | 0.60% | ~149 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~124 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 777)
 | Too Metal For Magic | 0.10% | ~25 |
 | Heart Of Steel | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,777 (Ranked 92)  
+Progressed: 24,787 (Ranked 92)  
 Completed: 19 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 19 (0.08%) (Ranked 172)
 | 2023-06-06 | 24,363 | 19 |
 | 2023-06-07 | 24,511 | 19 |
 | 2023-06-08 | 24,696 | 19 |
-| 2023-06-09 | 24,777 | 19 |
+| 2023-06-09 | 24,787 | 19 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 302)  
 Sum: 125 (Ranked 390)  

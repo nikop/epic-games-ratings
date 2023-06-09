@@ -1,12 +1,12 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 65)  
+Rating: 4.82 (Ranked 66)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~701 |
+| Diligence as a goal | 4.00% | ~702 |
 | Project Arena | 3.00% | ~526 |
 | The Old Grandmaster | 1.00% | ~7,082 |
 | The Assault | 1.00% | ~7,082 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,224 (Ranked 16)  
+Progressed: 708,239 (Ranked 16)  
 Completed: 12,764 (1.80%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,10 +107,10 @@ Completed: 12,764 (1.80%) (Ranked 70)
 | 2023-06-06 | 707,727 | 12,763 |
 | 2023-06-07 | 707,910 | 12,763 |
 | 2023-06-08 | 708,100 | 12,763 |
-| 2023-06-09 | 708,224 | 12,764 |
+| 2023-06-09 | 708,239 | 12,764 |
 ## Awards
 Max (Great Boss Battles): 6,153  (Ranked 52)  
-Sum: 10,496 (Ranked 78)  
+Sum: 10,497 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -122,7 +122,7 @@ Diff (max vs sum): -26
 | This game has Amazing Storytelling | 501 |
 | This game has Amazing Characters | 486 |
 | This game is Highly Recommended | 486 |
-| This game has Unique Visuals | 461 |
+| This game has Unique Visuals | 462 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 353 |
 | This game has Obsessive Gameplay | 293 |
@@ -272,4 +272,4 @@ Diff (max vs sum): -26
 | 2023-06-06 | 4.82 | - | 6,142 | 10,478 |
 | 2023-06-07 | 4.82 | - | 6,142 | 10,479 |
 | 2023-06-08 | 4.82 | - | 6,151 | 10,492 |
-| 2023-06-09 | 4.82 | - | 6,153 | 10,496 |
+| 2023-06-09 | 4.82 | - | 6,153 | 10,497 |

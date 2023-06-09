@@ -351,9 +351,9 @@
       "ID": "ach-diceChallenges",
       "SetID": "17ih7ma",
       "Name": "Roll to Save",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "ach-discover-locations",
@@ -407,9 +407,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 187
     },
     {
       "ID": "ach-hardExpeditions",
@@ -559,9 +559,9 @@
       "ID": "ach-portal-return",
       "SetID": "17ih7ma",
       "Name": "From Whence we Came",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "ach-promotion",
@@ -672,8 +672,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-09T13:12:15.0072933+00:00",
+  "LastChanged_Achievements": "2023-06-09T14:05:53.0344272+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:01:04.7850575+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:06:20.9452049+00:00",
-  "LastUpdate_Achievements": "2023-06-09T13:12:15.0073473+00:00"
+  "LastUpdate_Ratings": "2023-06-09T14:00:13.8424105+00:00",
+  "LastUpdate_Achievements": "2023-06-09T14:05:53.034484+00:00"
 }

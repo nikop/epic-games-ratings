@@ -41,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.30% | ~271 |
 | Keep Your Distance | 0.30% | ~169 |
 | Hands Off! | 0.30% | ~169 |
+| The Dread Domain of Tovag | 0.30% | ~169 |
 | Frail Doesn't Mean Broken | 0.30% | ~169 |
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~169 |
 | The Sanctum of the Sword | 0.30% | ~169 |
@@ -122,7 +123,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Efforts | 0.20% | ~113 |
 | Heatwave | 0.20% | ~113 |
 | To Avernus in a Handbasket | 0.20% | ~113 |
-| The Dread Domain of Tovag | 0.20% | ~113 |
 | Weak Doesn't Mean Feeble | 0.20% | ~113 |
 | The Castle of a Thousand Vecnas | 0.20% | ~113 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~113 |
@@ -156,6 +156,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.20% | ~180 |
 | Azaka's Procession - Part 2 | 0.20% | ~180 |
 | The Mists of Ravenloft | 0.20% | ~180 |
+| The Hunt for Owl-y | 0.20% | ~180 |
 | Werewolves in the Mist | 0.20% | ~180 |
 | Family Entanglements | 0.20% | ~180 |
 | Chatty Nobles | 0.20% | ~180 |
@@ -259,6 +260,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Deekin's Mission | 0.20% | ~113 |
 | Frozen Vengeance | 0.20% | ~113 |
 | The Battle of High Hall Tower | 0.20% | ~113 |
+| Elturel's Last Stand | 0.20% | ~113 |
 | Gargauth's Betrayal | 0.20% | ~113 |
 | Ending the Rime - Part 1 | 0.20% | ~113 |
 | Ending the Rime - Part 2 | 0.20% | ~113 |
@@ -324,7 +326,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Snakes on our Plane | 0.10% | ~56 |
 | The Soulmonger Calls | 0.10% | ~90 |
 | Acererak's Puzzle | 0.10% | ~56 |
-| The Hunt for Owl-y | 0.10% | ~90 |
 | We're not in Faerûn Anymore | 0.10% | ~90 |
 | Haunted Fortunes | 0.10% | ~90 |
 | Poor Fortune | 0.10% | ~90 |
@@ -475,7 +476,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | REALLY Frozen Vengeance | 0.10% | ~56 |
 | Might Makes Right | 0.10% | ~56 |
 | The Stunning Tower Battle | 0.10% | ~56 |
-| Elturel's Last Stand | 0.10% | ~56 |
 | Lost in the Underdark | 0.10% | ~56 |
 | Demons Here, Demons There | 0.10% | ~56 |
 | Visions of Hornfirth | 0.10% | ~56 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~56 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,217 (Ranked 64)  
+Progressed: 90,221 (Ranked 64)  
 Completed: 1,924 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,7 +550,7 @@ Completed: 1,924 (2.13%) (Ranked 66)
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
-| 2023-06-09 | 90,217 | 1,924 |
+| 2023-06-09 | 90,221 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
 Sum: 30,057 (Ranked 37)  

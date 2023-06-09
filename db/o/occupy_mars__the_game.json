@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 1169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1915,9 +1915,9 @@
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
       "SetID": "l546gc",
       "Name": "Houston we have a problem",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 245
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -2084,8 +2084,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-08T18:57:45.1074866+00:00",
-  "LastChanged_Achievements": "2023-06-09T13:09:41.7448937+00:00",
+  "LastChanged_Achievements": "2023-06-09T14:03:46.9684173+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:03:03.6481823+00:00",
-  "LastUpdate_Achievements": "2023-06-09T13:09:41.7449626+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:57:30.284601+00:00",
+  "LastUpdate_Achievements": "2023-06-09T14:03:46.9684679+00:00"
 }

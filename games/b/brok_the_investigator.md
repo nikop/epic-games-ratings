@@ -8,9 +8,9 @@
 | Chapter 1 | 42.00% | ~5 |
 | Chapter 2 | 42.00% | ~5 |
 | Chapter 3 | 42.00% | ~5 |
+| Chapter 4 | 42.00% | ~5 |
 | Your Days Are Numbered | 42.00% | ~5 |
 | All Materials | 42.00% | ~5 |
-| Chapter 4 | 33.00% | ~4 |
 | Chapter 5 | 33.00% | ~4 |
 | It's In My Nature | 33.00% | ~4 |
 | Highway Survival | 25.00% | ~3 |
@@ -19,6 +19,7 @@
 | Ads Fan | 8.00% | ~1 |
 | Chipmunk | 8.00% | ~1 |
 | Food Thief | 8.00% | ~1 |
+| Paw Music | 8.00% | ~1 |
 | Sugar Pills Lover | 8.00% | ~1 |
 | Tramp Saver | 8.00% | ~1 |
 | Hard To Wake Up | 8.00% | ~1 |
@@ -27,7 +28,6 @@
 | Secret Locker | 0.00% | ~0 |
 | Main Endings | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
-| Paw Music | 0.00% | ~0 |
 | Pushy, pushy | 0.00% | ~0 |
 | Summary Filled | 0.00% | ~0 |
 | The World Is My Doormat | 0.00% | ~0 |

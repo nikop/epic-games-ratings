@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6374,
+  "EOS_Progressed": 6375,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3203,6 +3203,11 @@
       "Time": "2023-06-09T13:11:41.0321427+00:00",
       "NumProgressed": 6374,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-09T14:05:23.3413277+00:00",
+      "NumProgressed": 6375,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -3222,7 +3227,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "AUDIOPHILE",
@@ -3238,7 +3243,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -3350,7 +3355,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "SOUL_CANON",
@@ -3381,7 +3386,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6374,
+      "Progressed": 6375,
       "Completed": 23
     }
   ],
@@ -3389,8 +3394,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-09T13:11:41.0321424+00:00",
+  "LastChanged_Achievements": "2023-06-09T14:05:23.3413269+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:07.2758585+00:00",
-  "LastUpdate_Ratings": "2023-06-09T13:03:36.3842225+00:00",
-  "LastUpdate_Achievements": "2023-06-09T13:11:41.0321907+00:00"
+  "LastUpdate_Ratings": "2023-06-09T13:57:56.6234485+00:00",
+  "LastUpdate_Achievements": "2023-06-09T14:05:23.3413612+00:00"
 }
