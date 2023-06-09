@@ -62,12 +62,12 @@ Number of Ratings: 37  (23.09.2022)
 | Lord of War | 1.00% | ~42 |
 | Plague strikes! | 1.00% | ~42 |
 | Builder IV | 1.00% | ~42 |
+| An honorable Governor III | 1.00% | ~42 |
 | Completionist III | 1.00% | ~42 |
 | Only the sausage has two ends. | 1.00% | ~42 |
 | I've been everywhere I | 1.00% | ~42 |
 | Tax-man V | 1.00% | ~42 |
 | A time consuming game V | 1.00% | ~42 |
-| An honorable Governor III | 0.90% | ~37 |
 | Reunification | 0.90% | ~37 |
 | Treat her well… | 0.80% | ~33 |
 | When there's fire... | 0.70% | ~29 |

@@ -7,10 +7,10 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 29.00% | ~15,391 |
-| Let There Be Light | 23.00% | ~12,206 |
+| Let There Be Light | 23.00% | ~12,207 |
 | Float Like a Butterfly | 22.00% | ~11,676 |
 | Nordic Walking | 18.00% | ~9,553 |
-| Bright Falls' Finest | 17.00% | ~9,022 |
+| Bright Falls' Finest | 17.00% | ~9,023 |
 | Under a Thin Layer of Skin | 15.00% | ~7,961 |
 | Park Ranger | 12.00% | ~6,369 |
 | Finders Keepers | 12.00% | ~6,369 |
@@ -20,12 +20,12 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 10.00% | ~5,307 |
 | Missed by a Mile | 10.00% | ~5,307 |
 | Damn Good Cup of Coffee | 10.00% | ~5,307 |
-| Heavy Metal | 9.00% | ~4,776 |
-| Iron Horse | 9.00% | ~4,776 |
-| Wheels Within Wheels | 9.00% | ~4,776 |
-| The Six-Gun Scribe | 9.00% | ~4,776 |
-| Collateral Carnage | 9.00% | ~4,776 |
-| Come One, Come All | 9.00% | ~4,776 |
+| Heavy Metal | 9.00% | ~4,777 |
+| Iron Horse | 9.00% | ~4,777 |
+| Wheels Within Wheels | 9.00% | ~4,777 |
+| The Six-Gun Scribe | 9.00% | ~4,777 |
+| Collateral Carnage | 9.00% | ~4,777 |
+| Come One, Come All | 9.00% | ~4,777 |
 | Perchance to Dream | 8.00% | ~4,246 |
 | It's Not Just a Typewriter Brand | 8.00% | ~4,246 |
 | Thunder and Lightning | 8.00% | ~4,246 |
@@ -36,7 +36,7 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 7.00% | ~3,715 |
 | What Light Through Yonder Window | 6.00% | ~3,184 |
 | Right of Way | 6.00% | ~3,184 |
-| A Friend Indeed | 6.00% | ~992 |
+| A Friend Indeed | 6.00% | ~993 |
 | Tornado Wrangler | 5.00% | ~2,654 |
 | Departure | 5.00% | ~2,654 |
 | Ding! | 5.00% | ~827 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~53 |
 | No Punctuation | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,071 (Ranked 77)  
+Progressed: 53,074 (Ranked 77)  
 Completed: 50 (0.09%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 50 (0.09%) (Ranked 169)
 | 2023-06-06 | 52,515 | 50 |
 | 2023-06-07 | 52,722 | 50 |
 | 2023-06-08 | 52,962 | 50 |
-| 2023-06-09 | 53,071 | 50 |
+| 2023-06-09 | 53,074 | 50 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

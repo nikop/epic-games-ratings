@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2756,9 +2756,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9660,
+  "EOS_Progressed": 9662,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5961,6 +5961,11 @@
       "Time": "2023-06-09T06:07:35.3091712+00:00",
       "NumProgressed": 9660,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T07:06:41.6274931+00:00",
+      "NumProgressed": 9662,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -5972,7 +5977,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "02_BurningCity",
@@ -5988,7 +5993,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "04_FithCrusade",
@@ -6108,7 +6113,7 @@
       "Name": "Mythic Choices",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "19_EqualToAroden",
@@ -6899,21 +6904,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8442,
+      "Progressed": 8444,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9660,
+      "Progressed": 9662,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-08T11:58:44.7153071+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:07:35.3091707+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:06:41.6274925+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.8616993+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:58:50.4620722+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:07:35.3093165+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:58:42.352071+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:06:41.6277231+00:00"
 }

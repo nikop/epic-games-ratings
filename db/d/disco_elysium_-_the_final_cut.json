@@ -1115,7 +1115,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 120845,
+  "EOS_Progressed": 120847,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 0,
@@ -5745,6 +5745,11 @@
       "Time": "2023-06-09T06:07:17.0057819+00:00",
       "NumProgressed": 120845,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-09T07:06:24.3704779+00:00",
+      "NumProgressed": 120847,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -5860,7 +5865,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19335
+      "UsersEstimate": 19336
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -5972,7 +5977,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16918
+      "UsersEstimate": 16919
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -6075,15 +6080,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 120845,
+      "Progressed": 120847,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-08T23:59:12.2923424+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:07:17.0057813+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:06:24.3704773+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:25.8096959+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:59:45.3321296+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:07:17.005828+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:59:29.5549474+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:06:24.3705771+00:00"
 }

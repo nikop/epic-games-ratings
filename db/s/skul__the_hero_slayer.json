@@ -842,9 +842,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7702,
+  "EOS_Progressed": 7703,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2522,6 +2522,11 @@
       "Time": "2023-06-09T06:06:59.4962948+00:00",
       "NumProgressed": 7702,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-09T07:06:08.4052873+00:00",
+      "NumProgressed": 7703,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2533,7 +2538,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "Chatterbox",
@@ -2557,7 +2562,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4775
+      "UsersEstimate": 4776
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2653,7 +2658,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "SavedElderEnt",
@@ -2661,7 +2666,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4775
+      "UsersEstimate": 4776
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2693,7 +2698,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7163
+      "UsersEstimate": 7164
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2724,15 +2729,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7702,
+      "Progressed": 7703,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:06:59.4962943+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:06:08.4052868+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6643559+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:59:35.4555658+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:06:59.4963152+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:59:21.0557147+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:06:08.4053158+00:00"
 }

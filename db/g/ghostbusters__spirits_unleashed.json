@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1182,9 +1182,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22828,
+  "EOS_Progressed": 22829,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4932,6 +4932,11 @@
       "Time": "2023-06-09T06:07:27.0127286+00:00",
       "NumProgressed": 22828,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-09T07:06:33.8279044+00:00",
+      "NumProgressed": 22829,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -4943,7 +4948,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16664
+      "UsersEstimate": 16665
     },
     {
       "ID": "Animated",
@@ -4983,7 +4988,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9359
+      "UsersEstimate": 9360
     },
     {
       "ID": "Collect_Spores",
@@ -5023,7 +5028,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "Discovery",
@@ -5031,7 +5036,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 14153
+      "UsersEstimate": 14154
     },
     {
       "ID": "Dont_Need_These",
@@ -5055,7 +5060,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14610
+      "UsersEstimate": 14611
     },
     {
       "ID": "Escape_Artist",
@@ -5063,7 +5068,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "Fragile_Panes",
@@ -5079,7 +5084,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12555
+      "UsersEstimate": 12556
     },
     {
       "ID": "GB_In_Training",
@@ -5103,7 +5108,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6848
+      "UsersEstimate": 6849
     },
     {
       "ID": "Legions",
@@ -5159,7 +5164,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5935
+      "UsersEstimate": 5936
     },
     {
       "ID": "Reckless",
@@ -5207,7 +5212,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "Side_Hustle",
@@ -5247,7 +5252,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19632
+      "UsersEstimate": 19633
     },
     {
       "ID": "Summoner",
@@ -5279,7 +5284,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10044
+      "UsersEstimate": 10045
     },
     {
       "ID": "Terrifying",
@@ -5303,7 +5308,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10044
+      "UsersEstimate": 10045
     },
     {
       "ID": "Tobins_Prodigy",
@@ -5311,7 +5316,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "Ultimate_Defense",
@@ -5335,7 +5340,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7533
+      "UsersEstimate": 7534
     },
     {
       "ID": "Whoopsie",
@@ -5350,7 +5355,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22828,
+      "Progressed": 22829,
       "Completed": 40
     }
   ],
@@ -5358,8 +5363,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-09T05:59:34.4590185+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:07:27.0127279+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:06:33.8279035+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:14.6996784+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:59:34.459019+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:07:27.0127802+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:59:20.2136178+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:06:33.8280157+00:00"
 }

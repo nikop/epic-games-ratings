@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | The Steel Shadow | 4.00% | ~25 |
 | Treasure Trove | 4.00% | ~25 |
+| The Man Who Shattered Time | 4.00% | ~25 |
 | Make Up For Lost Time | 4.00% | ~25 |
 | Cartographer | 4.00% | ~25 |
 | The Wicked Twins | 4.00% | ~25 |
@@ -17,7 +18,6 @@
 | Family Memories | 3.00% | ~19 |
 | The Mysterious Stranger | 3.00% | ~19 |
 | The Betrayer | 3.00% | ~19 |
-| The Man Who Shattered Time | 3.00% | ~19 |
 | Whiz Kid | 3.00% | ~19 |
 | Rail Rat | 3.00% | ~19 |
 | The Loose Cannon | 3.00% | ~19 |
@@ -35,6 +35,7 @@
 | Right On Time | 2.00% | ~13 |
 | Corin Goes Home | 2.00% | ~13 |
 | Sartorialist | 2.00% | ~13 |
+| Entresol Explorer | 2.00% | ~13 |
 | Factorywood Explorer | 2.00% | ~13 |
 | Fairgrounds Explorer | 2.00% | ~13 |
 | Honest Mistake | 2.00% | ~13 |
@@ -44,7 +45,6 @@
 | Ask Questions Later | 2.00% | ~13 |
 | Good Neighbor | 2.00% | ~13 |
 | Cultivair Explorer | 1.00% | ~6 |
-| Entresol Explorer | 1.00% | ~6 |
 | Golem Hunter | 1.00% | ~6 |
 | Rungs Was Right | 1.00% | ~6 |
 | Hexlock for Protection | 0.60% | ~4 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 636 (Ranked 192)  
+Progressed: 637 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,4 +80,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 615 | 0 |
 | 2023-06-07 | 624 | 0 |
 | 2023-06-08 | 633 | 0 |
-| 2023-06-09 | 636 | 0 |
+| 2023-06-09 | 637 | 0 |

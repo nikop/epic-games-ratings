@@ -4,7 +4,7 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 70,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
       "Time": "2023-06-08T16:06:54.7771163+00:00",
       "NumProgressed": 69,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T07:06:27.0661908+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -65,7 +70,7 @@
       "ID": "BFT_ARC",
       "SetID": "7o7kd30",
       "Name": "Gamer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -81,7 +86,7 @@
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
       "UsersEstimate": 48
     },
@@ -89,7 +94,7 @@
       "ID": "BFT_CH1HB",
       "SetID": "7o7kd30",
       "Name": "Vicious Spider",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 31
     },
@@ -145,7 +150,7 @@
       "ID": "BFT_CH5",
       "SetID": "7o7kd30",
       "Name": "Chapter 5 Complete",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 15
     },
@@ -241,7 +246,7 @@
       "ID": "BFT_LEIF",
       "SetID": "7o7kd30",
       "Name": "The Truth",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 65,
       "UsersEstimate": 15
     },
@@ -289,7 +294,7 @@
       "ID": "BFT_SUPER",
       "SetID": "7o7kd30",
       "Name": "Ultimate Team!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 65,
       "UsersEstimate": 8
     },
@@ -297,7 +302,7 @@
       "ID": "BFT_VI",
       "SetID": "7o7kd30",
       "Name": "Reconciliation",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 65,
       "UsersEstimate": 15
     }
@@ -306,7 +311,7 @@
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 70,
       "Completed": 0
     }
   ],
@@ -314,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:07:19.8032071+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:06:27.0661902+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:25.2935323+00:00",
-  "LastUpdate_Ratings": "2023-06-09T06:00:55.3027211+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:07:19.8032251+00:00"
+  "LastUpdate_Ratings": "2023-06-09T07:00:27.8056709+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:06:27.0662214+00:00"
 }

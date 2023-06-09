@@ -298,9 +298,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6298,
+  "EOS_Progressed": 6302,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3488,6 +3488,11 @@
       "Time": "2023-06-09T06:04:25.9934404+00:00",
       "NumProgressed": 6298,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-09T07:03:51.4764602+00:00",
+      "NumProgressed": 6302,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 29,
@@ -3499,7 +3504,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5227
+      "UsersEstimate": 5231
     },
     {
       "ID": "ACH02",
@@ -3507,7 +3512,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2017
     },
     {
       "ID": "ACH03",
@@ -3523,7 +3528,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2269
     },
     {
       "ID": "ACH05",
@@ -3571,7 +3576,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1702
     },
     {
       "ID": "ACH11",
@@ -3723,14 +3728,14 @@
       "Name": "King of Liberty City",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6298,
+      "Progressed": 6302,
       "Completed": 32
     }
   ],
@@ -3738,8 +3743,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-07T13:58:19.7299811+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:04:25.9934399+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:03:51.4764597+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:03.6526306+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:58:19.778034+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:04:25.9934742+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:58:14.6414599+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:03:51.476501+00:00"
 }

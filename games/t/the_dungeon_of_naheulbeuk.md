@@ -17,7 +17,7 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 57.00% | ~25 |
 | Speedrun | 57.00% | ~25 |
 | Oh, when I'll be level 10... | 57.00% | ~25 |
-| I am the night | 48.00% | ~21 |
+| I am the night | 50.00% | ~22 |
 | Thieves' Guild Accreditation | 48.00% | ~21 |
 | A beer, two curses, three companions | 45.00% | ~20 |
 | The Ranger of Chaos | 43.00% | ~19 |

@@ -4,7 +4,7 @@
   "ProductSlug": "tyrants-blessing-02fddd",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-08T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:10.0905962+00:00",
   "LastChanged": "2023-03-31T05:58:10.0905963+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:58.7243285+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:59:16.8522532+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:03:03.0989573+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:59:05.1546615+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:01:44.0780931+00:00"
 }

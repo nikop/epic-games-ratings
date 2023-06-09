@@ -1532,9 +1532,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 46898,
+  "EOS_Progressed": 46901,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 855,
+  "EOS_NewPlayers": 853,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6622,6 +6622,11 @@
       "Time": "2023-06-09T05:07:39.3904369+00:00",
       "NumProgressed": 46898,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-09T07:06:24.9278713+00:00",
+      "NumProgressed": 46901,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 59,
@@ -6633,7 +6638,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 25794
+      "UsersEstimate": 25796
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -6865,7 +6870,7 @@
       "Name": "Headhunter I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12662
+      "UsersEstimate": 12663
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -6889,7 +6894,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 15007
+      "UsersEstimate": 15008
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -6897,7 +6902,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 18759
+      "UsersEstimate": 18760
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -6921,7 +6926,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 29546
+      "UsersEstimate": 29548
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -6977,7 +6982,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 11724
+      "UsersEstimate": 11725
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -7001,7 +7006,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 36111
+      "UsersEstimate": 36114
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -7097,22 +7102,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 17352
+      "UsersEstimate": 17353
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 46898,
+      "Progressed": 46901,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-06-06T02:20:42.5632316+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:07:17.342901+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:06:24.9278709+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:35.4941076+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:58:51.8027024+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:07:17.3429661+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:58:43.458046+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:06:24.9279548+00:00"
 }

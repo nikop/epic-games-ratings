@@ -591,17 +591,17 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHV_CITY",
       "SetID": "cceobco",
       "Name": "The City",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -679,9 +679,9 @@
       "ID": "ACHV_NANONIC1",
       "SetID": "cceobco",
       "Name": "Nanonic I",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -743,9 +743,9 @@
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -767,9 +767,9 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -800,8 +800,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:03:26.2734568+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:03:02.0254716+00:00",
   "LastUpdate_AppInfo": "2023-06-02T21:00:02.4090562+00:00",
-  "LastUpdate_Ratings": "2023-06-09T06:00:30.4557736+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:03:26.2734775+00:00"
+  "LastUpdate_Ratings": "2023-06-09T07:00:06.4933439+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:03:02.0255104+00:00"
 }

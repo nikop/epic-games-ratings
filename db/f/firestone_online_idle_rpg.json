@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1345,
+  "EOS_Progressed": 1346,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2916,6 +2916,11 @@
       "Time": "2023-06-09T05:07:45.3165492+00:00",
       "NumProgressed": 1345,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-09T07:06:29.9032789+00:00",
+      "NumProgressed": 1346,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3101,17 +3106,17 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 215
     },
     {
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 538
     },
     {
       "ID": "fourleafclover",
@@ -3181,9 +3186,9 @@
       "ID": "howdoyouturnthison",
       "SetID": "3nl4bcg",
       "Name": "How Do You Turn This On?",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "hunter",
@@ -3223,7 +3228,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "lockandload",
@@ -3327,7 +3332,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "relicofthepast",
@@ -3487,7 +3492,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "warmachinesarmy",
@@ -3519,14 +3524,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1345,
+      "Progressed": 1346,
       "Completed": 1
     }
   ],
@@ -3534,8 +3539,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:07:23.0115697+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:06:29.9032784+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:11.654213+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:58:28.3316769+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:07:23.011642+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:58:22.1875945+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:06:29.9033706+00:00"
 }

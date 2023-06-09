@@ -319,9 +319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4371,
+  "EOS_Progressed": 4372,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1109,6 +1109,11 @@
       "Time": "2023-06-09T05:02:30.561965+00:00",
       "NumProgressed": 4371,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-09T07:01:34.2634662+00:00",
+      "NumProgressed": 4372,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -1120,7 +1125,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1176,7 +1181,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4109
+      "UsersEstimate": 4110
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1278,9 +1283,9 @@
       "ID": "ID_ACHIEV_21",
       "SetID": "98bke8c",
       "Name": "Shall Not Pass",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 437
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -1336,7 +1341,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1368,7 +1373,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1384,7 +1389,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -1392,7 +1397,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -1400,7 +1405,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -1655,15 +1660,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4371,
+      "Progressed": 4372,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:02:10.0818953+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:01:34.2634656+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:09.2823727+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:58:26.627939+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:02:10.0819536+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:58:20.2932918+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:01:34.2636447+00:00"
 }

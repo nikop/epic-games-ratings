@@ -141,9 +141,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "axe_of_kindness",
@@ -197,9 +197,9 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "easy_listening",
@@ -390,8 +390,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:05:28.3184664+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:04:47.3219646+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:31.6745005+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:59:53.3134049+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:05:28.3184834+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:59:36.3743613+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:04:47.3220028+00:00"
 }

@@ -1754,9 +1754,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 490
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -1907,8 +1907,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-08T20:58:17.2515155+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:03:56.4731688+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:03:27.6241337+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:31.6731554+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:58:47.7985698+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:03:56.473208+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:58:39.7494221+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:03:27.6242218+00:00"
 }

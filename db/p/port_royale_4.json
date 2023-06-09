@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 628,
+  "EOS_Progressed": 629,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -839,6 +839,11 @@
       "Time": "2023-06-08T23:06:34.4759072+00:00",
       "NumProgressed": 628,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T07:06:25.4595171+00:00",
+      "NumProgressed": 629,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -906,7 +911,7 @@
       "Name": "My little farm",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACH008",
@@ -938,7 +943,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH012",
@@ -946,7 +951,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH013",
@@ -954,7 +959,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH014",
@@ -962,7 +967,7 @@
       "Name": "Christening",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH015",
@@ -986,7 +991,7 @@
       "Name": "Pearly gates",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH018",
@@ -1034,7 +1039,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH024",
@@ -1064,9 +1069,9 @@
       "ID": "ACH027",
       "SetID": "69nfp41",
       "Name": "I\u0027m out of here for a while",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH028",
@@ -1080,9 +1085,9 @@
       "ID": "ACH029",
       "SetID": "69nfp41",
       "Name": "Licence to Kill",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH030",
@@ -1138,7 +1143,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH037",
@@ -1200,9 +1205,9 @@
       "ID": "ACH044",
       "SetID": "69nfp41",
       "Name": "Greed for gold",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH045",
@@ -1249,15 +1254,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 628,
+      "Progressed": 629,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:07:18.1725336+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:06:25.4595167+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:43.7827711+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:59:01.0464892+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:07:18.1725683+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:58:51.8153388+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:06:25.4595822+00:00"
 }

@@ -276,9 +276,9 @@
       "ID": "Epic_Experience_100000000",
       "SetID": "ba1m2fc",
       "Name": "Sea of Chaos",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Epic_Firefly_1",
@@ -292,9 +292,9 @@
       "ID": "Epic_Formula_12",
       "SetID": "ba1m2fc",
       "Name": "Dionysus",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Epic_FruitPlanet_1",
@@ -372,9 +372,9 @@
       "ID": "Epic_KillBoss_25",
       "SetID": "ba1m2fc",
       "Name": "Extinction",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Epic_KillElite_500",
@@ -571,8 +571,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:01:43.0752057+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:01:11.3908107+00:00",
   "LastUpdate_AppInfo": "2023-06-08T03:57:14.5111987+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:57:09.0656232+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:01:43.0772525+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:57:12.0683366+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:01:11.3909664+00:00"
 }

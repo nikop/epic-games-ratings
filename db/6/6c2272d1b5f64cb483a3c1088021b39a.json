@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 384,
+  "EOS_Progressed": 387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -846,6 +846,11 @@
       "Time": "2023-06-09T02:25:15.8283138+00:00",
       "NumProgressed": 384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T07:03:25.0010535+00:00",
+      "NumProgressed": 387,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -857,7 +862,7 @@
       "Name": "Adventurous 1",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "adventurous_2",
@@ -977,7 +982,7 @@
       "Name": "Conqueror 1",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "conqueror_2",
@@ -1025,7 +1030,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 190
     },
     {
       "ID": "elemental_stones_2",
@@ -1263,9 +1268,9 @@
       "ID": "sophisticated_alchemist_1",
       "SetID": "53c1p3k",
       "Name": "Sophisticated Alchemist 1",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -1384,14 +1389,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 384,
+      "Progressed": 387,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:03:53.3151784+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:03:25.001053+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:57:11.1710622+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:03:53.3152287+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:57:13.6022987+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:03:25.0011248+00:00"
 }

@@ -951,9 +951,9 @@
       "ID": "NoDamage",
       "SetID": "70l3651",
       "Name": "Nervous Hands",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NoDeath",
@@ -1054,8 +1054,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-09T06:07:00.3555937+00:00",
+  "LastChanged_Achievements": "2023-06-09T07:06:09.2998829+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:53.3133808+00:00",
-  "LastUpdate_Ratings": "2023-06-09T05:58:07.6707525+00:00",
-  "LastUpdate_Achievements": "2023-06-09T06:07:00.355617+00:00"
+  "LastUpdate_Ratings": "2023-06-09T06:58:03.6383522+00:00",
+  "LastUpdate_Achievements": "2023-06-09T07:06:09.2999357+00:00"
 }

@@ -5,23 +5,23 @@ Rating: 4.05 (Ranked 889)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,264 |
-| World Map | 80.00% | ~1,076 |
+| Victor | 94.00% | ~1,265 |
+| World Map | 80.00% | ~1,077 |
 | Temple of Eternals | 57.00% | ~767 |
 | Prestigious | 53.00% | ~713 |
-| Fellowship Power | 41.00% | ~551 |
+| Fellowship Power | 40.00% | ~538 |
 | Guild Power | 24.00% | ~323 |
-| Prestigious x10 | 21.00% | ~282 |
+| Prestigious x10 | 21.00% | ~283 |
 | The game is on | 18.00% | ~242 |
-| Exotic Merchant | 17.00% | ~229 |
 | Dragon Clicker | 16.00% | ~215 |
+| Exotic Merchant | 16.00% | ~215 |
 | Miner Clicker | 16.00% | ~215 |
 | Inspection | 15.00% | ~202 |
 | Full Party | 14.00% | ~188 |
 | Dragon Master | 13.00% | ~175 |
 | Enlightenment | 13.00% | ~175 |
 | Hero inspection | 13.00% | ~175 |
-| Lieutenant | 12.00% | ~161 |
+| Lieutenant | 12.00% | ~162 |
 | Milestone collector | 11.00% | ~148 |
 | Mysterious Rock | 11.00% | ~148 |
 | Natural Talent | 11.00% | ~148 |
@@ -40,12 +40,12 @@ Rating: 4.05 (Ranked 889)
 | Moving Up The Ladder | 6.00% | ~81 |
 | Four Leaf Clover | 5.00% | ~67 |
 | Here We Go Again | 5.00% | ~67 |
+| How Do You Turn This On? | 5.00% | ~67 |
 | The Expeditioner | 5.00% | ~67 |
 | The father of Dragons | 5.00% | ~67 |
 | Trader | 5.00% | ~67 |
 | Ancient Knowledge | 4.00% | ~54 |
 | Background Story | 4.00% | ~54 |
-| How Do You Turn This On? | 4.00% | ~54 |
 | Master Enchanter | 4.00% | ~54 |
 | Missions Dedication | 4.00% | ~54 |
 | Weekly Quest Completionist | 4.00% | ~54 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 889)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,345 (Ranked 163)  
+Progressed: 1,346 (Ranked 163)  
 Completed: 1 (0.07%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 1 (0.07%) (Ranked 176)
 | 2023-06-06 | 1,309 | 1 |
 | 2023-06-07 | 1,329 | 1 |
 | 2023-06-08 | 1,341 | 1 |
-| 2023-06-09 | 1,345 | 1 |
+| 2023-06-09 | 1,346 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

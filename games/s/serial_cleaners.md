@@ -9,13 +9,13 @@
 | Small-time Finder | 6.00% | ~11 |
 | Off to a Good Start | 5.00% | ~9 |
 | A New Broom Sweeps Clean | 5.00% | ~9 |
-| Business as usual | 3.00% | ~6 |
+| Business as usual | 4.00% | ~7 |
+| Mr. Hygeni | 3.00% | ~6 |
 | All the Stories | 2.00% | ~4 |
 | Total Recall | 2.00% | ~4 |
 | Pride and Joy | 2.00% | ~4 |
 | Eyes Yet To Open | 2.00% | ~4 |
 | Witness Protection | 2.00% | ~4 |
-| Mr. Hygeni | 2.00% | ~4 |
 | Hackathon | 2.00% | ~4 |
 | Something Rotten | 1.00% | ~2 |
 | The Wing and the Thigh | 1.00% | ~2 |
