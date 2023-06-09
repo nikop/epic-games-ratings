@@ -29,7 +29,7 @@
 | That’s One Big Pile | 0.00% | ~0 |
 | Bee Squat | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187 (Ranked 252)  
+Progressed: 187 (Ranked 253)  
 Completed: 5 (2.67%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |

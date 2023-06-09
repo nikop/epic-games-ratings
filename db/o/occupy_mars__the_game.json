@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 1176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1831,9 +1831,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 376
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1903,9 +1903,9 @@
       "ID": "NEW_ACHIEVEMENT_GARDENER",
       "SetID": "l546gc",
       "Name": "Gardener",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 282
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -2023,9 +2023,9 @@
       "ID": "NEW_ACHIEVEMENT_ROCKET_JUMP",
       "SetID": "l546gc",
       "Name": "Rocket Jump",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROCKET_SCIENCE",
@@ -2104,8 +2104,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-08T18:57:45.1074866+00:00",
-  "LastChanged_Achievements": "2023-06-09T18:04:19.2823758+00:00",
+  "LastChanged_Achievements": "2023-06-09T19:03:41.3795954+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:30.5051398+00:00",
-  "LastUpdate_Ratings": "2023-06-09T17:57:38.8518641+00:00",
-  "LastUpdate_Achievements": "2023-06-09T18:04:19.2824434+00:00"
+  "LastUpdate_Ratings": "2023-06-09T18:57:26.6247268+00:00",
+  "LastUpdate_Achievements": "2023-06-09T19:03:41.3796344+00:00"
 }

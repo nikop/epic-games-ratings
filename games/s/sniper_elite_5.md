@@ -6,17 +6,17 @@ Rating: 4.52 (Ranked 513)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 28.00% | ~692 |
-| Confirming Suspicions | 23.00% | ~568 |
-| The Kraken Wakes | 19.00% | ~469 |
+| Confirming Suspicions | 23.00% | ~569 |
+| The Kraken Wakes | 19.00% | ~470 |
 | It's Starting to Crack | 17.00% | ~420 |
 | Lord of War | 14.00% | ~346 |
 | Change the Channel | 14.00% | ~346 |
 | Resourceful | 13.00% | ~321 |
-| Taking it back | 12.00% | ~296 |
+| Taking it back | 12.00% | ~297 |
 | Organ Grinder | 10.00% | ~247 |
 | As Quiet as a Mouse | 10.00% | ~247 |
 | Target America | 10.00% | ~247 |
-| The Kraken Sleeps | 9.00% | ~222 |
+| The Kraken Sleeps | 9.00% | ~223 |
 | Liberté | 8.00% | ~198 |
 | Enemy at the Gates | 8.00% | ~198 |
 | Just a Flesh Wound | 8.00% | ~198 |
@@ -46,15 +46,15 @@ Rating: 4.52 (Ranked 513)
 | Don't hold your breath | 1.00% | ~25 |
 | Herr Today, Gone Tomorrow | 1.00% | ~24 |
 | Operation Foxley | 1.00% | ~24 |
-| Siegebreaker | 0.90% | ~22 |
 | Ghost of Falaise | 0.90% | ~22 |
+| Siegebreaker | 0.80% | ~19 |
 | Last Resort | 0.70% | ~17 |
 | From Paris with Love | 0.60% | ~15 |
 | Burn after reading | 0.60% | ~15 |
 | Souvenir hunter | 0.60% | ~15 |
+| Up close and personal | 0.50% | ~12 |
 | Shoot for the Moon | 0.50% | ~12 |
 | Eagle Eyed | 0.40% | ~10 |
-| Up close and personal | 0.40% | ~10 |
 | If You Go Down To The Woods Today | 0.40% | ~10 |
 | Fight Another Day | 0.40% | ~10 |
 | Can't Outrun A Bullet | 0.30% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 513)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,470 (Ranked 147)  
+Progressed: 2,473 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.08%) (Ranked 172)
 | 2023-06-06 | 2,341 | 2 |
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
-| 2023-06-09 | 2,470 | 2 |
+| 2023-06-09 | 2,473 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

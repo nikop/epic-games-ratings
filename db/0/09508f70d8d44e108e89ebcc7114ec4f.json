@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 256,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.34,
   "EosHistory": [
@@ -626,9 +626,9 @@
       "ID": "big_house",
       "SetID": "ap7g2g4",
       "Name": "Big House",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 166
     },
     {
       "ID": "brewery",
@@ -642,9 +642,9 @@
       "ID": "church",
       "SetID": "ap7g2g4",
       "Name": "Church",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "circus",
@@ -809,8 +809,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-09T18:03:35.7270838+00:00",
+  "LastChanged_Achievements": "2023-06-09T19:03:15.6013143+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-09T17:57:13.862893+00:00",
-  "LastUpdate_Achievements": "2023-06-09T18:03:35.7271177+00:00"
+  "LastUpdate_Ratings": "2023-06-09T18:57:08.6568207+00:00",
+  "LastUpdate_Achievements": "2023-06-09T19:03:15.6013265+00:00"
 }

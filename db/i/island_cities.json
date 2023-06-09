@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 305,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 15.46,
+  "EOS_Completed_Percentage": 15.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1348,6 +1348,11 @@
       "Time": "2023-06-09T18:06:22.3873361+00:00",
       "NumProgressed": 304,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-06-09T19:05:16.963546+00:00",
+      "NumProgressed": 305,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 22,
@@ -1359,7 +1364,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "LEVEL_002",
@@ -1367,7 +1372,7 @@
       "Name": "A tiny town",
       "Percentage": 85,
       "XP": 35,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "LEVEL_003",
@@ -1383,7 +1388,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "LEVEL_005",
@@ -1407,7 +1412,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_008",
@@ -1415,7 +1420,7 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_009",
@@ -1461,17 +1466,17 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_016",
@@ -1534,7 +1539,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 47
     }
   ],
@@ -1542,8 +1547,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-09T18:06:22.3873352+00:00",
+  "LastChanged_Achievements": "2023-06-09T19:05:16.963545+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:13.1455673+00:00",
-  "LastUpdate_Ratings": "2023-06-09T17:58:20.5398043+00:00",
-  "LastUpdate_Achievements": "2023-06-09T18:06:22.3873729+00:00"
+  "LastUpdate_Ratings": "2023-06-09T18:57:58.8716108+00:00",
+  "LastUpdate_Achievements": "2023-06-09T19:05:16.9635648+00:00"
 }

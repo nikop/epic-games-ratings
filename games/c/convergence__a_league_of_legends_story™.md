@@ -7,26 +7,26 @@
 | The Steel Shadow | 5.00% | ~32 |
 | Treasure Trove | 5.00% | ~32 |
 | Cartographer | 5.00% | ~32 |
+| Time Heals All Wounds | 5.00% | ~32 |
 | Immaculate Aim | 5.00% | ~32 |
 | Like Clockwork | 4.00% | ~26 |
 | Street Style | 4.00% | ~26 |
+| The Mysterious Stranger | 4.00% | ~26 |
 | The Betrayer | 4.00% | ~26 |
 | The Man Who Shattered Time | 4.00% | ~26 |
+| Rail Rat | 4.00% | ~26 |
 | Make Up For Lost Time | 4.00% | ~26 |
 | Time Flies | 4.00% | ~26 |
 | No, Thanks! | 4.00% | ~26 |
 | Breaking Down Barriers | 4.00% | ~26 |
 | The Wicked Twins | 4.00% | ~26 |
 | The Prince in Heels | 4.00% | ~26 |
-| Time Heals All Wounds | 4.00% | ~26 |
 | Golem Chaser | 4.00% | ~26 |
 | The Family Fortune | 4.00% | ~26 |
 | Chaincrawler Explorer | 3.00% | ~19 |
 | Right On Time | 3.00% | ~19 |
 | Family Memories | 3.00% | ~19 |
-| The Mysterious Stranger | 3.00% | ~19 |
 | Whiz Kid | 3.00% | ~19 |
-| Rail Rat | 3.00% | ~19 |
 | The Loose Cannon | 3.00% | ~19 |
 | The Harder They Fall | 3.00% | ~19 |
 | Honest Mistake | 3.00% | ~19 |

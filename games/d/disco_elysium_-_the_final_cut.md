@@ -6,16 +6,16 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,858 |
-| Biggest Communism Builder | 24.00% | ~29,021 |
-| The World's Most Laughable Centrist | 20.00% | ~24,184 |
-| Il Coppo Del'Arte! | 18.00% | ~21,766 |
+| Goodest Of The Good Cops | 28.00% | ~33,859 |
+| Biggest Communism Builder | 24.00% | ~29,022 |
+| The World's Most Laughable Centrist | 20.00% | ~24,185 |
+| Il Coppo Del'Arte! | 18.00% | ~21,767 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,348 |
-| Hyperstellar Law Official | 15.00% | ~18,138 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~16,929 |
+| Hyperstellar Law Official | 15.00% | ~18,139 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~16,930 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,720 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,720 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,301 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,302 |
 | The Figurines Won't Win Her Back | 9.00% | ~10,883 |
 | Unbelievably Boring **** | 8.00% | ~9,674 |
 | Enemy Of The Physical Realm | 8.00% | ~9,674 |
@@ -24,10 +24,10 @@ Number of Ratings: 1,611  (23.09.2022)
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,837 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,628 |
 | Bother Kim After Hours | 3.00% | ~3,628 |
-| Baddest Of the Bad Cops | 2.00% | ~2,418 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,418 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,418 |
-| Wheel of Pleasure and Light | 2.00% | ~2,418 |
+| Baddest Of the Bad Cops | 2.00% | ~2,419 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,419 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,419 |
+| Wheel of Pleasure and Light | 2.00% | ~2,419 |
 | Massive Torque Dork | 1.00% | ~1,209 |
 | Avowed Inframaterialist | 0.90% | ~1,088 |
 | Real Musor | 0.90% | ~1,088 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~121 |
 | What body? | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,922 (Ranked 59)  
+Progressed: 120,926 (Ranked 59)  
 Completed: 25 (0.02%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,16 +97,16 @@ Completed: 25 (0.02%) (Ranked 195)
 | 2023-06-06 | 120,595 | 25 |
 | 2023-06-07 | 120,702 | 25 |
 | 2023-06-08 | 120,819 | 25 |
-| 2023-06-09 | 120,922 | 25 |
+| 2023-06-09 | 120,926 | 25 |
 ## Awards
 Max (Character Customization): 694  (Ranked 157)  
-Sum: 1,052 (Ranked 230)  
+Sum: 1,053 (Ranked 230)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 694 |
 | This game has Amazing Storytelling | 46 |
-| This game is Educational | 43 |
+| This game is Educational | 44 |
 | This game is Highly Recommended | 42 |
 | This game has Quickly Understood Controls | 40 |
 | This game has Unique Visuals | 35 |
@@ -219,3 +219,4 @@ Diff (max vs sum): -73
 | 2023-06-05 | 4.86 | - | 691 | 1,049 |
 | 2023-06-07 | 4.86 | - | 692 | 1,050 |
 | 2023-06-08 | 4.86 | - | 694 | 1,052 |
+| 2023-06-09 | 4.86 | - | 694 | 1,053 |

@@ -35,7 +35,7 @@
 | First extreme level | 0.00% | ~0 |
 | First hard level | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 274)  
+Progressed: 102 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,4 +55,4 @@ Completed: 0 (0.00%) (Ranked 212)
 | 2023-06-06 | 96 | 0 |
 | 2023-06-07 | 97 | 0 |
 | 2023-06-08 | 99 | 0 |
-| 2023-06-09 | 101 | 0 |
+| 2023-06-09 | 102 | 0 |

@@ -5,16 +5,18 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Story Begins... | 85.00% | ~17 |
-| First Blood | 80.00% | ~16 |
-| These Blades Are Made For Swinging | 75.00% | ~15 |
-| Unearth A Qanat | 70.00% | ~14 |
-| Carving A Memory | 65.00% | ~13 |
-| A Friend In Need | 60.00% | ~12 |
-| A Stranger's Diary | 60.00% | ~12 |
-| It Feels Better Than It Sounds | 60.00% | ~12 |
-| Skilled Hands | 55.00% | ~11 |
+| First Blood | 85.00% | ~17 |
+| These Blades Are Made For Swinging | 80.00% | ~16 |
+| Unearth A Qanat | 75.00% | ~15 |
+| Carving A Memory | 70.00% | ~14 |
+| A Friend In Need | 65.00% | ~13 |
+| A Stranger's Diary | 65.00% | ~13 |
+| It Feels Better Than It Sounds | 65.00% | ~13 |
+| Skilled Hands | 60.00% | ~12 |
+| Stand By Nature | 60.00% | ~12 |
 | Master Smithy | 55.00% | ~11 |
-| Stand By Nature | 55.00% | ~11 |
+| The Milk Canal | 55.00% | ~11 |
+| Fledgling Smithy | 55.00% | ~11 |
 | Close Encounter | 50.00% | ~10 |
 | The Depths Of Darkness | 50.00% | ~10 |
 | One With The Blades | 50.00% | ~10 |
@@ -22,19 +24,17 @@
 | Anahita's Greatest Mistake | 50.00% | ~10 |
 | Heart's Desire | 50.00% | ~10 |
 | Shoo! Shoo! | 50.00% | ~10 |
-| The Milk Canal | 50.00% | ~10 |
+| At One With Nature | 50.00% | ~10 |
+| Prison Break | 45.00% | ~9 |
 | Nature's Savior | 45.00% | ~9 |
 | Hammer It Home | 45.00% | ~9 |
 | For Whom the Bell Tolls | 45.00% | ~9 |
 | Here I Am | 45.00% | ~9 |
-| Fledgling Smithy | 45.00% | ~9 |
-| Prison Break | 40.00% | ~8 |
 | I Pick You | 40.00% | ~8 |
 | Accomplished Smithy | 40.00% | ~8 |
 | The Blight's Blight | 40.00% | ~8 |
 | The Ultimate Sacrifice | 40.00% | ~8 |
 | Break The Cycle | 40.00% | ~8 |
-| At One With Nature | 40.00% | ~8 |
 | Continue The Cycle | 30.00% | ~6 |
 | Talent And Dedication | 25.00% | ~5 |
 | Read, Read, Read | 20.00% | ~4 |

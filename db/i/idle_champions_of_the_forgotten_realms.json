@@ -4136,10 +4136,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30058,
       "NumberOfAwardsMax": 4922
+    },
+    {
+      "Time": "2023-06-09T18:57:59.8453405+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30061,
+      "NumberOfAwardsMax": 4922
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30058,
+  "NumberOfAwards": 30061,
   "NumberOfAwardsMax": 4922,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4171,7 +4177,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3955
+      "Count": 3958
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4186,9 +4192,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90241,
+  "EOS_Progressed": 90250,
   "EOS_Completed": 1924,
-  "EOS_NewPlayers": 717,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9301,6 +9307,11 @@
       "Time": "2023-06-09T18:07:01.683351+00:00",
       "NumProgressed": 90241,
       "NumCompleted": 1924
+    },
+    {
+      "Time": "2023-06-09T19:05:50.7067004+00:00",
+      "NumProgressed": 90250,
+      "NumCompleted": 1924
     }
   ],
   "TotalAchievements": 493,
@@ -10176,7 +10187,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "objective_completed_1203",
@@ -10198,9 +10209,9 @@
       "ID": "objective_completed_1208",
       "SetID": "415jc5c",
       "Name": "Vecna Out!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 283
     },
     {
       "ID": "objective_completed_1209",
@@ -11104,7 +11115,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "objective_completed_390",
@@ -12528,7 +12539,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "objective_completed_80",
@@ -13255,21 +13266,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56515,
+      "Progressed": 56524,
       "Completed": 2779
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90241,
+      "Progressed": 90250,
       "Completed": 1924
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-09T15:58:20.495613+00:00",
-  "LastChanged_Achievements": "2023-06-09T18:07:01.6833502+00:00",
+  "LastChanged": "2023-06-09T18:57:59.8453404+00:00",
+  "LastChanged_Achievements": "2023-06-09T19:05:50.7066997+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:14.3279189+00:00",
-  "LastUpdate_Ratings": "2023-06-09T17:58:21.898795+00:00",
-  "LastUpdate_Achievements": "2023-06-09T18:07:01.686186+00:00"
+  "LastUpdate_Ratings": "2023-06-09T18:57:59.8453409+00:00",
+  "LastUpdate_Achievements": "2023-06-09T19:05:50.7088236+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -534,9 +534,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2876,
+  "EOS_Progressed": 2877,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1719,6 +1719,11 @@
       "Time": "2023-06-09T15:06:01.3686993+00:00",
       "NumProgressed": 2876,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T19:05:44.4482654+00:00",
+      "NumProgressed": 2877,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1826,7 +1831,7 @@
       "Name": "Surgical Excision",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1962,7 +1967,7 @@
       "Name": "Purging Spree",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "Kills_Vakir",
@@ -2066,7 +2071,7 @@
       "Name": "Bloodless",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -2201,21 +2206,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2876,
+      "Progressed": 2877,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2876,
+      "Progressed": 2877,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-07T10:59:27.9467392+00:00",
-  "LastChanged_Achievements": "2023-06-09T18:06:54.3537448+00:00",
+  "LastChanged_Achievements": "2023-06-09T19:05:44.4482646+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:58:55.6602449+00:00",
-  "LastUpdate_Ratings": "2023-06-09T17:59:04.2375966+00:00",
-  "LastUpdate_Achievements": "2023-06-09T18:06:54.3538291+00:00"
+  "LastUpdate_Ratings": "2023-06-09T18:58:32.1113828+00:00",
+  "LastUpdate_Achievements": "2023-06-09T19:05:44.4483129+00:00"
 }

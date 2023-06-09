@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1671,
+  "EOS_Progressed": 1672,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1811,6 +1811,11 @@
       "Time": "2023-06-08T02:24:18.0559118+00:00",
       "NumProgressed": 1671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-09T19:03:06.9264908+00:00",
+      "NumProgressed": 1672,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1870,7 +1875,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "Achievement_009",
@@ -1878,7 +1883,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "Achievement_010",
@@ -1958,7 +1963,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "Achievement_020",
@@ -2006,7 +2011,7 @@
       "Name": "Grounded",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "Achievement_026",
@@ -2038,7 +2043,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "Achievement_030",
@@ -2046,7 +2051,7 @@
       "Name": "ICU",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "Achievement_031",
@@ -2054,7 +2059,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "Achievement_032",
@@ -2158,7 +2163,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "Achievement_046",
@@ -2342,14 +2347,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1671,
+      "Progressed": 1672,
       "Completed": 0
     }
   ],
@@ -2357,8 +2362,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-05T19:58:09.7958278+00:00",
-  "LastChanged_Achievements": "2023-06-09T18:03:25.0681286+00:00",
+  "LastChanged_Achievements": "2023-06-09T19:03:06.9264903+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:57:59.53368+00:00",
-  "LastUpdate_Ratings": "2023-06-09T17:58:07.3727047+00:00",
-  "LastUpdate_Achievements": "2023-06-09T18:03:25.0682198+00:00"
+  "LastUpdate_Ratings": "2023-06-09T18:57:48.955779+00:00",
+  "LastUpdate_Achievements": "2023-06-09T19:03:06.9265571+00:00"
 }

@@ -34,22 +34,22 @@ Rating: 4.57 (Ranked 444)
 | BRAWL! | 2.00% | ~51 |
 | All in Good Health | 2.00% | ~51 |
 | From the Past | 2.00% | ~51 |
+| What the Ruins Teach Us | 2.00% | ~51 |
 | Mutual Loyalty | 1.00% | ~25 |
 | ...  in a finite world | 1.00% | ~25 |
 | Sustainable Energy | 1.00% | ~25 |
 | Delivery! | 1.00% | ~25 |
 | Pedal to the Metal | 1.00% | ~25 |
-| What the Ruins Teach Us | 1.00% | ~25 |
 | Pulsar Disciple | 1.00% | ~25 |
 | Catastrophe Avoided | 0.90% | ~23 |
 | Praise the Hull! | 0.80% | ~20 |
 | You Had One Job... | 0.80% | ~20 |
 | Space Greenhouse | 0.80% | ~20 |
 | Tiqqun Unchained | 0.70% | ~18 |
+| Help of the Forgotten Member | 0.70% | ~18 |
 | Tiqqun Contender | 0.60% | ~15 |
 | Gregor Spinoza | 0.60% | ~15 |
 | Scientifically Accurate | 0.60% | ~15 |
-| Help of the Forgotten Member | 0.60% | ~15 |
 | Better Him Than Me | 0.40% | ~10 |
 | Remember the Dead | 0.30% | ~8 |
 | Work Harder | 0.20% | ~5 |

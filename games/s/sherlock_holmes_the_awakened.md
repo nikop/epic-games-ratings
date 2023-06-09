@@ -25,7 +25,7 @@
 | Fhtagn! | 36.00% | ~148 |
 | Going Once... | 35.00% | ~144 |
 | Bookworm | 35.00% | ~144 |
-| Let Me Be Frank | 32.00% | ~132 |
+| Let Me Be Frank | 33.00% | ~136 |
 | Brain Food | 31.00% | ~127 |
 | No Stone Unturned | 30.00% | ~123 |
 | Curiosity Killed The Cat | 20.00% | ~82 |

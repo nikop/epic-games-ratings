@@ -13,10 +13,10 @@
 | Locked Away | 33.00% | ~12 |
 | A Little Renovating | 28.00% | ~10 |
 | Deflect This! | 25.00% | ~9 |
+| Just Some Improvements | 22.00% | ~8 |
 | It's a Sign! | 22.00% | ~8 |
-| Just Some Improvements | 19.00% | ~7 |
+| A New Strategy | 19.00% | ~7 |
 | A Little Extra Love | 17.00% | ~6 |
-| A New Strategy | 17.00% | ~6 |
 | Isn't It Beautiful? | 14.00% | ~5 |
 | A Generous Leader | 14.00% | ~5 |
 | Final Announcement | 14.00% | ~5 |
@@ -56,8 +56,8 @@
 | With a Little Help from My Friends | 8.00% | ~3 |
 | The More the Merrier | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 324)  
-Completed: 3 (8.33%) (Ranked 19)  
+Progressed: 36 (Ranked 325)  
+Completed: 3 (8.33%) (Ranked 20)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

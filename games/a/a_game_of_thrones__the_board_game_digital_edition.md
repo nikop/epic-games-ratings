@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~6,029 |
-| Battering Crew | 20.00% | ~3,015 |
-| The Kingsroad | 19.00% | ~2,864 |
-| Well Stocked | 14.00% | ~2,110 |
-| Royal Fleet | 14.00% | ~2,110 |
-| The Kraken’s Grasp | 10.00% | ~1,507 |
+| Conqueror | 40.00% | ~6,033 |
+| Battering Crew | 20.00% | ~3,016 |
+| The Kingsroad | 19.00% | ~2,866 |
+| Well Stocked | 14.00% | ~2,111 |
+| Royal Fleet | 14.00% | ~2,111 |
+| The Kraken’s Grasp | 10.00% | ~1,508 |
 | Alliance | 9.00% | ~1,357 |
-| Daggers in the Dark | 8.00% | ~1,206 |
-| Oathkeeper | 8.00% | ~1,206 |
-| Influential | 8.00% | ~1,206 |
-| A Long Journey | 8.00% | ~1,206 |
-| Ours is the Fury | 7.00% | ~1,055 |
-| We Do Not Sow | 7.00% | ~1,055 |
-| Winter is Coming | 7.00% | ~1,055 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~904 |
-| Hear me Roar! | 6.00% | ~904 |
-| Defender of the Wall | 6.00% | ~904 |
+| Daggers in the Dark | 8.00% | ~1,207 |
+| Oathkeeper | 8.00% | ~1,207 |
+| Influential | 8.00% | ~1,207 |
+| A Long Journey | 8.00% | ~1,207 |
+| Ours is the Fury | 7.00% | ~1,056 |
+| We Do Not Sow | 7.00% | ~1,056 |
+| Winter is Coming | 7.00% | ~1,056 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~905 |
+| Hear me Roar! | 6.00% | ~905 |
+| Defender of the Wall | 6.00% | ~905 |
 | Growing Strong | 5.00% | ~754 |
 | What is Dead may Never Die | 3.00% | ~452 |
 | The Swift | 3.00% | ~452 |
-| King in the North | 2.00% | ~301 |
+| King in the North | 2.00% | ~302 |
 | War of the Five Kings | 1.00% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,073 (Ranked 103)  
+Progressed: 15,082 (Ranked 102)  
 Completed: 32 (0.21%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 32 (0.21%) (Ranked 145)
 | 2023-06-06 | 14,820 | 30 |
 | 2023-06-07 | 14,900 | 31 |
 | 2023-06-08 | 15,000 | 32 |
-| 2023-06-09 | 15,073 | 32 |
+| 2023-06-09 | 15,082 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 304)  
 Sum: 782 (Ranked 253)  

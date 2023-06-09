@@ -5,34 +5,34 @@ Rating: 4.18 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~1,929 |
-| The Outer Way | 12.00% | ~1,781 |
-| Desperate Times | 11.00% | ~1,633 |
-| Paper Jams | 10.00% | ~1,484 |
-| Chew 'Em Up | 8.00% | ~1,187 |
-| Workplace Hazard | 8.00% | ~1,187 |
-| Reforged | 8.00% | ~1,187 |
-| If the SHU Fits... | 8.00% | ~1,187 |
+| Flesh Wound | 13.00% | ~1,931 |
+| The Outer Way | 12.00% | ~1,783 |
+| Desperate Times | 11.00% | ~1,634 |
+| Paper Jams | 10.00% | ~1,486 |
+| Chew 'Em Up | 8.00% | ~1,188 |
+| Workplace Hazard | 8.00% | ~1,188 |
+| Reforged | 8.00% | ~1,188 |
+| If the SHU Fits... | 8.00% | ~1,188 |
 | Giving Back | 6.00% | ~891 |
 | Get a Grip | 6.00% | ~891 |
 | Without A Paddle | 6.00% | ~891 |
-| Terminated | 5.00% | ~742 |
-| In the Pipe, Five by Five | 5.00% | ~742 |
-| Crash Site | 5.00% | ~742 |
+| Terminated | 5.00% | ~743 |
+| In the Pipe, Five by Five | 5.00% | ~743 |
+| Crash Site | 5.00% | ~743 |
 | Two Heads Are Better Than One | 4.00% | ~594 |
 | Float Like A Butterfly | 4.00% | ~594 |
 | Power Up | 4.00% | ~594 |
 | Instigator | 4.00% | ~111 |
 | Big Game Hunter | 4.00% | ~111 |
-| You Need a Gun | 3.00% | ~445 |
-| The Commonality | 3.00% | ~445 |
-| What Lies Beneath | 3.00% | ~445 |
-| Full Circle | 3.00% | ~445 |
+| You Need a Gun | 3.00% | ~446 |
+| The Commonality | 3.00% | ~446 |
+| What Lies Beneath | 3.00% | ~446 |
+| Full Circle | 3.00% | ~446 |
 | Bear Trap | 3.00% | ~83 |
 | I Do Belong Here | 2.00% | ~297 |
 | In Striking Distance | 2.00% | ~297 |
 | Mugshot | 2.00% | ~297 |
-| Big Spender | 2.00% | ~55 |
+| Big Spender | 2.00% | ~56 |
 | Parole Denied | 1.00% | ~28 |
 | Hoard Mode | 1.00% | ~28 |
 | Grim Reaper | 0.80% | ~119 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,842 (Ranked 104)  
+Progressed: 14,855 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 54 (0.36%) (Ranked 121)
 | 2023-06-06 | 14,637 | 54 |
 | 2023-06-07 | 14,702 | 54 |
 | 2023-06-08 | 14,777 | 54 |
-| 2023-06-09 | 14,842 | 54 |
+| 2023-06-09 | 14,855 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
 Sum: 301 (Ranked 328)  

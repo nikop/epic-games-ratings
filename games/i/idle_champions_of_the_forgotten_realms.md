@@ -14,11 +14,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.80% | ~722 |
 | Are Ya Chicken? | 0.70% | ~632 |
 | Beware the Jabberwock | 0.70% | ~396 |
-| Were-verpowered | 0.60% | ~541 |
-| Seeking Allies | 0.60% | ~541 |
-| Friendly Imps | 0.60% | ~541 |
+| Were-verpowered | 0.60% | ~542 |
+| Seeking Allies | 0.60% | ~542 |
+| Friendly Imps | 0.60% | ~542 |
 | Coasting to the Finish | 0.60% | ~339 |
 | Checkmate | 0.50% | ~283 |
+| Vecna Out! | 0.50% | ~283 |
 | A Persistent Buzzing | 0.50% | ~451 |
 | Mad Cow Disease | 0.50% | ~451 |
 | Pure Energy | 0.50% | ~451 |
@@ -26,7 +27,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.40% | ~361 |
 | Owlbear Necessities | 0.40% | ~226 |
 | Best Thay Ever | 0.40% | ~226 |
-| Vecna Out! | 0.40% | ~226 |
 | Beast Mode | 0.40% | ~361 |
 | Terror in the Dark | 0.40% | ~361 |
 | A Mysterious Summons | 0.40% | ~361 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,241 (Ranked 64)  
+Progressed: 90,250 (Ranked 64)  
 Completed: 1,924 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,10 +550,10 @@ Completed: 1,924 (2.13%) (Ranked 65)
 | 2023-06-06 | 89,983 | 1,920 |
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
-| 2023-06-09 | 90,241 | 1,924 |
+| 2023-06-09 | 90,250 | 1,924 |
 ## Awards
 Max (Diverse Characters): 4,922  (Ranked 64)  
-Sum: 30,058 (Ranked 37)  
+Sum: 30,061 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -561,7 +561,7 @@ Diff (max vs sum): 27
 | This game is Great for Beginners | 4,860 |
 | This game has Quickly Understood Controls | 4,613 |
 | This game is Relaxing | 4,509 |
-| This game is Highly Recommended | 3,955 |
+| This game is Highly Recommended | 3,958 |
 | This game has Amazing Characters | 3,951 |
 | This game has Playful Visuals | 3,248 |
 ## Ratings History
@@ -701,4 +701,4 @@ Diff (max vs sum): 27
 | 2023-06-06 | 4.06 | - | 4,920 | 30,044 |
 | 2023-06-07 | 4.06 | - | 4,920 | 30,049 |
 | 2023-06-08 | 4.06 | - | 4,922 | 30,051 |
-| 2023-06-09 | 4.06 | - | 4,922 | 30,058 |
+| 2023-06-09 | 4.06 | - | 4,922 | 30,061 |

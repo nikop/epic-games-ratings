@@ -17,7 +17,7 @@ Rating: 4.31 (Ranked 756)
 | Exorcist | 38.00% | ~407 |
 | Editor Adept | 37.00% | ~397 |
 | Firestarter | 37.00% | ~397 |
-| Giant Killer | 34.00% | ~364 |
+| Giant Killer | 35.00% | ~375 |
 | Sensei | 33.00% | ~354 |
 | The meaning of Kain | 31.00% | ~332 |
 | Technophobe | 29.00% | ~311 |
@@ -34,7 +34,7 @@ Rating: 4.31 (Ranked 756)
 | Endgame | 15.00% | ~161 |
 | Savior | 15.00% | ~161 |
 | Newtonian Knockout | 14.00% | ~150 |
-| The Watchers | 13.00% | ~139 |
+| The Watchers | 14.00% | ~150 |
 | Ruthless | 12.00% | ~129 |
 | Dr Jones | 10.00% | ~107 |
 | Chaos Theory | 9.00% | ~96 |

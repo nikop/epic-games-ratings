@@ -3,8 +3,8 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2744,
+  "EOS_Progressed": 2746,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2470,6 +2470,11 @@
       "Time": "2023-06-09T18:04:16.9282241+00:00",
       "NumProgressed": 2744,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-09T19:03:39.4529907+00:00",
+      "NumProgressed": 2746,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -2481,7 +2486,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "10",
@@ -2489,7 +2494,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "11",
@@ -2505,7 +2510,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "13",
@@ -2521,7 +2526,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "15",
@@ -2537,7 +2542,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "17",
@@ -2561,7 +2566,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 12,
       "XP": 85,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "2",
@@ -2569,7 +2574,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "20",
@@ -2633,7 +2638,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "6",
@@ -2665,20 +2670,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2744,
+      "Progressed": 2746,
       "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-09T18:04:16.9282233+00:00",
+  "LastChanged_Achievements": "2023-06-09T19:03:39.4529902+00:00",
   "LastUpdate_AppInfo": "2023-06-02T20:59:15.6683071+00:00",
-  "LastUpdate_Ratings": "2023-06-09T17:59:23.0754326+00:00",
-  "LastUpdate_Achievements": "2023-06-09T18:04:16.9282685+00:00"
+  "LastUpdate_Ratings": "2023-06-09T18:58:46.8871918+00:00",
+  "LastUpdate_Achievements": "2023-06-09T19:03:39.4530215+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,409 |
-| Self-Improvement | 71.00% | ~1,150 |
-| Perky | 65.00% | ~1,053 |
-| Let’s Ride | 60.00% | ~972 |
-| Welcome to the Weird West | 57.00% | ~923 |
-| Dead or Alive | 55.00% | ~891 |
-| Full House | 37.00% | ~599 |
+| Unforgiven | 87.00% | ~1,410 |
+| Self-Improvement | 71.00% | ~1,151 |
+| Perky | 65.00% | ~1,054 |
+| Let’s Ride | 60.00% | ~973 |
+| Welcome to the Weird West | 57.00% | ~924 |
+| Dead or Alive | 55.00% | ~892 |
+| Full House | 37.00% | ~600 |
 | Off the Trail | 34.00% | ~551 |
 | Justice Served | 29.00% | ~470 |
-| Chain Reaction | 27.00% | ~437 |
+| Chain Reaction | 27.00% | ~438 |
 | Scholar | 25.00% | ~405 |
 | Through Their Eyes | 25.00% | ~405 |
 | Dishonored | 24.00% | ~389 |
@@ -28,10 +28,10 @@ Number of Ratings: 125  (23.09.2022)
 | Here Comes Santa Claus | 15.00% | ~243 |
 | Dog Days | 13.00% | ~211 |
 | Workers' Rights | 13.00% | ~211 |
-| Elusive Prey | 12.00% | ~194 |
-| Out on the Ebb Tide | 12.00% | ~194 |
-| Power Behind the Pulpit | 12.00% | ~194 |
-| Turning the Tables | 12.00% | ~194 |
+| Elusive Prey | 12.00% | ~195 |
+| Out on the Ebb Tide | 12.00% | ~195 |
+| Power Behind the Pulpit | 12.00% | ~195 |
+| Turning the Tables | 12.00% | ~195 |
 | Something Wicked This Way Comes… | 11.00% | ~178 |
 | There is Hope | 11.00% | ~178 |
 | Loyalty to the Pack | 9.00% | ~146 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Dirt and Blame | 0.20% | ~3 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,620 (Ranked 158)  
+Progressed: 1,621 (Ranked 158)  
 Completed: 2 (0.12%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 2 (0.12%) (Ranked 161)
 | 2023-06-06 | 1,607 | 2 |
 | 2023-06-07 | 1,611 | 2 |
 | 2023-06-08 | 1,616 | 2 |
-| 2023-06-09 | 1,620 | 2 |
+| 2023-06-09 | 1,621 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 468)  
 Sum: 24 (Ranked 475)  

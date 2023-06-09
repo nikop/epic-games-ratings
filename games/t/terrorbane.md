@@ -16,8 +16,8 @@
 | Errorbane | 15.00% | ~6 |
 | Secret Admirer | 15.00% | ~6 |
 | Bugged, not stupid | 13.00% | ~5 |
+| A Rank Bug-catcher | 10.00% | ~4 |
 | Hackerman | 10.00% | ~4 |
-| A Rank Bug-catcher | 8.00% | ~3 |
 | S Rank Bug-catcher | 8.00% | ~3 |
 | Deepest lore | 8.00% | ~3 |
 | Thanks for Playing | 5.00% | ~2 |
@@ -30,7 +30,7 @@
 | Arcade master | 0.00% | ~0 |
 | Real completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 316)  
+Progressed: 39 (Ranked 317)  
 Completed: 0 (0.00%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,36 +5,36 @@ Rating: 4.49 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,657 |
+| Stylish | 86.00% | ~19,658 |
 | Advancement | 73.00% | ~16,686 |
-| Meticulously Efficient | 64.00% | ~14,628 |
-| Discovery | 62.00% | ~14,171 |
-| Fully Upgraded | 55.00% | ~12,571 |
-| Swift Rift Removers | 55.00% | ~12,571 |
-| Cultured | 53.00% | ~12,114 |
+| Meticulously Efficient | 64.00% | ~14,629 |
+| Discovery | 62.00% | ~14,172 |
+| Fully Upgraded | 55.00% | ~12,572 |
+| Swift Rift Removers | 55.00% | ~12,572 |
+| Cultured | 53.00% | ~12,115 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,886 |
 | Vaporous Expansion | 49.00% | ~11,200 |
-| Teamwork | 44.00% | ~10,057 |
-| There you are! | 44.00% | ~10,057 |
-| Clutch Capture | 41.00% | ~9,371 |
+| Teamwork | 44.00% | ~10,058 |
+| There you are! | 44.00% | ~10,058 |
+| Clutch Capture | 41.00% | ~9,372 |
 | Back Off | 36.00% | ~8,229 |
 | Daily Dose | 35.00% | ~8,000 |
 | Welcome to the Crew | 33.00% | ~7,543 |
-| Solo Capture | 32.00% | ~7,314 |
+| Solo Capture | 32.00% | ~7,315 |
 | Ghostbuster In Training | 31.00% | ~7,086 |
 | Icing on the Cake | 30.00% | ~6,857 |
 | Side Hustle | 28.00% | ~6,400 |
-| We have the best insurance | 27.00% | ~6,171 |
-| Legions | 27.00% | ~6,171 |
-| Stunner | 27.00% | ~6,171 |
-| Summoner | 27.00% | ~6,171 |
+| We have the best insurance | 27.00% | ~6,172 |
+| Legions | 27.00% | ~6,172 |
+| Right back at ya | 27.00% | ~6,172 |
+| Stunner | 27.00% | ~6,172 |
+| Summoner | 27.00% | ~6,172 |
 | Pesky Jerks | 26.00% | ~5,943 |
-| Right back at ya | 26.00% | ~5,943 |
 | Animated | 25.00% | ~5,714 |
 | Skilled | 25.00% | ~5,714 |
 | Collector | 24.00% | ~5,486 |
 | Ectoplasmic Entity | 24.00% | ~5,486 |
-| Rift Destroyer | 20.00% | ~4,571 |
+| Rift Destroyer | 20.00% | ~4,572 |
 | Tobin's Prodigy | 19.00% | ~4,343 |
 | Reckless | 18.00% | ~4,114 |
 | Terrifying | 18.00% | ~4,114 |
@@ -57,8 +57,8 @@ Rating: 4.49 (Ranked 565)
 | I don't need these | 1.00% | ~229 |
 | Mycophile | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,857 (Ranked 93)  
-Completed: 40 (0.18%) (Ranked 148)  
+Progressed: 22,858 (Ranked 93)  
+Completed: 40 (0.17%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,16 +107,16 @@ Completed: 40 (0.18%) (Ranked 148)
 | 2023-06-06 | 22,732 | 40 |
 | 2023-06-07 | 22,765 | 40 |
 | 2023-06-08 | 22,810 | 40 |
-| 2023-06-09 | 22,857 | 40 |
+| 2023-06-09 | 22,858 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 235  (Ranked 246)  
-Sum: 2,107 (Ranked 182)  
+Sum: 2,109 (Ranked 182)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 235 |
 | This game is Great for Beginners | 223 |
-| This game has Competitive Players | 216 |
+| This game has Competitive Players | 218 |
 | This game has Diverse Characters | 212 |
 | This game has Amazing Storytelling | 211 |
 | This game is Extremely Fun | 208 |
@@ -212,4 +212,4 @@ Diff (max vs sum): 64
 | 2023-06-06 | 4.49 | 235 | 2,101 |
 | 2023-06-07 | 4.49 | 235 | 2,105 |
 | 2023-06-08 | 4.49 | 235 | 2,106 |
-| 2023-06-09 | 4.49 | 235 | 2,107 |
+| 2023-06-09 | 4.49 | 235 | 2,109 |

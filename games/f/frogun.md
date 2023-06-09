@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Historian | 94.00% | ~187 |
-| Treasure hunter | 91.00% | ~181 |
-| Survivalist | 82.00% | ~163 |
-| Challenge seeker | 78.00% | ~155 |
-| Coin collector | 73.00% | ~145 |
-| Floater | 58.00% | ~115 |
+| Historian | 94.00% | ~188 |
+| Treasure hunter | 91.00% | ~182 |
+| Survivalist | 82.00% | ~164 |
+| Challenge seeker | 78.00% | ~156 |
+| Coin collector | 73.00% | ~146 |
+| Floater | 57.00% | ~114 |
 | Speedrunner | 44.00% | ~88 |
 | On foot racer | 40.00% | ~80 |
 | Prickly situation handler | 34.00% | ~68 |
@@ -19,8 +19,8 @@
 | Pragmatic | 24.00% | ~48 |
 | Calory burner | 17.00% | ~34 |
 | Pacifist | 15.00% | ~30 |
-| Model | 15.00% | ~30 |
 | Snow digger | 14.00% | ~28 |
+| Model | 14.00% | ~28 |
 | Fire extinguisher | 11.00% | ~22 |
 | Hubworld fan | 11.00% | ~22 |
 | Occult cataloger | 8.00% | ~16 |
@@ -36,8 +36,8 @@
 | Art lover | 2.00% | ~4 |
 | Completionist | 2.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199 (Ranked 248)  
-Completed: 3 (1.51%) (Ranked 77)  
+Progressed: 200 (Ranked 248)  
+Completed: 3 (1.50%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -48,6 +48,7 @@ Completed: 3 (1.51%) (Ranked 77)
 | 2023-05-30 | 197 | 3 |
 | 2023-06-01 | 198 | 3 |
 | 2023-06-04 | 199 | 3 |
+| 2023-06-09 | 200 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

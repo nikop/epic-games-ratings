@@ -16,19 +16,19 @@
 | The Traitor | 14.00% | ~59 |
 | The Spider | 13.00% | ~55 |
 | Good as Fish | 8.00% | ~34 |
+| Murderer | 8.00% | ~34 |
 | He's so Annoying | 7.00% | ~29 |
 | Her Eyes | 7.00% | ~29 |
-| Murderer | 7.00% | ~29 |
 | Trigger-Happy | 6.00% | ~25 |
+| The Friend | 5.00% | ~21 |
 | Gollum/Sméagol | 5.00% | ~21 |
-| The Friend | 4.00% | ~17 |
 | So Silly! | 4.00% | ~17 |
 | Made a Song | 4.00% | ~17 |
 | Master of the Old Game | 3.00% | ~13 |
 | So Tasty! | 3.00% | ~13 |
 | Break a Leg! | 2.00% | ~8 |
+| And now we wish... | 2.00% | ~8 |
 | Sweet Darkness | 2.00% | ~8 |
-| And now we wish... | 1.00% | ~4 |
 | Nervous Hands | 1.00% | ~4 |
 | Ss ss ss... | 1.00% | ~4 |
 | Collectibles Part 2 | 0.50% | ~2 |
