@@ -842,7 +842,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7736,
+  "EOS_Progressed": 7738,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
@@ -2632,6 +2632,11 @@
       "Time": "2023-06-10T18:05:28.8190628+00:00",
       "NumProgressed": 7736,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-10T19:06:38.5787149+00:00",
+      "NumProgressed": 7738,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2667,7 +2672,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4796
+      "UsersEstimate": 4798
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2683,7 +2688,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "FakeGoddessGone",
@@ -2691,7 +2696,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -2699,7 +2704,7 @@
       "Name": "Deadly Power",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -2723,7 +2728,7 @@
       "Name": "Go Home...",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "HeroSlayer",
@@ -2739,7 +2744,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "LeoniasFall_2",
@@ -2755,7 +2760,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "RookieWelcome",
@@ -2763,7 +2768,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "SavedElderEnt",
@@ -2771,7 +2776,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4796
+      "UsersEstimate": 4798
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2779,7 +2784,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2553
+      "UsersEstimate": 2554
     },
     {
       "ID": "SkeletonKing",
@@ -2795,7 +2800,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2553
+      "UsersEstimate": 2554
     },
     {
       "ID": "TheLegendBegins",
@@ -2803,7 +2808,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7194
+      "UsersEstimate": 7196
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2811,7 +2816,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3636
+      "UsersEstimate": 3637
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -2827,22 +2832,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6421
+      "UsersEstimate": 6423
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7736,
+      "Progressed": 7738,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
-  "LastChanged_Achievements": "2023-06-10T18:05:28.8190623+00:00",
+  "LastChanged_Achievements": "2023-06-10T19:06:38.5787143+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.8794336+00:00",
-  "LastUpdate_Ratings": "2023-06-10T17:58:53.7461186+00:00",
-  "LastUpdate_Achievements": "2023-06-10T18:05:28.8190895+00:00"
+  "LastUpdate_Ratings": "2023-06-10T18:59:30.8751355+00:00",
+  "LastUpdate_Achievements": "2023-06-10T19:06:38.5787464+00:00"
 }

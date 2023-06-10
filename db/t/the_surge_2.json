@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1746,
+  "EOS_Progressed": 1747,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1150,6 +1150,11 @@
       "Time": "2023-06-10T14:07:02.0363909+00:00",
       "NumProgressed": 1746,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-10T19:07:11.2575131+00:00",
+      "NumProgressed": 1747,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1169,7 +1174,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACHV_03",
@@ -1287,9 +1292,9 @@
       "ID": "ACHV_17",
       "SetID": "8p5mlmc",
       "Name": "Following In Their Footsteps",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHV_18",
@@ -1361,7 +1366,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ACHV_27",
@@ -1465,7 +1470,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "ACHV_40",
@@ -1481,7 +1486,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "ACHV_42",
@@ -1616,7 +1621,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1746,
+      "Progressed": 1747,
       "Completed": 10
     }
   ],
@@ -1624,8 +1629,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-10T18:05:54.7333674+00:00",
+  "LastChanged_Achievements": "2023-06-10T19:07:11.2575126+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:00.1441118+00:00",
-  "LastUpdate_Ratings": "2023-06-10T18:00:12.3323754+00:00",
-  "LastUpdate_Achievements": "2023-06-10T18:05:54.7334235+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:01:22.5938208+00:00",
+  "LastUpdate_Achievements": "2023-06-10T19:07:11.2575913+00:00"
 }

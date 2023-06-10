@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 70.00% | ~28 |
-| Gear Up | 65.00% | ~26 |
-| A Grand Show | 65.00% | ~26 |
-| Freshen Up | 57.00% | ~23 |
-| GG EZ | 53.00% | ~21 |
+| Iceberg Theory | 73.00% | ~29 |
+| Gear Up | 68.00% | ~27 |
+| A Grand Show | 68.00% | ~27 |
+| Freshen Up | 60.00% | ~24 |
+| GG EZ | 55.00% | ~22 |
 | Hydrophobia | 33.00% | ~13 |
 | Stop Right There | 28.00% | ~11 |
 | Ka-Ching! | 25.00% | ~10 |

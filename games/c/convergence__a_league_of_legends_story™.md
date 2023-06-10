@@ -15,26 +15,26 @@
 | The Man Who Shattered Time | 5.00% | ~33 |
 | Rail Rat | 5.00% | ~33 |
 | Time Flies | 5.00% | ~33 |
+| The Harder They Fall | 5.00% | ~33 |
 | No, Thanks! | 5.00% | ~33 |
 | Breaking Down Barriers | 5.00% | ~33 |
 | The Wicked Twins | 5.00% | ~33 |
 | The Prince in Heels | 5.00% | ~33 |
 | Golem Chaser | 5.00% | ~33 |
 | Immaculate Aim | 5.00% | ~33 |
+| The Brass Boss | 5.00% | ~33 |
 | Chaincrawler Explorer | 4.00% | ~26 |
 | Like Clockwork | 4.00% | ~26 |
 | Street Style | 4.00% | ~26 |
 | Family Memories | 4.00% | ~26 |
 | The Loose Cannon | 4.00% | ~26 |
-| The Harder They Fall | 4.00% | ~26 |
+| Honest Mistake | 4.00% | ~26 |
 | Fast Learner | 4.00% | ~26 |
 | Sump Explorer | 4.00% | ~26 |
 | Check Your Pulse | 4.00% | ~26 |
-| The Brass Boss | 4.00% | ~26 |
 | The Family Fortune | 4.00% | ~26 |
 | Right On Time | 3.00% | ~20 |
 | Whiz Kid | 3.00% | ~20 |
-| Honest Mistake | 3.00% | ~20 |
 | Syron for Hope | 3.00% | ~20 |
 | Theater Explorer | 3.00% | ~20 |
 | Ask Questions Later | 3.00% | ~20 |
@@ -49,9 +49,9 @@
 | Rungs Was Right | 2.00% | ~13 |
 | Clovemary for Remembering | 1.00% | ~7 |
 | Hexlock for Protection | 0.80% | ~5 |
-| Fitting In | 0.60% | ~4 |
+| Fitting In | 0.80% | ~5 |
+| Thinking Two Steps Ahead | 0.30% | ~2 |
 | Wunderkind | 0.30% | ~2 |
-| Thinking Two Steps Ahead | 0.20% | ~1 |
 | Wildlife Protection | 0.20% | ~1 |
 | A Lesson in Precision | 0.20% | ~1 |
 | Going to Live Forever | 0.00% | ~0 |

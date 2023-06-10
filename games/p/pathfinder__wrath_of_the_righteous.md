@@ -45,9 +45,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 1.00% | ~97 |
 | Truly Important Deed | 1.00% | ~97 |
 | Abyssal Conspiracy | 0.90% | ~88 |
-| The Final Threshold | 0.80% | ~78 |
 | This Wall Won't Fall | 0.80% | ~68 |
 | Not the Last Sarkorian | 0.80% | ~68 |
+| The Final Threshold | 0.70% | ~68 |
 | Strategic Victory | 0.70% | ~68 |
 | End of Eternal Guard | 0.70% | ~68 |
 | Path of the Dragon | 0.60% | ~58 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,733 (Ranked 112)  
+Progressed: 9,734 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 9,619 | 0 |
 | 2023-06-08 | 9,650 | 0 |
 | 2023-06-09 | 9,691 | 0 |
-| 2023-06-10 | 9,733 | 0 |
+| 2023-06-10 | 9,734 | 0 |
 ## Awards
 Max (Character Customization): 1,658  (Ranked 111)  
 Sum: 6,727 (Ranked 109)  

@@ -309,9 +309,9 @@
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 83,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -333,9 +333,9 @@
       "ID": "CLG_RUN_LEVELUP_1",
       "SetID": "89cjc9l",
       "Name": "Level Up!",
-      "Percentage": 87,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -509,9 +509,9 @@
       "ID": "PRG_BOSS_NINJA",
       "SetID": "89cjc9l",
       "Name": "The Ninja",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "PRG_BOSS_OOZE",
@@ -557,9 +557,9 @@
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -861,9 +861,9 @@
       "ID": "PRG_SP_arcadeFTUX",
       "SetID": "89cjc9l",
       "Name": "Graduation!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
@@ -878,8 +878,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-10T18:05:56.5982471+00:00",
+  "LastChanged_Achievements": "2023-06-10T19:07:13.14056+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:34.9526626+00:00",
-  "LastUpdate_Ratings": "2023-06-10T17:57:37.5789504+00:00",
-  "LastUpdate_Achievements": "2023-06-10T18:05:56.5983223+00:00"
+  "LastUpdate_Ratings": "2023-06-10T18:57:41.9107442+00:00",
+  "LastUpdate_Achievements": "2023-06-10T19:07:13.1406402+00:00"
 }

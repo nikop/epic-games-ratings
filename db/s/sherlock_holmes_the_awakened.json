@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1293,9 +1293,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 224
+      "UsersEstimate": 228
     },
     {
       "ID": "MQ03_1",
@@ -1309,9 +1309,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 186
     },
     {
       "ID": "MQ03_3",
@@ -1333,9 +1333,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 199
+      "UsersEstimate": 203
     },
     {
       "ID": "MQ04_1",
@@ -1357,9 +1357,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 186
     },
     {
       "ID": "MQ05_1",
@@ -1445,9 +1445,9 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 127
     },
     {
       "ID": "MQ08_2",
@@ -1461,9 +1461,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 152
     },
     {
       "ID": "PLTN",
@@ -1486,8 +1486,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-10T18:04:00.685509+00:00",
+  "LastChanged_Achievements": "2023-06-10T19:04:35.5074273+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-10T17:57:27.683472+00:00",
-  "LastUpdate_Achievements": "2023-06-10T18:04:00.6855343+00:00"
+  "LastUpdate_Ratings": "2023-06-10T18:57:27.0145823+00:00",
+  "LastUpdate_Achievements": "2023-06-10T19:04:35.5074581+00:00"
 }

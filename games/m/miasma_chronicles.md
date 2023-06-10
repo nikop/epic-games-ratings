@@ -26,8 +26,8 @@ Rating: 4.30 (Ranked 764)
 | Ganglord | 23.00% | ~250 |
 | Jarhead | 23.00% | ~250 |
 | Infiltrator | 22.00% | ~239 |
-| Pushing Daisy | 21.00% | ~228 |
-| Chain Killer | 19.00% | ~207 |
+| Pushing Daisy | 22.00% | ~239 |
+| Chain Killer | 20.00% | ~217 |
 | Experienced | 19.00% | ~207 |
 | There Can Be Only One! | 19.00% | ~207 |
 | Hold The Line | 18.00% | ~196 |

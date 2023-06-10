@@ -7,7 +7,7 @@ Number of Ratings: 87  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Dealmaker | 9.00% | ~66 |
-| Full garage | 8.00% | ~58 |
+| Full garage | 8.00% | ~59 |
 | Individual delivery | 7.00% | ~51 |
 | To the eyeballs! | 7.00% | ~51 |
 | Juggler | 6.00% | ~44 |
@@ -17,12 +17,12 @@ Number of Ratings: 87  (23.09.2022)
 | Mega-railroad | 5.00% | ~37 |
 | Non-Stop | 5.00% | ~37 |
 | Builder | 4.00% | ~29 |
+| Critical care | 4.00% | ~29 |
 | Get out my way | 4.00% | ~29 |
 | Just in time! | 4.00% | ~29 |
 | Need to think | 4.00% | ~29 |
 | Upgrade complete | 4.00% | ~29 |
 | Bridgemania | 3.00% | ~22 |
-| Critical care | 3.00% | ~22 |
 | Miner | 3.00% | ~2 |
 | Multilevel road | 3.00% | ~22 |
 | One way | 3.00% | ~22 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731 (Ranked 188)  
+Progressed: 732 (Ranked 188)  
 Completed: 1 (0.14%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 1 (0.14%) (Ranked 157)
 | 2023-06-06 | 727 | 1 |
 | 2023-06-08 | 729 | 1 |
 | 2023-06-09 | 731 | 1 |
+| 2023-06-10 | 732 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 361)  
 Sum: 72 (Ranked 420)  

@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,914 |
-| Rookie | 25.00% | ~6,402 |
-| Nomad | 19.00% | ~4,865 |
-| Picking Up Speed | 17.00% | ~4,353 |
-| Welcome Maya | 16.00% | ~4,097 |
+| Finding Your Footing | 27.00% | ~6,915 |
+| Rookie | 25.00% | ~6,403 |
+| Nomad | 19.00% | ~4,866 |
+| Picking Up Speed | 17.00% | ~4,354 |
+| Welcome Maya | 16.00% | ~4,098 |
 | Sightseer | 12.00% | ~3,073 |
 | Scout | 10.00% | ~2,561 |
 | Amateur | 9.00% | ~2,305 |
 | Wanderer | 9.00% | ~2,305 |
-| Enter Paz | 8.00% | ~2,048 |
-| Unlock Maya | 7.00% | ~1,792 |
-| Aviator | 6.00% | ~1,536 |
-| One With The Board | 6.00% | ~1,536 |
-| My Little Friend | 5.00% | ~1,280 |
-| Voyager | 5.00% | ~1,280 |
+| Enter Paz | 8.00% | ~2,049 |
+| Unlock Maya | 7.00% | ~1,793 |
+| Aviator | 6.00% | ~1,537 |
+| One With The Board | 6.00% | ~1,537 |
+| My Little Friend | 5.00% | ~1,281 |
+| Voyager | 5.00% | ~1,281 |
 | Sandboarder | 4.00% | ~1,024 |
 | Izel Has Arrived | 4.00% | ~1,024 |
 | Junkie | 3.00% | ~768 |
@@ -35,7 +35,7 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Izel | 1.00% | ~256 |
 | Introducing Sumara | 1.00% | ~256 |
 | Vandal | 1.00% | ~256 |
-| Daredevil | 0.90% | ~230 |
+| Daredevil | 0.90% | ~231 |
 | Unlock Felipe | 0.70% | ~179 |
 | Adventurer | 0.60% | ~154 |
 | Unlock Tupa | 0.40% | ~102 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~26 |
 | Windswept | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,606 (Ranked 91)  
+Progressed: 25,612 (Ranked 91)  
 Completed: 4 (0.02%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 4 (0.02%) (Ranked 196)
 | 2023-06-07 | 25,112 | 3 |
 | 2023-06-08 | 25,276 | 3 |
 | 2023-06-09 | 25,466 | 4 |
-| 2023-06-10 | 25,606 | 4 |
+| 2023-06-10 | 25,612 | 4 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 408)  
 Sum: 346 (Ranked 319)  

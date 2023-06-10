@@ -29,10 +29,10 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 38.00% | ~22 |
 | Gargantua | 36.00% | ~21 |
 | The demons' feast | 34.00% | ~20 |
+| The Statuette of Gladeulfeurah | 34.00% | ~20 |
+| A tale of adventurers not quite like the others... | 34.00% | ~20 |
 | Torture and Sensibility | 33.00% | ~19 |
-| The Statuette of Gladeulfeurah | 33.00% | ~19 |
-| A tale of adventurers not quite like the others... | 33.00% | ~19 |
-| The Famous Dungeon of Naheulbeuk | 29.00% | ~17 |
+| The Famous Dungeon of Naheulbeuk | 31.00% | ~18 |
 | Cursed die | 28.00% | ~16 |
 | The Great Library | 28.00% | ~16 |
 | The beards of change | 26.00% | ~15 |
@@ -69,6 +69,7 @@ Number of Ratings: 118  (23.09.2022)
 | A broken clock… | 3.00% | ~2 |
 | Gloomy Dungeon | 3.00% | ~2 |
 | Living legends of the Lands of Fangh | 3.00% | ~2 |
+| Kudos from your DM | 3.00% | ~2 |
 | Star-crossed lovers | 3.00% | ~2 |
 | Pyrrhic victory | 3.00% | ~2 |
 | Death is for wimps | 3.00% | ~2 |
@@ -76,7 +77,6 @@ Number of Ratings: 118  (23.09.2022)
 | Imposture and Trowels | 2.00% | ~1 |
 | Cute Dungeon | 2.00% | ~1 |
 | Mystical Dungeon | 2.00% | ~1 |
-| Kudos from your DM | 2.00% | ~1 |
 | Iron Golems Tamer | 2.00% | ~1 |
 | And they lived happily ever after... | 2.00% | ~1 |
 | 100% satisfaction guarantee | 2.00% | ~1 |

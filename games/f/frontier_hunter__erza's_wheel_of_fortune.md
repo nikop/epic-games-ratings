@@ -16,6 +16,7 @@
 | Apostle of Flame | 75.00% | ~9 |
 | Giant Lizard Killer | 67.00% | ~8 |
 | Beginner Cook | 67.00% | ~8 |
+| Weapon Boost | 67.00% | ~8 |
 | Seal Breaker | 67.00% | ~8 |
 | Handyman | 67.00% | ~8 |
 | Guardian | 58.00% | ~7 |
@@ -28,7 +29,6 @@
 | Mermaid Killer | 58.00% | ~7 |
 | Face Slapper | 58.00% | ~7 |
 | Trader | 58.00% | ~7 |
-| Weapon Boost | 58.00% | ~7 |
 | Flying Kobold Killer | 50.00% | ~6 |
 | Cave Master | 50.00% | ~6 |
 | Master Artificer | 42.00% | ~5 |
@@ -36,6 +36,7 @@
 | Berserker Slayer | 25.00% | ~3 |
 | Boss challenge | 17.00% | ~2 |
 | Giantess Slayer | 8.00% | ~1 |
+| Warden Slayer | 8.00% | ~1 |
 | Rebellious | 0.00% | ~0 |
 | Blade Mantis Challenge | 0.00% | ~0 |
 | Big Face Goalkeeper Challenge | 0.00% | ~0 |
@@ -45,7 +46,6 @@
 | Silver Moon Wolf King Challenge | 0.00% | ~0 |
 | Giant Lizard Challenge | 0.00% | ~0 |
 | Mermaid Challenge | 0.00% | ~0 |
-| Warden Slayer | 0.00% | ~0 |
 | Berserker Challenge | 0.00% | ~0 |
 | Giantess Challenge | 0.00% | ~0 |
 | Warden Challenge | 0.00% | ~0 |

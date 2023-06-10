@@ -6,7 +6,7 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~508 |
+| Cabin boy | 81.00% | ~514 |
 | My little farm | 64.00% | ~406 |
 | Every beginning is difficult | 62.00% | ~394 |
 | Gofer | 55.00% | ~349 |
@@ -22,7 +22,7 @@ Number of Ratings: 53  (23.09.2022)
 | Collectionitis | 28.00% | ~178 |
 | Megalomania | 28.00% | ~178 |
 | Christening | 26.00% | ~165 |
-| Groundskeeper | 24.00% | ~152 |
+| Groundskeeper | 25.00% | ~159 |
 | Wholesale | 21.00% | ~133 |
 | Walk the plank | 20.00% | ~127 |
 | My precious! | 17.00% | ~108 |

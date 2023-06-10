@@ -5,20 +5,20 @@ Rating: 4.59 (Ranked 407)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,116 |
-| Pay 'n' Spray | 48.00% | ~4,870 |
-| All Dressed Up for San Fierro | 23.00% | ~2,333 |
-| The American Dream | 17.00% | ~1,725 |
-| School's Out | 16.00% | ~1,623 |
+| Getting Started | 80.00% | ~8,120 |
+| Pay 'n' Spray | 48.00% | ~4,872 |
+| All Dressed Up for San Fierro | 23.00% | ~2,334 |
+| The American Dream | 17.00% | ~1,726 |
+| School's Out | 16.00% | ~1,624 |
 | Smooth Moves | 15.00% | ~1,522 |
-| Today Was a Good Day | 13.00% | ~1,319 |
-| What happens in Las Venturas... | 12.00% | ~1,217 |
-| Horror of the Santa Maria | 9.00% | ~913 |
-| Liberty City State of Mind | 7.00% | ~710 |
+| Today Was a Good Day | 13.00% | ~1,320 |
+| What happens in Las Venturas... | 12.00% | ~1,218 |
+| Horror of the Santa Maria | 9.00% | ~914 |
+| Liberty City State of Mind | 7.00% | ~711 |
 | With Extra Dip | 6.00% | ~609 |
 | The End of the Line | 6.00% | ~609 |
 | Original Gangster | 6.00% | ~609 |
-| Saviour | 5.00% | ~507 |
+| Saviour | 5.00% | ~508 |
 | Rescue a Kitten Too? | 4.00% | ~406 |
 | They Can’t Stop All of Us | 3.00% | ~304 |
 | What are the Odds | 3.00% | ~304 |
@@ -28,11 +28,11 @@ Rating: 4.59 (Ranked 407)
 | Yes I Speak English | 2.00% | ~203 |
 | Double or Nothin' | 2.00% | ~203 |
 | Public Enemy No. 1 | 2.00% | ~203 |
-| A Legitimate Business | 1.00% | ~101 |
-| Who Needs Directions? | 1.00% | ~101 |
-| Swiss Army Strife | 1.00% | ~101 |
-| Assassin | 1.00% | ~101 |
-| Ain’t Nothing But a G Thing | 1.00% | ~101 |
+| A Legitimate Business | 1.00% | ~102 |
+| Who Needs Directions? | 1.00% | ~102 |
+| Swiss Army Strife | 1.00% | ~102 |
+| Assassin | 1.00% | ~102 |
+| Ain’t Nothing But a G Thing | 1.00% | ~102 |
 | Chick Magnet | 0.90% | ~91 |
 | Lucky Spinner | 0.80% | ~81 |
 | Hoopin' it Up | 0.70% | ~71 |
@@ -41,7 +41,7 @@ Rating: 4.59 (Ranked 407)
 | ...Here we go again | 0.20% | ~20 |
 | I Ain't No Buster | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,145 (Ranked 110)  
+Progressed: 10,150 (Ranked 110)  
 Completed: 17 (0.17%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 17 (0.17%) (Ranked 150)
 | 2023-06-07 | 9,840 | 17 |
 | 2023-06-08 | 9,960 | 17 |
 | 2023-06-09 | 10,052 | 17 |
-| 2023-06-10 | 10,145 | 17 |
+| 2023-06-10 | 10,150 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

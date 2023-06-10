@@ -8,8 +8,8 @@
 | Elevator Pitch | 82.00% | ~32 |
 | Rock Bottom | 64.00% | ~25 |
 | Beam me up | 62.00% | ~24 |
-| The end is nigh! | 23.00% | ~9 |
-| Get Together | 23.00% | ~9 |
+| The end is nigh! | 28.00% | ~11 |
+| Get Together | 28.00% | ~11 |
 | Uncaged | 13.00% | ~5 |
 | Wait for me! | 5.00% | ~2 |
 | The best of both worlds | 0.00% | ~0 |

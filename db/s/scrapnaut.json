@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -570,6 +570,11 @@
       "Time": "2023-06-10T17:05:45.4788776+00:00",
       "NumProgressed": 254,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T19:06:39.1105772+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -661,7 +666,7 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -677,7 +682,7 @@
       "Name": "Cook",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -691,9 +696,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -707,9 +712,9 @@
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -717,7 +722,7 @@
       "Name": "My New Home",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_KILL_100",
@@ -725,7 +730,7 @@
       "Name": "Robot Hunter",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_KILL_20",
@@ -733,7 +738,7 @@
       "Name": "Scrapper",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_KILL_50",
@@ -757,7 +762,7 @@
       "Name": "Fuel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_METEORITE_SMELTER",
@@ -803,9 +808,9 @@
       "ID": "ACH_SURVIVE_20_DAYS",
       "SetID": "7c4cldc",
       "Name": "Advanced Survivalist",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -828,7 +833,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 0
     }
   ],
@@ -836,8 +841,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-10T18:05:29.2623133+00:00",
+  "LastChanged_Achievements": "2023-06-10T19:06:39.1105764+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.5979411+00:00",
-  "LastUpdate_Ratings": "2023-06-10T17:58:28.1808163+00:00",
-  "LastUpdate_Achievements": "2023-06-10T18:05:29.2623331+00:00"
+  "LastUpdate_Ratings": "2023-06-10T18:58:55.4719023+00:00",
+  "LastUpdate_Achievements": "2023-06-10T19:06:39.1106044+00:00"
 }

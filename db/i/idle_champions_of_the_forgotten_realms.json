@@ -4216,9 +4216,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90348,
+  "EOS_Progressed": 90353,
   "EOS_Completed": 1926,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 701,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9446,6 +9446,11 @@
       "Time": "2023-06-10T18:06:00.2482134+00:00",
       "NumProgressed": 90348,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-06-10T19:07:17.2460404+00:00",
+      "NumProgressed": 90353,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 493,
@@ -9825,7 +9830,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "objective_completed_110",
@@ -10087,9 +10092,9 @@
       "ID": "objective_completed_1153",
       "SetID": "415jc5c",
       "Name": "Speeds of Destruction",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_1154",
@@ -10097,7 +10102,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "objective_completed_1158",
@@ -10129,7 +10134,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "objective_completed_1163",
@@ -11129,7 +11134,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "objective_completed_34",
@@ -12231,9 +12236,9 @@
       "ID": "objective_completed_631",
       "SetID": "415jc5c",
       "Name": "A Difficult Descent",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_632",
@@ -12601,7 +12606,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "objective_completed_70",
@@ -12911,9 +12916,9 @@
       "ID": "objective_completed_843",
       "SetID": "415jc5c",
       "Name": "The Madness of Yeenoghu",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_844",
@@ -13400,21 +13405,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56622,
-      "Completed": 2782
+      "Progressed": 56627,
+      "Completed": 2783
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90348,
+      "Progressed": 90353,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-10T16:58:16.081853+00:00",
-  "LastChanged_Achievements": "2023-06-10T18:06:00.248213+00:00",
+  "LastChanged_Achievements": "2023-06-10T19:07:17.2460398+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-10T17:58:07.4542274+00:00",
-  "LastUpdate_Achievements": "2023-06-10T18:06:00.2505504+00:00"
+  "LastUpdate_Ratings": "2023-06-10T18:58:24.7806482+00:00",
+  "LastUpdate_Achievements": "2023-06-10T19:07:17.2510136+00:00"
 }

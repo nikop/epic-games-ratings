@@ -277,9 +277,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "7pimpda",
       "Name": "Weapon Boost",
-      "Percentage": 58,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -381,9 +381,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "7pimpda",
       "Name": "Warden Slayer",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -462,8 +462,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-06-10T18:05:32.8390867+00:00",
+  "LastChanged_Achievements": "2023-06-10T19:06:43.8920794+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:08.1623296+00:00",
-  "LastUpdate_Ratings": "2023-06-10T17:59:32.0518981+00:00",
-  "LastUpdate_Achievements": "2023-06-10T18:05:32.8391246+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:00:26.7983705+00:00",
+  "LastUpdate_Achievements": "2023-06-10T19:06:43.8921213+00:00"
 }

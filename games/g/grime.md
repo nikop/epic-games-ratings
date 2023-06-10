@@ -19,8 +19,8 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 12.00% | ~70 |
 | Sharpened Vessel | 12.00% | ~70 |
 | Jawcrab | 11.00% | ~64 |
+| Feast | 11.00% | ~64 |
 | Host | 10.00% | ~16 |
-| Feast | 10.00% | ~58 |
 | Shapely | 9.00% | ~52 |
 | Jawstag | 9.00% | ~52 |
 | Celebration | 8.00% | ~47 |

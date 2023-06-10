@@ -1614,9 +1614,9 @@
       "ID": "CHAIN_KILLER",
       "SetID": "9a4jnji",
       "Name": "Chain Killer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 217
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1854,9 +1854,9 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 239
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -1983,8 +1983,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-09T20:58:10.48551+00:00",
-  "LastChanged_Achievements": "2023-06-10T18:02:02.6079897+00:00",
+  "LastChanged_Achievements": "2023-06-10T19:02:19.870701+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-10T17:58:19.4948706+00:00",
-  "LastUpdate_Achievements": "2023-06-10T18:02:02.6080412+00:00"
+  "LastUpdate_Ratings": "2023-06-10T18:58:42.5697538+00:00",
+  "LastUpdate_Achievements": "2023-06-10T19:02:19.8707556+00:00"
 }

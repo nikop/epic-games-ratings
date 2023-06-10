@@ -5,60 +5,60 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~739 |
-| Confirming Suspicions | 24.00% | ~612 |
-| The Kraken Wakes | 19.00% | ~484 |
-| It's Starting to Crack | 17.00% | ~433 |
-| Lord of War | 14.00% | ~357 |
-| Change the Channel | 14.00% | ~357 |
-| Resourceful | 13.00% | ~331 |
-| Taking it back | 12.00% | ~306 |
-| Organ Grinder | 10.00% | ~255 |
-| As Quiet as a Mouse | 10.00% | ~255 |
-| Target America | 10.00% | ~255 |
-| The Kraken Sleeps | 9.00% | ~229 |
+| Meeting Resistance | 29.00% | ~741 |
+| Confirming Suspicions | 23.00% | ~588 |
+| The Kraken Wakes | 19.00% | ~486 |
+| It's Starting to Crack | 17.00% | ~435 |
+| Lord of War | 14.00% | ~358 |
+| Change the Channel | 14.00% | ~358 |
+| Resourceful | 13.00% | ~332 |
+| Taking it back | 12.00% | ~307 |
+| Organ Grinder | 10.00% | ~256 |
+| As Quiet as a Mouse | 10.00% | ~256 |
+| Target America | 10.00% | ~256 |
+| The Kraken Sleeps | 9.00% | ~230 |
 | Liberté | 8.00% | ~204 |
 | Enemy at the Gates | 8.00% | ~204 |
 | Just a Flesh Wound | 8.00% | ~204 |
 | Gunslinger | 8.00% | ~204 |
 | Sharpshooter | 8.00% | ~204 |
 | Explosive Efficiency | 8.00% | ~204 |
-| Opposing Force | 7.00% | ~178 |
+| Opposing Force | 7.00% | ~179 |
 | Die Nussknacker Sweet! | 6.00% | ~153 |
 | Der Geist | 6.00% | ~153 |
 | Close Quarters | 6.00% | ~153 |
 | Snake in the Grass | 6.00% | ~153 |
 | Brains of the Operation | 6.00% | ~153 |
-| Climbing the Ladder | 5.00% | ~127 |
-| No Stone Unturned | 5.00% | ~127 |
-| Fields of Glory | 5.00% | ~127 |
-| Skirmisher | 5.00% | ~127 |
-| Set Europe Ablaze | 5.00% | ~127 |
+| Climbing the Ladder | 5.00% | ~128 |
+| No Stone Unturned | 5.00% | ~128 |
+| Fields of Glory | 5.00% | ~128 |
+| Skirmisher | 5.00% | ~128 |
+| Set Europe Ablaze | 5.00% | ~128 |
 | Precision Is Key | 4.00% | ~102 |
-| Rigged to Blow | 3.00% | ~76 |
+| Rigged to Blow | 3.00% | ~77 |
 | The Long Game | 2.00% | ~51 |
 | My Little Friend | 2.00% | ~51 |
 | It'll Buff Right Out | 2.00% | ~51 |
-| Strategist | 1.00% | ~25 |
-| Tinkerer | 1.00% | ~25 |
-| Locomotion Commotion | 1.00% | ~25 |
-| Road Rage | 1.00% | ~25 |
-| Don't hold your breath | 1.00% | ~25 |
+| Strategist | 1.00% | ~26 |
+| Tinkerer | 1.00% | ~26 |
+| Locomotion Commotion | 1.00% | ~26 |
+| Road Rage | 1.00% | ~26 |
+| Don't hold your breath | 1.00% | ~26 |
 | Herr Today, Gone Tomorrow | 1.00% | ~25 |
 | Operation Foxley | 1.00% | ~25 |
-| Ghost of Falaise | 0.90% | ~22 |
+| Ghost of Falaise | 0.90% | ~23 |
 | Siegebreaker | 0.80% | ~20 |
 | Burn after reading | 0.70% | ~18 |
-| Last Resort | 0.70% | ~17 |
+| Last Resort | 0.70% | ~18 |
+| Souvenir hunter | 0.60% | ~15 |
 | From Paris with Love | 0.50% | ~13 |
-| Souvenir hunter | 0.50% | ~13 |
 | Up close and personal | 0.50% | ~13 |
 | Shoot for the Moon | 0.50% | ~13 |
-| If You Go Down To The Woods Today | 0.50% | ~12 |
-| Fight Another Day | 0.50% | ~12 |
+| If You Go Down To The Woods Today | 0.50% | ~13 |
+| Fight Another Day | 0.50% | ~13 |
 | Eagle Eyed | 0.40% | ~10 |
 | Can't Outrun A Bullet | 0.40% | ~10 |
-| Reich To The Point | 0.30% | ~7 |
+| Reich To The Point | 0.30% | ~8 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~5 |
 | Out of Scope | 0.20% | ~5 |
@@ -69,15 +69,15 @@ Rating: 4.51 (Ranked 528)
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
-| From Führer Away | 0.10% | ~2 |
-| Alpha | 0.10% | ~2 |
-| Das Familienjuwel | 0.10% | ~2 |
-| Operation Overlord | 0.10% | ~2 |
+| From Führer Away | 0.10% | ~3 |
+| Alpha | 0.10% | ~3 |
+| Das Familienjuwel | 0.10% | ~3 |
+| Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.00% | ~0 |
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,548 (Ranked 147)  
+Progressed: 2,556 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
-| 2023-06-10 | 2,548 | 2 |
+| 2023-06-10 | 2,556 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

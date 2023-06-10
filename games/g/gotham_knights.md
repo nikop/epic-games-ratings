@@ -5,22 +5,22 @@ Rating: 4.18 (Ranked 841)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 5.00% | ~3,221 |
+| First Step Into the Knight | 5.00% | ~3,222 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,933 |
 | Loose Ends | 3.00% | ~1,933 |
-| The Batman Family | 2.00% | ~1,288 |
-| Something in the Clay | 2.00% | ~1,288 |
-| The Show Mud Go On | 2.00% | ~1,288 |
-| To the Victor Go the Spoils | 2.00% | ~1,288 |
-| Quartzer Life Crisis | 2.00% | ~1,288 |
-| Snow Problem | 2.00% | ~1,288 |
-| Get ReQ'd | 2.00% | ~1,288 |
-| Working Hard or Harley Working? | 2.00% | ~1,288 |
-| Unstoppable Force | 2.00% | ~1,288 |
-| Knighthood | 2.00% | ~1,288 |
-| Whispered Words | 2.00% | ~1,288 |
-| Lock and Key | 2.00% | ~1,288 |
-| Bad Apples in Every Orchard | 2.00% | ~1,288 |
+| The Batman Family | 2.00% | ~1,289 |
+| Something in the Clay | 2.00% | ~1,289 |
+| The Show Mud Go On | 2.00% | ~1,289 |
+| To the Victor Go the Spoils | 2.00% | ~1,289 |
+| Quartzer Life Crisis | 2.00% | ~1,289 |
+| Snow Problem | 2.00% | ~1,289 |
+| Get ReQ'd | 2.00% | ~1,289 |
+| Working Hard or Harley Working? | 2.00% | ~1,289 |
+| Unstoppable Force | 2.00% | ~1,289 |
+| Knighthood | 2.00% | ~1,289 |
+| Whispered Words | 2.00% | ~1,289 |
+| Lock and Key | 2.00% | ~1,289 |
+| Bad Apples in Every Orchard | 2.00% | ~1,289 |
 | End of an Era | 1.00% | ~644 |
 | In Your Element | 1.00% | ~644 |
 | Protector of Gotham | 1.00% | ~644 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 841)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,421 (Ranked 71)  
+Progressed: 64,437 (Ranked 71)  
 Completed: 95 (0.15%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 95 (0.15%) (Ranked 156)
 | 2023-06-07 | 63,990 | 94 |
 | 2023-06-08 | 64,117 | 94 |
 | 2023-06-09 | 64,309 | 95 |
-| 2023-06-10 | 64,421 | 95 |
+| 2023-06-10 | 64,437 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,317  (Ranked 97)  
 Sum: 3,828 (Ranked 137)  

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 94.00% | ~290 |
-| Challenge Accepted | 78.00% | ~240 |
-| Terminated I | 78.00% | ~240 |
-| Nanonic I | 75.00% | ~231 |
-| Unlocked and Loaded | 71.00% | ~219 |
-| Terminated II | 59.00% | ~182 |
-| The City | 40.00% | ~123 |
-| Challenge Mastered | 34.00% | ~105 |
-| Terminated III | 34.00% | ~105 |
-| Rookie | 33.00% | ~102 |
-| Nanonic II | 30.00% | ~92 |
-| Supply Run | 19.00% | ~59 |
-| Nanonic III | 17.00% | ~52 |
-| Starship Docks | 15.00% | ~46 |
-| Cybernetic | 13.00% | ~40 |
-| Up Close And Personal | 13.00% | ~40 |
+| Augmented | 94.00% | ~294 |
+| Challenge Accepted | 78.00% | ~244 |
+| Terminated I | 78.00% | ~244 |
+| Nanonic I | 74.00% | ~232 |
+| Unlocked and Loaded | 71.00% | ~222 |
+| Terminated II | 58.00% | ~182 |
+| The City | 41.00% | ~128 |
+| Terminated III | 34.00% | ~106 |
+| Challenge Mastered | 33.00% | ~103 |
+| Rookie | 33.00% | ~103 |
+| Nanonic II | 29.00% | ~91 |
+| Supply Run | 18.00% | ~56 |
+| Nanonic III | 17.00% | ~53 |
+| Starship Docks | 14.00% | ~44 |
+| Cybernetic | 13.00% | ~41 |
+| Up Close And Personal | 13.00% | ~41 |
 | The Bigger They Are | 11.00% | ~34 |
 | Eden Heights | 9.00% | ~28 |
-| Outer Core | 6.00% | ~18 |
-| Inner Core | 4.00% | ~12 |
-| Trickshot | 4.00% | ~12 |
+| Outer Core | 6.00% | ~19 |
+| Inner Core | 4.00% | ~13 |
+| Trickshot | 4.00% | ~13 |
 | Fully Modded | 3.00% | ~9 |
 | Integration | 3.00% | ~9 |
 | Ripperdoc | 2.00% | ~6 |
@@ -33,7 +33,7 @@
 | Cyborg | 0.30% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 308 (Ranked 228)  
+Progressed: 313 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 185 | 0 |
 | 2023-06-08 | 231 | 0 |
 | 2023-06-09 | 281 | 0 |
-| 2023-06-10 | 308 | 0 |
+| 2023-06-10 | 313 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

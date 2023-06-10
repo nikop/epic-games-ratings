@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1091685,
+  "EOS_Progressed": 1092792,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 604226,
+  "EOS_NewPlayers": 595259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1196,6 +1196,11 @@
       "Time": "2023-06-10T18:02:06.4180121+00:00",
       "NumProgressed": 1091685,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T19:02:24.652455+00:00",
+      "NumProgressed": 1092792,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -1207,7 +1212,7 @@
       "Name": "Possess 1000 Props!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "100_corruption_kills",
@@ -1223,7 +1228,7 @@
       "Name": "Doppelganger Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "100_ghost_kills",
@@ -1231,7 +1236,7 @@
       "Name": "100 Kills as a Ghost!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "100_ghost_wins",
@@ -1239,7 +1244,7 @@
       "Name": "100 Ghost Wins!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "100_hero_prop_kills",
@@ -1247,7 +1252,7 @@
       "Name": "100 Kills as a Hero Prop!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "100_hunter_kills",
@@ -1255,7 +1260,7 @@
       "Name": "100 Kills as a Hunter!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "100_hunter_wins",
@@ -1263,7 +1268,7 @@
       "Name": "100 Hunter Wins!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "100_lamp_kills",
@@ -1295,7 +1300,7 @@
       "Name": "100 Headshots as A Prop!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "100_shoves",
@@ -1303,7 +1308,7 @@
       "Name": "Shover of Hunters",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "100_telekinesis_kills",
@@ -1319,7 +1324,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 120085
+      "UsersEstimate": 120207
     },
     {
       "ID": "10_ghost_wins",
@@ -1327,7 +1332,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 76418
+      "UsersEstimate": 76495
     },
     {
       "ID": "10_hero_prop_kills",
@@ -1335,7 +1340,7 @@
       "Name": "10 Kills as a Hero Prop!",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3275
+      "UsersEstimate": 3278
     },
     {
       "ID": "10_hunter_kills",
@@ -1343,7 +1348,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 163753
+      "UsersEstimate": 163919
     },
     {
       "ID": "10_hunter_wins",
@@ -1351,7 +1356,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 54584
+      "UsersEstimate": 54640
     },
     {
       "ID": "10_prop_headshots",
@@ -1359,7 +1364,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10917
+      "UsersEstimate": 10928
     },
     {
       "ID": "250_c4_kills",
@@ -1383,7 +1388,7 @@
       "Name": "Frostbite Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "250_ghostsmasher_kills",
@@ -1391,7 +1396,7 @@
       "Name": "Ghostsmasher Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "250_grenade_kills",
@@ -1415,7 +1420,7 @@
       "Name": "Project X Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "250_reaper_kills",
@@ -1431,7 +1436,7 @@
       "Name": "Salt Shotgun Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "250_sledgehammer_kills",
@@ -1447,7 +1452,7 @@
       "Name": "Spectral Cannon Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "250_taunts",
@@ -1455,7 +1460,7 @@
       "Name": "250 Taunts!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8733
+      "UsersEstimate": 8742
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -1463,7 +1468,7 @@
       "Name": "Unlock 25 Cosmetics!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "25_taunts_single_game",
@@ -1471,7 +1476,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 43667
+      "UsersEstimate": 43712
     },
     {
       "ID": "50_riot_shield_kills",
@@ -1479,7 +1484,7 @@
       "Name": "Riot Shield Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "5_aces",
@@ -1487,7 +1492,7 @@
       "Name": "Ace Master",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 6550
+      "UsersEstimate": 6557
     },
     {
       "ID": "ace",
@@ -1495,7 +1500,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 109168
+      "UsersEstimate": 109279
     },
     {
       "ID": "ghost_win",
@@ -1503,7 +1508,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 655011
+      "UsersEstimate": 655675
     },
     {
       "ID": "hunter_win",
@@ -1511,7 +1516,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 600427
+      "UsersEstimate": 601036
     },
     {
       "ID": "master_of_loadouts",
@@ -1527,7 +1532,7 @@
       "Name": "Unlock All Cosmetics!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "unlock_cosmetic",
@@ -1535,14 +1540,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 251088
+      "UsersEstimate": 251342
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1091685,
+      "Progressed": 1092792,
       "Completed": 0
     }
   ],
@@ -1550,8 +1555,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-06-10T11:57:00.0370533+00:00",
-  "LastChanged_Achievements": "2023-06-10T18:02:06.4180117+00:00",
+  "LastChanged_Achievements": "2023-06-10T19:02:24.6524545+00:00",
   "LastUpdate_AppInfo": "2023-06-08T16:56:55.0123269+00:00",
-  "LastUpdate_Ratings": "2023-06-10T17:57:11.8841051+00:00",
-  "LastUpdate_Achievements": "2023-06-10T18:02:06.4180514+00:00"
+  "LastUpdate_Ratings": "2023-06-10T18:57:04.6752194+00:00",
+  "LastUpdate_Achievements": "2023-06-10T19:02:24.6526165+00:00"
 }

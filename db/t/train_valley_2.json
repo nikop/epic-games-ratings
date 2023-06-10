@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -271,9 +271,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 731,
+  "EOS_Progressed": 732,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -456,6 +456,11 @@
       "Time": "2023-06-09T21:03:04.0245944+00:00",
       "NumProgressed": 731,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T19:03:53.0192582+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -585,9 +590,9 @@
       "ID": "AchievementCriticalCare",
       "SetID": "76o014g",
       "Name": "Critical care",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 29
     },
     {
       "ID": "AchievementDealmaker",
@@ -651,7 +656,7 @@
       "Name": "Full garage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -1066,21 +1071,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 731,
+      "Progressed": 732,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-10T08:57:46.2173648+00:00",
-  "LastChanged_Achievements": "2023-06-10T18:03:29.6120992+00:00",
+  "LastChanged_Achievements": "2023-06-10T19:03:53.0192576+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:37.4072923+00:00",
-  "LastUpdate_Ratings": "2023-06-10T17:57:39.3478108+00:00",
-  "LastUpdate_Achievements": "2023-06-10T18:03:29.6121791+00:00"
+  "LastUpdate_Ratings": "2023-06-10T18:57:44.524303+00:00",
+  "LastUpdate_Achievements": "2023-06-10T19:03:53.0193431+00:00"
 }

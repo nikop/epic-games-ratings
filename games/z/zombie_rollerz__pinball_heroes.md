@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 87.00% | ~86 |
-| Bullseye! | 83.00% | ~82 |
-| Graduation! | 80.00% | ~79 |
-| Villfir Forest | 76.00% | ~75 |
+| Level Up! | 89.00% | ~88 |
+| Bullseye! | 85.00% | ~84 |
+| Graduation! | 81.00% | ~80 |
+| Villfir Forest | 77.00% | ~76 |
 | Right in the kisser! | 62.00% | ~61 |
 | Duscot Steamcity | 51.00% | ~50 |
 | The Shaman | 49.00% | ~49 |
@@ -21,8 +21,8 @@
 | The Bird | 29.00% | ~29 |
 | Inferno Ruins | 27.00% | ~27 |
 | The Idol | 26.00% | ~26 |
+| The Ninja | 26.00% | ~26 |
 | Topped up | 25.00% | ~25 |
-| The Ninja | 25.00% | ~25 |
 | Untouchable | 23.00% | ~23 |
 | I'm Rich | 23.00% | ~23 |
 | The Slime | 21.00% | ~21 |
