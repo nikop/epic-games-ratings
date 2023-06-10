@@ -5,20 +5,20 @@ Rating: 4.65 (Ranked 295)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,287 |
-| Mainframe Hacker | 47.00% | ~3,149 |
-| The Spy who eliminated me | 47.00% | ~3,149 |
-| Tomorrow Never Dyes | 46.00% | ~3,082 |
-| Never Say Loser Again | 41.00% | ~2,747 |
-| For your Eyes only | 39.00% | ~2,613 |
-| From the Vault with Love | 37.00% | ~2,479 |
-| Tailor-Made | 37.00% | ~2,479 |
-| Fully Decked Out | 35.00% | ~2,345 |
-| You Only Live Twice | 32.00% | ~2,144 |
-| A view to Win | 28.00% | ~1,876 |
-| Smells Like Trouble | 26.00% | ~1,742 |
-| Private Collection | 25.00% | ~1,675 |
-| Hostile Takeover | 25.00% | ~1,675 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,289 |
+| Mainframe Hacker | 47.00% | ~3,150 |
+| Tomorrow Never Dyes | 47.00% | ~3,150 |
+| The Spy who eliminated me | 47.00% | ~3,150 |
+| Never Say Loser Again | 41.00% | ~2,748 |
+| For your Eyes only | 39.00% | ~2,614 |
+| From the Vault with Love | 37.00% | ~2,480 |
+| Tailor-Made | 37.00% | ~2,480 |
+| Fully Decked Out | 35.00% | ~2,346 |
+| You Only Live Twice | 32.00% | ~2,145 |
+| A view to Win | 28.00% | ~1,877 |
+| Smells Like Trouble | 26.00% | ~1,743 |
+| Private Collection | 25.00% | ~1,676 |
+| Hostile Takeover | 25.00% | ~1,676 |
 | Assistant Accountant | 24.00% | ~1,608 |
 | The Living Portrait | 24.00% | ~1,608 |
 | My Motto, My Creed | 24.00% | ~1,608 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 295)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,699 (Ranked 119)  
+Progressed: 6,702 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 6,641 | 0 |
 | 2023-06-08 | 6,671 | 0 |
 | 2023-06-09 | 6,697 | 0 |
-| 2023-06-10 | 6,699 | 0 |
+| 2023-06-10 | 6,702 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

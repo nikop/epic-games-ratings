@@ -5,9 +5,9 @@
   "Ranking_Rating": 238,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 3,
-  "Ranking_EOS_Progress": 438,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
@@ -5408,11 +5408,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 1419953,
       "NumberOfAwardsMax": 179948
+    },
+    {
+      "Time": "2023-06-10T02:10:21.1749172+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1421483,
+      "NumberOfAwardsMax": 180528
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1419953,
-  "NumberOfAwardsMax": 179948,
+  "NumberOfAwards": 1421483,
+  "NumberOfAwardsMax": 180528,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5425,13 +5431,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 152016
+      "Count": 152455
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 165695
+      "Count": 166206
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5473,7 +5479,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 179948
+      "Count": 180528
     }
   ],
   "EOS_Progressed": 0,
@@ -5487,8 +5493,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-06-09T05:01:29.5629453+00:00",
+  "LastChanged": "2023-06-10T02:10:21.1749167+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.2445312+00:00",
-  "LastUpdate_Ratings": "2023-06-10T00:00:18.7855317+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:04:38.7102065+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:10:21.1749181+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:15:00.6901785+00:00"
 }

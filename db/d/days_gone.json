@@ -4,10 +4,10 @@
   "ProductSlug": "days-gone",
   "Ranking_Rating": 238,
   "Ranking_Popularity": 78,
-  "Ranking_PopularitySum": 109,
-  "Ranking_EOS_Progress": 438,
+  "Ranking_PopularitySum": 110,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-05-18T04:00:00+00:00",
@@ -2717,6 +2717,6 @@
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
   "LastChanged": "2023-06-09T20:57:26.5185438+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:33.7566446+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:57:30.3783455+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:04:06.6317193+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:08:07.1364625+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:14:34.791225+00:00"
 }

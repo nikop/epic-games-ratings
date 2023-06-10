@@ -28,10 +28,10 @@
 | Summers Here | 9.00% | ~4 |
 | Perfect | 8.00% | ~4 |
 | Expert Survivor | 8.00% | ~4 |
-| Pyromaniac | 7.00% | ~4 |
+| Pyromaniac | 8.00% | ~4 |
+| Eggtraordinary | 7.00% | ~7 |
 | Quadsparagus | 7.00% | ~4 |
 | Quit Horsin' Around | 6.00% | ~6 |
-| Eggtraordinary | 6.00% | ~6 |
 | Master Survivor | 6.00% | ~3 |
 | Bring Home The Bacon | 5.00% | ~5 |
 | Fresh Pancake | 4.00% | ~4 |

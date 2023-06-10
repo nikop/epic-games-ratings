@@ -6,11 +6,11 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,165 |
-| Sweet Sorrow | 18.00% | ~5,583 |
+| Sink Beneath the Waves | 36.00% | ~11,167 |
+| Sweet Sorrow | 18.00% | ~5,584 |
 | Rules the Waves | 17.00% | ~5,273 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,652 |
-| Rival | 14.00% | ~4,342 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,653 |
+| Rival | 14.00% | ~4,343 |
 | Correspondent | 12.00% | ~3,722 |
 | Lose Your Mind | 12.00% | ~3,722 |
 | Sound Mind? | 12.00% | ~3,722 |
@@ -18,7 +18,7 @@ Number of Ratings: 401  (23.09.2022)
 | HE SUN THE SUN THE SUN T | 11.00% | ~3,412 |
 | The Fall of the House | 11.00% | ~3,412 |
 | Shipmate | 11.00% | ~3,412 |
-| One Year at Zee | 8.00% | ~2,481 |
+| One Year at Zee | 8.00% | ~2,482 |
 | Pupil | 7.00% | ~2,171 |
 | Salvager | 7.00% | ~2,171 |
 | Open Your Ears | 7.00% | ~2,171 |
@@ -26,9 +26,9 @@ Number of Ratings: 401  (23.09.2022)
 | Sink Beneath the Waves. Again. | 5.00% | ~1,551 |
 | Zee Fever | 5.00% | ~1,551 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,241 |
-| Storm's Curse | 3.00% | ~930 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~930 |
-| Come Closer | 3.00% | ~930 |
+| Storm's Curse | 3.00% | ~931 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~931 |
+| Come Closer | 3.00% | ~931 |
 | Roaring Rise | 2.00% | ~620 |
 | I am the Captain of my Soul | 2.00% | ~620 |
 | A buoyant escape | 1.00% | ~310 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~31 |
 | Ten Years at Zee | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,015 (Ranked 89)  
+Progressed: 31,020 (Ranked 89)  
 Completed: 3 (0.01%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 3 (0.01%) (Ranked 203)
 | 2023-06-07 | 30,894 | 3 |
 | 2023-06-08 | 30,960 | 3 |
 | 2023-06-09 | 31,008 | 3 |
-| 2023-06-10 | 31,015 | 3 |
+| 2023-06-10 | 31,020 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 257)  
 Sum: 278 (Ranked 332)  

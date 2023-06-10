@@ -4,8 +4,8 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -412,9 +412,9 @@
       "ID": "Level_completed_008_005",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VIII",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "Level_completed_009_007",
@@ -460,9 +460,9 @@
       "ID": "Won_over_Octoboss_in_005",
       "SetID": "6od1ndi",
       "Name": "Blubb",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
@@ -477,8 +477,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:06:10.2701889+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:16:15.5661396+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:20.7292438+00:00",
-  "LastUpdate_Ratings": "2023-06-10T00:00:00.1923232+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:06:10.2702127+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:10:07.1123631+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:16:15.5661877+00:00"
 }

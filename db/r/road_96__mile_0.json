@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 275,
+  "EOS_Progressed": 276,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.73,
+  "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -664,6 +664,11 @@
       "Time": "2023-06-09T22:08:26.8584653+00:00",
       "NumProgressed": 275,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-10T02:14:23.0189614+00:00",
+      "NumProgressed": 276,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -673,9 +678,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "completeact2",
@@ -747,7 +752,7 @@
       "Name": "Souvenirs",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "scoreminrankrp1",
@@ -794,7 +799,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 275,
+      "Progressed": 276,
       "Completed": 2
     }
   ],
@@ -802,8 +807,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:03:52.4211616+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:14:23.0189609+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:06.7741113+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:58:53.2948399+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:03:52.42118+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:09:13.7038583+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:14:23.0189782+00:00"
 }

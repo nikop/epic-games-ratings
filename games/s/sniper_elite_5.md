@@ -5,17 +5,17 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~696 |
+| Meeting Resistance | 29.00% | ~722 |
 | Confirming Suspicions | 23.00% | ~572 |
-| The Kraken Wakes | 19.00% | ~472 |
+| The Kraken Wakes | 19.00% | ~473 |
 | It's Starting to Crack | 17.00% | ~423 |
 | Lord of War | 14.00% | ~348 |
 | Change the Channel | 14.00% | ~348 |
-| Resourceful | 13.00% | ~323 |
-| Taking it back | 12.00% | ~298 |
+| Resourceful | 13.00% | ~324 |
+| Taking it back | 12.00% | ~299 |
+| Target America | 11.00% | ~274 |
 | Organ Grinder | 10.00% | ~249 |
 | As Quiet as a Mouse | 10.00% | ~249 |
-| Target America | 10.00% | ~249 |
 | The Kraken Sleeps | 9.00% | ~224 |
 | Liberté | 8.00% | ~199 |
 | Enemy at the Gates | 8.00% | ~199 |
@@ -23,7 +23,7 @@ Rating: 4.51 (Ranked 528)
 | Gunslinger | 8.00% | ~199 |
 | Sharpshooter | 8.00% | ~199 |
 | Explosive Efficiency | 8.00% | ~199 |
-| Opposing Force | 6.00% | ~149 |
+| Opposing Force | 7.00% | ~174 |
 | Die Nussknacker Sweet! | 6.00% | ~149 |
 | Der Geist | 6.00% | ~149 |
 | Close Quarters | 6.00% | ~149 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 528)
 | Fields of Glory | 5.00% | ~124 |
 | Skirmisher | 5.00% | ~124 |
 | Set Europe Ablaze | 5.00% | ~124 |
-| Precision Is Key | 4.00% | ~99 |
+| Precision Is Key | 4.00% | ~100 |
 | Rigged to Blow | 3.00% | ~75 |
 | The Long Game | 2.00% | ~50 |
 | My Little Friend | 2.00% | ~50 |
@@ -47,7 +47,7 @@ Rating: 4.51 (Ranked 528)
 | Herr Today, Gone Tomorrow | 1.00% | ~24 |
 | Operation Foxley | 1.00% | ~24 |
 | Ghost of Falaise | 0.90% | ~22 |
-| Siegebreaker | 0.80% | ~19 |
+| Siegebreaker | 0.80% | ~20 |
 | Last Resort | 0.70% | ~17 |
 | From Paris with Love | 0.60% | ~15 |
 | Burn after reading | 0.60% | ~15 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,486 (Ranked 147)  
+Progressed: 2,489 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
-| 2023-06-10 | 2,486 | 2 |
+| 2023-06-10 | 2,489 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

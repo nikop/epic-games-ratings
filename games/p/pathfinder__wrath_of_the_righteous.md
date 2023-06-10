@@ -7,12 +7,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 17.00% | ~1,648 |
-| A Spark | 12.00% | ~1,163 |
-| Burning City | 11.00% | ~1,066 |
-| Defender's Heart | 10.00% | ~969 |
-| Banner over the Citadel | 9.00% | ~872 |
-| Mythic Choices | 9.00% | ~872 |
-| Queen's Gratitude | 8.00% | ~775 |
+| A Spark | 12.00% | ~1,164 |
+| Burning City | 11.00% | ~1,067 |
+| Defender's Heart | 10.00% | ~970 |
+| Banner over the Citadel | 9.00% | ~873 |
+| Mythic Choices | 9.00% | ~873 |
+| Queen's Gratitude | 8.00% | ~776 |
 | Fifth Crusade | 5.00% | ~485 |
 | Embrace of the Abyss | 4.00% | ~388 |
 | Path of the Angel | 4.00% | ~388 |
@@ -35,11 +35,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Core of the Riddle | 2.00% | ~194 |
 | Your First Big Enemy | 2.00% | ~194 |
 | Hey, I Know You! | 2.00% | ~194 |
-| Stay Underground | 2.00% | ~169 |
-| Hanged Man's Notes | 2.00% | ~169 |
-| Sarkoris Will Be Green | 2.00% | ~169 |
-| The Lady of the Forest | 2.00% | ~169 |
-| Beware Still Water | 2.00% | ~169 |
+| Stay Underground | 2.00% | ~170 |
+| Hanged Man's Notes | 2.00% | ~170 |
+| Sarkoris Will Be Green | 2.00% | ~170 |
+| The Lady of the Forest | 2.00% | ~170 |
+| Beware Still Water | 2.00% | ~170 |
 | Path of the Demon | 1.00% | ~97 |
 | Path of the Aeon | 1.00% | ~97 |
 | Capitulation Is Now Moot | 1.00% | ~97 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,692 (Ranked 112)  
+Progressed: 9,696 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,11 +174,11 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 9,619 | 0 |
 | 2023-06-08 | 9,650 | 0 |
 | 2023-06-09 | 9,691 | 0 |
-| 2023-06-10 | 9,692 | 0 |
+| 2023-06-10 | 9,696 | 0 |
 ## Awards
 Max (Character Customization): 1,658  (Ranked 111)  
-Sum: 6,722 (Ranked 110)  
-Diff (max vs sum): 1  
+Sum: 6,724 (Ranked 109)  
+Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,658 |
@@ -189,7 +189,7 @@ Diff (max vs sum): 1
 | This game has Amazing Storytelling | 594 |
 | This game has Quickly Understood Controls | 553 |
 | This game has Challenging Combat | 553 |
-| This game is Relaxing | 528 |
+| This game is Relaxing | 530 |
 | This game has a Creative Community | 375 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
@@ -329,3 +329,4 @@ Diff (max vs sum): 1
 | 2023-06-07 | 4.76 | - | 1,656 | 6,714 |
 | 2023-06-08 | 4.76 | - | 1,656 | 6,720 |
 | 2023-06-09 | 4.76 | - | 1,658 | 6,722 |
+| 2023-06-10 | 4.76 | - | 1,658 | 6,724 |

@@ -4438,10 +4438,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10499,
       "NumberOfAwardsMax": 6153
+    },
+    {
+      "Time": "2023-06-10T02:09:24.8154133+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10501,
+      "NumberOfAwardsMax": 6153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10499,
+  "NumberOfAwards": 10501,
   "NumberOfAwardsMax": 6153,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4491,7 +4497,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 518
+      "Count": 520
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4518,9 +4524,9 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 708339,
+  "EOS_Progressed": 708351,
   "EOS_Completed": 12764,
-  "EOS_NewPlayers": 1382,
+  "EOS_NewPlayers": 1374,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9223,6 +9229,11 @@
       "Time": "2023-06-10T00:06:23.6520635+00:00",
       "NumProgressed": 708339,
       "NumCompleted": 12764
+    },
+    {
+      "Time": "2023-06-10T02:16:26.5524706+00:00",
+      "NumProgressed": 708351,
+      "NumCompleted": 12764
     }
   ],
   "TotalAchievements": 50,
@@ -9234,7 +9245,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "02_Vengeance_H1",
@@ -9242,7 +9253,7 @@
       "Name": "The Assault",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "03_Vengeance_H2",
@@ -9250,7 +9261,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "04_Vengeance_H3",
@@ -9258,7 +9269,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "05_Vengeance_H4",
@@ -9266,7 +9277,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "06_Vengeance_H5",
@@ -9274,7 +9285,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "07_Wude_H1",
@@ -9338,7 +9349,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "15_Detective_H1",
@@ -9386,7 +9397,7 @@
       "Name": "Stuntmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -9402,7 +9413,7 @@
       "Name": "Street Fighting",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -9410,7 +9421,7 @@
       "Name": "Life is your teacher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -9418,7 +9429,7 @@
       "Name": "State of constant learning",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "25_ShrineMind",
@@ -9434,7 +9445,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "27_ShrineBody",
@@ -9442,7 +9453,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -9498,7 +9509,7 @@
       "Name": "Lightning Hands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "35_WideStrike",
@@ -9514,7 +9525,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -9522,7 +9533,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7083
+      "UsersEstimate": 7084
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -9570,7 +9581,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -9586,7 +9597,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -9618,7 +9629,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -9633,21 +9644,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17640,
+      "Progressed": 17652,
       "Completed": 10247
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708339,
+      "Progressed": 708351,
       "Completed": 12764
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-09T20:58:47.4062085+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:06:23.6520631+00:00",
+  "LastChanged": "2023-06-10T02:09:24.8154113+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:16:26.5524701+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:59:07.2854808+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:06:23.6521261+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:09:24.8154139+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:16:26.5525657+00:00"
 }

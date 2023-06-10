@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -394,9 +394,9 @@
       "ID": "VIPER_HACKING",
       "SetID": "2lk004m",
       "Name": "Hackathon",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -417,8 +417,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:06:11.6852643+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:16:16.6703521+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:35.0981495+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:59:18.4963342+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:06:11.685313+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:09:33.7046021+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:16:16.6703737+00:00"
 }

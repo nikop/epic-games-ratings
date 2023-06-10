@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -1124,6 +1124,11 @@
       "Time": "2023-06-10T00:05:30.026622+00:00",
       "NumProgressed": 643,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T02:15:42.5331567+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -1453,9 +1458,9 @@
       "ID": "SkillCompletion1",
       "SetID": "a9e499d",
       "Name": "Rungs Was Right",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "SkillProgress1",
@@ -1558,14 +1563,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:05:30.0266212+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:15:42.5331563+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:59:31.2071308+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:05:30.0266873+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:09:44.2393979+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:15:42.5332111+00:00"
 }

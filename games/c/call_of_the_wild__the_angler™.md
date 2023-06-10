@@ -6,25 +6,25 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 74.00% | ~3,114 |
-| Hey Good Hookin | 64.00% | ~2,693 |
-| I'm on a Boat! | 55.00% | ~2,314 |
-| Can you smell what the Rod is Hooking | 48.00% | ~2,020 |
-| Scaling up | 48.00% | ~2,020 |
-| Ready to Rod and Roll | 40.00% | ~1,683 |
-| More Fish in the Sea | 40.00% | ~1,683 |
-| License to Gill | 32.00% | ~1,347 |
-| Fish Out of Water | 31.00% | ~1,304 |
-| Things that go Splash in the Night | 26.00% | ~1,094 |
-| Goldfish? | 26.00% | ~1,094 |
-| Going for Gold | 23.00% | ~968 |
-| I'm Hooked! | 17.00% | ~715 |
+| Fish Just Got Reel | 74.00% | ~3,116 |
+| Hey Good Hookin | 64.00% | ~2,695 |
+| I'm on a Boat! | 55.00% | ~2,316 |
+| Can you smell what the Rod is Hooking | 48.00% | ~2,021 |
+| Scaling up | 48.00% | ~2,021 |
+| Ready to Rod and Roll | 40.00% | ~1,684 |
+| More Fish in the Sea | 40.00% | ~1,684 |
+| License to Gill | 32.00% | ~1,348 |
+| Fish Out of Water | 31.00% | ~1,305 |
+| Things that go Splash in the Night | 26.00% | ~1,095 |
+| Goldfish? | 26.00% | ~1,095 |
+| Going for Gold | 23.00% | ~969 |
+| I'm Hooked! | 17.00% | ~716 |
 | More than a Tourist | 12.00% | ~505 |
 | Diamond in the Rough | 12.00% | ~505 |
 | Hook, Line and Sinker | 7.00% | ~295 |
 | Marathon | 7.00% | ~295 |
-| Big Fish Small Pond | 6.00% | ~252 |
-| I'm the Captain Now | 5.00% | ~210 |
+| Big Fish Small Pond | 6.00% | ~253 |
+| I'm the Captain Now | 5.00% | ~211 |
 | School's Out for Summer | 4.00% | ~168 |
 | Gonna Need a Bigger Boat | 3.00% | ~126 |
 | The Beetles | 2.00% | ~84 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,208 (Ranked 132)  
+Progressed: 4,211 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,11 +93,11 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 4,154 | 0 |
 | 2023-06-08 | 4,183 | 0 |
 | 2023-06-09 | 4,207 | 0 |
-| 2023-06-10 | 4,208 | 0 |
+| 2023-06-10 | 4,211 | 0 |
 ## Awards
-Max (Relaxing): 32  (Ranked 439)  
+Max (Relaxing): 32  (Ranked 440)  
 Sum: 158 (Ranked 379)  
-Diff (max vs sum): 60  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 32 |

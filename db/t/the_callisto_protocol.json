@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -584,9 +584,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14880,
+  "EOS_Progressed": 14888,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3359,6 +3359,11 @@
       "Time": "2023-06-10T00:04:17.678384+00:00",
       "NumProgressed": 14880,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-10T02:14:43.656801+00:00",
+      "NumProgressed": 14888,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3394,7 +3399,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "DISARM_ENEMY",
@@ -3402,7 +3407,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3490,7 +3495,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3498,7 +3503,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "KILL_ROBOT",
@@ -3514,7 +3519,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3522,7 +3527,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -3530,7 +3535,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3538,7 +3543,7 @@
       "Name": "Reforged",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3546,7 +3551,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3562,7 +3567,7 @@
       "Name": "The Outer Way",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3570,7 +3575,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "STORY_HABITAT",
@@ -3594,7 +3599,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -3602,7 +3607,7 @@
       "Name": "Desperate Times",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3618,7 +3623,7 @@
       "Name": "Full Circle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "STORY_TUNNELS",
@@ -3626,7 +3631,7 @@
       "Name": "Power Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "DISMEMBER_100",
@@ -3642,7 +3647,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3650,7 +3655,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3689,13 +3694,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14880,
+      "Progressed": 14888,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2806,
+      "Progressed": 2814,
       "Completed": 29
     }
   ],
@@ -3703,8 +3708,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-09T13:57:54.3107791+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:04:17.6783832+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:14:43.6568001+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:57:57.8160794+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:04:17.6784369+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:08:27.8381942+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:14:43.6568571+00:00"
 }

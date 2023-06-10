@@ -3,8 +3,8 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_Completed": 27,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 433,
+  "EOS_Progressed": 434,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 6.93,
+  "EOS_Completed_Percentage": 6.91,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1166,6 +1166,11 @@
       "Time": "2023-06-09T21:03:34.7810525+00:00",
       "NumProgressed": 433,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-10T02:14:37.3925347+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 30,
@@ -1177,7 +1182,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "LEVEL_002",
@@ -1185,7 +1190,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "LEVEL_003",
@@ -1193,7 +1198,7 @@
       "Name": "A horse in the country",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "LEVEL_004",
@@ -1201,7 +1206,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "LEVEL_005",
@@ -1217,7 +1222,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "LEVEL_007",
@@ -1241,7 +1246,7 @@
       "Name": "Going zig zag",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "LEVEL_010",
@@ -1416,14 +1421,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 433,
+      "Progressed": 434,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:04:10.0333357+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:14:37.3925343+00:00",
   "LastUpdate_AppInfo": "2023-06-05T14:57:13.8702155+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:57:08.9711286+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:04:10.03337+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:07:50.5906+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:14:37.3925689+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 215,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -883,9 +883,9 @@
       "ID": "achIce",
       "SetID": "1al1mjg",
       "Name": "Recluse \u2714",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "achMeat",
@@ -946,8 +946,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:04:44.4208039+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:15:05.5281735+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:12.8803589+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:57:13.7124005+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:04:44.4208227+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:07:53.9386658+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:15:05.5281971+00:00"
 }

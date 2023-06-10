@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1587,
+  "EOS_Progressed": 1588,
   "EOS_Completed": 129,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 8.13,
+  "EOS_Completed_Percentage": 8.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2418,6 +2418,11 @@
       "Time": "2023-06-10T00:06:03.4068102+00:00",
       "NumProgressed": 1587,
       "NumCompleted": 129
+    },
+    {
+      "Time": "2023-06-10T02:16:09.7950477+00:00",
+      "NumProgressed": 1588,
+      "NumCompleted": 129
     }
   ],
   "TotalAchievements": 12,
@@ -2437,7 +2442,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Building the Fox",
@@ -2461,7 +2466,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "Jakob",
@@ -2477,7 +2482,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Le Juif et la France",
@@ -2524,7 +2529,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1587,
+      "Progressed": 1588,
       "Completed": 129
     }
   ],
@@ -2532,8 +2537,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:06:03.4068086+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:16:09.7950473+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:00.0693666+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:59:40.9409347+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:06:03.4068311+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:09:51.9278131+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:16:09.795073+00:00"
 }

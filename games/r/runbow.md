@@ -1,22 +1,22 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 602)  
+Rating: 4.46 (Ranked 603)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,584 |
-| My First Runbow | 50.00% | ~122,250 |
-| It's The Fall | 26.00% | ~63,570 |
-| The Stunner | 21.00% | ~51,345 |
-| Be Aggressive | 20.00% | ~48,900 |
-| Curator | 20.00% | ~48,900 |
-| Crowning Around | 18.00% | ~44,010 |
-| Can You Dig It? | 17.00% | ~41,565 |
-| You Juan-A-Go? | 16.00% | ~39,120 |
-| Chan-tastic | 15.00% | ~36,675 |
-| Muddy Waters | 14.00% | ~34,230 |
-| Toasty! | 13.00% | ~31,785 |
+| In The Zone | 53.00% | ~129,587 |
+| My First Runbow | 50.00% | ~122,252 |
+| It's The Fall | 26.00% | ~63,571 |
+| The Stunner | 21.00% | ~51,346 |
+| Be Aggressive | 20.00% | ~48,901 |
+| Curator | 20.00% | ~48,901 |
+| Crowning Around | 18.00% | ~44,011 |
+| Can You Dig It? | 17.00% | ~41,566 |
+| You Juan-A-Go? | 16.00% | ~39,121 |
+| Chan-tastic | 15.00% | ~36,676 |
+| Muddy Waters | 14.00% | ~34,231 |
+| Toasty! | 13.00% | ~31,786 |
 | Lazy Laser | 8.00% | ~19,560 |
 | Into The Drift | 7.00% | ~17,115 |
 | Ready? Fight! | 7.00% | ~17,115 |
@@ -28,31 +28,31 @@ Rating: 4.46 (Ranked 602)
 | Blotbuster | 2.00% | ~4,890 |
 | Just A Bit | 1.00% | ~2,445 |
 | Thunderstruck | 1.00% | ~2,445 |
-| Tubular, Dude | 0.90% | ~2,200 |
-| What A Trip | 0.90% | ~2,200 |
+| Tubular, Dude | 0.90% | ~2,201 |
+| What A Trip | 0.90% | ~2,201 |
 | Please The King | 0.80% | ~1,956 |
-| Here We Go! | 0.70% | ~1,711 |
-| Clear-Cut | 0.50% | ~1,222 |
+| Here We Go! | 0.70% | ~1,712 |
+| Clear-Cut | 0.50% | ~1,223 |
 | Breaking Out | 0.40% | ~978 |
-| Disposable | 0.30% | ~733 |
+| Disposable | 0.30% | ~734 |
 | A Winner Is You | 0.20% | ~489 |
 | Final Nightmare | 0.20% | ~489 |
 | I'm Here All Night | 0.20% | ~489 |
 | Ride The Wave | 0.20% | ~489 |
 | Tree Medalist | 0.20% | ~489 |
-| Can't Be Kept Down | 0.10% | ~244 |
-| Completionist | 0.10% | ~244 |
-| Did Your Time | 0.10% | ~244 |
-| Hanging 10 | 0.10% | ~244 |
-| Hard To Stomach | 0.10% | ~244 |
-| Indegestible | 0.10% | ~244 |
-| Lockup Lockdown | 0.10% | ~244 |
-| Not Scared | 0.10% | ~244 |
-| Perfect Darkness | 0.10% | ~244 |
-| Talent Scout | 0.10% | ~244 |
-| True Completionist | 0.10% | ~244 |
+| Can't Be Kept Down | 0.10% | ~245 |
+| Completionist | 0.10% | ~245 |
+| Did Your Time | 0.10% | ~245 |
+| Hanging 10 | 0.10% | ~245 |
+| Hard To Stomach | 0.10% | ~245 |
+| Indegestible | 0.10% | ~245 |
+| Lockup Lockdown | 0.10% | ~245 |
+| Not Scared | 0.10% | ~245 |
+| Perfect Darkness | 0.10% | ~245 |
+| Talent Scout | 0.10% | ~245 |
+| True Completionist | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,499 (Ranked 43)  
+Progressed: 244,504 (Ranked 43)  
 Completed: 2 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 2 (0.00%) (Ranked 213)
 | 2023-06-07 | 244,356 | 2 |
 | 2023-06-08 | 244,425 | 2 |
 | 2023-06-09 | 244,495 | 2 |
-| 2023-06-10 | 244,499 | 2 |
+| 2023-06-10 | 244,504 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

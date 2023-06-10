@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -68,7 +68,7 @@
   "Tags": [],
   "EOS_Progressed": 2143,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1245,9 +1245,9 @@
       "ID": "piercing_beam",
       "SetID": "236b9eg",
       "Name": "Say \u0022Cheese!\u0022",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 193
     },
     {
       "ID": "reach_heat",
@@ -1326,8 +1326,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:06:16.035134+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:16:19.8721783+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.8202637+00:00",
-  "LastUpdate_Ratings": "2023-06-10T00:00:24.5535001+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:06:16.0351574+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:10:26.2295129+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:16:19.8722016+00:00"
 }

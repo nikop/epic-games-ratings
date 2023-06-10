@@ -225,9 +225,9 @@
       "ID": "A_Hire_Crew",
       "SetID": "56632p4",
       "Name": "You\u0027re Hired!",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "A_Kill_Cookie_Cutter",
@@ -330,8 +330,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:02:19.7413726+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:13:18.9459785+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.0529187+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:59:02.2367747+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:02:19.7413895+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:09:20.2216249+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:13:18.9459976+00:00"
 }

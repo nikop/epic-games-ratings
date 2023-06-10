@@ -296,7 +296,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2486,
+  "EOS_Progressed": 2489,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
@@ -3031,6 +3031,11 @@
       "Time": "2023-06-10T00:06:14.1773163+00:00",
       "NumProgressed": 2486,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-10T02:16:18.4271419+00:00",
+      "NumProgressed": 2489,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3072,9 +3077,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 174
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -3120,9 +3125,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 722
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3202,7 +3207,7 @@
       "Name": "Precision Is Key",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -3266,7 +3271,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3290,7 +3295,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3410,7 +3415,7 @@
       "Name": "Taking it back",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3432,9 +3437,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 274
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3538,7 +3543,7 @@
       "Name": "Siegebreaker",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -3609,13 +3614,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2437,
+      "Progressed": 2440,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2486,
+      "Progressed": 2489,
       "Completed": 2
     }
   ],
@@ -3623,8 +3628,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:06:14.1773155+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:16:18.4271412+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-10T00:00:40.570294+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:06:14.1773965+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:10:39.1124199+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:16:18.4272405+00:00"
 }

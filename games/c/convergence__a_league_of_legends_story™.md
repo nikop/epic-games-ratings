@@ -43,10 +43,10 @@
 | Factorywood Explorer | 2.00% | ~13 |
 | Fairgrounds Explorer | 2.00% | ~13 |
 | Golem Hunter | 2.00% | ~13 |
+| Rungs Was Right | 2.00% | ~13 |
 | Syron for Hope | 2.00% | ~13 |
 | Theater Explorer | 2.00% | ~13 |
 | Good Neighbor | 2.00% | ~13 |
-| Rungs Was Right | 1.00% | ~6 |
 | Clovemary for Remembering | 0.90% | ~6 |
 | Hexlock for Protection | 0.80% | ~5 |
 | Fitting In | 0.60% | ~4 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643 (Ranked 192)  
+Progressed: 644 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 624 | 0 |
 | 2023-06-08 | 633 | 0 |
 | 2023-06-09 | 642 | 0 |
-| 2023-06-10 | 643 | 0 |
+| 2023-06-10 | 644 | 0 |

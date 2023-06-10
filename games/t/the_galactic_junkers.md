@@ -11,7 +11,7 @@
 | Expert Mechanic | 50.00% | ~19 |
 | Cookie Addict | 50.00% | ~19 |
 | Salvager | 34.00% | ~13 |
-| You're Hired! | 21.00% | ~8 |
+| You're Hired! | 24.00% | ~9 |
 | Expert Miner | 18.00% | ~7 |
 | Expert Firefighter | 13.00% | ~5 |
 | Master Mechanic | 11.00% | ~4 |

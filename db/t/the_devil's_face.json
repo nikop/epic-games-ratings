@@ -2,9 +2,9 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 438,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -150,8 +150,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:04:20.6872073+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:14:45.9276295+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:22.9326101+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:57:21.4277686+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:04:20.6872181+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:08:00.0372188+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:14:45.927641+00:00"
 }

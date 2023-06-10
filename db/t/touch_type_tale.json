@@ -2,7 +2,7 @@
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
-  "Ranking_EOS_Progress": 138,
+  "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 101,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2951,
+  "EOS_Progressed": 2952,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1969,6 +1969,11 @@
       "Time": "2023-06-09T22:11:22.9834313+00:00",
       "NumProgressed": 2951,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-10T02:16:25.1848025+00:00",
+      "NumProgressed": 2952,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1978,9 +1983,9 @@
       "ID": "bonus1",
       "SetID": "2h56gn1",
       "Name": "All Ovens Blazing",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 413
     },
     {
       "ID": "bonus2",
@@ -1994,9 +1999,9 @@
       "ID": "bonus3",
       "SetID": "2h56gn1",
       "Name": "Your Biggest Fans",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 177
     },
     {
       "ID": "bonus4",
@@ -2028,7 +2033,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "campaign10",
@@ -2116,7 +2121,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "campaign20",
@@ -2132,7 +2137,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "campaign4",
@@ -2140,7 +2145,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "campaign5",
@@ -2164,7 +2169,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "campaign8",
@@ -2243,7 +2248,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2951,
+      "Progressed": 2952,
       "Completed": 9
     }
   ],
@@ -2251,8 +2256,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:06:22.2470089+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:16:25.1848021+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:43.3295912+00:00",
-  "LastUpdate_Ratings": "2023-06-10T00:00:20.6848112+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:06:22.2470517+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:10:23.1228378+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:16:25.184845+00:00"
 }

@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 630,
+  "EOS_Progressed": 631,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -849,6 +849,11 @@
       "Time": "2023-06-09T20:06:17.1090631+00:00",
       "NumProgressed": 630,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T02:16:19.0605945+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -858,9 +863,9 @@
       "ID": "ACH000",
       "SetID": "69nfp41",
       "Name": "Cabin boy",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH001",
@@ -874,9 +879,9 @@
       "ID": "ACH002",
       "SetID": "69nfp41",
       "Name": "Conquistador",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH003",
@@ -948,7 +953,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH012",
@@ -956,7 +961,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ACH013",
@@ -1028,7 +1033,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH022",
@@ -1044,7 +1049,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ACH024",
@@ -1092,7 +1097,7 @@
       "Name": "Licence to Kill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH030",
@@ -1116,7 +1121,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH033",
@@ -1210,9 +1215,9 @@
       "ID": "ACH044",
       "SetID": "69nfp41",
       "Name": "Greed for gold",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH045",
@@ -1244,7 +1249,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH049",
@@ -1252,22 +1257,22 @@
       "Name": "Wholesale",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 630,
+      "Progressed": 631,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:06:15.1249311+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:16:19.0605941+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.6076867+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:58:34.2985117+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:06:15.1249776+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:08:58.6491462+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:16:19.0606508+00:00"
 }

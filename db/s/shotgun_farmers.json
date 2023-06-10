@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -767,9 +767,9 @@
       "ID": "ach_sextaKill",
       "SetID": "cmg602e",
       "Name": "Eggtraordinary",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_sniperKillNoScope",
@@ -1023,7 +1023,7 @@
       "ID": "ach_x_victims_using_chillithrower",
       "SetID": "bf10c8p",
       "Name": "Pyromaniac",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -1094,8 +1094,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:03:04.5178887+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:13:22.5941271+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.5762228+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:58:24.6633903+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:03:04.5179931+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:08:49.9105428+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:13:22.5942228+00:00"
 }

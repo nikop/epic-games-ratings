@@ -20,8 +20,8 @@ Rating: 4.35 (Ranked 727)
 | Do you trust me? | 15.00% | ~321 |
 | The Second Law of Thermodynamics | 14.00% | ~300 |
 | The Third Law of Thermodynamics | 9.00% | ~193 |
+| Say "Cheese!" | 9.00% | ~193 |
 | Taking Out the Trash | 9.00% | ~193 |
-| Say "Cheese!" | 8.00% | ~171 |
 | Better Than the Devs | 4.00% | ~86 |
 | So do we just stay up here, or?... | 2.00% | ~43 |
 ## Popularity (Based on EOS Achievements)

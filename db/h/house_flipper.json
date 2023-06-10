@@ -1578,9 +1578,9 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 19458,
+  "EOS_Progressed": 19459,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4138,6 +4138,11 @@
       "Time": "2023-06-10T00:06:04.9047895+00:00",
       "NumProgressed": 19458,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-10T02:16:11.0237241+00:00",
+      "NumProgressed": 19459,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4261,7 +4266,7 @@
       "Name": "Just Enough",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "Negotiator",
@@ -4301,7 +4306,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "Strongman",
@@ -4332,15 +4337,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19458,
+      "Progressed": 19459,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-09T17:00:13.2044899+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:06:04.9047887+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:16:11.0237237+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.9952882+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:59:31.9911171+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:06:04.90482+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:09:44.8687956+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:16:11.0237584+00:00"
 }

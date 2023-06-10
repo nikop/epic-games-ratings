@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 403,
+  "EOS_Progressed": 404,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
@@ -901,6 +901,11 @@
       "Time": "2023-06-10T00:03:21.3971392+00:00",
       "NumProgressed": 403,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T02:13:37.509047+00:00",
+      "NumProgressed": 404,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1054,9 +1059,9 @@
       "ID": "diehard_1",
       "SetID": "53c1p3k",
       "Name": "Diehard 1",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "diehard_2",
@@ -1439,14 +1444,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 403,
+      "Progressed": 404,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:03:21.3971384+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:13:37.5090464+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:56:59.8170651+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:03:21.3972095+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:07:43.3043106+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:13:37.5091272+00:00"
 }

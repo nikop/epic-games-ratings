@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,805 |
+| A Brief Tour of the Realms | 2.00% | ~1,806 |
 | Beast Intentions | 1.00% | ~903 |
 | The Cursed Farmer | 1.00% | ~903 |
 | The Mad Wizard | 1.00% | ~903 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,273 (Ranked 64)  
+Progressed: 90,281 (Ranked 64)  
 Completed: 1,925 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,7 +551,7 @@ Completed: 1,925 (2.13%) (Ranked 66)
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
-| 2023-06-10 | 90,273 | 1,925 |
+| 2023-06-10 | 90,281 | 1,925 |
 ## Awards
 Max (Diverse Characters): 4,925  (Ranked 64)  
 Sum: 30,064 (Ranked 37)  

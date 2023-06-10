@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -356,7 +356,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5480,
+  "EOS_Progressed": 5482,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
@@ -2301,6 +2301,11 @@
       "Time": "2023-06-09T21:03:23.7853961+00:00",
       "NumProgressed": 5480,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-10T02:14:26.9949361+00:00",
+      "NumProgressed": 5482,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -2398,9 +2403,9 @@
       "ID": "CaughtInAct",
       "SetID": "bmkn7o4",
       "Name": "Caught in the Act",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 55
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -2863,21 +2868,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2519,
+      "Progressed": 2521,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5480,
+      "Progressed": 5482,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:03:56.9755163+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:14:26.9949358+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:26.4905309+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:57:24.2525834+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:03:56.9755917+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:08:01.9344967+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:14:26.9950327+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "12091ee36f7648de9c3d24bce3ff62b9",
   "Name": "Whispering Willows",
   "ProductSlug": "whispering-willows-bde110",
-  "Ranking_EOS_Progress": 438,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-06T19:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.1756634+00:00",
   "LastChanged": "2023-03-31T05:58:27.1756636+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:55.3003336+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:58:42.5526684+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:02:05.3684218+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:09:05.255607+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:13:06.760127+00:00"
 }

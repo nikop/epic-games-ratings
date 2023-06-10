@@ -3,9 +3,9 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_Completed": 26,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 980,
-  "EOS_Completed": 65,
-  "EOS_NewPlayers": 44,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.63,
+  "EOS_Completed": 68,
+  "EOS_NewPlayers": 41,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 6.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2282,6 +2282,11 @@
       "Time": "2023-06-10T00:06:00.0833829+00:00",
       "NumProgressed": 980,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-06-10T02:16:06.9060817+00:00",
+      "NumProgressed": 980,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 50,
@@ -2339,9 +2344,9 @@
       "ID": "15",
       "SetID": "d0g98p",
       "Name": "Pull the Plug",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 314
     },
     {
       "ID": "16",
@@ -2403,25 +2408,25 @@
       "ID": "22",
       "SetID": "d0g98p",
       "Name": "Heartbreaker",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 323
+      "UsersEstimate": 333
     },
     {
       "ID": "23",
       "SetID": "d0g98p",
       "Name": "All Heart",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 314
     },
     {
       "ID": "24",
       "SetID": "d0g98p",
       "Name": "Kidnapped!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 333
     },
     {
       "ID": "25",
@@ -2563,9 +2568,9 @@
       "ID": "40",
       "SetID": "d0g98p",
       "Name": "Mirror, Mirror",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 284
     },
     {
       "ID": "41",
@@ -2675,9 +2680,9 @@
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 519
     },
     {
       "ID": "9",
@@ -2693,15 +2698,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 980,
-      "Completed": 65
+      "Completed": 68
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-10T00:06:00.0833822+00:00",
+  "LastChanged_Achievements": "2023-06-10T02:16:06.9060814+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-09T23:57:29.0696997+00:00",
-  "LastUpdate_Achievements": "2023-06-10T00:06:00.0834389+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:08:06.0429475+00:00",
+  "LastUpdate_Achievements": "2023-06-10T02:16:06.9061445+00:00"
 }

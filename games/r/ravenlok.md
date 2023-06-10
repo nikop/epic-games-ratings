@@ -12,7 +12,7 @@
 | A Grand Visit | 71.00% | ~696 |
 | Vibing | 61.00% | ~598 |
 | Fun Guy | 61.00% | ~598 |
-| Tragic Brave | 52.00% | ~510 |
+| Tragic Brave | 53.00% | ~519 |
 | Little Shop | 49.00% | ~480 |
 | Awakened Spirits | 49.00% | ~480 |
 | Surprise! | 44.00% | ~431 |
@@ -36,18 +36,18 @@
 | Extinct Again! | 34.00% | ~333 |
 | Bird of Prey | 34.00% | ~333 |
 | Stardust | 34.00% | ~333 |
-| Heartbreaker | 33.00% | ~323 |
-| Kidnapped! | 33.00% | ~323 |
+| Heartbreaker | 34.00% | ~333 |
+| Kidnapped! | 34.00% | ~333 |
+| Pull the Plug | 32.00% | ~314 |
+| All Heart | 32.00% | ~314 |
 | Trick Question! | 32.00% | ~314 |
-| Pull the Plug | 31.00% | ~304 |
 | Soul Slayer | 31.00% | ~304 |
 | The Downfall | 31.00% | ~304 |
-| All Heart | 31.00% | ~304 |
 | Final Showdown | 31.00% | ~304 |
 | Spot of Tea? | 31.00% | ~304 |
 | Going Home | 31.00% | ~304 |
 | Extraordinary! | 30.00% | ~294 |
-| Mirror, Mirror | 28.00% | ~274 |
+| Mirror, Mirror | 29.00% | ~284 |
 | Flower Power | 25.00% | ~245 |
 | Shopping Spree! | 24.00% | ~235 |
 | Crowned | 21.00% | ~206 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 8.00% | ~78 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 980 (Ranked 178)  
-Completed: 65 (6.63%) (Ranked 28)  
+Completed: 68 (6.94%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 65 (6.63%) (Ranked 28)
 | 2023-06-07 | 966 | 65 |
 | 2023-06-08 | 973 | 65 |
 | 2023-06-09 | 979 | 65 |
-| 2023-06-10 | 980 | 65 |
+| 2023-06-10 | 980 | 68 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
