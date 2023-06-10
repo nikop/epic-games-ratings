@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2747,
+  "EOS_Progressed": 2748,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2480,6 +2480,11 @@
       "Time": "2023-06-10T03:05:37.7637307+00:00",
       "NumProgressed": 2747,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-10T15:04:01.5211216+00:00",
+      "NumProgressed": 2748,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -2491,7 +2496,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "10",
@@ -2499,7 +2504,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "11",
@@ -2531,7 +2536,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "15",
@@ -2643,7 +2648,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "6",
@@ -2682,13 +2687,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2747,
+      "Progressed": 2748,
       "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:04:16.0143312+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:04:01.5211212+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:59:25.7399486+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:04:16.0143558+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:59:17.305644+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:04:01.5211466+00:00"
 }

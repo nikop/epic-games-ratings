@@ -211,9 +211,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_1",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Meadowshire",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_2",
@@ -564,8 +564,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:03:39.241971+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:03:36.3114391+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:53.8163071+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:58:58.2990422+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:03:39.242008+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:58:51.3983671+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:03:36.3114743+00:00"
 }

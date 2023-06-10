@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~712 |
+| Diligence as a goal | 4.00% | ~713 |
 | Project Arena | 3.00% | ~534 |
 | The Old Grandmaster | 1.00% | ~7,085 |
 | The Assault | 1.00% | ~7,085 |
@@ -30,34 +30,34 @@ Number of Ratings: 9,492  (23.09.2022)
 | The best strikes are the ones we avoid | 1.00% | ~178 |
 | Scareless | 0.80% | ~5,668 |
 | Kung-Fu Tussle | 0.80% | ~5,668 |
-| Dance of the Praying Mantis | 0.70% | ~4,959 |
-| Qi Gong: Mind | 0.70% | ~4,959 |
-| I know Kung-Fu | 0.70% | ~4,959 |
+| Dance of the Praying Mantis | 0.70% | ~4,960 |
+| Qi Gong: Mind | 0.70% | ~4,960 |
+| I know Kung-Fu | 0.70% | ~4,960 |
 | Muk Yan Master | 0.60% | ~4,251 |
 | Deadly Venom | 0.60% | ~107 |
 | A Touch of Acumen | 0.60% | ~107 |
-| Tiger on Fire | 0.50% | ~3,542 |
-| Source of Flying Daggers | 0.50% | ~3,542 |
-| Iron Money | 0.50% | ~3,542 |
-| Detective Story | 0.50% | ~3,542 |
+| Tiger on Fire | 0.50% | ~3,543 |
+| Source of Flying Daggers | 0.50% | ~3,543 |
+| Iron Money | 0.50% | ~3,543 |
+| Detective Story | 0.50% | ~3,543 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,834 |
 | Prodigal Child | 0.40% | ~2,834 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,834 |
 | Sword Stained With Blood | 0.40% | ~2,834 |
 | Martial Hub | 0.40% | ~71 |
 | Secure, Protect, Leave | 0.40% | ~71 |
-| Martial Artist | 0.30% | ~2,125 |
-| Knowledge Greed | 0.30% | ~2,125 |
+| Martial Artist | 0.30% | ~2,126 |
+| Knowledge Greed | 0.30% | ~2,126 |
 | Drunken Fighter | 0.20% | ~1,417 |
 | Healing Memory | 0.20% | ~1,417 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,417 |
 | The Pit Protector | 0.20% | ~1,417 |
 | Be like water my friend | 0.20% | ~1,417 |
 | Come Snap With Me | 0.20% | ~1,417 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~708 |
-| Warriors from the Mountain | 0.10% | ~708 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~709 |
+| Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,490 (Ranked 16)  
+Progressed: 708,515 (Ranked 16)  
 Completed: 12,764 (1.80%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 12,764 (1.80%) (Ranked 71)
 | 2023-06-07 | 707,910 | 12,763 |
 | 2023-06-08 | 708,100 | 12,763 |
 | 2023-06-09 | 708,330 | 12,764 |
-| 2023-06-10 | 708,490 | 12,764 |
+| 2023-06-10 | 708,515 | 12,764 |
 ## Awards
 Max (Great Boss Battles): 6,153  (Ranked 52)  
 Sum: 10,501 (Ranked 78)  

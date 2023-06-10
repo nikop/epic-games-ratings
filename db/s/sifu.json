@@ -4524,9 +4524,9 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 708490,
+  "EOS_Progressed": 708515,
   "EOS_Completed": 12764,
-  "EOS_NewPlayers": 1392,
+  "EOS_NewPlayers": 1395,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9294,6 +9294,11 @@
       "Time": "2023-06-10T14:06:57.2403658+00:00",
       "NumProgressed": 708490,
       "NumCompleted": 12764
+    },
+    {
+      "Time": "2023-06-10T15:06:38.7849135+00:00",
+      "NumProgressed": 708515,
+      "NumCompleted": 12764
     }
   ],
   "TotalAchievements": 50,
@@ -9361,7 +9366,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "09_Wude_H3",
@@ -9369,7 +9374,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "10_Wude_H4",
@@ -9377,7 +9382,7 @@
       "Name": "Iron Money",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "11_Wude_H5",
@@ -9417,7 +9422,7 @@
       "Name": "Detective Story",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "16_Detective_H2",
@@ -9433,7 +9438,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "18_Detective_H4",
@@ -9441,7 +9446,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "19_Detective_H5",
@@ -9465,7 +9470,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4959
+      "UsersEstimate": 4960
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -9497,7 +9502,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4959
+      "UsersEstimate": 4960
     },
     {
       "ID": "26_ShrineSpirit",
@@ -9537,7 +9542,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4959
+      "UsersEstimate": 4960
     },
     {
       "ID": "31_ComboHigh",
@@ -9545,7 +9550,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "32_ReachMaxAge",
@@ -9625,7 +9630,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -9649,7 +9654,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9704,21 +9709,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17791,
-      "Completed": 10248
+      "Progressed": 17816,
+      "Completed": 10249
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708490,
+      "Progressed": 708515,
       "Completed": 12764
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-10T02:09:24.8154113+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:06:57.2403647+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:06:38.7849129+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:59:29.3449082+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:06:57.2404192+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:59:20.7508644+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:06:38.7849714+00:00"
 }

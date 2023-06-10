@@ -27,9 +27,9 @@ Number of Ratings: 63  (23.09.2022)
 | Humerus Achievement | 31.00% | ~1,583 |
 | Ghost Facers! | 27.00% | ~1,379 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,072 |
+| Royal Flush, Again | 19.00% | ~970 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~919 |
 | Can't Touch This | 18.00% | ~919 |
-| Royal Flush, Again | 18.00% | ~919 |
 | Yummy! | 16.00% | ~817 |
 | That Was Quick | 16.00% | ~817 |
 | Goldrush Glory Days | 15.00% | ~766 |

@@ -16,7 +16,7 @@ Rating: 3.88 (Ranked 919)
 | Occupy Mars! | 22.00% | ~262 |
 | Houston we have a problem | 21.00% | ~250 |
 | Detective | 17.00% | ~202 |
-| The Collector | 14.00% | ~166 |
+| The Collector | 15.00% | ~178 |
 | Get your hands dirty | 9.00% | ~107 |
 | All Wheel Trouble | 6.00% | ~71 |
 | Space Forest | 6.00% | ~71 |
@@ -34,9 +34,9 @@ Rating: 3.88 (Ranked 919)
 | 5G Network | 0.50% | ~6 |
 | Bull’s eye | 0.40% | ~5 |
 | Planetary Defence | 0.40% | ~5 |
+| Korolev crater | 0.40% | ~5 |
 | Rover Mechanic | 0.40% | ~5 |
 | Hot Repairs | 0.30% | ~4 |
-| Korolev crater | 0.30% | ~4 |
 | One does not simply... | 0.30% | ~4 |
 | Cooking Vegetables | 0.10% | ~1 |
 | Historical Places | 0.10% | ~1 |

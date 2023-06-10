@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1578,9 +1578,9 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 19476,
+  "EOS_Progressed": 19477,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4183,6 +4183,11 @@
       "Time": "2023-06-10T14:06:36.8106389+00:00",
       "NumProgressed": 19476,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-10T15:06:18.597742+00:00",
+      "NumProgressed": 19477,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4226,7 +4231,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "EstateAgent",
@@ -4242,7 +4247,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18307
+      "UsersEstimate": 18308
     },
     {
       "ID": "GameOver",
@@ -4330,7 +4335,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3700
+      "UsersEstimate": 3701
     },
     {
       "ID": "SeniorEstateAgent",
@@ -4377,15 +4382,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19476,
+      "Progressed": 19477,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-09T17:00:13.2044899+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:06:36.8106383+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:06:18.5977416+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.9952882+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:59:57.5464798+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:06:36.810678+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:59:49.8105144+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:06:18.5977674+00:00"
 }

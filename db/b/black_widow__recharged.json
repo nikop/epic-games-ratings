@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15103,
+  "EOS_Progressed": 15104,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
@@ -4341,6 +4341,11 @@
       "Time": "2023-06-10T13:09:04.1824196+00:00",
       "NumProgressed": 15103,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-06-10T15:06:23.6880025+00:00",
+      "NumProgressed": 15104,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 14,
@@ -4352,7 +4357,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 11931
+      "UsersEstimate": 11932
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -4392,7 +4397,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2416
+      "UsersEstimate": 2417
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -4424,7 +4429,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -4456,22 +4461,22 @@
       "Name": "Wild West Hero",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 15103,
+      "Progressed": 15104,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:06:42.2049895+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:06:23.688002+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:55.9695913+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:01:06.7542723+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:06:42.2050198+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:00:56.4086445+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:06:23.6880316+00:00"
 }

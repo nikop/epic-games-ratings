@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -1219,9 +1219,9 @@
       "ID": "LEVEL_004",
       "SetID": "212bg48",
       "Name": "Life is better at the lake",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 245
     },
     {
       "ID": "LEVEL_005",
@@ -1442,8 +1442,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:04:26.3521526+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:04:11.7156004+00:00",
   "LastUpdate_AppInfo": "2023-06-05T14:57:13.8702155+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:57:11.4908546+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:04:26.3521761+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:57:08.018715+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:04:11.7156244+00:00"
 }

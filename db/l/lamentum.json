@@ -6,9 +6,9 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 230,
-  "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.79,
+  "EOS_Completed_Percentage": 2.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -183,6 +183,11 @@
       "Time": "2023-06-04T16:04:24.9773472+00:00",
       "NumProgressed": 287,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-10T15:04:34.0236167+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -202,7 +207,7 @@
       "Name": "Redemption",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_02",
@@ -266,7 +271,7 @@
       "Name": "Grau Hill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "achievement_10",
@@ -274,15 +279,15 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_11",
       "SetID": "7881h0d",
       "Name": "A forgotten language",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_12",
@@ -298,7 +303,7 @@
       "Name": "One step down",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_14",
@@ -312,9 +317,9 @@
       "ID": "achievement_15",
       "SetID": "7881h0d",
       "Name": "My dear Magda",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_16",
@@ -345,7 +350,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 8
     }
   ],
@@ -353,8 +358,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:04:49.4366242+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:04:34.0236163+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.2283173+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:57:58.3854276+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:04:49.4366713+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:57:53.8853401+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:04:34.0236283+00:00"
 }

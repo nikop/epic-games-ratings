@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5500,
+  "EOS_Progressed": 5501,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -2351,6 +2351,11 @@
       "Time": "2023-06-10T14:04:12.0736376+00:00",
       "NumProgressed": 5500,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-10T15:03:58.084604+00:00",
+      "NumProgressed": 5501,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -2370,7 +2375,7 @@
       "Name": "Amy",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Amy_Scav",
@@ -2498,7 +2503,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "DoNotBurn",
@@ -2722,7 +2727,7 @@
       "Name": "Smooth Operator: Ashley",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SO_Madison",
@@ -2754,7 +2759,7 @@
       "Name": "Stephanie",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "StrikingResemblance",
@@ -2802,7 +2807,7 @@
       "Name": "The Muse: Madison",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ThatsANiceBush",
@@ -2818,7 +2823,7 @@
       "Name": "The Crush",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TheCrushes",
@@ -2834,7 +2839,7 @@
       "Name": "The Magic Number",
       "Percentage": 0.3,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TheMostWonderfulTimeOfTheYear",
@@ -2850,7 +2855,7 @@
       "Name": "Vickie",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "cooch",
@@ -2913,21 +2918,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2539,
+      "Progressed": 2540,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5500,
+      "Progressed": 5501,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:04:12.0736371+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:03:58.0846036+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:26.4905309+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:57:28.1621815+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:04:12.0737021+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:57:23.5746751+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:03:58.0846678+00:00"
 }

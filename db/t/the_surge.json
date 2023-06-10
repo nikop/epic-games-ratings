@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -319,9 +319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4383,
+  "EOS_Progressed": 4384,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1164,6 +1164,11 @@
       "Time": "2023-06-10T13:05:07.4014993+00:00",
       "NumProgressed": 4383,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-10T15:02:15.6310363+00:00",
+      "NumProgressed": 4384,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -1191,7 +1196,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -1215,7 +1220,7 @@
       "Name": "For the Good of Mankind",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ID_ACHIEV_07",
@@ -1223,7 +1228,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3682
+      "UsersEstimate": 3683
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1231,7 +1236,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4120
+      "UsersEstimate": 4121
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1239,7 +1244,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3375
+      "UsersEstimate": 3376
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1287,7 +1292,7 @@
       "Name": "Turing Test",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ID_ACHIEV_16",
@@ -1327,7 +1332,7 @@
       "Name": "Repeat Customer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ID_ACHIEV_21",
@@ -1391,7 +1396,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1407,7 +1412,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -1415,7 +1420,7 @@
       "Name": "Evolution Theory",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ID_ACHIEV_32",
@@ -1455,7 +1460,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -1503,7 +1508,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -1511,7 +1516,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -1527,7 +1532,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -1710,15 +1715,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4383,
+      "Progressed": 4384,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:02:15.0800214+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:02:15.6310359+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:11.7913925+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:58:14.9386434+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:02:15.0800788+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:58:09.501613+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:02:15.6310972+00:00"
 }

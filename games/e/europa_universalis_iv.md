@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,784 |
-| That's a Grand Army | 8.00% | ~4,252 |
-| That is mine! | 8.00% | ~4,252 |
-| Victorious! | 8.00% | ~4,252 |
-| Brothers in Arms | 6.00% | ~3,189 |
-| That's a Grand Navy | 6.00% | ~3,189 |
-| Seriously?! | 6.00% | ~3,189 |
-| For the Glory | 5.00% | ~2,658 |
-| Cold War | 4.00% | ~2,126 |
-| True Catholic | 4.00% | ~2,126 |
-| Defender of the Faith | 3.00% | ~1,595 |
-| It's all about the money | 3.00% | ~1,595 |
-| Respected | 3.00% | ~1,595 |
-| Truly Divine Ruler | 3.00% | ~1,595 |
-| Agressive Expander | 2.00% | ~1,063 |
-| Blockader | 2.00% | ~1,063 |
-| Combined Arms | 2.00% | ~1,063 |
-| Double the Love | 2.00% | ~1,063 |
-| Gentle Persuasion | 2.00% | ~1,063 |
-| It's all about luck | 2.00% | ~1,063 |
-| My armies are invincible! | 2.00% | ~1,063 |
-| Queen of Conquest | 2.00% | ~1,063 |
-| Royal Authority | 2.00% | ~1,063 |
-| The Princess is in this Castle | 2.00% | ~1,063 |
-| Total Control | 2.00% | ~1,063 |
+| Until death do us apart | 9.00% | ~4,787 |
+| That's a Grand Army | 8.00% | ~4,255 |
+| That is mine! | 8.00% | ~4,255 |
+| Victorious! | 8.00% | ~4,255 |
+| Brothers in Arms | 6.00% | ~3,191 |
+| That's a Grand Navy | 6.00% | ~3,191 |
+| Seriously?! | 6.00% | ~3,191 |
+| For the Glory | 5.00% | ~2,659 |
+| Cold War | 4.00% | ~2,128 |
+| True Catholic | 4.00% | ~2,128 |
+| Defender of the Faith | 3.00% | ~1,596 |
+| It's all about the money | 3.00% | ~1,596 |
+| Respected | 3.00% | ~1,596 |
+| Truly Divine Ruler | 3.00% | ~1,596 |
+| Agressive Expander | 2.00% | ~1,064 |
+| Blockader | 2.00% | ~1,064 |
+| Combined Arms | 2.00% | ~1,064 |
+| Double the Love | 2.00% | ~1,064 |
+| Gentle Persuasion | 2.00% | ~1,064 |
+| It's all about luck | 2.00% | ~1,064 |
+| My armies are invincible! | 2.00% | ~1,064 |
+| Queen of Conquest | 2.00% | ~1,064 |
+| Royal Authority | 2.00% | ~1,064 |
+| The Princess is in this Castle | 2.00% | ~1,064 |
+| Total Control | 2.00% | ~1,064 |
 | All That's Thine Shall Be Mine | 1.00% | ~532 |
 | Azur semé de lis or | 1.00% | ~532 |
 | Bright Spark | 1.00% | ~532 |
@@ -38,11 +38,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~532 |
 | A Golden Empire | 1.00% | ~532 |
 | This navy can take it all | 1.00% | ~532 |
-| The Emperors new clothes | 0.90% | ~478 |
-| Isn't this the way to India? | 0.90% | ~478 |
-| Market Control | 0.90% | ~478 |
-| The Five Colonies | 0.90% | ~478 |
-| Down Under | 0.80% | ~425 |
+| The Emperors new clothes | 0.90% | ~479 |
+| Isn't this the way to India? | 0.90% | ~479 |
+| Market Control | 0.90% | ~479 |
+| The Five Colonies | 0.90% | ~479 |
+| Down Under | 0.80% | ~426 |
 | Trustworthy | 0.70% | ~372 |
 | All belongs to Mother Russia | 0.60% | ~319 |
 | At every continent | 0.60% | ~319 |
@@ -60,6 +60,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All Your Trade Are Belong to Us | 0.40% | ~213 |
 | Bleed Them Dry | 0.40% | ~213 |
 | Dude, Where's my Boat? | 0.40% | ~213 |
+| Four For Trade | 0.40% | ~213 |
 | Global Hegemony | 0.40% | ~213 |
 | Grand Coalition | 0.40% | ~213 |
 | In the Name of the Father | 0.40% | ~213 |
@@ -68,20 +69,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~213 |
 | Tear Down This Wall | 0.40% | ~213 |
 | The Continuation of Diplomacy | 0.40% | ~213 |
-| A Decent Reserve | 0.30% | ~159 |
-| A Pile of Gold | 0.30% | ~159 |
-| Four For Trade | 0.30% | ~159 |
-| Grand Duchy | 0.30% | ~159 |
-| Italian Ambition | 0.30% | ~159 |
-| Multiculturalism | 0.30% | ~159 |
-| No Pirates in my Caribbean | 0.30% | ~159 |
-| Not so sad a state... | 0.30% | ~159 |
-| The Chrysanthemum Throne | 0.30% | ~159 |
-| Three Trivial Tributary Tribes | 0.30% | ~159 |
-| Traditional Player | 0.30% | ~159 |
-| Vasa or Wettin? | 0.30% | ~159 |
-| Wonderful | 0.30% | ~159 |
-| World Discoverer | 0.30% | ~159 |
+| A Decent Reserve | 0.30% | ~160 |
+| A Pile of Gold | 0.30% | ~160 |
+| Grand Duchy | 0.30% | ~160 |
+| Italian Ambition | 0.30% | ~160 |
+| Multiculturalism | 0.30% | ~160 |
+| No Pirates in my Caribbean | 0.30% | ~160 |
+| Not so sad a state... | 0.30% | ~160 |
+| The Chrysanthemum Throne | 0.30% | ~160 |
+| Three Trivial Tributary Tribes | 0.30% | ~160 |
+| Traditional Player | 0.30% | ~160 |
+| Vasa or Wettin? | 0.30% | ~160 |
+| Wonderful | 0.30% | ~160 |
+| World Discoverer | 0.30% | ~160 |
 | A Protected Market | 0.20% | ~106 |
 | AAA Credit | 0.20% | ~106 |
 | An early Reich | 0.20% | ~106 |
@@ -221,6 +221,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Narcissism | 0.10% | ~53 |
 | Neither Holy, Nor German | 0.10% | ~53 |
 | Networking | 0.10% | ~53 |
+| Never say Nevers | 0.10% | ~53 |
 | New, New Deli | 0.10% | ~53 |
 | No Country for Old Tercios | 0.10% | ~53 |
 | Nobody wants to die | 0.10% | ~53 |
@@ -338,7 +339,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Levant Turnabout | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
-| Never say Nevers | 0.00% | ~0 |
 | No Trail of Tears | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,153 (Ranked 78)  
+Progressed: 53,189 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 51,714 | 0 |
 | 2023-06-08 | 52,261 | 0 |
 | 2023-06-09 | 52,837 | 0 |
-| 2023-06-10 | 53,153 | 0 |
+| 2023-06-10 | 53,189 | 0 |
 ## Awards
 Max (Educational): 5,371  (Ranked 61)  
 Sum: 44,360 (Ranked 27)  

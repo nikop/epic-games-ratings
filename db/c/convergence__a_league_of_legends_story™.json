@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 650,
+  "EOS_Progressed": 651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1149,6 +1149,11 @@
       "Time": "2023-06-10T13:08:24.6965144+00:00",
       "NumProgressed": 650,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T15:05:40.8764593+00:00",
+      "NumProgressed": 651,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -1216,7 +1221,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CosmeticCompletion1",
@@ -1280,7 +1285,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1288,7 +1293,7 @@
       "Name": "The Betrayer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1320,7 +1325,7 @@
       "Name": "Rail Rat",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "HexlockGift",
@@ -1416,7 +1421,7 @@
       "Name": "No, Thanks!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1424,7 +1429,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1432,7 +1437,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "PidgeDefeated",
@@ -1440,7 +1445,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "RewindDamage1",
@@ -1526,9 +1531,9 @@
       "ID": "TheaterChests1",
       "SetID": "a9e499d",
       "Name": "Theater Explorer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -1542,9 +1547,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 39
     },
     {
       "ID": "WatcherFought",
@@ -1583,14 +1588,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 650,
+      "Progressed": 651,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:05:58.4639773+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:05:40.8764588+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:59:56.6307645+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:05:58.4640191+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:59:48.9134757+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:05:40.8765003+00:00"
 }

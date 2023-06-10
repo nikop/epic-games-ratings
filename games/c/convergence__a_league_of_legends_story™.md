@@ -9,14 +9,14 @@
 | Make Up For Lost Time | 6.00% | ~39 |
 | Cartographer | 6.00% | ~39 |
 | Time Heals All Wounds | 6.00% | ~39 |
-| The Mysterious Stranger | 5.00% | ~32 |
-| The Betrayer | 5.00% | ~32 |
-| Rail Rat | 5.00% | ~32 |
-| No, Thanks! | 5.00% | ~32 |
-| Breaking Down Barriers | 5.00% | ~32 |
-| The Wicked Twins | 5.00% | ~32 |
-| The Prince in Heels | 5.00% | ~32 |
-| Immaculate Aim | 5.00% | ~32 |
+| Immaculate Aim | 6.00% | ~39 |
+| The Mysterious Stranger | 5.00% | ~33 |
+| The Betrayer | 5.00% | ~33 |
+| Rail Rat | 5.00% | ~33 |
+| No, Thanks! | 5.00% | ~33 |
+| Breaking Down Barriers | 5.00% | ~33 |
+| The Wicked Twins | 5.00% | ~33 |
+| The Prince in Heels | 5.00% | ~33 |
 | Like Clockwork | 4.00% | ~26 |
 | Street Style | 4.00% | ~26 |
 | Family Memories | 4.00% | ~26 |
@@ -36,6 +36,7 @@
 | Honest Mistake | 3.00% | ~20 |
 | Sump Explorer | 3.00% | ~20 |
 | Syron for Hope | 3.00% | ~20 |
+| Theater Explorer | 3.00% | ~20 |
 | Ask Questions Later | 3.00% | ~20 |
 | Good Neighbor | 3.00% | ~20 |
 | Corin Goes Home | 2.00% | ~13 |
@@ -46,8 +47,7 @@
 | Fairgrounds Explorer | 2.00% | ~13 |
 | Golem Hunter | 2.00% | ~13 |
 | Rungs Was Right | 2.00% | ~13 |
-| Theater Explorer | 2.00% | ~13 |
-| Clovemary for Remembering | 1.00% | ~6 |
+| Clovemary for Remembering | 1.00% | ~7 |
 | Hexlock for Protection | 0.80% | ~5 |
 | Fitting In | 0.60% | ~4 |
 | Wunderkind | 0.30% | ~2 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 650 (Ranked 192)  
+Progressed: 651 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 624 | 0 |
 | 2023-06-08 | 633 | 0 |
 | 2023-06-09 | 642 | 0 |
-| 2023-06-10 | 650 | 0 |
+| 2023-06-10 | 651 | 0 |

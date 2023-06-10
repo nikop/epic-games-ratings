@@ -17,23 +17,23 @@ Rating: 4.51 (Ranked 528)
 | As Quiet as a Mouse | 10.00% | ~253 |
 | Target America | 10.00% | ~253 |
 | The Kraken Sleeps | 9.00% | ~228 |
-| Liberté | 8.00% | ~202 |
-| Enemy at the Gates | 8.00% | ~202 |
-| Just a Flesh Wound | 8.00% | ~202 |
-| Gunslinger | 8.00% | ~202 |
-| Sharpshooter | 8.00% | ~202 |
-| Explosive Efficiency | 8.00% | ~202 |
-| Opposing Force | 6.00% | ~152 |
+| Liberté | 8.00% | ~203 |
+| Enemy at the Gates | 8.00% | ~203 |
+| Just a Flesh Wound | 8.00% | ~203 |
+| Gunslinger | 8.00% | ~203 |
+| Sharpshooter | 8.00% | ~203 |
+| Explosive Efficiency | 8.00% | ~203 |
+| Opposing Force | 7.00% | ~177 |
 | Die Nussknacker Sweet! | 6.00% | ~152 |
 | Der Geist | 6.00% | ~152 |
 | Close Quarters | 6.00% | ~152 |
 | Snake in the Grass | 6.00% | ~152 |
 | Brains of the Operation | 6.00% | ~152 |
-| Climbing the Ladder | 5.00% | ~126 |
-| No Stone Unturned | 5.00% | ~126 |
-| Fields of Glory | 5.00% | ~126 |
-| Skirmisher | 5.00% | ~126 |
-| Set Europe Ablaze | 5.00% | ~126 |
+| Climbing the Ladder | 5.00% | ~127 |
+| No Stone Unturned | 5.00% | ~127 |
+| Fields of Glory | 5.00% | ~127 |
+| Skirmisher | 5.00% | ~127 |
+| Set Europe Ablaze | 5.00% | ~127 |
 | Precision Is Key | 4.00% | ~101 |
 | Rigged to Blow | 3.00% | ~76 |
 | The Long Game | 2.00% | ~51 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,530 (Ranked 147)  
+Progressed: 2,532 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
-| 2023-06-10 | 2,530 | 2 |
+| 2023-06-10 | 2,532 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

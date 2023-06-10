@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2015-06-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3320,10 +3320,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 8693,
       "NumberOfAwardsMax": 5550
+    },
+    {
+      "Time": "2023-06-10T15:00:24.953656+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8696,
+      "NumberOfAwardsMax": 5550
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8693,
+  "NumberOfAwards": 8696,
   "NumberOfAwardsMax": 5550,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3337,7 +3343,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 357
+      "Count": 358
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3349,7 +3355,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 341
+      "Count": 342
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3361,7 +3367,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 347
+      "Count": 348
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3405,8 +3411,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2023-06-09T18:59:35.5429055+00:00",
+  "LastChanged": "2023-06-10T15:00:24.9536559+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:23.5394961+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:00:33.4780666+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:02:23.0045124+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:00:24.9536564+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:02:22.702844+00:00"
 }

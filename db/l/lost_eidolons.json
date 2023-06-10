@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -799,9 +799,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 664
     },
     {
       "ID": "06",
@@ -960,8 +960,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:06:47.7395467+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:06:29.1383879+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:00:19.0019159+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:06:47.7395611+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:00:10.3254213+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:06:29.1384024+00:00"
 }

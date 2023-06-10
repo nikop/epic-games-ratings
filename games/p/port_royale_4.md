@@ -6,28 +6,28 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~506 |
-| My little farm | 65.00% | ~411 |
-| Every beginning is difficult | 62.00% | ~392 |
-| 3, 2, 1, mine | 55.00% | ~348 |
-| Gofer | 55.00% | ~348 |
-| Seafarer | 53.00% | ~335 |
-| O Captain! My Captain! | 53.00% | ~335 |
-| Greed for gold | 42.00% | ~265 |
-| Intangible | 41.00% | ~259 |
-| I'm out of here for a while | 40.00% | ~253 |
-| In a mint condition | 37.00% | ~234 |
-| Licence to Kill | 34.00% | ~215 |
-| Pirates! | 34.00% | ~215 |
-| Collectionitis | 28.00% | ~177 |
-| Megalomania | 28.00% | ~177 |
-| Christening | 26.00% | ~164 |
-| Groundskeeper | 25.00% | ~158 |
+| Cabin boy | 80.00% | ~508 |
+| My little farm | 64.00% | ~406 |
+| Every beginning is difficult | 62.00% | ~394 |
+| Gofer | 55.00% | ~349 |
+| 3, 2, 1, mine | 54.00% | ~343 |
+| Seafarer | 53.00% | ~337 |
+| O Captain! My Captain! | 53.00% | ~337 |
+| Greed for gold | 42.00% | ~267 |
+| Intangible | 41.00% | ~260 |
+| I'm out of here for a while | 40.00% | ~254 |
+| In a mint condition | 37.00% | ~235 |
+| Licence to Kill | 34.00% | ~216 |
+| Pirates! | 34.00% | ~216 |
+| Collectionitis | 28.00% | ~178 |
+| Megalomania | 28.00% | ~178 |
+| Christening | 26.00% | ~165 |
+| Groundskeeper | 24.00% | ~152 |
 | Wholesale | 21.00% | ~133 |
-| Walk the plank | 20.00% | ~126 |
-| My precious! | 17.00% | ~107 |
-| Pearly gates | 16.00% | ~101 |
-| Conquistador | 13.00% | ~82 |
+| Walk the plank | 20.00% | ~127 |
+| My precious! | 17.00% | ~108 |
+| Pearly gates | 16.00% | ~102 |
+| Conquistador | 12.00% | ~76 |
 | Panic buying | 11.00% | ~70 |
 | Just a scratch | 9.00% | ~57 |
 | All mine! | 9.00% | ~57 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 632 (Ranked 193)  
+Progressed: 635 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 622 | 0 |
 | 2023-06-08 | 628 | 0 |
 | 2023-06-09 | 630 | 0 |
-| 2023-06-10 | 632 | 0 |
+| 2023-06-10 | 635 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

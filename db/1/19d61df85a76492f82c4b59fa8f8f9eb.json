@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_Completed": 13,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 49,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 42,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 10.2,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 12.24,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -246,6 +246,11 @@
       "Time": "2023-06-10T14:03:27.6648669+00:00",
       "NumProgressed": 49,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-10T15:03:25.1122048+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 6,
@@ -295,9 +300,9 @@
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 165,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
@@ -305,13 +310,13 @@
       "ID": "4ocea6d",
       "IsBase": true,
       "Progressed": 49,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:03:27.6648663+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:03:25.1122043+00:00",
   "LastUpdate_AppInfo": "2023-06-08T09:57:08.8988878+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:56:58.6220015+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:03:27.6648745+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:56:55.8314606+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:03:25.1122112+00:00"
 }

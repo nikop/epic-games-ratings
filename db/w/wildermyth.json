@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1251,
+  "EOS_Progressed": 1252,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -810,6 +810,11 @@
       "Time": "2023-06-10T14:06:39.0962083+00:00",
       "NumProgressed": 1251,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-10T15:06:20.8781756+00:00",
+      "NumProgressed": 1252,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -837,7 +842,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -893,7 +898,7 @@
       "Name": "Passing Shadow",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -997,7 +1002,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "achievement_mythwalker",
@@ -1011,9 +1016,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 326
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1268,15 +1273,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1251,
+      "Progressed": 1252,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:06:39.0962078+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:06:20.8781751+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.528783+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:01:21.9590903+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:06:39.0962473+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:01:12.0714626+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:06:20.8782192+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.18 (Ranked 841)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,090 |
-| The Outer Way | 12.00% | ~1,791 |
-| Desperate Times | 12.00% | ~1,791 |
+| Flesh Wound | 14.00% | ~2,091 |
+| The Outer Way | 12.00% | ~1,792 |
+| Desperate Times | 12.00% | ~1,792 |
 | Paper Jams | 10.00% | ~1,493 |
-| Chew 'Em Up | 9.00% | ~1,343 |
-| Reforged | 9.00% | ~1,343 |
-| Workplace Hazard | 8.00% | ~1,194 |
-| If the SHU Fits... | 8.00% | ~1,194 |
+| Chew 'Em Up | 9.00% | ~1,344 |
+| Reforged | 9.00% | ~1,344 |
+| Workplace Hazard | 8.00% | ~1,195 |
+| If the SHU Fits... | 8.00% | ~1,195 |
 | Giving Back | 7.00% | ~1,045 |
 | Get a Grip | 6.00% | ~896 |
 | Without A Paddle | 6.00% | ~896 |
-| Terminated | 5.00% | ~746 |
-| In the Pipe, Five by Five | 5.00% | ~746 |
-| Crash Site | 5.00% | ~746 |
+| Terminated | 5.00% | ~747 |
+| In the Pipe, Five by Five | 5.00% | ~747 |
+| Crash Site | 5.00% | ~747 |
 | You Need a Gun | 4.00% | ~597 |
 | Two Heads Are Better Than One | 4.00% | ~597 |
 | Float Like A Butterfly | 4.00% | ~597 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 841)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,926 (Ranked 104)  
+Progressed: 14,934 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 54 (0.36%) (Ranked 122)
 | 2023-06-07 | 14,702 | 54 |
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
-| 2023-06-10 | 14,926 | 54 |
+| 2023-06-10 | 14,934 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
 Sum: 301 (Ranked 328)  

@@ -7,8 +7,8 @@ Rating: 4.57 (Ranked 444)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 16.00% | ~409 |
 | Sputnik 2049 | 14.00% | ~358 |
-| Without Breaking Some Eggs... | 13.00% | ~332 |
-| Infinite Growth... | 13.00% | ~332 |
+| Without Breaking Some Eggs... | 13.00% | ~333 |
+| Infinite Growth... | 13.00% | ~333 |
 | Ready for a New World | 9.00% | ~230 |
 | Space Society | 8.00% | ~205 |
 | A Thousand Strong | 8.00% | ~205 |
@@ -27,13 +27,13 @@ Rating: 4.57 (Ranked 444)
 | Access Granted | 3.00% | ~77 |
 | Necessary Enhancement | 3.00% | ~77 |
 | Convenient Transport | 3.00% | ~77 |
+| From the Past | 3.00% | ~77 |
 | Oats | 2.00% | ~51 |
 | What They Hide From Us | 2.00% | ~51 |
 | Sightseeing | 2.00% | ~51 |
 | In Dolos We Trust | 2.00% | ~51 |
 | BRAWL! | 2.00% | ~51 |
 | All in Good Health | 2.00% | ~51 |
-| From the Past | 2.00% | ~51 |
 | What the Ruins Teach Us | 2.00% | ~51 |
 | Mutual Loyalty | 1.00% | ~26 |
 | ...  in a finite world | 1.00% | ~26 |
@@ -50,7 +50,7 @@ Rating: 4.57 (Ranked 444)
 | Help of the Forgotten Member | 0.70% | ~18 |
 | Gregor Spinoza | 0.60% | ~15 |
 | Scientifically Accurate | 0.60% | ~15 |
-| Better Him Than Me | 0.40% | ~10 |
+| Better Him Than Me | 0.50% | ~13 |
 | Remember the Dead | 0.30% | ~8 |
 | Work Harder | 0.20% | ~5 |
 | Soylent Green | 0.20% | ~5 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 444)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,557 (Ranked 146)  
+Progressed: 2,558 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 2,488 | 0 |
 | 2023-06-08 | 2,515 | 0 |
 | 2023-06-09 | 2,541 | 0 |
-| 2023-06-10 | 2,557 | 0 |
+| 2023-06-10 | 2,558 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

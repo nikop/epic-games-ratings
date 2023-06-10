@@ -16,8 +16,8 @@
 | Go Home! | 75.00% | ~119 |
 | Look After the Pence... | 74.00% | ~118 |
 | Sergeant of the Evil | 74.00% | ~118 |
+| Brilliant: Meadowshire | 73.00% | ~116 |
 | Drunken Master | 73.00% | ~116 |
-| Brilliant: Meadowshire | 72.00% | ~114 |
 | V.I.P. Cemetery | 71.00% | ~113 |
 | Top of the World | 69.00% | ~110 |
 | Takeover | 69.00% | ~110 |

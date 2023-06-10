@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2956,
+  "EOS_Progressed": 2957,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1994,6 +1994,11 @@
       "Time": "2023-06-10T14:06:55.2252843+00:00",
       "NumProgressed": 2956,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-10T15:06:36.7534037+00:00",
+      "NumProgressed": 2957,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -2053,7 +2058,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "campaign10",
@@ -2085,7 +2090,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "campaign14",
@@ -2109,7 +2114,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "campaign17",
@@ -2141,7 +2146,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "campaign20",
@@ -2157,7 +2162,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "campaign4",
@@ -2181,7 +2186,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "campaign7",
@@ -2268,7 +2273,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2956,
+      "Progressed": 2957,
       "Completed": 9
     }
   ],
@@ -2276,8 +2281,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-10T14:06:55.2252838+00:00",
+  "LastChanged_Achievements": "2023-06-10T15:06:36.7534032+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:43.3295912+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:00:54.3432859+00:00",
-  "LastUpdate_Achievements": "2023-06-10T14:06:55.2253118+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:00:43.8349757+00:00",
+  "LastUpdate_Achievements": "2023-06-10T15:06:36.7534318+00:00"
 }

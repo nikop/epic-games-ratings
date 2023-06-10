@@ -15,7 +15,7 @@
 | The Veteran | 17.00% | ~72 |
 | The Traitor | 14.00% | ~59 |
 | The Spider | 13.00% | ~55 |
-| Good as Fish | 8.00% | ~34 |
+| Good as Fish | 9.00% | ~38 |
 | Her Eyes | 8.00% | ~34 |
 | Murderer | 8.00% | ~34 |
 | He's so Annoying | 7.00% | ~30 |
@@ -25,7 +25,7 @@
 | Master of the Old Game | 4.00% | ~17 |
 | So Silly! | 4.00% | ~17 |
 | Made a Song | 4.00% | ~17 |
-| So Tasty! | 3.00% | ~13 |
+| So Tasty! | 4.00% | ~17 |
 | Break a Leg! | 2.00% | ~8 |
 | And now we wish... | 2.00% | ~8 |
 | Sweet Darkness | 2.00% | ~8 |

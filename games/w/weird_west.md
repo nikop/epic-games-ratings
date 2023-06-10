@@ -51,8 +51,8 @@ Number of Ratings: 125  (23.09.2022)
 | Moondrunk | 3.00% | ~49 |
 | Lord Inut Sends His Regards | 2.00% | ~33 |
 | I Kicked a Bird and I Liked it | 1.00% | ~16 |
+| Hog Wild | 1.00% | ~16 |
 | 'Ma Barker | 1.00% | ~16 |
-| Hog Wild | 0.90% | ~15 |
 | Explorer | 0.40% | ~7 |
 | End the world | 0.40% | ~7 |
 | Moon Hunter | 0.40% | ~7 |

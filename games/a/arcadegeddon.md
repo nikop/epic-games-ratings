@@ -1,7 +1,7 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 566)  
+Rating: 4.49 (Ranked 565)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,12 +12,12 @@ Number of Ratings: 801  (23.09.2022)
 | Plug It In | 84.00% | ~6,017 |
 | Adventure Time | 80.00% | ~5,730 |
 | Playing With Power | 77.00% | ~5,516 |
-| Coup d'Etat | 58.00% | ~4,155 |
+| Coup d'Etat | 59.00% | ~4,226 |
 | You're Fired | 58.00% | ~4,155 |
 | Get Furious | 56.00% | ~4,011 |
 | Gunplay And Cosplay | 55.00% | ~3,940 |
 | Hacks In Stacks | 54.00% | ~3,868 |
-| Meching Enemies | 48.00% | ~3,438 |
+| Meching Enemies | 49.00% | ~3,510 |
 | Ticket Toddler | 45.00% | ~3,223 |
 | Booty Bashing | 44.00% | ~3,152 |
 | Here Comes a New Challenger | 38.00% | ~2,722 |
