@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 103.00% | ~96 |
-| Break no Sweat | 97.00% | ~90 |
-| Every little bit counts | 96.00% | ~89 |
-| Growth | 85.00% | ~79 |
+| Black Cat's Warning | 104.00% | ~96 |
+| Break no Sweat | 98.00% | ~90 |
+| Every little bit counts | 97.00% | ~89 |
+| Growth | 86.00% | ~79 |
 | Targeting the Enemy | 67.00% | ~62 |
-| Unavoidable | 62.00% | ~58 |
-| Revenge | 59.00% | ~55 |
+| Unavoidable | 63.00% | ~58 |
+| Revenge | 60.00% | ~55 |
 | Reunion | 40.00% | ~37 |
-| Fluke | 34.00% | ~32 |
-| Victor's Prejudice | 32.00% | ~30 |
-| Elimination | 31.00% | ~29 |
+| Fluke | 35.00% | ~32 |
+| Victor's Prejudice | 33.00% | ~30 |
+| Elimination | 32.00% | ~29 |
 | Memento | 29.00% | ~27 |
 | Excellent Driving Skills | 28.00% | ~26 |
 | Once Bitten, Twice Shy | 28.00% | ~26 |
@@ -25,7 +25,7 @@
 | Neutralize | 23.00% | ~21 |
 | Best in Dragon City | 22.00% | ~20 |
 | Walking into a Trap | 22.00% | ~20 |
-| Disdain | 19.00% | ~18 |
+| Disdain | 20.00% | ~18 |
 | Final Battle | 18.00% | ~17 |
 | Outsider's Profit | 18.00% | ~17 |
 | Reappearance | 15.00% | ~14 |
@@ -62,7 +62,7 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 280)  
+Progressed: 92 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |

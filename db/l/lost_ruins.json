@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 370,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -451,6 +451,11 @@
       "Time": "2023-06-10T17:06:04.9401619+00:00",
       "NumProgressed": 369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T18:05:48.4136113+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -582,7 +587,7 @@
       "Name": "Inquisitor",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Librarian",
@@ -662,7 +667,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Roughneck",
@@ -726,7 +731,7 @@
       "Name": "The Fallen",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "TheTrio",
@@ -740,9 +745,9 @@
       "ID": "TrapMaster",
       "SetID": "82505mn",
       "Name": "Trap Master",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "TreasureHunter",
@@ -781,7 +786,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 370,
       "Completed": 0
     }
   ],
@@ -789,8 +794,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-10T17:06:04.9401613+00:00",
+  "LastChanged_Achievements": "2023-06-10T18:05:48.4136108+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:58.7369732+00:00",
-  "LastUpdate_Ratings": "2023-06-10T16:59:32.4076165+00:00",
-  "LastUpdate_Achievements": "2023-06-10T17:06:04.9401956+00:00"
+  "LastUpdate_Ratings": "2023-06-10T17:59:25.3748878+00:00",
+  "LastUpdate_Achievements": "2023-06-10T18:05:48.4136425+00:00"
 }

@@ -6,35 +6,35 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,679 |
-| A Grove Replanted | 53.00% | ~3,482 |
-| Fields Watered | 41.00% | ~2,694 |
-| Seekers Found | 41.00% | ~2,694 |
-| Settling the Skies | 41.00% | ~2,694 |
-| Wind Powered | 40.00% | ~2,628 |
-| It Takes a Village | 34.00% | ~2,234 |
-| On the Town | 28.00% | ~1,840 |
-| Daylight Found | 25.00% | ~1,642 |
-| Irons Scorched | 25.00% | ~1,642 |
-| Islands Connected | 25.00% | ~1,642 |
-| Harp Tuned | 23.00% | ~1,511 |
-| Pyre Ignited | 23.00% | ~1,511 |
-| Travelers Returned | 23.00% | ~1,511 |
-| Hopes Hoisted | 22.00% | ~1,445 |
-| Knowledge Shared | 20.00% | ~1,314 |
-| Relic Finder | 20.00% | ~1,314 |
-| Worthy of the Title | 19.00% | ~1,248 |
-| A Peaceful Respite | 14.00% | ~920 |
-| Prophecy Fulfilled | 13.00% | ~854 |
-| A Learned Scholar | 12.00% | ~788 |
+| A Small Community | 56.00% | ~3,682 |
+| A Grove Replanted | 53.00% | ~3,485 |
+| Fields Watered | 41.00% | ~2,696 |
+| Seekers Found | 41.00% | ~2,696 |
+| Settling the Skies | 41.00% | ~2,696 |
+| Wind Powered | 40.00% | ~2,630 |
+| It Takes a Village | 34.00% | ~2,236 |
+| On the Town | 28.00% | ~1,841 |
+| Daylight Found | 25.00% | ~1,644 |
+| Irons Scorched | 25.00% | ~1,644 |
+| Islands Connected | 25.00% | ~1,644 |
+| Harp Tuned | 23.00% | ~1,512 |
+| Pyre Ignited | 23.00% | ~1,512 |
+| Travelers Returned | 23.00% | ~1,512 |
+| Hopes Hoisted | 22.00% | ~1,446 |
+| Knowledge Shared | 20.00% | ~1,315 |
+| Relic Finder | 20.00% | ~1,315 |
+| Worthy of the Title | 19.00% | ~1,249 |
+| A Peaceful Respite | 14.00% | ~921 |
+| Prophecy Fulfilled | 13.00% | ~855 |
+| A Learned Scholar | 12.00% | ~789 |
 | A Wanderer’s Guide | 11.00% | ~723 |
 | Knowledge Seeker | 7.00% | ~460 |
 | The Cycle Continues | 3.00% | ~197 |
-| Glowing Waters | 2.00% | ~131 |
-| Sparkling Alloys | 2.00% | ~131 |
-| A True Challenge | 2.00% | ~131 |
+| Glowing Waters | 2.00% | ~132 |
+| Sparkling Alloys | 2.00% | ~132 |
+| A True Challenge | 2.00% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,570 (Ranked 120)  
+Progressed: 6,575 (Ranked 120)  
 Completed: 52 (0.79%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 52 (0.79%) (Ranked 97)
 | 2023-06-07 | 6,542 | 52 |
 | 2023-06-08 | 6,550 | 52 |
 | 2023-06-09 | 6,554 | 52 |
-| 2023-06-10 | 6,570 | 52 |
+| 2023-06-10 | 6,575 | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

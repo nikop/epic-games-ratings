@@ -4,7 +4,7 @@
   "ProductSlug": "lunas-fishing-garden",
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 667,
+  "EOS_Progressed": 668,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.45,
+  "EOS_Completed_Percentage": 6.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.7835451+00:00",
@@ -50,6 +50,11 @@
     {
       "Time": "2023-05-13T10:06:07.3321655+00:00",
       "NumProgressed": 667,
+      "NumCompleted": 43
+    },
+    {
+      "Time": "2023-06-10T18:05:22.6747235+00:00",
+      "NumProgressed": 668,
       "NumCompleted": 43
     }
   ],
@@ -110,7 +115,7 @@
       "Name": "A Feel for the Reel",
       "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "3_master_angler",
@@ -173,7 +178,7 @@
     {
       "ID": "459695l",
       "IsBase": true,
-      "Progressed": 667,
+      "Progressed": 668,
       "Completed": 43
     }
   ],
@@ -181,8 +186,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-06-10T17:05:38.6896011+00:00",
+  "LastChanged_Achievements": "2023-06-10T18:05:22.6747229+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.6376+00:00",
-  "LastUpdate_Ratings": "2023-06-10T16:57:40.8865132+00:00",
-  "LastUpdate_Achievements": "2023-06-10T17:05:38.6896233+00:00"
+  "LastUpdate_Ratings": "2023-06-10T17:57:34.7249113+00:00",
+  "LastUpdate_Achievements": "2023-06-10T18:05:22.6747324+00:00"
 }

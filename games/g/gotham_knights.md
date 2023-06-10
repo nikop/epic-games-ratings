@@ -1,13 +1,13 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 848)  
+Rating: 4.18 (Ranked 841)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 5.00% | ~3,221 |
-| Har, Har, Har, Very Funny | 3.00% | ~1,932 |
-| Loose Ends | 3.00% | ~1,932 |
+| Har, Har, Har, Very Funny | 3.00% | ~1,933 |
+| Loose Ends | 3.00% | ~1,933 |
 | The Batman Family | 2.00% | ~1,288 |
 | Something in the Clay | 2.00% | ~1,288 |
 | The Show Mud Go On | 2.00% | ~1,288 |
@@ -38,8 +38,8 @@ Rating: 4.17 (Ranked 848)
 | Out of Their League | 0.80% | ~515 |
 | Drone You Out | 0.80% | ~515 |
 | Solid Alibi | 0.80% | ~515 |
-| Fusion Expert | 0.60% | ~386 |
-| Family Meeting | 0.60% | ~386 |
+| Fusion Expert | 0.60% | ~387 |
+| Family Meeting | 0.60% | ~387 |
 | Expert Crime Fighter | 0.50% | ~322 |
 | A Worthy Successor | 0.50% | ~322 |
 | Dressed to Impress | 0.40% | ~258 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 848)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,415 (Ranked 71)  
+Progressed: 64,421 (Ranked 71)  
 Completed: 95 (0.15%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,10 +118,10 @@ Completed: 95 (0.15%) (Ranked 156)
 | 2023-06-07 | 63,990 | 94 |
 | 2023-06-08 | 64,117 | 94 |
 | 2023-06-09 | 64,309 | 95 |
-| 2023-06-10 | 64,415 | 95 |
+| 2023-06-10 | 64,421 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,317  (Ranked 97)  
-Sum: 3,827 (Ranked 137)  
+Sum: 3,828 (Ranked 137)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -132,8 +132,8 @@ Diff (max vs sum): -40
 | This game has Amazing Characters | 192 |
 | This game has Diverse Characters | 185 |
 | This game has Amazing Storytelling | 183 |
+| This game is Great for Beginners | 181 |
 | This game is Highly Recommended | 181 |
-| This game is Great for Beginners | 180 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -247,4 +247,4 @@ Diff (max vs sum): -40
 | 2023-06-07 | 4.17 | 2,307 | 3,813 |
 | 2023-06-08 | 4.17 | 2,307 | 3,814 |
 | 2023-06-09 | 4.17 | 2,313 | 3,821 |
-| 2023-06-10 | 4.17 | 2,317 | 3,827 |
+| 2023-06-10 | 4.18 | 2,317 | 3,828 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "ACHIEVEMENT005",
       "SetID": "dejhjd5",
       "Name": "Magical Mineral Golem",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 373
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -605,8 +605,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-03-31T05:58:46.4032746+00:00",
-  "LastChanged_Achievements": "2023-06-10T17:06:08.3858778+00:00",
+  "LastChanged_Achievements": "2023-06-10T18:05:52.2863312+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:46.8286518+00:00",
-  "LastUpdate_Ratings": "2023-06-10T17:00:08.7696201+00:00",
-  "LastUpdate_Achievements": "2023-06-10T17:06:08.3859251+00:00"
+  "LastUpdate_Ratings": "2023-06-10T18:00:01.8462613+00:00",
+  "LastUpdate_Achievements": "2023-06-10T18:05:52.2863735+00:00"
 }

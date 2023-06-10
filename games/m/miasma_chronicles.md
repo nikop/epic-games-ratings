@@ -5,20 +5,20 @@ Rating: 4.30 (Ranked 764)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~988 |
-| Ranidaphobia | 75.00% | ~814 |
-| Aspiring Editor | 72.00% | ~782 |
+| First Blood | 91.00% | ~989 |
+| Ranidaphobia | 75.00% | ~815 |
+| Aspiring Editor | 72.00% | ~783 |
 | Gun for Hire | 67.00% | ~728 |
 | I am the law! | 59.00% | ~641 |
 | Lumberjack | 46.00% | ~500 |
-| Croaked | 41.00% | ~445 |
-| Limp Richard | 40.00% | ~434 |
-| From Darkness to Light | 40.00% | ~434 |
+| Croaked | 41.00% | ~446 |
+| Limp Richard | 40.00% | ~435 |
+| From Darkness to Light | 40.00% | ~435 |
 | Editor Adept | 38.00% | ~413 |
 | Exorcist | 38.00% | ~413 |
 | Firestarter | 37.00% | ~402 |
 | Giant Killer | 35.00% | ~380 |
-| Sensei | 33.00% | ~358 |
+| Sensei | 33.00% | ~359 |
 | The meaning of Kain | 32.00% | ~348 |
 | Technophobe | 29.00% | ~315 |
 | Recycler | 27.00% | ~293 |
@@ -27,10 +27,10 @@ Rating: 4.30 (Ranked 764)
 | Jarhead | 23.00% | ~250 |
 | Infiltrator | 22.00% | ~239 |
 | Pushing Daisy | 21.00% | ~228 |
-| Chain Killer | 19.00% | ~206 |
-| Experienced | 19.00% | ~206 |
-| There Can Be Only One! | 19.00% | ~206 |
-| Hold The Line | 18.00% | ~195 |
+| Chain Killer | 19.00% | ~207 |
+| Experienced | 19.00% | ~207 |
+| There Can Be Only One! | 19.00% | ~207 |
+| Hold The Line | 18.00% | ~196 |
 | Endgame | 16.00% | ~174 |
 | Savior | 16.00% | ~174 |
 | Newtonian Knockout | 14.00% | ~152 |
@@ -57,7 +57,7 @@ Rating: 4.30 (Ranked 764)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,086 (Ranked 171)  
+Progressed: 1,087 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 1,051 | 0 |
 | 2023-06-08 | 1,062 | 0 |
 | 2023-06-09 | 1,074 | 0 |
-| 2023-06-10 | 1,086 | 0 |
+| 2023-06-10 | 1,087 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

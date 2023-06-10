@@ -2780,7 +2780,7 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9731,
+  "EOS_Progressed": 9733,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
@@ -6135,6 +6135,11 @@
       "Time": "2023-06-10T17:06:12.5075195+00:00",
       "NumProgressed": 9731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T18:05:56.9412903+00:00",
+      "NumProgressed": 9733,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6146,7 +6151,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "02_BurningCity",
@@ -6154,7 +6159,7 @@
       "Name": "Burning City",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -6346,7 +6351,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "28_GreatUpstart",
@@ -7073,21 +7078,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8513,
+      "Progressed": 8515,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9731,
+      "Progressed": 9733,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-10T15:58:40.0429267+00:00",
-  "LastChanged_Achievements": "2023-06-10T17:06:12.5075188+00:00",
+  "LastChanged_Achievements": "2023-06-10T18:05:56.9412883+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-10T16:58:29.2656955+00:00",
-  "LastUpdate_Achievements": "2023-06-10T17:06:12.5076983+00:00"
+  "LastUpdate_Ratings": "2023-06-10T17:58:20.9184473+00:00",
+  "LastUpdate_Achievements": "2023-06-10T18:05:56.9414659+00:00"
 }

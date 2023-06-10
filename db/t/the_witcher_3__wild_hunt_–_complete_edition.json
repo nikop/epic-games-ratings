@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-05-14T14:00:00+00:00",
@@ -6263,10 +6263,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 38353,
       "NumberOfAwardsMax": 15749
+    },
+    {
+      "Time": "2023-06-10T17:59:11.557598+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 38363,
+      "NumberOfAwardsMax": 15749
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 38353,
+  "NumberOfAwards": 38363,
   "NumberOfAwardsMax": 15749,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6322,7 +6328,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 2206
+      "Count": 2216
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6354,8 +6360,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2023-06-10T14:59:40.9852219+00:00",
+  "LastChanged": "2023-06-10T17:59:11.5575979+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:41.6942268+00:00",
-  "LastUpdate_Ratings": "2023-06-10T16:59:19.4634021+00:00",
-  "LastUpdate_Achievements": "2023-06-10T17:03:45.5554819+00:00"
+  "LastUpdate_Ratings": "2023-06-10T17:59:11.5575985+00:00",
+  "LastUpdate_Achievements": "2023-06-10T18:03:30.4256608+00:00"
 }

@@ -9,30 +9,30 @@ Rating: 4.18 (Ranked 841)
 | The Outer Way | 12.00% | ~1,794 |
 | Desperate Times | 12.00% | ~1,794 |
 | Paper Jams | 10.00% | ~1,495 |
-| Chew 'Em Up | 9.00% | ~1,345 |
-| Reforged | 9.00% | ~1,345 |
+| Chew 'Em Up | 9.00% | ~1,346 |
+| Reforged | 9.00% | ~1,346 |
 | Workplace Hazard | 8.00% | ~1,196 |
 | If the SHU Fits... | 8.00% | ~1,196 |
-| Giving Back | 7.00% | ~1,046 |
+| Giving Back | 7.00% | ~1,047 |
 | Get a Grip | 6.00% | ~897 |
 | Without A Paddle | 6.00% | ~897 |
-| Terminated | 5.00% | ~747 |
-| In the Pipe, Five by Five | 5.00% | ~747 |
-| Crash Site | 5.00% | ~747 |
+| Terminated | 5.00% | ~748 |
+| In the Pipe, Five by Five | 5.00% | ~748 |
+| Crash Site | 5.00% | ~748 |
 | You Need a Gun | 4.00% | ~598 |
 | Two Heads Are Better Than One | 4.00% | ~598 |
 | Float Like A Butterfly | 4.00% | ~598 |
 | Power Up | 4.00% | ~598 |
 | Instigator | 4.00% | ~115 |
 | Big Game Hunter | 4.00% | ~115 |
-| The Commonality | 3.00% | ~448 |
-| What Lies Beneath | 3.00% | ~448 |
-| Full Circle | 3.00% | ~448 |
+| The Commonality | 3.00% | ~449 |
+| What Lies Beneath | 3.00% | ~449 |
+| Full Circle | 3.00% | ~449 |
 | Bear Trap | 3.00% | ~86 |
 | I Do Belong Here | 2.00% | ~299 |
 | In Striking Distance | 2.00% | ~299 |
 | Mugshot | 2.00% | ~299 |
-| Big Spender | 2.00% | ~57 |
+| Big Spender | 2.00% | ~58 |
 | Parole Denied | 1.00% | ~29 |
 | Hoard Mode | 1.00% | ~29 |
 | Grim Reaper | 0.80% | ~120 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 841)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,947 (Ranked 104)  
+Progressed: 14,952 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 54 (0.36%) (Ranked 122)
 | 2023-06-07 | 14,702 | 54 |
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
-| 2023-06-10 | 14,947 | 54 |
+| 2023-06-10 | 14,952 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
 Sum: 301 (Ranked 328)  

@@ -5,30 +5,30 @@ Rating: 3.80 (Ranked 927)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,358 |
-| The First Step | 88.00% | ~1,220 |
-| Moonbury Traveller | 63.00% | ~873 |
-| Rookie Chemist | 62.00% | ~859 |
-| Great Doctor | 50.00% | ~693 |
-| Dog Whisperer | 48.00% | ~665 |
+| Welcome to Moonbury | 98.00% | ~1,359 |
+| The First Step | 88.00% | ~1,221 |
+| Moonbury Traveller | 63.00% | ~874 |
+| Rookie Chemist | 62.00% | ~860 |
+| Great Doctor | 50.00% | ~694 |
+| Dog Whisperer | 48.00% | ~666 |
 | Friendly | 46.00% | ~638 |
-| The Capitalist | 42.00% | ~582 |
-| K.O.! | 41.00% | ~568 |
+| The Capitalist | 42.00% | ~583 |
+| K.O.! | 41.00% | ~569 |
 | Intermediate Chemist | 38.00% | ~527 |
 | Decorative Mind | 31.00% | ~430 |
 | Lumber Specialist | 29.00% | ~402 |
 | Catch of the Day | 23.00% | ~319 |
 | Kind-hearted | 22.00% | ~305 |
 | Amateur Chef | 20.00% | ~277 |
-| Fishing Guru | 18.00% | ~249 |
+| Fishing Guru | 18.00% | ~250 |
 | Community Helper | 16.00% | ~222 |
-| Spark of Love | 15.00% | ~208 |
+| Spark of Love | 14.00% | ~194 |
 | Expert Chemist | 12.00% | ~166 |
 | Stone Specialist | 12.00% | ~166 |
-| Line Cook | 11.00% | ~152 |
-| Sociable | 11.00% | ~152 |
-| Ablutomaniac | 11.00% | ~152 |
-| Production Sorter | 11.00% | ~152 |
+| Line Cook | 11.00% | ~153 |
+| Sociable | 11.00% | ~153 |
+| Ablutomaniac | 11.00% | ~153 |
+| Production Sorter | 11.00% | ~153 |
 | Good Samaritan | 10.00% | ~139 |
 | Acrobatic Adventurer | 8.00% | ~111 |
 | Animal Exterminator | 7.00% | ~97 |
@@ -44,7 +44,7 @@ Rating: 3.80 (Ranked 927)
 | Moonbury Navigator | 0.80% | ~11 |
 | Being a donut... | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,386 (Ranked 162)  
+Progressed: 1,387 (Ranked 162)  
 Completed: 6 (0.43%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 6 (0.43%) (Ranked 118)
 | 2023-06-07 | 1,366 | 6 |
 | 2023-06-08 | 1,372 | 6 |
 | 2023-06-09 | 1,379 | 6 |
-| 2023-06-10 | 1,386 | 6 |
+| 2023-06-10 | 1,387 | 6 |
 ## Awards
 Max (Character Customization): 66  (Ranked 370)  
 Sum: 66 (Ranked 427)  

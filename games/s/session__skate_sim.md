@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 55.00% | ~1,296 |
+| You're free now! | 55.00% | ~1,297 |
 | Keeping it classy | 24.00% | ~566 |
 | Welcome to the family | 18.00% | ~424 |
 | The finer things in life | 16.00% | ~377 |
@@ -48,14 +48,14 @@ Number of Ratings: 111  (23.09.2022)
 | Pew-Pew | 2.00% | ~47 |
 | Dipped! | 1.00% | ~24 |
 | That was wheelie fun | 1.00% | ~24 |
-| Skatepark hero | 0.70% | ~16 |
+| Skatepark hero | 0.70% | ~17 |
 | That's how it's done! | 0.10% | ~2 |
 | Ultimate skate nerd | 0.10% | ~2 |
 | Bing Bong! | 0.00% | ~0 |
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,357 (Ranked 149)  
+Progressed: 2,358 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 2,306 | 0 |
 | 2023-06-08 | 2,327 | 0 |
 | 2023-06-09 | 2,344 | 0 |
-| 2023-06-10 | 2,357 | 0 |
+| 2023-06-10 | 2,358 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 398)  
 Sum: 421 (Ranked 300)  

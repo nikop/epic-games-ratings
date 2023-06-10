@@ -12,7 +12,7 @@ Number of Ratings: 48  (23.09.2022)
 | Amateur Adventurer | 65.00% | ~433 |
 | The Road to Recovery | 64.00% | ~426 |
 | Partners? | 62.00% | ~413 |
-| Magical Mineral Golem | 55.00% | ~366 |
+| Magical Mineral Golem | 56.00% | ~373 |
 | On Outlander Lane | 55.00% | ~366 |
 | First Time Fishing | 52.00% | ~346 |
 | A Girl About the Town | 51.00% | ~340 |

@@ -682,9 +682,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2357,
+  "EOS_Progressed": 2358,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2342,6 +2342,11 @@
       "Time": "2023-06-10T17:05:52.9517961+00:00",
       "NumProgressed": 2357,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T18:05:36.7061851+00:00",
+      "NumProgressed": 2358,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2601,7 +2606,7 @@
       "Name": "Skatepark hero",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SQUAD-GOALS",
@@ -2729,22 +2734,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2357,
+      "Progressed": 2358,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-09T15:59:24.8887834+00:00",
-  "LastChanged_Achievements": "2023-06-10T17:05:52.9517954+00:00",
+  "LastChanged_Achievements": "2023-06-10T18:05:36.7061846+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:26.2561369+00:00",
-  "LastUpdate_Ratings": "2023-06-10T16:59:08.1770305+00:00",
-  "LastUpdate_Achievements": "2023-06-10T17:05:52.9518662+00:00"
+  "LastUpdate_Ratings": "2023-06-10T17:58:59.9882368+00:00",
+  "LastUpdate_Achievements": "2023-06-10T18:05:36.7062355+00:00"
 }

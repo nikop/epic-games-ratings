@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adventure Time | 97.00% | ~33 |
-| Master Of The Arts | 71.00% | ~24 |
+| Master Of The Arts | 74.00% | ~25 |
 | Close Call | 24.00% | ~8 |
 | Getting Good At This | 15.00% | ~5 |
 | Five Of A Kind | 9.00% | ~3 |

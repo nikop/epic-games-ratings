@@ -7,9 +7,9 @@
 | Good Start | 77.00% | ~10 |
 | Constructor | 77.00% | ~10 |
 | Happy Ending | 77.00% | ~10 |
-| 10 is good! | 46.00% | ~6 |
-| 1 Hour! | 46.00% | ~6 |
-| One-quarter mark | 31.00% | ~4 |
+| 10 is good! | 54.00% | ~7 |
+| 1 Hour! | 54.00% | ~7 |
+| One-quarter mark | 38.00% | ~5 |
 | 10 Hours! | 15.00% | ~2 |
 | Half way! | 15.00% | ~2 |
 | Almost there! | 15.00% | ~2 |

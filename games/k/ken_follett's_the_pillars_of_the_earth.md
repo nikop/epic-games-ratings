@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,518 |
+| Tattletale | 42.00% | ~5,519 |
 | Man of politics | 35.00% | ~4,599 |
-| Friends of sorts | 34.00% | ~4,467 |
-| Yet another secret | 34.00% | ~4,467 |
+| Friends of sorts | 34.00% | ~4,468 |
+| Yet another secret | 34.00% | ~4,468 |
 | Let there be darkness | 33.00% | ~4,336 |
 | End of Book One | 31.00% | ~4,073 |
 | Garden of Eden | 25.00% | ~3,285 |
-| Wannabe knight | 24.00% | ~3,153 |
-| Full house | 24.00% | ~3,153 |
+| Wannabe knight | 24.00% | ~3,154 |
+| Full house | 24.00% | ~3,154 |
 | Help an old friend | 22.00% | ~2,891 |
 | Two of us | 20.00% | ~2,628 |
-| Negotiation skills | 19.00% | ~2,496 |
-| Workers' union | 19.00% | ~2,496 |
+| Negotiation skills | 19.00% | ~2,497 |
+| Workers' union | 19.00% | ~2,497 |
 | End of Book Two | 18.00% | ~2,365 |
 | Everything's in order | 17.00% | ~2,234 |
 | Jack was here! | 15.00% | ~1,971 |
-| Twist of Fate | 14.00% | ~1,839 |
-| Exterminator | 14.00% | ~1,839 |
+| Twist of Fate | 14.00% | ~1,840 |
+| Exterminator | 14.00% | ~1,840 |
 | Whodunnit | 13.00% | ~1,708 |
 | Good midwife | 11.00% | ~1,445 |
 | Friar Tuck | 11.00% | ~1,445 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~394 |
 | Boy of mystery | 2.00% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,139 (Ranked 106)  
+Progressed: 13,140 (Ranked 106)  
 Completed: 99 (0.75%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 99 (0.75%) (Ranked 100)
 | 2023-06-07 | 13,061 | 99 |
 | 2023-06-08 | 13,089 | 99 |
 | 2023-06-09 | 13,111 | 99 |
-| 2023-06-10 | 13,139 | 99 |
+| 2023-06-10 | 13,140 | 99 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 288)  
 Sum: 188 (Ranked 359)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6408,
+  "EOS_Progressed": 6409,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
@@ -3303,6 +3303,11 @@
       "Time": "2023-06-10T17:05:41.388777+00:00",
       "NumProgressed": 6408,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-10T18:05:25.2640499+00:00",
+      "NumProgressed": 6409,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -3354,7 +3359,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ENERGY_SAVER",
@@ -3402,7 +3407,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ICONOCLAST",
@@ -3458,7 +3463,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -3481,7 +3486,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6408,
+      "Progressed": 6409,
       "Completed": 23
     }
   ],
@@ -3489,8 +3494,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-10T17:05:41.3887764+00:00",
+  "LastChanged_Achievements": "2023-06-10T18:05:25.2640494+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-10T16:58:09.2623565+00:00",
-  "LastUpdate_Achievements": "2023-06-10T17:05:41.3888094+00:00"
+  "LastUpdate_Ratings": "2023-06-10T17:58:00.7571324+00:00",
+  "LastUpdate_Achievements": "2023-06-10T18:05:25.264081+00:00"
 }

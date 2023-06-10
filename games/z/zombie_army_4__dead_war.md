@@ -6,63 +6,63 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~29,041 |
-| Say goodbye, creep! | 65.00% | ~27,760 |
-| Blood splattered | 65.00% | ~27,760 |
-| Choo choo! | 62.00% | ~26,478 |
-| Groovy | 61.00% | ~26,051 |
-| Cleanup on aisle 4! | 56.00% | ~23,916 |
-| Gold | 50.00% | ~21,354 |
-| The boat can leave now...tell the crew | 48.00% | ~20,499 |
-| Give me something to shoot! | 46.00% | ~19,645 |
-| Stand back boy! | 46.00% | ~19,645 |
-| Weird science | 44.00% | ~18,791 |
-| Chain reaction | 44.00% | ~18,791 |
-| Look mummy! A shark! | 41.00% | ~17,510 |
-| What did you say, Blain? | 41.00% | ~17,510 |
-| In the dark dark woods... | 38.00% | ~16,229 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,229 |
-| Double tap | 37.00% | ~15,802 |
-| Cranial blowout! | 36.00% | ~15,375 |
-| Zombie killin' machine | 36.00% | ~15,375 |
-| Every bullet counts | 36.00% | ~15,375 |
-| All of this has happened before… | 35.00% | ~14,947 |
-| You've got red on you | 34.00% | ~14,520 |
-| All roads lead to Rome | 33.00% | ~14,093 |
-| You're all going to die down here | 31.00% | ~13,239 |
-| He did Nazi that coming | 31.00% | ~13,239 |
-| Kill of the week | 31.00% | ~13,239 |
-| I never liked them anyway | 30.00% | ~12,812 |
-| Is it over? | 28.00% | ~11,958 |
-| Got your back | 27.00% | ~11,531 |
-| Gore soaked | 24.00% | ~10,250 |
-| Shock therapy | 22.00% | ~9,396 |
-| Leave the limbs you've lost | 22.00% | ~9,396 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,687 |
-| Take them down screaming | 18.00% | ~7,687 |
-| Weapons expert | 17.00% | ~7,260 |
-| Bad Blood | 16.00% | ~6,833 |
-| The bigger they are... | 15.00% | ~6,406 |
-| I'm going deeper underground | 14.00% | ~5,979 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~29,044 |
+| Say goodbye, creep! | 65.00% | ~27,763 |
+| Blood splattered | 65.00% | ~27,763 |
+| Choo choo! | 62.00% | ~26,481 |
+| Groovy | 61.00% | ~26,054 |
+| Cleanup on aisle 4! | 56.00% | ~23,919 |
+| Gold | 50.00% | ~21,356 |
+| The boat can leave now...tell the crew | 48.00% | ~20,502 |
+| Give me something to shoot! | 46.00% | ~19,648 |
+| Stand back boy! | 46.00% | ~19,648 |
+| Weird science | 44.00% | ~18,793 |
+| Chain reaction | 44.00% | ~18,793 |
+| Look mummy! A shark! | 41.00% | ~17,512 |
+| What did you say, Blain? | 41.00% | ~17,512 |
+| In the dark dark woods... | 38.00% | ~16,231 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,231 |
+| Double tap | 37.00% | ~15,803 |
+| Cranial blowout! | 36.00% | ~15,376 |
+| Zombie killin' machine | 36.00% | ~15,376 |
+| Every bullet counts | 36.00% | ~15,376 |
+| All of this has happened before… | 35.00% | ~14,949 |
+| You've got red on you | 34.00% | ~14,522 |
+| All roads lead to Rome | 33.00% | ~14,095 |
+| You're all going to die down here | 31.00% | ~13,241 |
+| He did Nazi that coming | 31.00% | ~13,241 |
+| Kill of the week | 31.00% | ~13,241 |
+| I never liked them anyway | 30.00% | ~12,814 |
+| Is it over? | 28.00% | ~11,959 |
+| Got your back | 27.00% | ~11,532 |
+| Gore soaked | 24.00% | ~10,251 |
+| Shock therapy | 22.00% | ~9,397 |
+| Leave the limbs you've lost | 22.00% | ~9,397 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,688 |
+| Take them down screaming | 18.00% | ~7,688 |
+| Weapons expert | 17.00% | ~7,261 |
+| Bad Blood | 16.00% | ~6,834 |
+| The bigger they are... | 15.00% | ~6,407 |
+| I'm going deeper underground | 14.00% | ~5,980 |
 | Well equipped | 12.00% | ~5,125 |
 | Into the deep | 12.00% | ~5,125 |
 | Damnedbusters | 9.00% | ~3,844 |
 | I can do anything I want. I got guns | 8.00% | ~3,417 |
 | Send me an angel | 8.00% | ~3,417 |
-| Plane sailing | 7.00% | ~2,989 |
-| This is no Sunday School picnic! | 7.00% | ~2,989 |
-| I never redoubted you! | 7.00% | ~2,989 |
-| Gotcha, didn't I? | 7.00% | ~2,989 |
-| A gross gross | 7.00% | ~2,989 |
-| Hail to the king, baby! | 7.00% | ~2,989 |
-| Something wicked this way comes | 6.00% | ~2,562 |
-| Not today you won't | 6.00% | ~2,562 |
-| Take a little bit of Italy with you | 6.00% | ~2,562 |
-| Staring at Shadows | 6.00% | ~2,562 |
-| Hoarder | 6.00% | ~2,562 |
-| Kali Ma | 5.00% | ~2,135 |
-| I told you we should have gone to the beach | 5.00% | ~2,135 |
-| Have you tried turning it off and on again? | 5.00% | ~2,135 |
+| Plane sailing | 7.00% | ~2,990 |
+| This is no Sunday School picnic! | 7.00% | ~2,990 |
+| I never redoubted you! | 7.00% | ~2,990 |
+| Gotcha, didn't I? | 7.00% | ~2,990 |
+| A gross gross | 7.00% | ~2,990 |
+| Hail to the king, baby! | 7.00% | ~2,990 |
+| Something wicked this way comes | 6.00% | ~2,563 |
+| Not today you won't | 6.00% | ~2,563 |
+| Take a little bit of Italy with you | 6.00% | ~2,563 |
+| Staring at Shadows | 6.00% | ~2,563 |
+| Hoarder | 6.00% | ~2,563 |
+| Kali Ma | 5.00% | ~2,136 |
+| I told you we should have gone to the beach | 5.00% | ~2,136 |
+| Have you tried turning it off and on again? | 5.00% | ~2,136 |
 | They're coming to get you Barbara | 4.00% | ~1,708 |
 | Total protonic reversal | 4.00% | ~1,708 |
 | A friend in need | 4.00% | ~1,708 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~427 |
 | None more hard | 0.50% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,707 (Ranked 84)  
+Progressed: 42,712 (Ranked 84)  
 Completed: 25 (0.06%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,14 +124,14 @@ Completed: 25 (0.06%) (Ranked 180)
 | 2023-06-07 | 42,643 | 25 |
 | 2023-06-08 | 42,670 | 25 |
 | 2023-06-09 | 42,686 | 25 |
-| 2023-06-10 | 42,707 | 25 |
+| 2023-06-10 | 42,712 | 25 |
 ## Awards
-Max (Great Boss Battles): 786  (Ranked 147)  
-Sum: 2,401 (Ranked 168)  
+Max (Great Boss Battles): 788  (Ranked 147)  
+Sum: 2,403 (Ranked 168)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 786 |
+| This game has Great Boss Battles | 788 |
 | This game is Great for Beginners | 243 |
 | This game has Amazing Storytelling | 205 |
 | This game has Diverse Characters | 205 |
@@ -276,4 +276,4 @@ Diff (max vs sum): -21
 | 2023-06-06 | 4.69 | - | 783 | 2,392 |
 | 2023-06-08 | 4.69 | - | 786 | 2,397 |
 | 2023-06-09 | 4.69 | - | 786 | 2,399 |
-| 2023-06-10 | 4.69 | - | 786 | 2,401 |
+| 2023-06-10 | 4.69 | - | 788 | 2,403 |

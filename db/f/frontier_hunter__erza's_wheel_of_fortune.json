@@ -365,17 +365,17 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "7pimpda",
       "Name": "Berserker Slayer",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_42",
       "SetID": "7pimpda",
       "Name": "Giantess Slayer",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -462,8 +462,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-06-10T17:05:48.9412881+00:00",
+  "LastChanged_Achievements": "2023-06-10T18:05:32.8390867+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:08.1623296+00:00",
-  "LastUpdate_Ratings": "2023-06-10T16:59:39.0394653+00:00",
-  "LastUpdate_Achievements": "2023-06-10T17:05:48.9413247+00:00"
+  "LastUpdate_Ratings": "2023-06-10T17:59:32.0518981+00:00",
+  "LastUpdate_Achievements": "2023-06-10T18:05:32.8391246+00:00"
 }

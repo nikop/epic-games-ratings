@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.12,
+  "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -81,6 +81,11 @@
       "Time": "2023-06-09T02:28:08.2709421+00:00",
       "NumProgressed": 128,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-10T18:05:31.9223685+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 21,
@@ -90,9 +95,9 @@
       "ID": "Attuned",
       "SetID": "4nce15l",
       "Name": "Attuned",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 46
     },
     {
       "ID": "BeginningOfTheEnd",
@@ -122,9 +127,9 @@
       "ID": "Determined",
       "SetID": "4nce15l",
       "Name": "Determined",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "EmpyreanChampion",
@@ -156,15 +161,15 @@
       "Name": "Geared",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "GettingItDone",
       "SetID": "4nce15l",
       "Name": "Gettin\u0027 It Done",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 68
     },
     {
       "ID": "MasterCrafter",
@@ -178,9 +183,9 @@
       "ID": "MasterTrader",
       "SetID": "4nce15l",
       "Name": "Master Trader",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "MysteriesOfRin",
@@ -202,9 +207,9 @@
       "ID": "Overpowered",
       "SetID": "4nce15l",
       "Name": "Overpowered",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 104
     },
     {
       "ID": "Patience",
@@ -244,22 +249,22 @@
       "Name": "Specialist",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Teamwork",
       "SetID": "4nce15l",
       "Name": "Teamwork",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 4
     }
   ],
@@ -267,8 +272,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-10T17:05:48.055205+00:00",
+  "LastChanged_Achievements": "2023-06-10T18:05:31.9223678+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.4817304+00:00",
-  "LastUpdate_Ratings": "2023-06-10T16:59:04.0826427+00:00",
-  "LastUpdate_Achievements": "2023-06-10T17:05:48.0552196+00:00"
+  "LastUpdate_Ratings": "2023-06-10T17:58:56.4129719+00:00",
+  "LastUpdate_Achievements": "2023-06-10T18:05:31.9223833+00:00"
 }

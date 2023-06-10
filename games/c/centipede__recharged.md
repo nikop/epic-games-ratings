@@ -6,8 +6,8 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shooting Shark | 51.00% | ~7,356 |
-| Make Rock Not War | 43.00% | ~6,202 |
+| Shooting Shark | 51.00% | ~7,357 |
+| Make Rock Not War | 43.00% | ~6,203 |
 | Sole Survivor | 37.00% | ~5,337 |
 | Fireworks | 33.00% | ~4,760 |
 | Burning For You | 29.00% | ~4,183 |
@@ -19,11 +19,11 @@ Number of Ratings: 76  (23.09.2022)
 | Eyes On Fire | 13.00% | ~1,875 |
 | Harvester Of Eyes | 7.00% | ~1,010 |
 | The Reaper | 7.00% | ~1,010 |
-| Feel The Thunder | 6.00% | ~865 |
+| Feel The Thunder | 6.00% | ~866 |
 | Shadow Warrior | 2.00% | ~288 |
 | Mirrors | 1.00% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,424 (Ranked 105)  
+Progressed: 14,425 (Ranked 105)  
 Completed: 93 (0.64%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 93 (0.64%) (Ranked 109)
 | 2023-06-07 | 14,335 | 92 |
 | 2023-06-08 | 14,373 | 92 |
 | 2023-06-09 | 14,405 | 93 |
-| 2023-06-10 | 14,424 | 93 |
+| 2023-06-10 | 14,425 | 93 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

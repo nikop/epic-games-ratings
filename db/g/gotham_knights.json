@@ -2,20 +2,20 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 848,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -1386,10 +1386,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3827,
       "NumberOfAwardsMax": 2317
+    },
+    {
+      "Time": "2023-06-10T17:59:34.3715801+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 3828,
+      "NumberOfAwardsMax": 2317
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3827,
+  "NumberOfAwards": 3828,
   "NumberOfAwardsMax": 2317,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1415,7 +1421,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 180
+      "Count": 181
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1454,9 +1460,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64415,
+  "EOS_Progressed": 64421,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 998,
+  "EOS_NewPlayers": 994,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5789,6 +5795,11 @@
       "Time": "2023-06-10T17:06:09.1397712+00:00",
       "NumProgressed": 64415,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-10T18:05:53.2940686+00:00",
+      "NumProgressed": 64421,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -5944,7 +5955,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -6000,7 +6011,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -6104,7 +6115,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "HARLEY_2",
@@ -6192,7 +6203,7 @@
       "Name": "Loose Ends",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "MYSTERY_02",
@@ -6287,22 +6298,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64415,
+      "Progressed": 64421,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34695,
+      "Progressed": 34701,
       "Completed": 2646
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-10T13:02:47.2242218+00:00",
-  "LastChanged_Achievements": "2023-06-10T17:06:09.1397707+00:00",
+  "LastChanged": "2023-06-10T17:59:34.37158+00:00",
+  "LastChanged_Achievements": "2023-06-10T18:05:53.2940682+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-10T16:59:41.4775813+00:00",
-  "LastUpdate_Achievements": "2023-06-10T17:06:09.1398528+00:00"
+  "LastUpdate_Ratings": "2023-06-10T17:59:34.3715812+00:00",
+  "LastUpdate_Achievements": "2023-06-10T18:05:53.2941525+00:00"
 }

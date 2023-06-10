@@ -26,10 +26,10 @@
 | Oh My Gourd | 11.00% | ~6 |
 | Summers Here | 11.00% | ~6 |
 | Skin Of Your Teeth | 9.00% | ~9 |
+| Pyromaniac | 9.00% | ~5 |
 | Eggtraordinary | 8.00% | ~8 |
 | Perfect | 8.00% | ~4 |
 | Expert Survivor | 8.00% | ~4 |
-| Pyromaniac | 8.00% | ~4 |
 | Quit Horsin' Around | 7.00% | ~7 |
 | Quadsparagus | 7.00% | ~4 |
 | Pork Chop Express | 6.00% | ~6 |

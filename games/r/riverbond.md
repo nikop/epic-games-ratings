@@ -6,42 +6,42 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~363,279 |
-| Now You're Talking | 62.00% | ~321,761 |
-| Steel Yourself | 62.00% | ~321,761 |
-| Window Dressing | 50.00% | ~259,485 |
-| Trigger Happy | 46.00% | ~238,726 |
-| Riverborn | 45.00% | ~233,536 |
-| Starry Eyed | 34.00% | ~176,450 |
-| Poking Around | 34.00% | ~176,450 |
-| Talk of the Town | 24.00% | ~124,553 |
-| AAARR! | 23.00% | ~119,363 |
-| Hello Darkness | 23.00% | ~119,363 |
-| Wind At Our Backs | 22.00% | ~114,173 |
-| To the Beat | 20.00% | ~103,794 |
-| Sunny Shores | 17.00% | ~88,225 |
-| To Victory! | 15.00% | ~77,846 |
-| Sunday Best | 15.00% | ~77,846 |
-| Two of a Kind | 14.00% | ~72,656 |
-| Keep On Trucking | 13.00% | ~67,466 |
-| Going on an Adventure | 11.00% | ~57,087 |
-| Make Peace, Not War | 11.00% | ~57,087 |
-| Walking The Line | 10.00% | ~51,897 |
-| Not So Cute Anymore | 10.00% | ~51,897 |
-| Road Less Travelled | 9.00% | ~46,707 |
-| Lost and Found | 9.00% | ~46,707 |
-| Partner in Crime | 7.00% | ~36,328 |
-| Hard to Hear | 7.00% | ~36,328 |
-| Under the Radar | 7.00% | ~36,328 |
-| Moving On Up | 6.00% | ~31,138 |
-| Owl Knows Best | 6.00% | ~31,138 |
-| Mind the Moose | 6.00% | ~31,138 |
-| Dressed to Kill | 6.00% | ~31,138 |
-| Beast Mode | 6.00% | ~31,138 |
-| Oh, Romeo! | 5.00% | ~25,948 |
-| Noble Intentions | 5.00% | ~25,948 |
-| Rising Star | 5.00% | ~25,948 |
-| Slime Slayer | 5.00% | ~25,948 |
+| First Step | 70.00% | ~363,287 |
+| Now You're Talking | 62.00% | ~321,769 |
+| Steel Yourself | 62.00% | ~321,769 |
+| Window Dressing | 50.00% | ~259,491 |
+| Trigger Happy | 46.00% | ~238,732 |
+| Riverborn | 45.00% | ~233,542 |
+| Starry Eyed | 34.00% | ~176,454 |
+| Poking Around | 34.00% | ~176,454 |
+| Talk of the Town | 24.00% | ~124,556 |
+| AAARR! | 23.00% | ~119,366 |
+| Hello Darkness | 23.00% | ~119,366 |
+| Wind At Our Backs | 22.00% | ~114,176 |
+| To the Beat | 20.00% | ~103,796 |
+| Sunny Shores | 17.00% | ~88,227 |
+| To Victory! | 15.00% | ~77,847 |
+| Sunday Best | 15.00% | ~77,847 |
+| Two of a Kind | 14.00% | ~72,657 |
+| Keep On Trucking | 13.00% | ~67,468 |
+| Going on an Adventure | 11.00% | ~57,088 |
+| Make Peace, Not War | 11.00% | ~57,088 |
+| Walking The Line | 10.00% | ~51,898 |
+| Not So Cute Anymore | 10.00% | ~51,898 |
+| Road Less Travelled | 9.00% | ~46,708 |
+| Lost and Found | 9.00% | ~46,708 |
+| Partner in Crime | 7.00% | ~36,329 |
+| Hard to Hear | 7.00% | ~36,329 |
+| Under the Radar | 7.00% | ~36,329 |
+| Moving On Up | 6.00% | ~31,139 |
+| Owl Knows Best | 6.00% | ~31,139 |
+| Mind the Moose | 6.00% | ~31,139 |
+| Dressed to Kill | 6.00% | ~31,139 |
+| Beast Mode | 6.00% | ~31,139 |
+| Oh, Romeo! | 5.00% | ~25,949 |
+| Noble Intentions | 5.00% | ~25,949 |
+| Rising Star | 5.00% | ~25,949 |
+| Slime Slayer | 5.00% | ~25,949 |
 | Privacy, Please! | 4.00% | ~20,759 |
 | Silky Smooth | 4.00% | ~20,759 |
 | Hash It Over | 4.00% | ~20,759 |
@@ -54,17 +54,17 @@ Number of Ratings: 617  (23.09.2022)
 | Page Turner | 3.00% | ~15,569 |
 | Spinal Adjustment | 3.00% | ~15,569 |
 | The Knowledge | 3.00% | ~15,569 |
-| Seek the Rainbow | 2.00% | ~10,379 |
-| Words of Truth | 2.00% | ~10,379 |
-| Star Power | 2.00% | ~10,379 |
-| Justice Served | 2.00% | ~10,379 |
+| Seek the Rainbow | 2.00% | ~10,380 |
+| Words of Truth | 2.00% | ~10,380 |
+| Star Power | 2.00% | ~10,380 |
+| Justice Served | 2.00% | ~10,380 |
 | Don't Care | 1.00% | ~5,190 |
 | Don’t Get Crabby | 1.00% | ~5,190 |
 | Written in the Stars | 0.90% | ~4,671 |
 | Boss of All Bosses | 0.30% | ~1,557 |
 | Point Taken | 0.10% | ~519 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518,970 (Ranked 28)  
+Progressed: 518,982 (Ranked 28)  
 Completed: 422 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 422 (0.08%) (Ranked 173)
 | 2023-06-07 | 518,687 | 421 |
 | 2023-06-08 | 518,771 | 422 |
 | 2023-06-09 | 518,885 | 422 |
-| 2023-06-10 | 518,970 | 422 |
+| 2023-06-10 | 518,982 | 422 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
