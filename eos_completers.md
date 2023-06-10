@@ -38,8 +38,8 @@
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.89% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
-| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
-| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.81% |
+| 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.81% |
+| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
 | 41 | [Doodle God](games/d/doodle_god.md) | 3.79% |
 | 42 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
@@ -56,7 +56,7 @@
 | 53 | [Lamentum](games/l/lamentum.md) | 2.79% |
 | 55 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 57 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.71% |
+| 57 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.70% |
 | 58 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.67% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 59 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.53% |
@@ -91,7 +91,7 @@
 | 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
 | 90 | [Late Shift](games/l/late_shift.md) | 0.99% |
 | 91 | [Five Dates](games/f/five_dates.md) | 0.95% |
-| 91 | [Sable](games/s/sable.md) | 0.95% |
+| 92 | [Sable](games/s/sable.md) | 0.94% |
 | 93 | [Hades](games/h/hades.md) | 0.89% |
 | 94 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
 | 95 | [Adios](games/a/adios.md) | 0.86% |
@@ -156,11 +156,11 @@
 | 152 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
 | 152 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 156 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 157 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
 | 157 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
 | 157 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
 | 157 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 161 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 160 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.13% |
+| 160 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 162 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 162 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.12% |
 | 164 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
