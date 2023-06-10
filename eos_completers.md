@@ -8,7 +8,7 @@
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 20.00% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
-| 9 | [Island Cities](games/i/island_cities.md) | 16.23% |
+| 9 | [Island Cities](games/i/island_cities.md) | 16.18% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
@@ -24,7 +24,7 @@
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.64% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.63% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.92% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.88% |
 | 28 | [Scorn](games/s/scorn.md) | 6.82% |
@@ -56,11 +56,11 @@
 | 53 | [Lamentum](games/l/lamentum.md) | 2.79% |
 | 55 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 57 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.69% |
-| 58 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.67% |
+| 57 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.68% |
+| 58 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.66% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 59 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.53% |
-| 61 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 60 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.50% |
+| 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 62 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
 | 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.22% |
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
@@ -74,13 +74,13 @@
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.74% |
 | 73 | [Poosh XL](games/p/poosh_xl.md) | 1.67% |
 | 74 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 75 | [Somerville](games/s/somerville.md) | 1.59% |
+| 75 | [Somerville](games/s/somerville.md) | 1.58% |
 | 76 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
 | 77 | [Night Book](games/n/night_book.md) | 1.52% |
 | 78 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 79 | [Frogun](games/f/frogun.md) | 1.50% |
 | 80 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.33% |
-| 81 | [Ten Dates](games/t/ten_dates.md) | 1.26% |
+| 81 | [Ten Dates](games/t/ten_dates.md) | 1.25% |
 | 82 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.23% |
 | 83 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 84 | [Chorus](games/c/chorus.md) | 1.16% |
@@ -91,7 +91,7 @@
 | 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
 | 90 | [Late Shift](games/l/late_shift.md) | 0.99% |
 | 91 | [Five Dates](games/f/five_dates.md) | 0.95% |
-| 92 | [Sable](games/s/sable.md) | 0.94% |
+| 91 | [Sable](games/s/sable.md) | 0.95% |
 | 93 | [Hades](games/h/hades.md) | 0.89% |
 | 94 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
 | 95 | [Adios](games/a/adios.md) | 0.86% |
@@ -163,12 +163,12 @@
 | 160 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 162 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 162 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.12% |
-| 164 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
-| 165 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
-| 165 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 165 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
-| 165 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
-| 165 | [Supraland](games/s/supraland.md) | 0.10% |
+| 164 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
+| 164 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 164 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
+| 164 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
+| 164 | [Supraland](games/s/supraland.md) | 0.10% |
+| 164 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
 | 170 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
 | 170 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 170 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
