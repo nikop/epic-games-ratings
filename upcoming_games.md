@@ -23,6 +23,7 @@
 | [Awesome Pea 2](games/a/awesome_pea_2.md) | 2023-06-20 | - |  | - | - |
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-20 | - |  | - | - |
 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 2023-06-21 | 53 (1,000 XP) | 0 | - | - |
+| [The Bookwalker: Thief of Tales](games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 2023-06-22 | - |  | - | - |
 | [Dr. Fetus' Mean Meat Machine](games/d/dr._fetus'_mean_meat_machine.md) | 2023-06-22 | - |  | - | - |
 | [Vectoroids](games/e/e77f3dc66a514c68bd525d8f418c1be2.md) | 2023-06-23 | - |  | - | - |
 | [Bob A thousand lives - Enhanced Edition](games/b/bob_a_thousand_lives.md) | 2023-06-24 | - |  | - | - |
@@ -308,6 +309,7 @@
 | [Ravenswatch](games/r/ravenswatch.md) | 2099-01-01 | - |  | - | - |
 | [Relic Space](games/r/relic_space.md) | 2099-01-01 | - |  | - | - |
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2099-01-01 | - |  | - | - |
+| [RESISTOR](games/0/0d7ae272a45342aa8abcc5b6a9bca792.md) | 2099-01-01 | - |  | - | - |
 | [Robobeat](games/r/robobeat.md) | 2099-01-01 | - |  | - | - |
 | [Runa and the Chaikuru Legacy](games/r/runa_and_the_chaikuru_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Saviorless](games/s/saviorless.md) | 2099-01-01 | - |  | - | - |
@@ -337,7 +339,6 @@
 | [Terrordrome - Reign of the Legends](games/t/terrordrome_-_reign_of_the_legends.md) | 2099-01-01 | - |  | - | - |
 | [Testament: The Order Of High-Human](games/3/3c69660cdc2d41aeac310fe3f864eb26.md) | 2099-01-01 | - |  | - | - |
 | [The Alters](games/t/the_alters.md) | 2099-01-01 | - |  | - | - |
-| [The Bookwalker: Thief of Tales](games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 2099-01-01 | - |  | - | - |
 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 2099-01-01 | 36 (1,000 XP) | 0 | - | - |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | - |  | - | - |
 | [The Crown of Wu](games/t/the_crown_of_wu.md) | 2099-01-01 | 37 (1,000 XP) | 0 | - | - |

@@ -24,11 +24,11 @@
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.63% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.90% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.86% |
-| 28 | [Scorn](games/s/scorn.md) | 6.81% |
-| 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
+| 28 | [Scorn](games/s/scorn.md) | 6.80% |
+| 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.18% |
@@ -46,7 +46,7 @@
 | 44 | [ZZT!](games/z/zzt!.md) | 3.30% |
 | 45 | [The Complex](games/t/the_complex.md) | 3.29% |
 | 46 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
-| 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.12% |
+| 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.10% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.00% |
 | 48 | [The Bunker](games/t/the_bunker.md) | 3.00% |
 | 50 | [HordeCore](games/h/hordecore.md) | 2.99% |
@@ -66,7 +66,7 @@
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 64 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 67 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.12% |
+| 67 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 68 | [Iron Danger](games/i/iron_danger.md) | 2.02% |
 | 69 | [JARS](games/j/jars.md) | 1.89% |
 | 70 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -91,7 +91,7 @@
 | 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
 | 90 | [Late Shift](games/l/late_shift.md) | 0.99% |
 | 91 | [Five Dates](games/f/five_dates.md) | 0.95% |
-| 91 | [Sable](games/s/sable.md) | 0.95% |
+| 92 | [Sable](games/s/sable.md) | 0.94% |
 | 93 | [Hades](games/h/hades.md) | 0.89% |
 | 94 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
 | 95 | [Adios](games/a/adios.md) | 0.86% |
@@ -439,4 +439,4 @@
 | 214 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 214 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 214 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,759 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,760 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
