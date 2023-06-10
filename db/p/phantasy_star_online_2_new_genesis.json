@@ -2,12 +2,12 @@
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "Phantasy Star Online 2 New Genesis",
   "ProductSlug": "phantasy-star-online-2",
-  "Ranking_Rating": 477,
+  "Ranking_Rating": 476,
   "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-02-17T06:00:00+00:00",
@@ -2325,10 +2325,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 3759,
       "NumberOfAwardsMax": 858
+    },
+    {
+      "Time": "2023-06-10T06:58:03.1934841+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3760,
+      "NumberOfAwardsMax": 858
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3759,
+  "NumberOfAwards": 3760,
   "NumberOfAwardsMax": 858,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2390,7 +2396,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 236
+      "Count": 237
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2416,8 +2422,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2023-06-10T05:58:02.7346891+00:00",
+  "LastChanged": "2023-06-10T06:58:03.1934839+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.9479748+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:58:02.7346896+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:02:03.9990844+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:58:03.1934845+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:00:16.251314+00:00"
 }

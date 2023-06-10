@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2542,
+  "EOS_Progressed": 2544,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2453,6 +2453,11 @@
       "Time": "2023-06-10T00:06:11.4266331+00:00",
       "NumProgressed": 2542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T07:05:30.4466193+00:00",
+      "NumProgressed": 2544,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2510,9 +2515,9 @@
       "ID": "ACH_BASE_16",
       "SetID": "92iocjf",
       "Name": "Tiqqun Contender",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_BASE_17",
@@ -2528,7 +2533,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_BASE_19",
@@ -2568,7 +2573,7 @@
       "Name": "Space Society",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_BASE_24",
@@ -2616,7 +2621,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_BASE_3",
@@ -2664,7 +2669,7 @@
       "Name": "Ready for a New World",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_BASE_35",
@@ -2919,13 +2924,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 723,
+      "Progressed": 725,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2542,
+      "Progressed": 2544,
       "Completed": 0
     }
   ],
@@ -2933,8 +2938,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-08T14:58:30.2723664+00:00",
-  "LastChanged_Achievements": "2023-06-10T06:05:39.2648929+00:00",
+  "LastChanged_Achievements": "2023-06-10T07:05:30.4466183+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:44.0613417+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:58:12.9382723+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:05:39.264972+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:58:12.7803353+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:05:30.4466912+00:00"
 }

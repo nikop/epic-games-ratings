@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 79.00% | ~105 |
+| Graduation | 79.00% | ~106 |
 | You Have Been Deaded | 72.00% | ~96 |
 | Rookie | 66.00% | ~88 |
-| Apprentice Destructor | 25.00% | ~33 |
+| Apprentice Destructor | 25.00% | ~34 |
 | I Prefer Jazz Fusion | 10.00% | ~13 |
 | Master Destructor | 10.00% | ~13 |
-| Avaricerite | 8.00% | ~11 |
+| Avaricerite | 7.00% | ~9 |
 | Ball Galore | 6.00% | ~8 |
 | Easy Victory | 5.00% | ~7 |
 | You Are Actually Supposed To Use Those | 5.00% | ~7 |
@@ -19,7 +19,6 @@
 | Ticking Clock | 4.00% | ~5 |
 | Legendary Destructor | 3.00% | ~4 |
 | Ball Collector | 2.00% | ~3 |
-| Bullet Hell | 2.00% | ~3 |
 | Collector | 2.00% | ~3 |
 | Detoxed | 2.00% | ~3 |
 | Ice Breaker | 2.00% | ~3 |
@@ -27,16 +26,17 @@
 | Monster of Fashion | 2.00% | ~3 |
 | Nomad | 2.00% | ~3 |
 | Single Person On Earth | 2.00% | ~3 |
-| Untouchable | 2.00% | ~3 |
-| Machine Man | 0.80% | ~1 |
-| Mushroom Man | 0.80% | ~1 |
-| Scrap Collector | 0.80% | ~1 |
-| Total Walrus | 0.80% | ~1 |
-| True Victory | 0.80% | ~1 |
-| Victory That Is Even More True | 0.80% | ~1 |
-| What Even Are You? | 0.80% | ~1 |
+| Bullet Hell | 1.00% | ~1 |
+| Untouchable | 1.00% | ~1 |
+| Machine Man | 0.70% | ~1 |
+| Mushroom Man | 0.70% | ~1 |
+| Scrap Collector | 0.70% | ~1 |
+| Total Walrus | 0.70% | ~1 |
+| True Victory | 0.70% | ~1 |
+| Victory That Is Even More True | 0.70% | ~1 |
+| What Even Are You? | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 267)  
+Progressed: 134 (Ranked 267)  
 Completed: 1 (0.75%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,6 +77,7 @@ Completed: 1 (0.75%) (Ranked 100)
 | 2023-06-06 | 127 | 1 |
 | 2023-06-07 | 130 | 1 |
 | 2023-06-09 | 133 | 1 |
+| 2023-06-10 | 134 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

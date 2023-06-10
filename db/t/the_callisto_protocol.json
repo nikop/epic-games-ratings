@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 842,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
@@ -584,7 +584,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14899,
+  "EOS_Progressed": 14902,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 552,
   "EOS_NewCompleters": 1,
@@ -3384,6 +3384,11 @@
       "Time": "2023-06-10T06:04:04.4241486+00:00",
       "NumProgressed": 14899,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-10T07:03:55.8917542+00:00",
+      "NumProgressed": 14902,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3561,9 +3566,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1341
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3707,20 +3712,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14899,
+      "Progressed": 14902,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2825,
+      "Progressed": 2828,
       "Completed": 29
     }
   ],
@@ -3728,8 +3733,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-09T13:57:54.3107791+00:00",
-  "LastChanged_Achievements": "2023-06-10T06:04:04.4241481+00:00",
+  "LastChanged_Achievements": "2023-06-10T07:03:55.8917537+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:57:41.98755+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:04:04.4241976+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:57:43.7881968+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:03:55.8918052+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 920,
+  "Ranking_Rating": 919,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 167,
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1181,
+  "EOS_Progressed": 1183,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1722,6 +1722,11 @@
       "Time": "2023-06-10T03:05:39.619475+00:00",
       "NumProgressed": 1181,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T07:03:42.5352719+00:00",
+      "NumProgressed": 1183,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1805,7 +1810,7 @@
       "Name": "The Collector",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -1813,7 +1818,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -1853,7 +1858,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1981,7 +1986,7 @@
       "Name": "Miner",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -1989,7 +1994,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2093,7 +2098,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -2107,16 +2112,16 @@
       "ID": "NEW_ACHIEVEMENT_TO_INFINITY_AND_BEYOND",
       "SetID": "l546gc",
       "Name": "To infinity and beyond!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1181,
+      "Progressed": 1183,
       "Completed": 0
     }
   ],
@@ -2124,8 +2129,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-08T18:57:45.1074866+00:00",
-  "LastChanged_Achievements": "2023-06-10T06:03:51.1546647+00:00",
+  "LastChanged_Achievements": "2023-06-10T07:03:42.5352715+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:57:15.4254052+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:03:51.1547146+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:57:18.102227+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:03:42.5353217+00:00"
 }

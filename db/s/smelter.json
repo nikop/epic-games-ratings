@@ -352,9 +352,9 @@
       "ID": "SMELTER_PLATFORMER_HP20",
       "SetID": "1g58k92",
       "Name": "A Little Extra Love",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SMELTER_RIVEL1",
@@ -497,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-06-10T06:05:46.6009921+00:00",
+  "LastChanged_Achievements": "2023-06-10T07:05:37.8181828+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.6847234+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:58:37.8266716+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:05:46.6010329+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:58:36.9496526+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:05:37.8182273+00:00"
 }

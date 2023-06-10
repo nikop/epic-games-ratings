@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Choking Hazard | 41.00% | ~61 |
+| Choking Hazard | 42.00% | ~63 |
 | Animal Lover | 33.00% | ~50 |
 | Don't Breathe | 30.00% | ~45 |
 | Rapturous Applause! | 14.00% | ~21 |

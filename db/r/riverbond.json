@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518913,
+  "EOS_Progressed": 518915,
   "EOS_Completed": 422,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5525,6 +5525,11 @@
       "Time": "2023-06-10T06:05:36.5706543+00:00",
       "NumProgressed": 518913,
       "NumCompleted": 422
+    },
+    {
+      "Time": "2023-06-10T07:05:27.5570638+00:00",
+      "NumProgressed": 518915,
+      "NumCompleted": 422
     }
   ],
   "TotalAchievements": 57,
@@ -5544,7 +5549,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 233511
+      "UsersEstimate": 233512
     },
     {
       "ID": "11",
@@ -5552,7 +5557,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 363239
+      "UsersEstimate": 363240
     },
     {
       "ID": "12",
@@ -5576,7 +5581,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57080
+      "UsersEstimate": 57081
     },
     {
       "ID": "15",
@@ -5584,7 +5589,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 51891
+      "UsersEstimate": 51892
     },
     {
       "ID": "16",
@@ -5616,7 +5621,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 321726
+      "UsersEstimate": 321727
     },
     {
       "ID": "2",
@@ -5624,7 +5629,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 51891
+      "UsersEstimate": 51892
     },
     {
       "ID": "20",
@@ -5632,7 +5637,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 124539
+      "UsersEstimate": 124540
     },
     {
       "ID": "21",
@@ -5640,7 +5645,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 57080
+      "UsersEstimate": 57081
     },
     {
       "ID": "22",
@@ -5760,7 +5765,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 259456
+      "UsersEstimate": 259458
     },
     {
       "ID": "36",
@@ -5792,7 +5797,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 176430
+      "UsersEstimate": 176431
     },
     {
       "ID": "4",
@@ -5832,7 +5837,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 88215
+      "UsersEstimate": 88216
     },
     {
       "ID": "44",
@@ -5864,7 +5869,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 321726
+      "UsersEstimate": 321727
     },
     {
       "ID": "48",
@@ -5880,7 +5885,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 176430
+      "UsersEstimate": 176431
     },
     {
       "ID": "5",
@@ -5912,7 +5917,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 238700
+      "UsersEstimate": 238701
     },
     {
       "ID": "53",
@@ -5991,15 +5996,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 518913,
+      "Progressed": 518915,
       "Completed": 422
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-06-10T06:05:36.5706523+00:00",
+  "LastChanged_Achievements": "2023-06-10T07:05:27.5570634+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:25.4826628+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:57:11.9697886+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:05:36.5707341+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:57:14.3421933+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:05:27.5571485+00:00"
 }

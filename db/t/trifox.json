@@ -129,9 +129,9 @@
       "ID": "ACH_DESTRUCTIBLEKILLS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Too many crates",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_DESTRUCTIBLEKILLS_SMALL",
@@ -265,9 +265,9 @@
       "ID": "ACH_LEVELCOMPLETION_02_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-1",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_02",
@@ -433,9 +433,9 @@
       "ID": "ACH_UNLOCKEDALLMAGEABILITIES",
       "SetID": "cfld5bl",
       "Name": "Way of the mage",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_UNLOCKEDALLWARRIORABILITIES",
@@ -458,8 +458,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-06-10T06:02:10.5238402+00:00",
+  "LastChanged_Achievements": "2023-06-10T07:00:22.832493+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:27.1604967+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:58:44.5038435+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:02:10.523882+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:58:43.4809214+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:00:22.8325345+00:00"
 }

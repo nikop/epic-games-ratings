@@ -11,14 +11,14 @@
 | This is a Wall | 43.00% | ~68 |
 | Extendable Bridges | 34.00% | ~53 |
 | 48 Attempts | 32.00% | ~50 |
-| Chain Reaction | 30.00% | ~47 |
+| Chain Reaction | 31.00% | ~49 |
 | Man's Best Friend | 29.00% | ~46 |
-| Handyman | 21.00% | ~33 |
+| Handyman | 22.00% | ~35 |
 | No Time To Relax | 16.00% | ~25 |
 | Bad Robots | 13.00% | ~20 |
 | Running Boots | 13.00% | ~20 |
+| Fashionista | 12.00% | ~19 |
 | Archivist | 11.00% | ~17 |
-| Fashionista | 11.00% | ~17 |
 | Looper | 10.00% | ~16 |
 | So Close | 8.00% | ~13 |
 | Transformers, cubes in disguise | 8.00% | ~13 |

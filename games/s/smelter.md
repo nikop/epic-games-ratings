@@ -15,8 +15,8 @@
 | A Little Renovating | 28.00% | ~10 |
 | It's a Sign! | 25.00% | ~9 |
 | Just Some Improvements | 22.00% | ~8 |
+| A Little Extra Love | 19.00% | ~7 |
 | A New Strategy | 19.00% | ~7 |
-| A Little Extra Love | 17.00% | ~6 |
 | Final Announcement | 17.00% | ~6 |
 | Isn't It Beautiful? | 14.00% | ~5 |
 | A Generous Leader | 14.00% | ~5 |

@@ -15,14 +15,14 @@
 | Get out of my way | 21.00% | ~18 |
 | Redecorator | 20.00% | ~17 |
 | Just a sip | 19.00% | ~16 |
+| Complete Level 2-1 | 16.00% | ~14 |
 | Versatile | 16.00% | ~14 |
-| Complete Level 2-1 | 15.00% | ~13 |
 | Complete Level 2-2 | 15.00% | ~13 |
 | Well-off | 13.00% | ~11 |
+| Too many crates | 13.00% | ~11 |
 | Complete Level 2-3 | 13.00% | ~11 |
 | Defeat the engineer boss | 13.00% | ~11 |
 | Complete Level 3-1 | 13.00% | ~11 |
-| Too many crates | 12.00% | ~10 |
 | Baby steps | 10.00% | ~9 |
 | Complete Level 3-2 | 10.00% | ~9 |
 | Engineer-warrior hybrid | 10.00% | ~9 |
@@ -31,12 +31,12 @@
 | Complete Level 3-3 | 8.00% | ~7 |
 | Mage-warrior hybrid | 8.00% | ~7 |
 | Party popper | 8.00% | ~7 |
+| Way of the mage | 7.00% | ~6 |
 | Defeat the mage boss | 6.00% | ~5 |
 | Remote retrieved | 6.00% | ~5 |
 | Engineer specialist | 6.00% | ~5 |
 | Mage specialist | 6.00% | ~5 |
 | Way of the engineer | 6.00% | ~5 |
-| Way of the mage | 6.00% | ~5 |
 | Warrior specialist | 5.00% | ~4 |
 | The True Trifox | 5.00% | ~4 |
 | Way of the warrior | 5.00% | ~4 |

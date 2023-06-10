@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 308,
-  "EOS_Completed": 49,
+  "EOS_Completed": 50,
   "EOS_NewPlayers": 64,
-  "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 15.91,
+  "EOS_NewCompleters": 15,
+  "EOS_Completed_Percentage": 16.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1373,6 +1373,11 @@
       "Time": "2023-06-10T04:05:13.8647211+00:00",
       "NumProgressed": 308,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-06-10T07:05:16.7468341+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 22,
@@ -1430,9 +1435,9 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "LEVEL_008",
@@ -1560,15 +1565,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 308,
-      "Completed": 49
+      "Completed": 50
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-10T06:05:25.6066529+00:00",
+  "LastChanged_Achievements": "2023-06-10T07:05:16.7468334+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:14.620254+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:57:50.1527241+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:05:25.606677+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:57:51.1435326+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:05:16.7468565+00:00"
 }

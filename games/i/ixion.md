@@ -7,11 +7,11 @@ Rating: 4.57 (Ranked 444)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 16.00% | ~407 |
 | Sputnik 2049 | 14.00% | ~356 |
-| Infinite Growth... | 13.00% | ~330 |
+| Infinite Growth... | 13.00% | ~331 |
 | Without Breaking Some Eggs... | 12.00% | ~305 |
-| Space Society | 8.00% | ~203 |
-| A Thousand Strong | 8.00% | ~203 |
-| Ready for a New World | 8.00% | ~203 |
+| Space Society | 8.00% | ~204 |
+| A Thousand Strong | 8.00% | ~204 |
+| Ready for a New World | 8.00% | ~204 |
 | Permanent Redesigns | 7.00% | ~178 |
 | Ain't Nobody Got Time for That | 7.00% | ~178 |
 | Guy de Borderlands | 6.00% | ~153 |
@@ -45,9 +45,9 @@ Rating: 4.57 (Ranked 444)
 | Praise the Hull! | 0.90% | ~23 |
 | Space Greenhouse | 0.90% | ~23 |
 | You Had One Job... | 0.80% | ~20 |
+| Tiqqun Contender | 0.70% | ~18 |
 | Tiqqun Unchained | 0.70% | ~18 |
 | Help of the Forgotten Member | 0.70% | ~18 |
-| Tiqqun Contender | 0.60% | ~15 |
 | Gregor Spinoza | 0.60% | ~15 |
 | Scientifically Accurate | 0.60% | ~15 |
 | Better Him Than Me | 0.40% | ~10 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 444)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,542 (Ranked 146)  
+Progressed: 2,544 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 2,488 | 0 |
 | 2023-06-08 | 2,515 | 0 |
 | 2023-06-09 | 2,541 | 0 |
-| 2023-06-10 | 2,542 | 0 |
+| 2023-06-10 | 2,544 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

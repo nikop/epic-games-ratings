@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 889,
+  "Ranking_Rating": 888,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 64,
@@ -4198,10 +4198,10 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90298,
+  "EOS_Progressed": 90301,
   "EOS_Completed": 1926,
   "EOS_NewPlayers": 723,
-  "EOS_NewCompleters": 16,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -9368,6 +9368,11 @@
       "Time": "2023-06-10T06:05:58.2210268+00:00",
       "NumProgressed": 90298,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-06-10T07:05:49.950254+00:00",
+      "NumProgressed": 90301,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 493,
@@ -10355,7 +10360,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "objective_completed_130",
@@ -11515,7 +11520,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "objective_completed_54",
@@ -13123,7 +13128,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "objective_completed_902",
@@ -13322,21 +13327,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56572,
+      "Progressed": 56575,
       "Completed": 2780
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90298,
+      "Progressed": 90301,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-09T22:58:16.7265342+00:00",
-  "LastChanged_Achievements": "2023-06-10T06:05:58.2210262+00:00",
+  "LastChanged_Achievements": "2023-06-10T07:05:49.9502536+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:57:51.2276207+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:05:58.2233311+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:57:52.1957875+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:05:49.9526358+00:00"
 }

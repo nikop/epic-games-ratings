@@ -13,15 +13,15 @@
 | Fashion Connoisseur | 82.00% | ~9 |
 | Storm Traveller | 82.00% | ~9 |
 | Flower Thief | 82.00% | ~9 |
+| Giant Lizard Killer | 73.00% | ~8 |
 | Beginner Cook | 73.00% | ~8 |
 | Apostle of Flame | 73.00% | ~8 |
 | Handyman | 73.00% | ~8 |
-| Giant Lizard Killer | 64.00% | ~7 |
+| Guardian | 64.00% | ~7 |
+| Nosebleeder | 64.00% | ~7 |
 | Trader | 64.00% | ~7 |
 | Weapon Boost | 64.00% | ~7 |
 | Seal Breaker | 64.00% | ~7 |
-| Guardian | 55.00% | ~6 |
-| Nosebleeder | 55.00% | ~6 |
 | Youth Magnet | 55.00% | ~6 |
 | Furious Scorpion Killer | 55.00% | ~6 |
 | Lethal Blade Mantis Killer | 55.00% | ~6 |

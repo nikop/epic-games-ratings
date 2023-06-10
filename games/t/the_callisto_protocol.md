@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 842)  
+Rating: 4.18 (Ranked 841)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,8 +10,8 @@ Rating: 4.18 (Ranked 842)
 | Desperate Times | 11.00% | ~1,639 |
 | Paper Jams | 10.00% | ~1,490 |
 | Chew 'Em Up | 9.00% | ~1,341 |
+| Reforged | 9.00% | ~1,341 |
 | Workplace Hazard | 8.00% | ~1,192 |
-| Reforged | 8.00% | ~1,192 |
 | If the SHU Fits... | 8.00% | ~1,192 |
 | Giving Back | 7.00% | ~1,043 |
 | Get a Grip | 6.00% | ~894 |
@@ -32,7 +32,7 @@ Rating: 4.18 (Ranked 842)
 | I Do Belong Here | 2.00% | ~298 |
 | In Striking Distance | 2.00% | ~298 |
 | Mugshot | 2.00% | ~298 |
-| Big Spender | 2.00% | ~56 |
+| Big Spender | 2.00% | ~57 |
 | Parole Denied | 1.00% | ~28 |
 | Hoard Mode | 1.00% | ~28 |
 | Grim Reaper | 0.80% | ~119 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 842)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,899 (Ranked 104)  
+Progressed: 14,902 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 54 (0.36%) (Ranked 122)
 | 2023-06-07 | 14,702 | 54 |
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
-| 2023-06-10 | 14,899 | 54 |
+| 2023-06-10 | 14,902 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
 Sum: 301 (Ranked 328)  

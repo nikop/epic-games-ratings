@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -623,6 +623,11 @@
       "Time": "2023-06-09T15:02:10.6942044+00:00",
       "NumProgressed": 133,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T07:02:10.3294698+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -634,15 +639,15 @@
       "Name": "Apprentice Destructor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "avaricerite",
       "SetID": "jig50d",
       "Name": "Avaricerite",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "back_from_the_dead",
@@ -680,9 +685,9 @@
       "ID": "bullet_hell",
       "SetID": "jig50d",
       "Name": "Bullet Hell",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "collector",
@@ -722,7 +727,7 @@
       "Name": "Graduation",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -752,7 +757,7 @@
       "ID": "machine_man",
       "SetID": "jig50d",
       "Name": "Machine Man",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -784,7 +789,7 @@
       "ID": "mushroom_man",
       "SetID": "jig50d",
       "Name": "Mushroom Man",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -808,7 +813,7 @@
       "ID": "scrap_collector",
       "SetID": "jig50d",
       "Name": "Scrap Collector",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -832,7 +837,7 @@
       "ID": "total_walrus",
       "SetID": "jig50d",
       "Name": "Total Walrus",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -840,7 +845,7 @@
       "ID": "true_victory",
       "SetID": "jig50d",
       "Name": "True Victory",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -848,7 +853,7 @@
       "ID": "truest_victory",
       "SetID": "jig50d",
       "Name": "Victory That Is Even More True",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -856,9 +861,9 @@
       "ID": "untouchable",
       "SetID": "jig50d",
       "Name": "Untouchable",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "weapons",
@@ -872,7 +877,7 @@
       "ID": "what_are_you",
       "SetID": "jig50d",
       "Name": "What Even Are You?",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 1
     }
@@ -881,7 +886,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 1
     }
   ],
@@ -889,8 +894,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-10T06:02:27.725761+00:00",
+  "LastChanged_Achievements": "2023-06-10T07:02:10.3294694+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.2477238+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:59:28.385971+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:02:27.7257854+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:59:28.3277796+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:02:10.3294963+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 528,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 147,
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2497,
+  "EOS_Progressed": 2498,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3056,6 +3056,11 @@
       "Time": "2023-06-10T06:05:41.0661251+00:00",
       "NumProgressed": 2497,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-10T07:05:32.3167587+00:00",
+      "NumProgressed": 2498,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3235,7 +3240,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3315,7 +3320,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3379,7 +3384,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3457,9 +3462,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 275
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3634,13 +3639,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2448,
+      "Progressed": 2449,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2497,
+      "Progressed": 2498,
       "Completed": 2
     }
   ],
@@ -3648,8 +3653,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-10T06:05:41.0661242+00:00",
+  "LastChanged_Achievements": "2023-06-10T07:05:32.3167579+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:59:57.1132414+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:05:41.0662236+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:59:58.1124809+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:05:32.3168487+00:00"
 }

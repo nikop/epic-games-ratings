@@ -3,8 +3,8 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.75,
+  "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -533,6 +533,11 @@
       "Time": "2023-06-06T17:03:14.7184762+00:00",
       "NumProgressed": 134,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T07:03:16.8152991+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -544,7 +549,7 @@
       "Name": "Lover of classics",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -558,9 +563,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -638,7 +643,7 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
       "UsersEstimate": 92
     },
@@ -648,7 +653,7 @@
       "Name": "Them and Us",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -704,7 +709,7 @@
       "Name": "OUTRAGE",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ETUA_PTD",
@@ -736,7 +741,7 @@
       "Name": "Rest In Peace",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ETUA_SUPER",
@@ -750,9 +755,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "ETUA_StayDead",
@@ -792,7 +797,7 @@
       "Name": "The Cultists",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -808,7 +813,7 @@
       "Name": "The Forgotten Tower",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -816,7 +821,7 @@
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -856,14 +861,14 @@
       "Name": "What have I done!?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 1
     }
   ],
@@ -871,8 +876,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-06-10T06:03:24.6242962+00:00",
+  "LastChanged_Achievements": "2023-06-10T07:03:16.8152986+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:13.6620801+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:57:05.3620519+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:03:24.6243307+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:57:07.122671+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:03:16.8153337+00:00"
 }

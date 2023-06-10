@@ -2,7 +2,7 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 477,
+  "Ranking_Rating": 476,
   "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 143,
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2855,
+  "EOS_Progressed": 2856,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2374,6 +2374,11 @@
       "Time": "2023-06-10T04:03:06.5779749+00:00",
       "NumProgressed": 2855,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T07:03:10.5094938+00:00",
+      "NumProgressed": 2856,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2441,7 +2446,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "Eureka_23",
@@ -2577,7 +2582,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -2609,7 +2614,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2705,7 +2710,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 2142
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2720,15 +2725,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2855,
+      "Progressed": 2856,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-10T06:03:18.3284168+00:00",
+  "LastChanged_Achievements": "2023-06-10T07:03:10.5094933+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.3082494+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:57:35.7822183+00:00",
-  "LastUpdate_Achievements": "2023-06-10T06:03:18.3284614+00:00"
+  "LastUpdate_Ratings": "2023-06-10T06:57:37.0773361+00:00",
+  "LastUpdate_Achievements": "2023-06-10T07:03:10.5095334+00:00"
 }

@@ -6,42 +6,42 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 29.00% | ~15,495 |
-| Let There Be Light | 24.00% | ~12,824 |
-| Float Like a Butterfly | 23.00% | ~12,289 |
-| Nordic Walking | 18.00% | ~9,618 |
-| Bright Falls' Finest | 17.00% | ~9,083 |
-| Under a Thin Layer of Skin | 15.00% | ~8,015 |
-| Park Ranger | 12.00% | ~6,412 |
-| Back! Back, I Say! | 12.00% | ~6,412 |
-| Finders Keepers | 12.00% | ~6,412 |
-| Paging Mr. Wake | 12.00% | ~6,412 |
-| Wheels Within Wheels | 10.00% | ~5,343 |
-| They're Heeeeeere! | 10.00% | ~5,343 |
-| Sound and Fury | 10.00% | ~5,343 |
-| Missed by a Mile | 10.00% | ~5,343 |
-| Damn Good Cup of Coffee | 10.00% | ~5,343 |
-| Heavy Metal | 9.00% | ~4,809 |
-| Iron Horse | 9.00% | ~4,809 |
-| The Six-Gun Scribe | 9.00% | ~4,809 |
-| Collateral Carnage | 9.00% | ~4,809 |
-| Come One, Come All | 9.00% | ~4,809 |
-| Perchance to Dream | 8.00% | ~4,275 |
-| It's Not Just a Typewriter Brand | 8.00% | ~4,275 |
-| Thunder and Lightning | 8.00% | ~4,275 |
-| Two For the Price of One | 8.00% | ~4,275 |
-| A Friend in Need | 8.00% | ~1,352 |
-| Gatekeeper | 7.00% | ~3,740 |
-| The Lady of the Light | 7.00% | ~3,740 |
-| Energized! | 7.00% | ~3,740 |
-| Right of Way | 7.00% | ~3,740 |
-| What Light Through Yonder Window | 6.00% | ~3,206 |
-| A Friend Indeed | 6.00% | ~1,014 |
+| Follow the Light | 30.00% | ~16,034 |
+| Let There Be Light | 24.00% | ~12,827 |
+| Float Like a Butterfly | 23.00% | ~12,292 |
+| Nordic Walking | 18.00% | ~9,620 |
+| Bright Falls' Finest | 17.00% | ~9,086 |
+| Under a Thin Layer of Skin | 15.00% | ~8,017 |
+| Park Ranger | 12.00% | ~6,413 |
+| Back! Back, I Say! | 12.00% | ~6,413 |
+| Finders Keepers | 12.00% | ~6,413 |
+| Paging Mr. Wake | 12.00% | ~6,413 |
+| Wheels Within Wheels | 10.00% | ~5,344 |
+| They're Heeeeeere! | 10.00% | ~5,344 |
+| Sound and Fury | 10.00% | ~5,344 |
+| Missed by a Mile | 10.00% | ~5,344 |
+| Damn Good Cup of Coffee | 10.00% | ~5,344 |
+| Heavy Metal | 9.00% | ~4,810 |
+| Iron Horse | 9.00% | ~4,810 |
+| The Six-Gun Scribe | 9.00% | ~4,810 |
+| Collateral Carnage | 9.00% | ~4,810 |
+| Come One, Come All | 9.00% | ~4,810 |
+| Perchance to Dream | 8.00% | ~4,276 |
+| It's Not Just a Typewriter Brand | 8.00% | ~4,276 |
+| Thunder and Lightning | 8.00% | ~4,276 |
+| Two For the Price of One | 8.00% | ~4,276 |
+| A Friend in Need | 8.00% | ~1,353 |
+| Gatekeeper | 7.00% | ~3,741 |
+| The Lady of the Light | 7.00% | ~3,741 |
+| Energized! | 7.00% | ~3,741 |
+| Right of Way | 7.00% | ~3,741 |
+| What Light Through Yonder Window | 6.00% | ~3,207 |
+| A Friend Indeed | 6.00% | ~1,015 |
 | Tornado Wrangler | 5.00% | ~2,672 |
 | Departure | 5.00% | ~2,672 |
-| Ding! | 5.00% | ~845 |
-| Drink 'Em Both Up | 4.00% | ~2,137 |
-| Hardboiled Writer | 4.00% | ~2,137 |
+| Ding! | 5.00% | ~846 |
+| Drink 'Em Both Up | 4.00% | ~2,138 |
+| Hardboiled Writer | 4.00% | ~2,138 |
 | Boob Tube | 3.00% | ~1,603 |
 | Children of the Elder God | 3.00% | ~1,603 |
 | If It Flies, It Burns | 3.00% | ~1,603 |
@@ -56,8 +56,8 @@ Number of Ratings: 524  (23.09.2022)
 | Couch Potato | 1.00% | ~534 |
 | Go Gentle Into That Good Light | 1.00% | ~169 |
 | Words Will Never Harm You | 0.60% | ~101 |
-| Fast and Furious | 0.50% | ~84 |
-| Cardboard Companions | 0.50% | ~84 |
+| Fast and Furious | 0.50% | ~85 |
+| Cardboard Companions | 0.50% | ~85 |
 | License Revoked | 0.40% | ~68 |
 | Whirlwind | 0.40% | ~68 |
 | Creative Space | 0.40% | ~68 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~53 |
 | No Punctuation | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,432 (Ranked 77)  
+Progressed: 53,445 (Ranked 77)  
 Completed: 50 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 50 (0.09%) (Ranked 170)
 | 2023-06-07 | 52,722 | 50 |
 | 2023-06-08 | 52,962 | 50 |
 | 2023-06-09 | 53,327 | 50 |
-| 2023-06-10 | 53,432 | 50 |
+| 2023-06-10 | 53,445 | 50 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

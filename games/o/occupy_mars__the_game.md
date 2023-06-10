@@ -1,22 +1,22 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.88 (Ranked 920)  
+Rating: 3.88 (Ranked 919)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~484 |
+| I don't feel so good | 41.00% | ~485 |
 | Electrician | 33.00% | ~390 |
-| Fear my botany powers, Mars | 31.00% | ~366 |
-| Zero Waste | 29.00% | ~342 |
-| Bob The Builder | 29.00% | ~342 |
+| Fear my botany powers, Mars | 31.00% | ~367 |
+| Zero Waste | 29.00% | ~343 |
+| Bob The Builder | 29.00% | ~343 |
 | I am the greatest botanist on this planet. | 28.00% | ~331 |
-| Miner | 24.00% | ~283 |
+| Miner | 24.00% | ~284 |
 | Gardener | 23.00% | ~272 |
 | Houston we have a problem | 21.00% | ~248 |
 | Occupy Mars! | 21.00% | ~248 |
 | Detective | 18.00% | ~213 |
-| The Collector | 14.00% | ~165 |
+| The Collector | 14.00% | ~166 |
 | Get your hands dirty | 9.00% | ~106 |
 | All Wheel Trouble | 6.00% | ~71 |
 | Space Forest | 6.00% | ~71 |
@@ -25,8 +25,8 @@ Rating: 3.88 (Ranked 920)
 | “Aliens” | 3.00% | ~35 |
 | Hard Landing | 2.00% | ~24 |
 | Plumber | 2.00% | ~24 |
+| To infinity and beyond! | 2.00% | ~24 |
 | Driver's License | 1.00% | ~12 |
-| To infinity and beyond! | 1.00% | ~12 |
 | Explosive Miner | 0.90% | ~11 |
 | Rocket Jump | 0.80% | ~9 |
 | Thunderstruck | 0.80% | ~9 |
@@ -54,7 +54,7 @@ Rating: 3.88 (Ranked 920)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,181 (Ranked 167)  
+Progressed: 1,183 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 1,144 | 0 |
 | 2023-06-08 | 1,162 | 0 |
 | 2023-06-09 | 1,179 | 0 |
-| 2023-06-10 | 1,181 | 0 |
+| 2023-06-10 | 1,183 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
