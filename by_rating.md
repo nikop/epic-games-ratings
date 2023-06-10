@@ -102,7 +102,7 @@
 | 91 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 494 |
 | 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,199 | 36 |
 | 101 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 494 |
-| 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,300 | 98 |
+| 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,303 | 98 |
 | 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,084 | 132 |
 | 101 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.78 | 136 | 295 |
 | 101 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 494 |
@@ -214,7 +214,7 @@
 | 194 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 494 |
 | 194 | [The Witness](games/t/the_witness.md) | 4.70 | 173 | 277 |
 | 194 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,340 | 69 |
-| 194 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,577 | 113 |
+| 194 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,581 | 113 |
 | 194 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 494 |
 | 217 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 3,138 | 87 |
 | 217 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 110,873 | 8 |
@@ -375,7 +375,7 @@
 | 360 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 494 |
 | 360 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,507 | 91 |
 | 360 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 624 | 163 |
-| 360 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 434 | 195 |
+| 360 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 436 | 195 |
 | 360 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,193 | 37 |
 | 360 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,062 | 133 |
 | 360 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 494 |
@@ -420,7 +420,7 @@
 | 407 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 74 | 357 |
 | 407 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,242 | 84 |
 | 407 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.59 | 197 | 264 |
-| 407 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 281 | 232 |
+| 407 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 283 | 231 |
 | 407 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 695 | 156 |
 | 423 | [Among Us](games/a/among_us.md) | 4.58 | 2,451 | 93 |
 | 423 | [Aragami 2](games/a/aragami_2.md) | 4.58 | 0 | 494 |
@@ -499,7 +499,7 @@
 | 490 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.54 | 0 | 494 |
 | 490 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 293 | 230 |
 | 490 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.54 | 0 | 494 |
-| 490 | [VALORANT](games/v/valorant.md) | 4.54 | 55,874 | 11 |
+| 490 | [VALORANT](games/v/valorant.md) | 4.54 | 56,113 | 11 |
 | 501 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 494 |
 | 501 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 494 |
 | 501 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,143 | 17 |
@@ -658,7 +658,7 @@
 | 656 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.42 | 0 | 494 |
 | 656 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 380 |
 | 656 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 30 | 451 |
-| 656 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 191 | 266 |
+| 656 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 192 | 266 |
 | 656 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,097 | 29 |
 | 656 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 494 |
 | 656 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,136 | 128 |

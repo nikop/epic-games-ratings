@@ -14,10 +14,10 @@
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
-| 16 | [Without Escape](games/w/without_escape.md) | 9.09% |
-| 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
-| 18 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.70% |
+| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.64% |
+| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
+| 17 | [Without Escape](games/w/without_escape.md) | 9.09% |
+| 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 8.33% |
 | 19 | [Smelter](games/s/smelter.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.11% |
@@ -38,9 +38,9 @@
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.89% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
-| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
-| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.80% |
-| 41 | [Doodle God](games/d/doodle_god.md) | 3.79% |
+| 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.80% |
+| 40 | [Doodle God](games/d/doodle_god.md) | 3.79% |
+| 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.79% |
 | 42 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 44 | [The Complex](games/t/the_complex.md) | 3.31% |
@@ -80,7 +80,7 @@
 | 78 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 79 | [Frogun](games/f/frogun.md) | 1.50% |
 | 80 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.33% |
-| 81 | [Ten Dates](games/t/ten_dates.md) | 1.27% |
+| 81 | [Ten Dates](games/t/ten_dates.md) | 1.26% |
 | 82 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.23% |
 | 83 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 84 | [Chorus](games/c/chorus.md) | 1.16% |
@@ -119,12 +119,12 @@
 | 116 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
 | 118 | [Potion Permit](games/p/potion_permit.md) | 0.43% |
 | 118 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
-| 120 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 120 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.37% |
+| 120 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
+| 121 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 122 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.36% |
 | 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 122 | [Tchia](games/t/tchia.md) | 0.36% |
 | 122 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
-| 125 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
 | 126 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 127 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
