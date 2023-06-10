@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 209,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -975,9 +975,9 @@
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -1008,8 +1008,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:03:42.4508261+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:06:25.7704219+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:48.0016339+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:58:39.6006686+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:03:42.4508383+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:01:30.3556727+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:06:25.7704369+00:00"
 }

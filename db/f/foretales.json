@@ -389,17 +389,17 @@
       "ID": "theRanger",
       "SetID": "5bkacmp",
       "Name": "Caged tiger",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 162
     },
     {
       "ID": "theUnionLeader",
       "SetID": "5bkacmp",
       "Name": "Gorilla warfare",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "trialByCombat",
@@ -438,8 +438,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:06:38.769657+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:09:17.9426005+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.4102894+00:00",
-  "LastUpdate_Ratings": "2023-06-10T12:00:47.5603102+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:06:38.7696828+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:03:35.1223711+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:09:17.9426334+00:00"
 }

@@ -7,15 +7,15 @@ Rating: 3.88 (Ranked 919)
 | ---- | ---------- | ----- |
 | I don't feel so good | 41.00% | ~487 |
 | Electrician | 33.00% | ~392 |
-| Fear my botany powers, Mars | 31.00% | ~368 |
+| Fear my botany powers, Mars | 31.00% | ~369 |
 | Zero Waste | 29.00% | ~345 |
 | Bob The Builder | 29.00% | ~345 |
 | I am the greatest botanist on this planet. | 28.00% | ~333 |
 | Miner | 24.00% | ~285 |
 | Gardener | 23.00% | ~273 |
-| Houston we have a problem | 21.00% | ~249 |
-| Occupy Mars! | 21.00% | ~249 |
-| Detective | 18.00% | ~214 |
+| Houston we have a problem | 21.00% | ~250 |
+| Occupy Mars! | 21.00% | ~250 |
+| Detective | 17.00% | ~202 |
 | The Collector | 14.00% | ~166 |
 | Get your hands dirty | 9.00% | ~107 |
 | All Wheel Trouble | 6.00% | ~71 |
@@ -35,9 +35,9 @@ Rating: 3.88 (Ranked 919)
 | Bull’s eye | 0.40% | ~5 |
 | Planetary Defence | 0.40% | ~5 |
 | Rover Mechanic | 0.40% | ~5 |
+| Hot Repairs | 0.30% | ~4 |
 | Korolev crater | 0.30% | ~4 |
-| Hot Repairs | 0.20% | ~2 |
-| One does not simply... | 0.20% | ~2 |
+| One does not simply... | 0.30% | ~4 |
 | Cooking Vegetables | 0.10% | ~1 |
 | Historical Places | 0.10% | ~1 |
 | Never Ending Story? | 0.10% | ~1 |
@@ -54,7 +54,7 @@ Rating: 3.88 (Ranked 919)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,188 (Ranked 167)  
+Progressed: 1,189 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 1,144 | 0 |
 | 2023-06-08 | 1,162 | 0 |
 | 2023-06-09 | 1,179 | 0 |
-| 2023-06-10 | 1,188 | 0 |
+| 2023-06-10 | 1,189 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

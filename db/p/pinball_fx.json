@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1534,9 +1534,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 227177,
+  "EOS_Progressed": 227193,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2351,
+  "EOS_NewPlayers": 2346,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6869,6 +6869,11 @@
       "Time": "2023-06-10T12:06:18.1887552+00:00",
       "NumProgressed": 227177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T13:08:56.4993001+00:00",
+      "NumProgressed": 227193,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -6928,7 +6933,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24989
+      "UsersEstimate": 24991
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -6968,7 +6973,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9087
+      "UsersEstimate": 9088
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -7040,7 +7045,7 @@
       "Name": "I Found it!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15902
+      "UsersEstimate": 15904
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -7088,7 +7093,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6815
+      "UsersEstimate": 6816
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -7104,7 +7109,7 @@
       "Name": "Ball Launched",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 184013
+      "UsersEstimate": 184026
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -7112,22 +7117,22 @@
       "Name": "I know the Rules",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 95414
+      "UsersEstimate": 95421
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 227177,
+      "Progressed": 227193,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-06-09T16:59:40.527418+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:06:18.1887548+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:08:56.4992996+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.6663807+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:59:10.0939858+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:06:18.1887963+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:02:00.1491346+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:08:56.4993588+00:00"
 }

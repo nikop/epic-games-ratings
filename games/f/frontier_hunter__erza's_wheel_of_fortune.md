@@ -24,14 +24,14 @@
 | Lethal Blade Mantis Killer | 64.00% | ~7 |
 | Squeaky Clean | 64.00% | ~7 |
 | Kind Adventurer | 64.00% | ~7 |
+| Mermaid Killer | 64.00% | ~7 |
 | Trader | 64.00% | ~7 |
 | Weapon Boost | 64.00% | ~7 |
 | Seal Breaker | 64.00% | ~7 |
 | Flying Kobold Killer | 55.00% | ~6 |
-| Mermaid Killer | 55.00% | ~6 |
+| Cave Master | 55.00% | ~6 |
 | Face Slapper | 55.00% | ~6 |
-| Cave Master | 45.00% | ~5 |
-| Master Artificer | 36.00% | ~4 |
+| Master Artificer | 45.00% | ~5 |
 | Master Cook | 27.00% | ~3 |
 | Berserker Slayer | 9.00% | ~1 |
 | Rebellious | 0.00% | ~0 |

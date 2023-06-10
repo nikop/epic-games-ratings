@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -333,9 +333,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -557,9 +557,9 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -596,8 +596,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:02:13.7630153+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:05:09.4647977+00:00",
   "LastUpdate_AppInfo": "2023-06-08T03:57:14.5111987+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:56:58.5611521+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:02:13.7630469+00:00"
+  "LastUpdate_Ratings": "2023-06-10T12:59:49.039209+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:05:09.4648406+00:00"
 }

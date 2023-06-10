@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Aspairagus | 54.00% | ~29 |
-| Seeds of War | 51.00% | ~53 |
+| Seeds of War | 52.00% | ~54 |
 | Survivor | 46.00% | ~25 |
 | First Blood | 38.00% | ~40 |
 | Early Survivor | 37.00% | ~20 |

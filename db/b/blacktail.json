@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 468,
+  "EOS_Progressed": 469,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -829,6 +829,11 @@
       "Time": "2023-06-10T10:06:59.7846187+00:00",
       "NumProgressed": 468,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T13:09:03.7795494+00:00",
+      "NumProgressed": 469,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -888,7 +893,7 @@
       "Name": "Devoted",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "EyeSpy",
@@ -1054,9 +1059,9 @@
       "ID": "ToothFairy",
       "SetID": "2aagp3d",
       "Name": "Tooth fairy",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 117
     },
     {
       "ID": "Toxic",
@@ -1080,7 +1085,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "YagaProfessional",
@@ -1095,7 +1100,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 468,
+      "Progressed": 469,
       "Completed": 1
     }
   ],
@@ -1103,8 +1108,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:06:24.6281004+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:09:03.7795489+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:03.0439697+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:57:58.830769+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:06:24.6281221+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:00:50.5754369+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:09:03.7795782+00:00"
 }

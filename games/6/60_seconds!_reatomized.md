@@ -6,22 +6,22 @@ Rating: 4.64 (Ranked 315)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Prepper | 92.00% | ~3,893 |
-| All thumbs | 91.00% | ~3,850 |
-| I will survive! | 91.00% | ~3,850 |
+| All thumbs | 91.00% | ~3,851 |
+| I will survive! | 91.00% | ~3,851 |
 | Home, sweet home | 89.00% | ~3,766 |
-| Survivalist | 88.00% | ~3,723 |
-| One way ticket | 83.00% | ~3,512 |
-| Last man standing | 77.00% | ~3,258 |
-| Family guy | 75.00% | ~3,173 |
-| Out of the Bag | 72.00% | ~3,046 |
+| Survivalist | 88.00% | ~3,724 |
+| One way ticket | 83.00% | ~3,513 |
+| Last man standing | 77.00% | ~3,259 |
+| Family guy | 75.00% | ~3,174 |
+| Out of the Bag | 72.00% | ~3,047 |
 | The Dark Side | 67.00% | ~2,835 |
-| Duck and cover! | 62.00% | ~2,623 |
+| Duck and cover! | 62.00% | ~2,624 |
 | Souper! | 60.00% | ~2,539 |
-| Pacifist | 56.00% | ~2,369 |
+| Pacifist | 56.00% | ~2,370 |
 | 2-1-6 | 54.00% | ~2,285 |
 | A gift | 50.00% | ~2,116 |
 | Girl Power | 44.00% | ~1,862 |
-| What goes around... | 40.00% | ~1,692 |
+| What goes around... | 40.00% | ~1,693 |
 | Be Prepared | 35.00% | ~1,481 |
 | Unbreakable | 34.00% | ~1,439 |
 | Atomic drill | 32.00% | ~1,354 |
@@ -34,8 +34,8 @@ Rating: 4.64 (Ranked 315)
 | New species | 15.00% | ~635 |
 | A New Hope | 14.00% | ~592 |
 | Enigma | 14.00% | ~592 |
-| Challenger | 11.00% | ~465 |
-| Men in Black | 11.00% | ~465 |
+| Challenger | 11.00% | ~466 |
+| Men in Black | 11.00% | ~466 |
 | No stone unturned | 10.00% | ~423 |
 | Unplugged | 7.00% | ~296 |
 | Holidays! | 6.00% | ~254 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 315)
 | Miracle | 0.20% | ~8 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,231 (Ranked 131)  
+Progressed: 4,232 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 4,189 | 0 |
 | 2023-06-08 | 4,209 | 0 |
 | 2023-06-09 | 4,226 | 0 |
-| 2023-06-10 | 4,231 | 0 |
+| 2023-06-10 | 4,232 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

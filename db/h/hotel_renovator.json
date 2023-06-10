@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -671,9 +671,9 @@
       "ID": "ACH_BOOK_ALL",
       "SetID": "7k95e4n",
       "Name": "King of hospitality",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 80
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -888,8 +888,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:06:32.2548368+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:09:11.3674128+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:10.7192989+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:57:12.0022475+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:06:32.2548532+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:00:03.0140816+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:09:11.3674357+00:00"
 }

@@ -238,9 +238,9 @@
       "ID": "A_Kill_Cookie_Cutter",
       "SetID": "56632p4",
       "Name": "Cookie Addict",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "A_Meet_Uncle_Steff",
@@ -262,9 +262,9 @@
       "ID": "A_Mine_1_Asteroid",
       "SetID": "56632p4",
       "Name": "Miner",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "A_Mine_25_Asteroid",
@@ -302,9 +302,9 @@
       "ID": "A_Salvage_1_Wreck",
       "SetID": "56632p4",
       "Name": "Salvager",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "A_Salvage_25_Wrecks",
@@ -335,8 +335,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:03:16.1777879+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:05:30.1920471+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.0529187+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:59:05.5559816+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:03:16.1777995+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:01:55.8702161+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:05:30.1920657+00:00"
 }

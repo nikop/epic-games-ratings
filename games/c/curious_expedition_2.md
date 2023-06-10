@@ -23,7 +23,7 @@ Number of Ratings: 20  (23.09.2022)
 | Uncertain Loyalties | 23.00% | ~72 |
 | Traveller | 22.00% | ~69 |
 | Nahua Seeker | 22.00% | ~69 |
-| Roll to Save | 20.00% | ~63 |
+| Roll to Save | 21.00% | ~66 |
 | Red Flag Pirate | 18.00% | ~56 |
 | Veteran Explorer | 18.00% | ~56 |
 | Iron Man | 15.00% | ~47 |
@@ -37,7 +37,7 @@ Number of Ratings: 20  (23.09.2022)
 | Plays Well With Others | 13.00% | ~41 |
 | Adventurer | 12.00% | ~38 |
 | Discovery | 12.00% | ~38 |
-| Very Classy | 11.00% | ~34 |
+| Very Classy | 12.00% | ~38 |
 | And Here Is Your Statue | 10.00% | ~31 |
 | Under the Table | 10.00% | ~31 |
 | It's Complicated | 10.00% | ~31 |

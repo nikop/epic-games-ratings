@@ -30,7 +30,7 @@ Rating: 4.52 (Ranked 514)
 | Unstoppable | 18.00% | ~145 |
 | You're a star | 18.00% | ~145 |
 | Reunited | 17.00% | ~137 |
-| King of hospitality | 10.00% | ~80 |
+| King of hospitality | 11.00% | ~88 |
 | Top spot in town | 3.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 804 (Ranked 185)  

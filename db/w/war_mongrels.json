@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -849,9 +849,9 @@
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_COLL_20",
@@ -969,9 +969,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1201,9 +1201,9 @@
       "ID": "ACH_NODETECT",
       "SetID": "1j25agn",
       "Name": "Tiptoe Around",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_NOMOON",
@@ -1225,8 +1225,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-30T02:57:27.9814128+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:03:46.0341285+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:06:29.389836+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:37.2138018+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:57:35.7370301+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:03:46.0341916+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:00:26.2727351+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:06:29.3898955+00:00"
 }

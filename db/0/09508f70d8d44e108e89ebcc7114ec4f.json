@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 261,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.68,
   "EosHistory": [
@@ -635,9 +635,9 @@
       "ID": "aquatic_farm",
       "SetID": "ap7g2g4",
       "Name": "Aquatic Farm",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "balloon",
@@ -723,9 +723,9 @@
       "ID": "marketplace",
       "SetID": "ap7g2g4",
       "Name": "Marketplace",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "match_12",
@@ -787,9 +787,9 @@
       "ID": "tavern",
       "SetID": "ap7g2g4",
       "Name": "Tavern",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "village",
@@ -803,9 +803,9 @@
       "ID": "water_platform",
       "SetID": "ap7g2g4",
       "Name": "Water platform",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "wheat_farm",
@@ -834,8 +834,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:03:44.0498125+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:06:27.3830875+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:57:05.1375663+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:03:44.049829+00:00"
+  "LastUpdate_Ratings": "2023-06-10T12:59:56.1591035+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:06:27.3831099+00:00"
 }

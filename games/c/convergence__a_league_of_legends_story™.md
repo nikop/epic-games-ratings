@@ -4,15 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Steel Shadow | 6.00% | ~39 |
 | Treasure Trove | 6.00% | ~39 |
 | Make Up For Lost Time | 6.00% | ~39 |
 | Cartographer | 6.00% | ~39 |
 | Time Heals All Wounds | 6.00% | ~39 |
-| The Steel Shadow | 5.00% | ~32 |
 | The Mysterious Stranger | 5.00% | ~32 |
 | Rail Rat | 5.00% | ~32 |
 | No, Thanks! | 5.00% | ~32 |
 | Breaking Down Barriers | 5.00% | ~32 |
+| The Wicked Twins | 5.00% | ~32 |
 | The Prince in Heels | 5.00% | ~32 |
 | Immaculate Aim | 5.00% | ~32 |
 | Like Clockwork | 4.00% | ~26 |
@@ -23,21 +24,20 @@
 | The Loose Cannon | 4.00% | ~26 |
 | Time Flies | 4.00% | ~26 |
 | The Harder They Fall | 4.00% | ~26 |
-| The Wicked Twins | 4.00% | ~26 |
 | Golem Chaser | 4.00% | ~26 |
 | Fast Learner | 4.00% | ~26 |
 | Check Your Pulse | 4.00% | ~26 |
 | Immaculate Aim | 4.00% | ~26 |
 | The Brass Boss | 4.00% | ~26 |
 | The Family Fortune | 4.00% | ~26 |
-| Chaincrawler Explorer | 3.00% | ~19 |
-| Right On Time | 3.00% | ~19 |
-| Whiz Kid | 3.00% | ~19 |
-| Honest Mistake | 3.00% | ~19 |
-| Sump Explorer | 3.00% | ~19 |
-| Syron for Hope | 3.00% | ~19 |
-| Ask Questions Later | 3.00% | ~19 |
-| Good Neighbor | 3.00% | ~19 |
+| Chaincrawler Explorer | 3.00% | ~20 |
+| Right On Time | 3.00% | ~20 |
+| Whiz Kid | 3.00% | ~20 |
+| Honest Mistake | 3.00% | ~20 |
+| Sump Explorer | 3.00% | ~20 |
+| Syron for Hope | 3.00% | ~20 |
+| Ask Questions Later | 3.00% | ~20 |
+| Good Neighbor | 3.00% | ~20 |
 | Corin Goes Home | 2.00% | ~13 |
 | Sartorialist | 2.00% | ~13 |
 | Cultivair Explorer | 2.00% | ~13 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649 (Ranked 192)  
+Progressed: 650 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 624 | 0 |
 | 2023-06-08 | 633 | 0 |
 | 2023-06-09 | 642 | 0 |
-| 2023-06-10 | 649 | 0 |
+| 2023-06-10 | 650 | 0 |

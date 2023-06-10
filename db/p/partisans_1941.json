@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1004,
+  "EOS_Progressed": 1005,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1010,6 +1010,11 @@
       "Time": "2023-06-10T08:07:18.5927036+00:00",
       "NumProgressed": 1004,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T13:09:11.0381555+00:00",
+      "NumProgressed": 1005,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1101,7 +1106,7 @@
       "Name": "E1M1",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Everyone_is_here",
@@ -1109,7 +1114,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Experienced_strategist",
@@ -1133,7 +1138,7 @@
       "Name": "Grenadier",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Hard_Serpent",
@@ -1237,7 +1242,7 @@
       "Name": "War Never Changes",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "We_were_not_here",
@@ -1253,22 +1258,22 @@
       "Name": "Your Answer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1004,
+      "Progressed": 1005,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:06:31.8918742+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:09:11.0381549+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:59:26.1881248+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:06:31.8918943+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:02:15.8699541+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:09:11.0381774+00:00"
 }

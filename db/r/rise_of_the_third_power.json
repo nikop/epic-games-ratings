@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -114,9 +114,9 @@
       "ID": "Bloodlust",
       "SetID": "4nce15l",
       "Name": "Bloodlust",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "Determined",
@@ -267,8 +267,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:06:16.7792885+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:08:55.5706727+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.4817304+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:59:09.6764988+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:06:16.7793007+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:01:59.8260954+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:08:55.5706852+00:00"
 }

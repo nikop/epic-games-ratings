@@ -5,9 +5,9 @@
   "Ranking_Rating": 728,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
-  "Ranking_EOS_Progress": 217,
+  "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 376,
+  "EOS_Progressed": 377,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -775,6 +775,11 @@
       "Time": "2023-06-10T12:06:30.3669884+00:00",
       "NumProgressed": 376,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T13:09:09.5755618+00:00",
+      "NumProgressed": 377,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -834,7 +839,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "kill-lieutenants",
@@ -850,15 +855,15 @@
       "Name": "Hokey-Pokey",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "play-at-night",
       "SetID": "bed33dd",
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 109
     },
     {
       "ID": "product-profit",
@@ -922,7 +927,7 @@
       "Name": "Take-Off",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "use-submarine",
@@ -937,15 +942,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 376,
+      "Progressed": 377,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:06:30.366988+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:09:09.5755612+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:38.1084534+00:00",
-  "LastUpdate_Ratings": "2023-06-10T12:00:23.6619562+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:06:30.3670027+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:03:11.7379921+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:09:09.5755782+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 650,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1144,6 +1144,11 @@
       "Time": "2023-06-10T12:05:46.3121024+00:00",
       "NumProgressed": 649,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T13:08:24.6965144+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -1161,9 +1166,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 39
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1171,7 +1176,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ChestCompletion1",
@@ -1187,7 +1192,7 @@
       "Name": "Right On Time",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1307,7 +1312,7 @@
       "Name": "Whiz Kid",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "GrindingTime1",
@@ -1425,9 +1430,9 @@
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "PidgeDefeated",
@@ -1451,7 +1456,7 @@
       "Name": "Honest Mistake",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1499,7 +1504,7 @@
       "Name": "Sump Explorer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SyronGift",
@@ -1507,7 +1512,7 @@
       "Name": "Syron for Hope",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TemporalPulseKills1",
@@ -1547,7 +1552,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "WatcherSpared",
@@ -1555,7 +1560,7 @@
       "Name": "Good Neighbor",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Zarkon1Defeated",
@@ -1578,14 +1583,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 650,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:05:46.3121019+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:08:24.6965138+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:59:36.8049034+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:05:46.3121434+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:02:26.5775544+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:08:24.6965693+00:00"
 }

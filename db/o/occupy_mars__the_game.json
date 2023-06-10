@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1188,
+  "EOS_Progressed": 1189,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -1747,6 +1747,11 @@
       "Time": "2023-06-10T12:04:15.7498339+00:00",
       "NumProgressed": 1188,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T13:06:58.0331445+00:00",
+      "NumProgressed": 1189,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1804,9 +1809,9 @@
       "ID": "ACHIEVEMENT_HOT_REPAIRS",
       "SetID": "l546gc",
       "Name": "Hot Repairs",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_LETS_COOK",
@@ -1878,7 +1883,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1908,9 +1913,9 @@
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
       "SetID": "l546gc",
       "Name": "Detective",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 202
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -1982,7 +1987,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -2030,15 +2035,15 @@
       "Name": "Occupy Mars!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
       "SetID": "l546gc",
       "Name": "One does not simply...",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_PARTY_TIME",
@@ -2141,7 +2146,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1188,
+      "Progressed": 1189,
       "Completed": 0
     }
   ],
@@ -2149,8 +2154,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-08T18:57:45.1074866+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:04:15.7498331+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:06:58.0331439+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:57:29.7423298+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:04:15.7498706+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:00:20.5767038+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:06:58.0332015+00:00"
 }

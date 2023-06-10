@@ -5,11 +5,11 @@ Rating: 4.31 (Ranked 758)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 68.00% | ~662 |
-| First Blood | 64.00% | ~623 |
+| The First Step | 67.00% | ~653 |
+| First Blood | 64.00% | ~624 |
 | Ready to Learn | 62.00% | ~604 |
-| Monster Hunter | 53.00% | ~516 |
-| Earning Trust | 50.00% | ~487 |
+| Monster Hunter | 53.00% | ~517 |
+| Earning Trust | 50.00% | ~488 |
 | Monster Slayer | 28.00% | ~273 |
 | Awakening | 22.00% | ~214 |
 | Huntmaster | 21.00% | ~205 |
@@ -20,16 +20,16 @@ Rating: 4.31 (Ranked 758)
 | Way of the King | 6.00% | ~58 |
 | Til We Meet Again | 4.00% | ~39 |
 | Way of the Warlord | 3.00% | ~29 |
-| The Unvanquished | 2.00% | ~19 |
-| Let Us Cling Together | 2.00% | ~19 |
-| Arrow in the Wind | 2.00% | ~19 |
+| The Unvanquished | 2.00% | ~20 |
+| Let Us Cling Together | 2.00% | ~20 |
+| Arrow in the Wind | 2.00% | ~20 |
 | First Bloom | 1.00% | ~10 |
 | A Promised Voyage | 1.00% | ~10 |
 | Life or Death | 0.80% | ~8 |
 | Someone to Protect | 0.60% | ~6 |
 | Lean on Me | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974 (Ranked 179)  
+Progressed: 975 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 964 | 0 |
 | 2023-06-08 | 965 | 0 |
 | 2023-06-09 | 971 | 0 |
-| 2023-06-10 | 974 | 0 |
+| 2023-06-10 | 975 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,8 +10,8 @@
 | Nueva Beginnings | 34.00% | ~143 |
 | Only Thyme Will Tell | 31.00% | ~130 |
 | We Go Again | 31.00% | ~130 |
+| In Contempt of Duvet | 29.00% | ~122 |
 | Not Alone | 29.00% | ~122 |
-| In Contempt of Duvet | 28.00% | ~118 |
 | Booty Call | 26.00% | ~109 |
 | Planting the Seed | 21.00% | ~88 |
 | Light Sleepers | 16.00% | ~67 |

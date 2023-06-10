@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,778 |
-| That's a Grand Army | 8.00% | ~4,247 |
-| That is mine! | 8.00% | ~4,247 |
-| Victorious! | 8.00% | ~4,247 |
-| Brothers in Arms | 6.00% | ~3,185 |
-| That's a Grand Navy | 6.00% | ~3,185 |
-| Seriously?! | 6.00% | ~3,185 |
-| For the Glory | 5.00% | ~2,654 |
-| Cold War | 4.00% | ~2,123 |
-| True Catholic | 4.00% | ~2,123 |
-| Defender of the Faith | 3.00% | ~1,593 |
-| It's all about the money | 3.00% | ~1,593 |
-| Respected | 3.00% | ~1,593 |
-| Truly Divine Ruler | 3.00% | ~1,593 |
+| Until death do us apart | 9.00% | ~4,781 |
+| That's a Grand Army | 8.00% | ~4,250 |
+| That is mine! | 8.00% | ~4,250 |
+| Victorious! | 8.00% | ~4,250 |
+| Brothers in Arms | 6.00% | ~3,187 |
+| That's a Grand Navy | 6.00% | ~3,187 |
+| Seriously?! | 6.00% | ~3,187 |
+| For the Glory | 5.00% | ~2,656 |
+| Cold War | 4.00% | ~2,125 |
+| True Catholic | 4.00% | ~2,125 |
+| Defender of the Faith | 3.00% | ~1,594 |
+| It's all about the money | 3.00% | ~1,594 |
+| Respected | 3.00% | ~1,594 |
+| Truly Divine Ruler | 3.00% | ~1,594 |
 | Agressive Expander | 2.00% | ~1,062 |
 | Blockader | 2.00% | ~1,062 |
 | Combined Arms | 2.00% | ~1,062 |
@@ -50,12 +50,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Electable! | 0.60% | ~319 |
 | Populists in Government | 0.60% | ~319 |
 | Time Bandit | 0.60% | ~319 |
-| One Family to Rule them All | 0.50% | ~265 |
-| Ruina Imperii | 0.50% | ~265 |
-| The pen is mightier than the sword | 0.50% | ~265 |
-| This is My Faith | 0.50% | ~265 |
-| Trophy Hunter | 0.50% | ~265 |
-| Voting Streak | 0.50% | ~265 |
+| One Family to Rule them All | 0.50% | ~266 |
+| Ruina Imperii | 0.50% | ~266 |
+| The pen is mightier than the sword | 0.50% | ~266 |
+| This is My Faith | 0.50% | ~266 |
+| Trophy Hunter | 0.50% | ~266 |
+| Voting Streak | 0.50% | ~266 |
 | Absolutely | 0.40% | ~212 |
 | All Your Trade Are Belong to Us | 0.40% | ~212 |
 | Bleed Them Dry | 0.40% | ~212 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,084 (Ranked 78)  
+Progressed: 53,122 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,17 +412,17 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 51,714 | 0 |
 | 2023-06-08 | 52,261 | 0 |
 | 2023-06-09 | 52,837 | 0 |
-| 2023-06-10 | 53,084 | 0 |
+| 2023-06-10 | 53,122 | 0 |
 ## Awards
 Max (Educational): 5,371  (Ranked 61)  
-Sum: 44,354 (Ranked 27)  
+Sum: 44,360 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,371 |
 | This game is Highly Recommended | 5,139 |
 | This game has Challenging Combat | 5,113 |
-| This game is Extremely Fun | 5,081 |
+| This game is Extremely Fun | 5,087 |
 | This game has Diverse Characters | 5,057 |
 | This game is Relaxing | 4,978 |
 | This game has Competitive Players | 4,830 |
@@ -576,4 +576,4 @@ Diff (max vs sum): 34
 | 2023-06-07 | 4.68 | - | 5,359 | 44,260 |
 | 2023-06-08 | 4.68 | - | 5,363 | 44,296 |
 | 2023-06-09 | 4.68 | - | 5,371 | 44,348 |
-| 2023-06-10 | 4.68 | - | 5,371 | 44,354 |
+| 2023-06-10 | 4.68 | - | 5,371 | 44,360 |

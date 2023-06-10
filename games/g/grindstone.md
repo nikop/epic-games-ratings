@@ -1,25 +1,25 @@
 # Grindstone
 [Store](https://store.epicgames.com/en-US/p/grindstone)  
 [View Rawdata](../../db/g/grindstone.json)  
-Rating: 4.84 (Ranked 50)  
+Rating: 4.84 (Ranked 51)  
 Number of Ratings: 63  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,004 |
-| The Journey Begins | 98.00% | ~5,004 |
+| Quinceañera Time | 98.00% | ~5,005 |
+| The Journey Begins | 98.00% | ~5,005 |
 | Slaughterhouse 5 (200 times) | 78.00% | ~3,983 |
-| There is No Escape | 71.00% | ~3,625 |
+| There is No Escape | 71.00% | ~3,626 |
 | Fun, Flirty, and Thirty | 62.00% | ~3,166 |
 | Royal Flush | 62.00% | ~3,166 |
 | Timber! | 60.00% | ~3,064 |
 | Survive the Bombsequences | 59.00% | ~3,013 |
-| Killed 20 Jerks | 53.00% | ~2,706 |
-| Death Defied | 53.00% | ~2,706 |
+| Killed 20 Jerks | 53.00% | ~2,707 |
+| Death Defied | 53.00% | ~2,707 |
 | Fortunate Soul | 49.00% | ~2,502 |
 | Jerk-Slayer | 43.00% | ~2,196 |
-| Employee of the Month | 37.00% | ~1,889 |
-| I Believe I Can Fly | 37.00% | ~1,889 |
+| Employee of the Month | 37.00% | ~1,890 |
+| I Believe I Can Fly | 37.00% | ~1,890 |
 | Bone Collector | 35.00% | ~1,787 |
 | Fe-Festival | 35.00% | ~1,787 |
 | Top of the Food Chain | 32.00% | ~1,634 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~31 |
 | Completionist | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,106 (Ranked 127)  
+Progressed: 5,107 (Ranked 127)  
 Completed: 27 (0.53%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 27 (0.53%) (Ranked 113)
 | 2023-06-06 | 5,098 | 26 |
 | 2023-06-08 | 5,100 | 26 |
 | 2023-06-09 | 5,104 | 27 |
-| 2023-06-10 | 5,106 | 27 |
+| 2023-06-10 | 5,107 | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

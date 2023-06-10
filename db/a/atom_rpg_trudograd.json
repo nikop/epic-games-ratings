@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -195,9 +195,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1090,
+  "EOS_Progressed": 1091,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -665,6 +665,11 @@
       "Time": "2023-06-10T12:06:16.8063786+00:00",
       "NumProgressed": 1090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T13:08:54.830943+00:00",
+      "NumProgressed": 1091,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -836,7 +841,7 @@
       "Name": "An Old Friend",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "POSITRONIUM",
@@ -858,9 +863,9 @@
       "ID": "RISING_STAR",
       "SetID": "62d2oh4",
       "Name": "Rising Star",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "SECOND_THOUGHT",
@@ -924,14 +929,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1090,
+      "Progressed": 1091,
       "Completed": 0
     }
   ],
@@ -939,8 +944,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-06-06T13:57:30.8071111+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:06:16.8063784+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:08:54.8309425+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:22.7249078+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:57:23.0449665+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:06:16.8063971+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:00:13.8784539+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:08:54.8309703+00:00"
 }

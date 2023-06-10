@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 13,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -344,10 +344,10 @@
     }
   ],
   "EOS_Progressed": 2073,
-  "EOS_Completed": 247,
+  "EOS_Completed": 248,
   "EOS_NewPlayers": 9,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 11.92,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 11.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.4001279+00:00",
@@ -883,6 +883,11 @@
       "Time": "2023-06-10T12:06:42.0942386+00:00",
       "NumProgressed": 2073,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-06-10T13:09:21.2597898+00:00",
+      "NumProgressed": 2073,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 53,
@@ -972,9 +977,9 @@
       "ID": "Detector",
       "SetID": "5lok9mm",
       "Name": "Chest Detector",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1140
     },
     {
       "ID": "Down",
@@ -1244,9 +1249,9 @@
       "ID": "SeeTown",
       "SetID": "5lok9mm",
       "Name": "Cage Town",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1949
     },
     {
       "ID": "Speed",
@@ -1318,14 +1323,14 @@
       "ID": "5lok9mm",
       "IsBase": true,
       "Progressed": 2073,
-      "Completed": 247
+      "Completed": 248
     }
   ],
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:06:42.0942379+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:09:21.2597895+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:31.3024022+00:00",
-  "LastUpdate_Ratings": "2023-06-10T12:00:16.5057941+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:06:42.0942776+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:03:05.6558566+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:09:21.259841+00:00"
 }

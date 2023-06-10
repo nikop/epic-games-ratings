@@ -15,26 +15,26 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 2.00% | ~305 |
 | Taking Action | 2.00% | ~305 |
 | No Deaths | 2.00% | ~305 |
-| Refinery | 1.00% | ~152 |
-| Homesick | 1.00% | ~152 |
-| Against All Odds | 1.00% | ~152 |
-| Bandit Camp | 1.00% | ~152 |
-| Barren Lands | 1.00% | ~152 |
-| Ancient Battleground | 1.00% | ~152 |
-| Sparkdew Crystals | 1.00% | ~152 |
-| Dangerous Lands | 1.00% | ~152 |
-| Haunted Forest | 1.00% | ~152 |
-| Levitating Monument | 1.00% | ~152 |
-| Flooded Mines | 1.00% | ~152 |
-| Monastery of the Holy Flame | 1.00% | ~152 |
-| Royal Outpost | 1.00% | ~152 |
-| Statue of the Forefathers | 1.00% | ~152 |
-| Corrosive Torrent | 1.00% | ~152 |
-| Watchtower | 1.00% | ~152 |
-| Cursed Lands | 1.00% | ~152 |
-| A Real Challenge | 1.00% | ~152 |
-| Like a Machine | 1.00% | ~152 |
-| Trade Baron | 1.00% | ~152 |
+| Refinery | 1.00% | ~153 |
+| Homesick | 1.00% | ~153 |
+| Against All Odds | 1.00% | ~153 |
+| Bandit Camp | 1.00% | ~153 |
+| Barren Lands | 1.00% | ~153 |
+| Ancient Battleground | 1.00% | ~153 |
+| Sparkdew Crystals | 1.00% | ~153 |
+| Dangerous Lands | 1.00% | ~153 |
+| Haunted Forest | 1.00% | ~153 |
+| Levitating Monument | 1.00% | ~153 |
+| Flooded Mines | 1.00% | ~153 |
+| Monastery of the Holy Flame | 1.00% | ~153 |
+| Royal Outpost | 1.00% | ~153 |
+| Statue of the Forefathers | 1.00% | ~153 |
+| Corrosive Torrent | 1.00% | ~153 |
+| Watchtower | 1.00% | ~153 |
+| Cursed Lands | 1.00% | ~153 |
+| A Real Challenge | 1.00% | ~153 |
+| Like a Machine | 1.00% | ~153 |
+| Trade Baron | 1.00% | ~153 |
 | Serving Ale | 0.90% | ~137 |
 | Forsaken Gods Temple | 0.90% | ~137 |
 | Into the Forest | 0.90% | ~137 |
@@ -51,13 +51,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Beaver Utopia | 0.30% | ~46 |
 | Human Utopia | 0.30% | ~46 |
 | The Queen's Chosen | 0.30% | ~46 |
-| Harpy Utopia | 0.20% | ~30 |
-| Treasure | 0.20% | ~30 |
-| Ruins | 0.20% | ~30 |
+| Harpy Utopia | 0.20% | ~31 |
+| Treasure | 0.20% | ~31 |
+| Ruins | 0.20% | ~31 |
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,250 (Ranked 101)  
+Progressed: 15,251 (Ranked 101)  
 Completed: 34 (0.22%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 34 (0.22%) (Ranked 143)
 | 2023-06-07 | 15,218 | 34 |
 | 2023-06-08 | 15,230 | 34 |
 | 2023-06-09 | 15,241 | 34 |
-| 2023-06-10 | 15,250 | 34 |
+| 2023-06-10 | 15,251 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 198)  
 Sum: 3,038 (Ranked 153)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1249,
+  "EOS_Progressed": 1250,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -800,6 +800,11 @@
       "Time": "2023-06-10T12:06:22.3659192+00:00",
       "NumProgressed": 1249,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-10T13:09:01.4594309+00:00",
+      "NumProgressed": 1250,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -811,7 +816,7 @@
       "Name": "We Emerge Changed",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_150Calamities",
@@ -835,7 +840,7 @@
       "Name": "Storied Past",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_5petsReceived",
@@ -843,7 +848,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -947,7 +952,7 @@
       "Name": "No More Nightmares",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -971,7 +976,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1019,7 +1024,7 @@
       "Name": "Chain Reaction",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -1043,7 +1048,7 @@
       "Name": "Everfading",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "completedStory_enduringWar",
@@ -1075,7 +1080,7 @@
       "Name": "A Story of Heroes",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "completedStory_ulstryx",
@@ -1083,7 +1088,7 @@
       "Name": "Daybreak",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1139,7 +1144,7 @@
       "Name": "Bears are Scary",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "theme_crow_blind20Enemies",
@@ -1179,7 +1184,7 @@
       "Name": "Into Mulch",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "theme_morthagi_killWithBoltAndHammer",
@@ -1211,7 +1216,7 @@
       "Name": "Astrology",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "theme_storm_kill3Enemies",
@@ -1258,15 +1263,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1249,
+      "Progressed": 1250,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:06:22.3659188+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:09:01.4594305+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.528783+00:00",
-  "LastUpdate_Ratings": "2023-06-10T12:00:53.251941+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:06:22.3659577+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:03:40.6448344+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:09:01.4594768+00:00"
 }

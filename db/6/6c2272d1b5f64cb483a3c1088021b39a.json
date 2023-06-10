@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -936,6 +936,11 @@
       "Time": "2023-06-10T12:03:34.9620184+00:00",
       "NumProgressed": 415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T13:06:18.1949873+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -947,7 +952,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "adventurous_2",
@@ -1043,7 +1048,7 @@
       "Name": "Collector 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "collector_2",
@@ -1115,7 +1120,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "elemental_stones_2",
@@ -1139,7 +1144,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "elite_deck_2",
@@ -1331,7 +1336,7 @@
       "Name": "Punctual 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "punctual_2",
@@ -1379,7 +1384,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "soul_shards_2",
@@ -1474,14 +1479,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 417,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:03:34.9620178+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:06:18.1949867+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:57:00.1876349+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:03:34.9620699+00:00"
+  "LastUpdate_Ratings": "2023-06-10T12:59:50.6325068+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:06:18.1951045+00:00"
 }

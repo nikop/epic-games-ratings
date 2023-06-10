@@ -2774,9 +2774,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9717,
+  "EOS_Progressed": 9722,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6104,6 +6104,11 @@
       "Time": "2023-06-10T12:06:45.7007463+00:00",
       "NumProgressed": 9717,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T13:09:24.6253856+00:00",
+      "NumProgressed": 9722,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6115,7 +6120,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "02_BurningCity",
@@ -6315,7 +6320,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "28_GreatUpstart",
@@ -6483,7 +6488,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "49_Flame",
@@ -7042,21 +7047,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8499,
+      "Progressed": 8504,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9717,
+      "Progressed": 9722,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-10T09:58:53.4550225+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:06:45.7007459+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:09:24.6253851+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:58:28.2931378+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:06:45.7008901+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:01:19.187767+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:09:24.6255742+00:00"
 }

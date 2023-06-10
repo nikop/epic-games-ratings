@@ -16,9 +16,9 @@
 | Iconoclasm | 14.00% | ~51 |
 | Gladiator | 13.00% | ~48 |
 | Librarian | 13.00% | ~48 |
+| Orcs Must Die! | 13.00% | ~48 |
 | The End | 13.00% | ~48 |
 | Lumberjack | 12.00% | ~44 |
-| Orcs Must Die! | 12.00% | ~44 |
 | Troubleshooter | 11.00% | ~40 |
 | Money Swag | 8.00% | ~29 |
 | Oops | 7.00% | ~26 |

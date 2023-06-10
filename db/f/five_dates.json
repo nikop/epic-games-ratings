@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -506,9 +506,9 @@
       "ID": "in_contempt_of_duvet",
       "SetID": "c4ipj3h",
       "Name": "In Contempt of Duvet",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 122
     },
     {
       "ID": "interrogation",
@@ -595,8 +595,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-10T12:04:10.5709913+00:00",
+  "LastChanged_Achievements": "2023-06-10T13:06:53.0024806+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.5548432+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:58:14.7098635+00:00",
-  "LastUpdate_Achievements": "2023-06-10T12:04:10.5710023+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:01:05.7178625+00:00",
+  "LastUpdate_Achievements": "2023-06-10T13:06:53.0024978+00:00"
 }

@@ -14,10 +14,10 @@ Number of Ratings: 209  (23.09.2022)
 | Knee bending | 96.00% | ~1,990 |
 | Pickaxe | 94.00% | ~1,949 |
 | Revenge | 94.00% | ~1,949 |
+| Cage Town | 94.00% | ~1,949 |
 | Force Beam | 93.00% | ~1,928 |
 | Entered Cage Town | 93.00% | ~1,928 |
 | Stone Pickaxe | 93.00% | ~1,928 |
-| Cage Town | 93.00% | ~1,928 |
 | Surprise | 93.00% | ~1,928 |
 | Magnet | 90.00% | ~1,866 |
 | Industrial Area | 89.00% | ~1,845 |
@@ -50,7 +50,7 @@ Number of Ratings: 209  (23.09.2022)
 | Plumbster | 60.00% | ~1,244 |
 | Faster | 60.00% | ~1,244 |
 | Much Magic | 57.00% | ~1,182 |
-| Chest Detector | 54.00% | ~1,119 |
+| Chest Detector | 55.00% | ~1,140 |
 | Flames | 52.00% | ~1,078 |
 | Momentum | 45.00% | ~933 |
 | You're unsure if you broke the game or not | 42.00% | ~871 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 13.00% | ~269 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,073 (Ranked 152)  
-Completed: 247 (11.92%) (Ranked 13)  
+Completed: 248 (11.96%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,7 +108,7 @@ Completed: 247 (11.92%) (Ranked 13)
 | 2023-06-06 | 2,069 | 247 |
 | 2023-06-07 | 2,071 | 247 |
 | 2023-06-09 | 2,072 | 247 |
-| 2023-06-10 | 2,073 | 247 |
+| 2023-06-10 | 2,073 | 248 |
 ## Awards
 Max (Challenging Puzzles): 98  (Ranked 329)  
 Sum: 98 (Ranked 402)  

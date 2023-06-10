@@ -6,8 +6,8 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 62.00% | ~208 |
-| Cowardice | 54.00% | ~181 |
+| Explorer | 63.00% | ~211 |
+| Cowardice | 55.00% | ~184 |
 | NO LIFE IS WORTH SAVING... | 48.00% | ~161 |
 | Eat Lead! | 46.00% | ~154 |
 | Prospector | 42.00% | ~141 |
@@ -37,8 +37,8 @@ Number of Ratings: 34  (23.09.2022)
 | Without a Second Thought | 13.00% | ~44 |
 | Helping Hand | 12.00% | ~40 |
 | Collectibles of Chapter V | 9.00% | ~30 |
+| Tiptoe Around | 8.00% | ~27 |
 | Such is War! | 7.00% | ~23 |
-| Tiptoe Around | 7.00% | ~23 |
 | Collectibles of Chapter VII | 6.00% | ~20 |
 | Collectibles of Chapter XII | 6.00% | ~20 |
 | Piece of Cake | 6.00% | ~20 |
