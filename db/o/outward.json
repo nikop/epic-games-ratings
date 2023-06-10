@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2866,
+  "EOS_Progressed": 2867,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2414,6 +2414,11 @@
       "Time": "2023-06-10T20:03:30.1271057+00:00",
       "NumProgressed": 2866,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T21:03:23.01071+00:00",
+      "NumProgressed": 2867,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2465,7 +2470,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "CrowdPleaser",
@@ -2489,7 +2494,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2607,9 +2612,9 @@
       "ID": "ReadyforSummer_41",
       "SetID": "c4hee28",
       "Name": "Ready for Summer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1462
     },
     {
       "ID": "ReadyforWinter_42",
@@ -2633,7 +2638,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -2760,15 +2765,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2866,
+      "Progressed": 2867,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-10T20:03:30.1271052+00:00",
+  "LastChanged_Achievements": "2023-06-10T21:03:23.0107096+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.3082494+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:57:55.4847176+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:03:30.1271426+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:57:49.6092828+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:03:23.0107453+00:00"
 }

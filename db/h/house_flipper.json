@@ -1578,9 +1578,9 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 19495,
+  "EOS_Progressed": 19497,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4213,6 +4213,11 @@
       "Time": "2023-06-10T20:06:08.4124047+00:00",
       "NumProgressed": 19495,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-10T21:05:37.1294851+00:00",
+      "NumProgressed": 19497,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4224,7 +4229,7 @@
       "Name": "Family man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "CarMechanic",
@@ -4256,7 +4261,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2924
+      "UsersEstimate": 2925
     },
     {
       "ID": "EstateAgent",
@@ -4272,7 +4277,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18325
+      "UsersEstimate": 18327
     },
     {
       "ID": "GameOver",
@@ -4312,7 +4317,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "KnockKnock",
@@ -4384,7 +4389,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6043
+      "UsersEstimate": 6044
     },
     {
       "ID": "VeronicaLiptson",
@@ -4407,15 +4412,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19495,
+      "Progressed": 19497,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-09T17:00:13.2044899+00:00",
-  "LastChanged_Achievements": "2023-06-10T20:06:08.4124042+00:00",
+  "LastChanged_Achievements": "2023-06-10T21:05:37.1294847+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.9952882+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:59:35.8253129+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:06:08.4124289+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:59:15.2503345+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:05:37.1295111+00:00"
 }

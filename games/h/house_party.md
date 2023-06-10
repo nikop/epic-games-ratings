@@ -21,6 +21,7 @@ Number of Ratings: 177  (23.09.2022)
 | Newcomer: Vickie | 0.40% | ~22 |
 | Social Butterfly | 0.40% | ~22 |
 | Amy | 0.30% | ~17 |
+| I'll Be Back | 0.30% | ~17 |
 | Smooth Operator: Ashley | 0.30% | ~17 |
 | Stephanie | 0.30% | ~17 |
 | The Muse: Madison | 0.30% | ~17 |
@@ -29,7 +30,6 @@ Number of Ratings: 177  (23.09.2022)
 | Vickie | 0.30% | ~17 |
 | Amy: Scavenger Hunt | 0.20% | ~11 |
 | Benedict Brahrnold | 0.20% | ~11 |
-| I'll Be Back | 0.20% | ~11 |
 | Casanova | 0.20% | ~11 |
 | It Smells Like Roses | 0.20% | ~5 |
 | Love Conquers All | 0.20% | ~11 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,511 (Ranked 126)  
+Progressed: 5,513 (Ranked 126)  
 Completed: 3 (0.05%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 3 (0.05%) (Ranked 182)
 | 2023-06-07 | 5,438 | 3 |
 | 2023-06-08 | 5,462 | 3 |
 | 2023-06-09 | 5,480 | 3 |
-| 2023-06-10 | 5,511 | 3 |
+| 2023-06-10 | 5,513 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

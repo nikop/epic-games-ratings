@@ -5,33 +5,33 @@ Rating: 3.39 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~12,770 |
-| Hard Worker | 20.00% | ~12,162 |
-| Master, Commander | 20.00% | ~12,162 |
-| Mechanic | 19.00% | ~11,554 |
-| Adios, Friendo | 18.00% | ~10,946 |
-| Bottom's Up | 17.00% | ~10,338 |
-| Nice Try | 16.00% | ~9,730 |
-| Right On Target | 13.00% | ~7,905 |
-| Piano Man | 10.00% | ~6,081 |
-| Lazy Bones | 9.00% | ~5,473 |
+| Be Seeing You | 21.00% | ~12,772 |
+| Hard Worker | 20.00% | ~12,164 |
+| Master, Commander | 20.00% | ~12,164 |
+| Mechanic | 19.00% | ~11,555 |
+| Adios, Friendo | 18.00% | ~10,947 |
+| Bottom's Up | 17.00% | ~10,339 |
+| Nice Try | 16.00% | ~9,731 |
+| Right On Target | 13.00% | ~7,906 |
+| Piano Man | 10.00% | ~6,082 |
+| Lazy Bones | 9.00% | ~5,474 |
 | Sniper | 7.00% | ~4,257 |
 | Vinyl Vibes | 7.00% | ~4,257 |
 | Nothing Left to Say | 6.00% | ~3,649 |
 | Cut Call | 5.00% | ~3,041 |
-| Butcher | 4.00% | ~2,432 |
-| Magnetic Miracles | 4.00% | ~2,432 |
-| Spicy | 4.00% | ~2,432 |
-| A Man Of Taste | 3.00% | ~1,824 |
-| Ace in the Hole | 3.00% | ~1,824 |
-| Fair's Fair | 3.00% | ~1,824 |
-| Hearty | 3.00% | ~1,824 |
-| Meaty | 3.00% | ~1,824 |
-| Taco Toto | 3.00% | ~1,824 |
+| Butcher | 4.00% | ~2,433 |
+| Magnetic Miracles | 4.00% | ~2,433 |
+| Spicy | 4.00% | ~2,433 |
+| A Man Of Taste | 3.00% | ~1,825 |
+| Ace in the Hole | 3.00% | ~1,825 |
+| Fair's Fair | 3.00% | ~1,825 |
+| Hearty | 3.00% | ~1,825 |
+| Meaty | 3.00% | ~1,825 |
+| Taco Toto | 3.00% | ~1,825 |
 | Audiophile | 2.00% | ~1,216 |
 | Tape Head | 1.00% | ~608 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,811 (Ranked 74)  
+Progressed: 60,818 (Ranked 74)  
 Completed: 523 (0.86%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 523 (0.86%) (Ranked 95)
 | 2023-06-07 | 60,270 | 511 |
 | 2023-06-08 | 60,440 | 513 |
 | 2023-06-09 | 60,639 | 519 |
-| 2023-06-10 | 60,811 | 523 |
+| 2023-06-10 | 60,818 | 523 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

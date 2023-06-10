@@ -1,33 +1,33 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.30 (Ranked 765)  
+Rating: 4.29 (Ranked 771)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~989 |
-| Ranidaphobia | 75.00% | ~815 |
+| First Blood | 91.00% | ~990 |
+| Ranidaphobia | 75.00% | ~816 |
 | Aspiring Editor | 72.00% | ~783 |
-| Gun for Hire | 67.00% | ~728 |
-| I am the law! | 59.00% | ~641 |
+| Gun for Hire | 67.00% | ~729 |
+| I am the law! | 59.00% | ~642 |
 | Lumberjack | 46.00% | ~500 |
 | Croaked | 41.00% | ~446 |
 | Limp Richard | 41.00% | ~446 |
 | From Darkness to Light | 40.00% | ~435 |
 | Editor Adept | 38.00% | ~413 |
 | Exorcist | 38.00% | ~413 |
-| Firestarter | 37.00% | ~402 |
-| Giant Killer | 35.00% | ~380 |
+| Firestarter | 37.00% | ~403 |
+| Giant Killer | 35.00% | ~381 |
 | Sensei | 33.00% | ~359 |
 | The meaning of Kain | 32.00% | ~348 |
 | Technophobe | 30.00% | ~326 |
-| Recycler | 28.00% | ~304 |
-| Are you not entertained? | 23.00% | ~250 |
+| Recycler | 27.00% | ~294 |
+| Are you not entertained? | 24.00% | ~261 |
 | Ganglord | 23.00% | ~250 |
 | Jarhead | 23.00% | ~250 |
 | Infiltrator | 22.00% | ~239 |
 | Pushing Daisy | 22.00% | ~239 |
-| Chain Killer | 20.00% | ~217 |
+| Chain Killer | 20.00% | ~218 |
 | Experienced | 19.00% | ~207 |
 | There Can Be Only One! | 19.00% | ~207 |
 | Hold The Line | 18.00% | ~196 |
@@ -35,7 +35,7 @@ Rating: 4.30 (Ranked 765)
 | Savior | 16.00% | ~174 |
 | Newtonian Knockout | 14.00% | ~152 |
 | The Watchers | 14.00% | ~152 |
-| Ruthless | 12.00% | ~130 |
+| Ruthless | 12.00% | ~131 |
 | Chaos Theory | 10.00% | ~109 |
 | Dr Jones | 10.00% | ~109 |
 | Commando | 9.00% | ~98 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 765)
 | Side Order | 7.00% | ~76 |
 | Wipe Out | 6.00% | ~65 |
 | Bot Whisperer | 5.00% | ~54 |
-| Dressed To Kill | 4.00% | ~43 |
+| Dressed To Kill | 4.00% | ~44 |
 | Cruelty | 2.00% | ~22 |
 | Five Finger Deathcount | 0.90% | ~10 |
 | Alpha Editor | 0.60% | ~7 |
@@ -57,7 +57,7 @@ Rating: 4.30 (Ranked 765)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,087 (Ranked 171)  
+Progressed: 1,088 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 1,051 | 0 |
 | 2023-06-08 | 1,062 | 0 |
 | 2023-06-09 | 1,074 | 0 |
-| 2023-06-10 | 1,087 | 0 |
+| 2023-06-10 | 1,088 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -94,3 +94,4 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 4.34 | 0 | 0 |
 | 2023-06-08 | 4.31 | 0 | 0 |
 | 2023-06-09 | 4.30 | 0 | 0 |
+| 2023-06-10 | 4.29 | 0 | 0 |

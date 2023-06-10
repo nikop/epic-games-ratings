@@ -5,9 +5,9 @@
   "Ranking_Rating": 360,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
-  "Ranking_EOS_Progress": 176,
+  "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1010,
+  "EOS_Progressed": 1013,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1035,6 +1035,11 @@
       "Time": "2023-06-10T18:05:44.474928+00:00",
       "NumProgressed": 1010,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T21:05:47.2741255+00:00",
+      "NumProgressed": 1013,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1046,7 +1051,7 @@
       "Name": "Agent 47",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Auditor",
@@ -1078,7 +1083,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Commandos",
@@ -1094,7 +1099,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Defense_Common",
@@ -1126,7 +1131,7 @@
       "Name": "E1M1",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "Everyone_is_here",
@@ -1158,7 +1163,7 @@
       "Name": "Grenadier",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "Hard_Serpent",
@@ -1174,7 +1179,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "High_noon",
@@ -1182,7 +1187,7 @@
       "Name": "Payback Time",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "How",
@@ -1198,7 +1203,7 @@
       "Name": "Spice It Up",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "KillAllM2",
@@ -1206,7 +1211,7 @@
       "Name": "No Witness",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Kultprosvet",
@@ -1230,15 +1235,15 @@
       "Name": "Bomberman",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 263
     },
     {
       "ID": "Scout",
@@ -1262,7 +1267,7 @@
       "Name": "War Never Changes",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "We_were_not_here",
@@ -1285,15 +1290,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1010,
+      "Progressed": 1013,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-10T20:06:19.8219513+00:00",
+  "LastChanged_Achievements": "2023-06-10T21:05:47.274125+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:59:25.8532688+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:06:19.8219733+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:59:06.5889786+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:05:47.2741457+00:00"
 }

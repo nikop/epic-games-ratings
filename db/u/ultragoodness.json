@@ -2,7 +2,7 @@
   "ID": "510896860351404e830842d291ccc9c9",
   "Name": "UltraGoodness",
   "ProductSlug": "ultragoodness-a391d4",
-  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 106,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:16.0760964+00:00",
   "LastChanged": "2023-03-31T05:58:16.0760965+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:44.6457292+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:58:37.7470771+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:03:48.1970465+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:58:26.2215794+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:03:38.5075556+00:00"
 }

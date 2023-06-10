@@ -5,9 +5,9 @@
   "Ranking_Rating": 853,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
-  "Ranking_EOS_Progress": 206,
+  "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -284,6 +284,11 @@
       "Time": "2023-06-09T18:06:49.8250514+00:00",
       "NumProgressed": 431,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T21:05:52.6048497+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -295,7 +300,7 @@
       "Name": "Grand Opening",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -327,7 +332,7 @@
       "Name": "Circus Versus Circus",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -359,7 +364,7 @@
       "Name": "Path of Learning",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -543,7 +548,7 @@
       "Name": "King of District 3",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -605,9 +610,9 @@
       "ID": "ACHIEVEMENT_40",
       "SetID": "631ndc2",
       "Name": "Marketing Manager",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -694,7 +699,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 1
     }
   ],
@@ -702,8 +707,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-10T20:06:25.8174268+00:00",
+  "LastChanged_Achievements": "2023-06-10T21:05:52.6048493+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:15.7148549+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:59:05.0980461+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:06:25.8174627+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:58:49.7050129+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:05:52.6048845+00:00"
 }

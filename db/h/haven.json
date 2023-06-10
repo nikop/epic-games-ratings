@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,7 +168,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1249,
+  "EOS_Progressed": 1250,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
@@ -838,6 +838,11 @@
       "Time": "2023-06-10T16:07:07.9698022+00:00",
       "NumProgressed": 1249,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-10T21:05:47.0732238+00:00",
+      "NumProgressed": 1250,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -849,7 +854,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "10",
@@ -865,7 +870,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "12",
@@ -913,7 +918,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "18",
@@ -921,7 +926,7 @@
       "Name": "Like new!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "19",
@@ -969,7 +974,7 @@
       "Name": "Pearls before Birble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "24",
@@ -977,7 +982,7 @@
       "Name": "In my shoes",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "25",
@@ -1081,22 +1086,22 @@
       "Name": "Last minute",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1249,
+      "Progressed": 1250,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-10T20:06:19.5985321+00:00",
+  "LastChanged_Achievements": "2023-06-10T21:05:47.0732235+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:57.0089553+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:59:41.5507099+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:06:19.5985523+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:59:20.0022422+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:05:47.0732435+00:00"
 }

@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lucky charm | 92.00% | ~151 |
-| Trumpet | 89.00% | ~146 |
-| Spyglass | 84.00% | ~138 |
-| Broken toy | 78.00% | ~128 |
-| Egghead Lucy | 76.00% | ~125 |
+| Lucky charm | 92.00% | ~152 |
+| Trumpet | 88.00% | ~145 |
+| Spyglass | 84.00% | ~139 |
+| Broken toy | 78.00% | ~129 |
+| Egghead Lucy | 75.00% | ~124 |
 | Puppy | 62.00% | ~102 |
-| Coal's fur | 59.00% | ~97 |
-| Blue's drawing | 54.00% | ~89 |
-| Mysterious footprints | 47.00% | ~77 |
+| Coal's fur | 58.00% | ~96 |
+| Blue's drawing | 53.00% | ~87 |
+| Mysterious footprints | 47.00% | ~78 |
 | Glass shards | 45.00% | ~74 |
-| Complicated padlock | 43.00% | ~71 |
-| Big metal ruler | 41.00% | ~67 |
+| Complicated padlock | 42.00% | ~69 |
+| Big metal ruler | 41.00% | ~68 |
 | Doll | 37.00% | ~61 |
 | Windmill | 37.00% | ~61 |
-| Mysterious paintings | 32.00% | ~52 |
+| Mysterious paintings | 32.00% | ~53 |
 | Cat | 31.00% | ~51 |
-| Depths of the well | 24.00% | ~39 |
+| Depths of the well | 24.00% | ~40 |
 | Children | 22.00% | ~36 |
 | Huge Snail | 16.00% | ~26 |
 | Flower of hope | 14.00% | ~23 |
@@ -31,7 +31,7 @@
 | Hope | 5.00% | ~8 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164 (Ranked 259)  
+Progressed: 165 (Ranked 259)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 157 | 0 |
 | 2023-06-08 | 159 | 0 |
 | 2023-06-09 | 162 | 0 |
-| 2023-06-10 | 164 | 0 |
+| 2023-06-10 | 165 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 90.00% | ~143 |
-| Wake Up | 81.00% | ~129 |
-| Time Gates | 64.00% | ~102 |
-| Command Centre | 47.00% | ~75 |
-| This is a Wall | 42.00% | ~67 |
-| Extendable Bridges | 34.00% | ~54 |
-| 48 Attempts | 32.00% | ~51 |
+| It's Rewind Time | 89.00% | ~143 |
+| Wake Up | 80.00% | ~129 |
+| Time Gates | 63.00% | ~101 |
+| Command Centre | 47.00% | ~76 |
+| This is a Wall | 42.00% | ~68 |
+| Extendable Bridges | 34.00% | ~55 |
+| 48 Attempts | 32.00% | ~52 |
 | Chain Reaction | 30.00% | ~48 |
-| Man's Best Friend | 29.00% | ~46 |
-| Handyman | 21.00% | ~33 |
-| No Time To Relax | 16.00% | ~25 |
-| Bad Robots | 14.00% | ~22 |
-| Running Boots | 13.00% | ~21 |
+| Man's Best Friend | 29.00% | ~47 |
+| Handyman | 21.00% | ~34 |
+| No Time To Relax | 16.00% | ~26 |
+| Bad Robots | 14.00% | ~23 |
+| Running Boots | 12.00% | ~19 |
 | Fashionista | 12.00% | ~19 |
-| Archivist | 11.00% | ~17 |
+| Archivist | 11.00% | ~18 |
 | Looper | 9.00% | ~14 |
-| So Close | 8.00% | ~13 |
-| Transformers, cubes in disguise | 8.00% | ~13 |
 | Kaboom! | 8.00% | ~13 |
-| All Alone | 8.00% | ~13 |
 | Cataclysm | 8.00% | ~13 |
-| Reunited | 8.00% | ~13 |
+| So Close | 7.00% | ~11 |
+| Transformers, cubes in disguise | 7.00% | ~11 |
+| All Alone | 7.00% | ~11 |
+| Reunited | 7.00% | ~11 |
 | Final Charge | 6.00% | ~10 |
 | Summer Luvin' | 3.00% | ~5 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |
 | You Are Terminated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159 (Ranked 261)  
+Progressed: 161 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 149 | 0 |
 | 2023-06-08 | 153 | 0 |
 | 2023-06-09 | 156 | 0 |
-| 2023-06-10 | 159 | 0 |
+| 2023-06-10 | 161 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

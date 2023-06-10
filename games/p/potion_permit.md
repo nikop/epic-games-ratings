@@ -12,8 +12,8 @@ Rating: 3.80 (Ranked 928)
 | Great Doctor | 50.00% | ~694 |
 | Dog Whisperer | 48.00% | ~666 |
 | Friendly | 46.00% | ~638 |
+| K.O.! | 42.00% | ~583 |
 | The Capitalist | 42.00% | ~583 |
-| K.O.! | 41.00% | ~569 |
 | Intermediate Chemist | 38.00% | ~527 |
 | Decorative Mind | 31.00% | ~430 |
 | Lumber Specialist | 29.00% | ~402 |
@@ -22,7 +22,7 @@ Rating: 3.80 (Ranked 928)
 | Amateur Chef | 20.00% | ~277 |
 | Fishing Guru | 18.00% | ~250 |
 | Community Helper | 16.00% | ~222 |
-| Spark of Love | 14.00% | ~194 |
+| Spark of Love | 15.00% | ~208 |
 | Expert Chemist | 12.00% | ~166 |
 | Stone Specialist | 12.00% | ~166 |
 | Line Cook | 11.00% | ~153 |

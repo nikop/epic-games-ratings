@@ -1121,10 +1121,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 4680,
       "NumberOfAwardsMax": 551
+    },
+    {
+      "Time": "2023-06-10T20:58:53.6519908+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4681,
+      "NumberOfAwardsMax": 551
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4680,
+  "NumberOfAwards": 4681,
   "NumberOfAwardsMax": 551,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1168,7 +1174,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 523
+      "Count": 524
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1195,9 +1201,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 175897,
+  "EOS_Progressed": 175906,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 2162,
+  "EOS_NewPlayers": 2160,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6575,6 +6581,11 @@
       "Time": "2023-06-10T20:06:20.2464125+00:00",
       "NumProgressed": 175897,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-06-10T21:05:47.6682751+00:00",
+      "NumProgressed": 175906,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 44,
@@ -6658,7 +6669,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 17590
+      "UsersEstimate": 17591
     },
     {
       "ID": "HappyLittleAccidents",
@@ -6874,7 +6885,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 15831
+      "UsersEstimate": 15832
     },
     {
       "ID": "TimeParadox",
@@ -6937,15 +6948,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 175897,
+      "Progressed": 175906,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-06-10T13:01:59.6711683+00:00",
-  "LastChanged_Achievements": "2023-06-10T20:06:20.2464119+00:00",
+  "LastChanged": "2023-06-10T20:58:53.6519906+00:00",
+  "LastChanged_Achievements": "2023-06-10T21:05:47.6682744+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.3131275+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:59:09.3268998+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:06:20.2464659+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:58:53.6519911+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:05:47.668326+00:00"
 }

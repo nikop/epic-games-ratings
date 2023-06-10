@@ -5,10 +5,10 @@ Rating: 4.58 (Ranked 422)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~600 |
-| Fetch Quest Complete | 91.00% | ~569 |
-| I can't wait! | 82.00% | ~512 |
-| Swish | 56.00% | ~350 |
+| Pushing a pull door | 96.00% | ~601 |
+| Fetch Quest Complete | 91.00% | ~570 |
+| I can't wait! | 82.00% | ~513 |
+| Swish | 56.00% | ~351 |
 | Clean up on Aisle 9 | 40.00% | ~250 |
 | Machine Maxed | 30.00% | ~188 |
 | Bug Fixer | 25.00% | ~156 |
@@ -33,10 +33,10 @@ Rating: 4.58 (Ranked 422)
 | Crowning achievement | 3.00% | ~19 |
 | Modern Gorefare | 3.00% | ~19 |
 | Hammer time | 3.00% | ~19 |
-| 1CC | 2.00% | ~12 |
-| GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~12 |
-| To do. Done! | 2.00% | ~12 |
-| GTA: Crime City | 2.00% | ~12 |
+| 1CC | 2.00% | ~13 |
+| GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~13 |
+| To do. Done! | 2.00% | ~13 |
+| GTA: Crime City | 2.00% | ~13 |
 | 1337 HAXXOR | 1.00% | ~6 |
 | Fresh Prince of Grindstone | 1.00% | ~6 |
 | Drop the ball | 1.00% | ~6 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 422)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 625 (Ranked 197)  
+Progressed: 626 (Ranked 197)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 619 | 0 |
 | 2023-06-08 | 620 | 0 |
 | 2023-06-09 | 624 | 0 |
-| 2023-06-10 | 625 | 0 |
+| 2023-06-10 | 626 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

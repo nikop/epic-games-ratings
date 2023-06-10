@@ -6,53 +6,53 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~576,340 |
-| Right Back At Ya | 38.00% | ~322,072 |
-| The Lovers | 33.00% | ~279,694 |
-| Stanislavski's Method | 27.00% | ~228,841 |
-| The Wheel of Fortune | 25.00% | ~211,890 |
-| The Hermit | 23.00% | ~194,939 |
-| Christmas Tree Attack | 22.00% | ~186,463 |
-| True Soldier | 22.00% | ~186,463 |
-| Legend of The Afterlife | 21.00% | ~177,987 |
-| The High Priestess | 20.00% | ~169,512 |
-| Life of the Road | 19.00% | ~161,036 |
-| Full Body Conversion | 17.00% | ~144,085 |
-| The World | 16.00% | ~135,609 |
-| Bushido and Chill | 15.00% | ~127,134 |
-| Gun Fu | 14.00% | ~118,658 |
-| True Warrior | 14.00% | ~118,658 |
-| To Protect and Serve | 13.00% | ~110,183 |
-| Master Crafter | 13.00% | ~110,183 |
-| I Am The Law | 13.00% | ~110,183 |
-| Judy vs Night City | 13.00% | ~110,183 |
-| Two Heads, One Bullet | 11.00% | ~93,231 |
-| The Wandering Fool | 9.00% | ~76,280 |
-| The Quick and the Dead | 9.00% | ~76,280 |
-| Ten out of Ten | 8.00% | ~67,805 |
-| Breathtaking | 7.00% | ~59,329 |
-| To Bad Decisions! | 6.00% | ~50,854 |
-| The Star | 6.00% | ~50,854 |
-| The Sun | 6.00% | ~50,854 |
-| Must Be Rats | 4.00% | ~33,902 |
-| Temperance | 4.00% | ~33,902 |
-| City Lights | 3.00% | ~25,427 |
-| Mean Streets | 3.00% | ~25,427 |
-| Little Tokyo | 3.00% | ~25,427 |
-| Greetings from Pacifica! | 3.00% | ~25,427 |
-| The Jungle | 3.00% | ~25,427 |
-| V for Vendetta | 3.00% | ~25,427 |
-| It's Elementary | 3.00% | ~25,427 |
-| Autojock | 2.00% | ~16,951 |
-| Frequent Flyer | 2.00% | ~16,951 |
-| The Wasteland | 2.00% | ~16,951 |
-| Daemon In The Shell | 2.00% | ~16,951 |
-| The Devil | 2.00% | ~16,951 |
+| The Fool | 68.00% | ~576,392 |
+| Right Back At Ya | 38.00% | ~322,101 |
+| The Lovers | 33.00% | ~279,720 |
+| Stanislavski's Method | 27.00% | ~228,861 |
+| The Wheel of Fortune | 25.00% | ~211,909 |
+| The Hermit | 23.00% | ~194,956 |
+| Christmas Tree Attack | 22.00% | ~186,480 |
+| True Soldier | 22.00% | ~186,480 |
+| Legend of The Afterlife | 21.00% | ~178,003 |
+| The High Priestess | 20.00% | ~169,527 |
+| Life of the Road | 19.00% | ~161,051 |
+| Full Body Conversion | 17.00% | ~144,098 |
+| The World | 16.00% | ~135,622 |
+| Bushido and Chill | 15.00% | ~127,145 |
+| Gun Fu | 14.00% | ~118,669 |
+| True Warrior | 14.00% | ~118,669 |
+| To Protect and Serve | 13.00% | ~110,193 |
+| Master Crafter | 13.00% | ~110,193 |
+| I Am The Law | 13.00% | ~110,193 |
+| Judy vs Night City | 13.00% | ~110,193 |
+| Two Heads, One Bullet | 11.00% | ~93,240 |
+| The Wandering Fool | 9.00% | ~76,287 |
+| The Quick and the Dead | 9.00% | ~76,287 |
+| Ten out of Ten | 8.00% | ~67,811 |
+| Breathtaking | 7.00% | ~59,334 |
+| To Bad Decisions! | 6.00% | ~50,858 |
+| The Star | 6.00% | ~50,858 |
+| The Sun | 6.00% | ~50,858 |
+| Must Be Rats | 4.00% | ~33,905 |
+| Temperance | 4.00% | ~33,905 |
+| City Lights | 3.00% | ~25,429 |
+| Mean Streets | 3.00% | ~25,429 |
+| Little Tokyo | 3.00% | ~25,429 |
+| Greetings from Pacifica! | 3.00% | ~25,429 |
+| The Jungle | 3.00% | ~25,429 |
+| V for Vendetta | 3.00% | ~25,429 |
+| It's Elementary | 3.00% | ~25,429 |
+| Autojock | 2.00% | ~16,953 |
+| Frequent Flyer | 2.00% | ~16,953 |
+| The Wasteland | 2.00% | ~16,953 |
+| Daemon In The Shell | 2.00% | ~16,953 |
+| The Devil | 2.00% | ~16,953 |
 | Gunslinger | 1.00% | ~8,476 |
-| Rough Landing | 0.40% | ~3,390 |
+| Rough Landing | 0.40% | ~3,391 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 847,559 (Ranked 12)  
-Completed: 1,749 (0.21%) (Ranked 145)  
+Progressed: 847,635 (Ranked 12)  
+Completed: 1,750 (0.21%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,7 +102,7 @@ Completed: 1,749 (0.21%) (Ranked 145)
 | 2023-06-07 | 841,865 | 1,729 |
 | 2023-06-08 | 843,569 | 1,737 |
 | 2023-06-09 | 845,555 | 1,744 |
-| 2023-06-10 | 847,559 | 1,749 |
+| 2023-06-10 | 847,635 | 1,750 |
 ## Awards
 Max (Character Customization): 67,504  (Ranked 9)  
 Sum: 176,625 (Ranked 13)  

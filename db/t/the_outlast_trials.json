@@ -4,8 +4,8 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 277,
   "Ranking_Popularity": 402,
-  "Ranking_PopularitySum": 345,
-  "Ranking_EOS_Progress": 441,
+  "Ranking_PopularitySum": 334,
+  "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 106,
@@ -472,10 +472,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 243,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-06-10T21:00:13.1632847+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 275,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 243,
+  "NumberOfAwards": 275,
   "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -513,7 +519,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 29
+      "Count": 33
     },
     {
       "Text": "This game has Diverse Characters",
@@ -525,7 +531,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 22
+      "Count": 28
     },
     {
       "Text": "This game has Challenging Combat",
@@ -546,8 +552,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-06-10T18:00:17.5657584+00:00",
+  "LastChanged": "2023-06-10T21:00:13.1632845+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:07.2482811+00:00",
-  "LastUpdate_Ratings": "2023-06-10T20:00:45.1432097+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:05:45.2513421+00:00"
+  "LastUpdate_Ratings": "2023-06-10T21:00:13.163285+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:05:16.8625285+00:00"
 }

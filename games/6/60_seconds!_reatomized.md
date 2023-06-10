@@ -1,34 +1,34 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.64 (Ranked 314)  
+Rating: 4.64 (Ranked 313)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~3,904 |
-| All thumbs | 91.00% | ~3,862 |
-| I will survive! | 91.00% | ~3,862 |
-| Home, sweet home | 89.00% | ~3,777 |
-| Survivalist | 87.00% | ~3,692 |
+| Prepper | 92.00% | ~3,905 |
+| All thumbs | 91.00% | ~3,863 |
+| I will survive! | 91.00% | ~3,863 |
+| Home, sweet home | 89.00% | ~3,778 |
+| Survivalist | 87.00% | ~3,693 |
 | One way ticket | 83.00% | ~3,523 |
-| Last man standing | 77.00% | ~3,268 |
-| Family guy | 75.00% | ~3,183 |
+| Last man standing | 77.00% | ~3,269 |
+| Family guy | 75.00% | ~3,184 |
 | Out of the Bag | 72.00% | ~3,056 |
-| The Dark Side | 67.00% | ~2,843 |
-| Duck and cover! | 62.00% | ~2,631 |
-| Souper! | 60.00% | ~2,546 |
+| The Dark Side | 67.00% | ~2,844 |
+| Duck and cover! | 62.00% | ~2,632 |
+| Souper! | 60.00% | ~2,547 |
 | Pacifist | 56.00% | ~2,377 |
 | 2-1-6 | 54.00% | ~2,292 |
 | A gift | 50.00% | ~2,122 |
-| Girl Power | 44.00% | ~1,867 |
+| Girl Power | 44.00% | ~1,868 |
 | What goes around... | 40.00% | ~1,698 |
-| Be Prepared | 35.00% | ~1,485 |
+| Be Prepared | 35.00% | ~1,486 |
 | Unbreakable | 34.00% | ~1,443 |
 | Atomic drill | 32.00% | ~1,358 |
 | This is the end | 32.00% | ~1,358 |
 | Gotta get 'em all | 29.00% | ~1,231 |
-| Disco Roach | 26.00% | ~1,103 |
-| Dawkins Residence | 19.00% | ~806 |
+| Disco Roach | 26.00% | ~1,104 |
+| Dawkins Residence | 19.00% | ~807 |
 | Rescue time! | 16.00% | ~679 |
 | New order | 15.00% | ~637 |
 | New species | 15.00% | ~637 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 314)
 | Miracle | 0.20% | ~8 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,244 (Ranked 131)  
+Progressed: 4,245 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 4,189 | 0 |
 | 2023-06-08 | 4,209 | 0 |
 | 2023-06-09 | 4,226 | 0 |
-| 2023-06-10 | 4,244 | 0 |
+| 2023-06-10 | 4,245 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

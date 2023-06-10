@@ -6,8 +6,8 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,590 |
-| Thorough | 9.00% | ~15,831 |
+| Genin | 10.00% | ~17,591 |
+| Thorough | 9.00% | ~15,832 |
 | A thief's beginning | 8.00% | ~14,072 |
 | Disguised | 7.00% | ~12,313 |
 | Rollin' | 7.00% | ~12,313 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~176 |
 | Release the Kraken | 0.10% | ~176 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175,897 (Ranked 56)  
+Progressed: 175,906 (Ranked 56)  
 Completed: 51 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,15 +102,15 @@ Completed: 51 (0.03%) (Ranked 190)
 | 2023-06-07 | 174,952 | 51 |
 | 2023-06-08 | 175,267 | 51 |
 | 2023-06-09 | 175,568 | 51 |
-| 2023-06-10 | 175,897 | 51 |
+| 2023-06-10 | 175,906 | 51 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 178)  
-Sum: 4,680 (Ranked 126)  
+Sum: 4,681 (Ranked 126)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 551 |
-| This game has Diverse Characters | 523 |
+| This game has Diverse Characters | 524 |
 | This game is Extremely Fun | 517 |
 | This game has Amazing Storytelling | 499 |
 | This game has Amazing Characters | 482 |
@@ -245,4 +245,4 @@ Diff (max vs sum): 52
 | 2023-06-03 | 4.66 | - | 551 | 4,676 |
 | 2023-06-04 | 4.66 | - | 551 | 4,677 |
 | 2023-06-09 | 4.66 | - | 551 | 4,679 |
-| 2023-06-10 | 4.66 | - | 551 | 4,680 |
+| 2023-06-10 | 4.66 | - | 551 | 4,681 |

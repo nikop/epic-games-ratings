@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -943,9 +943,9 @@
       "ID": "MissionActivateDish",
       "SetID": "a6c395p",
       "Name": "The Crimson Void",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 333
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -1007,9 +1007,9 @@
       "ID": "MissionFirstRiftBoss",
       "SetID": "a6c395p",
       "Name": "The Nameless Dread",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 314
+      "UsersEstimate": 324
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -1199,8 +1199,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-06-10T20:06:27.9166862+00:00",
+  "LastChanged_Achievements": "2023-06-10T21:05:54.4026448+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:30.4477649+00:00",
-  "LastUpdate_Ratings": "2023-06-10T20:00:11.2533104+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:06:27.9167165+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:59:43.8017622+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:05:54.4026754+00:00"
 }

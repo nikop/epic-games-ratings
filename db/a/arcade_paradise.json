@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 625,
+  "EOS_Progressed": 626,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -338,6 +338,11 @@
       "Time": "2023-06-10T16:07:12.2405127+00:00",
       "NumProgressed": 625,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T21:05:50.8267634+00:00",
+      "NumProgressed": 626,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -365,7 +370,7 @@
       "Name": "1CC",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "2DigitGoalTrophy",
@@ -381,7 +386,7 @@
       "Name": "GOOOOOOAAAAAAALLLL!!!!",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "4DigitGoalTrophy",
@@ -389,7 +394,7 @@
       "Name": "To do. Done!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "4HopperTrophy",
@@ -397,7 +402,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "AhoyTrophy",
@@ -493,7 +498,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "Ext4Trophy",
@@ -629,7 +634,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "MaxPriceTrophy",
@@ -677,7 +682,7 @@
       "Name": "GTA: Crime City",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "RideTrophy",
@@ -717,7 +722,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "TerrorTrophy",
@@ -780,7 +785,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 625,
+      "Progressed": 626,
       "Completed": 0
     }
   ],
@@ -788,8 +793,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-06-10T20:06:23.9043439+00:00",
+  "LastChanged_Achievements": "2023-06-10T21:05:50.8267631+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:26.3217944+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:58:22.6458893+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:06:23.9043837+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:58:13.7912371+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:05:50.8268036+00:00"
 }

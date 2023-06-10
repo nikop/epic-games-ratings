@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2560,
+  "EOS_Progressed": 2563,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3126,6 +3126,11 @@
       "Time": "2023-06-10T20:06:17.1161585+00:00",
       "NumProgressed": 2560,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-10T21:05:45.0258573+00:00",
+      "NumProgressed": 2563,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3217,7 +3222,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3297,7 +3302,7 @@
       "Name": "Precision Is Key",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -3305,7 +3310,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3345,7 +3350,7 @@
       "Name": "Lord of War",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3385,7 +3390,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3449,7 +3454,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3473,7 +3478,7 @@
       "Name": "Change the Channel",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3505,7 +3510,7 @@
       "Name": "Taking it back",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3527,9 +3532,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 256
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3545,7 +3550,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -3704,13 +3709,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2511,
+      "Progressed": 2514,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2560,
+      "Progressed": 2563,
       "Completed": 2
     }
   ],
@@ -3718,8 +3723,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-10T20:06:17.116158+00:00",
+  "LastChanged_Achievements": "2023-06-10T21:05:45.025857+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-10T20:00:43.4213848+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:06:17.1162274+00:00"
+  "LastUpdate_Ratings": "2023-06-10T21:00:11.6754992+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:05:45.0259179+00:00"
 }

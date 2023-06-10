@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -289,9 +289,9 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 281
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -353,9 +353,9 @@
       "ID": "HANDS_UP",
       "SetID": "2iigf77",
       "Name": "Hands up!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 253
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -465,9 +465,9 @@
       "ID": "SHORT_CIRCUIT",
       "SetID": "2iigf77",
       "Name": "Short circuit",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 253
     },
     {
       "ID": "SILENT",
@@ -530,8 +530,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-06-10T20:06:09.9710892+00:00",
+  "LastChanged_Achievements": "2023-06-10T21:05:38.6202028+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:03.6651809+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:58:54.8016225+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:06:09.9711097+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:58:40.5149897+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:05:38.6202218+00:00"
 }

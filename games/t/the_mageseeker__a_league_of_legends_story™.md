@@ -5,20 +5,20 @@ Rating: 4.80 (Ranked 80)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,198 |
-| No more cages! | 92.00% | ~2,129 |
-| Everfrost | 77.00% | ~1,782 |
+| For Demacia | 95.00% | ~2,199 |
+| No more cages! | 92.00% | ~2,130 |
+| Everfrost | 77.00% | ~1,783 |
 | Pentakill | 76.00% | ~1,759 |
 | Dark Forest | 76.00% | ~1,759 |
-| The use of petricite | 73.00% | ~1,689 |
-| You can pet the dog | 60.00% | ~1,388 |
+| The use of petricite | 73.00% | ~1,690 |
+| You can pet the dog | 60.00% | ~1,389 |
 | Big Helmet Bro | 35.00% | ~810 |
 | Clarion Cove | 35.00% | ~810 |
 | Past trauma | 34.00% | ~787 |
 | Thornbarrow | 33.00% | ~764 |
 | Ternmoat Headquarters | 33.00% | ~764 |
-| Elemental master | 32.00% | ~740 |
-| Cypress Glen Headquarters | 31.00% | ~717 |
+| Elemental master | 32.00% | ~741 |
+| Cypress Glen Headquarters | 31.00% | ~718 |
 | Petricite Burst | 28.00% | ~648 |
 | Old friend | 27.00% | ~625 |
 | Devineur | 27.00% | ~625 |
@@ -45,10 +45,10 @@ Rating: 4.80 (Ranked 80)
 | Cloven Dell Headquarters | 13.00% | ~301 |
 | Embrace the darkness | 11.00% | ~255 |
 | Whispers in the Woods IV | 11.00% | ~255 |
-| I smell fear | 10.00% | ~231 |
-| The end of the experiments | 10.00% | ~231 |
-| The Great City of Demacia | 10.00% | ~231 |
-| Call it 'redistribution of magic | 10.00% | ~231 |
+| I smell fear | 10.00% | ~232 |
+| The end of the experiments | 10.00% | ~232 |
+| The Great City of Demacia | 10.00% | ~232 |
+| Call it 'redistribution of magic | 10.00% | ~232 |
 | Chains master | 9.00% | ~208 |
 | Truth is a dark mirror | 9.00% | ~208 |
 | Back to sleep, then... | 9.00% | ~208 |
@@ -59,7 +59,7 @@ Rating: 4.80 (Ranked 80)
 | Silverwing nest | 2.00% | ~46 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,314 (Ranked 150)  
+Progressed: 2,315 (Ranked 150)  
 Completed: 1 (0.04%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 1 (0.04%) (Ranked 186)
 | 2023-06-07 | 2,279 | 1 |
 | 2023-06-08 | 2,296 | 1 |
 | 2023-06-09 | 2,305 | 1 |
-| 2023-06-10 | 2,314 | 1 |
+| 2023-06-10 | 2,315 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

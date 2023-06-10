@@ -12,7 +12,7 @@
 | Memories | 28.00% | ~119 |
 | The Maggot | 26.00% | ~110 |
 | The Breeder | 21.00% | ~89 |
-| The Veteran | 17.00% | ~72 |
+| The Veteran | 18.00% | ~76 |
 | The Traitor | 14.00% | ~59 |
 | The Spider | 13.00% | ~55 |
 | Good as Fish | 9.00% | ~38 |
@@ -32,11 +32,11 @@
 | Ss ss ss... | 1.00% | ~4 |
 | Collectibles Part 2 | 0.90% | ~4 |
 | Nervous Hands | 0.90% | ~4 |
+| Good Sméagol! | 0.50% | ~2 |
 | Elf-Friend | 0.20% | ~1 |
 | We wants it! We needs it | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 | Scout | 0.20% | ~1 |
-| Good Sméagol! | 0.20% | ~1 |
 | Rule them all! | 0.00% | ~0 |
 | We Hates Them! | 0.00% | ~0 |
 | How Did You Do That? | 0.00% | ~0 |

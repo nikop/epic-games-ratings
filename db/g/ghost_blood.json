@@ -2,7 +2,7 @@
   "ID": "e56b314bd40e41e19227d0a5dd892939",
   "Name": "Ghost Blood",
   "ProductSlug": "ghost-blood-91ed9f",
-  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 106,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:42.599759+00:00",
   "LastChanged": "2023-03-31T05:57:42.5997591+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:04.8795367+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:59:48.7569913+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:00:57.6223784+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:59:25.8418085+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:00:24.3058707+00:00"
 }

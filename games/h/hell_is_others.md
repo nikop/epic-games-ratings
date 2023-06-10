@@ -5,7 +5,7 @@ Rating: 4.43 (Ranked 646)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,758 |
+| Survivor | 31.00% | ~77,759 |
 | Predator I | 22.00% | ~55,183 |
 | Fixer I | 10.00% | ~25,083 |
 | A week in Century City | 10.00% | ~25,083 |
@@ -44,10 +44,10 @@ Rating: 4.43 (Ranked 646)
 | Expert Hunter | 0.40% | ~1,003 |
 | Fungi hunter | 0.40% | ~1,003 |
 | Predator III | 0.40% | ~1,003 |
-| Arms dealer | 0.30% | ~752 |
-| Fixer III | 0.30% | ~752 |
-| AML questionnaire | 0.30% | ~752 |
-| Heartbreaker | 0.30% | ~752 |
+| Arms dealer | 0.30% | ~753 |
+| Fixer III | 0.30% | ~753 |
+| AML questionnaire | 0.30% | ~753 |
+| Heartbreaker | 0.30% | ~753 |
 | Homerun | 0.20% | ~502 |
 | A season in Century City | 0.20% | ~502 |
 | Saver III | 0.10% | ~251 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 646)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,831 (Ranked 42)  
+Progressed: 250,834 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 1 (0.00%) (Ranked 214)
 | 2023-06-07 | 250,608 | 1 |
 | 2023-06-08 | 250,677 | 1 |
 | 2023-06-09 | 250,759 | 1 |
-| 2023-06-10 | 250,831 | 1 |
+| 2023-06-10 | 250,834 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 466)  
 Sum: 71 (Ranked 423)  

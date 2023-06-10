@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2314,
+  "EOS_Progressed": 2315,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2453,6 +2453,11 @@
       "Time": "2023-06-10T20:06:17.9652783+00:00",
       "NumProgressed": 2314,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T21:05:45.6972916+00:00",
+      "NumProgressed": 2315,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2512,7 +2517,7 @@
       "Name": "Elemental master",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2528,7 +2533,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2544,7 +2549,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2552,7 +2557,7 @@
       "Name": "I smell fear",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -2648,7 +2653,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2664,7 +2669,7 @@
       "Name": "The end of the experiments",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -2752,7 +2757,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -2768,7 +2773,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2808,7 +2813,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2840,7 +2845,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2864,7 +2869,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -2887,7 +2892,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2314,
+      "Progressed": 2315,
       "Completed": 1
     }
   ],
@@ -2895,8 +2900,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-10T20:06:17.9652775+00:00",
+  "LastChanged_Achievements": "2023-06-10T21:05:45.6972913+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:57:44.8488371+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:06:17.965324+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:57:41.4379302+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:05:45.6973365+00:00"
 }

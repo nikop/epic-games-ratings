@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -425,17 +425,17 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
       "SetID": "aemieak",
       "Name": "Easy group",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "GROUP_EASY_GOLD",
@@ -649,9 +649,9 @@
       "ID": "LEVEL_MEDIUM",
       "SetID": "aemieak",
       "Name": "First medium level",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TUTORIAL_FIRST",
@@ -672,8 +672,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-06-10T20:05:58.902394+00:00",
+  "LastChanged_Achievements": "2023-06-10T21:05:28.5522341+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:26.8919263+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:58:22.9502558+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:05:58.9024127+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:58:14.0440223+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:05:28.5522525+00:00"
 }

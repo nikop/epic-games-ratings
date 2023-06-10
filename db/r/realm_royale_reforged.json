@@ -2,10 +2,10 @@
   "ID": "5fcf6f3031c547f789e29c18b422ca67",
   "Name": "Realm Royale Reforged",
   "ProductSlug": "realm-royale-reforged",
-  "Ranking_Rating": 772,
+  "Ranking_Rating": 771,
   "Ranking_Popularity": 295,
   "Ranking_PopularitySum": 222,
-  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 106,
@@ -1319,10 +1319,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 1293,
       "NumberOfAwardsMax": 136
+    },
+    {
+      "Time": "2023-06-10T20:58:46.2431929+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1294,
+      "NumberOfAwardsMax": 136
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1293,
+  "NumberOfAwards": 1294,
   "NumberOfAwardsMax": 136,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1360,7 +1366,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1411,8 +1417,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2023-06-10T14:59:09.1672961+00:00",
+  "LastChanged": "2023-06-10T20:58:46.2431928+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:11.3884256+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:59:00.9757587+00:00",
-  "LastUpdate_Achievements": "2023-06-10T20:04:58.8006819+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:58:46.2431933+00:00",
+  "LastUpdate_Achievements": "2023-06-10T21:04:38.1141341+00:00"
 }

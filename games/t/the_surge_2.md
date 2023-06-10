@@ -9,22 +9,22 @@ Rating: 4.24 (Ranked 802)
 | Don't I Know You...? | 76.00% | ~1,328 |
 | Jailbreak | 65.00% | ~1,136 |
 | Suited and Booted | 38.00% | ~664 |
-| HEADSHOT! | 37.00% | ~646 |
-| Sleeping With The Fishes | 35.00% | ~611 |
+| HEADSHOT! | 37.00% | ~647 |
+| Sleeping With The Fishes | 35.00% | ~612 |
 | Overheated | 30.00% | ~524 |
 | High Performance | 30.00% | ~524 |
 | Powered Up | 28.00% | ~489 |
-| Studied The Blade | 24.00% | ~419 |
-| Home Invasion | 22.00% | ~384 |
-| Luminary | 22.00% | ~384 |
-| It's a Trap | 22.00% | ~384 |
+| Studied The Blade | 24.00% | ~420 |
+| Home Invasion | 22.00% | ~385 |
+| Luminary | 22.00% | ~385 |
+| It's a Trap | 22.00% | ~385 |
 | True Survivor | 21.00% | ~367 |
-| Shocking | 20.00% | ~349 |
+| Shocking | 20.00% | ~350 |
 | Court Martial | 19.00% | ~332 |
 | Offensive Defense | 19.00% | ~332 |
 | Unforeseeable Consequences | 19.00% | ~332 |
-| Dead Again | 18.00% | ~314 |
-| Clean Cut | 18.00% | ~314 |
+| Dead Again | 18.00% | ~315 |
+| Clean Cut | 18.00% | ~315 |
 | Full Arsenal | 17.00% | ~297 |
 | Can't Trust Banks | 15.00% | ~262 |
 | Mommy Dearest | 13.00% | ~227 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 802)
 | Three Birds With One Stone | 1.00% | ~17 |
 | The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,747 (Ranked 155)  
+Progressed: 1,748 (Ranked 155)  
 Completed: 10 (0.57%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 10 (0.57%) (Ranked 111)
 | 2023-06-07 | 1,721 | 10 |
 | 2023-06-08 | 1,733 | 10 |
 | 2023-06-09 | 1,739 | 10 |
-| 2023-06-10 | 1,747 | 10 |
+| 2023-06-10 | 1,748 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
