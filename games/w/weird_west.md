@@ -6,22 +6,22 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,413 |
-| Self-Improvement | 71.00% | ~1,153 |
-| Perky | 65.00% | ~1,056 |
-| Let’s Ride | 60.00% | ~974 |
-| Welcome to the Weird West | 57.00% | ~926 |
-| Dead or Alive | 55.00% | ~893 |
-| Full House | 37.00% | ~601 |
-| Off the Trail | 33.00% | ~536 |
-| Justice Served | 29.00% | ~471 |
-| Chain Reaction | 27.00% | ~438 |
-| Rain of Death | 25.00% | ~406 |
+| Unforgiven | 87.00% | ~1,415 |
+| Self-Improvement | 71.00% | ~1,154 |
+| Perky | 65.00% | ~1,057 |
+| Let’s Ride | 60.00% | ~976 |
+| Welcome to the Weird West | 57.00% | ~927 |
+| Dead or Alive | 55.00% | ~894 |
+| Full House | 36.00% | ~585 |
+| Off the Trail | 33.00% | ~537 |
+| Justice Served | 28.00% | ~455 |
+| Chain Reaction | 27.00% | ~439 |
 | Scholar | 25.00% | ~406 |
 | Through Their Eyes | 25.00% | ~406 |
 | Dishonored | 24.00% | ~390 |
+| Rain of Death | 24.00% | ~390 |
 | The Great Escape | 23.00% | ~374 |
-| That’s All, Folks | 18.00% | ~292 |
+| That’s All, Folks | 18.00% | ~293 |
 | Winds of War | 16.00% | ~260 |
 | Fallen Star | 15.00% | ~244 |
 | For Balance | 15.00% | ~244 |
@@ -43,24 +43,24 @@ Number of Ratings: 125  (23.09.2022)
 | Getting the Gang Back Together | 7.00% | ~114 |
 | Monster Hunter | 7.00% | ~114 |
 | Knuckle Sandwich | 7.00% | ~114 |
-| Who You Gonna Call? | 6.00% | ~97 |
+| Who You Gonna Call? | 6.00% | ~98 |
 | Healing Old Wounds | 5.00% | ~81 |
 | This Is Sparta | 5.00% | ~81 |
 | What’s in the Box? | 4.00% | ~65 |
 | Ghost Town | 3.00% | ~49 |
 | Moondrunk | 3.00% | ~49 |
-| Lord Inut Sends His Regards | 2.00% | ~32 |
+| Lord Inut Sends His Regards | 2.00% | ~33 |
 | I Kicked a Bird and I Liked it | 1.00% | ~16 |
 | 'Ma Barker | 1.00% | ~16 |
 | Hog Wild | 0.90% | ~15 |
-| Explorer | 0.40% | ~6 |
-| End the world | 0.40% | ~6 |
-| Moon Hunter | 0.40% | ~6 |
+| Explorer | 0.40% | ~7 |
+| End the world | 0.40% | ~7 |
+| Moon Hunter | 0.40% | ~7 |
 | Revenant | 0.30% | ~5 |
 | Dirt and Blame | 0.20% | ~3 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,624 (Ranked 158)  
+Progressed: 1,626 (Ranked 158)  
 Completed: 2 (0.12%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 2 (0.12%) (Ranked 162)
 | 2023-06-07 | 1,611 | 2 |
 | 2023-06-08 | 1,616 | 2 |
 | 2023-06-09 | 1,624 | 2 |
+| 2023-06-10 | 1,626 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 469)  
 Sum: 24 (Ranked 475)  

@@ -1160,9 +1160,9 @@
       "ID": "ACHIEVEMENTS_13",
       "SetID": "d4o538a",
       "Name": "Line Cook",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -1377,8 +1377,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-31T00:00:26.9693772+00:00",
-  "LastChanged_Achievements": "2023-06-10T08:07:25.4635516+00:00",
+  "LastChanged_Achievements": "2023-06-10T09:06:41.6097728+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.6229281+00:00",
-  "LastUpdate_Ratings": "2023-06-10T08:01:43.8812067+00:00",
-  "LastUpdate_Achievements": "2023-06-10T08:07:25.4636002+00:00"
+  "LastUpdate_Ratings": "2023-06-10T09:00:52.9536571+00:00",
+  "LastUpdate_Achievements": "2023-06-10T09:06:41.6098104+00:00"
 }

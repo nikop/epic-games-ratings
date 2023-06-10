@@ -21,10 +21,10 @@
 | Producer | 47.00% | ~492 |
 | Apprentice | 42.00% | ~440 |
 | Bridge Builder | 38.00% | ~398 |
+| Stoker | 34.00% | ~356 |
 | Access granted | 34.00% | ~356 |
-| Stoker | 33.00% | ~346 |
 | Going once, going twice, sold | 30.00% | ~314 |
-| Full Steam ahead | 28.00% | ~293 |
+| Full Steam ahead | 29.00% | ~304 |
 | Bull and bear | 28.00% | ~293 |
 | Mole | 26.00% | ~272 |
 | All mine | 24.00% | ~251 |
@@ -35,8 +35,8 @@
 | Country Life | 21.00% | ~220 |
 | Hostile Takeover | 21.00% | ~220 |
 | Trailblazer | 18.00% | ~188 |
+| Breaking Ground | 16.00% | ~168 |
 | Traffic Jam | 15.00% | ~157 |
-| Breaking Ground | 15.00% | ~157 |
 | Assimilated | 14.00% | ~147 |
 | Locusts | 14.00% | ~147 |
 | Traffic Junction | 14.00% | ~147 |
@@ -54,8 +54,8 @@
 | Let off some steam | 2.00% | ~21 |
 | Accurate | 1.00% | ~10 |
 | European Union | 0.40% | ~4 |
+| Call of Duty | 0.40% | ~4 |
 | Engineer | 0.30% | ~3 |
-| Call of Duty | 0.30% | ~3 |
 | Three Cheers for Progress | 0.10% | ~1 |
 | Together we stand | 0.10% | ~1 |
 | United States | 0.00% | ~0 |

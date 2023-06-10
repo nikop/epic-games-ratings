@@ -20,6 +20,7 @@
 | Rail Rat | 4.00% | ~26 |
 | The Loose Cannon | 4.00% | ~26 |
 | Time Flies | 4.00% | ~26 |
+| The Harder They Fall | 4.00% | ~26 |
 | No, Thanks! | 4.00% | ~26 |
 | The Wicked Twins | 4.00% | ~26 |
 | Golem Chaser | 4.00% | ~26 |
@@ -31,7 +32,6 @@
 | Right On Time | 3.00% | ~19 |
 | Family Memories | 3.00% | ~19 |
 | Whiz Kid | 3.00% | ~19 |
-| The Harder They Fall | 3.00% | ~19 |
 | Honest Mistake | 3.00% | ~19 |
 | Sump Explorer | 3.00% | ~19 |
 | Check Your Pulse | 3.00% | ~19 |
@@ -47,7 +47,7 @@
 | Rungs Was Right | 2.00% | ~13 |
 | Syron for Hope | 2.00% | ~13 |
 | Theater Explorer | 2.00% | ~13 |
-| Clovemary for Remembering | 0.90% | ~6 |
+| Clovemary for Remembering | 1.00% | ~6 |
 | Hexlock for Protection | 0.80% | ~5 |
 | Fitting In | 0.60% | ~4 |
 | Wunderkind | 0.30% | ~2 |

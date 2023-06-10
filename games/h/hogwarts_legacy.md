@@ -5,27 +5,27 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,008 |
-| Grappling with a Graphorn | 7.00% | ~19,451 |
-| The One Who Mastered Memories | 7.00% | ~19,451 |
-| The Hallowed Hero | 7.00% | ~19,451 |
-| The Hero of Hogwarts | 7.00% | ~19,451 |
-| The Defender of Dragons | 7.00% | ~19,451 |
-| A Keen Sense of Spell | 7.00% | ~19,451 |
-| Coasting Along | 7.00% | ~19,451 |
-| First Class Student | 7.00% | ~19,451 |
-| Troll with the Punches | 7.00% | ~19,451 |
-| That's a Keeper | 7.00% | ~19,451 |
-| Challenge Accepted | 6.00% | ~16,672 |
-| Loom for Improvement | 6.00% | ~16,672 |
-| A Talent for Spending | 6.00% | ~16,672 |
-| Followed the Butterflies | 6.00% | ~16,672 |
-| Rising From the Ashes | 6.00% | ~16,672 |
-| The Avenging Gazelle | 5.00% | ~13,893 |
-| Beast Friends | 5.00% | ~13,893 |
-| A Sallow Grave | 5.00% | ~13,893 |
-| Flight the Good Flight | 5.00% | ~13,893 |
-| The Spell Master | 5.00% | ~13,893 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,009 |
+| First Class Student | 8.00% | ~22,231 |
+| Grappling with a Graphorn | 7.00% | ~19,452 |
+| The One Who Mastered Memories | 7.00% | ~19,452 |
+| The Hallowed Hero | 7.00% | ~19,452 |
+| The Hero of Hogwarts | 7.00% | ~19,452 |
+| The Defender of Dragons | 7.00% | ~19,452 |
+| A Keen Sense of Spell | 7.00% | ~19,452 |
+| Coasting Along | 7.00% | ~19,452 |
+| Troll with the Punches | 7.00% | ~19,452 |
+| That's a Keeper | 7.00% | ~19,452 |
+| Challenge Accepted | 6.00% | ~16,673 |
+| Loom for Improvement | 6.00% | ~16,673 |
+| A Talent for Spending | 6.00% | ~16,673 |
+| Followed the Butterflies | 6.00% | ~16,673 |
+| Rising From the Ashes | 6.00% | ~16,673 |
+| The Avenging Gazelle | 5.00% | ~13,894 |
+| Beast Friends | 5.00% | ~13,894 |
+| A Sallow Grave | 5.00% | ~13,894 |
+| Flight the Good Flight | 5.00% | ~13,894 |
+| The Spell Master | 5.00% | ~13,894 |
 | The Seeker of Knowledge | 4.00% | ~11,115 |
 | The Root of the Problem | 4.00% | ~11,115 |
 | Third Time's a Charm | 4.00% | ~11,115 |
@@ -35,10 +35,10 @@ Rating: 4.77 (Ranked 108)
 | The Intrepid Explorer | 3.00% | ~8,336 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,336 |
 | The Ends Petrify the Means | 3.00% | ~8,336 |
-| Going Through the Potions | 2.00% | ~5,557 |
-| Put Down Roots | 2.00% | ~5,557 |
-| Floo Around the World | 2.00% | ~5,557 |
-| The Wise Owl | 2.00% | ~5,557 |
+| Going Through the Potions | 2.00% | ~5,558 |
+| Put Down Roots | 2.00% | ~5,558 |
+| Floo Around the World | 2.00% | ~5,558 |
+| The Wise Owl | 2.00% | ~5,558 |
 | The Good Samaritan | 1.00% | ~2,779 |
 | The Auror's Apprentice | 1.00% | ~2,779 |
 | Rise to the Challenges | 1.00% | ~2,779 |
@@ -48,10 +48,10 @@ Rating: 4.77 (Ranked 108)
 | Demiguise Dread | 0.90% | ~2,501 |
 | Merlin's Beard! | 0.70% | ~1,945 |
 | Spilled Milk | 0.60% | ~1,667 |
-| The Nature of the Beast | 0.40% | ~1,111 |
+| The Nature of the Beast | 0.40% | ~1,112 |
 | Collector's Edition | 0.20% | ~556 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277,865 (Ranked 41)  
+Progressed: 277,882 (Ranked 41)  
 Completed: 395 (0.14%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,10 +102,10 @@ Completed: 395 (0.14%) (Ranked 157)
 | 2023-06-07 | 277,097 | 390 |
 | 2023-06-08 | 277,379 | 391 |
 | 2023-06-09 | 277,741 | 395 |
-| 2023-06-10 | 277,865 | 395 |
+| 2023-06-10 | 277,882 | 395 |
 ## Awards
 Max (Character Customization): 19,774  (Ranked 18)  
-Sum: 36,592 (Ranked 32)  
+Sum: 36,597 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -118,7 +118,7 @@ Diff (max vs sum): -14
 | This game has Amazing Storytelling | 792 |
 | This game has Amazing Characters | 777 |
 | This game is Highly Recommended | 764 |
-| This game has Quickly Understood Controls | 703 |
+| This game has Quickly Understood Controls | 708 |
 | This game has Beautiful Visuals | 659 |
 | This game has a Creative Community | 504 |
 ## Ratings History
@@ -202,4 +202,4 @@ Diff (max vs sum): -14
 | 2023-06-07 | 4.77 | 19,672 | 36,413 |
 | 2023-06-08 | 4.77 | 19,702 | 36,484 |
 | 2023-06-09 | 4.77 | 19,738 | 36,553 |
-| 2023-06-10 | 4.77 | 19,774 | 36,592 |
+| 2023-06-10 | 4.77 | 19,774 | 36,597 |

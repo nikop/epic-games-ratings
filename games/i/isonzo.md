@@ -13,15 +13,15 @@ Number of Ratings: 98  (23.09.2022)
 | Conrad von Hotzensocks | 36.00% | ~2,212 |
 | Mamma Mia! | 36.00% | ~2,212 |
 | Gabriele D'Annunzio | 32.00% | ~1,966 |
-| Silver Lining | 28.00% | ~1,720 |
+| Silver Lining | 28.00% | ~1,721 |
 | Aurelio Baruzzi | 22.00% | ~1,352 |
 | Veni Vidi Vici | 22.00% | ~1,352 |
 | Decimation | 20.00% | ~1,229 |
 | Donatello | 20.00% | ~1,229 |
-| Insubordination | 19.00% | ~1,167 |
-| The Italian Job | 19.00% | ~1,167 |
+| Insubordination | 19.00% | ~1,168 |
+| The Italian Job | 19.00% | ~1,168 |
 | The Lion of the Isonzo | 18.00% | ~1,106 |
-| Ragazzi del '99 | 17.00% | ~1,044 |
+| Ragazzi del '99 | 17.00% | ~1,045 |
 | Thus With A Kiss | 14.00% | ~860 |
 | Dirty Dozen | 13.00% | ~799 |
 | Luigi Cadorna | 13.00% | ~799 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,144 (Ranked 124)  
+Progressed: 6,145 (Ranked 124)  
 Completed: 8 (0.13%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 8 (0.13%) (Ranked 160)
 | 2023-06-07 | 6,115 | 8 |
 | 2023-06-08 | 6,123 | 8 |
 | 2023-06-09 | 6,139 | 8 |
-| 2023-06-10 | 6,144 | 8 |
+| 2023-06-10 | 6,145 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 447)  
 Sum: 244 (Ranked 344)  

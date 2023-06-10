@@ -7,28 +7,28 @@ Rating: 4.56 (Ranked 452)
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 88.00% | ~319 |
 | And again, and again, and... | 63.00% | ~229 |
-| Burn, Elysium, burn! | 61.00% | ~221 |
+| Burn, Elysium, burn! | 62.00% | ~225 |
 | Kuvaq Minigame-Master | 60.00% | ~218 |
 | FunScore | 54.00% | ~196 |
 | Funtime's over | 52.00% | ~189 |
-| Chunky | 49.00% | ~178 |
+| Chunky | 50.00% | ~182 |
 | Shall we play a game? | 48.00% | ~174 |
-| Boat of love, boat of love | 47.00% | ~171 |
+| Boat of love, boat of love | 48.00% | ~174 |
 | School's out | 42.00% | ~152 |
 | Scaffolding Expert | 37.00% | ~134 |
+| Elysian Minigame-Master | 37.00% | ~134 |
 | Sole Music | 36.00% | ~131 |
-| Elysian Minigame-Master | 36.00% | ~131 |
 | No man left behind! | 29.00% | ~105 |
 | Portals come in packs | 29.00% | ~105 |
-| Photo Friend | 25.00% | ~91 |
+| Photo Friend | 26.00% | ~94 |
 | Brainfreeze | 21.00% | ~76 |
-| Masseltov | 18.00% | ~65 |
+| Masseltov | 19.00% | ~69 |
 | And everything comes full circle. | 18.00% | ~65 |
 | Thuna...? | 15.00% | ~54 |
 | Quickdraw | 14.00% | ~51 |
-| Monstrous Harassment | 13.00% | ~47 |
+| Monstrous Harassment | 14.00% | ~51 |
+| Blast from the Past | 14.00% | ~51 |
 | Heading the inverter | 13.00% | ~47 |
-| Blast from the Past | 13.00% | ~47 |
 | Goat Team | 10.00% | ~36 |
 | Play it again, Ronny | 10.00% | ~36 |
 | Paradox! | 10.00% | ~36 |

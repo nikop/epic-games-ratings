@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6560,
+  "EOS_Progressed": 6562,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1703,6 +1703,11 @@
       "Time": "2023-06-10T08:07:04.5711289+00:00",
       "NumProgressed": 6560,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-10T09:06:22.9625038+00:00",
+      "NumProgressed": 6562,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -1746,7 +1751,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3477
+      "UsersEstimate": 3478
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -1762,7 +1767,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -1818,7 +1823,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -1866,7 +1871,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3674
+      "UsersEstimate": 3675
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -1882,7 +1887,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -1914,7 +1919,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -1922,22 +1927,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6560,
+      "Progressed": 6562,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-10T08:07:04.5711286+00:00",
+  "LastChanged_Achievements": "2023-06-10T09:06:22.962503+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:33.0422041+00:00",
-  "LastUpdate_Ratings": "2023-06-10T07:57:58.6429998+00:00",
-  "LastUpdate_Achievements": "2023-06-10T08:07:04.5711692+00:00"
+  "LastUpdate_Ratings": "2023-06-10T08:57:42.448784+00:00",
+  "LastUpdate_Achievements": "2023-06-10T09:06:22.9625833+00:00"
 }

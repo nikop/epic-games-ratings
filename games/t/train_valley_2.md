@@ -109,12 +109,12 @@ Completed: 1 (0.14%) (Ranked 157)
 | 2023-06-08 | 729 | 1 |
 | 2023-06-09 | 731 | 1 |
 ## Awards
-Max (Challenging Puzzles): 71  (Ranked 366)  
-Sum: 71 (Ranked 422)  
-Diff (max vs sum): -56  
+Max (Challenging Puzzles): 72  (Ranked 361)  
+Sum: 72 (Ranked 420)  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 71 |
+| This game features Challenging Puzzles | 72 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -168,3 +168,4 @@ Diff (max vs sum): -56
 | 2023-04-25 | 4.15 | - | 69 | 69 |
 | 2023-05-01 | 4.15 | - | 70 | 70 |
 | 2023-05-04 | 4.15 | - | 71 | 71 |
+| 2023-06-10 | 4.15 | - | 72 | 72 |

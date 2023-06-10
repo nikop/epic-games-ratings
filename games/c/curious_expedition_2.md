@@ -18,8 +18,8 @@ Number of Ratings: 20  (23.09.2022)
 | Treasure Hunt | 31.00% | ~97 |
 | Good Mama | 29.00% | ~91 |
 | O Captain My Captain | 28.00% | ~88 |
+| Taxonomist | 26.00% | ~81 |
 | Plunderer | 26.00% | ~81 |
-| Taxonomist | 25.00% | ~78 |
 | Uncertain Loyalties | 23.00% | ~72 |
 | Traveller | 22.00% | ~69 |
 | Nahua Seeker | 22.00% | ~69 |
@@ -48,9 +48,9 @@ Number of Ratings: 20  (23.09.2022)
 | No Laughing Matter | 7.00% | ~22 |
 | Level Up | 7.00% | ~22 |
 | Zookeeper | 5.00% | ~16 |
+| Islander Understanding | 5.00% | ~16 |
 | A Paris Sunset | 5.00% | ~16 |
 | The Workshop | 5.00% | ~16 |
-| Islander Understanding | 4.00% | ~13 |
 | The Director Perseveres | 4.00% | ~13 |
 | A Familiar Figure | 4.00% | ~13 |
 | X Marks the Spot | 4.00% | ~13 |

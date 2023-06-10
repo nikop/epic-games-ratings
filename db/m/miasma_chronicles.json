@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1077,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1527,6 +1527,11 @@
       "Time": "2023-06-10T08:02:34.4376409+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T09:01:34.769612+00:00",
+      "NumProgressed": 1077,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1536,9 +1541,9 @@
       "ID": "ALPHA_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Alpha Editor",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ARE_YOU_NOT_ENTERTAINED",
@@ -1546,7 +1551,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -1584,9 +1589,9 @@
       "ID": "CHAIN_KILLER",
       "SetID": "9a4jnji",
       "Name": "Chain Killer",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 205
     },
     {
       "ID": "CHAIN_REACTION",
@@ -1618,7 +1623,7 @@
       "Name": "Croaked",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "CRUELTY",
@@ -1650,7 +1655,7 @@
       "Name": "Limp Richard",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1690,7 +1695,7 @@
       "Name": "Endgame",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "EXORCIST",
@@ -1706,7 +1711,7 @@
       "Name": "Experienced",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "FIRESTARTER",
@@ -1720,9 +1725,9 @@
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 979
+      "UsersEstimate": 991
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1736,9 +1741,9 @@
       "ID": "FRATRICIDE",
       "SetID": "9a4jnji",
       "Name": "Fratricide",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "FROM_DARKNESS",
@@ -1746,7 +1751,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "GIANT_KILLER",
@@ -1770,7 +1775,7 @@
       "Name": "Gun for Hire",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1832,9 +1837,9 @@
       "ID": "QA_HAS_SUFFERED",
       "SetID": "9a4jnji",
       "Name": "QA Has Suffered! (Redux)",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "RANIDAPHOBIA",
@@ -1842,7 +1847,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "RECYCLER",
@@ -1866,7 +1871,7 @@
       "Name": "Savior",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "SENSEI",
@@ -1914,7 +1919,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -1945,7 +1950,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1077,
       "Completed": 0
     }
   ],
@@ -1953,8 +1958,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-09T20:58:10.48551+00:00",
-  "LastChanged_Achievements": "2023-06-10T08:02:34.4376402+00:00",
+  "LastChanged_Achievements": "2023-06-10T09:01:34.7696106+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-10T07:59:02.7238309+00:00",
-  "LastUpdate_Achievements": "2023-06-10T08:02:34.4376896+00:00"
+  "LastUpdate_Ratings": "2023-06-10T08:58:38.0112283+00:00",
+  "LastUpdate_Achievements": "2023-06-10T09:01:34.7696992+00:00"
 }

@@ -7,10 +7,10 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~4,469 |
-| Leader | 60.00% | ~3,776 |
+| Leader | 60.00% | ~3,777 |
 | Explorer | 53.00% | ~3,336 |
 | Healer | 53.00% | ~3,336 |
-| Aspiring Inventor | 45.00% | ~2,832 |
+| Aspiring Inventor | 45.00% | ~2,833 |
 | Adventurer | 41.00% | ~2,581 |
 | Famous Healer | 38.00% | ~2,392 |
 | Local Leader | 35.00% | ~2,203 |
@@ -20,10 +20,10 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~2,077 |
 | The Great Healer | 31.00% | ~1,951 |
 | Survivor | 31.00% | ~1,951 |
-| Cleaner | 28.00% | ~1,762 |
-| Catastrofan | 28.00% | ~1,762 |
-| Legendary Explorer | 27.00% | ~1,699 |
-| Finders, Keepers | 26.00% | ~1,636 |
+| Cleaner | 28.00% | ~1,763 |
+| Catastrofan | 28.00% | ~1,763 |
+| Legendary Explorer | 27.00% | ~1,700 |
+| Finders, Keepers | 26.00% | ~1,637 |
 | Top Notch | 24.00% | ~1,511 |
 | Mentor | 23.00% | ~1,448 |
 | Great Leader | 22.00% | ~1,385 |
@@ -40,8 +40,8 @@ Number of Ratings: 836  (23.09.2022)
 | Famous Adventurer | 13.00% | ~818 |
 | Prepared for Anything | 13.00% | ~818 |
 | Big Catastrofan | 12.00% | ~755 |
-| It's a Finnish Thing | 10.00% | ~629 |
-| Sky Burial | 9.00% | ~566 |
+| It's a Finnish Thing | 10.00% | ~630 |
+| Sky Burial | 9.00% | ~567 |
 | Trader | 8.00% | ~504 |
 | Bread and Circuses | 7.00% | ~441 |
 | Tailored to fit | 7.00% | ~441 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,294 (Ranked 123)  
+Progressed: 6,295 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 6,205 | 0 |
 | 2023-06-08 | 6,243 | 0 |
 | 2023-06-09 | 6,285 | 0 |
-| 2023-06-10 | 6,294 | 0 |
+| 2023-06-10 | 6,295 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 327)  
 Sum: 662 (Ranked 271)  

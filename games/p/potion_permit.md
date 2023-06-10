@@ -25,11 +25,11 @@ Rating: 3.80 (Ranked 927)
 | Spark of Love | 15.00% | ~207 |
 | Expert Chemist | 12.00% | ~166 |
 | Stone Specialist | 12.00% | ~166 |
+| Line Cook | 11.00% | ~152 |
 | Sociable | 11.00% | ~152 |
 | Ablutomaniac | 11.00% | ~152 |
 | Production Sorter | 11.00% | ~152 |
 | Good Samaritan | 10.00% | ~138 |
-| Line Cook | 10.00% | ~138 |
 | Acrobatic Adventurer | 8.00% | ~111 |
 | Animal Exterminator | 7.00% | ~97 |
 | Adolescent Love | 5.00% | ~69 |

@@ -4198,9 +4198,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90304,
+  "EOS_Progressed": 90306,
   "EOS_Completed": 1926,
-  "EOS_NewPlayers": 721,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9378,6 +9378,11 @@
       "Time": "2023-06-10T08:07:38.155351+00:00",
       "NumProgressed": 90304,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-06-10T09:06:52.748397+00:00",
+      "NumProgressed": 90306,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 493,
@@ -10299,9 +10304,9 @@
       "ID": "objective_completed_1214",
       "SetID": "415jc5c",
       "Name": "Clowning Around",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_1218",
@@ -13332,21 +13337,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56578,
+      "Progressed": 56580,
       "Completed": 2780
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90304,
+      "Progressed": 90306,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-09T22:58:16.7265342+00:00",
-  "LastChanged_Achievements": "2023-06-10T08:07:38.1553501+00:00",
+  "LastChanged_Achievements": "2023-06-10T09:06:52.7483964+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-10T07:58:45.3008805+00:00",
-  "LastUpdate_Achievements": "2023-06-10T08:07:38.1574441+00:00"
+  "LastUpdate_Ratings": "2023-06-10T08:58:22.2719025+00:00",
+  "LastUpdate_Achievements": "2023-06-10T09:06:52.7510084+00:00"
 }

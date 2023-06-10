@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.7,
+  "EOS_Completed_Percentage": 2.69,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -616,6 +616,11 @@
       "Time": "2023-06-10T08:04:04.4486774+00:00",
       "NumProgressed": 259,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-10T09:03:51.52601+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 24,
@@ -651,7 +656,7 @@
       "Name": "Brewery",
       "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "church",
@@ -715,7 +720,7 @@
       "Name": "Marketplace",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "match_12",
@@ -731,7 +736,7 @@
       "Name": "Match 3",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "match_6",
@@ -747,7 +752,7 @@
       "Name": "Match 9",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "mill",
@@ -763,7 +768,7 @@
       "Name": "Sawmill",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "seaweed_farm",
@@ -771,7 +776,7 @@
       "Name": "Seaweed farm",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "tavern",
@@ -801,9 +806,9 @@
       "ID": "wheat_farm",
       "SetID": "ap7g2g4",
       "Name": "Wheat farm",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 99
     },
     {
       "ID": "wood",
@@ -818,14 +823,14 @@
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-10T08:04:04.448677+00:00",
+  "LastChanged_Achievements": "2023-06-10T09:03:51.5260095+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-10T07:57:29.1106597+00:00",
-  "LastUpdate_Achievements": "2023-06-10T08:04:04.4487115+00:00"
+  "LastUpdate_Ratings": "2023-06-10T08:57:16.9703634+00:00",
+  "LastUpdate_Achievements": "2023-06-10T09:03:51.5260487+00:00"
 }

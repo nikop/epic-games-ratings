@@ -19,17 +19,17 @@
 | Handyman | 73.00% | ~8 |
 | Guardian | 64.00% | ~7 |
 | Nosebleeder | 64.00% | ~7 |
+| Youth Magnet | 64.00% | ~7 |
 | Trader | 64.00% | ~7 |
 | Weapon Boost | 64.00% | ~7 |
 | Seal Breaker | 64.00% | ~7 |
-| Youth Magnet | 55.00% | ~6 |
+| Flying Kobold Killer | 55.00% | ~6 |
 | Furious Scorpion Killer | 55.00% | ~6 |
 | Lethal Blade Mantis Killer | 55.00% | ~6 |
 | Squeaky Clean | 55.00% | ~6 |
 | Kind Adventurer | 55.00% | ~6 |
 | Mermaid Killer | 55.00% | ~6 |
 | Face Slapper | 55.00% | ~6 |
-| Flying Kobold Killer | 45.00% | ~5 |
 | Cave Master | 45.00% | ~5 |
 | Master Artificer | 36.00% | ~4 |
 | Master Cook | 27.00% | ~3 |

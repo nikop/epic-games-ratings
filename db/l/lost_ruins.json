@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2023-06-10T03:07:36.8872214+00:00",
       "NumProgressed": 365,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T09:06:40.4992438+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -482,7 +487,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Cryomancer",
@@ -506,7 +511,7 @@
       "Name": "Ghost Buster",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Gladiator",
@@ -514,7 +519,7 @@
       "Name": "Gladiator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "GoblinTales",
@@ -570,7 +575,7 @@
       "Name": "Librarian",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Lumberjack",
@@ -698,7 +703,7 @@
       "Name": "The End",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "TheFallen",
@@ -720,9 +725,9 @@
       "ID": "TrapMaster",
       "SetID": "82505mn",
       "Name": "Trap Master",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "TreasureHunter",
@@ -761,7 +766,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 0
     }
   ],
@@ -769,8 +774,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-10T08:07:24.045251+00:00",
+  "LastChanged_Achievements": "2023-06-10T09:06:40.4992432+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:58.7369732+00:00",
-  "LastUpdate_Ratings": "2023-06-10T08:00:38.1376705+00:00",
-  "LastUpdate_Achievements": "2023-06-10T08:07:24.0452947+00:00"
+  "LastUpdate_Ratings": "2023-06-10T08:59:56.4872261+00:00",
+  "LastUpdate_Achievements": "2023-06-10T09:06:40.4992774+00:00"
 }

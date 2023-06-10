@@ -134,6 +134,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.20% | ~113 |
 | Kas the Destroyer | 0.20% | ~113 |
 | Who Lurks Below? | 0.20% | ~113 |
+| Clowning Around | 0.20% | ~113 |
 | Xanathaaaaaaar! | 0.20% | ~113 |
 | Homecoming | 0.20% | ~181 |
 | Anti-Dexterous Explorers | 0.20% | ~181 |
@@ -315,7 +316,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Strength of Character | 0.10% | ~57 |
 | Speeds of Destruction | 0.10% | ~57 |
 | Flapjacks and Waffles | 0.10% | ~57 |
-| Clowning Around | 0.10% | ~57 |
 | A Whale of a Time | 0.10% | ~57 |
 | Struggling Toward Omu | 0.10% | ~90 |
 | Wagon Train | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,304 (Ranked 64)  
+Progressed: 90,306 (Ranked 64)  
 Completed: 1,926 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,7 +551,7 @@ Completed: 1,926 (2.13%) (Ranked 66)
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
-| 2023-06-10 | 90,304 | 1,926 |
+| 2023-06-10 | 90,306 | 1,926 |
 ## Awards
 Max (Diverse Characters): 4,925  (Ranked 64)  
 Sum: 30,064 (Ranked 37)  

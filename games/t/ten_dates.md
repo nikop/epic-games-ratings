@@ -11,7 +11,7 @@
 | The athlete | 25.00% | ~59 |
 | The activist | 22.00% | ~52 |
 | The individualist | 21.00% | ~50 |
-| The nice guy | 13.00% | ~31 |
+| The nice guy | 14.00% | ~33 |
 | The debonair | 11.00% | ~26 |
 | Picky, Picky! | 10.00% | ~24 |
 | More than browsing | 8.00% | ~19 |
