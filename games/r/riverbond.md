@@ -6,26 +6,26 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~363,277 |
-| Now You're Talking | 62.00% | ~321,760 |
-| Steel Yourself | 62.00% | ~321,760 |
-| Window Dressing | 50.00% | ~259,484 |
-| Trigger Happy | 46.00% | ~238,725 |
-| Riverborn | 45.00% | ~233,535 |
-| Starry Eyed | 34.00% | ~176,449 |
-| Poking Around | 34.00% | ~176,449 |
-| Talk of the Town | 24.00% | ~124,552 |
-| AAARR! | 23.00% | ~119,362 |
-| Hello Darkness | 23.00% | ~119,362 |
+| First Step | 70.00% | ~363,279 |
+| Now You're Talking | 62.00% | ~321,761 |
+| Steel Yourself | 62.00% | ~321,761 |
+| Window Dressing | 50.00% | ~259,485 |
+| Trigger Happy | 46.00% | ~238,726 |
+| Riverborn | 45.00% | ~233,536 |
+| Starry Eyed | 34.00% | ~176,450 |
+| Poking Around | 34.00% | ~176,450 |
+| Talk of the Town | 24.00% | ~124,553 |
+| AAARR! | 23.00% | ~119,363 |
+| Hello Darkness | 23.00% | ~119,363 |
 | Wind At Our Backs | 22.00% | ~114,173 |
-| To the Beat | 20.00% | ~103,793 |
-| Sunny Shores | 17.00% | ~88,224 |
-| To Victory! | 15.00% | ~77,845 |
-| Sunday Best | 15.00% | ~77,845 |
-| Two of a Kind | 14.00% | ~72,655 |
+| To the Beat | 20.00% | ~103,794 |
+| Sunny Shores | 17.00% | ~88,225 |
+| To Victory! | 15.00% | ~77,846 |
+| Sunday Best | 15.00% | ~77,846 |
+| Two of a Kind | 14.00% | ~72,656 |
 | Keep On Trucking | 13.00% | ~67,466 |
-| Going on an Adventure | 11.00% | ~57,086 |
-| Make Peace, Not War | 11.00% | ~57,086 |
+| Going on an Adventure | 11.00% | ~57,087 |
+| Make Peace, Not War | 11.00% | ~57,087 |
 | Walking The Line | 10.00% | ~51,897 |
 | Not So Cute Anymore | 10.00% | ~51,897 |
 | Road Less Travelled | 9.00% | ~46,707 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,557 |
 | Point Taken | 0.10% | ~519 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518,967 (Ranked 28)  
+Progressed: 518,970 (Ranked 28)  
 Completed: 422 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 422 (0.08%) (Ranked 173)
 | 2023-06-07 | 518,687 | 421 |
 | 2023-06-08 | 518,771 | 422 |
 | 2023-06-09 | 518,885 | 422 |
-| 2023-06-10 | 518,967 | 422 |
+| 2023-06-10 | 518,970 | 422 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

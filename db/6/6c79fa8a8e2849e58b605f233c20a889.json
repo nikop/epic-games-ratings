@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1447,
+  "EOS_Progressed": 1448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1721,6 +1721,11 @@
       "Time": "2023-06-10T16:04:22.3137319+00:00",
       "NumProgressed": 1447,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T17:03:55.0935371+00:00",
+      "NumProgressed": 1448,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1812,7 +1817,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "GLOVE_SLAP",
@@ -1866,9 +1871,9 @@
       "ID": "KNIGHT_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Knight Commander",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -1907,14 +1912,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1447,
+      "Progressed": 1448,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-10T16:04:22.3137314+00:00",
+  "LastChanged_Achievements": "2023-06-10T17:03:55.0935365+00:00",
   "LastUpdate_AppInfo": "2023-06-06T15:56:55.6600857+00:00",
-  "LastUpdate_Ratings": "2023-06-10T15:57:10.4456875+00:00",
-  "LastUpdate_Achievements": "2023-06-10T16:04:22.3137519+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:57:25.2023874+00:00",
+  "LastUpdate_Achievements": "2023-06-10T17:03:55.0935605+00:00"
 }

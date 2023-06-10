@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 404,
+  "EOS_Progressed": 405,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -387,6 +387,11 @@
       "Time": "2023-06-10T15:06:11.1129118+00:00",
       "NumProgressed": 404,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-10T17:05:45.112172+00:00",
+      "NumProgressed": 405,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 20,
@@ -398,7 +403,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "CHOICES_MATTER",
@@ -462,7 +467,7 @@
       "Name": "The Frenzy",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -470,7 +475,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -486,7 +491,7 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "GOOD_KARMA",
@@ -494,7 +499,7 @@
       "Name": "Good Karma",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "INTERROGATION",
@@ -510,7 +515,7 @@
       "Name": "Office Clerk",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -534,7 +539,7 @@
       "Name": "Sabotage",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "SHILL_BIDDER",
@@ -557,7 +562,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 404,
+      "Progressed": 405,
       "Completed": 4
     }
   ],
@@ -565,8 +570,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-06-10T16:06:48.0632184+00:00",
+  "LastChanged_Achievements": "2023-06-10T17:05:45.1121715+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:53.5270698+00:00",
-  "LastUpdate_Ratings": "2023-06-10T15:57:56.6558771+00:00",
-  "LastUpdate_Achievements": "2023-06-10T16:06:48.063231+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:57:58.5328407+00:00",
+  "LastUpdate_Achievements": "2023-06-10T17:05:45.1121872+00:00"
 }

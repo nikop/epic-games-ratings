@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Clean Sweep | 94.00% | ~354 |
 | Scavenger | 75.00% | ~283 |
-| Line of Duty | 72.00% | ~271 |
+| Line of Duty | 73.00% | ~275 |
 | Gunner | 56.00% | ~211 |
 | DocKing | 47.00% | ~177 |
 | What-A-Shot | 45.00% | ~170 |
-| Batteries Included | 39.00% | ~147 |
+| Batteries Included | 40.00% | ~151 |
 | Death from Above | 37.00% | ~139 |
 | Hull King | 27.00% | ~102 |
 | Boss Down | 20.00% | ~75 |

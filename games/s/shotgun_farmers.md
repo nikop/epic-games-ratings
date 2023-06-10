@@ -9,11 +9,11 @@
 | Survivor | 46.00% | ~25 |
 | First Blood | 38.00% | ~40 |
 | Early Survivor | 37.00% | ~20 |
-| Triple Kill | 35.00% | ~36 |
+| Triple Kill | 36.00% | ~37 |
 | No Diggity | 35.00% | ~19 |
+| Cornivore | 32.00% | ~33 |
 | No Asperascope | 31.00% | ~32 |
-| Cornivore | 31.00% | ~32 |
-| I Believe I Can Fly | 28.00% | ~29 |
+| I Believe I Can Fly | 29.00% | ~30 |
 | Amateur Survivor | 26.00% | ~14 |
 | Bouncemato | 23.00% | ~12 |
 | This Is My Boomstick | 22.00% | ~12 |

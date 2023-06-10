@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -97,6 +97,11 @@
       "Time": "2023-06-10T14:06:56.7775507+00:00",
       "NumProgressed": 262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T17:06:06.8419492+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -124,7 +129,7 @@
       "Name": "Squid Game",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "chapter1",
@@ -140,7 +145,7 @@
       "Name": "Aboard the Sea Bird",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "chapter3",
@@ -314,9 +319,9 @@
       "ID": "stronk",
       "SetID": "5bkacmp",
       "Name": "Stronk",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "superMothBoy",
@@ -324,7 +329,7 @@
       "Name": "Super Moth Boy",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "theBadPlace",
@@ -348,7 +353,7 @@
       "Name": "Lyre lyre pants on fyre",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "theHealer",
@@ -380,7 +385,7 @@
       "Name": "Pieces of eight!",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "thePolitician",
@@ -396,15 +401,15 @@
       "Name": "Caged tiger",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "theUnionLeader",
       "SetID": "5bkacmp",
       "Name": "Gorilla warfare",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 150
     },
     {
       "ID": "trialByCombat",
@@ -435,7 +440,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
@@ -443,8 +448,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-06-10T16:07:15.3432313+00:00",
+  "LastChanged_Achievements": "2023-06-10T17:06:06.8419486+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.4102894+00:00",
-  "LastUpdate_Ratings": "2023-06-10T16:01:14.9212345+00:00",
-  "LastUpdate_Achievements": "2023-06-10T16:07:15.3432581+00:00"
+  "LastUpdate_Ratings": "2023-06-10T17:00:21.782469+00:00",
+  "LastUpdate_Achievements": "2023-06-10T17:06:06.8419789+00:00"
 }

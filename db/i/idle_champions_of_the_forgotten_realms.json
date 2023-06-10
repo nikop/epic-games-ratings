@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4160,10 +4160,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30070,
       "NumberOfAwardsMax": 4925
+    },
+    {
+      "Time": "2023-06-10T16:58:16.0818531+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30072,
+      "NumberOfAwardsMax": 4925
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30070,
+  "NumberOfAwards": 30072,
   "NumberOfAwardsMax": 4925,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4201,7 +4207,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3951
+      "Count": 3953
     },
     {
       "Text": "This game has Playful Visuals",
@@ -4210,7 +4216,7 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90340,
+  "EOS_Progressed": 90345,
   "EOS_Completed": 1926,
   "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 13,
@@ -9430,6 +9436,11 @@
       "Time": "2023-06-10T16:07:26.3508+00:00",
       "NumProgressed": 90340,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-06-10T17:06:15.7840336+00:00",
+      "NumProgressed": 90345,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 493,
@@ -11191,9 +11202,9 @@
       "ID": "objective_completed_384",
       "SetID": "cc37lbc",
       "Name": "A Saurial\u0027s Lament",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_385",
@@ -13384,21 +13395,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56614,
+      "Progressed": 56619,
       "Completed": 2780
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90340,
+      "Progressed": 90345,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-10T13:01:01.7243469+00:00",
-  "LastChanged_Achievements": "2023-06-10T16:07:26.3507995+00:00",
+  "LastChanged": "2023-06-10T16:58:16.081853+00:00",
+  "LastChanged_Achievements": "2023-06-10T17:06:15.7840329+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-10T15:58:20.952146+00:00",
-  "LastUpdate_Achievements": "2023-06-10T16:07:26.3531182+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:58:16.0818537+00:00",
+  "LastUpdate_Achievements": "2023-06-10T17:06:15.7863711+00:00"
 }

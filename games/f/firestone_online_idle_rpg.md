@@ -5,22 +5,22 @@ Rating: 4.05 (Ranked 889)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,274 |
-| World Map | 80.00% | ~1,084 |
-| Temple of Eternals | 57.00% | ~772 |
-| Prestigious | 53.00% | ~718 |
-| Fellowship Power | 40.00% | ~542 |
-| Guild Power | 24.00% | ~325 |
+| Victor | 94.00% | ~1,277 |
+| World Map | 80.00% | ~1,086 |
+| Temple of Eternals | 57.00% | ~774 |
+| Prestigious | 53.00% | ~720 |
+| Fellowship Power | 40.00% | ~543 |
+| Guild Power | 24.00% | ~326 |
 | Prestigious x10 | 21.00% | ~285 |
 | The game is on | 18.00% | ~244 |
-| Exotic Merchant | 17.00% | ~230 |
+| Exotic Merchant | 17.00% | ~231 |
 | Dragon Clicker | 16.00% | ~217 |
-| Inspection | 15.00% | ~203 |
-| Miner Clicker | 15.00% | ~203 |
+| Inspection | 15.00% | ~204 |
+| Miner Clicker | 15.00% | ~204 |
 | Full Party | 14.00% | ~190 |
-| Dragon Master | 13.00% | ~176 |
-| Enlightenment | 13.00% | ~176 |
-| Hero inspection | 13.00% | ~176 |
+| Dragon Master | 13.00% | ~177 |
+| Enlightenment | 13.00% | ~177 |
+| Hero inspection | 13.00% | ~177 |
 | Lieutenant | 12.00% | ~163 |
 | Milestone collector | 11.00% | ~149 |
 | Mysterious Rock | 11.00% | ~149 |
@@ -28,10 +28,10 @@ Rating: 4.05 (Ranked 889)
 | Superior | 11.00% | ~149 |
 | The Unstoppable | 11.00% | ~149 |
 | Scientist | 9.00% | ~122 |
-| Challenger | 8.00% | ~108 |
-| Daily Quest Completionist | 8.00% | ~108 |
-| Scroll Master | 8.00% | ~108 |
-| The power of Awakening | 8.00% | ~108 |
+| Challenger | 8.00% | ~109 |
+| Daily Quest Completionist | 8.00% | ~109 |
+| Scroll Master | 8.00% | ~109 |
+| The power of Awakening | 8.00% | ~109 |
 | Doing My Part | 7.00% | ~95 |
 | Frostfire Liberator | 7.00% | ~95 |
 | Hunter | 7.00% | ~95 |
@@ -62,7 +62,7 @@ Rating: 4.05 (Ranked 889)
 | Arena Challenger | 1.00% | ~14 |
 | Ebony Jungle Liberator | 1.00% | ~14 |
 | Legendary | 1.00% | ~14 |
-| Training makes a Pro player | 0.70% | ~9 |
+| Training makes a Pro player | 0.70% | ~10 |
 | Transmute | 0.60% | ~8 |
 | Tree of Life | 0.50% | ~7 |
 | Cauldron Liberator | 0.40% | ~5 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 889)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,355 (Ranked 163)  
+Progressed: 1,358 (Ranked 163)  
 Completed: 1 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 1 (0.07%) (Ranked 177)
 | 2023-06-07 | 1,329 | 1 |
 | 2023-06-08 | 1,341 | 1 |
 | 2023-06-09 | 1,349 | 1 |
-| 2023-06-10 | 1,355 | 1 |
+| 2023-06-10 | 1,358 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13,27 +13,27 @@
 | A Stranger's Diary | 65.00% | ~13 |
 | It Feels Better Than It Sounds | 65.00% | ~13 |
 | Skilled Hands | 60.00% | ~12 |
+| Master Smithy | 60.00% | ~12 |
 | Stand By Nature | 60.00% | ~12 |
 | Close Encounter | 55.00% | ~11 |
-| Master Smithy | 55.00% | ~11 |
+| The Depths Of Darkness | 55.00% | ~11 |
+| One With The Blades | 55.00% | ~11 |
+| Heart of Oblivion | 55.00% | ~11 |
+| Anahita's Greatest Mistake | 55.00% | ~11 |
+| Heart's Desire | 55.00% | ~11 |
+| Shoo! Shoo! | 55.00% | ~11 |
 | The Milk Canal | 55.00% | ~11 |
 | Fledgling Smithy | 55.00% | ~11 |
-| The Depths Of Darkness | 50.00% | ~10 |
-| One With The Blades | 50.00% | ~10 |
-| Heart of Oblivion | 50.00% | ~10 |
-| Anahita's Greatest Mistake | 50.00% | ~10 |
-| Heart's Desire | 50.00% | ~10 |
-| Shoo! Shoo! | 50.00% | ~10 |
 | At One With Nature | 50.00% | ~10 |
 | Prison Break | 45.00% | ~9 |
 | I Pick You | 45.00% | ~9 |
 | Accomplished Smithy | 45.00% | ~9 |
 | The Blight's Blight | 45.00% | ~9 |
+| The Ultimate Sacrifice | 45.00% | ~9 |
 | Nature's Savior | 45.00% | ~9 |
 | Hammer It Home | 45.00% | ~9 |
 | For Whom the Bell Tolls | 45.00% | ~9 |
 | Here I Am | 45.00% | ~9 |
-| The Ultimate Sacrifice | 40.00% | ~8 |
 | Break The Cycle | 40.00% | ~8 |
 | Continue The Cycle | 30.00% | ~6 |
 | Talent And Dedication | 25.00% | ~5 |

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 62.00% | ~162 |
-| Gorilla warfare | 58.00% | ~152 |
+| Caged tiger | 62.00% | ~163 |
+| Gorilla warfare | 57.00% | ~150 |
 | Isenburg's fall | 48.00% | ~126 |
-| Pieces of eight! | 41.00% | ~107 |
-| Aboard the Sea Bird | 31.00% | ~81 |
+| Pieces of eight! | 41.00% | ~108 |
+| Aboard the Sea Bird | 31.00% | ~82 |
 | Elephant in the room | 30.00% | ~79 |
 | Dark and stinky | 29.00% | ~76 |
 | Sneak in, sneak out | 26.00% | ~68 |
@@ -20,9 +20,9 @@
 | Heal thyself | 18.00% | ~47 |
 | Double trouble | 16.00% | ~42 |
 | It's not cheating | 16.00% | ~42 |
-| Stronk | 15.00% | ~39 |
+| Stronk | 14.00% | ~37 |
 | Welcome to Forte Ailes | 13.00% | ~34 |
-| Super Moth Boy | 12.00% | ~31 |
+| Super Moth Boy | 12.00% | ~32 |
 | The Bad Place | 9.00% | ~24 |
 | Meet your maker | 8.00% | ~21 |
 | Pacifist fanatic | 8.00% | ~21 |
@@ -33,8 +33,8 @@
 | Trial by combat | 6.00% | ~16 |
 | A bard day's night | 5.00% | ~13 |
 | Money talks | 5.00% | ~13 |
-| Squid Game | 4.00% | ~10 |
-| Lyre lyre pants on fyre | 4.00% | ~10 |
+| Squid Game | 4.00% | ~11 |
+| Lyre lyre pants on fyre | 4.00% | ~11 |
 | Be kind to monsters | 3.00% | ~8 |
 | D4RK V0L3P41N | 3.00% | ~8 |
 | Family reunion | 3.00% | ~8 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 236)  
+Progressed: 263 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-05-23 | 257 | 0 |
 | 2023-05-31 | 258 | 0 |
 | 2023-06-05 | 259 | 0 |
-| 2023-06-10 | 262 | 0 |
+| 2023-06-10 | 263 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

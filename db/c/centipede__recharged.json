@@ -296,7 +296,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14423,
+  "EOS_Progressed": 14424,
   "EOS_Completed": 93,
   "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 3,
@@ -4221,6 +4221,11 @@
       "Time": "2023-06-10T16:01:26.0711881+00:00",
       "NumProgressed": 14423,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-06-10T17:00:30.0661408+00:00",
+      "NumProgressed": 14424,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 16,
@@ -4232,7 +4237,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4038
+      "UsersEstimate": 4039
     },
     {
       "ID": "Burning_For_You",
@@ -4248,7 +4253,7 @@
       "Name": "Deadline",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -4359,15 +4364,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14423,
+      "Progressed": 14424,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-10T16:01:26.0711875+00:00",
+  "LastChanged_Achievements": "2023-06-10T17:00:30.0661396+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:23.2018586+00:00",
-  "LastUpdate_Ratings": "2023-06-10T15:59:29.6336066+00:00",
-  "LastUpdate_Achievements": "2023-06-10T16:01:26.0712385+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:59:05.9278673+00:00",
+  "LastUpdate_Achievements": "2023-06-10T17:00:30.0662149+00:00"
 }

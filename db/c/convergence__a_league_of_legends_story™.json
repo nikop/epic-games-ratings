@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 651,
+  "EOS_Progressed": 652,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1154,6 +1154,11 @@
       "Time": "2023-06-10T15:05:40.8764593+00:00",
       "NumProgressed": 651,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T17:05:22.4626234+00:00",
+      "NumProgressed": 652,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -1299,9 +1304,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     },
     {
       "ID": "GadgetCompletion1",
@@ -1507,9 +1512,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 26
     },
     {
       "ID": "SyronGift",
@@ -1588,14 +1593,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 651,
+      "Progressed": 652,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-10T16:06:17.779435+00:00",
+  "LastChanged_Achievements": "2023-06-10T17:05:22.4626224+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-10T15:59:56.9206818+00:00",
-  "LastUpdate_Achievements": "2023-06-10T16:06:17.7794798+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:59:25.060144+00:00",
+  "LastUpdate_Achievements": "2023-06-10T17:05:22.4626683+00:00"
 }

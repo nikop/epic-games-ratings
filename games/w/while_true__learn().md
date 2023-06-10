@@ -6,18 +6,18 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~550,507 |
-| Error: Stack Overflow | 66.00% | ~390,682 |
-| We need more gold | 60.00% | ~355,166 |
-| The dawn of civilization | 53.00% | ~313,730 |
-| More FPS for the FPS god! | 49.00% | ~290,052 |
-| Beauty and harmony | 48.00% | ~284,133 |
-| One more! | 44.00% | ~260,455 |
-| Overmind | 24.00% | ~142,066 |
-| RNG is my best friend now | 18.00% | ~106,550 |
+| First.. Bit? | 93.00% | ~550,512 |
+| Error: Stack Overflow | 66.00% | ~390,686 |
+| We need more gold | 60.00% | ~355,169 |
+| The dawn of civilization | 53.00% | ~313,732 |
+| More FPS for the FPS god! | 49.00% | ~290,055 |
+| Beauty and harmony | 48.00% | ~284,135 |
+| One more! | 44.00% | ~260,457 |
+| Overmind | 24.00% | ~142,068 |
+| RNG is my best friend now | 18.00% | ~106,551 |
 | Cosplay | 13.00% | ~76,953 |
 | Evolution in progress... | 13.00% | ~76,953 |
-| Step by step | 8.00% | ~47,355 |
+| Step by step | 8.00% | ~47,356 |
 | README reader | 3.00% | ~17,758 |
 | Data scientist | 3.00% | ~17,758 |
 | One small step for a man... | 3.00% | ~17,758 |
@@ -28,14 +28,14 @@ Number of Ratings: 896  (23.09.2022)
 | Best deal on the market | 1.00% | ~5,919 |
 | Ping | 1.00% | ~5,919 |
 | Magna cum laude | 1.00% | ~5,919 |
-| The hoarder | 0.90% | ~5,327 |
+| The hoarder | 0.90% | ~5,328 |
 | Deal with it! | 0.50% | ~2,960 |
 | Gold rush | 0.40% | ~2,368 |
 | Cat-o-holic | 0.40% | ~2,368 |
 | Elements will destroy you! | 0.30% | ~1,776 |
 | The Scrooge | 0.10% | ~592 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 591,943 (Ranked 23)  
+Progressed: 591,948 (Ranked 23)  
 Completed: 490 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 490 (0.08%) (Ranked 173)
 | 2023-06-07 | 591,559 | 488 |
 | 2023-06-08 | 591,706 | 489 |
 | 2023-06-09 | 591,843 | 490 |
-| 2023-06-10 | 591,943 | 490 |
+| 2023-06-10 | 591,948 | 490 |
 ## Awards
 Max (Challenging Puzzles): 133  (Ranked 298)  
 Sum: 133 (Ranked 388)  

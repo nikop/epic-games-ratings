@@ -4,8 +4,8 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135,
+  "EOS_Progressed": 136,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -633,6 +633,11 @@
       "Time": "2023-06-10T15:01:20.5364908+00:00",
       "NumProgressed": 135,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T17:00:33.7989676+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -644,7 +649,7 @@
       "Name": "Apprentice Destructor",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "avaricerite",
@@ -754,9 +759,9 @@
       "ID": "legendary_destructor",
       "SetID": "jig50d",
       "Name": "Legendary Destructor",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "machine_man",
@@ -810,7 +815,7 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 90
     },
@@ -891,7 +896,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 135,
+      "Progressed": 136,
       "Completed": 1
     }
   ],
@@ -899,8 +904,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-10T16:02:01.3114946+00:00",
+  "LastChanged_Achievements": "2023-06-10T17:00:33.7989668+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.2477238+00:00",
-  "LastUpdate_Ratings": "2023-06-10T16:00:36.0190527+00:00",
-  "LastUpdate_Achievements": "2023-06-10T16:02:01.3115197+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:59:52.3099158+00:00",
+  "LastUpdate_Achievements": "2023-06-10T17:00:33.7989977+00:00"
 }

@@ -184,6 +184,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Treasure Hunters | 0.20% | ~181 |
 | The Guardian of Orolunga | 0.20% | ~181 |
 | The Lost Love | 0.20% | ~181 |
+| A Saurial's Lament | 0.20% | ~181 |
 | A Saurial's Resolve | 0.20% | ~181 |
 | Flies on the Wall | 0.20% | ~181 |
 | Backtracking Through Barovia | 0.20% | ~181 |
@@ -356,7 +357,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Think Your Way Out Of It | 0.10% | ~90 |
 | Air's Getting Pretty Thin | 0.10% | ~90 |
 | Red Wizard 'Escort' | 0.10% | ~57 |
-| A Saurial's Lament | 0.10% | ~90 |
 | Spirit of the Trickster Gods | 0.10% | ~57 |
 | The Killer Mists | 0.10% | ~90 |
 | Class Vacation | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,340 (Ranked 64)  
+Progressed: 90,345 (Ranked 64)  
 Completed: 1,926 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,10 +551,10 @@ Completed: 1,926 (2.13%) (Ranked 66)
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
-| 2023-06-10 | 90,340 | 1,926 |
+| 2023-06-10 | 90,345 | 1,926 |
 ## Awards
 Max (Diverse Characters): 4,925  (Ranked 64)  
-Sum: 30,070 (Ranked 37)  
+Sum: 30,072 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -563,7 +563,7 @@ Diff (max vs sum): 27
 | This game has Quickly Understood Controls | 4,613 |
 | This game is Relaxing | 4,511 |
 | This game is Highly Recommended | 3,958 |
-| This game has Amazing Characters | 3,951 |
+| This game has Amazing Characters | 3,953 |
 | This game has Playful Visuals | 3,248 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -703,4 +703,4 @@ Diff (max vs sum): 27
 | 2023-06-07 | 4.06 | - | 4,920 | 30,049 |
 | 2023-06-08 | 4.06 | - | 4,922 | 30,051 |
 | 2023-06-09 | 4.06 | - | 4,925 | 30,064 |
-| 2023-06-10 | 4.06 | - | 4,925 | 30,070 |
+| 2023-06-10 | 4.06 | - | 4,925 | 30,072 |

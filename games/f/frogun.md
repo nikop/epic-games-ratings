@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Historian | 95.00% | ~190 |
-| Treasure hunter | 91.00% | ~182 |
-| Survivalist | 83.00% | ~166 |
-| Challenge seeker | 79.00% | ~158 |
-| Coin collector | 73.00% | ~146 |
-| Floater | 57.00% | ~114 |
-| Speedrunner | 44.00% | ~88 |
-| On foot racer | 40.00% | ~80 |
-| Prickly situation handler | 34.00% | ~68 |
+| Historian | 95.00% | ~191 |
+| Treasure hunter | 91.00% | ~183 |
+| Survivalist | 83.00% | ~167 |
+| Challenge seeker | 79.00% | ~159 |
+| Coin collector | 73.00% | ~147 |
+| Floater | 57.00% | ~115 |
+| Speedrunner | 43.00% | ~86 |
+| On foot racer | 39.00% | ~78 |
+| Prickly situation handler | 33.00% | ~66 |
 | Hat lover | 33.00% | ~66 |
-| Perfectionist | 31.00% | ~62 |
+| Perfectionist | 30.00% | ~60 |
 | Protected | 29.00% | ~58 |
-| Pragmatic | 24.00% | ~48 |
+| Pragmatic | 23.00% | ~46 |
 | Calory burner | 17.00% | ~34 |
 | Pacifist | 15.00% | ~30 |
-| Snow digger | 14.00% | ~28 |
 | Model | 14.00% | ~28 |
-| Fire extinguisher | 11.00% | ~22 |
-| Hubworld fan | 11.00% | ~22 |
+| Snow digger | 13.00% | ~26 |
+| Fire extinguisher | 10.00% | ~20 |
+| Hubworld fan | 10.00% | ~20 |
 | Occult cataloger | 8.00% | ~16 |
 | Photographer | 6.00% | ~12 |
-| Great rescuer | 5.00% | ~10 |
 | Absolute race champion | 5.00% | ~10 |
-| Doppelganger | 5.00% | ~10 |
+| Great rescuer | 4.00% | ~8 |
+| Doppelganger | 4.00% | ~8 |
 | Tank | 4.00% | ~8 |
 | Biologist | 3.00% | ~6 |
-| Fashionista | 3.00% | ~6 |
-| Duelist | 3.00% | ~6 |
 | Gladiator | 2.00% | ~4 |
-| Art lover | 2.00% | ~4 |
-| Completionist | 2.00% | ~4 |
+| Fashionista | 2.00% | ~4 |
+| Duelist | 2.00% | ~4 |
+| Art lover | 1.00% | ~2 |
+| Completionist | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 248)  
-Completed: 3 (1.50%) (Ranked 79)  
+Progressed: 201 (Ranked 248)  
+Completed: 3 (1.49%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,6 +49,7 @@ Completed: 3 (1.50%) (Ranked 79)
 | 2023-06-01 | 198 | 3 |
 | 2023-06-04 | 199 | 3 |
 | 2023-06-09 | 200 | 3 |
+| 2023-06-10 | 201 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

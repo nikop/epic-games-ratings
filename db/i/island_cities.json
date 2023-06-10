@@ -2,9 +2,9 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
-  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 313,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 15,
-  "EOS_Completed_Percentage": 16.03,
+  "EOS_Completed_Percentage": 15.97,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1393,6 +1393,11 @@
       "Time": "2023-06-10T16:06:45.1781567+00:00",
       "NumProgressed": 312,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-06-10T17:05:42.8247553+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 22,
@@ -1404,7 +1409,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "LEVEL_002",
@@ -1412,15 +1417,15 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 206
+      "UsersEstimate": 203
     },
     {
       "ID": "LEVEL_004",
@@ -1452,7 +1457,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_008",
@@ -1468,7 +1473,7 @@
       "Name": "Who loves trains?",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "LEVEL_010",
@@ -1476,7 +1481,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LEVEL_011",
@@ -1514,17 +1519,17 @@
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 63
     },
     {
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_017",
@@ -1579,7 +1584,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 50
     }
   ],
@@ -1587,8 +1592,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-10T16:06:45.1781562+00:00",
+  "LastChanged_Achievements": "2023-06-10T17:05:42.824754+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:14.620254+00:00",
-  "LastUpdate_Ratings": "2023-06-10T15:58:19.3088482+00:00",
-  "LastUpdate_Achievements": "2023-06-10T16:06:45.1781756+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:58:14.5010771+00:00",
+  "LastUpdate_Achievements": "2023-06-10T17:05:42.8247776+00:00"
 }

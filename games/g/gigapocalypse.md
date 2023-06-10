@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Too Cool For School | 85.00% | ~125 |
-| Caretaker | 82.00% | ~121 |
-| Feng Shui | 71.00% | ~104 |
-| Who's A Good Boy | 68.00% | ~100 |
-| Power Up | 68.00% | ~100 |
+| Too Cool For School | 86.00% | ~126 |
+| Caretaker | 83.00% | ~122 |
+| Feng Shui | 72.00% | ~106 |
+| Who's A Good Boy | 69.00% | ~101 |
+| Power Up | 69.00% | ~101 |
 | Thick Skin | 67.00% | ~98 |
-| Math Wizard | 63.00% | ~93 |
+| Math Wizard | 64.00% | ~94 |
 | Destroy Erase Improve | 63.00% | ~93 |
-| Power Overload | 61.00% | ~90 |
+| Power Overload | 62.00% | ~91 |
 | Quite A Snack | 56.00% | ~82 |
-| Overwhelming Power | 52.00% | ~76 |
-| Impenetrable Skin | 50.00% | ~74 |
+| Overwhelming Power | 53.00% | ~78 |
+| Impenetrable Skin | 51.00% | ~75 |
 | Chomp Chomp! | 41.00% | ~60 |
+| Glorious Battle | 40.00% | ~59 |
+| The Duelist | 39.00% | ~57 |
 | Supreme Power | 39.00% | ~57 |
-| Glorious Battle | 39.00% | ~57 |
 | Diaper Time! | 39.00% | ~57 |
-| The Duelist | 38.00% | ~56 |
 | Target Practice | 38.00% | ~56 |
 | Meat Larder | 37.00% | ~54 |
 | Mutant And Proud | 36.00% | ~53 |

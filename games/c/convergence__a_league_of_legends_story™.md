@@ -12,6 +12,7 @@
 | Immaculate Aim | 6.00% | ~39 |
 | The Mysterious Stranger | 5.00% | ~33 |
 | The Betrayer | 5.00% | ~33 |
+| The Man Who Shattered Time | 5.00% | ~33 |
 | Rail Rat | 5.00% | ~33 |
 | No, Thanks! | 5.00% | ~33 |
 | Breaking Down Barriers | 5.00% | ~33 |
@@ -22,11 +23,11 @@
 | Like Clockwork | 4.00% | ~26 |
 | Street Style | 4.00% | ~26 |
 | Family Memories | 4.00% | ~26 |
-| The Man Who Shattered Time | 4.00% | ~26 |
 | The Loose Cannon | 4.00% | ~26 |
 | Time Flies | 4.00% | ~26 |
 | The Harder They Fall | 4.00% | ~26 |
 | Fast Learner | 4.00% | ~26 |
+| Sump Explorer | 4.00% | ~26 |
 | Check Your Pulse | 4.00% | ~26 |
 | Immaculate Aim | 4.00% | ~26 |
 | The Brass Boss | 4.00% | ~26 |
@@ -34,7 +35,6 @@
 | Right On Time | 3.00% | ~20 |
 | Whiz Kid | 3.00% | ~20 |
 | Honest Mistake | 3.00% | ~20 |
-| Sump Explorer | 3.00% | ~20 |
 | Syron for Hope | 3.00% | ~20 |
 | Theater Explorer | 3.00% | ~20 |
 | Ask Questions Later | 3.00% | ~20 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651 (Ranked 192)  
+Progressed: 652 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 624 | 0 |
 | 2023-06-08 | 633 | 0 |
 | 2023-06-09 | 642 | 0 |
-| 2023-06-10 | 651 | 0 |
+| 2023-06-10 | 652 | 0 |

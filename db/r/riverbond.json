@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518967,
+  "EOS_Progressed": 518970,
   "EOS_Completed": 422,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5575,6 +5575,11 @@
       "Time": "2023-06-10T16:06:59.4216066+00:00",
       "NumProgressed": 518967,
       "NumCompleted": 422
+    },
+    {
+      "Time": "2023-06-10T17:05:53.8395689+00:00",
+      "NumProgressed": 518970,
+      "NumCompleted": 422
     }
   ],
   "TotalAchievements": 57,
@@ -5586,7 +5591,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 119362
+      "UsersEstimate": 119363
     },
     {
       "ID": "10",
@@ -5594,7 +5599,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 233535
+      "UsersEstimate": 233536
     },
     {
       "ID": "11",
@@ -5602,7 +5607,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 363277
+      "UsersEstimate": 363279
     },
     {
       "ID": "12",
@@ -5626,7 +5631,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57086
+      "UsersEstimate": 57087
     },
     {
       "ID": "15",
@@ -5658,7 +5663,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 77845
+      "UsersEstimate": 77846
     },
     {
       "ID": "19",
@@ -5666,7 +5671,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 321760
+      "UsersEstimate": 321761
     },
     {
       "ID": "2",
@@ -5682,7 +5687,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 124552
+      "UsersEstimate": 124553
     },
     {
       "ID": "21",
@@ -5690,7 +5695,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 57086
+      "UsersEstimate": 57087
     },
     {
       "ID": "22",
@@ -5810,7 +5815,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 259484
+      "UsersEstimate": 259485
     },
     {
       "ID": "36",
@@ -5818,7 +5823,7 @@
       "Name": "Sunday Best",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 77845
+      "UsersEstimate": 77846
     },
     {
       "ID": "37",
@@ -5842,7 +5847,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 176449
+      "UsersEstimate": 176450
     },
     {
       "ID": "4",
@@ -5882,7 +5887,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 88224
+      "UsersEstimate": 88225
     },
     {
       "ID": "44",
@@ -5914,7 +5919,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 321760
+      "UsersEstimate": 321761
     },
     {
       "ID": "48",
@@ -5922,7 +5927,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 103793
+      "UsersEstimate": 103794
     },
     {
       "ID": "49",
@@ -5930,7 +5935,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 176449
+      "UsersEstimate": 176450
     },
     {
       "ID": "5",
@@ -5946,7 +5951,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 72655
+      "UsersEstimate": 72656
     },
     {
       "ID": "51",
@@ -5962,7 +5967,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 238725
+      "UsersEstimate": 238726
     },
     {
       "ID": "53",
@@ -5970,7 +5975,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 119362
+      "UsersEstimate": 119363
     },
     {
       "ID": "54",
@@ -6041,15 +6046,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 518967,
+      "Progressed": 518970,
       "Completed": 422
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-06-10T16:06:59.421606+00:00",
+  "LastChanged_Achievements": "2023-06-10T17:05:53.8395683+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:25.4826628+00:00",
-  "LastUpdate_Ratings": "2023-06-10T15:57:27.8076318+00:00",
-  "LastUpdate_Achievements": "2023-06-10T16:06:59.4216712+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:57:37.9296654+00:00",
+  "LastUpdate_Achievements": "2023-06-10T17:05:53.8396786+00:00"
 }
