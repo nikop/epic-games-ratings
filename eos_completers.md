@@ -24,7 +24,7 @@
 | 22 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 23 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 7.69% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.90% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.85% |
 | 28 | [Scorn](games/s/scorn.md) | 6.79% |
@@ -35,12 +35,12 @@
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.10% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
-| 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
-| 38 | [Doodle God](games/d/doodle_god.md) | 3.79% |
-| 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.79% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.02% |
+| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
+| 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
+| 39 | [Doodle God](games/d/doodle_god.md) | 3.79% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
-| 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.78% |
+| 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.76% |
 | 42 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
@@ -83,8 +83,8 @@
 | 81 | [Ten Dates](games/t/ten_dates.md) | 1.24% |
 | 82 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.23% |
 | 83 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
-| 84 | [Chorus](games/c/chorus.md) | 1.16% |
 | 84 | [Trifox](games/t/trifox.md) | 1.16% |
+| 85 | [Chorus](games/c/chorus.md) | 1.15% |
 | 86 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.12% |
 | 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 88 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.11% |
@@ -98,9 +98,9 @@
 | 95 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 97 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
-| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
-| 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
-| 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
+| 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
+| 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 102 | [Them and Us](games/t/them_and_us.md) | 0.74% |
 | 103 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.73% |
 | 104 | [Haven](games/h/haven.md) | 0.72% |
