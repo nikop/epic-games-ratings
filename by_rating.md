@@ -21,7 +21,7 @@
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 297 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 258 | 240 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,043 | 75 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 147,835 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 148,198 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,698 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 476 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 494 |
@@ -144,7 +144,6 @@
 | 135 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 494 |
 | 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 494 |
 | 143 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 574 | 173 |
-| 143 | [DOOM II](games/d/doom_ii.md) | 4.74 | 26 | 462 |
 | 143 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.74 | 67 | 369 |
 | 143 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 776 | 148 |
 | 143 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 611 | 167 |
@@ -155,18 +154,19 @@
 | 143 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 762 | 150 |
 | 143 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 0 | 494 |
 | 143 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 607 | 169 |
-| 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 404 | 203 |
-| 156 | [Haven](games/h/haven.md) | 4.73 | 0 | 494 |
-| 156 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 567 | 174 |
-| 156 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 494 |
-| 156 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 226 | 250 |
-| 156 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 494 |
-| 156 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 494 |
-| 156 | [Star Atlas](games/s/star_atlas.md) | 4.73 | 0 | 494 |
-| 156 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 314 | 226 |
-| 156 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 494 |
-| 156 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 351 |
-| 156 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 494 |
+| 155 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 404 | 203 |
+| 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 26 | 462 |
+| 155 | [Haven](games/h/haven.md) | 4.73 | 0 | 494 |
+| 155 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 567 | 174 |
+| 155 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 494 |
+| 155 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 226 | 250 |
+| 155 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 494 |
+| 155 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 494 |
+| 155 | [Star Atlas](games/s/star_atlas.md) | 4.73 | 0 | 494 |
+| 155 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 314 | 226 |
+| 155 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 494 |
+| 155 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 351 |
+| 155 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 494 |
 | 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 467 | 191 |
 | 168 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 494 |
 | 168 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 139 | 292 |
@@ -218,7 +218,7 @@
 | 194 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 494 |
 | 217 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 110,873 | 8 |
 | 217 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 494 |
-| 217 | [Dead Space](games/d/dead_space.md) | 4.69 | 56 | 384 |
+| 217 | [Dead Space](games/d/dead_space.md) | 4.69 | 58 | 383 |
 | 217 | [House Flipper](games/h/house_flipper.md) | 4.69 | 296 | 229 |
 | 217 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 494 |
 | 217 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,175 | 126 |
@@ -382,7 +382,7 @@
 | 360 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 271 | 237 |
 | 360 | [Supraland](games/s/supraland.md) | 4.61 | 7,623 | 41 |
 | 360 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 494 |
-| 360 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 323 | 222 |
+| 360 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 323 | 223 |
 | 360 | [Wall World](games/w/wall_world.md) | 4.61 | 0 | 494 |
 | 360 | [Warframe](games/w/warframe.md) | 4.61 | 15,327 | 21 |
 | 386 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,208 | 28 |
@@ -755,14 +755,14 @@
 | 750 | [House Party](games/h/house_party.md) | 4.32 | 0 | 494 |
 | 750 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.32 | 0 | 494 |
 | 750 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 453 |
+| 750 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.32 | 0 | 494 |
 | 750 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 494 |
 | 750 | [Vampyr](games/v/vampyr.md) | 4.32 | 549 | 179 |
-| 758 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 494 |
-| 758 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 494 |
-| 758 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 947 | 141 |
-| 758 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 494 |
-| 758 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.31 | 0 | 494 |
-| 758 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 0 | 494 |
+| 759 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 494 |
+| 759 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 494 |
+| 759 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 947 | 141 |
+| 759 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 494 |
+| 759 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 0 | 494 |
 | 764 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 494 |
 | 764 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 0 | 494 |
 | 764 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,396,861 | 1 |
@@ -912,7 +912,7 @@
 | 909 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 0 | 494 |
 | 911 | [Chimeraland](games/c/chimeraland.md) | 3.94 | 22 | 476 |
 | 911 | [Patron](games/p/patron.md) | 3.94 | 0 | 494 |
-| 913 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 322 | 223 |
+| 913 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 324 | 222 |
 | 913 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 494 |
 | 915 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 453 |
 | 915 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 494 |
