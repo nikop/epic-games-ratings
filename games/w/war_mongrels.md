@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.31 (Ranked 759)  
+Rating: 4.31 (Ranked 758)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,7 +22,7 @@ Number of Ratings: 34  (23.09.2022)
 | King of Knives | 31.00% | ~103 |
 | Consequences | 29.00% | ~97 |
 | Opportunities | 27.00% | ~90 |
-| The Horror | 25.00% | ~83 |
+| The Horror | 26.00% | ~87 |
 | Collectibles of Chapter II | 23.00% | ~77 |
 | The Difference | 23.00% | ~77 |
 | Vengeance | 21.00% | ~70 |

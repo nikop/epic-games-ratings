@@ -6,23 +6,23 @@ Rating: 4.56 (Ranked 452)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 78.00% | ~3,501 |
-| Realm Estate | 75.00% | ~3,366 |
-| Secret Technique | 75.00% | ~3,366 |
-| Walls Cannot Stop Us | 73.00% | ~3,276 |
+| Realm Estate | 75.00% | ~3,367 |
+| Secret Technique | 75.00% | ~3,367 |
+| Walls Cannot Stop Us | 73.00% | ~3,277 |
 | From Friends to Family | 69.00% | ~3,097 |
-| Magical Synergy | 65.00% | ~2,917 |
+| Magical Synergy | 65.00% | ~2,918 |
 | Bone Peddler | 61.00% | ~2,738 |
-| Stronger Together | 56.00% | ~2,513 |
+| Stronger Together | 56.00% | ~2,514 |
 | Full Ascension | 54.00% | ~2,424 |
-| There Can Only Be One! | 48.00% | ~2,154 |
-| Seat of Power | 48.00% | ~2,154 |
+| There Can Only Be One! | 48.00% | ~2,155 |
+| Seat of Power | 48.00% | ~2,155 |
+| Intimidation Tactics | 45.00% | ~2,020 |
 | My Final Form | 44.00% | ~1,975 |
-| Intimidation Tactics | 44.00% | ~1,975 |
 | Valley of Wonders | 42.00% | ~1,885 |
-| In a Liege of Your Own | 38.00% | ~1,705 |
-| Return of the Wizard King | 31.00% | ~1,391 |
-| Digging for Treasure | 31.00% | ~1,391 |
-| Against the Odds | 31.00% | ~1,391 |
+| In a Liege of Your Own | 38.00% | ~1,706 |
+| Return of the Wizard King | 31.00% | ~1,392 |
+| Digging for Treasure | 31.00% | ~1,392 |
+| Against the Odds | 31.00% | ~1,392 |
 | Enchanted Archipelago | 28.00% | ~1,257 |
 | Impenetrable Fortress | 27.00% | ~1,212 |
 | The Magic That Empowers Me! | 20.00% | ~898 |
@@ -50,7 +50,7 @@ Rating: 4.56 (Ranked 452)
 | Master of Evilness | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,488 (Ranked 129)  
+Progressed: 4,489 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 4,407 | 0 |
 | 2023-06-08 | 4,428 | 0 |
 | 2023-06-09 | 4,476 | 0 |
-| 2023-06-10 | 4,488 | 0 |
+| 2023-06-10 | 4,489 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

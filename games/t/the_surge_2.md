@@ -38,10 +38,10 @@ Rating: 4.24 (Ranked 801)
 | Triplets | 10.00% | ~174 |
 | Stimulating The Local Economy | 9.00% | ~157 |
 | Denying Prophecy | 8.00% | ~139 |
+| Following In Their Footsteps | 8.00% | ~139 |
 | Defense in Depth | 8.00% | ~139 |
 | A Little Banged Up | 7.00% | ~122 |
 | Reverse Engineering | 7.00% | ~122 |
-| Following In Their Footsteps | 7.00% | ~122 |
 | Turbo Booster | 6.00% | ~105 |
 | Juiced Up | 6.00% | ~105 |
 | Squid Pro Quo | 6.00% | ~105 |

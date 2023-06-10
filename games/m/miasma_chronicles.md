@@ -46,7 +46,7 @@ Rating: 4.30 (Ranked 764)
 | Bot Whisperer | 5.00% | ~54 |
 | Dressed To Kill | 4.00% | ~43 |
 | Cruelty | 2.00% | ~22 |
-| Five Finger Deathcount | 0.80% | ~9 |
+| Five Finger Deathcount | 0.90% | ~10 |
 | Alpha Editor | 0.60% | ~6 |
 | Fratricide | 0.60% | ~6 |
 | QA Has Suffered! (Redux) | 0.60% | ~6 |

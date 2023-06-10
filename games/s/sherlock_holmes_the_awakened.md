@@ -25,7 +25,7 @@
 | Bookworm | 35.00% | ~147 |
 | Up In Flames | 35.00% | ~147 |
 | Fhtagn! | 35.00% | ~147 |
-| Let Me Be Frank | 32.00% | ~134 |
+| Let Me Be Frank | 33.00% | ~139 |
 | Brain Food | 31.00% | ~130 |
 | No Stone Unturned | 29.00% | ~122 |
 | Curiosity Killed The Cat | 20.00% | ~84 |

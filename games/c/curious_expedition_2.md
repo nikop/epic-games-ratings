@@ -14,12 +14,12 @@ Number of Ratings: 20  (23.09.2022)
 | Lost & Found & Lost Again | 39.00% | ~122 |
 | Fire and Flood | 37.00% | ~116 |
 | Spooky! | 34.00% | ~106 |
-| Shennong Herbalist | 31.00% | ~97 |
+| Shennong Herbalist | 32.00% | ~100 |
 | Treasure Hunt | 31.00% | ~97 |
-| Good Mama | 29.00% | ~91 |
+| Good Mama | 30.00% | ~94 |
 | O Captain My Captain | 28.00% | ~88 |
+| Plunderer | 27.00% | ~85 |
 | Taxonomist | 26.00% | ~81 |
-| Plunderer | 26.00% | ~81 |
 | Uncertain Loyalties | 23.00% | ~72 |
 | Traveller | 22.00% | ~69 |
 | Nahua Seeker | 22.00% | ~69 |

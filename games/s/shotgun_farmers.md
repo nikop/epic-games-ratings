@@ -24,7 +24,7 @@
 | Grave Digger | 17.00% | ~9 |
 | Drinking Problem | 14.00% | ~14 |
 | Oh My Gourd | 11.00% | ~6 |
-| Summers Here | 10.00% | ~5 |
+| Summers Here | 11.00% | ~6 |
 | Skin Of Your Teeth | 9.00% | ~9 |
 | Perfect | 8.00% | ~4 |
 | Expert Survivor | 8.00% | ~4 |

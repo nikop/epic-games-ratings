@@ -18,10 +18,10 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 56.00% | ~30 |
 | Speedrun | 54.00% | ~29 |
 | Thieves' Guild Accreditation | 48.00% | ~26 |
+| I am the night | 46.00% | ~25 |
 | A beer, two curses, three companions | 44.00% | ~24 |
 | The plot thickens... At the tavern | 44.00% | ~24 |
 | The Ranger of Chaos | 44.00% | ~24 |
-| I am the night | 44.00% | ~24 |
 | Team Building Exercise | 43.00% | ~23 |
 | Dwarf Fortress | 41.00% | ~22 |
 | Look but don't touch | 41.00% | ~22 |
@@ -44,10 +44,10 @@ Number of Ratings: 118  (23.09.2022)
 | Scholar of the Lands of Fangh | 19.00% | ~10 |
 | He’s alive! Aliiiive! | 19.00% | ~10 |
 | Dead for good | 19.00% | ~10 |
+| The Dungeon Master | 17.00% | ~9 |
 | Res Judicata | 17.00% | ~9 |
 | Necrophilia | 17.00% | ~9 |
 | It's been a hard day's night | 17.00% | ~9 |
-| The Dungeon Master | 15.00% | ~8 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 15.00% | ~8 |
 | An old poacher makes the best gamekeeper | 13.00% | ~7 |
 | Lëgal Legend | 11.00% | ~6 |

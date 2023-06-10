@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -476,9 +476,9 @@
       "ID": "ach-learn-traits",
       "SetID": "17ih7ma",
       "Name": "Shennong Herbalist",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -580,9 +580,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "ach-redElk",
@@ -604,9 +604,9 @@
       "ID": "ach-rob-shrines",
       "SetID": "17ih7ma",
       "Name": "Plunderer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "ach-salamanderPrince",
@@ -677,8 +677,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-10T09:06:46.8762369+00:00",
+  "LastChanged_Achievements": "2023-06-10T10:07:20.8507535+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.3347821+00:00",
-  "LastUpdate_Ratings": "2023-06-10T09:01:03.4228216+00:00",
-  "LastUpdate_Achievements": "2023-06-10T09:06:46.876284+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:01:47.0903029+00:00",
+  "LastUpdate_Achievements": "2023-06-10T10:07:20.8508113+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,318 |
-| Tutti Eroi! | 54.00% | ~3,318 |
-| You Shall Not Pass | 52.00% | ~3,195 |
-| Avanti Savoia! | 47.00% | ~2,888 |
-| Conrad von Hotzensocks | 36.00% | ~2,212 |
-| Mamma Mia! | 36.00% | ~2,212 |
-| Gabriele D'Annunzio | 32.00% | ~1,966 |
+| Peak Performance | 54.00% | ~3,319 |
+| Tutti Eroi! | 54.00% | ~3,319 |
+| You Shall Not Pass | 52.00% | ~3,196 |
+| Avanti Savoia! | 47.00% | ~2,889 |
+| Conrad von Hotzensocks | 36.00% | ~2,213 |
+| Mamma Mia! | 36.00% | ~2,213 |
+| Gabriele D'Annunzio | 32.00% | ~1,967 |
 | Silver Lining | 28.00% | ~1,721 |
 | Aurelio Baruzzi | 22.00% | ~1,352 |
 | Veni Vidi Vici | 22.00% | ~1,352 |
@@ -26,12 +26,12 @@ Number of Ratings: 98  (23.09.2022)
 | Dirty Dozen | 13.00% | ~799 |
 | Luigi Cadorna | 13.00% | ~799 |
 | Uomo Universale | 13.00% | ~799 |
-| Machiavelli | 12.00% | ~737 |
-| Shaken, Not Stirred | 12.00% | ~737 |
+| Machiavelli | 12.00% | ~738 |
+| Shaken, Not Stirred | 12.00% | ~738 |
 | Die Bosniaken Kommen! | 11.00% | ~676 |
 | The Devil's Paintbrush | 11.00% | ~676 |
-| Dante's Inferno | 10.00% | ~614 |
-| I Have the High Ground | 10.00% | ~614 |
+| Dante's Inferno | 10.00% | ~615 |
+| I Have the High Ground | 10.00% | ~615 |
 | Millenial | 9.00% | ~553 |
 | The Show Must Go On | 8.00% | ~492 |
 | Tosca | 8.00% | ~492 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,145 (Ranked 124)  
+Progressed: 6,146 (Ranked 124)  
 Completed: 8 (0.13%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 8 (0.13%) (Ranked 160)
 | 2023-06-07 | 6,115 | 8 |
 | 2023-06-08 | 6,123 | 8 |
 | 2023-06-09 | 6,139 | 8 |
-| 2023-06-10 | 6,145 | 8 |
+| 2023-06-10 | 6,146 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 447)  
 Sum: 244 (Ranked 344)  

@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 61.00% | ~158 |
-| Gorilla warfare | 58.00% | ~150 |
-| Isenburg's fall | 48.00% | ~124 |
-| Pieces of eight! | 41.00% | ~106 |
-| Aboard the Sea Bird | 31.00% | ~80 |
+| Caged tiger | 61.00% | ~159 |
+| Gorilla warfare | 57.00% | ~148 |
+| Isenburg's fall | 48.00% | ~125 |
+| Pieces of eight! | 41.00% | ~107 |
+| Aboard the Sea Bird | 31.00% | ~81 |
 | Elephant in the room | 30.00% | ~78 |
 | Dark and stinky | 29.00% | ~75 |
-| Sneak in, sneak out | 26.00% | ~67 |
+| Sneak in, sneak out | 26.00% | ~68 |
 | Is this the end? | 25.00% | ~65 |
-| A gift horse | 24.00% | ~62 |
 | You sssaved me | 24.00% | ~62 |
-| Say hello to my little friends | 21.00% | ~54 |
-| Gotcha | 19.00% | ~49 |
+| A gift horse | 23.00% | ~60 |
+| Say hello to my little friends | 21.00% | ~55 |
+| Gotcha | 18.00% | ~47 |
 | Heal thyself | 18.00% | ~47 |
 | It's not cheating | 17.00% | ~44 |
-| Double trouble | 16.00% | ~41 |
+| Double trouble | 16.00% | ~42 |
 | Stronk | 15.00% | ~39 |
 | Welcome to Forte Ailes | 13.00% | ~34 |
 | Super Moth Boy | 12.00% | ~31 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259 (Ranked 237)  
+Progressed: 260 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,6 +60,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-05-23 | 257 | 0 |
 | 2023-05-31 | 258 | 0 |
 | 2023-06-05 | 259 | 0 |
+| 2023-06-10 | 260 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

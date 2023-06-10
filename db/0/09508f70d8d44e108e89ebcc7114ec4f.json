@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 260,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.69,
   "EosHistory": [
@@ -646,9 +646,9 @@
       "ID": "big_house",
       "SetID": "ap7g2g4",
       "Name": "Big House",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 169
     },
     {
       "ID": "brewery",
@@ -662,9 +662,9 @@
       "ID": "church",
       "SetID": "ap7g2g4",
       "Name": "Church",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "circus",
@@ -806,17 +806,17 @@
       "ID": "wheat_farm",
       "SetID": "ap7g2g4",
       "Name": "Wheat farm",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "wood",
       "SetID": "ap7g2g4",
       "Name": "Wood",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
@@ -829,8 +829,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-10T09:03:51.5260095+00:00",
+  "LastChanged_Achievements": "2023-06-10T10:03:51.1733542+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-10T08:57:16.9703634+00:00",
-  "LastUpdate_Achievements": "2023-06-10T09:03:51.5260487+00:00"
+  "LastUpdate_Ratings": "2023-06-10T09:57:14.9137704+00:00",
+  "LastUpdate_Achievements": "2023-06-10T10:03:51.1733759+00:00"
 }

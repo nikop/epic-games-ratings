@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10107,
+  "EOS_Progressed": 10108,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -856,6 +856,11 @@
       "Time": "2023-06-10T06:05:29.6761997+00:00",
       "NumProgressed": 10107,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-10T10:06:50.1368348+00:00",
+      "NumProgressed": 10108,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -875,7 +880,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -891,7 +896,7 @@
       "Name": "autopilot",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -939,7 +944,7 @@
       "Name": "eurobeat",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_COLLECTIBLES_NORWAY",
@@ -963,7 +968,7 @@
       "Name": "master of rally",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_COMPLETE_GROUP2",
@@ -987,7 +992,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -995,7 +1000,7 @@
       "Name": "antilag",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_COMPLETE_GROUPB",
@@ -1027,7 +1032,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1091,7 +1096,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9703
+      "UsersEstimate": 9704
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1107,7 +1112,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5963
+      "UsersEstimate": 5964
     },
     {
       "ID": "ACH_NIGHT",
@@ -1139,7 +1144,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -1163,7 +1168,7 @@
       "Name": "mittens",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_TERMINAL_DAMAGE",
@@ -1179,7 +1184,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -1203,22 +1208,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7277
+      "UsersEstimate": 7278
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10107,
+      "Progressed": 10108,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-10T09:06:19.3670884+00:00",
+  "LastChanged_Achievements": "2023-06-10T10:06:50.1368344+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:31.6442423+00:00",
-  "LastUpdate_Ratings": "2023-06-10T08:57:40.5578219+00:00",
-  "LastUpdate_Achievements": "2023-06-10T09:06:19.3671235+00:00"
+  "LastUpdate_Ratings": "2023-06-10T09:57:42.8479278+00:00",
+  "LastUpdate_Achievements": "2023-06-10T10:06:50.136873+00:00"
 }

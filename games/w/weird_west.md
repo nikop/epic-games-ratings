@@ -56,8 +56,8 @@ Number of Ratings: 125  (23.09.2022)
 | Explorer | 0.40% | ~7 |
 | End the world | 0.40% | ~7 |
 | Moon Hunter | 0.40% | ~7 |
+| Dirt and Blame | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
-| Dirt and Blame | 0.20% | ~3 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,626 (Ranked 158)  

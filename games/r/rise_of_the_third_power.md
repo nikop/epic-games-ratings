@@ -7,14 +7,14 @@
 | Overpowered | 82.00% | ~105 |
 | Side Job | 77.00% | ~99 |
 | Bloodlust | 55.00% | ~70 |
-| Gettin' It Done | 53.00% | ~68 |
+| Gettin' It Done | 54.00% | ~69 |
 | Feast | 42.00% | ~54 |
 | Attuned | 37.00% | ~47 |
 | Specialist | 33.00% | ~42 |
 | Opulent | 32.00% | ~41 |
 | Sparkly | 29.00% | ~37 |
-| Teamwork | 22.00% | ~28 |
-| Ready to Rock | 21.00% | ~27 |
+| Teamwork | 23.00% | ~29 |
+| Ready to Rock | 22.00% | ~28 |
 | Determined | 20.00% | ~26 |
 | Beginning of the End | 18.00% | ~23 |
 | Bling | 17.00% | ~22 |

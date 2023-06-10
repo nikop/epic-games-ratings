@@ -5,21 +5,21 @@ Rating: 4.57 (Ranked 444)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 16.00% | ~407 |
-| Sputnik 2049 | 14.00% | ~356 |
-| Infinite Growth... | 13.00% | ~331 |
+| Wakey Wakey | 16.00% | ~408 |
+| Sputnik 2049 | 14.00% | ~357 |
+| Infinite Growth... | 13.00% | ~332 |
 | Without Breaking Some Eggs... | 12.00% | ~306 |
 | Space Society | 8.00% | ~204 |
 | A Thousand Strong | 8.00% | ~204 |
 | Ready for a New World | 8.00% | ~204 |
-| Permanent Redesigns | 7.00% | ~178 |
-| Ain't Nobody Got Time for That | 7.00% | ~178 |
+| Permanent Redesigns | 7.00% | ~179 |
+| Ain't Nobody Got Time for That | 7.00% | ~179 |
 | Guy de Borderlands | 6.00% | ~153 |
 | Fully Recycled | 6.00% | ~153 |
 | Breaking Protocol | 6.00% | ~153 |
 | The Ship of Theseus | 6.00% | ~153 |
 | Hope Seeker | 6.00% | ~153 |
-| A Hunk of Junk | 5.00% | ~127 |
+| A Hunk of Junk | 5.00% | ~128 |
 | Exceeding Capacity | 4.00% | ~102 |
 | Please Make it Stop! | 4.00% | ~102 |
 | Man's Best Friend | 3.00% | ~76 |
@@ -35,12 +35,12 @@ Rating: 4.57 (Ranked 444)
 | All in Good Health | 2.00% | ~51 |
 | From the Past | 2.00% | ~51 |
 | What the Ruins Teach Us | 2.00% | ~51 |
-| Mutual Loyalty | 1.00% | ~25 |
-| ...  in a finite world | 1.00% | ~25 |
-| Sustainable Energy | 1.00% | ~25 |
-| Delivery! | 1.00% | ~25 |
-| Pedal to the Metal | 1.00% | ~25 |
-| Pulsar Disciple | 1.00% | ~25 |
+| Mutual Loyalty | 1.00% | ~26 |
+| ...  in a finite world | 1.00% | ~26 |
+| Sustainable Energy | 1.00% | ~26 |
+| Delivery! | 1.00% | ~26 |
+| Pedal to the Metal | 1.00% | ~26 |
+| Pulsar Disciple | 1.00% | ~26 |
 | Catastrophe Avoided | 0.90% | ~23 |
 | Praise the Hull! | 0.90% | ~23 |
 | Space Greenhouse | 0.90% | ~23 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 444)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,546 (Ranked 146)  
+Progressed: 2,550 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 2,488 | 0 |
 | 2023-06-08 | 2,515 | 0 |
 | 2023-06-09 | 2,541 | 0 |
-| 2023-06-10 | 2,546 | 0 |
+| 2023-06-10 | 2,550 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

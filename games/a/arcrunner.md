@@ -16,7 +16,7 @@
 | Terminated III | 34.00% | ~99 |
 | Nanonic II | 30.00% | ~87 |
 | Nanonic III | 18.00% | ~52 |
-| Supply Run | 17.00% | ~49 |
+| Supply Run | 18.00% | ~52 |
 | Starship Docks | 14.00% | ~41 |
 | Cybernetic | 13.00% | ~38 |
 | Up Close And Personal | 13.00% | ~38 |

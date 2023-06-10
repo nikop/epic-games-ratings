@@ -6,8 +6,8 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,136 |
-| Wallbanger | 5.00% | ~19,136 |
+| Point Shooting | 5.00% | ~19,137 |
+| Wallbanger | 5.00% | ~19,137 |
 | Exploitative | 4.00% | ~15,309 |
 | High Speed Low Drag | 4.00% | ~15,309 |
 | Turf War | 4.00% | ~15,309 |
@@ -15,11 +15,11 @@ Number of Ratings: 1,316  (23.09.2022)
 | Checkpoint Victory | 3.00% | ~11,482 |
 | Lucky | 3.00% | ~11,482 |
 | Stylin' | 3.00% | ~11,482 |
-| Banged | 2.00% | ~7,654 |
-| First Blood | 2.00% | ~7,654 |
-| Flaccid Paralysis | 2.00% | ~7,654 |
-| Push Victory | 2.00% | ~7,654 |
-| Self-destructive | 2.00% | ~7,654 |
+| Banged | 2.00% | ~7,655 |
+| First Blood | 2.00% | ~7,655 |
+| Flaccid Paralysis | 2.00% | ~7,655 |
+| Push Victory | 2.00% | ~7,655 |
+| Self-destructive | 2.00% | ~7,655 |
 | Blindfire | 1.00% | ~3,827 |
 | Efficient | 1.00% | ~3,827 |
 | Ruthless | 1.00% | ~3,827 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~383 |
 | Road Hazard | 0.10% | ~383 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 382,725 (Ranked 39)  
+Progressed: 382,737 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,15 +93,15 @@ Completed: 2 (0.00%) (Ranked 213)
 | 2023-06-07 | 381,457 | 2 |
 | 2023-06-08 | 381,994 | 2 |
 | 2023-06-09 | 382,511 | 2 |
-| 2023-06-10 | 382,725 | 2 |
+| 2023-06-10 | 382,737 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 356  (Ranked 213)  
-Sum: 2,701 (Ranked 162)  
+Max (Quickly Understood Controls): 357  (Ranked 213)  
+Sum: 2,703 (Ranked 162)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 356 |
-| This game has Challenging Combat | 324 |
+| This game has Quickly Understood Controls | 357 |
+| This game has Challenging Combat | 325 |
 | This game is Extremely Fun | 319 |
 | This game has Competitive Players | 317 |
 | This game has Amazing Storytelling | 290 |
@@ -260,3 +260,4 @@ Diff (max vs sum): 51
 | 2023-06-06 | 4.62 | - | 356 | 2,698 |
 | 2023-06-08 | 4.61 | - | 356 | 2,699 |
 | 2023-06-09 | 4.62 | - | 356 | 2,701 |
+| 2023-06-10 | 4.62 | - | 357 | 2,703 |

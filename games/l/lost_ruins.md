@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 38.00% | ~139 |
+| Inquisitor | 39.00% | ~143 |
 | Goblin Tales | 30.00% | ~110 |
 | Bug Hunter | 25.00% | ~92 |
 | Boss Killer | 23.00% | ~84 |

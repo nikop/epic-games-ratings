@@ -1,7 +1,7 @@
 # Trials Evolution: Gold Edition
 [Store](https://store.epicgames.com/en-US/p/trials-evolution)  
 [View Rawdata](../../db/t/trials_evolution__gold_edition.json)  
-Rating: 4.55 (Ranked 476)  
+Rating: 4.54 (Ranked 490)  
 Number of Ratings: 28  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -25,3 +25,4 @@ Number of Ratings: 28  (23.09.2022)
 | 2023-06-02 | 4.53 | - | 0 | 0 |
 | 2023-06-05 | 4.54 | - | 0 | 0 |
 | 2023-06-07 | 4.55 | - | 0 | 0 |
+| 2023-06-10 | 4.54 | - | 0 | 0 |

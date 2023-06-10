@@ -162,9 +162,9 @@
       "ID": "GettingItDone",
       "SetID": "4nce15l",
       "Name": "Gettin\u0027 It Done",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "MasterCrafter",
@@ -218,9 +218,9 @@
       "ID": "ReadyToRock",
       "SetID": "4nce15l",
       "Name": "Ready to Rock",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SideJob",
@@ -250,9 +250,9 @@
       "ID": "Teamwork",
       "SetID": "4nce15l",
       "Name": "Teamwork",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
@@ -267,8 +267,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-10T09:06:20.0299211+00:00",
+  "LastChanged_Achievements": "2023-06-10T10:06:51.038009+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.4817304+00:00",
-  "LastUpdate_Ratings": "2023-06-10T08:59:22.1961818+00:00",
-  "LastUpdate_Achievements": "2023-06-10T09:06:20.0299344+00:00"
+  "LastUpdate_Ratings": "2023-06-10T09:59:44.5144202+00:00",
+  "LastUpdate_Achievements": "2023-06-10T10:06:51.0380255+00:00"
 }

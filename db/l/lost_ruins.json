@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -565,9 +565,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 143
     },
     {
       "ID": "Librarian",
@@ -774,8 +774,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-10T09:06:40.4992432+00:00",
+  "LastChanged_Achievements": "2023-06-10T10:07:13.7416353+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:58.7369732+00:00",
-  "LastUpdate_Ratings": "2023-06-10T08:59:56.4872261+00:00",
-  "LastUpdate_Achievements": "2023-06-10T09:06:40.4992774+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:00:27.0922657+00:00",
+  "LastUpdate_Achievements": "2023-06-10T10:07:13.7416769+00:00"
 }
