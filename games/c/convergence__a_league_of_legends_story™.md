@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Cartographer | 6.00% | ~39 |
 | The Steel Shadow | 5.00% | ~32 |
 | Treasure Trove | 5.00% | ~32 |
 | Make Up For Lost Time | 5.00% | ~32 |
-| Cartographer | 5.00% | ~32 |
 | Breaking Down Barriers | 5.00% | ~32 |
 | The Prince in Heels | 5.00% | ~32 |
 | Time Heals All Wounds | 5.00% | ~32 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 644 (Ranked 192)  
+Progressed: 645 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 624 | 0 |
 | 2023-06-08 | 633 | 0 |
 | 2023-06-09 | 642 | 0 |
-| 2023-06-10 | 644 | 0 |
+| 2023-06-10 | 645 | 0 |

@@ -350,9 +350,9 @@
       "ID": "Deadly_Kombationem",
       "SetID": "gl7plp",
       "Name": "Deadly Kombationem",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 113
     },
     {
       "ID": "Fire in the hole!",
@@ -591,8 +591,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-10T07:02:11.4451174+00:00",
+  "LastChanged_Achievements": "2023-06-10T08:03:03.2592117+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:46.8735104+00:00",
-  "LastUpdate_Ratings": "2023-06-10T06:57:29.8337592+00:00",
-  "LastUpdate_Achievements": "2023-06-10T07:02:11.4451474+00:00"
+  "LastUpdate_Ratings": "2023-06-10T07:58:12.7474812+00:00",
+  "LastUpdate_Achievements": "2023-06-10T08:03:03.2592508+00:00"
 }

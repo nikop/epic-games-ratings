@@ -9,26 +9,26 @@ Rating: 4.65 (Ranked 295)
 | Mainframe Hacker | 47.00% | ~3,152 |
 | Tomorrow Never Dyes | 47.00% | ~3,152 |
 | The Spy who eliminated me | 47.00% | ~3,152 |
-| Never Say Loser Again | 41.00% | ~2,749 |
-| For your Eyes only | 39.00% | ~2,615 |
-| From the Vault with Love | 37.00% | ~2,481 |
-| Tailor-Made | 37.00% | ~2,481 |
-| Fully Decked Out | 36.00% | ~2,414 |
+| Never Say Loser Again | 41.00% | ~2,750 |
+| For your Eyes only | 39.00% | ~2,616 |
+| From the Vault with Love | 37.00% | ~2,482 |
+| Tailor-Made | 37.00% | ~2,482 |
+| Fully Decked Out | 36.00% | ~2,415 |
 | You Only Live Twice | 32.00% | ~2,146 |
 | A view to Win | 28.00% | ~1,878 |
 | Smells Like Trouble | 26.00% | ~1,744 |
-| Private Collection | 25.00% | ~1,676 |
-| Hostile Takeover | 25.00% | ~1,676 |
-| Assistant Accountant | 24.00% | ~1,609 |
-| The Living Portrait | 24.00% | ~1,609 |
-| My Motto, My Creed | 24.00% | ~1,609 |
-| Killer Looks | 24.00% | ~1,609 |
-| Keycards Royale | 23.00% | ~1,542 |
-| Dr. No Kill | 23.00% | ~1,542 |
-| In It to Win It | 22.00% | ~1,475 |
+| Private Collection | 25.00% | ~1,677 |
+| Hostile Takeover | 25.00% | ~1,677 |
+| Assistant Accountant | 24.00% | ~1,610 |
+| The Living Portrait | 24.00% | ~1,610 |
+| My Motto, My Creed | 24.00% | ~1,610 |
+| Killer Looks | 24.00% | ~1,610 |
+| Keycards Royale | 23.00% | ~1,543 |
+| Dr. No Kill | 23.00% | ~1,543 |
+| In It to Win It | 22.00% | ~1,476 |
 | Security Supervisor | 10.00% | ~671 |
-| License to Thrill | 8.00% | ~536 |
-| Social of Solace | 8.00% | ~536 |
+| License to Thrill | 8.00% | ~537 |
+| Social of Solace | 8.00% | ~537 |
 | Safe Withdrawal | 6.00% | ~402 |
 | Live and let lie | 5.00% | ~335 |
 | Call Me Maybe | 5.00% | ~335 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 295)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,706 (Ranked 119)  
+Progressed: 6,707 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 6,641 | 0 |
 | 2023-06-08 | 6,671 | 0 |
 | 2023-06-09 | 6,697 | 0 |
-| 2023-06-10 | 6,706 | 0 |
+| 2023-06-10 | 6,707 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

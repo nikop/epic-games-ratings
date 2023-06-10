@@ -5,7 +5,7 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~724 |
+| Meeting Resistance | 29.00% | ~726 |
 | Confirming Suspicions | 23.00% | ~575 |
 | The Kraken Wakes | 19.00% | ~475 |
 | It's Starting to Crack | 17.00% | ~425 |
@@ -44,30 +44,30 @@ Rating: 4.51 (Ranked 528)
 | Locomotion Commotion | 1.00% | ~25 |
 | Road Rage | 1.00% | ~25 |
 | Don't hold your breath | 1.00% | ~25 |
-| Herr Today, Gone Tomorrow | 1.00% | ~24 |
-| Operation Foxley | 1.00% | ~24 |
+| Herr Today, Gone Tomorrow | 1.00% | ~25 |
+| Operation Foxley | 1.00% | ~25 |
 | Ghost of Falaise | 0.90% | ~22 |
 | Siegebreaker | 0.80% | ~20 |
-| Burn after reading | 0.70% | ~17 |
+| Burn after reading | 0.70% | ~18 |
 | Last Resort | 0.70% | ~17 |
 | From Paris with Love | 0.60% | ~15 |
 | Souvenir hunter | 0.60% | ~15 |
-| Up close and personal | 0.50% | ~12 |
-| Shoot for the Moon | 0.50% | ~12 |
+| Up close and personal | 0.50% | ~13 |
+| Shoot for the Moon | 0.50% | ~13 |
 | Eagle Eyed | 0.40% | ~10 |
 | If You Go Down To The Woods Today | 0.40% | ~10 |
 | Fight Another Day | 0.40% | ~10 |
-| Can't Outrun A Bullet | 0.30% | ~7 |
+| Can't Outrun A Bullet | 0.30% | ~8 |
 | Reich To The Point | 0.30% | ~7 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~5 |
 | Out of Scope | 0.20% | ~5 |
 | Sight Beyond Sights | 0.20% | ~5 |
 | Covert Elimination | 0.20% | ~5 |
-| Master of Pistols | 0.10% | ~2 |
-| Master of Secondaries | 0.10% | ~2 |
-| Master of Rifles | 0.10% | ~2 |
-| Master-at-arms | 0.10% | ~2 |
+| Master of Pistols | 0.10% | ~3 |
+| Master of Secondaries | 0.10% | ~3 |
+| Master of Rifles | 0.10% | ~3 |
+| Master-at-arms | 0.10% | ~3 |
 | Führerious Repetition | 0.10% | ~2 |
 | From Führer Away | 0.10% | ~2 |
 | Alpha | 0.10% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,498 (Ranked 147)  
+Progressed: 2,502 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
-| 2023-06-10 | 2,498 | 2 |
+| 2023-06-10 | 2,502 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

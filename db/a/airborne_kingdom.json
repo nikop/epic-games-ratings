@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6559,
+  "EOS_Progressed": 6560,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1698,6 +1698,11 @@
       "Time": "2023-06-10T05:06:12.1531693+00:00",
       "NumProgressed": 6559,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-10T08:07:04.5711289+00:00",
+      "NumProgressed": 6560,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -1725,7 +1730,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -1741,7 +1746,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3476
+      "UsersEstimate": 3477
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -1845,7 +1850,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -1853,7 +1858,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -1861,7 +1866,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3673
+      "UsersEstimate": 3674
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -1901,7 +1906,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -1924,15 +1929,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6559,
+      "Progressed": 6560,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-10T07:05:23.8747605+00:00",
+  "LastChanged_Achievements": "2023-06-10T08:07:04.5711286+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:33.0422041+00:00",
-  "LastUpdate_Ratings": "2023-06-10T06:57:20.0371785+00:00",
-  "LastUpdate_Achievements": "2023-06-10T07:05:23.8747893+00:00"
+  "LastUpdate_Ratings": "2023-06-10T07:57:58.6429998+00:00",
+  "LastUpdate_Achievements": "2023-06-10T08:07:04.5711692+00:00"
 }

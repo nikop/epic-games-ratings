@@ -1245,9 +1245,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15129,
+  "EOS_Progressed": 15134,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6405,6 +6405,11 @@
       "Time": "2023-06-10T07:05:28.4875579+00:00",
       "NumProgressed": 15129,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-10T08:07:10.3094431+00:00",
+      "NumProgressed": 15134,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 22,
@@ -6456,7 +6461,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "1021",
@@ -6488,7 +6493,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "1025",
@@ -6504,7 +6509,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "1027",
@@ -6536,7 +6541,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "1031",
@@ -6544,7 +6549,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "1032",
@@ -6552,7 +6557,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6052
+      "UsersEstimate": 6054
     },
     {
       "ID": "1033",
@@ -6568,7 +6573,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "1035",
@@ -6576,7 +6581,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "1036",
@@ -6584,22 +6589,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 15129,
+      "Progressed": 15134,
       "Completed": 32
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-04T11:01:39.0273267+00:00",
-  "LastChanged_Achievements": "2023-06-10T07:05:28.4875572+00:00",
+  "LastChanged_Achievements": "2023-06-10T08:07:10.3094426+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:44.2764715+00:00",
-  "LastUpdate_Ratings": "2023-06-10T06:59:41.7784023+00:00",
-  "LastUpdate_Achievements": "2023-06-10T07:05:28.4876025+00:00"
+  "LastUpdate_Ratings": "2023-06-10T08:01:27.4783396+00:00",
+  "LastUpdate_Achievements": "2023-06-10T08:07:10.3094951+00:00"
 }

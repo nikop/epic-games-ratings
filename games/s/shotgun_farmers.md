@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 54.00% | ~28 |
-| Seeds of War | 50.00% | ~50 |
-| Survivor | 48.00% | ~24 |
-| First Blood | 37.00% | ~37 |
-| Early Survivor | 37.00% | ~19 |
-| No Diggity | 36.00% | ~18 |
-| Triple Kill | 34.00% | ~34 |
-| No Asperascope | 31.00% | ~31 |
-| Cornivore | 30.00% | ~30 |
-| I Believe I Can Fly | 27.00% | ~27 |
-| Amateur Survivor | 27.00% | ~14 |
-| Bouncemato | 24.00% | ~12 |
-| This Is My Boomstick | 23.00% | ~12 |
-| Quick-Draw Pod | 20.00% | ~10 |
-| 10K | 18.00% | ~18 |
-| Professional Survivor | 18.00% | ~9 |
-| 15K | 17.00% | ~17 |
+| Aspairagus | 53.00% | ~28 |
+| Seeds of War | 51.00% | ~53 |
+| Survivor | 47.00% | ~25 |
+| First Blood | 37.00% | ~38 |
+| Early Survivor | 36.00% | ~19 |
+| No Diggity | 35.00% | ~19 |
+| Triple Kill | 33.00% | ~34 |
+| No Asperascope | 31.00% | ~32 |
+| Cornivore | 31.00% | ~32 |
+| I Believe I Can Fly | 27.00% | ~28 |
+| Amateur Survivor | 26.00% | ~14 |
+| Bouncemato | 23.00% | ~12 |
+| This Is My Boomstick | 22.00% | ~12 |
+| Quick-Draw Pod | 19.00% | ~10 |
+| 15K | 17.00% | ~18 |
+| 10K | 17.00% | ~18 |
+| Professional Survivor | 17.00% | ~9 |
 | Grave Digger | 17.00% | ~9 |
 | Drinking Problem | 14.00% | ~14 |
 | Oh My Gourd | 10.00% | ~5 |
@@ -41,13 +41,13 @@
 | Heart Breaker | 4.00% | ~2 |
 | Chick Magnet | 3.00% | ~3 |
 | Easy Peasy | 3.00% | ~2 |
+| Early Bird | 2.00% | ~2 |
 | Pro Pyromancer | 2.00% | ~2 |
 | King of the Crow | 2.00% | ~1 |
 | Tomassacred | 2.00% | ~1 |
 | 15 Days | 1.00% | ~1 |
 | Honk Honk | 1.00% | ~1 |
 | I Have The High Ground | 1.00% | ~1 |
-| Early Bird | 1.00% | ~1 |
 | Pro Carrocketeer | 1.00% | ~1 |
 | Berry Loved | 1.00% | ~1 |
 | Carrocket From Above | 1.00% | ~1 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 275)  
+Progressed: 103 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 94 | 0 |
 | 2023-06-08 | 97 | 0 |
 | 2023-06-09 | 100 | 0 |
-| 2023-06-10 | 101 | 0 |
+| 2023-06-10 | 103 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

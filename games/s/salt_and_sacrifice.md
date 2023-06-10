@@ -52,7 +52,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Want Not | 21.00% | ~13,565 |
 | The Diablomancer | 21.00% | ~13,565 |
 | The Sacrifice | 21.00% | ~13,565 |
-| The King | 18.00% | ~11,627 |
+| The King | 19.00% | ~12,273 |
 | Take Your Place | 14.00% | ~9,043 |
 | The Nomad | 14.00% | ~9,043 |
 | The Soldier | 11.00% | ~7,105 |

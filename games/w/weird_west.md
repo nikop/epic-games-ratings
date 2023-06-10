@@ -16,10 +16,10 @@ Number of Ratings: 125  (23.09.2022)
 | Off the Trail | 33.00% | ~536 |
 | Justice Served | 29.00% | ~471 |
 | Chain Reaction | 27.00% | ~438 |
+| Rain of Death | 25.00% | ~406 |
 | Scholar | 25.00% | ~406 |
 | Through Their Eyes | 25.00% | ~406 |
 | Dishonored | 24.00% | ~390 |
-| Rain of Death | 24.00% | ~390 |
 | The Great Escape | 23.00% | ~374 |
 | That’s All, Folks | 18.00% | ~292 |
 | Winds of War | 16.00% | ~260 |
@@ -105,9 +105,9 @@ Completed: 2 (0.12%) (Ranked 162)
 | 2023-06-08 | 1,616 | 2 |
 | 2023-06-09 | 1,624 | 2 |
 ## Awards
-Max (Impact the Story): 24  (Ranked 468)  
+Max (Impact the Story): 24  (Ranked 469)  
 Sum: 24 (Ranked 475)  
-Diff (max vs sum): -7  
+Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1010,
+  "EOS_Progressed": 1011,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -353,6 +353,11 @@
       "Time": "2023-06-10T04:05:34.4825714+00:00",
       "NumProgressed": 1010,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T08:07:21.9049448+00:00",
+      "NumProgressed": 1011,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -516,7 +521,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -660,7 +665,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ONELIVERY",
@@ -779,7 +784,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1010,
+      "Progressed": 1011,
       "Completed": 0
     }
   ],
@@ -787,8 +792,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-10T07:05:37.3602764+00:00",
+  "LastChanged_Achievements": "2023-06-10T08:07:21.9049443+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.9246105+00:00",
-  "LastUpdate_Ratings": "2023-06-10T06:57:55.2637568+00:00",
-  "LastUpdate_Achievements": "2023-06-10T07:05:37.3603227+00:00"
+  "LastUpdate_Ratings": "2023-06-10T07:58:49.9702928+00:00",
+  "LastUpdate_Achievements": "2023-06-10T08:07:21.9049875+00:00"
 }

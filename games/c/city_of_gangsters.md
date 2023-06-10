@@ -5,19 +5,19 @@ Rating: 4.25 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~147,566 |
-| Copacetic Coordination | 16.00% | ~51,327 |
-| Fronting the Money | 14.00% | ~44,911 |
-| The Dawn of Automation | 14.00% | ~44,911 |
-| Extraordinary Logistics | 14.00% | ~44,911 |
-| Dirty Money | 13.00% | ~41,703 |
-| Family First | 13.00% | ~41,703 |
-| Cleaning House | 12.00% | ~38,496 |
-| Room in the Back | 12.00% | ~38,496 |
-| Booze Baron | 11.00% | ~35,288 |
-| Beating the Heat | 10.00% | ~32,080 |
-| Friends on the Force | 10.00% | ~32,080 |
-| Neighborhood Watch | 10.00% | ~32,080 |
+| Corner Clout | 46.00% | ~147,571 |
+| Copacetic Coordination | 16.00% | ~51,329 |
+| Fronting the Money | 14.00% | ~44,913 |
+| The Dawn of Automation | 14.00% | ~44,913 |
+| Extraordinary Logistics | 14.00% | ~44,913 |
+| Dirty Money | 13.00% | ~41,705 |
+| Family First | 13.00% | ~41,705 |
+| Cleaning House | 12.00% | ~38,497 |
+| Room in the Back | 12.00% | ~38,497 |
+| Booze Baron | 11.00% | ~35,289 |
+| Beating the Heat | 10.00% | ~32,081 |
+| Friends on the Force | 10.00% | ~32,081 |
+| Neighborhood Watch | 10.00% | ~32,081 |
 | Core Corps | 8.00% | ~25,664 |
 | Sizeable Stash | 7.00% | ~22,456 |
 | Street Fighter | 7.00% | ~22,456 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 794)
 | High Pillow | 0.10% | ~321 |
 | Station Master | 0.10% | ~321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320,796 (Ranked 40)  
+Progressed: 320,806 (Ranked 40)  
 Completed: 4 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,14 +137,14 @@ Completed: 4 (0.00%) (Ranked 213)
 | 2023-06-07 | 320,086 | 4 |
 | 2023-06-08 | 320,378 | 4 |
 | 2023-06-09 | 320,715 | 4 |
-| 2023-06-10 | 320,796 | 4 |
+| 2023-06-10 | 320,806 | 4 |
 ## Awards
-Max (Highly Recommended): 24  (Ranked 468)  
-Sum: 90 (Ranked 407)  
-Diff (max vs sum): 61  
+Max (Highly Recommended): 25  (Ranked 466)  
+Sum: 91 (Ranked 407)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 24 |
+| This game is Highly Recommended | 25 |
 | This game is Relaxing | 23 |
 | This game has Quickly Understood Controls | 23 |
 | This game is Extremely Fun | 20 |
@@ -196,3 +196,4 @@ Diff (max vs sum): 61
 | 2023-05-29 | 4.25 | 24 | 88 |
 | 2023-05-30 | 4.25 | 24 | 89 |
 | 2023-05-31 | 4.25 | 24 | 90 |
+| 2023-06-10 | 4.25 | 25 | 91 |

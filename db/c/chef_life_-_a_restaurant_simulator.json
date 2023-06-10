@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 329,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -1354,6 +1354,11 @@
       "Time": "2023-06-10T05:03:21.4828491+00:00",
       "NumProgressed": 328,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T08:03:45.7578985+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1539,9 +1544,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 211
     },
     {
       "ID": "Packing20",
@@ -1621,7 +1626,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "TrattoriaSet",
@@ -1684,7 +1689,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 329,
       "Completed": 0
     }
   ],
@@ -1692,8 +1697,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-10T07:03:11.1655762+00:00",
+  "LastChanged_Achievements": "2023-06-10T08:03:45.7578981+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.9705413+00:00",
-  "LastUpdate_Ratings": "2023-06-10T06:58:09.8175766+00:00",
-  "LastUpdate_Achievements": "2023-06-10T07:03:11.1656168+00:00"
+  "LastUpdate_Ratings": "2023-06-10T07:59:10.5360116+00:00",
+  "LastUpdate_Achievements": "2023-06-10T08:03:45.757933+00:00"
 }

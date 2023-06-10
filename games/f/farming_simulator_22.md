@@ -6,14 +6,14 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~33,291 |
+| Own use | 76.00% | ~33,292 |
 | I read Shakespeare and stuff | 64.00% | ~28,035 |
 | Just a sprinkle | 63.00% | ~27,597 |
-| I'm stumped | 61.00% | ~26,720 |
-| Plant get enough | 61.00% | ~26,720 |
-| It's just the beginning | 59.00% | ~25,844 |
-| This is just my weekend vehicle | 58.00% | ~25,406 |
-| Hard work pays off | 53.00% | ~23,216 |
+| I'm stumped | 61.00% | ~26,721 |
+| Plant get enough | 61.00% | ~26,721 |
+| It's just the beginning | 59.00% | ~25,845 |
+| This is just my weekend vehicle | 58.00% | ~25,407 |
+| Hard work pays off | 53.00% | ~23,217 |
 | It's never too late to farm | 47.00% | ~20,588 |
 | All out of Land | 44.00% | ~19,274 |
 | Field Trip | 43.00% | ~18,836 |
@@ -30,8 +30,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | Well-Oiled Machine | 15.00% | ~6,571 |
 | That's a wrap | 14.00% | ~6,133 |
 | Fix me up | 13.00% | ~5,695 |
-| Rock on | 12.00% | ~5,256 |
-| It's sow easy | 11.00% | ~4,818 |
+| Rock on | 12.00% | ~5,257 |
+| It's sow easy | 11.00% | ~4,819 |
 | Highly cultivated | 10.00% | ~4,380 |
 | Giddy-up! | 10.00% | ~4,380 |
 | Cowherd | 7.00% | ~3,066 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~175 |
 | Raisin the stakes | 0.30% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,804 (Ranked 82)  
+Progressed: 43,805 (Ranked 82)  
 Completed: 5 (0.01%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 5 (0.01%) (Ranked 203)
 | 2023-06-07 | 43,669 | 5 |
 | 2023-06-08 | 43,729 | 5 |
 | 2023-06-09 | 43,787 | 5 |
-| 2023-06-10 | 43,804 | 5 |
+| 2023-06-10 | 43,805 | 5 |
 ## Awards
 Max (Great for Beginners): 4,338  (Ranked 70)  
 Sum: 37,045 (Ranked 31)  

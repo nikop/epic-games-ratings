@@ -412,9 +412,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 8113,
+  "EOS_Progressed": 8117,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -4107,6 +4107,11 @@
       "Time": "2023-06-10T07:02:28.8191444+00:00",
       "NumProgressed": 8113,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-06-10T08:03:28.9279743+00:00",
+      "NumProgressed": 8117,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 34,
@@ -4134,7 +4139,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACH04",
@@ -4166,7 +4171,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH08",
@@ -4174,7 +4179,7 @@
       "Name": "Pie Guy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH09",
@@ -4198,7 +4203,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ACH12",
@@ -4222,7 +4227,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3166
     },
     {
       "ID": "ACH15",
@@ -4244,9 +4249,9 @@
       "ID": "ACH17",
       "SetID": "9llo822",
       "Name": "Gun for Hire",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 568
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH18",
@@ -4262,7 +4267,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH20",
@@ -4278,7 +4283,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "ACH22",
@@ -4286,7 +4291,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACH23",
@@ -4294,7 +4299,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "ACH24",
@@ -4389,7 +4394,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8113,
+      "Progressed": 8117,
       "Completed": 27
     }
   ],
@@ -4397,8 +4402,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-08T22:58:57.8808892+00:00",
-  "LastChanged_Achievements": "2023-06-10T07:02:28.8191439+00:00",
+  "LastChanged_Achievements": "2023-06-10T08:03:28.9279736+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-10T06:58:02.5292966+00:00",
-  "LastUpdate_Achievements": "2023-06-10T07:02:28.8191926+00:00"
+  "LastUpdate_Ratings": "2023-06-10T07:59:00.3945101+00:00",
+  "LastUpdate_Achievements": "2023-06-10T08:03:28.9280402+00:00"
 }

@@ -19,7 +19,7 @@ Rating: 4.56 (Ranked 452)
 | Omnipotence | 19.00% | ~120 |
 | The Warlord | 19.00% | ~120 |
 | You are the One | 19.00% | ~120 |
-| Deadly Kombationem | 17.00% | ~107 |
+| Deadly Kombationem | 18.00% | ~113 |
 | The truth is out there | 14.00% | ~88 |
 | Annakin Skyscroller | 13.00% | ~82 |
 | In the smacker...I think | 10.00% | ~63 |

@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2498,
+  "EOS_Progressed": 2502,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3061,6 +3061,11 @@
       "Time": "2023-06-10T07:05:32.3167587+00:00",
       "NumProgressed": 2498,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-10T08:07:15.273059+00:00",
+      "NumProgressed": 2502,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3152,7 +3157,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 724
+      "UsersEstimate": 726
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3160,7 +3165,7 @@
       "Name": "Master of Pistols",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_21_MASTER_OF_SECONDARIES",
@@ -3168,7 +3173,7 @@
       "Name": "Master of Secondaries",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_22_MASTER_OF_RIFLES",
@@ -3176,7 +3181,7 @@
       "Name": "Master of Rifles",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_23_MASTER_AT_ARMS",
@@ -3184,7 +3189,7 @@
       "Name": "Master-at-arms",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_24_GUNSLINGER",
@@ -3352,7 +3357,7 @@
       "Name": "Burn after reading",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -3416,7 +3421,7 @@
       "Name": "Up close and personal",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -3472,7 +3477,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -3488,7 +3493,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -3536,7 +3541,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -3544,7 +3549,7 @@
       "Name": "Operation Foxley",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -3639,13 +3644,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2449,
+      "Progressed": 2453,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2498,
+      "Progressed": 2502,
       "Completed": 2
     }
   ],
@@ -3653,8 +3658,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-10T07:05:32.3167579+00:00",
+  "LastChanged_Achievements": "2023-06-10T08:07:15.2730586+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-10T06:59:58.1124809+00:00",
-  "LastUpdate_Achievements": "2023-06-10T07:05:32.3168487+00:00"
+  "LastUpdate_Ratings": "2023-06-10T08:01:51.0951474+00:00",
+  "LastUpdate_Achievements": "2023-06-10T08:07:15.2731806+00:00"
 }

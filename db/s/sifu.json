@@ -4524,9 +4524,9 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 708398,
+  "EOS_Progressed": 708405,
   "EOS_Completed": 12764,
-  "EOS_NewPlayers": 1378,
+  "EOS_NewPlayers": 1377,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9259,6 +9259,11 @@
       "Time": "2023-06-10T07:05:40.9867643+00:00",
       "NumProgressed": 708398,
       "NumCompleted": 12764
+    },
+    {
+      "Time": "2023-06-10T08:07:26.9610508+00:00",
+      "NumProgressed": 708405,
+      "NumCompleted": 12764
     }
   ],
   "TotalAchievements": 50,
@@ -9580,9 +9585,9 @@
       "ID": "40_CustomTrophy_H4",
       "SetID": "adcm20g",
       "Name": "Take damage to save time",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6376
+      "UsersEstimate": 7084
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -9669,21 +9674,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17699,
+      "Progressed": 17706,
       "Completed": 10248
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708398,
+      "Progressed": 708405,
       "Completed": 12764
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-10T02:09:24.8154113+00:00",
-  "LastChanged_Achievements": "2023-06-10T07:05:40.9867639+00:00",
+  "LastChanged_Achievements": "2023-06-10T08:07:26.9610504+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-10T06:58:40.9737626+00:00",
-  "LastUpdate_Achievements": "2023-06-10T07:05:40.9868382+00:00"
+  "LastUpdate_Ratings": "2023-06-10T07:59:57.206653+00:00",
+  "LastUpdate_Achievements": "2023-06-10T08:07:26.9611513+00:00"
 }

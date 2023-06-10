@@ -24,11 +24,11 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 44.00% | ~24 |
 | Team Building Exercise | 43.00% | ~23 |
 | Dwarf Fortress | 41.00% | ~22 |
-| Look but don't touch | 39.00% | ~21 |
+| Look but don't touch | 41.00% | ~22 |
 | Material Girl | 37.00% | ~20 |
+| Shiny and Crôm | 35.00% | ~19 |
 | The demons' feast | 35.00% | ~19 |
 | Gargantua | 35.00% | ~19 |
-| Shiny and Crôm | 33.00% | ~18 |
 | Torture and Sensibility | 33.00% | ~18 |
 | The Statuette of Gladeulfeurah | 31.00% | ~17 |
 | A tale of adventurers not quite like the others... | 31.00% | ~17 |

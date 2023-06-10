@@ -352,9 +352,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 933,
+  "EOS_Progressed": 934,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1232,6 +1232,11 @@
       "Time": "2023-06-09T21:05:35.3387749+00:00",
       "NumProgressed": 933,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T08:07:21.2045+00:00",
+      "NumProgressed": 934,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1299,7 +1304,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "EXPERT_1",
@@ -1321,7 +1326,7 @@
       "ID": "GHOSTBUSTER",
       "SetID": "bf13m8j",
       "Name": "Ghostbuster",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -1395,7 +1400,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -1403,7 +1408,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "PACIFIST",
@@ -1425,17 +1430,17 @@
       "ID": "PRIVATE_EYE",
       "SetID": "bf13m8j",
       "Name": "Not-so-private Eye",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 65
     },
     {
       "ID": "PROTECTION_RACKET",
       "SetID": "bf13m8j",
       "Name": "Protection racket",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 37
     },
     {
       "ID": "RELICTS",
@@ -1515,7 +1520,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "WISHMASTER_1",
@@ -1530,15 +1535,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 933,
+      "Progressed": 934,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-03T14:00:49.4692031+00:00",
-  "LastChanged_Achievements": "2023-06-10T07:05:36.8959574+00:00",
+  "LastChanged_Achievements": "2023-06-10T08:07:21.2044996+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:40.0771977+00:00",
-  "LastUpdate_Ratings": "2023-06-10T06:59:38.6461744+00:00",
-  "LastUpdate_Achievements": "2023-06-10T07:05:36.8959922+00:00"
+  "LastUpdate_Ratings": "2023-06-10T08:01:22.4476494+00:00",
+  "LastUpdate_Achievements": "2023-06-10T08:07:21.2045473+00:00"
 }
