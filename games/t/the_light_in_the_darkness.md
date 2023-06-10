@@ -9,7 +9,7 @@
 | Nazis in Paris | 25.00% | ~399 |
 | Building the Fox | 21.00% | ~335 |
 | Green Ticket Roundup | 18.00% | ~287 |
-| Arranging Boxes | 13.00% | ~207 |
+| Arranging Boxes | 14.00% | ~223 |
 | Jakob | 13.00% | ~207 |
 | Le Juif et la France | 13.00% | ~207 |
 | Bernard | 12.00% | ~191 |

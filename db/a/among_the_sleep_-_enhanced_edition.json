@@ -2,13 +2,13 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 764,
+  "Ranking_Rating": 765,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74266,
+  "EOS_Progressed": 74275,
   "EOS_Completed": 338,
-  "EOS_NewPlayers": 972,
+  "EOS_NewPlayers": 971,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -5708,6 +5708,11 @@
       "Time": "2023-06-10T19:06:48.370212+00:00",
       "NumProgressed": 74266,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2023-06-10T20:06:10.3928915+00:00",
+      "NumProgressed": 74275,
+      "NumCompleted": 338
     }
   ],
   "TotalAchievements": 10,
@@ -5719,7 +5724,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "Drawings01",
@@ -5775,7 +5780,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7427
+      "UsersEstimate": 7428
     },
     {
       "ID": "Level00BowlingStrike",
@@ -5783,7 +5788,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 26736
+      "UsersEstimate": 26739
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -5791,22 +5796,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8169
+      "UsersEstimate": 8170
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 74266,
+      "Progressed": 74275,
       "Completed": 338
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:06:48.3702115+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:06:10.392891+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.9895341+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:01:20.935485+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:06:48.370263+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:00:36.8605333+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:06:10.3929213+00:00"
 }

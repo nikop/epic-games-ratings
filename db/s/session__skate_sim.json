@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -682,7 +682,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2358,
+  "EOS_Progressed": 2360,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
@@ -2347,6 +2347,11 @@
       "Time": "2023-06-10T18:05:36.7061851+00:00",
       "NumProgressed": 2358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T20:06:11.1862186+00:00",
+      "NumProgressed": 2360,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2430,7 +2435,7 @@
       "Name": "Finally he zips it",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -2462,7 +2467,7 @@
       "Name": "Go with the Flow",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -2638,7 +2643,7 @@
       "Name": "That pinch!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -2662,7 +2667,7 @@
       "Name": "The finer things in life",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -2686,7 +2691,7 @@
       "Name": "Tight lipslides",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -2726,7 +2731,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -2734,22 +2739,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2358,
+      "Progressed": 2360,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-09T15:59:24.8887834+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:06:48.9470944+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:06:11.1862181+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:26.2561369+00:00",
-  "LastUpdate_Ratings": "2023-06-10T18:59:40.1556317+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:06:48.9471475+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:59:14.3932262+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:06:11.186256+00:00"
 }

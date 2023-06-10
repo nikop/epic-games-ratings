@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 841,
+  "Ranking_Rating": 842,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -534,10 +534,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 301,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-06-10T19:58:03.1175321+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 302,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 301,
+  "NumberOfAwards": 302,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -557,7 +563,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Amazing Characters",
@@ -584,9 +590,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14960,
+  "EOS_Progressed": 14964,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3444,6 +3450,11 @@
       "Time": "2023-06-10T19:04:42.7170796+00:00",
       "NumProgressed": 14960,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-10T20:04:23.4639157+00:00",
+      "NumProgressed": 14964,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3479,7 +3490,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "DISARM_ENEMY",
@@ -3487,7 +3498,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3575,7 +3586,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3583,7 +3594,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "KILL_ROBOT",
@@ -3615,7 +3626,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3623,7 +3634,7 @@
       "Name": "Reforged",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3687,7 +3698,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3711,7 +3722,7 @@
       "Name": "Power Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "DISMEMBER_100",
@@ -3727,7 +3738,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3735,7 +3746,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3774,22 +3785,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14960,
+      "Progressed": 14964,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2886,
+      "Progressed": 2890,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-09T13:57:54.3107791+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:04:42.7170791+00:00",
+  "LastChanged": "2023-06-10T19:58:03.117532+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:04:23.4639146+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-10T18:58:12.7968162+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:04:42.717133+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:58:03.1175324+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:04:23.4639541+00:00"
 }

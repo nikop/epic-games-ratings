@@ -3,9 +3,9 @@
   "Name": "Rise of the Third Power",
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 47,
+  "Ranking_EOS_Completed": 48,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -231,9 +231,9 @@
       "ID": "SideJob",
       "SetID": "4nce15l",
       "Name": "Side Job",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "Sparkly",
@@ -272,8 +272,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:06:42.6714234+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:06:05.5176937+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.4817304+00:00",
-  "LastUpdate_Ratings": "2023-06-10T18:59:34.7183816+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:06:42.6714417+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:59:09.4864557+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:06:05.5177053+00:00"
 }

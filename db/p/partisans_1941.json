@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -1236,9 +1236,9 @@
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 273
     },
     {
       "ID": "Scout",
@@ -1292,8 +1292,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:06:58.7599021+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:06:19.8219513+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-10T18:59:53.9421346+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:06:58.7599318+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:59:25.8532688+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:06:19.8219733+00:00"
 }

@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 452)  
+Rating: 4.56 (Ranked 453)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,7 +22,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 19.00% | ~1,169 |
 | The Lion of the Isonzo | 18.00% | ~1,108 |
 | Ragazzi del '99 | 17.00% | ~1,046 |
-| Thus With A Kiss | 14.00% | ~861 |
+| Thus With A Kiss | 14.00% | ~862 |
 | Dirty Dozen | 13.00% | ~800 |
 | Luigi Cadorna | 13.00% | ~800 |
 | Uomo Universale | 13.00% | ~800 |
@@ -31,7 +31,7 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 11.00% | ~677 |
 | The Devil's Paintbrush | 11.00% | ~677 |
 | Dante's Inferno | 10.00% | ~615 |
-| I Have the High Ground | 9.00% | ~554 |
+| I Have the High Ground | 10.00% | ~615 |
 | Millenial | 9.00% | ~554 |
 | The Show Must Go On | 8.00% | ~492 |
 | Tosca | 8.00% | ~492 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,153 (Ranked 124)  
+Progressed: 6,154 (Ranked 124)  
 Completed: 8 (0.13%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 8 (0.13%) (Ranked 160)
 | 2023-06-07 | 6,115 | 8 |
 | 2023-06-08 | 6,123 | 8 |
 | 2023-06-09 | 6,139 | 8 |
-| 2023-06-10 | 6,153 | 8 |
+| 2023-06-10 | 6,154 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 447)  
 Sum: 244 (Ranked 344)  

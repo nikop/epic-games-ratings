@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 94.00% | ~294 |
-| Challenge Accepted | 78.00% | ~244 |
-| Terminated I | 78.00% | ~244 |
-| Nanonic I | 74.00% | ~232 |
-| Unlocked and Loaded | 71.00% | ~222 |
-| Terminated II | 58.00% | ~182 |
-| The City | 41.00% | ~128 |
-| Terminated III | 34.00% | ~106 |
-| Challenge Mastered | 33.00% | ~103 |
-| Rookie | 33.00% | ~103 |
-| Nanonic II | 29.00% | ~91 |
-| Supply Run | 18.00% | ~56 |
-| Nanonic III | 17.00% | ~53 |
+| Augmented | 94.00% | ~298 |
+| Challenge Accepted | 78.00% | ~247 |
+| Terminated I | 78.00% | ~247 |
+| Nanonic I | 74.00% | ~235 |
+| Unlocked and Loaded | 71.00% | ~225 |
+| Terminated II | 59.00% | ~187 |
+| The City | 40.00% | ~127 |
+| Challenge Mastered | 34.00% | ~108 |
+| Terminated III | 33.00% | ~105 |
+| Rookie | 32.00% | ~101 |
+| Nanonic II | 29.00% | ~92 |
+| Supply Run | 18.00% | ~57 |
+| Nanonic III | 16.00% | ~51 |
 | Starship Docks | 14.00% | ~44 |
 | Cybernetic | 13.00% | ~41 |
 | Up Close And Personal | 13.00% | ~41 |
-| The Bigger They Are | 11.00% | ~34 |
-| Eden Heights | 9.00% | ~28 |
+| The Bigger They Are | 11.00% | ~35 |
+| Eden Heights | 9.00% | ~29 |
 | Outer Core | 6.00% | ~19 |
-| Inner Core | 4.00% | ~13 |
 | Trickshot | 4.00% | ~13 |
-| Fully Modded | 3.00% | ~9 |
-| Integration | 3.00% | ~9 |
+| Fully Modded | 3.00% | ~10 |
+| Inner Core | 3.00% | ~10 |
+| Integration | 3.00% | ~10 |
 | Ripperdoc | 2.00% | ~6 |
 | Destruction | 1.00% | ~3 |
 | Hard Boiled | 0.60% | ~2 |
 | Cyborg | 0.30% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 313 (Ranked 226)  
+Progressed: 317 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 185 | 0 |
 | 2023-06-08 | 231 | 0 |
 | 2023-06-09 | 281 | 0 |
-| 2023-06-10 | 313 | 0 |
+| 2023-06-10 | 317 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

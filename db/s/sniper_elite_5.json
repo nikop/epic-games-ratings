@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2556,
+  "EOS_Progressed": 2560,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3121,6 +3121,11 @@
       "Time": "2023-06-10T19:06:55.6683985+00:00",
       "NumProgressed": 2556,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-10T20:06:17.1161585+00:00",
+      "NumProgressed": 2560,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3140,7 +3145,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -3172,7 +3177,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3188,7 +3193,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3212,7 +3217,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3252,7 +3257,7 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3268,7 +3273,7 @@
       "Name": "Sharpshooter",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -3298,9 +3303,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 614
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3332,7 +3337,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3348,7 +3353,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -3356,7 +3361,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3364,7 +3369,7 @@
       "Name": "Der Geist",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -3388,7 +3393,7 @@
       "Name": "Close Quarters",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -3396,15 +3401,15 @@
       "Name": "Snake in the Grass",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -3508,7 +3513,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -3522,9 +3527,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 282
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3618,9 +3623,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -3699,13 +3704,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2507,
+      "Progressed": 2511,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2556,
+      "Progressed": 2560,
       "Completed": 2
     }
   ],
@@ -3713,8 +3718,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:06:55.668398+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:06:17.116158+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:01:28.3412033+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:06:55.6684902+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:00:43.4213848+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:06:17.1162274+00:00"
 }

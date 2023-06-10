@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 889)  
+Rating: 4.05 (Ranked 890)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,8 +15,8 @@ Rating: 4.05 (Ranked 889)
 | The game is on | 18.00% | ~245 |
 | Exotic Merchant | 17.00% | ~231 |
 | Dragon Clicker | 16.00% | ~217 |
+| Miner Clicker | 16.00% | ~217 |
 | Inspection | 15.00% | ~204 |
-| Miner Clicker | 15.00% | ~204 |
 | Full Party | 14.00% | ~190 |
 | Dragon Master | 13.00% | ~177 |
 | Enlightenment | 13.00% | ~177 |

@@ -14,15 +14,15 @@
 | Cornivore | 32.00% | ~33 |
 | No Asperascope | 31.00% | ~32 |
 | I Believe I Can Fly | 29.00% | ~30 |
-| Amateur Survivor | 26.00% | ~14 |
+| Amateur Survivor | 27.00% | ~15 |
 | Bouncemato | 23.00% | ~12 |
 | This Is My Boomstick | 22.00% | ~12 |
 | Quick-Draw Pod | 19.00% | ~10 |
-| 10K | 17.00% | ~18 |
+| 10K | 18.00% | ~19 |
+| 15K | 17.00% | ~18 |
 | Professional Survivor | 17.00% | ~9 |
-| 15K | 16.00% | ~17 |
 | Grave Digger | 16.00% | ~9 |
-| Drinking Problem | 13.00% | ~14 |
+| Drinking Problem | 14.00% | ~15 |
 | Oh My Gourd | 11.00% | ~6 |
 | Summers Here | 11.00% | ~6 |
 | Skin Of Your Teeth | 9.00% | ~9 |

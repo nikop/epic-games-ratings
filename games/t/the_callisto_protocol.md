@@ -1,16 +1,16 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 841)  
+Rating: 4.18 (Ranked 842)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,094 |
+| Flesh Wound | 14.00% | ~2,095 |
 | The Outer Way | 13.00% | ~1,945 |
-| Desperate Times | 12.00% | ~1,795 |
+| Desperate Times | 12.00% | ~1,796 |
 | Paper Jams | 10.00% | ~1,496 |
-| Chew 'Em Up | 9.00% | ~1,346 |
-| Reforged | 9.00% | ~1,346 |
+| Chew 'Em Up | 9.00% | ~1,347 |
+| Reforged | 9.00% | ~1,347 |
 | Workplace Hazard | 8.00% | ~1,197 |
 | If the SHU Fits... | 8.00% | ~1,197 |
 | Giving Back | 7.00% | ~1,047 |
@@ -19,12 +19,12 @@ Rating: 4.18 (Ranked 841)
 | Terminated | 5.00% | ~748 |
 | In the Pipe, Five by Five | 5.00% | ~748 |
 | Crash Site | 5.00% | ~748 |
-| You Need a Gun | 4.00% | ~598 |
-| Two Heads Are Better Than One | 4.00% | ~598 |
-| Float Like A Butterfly | 4.00% | ~598 |
-| Power Up | 4.00% | ~598 |
-| Instigator | 4.00% | ~115 |
-| Big Game Hunter | 4.00% | ~115 |
+| You Need a Gun | 4.00% | ~599 |
+| Two Heads Are Better Than One | 4.00% | ~599 |
+| Float Like A Butterfly | 4.00% | ~599 |
+| Power Up | 4.00% | ~599 |
+| Instigator | 4.00% | ~116 |
+| Big Game Hunter | 4.00% | ~116 |
 | The Commonality | 3.00% | ~449 |
 | What Lies Beneath | 3.00% | ~449 |
 | Full Circle | 3.00% | ~449 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 841)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,960 (Ranked 104)  
+Progressed: 14,964 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,16 +96,16 @@ Completed: 54 (0.36%) (Ranked 122)
 | 2023-06-07 | 14,702 | 54 |
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
-| 2023-06-10 | 14,960 | 54 |
+| 2023-06-10 | 14,964 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
-Sum: 301 (Ranked 328)  
+Sum: 302 (Ranked 328)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 52 |
 | This game is Highly Recommended | 51 |
-| This game has Quickly Understood Controls | 50 |
+| This game has Quickly Understood Controls | 51 |
 | This game has Amazing Characters | 47 |
 | This game is Extremely Fun | 45 |
 | This game has Challenging Combat | 36 |
@@ -174,3 +174,4 @@ Diff (max vs sum): 58
 | 2023-06-07 | 4.18 | 51 | 295 |
 | 2023-06-08 | 4.18 | 52 | 297 |
 | 2023-06-09 | 4.18 | 52 | 301 |
+| 2023-06-10 | 4.18 | 52 | 302 |

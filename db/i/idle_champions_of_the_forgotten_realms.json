@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 888,
+  "Ranking_Rating": 889,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4216,9 +4216,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90353,
+  "EOS_Progressed": 90358,
   "EOS_Completed": 1926,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9451,6 +9451,11 @@
       "Time": "2023-06-10T19:07:17.2460404+00:00",
       "NumProgressed": 90353,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-06-10T20:06:38.2285929+00:00",
+      "NumProgressed": 90358,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 493,
@@ -11326,7 +11331,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "objective_completed_40",
@@ -12700,9 +12705,9 @@
       "ID": "objective_completed_803",
       "SetID": "415jc5c",
       "Name": "An Awakened Axe",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_804",
@@ -13405,21 +13410,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56627,
+      "Progressed": 56632,
       "Completed": 2783
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90353,
+      "Progressed": 90358,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-10T16:58:16.081853+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:07:17.2460398+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:06:38.2285924+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-10T18:58:24.7806482+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:07:17.2510136+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:58:13.3026988+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:06:38.2308157+00:00"
 }

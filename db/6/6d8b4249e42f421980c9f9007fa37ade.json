@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -221,9 +221,9 @@
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Epic_ChainSaw_1",
@@ -596,8 +596,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:01:38.2096469+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:00:53.193323+00:00",
   "LastUpdate_AppInfo": "2023-06-08T03:57:14.5111987+00:00",
-  "LastUpdate_Ratings": "2023-06-10T18:57:02.9148957+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:01:38.2097293+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:57:02.4186603+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:00:53.1934264+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Clothes Hunter | 50.00% | ~4 |
+| I See Dead People | 50.00% | ~4 |
 | Con Artist | 38.00% | ~3 |
-| I See Dead People | 38.00% | ~3 |
 | Bedtime Storyteller | 38.00% | ~3 |
 | I Ain't Afraid of No Ghost | 38.00% | ~3 |
 | Exorcist | 38.00% | ~3 |

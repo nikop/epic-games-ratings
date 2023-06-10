@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.30 (Ranked 764)  
+Rating: 4.30 (Ranked 765)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,7 +12,7 @@ Rating: 4.30 (Ranked 764)
 | I am the law! | 59.00% | ~641 |
 | Lumberjack | 46.00% | ~500 |
 | Croaked | 41.00% | ~446 |
-| Limp Richard | 40.00% | ~435 |
+| Limp Richard | 41.00% | ~446 |
 | From Darkness to Light | 40.00% | ~435 |
 | Editor Adept | 38.00% | ~413 |
 | Exorcist | 38.00% | ~413 |
@@ -20,8 +20,8 @@ Rating: 4.30 (Ranked 764)
 | Giant Killer | 35.00% | ~380 |
 | Sensei | 33.00% | ~359 |
 | The meaning of Kain | 32.00% | ~348 |
-| Technophobe | 29.00% | ~315 |
-| Recycler | 27.00% | ~293 |
+| Technophobe | 30.00% | ~326 |
+| Recycler | 28.00% | ~304 |
 | Are you not entertained? | 23.00% | ~250 |
 | Ganglord | 23.00% | ~250 |
 | Jarhead | 23.00% | ~250 |

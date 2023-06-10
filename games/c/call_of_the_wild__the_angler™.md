@@ -1,19 +1,19 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.13 (Ranked 869)  
+Rating: 4.13 (Ranked 870)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 75.00% | ~3,176 |
-| Hey Good Hookin | 64.00% | ~2,710 |
-| I'm on a Boat! | 55.00% | ~2,329 |
-| Can you smell what the Rod is Hooking | 49.00% | ~2,075 |
+| Fish Just Got Reel | 75.00% | ~3,177 |
+| Hey Good Hookin | 64.00% | ~2,711 |
+| I'm on a Boat! | 55.00% | ~2,330 |
+| Can you smell what the Rod is Hooking | 49.00% | ~2,076 |
 | Scaling up | 48.00% | ~2,033 |
 | Ready to Rod and Roll | 40.00% | ~1,694 |
 | More Fish in the Sea | 40.00% | ~1,694 |
-| License to Gill | 32.00% | ~1,355 |
+| License to Gill | 32.00% | ~1,356 |
 | Fish Out of Water | 31.00% | ~1,313 |
 | Things that go Splash in the Night | 26.00% | ~1,101 |
 | Goldfish? | 26.00% | ~1,101 |
@@ -21,8 +21,8 @@ Number of Ratings: 281  (23.09.2022)
 | I'm Hooked! | 17.00% | ~720 |
 | More than a Tourist | 12.00% | ~508 |
 | Diamond in the Rough | 12.00% | ~508 |
-| Hook, Line and Sinker | 7.00% | ~296 |
-| Marathon | 7.00% | ~296 |
+| Hook, Line and Sinker | 7.00% | ~297 |
+| Marathon | 7.00% | ~297 |
 | Big Fish Small Pond | 6.00% | ~254 |
 | I'm the Captain Now | 5.00% | ~212 |
 | School's Out for Summer | 4.00% | ~169 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,235 (Ranked 132)  
+Progressed: 4,236 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 4,154 | 0 |
 | 2023-06-08 | 4,183 | 0 |
 | 2023-06-09 | 4,207 | 0 |
-| 2023-06-10 | 4,235 | 0 |
+| 2023-06-10 | 4,236 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 441)  
 Sum: 158 (Ranked 379)  

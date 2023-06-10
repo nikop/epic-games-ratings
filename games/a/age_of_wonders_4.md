@@ -1,48 +1,48 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.56 (Ranked 452)  
+Rating: 4.57 (Ranked 444)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 78.00% | ~3,522 |
-| Realm Estate | 75.00% | ~3,387 |
-| Secret Technique | 75.00% | ~3,387 |
-| Walls Cannot Stop Us | 73.00% | ~3,297 |
-| From Friends to Family | 69.00% | ~3,116 |
-| Magical Synergy | 65.00% | ~2,935 |
-| Bone Peddler | 61.00% | ~2,755 |
-| Stronger Together | 56.00% | ~2,529 |
-| Full Ascension | 54.00% | ~2,439 |
-| There Can Only Be One! | 48.00% | ~2,168 |
-| Seat of Power | 48.00% | ~2,168 |
-| Intimidation Tactics | 45.00% | ~2,032 |
-| My Final Form | 44.00% | ~1,987 |
-| Valley of Wonders | 42.00% | ~1,897 |
-| In a Liege of Your Own | 38.00% | ~1,716 |
-| Return of the Wizard King | 31.00% | ~1,400 |
-| Digging for Treasure | 31.00% | ~1,400 |
-| Against the Odds | 31.00% | ~1,400 |
-| Enchanted Archipelago | 28.00% | ~1,264 |
-| Impenetrable Fortress | 27.00% | ~1,219 |
-| The Magic That Empowers Me! | 20.00% | ~903 |
-| Preparation Is Everything | 20.00% | ~903 |
-| Arch Mage | 19.00% | ~858 |
-| God Emperor | 18.00% | ~813 |
-| Eternal Lord | 17.00% | ~768 |
-| Crimson Caldera | 17.00% | ~768 |
-| Fiery Friend | 15.00% | ~677 |
-| Lord of Chaos | 14.00% | ~632 |
-| The Creator | 14.00% | ~632 |
-| The Goddess of Nature | 14.00% | ~632 |
+| A Wonderful Discovery | 78.00% | ~3,526 |
+| Realm Estate | 75.00% | ~3,391 |
+| Secret Technique | 75.00% | ~3,391 |
+| Walls Cannot Stop Us | 73.00% | ~3,300 |
+| From Friends to Family | 69.00% | ~3,119 |
+| Magical Synergy | 65.00% | ~2,939 |
+| Bone Peddler | 61.00% | ~2,758 |
+| Stronger Together | 56.00% | ~2,532 |
+| Full Ascension | 54.00% | ~2,441 |
+| There Can Only Be One! | 48.00% | ~2,170 |
+| Seat of Power | 48.00% | ~2,170 |
+| Intimidation Tactics | 45.00% | ~2,034 |
+| My Final Form | 44.00% | ~1,989 |
+| Valley of Wonders | 42.00% | ~1,899 |
+| In a Liege of Your Own | 38.00% | ~1,718 |
+| Return of the Wizard King | 31.00% | ~1,402 |
+| Digging for Treasure | 31.00% | ~1,402 |
+| Against the Odds | 31.00% | ~1,402 |
+| Enchanted Archipelago | 28.00% | ~1,266 |
+| Impenetrable Fortress | 27.00% | ~1,221 |
+| The Magic That Empowers Me! | 20.00% | ~904 |
+| Preparation Is Everything | 20.00% | ~904 |
+| Arch Mage | 19.00% | ~859 |
+| God Emperor | 18.00% | ~814 |
+| Eternal Lord | 17.00% | ~769 |
+| Crimson Caldera | 17.00% | ~769 |
+| Fiery Friend | 15.00% | ~678 |
+| Lord of Chaos | 14.00% | ~633 |
+| The Creator | 14.00% | ~633 |
+| The Goddess of Nature | 14.00% | ~633 |
 | The Eternal Court | 10.00% | ~452 |
-| Jack of All Tomes | 9.00% | ~406 |
-| Pruning for Progress | 9.00% | ~406 |
+| Jack of All Tomes | 9.00% | ~407 |
+| Pruning for Progress | 9.00% | ~407 |
 | I've Got Everything I Need Right Here | 7.00% | ~316 |
 | Betrayal Most Foul | 5.00% | ~226 |
 | Grexolis | 4.00% | ~181 |
 | One for All, All for One | 4.00% | ~181 |
-| Snap Out of It! | 3.00% | ~135 |
+| Snap Out of It! | 3.00% | ~136 |
 | I Want to Break Free | 2.00% | ~90 |
 | Manufactured War | 2.00% | ~90 |
 | I'll Fight You All | 1.00% | ~45 |
@@ -50,7 +50,7 @@ Rating: 4.56 (Ranked 452)
 | Returning Circle | 0.40% | ~18 |
 | Master of Evilness | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,516 (Ranked 129)  
+Progressed: 4,521 (Ranked 129)  
 Completed: 1 (0.02%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.02%) (Ranked 196)
 | 2023-06-07 | 4,407 | 0 |
 | 2023-06-08 | 4,428 | 0 |
 | 2023-06-09 | 4,476 | 0 |
-| 2023-06-10 | 4,516 | 1 |
+| 2023-06-10 | 4,521 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -117,3 +117,4 @@ Completed: 1 (0.02%) (Ranked 196)
 | 2023-06-07 | 4.54 | 0 | 0 |
 | 2023-06-08 | 4.55 | 0 | 0 |
 | 2023-06-09 | 4.56 | 0 | 0 |
+| 2023-06-10 | 4.57 | 0 | 0 |

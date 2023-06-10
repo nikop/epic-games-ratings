@@ -2,13 +2,13 @@
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
-  "Ranking_Rating": 922,
+  "Ranking_Rating": 923,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 88,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.12,
+  "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -309,6 +309,11 @@
       "Time": "2023-06-10T18:05:47.5362582+00:00",
       "NumProgressed": 448,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-10T20:06:23.4508267+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -344,15 +349,15 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Doors_Closing",
       "SetID": "ek310c",
       "Name": "Mind the Gap",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 54
     },
     {
       "ID": "Echoes",
@@ -551,7 +556,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 5
     }
   ],
@@ -559,8 +564,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:07:02.6517195+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:06:23.4508258+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:06.3393279+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:01:29.1094454+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:07:02.6517433+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:00:44.0447912+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:06:23.450843+00:00"
 }

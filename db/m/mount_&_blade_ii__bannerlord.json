@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4737,7 +4737,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 52762,
+  "EOS_Progressed": 52765,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 0,
@@ -9887,6 +9887,11 @@
       "Time": "2023-06-10T19:07:08.5228883+00:00",
       "NumProgressed": 52762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T20:06:28.7237569+00:00",
+      "NumProgressed": 52765,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -9914,7 +9919,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11080
+      "UsersEstimate": 11081
     },
     {
       "ID": "Best served cold",
@@ -9938,7 +9943,7 @@
       "Name": "Butterlord",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "Catch",
@@ -9954,7 +9959,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "Crackshot",
@@ -9970,7 +9975,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "Duelist",
@@ -10026,7 +10031,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6331
+      "UsersEstimate": 6332
     },
     {
       "ID": "Great Granny",
@@ -10058,7 +10063,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11080
+      "UsersEstimate": 11081
     },
     {
       "ID": "I can do it",
@@ -10122,7 +10127,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15829
+      "UsersEstimate": 15830
     },
     {
       "ID": "Lawbringer",
@@ -10130,7 +10135,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 18994
+      "UsersEstimate": 18995
     },
     {
       "ID": "Lawmaker",
@@ -10138,7 +10143,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11080
+      "UsersEstimate": 11081
     },
     {
       "ID": "Long live the Empire",
@@ -10178,7 +10183,7 @@
       "Name": "My way",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "Real Estate",
@@ -10258,7 +10263,7 @@
       "Name": "This Is Our Land",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "This is Sparta",
@@ -10274,7 +10279,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10552
+      "UsersEstimate": 10553
     },
     {
       "ID": "Undercover",
@@ -10290,7 +10295,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -10305,15 +10310,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 52762,
+      "Progressed": 52765,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-10T19:00:28.7639685+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:07:08.5228876+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:06:28.7237563+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.7638499+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:00:28.7639691+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:07:08.5230223+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:59:53.1672169+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:06:28.7238215+00:00"
 }

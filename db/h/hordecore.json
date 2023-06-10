@@ -4,8 +4,8 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
     "PcReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 336,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.99,
+  "EOS_Completed_Percentage": 2.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.4754336+00:00",
@@ -86,6 +86,11 @@
       "Time": "2023-05-28T14:07:24.5587685+00:00",
       "NumProgressed": 335,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-10T20:06:23.2202326+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 28,
@@ -97,7 +102,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "10",
@@ -113,7 +118,7 @@
       "Name": "Getting the Hang Of This",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "12",
@@ -185,7 +190,7 @@
       "Name": "Decision Maker",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "20",
@@ -209,7 +214,7 @@
       "Name": "Poker-Man",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "23",
@@ -265,7 +270,7 @@
       "Name": "Sneaky Sneak",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "4",
@@ -281,7 +286,7 @@
       "Name": "DIY",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "6",
@@ -297,7 +302,7 @@
       "Name": "Blow \u2018Em Up",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "8",
@@ -320,7 +325,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 336,
       "Completed": 10
     }
   ],
@@ -328,8 +333,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:07:02.3817324+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:06:23.2202322+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:23.2303077+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:00:43.373118+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:07:02.3817531+00:00"
+  "LastUpdate_Ratings": "2023-06-10T20:00:05.5090174+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:06:23.2202484+00:00"
 }

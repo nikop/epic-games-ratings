@@ -17,7 +17,7 @@
 | 1.5 Million | 23.00% | ~28 |
 | Bit Blaster V3 | 20.00% | ~24 |
 | Bit Blaster V4 | 15.00% | ~18 |
-| Bit Blaster V5 | 9.00% | ~11 |
+| Bit Blaster V5 | 10.00% | ~12 |
 | Bit Blaster V6 | 8.00% | ~10 |
 | Bit Blaster V7 | 6.00% | ~7 |
 | Bit Blaster V8 | 4.00% | ~5 |

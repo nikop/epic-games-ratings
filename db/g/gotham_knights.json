@@ -2,12 +2,12 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 841,
+  "Ranking_Rating": 842,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1460,9 +1460,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64437,
+  "EOS_Progressed": 64444,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 1002,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5805,6 +5805,11 @@
       "Time": "2023-06-10T19:07:09.4358492+00:00",
       "NumProgressed": 64437,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-10T20:06:29.3228954+00:00",
+      "NumProgressed": 64444,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6000,7 +6005,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -6030,9 +6035,9 @@
       "ID": "DEFEAT_OC_3",
       "SetID": "4eo5ebm",
       "Name": "Drone You Out",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 580
     },
     {
       "ID": "FREEZE_1",
@@ -6280,7 +6285,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -6303,13 +6308,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64437,
+      "Progressed": 64444,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34717,
+      "Progressed": 34724,
       "Completed": 2646
     }
   ],
@@ -6317,8 +6322,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-10T17:59:34.37158+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:07:09.4358484+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:06:29.3228949+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:00:30.6245007+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:07:09.4359399+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:59:54.7156921+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:06:29.3229607+00:00"
 }

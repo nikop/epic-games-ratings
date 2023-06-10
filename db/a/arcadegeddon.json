@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -3948,9 +3948,9 @@
       "ID": "ACH_COUP_DETAT",
       "SetID": "97mcd7i",
       "Name": "Coup d\u0027Etat",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4230
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -4324,8 +4324,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-26T11:57:59.7944238+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:04:02.9983471+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:03:50.3969167+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:38.4243276+00:00",
-  "LastUpdate_Ratings": "2023-06-10T18:58:49.0791431+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:04:02.9984165+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:58:32.897106+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:03:50.396967+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -661,9 +661,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 31071,
+  "EOS_Progressed": 31073,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5646,6 +5646,11 @@
       "Time": "2023-06-10T19:01:56.0711818+00:00",
       "NumProgressed": 31071,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-10T20:01:09.0035989+00:00",
+      "NumProgressed": 31073,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -5729,7 +5734,7 @@
       "Name": "Stone\u0027s Curse",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ach_cursestorm",
@@ -6088,15 +6093,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 31071,
+      "Progressed": 31073,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-05T06:59:36.6337587+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:01:56.0711813+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:01:09.0035983+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:03.1062336+00:00",
-  "LastUpdate_Ratings": "2023-06-10T19:00:21.1000755+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:01:56.0712731+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:59:46.7804956+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:01:09.0036606+00:00"
 }

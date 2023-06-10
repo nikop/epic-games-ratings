@@ -5,30 +5,30 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~741 |
-| Confirming Suspicions | 23.00% | ~588 |
+| Meeting Resistance | 29.00% | ~742 |
+| Confirming Suspicions | 24.00% | ~614 |
 | The Kraken Wakes | 19.00% | ~486 |
 | It's Starting to Crack | 17.00% | ~435 |
 | Lord of War | 14.00% | ~358 |
 | Change the Channel | 14.00% | ~358 |
-| Resourceful | 13.00% | ~332 |
+| Resourceful | 13.00% | ~333 |
 | Taking it back | 12.00% | ~307 |
+| Target America | 11.00% | ~282 |
 | Organ Grinder | 10.00% | ~256 |
 | As Quiet as a Mouse | 10.00% | ~256 |
-| Target America | 10.00% | ~256 |
 | The Kraken Sleeps | 9.00% | ~230 |
-| Liberté | 8.00% | ~204 |
-| Enemy at the Gates | 8.00% | ~204 |
-| Just a Flesh Wound | 8.00% | ~204 |
-| Gunslinger | 8.00% | ~204 |
-| Sharpshooter | 8.00% | ~204 |
-| Explosive Efficiency | 8.00% | ~204 |
+| Liberté | 8.00% | ~205 |
+| Enemy at the Gates | 8.00% | ~205 |
+| Just a Flesh Wound | 8.00% | ~205 |
+| Gunslinger | 8.00% | ~205 |
+| Sharpshooter | 8.00% | ~205 |
+| Explosive Efficiency | 8.00% | ~205 |
 | Opposing Force | 7.00% | ~179 |
-| Die Nussknacker Sweet! | 6.00% | ~153 |
-| Der Geist | 6.00% | ~153 |
-| Close Quarters | 6.00% | ~153 |
-| Snake in the Grass | 6.00% | ~153 |
-| Brains of the Operation | 6.00% | ~153 |
+| Die Nussknacker Sweet! | 6.00% | ~154 |
+| Der Geist | 6.00% | ~154 |
+| Close Quarters | 6.00% | ~154 |
+| Snake in the Grass | 6.00% | ~154 |
+| Brains of the Operation | 6.00% | ~154 |
 | Climbing the Ladder | 5.00% | ~128 |
 | No Stone Unturned | 5.00% | ~128 |
 | Fields of Glory | 5.00% | ~128 |
@@ -47,11 +47,11 @@ Rating: 4.51 (Ranked 528)
 | Herr Today, Gone Tomorrow | 1.00% | ~25 |
 | Operation Foxley | 1.00% | ~25 |
 | Ghost of Falaise | 0.90% | ~23 |
+| Last Resort | 0.80% | ~20 |
 | Siegebreaker | 0.80% | ~20 |
 | Burn after reading | 0.70% | ~18 |
-| Last Resort | 0.70% | ~18 |
+| From Paris with Love | 0.60% | ~15 |
 | Souvenir hunter | 0.60% | ~15 |
-| From Paris with Love | 0.50% | ~13 |
 | Up close and personal | 0.50% | ~13 |
 | Shoot for the Moon | 0.50% | ~13 |
 | If You Go Down To The Woods Today | 0.50% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,556 (Ranked 147)  
+Progressed: 2,560 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
-| 2023-06-10 | 2,556 | 2 |
+| 2023-06-10 | 2,560 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

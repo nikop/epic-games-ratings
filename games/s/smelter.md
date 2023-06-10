@@ -19,13 +19,14 @@
 | A New Strategy | 19.00% | ~7 |
 | Final Announcement | 17.00% | ~6 |
 | My Precious Gems! | 14.00% | ~5 |
+| Case Closed | 14.00% | ~5 |
 | Isn't It Beautiful? | 14.00% | ~5 |
 | A Generous Leader | 14.00% | ~5 |
 | An Unexpected Visitor | 14.00% | ~5 |
 | A Terrible Way to Go | 14.00% | ~5 |
 | Dr. Dreinstein III | 11.00% | ~4 |
 | Orcharion Boost | 11.00% | ~4 |
-| Case Closed | 11.00% | ~4 |
+| Fishing for Fissures | 11.00% | ~4 |
 | All Beefed Up | 11.00% | ~4 |
 | How Do You Like Them Apples? | 11.00% | ~4 |
 | Gotta Collect Them All | 8.00% | ~3 |
@@ -35,7 +36,6 @@
 | Scour the Eremagu Domain | 8.00% | ~3 |
 | An Electrifying Personality | 8.00% | ~3 |
 | Back for More? | 8.00% | ~3 |
-| Fishing for Fissures | 8.00% | ~3 |
 | You did it? You did it! | 8.00% | ~3 |
 | Gurabi Trial Extraordinaire | 8.00% | ~3 |
 | Scour the Gurabi Domain | 8.00% | ~3 |

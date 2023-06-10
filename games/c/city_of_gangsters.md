@@ -1,28 +1,28 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.25 (Ranked 794)  
+Rating: 4.25 (Ranked 795)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~147,656 |
-| Copacetic Coordination | 16.00% | ~51,359 |
-| Fronting the Money | 14.00% | ~44,939 |
-| The Dawn of Automation | 14.00% | ~44,939 |
-| Extraordinary Logistics | 14.00% | ~44,939 |
-| Dirty Money | 13.00% | ~41,729 |
-| Family First | 13.00% | ~41,729 |
-| Cleaning House | 12.00% | ~38,519 |
-| Room in the Back | 12.00% | ~38,519 |
-| Booze Baron | 11.00% | ~35,309 |
-| Beating the Heat | 10.00% | ~32,099 |
-| Friends on the Force | 10.00% | ~32,099 |
-| Neighborhood Watch | 10.00% | ~32,099 |
-| Core Corps | 8.00% | ~25,679 |
-| Sizeable Stash | 7.00% | ~22,469 |
-| Street Fighter | 7.00% | ~22,469 |
-| Friendly Gestures | 7.00% | ~22,469 |
-| People Person | 7.00% | ~22,469 |
+| Corner Clout | 46.00% | ~147,663 |
+| Copacetic Coordination | 16.00% | ~51,361 |
+| Fronting the Money | 14.00% | ~44,941 |
+| The Dawn of Automation | 14.00% | ~44,941 |
+| Extraordinary Logistics | 14.00% | ~44,941 |
+| Dirty Money | 13.00% | ~41,731 |
+| Family First | 13.00% | ~41,731 |
+| Cleaning House | 12.00% | ~38,521 |
+| Room in the Back | 12.00% | ~38,521 |
+| Booze Baron | 11.00% | ~35,311 |
+| Beating the Heat | 10.00% | ~32,101 |
+| Friends on the Force | 10.00% | ~32,101 |
+| Neighborhood Watch | 10.00% | ~32,101 |
+| Core Corps | 8.00% | ~25,680 |
+| Sizeable Stash | 7.00% | ~22,470 |
+| Street Fighter | 7.00% | ~22,470 |
+| Friendly Gestures | 7.00% | ~22,470 |
+| People Person | 7.00% | ~22,470 |
 | Liquor Lord | 6.00% | ~19,260 |
 | Show ‘em the Sugar | 6.00% | ~19,260 |
 | Street Knowledge | 5.00% | ~16,050 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 794)
 | High Pillow | 0.10% | ~321 |
 | Station Master | 0.10% | ~321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320,992 (Ranked 40)  
+Progressed: 321,006 (Ranked 40)  
 Completed: 4 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 4 (0.00%) (Ranked 214)
 | 2023-06-07 | 320,086 | 4 |
 | 2023-06-08 | 320,378 | 4 |
 | 2023-06-09 | 320,715 | 4 |
-| 2023-06-10 | 320,992 | 4 |
+| 2023-06-10 | 321,006 | 4 |
 ## Awards
 Max (Highly Recommended): 25  (Ranked 466)  
 Sum: 91 (Ranked 407)  

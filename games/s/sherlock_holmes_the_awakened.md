@@ -15,9 +15,9 @@
 | The New World | 44.00% | ~186 |
 | Gaze Into The Abyss | 42.00% | ~178 |
 | Open Sesame | 42.00% | ~178 |
-| Sticky Fingers | 41.00% | ~173 |
+| Sticky Fingers | 42.00% | ~178 |
+| Back In The Saddle | 41.00% | ~173 |
 | Knives Out | 41.00% | ~173 |
-| Back In The Saddle | 40.00% | ~169 |
 | Land, Ho! | 40.00% | ~169 |
 | No Man Is An Island | 39.00% | ~165 |
 | At Wits' End | 38.00% | ~161 |
@@ -33,7 +33,7 @@
 | Big Breakthrough | 15.00% | ~63 |
 | Reawakened | 5.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423 (Ranked 208)  
+Progressed: 423 (Ranked 209)  
 Completed: 16 (3.78%) (Ranked 41)  
 ## EOS Players History
 | Date | Progressed | Completed |

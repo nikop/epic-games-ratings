@@ -4,8 +4,8 @@
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -94,9 +94,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "1ejicho",
       "Name": "I See Dead People",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -164,8 +164,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-06-10T19:03:20.3752113+00:00",
+  "LastChanged_Achievements": "2023-06-10T20:03:13.7366819+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:29.2823456+00:00",
-  "LastUpdate_Ratings": "2023-06-10T18:59:43.3322245+00:00",
-  "LastUpdate_Achievements": "2023-06-10T19:03:20.3752226+00:00"
+  "LastUpdate_Ratings": "2023-06-10T19:59:17.0523033+00:00",
+  "LastUpdate_Achievements": "2023-06-10T20:03:13.7366897+00:00"
 }
