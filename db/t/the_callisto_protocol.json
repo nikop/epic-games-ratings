@@ -590,9 +590,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14975,
+  "EOS_Progressed": 14980,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3460,6 +3460,11 @@
       "Time": "2023-06-10T21:04:09.101686+00:00",
       "NumProgressed": 14975,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-10T22:04:04.8159395+00:00",
+      "NumProgressed": 14980,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3487,7 +3492,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3503,7 +3508,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3575,7 +3580,7 @@
       "Name": "Get a Grip",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3679,7 +3684,7 @@
       "Name": "Without A Paddle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "STORY_HANGAR",
@@ -3703,7 +3708,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3790,13 +3795,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14975,
+      "Progressed": 14980,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2901,
+      "Progressed": 2906,
       "Completed": 29
     }
   ],
@@ -3804,8 +3809,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-10T19:58:03.117532+00:00",
-  "LastChanged_Achievements": "2023-06-10T21:04:09.1016855+00:00",
+  "LastChanged_Achievements": "2023-06-10T22:04:04.815939+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-10T20:57:55.9225413+00:00",
-  "LastUpdate_Achievements": "2023-06-10T21:04:09.1017248+00:00"
+  "LastUpdate_Ratings": "2023-06-10T21:57:49.6589846+00:00",
+  "LastUpdate_Achievements": "2023-06-10T22:04:04.8159772+00:00"
 }

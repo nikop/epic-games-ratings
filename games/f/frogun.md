@@ -9,7 +9,7 @@
 | Survivalist | 83.00% | ~168 |
 | Challenge seeker | 79.00% | ~160 |
 | Coin collector | 73.00% | ~147 |
-| Floater | 57.00% | ~115 |
+| Floater | 58.00% | ~117 |
 | Speedrunner | 44.00% | ~89 |
 | On foot racer | 39.00% | ~79 |
 | Prickly situation handler | 33.00% | ~67 |

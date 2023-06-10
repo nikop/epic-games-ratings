@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,898 |
-| Biggest Communism Builder | 24.00% | ~29,056 |
-| The World's Most Laughable Centrist | 20.00% | ~24,213 |
-| Il Coppo Del'Arte! | 18.00% | ~21,792 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,370 |
-| Hyperstellar Law Official | 15.00% | ~18,160 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~16,949 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,738 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,738 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,317 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,896 |
-| Unbelievably Boring **** | 8.00% | ~9,685 |
-| Enemy Of The Physical Realm | 8.00% | ~9,685 |
-| Hardie's Heroes | 5.00% | ~6,053 |
+| Goodest Of The Good Cops | 28.00% | ~33,900 |
+| Biggest Communism Builder | 24.00% | ~29,058 |
+| The World's Most Laughable Centrist | 20.00% | ~24,215 |
+| Il Coppo Del'Arte! | 18.00% | ~21,793 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,372 |
+| Hyperstellar Law Official | 15.00% | ~18,161 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~16,950 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,739 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,739 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,318 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,897 |
+| Unbelievably Boring **** | 8.00% | ~9,686 |
+| Enemy Of The Physical Realm | 8.00% | ~9,686 |
+| Hardie's Heroes | 5.00% | ~6,054 |
 | The Lawbringer | 4.00% | ~4,843 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,843 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,632 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Baddest Brow in Town | 0.80% | ~969 |
 | Committee of la Responsabilité | 0.80% | ~969 |
 | Venture into the HARDCORE | 0.80% | ~969 |
-| Networthy Individual | 0.70% | ~847 |
+| Networthy Individual | 0.70% | ~848 |
 | Leopard Mindset | 0.60% | ~726 |
 | Modus: Mullen | 0.30% | ~363 |
 | Palerunner | 0.30% | ~363 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~121 |
 | What body? | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,065 (Ranked 59)  
+Progressed: 121,073 (Ranked 59)  
 Completed: 25 (0.02%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 25 (0.02%) (Ranked 196)
 | 2023-06-07 | 120,702 | 25 |
 | 2023-06-08 | 120,819 | 25 |
 | 2023-06-09 | 120,942 | 25 |
-| 2023-06-10 | 121,065 | 25 |
+| 2023-06-10 | 121,073 | 25 |
 ## Awards
 Max (Character Customization): 694  (Ranked 157)  
 Sum: 1,053 (Ranked 231)  

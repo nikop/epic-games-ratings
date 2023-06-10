@@ -2,9 +2,9 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 207,
+  "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 424,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -920,9 +920,9 @@
       "ID": "ElfFriend",
       "SetID": "70l3651",
       "Name": "Elf-Friend",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ElfHater",
@@ -984,9 +984,9 @@
       "ID": "NoDeath",
       "SetID": "70l3651",
       "Name": "How Did You Do That?",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "OldGame",
@@ -1079,8 +1079,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-10T21:05:32.4245115+00:00",
+  "LastChanged_Achievements": "2023-06-10T22:05:29.1602041+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-10T20:57:48.0656504+00:00",
-  "LastUpdate_Achievements": "2023-06-10T21:05:32.4245343+00:00"
+  "LastUpdate_Ratings": "2023-06-10T21:57:42.3643364+00:00",
+  "LastUpdate_Achievements": "2023-06-10T22:05:29.1602292+00:00"
 }

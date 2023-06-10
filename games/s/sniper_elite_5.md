@@ -5,35 +5,35 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~743 |
-| Confirming Suspicions | 24.00% | ~615 |
-| The Kraken Wakes | 19.00% | ~487 |
-| It's Starting to Crack | 17.00% | ~436 |
-| Lord of War | 14.00% | ~359 |
-| Change the Channel | 14.00% | ~359 |
-| Resourceful | 13.00% | ~333 |
-| Taking it back | 12.00% | ~308 |
-| Organ Grinder | 10.00% | ~256 |
-| As Quiet as a Mouse | 10.00% | ~256 |
-| Target America | 10.00% | ~256 |
-| The Kraken Sleeps | 9.00% | ~231 |
-| Liberté | 8.00% | ~205 |
-| Enemy at the Gates | 8.00% | ~205 |
-| Just a Flesh Wound | 8.00% | ~205 |
-| Gunslinger | 8.00% | ~205 |
-| Sharpshooter | 8.00% | ~205 |
-| Explosive Efficiency | 8.00% | ~205 |
-| Opposing Force | 7.00% | ~179 |
+| Meeting Resistance | 29.00% | ~746 |
+| Confirming Suspicions | 24.00% | ~618 |
+| The Kraken Wakes | 19.00% | ~489 |
+| It's Starting to Crack | 17.00% | ~437 |
+| Lord of War | 14.00% | ~360 |
+| Change the Channel | 14.00% | ~360 |
+| Resourceful | 13.00% | ~334 |
+| Taking it back | 12.00% | ~309 |
+| Organ Grinder | 10.00% | ~257 |
+| As Quiet as a Mouse | 10.00% | ~257 |
+| Target America | 10.00% | ~257 |
+| The Kraken Sleeps | 9.00% | ~232 |
+| Liberté | 8.00% | ~206 |
+| Enemy at the Gates | 8.00% | ~206 |
+| Just a Flesh Wound | 8.00% | ~206 |
+| Gunslinger | 8.00% | ~206 |
+| Sharpshooter | 8.00% | ~206 |
+| Explosive Efficiency | 8.00% | ~206 |
+| Opposing Force | 7.00% | ~180 |
 | Die Nussknacker Sweet! | 6.00% | ~154 |
 | Der Geist | 6.00% | ~154 |
 | Close Quarters | 6.00% | ~154 |
 | Snake in the Grass | 6.00% | ~154 |
 | Brains of the Operation | 6.00% | ~154 |
-| Climbing the Ladder | 5.00% | ~128 |
-| No Stone Unturned | 5.00% | ~128 |
-| Fields of Glory | 5.00% | ~128 |
-| Skirmisher | 5.00% | ~128 |
-| Set Europe Ablaze | 5.00% | ~128 |
+| Climbing the Ladder | 5.00% | ~129 |
+| No Stone Unturned | 5.00% | ~129 |
+| Fields of Glory | 5.00% | ~129 |
+| Skirmisher | 5.00% | ~129 |
+| Set Europe Ablaze | 5.00% | ~129 |
 | Precision Is Key | 4.00% | ~103 |
 | Rigged to Blow | 3.00% | ~77 |
 | The Long Game | 2.00% | ~51 |
@@ -57,7 +57,7 @@ Rating: 4.51 (Ranked 528)
 | If You Go Down To The Woods Today | 0.50% | ~13 |
 | Fight Another Day | 0.50% | ~13 |
 | Eagle Eyed | 0.40% | ~10 |
-| Can't Outrun A Bullet | 0.40% | ~10 |
+| Can't Outrun A Bullet | 0.30% | ~8 |
 | Reich To The Point | 0.30% | ~8 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,563 (Ranked 147)  
+Progressed: 2,573 (Ranked 146)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
-| 2023-06-10 | 2,563 | 2 |
+| 2023-06-10 | 2,573 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

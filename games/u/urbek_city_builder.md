@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 63.00% | ~148 |
+| Small town | 62.00% | ~146 |
 | I like parks | 50.00% | ~118 |
 | It is nice to share with friends in the city | 25.00% | ~59 |
 | Sport is good for you | 25.00% | ~59 |
 | The spiritual world... | 23.00% | ~54 |
-| The woodcutter | 21.00% | ~49 |
+| The woodcutter | 21.00% | ~50 |
 | I like books | 19.00% | ~45 |
 | I like my life | 18.00% | ~42 |
 | Clean energy | 17.00% | ~40 |
 | Soviet town | 17.00% | ~40 |
 | Bucolic city | 13.00% | ~31 |
-| I love books! | 9.00% | ~21 |
-| King of fish | 9.00% | ~21 |
+| I love books! | 8.00% | ~19 |
+| King of fish | 8.00% | ~19 |
 | I love parks | 8.00% | ~19 |
 | What would we do if we can't go out with friends? | 8.00% | ~19 |
 | Metropolurbek | 6.00% | ~14 |
@@ -36,13 +36,13 @@
 | What is there after death? | 1.00% | ~2 |
 | Freedom to go to the mall! | 1.00% | ~2 |
 | Town planner | 1.00% | ~2 |
-| Anarchist Utopia | 0.90% | ~2 |
-| Archipelago urban planner | 0.90% | ~2 |
-| Perfect city | 0.90% | ~2 |
-| Oh, I am sad | 0.90% | ~2 |
-| Farming Frenzy | 0.90% | ~2 |
-| Restorer | 0.90% | ~2 |
-| Welfare state | 0.90% | ~2 |
+| Anarchist Utopia | 0.80% | ~2 |
+| Archipelago urban planner | 0.80% | ~2 |
+| Perfect city | 0.80% | ~2 |
+| Oh, I am sad | 0.80% | ~2 |
+| Farming Frenzy | 0.80% | ~2 |
+| Restorer | 0.80% | ~2 |
+| Welfare state | 0.80% | ~2 |
 | Anarchist paradise | 0.40% | ~1 |
 | I can't see the sky | 0.40% | ~1 |
 | I can't breathe | 0.40% | ~1 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 241)  
+Progressed: 236 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 228 | 0 |
 | 2023-06-08 | 230 | 0 |
 | 2023-06-09 | 234 | 0 |
-| 2023-06-10 | 235 | 0 |
+| 2023-06-10 | 236 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

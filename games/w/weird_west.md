@@ -6,20 +6,20 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,415 |
-| Self-Improvement | 71.00% | ~1,155 |
+| Unforgiven | 87.00% | ~1,416 |
+| Self-Improvement | 71.00% | ~1,156 |
 | Perky | 65.00% | ~1,058 |
-| Let’s Ride | 60.00% | ~976 |
-| Welcome to the Weird West | 57.00% | ~927 |
+| Let’s Ride | 60.00% | ~977 |
+| Welcome to the Weird West | 57.00% | ~928 |
 | Dead or Alive | 55.00% | ~895 |
 | Full House | 36.00% | ~586 |
 | Off the Trail | 33.00% | ~537 |
 | Justice Served | 29.00% | ~472 |
-| Chain Reaction | 27.00% | ~439 |
+| Chain Reaction | 27.00% | ~440 |
 | Rain of Death | 25.00% | ~407 |
 | Scholar | 25.00% | ~407 |
 | Through Their Eyes | 25.00% | ~407 |
-| Dishonored | 24.00% | ~390 |
+| Dishonored | 24.00% | ~391 |
 | The Great Escape | 23.00% | ~374 |
 | That’s All, Folks | 18.00% | ~293 |
 | Fallen Star | 16.00% | ~260 |
@@ -34,9 +34,9 @@ Number of Ratings: 125  (23.09.2022)
 | Power Behind the Pulpit | 11.00% | ~179 |
 | Something Wicked This Way Comes… | 11.00% | ~179 |
 | There is Hope | 11.00% | ~179 |
-| Loyalty to the Pack | 9.00% | ~146 |
-| Mystery Machine | 9.00% | ~146 |
-| The Philosopher’s Stone | 9.00% | ~146 |
+| Loyalty to the Pack | 9.00% | ~147 |
+| Mystery Machine | 9.00% | ~147 |
+| The Philosopher’s Stone | 9.00% | ~147 |
 | Gold Digger | 8.00% | ~130 |
 | Eternity Can Wait | 8.00% | ~130 |
 | Do Not Pass Go… | 7.00% | ~114 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.30% | ~5 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,627 (Ranked 158)  
+Progressed: 1,628 (Ranked 158)  
 Completed: 2 (0.12%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 2 (0.12%) (Ranked 162)
 | 2023-06-07 | 1,611 | 2 |
 | 2023-06-08 | 1,616 | 2 |
 | 2023-06-09 | 1,624 | 2 |
-| 2023-06-10 | 1,627 | 2 |
+| 2023-06-10 | 1,628 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 469)  
 Sum: 24 (Ranked 475)  

@@ -32,16 +32,16 @@
 | Ss ss ss... | 1.00% | ~4 |
 | Collectibles Part 2 | 0.90% | ~4 |
 | Nervous Hands | 0.90% | ~4 |
+| Elf-Friend | 0.50% | ~2 |
 | Good Sméagol! | 0.50% | ~2 |
-| Elf-Friend | 0.20% | ~1 |
 | We wants it! We needs it | 0.20% | ~1 |
+| How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 | Scout | 0.20% | ~1 |
 | Rule them all! | 0.00% | ~0 |
 | We Hates Them! | 0.00% | ~0 |
-| How Did You Do That? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424 (Ranked 207)  
+Progressed: 424 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |

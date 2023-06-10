@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.30% | ~170 |
 | Pin and Skewer | 0.30% | ~170 |
 | Bully for Vecna | 0.30% | ~170 |
+| Homecoming | 0.30% | ~271 |
 | No One Can Hear You Scream | 0.30% | ~170 |
 | Welcome to the Rock | 0.30% | ~170 |
 | Low Initiative | 0.30% | ~271 |
@@ -65,6 +66,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.30% | ~271 |
 | Flying Monkey Skulls of Doom | 0.30% | ~271 |
 | Hearts Aflame | 0.30% | ~170 |
+| Look Out! | 0.30% | ~170 |
 | Bad Odds in Avernus | 0.30% | ~170 |
 | An Even Worse Time in Avernus | 0.30% | ~170 |
 | Constant Banditry | 0.30% | ~271 |
@@ -138,7 +140,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks Below? | 0.20% | ~113 |
 | Clowning Around | 0.20% | ~113 |
 | Xanathaaaaaaar! | 0.20% | ~113 |
-| Homecoming | 0.20% | ~181 |
 | Anti-Dexterous Explorers | 0.20% | ~181 |
 | Struggling Toward Omu | 0.20% | ~181 |
 | The Lost Heir of Omu | 0.20% | ~181 |
@@ -242,7 +243,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreamscape | 0.20% | ~113 |
 | Dream Gauntlet | 0.20% | ~113 |
 | Zombie Dreams | 0.20% | ~113 |
-| Look Out! | 0.20% | ~113 |
 | The Path of Dreams | 0.20% | ~113 |
 | The Path of Redcaps | 0.20% | ~113 |
 | The Lost Hollyphant | 0.20% | ~113 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,361 (Ranked 64)  
+Progressed: 90,364 (Ranked 64)  
 Completed: 1,926 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,7 +551,7 @@ Completed: 1,926 (2.13%) (Ranked 66)
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
-| 2023-06-10 | 90,361 | 1,926 |
+| 2023-06-10 | 90,364 | 1,926 |
 ## Awards
 Max (Diverse Characters): 4,925  (Ranked 64)  
 Sum: 30,072 (Ranked 37)  

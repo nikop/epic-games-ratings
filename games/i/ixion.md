@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 444)  
+Rating: 4.57 (Ranked 443)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,8 +10,8 @@ Rating: 4.57 (Ranked 444)
 | Without Breaking Some Eggs... | 13.00% | ~334 |
 | Infinite Growth... | 13.00% | ~334 |
 | Ready for a New World | 9.00% | ~231 |
-| Space Society | 8.00% | ~205 |
-| A Thousand Strong | 8.00% | ~205 |
+| Space Society | 8.00% | ~206 |
+| A Thousand Strong | 8.00% | ~206 |
 | Permanent Redesigns | 7.00% | ~180 |
 | Ain't Nobody Got Time for That | 7.00% | ~180 |
 | Guy de Borderlands | 6.00% | ~154 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 444)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,568 (Ranked 146)  
+Progressed: 2,569 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 2,488 | 0 |
 | 2023-06-08 | 2,515 | 0 |
 | 2023-06-09 | 2,541 | 0 |
-| 2023-06-10 | 2,568 | 0 |
+| 2023-06-10 | 2,569 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

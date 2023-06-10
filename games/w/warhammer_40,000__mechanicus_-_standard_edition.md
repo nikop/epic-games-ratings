@@ -1,24 +1,24 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 646)  
+Rating: 4.43 (Ranked 645)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,420 |
-| This is only the beginning | 19.00% | ~40,599 |
-| Knowledge is power | 12.00% | ~25,642 |
-| Power Ranger | 9.00% | ~19,231 |
-| Galvanic Rifle | 9.00% | ~19,231 |
-| Taser Goad | 9.00% | ~19,231 |
-| Radium Ready | 9.00% | ~19,231 |
-| Half a cog | 9.00% | ~19,231 |
-| Watch them crumble | 6.00% | ~12,821 |
-| Competent Cohort | 4.00% | ~8,547 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,547 |
-| One with the Machine | 4.00% | ~8,547 |
-| Legio Cybernetica | 3.00% | ~6,410 |
-| Fleshy Disposal | 3.00% | ~6,410 |
+| No aid from the Omnissiah | 25.00% | ~53,423 |
+| This is only the beginning | 19.00% | ~40,601 |
+| Knowledge is power | 12.00% | ~25,643 |
+| Power Ranger | 9.00% | ~19,232 |
+| Galvanic Rifle | 9.00% | ~19,232 |
+| Taser Goad | 9.00% | ~19,232 |
+| Radium Ready | 9.00% | ~19,232 |
+| Half a cog | 9.00% | ~19,232 |
+| Watch them crumble | 6.00% | ~12,822 |
+| Competent Cohort | 4.00% | ~8,548 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,548 |
+| One with the Machine | 4.00% | ~8,548 |
+| Legio Cybernetica | 3.00% | ~6,411 |
+| Fleshy Disposal | 3.00% | ~6,411 |
 | Battle Servitor | 2.00% | ~4,274 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,274 |
 | Impatient destruction | 2.00% | ~4,274 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 646)
 | Perma-live | 0.10% | ~214 |
 | Purge the Heretek | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,680 (Ranked 50)  
+Progressed: 213,692 (Ranked 50)  
 Completed: 3 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 3 (0.00%) (Ranked 214)
 | 2023-06-07 | 213,314 | 3 |
 | 2023-06-08 | 213,436 | 3 |
 | 2023-06-09 | 213,572 | 3 |
-| 2023-06-10 | 213,680 | 3 |
+| 2023-06-10 | 213,692 | 3 |
 ## Awards
 Max (Highly Recommended): 278  (Ranked 233)  
 Sum: 2,104 (Ranked 183)  

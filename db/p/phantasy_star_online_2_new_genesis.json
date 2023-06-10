@@ -2,7 +2,7 @@
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "Phantasy Star Online 2 New Genesis",
   "ProductSlug": "phantasy-star-online-2",
-  "Ranking_Rating": 475,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 442,
@@ -2349,10 +2349,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 3766,
       "NumberOfAwardsMax": 860
+    },
+    {
+      "Time": "2023-06-10T21:58:09.4741699+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3767,
+      "NumberOfAwardsMax": 860
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3766,
+  "NumberOfAwards": 3767,
   "NumberOfAwardsMax": 860,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2366,7 +2372,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 675
+      "Count": 676
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2440,8 +2446,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2023-06-10T17:58:18.3529626+00:00",
+  "LastChanged": "2023-06-10T21:58:09.4741697+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.9479748+00:00",
-  "LastUpdate_Ratings": "2023-06-10T20:58:17.075293+00:00",
+  "LastUpdate_Ratings": "2023-06-10T21:58:09.4741703+00:00",
   "LastUpdate_Achievements": "2023-06-10T21:02:03.4621197+00:00"
 }

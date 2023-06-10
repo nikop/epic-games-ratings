@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 129,
@@ -222,7 +222,7 @@
   "Tags": [],
   "EOS_Progressed": 4522,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3701,9 +3701,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3392
+      "UsersEstimate": 3437
     },
     {
       "ID": "23",
@@ -3956,8 +3956,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-10T19:59:37.6294765+00:00",
-  "LastChanged_Achievements": "2023-06-10T21:04:26.8553729+00:00",
+  "LastChanged_Achievements": "2023-06-10T22:04:23.2270875+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-10T20:59:16.6384876+00:00",
-  "LastUpdate_Achievements": "2023-06-10T21:04:26.8554161+00:00"
+  "LastUpdate_Ratings": "2023-06-10T21:59:10.2947453+00:00",
+  "LastUpdate_Achievements": "2023-06-10T22:04:23.2271317+00:00"
 }

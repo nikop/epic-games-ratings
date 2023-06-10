@@ -5,50 +5,50 @@ Rating: 4.49 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,711 |
-| Advancement | 73.00% | ~16,732 |
-| Meticulously Efficient | 64.00% | ~14,669 |
-| Discovery | 62.00% | ~14,210 |
-| Fully Upgraded | 55.00% | ~12,606 |
-| Swift Rift Removers | 55.00% | ~12,606 |
-| Cultured | 53.00% | ~12,148 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,918 |
-| Vaporous Expansion | 49.00% | ~11,231 |
-| Teamwork | 44.00% | ~10,085 |
-| There you are! | 43.00% | ~9,856 |
-| Clutch Capture | 41.00% | ~9,397 |
-| Back Off | 36.00% | ~8,251 |
-| Daily Dose | 35.00% | ~8,022 |
-| Solo Capture | 32.00% | ~7,334 |
-| Welcome to the Crew | 32.00% | ~7,334 |
-| Ghostbuster In Training | 31.00% | ~7,105 |
-| Icing on the Cake | 30.00% | ~6,876 |
-| Side Hustle | 28.00% | ~6,418 |
-| We have the best insurance | 27.00% | ~6,188 |
-| Legions | 27.00% | ~6,188 |
-| Right back at ya | 27.00% | ~6,188 |
-| Stunner | 27.00% | ~6,188 |
-| Summoner | 27.00% | ~6,188 |
-| Pesky Jerks | 26.00% | ~5,959 |
-| Animated | 25.00% | ~5,730 |
-| Skilled | 25.00% | ~5,730 |
-| Collector | 24.00% | ~5,501 |
-| Ectoplasmic Entity | 24.00% | ~5,501 |
-| Rift Destroyer | 20.00% | ~4,584 |
-| Tobin's Prodigy | 19.00% | ~4,355 |
+| Stylish | 86.00% | ~19,716 |
+| Advancement | 73.00% | ~16,735 |
+| Meticulously Efficient | 64.00% | ~14,672 |
+| Discovery | 62.00% | ~14,214 |
+| Fully Upgraded | 55.00% | ~12,609 |
+| Swift Rift Removers | 55.00% | ~12,609 |
+| Cultured | 53.00% | ~12,150 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,921 |
+| Vaporous Expansion | 49.00% | ~11,233 |
+| Teamwork | 44.00% | ~10,087 |
+| There you are! | 43.00% | ~9,858 |
+| Clutch Capture | 41.00% | ~9,399 |
+| Back Off | 36.00% | ~8,253 |
+| Daily Dose | 35.00% | ~8,024 |
+| Solo Capture | 32.00% | ~7,336 |
+| Welcome to the Crew | 32.00% | ~7,336 |
+| Ghostbuster In Training | 31.00% | ~7,107 |
+| Icing on the Cake | 30.00% | ~6,878 |
+| Side Hustle | 28.00% | ~6,419 |
+| We have the best insurance | 27.00% | ~6,190 |
+| Legions | 27.00% | ~6,190 |
+| Right back at ya | 27.00% | ~6,190 |
+| Stunner | 27.00% | ~6,190 |
+| Summoner | 27.00% | ~6,190 |
+| Pesky Jerks | 26.00% | ~5,960 |
+| Animated | 25.00% | ~5,731 |
+| Skilled | 25.00% | ~5,731 |
+| Collector | 24.00% | ~5,502 |
+| Ectoplasmic Entity | 24.00% | ~5,502 |
+| Rift Destroyer | 20.00% | ~4,585 |
+| Tobin's Prodigy | 19.00% | ~4,356 |
 | Reckless | 18.00% | ~4,126 |
 | Terrifying | 18.00% | ~4,126 |
-| Diabolical | 16.00% | ~3,667 |
-| Escape Artist | 16.00% | ~3,667 |
-| Seasoned | 16.00% | ~3,667 |
-| Whoopsie | 11.00% | ~2,521 |
+| Diabolical | 16.00% | ~3,668 |
+| Escape Artist | 16.00% | ~3,668 |
+| Seasoned | 16.00% | ~3,668 |
+| Whoopsie | 11.00% | ~2,522 |
 | Liability | 10.00% | ~2,292 |
 | Rivalry | 10.00% | ~2,292 |
 | Fragile Panes | 9.00% | ~2,063 |
 | Surprise! | 9.00% | ~2,063 |
-| Master Collector | 7.00% | ~1,604 |
-| Rift Seeker | 7.00% | ~1,604 |
-| Therapeutic | 7.00% | ~1,604 |
+| Master Collector | 7.00% | ~1,605 |
+| Rift Seeker | 7.00% | ~1,605 |
+| Therapeutic | 7.00% | ~1,605 |
 | Ghost Expert | 3.00% | ~688 |
 | Catostrophic Destroyer | 2.00% | ~458 |
 | Line em' up | 2.00% | ~458 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 565)
 | I don't need these | 1.00% | ~229 |
 | Mycophile | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,920 (Ranked 93)  
+Progressed: 22,925 (Ranked 93)  
 Completed: 40 (0.17%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,15 +108,15 @@ Completed: 40 (0.17%) (Ranked 150)
 | 2023-06-07 | 22,765 | 40 |
 | 2023-06-08 | 22,810 | 40 |
 | 2023-06-09 | 22,882 | 40 |
-| 2023-06-10 | 22,920 | 40 |
+| 2023-06-10 | 22,925 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 235  (Ranked 247)  
-Sum: 2,109 (Ranked 182)  
+Sum: 2,110 (Ranked 182)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 235 |
-| This game is Great for Beginners | 223 |
+| This game is Great for Beginners | 224 |
 | This game has Competitive Players | 218 |
 | This game has Diverse Characters | 212 |
 | This game has Amazing Storytelling | 211 |
@@ -214,3 +214,4 @@ Diff (max vs sum): 65
 | 2023-06-07 | 4.49 | 235 | 2,105 |
 | 2023-06-08 | 4.49 | 235 | 2,106 |
 | 2023-06-09 | 4.49 | 235 | 2,109 |
+| 2023-06-10 | 4.49 | 235 | 2,110 |

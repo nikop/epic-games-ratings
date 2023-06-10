@@ -10,6 +10,7 @@
 | Rail Rat | 6.00% | ~39 |
 | Make Up For Lost Time | 6.00% | ~39 |
 | Cartographer | 6.00% | ~39 |
+| The Prince in Heels | 6.00% | ~39 |
 | Immaculate Aim | 6.00% | ~39 |
 | The Mysterious Stranger | 5.00% | ~33 |
 | The Betrayer | 5.00% | ~33 |
@@ -19,11 +20,11 @@
 | No, Thanks! | 5.00% | ~33 |
 | Breaking Down Barriers | 5.00% | ~33 |
 | The Wicked Twins | 5.00% | ~33 |
-| The Prince in Heels | 5.00% | ~33 |
 | Golem Chaser | 5.00% | ~33 |
 | Immaculate Aim | 5.00% | ~33 |
 | The Brass Boss | 5.00% | ~33 |
 | Chaincrawler Explorer | 4.00% | ~26 |
+| Right On Time | 4.00% | ~26 |
 | Like Clockwork | 4.00% | ~26 |
 | Street Style | 4.00% | ~26 |
 | Family Memories | 4.00% | ~26 |
@@ -33,7 +34,6 @@
 | Sump Explorer | 4.00% | ~26 |
 | Check Your Pulse | 4.00% | ~26 |
 | The Family Fortune | 4.00% | ~26 |
-| Right On Time | 3.00% | ~20 |
 | Whiz Kid | 3.00% | ~20 |
 | Syron for Hope | 3.00% | ~20 |
 | Theater Explorer | 3.00% | ~20 |

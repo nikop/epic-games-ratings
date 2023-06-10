@@ -282,9 +282,9 @@
       "ID": "Mirror",
       "SetID": "9kk0gal",
       "Name": "Egghead Lucy",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Offroad",
@@ -346,9 +346,9 @@
       "ID": "Trumpet",
       "SetID": "9kk0gal",
       "Name": "Trumpet",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 147
     },
     {
       "ID": "Well",
@@ -379,8 +379,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-10T21:05:50.4623389+00:00",
+  "LastChanged_Achievements": "2023-06-10T22:05:46.8557131+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:36.3006343+00:00",
-  "LastUpdate_Ratings": "2023-06-10T20:59:48.0618935+00:00",
-  "LastUpdate_Achievements": "2023-06-10T21:05:50.4623547+00:00"
+  "LastUpdate_Ratings": "2023-06-10T21:59:42.9026409+00:00",
+  "LastUpdate_Achievements": "2023-06-10T22:05:46.8557293+00:00"
 }

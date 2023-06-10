@@ -7,10 +7,10 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 37.00% | ~1,066 |
-| Look Over There! | 31.00% | ~893 |
+| Look Over There! | 32.00% | ~922 |
 | Watch Where You Step... | 31.00% | ~893 |
-| Not So Fast... | 30.00% | ~864 |
-| An Ill Omen | 29.00% | ~835 |
+| Not So Fast... | 30.00% | ~865 |
+| An Ill Omen | 29.00% | ~836 |
 | Purging Spree | 23.00% | ~663 |
 | Blood for the Blood God! | 18.00% | ~519 |
 | Friendly Fire | 16.00% | ~461 |
@@ -21,8 +21,8 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 11.00% | ~317 |
 | A Foul Creche | 11.00% | ~317 |
 | Gunmaster | 10.00% | ~288 |
-| Efficient Killer | 8.00% | ~230 |
-| Just a Scratch | 8.00% | ~230 |
+| Efficient Killer | 8.00% | ~231 |
+| Just a Scratch | 8.00% | ~231 |
 | Opportunist | 7.00% | ~202 |
 | Hold Your Ground | 6.00% | ~173 |
 | A Gift Spurned | 5.00% | ~144 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,881 (Ranked 142)  
+Progressed: 2,882 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 2,869 | 0 |
 | 2023-06-08 | 2,873 | 0 |
 | 2023-06-09 | 2,879 | 0 |
-| 2023-06-10 | 2,881 | 0 |
+| 2023-06-10 | 2,882 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 257)  
 Sum: 421 (Ranked 300)  

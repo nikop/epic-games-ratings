@@ -9,7 +9,7 @@ Rating: 4.64 (Ranked 313)
 | All thumbs | 91.00% | ~3,863 |
 | I will survive! | 91.00% | ~3,863 |
 | Home, sweet home | 89.00% | ~3,778 |
-| Survivalist | 87.00% | ~3,693 |
+| Survivalist | 88.00% | ~3,736 |
 | One way ticket | 83.00% | ~3,523 |
 | Last man standing | 77.00% | ~3,269 |
 | Family guy | 75.00% | ~3,184 |

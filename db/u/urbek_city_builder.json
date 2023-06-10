@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -542,6 +542,11 @@
       "Time": "2023-06-10T18:05:54.8414215+00:00",
       "NumProgressed": 235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T22:05:53.6539703+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -551,7 +556,7 @@
       "ID": "ANARQUIA_1",
       "SetID": "44dlcg0",
       "Name": "Anarchist Utopia",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -583,7 +588,7 @@
       "ID": "ARCHIPIELAGO_2",
       "SetID": "44dlcg0",
       "Name": "Archipelago urban planner",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -703,9 +708,9 @@
       "ID": "CULTURE_2",
       "SetID": "44dlcg0",
       "Name": "I love books!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "CULTURE_3",
@@ -791,7 +796,7 @@
       "ID": "FAITH_SPORT",
       "SetID": "44dlcg0",
       "Name": "Perfect city",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -799,7 +804,7 @@
       "ID": "FELIZ_01",
       "SetID": "44dlcg0",
       "Name": "Oh, I am sad",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -855,15 +860,15 @@
       "ID": "FISHING",
       "SetID": "44dlcg0",
       "Name": "King of fish",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "GRANJA_1",
       "SetID": "44dlcg0",
       "Name": "Farming Frenzy",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -905,7 +910,7 @@
       "Name": "The woodcutter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "MILLS",
@@ -983,9 +988,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 146
     },
     {
       "ID": "POPULATION_2",
@@ -1031,7 +1036,7 @@
       "ID": "RUINAS_1",
       "SetID": "44dlcg0",
       "Name": "Restorer",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1175,7 +1180,7 @@
       "ID": "WELFARE_2",
       "SetID": "44dlcg0",
       "Name": "Welfare state",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     }
@@ -1184,7 +1189,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 0
     }
   ],
@@ -1192,8 +1197,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-10T21:05:57.1642565+00:00",
+  "LastChanged_Achievements": "2023-06-10T22:05:53.6539696+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:09.3377562+00:00",
-  "LastUpdate_Ratings": "2023-06-10T20:58:45.214258+00:00",
-  "LastUpdate_Achievements": "2023-06-10T21:05:57.1643227+00:00"
+  "LastUpdate_Ratings": "2023-06-10T21:58:37.9423092+00:00",
+  "LastUpdate_Achievements": "2023-06-10T22:05:53.654038+00:00"
 }

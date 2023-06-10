@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 653,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1205,9 +1205,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 26
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1453,9 +1453,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "RewindDamage1",
@@ -1604,8 +1604,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-10T21:05:09.0240426+00:00",
+  "LastChanged_Achievements": "2023-06-10T22:05:05.0942519+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-10T20:59:14.600276+00:00",
-  "LastUpdate_Achievements": "2023-06-10T21:05:09.0240833+00:00"
+  "LastUpdate_Ratings": "2023-06-10T21:59:08.1376826+00:00",
+  "LastUpdate_Achievements": "2023-06-10T22:05:05.0942926+00:00"
 }

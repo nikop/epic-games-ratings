@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 188,
+  "EOS_Progressed": 189,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.66,
+  "EOS_Completed_Percentage": 2.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -206,6 +206,11 @@
       "Time": "2023-06-10T12:06:27.3487487+00:00",
       "NumProgressed": 188,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-10T22:05:40.0191955+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 24,
@@ -255,9 +260,9 @@
       "ID": "CHAPTER3_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Eyes Yet To Open",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "CHAPTER4_COMPLETE",
@@ -393,7 +398,7 @@
       "Name": "Clean Conscience",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "VIPER_HACKING",
@@ -408,13 +413,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 15
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 188,
+      "Progressed": 189,
       "Completed": 5
     }
   ],
@@ -422,8 +427,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-06-10T21:05:43.4995433+00:00",
+  "LastChanged_Achievements": "2023-06-10T22:05:40.0191949+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:35.0981495+00:00",
-  "LastUpdate_Ratings": "2023-06-10T20:59:04.2865716+00:00",
-  "LastUpdate_Achievements": "2023-06-10T21:05:43.4995585+00:00"
+  "LastUpdate_Ratings": "2023-06-10T21:58:57.6415041+00:00",
+  "LastUpdate_Achievements": "2023-06-10T22:05:40.0192107+00:00"
 }

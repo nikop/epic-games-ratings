@@ -1,23 +1,23 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.39 (Ranked 939)  
+Rating: 3.33 (Ranked 939)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~12,772 |
-| Hard Worker | 20.00% | ~12,164 |
-| Master, Commander | 20.00% | ~12,164 |
-| Mechanic | 19.00% | ~11,555 |
-| Adios, Friendo | 18.00% | ~10,947 |
-| Bottom's Up | 17.00% | ~10,339 |
-| Nice Try | 16.00% | ~9,731 |
-| Right On Target | 13.00% | ~7,906 |
+| Be Seeing You | 21.00% | ~12,773 |
+| Hard Worker | 20.00% | ~12,165 |
+| Master, Commander | 20.00% | ~12,165 |
+| Mechanic | 19.00% | ~11,557 |
+| Adios, Friendo | 18.00% | ~10,948 |
+| Bottom's Up | 17.00% | ~10,340 |
+| Nice Try | 16.00% | ~9,732 |
+| Right On Target | 13.00% | ~7,907 |
 | Piano Man | 10.00% | ~6,082 |
 | Lazy Bones | 9.00% | ~5,474 |
-| Sniper | 7.00% | ~4,257 |
-| Vinyl Vibes | 7.00% | ~4,257 |
-| Nothing Left to Say | 6.00% | ~3,649 |
+| Sniper | 7.00% | ~4,258 |
+| Vinyl Vibes | 7.00% | ~4,258 |
+| Nothing Left to Say | 6.00% | ~3,650 |
 | Cut Call | 5.00% | ~3,041 |
 | Butcher | 4.00% | ~2,433 |
 | Magnetic Miracles | 4.00% | ~2,433 |
@@ -31,7 +31,7 @@ Rating: 3.39 (Ranked 939)
 | Audiophile | 2.00% | ~1,216 |
 | Tape Head | 1.00% | ~608 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,818 (Ranked 74)  
+Progressed: 60,825 (Ranked 74)  
 Completed: 523 (0.86%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 523 (0.86%) (Ranked 95)
 | 2023-06-07 | 60,270 | 511 |
 | 2023-06-08 | 60,440 | 513 |
 | 2023-06-09 | 60,639 | 519 |
-| 2023-06-10 | 60,818 | 523 |
+| 2023-06-10 | 60,825 | 523 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -91,3 +91,4 @@ Completed: 523 (0.86%) (Ranked 95)
 | 2023-05-08 | 3.48 | 0 | 0 |
 | 2023-05-11 | 3.41 | 0 | 0 |
 | 2023-06-05 | 3.39 | 0 | 0 |
+| 2023-06-10 | 3.33 | 0 | 0 |

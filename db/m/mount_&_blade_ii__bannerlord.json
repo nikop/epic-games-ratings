@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -4737,9 +4737,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 52770,
+  "EOS_Progressed": 52772,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 812,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9897,6 +9897,11 @@
       "Time": "2023-06-10T21:05:55.0091829+00:00",
       "NumProgressed": 52770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T22:05:51.6269348+00:00",
+      "NumProgressed": 52772,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -10036,7 +10041,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6332
+      "UsersEstimate": 6333
     },
     {
       "ID": "Great Granny",
@@ -10100,7 +10105,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8443
+      "UsersEstimate": 8444
     },
     {
       "ID": "Kingslayer",
@@ -10132,7 +10137,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15831
+      "UsersEstimate": 15832
     },
     {
       "ID": "Lawbringer",
@@ -10140,7 +10145,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 18997
+      "UsersEstimate": 18998
     },
     {
       "ID": "Lawmaker",
@@ -10315,15 +10320,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 52770,
+      "Progressed": 52772,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-10T19:00:28.7639685+00:00",
-  "LastChanged_Achievements": "2023-06-10T21:05:55.0091824+00:00",
+  "LastChanged_Achievements": "2023-06-10T22:05:51.6269343+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.7638499+00:00",
-  "LastUpdate_Ratings": "2023-06-10T20:59:29.1658639+00:00",
-  "LastUpdate_Achievements": "2023-06-10T21:05:55.0092432+00:00"
+  "LastUpdate_Ratings": "2023-06-10T21:59:24.0165719+00:00",
+  "LastUpdate_Achievements": "2023-06-10T22:05:51.6269916+00:00"
 }
