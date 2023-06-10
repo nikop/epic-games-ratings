@@ -94,6 +94,7 @@
 | [Call of the Sea](../games/c/call_of_the_sea.md) | 34 | 1,000 |
 | [Cartel Tycoon](../games/c/cartel_tycoon.md) | 19 | 1,000 |
 | [Centipede: Recharged](../games/c/centipede__recharged.md) | 16 | 1,000 |
+| [Cepheus Protocol](../games/c/cepheus_protocol.md) | 5 | 1,000 |
 | [Chants of Sennaar](../games/c/chants_of_sennaar.md) | 25 | 1,000 |
 | [Chaos Galaxy](../games/c/chaos_galaxy.md) | 48 | 1,000 |
 | [Charon's Staircase](../games/c/charon's_staircase.md) | 20 | 1,000 |

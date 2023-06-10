@@ -277,6 +277,7 @@
 | [Mega City Police](games/m/mega_city_police.md) | 2099-01-01 | - |  | - | - |
 | [Meta Nemesis](games/m/meta_nemesis.md) | 2099-01-01 | - |  | - | - |
 | [MeteoHeroes Saving Planet Earth!](games/m/meteoheroes_saving_planet_earth!.md) | 2099-01-01 | 25 (1,000 XP) | 0 | - | - |
+| [Metro Simulator](games/d/d1c8b68acafc466d9b393b5ff6797dc4.md) | 2099-01-01 | - |  | - | - |
 | [Midnight Pufferfish Show](games/4/4019249f7e6b41f8b063d7a3b36840dd.md) | 2099-01-01 | - |  | - | - |
 | [Moon Mystery](games/m/moon_mystery.md) | 2099-01-01 | - |  | - | - |
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | 2099-01-01 | - |  | - | - |
