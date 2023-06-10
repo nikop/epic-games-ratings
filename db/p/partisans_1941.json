@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1005,
+  "EOS_Progressed": 1006,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -1015,6 +1015,11 @@
       "Time": "2023-06-10T13:09:11.0381555+00:00",
       "NumProgressed": 1005,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T14:06:49.701728+00:00",
+      "NumProgressed": 1006,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1050,7 +1055,7 @@
       "Name": "The Big Bertha",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "Boy",
@@ -1154,7 +1159,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "High_noon",
@@ -1202,7 +1207,7 @@
       "Name": "One by One",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Miner",
@@ -1218,7 +1223,7 @@
       "Name": "Mosquito bite",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Scout",
@@ -1265,15 +1270,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1005,
+      "Progressed": 1006,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-10T13:09:11.0381549+00:00",
+  "LastChanged_Achievements": "2023-06-10T14:06:49.7017275+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:02:15.8699541+00:00",
-  "LastUpdate_Achievements": "2023-06-10T13:09:11.0381774+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:59:45.6809608+00:00",
+  "LastUpdate_Achievements": "2023-06-10T14:06:49.7017474+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4210,10 +4210,10 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90323,
+  "EOS_Progressed": 90326,
   "EOS_Completed": 1926,
-  "EOS_NewPlayers": 717,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 709,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -9415,6 +9415,11 @@
       "Time": "2023-06-10T13:09:27.9690109+00:00",
       "NumProgressed": 90323,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-06-10T14:07:08.0798575+00:00",
+      "NumProgressed": 90326,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 493,
@@ -9426,7 +9431,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "objective_completed_10",
@@ -10376,9 +10381,9 @@
       "ID": "objective_completed_126",
       "SetID": "cc37lbc",
       "Name": "Struggling Toward Omu",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_127",
@@ -13369,21 +13374,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56597,
+      "Progressed": 56600,
       "Completed": 2780
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90323,
+      "Progressed": 90326,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-10T13:01:01.7243469+00:00",
-  "LastChanged_Achievements": "2023-06-10T13:09:27.9690105+00:00",
+  "LastChanged_Achievements": "2023-06-10T14:07:08.0798569+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:01:01.7243475+00:00",
-  "LastUpdate_Achievements": "2023-06-10T13:09:27.971429+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:58:19.3217402+00:00",
+  "LastUpdate_Achievements": "2023-06-10T14:07:08.0819741+00:00"
 }

@@ -19,12 +19,12 @@ Rating: 4.30 (Ranked 764)
 | Firestarter | 37.00% | ~400 |
 | Giant Killer | 35.00% | ~378 |
 | Sensei | 33.00% | ~357 |
-| The meaning of Kain | 31.00% | ~335 |
+| The meaning of Kain | 32.00% | ~346 |
 | Technophobe | 29.00% | ~313 |
 | Recycler | 27.00% | ~292 |
 | Are you not entertained? | 23.00% | ~249 |
+| Jarhead | 23.00% | ~249 |
 | Ganglord | 22.00% | ~238 |
-| Jarhead | 22.00% | ~238 |
 | Infiltrator | 22.00% | ~238 |
 | Pushing Daisy | 21.00% | ~227 |
 | Chain Killer | 20.00% | ~216 |

@@ -5,30 +5,30 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~731 |
-| Confirming Suspicions | 23.00% | ~580 |
-| The Kraken Wakes | 19.00% | ~479 |
-| It's Starting to Crack | 17.00% | ~429 |
-| Lord of War | 14.00% | ~353 |
-| Change the Channel | 14.00% | ~353 |
-| Resourceful | 13.00% | ~328 |
-| Taking it back | 12.00% | ~303 |
-| Organ Grinder | 10.00% | ~252 |
-| As Quiet as a Mouse | 10.00% | ~252 |
-| Target America | 10.00% | ~252 |
-| The Kraken Sleeps | 9.00% | ~227 |
+| Meeting Resistance | 29.00% | ~734 |
+| Confirming Suspicions | 23.00% | ~582 |
+| The Kraken Wakes | 19.00% | ~481 |
+| It's Starting to Crack | 17.00% | ~430 |
+| Lord of War | 14.00% | ~354 |
+| Change the Channel | 14.00% | ~354 |
+| Resourceful | 13.00% | ~329 |
+| Taking it back | 12.00% | ~304 |
+| Organ Grinder | 10.00% | ~253 |
+| As Quiet as a Mouse | 10.00% | ~253 |
+| Target America | 10.00% | ~253 |
+| The Kraken Sleeps | 9.00% | ~228 |
 | Liberté | 8.00% | ~202 |
 | Enemy at the Gates | 8.00% | ~202 |
 | Just a Flesh Wound | 8.00% | ~202 |
 | Gunslinger | 8.00% | ~202 |
 | Sharpshooter | 8.00% | ~202 |
 | Explosive Efficiency | 8.00% | ~202 |
-| Opposing Force | 7.00% | ~177 |
-| Die Nussknacker Sweet! | 6.00% | ~151 |
-| Der Geist | 6.00% | ~151 |
-| Close Quarters | 6.00% | ~151 |
-| Snake in the Grass | 6.00% | ~151 |
-| Brains of the Operation | 6.00% | ~151 |
+| Opposing Force | 6.00% | ~152 |
+| Die Nussknacker Sweet! | 6.00% | ~152 |
+| Der Geist | 6.00% | ~152 |
+| Close Quarters | 6.00% | ~152 |
+| Snake in the Grass | 6.00% | ~152 |
+| Brains of the Operation | 6.00% | ~152 |
 | Climbing the Ladder | 5.00% | ~126 |
 | No Stone Unturned | 5.00% | ~126 |
 | Fields of Glory | 5.00% | ~126 |
@@ -36,9 +36,9 @@ Rating: 4.51 (Ranked 528)
 | Set Europe Ablaze | 5.00% | ~126 |
 | Precision Is Key | 4.00% | ~101 |
 | Rigged to Blow | 3.00% | ~76 |
-| The Long Game | 2.00% | ~50 |
-| My Little Friend | 2.00% | ~50 |
-| It'll Buff Right Out | 2.00% | ~50 |
+| The Long Game | 2.00% | ~51 |
+| My Little Friend | 2.00% | ~51 |
+| It'll Buff Right Out | 2.00% | ~51 |
 | Strategist | 1.00% | ~25 |
 | Tinkerer | 1.00% | ~25 |
 | Locomotion Commotion | 1.00% | ~25 |
@@ -54,9 +54,9 @@ Rating: 4.51 (Ranked 528)
 | Souvenir hunter | 0.60% | ~15 |
 | Up close and personal | 0.50% | ~13 |
 | Shoot for the Moon | 0.50% | ~13 |
+| If You Go Down To The Woods Today | 0.50% | ~12 |
+| Fight Another Day | 0.50% | ~12 |
 | Eagle Eyed | 0.40% | ~10 |
-| If You Go Down To The Woods Today | 0.40% | ~10 |
-| Fight Another Day | 0.40% | ~10 |
 | Can't Outrun A Bullet | 0.30% | ~8 |
 | Reich To The Point | 0.30% | ~7 |
 | Sink or Swim | 0.30% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,522 (Ranked 147)  
+Progressed: 2,530 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
-| 2023-06-10 | 2,522 | 2 |
+| 2023-06-10 | 2,530 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

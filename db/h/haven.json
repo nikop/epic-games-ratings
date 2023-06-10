@@ -6,9 +6,9 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_Completed": 104,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -169,10 +169,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1247,
-  "EOS_Completed": 8,
-  "EOS_NewPlayers": 48,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Completed": 9,
+  "EOS_NewPlayers": 47,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:19.3415137+00:00",
@@ -823,6 +823,11 @@
       "Time": "2023-06-10T13:09:10.7534472+00:00",
       "NumProgressed": 1247,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-10T14:06:49.4031662+00:00",
+      "NumProgressed": 1247,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -992,9 +997,9 @@
       "ID": "3",
       "SetID": "n50no0",
       "Name": "Hug therapy",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 561
     },
     {
       "ID": "30",
@@ -1074,14 +1079,14 @@
       "ID": "n50no0",
       "IsBase": true,
       "Progressed": 1247,
-      "Completed": 8
+      "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-10T13:09:10.7534467+00:00",
+  "LastChanged_Achievements": "2023-06-10T14:06:49.4031657+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:57.0089553+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:02:33.2312977+00:00",
-  "LastUpdate_Achievements": "2023-06-10T13:09:10.753475+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:00:05.3469934+00:00",
+  "LastUpdate_Achievements": "2023-06-10T14:06:49.4031864+00:00"
 }

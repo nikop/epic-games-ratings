@@ -9,7 +9,7 @@
 | Play Me By The Hour | 66.00% | ~117 |
 | Patient Listener | 46.00% | ~82 |
 | Video Saved The Radio Star | 37.00% | ~66 |
-| Hashtag Winning | 35.00% | ~62 |
+| Hashtag Winning | 36.00% | ~64 |
 | A Woman Scorned | 24.00% | ~43 |
 | Chameleon | 21.00% | ~37 |
 | Highlander | 20.00% | ~36 |

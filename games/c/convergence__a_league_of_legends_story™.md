@@ -10,6 +10,7 @@
 | Cartographer | 6.00% | ~39 |
 | Time Heals All Wounds | 6.00% | ~39 |
 | The Mysterious Stranger | 5.00% | ~32 |
+| The Betrayer | 5.00% | ~32 |
 | Rail Rat | 5.00% | ~32 |
 | No, Thanks! | 5.00% | ~32 |
 | Breaking Down Barriers | 5.00% | ~32 |
@@ -19,7 +20,6 @@
 | Like Clockwork | 4.00% | ~26 |
 | Street Style | 4.00% | ~26 |
 | Family Memories | 4.00% | ~26 |
-| The Betrayer | 4.00% | ~26 |
 | The Man Who Shattered Time | 4.00% | ~26 |
 | The Loose Cannon | 4.00% | ~26 |
 | Time Flies | 4.00% | ~26 |

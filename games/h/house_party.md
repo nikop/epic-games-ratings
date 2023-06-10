@@ -15,7 +15,7 @@ Number of Ratings: 177  (23.09.2022)
 | Relentless | 1.00% | ~55 |
 | If at First You Don't Succeed... | 1.00% | ~55 |
 | Drunk and Disorderly: Stephanie | 0.70% | ~38 |
-| IRL Let's Player | 0.50% | ~27 |
+| IRL Let's Player | 0.50% | ~28 |
 | Drunk and Disorderly: Ashley | 0.40% | ~22 |
 | Inspector | 0.40% | ~22 |
 | Newcomer: Vickie | 0.40% | ~22 |
@@ -38,45 +38,45 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Derek | 0.20% | ~11 |
 | Good Ol' Days | 0.20% | ~11 |
 | Te Amo Lety | 0.20% | ~11 |
-| Against All Odds | 0.10% | ~5 |
-| Ashley | 0.10% | ~5 |
-| Beyond the Call of Dude-y | 0.10% | ~5 |
-| The Bride | 0.10% | ~5 |
-| Casabrova | 0.10% | ~5 |
+| Against All Odds | 0.10% | ~6 |
+| Ashley | 0.10% | ~6 |
+| Beyond the Call of Dude-y | 0.10% | ~6 |
+| The Bride | 0.10% | ~6 |
+| Casabrova | 0.10% | ~6 |
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |
 | Deck the Balls | 0.10% | ~3 |
-| Drunk and Disorderly: Madison | 0.10% | ~5 |
-| Do Not Burn | 0.10% | ~5 |
+| Drunk and Disorderly: Madison | 0.10% | ~6 |
+| Do Not Burn | 0.10% | ~6 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.10% | ~3 |
-| Duck n' Weave | 0.10% | ~5 |
-| First Impressions | 0.10% | ~5 |
-| Good Riddance! | 0.10% | ~5 |
-| I Know Grump-Fu | 0.10% | ~5 |
-| The Harder They Fall...Dood | 0.10% | ~5 |
-| Hijinks Averted | 0.10% | ~5 |
-| Host Hijinks | 0.10% | ~5 |
+| Duck n' Weave | 0.10% | ~6 |
+| First Impressions | 0.10% | ~6 |
+| Good Riddance! | 0.10% | ~6 |
+| I Know Grump-Fu | 0.10% | ~6 |
+| The Harder They Fall...Dood | 0.10% | ~6 |
+| Hijinks Averted | 0.10% | ~6 |
+| Host Hijinks | 0.10% | ~6 |
 | Hungry Hungry Hot Tubs | 0.10% | ~3 |
-| Ice Bath | 0.10% | ~5 |
-| Money Shot | 0.10% | ~5 |
-| Notice Me, Sensei | 0.10% | ~5 |
-| Rule 34 | 0.10% | ~5 |
-| Party Pooper | 0.10% | ~5 |
-| Ronin | 0.10% | ~5 |
-| Do You Smell Blood? | 0.10% | ~5 |
-| A Striking Resemblance | 0.10% | ~5 |
-| Howz It Goin Dood | 0.10% | ~5 |
-| The Crush(es) | 0.10% | ~5 |
-| La Coochadora | 0.10% | ~5 |
-| Derezzed | 0.10% | ~5 |
-| The Elder Brahs | 0.10% | ~5 |
-| Simple Geometry | 0.10% | ~5 |
-| Snapped | 0.10% | ~5 |
+| Ice Bath | 0.10% | ~6 |
+| Money Shot | 0.10% | ~6 |
+| Notice Me, Sensei | 0.10% | ~6 |
+| Rule 34 | 0.10% | ~6 |
+| Party Pooper | 0.10% | ~6 |
+| Ronin | 0.10% | ~6 |
+| Do You Smell Blood? | 0.10% | ~6 |
+| A Striking Resemblance | 0.10% | ~6 |
+| Howz It Goin Dood | 0.10% | ~6 |
+| The Crush(es) | 0.10% | ~6 |
+| La Coochadora | 0.10% | ~6 |
+| Derezzed | 0.10% | ~6 |
+| The Elder Brahs | 0.10% | ~6 |
+| Simple Geometry | 0.10% | ~6 |
+| Snapped | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |
 | Sucker Punch | 0.00% | ~0 |
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,498 (Ranked 126)  
+Progressed: 5,500 (Ranked 126)  
 Completed: 3 (0.05%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 3 (0.05%) (Ranked 182)
 | 2023-06-07 | 5,438 | 3 |
 | 2023-06-08 | 5,462 | 3 |
 | 2023-06-09 | 5,480 | 3 |
-| 2023-06-10 | 5,498 | 3 |
+| 2023-06-10 | 5,500 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

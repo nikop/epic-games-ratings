@@ -30,7 +30,7 @@ Number of Ratings: 56  (23.09.2022)
 | where is the stage? | 11.00% | ~1,112 |
 | maximum attack | 11.00% | ~1,112 |
 | espresso | 10.00% | ~1,011 |
-| parallel universe | 9.00% | ~910 |
+| parallel universe | 10.00% | ~1,011 |
 | samir | 8.00% | ~809 |
 | eurobeat | 7.00% | ~708 |
 | master of rally | 7.00% | ~708 |

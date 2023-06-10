@@ -12,8 +12,8 @@ Number of Ratings: 34  (23.09.2022)
 | Eat Lead! | 46.00% | ~154 |
 | Prospector | 42.00% | ~141 |
 | Here Comes the Boom | 42.00% | ~141 |
+| The Breaking Point | 41.00% | ~137 |
 | Treasure Hunter | 40.00% | ~134 |
-| The Breaking Point | 40.00% | ~134 |
 | Sniper Wolf | 36.00% | ~121 |
 | The Motivation | 35.00% | ~117 |
 | Missing in Action | 35.00% | ~117 |
@@ -23,7 +23,7 @@ Number of Ratings: 34  (23.09.2022)
 | Consequences | 29.00% | ~97 |
 | Opportunities | 27.00% | ~90 |
 | The Horror | 25.00% | ~84 |
-| Collectibles of Chapter II | 23.00% | ~77 |
+| Collectibles of Chapter II | 24.00% | ~80 |
 | The Difference | 22.00% | ~74 |
 | Vengeance | 21.00% | ~70 |
 | It's Just an Accident | 21.00% | ~70 |

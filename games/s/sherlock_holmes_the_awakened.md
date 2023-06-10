@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 62.00% | ~262 |
 | Read Between The Lines | 61.00% | ~257 |
-| High Profile | 54.00% | ~228 |
+| High Profile | 55.00% | ~232 |
 | Whispers In The Dark | 53.00% | ~224 |
 | Fond Memories | 49.00% | ~207 |
+| A Method To His Madness | 47.00% | ~198 |
 | History Check | 46.00% | ~194 |
-| A Method To His Madness | 46.00% | ~194 |
+| Lock, Stock, And Barrel | 43.00% | ~181 |
 | The New World | 43.00% | ~181 |
-| Lock, Stock, And Barrel | 42.00% | ~177 |
-| Gaze Into The Abyss | 41.00% | ~173 |
+| Gaze Into The Abyss | 42.00% | ~177 |
 | Open Sesame | 41.00% | ~173 |
 | Sticky Fingers | 41.00% | ~173 |
 | Knives Out | 41.00% | ~173 |
@@ -21,11 +21,11 @@
 | Land, Ho! | 40.00% | ~169 |
 | No Man Is An Island | 39.00% | ~165 |
 | At Wits' End | 37.00% | ~156 |
+| Fhtagn! | 36.00% | ~152 |
+| Going Once... | 35.00% | ~148 |
 | Bookworm | 35.00% | ~148 |
 | Up In Flames | 35.00% | ~148 |
-| Fhtagn! | 35.00% | ~148 |
-| Going Once... | 34.00% | ~143 |
-| Let Me Be Frank | 32.00% | ~135 |
+| Let Me Be Frank | 33.00% | ~139 |
 | Brain Food | 31.00% | ~131 |
 | No Stone Unturned | 29.00% | ~122 |
 | Curiosity Killed The Cat | 20.00% | ~84 |

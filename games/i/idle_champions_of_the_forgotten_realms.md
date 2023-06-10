@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,806 |
+| A Brief Tour of the Realms | 2.00% | ~1,807 |
 | Beast Intentions | 1.00% | ~903 |
 | The Cursed Farmer | 1.00% | ~903 |
 | The Mad Wizard | 1.00% | ~903 |
@@ -138,6 +138,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Xanathaaaaaaar! | 0.20% | ~113 |
 | Homecoming | 0.20% | ~181 |
 | Anti-Dexterous Explorers | 0.20% | ~181 |
+| Struggling Toward Omu | 0.20% | ~181 |
 | The Lost Heir of Omu | 0.20% | ~181 |
 | Not Very Charming | 0.20% | ~181 |
 | Lobsterfolk Assault | 0.20% | ~181 |
@@ -319,7 +320,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Speeds of Destruction | 0.10% | ~57 |
 | Flapjacks and Waffles | 0.10% | ~57 |
 | A Whale of a Time | 0.10% | ~57 |
-| Struggling Toward Omu | 0.10% | ~90 |
 | Wagon Train | 0.10% | ~90 |
 | Taking Responsibility | 0.10% | ~90 |
 | Between a Brigganock and a Hard Place | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,323 (Ranked 64)  
+Progressed: 90,326 (Ranked 64)  
 Completed: 1,926 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,7 +551,7 @@ Completed: 1,926 (2.13%) (Ranked 66)
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
-| 2023-06-10 | 90,323 | 1,926 |
+| 2023-06-10 | 90,326 | 1,926 |
 ## Awards
 Max (Diverse Characters): 4,925  (Ranked 64)  
 Sum: 30,070 (Ranked 37)  

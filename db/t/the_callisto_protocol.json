@@ -584,9 +584,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14921,
+  "EOS_Progressed": 14926,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3414,6 +3414,11 @@
       "Time": "2023-06-10T13:07:13.2009522+00:00",
       "NumProgressed": 14921,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-10T14:04:35.9369799+00:00",
+      "NumProgressed": 14926,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3441,7 +3446,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3457,7 +3462,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3489,7 +3494,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -3521,7 +3526,7 @@
       "Name": "Parole Denied",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -3529,7 +3534,7 @@
       "Name": "Get a Grip",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3537,7 +3542,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "KILL_2HEAD",
@@ -3601,7 +3606,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3609,7 +3614,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -3633,7 +3638,7 @@
       "Name": "Without A Paddle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "STORY_HANGAR",
@@ -3713,7 +3718,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -3721,7 +3726,7 @@
       "Name": "Hoard Mode",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -3744,13 +3749,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14921,
+      "Progressed": 14926,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2847,
+      "Progressed": 2852,
       "Completed": 29
     }
   ],
@@ -3758,8 +3763,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-09T13:57:54.3107791+00:00",
-  "LastChanged_Achievements": "2023-06-10T13:07:13.2009517+00:00",
+  "LastChanged_Achievements": "2023-06-10T14:04:35.9369793+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:00:51.5826195+00:00",
-  "LastUpdate_Achievements": "2023-06-10T13:07:13.2010057+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:58:06.9402341+00:00",
+  "LastUpdate_Achievements": "2023-06-10T14:04:35.937017+00:00"
 }

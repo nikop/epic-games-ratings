@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1638,
+  "EOS_Progressed": 1639,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1412,6 +1412,11 @@
       "Time": "2023-06-10T11:00:15.334925+00:00",
       "NumProgressed": 1638,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-10T14:01:34.7881126+00:00",
+      "NumProgressed": 1639,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 30,
@@ -1423,7 +1428,7 @@
       "Name": "Become King",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "Collect20Gold",
@@ -1439,7 +1444,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "Collect50MonsterParts",
@@ -1447,7 +1452,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "CollectAllStatues",
@@ -1503,7 +1508,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1583,7 +1588,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "Kill25Frogs",
@@ -1599,7 +1604,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "MeetTheMoles",
@@ -1623,7 +1628,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "RepairSmith",
@@ -1647,7 +1652,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1662,22 +1667,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1638,
+      "Progressed": 1639,
       "Completed": 7
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 279,
-      "Completed": 279
+      "Progressed": 280,
+      "Completed": 280
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-08T02:19:19.7115512+00:00",
-  "LastChanged_Achievements": "2023-06-10T13:03:50.2382227+00:00",
+  "LastChanged_Achievements": "2023-06-10T14:01:34.7881121+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.129082+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:01:20.7762528+00:00",
-  "LastUpdate_Achievements": "2023-06-10T13:03:50.238257+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:58:41.9375901+00:00",
+  "LastUpdate_Achievements": "2023-06-10T14:01:34.7881403+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~91,959 |
-| NATURAL BORN WINNER | 32.00% | ~71,773 |
-| CALLING HOUSTON | 28.00% | ~62,801 |
-| SNEAKY SNEAKY | 22.00% | ~49,344 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~49,344 |
-| GT9STRADALE | 20.00% | ~44,858 |
-| CHALLENGER | 11.00% | ~24,672 |
-| ON A ROLL | 9.00% | ~20,186 |
-| CENTAUR | 8.00% | ~17,943 |
-| FASTER THAN EVER | 8.00% | ~17,943 |
-| CHALLENGE THE WORLD | 7.00% | ~15,700 |
-| PHOTOFINISH | 7.00% | ~15,700 |
+| VANGUARD | 41.00% | ~91,964 |
+| NATURAL BORN WINNER | 32.00% | ~71,777 |
+| CALLING HOUSTON | 28.00% | ~62,805 |
+| SNEAKY SNEAKY | 22.00% | ~49,346 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~49,346 |
+| GT9STRADALE | 20.00% | ~44,860 |
+| CHALLENGER | 11.00% | ~24,673 |
+| ON A ROLL | 9.00% | ~20,187 |
+| CENTAUR | 8.00% | ~17,944 |
+| FASTER THAN EVER | 8.00% | ~17,944 |
+| CHALLENGE THE WORLD | 7.00% | ~15,701 |
+| PHOTOFINISH | 7.00% | ~15,701 |
 | QAREEN | 5.00% | ~11,215 |
 | SHOWOFF | 4.00% | ~8,972 |
 | TAKATORA | 4.00% | ~8,972 |
@@ -28,9 +28,9 @@ Number of Ratings: 274  (23.09.2022)
 | HARDCORE | 1.00% | ~2,243 |
 | ACE | 0.70% | ~1,570 |
 | TACTICIAN | 0.60% | ~1,346 |
-| GTX COMPETIZIONE | 0.50% | ~1,121 |
-| HIDDEN POWER | 0.50% | ~1,121 |
-| TUNING MANIAC | 0.50% | ~1,121 |
+| GTX COMPETIZIONE | 0.50% | ~1,122 |
+| HIDDEN POWER | 0.50% | ~1,122 |
+| TUNING MANIAC | 0.50% | ~1,122 |
 | DRAGOON | 0.40% | ~897 |
 | FLAWLESS | 0.40% | ~897 |
 | BETTER THAN EVER | 0.20% | ~449 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~449 |
 | ENLIGHTENED | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,291 (Ranked 48)  
+Progressed: 224,302 (Ranked 48)  
 Completed: 46 (0.02%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 46 (0.02%) (Ranked 196)
 | 2023-06-07 | 224,067 | 46 |
 | 2023-06-08 | 224,169 | 46 |
 | 2023-06-09 | 224,244 | 46 |
-| 2023-06-10 | 224,291 | 46 |
+| 2023-06-10 | 224,302 | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -33,33 +33,33 @@ Rating: 4.16 (Ranked 852)
 | None the Wiser | 1.00% | ~385 |
 | Shocker | 1.00% | ~385 |
 | Pilgrimage: Novice | 1.00% | ~385 |
-| Forspoken | 0.90% | ~346 |
-| Wildfire | 0.70% | ~269 |
+| Forspoken | 0.90% | ~347 |
+| Wildfire | 0.70% | ~270 |
 | Awakening | 0.60% | ~231 |
 | Realized Potential | 0.60% | ~231 |
-| Explorer: Trailblazer | 0.50% | ~192 |
+| Explorer: Trailblazer | 0.50% | ~193 |
 | Through the Eyes of Another: Seer | 0.40% | ~154 |
-| Archivist | 0.30% | ~115 |
-| Craftsperson | 0.30% | ~115 |
-| Tit for Tat | 0.30% | ~115 |
-| Promises | 0.30% | ~115 |
+| Archivist | 0.30% | ~116 |
+| Craftsperson | 0.30% | ~116 |
+| Tit for Tat | 0.30% | ~116 |
+| Promises | 0.30% | ~116 |
 | Paragon | 0.20% | ~77 |
 | Pilgrimage: Adept | 0.20% | ~77 |
 | Call of the Fount: Beatified | 0.20% | ~77 |
 | I Can Fly! | 0.20% | ~77 |
 | A Roaring Trade | 0.20% | ~77 |
 | Rebirth | 0.20% | ~77 |
-| Abominizer | 0.10% | ~38 |
-| Through the Eyes of Another: Visionary | 0.10% | ~38 |
-| Kit and Caboodle | 0.10% | ~38 |
-| Above and Beyond | 0.10% | ~38 |
-| Happy Snapper | 0.10% | ~38 |
-| Barely There | 0.10% | ~38 |
-| Moves | 0.10% | ~38 |
-| Remembrance | 0.10% | ~38 |
-| Cat Person | 0.10% | ~38 |
+| Abominizer | 0.10% | ~39 |
+| Through the Eyes of Another: Visionary | 0.10% | ~39 |
+| Kit and Caboodle | 0.10% | ~39 |
+| Above and Beyond | 0.10% | ~39 |
+| Happy Snapper | 0.10% | ~39 |
+| Barely There | 0.10% | ~39 |
+| Moves | 0.10% | ~39 |
+| Remembrance | 0.10% | ~39 |
+| Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,499 (Ranked 85)  
+Progressed: 38,501 (Ranked 85)  
 Completed: 2 (0.01%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.01%) (Ranked 203)
 | 2023-06-07 | 38,461 | 2 |
 | 2023-06-08 | 38,472 | 2 |
 | 2023-06-09 | 38,488 | 2 |
-| 2023-06-10 | 38,499 | 2 |
+| 2023-06-10 | 38,501 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

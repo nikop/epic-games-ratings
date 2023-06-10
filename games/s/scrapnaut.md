@@ -12,7 +12,7 @@ Number of Ratings: 38  (23.09.2022)
 | Scrapper | 49.00% | ~124 |
 | Cook | 41.00% | ~104 |
 | Teleport | 40.00% | ~101 |
-| Scrap Master | 38.00% | ~96 |
+| Scrap Master | 39.00% | ~99 |
 | Smelter | 37.00% | ~94 |
 | Electro-Scrap Gatherer | 34.00% | ~86 |
 | Digger | 33.00% | ~83 |
@@ -30,9 +30,9 @@ Number of Ratings: 38  (23.09.2022)
 | Mythical Smelter | 11.00% | ~28 |
 | Fuel | 10.00% | ~25 |
 | Master Of Management | 9.00% | ~23 |
+| Forest Lord | 9.00% | ~23 |
 | Smelting Master | 9.00% | ~23 |
 | Black Gold | 8.00% | ~20 |
-| Forest Lord | 8.00% | ~20 |
 | Traveler | 4.00% | ~10 |
 | Survival Master | 4.00% | ~10 |
 | Forest Killer | 1.00% | ~3 |

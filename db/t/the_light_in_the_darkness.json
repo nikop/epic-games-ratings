@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1590,
+  "EOS_Progressed": 1592,
   "EOS_Completed": 129,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 8.11,
+  "EOS_Completed_Percentage": 8.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2433,6 +2433,11 @@
       "Time": "2023-06-10T09:06:22.3617575+00:00",
       "NumProgressed": 1590,
       "NumCompleted": 129
+    },
+    {
+      "Time": "2023-06-10T14:06:35.3002637+00:00",
+      "NumProgressed": 1592,
+      "NumCompleted": 129
     }
   ],
   "TotalAchievements": 12,
@@ -2468,7 +2473,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Jacques a Dit",
@@ -2476,7 +2481,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "Jakob",
@@ -2539,7 +2544,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1590,
+      "Progressed": 1592,
       "Completed": 129
     }
   ],
@@ -2547,8 +2552,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-10T13:08:57.8047991+00:00",
+  "LastChanged_Achievements": "2023-06-10T14:06:35.3002631+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:00.0693666+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:02:36.6314601+00:00",
-  "LastUpdate_Achievements": "2023-06-10T13:08:57.8048262+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:00:09.0436924+00:00",
+  "LastUpdate_Achievements": "2023-06-10T14:06:35.3002829+00:00"
 }

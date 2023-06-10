@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1250,
+  "EOS_Progressed": 1251,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -805,6 +805,11 @@
       "Time": "2023-06-10T13:09:01.4594309+00:00",
       "NumProgressed": 1250,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-10T14:06:39.0962083+00:00",
+      "NumProgressed": 1251,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -880,7 +885,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1006,9 +1011,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1032,7 +1037,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "completedStory_cvawn",
@@ -1040,7 +1045,7 @@
       "Name": "In Soil, In Smoke",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "completedStory_ecthis",
@@ -1104,7 +1109,7 @@
       "Name": "Wingknight\u0027s Prowess",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ecthis_all5PlotCharacters",
@@ -1112,7 +1117,7 @@
       "Name": "All My Birds, Safely Home",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -1136,7 +1141,7 @@
       "Name": "Turncoat",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
@@ -1168,7 +1173,7 @@
       "Name": "Solid as the Hills",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "theme_gem_stunt100Times",
@@ -1200,7 +1205,7 @@
       "Name": "Symbiosis",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "theme_skeleton_terrify10Enemies",
@@ -1208,7 +1213,7 @@
       "Name": "I\u0027m Not Smiling",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "theme_star_kill20EnemiesWithFallingStars",
@@ -1232,7 +1237,7 @@
       "Name": "Thwack!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "theme_vine_poison50Enemies",
@@ -1240,7 +1245,7 @@
       "Name": "A Temperamental Shrub",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "theme_wolf_killEveryEnemyType",
@@ -1263,15 +1268,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1250,
+      "Progressed": 1251,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-10T13:09:01.4594305+00:00",
+  "LastChanged_Achievements": "2023-06-10T14:06:39.0962078+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.528783+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:03:40.6448344+00:00",
-  "LastUpdate_Achievements": "2023-06-10T13:09:01.4594768+00:00"
+  "LastUpdate_Ratings": "2023-06-10T14:01:21.9590903+00:00",
+  "LastUpdate_Achievements": "2023-06-10T14:06:39.0962473+00:00"
 }

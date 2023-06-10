@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6564,
+  "EOS_Progressed": 6566,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1718,6 +1718,11 @@
       "Time": "2023-06-10T13:08:58.4446674+00:00",
       "NumProgressed": 6564,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-10T14:06:35.8127741+00:00",
+      "NumProgressed": 6566,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -1737,7 +1742,7 @@
       "Name": "Daylight Found",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -1745,7 +1750,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -1761,7 +1766,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -1777,7 +1782,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -1785,7 +1790,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -1793,7 +1798,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -1801,7 +1806,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -1841,7 +1846,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -1865,7 +1870,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -1873,7 +1878,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -1881,7 +1886,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3676
+      "UsersEstimate": 3677
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -1937,22 +1942,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6564,
+      "Progressed": 6566,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-10T13:08:58.4446668+00:00",
+  "LastChanged_Achievements": "2023-06-10T14:06:35.8127736+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:33.0422041+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:00:22.6064607+00:00",
-  "LastUpdate_Achievements": "2023-06-10T13:08:58.4446956+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:57:34.5367618+00:00",
+  "LastUpdate_Achievements": "2023-06-10T14:06:35.8127955+00:00"
 }

@@ -26,18 +26,18 @@
 | Oh My Gourd | 11.00% | ~6 |
 | Summers Here | 11.00% | ~6 |
 | Skin Of Your Teeth | 9.00% | ~9 |
+| Eggtraordinary | 8.00% | ~8 |
 | Perfect | 8.00% | ~4 |
 | Expert Survivor | 8.00% | ~4 |
 | Pyromaniac | 8.00% | ~4 |
 | Quit Horsin' Around | 7.00% | ~7 |
-| Eggtraordinary | 7.00% | ~7 |
 | Quadsparagus | 7.00% | ~4 |
 | Carrocketeer | 6.00% | ~6 |
 | Master Survivor | 6.00% | ~3 |
 | Bring Home The Bacon | 5.00% | ~5 |
+| Getting Started | 5.00% | ~5 |
 | Pork Chop Express | 5.00% | ~5 |
 | Fresh Pancake | 4.00% | ~4 |
-| Getting Started | 4.00% | ~4 |
 | Heart Breaker | 4.00% | ~2 |
 | Chick Magnet | 3.00% | ~3 |
 | Easy Peasy | 3.00% | ~2 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -606,9 +606,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -694,9 +694,9 @@
       "ID": "ACH_CUT_50_TREES",
       "SetID": "7c4cldc",
       "Name": "Forest Lord",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_FIND_10_TREASURES",
@@ -831,8 +831,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-10T13:08:51.831811+00:00",
+  "LastChanged_Achievements": "2023-06-10T14:06:29.5352235+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.5979411+00:00",
-  "LastUpdate_Ratings": "2023-06-10T13:01:28.3149032+00:00",
-  "LastUpdate_Achievements": "2023-06-10T13:08:51.8318349+00:00"
+  "LastUpdate_Ratings": "2023-06-10T13:58:50.1557563+00:00",
+  "LastUpdate_Achievements": "2023-06-10T14:06:29.5352441+00:00"
 }
