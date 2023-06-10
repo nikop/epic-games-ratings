@@ -9,9 +9,9 @@ Rating: 4.09 (Ranked 879)
 | Totally Intentional | 44.00% | ~1,506 |
 | Each Sold Separately | 36.00% | ~1,232 |
 | We're In | 32.00% | ~1,095 |
+| Tale in the Toilet | 29.00% | ~993 |
 | You're Not Naked | 28.00% | ~958 |
 | From Zeroes... | 28.00% | ~958 |
-| Tale in the Toilet | 28.00% | ~958 |
 | Don't Get Cocky | 26.00% | ~890 |
 | Shard Snatchers | 24.00% | ~822 |
 | You Rich Now! | 22.00% | ~753 |
@@ -33,7 +33,7 @@ Rating: 4.09 (Ranked 879)
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,423 (Ranked 137)  
-Completed: 0 (0.00%) (Ranked 213)  
+Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

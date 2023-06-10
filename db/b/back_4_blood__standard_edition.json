@@ -2,13 +2,13 @@
   "ID": "57dfd95548214a138218e56cd9e5b9d8",
   "Name": "Back 4 Blood: Standard Edition",
   "ProductSlug": "back-4-blood",
-  "Ranking_Rating": 592,
+  "Ranking_Rating": 604,
   "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 441,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-12T15:00:00+00:00",
     "PcReleaseDate": "2021-10-12T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.46,
   "NumberOfRatings": 2790,
   "RatingHistory": [
     {
@@ -3435,6 +3435,12 @@
       "Rating": 4.47,
       "NumberOfAwards": 7381,
       "NumberOfAwardsMax": 3347
+    },
+    {
+      "Time": "2023-06-10T15:58:17.8678738+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 7381,
+      "NumberOfAwardsMax": 3347
     }
   ],
   "ReviewsDisabled": false,
@@ -3502,8 +3508,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2023-06-10T02:59:49.3310147+00:00",
+  "LastChanged": "2023-06-10T15:58:17.8678736+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:12.9408626+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:58:10.4686654+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:01:37.4809106+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:58:17.8678741+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:02:18.095855+00:00"
 }

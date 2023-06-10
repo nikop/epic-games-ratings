@@ -5,17 +5,17 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~734 |
-| Confirming Suspicions | 23.00% | ~582 |
-| The Kraken Wakes | 19.00% | ~481 |
-| It's Starting to Crack | 17.00% | ~430 |
-| Lord of War | 14.00% | ~354 |
-| Change the Channel | 14.00% | ~354 |
-| Resourceful | 13.00% | ~329 |
-| Taking it back | 12.00% | ~304 |
-| Organ Grinder | 10.00% | ~253 |
-| As Quiet as a Mouse | 10.00% | ~253 |
-| Target America | 10.00% | ~253 |
+| Meeting Resistance | 29.00% | ~736 |
+| Confirming Suspicions | 24.00% | ~609 |
+| The Kraken Wakes | 19.00% | ~482 |
+| It's Starting to Crack | 17.00% | ~431 |
+| Lord of War | 14.00% | ~355 |
+| Change the Channel | 14.00% | ~355 |
+| Resourceful | 13.00% | ~330 |
+| Taking it back | 12.00% | ~305 |
+| Organ Grinder | 10.00% | ~254 |
+| As Quiet as a Mouse | 10.00% | ~254 |
+| Target America | 10.00% | ~254 |
 | The Kraken Sleeps | 9.00% | ~228 |
 | Liberté | 8.00% | ~203 |
 | Enemy at the Gates | 8.00% | ~203 |
@@ -23,7 +23,7 @@ Rating: 4.51 (Ranked 528)
 | Gunslinger | 8.00% | ~203 |
 | Sharpshooter | 8.00% | ~203 |
 | Explosive Efficiency | 8.00% | ~203 |
-| Opposing Force | 7.00% | ~177 |
+| Opposing Force | 7.00% | ~178 |
 | Die Nussknacker Sweet! | 6.00% | ~152 |
 | Der Geist | 6.00% | ~152 |
 | Close Quarters | 6.00% | ~152 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 528)
 | Fields of Glory | 5.00% | ~127 |
 | Skirmisher | 5.00% | ~127 |
 | Set Europe Ablaze | 5.00% | ~127 |
-| Precision Is Key | 4.00% | ~101 |
+| Precision Is Key | 4.00% | ~102 |
 | Rigged to Blow | 3.00% | ~76 |
 | The Long Game | 2.00% | ~51 |
 | My Little Friend | 2.00% | ~51 |
@@ -57,18 +57,18 @@ Rating: 4.51 (Ranked 528)
 | If You Go Down To The Woods Today | 0.50% | ~12 |
 | Fight Another Day | 0.50% | ~12 |
 | Eagle Eyed | 0.40% | ~10 |
-| Can't Outrun A Bullet | 0.30% | ~8 |
+| Can't Outrun A Bullet | 0.40% | ~10 |
 | Reich To The Point | 0.30% | ~7 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~5 |
 | Out of Scope | 0.20% | ~5 |
 | Sight Beyond Sights | 0.20% | ~5 |
+| Führerious Repetition | 0.20% | ~5 |
 | Covert Elimination | 0.20% | ~5 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
-| Führerious Repetition | 0.10% | ~2 |
 | From Führer Away | 0.10% | ~2 |
 | Alpha | 0.10% | ~2 |
 | Das Familienjuwel | 0.10% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,532 (Ranked 147)  
+Progressed: 2,538 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
-| 2023-06-10 | 2,532 | 2 |
+| 2023-06-10 | 2,538 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

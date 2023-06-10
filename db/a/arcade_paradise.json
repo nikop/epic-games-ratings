@@ -2,13 +2,13 @@
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
-  "Ranking_Rating": 423,
+  "Ranking_Rating": 422,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 196,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 624,
+  "EOS_Progressed": 625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -333,6 +333,11 @@
       "Time": "2023-06-09T22:11:20.8326203+00:00",
       "NumProgressed": 624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T16:07:12.2405127+00:00",
+      "NumProgressed": 625,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -392,7 +397,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "AhoyTrophy",
@@ -400,7 +405,7 @@
       "Name": "Ahoy Hoy",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "AlienTrophy",
@@ -416,7 +421,7 @@
       "Name": "Goal",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -488,7 +493,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "Ext4Trophy",
@@ -520,7 +525,7 @@
       "Name": "Machine Maxed",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "GoldGuyTrophy",
@@ -622,9 +627,9 @@
       "ID": "MachineTrophy",
       "SetID": "32aeje8",
       "Name": "I can\u0027t wait!",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 518
+      "UsersEstimate": 512
     },
     {
       "ID": "MaxPriceTrophy",
@@ -632,7 +637,7 @@
       "Name": "Jimmy Goldman Would be Proud",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "MergeBallsTrophy",
@@ -704,7 +709,7 @@
       "Name": "You Spin Me Round",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "SwishTrophy",
@@ -712,7 +717,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "TerrorTrophy",
@@ -775,7 +780,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 624,
+      "Progressed": 625,
       "Completed": 0
     }
   ],
@@ -783,8 +788,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:06:35.284481+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:07:12.2405124+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:26.3217944+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:58:24.3296149+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:06:35.284521+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:58:31.8155167+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:07:12.2405533+00:00"
 }

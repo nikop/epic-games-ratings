@@ -6,22 +6,22 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,688 |
-| Un-Lonely Island | 48.00% | ~1,698 |
-| The Beginning of a Servantship | 45.00% | ~1,592 |
+| Just One...More...Term... | 76.00% | ~2,690 |
+| Un-Lonely Island | 48.00% | ~1,699 |
+| The Beginning of a Servantship | 45.00% | ~1,593 |
 | Trade Is My Trait | 37.00% | ~1,309 |
-| Number 18 | 25.00% | ~884 |
-| We Don't Have Time For That | 20.00% | ~707 |
+| Number 18 | 25.00% | ~885 |
+| We Don't Have Time For That | 20.00% | ~708 |
 | The Governator | 18.00% | ~637 |
-| Caribbean Comrade | 17.00% | ~601 |
-| The Legend of Langostino | 17.00% | ~601 |
+| Caribbean Comrade | 17.00% | ~602 |
+| The Legend of Langostino | 17.00% | ~602 |
 | The Dreamer of Dreams | 16.00% | ~566 |
 | Happy Ending? | 11.00% | ~389 |
 | Go Sovereigns! | 11.00% | ~389 |
 | For Science! | 11.00% | ~389 |
 | Of Seals And Men | 10.00% | ~354 |
 | Shackadelic | 10.00% | ~354 |
-| Double Trouble | 9.00% | ~318 |
+| Double Trouble | 9.00% | ~319 |
 | Firestarter | 8.00% | ~283 |
 | Make Tropico Great Again! | 8.00% | ~283 |
 | French Connection | 8.00% | ~283 |
@@ -32,7 +32,7 @@ Number of Ratings: 398  (23.09.2022)
 | Watch The World Burn | 6.00% | ~212 |
 | Fairy Tale Come True | 6.00% | ~212 |
 | Viva Tropico! | 5.00% | ~177 |
-| Apocalypso | 4.00% | ~141 |
+| Apocalypso | 4.00% | ~142 |
 | Been there, Done That | 3.00% | ~106 |
 | Narcissist | 3.00% | ~106 |
 | Promising Endeavors | 3.00% | ~106 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~32 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,537 (Ranked 134)  
+Progressed: 3,539 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.03%) (Ranked 190)
 | 2023-06-07 | 3,467 | 1 |
 | 2023-06-08 | 3,491 | 1 |
 | 2023-06-09 | 3,519 | 1 |
-| 2023-06-10 | 3,537 | 1 |
+| 2023-06-10 | 3,539 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 318)  
 Sum: 758 (Ranked 256)  

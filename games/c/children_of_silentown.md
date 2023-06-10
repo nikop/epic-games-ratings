@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Lucky charm | 92.00% | ~151 |
 | Trumpet | 88.00% | ~144 |
-| Spyglass | 83.00% | ~136 |
+| Spyglass | 84.00% | ~138 |
 | Broken toy | 77.00% | ~126 |
 | Egghead Lucy | 76.00% | ~125 |
 | Puppy | 62.00% | ~102 |
 | Coal's fur | 59.00% | ~97 |
-| Blue's drawing | 53.00% | ~87 |
+| Blue's drawing | 54.00% | ~89 |
 | Mysterious footprints | 46.00% | ~75 |
-| Glass shards | 44.00% | ~72 |
+| Glass shards | 45.00% | ~74 |
 | Complicated padlock | 43.00% | ~71 |
 | Big metal ruler | 41.00% | ~67 |
 | Doll | 36.00% | ~59 |
@@ -32,7 +32,7 @@
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 164 (Ranked 259)  
-Completed: 0 (0.00%) (Ranked 213)  
+Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

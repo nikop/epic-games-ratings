@@ -6,9 +6,9 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2558,
+  "EOS_Progressed": 2560,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2488,6 +2488,11 @@
       "Time": "2023-06-10T15:06:25.822493+00:00",
       "NumProgressed": 2558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T16:07:03.071846+00:00",
+      "NumProgressed": 2560,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2579,7 +2584,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_BASE_21",
@@ -2587,7 +2592,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH_BASE_22",
@@ -2691,7 +2696,7 @@
       "Name": "Fully Recycled",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_BASE_34",
@@ -2707,7 +2712,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_BASE_36",
@@ -2875,7 +2880,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_BASE_6",
@@ -2883,7 +2888,7 @@
       "Name": "Hope Seeker",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_BASE_60",
@@ -2954,13 +2959,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 739,
+      "Progressed": 741,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2558,
+      "Progressed": 2560,
       "Completed": 0
     }
   ],
@@ -2968,8 +2973,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-08T14:58:30.2723664+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:06:25.8224926+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:07:03.0718453+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:44.0613417+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:58:42.2849546+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:06:25.8225482+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:58:49.2498216+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:07:03.0719014+00:00"
 }

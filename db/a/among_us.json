@@ -2,13 +2,13 @@
   "ID": "33956bcb55d4452d8c47e16b94e294bd",
   "Name": "Among Us",
   "ProductSlug": "among-us",
-  "Ranking_Rating": 423,
+  "Ranking_Rating": 422,
   "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 441,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-12-18T17:00:00+00:00",
     "PcReleaseDate": "2018-06-15T14:36:00+00:00",
@@ -5188,18 +5188,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 22339,
       "NumberOfAwardsMax": 2451
+    },
+    {
+      "Time": "2023-06-10T15:58:52.0212443+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 22344,
+      "NumberOfAwardsMax": 2456
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22339,
-  "NumberOfAwardsMax": 2451,
+  "NumberOfAwards": 22344,
+  "NumberOfAwardsMax": 2456,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2451
+      "Count": 2456
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -5279,8 +5285,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2023-06-10T13:58:51.9952768+00:00",
+  "LastChanged": "2023-06-10T15:58:52.0212441+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:47.135241+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:58:45.0501181+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:02:31.0044215+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:58:52.021245+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:03:23.4078088+00:00"
 }

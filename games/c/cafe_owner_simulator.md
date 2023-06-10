@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| BUSINESS OWNER | 98.00% | ~611 |
-| CLEANER | 94.00% | ~586 |
-| OH NO, HE'S LEAVING! | 75.00% | ~467 |
-| FIREFIGHTER | 53.00% | ~330 |
+| BUSINESS OWNER | 98.00% | ~612 |
+| CLEANER | 94.00% | ~587 |
+| OH NO, HE'S LEAVING! | 75.00% | ~468 |
+| FIREFIGHTER | 53.00% | ~331 |
 | ADVANCED | 38.00% | ~237 |
 | CHIEF | 18.00% | ~112 |
 | SECOND_FLOOR | 11.00% | ~69 |
@@ -19,8 +19,8 @@
 | 500K$. | 1.00% | ~6 |
 | INTRODUCTION | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 623 (Ranked 197)  
-Completed: 0 (0.00%) (Ranked 213)  
+Progressed: 624 (Ranked 197)  
+Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 590 | 0 |
 | 2023-06-08 | 605 | 0 |
 | 2023-06-09 | 615 | 0 |
-| 2023-06-10 | 623 | 0 |
+| 2023-06-10 | 624 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

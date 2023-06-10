@@ -3,9 +3,9 @@
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 359,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -280,9 +280,9 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "7pimpda",
       "Name": "Boss challenge",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -457,8 +457,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:06:16.0929097+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:06:53.2622519+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:08.1623296+00:00",
-  "LastUpdate_Ratings": "2023-06-10T15:00:08.2889223+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:06:16.0929402+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:00:16.7746074+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:06:53.2622829+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 25.00% | ~145 |
-| Taste | 24.00% | ~139 |
+| Imprint | 25.00% | ~146 |
+| Taste | 24.00% | ~140 |
 | Ravenous | 22.00% | ~128 |
 | The Hunt | 21.00% | ~122 |
-| Weeper | 19.00% | ~110 |
+| Weeper | 19.00% | ~111 |
 | Devourer | 15.00% | ~87 |
 | Harmless | 13.00% | ~76 |
 | Silenced Whispers | 13.00% | ~76 |
@@ -23,20 +23,20 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 10.00% | ~58 |
 | Shapely | 9.00% | ~52 |
 | Jawstag | 9.00% | ~52 |
-| Celebration | 8.00% | ~46 |
-| Watcher | 8.00% | ~46 |
+| Celebration | 8.00% | ~47 |
+| Watcher | 8.00% | ~47 |
 | Inevitable | 7.00% | ~41 |
 | Predator | 7.00% | ~41 |
-| Dream | 7.00% | ~11 |
+| Dream | 7.00% | ~12 |
 | Assimilation | 6.00% | ~35 |
 | Hunt Down | 6.00% | ~35 |
 | Artisan | 6.00% | ~35 |
 | Hush | 6.00% | ~35 |
 | All-Seeing | 6.00% | ~35 |
-| Kin | 6.00% | ~10 |
 | Kinship | 5.00% | ~29 |
 | Unwrap the Gift | 5.00% | ~29 |
 | Passage | 5.00% | ~29 |
+| Kin | 5.00% | ~8 |
 | Breathsmith | 4.00% | ~23 |
 | Proportions | 4.00% | ~23 |
 | Bloodhunter | 3.00% | ~17 |
@@ -49,8 +49,8 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.90% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 581 (Ranked 198)  
-Completed: 0 (0.00%) (Ranked 213)  
+Progressed: 582 (Ranked 198)  
+Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-06 | 574 | 0 |
 | 2023-06-07 | 576 | 0 |
 | 2023-06-08 | 579 | 0 |
-| 2023-06-10 | 581 | 0 |
+| 2023-06-10 | 582 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

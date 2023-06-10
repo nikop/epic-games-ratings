@@ -1,28 +1,28 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.58 (Ranked 423)  
+Rating: 4.58 (Ranked 422)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~599 |
-| Fetch Quest Complete | 91.00% | ~568 |
-| I can't wait! | 83.00% | ~518 |
-| Swish | 56.00% | ~349 |
+| Pushing a pull door | 96.00% | ~600 |
+| Fetch Quest Complete | 91.00% | ~569 |
+| I can't wait! | 82.00% | ~512 |
+| Swish | 56.00% | ~350 |
 | Clean up on Aisle 9 | 40.00% | ~250 |
-| Machine Maxed | 30.00% | ~187 |
+| Machine Maxed | 30.00% | ~188 |
 | Bug Fixer | 25.00% | ~156 |
 | Gerald of Riviera | 25.00% | ~156 |
 | Existential dread | 24.00% | ~150 |
-| Goal | 22.00% | ~137 |
+| Goal | 22.00% | ~138 |
 | I ran the numbers | 15.00% | ~94 |
 | Taking the plunge | 13.00% | ~81 |
 | Hidden Packages | 11.00% | ~69 |
 | GOOOAAAL | 9.00% | ~56 |
 | New Kid on the Block | 7.00% | ~44 |
-| Ahoy Hoy | 6.00% | ~37 |
-| Jimmy Goldman Would be Proud | 6.00% | ~37 |
-| You Spin Me Round | 6.00% | ~37 |
+| Ahoy Hoy | 6.00% | ~38 |
+| Jimmy Goldman Would be Proud | 6.00% | ~38 |
+| You Spin Me Round | 6.00% | ~38 |
 | Bombscare | 5.00% | ~31 |
 | Rhythm is a dancer | 5.00% | ~31 |
 | Your Bloody Valentine | 5.00% | ~31 |
@@ -60,8 +60,8 @@ Rating: 4.58 (Ranked 423)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 624 (Ranked 196)  
-Completed: 0 (0.00%) (Ranked 213)  
+Progressed: 625 (Ranked 196)  
+Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 619 | 0 |
 | 2023-06-08 | 620 | 0 |
 | 2023-06-09 | 624 | 0 |
+| 2023-06-10 | 625 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

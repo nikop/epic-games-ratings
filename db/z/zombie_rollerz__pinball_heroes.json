@@ -3,9 +3,9 @@
   "Name": "Zombie Rollerz: Pinball Heroes",
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 98,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -266,6 +266,11 @@
       "Time": "2023-06-10T04:05:43.1646729+00:00",
       "NumProgressed": 97,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T16:07:22.2234311+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 73,
@@ -275,7 +280,7 @@
       "ID": "CLG_CHAPTER_NODAMAGE",
       "SetID": "89cjc9l",
       "Name": "Untouchable",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -283,7 +288,7 @@
       "ID": "CLG_CHAPTER_NODROPBALL",
       "SetID": "89cjc9l",
       "Name": "1 is all I need",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -291,7 +296,7 @@
       "ID": "CLG_LEVEL_BALLISTASHOT",
       "SetID": "89cjc9l",
       "Name": "Right in the kisser!",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 60
     },
@@ -299,7 +304,7 @@
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
       "UsersEstimate": 81
     },
@@ -325,7 +330,7 @@
       "Name": "Level Up!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -451,7 +456,7 @@
       "ID": "PRG_ACCUM_GOLD",
       "SetID": "89cjc9l",
       "Name": "I\u0027m Rich",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -467,7 +472,7 @@
       "ID": "PRG_BOSS_FLOWER",
       "SetID": "89cjc9l",
       "Name": "The Flower",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -475,7 +480,7 @@
       "ID": "PRG_BOSS_GIANT",
       "SetID": "89cjc9l",
       "Name": "The Giant",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -483,7 +488,7 @@
       "ID": "PRG_BOSS_MAGE",
       "SetID": "89cjc9l",
       "Name": "The Shaman",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 49
     },
@@ -523,7 +528,7 @@
       "ID": "PRG_BOSS_SLIME",
       "SetID": "89cjc9l",
       "Name": "The Slime",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -555,7 +560,7 @@
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 50
     },
@@ -851,16 +856,16 @@
       "ID": "PRG_SP_arcadeFTUX",
       "SetID": "89cjc9l",
       "Name": "Graduation!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 98,
       "Completed": 0
     }
   ],
@@ -868,8 +873,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:06:44.9869419+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:07:22.2234306+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:34.9526626+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:57:32.4383057+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:06:44.9870094+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:57:36.2418631+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:07:22.2235036+00:00"
 }

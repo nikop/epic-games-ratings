@@ -2,13 +2,13 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
   "ProductSlug": "warface",
-  "Ranking_Rating": 915,
+  "Ranking_Rating": 917,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 441,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
     "PcReleaseDate": "2013-10-21T09:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.92,
+  "Rating": 3.91,
   "NumberOfRatings": 3179,
   "RatingHistory": [
     {
@@ -2875,10 +2875,16 @@
       "Rating": 3.92,
       "NumberOfAwards": 3110,
       "NumberOfAwardsMax": 394
+    },
+    {
+      "Time": "2023-06-10T16:00:23.1028319+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 3111,
+      "NumberOfAwardsMax": 394
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3110,
+  "NumberOfAwards": 3111,
   "NumberOfAwardsMax": 394,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2934,7 +2940,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 271
+      "Count": 272
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2960,8 +2966,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-06-10T15:00:15.272191+00:00",
+  "LastChanged": "2023-06-10T16:00:23.1028317+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:13.6775398+00:00",
-  "LastUpdate_Ratings": "2023-06-10T15:00:15.2721915+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:04:14.4427574+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:00:23.1028322+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:04:50.1565037+00:00"
 }

@@ -33,9 +33,9 @@
 | Face Slapper | 55.00% | ~6 |
 | Master Artificer | 45.00% | ~5 |
 | Master Cook | 27.00% | ~3 |
+| Boss challenge | 9.00% | ~1 |
 | Berserker Slayer | 9.00% | ~1 |
 | Rebellious | 0.00% | ~0 |
-| Boss challenge | 0.00% | ~0 |
 | Blade Mantis Challenge | 0.00% | ~0 |
 | Big Face Goalkeeper Challenge | 0.00% | ~0 |
 | Flying Kobold Challenge | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | Warden Challenge | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 359)  
-Completed: 0 (0.00%) (Ranked 213)  
+Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

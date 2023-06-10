@@ -4,11 +4,11 @@
   "ProductSlug": "marvels-midnight-suns",
   "Ranking_Rating": 528,
   "Ranking_Popularity": 125,
-  "Ranking_PopularitySum": 165,
+  "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 441,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-02T05:00:00+00:00",
     "PcReleaseDate": "2022-12-02T05:00:00+00:00",
@@ -1998,18 +1998,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 2623,
       "NumberOfAwardsMax": 1215
+    },
+    {
+      "Time": "2023-06-10T16:01:04.8403902+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2633,
+      "NumberOfAwardsMax": 1222
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2623,
-  "NumberOfAwardsMax": 1215,
+  "NumberOfAwards": 2633,
+  "NumberOfAwardsMax": 1222,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1215
+      "Count": 1222
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2021,7 +2027,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 162
+      "Count": 163
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2039,7 +2045,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 160
+      "Count": 162
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2084,8 +2090,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2023-06-10T10:59:58.7019199+00:00",
+  "LastChanged": "2023-06-10T16:01:04.8403901+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:55.4018604+00:00",
-  "LastUpdate_Ratings": "2023-06-10T15:00:55.7241934+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:01:32.2587374+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:01:04.8403905+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:02:13.5486003+00:00"
 }

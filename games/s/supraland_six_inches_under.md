@@ -50,7 +50,7 @@ Number of Ratings: 209  (23.09.2022)
 | Plumbster | 60.00% | ~1,244 |
 | Faster | 60.00% | ~1,244 |
 | Much Magic | 57.00% | ~1,182 |
-| Chest Detector | 54.00% | ~1,120 |
+| Chest Detector | 55.00% | ~1,141 |
 | Flames | 52.00% | ~1,078 |
 | Momentum | 45.00% | ~933 |
 | You're unsure if you broke the game or not | 42.00% | ~871 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 13.00% | ~270 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,074 (Ranked 152)  
-Completed: 248 (11.96%) (Ranked 14)  
+Completed: 248 (11.96%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

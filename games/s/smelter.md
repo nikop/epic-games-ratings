@@ -11,8 +11,8 @@
 | Deep in the Mounds | 67.00% | ~24 |
 | Smeltastic! | 36.00% | ~13 |
 | Locked Away | 33.00% | ~12 |
+| A Little Renovating | 31.00% | ~11 |
 | Deflect This! | 28.00% | ~10 |
-| A Little Renovating | 28.00% | ~10 |
 | It's a Sign! | 25.00% | ~9 |
 | Just Some Improvements | 22.00% | ~8 |
 | A Little Extra Love | 19.00% | ~7 |
@@ -21,12 +21,12 @@
 | My Precious Gems! | 14.00% | ~5 |
 | Isn't It Beautiful? | 14.00% | ~5 |
 | A Generous Leader | 14.00% | ~5 |
+| An Unexpected Visitor | 14.00% | ~5 |
 | A Terrible Way to Go | 14.00% | ~5 |
 | Dr. Dreinstein III | 11.00% | ~4 |
 | Orcharion Boost | 11.00% | ~4 |
 | Case Closed | 11.00% | ~4 |
 | All Beefed Up | 11.00% | ~4 |
-| An Unexpected Visitor | 11.00% | ~4 |
 | How Do You Like Them Apples? | 11.00% | ~4 |
 | Gotta Collect Them All | 8.00% | ~3 |
 | Keeping Things Tidy | 8.00% | ~3 |

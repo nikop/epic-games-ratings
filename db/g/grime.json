@@ -6,9 +6,9 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 198,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 581,
+  "EOS_Progressed": 582,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -485,6 +485,11 @@
       "Time": "2023-06-10T14:03:17.2216608+00:00",
       "NumProgressed": 581,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T16:03:48.3143296+00:00",
+      "NumProgressed": 582,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -560,7 +565,7 @@
       "Name": "Taste",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -568,7 +573,7 @@
       "Name": "Weeper",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -656,7 +661,7 @@
       "Name": "Celebration",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -680,7 +685,7 @@
       "Name": "Watcher",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -712,7 +717,7 @@
       "Name": "Imprint",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -792,7 +797,7 @@
       "Name": "Dream",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "QUEST_CODA",
@@ -806,9 +811,9 @@
       "ID": "QUEST_KIN",
       "SetID": "72k7oh",
       "Name": "Kin",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "QUEST_LISTENER",
@@ -831,21 +836,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 581,
+      "Progressed": 582,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:03:15.4731924+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:03:48.3143288+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.0328366+00:00",
-  "LastUpdate_Ratings": "2023-06-10T15:00:58.8369825+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:03:15.4732408+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:01:07.4514568+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:03:48.314358+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -2899,9 +2899,9 @@
       "ID": "3",
       "SetID": "dg4cch5",
       "Name": "Jill the Brave",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 93
+      "UsersEstimate": 104
     },
     {
       "ID": "4",
@@ -2932,8 +2932,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:06:03.5347385+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:06:40.3237642+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:13.2761767+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:57:13.3300601+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:06:03.5347582+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:57:17.0274232+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:06:40.3237821+00:00"
 }

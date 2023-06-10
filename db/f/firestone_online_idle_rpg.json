@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1354,
+  "EOS_Progressed": 1355,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2951,6 +2951,11 @@
       "Time": "2023-06-10T15:06:33.135544+00:00",
       "NumProgressed": 1354,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T16:07:10.3220942+00:00",
+      "NumProgressed": 1355,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3258,7 +3263,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "lockandload",
@@ -3296,9 +3301,9 @@
       "ID": "minerclicker",
       "SetID": "3nl4bcg",
       "Name": "Miner Clicker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 203
     },
     {
       "ID": "missionsdedication",
@@ -3362,7 +3367,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "relicofthepast",
@@ -3522,7 +3527,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "warmachinesarmy",
@@ -3554,14 +3559,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1354,
+      "Progressed": 1355,
       "Completed": 1
     }
   ],
@@ -3569,8 +3574,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:06:33.1355436+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:07:10.3220937+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:58:11.0246667+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:06:33.1356179+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:58:18.4147398+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:07:10.3221749+00:00"
 }

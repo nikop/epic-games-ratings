@@ -2,13 +2,13 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 605,
+  "Ranking_Rating": 604,
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -352,7 +352,7 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 936,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -1242,6 +1242,11 @@
       "Time": "2023-06-10T13:09:13.3256337+00:00",
       "NumProgressed": 935,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T16:07:10.6300952+00:00",
+      "NumProgressed": 936,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1253,7 +1258,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -1309,7 +1314,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "EXPERT_1",
@@ -1437,7 +1442,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -1501,7 +1506,7 @@
       "Name": "Superhuman",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "TRAVELER_1",
@@ -1509,7 +1514,7 @@
       "Name": "Traveler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "VVE",
@@ -1517,7 +1522,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "WANDERER_1",
@@ -1540,15 +1545,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 936,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-03T14:00:49.4692031+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:06:33.4670046+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:07:10.6300947+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:40.0771977+00:00",
-  "LastUpdate_Ratings": "2023-06-10T15:00:40.4925152+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:06:33.46703+00:00"
+  "LastUpdate_Ratings": "2023-06-10T16:00:49.4721274+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:07:10.6301206+00:00"
 }

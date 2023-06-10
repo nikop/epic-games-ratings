@@ -5,36 +5,36 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,020 |
-| First Class Student | 8.00% | ~22,240 |
-| Grappling with a Graphorn | 7.00% | ~19,460 |
-| The One Who Mastered Memories | 7.00% | ~19,460 |
-| The Hallowed Hero | 7.00% | ~19,460 |
-| The Hero of Hogwarts | 7.00% | ~19,460 |
-| The Defender of Dragons | 7.00% | ~19,460 |
-| A Keen Sense of Spell | 7.00% | ~19,460 |
-| Coasting Along | 7.00% | ~19,460 |
-| Troll with the Punches | 7.00% | ~19,460 |
-| That's a Keeper | 7.00% | ~19,460 |
-| Challenge Accepted | 6.00% | ~16,680 |
-| Loom for Improvement | 6.00% | ~16,680 |
-| A Talent for Spending | 6.00% | ~16,680 |
-| Followed the Butterflies | 6.00% | ~16,680 |
-| Rising From the Ashes | 6.00% | ~16,680 |
-| The Avenging Gazelle | 5.00% | ~13,900 |
-| Beast Friends | 5.00% | ~13,900 |
-| A Sallow Grave | 5.00% | ~13,900 |
-| Flight the Good Flight | 5.00% | ~13,900 |
-| The Spell Master | 5.00% | ~13,900 |
-| The Seeker of Knowledge | 4.00% | ~11,120 |
-| The Root of the Problem | 4.00% | ~11,120 |
-| Third Time's a Charm | 4.00% | ~11,120 |
-| Raising Expectations | 4.00% | ~11,120 |
-| The Toast of the Town | 3.00% | ~8,340 |
-| Room with a View | 3.00% | ~8,340 |
-| The Intrepid Explorer | 3.00% | ~8,340 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,340 |
-| The Ends Petrify the Means | 3.00% | ~8,340 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,022 |
+| First Class Student | 8.00% | ~22,242 |
+| Grappling with a Graphorn | 7.00% | ~19,462 |
+| The One Who Mastered Memories | 7.00% | ~19,462 |
+| The Hallowed Hero | 7.00% | ~19,462 |
+| The Hero of Hogwarts | 7.00% | ~19,462 |
+| The Defender of Dragons | 7.00% | ~19,462 |
+| A Keen Sense of Spell | 7.00% | ~19,462 |
+| Coasting Along | 7.00% | ~19,462 |
+| Troll with the Punches | 7.00% | ~19,462 |
+| That's a Keeper | 7.00% | ~19,462 |
+| Challenge Accepted | 6.00% | ~16,681 |
+| Loom for Improvement | 6.00% | ~16,681 |
+| A Talent for Spending | 6.00% | ~16,681 |
+| Followed the Butterflies | 6.00% | ~16,681 |
+| Rising From the Ashes | 6.00% | ~16,681 |
+| The Avenging Gazelle | 5.00% | ~13,901 |
+| Beast Friends | 5.00% | ~13,901 |
+| A Sallow Grave | 5.00% | ~13,901 |
+| Flight the Good Flight | 5.00% | ~13,901 |
+| The Spell Master | 5.00% | ~13,901 |
+| The Seeker of Knowledge | 4.00% | ~11,121 |
+| The Root of the Problem | 4.00% | ~11,121 |
+| Third Time's a Charm | 4.00% | ~11,121 |
+| Raising Expectations | 4.00% | ~11,121 |
+| The Toast of the Town | 3.00% | ~8,341 |
+| Room with a View | 3.00% | ~8,341 |
+| The Intrepid Explorer | 3.00% | ~8,341 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,341 |
+| The Ends Petrify the Means | 3.00% | ~8,341 |
 | Going Through the Potions | 2.00% | ~5,560 |
 | Put Down Roots | 2.00% | ~5,560 |
 | The Auror's Apprentice | 2.00% | ~5,560 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.40% | ~1,112 |
 | Collector's Edition | 0.20% | ~556 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 278,004 (Ranked 41)  
+Progressed: 278,022 (Ranked 41)  
 Completed: 396 (0.14%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,10 +102,10 @@ Completed: 396 (0.14%) (Ranked 157)
 | 2023-06-07 | 277,097 | 390 |
 | 2023-06-08 | 277,379 | 391 |
 | 2023-06-09 | 277,741 | 395 |
-| 2023-06-10 | 278,004 | 396 |
+| 2023-06-10 | 278,022 | 396 |
 ## Awards
 Max (Character Customization): 19,774  (Ranked 18)  
-Sum: 36,597 (Ranked 32)  
+Sum: 36,601 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -114,8 +114,8 @@ Diff (max vs sum): -14
 | This game is Great for Beginners | 824 |
 | This game is Relaxing | 822 |
 | This game is Extremely Fun | 818 |
+| This game has Amazing Storytelling | 796 |
 | This game has Diverse Characters | 795 |
-| This game has Amazing Storytelling | 792 |
 | This game has Amazing Characters | 777 |
 | This game is Highly Recommended | 764 |
 | This game has Quickly Understood Controls | 708 |
@@ -202,4 +202,4 @@ Diff (max vs sum): -14
 | 2023-06-07 | 4.77 | 19,672 | 36,413 |
 | 2023-06-08 | 4.77 | 19,702 | 36,484 |
 | 2023-06-09 | 4.77 | 19,738 | 36,553 |
-| 2023-06-10 | 4.77 | 19,774 | 36,597 |
+| 2023-06-10 | 4.77 | 19,774 | 36,601 |

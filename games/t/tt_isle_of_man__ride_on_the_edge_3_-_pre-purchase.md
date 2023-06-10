@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 96.00% | ~77 |
+| You're Going Down! | 96.00% | ~78 |
 | To Each Their Own | 46.00% | ~37 |
 | Onwards and Upwards | 19.00% | ~15 |
-| You Get An Upgrade, You Get An Upgrade! | 18.00% | ~14 |
-| Serial Winner | 13.00% | ~10 |
+| You Get An Upgrade, You Get An Upgrade! | 17.00% | ~14 |
+| Serial Winner | 12.00% | ~10 |
 | Like Phileas Fogg | 11.00% | ~9 |
-| No Room for Improvement | 8.00% | ~6 |
-| Start Your Engines | 8.00% | ~6 |
+| No Room for Improvement | 7.00% | ~6 |
+| Start Your Engines | 7.00% | ~6 |
 | Highly Qualified | 6.00% | ~5 |
 | Upgradeaholic | 6.00% | ~5 |
 | Playing God | 6.00% | ~5 |
@@ -24,28 +24,28 @@
 | Made Mother Proud | 4.00% | ~3 |
 | Winner Winner Chicken Dinner | 4.00% | ~3 |
 | Tailor-Made | 4.00% | ~3 |
-| Déjà-Vu | 3.00% | ~2 |
-| Golden Ratio | 3.00% | ~2 |
-| POI Hunter | 3.00% | ~2 |
-| The Joy of Discovery | 3.00% | ~2 |
-| Gotta Go Fast! | 3.00% | ~2 |
-| Geek | 3.00% | ~2 |
-| Last One Standing | 3.00% | ~2 |
-| The Immortal One | 3.00% | ~2 |
-| Shopping List | 3.00% | ~2 |
-| Checklist | 3.00% | ~2 |
-| Time Lord | 3.00% | ~2 |
-| Time Is of the Essence | 3.00% | ~2 |
-| First Things First | 3.00% | ~2 |
-| Made Father Proud | 3.00% | ~2 |
-| Win-Win! | 3.00% | ~2 |
-| Supersport Superfan | 3.00% | ~2 |
-| Superbike Superfan | 3.00% | ~2 |
-| Playing Favourites | 3.00% | ~2 |
-| Tempus Fugit | 3.00% | ~2 |
+| Déjà-Vu | 2.00% | ~2 |
+| Golden Ratio | 2.00% | ~2 |
+| POI Hunter | 2.00% | ~2 |
+| The Joy of Discovery | 2.00% | ~2 |
+| Gotta Go Fast! | 2.00% | ~2 |
+| Geek | 2.00% | ~2 |
+| Last One Standing | 2.00% | ~2 |
+| The Immortal One | 2.00% | ~2 |
+| Shopping List | 2.00% | ~2 |
+| Checklist | 2.00% | ~2 |
+| Time Lord | 2.00% | ~2 |
+| Time Is of the Essence | 2.00% | ~2 |
+| First Things First | 2.00% | ~2 |
+| Made Father Proud | 2.00% | ~2 |
+| Win-Win! | 2.00% | ~2 |
+| Supersport Superfan | 2.00% | ~2 |
+| Superbike Superfan | 2.00% | ~2 |
+| Playing Favourites | 2.00% | ~2 |
+| Tempus Fugit | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 287)  
-Completed: 2 (2.50%) (Ranked 60)  
+Progressed: 81 (Ranked 286)  
+Completed: 2 (2.47%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,4 +79,4 @@ Completed: 2 (2.50%) (Ranked 60)
 | 2023-06-06 | 73 | 2 |
 | 2023-06-08 | 76 | 2 |
 | 2023-06-09 | 79 | 2 |
-| 2023-06-10 | 80 | 2 |
+| 2023-06-10 | 81 | 2 |

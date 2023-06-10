@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~85 |
-| Bullseye! | 84.00% | ~81 |
-| Graduation! | 80.00% | ~78 |
+| Level Up! | 88.00% | ~86 |
+| Bullseye! | 83.00% | ~81 |
+| Graduation! | 81.00% | ~79 |
 | Villfir Forest | 76.00% | ~74 |
-| Right in the kisser! | 62.00% | ~60 |
-| Duscot Steamcity | 52.00% | ~50 |
-| The Shaman | 51.00% | ~49 |
+| Right in the kisser! | 61.00% | ~60 |
+| Duscot Steamcity | 51.00% | ~50 |
+| The Shaman | 50.00% | ~49 |
 | The Penguin | 47.00% | ~46 |
 | The Thrower | 47.00% | ~46 |
 | The Magician | 45.00% | ~44 |
@@ -23,12 +23,12 @@
 | The Idol | 27.00% | ~26 |
 | Topped up | 26.00% | ~25 |
 | The Ninja | 26.00% | ~25 |
-| Untouchable | 24.00% | ~23 |
-| I'm Rich | 24.00% | ~23 |
-| The Slime | 22.00% | ~21 |
-| 1 is all I need | 20.00% | ~19 |
-| The Giant | 20.00% | ~19 |
-| The Flower | 18.00% | ~17 |
+| Untouchable | 23.00% | ~23 |
+| I'm Rich | 23.00% | ~23 |
+| The Slime | 21.00% | ~21 |
+| 1 is all I need | 19.00% | ~19 |
+| The Giant | 19.00% | ~19 |
+| The Flower | 17.00% | ~17 |
 | The Blacksmith | 16.00% | ~16 |
 | Out of the Frying Pan... | 16.00% | ~16 |
 | The Ooze | 15.00% | ~15 |
@@ -78,8 +78,8 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 277)  
-Completed: 0 (0.00%) (Ranked 213)  
+Progressed: 98 (Ranked 277)  
+Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-06 | 91 | 0 |
 | 2023-06-08 | 93 | 0 |
 | 2023-06-09 | 96 | 0 |
-| 2023-06-10 | 97 | 0 |
+| 2023-06-10 | 98 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

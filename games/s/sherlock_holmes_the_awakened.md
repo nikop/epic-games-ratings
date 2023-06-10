@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 62.00% | ~262 |
+| To Hell In A Handcart | 63.00% | ~266 |
 | Read Between The Lines | 61.00% | ~257 |
 | High Profile | 55.00% | ~232 |
 | Whispers In The Dark | 53.00% | ~224 |
-| Fond Memories | 49.00% | ~207 |
+| Fond Memories | 50.00% | ~211 |
 | A Method To His Madness | 47.00% | ~198 |
 | History Check | 46.00% | ~194 |
+| The New World | 44.00% | ~186 |
 | Lock, Stock, And Barrel | 43.00% | ~181 |
-| The New World | 43.00% | ~181 |
 | Gaze Into The Abyss | 42.00% | ~177 |
 | Open Sesame | 41.00% | ~173 |
 | Sticky Fingers | 41.00% | ~173 |
@@ -34,7 +34,7 @@
 | Reawakened | 5.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 422 (Ranked 208)  
-Completed: 16 (3.79%) (Ranked 40)  
+Completed: 16 (3.79%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

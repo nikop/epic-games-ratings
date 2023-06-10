@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 261,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.68,
   "EosHistory": [
@@ -683,9 +683,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 144
     },
     {
       "ID": "fish_trade",
@@ -779,9 +779,9 @@
       "ID": "seaweed_farm",
       "SetID": "ap7g2g4",
       "Name": "Seaweed farm",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "tavern",
@@ -834,8 +834,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:03:29.8179199+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:04:03.2383057+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:57:03.357929+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:03:29.8179368+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:57:05.6234229+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:04:03.2383219+00:00"
 }

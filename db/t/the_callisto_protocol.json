@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -584,9 +584,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14934,
+  "EOS_Progressed": 14938,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3424,6 +3424,11 @@
       "Time": "2023-06-10T15:04:20.5124851+00:00",
       "NumProgressed": 14934,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-10T16:04:56.0759277+00:00",
+      "NumProgressed": 14938,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3451,7 +3456,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3459,7 +3464,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "DISARM_ENEMY",
@@ -3475,7 +3480,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -3555,7 +3560,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3595,7 +3600,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3611,7 +3616,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3627,7 +3632,7 @@
       "Name": "The Outer Way",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3667,7 +3672,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3691,7 +3696,7 @@
       "Name": "Power Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "DISMEMBER_100",
@@ -3707,7 +3712,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3715,7 +3720,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3754,13 +3759,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14934,
+      "Progressed": 14938,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2860,
+      "Progressed": 2864,
       "Completed": 29
     }
   ],
@@ -3768,8 +3773,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-09T13:57:54.3107791+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:04:20.5124844+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:04:56.0759272+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:58:01.9691395+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:04:20.5125228+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:58:07.7992815+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:04:56.075967+00:00"
 }

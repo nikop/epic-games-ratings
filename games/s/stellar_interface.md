@@ -138,7 +138,7 @@
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 35 (Ranked 327)  
-Completed: 0 (0.00%) (Ranked 213)  
+Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

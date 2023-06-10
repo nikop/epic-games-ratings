@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 485,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.31,
+  "EOS_Completed_Percentage": 3.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -232,6 +232,11 @@
       "Time": "2023-06-09T00:06:33.9465926+00:00",
       "NumProgressed": 484,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-10T16:07:10.828242+00:00",
+      "NumProgressed": 485,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -251,7 +256,7 @@
       "Name": "Blast From The Past",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "deadly_secret",
@@ -315,7 +320,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ending_8",
@@ -339,7 +344,7 @@
       "Name": "Free Champagne",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "kamikaze",
@@ -379,7 +384,7 @@
       "Name": "Storage Hunter",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -387,7 +392,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "tough_decision",
@@ -395,14 +400,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 485,
       "Completed": 16
     }
   ],
@@ -410,8 +415,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:06:33.6250093+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:07:10.8282416+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:15.2197113+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:57:14.944478+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:06:33.6250221+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:57:18.6351953+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:07:10.8282543+00:00"
 }

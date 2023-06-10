@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 98.00% | ~304 |
-| A tiny town | 86.00% | ~267 |
-| Buildings, roads, cars, ...and people | 66.00% | ~205 |
-| Great view from the beach and from the hill | 56.00% | ~174 |
-| Bridges to come and go | 48.00% | ~149 |
-| Found an oasis | 42.00% | ~130 |
+| Welcome! | 98.00% | ~306 |
+| A tiny town | 86.00% | ~268 |
+| Buildings, roads, cars, ...and people | 66.00% | ~206 |
+| Great view from the beach and from the hill | 55.00% | ~172 |
+| Bridges to come and go | 47.00% | ~147 |
+| Found an oasis | 41.00% | ~128 |
 | Burger or pizza? | 37.00% | ~115 |
-| Passion for sports | 32.00% | ~99 |
+| Passion for sports | 32.00% | ~100 |
 | Who loves trains? | 28.00% | ~87 |
 | Easy and steady climb | 27.00% | ~84 |
-| At the heart of the city | 25.00% | ~78 |
-| Calm neighborhood | 24.00% | ~74 |
-| Elevated ring | 23.00% | ~71 |
-| Not lonely anymore | 22.00% | ~68 |
-| Monumental tribute | 21.00% | ~65 |
+| At the heart of the city | 24.00% | ~75 |
+| Calm neighborhood | 23.00% | ~72 |
+| Elevated ring | 23.00% | ~72 |
+| Not lonely anymore | 21.00% | ~66 |
+| Monumental tribute | 21.00% | ~66 |
 | The beach is right there | 20.00% | ~62 |
 | Commuting | 19.00% | ~59 |
 | Le jardin magnifique | 18.00% | ~56 |
-| Aiming for a living and human city | 16.00% | ~50 |
+| Aiming for a living and human city | 17.00% | ~53 |
 | City of dreams | 16.00% | ~50 |
 | Happy Christmas night! | 16.00% | ~50 |
 | Night walk along the beach | 16.00% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310 (Ranked 227)  
-Completed: 50 (16.13%) (Ranked 9)  
+Progressed: 312 (Ranked 227)  
+Completed: 50 (16.03%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,7 +76,7 @@ Completed: 50 (16.13%) (Ranked 9)
 | 2023-06-07 | 287 | 43 |
 | 2023-06-08 | 296 | 45 |
 | 2023-06-09 | 305 | 48 |
-| 2023-06-10 | 310 | 50 |
+| 2023-06-10 | 312 | 50 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

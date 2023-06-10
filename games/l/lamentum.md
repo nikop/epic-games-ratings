@@ -5,9 +5,9 @@ Rating: 4.37 (Ranked 710)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The creature | 79.00% | ~228 |
+| The creature | 80.00% | ~230 |
 | Grau Hill | 75.00% | ~216 |
-| A forgotten language | 69.00% | ~199 |
+| A forgotten language | 70.00% | ~202 |
 | Lord Wesley | 34.00% | ~98 |
 | One step down | 28.00% | ~81 |
 | My dear Magda | 27.00% | ~78 |

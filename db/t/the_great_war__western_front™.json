@@ -3,9 +3,9 @@
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 245,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211,
+  "EOS_Progressed": 212,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -899,6 +899,11 @@
       "Time": "2023-06-10T15:03:27.9094226+00:00",
       "NumProgressed": 211,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T16:04:01.1574191+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -932,9 +937,9 @@
       "ID": "COMPLETE_ANY_HISTORIC BATTLE",
       "SetID": "6kcl14p",
       "Name": "From the Pages of History",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -974,7 +979,7 @@
       "Name": "Earth Shattering",
       "Percentage": 46,
       "XP": 90,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -1005,7 +1010,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 211,
+      "Progressed": 212,
       "Completed": 0
     }
   ],
@@ -1013,8 +1018,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:03:27.9094221+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:04:01.1574186+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:48.0016339+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:58:45.6919944+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:03:27.909435+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:58:52.4237914+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:04:01.1574357+00:00"
 }

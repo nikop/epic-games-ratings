@@ -1,19 +1,19 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 423)  
+Rating: 4.58 (Ranked 422)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,182 |
+| Sink Beneath the Waves | 36.00% | ~11,183 |
 | Sweet Sorrow | 18.00% | ~5,591 |
-| Rules the Waves | 17.00% | ~5,280 |
+| Rules the Waves | 17.00% | ~5,281 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,659 |
 | Rival | 14.00% | ~4,349 |
-| Correspondent | 12.00% | ~3,727 |
-| Lose Your Mind | 12.00% | ~3,727 |
-| Sound Mind? | 12.00% | ~3,727 |
+| Correspondent | 12.00% | ~3,728 |
+| Lose Your Mind | 12.00% | ~3,728 |
+| Sound Mind? | 12.00% | ~3,728 |
 | Salt's Curse | 11.00% | ~3,417 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~3,417 |
 | The Fall of the House | 11.00% | ~3,417 |
@@ -25,7 +25,7 @@ Number of Ratings: 401  (23.09.2022)
 | The Ascent of Man | 7.00% | ~2,174 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,553 |
 | Zee Fever | 5.00% | ~1,553 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,242 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,243 |
 | Storm's Curse | 3.00% | ~932 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~932 |
 | Come Closer | 3.00% | ~932 |
@@ -48,7 +48,7 @@ Number of Ratings: 401  (23.09.2022)
 | Leviathan | 0.90% | ~280 |
 | No regrets | 0.90% | ~280 |
 | Depth charge | 0.90% | ~280 |
-| What lies beneath | 0.80% | ~248 |
+| What lies beneath | 0.80% | ~249 |
 | Stone's Curse | 0.70% | ~217 |
 | Five Years at Zee | 0.50% | ~155 |
 | The Lady's Parlour | 0.20% | ~62 |
@@ -61,8 +61,8 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~31 |
 | Ten Years at Zee | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,061 (Ranked 89)  
-Completed: 3 (0.01%) (Ranked 203)  
+Progressed: 31,063 (Ranked 89)  
+Completed: 3 (0.01%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,7 +112,7 @@ Completed: 3 (0.01%) (Ranked 203)
 | 2023-06-07 | 30,894 | 3 |
 | 2023-06-08 | 30,960 | 3 |
 | 2023-06-09 | 31,008 | 3 |
-| 2023-06-10 | 31,061 | 3 |
+| 2023-06-10 | 31,063 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 257)  
 Sum: 278 (Ranked 332)  

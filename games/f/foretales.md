@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 61.00% | ~160 |
+| Caged tiger | 62.00% | ~162 |
 | Gorilla warfare | 58.00% | ~152 |
 | Isenburg's fall | 48.00% | ~126 |
 | Pieces of eight! | 41.00% | ~107 |
@@ -47,7 +47,7 @@
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 262 (Ranked 236)  
-Completed: 0 (0.00%) (Ranked 213)  
+Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -118,7 +118,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2312,
+  "EOS_Progressed": 2313,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -2443,6 +2443,11 @@
       "Time": "2023-06-10T11:05:36.5197962+00:00",
       "NumProgressed": 2312,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T16:07:05.890748+00:00",
+      "NumProgressed": 2313,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2518,7 +2523,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2534,7 +2539,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2558,7 +2563,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2582,15 +2587,15 @@
       "Name": "Little light",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
       "SetID": "3pe2bac",
       "Name": "Old friend",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 625
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2630,7 +2635,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2638,7 +2643,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2128
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2670,7 +2675,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2686,7 +2691,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2694,7 +2699,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2718,7 +2723,7 @@
       "Name": "Capelworth",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -2758,7 +2763,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2806,7 +2811,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -2870,14 +2875,14 @@
       "Name": "Petricite Burst",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2312,
+      "Progressed": 2313,
       "Completed": 1
     }
   ],
@@ -2885,8 +2890,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:06:28.8874276+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:07:05.8907475+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:57:42.0178251+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:06:28.8874798+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:57:47.5097902+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:07:05.8907979+00:00"
 }

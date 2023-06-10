@@ -16,8 +16,8 @@
 | Redecorator | 20.00% | ~17 |
 | Just a sip | 19.00% | ~16 |
 | Complete Level 2-1 | 16.00% | ~14 |
+| Complete Level 2-2 | 16.00% | ~14 |
 | Versatile | 16.00% | ~14 |
-| Complete Level 2-2 | 15.00% | ~13 |
 | Well-off | 13.00% | ~11 |
 | Too many crates | 13.00% | ~11 |
 | Complete Level 2-3 | 13.00% | ~11 |
@@ -41,10 +41,10 @@
 | The True Trifox | 5.00% | ~4 |
 | Way of the warrior | 5.00% | ~4 |
 | Rich | 3.00% | ~3 |
+| Halfway | 3.00% | ~3 |
 | Delicious | 3.00% | ~3 |
 | Bye bye Wilson | 2.00% | ~2 |
 | Master of destruction | 2.00% | ~2 |
-| Halfway | 2.00% | ~2 |
 | Completionist | 1.00% | ~1 |
 | Angel of death | 1.00% | ~1 |
 | Found them all! | 1.00% | ~1 |

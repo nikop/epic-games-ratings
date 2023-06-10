@@ -6,9 +6,9 @@
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 112,
-  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2700,10 +2700,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6725,
       "NumberOfAwardsMax": 1658
+    },
+    {
+      "Time": "2023-06-10T15:58:40.0429268+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6727,
+      "NumberOfAwardsMax": 1658
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6725,
+  "NumberOfAwards": 6727,
   "NumberOfAwardsMax": 1658,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2723,7 +2729,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 634
+      "Count": 636
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2774,9 +2780,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9724,
+  "EOS_Progressed": 9729,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6119,6 +6125,11 @@
       "Time": "2023-06-10T15:06:45.7179569+00:00",
       "NumProgressed": 9724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T16:07:22.6592731+00:00",
+      "NumProgressed": 9729,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6130,7 +6141,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "02_BurningCity",
@@ -6146,7 +6157,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "04_FithCrusade",
@@ -6170,7 +6181,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "07_FinalThreshold",
@@ -6218,7 +6229,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "13_PathOfLich",
@@ -6226,7 +6237,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "14_PathOfSwarm",
@@ -6266,7 +6277,7 @@
       "Name": "Mythic Choices",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "19_EqualToAroden",
@@ -6354,7 +6365,7 @@
       "Name": "Heroic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "31_DivideAndRule",
@@ -6362,7 +6373,7 @@
       "Name": "Divide and Rule",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "32_MythicReinforcements",
@@ -6370,7 +6381,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "33_DefendersHeart",
@@ -6378,7 +6389,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -6402,7 +6413,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -6410,7 +6421,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -6514,7 +6525,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -7057,21 +7068,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8506,
+      "Progressed": 8511,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9724,
+      "Progressed": 9729,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-10T09:58:53.4550225+00:00",
-  "LastChanged_Achievements": "2023-06-10T15:06:45.7179564+00:00",
+  "LastChanged": "2023-06-10T15:58:40.0429267+00:00",
+  "LastChanged_Achievements": "2023-06-10T16:07:22.6592727+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-10T14:58:33.2104446+00:00",
-  "LastUpdate_Achievements": "2023-06-10T15:06:45.7181075+00:00"
+  "LastUpdate_Ratings": "2023-06-10T15:58:40.0429271+00:00",
+  "LastUpdate_Achievements": "2023-06-10T16:07:22.6594524+00:00"
 }

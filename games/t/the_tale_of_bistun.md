@@ -14,10 +14,10 @@
 | It Feels Better Than It Sounds | 65.00% | ~13 |
 | Skilled Hands | 60.00% | ~12 |
 | Stand By Nature | 60.00% | ~12 |
+| Close Encounter | 55.00% | ~11 |
 | Master Smithy | 55.00% | ~11 |
 | The Milk Canal | 55.00% | ~11 |
 | Fledgling Smithy | 55.00% | ~11 |
-| Close Encounter | 50.00% | ~10 |
 | The Depths Of Darkness | 50.00% | ~10 |
 | One With The Blades | 50.00% | ~10 |
 | Heart of Oblivion | 50.00% | ~10 |

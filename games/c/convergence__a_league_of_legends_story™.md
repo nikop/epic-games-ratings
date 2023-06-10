@@ -17,6 +17,8 @@
 | Breaking Down Barriers | 5.00% | ~33 |
 | The Wicked Twins | 5.00% | ~33 |
 | The Prince in Heels | 5.00% | ~33 |
+| Golem Chaser | 5.00% | ~33 |
+| Chaincrawler Explorer | 4.00% | ~26 |
 | Like Clockwork | 4.00% | ~26 |
 | Street Style | 4.00% | ~26 |
 | Family Memories | 4.00% | ~26 |
@@ -24,13 +26,11 @@
 | The Loose Cannon | 4.00% | ~26 |
 | Time Flies | 4.00% | ~26 |
 | The Harder They Fall | 4.00% | ~26 |
-| Golem Chaser | 4.00% | ~26 |
 | Fast Learner | 4.00% | ~26 |
 | Check Your Pulse | 4.00% | ~26 |
 | Immaculate Aim | 4.00% | ~26 |
 | The Brass Boss | 4.00% | ~26 |
 | The Family Fortune | 4.00% | ~26 |
-| Chaincrawler Explorer | 3.00% | ~20 |
 | Right On Time | 3.00% | ~20 |
 | Whiz Kid | 3.00% | ~20 |
 | Honest Mistake | 3.00% | ~20 |
@@ -59,7 +59,7 @@
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 651 (Ranked 192)  
-Completed: 0 (0.00%) (Ranked 213)  
+Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
