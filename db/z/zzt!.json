@@ -3,9 +3,9 @@
   "Name": "ZZT!",
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 45,
+  "Ranking_EOS_Completed": 44,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -27,10 +27,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2662,
-  "EOS_Completed": 87,
+  "EOS_Completed": 88,
   "EOS_NewPlayers": 44,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 3.27,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 3.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -2151,6 +2151,11 @@
       "Time": "2023-06-10T00:05:53.2068411+00:00",
       "NumProgressed": 2662,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-06-10T06:05:23.5981702+00:00",
+      "NumProgressed": 2662,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 5,
@@ -2202,15 +2207,15 @@
       "ID": "dm385hd",
       "IsBase": true,
       "Progressed": 2662,
-      "Completed": 87
+      "Completed": 88
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-06-10T05:06:01.3052212+00:00",
+  "LastChanged_Achievements": "2023-06-10T06:05:23.5981682+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:35.1525433+00:00",
-  "LastUpdate_Ratings": "2023-06-10T04:58:46.4746747+00:00",
-  "LastUpdate_Achievements": "2023-06-10T05:06:01.3052459+00:00"
+  "LastUpdate_Ratings": "2023-06-10T05:58:06.9364554+00:00",
+  "LastUpdate_Achievements": "2023-06-10T06:05:23.5981896+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4958,
+  "EOS_Progressed": 4959,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1469,6 +1469,11 @@
       "Time": "2023-06-10T00:06:24.7330597+00:00",
       "NumProgressed": 4958,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T06:05:50.2824322+00:00",
+      "NumProgressed": 4959,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1592,7 +1597,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1832,7 +1837,7 @@
       "Name": "Millionaire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ach_frp_many_modules",
@@ -2087,15 +2092,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4958,
+      "Progressed": 4959,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-10T05:06:32.6249016+00:00",
+  "LastChanged_Achievements": "2023-06-10T06:05:50.2824317+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:18.7719837+00:00",
-  "LastUpdate_Ratings": "2023-06-10T04:59:26.4274682+00:00",
-  "LastUpdate_Achievements": "2023-06-10T05:06:32.6250592+00:00"
+  "LastUpdate_Ratings": "2023-06-10T05:58:38.4774023+00:00",
+  "LastUpdate_Achievements": "2023-06-10T06:05:50.2825087+00:00"
 }

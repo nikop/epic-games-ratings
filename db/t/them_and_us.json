@@ -566,9 +566,9 @@
       "ID": "ETUA_ArmedToTheTeeth",
       "SetID": "65jc0ap",
       "Name": "Armed To The Teeth",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ETUA_BackInTime",
@@ -606,9 +606,9 @@
       "ID": "ETUA_ClassicPlayer",
       "SetID": "65jc0ap",
       "Name": "Retro Player",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ETUA_DieAnotherDay",
@@ -871,8 +871,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-06-10T05:03:28.0029562+00:00",
+  "LastChanged_Achievements": "2023-06-10T06:03:24.6242962+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:13.6620801+00:00",
-  "LastUpdate_Ratings": "2023-06-10T04:57:35.7886619+00:00",
-  "LastUpdate_Achievements": "2023-06-10T05:03:28.0030149+00:00"
+  "LastUpdate_Ratings": "2023-06-10T05:57:05.3620519+00:00",
+  "LastUpdate_Achievements": "2023-06-10T06:03:24.6243307+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "caad69ee9690437da948af6d481aa864",
   "Name": "Legend Bowl",
   "ProductSlug": "legend-bowl-10bc86",
-  "Ranking_EOS_Progress": 439,
+  "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 100,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:45.9619923+00:00",
   "LastChanged": "2023-03-31T05:58:45.9619924+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:09.5086237+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:01:07.7497427+00:00",
-  "LastUpdate_Achievements": "2023-06-10T05:05:53.9646621+00:00"
+  "LastUpdate_Ratings": "2023-06-10T05:59:59.8231661+00:00",
+  "LastUpdate_Achievements": "2023-06-10T06:05:18.2632165+00:00"
 }

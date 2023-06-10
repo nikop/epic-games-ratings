@@ -1,51 +1,51 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 424)  
+Rating: 4.58 (Ranked 423)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~221,239 |
-| Uncharted Territory | 89.00% | ~205,107 |
+| First Steps | 96.00% | ~221,240 |
+| Uncharted Territory | 89.00% | ~205,108 |
 | Getting A Glimpse | 73.00% | ~168,234 |
-| A Quick Escape | 65.00% | ~149,797 |
-| Explorer | 62.00% | ~142,883 |
+| A Quick Escape | 65.00% | ~149,798 |
+| Explorer | 62.00% | ~142,884 |
 | Defeat The Dark | 61.00% | ~140,579 |
 | An Offering | 61.00% | ~140,579 |
-| Colorful Corpse | 58.00% | ~133,665 |
+| Colorful Corpse | 58.00% | ~133,666 |
 | That Was Quick | 56.00% | ~129,056 |
 | A Donation | 56.00% | ~129,056 |
 | Goodbye, Frog Friend | 54.00% | ~124,447 |
-| Heavy Hitter | 53.00% | ~122,142 |
-| Heartless | 46.00% | ~106,010 |
-| Spine Breaker | 46.00% | ~106,010 |
+| Heavy Hitter | 53.00% | ~122,143 |
+| Heartless | 46.00% | ~106,011 |
+| Spine Breaker | 46.00% | ~106,011 |
 | Deflection | 45.00% | ~103,706 |
 | Sneaky | 43.00% | ~99,097 |
 | Delving Deeper | 42.00% | ~96,792 |
-| Ambitious Intent | 41.00% | ~94,487 |
-| C-C-Combo | 41.00% | ~94,487 |
+| Ambitious Intent | 41.00% | ~94,488 |
+| C-C-Combo | 41.00% | ~94,488 |
 | The Bestiary | 40.00% | ~92,183 |
-| Nothing To Lose | 39.00% | ~89,878 |
+| Nothing To Lose | 39.00% | ~89,879 |
 | What's Yours Is Mine | 38.00% | ~87,574 |
 | R.I.P | 36.00% | ~82,965 |
 | Shootout | 35.00% | ~80,660 |
-| Cold Hearted | 34.00% | ~78,355 |
-| I Am Overburdened | 34.00% | ~78,355 |
+| Cold Hearted | 34.00% | ~78,356 |
+| I Am Overburdened | 34.00% | ~78,356 |
 | Dig Your Own Grave | 33.00% | ~76,051 |
 | Toxic | 33.00% | ~76,051 |
-| Who To Trust? | 32.00% | ~73,746 |
+| Who To Trust? | 32.00% | ~73,747 |
 | Flesh Wound | 29.00% | ~66,833 |
-| Walk It Off | 27.00% | ~62,223 |
-| Stone Touch | 27.00% | ~62,223 |
-| Acid Bath | 27.00% | ~62,223 |
-| Shadow Walker | 27.00% | ~62,223 |
+| Walk It Off | 27.00% | ~62,224 |
+| Stone Touch | 27.00% | ~62,224 |
+| Acid Bath | 27.00% | ~62,224 |
+| Shadow Walker | 27.00% | ~62,224 |
 | Consecutive Curses | 26.00% | ~59,919 |
 | Destroy Your Fears | 26.00% | ~59,919 |
 | New Perspectives | 26.00% | ~59,919 |
 | Shapeshifting | 26.00% | ~59,919 |
 | Save Our Souls | 24.00% | ~55,310 |
-| To The Death! | 20.00% | ~46,091 |
+| To The Death! | 20.00% | ~46,092 |
 | Well Prepared | 19.00% | ~43,787 |
 | Just Chilling | 19.00% | ~43,787 |
 | Stop Hitting Yourself | 19.00% | ~43,787 |
@@ -57,7 +57,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 16.00% | ~36,873 |
 | Spreading Plague | 15.00% | ~34,569 |
 | The Long Run | 14.00% | ~32,264 |
-| A Rough Road | 13.00% | ~29,959 |
+| A Rough Road | 13.00% | ~29,960 |
 | Berzerker | 12.00% | ~27,655 |
 | Chain Reaction | 12.00% | ~27,655 |
 | Antivenom | 11.00% | ~25,350 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~922 |
 | Near Death Experience | 0.30% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,457 (Ranked 45)  
+Progressed: 230,458 (Ranked 45)  
 Completed: 238 (0.10%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 238 (0.10%) (Ranked 165)
 | 2023-06-07 | 230,294 | 236 |
 | 2023-06-08 | 230,373 | 237 |
 | 2023-06-09 | 230,446 | 238 |
-| 2023-06-10 | 230,457 | 238 |
+| 2023-06-10 | 230,458 | 238 |
 ## Awards
 Max (Quickly Understood Controls): 1,475  (Ranked 115)  
 Sum: 12,912 (Ranked 69)  

@@ -5,7 +5,7 @@
   "Ranking_Rating": 360,
   "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 28,
-  "Ranking_EOS_Progress": 439,
+  "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 100,
@@ -5903,10 +5903,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 40870,
       "NumberOfAwardsMax": 15327
+    },
+    {
+      "Time": "2023-06-10T05:57:14.3792221+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 40874,
+      "NumberOfAwardsMax": 15327
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40870,
+  "NumberOfAwards": 40874,
   "NumberOfAwardsMax": 15327,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5956,7 +5962,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3135
+      "Count": 3139
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5988,8 +5994,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-06-09T22:01:50.2958+00:00",
+  "LastChanged": "2023-06-10T05:57:14.3792219+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.1878498+00:00",
-  "LastUpdate_Ratings": "2023-06-10T04:57:47.471238+00:00",
-  "LastUpdate_Achievements": "2023-06-10T05:01:24.8780922+00:00"
+  "LastUpdate_Ratings": "2023-06-10T05:57:14.379223+00:00",
+  "LastUpdate_Achievements": "2023-06-10T06:02:04.8913142+00:00"
 }

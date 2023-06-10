@@ -2,6 +2,9 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
+  "Ranking_Rating": 764,
+  "Ranking_Popularity": 494,
+  "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 97,
@@ -16,14 +19,22 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.3,
+  "RatingHistory": [
+    {
+      "Time": "2023-06-10T05:57:52.1300906+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1042,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1657,9 +1668,9 @@
       "ID": "A14",
       "SetID": "9b7p7eo",
       "Name": "A new Journey",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 740
+      "UsersEstimate": 750
     },
     {
       "ID": "A15",
@@ -1991,9 +2002,11 @@
     }
   ],
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
+  "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-06-10T05:06:31.0298358+00:00",
+  "LastChanged": "2023-06-10T05:57:52.1300903+00:00",
+  "LastChanged_Achievements": "2023-06-10T06:05:49.0862576+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-10T04:58:29.4440406+00:00",
-  "LastUpdate_Achievements": "2023-06-10T05:06:31.0299351+00:00"
+  "LastUpdate_Ratings": "2023-06-10T05:57:52.1300917+00:00",
+  "LastUpdate_Achievements": "2023-06-10T06:05:49.0863132+00:00"
 }

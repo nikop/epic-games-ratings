@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -983,8 +983,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-06-10T05:06:26.3890079+00:00",
+  "LastChanged_Achievements": "2023-06-10T06:05:44.9568231+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:10.7227783+00:00",
-  "LastUpdate_Ratings": "2023-06-10T04:57:32.557197+00:00",
-  "LastUpdate_Achievements": "2023-06-10T05:06:26.3891625+00:00"
+  "LastUpdate_Ratings": "2023-06-10T05:57:02.4096075+00:00",
+  "LastUpdate_Achievements": "2023-06-10T06:05:44.9569119+00:00"
 }

@@ -1,26 +1,26 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.23 (Ranked 811)  
+Rating: 4.23 (Ranked 812)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~322,742 |
-| Well educated | 37.00% | ~254,073 |
-| City Planner | 19.00% | ~130,470 |
-| Deforester | 16.00% | ~109,870 |
-| Big Hauling | 15.00% | ~103,003 |
-| Exporter | 13.00% | ~89,269 |
-| I would drive 500 tiles... | 12.00% | ~82,402 |
-| Apprentice Manufacturer | 12.00% | ~82,402 |
-| Landscaper | 11.00% | ~75,535 |
-| Railwayman | 7.00% | ~48,068 |
-| Penniless | 6.00% | ~41,201 |
-| Massive Gains | 6.00% | ~41,201 |
+| Entrepreneur | 47.00% | ~322,752 |
+| Well educated | 37.00% | ~254,082 |
+| City Planner | 19.00% | ~130,474 |
+| Deforester | 16.00% | ~109,873 |
+| Big Hauling | 15.00% | ~103,006 |
+| Exporter | 13.00% | ~89,272 |
+| I would drive 500 tiles... | 12.00% | ~82,405 |
+| Apprentice Manufacturer | 12.00% | ~82,405 |
+| Landscaper | 11.00% | ~75,538 |
+| Railwayman | 7.00% | ~48,069 |
+| Penniless | 6.00% | ~41,202 |
+| Massive Gains | 6.00% | ~41,202 |
 | Engineer | 2.00% | ~13,734 |
 | Salesman | 2.00% | ~13,734 |
 | High Flyer | 2.00% | ~13,734 |
-| Captain | 0.80% | ~5,493 |
+| Captain | 0.80% | ~5,494 |
 | Billionaire | 0.60% | ~4,120 |
 | Vroom Vroom | 0.40% | ~2,747 |
 | Excavator | 0.30% | ~2,060 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 811)
 | Master Builder | 0.10% | ~687 |
 | Hard working | 0.10% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686,685 (Ranked 18)  
+Progressed: 686,707 (Ranked 18)  
 Completed: 1 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 1 (0.00%) (Ranked 213)
 | 2023-06-07 | 685,212 | 1 |
 | 2023-06-08 | 685,874 | 1 |
 | 2023-06-09 | 686,548 | 1 |
-| 2023-06-10 | 686,685 | 1 |
+| 2023-06-10 | 686,707 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": null,
@@ -5009,9 +5009,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 462967,
+  "EOS_Progressed": 462968,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 827,
+  "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10029,6 +10029,11 @@
       "Time": "2023-06-10T05:06:38.9272697+00:00",
       "NumProgressed": 462967,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-06-10T06:05:56.1067648+00:00",
+      "NumProgressed": 462968,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 98,
@@ -10056,7 +10061,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 120371
+      "UsersEstimate": 120372
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -10120,7 +10125,7 @@
       "Name": "Top Form",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 78704
+      "UsersEstimate": 78705
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -10128,7 +10133,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 120371
+      "UsersEstimate": 120372
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -10136,7 +10141,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 134260
+      "UsersEstimate": 134261
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -10160,7 +10165,7 @@
       "Name": "Fantastic Five",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 106482
+      "UsersEstimate": 106483
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -10264,7 +10269,7 @@
       "Name": "Eyes and Ears",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 64815
+      "UsersEstimate": 64816
     },
     {
       "ID": "achievement_fine_player",
@@ -10272,7 +10277,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 189816
+      "UsersEstimate": 189817
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -10352,7 +10357,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 134260
+      "UsersEstimate": 134261
     },
     {
       "ID": "achievement_hattrick",
@@ -10360,7 +10365,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 189816
+      "UsersEstimate": 189817
     },
     {
       "ID": "achievement_head_to_head",
@@ -10408,7 +10413,7 @@
       "Name": "Iron Curtain",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 106482
+      "UsersEstimate": 106483
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -10464,7 +10469,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 162038
+      "UsersEstimate": 162039
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -10472,7 +10477,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 148149
+      "UsersEstimate": 148150
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -10512,7 +10517,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 134260
+      "UsersEstimate": 134261
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -10536,7 +10541,7 @@
       "Name": "Record Sale",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 120371
+      "UsersEstimate": 120372
     },
     {
       "ID": "achievement_record_signing",
@@ -10576,7 +10581,7 @@
       "Name": "Cash To Burn",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 78704
+      "UsersEstimate": 78705
     },
     {
       "ID": "achievement_sell_player",
@@ -10584,7 +10589,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 217594
+      "UsersEstimate": 217595
     },
     {
       "ID": "achievement_signed_a_player",
@@ -10656,7 +10661,7 @@
       "Name": "Window Shopping",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 64815
+      "UsersEstimate": 64816
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -10823,15 +10828,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 462967,
+      "Progressed": 462968,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-06-10T03:59:38.4921244+00:00",
-  "LastChanged_Achievements": "2023-06-10T05:06:38.9272691+00:00",
+  "LastChanged_Achievements": "2023-06-10T06:05:56.1067642+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:42.3922947+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:00:42.6565151+00:00",
-  "LastUpdate_Achievements": "2023-06-10T05:06:38.9274467+00:00"
+  "LastUpdate_Ratings": "2023-06-10T05:59:40.2622058+00:00",
+  "LastUpdate_Achievements": "2023-06-10T06:05:56.1069054+00:00"
 }

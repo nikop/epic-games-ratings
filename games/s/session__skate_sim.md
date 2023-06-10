@@ -10,7 +10,7 @@ Number of Ratings: 111  (23.09.2022)
 | Keeping it classy | 24.00% | ~563 |
 | Welcome to the family | 18.00% | ~422 |
 | The finer things in life | 16.00% | ~375 |
-| Backpacker | 11.00% | ~258 |
+| Backpacker | 12.00% | ~282 |
 | Go with the Flow | 11.00% | ~258 |
 | Plastic Surgeon | 9.00% | ~211 |
 | Keep the dream alive | 8.00% | ~188 |
@@ -47,7 +47,7 @@ Number of Ratings: 111  (23.09.2022)
 | Many plys later... | 2.00% | ~47 |
 | Pew-Pew | 2.00% | ~47 |
 | Dipped! | 1.00% | ~23 |
-| That was wheelie fun | 0.90% | ~21 |
+| That was wheelie fun | 1.00% | ~23 |
 | Skatepark hero | 0.70% | ~16 |
 | That's how it's done! | 0.10% | ~2 |
 | Ultimate skate nerd | 0.10% | ~2 |

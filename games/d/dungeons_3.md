@@ -6,18 +6,18 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~13,753 |
+| The Shadow strikes | 70.00% | ~13,754 |
 | The Evilest Evil | 59.00% | ~11,592 |
-| Twistram is devastated | 58.00% | ~11,395 |
+| Twistram is devastated | 58.00% | ~11,396 |
 | The Gehenna Stones | 51.00% | ~10,020 |
-| No one has to die today! | 47.00% | ~9,234 |
+| No one has to die today! | 47.00% | ~9,235 |
 | Death and destruction! | 46.00% | ~9,038 |
-| The Swamplanders from the swamplands | 45.00% | ~8,841 |
+| The Swamplanders from the swamplands | 45.00% | ~8,842 |
 | The One-Huge-Army-Building Evil | 42.00% | ~8,252 |
 | Rusty Steel | 42.00% | ~8,252 |
-| The last burger | 39.00% | ~7,662 |
+| The last burger | 39.00% | ~7,663 |
 | Braiiiiins! | 38.00% | ~7,466 |
-| Hands off the Dungeonheart! | 37.00% | ~7,269 |
+| Hands off the Dungeonheart! | 37.00% | ~7,270 |
 | A trip on sea, what fun it can be | 36.00% | ~7,073 |
 | Damned good | 34.00% | ~6,680 |
 | Factory farming | 33.00% | ~6,484 |
@@ -33,15 +33,15 @@ Number of Ratings: 1,635  (23.09.2022)
 | MASS-O-BOT | 25.00% | ~4,912 |
 | Prepare the grave | 25.00% | ~4,912 |
 | Angel of Fire | 25.00% | ~4,912 |
-| Where there is Light, there is Shadow | 24.00% | ~4,715 |
+| Where there is Light, there is Shadow | 24.00% | ~4,716 |
 | At the foot of Mount Destiny | 23.00% | ~4,519 |
-| The Force disturbed | 22.00% | ~4,322 |
+| The Force disturbed | 22.00% | ~4,323 |
 | The Victorious Evil | 21.00% | ~4,126 |
-| Chorus of damnation | 20.00% | ~3,929 |
-| We don’t have time! | 20.00% | ~3,929 |
-| The Stones’ Power | 18.00% | ~3,536 |
-| Flat as a pancake | 18.00% | ~3,536 |
-| Lifeguard | 18.00% | ~3,536 |
+| Chorus of damnation | 20.00% | ~3,930 |
+| We don’t have time! | 20.00% | ~3,930 |
+| The Stones’ Power | 18.00% | ~3,537 |
+| Flat as a pancake | 18.00% | ~3,537 |
+| Lifeguard | 18.00% | ~3,537 |
 | Can’t stand the sight of Dark Elf blood | 16.00% | ~3,144 |
 | This is fun, I’m going to keep doing this! | 13.00% | ~2,554 |
 | Then let them eat cake! | 13.00% | ~2,554 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~393 |
 | Sacrifices! | 2.00% | ~393 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,647 (Ranked 96)  
+Progressed: 19,648 (Ranked 96)  
 Completed: 171 (0.87%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 171 (0.87%) (Ranked 94)
 | 2023-06-07 | 19,376 | 168 |
 | 2023-06-08 | 19,507 | 168 |
 | 2023-06-09 | 19,624 | 171 |
-| 2023-06-10 | 19,647 | 171 |
+| 2023-06-10 | 19,648 | 171 |
 ## Awards
 Max (Great for Beginners): 325  (Ranked 221)  
 Sum: 2,558 (Ranked 166)  

@@ -1,19 +1,19 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.82 (Ranked 925)  
+Rating: 3.82 (Ranked 926)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eeligally Ambitious | 95.00% | ~14,830 |
-| No Half Measures | 88.00% | ~13,737 |
-| Personal Matter | 87.00% | ~13,581 |
-| But You Have Heard of Me | 72.00% | ~11,239 |
+| No Half Measures | 88.00% | ~13,738 |
+| Personal Matter | 87.00% | ~13,582 |
+| But You Have Heard of Me | 72.00% | ~11,240 |
 | Double the Barrels, double the Fun | 55.00% | ~8,586 |
 | Pimp My Glide | 47.00% | ~7,337 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,400 |
-| House Party! | 33.00% | ~5,151 |
-| Make It Rain | 23.00% | ~3,590 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,401 |
+| House Party! | 33.00% | ~5,152 |
+| Make It Rain | 23.00% | ~3,591 |
 | Curse of the Seven Seas | 21.00% | ~3,278 |
 | Head First | 15.00% | ~2,342 |
 | To the World's End | 12.00% | ~1,873 |
@@ -21,7 +21,7 @@ Rating: 3.82 (Ranked 925)
 | Sharing Is Caring | 10.00% | ~1,561 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,249 |
 | Morally Flexible | 6.00% | ~937 |
-| Fishing for Compliments | 5.00% | ~780 |
+| Fishing for Compliments | 5.00% | ~781 |
 | After All, Why Shouldn't I Keep It? | 2.00% | ~312 |
 | A True Dandy | 2.00% | ~312 |
 | A New Legend Awaits | 1.00% | ~156 |
@@ -32,7 +32,7 @@ Rating: 3.82 (Ranked 925)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,610 (Ranked 100)  
+Progressed: 15,611 (Ranked 100)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 15,569 | 0 |
 | 2023-06-08 | 15,585 | 0 |
 | 2023-06-09 | 15,604 | 0 |
-| 2023-06-10 | 15,610 | 0 |
+| 2023-06-10 | 15,611 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

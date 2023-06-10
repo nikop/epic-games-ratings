@@ -2,7 +2,7 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 925,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 100,
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15610,
+  "EOS_Progressed": 15611,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2005,6 +2005,11 @@
       "Time": "2023-06-10T05:06:27.8920981+00:00",
       "NumProgressed": 15610,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T06:05:46.2690973+00:00",
+      "NumProgressed": 15611,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2024,7 +2029,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13581
+      "UsersEstimate": 13582
     },
     {
       "ID": "ACH0010",
@@ -2056,7 +2061,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3590
+      "UsersEstimate": 3591
     },
     {
       "ID": "ACH0014",
@@ -2088,7 +2093,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH0018",
@@ -2112,7 +2117,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11239
+      "UsersEstimate": 11240
     },
     {
       "ID": "ACH0020",
@@ -2136,7 +2141,7 @@
       "Name": "House Party!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 5151
+      "UsersEstimate": 5152
     },
     {
       "ID": "ACH0023",
@@ -2176,7 +2181,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13737
+      "UsersEstimate": 13738
     },
     {
       "ID": "ACH005",
@@ -2192,7 +2197,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6400
+      "UsersEstimate": 6401
     },
     {
       "ID": "ACH007",
@@ -2223,7 +2228,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15610,
+      "Progressed": 15611,
       "Completed": 0
     }
   ],
@@ -2231,8 +2236,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-08T22:00:23.0209768+00:00",
-  "LastChanged_Achievements": "2023-06-10T05:06:27.8920974+00:00",
+  "LastChanged_Achievements": "2023-06-10T06:05:46.2690967+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:46.2641677+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:00:46.6121494+00:00",
-  "LastUpdate_Achievements": "2023-06-10T05:06:27.8921436+00:00"
+  "LastUpdate_Ratings": "2023-06-10T05:59:43.4730522+00:00",
+  "LastUpdate_Achievements": "2023-06-10T06:05:46.2691258+00:00"
 }

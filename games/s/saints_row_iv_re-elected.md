@@ -5,43 +5,43 @@ Rating: 4.40 (Ranked 681)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 66.00% | ~123,140 |
-| Destroyer-In-Chief | 60.00% | ~111,945 |
-| There Is No Pancakes | 57.00% | ~106,348 |
-| First of Many | 44.00% | ~82,093 |
-| Woah. | 39.00% | ~72,764 |
-| Don't Look Down | 31.00% | ~57,838 |
-| Don't Panic | 30.00% | ~55,972 |
-| Ooo A Piece of Candy! | 24.00% | ~44,778 |
-| Ghost in the Machine | 19.00% | ~35,449 |
-| All Too Easy | 16.00% | ~29,852 |
-| Didn't Need to See Him Naked | 15.00% | ~27,986 |
-| Indomitable | 11.00% | ~20,523 |
-| Bow to the Boss! | 10.00% | ~18,658 |
-| Blast from the Past | 9.00% | ~16,792 |
-| Friend of the Raptors | 9.00% | ~16,792 |
-| About Time! | 8.00% | ~14,926 |
-| Actor-Turned-Politician | 7.00% | ~13,060 |
-| Betrayed | 7.00% | ~13,060 |
-| Maximum Stopping Power | 7.00% | ~13,060 |
-| Poodle Skirt | 7.00% | ~13,060 |
-| You Chose... Poorly | 7.00% | ~13,060 |
-| Double Team | 6.00% | ~11,194 |
-| Keymaster | 6.00% | ~11,194 |
-| *BEEP* YOU, CLAWZ! | 5.00% | ~9,329 |
-| Imperator | 5.00% | ~9,329 |
-| ...A Saint Gets a Gun | 4.00% | ~7,463 |
-| Half Way Home | 4.00% | ~7,463 |
-| How It Should Be | 4.00% | ~7,463 |
-| Machine Man | 4.00% | ~7,463 |
-| The Full Kinzie | 4.00% | ~7,463 |
-| And I Ran... | 3.00% | ~5,597 |
-| Chill Out | 3.00% | ~5,597 |
-| Elementary | 3.00% | ~5,597 |
-| On Her Saint's Secret Service | 3.00% | ~5,597 |
-| Paranormal Bromance | 3.00% | ~5,597 |
-| Saints & Sensibility | 3.00% | ~5,597 |
-| The Two Shaundis | 3.00% | ~5,597 |
+| Zero Saints Thirty | 66.00% | ~123,163 |
+| Destroyer-In-Chief | 60.00% | ~111,966 |
+| There Is No Pancakes | 57.00% | ~106,368 |
+| First of Many | 44.00% | ~82,108 |
+| Woah. | 39.00% | ~72,778 |
+| Don't Look Down | 31.00% | ~57,849 |
+| Don't Panic | 30.00% | ~55,983 |
+| Ooo A Piece of Candy! | 24.00% | ~44,786 |
+| Ghost in the Machine | 19.00% | ~35,456 |
+| All Too Easy | 16.00% | ~29,858 |
+| Didn't Need to See Him Naked | 15.00% | ~27,992 |
+| Indomitable | 11.00% | ~20,527 |
+| Bow to the Boss! | 10.00% | ~18,661 |
+| Blast from the Past | 9.00% | ~16,795 |
+| Friend of the Raptors | 9.00% | ~16,795 |
+| About Time! | 8.00% | ~14,929 |
+| Actor-Turned-Politician | 7.00% | ~13,063 |
+| Betrayed | 7.00% | ~13,063 |
+| Maximum Stopping Power | 7.00% | ~13,063 |
+| Poodle Skirt | 7.00% | ~13,063 |
+| You Chose... Poorly | 7.00% | ~13,063 |
+| Double Team | 6.00% | ~11,197 |
+| Keymaster | 6.00% | ~11,197 |
+| *BEEP* YOU, CLAWZ! | 5.00% | ~9,330 |
+| Imperator | 5.00% | ~9,330 |
+| ...A Saint Gets a Gun | 4.00% | ~7,464 |
+| Half Way Home | 4.00% | ~7,464 |
+| How It Should Be | 4.00% | ~7,464 |
+| Machine Man | 4.00% | ~7,464 |
+| The Full Kinzie | 4.00% | ~7,464 |
+| And I Ran... | 3.00% | ~5,598 |
+| Chill Out | 3.00% | ~5,598 |
+| Elementary | 3.00% | ~5,598 |
+| On Her Saint's Secret Service | 3.00% | ~5,598 |
+| Paranormal Bromance | 3.00% | ~5,598 |
+| Saints & Sensibility | 3.00% | ~5,598 |
+| The Two Shaundis | 3.00% | ~5,598 |
 | Benjamin [CENSORED] King | 2.00% | ~3,732 |
 | Better This Way | 2.00% | ~3,732 |
 | Bouncin' with an Old Friend | 2.00% | ~3,732 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 681)
 | Super Power Team Up! | 0.10% | ~187 |
 | Ultimate Hot Potato | 0.10% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186,575 (Ranked 53)  
+Progressed: 186,610 (Ranked 53)  
 Completed: 9 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,14 +129,14 @@ Completed: 9 (0.00%) (Ranked 213)
 | 2023-06-07 | 184,392 | 9 |
 | 2023-06-08 | 185,331 | 9 |
 | 2023-06-09 | 186,341 | 9 |
-| 2023-06-10 | 186,575 | 9 |
+| 2023-06-10 | 186,610 | 9 |
 ## Awards
-Max (Great Boss Battles): 409  (Ranked 201)  
-Sum: 409 (Ranked 305)  
-Diff (max vs sum): -104  
+Max (Great Boss Battles): 412  (Ranked 200)  
+Sum: 412 (Ranked 305)  
+Diff (max vs sum): -105  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 409 |
+| This game has Great Boss Battles | 412 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -185,3 +185,4 @@ Diff (max vs sum): -104
 | 2023-06-06 | 4.40 | 407 | 407 |
 | 2023-06-07 | 4.40 | 408 | 408 |
 | 2023-06-08 | 4.40 | 409 | 409 |
+| 2023-06-10 | 4.40 | 412 | 412 |

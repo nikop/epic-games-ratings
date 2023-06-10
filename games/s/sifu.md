@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~707 |
-| Project Arena | 3.00% | ~530 |
+| Diligence as a goal | 4.00% | ~708 |
+| Project Arena | 3.00% | ~531 |
 | The Old Grandmaster | 1.00% | ~7,084 |
 | The Assault | 1.00% | ~7,084 |
 | The Hateful Pole Fighter | 1.00% | ~7,084 |
@@ -40,10 +40,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.50% | ~3,542 |
 | Iron Money | 0.50% | ~3,542 |
 | Detective Story | 0.50% | ~3,542 |
-| Legendary Talismans of Wuxing | 0.40% | ~2,833 |
-| Prodigal Child | 0.40% | ~2,833 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~2,833 |
-| Sword Stained With Blood | 0.40% | ~2,833 |
+| Legendary Talismans of Wuxing | 0.40% | ~2,834 |
+| Prodigal Child | 0.40% | ~2,834 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,834 |
+| Sword Stained With Blood | 0.40% | ~2,834 |
 | Martial Hub | 0.40% | ~71 |
 | Secure, Protect, Leave | 0.40% | ~71 |
 | Martial Artist | 0.30% | ~2,125 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,372 (Ranked 16)  
+Progressed: 708,387 (Ranked 16)  
 Completed: 12,764 (1.80%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 12,764 (1.80%) (Ranked 71)
 | 2023-06-07 | 707,910 | 12,763 |
 | 2023-06-08 | 708,100 | 12,763 |
 | 2023-06-09 | 708,330 | 12,764 |
-| 2023-06-10 | 708,372 | 12,764 |
+| 2023-06-10 | 708,387 | 12,764 |
 ## Awards
 Max (Great Boss Battles): 6,153  (Ranked 52)  
 Sum: 10,501 (Ranked 78)  

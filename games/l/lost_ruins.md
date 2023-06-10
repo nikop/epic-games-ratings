@@ -13,18 +13,18 @@
 | Artifact Collector | 20.00% | ~73 |
 | Ghost Buster | 16.00% | ~58 |
 | Reincarnation | 15.00% | ~55 |
+| Iconoclasm | 14.00% | ~51 |
 | Gladiator | 13.00% | ~47 |
-| Iconoclasm | 13.00% | ~47 |
 | Librarian | 13.00% | ~47 |
 | The End | 13.00% | ~47 |
 | Lumberjack | 12.00% | ~44 |
 | Orcs Must Die! | 12.00% | ~44 |
 | Troubleshooter | 11.00% | ~40 |
 | Money Swag | 8.00% | ~29 |
+| Oops | 7.00% | ~26 |
 | Shield Crusher | 7.00% | ~26 |
 | Treasure Hunter | 7.00% | ~26 |
 | Explorer | 6.00% | ~22 |
-| Oops | 6.00% | ~22 |
 | Pyromancer | 5.00% | ~18 |
 | Trio | 5.00% | ~18 |
 | Spell Master | 4.00% | ~15 |
@@ -34,11 +34,11 @@
 | Marksman | 2.00% | ~7 |
 | Meat Lover | 2.00% | ~7 |
 | Sword Master | 2.00% | ~7 |
+| Witch | 2.00% | ~7 |
 | Assassin | 1.00% | ~4 |
 | Rune Master | 1.00% | ~4 |
 | Sling of David | 1.00% | ~4 |
 | Weapon Master | 1.00% | ~4 |
-| Witch | 1.00% | ~4 |
 | Roughneck | 0.80% | ~3 |
 | Art Collector | 0.30% | ~1 |
 | Hardboiled | 0.30% | ~1 |

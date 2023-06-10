@@ -28,10 +28,10 @@
 | The bus stop | 4.00% | ~5 |
 | This Mansion Is Clean | 4.00% | ~5 |
 | Run and Gun | 3.00% | ~4 |
-| Armed To The Teeth | 1.00% | ~1 |
+| Armed To The Teeth | 2.00% | ~3 |
+| Retro Player | 2.00% | ~3 |
 | Back In Time | 1.00% | ~1 |
 | Box Of Ploutus | 1.00% | ~1 |
-| Retro Player | 1.00% | ~1 |
 | Spiritual essence well spent | 1.00% | ~1 |
 | Pet The Dog | 1.00% | ~1 |
 | Survival Hero | 1.00% | ~1 |

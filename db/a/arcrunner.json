@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -671,17 +671,17 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHV_CITY",
       "SetID": "cceobco",
       "Name": "The City",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -767,9 +767,9 @@
       "ID": "ACHV_NANONIC2",
       "SetID": "cceobco",
       "Name": "Nanonic II",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHV_NANONIC3",
@@ -831,9 +831,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -880,8 +880,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-10T05:02:20.2271394+00:00",
+  "LastChanged_Achievements": "2023-06-10T06:03:02.4207226+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.1383169+00:00",
-  "LastUpdate_Ratings": "2023-06-10T05:00:08.9285426+00:00",
-  "LastUpdate_Achievements": "2023-06-10T05:02:20.2271786+00:00"
+  "LastUpdate_Ratings": "2023-06-10T05:59:12.9780918+00:00",
+  "LastUpdate_Achievements": "2023-06-10T06:03:02.4207454+00:00"
 }

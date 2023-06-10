@@ -7,14 +7,14 @@
 | Welcome! | 98.00% | ~302 |
 | A tiny town | 86.00% | ~265 |
 | Buildings, roads, cars, ...and people | 66.00% | ~203 |
-| Great view from the beach and from the hill | 55.00% | ~169 |
-| Bridges to come and go | 47.00% | ~145 |
+| Great view from the beach and from the hill | 56.00% | ~172 |
+| Bridges to come and go | 48.00% | ~148 |
 | Found an oasis | 42.00% | ~129 |
 | Burger or pizza? | 37.00% | ~114 |
 | Passion for sports | 32.00% | ~99 |
 | Who loves trains? | 28.00% | ~86 |
-| Easy and steady climb | 27.00% | ~83 |
-| At the heart of the city | 24.00% | ~74 |
+| Easy and steady climb | 28.00% | ~86 |
+| At the heart of the city | 25.00% | ~77 |
 | Calm neighborhood | 23.00% | ~71 |
 | Elevated ring | 23.00% | ~71 |
 | Not lonely anymore | 22.00% | ~68 |
@@ -22,8 +22,8 @@
 | The beach is right there | 19.00% | ~59 |
 | Commuting | 19.00% | ~59 |
 | Le jardin magnifique | 19.00% | ~59 |
-| Aiming for a living and human city | 16.00% | ~49 |
-| City of dreams | 16.00% | ~49 |
+| Aiming for a living and human city | 17.00% | ~52 |
+| City of dreams | 17.00% | ~52 |
 | Happy Christmas night! | 16.00% | ~49 |
 | Night walk along the beach | 16.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
