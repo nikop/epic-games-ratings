@@ -6,7 +6,7 @@
 | 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 20.00% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 18.18% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 9 | [Island Cities](games/i/island_cities.md) | 15.97% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
@@ -20,23 +20,23 @@
 | 18 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 8.33% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.10% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.09% |
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.90% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.86% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.85% |
 | 28 | [Scorn](games/s/scorn.md) | 6.80% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.18% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
-| 34 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
+| 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.17% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
-| 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.89% |
+| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
+| 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.82% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.79% |
 | 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
@@ -101,10 +101,10 @@
 | 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
 | 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 102 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.74% |
 | 102 | [Them and Us](games/t/them_and_us.md) | 0.74% |
+| 103 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.73% |
 | 104 | [Haven](games/h/haven.md) | 0.72% |
-| 104 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.72% |
+| 105 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.71% |
 | 106 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.69% |
 | 107 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.68% |
 | 108 | [Train Valley](games/t/train_valley.md) | 0.67% |
