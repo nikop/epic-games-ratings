@@ -3708,10 +3708,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 6524,
       "NumberOfAwardsMax": 776
+    },
+    {
+      "Time": "2023-06-10T04:58:06.5296583+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6528,
+      "NumberOfAwardsMax": 776
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6524,
+  "NumberOfAwards": 6528,
   "NumberOfAwardsMax": 776,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3749,7 +3755,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 712
+      "Count": 714
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3779,7 +3785,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 620
+      "Count": 622
     }
   ],
   "EOS_Progressed": 0,
@@ -3801,9 +3807,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-06-09T15:57:55.348489+00:00",
-  "LastChanged_Achievements": "2023-06-10T04:05:04.9987302+00:00",
+  "LastChanged": "2023-06-10T04:58:06.5296582+00:00",
+  "LastChanged_Achievements": "2023-06-10T05:05:52.5296104+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:50.4628553+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:57:30.2412114+00:00",
-  "LastUpdate_Achievements": "2023-06-10T04:05:04.9987325+00:00"
+  "LastUpdate_Ratings": "2023-06-10T04:58:06.5296592+00:00",
+  "LastUpdate_Achievements": "2023-06-10T05:05:52.5296134+00:00"
 }

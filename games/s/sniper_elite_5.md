@@ -5,8 +5,8 @@ Rating: 4.51 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~723 |
-| Confirming Suspicions | 23.00% | ~573 |
+| Meeting Resistance | 29.00% | ~724 |
+| Confirming Suspicions | 23.00% | ~574 |
 | The Kraken Wakes | 19.00% | ~474 |
 | It's Starting to Crack | 17.00% | ~424 |
 | Lord of War | 14.00% | ~349 |
@@ -14,15 +14,15 @@ Rating: 4.51 (Ranked 529)
 | Resourceful | 13.00% | ~324 |
 | Taking it back | 12.00% | ~299 |
 | Target America | 11.00% | ~274 |
-| Organ Grinder | 10.00% | ~249 |
-| As Quiet as a Mouse | 10.00% | ~249 |
-| The Kraken Sleeps | 9.00% | ~224 |
-| Liberté | 8.00% | ~199 |
-| Enemy at the Gates | 8.00% | ~199 |
-| Just a Flesh Wound | 8.00% | ~199 |
-| Gunslinger | 8.00% | ~199 |
-| Sharpshooter | 8.00% | ~199 |
-| Explosive Efficiency | 8.00% | ~199 |
+| Organ Grinder | 10.00% | ~250 |
+| As Quiet as a Mouse | 10.00% | ~250 |
+| The Kraken Sleeps | 9.00% | ~225 |
+| Liberté | 8.00% | ~200 |
+| Enemy at the Gates | 8.00% | ~200 |
+| Just a Flesh Wound | 8.00% | ~200 |
+| Gunslinger | 8.00% | ~200 |
+| Sharpshooter | 8.00% | ~200 |
+| Explosive Efficiency | 8.00% | ~200 |
 | Opposing Force | 7.00% | ~175 |
 | Die Nussknacker Sweet! | 6.00% | ~150 |
 | Der Geist | 6.00% | ~150 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 529)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,493 (Ranked 147)  
+Progressed: 2,495 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
-| 2023-06-10 | 2,493 | 2 |
+| 2023-06-10 | 2,495 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

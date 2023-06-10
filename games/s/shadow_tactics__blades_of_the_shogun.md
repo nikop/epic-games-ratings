@@ -6,12 +6,12 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,561 |
-| Thorough | 9.00% | ~15,805 |
-| A thief's beginning | 8.00% | ~14,049 |
-| Disguised | 7.00% | ~12,293 |
-| Rollin' | 7.00% | ~12,293 |
-| Tanuki Time | 7.00% | ~12,293 |
+| Genin | 10.00% | ~17,562 |
+| Thorough | 9.00% | ~15,806 |
+| A thief's beginning | 8.00% | ~14,050 |
+| Disguised | 7.00% | ~12,294 |
+| Rollin' | 7.00% | ~12,294 |
+| Tanuki Time | 7.00% | ~12,294 |
 | Jonin | 6.00% | ~10,537 |
 | Rescue Takuma | 6.00% | ~10,537 |
 | Stoned Ox | 6.00% | ~10,537 |
@@ -22,14 +22,14 @@ Number of Ratings: 495  (23.09.2022)
 | Mugen Unchained | 5.00% | ~8,781 |
 | Warzone | 5.00% | ~8,781 |
 | Yabu | 5.00% | ~8,781 |
-| Okkoto | 4.00% | ~7,024 |
-| Prisoners | 4.00% | ~7,024 |
-| Too Early | 4.00% | ~7,024 |
-| Gear up | 3.00% | ~5,268 |
-| Happy little accidents | 3.00% | ~5,268 |
-| Noboru | 3.00% | ~5,268 |
-| Still Rollin' | 3.00% | ~5,268 |
-| Stoned | 3.00% | ~5,268 |
+| Okkoto | 4.00% | ~7,025 |
+| Prisoners | 4.00% | ~7,025 |
+| Too Early | 4.00% | ~7,025 |
+| Gear up | 3.00% | ~5,269 |
+| Happy little accidents | 3.00% | ~5,269 |
+| Noboru | 3.00% | ~5,269 |
+| Still Rollin' | 3.00% | ~5,269 |
+| Stoned | 3.00% | ~5,269 |
 | Atheist Ox | 2.00% | ~3,512 |
 | It's raining men | 2.00% | ~3,512 |
 | The Old Way | 2.00% | ~3,512 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~176 |
 | Release the Kraken | 0.10% | ~176 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175,612 (Ranked 56)  
+Progressed: 175,623 (Ranked 56)  
 Completed: 51 (0.03%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 51 (0.03%) (Ranked 191)
 | 2023-06-07 | 174,952 | 51 |
 | 2023-06-08 | 175,267 | 51 |
 | 2023-06-09 | 175,568 | 51 |
-| 2023-06-10 | 175,612 | 51 |
+| 2023-06-10 | 175,623 | 51 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 178)  
 Sum: 4,679 (Ranked 126)  

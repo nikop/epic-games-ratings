@@ -6,10 +6,10 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,884 |
-| Rookie | 25.00% | ~6,374 |
-| Nomad | 19.00% | ~4,844 |
-| Picking Up Speed | 17.00% | ~4,334 |
+| Finding Your Footing | 27.00% | ~6,885 |
+| Rookie | 25.00% | ~6,375 |
+| Nomad | 19.00% | ~4,845 |
+| Picking Up Speed | 17.00% | ~4,335 |
 | Welcome Maya | 16.00% | ~4,080 |
 | Sightseer | 12.00% | ~3,060 |
 | Scout | 10.00% | ~2,550 |
@@ -35,18 +35,18 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Izel | 1.00% | ~255 |
 | Introducing Sumara | 1.00% | ~255 |
 | Vandal | 1.00% | ~255 |
-| Daredevil | 0.90% | ~229 |
-| Unlock Felipe | 0.70% | ~178 |
+| Daredevil | 0.90% | ~230 |
+| Unlock Felipe | 0.70% | ~179 |
 | Adventurer | 0.60% | ~153 |
 | Unlock Tupa | 0.40% | ~102 |
-| Master Of The Sands | 0.30% | ~76 |
-| Master | 0.10% | ~25 |
-| Life Aquatic | 0.10% | ~25 |
-| Survivalist | 0.10% | ~25 |
-| The Ultimate Challenge | 0.10% | ~25 |
-| Windswept | 0.10% | ~25 |
+| Master Of The Sands | 0.30% | ~77 |
+| Master | 0.10% | ~26 |
+| Life Aquatic | 0.10% | ~26 |
+| Survivalist | 0.10% | ~26 |
+| The Ultimate Challenge | 0.10% | ~26 |
+| Windswept | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,497 (Ranked 91)  
+Progressed: 25,501 (Ranked 91)  
 Completed: 4 (0.02%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 4 (0.02%) (Ranked 196)
 | 2023-06-07 | 25,112 | 3 |
 | 2023-06-08 | 25,276 | 3 |
 | 2023-06-09 | 25,466 | 4 |
-| 2023-06-10 | 25,497 | 4 |
+| 2023-06-10 | 25,501 | 4 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 407)  
 Sum: 346 (Ranked 319)  

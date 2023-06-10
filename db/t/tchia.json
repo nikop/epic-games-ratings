@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6392,
+  "EOS_Progressed": 6394,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3258,6 +3258,11 @@
       "Time": "2023-06-10T04:05:12.2126968+00:00",
       "NumProgressed": 6392,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-10T05:06:01.9559311+00:00",
+      "NumProgressed": 6394,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -3285,7 +3290,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -3373,7 +3378,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "LIBERATOR",
@@ -3436,7 +3441,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6392,
+      "Progressed": 6394,
       "Completed": 23
     }
   ],
@@ -3444,8 +3449,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-10T04:05:12.2126963+00:00",
+  "LastChanged_Achievements": "2023-06-10T05:06:01.9559303+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:57:43.1236131+00:00",
-  "LastUpdate_Achievements": "2023-06-10T04:05:12.2127229+00:00"
+  "LastUpdate_Ratings": "2023-06-10T04:58:22.0025941+00:00",
+  "LastUpdate_Achievements": "2023-06-10T05:06:01.9559886+00:00"
 }

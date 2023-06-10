@@ -5704,10 +5704,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 44348,
       "NumberOfAwardsMax": 5371
+    },
+    {
+      "Time": "2023-06-10T04:57:41.7492812+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 44350,
+      "NumberOfAwardsMax": 5371
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44348,
+  "NumberOfAwards": 44350,
   "NumberOfAwardsMax": 5371,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -5751,7 +5757,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4828
+      "Count": 4830
     },
     {
       "Text": "This game is Relaxing",
@@ -5778,9 +5784,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 52912,
+  "EOS_Progressed": 52922,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4045,
+  "EOS_NewPlayers": 4047,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11073,6 +11079,11 @@
       "Time": "2023-06-10T04:05:46.3759155+00:00",
       "NumProgressed": 52912,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T05:06:40.8763657+00:00",
+      "NumProgressed": 52922,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -11228,7 +11239,7 @@
       "Name": "All belongs to Mother Russia",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_all_blue",
@@ -11324,7 +11335,7 @@
       "Name": "At every continent",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_atwix_legacy",
@@ -11604,7 +11615,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "achievement_colonial_management",
@@ -11700,7 +11711,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -11780,7 +11791,7 @@
       "Name": "Early-Modern Warfare",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_eat_your_greens",
@@ -11796,7 +11807,7 @@
       "Name": "Electable!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -12084,7 +12095,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "achievement_grand_coalition",
@@ -12300,7 +12311,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -12892,7 +12903,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_prester_john",
@@ -13020,7 +13031,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -13364,7 +13375,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -13620,7 +13631,7 @@
       "Name": "Time Bandit",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_to_the_bone",
@@ -13676,7 +13687,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -13692,7 +13703,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "achievement_trustworthy",
@@ -13748,7 +13759,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -13780,7 +13791,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -13915,21 +13926,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 52912,
+      "Progressed": 52922,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 52912,
+      "Progressed": 52922,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-06-09T20:57:18.6209991+00:00",
-  "LastChanged_Achievements": "2023-06-10T04:05:46.3759151+00:00",
+  "LastChanged": "2023-06-10T04:57:41.7492809+00:00",
+  "LastChanged_Achievements": "2023-06-10T05:06:40.876365+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:22.3541845+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:57:10.9565092+00:00",
-  "LastUpdate_Achievements": "2023-06-10T04:05:46.3769231+00:00"
+  "LastUpdate_Ratings": "2023-06-10T04:57:41.7492818+00:00",
+  "LastUpdate_Achievements": "2023-06-10T05:06:40.8776533+00:00"
 }

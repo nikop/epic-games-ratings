@@ -1040,9 +1040,9 @@
       "ID": "conqueror_1",
       "SetID": "53c1p3k",
       "Name": "Conqueror 1",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "conqueror_2",
@@ -1328,9 +1328,9 @@
       "ID": "sophisticated_alchemist_1",
       "SetID": "53c1p3k",
       "Name": "Sophisticated Alchemist 1",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -1455,8 +1455,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-10T04:03:05.0161345+00:00",
+  "LastChanged_Achievements": "2023-06-10T05:03:18.4139166+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:56:53.9005202+00:00",
-  "LastUpdate_Achievements": "2023-06-10T04:03:05.0161985+00:00"
+  "LastUpdate_Ratings": "2023-06-10T04:57:21.4485981+00:00",
+  "LastUpdate_Achievements": "2023-06-10T05:03:18.4140063+00:00"
 }

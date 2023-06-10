@@ -6,17 +6,17 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~511 |
-| My little farm | 65.00% | ~410 |
-| Every beginning is difficult | 62.00% | ~391 |
-| 3, 2, 1, mine | 55.00% | ~347 |
-| Gofer | 55.00% | ~347 |
-| Seafarer | 53.00% | ~334 |
-| O Captain! My Captain! | 53.00% | ~334 |
+| Cabin boy | 80.00% | ~506 |
+| My little farm | 65.00% | ~411 |
+| Every beginning is difficult | 62.00% | ~392 |
+| 3, 2, 1, mine | 55.00% | ~348 |
+| Gofer | 55.00% | ~348 |
+| Seafarer | 53.00% | ~335 |
+| O Captain! My Captain! | 53.00% | ~335 |
 | Greed for gold | 42.00% | ~265 |
 | Intangible | 41.00% | ~259 |
-| I'm out of here for a while | 40.00% | ~252 |
-| In a mint condition | 37.00% | ~233 |
+| I'm out of here for a while | 40.00% | ~253 |
+| In a mint condition | 37.00% | ~234 |
 | Licence to Kill | 34.00% | ~215 |
 | Pirates! | 34.00% | ~215 |
 | Collectionitis | 28.00% | ~177 |
@@ -28,12 +28,12 @@ Number of Ratings: 53  (23.09.2022)
 | My precious! | 17.00% | ~107 |
 | Pearly gates | 16.00% | ~101 |
 | Conquistador | 13.00% | ~82 |
-| Panic buying | 11.00% | ~69 |
+| Panic buying | 11.00% | ~70 |
 | Just a scratch | 9.00% | ~57 |
 | All mine! | 9.00% | ~57 |
 | Your vessel, my vessel | 9.00% | ~57 |
-| Paths of Glory | 8.00% | ~50 |
-| Panel of experts | 8.00% | ~50 |
+| Paths of Glory | 8.00% | ~51 |
+| Panel of experts | 8.00% | ~51 |
 | Maker | 7.00% | ~44 |
 | Conglomerate | 6.00% | ~38 |
 | The Grande Bouffe | 5.00% | ~32 |
@@ -49,15 +49,15 @@ Number of Ratings: 53  (23.09.2022)
 | All aboard! | 2.00% | ~13 |
 | Gold fever | 2.00% | ~13 |
 | Fill it up, please! | 2.00% | ~13 |
-| Capitalist | 1.00% | ~6 |
-| Administrator | 1.00% | ~6 |
 | Raiders of the Lost Ark | 1.00% | ~6 |
 | Traffic chaos | 1.00% | ~6 |
-| Parlay? | 1.00% | ~6 |
+| Capitalist | 0.90% | ~6 |
+| Administrator | 0.90% | ~6 |
+| Parlay? | 0.90% | ~6 |
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 631 (Ranked 193)  
+Progressed: 632 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 622 | 0 |
 | 2023-06-08 | 628 | 0 |
 | 2023-06-09 | 630 | 0 |
-| 2023-06-10 | 631 | 0 |
+| 2023-06-10 | 632 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

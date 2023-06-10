@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -948,7 +948,7 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -956,9 +956,9 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_waves_20",
@@ -1099,8 +1099,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-10T04:02:21.4934432+00:00",
+  "LastChanged_Achievements": "2023-06-10T05:03:02.5292582+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.5762228+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:58:01.9873161+00:00",
-  "LastUpdate_Achievements": "2023-06-10T04:02:21.4935068+00:00"
+  "LastUpdate_Ratings": "2023-06-10T04:58:45.8384767+00:00",
+  "LastUpdate_Achievements": "2023-06-10T05:03:02.529389+00:00"
 }

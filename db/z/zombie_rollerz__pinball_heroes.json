@@ -299,9 +299,9 @@
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -323,9 +323,9 @@
       "ID": "CLG_RUN_LEVELUP_1",
       "SetID": "89cjc9l",
       "Name": "Level Up!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -483,9 +483,9 @@
       "ID": "PRG_BOSS_MAGE",
       "SetID": "89cjc9l",
       "Name": "The Shaman",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -547,9 +547,9 @@
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -851,9 +851,9 @@
       "ID": "PRG_SP_arcadeFTUX",
       "SetID": "89cjc9l",
       "Name": "Graduation!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
@@ -868,8 +868,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-10T04:05:43.1646723+00:00",
+  "LastChanged_Achievements": "2023-06-10T05:06:37.4250147+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:34.9526626+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:57:19.0907697+00:00",
-  "LastUpdate_Achievements": "2023-06-10T04:05:43.1647334+00:00"
+  "LastUpdate_Ratings": "2023-06-10T04:57:52.6198286+00:00",
+  "LastUpdate_Achievements": "2023-06-10T05:06:37.4251181+00:00"
 }

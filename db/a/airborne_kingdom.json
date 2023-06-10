@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6558,
+  "EOS_Progressed": 6559,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1693,6 +1693,11 @@
       "Time": "2023-06-10T04:05:20.9988905+00:00",
       "NumProgressed": 6558,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-10T05:06:12.1531693+00:00",
+      "NumProgressed": 6559,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -1744,7 +1749,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -1800,7 +1805,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -1824,7 +1829,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -1856,7 +1861,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3672
+      "UsersEstimate": 3673
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -1880,7 +1885,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -1904,7 +1909,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -1919,15 +1924,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6558,
+      "Progressed": 6559,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-10T04:05:20.9988901+00:00",
+  "LastChanged_Achievements": "2023-06-10T05:06:12.1531685+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:33.0422041+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:57:17.9085053+00:00",
-  "LastUpdate_Achievements": "2023-06-10T04:05:20.998913+00:00"
+  "LastUpdate_Ratings": "2023-06-10T04:57:51.0498421+00:00",
+  "LastUpdate_Achievements": "2023-06-10T05:06:12.1532144+00:00"
 }

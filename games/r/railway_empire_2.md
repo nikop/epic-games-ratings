@@ -55,7 +55,7 @@
 | Accurate | 1.00% | ~10 |
 | European Union | 0.40% | ~4 |
 | Engineer | 0.30% | ~3 |
-| Call of Duty | 0.20% | ~2 |
+| Call of Duty | 0.30% | ~3 |
 | Three Cheers for Progress | 0.10% | ~1 |
 | Together we stand | 0.10% | ~1 |
 | United States | 0.00% | ~0 |

@@ -150,6 +150,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.20% | ~181 |
 | Captured! | 0.20% | ~181 |
 | Home Field Advantage | 0.20% | ~181 |
+| Double Vision | 0.20% | ~181 |
 | Force Grey Unleashed | 0.20% | ~181 |
 | Vajra's Guards | 0.20% | ~181 |
 | Wisdom Check | 0.20% | ~181 |
@@ -325,7 +326,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~57 |
 | No Good at All | 0.10% | ~90 |
 | Fall From Grace | 0.10% | ~90 |
-| Double Vision | 0.10% | ~90 |
 | Underground Railroad | 0.10% | ~90 |
 | Never Split the Party | 0.10% | ~90 |
 | Snakes on our Plane | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,289 (Ranked 64)  
+Progressed: 90,291 (Ranked 64)  
 Completed: 1,925 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,7 +551,7 @@ Completed: 1,925 (2.13%) (Ranked 66)
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
-| 2023-06-10 | 90,289 | 1,925 |
+| 2023-06-10 | 90,291 | 1,925 |
 ## Awards
 Max (Diverse Characters): 4,925  (Ranked 64)  
 Sum: 30,064 (Ranked 37)  

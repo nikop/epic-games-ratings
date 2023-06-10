@@ -9,7 +9,7 @@ Rating: 4.05 (Ranked 889)
 | World Map | 80.00% | ~1,079 |
 | Temple of Eternals | 57.00% | ~769 |
 | Prestigious | 53.00% | ~715 |
-| Fellowship Power | 40.00% | ~540 |
+| Fellowship Power | 41.00% | ~553 |
 | Guild Power | 24.00% | ~324 |
 | Prestigious x10 | 21.00% | ~283 |
 | The game is on | 18.00% | ~243 |

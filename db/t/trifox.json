@@ -169,9 +169,9 @@
       "ID": "ACH_GEMSCOLLECTED_1",
       "SetID": "cfld5bl",
       "Name": "What is this?",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
@@ -233,9 +233,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_02",
@@ -361,9 +361,9 @@
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_ENGINEER",
@@ -458,8 +458,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-06-10T04:00:16.8191775+00:00",
+  "LastChanged_Achievements": "2023-06-10T05:01:31.1117398+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:27.1604967+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:58:40.4334597+00:00",
-  "LastUpdate_Achievements": "2023-06-10T04:00:16.8192131+00:00"
+  "LastUpdate_Ratings": "2023-06-10T04:59:33.8910577+00:00",
+  "LastUpdate_Achievements": "2023-06-10T05:01:31.1117804+00:00"
 }

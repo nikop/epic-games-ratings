@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1633,
+  "EOS_Progressed": 1634,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1392,6 +1392,11 @@
       "Time": "2023-06-10T02:13:27.6678481+00:00",
       "NumProgressed": 1633,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-10T05:03:08.5361867+00:00",
+      "NumProgressed": 1634,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 30,
@@ -1403,7 +1408,7 @@
       "Name": "Become King",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "Collect20Gold",
@@ -1419,7 +1424,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "Collect50MonsterParts",
@@ -1427,7 +1432,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "CollectAllStatues",
@@ -1483,7 +1488,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1523,7 +1528,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -1577,9 +1582,9 @@
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 719
     },
     {
       "ID": "MeetTheMoles",
@@ -1587,7 +1592,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "MysteryKingsChamber",
@@ -1627,7 +1632,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1635,29 +1640,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1633,
+      "Progressed": 1634,
       "Completed": 7
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 274,
-      "Completed": 274
+      "Progressed": 275,
+      "Completed": 275
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-08T02:19:19.7115512+00:00",
-  "LastChanged_Achievements": "2023-06-10T04:02:26.6278009+00:00",
+  "LastChanged_Achievements": "2023-06-10T05:03:08.5361863+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.129082+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:58:03.7964267+00:00",
-  "LastUpdate_Achievements": "2023-06-10T04:02:26.6278285+00:00"
+  "LastUpdate_Ratings": "2023-06-10T04:58:48.0441966+00:00",
+  "LastUpdate_Achievements": "2023-06-10T05:03:08.5362315+00:00"
 }

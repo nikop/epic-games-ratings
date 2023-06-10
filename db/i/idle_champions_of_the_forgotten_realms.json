@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4198,9 +4198,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90289,
+  "EOS_Progressed": 90291,
   "EOS_Completed": 1925,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 721,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9358,6 +9358,11 @@
       "Time": "2023-06-10T04:05:47.1977356+00:00",
       "NumProgressed": 90289,
       "NumCompleted": 1925
+    },
+    {
+      "Time": "2023-06-10T05:06:41.4380426+00:00",
+      "NumProgressed": 90291,
+      "NumCompleted": 1925
     }
   ],
   "TotalAchievements": 493,
@@ -10535,9 +10540,9 @@
       "ID": "objective_completed_156",
       "SetID": "cc37lbc",
       "Name": "Double Vision",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_157",
@@ -13312,21 +13317,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56563,
+      "Progressed": 56565,
       "Completed": 2779
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90289,
+      "Progressed": 90291,
       "Completed": 1925
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-09T22:58:16.7265342+00:00",
-  "LastChanged_Achievements": "2023-06-10T04:05:47.1977347+00:00",
+  "LastChanged_Achievements": "2023-06-10T05:06:41.438042+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:57:48.9593813+00:00",
-  "LastUpdate_Achievements": "2023-06-10T04:05:47.1999157+00:00"
+  "LastUpdate_Ratings": "2023-06-10T04:58:29.5758602+00:00",
+  "LastUpdate_Achievements": "2023-06-10T05:06:41.4409863+00:00"
 }
