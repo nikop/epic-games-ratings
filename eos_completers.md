@@ -20,7 +20,7 @@
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 8.33% |
 | 19 | [Smelter](games/s/smelter.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.12% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.11% |
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
@@ -31,7 +31,7 @@
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.24% |
+| 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.21% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.17% |
@@ -56,7 +56,7 @@
 | 53 | [Lamentum](games/l/lamentum.md) | 2.79% |
 | 55 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 57 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.70% |
+| 57 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.69% |
 | 58 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.67% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 59 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.53% |
@@ -124,8 +124,8 @@
 | 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 122 | [Tchia](games/t/tchia.md) | 0.36% |
 | 122 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
-| 125 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 125 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
+| 125 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
+| 126 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 127 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
 | 127 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
