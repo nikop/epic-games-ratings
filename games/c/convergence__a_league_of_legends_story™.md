@@ -21,6 +21,7 @@
 | Breaking Down Barriers | 5.00% | ~33 |
 | The Wicked Twins | 5.00% | ~33 |
 | Golem Chaser | 5.00% | ~33 |
+| Fast Learner | 5.00% | ~33 |
 | Immaculate Aim | 5.00% | ~33 |
 | The Brass Boss | 5.00% | ~33 |
 | Chaincrawler Explorer | 4.00% | ~26 |
@@ -30,16 +31,16 @@
 | Family Memories | 4.00% | ~26 |
 | The Loose Cannon | 4.00% | ~26 |
 | Honest Mistake | 4.00% | ~26 |
-| Fast Learner | 4.00% | ~26 |
 | Sump Explorer | 4.00% | ~26 |
 | Check Your Pulse | 4.00% | ~26 |
+| Ask Questions Later | 4.00% | ~26 |
 | The Family Fortune | 4.00% | ~26 |
 | Whiz Kid | 3.00% | ~20 |
 | Syron for Hope | 3.00% | ~20 |
 | Theater Explorer | 3.00% | ~20 |
-| Ask Questions Later | 3.00% | ~20 |
 | Good Neighbor | 3.00% | ~20 |
 | Corin Goes Home | 2.00% | ~13 |
+| Clovemary for Remembering | 2.00% | ~13 |
 | Sartorialist | 2.00% | ~13 |
 | Cultivair Explorer | 2.00% | ~13 |
 | Entresol Explorer | 2.00% | ~13 |
@@ -47,12 +48,11 @@
 | Fairgrounds Explorer | 2.00% | ~13 |
 | Golem Hunter | 2.00% | ~13 |
 | Rungs Was Right | 2.00% | ~13 |
-| Clovemary for Remembering | 1.00% | ~7 |
-| Hexlock for Protection | 0.80% | ~5 |
+| Hexlock for Protection | 0.90% | ~6 |
 | Fitting In | 0.80% | ~5 |
 | Thinking Two Steps Ahead | 0.30% | ~2 |
 | Wunderkind | 0.30% | ~2 |
-| Wildlife Protection | 0.20% | ~1 |
+| Wildlife Protection | 0.30% | ~2 |
 | A Lesson in Precision | 0.20% | ~1 |
 | Going to Live Forever | 0.00% | ~0 |
 | Raw Talent | 0.00% | ~0 |

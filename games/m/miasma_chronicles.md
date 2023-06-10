@@ -5,28 +5,28 @@ Rating: 4.29 (Ranked 771)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~990 |
-| Ranidaphobia | 75.00% | ~816 |
-| Aspiring Editor | 72.00% | ~783 |
-| Gun for Hire | 67.00% | ~729 |
-| I am the law! | 59.00% | ~642 |
-| Lumberjack | 46.00% | ~500 |
+| First Blood | 91.00% | ~991 |
+| Ranidaphobia | 75.00% | ~817 |
+| Aspiring Editor | 72.00% | ~784 |
+| Gun for Hire | 67.00% | ~730 |
+| I am the law! | 59.00% | ~643 |
+| Lumberjack | 46.00% | ~501 |
 | Croaked | 41.00% | ~446 |
-| Limp Richard | 41.00% | ~446 |
-| From Darkness to Light | 40.00% | ~435 |
-| Editor Adept | 38.00% | ~413 |
-| Exorcist | 38.00% | ~413 |
+| Limp Richard | 40.00% | ~436 |
+| From Darkness to Light | 40.00% | ~436 |
+| Editor Adept | 38.00% | ~414 |
+| Exorcist | 38.00% | ~414 |
 | Firestarter | 37.00% | ~403 |
 | Giant Killer | 35.00% | ~381 |
 | Sensei | 33.00% | ~359 |
 | The meaning of Kain | 32.00% | ~348 |
-| Technophobe | 30.00% | ~326 |
-| Recycler | 27.00% | ~294 |
+| Technophobe | 30.00% | ~327 |
+| Recycler | 28.00% | ~305 |
 | Are you not entertained? | 24.00% | ~261 |
 | Ganglord | 23.00% | ~250 |
 | Jarhead | 23.00% | ~250 |
-| Infiltrator | 22.00% | ~239 |
-| Pushing Daisy | 22.00% | ~239 |
+| Infiltrator | 22.00% | ~240 |
+| Pushing Daisy | 22.00% | ~240 |
 | Chain Killer | 20.00% | ~218 |
 | Experienced | 19.00% | ~207 |
 | There Can Be Only One! | 19.00% | ~207 |
@@ -57,7 +57,7 @@ Rating: 4.29 (Ranked 771)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,088 (Ranked 172)  
+Progressed: 1,089 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 1,051 | 0 |
 | 2023-06-08 | 1,062 | 0 |
 | 2023-06-09 | 1,074 | 0 |
-| 2023-06-10 | 1,088 | 0 |
+| 2023-06-10 | 1,089 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

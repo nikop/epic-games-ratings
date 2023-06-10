@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 17.00% | ~1,656 |
+| Devoured by Darkness | 17.00% | ~1,657 |
 | A Spark | 12.00% | ~1,169 |
 | Burning City | 11.00% | ~1,072 |
 | Defender's Heart | 10.00% | ~974 |
 | Banner over the Citadel | 9.00% | ~877 |
 | Mythic Choices | 9.00% | ~877 |
-| Queen's Gratitude | 8.00% | ~779 |
+| Queen's Gratitude | 8.00% | ~780 |
 | Fifth Crusade | 5.00% | ~487 |
 | Embrace of the Abyss | 4.00% | ~390 |
 | Path of the Angel | 4.00% | ~390 |
@@ -35,11 +35,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Core of the Riddle | 2.00% | ~195 |
 | Your First Big Enemy | 2.00% | ~195 |
 | Hey, I Know You! | 2.00% | ~195 |
-| Stay Underground | 2.00% | ~170 |
-| Hanged Man's Notes | 2.00% | ~170 |
-| Sarkoris Will Be Green | 2.00% | ~170 |
-| The Lady of the Forest | 2.00% | ~170 |
-| Beware Still Water | 2.00% | ~170 |
+| Stay Underground | 2.00% | ~171 |
+| Hanged Man's Notes | 2.00% | ~171 |
+| Sarkoris Will Be Green | 2.00% | ~171 |
+| The Lady of the Forest | 2.00% | ~171 |
+| Beware Still Water | 2.00% | ~171 |
 | Path of the Demon | 1.00% | ~97 |
 | Path of the Aeon | 1.00% | ~97 |
 | Capitulation Is Now Moot | 1.00% | ~97 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,741 (Ranked 112)  
+Progressed: 9,745 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 9,619 | 0 |
 | 2023-06-08 | 9,650 | 0 |
 | 2023-06-09 | 9,691 | 0 |
-| 2023-06-10 | 9,741 | 0 |
+| 2023-06-10 | 9,745 | 0 |
 ## Awards
 Max (Character Customization): 1,658  (Ranked 111)  
 Sum: 6,727 (Ranked 109)  

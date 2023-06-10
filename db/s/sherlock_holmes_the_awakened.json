@@ -3,9 +3,9 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_Completed": 36,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 423,
-  "EOS_Completed": 16,
-  "EOS_NewPlayers": 66,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.78,
+  "EOS_Completed": 17,
+  "EOS_NewPlayers": 65,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 4.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1244,6 +1244,11 @@
       "Time": "2023-06-10T17:04:15.5012146+00:00",
       "NumProgressed": 423,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-10T23:03:45.0818101+00:00",
+      "NumProgressed": 423,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 28,
@@ -1317,9 +1322,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 199
+      "UsersEstimate": 203
     },
     {
       "ID": "MQ03_4",
@@ -1479,15 +1484,15 @@
       "ID": "bbing49",
       "IsBase": true,
       "Progressed": 423,
-      "Completed": 16
+      "Completed": 17
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:03:59.481475+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:03:45.0818096+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:57:17.3656912+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:03:59.4814957+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:57:05.30972+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:03:45.081839+00:00"
 }

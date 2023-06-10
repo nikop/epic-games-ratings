@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1029,9 +1029,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6321,
+  "EOS_Progressed": 6322,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5274,6 +5274,11 @@
       "Time": "2023-06-10T22:00:21.6455048+00:00",
       "NumProgressed": 6321,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T23:00:01.9721476+00:00",
+      "NumProgressed": 6322,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -5293,7 +5298,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "11",
@@ -5317,7 +5322,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3350
+      "UsersEstimate": 3351
     },
     {
       "ID": "14",
@@ -5365,7 +5370,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3350
+      "UsersEstimate": 3351
     },
     {
       "ID": "2",
@@ -5373,7 +5378,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "20",
@@ -5389,7 +5394,7 @@
       "Name": "The Great Healer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "22",
@@ -5397,7 +5402,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4489
     },
     {
       "ID": "23",
@@ -5445,7 +5450,7 @@
       "Name": "Merchant",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "29",
@@ -5483,9 +5488,9 @@
       "ID": "32",
       "SetID": "8idi9ml",
       "Name": "Slimy yet Satisfying",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 57
     },
     {
       "ID": "33",
@@ -5525,7 +5530,7 @@
       "Name": "Spreading Influence",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "38",
@@ -5533,7 +5538,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "39",
@@ -5557,7 +5562,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "41",
@@ -5605,7 +5610,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "47",
@@ -5709,7 +5714,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "59",
@@ -5741,7 +5746,7 @@
       "Name": "Real Survivor",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "9",
@@ -5756,15 +5761,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6321,
+      "Progressed": 6322,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-08T12:00:29.6040209+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:00:21.6455042+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:00:01.9721471+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.8731017+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:59:36.3516625+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:00:21.6455682+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:59:18.2670661+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:00:01.9722398+00:00"
 }

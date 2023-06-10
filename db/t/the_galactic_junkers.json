@@ -150,9 +150,9 @@
       "ID": "A_Board_1_Ship",
       "SetID": "56632p4",
       "Name": "Pirate",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "A_Board_25_Ships",
@@ -254,9 +254,9 @@
       "ID": "A_Mine_10_Asteroid",
       "SetID": "56632p4",
       "Name": "Expert Miner",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "A_Mine_1_Asteroid",
@@ -335,8 +335,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:03:04.2218281+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:02:21.8730334+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.0529187+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:58:43.5267495+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:03:04.2218406+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:58:28.7557386+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:02:21.8730508+00:00"
 }

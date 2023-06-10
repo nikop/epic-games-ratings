@@ -1,26 +1,26 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.56 (Ranked 452)  
+Rating: 4.56 (Ranked 453)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~473,530 |
-| Apprentice | 58.00% | ~381,455 |
-| Close Shave | 25.00% | ~164,420 |
+| The Fool | 72.00% | ~473,532 |
+| Apprentice | 58.00% | ~381,457 |
+| Close Shave | 25.00% | ~164,421 |
 | Mercenary | 23.00% | ~151,267 |
 | Ninja | 23.00% | ~151,267 |
 | Northern Scourge | 17.00% | ~111,806 |
-| Thief Bane | 14.00% | ~92,075 |
+| Thief Bane | 14.00% | ~92,076 |
 | Master of Arms | 12.00% | ~78,922 |
 | Gambler | 10.00% | ~65,768 |
 | Dice Master | 10.00% | ~65,768 |
-| Swordsman | 9.00% | ~59,191 |
-| Knight | 8.00% | ~52,614 |
-| Cure for Corruption | 8.00% | ~52,614 |
-| Focused | 8.00% | ~52,614 |
-| Flurry of Fury | 8.00% | ~52,614 |
+| Swordsman | 9.00% | ~59,192 |
+| Knight | 8.00% | ~52,615 |
+| Cure for Corruption | 8.00% | ~52,615 |
+| Focused | 8.00% | ~52,615 |
+| Flurry of Fury | 8.00% | ~52,615 |
 | Long Shot | 7.00% | ~46,038 |
 | Devil Dice | 7.00% | ~46,038 |
 | Adventurer | 6.00% | ~39,461 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 6.00% | ~39,461 |
 | Jack of all Trades | 5.00% | ~32,884 |
 | Smithy | 5.00% | ~32,884 |
-| Leap of Faith | 3.00% | ~19,730 |
-| Combat Ready | 3.00% | ~19,730 |
-| Stuffed Potato | 3.00% | ~19,730 |
+| Leap of Faith | 3.00% | ~19,731 |
+| Combat Ready | 3.00% | ~19,731 |
+| Stuffed Potato | 3.00% | ~19,731 |
 | Card Sharp | 2.00% | ~13,154 |
 | Magician | 2.00% | ~13,154 |
 | Draknar's Bane | 2.00% | ~13,154 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~658 |
 | Blood Pact | 0.10% | ~658 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657,681 (Ranked 19)  
+Progressed: 657,684 (Ranked 19)  
 Completed: 165 (0.03%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 165 (0.03%) (Ranked 190)
 | 2023-06-07 | 657,513 | 165 |
 | 2023-06-08 | 657,573 | 165 |
 | 2023-06-09 | 657,625 | 165 |
-| 2023-06-10 | 657,681 | 165 |
+| 2023-06-10 | 657,684 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 429)  
 Sum: 180 (Ranked 365)  

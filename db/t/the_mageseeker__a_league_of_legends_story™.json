@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2316,
+  "EOS_Progressed": 2317,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2463,6 +2463,11 @@
       "Time": "2023-06-10T22:05:42.1853099+00:00",
       "NumProgressed": 2316,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T23:05:23.5239661+00:00",
+      "NumProgressed": 2317,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2538,7 +2543,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2554,7 +2559,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2594,7 +2599,7 @@
       "Name": "Past trauma",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -2610,7 +2615,7 @@
       "Name": "Old friend",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2642,7 +2647,7 @@
       "Name": "Chains master",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -2650,7 +2655,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2658,7 +2663,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2690,7 +2695,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2698,7 +2703,7 @@
       "Name": "Thornbarrow",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2714,7 +2719,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2722,7 +2727,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2770,7 +2775,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "STB_PET_DOG",
@@ -2802,7 +2807,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -2810,7 +2815,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2890,14 +2895,14 @@
       "Name": "Petricite Burst",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2316,
+      "Progressed": 2317,
       "Completed": 1
     }
   ],
@@ -2905,8 +2910,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:05:42.1853095+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:05:23.5239657+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:57:34.5013092+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:05:42.1853713+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:57:22.8323965+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:05:23.5240317+00:00"
 }

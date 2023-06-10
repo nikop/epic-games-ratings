@@ -5,17 +5,17 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~746 |
+| Meeting Resistance | 29.00% | ~747 |
 | Confirming Suspicions | 24.00% | ~618 |
-| The Kraken Wakes | 19.00% | ~489 |
-| It's Starting to Crack | 17.00% | ~437 |
-| Lord of War | 14.00% | ~360 |
-| Change the Channel | 14.00% | ~360 |
-| Resourceful | 13.00% | ~334 |
+| The Kraken Wakes | 19.00% | ~490 |
+| It's Starting to Crack | 17.00% | ~438 |
+| Lord of War | 14.00% | ~361 |
+| Change the Channel | 14.00% | ~361 |
+| Resourceful | 13.00% | ~335 |
 | Taking it back | 12.00% | ~309 |
-| Organ Grinder | 10.00% | ~257 |
-| As Quiet as a Mouse | 10.00% | ~257 |
-| Target America | 10.00% | ~257 |
+| Organ Grinder | 10.00% | ~258 |
+| As Quiet as a Mouse | 10.00% | ~258 |
+| Target America | 10.00% | ~258 |
 | The Kraken Sleeps | 9.00% | ~232 |
 | Liberté | 8.00% | ~206 |
 | Enemy at the Gates | 8.00% | ~206 |
@@ -24,11 +24,11 @@ Rating: 4.51 (Ranked 528)
 | Sharpshooter | 8.00% | ~206 |
 | Explosive Efficiency | 8.00% | ~206 |
 | Opposing Force | 7.00% | ~180 |
-| Die Nussknacker Sweet! | 6.00% | ~154 |
-| Der Geist | 6.00% | ~154 |
-| Close Quarters | 6.00% | ~154 |
-| Snake in the Grass | 6.00% | ~154 |
-| Brains of the Operation | 6.00% | ~154 |
+| Die Nussknacker Sweet! | 6.00% | ~155 |
+| Der Geist | 6.00% | ~155 |
+| Close Quarters | 6.00% | ~155 |
+| Snake in the Grass | 6.00% | ~155 |
+| Brains of the Operation | 6.00% | ~155 |
 | Climbing the Ladder | 5.00% | ~129 |
 | No Stone Unturned | 5.00% | ~129 |
 | Fields of Glory | 5.00% | ~129 |
@@ -36,9 +36,9 @@ Rating: 4.51 (Ranked 528)
 | Set Europe Ablaze | 5.00% | ~129 |
 | Precision Is Key | 4.00% | ~103 |
 | Rigged to Blow | 3.00% | ~77 |
-| The Long Game | 2.00% | ~51 |
-| My Little Friend | 2.00% | ~51 |
-| It'll Buff Right Out | 2.00% | ~51 |
+| The Long Game | 2.00% | ~52 |
+| My Little Friend | 2.00% | ~52 |
+| It'll Buff Right Out | 2.00% | ~52 |
 | Strategist | 1.00% | ~26 |
 | Tinkerer | 1.00% | ~26 |
 | Locomotion Commotion | 1.00% | ~26 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,573 (Ranked 146)  
+Progressed: 2,577 (Ranked 146)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
-| 2023-06-10 | 2,573 | 2 |
+| 2023-06-10 | 2,577 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 385,
+  "EOS_Progressed": 386,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -194,6 +194,11 @@
       "Time": "2023-06-10T15:03:14.8773738+00:00",
       "NumProgressed": 385,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T23:03:01.4936952+00:00",
+      "NumProgressed": 386,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -227,9 +232,9 @@
       "ID": "CampaignStars3",
       "SetID": "c2k469b",
       "Name": "Campaign Gold",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 50
     },
     {
       "ID": "CampaignStars4",
@@ -365,7 +370,7 @@
       "Name": "Tuto",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "PlanetUdionTorix",
@@ -396,7 +401,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 385,
+      "Progressed": 386,
       "Completed": 0
     }
   ],
@@ -404,8 +409,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:03:14.5242375+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:03:01.4936946+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.3178647+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:58:59.5630479+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:03:14.5242514+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:58:43.0973605+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:03:01.493762+00:00"
 }

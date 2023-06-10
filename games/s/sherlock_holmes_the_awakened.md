@@ -9,8 +9,8 @@
 | High Profile | 55.00% | ~233 |
 | Whispers In The Dark | 54.00% | ~228 |
 | Fond Memories | 50.00% | ~212 |
+| History Check | 48.00% | ~203 |
 | A Method To His Madness | 48.00% | ~203 |
-| History Check | 47.00% | ~199 |
 | Lock, Stock, And Barrel | 44.00% | ~186 |
 | The New World | 44.00% | ~186 |
 | Gaze Into The Abyss | 43.00% | ~182 |
@@ -34,7 +34,7 @@
 | Reawakened | 5.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 423 (Ranked 209)  
-Completed: 16 (3.78%) (Ranked 40)  
+Completed: 17 (4.02%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,7 +81,7 @@ Completed: 16 (3.78%) (Ranked 40)
 | 2023-06-07 | 395 | 16 |
 | 2023-06-08 | 401 | 16 |
 | 2023-06-09 | 414 | 16 |
-| 2023-06-10 | 423 | 16 |
+| 2023-06-10 | 423 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

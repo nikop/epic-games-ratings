@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3031,
+  "EOS_Progressed": 3032,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3616,6 +3616,11 @@
       "Time": "2023-06-10T22:05:21.6531674+00:00",
       "NumProgressed": 3031,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T23:05:04.1520864+00:00",
+      "NumProgressed": 3032,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -3643,7 +3648,7 @@
       "Name": "Telepathic",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "12",
@@ -3683,7 +3688,7 @@
       "Name": "Dense Forest",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "3",
@@ -3691,7 +3696,7 @@
       "Name": "Cactus Vally",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "4",
@@ -3715,7 +3720,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "7",
@@ -3739,14 +3744,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3031,
+      "Progressed": 3032,
       "Completed": 0
     }
   ],
@@ -3754,8 +3759,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:05:21.6531668+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:05:04.152086+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.95723+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:57:57.9303577+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:05:21.6531926+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:57:45.166561+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:05:04.1521229+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1011,
+  "EOS_Progressed": 1012,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -358,6 +358,11 @@
       "Time": "2023-06-10T08:07:21.9049448+00:00",
       "NumProgressed": 1011,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T23:05:27.6639416+00:00",
+      "NumProgressed": 1012,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -601,7 +606,7 @@
       "Name": "Running at the speed of sound",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "FLYLONG",
@@ -784,7 +789,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1011,
+      "Progressed": 1012,
       "Completed": 0
     }
   ],
@@ -792,8 +797,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:05:46.4726239+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:05:27.6639412+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.9246105+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:58:00.851745+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:05:46.4726606+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:57:48.0097869+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:05:27.6639896+00:00"
 }

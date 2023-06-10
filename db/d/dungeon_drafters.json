@@ -324,9 +324,9 @@
       "ID": "MasterTravelerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Setting Off",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -541,8 +541,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:05:34.8014055+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:05:16.2658738+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:21.5021658+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:57:19.1681942+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:05:34.80143+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:57:06.5875166+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:05:16.2659055+00:00"
 }

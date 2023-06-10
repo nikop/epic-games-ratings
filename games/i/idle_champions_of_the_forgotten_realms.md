@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.40% | ~361 |
 | The Contagious Curse | 0.40% | ~361 |
 | Escort to Waterdeep | 0.40% | ~361 |
+| Third Third Out | 0.30% | ~170 |
 | The Silken Swamp | 0.30% | ~271 |
 | Supply Run | 0.30% | ~271 |
 | Keep Your Distance | 0.30% | ~170 |
@@ -100,7 +101,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Downfall | 0.20% | ~113 |
 | First Third Out | 0.20% | ~113 |
 | Second Third Out | 0.20% | ~113 |
-| Third Third Out | 0.20% | ~113 |
 | Slack-jawed Lorna | 0.20% | ~113 |
 | I'm Sure I Saw It Move! | 0.20% | ~113 |
 | End of the Line | 0.20% | ~113 |
@@ -553,12 +553,12 @@ Completed: 1,926 (2.13%) (Ranked 66)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 ## Awards
-Max (Diverse Characters): 4,925  (Ranked 64)  
-Sum: 30,072 (Ranked 37)  
+Max (Diverse Characters): 4,928  (Ranked 64)  
+Sum: 30,075 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,925 |
+| This game has Diverse Characters | 4,928 |
 | This game is Great for Beginners | 4,864 |
 | This game has Quickly Understood Controls | 4,613 |
 | This game is Relaxing | 4,511 |
@@ -703,4 +703,4 @@ Diff (max vs sum): 27
 | 2023-06-07 | 4.06 | - | 4,920 | 30,049 |
 | 2023-06-08 | 4.06 | - | 4,922 | 30,051 |
 | 2023-06-09 | 4.06 | - | 4,925 | 30,064 |
-| 2023-06-10 | 4.06 | - | 4,925 | 30,072 |
+| 2023-06-10 | 4.06 | - | 4,928 | 30,075 |

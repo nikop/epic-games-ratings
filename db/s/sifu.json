@@ -4530,10 +4530,10 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 708583,
+  "EOS_Progressed": 708593,
   "EOS_Completed": 12764,
-  "EOS_NewPlayers": 1394,
-  "EOS_NewCompleters": 11,
+  "EOS_NewPlayers": 1399,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -9340,6 +9340,11 @@
       "Time": "2023-06-10T22:05:50.7208536+00:00",
       "NumProgressed": 708583,
       "NumCompleted": 12764
+    },
+    {
+      "Time": "2023-06-10T23:05:31.6200761+00:00",
+      "NumProgressed": 708593,
+      "NumCompleted": 12764
     }
   ],
   "TotalAchievements": 50,
@@ -9399,7 +9404,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4251
+      "UsersEstimate": 4252
     },
     {
       "ID": "08_Wude_H2",
@@ -9695,7 +9700,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9750,21 +9755,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17884,
+      "Progressed": 17894,
       "Completed": 10252
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708583,
+      "Progressed": 708593,
       "Completed": 12764
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-10T18:59:36.8307469+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:05:50.7208533+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:05:31.6200756+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:58:48.1176129+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:05:50.7209053+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:58:33.0579543+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:05:31.6201526+00:00"
 }

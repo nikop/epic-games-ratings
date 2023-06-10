@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 979,
+  "EOS_Progressed": 980,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -773,6 +773,11 @@
       "Time": "2023-06-10T22:05:42.1682764+00:00",
       "NumProgressed": 979,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T23:05:23.3518418+00:00",
+      "NumProgressed": 980,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -816,7 +821,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "06",
@@ -848,7 +853,7 @@
       "Name": "Awakening",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "10",
@@ -912,7 +917,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "18",
@@ -967,7 +972,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 979,
+      "Progressed": 980,
       "Completed": 0
     }
   ],
@@ -975,8 +980,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:05:42.1682758+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:05:23.3518414+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:59:24.0942429+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:05:42.1682905+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:59:06.0384575+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:05:23.3518617+00:00"
 }

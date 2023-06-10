@@ -6,9 +6,9 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 148,
-  "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_Completed": 37,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -330,9 +330,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2440,
+  "EOS_Progressed": 2441,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.93,
   "EosHistory": [
@@ -1230,6 +1230,11 @@
       "Time": "2023-06-10T19:03:17.3962845+00:00",
       "NumProgressed": 2440,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-06-10T23:02:21.686015+00:00",
+      "NumProgressed": 2441,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 14,
@@ -1289,7 +1294,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -1329,7 +1334,7 @@
       "Name": "Shovel Night",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -1345,14 +1350,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2440,
+      "Progressed": 2441,
       "Completed": 96
     }
   ],
@@ -1360,8 +1365,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-05T22:00:26.3420461+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:03:04.0402831+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:02:21.6860146+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:52.2679563+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:59:54.6509117+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:03:04.0402987+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:59:36.6256493+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:02:21.6860339+00:00"
 }

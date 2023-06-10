@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6577,
+  "EOS_Progressed": 6578,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1738,6 +1738,11 @@
       "Time": "2023-06-10T19:06:45.0667181+00:00",
       "NumProgressed": 6577,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-10T23:05:14.3623494+00:00",
+      "NumProgressed": 6578,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -1829,7 +1834,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -1877,7 +1882,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -1901,7 +1906,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3683
+      "UsersEstimate": 3684
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -1917,7 +1922,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -1941,7 +1946,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -1964,15 +1969,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6577,
+      "Progressed": 6578,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:05:32.9976688+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:05:14.362349+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:33.0422041+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:57:26.5242608+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:05:32.9976901+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:57:14.1782938+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:05:14.362379+00:00"
 }

@@ -45,9 +45,9 @@ Rating: 4.57 (Ranked 443)
 | Praise the Hull! | 0.90% | ~23 |
 | Space Greenhouse | 0.90% | ~23 |
 | You Had One Job... | 0.80% | ~21 |
+| Help of the Forgotten Member | 0.80% | ~21 |
 | Tiqqun Contender | 0.70% | ~18 |
 | Tiqqun Unchained | 0.70% | ~18 |
-| Help of the Forgotten Member | 0.70% | ~18 |
 | Gregor Spinoza | 0.60% | ~15 |
 | Scientifically Accurate | 0.60% | ~15 |
 | Better Him Than Me | 0.50% | ~13 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 443)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,569 (Ranked 147)  
+Progressed: 2,570 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-07 | 2,488 | 0 |
 | 2023-06-08 | 2,515 | 0 |
 | 2023-06-09 | 2,541 | 0 |
-| 2023-06-10 | 2,569 | 0 |
+| 2023-06-10 | 2,570 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

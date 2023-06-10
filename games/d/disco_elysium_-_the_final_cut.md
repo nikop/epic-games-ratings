@@ -6,15 +6,15 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,900 |
+| Goodest Of The Good Cops | 28.00% | ~33,901 |
 | Biggest Communism Builder | 24.00% | ~29,058 |
 | The World's Most Laughable Centrist | 20.00% | ~24,215 |
-| Il Coppo Del'Arte! | 18.00% | ~21,793 |
+| Il Coppo Del'Arte! | 18.00% | ~21,794 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,372 |
 | Hyperstellar Law Official | 15.00% | ~18,161 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~16,950 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,739 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,739 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,740 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,740 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,318 |
 | The Figurines Won't Win Her Back | 9.00% | ~10,897 |
 | Unbelievably Boring **** | 8.00% | ~9,686 |
@@ -24,10 +24,10 @@ Number of Ratings: 1,611  (23.09.2022)
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,843 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,632 |
 | Bother Kim After Hours | 3.00% | ~3,632 |
-| Baddest Of the Bad Cops | 2.00% | ~2,421 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,421 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,421 |
-| Wheel of Pleasure and Light | 2.00% | ~2,421 |
+| Baddest Of the Bad Cops | 2.00% | ~2,422 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,422 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,422 |
+| Wheel of Pleasure and Light | 2.00% | ~2,422 |
 | Massive Torque Dork | 1.00% | ~1,211 |
 | Avowed Inframaterialist | 0.90% | ~1,090 |
 | Real Musor | 0.90% | ~1,090 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~121 |
 | What body? | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,073 (Ranked 59)  
+Progressed: 121,075 (Ranked 59)  
 Completed: 25 (0.02%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 25 (0.02%) (Ranked 196)
 | 2023-06-07 | 120,702 | 25 |
 | 2023-06-08 | 120,819 | 25 |
 | 2023-06-09 | 120,942 | 25 |
-| 2023-06-10 | 121,073 | 25 |
+| 2023-06-10 | 121,075 | 25 |
 ## Awards
 Max (Character Customization): 694  (Ranked 157)  
 Sum: 1,053 (Ranked 231)  

@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 56,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 10.71,
   "EosHistory": [
@@ -280,9 +280,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 175,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -335,8 +335,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:03:21.9420271+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:03:09.0556184+00:00",
   "LastUpdate_AppInfo": "2023-06-08T09:57:08.8988878+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:57:01.1031372+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:03:21.9420342+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:56:48.9910992+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:03:09.055626+00:00"
 }

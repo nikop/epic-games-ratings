@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245,
+  "EOS_Progressed": 246,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -126,6 +126,11 @@
       "Time": "2023-06-08T21:05:28.2370421+00:00",
       "NumProgressed": 245,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-10T23:05:07.4733954+00:00",
+      "NumProgressed": 246,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 16,
@@ -177,7 +182,7 @@
       "Name": "Prisoner",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -201,7 +206,7 @@
       "Name": "Janken The Great",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_04",
@@ -217,7 +222,7 @@
       "Name": "Pacifist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "NO_PURCHASES",
@@ -264,7 +269,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 245,
+      "Progressed": 246,
       "Completed": 3
     }
   ],
@@ -272,8 +277,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-06-10T22:05:25.0374819+00:00",
+  "LastChanged_Achievements": "2023-06-10T23:05:07.473395+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:22.8154211+00:00",
-  "LastUpdate_Ratings": "2023-06-10T21:58:02.6960119+00:00",
-  "LastUpdate_Achievements": "2023-06-10T22:05:25.0374918+00:00"
+  "LastUpdate_Ratings": "2023-06-10T22:57:50.0467247+00:00",
+  "LastUpdate_Achievements": "2023-06-10T23:05:07.4734086+00:00"
 }
