@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Cepheus Protocol](games/c/cepheus_protocol.md) | 2023-06-10 | 5 (1,000 XP) | 1 | - | - |
 | [Super Arcade Boy in Goodbye Greenies](games/f/f0ef89978ffb450cbeb974a01d8f7bbe.md) | 2023-06-10 | - |  | - | - |
 | [Television Trivia](games/4/47992822501440c2b8773895e0d7f100.md) | 2023-06-10 | - |  | - | - |
 | [Shrommzzz](games/4/4db2dc09cc0b4051ac65216312c90a5b.md) | 2023-06-11 | - |  | - | - |
@@ -350,6 +349,7 @@
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2099-01-01 | - |  | - | - |
 | [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | - |  | 4.70 | 0 |
 | [The Most Awesome Game Ever Made](games/t/the_most_awesome_game_ever_made.md) | 2099-01-01 | - |  | - | - |
+| [The Spirit of the Samurai](games/7/7e23872d64c54cb08e988a697bd03839.md) | 2099-01-01 | - |  | - | - |
 | [The Thaumaturge](games/t/the_thaumaturge.md) | 2099-01-01 | - |  | - | - |
 | [Three Kingdoms The Last Warlord](games/t/three_kingdoms_the_last_warlord.md) | 2099-01-01 | 192 (1,000 XP) | 0 | - | - |
 | [Tracks of Thought](games/t/tracks_of_thought.md) | 2099-01-01 | - |  | - | - |
