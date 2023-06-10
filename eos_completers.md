@@ -8,14 +8,14 @@
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 20.00% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
-| 9 | [Island Cities](games/i/island_cities.md) | 16.18% |
+| 9 | [Island Cities](games/i/island_cities.md) | 16.13% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.64% |
-| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
+| 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.42% |
 | 17 | [Without Escape](games/w/without_escape.md) | 9.09% |
 | 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 19 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 8.33% |
@@ -80,7 +80,7 @@
 | 78 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 79 | [Frogun](games/f/frogun.md) | 1.50% |
 | 80 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.33% |
-| 81 | [Ten Dates](games/t/ten_dates.md) | 1.25% |
+| 81 | [Ten Dates](games/t/ten_dates.md) | 1.24% |
 | 82 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.23% |
 | 83 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
 | 84 | [Chorus](games/c/chorus.md) | 1.16% |
