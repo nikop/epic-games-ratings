@@ -3,6 +3,7 @@
 | [Cepheus Protocol](games/c/cepheus_protocol.md) | 2023-06-10 | 5 (1,000 XP) | 1 | - | - |
 | [Super Arcade Boy in Goodbye Greenies](games/f/f0ef89978ffb450cbeb974a01d8f7bbe.md) | 2023-06-10 | - |  | - | - |
 | [Television Trivia](games/4/47992822501440c2b8773895e0d7f100.md) | 2023-06-10 | - |  | - | - |
+| [Shrommzzz](games/4/4db2dc09cc0b4051ac65216312c90a5b.md) | 2023-06-11 | - |  | - | - |
 | [Video Game Trivia](games/5/52f01e9ec9454a24abaae68620d9e369.md) | 2023-06-11 | - |  | - | - |
 | [Delivery from the Pain](games/d/delivery_from_the_pain.md) | 2023-06-12 | - |  | - | - |
 | [Daydream. Forgotten Sorrow](games/7/7b8963f6857041fd97a4a23845eb113d.md) | 2023-06-14 | - |  | - | - |
@@ -45,7 +46,6 @@
 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 2023-06-30 | 16 (1,000 XP) | 1 | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-06-30 | - |  | - | - |
 | [SHAFTED](games/s/shafted.md) | 2023-06-30 | - |  | - | - |
-| [Shrommzzz](games/4/4db2dc09cc0b4051ac65216312c90a5b.md) | 2023-06-30 | - |  | - | - |
 | [Spiritle](games/f/fb7fec81b0e24770b17b83666e47dddf.md) | 2023-06-30 | - |  | - | - |
 | [Stillborn Slayer](games/s/stillborn_slayer.md) | 2023-06-30 | - |  | - | - |
 | [Tabletop Playground](games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 2023-06-30 | 5 (1,000 XP) | 3 | - | - |
@@ -281,6 +281,7 @@
 | [Meta Nemesis](games/m/meta_nemesis.md) | 2099-01-01 | - |  | - | - |
 | [MeteoHeroes Saving Planet Earth!](games/m/meteoheroes_saving_planet_earth!.md) | 2099-01-01 | 25 (1,000 XP) | 0 | - | - |
 | [Metro Simulator](games/d/d1c8b68acafc466d9b393b5ff6797dc4.md) | 2099-01-01 | - |  | - | - |
+| [Metro Simulator 2](games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 2099-01-01 | - |  | - | - |
 | [Midnight Pufferfish Show](games/4/4019249f7e6b41f8b063d7a3b36840dd.md) | 2099-01-01 | - |  | - | - |
 | [Moon Mystery](games/m/moon_mystery.md) | 2099-01-01 | - |  | - | - |
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | 2099-01-01 | - |  | - | - |
@@ -389,7 +390,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,747 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,748 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |
