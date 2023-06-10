@@ -2,13 +2,13 @@
   "ID": "b2b41af461d94357942f198fb331bb35",
   "Name": "Chronos: Before the Ashes",
   "ProductSlug": "chronos-before-the-ashes",
-  "Ranking_Rating": 869,
+  "Ranking_Rating": 874,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-12-01T18:00:00+00:00",
     "PcReleaseDate": "2020-12-01T18:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.13,
+  "Rating": 4.1,
   "RatingHistory": [
     {
       "Time": "2022-10-20T18:00:38.5119539+00:00",
@@ -66,6 +66,12 @@
       "Rating": 4.13,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-10T03:01:07.7784315+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -84,8 +90,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:44.7421623+00:00",
   "FirstSeenRating": "2022-10-20T18:00:38.5119535+00:00",
-  "LastChanged": "2023-06-04T02:34:42.4661567+00:00",
+  "LastChanged": "2023-06-10T03:01:07.7784314+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:58.5414634+00:00",
-  "LastUpdate_Ratings": "2023-06-10T02:09:50.7656003+00:00",
-  "LastUpdate_Achievements": "2023-06-10T02:13:22.0987135+00:00"
+  "LastUpdate_Ratings": "2023-06-10T03:01:07.7784318+00:00",
+  "LastUpdate_Achievements": "2023-06-10T03:04:20.5058194+00:00"
 }

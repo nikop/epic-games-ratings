@@ -36,8 +36,8 @@ Number of Ratings: 58  (23.09.2022)
 | Mastery of Weapons | 29.00% | ~274 |
 | Disciple | 29.00% | ~274 |
 | Two Birds | 25.00% | ~236 |
+| Uneasy Alliance | 24.00% | ~227 |
 | Ghosts | 24.00% | ~227 |
-| Uneasy Alliance | 23.00% | ~218 |
 | Mastery of Combat | 21.00% | ~199 |
 | Retaliate | 21.00% | ~199 |
 | Mastery of Rites | 20.00% | ~189 |

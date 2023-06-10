@@ -6,23 +6,23 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~32,017 |
-| First Steps | 81.00% | ~27,886 |
-| Control the Shadows | 68.00% | ~23,410 |
-| Tools of the Trade | 63.00% | ~21,689 |
-| Apprentice | 60.00% | ~20,656 |
-| Secret Seeker | 57.00% | ~19,623 |
-| Forge of Assassins | 56.00% | ~19,279 |
-| Revenant | 52.00% | ~17,902 |
-| I don’t Care! | 45.00% | ~15,492 |
+| Awakening | 93.00% | ~32,018 |
+| First Steps | 81.00% | ~27,887 |
+| Control the Shadows | 68.00% | ~23,411 |
+| Tools of the Trade | 63.00% | ~21,690 |
+| Apprentice | 60.00% | ~20,657 |
+| Secret Seeker | 57.00% | ~19,624 |
+| Forge of Assassins | 56.00% | ~19,280 |
+| Revenant | 52.00% | ~17,903 |
+| I don’t Care! | 45.00% | ~15,493 |
 | Bird of Prey | 37.00% | ~12,738 |
 | Engraved with Power | 32.00% | ~11,017 |
 | Lady | 30.00% | ~10,328 |
-| Fashionable Assassin | 27.00% | ~9,295 |
-| Apex Predator | 24.00% | ~8,262 |
+| Fashionable Assassin | 27.00% | ~9,296 |
+| Apex Predator | 24.00% | ~8,263 |
 | Soul Reaver | 22.00% | ~7,574 |
 | Embers | 21.00% | ~7,230 |
-| Wall Lizard | 20.00% | ~6,885 |
+| Wall Lizard | 20.00% | ~6,886 |
 | Clinging to Life | 18.00% | ~6,197 |
 | Burning | 17.00% | ~5,853 |
 | Look Behind You | 16.00% | ~5,508 |
@@ -32,8 +32,8 @@ Number of Ratings: 88  (23.09.2022)
 | Signature Move | 14.00% | ~4,820 |
 | Ruse | 11.00% | ~3,787 |
 | Master Ninja | 10.00% | ~3,443 |
-| Hatching | 9.00% | ~3,098 |
-| Bonds | 9.00% | ~3,098 |
+| Hatching | 9.00% | ~3,099 |
+| Bonds | 9.00% | ~3,099 |
 | Denouement | 8.00% | ~2,754 |
 | Get Over Here | 8.00% | ~2,754 |
 | The Hidden Village | 8.00% | ~2,754 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~344 |
 | Anger Management | 1.00% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,427 (Ranked 86)  
+Progressed: 34,428 (Ranked 86)  
 Completed: 167 (0.49%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 167 (0.49%) (Ranked 115)
 | 2023-06-07 | 34,258 | 166 |
 | 2023-06-08 | 34,340 | 166 |
 | 2023-06-09 | 34,411 | 167 |
-| 2023-06-10 | 34,427 | 167 |
+| 2023-06-10 | 34,428 | 167 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

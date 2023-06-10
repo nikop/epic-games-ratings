@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~760 |
-| Departure | 71.00% | ~739 |
-| A new Journey | 71.00% | ~739 |
+| Country Bumpkin | 73.00% | ~761 |
+| Departure | 71.00% | ~740 |
+| A new Journey | 71.00% | ~740 |
 | From X to Y | 70.00% | ~729 |
-| Way of Iron | 69.00% | ~718 |
-| Mystery Tour | 66.00% | ~687 |
+| Way of Iron | 69.00% | ~719 |
+| Mystery Tour | 66.00% | ~688 |
 | Brainstorm | 65.00% | ~677 |
 | We brake for nobody | 65.00% | ~677 |
 | Mind the Gap | 63.00% | ~656 |
@@ -18,14 +18,14 @@
 | Right through the middle | 55.00% | ~573 |
 | Facility Manager | 51.00% | ~531 |
 | Poor Devil | 51.00% | ~531 |
-| Producer | 47.00% | ~489 |
-| Apprentice | 42.00% | ~437 |
+| Producer | 47.00% | ~490 |
+| Apprentice | 42.00% | ~438 |
 | Bridge Builder | 38.00% | ~396 |
-| Stoker | 34.00% | ~354 |
 | Access granted | 34.00% | ~354 |
+| Stoker | 33.00% | ~344 |
 | Full Steam ahead | 29.00% | ~302 |
 | Going once, going twice, sold | 29.00% | ~302 |
-| Bull and bear | 28.00% | ~291 |
+| Bull and bear | 28.00% | ~292 |
 | Mole | 26.00% | ~271 |
 | All mine | 24.00% | ~250 |
 | Financial Shark | 24.00% | ~250 |
@@ -34,7 +34,7 @@
 | General Manager | 21.00% | ~219 |
 | Country Life | 21.00% | ~219 |
 | Hostile Takeover | 21.00% | ~219 |
-| Trailblazer | 18.00% | ~187 |
+| Trailblazer | 18.00% | ~188 |
 | Traffic Jam | 15.00% | ~156 |
 | Breaking Ground | 15.00% | ~156 |
 | Assimilated | 14.00% | ~146 |
@@ -46,7 +46,7 @@
 | Settler | 9.00% | ~94 |
 | Go West | 8.00% | ~83 |
 | Bold and beautiful | 7.00% | ~73 |
-| Tycoon | 6.00% | ~62 |
+| Tycoon | 6.00% | ~63 |
 | A new Hope | 5.00% | ~52 |
 | Unstoppable | 2.00% | ~21 |
 | Track to the Future | 2.00% | ~21 |
@@ -60,7 +60,7 @@
 | Together we stand | 0.10% | ~1 |
 | United States | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,041 (Ranked 173)  
+Progressed: 1,042 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,4 +87,4 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 984 | 0 |
 | 2023-06-08 | 1,007 | 0 |
 | 2023-06-09 | 1,037 | 0 |
-| 2023-06-10 | 1,041 | 0 |
+| 2023-06-10 | 1,042 | 0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1180,
+  "EOS_Progressed": 1181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1717,6 +1717,11 @@
       "Time": "2023-06-10T00:04:02.575472+00:00",
       "NumProgressed": 1180,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T03:05:39.619475+00:00",
+      "NumProgressed": 1181,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1846,9 +1851,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 366
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1880,7 +1885,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -1904,7 +1909,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -1920,7 +1925,7 @@
       "Name": "Gardener",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -1944,7 +1949,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -2111,7 +2116,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1180,
+      "Progressed": 1181,
       "Completed": 0
     }
   ],
@@ -2119,8 +2124,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-08T18:57:45.1074866+00:00",
-  "LastChanged_Achievements": "2023-06-10T02:14:31.4117887+00:00",
+  "LastChanged_Achievements": "2023-06-10T03:05:39.6194743+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-10T02:08:04.9400528+00:00",
-  "LastUpdate_Achievements": "2023-06-10T02:14:31.4118482+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:59:18.9237123+00:00",
+  "LastUpdate_Achievements": "2023-06-10T03:05:39.6195879+00:00"
 }

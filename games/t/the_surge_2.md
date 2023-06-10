@@ -5,26 +5,26 @@ Rating: 4.24 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,392 |
-| Don't I Know You...? | 76.00% | ~1,322 |
-| Jailbreak | 65.00% | ~1,131 |
-| Suited and Booted | 38.00% | ~661 |
-| HEADSHOT! | 37.00% | ~644 |
-| Sleeping With The Fishes | 35.00% | ~609 |
-| Overheated | 30.00% | ~522 |
-| High Performance | 30.00% | ~522 |
-| Powered Up | 28.00% | ~487 |
+| Rigged And Ready | 80.00% | ~1,394 |
+| Don't I Know You...? | 76.00% | ~1,324 |
+| Jailbreak | 65.00% | ~1,132 |
+| Suited and Booted | 38.00% | ~662 |
+| HEADSHOT! | 37.00% | ~645 |
+| Sleeping With The Fishes | 35.00% | ~610 |
+| Overheated | 30.00% | ~523 |
+| High Performance | 30.00% | ~523 |
+| Powered Up | 28.00% | ~488 |
 | Studied The Blade | 24.00% | ~418 |
 | Home Invasion | 22.00% | ~383 |
 | Luminary | 22.00% | ~383 |
 | It's a Trap | 22.00% | ~383 |
-| True Survivor | 21.00% | ~365 |
+| True Survivor | 21.00% | ~366 |
 | Shocking | 20.00% | ~348 |
 | Court Martial | 19.00% | ~331 |
 | Offensive Defense | 19.00% | ~331 |
 | Unforeseeable Consequences | 19.00% | ~331 |
-| Dead Again | 18.00% | ~313 |
-| Clean Cut | 18.00% | ~313 |
+| Dead Again | 18.00% | ~314 |
+| Clean Cut | 18.00% | ~314 |
 | Full Arsenal | 17.00% | ~296 |
 | Can't Trust Banks | 15.00% | ~261 |
 | Mommy Dearest | 13.00% | ~226 |
@@ -34,7 +34,7 @@ Rating: 4.24 (Ranked 800)
 | What A Catchy Song | 13.00% | ~226 |
 | Marked For Success | 12.00% | ~209 |
 | Sorry, Didn't See You There | 12.00% | ~209 |
-| Corrupted Beauty | 11.00% | ~191 |
+| Corrupted Beauty | 11.00% | ~192 |
 | Triplets | 10.00% | ~174 |
 | Stimulating The Local Economy | 9.00% | ~157 |
 | Denying Prophecy | 8.00% | ~139 |
@@ -42,9 +42,9 @@ Rating: 4.24 (Ranked 800)
 | A Little Banged Up | 7.00% | ~122 |
 | Reverse Engineering | 7.00% | ~122 |
 | Following In Their Footsteps | 7.00% | ~122 |
-| Turbo Booster | 6.00% | ~104 |
-| Juiced Up | 6.00% | ~104 |
-| Squid Pro Quo | 6.00% | ~104 |
+| Turbo Booster | 6.00% | ~105 |
+| Juiced Up | 6.00% | ~105 |
+| Squid Pro Quo | 6.00% | ~105 |
 | Reborn | 5.00% | ~87 |
 | Remote Surgery | 5.00% | ~87 |
 | Shrimp Cocktail | 5.00% | ~87 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 800)
 | Three Birds With One Stone | 1.00% | ~17 |
 | The Easy Way Out | 1.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,740 (Ranked 155)  
+Progressed: 1,742 (Ranked 155)  
 Completed: 10 (0.57%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 10 (0.57%) (Ranked 111)
 | 2023-06-07 | 1,721 | 10 |
 | 2023-06-08 | 1,733 | 10 |
 | 2023-06-09 | 1,739 | 10 |
-| 2023-06-10 | 1,740 | 10 |
+| 2023-06-10 | 1,742 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

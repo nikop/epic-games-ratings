@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1029,7 +1029,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6289,
+  "EOS_Progressed": 6290,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
@@ -5184,6 +5184,11 @@
       "Time": "2023-06-10T02:10:57.8289198+00:00",
       "NumProgressed": 6289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T03:02:17.0816164+00:00",
+      "NumProgressed": 6290,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -5195,7 +5200,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3773
+      "UsersEstimate": 3774
     },
     {
       "ID": "10",
@@ -5227,7 +5232,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3333
+      "UsersEstimate": 3334
     },
     {
       "ID": "14",
@@ -5235,7 +5240,7 @@
       "Name": "Famous Explorer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "15",
@@ -5251,7 +5256,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "17",
@@ -5275,7 +5280,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3333
+      "UsersEstimate": 3334
     },
     {
       "ID": "2",
@@ -5283,7 +5288,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "20",
@@ -5307,7 +5312,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4465
+      "UsersEstimate": 4466
     },
     {
       "ID": "23",
@@ -5315,7 +5320,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "24",
@@ -5347,7 +5352,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "28",
@@ -5403,7 +5408,7 @@
       "Name": "Around the World",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "34",
@@ -5441,9 +5446,9 @@
       "ID": "38",
       "SetID": "8idi9ml",
       "Name": "Aspiring Inventor",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2768
     },
     {
       "ID": "39",
@@ -5523,7 +5528,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "48",
@@ -5539,7 +5544,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "5",
@@ -5555,7 +5560,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "51",
@@ -5666,15 +5671,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6289,
+      "Progressed": 6290,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-08T12:00:29.6040209+00:00",
-  "LastChanged_Achievements": "2023-06-10T02:10:57.8289194+00:00",
+  "LastChanged_Achievements": "2023-06-10T03:02:17.081616+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.8731017+00:00",
-  "LastUpdate_Ratings": "2023-06-10T02:10:11.1681044+00:00",
-  "LastUpdate_Achievements": "2023-06-10T02:10:57.8290207+00:00"
+  "LastUpdate_Ratings": "2023-06-10T03:01:28.2641336+00:00",
+  "LastUpdate_Achievements": "2023-06-10T03:02:17.0816879+00:00"
 }

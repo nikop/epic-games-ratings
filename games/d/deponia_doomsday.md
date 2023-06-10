@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 452)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~316 |
+| Huzza, he's back. | 88.00% | ~319 |
 | And again, and again, and... | 63.00% | ~229 |
 | Burn, Elysium, burn! | 61.00% | ~221 |
 | Kuvaq Minigame-Master | 60.00% | ~218 |

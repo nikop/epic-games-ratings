@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10067,
+  "EOS_Progressed": 10071,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 785,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4198,6 +4198,11 @@
       "Time": "2023-06-10T02:16:27.0612255+00:00",
       "NumProgressed": 10067,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-10T03:07:39.4674442+00:00",
+      "NumProgressed": 10071,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -4209,7 +4214,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8054
+      "UsersEstimate": 8057
     },
     {
       "ID": "ACH02",
@@ -4257,7 +4262,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "ACH08",
@@ -4265,7 +4270,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4832
+      "UsersEstimate": 4834
     },
     {
       "ID": "ACH09",
@@ -4329,7 +4334,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "ACH17",
@@ -4345,7 +4350,7 @@
       "Name": "Saviour",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH19",
@@ -4377,7 +4382,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ACH23",
@@ -4385,7 +4390,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2315
+      "UsersEstimate": 2316
     },
     {
       "ID": "ACH24",
@@ -4488,7 +4493,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10067,
+      "Progressed": 10071,
       "Completed": 17
     }
   ],
@@ -4496,8 +4501,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-07T10:00:00.0297825+00:00",
-  "LastChanged_Achievements": "2023-06-10T02:16:27.0612251+00:00",
+  "LastChanged_Achievements": "2023-06-10T03:07:39.4674436+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-10T02:10:26.5971912+00:00",
-  "LastUpdate_Achievements": "2023-06-10T02:16:27.0612822+00:00"
+  "LastUpdate_Ratings": "2023-06-10T03:01:43.8100479+00:00",
+  "LastUpdate_Achievements": "2023-06-10T03:07:39.4674834+00:00"
 }

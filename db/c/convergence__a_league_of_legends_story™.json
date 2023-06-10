@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1514,9 +1514,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "WarwickDefeated",
@@ -1569,8 +1569,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-10T02:15:42.5331563+00:00",
+  "LastChanged_Achievements": "2023-06-10T03:06:52.2404692+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-10T02:09:44.2393979+00:00",
-  "LastUpdate_Achievements": "2023-06-10T02:15:42.5332111+00:00"
+  "LastUpdate_Ratings": "2023-06-10T03:01:00.7782287+00:00",
+  "LastUpdate_Achievements": "2023-06-10T03:06:52.2405121+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 852,
+  "EOS_Progressed": 854,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -709,6 +709,11 @@
       "Time": "2023-06-09T18:06:32.609353+00:00",
       "NumProgressed": 852,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T03:07:23.3713656+00:00",
+      "NumProgressed": 854,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -944,15 +949,15 @@
       "Name": "We made it",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
       "SetID": "6ohhfoc",
       "Name": "Listening to the crowd",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 43
     },
     {
       "ID": "TRIPLE_FAIR",
@@ -1079,7 +1084,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 852,
+      "Progressed": 854,
       "Completed": 0
     }
   ],
@@ -1087,8 +1092,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-06-10T02:16:11.7984517+00:00",
+  "LastChanged_Achievements": "2023-06-10T03:07:23.3713652+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:52.9650429+00:00",
-  "LastUpdate_Ratings": "2023-06-10T02:08:20.0489139+00:00",
-  "LastUpdate_Achievements": "2023-06-10T02:16:11.7984991+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:59:34.7354275+00:00",
+  "LastUpdate_Achievements": "2023-06-10T03:07:23.3713969+00:00"
 }

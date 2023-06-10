@@ -9,7 +9,7 @@
 | Survivor | 47.00% | ~24 |
 | First Blood | 37.00% | ~37 |
 | Early Survivor | 36.00% | ~18 |
-| No Diggity | 35.00% | ~18 |
+| No Diggity | 36.00% | ~18 |
 | Triple Kill | 33.00% | ~33 |
 | No Asperascope | 31.00% | ~31 |
 | Cornivore | 30.00% | ~30 |
@@ -24,8 +24,8 @@
 | Grave Digger | 17.00% | ~8 |
 | Drinking Problem | 14.00% | ~14 |
 | Oh My Gourd | 10.00% | ~5 |
+| Summers Here | 10.00% | ~5 |
 | Skin Of Your Teeth | 9.00% | ~9 |
-| Summers Here | 9.00% | ~4 |
 | Perfect | 8.00% | ~4 |
 | Expert Survivor | 8.00% | ~4 |
 | Pyromaniac | 8.00% | ~4 |
@@ -34,10 +34,10 @@
 | Quit Horsin' Around | 6.00% | ~6 |
 | Master Survivor | 6.00% | ~3 |
 | Bring Home The Bacon | 5.00% | ~5 |
+| Carrocketeer | 5.00% | ~5 |
 | Fresh Pancake | 4.00% | ~4 |
 | Getting Started | 4.00% | ~4 |
 | Pork Chop Express | 4.00% | ~4 |
-| Carrocketeer | 4.00% | ~4 |
 | Heart Breaker | 4.00% | ~2 |
 | Chick Magnet | 3.00% | ~3 |
 | Easy Peasy | 3.00% | ~2 |

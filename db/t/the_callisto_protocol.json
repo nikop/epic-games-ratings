@@ -584,9 +584,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14888,
+  "EOS_Progressed": 14891,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 557,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3364,6 +3364,11 @@
       "Time": "2023-06-10T02:14:43.656801+00:00",
       "NumProgressed": 14888,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-10T03:05:52.3891001+00:00",
+      "NumProgressed": 14891,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3407,7 +3412,7 @@
       "Name": "Flesh Wound",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3511,7 +3516,7 @@
       "Name": "Terminated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3591,7 +3596,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "STORY_MINETOWN",
@@ -3615,7 +3620,7 @@
       "Name": "Crash Site",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "STORY_TOWER",
@@ -3663,7 +3668,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -3694,13 +3699,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14888,
+      "Progressed": 14891,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2814,
+      "Progressed": 2817,
       "Completed": 29
     }
   ],
@@ -3708,8 +3713,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-09T13:57:54.3107791+00:00",
-  "LastChanged_Achievements": "2023-06-10T02:14:43.6568001+00:00",
+  "LastChanged_Achievements": "2023-06-10T03:05:52.3890998+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-10T02:08:27.8381942+00:00",
-  "LastUpdate_Achievements": "2023-06-10T02:14:43.6568571+00:00"
+  "LastUpdate_Ratings": "2023-06-10T02:59:43.2927915+00:00",
+  "LastUpdate_Achievements": "2023-06-10T03:05:52.3891393+00:00"
 }

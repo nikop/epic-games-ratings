@@ -6,11 +6,11 @@ Rating: 4.51 (Ranked 528)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 29.00% | ~722 |
-| Confirming Suspicions | 23.00% | ~572 |
+| Confirming Suspicions | 23.00% | ~573 |
 | The Kraken Wakes | 19.00% | ~473 |
 | It's Starting to Crack | 17.00% | ~423 |
-| Lord of War | 14.00% | ~348 |
-| Change the Channel | 14.00% | ~348 |
+| Lord of War | 14.00% | ~349 |
+| Change the Channel | 14.00% | ~349 |
 | Resourceful | 13.00% | ~324 |
 | Taking it back | 12.00% | ~299 |
 | Target America | 11.00% | ~274 |
@@ -29,11 +29,11 @@ Rating: 4.51 (Ranked 528)
 | Close Quarters | 6.00% | ~149 |
 | Snake in the Grass | 6.00% | ~149 |
 | Brains of the Operation | 6.00% | ~149 |
-| Climbing the Ladder | 5.00% | ~124 |
-| No Stone Unturned | 5.00% | ~124 |
-| Fields of Glory | 5.00% | ~124 |
-| Skirmisher | 5.00% | ~124 |
-| Set Europe Ablaze | 5.00% | ~124 |
+| Climbing the Ladder | 5.00% | ~125 |
+| No Stone Unturned | 5.00% | ~125 |
+| Fields of Glory | 5.00% | ~125 |
+| Skirmisher | 5.00% | ~125 |
+| Set Europe Ablaze | 5.00% | ~125 |
 | Precision Is Key | 4.00% | ~100 |
 | Rigged to Blow | 3.00% | ~75 |
 | The Long Game | 2.00% | ~50 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,489 (Ranked 147)  
+Progressed: 2,491 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
-| 2023-06-10 | 2,489 | 2 |
+| 2023-06-10 | 2,491 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

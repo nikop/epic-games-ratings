@@ -9,11 +9,11 @@
 | Feng Shui | 72.00% | ~105 |
 | Who's A Good Boy | 68.00% | ~99 |
 | Power Up | 68.00% | ~99 |
-| Thick Skin | 66.00% | ~96 |
-| Math Wizard | 63.00% | ~92 |
-| Destroy Erase Improve | 62.00% | ~91 |
-| Power Overload | 61.00% | ~89 |
-| Quite A Snack | 55.00% | ~80 |
+| Thick Skin | 67.00% | ~98 |
+| Math Wizard | 64.00% | ~93 |
+| Destroy Erase Improve | 63.00% | ~92 |
+| Power Overload | 62.00% | ~91 |
+| Quite A Snack | 56.00% | ~82 |
 | Overwhelming Power | 53.00% | ~77 |
 | Impenetrable Skin | 51.00% | ~74 |
 | Chomp Chomp! | 41.00% | ~60 |
@@ -24,7 +24,7 @@
 | Target Practice | 38.00% | ~55 |
 | Meat Larder | 37.00% | ~54 |
 | Mutant And Proud | 36.00% | ~53 |
-| The Emperor's New Clothes | 29.00% | ~42 |
+| The Emperor's New Clothes | 30.00% | ~44 |
 | Godlike Power | 29.00% | ~42 |
 | Happy Little Home | 29.00% | ~42 |
 | Final Evolution | 29.00% | ~42 |

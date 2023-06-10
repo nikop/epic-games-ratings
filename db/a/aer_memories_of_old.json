@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 603,
+  "Ranking_Rating": 604,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 107,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11948,
+  "EOS_Progressed": 11952,
   "EOS_Completed": 254,
-  "EOS_NewPlayers": 750,
+  "EOS_NewPlayers": 754,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -5444,6 +5444,11 @@
       "Time": "2023-06-10T02:16:16.8242578+00:00",
       "NumProgressed": 11948,
       "NumCompleted": 254
+    },
+    {
+      "Time": "2023-06-10T03:07:28.677686+00:00",
+      "NumProgressed": 11952,
+      "NumCompleted": 254
     }
   ],
   "TotalAchievements": 20,
@@ -5471,7 +5476,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -5479,7 +5484,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -5519,7 +5524,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "FOUND_ERIN",
@@ -5527,7 +5532,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -5559,7 +5564,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "GAME_FINISHED",
@@ -5567,7 +5572,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "INTRO_FINISHED",
@@ -5575,7 +5580,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 9080
+      "UsersEstimate": 9084
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -5583,7 +5588,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3347
     },
     {
       "ID": "NORTH_FINISHED",
@@ -5599,7 +5604,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "WEST_FINISHED",
@@ -5607,22 +5612,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 11948,
+      "Progressed": 11952,
       "Completed": 254
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-10T02:16:16.8242574+00:00",
+  "LastChanged_Achievements": "2023-06-10T03:07:28.6776858+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:39.5190132+00:00",
-  "LastUpdate_Ratings": "2023-06-10T02:10:19.9010586+00:00",
-  "LastUpdate_Achievements": "2023-06-10T02:16:16.8243148+00:00"
+  "LastUpdate_Ratings": "2023-06-10T03:01:37.5194484+00:00",
+  "LastUpdate_Achievements": "2023-06-10T03:07:28.6777213+00:00"
 }

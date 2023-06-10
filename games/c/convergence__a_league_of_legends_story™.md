@@ -24,6 +24,7 @@
 | The Wicked Twins | 4.00% | ~26 |
 | Golem Chaser | 4.00% | ~26 |
 | Fast Learner | 4.00% | ~26 |
+| Immaculate Aim | 4.00% | ~26 |
 | The Brass Boss | 4.00% | ~26 |
 | The Family Fortune | 4.00% | ~26 |
 | Chaincrawler Explorer | 3.00% | ~19 |
@@ -34,7 +35,6 @@
 | Honest Mistake | 3.00% | ~19 |
 | Sump Explorer | 3.00% | ~19 |
 | Check Your Pulse | 3.00% | ~19 |
-| Immaculate Aim | 3.00% | ~19 |
 | Ask Questions Later | 3.00% | ~19 |
 | Corin Goes Home | 2.00% | ~13 |
 | Sartorialist | 2.00% | ~13 |
