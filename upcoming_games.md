@@ -41,6 +41,7 @@
 | [Klang 2](games/k/klang_2.md) | 2023-06-30 | - |  | - | - |
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-06-30 | - |  | - | - |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-06-30 | - |  | - | - |
+| [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 2023-06-30 | 16 (1,000 XP) | 1 | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-06-30 | - |  | - | - |
 | [SHAFTED](games/s/shafted.md) | 2023-06-30 | - |  | - | - |
 | [Spiritle](games/f/fb7fec81b0e24770b17b83666e47dddf.md) | 2023-06-30 | - |  | - | - |

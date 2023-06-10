@@ -15,16 +15,16 @@
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
-| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.09% |
 | 16 | [Without Escape](games/w/without_escape.md) | 9.09% |
-| 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
+| 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
+| 18 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 8.70% |
 | 19 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 8.33% |
 | 19 | [Smelter](games/s/smelter.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.11% |
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.64% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.92% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.88% |
 | 28 | [Scorn](games/s/scorn.md) | 6.82% |
@@ -38,8 +38,8 @@
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.89% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
-| 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.81% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
+| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.80% |
 | 41 | [Doodle God](games/d/doodle_god.md) | 3.79% |
 | 42 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
@@ -111,8 +111,8 @@
 | 109 | [Haven](games/h/haven.md) | 0.64% |
 | 110 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.62% |
 | 111 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
-| 112 | [Grindstone](games/g/grindstone.md) | 0.53% |
+| 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.55% |
+| 113 | [Grindstone](games/g/grindstone.md) | 0.53% |
 | 114 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 115 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
@@ -351,6 +351,7 @@
 | 213 | [PERISH](games/p/perish.md) | 0.00% |
 | 213 | [Pinball FX](games/p/pinball_fx.md) | 0.00% |
 | 213 | [Pirates Outlaws](games/p/pirates_outlaws.md) | 0.00% |
+| 213 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 0.00% |
 | 213 | [Planet Cube - Edge](games/p/planet_cube_-_edge.md) | 0.00% |
 | 213 | [Poi](games/p/poi.md) | 0.00% |
 | 213 | [Poker Club](games/p/poker_club.md) | 0.00% |
@@ -438,4 +439,4 @@
 | 213 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 213 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 213 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,756 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,757 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

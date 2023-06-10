@@ -296,6 +296,7 @@
 | [Pillars of Eternity - Definitive Edition](../games/p/pillars_of_eternity_-_definitive_edition.md) | 48 | 1,000 |
 | [Pinball FX](../games/p/pinball_fx.md) | 30 | 1,000 |
 | [Pirates Outlaws](../games/p/pirates_outlaws.md) | 124 | 1,000 |
+| [Placid Plastic Duck Simulator](../games/f/fc3184cec5eb463ea33412294a05fca2.md) | 16 | 1,000 |
 | [Planet Cube - Edge](../games/p/planet_cube_-_edge.md) | 40 | 1,000 |
 | [Poi](../games/p/poi.md) | 25 | 1,000 |
 | [Poker Club](../games/p/poker_club.md) | 45 | 1,000 |
