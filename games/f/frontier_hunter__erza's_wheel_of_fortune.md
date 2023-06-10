@@ -21,13 +21,13 @@
 | Nosebleeder | 64.00% | ~7 |
 | Youth Magnet | 64.00% | ~7 |
 | Furious Scorpion Killer | 64.00% | ~7 |
+| Lethal Blade Mantis Killer | 64.00% | ~7 |
+| Squeaky Clean | 64.00% | ~7 |
+| Kind Adventurer | 64.00% | ~7 |
 | Trader | 64.00% | ~7 |
 | Weapon Boost | 64.00% | ~7 |
 | Seal Breaker | 64.00% | ~7 |
 | Flying Kobold Killer | 55.00% | ~6 |
-| Lethal Blade Mantis Killer | 55.00% | ~6 |
-| Squeaky Clean | 55.00% | ~6 |
-| Kind Adventurer | 55.00% | ~6 |
 | Mermaid Killer | 55.00% | ~6 |
 | Face Slapper | 55.00% | ~6 |
 | Cave Master | 45.00% | ~5 |

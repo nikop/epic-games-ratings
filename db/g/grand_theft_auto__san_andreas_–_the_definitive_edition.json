@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10104,
+  "EOS_Progressed": 10105,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 769,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4243,6 +4243,11 @@
       "Time": "2023-06-10T11:05:44.2580846+00:00",
       "NumProgressed": 10104,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-10T12:06:38.9958503+00:00",
+      "NumProgressed": 10105,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -4254,7 +4259,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8083
+      "UsersEstimate": 8084
     },
     {
       "ID": "ACH02",
@@ -4422,7 +4427,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ACH23",
@@ -4533,7 +4538,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10104,
+      "Progressed": 10105,
       "Completed": 17
     }
   ],
@@ -4541,8 +4546,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-07T10:00:00.0297825+00:00",
-  "LastChanged_Achievements": "2023-06-10T11:05:44.2580841+00:00",
+  "LastChanged_Achievements": "2023-06-10T12:06:38.9958498+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:59:53.7965292+00:00",
-  "LastUpdate_Achievements": "2023-06-10T11:05:44.2581367+00:00"
+  "LastUpdate_Ratings": "2023-06-10T12:00:33.0268483+00:00",
+  "LastUpdate_Achievements": "2023-06-10T12:06:38.9958873+00:00"
 }

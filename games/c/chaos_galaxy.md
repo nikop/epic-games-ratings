@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tyrant Rise | 50.00% | ~5 |
-| Assassination | 30.00% | ~3 |
-| Great Civil War | 20.00% | ~2 |
-| Investment | 20.00% | ~2 |
-| 2nd AI War | 10.00% | ~1 |
-| Secret War | 10.00% | ~1 |
-| Tech Breakthrough | 10.00% | ~1 |
-| Honor Medal | 10.00% | ~1 |
+| Tyrant Rise | 45.00% | ~5 |
+| Assassination | 27.00% | ~3 |
+| Great Civil War | 18.00% | ~2 |
+| Investment | 18.00% | ~2 |
+| 2nd AI War | 9.00% | ~1 |
+| Secret War | 9.00% | ~1 |
+| Tech Breakthrough | 9.00% | ~1 |
+| Honor Medal | 9.00% | ~1 |
 | Mercenary March | 0.00% | ~0 |
 | Takeover Planet | 0.00% | ~0 |
 | Punish Southsea | 0.00% | ~0 |
@@ -53,11 +53,11 @@
 | Abolish Edict | 0.00% | ~0 |
 | Compliance Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 362)  
+Progressed: 11 (Ranked 358)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 8 | 0 |
 | 2023-04-30 | 9 | 0 |
-| 2023-06-10 | 10 | 0 |
+| 2023-06-10 | 11 | 0 |

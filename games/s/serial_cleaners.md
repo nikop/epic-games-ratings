@@ -9,7 +9,7 @@
 | Small-time Finder | 7.00% | ~13 |
 | Off to a Good Start | 6.00% | ~11 |
 | A New Broom Sweeps Clean | 5.00% | ~9 |
-| Business as usual | 4.00% | ~7 |
+| Business as usual | 4.00% | ~8 |
 | Pride and Joy | 3.00% | ~6 |
 | Mr. Hygeni | 3.00% | ~6 |
 | Hackathon | 3.00% | ~6 |
@@ -29,8 +29,8 @@
 | That’s One Big Pile | 0.00% | ~0 |
 | Bee Squat | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187 (Ranked 253)  
-Completed: 5 (2.67%) (Ranked 58)  
+Progressed: 188 (Ranked 252)  
+Completed: 5 (2.66%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,6 +51,7 @@ Completed: 5 (2.67%) (Ranked 58)
 | 2023-06-03 | 182 | 5 |
 | 2023-06-08 | 183 | 5 |
 | 2023-06-09 | 187 | 5 |
+| 2023-06-10 | 188 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

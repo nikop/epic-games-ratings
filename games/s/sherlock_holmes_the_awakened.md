@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 62.00% | ~262 |
-| Read Between The Lines | 60.00% | ~253 |
+| Read Between The Lines | 61.00% | ~257 |
 | High Profile | 54.00% | ~228 |
 | Whispers In The Dark | 52.00% | ~219 |
-| Fond Memories | 48.00% | ~203 |
+| Fond Memories | 49.00% | ~207 |
 | History Check | 46.00% | ~194 |
 | A Method To His Madness | 46.00% | ~194 |
 | The New World | 43.00% | ~181 |
@@ -29,7 +29,7 @@
 | Brain Food | 31.00% | ~131 |
 | No Stone Unturned | 29.00% | ~122 |
 | Curiosity Killed The Cat | 20.00% | ~84 |
-| Read It And Weep | 17.00% | ~72 |
+| Read It And Weep | 18.00% | ~76 |
 | Big Breakthrough | 15.00% | ~63 |
 | Reawakened | 5.00% | ~21 |
 ## Popularity (Based on EOS Achievements)

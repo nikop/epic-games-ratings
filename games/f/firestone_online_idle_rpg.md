@@ -46,13 +46,13 @@ Rating: 4.05 (Ranked 889)
 | Trader | 5.00% | ~68 |
 | Ancient Knowledge | 4.00% | ~54 |
 | Background Story | 4.00% | ~54 |
+| Enchanting skill | 4.00% | ~54 |
 | Master Enchanter | 4.00% | ~54 |
 | Missions Dedication | 4.00% | ~54 |
 | Weekly Quest Completionist | 4.00% | ~54 |
 | Blueprint Upgrades | 3.00% | ~40 |
 | Crystal Mining | 3.00% | ~40 |
 | Dragon Slayer | 3.00% | ~40 |
-| Enchanting skill | 3.00% | ~40 |
 | Engineer Mastery | 3.00% | ~40 |
 | Lock And Load | 3.00% | ~40 |
 | Sailor | 2.00% | ~27 |
@@ -70,10 +70,10 @@ Rating: 4.05 (Ranked 889)
 | Guardian Master | 0.40% | ~5 |
 | Mythic Power | 0.40% | ~5 |
 | Pokerface | 0.30% | ~4 |
+| Beast War Machines | 0.20% | ~3 |
 | Enhanced War Machines | 0.20% | ~3 |
 | Titan Power | 0.20% | ~3 |
 | Angel Power | 0.10% | ~1 |
-| Beast War Machines | 0.10% | ~1 |
 | Conqueror | 0.10% | ~1 |
 | Enchanting skill x5 | 0.10% | ~1 |
 | Jewel Enchanting | 0.10% | ~1 |

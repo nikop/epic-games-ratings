@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1248,
+  "EOS_Progressed": 1249,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -795,6 +795,11 @@
       "Time": "2023-06-09T09:07:03.9266617+00:00",
       "NumProgressed": 1248,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-10T12:06:22.3659192+00:00",
+      "NumProgressed": 1249,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -812,9 +817,9 @@
       "ID": "achievement_150Calamities",
       "SetID": "95dc8p",
       "Name": "Overwhelming Monstrosity",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_1petReceived",
@@ -822,7 +827,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -878,7 +883,7 @@
       "Name": "Passing Shadow",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -982,7 +987,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "achievement_mythwalker",
@@ -996,9 +1001,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1108,9 +1113,9 @@
       "ID": "enduringWar_destroyCores",
       "SetID": "95dc8p",
       "Name": "Core Failure",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 150
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1148,9 +1153,9 @@
       "ID": "theme_fire_hit5EnemiesAtOnce",
       "SetID": "95dc8p",
       "Name": "Grillmaster",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 50
     },
     {
       "ID": "theme_foothill_takeNoDamage20Times",
@@ -1253,15 +1258,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1248,
+      "Progressed": 1249,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-10T11:05:29.9272927+00:00",
+  "LastChanged_Achievements": "2023-06-10T12:06:22.3659188+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.528783+00:00",
-  "LastUpdate_Ratings": "2023-06-10T11:00:10.508527+00:00",
-  "LastUpdate_Achievements": "2023-06-10T11:05:29.927352+00:00"
+  "LastUpdate_Ratings": "2023-06-10T12:00:53.251941+00:00",
+  "LastUpdate_Achievements": "2023-06-10T12:06:22.3659577+00:00"
 }

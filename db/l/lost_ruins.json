@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -525,9 +525,9 @@
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "Hardboiled",
@@ -774,8 +774,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-10T11:05:42.2877337+00:00",
+  "LastChanged_Achievements": "2023-06-10T12:06:36.9152617+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:58.7369732+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:59:18.3413788+00:00",
-  "LastUpdate_Achievements": "2023-06-10T11:05:42.2877684+00:00"
+  "LastUpdate_Ratings": "2023-06-10T11:59:45.687757+00:00",
+  "LastUpdate_Achievements": "2023-06-10T12:06:36.9152942+00:00"
 }

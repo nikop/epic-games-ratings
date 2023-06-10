@@ -27,11 +27,11 @@ Rating: 4.30 (Ranked 764)
 | Jarhead | 22.00% | ~238 |
 | Infiltrator | 22.00% | ~238 |
 | Pushing Daisy | 21.00% | ~227 |
-| Chain Killer | 19.00% | ~205 |
+| Chain Killer | 20.00% | ~216 |
 | Experienced | 19.00% | ~205 |
 | There Can Be Only One! | 19.00% | ~205 |
 | Hold The Line | 18.00% | ~194 |
-| Endgame | 15.00% | ~162 |
+| Endgame | 16.00% | ~173 |
 | Savior | 15.00% | ~162 |
 | Newtonian Knockout | 14.00% | ~151 |
 | The Watchers | 14.00% | ~151 |

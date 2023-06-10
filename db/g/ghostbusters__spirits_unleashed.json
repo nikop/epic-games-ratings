@@ -1188,9 +1188,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22899,
+  "EOS_Progressed": 22901,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5048,6 +5048,11 @@
       "Time": "2023-06-10T11:05:42.893208+00:00",
       "NumProgressed": 22899,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-10T12:06:37.474496+00:00",
+      "NumProgressed": 22901,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -5059,7 +5064,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16716
+      "UsersEstimate": 16718
     },
     {
       "ID": "Animated",
@@ -5107,7 +5112,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11907
+      "UsersEstimate": 11909
     },
     {
       "ID": "Collector",
@@ -5123,7 +5128,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 12136
+      "UsersEstimate": 12138
     },
     {
       "ID": "Daily_Dose",
@@ -5147,7 +5152,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 14197
+      "UsersEstimate": 14199
     },
     {
       "ID": "Dont_Need_These",
@@ -5171,7 +5176,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14655
+      "UsersEstimate": 14657
     },
     {
       "ID": "Escape_Artist",
@@ -5195,7 +5200,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12594
+      "UsersEstimate": 12596
     },
     {
       "ID": "GB_In_Training",
@@ -5363,7 +5368,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19693
+      "UsersEstimate": 19695
     },
     {
       "ID": "Summoner",
@@ -5387,7 +5392,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 12594
+      "UsersEstimate": 12596
     },
     {
       "ID": "Teamwork",
@@ -5466,7 +5471,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22899,
+      "Progressed": 22901,
       "Completed": 40
     }
   ],
@@ -5474,8 +5479,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-09T18:58:44.9665474+00:00",
-  "LastChanged_Achievements": "2023-06-10T11:05:42.8932075+00:00",
+  "LastChanged_Achievements": "2023-06-10T12:06:37.4744957+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:16.8585642+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:58:47.173705+00:00",
-  "LastUpdate_Achievements": "2023-06-10T11:05:42.8932762+00:00"
+  "LastUpdate_Ratings": "2023-06-10T11:59:05.9172811+00:00",
+  "LastUpdate_Achievements": "2023-06-10T12:06:37.474549+00:00"
 }

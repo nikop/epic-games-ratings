@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 1.00% | ~903 |
 | The Mad Wizard | 1.00% | ~903 |
 | The Court of Storms | 0.90% | ~509 |
-| The Ring of Regeneration | 0.80% | ~722 |
+| The Ring of Regeneration | 0.80% | ~723 |
 | Are Ya Chicken? | 0.70% | ~632 |
 | Beware the Jabberwock | 0.70% | ~396 |
 | Were-verpowered | 0.60% | ~542 |
@@ -35,6 +35,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.40% | ~361 |
 | Useless Allies | 0.40% | ~361 |
 | Exploring Port Nyanzaru | 0.40% | ~361 |
+| Running of the Saurs | 0.40% | ~361 |
 | The Contagious Curse | 0.40% | ~361 |
 | Escort to Waterdeep | 0.40% | ~361 |
 | The Silken Swamp | 0.30% | ~271 |
@@ -63,7 +64,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.30% | ~271 |
 | A Tale of Two Cities | 0.30% | ~271 |
 | Flying Monkey Skulls of Doom | 0.30% | ~271 |
-| Running of the Saurs | 0.30% | ~271 |
 | Hearts Aflame | 0.30% | ~170 |
 | Bad Odds in Avernus | 0.30% | ~170 |
 | An Even Worse Time in Avernus | 0.30% | ~170 |
@@ -262,6 +262,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dwarven Rumors | 0.20% | ~113 |
 | Frozen in Fear | 0.20% | ~113 |
 | Sunblight | 0.20% | ~113 |
+| Fortress Assault | 0.20% | ~113 |
 | The Bleeding Citadel | 0.20% | ~113 |
 | Idyllglen | 0.20% | ~113 |
 | The Radiant Nightmare | 0.20% | ~113 |
@@ -459,7 +460,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rickety Rubble | 0.10% | ~57 |
 | Mimic Perception | 0.10% | ~57 |
 | It's Cold Out There Today | 0.10% | ~57 |
-| Fortress Assault | 0.10% | ~57 |
 | Hats off to you! | 0.10% | ~57 |
 | It's Cold Out There Every Day | 0.10% | ~57 |
 | Don't Pick at the Scab | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,312 (Ranked 64)  
+Progressed: 90,317 (Ranked 64)  
 Completed: 1,926 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,17 +551,17 @@ Completed: 1,926 (2.13%) (Ranked 66)
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
-| 2023-06-10 | 90,312 | 1,926 |
+| 2023-06-10 | 90,317 | 1,926 |
 ## Awards
 Max (Diverse Characters): 4,925  (Ranked 64)  
-Sum: 30,064 (Ranked 37)  
+Sum: 30,066 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,925 |
 | This game is Great for Beginners | 4,860 |
 | This game has Quickly Understood Controls | 4,613 |
-| This game is Relaxing | 4,509 |
+| This game is Relaxing | 4,511 |
 | This game is Highly Recommended | 3,958 |
 | This game has Amazing Characters | 3,951 |
 | This game has Playful Visuals | 3,248 |
@@ -703,3 +703,4 @@ Diff (max vs sum): 27
 | 2023-06-07 | 4.06 | - | 4,920 | 30,049 |
 | 2023-06-08 | 4.06 | - | 4,922 | 30,051 |
 | 2023-06-09 | 4.06 | - | 4,925 | 30,064 |
+| 2023-06-10 | 4.06 | - | 4,925 | 30,066 |

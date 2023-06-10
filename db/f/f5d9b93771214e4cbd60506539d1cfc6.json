@@ -4,7 +4,7 @@
   "ProductSlug": "guacamelee-stce-7cdbc8",
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
-  "LastChanged_Achievements": "2023-06-10T11:00:27.9747411+00:00",
+  "LastChanged_Achievements": "2023-06-10T12:01:18.637474+00:00",
   "LastUpdate_AppInfo": "2023-06-08T14:56:56.5470435+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:57:05.3493011+00:00",
-  "LastUpdate_Achievements": "2023-06-10T11:00:27.9747443+00:00"
+  "LastUpdate_Ratings": "2023-06-10T11:56:55.7299279+00:00",
+  "LastUpdate_Achievements": "2023-06-10T12:01:18.6374767+00:00"
 }

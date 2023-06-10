@@ -7,35 +7,35 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~710 |
-| Project Arena | 3.00% | ~532 |
-| The Old Grandmaster | 1.00% | ~7,084 |
-| The Assault | 1.00% | ~7,084 |
-| The Hateful Pole Fighter | 1.00% | ~7,084 |
-| A Lady's Blood in the Snow | 1.00% | ~7,084 |
-| Lady Wing Chun | 1.00% | ~7,084 |
-| Furious Fists | 1.00% | ~7,084 |
-| Kill Nil | 1.00% | ~7,084 |
-| Stuntmaster | 1.00% | ~7,084 |
-| Street Fighting | 1.00% | ~7,084 |
-| Life is your teacher | 1.00% | ~7,084 |
-| State of constant learning | 1.00% | ~7,084 |
-| Qi Gong: Breath | 1.00% | ~7,084 |
-| Qi Gong: Essence | 1.00% | ~7,084 |
-| Old Child | 1.00% | ~7,084 |
-| Lightning Hands | 1.00% | ~7,084 |
-| Path of the Prospect | 1.00% | ~7,084 |
-| Rumble in the Hangar | 1.00% | ~7,084 |
-| Take damage to save time | 1.00% | ~7,084 |
-| Bloody Sport | 1.00% | ~177 |
-| The best strikes are the ones we avoid | 1.00% | ~177 |
+| Project Arena | 3.00% | ~533 |
+| The Old Grandmaster | 1.00% | ~7,085 |
+| The Assault | 1.00% | ~7,085 |
+| The Hateful Pole Fighter | 1.00% | ~7,085 |
+| A Lady's Blood in the Snow | 1.00% | ~7,085 |
+| Lady Wing Chun | 1.00% | ~7,085 |
+| Furious Fists | 1.00% | ~7,085 |
+| Kill Nil | 1.00% | ~7,085 |
+| Stuntmaster | 1.00% | ~7,085 |
+| Street Fighting | 1.00% | ~7,085 |
+| Life is your teacher | 1.00% | ~7,085 |
+| State of constant learning | 1.00% | ~7,085 |
+| Qi Gong: Breath | 1.00% | ~7,085 |
+| Qi Gong: Essence | 1.00% | ~7,085 |
+| Old Child | 1.00% | ~7,085 |
+| Lightning Hands | 1.00% | ~7,085 |
+| Path of the Prospect | 1.00% | ~7,085 |
+| Rumble in the Hangar | 1.00% | ~7,085 |
+| Take damage to save time | 1.00% | ~7,085 |
+| Bloody Sport | 1.00% | ~178 |
+| The best strikes are the ones we avoid | 1.00% | ~178 |
 | Scareless | 0.80% | ~5,668 |
 | Kung-Fu Tussle | 0.80% | ~5,668 |
 | Dance of the Praying Mantis | 0.70% | ~4,959 |
 | Qi Gong: Mind | 0.70% | ~4,959 |
 | I know Kung-Fu | 0.70% | ~4,959 |
 | Muk Yan Master | 0.60% | ~4,251 |
-| Deadly Venom | 0.60% | ~106 |
-| A Touch of Acumen | 0.60% | ~106 |
+| Deadly Venom | 0.60% | ~107 |
+| A Touch of Acumen | 0.60% | ~107 |
 | Tiger on Fire | 0.50% | ~3,542 |
 | Source of Flying Daggers | 0.50% | ~3,542 |
 | Iron Money | 0.50% | ~3,542 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,444 (Ranked 16)  
+Progressed: 708,459 (Ranked 16)  
 Completed: 12,764 (1.80%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 12,764 (1.80%) (Ranked 71)
 | 2023-06-07 | 707,910 | 12,763 |
 | 2023-06-08 | 708,100 | 12,763 |
 | 2023-06-09 | 708,330 | 12,764 |
-| 2023-06-10 | 708,444 | 12,764 |
+| 2023-06-10 | 708,459 | 12,764 |
 ## Awards
 Max (Great Boss Battles): 6,153  (Ranked 52)  
 Sum: 10,501 (Ranked 78)  

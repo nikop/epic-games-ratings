@@ -1029,9 +1029,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6299,
+  "EOS_Progressed": 6301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5224,6 +5224,11 @@
       "Time": "2023-06-10T11:02:05.7524169+00:00",
       "NumProgressed": 6299,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T12:02:06.9343173+00:00",
+      "NumProgressed": 6301,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -5235,7 +5240,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3781
     },
     {
       "ID": "10",
@@ -5267,7 +5272,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3338
+      "UsersEstimate": 3340
     },
     {
       "ID": "14",
@@ -5315,7 +5320,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3338
+      "UsersEstimate": 3340
     },
     {
       "ID": "2",
@@ -5347,7 +5352,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4472
+      "UsersEstimate": 4474
     },
     {
       "ID": "23",
@@ -5481,9 +5486,9 @@
       "ID": "38",
       "SetID": "8idi9ml",
       "Name": "Aspiring Inventor",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2772
+      "UsersEstimate": 2835
     },
     {
       "ID": "39",
@@ -5706,15 +5711,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6299,
+      "Progressed": 6301,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-08T12:00:29.6040209+00:00",
-  "LastChanged_Achievements": "2023-06-10T11:02:05.7524164+00:00",
+  "LastChanged_Achievements": "2023-06-10T12:02:06.9343167+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.8731017+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:59:38.6565263+00:00",
-  "LastUpdate_Achievements": "2023-06-10T11:02:05.752496+00:00"
+  "LastUpdate_Ratings": "2023-06-10T12:00:12.2872924+00:00",
+  "LastUpdate_Achievements": "2023-06-10T12:02:06.9345458+00:00"
 }

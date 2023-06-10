@@ -6,19 +6,19 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 34.00% | ~424 |
-| Me and My Familiar | 32.00% | ~399 |
+| The Cost of Heroism | 34.00% | ~425 |
+| Me and My Familiar | 32.00% | ~400 |
 | This Too Shall Pass | 27.00% | ~337 |
-| Passing Shadow | 26.00% | ~324 |
-| Cutthroat Competitors | 25.00% | ~312 |
+| Passing Shadow | 26.00% | ~325 |
+| Cutthroat Competitors | 26.00% | ~325 |
 | How Romantic! | 24.00% | ~300 |
 | Daybreak | 23.00% | ~287 |
 | Gotta Ca... Must Collect All of Them | 21.00% | ~262 |
 | Completing the Look | 12.00% | ~150 |
 | Who's Counting? | 12.00% | ~150 |
 | War Endured | 12.00% | ~150 |
+| Core Failure | 12.00% | ~150 |
 | A Mythic Menagerie | 11.00% | ~137 |
-| Core Failure | 11.00% | ~137 |
 | Pyrrhic Victory | 9.00% | ~112 |
 | Thematic Divergence | 8.00% | ~100 |
 | Echoes Die | 8.00% | ~100 |
@@ -35,12 +35,12 @@ Number of Ratings: 45  (23.09.2022)
 | Worldwalker | 4.00% | ~50 |
 | Legends Never Die | 4.00% | ~50 |
 | A Hunger, Sated | 4.00% | ~50 |
+| Grillmaster | 4.00% | ~50 |
 | No Time for Clawmonsters | 4.00% | ~50 |
 | We Emerge Changed | 3.00% | ~37 |
 | Storied Past | 3.00% | ~37 |
 | No More Nightmares | 3.00% | ~37 |
 | Bears are Scary | 3.00% | ~37 |
-| Grillmaster | 3.00% | ~37 |
 | Into Mulch | 3.00% | ~37 |
 | Astrology | 3.00% | ~37 |
 | The Power of Friendship | 2.00% | ~25 |
@@ -59,11 +59,11 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 1.00% | ~12 |
 | A Temperamental Shrub | 1.00% | ~12 |
 | A Lowly Crust of Beef | 0.90% | ~11 |
-| Overwhelming Monstrosity | 0.60% | ~7 |
+| Overwhelming Monstrosity | 0.70% | ~9 |
 | Peacemaker | 0.50% | ~6 |
 | We Call That Mortificient! | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,248 (Ranked 165)  
+Progressed: 1,249 (Ranked 165)  
 Completed: 4 (0.32%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 4 (0.32%) (Ranked 127)
 | 2023-06-07 | 1,245 | 4 |
 | 2023-06-08 | 1,247 | 4 |
 | 2023-06-09 | 1,248 | 4 |
+| 2023-06-10 | 1,249 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 458)  
 Sum: 27 (Ranked 469)  

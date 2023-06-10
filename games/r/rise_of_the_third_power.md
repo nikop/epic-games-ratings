@@ -17,7 +17,7 @@
 | Ready to Rock | 22.00% | ~28 |
 | Determined | 20.00% | ~26 |
 | Beginning of the End | 18.00% | ~23 |
-| Bling | 17.00% | ~22 |
+| Bling | 18.00% | ~23 |
 | Geared | 16.00% | ~20 |
 | Master Trader | 13.00% | ~17 |
 | Master Crafter | 12.00% | ~15 |

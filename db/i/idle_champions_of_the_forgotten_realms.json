@@ -4148,10 +4148,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30064,
       "NumberOfAwardsMax": 4925
+    },
+    {
+      "Time": "2023-06-10T11:58:11.3059843+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30066,
+      "NumberOfAwardsMax": 4925
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30064,
+  "NumberOfAwards": 30066,
   "NumberOfAwardsMax": 4925,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4177,7 +4183,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4509
+      "Count": 4511
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4198,9 +4204,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90312,
+  "EOS_Progressed": 90317,
   "EOS_Completed": 1926,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 716,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9393,6 +9399,11 @@
       "Time": "2023-06-10T11:05:52.7488456+00:00",
       "NumProgressed": 90312,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-06-10T12:06:49.1901158+00:00",
+      "NumProgressed": 90317,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 493,
@@ -11084,7 +11095,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "objective_completed_35",
@@ -11890,9 +11901,9 @@
       "ID": "objective_completed_59",
       "SetID": "cc37lbc",
       "Name": "Running of the Saurs",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 361
     },
     {
       "ID": "objective_completed_590",
@@ -12802,9 +12813,9 @@
       "ID": "objective_completed_833",
       "SetID": "415jc5c",
       "Name": "Fortress Assault",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_834",
@@ -13347,21 +13358,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56586,
+      "Progressed": 56591,
       "Completed": 2780
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90312,
+      "Progressed": 90317,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-09T22:58:16.7265342+00:00",
-  "LastChanged_Achievements": "2023-06-10T11:05:52.7488452+00:00",
+  "LastChanged": "2023-06-10T11:58:11.3059841+00:00",
+  "LastChanged_Achievements": "2023-06-10T12:06:49.1901151+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:58:03.3433159+00:00",
-  "LastUpdate_Achievements": "2023-06-10T11:05:52.7512833+00:00"
+  "LastUpdate_Ratings": "2023-06-10T11:58:11.3059849+00:00",
+  "LastUpdate_Achievements": "2023-06-10T12:06:49.1922524+00:00"
 }

@@ -6,61 +6,61 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,051 |
-| Hit Rock Bottom | 97.00% | ~2,010 |
-| Rocket Launched | 97.00% | ~2,010 |
-| Speed | 97.00% | ~2,010 |
-| High Jump | 96.00% | ~1,989 |
-| Knee bending | 96.00% | ~1,989 |
-| Pickaxe | 94.00% | ~1,948 |
-| Revenge | 94.00% | ~1,948 |
-| Cage Town | 94.00% | ~1,948 |
-| Force Beam | 93.00% | ~1,927 |
-| Entered Cage Town | 93.00% | ~1,927 |
-| Stone Pickaxe | 93.00% | ~1,927 |
-| Surprise | 93.00% | ~1,927 |
-| Magnet | 90.00% | ~1,865 |
-| Industrial Area | 89.00% | ~1,844 |
-| Magnet Repel | 88.00% | ~1,823 |
-| Boomeraxe | 87.00% | ~1,803 |
-| You feel middle classy | 86.00% | ~1,782 |
-| Banking District | 86.00% | ~1,782 |
-| Iron Pickaxe | 86.00% | ~1,782 |
-| Arrested | 85.00% | ~1,761 |
-| Zappy Gun | 85.00% | ~1,761 |
-| Got your own one now | 85.00% | ~1,761 |
-| Mission Unlikely | 85.00% | ~1,761 |
-| Don't draw dicks pls | 84.00% | ~1,740 |
-| Ripped | 84.00% | ~1,740 |
-| Beat the big arena | 82.00% | ~1,699 |
-| Force Cube | 82.00% | ~1,699 |
+| Good Morning | 99.00% | ~2,052 |
+| Hit Rock Bottom | 97.00% | ~2,011 |
+| Rocket Launched | 97.00% | ~2,011 |
+| Speed | 97.00% | ~2,011 |
+| High Jump | 96.00% | ~1,990 |
+| Knee bending | 96.00% | ~1,990 |
+| Pickaxe | 94.00% | ~1,949 |
+| Revenge | 94.00% | ~1,949 |
+| Force Beam | 93.00% | ~1,928 |
+| Entered Cage Town | 93.00% | ~1,928 |
+| Stone Pickaxe | 93.00% | ~1,928 |
+| Cage Town | 93.00% | ~1,928 |
+| Surprise | 93.00% | ~1,928 |
+| Magnet | 90.00% | ~1,866 |
+| Industrial Area | 89.00% | ~1,845 |
+| Magnet Repel | 88.00% | ~1,824 |
+| Boomeraxe | 87.00% | ~1,804 |
+| You feel middle classy | 86.00% | ~1,783 |
+| Banking District | 86.00% | ~1,783 |
+| Iron Pickaxe | 86.00% | ~1,783 |
+| Arrested | 85.00% | ~1,762 |
+| Zappy Gun | 85.00% | ~1,762 |
+| Got your own one now | 85.00% | ~1,762 |
+| Mission Unlikely | 85.00% | ~1,762 |
+| Don't draw dicks pls | 84.00% | ~1,741 |
+| Ripped | 84.00% | ~1,741 |
+| Beat the big arena | 82.00% | ~1,700 |
+| Force Cube | 82.00% | ~1,700 |
 | Got Battery | 80.00% | ~1,658 |
 | Guard Distracted | 80.00% | ~1,658 |
 | Translocator | 80.00% | ~1,658 |
-| Inner Peace | 77.00% | ~1,595 |
-| Diamond Pickaxe | 77.00% | ~1,595 |
+| Inner Peace | 77.00% | ~1,596 |
+| Diamond Pickaxe | 77.00% | ~1,596 |
 | Killed them all | 76.00% | ~1,575 |
 | Trickle Down Economy | 76.00% | ~1,575 |
-| Win | 75.00% | ~1,554 |
-| Greenhouse | 72.00% | ~1,492 |
-| Played with fire | 70.00% | ~1,450 |
+| Win | 75.00% | ~1,555 |
+| Greenhouse | 72.00% | ~1,493 |
+| Played with fire | 70.00% | ~1,451 |
 | You feel very sorry | 69.00% | ~1,430 |
 | No Match for you | 65.00% | ~1,347 |
-| Bouncy | 61.00% | ~1,264 |
-| Plumbster | 60.00% | ~1,243 |
-| Faster | 60.00% | ~1,243 |
-| Much Magic | 57.00% | ~1,181 |
+| Bouncy | 61.00% | ~1,265 |
+| Plumbster | 60.00% | ~1,244 |
+| Faster | 60.00% | ~1,244 |
+| Much Magic | 57.00% | ~1,182 |
 | Chest Detector | 54.00% | ~1,119 |
-| Flames | 52.00% | ~1,077 |
-| Momentum | 45.00% | ~932 |
-| You're unsure if you broke the game or not | 42.00% | ~870 |
+| Flames | 52.00% | ~1,078 |
+| Momentum | 45.00% | ~933 |
+| You're unsure if you broke the game or not | 42.00% | ~871 |
 | But wait... ...There's more... | 39.00% | ~808 |
-| So much force | 34.00% | ~704 |
+| So much force | 34.00% | ~705 |
 | You feel fully engaged | 23.00% | ~477 |
 | Too hot | 19.00% | ~394 |
 | All the chests | 13.00% | ~269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,072 (Ranked 152)  
+Progressed: 2,073 (Ranked 152)  
 Completed: 247 (11.92%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,10 +108,11 @@ Completed: 247 (11.92%) (Ranked 13)
 | 2023-06-06 | 2,069 | 247 |
 | 2023-06-07 | 2,071 | 247 |
 | 2023-06-09 | 2,072 | 247 |
+| 2023-06-10 | 2,073 | 247 |
 ## Awards
-Max (Challenging Puzzles): 98  (Ranked 328)  
+Max (Challenging Puzzles): 98  (Ranked 329)  
 Sum: 98 (Ranked 402)  
-Diff (max vs sum): -74  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 98 |

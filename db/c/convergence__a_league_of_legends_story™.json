@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 647,
+  "EOS_Progressed": 649,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1139,6 +1139,11 @@
       "Time": "2023-06-10T11:05:00.2849603+00:00",
       "NumProgressed": 647,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T12:05:46.3121024+00:00",
+      "NumProgressed": 649,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -1244,9 +1249,9 @@
       "ID": "ExamineFamilyPortrait",
       "SetID": "a9e499d",
       "Name": "Family Memories",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "FactorywoodChests1",
@@ -1268,9 +1273,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1340,9 +1345,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 39
     },
     {
       "ID": "MapCompletion1",
@@ -1573,14 +1578,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 647,
+      "Progressed": 649,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-10T11:05:00.2849599+00:00",
+  "LastChanged_Achievements": "2023-06-10T12:05:46.3121019+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:59:11.5413112+00:00",
-  "LastUpdate_Achievements": "2023-06-10T11:05:00.2850071+00:00"
+  "LastUpdate_Ratings": "2023-06-10T11:59:36.8049034+00:00",
+  "LastUpdate_Achievements": "2023-06-10T12:05:46.3121434+00:00"
 }

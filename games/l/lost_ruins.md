@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Inquisitor | 39.00% | ~143 |
-| Goblin Tales | 30.00% | ~110 |
+| Goblin Tales | 31.00% | ~113 |
 | Bug Hunter | 25.00% | ~92 |
 | Boss Killer | 23.00% | ~84 |
 | The Fallen | 21.00% | ~77 |
