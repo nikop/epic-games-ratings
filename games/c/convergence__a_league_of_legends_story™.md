@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Treasure Trove | 6.00% | ~39 |
 | Cartographer | 6.00% | ~39 |
+| Time Heals All Wounds | 6.00% | ~39 |
 | The Steel Shadow | 5.00% | ~32 |
-| Treasure Trove | 5.00% | ~32 |
+| Rail Rat | 5.00% | ~32 |
 | Make Up For Lost Time | 5.00% | ~32 |
+| No, Thanks! | 5.00% | ~32 |
 | Breaking Down Barriers | 5.00% | ~32 |
 | The Prince in Heels | 5.00% | ~32 |
-| Time Heals All Wounds | 5.00% | ~32 |
 | Immaculate Aim | 5.00% | ~32 |
 | Like Clockwork | 4.00% | ~26 |
 | Street Style | 4.00% | ~26 |
 | The Mysterious Stranger | 4.00% | ~26 |
 | The Betrayer | 4.00% | ~26 |
 | The Man Who Shattered Time | 4.00% | ~26 |
-| Rail Rat | 4.00% | ~26 |
 | The Loose Cannon | 4.00% | ~26 |
 | Time Flies | 4.00% | ~26 |
 | The Harder They Fall | 4.00% | ~26 |
-| No, Thanks! | 4.00% | ~26 |
 | The Wicked Twins | 4.00% | ~26 |
 | Golem Chaser | 4.00% | ~26 |
 | Fast Learner | 4.00% | ~26 |
@@ -35,6 +35,7 @@
 | Whiz Kid | 3.00% | ~19 |
 | Honest Mistake | 3.00% | ~19 |
 | Sump Explorer | 3.00% | ~19 |
+| Syron for Hope | 3.00% | ~19 |
 | Ask Questions Later | 3.00% | ~19 |
 | Good Neighbor | 3.00% | ~19 |
 | Corin Goes Home | 2.00% | ~13 |
@@ -45,7 +46,6 @@
 | Fairgrounds Explorer | 2.00% | ~13 |
 | Golem Hunter | 2.00% | ~13 |
 | Rungs Was Right | 2.00% | ~13 |
-| Syron for Hope | 2.00% | ~13 |
 | Theater Explorer | 2.00% | ~13 |
 | Clovemary for Remembering | 1.00% | ~6 |
 | Hexlock for Protection | 0.80% | ~5 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 645 (Ranked 192)  
+Progressed: 647 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 624 | 0 |
 | 2023-06-08 | 633 | 0 |
 | 2023-06-09 | 642 | 0 |
-| 2023-06-10 | 645 | 0 |
+| 2023-06-10 | 647 | 0 |

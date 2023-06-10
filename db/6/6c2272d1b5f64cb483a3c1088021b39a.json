@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 412,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -926,6 +926,11 @@
       "Time": "2023-06-10T10:03:40.5542381+00:00",
       "NumProgressed": 411,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T11:03:14.8930492+00:00",
+      "NumProgressed": 412,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1103,9 +1108,9 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 206
     },
     {
       "ID": "elemental_stones_2",
@@ -1199,9 +1204,9 @@
       "ID": "good_host_1",
       "SetID": "53c1p3k",
       "Name": "Good Host 1",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "good_host_2",
@@ -1464,14 +1469,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 412,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:03:40.5542376+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:03:14.8930487+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-10T09:57:08.8694012+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:03:40.5543096+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:57:08.3970196+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:03:14.8931327+00:00"
 }

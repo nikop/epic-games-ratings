@@ -22,7 +22,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 19.00% | ~1,168 |
 | The Lion of the Isonzo | 18.00% | ~1,106 |
 | Ragazzi del '99 | 17.00% | ~1,045 |
-| Thus With A Kiss | 14.00% | ~860 |
+| Thus With A Kiss | 14.00% | ~861 |
 | Dirty Dozen | 13.00% | ~799 |
 | Luigi Cadorna | 13.00% | ~799 |
 | Uomo Universale | 13.00% | ~799 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,146 (Ranked 124)  
+Progressed: 6,147 (Ranked 124)  
 Completed: 8 (0.13%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 8 (0.13%) (Ranked 160)
 | 2023-06-07 | 6,115 | 8 |
 | 2023-06-08 | 6,123 | 8 |
 | 2023-06-09 | 6,139 | 8 |
-| 2023-06-10 | 6,146 | 8 |
+| 2023-06-10 | 6,147 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 447)  
 Sum: 244 (Ranked 344)  

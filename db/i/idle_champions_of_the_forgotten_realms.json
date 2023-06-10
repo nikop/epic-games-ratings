@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4198,10 +4198,10 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90308,
+  "EOS_Progressed": 90312,
   "EOS_Completed": 1926,
-  "EOS_NewPlayers": 717,
-  "EOS_NewCompleters": 15,
+  "EOS_NewPlayers": 719,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
@@ -9388,6 +9388,11 @@
       "Time": "2023-06-10T10:07:27.3118828+00:00",
       "NumProgressed": 90308,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-06-10T11:05:52.7488456+00:00",
+      "NumProgressed": 90312,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 493,
@@ -10517,9 +10522,9 @@
       "ID": "objective_completed_15",
       "SetID": "cc37lbc",
       "Name": "Terror in the Dark",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 452
     },
     {
       "ID": "objective_completed_150",
@@ -13319,7 +13324,7 @@
       "Name": "Coasting to the Finish",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "objective_completed_1360",
@@ -13342,21 +13347,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56582,
+      "Progressed": 56586,
       "Completed": 2780
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90308,
+      "Progressed": 90312,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-09T22:58:16.7265342+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:07:27.3118822+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:05:52.7488452+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-10T09:58:31.6780577+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:07:27.3146829+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:58:03.3433159+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:05:52.7512833+00:00"
 }

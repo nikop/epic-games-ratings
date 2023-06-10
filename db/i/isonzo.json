@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -622,7 +622,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6146,
+  "EOS_Progressed": 6147,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -2452,6 +2452,11 @@
       "Time": "2023-06-10T10:03:25.7329399+00:00",
       "NumProgressed": 6146,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-10T11:03:04.207443+00:00",
+      "NumProgressed": 6147,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2775,7 +2780,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -2822,7 +2827,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6146,
+      "Progressed": 6147,
       "Completed": 8
     }
   ],
@@ -2830,8 +2835,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-09T20:57:23.7007185+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:03:25.7329395+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:03:04.207442+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-10T09:57:40.5395193+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:03:25.7330201+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:57:30.6406281+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:03:04.207489+00:00"
 }

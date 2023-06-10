@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 579,
+  "EOS_Progressed": 580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -475,6 +475,11 @@
       "Time": "2023-06-08T16:03:32.9746338+00:00",
       "NumProgressed": 579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T11:03:11.2022109+00:00",
+      "NumProgressed": 580,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -590,7 +595,7 @@
       "Name": "Scion",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -598,7 +603,7 @@
       "Name": "Glare",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -628,9 +633,9 @@
       "ID": "DEFEAT_JAWCRAB",
       "SetID": "ccc0dlh",
       "Name": "Jawcrab",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 64
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -660,9 +665,9 @@
       "ID": "DEFEAT_VULTURE",
       "SetID": "ccc0dlh",
       "Name": "Feast",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 64
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -742,7 +747,7 @@
       "Name": "Yank",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -750,7 +755,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -758,7 +763,7 @@
       "Name": "Ravenous",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -821,21 +826,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 18
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 579,
+      "Progressed": 580,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:03:35.4370839+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:03:11.2022104+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.0328366+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:01:33.3661743+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:03:35.4371201+00:00"
+  "LastUpdate_Ratings": "2023-06-10T11:00:00.682173+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:03:11.202248+00:00"
 }

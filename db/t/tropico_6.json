@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -826,10 +826,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 757,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2023-06-10T10:59:49.0940899+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 758,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 757,
+  "NumberOfAwards": 758,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -879,7 +885,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game has Diverse Characters",
@@ -900,9 +906,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3529,
+  "EOS_Progressed": 3531,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4080,6 +4086,11 @@
       "Time": "2023-06-10T08:02:30.2386769+00:00",
       "NumProgressed": 3529,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T11:02:03.9309328+00:00",
+      "NumProgressed": 3531,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4139,7 +4150,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -4187,7 +4198,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4211,7 +4222,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -4243,7 +4254,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -4251,7 +4262,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2684
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4347,7 +4358,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4410,15 +4421,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3529,
+      "Progressed": 3531,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-06-08T16:00:48.5548641+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:02:22.1462749+00:00",
+  "LastChanged": "2023-06-10T10:59:49.0940896+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:02:03.9309323+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:01:14.5691126+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:02:22.1463384+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:59:49.0940903+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:02:03.9310078+00:00"
 }

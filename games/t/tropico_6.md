@@ -6,13 +6,13 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,682 |
-| Un-Lonely Island | 48.00% | ~1,694 |
-| The Beginning of a Servantship | 46.00% | ~1,623 |
+| Just One...More...Term... | 76.00% | ~2,684 |
+| Un-Lonely Island | 48.00% | ~1,695 |
+| The Beginning of a Servantship | 46.00% | ~1,624 |
 | Trade Is My Trait | 37.00% | ~1,306 |
-| Number 18 | 25.00% | ~882 |
+| Number 18 | 25.00% | ~883 |
 | We Don't Have Time For That | 20.00% | ~706 |
-| The Governator | 18.00% | ~635 |
+| The Governator | 18.00% | ~636 |
 | Caribbean Comrade | 17.00% | ~600 |
 | The Legend of Langostino | 17.00% | ~600 |
 | The Dreamer of Dreams | 16.00% | ~565 |
@@ -31,7 +31,7 @@ Number of Ratings: 398  (23.09.2022)
 | I Owe You Nothing | 6.00% | ~212 |
 | Watch The World Burn | 6.00% | ~212 |
 | Fairy Tale Come True | 6.00% | ~212 |
-| Viva Tropico! | 5.00% | ~176 |
+| Viva Tropico! | 5.00% | ~177 |
 | Apocalypso | 4.00% | ~141 |
 | Been there, Done That | 3.00% | ~106 |
 | Narcissist | 3.00% | ~106 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~32 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,529 (Ranked 134)  
+Progressed: 3,531 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,10 +98,10 @@ Completed: 1 (0.03%) (Ranked 191)
 | 2023-06-07 | 3,467 | 1 |
 | 2023-06-08 | 3,491 | 1 |
 | 2023-06-09 | 3,519 | 1 |
-| 2023-06-10 | 3,529 | 1 |
+| 2023-06-10 | 3,531 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 318)  
-Sum: 757 (Ranked 256)  
+Sum: 758 (Ranked 256)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
@@ -113,7 +113,7 @@ Diff (max vs sum): 62
 | This game is Educational | 81 |
 | This game has Amazing Characters | 80 |
 | This game is Extremely Fun | 79 |
-| This game has a Creative Community | 61 |
+| This game has a Creative Community | 62 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
 ## Ratings History
@@ -220,3 +220,4 @@ Diff (max vs sum): 62
 | 2023-06-04 | 4.67 | - | 106 | 755 |
 | 2023-06-05 | 4.67 | - | 106 | 756 |
 | 2023-06-08 | 4.67 | - | 106 | 757 |
+| 2023-06-10 | 4.67 | - | 106 | 758 |

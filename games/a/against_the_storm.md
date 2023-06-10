@@ -41,7 +41,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruined Armory | 0.80% | ~122 |
 | Defying the Crown | 0.80% | ~122 |
 | Forbidden Lands | 0.70% | ~107 |
-| Fishmen Ritual Site | 0.60% | ~91 |
+| Fishmen Ritual Site | 0.60% | ~92 |
 | Efficient Explorer | 0.50% | ~76 |
 | Prestigious Expedition | 0.50% | ~76 |
 | Lizard Utopia | 0.40% | ~61 |
@@ -50,14 +50,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Feeding The People | 0.30% | ~46 |
 | Beaver Utopia | 0.30% | ~46 |
 | Human Utopia | 0.30% | ~46 |
+| The Queen's Chosen | 0.30% | ~46 |
 | Harpy Utopia | 0.20% | ~30 |
-| The Queen's Chosen | 0.20% | ~30 |
 | Treasure | 0.20% | ~30 |
 | Ruins | 0.20% | ~30 |
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,248 (Ranked 101)  
+Progressed: 15,250 (Ranked 101)  
 Completed: 34 (0.22%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 34 (0.22%) (Ranked 143)
 | 2023-06-07 | 15,218 | 34 |
 | 2023-06-08 | 15,230 | 34 |
 | 2023-06-09 | 15,241 | 34 |
-| 2023-06-10 | 15,248 | 34 |
+| 2023-06-10 | 15,250 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 198)  
 Sum: 3,038 (Ranked 153)  

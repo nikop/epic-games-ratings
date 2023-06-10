@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10108,
+  "EOS_Progressed": 10109,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -861,6 +861,11 @@
       "Time": "2023-06-10T10:06:50.1368348+00:00",
       "NumProgressed": 10108,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-10T11:05:24.2239188+00:00",
+      "NumProgressed": 10109,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -904,7 +909,7 @@
       "Name": "parking lot",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_BICYCLE",
@@ -936,7 +941,7 @@
       "Name": "oktoberfest",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_COLLECTIBLES_JAPAN",
@@ -952,7 +957,7 @@
       "Name": "viking",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_COLLECTIBLES_SARDINIA",
@@ -976,7 +981,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3942
+      "UsersEstimate": 3943
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1032,7 +1037,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7783
+      "UsersEstimate": 7784
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1080,7 +1085,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5660
+      "UsersEstimate": 5661
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1096,7 +1101,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9704
+      "UsersEstimate": 9705
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1160,7 +1165,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "ACH_SNOW",
@@ -1215,15 +1220,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10108,
+      "Progressed": 10109,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:06:50.1368344+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:05:24.2239182+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:31.6442423+00:00",
-  "LastUpdate_Ratings": "2023-06-10T09:57:42.8479278+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:06:50.136873+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:57:31.8326578+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:05:24.2239569+00:00"
 }

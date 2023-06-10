@@ -17,8 +17,8 @@ Rating: 4.35 (Ranked 728)
 | Stop Hitting Yourself! | 34.00% | ~729 |
 | Nothing to Wear | 30.00% | ~643 |
 | The First Law of Thermodynamics | 27.00% | ~579 |
+| The Second Law of Thermodynamics | 15.00% | ~321 |
 | Do you trust me? | 15.00% | ~321 |
-| The Second Law of Thermodynamics | 14.00% | ~300 |
 | The Third Law of Thermodynamics | 9.00% | ~193 |
 | Say "Cheese!" | 9.00% | ~193 |
 | Taking Out the Trash | 9.00% | ~193 |
@@ -26,7 +26,7 @@ Rating: 4.35 (Ranked 728)
 | So do we just stay up here, or?... | 2.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,143 (Ranked 151)  
-Completed: 8 (0.37%) (Ranked 120)  
+Completed: 9 (0.42%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,6 +70,7 @@ Completed: 8 (0.37%) (Ranked 120)
 | 2023-06-06 | 2,134 | 8 |
 | 2023-06-08 | 2,141 | 8 |
 | 2023-06-09 | 2,143 | 8 |
+| 2023-06-10 | 2,143 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

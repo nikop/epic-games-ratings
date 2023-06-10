@@ -8,19 +8,19 @@ Rating: 4.17 (Ranked 848)
 | First Step Into the Knight | 4.00% | ~2,575 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,931 |
 | Loose Ends | 3.00% | ~1,931 |
-| The Batman Family | 2.00% | ~1,287 |
-| Something in the Clay | 2.00% | ~1,287 |
-| The Show Mud Go On | 2.00% | ~1,287 |
-| To the Victor Go the Spoils | 2.00% | ~1,287 |
-| Quartzer Life Crisis | 2.00% | ~1,287 |
-| Snow Problem | 2.00% | ~1,287 |
-| Get ReQ'd | 2.00% | ~1,287 |
-| Working Hard or Harley Working? | 2.00% | ~1,287 |
-| Unstoppable Force | 2.00% | ~1,287 |
-| Knighthood | 2.00% | ~1,287 |
-| Whispered Words | 2.00% | ~1,287 |
-| Lock and Key | 2.00% | ~1,287 |
-| Bad Apples in Every Orchard | 2.00% | ~1,287 |
+| The Batman Family | 2.00% | ~1,288 |
+| Something in the Clay | 2.00% | ~1,288 |
+| The Show Mud Go On | 2.00% | ~1,288 |
+| To the Victor Go the Spoils | 2.00% | ~1,288 |
+| Quartzer Life Crisis | 2.00% | ~1,288 |
+| Snow Problem | 2.00% | ~1,288 |
+| Get ReQ'd | 2.00% | ~1,288 |
+| Working Hard or Harley Working? | 2.00% | ~1,288 |
+| Unstoppable Force | 2.00% | ~1,288 |
+| Knighthood | 2.00% | ~1,288 |
+| Whispered Words | 2.00% | ~1,288 |
+| Lock and Key | 2.00% | ~1,288 |
+| Bad Apples in Every Orchard | 2.00% | ~1,288 |
 | End of an Era | 1.00% | ~644 |
 | In Your Element | 1.00% | ~644 |
 | Protector of Gotham | 1.00% | ~644 |
@@ -42,8 +42,8 @@ Rating: 4.17 (Ranked 848)
 | Family Meeting | 0.60% | ~386 |
 | Expert Crime Fighter | 0.50% | ~322 |
 | A Worthy Successor | 0.50% | ~322 |
-| Dressed to Impress | 0.40% | ~257 |
-| A Momentum Occasion | 0.40% | ~257 |
+| Dressed to Impress | 0.40% | ~258 |
+| A Momentum Occasion | 0.40% | ~258 |
 | Bat Out of Hell | 0.30% | ~193 |
 | Hammer and Icicle | 0.20% | ~69 |
 | Renewable Enemy Source | 0.20% | ~69 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 848)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,374 (Ranked 71)  
+Progressed: 64,380 (Ranked 71)  
 Completed: 95 (0.15%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 95 (0.15%) (Ranked 156)
 | 2023-06-07 | 63,990 | 94 |
 | 2023-06-08 | 64,117 | 94 |
 | 2023-06-09 | 64,309 | 95 |
-| 2023-06-10 | 64,374 | 95 |
+| 2023-06-10 | 64,380 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,317  (Ranked 97)  
 Sum: 3,825 (Ranked 137)  

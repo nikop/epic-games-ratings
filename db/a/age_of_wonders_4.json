@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4489,
+  "EOS_Progressed": 4490,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3519,6 +3519,11 @@
       "Time": "2023-06-10T10:05:14.081808+00:00",
       "NumProgressed": 4489,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T11:04:18.1966795+00:00",
+      "NumProgressed": 4490,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3530,7 +3535,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1886
     },
     {
       "ID": "10",
@@ -3570,7 +3575,7 @@
       "Name": "Full Ascension",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 2424
+      "UsersEstimate": 2425
     },
     {
       "ID": "15",
@@ -3594,7 +3599,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "18",
@@ -3610,7 +3615,7 @@
       "Name": "The Creator",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "2",
@@ -3626,7 +3631,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "21",
@@ -3640,9 +3645,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3412
     },
     {
       "ID": "23",
@@ -3650,7 +3655,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3501
+      "UsersEstimate": 3502
     },
     {
       "ID": "24",
@@ -3658,7 +3663,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3368
     },
     {
       "ID": "25",
@@ -3666,7 +3671,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "26",
@@ -3674,7 +3679,7 @@
       "Name": "Bone Peddler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "27",
@@ -3690,7 +3695,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "29",
@@ -3730,7 +3735,7 @@
       "Name": "My Final Form",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1976
     },
     {
       "ID": "33",
@@ -3762,7 +3767,7 @@
       "Name": "Fiery Friend",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "37",
@@ -3881,13 +3886,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4489,
-      "Completed": 4489
+      "Progressed": 4490,
+      "Completed": 4490
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4489,
+      "Progressed": 4490,
       "Completed": 0
     }
   ],
@@ -3895,8 +3900,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-09T04:00:14.4977407+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:05:14.0818075+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:04:18.1966789+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:00:20.0761726+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:05:14.0819421+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:59:13.6333703+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:04:18.1967357+00:00"
 }

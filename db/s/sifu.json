@@ -4524,10 +4524,10 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 708431,
+  "EOS_Progressed": 708444,
   "EOS_Completed": 12764,
-  "EOS_NewPlayers": 1380,
-  "EOS_NewCompleters": 13,
+  "EOS_NewPlayers": 1384,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -9274,6 +9274,11 @@
       "Time": "2023-06-10T10:07:16.5897199+00:00",
       "NumProgressed": 708431,
       "NumCompleted": 12764
+    },
+    {
+      "Time": "2023-06-10T11:05:44.3391836+00:00",
+      "NumProgressed": 708444,
+      "NumCompleted": 12764
     }
   ],
   "TotalAchievements": 50,
@@ -9373,7 +9378,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5667
+      "UsersEstimate": 5668
     },
     {
       "ID": "13_LowAge",
@@ -9557,7 +9562,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5667
+      "UsersEstimate": 5668
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -9629,7 +9634,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9684,21 +9689,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17732,
+      "Progressed": 17745,
       "Completed": 10248
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708431,
+      "Progressed": 708444,
       "Completed": 12764
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-10T02:09:24.8154113+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:07:16.5897192+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:05:44.3391832+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-10T09:59:46.8181032+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:07:16.5897902+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:58:51.71531+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:05:44.339248+00:00"
 }

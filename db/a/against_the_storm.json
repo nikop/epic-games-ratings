@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2342,9 +2342,9 @@
       "Count": 305
     }
   ],
-  "EOS_Progressed": 15248,
+  "EOS_Progressed": 15250,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -5102,6 +5102,11 @@
       "Time": "2023-06-10T09:06:45.0504532+00:00",
       "NumProgressed": 15248,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-10T11:05:46.0707486+00:00",
+      "NumProgressed": 15250,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 50,
@@ -5281,7 +5286,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "WinNearForbidden",
@@ -5415,9 +5420,9 @@
       "ID": "WinPrestige20",
       "SetID": "cfbk359",
       "Name": "The Queen\u0027s Chosen",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 46
     },
     {
       "ID": "WinVeryHard",
@@ -5512,15 +5517,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15248,
+      "Progressed": 15250,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-08T12:00:30.846244+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:07:18.8382071+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:05:46.0707481+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:27.9901974+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:01:00.2976852+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:07:18.8382644+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:59:39.3863131+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:05:46.0708038+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -842,7 +842,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7725,
+  "EOS_Progressed": 7726,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -2602,6 +2602,11 @@
       "Time": "2023-06-10T10:06:47.4321032+00:00",
       "NumProgressed": 7725,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-10T11:05:22.1650949+00:00",
+      "NumProgressed": 7726,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2621,7 +2626,7 @@
       "Name": "Too Much of a Talker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ColdBlood",
@@ -2677,7 +2682,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -2693,7 +2698,7 @@
       "Name": "Go Home...",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "HeroSlayer",
@@ -2709,7 +2714,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "LeoniasFall_2",
@@ -2749,7 +2754,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "SkeletonKing",
@@ -2765,7 +2770,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "TheLegendBegins",
@@ -2773,7 +2778,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7184
+      "UsersEstimate": 7185
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2797,22 +2802,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6412
+      "UsersEstimate": 6413
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7725,
+      "Progressed": 7726,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:06:47.4321027+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:05:22.1650941+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.8794336+00:00",
-  "LastUpdate_Ratings": "2023-06-10T09:59:40.8771827+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:06:47.4321278+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:58:47.8458622+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:05:22.1651393+00:00"
 }

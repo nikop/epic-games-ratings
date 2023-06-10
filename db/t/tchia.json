@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6396,
+  "EOS_Progressed": 6397,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -3273,6 +3273,11 @@
       "Time": "2023-06-10T09:06:12.8760794+00:00",
       "NumProgressed": 6396,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-10T11:05:18.6726397+00:00",
+      "NumProgressed": 6397,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 21,
@@ -3332,7 +3337,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -3436,7 +3441,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "THING",
@@ -3451,7 +3456,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6396,
+      "Progressed": 6397,
       "Completed": 23
     }
   ],
@@ -3459,8 +3464,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:06:42.6059097+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:05:18.6726392+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-10T09:58:22.9863847+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:06:42.6059447+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:57:57.0450411+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:05:18.6726741+00:00"
 }

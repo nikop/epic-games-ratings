@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 261,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -86,6 +86,11 @@
     {
       "Time": "2023-06-10T10:07:16.1698578+00:00",
       "NumProgressed": 260,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T11:05:44.0331185+00:00",
+      "NumProgressed": 261,
       "NumCompleted": 0
     }
   ],
@@ -146,7 +151,7 @@
       "Name": "Dark and stinky",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "darkVolepain",
@@ -224,9 +229,9 @@
       "ID": "itsNotCheating",
       "SetID": "5bkacmp",
       "Name": "It\u0027s not cheating",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "meetYourMaker",
@@ -394,7 +399,7 @@
       "Name": "Gorilla warfare",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "trialByCombat",
@@ -418,14 +423,14 @@
       "Name": "You sssaved me",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 261,
       "Completed": 0
     }
   ],
@@ -433,8 +438,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:07:16.169857+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:05:44.0331178+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.4102894+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:01:40.1605893+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:07:16.1698916+00:00"
+  "LastUpdate_Ratings": "2023-06-10T11:00:06.1084113+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:05:44.0331528+00:00"
 }

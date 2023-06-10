@@ -4,8 +4,8 @@
   "ProductSlug": "total-reload-635f1c",
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T21:57:16.8815465+00:00",
-  "LastUpdate_Ratings": "2023-06-10T09:57:28.4943524+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:05:01.0407469+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:57:22.7535337+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:04:09.240492+00:00"
 }

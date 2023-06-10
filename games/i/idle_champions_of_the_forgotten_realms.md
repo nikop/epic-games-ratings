@@ -17,10 +17,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.60% | ~542 |
 | Seeking Allies | 0.60% | ~542 |
 | Friendly Imps | 0.60% | ~542 |
-| Coasting to the Finish | 0.60% | ~339 |
+| Coasting to the Finish | 0.60% | ~340 |
 | Checkmate | 0.50% | ~283 |
 | Vecna Out! | 0.50% | ~283 |
 | A Persistent Buzzing | 0.50% | ~452 |
+| Terror in the Dark | 0.50% | ~452 |
 | Mad Cow Disease | 0.50% | ~452 |
 | Pure Energy | 0.50% | ~452 |
 | Quick or Quack | 0.50% | ~283 |
@@ -28,7 +29,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.40% | ~226 |
 | Best Thay Ever | 0.40% | ~226 |
 | Beast Mode | 0.40% | ~361 |
-| Terror in the Dark | 0.40% | ~361 |
 | A Mysterious Summons | 0.40% | ~361 |
 | Building Trust | 0.40% | ~361 |
 | Unearthed Evil | 0.40% | ~361 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,308 (Ranked 64)  
+Progressed: 90,312 (Ranked 64)  
 Completed: 1,926 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,7 +551,7 @@ Completed: 1,926 (2.13%) (Ranked 66)
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
-| 2023-06-10 | 90,308 | 1,926 |
+| 2023-06-10 | 90,312 | 1,926 |
 ## Awards
 Max (Diverse Characters): 4,925  (Ranked 64)  
 Sum: 30,064 (Ranked 37)  

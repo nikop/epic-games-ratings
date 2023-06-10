@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 1255,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2184,9 +2184,9 @@
       "ID": "achSmellOfSuccess",
       "SetID": "dgl390n",
       "Name": "The ugly smell of success",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 289
     },
     {
       "ID": "achSmellOfSuccessCargo",
@@ -2264,8 +2264,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-08T16:00:13.2391099+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:07:21.8994225+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:05:48.176798+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.0789003+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:00:33.8820756+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:07:21.8994842+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:59:23.1264336+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:05:48.1768605+00:00"
 }

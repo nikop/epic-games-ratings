@@ -6,9 +6,9 @@
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 115,
-  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -412,11 +412,11 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 8123,
-  "EOS_Completed": 28,
-  "EOS_NewPlayers": 572,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.34,
+  "EOS_Progressed": 8124,
+  "EOS_Completed": 29,
+  "EOS_NewPlayers": 569,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -4122,6 +4122,11 @@
       "Time": "2023-06-10T10:03:26.8343722+00:00",
       "NumProgressed": 8123,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-06-10T11:03:04.8490059+00:00",
+      "NumProgressed": 8124,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 34,
@@ -4309,7 +4314,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "ACH24",
@@ -4395,25 +4400,25 @@
       "ID": "ACH34",
       "SetID": "9llo822",
       "Name": "Kingpin",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8123,
-      "Completed": 28
+      "Progressed": 8124,
+      "Completed": 29
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-08T22:58:57.8808892+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:03:26.8343716+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:03:04.8490053+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-10T09:58:48.3807823+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:03:26.8344204+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:58:14.6117738+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:03:04.8490524+00:00"
 }

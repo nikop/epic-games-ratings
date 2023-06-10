@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 645,
+  "EOS_Progressed": 647,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1134,6 +1134,11 @@
       "Time": "2023-06-10T08:06:25.6617324+00:00",
       "NumProgressed": 645,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T11:05:00.2849603+00:00",
+      "NumProgressed": 647,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -1167,9 +1172,9 @@
       "ID": "ChestCompletion1",
       "SetID": "a9e499d",
       "Name": "Treasure Trove",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 32
+      "UsersEstimate": 39
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1303,9 +1308,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "HexlockGift",
@@ -1399,9 +1404,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1431,9 +1436,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 39
     },
     {
       "ID": "RewindParry",
@@ -1495,9 +1500,9 @@
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "TemporalPulseKills1",
@@ -1568,14 +1573,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 645,
+      "Progressed": 647,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-10T10:06:14.9105597+00:00",
+  "LastChanged_Achievements": "2023-06-10T11:05:00.2849599+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-10T10:00:16.67118+00:00",
-  "LastUpdate_Achievements": "2023-06-10T10:06:14.9106135+00:00"
+  "LastUpdate_Ratings": "2023-06-10T10:59:11.5413112+00:00",
+  "LastUpdate_Achievements": "2023-06-10T11:05:00.2850071+00:00"
 }
