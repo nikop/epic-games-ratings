@@ -103,7 +103,7 @@
 | 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,199 | 36 |
 | 101 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 494 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,303 | 98 |
-| 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,084 | 132 |
+| 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,092 | 132 |
 | 101 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.78 | 136 | 295 |
 | 101 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 494 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 914 | 142 |
@@ -198,7 +198,7 @@
 | 194 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 494 |
 | 194 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 358 | 212 |
 | 194 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,338 | 70 |
-| 194 | [For The King](games/f/for_the_king.md) | 4.70 | 367 | 211 |
+| 194 | [For The King](games/f/for_the_king.md) | 4.70 | 368 | 211 |
 | 194 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 494 |
 | 194 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 494 |
 | 194 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 392 |
@@ -876,7 +876,7 @@
 | 874 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 494 |
 | 874 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 494 |
 | 874 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 386 |
-| 874 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,366 | 96 |
+| 874 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,372 | 96 |
 | 874 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 494 |
 | 879 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 494 |
 | 879 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 494 |

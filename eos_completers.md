@@ -15,19 +15,19 @@
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
-| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.42% |
-| 17 | [Without Escape](games/w/without_escape.md) | 9.09% |
-| 18 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
-| 19 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 8.33% |
-| 19 | [Smelter](games/s/smelter.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.11% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.20% |
+| 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
+| 18 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 8.33% |
+| 18 | [Smelter](games/s/smelter.md) | 8.33% |
+| 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.10% |
 | 22 | [Remains](games/r/remains.md) | 7.89% |
 | 23 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.63% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.92% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.88% |
-| 28 | [Scorn](games/s/scorn.md) | 6.82% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.91% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.86% |
+| 28 | [Scorn](games/s/scorn.md) | 6.81% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -91,7 +91,7 @@
 | 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
 | 90 | [Late Shift](games/l/late_shift.md) | 0.99% |
 | 91 | [Five Dates](games/f/five_dates.md) | 0.95% |
-| 91 | [Sable](games/s/sable.md) | 0.95% |
+| 92 | [Sable](games/s/sable.md) | 0.94% |
 | 93 | [Hades](games/h/hades.md) | 0.89% |
 | 94 | [Dungeons 3](games/d/dungeons_3.md) | 0.87% |
 | 95 | [Adios](games/a/adios.md) | 0.86% |
@@ -103,20 +103,20 @@
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
 | 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 103 | [Them and Us](games/t/them_and_us.md) | 0.74% |
+| 104 | [Haven](games/h/haven.md) | 0.72% |
 | 104 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.72% |
-| 105 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.69% |
-| 106 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.68% |
-| 106 | [Train Valley](games/t/train_valley.md) | 0.68% |
-| 108 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.65% |
-| 109 | [Haven](games/h/haven.md) | 0.64% |
+| 106 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.69% |
+| 107 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.68% |
+| 108 | [Train Valley](games/t/train_valley.md) | 0.67% |
+| 109 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.65% |
 | 110 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.62% |
 | 111 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.55% |
+| 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.56% |
 | 113 | [Grindstone](games/g/grindstone.md) | 0.53% |
 | 114 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 115 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 116 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
+| 117 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 118 | [Potion Permit](games/p/potion_permit.md) | 0.43% |
 | 118 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 120 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
@@ -188,13 +188,13 @@
 | 186 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 186 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
 | 186 | [High On Life](games/h/high_on_life.md) | 0.04% |
-| 186 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
 | 186 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.04% |
-| 191 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 191 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
-| 191 | [Old World](games/o/old_world.md) | 0.03% |
-| 191 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
-| 191 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
+| 190 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 190 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
+| 190 | [Old World](games/o/old_world.md) | 0.03% |
+| 190 | [Outward Definitive Edition](games/o/outward.md) | 0.03% |
+| 190 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
+| 190 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
 | 196 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 196 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
 | 196 | [Good Company](games/g/good_company.md) | 0.02% |
@@ -439,4 +439,4 @@
 | 213 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 213 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 213 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,757 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,758 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
