@@ -1,21 +1,21 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 840)  
+Rating: 4.18 (Ranked 841)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 13.00% | ~1,936 |
+| Flesh Wound | 14.00% | ~2,085 |
 | The Outer Way | 12.00% | ~1,787 |
 | Desperate Times | 11.00% | ~1,638 |
-| Paper Jams | 10.00% | ~1,489 |
-| Chew 'Em Up | 8.00% | ~1,191 |
-| Workplace Hazard | 8.00% | ~1,191 |
-| Reforged | 8.00% | ~1,191 |
-| If the SHU Fits... | 8.00% | ~1,191 |
-| Giving Back | 7.00% | ~1,042 |
-| Get a Grip | 6.00% | ~893 |
-| Without A Paddle | 6.00% | ~893 |
+| Paper Jams | 10.00% | ~1,490 |
+| Chew 'Em Up | 9.00% | ~1,341 |
+| Workplace Hazard | 8.00% | ~1,192 |
+| Reforged | 8.00% | ~1,192 |
+| If the SHU Fits... | 8.00% | ~1,192 |
+| Giving Back | 7.00% | ~1,043 |
+| Get a Grip | 6.00% | ~894 |
+| Without A Paddle | 6.00% | ~894 |
 | Terminated | 5.00% | ~745 |
 | In the Pipe, Five by Five | 5.00% | ~745 |
 | Crash Site | 5.00% | ~745 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 840)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,891 (Ranked 104)  
+Progressed: 14,895 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 54 (0.36%) (Ranked 122)
 | 2023-06-07 | 14,702 | 54 |
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
-| 2023-06-10 | 14,891 | 54 |
+| 2023-06-10 | 14,895 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
 Sum: 301 (Ranked 328)  

@@ -36,6 +36,7 @@
 | Sump Explorer | 3.00% | ~19 |
 | Check Your Pulse | 3.00% | ~19 |
 | Ask Questions Later | 3.00% | ~19 |
+| Good Neighbor | 3.00% | ~19 |
 | Corin Goes Home | 2.00% | ~13 |
 | Sartorialist | 2.00% | ~13 |
 | Cultivair Explorer | 2.00% | ~13 |
@@ -46,7 +47,6 @@
 | Rungs Was Right | 2.00% | ~13 |
 | Syron for Hope | 2.00% | ~13 |
 | Theater Explorer | 2.00% | ~13 |
-| Good Neighbor | 2.00% | ~13 |
 | Clovemary for Remembering | 0.90% | ~6 |
 | Hexlock for Protection | 0.80% | ~5 |
 | Fitting In | 0.60% | ~4 |

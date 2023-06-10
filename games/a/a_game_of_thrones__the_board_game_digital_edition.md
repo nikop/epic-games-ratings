@@ -1,25 +1,25 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.20 (Ranked 823)  
+Rating: 4.20 (Ranked 824)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~6,047 |
-| Battering Crew | 20.00% | ~3,023 |
-| The Kingsroad | 19.00% | ~2,872 |
-| Well Stocked | 14.00% | ~2,116 |
-| Royal Fleet | 14.00% | ~2,116 |
+| Conqueror | 40.00% | ~6,049 |
+| Battering Crew | 20.00% | ~3,025 |
+| The Kingsroad | 19.00% | ~2,873 |
+| Well Stocked | 14.00% | ~2,117 |
+| Royal Fleet | 14.00% | ~2,117 |
 | The Kraken’s Grasp | 10.00% | ~1,512 |
 | Alliance | 9.00% | ~1,361 |
-| Daggers in the Dark | 8.00% | ~1,209 |
-| Oathkeeper | 8.00% | ~1,209 |
-| Influential | 8.00% | ~1,209 |
-| A Long Journey | 8.00% | ~1,209 |
-| Ours is the Fury | 7.00% | ~1,058 |
-| We Do Not Sow | 7.00% | ~1,058 |
-| Winter is Coming | 7.00% | ~1,058 |
+| Daggers in the Dark | 8.00% | ~1,210 |
+| Oathkeeper | 8.00% | ~1,210 |
+| Influential | 8.00% | ~1,210 |
+| A Long Journey | 8.00% | ~1,210 |
+| Ours is the Fury | 7.00% | ~1,059 |
+| We Do Not Sow | 7.00% | ~1,059 |
+| Winter is Coming | 7.00% | ~1,059 |
 | Unbowed, Unbent, Unbroken | 6.00% | ~907 |
 | Hear me Roar! | 6.00% | ~907 |
 | Defender of the Wall | 6.00% | ~907 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~302 |
 | War of the Five Kings | 1.00% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,117 (Ranked 102)  
+Progressed: 15,123 (Ranked 102)  
 Completed: 32 (0.21%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 32 (0.21%) (Ranked 145)
 | 2023-06-07 | 14,900 | 31 |
 | 2023-06-08 | 15,000 | 32 |
 | 2023-06-09 | 15,105 | 32 |
-| 2023-06-10 | 15,117 | 32 |
+| 2023-06-10 | 15,123 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 304)  
 Sum: 782 (Ranked 253)  

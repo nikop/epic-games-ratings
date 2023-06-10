@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~84 |
-| Bullseye! | 83.00% | ~80 |
-| Graduation! | 80.00% | ~77 |
-| Villfir Forest | 75.00% | ~72 |
+| Level Up! | 87.00% | ~84 |
+| Bullseye! | 82.00% | ~80 |
+| Graduation! | 79.00% | ~77 |
+| Villfir Forest | 74.00% | ~72 |
 | Right in the kisser! | 61.00% | ~59 |
 | Duscot Steamcity | 51.00% | ~49 |
-| The Shaman | 49.00% | ~47 |
-| The Penguin | 46.00% | ~44 |
-| The Thrower | 46.00% | ~44 |
-| The Magician | 45.00% | ~43 |
-| The Tunneler | 40.00% | ~38 |
-| Level Up!! | 39.00% | ~37 |
-| The Shield | 38.00% | ~36 |
+| The Shaman | 48.00% | ~47 |
+| The Penguin | 45.00% | ~44 |
+| The Thrower | 45.00% | ~44 |
+| The Magician | 44.00% | ~43 |
+| The Tunneler | 39.00% | ~38 |
+| Level Up!! | 38.00% | ~37 |
+| The Shield | 37.00% | ~36 |
 | Kill-streak | 36.00% | ~35 |
 | The Bird | 30.00% | ~29 |
 | The Idol | 27.00% | ~26 |
@@ -29,12 +29,12 @@
 | 1 is all I need | 20.00% | ~19 |
 | The Giant | 20.00% | ~19 |
 | The Flower | 18.00% | ~17 |
-| The Blacksmith | 17.00% | ~16 |
-| Out of the Frying Pan... | 17.00% | ~16 |
-| The Ooze | 16.00% | ~15 |
-| Turquoise | 15.00% | ~14 |
-| The Assistant | 14.00% | ~13 |
-| Ember | 14.00% | ~13 |
+| The Blacksmith | 16.00% | ~16 |
+| Out of the Frying Pan... | 16.00% | ~16 |
+| The Ooze | 15.00% | ~15 |
+| Turquoise | 14.00% | ~14 |
+| The Assistant | 13.00% | ~13 |
+| Ember | 13.00% | ~13 |
 | The Steampunk | 11.00% | ~11 |
 | Verse | 11.00% | ~11 |
 | The Droid | 10.00% | ~10 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 277)  
+Progressed: 97 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-06 | 91 | 0 |
 | 2023-06-08 | 93 | 0 |
 | 2023-06-09 | 96 | 0 |
+| 2023-06-10 | 97 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

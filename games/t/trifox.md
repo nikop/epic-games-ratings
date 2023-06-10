@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 71.00% | ~60 |
-| Complete Level 1-1 | 64.00% | ~54 |
-| Immortal | 54.00% | ~46 |
+| What is this? | 70.00% | ~60 |
+| Complete Level 1-1 | 63.00% | ~54 |
+| Immortal | 53.00% | ~46 |
 | Complete Level 1-2 | 47.00% | ~40 |
 | Scraping by | 34.00% | ~29 |
 | Engineer-mage hybrid | 33.00% | ~28 |
-| Complete Level 1-3 | 31.00% | ~26 |
-| Defeat the warrior boss | 24.00% | ~20 |
+| Complete Level 1-3 | 30.00% | ~26 |
+| Defeat the warrior boss | 23.00% | ~20 |
 | Get out of my way | 21.00% | ~18 |
 | Redecorator | 20.00% | ~17 |
 | Just a sip | 19.00% | ~16 |
@@ -23,9 +23,9 @@
 | Defeat the engineer boss | 13.00% | ~11 |
 | Complete Level 3-1 | 13.00% | ~11 |
 | Too many crates | 12.00% | ~10 |
-| Baby steps | 11.00% | ~9 |
-| Complete Level 3-2 | 11.00% | ~9 |
-| Engineer-warrior hybrid | 11.00% | ~9 |
+| Baby steps | 10.00% | ~9 |
+| Complete Level 3-2 | 10.00% | ~9 |
+| Engineer-warrior hybrid | 10.00% | ~9 |
 | Should have left me alone | 9.00% | ~8 |
 | Drink up | 8.00% | ~7 |
 | Complete Level 3-3 | 8.00% | ~7 |
@@ -40,8 +40,8 @@
 | Warrior specialist | 5.00% | ~4 |
 | The True Trifox | 5.00% | ~4 |
 | Way of the warrior | 5.00% | ~4 |
-| Rich | 4.00% | ~3 |
-| Delicious | 4.00% | ~3 |
+| Rich | 3.00% | ~3 |
+| Delicious | 3.00% | ~3 |
 | Bye bye Wilson | 2.00% | ~2 |
 | Master of destruction | 2.00% | ~2 |
 | Halfway | 2.00% | ~2 |
@@ -51,8 +51,8 @@
 | Almost there | 1.00% | ~1 |
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 284)  
-Completed: 1 (1.18%) (Ranked 84)  
+Progressed: 86 (Ranked 284)  
+Completed: 1 (1.16%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,6 +61,7 @@ Completed: 1 (1.18%) (Ranked 84)
 | 2023-05-28 | 83 | 1 |
 | 2023-05-30 | 84 | 1 |
 | 2023-06-04 | 85 | 1 |
+| 2023-06-10 | 86 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 823,
+  "Ranking_Rating": 824,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 103,
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15093,
+  "EOS_Progressed": 15094,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -4306,6 +4306,11 @@
       "Time": "2023-06-10T03:07:27.20567+00:00",
       "NumProgressed": 15093,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-06-10T04:05:26.3247409+00:00",
+      "NumProgressed": 15094,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 14,
@@ -4317,7 +4322,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 11923
+      "UsersEstimate": 11924
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -4373,7 +4378,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7999
+      "UsersEstimate": 8000
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -4428,15 +4433,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 15093,
+      "Progressed": 15094,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-06-10T03:07:27.2056693+00:00",
+  "LastChanged_Achievements": "2023-06-10T04:05:26.3247404+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:55.9695913+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:01:48.9777385+00:00",
-  "LastUpdate_Achievements": "2023-06-10T03:07:27.205748+00:00"
+  "LastUpdate_Ratings": "2023-06-10T03:59:48.4180711+00:00",
+  "LastUpdate_Achievements": "2023-06-10T04:05:26.3247671+00:00"
 }

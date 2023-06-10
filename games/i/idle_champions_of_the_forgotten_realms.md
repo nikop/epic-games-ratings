@@ -48,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.30% | ~170 |
 | Get Back In The Castle | 0.30% | ~170 |
 | Pin and Skewer | 0.30% | ~170 |
+| Bully for Vecna | 0.30% | ~170 |
 | No One Can Hear You Scream | 0.30% | ~170 |
 | Welcome to the Rock | 0.30% | ~170 |
 | Low Initiative | 0.30% | ~271 |
@@ -132,7 +133,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clumsy Doesn't Mean Inept | 0.20% | ~113 |
 | Kas the Bloody Handed | 0.20% | ~113 |
 | Kas the Destroyer | 0.20% | ~113 |
-| Bully for Vecna | 0.20% | ~113 |
 | Who Lurks Below? | 0.20% | ~113 |
 | Xanathaaaaaaar! | 0.20% | ~113 |
 | Homecoming | 0.20% | ~181 |
@@ -173,6 +173,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.20% | ~181 |
 | Seeds of Deceit | 0.20% | ~181 |
 | The Gargoyle's Apprentice | 0.20% | ~181 |
+| House of Darkness | 0.20% | ~181 |
 | Attack on the Manor | 0.20% | ~181 |
 | The Trepidatious Trio | 0.20% | ~181 |
 | Our Time To Shine | 0.20% | ~181 |
@@ -347,7 +348,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~90 |
 | Seeds of Corruption | 0.10% | ~90 |
 | The Strahd Squad | 0.10% | ~57 |
-| House of Darkness | 0.10% | ~90 |
 | Home Not So Alone | 0.10% | ~57 |
 | Review by the Blackstaff | 0.10% | ~57 |
 | Think Your Way Out Of It | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,284 (Ranked 64)  
+Progressed: 90,289 (Ranked 64)  
 Completed: 1,925 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,7 +551,7 @@ Completed: 1,925 (2.13%) (Ranked 66)
 | 2023-06-07 | 90,057 | 1,922 |
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
-| 2023-06-10 | 90,284 | 1,925 |
+| 2023-06-10 | 90,289 | 1,925 |
 ## Awards
 Max (Diverse Characters): 4,925  (Ranked 64)  
 Sum: 30,064 (Ranked 37)  

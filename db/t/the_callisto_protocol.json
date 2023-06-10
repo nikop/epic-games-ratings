@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 840,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
@@ -584,9 +584,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14891,
+  "EOS_Progressed": 14895,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3369,6 +3369,11 @@
       "Time": "2023-06-10T03:05:52.3891001+00:00",
       "NumProgressed": 14891,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-10T04:03:53.6344317+00:00",
+      "NumProgressed": 14895,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3396,7 +3401,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3410,9 +3415,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1936
+      "UsersEstimate": 2085
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3484,7 +3489,7 @@
       "Name": "Get a Grip",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3506,9 +3511,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1341
     },
     {
       "ID": "KILL_ROBOT",
@@ -3524,7 +3529,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3548,7 +3553,7 @@
       "Name": "Reforged",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3556,7 +3561,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3580,7 +3585,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "STORY_HABITAT",
@@ -3588,7 +3593,7 @@
       "Name": "Without A Paddle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "STORY_HANGAR",
@@ -3699,13 +3704,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14891,
+      "Progressed": 14895,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2817,
+      "Progressed": 2821,
       "Completed": 29
     }
   ],
@@ -3713,8 +3718,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-09T13:57:54.3107791+00:00",
-  "LastChanged_Achievements": "2023-06-10T03:05:52.3890998+00:00",
+  "LastChanged_Achievements": "2023-06-10T04:03:53.6344313+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-10T02:59:43.2927915+00:00",
-  "LastUpdate_Achievements": "2023-06-10T03:05:52.3891393+00:00"
+  "LastUpdate_Ratings": "2023-06-10T03:57:40.6891532+00:00",
+  "LastUpdate_Achievements": "2023-06-10T04:03:53.6344713+00:00"
 }

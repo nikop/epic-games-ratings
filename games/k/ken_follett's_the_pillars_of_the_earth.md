@@ -1,13 +1,13 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 513)  
+Rating: 4.52 (Ranked 514)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 42.00% | ~5,507 |
-| Man of politics | 35.00% | ~4,589 |
+| Man of politics | 35.00% | ~4,590 |
 | Friends of sorts | 34.00% | ~4,458 |
 | Yet another secret | 34.00% | ~4,458 |
 | Let there be darkness | 33.00% | ~4,327 |
@@ -16,7 +16,7 @@ Number of Ratings: 368  (23.09.2022)
 | Wannabe knight | 24.00% | ~3,147 |
 | Full house | 24.00% | ~3,147 |
 | Help an old friend | 22.00% | ~2,885 |
-| Two of us | 20.00% | ~2,622 |
+| Two of us | 20.00% | ~2,623 |
 | Negotiation skills | 19.00% | ~2,491 |
 | Workers' union | 19.00% | ~2,491 |
 | End of Book Two | 18.00% | ~2,360 |
@@ -41,15 +41,15 @@ Number of Ratings: 368  (23.09.2022)
 | Staring contest champion | 5.00% | ~656 |
 | Lone wolf | 5.00% | ~656 |
 | Vox Populi | 5.00% | ~656 |
-| Revenge | 4.00% | ~524 |
-| Self-defense | 4.00% | ~524 |
-| Countess Aliena | 4.00% | ~524 |
+| Revenge | 4.00% | ~525 |
+| Self-defense | 4.00% | ~525 |
+| Countess Aliena | 4.00% | ~525 |
 | Care, like a brother cares | 3.00% | ~393 |
 | A brush with death | 3.00% | ~393 |
 | Boy of mystery | 2.00% | ~262 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,112 (Ranked 106)  
-Completed: 99 (0.76%) (Ranked 99)  
+Progressed: 13,113 (Ranked 106)  
+Completed: 99 (0.75%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,7 +99,7 @@ Completed: 99 (0.76%) (Ranked 99)
 | 2023-06-07 | 13,061 | 99 |
 | 2023-06-08 | 13,089 | 99 |
 | 2023-06-09 | 13,111 | 99 |
-| 2023-06-10 | 13,112 | 99 |
+| 2023-06-10 | 13,113 | 99 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 288)  
 Sum: 188 (Ranked 359)  

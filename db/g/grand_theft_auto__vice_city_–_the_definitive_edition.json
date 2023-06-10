@@ -412,9 +412,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 8097,
+  "EOS_Progressed": 8099,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -4087,6 +4087,11 @@
       "Time": "2023-06-10T03:04:24.1542209+00:00",
       "NumProgressed": 8097,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-06-10T04:02:24.4511318+00:00",
+      "NumProgressed": 8099,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 34,
@@ -4202,7 +4207,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3158
+      "UsersEstimate": 3159
     },
     {
       "ID": "ACH15",
@@ -4258,7 +4263,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3483
     },
     {
       "ID": "ACH22",
@@ -4266,7 +4271,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACH23",
@@ -4274,7 +4279,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH24",
@@ -4304,9 +4309,9 @@
       "ID": "ACH27",
       "SetID": "9llo822",
       "Name": "Grand Theft Auto",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH28",
@@ -4369,7 +4374,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8097,
+      "Progressed": 8099,
       "Completed": 27
     }
   ],
@@ -4377,8 +4382,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-08T22:58:57.8808892+00:00",
-  "LastChanged_Achievements": "2023-06-10T03:04:24.1542206+00:00",
+  "LastChanged_Achievements": "2023-06-10T04:02:24.451131+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:00:03.1728329+00:00",
-  "LastUpdate_Achievements": "2023-06-10T03:04:24.1542614+00:00"
+  "LastUpdate_Ratings": "2023-06-10T03:57:59.1634988+00:00",
+  "LastUpdate_Achievements": "2023-06-10T04:02:24.4511728+00:00"
 }

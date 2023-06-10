@@ -2,12 +2,12 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
-  "Ranking_Rating": 528,
+  "Ranking_Rating": 529,
   "Ranking_Popularity": 298,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
@@ -464,23 +464,29 @@
       "Rating": 4.51,
       "NumberOfAwards": 132,
       "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2023-06-10T03:58:36.0147727+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 133,
+      "NumberOfAwardsMax": 133
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 132,
-  "NumberOfAwardsMax": 132,
+  "NumberOfAwards": 133,
+  "NumberOfAwardsMax": 133,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 132
+      "Count": 133
     }
   ],
-  "EOS_Progressed": 591862,
+  "EOS_Progressed": 591867,
   "EOS_Completed": 490,
-  "EOS_NewPlayers": 1028,
+  "EOS_NewPlayers": 1027,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5703,6 +5709,11 @@
       "Time": "2023-06-10T03:07:25.3671171+00:00",
       "NumProgressed": 591862,
       "NumCompleted": 490
+    },
+    {
+      "Time": "2023-06-10T04:05:24.2044052+00:00",
+      "NumProgressed": 591867,
+      "NumCompleted": 490
     }
   ],
   "TotalAchievements": 28,
@@ -5778,7 +5789,7 @@
       "Name": "We need more gold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 355117
+      "UsersEstimate": 355120
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -5794,7 +5805,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 260419
+      "UsersEstimate": 260421
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -5810,7 +5821,7 @@
       "Name": "Cosplay",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 76942
+      "UsersEstimate": 76943
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -5818,7 +5829,7 @@
       "Name": "Evolution in progress...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 76942
+      "UsersEstimate": 76943
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -5826,7 +5837,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 284094
+      "UsersEstimate": 284096
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -5834,7 +5845,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 290012
+      "UsersEstimate": 290015
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -5842,7 +5853,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 550432
+      "UsersEstimate": 550436
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -5850,7 +5861,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 142047
+      "UsersEstimate": 142048
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -5874,7 +5885,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 390629
+      "UsersEstimate": 390632
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -5882,7 +5893,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 106535
+      "UsersEstimate": 106536
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -5890,7 +5901,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 313687
+      "UsersEstimate": 313690
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -5937,15 +5948,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 591862,
+      "Progressed": 591867,
       "Completed": 490
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
-  "LastChanged": "2023-05-17T13:05:09.553013+00:00",
-  "LastChanged_Achievements": "2023-06-10T03:07:25.3671167+00:00",
+  "LastChanged": "2023-06-10T03:58:36.0147725+00:00",
+  "LastChanged_Achievements": "2023-06-10T04:05:24.2044048+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.2919795+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:00:39.804521+00:00",
-  "LastUpdate_Achievements": "2023-06-10T03:07:25.3671577+00:00"
+  "LastUpdate_Ratings": "2023-06-10T03:58:36.014773+00:00",
+  "LastUpdate_Achievements": "2023-06-10T04:05:24.2044457+00:00"
 }

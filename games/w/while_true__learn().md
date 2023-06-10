@@ -1,22 +1,22 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 528)  
+Rating: 4.51 (Ranked 529)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~550,432 |
-| Error: Stack Overflow | 66.00% | ~390,629 |
-| We need more gold | 60.00% | ~355,117 |
-| The dawn of civilization | 53.00% | ~313,687 |
-| More FPS for the FPS god! | 49.00% | ~290,012 |
-| Beauty and harmony | 48.00% | ~284,094 |
-| One more! | 44.00% | ~260,419 |
-| Overmind | 24.00% | ~142,047 |
-| RNG is my best friend now | 18.00% | ~106,535 |
-| Cosplay | 13.00% | ~76,942 |
-| Evolution in progress... | 13.00% | ~76,942 |
+| First.. Bit? | 93.00% | ~550,436 |
+| Error: Stack Overflow | 66.00% | ~390,632 |
+| We need more gold | 60.00% | ~355,120 |
+| The dawn of civilization | 53.00% | ~313,690 |
+| More FPS for the FPS god! | 49.00% | ~290,015 |
+| Beauty and harmony | 48.00% | ~284,096 |
+| One more! | 44.00% | ~260,421 |
+| Overmind | 24.00% | ~142,048 |
+| RNG is my best friend now | 18.00% | ~106,536 |
+| Cosplay | 13.00% | ~76,943 |
+| Evolution in progress... | 13.00% | ~76,943 |
 | Step by step | 8.00% | ~47,349 |
 | README reader | 3.00% | ~17,756 |
 | Data scientist | 3.00% | ~17,756 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,776 |
 | The Scrooge | 0.10% | ~592 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 591,862 (Ranked 23)  
+Progressed: 591,867 (Ranked 23)  
 Completed: 490 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,14 +86,14 @@ Completed: 490 (0.08%) (Ranked 173)
 | 2023-06-07 | 591,559 | 488 |
 | 2023-06-08 | 591,706 | 489 |
 | 2023-06-09 | 591,843 | 490 |
-| 2023-06-10 | 591,862 | 490 |
+| 2023-06-10 | 591,867 | 490 |
 ## Awards
-Max (Challenging Puzzles): 132  (Ranked 298)  
-Sum: 132 (Ranked 388)  
+Max (Challenging Puzzles): 133  (Ranked 298)  
+Sum: 133 (Ranked 388)  
 Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 132 |
+| This game features Challenging Puzzles | 133 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -173,3 +173,4 @@ Diff (max vs sum): -90
 | 2023-01-14 | 4.52 | - | - | - |
 | 2023-01-16 | 4.51 | - | - | - |
 | 2023-05-17 | 4.51 | - | 132 | 132 |
+| 2023-06-10 | 4.51 | - | 133 | 133 |

@@ -2,12 +2,12 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 645,
+  "Ranking_Rating": 646,
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -478,9 +478,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 250771,
+  "EOS_Progressed": 250775,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5508,6 +5508,11 @@
       "Time": "2023-06-10T03:05:07.2283946+00:00",
       "NumProgressed": 250771,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T04:03:06.953853+00:00",
+      "NumProgressed": 250775,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -5559,7 +5564,7 @@
       "Name": "By a hair",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "BackHomeFirstTime",
@@ -5567,7 +5572,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77739
+      "UsersEstimate": 77740
     },
     {
       "ID": "BackHomeNTimes",
@@ -5623,7 +5628,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25077
+      "UsersEstimate": 25078
     },
     {
       "ID": "CreditLevel2",
@@ -5631,7 +5636,7 @@
       "Name": "Fixer II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "CreditLevel3",
@@ -5759,7 +5764,7 @@
       "Name": "It took a while",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -5783,7 +5788,7 @@
       "Name": "Samurai",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "KillOtherWithLowHealth",
@@ -5799,7 +5804,7 @@
       "Name": "I Left You a Present",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "KillOthers1",
@@ -5815,7 +5820,7 @@
       "Name": "Predator II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "KillOthers3",
@@ -5831,7 +5836,7 @@
       "Name": "Truffle Dog",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
@@ -5911,7 +5916,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25077
+      "UsersEstimate": 25078
     },
     {
       "ID": "ReachNDays2",
@@ -5919,7 +5924,7 @@
       "Name": "A month in Century City",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "ReachNDays3",
@@ -5966,7 +5971,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 250771,
+      "Progressed": 250775,
       "Completed": 1
     }
   ],
@@ -5974,8 +5979,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-07T19:01:29.3487318+00:00",
-  "LastChanged_Achievements": "2023-06-10T03:05:07.2283942+00:00",
+  "LastChanged_Achievements": "2023-06-10T04:03:06.9538525+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.5690984+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:01:43.2881275+00:00",
-  "LastUpdate_Achievements": "2023-06-10T03:05:07.2284559+00:00"
+  "LastUpdate_Ratings": "2023-06-10T03:59:42.6517068+00:00",
+  "LastUpdate_Achievements": "2023-06-10T04:03:06.9539127+00:00"
 }

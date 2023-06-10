@@ -1,26 +1,26 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 565)  
+Rating: 4.49 (Ranked 566)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 86.00% | ~19,685 |
-| Advancement | 73.00% | ~16,709 |
-| Meticulously Efficient | 64.00% | ~14,649 |
-| Discovery | 62.00% | ~14,191 |
-| Fully Upgraded | 55.00% | ~12,589 |
-| Swift Rift Removers | 55.00% | ~12,589 |
-| Cultured | 53.00% | ~12,131 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,902 |
+| Advancement | 73.00% | ~16,710 |
+| Meticulously Efficient | 64.00% | ~14,650 |
+| Discovery | 62.00% | ~14,192 |
+| Fully Upgraded | 55.00% | ~12,590 |
+| Swift Rift Removers | 55.00% | ~12,590 |
+| Cultured | 53.00% | ~12,132 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,903 |
 | Vaporous Expansion | 49.00% | ~11,216 |
-| Teamwork | 44.00% | ~10,071 |
-| There you are! | 43.00% | ~9,842 |
-| Clutch Capture | 41.00% | ~9,384 |
+| Teamwork | 44.00% | ~10,072 |
+| There you are! | 43.00% | ~9,843 |
+| Clutch Capture | 41.00% | ~9,385 |
 | Back Off | 36.00% | ~8,240 |
 | Daily Dose | 35.00% | ~8,011 |
-| Welcome to the Crew | 33.00% | ~7,553 |
-| Solo Capture | 32.00% | ~7,324 |
+| Welcome to the Crew | 33.00% | ~7,554 |
+| Solo Capture | 32.00% | ~7,325 |
 | Ghostbuster In Training | 31.00% | ~7,096 |
 | Icing on the Cake | 30.00% | ~6,867 |
 | Side Hustle | 28.00% | ~6,409 |
@@ -32,8 +32,8 @@ Rating: 4.49 (Ranked 565)
 | Pesky Jerks | 26.00% | ~5,951 |
 | Animated | 25.00% | ~5,722 |
 | Skilled | 25.00% | ~5,722 |
-| Collector | 24.00% | ~5,493 |
-| Ectoplasmic Entity | 24.00% | ~5,493 |
+| Collector | 24.00% | ~5,494 |
+| Ectoplasmic Entity | 24.00% | ~5,494 |
 | Rift Destroyer | 20.00% | ~4,578 |
 | Tobin's Prodigy | 19.00% | ~4,349 |
 | Reckless | 18.00% | ~4,120 |
@@ -41,9 +41,9 @@ Rating: 4.49 (Ranked 565)
 | Diabolical | 16.00% | ~3,662 |
 | Escape Artist | 16.00% | ~3,662 |
 | Seasoned | 16.00% | ~3,662 |
+| Whoopsie | 11.00% | ~2,518 |
 | Liability | 10.00% | ~2,289 |
 | Rivalry | 10.00% | ~2,289 |
-| Whoopsie | 10.00% | ~2,289 |
 | Fragile Panes | 9.00% | ~2,060 |
 | Surprise! | 9.00% | ~2,060 |
 | Master Collector | 7.00% | ~1,602 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 565)
 | I don't need these | 1.00% | ~229 |
 | Mycophile | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,889 (Ranked 93)  
+Progressed: 22,890 (Ranked 93)  
 Completed: 40 (0.17%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 40 (0.17%) (Ranked 149)
 | 2023-06-07 | 22,765 | 40 |
 | 2023-06-08 | 22,810 | 40 |
 | 2023-06-09 | 22,882 | 40 |
-| 2023-06-10 | 22,889 | 40 |
+| 2023-06-10 | 22,890 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 235  (Ranked 247)  
 Sum: 2,109 (Ranked 182)  

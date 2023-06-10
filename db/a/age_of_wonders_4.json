@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 129,
@@ -214,7 +214,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4478,
+  "EOS_Progressed": 4479,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
@@ -3489,6 +3489,11 @@
       "Time": "2023-06-10T03:06:10.5854035+00:00",
       "NumProgressed": 4478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T04:04:11.547748+00:00",
+      "NumProgressed": 4479,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -3516,7 +3521,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "12",
@@ -3524,7 +3529,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "13",
@@ -3540,7 +3545,7 @@
       "Name": "Full Ascension",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "15",
@@ -3612,7 +3617,7 @@
       "Name": "Realm Estate",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3403
+      "UsersEstimate": 3404
     },
     {
       "ID": "23",
@@ -3620,7 +3625,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3493
+      "UsersEstimate": 3494
     },
     {
       "ID": "24",
@@ -3628,7 +3633,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "25",
@@ -3636,7 +3641,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3269
+      "UsersEstimate": 3270
     },
     {
       "ID": "26",
@@ -3660,7 +3665,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "29",
@@ -3700,7 +3705,7 @@
       "Name": "My Final Form",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "33",
@@ -3708,7 +3713,7 @@
       "Name": "Seat of Power",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "34",
@@ -3772,7 +3777,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "41",
@@ -3851,13 +3856,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4478,
-      "Completed": 4478
+      "Progressed": 4479,
+      "Completed": 4479
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4478,
+      "Progressed": 4479,
       "Completed": 0
     }
   ],
@@ -3865,8 +3870,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-09T04:00:14.4977407+00:00",
-  "LastChanged_Achievements": "2023-06-10T03:06:10.585403+00:00",
+  "LastChanged_Achievements": "2023-06-10T04:04:11.5477475+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-10T03:01:03.252681+00:00",
-  "LastUpdate_Achievements": "2023-06-10T03:06:10.58545+00:00"
+  "LastUpdate_Ratings": "2023-06-10T03:58:59.8896555+00:00",
+  "LastUpdate_Achievements": "2023-06-10T04:04:11.5477942+00:00"
 }

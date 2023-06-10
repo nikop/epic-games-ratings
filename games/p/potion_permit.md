@@ -12,8 +12,8 @@ Rating: 3.80 (Ranked 927)
 | Great Doctor | 50.00% | ~691 |
 | Dog Whisperer | 48.00% | ~663 |
 | Friendly | 46.00% | ~636 |
+| K.O.! | 42.00% | ~580 |
 | The Capitalist | 42.00% | ~580 |
-| K.O.! | 41.00% | ~567 |
 | Intermediate Chemist | 38.00% | ~525 |
 | Decorative Mind | 31.00% | ~428 |
 | Lumber Specialist | 29.00% | ~401 |

@@ -1,35 +1,35 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 591)  
+Rating: 4.47 (Ranked 592)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~363,231 |
-| Now You're Talking | 62.00% | ~321,719 |
-| Steel Yourself | 62.00% | ~321,719 |
-| Window Dressing | 50.00% | ~259,451 |
-| Trigger Happy | 46.00% | ~238,695 |
-| Riverborn | 45.00% | ~233,506 |
-| Starry Eyed | 34.00% | ~176,427 |
-| Poking Around | 34.00% | ~176,427 |
-| Talk of the Town | 24.00% | ~124,536 |
-| AAARR! | 23.00% | ~119,347 |
-| Hello Darkness | 23.00% | ~119,347 |
-| Wind At Our Backs | 22.00% | ~114,158 |
-| To the Beat | 20.00% | ~103,780 |
-| Sunny Shores | 17.00% | ~88,213 |
-| To Victory! | 15.00% | ~77,835 |
-| Sunday Best | 15.00% | ~77,835 |
-| Two of a Kind | 14.00% | ~72,646 |
-| Keep On Trucking | 13.00% | ~67,457 |
-| Going on an Adventure | 11.00% | ~57,079 |
-| Make Peace, Not War | 11.00% | ~57,079 |
-| Walking The Line | 10.00% | ~51,890 |
-| Not So Cute Anymore | 10.00% | ~51,890 |
-| Road Less Travelled | 9.00% | ~46,701 |
-| Lost and Found | 9.00% | ~46,701 |
+| First Step | 70.00% | ~363,235 |
+| Now You're Talking | 62.00% | ~321,722 |
+| Steel Yourself | 62.00% | ~321,722 |
+| Window Dressing | 50.00% | ~259,454 |
+| Trigger Happy | 46.00% | ~238,697 |
+| Riverborn | 45.00% | ~233,508 |
+| Starry Eyed | 34.00% | ~176,428 |
+| Poking Around | 34.00% | ~176,428 |
+| Talk of the Town | 24.00% | ~124,538 |
+| AAARR! | 23.00% | ~119,349 |
+| Hello Darkness | 23.00% | ~119,349 |
+| Wind At Our Backs | 22.00% | ~114,160 |
+| To the Beat | 20.00% | ~103,781 |
+| Sunny Shores | 17.00% | ~88,214 |
+| To Victory! | 15.00% | ~77,836 |
+| Sunday Best | 15.00% | ~77,836 |
+| Two of a Kind | 14.00% | ~72,647 |
+| Keep On Trucking | 13.00% | ~67,458 |
+| Going on an Adventure | 11.00% | ~57,080 |
+| Make Peace, Not War | 11.00% | ~57,080 |
+| Walking The Line | 10.00% | ~51,891 |
+| Not So Cute Anymore | 10.00% | ~51,891 |
+| Road Less Travelled | 9.00% | ~46,702 |
+| Lost and Found | 9.00% | ~46,702 |
 | Partner in Crime | 7.00% | ~36,323 |
 | Hard to Hear | 7.00% | ~36,323 |
 | Under the Radar | 7.00% | ~36,323 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,557 |
 | Point Taken | 0.10% | ~519 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518,902 (Ranked 28)  
+Progressed: 518,907 (Ranked 28)  
 Completed: 422 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 422 (0.08%) (Ranked 173)
 | 2023-06-07 | 518,687 | 421 |
 | 2023-06-08 | 518,771 | 422 |
 | 2023-06-09 | 518,885 | 422 |
-| 2023-06-10 | 518,902 | 422 |
+| 2023-06-10 | 518,907 | 422 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

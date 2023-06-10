@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,760 |
-| That's a Grand Army | 8.00% | ~4,231 |
-| That is mine! | 8.00% | ~4,231 |
-| Victorious! | 8.00% | ~4,231 |
-| Brothers in Arms | 6.00% | ~3,173 |
-| That's a Grand Navy | 6.00% | ~3,173 |
-| Seriously?! | 6.00% | ~3,173 |
-| For the Glory | 5.00% | ~2,644 |
+| Until death do us apart | 9.00% | ~4,762 |
+| That's a Grand Army | 8.00% | ~4,233 |
+| That is mine! | 8.00% | ~4,233 |
+| Victorious! | 8.00% | ~4,233 |
+| Brothers in Arms | 6.00% | ~3,175 |
+| That's a Grand Navy | 6.00% | ~3,175 |
+| Seriously?! | 6.00% | ~3,175 |
+| For the Glory | 5.00% | ~2,646 |
 | Cold War | 4.00% | ~2,116 |
 | True Catholic | 4.00% | ~2,116 |
 | Defender of the Faith | 3.00% | ~1,587 |
@@ -50,18 +50,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Electable! | 0.60% | ~317 |
 | Populists in Government | 0.60% | ~317 |
 | Time Bandit | 0.60% | ~317 |
-| One Family to Rule them All | 0.50% | ~264 |
-| Ruina Imperii | 0.50% | ~264 |
-| The pen is mightier than the sword | 0.50% | ~264 |
-| This is My Faith | 0.50% | ~264 |
-| Trophy Hunter | 0.50% | ~264 |
-| Voting Streak | 0.50% | ~264 |
+| One Family to Rule them All | 0.50% | ~265 |
+| Ruina Imperii | 0.50% | ~265 |
+| The pen is mightier than the sword | 0.50% | ~265 |
+| This is My Faith | 0.50% | ~265 |
+| Trophy Hunter | 0.50% | ~265 |
+| Voting Streak | 0.50% | ~265 |
 | Absolutely | 0.40% | ~212 |
 | All Your Trade Are Belong to Us | 0.40% | ~212 |
 | Bleed Them Dry | 0.40% | ~212 |
 | Dude, Where's my Boat? | 0.40% | ~212 |
 | Grand Coalition | 0.40% | ~212 |
 | In the Name of the Father | 0.40% | ~212 |
+| Just a Little Patience | 0.40% | ~212 |
 | Live Long and Prosper | 0.40% | ~212 |
 | One Night in Paris | 0.40% | ~212 |
 | Tear Down This Wall | 0.40% | ~212 |
@@ -72,7 +73,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Global Hegemony | 0.30% | ~159 |
 | Grand Duchy | 0.30% | ~159 |
 | Italian Ambition | 0.30% | ~159 |
-| Just a Little Patience | 0.30% | ~159 |
 | Multiculturalism | 0.30% | ~159 |
 | No Pirates in my Caribbean | 0.30% | ~159 |
 | Not so sad a state... | 0.30% | ~159 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,889 (Ranked 78)  
+Progressed: 52,912 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 51,714 | 0 |
 | 2023-06-08 | 52,261 | 0 |
 | 2023-06-09 | 52,837 | 0 |
-| 2023-06-10 | 52,889 | 0 |
+| 2023-06-10 | 52,912 | 0 |
 ## Awards
 Max (Educational): 5,371  (Ranked 61)  
 Sum: 44,348 (Ranked 27)  

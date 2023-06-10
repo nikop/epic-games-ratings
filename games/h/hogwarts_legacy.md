@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,001 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,002 |
 | Grappling with a Graphorn | 7.00% | ~19,446 |
 | The One Who Mastered Memories | 7.00% | ~19,446 |
 | The Hallowed Hero | 7.00% | ~19,446 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.40% | ~1,111 |
 | Collector's Edition | 0.20% | ~556 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277,793 (Ranked 41)  
+Progressed: 277,803 (Ranked 41)  
 Completed: 395 (0.14%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,14 +102,14 @@ Completed: 395 (0.14%) (Ranked 157)
 | 2023-06-07 | 277,097 | 390 |
 | 2023-06-08 | 277,379 | 391 |
 | 2023-06-09 | 277,741 | 395 |
-| 2023-06-10 | 277,793 | 395 |
+| 2023-06-10 | 277,803 | 395 |
 ## Awards
-Max (Character Customization): 19,738  (Ranked 18)  
-Sum: 36,553 (Ranked 32)  
+Max (Character Customization): 19,774  (Ranked 18)  
+Sum: 36,589 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 19,738 |
+| This game has Inclusive Character Customization | 19,774 |
 | This game has Great Boss Battles | 9,360 |
 | This game is Great for Beginners | 824 |
 | This game is Relaxing | 822 |
@@ -202,3 +202,4 @@ Diff (max vs sum): -14
 | 2023-06-07 | 4.77 | 19,672 | 36,413 |
 | 2023-06-08 | 4.77 | 19,702 | 36,484 |
 | 2023-06-09 | 4.77 | 19,738 | 36,553 |
+| 2023-06-10 | 4.77 | 19,774 | 36,589 |

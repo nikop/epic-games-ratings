@@ -13,7 +13,7 @@ Rating: 4.65 (Ranked 295)
 | For your Eyes only | 39.00% | ~2,614 |
 | From the Vault with Love | 37.00% | ~2,480 |
 | Tailor-Made | 37.00% | ~2,480 |
-| Fully Decked Out | 35.00% | ~2,346 |
+| Fully Decked Out | 36.00% | ~2,413 |
 | You Only Live Twice | 32.00% | ~2,145 |
 | A view to Win | 28.00% | ~1,877 |
 | Smells Like Trouble | 26.00% | ~1,743 |

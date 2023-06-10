@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~706 |
+| Diligence as a goal | 4.00% | ~707 |
 | Project Arena | 3.00% | ~530 |
 | The Old Grandmaster | 1.00% | ~7,084 |
 | The Assault | 1.00% | ~7,084 |
@@ -33,9 +33,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.70% | ~4,959 |
 | Qi Gong: Mind | 0.70% | ~4,959 |
 | I know Kung-Fu | 0.70% | ~4,959 |
+| Muk Yan Master | 0.60% | ~4,250 |
 | Deadly Venom | 0.60% | ~106 |
 | A Touch of Acumen | 0.60% | ~106 |
-| Muk Yan Master | 0.50% | ~3,542 |
 | Tiger on Fire | 0.50% | ~3,542 |
 | Source of Flying Daggers | 0.50% | ~3,542 |
 | Iron Money | 0.50% | ~3,542 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~708 |
 | Warriors from the Mountain | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,359 (Ranked 16)  
+Progressed: 708,366 (Ranked 16)  
 Completed: 12,764 (1.80%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 12,764 (1.80%) (Ranked 71)
 | 2023-06-07 | 707,910 | 12,763 |
 | 2023-06-08 | 708,100 | 12,763 |
 | 2023-06-09 | 708,330 | 12,764 |
-| 2023-06-10 | 708,359 | 12,764 |
+| 2023-06-10 | 708,366 | 12,764 |
 ## Awards
 Max (Great Boss Battles): 6,153  (Ranked 52)  
 Sum: 10,501 (Ranked 78)  

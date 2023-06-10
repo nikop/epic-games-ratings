@@ -1,14 +1,14 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.51 (Ranked 528)  
+Rating: 4.51 (Ranked 529)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~722 |
+| Meeting Resistance | 29.00% | ~723 |
 | Confirming Suspicions | 23.00% | ~573 |
-| The Kraken Wakes | 19.00% | ~473 |
-| It's Starting to Crack | 17.00% | ~423 |
+| The Kraken Wakes | 19.00% | ~474 |
+| It's Starting to Crack | 17.00% | ~424 |
 | Lord of War | 14.00% | ~349 |
 | Change the Channel | 14.00% | ~349 |
 | Resourceful | 13.00% | ~324 |
@@ -23,12 +23,12 @@ Rating: 4.51 (Ranked 528)
 | Gunslinger | 8.00% | ~199 |
 | Sharpshooter | 8.00% | ~199 |
 | Explosive Efficiency | 8.00% | ~199 |
-| Opposing Force | 7.00% | ~174 |
-| Die Nussknacker Sweet! | 6.00% | ~149 |
-| Der Geist | 6.00% | ~149 |
-| Close Quarters | 6.00% | ~149 |
-| Snake in the Grass | 6.00% | ~149 |
-| Brains of the Operation | 6.00% | ~149 |
+| Opposing Force | 7.00% | ~175 |
+| Die Nussknacker Sweet! | 6.00% | ~150 |
+| Der Geist | 6.00% | ~150 |
+| Close Quarters | 6.00% | ~150 |
+| Snake in the Grass | 6.00% | ~150 |
+| Brains of the Operation | 6.00% | ~150 |
 | Climbing the Ladder | 5.00% | ~125 |
 | No Stone Unturned | 5.00% | ~125 |
 | Fields of Glory | 5.00% | ~125 |
@@ -48,9 +48,9 @@ Rating: 4.51 (Ranked 528)
 | Operation Foxley | 1.00% | ~24 |
 | Ghost of Falaise | 0.90% | ~22 |
 | Siegebreaker | 0.80% | ~20 |
+| Burn after reading | 0.70% | ~17 |
 | Last Resort | 0.70% | ~17 |
 | From Paris with Love | 0.60% | ~15 |
-| Burn after reading | 0.60% | ~15 |
 | Souvenir hunter | 0.60% | ~15 |
 | Up close and personal | 0.50% | ~12 |
 | Shoot for the Moon | 0.50% | ~12 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,491 (Ranked 147)  
+Progressed: 2,493 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
-| 2023-06-10 | 2,491 | 2 |
+| 2023-06-10 | 2,493 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

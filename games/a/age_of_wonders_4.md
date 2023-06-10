@@ -1,23 +1,23 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.56 (Ranked 452)  
+Rating: 4.56 (Ranked 453)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 78.00% | ~3,493 |
-| Realm Estate | 76.00% | ~3,403 |
-| Secret Technique | 75.00% | ~3,358 |
-| Walls Cannot Stop Us | 73.00% | ~3,269 |
-| From Friends to Family | 69.00% | ~3,090 |
+| A Wonderful Discovery | 78.00% | ~3,494 |
+| Realm Estate | 76.00% | ~3,404 |
+| Secret Technique | 75.00% | ~3,359 |
+| Walls Cannot Stop Us | 73.00% | ~3,270 |
+| From Friends to Family | 69.00% | ~3,091 |
 | Magical Synergy | 65.00% | ~2,911 |
 | Bone Peddler | 61.00% | ~2,732 |
 | Stronger Together | 56.00% | ~2,508 |
-| Full Ascension | 54.00% | ~2,418 |
-| There Can Only Be One! | 48.00% | ~2,149 |
-| Seat of Power | 48.00% | ~2,149 |
-| My Final Form | 44.00% | ~1,970 |
-| Intimidation Tactics | 44.00% | ~1,970 |
+| Full Ascension | 54.00% | ~2,419 |
+| There Can Only Be One! | 48.00% | ~2,150 |
+| Seat of Power | 48.00% | ~2,150 |
+| My Final Form | 44.00% | ~1,971 |
+| Intimidation Tactics | 44.00% | ~1,971 |
 | Valley of Wonders | 42.00% | ~1,881 |
 | In a Liege of Your Own | 38.00% | ~1,702 |
 | Return of the Wizard King | 31.00% | ~1,388 |
@@ -38,7 +38,7 @@ Rating: 4.56 (Ranked 452)
 | The Eternal Court | 9.00% | ~403 |
 | Jack of All Tomes | 9.00% | ~403 |
 | Pruning for Progress | 9.00% | ~403 |
-| I've Got Everything I Need Right Here | 7.00% | ~313 |
+| I've Got Everything I Need Right Here | 7.00% | ~314 |
 | Betrayal Most Foul | 5.00% | ~224 |
 | Grexolis | 4.00% | ~179 |
 | One for All, All for One | 4.00% | ~179 |
@@ -50,7 +50,7 @@ Rating: 4.56 (Ranked 452)
 | Master of Evilness | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,478 (Ranked 129)  
+Progressed: 4,479 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 4,407 | 0 |
 | 2023-06-08 | 4,428 | 0 |
 | 2023-06-09 | 4,476 | 0 |
-| 2023-06-10 | 4,478 | 0 |
+| 2023-06-10 | 4,479 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

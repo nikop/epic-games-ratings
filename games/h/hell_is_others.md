@@ -1,14 +1,14 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.43 (Ranked 645)  
+Rating: 4.43 (Ranked 646)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,739 |
+| Survivor | 31.00% | ~77,740 |
 | Predator I | 22.00% | ~55,170 |
-| Fixer I | 10.00% | ~25,077 |
-| A week in Century City | 10.00% | ~25,077 |
+| Fixer I | 10.00% | ~25,078 |
+| A week in Century City | 10.00% | ~25,078 |
 | The Wait | 7.00% | ~17,554 |
 | Green thumb I | 6.00% | ~15,046 |
 | Cleaning Company | 6.00% | ~15,046 |
@@ -19,14 +19,14 @@ Rating: 4.43 (Ranked 645)
 | Vandalism | 4.00% | ~10,031 |
 | Capitalist I | 4.00% | ~10,031 |
 | Adrenaline | 3.00% | ~7,523 |
-| By a hair | 2.00% | ~5,015 |
-| Fixer II | 2.00% | ~5,015 |
-| It took a while | 2.00% | ~5,015 |
-| Samurai | 2.00% | ~5,015 |
-| I Left You a Present | 2.00% | ~5,015 |
-| Predator II | 2.00% | ~5,015 |
-| Truffle Dog | 2.00% | ~5,015 |
-| A month in Century City | 2.00% | ~5,015 |
+| By a hair | 2.00% | ~5,016 |
+| Fixer II | 2.00% | ~5,016 |
+| It took a while | 2.00% | ~5,016 |
+| Samurai | 2.00% | ~5,016 |
+| I Left You a Present | 2.00% | ~5,016 |
+| Predator II | 2.00% | ~5,016 |
+| Truffle Dog | 2.00% | ~5,016 |
+| A month in Century City | 2.00% | ~5,016 |
 | The Strengthening | 1.00% | ~2,508 |
 | Saver II | 1.00% | ~2,508 |
 | It's the last one, I swear | 1.00% | ~2,508 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 645)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,771 (Ranked 42)  
+Progressed: 250,775 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 1 (0.00%) (Ranked 213)
 | 2023-06-07 | 250,608 | 1 |
 | 2023-06-08 | 250,677 | 1 |
 | 2023-06-09 | 250,759 | 1 |
-| 2023-06-10 | 250,771 | 1 |
+| 2023-06-10 | 250,775 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 466)  
 Sum: 71 (Ranked 422)  

@@ -2,7 +2,7 @@
   "ID": "253d451b16364a22907dd01b7e928fb6",
   "Name": "Horizon Chase Turbo",
   "ProductSlug": "horizon-chase-turbo",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 11,
@@ -1816,9 +1816,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 971321,
+  "EOS_Progressed": 971378,
   "EOS_Completed": 299,
-  "EOS_NewPlayers": 9328,
+  "EOS_NewPlayers": 9335,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7051,6 +7051,11 @@
       "Time": "2023-06-10T03:04:06.9517492+00:00",
       "NumProgressed": 971321,
       "NumCompleted": 299
+    },
+    {
+      "Time": "2023-06-10T04:02:07.990309+00:00",
+      "NumProgressed": 971378,
+      "NumCompleted": 299
     }
   ],
   "TotalAchievements": 37,
@@ -7062,7 +7067,7 @@
       "Name": "Ghostbuster",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 310823
+      "UsersEstimate": 310841
     },
     {
       "ID": "CompleteAustralia",
@@ -7078,7 +7083,7 @@
       "Name": "Driver from Ipanema",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19426
+      "UsersEstimate": 19428
     },
     {
       "ID": "CompleteCalifornia",
@@ -7086,7 +7091,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 67992
+      "UsersEstimate": 67996
     },
     {
       "ID": "CompleteChile",
@@ -7094,7 +7099,7 @@
       "Name": "Carm\u00E9n\u00E8re Taster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 29140
+      "UsersEstimate": 29141
     },
     {
       "ID": "CompleteChina",
@@ -7110,7 +7115,7 @@
       "Name": "God of Roads",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 9713
+      "UsersEstimate": 9714
     },
     {
       "ID": "CompleteHawaii",
@@ -7118,7 +7123,7 @@
       "Name": "Volcano Surfer",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 6799
+      "UsersEstimate": 6800
     },
     {
       "ID": "CompleteIceland",
@@ -7126,7 +7131,7 @@
       "Name": "The Iceman",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 9713
+      "UsersEstimate": 9714
     },
     {
       "ID": "CompleteIndia",
@@ -7142,7 +7147,7 @@
       "Name": "Otaku",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 6799
+      "UsersEstimate": 6800
     },
     {
       "ID": "CompleteSouthAfrica",
@@ -7150,7 +7155,7 @@
       "Name": "Pathfinder",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19426
+      "UsersEstimate": 19428
     },
     {
       "ID": "CompleteUAE",
@@ -7158,7 +7163,7 @@
       "Name": "Oil Tycoon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 9713
+      "UsersEstimate": 9714
     },
     {
       "ID": "DriveAllCars",
@@ -7174,7 +7179,7 @@
       "Name": "Go-Kart Champion",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19426
+      "UsersEstimate": 19428
     },
     {
       "ID": "FinishAllTournamentsGoldHard",
@@ -7190,7 +7195,7 @@
       "Name": "Getting Famous",
       "Percentage": 0.4,
       "XP": 75,
-      "UsersEstimate": 3885
+      "UsersEstimate": 3886
     },
     {
       "ID": "FinishEnduranceGoldEasy",
@@ -7222,7 +7227,7 @@
       "Name": "Round the Globe",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 9713
+      "UsersEstimate": 9714
     },
     {
       "ID": "FinishWorldTourAllGold",
@@ -7230,7 +7235,7 @@
       "Name": "Golden Passport",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 9713
+      "UsersEstimate": 9714
     },
     {
       "ID": "FinishWorldTourAllSuper",
@@ -7246,7 +7251,7 @@
       "Name": "Brave and Bold",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 9713
+      "UsersEstimate": 9714
     },
     {
       "ID": "FirstRaceTournament",
@@ -7254,7 +7259,7 @@
       "Name": "Quickie",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 97132
+      "UsersEstimate": 97138
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -7262,7 +7267,7 @@
       "Name": "The First of Many",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 864476
+      "UsersEstimate": 864526
     },
     {
       "ID": "GetLotsOfScore",
@@ -7270,7 +7275,7 @@
       "Name": "Completionist",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 19426
+      "UsersEstimate": 19428
     },
     {
       "ID": "GetReallyFast",
@@ -7278,7 +7283,7 @@
       "Name": "Supersonic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19426
+      "UsersEstimate": 19428
     },
     {
       "ID": "InstallAllUpgrades",
@@ -7286,7 +7291,7 @@
       "Name": "Harder, Better, Faster, Stronger",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19426
+      "UsersEstimate": 19428
     },
     {
       "ID": "InstallOneUpgrade",
@@ -7294,7 +7299,7 @@
       "Name": "Pump my Ride",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 446808
+      "UsersEstimate": 446834
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -7302,7 +7307,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 165125
+      "UsersEstimate": 165134
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -7310,7 +7315,7 @@
       "Name": "Comeback",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 29140
+      "UsersEstimate": 29141
     },
     {
       "ID": "RunLotsOfMiles",
@@ -7318,7 +7323,7 @@
       "Name": "Marathonist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 29140
+      "UsersEstimate": 29141
     },
     {
       "ID": "UnlockCar",
@@ -7326,7 +7331,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 602219
+      "UsersEstimate": 602254
     },
     {
       "ID": "WinBySmallDifference",
@@ -7334,7 +7339,7 @@
       "Name": "That Was Close",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 165125
+      "UsersEstimate": 165134
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -7342,7 +7347,7 @@
       "Name": "Living Legend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 29140
+      "UsersEstimate": 29141
     },
     {
       "ID": "WinRaceWithoutColliding",
@@ -7350,22 +7355,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 48566
+      "UsersEstimate": 48569
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 971321,
+      "Progressed": 971378,
       "Completed": 299
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-06-09T06:57:57.6367525+00:00",
-  "LastChanged_Achievements": "2023-06-10T03:04:06.9517486+00:00",
+  "LastChanged_Achievements": "2023-06-10T04:02:07.9903087+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:48.4846119+00:00",
-  "LastUpdate_Ratings": "2023-06-10T02:59:31.5190178+00:00",
-  "LastUpdate_Achievements": "2023-06-10T03:04:06.9518142+00:00"
+  "LastUpdate_Ratings": "2023-06-10T03:57:28.8026999+00:00",
+  "LastUpdate_Achievements": "2023-06-10T04:02:07.9903519+00:00"
 }

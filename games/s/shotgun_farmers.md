@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 55.00% | ~28 |
+| Aspairagus | 54.00% | ~28 |
 | Seeds of War | 50.00% | ~50 |
 | Survivor | 47.00% | ~24 |
 | First Blood | 37.00% | ~37 |
 | Early Survivor | 36.00% | ~18 |
 | No Diggity | 36.00% | ~18 |
-| Triple Kill | 33.00% | ~33 |
+| Triple Kill | 34.00% | ~34 |
 | No Asperascope | 31.00% | ~31 |
 | Cornivore | 30.00% | ~30 |
 | I Believe I Can Fly | 27.00% | ~27 |
@@ -21,7 +21,7 @@
 | 10K | 18.00% | ~18 |
 | Professional Survivor | 18.00% | ~9 |
 | 15K | 17.00% | ~17 |
-| Grave Digger | 17.00% | ~8 |
+| Grave Digger | 17.00% | ~9 |
 | Drinking Problem | 14.00% | ~14 |
 | Oh My Gourd | 10.00% | ~5 |
 | Summers Here | 10.00% | ~5 |
@@ -49,10 +49,10 @@
 | I Have The High Ground | 1.00% | ~1 |
 | Early Bird | 1.00% | ~1 |
 | Pro Carrocketeer | 1.00% | ~1 |
-| Berry Loved | 1.00% | ~0 |
-| Carrocket From Above | 1.00% | ~0 |
-| Death From Above | 1.00% | ~0 |
-| Heal Me Peas | 1.00% | ~0 |
+| Berry Loved | 1.00% | ~1 |
+| Carrocket From Above | 1.00% | ~1 |
+| Death From Above | 1.00% | ~1 |
+| Heal Me Peas | 1.00% | ~1 |
 | 30 Days | 0.00% | ~0 |
 | Darkside Survivor | 0.00% | ~0 |
 | Forestside Survivor | 0.00% | ~0 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 275)  
+Progressed: 101 (Ranked 275)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,6 +117,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 94 | 0 |
 | 2023-06-08 | 97 | 0 |
 | 2023-06-09 | 100 | 0 |
+| 2023-06-10 | 101 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
