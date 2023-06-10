@@ -216,7 +216,7 @@
   "Tags": [],
   "EOS_Progressed": 4476,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3600,9 +3600,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 3357
+      "UsersEstimate": 3402
     },
     {
       "ID": "23",
@@ -3776,9 +3776,9 @@
       "ID": "42",
       "SetID": "3aa2279",
       "Name": "Master of Evilness",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "43",
@@ -3855,8 +3855,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-09T04:00:14.4977407+00:00",
-  "LastChanged_Achievements": "2023-06-09T23:04:52.07014+00:00",
+  "LastChanged_Achievements": "2023-06-10T00:04:39.3060556+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:59:42.2722272+00:00",
-  "LastUpdate_Achievements": "2023-06-09T23:04:52.0701849+00:00"
+  "LastUpdate_Ratings": "2023-06-09T23:59:33.9020145+00:00",
+  "LastUpdate_Achievements": "2023-06-10T00:04:39.3061277+00:00"
 }

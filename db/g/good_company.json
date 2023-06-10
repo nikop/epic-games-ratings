@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4957,
+  "EOS_Progressed": 4958,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1464,6 +1464,11 @@
       "Time": "2023-06-09T22:11:25.8391412+00:00",
       "NumProgressed": 4957,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T00:06:24.7330597+00:00",
+      "NumProgressed": 4958,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1587,7 +1592,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2082,15 +2087,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4957,
+      "Progressed": 4958,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-09T23:06:40.3526373+00:00",
+  "LastChanged_Achievements": "2023-06-10T00:06:24.7330591+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:18.7719837+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:59:12.0262657+00:00",
-  "LastUpdate_Achievements": "2023-06-09T23:06:40.3527109+00:00"
+  "LastUpdate_Ratings": "2023-06-09T23:59:03.8336521+00:00",
+  "LastUpdate_Achievements": "2023-06-10T00:06:24.7331912+00:00"
 }

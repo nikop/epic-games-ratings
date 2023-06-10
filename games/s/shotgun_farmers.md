@@ -8,7 +8,7 @@
 | Seeds of War | 50.00% | ~50 |
 | Survivor | 47.00% | ~24 |
 | First Blood | 37.00% | ~37 |
-| Early Survivor | 35.00% | ~18 |
+| Early Survivor | 36.00% | ~18 |
 | No Diggity | 35.00% | ~18 |
 | Triple Kill | 33.00% | ~33 |
 | No Asperascope | 31.00% | ~31 |
@@ -17,12 +17,12 @@
 | Amateur Survivor | 27.00% | ~14 |
 | Bouncemato | 24.00% | ~12 |
 | This Is My Boomstick | 23.00% | ~12 |
-| Quick-Draw Pod | 19.00% | ~10 |
+| Quick-Draw Pod | 20.00% | ~10 |
 | 10K | 18.00% | ~18 |
 | Professional Survivor | 18.00% | ~9 |
 | 15K | 17.00% | ~17 |
 | Grave Digger | 17.00% | ~8 |
-| Drinking Problem | 13.00% | ~13 |
+| Drinking Problem | 14.00% | ~14 |
 | Oh My Gourd | 10.00% | ~5 |
 | Skin Of Your Teeth | 9.00% | ~9 |
 | Summers Here | 9.00% | ~4 |

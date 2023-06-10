@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1001,
+  "EOS_Progressed": 1002,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -995,6 +995,11 @@
       "Time": "2023-06-09T18:06:43.9555967+00:00",
       "NumProgressed": 1001,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-10T00:06:16.9334642+00:00",
+      "NumProgressed": 1002,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1086,7 +1091,7 @@
       "Name": "E1M1",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Everyone_is_here",
@@ -1118,7 +1123,7 @@
       "Name": "Grenadier",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "Hard_Serpent",
@@ -1134,7 +1139,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "High_noon",
@@ -1198,7 +1203,7 @@
       "Name": "Mosquito bite",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Scout",
@@ -1222,7 +1227,7 @@
       "Name": "War Never Changes",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "We_were_not_here",
@@ -1245,15 +1250,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1001,
+      "Progressed": 1002,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-09T23:06:32.15634+00:00",
+  "LastChanged_Achievements": "2023-06-10T00:06:16.9334635+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:59:29.7461178+00:00",
-  "LastUpdate_Achievements": "2023-06-09T23:06:32.1563596+00:00"
+  "LastUpdate_Ratings": "2023-06-09T23:59:21.2105399+00:00",
+  "LastUpdate_Achievements": "2023-06-10T00:06:16.9334902+00:00"
 }

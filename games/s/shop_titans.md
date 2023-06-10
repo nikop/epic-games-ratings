@@ -1,32 +1,32 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.98 (Ranked 905)  
+Rating: 3.99 (Ranked 903)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~126,297 |
-| Titan's First Steps | 96.00% | ~124,995 |
-| Basic in Bulk | 91.00% | ~118,485 |
+| Sponsored by Argon | 97.00% | ~126,298 |
+| Titan's First Steps | 96.00% | ~124,996 |
+| Basic in Bulk | 91.00% | ~118,486 |
 | Tinkle of Coins | 87.00% | ~113,277 |
-| Disintermediation | 76.00% | ~98,954 |
-| Capitalism Ho! | 74.00% | ~96,350 |
-| It's Free Real Estate | 70.00% | ~91,142 |
-| Budding Merchant | 66.00% | ~85,934 |
+| Disintermediation | 76.00% | ~98,955 |
+| Capitalism Ho! | 74.00% | ~96,351 |
+| It's Free Real Estate | 70.00% | ~91,143 |
+| Budding Merchant | 66.00% | ~85,935 |
 | Another Satisfied Customer | 61.00% | ~79,424 |
 | One Easy Payment | 60.00% | ~78,122 |
 | Own the Means of Production | 60.00% | ~78,122 |
 | Some Assembly Required | 58.00% | ~75,518 |
 | Pretty Penny | 57.00% | ~74,216 |
 | One-Armed Bandit | 50.00% | ~65,102 |
-| Through Repetition, Perfection | 46.00% | ~59,893 |
-| The Daily Grind | 45.00% | ~58,591 |
-| Bounty Hunters | 44.00% | ~57,289 |
-| Where it Hurts | 43.00% | ~55,987 |
-| Dungeon Imports | 42.00% | ~54,685 |
-| Flooding the Market | 41.00% | ~53,383 |
-| Demand for Supplies | 38.00% | ~49,477 |
+| Through Repetition, Perfection | 46.00% | ~59,894 |
+| The Daily Grind | 45.00% | ~58,592 |
+| Bounty Hunters | 44.00% | ~57,290 |
+| Where it Hurts | 43.00% | ~55,988 |
+| Dungeon Imports | 42.00% | ~54,686 |
+| Flooding the Market | 41.00% | ~53,384 |
+| Demand for Supplies | 38.00% | ~49,478 |
 | Gild-Gotten Goods | 37.00% | ~48,175 |
 | Did we pack lunch? | 35.00% | ~45,571 |
 | Arcane Industries | 34.00% | ~44,269 |
@@ -49,17 +49,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 19.00% | ~24,739 |
 | For the Hoard! | 17.00% | ~22,135 |
 | Special Ingredient | 17.00% | ~22,135 |
-| A Notch Above the Rest | 15.00% | ~19,530 |
-| Scrapbooker | 15.00% | ~19,530 |
-| This Power Level...! | 15.00% | ~19,530 |
-| Expansion in Session | 15.00% | ~19,530 |
-| Seasoned Journeyman | 15.00% | ~19,530 |
-| Black Friday Special | 15.00% | ~19,530 |
-| Big Game Hunting | 14.00% | ~18,228 |
-| Locally Sourced | 14.00% | ~18,228 |
-| Flying off the Shelves | 14.00% | ~18,228 |
-| Laden with Loot | 14.00% | ~18,228 |
-| Fat Cat Tag Team | 13.00% | ~16,926 |
+| A Notch Above the Rest | 15.00% | ~19,531 |
+| Scrapbooker | 15.00% | ~19,531 |
+| This Power Level...! | 15.00% | ~19,531 |
+| Expansion in Session | 15.00% | ~19,531 |
+| Seasoned Journeyman | 15.00% | ~19,531 |
+| Black Friday Special | 15.00% | ~19,531 |
+| Big Game Hunting | 14.00% | ~18,229 |
+| Locally Sourced | 14.00% | ~18,229 |
+| Flying off the Shelves | 14.00% | ~18,229 |
+| Laden with Loot | 14.00% | ~18,229 |
+| Fat Cat Tag Team | 13.00% | ~16,927 |
 | Hidden Potential | 12.00% | ~15,624 |
 | Mammonite | 12.00% | ~15,624 |
 | Attrition Mission | 12.00% | ~15,624 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~651 |
 | Capitalist Camaraderie | 0.20% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,203 (Ranked 58)  
+Progressed: 130,204 (Ranked 58)  
 Completed: 94 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,9 +170,10 @@ Completed: 94 (0.07%) (Ranked 177)
 | 2023-06-07 | 130,059 | 94 |
 | 2023-06-08 | 130,124 | 94 |
 | 2023-06-09 | 130,203 | 94 |
+| 2023-06-10 | 130,204 | 94 |
 ## Awards
 Max (Great for Beginners): 4,616  (Ranked 67)  
-Sum: 26,727 (Ranked 44)  
+Sum: 26,728 (Ranked 44)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -180,7 +181,7 @@ Diff (max vs sum): 23
 | This game is Relaxing | 3,960 |
 | This game has Quickly Understood Controls | 3,947 |
 | This game has Diverse Characters | 3,780 |
-| This game is Highly Recommended | 3,683 |
+| This game is Highly Recommended | 3,684 |
 | This game has Easy Combat | 3,629 |
 | This game has Playful Visuals | 3,112 |
 | This game has Inclusive Character Customization | 22 |
@@ -323,4 +324,4 @@ Diff (max vs sum): 23
 | 2023-06-06 | 3.98 | - | 4,611 | 26,712 |
 | 2023-06-07 | 3.98 | - | 4,611 | 26,716 |
 | 2023-06-08 | 3.98 | - | 4,614 | 26,725 |
-| 2023-06-09 | 3.98 | - | 4,616 | 26,727 |
+| 2023-06-09 | 3.99 | - | 4,616 | 26,728 |

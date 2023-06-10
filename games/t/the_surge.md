@@ -6,18 +6,18 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,115 |
+| On My Own Two Feet | 94.00% | ~4,116 |
 | I'll Be Back | 84.00% | ~3,678 |
-| Sorry, I Dropped This | 77.00% | ~3,371 |
-| First Day on the Job | 76.00% | ~3,327 |
-| Butcher's Bill | 54.00% | ~2,364 |
+| Sorry, I Dropped This | 77.00% | ~3,372 |
+| First Day on the Job | 76.00% | ~3,328 |
+| Butcher's Bill | 54.00% | ~2,365 |
 | P.A.X | 37.00% | ~1,620 |
 | Hey Listen | 36.00% | ~1,576 |
-| OPERATOR | 35.00% | ~1,532 |
+| OPERATOR | 35.00% | ~1,533 |
 | It's Blue Light | 33.00% | ~1,445 |
-| Most Wanted | 26.00% | ~1,138 |
+| Most Wanted | 26.00% | ~1,139 |
 | Infidel | 23.00% | ~1,007 |
-| GOLIATH | 21.00% | ~919 |
+| GOLIATH | 21.00% | ~920 |
 | Firebug | 20.00% | ~876 |
 | I Choose You | 17.00% | ~744 |
 | Nothing to Lose | 17.00% | ~744 |
@@ -38,9 +38,9 @@ Number of Ratings: 62  (23.09.2022)
 | Squad Chief Helvig | 8.00% | ~350 |
 | No More Marching | 8.00% | ~350 |
 | Is This Real Life? | 8.00% | ~350 |
-| Duty-Bound | 7.00% | ~306 |
-| Liberation | 7.00% | ~306 |
-| Risk Assessment | 7.00% | ~306 |
+| Duty-Bound | 7.00% | ~307 |
+| Liberation | 7.00% | ~307 |
+| Risk Assessment | 7.00% | ~307 |
 | Sunglasses at Night | 6.00% | ~263 |
 | Follow the White Rabbit | 6.00% | ~263 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~219 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,378 (Ranked 130)  
+Progressed: 4,379 (Ranked 130)  
 Completed: 13 (0.30%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 13 (0.30%) (Ranked 132)
 | 2023-06-07 | 4,355 | 13 |
 | 2023-06-08 | 4,368 | 13 |
 | 2023-06-09 | 4,378 | 13 |
+| 2023-06-10 | 4,379 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 462)  
 Sum: 26 (Ranked 471)  

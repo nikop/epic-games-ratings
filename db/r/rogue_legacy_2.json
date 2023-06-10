@@ -2,7 +2,7 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 39,
+  "Ranking_Rating": 40,
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 95,
@@ -1163,7 +1163,7 @@
   ],
   "EOS_Progressed": 22120,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4221,8 +4221,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-09T15:59:30.5788827+00:00",
-  "LastChanged_Achievements": "2023-06-09T23:06:30.9192536+00:00",
+  "LastChanged_Achievements": "2023-06-10T00:06:15.8221509+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:32.4946327+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:59:23.995904+00:00",
-  "LastUpdate_Achievements": "2023-06-09T23:06:30.9192914+00:00"
+  "LastUpdate_Ratings": "2023-06-09T23:59:15.6929846+00:00",
+  "LastUpdate_Achievements": "2023-06-10T00:06:15.8221927+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 414,
+  "EOS_Progressed": 415,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.86,
   "EosHistory": [
@@ -1209,6 +1209,11 @@
       "Time": "2023-06-09T23:04:23.7623451+00:00",
       "NumProgressed": 414,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-10T00:04:11.5776792+00:00",
+      "NumProgressed": 415,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 28,
@@ -1234,9 +1239,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 224
     },
     {
       "ID": "MQ02_2",
@@ -1260,7 +1265,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "MQ03_1",
@@ -1284,7 +1289,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "MQ03_4",
@@ -1314,9 +1319,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 137
     },
     {
       "ID": "MQ04_3",
@@ -1364,7 +1369,7 @@
       "Name": "Brain Food",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "MQ06_2",
@@ -1388,7 +1393,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "MQ07_1",
@@ -1396,7 +1401,7 @@
       "Name": "Read It And Weep",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "MQ07_2",
@@ -1404,7 +1409,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MQ08_1",
@@ -1443,7 +1448,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 414,
+      "Progressed": 415,
       "Completed": 16
     }
   ],
@@ -1451,8 +1456,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-09T23:04:23.7623446+00:00",
+  "LastChanged_Achievements": "2023-06-10T00:04:11.5776783+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:57:25.9528448+00:00",
-  "LastUpdate_Achievements": "2023-06-09T23:04:23.7623654+00:00"
+  "LastUpdate_Ratings": "2023-06-09T23:57:18.4394604+00:00",
+  "LastUpdate_Achievements": "2023-06-10T00:04:11.5777303+00:00"
 }

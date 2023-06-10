@@ -6,7 +6,7 @@ Rating: 4.56 (Ranked 452)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 78.00% | ~3,491 |
-| Realm Estate | 75.00% | ~3,357 |
+| Realm Estate | 76.00% | ~3,402 |
 | Secret Technique | 75.00% | ~3,357 |
 | Walls Cannot Stop Us | 73.00% | ~3,267 |
 | From Friends to Family | 69.00% | ~3,088 |
@@ -47,8 +47,8 @@ Rating: 4.56 (Ranked 452)
 | Manufactured War | 2.00% | ~90 |
 | I'll Fight You All | 1.00% | ~45 |
 | The Grey Wizard | 0.40% | ~18 |
+| Master of Evilness | 0.30% | ~13 |
 | Returning Circle | 0.30% | ~13 |
-| Master of Evilness | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,476 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 213)  

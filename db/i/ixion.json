@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2541,
+  "EOS_Progressed": 2542,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2448,6 +2448,11 @@
       "Time": "2023-06-09T23:06:26.9921711+00:00",
       "NumProgressed": 2541,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-10T00:06:11.4266331+00:00",
+      "NumProgressed": 2542,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -2539,7 +2544,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_BASE_21",
@@ -2651,7 +2656,7 @@
       "Name": "Fully Recycled",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_BASE_34",
@@ -2667,7 +2672,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_BASE_36",
@@ -2835,7 +2840,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_BASE_6",
@@ -2843,7 +2848,7 @@
       "Name": "Hope Seeker",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_BASE_60",
@@ -2914,13 +2919,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 722,
+      "Progressed": 723,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2541,
+      "Progressed": 2542,
       "Completed": 0
     }
   ],
@@ -2928,8 +2933,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-08T14:58:30.2723664+00:00",
-  "LastChanged_Achievements": "2023-06-09T23:06:26.9921708+00:00",
+  "LastChanged_Achievements": "2023-06-10T00:06:11.4266327+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:44.0613417+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:58:41.4467961+00:00",
-  "LastUpdate_Achievements": "2023-06-09T23:06:26.992224+00:00"
+  "LastUpdate_Ratings": "2023-06-09T23:58:33.3059797+00:00",
+  "LastUpdate_Achievements": "2023-06-10T00:06:11.4266996+00:00"
 }

@@ -559,9 +559,9 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -871,7 +871,7 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -951,7 +951,7 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -1094,8 +1094,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-09T23:03:15.3024367+00:00",
+  "LastChanged_Achievements": "2023-06-10T00:03:04.5178887+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.5762228+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:58:32.5810105+00:00",
-  "LastUpdate_Achievements": "2023-06-09T23:03:15.3024987+00:00"
+  "LastUpdate_Ratings": "2023-06-09T23:58:24.6633903+00:00",
+  "LastUpdate_Achievements": "2023-06-10T00:03:04.5179931+00:00"
 }

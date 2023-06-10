@@ -14,11 +14,11 @@ Rating: 4.57 (Ranked 444)
 | Ready for a New World | 8.00% | ~203 |
 | Permanent Redesigns | 7.00% | ~178 |
 | Ain't Nobody Got Time for That | 7.00% | ~178 |
-| Guy de Borderlands | 6.00% | ~152 |
-| Fully Recycled | 6.00% | ~152 |
-| Breaking Protocol | 6.00% | ~152 |
-| The Ship of Theseus | 6.00% | ~152 |
-| Hope Seeker | 6.00% | ~152 |
+| Guy de Borderlands | 6.00% | ~153 |
+| Fully Recycled | 6.00% | ~153 |
+| Breaking Protocol | 6.00% | ~153 |
+| The Ship of Theseus | 6.00% | ~153 |
+| Hope Seeker | 6.00% | ~153 |
 | A Hunk of Junk | 5.00% | ~127 |
 | Exceeding Capacity | 4.00% | ~102 |
 | Please Make it Stop! | 4.00% | ~102 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 444)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,541 (Ranked 146)  
+Progressed: 2,542 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 0 (0.00%) (Ranked 213)
 | 2023-06-07 | 2,488 | 0 |
 | 2023-06-08 | 2,515 | 0 |
 | 2023-06-09 | 2,541 | 0 |
+| 2023-06-10 | 2,542 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

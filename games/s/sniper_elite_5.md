@@ -5,18 +5,18 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 28.00% | ~695 |
-| Confirming Suspicions | 23.00% | ~571 |
+| Meeting Resistance | 28.00% | ~696 |
+| Confirming Suspicions | 23.00% | ~572 |
 | The Kraken Wakes | 19.00% | ~472 |
-| It's Starting to Crack | 17.00% | ~422 |
-| Lord of War | 14.00% | ~347 |
-| Change the Channel | 14.00% | ~347 |
+| It's Starting to Crack | 17.00% | ~423 |
+| Lord of War | 14.00% | ~348 |
+| Change the Channel | 14.00% | ~348 |
 | Resourceful | 13.00% | ~323 |
 | Taking it back | 12.00% | ~298 |
-| Organ Grinder | 10.00% | ~248 |
-| As Quiet as a Mouse | 10.00% | ~248 |
-| Target America | 10.00% | ~248 |
-| The Kraken Sleeps | 9.00% | ~223 |
+| Organ Grinder | 10.00% | ~249 |
+| As Quiet as a Mouse | 10.00% | ~249 |
+| Target America | 10.00% | ~249 |
+| The Kraken Sleeps | 9.00% | ~224 |
 | Liberté | 8.00% | ~199 |
 | Enemy at the Gates | 8.00% | ~199 |
 | Just a Flesh Wound | 8.00% | ~199 |
@@ -35,7 +35,7 @@ Rating: 4.51 (Ranked 528)
 | Skirmisher | 5.00% | ~124 |
 | Set Europe Ablaze | 5.00% | ~124 |
 | Precision Is Key | 4.00% | ~99 |
-| Rigged to Blow | 3.00% | ~74 |
+| Rigged to Blow | 3.00% | ~75 |
 | The Long Game | 2.00% | ~50 |
 | My Little Friend | 2.00% | ~50 |
 | It'll Buff Right Out | 2.00% | ~50 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,482 (Ranked 147)  
+Progressed: 2,486 (Ranked 147)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-07 | 2,377 | 2 |
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
+| 2023-06-10 | 2,486 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "3671db367c594e2ab5020105dc52dc65",
   "Name": "KINGDOM HEARTS Melody of Memory",
   "ProductSlug": "kingdom-hearts-melody-of-memory",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 295,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 438,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "TW"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.65,
   "NumberOfRatings": 83,
   "RatingHistory": [
     {
@@ -319,6 +319,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-09T23:57:24.897127+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -336,8 +342,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:47.7088275+00:00",
-  "LastChanged": "2023-05-12T04:57:04.5650867+00:00",
+  "LastChanged": "2023-06-09T23:57:24.8971268+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:27.1285225+00:00",
-  "LastUpdate_Ratings": "2023-06-09T22:57:31.6006576+00:00",
-  "LastUpdate_Achievements": "2023-06-09T23:03:17.5092938+00:00"
+  "LastUpdate_Ratings": "2023-06-09T23:57:24.8971277+00:00",
+  "LastUpdate_Achievements": "2023-06-10T00:03:06.7774366+00:00"
 }

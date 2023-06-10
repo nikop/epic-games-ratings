@@ -6,57 +6,57 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~387,868 |
-| Hey! That's mine! | 78.00% | ~373,502 |
-| Happy Returns | 77.00% | ~368,714 |
-| Field Promotion | 74.00% | ~354,348 |
-| Leadhead | 71.00% | ~339,983 |
-| Eradicator | 67.00% | ~320,829 |
-| Surplus | 65.00% | ~311,252 |
-| I Spy | 64.00% | ~306,463 |
-| Burn Baby Burn | 59.00% | ~282,521 |
-| Yellow Beats Green | 55.00% | ~263,367 |
-| Salvage Rights | 53.00% | ~253,790 |
-| Pew Pew | 50.00% | ~239,424 |
-| What IS that? | 50.00% | ~239,424 |
-| Close Call | 49.00% | ~234,636 |
-| Penny Pincher | 49.00% | ~234,636 |
-| Arsenal | 46.00% | ~220,271 |
-| Boot Camp | 45.00% | ~215,482 |
-| Flawless Victory | 42.00% | ~201,117 |
-| Confident | 40.00% | ~191,540 |
-| Exterminator | 36.00% | ~172,386 |
-| Sharpshooter | 33.00% | ~158,020 |
-| Great Ball of Fire | 32.00% | ~153,232 |
-| Not So Fast | 32.00% | ~153,232 |
-| No Sale | 30.00% | ~143,655 |
-| Kaboom! | 29.00% | ~138,866 |
-| Liquidator | 29.00% | ~138,866 |
+| First Blood | 81.00% | ~387,870 |
+| Hey! That's mine! | 78.00% | ~373,505 |
+| Happy Returns | 77.00% | ~368,716 |
+| Field Promotion | 74.00% | ~354,350 |
+| Leadhead | 71.00% | ~339,985 |
+| Eradicator | 67.00% | ~320,831 |
+| Surplus | 65.00% | ~311,254 |
+| I Spy | 64.00% | ~306,465 |
+| Burn Baby Burn | 59.00% | ~282,523 |
+| Yellow Beats Green | 55.00% | ~263,369 |
+| Salvage Rights | 53.00% | ~253,792 |
+| Pew Pew | 50.00% | ~239,426 |
+| What IS that? | 50.00% | ~239,426 |
+| Close Call | 49.00% | ~234,637 |
+| Penny Pincher | 49.00% | ~234,637 |
+| Arsenal | 46.00% | ~220,272 |
+| Boot Camp | 45.00% | ~215,483 |
+| Flawless Victory | 42.00% | ~201,118 |
+| Confident | 40.00% | ~191,541 |
+| Exterminator | 36.00% | ~172,387 |
+| Sharpshooter | 33.00% | ~158,021 |
+| Great Ball of Fire | 32.00% | ~153,233 |
+| Not So Fast | 32.00% | ~153,233 |
+| No Sale | 30.00% | ~143,656 |
+| Kaboom! | 29.00% | ~138,867 |
+| Liquidator | 29.00% | ~138,867 |
 | High Voltage | 24.00% | ~114,924 |
-| Filthy Rich | 19.00% | ~90,981 |
+| Filthy Rich | 19.00% | ~90,982 |
 | The Not-So-Friendly Skies | 18.00% | ~86,193 |
-| Power Builder | 17.00% | ~81,404 |
-| Pyrrhic Victory | 17.00% | ~81,404 |
+| Power Builder | 17.00% | ~81,405 |
+| Pyrrhic Victory | 17.00% | ~81,405 |
 | Death From Above | 16.00% | ~76,616 |
 | Retry | 16.00% | ~76,616 |
 | Head Trauma | 12.00% | ~57,462 |
 | Full Defense | 10.00% | ~47,885 |
-| Overseer | 9.00% | ~43,096 |
+| Overseer | 9.00% | ~43,097 |
 | Annihilator | 8.00% | ~38,308 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,308 |
 | Indecisive | 6.00% | ~28,731 |
-| Base Defender | 5.00% | ~23,942 |
-| Relay Race | 5.00% | ~23,942 |
-| Diversity | 3.00% | ~14,365 |
-| Full Potential | 3.00% | ~14,365 |
-| Tower Expert | 3.00% | ~14,365 |
+| Base Defender | 5.00% | ~23,943 |
+| Relay Race | 5.00% | ~23,943 |
+| Diversity | 3.00% | ~14,366 |
+| Full Potential | 3.00% | ~14,366 |
+| Tower Expert | 3.00% | ~14,366 |
 | Minimalist | 2.00% | ~9,577 |
 | Nail Biter | 2.00% | ~9,577 |
 | Siege Breaker | 2.00% | ~9,577 |
 | The Long Road | 2.00% | ~9,577 |
 | Untouchable | 2.00% | ~9,577 |
-| Flurry | 1.00% | ~4,788 |
-| Well Invested | 1.00% | ~4,788 |
+| Flurry | 1.00% | ~4,789 |
+| Well Invested | 1.00% | ~4,789 |
 | Gun Crazy | 0.90% | ~4,310 |
 | Planet Defender | 0.90% | ~4,310 |
 | Xenocide | 0.90% | ~4,310 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~479 |
 | You Monster | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,849 (Ranked 31)  
+Progressed: 478,852 (Ranked 31)  
 Completed: 4 (0.00%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 4 (0.00%) (Ranked 213)
 | 2023-06-07 | 478,695 | 4 |
 | 2023-06-08 | 478,775 | 4 |
 | 2023-06-09 | 478,849 | 4 |
+| 2023-06-10 | 478,852 | 4 |
 ## Awards
 Max (Great for Beginners): 232  (Ranked 248)  
 Sum: 1,643 (Ranked 203)  
