@@ -8,7 +8,7 @@
 | 6 | [Volley Pals](games/v/volley_pals.md) | 22.22% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
-| 9 | [Island Cities](games/i/island_cities.md) | 16.07% |
+| 9 | [Island Cities](games/i/island_cities.md) | 16.01% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
@@ -26,7 +26,7 @@
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.94% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.91% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.90% |
 | 28 | [Scorn](games/s/scorn.md) | 6.84% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -36,7 +36,7 @@
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.17% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
-| 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.91% |
+| 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.89% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.82% |
@@ -111,8 +111,8 @@
 | 109 | [Haven](games/h/haven.md) | 0.64% |
 | 110 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.62% |
 | 111 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.54% |
-| 113 | [Grindstone](games/g/grindstone.md) | 0.53% |
+| 112 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
+| 112 | [Grindstone](games/g/grindstone.md) | 0.53% |
 | 114 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 115 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
