@@ -62,7 +62,7 @@
 | 60 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,485 | 4.85 | 40 |
 | 61 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,376 | 4.68 | 239 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,158 | 4.75 | 134 |
-| 63 | [Rogue Company](games/r/rogue_company.md) | 5,010 | 4.34 | 737 |
+| 63 | [Rogue Company](games/r/rogue_company.md) | 5,016 | 4.34 | 737 |
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,928 | 4.06 | 889 |
 | 65 | [MultiVersus](games/m/multiversus.md) | 4,741 | 4.56 | 453 |
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,667 | 4.65 | 297 |
@@ -217,12 +217,12 @@
 | 215 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 343 | 4.60 | 386 |
 | 216 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 339 | 4.71 | 179 |
 | 217 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 335 | 4.85 | 40 |
-| 218 | [Inscryption](games/i/inscryption.md) | 332 | 4.86 | 30 |
-| 218 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 332 | 4.76 | 118 |
-| 220 | [Tannenberg](games/t/tannenberg.md) | 326 | 4.39 | 693 |
-| 221 | [Dungeons 3](games/d/dungeons_3.md) | 325 | 4.65 | 297 |
-| 222 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 324 | 3.93 | 914 |
-| 223 | [The Sims™ 4](games/t/the_sims™_4.md) | 323 | 4.61 | 359 |
+| 217 | [The Sims™ 4](games/t/the_sims™_4.md) | 335 | 4.61 | 359 |
+| 219 | [Inscryption](games/i/inscryption.md) | 332 | 4.86 | 30 |
+| 219 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 332 | 4.76 | 118 |
+| 221 | [Tannenberg](games/t/tannenberg.md) | 326 | 4.39 | 693 |
+| 222 | [Dungeons 3](games/d/dungeons_3.md) | 325 | 4.65 | 297 |
+| 223 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 324 | 3.93 | 914 |
 | 224 | [Darkwood](games/d/darkwood.md) | 319 | 4.61 | 359 |
 | 225 | [The Messenger](games/t/the_messenger.md) | 317 | 4.80 | 79 |
 | 226 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 314 | 4.73 | 155 |

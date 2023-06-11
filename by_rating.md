@@ -34,7 +34,7 @@
 | 30 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 38 | 421 |
 | 30 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 694 | 157 |
 | 30 | [GRIT](games/g/grit.md) | 4.86 | 0 | 494 |
-| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 332 | 218 |
+| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 332 | 219 |
 | 30 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 96 | 332 |
 | 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 40 | 415 |
 | 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,265 | 123 |
@@ -132,7 +132,7 @@
 | 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,559 | 38 |
 | 118 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 494 |
 | 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 43 | 410 |
-| 118 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 332 | 218 |
+| 118 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 332 | 219 |
 | 134 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 469 |
 | 134 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,158 | 62 |
 | 134 | [Diabotical](games/d/diabotical.md) | 4.75 | 268 | 238 |
@@ -299,7 +299,7 @@
 | 297 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 494 |
 | 297 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,667 | 66 |
 | 297 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 166 | 281 |
-| 297 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 325 | 221 |
+| 297 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 325 | 222 |
 | 297 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.65 | 0 | 494 |
 | 297 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 494 |
 | 297 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 0 | 494 |
@@ -382,7 +382,7 @@
 | 359 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 271 | 237 |
 | 359 | [Supraland](games/s/supraland.md) | 4.61 | 7,624 | 41 |
 | 359 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 494 |
-| 359 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 323 | 223 |
+| 359 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 335 | 217 |
 | 359 | [Wall World](games/w/wall_world.md) | 4.61 | 0 | 494 |
 | 359 | [Warframe](games/w/warframe.md) | 4.61 | 15,349 | 21 |
 | 386 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,233 | 28 |
@@ -700,7 +700,7 @@
 | 693 | [Othercide](games/o/othercide.md) | 4.39 | 0 | 494 |
 | 693 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 72 | 361 |
 | 693 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 494 |
-| 693 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 326 | 220 |
+| 693 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 326 | 221 |
 | 702 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 0 | 494 |
 | 702 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 494 |
 | 702 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 555 | 176 |
@@ -742,7 +742,7 @@
 | 737 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 494 |
 | 737 | [Paladins](games/p/paladins.md) | 4.34 | 3,286 | 83 |
 | 737 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 494 |
-| 737 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,010 | 63 |
+| 737 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,016 | 63 |
 | 737 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 242 | 245 |
 | 745 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 494 |
 | 745 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 116 | 311 |
@@ -913,7 +913,7 @@
 | 910 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 0 | 494 |
 | 912 | [Chimeraland](games/c/chimeraland.md) | 3.94 | 22 | 476 |
 | 912 | [Patron](games/p/patron.md) | 3.94 | 0 | 494 |
-| 914 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 324 | 222 |
+| 914 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 324 | 223 |
 | 914 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 494 |
 | 916 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 453 |
 | 916 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 494 |

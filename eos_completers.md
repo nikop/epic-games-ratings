@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 50.00% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 47.83% |
 | 2 | [Overloop](games/o/overloop.md) | 25.00% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 25.00% |
 | 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -19,15 +19,15 @@
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.14% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.13% |
 | 21 | [Remains](games/r/remains.md) | 7.89% |
 | 22 | [Time Loader](games/t/time_loader.md) | 7.84% |
 | 23 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 7.69% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.57% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.56% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.90% |
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.83% |
-| 28 | [Scorn](games/s/scorn.md) | 6.79% |
+| 28 | [Scorn](games/s/scorn.md) | 6.78% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -118,8 +118,8 @@
 | 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 116 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 118 | [Potion Permit](games/p/potion_permit.md) | 0.43% |
-| 118 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
-| 120 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
+| 119 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
+| 119 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
 | 121 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 122 | [Tchia](games/t/tchia.md) | 0.36% |
