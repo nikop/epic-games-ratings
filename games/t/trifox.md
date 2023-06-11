@@ -9,21 +9,21 @@
 | Immortal | 55.00% | ~47 |
 | Complete Level 1-2 | 48.00% | ~41 |
 | Scraping by | 35.00% | ~30 |
-| Engineer-mage hybrid | 33.00% | ~28 |
+| Engineer-mage hybrid | 34.00% | ~29 |
 | Complete Level 1-3 | 31.00% | ~27 |
-| Defeat the warrior boss | 23.00% | ~20 |
+| Defeat the warrior boss | 24.00% | ~21 |
 | Get out of my way | 21.00% | ~18 |
 | Redecorator | 20.00% | ~17 |
 | Just a sip | 19.00% | ~16 |
-| Complete Level 2-1 | 16.00% | ~14 |
-| Complete Level 2-2 | 16.00% | ~14 |
-| Versatile | 16.00% | ~14 |
+| Complete Level 2-1 | 17.00% | ~15 |
+| Complete Level 2-2 | 17.00% | ~15 |
+| Versatile | 17.00% | ~15 |
 | Well-off | 13.00% | ~11 |
 | Too many crates | 13.00% | ~11 |
 | Complete Level 2-3 | 13.00% | ~11 |
 | Defeat the engineer boss | 13.00% | ~11 |
 | Complete Level 3-1 | 13.00% | ~11 |
-| Baby steps | 10.00% | ~9 |
+| Baby steps | 12.00% | ~10 |
 | Complete Level 3-2 | 10.00% | ~9 |
 | Engineer-warrior hybrid | 10.00% | ~9 |
 | Should have left me alone | 9.00% | ~8 |

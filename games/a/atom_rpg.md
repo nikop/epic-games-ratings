@@ -6,13 +6,13 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~932 |
-| Wanderer | 35.00% | ~329 |
+| Atom Agent | 99.00% | ~933 |
+| Wanderer | 35.00% | ~330 |
 | One HIT wonder | 34.00% | ~320 |
-| One shot, one kill | 28.00% | ~263 |
+| One shot, one kill | 28.00% | ~264 |
 | Traveler | 24.00% | ~226 |
-| Explorer | 18.00% | ~169 |
-| Head Burst | 18.00% | ~169 |
+| Explorer | 18.00% | ~170 |
+| Head Burst | 18.00% | ~170 |
 | Grave Robber | 17.00% | ~160 |
 | Double agent | 15.00% | ~141 |
 | Paranoia | 15.00% | ~141 |
@@ -22,7 +22,7 @@ Number of Ratings: 54  (23.09.2022)
 | Bustin' nuts | 7.00% | ~66 |
 | Not-so-private Eye | 7.00% | ~66 |
 | Superhuman | 7.00% | ~66 |
-| The Vitinsky Rifle | 6.00% | ~56 |
+| The Vitinsky Rifle | 6.00% | ~57 |
 | Secret room | 5.00% | ~47 |
 | Protection racket | 4.00% | ~38 |
 | Sacrifice | 4.00% | ~38 |
@@ -31,7 +31,7 @@ Number of Ratings: 54  (23.09.2022)
 | Wishmaster | 2.00% | ~19 |
 | Neanderthal | 1.00% | ~9 |
 | It was worth a shot | 1.00% | ~9 |
-| Cosmic Horror | 0.90% | ~8 |
+| Cosmic Horror | 0.80% | ~8 |
 | Ghostbuster | 0.70% | ~7 |
 | Cheeki Breeki | 0.50% | ~5 |
 | Expert | 0.50% | ~5 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 941 (Ranked 181)  
+Progressed: 942 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 926 | 0 |
 | 2023-06-09 | 933 | 0 |
 | 2023-06-10 | 941 | 0 |
+| 2023-06-11 | 942 | 0 |
 ## Awards
 Max (Character Customization): 48  (Ranked 398)  
 Sum: 48 (Ranked 441)  

@@ -221,6 +221,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~181 |
 | Cold & Wet | 0.20% | ~181 |
 | Madcap Adventures | 0.20% | ~181 |
+| Faerûn's Most Neglected | 0.20% | ~113 |
 | Vault of Dragons | 0.20% | ~181 |
 | Champions of Waterdeep | 0.20% | ~181 |
 | Dinosaur Racing | 0.20% | ~181 |
@@ -402,7 +403,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Tallest of Kobolds | 0.10% | ~57 |
 | Patience is Key | 0.10% | ~90 |
 | Faerûn's Most Wanted | 0.10% | ~57 |
-| Faerûn's Most Neglected | 0.10% | ~57 |
 | Vault of Pixies | 0.10% | ~90 |
 | Vault of Poison | 0.10% | ~90 |
 | Vault of Cuteness | 0.10% | ~57 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,388 (Ranked 64)  
-Completed: 1,926 (2.13%) (Ranked 66)  
+Progressed: 90,392 (Ranked 64)  
+Completed: 1,927 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -552,7 +552,7 @@ Completed: 1,926 (2.13%) (Ranked 66)
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
-| 2023-06-11 | 90,388 | 1,926 |
+| 2023-06-11 | 90,392 | 1,927 |
 ## Awards
 Max (Diverse Characters): 4,928  (Ranked 64)  
 Sum: 30,075 (Ranked 37)  

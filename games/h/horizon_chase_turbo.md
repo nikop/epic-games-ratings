@@ -6,19 +6,19 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~865,951 |
-| I Need a Bigger Garage | 62.00% | ~603,247 |
-| Pump my Ride | 46.00% | ~447,570 |
-| Ghostbuster | 32.00% | ~311,353 |
-| Call Roadside Assistance | 17.00% | ~165,406 |
-| That Was Close | 17.00% | ~165,406 |
-| Quickie | 10.00% | ~97,298 |
-| California Dreamer | 7.00% | ~68,109 |
-| Can't Touch This | 5.00% | ~48,649 |
-| Carménère Taster | 3.00% | ~29,189 |
-| Comeback | 3.00% | ~29,189 |
-| Marathonist | 3.00% | ~29,189 |
-| Living Legend | 3.00% | ~29,189 |
+| The First of Many | 89.00% | ~865,985 |
+| I Need a Bigger Garage | 62.00% | ~603,271 |
+| Pump my Ride | 46.00% | ~447,588 |
+| Ghostbuster | 32.00% | ~311,365 |
+| Call Roadside Assistance | 17.00% | ~165,413 |
+| That Was Close | 17.00% | ~165,413 |
+| Quickie | 10.00% | ~97,302 |
+| California Dreamer | 7.00% | ~68,111 |
+| Can't Touch This | 5.00% | ~48,651 |
+| Carménère Taster | 3.00% | ~29,191 |
+| Comeback | 3.00% | ~29,191 |
+| Marathonist | 3.00% | ~29,191 |
+| Living Legend | 3.00% | ~29,191 |
 | Driver from Ipanema | 2.00% | ~19,460 |
 | Pathfinder | 2.00% | ~19,460 |
 | Go-Kart Champion | 2.00% | ~19,460 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~973 |
 | Look Mom, No Hands! | 0.10% | ~973 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 972,979 (Ranked 11)  
+Progressed: 973,017 (Ranked 11)  
 Completed: 300 (0.03%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 300 (0.03%) (Ranked 191)
 | 2023-06-08 | 969,670 | 295 |
 | 2023-06-09 | 971,121 | 298 |
 | 2023-06-10 | 972,660 | 300 |
-| 2023-06-11 | 972,979 | 300 |
+| 2023-06-11 | 973,017 | 300 |
 ## Awards
 Max (Great for Beginners): 142  (Ranked 291)  
 Sum: 1,149 (Ranked 228)  

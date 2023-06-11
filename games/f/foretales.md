@@ -26,8 +26,8 @@
 | The Bad Place | 9.00% | ~24 |
 | Meet your maker | 8.00% | ~21 |
 | Pacifist fanatic | 8.00% | ~21 |
+| A grave matter | 7.00% | ~18 |
 | The Good Place | 7.00% | ~18 |
-| A grave matter | 6.00% | ~16 |
 | The pelican brief | 6.00% | ~16 |
 | Peaceful protest | 6.00% | ~16 |
 | Trial by combat | 6.00% | ~16 |

@@ -6,19 +6,19 @@ Rating: 4.67 (Ranked 257)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eye Scream, You Scream | 83.00% | ~18,946 |
-| Mods Please Ban | 77.00% | ~17,576 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,348 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,663 |
-| First Bounty Down | 59.00% | ~13,467 |
+| Mods Please Ban | 77.00% | ~17,577 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,349 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,664 |
+| First Bounty Down | 59.00% | ~13,468 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,011 |
-| Luglox Genocide | 43.00% | ~9,815 |
+| Luglox Genocide | 43.00% | ~9,816 |
 | Playing Card To Get | 33.00% | ~7,533 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,533 |
 | Creature Feature | 29.00% | ~6,620 |
-| Satisfied Gus-tomer | 28.00% | ~6,391 |
-| Cold-Blooded Driller | 28.00% | ~6,391 |
-| Are You Packin'? | 25.00% | ~5,706 |
-| G3 Graduation | 25.00% | ~5,706 |
+| Satisfied Gus-tomer | 28.00% | ~6,392 |
+| Cold-Blooded Driller | 28.00% | ~6,392 |
+| Are You Packin'? | 25.00% | ~5,707 |
+| G3 Graduation | 25.00% | ~5,707 |
 | RIP Davey Glutes | 24.00% | ~5,478 |
 | Sweezy Like Sunday Morning | 24.00% | ~5,478 |
 | Hardest Battle In The Game | 22.00% | ~5,022 |
@@ -29,7 +29,7 @@ Rating: 4.67 (Ranked 257)
 | Self-Actualization | 19.00% | ~4,337 |
 | Legendary Bounty Hunter | 18.00% | ~4,109 |
 | Seeing All The Sights | 16.00% | ~3,652 |
-| Carried Stan's Load To Completion | 13.00% | ~2,967 |
+| Carried Stan's Load To Completion | 13.00% | ~2,968 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,739 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,054 |
 | Sequel-Bait | 8.00% | ~1,826 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 257)
 | Epic Legendary Prize | 1.00% | ~228 |
 | A Starfish Is Born | 1.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,826 (Ranked 94)  
+Progressed: 22,827 (Ranked 94)  
 Completed: 8 (0.04%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 8 (0.04%) (Ranked 186)
 | 2023-06-08 | 22,810 | 8 |
 | 2023-06-09 | 22,818 | 8 |
 | 2023-06-10 | 22,825 | 8 |
-| 2023-06-11 | 22,826 | 8 |
+| 2023-06-11 | 22,827 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

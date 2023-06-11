@@ -6,30 +6,30 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~404,616 |
-| Haikyo | 80.00% | ~340,730 |
-| Good as New | 72.00% | ~306,657 |
-| Into the Woods | 69.00% | ~293,879 |
-| Hunter in the Forest | 60.00% | ~255,547 |
-| Rot Commander | 60.00% | ~255,547 |
-| Taro's Fear | 56.00% | ~238,511 |
+| Found a Friend | 95.00% | ~404,618 |
+| Haikyo | 80.00% | ~340,731 |
+| Good as New | 72.00% | ~306,658 |
+| Into the Woods | 69.00% | ~293,881 |
+| Hunter in the Forest | 60.00% | ~255,548 |
+| Rot Commander | 60.00% | ~255,548 |
+| Taro's Fear | 56.00% | ~238,512 |
 | Between the Eyes | 46.00% | ~195,920 |
-| Taro's Love | 45.00% | ~191,660 |
-| Taro's Regret | 43.00% | ~183,142 |
-| Spirit Guide | 42.00% | ~178,883 |
+| Taro's Love | 45.00% | ~191,661 |
+| Taro's Regret | 43.00% | ~183,143 |
+| Spirit Guide | 42.00% | ~178,884 |
 | Harness Your Power | 38.00% | ~161,847 |
-| The Open Range | 37.00% | ~157,587 |
-| Adira's Love | 34.00% | ~144,810 |
+| The Open Range | 37.00% | ~157,588 |
+| Adira's Love | 34.00% | ~144,811 |
 | Adira's Fear | 32.00% | ~136,292 |
 | Weigh Them Down | 31.00% | ~132,033 |
 | Adira's Regret | 31.00% | ~132,033 |
 | A Heavy Hammer | 30.00% | ~127,774 |
-| Crossing Over | 29.00% | ~123,514 |
-| Quick Draw | 29.00% | ~123,514 |
-| Toshi's Fear | 27.00% | ~114,996 |
-| Toshi's Love | 27.00% | ~114,996 |
-| Bow Master | 26.00% | ~110,737 |
-| Toshi's Regret | 26.00% | ~110,737 |
+| Crossing Over | 29.00% | ~123,515 |
+| Quick Draw | 29.00% | ~123,515 |
+| Toshi's Fear | 27.00% | ~114,997 |
+| Toshi's Love | 27.00% | ~114,997 |
+| Bow Master | 26.00% | ~110,738 |
+| Toshi's Regret | 26.00% | ~110,738 |
 | Restore Balance | 25.00% | ~106,478 |
 | A Leader Walks Alone | 25.00% | ~106,478 |
 | The Lonely Path | 25.00% | ~106,478 |
@@ -39,16 +39,16 @@ Number of Ratings: 3,313  (23.09.2022)
 | Zen Master | 8.00% | ~34,073 |
 | Curse Collector | 7.00% | ~29,814 |
 | The Last Stop | 7.00% | ~29,814 |
-| Hat Collector | 4.00% | ~17,036 |
-| Restoration Master | 4.00% | ~17,036 |
-| No Stone Unturned | 4.00% | ~17,036 |
+| Hat Collector | 4.00% | ~17,037 |
+| Restoration Master | 4.00% | ~17,037 |
+| No Stone Unturned | 4.00% | ~17,037 |
 | Sharpshooter | 2.00% | ~8,518 |
 | Triple Tap | 1.00% | ~4,259 |
 | Return to Sender | 1.00% | ~4,259 |
 | Triple Threat | 0.90% | ~3,833 |
 | Master Spirit Guide | 0.30% | ~1,278 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,912 (Ranked 36)  
+Progressed: 425,914 (Ranked 36)  
 Completed: 505 (0.12%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 505 (0.12%) (Ranked 162)
 | 2023-06-08 | 425,837 | 505 |
 | 2023-06-09 | 425,858 | 505 |
 | 2023-06-10 | 425,903 | 505 |
-| 2023-06-11 | 425,912 | 505 |
+| 2023-06-11 | 425,914 | 505 |
 ## Awards
 Max (Great Boss Battles): 1,300  (Ranked 121)  
 Sum: 1,672 (Ranked 200)  

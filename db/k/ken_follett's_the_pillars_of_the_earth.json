@@ -6,9 +6,9 @@
   "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 106,
-  "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_Completed": 100,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,10 +489,10 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13147,
+  "EOS_Progressed": 13148,
   "EOS_Completed": 99,
   "EOS_NewPlayers": 191,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
     {
@@ -3864,6 +3864,11 @@
       "Time": "2023-06-11T05:06:54.3585665+00:00",
       "NumProgressed": 13147,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-11T06:06:55.9923289+00:00",
+      "NumProgressed": 13148,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 41,
@@ -3891,7 +3896,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "tpote_achievement_12",
@@ -3987,7 +3992,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "tpote_achievement_23",
@@ -4067,7 +4072,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "tpote_achievement_32",
@@ -4171,7 +4176,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "tpote_achievement_7",
@@ -4187,7 +4192,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2892
+      "UsersEstimate": 2893
     },
     {
       "ID": "tpote_achievement_9",
@@ -4195,22 +4200,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4601
+      "UsersEstimate": 4602
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13147,
+      "Progressed": 13148,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-11T05:06:54.3585659+00:00",
+  "LastChanged_Achievements": "2023-06-11T06:06:55.9923285+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:29.1633629+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:01:02.1283479+00:00",
-  "LastUpdate_Achievements": "2023-06-11T05:06:54.3586283+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:01:09.7390779+00:00",
+  "LastUpdate_Achievements": "2023-06-11T06:06:55.9923827+00:00"
 }

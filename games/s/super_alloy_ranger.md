@@ -10,11 +10,11 @@
 | Freshen Up | 63.00% | ~25 |
 | GG EZ | 55.00% | ~22 |
 | Hydrophobia | 33.00% | ~13 |
+| Stop Right There | 30.00% | ~12 |
 | Ka-Ching! | 28.00% | ~11 |
-| Stop Right There | 28.00% | ~11 |
 | Get to the Point | 23.00% | ~9 |
+| Phew! | 13.00% | ~5 |
 | Toe to Toe | 10.00% | ~4 |
-| Phew! | 10.00% | ~4 |
 | Mr. Want It All | 8.00% | ~3 |
 | The Paradox Coordinate Conqueror | 5.00% | ~2 |
 | Grand Escape | 5.00% | ~2 |

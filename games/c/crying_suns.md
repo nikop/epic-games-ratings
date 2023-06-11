@@ -9,6 +9,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Shutdown | 0.30% | ~1,381 |
 | Second Coming | 0.20% | ~921 |
 | Jeef Skeejj | 0.20% | ~921 |
+| Jeef Skagg | 0.20% | ~921 |
 | Careful planning | 0.20% | ~921 |
 | Knightmare Frames | 0.10% | ~460 |
 | May His passing cleanse the world | 0.10% | ~460 |
@@ -61,7 +62,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~460 |
 | Excelsior Mastery | 0.10% | ~460 |
 | Excelsior Supremacy | 0.10% | ~460 |
-| Jeef Skagg | 0.10% | ~460 |
 | Survivor | 0.10% | ~460 |
 | Plan for the worst | 0.10% | ~460 |
 | The greatest admiral of all time | 0.10% | ~460 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~4 |
 | Kronos Rule | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460,344 (Ranked 34)  
+Progressed: 460,347 (Ranked 34)  
 Completed: 14 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 14 (0.00%) (Ranked 214)
 | 2023-06-08 | 460,148 | 14 |
 | 2023-06-09 | 460,234 | 14 |
 | 2023-06-10 | 460,325 | 14 |
-| 2023-06-11 | 460,344 | 14 |
+| 2023-06-11 | 460,347 | 14 |
 ## Awards
 Max (Character Customization): 210  (Ranked 256)  
 Sum: 210 (Ranked 351)  

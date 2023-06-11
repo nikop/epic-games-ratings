@@ -2,9 +2,9 @@
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
-  "Ranking_EOS_Progress": 141,
+  "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2962,
+  "EOS_Progressed": 2964,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2014,6 +2014,11 @@
       "Time": "2023-06-10T22:05:48.0307064+00:00",
       "NumProgressed": 2962,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-11T06:07:20.804761+00:00",
+      "NumProgressed": 2964,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -2039,9 +2044,9 @@
       "ID": "bonus3",
       "SetID": "2h56gn1",
       "Name": "Your Biggest Fans",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 148
     },
     {
       "ID": "bonus4",
@@ -2049,7 +2054,7 @@
       "Name": "Work It",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "bonus5",
@@ -2073,7 +2078,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2668
     },
     {
       "ID": "campaign10",
@@ -2089,7 +2094,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "campaign12",
@@ -2145,7 +2150,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "campaign19",
@@ -2161,7 +2166,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2371
     },
     {
       "ID": "campaign20",
@@ -2177,15 +2182,15 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1927
     },
     {
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1393
     },
     {
       "ID": "campaign5",
@@ -2193,7 +2198,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "campaign6",
@@ -2201,7 +2206,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "campaign7",
@@ -2209,7 +2214,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "campaign8",
@@ -2233,7 +2238,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "scenario2",
@@ -2241,7 +2246,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "scenario3",
@@ -2265,7 +2270,7 @@
       "Name": "We Have the Technology",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "scenario6",
@@ -2273,7 +2278,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "scenario7",
@@ -2288,7 +2293,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2962,
+      "Progressed": 2964,
       "Completed": 9
     }
   ],
@@ -2296,8 +2301,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-11T05:07:18.6176668+00:00",
+  "LastChanged_Achievements": "2023-06-11T06:07:20.8047607+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:43.3295912+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:01:16.6447335+00:00",
-  "LastUpdate_Achievements": "2023-06-11T05:07:18.6177042+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:01:24.5717528+00:00",
+  "LastUpdate_Achievements": "2023-06-11T06:07:20.804809+00:00"
 }

@@ -418,9 +418,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 8197,
+  "EOS_Progressed": 8198,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4218,6 +4218,11 @@
       "Time": "2023-06-11T05:03:37.2395209+00:00",
       "NumProgressed": 8197,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-06-11T06:03:27.0022466+00:00",
+      "NumProgressed": 8198,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 34,
@@ -4331,9 +4336,9 @@
       "ID": "ACH14",
       "SetID": "9llo822",
       "Name": "Greasy Palms",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3279
     },
     {
       "ID": "ACH15",
@@ -4397,7 +4402,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "ACH23",
@@ -4405,7 +4410,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1886
     },
     {
       "ID": "ACH24",
@@ -4500,7 +4505,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8197,
+      "Progressed": 8198,
       "Completed": 29
     }
   ],
@@ -4508,8 +4513,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-10T11:58:23.7824085+00:00",
-  "LastChanged_Achievements": "2023-06-11T05:03:37.2395203+00:00",
+  "LastChanged_Achievements": "2023-06-11T06:03:27.0022461+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-11T04:58:49.6495686+00:00",
-  "LastUpdate_Achievements": "2023-06-11T05:03:37.2396022+00:00"
+  "LastUpdate_Ratings": "2023-06-11T05:58:55.6065618+00:00",
+  "LastUpdate_Achievements": "2023-06-11T06:03:27.0022909+00:00"
 }

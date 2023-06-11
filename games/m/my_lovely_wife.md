@@ -10,9 +10,9 @@ Number of Ratings: 25  (23.09.2022)
 | I did it! | 94.00% | ~542 |
 | Learner | 91.00% | ~525 |
 | Economical | 91.00% | ~525 |
-| Devout | 88.00% | ~508 |
+| Devout | 89.00% | ~514 |
 | The Love Martyr | 87.00% | ~502 |
-| Frugal | 84.00% | ~485 |
+| Frugal | 85.00% | ~490 |
 | Dilligent | 82.00% | ~473 |
 | I... I did it? | 80.00% | ~462 |
 | Adored | 75.00% | ~433 |

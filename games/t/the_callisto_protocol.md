@@ -36,8 +36,8 @@ Rating: 4.18 (Ranked 842)
 | Parole Denied | 1.00% | ~29 |
 | Hoard Mode | 1.00% | ~29 |
 | Grim Reaper | 0.80% | ~120 |
-| Recidivist | 0.70% | ~20 |
-| Lifer | 0.70% | ~20 |
+| Recidivist | 0.70% | ~21 |
+| Lifer | 0.70% | ~21 |
 | Armed to the Teeth | 0.20% | ~6 |
 | The Protocol is About Life | 0.20% | ~30 |
 | It's over, Jacob! | 0.10% | ~15 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 842)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,001 (Ranked 104)  
+Progressed: 15,003 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 54 (0.36%) (Ranked 122)
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
 | 2023-06-10 | 14,984 | 54 |
-| 2023-06-11 | 15,001 | 54 |
+| 2023-06-11 | 15,003 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
 Sum: 303 (Ranked 328)  

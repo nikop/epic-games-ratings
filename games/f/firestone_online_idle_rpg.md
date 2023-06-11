@@ -5,18 +5,18 @@ Rating: 4.05 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,281 |
-| World Map | 80.00% | ~1,090 |
+| Victor | 94.00% | ~1,282 |
+| World Map | 80.00% | ~1,091 |
 | Temple of Eternals | 57.00% | ~777 |
-| Prestigious | 53.00% | ~722 |
-| Fellowship Power | 40.00% | ~545 |
+| Prestigious | 53.00% | ~723 |
+| Fellowship Power | 41.00% | ~559 |
 | Guild Power | 24.00% | ~327 |
 | Prestigious x10 | 21.00% | ~286 |
-| The game is on | 18.00% | ~245 |
+| The game is on | 18.00% | ~246 |
 | Exotic Merchant | 17.00% | ~232 |
 | Dragon Clicker | 16.00% | ~218 |
 | Miner Clicker | 16.00% | ~218 |
-| Inspection | 15.00% | ~204 |
+| Inspection | 15.00% | ~205 |
 | Full Party | 14.00% | ~191 |
 | Dragon Master | 13.00% | ~177 |
 | Enlightenment | 13.00% | ~177 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 890)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,363 (Ranked 163)  
+Progressed: 1,364 (Ranked 163)  
 Completed: 1 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 1 (0.07%) (Ranked 177)
 | 2023-06-08 | 1,341 | 1 |
 | 2023-06-09 | 1,349 | 1 |
 | 2023-06-10 | 1,360 | 1 |
-| 2023-06-11 | 1,363 | 1 |
+| 2023-06-11 | 1,364 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

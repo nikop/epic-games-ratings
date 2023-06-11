@@ -3,9 +3,9 @@
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 32,
+  "Ranking_EOS_Completed": 31,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 194,
-  "EOS_Completed": 10,
+  "EOS_Completed": 11,
   "EOS_NewPlayers": 9,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.15,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 5.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:26.5588507+00:00",
@@ -258,6 +258,11 @@
       "Time": "2023-06-11T02:36:41.935373+00:00",
       "NumProgressed": 194,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-11T06:07:07.862145+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 27,
@@ -299,9 +304,9 @@
       "ID": "20_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 20",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "25_Coins",
@@ -315,9 +320,9 @@
       "ID": "30_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 30",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Apple_eaten_in_002",
@@ -485,15 +490,15 @@
       "ID": "6od1ndi",
       "IsBase": true,
       "Progressed": 194,
-      "Completed": 10
+      "Completed": 11
     }
   ],
   "FirstSeen": "2022-12-16T21:58:34.8167877+00:00",
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-11T05:07:06.3033573+00:00",
+  "LastChanged_Achievements": "2023-06-11T06:07:07.8621446+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:20.7292438+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:00:53.2671942+00:00",
-  "LastUpdate_Achievements": "2023-06-11T05:07:06.303394+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:01:00.8179913+00:00",
+  "LastUpdate_Achievements": "2023-06-11T06:07:07.8621777+00:00"
 }

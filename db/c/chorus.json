@@ -1086,9 +1086,9 @@
       "ID": "MissionScavengingJob",
       "SetID": "a6c395p",
       "Name": "Another Life",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 812
     },
     {
       "ID": "MissionShipyard",
@@ -1214,8 +1214,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-06-11T05:07:22.1326238+00:00",
+  "LastChanged_Achievements": "2023-06-11T06:07:24.4744726+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:30.4477649+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:01:02.7712027+00:00",
-  "LastUpdate_Achievements": "2023-06-11T05:07:22.1327129+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:01:10.3403221+00:00",
+  "LastUpdate_Achievements": "2023-06-11T06:07:24.4745065+00:00"
 }

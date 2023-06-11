@@ -14,9 +14,9 @@
 | The Thrower | 47.00% | ~47 |
 | The Penguin | 46.00% | ~46 |
 | The Magician | 44.00% | ~44 |
+| The Shield | 39.00% | ~39 |
 | The Tunneler | 39.00% | ~39 |
 | Level Up!! | 38.00% | ~38 |
-| The Shield | 38.00% | ~38 |
 | Kill-streak | 36.00% | ~36 |
 | The Bird | 29.00% | ~29 |
 | Inferno Ruins | 27.00% | ~27 |
@@ -26,30 +26,30 @@
 | I'm Rich | 24.00% | ~24 |
 | Untouchable | 23.00% | ~23 |
 | The Slime | 21.00% | ~21 |
-| 1 is all I need | 19.00% | ~19 |
+| 1 is all I need | 20.00% | ~20 |
 | The Giant | 19.00% | ~19 |
 | The Flower | 17.00% | ~17 |
+| Out of the Frying Pan... | 17.00% | ~17 |
 | The Blacksmith | 16.00% | ~16 |
-| Out of the Frying Pan... | 16.00% | ~16 |
 | The Ooze | 15.00% | ~15 |
+| The Assistant | 14.00% | ~14 |
+| Ember | 14.00% | ~14 |
 | Turquoise | 14.00% | ~14 |
-| The Assistant | 13.00% | ~13 |
-| Ember | 13.00% | ~13 |
-| The Steampunk | 11.00% | ~11 |
+| The Steampunk | 12.00% | ~12 |
+| The Droid | 11.00% | ~11 |
 | Verse | 11.00% | ~11 |
-| The Droid | 10.00% | ~10 |
-| Iron | 9.00% | ~9 |
-| Tested | 9.00% | ~9 |
+| Iron | 10.00% | ~10 |
+| Tested | 10.00% | ~10 |
 | The Bomber | 8.00% | ~8 |
-| The Astronaut | 5.00% | ~5 |
+| The Astronaut | 6.00% | ~6 |
+| Anvil | 5.00% | ~5 |
+| Power Overwhelming | 4.00% | ~4 |
 | The Exorcist | 4.00% | ~4 |
 | Analyzed | 4.00% | ~4 |
 | Highway to Hell | 4.00% | ~4 |
-| Anvil | 4.00% | ~4 |
+| Aluminum | 4.00% | ~4 |
 | Combo Master | 3.00% | ~3 |
-| Power Overwhelming | 3.00% | ~3 |
 | Mithril | 3.00% | ~3 |
-| Aluminum | 3.00% | ~3 |
 | It's a Trap! | 2.00% | ~2 |
 | TNT | 2.00% | ~2 |
 | Tongs | 2.00% | ~2 |

@@ -295,9 +295,9 @@
       "ID": "Achievement_AcrossTheStars",
       "SetID": "c01p6e5",
       "Name": "Across The Stars",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 295
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -607,9 +607,9 @@
       "ID": "Achievement_StayCool",
       "SetID": "c01p6e5",
       "Name": "Stay Cool",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 176
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -648,8 +648,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-06-11T05:03:48.0681911+00:00",
+  "LastChanged_Achievements": "2023-06-11T06:03:37.8563116+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:13.4644914+00:00",
-  "LastUpdate_Ratings": "2023-06-11T04:59:37.4101678+00:00",
-  "LastUpdate_Achievements": "2023-06-11T05:03:48.0682309+00:00"
+  "LastUpdate_Ratings": "2023-06-11T05:59:41.763445+00:00",
+  "LastUpdate_Achievements": "2023-06-11T06:03:37.8563394+00:00"
 }

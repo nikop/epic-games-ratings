@@ -5,7 +5,7 @@ Rating: 3.85 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bundle of Joy | 50.00% | ~224 |
+| Bundle of Joy | 50.00% | ~225 |
 | A Friend in Need... | 45.00% | ~202 |
 | Bosom Buddies | 30.00% | ~135 |
 | Beat the Heat | 24.00% | ~108 |
@@ -17,7 +17,7 @@ Rating: 3.85 (Ranked 923)
 | U Mad Bro? | 12.00% | ~54 |
 | A Trip to Remember | 12.00% | ~54 |
 | Does Not Compute | 12.00% | ~54 |
-| Short Circuit | 11.00% | ~49 |
+| Short Circuit | 11.00% | ~50 |
 | A Stealthy Outlook | 8.00% | ~36 |
 | Catch You Later | 6.00% | ~27 |
 | Between the Covers | 5.00% | ~22 |
@@ -26,8 +26,8 @@ Rating: 3.85 (Ranked 923)
 | Everything Must Go! | 4.00% | ~18 |
 | You Had One Job... | 4.00% | ~18 |
 | Smart cookie | 4.00% | ~18 |
-| Paparazzi | 3.00% | ~13 |
-| Life of the Party | 3.00% | ~13 |
+| Paparazzi | 3.00% | ~14 |
+| Life of the Party | 3.00% | ~14 |
 | The Butterfly Effect | 2.00% | ~9 |
 | Echoes of the Past | 2.00% | ~9 |
 | Casual Gamer | 2.00% | ~9 |
@@ -35,7 +35,7 @@ Rating: 3.85 (Ranked 923)
 | Marvellous Toys | 2.00% | ~9 |
 | Hardcore Gamer | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449 (Ranked 203)  
+Progressed: 450 (Ranked 203)  
 Completed: 5 (1.11%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 5 (1.11%) (Ranked 87)
 | 2023-06-08 | 445 | 5 |
 | 2023-06-09 | 446 | 5 |
 | 2023-06-10 | 449 | 5 |
+| 2023-06-11 | 450 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

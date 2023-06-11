@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -314,6 +314,11 @@
       "Time": "2023-06-10T20:06:23.4508267+00:00",
       "NumProgressed": 449,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-11T06:07:19.3112799+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -413,7 +418,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Hitman",
@@ -421,7 +426,7 @@
       "Name": "Short Circuit",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Illustrator",
@@ -509,7 +514,7 @@
       "Name": "Paparazzi",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Park",
@@ -525,7 +530,7 @@
       "Name": "Life of the Party",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Smart cookie",
@@ -556,7 +561,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 5
     }
   ],
@@ -564,8 +569,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-06-11T05:07:17.234288+00:00",
+  "LastChanged_Achievements": "2023-06-11T06:07:19.3112796+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:06.3393279+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:01:41.7385425+00:00",
-  "LastUpdate_Achievements": "2023-06-11T05:07:17.2343125+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:01:49.7414298+00:00",
+  "LastUpdate_Achievements": "2023-06-11T06:07:19.311315+00:00"
 }

@@ -11,12 +11,12 @@
 | Tinkerer | 64.00% | ~402 |
 | Space Engineer | 62.00% | ~389 |
 | Dust to Dust | 57.00% | ~358 |
-| Across The Stars | 46.00% | ~289 |
+| Across The Stars | 47.00% | ~295 |
 | Crafty | 45.00% | ~283 |
 | All Seats Taken | 36.00% | ~226 |
 | For Science! | 32.00% | ~201 |
 | Meet the Petersons | 31.00% | ~195 |
-| Stay Cool | 27.00% | ~170 |
+| Stay Cool | 28.00% | ~176 |
 | KIA | 25.00% | ~157 |
 | Mutiny in making | 22.00% | ~138 |
 | Et tu, Astrocitizen? | 19.00% | ~119 |

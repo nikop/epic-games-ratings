@@ -768,10 +768,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 760,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2023-06-11T05:59:46.6382039+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 761,
+      "NumberOfAwardsMax": 115
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 760,
+  "NumberOfAwards": 761,
   "NumberOfAwardsMax": 115,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -803,7 +809,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -842,7 +848,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7746,
+  "EOS_Progressed": 7747,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 1,
@@ -2672,6 +2678,11 @@
       "Time": "2023-06-11T05:06:52.4312265+00:00",
       "NumProgressed": 7746,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-11T06:06:54.162534+00:00",
+      "NumProgressed": 7747,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -2715,7 +2726,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "DwarfChandelier",
@@ -2747,7 +2758,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -2771,7 +2782,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "LeoniasFall",
@@ -2779,7 +2790,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "LeoniasFall_2",
@@ -2819,7 +2830,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "SkeletonKing",
@@ -2835,7 +2846,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "TheLegendBegins",
@@ -2843,7 +2854,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7204
+      "UsersEstimate": 7205
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2867,22 +2878,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6429
+      "UsersEstimate": 6430
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7746,
+      "Progressed": 7747,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
-  "LastChanged_Achievements": "2023-06-11T05:06:52.4312256+00:00",
+  "LastChanged": "2023-06-11T05:59:46.6382038+00:00",
+  "LastChanged_Achievements": "2023-06-11T06:06:54.1625334+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.8794336+00:00",
-  "LastUpdate_Ratings": "2023-06-11T04:59:42.4526786+00:00",
-  "LastUpdate_Achievements": "2023-06-11T05:06:52.4312556+00:00"
+  "LastUpdate_Ratings": "2023-06-11T05:59:46.6382043+00:00",
+  "LastUpdate_Achievements": "2023-06-11T06:06:54.1625606+00:00"
 }
