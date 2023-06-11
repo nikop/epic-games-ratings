@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.36 (Ranked 720)  
+Rating: 4.36 (Ranked 719)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,7 +24,7 @@ Rating: 4.36 (Ranked 720)
 | Bridge Builder | 38.00% | ~416 |
 | Access granted | 34.00% | ~372 |
 | Stoker | 33.00% | ~361 |
-| Going once, going twice, sold | 30.00% | ~328 |
+| Going once, going twice, sold | 31.00% | ~339 |
 | Full Steam ahead | 29.00% | ~317 |
 | Bull and bear | 28.00% | ~306 |
 | Mole | 26.00% | ~284 |
@@ -46,7 +46,7 @@ Rating: 4.36 (Ranked 720)
 | Max Power | 9.00% | ~98 |
 | Settler | 9.00% | ~98 |
 | Go West | 8.00% | ~88 |
-| Bold and beautiful | 7.00% | ~77 |
+| Bold and beautiful | 8.00% | ~88 |
 | Tycoon | 6.00% | ~66 |
 | A new Hope | 5.00% | ~55 |
 | Unstoppable | 3.00% | ~33 |

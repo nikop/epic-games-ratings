@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74338,
+  "EOS_Progressed": 74342,
   "EOS_Completed": 338,
-  "EOS_NewPlayers": 981,
+  "EOS_NewPlayers": 980,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5753,6 +5753,11 @@
       "Time": "2023-06-11T06:07:03.8374972+00:00",
       "NumProgressed": 74338,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2023-06-11T07:05:54.0835399+00:00",
+      "NumProgressed": 74342,
+      "NumCompleted": 338
     }
   ],
   "TotalAchievements": 10,
@@ -5828,7 +5833,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 26762
+      "UsersEstimate": 26763
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -5836,22 +5841,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8177
+      "UsersEstimate": 8178
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 74338,
+      "Progressed": 74342,
       "Completed": 338
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-06-11T06:07:03.8374969+00:00",
+  "LastChanged_Achievements": "2023-06-11T07:05:54.0835392+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.9895341+00:00",
-  "LastUpdate_Ratings": "2023-06-11T06:01:41.0784466+00:00",
-  "LastUpdate_Achievements": "2023-06-11T06:07:03.8375651+00:00"
+  "LastUpdate_Ratings": "2023-06-11T07:00:32.6780638+00:00",
+  "LastUpdate_Achievements": "2023-06-11T07:05:54.0835758+00:00"
 }

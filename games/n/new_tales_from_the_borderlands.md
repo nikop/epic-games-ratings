@@ -20,7 +20,7 @@ Rating: 4.09 (Ranked 880)
 | You Got the Goods, Kid | 20.00% | ~685 |
 | The Shardmenstration | 19.00% | ~650 |
 | Those Were the Days... | 19.00% | ~650 |
-| ...To Heroes | 17.00% | ~582 |
+| ...To Heroes | 18.00% | ~616 |
 | Mas, Por Favor | 17.00% | ~582 |
 | And Still Champion... | 14.00% | ~479 |
 | Super Trusting Friend! | 9.00% | ~308 |

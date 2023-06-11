@@ -10,12 +10,12 @@
 | Travel Streamer | 87.00% | ~13 |
 | Fashion Connoisseur | 87.00% | ~13 |
 | Storm Traveller | 87.00% | ~13 |
+| Arms Mechanic | 80.00% | ~12 |
 | Beginner Artificer | 80.00% | ~12 |
-| Arms Mechanic | 73.00% | ~11 |
-| Flower Thief | 73.00% | ~11 |
-| Apostle of Flame | 67.00% | ~10 |
+| Flower Thief | 80.00% | ~12 |
+| Apostle of Flame | 73.00% | ~11 |
+| Beginner Cook | 67.00% | ~10 |
 | Giant Lizard Killer | 60.00% | ~9 |
-| Beginner Cook | 60.00% | ~9 |
 | Weapon Boost | 60.00% | ~9 |
 | Seal Breaker | 60.00% | ~9 |
 | Handyman | 60.00% | ~9 |

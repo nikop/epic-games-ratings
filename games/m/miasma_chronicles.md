@@ -23,13 +23,13 @@ Rating: 4.29 (Ranked 771)
 | Technophobe | 30.00% | ~327 |
 | Recycler | 28.00% | ~305 |
 | Are you not entertained? | 24.00% | ~261 |
+| Jarhead | 24.00% | ~261 |
 | Ganglord | 23.00% | ~250 |
-| Jarhead | 23.00% | ~250 |
 | Infiltrator | 22.00% | ~240 |
 | Pushing Daisy | 22.00% | ~240 |
 | Chain Killer | 20.00% | ~218 |
+| Experienced | 20.00% | ~218 |
 | There Can Be Only One! | 20.00% | ~218 |
-| Experienced | 19.00% | ~207 |
 | Hold The Line | 18.00% | ~196 |
 | Endgame | 17.00% | ~185 |
 | Savior | 16.00% | ~174 |

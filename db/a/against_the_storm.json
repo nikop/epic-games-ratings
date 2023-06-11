@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2348,9 +2348,9 @@
       "Count": 305
     }
   ],
-  "EOS_Progressed": 15268,
+  "EOS_Progressed": 15269,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -5173,6 +5173,11 @@
       "Time": "2023-06-11T06:07:25.3269547+00:00",
       "NumProgressed": 15268,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-11T07:06:12.7421128+00:00",
+      "NumProgressed": 15269,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 50,
@@ -5510,9 +5515,9 @@
       "ID": "WinWithBlight",
       "SetID": "cfbk359",
       "Name": "Blood Flower Farmer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 76
     },
     {
       "ID": "WinWithEvents",
@@ -5583,15 +5588,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15268,
+      "Progressed": 15269,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-10T14:00:37.9490058+00:00",
-  "LastChanged_Achievements": "2023-06-11T06:07:25.326954+00:00",
+  "LastChanged_Achievements": "2023-06-11T07:06:12.7421121+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:27.9901974+00:00",
-  "LastUpdate_Ratings": "2023-06-11T06:01:08.0743292+00:00",
-  "LastUpdate_Achievements": "2023-06-11T06:07:25.3270306+00:00"
+  "LastUpdate_Ratings": "2023-06-11T07:00:04.850197+00:00",
+  "LastUpdate_Achievements": "2023-06-11T07:06:12.742172+00:00"
 }

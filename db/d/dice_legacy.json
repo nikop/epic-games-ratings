@@ -939,9 +939,9 @@
       "ID": "EXILED_SOLDIER_FRIEND",
       "SetID": "6ohhfoc",
       "Name": "The Unruly Ones",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 17
     },
     {
       "ID": "FIND_ATTACKS_SOURCE",
@@ -1132,8 +1132,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-06-11T06:07:04.3736825+00:00",
+  "LastChanged_Achievements": "2023-06-11T07:05:54.508115+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:52.9650429+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:58:14.8741573+00:00",
-  "LastUpdate_Achievements": "2023-06-11T06:07:04.3737164+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:57:44.9427373+00:00",
+  "LastUpdate_Achievements": "2023-06-11T07:05:54.5081522+00:00"
 }

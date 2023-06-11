@@ -6,13 +6,13 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,008 |
-| Landlord | 30.00% | ~15,840 |
-| Bannerlord | 21.00% | ~11,088 |
-| Horde breaker | 21.00% | ~11,088 |
-| Lawmaker | 21.00% | ~11,088 |
-| Trained | 20.00% | ~10,560 |
-| The king is pleased | 17.00% | ~8,976 |
+| Lawbringer | 36.00% | ~19,009 |
+| Landlord | 30.00% | ~15,841 |
+| Bannerlord | 21.00% | ~11,089 |
+| Horde breaker | 21.00% | ~11,089 |
+| Lawmaker | 21.00% | ~11,089 |
+| Trained | 20.00% | ~10,561 |
+| The king is pleased | 17.00% | ~8,977 |
 | King Solomon | 16.00% | ~8,448 |
 | Apple of my eye | 14.00% | ~7,392 |
 | I can do it | 14.00% | ~7,392 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,799 (Ranked 79)  
+Progressed: 52,803 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 52,544 | 0 |
 | 2023-06-09 | 52,654 | 0 |
 | 2023-06-10 | 52,776 | 0 |
-| 2023-06-11 | 52,799 | 0 |
+| 2023-06-11 | 52,803 | 0 |
 ## Awards
 Max (Character Customization): 6,654  (Ranked 49)  
 Sum: 13,363 (Ranked 67)  

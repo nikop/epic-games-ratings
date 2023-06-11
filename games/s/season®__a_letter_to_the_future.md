@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Leaver | 83.00% | ~835 |
-| Journal Beautifier | 83.00% | ~835 |
+| Home Leaver | 83.00% | ~836 |
+| Journal Beautifier | 83.00% | ~836 |
 | Outside World Seer | 64.00% | ~644 |
-| Stranger Encounterer | 37.00% | ~372 |
+| Stranger Encounterer | 37.00% | ~373 |
 | Grey Hands Praxis 101 | 29.00% | ~292 |
 | Deep Listener | 27.00% | ~272 |
 | Music for Cows | 19.00% | ~191 |
@@ -19,10 +19,10 @@
 | Shrine Arriver | 12.00% | ~121 |
 | The End | 11.00% | ~111 |
 | Love Uncoverer | 9.00% | ~91 |
-| Graffiti Artist | 8.00% | ~80 |
+| Graffiti Artist | 8.00% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,006 (Ranked 177)  
-Completed: 38 (3.78%) (Ranked 40)  
+Progressed: 1,007 (Ranked 177)  
+Completed: 38 (3.77%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,7 +68,7 @@ Completed: 38 (3.78%) (Ranked 40)
 | 2023-06-08 | 984 | 37 |
 | 2023-06-09 | 995 | 37 |
 | 2023-06-10 | 1,004 | 38 |
-| 2023-06-11 | 1,006 | 38 |
+| 2023-06-11 | 1,007 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

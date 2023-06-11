@@ -27,8 +27,8 @@ Rating: 4.64 (Ranked 313)
 | Dr. No Kill | 23.00% | ~1,549 |
 | In It to Win It | 22.00% | ~1,481 |
 | Security Supervisor | 10.00% | ~673 |
+| Social of Solace | 9.00% | ~606 |
 | License to Thrill | 8.00% | ~539 |
-| Social of Solace | 8.00% | ~539 |
 | Safe Withdrawal | 6.00% | ~404 |
 | Live and let lie | 5.00% | ~337 |
 | Call Me Maybe | 5.00% | ~337 |

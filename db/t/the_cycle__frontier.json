@@ -4,7 +4,7 @@
   "ProductSlug": "thecycle",
   "Ranking_Rating": 875,
   "Ranking_Popularity": 96,
-  "Ranking_PopularitySum": 68,
+  "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 326,
@@ -5144,10 +5144,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 13359,
       "NumberOfAwardsMax": 2372
+    },
+    {
+      "Time": "2023-06-11T06:58:20.1888268+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 13363,
+      "NumberOfAwardsMax": 2372
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13359,
+  "NumberOfAwards": 13363,
   "NumberOfAwardsMax": 2372,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -5179,7 +5185,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2357
+      "Count": 2361
     },
     {
       "Text": "This game has a Competitive Community",
@@ -5205,8 +5211,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-06-10T16:58:27.3401809+00:00",
+  "LastChanged": "2023-06-11T06:58:20.1888267+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.2143027+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:58:57.7865532+00:00",
-  "LastUpdate_Achievements": "2023-06-11T06:03:49.1882843+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:58:20.1888274+00:00",
+  "LastUpdate_Achievements": "2023-06-11T07:03:10.7803851+00:00"
 }

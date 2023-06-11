@@ -4450,10 +4450,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10507,
       "NumberOfAwardsMax": 6159
+    },
+    {
+      "Time": "2023-06-11T06:59:06.3786618+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10510,
+      "NumberOfAwardsMax": 6159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10507,
+  "NumberOfAwards": 10510,
   "NumberOfAwardsMax": 6159,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4491,7 +4497,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 526
+      "Count": 527
     },
     {
       "Text": "This game is Relaxing",
@@ -4521,7 +4527,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 486
+      "Count": 488
     },
     {
       "Text": "This game has a Creative Community",
@@ -4530,9 +4536,9 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 708655,
+  "EOS_Progressed": 708666,
   "EOS_Completed": 12765,
-  "EOS_NewPlayers": 1402,
+  "EOS_NewPlayers": 1404,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9375,6 +9381,11 @@
       "Time": "2023-06-11T06:07:24.1496628+00:00",
       "NumProgressed": 708655,
       "NumCompleted": 12765
+    },
+    {
+      "Time": "2023-06-11T07:06:11.7712112+00:00",
+      "NumProgressed": 708666,
+      "NumCompleted": 12765
     }
   ],
   "TotalAchievements": 50,
@@ -9730,7 +9741,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9785,21 +9796,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17956,
-      "Completed": 10254
+      "Progressed": 17967,
+      "Completed": 10255
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708655,
+      "Progressed": 708666,
       "Completed": 12765
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-10T18:59:36.8307469+00:00",
-  "LastChanged_Achievements": "2023-06-11T06:07:24.1496623+00:00",
+  "LastChanged": "2023-06-11T06:59:06.3786615+00:00",
+  "LastChanged_Achievements": "2023-06-11T07:06:11.77121+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:59:52.5774771+00:00",
-  "LastUpdate_Achievements": "2023-06-11T06:07:24.1497428+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:59:06.3786625+00:00",
+  "LastUpdate_Achievements": "2023-06-11T07:06:11.7713538+00:00"
 }

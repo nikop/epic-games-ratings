@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224382,
+  "EOS_Progressed": 224383,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5468,6 +5468,11 @@
       "Time": "2023-06-11T06:06:52.2732513+00:00",
       "NumProgressed": 224382,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-11T07:05:44.2272087+00:00",
+      "NumProgressed": 224383,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -5567,7 +5572,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44876
+      "UsersEstimate": 44877
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -5615,7 +5620,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71802
+      "UsersEstimate": 71803
     },
     {
       "ID": "NOBUNAGA",
@@ -5750,15 +5755,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 224382,
+      "Progressed": 224383,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-11T06:06:52.273251+00:00",
+  "LastChanged_Achievements": "2023-06-11T07:05:44.2272082+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.7588472+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:58:56.5333542+00:00",
-  "LastUpdate_Achievements": "2023-06-11T06:06:52.2733018+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:58:19.0680782+00:00",
+  "LastUpdate_Achievements": "2023-06-11T07:05:44.2272601+00:00"
 }

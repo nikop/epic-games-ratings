@@ -206,9 +206,9 @@
       "ID": "A_Fix_10_Systems",
       "SetID": "56632p4",
       "Name": "Expert Mechanic",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "A_Fix_1_System",
@@ -230,9 +230,9 @@
       "ID": "A_Hire_Crew",
       "SetID": "56632p4",
       "Name": "You\u0027re Hired!",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "A_Kill_Cookie_Cutter",
@@ -335,8 +335,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-06-11T06:03:20.5909863+00:00",
+  "LastChanged_Achievements": "2023-06-11T07:02:26.8645591+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.0529187+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:59:45.7309735+00:00",
-  "LastUpdate_Achievements": "2023-06-11T06:03:20.5910012+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:59:01.0118053+00:00",
+  "LastUpdate_Achievements": "2023-06-11T07:02:26.8645735+00:00"
 }

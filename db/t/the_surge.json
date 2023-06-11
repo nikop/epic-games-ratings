@@ -2,7 +2,7 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 604,
+  "Ranking_Rating": 603,
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 130,
@@ -319,9 +319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4392,
+  "EOS_Progressed": 4394,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1204,6 +1204,11 @@
       "Time": "2023-06-11T06:03:03.9855328+00:00",
       "NumProgressed": 4392,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-11T07:02:12.720498+00:00",
+      "NumProgressed": 4394,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -1215,7 +1220,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1223,7 +1228,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -1263,7 +1268,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3689
+      "UsersEstimate": 3691
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1271,7 +1276,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4128
+      "UsersEstimate": 4130
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1279,7 +1284,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3382
+      "UsersEstimate": 3383
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1287,7 +1292,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -1351,7 +1356,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -1359,7 +1364,7 @@
       "Name": "Melting Down",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -1407,7 +1412,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -1431,7 +1436,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3338
+      "UsersEstimate": 3339
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1439,7 +1444,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -1463,7 +1468,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1487,7 +1492,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -1495,7 +1500,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -1551,7 +1556,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -1559,7 +1564,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -1591,7 +1596,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -1631,7 +1636,7 @@
       "Name": "No More Marching",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -1663,7 +1668,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -1743,22 +1748,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4392,
+      "Progressed": 4394,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-01T02:42:30.658632+00:00",
-  "LastChanged_Achievements": "2023-06-11T06:03:03.9855317+00:00",
+  "LastChanged_Achievements": "2023-06-11T07:02:12.7204975+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:11.7913925+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:58:36.3915637+00:00",
-  "LastUpdate_Achievements": "2023-06-11T06:03:03.9855976+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:58:01.8187858+00:00",
+  "LastUpdate_Achievements": "2023-06-11T07:02:12.7205732+00:00"
 }

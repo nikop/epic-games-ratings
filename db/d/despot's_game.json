@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 396,
+  "EOS_Progressed": 397,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -265,6 +265,11 @@
       "Time": "2023-06-09T20:06:15.8867811+00:00",
       "NumProgressed": 396,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T07:06:01.3853515+00:00",
+      "NumProgressed": 397,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -324,7 +329,7 @@
       "Name": "No Mercy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "different-items1",
@@ -332,7 +337,7 @@
       "Name": "Party",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "different-items2",
@@ -356,7 +361,7 @@
       "Name": "Impossible Cube",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "finished-quest-flight",
@@ -396,15 +401,15 @@
       "Name": "The Return of a Rat",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 103
     },
     {
       "ID": "finished-quest-sci",
@@ -412,7 +417,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "finished-quest-secret",
@@ -428,7 +433,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "get-all",
@@ -492,7 +497,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "win-first-level",
@@ -532,7 +537,7 @@
       "Name": "Through the Darkness",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "win-with-3-cultists",
@@ -555,7 +560,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 396,
+      "Progressed": 397,
       "Completed": 1
     }
   ],
@@ -563,8 +568,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-11T06:07:11.9060243+00:00",
+  "LastChanged_Achievements": "2023-06-11T07:06:01.3853511+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:01.3809708+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:59:28.9791932+00:00",
-  "LastUpdate_Achievements": "2023-06-11T06:07:11.9060471+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:58:47.7826509+00:00",
+  "LastUpdate_Achievements": "2023-06-11T07:06:01.3853897+00:00"
 }

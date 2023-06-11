@@ -15,7 +15,7 @@ Number of Ratings: 98  (23.09.2022)
 | Gabriele D'Annunzio | 32.00% | ~1,972 |
 | Silver Lining | 28.00% | ~1,725 |
 | Aurelio Baruzzi | 22.00% | ~1,356 |
-| Veni Vidi Vici | 21.00% | ~1,294 |
+| Veni Vidi Vici | 22.00% | ~1,356 |
 | Decimation | 20.00% | ~1,232 |
 | Donatello | 20.00% | ~1,232 |
 | Insubordination | 19.00% | ~1,171 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -582,9 +582,9 @@
       "ID": "FINISH_EPISODE_5",
       "SetID": "kakdpn",
       "Name": "...To Heroes",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 582
+      "UsersEstimate": 616
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -719,8 +719,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-11T06:07:08.4640457+00:00",
+  "LastChanged_Achievements": "2023-06-11T07:05:58.2196719+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:53.8421349+00:00",
-  "LastUpdate_Ratings": "2023-06-11T06:00:29.7565465+00:00",
-  "LastUpdate_Achievements": "2023-06-11T06:07:08.4640829+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:59:34.1243953+00:00",
+  "LastUpdate_Achievements": "2023-06-11T07:05:58.2196911+00:00"
 }

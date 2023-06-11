@@ -30,8 +30,8 @@
 | Payback | 18.00% | ~11 |
 | Magnitude 5 | 16.00% | ~10 |
 | MayDay! MayDay! | 13.00% | ~8 |
-| GG EZ | 10.00% | ~6 |
-| Comeback | 10.00% | ~6 |
+| GG EZ | 11.00% | ~7 |
+| Comeback | 11.00% | ~7 |
 | Gooooooaaaaal!!! | 8.00% | ~5 |
 | Sadistic | 2.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |

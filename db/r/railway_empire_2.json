@@ -2,7 +2,7 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
-  "Ranking_Rating": 720,
+  "Ranking_Rating": 719,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 171,
@@ -46,7 +46,7 @@
   "Tags": [],
   "EOS_Progressed": 1094,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1895,9 +1895,9 @@
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 339
     },
     {
       "ID": "A30",
@@ -1975,9 +1975,9 @@
       "ID": "A39",
       "SetID": "9b7p7eo",
       "Name": "Bold and beautiful",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 88
     },
     {
       "ID": "A40",
@@ -2112,8 +2112,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-10T19:58:13.8290847+00:00",
-  "LastChanged_Achievements": "2023-06-11T06:07:22.9653676+00:00",
+  "LastChanged_Achievements": "2023-06-11T07:06:10.7177097+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-11T05:58:41.4921187+00:00",
-  "LastUpdate_Achievements": "2023-06-11T06:07:22.9654274+00:00"
+  "LastUpdate_Ratings": "2023-06-11T06:58:06.0959277+00:00",
+  "LastUpdate_Achievements": "2023-06-11T07:06:10.7178492+00:00"
 }
