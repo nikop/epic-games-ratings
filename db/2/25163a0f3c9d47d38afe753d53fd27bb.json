@@ -3,9 +3,9 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_Completed": 26,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 443,
-  "EOS_Completed": 30,
-  "EOS_NewPlayers": 38,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.77,
+  "EOS_Completed": 31,
+  "EOS_NewPlayers": 37,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 7,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1216,6 +1216,11 @@
       "Time": "2023-06-11T17:04:27.6438988+00:00",
       "NumProgressed": 443,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-11T20:04:02.039272+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 30,
@@ -1353,9 +1358,9 @@
       "ID": "LEVEL_017",
       "SetID": "212bg48",
       "Name": "Windmill on a rocky cliff",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "LEVEL_018",
@@ -1467,13 +1472,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 443,
-      "Completed": 30
+      "Completed": 31
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-11T19:03:54.5577272+00:00",
+  "LastChanged_Achievements": "2023-06-11T20:04:02.0392713+00:00",
   "LastUpdate_AppInfo": "2023-06-05T14:57:13.8702155+00:00",
-  "LastUpdate_Ratings": "2023-06-11T18:57:16.0810421+00:00",
-  "LastUpdate_Achievements": "2023-06-11T19:03:54.5577557+00:00"
+  "LastUpdate_Ratings": "2023-06-11T19:57:00.5017749+00:00",
+  "LastUpdate_Achievements": "2023-06-11T20:04:02.0393078+00:00"
 }

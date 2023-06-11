@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -661,9 +661,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 31151,
+  "EOS_Progressed": 31153,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5756,6 +5756,11 @@
       "Time": "2023-06-11T19:02:07.0881003+00:00",
       "NumProgressed": 31151,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-11T20:02:16.535557+00:00",
+      "NumProgressed": 31153,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -5887,7 +5892,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11214
+      "UsersEstimate": 11215
     },
     {
       "ID": "ach_die10",
@@ -6119,7 +6124,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5607
+      "UsersEstimate": 5608
     },
     {
       "ID": "ach_terror100",
@@ -6198,15 +6203,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 31151,
+      "Progressed": 31153,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-05T06:59:36.6337587+00:00",
-  "LastChanged_Achievements": "2023-06-11T19:02:07.0880995+00:00",
+  "LastChanged_Achievements": "2023-06-11T20:02:16.5355564+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:03.1062336+00:00",
-  "LastUpdate_Ratings": "2023-06-11T18:59:19.8885566+00:00",
-  "LastUpdate_Achievements": "2023-06-11T19:02:07.0881805+00:00"
+  "LastUpdate_Ratings": "2023-06-11T19:59:10.1993833+00:00",
+  "LastUpdate_Achievements": "2023-06-11T20:02:16.5356364+00:00"
 }

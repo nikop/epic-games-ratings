@@ -1,25 +1,25 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 238)  
+Rating: 4.68 (Ranked 239)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,858 |
-| That's a Grand Army | 8.00% | ~4,318 |
-| That is mine! | 8.00% | ~4,318 |
-| Victorious! | 8.00% | ~4,318 |
-| Brothers in Arms | 6.00% | ~3,239 |
-| That's a Grand Navy | 6.00% | ~3,239 |
-| Seriously?! | 6.00% | ~3,239 |
-| For the Glory | 5.00% | ~2,699 |
-| Cold War | 4.00% | ~2,159 |
-| True Catholic | 4.00% | ~2,159 |
-| Defender of the Faith | 3.00% | ~1,619 |
-| It's all about the money | 3.00% | ~1,619 |
-| Respected | 3.00% | ~1,619 |
-| Truly Divine Ruler | 3.00% | ~1,619 |
+| Until death do us apart | 9.00% | ~4,861 |
+| That's a Grand Army | 8.00% | ~4,321 |
+| That is mine! | 8.00% | ~4,321 |
+| Victorious! | 8.00% | ~4,321 |
+| Brothers in Arms | 6.00% | ~3,241 |
+| That's a Grand Navy | 6.00% | ~3,241 |
+| Seriously?! | 6.00% | ~3,241 |
+| For the Glory | 5.00% | ~2,700 |
+| Cold War | 4.00% | ~2,160 |
+| True Catholic | 4.00% | ~2,160 |
+| Defender of the Faith | 3.00% | ~1,620 |
+| It's all about the money | 3.00% | ~1,620 |
+| Respected | 3.00% | ~1,620 |
+| Truly Divine Ruler | 3.00% | ~1,620 |
 | Agressive Expander | 2.00% | ~1,080 |
 | Blockader | 2.00% | ~1,080 |
 | Combined Arms | 2.00% | ~1,080 |
@@ -88,11 +88,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Basileus | 0.20% | ~108 |
 | Fine Financials | 0.20% | ~108 |
 | A Fine Goosestep | 0.20% | ~108 |
-| Full House | 0.20% | ~108 |
 | Imperio español | 0.20% | ~108 |
 | Industrial Powerhouse | 0.20% | ~108 |
 | Magellan’s Voyage | 0.20% | ~108 |
-| Pyramid of Skulls | 0.20% | ~108 |
 | We bled for this | 0.20% | ~108 |
 | The 52 Garhs | 0.10% | ~54 |
 | I don't like sand | 0.10% | ~54 |
@@ -164,6 +162,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | From Humble Origins | 0.10% | ~54 |
 | Frozen Assets | 0.10% | ~54 |
 | Fugger Banking | 0.10% | ~54 |
+| Full House | 0.10% | ~54 |
 | Ganges Khan | 0.10% | ~54 |
 | Georgia on my Mind | 0.10% | ~54 |
 | God Tier | 0.10% | ~54 |
@@ -241,6 +240,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Prince of Egypt | 0.10% | ~54 |
 | Protect the Secret | 0.10% | ~54 |
 | Purify the Temple | 0.10% | ~54 |
+| Pyramid of Skulls | 0.10% | ~54 |
 | Qing of China | 0.10% | ~54 |
 | Queen of Mercury | 0.10% | ~54 |
 | Rags and Riches | 0.10% | ~54 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,976 (Ranked 78)  
+Progressed: 54,010 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,7 +413,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 52,261 | 0 |
 | 2023-06-09 | 52,837 | 0 |
 | 2023-06-10 | 53,460 | 0 |
-| 2023-06-11 | 53,976 | 0 |
+| 2023-06-11 | 54,010 | 0 |
 ## Awards
 Max (Educational): 5,376  (Ranked 61)  
 Sum: 44,434 (Ranked 27)  

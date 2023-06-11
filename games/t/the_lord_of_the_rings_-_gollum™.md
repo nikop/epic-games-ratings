@@ -30,8 +30,8 @@
 | And now we wish... | 2.00% | ~9 |
 | Sweet Darkness | 2.00% | ~9 |
 | Ss ss ss... | 2.00% | ~9 |
+| Nervous Hands | 1.00% | ~4 |
 | Collectibles Part 2 | 0.90% | ~4 |
-| Nervous Hands | 0.90% | ~4 |
 | Elf-Friend | 0.50% | ~2 |
 | We wants it! We needs it | 0.50% | ~2 |
 | Scout | 0.50% | ~2 |

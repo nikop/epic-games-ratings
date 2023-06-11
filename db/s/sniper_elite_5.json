@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2660,
+  "EOS_Progressed": 2664,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3236,6 +3236,11 @@
       "Time": "2023-06-11T19:05:35.5745536+00:00",
       "NumProgressed": 2660,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T20:05:45.9806071+00:00",
+      "NumProgressed": 2664,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3327,7 +3332,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 771
+      "UsersEstimate": 773
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3407,7 +3412,7 @@
       "Name": "Precision Is Key",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -3415,7 +3420,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3455,7 +3460,7 @@
       "Name": "Lord of War",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3495,7 +3500,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3559,7 +3564,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3583,7 +3588,7 @@
       "Name": "Change the Channel",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3615,7 +3620,7 @@
       "Name": "Taking it back",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3655,7 +3660,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -3735,7 +3740,7 @@
       "Name": "Last Resort",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -3743,7 +3748,7 @@
       "Name": "Siegebreaker",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -3751,7 +3756,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -3814,13 +3819,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2611,
+      "Progressed": 2615,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2660,
+      "Progressed": 2664,
       "Completed": 2
     }
   ],
@@ -3828,8 +3833,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-11T19:05:35.5745533+00:00",
+  "LastChanged_Achievements": "2023-06-11T20:05:45.9806065+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-11T19:00:05.3634906+00:00",
-  "LastUpdate_Achievements": "2023-06-11T19:05:35.5746351+00:00"
+  "LastUpdate_Ratings": "2023-06-11T19:59:54.3143002+00:00",
+  "LastUpdate_Achievements": "2023-06-11T20:05:45.980691+00:00"
 }

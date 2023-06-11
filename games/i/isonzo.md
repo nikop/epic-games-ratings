@@ -6,10 +6,10 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,340 |
-| Tutti Eroi! | 54.00% | ~3,340 |
+| Peak Performance | 54.00% | ~3,341 |
+| Tutti Eroi! | 54.00% | ~3,341 |
 | You Shall Not Pass | 52.00% | ~3,217 |
-| Avanti Savoia! | 47.00% | ~2,907 |
+| Avanti Savoia! | 47.00% | ~2,908 |
 | Conrad von Hotzensocks | 36.00% | ~2,227 |
 | Mamma Mia! | 36.00% | ~2,227 |
 | Gabriele D'Annunzio | 32.00% | ~1,980 |
@@ -18,9 +18,9 @@ Number of Ratings: 98  (23.09.2022)
 | Veni Vidi Vici | 22.00% | ~1,361 |
 | Decimation | 20.00% | ~1,237 |
 | Donatello | 20.00% | ~1,237 |
-| Insubordination | 19.00% | ~1,175 |
-| The Italian Job | 19.00% | ~1,175 |
-| The Lion of the Isonzo | 18.00% | ~1,113 |
+| Insubordination | 19.00% | ~1,176 |
+| The Italian Job | 19.00% | ~1,176 |
+| The Lion of the Isonzo | 18.00% | ~1,114 |
 | Ragazzi del '99 | 17.00% | ~1,052 |
 | Thus With A Kiss | 14.00% | ~866 |
 | Dirty Dozen | 13.00% | ~804 |
@@ -28,8 +28,8 @@ Number of Ratings: 98  (23.09.2022)
 | Uomo Universale | 13.00% | ~804 |
 | Machiavelli | 12.00% | ~742 |
 | Shaken, Not Stirred | 12.00% | ~742 |
-| Die Bosniaken Kommen! | 11.00% | ~680 |
-| The Devil's Paintbrush | 11.00% | ~680 |
+| Die Bosniaken Kommen! | 11.00% | ~681 |
+| The Devil's Paintbrush | 11.00% | ~681 |
 | Dante's Inferno | 10.00% | ~619 |
 | I Have the High Ground | 9.00% | ~557 |
 | Millenial | 9.00% | ~557 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,186 (Ranked 124)  
+Progressed: 6,187 (Ranked 124)  
 Completed: 8 (0.13%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 8 (0.13%) (Ranked 161)
 | 2023-06-08 | 6,123 | 8 |
 | 2023-06-09 | 6,139 | 8 |
 | 2023-06-10 | 6,159 | 8 |
-| 2023-06-11 | 6,186 | 8 |
+| 2023-06-11 | 6,187 | 8 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 442)  
 Sum: 245 (Ranked 345)  

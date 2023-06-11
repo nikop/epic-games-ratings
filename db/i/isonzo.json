@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -628,9 +628,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6186,
+  "EOS_Progressed": 6187,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2573,6 +2573,11 @@
       "Time": "2023-06-11T19:03:09.3180146+00:00",
       "NumProgressed": 6186,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-11T20:03:13.4289011+00:00",
+      "NumProgressed": 6187,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2600,7 +2605,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2908
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -2656,7 +2661,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -2712,7 +2717,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -2776,7 +2781,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -2856,7 +2861,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -2872,7 +2877,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -2880,7 +2885,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -2912,7 +2917,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -2943,7 +2948,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6186,
+      "Progressed": 6187,
       "Completed": 8
     }
   ],
@@ -2951,8 +2956,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-10T21:57:23.9166861+00:00",
-  "LastChanged_Achievements": "2023-06-11T19:03:09.3180142+00:00",
+  "LastChanged_Achievements": "2023-06-11T20:03:13.4289005+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-11T18:57:29.5630034+00:00",
-  "LastUpdate_Achievements": "2023-06-11T19:03:09.3180674+00:00"
+  "LastUpdate_Ratings": "2023-06-11T19:57:15.0709336+00:00",
+  "LastUpdate_Achievements": "2023-06-11T20:03:13.4289513+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1167,9 +1167,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22165,
+  "EOS_Progressed": 22166,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4027,6 +4027,11 @@
       "Time": "2023-06-11T19:05:36.2745128+00:00",
       "NumProgressed": 22165,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-11T20:05:46.6259479+00:00",
+      "NumProgressed": 22166,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -4196,9 +4201,9 @@
       "ID": "BossStudyDefeated",
       "SetID": "3ojhj46",
       "Name": "Poise and Poisons",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 199
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -4349,21 +4354,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22165,
+      "Progressed": 22166,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1095,
+      "Progressed": 1096,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-10T10:58:58.7946026+00:00",
-  "LastChanged_Achievements": "2023-06-11T19:05:36.2745122+00:00",
+  "LastChanged_Achievements": "2023-06-11T20:05:46.6259472+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:32.4946327+00:00",
-  "LastUpdate_Ratings": "2023-06-11T18:58:56.8492265+00:00",
-  "LastUpdate_Achievements": "2023-06-11T19:05:36.2745595+00:00"
+  "LastUpdate_Ratings": "2023-06-11T19:58:47.6155471+00:00",
+  "LastUpdate_Achievements": "2023-06-11T20:05:46.6259979+00:00"
 }

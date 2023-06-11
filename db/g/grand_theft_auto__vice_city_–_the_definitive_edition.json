@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 359,
+  "Ranking_Rating": 358,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -418,7 +418,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 8250,
+  "EOS_Progressed": 8252,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 4,
@@ -4283,6 +4283,11 @@
       "Time": "2023-06-11T19:03:09.3984438+00:00",
       "NumProgressed": 8250,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-06-11T20:03:13.4131484+00:00",
+      "NumProgressed": 8252,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 34,
@@ -4310,7 +4315,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "ACH04",
@@ -4326,7 +4331,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH06",
@@ -4382,7 +4387,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACH13",
@@ -4398,7 +4403,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "ACH15",
@@ -4478,7 +4483,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACH25",
@@ -4486,7 +4491,7 @@
       "Name": "Chauffeur",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACH26",
@@ -4494,7 +4499,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACH27",
@@ -4502,7 +4507,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACH28",
@@ -4534,7 +4539,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH32",
@@ -4565,7 +4570,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8250,
+      "Progressed": 8252,
       "Completed": 29
     }
   ],
@@ -4573,8 +4578,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-10T11:58:23.7824085+00:00",
-  "LastChanged_Achievements": "2023-06-11T19:03:09.3984433+00:00",
+  "LastChanged_Achievements": "2023-06-11T20:03:13.4131478+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-11T18:58:11.7746356+00:00",
-  "LastUpdate_Achievements": "2023-06-11T19:03:09.3984986+00:00"
+  "LastUpdate_Ratings": "2023-06-11T19:58:00.044577+00:00",
+  "LastUpdate_Achievements": "2023-06-11T20:03:13.4132001+00:00"
 }

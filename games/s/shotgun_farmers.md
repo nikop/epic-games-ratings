@@ -10,10 +10,10 @@
 | First Blood | 39.00% | ~41 |
 | Early Survivor | 37.00% | ~21 |
 | Triple Kill | 35.00% | ~37 |
-| No Diggity | 34.00% | ~19 |
+| No Diggity | 35.00% | ~20 |
 | Cornivore | 32.00% | ~34 |
+| I Believe I Can Fly | 31.00% | ~33 |
 | No Asperascope | 31.00% | ~33 |
-| I Believe I Can Fly | 29.00% | ~31 |
 | Amateur Survivor | 26.00% | ~15 |
 | Bouncemato | 24.00% | ~13 |
 | This Is My Boomstick | 22.00% | ~12 |
@@ -25,11 +25,11 @@
 | Drinking Problem | 14.00% | ~15 |
 | Oh My Gourd | 10.00% | ~6 |
 | Summers Here | 10.00% | ~6 |
+| Pyromaniac | 9.00% | ~5 |
 | Skin Of Your Teeth | 8.00% | ~8 |
 | Eggtraordinary | 8.00% | ~8 |
 | Perfect | 8.00% | ~4 |
 | Expert Survivor | 8.00% | ~4 |
-| Pyromaniac | 8.00% | ~4 |
 | Quit Horsin' Around | 7.00% | ~7 |
 | Quadsparagus | 7.00% | ~4 |
 | Pork Chop Express | 6.00% | ~6 |

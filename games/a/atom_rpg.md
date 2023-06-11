@@ -13,23 +13,23 @@ Number of Ratings: 54  (23.09.2022)
 | Traveler | 24.00% | ~228 |
 | Explorer | 18.00% | ~171 |
 | Head Burst | 18.00% | ~171 |
-| Grave Robber | 17.00% | ~161 |
+| Grave Robber | 17.00% | ~162 |
 | Double agent | 15.00% | ~142 |
 | Paranoia | 15.00% | ~142 |
-| Kraina Grzybow | 9.00% | ~85 |
-| Love Guru | 9.00% | ~85 |
-| Savant | 9.00% | ~85 |
+| Kraina Grzybow | 9.00% | ~86 |
+| Love Guru | 9.00% | ~86 |
+| Savant | 9.00% | ~86 |
 | Bustin' nuts | 7.00% | ~66 |
 | Not-so-private Eye | 7.00% | ~66 |
 | Superhuman | 7.00% | ~66 |
 | The Vitinsky Rifle | 6.00% | ~57 |
-| Secret room | 5.00% | ~47 |
+| Secret room | 5.00% | ~48 |
 | Protection racket | 4.00% | ~38 |
 | Sacrifice | 4.00% | ~38 |
 | Indy | 3.00% | ~28 |
 | Career criminal | 2.00% | ~19 |
 | Wishmaster | 2.00% | ~19 |
-| Neanderthal | 1.00% | ~9 |
+| Neanderthal | 1.00% | ~10 |
 | It was worth a shot | 0.90% | ~9 |
 | Cosmic Horror | 0.80% | ~8 |
 | Ghostbuster | 0.70% | ~7 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 949 (Ranked 181)  
+Progressed: 950 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 926 | 0 |
 | 2023-06-09 | 933 | 0 |
 | 2023-06-10 | 941 | 0 |
-| 2023-06-11 | 949 | 0 |
+| 2023-06-11 | 950 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 399)  
 Sum: 49 (Ranked 443)  

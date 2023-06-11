@@ -25,9 +25,9 @@
 | Concrete painting | 17.00% | ~80 |
 | Goody | 17.00% | ~80 |
 | Please oh pleeease! | 17.00% | ~80 |
+| Found it! | 16.00% | ~75 |
 | Hipster | 16.00% | ~75 |
 | Not what it seems | 16.00% | ~75 |
-| Found it! | 15.00% | ~70 |
 | That's much better! | 15.00% | ~70 |
 | Not as clumsy or random | 13.00% | ~61 |
 | Blade Runner | 10.00% | ~47 |

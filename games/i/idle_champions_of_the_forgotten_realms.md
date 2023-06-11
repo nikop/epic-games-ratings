@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 0.50% | ~284 |
 | A Persistent Buzzing | 0.50% | ~452 |
 | Terror in the Dark | 0.50% | ~452 |
+| Unearthed Evil | 0.50% | ~452 |
 | The Crumbling Temple | 0.50% | ~452 |
 | Pure Energy | 0.50% | ~452 |
 | Quick or Quack | 0.50% | ~284 |
@@ -33,7 +34,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.40% | ~362 |
 | A Mysterious Summons | 0.40% | ~362 |
 | Building Trust | 0.40% | ~362 |
-| Unearthed Evil | 0.40% | ~362 |
 | Useless Allies | 0.40% | ~362 |
 | Exploring Port Nyanzaru | 0.40% | ~362 |
 | Running of the Saurs | 0.40% | ~362 |
@@ -173,6 +173,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for Owl-y | 0.20% | ~181 |
 | Werewolves in the Mist | 0.20% | ~181 |
 | Family Entanglements | 0.20% | ~181 |
+| Poor Fortune | 0.20% | ~181 |
 | Chatty Nobles | 0.20% | ~181 |
 | Modron Assistance | 0.20% | ~181 |
 | Thine Bounty is Mine! | 0.20% | ~113 |
@@ -241,6 +242,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Mode | 0.20% | ~113 |
 | Wyllowwood | 0.20% | ~181 |
 | An Illithid Undertaking | 0.20% | ~113 |
+| An Illithid Ambush | 0.20% | ~113 |
 | Déjà Vu | 0.20% | ~113 |
 | Wait, What? | 0.20% | ~113 |
 | Déjà Vu All Over Again | 0.20% | ~113 |
@@ -346,7 +348,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Acererak's Puzzle | 0.10% | ~57 |
 | We're not in Faerûn Anymore | 0.10% | ~90 |
 | Haunted Fortunes | 0.10% | ~90 |
-| Poor Fortune | 0.10% | ~90 |
 | Relentless Misfortune | 0.10% | ~90 |
 | This Quest Stinks! | 0.10% | ~57 |
 | Hold for the Red Wizards | 0.10% | ~90 |
@@ -424,7 +425,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ettercap Swarm | 0.10% | ~57 |
 | Smooth Talkers | 0.10% | ~57 |
 | Relay Race | 0.10% | ~90 |
-| An Illithid Ambush | 0.10% | ~57 |
 | Misty Undermountain | 0.10% | ~57 |
 | An Owlbear of an Undertaking | 0.10% | ~57 |
 | Ireena von Zarovich | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,459 (Ranked 64)  
+Progressed: 90,469 (Ranked 64)  
 Completed: 1,929 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 1,929 (2.13%) (Ranked 66)
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
-| 2023-06-11 | 90,459 | 1,929 |
+| 2023-06-11 | 90,469 | 1,929 |
 ## Awards
 Max (Diverse Characters): 4,928  (Ranked 64)  
 Sum: 30,075 (Ranked 37)  

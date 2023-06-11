@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -334,9 +334,9 @@
       "ID": "FOUND_IT",
       "SetID": "2iigf77",
       "Name": "Found it!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 75
     },
     {
       "ID": "GOODY",
@@ -535,8 +535,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-06-11T19:05:28.4714164+00:00",
+  "LastChanged_Achievements": "2023-06-11T20:05:38.6267551+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:03.6651809+00:00",
-  "LastUpdate_Ratings": "2023-06-11T18:58:35.7975676+00:00",
-  "LastUpdate_Achievements": "2023-06-11T19:05:28.4714369+00:00"
+  "LastUpdate_Ratings": "2023-06-11T19:58:24.6258549+00:00",
+  "LastUpdate_Achievements": "2023-06-11T20:05:38.626777+00:00"
 }

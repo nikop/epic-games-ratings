@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Time Heals All Wounds | 8.00% | ~53 |
 | Treasure Trove | 7.00% | ~46 |
 | Cartographer | 7.00% | ~46 |
 | The Prince in Heels | 7.00% | ~46 |
-| Time Heals All Wounds | 7.00% | ~46 |
 | Immaculate Aim | 7.00% | ~46 |
 | The Steel Shadow | 6.00% | ~40 |
 | The Mysterious Stranger | 6.00% | ~40 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660 (Ranked 192)  
+Progressed: 661 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,4 +82,4 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 633 | 0 |
 | 2023-06-09 | 642 | 0 |
 | 2023-06-10 | 653 | 0 |
-| 2023-06-11 | 660 | 0 |
+| 2023-06-11 | 661 | 0 |

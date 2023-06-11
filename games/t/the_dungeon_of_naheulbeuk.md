@@ -52,10 +52,10 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 10.00% | ~7 |
 | Lëgal Legend | 10.00% | ~7 |
 | Egghead | 9.00% | ~6 |
+| Free customer service | 9.00% | ~6 |
 | Super-Ultra-Lydian | 9.00% | ~6 |
 | Lust and Debauchery | 9.00% | ~6 |
 | Holistic Adventuring Party | 7.00% | ~5 |
-| Free customer service | 7.00% | ~5 |
 | We come in peace | 7.00% | ~5 |
 | Elite Adventurers | 6.00% | ~4 |
 | Insult to injury | 6.00% | ~4 |

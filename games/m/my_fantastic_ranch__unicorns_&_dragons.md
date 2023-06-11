@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 69.00% | ~9 |
+| Let the Adventure Begin! | 77.00% | ~10 |
 | Prized Possession | 54.00% | ~7 |
 | Spirit of competition | 46.00% | ~6 |
 | Creature Evolution | 38.00% | ~5 |
@@ -30,7 +30,7 @@
 | Neverending Story | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 351)  
+Progressed: 13 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |

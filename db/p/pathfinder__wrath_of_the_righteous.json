@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2810,9 +2810,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9779,
+  "EOS_Progressed": 9780,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6270,6 +6270,11 @@
       "Time": "2023-06-11T19:05:48.7370744+00:00",
       "NumProgressed": 9779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T20:06:00.239154+00:00",
+      "NumProgressed": 9780,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6281,7 +6286,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "02_BurningCity",
@@ -6511,9 +6516,9 @@
       "ID": "31_DivideAndRule",
       "SetID": "989of5o",
       "Name": "Divide and Rule",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 293
     },
     {
       "ID": "32_MythicReinforcements",
@@ -6649,7 +6654,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "49_Flame",
@@ -7208,21 +7213,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8561,
+      "Progressed": 8562,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9779,
+      "Progressed": 9780,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-11T16:58:32.2444378+00:00",
-  "LastChanged_Achievements": "2023-06-11T19:05:48.7370739+00:00",
+  "LastChanged_Achievements": "2023-06-11T20:06:00.2391529+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-11T18:58:14.9826303+00:00",
-  "LastUpdate_Achievements": "2023-06-11T19:05:48.7372202+00:00"
+  "LastUpdate_Ratings": "2023-06-11T19:58:03.1447906+00:00",
+  "LastUpdate_Achievements": "2023-06-11T20:06:00.2393498+00:00"
 }

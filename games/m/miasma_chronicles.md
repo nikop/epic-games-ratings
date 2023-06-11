@@ -8,9 +8,9 @@ Rating: 4.29 (Ranked 770)
 | First Blood | 91.00% | ~999 |
 | Ranidaphobia | 76.00% | ~834 |
 | Aspiring Editor | 73.00% | ~802 |
-| Gun for Hire | 67.00% | ~736 |
+| Gun for Hire | 68.00% | ~747 |
 | I am the law! | 59.00% | ~648 |
-| Lumberjack | 46.00% | ~505 |
+| Lumberjack | 47.00% | ~516 |
 | Croaked | 42.00% | ~461 |
 | Limp Richard | 41.00% | ~450 |
 | From Darkness to Light | 40.00% | ~439 |
@@ -22,7 +22,7 @@ Rating: 4.29 (Ranked 770)
 | The meaning of Kain | 33.00% | ~362 |
 | Technophobe | 30.00% | ~329 |
 | Recycler | 28.00% | ~307 |
-| Are you not entertained? | 24.00% | ~264 |
+| Are you not entertained? | 25.00% | ~274 |
 | Ganglord | 24.00% | ~264 |
 | Jarhead | 24.00% | ~264 |
 | Infiltrator | 23.00% | ~253 |
@@ -42,8 +42,8 @@ Rating: 4.29 (Ranked 770)
 | Chain Reaction | 8.00% | ~88 |
 | Curveball | 7.00% | ~77 |
 | Side Order | 7.00% | ~77 |
+| Bot Whisperer | 6.00% | ~66 |
 | Wipe Out | 6.00% | ~66 |
-| Bot Whisperer | 5.00% | ~55 |
 | Dressed To Kill | 4.00% | ~44 |
 | Cruelty | 2.00% | ~22 |
 | Five Finger Deathcount | 0.90% | ~10 |

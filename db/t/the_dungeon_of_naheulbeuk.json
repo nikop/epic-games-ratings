@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -893,9 +893,9 @@
       "ID": "DLC3Chapter11",
       "SetID": "50p8kh1",
       "Name": "Free customer service",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DLC3Chapter12",
@@ -1355,8 +1355,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-11T19:04:44.8086133+00:00",
+  "LastChanged_Achievements": "2023-06-11T20:04:53.3301382+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:25.2795167+00:00",
-  "LastUpdate_Ratings": "2023-06-11T18:58:50.3249861+00:00",
-  "LastUpdate_Achievements": "2023-06-11T19:04:44.8087098+00:00"
+  "LastUpdate_Ratings": "2023-06-11T19:58:40.0520221+00:00",
+  "LastUpdate_Achievements": "2023-06-11T20:04:53.330244+00:00"
 }

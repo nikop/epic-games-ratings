@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1206,9 +1206,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22966,
+  "EOS_Progressed": 22967,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5176,6 +5176,11 @@
       "Time": "2023-06-11T19:05:41.9249645+00:00",
       "NumProgressed": 22966,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-11T20:05:52.6387444+00:00",
+      "NumProgressed": 22967,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -5187,7 +5192,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16765
+      "UsersEstimate": 16766
     },
     {
       "ID": "Animated",
@@ -5235,7 +5240,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11942
+      "UsersEstimate": 11943
     },
     {
       "ID": "Collector",
@@ -5251,7 +5256,7 @@
       "Name": "Cultured",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 11942
+      "UsersEstimate": 11943
     },
     {
       "ID": "Daily_Dose",
@@ -5275,7 +5280,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 14239
+      "UsersEstimate": 14240
     },
     {
       "ID": "Dont_Need_These",
@@ -5299,7 +5304,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14698
+      "UsersEstimate": 14699
     },
     {
       "ID": "Escape_Artist",
@@ -5323,7 +5328,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12631
+      "UsersEstimate": 12632
     },
     {
       "ID": "GB_In_Training",
@@ -5331,7 +5336,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 7119
+      "UsersEstimate": 7120
     },
     {
       "ID": "Ghost_Expert",
@@ -5459,7 +5464,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6430
+      "UsersEstimate": 6431
     },
     {
       "ID": "Skilled",
@@ -5491,7 +5496,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19751
+      "UsersEstimate": 19752
     },
     {
       "ID": "Summoner",
@@ -5515,7 +5520,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 12631
+      "UsersEstimate": 12632
     },
     {
       "ID": "Teamwork",
@@ -5547,7 +5552,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 9875
+      "UsersEstimate": 9876
     },
     {
       "ID": "Tobins_Prodigy",
@@ -5571,7 +5576,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 11253
+      "UsersEstimate": 11254
     },
     {
       "ID": "Welcome_Crew",
@@ -5594,7 +5599,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22966,
+      "Progressed": 22967,
       "Completed": 40
     }
   ],
@@ -5602,8 +5607,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-11T15:58:38.8497435+00:00",
-  "LastChanged_Achievements": "2023-06-11T19:05:41.924964+00:00",
+  "LastChanged_Achievements": "2023-06-11T20:05:52.6387434+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:16.8585642+00:00",
-  "LastUpdate_Ratings": "2023-06-11T18:58:44.4450262+00:00",
-  "LastUpdate_Achievements": "2023-06-11T19:05:41.9250371+00:00"
+  "LastUpdate_Ratings": "2023-06-11T19:58:33.6757103+00:00",
+  "LastUpdate_Achievements": "2023-06-11T20:05:52.6388128+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.18 (Ranked 842)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,108 |
+| Flesh Wound | 14.00% | ~2,109 |
 | The Outer Way | 13.00% | ~1,958 |
 | Desperate Times | 12.00% | ~1,807 |
-| Paper Jams | 11.00% | ~1,656 |
-| Chew 'Em Up | 9.00% | ~1,355 |
-| Reforged | 9.00% | ~1,355 |
+| Paper Jams | 11.00% | ~1,657 |
+| Chew 'Em Up | 9.00% | ~1,356 |
+| Reforged | 9.00% | ~1,356 |
 | Workplace Hazard | 8.00% | ~1,205 |
 | If the SHU Fits... | 8.00% | ~1,205 |
 | Giving Back | 7.00% | ~1,054 |
@@ -25,8 +25,8 @@ Rating: 4.18 (Ranked 842)
 | What Lies Beneath | 4.00% | ~602 |
 | Full Circle | 4.00% | ~602 |
 | Power Up | 4.00% | ~602 |
-| Instigator | 4.00% | ~119 |
-| Big Game Hunter | 4.00% | ~119 |
+| Instigator | 4.00% | ~120 |
+| Big Game Hunter | 4.00% | ~120 |
 | The Commonality | 3.00% | ~452 |
 | Bear Trap | 3.00% | ~90 |
 | I Do Belong Here | 2.00% | ~301 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 842)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,059 (Ranked 104)  
+Progressed: 15,062 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 54 (0.36%) (Ranked 123)
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
 | 2023-06-10 | 14,984 | 54 |
-| 2023-06-11 | 15,059 | 54 |
+| 2023-06-11 | 15,062 | 54 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
 Sum: 305 (Ranked 328)  

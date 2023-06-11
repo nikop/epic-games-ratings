@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 95.00% | ~348 |
-| Terminated I | 79.00% | ~289 |
-| Challenge Accepted | 77.00% | ~282 |
-| Nanonic I | 75.00% | ~274 |
-| Unlocked and Loaded | 72.00% | ~264 |
-| Terminated II | 60.00% | ~220 |
-| The City | 44.00% | ~161 |
-| Challenge Mastered | 37.00% | ~135 |
-| Terminated III | 36.00% | ~132 |
-| Nanonic II | 30.00% | ~110 |
-| Rookie | 30.00% | ~110 |
-| Supply Run | 20.00% | ~73 |
-| Nanonic III | 18.00% | ~66 |
-| Starship Docks | 17.00% | ~62 |
-| Cybernetic | 14.00% | ~51 |
+| Augmented | 95.00% | ~353 |
+| Terminated I | 79.00% | ~294 |
+| Challenge Accepted | 78.00% | ~290 |
+| Nanonic I | 75.00% | ~279 |
+| Unlocked and Loaded | 71.00% | ~264 |
+| Terminated II | 59.00% | ~219 |
+| The City | 45.00% | ~167 |
+| Challenge Mastered | 37.00% | ~138 |
+| Terminated III | 37.00% | ~138 |
+| Nanonic II | 30.00% | ~112 |
+| Rookie | 29.00% | ~108 |
+| Supply Run | 20.00% | ~74 |
+| Nanonic III | 18.00% | ~67 |
+| Starship Docks | 17.00% | ~63 |
+| Cybernetic | 14.00% | ~52 |
 | The Bigger They Are | 13.00% | ~48 |
 | Up Close And Personal | 13.00% | ~48 |
 | Eden Heights | 10.00% | ~37 |
-| Outer Core | 7.00% | ~26 |
-| Trickshot | 5.00% | ~18 |
-| Inner Core | 4.00% | ~15 |
+| Outer Core | 6.00% | ~22 |
+| Trickshot | 5.00% | ~19 |
+| Inner Core | 3.00% | ~11 |
 | Destruction | 2.00% | ~7 |
 | Fully Modded | 2.00% | ~7 |
 | Integration | 2.00% | ~7 |
@@ -33,7 +33,7 @@
 | Cyborg | 0.30% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 366 (Ranked 219)  
+Progressed: 372 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 231 | 0 |
 | 2023-06-09 | 281 | 0 |
 | 2023-06-10 | 321 | 0 |
-| 2023-06-11 | 366 | 0 |
+| 2023-06-11 | 372 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
