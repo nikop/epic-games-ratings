@@ -14,8 +14,8 @@
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.71% |
-| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
+| 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.34% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
@@ -26,7 +26,7 @@
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.90% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.85% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.83% |
 | 28 | [Scorn](games/s/scorn.md) | 6.79% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -57,7 +57,7 @@
 | 54 | [Lamentum](games/l/lamentum.md) | 2.78% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 57 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.66% |
-| 58 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.65% |
+| 58 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.63% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 61 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
@@ -102,8 +102,8 @@
 | 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
 | 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 102 | [Them and Us](games/t/them_and_us.md) | 0.74% |
-| 103 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.73% |
-| 104 | [Haven](games/h/haven.md) | 0.72% |
+| 103 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.72% |
+| 103 | [Haven](games/h/haven.md) | 0.72% |
 | 105 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.71% |
 | 106 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.69% |
 | 107 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.68% |
@@ -186,23 +186,23 @@
 | 182 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
 | 182 | [Saints Row](games/s/saints_row.md) | 0.05% |
 | 186 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 186 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.04% |
 | 186 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
 | 186 | [High On Life](games/h/high_on_life.md) | 0.04% |
 | 186 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.04% |
-| 190 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 190 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
-| 190 | [Old World](games/o/old_world.md) | 0.03% |
-| 190 | [Outward Definitive Edition](games/o/outward.md) | 0.03% |
-| 190 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
-| 190 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 196 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.02% |
-| 196 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 196 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
-| 196 | [Good Company](games/g/good_company.md) | 0.02% |
-| 196 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 196 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 196 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 196 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
+| 191 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 191 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
+| 191 | [Old World](games/o/old_world.md) | 0.03% |
+| 191 | [Outward Definitive Edition](games/o/outward.md) | 0.03% |
+| 191 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
+| 191 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
+| 197 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 197 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
+| 197 | [Good Company](games/g/good_company.md) | 0.02% |
+| 197 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 197 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 197 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 197 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
 | 204 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 204 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 204 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
