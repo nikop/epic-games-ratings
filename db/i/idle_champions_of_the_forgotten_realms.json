@@ -4222,9 +4222,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90384,
+  "EOS_Progressed": 90388,
   "EOS_Completed": 1926,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9492,6 +9492,11 @@
       "Time": "2023-06-11T04:06:39.0682913+00:00",
       "NumProgressed": 90384,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-06-11T05:07:30.5989612+00:00",
+      "NumProgressed": 90388,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 493,
@@ -11637,9 +11642,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 542
     },
     {
       "ID": "objective_completed_54",
@@ -12677,9 +12682,9 @@
       "ID": "objective_completed_74",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Detours",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_75",
@@ -12749,9 +12754,9 @@
       "ID": "objective_completed_804",
       "SetID": "415jc5c",
       "Name": "CONtagious Cold",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_805",
@@ -13446,21 +13451,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56658,
+      "Progressed": 56662,
       "Completed": 2785
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90384,
+      "Progressed": 90388,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-10T22:57:45.4027598+00:00",
-  "LastChanged_Achievements": "2023-06-11T04:06:39.0682908+00:00",
+  "LastChanged_Achievements": "2023-06-11T05:07:30.5989608+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-11T03:58:10.5389367+00:00",
-  "LastUpdate_Achievements": "2023-06-11T04:06:39.0705544+00:00"
+  "LastUpdate_Ratings": "2023-06-11T04:58:35.140145+00:00",
+  "LastUpdate_Achievements": "2023-06-11T05:07:30.6017986+00:00"
 }

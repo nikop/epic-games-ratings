@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -534,9 +534,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2883,
+  "EOS_Progressed": 2884,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1754,6 +1754,11 @@
       "Time": "2023-06-11T02:37:00.8919842+00:00",
       "NumProgressed": 2883,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T05:07:24.6564922+00:00",
+      "NumProgressed": 2884,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1861,7 +1866,7 @@
       "Name": "Surgical Excision",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1949,7 +1954,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Kills_Executioner",
@@ -2021,7 +2026,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -2173,7 +2178,7 @@
       "Name": "Harvest No More",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -2181,7 +2186,7 @@
       "Name": "Junk Banishment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -2229,28 +2234,28 @@
       "Name": "Tactical Flexibility",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2883,
+      "Progressed": 2884,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2883,
+      "Progressed": 2884,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-07T10:59:27.9467392+00:00",
-  "LastChanged_Achievements": "2023-06-11T04:06:33.0801489+00:00",
+  "LastChanged_Achievements": "2023-06-11T05:07:24.6564919+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:59.3316653+00:00",
-  "LastUpdate_Ratings": "2023-06-11T03:58:49.2699934+00:00",
-  "LastUpdate_Achievements": "2023-06-11T04:06:33.080196+00:00"
+  "LastUpdate_Ratings": "2023-06-11T04:59:21.7641175+00:00",
+  "LastUpdate_Achievements": "2023-06-11T05:07:24.6565544+00:00"
 }

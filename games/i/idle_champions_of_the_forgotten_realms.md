@@ -16,13 +16,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.70% | ~397 |
 | Were-verpowered | 0.60% | ~542 |
 | Seeking Allies | 0.60% | ~542 |
+| Mad Cow Disease | 0.60% | ~542 |
 | Friendly Imps | 0.60% | ~542 |
 | Coasting to the Finish | 0.60% | ~340 |
 | Checkmate | 0.50% | ~283 |
 | Vecna Out! | 0.50% | ~283 |
 | A Persistent Buzzing | 0.50% | ~452 |
 | Terror in the Dark | 0.50% | ~452 |
-| Mad Cow Disease | 0.50% | ~452 |
 | Pure Energy | 0.50% | ~452 |
 | Quick or Quack | 0.50% | ~283 |
 | Maddening | 0.40% | ~362 |
@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.40% | ~362 |
 | The Contagious Curse | 0.40% | ~362 |
 | Escort to Waterdeep | 0.40% | ~362 |
+| Waterdeep Detours | 0.40% | ~362 |
 | Third Third Out | 0.30% | ~170 |
 | The Silken Swamp | 0.30% | ~271 |
 | Supply Run | 0.30% | ~271 |
@@ -71,7 +72,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bad Odds in Avernus | 0.30% | ~170 |
 | An Even Worse Time in Avernus | 0.30% | ~170 |
 | Constant Banditry | 0.30% | ~271 |
-| Waterdeep Detours | 0.30% | ~271 |
 | Underdeep Cartography | 0.30% | ~271 |
 | Overdue Rendezvous | 0.30% | ~271 |
 | How Far Away is Thay | 0.30% | ~170 |
@@ -263,6 +263,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.20% | ~181 |
 | Moose Tracks | 0.20% | ~113 |
 | An Awakened Axe | 0.20% | ~113 |
+| CONtagious Cold | 0.20% | ~113 |
 | Civilization | 0.20% | ~113 |
 | Durable Deep | 0.20% | ~181 |
 | The Sibriex | 0.20% | ~113 |
@@ -450,7 +451,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~57 |
 | Mirage Arcane | 0.10% | ~57 |
 | Only Human | 0.10% | ~57 |
-| CONtagious Cold | 0.10% | ~57 |
 | Ten in Ten-Towns | 0.10% | ~57 |
 | Trench Coat Run | 0.10% | ~57 |
 | The Taunting Lord | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,384 (Ranked 64)  
+Progressed: 90,388 (Ranked 64)  
 Completed: 1,926 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 1,926 (2.13%) (Ranked 66)
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
-| 2023-06-11 | 90,384 | 1,926 |
+| 2023-06-11 | 90,388 | 1,926 |
 ## Awards
 Max (Diverse Characters): 4,928  (Ranked 64)  
 Sum: 30,075 (Ranked 37)  

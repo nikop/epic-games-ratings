@@ -6,7 +6,7 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,698 |
+| Just One...More...Term... | 76.00% | ~2,699 |
 | Un-Lonely Island | 48.00% | ~1,704 |
 | The Beginning of a Servantship | 46.00% | ~1,633 |
 | Trade Is My Trait | 37.00% | ~1,314 |
@@ -16,9 +16,9 @@ Number of Ratings: 398  (23.09.2022)
 | Caribbean Comrade | 17.00% | ~604 |
 | The Legend of Langostino | 17.00% | ~604 |
 | The Dreamer of Dreams | 16.00% | ~568 |
-| Happy Ending? | 11.00% | ~390 |
-| Go Sovereigns! | 11.00% | ~390 |
-| For Science! | 11.00% | ~390 |
+| Happy Ending? | 11.00% | ~391 |
+| Go Sovereigns! | 11.00% | ~391 |
+| For Science! | 11.00% | ~391 |
 | Of Seals And Men | 10.00% | ~355 |
 | Shackadelic | 10.00% | ~355 |
 | Double Trouble | 9.00% | ~320 |
@@ -30,13 +30,13 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 6.00% | ~213 |
 | I Owe You Nothing | 6.00% | ~213 |
 | Watch The World Burn | 6.00% | ~213 |
+| Fairy Tale Come True | 6.00% | ~213 |
 | Viva Tropico! | 5.00% | ~178 |
-| Fairy Tale Come True | 5.00% | ~178 |
 | Apocalypso | 4.00% | ~142 |
-| Been there, Done That | 3.00% | ~106 |
-| Narcissist | 3.00% | ~106 |
-| Promising Endeavors | 3.00% | ~106 |
-| The Time For Wonders | 3.00% | ~106 |
+| Been there, Done That | 3.00% | ~107 |
+| Narcissist | 3.00% | ~107 |
+| Promising Endeavors | 3.00% | ~107 |
+| The Time For Wonders | 3.00% | ~107 |
 | Chain Gang | 2.00% | ~71 |
 | One Does Not Simply Stage A Coup | 2.00% | ~71 |
 | Sublime Subliminal Supreme | 2.00% | ~71 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~36 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,550 (Ranked 134)  
+Progressed: 3,551 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 1 (0.03%) (Ranked 191)
 | 2023-06-08 | 3,491 | 1 |
 | 2023-06-09 | 3,519 | 1 |
 | 2023-06-10 | 3,547 | 1 |
-| 2023-06-11 | 3,550 | 1 |
+| 2023-06-11 | 3,551 | 1 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 318)  
 Sum: 758 (Ranked 256)  

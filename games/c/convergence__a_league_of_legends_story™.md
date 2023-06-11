@@ -35,13 +35,13 @@
 | Check Your Pulse | 4.00% | ~26 |
 | Ask Questions Later | 4.00% | ~26 |
 | The Family Fortune | 4.00% | ~26 |
+| Sartorialist | 3.00% | ~20 |
 | Whiz Kid | 3.00% | ~20 |
 | Syron for Hope | 3.00% | ~20 |
 | Theater Explorer | 3.00% | ~20 |
 | Good Neighbor | 3.00% | ~20 |
 | Corin Goes Home | 2.00% | ~13 |
 | Clovemary for Remembering | 2.00% | ~13 |
-| Sartorialist | 2.00% | ~13 |
 | Cultivair Explorer | 2.00% | ~13 |
 | Entresol Explorer | 2.00% | ~13 |
 | Factorywood Explorer | 2.00% | ~13 |

@@ -9,7 +9,7 @@ Number of Ratings: 36  (23.09.2022)
 | Breathe In… Breathe Out… | 73.00% | ~547 |
 | It’s Heating up! | 68.00% | ~509 |
 | Let’s patch things up | 65.00% | ~487 |
-| I can fix it! | 61.00% | ~457 |
+| I can fix it! | 62.00% | ~464 |
 | Post No Bills | 54.00% | ~404 |
 | Truly Shocking! | 46.00% | ~345 |
 | Critical Thinker | 34.00% | ~255 |

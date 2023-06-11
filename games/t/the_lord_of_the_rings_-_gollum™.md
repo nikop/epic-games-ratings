@@ -10,9 +10,9 @@
 | Wait! Wait! Not yet! | 36.00% | ~153 |
 | Like Flying... | 32.00% | ~136 |
 | Memories | 28.00% | ~119 |
-| The Maggot | 26.00% | ~110 |
+| The Maggot | 26.00% | ~111 |
 | The Breeder | 21.00% | ~89 |
-| The Veteran | 18.00% | ~76 |
+| The Veteran | 18.00% | ~77 |
 | The Traitor | 14.00% | ~60 |
 | The Spider | 13.00% | ~55 |
 | Good as Fish | 9.00% | ~38 |
@@ -26,9 +26,9 @@
 | So Silly! | 4.00% | ~17 |
 | Made a Song | 4.00% | ~17 |
 | So Tasty! | 4.00% | ~17 |
-| Break a Leg! | 2.00% | ~8 |
-| And now we wish... | 2.00% | ~8 |
-| Sweet Darkness | 2.00% | ~8 |
+| Break a Leg! | 2.00% | ~9 |
+| And now we wish... | 2.00% | ~9 |
+| Sweet Darkness | 2.00% | ~9 |
 | Ss ss ss... | 1.00% | ~4 |
 | Collectibles Part 2 | 0.90% | ~4 |
 | Nervous Hands | 0.90% | ~4 |
@@ -41,7 +41,7 @@
 | Rule them all! | 0.00% | ~0 |
 | We Hates Them! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 208)  
+Progressed: 426 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 418 | 0 |
 | 2023-06-09 | 422 | 0 |
 | 2023-06-10 | 424 | 0 |
-| 2023-06-11 | 425 | 0 |
+| 2023-06-11 | 426 | 0 |

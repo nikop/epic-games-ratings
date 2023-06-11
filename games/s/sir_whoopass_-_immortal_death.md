@@ -26,7 +26,7 @@
 | Spare Ribs | 51.00% | ~37 |
 | My pants squeak when I walk | 50.00% | ~36 |
 | Thats disgusting! | 49.00% | ~35 |
-| Cockadoodledoo! | 47.00% | ~34 |
+| Cockadoodledoo! | 49.00% | ~35 |
 | Surprise!! | 44.00% | ~32 |
 | Self assessed tax return | 42.00% | ~30 |
 | Make America Grate Again | 38.00% | ~27 |
@@ -46,8 +46,8 @@
 | Your daily dose of Vitamin C. | 22.00% | ~16 |
 | I cant stand still! | 22.00% | ~16 |
 | Kleptomaniac | 22.00% | ~16 |
+| Master Butcher | 18.00% | ~13 |
 | Just wing it! | 18.00% | ~13 |
-| Master Butcher | 17.00% | ~12 |
 | Slimy... yet satisfying | 15.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~10 |
 | Yeehaw!!! | 14.00% | ~10 |

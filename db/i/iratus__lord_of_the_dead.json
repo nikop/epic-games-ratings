@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -1992,7 +1992,7 @@
   ],
   "EOS_Progressed": 31735,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 777,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7572,9 +7572,9 @@
       "ID": "achievements_4",
       "SetID": "6hgbao0",
       "Name": "Path of the Necromancer",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 20628
+      "UsersEstimate": 20945
     },
     {
       "ID": "achievements_40",
@@ -7932,8 +7932,8 @@
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-06-09T11:59:51.2581598+00:00",
-  "LastChanged_Achievements": "2023-06-11T04:06:34.3635079+00:00",
+  "LastChanged_Achievements": "2023-06-11T05:07:26.2595621+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:08.7743101+00:00",
-  "LastUpdate_Ratings": "2023-06-11T03:58:57.5467198+00:00",
-  "LastUpdate_Achievements": "2023-06-11T04:06:34.3636153+00:00"
+  "LastUpdate_Ratings": "2023-06-11T04:59:32.1901869+00:00",
+  "LastUpdate_Achievements": "2023-06-11T05:07:26.2596867+00:00"
 }

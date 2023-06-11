@@ -15,7 +15,7 @@ Number of Ratings: 371  (23.09.2022)
 | Blood for the Blood God! | 18.00% | ~519 |
 | Friendly Fire | 16.00% | ~461 |
 | Bloodless | 16.00% | ~461 |
-| Surgical Excision | 15.00% | ~432 |
+| Surgical Excision | 15.00% | ~433 |
 | Honoured Battle-Brother | 11.00% | ~317 |
 | The Emperor Protects | 11.00% | ~317 |
 | Nemesis Master | 11.00% | ~317 |
@@ -28,11 +28,11 @@ Number of Ratings: 371  (23.09.2022)
 | A Gift Spurned | 5.00% | ~144 |
 | Daemonkeeper | 4.00% | ~115 |
 | Long Distance Call | 4.00% | ~115 |
-| Corruption Cleanser | 3.00% | ~86 |
-| Mind Like a Fortress | 3.00% | ~86 |
-| Harvest No More | 3.00% | ~86 |
-| Junk Banishment | 3.00% | ~86 |
-| Tactical Flexibility | 3.00% | ~86 |
+| Corruption Cleanser | 3.00% | ~87 |
+| Mind Like a Fortress | 3.00% | ~87 |
+| Harvest No More | 3.00% | ~87 |
+| Junk Banishment | 3.00% | ~87 |
+| Tactical Flexibility | 3.00% | ~87 |
 | Patron of Deimos | 2.00% | ~58 |
 | Exterminator | 2.00% | ~58 |
 | Preservationist | 2.00% | ~58 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,883 (Ranked 142)  
+Progressed: 2,884 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 2,873 | 0 |
 | 2023-06-09 | 2,879 | 0 |
 | 2023-06-10 | 2,882 | 0 |
-| 2023-06-11 | 2,883 | 0 |
+| 2023-06-11 | 2,884 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 257)  
 Sum: 421 (Ranked 300)  

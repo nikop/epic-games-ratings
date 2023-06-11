@@ -14,14 +14,14 @@ Number of Ratings: 98  (23.09.2022)
 | Mamma Mia! | 36.00% | ~2,218 |
 | Gabriele D'Annunzio | 32.00% | ~1,972 |
 | Silver Lining | 28.00% | ~1,725 |
-| Aurelio Baruzzi | 22.00% | ~1,355 |
+| Aurelio Baruzzi | 22.00% | ~1,356 |
 | Veni Vidi Vici | 21.00% | ~1,294 |
 | Decimation | 20.00% | ~1,232 |
 | Donatello | 20.00% | ~1,232 |
 | Insubordination | 19.00% | ~1,171 |
 | The Italian Job | 19.00% | ~1,171 |
 | The Lion of the Isonzo | 18.00% | ~1,109 |
-| Ragazzi del '99 | 17.00% | ~1,047 |
+| Ragazzi del '99 | 17.00% | ~1,048 |
 | Thus With A Kiss | 14.00% | ~863 |
 | Dirty Dozen | 13.00% | ~801 |
 | Luigi Cadorna | 13.00% | ~801 |
@@ -31,8 +31,8 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 11.00% | ~678 |
 | The Devil's Paintbrush | 11.00% | ~678 |
 | Dante's Inferno | 10.00% | ~616 |
-| I Have the High Ground | 9.00% | ~554 |
-| Millenial | 9.00% | ~554 |
+| I Have the High Ground | 9.00% | ~555 |
+| Millenial | 9.00% | ~555 |
 | The Show Must Go On | 8.00% | ~493 |
 | Tosca | 8.00% | ~493 |
 | 12th Bottle of the Isonzo | 6.00% | ~370 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,161 (Ranked 124)  
+Progressed: 6,162 (Ranked 124)  
 Completed: 8 (0.13%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 8 (0.13%) (Ranked 160)
 | 2023-06-08 | 6,123 | 8 |
 | 2023-06-09 | 6,139 | 8 |
 | 2023-06-10 | 6,159 | 8 |
-| 2023-06-11 | 6,161 | 8 |
+| 2023-06-11 | 6,162 | 8 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 441)  
 Sum: 245 (Ranked 345)  

@@ -720,9 +720,9 @@
       "ID": "ACHV_BIGGERTHEYARE",
       "SetID": "cceobco",
       "Name": "The Bigger They Are",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHV_CHALLENGEACCEPTED",
@@ -736,9 +736,9 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHV_CITY",
@@ -824,17 +824,17 @@
       "ID": "ACHV_NANONIC1",
       "SetID": "cceobco",
       "Name": "Nanonic I",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHV_NANONIC2",
       "SetID": "cceobco",
       "Name": "Nanonic II",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHV_NANONIC3",
@@ -945,8 +945,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-11T04:01:07.7036014+00:00",
+  "LastChanged_Achievements": "2023-06-11T05:02:08.3674305+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.1383169+00:00",
-  "LastUpdate_Ratings": "2023-06-11T03:59:49.4324419+00:00",
-  "LastUpdate_Achievements": "2023-06-11T04:01:07.7036262+00:00"
+  "LastUpdate_Ratings": "2023-06-11T05:00:35.1689672+00:00",
+  "LastUpdate_Achievements": "2023-06-11T05:02:08.3674635+00:00"
 }

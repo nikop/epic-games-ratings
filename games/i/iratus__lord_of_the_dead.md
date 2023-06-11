@@ -8,7 +8,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | ---- | ---------- | ----- |
 | Improvement | 85.00% | ~26,975 |
 | Blood Moon | 73.00% | ~23,167 |
-| Path of the Necromancer | 65.00% | ~20,628 |
+| Path of the Necromancer | 66.00% | ~20,945 |
 | Chainbreaker - I | 60.00% | ~19,041 |
 | Cursed Creature | 57.00% | ~18,089 |
 | Extraction | 57.00% | ~18,089 |

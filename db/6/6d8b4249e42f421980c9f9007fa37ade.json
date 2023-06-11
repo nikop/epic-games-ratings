@@ -381,9 +381,9 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Epic_InnerWorld_1",
@@ -461,9 +461,9 @@
       "ID": "Epic_PickProps_50",
       "SetID": "ba1m2fc",
       "Name": "Deus Ex Machina",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Epic_Purgatory_1",
@@ -493,9 +493,9 @@
       "ID": "Epic_RustySickle_1",
       "SetID": "ba1m2fc",
       "Name": "Life Harvest",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Epic_ShellBreaking_1",
@@ -596,8 +596,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-11T04:01:05.3331842+00:00",
+  "LastChanged_Achievements": "2023-06-11T05:02:06.1171282+00:00",
   "LastUpdate_AppInfo": "2023-06-08T03:57:14.5111987+00:00",
-  "LastUpdate_Ratings": "2023-06-11T03:56:59.6786292+00:00",
-  "LastUpdate_Achievements": "2023-06-11T04:01:05.3332284+00:00"
+  "LastUpdate_Ratings": "2023-06-11T04:57:10.7294204+00:00",
+  "LastUpdate_Achievements": "2023-06-11T05:02:06.1175584+00:00"
 }

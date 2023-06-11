@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -268,9 +268,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 954,
+  "EOS_Progressed": 955,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -848,6 +848,11 @@
       "Time": "2023-06-11T03:28:18.060828+00:00",
       "NumProgressed": 954,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-11T05:07:22.1326244+00:00",
+      "NumProgressed": 955,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -859,7 +864,7 @@
       "Name": "Demigod",
       "Percentage": 76,
       "XP": 150,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "DieInPermadeath",
@@ -875,7 +880,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "Finish5SideMissions",
@@ -883,7 +888,7 @@
       "Name": "Helping Hand",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "FinishAllSideMissions",
@@ -891,7 +896,7 @@
       "Name": "Paragon",
       "Percentage": 63,
       "XP": 70,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "GatlingVsArmor",
@@ -915,7 +920,7 @@
       "Name": "Born to Drift",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "KillWithALargeShip",
@@ -931,7 +936,7 @@
       "Name": "Mastery of Combat",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "MasteryOfRites",
@@ -955,7 +960,7 @@
       "Name": "The Crimson Void",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -963,7 +968,7 @@
       "Name": "Retaliate",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "MissionAncientRitual",
@@ -979,7 +984,7 @@
       "Name": "Uneasy Alliance",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "MissionDefenderOfTheWeak",
@@ -1035,7 +1040,7 @@
       "Name": "Cult Slayer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -1059,7 +1064,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1075,7 +1080,7 @@
       "Name": "Shields Down",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "MissionScavengingJob",
@@ -1083,7 +1088,7 @@
       "Name": "Another Life",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "MissionShipyard",
@@ -1139,7 +1144,7 @@
       "Name": "Radiation Area",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "RiteOfControl",
@@ -1163,15 +1168,15 @@
       "Name": "Two Birds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "RiteOfTheStorm",
       "SetID": "a6c395p",
       "Name": "It Was An Accident",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 372
     },
     {
       "ID": "UseRepairDrones",
@@ -1202,15 +1207,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 954,
+      "Progressed": 955,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-06-11T04:06:30.5153383+00:00",
+  "LastChanged_Achievements": "2023-06-11T05:07:22.1326238+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:30.4477649+00:00",
-  "LastUpdate_Ratings": "2023-06-11T04:00:12.9496945+00:00",
-  "LastUpdate_Achievements": "2023-06-11T04:06:30.5153685+00:00"
+  "LastUpdate_Ratings": "2023-06-11T05:01:02.7712027+00:00",
+  "LastUpdate_Achievements": "2023-06-11T05:07:22.1327129+00:00"
 }

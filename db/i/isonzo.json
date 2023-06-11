@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -628,7 +628,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6161,
+  "EOS_Progressed": 6162,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -2508,6 +2508,11 @@
       "Time": "2023-06-11T02:33:20.0595666+00:00",
       "NumProgressed": 6161,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-11T05:03:36.6689807+00:00",
+      "NumProgressed": 6162,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2527,7 +2532,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -2655,7 +2660,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -2695,7 +2700,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -2727,7 +2732,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -2878,7 +2883,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6161,
+      "Progressed": 6162,
       "Completed": 8
     }
   ],
@@ -2886,8 +2891,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-10T21:57:23.9166861+00:00",
-  "LastChanged_Achievements": "2023-06-11T04:03:18.0749196+00:00",
+  "LastChanged_Achievements": "2023-06-11T05:03:36.6689801+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-11T03:57:27.6708172+00:00",
-  "LastUpdate_Achievements": "2023-06-11T04:03:18.0749544+00:00"
+  "LastUpdate_Ratings": "2023-06-11T04:57:43.664428+00:00",
+  "LastUpdate_Achievements": "2023-06-11T05:03:36.6690477+00:00"
 }

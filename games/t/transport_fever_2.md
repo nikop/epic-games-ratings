@@ -24,7 +24,7 @@ Number of Ratings: 180  (23.09.2022)
 | Settled down | 48.00% | ~605 |
 | First electric train arrived | 47.00% | ~592 |
 | First ship arrived | 46.00% | ~580 |
-| Now what? | 45.00% | ~567 |
+| Now what? | 46.00% | ~580 |
 | High speed | 43.00% | ~542 |
 | Transport shark | 40.00% | ~504 |
 | First aircraft arrived | 40.00% | ~504 |
@@ -38,8 +38,8 @@ Number of Ratings: 180  (23.09.2022)
 | The king of the sea | 28.00% | ~353 |
 | Transport tycoon | 24.00% | ~302 |
 | Climate change | 23.00% | ~290 |
+| The ugly smell of success | 23.00% | ~290 |
 | Old timer | 22.00% | ~277 |
-| The ugly smell of success | 22.00% | ~277 |
 | Heavily loaded | 20.00% | ~252 |
 | Bob Ross | 16.00% | ~202 |
 | Campaign expert | 11.00% | ~139 |

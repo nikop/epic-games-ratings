@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1362,
+  "EOS_Progressed": 1363,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2981,6 +2981,11 @@
       "Time": "2023-06-11T02:36:51.3180643+00:00",
       "NumProgressed": 1362,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T05:07:15.9064351+00:00",
+      "NumProgressed": 1363,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3000,7 +3005,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "angelpower",
@@ -3024,7 +3029,7 @@
       "Name": "Background Story",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "beastwarmachines",
@@ -3128,7 +3133,7 @@
       "Name": "Enchanting skill",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "enchantingskillx5",
@@ -3288,7 +3293,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "lockandload",
@@ -3304,7 +3309,7 @@
       "Name": "Master Enchanter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "mastery",
@@ -3336,7 +3341,7 @@
       "Name": "Missions Dedication",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "movinguptheladder",
@@ -3448,7 +3453,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "thealchemist",
@@ -3494,9 +3499,9 @@
       "ID": "theunstoppable",
       "SetID": "3nl4bcg",
       "Name": "The Unstoppable",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 164
     },
     {
       "ID": "titanpower",
@@ -3552,7 +3557,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "warmachinesarmy",
@@ -3568,7 +3573,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "whatliesbehindthebush",
@@ -3591,7 +3596,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1362,
+      "Progressed": 1363,
       "Completed": 1
     }
   ],
@@ -3599,8 +3604,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-11T04:06:24.750825+00:00",
+  "LastChanged_Achievements": "2023-06-11T05:07:15.9064345+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-11T03:58:08.1060245+00:00",
-  "LastUpdate_Achievements": "2023-06-11T04:06:24.7508983+00:00"
+  "LastUpdate_Ratings": "2023-06-11T04:58:32.1193342+00:00",
+  "LastUpdate_Achievements": "2023-06-11T05:07:15.9065602+00:00"
 }

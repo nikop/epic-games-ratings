@@ -30,9 +30,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | The best strikes are the ones we avoid | 1.00% | ~179 |
 | Scareless | 0.80% | ~5,669 |
 | Kung-Fu Tussle | 0.80% | ~5,669 |
-| Dance of the Praying Mantis | 0.70% | ~4,960 |
-| Qi Gong: Mind | 0.70% | ~4,960 |
-| I know Kung-Fu | 0.70% | ~4,960 |
+| Dance of the Praying Mantis | 0.70% | ~4,961 |
+| Qi Gong: Mind | 0.70% | ~4,961 |
+| I know Kung-Fu | 0.70% | ~4,961 |
 | Muk Yan Master | 0.60% | ~4,252 |
 | Deadly Venom | 0.60% | ~108 |
 | A Touch of Acumen | 0.60% | ~108 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~709 |
 | Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,639 (Ranked 16)  
+Progressed: 708,648 (Ranked 16)  
 Completed: 12,765 (1.80%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 12,765 (1.80%) (Ranked 71)
 | 2023-06-08 | 708,100 | 12,763 |
 | 2023-06-09 | 708,330 | 12,764 |
 | 2023-06-10 | 708,593 | 12,764 |
-| 2023-06-11 | 708,639 | 12,765 |
+| 2023-06-11 | 708,648 | 12,765 |
 ## Awards
 Max (Great Boss Battles): 6,159  (Ranked 52)  
 Sum: 10,507 (Ranked 78)  

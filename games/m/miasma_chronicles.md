@@ -9,7 +9,7 @@ Rating: 4.29 (Ranked 771)
 | Ranidaphobia | 75.00% | ~817 |
 | Aspiring Editor | 73.00% | ~795 |
 | Gun for Hire | 67.00% | ~730 |
-| I am the law! | 59.00% | ~643 |
+| I am the law! | 60.00% | ~653 |
 | Lumberjack | 46.00% | ~501 |
 | Croaked | 41.00% | ~446 |
 | Limp Richard | 41.00% | ~446 |
@@ -31,7 +31,7 @@ Rating: 4.29 (Ranked 771)
 | There Can Be Only One! | 20.00% | ~218 |
 | Experienced | 19.00% | ~207 |
 | Hold The Line | 18.00% | ~196 |
-| Endgame | 16.00% | ~174 |
+| Endgame | 17.00% | ~185 |
 | Savior | 16.00% | ~174 |
 | The Watchers | 15.00% | ~163 |
 | Newtonian Knockout | 14.00% | ~152 |

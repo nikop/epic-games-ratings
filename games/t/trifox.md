@@ -7,10 +7,10 @@
 | What is this? | 71.00% | ~61 |
 | Complete Level 1-1 | 64.00% | ~55 |
 | Immortal | 55.00% | ~47 |
-| Complete Level 1-2 | 47.00% | ~40 |
-| Scraping by | 34.00% | ~29 |
+| Complete Level 1-2 | 48.00% | ~41 |
+| Scraping by | 35.00% | ~30 |
 | Engineer-mage hybrid | 33.00% | ~28 |
-| Complete Level 1-3 | 30.00% | ~26 |
+| Complete Level 1-3 | 31.00% | ~27 |
 | Defeat the warrior boss | 23.00% | ~20 |
 | Get out of my way | 21.00% | ~18 |
 | Redecorator | 20.00% | ~17 |
@@ -31,11 +31,11 @@
 | Complete Level 3-3 | 8.00% | ~7 |
 | Mage-warrior hybrid | 8.00% | ~7 |
 | Party popper | 8.00% | ~7 |
+| Mage specialist | 7.00% | ~6 |
 | Way of the mage | 7.00% | ~6 |
 | Defeat the mage boss | 6.00% | ~5 |
 | Remote retrieved | 6.00% | ~5 |
 | Engineer specialist | 6.00% | ~5 |
-| Mage specialist | 6.00% | ~5 |
 | Way of the engineer | 6.00% | ~5 |
 | Warrior specialist | 5.00% | ~4 |
 | The True Trifox | 5.00% | ~4 |
