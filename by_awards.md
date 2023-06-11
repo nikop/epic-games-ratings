@@ -29,7 +29,7 @@
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,497 | 4.36 | 719 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 12,258 | 4.60 | 386 |
 | 29 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,115 | 4.42 | 656 |
-| 30 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 11,943 | 4.24 | 800 |
+| 30 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 12,014 | 4.24 | 800 |
 | 31 | [NBA 2K21](games/n/nba_2k21.md) | 11,683 | 4.39 | 694 |
 | 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,578 | 4.87 | 26 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,266 | 4.69 | 217 |
@@ -91,7 +91,7 @@
 | 89 | [Hades](games/h/hades.md) | 3,105 | 4.92 | 4 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,750 | 4.67 | 257 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,509 | 4.61 | 359 |
-| 92 | [RAGE 2](games/r/rage_2.md) | 2,472 | 4.28 | 779 |
+| 92 | [RAGE 2](games/r/rage_2.md) | 2,472 | 4.28 | 780 |
 | 93 | [Among Us](games/a/among_us.md) | 2,456 | 4.57 | 441 |
 | 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,427 | 4.50 | 547 |
 | 95 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,387 | 4.79 | 90 |
@@ -134,7 +134,7 @@
 | 132 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,101 | 4.78 | 100 |
 | 133 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,062 | 4.61 | 359 |
 | 134 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,048 | 4.66 | 277 |
-| 135 | [Saints Row](games/s/saints_row.md) | 1,035 | 3.78 | 930 |
+| 135 | [Saints Row](games/s/saints_row.md) | 1,037 | 3.78 | 930 |
 | 136 | [EVE Online](games/e/eve_online.md) | 1,026 | 4.25 | 793 |
 | 137 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 811 |
 | 138 | [Ooblets](games/o/ooblets.md) | 1,009 | 4.87 | 26 |
@@ -215,11 +215,11 @@
 | 213 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 357 | 4.62 | 346 |
 | 214 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 347 | 4.32 | 751 |
 | 215 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 345 | 4.60 | 386 |
-| 216 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 339 | 4.71 | 179 |
+| 216 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 341 | 4.71 | 179 |
 | 217 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 337 | 4.85 | 40 |
 | 218 | [The Sims™ 4](games/t/the_sims™_4.md) | 335 | 4.61 | 359 |
-| 219 | [Inscryption](games/i/inscryption.md) | 332 | 4.86 | 30 |
-| 219 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 332 | 4.76 | 118 |
+| 219 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 334 | 4.76 | 118 |
+| 220 | [Inscryption](games/i/inscryption.md) | 332 | 4.86 | 30 |
 | 221 | [Tannenberg](games/t/tannenberg.md) | 326 | 4.39 | 694 |
 | 222 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 325 | 3.93 | 914 |
 | 222 | [Dungeons 3](games/d/dungeons_3.md) | 325 | 4.65 | 297 |
@@ -254,7 +254,7 @@
 | 252 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 217 | 4.58 | 422 |
 | 252 | [Old World](games/o/old_world.md) | 217 | 4.65 | 297 |
 | 254 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 215 | 4.84 | 51 |
-| 255 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 213 | 4.61 | 359 |
+| 255 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 214 | 4.61 | 359 |
 | 256 | [Crying Suns](games/c/crying_suns.md) | 210 | 4.50 | 547 |
 | 257 | [Sunless Sea](games/s/sunless_sea.md) | 209 | 4.58 | 422 |
 | 257 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 209 | 4.58 | 422 |
@@ -269,7 +269,7 @@
 | 267 | [Crashlands](games/c/crashlands.md) | 190 | 4.66 | 277 |
 | 268 | [Unrailed!](games/u/unrailed!.md) | 188 | 4.64 | 313 |
 | 269 | [shapez](games/s/shapez.md) | 186 | 4.72 | 168 |
-| 270 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 184 | 4.51 | 530 |
+| 270 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 185 | 4.51 | 530 |
 | 271 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 182 | 4.63 | 333 |
 | 272 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 181 | 4.64 | 313 |
 | 273 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 180 | 4.07 | 887 |
@@ -277,7 +277,7 @@
 | 274 | [Severed Steel](games/s/severed_steel.md) | 176 | 4.68 | 238 |
 | 276 | [Pinball FX](games/p/pinball_fx.md) | 175 | 4.04 | 894 |
 | 277 | [Space Punks](games/s/space_punks.md) | 173 | 4.16 | 854 |
-| 277 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 779 |
+| 277 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 780 |
 | 277 | [The Witness](games/t/the_witness.md) | 173 | 4.70 | 194 |
 | 280 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 719 |
 | 281 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 166 | 4.65 | 297 |
@@ -302,7 +302,7 @@
 | 300 | [Encased](games/e/encased.md) | 132 | 4.35 | 728 |
 | 301 | [Star Stable Online](games/s/star_stable_online.md) | 131 | 4.42 | 656 |
 | 302 | [Alien: Isolation](games/a/alien__isolation.md) | 130 | 4.61 | 359 |
-| 303 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 125 | 4.28 | 779 |
+| 303 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 125 | 4.28 | 780 |
 | 304 | [Timberborn](games/t/timberborn.md) | 124 | 4.72 | 168 |
 | 305 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 123 | 4.20 | 825 |
 | 306 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 121 | 4.85 | 40 |
