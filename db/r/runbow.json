@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244588,
+  "EOS_Progressed": 244589,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
@@ -4884,6 +4884,11 @@
       "Time": "2023-06-11T02:36:44.1115364+00:00",
       "NumProgressed": 244588,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T03:28:03.232549+00:00",
+      "NumProgressed": 244589,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -5199,7 +5204,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51363
+      "UsersEstimate": 51364
     },
     {
       "ID": "thunderstruck",
@@ -5215,7 +5220,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 31796
+      "UsersEstimate": 31797
     },
     {
       "ID": "treeMedalist",
@@ -5262,7 +5267,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 244588,
+      "Progressed": 244589,
       "Completed": 2
     }
   ],
@@ -5270,8 +5275,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-11T02:36:44.1115358+00:00",
+  "LastChanged_Achievements": "2023-06-11T03:28:03.2325484+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:32.8770125+00:00",
-  "LastUpdate_Ratings": "2023-06-11T02:29:31.1321392+00:00",
-  "LastUpdate_Achievements": "2023-06-11T02:36:44.1115858+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:20:53.3653344+00:00",
+  "LastUpdate_Achievements": "2023-06-11T03:28:03.2326279+00:00"
 }

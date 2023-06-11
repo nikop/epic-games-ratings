@@ -37,8 +37,8 @@
 | You are no match for me, Billy! | 35.00% | ~25 |
 | I'm going to get a concussion | 35.00% | ~25 |
 | You can't stop me, bro! | 35.00% | ~25 |
+| A Megapint...? | 31.00% | ~22 |
 | Meatballs, coming up! | 29.00% | ~21 |
-| A Megapint...? | 29.00% | ~21 |
 | Another one bites the iron | 28.00% | ~20 |
 | Ripe Meat Off The Bone! | 25.00% | ~18 |
 | Hovering around | 24.00% | ~17 |
@@ -55,10 +55,10 @@
 | You're looking mozzare-hella good! | 11.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~8 |
 | Spoiler alert! | 10.00% | ~7 |
+| Ancient Ruins of Moist Overhangs | 10.00% | ~7 |
 | Timber! | 10.00% | ~7 |
 | Scrambled Eggs | 10.00% | ~7 |
 | Free Of Chains | 10.00% | ~7 |
-| Ancient Ruins of Moist Overhangs | 8.00% | ~6 |
 | Grumpy Immortal | 8.00% | ~6 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~5 |
 | Ancient Ruins of Inadequate Opportunities | 6.00% | ~4 |

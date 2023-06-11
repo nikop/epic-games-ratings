@@ -6,18 +6,18 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,002 |
-| Landlord | 30.00% | ~15,835 |
+| Lawbringer | 36.00% | ~19,004 |
+| Landlord | 30.00% | ~15,836 |
 | Bannerlord | 21.00% | ~11,085 |
 | Horde breaker | 21.00% | ~11,085 |
 | Lawmaker | 21.00% | ~11,085 |
-| Trained | 20.00% | ~10,557 |
-| The king is pleased | 17.00% | ~8,973 |
-| King Solomon | 16.00% | ~8,445 |
+| Trained | 20.00% | ~10,558 |
+| The king is pleased | 17.00% | ~8,974 |
+| King Solomon | 16.00% | ~8,446 |
 | Apple of my eye | 14.00% | ~7,390 |
 | I can do it | 14.00% | ~7,390 |
-| God of the Arena | 12.00% | ~6,334 |
-| Against all odds | 10.00% | ~5,278 |
+| God of the Arena | 12.00% | ~6,335 |
+| Against all odds | 10.00% | ~5,279 |
 | Duelist | 9.00% | ~4,751 |
 | Swordbearer | 9.00% | ~4,751 |
 | Dynasty | 8.00% | ~4,223 |
@@ -27,17 +27,17 @@ Number of Ratings: 5,603  (23.09.2022)
 | This Is Our Land | 7.00% | ~3,695 |
 | Know your enemy | 6.00% | ~3,167 |
 | Mastery | 6.00% | ~3,167 |
-| Crowdfunded | 4.00% | ~2,111 |
-| Crush your enemies | 4.00% | ~2,111 |
-| My way | 4.00% | ~2,111 |
-| Veni vidi vici | 4.00% | ~2,111 |
+| Crowdfunded | 4.00% | ~2,112 |
+| Crush your enemies | 4.00% | ~2,112 |
+| My way | 4.00% | ~2,112 |
+| Veni vidi vici | 4.00% | ~2,112 |
 | Freedom! | 3.00% | ~1,584 |
 | Entrepreneur | 2.00% | ~1,056 |
 | Long live the Empire! | 2.00% | ~1,056 |
 | Real Estate | 2.00% | ~1,056 |
 | Supreme Emperor | 1.00% | ~528 |
 | Undercover | 0.80% | ~422 |
-| Crackshot | 0.70% | ~369 |
+| Crackshot | 0.70% | ~370 |
 | Fat Cat | 0.60% | ~317 |
 | Catch | 0.50% | ~264 |
 | Slice 'n dice | 0.40% | ~211 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,784 (Ranked 79)  
+Progressed: 52,788 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 52,544 | 0 |
 | 2023-06-09 | 52,654 | 0 |
 | 2023-06-10 | 52,776 | 0 |
-| 2023-06-11 | 52,784 | 0 |
+| 2023-06-11 | 52,788 | 0 |
 ## Awards
 Max (Character Customization): 6,654  (Ranked 49)  
 Sum: 13,362 (Ranked 67)  

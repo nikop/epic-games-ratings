@@ -11,9 +11,9 @@ Rating: 4.18 (Ranked 842)
 | Paper Jams | 10.00% | ~1,499 |
 | Chew 'Em Up | 9.00% | ~1,349 |
 | Reforged | 9.00% | ~1,349 |
-| Workplace Hazard | 8.00% | ~1,199 |
-| If the SHU Fits... | 8.00% | ~1,199 |
-| Giving Back | 7.00% | ~1,049 |
+| Workplace Hazard | 8.00% | ~1,200 |
+| If the SHU Fits... | 8.00% | ~1,200 |
+| Giving Back | 7.00% | ~1,050 |
 | Get a Grip | 6.00% | ~900 |
 | Without A Paddle | 6.00% | ~900 |
 | Terminated | 5.00% | ~750 |
@@ -22,11 +22,11 @@ Rating: 4.18 (Ranked 842)
 | You Need a Gun | 4.00% | ~600 |
 | Two Heads Are Better Than One | 4.00% | ~600 |
 | Float Like A Butterfly | 4.00% | ~600 |
+| What Lies Beneath | 4.00% | ~600 |
 | Power Up | 4.00% | ~600 |
 | Instigator | 4.00% | ~117 |
 | Big Game Hunter | 4.00% | ~117 |
 | The Commonality | 3.00% | ~450 |
-| What Lies Beneath | 3.00% | ~450 |
 | Full Circle | 3.00% | ~450 |
 | Bear Trap | 3.00% | ~88 |
 | I Do Belong Here | 2.00% | ~300 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 842)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,992 (Ranked 104)  
+Progressed: 14,994 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 54 (0.36%) (Ranked 122)
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
 | 2023-06-10 | 14,984 | 54 |
-| 2023-06-11 | 14,992 | 54 |
+| 2023-06-11 | 14,994 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
 Sum: 303 (Ranked 328)  

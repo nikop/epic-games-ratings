@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1014,9 +1014,9 @@
       "ID": "POPULATION_3",
       "SetID": "44dlcg0",
       "Name": "Metropolurbek Plus",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REBELDES_1",
@@ -1207,8 +1207,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-11T02:37:01.5977337+00:00",
+  "LastChanged_Achievements": "2023-06-11T03:28:21.4748004+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:09.3377562+00:00",
-  "LastUpdate_Ratings": "2023-06-11T02:29:07.2052485+00:00",
-  "LastUpdate_Achievements": "2023-06-11T02:37:01.5978033+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:20:28.2102977+00:00",
+  "LastUpdate_Achievements": "2023-06-11T03:28:21.4749096+00:00"
 }

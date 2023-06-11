@@ -23,7 +23,7 @@
 | Relic Collector | 24.00% | ~13 |
 | Cartographer | 24.00% | ~13 |
 | Wizard Mastery | 20.00% | ~11 |
-| Rogue Mastery | 17.00% | ~9 |
+| Rogue Mastery | 19.00% | ~10 |
 | Fighter Mastery | 15.00% | ~8 |
 | Slay the Monster! | 15.00% | ~8 |
 | Gorgonslayer Mastery | 13.00% | ~7 |

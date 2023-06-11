@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -296,7 +296,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2589,
+  "EOS_Progressed": 2590,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
@@ -3151,6 +3151,11 @@
       "Time": "2023-06-11T02:36:46.5199833+00:00",
       "NumProgressed": 2589,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T03:28:05.8071711+00:00",
+      "NumProgressed": 2590,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3162,7 +3167,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -3186,7 +3191,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -3210,7 +3215,7 @@
       "Name": "Fields of Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -3290,7 +3295,7 @@
       "Name": "Skirmisher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -3314,7 +3319,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -3330,7 +3335,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3370,7 +3375,7 @@
       "Name": "Lord of War",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3498,7 +3503,7 @@
       "Name": "Change the Channel",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3729,13 +3734,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2540,
+      "Progressed": 2541,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2589,
+      "Progressed": 2590,
       "Completed": 2
     }
   ],
@@ -3743,8 +3748,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-11T02:36:46.5199824+00:00",
+  "LastChanged_Achievements": "2023-06-11T03:28:05.8071702+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-11T02:31:07.5730052+00:00",
-  "LastUpdate_Achievements": "2023-06-11T02:36:46.520048+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:22:36.4323162+00:00",
+  "LastUpdate_Achievements": "2023-06-11T03:28:05.8072745+00:00"
 }

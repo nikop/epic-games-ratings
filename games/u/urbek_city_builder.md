@@ -41,6 +41,7 @@
 | Perfect city | 0.80% | ~2 |
 | Oh, I am sad | 0.80% | ~2 |
 | Farming Frenzy | 0.80% | ~2 |
+| Metropolurbek Plus | 0.80% | ~2 |
 | Restorer | 0.80% | ~2 |
 | Welfare state | 0.80% | ~2 |
 | Anarchist paradise | 0.40% | ~1 |
@@ -51,7 +52,6 @@
 | Desert urban planner | 0.40% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.40% | ~1 |
 | I don't feel well, I have to drink a coffe | 0.40% | ~1 |
-| Metropolurbek Plus | 0.40% | ~1 |
 | City in flames | 0.40% | ~1 |
 | Restorer Plus | 0.40% | ~1 |
 | Full temperate | 0.40% | ~1 |

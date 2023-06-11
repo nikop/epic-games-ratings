@@ -71,18 +71,18 @@ Number of Ratings: 87  (23.09.2022)
 | Alchemist | 0.30% | ~2 |
 | Arcturus | 0.30% | ~0 |
 | Astrophysicist | 0.30% | ~2 |
+| Highlander | 0.30% | ~2 |
 | It's no coincidence | 0.30% | ~2 |
 | The Hare | 0.30% | ~2 |
 | The Hare with an espresso | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |
 | Urbanization Age | 0.30% | ~2 |
 | Voyager | 0.30% | ~2 |
-| Highlander | 0.10% | ~1 |
 | Forgotten | 0.00% | ~0 |
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732 (Ranked 188)  
+Progressed: 733 (Ranked 188)  
 Completed: 1 (0.14%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,6 +109,7 @@ Completed: 1 (0.14%) (Ranked 158)
 | 2023-06-08 | 729 | 1 |
 | 2023-06-09 | 731 | 1 |
 | 2023-06-10 | 732 | 1 |
+| 2023-06-11 | 733 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 361)  
 Sum: 72 (Ranked 421)  

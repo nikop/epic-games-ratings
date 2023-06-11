@@ -5,16 +5,16 @@ Rating: 4.67 (Ranked 257)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,945 |
-| Mods Please Ban | 77.00% | ~17,575 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,347 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,662 |
+| Eye Scream, You Scream | 83.00% | ~18,946 |
+| Mods Please Ban | 77.00% | ~17,576 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,348 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,663 |
 | First Bounty Down | 59.00% | ~13,467 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,010 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,011 |
 | Luglox Genocide | 43.00% | ~9,815 |
-| Playing Card To Get | 33.00% | ~7,532 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,532 |
-| Creature Feature | 29.00% | ~6,619 |
+| Playing Card To Get | 33.00% | ~7,533 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,533 |
+| Creature Feature | 29.00% | ~6,620 |
 | Satisfied Gus-tomer | 28.00% | ~6,391 |
 | Cold-Blooded Driller | 28.00% | ~6,391 |
 | Are You Packin'? | 25.00% | ~5,706 |
@@ -27,7 +27,7 @@ Rating: 4.67 (Ranked 257)
 | Who's The Boss? | 20.00% | ~4,565 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,565 |
 | Self-Actualization | 19.00% | ~4,337 |
-| Legendary Bounty Hunter | 18.00% | ~4,108 |
+| Legendary Bounty Hunter | 18.00% | ~4,109 |
 | Seeing All The Sights | 16.00% | ~3,652 |
 | Carried Stan's Load To Completion | 13.00% | ~2,967 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,739 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 257)
 | Epic Legendary Prize | 1.00% | ~228 |
 | A Starfish Is Born | 1.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,825 (Ranked 94)  
+Progressed: 22,826 (Ranked 94)  
 Completed: 8 (0.04%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 8 (0.04%) (Ranked 186)
 | 2023-06-08 | 22,810 | 8 |
 | 2023-06-09 | 22,818 | 8 |
 | 2023-06-10 | 22,825 | 8 |
+| 2023-06-11 | 22,826 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

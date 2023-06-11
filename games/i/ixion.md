@@ -5,11 +5,11 @@ Rating: 4.57 (Ranked 443)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 16.00% | ~411 |
+| Wakey Wakey | 16.00% | ~412 |
 | Sputnik 2049 | 14.00% | ~360 |
 | Without Breaking Some Eggs... | 13.00% | ~334 |
 | Infinite Growth... | 13.00% | ~334 |
-| Ready for a New World | 9.00% | ~231 |
+| Ready for a New World | 9.00% | ~232 |
 | Space Society | 8.00% | ~206 |
 | A Thousand Strong | 8.00% | ~206 |
 | Permanent Redesigns | 7.00% | ~180 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 443)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,571 (Ranked 147)  
+Progressed: 2,573 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 2,515 | 0 |
 | 2023-06-09 | 2,541 | 0 |
 | 2023-06-10 | 2,570 | 0 |
-| 2023-06-11 | 2,571 | 0 |
+| 2023-06-11 | 2,573 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

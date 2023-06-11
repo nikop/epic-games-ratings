@@ -2,10 +2,10 @@
   "ID": "c4061518e37f40119b54ce93456a8ecb",
   "Name": "Return to Grace",
   "ProductSlug": "return-to-grace-92a75a",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
     "PcReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33,6 +33,11 @@
     {
       "Time": "2023-06-07T23:04:24.5694162+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T03:26:01.1331192+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -99,9 +104,9 @@
       "ID": "ACH_Beacon",
       "SetID": "aao9n96",
       "Name": "This means something",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CastDevice",
@@ -155,9 +160,9 @@
       "ID": "ACH_EscapeTrap",
       "SetID": "aao9n96",
       "Name": "they\u0027ll never take... OUR FREEDOM!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_Everett",
@@ -203,7 +208,7 @@
       "ID": "ACH_Inukshuk",
       "SetID": "aao9n96",
       "Name": "Please send me a sign",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -235,7 +240,7 @@
       "ID": "ACH_MoonSurface",
       "SetID": "aao9n96",
       "Name": "Not all those who wander are lost",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -251,9 +256,9 @@
       "ID": "ACH_QuestionControl",
       "SetID": "aao9n96",
       "Name": "Frankly, my dear, I don\u0027t give a damn",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ResetRelay",
@@ -324,13 +329,13 @@
     {
       "ID": "aao9n96",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-06-11T02:34:45.9795651+00:00",
+  "LastChanged_Achievements": "2023-06-11T03:26:01.1331185+00:00",
   "LastUpdate_AppInfo": "2023-06-06T15:56:55.6615256+00:00",
-  "LastUpdate_Ratings": "2023-06-11T02:27:05.9059801+00:00",
-  "LastUpdate_Achievements": "2023-06-11T02:34:45.9795858+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:18:19.4744304+00:00",
+  "LastUpdate_Achievements": "2023-06-11T03:26:01.1331568+00:00"
 }

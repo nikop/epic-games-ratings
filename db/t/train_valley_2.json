@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -271,9 +271,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 732,
+  "EOS_Progressed": 733,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -460,6 +460,11 @@
     {
       "Time": "2023-06-10T19:03:53.0192582+00:00",
       "NumProgressed": 732,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T03:25:01.2839043+00:00",
+      "NumProgressed": 733,
       "NumCompleted": 1
     }
   ],
@@ -686,9 +691,9 @@
       "ID": "AchievementHighlander",
       "SetID": "76o014g",
       "Name": "Highlander",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchievementIndividualDelivery",
@@ -1071,21 +1076,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 732,
+      "Progressed": 733,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-10T08:57:46.2173648+00:00",
-  "LastChanged_Achievements": "2023-06-11T02:33:48.6171844+00:00",
+  "LastChanged_Achievements": "2023-06-11T03:25:01.2839036+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:37.4072923+00:00",
-  "LastUpdate_Ratings": "2023-06-11T02:27:32.4034734+00:00",
-  "LastUpdate_Achievements": "2023-06-11T02:33:48.6172477+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:18:47.2066825+00:00",
+  "LastUpdate_Achievements": "2023-06-11T03:25:01.284001+00:00"
 }

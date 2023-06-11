@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -400,9 +400,9 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_01",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Moist Overhangs",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_02",
@@ -552,9 +552,9 @@
       "ID": "DRUNK_1",
       "SetID": "9gfkh7c",
       "Name": "A Megapint...?",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "DRUNK_2",
@@ -983,8 +983,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-06-11T02:36:50.7799983+00:00",
+  "LastChanged_Achievements": "2023-06-11T03:28:10.873343+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:10.7227783+00:00",
-  "LastUpdate_Ratings": "2023-06-11T02:27:06.3694799+00:00",
-  "LastUpdate_Achievements": "2023-06-11T02:36:50.7800762+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:18:19.9114952+00:00",
+  "LastUpdate_Achievements": "2023-06-11T03:28:10.8734547+00:00"
 }

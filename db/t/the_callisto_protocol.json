@@ -596,7 +596,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14992,
+  "EOS_Progressed": 14994,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 1,
@@ -3486,6 +3486,11 @@
       "Time": "2023-06-11T02:34:36.3500402+00:00",
       "NumProgressed": 14992,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-11T03:25:51.0585987+00:00",
+      "NumProgressed": 14994,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3513,7 +3518,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3641,7 +3646,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3697,7 +3702,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "STORY_HABITAT",
@@ -3719,9 +3724,9 @@
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 600
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -3816,13 +3821,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14992,
+      "Progressed": 14994,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2918,
+      "Progressed": 2920,
       "Completed": 29
     }
   ],
@@ -3830,8 +3835,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T02:27:59.3497514+00:00",
-  "LastChanged_Achievements": "2023-06-11T02:34:36.3500394+00:00",
+  "LastChanged_Achievements": "2023-06-11T03:25:51.0585981+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-11T02:27:59.3497519+00:00",
-  "LastUpdate_Achievements": "2023-06-11T02:34:36.350079+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:19:17.8772006+00:00",
+  "LastUpdate_Achievements": "2023-06-11T03:25:51.0586592+00:00"
 }

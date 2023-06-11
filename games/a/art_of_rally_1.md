@@ -7,9 +7,9 @@ Number of Ratings: 56  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | light attack | 96.00% | ~9,708 |
-| keep it tidy | 77.00% | ~7,786 |
+| keep it tidy | 77.00% | ~7,787 |
 | podium | 72.00% | ~7,281 |
-| medium attack | 59.00% | ~5,966 |
+| medium attack | 59.00% | ~5,967 |
 | brail | 56.00% | ~5,663 |
 | good drivers have dead flies on the side windows | 40.00% | ~4,045 |
 | grocery-getter | 39.00% | ~3,944 |
@@ -17,16 +17,16 @@ Number of Ratings: 56  (23.09.2022)
 | food tour: pasta | 26.00% | ~2,629 |
 | to finish first, first you must finish | 21.00% | ~2,124 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,124 |
-| autopilot | 20.00% | ~2,022 |
-| turbo | 20.00% | ~2,022 |
+| autopilot | 20.00% | ~2,023 |
+| turbo | 20.00% | ~2,023 |
 | food tour: pretzel | 19.00% | ~1,921 |
 | bicycle race | 15.00% | ~1,517 |
 | car wash | 14.00% | ~1,416 |
 | monster | 14.00% | ~1,416 |
 | perkele | 13.00% | ~1,315 |
 | the artist | 13.00% | ~1,315 |
-| night ride | 12.00% | ~1,213 |
-| snorkel | 12.00% | ~1,213 |
+| night ride | 12.00% | ~1,214 |
+| snorkel | 12.00% | ~1,214 |
 | where is the stage? | 11.00% | ~1,112 |
 | maximum attack | 11.00% | ~1,112 |
 | espresso | 10.00% | ~1,011 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,112 (Ranked 111)  
+Progressed: 10,113 (Ranked 111)  
 Completed: 9 (0.09%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 9 (0.09%) (Ranked 170)
 | 2023-06-07 | 10,099 | 9 |
 | 2023-06-09 | 10,105 | 9 |
 | 2023-06-10 | 10,111 | 9 |
-| 2023-06-11 | 10,112 | 9 |
+| 2023-06-11 | 10,113 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

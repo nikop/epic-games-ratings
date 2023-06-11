@@ -11,7 +11,7 @@
 | Champion of Kalevala | 8.00% | ~16 |
 | Death is Merely a Setback | 8.00% | ~16 |
 | Third Shard | 8.00% | ~16 |
-| Berry Nice | 6.00% | ~12 |
+| Berry Nice | 7.00% | ~14 |
 | Keyu Exterminator | 6.00% | ~12 |
 | Fourth Shard | 6.00% | ~12 |
 | Fifth Shard | 6.00% | ~12 |

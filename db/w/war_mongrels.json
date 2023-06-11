@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 339,
+  "EOS_Progressed": 340,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -756,6 +756,11 @@
       "Time": "2023-06-10T20:03:40.3010663+00:00",
       "NumProgressed": 339,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T03:24:49.3795941+00:00",
+      "NumProgressed": 340,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -869,9 +874,9 @@
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_COLL_20",
@@ -879,23 +884,23 @@
       "Name": "Prospector",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_COLL_ALL",
       "SetID": "1j25agn",
       "Name": "Treasure Hunter",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_COLL_CH01",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter I",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -991,7 +996,7 @@
       "Name": "Cowardice",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1005,9 +1010,9 @@
       "ID": "ACH_FIN_CH03",
       "SetID": "1j25agn",
       "Name": "The Motivation",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -1015,7 +1020,7 @@
       "Name": "Heroism",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -1063,7 +1068,7 @@
       "Name": "Broken Hopes",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -1079,7 +1084,7 @@
       "Name": "Atonement",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_HARD_1",
@@ -1135,7 +1140,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -1238,15 +1243,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 339,
+      "Progressed": 340,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-30T02:57:27.9814128+00:00",
-  "LastChanged_Achievements": "2023-06-11T02:33:46.6218446+00:00",
+  "LastChanged_Achievements": "2023-06-11T03:24:49.3795931+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:37.2138018+00:00",
-  "LastUpdate_Ratings": "2023-06-11T02:27:32.0638118+00:00",
-  "LastUpdate_Achievements": "2023-06-11T02:33:46.6218908+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:18:46.9466263+00:00",
+  "LastUpdate_Achievements": "2023-06-11T03:24:49.3796617+00:00"
 }
