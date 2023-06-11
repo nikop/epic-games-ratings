@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -484,9 +484,9 @@
       "ID": "ach-maxClubLevel-american",
       "SetID": "17ih7ma",
       "Name": "The Workshop",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ach-maxClubLevel-british",
@@ -677,8 +677,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:09:09.2383108+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:06:06.8150337+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.3347821+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:03:22.9580928+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:09:09.2383679+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:00:20.4224641+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:06:06.8150887+00:00"
 }

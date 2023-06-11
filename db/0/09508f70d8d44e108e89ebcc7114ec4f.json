@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 264,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.65,
   "EosHistory": [
@@ -666,9 +666,9 @@
       "ID": "big_house",
       "SetID": "ap7g2g4",
       "Name": "Big House",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "brewery",
@@ -778,17 +778,17 @@
       "ID": "mill",
       "SetID": "ap7g2g4",
       "Name": "Mill",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 211
     },
     {
       "ID": "sawmill",
       "SetID": "ap7g2g4",
       "Name": "Sawmill",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 246
     },
     {
       "ID": "seaweed_farm",
@@ -849,8 +849,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:06:46.7678208+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:03:37.8227432+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:00:23.5742254+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:06:46.767846+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:57:15.6324948+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:03:37.8227635+00:00"
 }

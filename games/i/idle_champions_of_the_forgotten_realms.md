@@ -6,26 +6,27 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,808 |
+| A Brief Tour of the Realms | 2.00% | ~1,809 |
 | Beast Intentions | 1.00% | ~904 |
 | The Cursed Farmer | 1.00% | ~904 |
 | The Mad Wizard | 1.00% | ~904 |
 | The Court of Storms | 0.90% | ~510 |
 | The Ring of Regeneration | 0.80% | ~723 |
+| Seeking Allies | 0.70% | ~633 |
 | Are Ya Chicken? | 0.70% | ~633 |
 | Beware the Jabberwock | 0.70% | ~397 |
 | Were-verpowered | 0.60% | ~543 |
-| Seeking Allies | 0.60% | ~543 |
 | Mad Cow Disease | 0.60% | ~543 |
 | Friendly Imps | 0.60% | ~543 |
 | Coasting to the Finish | 0.60% | ~340 |
-| Checkmate | 0.50% | ~283 |
-| Vecna Out! | 0.50% | ~283 |
+| Checkmate | 0.50% | ~284 |
+| Vecna Out! | 0.50% | ~284 |
 | A Persistent Buzzing | 0.50% | ~452 |
 | Terror in the Dark | 0.50% | ~452 |
+| Unearthed Evil | 0.50% | ~452 |
 | The Crumbling Temple | 0.50% | ~452 |
 | Pure Energy | 0.50% | ~452 |
-| Quick or Quack | 0.50% | ~283 |
+| Quick or Quack | 0.50% | ~284 |
 | Maddening | 0.40% | ~362 |
 | Owlbear Necessities | 0.40% | ~227 |
 | Best Thay Ever | 0.40% | ~227 |
@@ -33,7 +34,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.40% | ~362 |
 | A Mysterious Summons | 0.40% | ~362 |
 | Building Trust | 0.40% | ~362 |
-| Unearthed Evil | 0.40% | ~362 |
 | Useless Allies | 0.40% | ~362 |
 | Exploring Port Nyanzaru | 0.40% | ~362 |
 | Running of the Saurs | 0.40% | ~362 |
@@ -217,6 +217,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreams of Beholders | 0.20% | ~181 |
 | Waterdeep Under Siege | 0.20% | ~181 |
 | Crowded Streets | 0.20% | ~181 |
+| Patience is Key | 0.20% | ~181 |
 | The Darkness Runs Deeper | 0.20% | ~181 |
 | Troublesome Prisoner | 0.20% | ~181 |
 | Dark Doppelgangers | 0.20% | ~181 |
@@ -402,7 +403,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Meepo's Quest | 0.10% | ~90 |
 | She's Harmless! | 0.10% | ~90 |
 | The Tallest of Kobolds | 0.10% | ~57 |
-| Patience is Key | 0.10% | ~90 |
 | Faerûn's Most Wanted | 0.10% | ~57 |
 | Vault of Pixies | 0.10% | ~90 |
 | Vault of Poison | 0.10% | ~90 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,422 (Ranked 64)  
+Progressed: 90,430 (Ranked 64)  
 Completed: 1,927 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 1,927 (2.13%) (Ranked 66)
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
-| 2023-06-11 | 90,422 | 1,927 |
+| 2023-06-11 | 90,430 | 1,927 |
 ## Awards
 Max (Diverse Characters): 4,928  (Ranked 64)  
 Sum: 30,075 (Ranked 37)  

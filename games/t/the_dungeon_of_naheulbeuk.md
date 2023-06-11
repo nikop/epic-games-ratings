@@ -36,8 +36,8 @@ Number of Ratings: 118  (23.09.2022)
 | The Great Library | 28.00% | ~18 |
 | Cursed die | 27.00% | ~17 |
 | The beards of change | 25.00% | ~16 |
+| The Blood Countess | 23.00% | ~15 |
 | The Woman in the High Castle | 22.00% | ~14 |
-| The Blood Countess | 22.00% | ~14 |
 | In Navalu's footsteps | 22.00% | ~14 |
 | Urik's Depths | 20.00% | ~13 |
 | Law and Order | 20.00% | ~13 |

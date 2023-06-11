@@ -4222,9 +4222,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90422,
+  "EOS_Progressed": 90430,
   "EOS_Completed": 1927,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9537,6 +9537,11 @@
       "Time": "2023-06-11T13:09:14.6582992+00:00",
       "NumProgressed": 90422,
       "NumCompleted": 1927
+    },
+    {
+      "Time": "2023-06-11T14:06:12.4176536+00:00",
+      "NumProgressed": 90430,
+      "NumCompleted": 1927
     }
   ],
   "TotalAchievements": 493,
@@ -9548,7 +9553,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "objective_completed_10",
@@ -10420,7 +10425,7 @@
       "Name": "Checkmate",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "objective_completed_1204",
@@ -10436,7 +10441,7 @@
       "Name": "Vecna Out!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "objective_completed_1209",
@@ -10874,9 +10879,9 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 452
     },
     {
       "ID": "objective_completed_20",
@@ -11338,9 +11343,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 543
+      "UsersEstimate": 633
     },
     {
       "ID": "objective_completed_390",
@@ -11898,9 +11903,9 @@
       "ID": "objective_completed_57",
       "SetID": "cc37lbc",
       "Name": "Patience is Key",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_completed_570",
@@ -13484,28 +13489,28 @@
       "Name": "Quick or Quack",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56696,
+      "Progressed": 56704,
       "Completed": 2785
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90422,
+      "Progressed": 90430,
       "Completed": 1927
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-10T22:57:45.4027598+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:09:14.6582985+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:06:12.4176532+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:01:13.6001654+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:09:14.6610999+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:58:07.2840962+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:06:12.4201299+00:00"
 }

@@ -418,9 +418,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 8221,
+  "EOS_Progressed": 8227,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4253,6 +4253,11 @@
       "Time": "2023-06-11T13:06:31.8426733+00:00",
       "NumProgressed": 8221,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-06-11T14:03:22.7084235+00:00",
+      "NumProgressed": 8227,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 34,
@@ -4272,7 +4277,7 @@
       "Name": "Running Rampant",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH03",
@@ -4328,7 +4333,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH10",
@@ -4336,7 +4341,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ACH11",
@@ -4344,7 +4349,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACH12",
@@ -4360,7 +4365,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH14",
@@ -4368,7 +4373,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3291
     },
     {
       "ID": "ACH15",
@@ -4376,15 +4381,15 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH16",
       "SetID": "9llo822",
       "Name": "Keepie-Uppy Okie Dokie",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH17",
@@ -4424,7 +4429,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3538
     },
     {
       "ID": "ACH22",
@@ -4432,15 +4437,15 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "ACH23",
       "SetID": "9llo822",
       "Name": "South American Connection",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1892
     },
     {
       "ID": "ACH24",
@@ -4448,7 +4453,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "ACH25",
@@ -4456,7 +4461,7 @@
       "Name": "Chauffeur",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "ACH26",
@@ -4464,7 +4469,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "ACH27",
@@ -4480,7 +4485,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ACH29",
@@ -4488,7 +4493,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH30",
@@ -4496,7 +4501,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH31",
@@ -4512,7 +4517,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH33",
@@ -4535,7 +4540,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8221,
+      "Progressed": 8227,
       "Completed": 29
     }
   ],
@@ -4543,8 +4548,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-10T11:58:23.7824085+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:06:31.8426728+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:03:22.708423+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:01:23.5398499+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:06:31.8427222+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:58:17.4624352+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:03:22.7084724+00:00"
 }

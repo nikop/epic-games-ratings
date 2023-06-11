@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1098,9 +1098,9 @@
       "ID": "MissionSalvage",
       "SetID": "a6c395p",
       "Name": "Shields Down",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 700
     },
     {
       "ID": "MissionScavengingJob",
@@ -1210,9 +1210,9 @@
       "ID": "VisitAllLocations",
       "SetID": "a6c395p",
       "Name": "Space Traveler",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 748
+      "UsersEstimate": 758
     },
     {
       "ID": "WinARace",
@@ -1234,8 +1234,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:09:07.167856+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:06:04.6375219+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:30.4477649+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:02:51.3190891+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:09:07.1678931+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:59:49.3620363+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:06:04.6375605+00:00"
 }

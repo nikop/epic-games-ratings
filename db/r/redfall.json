@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1674,
+  "EOS_Progressed": 1675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1826,6 +1826,11 @@
       "Time": "2023-06-11T09:03:08.1598664+00:00",
       "NumProgressed": 1674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T14:03:31.892583+00:00",
+      "NumProgressed": 1675,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1869,7 +1874,7 @@
       "Name": "Contingency Plans",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_007",
@@ -1925,7 +1930,7 @@
       "Name": "Scream Team",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_014",
@@ -1941,7 +1946,7 @@
       "Name": "Blood Brother",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_016",
@@ -2013,7 +2018,7 @@
       "Name": "Good Morning",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_025",
@@ -2029,7 +2034,7 @@
       "Name": "Fly Fisher",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "Achievement_027",
@@ -2037,7 +2042,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "Achievement_028",
@@ -2053,7 +2058,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "Achievement_030",
@@ -2069,7 +2074,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "Achievement_032",
@@ -2149,7 +2154,7 @@
       "Name": "Empty Nest Syndrome",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_043",
@@ -2229,7 +2234,7 @@
       "Name": "Harvest\u2019s End",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_055",
@@ -2237,7 +2242,7 @@
       "Name": "Blacklight Down",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_056",
@@ -2269,7 +2274,7 @@
       "Name": "Dexterity Save",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_060",
@@ -2317,7 +2322,7 @@
       "Name": "Curious Finch",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_066",
@@ -2364,7 +2369,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1674,
+      "Progressed": 1675,
       "Completed": 0
     }
   ],
@@ -2372,8 +2377,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-05T19:58:09.7958278+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:06:41.2812819+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:03:31.8925827+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:01.2776264+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:01:03.0186561+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:06:41.2813665+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:57:56.431489+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:03:31.8926531+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 627,
+  "EOS_Progressed": 628,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -348,6 +348,11 @@
       "Time": "2023-06-11T03:28:13.4544715+00:00",
       "NumProgressed": 627,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T14:06:00.9912969+00:00",
+      "NumProgressed": 628,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -383,7 +388,7 @@
       "Name": "GOOOAAAL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "3DigitGoalTrophy",
@@ -407,7 +412,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "AhoyTrophy",
@@ -487,7 +492,7 @@
       "Name": "Existential dread",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "DropBallTrophy",
@@ -503,7 +508,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "Ext4Trophy",
@@ -639,7 +644,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "MaxPriceTrophy",
@@ -727,7 +732,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "TerrorTrophy",
@@ -790,7 +795,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 627,
+      "Progressed": 628,
       "Completed": 0
     }
   ],
@@ -798,8 +803,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:09:03.503609+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:06:00.9912963+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:26.3217944+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:01:20.6644429+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:09:03.5036594+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:58:14.79558+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:06:00.9913521+00:00"
 }

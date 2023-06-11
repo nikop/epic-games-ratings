@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 452,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -324,6 +324,11 @@
       "Time": "2023-06-11T09:05:34.4016597+00:00",
       "NumProgressed": 451,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-11T14:06:00.7434403+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -359,7 +364,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Doors_Closing",
@@ -509,9 +514,9 @@
       "ID": "Old_Friend",
       "SetID": "ek310c",
       "Name": "A Familiar Face",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "Paparazzi",
@@ -566,7 +571,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 452,
       "Completed": 5
     }
   ],
@@ -574,8 +579,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:09:03.2417745+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:06:00.7434399+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:06.3393279+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:03:19.6993883+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:09:03.241795+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:00:17.3943522+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:06:00.7434602+00:00"
 }

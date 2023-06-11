@@ -5,17 +5,17 @@ Rating: 4.18 (Ranked 842)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,103 |
-| The Outer Way | 13.00% | ~1,953 |
+| Flesh Wound | 14.00% | ~2,104 |
+| The Outer Way | 13.00% | ~1,954 |
 | Desperate Times | 12.00% | ~1,803 |
-| Paper Jams | 10.00% | ~1,502 |
-| Chew 'Em Up | 9.00% | ~1,352 |
-| Reforged | 9.00% | ~1,352 |
+| Paper Jams | 10.00% | ~1,503 |
+| Chew 'Em Up | 9.00% | ~1,353 |
+| Reforged | 9.00% | ~1,353 |
 | Workplace Hazard | 8.00% | ~1,202 |
 | If the SHU Fits... | 8.00% | ~1,202 |
 | Giving Back | 7.00% | ~1,052 |
 | Get a Grip | 7.00% | ~1,052 |
-| Without A Paddle | 6.00% | ~901 |
+| Without A Paddle | 7.00% | ~1,052 |
 | Terminated | 5.00% | ~751 |
 | Float Like A Butterfly | 5.00% | ~751 |
 | In the Pipe, Five by Five | 5.00% | ~751 |
@@ -28,13 +28,13 @@ Rating: 4.18 (Ranked 842)
 | Instigator | 4.00% | ~118 |
 | Big Game Hunter | 4.00% | ~118 |
 | The Commonality | 3.00% | ~451 |
-| Bear Trap | 3.00% | ~88 |
-| I Do Belong Here | 2.00% | ~300 |
-| In Striking Distance | 2.00% | ~300 |
-| Mugshot | 2.00% | ~300 |
+| Bear Trap | 3.00% | ~89 |
+| I Do Belong Here | 2.00% | ~301 |
+| In Striking Distance | 2.00% | ~301 |
+| Mugshot | 2.00% | ~301 |
 | Big Spender | 2.00% | ~59 |
-| Parole Denied | 1.00% | ~29 |
-| Hoard Mode | 1.00% | ~29 |
+| Parole Denied | 1.00% | ~30 |
+| Hoard Mode | 1.00% | ~30 |
 | Grim Reaper | 0.80% | ~120 |
 | Recidivist | 0.70% | ~21 |
 | Lifer | 0.70% | ~21 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 842)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,023 (Ranked 104)  
+Progressed: 15,029 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 54 (0.36%) (Ranked 123)
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
 | 2023-06-10 | 14,984 | 54 |
-| 2023-06-11 | 15,023 | 54 |
+| 2023-06-11 | 15,029 | 54 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 385)  
 Sum: 304 (Ranked 328)  

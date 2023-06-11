@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 94.00% | ~317 |
-| Terminated I | 78.00% | ~263 |
-| Challenge Accepted | 77.00% | ~259 |
-| Nanonic I | 74.00% | ~249 |
-| Unlocked and Loaded | 71.00% | ~239 |
-| Terminated II | 60.00% | ~202 |
-| The City | 42.00% | ~142 |
-| Terminated III | 36.00% | ~121 |
-| Challenge Mastered | 35.00% | ~118 |
-| Rookie | 32.00% | ~108 |
-| Nanonic II | 31.00% | ~104 |
-| Supply Run | 21.00% | ~71 |
-| Nanonic III | 18.00% | ~61 |
-| Starship Docks | 16.00% | ~54 |
-| Cybernetic | 14.00% | ~47 |
-| The Bigger They Are | 13.00% | ~44 |
-| Up Close And Personal | 13.00% | ~44 |
-| Eden Heights | 11.00% | ~37 |
+| Augmented | 94.00% | ~324 |
+| Terminated I | 79.00% | ~273 |
+| Challenge Accepted | 78.00% | ~269 |
+| Nanonic I | 74.00% | ~255 |
+| Unlocked and Loaded | 72.00% | ~248 |
+| Terminated II | 59.00% | ~204 |
+| The City | 43.00% | ~148 |
+| Terminated III | 36.00% | ~124 |
+| Challenge Mastered | 35.00% | ~121 |
+| Rookie | 32.00% | ~110 |
+| Nanonic II | 30.00% | ~104 |
+| Supply Run | 21.00% | ~72 |
+| Nanonic III | 17.00% | ~59 |
+| Starship Docks | 16.00% | ~55 |
+| Cybernetic | 14.00% | ~48 |
+| Up Close And Personal | 13.00% | ~45 |
+| The Bigger They Are | 12.00% | ~41 |
+| Eden Heights | 11.00% | ~38 |
 | Outer Core | 7.00% | ~24 |
-| Inner Core | 4.00% | ~13 |
-| Trickshot | 4.00% | ~13 |
+| Trickshot | 5.00% | ~17 |
+| Inner Core | 4.00% | ~14 |
 | Fully Modded | 3.00% | ~10 |
 | Integration | 3.00% | ~10 |
 | Destruction | 2.00% | ~7 |
@@ -33,7 +33,7 @@
 | Cyborg | 0.30% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 337 (Ranked 223)  
+Progressed: 345 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 231 | 0 |
 | 2023-06-09 | 281 | 0 |
 | 2023-06-10 | 321 | 0 |
-| 2023-06-11 | 337 | 0 |
+| 2023-06-11 | 345 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

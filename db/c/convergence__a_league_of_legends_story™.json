@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 656,
+  "EOS_Progressed": 657,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1179,6 +1179,11 @@
       "Time": "2023-06-11T08:06:26.5511757+00:00",
       "NumProgressed": 656,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T14:05:20.1948286+00:00",
+      "NumProgressed": 657,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -1260,9 +1265,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     },
     {
       "ID": "CultivairChests1",
@@ -1372,9 +1377,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     },
     {
       "ID": "LacunaCompleted",
@@ -1604,23 +1609,23 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 656,
+      "Progressed": 657,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:08:24.3305821+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:05:20.1948281+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:02:21.0451722+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:08:24.330638+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:59:17.7249024+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:05:20.1948816+00:00"
 }

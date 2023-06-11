@@ -6,23 +6,23 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 42.00% | ~181 |
-| Grand Opening | 38.00% | ~164 |
-| Circus Electrique Proudly Presents... | 38.00% | ~164 |
-| Path of Learning | 38.00% | ~164 |
+| Self Defense | 42.00% | ~182 |
+| Grand Opening | 38.00% | ~165 |
+| Circus Electrique Proudly Presents... | 38.00% | ~165 |
+| Path of Learning | 37.00% | ~160 |
 | Built in a Day | 31.00% | ~134 |
 | More Brain Than Brawn | 27.00% | ~117 |
 | Perfect Illusion | 21.00% | ~91 |
 | Hundred Percent First | 21.00% | ~91 |
-| Fan Service | 17.00% | ~73 |
-| Dirty Dozen | 17.00% | ~73 |
+| Fan Service | 17.00% | ~74 |
+| Dirty Dozen | 17.00% | ~74 |
 | Lion Tamer | 16.00% | ~69 |
-| King of District 1 | 14.00% | ~60 |
-| Amazing! | 14.00% | ~60 |
-| Lucky Day | 13.00% | ~56 |
-| Bar Brawler | 13.00% | ~56 |
+| King of District 1 | 14.00% | ~61 |
+| Amazing! | 14.00% | ~61 |
 | Flawless Presentation | 13.00% | ~56 |
 | One More Thing... | 12.00% | ~52 |
+| Lucky Day | 12.00% | ~52 |
+| Bar Brawler | 12.00% | ~52 |
 | King of District 2 | 12.00% | ~52 |
 | Time Travel! | 10.00% | ~43 |
 | Marketing Manager | 9.00% | ~39 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432 (Ranked 207)  
+Progressed: 433 (Ranked 207)  
 Completed: 1 (0.23%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 1 (0.23%) (Ranked 141)
 | 2023-06-07 | 429 | 1 |
 | 2023-06-09 | 431 | 1 |
 | 2023-06-10 | 432 | 1 |
+| 2023-06-11 | 433 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

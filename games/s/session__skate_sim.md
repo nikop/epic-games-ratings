@@ -24,6 +24,7 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 5.00% | ~119 |
 | Fulfilled the dream | 5.00% | ~119 |
 | G'Day Mate! | 5.00% | ~119 |
+| Purple passion | 5.00% | ~119 |
 | Squad goals | 5.00% | ~119 |
 | Sup widdit big dog! | 5.00% | ~119 |
 | Tight lipslides | 5.00% | ~119 |
@@ -34,7 +35,6 @@ Number of Ratings: 111  (23.09.2022)
 | Lines for days | 4.00% | ~95 |
 | Manny Destroys All | 4.00% | ~95 |
 | NAHELL! | 4.00% | ~95 |
-| Purple passion | 4.00% | ~95 |
 | Renaissance man | 4.00% | ~95 |
 | Tank commander | 4.00% | ~95 |
 | Cops called! | 3.00% | ~71 |

@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 422,
+  "EOS_Progressed": 423,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -467,6 +467,11 @@
       "Time": "2023-06-11T09:03:35.355624+00:00",
       "NumProgressed": 422,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-11T14:03:59.8804149+00:00",
+      "NumProgressed": 423,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -478,7 +483,7 @@
       "Name": "All Set Up",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "booty_call",
@@ -502,7 +507,7 @@
       "Name": "Digital Casanova",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "hold_my_beer",
@@ -518,7 +523,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "interrogation",
@@ -542,7 +547,7 @@
       "Name": "Not Alone",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "nueva_beginnings",
@@ -550,15 +555,15 @@
       "Name": "Nueva Beginnings",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "only_thyme_will_tell",
       "SetID": "c4ipj3h",
       "Name": "Only Thyme Will Tell",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 127
     },
     {
       "ID": "planting_the_seed",
@@ -597,7 +602,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 422,
+      "Progressed": 423,
       "Completed": 4
     }
   ],
@@ -605,8 +610,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:07:08.1404101+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:03:59.880414+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.5548432+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:01:16.1714519+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:07:08.1404249+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:58:10.0454079+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:03:59.8804309+00:00"
 }

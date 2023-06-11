@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 268,
+  "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135,
+  "EOS_Progressed": 136,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -538,6 +538,11 @@
       "Time": "2023-06-10T07:03:16.8152991+00:00",
       "NumProgressed": 135,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T14:03:38.6038495+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -563,7 +568,7 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
       "UsersEstimate": 94
     },
@@ -643,9 +648,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 92
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -677,7 +682,7 @@
       "Name": "Modern Player",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ETUA_NightmareOver",
@@ -757,7 +762,7 @@
       "Name": "Safe...For now?",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ETUA_StayDead",
@@ -853,7 +858,7 @@
       "Name": "What A Mansion",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ETUA_WhatHaveIDone",
@@ -868,7 +873,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 135,
+      "Progressed": 136,
       "Completed": 1
     }
   ],
@@ -876,8 +881,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:06:47.447396+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:03:38.6038491+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:13.6620801+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:00:31.0905777+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:06:47.447453+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:57:22.9644162+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:03:38.6038841+00:00"
 }

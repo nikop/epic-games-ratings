@@ -23,17 +23,17 @@ Rating: 4.57 (Ranked 443)
 | Exceeding Capacity | 4.00% | ~103 |
 | Please Make it Stop! | 4.00% | ~103 |
 | Man's Best Friend | 3.00% | ~77 |
+| Sightseeing | 3.00% | ~77 |
 | Power Outage | 3.00% | ~77 |
 | Access Granted | 3.00% | ~77 |
 | Necessary Enhancement | 3.00% | ~77 |
 | Convenient Transport | 3.00% | ~77 |
+| From the Past | 3.00% | ~77 |
 | Oats | 2.00% | ~52 |
 | What They Hide From Us | 2.00% | ~52 |
-| Sightseeing | 2.00% | ~52 |
 | In Dolos We Trust | 2.00% | ~52 |
 | BRAWL! | 2.00% | ~52 |
 | All in Good Health | 2.00% | ~52 |
-| From the Past | 2.00% | ~52 |
 | What the Ruins Teach Us | 2.00% | ~52 |
 | Mutual Loyalty | 1.00% | ~26 |
 | ...  in a finite world | 1.00% | ~26 |

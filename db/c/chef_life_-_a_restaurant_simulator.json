@@ -2,9 +2,9 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -1456,9 +1456,9 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 62
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -1737,8 +1737,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:06:41.7676607+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:03:32.4210927+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.9705413+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:01:29.962947+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:06:41.7677005+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:58:24.9086137+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:03:32.4211311+00:00"
 }

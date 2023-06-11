@@ -5,28 +5,28 @@ Rating: 4.54 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,568 |
-| Before the Downfall | 93.00% | ~17,621 |
-| Money like Water | 91.00% | ~17,242 |
-| Minimalist | 90.00% | ~17,052 |
-| Builder | 82.00% | ~15,537 |
-| Eraser | 70.00% | ~13,263 |
-| Pocket of Trains | 65.00% | ~12,316 |
-| Inspector | 59.00% | ~11,179 |
-| Going the Distance | 54.00% | ~10,231 |
-| Oil Baron | 42.00% | ~7,958 |
-| Loads-a-Money | 42.00% | ~7,958 |
-| Helper of the People | 39.00% | ~7,389 |
-| Simplification | 34.00% | ~6,442 |
+| Trevithick's Legacy | 98.00% | ~18,570 |
+| Before the Downfall | 93.00% | ~17,623 |
+| Money like Water | 91.00% | ~17,244 |
+| Minimalist | 90.00% | ~17,054 |
+| Builder | 82.00% | ~15,538 |
+| Eraser | 70.00% | ~13,264 |
+| Pocket of Trains | 65.00% | ~12,317 |
+| Inspector | 59.00% | ~11,180 |
+| Going the Distance | 54.00% | ~10,232 |
+| Oil Baron | 42.00% | ~7,959 |
+| Loads-a-Money | 42.00% | ~7,959 |
+| Helper of the People | 39.00% | ~7,390 |
+| Simplification | 34.00% | ~6,443 |
 | Box of Trains | 33.00% | ~6,253 |
-| Let There be Light | 32.00% | ~6,063 |
-| Hot Water | 30.00% | ~5,684 |
+| Let There be Light | 32.00% | ~6,064 |
+| Hot Water | 30.00% | ~5,685 |
 | Indecisive | 29.00% | ~5,495 |
 | The scenic route | 27.00% | ~5,116 |
 | Industrialist | 25.00% | ~4,737 |
 | Perfectionist | 23.00% | ~4,358 |
 | Trains over Pipes | 23.00% | ~4,358 |
-| 8K is Enough for Everyone | 22.00% | ~4,168 |
+| 8K is Enough for Everyone | 22.00% | ~4,169 |
 | Man of Steel | 16.00% | ~3,032 |
 | Room Full of Trains | 12.00% | ~2,274 |
 | Investor | 9.00% | ~1,705 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 489)
 | Overdeer | 0.50% | ~95 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,947 (Ranked 99)  
+Progressed: 18,949 (Ranked 99)  
 Completed: 30 (0.16%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 30 (0.16%) (Ranked 152)
 | 2023-06-08 | 18,895 | 30 |
 | 2023-06-09 | 18,911 | 30 |
 | 2023-06-10 | 18,937 | 30 |
-| 2023-06-11 | 18,947 | 30 |
+| 2023-06-11 | 18,949 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 344)  
 Sum: 650 (Ranked 276)  

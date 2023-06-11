@@ -3744,10 +3744,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 6535,
       "NumberOfAwardsMax": 777
+    },
+    {
+      "Time": "2023-06-11T13:57:48.7537016+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6536,
+      "NumberOfAwardsMax": 777
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6535,
+  "NumberOfAwards": 6536,
   "NumberOfAwardsMax": 777,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3797,7 +3803,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 582
+      "Count": 583
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3837,9 +3843,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-06-11T08:57:28.6871382+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:08:34.6345847+00:00",
+  "LastChanged": "2023-06-11T13:57:48.7537015+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:05:30.6943597+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:50.4628553+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:00:54.8907518+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:08:34.6345881+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:57:48.7537021+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:05:30.694363+00:00"
 }

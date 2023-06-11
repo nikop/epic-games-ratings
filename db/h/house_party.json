@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5525,
+  "EOS_Progressed": 5526,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -2431,6 +2431,11 @@
       "Time": "2023-06-11T13:07:08.5607359+00:00",
       "NumProgressed": 5525,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-11T14:04:00.6424186+00:00",
+      "NumProgressed": 5526,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -2618,7 +2623,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "GoodRiddance",
@@ -2810,7 +2815,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "SmellBlood",
@@ -2993,21 +2998,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2564,
+      "Progressed": 2565,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5525,
+      "Progressed": 5526,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-11T13:07:08.5607355+00:00",
+  "LastChanged_Achievements": "2023-06-11T14:04:00.6424182+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:26.4905309+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:00:38.5447389+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:07:08.5608196+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:57:31.007214+00:00",
+  "LastUpdate_Achievements": "2023-06-11T14:04:00.6425011+00:00"
 }
