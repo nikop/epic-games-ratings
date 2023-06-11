@@ -5,31 +5,31 @@ Rating: 4.64 (Ranked 313)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,313 |
-| Mainframe Hacker | 47.00% | ~3,167 |
-| Tomorrow Never Dyes | 47.00% | ~3,167 |
-| The Spy who eliminated me | 47.00% | ~3,167 |
-| Never Say Loser Again | 41.00% | ~2,763 |
-| For your Eyes only | 39.00% | ~2,628 |
-| From the Vault with Love | 37.00% | ~2,493 |
-| Tailor-Made | 37.00% | ~2,493 |
-| Fully Decked Out | 35.00% | ~2,359 |
-| You Only Live Twice | 32.00% | ~2,156 |
-| A view to Win | 28.00% | ~1,887 |
-| Smells Like Trouble | 26.00% | ~1,752 |
-| Private Collection | 25.00% | ~1,685 |
-| Hostile Takeover | 25.00% | ~1,685 |
-| Assistant Accountant | 24.00% | ~1,617 |
-| The Living Portrait | 24.00% | ~1,617 |
-| My Motto, My Creed | 24.00% | ~1,617 |
-| Killer Looks | 24.00% | ~1,617 |
-| Keycards Royale | 23.00% | ~1,550 |
-| Dr. No Kill | 23.00% | ~1,550 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,315 |
+| Mainframe Hacker | 47.00% | ~3,169 |
+| Tomorrow Never Dyes | 47.00% | ~3,169 |
+| The Spy who eliminated me | 47.00% | ~3,169 |
+| Never Say Loser Again | 41.00% | ~2,764 |
+| For your Eyes only | 39.00% | ~2,629 |
+| From the Vault with Love | 37.00% | ~2,495 |
+| Tailor-Made | 37.00% | ~2,495 |
+| Fully Decked Out | 35.00% | ~2,360 |
+| You Only Live Twice | 32.00% | ~2,157 |
+| A view to Win | 28.00% | ~1,888 |
+| Private Collection | 25.00% | ~1,686 |
+| Hostile Takeover | 25.00% | ~1,686 |
+| Smells Like Trouble | 25.00% | ~1,686 |
+| Assistant Accountant | 24.00% | ~1,618 |
+| The Living Portrait | 24.00% | ~1,618 |
+| My Motto, My Creed | 24.00% | ~1,618 |
+| Killer Looks | 24.00% | ~1,618 |
+| Keycards Royale | 23.00% | ~1,551 |
+| Dr. No Kill | 23.00% | ~1,551 |
 | In It to Win It | 22.00% | ~1,483 |
 | Security Supervisor | 10.00% | ~674 |
-| Social of Solace | 9.00% | ~607 |
 | License to Thrill | 8.00% | ~539 |
-| Safe Withdrawal | 6.00% | ~404 |
+| Social of Solace | 8.00% | ~539 |
+| Safe Withdrawal | 6.00% | ~405 |
 | Live and let lie | 5.00% | ~337 |
 | Call Me Maybe | 5.00% | ~337 |
 | PHD in VIP | 4.00% | ~270 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 313)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,739 (Ranked 119)  
+Progressed: 6,742 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 6,671 | 0 |
 | 2023-06-09 | 6,697 | 0 |
 | 2023-06-10 | 6,727 | 0 |
-| 2023-06-11 | 6,739 | 0 |
+| 2023-06-11 | 6,742 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

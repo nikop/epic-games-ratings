@@ -13,28 +13,29 @@
 | Rail Rat | 6.00% | ~39 |
 | Make Up For Lost Time | 6.00% | ~39 |
 | Time Flies | 6.00% | ~39 |
+| The Harder They Fall | 6.00% | ~39 |
 | No, Thanks! | 6.00% | ~39 |
 | Breaking Down Barriers | 6.00% | ~39 |
 | The Prince in Heels | 6.00% | ~39 |
+| The Brass Boss | 6.00% | ~39 |
 | Like Clockwork | 5.00% | ~33 |
 | Street Style | 5.00% | ~33 |
 | The Betrayer | 5.00% | ~33 |
 | The Man Who Shattered Time | 5.00% | ~33 |
 | The Loose Cannon | 5.00% | ~33 |
-| The Harder They Fall | 5.00% | ~33 |
 | The Wicked Twins | 5.00% | ~33 |
+| Honest Mistake | 5.00% | ~33 |
 | Golem Chaser | 5.00% | ~33 |
 | Fast Learner | 5.00% | ~33 |
 | Check Your Pulse | 5.00% | ~33 |
 | Immaculate Aim | 5.00% | ~33 |
-| The Brass Boss | 5.00% | ~33 |
 | The Family Fortune | 5.00% | ~33 |
 | Chaincrawler Explorer | 4.00% | ~26 |
 | Right On Time | 4.00% | ~26 |
 | Family Memories | 4.00% | ~26 |
-| Honest Mistake | 4.00% | ~26 |
 | Ask Questions Later | 4.00% | ~26 |
 | Sartorialist | 3.00% | ~20 |
+| Factorywood Explorer | 3.00% | ~20 |
 | Whiz Kid | 3.00% | ~20 |
 | Sump Explorer | 3.00% | ~20 |
 | Syron for Hope | 3.00% | ~20 |
@@ -44,7 +45,6 @@
 | Clovemary for Remembering | 2.00% | ~13 |
 | Cultivair Explorer | 2.00% | ~13 |
 | Entresol Explorer | 2.00% | ~13 |
-| Factorywood Explorer | 2.00% | ~13 |
 | Fairgrounds Explorer | 2.00% | ~13 |
 | Golem Hunter | 2.00% | ~13 |
 | Rungs Was Right | 2.00% | ~13 |

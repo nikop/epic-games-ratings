@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.71,
+  "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -704,6 +704,11 @@
       "Time": "2023-06-11T16:03:40.9989628+00:00",
       "NumProgressed": 283,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T18:03:38.540409+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -715,15 +720,15 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 80,
-      "UsersEstimate": 127
+      "UsersEstimate": 125
     },
     {
       "ID": "completeact3",
@@ -755,7 +760,7 @@
       "Name": "Truthseeker",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "scoreminrankrb2",
@@ -763,7 +768,7 @@
       "Name": "Freedom",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "scoreminrankrf1",
@@ -827,14 +832,14 @@
       "Name": "Friendzone",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 2
     }
   ],
@@ -842,8 +847,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:04:09.6366182+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:03:38.5404083+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:06.7741113+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:59:04.4040122+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:04:09.6366343+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:58:31.8723065+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:03:38.5404234+00:00"
 }

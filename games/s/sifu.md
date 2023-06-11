@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~723 |
-| Project Arena | 3.00% | ~542 |
+| Diligence as a goal | 4.00% | ~724 |
+| Project Arena | 3.00% | ~543 |
 | The Old Grandmaster | 1.00% | ~7,088 |
 | The Assault | 1.00% | ~7,088 |
 | The Hateful Pole Fighter | 1.00% | ~7,088 |
@@ -30,12 +30,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | The best strikes are the ones we avoid | 1.00% | ~181 |
 | Scareless | 0.80% | ~5,670 |
 | Kung-Fu Tussle | 0.80% | ~5,670 |
-| Dance of the Praying Mantis | 0.70% | ~4,961 |
-| Qi Gong: Mind | 0.70% | ~4,961 |
-| I know Kung-Fu | 0.70% | ~4,961 |
+| Dance of the Praying Mantis | 0.70% | ~4,962 |
+| Qi Gong: Mind | 0.70% | ~4,962 |
+| I know Kung-Fu | 0.70% | ~4,962 |
 | Muk Yan Master | 0.60% | ~4,253 |
-| Deadly Venom | 0.60% | ~108 |
-| A Touch of Acumen | 0.60% | ~108 |
+| Deadly Venom | 0.60% | ~109 |
+| A Touch of Acumen | 0.60% | ~109 |
 | Tiger on Fire | 0.50% | ~3,544 |
 | Source of Flying Daggers | 0.50% | ~3,544 |
 | Iron Money | 0.50% | ~3,544 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.20% | ~1,418 |
 | Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,778 (Ranked 16)  
+Progressed: 708,787 (Ranked 16)  
 Completed: 12,766 (1.80%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 12,766 (1.80%) (Ranked 71)
 | 2023-06-08 | 708,100 | 12,763 |
 | 2023-06-09 | 708,330 | 12,764 |
 | 2023-06-10 | 708,593 | 12,764 |
-| 2023-06-11 | 708,778 | 12,766 |
+| 2023-06-11 | 708,787 | 12,766 |
 ## Awards
 Max (Great Boss Battles): 6,159  (Ranked 52)  
 Sum: 10,514 (Ranked 78)  

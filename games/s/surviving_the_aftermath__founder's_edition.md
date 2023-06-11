@@ -6,14 +6,14 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,510 |
+| First Step | 71.00% | ~4,511 |
 | Leader | 61.00% | ~3,875 |
 | Explorer | 53.00% | ~3,367 |
 | Healer | 53.00% | ~3,367 |
-| Aspiring Inventor | 45.00% | ~2,858 |
+| Aspiring Inventor | 45.00% | ~2,859 |
 | Adventurer | 42.00% | ~2,668 |
 | Famous Healer | 38.00% | ~2,414 |
-| Local Leader | 35.00% | ~2,223 |
+| Local Leader | 35.00% | ~2,224 |
 | New Opportunities | 34.00% | ~2,160 |
 | Famous Explorer | 33.00% | ~2,096 |
 | Energized | 33.00% | ~2,096 |
@@ -27,8 +27,8 @@ Number of Ratings: 836  (23.09.2022)
 | Top Notch | 25.00% | ~1,588 |
 | Ice Lakes | 23.00% | ~1,461 |
 | Mentor | 23.00% | ~1,461 |
-| Great Leader | 22.00% | ~1,397 |
-| Real Survivor | 22.00% | ~1,397 |
+| Great Leader | 22.00% | ~1,398 |
+| Real Survivor | 22.00% | ~1,398 |
 | Merchant | 21.00% | ~1,334 |
 | War Never Changes | 19.00% | ~1,207 |
 | Rocket Surgeon | 19.00% | ~1,207 |
@@ -59,14 +59,14 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Adventurer | 1.00% | ~64 |
 | A Closer Look | 1.00% | ~64 |
 | True Survivor | 1.00% | ~64 |
-| Slimy yet Satisfying | 0.90% | ~57 |
 | Feng Shui | 0.90% | ~57 |
+| Slimy yet Satisfying | 0.80% | ~51 |
 | Finnished | 0.30% | ~19 |
 | Choo-choo! | 0.20% | ~13 |
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,352 (Ranked 123)  
+Progressed: 6,353 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 6,243 | 0 |
 | 2023-06-09 | 6,285 | 0 |
 | 2023-06-10 | 6,322 | 0 |
-| 2023-06-11 | 6,352 | 0 |
+| 2023-06-11 | 6,353 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 328)  
 Sum: 665 (Ranked 269)  

@@ -7,14 +7,14 @@ Rating: 4.67 (Ranked 257)
 | ---- | ---------- | ----- |
 | Eye Scream, You Scream | 83.00% | ~18,951 |
 | Mods Please Ban | 77.00% | ~17,581 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,352 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,667 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,353 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,668 |
 | First Bounty Down | 59.00% | ~13,471 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,014 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,015 |
 | Luglox Genocide | 43.00% | ~9,818 |
 | Playing Card To Get | 33.00% | ~7,535 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,535 |
-| Creature Feature | 29.00% | ~6,621 |
+| Creature Feature | 29.00% | ~6,622 |
 | Satisfied Gus-tomer | 28.00% | ~6,393 |
 | Cold-Blooded Driller | 28.00% | ~6,393 |
 | Are You Packin'? | 25.00% | ~5,708 |
@@ -23,9 +23,9 @@ Rating: 4.67 (Ranked 257)
 | Sweezy Like Sunday Morning | 24.00% | ~5,480 |
 | Hardest Battle In The Game | 22.00% | ~5,023 |
 | Series Wrap on Suit-O | 22.00% | ~5,023 |
-| Lezduit! | 20.00% | ~4,566 |
-| Who's The Boss? | 20.00% | ~4,566 |
-| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,566 |
+| Lezduit! | 20.00% | ~4,567 |
+| Who's The Boss? | 20.00% | ~4,567 |
+| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,567 |
 | Self-Actualization | 19.00% | ~4,338 |
 | Legendary Bounty Hunter | 18.00% | ~4,110 |
 | Seeing All The Sights | 16.00% | ~3,653 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 257)
 | Epic Legendary Prize | 1.00% | ~228 |
 | A Starfish Is Born | 1.00% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,832 (Ranked 94)  
+Progressed: 22,833 (Ranked 94)  
 Completed: 8 (0.04%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 8 (0.04%) (Ranked 186)
 | 2023-06-08 | 22,810 | 8 |
 | 2023-06-09 | 22,818 | 8 |
 | 2023-06-10 | 22,825 | 8 |
-| 2023-06-11 | 22,832 | 8 |
+| 2023-06-11 | 22,833 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

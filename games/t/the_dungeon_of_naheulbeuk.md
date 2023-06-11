@@ -18,11 +18,11 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 52.00% | ~36 |
 | Speedrun | 51.00% | ~35 |
 | Thieves' Guild Accreditation | 45.00% | ~31 |
+| I am the night | 43.00% | ~30 |
 | Team Building Exercise | 43.00% | ~30 |
 | A beer, two curses, three companions | 42.00% | ~29 |
 | The plot thickens... At the tavern | 42.00% | ~29 |
 | The Ranger of Chaos | 42.00% | ~29 |
-| I am the night | 42.00% | ~29 |
 | Dwarf Fortress | 41.00% | ~28 |
 | Look but don't touch | 39.00% | ~27 |
 | Shiny and Crôm | 36.00% | ~25 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 64,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 10.94,
   "EosHistory": [
@@ -336,9 +336,9 @@
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 165,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -360,9 +360,9 @@
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 165,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
@@ -375,8 +375,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:03:42.2279307+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:03:17.0528229+00:00",
   "LastUpdate_AppInfo": "2023-06-08T09:57:08.8988878+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:57:01.9538611+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:03:42.2279405+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:56:57.573172+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:03:17.0528336+00:00"
 }

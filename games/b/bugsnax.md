@@ -28,8 +28,8 @@ Number of Ratings: 425  (23.09.2022)
 | Midnight Snak | 36.00% | ~9,967 |
 | Candid Cryptid | 35.00% | ~9,690 |
 | Got to Catch Them All | 32.00% | ~8,859 |
+| Grab Bag | 23.00% | ~6,368 |
 | Deep Impact | 22.00% | ~6,091 |
-| Grab Bag | 22.00% | ~6,091 |
 | Feeding Frenzy | 18.00% | ~4,983 |
 | Clothesline | 16.00% | ~4,430 |
 | Say Cheese! | 15.00% | ~4,153 |

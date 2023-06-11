@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1654,
+  "EOS_Progressed": 1655,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -1468,6 +1468,11 @@
       "Time": "2023-06-11T13:06:03.6974744+00:00",
       "NumProgressed": 1654,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-11T18:00:40.4582672+00:00",
+      "NumProgressed": 1655,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1479,7 +1484,7 @@
       "Name": "Become King",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "Collect20Gold",
@@ -1543,7 +1548,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "CompleteElderFaction",
@@ -1591,7 +1596,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1623,7 +1628,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "GetTHWeapon",
@@ -1647,7 +1652,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "Kill25Mozi",
@@ -1655,7 +1660,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "MeetTheMoles",
@@ -1663,7 +1668,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "MysteryKingsChamber",
@@ -1679,7 +1684,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "RepairSmith",
@@ -1695,15 +1700,15 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "RescueBrothers",
       "SetID": "9lj35g4",
       "Name": "Rescue Redgi\u0027s Brothers",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 827
+      "UsersEstimate": 844
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1711,29 +1716,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1654,
+      "Progressed": 1655,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 295,
-      "Completed": 295
+      "Progressed": 296,
+      "Completed": 296
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-11T02:28:32.7371002+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:02:26.7224083+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:00:40.4582665+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.129082+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:58:34.7077653+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:02:26.7224568+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:58:10.8763615+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:00:40.4582936+00:00"
 }

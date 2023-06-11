@@ -12,7 +12,7 @@
 | C Rank Bug-catcher | 43.00% | ~17 |
 | Armed robbery | 35.00% | ~14 |
 | Never learn | 33.00% | ~13 |
-| B Rank Bug-catcher | 25.00% | ~10 |
+| B Rank Bug-catcher | 28.00% | ~11 |
 | Secret Admirer | 18.00% | ~7 |
 | Errorbane | 15.00% | ~6 |
 | Bugged, not stupid | 13.00% | ~5 |

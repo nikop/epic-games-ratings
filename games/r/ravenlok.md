@@ -52,11 +52,11 @@
 | Shopping Spree! | 24.00% | ~237 |
 | Crowned | 21.00% | ~207 |
 | Max Level! | 14.00% | ~138 |
-| Dance Master | 8.00% | ~79 |
+| Dance Master | 9.00% | ~89 |
 | Bombs Away! | 8.00% | ~79 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 986 (Ranked 178)  
-Completed: 68 (6.90%) (Ranked 26)  
+Completed: 69 (7.00%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,6 +105,7 @@ Completed: 68 (6.90%) (Ranked 26)
 | 2023-06-08 | 973 | 65 |
 | 2023-06-09 | 979 | 65 |
 | 2023-06-10 | 986 | 68 |
+| 2023-06-11 | 986 | 69 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

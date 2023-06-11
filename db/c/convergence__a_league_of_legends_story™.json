@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1302,9 +1302,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "FairgroundsChests1",
@@ -1446,9 +1446,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "ParryRepeated1",
@@ -1494,9 +1494,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1606,9 +1606,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1629,8 +1629,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:05:52.46192+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:05:01.5817847+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:59:45.6685794+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:05:52.4619745+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:59:02.9780896+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:05:01.5818311+00:00"
 }

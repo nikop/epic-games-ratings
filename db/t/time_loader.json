@@ -4,8 +4,8 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.84,
+  "EOS_Completed_Percentage": 7.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -76,6 +76,11 @@
       "Time": "2023-06-04T14:05:15.0299593+00:00",
       "NumProgressed": 102,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-11T18:05:28.746779+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 29,
@@ -101,7 +106,7 @@
       "ID": "03_Cassette",
       "SetID": "681m9fa",
       "Name": "Cassette",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 22
     },
@@ -157,7 +162,7 @@
       "ID": "10_Flyer",
       "SetID": "681m9fa",
       "Name": "Flyer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 18
     },
@@ -173,9 +178,9 @@
       "ID": "12_Purrfect",
       "SetID": "681m9fa",
       "Name": "Purr-fect",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "13_DrAntivirus",
@@ -197,7 +202,7 @@
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
       "UsersEstimate": 66
     },
@@ -205,7 +210,7 @@
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
       "UsersEstimate": 62
     },
@@ -229,7 +234,7 @@
       "ID": "19_Harpoon",
       "SetID": "681m9fa",
       "Name": "Harpoon",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -269,7 +274,7 @@
       "ID": "24_HereWeGoAgain",
       "SetID": "681m9fa",
       "Name": "Here we go again",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 21
     },
@@ -309,7 +314,7 @@
       "ID": "29_Act3",
       "SetID": "681m9fa",
       "Name": "Act 3",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 100,
       "UsersEstimate": 22
     }
@@ -318,7 +323,7 @@
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 8
     }
   ],
@@ -326,8 +331,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:06:25.3620832+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:05:28.7467782+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:06.9565261+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:58:05.3110416+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:06:25.3621047+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:57:48.7544899+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:05:28.7467976+00:00"
 }

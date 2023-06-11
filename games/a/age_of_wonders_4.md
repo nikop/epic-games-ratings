@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 441)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 78.00% | ~3,560 |
+| A Wonderful Discovery | 79.00% | ~3,606 |
 | Realm Estate | 76.00% | ~3,469 |
 | Secret Technique | 75.00% | ~3,423 |
 | Walls Cannot Stop Us | 73.00% | ~3,332 |

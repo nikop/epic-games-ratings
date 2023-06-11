@@ -23,8 +23,8 @@
 | Inferno Ruins | 27.00% | ~27 |
 | Topped up | 26.00% | ~26 |
 | The Ninja | 26.00% | ~26 |
+| Untouchable | 24.00% | ~24 |
 | I'm Rich | 24.00% | ~24 |
-| Untouchable | 23.00% | ~23 |
 | 1 is all I need | 21.00% | ~21 |
 | The Slime | 21.00% | ~21 |
 | The Giant | 19.00% | ~19 |
@@ -36,11 +36,11 @@
 | The Assistant | 14.00% | ~14 |
 | Ember | 14.00% | ~14 |
 | The Steampunk | 12.00% | ~12 |
+| Verse | 12.00% | ~12 |
 | The Droid | 11.00% | ~11 |
-| Verse | 11.00% | ~11 |
 | Iron | 10.00% | ~10 |
 | Tested | 10.00% | ~10 |
-| The Bomber | 8.00% | ~8 |
+| The Bomber | 9.00% | ~9 |
 | The Astronaut | 6.00% | ~6 |
 | Anvil | 5.00% | ~5 |
 | Power Overwhelming | 4.00% | ~4 |
@@ -57,6 +57,7 @@
 | Concluded | 2.00% | ~2 |
 | Divinity | 2.00% | ~2 |
 | Platinum | 2.00% | ~2 |
+| Gunpowder | 2.00% | ~2 |
 | Really Bad Luck | 1.00% | ~1 |
 | Blaze | 1.00% | ~1 |
 | Topaz | 1.00% | ~1 |
@@ -68,14 +69,13 @@
 | Sapphire | 1.00% | ~1 |
 | Hammer | 1.00% | ~1 |
 | Warp Drive Spacecraft | 1.00% | ~1 |
-| Gunpowder | 1.00% | ~1 |
+| Satellite | 1.00% | ~1 |
 | Divinity | 0.00% | ~0 |
 | Zombie Hunter | 0.00% | ~0 |
 | Encore | 0.00% | ~0 |
 | Adamantite | 0.00% | ~0 |
 | Zombie Exterminator | 0.00% | ~0 |
 | Wu-wei | 0.00% | ~0 |
-| Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 99 (Ranked 277)  

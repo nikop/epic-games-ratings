@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1372,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
@@ -3011,6 +3011,11 @@
       "Time": "2023-06-11T17:06:40.2362899+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T18:05:41.0952514+00:00",
+      "NumProgressed": 1372,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3126,7 +3131,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "dragonmaster",
@@ -3206,7 +3211,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "fourleafclover",
@@ -3324,9 +3329,9 @@
       "ID": "lockandload",
       "SetID": "3nl4bcg",
       "Name": "Lock And Load",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 41
     },
     {
       "ID": "masterenchanter",
@@ -3358,7 +3363,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "missionsdedication",
@@ -3478,7 +3483,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "thealchemist",
@@ -3582,7 +3587,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "warmachinesarmy",
@@ -3614,14 +3619,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1372,
       "Completed": 1
     }
   ],
@@ -3629,8 +3634,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:06:40.2362894+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:05:41.0952508+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:58:11.3247043+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:06:40.236448+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:57:53.4162211+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:05:41.095331+00:00"
 }

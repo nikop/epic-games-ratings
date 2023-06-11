@@ -4,7 +4,7 @@
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 129,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.88,
   "EosHistory": [
@@ -626,17 +626,17 @@
       "ID": "15K",
       "SetID": "1f269fc",
       "Name": "15K",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "1K",
       "SetID": "1f269fc",
       "Name": "1K",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "2.5K",
@@ -650,9 +650,9 @@
       "ID": "25K",
       "SetID": "1f269fc",
       "Name": "25K",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "500K",
@@ -753,8 +753,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:06:12.8134723+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:05:17.9529789+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.3101855+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:57:53.7847905+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:06:12.8134997+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:57:39.1028053+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:05:17.952994+00:00"
 }

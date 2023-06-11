@@ -4,7 +4,7 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.68,
+  "EOS_Completed_Percentage": 3.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -473,6 +473,11 @@
       "Time": "2023-06-11T09:03:19.8158269+00:00",
       "NumProgressed": 136,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-11T18:03:26.5961221+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 11,
@@ -484,7 +489,7 @@
       "Name": "Solved first case",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "1",
@@ -516,7 +521,7 @@
       "Name": "Solved fourth case",
       "Percentage": 54,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "4",
@@ -554,9 +559,9 @@
       "ID": "8",
       "SetID": "acl54ke",
       "Name": "Solved ninth case",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     },
     {
       "ID": "9",
@@ -564,29 +569,29 @@
       "Name": "Solved tenth case",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 5
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 83,
-      "Completed": 83
+      "Progressed": 84,
+      "Completed": 84
     }
   ],
   "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:03:53.9866248+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:03:26.5961212+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:02.1380523+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:58:59.4051529+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:03:53.9866385+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:58:28.6959834+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:03:26.596134+00:00"
 }

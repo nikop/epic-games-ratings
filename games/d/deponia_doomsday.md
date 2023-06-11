@@ -14,7 +14,7 @@ Rating: 4.56 (Ranked 452)
 | Chunky | 50.00% | ~182 |
 | Shall we play a game? | 48.00% | ~174 |
 | Boat of love, boat of love | 48.00% | ~174 |
-| School's out | 42.00% | ~152 |
+| School's out | 43.00% | ~156 |
 | Scaffolding Expert | 37.00% | ~134 |
 | Elysian Minigame-Master | 37.00% | ~134 |
 | Sole Music | 36.00% | ~131 |
@@ -29,8 +29,8 @@ Rating: 4.56 (Ranked 452)
 | Monstrous Harassment | 14.00% | ~51 |
 | Blast from the Past | 14.00% | ~51 |
 | Heading the inverter | 13.00% | ~47 |
+| Play it again, Ronny | 11.00% | ~40 |
 | Goat Team | 10.00% | ~36 |
-| Play it again, Ronny | 10.00% | ~36 |
 | Paradox! | 10.00% | ~36 |
 | Weapons 101 | 8.00% | ~29 |
 | Sadist | 8.00% | ~29 |

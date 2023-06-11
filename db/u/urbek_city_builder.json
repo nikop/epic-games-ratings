@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 240,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -557,6 +557,11 @@
       "Time": "2023-06-11T02:37:01.5977339+00:00",
       "NumProgressed": 238,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T18:05:48.9267768+00:00",
+      "NumProgressed": 240,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -712,7 +717,7 @@
       "Name": "I like books",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "CULTURE_2",
@@ -782,9 +787,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "FAITH_2",
@@ -872,7 +877,7 @@
       "Name": "King of fish",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "GRANJA_1",
@@ -894,9 +899,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 118
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -918,9 +923,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "MILLS",
@@ -928,7 +933,7 @@
       "Name": "Clean energy",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "MURICA_1",
@@ -950,9 +955,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1000,7 +1005,7 @@
       "Name": "Small town",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "POPULATION_2",
@@ -1184,7 +1189,7 @@
       "Name": "Soviet town",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "WELFARE_2",
@@ -1199,7 +1204,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 240,
       "Completed": 0
     }
   ],
@@ -1207,8 +1212,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:06:49.2781963+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:05:48.926776+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:09.3377562+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:59:06.7588625+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:06:49.278287+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:58:33.8075558+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:05:48.926894+00:00"
 }

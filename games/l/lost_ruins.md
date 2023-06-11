@@ -12,7 +12,7 @@
 | Trap Master | 21.00% | ~79 |
 | Artifact Collector | 20.00% | ~75 |
 | Ghost Buster | 16.00% | ~60 |
-| Reincarnation | 15.00% | ~56 |
+| Reincarnation | 16.00% | ~60 |
 | Iconoclasm | 14.00% | ~53 |
 | Gladiator | 13.00% | ~49 |
 | Librarian | 13.00% | ~49 |

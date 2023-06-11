@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -285,9 +285,9 @@
       "ID": "CLG_CHAPTER_NODAMAGE",
       "SetID": "89cjc9l",
       "Name": "Untouchable",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "CLG_CHAPTER_NODROPBALL",
@@ -389,9 +389,9 @@
       "ID": "CLG_UNLOCK_10005",
       "SetID": "89cjc9l",
       "Name": "The Bomber",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CLG_UNLOCK_10006",
@@ -789,9 +789,9 @@
       "ID": "PRG_NORMAL_10003",
       "SetID": "89cjc9l",
       "Name": "Verse",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "PRG_NORMAL_10004",
@@ -805,9 +805,9 @@
       "ID": "PRG_NORMAL_10005",
       "SetID": "89cjc9l",
       "Name": "Gunpowder",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRG_NORMAL_10006",
@@ -845,9 +845,9 @@
       "ID": "PRG_NORMAL_10010",
       "SetID": "89cjc9l",
       "Name": "Satellite",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PRG_NORMAL_ALL",
@@ -878,8 +878,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:06:51.2287134+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:05:50.4693252+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:34.9526626+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:57:35.2713649+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:06:51.2287969+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:57:24.4745155+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:05:50.4693891+00:00"
 }

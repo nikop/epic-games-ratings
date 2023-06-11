@@ -5,12 +5,12 @@ Rating: 4.57 (Ranked 441)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 16.00% | ~413 |
+| Wakey Wakey | 16.00% | ~414 |
 | Infinite Growth... | 14.00% | ~362 |
 | Sputnik 2049 | 14.00% | ~362 |
 | Without Breaking Some Eggs... | 13.00% | ~336 |
-| Space Society | 9.00% | ~232 |
-| Ready for a New World | 9.00% | ~232 |
+| Space Society | 9.00% | ~233 |
+| Ready for a New World | 9.00% | ~233 |
 | A Thousand Strong | 8.00% | ~207 |
 | Permanent Redesigns | 7.00% | ~181 |
 | Ain't Nobody Got Time for That | 7.00% | ~181 |
@@ -22,13 +22,13 @@ Rating: 4.57 (Ranked 441)
 | A Hunk of Junk | 5.00% | ~129 |
 | Exceeding Capacity | 4.00% | ~103 |
 | Please Make it Stop! | 4.00% | ~103 |
-| Man's Best Friend | 3.00% | ~77 |
-| Sightseeing | 3.00% | ~77 |
-| Power Outage | 3.00% | ~77 |
-| Access Granted | 3.00% | ~77 |
-| Necessary Enhancement | 3.00% | ~77 |
-| Convenient Transport | 3.00% | ~77 |
-| From the Past | 3.00% | ~77 |
+| Man's Best Friend | 3.00% | ~78 |
+| Sightseeing | 3.00% | ~78 |
+| Power Outage | 3.00% | ~78 |
+| Access Granted | 3.00% | ~78 |
+| Necessary Enhancement | 3.00% | ~78 |
+| Convenient Transport | 3.00% | ~78 |
+| From the Past | 3.00% | ~78 |
 | Oats | 2.00% | ~52 |
 | What They Hide From Us | 2.00% | ~52 |
 | In Dolos We Trust | 2.00% | ~52 |
@@ -48,8 +48,8 @@ Rating: 4.57 (Ranked 441)
 | Help of the Forgotten Member | 0.80% | ~21 |
 | Tiqqun Contender | 0.70% | ~18 |
 | Tiqqun Unchained | 0.70% | ~18 |
-| Gregor Spinoza | 0.60% | ~15 |
-| Scientifically Accurate | 0.60% | ~15 |
+| Gregor Spinoza | 0.60% | ~16 |
+| Scientifically Accurate | 0.60% | ~16 |
 | Better Him Than Me | 0.50% | ~13 |
 | Remember the Dead | 0.30% | ~8 |
 | Work Harder | 0.20% | ~5 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,583 (Ranked 147)  
+Progressed: 2,586 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 2,515 | 0 |
 | 2023-06-09 | 2,541 | 0 |
 | 2023-06-10 | 2,570 | 0 |
-| 2023-06-11 | 2,583 | 0 |
+| 2023-06-11 | 2,586 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

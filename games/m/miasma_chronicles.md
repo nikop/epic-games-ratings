@@ -5,18 +5,18 @@ Rating: 4.29 (Ranked 770)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~997 |
-| Ranidaphobia | 75.00% | ~822 |
-| Aspiring Editor | 72.00% | ~789 |
-| Gun for Hire | 67.00% | ~734 |
+| First Blood | 91.00% | ~998 |
+| Ranidaphobia | 75.00% | ~823 |
+| Aspiring Editor | 72.00% | ~790 |
+| Gun for Hire | 67.00% | ~735 |
 | I am the law! | 59.00% | ~647 |
-| Lumberjack | 46.00% | ~504 |
-| Croaked | 42.00% | ~460 |
-| Limp Richard | 41.00% | ~449 |
-| From Darkness to Light | 40.00% | ~438 |
-| Exorcist | 39.00% | ~427 |
-| Editor Adept | 38.00% | ~416 |
-| Firestarter | 38.00% | ~416 |
+| Lumberjack | 46.00% | ~505 |
+| Croaked | 42.00% | ~461 |
+| Limp Richard | 41.00% | ~450 |
+| From Darkness to Light | 40.00% | ~439 |
+| Exorcist | 39.00% | ~428 |
+| Editor Adept | 38.00% | ~417 |
+| Firestarter | 38.00% | ~417 |
 | Giant Killer | 36.00% | ~395 |
 | Sensei | 34.00% | ~373 |
 | The meaning of Kain | 32.00% | ~351 |
@@ -32,12 +32,12 @@ Rating: 4.29 (Ranked 770)
 | There Can Be Only One! | 20.00% | ~219 |
 | Hold The Line | 19.00% | ~208 |
 | Endgame | 17.00% | ~186 |
-| Savior | 16.00% | ~175 |
-| The Watchers | 15.00% | ~164 |
-| Newtonian Knockout | 14.00% | ~153 |
+| Savior | 16.00% | ~176 |
+| The Watchers | 15.00% | ~165 |
+| Newtonian Knockout | 14.00% | ~154 |
 | Ruthless | 12.00% | ~132 |
+| Dr Jones | 11.00% | ~121 |
 | Chaos Theory | 10.00% | ~110 |
-| Dr Jones | 10.00% | ~110 |
 | Commando | 9.00% | ~99 |
 | Chain Reaction | 8.00% | ~88 |
 | Curveball | 7.00% | ~77 |
@@ -47,8 +47,8 @@ Rating: 4.29 (Ranked 770)
 | Dressed To Kill | 4.00% | ~44 |
 | Cruelty | 2.00% | ~22 |
 | Five Finger Deathcount | 0.90% | ~10 |
+| Fratricide | 0.70% | ~8 |
 | Alpha Editor | 0.60% | ~7 |
-| Fratricide | 0.60% | ~7 |
 | QA Has Suffered! (Redux) | 0.60% | ~7 |
 | Shadow Boxin' | 0.50% | ~5 |
 | Goaaaaal! | 0.40% | ~4 |
@@ -57,7 +57,7 @@ Rating: 4.29 (Ranked 770)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,096 (Ranked 171)  
+Progressed: 1,097 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 1,062 | 0 |
 | 2023-06-09 | 1,074 | 0 |
 | 2023-06-10 | 1,089 | 0 |
-| 2023-06-11 | 1,096 | 0 |
+| 2023-06-11 | 1,097 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,14 +7,14 @@
 | All Set Up | 97.00% | ~411 |
 | Digital Casanova | 95.00% | ~403 |
 | Hold my Beer | 63.00% | ~267 |
-| Nueva Beginnings | 34.00% | ~144 |
+| Nueva Beginnings | 35.00% | ~148 |
 | We Go Again | 31.00% | ~131 |
 | Only Thyme Will Tell | 30.00% | ~127 |
 | In Contempt of Duvet | 29.00% | ~123 |
 | Not Alone | 29.00% | ~123 |
 | Booty Call | 26.00% | ~110 |
 | Planting the Seed | 21.00% | ~89 |
-| Light Sleepers | 16.00% | ~68 |
+| Light Sleepers | 17.00% | ~72 |
 | Smooth Criminal | 8.00% | ~34 |
 | Sore Loser | 7.00% | ~30 |
 | Interrogation | 4.00% | ~17 |

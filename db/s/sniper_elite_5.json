@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2653,
+  "EOS_Progressed": 2655,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3226,6 +3226,11 @@
       "Time": "2023-06-11T17:06:35.4219228+00:00",
       "NumProgressed": 2653,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T18:05:37.1836142+00:00",
+      "NumProgressed": 2655,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3301,7 +3306,7 @@
       "Name": "Organ Grinder",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3317,7 +3322,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3443,9 +3448,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 398
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3477,7 +3482,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3573,7 +3578,7 @@
       "Name": "Change the Channel",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3605,7 +3610,7 @@
       "Name": "Taking it back",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3804,13 +3809,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2604,
+      "Progressed": 2606,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2653,
+      "Progressed": 2655,
       "Completed": 2
     }
   ],
@@ -3818,8 +3823,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:06:35.4219225+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:05:37.1836135+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:00:57.9823345+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:06:35.4220071+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:59:59.9641919+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:05:37.1836911+00:00"
 }

@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 1.00% | ~904 |
 | The Cursed Farmer | 1.00% | ~904 |
 | The Mad Wizard | 1.00% | ~904 |
-| The Court of Storms | 0.90% | ~510 |
+| The Court of Storms | 0.90% | ~511 |
 | The Ring of Regeneration | 0.80% | ~724 |
 | Beware the Jabberwock | 0.80% | ~454 |
 | Seeking Allies | 0.70% | ~633 |
@@ -290,6 +290,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Battle of High Hall Tower | 0.20% | ~113 |
 | Elturel's Last Stand | 0.20% | ~113 |
 | Gargauth's Betrayal | 0.20% | ~113 |
+| Leemooggoogoon Rises | 0.20% | ~113 |
 | Ending the Rime - Part 1 | 0.20% | ~113 |
 | Ending the Rime - Part 2 | 0.20% | ~113 |
 | Reghed Glacier Mysteries | 0.20% | ~113 |
@@ -479,7 +480,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Underdark | 0.10% | ~57 |
 | Demons Here, Demons There | 0.10% | ~57 |
 | Visions of Hornfirth | 0.10% | ~57 |
-| Leemooggoogoon Rises | 0.10% | ~57 |
 | Stragglers | 0.10% | ~57 |
 | Volo's Guide to Kuo-toa | 0.10% | ~57 |
 | Ambitious Speakers - Part 1 | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,447 (Ranked 64)  
+Progressed: 90,450 (Ranked 64)  
 Completed: 1,928 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 1,928 (2.13%) (Ranked 66)
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
-| 2023-06-11 | 90,447 | 1,928 |
+| 2023-06-11 | 90,450 | 1,928 |
 ## Awards
 Max (Diverse Characters): 4,928  (Ranked 64)  
 Sum: 30,075 (Ranked 37)  

@@ -5,7 +5,7 @@ Rating: 4.52 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 75.00% | ~608 |
+| Good start | 76.00% | ~616 |
 | And so it begins | 72.00% | ~584 |
 | No pressure | 69.00% | ~560 |
 | Memento | 61.00% | ~495 |
@@ -30,7 +30,7 @@ Rating: 4.52 (Ranked 514)
 | Unstoppable | 18.00% | ~146 |
 | You're a star | 18.00% | ~146 |
 | Reunited | 17.00% | ~138 |
-| King of hospitality | 10.00% | ~81 |
+| King of hospitality | 11.00% | ~89 |
 | Top spot in town | 3.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 811 (Ranked 185)  

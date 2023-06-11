@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 639,
+  "EOS_Progressed": 640,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -884,6 +884,11 @@
       "Time": "2023-06-11T17:06:36.7787272+00:00",
       "NumProgressed": 639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T18:05:38.297491+00:00",
+      "NumProgressed": 640,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -951,7 +956,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH008",
@@ -991,7 +996,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH013",
@@ -999,7 +1004,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH014",
@@ -1015,7 +1020,7 @@
       "Name": "Groundskeeper",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH016",
@@ -1079,7 +1084,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH024",
@@ -1127,7 +1132,7 @@
       "Name": "Licence to Kill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH030",
@@ -1151,7 +1156,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH033",
@@ -1183,7 +1188,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ACH037",
@@ -1247,7 +1252,7 @@
       "Name": "Greed for gold",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH045",
@@ -1294,15 +1299,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 639,
+      "Progressed": 640,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:06:36.7787264+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:05:38.2974904+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.6076867+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:58:41.7056031+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:06:36.7787753+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:58:16.9227631+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:05:38.2975306+00:00"
 }

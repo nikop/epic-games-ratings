@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -706,9 +706,9 @@
       "ID": "ACH_BOOK_ALL",
       "SetID": "7k95e4n",
       "Name": "King of hospitality",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 81
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -850,9 +850,9 @@
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_STAR_2",
@@ -923,8 +923,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-06-11T17:06:37.7902732+00:00",
+  "LastChanged_Achievements": "2023-06-11T18:05:38.9296805+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:10.7192989+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:57:14.9609727+00:00",
-  "LastUpdate_Achievements": "2023-06-11T17:06:37.7903111+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:57:07.9947347+00:00",
+  "LastUpdate_Achievements": "2023-06-11T18:05:38.9297021+00:00"
 }
