@@ -6,7 +6,7 @@ Rating: 4.57 (Ranked 443)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 78.00% | ~3,543 |
-| Realm Estate | 75.00% | ~3,406 |
+| Realm Estate | 76.00% | ~3,452 |
 | Secret Technique | 75.00% | ~3,406 |
 | Walls Cannot Stop Us | 73.00% | ~3,316 |
 | From Friends to Family | 69.00% | ~3,134 |
@@ -31,13 +31,13 @@ Rating: 4.57 (Ranked 443)
 | God Emperor | 18.00% | ~818 |
 | Eternal Lord | 17.00% | ~772 |
 | Crimson Caldera | 17.00% | ~772 |
+| The Creator | 15.00% | ~681 |
 | Fiery Friend | 15.00% | ~681 |
 | Lord of Chaos | 14.00% | ~636 |
-| The Creator | 14.00% | ~636 |
 | The Goddess of Nature | 14.00% | ~636 |
 | The Eternal Court | 10.00% | ~454 |
+| Pruning for Progress | 10.00% | ~454 |
 | Jack of All Tomes | 9.00% | ~409 |
-| Pruning for Progress | 9.00% | ~409 |
 | I've Got Everything I Need Right Here | 7.00% | ~318 |
 | Grexolis | 5.00% | ~227 |
 | Betrayal Most Foul | 5.00% | ~227 |

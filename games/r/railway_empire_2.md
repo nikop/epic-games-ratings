@@ -43,8 +43,8 @@ Rating: 4.36 (Ranked 719)
 | Traffic Junction | 14.00% | ~153 |
 | Resistance is futile | 13.00% | ~142 |
 | Networker | 13.00% | ~142 |
+| Settler | 10.00% | ~109 |
 | Max Power | 9.00% | ~98 |
-| Settler | 9.00% | ~98 |
 | Go West | 8.00% | ~88 |
 | Bold and beautiful | 8.00% | ~88 |
 | Tycoon | 6.00% | ~66 |

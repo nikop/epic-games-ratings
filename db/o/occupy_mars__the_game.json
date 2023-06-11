@@ -120,7 +120,7 @@
   "Tags": [],
   "EOS_Progressed": 1198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2063,9 +2063,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 491
+      "UsersEstimate": 503
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2200,8 +2200,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-10T15:57:32.465601+00:00",
-  "LastChanged_Achievements": "2023-06-11T09:03:39.9980449+00:00",
+  "LastChanged_Achievements": "2023-06-11T10:03:38.1836901+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:57:14.2428823+00:00",
-  "LastUpdate_Achievements": "2023-06-11T09:03:39.9980862+00:00"
+  "LastUpdate_Ratings": "2023-06-11T09:57:20.4099924+00:00",
+  "LastUpdate_Achievements": "2023-06-11T10:03:38.1837298+00:00"
 }

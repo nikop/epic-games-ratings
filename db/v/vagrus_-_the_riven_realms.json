@@ -883,9 +883,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1068,8 +1068,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-06-11T09:05:36.4315606+00:00",
+  "LastChanged_Achievements": "2023-06-11T10:05:34.1827929+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:07.3742261+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:58:26.9963291+00:00",
-  "LastUpdate_Achievements": "2023-06-11T09:05:36.4316542+00:00"
+  "LastUpdate_Ratings": "2023-06-11T09:58:29.8167357+00:00",
+  "LastUpdate_Achievements": "2023-06-11T10:05:34.18289+00:00"
 }

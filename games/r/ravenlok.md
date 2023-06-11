@@ -17,10 +17,10 @@
 | Awakened Spirits | 49.00% | ~483 |
 | Surprise! | 44.00% | ~434 |
 | An Actor! | 44.00% | ~434 |
-| Curtain Call | 42.00% | ~414 |
+| Curtain Call | 43.00% | ~424 |
 | Piece of Cake | 40.00% | ~394 |
+| Gooey Delight! | 40.00% | ~394 |
 | Glimmer of Hope | 40.00% | ~394 |
-| Gooey Delight! | 39.00% | ~385 |
 | Teacups for Toppy | 39.00% | ~385 |
 | Well Rested | 39.00% | ~385 |
 | Nightmare Fuel | 38.00% | ~375 |

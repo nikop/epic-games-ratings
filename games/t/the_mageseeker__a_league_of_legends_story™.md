@@ -27,8 +27,8 @@ Rating: 4.80 (Ranked 79)
 | Ancient power | 23.00% | ~534 |
 | I chose my shackles | 22.00% | ~511 |
 | Sacred Woods | 21.00% | ~487 |
+| Capelworth | 21.00% | ~487 |
 | Little light | 20.00% | ~464 |
-| Capelworth | 20.00% | ~464 |
 | Iffighain Headquarters | 20.00% | ~464 |
 | Glyndemere | 19.00% | ~441 |
 | Full equipped | 19.00% | ~441 |
@@ -49,10 +49,10 @@ Rating: 4.80 (Ranked 79)
 | The end of the experiments | 10.00% | ~232 |
 | The Great City of Demacia | 10.00% | ~232 |
 | Call it 'redistribution of magic | 10.00% | ~232 |
+| Chains master | 9.00% | ~209 |
 | Truth is a dark mirror | 9.00% | ~209 |
 | Back to sleep, then... | 9.00% | ~209 |
 | Do you trust me? | 8.00% | ~186 |
-| Chains master | 8.00% | ~186 |
 | You can pet the... horse | 8.00% | ~186 |
 | Spellcrafting | 8.00% | ~186 |
 | The great mage rebellion starts now | 7.00% | ~162 |

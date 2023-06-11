@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2617,
+  "EOS_Progressed": 2620,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3186,6 +3186,11 @@
       "Time": "2023-06-11T09:05:29.6672416+00:00",
       "NumProgressed": 2617,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T10:05:27.1958169+00:00",
+      "NumProgressed": 2620,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3205,7 +3210,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -3237,7 +3242,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3253,7 +3258,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3277,7 +3282,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3317,7 +3322,7 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3333,7 +3338,7 @@
       "Name": "Sharpshooter",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -3365,7 +3370,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3397,7 +3402,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3405,7 +3410,7 @@
       "Name": "Lord of War",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3421,7 +3426,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3445,7 +3450,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3533,7 +3538,7 @@
       "Name": "Change the Channel",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3691,9 +3696,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -3764,13 +3769,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2568,
+      "Progressed": 2571,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2617,
+      "Progressed": 2620,
       "Completed": 2
     }
   ],
@@ -3778,8 +3783,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-11T09:05:29.6672412+00:00",
+  "LastChanged_Achievements": "2023-06-11T10:05:27.1958165+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:59:55.7401176+00:00",
-  "LastUpdate_Achievements": "2023-06-11T09:05:29.6673168+00:00"
+  "LastUpdate_Ratings": "2023-06-11T10:00:02.5823095+00:00",
+  "LastUpdate_Achievements": "2023-06-11T10:05:27.1958842+00:00"
 }

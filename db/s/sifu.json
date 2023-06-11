@@ -4536,7 +4536,7 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 708684,
+  "EOS_Progressed": 708692,
   "EOS_Completed": 12765,
   "EOS_NewPlayers": 1403,
   "EOS_NewCompleters": 10,
@@ -9396,6 +9396,11 @@
       "Time": "2023-06-11T09:05:38.4853096+00:00",
       "NumProgressed": 708684,
       "NumCompleted": 12765
+    },
+    {
+      "Time": "2023-06-11T10:05:36.0494619+00:00",
+      "NumProgressed": 708692,
+      "NumCompleted": 12765
     }
   ],
   "TotalAchievements": 50,
@@ -9495,7 +9500,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5669
+      "UsersEstimate": 5670
     },
     {
       "ID": "13_LowAge",
@@ -9679,7 +9684,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5669
+      "UsersEstimate": 5670
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -9751,7 +9756,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9806,21 +9811,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17985,
+      "Progressed": 17993,
       "Completed": 10257
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708684,
+      "Progressed": 708692,
       "Completed": 12765
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-11T06:59:06.3786615+00:00",
-  "LastChanged_Achievements": "2023-06-11T09:05:38.4853091+00:00",
+  "LastChanged_Achievements": "2023-06-11T10:05:36.0494615+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:58:39.7293876+00:00",
-  "LastUpdate_Achievements": "2023-06-11T09:05:38.4853674+00:00"
+  "LastUpdate_Ratings": "2023-06-11T09:58:42.3218025+00:00",
+  "LastUpdate_Achievements": "2023-06-11T10:05:36.0495197+00:00"
 }

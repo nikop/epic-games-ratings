@@ -5,20 +5,20 @@ Rating: 3.82 (Ranked 926)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~14,862 |
-| No Half Measures | 88.00% | ~13,767 |
-| Personal Matter | 87.00% | ~13,610 |
-| But You Have Heard of Me | 72.00% | ~11,264 |
-| Double the Barrels, double the Fun | 55.00% | ~8,604 |
-| Pimp My Glide | 47.00% | ~7,353 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,414 |
+| Eeligally Ambitious | 95.00% | ~14,864 |
+| No Half Measures | 88.00% | ~13,768 |
+| Personal Matter | 87.00% | ~13,612 |
+| But You Have Heard of Me | 72.00% | ~11,265 |
+| Double the Barrels, double the Fun | 55.00% | ~8,605 |
+| Pimp My Glide | 47.00% | ~7,354 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,415 |
 | House Party! | 33.00% | ~5,163 |
-| Make It Rain | 23.00% | ~3,598 |
-| Curse of the Seven Seas | 21.00% | ~3,285 |
+| Make It Rain | 23.00% | ~3,599 |
+| Curse of the Seven Seas | 21.00% | ~3,286 |
 | Head First | 15.00% | ~2,347 |
-| To the World's End | 12.00% | ~1,877 |
+| To the World's End | 12.00% | ~1,878 |
 | Table for Six | 11.00% | ~1,721 |
-| Sharing Is Caring | 10.00% | ~1,564 |
+| Sharing Is Caring | 10.00% | ~1,565 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,252 |
 | Morally Flexible | 6.00% | ~939 |
 | Fishing for Compliments | 5.00% | ~782 |
@@ -32,7 +32,7 @@ Rating: 3.82 (Ranked 926)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,644 (Ranked 100)  
+Progressed: 15,646 (Ranked 100)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 15,585 | 0 |
 | 2023-06-09 | 15,604 | 0 |
 | 2023-06-10 | 15,633 | 0 |
-| 2023-06-11 | 15,644 | 0 |
+| 2023-06-11 | 15,646 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

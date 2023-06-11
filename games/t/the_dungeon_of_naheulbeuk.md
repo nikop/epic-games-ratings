@@ -19,9 +19,9 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 50.00% | ~31 |
 | Speedrun | 50.00% | ~31 |
 | The Ranger of Chaos | 47.00% | ~29 |
+| A beer, two curses, three companions | 45.00% | ~28 |
 | I am the night | 45.00% | ~28 |
 | Team Building Exercise | 45.00% | ~28 |
-| A beer, two curses, three companions | 44.00% | ~27 |
 | The plot thickens... At the tavern | 44.00% | ~27 |
 | Dwarf Fortress | 44.00% | ~27 |
 | Look but don't touch | 44.00% | ~27 |
@@ -41,8 +41,8 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 23.00% | ~14 |
 | Urik's Depths | 21.00% | ~13 |
 | Law and Order | 21.00% | ~13 |
+| Res Judicata | 19.00% | ~12 |
 | Dead for good | 19.00% | ~12 |
-| Res Judicata | 18.00% | ~11 |
 | Necrophilia | 18.00% | ~11 |
 | Scholar of the Lands of Fangh | 16.00% | ~10 |
 | The Dungeon Master | 16.00% | ~10 |

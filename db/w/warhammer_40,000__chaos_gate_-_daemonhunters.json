@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -534,9 +534,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2885,
+  "EOS_Progressed": 2886,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1764,6 +1764,11 @@
       "Time": "2023-06-11T09:05:40.9718996+00:00",
       "NumProgressed": 2885,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T10:05:38.3776212+00:00",
+      "NumProgressed": 2886,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1791,7 +1796,7 @@
       "Name": "Look Over There!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "BloodAndIron",
@@ -1967,7 +1972,7 @@
       "Name": "Executioner",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "Kills_Exterminator",
@@ -1999,7 +2004,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "Kills_Streak",
@@ -2045,9 +2050,9 @@
       "ID": "MasterCraftLevel3_Melee",
       "SetID": "3jha1np",
       "Name": "Nemesis Master",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 289
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -2055,7 +2060,7 @@
       "Name": "Gunmaster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "MasterOfTheForge",
@@ -2246,21 +2251,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2885,
+      "Progressed": 2886,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2885,
+      "Progressed": 2886,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-07T10:59:27.9467392+00:00",
-  "LastChanged_Achievements": "2023-06-11T09:05:40.9718992+00:00",
+  "LastChanged_Achievements": "2023-06-11T10:05:38.3776209+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:59.3316653+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:58:20.5344603+00:00",
-  "LastUpdate_Achievements": "2023-06-11T09:05:40.9719464+00:00"
+  "LastUpdate_Ratings": "2023-06-11T09:58:24.0763377+00:00",
+  "LastUpdate_Achievements": "2023-06-11T10:05:38.3776756+00:00"
 }

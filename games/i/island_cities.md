@@ -17,7 +17,7 @@
 | At the heart of the city | 24.00% | ~75 |
 | Calm neighborhood | 23.00% | ~72 |
 | Elevated ring | 23.00% | ~72 |
-| Not lonely anymore | 21.00% | ~66 |
+| Not lonely anymore | 22.00% | ~69 |
 | Monumental tribute | 20.00% | ~63 |
 | The beach is right there | 19.00% | ~60 |
 | Commuting | 19.00% | ~60 |
@@ -28,7 +28,7 @@
 | Night walk along the beach | 16.00% | ~50 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 314 (Ranked 227)  
-Completed: 50 (15.92%) (Ranked 9)  
+Completed: 50 (15.92%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

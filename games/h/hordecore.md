@@ -10,8 +10,8 @@
 | Sneaky Sneak | 77.00% | ~259 |
 | Master Chef | 65.00% | ~218 |
 | Master of Cards | 59.00% | ~198 |
-| Over Nine Thousaaand | 56.00% | ~188 |
-| Getting the Hang Of This | 47.00% | ~158 |
+| Over Nine Thousaaand | 57.00% | ~192 |
+| Getting the Hang Of This | 48.00% | ~161 |
 | Collector | 29.00% | ~97 |
 | Poker-Man | 21.00% | ~71 |
 | Blow ‘Em Up | 21.00% | ~71 |

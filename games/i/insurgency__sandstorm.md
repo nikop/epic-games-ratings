@@ -1,17 +1,17 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 359)  
+Rating: 4.62 (Ranked 347)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,165 |
-| Wallbanger | 5.00% | ~19,165 |
-| Exploitative | 4.00% | ~15,332 |
-| High Speed Low Drag | 4.00% | ~15,332 |
-| Turf War | 4.00% | ~15,332 |
-| Wet Feet | 4.00% | ~15,332 |
+| Point Shooting | 5.00% | ~19,166 |
+| Wallbanger | 5.00% | ~19,166 |
+| Exploitative | 4.00% | ~15,333 |
+| High Speed Low Drag | 4.00% | ~15,333 |
+| Turf War | 4.00% | ~15,333 |
+| Wet Feet | 4.00% | ~15,333 |
 | Checkpoint Victory | 3.00% | ~11,499 |
 | Lucky | 3.00% | ~11,499 |
 | Stylin' | 3.00% | ~11,499 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Carrying | 0.90% | ~3,450 |
 | Mount & Gun | 0.90% | ~3,450 |
 | Personal | 0.90% | ~3,450 |
-| Grounded | 0.80% | ~3,066 |
-| Play to Win | 0.80% | ~3,066 |
+| Grounded | 0.80% | ~3,067 |
+| Play to Win | 0.80% | ~3,067 |
 | #1 | 0.70% | ~2,683 |
 | Special Delivery | 0.70% | ~2,683 |
 | Firefight Victory | 0.60% | ~2,300 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~383 |
 | Road Hazard | 0.10% | ~383 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383,301 (Ranked 39)  
+Progressed: 383,316 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 2 (0.00%) (Ranked 214)
 | 2023-06-08 | 381,994 | 2 |
 | 2023-06-09 | 382,511 | 2 |
 | 2023-06-10 | 383,048 | 2 |
-| 2023-06-11 | 383,301 | 2 |
+| 2023-06-11 | 383,316 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 357  (Ranked 213)  
 Sum: 2,703 (Ranked 162)  
@@ -262,4 +262,4 @@ Diff (max vs sum): 51
 | 2023-06-08 | 4.61 | - | 356 | 2,699 |
 | 2023-06-09 | 4.62 | - | 356 | 2,701 |
 | 2023-06-10 | 4.62 | - | 357 | 2,703 |
-| 2023-06-11 | 4.61 | - | 357 | 2,703 |
+| 2023-06-11 | 4.62 | - | 357 | 2,703 |

@@ -17,13 +17,13 @@
 | Overwhelming Power | 53.00% | ~78 |
 | Impenetrable Skin | 51.00% | ~75 |
 | Chomp Chomp! | 42.00% | ~62 |
-| Supreme Power | 40.00% | ~59 |
+| Supreme Power | 41.00% | ~61 |
 | Glorious Battle | 40.00% | ~59 |
 | The Duelist | 39.00% | ~58 |
 | Diaper Time! | 39.00% | ~58 |
 | Target Practice | 39.00% | ~58 |
+| Meat Larder | 37.00% | ~55 |
 | Mutant And Proud | 36.00% | ~53 |
-| Meat Larder | 36.00% | ~53 |
 | The Emperor's New Clothes | 30.00% | ~44 |
 | Godlike Power | 29.00% | ~43 |
 | Happy Little Home | 29.00% | ~43 |

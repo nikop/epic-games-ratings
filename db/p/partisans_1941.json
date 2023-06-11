@@ -2,7 +2,7 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 359,
+  "Ranking_Rating": 360,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 175,
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1015,
+  "EOS_Progressed": 1016,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1050,6 +1050,11 @@
       "Time": "2023-06-11T04:06:22.2157059+00:00",
       "NumProgressed": 1015,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T10:05:28.8179247+00:00",
+      "NumProgressed": 1016,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1173,7 +1178,7 @@
       "Name": "Grenadier",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "Hard_Serpent",
@@ -1213,7 +1218,7 @@
       "Name": "Spice It Up",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "KillAllM2",
@@ -1300,15 +1305,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1015,
+      "Progressed": 1016,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-11T09:05:31.2966972+00:00",
+  "LastChanged_Achievements": "2023-06-11T10:05:28.8179242+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:58:50.7344942+00:00",
-  "LastUpdate_Achievements": "2023-06-11T09:05:31.2967362+00:00"
+  "LastUpdate_Ratings": "2023-06-11T09:58:55.1326012+00:00",
+  "LastUpdate_Achievements": "2023-06-11T10:05:28.8179458+00:00"
 }

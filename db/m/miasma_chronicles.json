@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1091,
+  "EOS_Progressed": 1092,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1583,6 +1583,11 @@
       "Time": "2023-06-11T09:02:18.5314076+00:00",
       "NumProgressed": 1091,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T10:02:06.9502888+00:00",
+      "NumProgressed": 1092,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1610,7 +1615,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1674,7 +1679,7 @@
       "Name": "Croaked",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "CRUELTY",
@@ -1706,7 +1711,7 @@
       "Name": "Limp Richard",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1744,9 +1749,9 @@
       "ID": "ENDGAME",
       "SetID": "9a4jnji",
       "Name": "Endgame",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 186
     },
     {
       "ID": "EXORCIST",
@@ -1778,7 +1783,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1802,7 +1807,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "GIANT_KILLER",
@@ -1826,7 +1831,7 @@
       "Name": "Gun for Hire",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1834,7 +1839,7 @@
       "Name": "Hold The Line",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "IM_THE_LAW",
@@ -1898,7 +1903,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "RECYCLER",
@@ -1906,7 +1911,7 @@
       "Name": "Recycler",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "RUTHLESS",
@@ -1962,7 +1967,7 @@
       "Name": "Technophobe",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1994,14 +1999,14 @@
       "Name": "Wipe Out",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1091,
+      "Progressed": 1092,
       "Completed": 0
     }
   ],
@@ -2009,8 +2014,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-10T20:58:18.0757605+00:00",
-  "LastChanged_Achievements": "2023-06-11T09:02:18.5314072+00:00",
+  "LastChanged_Achievements": "2023-06-11T10:02:06.9502882+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:58:00.9616948+00:00",
-  "LastUpdate_Achievements": "2023-06-11T09:02:18.531447+00:00"
+  "LastUpdate_Ratings": "2023-06-11T09:58:05.2322525+00:00",
+  "LastUpdate_Achievements": "2023-06-11T10:02:06.9503292+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -271,9 +271,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 733,
+  "EOS_Progressed": 734,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -466,6 +466,11 @@
       "Time": "2023-06-11T03:25:01.2839043+00:00",
       "NumProgressed": 733,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T10:03:15.2773297+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -579,17 +584,17 @@
       "ID": "AchievementCloseCall",
       "SetID": "76o014g",
       "Name": "Close call!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 29
     },
     {
       "ID": "AchievementCommonCause",
       "SetID": "76o014g",
       "Name": "Common cause",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 29
     },
     {
       "ID": "AchievementCriticalCare",
@@ -731,9 +736,9 @@
       "ID": "AchievementItsNoCoincidence",
       "SetID": "76o014g",
       "Name": "It\u0027s no coincidence",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AchievementJeweller_NAME",
@@ -771,9 +776,9 @@
       "ID": "AchievementLargeConstruction",
       "SetID": "76o014g",
       "Name": "Large construction",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 7
     },
     {
       "ID": "AchievementLivingItLarge",
@@ -787,9 +792,9 @@
       "ID": "AchievementLuckyVandal",
       "SetID": "76o014g",
       "Name": "Lucky vandal",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 7
     },
     {
       "ID": "AchievementMegaRailroad",
@@ -915,9 +920,9 @@
       "ID": "AchievementSabotage",
       "SetID": "76o014g",
       "Name": "Sabotage",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 7
     },
     {
       "ID": "AchievementSpaceAge",
@@ -1027,9 +1032,9 @@
       "ID": "AchievementVandal",
       "SetID": "76o014g",
       "Name": "Vandal",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 7
     },
     {
       "ID": "AchievementVostok_NAME",
@@ -1076,21 +1081,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 733,
+      "Progressed": 734,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-10T08:57:46.2173648+00:00",
-  "LastChanged_Achievements": "2023-06-11T09:03:17.7812889+00:00",
+  "LastChanged_Achievements": "2023-06-11T10:03:15.2773292+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:37.4072923+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:57:19.2967667+00:00",
-  "LastUpdate_Achievements": "2023-06-11T09:03:17.7813493+00:00"
+  "LastUpdate_Ratings": "2023-06-11T09:57:25.0700235+00:00",
+  "LastUpdate_Achievements": "2023-06-11T10:03:15.2773937+00:00"
 }

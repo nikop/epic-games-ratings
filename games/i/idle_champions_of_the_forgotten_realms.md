@@ -53,6 +53,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 0.30% | ~170 |
 | Bully for Vecna | 0.30% | ~170 |
 | Homecoming | 0.30% | ~271 |
+| The Lost Heir of Omu | 0.30% | ~271 |
 | No One Can Hear You Scream | 0.30% | ~170 |
 | Welcome to the Rock | 0.30% | ~170 |
 | Low Initiative | 0.30% | ~271 |
@@ -63,6 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.30% | ~271 |
 | The Botched Kidnapping | 0.30% | ~271 |
 | Trollskull Manor | 0.30% | ~271 |
+| Attack on the Manor | 0.30% | ~271 |
 | The Death Curse | 0.30% | ~271 |
 | Premature Betrayal | 0.30% | ~271 |
 | A Tale of Two Cities | 0.30% | ~271 |
@@ -144,7 +146,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Xanathaaaaaaar! | 0.20% | ~113 |
 | Anti-Dexterous Explorers | 0.20% | ~181 |
 | Struggling Toward Omu | 0.20% | ~181 |
-| The Lost Heir of Omu | 0.20% | ~181 |
 | Not Very Charming | 0.20% | ~181 |
 | Lobsterfolk Assault | 0.20% | ~181 |
 | The Minions of Endelyn Moongrave | 0.20% | ~113 |
@@ -182,7 +183,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Deceit | 0.20% | ~181 |
 | The Gargoyle's Apprentice | 0.20% | ~181 |
 | House of Darkness | 0.20% | ~181 |
-| Attack on the Manor | 0.20% | ~181 |
 | The Trepidatious Trio | 0.20% | ~181 |
 | Our Time To Shine | 0.20% | ~181 |
 | Treasure Hunters | 0.20% | ~181 |
@@ -236,6 +236,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Avernus Frozen Over | 0.20% | ~113 |
 | Market Fluctuations | 0.20% | ~181 |
 | Once More Into The Breach | 0.20% | ~181 |
+| Nightmare Mode | 0.20% | ~113 |
 | Wyllowwood | 0.20% | ~181 |
 | An Illithid Undertaking | 0.20% | ~113 |
 | Déjà Vu | 0.20% | ~113 |
@@ -417,7 +418,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~57 |
 | Twice More Into The Breach | 0.10% | ~90 |
 | Thrice More Into The Breach | 0.10% | ~57 |
-| Nightmare Mode | 0.10% | ~57 |
 | Displaced Anger | 0.10% | ~90 |
 | Ettercap Swarm | 0.10% | ~57 |
 | Smooth Talkers | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,405 (Ranked 64)  
+Progressed: 90,411 (Ranked 64)  
 Completed: 1,927 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 1,927 (2.13%) (Ranked 66)
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
-| 2023-06-11 | 90,405 | 1,927 |
+| 2023-06-11 | 90,411 | 1,927 |
 ## Awards
 Max (Diverse Characters): 4,928  (Ranked 64)  
 Sum: 30,075 (Ranked 37)  

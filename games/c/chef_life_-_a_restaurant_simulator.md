@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 65.00% | ~220 |
-| You're the Expert! | 32.00% | ~108 |
-| Home Cook | 29.00% | ~98 |
-| So Clean You Can Eat Off the Floor | 19.00% | ~64 |
+| The Big Day | 64.00% | ~218 |
+| You're the Expert! | 32.00% | ~109 |
+| Home Cook | 29.00% | ~99 |
+| So Clean You Can Eat Off the Floor | 19.00% | ~65 |
 | French Flair | 17.00% | ~58 |
 | S is for Scrumptious | 17.00% | ~58 |
-| Next Level Cuisine | 11.00% | ~37 |
+| Next Level Cuisine | 11.00% | ~38 |
 | Haute Cuisine | 8.00% | ~27 |
 | Sous-Chef | 7.00% | ~24 |
 | Italian Style | 7.00% | ~24 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339 (Ranked 221)  
+Progressed: 341 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 321 | 0 |
 | 2023-06-09 | 327 | 0 |
 | 2023-06-10 | 339 | 0 |
+| 2023-06-11 | 341 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

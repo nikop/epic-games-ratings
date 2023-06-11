@@ -11,12 +11,12 @@ Number of Ratings: 87  (23.09.2022)
 | Individual delivery | 7.00% | ~51 |
 | To the eyeballs! | 7.00% | ~51 |
 | Juggler | 6.00% | ~44 |
-| Close call! | 5.00% | ~37 |
-| Common cause | 5.00% | ~37 |
 | Forgot something | 5.00% | ~37 |
 | Mega-railroad | 5.00% | ~37 |
 | Non-Stop | 5.00% | ~37 |
 | Builder | 4.00% | ~29 |
+| Close call! | 4.00% | ~29 |
+| Common cause | 4.00% | ~29 |
 | Critical care | 4.00% | ~29 |
 | Get out my way | 4.00% | ~29 |
 | Just in time! | 4.00% | ~29 |
@@ -39,22 +39,22 @@ Number of Ratings: 87  (23.09.2022)
 | Engineer | 2.00% | ~15 |
 | Industrial Age | 2.00% | ~15 |
 | Jewelry accuracy | 2.00% | ~15 |
-| Large construction | 2.00% | ~15 |
 | Living it large | 2.00% | ~15 |
-| Lucky vandal | 2.00% | ~15 |
 | Prick of conscience | 2.00% | ~15 |
 | Relocation | 2.00% | ~15 |
-| Sabotage | 2.00% | ~15 |
 | Squander | 2.00% | ~15 |
 | Stargazer | 2.00% | ~15 |
-| Vandal | 2.00% | ~15 |
 | Astronomer | 1.00% | ~7 |
 | At the last moment! | 1.00% | ~7 |
 | Environmental activist | 1.00% | ~7 |
 | Globalisation Age | 1.00% | ~7 |
 | Innovator | 1.00% | ~7 |
+| Large construction | 1.00% | ~7 |
+| Lucky vandal | 1.00% | ~7 |
 | Missed it! | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
+| Sabotage | 1.00% | ~7 |
+| Vandal | 1.00% | ~7 |
 | Woodcutter | 1.00% | ~7 |
 | Atomic Age | 0.80% | ~1 |
 | Digital Age | 0.80% | ~1 |
@@ -67,12 +67,12 @@ Number of Ratings: 87  (23.09.2022)
 | Will work | 0.70% | ~5 |
 | Astrochemist | 0.50% | ~0 |
 | BBQ | 0.40% | ~3 |
+| It's no coincidence | 0.40% | ~3 |
 | Space Age | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
 | Arcturus | 0.30% | ~0 |
 | Astrophysicist | 0.30% | ~2 |
 | Highlander | 0.30% | ~2 |
-| It's no coincidence | 0.30% | ~2 |
 | The Hare | 0.30% | ~2 |
 | The Hare with an espresso | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733 (Ranked 188)  
+Progressed: 734 (Ranked 188)  
 Completed: 1 (0.14%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 1 (0.14%) (Ranked 158)
 | 2023-06-08 | 729 | 1 |
 | 2023-06-09 | 731 | 1 |
 | 2023-06-10 | 732 | 1 |
-| 2023-06-11 | 733 | 1 |
+| 2023-06-11 | 734 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 361)  
 Sum: 72 (Ranked 421)  

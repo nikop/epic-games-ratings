@@ -668,9 +668,9 @@
       "ID": "Chapter2",
       "SetID": "50chcgj",
       "Name": "A beer, two curses, three companions",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Chapter3",
@@ -756,9 +756,9 @@
       "ID": "CompanionPaladine",
       "SetID": "50chcgj",
       "Name": "Res Judicata",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CompanionPriestress",
@@ -1330,8 +1330,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-11T09:04:36.8488947+00:00",
+  "LastChanged_Achievements": "2023-06-11T10:04:34.4549921+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:25.2795167+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:58:40.9574945+00:00",
-  "LastUpdate_Achievements": "2023-06-11T09:04:36.8489748+00:00"
+  "LastUpdate_Ratings": "2023-06-11T09:58:43.3557733+00:00",
+  "LastUpdate_Achievements": "2023-06-11T10:04:34.4550757+00:00"
 }

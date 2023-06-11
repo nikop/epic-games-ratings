@@ -10,7 +10,7 @@ Number of Ratings: 111  (23.09.2022)
 | Keeping it classy | 24.00% | ~569 |
 | Welcome to the family | 18.00% | ~427 |
 | The finer things in life | 16.00% | ~379 |
-| Backpacker | 12.00% | ~284 |
+| Backpacker | 12.00% | ~285 |
 | Go with the Flow | 11.00% | ~261 |
 | Plastic Surgeon | 9.00% | ~213 |
 | Keep the dream alive | 8.00% | ~190 |
@@ -20,13 +20,13 @@ Number of Ratings: 111  (23.09.2022)
 | Upfront shredder | 7.00% | ~166 |
 | Finally he zips it | 6.00% | ~142 |
 | That pinch! | 6.00% | ~142 |
-| Bottom ply killer | 5.00% | ~118 |
-| Fashionista | 5.00% | ~118 |
-| Fulfilled the dream | 5.00% | ~118 |
-| G'Day Mate! | 5.00% | ~118 |
-| Squad goals | 5.00% | ~118 |
-| Sup widdit big dog! | 5.00% | ~118 |
-| Tight lipslides | 5.00% | ~118 |
+| Bottom ply killer | 5.00% | ~119 |
+| Fashionista | 5.00% | ~119 |
+| Fulfilled the dream | 5.00% | ~119 |
+| G'Day Mate! | 5.00% | ~119 |
+| Squad goals | 5.00% | ~119 |
+| Sup widdit big dog! | 5.00% | ~119 |
+| Tight lipslides | 5.00% | ~119 |
 | Commence the Hijinx! | 4.00% | ~95 |
 | DIY Boss | 4.00% | ~95 |
 | Globetrotter | 4.00% | ~95 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,370 (Ranked 149)  
+Progressed: 2,371 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 2,327 | 0 |
 | 2023-06-09 | 2,344 | 0 |
 | 2023-06-10 | 2,362 | 0 |
-| 2023-06-11 | 2,370 | 0 |
+| 2023-06-11 | 2,371 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 398)  
 Sum: 421 (Ranked 300)  

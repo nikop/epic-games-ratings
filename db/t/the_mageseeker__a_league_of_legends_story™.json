@@ -2665,9 +2665,9 @@
       "ID": "STB_HOOK_CHALLENGE",
       "SetID": "3pe2bac",
       "Name": "Chains master",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 209
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -2761,9 +2761,9 @@
       "ID": "STB_MISSION5B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Capelworth",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 487
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -2930,8 +2930,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-11T09:05:30.1198447+00:00",
+  "LastChanged_Achievements": "2023-06-11T10:05:27.6455119+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:57:24.3136979+00:00",
-  "LastUpdate_Achievements": "2023-06-11T09:05:30.1199159+00:00"
+  "LastUpdate_Ratings": "2023-06-11T09:57:29.8467354+00:00",
+  "LastUpdate_Achievements": "2023-06-11T10:05:27.6455658+00:00"
 }

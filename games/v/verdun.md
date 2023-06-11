@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~36,335 |
-| Worth it | 63.00% | ~29,728 |
-| Eagle Eye | 55.00% | ~25,953 |
-| Corpseman I | 40.00% | ~18,875 |
-| Blast fishing | 38.00% | ~17,931 |
-| Not alone | 32.00% | ~15,100 |
-| Headhunter I | 27.00% | ~12,741 |
-| Manual Labour I | 25.00% | ~11,797 |
-| Developers, Developers, Developers | 24.00% | ~11,325 |
-| Basic Training | 24.00% | ~11,325 |
-| Furchtlos und Treu | 13.00% | ~6,134 |
-| Gott Mit Uns | 12.00% | ~5,663 |
-| This We'll Defend! | 9.00% | ~4,247 |
-| Anker wirf! | 9.00% | ~4,247 |
-| Providentiea Memor | 9.00% | ~4,247 |
-| For King and Country | 9.00% | ~4,247 |
-| Battle hardened | 8.00% | ~3,775 |
-| Semper Fidelis! | 7.00% | ~3,303 |
-| Honneur et Patrie | 7.00% | ~3,303 |
-| In Treue Fest | 5.00% | ~2,359 |
-| Voor De Koning | 5.00% | ~2,359 |
-| Extreme Headhunter | 5.00% | ~2,359 |
+| Setting an example | 77.00% | ~36,342 |
+| Worth it | 63.00% | ~29,734 |
+| Eagle Eye | 55.00% | ~25,958 |
+| Corpseman I | 40.00% | ~18,879 |
+| Blast fishing | 37.00% | ~17,463 |
+| Not alone | 32.00% | ~15,103 |
+| Headhunter I | 27.00% | ~12,743 |
+| Manual Labour I | 25.00% | ~11,799 |
+| Developers, Developers, Developers | 24.00% | ~11,327 |
+| Basic Training | 24.00% | ~11,327 |
+| Furchtlos und Treu | 13.00% | ~6,136 |
+| Gott Mit Uns | 12.00% | ~5,664 |
+| This We'll Defend! | 9.00% | ~4,248 |
+| Anker wirf! | 9.00% | ~4,248 |
+| Providentiea Memor | 9.00% | ~4,248 |
+| For King and Country | 9.00% | ~4,248 |
+| Battle hardened | 8.00% | ~3,776 |
+| Semper Fidelis! | 7.00% | ~3,304 |
+| Honneur et Patrie | 7.00% | ~3,304 |
+| In Treue Fest | 5.00% | ~2,360 |
+| Voor De Koning | 5.00% | ~2,360 |
+| Extreme Headhunter | 5.00% | ~2,360 |
 | Advance Australia | 4.00% | ~1,888 |
 | We Stand on Guard | 4.00% | ~1,888 |
 | Sidi Brahim | 4.00% | ~1,888 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~47 |
 | Blood Brother | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,188 (Ranked 81)  
+Progressed: 47,197 (Ranked 81)  
 Completed: 4 (0.01%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 4 (0.01%) (Ranked 204)
 | 2023-06-08 | 46,873 | 3 |
 | 2023-06-09 | 47,009 | 4 |
 | 2023-06-10 | 47,141 | 4 |
-| 2023-06-11 | 47,188 | 4 |
+| 2023-06-11 | 47,197 | 4 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 337)  
 Sum: 742 (Ranked 257)  

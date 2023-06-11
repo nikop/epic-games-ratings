@@ -11,7 +11,7 @@
 | Egghead Lucy | 75.00% | ~124 |
 | Puppy | 63.00% | ~105 |
 | Coal's fur | 58.00% | ~96 |
-| Blue's drawing | 53.00% | ~88 |
+| Blue's drawing | 54.00% | ~90 |
 | Mysterious footprints | 47.00% | ~78 |
 | Glass shards | 45.00% | ~75 |
 | Complicated padlock | 42.00% | ~70 |

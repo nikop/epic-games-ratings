@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 842,
-  "Ranking_Popularity": 386,
+  "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 122,
@@ -546,11 +546,17 @@
       "Rating": 4.18,
       "NumberOfAwards": 303,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-06-11T09:57:43.9891303+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 304,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 303,
-  "NumberOfAwardsMax": 52,
+  "NumberOfAwards": 304,
+  "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -581,7 +587,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Challenging Combat",
@@ -596,9 +602,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15016,
+  "EOS_Progressed": 15018,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3521,6 +3527,11 @@
       "Time": "2023-06-11T09:03:52.9818241+00:00",
       "NumProgressed": 15016,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-11T10:03:51.284061+00:00",
+      "NumProgressed": 15018,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3564,7 +3575,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2102
+      "UsersEstimate": 2103
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3660,7 +3671,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "KILL_ROBOT",
@@ -3684,7 +3695,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -3700,7 +3711,7 @@
       "Name": "Reforged",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3780,7 +3791,7 @@
       "Name": "Full Circle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "STORY_TUNNELS",
@@ -3851,22 +3862,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15016,
+      "Progressed": 15018,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2942,
+      "Progressed": 2944,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-11T02:27:59.3497514+00:00",
-  "LastChanged_Achievements": "2023-06-11T09:03:52.9818237+00:00",
+  "LastChanged": "2023-06-11T09:57:43.9891302+00:00",
+  "LastChanged_Achievements": "2023-06-11T10:03:51.2840602+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:57:39.311708+00:00",
-  "LastUpdate_Achievements": "2023-06-11T09:03:52.9818654+00:00"
+  "LastUpdate_Ratings": "2023-06-11T09:57:43.9891306+00:00",
+  "LastUpdate_Achievements": "2023-06-11T10:03:51.2841014+00:00"
 }

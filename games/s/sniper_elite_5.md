@@ -5,24 +5,24 @@ Rating: 4.51 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~759 |
-| Confirming Suspicions | 24.00% | ~628 |
-| The Kraken Wakes | 20.00% | ~523 |
+| Meeting Resistance | 29.00% | ~760 |
+| Confirming Suspicions | 24.00% | ~629 |
+| The Kraken Wakes | 20.00% | ~524 |
 | It's Starting to Crack | 17.00% | ~445 |
-| Lord of War | 14.00% | ~366 |
-| Change the Channel | 14.00% | ~366 |
-| Resourceful | 13.00% | ~340 |
+| Lord of War | 14.00% | ~367 |
+| Change the Channel | 14.00% | ~367 |
+| Resourceful | 13.00% | ~341 |
 | Taking it back | 12.00% | ~314 |
 | Organ Grinder | 10.00% | ~262 |
 | As Quiet as a Mouse | 10.00% | ~262 |
 | Target America | 10.00% | ~262 |
 | The Kraken Sleeps | 9.00% | ~236 |
-| Liberté | 8.00% | ~209 |
-| Enemy at the Gates | 8.00% | ~209 |
-| Just a Flesh Wound | 8.00% | ~209 |
-| Gunslinger | 8.00% | ~209 |
-| Sharpshooter | 8.00% | ~209 |
-| Explosive Efficiency | 8.00% | ~209 |
+| Liberté | 8.00% | ~210 |
+| Enemy at the Gates | 8.00% | ~210 |
+| Just a Flesh Wound | 8.00% | ~210 |
+| Gunslinger | 8.00% | ~210 |
+| Sharpshooter | 8.00% | ~210 |
+| Explosive Efficiency | 8.00% | ~210 |
 | Opposing Force | 7.00% | ~183 |
 | Die Nussknacker Sweet! | 6.00% | ~157 |
 | Der Geist | 6.00% | ~157 |
@@ -46,9 +46,9 @@ Rating: 4.51 (Ranked 529)
 | Don't hold your breath | 1.00% | ~26 |
 | Herr Today, Gone Tomorrow | 1.00% | ~26 |
 | Operation Foxley | 1.00% | ~26 |
+| Siegebreaker | 0.90% | ~23 |
 | Ghost of Falaise | 0.90% | ~23 |
 | Last Resort | 0.80% | ~21 |
-| Siegebreaker | 0.80% | ~21 |
 | Burn after reading | 0.70% | ~18 |
 | From Paris with Love | 0.60% | ~16 |
 | Souvenir hunter | 0.60% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 529)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,617 (Ranked 146)  
+Progressed: 2,620 (Ranked 146)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
-| 2023-06-11 | 2,617 | 2 |
+| 2023-06-11 | 2,620 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

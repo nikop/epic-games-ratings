@@ -14,8 +14,8 @@
 | The Thrower | 47.00% | ~47 |
 | The Penguin | 46.00% | ~46 |
 | The Magician | 44.00% | ~44 |
+| The Tunneler | 40.00% | ~40 |
 | The Shield | 39.00% | ~39 |
-| The Tunneler | 39.00% | ~39 |
 | Level Up!! | 38.00% | ~38 |
 | Kill-streak | 36.00% | ~36 |
 | The Bird | 29.00% | ~29 |
