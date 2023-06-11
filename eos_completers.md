@@ -15,7 +15,7 @@
 | 13 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 11.76% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.11% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
+| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.38% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
@@ -26,8 +26,8 @@
 | 22 | [Remains](games/r/remains.md) | 7.69% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.52% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.90% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.80% |
-| 28 | [Scorn](games/s/scorn.md) | 6.76% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.79% |
+| 28 | [Scorn](games/s/scorn.md) | 6.75% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.61% |
@@ -61,8 +61,8 @@
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 61 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
-| 62 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.44% |
-| 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.22% |
+| 62 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.41% |
+| 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.20% |
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 64 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
@@ -80,9 +80,9 @@
 | 78 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 79 | [Frogun](games/f/frogun.md) | 1.48% |
 | 80 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.33% |
-| 81 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.23% |
 | 81 | [Ten Dates](games/t/ten_dates.md) | 1.23% |
-| 83 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
+| 82 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
+| 82 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.22% |
 | 84 | [Trifox](games/t/trifox.md) | 1.16% |
 | 85 | [Chorus](games/c/chorus.md) | 1.15% |
 | 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
@@ -131,11 +131,11 @@
 | 127 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 127 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
 | 131 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 132 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
 | 132 | [The Surge](games/t/the_surge.md) | 0.30% |
 | 132 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 134 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
-| 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
-| 134 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
+| 135 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
+| 135 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
 | 137 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 138 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
 | 139 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.26% |
