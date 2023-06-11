@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 645,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -447,9 +447,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 213704,
+  "EOS_Progressed": 213717,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 913,
+  "EOS_NewPlayers": 912,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5752,6 +5752,11 @@
       "Time": "2023-06-11T00:03:41.0706639+00:00",
       "NumProgressed": 213704,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-11T02:33:55.8461951+00:00",
+      "NumProgressed": 213717,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 34,
@@ -5763,7 +5768,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 40604
+      "UsersEstimate": 40606
     },
     {
       "ID": "ACH_BASE_10",
@@ -5771,7 +5776,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 53426
+      "UsersEstimate": 53429
     },
     {
       "ID": "ACH_BASE_11",
@@ -5787,7 +5792,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8548
+      "UsersEstimate": 8549
     },
     {
       "ID": "ACH_BASE_13",
@@ -5803,7 +5808,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19233
+      "UsersEstimate": 19235
     },
     {
       "ID": "ACH_BASE_16",
@@ -5811,7 +5816,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19233
+      "UsersEstimate": 19235
     },
     {
       "ID": "ACH_BASE_17",
@@ -5819,7 +5824,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19233
+      "UsersEstimate": 19235
     },
     {
       "ID": "ACH_BASE_18",
@@ -5827,7 +5832,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19233
+      "UsersEstimate": 19235
     },
     {
       "ID": "ACH_BASE_19",
@@ -5843,7 +5848,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12822
+      "UsersEstimate": 12823
     },
     {
       "ID": "ACH_BASE_20",
@@ -5851,7 +5856,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6411
+      "UsersEstimate": 6412
     },
     {
       "ID": "ACH_BASE_21",
@@ -5931,7 +5936,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8548
+      "UsersEstimate": 8549
     },
     {
       "ID": "ACH_BASE_30",
@@ -5987,7 +5992,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6411
+      "UsersEstimate": 6412
     },
     {
       "ID": "ACH_BASE_5",
@@ -6011,7 +6016,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25644
+      "UsersEstimate": 25646
     },
     {
       "ID": "ACH_BASE_8",
@@ -6019,7 +6024,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8548
+      "UsersEstimate": 8549
     },
     {
       "ID": "ACH_BASE_9",
@@ -6027,14 +6032,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19233
+      "UsersEstimate": 19235
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 213704,
+      "Progressed": 213717,
       "Completed": 3
     }
   ],
@@ -6042,8 +6047,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-10T23:58:37.9333422+00:00",
-  "LastChanged_Achievements": "2023-06-11T00:03:41.0706633+00:00",
+  "LastChanged_Achievements": "2023-06-11T02:33:55.8461946+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.9968565+00:00",
-  "LastUpdate_Ratings": "2023-06-10T23:58:37.9333429+00:00",
-  "LastUpdate_Achievements": "2023-06-11T00:03:41.0707083+00:00"
+  "LastUpdate_Ratings": "2023-06-11T02:28:42.198543+00:00",
+  "LastUpdate_Achievements": "2023-06-11T02:33:55.8462402+00:00"
 }

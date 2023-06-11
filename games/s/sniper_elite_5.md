@@ -1,22 +1,22 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.51 (Ranked 528)  
+Rating: 4.51 (Ranked 529)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~749 |
-| Confirming Suspicions | 24.00% | ~620 |
-| The Kraken Wakes | 20.00% | ~517 |
-| It's Starting to Crack | 17.00% | ~439 |
+| Meeting Resistance | 29.00% | ~751 |
+| Confirming Suspicions | 24.00% | ~621 |
+| The Kraken Wakes | 20.00% | ~518 |
+| It's Starting to Crack | 17.00% | ~440 |
 | Lord of War | 14.00% | ~362 |
 | Change the Channel | 14.00% | ~362 |
-| Resourceful | 13.00% | ~336 |
-| Taking it back | 12.00% | ~310 |
-| Organ Grinder | 10.00% | ~258 |
-| As Quiet as a Mouse | 10.00% | ~258 |
-| Target America | 10.00% | ~258 |
-| The Kraken Sleeps | 9.00% | ~232 |
+| Resourceful | 13.00% | ~337 |
+| Taking it back | 12.00% | ~311 |
+| Organ Grinder | 10.00% | ~259 |
+| As Quiet as a Mouse | 10.00% | ~259 |
+| Target America | 10.00% | ~259 |
+| The Kraken Sleeps | 9.00% | ~233 |
 | Liberté | 8.00% | ~207 |
 | Enemy at the Gates | 8.00% | ~207 |
 | Just a Flesh Wound | 8.00% | ~207 |
@@ -34,8 +34,8 @@ Rating: 4.51 (Ranked 528)
 | Fields of Glory | 5.00% | ~129 |
 | Skirmisher | 5.00% | ~129 |
 | Set Europe Ablaze | 5.00% | ~129 |
-| Precision Is Key | 4.00% | ~103 |
-| Rigged to Blow | 3.00% | ~77 |
+| Precision Is Key | 4.00% | ~104 |
+| Rigged to Blow | 3.00% | ~78 |
 | The Long Game | 2.00% | ~52 |
 | My Little Friend | 2.00% | ~52 |
 | It'll Buff Right Out | 2.00% | ~52 |
@@ -50,14 +50,14 @@ Rating: 4.51 (Ranked 528)
 | Last Resort | 0.80% | ~20 |
 | Siegebreaker | 0.80% | ~20 |
 | Burn after reading | 0.70% | ~18 |
-| From Paris with Love | 0.60% | ~15 |
-| Souvenir hunter | 0.60% | ~15 |
+| From Paris with Love | 0.60% | ~16 |
+| Souvenir hunter | 0.60% | ~16 |
 | Up close and personal | 0.50% | ~13 |
 | Shoot for the Moon | 0.50% | ~13 |
 | If You Go Down To The Woods Today | 0.50% | ~13 |
 | Fight Another Day | 0.50% | ~13 |
 | Eagle Eyed | 0.40% | ~10 |
-| Can't Outrun A Bullet | 0.30% | ~8 |
+| Can't Outrun A Bullet | 0.40% | ~10 |
 | Reich To The Point | 0.30% | ~8 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,583 (Ranked 146)  
+Progressed: 2,589 (Ranked 146)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
-| 2023-06-11 | 2,583 | 2 |
+| 2023-06-11 | 2,589 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

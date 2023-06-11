@@ -1,22 +1,22 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 360)  
+Rating: 4.61 (Ranked 359)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~435,000 |
-| The Three | 64.00% | ~335,421 |
-| The Banquet | 40.00% | ~209,638 |
-| Devara's Light | 30.00% | ~157,229 |
-| The Iron Ones | 18.00% | ~94,337 |
-| The Village | 16.00% | ~83,855 |
-| The Forest | 14.00% | ~73,373 |
-| Branded | 13.00% | ~68,132 |
-| The Imposter | 13.00% | ~68,132 |
-| The Keep | 13.00% | ~68,132 |
-| The Castle | 11.00% | ~57,651 |
+| Find Sanctuary | 83.00% | ~435,007 |
+| The Three | 64.00% | ~335,427 |
+| The Banquet | 40.00% | ~209,642 |
+| Devara's Light | 30.00% | ~157,232 |
+| The Iron Ones | 18.00% | ~94,339 |
+| The Village | 16.00% | ~83,857 |
+| The Forest | 14.00% | ~73,375 |
+| Branded | 13.00% | ~68,134 |
+| The Imposter | 13.00% | ~68,134 |
+| The Keep | 13.00% | ~68,134 |
+| The Castle | 11.00% | ~57,652 |
 | The Dome | 9.00% | ~47,169 |
 | The Red Hall | 9.00% | ~47,169 |
 | The Sacrifice | 8.00% | ~41,928 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,482 |
 | Fading Fast | 1.00% | ~5,241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,096 (Ranked 28)  
+Progressed: 524,105 (Ranked 28)  
 Completed: 1,444 (0.28%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,15 +96,15 @@ Completed: 1,444 (0.28%) (Ranked 137)
 | 2023-06-08 | 523,844 | 1,441 |
 | 2023-06-09 | 523,955 | 1,442 |
 | 2023-06-10 | 524,093 | 1,444 |
-| 2023-06-11 | 524,096 | 1,444 |
+| 2023-06-11 | 524,105 | 1,444 |
 ## Awards
 Max (Challenging Combat): 271  (Ranked 237)  
-Sum: 1,890 (Ranked 194)  
+Sum: 1,891 (Ranked 194)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 271 |
-| This game has Quickly Understood Controls | 252 |
+| This game has Quickly Understood Controls | 253 |
 | This game is Highly Recommended | 247 |
 | This game is Extremely Fun | 230 |
 | This game has Diverse Characters | 228 |
@@ -232,3 +232,4 @@ Diff (max vs sum): 43
 | 2023-06-07 | 4.61 | - | 271 | 1,888 |
 | 2023-06-08 | 4.61 | - | 271 | 1,889 |
 | 2023-06-10 | 4.61 | - | 271 | 1,890 |
+| 2023-06-11 | 4.61 | - | 271 | 1,891 |

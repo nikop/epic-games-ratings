@@ -6,10 +6,10 @@ Rating: 4.56 (Ranked 453)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 88.00% | ~319 |
-| And again, and again, and... | 63.00% | ~229 |
+| And again, and again, and... | 64.00% | ~232 |
 | Burn, Elysium, burn! | 62.00% | ~225 |
-| Kuvaq Minigame-Master | 60.00% | ~218 |
-| FunScore | 54.00% | ~196 |
+| Kuvaq Minigame-Master | 61.00% | ~221 |
+| FunScore | 55.00% | ~200 |
 | Funtime's over | 52.00% | ~189 |
 | Chunky | 50.00% | ~182 |
 | Shall we play a game? | 48.00% | ~174 |
@@ -24,8 +24,8 @@ Rating: 4.56 (Ranked 453)
 | Brainfreeze | 21.00% | ~76 |
 | Masseltov | 19.00% | ~69 |
 | And everything comes full circle. | 18.00% | ~65 |
+| Quickdraw | 15.00% | ~54 |
 | Thuna...? | 15.00% | ~54 |
-| Quickdraw | 14.00% | ~51 |
 | Monstrous Harassment | 14.00% | ~51 |
 | Blast from the Past | 14.00% | ~51 |
 | Heading the inverter | 13.00% | ~47 |

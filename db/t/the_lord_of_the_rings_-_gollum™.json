@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -775,6 +775,11 @@
       "Time": "2023-06-10T10:06:48.1758276+00:00",
       "NumProgressed": 424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T02:36:30.336356+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -810,7 +815,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Chapter10",
@@ -850,7 +855,7 @@
       "Name": "The Traitor",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Chapter6",
@@ -882,7 +887,7 @@
       "Name": "Gollum/Sm\u00E9agol",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Collectibles1",
@@ -890,7 +895,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "Collectibles2",
@@ -952,9 +957,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 153
     },
     {
       "ID": "Memories",
@@ -1066,21 +1071,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-11T00:06:09.641527+00:00",
+  "LastChanged_Achievements": "2023-06-11T02:36:30.336355+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-10T23:57:47.36801+00:00",
-  "LastUpdate_Achievements": "2023-06-11T00:06:09.6415515+00:00"
+  "LastUpdate_Ratings": "2023-06-11T02:27:49.151184+00:00",
+  "LastUpdate_Achievements": "2023-06-11T02:36:30.33638+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "0208da63c74542c99e8a0837e4e688c3",
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
-  "Ranking_Rating": 296,
+  "Ranking_Rating": 297,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 748,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -933,6 +933,11 @@
       "Time": "2023-06-11T00:02:20.3582437+00:00",
       "NumProgressed": 746,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T02:33:03.4985581+00:00",
+      "NumProgressed": 748,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -944,7 +949,7 @@
       "Name": "Act I Complete",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1024,7 +1029,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1080,7 +1085,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1088,15 +1093,15 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
       "SetID": "108h92c",
       "Name": "I can fix it!",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1104,7 +1109,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1112,7 +1117,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -1120,7 +1125,7 @@
       "Name": "Post No Bills",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1152,14 +1157,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 748,
       "Completed": 0
     }
   ],
@@ -1167,8 +1172,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-11T00:02:20.3582427+00:00",
+  "LastChanged_Achievements": "2023-06-11T02:33:03.4985576+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:39.7095495+00:00",
-  "LastUpdate_Ratings": "2023-06-10T23:57:32.5994744+00:00",
-  "LastUpdate_Achievements": "2023-06-11T00:02:20.3582624+00:00"
+  "LastUpdate_Ratings": "2023-06-11T02:27:34.4292131+00:00",
+  "LastUpdate_Achievements": "2023-06-11T02:33:03.498577+00:00"
 }

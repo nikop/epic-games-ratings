@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4222,9 +4222,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90367,
+  "EOS_Progressed": 90378,
   "EOS_Completed": 1926,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9477,6 +9477,11 @@
       "Time": "2023-06-11T00:06:45.9120363+00:00",
       "NumProgressed": 90367,
       "NumCompleted": 1926
+    },
+    {
+      "Time": "2023-06-11T02:37:07.3096786+00:00",
+      "NumProgressed": 90378,
+      "NumCompleted": 1926
     }
   ],
   "TotalAchievements": 493,
@@ -9488,7 +9493,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "objective_completed_10",
@@ -9496,7 +9501,7 @@
       "Name": "Maddening",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_100",
@@ -9542,9 +9547,9 @@
       "ID": "objective_completed_1045",
       "SetID": "415jc5c",
       "Name": "Friends and Foes",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_1046",
@@ -10592,7 +10597,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_149",
@@ -10680,7 +10685,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_165",
@@ -10712,7 +10717,7 @@
       "Name": "Building Trust",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_17",
@@ -10816,7 +10821,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_20",
@@ -11176,7 +11181,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_36",
@@ -11360,7 +11365,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_400",
@@ -11632,7 +11637,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_540",
@@ -11976,7 +11981,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_590",
@@ -12032,7 +12037,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_60",
@@ -12560,7 +12565,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_690",
@@ -13416,7 +13421,7 @@
       "Name": "Beware the Jabberwock",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "objective_completed_1361",
@@ -13431,21 +13436,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56641,
-      "Completed": 2784
+      "Progressed": 56652,
+      "Completed": 2785
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90367,
+      "Progressed": 90378,
       "Completed": 1926
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-10T22:57:45.4027598+00:00",
-  "LastChanged_Achievements": "2023-06-11T00:06:45.9120358+00:00",
+  "LastChanged_Achievements": "2023-06-11T02:37:07.309678+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-10T23:58:08.4446776+00:00",
-  "LastUpdate_Achievements": "2023-06-11T00:06:45.9142359+00:00"
+  "LastUpdate_Ratings": "2023-06-11T02:28:11.2105264+00:00",
+  "LastUpdate_Achievements": "2023-06-11T02:37:07.3117741+00:00"
 }

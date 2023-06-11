@@ -49,7 +49,7 @@
 | Burn Them | 0.30% | ~1 |
 | Final Ascension | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377 (Ranked 216)  
+Progressed: 377 (Ranked 217)  
 Completed: 1 (0.27%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |

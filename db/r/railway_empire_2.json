@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -46,7 +46,7 @@
   "Tags": [],
   "EOS_Progressed": 1092,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1749,9 +1749,9 @@
       "ID": "A12",
       "SetID": "9b7p7eo",
       "Name": "Departure",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 775
     },
     {
       "ID": "A13",
@@ -1765,9 +1765,9 @@
       "ID": "A14",
       "SetID": "9b7p7eo",
       "Name": "A new Journey",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 786
     },
     {
       "ID": "A15",
@@ -1829,9 +1829,9 @@
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 710
     },
     {
       "ID": "A23",
@@ -2102,8 +2102,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-10T19:58:13.8290847+00:00",
-  "LastChanged_Achievements": "2023-06-11T00:06:35.6097153+00:00",
+  "LastChanged_Achievements": "2023-06-11T02:36:56.8216757+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-10T23:58:08.9762937+00:00",
-  "LastUpdate_Achievements": "2023-06-11T00:06:35.6097703+00:00"
+  "LastUpdate_Ratings": "2023-06-11T02:28:11.668873+00:00",
+  "LastUpdate_Achievements": "2023-06-11T02:36:56.8217195+00:00"
 }

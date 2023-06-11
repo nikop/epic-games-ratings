@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~716 |
-| Project Arena | 3.00% | ~537 |
+| Diligence as a goal | 4.00% | ~717 |
+| Project Arena | 3.00% | ~538 |
 | The Old Grandmaster | 1.00% | ~7,086 |
 | The Assault | 1.00% | ~7,086 |
 | The Hateful Pole Fighter | 1.00% | ~7,086 |
@@ -34,8 +34,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.70% | ~4,960 |
 | I know Kung-Fu | 0.70% | ~4,960 |
 | Muk Yan Master | 0.60% | ~4,252 |
-| Deadly Venom | 0.60% | ~107 |
-| A Touch of Acumen | 0.60% | ~107 |
+| Deadly Venom | 0.60% | ~108 |
+| A Touch of Acumen | 0.60% | ~108 |
 | Tiger on Fire | 0.50% | ~3,543 |
 | Source of Flying Daggers | 0.50% | ~3,543 |
 | Iron Money | 0.50% | ~3,543 |
@@ -48,16 +48,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Secure, Protect, Leave | 0.40% | ~72 |
 | Martial Artist | 0.30% | ~2,126 |
 | Knowledge Greed | 0.30% | ~2,126 |
+| The Pit Protector | 0.30% | ~2,126 |
 | Drunken Fighter | 0.20% | ~1,417 |
 | Healing Memory | 0.20% | ~1,417 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,417 |
-| The Pit Protector | 0.20% | ~1,417 |
 | Be like water my friend | 0.20% | ~1,417 |
 | Come Snap With Me | 0.20% | ~1,417 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~709 |
 | Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,598 (Ranked 16)  
+Progressed: 708,617 (Ranked 16)  
 Completed: 12,764 (1.80%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 12,764 (1.80%) (Ranked 71)
 | 2023-06-08 | 708,100 | 12,763 |
 | 2023-06-09 | 708,330 | 12,764 |
 | 2023-06-10 | 708,593 | 12,764 |
-| 2023-06-11 | 708,598 | 12,764 |
+| 2023-06-11 | 708,617 | 12,764 |
 ## Awards
 Max (Great Boss Battles): 6,159  (Ranked 52)  
 Sum: 10,507 (Ranked 78)  

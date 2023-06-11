@@ -28,13 +28,13 @@ Rating: 4.29 (Ranked 771)
 | Infiltrator | 22.00% | ~240 |
 | Pushing Daisy | 22.00% | ~240 |
 | Chain Killer | 20.00% | ~218 |
+| There Can Be Only One! | 20.00% | ~218 |
 | Experienced | 19.00% | ~207 |
-| There Can Be Only One! | 19.00% | ~207 |
 | Hold The Line | 18.00% | ~196 |
 | Endgame | 16.00% | ~174 |
 | Savior | 16.00% | ~174 |
+| The Watchers | 15.00% | ~163 |
 | Newtonian Knockout | 14.00% | ~152 |
-| The Watchers | 14.00% | ~152 |
 | Ruthless | 12.00% | ~131 |
 | Chaos Theory | 10.00% | ~109 |
 | Dr Jones | 10.00% | ~109 |

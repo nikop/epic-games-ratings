@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 1089,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1958,9 +1958,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 218
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -1974,9 +1974,9 @@
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 163
     },
     {
       "ID": "WIPE_OUT",
@@ -1999,8 +1999,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-10T20:58:18.0757605+00:00",
-  "LastChanged_Achievements": "2023-06-11T00:02:10.2613976+00:00",
+  "LastChanged_Achievements": "2023-06-11T02:32:23.6742347+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-10T23:58:24.3621849+00:00",
-  "LastUpdate_Achievements": "2023-06-11T00:02:10.2614377+00:00"
+  "LastUpdate_Ratings": "2023-06-11T02:28:28.6649689+00:00",
+  "LastUpdate_Achievements": "2023-06-11T02:32:23.6742772+00:00"
 }

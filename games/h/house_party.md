@@ -22,6 +22,7 @@ Number of Ratings: 177  (23.09.2022)
 | Social Butterfly | 0.40% | ~22 |
 | Amy | 0.30% | ~17 |
 | I'll Be Back | 0.30% | ~17 |
+| It Smells Like Roses | 0.30% | ~8 |
 | Smooth Operator: Ashley | 0.30% | ~17 |
 | Stephanie | 0.30% | ~17 |
 | The Muse: Madison | 0.30% | ~17 |
@@ -31,7 +32,6 @@ Number of Ratings: 177  (23.09.2022)
 | Amy: Scavenger Hunt | 0.20% | ~11 |
 | Benedict Brahrnold | 0.20% | ~11 |
 | Casanova | 0.20% | ~11 |
-| It Smells Like Roses | 0.20% | ~5 |
 | Love Conquers All | 0.20% | ~11 |
 | Now It's a Party! | 0.20% | ~11 |
 | Rachael | 0.20% | ~11 |

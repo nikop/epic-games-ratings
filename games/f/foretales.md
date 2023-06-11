@@ -20,7 +20,7 @@
 | Heal thyself | 18.00% | ~47 |
 | Double trouble | 16.00% | ~42 |
 | It's not cheating | 16.00% | ~42 |
-| Stronk | 14.00% | ~37 |
+| Stronk | 15.00% | ~39 |
 | Welcome to Forte Ailes | 13.00% | ~34 |
 | Super Moth Boy | 12.00% | ~32 |
 | The Bad Place | 9.00% | ~24 |

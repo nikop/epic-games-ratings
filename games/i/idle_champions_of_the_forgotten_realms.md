@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,807 |
+| A Brief Tour of the Realms | 2.00% | ~1,808 |
 | Beast Intentions | 1.00% | ~904 |
 | The Cursed Farmer | 1.00% | ~904 |
 | The Mad Wizard | 1.00% | ~904 |
 | The Court of Storms | 0.90% | ~510 |
 | The Ring of Regeneration | 0.80% | ~723 |
 | Are Ya Chicken? | 0.70% | ~633 |
-| Beware the Jabberwock | 0.70% | ~396 |
+| Beware the Jabberwock | 0.70% | ~397 |
 | Were-verpowered | 0.60% | ~542 |
 | Seeking Allies | 0.60% | ~542 |
 | Friendly Imps | 0.60% | ~542 |
@@ -25,19 +25,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.50% | ~452 |
 | Pure Energy | 0.50% | ~452 |
 | Quick or Quack | 0.50% | ~283 |
-| Maddening | 0.40% | ~361 |
+| Maddening | 0.40% | ~362 |
 | Owlbear Necessities | 0.40% | ~227 |
 | Best Thay Ever | 0.40% | ~227 |
-| Beast Mode | 0.40% | ~361 |
-| A Mysterious Summons | 0.40% | ~361 |
-| Building Trust | 0.40% | ~361 |
-| Unearthed Evil | 0.40% | ~361 |
-| The Crumbling Temple | 0.40% | ~361 |
-| Useless Allies | 0.40% | ~361 |
-| Exploring Port Nyanzaru | 0.40% | ~361 |
-| Running of the Saurs | 0.40% | ~361 |
-| The Contagious Curse | 0.40% | ~361 |
-| Escort to Waterdeep | 0.40% | ~361 |
+| Beast Mode | 0.40% | ~362 |
+| A Mysterious Summons | 0.40% | ~362 |
+| Building Trust | 0.40% | ~362 |
+| Unearthed Evil | 0.40% | ~362 |
+| The Crumbling Temple | 0.40% | ~362 |
+| Useless Allies | 0.40% | ~362 |
+| Exploring Port Nyanzaru | 0.40% | ~362 |
+| Running of the Saurs | 0.40% | ~362 |
+| The Contagious Curse | 0.40% | ~362 |
+| Escort to Waterdeep | 0.40% | ~362 |
 | Third Third Out | 0.30% | ~170 |
 | The Silken Swamp | 0.30% | ~271 |
 | Supply Run | 0.30% | ~271 |
@@ -80,6 +80,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.20% | ~181 |
 | Upholding the Law | 0.20% | ~181 |
 | Cold as Ice | 0.20% | ~113 |
+| Friends and Foes | 0.20% | ~113 |
 | Tall Tales | 0.20% | ~113 |
 | Nightmare Rats! | 0.20% | ~113 |
 | The Witchlight Carnival | 0.20% | ~113 |
@@ -294,7 +295,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.20% | ~181 |
 | Starving in the Jungle | 0.10% | ~90 |
 | Keep Your Friends Close | 0.10% | ~57 |
-| Friends and Foes | 0.10% | ~57 |
 | And Your Enemies Closer | 0.10% | ~57 |
 | An Unexpected Geist | 0.10% | ~57 |
 | Back to Nature | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,367 (Ranked 64)  
+Progressed: 90,378 (Ranked 64)  
 Completed: 1,926 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 1,926 (2.13%) (Ranked 66)
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
-| 2023-06-11 | 90,367 | 1,926 |
+| 2023-06-11 | 90,378 | 1,926 |
 ## Awards
 Max (Diverse Characters): 4,928  (Ranked 64)  
 Sum: 30,075 (Ranked 37)  

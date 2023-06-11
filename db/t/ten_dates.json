@@ -4,8 +4,8 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -385,9 +385,9 @@
       "ID": "success_derek",
       "SetID": "6h5h9ho",
       "Name": "The debonair",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "success_hazel",
@@ -458,8 +458,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-06-11T00:06:03.4870685+00:00",
+  "LastChanged_Achievements": "2023-06-11T02:36:23.821616+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.4557641+00:00",
-  "LastUpdate_Ratings": "2023-06-10T23:57:23.7545382+00:00",
-  "LastUpdate_Achievements": "2023-06-11T00:06:03.4870804+00:00"
+  "LastUpdate_Ratings": "2023-06-11T02:27:25.1860961+00:00",
+  "LastUpdate_Achievements": "2023-06-11T02:36:23.8216291+00:00"
 }

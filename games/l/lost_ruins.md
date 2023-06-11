@@ -19,7 +19,7 @@
 | The End | 13.00% | ~48 |
 | Gladiator | 12.00% | ~44 |
 | Lumberjack | 12.00% | ~44 |
-| Troubleshooter | 11.00% | ~41 |
+| Troubleshooter | 12.00% | ~44 |
 | Money Swag | 8.00% | ~30 |
 | Oops | 7.00% | ~26 |
 | Shield Crusher | 7.00% | ~26 |

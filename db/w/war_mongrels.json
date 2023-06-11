@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -997,9 +997,9 @@
       "ID": "ACH_FIN_CH02",
       "SetID": "1j25agn",
       "Name": "The Breaking Point",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1245,8 +1245,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-30T02:57:27.9814128+00:00",
-  "LastChanged_Achievements": "2023-06-11T00:03:31.9677353+00:00",
+  "LastChanged_Achievements": "2023-06-11T02:33:46.6218446+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:37.2138018+00:00",
-  "LastUpdate_Ratings": "2023-06-10T23:57:30.41083+00:00",
-  "LastUpdate_Achievements": "2023-06-11T00:03:31.9677796+00:00"
+  "LastUpdate_Ratings": "2023-06-11T02:27:32.0638118+00:00",
+  "LastUpdate_Achievements": "2023-06-11T02:33:46.6218908+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 489,
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18940,
+  "EOS_Progressed": 18941,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -2868,6 +2868,11 @@
       "Time": "2023-06-11T00:06:20.5457388+00:00",
       "NumProgressed": 18940,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-11T02:36:41.3855309+00:00",
+      "NumProgressed": 18941,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -2911,7 +2916,7 @@
       "Name": "Builder",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 15531
+      "UsersEstimate": 15532
     },
     {
       "ID": "ach.060.goingdistance",
@@ -2935,7 +2940,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13258
+      "UsersEstimate": 13259
     },
     {
       "ID": "ach.090.perfectionist",
@@ -2975,7 +2980,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17046
+      "UsersEstimate": 17047
     },
     {
       "ID": "ach.140.legacy",
@@ -2983,7 +2988,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18561
+      "UsersEstimate": 18562
     },
     {
       "ID": "ach.150.pocket",
@@ -2991,7 +2996,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 12311
+      "UsersEstimate": 12312
     },
     {
       "ID": "ach.160.box",
@@ -2999,7 +3004,7 @@
       "Name": "Box of Trains",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6250
+      "UsersEstimate": 6251
     },
     {
       "ID": "ach.170.room",
@@ -3071,7 +3076,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17614
+      "UsersEstimate": 17615
     },
     {
       "ID": "ach.260.investor",
@@ -3135,7 +3140,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17235
+      "UsersEstimate": 17236
     },
     {
       "ID": "ach.340.steel",
@@ -3143,7 +3148,7 @@
       "Name": "Man of Steel",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     },
     {
       "ID": "ach.350.pipes",
@@ -3174,7 +3179,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18940,
+      "Progressed": 18941,
       "Completed": 30
     }
   ],
@@ -3182,8 +3187,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-06-04T19:59:14.0053535+00:00",
-  "LastChanged_Achievements": "2023-06-11T00:06:20.545738+00:00",
+  "LastChanged_Achievements": "2023-06-11T02:36:41.3855295+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:45.2420743+00:00",
-  "LastUpdate_Ratings": "2023-06-10T23:59:37.4110266+00:00",
-  "LastUpdate_Achievements": "2023-06-11T00:06:20.5457713+00:00"
+  "LastUpdate_Ratings": "2023-06-11T02:29:45.1416658+00:00",
+  "LastUpdate_Achievements": "2023-06-11T02:36:41.3855649+00:00"
 }

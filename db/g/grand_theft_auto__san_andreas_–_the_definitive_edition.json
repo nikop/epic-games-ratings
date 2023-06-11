@@ -2,13 +2,13 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 407,
+  "Ranking_Rating": 408,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10178,
+  "EOS_Progressed": 10190,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 766,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4308,6 +4308,11 @@
       "Time": "2023-06-11T00:06:35.3254512+00:00",
       "NumProgressed": 10178,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-11T02:36:56.489463+00:00",
+      "NumProgressed": 10190,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -4319,7 +4324,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8142
+      "UsersEstimate": 8152
     },
     {
       "ID": "ACH02",
@@ -4367,7 +4372,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1732
     },
     {
       "ID": "ACH08",
@@ -4375,7 +4380,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4885
+      "UsersEstimate": 4891
     },
     {
       "ID": "ACH09",
@@ -4399,7 +4404,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "ACH12",
@@ -4415,7 +4420,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1630
     },
     {
       "ID": "ACH14",
@@ -4423,7 +4428,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACH15",
@@ -4431,7 +4436,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH16",
@@ -4439,7 +4444,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "ACH17",
@@ -4455,7 +4460,7 @@
       "Name": "Saviour",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH19",
@@ -4463,7 +4468,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH20",
@@ -4479,7 +4484,7 @@
       "Name": "Lucky Spinner",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH22",
@@ -4487,7 +4492,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1223
     },
     {
       "ID": "ACH23",
@@ -4495,15 +4500,15 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2344
     },
     {
       "ID": "ACH24",
       "SetID": "4ck5mbe",
       "Name": "Not a Player",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH25",
@@ -4511,7 +4516,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH26",
@@ -4543,7 +4548,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACH30",
@@ -4598,7 +4603,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10178,
+      "Progressed": 10190,
       "Completed": 17
     }
   ],
@@ -4606,8 +4611,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-07T10:00:00.0297825+00:00",
-  "LastChanged_Achievements": "2023-06-11T00:06:35.3254509+00:00",
+  "LastChanged_Achievements": "2023-06-11T02:36:56.4894624+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-11T00:00:40.2640246+00:00",
-  "LastUpdate_Achievements": "2023-06-11T00:06:35.3254918+00:00"
+  "LastUpdate_Ratings": "2023-06-11T02:30:49.4771609+00:00",
+  "LastUpdate_Achievements": "2023-06-11T02:36:56.4895025+00:00"
 }

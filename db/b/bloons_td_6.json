@@ -3,12 +3,12 @@
   "Name": "Bloons TD 6",
   "ProductSlug": "bloons-td-6-bf95a0",
   "Ranking_Rating": 108,
-  "Ranking_Popularity": 86,
+  "Ranking_Popularity": 85,
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
     "PcReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -3718,11 +3718,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 18535,
       "NumberOfAwardsMax": 3202
+    },
+    {
+      "Time": "2023-06-11T02:30:46.5232526+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 18570,
+      "NumberOfAwardsMax": 3227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18535,
-  "NumberOfAwardsMax": 3202,
+  "NumberOfAwards": 18570,
+  "NumberOfAwardsMax": 3227,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3765,7 +3771,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3202
+      "Count": 3227
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3783,7 +3789,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1565
+      "Count": 1575
     },
     {
       "Text": "This game is Relaxing",
@@ -3816,8 +3822,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-06-10T19:01:07.3252577+00:00",
+  "LastChanged": "2023-06-11T02:30:46.5232524+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:44.5375166+00:00",
-  "LastUpdate_Ratings": "2023-06-11T00:00:37.4247812+00:00",
-  "LastUpdate_Achievements": "2023-06-11T00:05:32.5728428+00:00"
+  "LastUpdate_Ratings": "2023-06-11T02:30:46.5232531+00:00",
+  "LastUpdate_Achievements": "2023-06-11T02:35:51.7350657+00:00"
 }

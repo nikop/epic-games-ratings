@@ -5,22 +5,22 @@ Rating: 4.17 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 5.00% | ~3,224 |
-| Har, Har, Har, Very Funny | 3.00% | ~1,934 |
-| Loose Ends | 3.00% | ~1,934 |
-| The Batman Family | 2.00% | ~1,289 |
-| Something in the Clay | 2.00% | ~1,289 |
-| The Show Mud Go On | 2.00% | ~1,289 |
-| To the Victor Go the Spoils | 2.00% | ~1,289 |
-| Quartzer Life Crisis | 2.00% | ~1,289 |
-| Snow Problem | 2.00% | ~1,289 |
-| Get ReQ'd | 2.00% | ~1,289 |
-| Working Hard or Harley Working? | 2.00% | ~1,289 |
-| Unstoppable Force | 2.00% | ~1,289 |
-| Knighthood | 2.00% | ~1,289 |
-| Whispered Words | 2.00% | ~1,289 |
-| Lock and Key | 2.00% | ~1,289 |
-| Bad Apples in Every Orchard | 2.00% | ~1,289 |
+| First Step Into the Knight | 5.00% | ~3,225 |
+| Har, Har, Har, Very Funny | 3.00% | ~1,935 |
+| Loose Ends | 3.00% | ~1,935 |
+| The Batman Family | 2.00% | ~1,290 |
+| Something in the Clay | 2.00% | ~1,290 |
+| The Show Mud Go On | 2.00% | ~1,290 |
+| To the Victor Go the Spoils | 2.00% | ~1,290 |
+| Quartzer Life Crisis | 2.00% | ~1,290 |
+| Snow Problem | 2.00% | ~1,290 |
+| Get ReQ'd | 2.00% | ~1,290 |
+| Working Hard or Harley Working? | 2.00% | ~1,290 |
+| Unstoppable Force | 2.00% | ~1,290 |
+| Knighthood | 2.00% | ~1,290 |
+| Whispered Words | 2.00% | ~1,290 |
+| Lock and Key | 2.00% | ~1,290 |
+| Bad Apples in Every Orchard | 2.00% | ~1,290 |
 | End of an Era | 1.00% | ~645 |
 | In Your Element | 1.00% | ~645 |
 | Protector of Gotham | 1.00% | ~645 |
@@ -35,16 +35,16 @@ Rating: 4.17 (Ranked 850)
 | Seeking Asylum | 1.00% | ~645 |
 | Gotham Knight | 1.00% | ~645 |
 | Gotham City Confidential | 1.00% | ~645 |
-| Drone You Out | 0.90% | ~580 |
+| Drone You Out | 0.90% | ~581 |
 | Out of Their League | 0.80% | ~516 |
 | Solid Alibi | 0.80% | ~516 |
 | Fusion Expert | 0.60% | ~387 |
 | Family Meeting | 0.60% | ~387 |
-| Expert Crime Fighter | 0.50% | ~322 |
-| A Worthy Successor | 0.50% | ~322 |
+| Expert Crime Fighter | 0.50% | ~323 |
+| A Worthy Successor | 0.50% | ~323 |
 | Dressed to Impress | 0.40% | ~258 |
 | A Momentum Occasion | 0.40% | ~258 |
-| Bat Out of Hell | 0.30% | ~193 |
+| Bat Out of Hell | 0.30% | ~194 |
 | Hammer and Icicle | 0.20% | ~70 |
 | Renewable Enemy Source | 0.20% | ~70 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~70 |
@@ -56,18 +56,18 @@ Rating: 4.17 (Ranked 850)
 | Gotham's Greatest Depths | 0.10% | ~35 |
 | Showdown Sovereign | 0.10% | ~35 |
 | That's Showbiz, Clayby | 0.10% | ~35 |
-| Talonted | 0.10% | ~64 |
-| The Man-Bat Family | 0.10% | ~64 |
+| Talonted | 0.10% | ~65 |
+| The Man-Bat Family | 0.10% | ~65 |
 | Icebreaker | 0.10% | ~35 |
 | Don't Mecha Big Deal About It | 0.10% | ~35 |
-| Batarang Collector | 0.10% | ~64 |
-| Read Owl About It | 0.10% | ~64 |
-| History Major | 0.10% | ~64 |
-| Claiming the Mural High Ground | 0.10% | ~64 |
+| Batarang Collector | 0.10% | ~65 |
+| Read Owl About It | 0.10% | ~65 |
+| History Major | 0.10% | ~65 |
+| Claiming the Mural High Ground | 0.10% | ~65 |
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,474 (Ranked 71)  
+Progressed: 64,502 (Ranked 71)  
 Completed: 95 (0.15%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,10 +119,10 @@ Completed: 95 (0.15%) (Ranked 156)
 | 2023-06-08 | 64,117 | 94 |
 | 2023-06-09 | 64,309 | 95 |
 | 2023-06-10 | 64,465 | 95 |
-| 2023-06-11 | 64,474 | 95 |
+| 2023-06-11 | 64,502 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,317  (Ranked 97)  
-Sum: 3,830 (Ranked 137)  
+Sum: 3,832 (Ranked 137)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -131,7 +131,7 @@ Diff (max vs sum): -40
 | This game has Quickly Understood Controls | 197 |
 | This game is Relaxing | 195 |
 | This game has Amazing Characters | 193 |
-| This game has Diverse Characters | 185 |
+| This game has Diverse Characters | 187 |
 | This game has Amazing Storytelling | 183 |
 | This game is Great for Beginners | 181 |
 | This game is Highly Recommended | 181 |
@@ -249,3 +249,4 @@ Diff (max vs sum): -40
 | 2023-06-08 | 4.17 | 2,307 | 3,814 |
 | 2023-06-09 | 4.17 | 2,313 | 3,821 |
 | 2023-06-10 | 4.18 | 2,317 | 3,830 |
+| 2023-06-11 | 4.17 | 2,317 | 3,832 |

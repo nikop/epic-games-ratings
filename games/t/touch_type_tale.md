@@ -11,7 +11,7 @@
 | Do the Splits | 41.00% | ~1,214 |
 | Maestro | 28.00% | ~829 |
 | Full Employment | 20.00% | ~592 |
-| Clay Fighter | 17.00% | ~504 |
+| Clay Fighter | 18.00% | ~533 |
 | Nowhere left to Hide | 15.00% | ~444 |
 | All Ovens Blazing | 14.00% | ~415 |
 | Boulder Clash | 14.00% | ~415 |

@@ -1,24 +1,24 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.43 (Ranked 645)  
+Rating: 4.43 (Ranked 644)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,762 |
-| Predator I | 22.00% | ~55,186 |
+| Survivor | 31.00% | ~77,764 |
+| Predator I | 22.00% | ~55,187 |
 | Fixer I | 10.00% | ~25,085 |
 | A week in Century City | 10.00% | ~25,085 |
-| The Wait | 7.00% | ~17,559 |
+| The Wait | 7.00% | ~17,560 |
 | Green thumb I | 6.00% | ~15,051 |
 | Cleaning Company | 6.00% | ~15,051 |
-| Well-oiled machine | 5.00% | ~12,542 |
-| Saver I | 5.00% | ~12,542 |
+| Well-oiled machine | 5.00% | ~12,543 |
+| Saver I | 5.00% | ~12,543 |
 | The Ascent | 4.00% | ~10,034 |
 | Pacifist | 4.00% | ~10,034 |
 | Vandalism | 4.00% | ~10,034 |
 | Capitalist I | 4.00% | ~10,034 |
-| Adrenaline | 3.00% | ~7,525 |
+| Adrenaline | 3.00% | ~7,526 |
 | By a hair | 2.00% | ~5,017 |
 | Fixer II | 2.00% | ~5,017 |
 | It took a while | 2.00% | ~5,017 |
@@ -27,14 +27,14 @@ Rating: 4.43 (Ranked 645)
 | Predator II | 2.00% | ~5,017 |
 | Truffle Dog | 2.00% | ~5,017 |
 | A month in Century City | 2.00% | ~5,017 |
-| The Strengthening | 1.00% | ~2,508 |
-| Saver II | 1.00% | ~2,508 |
-| It's the last one, I swear | 1.00% | ~2,508 |
-| Botanist | 1.00% | ~2,508 |
-| Green thumb II | 1.00% | ~2,508 |
-| Don't try this at home | 1.00% | ~2,508 |
-| Bricklayer | 1.00% | ~2,508 |
-| Run the Economy | 1.00% | ~2,508 |
+| The Strengthening | 1.00% | ~2,509 |
+| Saver II | 1.00% | ~2,509 |
+| It's the last one, I swear | 1.00% | ~2,509 |
+| Botanist | 1.00% | ~2,509 |
+| Green thumb II | 1.00% | ~2,509 |
+| Don't try this at home | 1.00% | ~2,509 |
+| Bricklayer | 1.00% | ~2,509 |
+| Run the Economy | 1.00% | ~2,509 |
 | Committed Relationship | 0.80% | ~2,007 |
 | Number 1 | 0.70% | ~1,756 |
 | Interior designer | 0.60% | ~1,505 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 645)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,846 (Ranked 42)  
+Progressed: 250,852 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 1 (0.00%) (Ranked 214)
 | 2023-06-08 | 250,677 | 1 |
 | 2023-06-09 | 250,759 | 1 |
 | 2023-06-10 | 250,842 | 1 |
-| 2023-06-11 | 250,846 | 1 |
+| 2023-06-11 | 250,852 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 466)  
 Sum: 91 (Ranked 407)  
