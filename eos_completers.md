@@ -7,8 +7,8 @@
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
-| 8 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 16.67% |
-| 9 | [Island Cities](games/i/island_cities.md) | 15.92% |
+| 8 | [Island Cities](games/i/island_cities.md) | 15.92% |
+| 9 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 15.38% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
@@ -26,15 +26,15 @@
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.55% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.90% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.83% |
-| 28 | [Scorn](games/s/scorn.md) | 6.78% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.82% |
+| 28 | [Scorn](games/s/scorn.md) | 6.77% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.64% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.07% |
+| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.03% |
 | 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.02% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
@@ -66,8 +66,8 @@
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 64 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 67 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
-| 68 | [Iron Danger](games/i/iron_danger.md) | 2.02% |
+| 67 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 68 | [Iron Danger](games/i/iron_danger.md) | 2.01% |
 | 69 | [JARS](games/j/jars.md) | 1.89% |
 | 70 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 71 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -98,9 +98,9 @@
 | 95 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 97 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
-| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
-| 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
-| 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
+| 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
+| 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 102 | [Them and Us](games/t/them_and_us.md) | 0.74% |
 | 103 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.72% |
 | 103 | [Haven](games/h/haven.md) | 0.72% |
