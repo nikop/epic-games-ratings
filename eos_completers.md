@@ -7,7 +7,7 @@
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
-| 8 | [Island Cities](games/i/island_cities.md) | 15.67% |
+| 8 | [Island Cities](games/i/island_cities.md) | 15.62% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
@@ -34,7 +34,7 @@
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.95% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.94% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 37 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.88% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
@@ -45,7 +45,7 @@
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 45 | [ZZT!](games/z/zzt!.md) | 3.32% |
-| 46 | [The Complex](games/t/the_complex.md) | 3.29% |
+| 46 | [The Complex](games/t/the_complex.md) | 3.28% |
 | 47 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.18% |
 | 48 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.10% |
 | 49 | [The Bunker](games/t/the_bunker.md) | 3.00% |
@@ -54,7 +54,7 @@
 | 52 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 54 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
-| 54 | [Lamentum](games/l/lamentum.md) | 2.78% |
+| 55 | [Lamentum](games/l/lamentum.md) | 2.77% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 57 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.63% |
 | 58 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.62% |
@@ -66,7 +66,7 @@
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 64 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 67 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 67 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 68 | [Iron Danger](games/i/iron_danger.md) | 1.99% |
 | 69 | [JARS](games/j/jars.md) | 1.89% |
 | 70 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -88,7 +88,7 @@
 | 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
 | 87 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.11% |
 | 87 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.11% |
-| 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.06% |
+| 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.05% |
 | 90 | [Late Shift](games/l/late_shift.md) | 0.99% |
 | 91 | [Sable](games/s/sable.md) | 0.95% |
 | 92 | [Five Dates](games/f/five_dates.md) | 0.94% |
@@ -102,8 +102,8 @@
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
 | 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 102 | [Them and Us](games/t/them_and_us.md) | 0.74% |
-| 103 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.72% |
 | 103 | [Haven](games/h/haven.md) | 0.72% |
+| 104 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.71% |
 | 105 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.70% |
 | 106 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.69% |
 | 107 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.67% |
