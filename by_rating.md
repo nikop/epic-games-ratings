@@ -633,6 +633,7 @@
 | 630 | [ELEX](games/e/elex.md) | 4.44 | 24 | 469 |
 | 630 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 494 |
 | 630 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 494 |
+| 630 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.44 | 0 | 494 |
 | 630 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 858 | 145 |
 | 630 | [Predecessor](games/p/predecessor.md) | 4.44 | 110 | 316 |
 | 630 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 494 |
@@ -643,18 +644,17 @@
 | 630 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 330 |
 | 630 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 494 |
 | 630 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 382 |
-| 644 | [Death Coming](games/d/death_coming.md) | 4.43 | 0 | 494 |
-| 644 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 494 |
-| 644 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 25 | 466 |
-| 644 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 0 | 494 |
-| 644 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.43 | 0 | 494 |
-| 644 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.43 | 0 | 494 |
-| 644 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.43 | 0 | 494 |
-| 644 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 50 | 392 |
-| 644 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 494 |
-| 644 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 370 |
-| 644 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 494 |
-| 644 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 279 | 233 |
+| 645 | [Death Coming](games/d/death_coming.md) | 4.43 | 0 | 494 |
+| 645 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 494 |
+| 645 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 25 | 466 |
+| 645 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 0 | 494 |
+| 645 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.43 | 0 | 494 |
+| 645 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.43 | 0 | 494 |
+| 645 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.43 | 50 | 392 |
+| 645 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 494 |
+| 645 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 370 |
+| 645 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 494 |
+| 645 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 279 | 233 |
 | 656 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.42 | 0 | 494 |
 | 656 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 380 |
 | 656 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 30 | 451 |
@@ -740,7 +740,7 @@
 | 737 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 494 |
 | 737 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 53 | 385 |
 | 737 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 494 |
-| 737 | [Paladins](games/p/paladins.md) | 4.34 | 3,286 | 83 |
+| 737 | [Paladins](games/p/paladins.md) | 4.34 | 3,291 | 83 |
 | 737 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 494 |
 | 737 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,016 | 63 |
 | 737 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 242 | 245 |

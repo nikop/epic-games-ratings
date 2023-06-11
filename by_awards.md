@@ -82,7 +82,7 @@
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,464 | 4.47 | 592 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,352 | 4.46 | 605 |
 | 82 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,330 | 4.68 | 239 |
-| 83 | [Paladins](games/p/paladins.md) | 3,286 | 4.34 | 737 |
+| 83 | [Paladins](games/p/paladins.md) | 3,291 | 4.34 | 737 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,242 | 4.59 | 408 |
 | 85 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,227 | 4.77 | 108 |
 | 86 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,223 | 4.76 | 118 |
@@ -232,7 +232,7 @@
 | 230 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 294 | 4.54 | 489 |
 | 231 | [Railway Empire](games/r/railway_empire.md) | 283 | 4.51 | 529 |
 | 231 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 283 | 4.59 | 408 |
-| 233 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 279 | 4.43 | 644 |
+| 233 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 279 | 4.43 | 645 |
 | 234 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 278 | 4.46 | 605 |
 | 235 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 274 | 4.62 | 347 |
 | 236 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 273 | 4.49 | 565 |
@@ -370,7 +370,7 @@
 | 368 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 239 |
 | 369 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 67 | 4.74 | 143 |
 | 370 | [Potion Permit](games/p/potion_permit.md) | 66 | 3.81 | 927 |
-| 370 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 644 |
+| 370 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 645 |
 | 370 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 313 |
 | 373 | [DOOM 3](games/d/doom_3.md) | 65 | 4.61 | 359 |
 | 374 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 529 |
@@ -394,7 +394,7 @@
 | 392 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 835 |
 | 392 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 50 | 4.56 | 453 |
 | 392 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 50 | 4.70 | 194 |
-| 392 | [Ranch Simulator](games/r/ranch_simulator.md) | 50 | 4.43 | 644 |
+| 392 | [Ranch Simulator](games/r/ranch_simulator.md) | 50 | 4.43 | 645 |
 | 392 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 50 | 4.56 | 453 |
 | 397 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 49 | 4.66 | 277 |
 | 398 | [ATOM RPG](games/a/atom_rpg.md) | 48 | 4.46 | 605 |
@@ -466,7 +466,7 @@
 | 462 | [The Surge](games/t/the_surge.md) | 26 | 4.46 | 605 |
 | 462 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 26 | 4.80 | 79 |
 | 466 | [City of Gangsters](games/c/city_of_gangsters.md) | 25 | 4.25 | 795 |
-| 466 | [Hell is Others](games/h/hell_is_others.md) | 25 | 4.43 | 644 |
+| 466 | [Hell is Others](games/h/hell_is_others.md) | 25 | 4.43 | 645 |
 | 466 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 720 |
 | 469 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 24 | 4.75 | 134 |
 | 469 | [ELEX](games/e/elex.md) | 24 | 4.44 | 630 |

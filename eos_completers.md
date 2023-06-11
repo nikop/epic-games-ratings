@@ -15,7 +15,7 @@
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
-| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.17% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
@@ -40,8 +40,8 @@
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.79% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
-| 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.73% |
-| 42 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
+| 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
+| 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 45 | [The Complex](games/t/the_complex.md) | 3.29% |
@@ -56,7 +56,7 @@
 | 54 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
 | 54 | [Lamentum](games/l/lamentum.md) | 2.78% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 57 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.66% |
+| 57 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.65% |
 | 58 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.63% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
