@@ -27,6 +27,7 @@
 | [Bob A thousand lives - Enhanced Edition](games/b/bob_a_thousand_lives.md) | 2023-06-24 | - |  | - | - |
 | [SOULVARS](games/1/188fb42582e24d20b0a876ed817efd69.md) | 2023-06-26 | - |  | - | - |
 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 2023-06-28 | - |  | - | - |
+| [Your Computer Might Be At Risk](games/0/04db5160b1fa4fb9acd8f8603f65e12d.md) | 2023-06-28 | - |  | - | - |
 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 2023-06-28 | - |  | - | - |
 | [Journey to the West](games/j/journey_to_the_west.md) | 2023-06-29 | - |  | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-06-30 | - |  | - | - |

@@ -13,7 +13,7 @@
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
-| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.67% |
+| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.48% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
@@ -30,7 +30,7 @@
 | 28 | [Scorn](games/s/scorn.md) | 6.78% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.67% |
+| 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.64% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
@@ -98,9 +98,9 @@
 | 95 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 97 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
-| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
-| 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
-| 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
+| 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
+| 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 102 | [Them and Us](games/t/them_and_us.md) | 0.74% |
 | 103 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.72% |
 | 103 | [Haven](games/h/haven.md) | 0.72% |
@@ -115,11 +115,11 @@
 | 113 | [Grindstone](games/g/grindstone.md) | 0.53% |
 | 114 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 115 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
-| 116 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 116 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
-| 118 | [Potion Permit](games/p/potion_permit.md) | 0.43% |
-| 119 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 119 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
+| 116 | [Tails of Iron](games/t/tails_of_iron.md) | 0.48% |
+| 117 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 117 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
+| 119 | [Potion Permit](games/p/potion_permit.md) | 0.43% |
+| 120 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 121 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 122 | [Tchia](games/t/tchia.md) | 0.36% |
@@ -440,4 +440,4 @@
 | 214 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 214 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 214 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,761 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,762 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
