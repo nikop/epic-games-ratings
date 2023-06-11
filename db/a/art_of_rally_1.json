@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10115,
+  "EOS_Progressed": 10116,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -891,6 +891,11 @@
       "Time": "2023-06-11T16:05:28.0715135+00:00",
       "NumProgressed": 10115,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-11T17:06:21.3971317+00:00",
+      "NumProgressed": 10116,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1044,9 +1049,9 @@
       "ID": "ACH_COMPLETE_GROUPS",
       "SetID": "9002fpg",
       "Name": "parallel universe",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1012
+      "UsersEstimate": 910
     },
     {
       "ID": "ACH_COMPLETE_NEAR_TOTALLED",
@@ -1110,7 +1115,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5664
+      "UsersEstimate": 5665
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1126,7 +1131,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9710
+      "UsersEstimate": 9711
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1238,22 +1243,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7283
+      "UsersEstimate": 7284
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10115,
+      "Progressed": 10116,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-11T16:05:28.071513+00:00",
+  "LastChanged_Achievements": "2023-06-11T17:06:21.3971312+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:31.6442423+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:57:23.2633662+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:05:28.0715436+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:57:32.3306156+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:06:21.3971714+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -356,7 +356,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5529,
+  "EOS_Progressed": 5530,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 1,
@@ -2441,6 +2441,11 @@
       "Time": "2023-06-11T15:03:45.4987725+00:00",
       "NumProgressed": 5529,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-11T17:04:15.1539225+00:00",
+      "NumProgressed": 5530,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -2698,9 +2703,9 @@
       "ID": "Inspector",
       "SetID": "bmkn7o4",
       "Name": "Inspector",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 28
     },
     {
       "ID": "ItSmellsLikeRoses",
@@ -3003,21 +3008,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2568,
+      "Progressed": 2569,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5529,
+      "Progressed": 5530,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-11T16:03:46.1061137+00:00",
+  "LastChanged_Achievements": "2023-06-11T17:04:15.1539221+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:26.4905309+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:57:19.8596553+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:03:46.1061804+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:57:27.8487962+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:04:15.1540238+00:00"
 }

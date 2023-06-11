@@ -4,7 +4,7 @@
   "ProductSlug": "hello-neighbor",
   "Ranking_Rating": 473,
   "Ranking_Popularity": 259,
-  "Ranking_PopularitySum": 217,
+  "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 324,
@@ -2122,6 +2122,6 @@
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
   "LastChanged": "2023-06-11T14:58:14.6848388+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:43.6835494+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:58:15.4860781+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:02:15.6402775+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:58:40.4891394+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:03:01.8457913+00:00"
 }

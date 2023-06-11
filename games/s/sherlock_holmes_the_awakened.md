@@ -11,8 +11,8 @@
 | Fond Memories | 50.00% | ~214 |
 | A Method To His Madness | 48.00% | ~205 |
 | History Check | 47.00% | ~201 |
+| The New World | 45.00% | ~193 |
 | Lock, Stock, And Barrel | 44.00% | ~188 |
-| The New World | 44.00% | ~188 |
 | Gaze Into The Abyss | 43.00% | ~184 |
 | Open Sesame | 42.00% | ~180 |
 | Sticky Fingers | 42.00% | ~180 |
@@ -28,7 +28,7 @@
 | Let Me Be Frank | 34.00% | ~146 |
 | Brain Food | 31.00% | ~133 |
 | No Stone Unturned | 30.00% | ~128 |
-| Curiosity Killed The Cat | 20.00% | ~86 |
+| Curiosity Killed The Cat | 21.00% | ~90 |
 | Read It And Weep | 18.00% | ~77 |
 | Big Breakthrough | 15.00% | ~64 |
 | Reawakened | 5.00% | ~21 |

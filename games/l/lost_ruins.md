@@ -19,7 +19,7 @@
 | Lumberjack | 13.00% | ~49 |
 | Orcs Must Die! | 13.00% | ~49 |
 | The End | 13.00% | ~49 |
-| Troubleshooter | 11.00% | ~41 |
+| Troubleshooter | 12.00% | ~45 |
 | Money Swag | 8.00% | ~30 |
 | Oops | 7.00% | ~26 |
 | Shield Crusher | 7.00% | ~26 |
@@ -29,7 +29,7 @@
 | Trio | 5.00% | ~19 |
 | Spell Master | 4.00% | ~15 |
 | Arrive Home | 3.00% | ~11 |
-| Holy Knight | 2.00% | ~8 |
+| Holy Knight | 3.00% | ~11 |
 | Hoarder | 2.00% | ~8 |
 | Marksman | 2.00% | ~8 |
 | Meat Lover | 2.00% | ~8 |

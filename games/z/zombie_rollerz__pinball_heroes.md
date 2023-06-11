@@ -9,9 +9,9 @@
 | Graduation! | 81.00% | ~80 |
 | Villfir Forest | 77.00% | ~76 |
 | Right in the kisser! | 63.00% | ~62 |
-| Duscot Steamcity | 51.00% | ~50 |
-| The Shaman | 49.00% | ~49 |
-| The Thrower | 47.00% | ~47 |
+| Duscot Steamcity | 52.00% | ~51 |
+| The Shaman | 51.00% | ~50 |
+| The Thrower | 48.00% | ~48 |
 | The Penguin | 46.00% | ~46 |
 | The Magician | 44.00% | ~44 |
 | The Tunneler | 40.00% | ~40 |
@@ -25,8 +25,8 @@
 | The Ninja | 26.00% | ~26 |
 | I'm Rich | 24.00% | ~24 |
 | Untouchable | 23.00% | ~23 |
+| 1 is all I need | 21.00% | ~21 |
 | The Slime | 21.00% | ~21 |
-| 1 is all I need | 20.00% | ~20 |
 | The Giant | 19.00% | ~19 |
 | The Flower | 17.00% | ~17 |
 | Out of the Frying Pan... | 17.00% | ~17 |

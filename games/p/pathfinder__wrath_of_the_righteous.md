@@ -9,7 +9,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 17.00% | ~1,662 |
 | A Spark | 12.00% | ~1,173 |
 | Burning City | 11.00% | ~1,075 |
-| Defender's Heart | 10.00% | ~977 |
+| Defender's Heart | 10.00% | ~978 |
 | Banner over the Citadel | 9.00% | ~880 |
 | Mythic Choices | 9.00% | ~880 |
 | Queen's Gratitude | 8.00% | ~782 |
@@ -26,15 +26,15 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 3.00% | ~293 |
 | Next-Door Play | 3.00% | ~293 |
 | Get the Toad | 3.00% | ~293 |
-| Heart of the Fallen Land | 2.00% | ~195 |
-| Path of the Trickster | 2.00% | ~195 |
-| Path of the Lich | 2.00% | ~195 |
-| Heroic Victory | 2.00% | ~195 |
-| Divide and Rule | 2.00% | ~195 |
-| Mythic Reinforcements | 2.00% | ~195 |
-| Core of the Riddle | 2.00% | ~195 |
-| Your First Big Enemy | 2.00% | ~195 |
-| Hey, I Know You! | 2.00% | ~195 |
+| Heart of the Fallen Land | 2.00% | ~196 |
+| Path of the Trickster | 2.00% | ~196 |
+| Path of the Lich | 2.00% | ~196 |
+| Heroic Victory | 2.00% | ~196 |
+| Divide and Rule | 2.00% | ~196 |
+| Mythic Reinforcements | 2.00% | ~196 |
+| Core of the Riddle | 2.00% | ~196 |
+| Your First Big Enemy | 2.00% | ~196 |
+| Hey, I Know You! | 2.00% | ~196 |
 | Stay Underground | 2.00% | ~171 |
 | Hanged Man's Notes | 2.00% | ~171 |
 | Sarkoris Will Be Green | 2.00% | ~171 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,774 (Ranked 112)  
+Progressed: 9,776 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,21 +175,21 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 9,650 | 0 |
 | 2023-06-09 | 9,691 | 0 |
 | 2023-06-10 | 9,745 | 0 |
-| 2023-06-11 | 9,774 | 0 |
+| 2023-06-11 | 9,776 | 0 |
 ## Awards
 Max (Character Customization): 1,660  (Ranked 111)  
-Sum: 6,735 (Ranked 109)  
+Sum: 6,738 (Ranked 109)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,660 |
-| This game is Extremely Fun | 636 |
+| This game is Extremely Fun | 638 |
 | This game is Highly Recommended | 616 |
 | This game has Amazing Characters | 614 |
 | This game has Diverse Characters | 601 |
 | This game has Amazing Storytelling | 595 |
 | This game has Challenging Combat | 555 |
-| This game has Quickly Understood Controls | 553 |
+| This game has Quickly Understood Controls | 554 |
 | This game is Relaxing | 530 |
 | This game has a Creative Community | 375 |
 | This game has Obsessive Gameplay | 364 |
@@ -331,4 +331,4 @@ Diff (max vs sum): 2
 | 2023-06-08 | 4.76 | - | 1,656 | 6,720 |
 | 2023-06-09 | 4.76 | - | 1,658 | 6,722 |
 | 2023-06-10 | 4.76 | - | 1,658 | 6,729 |
-| 2023-06-11 | 4.76 | - | 1,660 | 6,735 |
+| 2023-06-11 | 4.76 | - | 1,660 | 6,738 |

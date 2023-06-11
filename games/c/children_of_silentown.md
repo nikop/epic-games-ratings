@@ -9,16 +9,16 @@
 | Spyglass | 84.00% | ~140 |
 | Broken toy | 78.00% | ~130 |
 | Egghead Lucy | 75.00% | ~125 |
-| Puppy | 62.00% | ~104 |
+| Puppy | 63.00% | ~105 |
 | Coal's fur | 59.00% | ~99 |
 | Blue's drawing | 54.00% | ~90 |
 | Mysterious footprints | 47.00% | ~78 |
 | Glass shards | 46.00% | ~77 |
 | Complicated padlock | 43.00% | ~72 |
 | Big metal ruler | 41.00% | ~68 |
+| Windmill | 38.00% | ~63 |
 | Doll | 37.00% | ~62 |
-| Windmill | 37.00% | ~62 |
-| Cat | 31.00% | ~52 |
+| Cat | 32.00% | ~53 |
 | Mysterious paintings | 31.00% | ~52 |
 | Depths of the well | 25.00% | ~42 |
 | Children | 22.00% | ~37 |

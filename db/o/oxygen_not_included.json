@@ -1665,10 +1665,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2210,
       "NumberOfAwardsMax": 256
+    },
+    {
+      "Time": "2023-06-11T16:58:27.0057934+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2212,
+      "NumberOfAwardsMax": 256
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2210,
+  "NumberOfAwards": 2212,
   "NumberOfAwardsMax": 256,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1718,7 +1724,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 228
+      "Count": 229
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1736,7 +1742,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 218
+      "Count": 219
     }
   ],
   "EOS_Progressed": 0,
@@ -1750,8 +1756,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2023-06-08T20:58:15.0609622+00:00",
+  "LastChanged": "2023-06-11T16:58:27.0057932+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:29.3950855+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:58:05.4712253+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:04:18.4021362+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:58:27.0057938+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:04:54.6695576+00:00"
 }

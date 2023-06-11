@@ -10,6 +10,8 @@
 | Summer Day | 25.00% | ~1 |
 | You Have Been Everywhere | 25.00% | ~1 |
 | Animal Sighting | 25.00% | ~1 |
+| Risky Rescue | 25.00% | ~1 |
+| Carlos Is Tangled | 25.00% | ~1 |
 | King of the Mountain | 0.00% | ~0 |
 | A Great Explorer | 0.00% | ~0 |
 | Nothing Can Stop You | 0.00% | ~0 |
@@ -27,8 +29,6 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 | Paw patrol member | 0.00% | ~0 |
-| Risky Rescue | 0.00% | ~0 |
-| Carlos Is Tangled | 0.00% | ~0 |
 | Mandy Family | 0.00% | ~0 |
 | Robot Out of Control | 0.00% | ~0 |
 | Don’t Miss Any | 0.00% | ~0 |

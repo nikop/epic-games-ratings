@@ -51,10 +51,10 @@ Number of Ratings: 45  (23.09.2022)
 | War-Ender | 2.00% | ~25 |
 | Fight Like a Bird | 2.00% | ~25 |
 | Some Say I'm Too Flashy | 2.00% | ~25 |
+| Symbiosis | 2.00% | ~25 |
 | Tempest | 2.00% | ~25 |
 | Lochias's Hunger | 2.00% | ~25 |
 | Solid as the Hills | 1.00% | ~13 |
-| Symbiosis | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |
 | Thwack! | 1.00% | ~13 |
 | A Temperamental Shrub | 1.00% | ~13 |

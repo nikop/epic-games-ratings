@@ -12,9 +12,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 1.00% | ~904 |
 | The Court of Storms | 0.90% | ~510 |
 | The Ring of Regeneration | 0.80% | ~724 |
+| Beware the Jabberwock | 0.80% | ~454 |
 | Seeking Allies | 0.70% | ~633 |
 | Are Ya Chicken? | 0.70% | ~633 |
-| Beware the Jabberwock | 0.70% | ~397 |
 | Were-verpowered | 0.60% | ~543 |
 | Mad Cow Disease | 0.60% | ~543 |
 | Friendly Imps | 0.60% | ~543 |
@@ -23,7 +23,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 0.50% | ~284 |
 | A Persistent Buzzing | 0.50% | ~452 |
 | Terror in the Dark | 0.50% | ~452 |
-| Unearthed Evil | 0.50% | ~452 |
 | The Crumbling Temple | 0.50% | ~452 |
 | Pure Energy | 0.50% | ~452 |
 | Quick or Quack | 0.50% | ~284 |
@@ -34,6 +33,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.40% | ~362 |
 | A Mysterious Summons | 0.40% | ~362 |
 | Building Trust | 0.40% | ~362 |
+| Unearthed Evil | 0.40% | ~362 |
 | Useless Allies | 0.40% | ~362 |
 | Exploring Port Nyanzaru | 0.40% | ~362 |
 | Running of the Saurs | 0.40% | ~362 |
@@ -281,6 +281,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Bleeding Citadel | 0.20% | ~113 |
 | Idyllglen | 0.20% | ~113 |
 | The Madness of Yeenoghu | 0.20% | ~113 |
+| Reya Reborn | 0.20% | ~113 |
 | The Radiant Nightmare | 0.20% | ~113 |
 | Witty Riposting | 0.20% | ~113 |
 | Waiting on Sunrise | 0.20% | ~113 |
@@ -465,7 +466,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Every Day | 0.10% | ~57 |
 | Don't Pick at the Scab | 0.10% | ~57 |
 | Going To Eleven | 0.10% | ~57 |
-| Reya Reborn | 0.10% | ~57 |
 | Quick Thinking | 0.10% | ~57 |
 | Tough Acting | 0.10% | ~57 |
 | Frontline Fighters | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,441 (Ranked 64)  
+Progressed: 90,447 (Ranked 64)  
 Completed: 1,928 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 1,928 (2.13%) (Ranked 66)
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
-| 2023-06-11 | 90,441 | 1,928 |
+| 2023-06-11 | 90,447 | 1,928 |
 ## Awards
 Max (Diverse Characters): 4,928  (Ranked 64)  
 Sum: 30,075 (Ranked 37)  

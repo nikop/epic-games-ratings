@@ -20,8 +20,8 @@ Number of Ratings: 48  (23.09.2022)
 | Rune Wall Wreckage | 49.00% | ~326 |
 | ...And Your Tax Money | 47.00% | ~313 |
 | The Lords of the Snowpeak | 40.00% | ~266 |
+| The Go-To Girl | 37.00% | ~246 |
 | The Lava Mantor Wyrm | 36.00% | ~240 |
-| The Go-To Girl | 36.00% | ~240 |
 | Scavenger's Honor | 36.00% | ~240 |
 | Natural Born Monster-Killer | 36.00% | ~240 |
 | The Great Forest...On Foot! | 36.00% | ~240 |

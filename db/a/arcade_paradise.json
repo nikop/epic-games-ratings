@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 628,
+  "EOS_Progressed": 629,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -353,6 +353,11 @@
       "Time": "2023-06-11T14:06:00.9912969+00:00",
       "NumProgressed": 628,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T17:06:41.7120616+00:00",
+      "NumProgressed": 629,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -412,7 +417,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "AhoyTrophy",
@@ -508,7 +513,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "Ext4Trophy",
@@ -540,7 +545,7 @@
       "Name": "Machine Maxed",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "GoldGuyTrophy",
@@ -570,9 +575,9 @@
       "ID": "GumTrophy",
       "SetID": "32aeje8",
       "Name": "Hidden Packages",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 63
     },
     {
       "ID": "HammerTrophy",
@@ -644,7 +649,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "MaxPriceTrophy",
@@ -764,7 +769,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -795,7 +800,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 628,
+      "Progressed": 629,
       "Completed": 0
     }
   ],
@@ -803,8 +808,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-06-11T16:05:45.0860363+00:00",
+  "LastChanged_Achievements": "2023-06-11T17:06:41.7120612+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:26.3217944+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:58:02.7841281+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:05:45.0860774+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:58:23.8656086+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:06:41.7121113+00:00"
 }

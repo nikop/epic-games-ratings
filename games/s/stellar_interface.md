@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | First Blood | 82.00% | ~31 |
 | Killing Spree | 66.00% | ~25 |
-| 5Gb HDD | 42.00% | ~16 |
-| Merchant Prince I | 42.00% | ~16 |
+| 5Gb HDD | 45.00% | ~17 |
+| Merchant Prince I | 45.00% | ~17 |
 | Dominating | 29.00% | ~11 |
 | Fighting Fit I | 26.00% | ~10 |
 | Rambo I | 21.00% | ~8 |

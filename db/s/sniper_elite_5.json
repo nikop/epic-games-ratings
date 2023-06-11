@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2650,
+  "EOS_Progressed": 2653,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3221,6 +3221,11 @@
       "Time": "2023-06-11T16:05:39.7746357+00:00",
       "NumProgressed": 2650,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T17:06:35.4219228+00:00",
+      "NumProgressed": 2653,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3232,7 +3237,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -3256,7 +3261,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -3280,7 +3285,7 @@
       "Name": "Fields of Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -3304,7 +3309,7 @@
       "Name": "Strategist",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -3312,7 +3317,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3360,7 +3365,7 @@
       "Name": "Skirmisher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -3384,7 +3389,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -3400,7 +3405,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3456,7 +3461,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3480,7 +3485,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3536,7 +3541,7 @@
       "Name": "Tinkerer",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -3560,7 +3565,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -3584,7 +3589,7 @@
       "Name": "Road Rage",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -3592,7 +3597,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -3640,7 +3645,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -3799,13 +3804,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2601,
+      "Progressed": 2604,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2650,
+      "Progressed": 2653,
       "Completed": 2
     }
   ],
@@ -3813,8 +3818,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-11T16:05:39.7746351+00:00",
+  "LastChanged_Achievements": "2023-06-11T17:06:35.4219225+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-11T16:00:01.7165086+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:05:39.7747093+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:00:57.9823345+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:06:35.4220071+00:00"
 }

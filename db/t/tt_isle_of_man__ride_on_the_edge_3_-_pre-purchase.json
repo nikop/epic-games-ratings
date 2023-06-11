@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 83,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.41,
   "EosHistory": [
@@ -660,9 +660,9 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "gagif7",
       "Name": "Onwards and Upwards",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-06-11T16:03:01.9104692+00:00",
+  "LastChanged_Achievements": "2023-06-11T17:03:21.0596153+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:45.9583233+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:57:33.7702965+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:03:01.9104963+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:57:46.242802+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:03:21.0596765+00:00"
 }

@@ -1,29 +1,29 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.43 (Ranked 644)  
+Rating: 4.43 (Ranked 645)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,485 |
-| Returning Home: Quick Learner | 26.00% | ~1,292 |
-| Level: Charlie's Circuits | 22.00% | ~1,093 |
+| Level: Returning Home | 50.00% | ~2,486 |
+| Returning Home: Quick Learner | 26.00% | ~1,293 |
+| Level: Charlie's Circuits | 22.00% | ~1,094 |
 | Level: Rising Markets | 9.00% | ~447 |
 | Peddler | 8.00% | ~398 |
 | Level: Extra Life | 7.00% | ~348 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~348 |
 | Data Churn Type I | 7.00% | ~348 |
 | Millionaire | 6.00% | ~298 |
-| Data Churn Type II | 5.00% | ~248 |
-| Speedy | 5.00% | ~248 |
+| Data Churn Type II | 5.00% | ~249 |
+| Speedy | 5.00% | ~249 |
 | Extra Life: Wish Granted | 4.00% | ~199 |
 | High Five! | 4.00% | ~199 |
 | Modular Progress | 4.00% | ~199 |
-| Salesperson | 4.00% | ~199 |
 | Campaign: Lesson Learned | 3.00% | ~149 |
 | Level: Bet On Bots | 3.00% | ~149 |
 | Modular Performance | 3.00% | ~149 |
+| Salesperson | 3.00% | ~149 |
 | Level: Merry-Go-Around | 2.00% | ~99 |
 | Charlies's Circuits: Artist | 2.00% | ~99 |
 | Modular Peak | 2.00% | ~99 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,970 (Ranked 128)  
+Progressed: 4,972 (Ranked 128)  
 Completed: 1 (0.02%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 1 (0.02%) (Ranked 197)
 | 2023-06-08 | 4,946 | 1 |
 | 2023-06-09 | 4,957 | 1 |
 | 2023-06-10 | 4,966 | 1 |
-| 2023-06-11 | 4,970 | 1 |
+| 2023-06-11 | 4,972 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 435,
+  "EOS_Progressed": 438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -986,6 +986,11 @@
       "Time": "2023-06-11T14:03:31.2555327+00:00",
       "NumProgressed": 435,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T17:03:39.3039412+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -997,7 +1002,7 @@
       "Name": "Adventurous 1",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "adventurous_2",
@@ -1165,7 +1170,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "elemental_stones_2",
@@ -1237,7 +1242,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "glitter_of_gold_2",
@@ -1524,14 +1529,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 435,
+      "Progressed": 438,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-11T16:03:17.3207152+00:00",
+  "LastChanged_Achievements": "2023-06-11T17:03:39.3039403+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:57:00.1129162+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:03:17.3207675+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:57:03.4288162+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:03:39.3040309+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 55.00% | ~1,307 |
-| Keeping it classy | 24.00% | ~570 |
+| You're free now! | 55.00% | ~1,308 |
+| Keeping it classy | 24.00% | ~571 |
 | Welcome to the family | 18.00% | ~428 |
 | The finer things in life | 16.00% | ~380 |
-| Backpacker | 11.00% | ~261 |
-| Go with the Flow | 11.00% | ~261 |
+| Backpacker | 11.00% | ~262 |
+| Go with the Flow | 11.00% | ~262 |
 | Plastic Surgeon | 9.00% | ~214 |
 | Keep the dream alive | 8.00% | ~190 |
 | The flip trick crown jewel | 8.00% | ~190 |
@@ -24,7 +24,6 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 5.00% | ~119 |
 | Fulfilled the dream | 5.00% | ~119 |
 | G'Day Mate! | 5.00% | ~119 |
-| Purple passion | 5.00% | ~119 |
 | Squad goals | 5.00% | ~119 |
 | Sup widdit big dog! | 5.00% | ~119 |
 | Tight lipslides | 5.00% | ~119 |
@@ -35,12 +34,13 @@ Number of Ratings: 111  (23.09.2022)
 | Lines for days | 4.00% | ~95 |
 | Manny Destroys All | 4.00% | ~95 |
 | NAHELL! | 4.00% | ~95 |
+| Prince of Philly | 4.00% | ~95 |
+| Purple passion | 4.00% | ~95 |
 | Renaissance man | 4.00% | ~95 |
 | Tank commander | 4.00% | ~95 |
 | Cops called! | 3.00% | ~71 |
 | G.O.A.T. status | 3.00% | ~71 |
 | Hoarder | 3.00% | ~71 |
-| Prince of Philly | 3.00% | ~71 |
 | Trick shot marksman | 3.00% | ~71 |
 | We get it, you're good | 3.00% | ~71 |
 | Cross lock country | 2.00% | ~48 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,376 (Ranked 149)  
+Progressed: 2,378 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,11 +105,11 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 2,327 | 0 |
 | 2023-06-09 | 2,344 | 0 |
 | 2023-06-10 | 2,362 | 0 |
-| 2023-06-11 | 2,376 | 0 |
+| 2023-06-11 | 2,378 | 0 |
 ## Awards
-Max (Highly Recommended): 48  (Ranked 399)  
+Max (Highly Recommended): 48  (Ranked 400)  
 Sum: 421 (Ranked 300)  
-Diff (max vs sum): 99  
+Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 48 |

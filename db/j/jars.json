@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 53,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
@@ -269,9 +269,9 @@
       "ID": "ACH_SHOP_FIRST_PURCHASE",
       "SetID": "3jfhgga",
       "Name": "Uncle will be happy",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
@@ -294,8 +294,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-06-11T16:02:16.3833968+00:00",
+  "LastChanged_Achievements": "2023-06-11T17:03:02.7926164+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.2223585+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:57:54.6037663+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:02:16.3834098+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:58:13.1485858+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:03:02.7926384+00:00"
 }

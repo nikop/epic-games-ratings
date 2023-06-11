@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1139,
+  "EOS_Progressed": 1140,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 2,
@@ -1042,6 +1042,11 @@
       "Time": "2023-06-11T14:05:50.5539919+00:00",
       "NumProgressed": 1139,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-06-11T17:06:29.0573316+00:00",
+      "NumProgressed": 1140,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 11,
@@ -1053,7 +1058,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -1061,7 +1066,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ACH_Cacciavite",
@@ -1069,7 +1074,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1093,7 +1098,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_FineGioco",
@@ -1101,7 +1106,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -1109,7 +1114,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -1140,15 +1145,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1139,
+      "Progressed": 1140,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-06-11T16:05:34.5934177+00:00",
+  "LastChanged_Achievements": "2023-06-11T17:06:29.0573309+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:32.1999952+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:59:36.9196961+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:05:34.5934293+00:00"
+  "LastUpdate_Ratings": "2023-06-11T17:00:27.9426459+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:06:29.0573558+00:00"
 }

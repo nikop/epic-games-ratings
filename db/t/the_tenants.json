@@ -2,12 +2,12 @@
   "ID": "edaebe133189475c9fd853858b7fa9ac",
   "Name": "The Tenants",
   "ProductSlug": "the-tenants",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 489,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 82,
   "RatingHistory": [
     {
@@ -294,15 +294,21 @@
       "Rating": 4.53,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-11T16:59:07.2348112+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9677,
+  "EOS_Progressed": 9678,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -514,6 +520,11 @@
     {
       "Time": "2023-06-11T11:03:17.6425543+00:00",
       "NumProgressed": 9677,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T17:04:00.5386501+00:00",
+      "NumProgressed": 9678,
       "NumCompleted": 0
     }
   ],
@@ -1213,21 +1224,21 @@
     {
       "ID": "13614nd",
       "IsBase": true,
-      "Progressed": 9677,
+      "Progressed": 9678,
       "Completed": 0
     },
     {
       "ID": "1ejmoln",
       "IsBase": false,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
-  "LastChanged": "2023-06-04T15:58:50.0655065+00:00",
-  "LastChanged_Achievements": "2023-06-11T16:03:33.965904+00:00",
+  "LastChanged": "2023-06-11T16:59:07.234811+00:00",
+  "LastChanged_Achievements": "2023-06-11T17:04:00.5386495+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:10.1538297+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:58:34.4433828+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:03:33.9659821+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:59:07.2348116+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:04:00.5387477+00:00"
 }

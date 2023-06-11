@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clothes Hunter | 35.00% | ~6 |
-| Con Artist | 24.00% | ~4 |
-| I See Dead People | 24.00% | ~4 |
-| Exorcist | 24.00% | ~4 |
-| Electrician | 24.00% | ~4 |
-| Bedtime Storyteller | 18.00% | ~3 |
-| I Ain't Afraid of No Ghost | 18.00% | ~3 |
-| Card Sharp | 18.00% | ~3 |
-| Joyrider | 18.00% | ~3 |
-| Top Detective | 12.00% | ~2 |
+| Clothes Hunter | 33.00% | ~6 |
+| Con Artist | 22.00% | ~4 |
+| I See Dead People | 22.00% | ~4 |
+| Bedtime Storyteller | 22.00% | ~4 |
+| Exorcist | 22.00% | ~4 |
+| Electrician | 22.00% | ~4 |
+| I Ain't Afraid of No Ghost | 17.00% | ~3 |
+| Card Sharp | 17.00% | ~3 |
+| Joyrider | 17.00% | ~3 |
+| Top Detective | 11.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 345)  
-Completed: 2 (11.76%) (Ranked 13)  
+Progressed: 18 (Ranked 344)  
+Completed: 2 (11.11%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -27,4 +27,4 @@ Completed: 2 (11.76%) (Ranked 13)
 | 2023-06-07 | 3 | 2 |
 | 2023-06-09 | 5 | 2 |
 | 2023-06-10 | 10 | 2 |
-| 2023-06-11 | 17 | 2 |
+| 2023-06-11 | 18 | 2 |

@@ -20,8 +20,8 @@
 | Supreme Power | 41.00% | ~61 |
 | Glorious Battle | 40.00% | ~59 |
 | Diaper Time! | 40.00% | ~59 |
+| Target Practice | 40.00% | ~59 |
 | The Duelist | 39.00% | ~58 |
-| Target Practice | 39.00% | ~58 |
 | Meat Larder | 37.00% | ~55 |
 | Mutant And Proud | 36.00% | ~53 |
 | The Emperor's New Clothes | 30.00% | ~44 |
@@ -40,7 +40,7 @@
 | Fire Beacon | 22.00% | ~33 |
 | Lunch Before The Lunch | 20.00% | ~30 |
 | Building Blocks | 18.00% | ~27 |
-| From Here To Eternity | 16.00% | ~24 |
+| From Here To Eternity | 17.00% | ~25 |
 | Octopostructure | 15.00% | ~22 |
 | Boss Hunter | 15.00% | ~22 |
 | Hawkman | 8.00% | ~12 |

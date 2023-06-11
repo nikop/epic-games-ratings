@@ -5,46 +5,46 @@ Rating: 4.05 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,286 |
-| World Map | 80.00% | ~1,094 |
-| Temple of Eternals | 57.00% | ~780 |
-| Prestigious | 53.00% | ~725 |
-| Fellowship Power | 40.00% | ~547 |
-| Guild Power | 24.00% | ~328 |
-| Prestigious x10 | 21.00% | ~287 |
-| The game is on | 18.00% | ~246 |
+| Victor | 94.00% | ~1,289 |
+| World Map | 80.00% | ~1,097 |
+| Temple of Eternals | 57.00% | ~781 |
+| Prestigious | 53.00% | ~727 |
+| Fellowship Power | 40.00% | ~548 |
+| Guild Power | 24.00% | ~329 |
+| Prestigious x10 | 21.00% | ~288 |
+| The game is on | 18.00% | ~247 |
 | Exotic Merchant | 17.00% | ~233 |
 | Dragon Clicker | 16.00% | ~219 |
 | Miner Clicker | 16.00% | ~219 |
-| Inspection | 15.00% | ~205 |
+| Inspection | 15.00% | ~206 |
 | Full Party | 14.00% | ~192 |
 | Dragon Master | 13.00% | ~178 |
 | Enlightenment | 13.00% | ~178 |
 | Hero inspection | 13.00% | ~178 |
 | Lieutenant | 13.00% | ~178 |
-| The Unstoppable | 12.00% | ~164 |
-| Milestone collector | 11.00% | ~150 |
-| Mysterious Rock | 11.00% | ~150 |
-| Natural Talent | 11.00% | ~150 |
-| Superior | 11.00% | ~150 |
+| The Unstoppable | 12.00% | ~165 |
+| Milestone collector | 11.00% | ~151 |
+| Mysterious Rock | 11.00% | ~151 |
+| Natural Talent | 11.00% | ~151 |
+| Superior | 11.00% | ~151 |
 | Scientist | 9.00% | ~123 |
-| Challenger | 8.00% | ~109 |
-| Daily Quest Completionist | 8.00% | ~109 |
-| Scroll Master | 8.00% | ~109 |
-| The power of Awakening | 8.00% | ~109 |
+| Challenger | 8.00% | ~110 |
+| Daily Quest Completionist | 8.00% | ~110 |
+| Hunter | 8.00% | ~110 |
+| Scroll Master | 8.00% | ~110 |
+| The power of Awakening | 8.00% | ~110 |
 | Doing My Part | 7.00% | ~96 |
 | Frostfire Liberator | 7.00% | ~96 |
-| Hunter | 7.00% | ~96 |
 | Mastery | 7.00% | ~96 |
 | Moving Up The Ladder | 7.00% | ~96 |
 | Relic Of The Past | 7.00% | ~96 |
 | Four Leaf Clover | 6.00% | ~82 |
-| Here We Go Again | 5.00% | ~68 |
-| How Do You Turn This On? | 5.00% | ~68 |
-| Master Enchanter | 5.00% | ~68 |
-| The Expeditioner | 5.00% | ~68 |
-| The father of Dragons | 5.00% | ~68 |
-| Trader | 5.00% | ~68 |
+| Here We Go Again | 5.00% | ~69 |
+| How Do You Turn This On? | 5.00% | ~69 |
+| Master Enchanter | 5.00% | ~69 |
+| The Expeditioner | 5.00% | ~69 |
+| The father of Dragons | 5.00% | ~69 |
+| Trader | 5.00% | ~69 |
 | Ancient Knowledge | 4.00% | ~55 |
 | Background Story | 4.00% | ~55 |
 | Enchanting skill | 4.00% | ~55 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 890)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,368 (Ranked 163)  
+Progressed: 1,371 (Ranked 163)  
 Completed: 1 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 1 (0.07%) (Ranked 177)
 | 2023-06-08 | 1,341 | 1 |
 | 2023-06-09 | 1,349 | 1 |
 | 2023-06-10 | 1,360 | 1 |
-| 2023-06-11 | 1,368 | 1 |
+| 2023-06-11 | 1,371 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

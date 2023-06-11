@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2730,10 +2730,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6735,
       "NumberOfAwardsMax": 1660
+    },
+    {
+      "Time": "2023-06-11T16:58:32.244438+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6738,
+      "NumberOfAwardsMax": 1660
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6735,
+  "NumberOfAwards": 6738,
   "NumberOfAwardsMax": 1660,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2753,7 +2759,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 636
+      "Count": 638
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2789,7 +2795,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 553
+      "Count": 554
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2804,9 +2810,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9774,
+  "EOS_Progressed": 9776,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6249,6 +6255,11 @@
       "Time": "2023-06-11T16:05:53.8255503+00:00",
       "NumProgressed": 9774,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T17:06:51.4182013+00:00",
+      "NumProgressed": 9776,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6300,7 +6311,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "07_FinalThreshold",
@@ -6348,7 +6359,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "13_PathOfLich",
@@ -6356,7 +6367,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "14_PathOfSwarm",
@@ -6484,7 +6495,7 @@
       "Name": "Heroic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "31_DivideAndRule",
@@ -6492,7 +6503,7 @@
       "Name": "Divide and Rule",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "32_MythicReinforcements",
@@ -6500,7 +6511,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "33_DefendersHeart",
@@ -6508,7 +6519,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -6532,7 +6543,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -6540,7 +6551,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -6644,7 +6655,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -7187,21 +7198,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8556,
+      "Progressed": 8558,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9774,
+      "Progressed": 9776,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-11T13:58:20.5612084+00:00",
-  "LastChanged_Achievements": "2023-06-11T16:05:53.8255496+00:00",
+  "LastChanged": "2023-06-11T16:58:32.2444378+00:00",
+  "LastChanged_Achievements": "2023-06-11T17:06:51.4182008+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:58:08.9133825+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:05:53.8256923+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:58:32.2444385+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:06:51.4184531+00:00"
 }

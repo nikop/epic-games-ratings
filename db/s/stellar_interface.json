@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -943,9 +943,9 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "PerksUnlocked80Achievement",
@@ -1199,9 +1199,9 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "VisitOverlord100TimeAchievement",
@@ -1278,8 +1278,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-11T16:05:54.1752699+00:00",
+  "LastChanged_Achievements": "2023-06-11T17:06:51.8064056+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:04.0514133+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:58:30.7024992+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:05:54.1754352+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:59:02.4079194+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:06:51.8067547+00:00"
 }

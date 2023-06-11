@@ -2,12 +2,12 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4970,
+  "EOS_Progressed": 4972,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1524,6 +1524,11 @@
       "Time": "2023-06-11T14:06:03.9141646+00:00",
       "NumProgressed": 4970,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T17:06:45.4507817+00:00",
+      "NumProgressed": 4972,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1591,7 +1596,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ach_campaign_progress10",
@@ -1647,7 +1652,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1687,7 +1692,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ach_campaign_special10",
@@ -1925,9 +1930,9 @@
       "ID": "ach_frp_many_products2",
       "SetID": "8cb3id7",
       "Name": "Salesperson",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 149
     },
     {
       "ID": "ach_frp_many_products3",
@@ -1967,7 +1972,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -2127,7 +2132,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ach_trait_overload",
@@ -2142,15 +2147,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4970,
+      "Progressed": 4972,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-11T16:05:48.2442789+00:00",
+  "LastChanged_Achievements": "2023-06-11T17:06:45.4507812+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:18.7719837+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:58:40.6144943+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:05:48.2443518+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:59:15.3137791+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:06:45.4508682+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.18 (Ranked 842)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 14.00% | ~2,105 |
-| The Outer Way | 13.00% | ~1,955 |
-| Desperate Times | 12.00% | ~1,804 |
-| Paper Jams | 10.00% | ~1,504 |
-| Chew 'Em Up | 9.00% | ~1,353 |
-| Reforged | 9.00% | ~1,353 |
+| Flesh Wound | 14.00% | ~2,106 |
+| The Outer Way | 13.00% | ~1,956 |
+| Desperate Times | 12.00% | ~1,805 |
+| Paper Jams | 11.00% | ~1,655 |
+| Chew 'Em Up | 9.00% | ~1,354 |
+| Reforged | 9.00% | ~1,354 |
 | Workplace Hazard | 8.00% | ~1,203 |
 | If the SHU Fits... | 8.00% | ~1,203 |
 | Giving Back | 7.00% | ~1,053 |
@@ -21,10 +21,10 @@ Rating: 4.18 (Ranked 842)
 | Float Like A Butterfly | 5.00% | ~752 |
 | In the Pipe, Five by Five | 5.00% | ~752 |
 | Crash Site | 5.00% | ~752 |
-| You Need a Gun | 4.00% | ~601 |
-| What Lies Beneath | 4.00% | ~601 |
-| Full Circle | 4.00% | ~601 |
-| Power Up | 4.00% | ~601 |
+| You Need a Gun | 4.00% | ~602 |
+| What Lies Beneath | 4.00% | ~602 |
+| Full Circle | 4.00% | ~602 |
+| Power Up | 4.00% | ~602 |
 | Instigator | 4.00% | ~119 |
 | Big Game Hunter | 4.00% | ~119 |
 | The Commonality | 3.00% | ~451 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 842)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,037 (Ranked 104)  
+Progressed: 15,043 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 54 (0.36%) (Ranked 123)
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
 | 2023-06-10 | 14,984 | 54 |
-| 2023-06-11 | 15,037 | 54 |
+| 2023-06-11 | 15,043 | 54 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
 Sum: 304 (Ranked 328)  

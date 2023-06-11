@@ -8,10 +8,10 @@
 | Starting Skyward | 53.00% | ~112 |
 | Grime is Not Good | 46.00% | ~97 |
 | Campaign Launch | 40.00% | ~84 |
+| Floor Galore | 38.00% | ~80 |
 | Dinner Dash | 38.00% | ~80 |
-| Floor Galore | 37.00% | ~78 |
 | It's Technical | 36.00% | ~76 |
-| Need a Consult | 34.00% | ~72 |
+| Need a Consult | 35.00% | ~74 |
 | Upgrade Unlock | 34.00% | ~72 |
 | Delegate Maintenance | 34.00% | ~72 |
 | Proper Walls | 33.00% | ~70 |
@@ -64,12 +64,12 @@
 | Office Bigwigs | 5.00% | ~11 |
 | Golden Opportunity | 5.00% | ~11 |
 | Luxury Boutiques | 4.00% | ~8 |
+| Three of a Kind | 4.00% | ~8 |
 | Sandbagger | 4.00% | ~8 |
 | Decorator's Touch | 3.00% | ~6 |
 | Apartment Awareness | 3.00% | ~6 |
 | Loft Life | 3.00% | ~6 |
 | Plebs Are Needed | 3.00% | ~6 |
-| Three of a Kind | 3.00% | ~6 |
 | Four of a Kind | 3.00% | ~6 |
 | In the Money | 3.00% | ~6 |
 | Curated Class | 2.00% | ~4 |

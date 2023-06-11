@@ -33,10 +33,10 @@
 | Collectibles Part 2 | 0.90% | ~4 |
 | Nervous Hands | 0.90% | ~4 |
 | Elf-Friend | 0.50% | ~2 |
+| We wants it! We needs it | 0.50% | ~2 |
 | Scout | 0.50% | ~2 |
 | Good Sméagol! | 0.50% | ~2 |
 | Rule them all! | 0.20% | ~1 |
-| We wants it! We needs it | 0.20% | ~1 |
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 | We Hates Them! | 0.00% | ~0 |

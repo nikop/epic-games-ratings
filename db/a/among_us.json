@@ -2,7 +2,7 @@
   "ID": "33956bcb55d4452d8c47e16b94e294bd",
   "Name": "Among Us",
   "ProductSlug": "among-us",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 441,
   "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 442,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 26171,
   "RatingHistory": [
     {
@@ -5236,6 +5236,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 22369,
       "NumberOfAwardsMax": 2456
+    },
+    {
+      "Time": "2023-06-11T16:58:43.7288477+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 22369,
+      "NumberOfAwardsMax": 2456
     }
   ],
   "ReviewsDisabled": false,
@@ -5327,8 +5333,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2023-06-11T14:58:17.173727+00:00",
+  "LastChanged": "2023-06-11T16:58:43.7288475+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:47.135241+00:00",
-  "LastUpdate_Ratings": "2023-06-11T15:58:17.9577455+00:00",
-  "LastUpdate_Achievements": "2023-06-11T16:02:28.2558859+00:00"
+  "LastUpdate_Ratings": "2023-06-11T16:58:43.7288483+00:00",
+  "LastUpdate_Achievements": "2023-06-11T17:03:17.161751+00:00"
 }
