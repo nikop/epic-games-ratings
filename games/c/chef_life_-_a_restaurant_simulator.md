@@ -10,7 +10,7 @@
 | So Clean You Can Eat Off the Floor | 19.00% | ~66 |
 | French Flair | 17.00% | ~59 |
 | S is for Scrumptious | 17.00% | ~59 |
-| Next Level Cuisine | 10.00% | ~35 |
+| Next Level Cuisine | 11.00% | ~38 |
 | Sous-Chef | 7.00% | ~24 |
 | Haute Cuisine | 7.00% | ~24 |
 | Italian Style | 7.00% | ~24 |

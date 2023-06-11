@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -528,9 +528,9 @@
       "ID": "ach_crushed_by_supply_drop",
       "SetID": "cmg602e",
       "Name": "Fresh Pancake",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_daily_challenge_15",
@@ -1119,8 +1119,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-11T20:03:11.758978+00:00",
+  "LastChanged_Achievements": "2023-06-11T21:02:36.5441637+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.5762228+00:00",
-  "LastUpdate_Ratings": "2023-06-11T19:58:03.4050052+00:00",
-  "LastUpdate_Achievements": "2023-06-11T20:03:11.7590585+00:00"
+  "LastUpdate_Ratings": "2023-06-11T20:57:59.6223274+00:00",
+  "LastUpdate_Achievements": "2023-06-11T21:02:36.5442455+00:00"
 }

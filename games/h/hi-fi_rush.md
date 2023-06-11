@@ -1,7 +1,7 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.89 (Ranked 13)  
+Rating: 4.90 (Ranked 9)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,7 +16,7 @@ Rating: 4.89 (Ranked 13)
 | Alright, that felt AWESOME! | 53.00% | ~1,620 |
 | I play my own way! | 49.00% | ~1,497 |
 | This will cost you big time | 47.00% | ~1,436 |
-| Uh, they were broken when I got here | 45.00% | ~1,375 |
+| Uh, they were broken when I got here | 46.00% | ~1,406 |
 | Z-shielding's got nothing on us! | 44.00% | ~1,345 |
 | Kissing the sky! | 43.00% | ~1,314 |
 | Does that say weakpoint? | 41.00% | ~1,253 |
@@ -136,3 +136,4 @@ Completed: 4 (0.13%) (Ranked 161)
 | 2023-05-21 | 4.87 | 0 | 0 |
 | 2023-05-27 | 4.88 | 0 | 0 |
 | 2023-06-03 | 4.89 | 0 | 0 |
+| 2023-06-11 | 4.90 | 0 | 0 |

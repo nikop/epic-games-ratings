@@ -6,18 +6,18 @@ Rating: 4.05 (Ranked 890)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,292 |
-| World Map | 80.00% | ~1,099 |
-| Temple of Eternals | 57.00% | ~783 |
-| Prestigious | 53.00% | ~728 |
+| World Map | 80.00% | ~1,100 |
+| Temple of Eternals | 57.00% | ~784 |
+| Prestigious | 53.00% | ~729 |
 | Fellowship Power | 40.00% | ~550 |
 | Guild Power | 24.00% | ~330 |
 | Prestigious x10 | 21.00% | ~289 |
-| The game is on | 18.00% | ~247 |
+| The game is on | 18.00% | ~248 |
 | Exotic Merchant | 17.00% | ~234 |
 | Dragon Clicker | 16.00% | ~220 |
-| Miner Clicker | 16.00% | ~220 |
 | Inspection | 15.00% | ~206 |
-| Full Party | 14.00% | ~192 |
+| Miner Clicker | 15.00% | ~206 |
+| Full Party | 14.00% | ~193 |
 | Dragon Master | 13.00% | ~179 |
 | Enlightenment | 13.00% | ~179 |
 | Hero inspection | 13.00% | ~179 |
@@ -55,9 +55,9 @@ Rating: 4.05 (Ranked 890)
 | Dragon Slayer | 3.00% | ~41 |
 | Engineer Mastery | 3.00% | ~41 |
 | Lock And Load | 3.00% | ~41 |
-| Sailor | 2.00% | ~27 |
-| The Alchemist | 2.00% | ~27 |
-| What lies behind the bush | 2.00% | ~27 |
+| Sailor | 2.00% | ~28 |
+| The Alchemist | 2.00% | ~28 |
+| What lies behind the bush | 2.00% | ~28 |
 | Active Member | 1.00% | ~14 |
 | Arena Challenger | 1.00% | ~14 |
 | Ebony Jungle Liberator | 1.00% | ~14 |
@@ -65,10 +65,10 @@ Rating: 4.05 (Ranked 890)
 | Training makes a Pro player | 0.70% | ~10 |
 | Transmute | 0.60% | ~8 |
 | Tree of Life | 0.50% | ~7 |
-| Cauldron Liberator | 0.40% | ~5 |
-| Gear Enchanting | 0.40% | ~5 |
-| Guardian Master | 0.40% | ~5 |
-| Mythic Power | 0.40% | ~5 |
+| Cauldron Liberator | 0.40% | ~6 |
+| Gear Enchanting | 0.40% | ~6 |
+| Guardian Master | 0.40% | ~6 |
+| Mythic Power | 0.40% | ~6 |
 | Pokerface | 0.30% | ~4 |
 | Beast War Machines | 0.20% | ~3 |
 | Enhanced War Machines | 0.20% | ~3 |
@@ -81,8 +81,8 @@ Rating: 4.05 (Ranked 890)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,374 (Ranked 163)  
-Completed: 1 (0.07%) (Ranked 178)  
+Progressed: 1,375 (Ranked 163)  
+Completed: 1 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,7 +133,7 @@ Completed: 1 (0.07%) (Ranked 178)
 | 2023-06-08 | 1,341 | 1 |
 | 2023-06-09 | 1,349 | 1 |
 | 2023-06-10 | 1,360 | 1 |
-| 2023-06-11 | 1,374 | 1 |
+| 2023-06-11 | 1,375 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

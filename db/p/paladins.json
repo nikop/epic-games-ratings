@@ -2,12 +2,12 @@
   "ID": "badb0ee71b474ed591ec43212547cfc8",
   "Name": "Paladins",
   "ProductSlug": "paladins",
-  "Ranking_Rating": 737,
+  "Ranking_Rating": 738,
   "Ranking_Popularity": 83,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-03-24T15:00:00+00:00",
@@ -4950,10 +4950,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 22578,
       "NumberOfAwardsMax": 3291
+    },
+    {
+      "Time": "2023-06-11T20:59:53.4292791+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 22580,
+      "NumberOfAwardsMax": 3291
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 22578,
+  "NumberOfAwards": 22580,
   "NumberOfAwardsMax": 3291,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4973,7 +4979,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2947
+      "Count": 2949
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5029,8 +5035,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-06-11T18:00:01.1599938+00:00",
+  "LastChanged": "2023-06-11T20:59:53.4292788+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:06.1543287+00:00",
-  "LastUpdate_Ratings": "2023-06-11T19:59:55.1917721+00:00",
-  "LastUpdate_Achievements": "2023-06-11T20:05:14.2516038+00:00"
+  "LastUpdate_Ratings": "2023-06-11T20:59:53.4292797+00:00",
+  "LastUpdate_Achievements": "2023-06-11T21:05:01.9700632+00:00"
 }

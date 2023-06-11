@@ -6,28 +6,28 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,968 |
-| Rookie | 25.00% | ~6,452 |
-| Nomad | 19.00% | ~4,903 |
-| Picking Up Speed | 17.00% | ~4,387 |
-| Welcome Maya | 16.00% | ~4,129 |
-| Sightseer | 12.00% | ~3,097 |
-| Scout | 10.00% | ~2,581 |
-| Amateur | 9.00% | ~2,323 |
-| Wanderer | 9.00% | ~2,323 |
-| Enter Paz | 8.00% | ~2,064 |
-| Unlock Maya | 7.00% | ~1,806 |
-| Aviator | 6.00% | ~1,548 |
-| One With The Board | 6.00% | ~1,548 |
-| My Little Friend | 5.00% | ~1,290 |
-| Voyager | 5.00% | ~1,290 |
-| Sandboarder | 4.00% | ~1,032 |
-| Izel Has Arrived | 4.00% | ~1,032 |
-| Junkie | 3.00% | ~774 |
-| Traveler | 3.00% | ~774 |
-| Journeyer | 3.00% | ~774 |
-| Unlock Paz | 3.00% | ~774 |
-| Here Comes Felipe | 3.00% | ~774 |
+| Finding Your Footing | 27.00% | ~6,972 |
+| Rookie | 25.00% | ~6,456 |
+| Nomad | 19.00% | ~4,906 |
+| Picking Up Speed | 17.00% | ~4,390 |
+| Welcome Maya | 16.00% | ~4,132 |
+| Sightseer | 12.00% | ~3,099 |
+| Scout | 10.00% | ~2,582 |
+| Amateur | 9.00% | ~2,324 |
+| Wanderer | 9.00% | ~2,324 |
+| Enter Paz | 8.00% | ~2,066 |
+| Unlock Maya | 7.00% | ~1,808 |
+| Aviator | 6.00% | ~1,549 |
+| One With The Board | 6.00% | ~1,549 |
+| My Little Friend | 5.00% | ~1,291 |
+| Voyager | 5.00% | ~1,291 |
+| Sandboarder | 4.00% | ~1,033 |
+| Izel Has Arrived | 4.00% | ~1,033 |
+| Junkie | 3.00% | ~775 |
+| Traveler | 3.00% | ~775 |
+| Journeyer | 3.00% | ~775 |
+| Unlock Paz | 3.00% | ~775 |
+| Here Comes Felipe | 3.00% | ~775 |
 | Pro | 2.00% | ~516 |
 | Human Flight | 2.00% | ~516 |
 | Explorer | 1.00% | ~258 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~26 |
 | Windswept | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,806 (Ranked 91)  
+Progressed: 25,822 (Ranked 91)  
 Completed: 4 (0.02%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,11 +98,11 @@ Completed: 4 (0.02%) (Ranked 198)
 | 2023-06-08 | 25,276 | 3 |
 | 2023-06-09 | 25,466 | 4 |
 | 2023-06-10 | 25,643 | 4 |
-| 2023-06-11 | 25,806 | 4 |
+| 2023-06-11 | 25,822 | 4 |
 ## Awards
-Max (Great for Quick Sessions): 44  (Ranked 409)  
+Max (Great for Quick Sessions): 44  (Ranked 410)  
 Sum: 346 (Ranked 319)  
-Diff (max vs sum): 90  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 44 |

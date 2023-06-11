@@ -59,6 +59,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.30% | ~170 |
 | Welcome to the Rock | 0.30% | ~170 |
 | The Forbidden City | 0.30% | ~271 |
+| Captured! | 0.30% | ~271 |
 | Street War | 0.30% | ~271 |
 | March of the Undead | 0.30% | ~271 |
 | No Time To Rest | 0.30% | ~271 |
@@ -157,7 +158,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.20% | ~113 |
 | Welcome to the Band | 0.20% | ~113 |
 | Periodic Petrification | 0.20% | ~181 |
-| Captured! | 0.20% | ~181 |
 | Home Field Advantage | 0.20% | ~181 |
 | Double Vision | 0.20% | ~181 |
 | Force Grey Unleashed | 0.20% | ~181 |
@@ -263,6 +263,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.20% | ~113 |
 | Rime Bandits | 0.20% | ~113 |
 | The Everlasting Rime | 0.20% | ~113 |
+| Enemy Summit | 0.20% | ~113 |
 | Close Escort | 0.20% | ~181 |
 | The Long Haul | 0.20% | ~181 |
 | Lost in the Deep | 0.20% | ~181 |
@@ -450,7 +451,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Unknown Choices | 0.10% | ~57 |
 | Giant-Size Adventure | 0.10% | ~57 |
 | Power of Three | 0.10% | ~57 |
-| Enemy Summit | 0.10% | ~57 |
 | Mirage Arcane | 0.10% | ~57 |
 | Only Human | 0.10% | ~57 |
 | Ten in Ten-Towns | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,469 (Ranked 64)  
+Progressed: 90,473 (Ranked 64)  
 Completed: 1,929 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 1,929 (2.13%) (Ranked 66)
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
-| 2023-06-11 | 90,469 | 1,929 |
+| 2023-06-11 | 90,473 | 1,929 |
 ## Awards
 Max (Diverse Characters): 4,928  (Ranked 64)  
 Sum: 30,075 (Ranked 37)  

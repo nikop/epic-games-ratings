@@ -778,9 +778,9 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -802,9 +802,9 @@
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHV_CYBORG",
@@ -826,9 +826,9 @@
       "ID": "ACHV_DOCKS",
       "SetID": "cceobco",
       "Name": "Starship Docks",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHV_EDEN",
@@ -938,9 +938,9 @@
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -962,9 +962,9 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 268
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -995,8 +995,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-11T20:02:11.4583379+00:00",
+  "LastChanged_Achievements": "2023-06-11T21:02:10.3369782+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.1383169+00:00",
-  "LastUpdate_Ratings": "2023-06-11T19:59:11.3062746+00:00",
-  "LastUpdate_Achievements": "2023-06-11T20:02:11.4583635+00:00"
+  "LastUpdate_Ratings": "2023-06-11T20:59:06.0068933+00:00",
+  "LastUpdate_Achievements": "2023-06-11T21:02:10.3370042+00:00"
 }

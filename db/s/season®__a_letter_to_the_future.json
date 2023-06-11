@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1015,
+  "EOS_Progressed": 1016,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
@@ -1251,6 +1251,11 @@
       "Time": "2023-06-11T20:05:29.9471256+00:00",
       "NumProgressed": 1015,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-11T21:05:17.611445+00:00",
+      "NumProgressed": 1016,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 16,
@@ -1310,7 +1315,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -1318,7 +1323,7 @@
       "Name": "Home Leaver",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1326,7 +1331,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1389,7 +1394,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1015,
+      "Progressed": 1016,
       "Completed": 38
     }
   ],
@@ -1397,8 +1402,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-11T20:05:29.9471245+00:00",
+  "LastChanged_Achievements": "2023-06-11T21:05:17.6114447+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:56.8883465+00:00",
-  "LastUpdate_Ratings": "2023-06-11T19:58:19.1721726+00:00",
-  "LastUpdate_Achievements": "2023-06-11T20:05:29.9471446+00:00"
+  "LastUpdate_Ratings": "2023-06-11T20:58:14.7109046+00:00",
+  "LastUpdate_Achievements": "2023-06-11T21:05:17.6114602+00:00"
 }

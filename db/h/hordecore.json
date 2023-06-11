@@ -4,7 +4,7 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 338,
+  "EOS_Progressed": 339,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.96,
+  "EOS_Completed_Percentage": 2.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.4754336+00:00",
@@ -101,6 +101,11 @@
       "Time": "2023-06-11T14:06:00.2780248+00:00",
       "NumProgressed": 338,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-11T21:05:37.9253174+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 28,
@@ -112,7 +117,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "10",
@@ -128,7 +133,7 @@
       "Name": "Getting the Hang Of This",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "12",
@@ -136,7 +141,7 @@
       "Name": "Untapped Potential",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "13",
@@ -144,7 +149,7 @@
       "Name": "Limitless",
       "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "14",
@@ -200,7 +205,7 @@
       "Name": "Decision Maker",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "20",
@@ -288,7 +293,7 @@
       "Name": "Master of Cards",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "5",
@@ -302,9 +307,9 @@
       "ID": "6",
       "SetID": "1530e6b",
       "Name": "FOR THE GAUNTLET!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "7",
@@ -335,7 +340,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 338,
+      "Progressed": 339,
       "Completed": 10
     }
   ],
@@ -343,8 +348,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-06-11T20:05:50.4122733+00:00",
+  "LastChanged_Achievements": "2023-06-11T21:05:37.925317+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:23.2303077+00:00",
-  "LastUpdate_Ratings": "2023-06-11T19:59:24.6766856+00:00",
-  "LastUpdate_Achievements": "2023-06-11T20:05:50.4122931+00:00"
+  "LastUpdate_Ratings": "2023-06-11T20:59:20.7690378+00:00",
+  "LastUpdate_Achievements": "2023-06-11T21:05:37.9253379+00:00"
 }

@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 250912,
+  "EOS_Progressed": 250914,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5721,6 +5721,11 @@
       "Time": "2023-06-11T20:03:22.7534054+00:00",
       "NumProgressed": 250912,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T21:03:07.6166155+00:00",
+      "NumProgressed": 250914,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -5740,7 +5745,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10036
+      "UsersEstimate": 10037
     },
     {
       "ID": "Act3",
@@ -5796,7 +5801,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10036
+      "UsersEstimate": 10037
     },
     {
       "ID": "BreakNWindows",
@@ -5804,7 +5809,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10036
+      "UsersEstimate": 10037
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -6100,7 +6105,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10036
+      "UsersEstimate": 10037
     },
     {
       "ID": "Patrimony2",
@@ -6179,7 +6184,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 250912,
+      "Progressed": 250914,
       "Completed": 1
     }
   ],
@@ -6187,8 +6192,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-11T10:59:38.2933836+00:00",
-  "LastChanged_Achievements": "2023-06-11T20:03:22.7534047+00:00",
+  "LastChanged_Achievements": "2023-06-11T21:03:07.616615+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.5690984+00:00",
-  "LastUpdate_Ratings": "2023-06-11T19:59:41.3462354+00:00",
-  "LastUpdate_Achievements": "2023-06-11T20:03:22.7534862+00:00"
+  "LastUpdate_Ratings": "2023-06-11T20:59:39.2600095+00:00",
+  "LastUpdate_Achievements": "2023-06-11T21:03:07.6166993+00:00"
 }

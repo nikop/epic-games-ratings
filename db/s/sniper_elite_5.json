@@ -6,7 +6,7 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 174,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
@@ -296,11 +296,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2664,
+  "EOS_Progressed": 2669,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.08,
+  "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -3241,6 +3241,11 @@
       "Time": "2023-06-11T20:05:45.9806071+00:00",
       "NumProgressed": 2664,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T21:05:33.6542515+00:00",
+      "NumProgressed": 2669,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3260,7 +3265,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -3284,7 +3289,7 @@
       "Name": "Opposing Force",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -3292,7 +3297,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3308,7 +3313,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3316,7 +3321,7 @@
       "Name": "Organ Grinder",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3330,9 +3335,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 801
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3372,7 +3377,7 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3388,7 +3393,7 @@
       "Name": "Sharpshooter",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -3420,15 +3425,15 @@
       "Name": "Confirming Suspicions",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 641
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
       "SetID": "bm6el81",
       "Name": "Out of Scope",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -3452,7 +3457,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3460,7 +3465,7 @@
       "Name": "Lord of War",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3476,7 +3481,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3492,7 +3497,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3500,7 +3505,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3564,7 +3569,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3588,15 +3593,15 @@
       "Name": "Change the Channel",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
       "SetID": "bm6el81",
       "Name": "Up close and personal",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -3644,7 +3649,7 @@
       "Name": "Target America",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3730,9 +3735,9 @@
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
       "SetID": "83mdf7p",
       "Name": "Das Familienjuwel",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_09_LAST_RESORT",
@@ -3819,13 +3824,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2615,
+      "Progressed": 2620,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2664,
+      "Progressed": 2669,
       "Completed": 2
     }
   ],
@@ -3833,8 +3838,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-11T20:05:45.9806065+00:00",
+  "LastChanged_Achievements": "2023-06-11T21:05:33.6542509+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-11T19:59:54.3143002+00:00",
-  "LastUpdate_Achievements": "2023-06-11T20:05:45.980691+00:00"
+  "LastUpdate_Ratings": "2023-06-11T20:59:52.6184761+00:00",
+  "LastUpdate_Achievements": "2023-06-11T21:05:33.6543419+00:00"
 }

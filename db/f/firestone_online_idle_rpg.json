@@ -6,7 +6,7 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1374,
+  "EOS_Progressed": 1375,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -3021,6 +3021,11 @@
       "Time": "2023-06-11T20:05:50.1045519+00:00",
       "NumProgressed": 1374,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T21:05:37.7030943+00:00",
+      "NumProgressed": 1375,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3088,7 +3093,7 @@
       "Name": "Cauldron Liberator",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "challenger",
@@ -3240,7 +3245,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "gearenchanting",
@@ -3248,7 +3253,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "guardianmaster",
@@ -3256,7 +3261,7 @@
       "Name": "Guardian Master",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "guildpower",
@@ -3366,9 +3371,9 @@
       "ID": "minerclicker",
       "SetID": "3nl4bcg",
       "Name": "Miner Clicker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 206
     },
     {
       "ID": "missionsdedication",
@@ -3400,7 +3405,7 @@
       "Name": "Mythic Power",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "naturaltalent",
@@ -3424,7 +3429,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "prestigiousx10",
@@ -3448,7 +3453,7 @@
       "Name": "Sailor",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "scientist",
@@ -3488,7 +3493,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "thealchemist",
@@ -3496,7 +3501,7 @@
       "Name": "The Alchemist",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "theexpeditioner",
@@ -3520,7 +3525,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "thepowerofawakening",
@@ -3616,7 +3621,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "worldmap",
@@ -3624,14 +3629,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1374,
+      "Progressed": 1375,
       "Completed": 1
     }
   ],
@@ -3639,8 +3644,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-11T20:05:50.1045513+00:00",
+  "LastChanged_Achievements": "2023-06-11T21:05:37.7030941+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-11T19:57:48.7890873+00:00",
-  "LastUpdate_Achievements": "2023-06-11T20:05:50.1046462+00:00"
+  "LastUpdate_Ratings": "2023-06-11T20:57:43.752095+00:00",
+  "LastUpdate_Achievements": "2023-06-11T21:05:37.7031909+00:00"
 }

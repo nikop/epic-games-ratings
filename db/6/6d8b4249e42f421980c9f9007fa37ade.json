@@ -519,9 +519,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -543,9 +543,9 @@
       "ID": "Epic_SwampPet_1",
       "SetID": "ba1m2fc",
       "Name": "The Indescribable",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Epic_Swamp_1",
@@ -606,8 +606,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-11T20:00:00.1487236+00:00",
+  "LastChanged_Achievements": "2023-06-11T20:59:59.6378566+00:00",
   "LastUpdate_AppInfo": "2023-06-08T03:57:14.5111987+00:00",
-  "LastUpdate_Ratings": "2023-06-11T19:56:51.7689138+00:00",
-  "LastUpdate_Achievements": "2023-06-11T20:00:00.1488307+00:00"
+  "LastUpdate_Ratings": "2023-06-11T20:56:48.3229033+00:00",
+  "LastUpdate_Achievements": "2023-06-11T20:59:59.6379168+00:00"
 }

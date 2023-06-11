@@ -6,7 +6,7 @@
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 58,
-  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
@@ -4522,9 +4522,9 @@
       "Count": 3684
     }
   ],
-  "EOS_Progressed": 130386,
+  "EOS_Progressed": 130387,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -9647,6 +9647,11 @@
       "Time": "2023-06-11T20:06:00.6074693+00:00",
       "NumProgressed": 130386,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-11T21:05:46.9140983+00:00",
+      "NumProgressed": 130387,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 112,
@@ -9714,7 +9719,7 @@
       "Name": "Above the Norm",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14342
+      "UsersEstimate": 14343
     },
     {
       "ID": "ascend03",
@@ -9770,7 +9775,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 32596
+      "UsersEstimate": 32597
     },
     {
       "ID": "blueprint03",
@@ -9786,7 +9791,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 33900
+      "UsersEstimate": 33901
     },
     {
       "ID": "boss01",
@@ -9826,7 +9831,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 126474
+      "UsersEstimate": 126475
     },
     {
       "ID": "chest02",
@@ -9834,7 +9839,7 @@
       "Name": "For the Hoard!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 23469
+      "UsersEstimate": 23470
     },
     {
       "ID": "chest03",
@@ -9890,7 +9895,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 118651
+      "UsersEstimate": 118652
     },
     {
       "ID": "commonres02",
@@ -9922,7 +9927,7 @@
       "Name": "Disintermediation",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 99093
+      "UsersEstimate": 99094
     },
     {
       "ID": "craft02",
@@ -9930,7 +9935,7 @@
       "Name": "Flooding the Market",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 53458
+      "UsersEstimate": 53459
     },
     {
       "ID": "craft03",
@@ -9978,7 +9983,7 @@
       "Name": "Omae wa Mou Shindeiru",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14342
+      "UsersEstimate": 14343
     },
     {
       "ID": "donovan_a",
@@ -10010,15 +10015,15 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 79535
+      "UsersEstimate": 79536
     },
     {
       "ID": "energy02",
       "SetID": "anfd17p",
       "Name": "Power of Love",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 29989
+      "UsersEstimate": 31293
     },
     {
       "ID": "energy03",
@@ -10034,7 +10039,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 91270
+      "UsersEstimate": 91271
     },
     {
       "ID": "expansion02",
@@ -10074,7 +10079,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14342
+      "UsersEstimate": 14343
     },
     {
       "ID": "furniture03",
@@ -10090,7 +10095,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14342
+      "UsersEstimate": 14343
     },
     {
       "ID": "fuseflawless",
@@ -10114,7 +10119,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 24773
+      "UsersEstimate": 24774
     },
     {
       "ID": "gemsspent",
@@ -10130,7 +10135,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 113436
+      "UsersEstimate": 113437
     },
     {
       "ID": "gold02",
@@ -10138,7 +10143,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 74320
+      "UsersEstimate": 74321
     },
     {
       "ID": "gold03",
@@ -10210,7 +10215,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 65193
+      "UsersEstimate": 65194
     },
     {
       "ID": "jackslot02",
@@ -10282,7 +10287,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 54762
+      "UsersEstimate": 54763
     },
     {
       "ID": "loot02",
@@ -10474,7 +10479,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 125171
+      "UsersEstimate": 125172
     },
     {
       "ID": "twinenchant01",
@@ -10506,7 +10511,7 @@
       "Name": "Exotic Commodities",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14342
+      "UsersEstimate": 14343
     },
     {
       "ID": "uncommonres03",
@@ -10530,7 +10535,7 @@
       "Name": "Arcane Industries",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 44331
+      "UsersEstimate": 44332
     },
     {
       "ID": "workers03",
@@ -10538,7 +10543,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14342
+      "UsersEstimate": 14343
     },
     {
       "ID": "yami_a",
@@ -10553,15 +10558,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 130386,
+      "Progressed": 130387,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-06-11T19:58:06.3757936+00:00",
-  "LastChanged_Achievements": "2023-06-11T20:06:00.6074684+00:00",
+  "LastChanged_Achievements": "2023-06-11T21:05:46.9140979+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:38.7380274+00:00",
-  "LastUpdate_Ratings": "2023-06-11T19:58:06.3757941+00:00",
-  "LastUpdate_Achievements": "2023-06-11T20:06:00.6076573+00:00"
+  "LastUpdate_Ratings": "2023-06-11T20:58:02.1397493+00:00",
+  "LastUpdate_Achievements": "2023-06-11T21:05:46.9142918+00:00"
 }

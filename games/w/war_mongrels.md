@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.31 (Ranked 758)  
+Rating: 4.31 (Ranked 759)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,8 +17,8 @@ Number of Ratings: 34  (23.09.2022)
 | Sniper Wolf | 36.00% | ~123 |
 | The Motivation | 35.00% | ~120 |
 | Missing in Action | 35.00% | ~120 |
+| Collectibles of Chapter I | 32.00% | ~109 |
 | Heroism | 32.00% | ~109 |
-| Collectibles of Chapter I | 31.00% | ~106 |
 | King of Knives | 30.00% | ~103 |
 | Consequences | 28.00% | ~96 |
 | Opportunities | 27.00% | ~92 |

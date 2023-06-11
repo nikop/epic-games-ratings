@@ -6,7 +6,7 @@
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
@@ -608,9 +608,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15062,
+  "EOS_Progressed": 15065,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3588,6 +3588,11 @@
       "Time": "2023-06-11T20:04:09.7315042+00:00",
       "NumProgressed": 15062,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-11T21:03:58.8227539+00:00",
+      "NumProgressed": 15065,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3615,7 +3620,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3623,7 +3628,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "DISARM_ENEMY",
@@ -3639,7 +3644,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -3703,7 +3708,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3807,7 +3812,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "STORY_HANGAR",
@@ -3823,7 +3828,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -3831,7 +3836,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3847,7 +3852,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "STORY_TUNNELS",
@@ -3855,7 +3860,7 @@
       "Name": "Power Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "DISMEMBER_100",
@@ -3918,13 +3923,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15062,
+      "Progressed": 15065,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2988,
+      "Progressed": 2991,
       "Completed": 29
     }
   ],
@@ -3932,8 +3937,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T18:57:54.2801863+00:00",
-  "LastChanged_Achievements": "2023-06-11T20:04:09.7315035+00:00",
+  "LastChanged_Achievements": "2023-06-11T21:03:58.822753+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-11T19:57:41.2128974+00:00",
-  "LastUpdate_Achievements": "2023-06-11T20:04:09.7315534+00:00"
+  "LastUpdate_Ratings": "2023-06-11T20:57:36.5781206+00:00",
+  "LastUpdate_Achievements": "2023-06-11T21:03:58.8228052+00:00"
 }

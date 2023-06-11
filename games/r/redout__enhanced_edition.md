@@ -6,26 +6,26 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~92,021 |
-| NATURAL BORN WINNER | 32.00% | ~71,821 |
-| CALLING HOUSTON | 28.00% | ~62,843 |
-| SNEAKY SNEAKY | 22.00% | ~49,377 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~49,377 |
-| GT9STRADALE | 20.00% | ~44,888 |
-| CHALLENGER | 11.00% | ~24,689 |
-| ON A ROLL | 9.00% | ~20,200 |
-| CENTAUR | 8.00% | ~17,955 |
-| FASTER THAN EVER | 8.00% | ~17,955 |
-| CHALLENGE THE WORLD | 7.00% | ~15,711 |
-| PHOTOFINISH | 7.00% | ~15,711 |
-| QAREEN | 5.00% | ~11,222 |
+| VANGUARD | 41.00% | ~92,025 |
+| NATURAL BORN WINNER | 32.00% | ~71,825 |
+| CALLING HOUSTON | 28.00% | ~62,847 |
+| SNEAKY SNEAKY | 22.00% | ~49,379 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~49,379 |
+| GT9STRADALE | 20.00% | ~44,890 |
+| CHALLENGER | 11.00% | ~24,690 |
+| ON A ROLL | 9.00% | ~20,201 |
+| CENTAUR | 8.00% | ~17,956 |
+| FASTER THAN EVER | 8.00% | ~17,956 |
+| CHALLENGE THE WORLD | 7.00% | ~15,712 |
+| PHOTOFINISH | 7.00% | ~15,712 |
+| QAREEN | 5.00% | ~11,223 |
 | SHOWOFF | 4.00% | ~8,978 |
 | TAKATORA | 4.00% | ~8,978 |
-| GILA | 3.00% | ~6,733 |
+| GILA | 3.00% | ~6,734 |
 | PRO | 2.00% | ~4,489 |
 | RESPWND | 2.00% | ~4,489 |
 | SHINY SHINY GOLD | 2.00% | ~4,489 |
-| HARDCORE | 1.00% | ~2,244 |
+| HARDCORE | 1.00% | ~2,245 |
 | ACE | 0.70% | ~1,571 |
 | TACTICIAN | 0.60% | ~1,347 |
 | GTX COMPETIZIONE | 0.50% | ~1,122 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~449 |
 | ENLIGHTENED | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,441 (Ranked 48)  
+Progressed: 224,452 (Ranked 48)  
 Completed: 46 (0.02%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 46 (0.02%) (Ranked 198)
 | 2023-06-08 | 224,169 | 46 |
 | 2023-06-09 | 224,244 | 46 |
 | 2023-06-10 | 224,355 | 46 |
-| 2023-06-11 | 224,441 | 46 |
+| 2023-06-11 | 224,452 | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

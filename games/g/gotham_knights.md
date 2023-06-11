@@ -5,24 +5,24 @@ Rating: 4.17 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 5.00% | ~3,231 |
+| First Step Into the Knight | 5.00% | ~3,232 |
 | To the Victor Go the Spoils | 3.00% | ~1,939 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,939 |
 | Knighthood | 3.00% | ~1,939 |
 | Loose Ends | 3.00% | ~1,939 |
-| The Batman Family | 2.00% | ~1,292 |
-| Protector of Gotham | 2.00% | ~1,292 |
-| Something in the Clay | 2.00% | ~1,292 |
-| The Show Mud Go On | 2.00% | ~1,292 |
-| Quartzer Life Crisis | 2.00% | ~1,292 |
-| Snow Problem | 2.00% | ~1,292 |
-| Get ReQ'd | 2.00% | ~1,292 |
-| Working Hard or Harley Working? | 2.00% | ~1,292 |
-| Unstoppable Force | 2.00% | ~1,292 |
-| Whispered Words | 2.00% | ~1,292 |
-| Lock and Key | 2.00% | ~1,292 |
-| Bad Apples in Every Orchard | 2.00% | ~1,292 |
-| From Inside Gotham's Walls | 2.00% | ~1,292 |
+| The Batman Family | 2.00% | ~1,293 |
+| Protector of Gotham | 2.00% | ~1,293 |
+| Something in the Clay | 2.00% | ~1,293 |
+| The Show Mud Go On | 2.00% | ~1,293 |
+| Quartzer Life Crisis | 2.00% | ~1,293 |
+| Snow Problem | 2.00% | ~1,293 |
+| Get ReQ'd | 2.00% | ~1,293 |
+| Working Hard or Harley Working? | 2.00% | ~1,293 |
+| Unstoppable Force | 2.00% | ~1,293 |
+| Whispered Words | 2.00% | ~1,293 |
+| Lock and Key | 2.00% | ~1,293 |
+| Bad Apples in Every Orchard | 2.00% | ~1,293 |
+| From Inside Gotham's Walls | 2.00% | ~1,293 |
 | End of an Era | 1.00% | ~646 |
 | In Your Element | 1.00% | ~646 |
 | Rock and a Hard Place | 1.00% | ~646 |
@@ -42,8 +42,8 @@ Rating: 4.17 (Ranked 850)
 | Family Meeting | 0.60% | ~388 |
 | A Worthy Successor | 0.60% | ~388 |
 | Expert Crime Fighter | 0.50% | ~323 |
-| Dressed to Impress | 0.40% | ~258 |
-| A Momentum Occasion | 0.40% | ~258 |
+| Dressed to Impress | 0.40% | ~259 |
+| A Momentum Occasion | 0.40% | ~259 |
 | Bat Out of Hell | 0.30% | ~194 |
 | Hammer and Icicle | 0.20% | ~70 |
 | Renewable Enemy Source | 0.20% | ~70 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 850)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,621 (Ranked 71)  
+Progressed: 64,634 (Ranked 71)  
 Completed: 95 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 95 (0.15%) (Ranked 157)
 | 2023-06-08 | 64,117 | 94 |
 | 2023-06-09 | 64,309 | 95 |
 | 2023-06-10 | 64,465 | 95 |
-| 2023-06-11 | 64,621 | 95 |
+| 2023-06-11 | 64,634 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,321  (Ranked 97)  
 Sum: 3,838 (Ranked 137)  

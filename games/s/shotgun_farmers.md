@@ -36,8 +36,8 @@
 | Carrocketeer | 6.00% | ~6 |
 | Master Survivor | 6.00% | ~3 |
 | Bring Home The Bacon | 5.00% | ~5 |
+| Fresh Pancake | 5.00% | ~5 |
 | Getting Started | 5.00% | ~5 |
-| Fresh Pancake | 4.00% | ~4 |
 | Heart Breaker | 4.00% | ~2 |
 | Chick Magnet | 3.00% | ~3 |
 | Early Bird | 3.00% | ~3 |

@@ -46,8 +46,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Important Deed | 1.00% | ~98 |
 | Abyssal Conspiracy | 0.90% | ~88 |
 | The Final Threshold | 0.80% | ~78 |
-| This Wall Won't Fall | 0.80% | ~68 |
-| Not the Last Sarkorian | 0.80% | ~68 |
+| This Wall Won't Fall | 0.80% | ~69 |
+| Not the Last Sarkorian | 0.80% | ~69 |
 | Strategic Victory | 0.70% | ~68 |
 | End of Eternal Guard | 0.70% | ~68 |
 | Path of the Dragon | 0.60% | ~59 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,780 (Ranked 112)  
+Progressed: 9,781 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 9,650 | 0 |
 | 2023-06-09 | 9,691 | 0 |
 | 2023-06-10 | 9,745 | 0 |
-| 2023-06-11 | 9,780 | 0 |
+| 2023-06-11 | 9,781 | 0 |
 ## Awards
 Max (Character Customization): 1,660  (Ranked 111)  
 Sum: 6,738 (Ranked 109)  

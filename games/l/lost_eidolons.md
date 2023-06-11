@@ -1,15 +1,15 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.31 (Ranked 758)  
+Rating: 4.31 (Ranked 759)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 67.00% | ~660 |
-| First Blood | 64.00% | ~630 |
+| The First Step | 67.00% | ~661 |
+| First Blood | 64.00% | ~631 |
 | Ready to Learn | 61.00% | ~601 |
-| Monster Hunter | 53.00% | ~522 |
-| Earning Trust | 50.00% | ~492 |
+| Monster Hunter | 53.00% | ~523 |
+| Earning Trust | 50.00% | ~493 |
 | Monster Slayer | 28.00% | ~276 |
 | Awakening | 22.00% | ~217 |
 | Huntmaster | 21.00% | ~207 |
@@ -29,7 +29,7 @@ Rating: 4.31 (Ranked 758)
 | Someone to Protect | 0.60% | ~6 |
 | Lean on Me | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 985 (Ranked 179)  
+Progressed: 986 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 965 | 0 |
 | 2023-06-09 | 971 | 0 |
 | 2023-06-10 | 980 | 0 |
-| 2023-06-11 | 985 | 0 |
+| 2023-06-11 | 986 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
