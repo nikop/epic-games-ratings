@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6727,
+  "EOS_Progressed": 6728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4069,6 +4069,11 @@
       "Time": "2023-06-10T22:05:44.7251535+00:00",
       "NumProgressed": 6727,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T00:06:29.2815839+00:00",
+      "NumProgressed": 6728,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -4080,7 +4085,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "0002",
@@ -4096,7 +4101,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "0004",
@@ -4184,7 +4189,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2354
+      "UsersEstimate": 2355
     },
     {
       "ID": "0015",
@@ -4280,7 +4285,7 @@
       "Name": "The Living Portrait",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "0027",
@@ -4288,7 +4293,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "0028",
@@ -4328,7 +4333,7 @@
       "Name": "Killer Looks",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "0033",
@@ -4367,7 +4372,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6727,
+      "Progressed": 6728,
       "Completed": 0
     }
   ],
@@ -4375,8 +4380,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-10T20:59:27.172859+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:05:25.9298912+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:06:29.2815834+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:06.9075214+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:59:03.979495+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:05:25.9299459+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:59:58.1081832+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:06:29.2816212+00:00"
 }

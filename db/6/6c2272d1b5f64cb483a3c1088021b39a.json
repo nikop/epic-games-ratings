@@ -1378,9 +1378,9 @@
       "ID": "sophisticated_alchemist_1",
       "SetID": "53c1p3k",
       "Name": "Sophisticated Alchemist 1",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -1505,8 +1505,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:03:05.9258813+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:03:20.121282+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:56:50.1113387+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:03:05.9259528+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:56:54.6414285+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:03:20.1213345+00:00"
 }

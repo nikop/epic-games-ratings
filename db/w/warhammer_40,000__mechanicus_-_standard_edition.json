@@ -373,11 +373,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 2104,
       "NumberOfAwardsMax": 278
+    },
+    {
+      "Time": "2023-06-10T23:58:37.9333426+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2105,
+      "NumberOfAwardsMax": 279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2104,
-  "NumberOfAwardsMax": 278,
+  "NumberOfAwards": 2105,
+  "NumberOfAwardsMax": 279,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -402,7 +408,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 278
+      "Count": 279
     },
     {
       "Text": "This game has Amazing Characters",
@@ -441,9 +447,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 213699,
+  "EOS_Progressed": 213704,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 913,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5741,6 +5747,11 @@
       "Time": "2023-06-10T23:03:21.7141583+00:00",
       "NumProgressed": 213699,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-11T00:03:41.0706639+00:00",
+      "NumProgressed": 213704,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 34,
@@ -5752,7 +5763,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 40603
+      "UsersEstimate": 40604
     },
     {
       "ID": "ACH_BASE_10",
@@ -5760,7 +5771,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 53425
+      "UsersEstimate": 53426
     },
     {
       "ID": "ACH_BASE_11",
@@ -6023,16 +6034,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 213699,
+      "Progressed": 213704,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-06-07T20:58:42.2560043+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:03:21.7141579+00:00",
+  "LastChanged": "2023-06-10T23:58:37.9333422+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:03:41.0706633+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.9968565+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:58:06.3248776+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:03:21.714221+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:58:37.9333429+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:03:41.0707083+00:00"
 }

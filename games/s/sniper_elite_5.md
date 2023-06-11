@@ -5,25 +5,25 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~747 |
-| Confirming Suspicions | 24.00% | ~618 |
-| The Kraken Wakes | 19.00% | ~490 |
-| It's Starting to Crack | 17.00% | ~438 |
-| Lord of War | 14.00% | ~361 |
-| Change the Channel | 14.00% | ~361 |
-| Resourceful | 13.00% | ~335 |
-| Taking it back | 12.00% | ~309 |
+| Meeting Resistance | 29.00% | ~749 |
+| Confirming Suspicions | 24.00% | ~620 |
+| The Kraken Wakes | 20.00% | ~517 |
+| It's Starting to Crack | 17.00% | ~439 |
+| Lord of War | 14.00% | ~362 |
+| Change the Channel | 14.00% | ~362 |
+| Resourceful | 13.00% | ~336 |
+| Taking it back | 12.00% | ~310 |
 | Organ Grinder | 10.00% | ~258 |
 | As Quiet as a Mouse | 10.00% | ~258 |
 | Target America | 10.00% | ~258 |
 | The Kraken Sleeps | 9.00% | ~232 |
-| Liberté | 8.00% | ~206 |
-| Enemy at the Gates | 8.00% | ~206 |
-| Just a Flesh Wound | 8.00% | ~206 |
-| Gunslinger | 8.00% | ~206 |
-| Sharpshooter | 8.00% | ~206 |
-| Explosive Efficiency | 8.00% | ~206 |
-| Opposing Force | 7.00% | ~180 |
+| Liberté | 8.00% | ~207 |
+| Enemy at the Gates | 8.00% | ~207 |
+| Just a Flesh Wound | 8.00% | ~207 |
+| Gunslinger | 8.00% | ~207 |
+| Sharpshooter | 8.00% | ~207 |
+| Explosive Efficiency | 8.00% | ~207 |
+| Opposing Force | 7.00% | ~181 |
 | Die Nussknacker Sweet! | 6.00% | ~155 |
 | Der Geist | 6.00% | ~155 |
 | Close Quarters | 6.00% | ~155 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,577 (Ranked 146)  
+Progressed: 2,583 (Ranked 146)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
+| 2023-06-11 | 2,583 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

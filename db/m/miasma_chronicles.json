@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 1089,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1598,9 +1598,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 784
+      "UsersEstimate": 795
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1694,9 +1694,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 446
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -1918,9 +1918,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 370
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1999,8 +1999,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-10T20:58:18.0757605+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:02:06.0315101+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:02:10.2613976+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:57:57.6232347+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:02:06.0315656+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:58:24.3621849+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:02:10.2614377+00:00"
 }

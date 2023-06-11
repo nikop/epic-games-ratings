@@ -6,8 +6,8 @@
   "Ranking_Popularity": 318,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -906,9 +906,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3547,
+  "EOS_Progressed": 3548,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4126,6 +4126,11 @@
       "Time": "2023-06-10T23:00:03.5370362+00:00",
       "NumProgressed": 3547,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T00:01:23.3033855+00:00",
+      "NumProgressed": 3548,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4233,7 +4238,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4289,7 +4294,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -4321,7 +4326,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -4367,9 +4372,9 @@
       "ID": "ACH_SURVIVOR",
       "SetID": "1p8ab95",
       "Name": "Survivor",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -4409,7 +4414,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4456,15 +4461,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3547,
+      "Progressed": 3548,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-10T10:59:49.0940896+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:00:03.5370356+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:01:23.303385+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:59:28.7859611+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:00:03.5370972+00:00"
+  "LastUpdate_Ratings": "2023-06-11T00:00:33.2183752+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:01:23.3034276+00:00"
 }

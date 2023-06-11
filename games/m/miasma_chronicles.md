@@ -7,18 +7,18 @@ Rating: 4.29 (Ranked 771)
 | ---- | ---------- | ----- |
 | First Blood | 91.00% | ~991 |
 | Ranidaphobia | 75.00% | ~817 |
-| Aspiring Editor | 72.00% | ~784 |
+| Aspiring Editor | 73.00% | ~795 |
 | Gun for Hire | 67.00% | ~730 |
 | I am the law! | 59.00% | ~643 |
 | Lumberjack | 46.00% | ~501 |
 | Croaked | 41.00% | ~446 |
-| Limp Richard | 40.00% | ~436 |
+| Limp Richard | 41.00% | ~446 |
 | From Darkness to Light | 40.00% | ~436 |
 | Editor Adept | 38.00% | ~414 |
 | Exorcist | 38.00% | ~414 |
 | Firestarter | 37.00% | ~403 |
 | Giant Killer | 35.00% | ~381 |
-| Sensei | 33.00% | ~359 |
+| Sensei | 34.00% | ~370 |
 | The meaning of Kain | 32.00% | ~348 |
 | Technophobe | 30.00% | ~327 |
 | Recycler | 28.00% | ~305 |

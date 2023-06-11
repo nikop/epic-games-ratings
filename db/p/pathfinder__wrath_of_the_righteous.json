@@ -2706,10 +2706,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6727,
       "NumberOfAwardsMax": 1658
+    },
+    {
+      "Time": "2023-06-10T23:58:26.8793201+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6729,
+      "NumberOfAwardsMax": 1658
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6727,
+  "NumberOfAwards": 6729,
   "NumberOfAwardsMax": 1658,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2747,7 +2753,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 614
+      "Count": 616
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2780,9 +2786,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9745,
+  "EOS_Progressed": 9746,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6165,6 +6171,11 @@
       "Time": "2023-06-10T23:05:36.1863333+00:00",
       "NumProgressed": 9745,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T00:06:42.3282343+00:00",
+      "NumProgressed": 9746,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6424,7 +6435,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -6544,7 +6555,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "49_Flame",
@@ -7103,21 +7114,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8527,
+      "Progressed": 8528,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9745,
+      "Progressed": 9746,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-10T15:58:40.0429267+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:05:36.1863328+00:00",
+  "LastChanged": "2023-06-10T23:58:26.87932+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:06:42.3282337+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:57:59.0594142+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:05:36.1865223+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:58:26.8793205+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:06:42.3283757+00:00"
 }

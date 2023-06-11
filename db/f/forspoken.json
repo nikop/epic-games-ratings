@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38511,
+  "EOS_Progressed": 38513,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3524,6 +3524,11 @@
       "Time": "2023-06-10T22:05:48.619288+00:00",
       "NumProgressed": 38511,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T00:06:34.0999139+00:00",
+      "NumProgressed": 38513,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -3567,7 +3572,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -3591,7 +3596,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -3791,7 +3796,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "MAGIC_IVY",
@@ -3958,22 +3963,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38511,
+      "Progressed": 38513,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3348,
-      "Completed": 3348
+      "Progressed": 3350,
+      "Completed": 3350
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-06-10T21:58:21.201474+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:05:29.4619612+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:06:34.0999132+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:46.8509231+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:58:07.3207373+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:05:29.4620292+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:58:38.9753544+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:06:34.0999854+00:00"
 }

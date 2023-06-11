@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 583,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -490,6 +490,11 @@
       "Time": "2023-06-10T16:03:48.3143296+00:00",
       "NumProgressed": 582,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T00:03:15.3334187+00:00",
+      "NumProgressed": 583,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -563,9 +568,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 146
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -621,7 +626,7 @@
       "Name": "Host",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -836,21 +841,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165,
+      "Progressed": 166,
       "Completed": 20
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 583,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:03:02.1731363+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:03:15.3334182+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.0328366+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:59:40.6869983+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:03:02.1731716+00:00"
+  "LastUpdate_Ratings": "2023-06-11T00:00:49.4581574+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:03:15.3334702+00:00"
 }

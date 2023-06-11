@@ -1,11 +1,11 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 849)  
+Rating: 4.17 (Ranked 850)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 5.00% | ~3,223 |
+| First Step Into the Knight | 5.00% | ~3,224 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,934 |
 | Loose Ends | 3.00% | ~1,934 |
 | The Batman Family | 2.00% | ~1,289 |
@@ -45,10 +45,10 @@ Rating: 4.17 (Ranked 849)
 | Dressed to Impress | 0.40% | ~258 |
 | A Momentum Occasion | 0.40% | ~258 |
 | Bat Out of Hell | 0.30% | ~193 |
-| Hammer and Icicle | 0.20% | ~69 |
-| Renewable Enemy Source | 0.20% | ~69 |
-| Crime Is a Terrible Thing to Waste | 0.20% | ~69 |
-| The Cold, the Bad and the Ugly | 0.20% | ~69 |
+| Hammer and Icicle | 0.20% | ~70 |
+| Renewable Enemy Source | 0.20% | ~70 |
+| Crime Is a Terrible Thing to Waste | 0.20% | ~70 |
+| The Cold, the Bad and the Ugly | 0.20% | ~70 |
 | Practice Makes Perfect | 0.20% | ~129 |
 | He'd Be So Proud of You | 0.20% | ~129 |
 | Element of Surprise | 0.10% | ~35 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 849)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,465 (Ranked 71)  
+Progressed: 64,474 (Ranked 71)  
 Completed: 95 (0.15%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 95 (0.15%) (Ranked 156)
 | 2023-06-08 | 64,117 | 94 |
 | 2023-06-09 | 64,309 | 95 |
 | 2023-06-10 | 64,465 | 95 |
+| 2023-06-11 | 64,474 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,317  (Ranked 97)  
 Sum: 3,830 (Ranked 137)  

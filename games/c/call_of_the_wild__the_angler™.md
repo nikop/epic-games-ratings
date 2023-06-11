@@ -18,7 +18,7 @@ Number of Ratings: 281  (23.09.2022)
 | Things that go Splash in the Night | 26.00% | ~1,102 |
 | Goldfish? | 26.00% | ~1,102 |
 | Going for Gold | 23.00% | ~975 |
-| I'm Hooked! | 17.00% | ~721 |
+| I'm Hooked! | 18.00% | ~763 |
 | More than a Tourist | 12.00% | ~509 |
 | Diamond in the Rough | 12.00% | ~509 |
 | Hook, Line and Sinker | 7.00% | ~297 |

@@ -7,8 +7,8 @@ Rating: 4.18 (Ranked 842)
 | ---- | ---------- | ----- |
 | Flesh Wound | 14.00% | ~2,098 |
 | The Outer Way | 13.00% | ~1,948 |
-| Desperate Times | 12.00% | ~1,798 |
-| Paper Jams | 10.00% | ~1,498 |
+| Desperate Times | 12.00% | ~1,799 |
+| Paper Jams | 10.00% | ~1,499 |
 | Chew 'Em Up | 9.00% | ~1,349 |
 | Reforged | 9.00% | ~1,349 |
 | Workplace Hazard | 8.00% | ~1,199 |
@@ -19,12 +19,12 @@ Rating: 4.18 (Ranked 842)
 | Terminated | 5.00% | ~749 |
 | In the Pipe, Five by Five | 5.00% | ~749 |
 | Crash Site | 5.00% | ~749 |
-| You Need a Gun | 4.00% | ~599 |
-| Two Heads Are Better Than One | 4.00% | ~599 |
-| Float Like A Butterfly | 4.00% | ~599 |
-| Power Up | 4.00% | ~599 |
-| Instigator | 4.00% | ~116 |
-| Big Game Hunter | 4.00% | ~116 |
+| You Need a Gun | 4.00% | ~600 |
+| Two Heads Are Better Than One | 4.00% | ~600 |
+| Float Like A Butterfly | 4.00% | ~600 |
+| Power Up | 4.00% | ~600 |
+| Instigator | 4.00% | ~117 |
+| Big Game Hunter | 4.00% | ~117 |
 | The Commonality | 3.00% | ~450 |
 | What Lies Beneath | 3.00% | ~450 |
 | Full Circle | 3.00% | ~450 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 842)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,984 (Ranked 104)  
+Progressed: 14,988 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 54 (0.36%) (Ranked 122)
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
 | 2023-06-10 | 14,984 | 54 |
+| 2023-06-11 | 14,988 | 54 |
 ## Awards
 Max (Amazing Storytelling): 52  (Ranked 386)  
 Sum: 302 (Ranked 328)  

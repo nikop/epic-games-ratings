@@ -6,12 +6,12 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~18,999 |
+| Lawbringer | 36.00% | ~19,000 |
 | Landlord | 30.00% | ~15,833 |
 | Bannerlord | 21.00% | ~11,083 |
 | Horde breaker | 21.00% | ~11,083 |
 | Lawmaker | 21.00% | ~11,083 |
-| Trained | 20.00% | ~10,555 |
+| Trained | 20.00% | ~10,556 |
 | The king is pleased | 17.00% | ~8,972 |
 | King Solomon | 16.00% | ~8,444 |
 | Apple of my eye | 14.00% | ~7,389 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,776 (Ranked 79)  
+Progressed: 52,778 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,10 +110,11 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 52,544 | 0 |
 | 2023-06-09 | 52,654 | 0 |
 | 2023-06-10 | 52,776 | 0 |
+| 2023-06-11 | 52,778 | 0 |
 ## Awards
 Max (Character Customization): 6,654  (Ranked 49)  
-Sum: 13,356 (Ranked 68)  
-Diff (max vs sum): -19  
+Sum: 13,360 (Ranked 67)  
+Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,654 |
@@ -121,11 +122,11 @@ Diff (max vs sum): -19
 | This game has Diverse Characters | 825 |
 | This game is Highly Recommended | 792 |
 | This game is Extremely Fun | 759 |
-| This game has Amazing Storytelling | 747 |
+| This game has Amazing Storytelling | 749 |
 | This game has Quickly Understood Controls | 739 |
 | This game has Amazing Characters | 731 |
 | This game is Relaxing | 729 |
-| This game has a Creative Community | 536 |
+| This game has a Creative Community | 538 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -278,3 +279,4 @@ Diff (max vs sum): -19
 | 2023-06-08 | 4.74 | - | 6,646 | 13,333 |
 | 2023-06-09 | 4.74 | - | 6,646 | 13,344 |
 | 2023-06-10 | 4.74 | - | 6,654 | 13,356 |
+| 2023-06-11 | 4.74 | - | 6,654 | 13,360 |

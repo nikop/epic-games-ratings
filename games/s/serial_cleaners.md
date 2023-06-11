@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it goes | 14.00% | ~26 |
-| Clean Conscience | 14.00% | ~26 |
+| So it goes | 15.00% | ~28 |
+| Clean Conscience | 14.00% | ~27 |
 | Small-time Finder | 7.00% | ~13 |
 | Off to a Good Start | 6.00% | ~11 |
-| A New Broom Sweeps Clean | 5.00% | ~9 |
+| A New Broom Sweeps Clean | 5.00% | ~10 |
 | Business as usual | 4.00% | ~8 |
 | Pride and Joy | 3.00% | ~6 |
 | Eyes Yet To Open | 3.00% | ~6 |
@@ -29,8 +29,8 @@
 | That’s One Big Pile | 0.00% | ~0 |
 | Bee Squat | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189 (Ranked 252)  
-Completed: 5 (2.65%) (Ranked 58)  
+Progressed: 190 (Ranked 252)  
+Completed: 5 (2.63%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -52,6 +52,7 @@ Completed: 5 (2.65%) (Ranked 58)
 | 2023-06-08 | 183 | 5 |
 | 2023-06-09 | 187 | 5 |
 | 2023-06-10 | 189 | 5 |
+| 2023-06-11 | 190 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -590,7 +590,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14984,
+  "EOS_Progressed": 14988,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 1,
@@ -3470,6 +3470,11 @@
       "Time": "2023-06-10T23:03:50.209486+00:00",
       "NumProgressed": 14984,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-11T00:04:19.9923175+00:00",
+      "NumProgressed": 14988,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3505,7 +3510,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "DISARM_ENEMY",
@@ -3601,7 +3606,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3641,7 +3646,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3657,7 +3662,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3713,7 +3718,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3737,7 +3742,7 @@
       "Name": "Power Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "DISMEMBER_100",
@@ -3753,7 +3758,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3761,7 +3766,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3800,13 +3805,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 14984,
+      "Progressed": 14988,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2910,
+      "Progressed": 2914,
       "Completed": 29
     }
   ],
@@ -3814,8 +3819,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-10T19:58:03.117532+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:03:50.2094856+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:04:19.9923171+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:57:36.8387793+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:03:50.2095371+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:57:57.1635581+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:04:19.9923549+00:00"
 }

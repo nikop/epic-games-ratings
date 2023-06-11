@@ -1167,9 +1167,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22150,
+  "EOS_Progressed": 22151,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3982,6 +3982,11 @@
       "Time": "2023-06-10T23:05:24.124859+00:00",
       "NumProgressed": 22150,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-11T00:06:26.9399825+00:00",
+      "NumProgressed": 22151,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -4087,9 +4092,9 @@
       "ID": "BossCaveDefeated",
       "SetID": "3ojhj46",
       "Name": "Hands and Hammers",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 133
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -4304,21 +4309,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22150,
+      "Progressed": 22151,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1080,
+      "Progressed": 1081,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-10T10:58:58.7946026+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:05:24.1248586+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:06:26.9399819+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:32.4946327+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:58:39.2310892+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:05:24.124914+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:59:23.9664594+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:06:26.9400189+00:00"
 }

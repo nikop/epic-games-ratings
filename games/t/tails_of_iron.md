@@ -7,9 +7,9 @@ Rating: 4.50 (Ranked 546)
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 79.00% | ~1,298 |
 | Become King | 71.00% | ~1,167 |
+| Defeat 25 Frogs | 61.00% | ~1,002 |
 | Ranged Weapon | 60.00% | ~986 |
-| Defeat 25 Frogs | 60.00% | ~986 |
-| Collect Monster Parts | 56.00% | ~920 |
+| Collect Monster Parts | 57.00% | ~937 |
 | Two Handed Weapon | 55.00% | ~904 |
 | Defeat 25 Grubs | 51.00% | ~838 |
 | Rescue Redgi's Brothers | 50.00% | ~822 |
@@ -32,7 +32,7 @@ Rating: 4.50 (Ranked 546)
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~312 |
 | Discover the mystery of the Kings Chambers | 18.00% | ~296 |
 | Complete Arena Faction | 14.00% | ~230 |
-| Complete Redgi's Armory | 7.00% | ~115 |
+| Complete Redgi's Armory | 8.00% | ~131 |
 | King of Kings | 7.00% | ~115 |
 | A new Warchief rises | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)

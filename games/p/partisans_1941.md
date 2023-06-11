@@ -10,7 +10,7 @@ Number of Ratings: 98  (23.09.2022)
 | War Never Changes | 31.00% | ~314 |
 | Grenadier | 30.00% | ~304 |
 | Heroes Never Die | 27.00% | ~274 |
-| Mosquito bite | 26.00% | ~264 |
+| Mosquito bite | 27.00% | ~274 |
 | Spice It Up | 23.00% | ~233 |
 | Agent 47 | 20.00% | ~203 |
 | You're Gonna Go Far, Kid | 20.00% | ~203 |

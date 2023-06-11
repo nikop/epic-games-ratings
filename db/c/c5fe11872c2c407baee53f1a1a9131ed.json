@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 26,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -215,17 +215,17 @@
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 85,
+      "Percentage": 88,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_endless_60",
       "SetID": "5a4225j",
       "Name": "Endless 60 Seconds",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_endless_c_60",
@@ -335,9 +335,9 @@
       "ID": "ach_toosoon",
       "SetID": "5a4225j",
       "Name": "Too Soon",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_zones_complete",
@@ -357,8 +357,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:02:24.1870095+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:03:04.9154519+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:09.0325796+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:56:49.2664048+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:02:24.187029+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:56:53.3453967+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:03:04.9154873+00:00"
 }

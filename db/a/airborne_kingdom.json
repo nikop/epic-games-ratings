@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6578,
+  "EOS_Progressed": 6580,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1743,6 +1743,11 @@
       "Time": "2023-06-10T23:05:14.3623494+00:00",
       "NumProgressed": 6578,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-11T00:06:14.459848+00:00",
+      "NumProgressed": 6580,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -1762,7 +1767,7 @@
       "Name": "Daylight Found",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -1770,7 +1775,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -1786,7 +1791,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3486
+      "UsersEstimate": 3487
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -1802,7 +1807,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -1810,7 +1815,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -1818,7 +1823,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -1826,7 +1831,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -1842,7 +1847,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "AK_ON_TOWN",
@@ -1890,7 +1895,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -1898,7 +1903,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -1906,7 +1911,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3684
+      "UsersEstimate": 3685
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -1954,7 +1959,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2631
+      "UsersEstimate": 2632
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -1969,15 +1974,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6578,
+      "Progressed": 6580,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:05:14.362349+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:06:14.4598469+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:33.0422041+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:57:14.1782938+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:05:14.362379+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:57:26.6944864+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:06:14.459869+00:00"
 }

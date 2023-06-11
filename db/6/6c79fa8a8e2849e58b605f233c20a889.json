@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1453,
+  "EOS_Progressed": 1454,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1741,6 +1741,11 @@
       "Time": "2023-06-10T23:03:25.9078762+00:00",
       "NumProgressed": 1453,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T00:03:46.8230529+00:00",
+      "NumProgressed": 1454,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1856,7 +1861,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "GUARD_MAKER",
@@ -1927,14 +1932,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1453,
+      "Progressed": 1454,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:03:25.9078755+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:03:46.8230521+00:00",
   "LastUpdate_AppInfo": "2023-06-06T15:56:55.6600857+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:56:56.9079954+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:03:25.9079038+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:57:03.7419926+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:03:46.8230719+00:00"
 }

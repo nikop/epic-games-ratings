@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2750,
+  "EOS_Progressed": 2751,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2495,6 +2495,11 @@
       "Time": "2023-06-10T22:03:50.0740999+00:00",
       "NumProgressed": 2750,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-11T00:04:00.2401464+00:00",
+      "NumProgressed": 2751,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -2554,7 +2559,7 @@
       "Name": "FRAMED!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "16",
@@ -2562,7 +2567,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "17",
@@ -2578,7 +2583,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "19",
@@ -2658,7 +2663,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "6",
@@ -2674,7 +2679,7 @@
       "Name": "MASTER",
       "Percentage": 11,
       "XP": 65,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "8",
@@ -2697,13 +2702,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2750,
+      "Progressed": 2751,
       "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:03:35.8982684+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:04:00.2401457+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:58:30.59583+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:03:35.8983028+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:59:11.3897135+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:04:00.2401707+00:00"
 }

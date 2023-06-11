@@ -682,9 +682,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2362,
+  "EOS_Progressed": 2363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2362,6 +2362,11 @@
       "Time": "2023-06-10T23:05:17.6216195+00:00",
       "NumProgressed": 2362,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T00:06:18.4884874+00:00",
+      "NumProgressed": 2363,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2373,7 +2378,7 @@
       "Name": "Backpacker",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH_BING-BONG",
@@ -2397,7 +2402,7 @@
       "Name": "Commence the Hijinx!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -2429,7 +2434,7 @@
       "Name": "DIY Boss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -2469,7 +2474,7 @@
       "Name": "Globetrotter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -2533,7 +2538,7 @@
       "Name": "Laid back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -2541,7 +2546,7 @@
       "Name": "Lines for days",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -2557,7 +2562,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -2573,7 +2578,7 @@
       "Name": "NAHELL!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -2605,7 +2610,7 @@
       "Name": "Purple passion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -2613,7 +2618,7 @@
       "Name": "Renaissance man",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -2645,7 +2650,7 @@
       "Name": "Tank commander",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -2749,22 +2754,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2362,
+      "Progressed": 2363,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-09T15:59:24.8887834+00:00",
-  "LastChanged_Achievements": "2023-06-10T23:05:17.6216187+00:00",
+  "LastChanged_Achievements": "2023-06-11T00:06:18.488487+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:26.2561369+00:00",
-  "LastUpdate_Ratings": "2023-06-10T22:58:35.0322008+00:00",
-  "LastUpdate_Achievements": "2023-06-10T23:05:17.6217701+00:00"
+  "LastUpdate_Ratings": "2023-06-10T23:59:17.6214658+00:00",
+  "LastUpdate_Achievements": "2023-06-11T00:06:18.488525+00:00"
 }
