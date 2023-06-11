@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 360,
   "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 437,
+  "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 81,
@@ -418,9 +418,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 8214,
+  "EOS_Progressed": 8215,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4243,6 +4243,11 @@
       "Time": "2023-06-11T11:02:32.8987649+00:00",
       "NumProgressed": 8214,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-06-11T12:03:36.7271964+00:00",
+      "NumProgressed": 8215,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 34,
@@ -4254,7 +4259,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH02",
@@ -4334,7 +4339,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACH12",
@@ -4374,7 +4379,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH17",
@@ -4428,9 +4433,9 @@
       "ID": "ACH23",
       "SetID": "9llo822",
       "Name": "South American Connection",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1972
     },
     {
       "ID": "ACH24",
@@ -4460,9 +4465,9 @@
       "ID": "ACH27",
       "SetID": "9llo822",
       "Name": "Grand Theft Auto",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH28",
@@ -4508,9 +4513,9 @@
       "ID": "ACH33",
       "SetID": "9llo822",
       "Name": "Done it All",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH34",
@@ -4525,7 +4530,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8214,
+      "Progressed": 8215,
       "Completed": 29
     }
   ],
@@ -4533,8 +4538,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-10T11:58:23.7824085+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:02:32.8987645+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:03:36.7271805+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:57:55.232119+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:02:32.8988156+00:00"
+  "LastUpdate_Ratings": "2023-06-11T11:59:10.4027386+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:03:36.7272705+00:00"
 }

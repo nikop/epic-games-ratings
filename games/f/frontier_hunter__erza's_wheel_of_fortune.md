@@ -33,13 +33,13 @@
 | Cave Master | 47.00% | ~7 |
 | Master Artificer | 40.00% | ~6 |
 | Master Cook | 33.00% | ~5 |
+| Boss challenge | 20.00% | ~3 |
 | Berserker Slayer | 20.00% | ~3 |
-| Boss challenge | 13.00% | ~2 |
 | Giantess Slayer | 13.00% | ~2 |
-| Warden Slayer | 7.00% | ~1 |
+| Warden Slayer | 13.00% | ~2 |
+| Big Face Goalkeeper Challenge | 7.00% | ~1 |
 | Rebellious | 0.00% | ~0 |
 | Blade Mantis Challenge | 0.00% | ~0 |
-| Big Face Goalkeeper Challenge | 0.00% | ~0 |
 | Flying Kobold Challenge | 0.00% | ~0 |
 | Giant Claw Spider Challenge | 0.00% | ~0 |
 | Furious Scorpion Challenge | 0.00% | ~0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -1078,9 +1078,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_ATALEOFTWOCLANS",
       "SetID": "9eacipp",
       "Name": "Reunification",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_AVALANCHE",
@@ -1510,8 +1510,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:05:35.1825403+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:07:57.5929055+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.0031057+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:57:44.8928254+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:05:35.1826981+00:00"
+  "LastUpdate_Ratings": "2023-06-11T11:58:55.3326105+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:07:57.5930059+00:00"
 }

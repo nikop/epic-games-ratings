@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1199,
+  "EOS_Progressed": 1202,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1803,6 +1803,11 @@
       "Time": "2023-06-11T11:03:33.6042572+00:00",
       "NumProgressed": 1199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T12:04:55.6339256+00:00",
+      "NumProgressed": 1202,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1860,9 +1865,9 @@
       "ID": "ACHIEVEMENT_HOT_REPAIRS",
       "SetID": "l546gc",
       "Name": "Hot Repairs",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_LETS_COOK",
@@ -1894,7 +1899,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -1934,7 +1939,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1990,7 +1995,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -2030,7 +2035,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -2070,7 +2075,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2092,9 +2097,9 @@
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
       "SetID": "l546gc",
       "Name": "One does not simply...",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_PARTY_TIME",
@@ -2108,9 +2113,9 @@
       "ID": "NEW_ACHIEVEMENT_PLUMBER",
       "SetID": "l546gc",
       "Name": "Plumber",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -2174,15 +2179,15 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
       "SetID": "l546gc",
       "Name": "Thunderstruck",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_TO_INFINITY_AND_BEYOND",
@@ -2197,7 +2202,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1199,
+      "Progressed": 1202,
       "Completed": 0
     }
   ],
@@ -2205,8 +2210,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-10T15:57:32.465601+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:03:33.6042568+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:04:55.6339248+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:57:11.2360824+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:03:33.6043109+00:00"
+  "LastUpdate_Ratings": "2023-06-11T11:58:05.3825207+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:04:55.6339975+00:00"
 }

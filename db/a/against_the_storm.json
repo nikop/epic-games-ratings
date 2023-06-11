@@ -2348,9 +2348,9 @@
       "Count": 305
     }
   ],
-  "EOS_Progressed": 15273,
+  "EOS_Progressed": 15276,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -5188,6 +5188,11 @@
       "Time": "2023-06-11T11:05:30.3075393+00:00",
       "NumProgressed": 15273,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-11T12:07:51.6721439+00:00",
+      "NumProgressed": 15276,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 50,
@@ -5287,7 +5292,7 @@
       "Name": "First Real Expedition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "WinHard",
@@ -5295,7 +5300,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "WinImpossible",
@@ -5319,7 +5324,7 @@
       "Name": "Bandit Camp",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "WinNearBarren",
@@ -5359,7 +5364,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "WinNearFishmen",
@@ -5423,7 +5428,7 @@
       "Name": "Lost Colonies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "WinNearStatue",
@@ -5463,7 +5468,7 @@
       "Name": "Coral Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "WinOnCursed",
@@ -5479,7 +5484,7 @@
       "Name": "The Marshlands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "WinOnMoorlands",
@@ -5487,7 +5492,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "WinPrestige10",
@@ -5535,7 +5540,7 @@
       "Name": "Taking Action",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "WinWithResolve",
@@ -5575,7 +5580,7 @@
       "Name": "No Deaths",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "WinWithoutOrders",
@@ -5598,15 +5603,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15273,
+      "Progressed": 15276,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-10T14:00:37.9490058+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:05:30.3075389+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:07:51.6721433+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:27.9901974+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:59:24.2765776+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:05:30.3076043+00:00"
+  "LastUpdate_Ratings": "2023-06-11T12:01:24.3283158+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:07:51.6721978+00:00"
 }

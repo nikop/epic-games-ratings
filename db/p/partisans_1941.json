@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1016,
+  "EOS_Progressed": 1017,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1055,6 +1055,11 @@
       "Time": "2023-06-11T10:05:28.8179247+00:00",
       "NumProgressed": 1016,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T12:07:41.8218995+00:00",
+      "NumProgressed": 1017,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1090,7 +1095,7 @@
       "Name": "The Big Bertha",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Boy",
@@ -1194,7 +1199,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "High_noon",
@@ -1216,9 +1221,9 @@
       "ID": "Its_very_spicy",
       "SetID": "85nb4h3",
       "Name": "Spice It Up",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 244
     },
     {
       "ID": "KillAllM2",
@@ -1258,7 +1263,7 @@
       "Name": "Mosquito bite",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Scout",
@@ -1305,15 +1310,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1016,
+      "Progressed": 1017,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:05:22.4744423+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:07:41.8218986+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:58:46.2212909+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:05:22.4744666+00:00"
+  "LastUpdate_Ratings": "2023-06-11T12:00:28.1683449+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:07:41.8219259+00:00"
 }

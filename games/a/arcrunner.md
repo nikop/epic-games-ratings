@@ -14,21 +14,21 @@
 | Challenge Mastered | 36.00% | ~120 |
 | Terminated III | 36.00% | ~120 |
 | Rookie | 32.00% | ~106 |
-| Nanonic II | 30.00% | ~100 |
+| Nanonic II | 31.00% | ~103 |
 | Supply Run | 21.00% | ~70 |
 | Nanonic III | 17.00% | ~56 |
 | Starship Docks | 16.00% | ~53 |
 | Cybernetic | 14.00% | ~46 |
-| The Bigger They Are | 12.00% | ~40 |
-| Up Close And Personal | 12.00% | ~40 |
+| The Bigger They Are | 13.00% | ~43 |
+| Up Close And Personal | 13.00% | ~43 |
 | Eden Heights | 11.00% | ~37 |
 | Outer Core | 7.00% | ~23 |
+| Inner Core | 4.00% | ~13 |
 | Trickshot | 4.00% | ~13 |
 | Fully Modded | 3.00% | ~10 |
-| Inner Core | 3.00% | ~10 |
 | Integration | 3.00% | ~10 |
+| Destruction | 2.00% | ~7 |
 | Ripperdoc | 2.00% | ~7 |
-| Destruction | 1.00% | ~3 |
 | Hard Boiled | 0.60% | ~2 |
 | Cyborg | 0.30% | ~1 |
 | Weaponsmith | 0.00% | ~0 |

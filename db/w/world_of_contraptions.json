@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -656,9 +656,9 @@
       "ID": "LEVEL_HARD",
       "SetID": "aemieak",
       "Name": "First hard level",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVEL_MEDIUM",
@@ -687,8 +687,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:05:04.3867075+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:07:17.6914082+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:26.8919263+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:57:53.1083151+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:05:04.3867378+00:00"
+  "LastUpdate_Ratings": "2023-06-11T11:59:07.1065257+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:07:17.6914514+00:00"
 }

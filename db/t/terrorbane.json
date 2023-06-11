@@ -4,7 +4,7 @@
   "ProductSlug": "terrorbane-437dd3",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-01T00:00:00+00:00",
@@ -100,9 +100,9 @@
       "ID": "Achievement_01",
       "SetID": "6jd5kdh",
       "Name": "C Rank Bug-catcher",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement_02",
@@ -140,17 +140,17 @@
       "ID": "Achievement_06",
       "SetID": "6jd5kdh",
       "Name": "Blade of prophecy",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_07",
       "SetID": "6jd5kdh",
       "Name": "Normal end",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_08",
@@ -301,8 +301,8 @@
   "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
   "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:05:20.0444346+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:07:38.4115426+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:00.5903213+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:59:03.5803409+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:05:20.0444541+00:00"
+  "LastUpdate_Ratings": "2023-06-11T12:00:53.4630853+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:07:38.4115617+00:00"
 }

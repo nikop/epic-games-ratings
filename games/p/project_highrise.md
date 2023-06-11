@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~123 |
+| In the Black | 59.00% | ~124 |
 | Starting Skyward | 52.00% | ~109 |
-| Grime is Not Good | 46.00% | ~96 |
+| Grime is Not Good | 46.00% | ~97 |
 | Campaign Launch | 40.00% | ~84 |
-| Floor Galore | 38.00% | ~79 |
-| Dinner Dash | 38.00% | ~79 |
-| It's Technical | 36.00% | ~75 |
+| Floor Galore | 38.00% | ~80 |
+| Dinner Dash | 38.00% | ~80 |
+| It's Technical | 36.00% | ~76 |
 | Need a Consult | 34.00% | ~71 |
 | Upgrade Unlock | 34.00% | ~71 |
 | Delegate Maintenance | 34.00% | ~71 |
-| Proper Walls | 33.00% | ~69 |
+| Proper Walls | 32.00% | ~67 |
 | Destination Destiny | 28.00% | ~59 |
 | Happy Tenants | 25.00% | ~52 |
 | Your Prestige is Rising | 23.00% | ~48 |
@@ -24,19 +24,19 @@
 | Lux Living | 22.00% | ~46 |
 | Leveled Up Shops | 22.00% | ~46 |
 | People Mover | 21.00% | ~44 |
-| Get Electrified | 21.00% | ~44 |
 | Don't Feel a Loan | 20.00% | ~42 |
 | Emporium Empire | 20.00% | ~42 |
+| Get Electrified | 20.00% | ~42 |
 | Artfully Done | 19.00% | ~40 |
 | Rehab Expert | 19.00% | ~40 |
 | Tasty Profits | 19.00% | ~40 |
 | We Don't Need No Education | 18.00% | ~38 |
 | Under One Roof | 17.00% | ~36 |
 | Cashflow Chief | 17.00% | ~36 |
-| Established Fame | 16.00% | ~33 |
-| Boutique Benefits | 15.00% | ~31 |
-| Terrifically Trashed | 15.00% | ~31 |
-| Thrilled Tenants | 15.00% | ~31 |
+| Established Fame | 16.00% | ~34 |
+| Boutique Benefits | 15.00% | ~32 |
+| Terrifically Trashed | 15.00% | ~32 |
+| Thrilled Tenants | 15.00% | ~32 |
 | Starred Dining | 14.00% | ~29 |
 | Smooth Operator | 13.00% | ~27 |
 | Swimming in Surplus | 13.00% | ~27 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209 (Ranked 247)  
+Progressed: 210 (Ranked 247)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-06 | 205 | 0 |
 | 2023-06-07 | 207 | 0 |
 | 2023-06-10 | 209 | 0 |
+| 2023-06-11 | 210 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

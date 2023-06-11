@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 166,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -423,6 +423,11 @@
       "Time": "2023-06-11T07:05:49.0625841+00:00",
       "NumProgressed": 165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T12:07:25.2461219+00:00",
+      "NumProgressed": 166,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -434,7 +439,7 @@
       "Name": "Wake Up",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_ACT10",
@@ -498,7 +503,7 @@
       "Name": "Time Gates",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_ACT3",
@@ -522,7 +527,7 @@
       "Name": "Extendable Bridges",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_ACT6",
@@ -530,7 +535,7 @@
       "Name": "48 Attempts",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_ACT7",
@@ -538,15 +543,15 @@
       "Name": "No Time To Relax",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_ACT8",
       "SetID": "2310cb1",
       "Name": "Bad Robots",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_ACT9",
@@ -554,15 +559,15 @@
       "Name": "Running Boots",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_ARCHIVIST",
       "SetID": "2310cb1",
       "Name": "Archivist",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_BESTFRIEND",
@@ -592,9 +597,9 @@
       "ID": "ACH_FASHION",
       "SetID": "2310cb1",
       "Name": "Fashionista",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_HANDYMAN",
@@ -602,7 +607,7 @@
       "Name": "Handyman",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_LOOPER",
@@ -626,7 +631,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -649,7 +654,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 166,
       "Completed": 0
     }
   ],
@@ -657,8 +662,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:05:09.8900713+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:07:25.2461213+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:34.3357794+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:57:14.3853363+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:05:09.8900937+00:00"
+  "LastUpdate_Ratings": "2023-06-11T11:58:09.3841477+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:07:25.2461446+00:00"
 }

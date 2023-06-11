@@ -8,7 +8,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 17.00% | ~1,659 |
 | A Spark | 12.00% | ~1,171 |
-| Burning City | 11.00% | ~1,073 |
+| Burning City | 11.00% | ~1,074 |
 | Defender's Heart | 10.00% | ~976 |
 | Banner over the Citadel | 9.00% | ~878 |
 | Mythic Choices | 9.00% | ~878 |
@@ -21,7 +21,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Transformation | 3.00% | ~293 |
 | The Legacy | 3.00% | ~293 |
 | Great Upstart | 3.00% | ~293 |
-| Divide and Rule | 3.00% | ~293 |
 | Voice from Your Dreams | 3.00% | ~293 |
 | All Paths Open | 3.00% | ~293 |
 | A Flame | 3.00% | ~293 |
@@ -31,6 +30,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Trickster | 2.00% | ~195 |
 | Path of the Lich | 2.00% | ~195 |
 | Heroic Victory | 2.00% | ~195 |
+| Divide and Rule | 2.00% | ~195 |
 | Mythic Reinforcements | 2.00% | ~195 |
 | Core of the Riddle | 2.00% | ~195 |
 | Your First Big Enemy | 2.00% | ~195 |
@@ -46,8 +46,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Important Deed | 1.00% | ~98 |
 | Abyssal Conspiracy | 0.90% | ~88 |
 | This Wall Won't Fall | 0.90% | ~77 |
+| The Final Threshold | 0.80% | ~78 |
 | Not the Last Sarkorian | 0.80% | ~68 |
-| The Final Threshold | 0.70% | ~68 |
 | Strategic Victory | 0.70% | ~68 |
 | End of Eternal Guard | 0.70% | ~68 |
 | Path of the Dragon | 0.60% | ~59 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,759 (Ranked 112)  
+Progressed: 9,761 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,11 +175,11 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 9,650 | 0 |
 | 2023-06-09 | 9,691 | 0 |
 | 2023-06-10 | 9,745 | 0 |
-| 2023-06-11 | 9,759 | 0 |
+| 2023-06-11 | 9,761 | 0 |
 ## Awards
 Max (Character Customization): 1,660  (Ranked 111)  
-Sum: 6,731 (Ranked 109)  
-Diff (max vs sum): 2  
+Sum: 6,731 (Ranked 110)  
+Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,660 |

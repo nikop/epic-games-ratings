@@ -6,9 +6,9 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -305,10 +305,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 6431,
-  "EOS_Completed": 36,
-  "EOS_NewPlayers": 416,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 0.56,
+  "EOS_Completed": 37,
+  "EOS_NewPlayers": 411,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -3719,6 +3719,11 @@
       "Time": "2023-06-11T11:03:20.0549113+00:00",
       "NumProgressed": 6431,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-11T12:04:36.4914558+00:00",
+      "NumProgressed": 6431,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -3944,9 +3949,9 @@
       "ID": "ACH28",
       "SetID": "552d41m",
       "Name": "Is That All You\u0027ve Got?",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH29",
@@ -3962,15 +3967,15 @@
       "ID": "552d41m",
       "IsBase": true,
       "Progressed": 6431,
-      "Completed": 36
+      "Completed": 37
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-09T22:58:07.1863302+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:03:20.0549105+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:04:36.4914551+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:05.8018306+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:57:36.661116+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:03:20.0549576+00:00"
+  "LastUpdate_Ratings": "2023-06-11T11:58:43.8087346+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:04:36.491504+00:00"
 }

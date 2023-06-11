@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 324,
+  "EOS_Progressed": 325,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -186,6 +186,11 @@
       "Time": "2023-06-08T09:03:50.2790841+00:00",
       "NumProgressed": 324,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T12:05:02.4502243+00:00",
+      "NumProgressed": 325,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -197,7 +202,7 @@
       "Name": "Brace for impact!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -213,7 +218,7 @@
       "Name": "Fore!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CATAPULT_THROW",
@@ -349,7 +354,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -365,7 +370,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -405,7 +410,7 @@
       "Name": "Insurance fraud",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -421,7 +426,7 @@
       "Name": "Toot Toot!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -435,9 +440,9 @@
       "ID": "KING_CROWN",
       "SetID": "20koof9",
       "Name": "Your Highness",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 72
     },
     {
       "ID": "LEFT_LEVEL",
@@ -461,7 +466,7 @@
       "Name": "A Forest Walk",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -469,7 +474,7 @@
       "Name": "Snow Fun!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -485,7 +490,7 @@
       "Name": "Multiply that!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -565,7 +570,7 @@
       "Name": "Event Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "WIN_10_EVENTS",
@@ -573,7 +578,7 @@
       "Name": "Event Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -629,14 +634,14 @@
       "Name": "Blasting away!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 324,
+      "Progressed": 325,
       "Completed": 2
     }
   ],
@@ -644,8 +649,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:03:38.2847484+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:05:02.4502235+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:03.8621551+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:58:20.1680225+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:03:38.2847993+00:00"
+  "LastUpdate_Ratings": "2023-06-11T11:59:49.6452268+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:05:02.4502694+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
   "Ranking_EOS_Progress": 349,
-  "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_Completed": 10,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 15.38,
+  "EOS_Completed_Percentage": 14.29,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -89,6 +89,11 @@
       "Time": "2023-06-11T10:02:22.3767357+00:00",
       "NumProgressed": 13,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T12:03:32.6281614+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 10,
@@ -98,7 +103,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "1ejicho",
       "Name": "Clothes Hunter",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -106,7 +111,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "1ejicho",
       "Name": "Con Artist",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -114,7 +119,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "1ejicho",
       "Name": "I See Dead People",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -122,7 +127,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "1ejicho",
       "Name": "Bedtime Storyteller",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -130,7 +135,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "1ejicho",
       "Name": "I Ain\u0027t Afraid of No Ghost",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -138,7 +143,7 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "1ejicho",
       "Name": "Exorcist",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -146,7 +151,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "1ejicho",
       "Name": "Electrician",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -154,7 +159,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "1ejicho",
       "Name": "Card Sharp",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -162,7 +167,7 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "1ejicho",
       "Name": "Joyrider",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -170,7 +175,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "1ejicho",
       "Name": "Top Detective",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 2
     }
@@ -179,13 +184,13 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:02:29.9435424+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:03:32.6281607+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:29.2823456+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:58:38.422765+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:02:29.9435514+00:00"
+  "LastUpdate_Ratings": "2023-06-11T12:00:18.3275268+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:03:32.6281778+00:00"
 }

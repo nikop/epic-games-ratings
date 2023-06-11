@@ -682,9 +682,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2371,
+  "EOS_Progressed": 2372,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2397,6 +2397,11 @@
       "Time": "2023-06-11T10:05:21.9656696+00:00",
       "NumProgressed": 2371,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T12:07:32.9561187+00:00",
+      "NumProgressed": 2372,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2630,9 +2635,9 @@
       "ID": "ACH_PRINCE-OF-PHILLY",
       "SetID": "72olkc5",
       "Name": "Prince of Philly",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -2712,7 +2717,7 @@
       "Name": "The finer things in life",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -2784,22 +2789,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2371,
+      "Progressed": 2372,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-09T15:59:24.8887834+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:05:15.7407084+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:07:32.9561179+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:26.2561369+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:58:36.2207019+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:05:15.7407604+00:00"
+  "LastUpdate_Ratings": "2023-06-11T12:00:14.1901434+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:07:32.9561691+00:00"
 }

@@ -10,6 +10,7 @@
 | First medium level | 8.00% | ~9 |
 | Easy group | 5.00% | ~5 |
 | Medium group | 0.90% | ~1 |
+| First hard level | 0.90% | ~1 |
 | Easy group with gold stars | 0.00% | ~0 |
 | Easy group with silver stars | 0.00% | ~0 |
 | Easy group with all stars | 0.00% | ~0 |
@@ -33,7 +34,6 @@
 | Beginner climber | 0.00% | ~0 |
 | Mountain master | 0.00% | ~0 |
 | First extreme level | 0.00% | ~0 |
-| First hard level | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 107 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 214)  

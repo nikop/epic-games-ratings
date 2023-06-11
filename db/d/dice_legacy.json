@@ -819,9 +819,9 @@
       "ID": "CHALLENGE_RANDOMPOPULATION",
       "SetID": "6ohhfoc",
       "Name": "Charismatic Leader",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
@@ -1132,8 +1132,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:05:14.7517759+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:07:31.5162187+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:52.9650429+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:57:27.0220986+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:05:14.7518191+00:00"
+  "LastUpdate_Ratings": "2023-06-11T11:58:29.8220492+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:07:31.5162642+00:00"
 }

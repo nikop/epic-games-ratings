@@ -5,18 +5,18 @@ Rating: 4.51 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~760 |
-| Confirming Suspicions | 24.00% | ~629 |
-| The Kraken Wakes | 20.00% | ~524 |
-| It's Starting to Crack | 17.00% | ~446 |
-| Lord of War | 14.00% | ~367 |
-| Change the Channel | 14.00% | ~367 |
-| Resourceful | 13.00% | ~341 |
+| Meeting Resistance | 29.00% | ~762 |
+| Confirming Suspicions | 24.00% | ~631 |
+| The Kraken Wakes | 20.00% | ~526 |
+| It's Starting to Crack | 17.00% | ~447 |
+| Lord of War | 14.00% | ~368 |
+| Change the Channel | 14.00% | ~368 |
+| Resourceful | 13.00% | ~342 |
 | Taking it back | 12.00% | ~315 |
-| Organ Grinder | 10.00% | ~262 |
-| As Quiet as a Mouse | 10.00% | ~262 |
-| Target America | 10.00% | ~262 |
-| The Kraken Sleeps | 9.00% | ~236 |
+| Target America | 11.00% | ~289 |
+| Organ Grinder | 10.00% | ~263 |
+| As Quiet as a Mouse | 10.00% | ~263 |
+| The Kraken Sleeps | 9.00% | ~237 |
 | Liberté | 8.00% | ~210 |
 | Enemy at the Gates | 8.00% | ~210 |
 | Just a Flesh Wound | 8.00% | ~210 |
@@ -24,11 +24,11 @@ Rating: 4.51 (Ranked 529)
 | Sharpshooter | 8.00% | ~210 |
 | Explosive Efficiency | 8.00% | ~210 |
 | Opposing Force | 7.00% | ~184 |
-| Die Nussknacker Sweet! | 6.00% | ~157 |
-| Der Geist | 6.00% | ~157 |
-| Close Quarters | 6.00% | ~157 |
-| Snake in the Grass | 6.00% | ~157 |
-| Brains of the Operation | 6.00% | ~157 |
+| Die Nussknacker Sweet! | 6.00% | ~158 |
+| Der Geist | 6.00% | ~158 |
+| Close Quarters | 6.00% | ~158 |
+| Snake in the Grass | 6.00% | ~158 |
+| Brains of the Operation | 6.00% | ~158 |
 | Climbing the Ladder | 5.00% | ~131 |
 | No Stone Unturned | 5.00% | ~131 |
 | Fields of Glory | 5.00% | ~131 |
@@ -37,8 +37,8 @@ Rating: 4.51 (Ranked 529)
 | Precision Is Key | 4.00% | ~105 |
 | Rigged to Blow | 3.00% | ~79 |
 | My Little Friend | 3.00% | ~79 |
-| The Long Game | 2.00% | ~52 |
-| It'll Buff Right Out | 2.00% | ~52 |
+| The Long Game | 2.00% | ~53 |
+| It'll Buff Right Out | 2.00% | ~53 |
 | Strategist | 1.00% | ~26 |
 | Tinkerer | 1.00% | ~26 |
 | Locomotion Commotion | 1.00% | ~26 |
@@ -56,8 +56,8 @@ Rating: 4.51 (Ranked 529)
 | Shoot for the Moon | 0.50% | ~13 |
 | If You Go Down To The Woods Today | 0.50% | ~13 |
 | Fight Another Day | 0.50% | ~13 |
-| Eagle Eyed | 0.40% | ~10 |
-| Can't Outrun A Bullet | 0.40% | ~10 |
+| Eagle Eyed | 0.40% | ~11 |
+| Can't Outrun A Bullet | 0.40% | ~11 |
 | Reich To The Point | 0.30% | ~8 |
 | Covert Elimination | 0.30% | ~8 |
 | Sink or Swim | 0.30% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 529)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,622 (Ranked 146)  
+Progressed: 2,629 (Ranked 146)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
-| 2023-06-11 | 2,622 | 2 |
+| 2023-06-11 | 2,629 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

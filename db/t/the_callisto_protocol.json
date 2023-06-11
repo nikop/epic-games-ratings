@@ -602,9 +602,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15020,
+  "EOS_Progressed": 15022,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3537,6 +3537,11 @@
       "Time": "2023-06-11T11:03:46.3063369+00:00",
       "NumProgressed": 15020,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-11T12:05:14.0092671+00:00",
+      "NumProgressed": 15022,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3564,7 +3569,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3780,7 +3785,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3867,13 +3872,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15020,
+      "Progressed": 15022,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2946,
+      "Progressed": 2948,
       "Completed": 29
     }
   ],
@@ -3881,8 +3886,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T09:57:43.9891302+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:03:46.3063365+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:05:14.0092664+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:57:35.9344492+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:03:46.3063905+00:00"
+  "LastUpdate_Ratings": "2023-06-11T11:58:42.6778754+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:05:14.0093244+00:00"
 }

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 34.00% | ~110 |
+| Brace for impact! | 34.00% | ~111 |
 | Baby's First Car | 32.00% | ~104 |
 | Pushover | 32.00% | ~104 |
-| Amateur Mechanic | 31.00% | ~100 |
-| A Forest Walk | 31.00% | ~100 |
-| C-C-C-Combo! | 30.00% | ~97 |
-| Multiply that! | 30.00% | ~97 |
-| Fore! | 27.00% | ~87 |
-| Insurance fraud | 27.00% | ~87 |
-| Snow Fun! | 27.00% | ~87 |
+| Amateur Mechanic | 31.00% | ~101 |
+| A Forest Walk | 31.00% | ~101 |
+| C-C-C-Combo! | 30.00% | ~98 |
+| Multiply that! | 30.00% | ~98 |
+| Fore! | 27.00% | ~88 |
+| Insurance fraud | 27.00% | ~88 |
+| Snow Fun! | 27.00% | ~88 |
 | The Collector | 26.00% | ~84 |
 | The Wild West | 26.00% | ~84 |
 | Bag of Tricks | 26.00% | ~84 |
@@ -28,8 +28,8 @@
 | Beach Party! | 24.00% | ~78 |
 | Car-Tapult | 23.00% | ~75 |
 | Anger Issues | 23.00% | ~75 |
-| Your Highness | 23.00% | ~75 |
-| Event Amateur | 22.00% | ~71 |
+| Your Highness | 22.00% | ~72 |
+| Event Amateur | 22.00% | ~72 |
 | Feeling Dizzy? | 20.00% | ~65 |
 | Drift King! | 19.00% | ~62 |
 | Feeling Hot Hot Hot! | 19.00% | ~62 |
@@ -38,8 +38,8 @@
 | Speed of light | 19.00% | ~62 |
 | Out of this League | 16.00% | ~52 |
 | Special Forces | 15.00% | ~49 |
-| Toot Toot! | 14.00% | ~45 |
-| Blasting away! | 14.00% | ~45 |
+| Toot Toot! | 14.00% | ~46 |
+| Blasting away! | 14.00% | ~46 |
 | Earth Defense Force | 13.00% | ~42 |
 | Rocketman | 13.00% | ~42 |
 | High Roller | 12.00% | ~39 |
@@ -47,7 +47,7 @@
 | Space Crash | 8.00% | ~26 |
 | To war! | 8.00% | ~26 |
 | Hoarder | 7.00% | ~23 |
-| Event Master | 6.00% | ~19 |
+| Event Master | 6.00% | ~20 |
 | A Starting Collector | 5.00% | ~16 |
 | My Precious | 4.00% | ~13 |
 | Apprentice Mechanic | 4.00% | ~13 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324 (Ranked 225)  
+Progressed: 325 (Ranked 225)  
 Completed: 2 (0.62%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 2 (0.62%) (Ranked 110)
 | 2023-06-06 | 322 | 2 |
 | 2023-06-07 | 323 | 2 |
 | 2023-06-08 | 324 | 2 |
+| 2023-06-11 | 325 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

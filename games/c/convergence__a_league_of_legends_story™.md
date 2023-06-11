@@ -11,6 +11,7 @@
 | The Mysterious Stranger | 6.00% | ~39 |
 | Rail Rat | 6.00% | ~39 |
 | Make Up For Lost Time | 6.00% | ~39 |
+| No, Thanks! | 6.00% | ~39 |
 | Breaking Down Barriers | 6.00% | ~39 |
 | The Prince in Heels | 6.00% | ~39 |
 | Immaculate Aim | 6.00% | ~39 |
@@ -18,7 +19,6 @@
 | The Man Who Shattered Time | 5.00% | ~33 |
 | Time Flies | 5.00% | ~33 |
 | The Harder They Fall | 5.00% | ~33 |
-| No, Thanks! | 5.00% | ~33 |
 | The Wicked Twins | 5.00% | ~33 |
 | Golem Chaser | 5.00% | ~33 |
 | Fast Learner | 5.00% | ~33 |

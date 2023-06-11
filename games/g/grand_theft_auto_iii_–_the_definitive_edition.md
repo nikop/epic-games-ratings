@@ -32,11 +32,11 @@ Rating: 4.14 (Ranked 865)
 | Planned Ahead | 0.90% | ~58 |
 | Wheels Up | 0.90% | ~58 |
 | Furious First Responder | 0.80% | ~51 |
-| Is That All You've Got? | 0.70% | ~45 |
+| Is That All You've Got? | 0.80% | ~51 |
 | King of Liberty City | 0.60% | ~39 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,431 (Ranked 121)  
-Completed: 36 (0.56%) (Ranked 112)  
+Completed: 37 (0.58%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 36 (0.56%) (Ranked 112)
 | 2023-06-08 | 6,292 | 32 |
 | 2023-06-09 | 6,351 | 33 |
 | 2023-06-10 | 6,411 | 36 |
-| 2023-06-11 | 6,431 | 36 |
+| 2023-06-11 | 6,431 | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

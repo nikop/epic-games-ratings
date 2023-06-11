@@ -24,14 +24,14 @@
 | Shoo! Shoo! | 55.00% | ~11 |
 | The Milk Canal | 55.00% | ~11 |
 | Fledgling Smithy | 55.00% | ~11 |
+| Nature's Savior | 50.00% | ~10 |
+| Hammer It Home | 50.00% | ~10 |
 | At One With Nature | 50.00% | ~10 |
 | Prison Break | 45.00% | ~9 |
 | I Pick You | 45.00% | ~9 |
 | Accomplished Smithy | 45.00% | ~9 |
 | The Blight's Blight | 45.00% | ~9 |
 | The Ultimate Sacrifice | 45.00% | ~9 |
-| Nature's Savior | 45.00% | ~9 |
-| Hammer It Home | 45.00% | ~9 |
 | For Whom the Bell Tolls | 45.00% | ~9 |
 | Here I Am | 45.00% | ~9 |
 | Break The Cycle | 40.00% | ~8 |
@@ -44,7 +44,7 @@
 | Merely Inquisitive | 15.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20 (Ranked 340)  
-Completed: 3 (15.00%) (Ranked 10)  
+Completed: 3 (15.00%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

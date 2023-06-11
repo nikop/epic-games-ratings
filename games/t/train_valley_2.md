@@ -11,12 +11,12 @@ Number of Ratings: 87  (23.09.2022)
 | Individual delivery | 7.00% | ~51 |
 | To the eyeballs! | 7.00% | ~51 |
 | Juggler | 6.00% | ~44 |
+| Close call! | 5.00% | ~37 |
+| Common cause | 5.00% | ~37 |
 | Forgot something | 5.00% | ~37 |
 | Mega-railroad | 5.00% | ~37 |
 | Non-Stop | 5.00% | ~37 |
 | Builder | 4.00% | ~29 |
-| Close call! | 4.00% | ~29 |
-| Common cause | 4.00% | ~29 |
 | Critical care | 4.00% | ~29 |
 | Get out my way | 4.00% | ~29 |
 | Just in time! | 4.00% | ~29 |

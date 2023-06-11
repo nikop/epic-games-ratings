@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Historian | 95.00% | ~193 |
 | Treasure hunter | 91.00% | ~185 |
-| Survivalist | 82.00% | ~166 |
+| Survivalist | 83.00% | ~168 |
 | Challenge seeker | 79.00% | ~160 |
 | Coin collector | 73.00% | ~148 |
 | Floater | 58.00% | ~118 |
@@ -19,7 +19,7 @@
 | Pragmatic | 23.00% | ~47 |
 | Calory burner | 17.00% | ~35 |
 | Pacifist | 15.00% | ~30 |
-| Model | 14.00% | ~28 |
+| Model | 15.00% | ~30 |
 | Snow digger | 13.00% | ~26 |
 | Fire extinguisher | 10.00% | ~20 |
 | Hubworld fan | 10.00% | ~20 |

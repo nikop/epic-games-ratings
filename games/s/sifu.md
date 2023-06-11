@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~720 |
-| Project Arena | 3.00% | ~540 |
+| Diligence as a goal | 4.00% | ~721 |
+| Project Arena | 3.00% | ~541 |
 | The Old Grandmaster | 1.00% | ~7,087 |
 | The Assault | 1.00% | ~7,087 |
 | The Hateful Pole Fighter | 1.00% | ~7,087 |
@@ -52,12 +52,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Drunken Fighter | 0.20% | ~1,417 |
 | Healing Memory | 0.20% | ~1,417 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,417 |
+| Ferocity, speed, strength, accuracy | 0.20% | ~1,417 |
 | Be like water my friend | 0.20% | ~1,417 |
 | Come Snap With Me | 0.20% | ~1,417 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~709 |
 | Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,707 (Ranked 16)  
+Progressed: 708,716 (Ranked 16)  
 Completed: 12,765 (1.80%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,17 +109,17 @@ Completed: 12,765 (1.80%) (Ranked 71)
 | 2023-06-08 | 708,100 | 12,763 |
 | 2023-06-09 | 708,330 | 12,764 |
 | 2023-06-10 | 708,593 | 12,764 |
-| 2023-06-11 | 708,707 | 12,765 |
+| 2023-06-11 | 708,716 | 12,765 |
 ## Awards
 Max (Great Boss Battles): 6,159  (Ranked 52)  
-Sum: 10,510 (Ranked 78)  
+Sum: 10,512 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,159 |
 | This game has Diverse Characters | 527 |
 | This game has Challenging Combat | 520 |
-| This game has Quickly Understood Controls | 510 |
+| This game has Quickly Understood Controls | 512 |
 | This game is Extremely Fun | 503 |
 | This game has Amazing Storytelling | 501 |
 | This game is Highly Recommended | 488 |
@@ -276,4 +276,4 @@ Diff (max vs sum): -26
 | 2023-06-08 | 4.82 | - | 6,151 | 10,492 |
 | 2023-06-09 | 4.82 | - | 6,153 | 10,499 |
 | 2023-06-10 | 4.82 | - | 6,159 | 10,507 |
-| 2023-06-11 | 4.82 | - | 6,159 | 10,510 |
+| 2023-06-11 | 4.82 | - | 6,159 | 10,512 |

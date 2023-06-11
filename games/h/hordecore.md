@@ -17,7 +17,7 @@
 | Blow ‘Em Up | 21.00% | ~71 |
 | That’s What Friends Are For | 20.00% | ~67 |
 | FOR THE GAUNTLET! | 20.00% | ~67 |
-| Untapped Potential | 16.00% | ~54 |
+| Untapped Potential | 17.00% | ~57 |
 | Played by Gramps | 14.00% | ~47 |
 | Size Doesn’t Matter | 13.00% | ~44 |
 | My Savior! | 13.00% | ~44 |

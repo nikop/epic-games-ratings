@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Taste | 25.00% | ~146 |
 | The Hunt | 22.00% | ~129 |
 | Ravenous | 22.00% | ~129 |
-| Weeper | 19.00% | ~111 |
+| Weeper | 20.00% | ~117 |
 | Devourer | 15.00% | ~88 |
 | Harmless | 13.00% | ~76 |
 | Silenced Whispers | 13.00% | ~76 |

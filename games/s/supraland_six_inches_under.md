@@ -13,9 +13,9 @@ Number of Ratings: 209  (23.09.2022)
 | High Jump | 96.00% | ~1,993 |
 | Knee bending | 96.00% | ~1,993 |
 | Pickaxe | 94.00% | ~1,951 |
+| Revenge | 94.00% | ~1,951 |
 | Entered Cage Town | 93.00% | ~1,931 |
 | Stone Pickaxe | 93.00% | ~1,931 |
-| Revenge | 93.00% | ~1,931 |
 | Cage Town | 93.00% | ~1,931 |
 | Surprise | 93.00% | ~1,931 |
 | Force Beam | 92.00% | ~1,910 |
@@ -111,8 +111,8 @@ Completed: 248 (11.95%) (Ranked 13)
 | 2023-06-10 | 2,075 | 248 |
 | 2023-06-11 | 2,076 | 248 |
 ## Awards
-Max (Challenging Puzzles): 98  (Ranked 328)  
-Sum: 98 (Ranked 402)  
+Max (Challenging Puzzles): 98  (Ranked 329)  
+Sum: 98 (Ranked 403)  
 Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |

@@ -14,7 +14,7 @@ Rating: 4.64 (Ranked 313)
 | From the Vault with Love | 37.00% | ~2,492 |
 | Tailor-Made | 37.00% | ~2,492 |
 | Fully Decked Out | 35.00% | ~2,357 |
-| You Only Live Twice | 32.00% | ~2,155 |
+| You Only Live Twice | 33.00% | ~2,222 |
 | A view to Win | 28.00% | ~1,886 |
 | Private Collection | 25.00% | ~1,684 |
 | Hostile Takeover | 25.00% | ~1,684 |

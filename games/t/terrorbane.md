@@ -7,9 +7,9 @@
 | First contact | 100.00% | ~40 |
 | System shocked | 60.00% | ~24 |
 | Exposé | 53.00% | ~21 |
-| Blade of prophecy | 43.00% | ~17 |
-| Normal end | 43.00% | ~17 |
-| C Rank Bug-catcher | 40.00% | ~16 |
+| Blade of prophecy | 45.00% | ~18 |
+| Normal end | 45.00% | ~18 |
+| C Rank Bug-catcher | 43.00% | ~17 |
 | Armed robbery | 33.00% | ~13 |
 | Never learn | 30.00% | ~12 |
 | B Rank Bug-catcher | 25.00% | ~10 |

@@ -28,6 +28,7 @@
 | Orcharion Boost | 11.00% | ~4 |
 | Fishing for Fissures | 11.00% | ~4 |
 | All Beefed Up | 11.00% | ~4 |
+| What's Yours Is Mine | 11.00% | ~4 |
 | How Do You Like Them Apples? | 11.00% | ~4 |
 | Gotta Collect Them All | 8.00% | ~3 |
 | Keeping Things Tidy | 8.00% | ~3 |
@@ -42,7 +43,6 @@
 | Isn't It Grand? | 8.00% | ~3 |
 | I am the Trial! | 8.00% | ~3 |
 | The Smelter | 8.00% | ~3 |
-| What's Yours Is Mine | 8.00% | ~3 |
 | I Like Rocks! | 8.00% | ~3 |
 | Nutoro Trial Extraordinaire | 8.00% | ~3 |
 | Scour the Nutoro Domain | 8.00% | ~3 |

@@ -2,12 +2,12 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -486,7 +486,7 @@
   ],
   "EOS_Progressed": 2871,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2792,8 +2792,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:03:02.1746014+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:04:09.4312724+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.3082494+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:57:31.0023658+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:03:02.1746489+00:00"
+  "LastUpdate_Ratings": "2023-06-11T11:58:35.3367256+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:04:09.431317+00:00"
 }

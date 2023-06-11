@@ -58,10 +58,10 @@ Number of Ratings: 180  (23.09.2022)
 | Transport tycoon (Hard mode) | 2.00% | ~25 |
 | No country for old trains | 2.00% | ~25 |
 | Charles Alton Ellis | 2.00% | ~25 |
+| Campaign tycoon | 2.00% | ~25 |
 | Metropolis | 2.00% | ~25 |
 | Speed of light | 2.00% | ~25 |
 | Trans-Siberian Railway | 2.00% | ~25 |
-| Campaign tycoon | 1.00% | ~13 |
 | Train Fever | 1.00% | ~13 |
 | Louis Favre | 0.90% | ~11 |
 | Big spender | 0.40% | ~5 |

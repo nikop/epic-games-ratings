@@ -11,11 +11,11 @@ Rating: 4.32 (Ranked 752)
 | Flying Present Catcher | 5.00% | ~2,756 |
 | HFZ Goober | 5.00% | ~2,756 |
 | Sunflower Master | 4.00% | ~2,205 |
-| Backer Visitor | 2.00% | ~1,102 |
-| Hi Fiver | 2.00% | ~1,102 |
-| Hate That Randomizer | 2.00% | ~1,102 |
-| Feet on Funkotron | 2.00% | ~1,102 |
-| A Timely Splash | 2.00% | ~1,102 |
+| Backer Visitor | 2.00% | ~1,103 |
+| Hi Fiver | 2.00% | ~1,103 |
+| Hate That Randomizer | 2.00% | ~1,103 |
+| Feet on Funkotron | 2.00% | ~1,103 |
+| A Timely Splash | 2.00% | ~1,103 |
 | Elf Chaser | 1.00% | ~551 |
 | Fool Me Twice | 1.00% | ~551 |
 | Old School Jammin' | 1.00% | ~551 |
@@ -27,12 +27,12 @@ Rating: 4.32 (Ranked 752)
 | Teamwork Rules | 0.60% | ~331 |
 | Totally Bummed Again | 0.60% | ~331 |
 | Piece O' Cake | 0.50% | ~276 |
-| Boom Box Baby | 0.40% | ~220 |
-| I Can't Believe I've Done This | 0.40% | ~220 |
-| Flying Present Ultimate Master | 0.40% | ~220 |
-| Ridiculously Generous | 0.40% | ~220 |
-| Harsh Love | 0.40% | ~220 |
-| Made It Through | 0.40% | ~220 |
+| Boom Box Baby | 0.40% | ~221 |
+| I Can't Believe I've Done This | 0.40% | ~221 |
+| Flying Present Ultimate Master | 0.40% | ~221 |
+| Ridiculously Generous | 0.40% | ~221 |
+| Harsh Love | 0.40% | ~221 |
+| Made It Through | 0.40% | ~221 |
 | Map Explorer | 0.30% | ~165 |
 | Nine Funkotronians | 0.30% | ~165 |
 | I'm A Total Saint | 0.30% | ~165 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 752)
 | Why Do I Keep Doing That? | 0.10% | ~55 |
 | Hey, You Did It! | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,125 (Ranked 76)  
+Progressed: 55,126 (Ranked 76)  
 Completed: 4 (0.01%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 4 (0.01%) (Ranked 204)
 | 2023-06-08 | 55,041 | 4 |
 | 2023-06-09 | 55,076 | 4 |
 | 2023-06-10 | 55,109 | 4 |
-| 2023-06-11 | 55,125 | 4 |
+| 2023-06-11 | 55,126 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

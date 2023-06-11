@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 1092,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1845,9 +1845,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 655
     },
     {
       "ID": "INFILTRATOR",
@@ -1933,9 +1933,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 371
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2014,8 +2014,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-10T20:58:18.0757605+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:02:14.6083774+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:03:10.6205095+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:57:56.9602904+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:02:14.6084344+00:00"
+  "LastUpdate_Ratings": "2023-06-11T11:59:13.1142132+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:03:10.6206173+00:00"
 }

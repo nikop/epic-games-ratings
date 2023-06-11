@@ -9,7 +9,7 @@ Rating: 4.29 (Ranked 771)
 | Ranidaphobia | 75.00% | ~819 |
 | Aspiring Editor | 73.00% | ~797 |
 | Gun for Hire | 67.00% | ~732 |
-| I am the law! | 59.00% | ~644 |
+| I am the law! | 60.00% | ~655 |
 | Lumberjack | 46.00% | ~502 |
 | Croaked | 41.00% | ~448 |
 | Limp Richard | 41.00% | ~448 |
@@ -18,7 +18,7 @@ Rating: 4.29 (Ranked 771)
 | Exorcist | 38.00% | ~415 |
 | Firestarter | 37.00% | ~404 |
 | Giant Killer | 35.00% | ~382 |
-| Sensei | 33.00% | ~360 |
+| Sensei | 34.00% | ~371 |
 | The meaning of Kain | 32.00% | ~349 |
 | Technophobe | 30.00% | ~328 |
 | Recycler | 28.00% | ~306 |

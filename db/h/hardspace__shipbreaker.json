@@ -288,7 +288,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750,
+  "EOS_Progressed": 751,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -948,6 +948,11 @@
       "Time": "2023-06-11T08:03:16.6437666+00:00",
       "NumProgressed": 750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T12:03:18.25613+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -967,7 +972,7 @@
       "Name": "Act II Complete",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -1031,7 +1036,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -1053,9 +1058,9 @@
       "ID": "ACH_CRITICAL_THINKER",
       "SetID": "108h92c",
       "Name": "Critical Thinker",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1095,7 +1100,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1111,7 +1116,7 @@
       "Name": "I can fix it!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1127,7 +1132,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -1135,7 +1140,7 @@
       "Name": "Post No Bills",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1151,7 +1156,7 @@
       "Name": "Solidarity Forever",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -1174,7 +1179,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 750,
+      "Progressed": 751,
       "Completed": 0
     }
   ],
@@ -1182,8 +1187,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-07T05:57:31.8169154+00:00",
-  "LastChanged_Achievements": "2023-06-11T11:02:19.8024199+00:00",
+  "LastChanged_Achievements": "2023-06-11T12:03:18.2561293+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:39.7095495+00:00",
-  "LastUpdate_Ratings": "2023-06-11T10:57:17.8513207+00:00",
-  "LastUpdate_Achievements": "2023-06-11T11:02:19.8024424+00:00"
+  "LastUpdate_Ratings": "2023-06-11T11:58:15.8177975+00:00",
+  "LastUpdate_Achievements": "2023-06-11T12:03:18.2561525+00:00"
 }
