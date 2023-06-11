@@ -3,8 +3,8 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 890,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 494,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 134,
@@ -3194,9 +3194,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 560
     },
     {
       "ID": "fourleafclover",
@@ -3314,17 +3314,17 @@
       "ID": "lockandload",
       "SetID": "3nl4bcg",
       "Name": "Lock And Load",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 55
     },
     {
       "ID": "masterenchanter",
       "SetID": "3nl4bcg",
       "Name": "Master Enchanter",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 68
     },
     {
       "ID": "mastery",
@@ -3619,8 +3619,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:05:59.8749785+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:05:40.3419377+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:58:05.2312654+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:05:59.8750738+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:57:53.7582928+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:05:40.3420331+00:00"
 }

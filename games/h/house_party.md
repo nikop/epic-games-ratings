@@ -15,9 +15,9 @@ Number of Ratings: 177  (23.09.2022)
 | Relentless | 1.00% | ~55 |
 | If at First You Don't Succeed... | 1.00% | ~55 |
 | Drunk and Disorderly: Stephanie | 0.80% | ~44 |
+| Drunk and Disorderly: Ashley | 0.50% | ~28 |
 | IRL Let's Player | 0.50% | ~28 |
 | Newcomer: Vickie | 0.50% | ~28 |
-| Drunk and Disorderly: Ashley | 0.40% | ~22 |
 | Inspector | 0.40% | ~22 |
 | Social Butterfly | 0.40% | ~22 |
 | Amy | 0.30% | ~17 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,526 (Ranked 126)  
+Progressed: 5,529 (Ranked 126)  
 Completed: 3 (0.05%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 3 (0.05%) (Ranked 182)
 | 2023-06-08 | 5,462 | 3 |
 | 2023-06-09 | 5,480 | 3 |
 | 2023-06-10 | 5,515 | 3 |
-| 2023-06-11 | 5,526 | 3 |
+| 2023-06-11 | 5,529 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

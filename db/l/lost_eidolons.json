@@ -3,11 +3,11 @@
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
   "Ranking_Rating": 758,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 494,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 983,
+  "EOS_Progressed": 984,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -793,6 +793,11 @@
       "Time": "2023-06-11T14:05:55.3840372+00:00",
       "NumProgressed": 983,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T15:05:35.7777813+00:00",
+      "NumProgressed": 984,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -812,7 +817,7 @@
       "Name": "Way of the Warlord",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "03",
@@ -844,7 +849,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "07",
@@ -852,7 +857,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "08",
@@ -860,7 +865,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "09",
@@ -876,7 +881,7 @@
       "Name": "Huntmaster",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "11",
@@ -930,9 +935,9 @@
       "ID": "17",
       "SetID": "73ikgfc",
       "Name": "Ready to Learn",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 609
+      "UsersEstimate": 600
     },
     {
       "ID": "18",
@@ -987,7 +992,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 983,
+      "Progressed": 984,
       "Completed": 0
     }
   ],
@@ -995,8 +1000,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:05:55.3840368+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:05:35.7777809+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:59:32.6888518+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:05:55.3840569+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:59:16.3037426+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:05:35.7777982+00:00"
 }

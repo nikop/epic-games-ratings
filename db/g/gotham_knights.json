@@ -1490,9 +1490,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64583,
+  "EOS_Progressed": 64588,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1024,
+  "EOS_NewPlayers": 1016,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5925,6 +5925,11 @@
       "Time": "2023-06-11T14:06:05.6585399+00:00",
       "NumProgressed": 64583,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-11T15:05:46.0979234+00:00",
+      "NumProgressed": 64588,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6080,7 +6085,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -6136,7 +6141,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -6158,9 +6163,9 @@
       "ID": "FREEZE_1",
       "SetID": "4eo5ebm",
       "Name": "To the Victor Go the Spoils",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1938
     },
     {
       "ID": "FREEZE_1_5",
@@ -6240,7 +6245,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "HARLEY_2",
@@ -6312,7 +6317,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -6320,7 +6325,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "MYSTERY_01",
@@ -6328,7 +6333,7 @@
       "Name": "Loose Ends",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "MYSTERY_02",
@@ -6423,13 +6428,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64583,
+      "Progressed": 64588,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34863,
+      "Progressed": 34868,
       "Completed": 2646
     }
   ],
@@ -6437,8 +6442,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-11T09:59:20.6373405+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:06:05.6585397+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:05:46.0979225+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:59:34.1027396+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:06:05.6586387+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:59:17.6761618+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:05:46.0980066+00:00"
 }

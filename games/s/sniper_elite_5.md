@@ -1,34 +1,34 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.51 (Ranked 529)  
+Rating: 4.51 (Ranked 530)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~766 |
-| Confirming Suspicions | 24.00% | ~634 |
-| The Kraken Wakes | 20.00% | ~528 |
-| It's Starting to Crack | 17.00% | ~449 |
+| Meeting Resistance | 29.00% | ~767 |
+| Confirming Suspicions | 24.00% | ~635 |
+| The Kraken Wakes | 20.00% | ~529 |
+| It's Starting to Crack | 17.00% | ~450 |
 | Lord of War | 14.00% | ~370 |
 | Change the Channel | 14.00% | ~370 |
-| Resourceful | 13.00% | ~343 |
+| Resourceful | 13.00% | ~344 |
 | Taking it back | 12.00% | ~317 |
-| Target America | 11.00% | ~290 |
+| Target America | 11.00% | ~291 |
 | Organ Grinder | 10.00% | ~264 |
 | As Quiet as a Mouse | 10.00% | ~264 |
 | The Kraken Sleeps | 9.00% | ~238 |
-| Liberté | 8.00% | ~211 |
-| Enemy at the Gates | 8.00% | ~211 |
-| Just a Flesh Wound | 8.00% | ~211 |
-| Gunslinger | 8.00% | ~211 |
-| Sharpshooter | 8.00% | ~211 |
-| Explosive Efficiency | 8.00% | ~211 |
+| Liberté | 8.00% | ~212 |
+| Enemy at the Gates | 8.00% | ~212 |
+| Just a Flesh Wound | 8.00% | ~212 |
+| Gunslinger | 8.00% | ~212 |
+| Sharpshooter | 8.00% | ~212 |
+| Explosive Efficiency | 8.00% | ~212 |
 | Opposing Force | 7.00% | ~185 |
-| Die Nussknacker Sweet! | 6.00% | ~158 |
-| Der Geist | 6.00% | ~158 |
-| Close Quarters | 6.00% | ~158 |
-| Snake in the Grass | 6.00% | ~158 |
-| Brains of the Operation | 6.00% | ~158 |
+| Die Nussknacker Sweet! | 6.00% | ~159 |
+| Der Geist | 6.00% | ~159 |
+| Close Quarters | 6.00% | ~159 |
+| Snake in the Grass | 6.00% | ~159 |
+| Brains of the Operation | 6.00% | ~159 |
 | Climbing the Ladder | 5.00% | ~132 |
 | No Stone Unturned | 5.00% | ~132 |
 | Fields of Glory | 5.00% | ~132 |
@@ -49,7 +49,7 @@ Rating: 4.51 (Ranked 529)
 | Siegebreaker | 0.90% | ~23 |
 | Ghost of Falaise | 0.90% | ~23 |
 | Last Resort | 0.80% | ~21 |
-| Burn after reading | 0.70% | ~18 |
+| Burn after reading | 0.70% | ~19 |
 | From Paris with Love | 0.60% | ~16 |
 | Souvenir hunter | 0.60% | ~16 |
 | Up close and personal | 0.50% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 529)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,640 (Ranked 146)  
+Progressed: 2,645 (Ranked 146)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
-| 2023-06-11 | 2,640 | 2 |
+| 2023-06-11 | 2,645 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

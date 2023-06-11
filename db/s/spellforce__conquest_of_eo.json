@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:23.7251035+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:57:29.3298739+00:00",
-  "LastUpdate_Achievements": "2023-06-11T13:06:12.1651625+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:57:18.366667+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:00:00.4945215+00:00"
 }

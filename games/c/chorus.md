@@ -10,7 +10,7 @@ Number of Ratings: 58  (23.09.2022)
 | Space Traveler | 79.00% | ~758 |
 | Voices from the Past | 78.00% | ~748 |
 | Demigod | 76.00% | ~729 |
-| The Great Destroyer | 74.00% | ~710 |
+| The Great Destroyer | 75.00% | ~719 |
 | Shields Down | 73.00% | ~700 |
 | Safe Home | 68.00% | ~652 |
 | Helping Hand | 67.00% | ~643 |
@@ -98,8 +98,8 @@ Completed: 11 (1.15%) (Ranked 85)
 | 2023-06-10 | 953 | 11 |
 | 2023-06-11 | 959 | 11 |
 ## Awards
-Max (Great Boss Battles): 32  (Ranked 441)  
-Sum: 32 (Ranked 464)  
+Max (Great Boss Battles): 32  (Ranked 442)  
+Sum: 32 (Ranked 465)  
 Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |

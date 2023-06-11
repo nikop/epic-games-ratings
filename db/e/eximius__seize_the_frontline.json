@@ -3,8 +3,8 @@
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
   "Ranking_Rating": 835,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 494,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 59,
@@ -252,9 +252,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 188743,
+  "EOS_Progressed": 188751,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 966,
+  "EOS_NewPlayers": 958,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5637,6 +5637,11 @@
       "Time": "2023-06-11T14:05:44.5183254+00:00",
       "NumProgressed": 188743,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-11T15:05:25.7831025+00:00",
+      "NumProgressed": 188751,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -5648,7 +5653,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15099
+      "UsersEstimate": 15100
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -5656,7 +5661,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 134008
+      "UsersEstimate": 134013
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -5664,7 +5669,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9437
+      "UsersEstimate": 9438
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -5672,7 +5677,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5662
+      "UsersEstimate": 5663
     },
     {
       "ID": "ACH_INITIATION",
@@ -5680,7 +5685,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33974
+      "UsersEstimate": 33975
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -5696,7 +5701,7 @@
       "Name": "Total Destruction",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "ACH_WIN_100_ONLINE_GAME",
@@ -5712,7 +5717,7 @@
       "Name": "Getting There",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "ACH_WIN_30_MAP_CONTROL",
@@ -5720,7 +5725,7 @@
       "Name": "We shall never Surrender!",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_WIN_3_ONLINE_GAME",
@@ -5728,7 +5733,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9437
+      "UsersEstimate": 9438
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -5736,7 +5741,7 @@
       "Name": "Halfway There",
       "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_WIN_90_MAP_CONTROL",
@@ -5760,7 +5765,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "ACH_WIN_FIRST_COOP",
@@ -5768,14 +5773,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9437
+      "UsersEstimate": 9438
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 188743,
+      "Progressed": 188751,
       "Completed": 4
     }
   ],
@@ -5783,8 +5788,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-06-05T05:00:10.9262642+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:05:44.518325+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:05:25.7831021+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:08.5602508+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:59:31.9325259+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:05:44.5183711+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:59:15.6371407+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:05:25.7831471+00:00"
 }

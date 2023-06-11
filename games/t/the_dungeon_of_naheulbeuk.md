@@ -6,48 +6,48 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 100.00% | ~64 |
-| Where's that freaking Dwarf? | 97.00% | ~62 |
-| Sock! SOCK! | 84.00% | ~54 |
-| Livin' in a dwarven paradise | 67.00% | ~43 |
-| Fireproof Wizardess | 67.00% | ~43 |
-| Déjà vu | 64.00% | ~41 |
-| GG EZ | 63.00% | ~40 |
-| DM intervention | 59.00% | ~38 |
-| Oh, when I'll be level 10... | 56.00% | ~36 |
-| Way of the Wimp | 53.00% | ~34 |
-| Speedrun | 50.00% | ~32 |
-| Thieves' Guild Accreditation | 48.00% | ~31 |
-| The plot thickens... At the tavern | 45.00% | ~29 |
-| The Ranger of Chaos | 45.00% | ~29 |
-| Team Building Exercise | 45.00% | ~29 |
-| A beer, two curses, three companions | 44.00% | ~28 |
-| I am the night | 44.00% | ~28 |
-| Dwarf Fortress | 42.00% | ~27 |
-| Look but don't touch | 42.00% | ~27 |
-| Shiny and Crôm | 39.00% | ~25 |
-| The Statuette of Gladeulfeurah | 38.00% | ~24 |
-| A tale of adventurers not quite like the others... | 38.00% | ~24 |
-| Gargantua | 38.00% | ~24 |
-| Material Girl | 38.00% | ~24 |
-| The demons' feast | 34.00% | ~22 |
-| Torture and Sensibility | 31.00% | ~20 |
-| The Famous Dungeon of Naheulbeuk | 31.00% | ~20 |
-| The Great Library | 28.00% | ~18 |
-| Cursed die | 27.00% | ~17 |
-| The beards of change | 25.00% | ~16 |
+| Alt+F4 | 100.00% | ~66 |
+| Where's that freaking Dwarf? | 97.00% | ~64 |
+| Sock! SOCK! | 83.00% | ~55 |
+| Livin' in a dwarven paradise | 67.00% | ~44 |
+| Fireproof Wizardess | 67.00% | ~44 |
+| Déjà vu | 62.00% | ~41 |
+| GG EZ | 61.00% | ~40 |
+| DM intervention | 58.00% | ~38 |
+| Oh, when I'll be level 10... | 55.00% | ~36 |
+| Way of the Wimp | 53.00% | ~35 |
+| Speedrun | 52.00% | ~34 |
+| Thieves' Guild Accreditation | 47.00% | ~31 |
+| A beer, two curses, three companions | 44.00% | ~29 |
+| The plot thickens... At the tavern | 44.00% | ~29 |
+| The Ranger of Chaos | 44.00% | ~29 |
+| Team Building Exercise | 44.00% | ~29 |
+| I am the night | 42.00% | ~28 |
+| Dwarf Fortress | 41.00% | ~27 |
+| Look but don't touch | 41.00% | ~27 |
+| Shiny and Crôm | 38.00% | ~25 |
+| The Statuette of Gladeulfeurah | 36.00% | ~24 |
+| A tale of adventurers not quite like the others... | 36.00% | ~24 |
+| Gargantua | 36.00% | ~24 |
+| Material Girl | 36.00% | ~24 |
+| The demons' feast | 33.00% | ~22 |
+| Torture and Sensibility | 32.00% | ~21 |
+| The Famous Dungeon of Naheulbeuk | 30.00% | ~20 |
+| The Great Library | 27.00% | ~18 |
+| Cursed die | 26.00% | ~17 |
+| The beards of change | 24.00% | ~16 |
+| The Woman in the High Castle | 23.00% | ~15 |
 | The Blood Countess | 23.00% | ~15 |
-| The Woman in the High Castle | 22.00% | ~14 |
-| In Navalu's footsteps | 22.00% | ~14 |
-| Urik's Depths | 20.00% | ~13 |
+| Urik's Depths | 21.00% | ~14 |
+| In Navalu's footsteps | 21.00% | ~14 |
 | Law and Order | 20.00% | ~13 |
-| Res Judicata | 19.00% | ~12 |
-| Dead for good | 19.00% | ~12 |
+| Res Judicata | 18.00% | ~12 |
+| Dead for good | 18.00% | ~12 |
 | Necrophilia | 17.00% | ~11 |
-| Scholar of the Lands of Fangh | 16.00% | ~10 |
-| The Dungeon Master | 16.00% | ~10 |
-| He’s alive! Aliiiive! | 16.00% | ~10 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 16.00% | ~10 |
+| Scholar of the Lands of Fangh | 15.00% | ~10 |
+| The Dungeon Master | 15.00% | ~10 |
+| He’s alive! Aliiiive! | 15.00% | ~10 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 15.00% | ~10 |
 | It's been a hard day's night | 14.00% | ~9 |
 | An old poacher makes the best gamekeeper | 11.00% | ~7 |
 | Egghead | 9.00% | ~6 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64 (Ranked 299)  
+Progressed: 66 (Ranked 298)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,10 +106,10 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 44 | 0 |
 | 2023-06-09 | 52 | 0 |
 | 2023-06-10 | 61 | 0 |
-| 2023-06-11 | 64 | 0 |
+| 2023-06-11 | 66 | 0 |
 ## Awards
-Max (Character Customization): 61  (Ranked 378)  
-Sum: 61 (Ranked 431)  
+Max (Character Customization): 61  (Ranked 379)  
+Sum: 61 (Ranked 432)  
 Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |

@@ -3,11 +3,11 @@
   "Name": "Scott Pilgrim vs. The World: The Game \u2013 Complete Edition",
   "ProductSlug": "scott-pilgrim-vs-the-world-the-game",
   "Ranking_Rating": 108,
-  "Ranking_Popularity": 423,
-  "Ranking_PopularitySum": 454,
+  "Ranking_Popularity": 424,
+  "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-01-14T05:00:00+00:00",
@@ -339,6 +339,6 @@
   "FirstSeen": "2022-07-22T20:29:24.6298445+00:00",
   "LastChanged": "2023-06-03T04:58:43.5176296+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:39.2661469+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:59:10.5950084+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:03:04.0333042+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:58:55.0665642+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:02:21.0396078+00:00"
 }

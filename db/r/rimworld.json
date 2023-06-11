@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-06-09T14:00:00+00:00",
@@ -1640,10 +1640,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 3683,
       "NumberOfAwardsMax": 412
+    },
+    {
+      "Time": "2023-06-11T14:57:46.1191126+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 3684,
+      "NumberOfAwardsMax": 412
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3683,
+  "NumberOfAwards": 3684,
   "NumberOfAwardsMax": 412,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1693,7 +1699,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 348
+      "Count": 349
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1725,8 +1731,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2023-06-11T02:27:57.987965+00:00",
+  "LastChanged": "2023-06-11T14:57:46.1191124+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:02.8896625+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:57:57.8514596+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:04:38.4260375+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:57:46.1191132+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:04:21.1160844+00:00"
 }

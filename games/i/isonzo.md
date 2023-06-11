@@ -1,25 +1,25 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 453)  
+Rating: 4.56 (Ranked 452)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,335 |
-| Tutti Eroi! | 54.00% | ~3,335 |
+| Peak Performance | 54.00% | ~3,336 |
+| Tutti Eroi! | 54.00% | ~3,336 |
 | You Shall Not Pass | 52.00% | ~3,212 |
 | Avanti Savoia! | 47.00% | ~2,903 |
-| Conrad von Hotzensocks | 36.00% | ~2,223 |
-| Mamma Mia! | 36.00% | ~2,223 |
-| Gabriele D'Annunzio | 32.00% | ~1,976 |
-| Silver Lining | 28.00% | ~1,729 |
+| Conrad von Hotzensocks | 36.00% | ~2,224 |
+| Mamma Mia! | 36.00% | ~2,224 |
+| Gabriele D'Annunzio | 32.00% | ~1,977 |
+| Silver Lining | 28.00% | ~1,730 |
 | Aurelio Baruzzi | 22.00% | ~1,359 |
-| Veni Vidi Vici | 21.00% | ~1,297 |
+| Veni Vidi Vici | 22.00% | ~1,359 |
 | Decimation | 20.00% | ~1,235 |
 | Donatello | 20.00% | ~1,235 |
-| Insubordination | 19.00% | ~1,173 |
-| The Italian Job | 19.00% | ~1,173 |
+| Insubordination | 19.00% | ~1,174 |
+| The Italian Job | 19.00% | ~1,174 |
 | The Lion of the Isonzo | 18.00% | ~1,112 |
 | Ragazzi del '99 | 17.00% | ~1,050 |
 | Thus With A Kiss | 14.00% | ~865 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,176 (Ranked 124)  
+Progressed: 6,177 (Ranked 124)  
 Completed: 8 (0.13%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,11 +101,11 @@ Completed: 8 (0.13%) (Ranked 160)
 | 2023-06-08 | 6,123 | 8 |
 | 2023-06-09 | 6,139 | 8 |
 | 2023-06-10 | 6,159 | 8 |
-| 2023-06-11 | 6,176 | 8 |
+| 2023-06-11 | 6,177 | 8 |
 ## Awards
-Max (Highly Recommended): 32  (Ranked 441)  
+Max (Highly Recommended): 32  (Ranked 442)  
 Sum: 245 (Ranked 345)  
-Diff (max vs sum): 96  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |

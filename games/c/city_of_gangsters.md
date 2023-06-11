@@ -5,42 +5,42 @@ Rating: 4.25 (Ranked 793)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~147,762 |
-| Copacetic Coordination | 16.00% | ~51,396 |
-| Fronting the Money | 14.00% | ~44,971 |
-| The Dawn of Automation | 14.00% | ~44,971 |
-| Extraordinary Logistics | 14.00% | ~44,971 |
-| Dirty Money | 13.00% | ~41,759 |
-| Family First | 13.00% | ~41,759 |
-| Cleaning House | 12.00% | ~38,547 |
-| Room in the Back | 12.00% | ~38,547 |
-| Booze Baron | 11.00% | ~35,334 |
-| Beating the Heat | 10.00% | ~32,122 |
-| Friends on the Force | 10.00% | ~32,122 |
-| Neighborhood Watch | 10.00% | ~32,122 |
-| Core Corps | 8.00% | ~25,698 |
-| Sizeable Stash | 7.00% | ~22,486 |
-| Street Fighter | 7.00% | ~22,486 |
-| Friendly Gestures | 7.00% | ~22,486 |
-| People Person | 7.00% | ~22,486 |
-| Liquor Lord | 6.00% | ~19,273 |
-| Show ‘em the Sugar | 6.00% | ~19,273 |
-| Street Knowledge | 5.00% | ~16,061 |
-| Oh Captain | 5.00% | ~16,061 |
-| Branching Out | 5.00% | ~16,061 |
-| Improvement Missions | 5.00% | ~16,061 |
-| Opportunity Knocked | 5.00% | ~16,061 |
-| City of Big Shoulders | 5.00% | ~16,061 |
-| Safety in Numbers | 5.00% | ~16,061 |
-| Moving Experiences | 5.00% | ~16,061 |
-| Mission Mastery | 5.00% | ~16,061 |
-| Wise Head | 5.00% | ~16,061 |
-| Killing Them Softly | 5.00% | ~16,061 |
-| Considerable Clams | 4.00% | ~12,849 |
-| Gin Joint | 4.00% | ~12,849 |
-| An Affront to the Enemy | 4.00% | ~12,849 |
-| Friends from Back Home | 4.00% | ~12,849 |
-| Half Century Mark | 4.00% | ~12,849 |
+| Corner Clout | 46.00% | ~147,770 |
+| Copacetic Coordination | 16.00% | ~51,398 |
+| Fronting the Money | 14.00% | ~44,974 |
+| The Dawn of Automation | 14.00% | ~44,974 |
+| Extraordinary Logistics | 14.00% | ~44,974 |
+| Dirty Money | 13.00% | ~41,761 |
+| Family First | 13.00% | ~41,761 |
+| Cleaning House | 12.00% | ~38,549 |
+| Room in the Back | 12.00% | ~38,549 |
+| Booze Baron | 11.00% | ~35,336 |
+| Beating the Heat | 10.00% | ~32,124 |
+| Friends on the Force | 10.00% | ~32,124 |
+| Neighborhood Watch | 10.00% | ~32,124 |
+| Core Corps | 8.00% | ~25,699 |
+| Sizeable Stash | 7.00% | ~22,487 |
+| Street Fighter | 7.00% | ~22,487 |
+| Friendly Gestures | 7.00% | ~22,487 |
+| People Person | 7.00% | ~22,487 |
+| Liquor Lord | 6.00% | ~19,274 |
+| Show ‘em the Sugar | 6.00% | ~19,274 |
+| Street Knowledge | 5.00% | ~16,062 |
+| Oh Captain | 5.00% | ~16,062 |
+| Branching Out | 5.00% | ~16,062 |
+| Improvement Missions | 5.00% | ~16,062 |
+| Opportunity Knocked | 5.00% | ~16,062 |
+| City of Big Shoulders | 5.00% | ~16,062 |
+| Safety in Numbers | 5.00% | ~16,062 |
+| Moving Experiences | 5.00% | ~16,062 |
+| Mission Mastery | 5.00% | ~16,062 |
+| Wise Head | 5.00% | ~16,062 |
+| Killing Them Softly | 5.00% | ~16,062 |
+| Considerable Clams | 4.00% | ~12,850 |
+| Gin Joint | 4.00% | ~12,850 |
+| An Affront to the Enemy | 4.00% | ~12,850 |
+| Friends from Back Home | 4.00% | ~12,850 |
+| Half Century Mark | 4.00% | ~12,850 |
 | Corner Opportunities | 3.00% | ~9,637 |
 | 2122 North Clark Street | 3.00% | ~9,637 |
 | Copious Cabbage | 3.00% | ~9,637 |
@@ -48,11 +48,11 @@ Rating: 4.25 (Ranked 793)
 | Still Stalwart | 3.00% | ~9,637 |
 | Bees Knees Bootlegger | 3.00% | ~9,637 |
 | Tighten the Screws | 3.00% | ~9,637 |
-| One of Us | 2.00% | ~6,424 |
-| Baker’s Dozen | 2.00% | ~6,424 |
-| Dropping the Dime | 2.00% | ~6,424 |
-| Spiffy Speakeasies | 2.00% | ~6,424 |
-| Keeping Your Word | 2.00% | ~6,424 |
+| One of Us | 2.00% | ~6,425 |
+| Baker’s Dozen | 2.00% | ~6,425 |
+| Dropping the Dime | 2.00% | ~6,425 |
+| Spiffy Speakeasies | 2.00% | ~6,425 |
+| Keeping Your Word | 2.00% | ~6,425 |
 | Boxing Them In | 1.00% | ~3,212 |
 | Backroom Empire | 1.00% | ~3,212 |
 | Corner Control | 1.00% | ~3,212 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 793)
 | High Pillow | 0.10% | ~321 |
 | Station Master | 0.10% | ~321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321,222 (Ranked 40)  
+Progressed: 321,240 (Ranked 40)  
 Completed: 4 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,10 +138,10 @@ Completed: 4 (0.00%) (Ranked 214)
 | 2023-06-08 | 320,378 | 4 |
 | 2023-06-09 | 320,715 | 4 |
 | 2023-06-10 | 321,047 | 4 |
-| 2023-06-11 | 321,222 | 4 |
+| 2023-06-11 | 321,240 | 4 |
 ## Awards
-Max (Highly Recommended): 25  (Ranked 466)  
-Sum: 91 (Ranked 408)  
+Max (Highly Recommended): 25  (Ranked 467)  
+Sum: 91 (Ranked 409)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |

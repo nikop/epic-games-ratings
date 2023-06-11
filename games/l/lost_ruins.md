@@ -12,8 +12,8 @@
 | Trap Master | 21.00% | ~79 |
 | Artifact Collector | 20.00% | ~75 |
 | Ghost Buster | 16.00% | ~60 |
-| Reincarnation | 16.00% | ~60 |
-| Iconoclasm | 14.00% | ~52 |
+| Reincarnation | 15.00% | ~56 |
+| Iconoclasm | 14.00% | ~53 |
 | Gladiator | 13.00% | ~49 |
 | Librarian | 13.00% | ~49 |
 | Lumberjack | 13.00% | ~49 |
@@ -29,12 +29,12 @@
 | Trio | 5.00% | ~19 |
 | Spell Master | 4.00% | ~15 |
 | Arrive Home | 3.00% | ~11 |
-| Holy Knight | 2.00% | ~7 |
-| Hoarder | 2.00% | ~7 |
-| Marksman | 2.00% | ~7 |
-| Meat Lover | 2.00% | ~7 |
-| Sword Master | 2.00% | ~7 |
-| Witch | 2.00% | ~7 |
+| Holy Knight | 2.00% | ~8 |
+| Hoarder | 2.00% | ~8 |
+| Marksman | 2.00% | ~8 |
+| Meat Lover | 2.00% | ~8 |
+| Sword Master | 2.00% | ~8 |
+| Witch | 2.00% | ~8 |
 | Assassin | 1.00% | ~4 |
 | Rune Master | 1.00% | ~4 |
 | Sling of David | 1.00% | ~4 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.00% | ~0 |
 | Necromancer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 374 (Ranked 218)  
+Progressed: 375 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 360 | 0 |
 | 2023-06-09 | 361 | 0 |
 | 2023-06-10 | 370 | 0 |
-| 2023-06-11 | 374 | 0 |
+| 2023-06-11 | 375 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

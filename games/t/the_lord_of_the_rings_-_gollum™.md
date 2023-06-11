@@ -7,7 +7,7 @@
 | The Wraith | 62.00% | ~265 |
 | Collectibles Part 1 | 51.00% | ~218 |
 | Welcome to Mordor! | 51.00% | ~218 |
-| Wait! Wait! Not yet! | 36.00% | ~154 |
+| Wait! Wait! Not yet! | 37.00% | ~158 |
 | Like Flying... | 32.00% | ~137 |
 | Memories | 28.00% | ~120 |
 | The Maggot | 26.00% | ~111 |
@@ -33,15 +33,15 @@
 | Collectibles Part 2 | 0.90% | ~4 |
 | Nervous Hands | 0.90% | ~4 |
 | Elf-Friend | 0.50% | ~2 |
+| Scout | 0.50% | ~2 |
 | Good Sméagol! | 0.50% | ~2 |
+| Rule them all! | 0.20% | ~1 |
 | We wants it! We needs it | 0.20% | ~1 |
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
-| Scout | 0.20% | ~1 |
-| Rule them all! | 0.00% | ~0 |
 | We Hates Them! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427 (Ranked 208)  
+Progressed: 427 (Ranked 209)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |

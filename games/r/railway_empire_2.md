@@ -54,7 +54,7 @@ Rating: 4.22 (Ranked 814)
 | Conductor | 2.00% | ~22 |
 | Let off some steam | 2.00% | ~22 |
 | Accurate | 1.00% | ~11 |
-| Call of Duty | 0.90% | ~10 |
+| Call of Duty | 1.00% | ~11 |
 | Engineer | 0.40% | ~4 |
 | European Union | 0.40% | ~4 |
 | Three Cheers for Progress | 0.10% | ~1 |

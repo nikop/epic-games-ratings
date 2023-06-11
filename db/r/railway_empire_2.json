@@ -3,11 +3,11 @@
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_Rating": 814,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 494,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -52,7 +52,7 @@
   "Tags": [],
   "EOS_Progressed": 1103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2097,9 +2097,9 @@
       "ID": "A51",
       "SetID": "9b7p7eo",
       "Name": "Call of Duty",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "A52",
@@ -2138,8 +2138,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-11T13:01:13.9933619+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:06:03.6495075+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:05:44.1610219+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:58:07.6686611+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:06:03.6495674+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:57:56.2774011+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:05:44.1610824+00:00"
 }

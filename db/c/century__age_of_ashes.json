@@ -3,11 +3,11 @@
   "Name": "Century: Age of Ashes",
   "ProductSlug": "century-age-of-ashes",
   "Ranking_Rating": 656,
-  "Ranking_Popularity": 380,
+  "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-02-23T16:00:00+00:00",
@@ -1318,6 +1318,6 @@
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
   "LastChanged": "2023-06-06T07:57:25.2679875+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:42.2610163+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:57:43.0637106+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:03:24.8147922+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:57:30.8960062+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:03:10.4339222+00:00"
 }

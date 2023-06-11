@@ -3,11 +3,11 @@
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
   "Ranking_Rating": 770,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 494,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 1095,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1706,9 +1706,9 @@
       "ID": "DEAD_DD",
       "SetID": "9a4jnji",
       "Name": "Ganglord",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 263
     },
     {
       "ID": "DEAD_DICK",
@@ -1738,9 +1738,9 @@
       "ID": "DR_JONES",
       "SetID": "9a4jnji",
       "Name": "Dr Jones",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 120
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -1762,9 +1762,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 427
     },
     {
       "ID": "EXPERIENCED",
@@ -1818,9 +1818,9 @@
       "ID": "GIANT_KILLER",
       "SetID": "9a4jnji",
       "Name": "Giant Killer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 394
     },
     {
       "ID": "GOAL",
@@ -1938,9 +1938,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 372
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1986,9 +1986,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 361
     },
     {
       "ID": "THE_WATCHERS",
@@ -2019,8 +2019,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-10T20:58:18.0757605+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:03:03.0489427+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:02:20.2137674+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:58:19.1643996+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:03:03.0489975+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:58:07.2857212+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:02:20.2138197+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
   "ProductSlug": "nioh-the-complete-edition",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 43,
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -5003,6 +5003,6 @@
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
   "LastChanged": "2023-06-11T10:00:06.0278346+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:09.1198721+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:00:19.248751+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:05:27.9128299+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:59:58.1046823+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:05:09.7543877+00:00"
 }

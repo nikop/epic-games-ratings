@@ -7,7 +7,7 @@
 | All Set Up | 97.00% | ~410 |
 | Digital Casanova | 95.00% | ~402 |
 | Hold my Beer | 63.00% | ~266 |
-| Nueva Beginnings | 34.00% | ~144 |
+| Nueva Beginnings | 35.00% | ~148 |
 | We Go Again | 31.00% | ~131 |
 | Only Thyme Will Tell | 30.00% | ~127 |
 | In Contempt of Duvet | 29.00% | ~123 |

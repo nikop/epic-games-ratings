@@ -6,13 +6,13 @@ Rating: 4.17 (Ranked 850)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 5.00% | ~3,229 |
-| Har, Har, Har, Very Funny | 3.00% | ~1,937 |
-| Knighthood | 3.00% | ~1,937 |
-| Loose Ends | 3.00% | ~1,937 |
+| To the Victor Go the Spoils | 3.00% | ~1,938 |
+| Har, Har, Har, Very Funny | 3.00% | ~1,938 |
+| Knighthood | 3.00% | ~1,938 |
+| Loose Ends | 3.00% | ~1,938 |
 | The Batman Family | 2.00% | ~1,292 |
 | Something in the Clay | 2.00% | ~1,292 |
 | The Show Mud Go On | 2.00% | ~1,292 |
-| To the Victor Go the Spoils | 2.00% | ~1,292 |
 | Quartzer Life Crisis | 2.00% | ~1,292 |
 | Snow Problem | 2.00% | ~1,292 |
 | Get ReQ'd | 2.00% | ~1,292 |
@@ -38,9 +38,9 @@ Rating: 4.17 (Ranked 850)
 | Drone You Out | 0.90% | ~581 |
 | Out of Their League | 0.80% | ~517 |
 | Solid Alibi | 0.80% | ~517 |
-| Fusion Expert | 0.60% | ~387 |
-| Family Meeting | 0.60% | ~387 |
-| A Worthy Successor | 0.60% | ~387 |
+| Fusion Expert | 0.60% | ~388 |
+| Family Meeting | 0.60% | ~388 |
+| A Worthy Successor | 0.60% | ~388 |
 | Expert Crime Fighter | 0.50% | ~323 |
 | Dressed to Impress | 0.40% | ~258 |
 | A Momentum Occasion | 0.40% | ~258 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 850)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,583 (Ranked 71)  
+Progressed: 64,588 (Ranked 71)  
 Completed: 95 (0.15%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 95 (0.15%) (Ranked 156)
 | 2023-06-08 | 64,117 | 94 |
 | 2023-06-09 | 64,309 | 95 |
 | 2023-06-10 | 64,465 | 95 |
-| 2023-06-11 | 64,583 | 95 |
+| 2023-06-11 | 64,588 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,321  (Ranked 97)  
 Sum: 3,838 (Ranked 137)  

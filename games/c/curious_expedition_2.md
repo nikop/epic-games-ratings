@@ -6,11 +6,11 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 59.00% | ~185 |
+| The Adventure Begins | 60.00% | ~188 |
 | Cartographer | 53.00% | ~166 |
-| A Strange Artefact | 49.00% | ~153 |
+| A Strange Artefact | 48.00% | ~151 |
 | Insomnia | 44.00% | ~138 |
-| From Whence we Came | 40.00% | ~125 |
+| From Whence we Came | 40.00% | ~126 |
 | Lost & Found & Lost Again | 39.00% | ~122 |
 | Fire and Flood | 37.00% | ~116 |
 | Spooky! | 35.00% | ~110 |
@@ -18,14 +18,14 @@ Number of Ratings: 20  (23.09.2022)
 | Treasure Hunt | 31.00% | ~97 |
 | Good Mama | 30.00% | ~94 |
 | O Captain My Captain | 28.00% | ~88 |
-| Taxonomist | 27.00% | ~85 |
 | Plunderer | 27.00% | ~85 |
+| Taxonomist | 26.00% | ~82 |
 | Uncertain Loyalties | 23.00% | ~72 |
 | Traveller | 22.00% | ~69 |
 | Nahua Seeker | 22.00% | ~69 |
 | Roll to Save | 21.00% | ~66 |
-| Red Flag Pirate | 19.00% | ~59 |
-| Veteran Explorer | 19.00% | ~59 |
+| Red Flag Pirate | 18.00% | ~57 |
+| Veteran Explorer | 18.00% | ~57 |
 | Iron Man | 15.00% | ~47 |
 | For the Club! | 15.00% | ~47 |
 | Practical Palaeontology | 15.00% | ~47 |
@@ -37,7 +37,7 @@ Number of Ratings: 20  (23.09.2022)
 | Plays Well With Others | 13.00% | ~41 |
 | Adventurer | 12.00% | ~38 |
 | Discovery | 12.00% | ~38 |
-| Very Classy | 12.00% | ~38 |
+| Very Classy | 11.00% | ~35 |
 | And Here Is Your Statue | 10.00% | ~31 |
 | Under the Table | 10.00% | ~31 |
 | It's Complicated | 10.00% | ~31 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 313 (Ranked 228)  
+Progressed: 314 (Ranked 228)  
 Completed: 1 (0.32%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 1 (0.32%) (Ranked 127)
 | 2023-06-06 | 309 | 1 |
 | 2023-06-08 | 310 | 1 |
 | 2023-06-09 | 313 | 1 |
+| 2023-06-11 | 314 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

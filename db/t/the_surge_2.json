@@ -3,8 +3,8 @@
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
   "Ranking_Rating": 800,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 494,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 157,
@@ -1463,9 +1463,9 @@
       "ID": "ACHV_34",
       "SetID": "8p5mlmc",
       "Name": "Shocking",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 351
     },
     {
       "ID": "ACHV_35",
@@ -1664,8 +1664,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:06:07.3093789+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:05:47.7828622+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:00.1441118+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:00:12.7267829+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:06:07.3094375+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:59:51.8205645+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:05:47.78292+00:00"
 }

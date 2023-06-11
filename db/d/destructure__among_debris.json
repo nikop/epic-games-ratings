@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 139,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -648,6 +648,11 @@
       "Time": "2023-06-11T00:01:28.1366941+00:00",
       "NumProgressed": 138,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T15:00:15.0348187+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -657,9 +662,9 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 33
     },
     {
       "ID": "avaricerite",
@@ -747,7 +752,7 @@
       "Name": "Graduation",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -787,7 +792,7 @@
       "Name": "Master Destructor",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "medium_rare",
@@ -827,7 +832,7 @@
       "Name": "Rookie",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "scrap_collector",
@@ -906,7 +911,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 1
     }
   ],
@@ -914,8 +919,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:00:35.3629096+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:00:15.034818+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.2477238+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:59:46.6431948+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:00:35.3629361+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:59:27.5580917+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:00:15.0348447+00:00"
 }

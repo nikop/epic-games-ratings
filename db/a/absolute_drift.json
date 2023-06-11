@@ -3,8 +3,8 @@
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
   "Ranking_Rating": 668,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 494,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 44,
@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1522408,
+  "EOS_Progressed": 1522419,
   "EOS_Completed": 621,
-  "EOS_NewPlayers": 1567,
+  "EOS_NewPlayers": 1562,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5860,6 +5860,11 @@
       "Time": "2023-06-11T14:04:05.5272889+00:00",
       "NumProgressed": 1522408,
       "NumCompleted": 621
+    },
+    {
+      "Time": "2023-06-11T15:03:50.0703932+00:00",
+      "NumProgressed": 1522419,
+      "NumCompleted": 621
     }
   ],
   "TotalAchievements": 20,
@@ -5903,7 +5908,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 45672
+      "UsersEstimate": 45673
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -5911,7 +5916,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 9134
+      "UsersEstimate": 9135
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -5919,7 +5924,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137017
+      "UsersEstimate": 137018
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -5951,7 +5956,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 45672
+      "UsersEstimate": 45673
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -5967,7 +5972,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152241
+      "UsersEstimate": 152242
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -5983,7 +5988,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121793
+      "UsersEstimate": 121794
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -6015,7 +6020,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76120
+      "UsersEstimate": 76121
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -6030,15 +6035,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1522408,
+      "Progressed": 1522419,
       "Completed": 621
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:04:05.5272885+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:03:50.0703928+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:33.0395395+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:59:51.254629+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:04:05.5273343+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:59:32.0596871+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:03:50.0704388+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 842,
-  "Ranking_Popularity": 385,
+  "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 123,
@@ -602,9 +602,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15029,
+  "EOS_Progressed": 15033,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3552,6 +3552,11 @@
       "Time": "2023-06-11T14:04:18.6669136+00:00",
       "NumProgressed": 15029,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-11T15:04:01.8701604+00:00",
+      "NumProgressed": 15033,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3595,7 +3600,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3699,7 +3704,7 @@
       "Name": "Terminated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3707,7 +3712,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3723,7 +3728,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3763,7 +3768,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "STORY_HABITAT",
@@ -3779,7 +3784,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "STORY_MINETOWN",
@@ -3795,7 +3800,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3803,7 +3808,7 @@
       "Name": "Crash Site",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "STORY_TOWER",
@@ -3882,13 +3887,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15029,
+      "Progressed": 15033,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2955,
+      "Progressed": 2959,
       "Completed": 29
     }
   ],
@@ -3896,8 +3901,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T09:57:43.9891302+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:04:18.6669132+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:04:01.87016+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:57:58.8138784+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:04:18.6669656+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:57:47.109903+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:04:01.8702096+00:00"
 }

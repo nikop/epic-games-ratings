@@ -12,9 +12,9 @@ Rating: 4.45 (Ranked 617)
 | A Cheese Grater to the Face | 20.00% | ~202 |
 | It's like an haircut | 18.00% | ~182 |
 | Put it on a shelf | 18.00% | ~182 |
+| Ride in the rising sun | 16.00% | ~162 |
 | Suit up | 16.00% | ~162 |
 | Walked like an Egyptian | 15.00% | ~152 |
-| Ride in the rising sun | 15.00% | ~152 |
 | Running at the speed of sound | 13.00% | ~132 |
 | Martian explorer | 12.00% | ~121 |
 | Rookie No-No More | 12.00% | ~121 |

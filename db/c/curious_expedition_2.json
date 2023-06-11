@@ -3,11 +3,11 @@
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
   "Ranking_Rating": 194,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 494,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -49,7 +49,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 313,
+  "EOS_Progressed": 314,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -178,6 +178,11 @@
     {
       "Time": "2023-06-09T15:06:02.1509252+00:00",
       "NumProgressed": 313,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T15:05:47.2665562+00:00",
+      "NumProgressed": 314,
       "NumCompleted": 1
     }
   ],
@@ -324,9 +329,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 151
     },
     {
       "ID": "ach-campaign-story2",
@@ -396,9 +401,9 @@
       "ID": "ach-find-treasure",
       "SetID": "17ih7ma",
       "Name": "Red Flag Pirate",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "ach-find-treasure-high",
@@ -412,9 +417,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 188
     },
     {
       "ID": "ach-hardExpeditions",
@@ -452,9 +457,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 82
     },
     {
       "ID": "ach-kill-hyenas",
@@ -508,9 +513,9 @@
       "ID": "ach-maxLevelCharacter",
       "SetID": "17ih7ma",
       "Name": "Veteran Explorer",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "ach-meetGhost",
@@ -566,7 +571,7 @@
       "Name": "From Whence we Came",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ach-promotion",
@@ -644,9 +649,9 @@
       "ID": "ach-unlockAllLeaders",
       "SetID": "17ih7ma",
       "Name": "Very Classy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 35
     },
     {
       "ID": "ach-villageQuests",
@@ -669,7 +674,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 313,
+      "Progressed": 314,
       "Completed": 1
     }
   ],
@@ -677,8 +682,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:06:06.8150337+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:05:47.2665557+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.3347821+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:00:20.4224641+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:06:06.8150887+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:59:58.9801088+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:05:47.2666122+00:00"
 }

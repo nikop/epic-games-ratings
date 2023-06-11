@@ -106,9 +106,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CollectCurses",
@@ -146,25 +146,25 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 93,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 27,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 60,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FourthBoss",
@@ -194,9 +194,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MonsterSlayer",
@@ -257,8 +257,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:00:52.0971714+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:02:10.6989837+00:00",
   "LastUpdate_AppInfo": "2023-06-05T06:57:11.6079759+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:57:19.0530454+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:00:52.0971875+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:57:07.755002+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:02:10.6989999+00:00"
 }

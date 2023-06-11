@@ -53,8 +53,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.60% | ~59 |
 | Path of the Legend | 0.60% | ~59 |
 | Playful Mood | 0.60% | ~59 |
+| Truly Profane Gift | 0.60% | ~59 |
 | Dreadful Dragon | 0.50% | ~49 |
-| Truly Profane Gift | 0.50% | ~49 |
 | Masterful Charge | 0.40% | ~39 |
 | Prelate's Nemesis | 0.30% | ~29 |
 | Masterful Dispel | 0.20% | ~20 |

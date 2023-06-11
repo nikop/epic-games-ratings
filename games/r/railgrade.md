@@ -5,45 +5,45 @@ Rating: 4.54 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,570 |
-| Before the Downfall | 93.00% | ~17,623 |
-| Money like Water | 91.00% | ~17,244 |
-| Minimalist | 90.00% | ~17,054 |
-| Builder | 82.00% | ~15,538 |
-| Eraser | 70.00% | ~13,264 |
-| Pocket of Trains | 65.00% | ~12,317 |
-| Inspector | 59.00% | ~11,180 |
-| Going the Distance | 54.00% | ~10,232 |
+| Trevithick's Legacy | 98.00% | ~18,572 |
+| Before the Downfall | 93.00% | ~17,624 |
+| Money like Water | 91.00% | ~17,245 |
+| Minimalist | 90.00% | ~17,056 |
+| Builder | 82.00% | ~15,540 |
+| Eraser | 70.00% | ~13,266 |
+| Pocket of Trains | 65.00% | ~12,318 |
+| Inspector | 59.00% | ~11,181 |
+| Going the Distance | 54.00% | ~10,234 |
 | Oil Baron | 42.00% | ~7,959 |
 | Loads-a-Money | 42.00% | ~7,959 |
-| Helper of the People | 39.00% | ~7,390 |
+| Helper of the People | 39.00% | ~7,391 |
 | Simplification | 34.00% | ~6,443 |
-| Box of Trains | 33.00% | ~6,253 |
+| Box of Trains | 33.00% | ~6,254 |
 | Let There be Light | 32.00% | ~6,064 |
 | Hot Water | 30.00% | ~5,685 |
-| Indecisive | 29.00% | ~5,495 |
-| The scenic route | 27.00% | ~5,116 |
-| Industrialist | 25.00% | ~4,737 |
-| Perfectionist | 23.00% | ~4,358 |
-| Trains over Pipes | 23.00% | ~4,358 |
+| Indecisive | 29.00% | ~5,496 |
+| The scenic route | 27.00% | ~5,117 |
+| Industrialist | 25.00% | ~4,738 |
+| Perfectionist | 23.00% | ~4,359 |
+| Trains over Pipes | 23.00% | ~4,359 |
 | 8K is Enough for Everyone | 22.00% | ~4,169 |
 | Man of Steel | 16.00% | ~3,032 |
 | Room Full of Trains | 12.00% | ~2,274 |
-| Investor | 9.00% | ~1,705 |
-| Multiverse | 7.00% | ~1,326 |
-| The poor groundwater levels | 7.00% | ~1,326 |
-| Metropolis | 7.00% | ~1,326 |
-| High Flier | 3.00% | ~568 |
-| To infinity, and beyond! | 3.00% | ~568 |
+| Investor | 9.00% | ~1,706 |
+| Multiverse | 7.00% | ~1,327 |
+| The poor groundwater levels | 7.00% | ~1,327 |
+| Metropolis | 7.00% | ~1,327 |
+| High Flier | 3.00% | ~569 |
+| To infinity, and beyond! | 3.00% | ~569 |
 | Space industrialization | 2.00% | ~379 |
-| Deertastic | 1.00% | ~189 |
-| High tech | 1.00% | ~189 |
-| Cleanup crew | 1.00% | ~189 |
-| Flying Lightning | 1.00% | ~189 |
+| Deertastic | 1.00% | ~190 |
+| High tech | 1.00% | ~190 |
+| Cleanup crew | 1.00% | ~190 |
+| Flying Lightning | 1.00% | ~190 |
 | Overdeer | 0.50% | ~95 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,949 (Ranked 99)  
+Progressed: 18,951 (Ranked 99)  
 Completed: 30 (0.16%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,11 +95,11 @@ Completed: 30 (0.16%) (Ranked 152)
 | 2023-06-08 | 18,895 | 30 |
 | 2023-06-09 | 18,911 | 30 |
 | 2023-06-10 | 18,937 | 30 |
-| 2023-06-11 | 18,949 | 30 |
+| 2023-06-11 | 18,951 | 30 |
 ## Awards
-Max (Quickly Understood Controls): 87  (Ranked 344)  
+Max (Quickly Understood Controls): 87  (Ranked 345)  
 Sum: 650 (Ranked 276)  
-Diff (max vs sum): 68  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 87 |

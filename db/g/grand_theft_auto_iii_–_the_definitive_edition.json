@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 865,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 494,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 92,
@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6435,
+  "EOS_Progressed": 6439,
   "EOS_Completed": 37,
   "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 7,
@@ -3734,6 +3734,11 @@
       "Time": "2023-06-11T14:03:50.8661193+00:00",
       "NumProgressed": 6435,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-11T15:03:35.3325772+00:00",
+      "NumProgressed": 6439,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -3745,15 +3750,15 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5344
     },
     {
       "ID": "ACH02",
       "SetID": "552d41m",
       "Name": "Without a Scratch",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2125
     },
     {
       "ID": "ACH03",
@@ -3769,7 +3774,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "ACH05",
@@ -3785,7 +3790,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ACH07",
@@ -3809,7 +3814,7 @@
       "Name": "By a Mile",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH10",
@@ -3817,7 +3822,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1739
     },
     {
       "ID": "ACH11",
@@ -3857,15 +3862,15 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH16",
       "SetID": "552d41m",
       "Name": "A Marked Man",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1545
     },
     {
       "ID": "ACH17",
@@ -3873,7 +3878,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ACH18",
@@ -3881,7 +3886,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH19",
@@ -3937,7 +3942,7 @@
       "Name": "Right-hand Man",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH26",
@@ -3945,7 +3950,7 @@
       "Name": "Furious First Responder",
       "Percentage": 0.8,
       "XP": 55,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH27",
@@ -3961,7 +3966,7 @@
       "Name": "Is That All You\u0027ve Got?",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH29",
@@ -3976,7 +3981,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6435,
+      "Progressed": 6439,
       "Completed": 37
     }
   ],
@@ -3984,8 +3989,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-09T22:58:07.1863302+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:03:50.866119+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:03:35.3325768+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:05.8018306+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:57:59.4805519+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:03:50.8661612+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:57:47.8350295+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:03:35.3326176+00:00"
 }

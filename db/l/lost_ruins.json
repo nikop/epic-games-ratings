@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -476,6 +476,11 @@
       "Time": "2023-06-11T14:06:01.4573513+00:00",
       "NumProgressed": 374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T15:05:41.9580543+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -583,7 +588,7 @@
       "Name": "Holy Knight",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Horder",
@@ -591,7 +596,7 @@
       "Name": "Hoarder",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Iconoclasm",
@@ -599,7 +604,7 @@
       "Name": "Iconoclasm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Inquisitor",
@@ -631,7 +636,7 @@
       "Name": "Marksman",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MeatLover",
@@ -639,7 +644,7 @@
       "Name": "Meat Lover",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MoneySwag",
@@ -685,9 +690,9 @@
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 56
     },
     {
       "ID": "Roughneck",
@@ -735,7 +740,7 @@
       "Name": "Sword Master",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TheEnd",
@@ -799,14 +804,14 @@
       "Name": "Witch",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 0
     }
   ],
@@ -814,8 +819,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:06:01.4573508+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:05:41.9580539+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:58.7369732+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:59:24.8066416+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:06:01.4573897+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:59:08.5275985+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:05:41.9580884+00:00"
 }

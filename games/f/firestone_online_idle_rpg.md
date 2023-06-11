@@ -9,7 +9,7 @@ Rating: 4.05 (Ranked 890)
 | World Map | 80.00% | ~1,093 |
 | Temple of Eternals | 57.00% | ~779 |
 | Prestigious | 53.00% | ~724 |
-| Fellowship Power | 40.00% | ~546 |
+| Fellowship Power | 41.00% | ~560 |
 | Guild Power | 24.00% | ~328 |
 | Prestigious x10 | 21.00% | ~287 |
 | The game is on | 18.00% | ~246 |
@@ -41,20 +41,20 @@ Rating: 4.05 (Ranked 890)
 | Four Leaf Clover | 6.00% | ~82 |
 | Here We Go Again | 5.00% | ~68 |
 | How Do You Turn This On? | 5.00% | ~68 |
+| Master Enchanter | 5.00% | ~68 |
 | The Expeditioner | 5.00% | ~68 |
 | The father of Dragons | 5.00% | ~68 |
 | Trader | 5.00% | ~68 |
 | Ancient Knowledge | 4.00% | ~55 |
 | Background Story | 4.00% | ~55 |
 | Enchanting skill | 4.00% | ~55 |
-| Master Enchanter | 4.00% | ~55 |
+| Lock And Load | 4.00% | ~55 |
 | Missions Dedication | 4.00% | ~55 |
 | Weekly Quest Completionist | 4.00% | ~55 |
 | Blueprint Upgrades | 3.00% | ~41 |
 | Crystal Mining | 3.00% | ~41 |
 | Dragon Slayer | 3.00% | ~41 |
 | Engineer Mastery | 3.00% | ~41 |
-| Lock And Load | 3.00% | ~41 |
 | Sailor | 2.00% | ~27 |
 | The Alchemist | 2.00% | ~27 |
 | What lies behind the bush | 2.00% | ~27 |

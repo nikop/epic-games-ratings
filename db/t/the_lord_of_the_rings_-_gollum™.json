@@ -2,7 +2,7 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 208,
+  "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 106,
@@ -919,9 +919,9 @@
       "ID": "Collectibles3",
       "SetID": "70l3651",
       "Name": "Rule them all!",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Darkness",
@@ -967,9 +967,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "Memories",
@@ -1031,9 +1031,9 @@
       "ID": "Scout",
       "SetID": "70l3651",
       "Name": "Scout",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SmeagolChoices",
@@ -1094,8 +1094,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-11T14:05:42.7231304+00:00",
+  "LastChanged_Achievements": "2023-06-11T15:05:23.9250931+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-11T13:57:51.7270718+00:00",
-  "LastUpdate_Achievements": "2023-06-11T14:05:42.7231633+00:00"
+  "LastUpdate_Ratings": "2023-06-11T14:57:39.2982236+00:00",
+  "LastUpdate_Achievements": "2023-06-11T15:05:23.9251245+00:00"
 }

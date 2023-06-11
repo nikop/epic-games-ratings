@@ -1,12 +1,12 @@
 # HUMANKIND™ Standard Edition
 [Store](https://store.epicgames.com/en-US/p/humankind)  
 [View Rawdata](../../db/h/humankind™_digital_deluxe_edition.json)  
-Rating: 4.51 (Ranked 529)  
+Rating: 4.51 (Ranked 530)  
 Number of Ratings: 609  (23.09.2022)  
 ## Awards
-Max (Amazing Storytelling): 105  (Ranked 319)  
+Max (Amazing Storytelling): 105  (Ranked 320)  
 Sum: 899 (Ranked 240)  
-Diff (max vs sum): 79  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 105 |
