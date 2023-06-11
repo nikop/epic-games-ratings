@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -714,6 +714,11 @@
       "Time": "2023-06-11T21:03:31.8955055+00:00",
       "NumProgressed": 285,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T22:03:52.6954586+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -725,15 +730,15 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 80,
-      "UsersEstimate": 128
+      "UsersEstimate": 126
     },
     {
       "ID": "completeact3",
@@ -779,9 +784,9 @@
       "ID": "scoreminrankrf1",
       "SetID": "40n95i5",
       "Name": "86\u0027s Nightmare",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "scoreminrankrf2",
@@ -789,7 +794,7 @@
       "Name": "Partners in Crime",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "scoreminrankrh1",
@@ -844,7 +849,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 2
     }
   ],
@@ -852,8 +857,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-11T21:03:31.8955051+00:00",
+  "LastChanged_Achievements": "2023-06-11T22:03:52.6954581+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:06.7741113+00:00",
-  "LastUpdate_Ratings": "2023-06-11T20:58:21.9765828+00:00",
-  "LastUpdate_Achievements": "2023-06-11T21:03:31.895522+00:00"
+  "LastUpdate_Ratings": "2023-06-11T21:58:48.9876923+00:00",
+  "LastUpdate_Achievements": "2023-06-11T22:03:52.6954731+00:00"
 }

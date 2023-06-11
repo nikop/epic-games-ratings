@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Cartographer | 8.00% | ~53 |
 | Time Heals All Wounds | 8.00% | ~53 |
 | Treasure Trove | 7.00% | ~46 |
 | The Mysterious Stranger | 7.00% | ~46 |
 | Rail Rat | 7.00% | ~46 |
-| Cartographer | 7.00% | ~46 |
 | The Prince in Heels | 7.00% | ~46 |
 | Immaculate Aim | 7.00% | ~46 |
 | The Steel Shadow | 6.00% | ~40 |
@@ -50,7 +50,7 @@
 | Rungs Was Right | 2.00% | ~13 |
 | Hexlock for Protection | 1.00% | ~7 |
 | Fitting In | 0.80% | ~5 |
-| Thinking Two Steps Ahead | 0.30% | ~2 |
+| Thinking Two Steps Ahead | 0.50% | ~3 |
 | Wunderkind | 0.30% | ~2 |
 | Wildlife Protection | 0.30% | ~2 |
 | A Lesson in Precision | 0.20% | ~1 |

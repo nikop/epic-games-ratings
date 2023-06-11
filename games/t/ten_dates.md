@@ -10,11 +10,11 @@
 | The boss | 25.00% | ~61 |
 | The athlete | 25.00% | ~61 |
 | The activist | 21.00% | ~51 |
-| The individualist | 21.00% | ~51 |
+| The individualist | 20.00% | ~49 |
 | The nice guy | 13.00% | ~32 |
 | The debonair | 11.00% | ~27 |
 | Picky, Picky! | 9.00% | ~22 |
-| The lad | 8.00% | ~19 |
+| The lad | 8.00% | ~20 |
 | More than browsing | 7.00% | ~17 |
 | The techie | 7.00% | ~17 |
 | The bad boy | 6.00% | ~15 |
@@ -24,7 +24,7 @@
 | Keep the spark alive | 3.00% | ~7 |
 | Muggy Misha | 3.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243 (Ranked 240)  
+Progressed: 244 (Ranked 240)  
 Completed: 3 (1.23%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 3 (1.23%) (Ranked 81)
 | 2023-06-06 | 234 | 3 |
 | 2023-06-09 | 236 | 3 |
 | 2023-06-10 | 241 | 3 |
-| 2023-06-11 | 243 | 3 |
+| 2023-06-11 | 244 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

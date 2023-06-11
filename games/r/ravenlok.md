@@ -40,8 +40,8 @@
 | Kidnapped! | 34.00% | ~335 |
 | Trick Question! | 33.00% | ~325 |
 | Pull the Plug | 32.00% | ~316 |
+| Soul Slayer | 32.00% | ~316 |
 | All Heart | 32.00% | ~316 |
-| Soul Slayer | 31.00% | ~306 |
 | The Downfall | 31.00% | ~306 |
 | Extraordinary! | 31.00% | ~306 |
 | Final Showdown | 31.00% | ~306 |
@@ -50,7 +50,7 @@
 | Mirror, Mirror | 29.00% | ~286 |
 | Flower Power | 25.00% | ~246 |
 | Shopping Spree! | 24.00% | ~237 |
-| Crowned | 21.00% | ~207 |
+| Crowned | 22.00% | ~217 |
 | Max Level! | 14.00% | ~138 |
 | Dance Master | 9.00% | ~89 |
 | Bombs Away! | 8.00% | ~79 |

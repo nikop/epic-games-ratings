@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,7 +68,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1012,
+  "EOS_Progressed": 1013,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -363,6 +363,11 @@
       "Time": "2023-06-10T23:05:27.6639416+00:00",
       "NumProgressed": 1012,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T22:06:19.4224067+00:00",
+      "NumProgressed": 1013,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -444,9 +449,9 @@
       "ID": "ALLTRACKSFUJI",
       "SetID": "3dh70f3",
       "Name": "Ride in the rising sun",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 152
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -470,7 +475,7 @@
       "Name": "Martian explorer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -486,7 +491,7 @@
       "Name": "Under the neon lights",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ALLTROPHIES",
@@ -502,7 +507,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "CAREERADVANCED",
@@ -510,7 +515,7 @@
       "Name": "Rookie No-No More",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "CAREERCLASSA",
@@ -622,7 +627,7 @@
       "Name": "Almost broke the game",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "GRANDMASTER",
@@ -662,7 +667,7 @@
       "Name": "Better luck next time",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ONEAESTHETIC",
@@ -676,9 +681,9 @@
       "ID": "ONELIVERY",
       "SetID": "3dh70f3",
       "Name": "Suit up",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 162
     },
     {
       "ID": "ONEMODULE",
@@ -686,7 +691,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ONEPAINT",
@@ -702,7 +707,7 @@
       "Name": "Dev, this!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ONETROPHY",
@@ -726,7 +731,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "TENPLATINUM",
@@ -766,7 +771,7 @@
       "Name": "He who laughs last...",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "WINONEONLINE",
@@ -789,7 +794,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1012,
+      "Progressed": 1013,
       "Completed": 0
     }
   ],
@@ -797,8 +802,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-11T21:05:38.3599219+00:00",
+  "LastChanged_Achievements": "2023-06-11T22:06:19.4224063+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.9246105+00:00",
-  "LastUpdate_Ratings": "2023-06-11T20:57:48.07696+00:00",
-  "LastUpdate_Achievements": "2023-06-11T21:05:38.3599694+00:00"
+  "LastUpdate_Ratings": "2023-06-11T21:58:05.7332771+00:00",
+  "LastUpdate_Achievements": "2023-06-11T22:06:19.4224511+00:00"
 }

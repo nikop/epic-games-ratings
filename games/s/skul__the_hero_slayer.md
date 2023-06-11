@@ -6,7 +6,7 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,218 |
+| The Legend Begins | 93.00% | ~7,219 |
 | What should I buy? | 83.00% | ~6,442 |
 | Focus! | 62.00% | ~4,812 |
 | Rescued Elder Ent | 62.00% | ~4,812 |
@@ -16,22 +16,22 @@ Number of Ratings: 546  (23.09.2022)
 | Quick Movements | 33.00% | ~2,561 |
 | Inventory Management | 33.00% | ~2,561 |
 | The Fall of the Leonia Order | 29.00% | ~2,251 |
-| The Hero Killer | 27.00% | ~2,095 |
+| The Hero Killer | 27.00% | ~2,096 |
 | Go Home... | 26.00% | ~2,018 |
 | The Final Battle of the First Hero | 25.00% | ~1,940 |
-| Brain at Full Throttle | 22.00% | ~1,707 |
+| Brain at Full Throttle | 22.00% | ~1,708 |
 | Rookies Welcome | 20.00% | ~1,552 |
 | Deadly Power | 15.00% | ~1,164 |
 | Castle Restoration Plans | 14.00% | ~1,087 |
 | The Dwarven Chandelier | 12.00% | ~931 |
-| Master of Speed | 9.00% | ~698 |
+| Master of Speed | 9.00% | ~699 |
 | The Levitator | 6.00% | ~466 |
 | The God of Battle | 3.00% | ~233 |
 | Too Much of a Talker | 2.00% | ~155 |
 | The Skeleton King | 1.00% | ~78 |
 | Cold-Blooded | 0.80% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,761 (Ranked 116)  
+Progressed: 7,762 (Ranked 116)  
 Completed: 12 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 12 (0.15%) (Ranked 157)
 | 2023-06-08 | 7,699 | 11 |
 | 2023-06-09 | 7,715 | 11 |
 | 2023-06-10 | 7,740 | 11 |
-| 2023-06-11 | 7,761 | 12 |
+| 2023-06-11 | 7,762 | 12 |
 ## Awards
 Max (Diverse Characters): 115  (Ranked 313)  
 Sum: 761 (Ranked 255)  

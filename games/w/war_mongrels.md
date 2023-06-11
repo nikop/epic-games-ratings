@@ -12,7 +12,7 @@ Number of Ratings: 34  (23.09.2022)
 | Eat Lead! | 46.00% | ~157 |
 | Prospector | 42.00% | ~144 |
 | Here Comes the Boom | 42.00% | ~144 |
-| The Breaking Point | 40.00% | ~137 |
+| The Breaking Point | 41.00% | ~140 |
 | Treasure Hunter | 39.00% | ~133 |
 | Sniper Wolf | 36.00% | ~123 |
 | The Motivation | 35.00% | ~120 |

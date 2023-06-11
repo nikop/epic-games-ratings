@@ -6,11 +6,11 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~473,574 |
-| Apprentice | 58.00% | ~381,490 |
-| Close Shave | 25.00% | ~164,435 |
-| Mercenary | 23.00% | ~151,280 |
-| Ninja | 23.00% | ~151,280 |
+| The Fool | 72.00% | ~473,575 |
+| Apprentice | 58.00% | ~381,491 |
+| Close Shave | 25.00% | ~164,436 |
+| Mercenary | 23.00% | ~151,281 |
+| Ninja | 23.00% | ~151,281 |
 | Northern Scourge | 17.00% | ~111,816 |
 | Thief Bane | 14.00% | ~92,084 |
 | Master of Arms | 12.00% | ~78,929 |
@@ -23,9 +23,9 @@ Number of Ratings: 780  (23.09.2022)
 | Flurry of Fury | 8.00% | ~52,619 |
 | Long Shot | 7.00% | ~46,042 |
 | Devil Dice | 7.00% | ~46,042 |
-| Adventurer | 6.00% | ~39,464 |
-| Empire's Bane | 6.00% | ~39,464 |
-| Broken Heart | 6.00% | ~39,464 |
+| Adventurer | 6.00% | ~39,465 |
+| Empire's Bane | 6.00% | ~39,465 |
+| Broken Heart | 6.00% | ~39,465 |
 | Jack of all Trades | 5.00% | ~32,887 |
 | Smithy | 5.00% | ~32,887 |
 | Leap of Faith | 3.00% | ~19,732 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~658 |
 | Blood Pact | 0.10% | ~658 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657,741 (Ranked 20)  
+Progressed: 657,743 (Ranked 20)  
 Completed: 165 (0.03%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 165 (0.03%) (Ranked 192)
 | 2023-06-08 | 657,573 | 165 |
 | 2023-06-09 | 657,625 | 165 |
 | 2023-06-10 | 657,684 | 165 |
-| 2023-06-11 | 657,741 | 165 |
+| 2023-06-11 | 657,743 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 431)  
 Sum: 180 (Ranked 365)  

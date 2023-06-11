@@ -25,6 +25,7 @@ Rating: 4.52 (Ranked 515)
 | KGB Bunker | 0.60% | ~7 |
 | Baby Eater | 0.50% | ~5 |
 | Rising Star | 0.50% | ~5 |
+| Sick Freak | 0.40% | ~4 |
 | Admiral | 0.30% | ~3 |
 | Bronzovka | 0.30% | ~3 |
 | Commando | 0.30% | ~3 |
@@ -32,7 +33,6 @@ Rating: 4.52 (Ranked 515)
 | Incompetence | 0.30% | ~3 |
 | Goose Sacrifice | 0.30% | ~3 |
 | Power of Simplicity | 0.30% | ~3 |
-| Sick Freak | 0.30% | ~3 |
 | Goodbye ATOM | 0.20% | ~2 |
 | Escalation of Conflict | 0.20% | ~2 |
 | Second Thought | 0.20% | ~2 |

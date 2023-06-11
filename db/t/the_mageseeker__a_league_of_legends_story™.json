@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2330,
+  "EOS_Progressed": 2331,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2518,6 +2518,11 @@
       "Time": "2023-06-11T20:05:46.2315186+00:00",
       "NumProgressed": 2330,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T22:06:14.4926808+00:00",
+      "NumProgressed": 2331,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2609,7 +2614,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2649,7 +2654,7 @@
       "Name": "Past trauma",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -2663,9 +2668,9 @@
       "ID": "STB_DEFEAT_WISTERIA_I",
       "SetID": "3pe2bac",
       "Name": "Old friend",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 629
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2705,7 +2710,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2713,7 +2718,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2745,7 +2750,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2777,7 +2782,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2833,7 +2838,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2873,7 +2878,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2905,7 +2910,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2945,14 +2950,14 @@
       "Name": "Petricite Burst",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2330,
+      "Progressed": 2331,
       "Completed": 1
     }
   ],
@@ -2960,8 +2965,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-11T21:05:34.0065391+00:00",
+  "LastChanged_Achievements": "2023-06-11T22:06:14.4926805+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-11T20:57:22.0858583+00:00",
-  "LastUpdate_Achievements": "2023-06-11T21:05:34.0066055+00:00"
+  "LastUpdate_Ratings": "2023-06-11T21:57:33.2301364+00:00",
+  "LastUpdate_Achievements": "2023-06-11T22:06:14.4927381+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 357,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 115,
@@ -418,9 +418,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 8257,
+  "EOS_Progressed": 8262,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4293,6 +4293,11 @@
       "Time": "2023-06-11T21:02:38.1684141+00:00",
       "NumProgressed": 8257,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-06-11T22:03:12.3904511+00:00",
+      "NumProgressed": 8262,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 34,
@@ -4320,7 +4325,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "ACH04",
@@ -4376,7 +4381,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH11",
@@ -4408,7 +4413,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3303
+      "UsersEstimate": 3305
     },
     {
       "ID": "ACH15",
@@ -4464,7 +4469,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3551
+      "UsersEstimate": 3553
     },
     {
       "ID": "ACH22",
@@ -4472,7 +4477,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "ACH23",
@@ -4480,7 +4485,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "ACH24",
@@ -4488,7 +4493,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "ACH25",
@@ -4496,7 +4501,7 @@
       "Name": "Chauffeur",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "ACH26",
@@ -4504,7 +4509,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "ACH27",
@@ -4520,7 +4525,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH29",
@@ -4575,7 +4580,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8257,
+      "Progressed": 8262,
       "Completed": 29
     }
   ],
@@ -4583,8 +4588,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-10T11:58:23.7824085+00:00",
-  "LastChanged_Achievements": "2023-06-11T21:02:38.1684136+00:00",
+  "LastChanged_Achievements": "2023-06-11T22:03:12.3904506+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-11T20:57:56.3399086+00:00",
-  "LastUpdate_Achievements": "2023-06-11T21:02:38.1684649+00:00"
+  "LastUpdate_Ratings": "2023-06-11T21:58:14.8532891+00:00",
+  "LastUpdate_Achievements": "2023-06-11T22:03:12.3904969+00:00"
 }

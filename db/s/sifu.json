@@ -4554,9 +4554,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 708809,
+  "EOS_Progressed": 708815,
   "EOS_Completed": 12766,
-  "EOS_NewPlayers": 1400,
+  "EOS_NewPlayers": 1403,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9474,6 +9474,11 @@
       "Time": "2023-06-11T21:05:41.9434472+00:00",
       "NumProgressed": 708809,
       "NumCompleted": 12766
+    },
+    {
+      "Time": "2023-06-11T22:06:23.4743756+00:00",
+      "NumProgressed": 708815,
+      "NumCompleted": 12766
     }
   ],
   "TotalAchievements": 50,
@@ -9573,7 +9578,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5670
+      "UsersEstimate": 5671
     },
     {
       "ID": "13_LowAge",
@@ -9757,7 +9762,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5670
+      "UsersEstimate": 5671
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -9829,7 +9834,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9884,21 +9889,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18110,
+      "Progressed": 18116,
       "Completed": 10259
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708809,
+      "Progressed": 708815,
       "Completed": 12766
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-11T19:58:38.9031146+00:00",
-  "LastChanged_Achievements": "2023-06-11T21:05:41.9434465+00:00",
+  "LastChanged_Achievements": "2023-06-11T22:06:23.4743751+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-11T20:58:33.9937509+00:00",
-  "LastUpdate_Achievements": "2023-06-11T21:05:41.9435207+00:00"
+  "LastUpdate_Ratings": "2023-06-11T21:59:03.1612421+00:00",
+  "LastUpdate_Achievements": "2023-06-11T22:06:23.4744448+00:00"
 }

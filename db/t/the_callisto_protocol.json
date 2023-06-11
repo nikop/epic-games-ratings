@@ -608,9 +608,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15065,
+  "EOS_Progressed": 15071,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3593,6 +3593,11 @@
       "Time": "2023-06-11T21:03:58.8227539+00:00",
       "NumProgressed": 15065,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-11T22:04:19.4092634+00:00",
+      "NumProgressed": 15071,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3636,7 +3641,7 @@
       "Name": "Flesh Wound",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3724,7 +3729,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3740,7 +3745,7 @@
       "Name": "Terminated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -3748,7 +3753,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3764,7 +3769,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -3780,7 +3785,7 @@
       "Name": "Paper Jams",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3796,7 +3801,7 @@
       "Name": "The Outer Way",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3804,7 +3809,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "STORY_HABITAT",
@@ -3820,7 +3825,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "STORY_MINETOWN",
@@ -3836,7 +3841,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3844,7 +3849,7 @@
       "Name": "Crash Site",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "STORY_TOWER",
@@ -3923,13 +3928,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15065,
+      "Progressed": 15071,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2991,
+      "Progressed": 2997,
       "Completed": 29
     }
   ],
@@ -3937,8 +3942,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T18:57:54.2801863+00:00",
-  "LastChanged_Achievements": "2023-06-11T21:03:58.822753+00:00",
+  "LastChanged_Achievements": "2023-06-11T22:04:19.4092629+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-11T20:57:36.5781206+00:00",
-  "LastUpdate_Achievements": "2023-06-11T21:03:58.8228052+00:00"
+  "LastUpdate_Ratings": "2023-06-11T21:57:51.6512459+00:00",
+  "LastUpdate_Achievements": "2023-06-11T22:04:19.4093117+00:00"
 }

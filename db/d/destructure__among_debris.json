@@ -3,9 +3,9 @@
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 104,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 140,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.72,
+  "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -653,6 +653,11 @@
       "Time": "2023-06-11T15:00:15.0348187+00:00",
       "NumProgressed": 139,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T22:00:47.7350138+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -734,9 +739,9 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "easy_victory",
@@ -752,7 +757,7 @@
       "Name": "Graduation",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -911,7 +916,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 140,
       "Completed": 1
     }
   ],
@@ -919,8 +924,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-06-11T20:02:02.9170071+00:00",
+  "LastChanged_Achievements": "2023-06-11T22:00:47.7349938+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.2477238+00:00",
-  "LastUpdate_Ratings": "2023-06-11T20:59:22.6234681+00:00",
-  "LastUpdate_Achievements": "2023-06-11T20:02:02.9170337+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:00:06.500237+00:00",
+  "LastUpdate_Achievements": "2023-06-11T22:00:47.7374877+00:00"
 }

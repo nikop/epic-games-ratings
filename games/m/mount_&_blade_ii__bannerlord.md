@@ -6,27 +6,27 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,041 |
-| Landlord | 30.00% | ~15,868 |
+| Lawbringer | 36.00% | ~19,043 |
+| Landlord | 30.00% | ~15,869 |
 | Bannerlord | 21.00% | ~11,108 |
 | Horde breaker | 21.00% | ~11,108 |
 | Lawmaker | 21.00% | ~11,108 |
 | Trained | 20.00% | ~10,579 |
 | The king is pleased | 17.00% | ~8,992 |
 | King Solomon | 16.00% | ~8,463 |
+| I can do it | 15.00% | ~7,934 |
 | Apple of my eye | 14.00% | ~7,405 |
-| I can do it | 14.00% | ~7,405 |
-| God of the Arena | 12.00% | ~6,347 |
-| Against all odds | 10.00% | ~5,289 |
-| Duelist | 9.00% | ~4,760 |
-| Swordbearer | 9.00% | ~4,760 |
-| Dynasty | 8.00% | ~4,231 |
-| I spit on your grave | 8.00% | ~4,231 |
-| What have the Romans ever done for us? | 8.00% | ~4,231 |
+| God of the Arena | 12.00% | ~6,348 |
+| Against all odds | 10.00% | ~5,290 |
+| Duelist | 9.00% | ~4,761 |
+| Swordbearer | 9.00% | ~4,761 |
+| Dynasty | 8.00% | ~4,232 |
+| I spit on your grave | 8.00% | ~4,232 |
+| What have the Romans ever done for us? | 8.00% | ~4,232 |
 | Butterlord | 7.00% | ~3,703 |
+| Mastery | 7.00% | ~3,703 |
 | This Is Our Land | 7.00% | ~3,703 |
 | Know your enemy | 6.00% | ~3,174 |
-| Mastery | 6.00% | ~3,174 |
 | Crowdfunded | 4.00% | ~2,116 |
 | Crush your enemies | 4.00% | ~2,116 |
 | My way | 4.00% | ~2,116 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,893 (Ranked 79)  
+Progressed: 52,896 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 52,544 | 0 |
 | 2023-06-09 | 52,654 | 0 |
 | 2023-06-10 | 52,776 | 0 |
-| 2023-06-11 | 52,893 | 0 |
+| 2023-06-11 | 52,896 | 0 |
 ## Awards
 Max (Character Customization): 6,659  (Ranked 49)  
 Sum: 13,375 (Ranked 67)  

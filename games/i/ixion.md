@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 441)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 16.00% | ~414 |
+| Wakey Wakey | 17.00% | ~440 |
 | Infinite Growth... | 14.00% | ~363 |
 | Sputnik 2049 | 14.00% | ~363 |
 | Without Breaking Some Eggs... | 13.00% | ~337 |
@@ -20,7 +20,7 @@ Rating: 4.57 (Ranked 441)
 | The Ship of Theseus | 6.00% | ~155 |
 | Hope Seeker | 6.00% | ~155 |
 | A Hunk of Junk | 5.00% | ~130 |
-| Exceeding Capacity | 4.00% | ~104 |
+| Exceeding Capacity | 5.00% | ~130 |
 | Please Make it Stop! | 4.00% | ~104 |
 | Man's Best Friend | 3.00% | ~78 |
 | Sightseeing | 3.00% | ~78 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,590 (Ranked 147)  
+Progressed: 2,591 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 2,515 | 0 |
 | 2023-06-09 | 2,541 | 0 |
 | 2023-06-10 | 2,570 | 0 |
-| 2023-06-11 | 2,590 | 0 |
+| 2023-06-11 | 2,591 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

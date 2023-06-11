@@ -4,11 +4,11 @@
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 277,
   "Ranking_Popularity": 401,
-  "Ranking_PopularitySum": 300,
+  "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -688,9 +688,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2384,
+  "EOS_Progressed": 2387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2443,6 +2443,11 @@
       "Time": "2023-06-11T21:05:28.5489113+00:00",
       "NumProgressed": 2384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T22:06:08.0189907+00:00",
+      "NumProgressed": 2387,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2454,7 +2459,7 @@
       "Name": "Backpacker",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_BING-BONG",
@@ -2558,7 +2563,7 @@
       "Name": "Go with the Flow",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -2606,7 +2611,7 @@
       "Name": "Keeping it classy",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -2758,7 +2763,7 @@
       "Name": "The finer things in life",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -2788,9 +2793,9 @@
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
       "SetID": "72olkc5",
       "Name": "Trick shot marksman",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -2822,7 +2827,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -2830,22 +2835,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1313
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2384,
+      "Progressed": 2387,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-11T15:58:45.9409739+00:00",
-  "LastChanged_Achievements": "2023-06-11T21:05:28.5489106+00:00",
+  "LastChanged_Achievements": "2023-06-11T22:06:08.0189901+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:26.2561369+00:00",
-  "LastUpdate_Ratings": "2023-06-11T20:58:36.148834+00:00",
-  "LastUpdate_Achievements": "2023-06-11T21:05:28.5489637+00:00"
+  "LastUpdate_Ratings": "2023-06-11T21:59:05.9264065+00:00",
+  "LastUpdate_Achievements": "2023-06-11T22:06:08.0190371+00:00"
 }

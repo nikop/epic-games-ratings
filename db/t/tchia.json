@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6437,
+  "EOS_Progressed": 6438,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3404,6 +3404,11 @@
       "Time": "2023-06-11T21:05:15.5094359+00:00",
       "NumProgressed": 6437,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-11T22:05:53.3463723+00:00",
+      "NumProgressed": 6438,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3495,7 +3500,7 @@
       "Name": "Happy Camper",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "HISTORIAN",
@@ -3519,7 +3524,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "LIBERATOR",
@@ -3527,7 +3532,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "LIVE_WIRE",
@@ -3535,7 +3540,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "SHREDDER",
@@ -3582,7 +3587,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6437,
+      "Progressed": 6438,
       "Completed": 24
     }
   ],
@@ -3590,8 +3595,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
-  "LastChanged_Achievements": "2023-06-11T21:05:15.5094355+00:00",
+  "LastChanged_Achievements": "2023-06-11T22:05:53.3463718+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-11T20:57:38.6681002+00:00",
-  "LastUpdate_Achievements": "2023-06-11T21:05:15.5094726+00:00"
+  "LastUpdate_Ratings": "2023-06-11T21:57:54.5632809+00:00",
+  "LastUpdate_Achievements": "2023-06-11T22:05:53.3464034+00:00"
 }

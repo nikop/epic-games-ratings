@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -912,9 +912,9 @@
       "ID": "SICK_FREAK",
       "SetID": "62d2oh4",
       "Name": "Sick Freak",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SIXTH_SENSE",
@@ -969,8 +969,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-06-06T13:57:30.8071111+00:00",
-  "LastChanged_Achievements": "2023-06-11T21:05:21.5286141+00:00",
+  "LastChanged_Achievements": "2023-06-11T22:06:00.3960915+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:22.7249078+00:00",
-  "LastUpdate_Ratings": "2023-06-11T20:57:06.5953787+00:00",
-  "LastUpdate_Achievements": "2023-06-11T21:05:21.5286374+00:00"
+  "LastUpdate_Ratings": "2023-06-11T21:57:14.4137314+00:00",
+  "LastUpdate_Achievements": "2023-06-11T22:06:00.3961171+00:00"
 }

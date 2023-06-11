@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 441,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1514,9 +1514,9 @@
       "ID": "tomb_raider_1",
       "SetID": "53c1p3k",
       "Name": "Tomb Raider 1",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "tomb_raider_2",
@@ -1545,8 +1545,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-11T21:03:07.1715689+00:00",
+  "LastChanged_Achievements": "2023-06-11T22:03:23.2820662+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-11T20:56:49.7128162+00:00",
-  "LastUpdate_Achievements": "2023-06-11T21:03:07.1716391+00:00"
+  "LastUpdate_Ratings": "2023-06-11T21:56:52.8843931+00:00",
+  "LastUpdate_Achievements": "2023-06-11T22:03:23.2821309+00:00"
 }

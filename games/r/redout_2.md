@@ -5,19 +5,19 @@ Rating: 4.45 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~273 |
-| Increasing your Power Level | 27.00% | ~273 |
+| Rookie No More | 27.00% | ~274 |
+| Increasing your Power Level | 27.00% | ~274 |
 | Enter the Speed Gauntlet | 25.00% | ~253 |
 | I just can't choose | 25.00% | ~253 |
-| A Cheese Grater to the Face | 20.00% | ~202 |
+| A Cheese Grater to the Face | 20.00% | ~203 |
 | It's like an haircut | 18.00% | ~182 |
 | Put it on a shelf | 18.00% | ~182 |
-| Suit up | 17.00% | ~172 |
-| Ride in the rising sun | 16.00% | ~162 |
+| Suit up | 16.00% | ~162 |
 | Walked like an Egyptian | 15.00% | ~152 |
+| Ride in the rising sun | 15.00% | ~152 |
 | Running at the speed of sound | 13.00% | ~132 |
-| Martian explorer | 12.00% | ~121 |
-| Rookie No-No More | 12.00% | ~121 |
+| Martian explorer | 12.00% | ~122 |
+| Rookie No-No More | 12.00% | ~122 |
 | To the core | 9.00% | ~91 |
 | Blurred photofinish | 9.00% | ~91 |
 | EZ game EZ life | 7.00% | ~71 |
@@ -27,11 +27,11 @@ Rating: 4.45 (Ranked 616)
 | Under the sea, under the sea | 6.00% | ~61 |
 | Even Faster! | 6.00% | ~61 |
 | Longshot | 6.00% | ~61 |
-| Under the neon lights | 4.00% | ~40 |
-| Almost broke the game | 4.00% | ~40 |
-| Better luck next time | 4.00% | ~40 |
-| Dev, this! | 4.00% | ~40 |
-| He who laughs last... | 4.00% | ~40 |
+| Under the neon lights | 4.00% | ~41 |
+| Almost broke the game | 4.00% | ~41 |
+| Better luck next time | 4.00% | ~41 |
+| Dev, this! | 4.00% | ~41 |
+| He who laughs last... | 4.00% | ~41 |
 | Try them all | 3.00% | ~30 |
 | A-mazing! | 3.00% | ~30 |
 | To infinity and gravity! | 3.00% | ~30 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 616)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,012 (Ranked 177)  
+Progressed: 1,013 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,6 +94,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-06 | 1,006 | 0 |
 | 2023-06-09 | 1,009 | 0 |
 | 2023-06-10 | 1,012 | 0 |
+| 2023-06-11 | 1,013 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

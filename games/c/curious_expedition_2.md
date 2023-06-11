@@ -20,13 +20,13 @@ Number of Ratings: 20  (23.09.2022)
 | O Captain My Captain | 28.00% | ~88 |
 | Plunderer | 27.00% | ~85 |
 | Taxonomist | 26.00% | ~82 |
+| Traveller | 23.00% | ~72 |
 | Uncertain Loyalties | 23.00% | ~72 |
-| Traveller | 22.00% | ~69 |
 | Nahua Seeker | 22.00% | ~69 |
 | Roll to Save | 21.00% | ~66 |
 | Red Flag Pirate | 18.00% | ~57 |
 | Veteran Explorer | 18.00% | ~57 |
-| Iron Man | 15.00% | ~47 |
+| Iron Man | 16.00% | ~50 |
 | For the Club! | 15.00% | ~47 |
 | Practical Palaeontology | 15.00% | ~47 |
 | The Director is Dead | 14.00% | ~44 |
@@ -34,11 +34,11 @@ Number of Ratings: 20  (23.09.2022)
 | A Gentle Beast | 14.00% | ~44 |
 | Dapper | 14.00% | ~44 |
 | The New Director | 13.00% | ~41 |
+| Adventurer | 13.00% | ~41 |
 | Plays Well With Others | 13.00% | ~41 |
-| Adventurer | 12.00% | ~38 |
 | Discovery | 12.00% | ~38 |
+| And Here Is Your Statue | 11.00% | ~35 |
 | Very Classy | 11.00% | ~35 |
-| And Here Is Your Statue | 10.00% | ~31 |
 | Under the Table | 10.00% | ~31 |
 | It's Complicated | 10.00% | ~31 |
 | Cold Blood, Warm Heart | 9.00% | ~28 |

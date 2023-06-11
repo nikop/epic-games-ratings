@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5108,
+  "EOS_Progressed": 5109,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -530,6 +530,11 @@
       "Time": "2023-06-11T13:09:07.9253975+00:00",
       "NumProgressed": 5108,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-06-11T22:06:24.326895+00:00",
+      "NumProgressed": 5109,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 49,
@@ -573,7 +578,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -597,7 +602,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -669,7 +674,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5006
+      "UsersEstimate": 5007
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -677,7 +682,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -693,7 +698,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -749,7 +754,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 3984
+      "UsersEstimate": 3985
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -765,7 +770,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -781,15 +786,15 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
       "SetID": "b8l3p0g",
       "Name": "Royal Flush, Again",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 971
+      "UsersEstimate": 920
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -797,7 +802,7 @@
       "Name": "You\u0027re In a Cult, Call Your Dad",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACHIEVE_LVL_150_COMPLETE",
@@ -829,7 +834,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5006
+      "UsersEstimate": 5007
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -837,7 +842,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -885,7 +890,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -932,15 +937,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5108,
+      "Progressed": 5109,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-06-11T21:05:42.7749368+00:00",
+  "LastChanged_Achievements": "2023-06-11T22:06:24.3268943+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:33.2240138+00:00",
-  "LastUpdate_Ratings": "2023-06-11T20:59:27.3198684+00:00",
-  "LastUpdate_Achievements": "2023-06-11T21:05:42.7749814+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:00:12.5227648+00:00",
+  "LastUpdate_Achievements": "2023-06-11T22:06:24.3269364+00:00"
 }

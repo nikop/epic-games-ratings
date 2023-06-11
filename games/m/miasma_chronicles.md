@@ -5,24 +5,24 @@ Rating: 4.36 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~999 |
-| Ranidaphobia | 76.00% | ~834 |
+| First Blood | 91.00% | ~1,000 |
+| Ranidaphobia | 76.00% | ~835 |
 | Aspiring Editor | 73.00% | ~802 |
 | Gun for Hire | 68.00% | ~747 |
 | I am the law! | 59.00% | ~648 |
-| Lumberjack | 47.00% | ~516 |
-| Croaked | 42.00% | ~461 |
-| Limp Richard | 41.00% | ~450 |
-| From Darkness to Light | 40.00% | ~439 |
-| Exorcist | 39.00% | ~428 |
-| Editor Adept | 38.00% | ~417 |
-| Firestarter | 38.00% | ~417 |
-| Giant Killer | 36.00% | ~395 |
-| Sensei | 34.00% | ~373 |
-| The meaning of Kain | 33.00% | ~362 |
-| Technophobe | 30.00% | ~329 |
-| Recycler | 28.00% | ~307 |
-| Are you not entertained? | 25.00% | ~274 |
+| Lumberjack | 47.00% | ~517 |
+| Croaked | 42.00% | ~462 |
+| Limp Richard | 41.00% | ~451 |
+| From Darkness to Light | 40.00% | ~440 |
+| Exorcist | 39.00% | ~429 |
+| Editor Adept | 38.00% | ~418 |
+| Firestarter | 38.00% | ~418 |
+| Giant Killer | 36.00% | ~396 |
+| Sensei | 34.00% | ~374 |
+| The meaning of Kain | 33.00% | ~363 |
+| Technophobe | 30.00% | ~330 |
+| Recycler | 28.00% | ~308 |
+| Are you not entertained? | 25.00% | ~275 |
 | Ganglord | 24.00% | ~264 |
 | Jarhead | 24.00% | ~264 |
 | Infiltrator | 23.00% | ~253 |
@@ -57,7 +57,7 @@ Rating: 4.36 (Ranked 719)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,098 (Ranked 171)  
+Progressed: 1,099 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 1,062 | 0 |
 | 2023-06-09 | 1,074 | 0 |
 | 2023-06-10 | 1,089 | 0 |
-| 2023-06-11 | 1,098 | 0 |
+| 2023-06-11 | 1,099 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
