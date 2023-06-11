@@ -8,7 +8,7 @@
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
 | 8 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 16.67% |
-| 9 | [Island Cities](games/i/island_cities.md) | 15.97% |
+| 9 | [Island Cities](games/i/island_cities.md) | 15.92% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
@@ -39,9 +39,9 @@
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.79% |
-| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.77% |
+| 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
-| 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
+| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.68% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
 | 45 | [The Complex](games/t/the_complex.md) | 3.29% |
@@ -78,7 +78,7 @@
 | 76 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
 | 77 | [Night Book](games/n/night_book.md) | 1.52% |
 | 78 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 79 | [Frogun](games/f/frogun.md) | 1.49% |
+| 79 | [Frogun](games/f/frogun.md) | 1.48% |
 | 80 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.33% |
 | 81 | [Ten Dates](games/t/ten_dates.md) | 1.24% |
 | 82 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.23% |
