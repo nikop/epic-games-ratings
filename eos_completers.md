@@ -11,8 +11,8 @@
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
-| 12 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 12.50% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
+| 13 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 11.76% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.11% |
 | 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.44% |
@@ -32,10 +32,10 @@
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.61% |
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
+| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.01% |
-| 36 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.00% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.00% |
+| 36 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.97% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.79% |
@@ -49,9 +49,9 @@
 | 47 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.19% |
 | 48 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.10% |
 | 49 | [The Bunker](games/t/the_bunker.md) | 3.00% |
-| 50 | [HordeCore](games/h/hordecore.md) | 2.97% |
+| 50 | [HordeCore](games/h/hordecore.md) | 2.96% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
-| 52 | [Destiny 2](games/d/destiny_2.md) | 2.88% |
+| 52 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 54 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
 | 54 | [Lamentum](games/l/lamentum.md) | 2.78% |
@@ -110,14 +110,14 @@
 | 108 | [Train Valley](games/t/train_valley.md) | 0.67% |
 | 109 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 110 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.62% |
-| 111 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
-| 112 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
+| 111 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
+| 111 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
 | 113 | [Grindstone](games/g/grindstone.md) | 0.53% |
 | 114 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 115 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 116 | [Tails of Iron](games/t/tails_of_iron.md) | 0.48% |
 | 117 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
-| 118 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 118 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 119 | [Potion Permit](games/p/potion_permit.md) | 0.43% |
 | 120 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 121 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
@@ -132,10 +132,10 @@
 | 127 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
 | 131 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 132 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
-| 132 | [Godlike Burger](games/g/godlike_burger.md) | 0.30% |
 | 132 | [The Surge](games/t/the_surge.md) | 0.30% |
 | 132 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 136 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
+| 135 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
+| 135 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
 | 137 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 138 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
 | 139 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.26% |
