@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1366,
+  "EOS_Progressed": 1368,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3001,6 +3001,11 @@
       "Time": "2023-06-11T14:05:59.8749789+00:00",
       "NumProgressed": 1366,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T16:05:43.9540293+00:00",
+      "NumProgressed": 1368,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3188,15 +3193,15 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 547
     },
     {
       "ID": "fourleafclover",
@@ -3220,7 +3225,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "gearenchanting",
@@ -3404,7 +3409,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "prestigiousx10",
@@ -3468,7 +3473,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "thealchemist",
@@ -3572,7 +3577,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1286
     },
     {
       "ID": "warmachinesarmy",
@@ -3604,14 +3609,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1366,
+      "Progressed": 1368,
       "Completed": 1
     }
   ],
@@ -3619,8 +3624,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-11T15:05:40.3419377+00:00",
+  "LastChanged_Achievements": "2023-06-11T16:05:43.9540284+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:57:53.7582928+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:05:40.3420331+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:57:53.1809834+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:05:43.9541019+00:00"
 }

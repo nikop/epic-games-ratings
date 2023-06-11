@@ -6,27 +6,27 @@ Rating: 4.18 (Ranked 842)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 14.00% | ~2,105 |
-| The Outer Way | 13.00% | ~1,954 |
+| The Outer Way | 13.00% | ~1,955 |
 | Desperate Times | 12.00% | ~1,804 |
-| Paper Jams | 10.00% | ~1,503 |
+| Paper Jams | 10.00% | ~1,504 |
 | Chew 'Em Up | 9.00% | ~1,353 |
 | Reforged | 9.00% | ~1,353 |
 | Workplace Hazard | 8.00% | ~1,203 |
 | If the SHU Fits... | 8.00% | ~1,203 |
-| Giving Back | 7.00% | ~1,052 |
-| Get a Grip | 7.00% | ~1,052 |
-| Without A Paddle | 7.00% | ~1,052 |
+| Giving Back | 7.00% | ~1,053 |
+| Get a Grip | 7.00% | ~1,053 |
+| Without A Paddle | 7.00% | ~1,053 |
+| Two Heads Are Better Than One | 5.00% | ~752 |
 | Terminated | 5.00% | ~752 |
 | Float Like A Butterfly | 5.00% | ~752 |
 | In the Pipe, Five by Five | 5.00% | ~752 |
 | Crash Site | 5.00% | ~752 |
 | You Need a Gun | 4.00% | ~601 |
-| Two Heads Are Better Than One | 4.00% | ~601 |
 | What Lies Beneath | 4.00% | ~601 |
 | Full Circle | 4.00% | ~601 |
 | Power Up | 4.00% | ~601 |
-| Instigator | 4.00% | ~118 |
-| Big Game Hunter | 4.00% | ~118 |
+| Instigator | 4.00% | ~119 |
+| Big Game Hunter | 4.00% | ~119 |
 | The Commonality | 3.00% | ~451 |
 | Bear Trap | 3.00% | ~89 |
 | I Do Belong Here | 2.00% | ~301 |
@@ -38,7 +38,7 @@ Rating: 4.18 (Ranked 842)
 | Grim Reaper | 0.80% | ~120 |
 | Recidivist | 0.70% | ~21 |
 | Lifer | 0.70% | ~21 |
-| Armed to the Teeth | 0.20% | ~6 |
+| Armed to the Teeth | 0.30% | ~9 |
 | The Protocol is About Life | 0.20% | ~30 |
 | It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~3 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 842)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,033 (Ranked 104)  
+Progressed: 15,037 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 54 (0.36%) (Ranked 123)
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
 | 2023-06-10 | 14,984 | 54 |
-| 2023-06-11 | 15,033 | 54 |
+| 2023-06-11 | 15,037 | 54 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
 Sum: 304 (Ranked 328)  

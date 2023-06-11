@@ -5,10 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mighty Powers | 25.00% | ~1 |
+| Grand Re-Opening | 25.00% | ~1 |
 | Pup Pup Boogie | 25.00% | ~1 |
+| Summer Day | 25.00% | ~1 |
 | You Have Been Everywhere | 25.00% | ~1 |
 | Animal Sighting | 25.00% | ~1 |
-| Grand Re-Opening | 0.00% | ~0 |
 | King of the Mountain | 0.00% | ~0 |
 | A Great Explorer | 0.00% | ~0 |
 | Nothing Can Stop You | 0.00% | ~0 |
@@ -18,7 +19,6 @@
 | Master of the Rope | 0.00% | ~0 |
 | Training Day | 0.00% | ~0 |
 | The Fastest | 0.00% | ~0 |
-| Summer Day | 0.00% | ~0 |
 | In the Air | 0.00% | ~0 |
 | Air Ace | 0.00% | ~0 |
 | Clear the Road | 0.00% | ~0 |

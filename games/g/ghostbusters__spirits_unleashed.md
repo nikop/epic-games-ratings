@@ -26,9 +26,9 @@ Rating: 4.49 (Ranked 565)
 | Side Hustle | 28.00% | ~6,429 |
 | We have the best insurance | 27.00% | ~6,199 |
 | Legions | 27.00% | ~6,199 |
+| Right back at ya | 27.00% | ~6,199 |
 | Summoner | 27.00% | ~6,199 |
 | Pesky Jerks | 26.00% | ~5,970 |
-| Right back at ya | 26.00% | ~5,970 |
 | Stunner | 26.00% | ~5,970 |
 | Animated | 25.00% | ~5,740 |
 | Skilled | 25.00% | ~5,740 |
@@ -112,14 +112,14 @@ Completed: 40 (0.17%) (Ranked 150)
 | 2023-06-11 | 22,961 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 236  (Ranked 247)  
-Sum: 2,111 (Ranked 182)  
+Sum: 2,112 (Ranked 182)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 236 |
 | This game is Great for Beginners | 224 |
 | This game has Competitive Players | 218 |
-| This game has Diverse Characters | 212 |
+| This game has Diverse Characters | 213 |
 | This game has Amazing Storytelling | 211 |
 | This game is Extremely Fun | 208 |
 | This game is Highly Recommended | 205 |
@@ -216,4 +216,4 @@ Diff (max vs sum): 65
 | 2023-06-08 | 4.49 | 235 | 2,106 |
 | 2023-06-09 | 4.49 | 235 | 2,109 |
 | 2023-06-10 | 4.49 | 235 | 2,110 |
-| 2023-06-11 | 4.49 | 236 | 2,111 |
+| 2023-06-11 | 4.49 | 236 | 2,112 |

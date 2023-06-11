@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4166,
+  "EOS_Progressed": 4167,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -685,6 +685,11 @@
       "Time": "2023-06-11T11:05:35.1825407+00:00",
       "NumProgressed": 4166,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-11T16:05:54.9139956+00:00",
+      "NumProgressed": 4167,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1104,7 +1109,7 @@
       "Name": "It went unnoticed",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_BREW",
@@ -1112,7 +1117,7 @@
       "Name": "Brew master",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_CRAFTSMEN",
@@ -1144,7 +1149,7 @@
       "Name": "Panacea",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_DRAUGHT",
@@ -1216,7 +1221,7 @@
       "Name": "I\u0027ve been everywhere IX",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_KINGSBET",
@@ -1224,7 +1229,7 @@
       "Name": "I\u0027ve been everywhere X",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_LATEFALL",
@@ -1312,7 +1317,7 @@
       "Name": "Waterways",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_WEDDING",
@@ -1496,22 +1501,22 @@
       "Name": "You shall not pass",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4166,
+      "Progressed": 4167,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-06-11T15:05:50.889755+00:00",
+  "LastChanged_Achievements": "2023-06-11T16:05:54.9139951+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.0031057+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:57:55.505+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:05:50.8898826+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:57:54.842673+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:05:54.914095+00:00"
 }

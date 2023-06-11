@@ -1043,9 +1043,9 @@
       "ID": "call_of_mana_1",
       "SetID": "53c1p3k",
       "Name": "Call of Mana 1",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     },
     {
       "ID": "call_of_mana_2",
@@ -1530,8 +1530,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-11T15:03:16.7441307+00:00",
+  "LastChanged_Achievements": "2023-06-11T16:03:17.3207152+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:57:00.24589+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:03:16.7441999+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:57:00.1129162+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:03:17.3207675+00:00"
 }

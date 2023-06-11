@@ -19,8 +19,8 @@ Rating: 4.80 (Ranked 79)
 | Ternmoat Headquarters | 33.00% | ~767 |
 | Elemental master | 32.00% | ~744 |
 | Cypress Glen Headquarters | 31.00% | ~721 |
+| Old friend | 28.00% | ~651 |
 | Petricite Burst | 28.00% | ~651 |
-| Old friend | 27.00% | ~628 |
 | Devineur | 27.00% | ~628 |
 | Whispers in the Woods I | 26.00% | ~604 |
 | Hijack | 26.00% | ~604 |

@@ -1366,9 +1366,9 @@
       "ID": "HexlockGift",
       "SetID": "a9e499d",
       "Name": "Hexlock for Protection",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "InxChromaInTheatre",
@@ -1558,9 +1558,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     },
     {
       "ID": "TheaterChests1",
@@ -1582,9 +1582,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 46
     },
     {
       "ID": "WatcherFought",
@@ -1629,8 +1629,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-11T15:05:01.8569189+00:00",
+  "LastChanged_Achievements": "2023-06-11T16:05:04.3573593+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:59:01.7994426+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:05:01.8569708+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:59:03.2645031+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:05:04.3574014+00:00"
 }

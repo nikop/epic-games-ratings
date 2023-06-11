@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 264,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.65,
   "EosHistory": [
@@ -674,17 +674,17 @@
       "ID": "brewery",
       "SetID": "ap7g2g4",
       "Name": "Brewery",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 222
     },
     {
       "ID": "church",
       "SetID": "ap7g2g4",
       "Name": "Church",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "circus",
@@ -770,9 +770,9 @@
       "ID": "match_9",
       "SetID": "ap7g2g4",
       "Name": "Match 9",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "mill",
@@ -849,8 +849,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-11T15:03:22.863465+00:00",
+  "LastChanged_Achievements": "2023-06-11T16:03:23.5532662+00:00",
   "LastUpdate_AppInfo": "2023-06-08T13:02:02.6233371+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:57:04.5638851+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:03:22.8634922+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:57:04.8039654+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:03:23.5532833+00:00"
 }

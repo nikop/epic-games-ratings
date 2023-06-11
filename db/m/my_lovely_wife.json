@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 577,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -366,9 +366,9 @@
       "ID": "ACH_KILL_SUCC_2",
       "SetID": "ajki3eh",
       "Name": "Mandatory Sacrifice",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_KILL_SUCC_3",
@@ -486,9 +486,9 @@
       "ID": "ACH_UNLOCK_SUCC_KIND_2",
       "SetID": "ajki3eh",
       "Name": "The Admirer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 294
     },
     {
       "ID": "ACH_UNLOCK_SUCC_KIND_3",
@@ -510,8 +510,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-06-11T15:05:24.4213425+00:00",
+  "LastChanged_Achievements": "2023-06-11T16:05:27.3034767+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.2279204+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:57:57.8655583+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:05:24.4213663+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:57:57.7257313+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:05:27.3034966+00:00"
 }

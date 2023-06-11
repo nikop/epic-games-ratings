@@ -602,7 +602,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15033,
+  "EOS_Progressed": 15037,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 1,
@@ -3557,6 +3557,11 @@
       "Time": "2023-06-11T15:04:01.8701604+00:00",
       "NumProgressed": 15033,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-11T16:04:03.4182998+00:00",
+      "NumProgressed": 15037,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3574,9 +3579,9 @@
       "ID": "ALL_WEAPONS_AND_UPGRADES",
       "SetID": "6j5ggkc",
       "Name": "Armed to the Teeth",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -3584,7 +3589,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3672,7 +3677,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3686,9 +3691,9 @@
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 601
+      "UsersEstimate": 752
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -3744,7 +3749,7 @@
       "Name": "Paper Jams",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3760,7 +3765,7 @@
       "Name": "The Outer Way",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3776,7 +3781,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "STORY_HANGAR",
@@ -3840,7 +3845,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3848,7 +3853,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -3887,13 +3892,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15033,
+      "Progressed": 15037,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2959,
+      "Progressed": 2963,
       "Completed": 29
     }
   ],
@@ -3901,8 +3906,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T09:57:43.9891302+00:00",
-  "LastChanged_Achievements": "2023-06-11T15:04:01.87016+00:00",
+  "LastChanged_Achievements": "2023-06-11T16:04:03.4182994+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:57:47.109903+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:04:01.8702096+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:57:46.7424976+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:04:03.418338+00:00"
 }

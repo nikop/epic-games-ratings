@@ -4,7 +4,7 @@
   "ProductSlug": "conan-exiles",
   "Ranking_Rating": 473,
   "Ranking_Popularity": 124,
-  "Ranking_PopularitySum": 87,
+  "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 324,
@@ -3865,18 +3865,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 8696,
       "NumberOfAwardsMax": 1227
+    },
+    {
+      "Time": "2023-06-11T15:59:44.6572822+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 8701,
+      "NumberOfAwardsMax": 1230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8696,
-  "NumberOfAwardsMax": 1227,
+  "NumberOfAwards": 8701,
+  "NumberOfAwardsMax": 1230,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1227
+      "Count": 1230
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3918,7 +3924,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1039
+      "Count": 1041
     },
     {
       "Text": "This game has a Creative Community",
@@ -3938,8 +3944,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-06-10T22:59:29.1712002+00:00",
+  "LastChanged": "2023-06-11T15:59:44.6572821+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:42.024906+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:59:38.9578089+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:03:36.289178+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:59:44.6572827+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:03:37.1538184+00:00"
 }

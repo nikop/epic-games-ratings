@@ -5,9 +5,9 @@
   "Ranking_Rating": 770,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
-  "Ranking_EOS_Progress": 172,
+  "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1095,
+  "EOS_Progressed": 1096,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1593,6 +1593,11 @@
       "Time": "2023-06-11T14:03:03.048943+00:00",
       "NumProgressed": 1095,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T16:02:19.8936038+00:00",
+      "NumProgressed": 1096,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1618,9 +1623,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 789
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1682,9 +1687,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 460
     },
     {
       "ID": "CRUELTY",
@@ -1738,9 +1743,9 @@
       "ID": "DR_JONES",
       "SetID": "9a4jnji",
       "Name": "Dr Jones",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 110
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -1780,7 +1785,7 @@
       "Name": "Firestarter",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "FIRST_BLOOD",
@@ -1788,7 +1793,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -1820,7 +1825,7 @@
       "Name": "Giant Killer",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "GOAL",
@@ -1842,17 +1847,17 @@
       "ID": "HOLD_THE_LINE",
       "SetID": "9a4jnji",
       "Name": "Hold The Line",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 208
     },
     {
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 647
     },
     {
       "ID": "INFILTRATOR",
@@ -1908,7 +1913,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "RECYCLER",
@@ -1924,7 +1929,7 @@
       "Name": "Ruthless",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "SAVIOR",
@@ -1940,7 +1945,7 @@
       "Name": "Sensei",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "SHADOW_BOXING",
@@ -1972,7 +1977,7 @@
       "Name": "Technophobe",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -1986,9 +1991,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 351
     },
     {
       "ID": "THE_WATCHERS",
@@ -2011,7 +2016,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1095,
+      "Progressed": 1096,
       "Completed": 0
     }
   ],
@@ -2019,8 +2024,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-10T20:58:18.0757605+00:00",
-  "LastChanged_Achievements": "2023-06-11T15:02:20.2137674+00:00",
+  "LastChanged_Achievements": "2023-06-11T16:02:19.8936032+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:58:07.2857212+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:02:20.2138197+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:58:07.5085984+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:02:19.8936486+00:00"
 }

@@ -244,9 +244,9 @@
       "ID": "Achievement_19",
       "SetID": "6jd5kdh",
       "Name": "Never learn",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement_20",
@@ -276,9 +276,9 @@
       "ID": "Achievement_23",
       "SetID": "6jd5kdh",
       "Name": "Armed robbery",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_24",
@@ -301,8 +301,8 @@
   "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
   "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
-  "LastChanged_Achievements": "2023-06-11T15:05:35.18177+00:00",
+  "LastChanged_Achievements": "2023-06-11T16:05:38.6671688+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:00.5903213+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:59:10.2792659+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:05:35.1817899+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:59:12.6220223+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:05:38.6671832+00:00"
 }

@@ -19,7 +19,7 @@
 | FOR THE GAUNTLET! | 20.00% | ~68 |
 | Untapped Potential | 17.00% | ~57 |
 | Played by Gramps | 14.00% | ~47 |
-| Size Doesn’t Matter | 12.00% | ~41 |
+| Size Doesn’t Matter | 13.00% | ~44 |
 | I Choo-Choo-Choose You | 12.00% | ~41 |
 | My Savior! | 12.00% | ~41 |
 | Totally Swamped | 11.00% | ~37 |

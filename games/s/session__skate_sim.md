@@ -1,14 +1,14 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.67 (Ranked 257)  
+Rating: 4.66 (Ranked 277)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 55.00% | ~1,306 |
+| You're free now! | 55.00% | ~1,307 |
 | Keeping it classy | 24.00% | ~570 |
-| Welcome to the family | 18.00% | ~427 |
+| Welcome to the family | 18.00% | ~428 |
 | The finer things in life | 16.00% | ~380 |
 | Backpacker | 11.00% | ~261 |
 | Go with the Flow | 11.00% | ~261 |
@@ -18,8 +18,8 @@ Number of Ratings: 111  (23.09.2022)
 | The hard way | 8.00% | ~190 |
 | Good vibes | 7.00% | ~166 |
 | Upfront shredder | 7.00% | ~166 |
-| Finally he zips it | 6.00% | ~142 |
-| That pinch! | 6.00% | ~142 |
+| Finally he zips it | 6.00% | ~143 |
+| That pinch! | 6.00% | ~143 |
 | Bottom ply killer | 5.00% | ~119 |
 | Fashionista | 5.00% | ~119 |
 | Fulfilled the dream | 5.00% | ~119 |
@@ -43,9 +43,9 @@ Number of Ratings: 111  (23.09.2022)
 | Prince of Philly | 3.00% | ~71 |
 | Trick shot marksman | 3.00% | ~71 |
 | We get it, you're good | 3.00% | ~71 |
-| Cross lock country | 2.00% | ~47 |
-| Many plys later... | 2.00% | ~47 |
-| Pew-Pew | 2.00% | ~47 |
+| Cross lock country | 2.00% | ~48 |
+| Many plys later... | 2.00% | ~48 |
+| Pew-Pew | 2.00% | ~48 |
 | Dipped! | 1.00% | ~24 |
 | That was wheelie fun | 1.00% | ~24 |
 | Skatepark hero | 0.70% | ~17 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,374 (Ranked 149)  
+Progressed: 2,376 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 2,327 | 0 |
 | 2023-06-09 | 2,344 | 0 |
 | 2023-06-10 | 2,362 | 0 |
-| 2023-06-11 | 2,374 | 0 |
+| 2023-06-11 | 2,376 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 399)  
 Sum: 421 (Ranked 300)  
@@ -227,3 +227,4 @@ Diff (max vs sum): 99
 | 2023-06-03 | 4.67 | - | 48 | 416 |
 | 2023-06-04 | 4.67 | - | 48 | 420 |
 | 2023-06-09 | 4.67 | - | 48 | 421 |
+| 2023-06-11 | 4.66 | - | 48 | 421 |

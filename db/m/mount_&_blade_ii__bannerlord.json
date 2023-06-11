@@ -4681,10 +4681,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13364,
       "NumberOfAwardsMax": 6654
+    },
+    {
+      "Time": "2023-06-11T15:59:19.2946893+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13370,
+      "NumberOfAwardsMax": 6654
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13364,
+  "NumberOfAwards": 13370,
   "NumberOfAwardsMax": 6654,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4704,7 +4710,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 759
+      "Count": 761
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4716,7 +4722,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 844
+      "Count": 848
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4761,9 +4767,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 52857,
+  "EOS_Progressed": 52863,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10006,6 +10012,11 @@
       "Time": "2023-06-11T15:05:45.5931558+00:00",
       "NumProgressed": 52857,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T16:05:49.4848663+00:00",
+      "NumProgressed": 52863,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -10025,7 +10036,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7400
+      "UsersEstimate": 7401
     },
     {
       "ID": "Bannerlord",
@@ -10033,7 +10044,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11100
+      "UsersEstimate": 11101
     },
     {
       "ID": "Best served cold",
@@ -10073,7 +10084,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "Crackshot",
@@ -10089,7 +10100,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "Duelist",
@@ -10097,7 +10108,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4757
+      "UsersEstimate": 4758
     },
     {
       "ID": "Dynasty",
@@ -10145,7 +10156,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6344
     },
     {
       "ID": "Great Granny",
@@ -10177,7 +10188,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11100
+      "UsersEstimate": 11101
     },
     {
       "ID": "I can do it",
@@ -10185,7 +10196,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7400
+      "UsersEstimate": 7401
     },
     {
       "ID": "I spit on your grave",
@@ -10209,7 +10220,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8457
+      "UsersEstimate": 8458
     },
     {
       "ID": "Kingslayer",
@@ -10225,7 +10236,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "Lance-a-lot",
@@ -10241,7 +10252,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15857
+      "UsersEstimate": 15859
     },
     {
       "ID": "Lawbringer",
@@ -10249,7 +10260,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19029
+      "UsersEstimate": 19031
     },
     {
       "ID": "Lawmaker",
@@ -10257,7 +10268,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11100
+      "UsersEstimate": 11101
     },
     {
       "ID": "Long live the Empire",
@@ -10273,7 +10284,7 @@
       "Name": "Mastery",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "Minor Clan",
@@ -10297,7 +10308,7 @@
       "Name": "My way",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "Real Estate",
@@ -10361,7 +10372,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4757
+      "UsersEstimate": 4758
     },
     {
       "ID": "The king is pleased",
@@ -10369,7 +10380,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 8986
+      "UsersEstimate": 8987
     },
     {
       "ID": "This Is Our Land",
@@ -10393,7 +10404,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10571
+      "UsersEstimate": 10573
     },
     {
       "ID": "Undercover",
@@ -10409,7 +10420,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -10424,15 +10435,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 52857,
+      "Progressed": 52863,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-06-11T13:02:36.4302681+00:00",
-  "LastChanged_Achievements": "2023-06-11T15:05:45.5931554+00:00",
+  "LastChanged": "2023-06-11T15:59:19.2946892+00:00",
+  "LastChanged_Achievements": "2023-06-11T16:05:49.4848657+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.7638499+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:59:16.3698322+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:05:45.5932289+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:59:19.2946897+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:05:49.4849252+00:00"
 }

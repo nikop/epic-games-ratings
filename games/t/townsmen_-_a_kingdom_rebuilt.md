@@ -91,13 +91,13 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere VII | 0.40% | ~17 |
 | Impregnable | 0.40% | ~17 |
 | To serve and protect | 0.40% | ~17 |
-| It went unnoticed | 0.30% | ~12 |
-| Brew master | 0.30% | ~12 |
-| Panacea | 0.30% | ~12 |
-| I've been everywhere IX | 0.30% | ~12 |
-| I've been everywhere X | 0.30% | ~12 |
-| Waterways | 0.30% | ~12 |
-| You shall not pass | 0.30% | ~12 |
+| It went unnoticed | 0.30% | ~13 |
+| Brew master | 0.30% | ~13 |
+| Panacea | 0.30% | ~13 |
+| I've been everywhere IX | 0.30% | ~13 |
+| I've been everywhere X | 0.30% | ~13 |
+| Waterways | 0.30% | ~13 |
+| You shall not pass | 0.30% | ~13 |
 | Malediction | 0.20% | ~8 |
 | Tired by festival | 0.20% | ~8 |
 | Chief Inspector | 0.20% | ~8 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,166 (Ranked 133)  
+Progressed: 4,167 (Ranked 133)  
 Completed: 3 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 3 (0.07%) (Ranked 177)
 | 2023-06-04 | 4,162 | 3 |
 | 2023-06-05 | 4,163 | 3 |
 | 2023-06-08 | 4,164 | 3 |
-| 2023-06-11 | 4,166 | 3 |
+| 2023-06-11 | 4,167 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

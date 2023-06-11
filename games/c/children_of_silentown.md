@@ -13,7 +13,7 @@
 | Coal's fur | 59.00% | ~99 |
 | Blue's drawing | 54.00% | ~90 |
 | Mysterious footprints | 47.00% | ~78 |
-| Glass shards | 44.00% | ~73 |
+| Glass shards | 46.00% | ~77 |
 | Complicated padlock | 43.00% | ~72 |
 | Big metal ruler | 41.00% | ~68 |
 | Doll | 37.00% | ~62 |
@@ -26,12 +26,12 @@
 | Flower of hope | 14.00% | ~23 |
 | Back Home | 11.00% | ~18 |
 | Friend | 11.00% | ~18 |
+| Old kettle | 11.00% | ~18 |
 | Forest Howl | 10.00% | ~17 |
-| Old kettle | 10.00% | ~17 |
 | Hope | 5.00% | ~8 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167 (Ranked 259)  
+Progressed: 167 (Ranked 260)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |

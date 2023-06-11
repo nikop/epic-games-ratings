@@ -5,17 +5,17 @@ Rating: 4.51 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~767 |
-| Confirming Suspicions | 24.00% | ~635 |
-| The Kraken Wakes | 20.00% | ~529 |
-| It's Starting to Crack | 17.00% | ~450 |
-| Lord of War | 14.00% | ~370 |
-| Change the Channel | 14.00% | ~370 |
+| Meeting Resistance | 29.00% | ~768 |
+| Confirming Suspicions | 24.00% | ~636 |
+| The Kraken Wakes | 20.00% | ~530 |
+| It's Starting to Crack | 17.00% | ~451 |
+| Lord of War | 14.00% | ~371 |
+| Change the Channel | 14.00% | ~371 |
 | Resourceful | 13.00% | ~344 |
-| Taking it back | 12.00% | ~317 |
-| Target America | 11.00% | ~291 |
-| Organ Grinder | 10.00% | ~264 |
-| As Quiet as a Mouse | 10.00% | ~264 |
+| Taking it back | 12.00% | ~318 |
+| Target America | 11.00% | ~292 |
+| Organ Grinder | 10.00% | ~265 |
+| As Quiet as a Mouse | 10.00% | ~265 |
 | The Kraken Sleeps | 9.00% | ~238 |
 | Liberté | 8.00% | ~212 |
 | Enemy at the Gates | 8.00% | ~212 |
@@ -23,7 +23,7 @@ Rating: 4.51 (Ranked 530)
 | Gunslinger | 8.00% | ~212 |
 | Sharpshooter | 8.00% | ~212 |
 | Explosive Efficiency | 8.00% | ~212 |
-| Opposing Force | 7.00% | ~185 |
+| Opposing Force | 7.00% | ~186 |
 | Die Nussknacker Sweet! | 6.00% | ~159 |
 | Der Geist | 6.00% | ~159 |
 | Close Quarters | 6.00% | ~159 |
@@ -35,8 +35,8 @@ Rating: 4.51 (Ranked 530)
 | Skirmisher | 5.00% | ~132 |
 | Set Europe Ablaze | 5.00% | ~132 |
 | Precision Is Key | 4.00% | ~106 |
-| Rigged to Blow | 3.00% | ~79 |
-| My Little Friend | 3.00% | ~79 |
+| Rigged to Blow | 3.00% | ~80 |
+| My Little Friend | 3.00% | ~80 |
 | The Long Game | 2.00% | ~53 |
 | It'll Buff Right Out | 2.00% | ~53 |
 | Strategist | 1.00% | ~26 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 530)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,645 (Ranked 146)  
+Progressed: 2,650 (Ranked 146)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
-| 2023-06-11 | 2,645 | 2 |
+| 2023-06-11 | 2,650 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

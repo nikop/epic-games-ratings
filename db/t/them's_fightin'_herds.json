@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223692,
+  "EOS_Progressed": 223695,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5488,6 +5488,11 @@
       "Time": "2023-06-11T15:05:34.3873744+00:00",
       "NumProgressed": 223692,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-11T16:05:37.6759352+00:00",
+      "NumProgressed": 223695,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -5563,7 +5568,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 80529
+      "UsersEstimate": 80530
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -5643,7 +5648,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76055
+      "UsersEstimate": 76056
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -5659,7 +5664,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49212
+      "UsersEstimate": 49213
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -5722,7 +5727,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 223692,
+      "Progressed": 223695,
       "Completed": 3
     }
   ],
@@ -5730,8 +5735,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-06-10T22:59:11.5974265+00:00",
-  "LastChanged_Achievements": "2023-06-11T15:05:34.3873739+00:00",
+  "LastChanged_Achievements": "2023-06-11T16:05:37.6759349+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:17.4929198+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:59:22.0054545+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:05:34.3874257+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:59:25.0713332+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:05:37.6759934+00:00"
 }

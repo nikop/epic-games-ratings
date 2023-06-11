@@ -163,9 +163,9 @@
       "ID": "BADGE_BOSS_4_KILL",
       "SetID": "ak6pfjk",
       "Name": "Avada Kedavra",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "BADGE_BOSS_5_KILL",
@@ -491,9 +491,9 @@
       "ID": "BADGE_PLAYER_RANK_2",
       "SetID": "ak6pfjk",
       "Name": "Lieutenant of the Evil",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "BADGE_POLYMORPH_COUNT",
@@ -564,8 +564,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-11T15:03:28.4425335+00:00",
+  "LastChanged_Achievements": "2023-06-11T16:03:29.4612476+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:53.8163071+00:00",
-  "LastUpdate_Ratings": "2023-06-11T14:58:21.0157699+00:00",
-  "LastUpdate_Achievements": "2023-06-11T15:03:28.4425785+00:00"
+  "LastUpdate_Ratings": "2023-06-11T15:58:22.0650018+00:00",
+  "LastUpdate_Achievements": "2023-06-11T16:03:29.4612826+00:00"
 }

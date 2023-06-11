@@ -7,6 +7,7 @@
 | Treasure Trove | 7.00% | ~46 |
 | Cartographer | 7.00% | ~46 |
 | Time Heals All Wounds | 7.00% | ~46 |
+| Immaculate Aim | 7.00% | ~46 |
 | The Steel Shadow | 6.00% | ~39 |
 | The Mysterious Stranger | 6.00% | ~39 |
 | Rail Rat | 6.00% | ~39 |
@@ -15,7 +16,6 @@
 | No, Thanks! | 6.00% | ~39 |
 | Breaking Down Barriers | 6.00% | ~39 |
 | The Prince in Heels | 6.00% | ~39 |
-| Immaculate Aim | 6.00% | ~39 |
 | Like Clockwork | 5.00% | ~33 |
 | Street Style | 5.00% | ~33 |
 | The Betrayer | 5.00% | ~33 |
@@ -25,6 +25,7 @@
 | The Wicked Twins | 5.00% | ~33 |
 | Golem Chaser | 5.00% | ~33 |
 | Fast Learner | 5.00% | ~33 |
+| Check Your Pulse | 5.00% | ~33 |
 | Immaculate Aim | 5.00% | ~33 |
 | The Brass Boss | 5.00% | ~33 |
 | The Family Fortune | 5.00% | ~33 |
@@ -32,7 +33,6 @@
 | Right On Time | 4.00% | ~26 |
 | Family Memories | 4.00% | ~26 |
 | Honest Mistake | 4.00% | ~26 |
-| Check Your Pulse | 4.00% | ~26 |
 | Ask Questions Later | 4.00% | ~26 |
 | Sartorialist | 3.00% | ~20 |
 | Whiz Kid | 3.00% | ~20 |
@@ -48,7 +48,7 @@
 | Fairgrounds Explorer | 2.00% | ~13 |
 | Golem Hunter | 2.00% | ~13 |
 | Rungs Was Right | 2.00% | ~13 |
-| Hexlock for Protection | 0.90% | ~6 |
+| Hexlock for Protection | 1.00% | ~7 |
 | Fitting In | 0.80% | ~5 |
 | Thinking Two Steps Ahead | 0.30% | ~2 |
 | Wunderkind | 0.30% | ~2 |
