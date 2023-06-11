@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -220,7 +220,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4547,
+  "EOS_Progressed": 4548,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 2,
@@ -3635,6 +3635,11 @@
       "Time": "2023-06-11T12:05:39.9872092+00:00",
       "NumProgressed": 4547,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T13:07:43.6039163+00:00",
+      "NumProgressed": 4548,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 44,
@@ -3678,7 +3683,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "14",
@@ -3692,9 +3697,9 @@
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1455
     },
     {
       "ID": "16",
@@ -3702,7 +3707,7 @@
       "Name": "God Emperor",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "17",
@@ -3774,7 +3779,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3410
+      "UsersEstimate": 3411
     },
     {
       "ID": "25",
@@ -3782,7 +3787,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3319
+      "UsersEstimate": 3320
     },
     {
       "ID": "26",
@@ -3806,7 +3811,7 @@
       "Name": "From Friends to Family",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3137
+      "UsersEstimate": 3138
     },
     {
       "ID": "29",
@@ -3814,7 +3819,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "3",
@@ -3830,7 +3835,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "31",
@@ -3918,7 +3923,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "41",
@@ -3997,13 +4002,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4547,
-      "Completed": 4547
+      "Progressed": 4548,
+      "Completed": 4548
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4547,
+      "Progressed": 4548,
       "Completed": 2
     }
   ],
@@ -4011,8 +4016,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-10T19:59:37.6294765+00:00",
-  "LastChanged_Achievements": "2023-06-11T12:05:39.9872085+00:00",
+  "LastChanged_Achievements": "2023-06-11T13:07:43.6039159+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-11T12:00:44.3330963+00:00",
-  "LastUpdate_Achievements": "2023-06-11T12:05:39.9872685+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:02:23.4742885+00:00",
+  "LastUpdate_Achievements": "2023-06-11T13:07:43.6039739+00:00"
 }

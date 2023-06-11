@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199,
+  "EOS_Progressed": 200,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.01,
+  "EOS_Completed_Percentage": 2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -226,6 +226,11 @@
       "Time": "2023-06-11T10:05:29.2010344+00:00",
       "NumProgressed": 199,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-11T13:09:00.2828591+00:00",
+      "NumProgressed": 200,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -355,9 +360,9 @@
       "ID": "ACH_SHARD_1",
       "SetID": "ao59f0i",
       "Name": "First Shard",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 159
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_SHARD_2",
@@ -420,7 +425,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 199,
+      "Progressed": 200,
       "Completed": 4
     }
   ],
@@ -428,8 +433,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-06-11T12:07:42.2685778+00:00",
+  "LastChanged_Achievements": "2023-06-11T13:09:00.2828587+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:31.445644+00:00",
-  "LastUpdate_Ratings": "2023-06-11T12:01:28.2083485+00:00",
-  "LastUpdate_Achievements": "2023-06-11T12:07:42.2685989+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:02:52.7977042+00:00",
+  "LastUpdate_Achievements": "2023-06-11T13:09:00.2829034+00:00"
 }

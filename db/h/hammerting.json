@@ -2,12 +2,12 @@
   "ID": "942b65a56ff448f6be529cd07b407bb0",
   "Name": "Hammerting",
   "ProductSlug": "hammerting",
-  "Ranking_Rating": 765,
+  "Ranking_Rating": 764,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-10-27T14:00:00+00:00",
@@ -133,6 +133,6 @@
   "FirstSeenRating": "2022-09-17T18:02:30.2695463+00:00",
   "LastChanged": "2023-05-10T01:55:28.5421043+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.6042094+00:00",
-  "LastUpdate_Ratings": "2023-06-11T11:59:18.6750643+00:00",
-  "LastUpdate_Achievements": "2023-06-11T12:05:19.2303901+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:01:28.337346+00:00",
+  "LastUpdate_Achievements": "2023-06-11T13:07:29.2579353+00:00"
 }

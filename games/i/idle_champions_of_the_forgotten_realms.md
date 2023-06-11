@@ -23,22 +23,24 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 0.50% | ~283 |
 | A Persistent Buzzing | 0.50% | ~452 |
 | Terror in the Dark | 0.50% | ~452 |
+| The Crumbling Temple | 0.50% | ~452 |
 | Pure Energy | 0.50% | ~452 |
 | Quick or Quack | 0.50% | ~283 |
 | Maddening | 0.40% | ~362 |
 | Owlbear Necessities | 0.40% | ~227 |
 | Best Thay Ever | 0.40% | ~227 |
 | Beast Mode | 0.40% | ~362 |
+| Low Initiative | 0.40% | ~362 |
 | A Mysterious Summons | 0.40% | ~362 |
 | Building Trust | 0.40% | ~362 |
 | Unearthed Evil | 0.40% | ~362 |
-| The Crumbling Temple | 0.40% | ~362 |
 | Useless Allies | 0.40% | ~362 |
 | Exploring Port Nyanzaru | 0.40% | ~362 |
 | Running of the Saurs | 0.40% | ~362 |
 | The Contagious Curse | 0.40% | ~362 |
 | Escort to Waterdeep | 0.40% | ~362 |
 | Waterdeep Detours | 0.40% | ~362 |
+| Tall Tales | 0.30% | ~170 |
 | Third Third Out | 0.30% | ~170 |
 | The Silken Swamp | 0.30% | ~271 |
 | Supply Run | 0.30% | ~271 |
@@ -57,7 +59,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.30% | ~170 |
 | Welcome to the Rock | 0.30% | ~170 |
 | The Forbidden City | 0.30% | ~271 |
-| Low Initiative | 0.30% | ~271 |
 | Street War | 0.30% | ~271 |
 | March of the Undead | 0.30% | ~271 |
 | No Time To Rest | 0.30% | ~271 |
@@ -85,7 +86,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Starving in the Jungle | 0.20% | ~181 |
 | Cold as Ice | 0.20% | ~113 |
 | Friends and Foes | 0.20% | ~113 |
-| Tall Tales | 0.20% | ~113 |
 | Nightmare Rats! | 0.20% | ~113 |
 | The Witchlight Carnival | 0.20% | ~113 |
 | A Monarch Among Us | 0.20% | ~113 |
@@ -117,6 +117,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hatchlings Underfoot | 0.20% | ~181 |
 | Don't Look Up! | 0.20% | ~181 |
 | Will of the Feywild | 0.20% | ~113 |
+| Will of the Frozen Feywild | 0.20% | ~113 |
 | The Roots of Loomlurch | 0.20% | ~113 |
 | The Lutes of Loomlurch | 0.20% | ~113 |
 | Best Laid Plans | 0.20% | ~113 |
@@ -321,7 +322,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Demon Lords of the Abyss | 0.10% | ~57 |
 | Speed Demons | 0.10% | ~57 |
 | All Damage, All The Time | 0.10% | ~57 |
-| Will of the Frozen Feywild | 0.10% | ~57 |
 | The Loots of Loomlurch | 0.10% | ~57 |
 | Pincushion Party | 0.10% | ~57 |
 | G. O. A. T. | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,421 (Ranked 64)  
+Progressed: 90,422 (Ranked 64)  
 Completed: 1,927 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 1,927 (2.13%) (Ranked 66)
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
-| 2023-06-11 | 90,421 | 1,927 |
+| 2023-06-11 | 90,422 | 1,927 |
 ## Awards
 Max (Diverse Characters): 4,928  (Ranked 64)  
 Sum: 30,075 (Ranked 37)  

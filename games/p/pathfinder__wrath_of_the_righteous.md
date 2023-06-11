@@ -6,17 +6,17 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 17.00% | ~1,659 |
-| A Spark | 12.00% | ~1,171 |
+| Devoured by Darkness | 17.00% | ~1,660 |
+| A Spark | 12.00% | ~1,172 |
 | Burning City | 11.00% | ~1,074 |
 | Defender's Heart | 10.00% | ~976 |
-| Banner over the Citadel | 9.00% | ~878 |
-| Mythic Choices | 9.00% | ~878 |
+| Banner over the Citadel | 9.00% | ~879 |
+| Mythic Choices | 9.00% | ~879 |
 | Queen's Gratitude | 8.00% | ~781 |
 | Fifth Crusade | 5.00% | ~488 |
-| Embrace of the Abyss | 4.00% | ~390 |
-| Path of the Angel | 4.00% | ~390 |
-| Demonic and Divine | 4.00% | ~390 |
+| Embrace of the Abyss | 4.00% | ~391 |
+| Path of the Angel | 4.00% | ~391 |
+| Demonic and Divine | 4.00% | ~391 |
 | Path of the Azata | 3.00% | ~293 |
 | Transformation | 3.00% | ~293 |
 | The Legacy | 3.00% | ~293 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,761 (Ranked 112)  
+Progressed: 9,764 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,18 +175,18 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 9,650 | 0 |
 | 2023-06-09 | 9,691 | 0 |
 | 2023-06-10 | 9,745 | 0 |
-| 2023-06-11 | 9,761 | 0 |
+| 2023-06-11 | 9,764 | 0 |
 ## Awards
 Max (Character Customization): 1,660  (Ranked 111)  
-Sum: 6,731 (Ranked 110)  
-Diff (max vs sum): 1  
+Sum: 6,733 (Ranked 109)  
+Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,660 |
 | This game is Extremely Fun | 636 |
 | This game is Highly Recommended | 616 |
 | This game has Amazing Characters | 614 |
-| This game has Diverse Characters | 599 |
+| This game has Diverse Characters | 601 |
 | This game has Amazing Storytelling | 595 |
 | This game has Quickly Understood Controls | 553 |
 | This game has Challenging Combat | 553 |
@@ -331,4 +331,4 @@ Diff (max vs sum): 1
 | 2023-06-08 | 4.76 | - | 1,656 | 6,720 |
 | 2023-06-09 | 4.76 | - | 1,658 | 6,722 |
 | 2023-06-10 | 4.76 | - | 1,658 | 6,729 |
-| 2023-06-11 | 4.76 | - | 1,660 | 6,731 |
+| 2023-06-11 | 4.76 | - | 1,660 | 6,733 |

@@ -2,7 +2,7 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 752,
+  "Ranking_Rating": 751,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 126,
@@ -356,7 +356,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5524,
+  "EOS_Progressed": 5525,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 1,
@@ -2426,6 +2426,11 @@
       "Time": "2023-06-11T12:04:49.2955291+00:00",
       "NumProgressed": 5524,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-11T13:07:08.5607359+00:00",
+      "NumProgressed": 5525,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -2731,9 +2736,9 @@
       "ID": "NC_Vickie",
       "SetID": "bmkn7o4",
       "Name": "Newcomer: Vickie",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 28
     },
     {
       "ID": "NoticeMe",
@@ -2988,21 +2993,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2563,
+      "Progressed": 2564,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5524,
+      "Progressed": 5525,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-06-11T12:04:49.2955284+00:00",
+  "LastChanged_Achievements": "2023-06-11T13:07:08.5607355+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:26.4905309+00:00",
-  "LastUpdate_Ratings": "2023-06-11T11:57:59.2542014+00:00",
-  "LastUpdate_Achievements": "2023-06-11T12:04:49.295635+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:00:38.5447389+00:00",
+  "LastUpdate_Achievements": "2023-06-11T13:07:08.5608196+00:00"
 }

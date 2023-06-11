@@ -4,10 +4,10 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 118,
   "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 110,
+  "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2718,10 +2718,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6731,
       "NumberOfAwardsMax": 1660
+    },
+    {
+      "Time": "2023-06-11T13:01:26.5815782+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6733,
+      "NumberOfAwardsMax": 1660
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6731,
+  "NumberOfAwards": 6733,
   "NumberOfAwardsMax": 1660,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2753,7 +2759,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 599
+      "Count": 601
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2792,9 +2798,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9761,
+  "EOS_Progressed": 9764,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6222,6 +6228,11 @@
       "Time": "2023-06-11T12:07:56.5962113+00:00",
       "NumProgressed": 9761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T13:09:11.7857099+00:00",
+      "NumProgressed": 9764,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6233,7 +6244,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "02_BurningCity",
@@ -6249,7 +6260,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "04_FithCrusade",
@@ -6265,7 +6276,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -6289,7 +6300,7 @@
       "Name": "Path of the Angel",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "09_PathOfDemon",
@@ -6369,7 +6380,7 @@
       "Name": "Mythic Choices",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "19_EqualToAroden",
@@ -6601,7 +6612,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "49_Flame",
@@ -6625,7 +6636,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -7160,21 +7171,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8543,
+      "Progressed": 8546,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9761,
+      "Progressed": 9764,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-11T07:59:00.2954497+00:00",
-  "LastChanged_Achievements": "2023-06-11T12:07:56.5962107+00:00",
+  "LastChanged": "2023-06-11T13:01:26.5815779+00:00",
+  "LastChanged_Achievements": "2023-06-11T13:09:11.7857095+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-11T11:59:15.9649594+00:00",
-  "LastUpdate_Achievements": "2023-06-11T12:07:56.5964005+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:01:26.581579+00:00",
+  "LastUpdate_Achievements": "2023-06-11T13:09:11.7858953+00:00"
 }

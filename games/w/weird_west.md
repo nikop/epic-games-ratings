@@ -30,8 +30,8 @@ Number of Ratings: 125  (23.09.2022)
 | Workers' Rights | 13.00% | ~212 |
 | Elusive Prey | 12.00% | ~195 |
 | Out on the Ebb Tide | 12.00% | ~195 |
+| Power Behind the Pulpit | 12.00% | ~195 |
 | Turning the Tables | 12.00% | ~195 |
-| Power Behind the Pulpit | 11.00% | ~179 |
 | Something Wicked This Way Comes… | 11.00% | ~179 |
 | There is Hope | 11.00% | ~179 |
 | Loyalty to the Pack | 9.00% | ~147 |

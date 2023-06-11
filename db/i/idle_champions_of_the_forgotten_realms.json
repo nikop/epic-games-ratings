@@ -4222,9 +4222,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90421,
+  "EOS_Progressed": 90422,
   "EOS_Completed": 1927,
-  "EOS_NewPlayers": 684,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9532,6 +9532,11 @@
       "Time": "2023-06-11T12:08:00.2301065+00:00",
       "NumProgressed": 90421,
       "NumCompleted": 1927
+    },
+    {
+      "Time": "2023-06-11T13:09:14.6582992+00:00",
+      "NumProgressed": 90422,
+      "NumCompleted": 1927
     }
   ],
   "TotalAchievements": 493,
@@ -9613,9 +9618,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 170
     },
     {
       "ID": "objective_completed_1051",
@@ -10069,9 +10074,9 @@
       "ID": "objective_completed_1134",
       "SetID": "415jc5c",
       "Name": "Will of the Frozen Feywild",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_completed_1137",
@@ -10725,9 +10730,9 @@
       "ID": "objective_completed_16",
       "SetID": "cc37lbc",
       "Name": "Low Initiative",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_completed_164",
@@ -11229,9 +11234,9 @@
       "ID": "objective_completed_35",
       "SetID": "cc37lbc",
       "Name": "The Crumbling Temple",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 452
     },
     {
       "ID": "objective_completed_36",
@@ -13486,21 +13491,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56695,
+      "Progressed": 56696,
       "Completed": 2785
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90421,
+      "Progressed": 90422,
       "Completed": 1927
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-10T22:57:45.4027598+00:00",
-  "LastChanged_Achievements": "2023-06-11T12:08:00.2301058+00:00",
+  "LastChanged_Achievements": "2023-06-11T13:09:14.6582985+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-11T11:58:55.9084238+00:00",
-  "LastUpdate_Achievements": "2023-06-11T12:08:00.2328813+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:01:13.6001654+00:00",
+  "LastUpdate_Achievements": "2023-06-11T13:09:14.6610999+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1278,9 +1278,9 @@
       "ID": "ACH_POWER_BEHIND_THE_PULPIT",
       "SetID": "8j30i9k",
       "Name": "Power Behind the Pulpit",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -1446,8 +1446,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-11T12:07:33.805135+00:00",
+  "LastChanged_Achievements": "2023-06-11T13:08:54.1437287+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:42.9337885+00:00",
-  "LastUpdate_Ratings": "2023-06-11T11:59:24.6866423+00:00",
-  "LastUpdate_Achievements": "2023-06-11T12:07:33.8051839+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:01:32.1831496+00:00",
+  "LastUpdate_Achievements": "2023-06-11T13:08:54.1437795+00:00"
 }

@@ -5,26 +5,26 @@ Rating: 3.82 (Ranked 926)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~14,868 |
-| No Half Measures | 88.00% | ~13,772 |
-| Personal Matter | 87.00% | ~13,616 |
-| But You Have Heard of Me | 72.00% | ~11,268 |
-| Double the Barrels, double the Fun | 55.00% | ~8,608 |
+| Eeligally Ambitious | 95.00% | ~14,869 |
+| No Half Measures | 88.00% | ~13,774 |
+| Personal Matter | 87.00% | ~13,617 |
+| But You Have Heard of Me | 72.00% | ~11,269 |
+| Double the Barrels, double the Fun | 55.00% | ~8,609 |
 | Pimp My Glide | 47.00% | ~7,356 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,416 |
-| House Party! | 33.00% | ~5,164 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,417 |
+| House Party! | 33.00% | ~5,165 |
 | Make It Rain | 23.00% | ~3,600 |
-| Curse of the Seven Seas | 21.00% | ~3,286 |
+| Curse of the Seven Seas | 21.00% | ~3,287 |
 | Head First | 15.00% | ~2,348 |
 | To the World's End | 12.00% | ~1,878 |
 | Table for Six | 11.00% | ~1,722 |
 | Sharing Is Caring | 10.00% | ~1,565 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,252 |
 | Morally Flexible | 6.00% | ~939 |
-| Fishing for Compliments | 5.00% | ~782 |
+| Fishing for Compliments | 5.00% | ~783 |
 | After All, Why Shouldn't I Keep It? | 2.00% | ~313 |
 | A True Dandy | 2.00% | ~313 |
-| A New Legend Awaits | 1.00% | ~156 |
+| A New Legend Awaits | 1.00% | ~157 |
 | Pirate King | 0.80% | ~125 |
 | Oooh, We're Half Way There | 0.70% | ~110 |
 | Devilishly Talented | 0.10% | ~16 |
@@ -32,7 +32,7 @@ Rating: 3.82 (Ranked 926)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,650 (Ranked 100)  
+Progressed: 15,652 (Ranked 100)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 15,585 | 0 |
 | 2023-06-09 | 15,604 | 0 |
 | 2023-06-10 | 15,633 | 0 |
-| 2023-06-11 | 15,650 | 0 |
+| 2023-06-11 | 15,652 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

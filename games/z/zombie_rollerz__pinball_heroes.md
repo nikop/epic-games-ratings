@@ -18,11 +18,11 @@
 | The Shield | 39.00% | ~39 |
 | Level Up!! | 38.00% | ~38 |
 | Kill-streak | 36.00% | ~36 |
-| The Bird | 29.00% | ~29 |
-| The Idol | 27.00% | ~27 |
+| The Bird | 30.00% | ~30 |
+| The Idol | 28.00% | ~28 |
 | Inferno Ruins | 27.00% | ~27 |
+| Topped up | 26.00% | ~26 |
 | The Ninja | 26.00% | ~26 |
-| Topped up | 25.00% | ~25 |
 | I'm Rich | 24.00% | ~24 |
 | Untouchable | 23.00% | ~23 |
 | The Slime | 21.00% | ~21 |
@@ -31,10 +31,10 @@
 | The Flower | 17.00% | ~17 |
 | Out of the Frying Pan... | 17.00% | ~17 |
 | The Blacksmith | 16.00% | ~16 |
-| The Ooze | 15.00% | ~15 |
+| The Ooze | 16.00% | ~16 |
+| Turquoise | 15.00% | ~15 |
 | The Assistant | 14.00% | ~14 |
 | Ember | 14.00% | ~14 |
-| Turquoise | 14.00% | ~14 |
 | The Steampunk | 12.00% | ~12 |
 | The Droid | 11.00% | ~11 |
 | Verse | 11.00% | ~11 |

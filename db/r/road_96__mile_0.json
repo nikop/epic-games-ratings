@@ -2,7 +2,7 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 234,
+  "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 106,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 281,
+  "EOS_Progressed": 282,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -694,6 +694,11 @@
       "Time": "2023-06-11T08:04:31.8881455+00:00",
       "NumProgressed": 281,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T13:07:03.6389751+00:00",
+      "NumProgressed": 282,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -777,7 +782,7 @@
       "Name": "Souvenirs",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "scoreminrankrp1",
@@ -785,7 +790,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "scoreminrankrp2",
@@ -801,7 +806,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "scoreminrankrv1",
@@ -824,7 +829,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 281,
+      "Progressed": 282,
       "Completed": 2
     }
   ],
@@ -832,8 +837,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-11T12:04:43.4831614+00:00",
+  "LastChanged_Achievements": "2023-06-11T13:07:03.6389742+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:06.7741113+00:00",
-  "LastUpdate_Ratings": "2023-06-11T11:59:52.9963086+00:00",
-  "LastUpdate_Achievements": "2023-06-11T12:04:43.4832072+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:01:49.7489417+00:00",
+  "LastUpdate_Achievements": "2023-06-11T13:07:03.6390104+00:00"
 }

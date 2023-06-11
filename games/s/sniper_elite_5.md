@@ -5,35 +5,35 @@ Rating: 4.51 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~762 |
-| Confirming Suspicions | 24.00% | ~631 |
-| The Kraken Wakes | 20.00% | ~526 |
-| It's Starting to Crack | 17.00% | ~447 |
-| Lord of War | 14.00% | ~368 |
-| Change the Channel | 14.00% | ~368 |
-| Resourceful | 13.00% | ~342 |
-| Taking it back | 12.00% | ~315 |
-| Target America | 11.00% | ~289 |
-| Organ Grinder | 10.00% | ~263 |
-| As Quiet as a Mouse | 10.00% | ~263 |
+| Meeting Resistance | 29.00% | ~764 |
+| Confirming Suspicions | 24.00% | ~632 |
+| The Kraken Wakes | 20.00% | ~527 |
+| It's Starting to Crack | 17.00% | ~448 |
+| Lord of War | 14.00% | ~369 |
+| Change the Channel | 14.00% | ~369 |
+| Resourceful | 13.00% | ~343 |
+| Taking it back | 12.00% | ~316 |
+| Target America | 11.00% | ~290 |
+| Organ Grinder | 10.00% | ~264 |
+| As Quiet as a Mouse | 10.00% | ~264 |
 | The Kraken Sleeps | 9.00% | ~237 |
-| Liberté | 8.00% | ~210 |
-| Enemy at the Gates | 8.00% | ~210 |
-| Just a Flesh Wound | 8.00% | ~210 |
-| Gunslinger | 8.00% | ~210 |
-| Sharpshooter | 8.00% | ~210 |
-| Explosive Efficiency | 8.00% | ~210 |
+| Liberté | 8.00% | ~211 |
+| Enemy at the Gates | 8.00% | ~211 |
+| Just a Flesh Wound | 8.00% | ~211 |
+| Gunslinger | 8.00% | ~211 |
+| Sharpshooter | 8.00% | ~211 |
+| Explosive Efficiency | 8.00% | ~211 |
 | Opposing Force | 7.00% | ~184 |
 | Die Nussknacker Sweet! | 6.00% | ~158 |
 | Der Geist | 6.00% | ~158 |
 | Close Quarters | 6.00% | ~158 |
 | Snake in the Grass | 6.00% | ~158 |
 | Brains of the Operation | 6.00% | ~158 |
-| Climbing the Ladder | 5.00% | ~131 |
-| No Stone Unturned | 5.00% | ~131 |
-| Fields of Glory | 5.00% | ~131 |
-| Skirmisher | 5.00% | ~131 |
-| Set Europe Ablaze | 5.00% | ~131 |
+| Climbing the Ladder | 5.00% | ~132 |
+| No Stone Unturned | 5.00% | ~132 |
+| Fields of Glory | 5.00% | ~132 |
+| Skirmisher | 5.00% | ~132 |
+| Set Europe Ablaze | 5.00% | ~132 |
 | Precision Is Key | 4.00% | ~105 |
 | Rigged to Blow | 3.00% | ~79 |
 | My Little Friend | 3.00% | ~79 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 529)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,629 (Ranked 146)  
+Progressed: 2,635 (Ranked 146)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
-| 2023-06-11 | 2,629 | 2 |
+| 2023-06-11 | 2,635 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

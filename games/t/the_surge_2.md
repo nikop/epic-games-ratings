@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 801)  
+Rating: 4.24 (Ranked 800)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,9 +39,9 @@ Rating: 4.24 (Ranked 801)
 | Triplets | 10.00% | ~175 |
 | A Little Banged Up | 8.00% | ~140 |
 | Denying Prophecy | 8.00% | ~140 |
+| Following In Their Footsteps | 8.00% | ~140 |
 | Defense in Depth | 8.00% | ~140 |
 | Reverse Engineering | 7.00% | ~123 |
-| Following In Their Footsteps | 7.00% | ~123 |
 | Turbo Booster | 6.00% | ~105 |
 | Squid Pro Quo | 6.00% | ~105 |
 | Reborn | 5.00% | ~88 |

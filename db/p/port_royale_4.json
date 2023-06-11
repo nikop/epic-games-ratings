@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -236,7 +236,7 @@
   "Tags": [],
   "EOS_Progressed": 638,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -984,9 +984,9 @@
       "ID": "ACH012",
       "SetID": "69nfp41",
       "Name": "3, 2, 1, mine",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH013",
@@ -1296,8 +1296,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-11T12:07:40.9496592+00:00",
+  "LastChanged_Achievements": "2023-06-11T13:08:59.3332915+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.6076867+00:00",
-  "LastUpdate_Ratings": "2023-06-11T11:59:27.7018021+00:00",
-  "LastUpdate_Achievements": "2023-06-11T12:07:40.9497086+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:01:33.5468255+00:00",
+  "LastUpdate_Achievements": "2023-06-11T13:08:59.3333447+00:00"
 }

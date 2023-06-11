@@ -628,9 +628,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6172,
+  "EOS_Progressed": 6173,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2538,6 +2538,11 @@
       "Time": "2023-06-11T12:03:36.318457+00:00",
       "NumProgressed": 6172,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-11T13:06:31.6271562+00:00",
+      "NumProgressed": 6173,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2613,7 +2618,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -2637,7 +2642,7 @@
       "Name": "Donatello",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -2685,7 +2690,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -2725,7 +2730,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -2891,9 +2896,9 @@
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
       "SetID": "akchbl3",
       "Name": "Veni Vidi Vici",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1296
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -2901,14 +2906,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3209
+      "UsersEstimate": 3210
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6172,
+      "Progressed": 6173,
       "Completed": 8
     }
   ],
@@ -2916,8 +2921,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-10T21:57:23.9166861+00:00",
-  "LastChanged_Achievements": "2023-06-11T12:03:36.3184562+00:00",
+  "LastChanged_Achievements": "2023-06-11T13:06:31.6271558+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-11T11:58:02.7142535+00:00",
-  "LastUpdate_Achievements": "2023-06-11T12:03:36.31852+00:00"
+  "LastUpdate_Ratings": "2023-06-11T13:00:40.3555266+00:00",
+  "LastUpdate_Achievements": "2023-06-11T13:06:31.6272024+00:00"
 }
