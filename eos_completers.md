@@ -30,8 +30,8 @@
 | 28 | [Scorn](games/s/scorn.md) | 6.78% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.15% |
+| 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.67% |
+| 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.10% |
@@ -98,9 +98,9 @@
 | 95 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 97 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 97 | [Lemon Cake](games/l/lemon_cake.md) | 0.79% |
-| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.75% |
-| 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
-| 99 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 99 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
+| 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
+| 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 102 | [Them and Us](games/t/them_and_us.md) | 0.74% |
 | 103 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.72% |
 | 103 | [Haven](games/h/haven.md) | 0.72% |
