@@ -842,9 +842,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7744,
+  "EOS_Progressed": 7745,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2662,6 +2662,11 @@
       "Time": "2023-06-11T03:27:47.498403+00:00",
       "NumProgressed": 7744,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-11T04:06:04.2529419+00:00",
+      "NumProgressed": 7745,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -2697,7 +2702,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4801
+      "UsersEstimate": 4802
     },
     {
       "ID": "DemonCastleRestoration",
@@ -2721,7 +2726,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -2753,7 +2758,7 @@
       "Name": "Go Home...",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "HeroSlayer",
@@ -2785,7 +2790,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "RookieWelcome",
@@ -2801,7 +2806,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4801
+      "UsersEstimate": 4802
     },
     {
       "ID": "SavedElderEnt_2",
@@ -2833,7 +2838,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7202
+      "UsersEstimate": 7203
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2864,15 +2869,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7744,
+      "Progressed": 7745,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-04T19:58:51.5017177+00:00",
-  "LastChanged_Achievements": "2023-06-11T03:27:47.498402+00:00",
+  "LastChanged_Achievements": "2023-06-11T04:06:04.2529415+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.8794336+00:00",
-  "LastUpdate_Ratings": "2023-06-11T03:20:37.1492287+00:00",
-  "LastUpdate_Achievements": "2023-06-11T03:27:47.4984372+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:59:05.6876204+00:00",
+  "LastUpdate_Achievements": "2023-06-11T04:06:04.2529616+00:00"
 }

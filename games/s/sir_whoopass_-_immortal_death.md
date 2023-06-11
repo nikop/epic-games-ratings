@@ -20,12 +20,12 @@
 | Make Love not War-Craft a Mistlefoe | 64.00% | ~46 |
 | Meat grinder | 61.00% | ~44 |
 | You're not going to blow me up! | 56.00% | ~40 |
-| Butcher | 51.00% | ~37 |
-| Mushroom soup of the day | 51.00% | ~37 |
-| Honk honk! | 50.00% | ~36 |
-| Spare Ribs | 50.00% | ~36 |
-| My pants squeak when I walk | 49.00% | ~35 |
-| Thats disgusting! | 47.00% | ~34 |
+| Butcher | 53.00% | ~38 |
+| Mushroom soup of the day | 53.00% | ~38 |
+| Honk honk! | 51.00% | ~37 |
+| Spare Ribs | 51.00% | ~37 |
+| My pants squeak when I walk | 50.00% | ~36 |
+| Thats disgusting! | 49.00% | ~35 |
 | Cockadoodledoo! | 47.00% | ~34 |
 | Surprise!! | 44.00% | ~32 |
 | Self assessed tax return | 42.00% | ~30 |
@@ -37,8 +37,8 @@
 | You are no match for me, Billy! | 35.00% | ~25 |
 | I'm going to get a concussion | 35.00% | ~25 |
 | You can't stop me, bro! | 35.00% | ~25 |
+| Meatballs, coming up! | 31.00% | ~22 |
 | A Megapint...? | 31.00% | ~22 |
-| Meatballs, coming up! | 29.00% | ~21 |
 | Another one bites the iron | 28.00% | ~20 |
 | Ripe Meat Off The Bone! | 25.00% | ~18 |
 | Hovering around | 24.00% | ~17 |
@@ -50,8 +50,8 @@
 | Master Butcher | 17.00% | ~12 |
 | Slimy... yet satisfying | 15.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~10 |
+| Yeehaw!!! | 14.00% | ~10 |
 | Deal with it | 14.00% | ~10 |
-| Yeehaw!!! | 13.00% | ~9 |
 | You're looking mozzare-hella good! | 11.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~8 |
 | Spoiler alert! | 10.00% | ~7 |

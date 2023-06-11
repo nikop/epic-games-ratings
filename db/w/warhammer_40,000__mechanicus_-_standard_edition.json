@@ -2,12 +2,12 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -447,7 +447,7 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 213719,
+  "EOS_Progressed": 213721,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 912,
   "EOS_NewCompleters": 0,
@@ -5762,6 +5762,11 @@
       "Time": "2023-06-11T03:25:08.7210915+00:00",
       "NumProgressed": 213719,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-11T04:03:49.1615652+00:00",
+      "NumProgressed": 213721,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 34,
@@ -6021,7 +6026,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25646
+      "UsersEstimate": 25647
     },
     {
       "ID": "ACH_BASE_8",
@@ -6044,7 +6049,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 213719,
+      "Progressed": 213721,
       "Completed": 3
     }
   ],
@@ -6052,8 +6057,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-10T23:58:37.9333422+00:00",
-  "LastChanged_Achievements": "2023-06-11T03:25:08.7210908+00:00",
+  "LastChanged_Achievements": "2023-06-11T04:03:49.1615646+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.9968565+00:00",
-  "LastUpdate_Ratings": "2023-06-11T03:20:01.7008976+00:00",
-  "LastUpdate_Achievements": "2023-06-11T03:25:08.7211603+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:58:37.7208718+00:00",
+  "LastUpdate_Achievements": "2023-06-11T04:03:49.161614+00:00"
 }

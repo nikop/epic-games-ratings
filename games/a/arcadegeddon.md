@@ -6,19 +6,19 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,530 |
-| Photogenic | 88.00% | ~6,315 |
+| Let's Get This Party Started | 91.00% | ~6,531 |
+| Photogenic | 88.00% | ~6,316 |
 | Surge Gauntlet Jockey | 85.00% | ~6,100 |
-| Plug It In | 84.00% | ~6,028 |
-| Adventure Time | 80.00% | ~5,741 |
+| Plug It In | 84.00% | ~6,029 |
+| Adventure Time | 80.00% | ~5,742 |
 | Playing With Power | 77.00% | ~5,526 |
 | Coup d'Etat | 59.00% | ~4,234 |
-| You're Fired | 58.00% | ~4,162 |
+| You're Fired | 58.00% | ~4,163 |
 | Get Furious | 56.00% | ~4,019 |
 | Gunplay And Cosplay | 55.00% | ~3,947 |
-| Hacks In Stacks | 54.00% | ~3,875 |
-| Meching Enemies | 49.00% | ~3,516 |
-| Ticket Toddler | 45.00% | ~3,229 |
+| Hacks In Stacks | 54.00% | ~3,876 |
+| Meching Enemies | 49.00% | ~3,517 |
+| Ticket Toddler | 45.00% | ~3,230 |
 | Booty Bashing | 43.00% | ~3,086 |
 | Here Comes a New Challenger | 38.00% | ~2,727 |
 | Field Medic | 37.00% | ~2,655 |
@@ -28,8 +28,8 @@ Number of Ratings: 801  (23.09.2022)
 | The Full Monty | 31.00% | ~2,225 |
 | Poppin Noggins | 25.00% | ~1,794 |
 | Clips and Crits | 22.00% | ~1,579 |
-| Grey Goo | 19.00% | ~1,363 |
-| Boss of Bosses | 15.00% | ~1,076 |
+| Grey Goo | 19.00% | ~1,364 |
+| Boss of Bosses | 15.00% | ~1,077 |
 | The Final Blow | 14.00% | ~1,005 |
 | Light My Fire | 13.00% | ~933 |
 | Seasoned Adventurer | 12.00% | ~861 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~36 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,176 (Ranked 117)  
+Progressed: 7,177 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 7,114 | 0 |
 | 2023-06-09 | 7,146 | 0 |
 | 2023-06-10 | 7,171 | 0 |
-| 2023-06-11 | 7,176 | 0 |
+| 2023-06-11 | 7,177 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 376)  
 Sum: 485 (Ranked 295)  

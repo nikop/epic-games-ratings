@@ -13,7 +13,7 @@
 | Clear as Water | 30.00% | ~12 |
 | Riddlesolver | 23.00% | ~9 |
 | Dungeon Mastery | 20.00% | ~8 |
-| Card Collector | 18.00% | ~7 |
+| Card Collector | 20.00% | ~8 |
 | The Steed | 15.00% | ~6 |
 | A Strange Proposition | 15.00% | ~6 |
 | The Bodyguard | 10.00% | ~4 |

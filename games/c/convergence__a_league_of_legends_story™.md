@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Cartographer | 7.00% | ~46 |
 | Time Heals All Wounds | 7.00% | ~46 |
 | The Steel Shadow | 6.00% | ~39 |
 | Treasure Trove | 6.00% | ~39 |
 | Rail Rat | 6.00% | ~39 |
 | Make Up For Lost Time | 6.00% | ~39 |
-| Cartographer | 6.00% | ~39 |
 | The Prince in Heels | 6.00% | ~39 |
 | Immaculate Aim | 6.00% | ~39 |
 | The Mysterious Stranger | 5.00% | ~33 |

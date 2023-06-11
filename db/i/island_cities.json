@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 313,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 15.97,
   "EosHistory": [
@@ -1447,9 +1447,9 @@
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "LEVEL_007",
@@ -1592,8 +1592,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-11T03:27:43.9188028+00:00",
+  "LastChanged_Achievements": "2023-06-11T04:06:01.6044746+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:14.620254+00:00",
-  "LastUpdate_Ratings": "2023-06-11T03:19:28.5271789+00:00",
-  "LastUpdate_Achievements": "2023-06-11T03:27:43.9188343+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:58:08.6442805+00:00",
+  "LastUpdate_Achievements": "2023-06-11T04:06:01.6044942+00:00"
 }

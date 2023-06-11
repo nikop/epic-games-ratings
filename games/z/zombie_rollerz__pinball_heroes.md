@@ -23,8 +23,8 @@
 | The Idol | 26.00% | ~26 |
 | The Ninja | 26.00% | ~26 |
 | Topped up | 25.00% | ~25 |
+| I'm Rich | 24.00% | ~24 |
 | Untouchable | 23.00% | ~23 |
-| I'm Rich | 23.00% | ~23 |
 | The Slime | 21.00% | ~21 |
 | 1 is all I need | 19.00% | ~19 |
 | The Giant | 19.00% | ~19 |

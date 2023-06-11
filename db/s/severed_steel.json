@@ -242,9 +242,9 @@
       "Count": 176
     }
   ],
-  "EOS_Progressed": 414430,
+  "EOS_Progressed": 414435,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 2758,
+  "EOS_NewPlayers": 2747,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5622,6 +5622,11 @@
       "Time": "2023-06-11T03:24:06.492565+00:00",
       "NumProgressed": 414430,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-06-11T04:03:04.3410348+00:00",
+      "NumProgressed": 414435,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 52,
@@ -5657,7 +5662,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 45587
+      "UsersEstimate": 45588
     },
     {
       "ID": "BIGUPS",
@@ -6048,7 +6053,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 414430,
+      "Progressed": 414435,
       "Completed": 33
     }
   ],
@@ -6056,8 +6061,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-06-06T18:59:44.6369603+00:00",
-  "LastChanged_Achievements": "2023-06-11T03:24:06.4925643+00:00",
+  "LastChanged_Achievements": "2023-06-11T04:03:04.3410339+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:56.3588144+00:00",
-  "LastUpdate_Ratings": "2023-06-11T03:21:20.3727363+00:00",
-  "LastUpdate_Achievements": "2023-06-11T03:24:06.4926537+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:59:42.3835763+00:00",
+  "LastUpdate_Achievements": "2023-06-11T04:03:04.3410969+00:00"
 }

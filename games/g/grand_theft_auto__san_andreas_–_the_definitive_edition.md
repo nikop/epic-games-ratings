@@ -5,15 +5,15 @@ Rating: 4.59 (Ranked 408)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,155 |
-| Pay 'n' Spray | 48.00% | ~4,893 |
-| All Dressed Up for San Fierro | 23.00% | ~2,345 |
-| The American Dream | 17.00% | ~1,733 |
-| School's Out | 16.00% | ~1,631 |
-| Smooth Moves | 15.00% | ~1,529 |
-| Today Was a Good Day | 13.00% | ~1,325 |
-| What happens in Las Venturas... | 12.00% | ~1,223 |
-| Horror of the Santa Maria | 9.00% | ~917 |
+| Getting Started | 80.00% | ~8,158 |
+| Pay 'n' Spray | 48.00% | ~4,895 |
+| All Dressed Up for San Fierro | 23.00% | ~2,346 |
+| The American Dream | 17.00% | ~1,734 |
+| School's Out | 16.00% | ~1,632 |
+| Smooth Moves | 15.00% | ~1,530 |
+| Today Was a Good Day | 13.00% | ~1,326 |
+| What happens in Las Venturas... | 12.00% | ~1,224 |
+| Horror of the Santa Maria | 9.00% | ~918 |
 | Liberty City State of Mind | 7.00% | ~714 |
 | With Extra Dip | 6.00% | ~612 |
 | The End of the Line | 6.00% | ~612 |
@@ -41,7 +41,7 @@ Rating: 4.59 (Ranked 408)
 | ...Here we go again | 0.20% | ~20 |
 | I Ain't No Buster | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,194 (Ranked 110)  
+Progressed: 10,198 (Ranked 110)  
 Completed: 17 (0.17%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 17 (0.17%) (Ranked 150)
 | 2023-06-08 | 9,960 | 17 |
 | 2023-06-09 | 10,052 | 17 |
 | 2023-06-10 | 10,174 | 17 |
-| 2023-06-11 | 10,194 | 17 |
+| 2023-06-11 | 10,198 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

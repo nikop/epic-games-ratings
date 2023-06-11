@@ -6,15 +6,15 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~38,667 |
-| INFUSED WITH LIGHT | 52.00% | ~30,010 |
-| FOXIN' AROUND | 28.00% | ~16,159 |
-| FETCH | 27.00% | ~15,582 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~38,668 |
+| INFUSED WITH LIGHT | 52.00% | ~30,011 |
+| FOXIN' AROUND | 28.00% | ~16,160 |
+| FETCH | 27.00% | ~15,583 |
 | BLOOMS OF LIGHT | 26.00% | ~15,005 |
 | BEST FRIENDS | 22.00% | ~12,697 |
 | AWAKEN | 21.00% | ~12,120 |
-| ERADICATE | 20.00% | ~11,542 |
-| SPIRIT BARK | 20.00% | ~11,542 |
+| ERADICATE | 20.00% | ~11,543 |
+| SPIRIT BARK | 20.00% | ~11,543 |
 | GARDEN OF LIGHT | 18.00% | ~10,388 |
 | SPIRIT FORM | 16.00% | ~9,234 |
 | UPROOTING DARKNESS | 15.00% | ~8,657 |
@@ -26,12 +26,12 @@ Number of Ratings: 1,175  (23.09.2022)
 | SPIRITED AWAY | 8.00% | ~4,617 |
 | MATCH MAKER | 7.00% | ~4,040 |
 | NORTHERN LIGHTS | 7.00% | ~4,040 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,308 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,309 |
 | ANCIENT HISTORY | 3.00% | ~1,731 |
 | NONE FORGOTTEN | 2.00% | ~1,154 |
 | KINDRED SPIRITS | 0.60% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,712 (Ranked 75)  
+Progressed: 57,713 (Ranked 75)  
 Completed: 289 (0.50%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 289 (0.50%) (Ranked 114)
 | 2023-06-08 | 57,381 | 286 |
 | 2023-06-09 | 57,528 | 289 |
 | 2023-06-10 | 57,693 | 289 |
-| 2023-06-11 | 57,712 | 289 |
+| 2023-06-11 | 57,713 | 289 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 466)  
 Sum: 93 (Ranked 405)  

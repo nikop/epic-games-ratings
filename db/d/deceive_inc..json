@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6729,
+  "EOS_Progressed": 6730,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4079,6 +4079,11 @@
       "Time": "2023-06-11T02:36:50.1438958+00:00",
       "NumProgressed": 6729,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T04:06:23.3753934+00:00",
+      "NumProgressed": 6730,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -4160,9 +4165,9 @@
       "ID": "0010",
       "SetID": "2n2feee",
       "Name": "Social of Solace",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 606
+      "UsersEstimate": 538
     },
     {
       "ID": "0011",
@@ -4178,7 +4183,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "0013",
@@ -4194,7 +4199,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "0015",
@@ -4226,7 +4231,7 @@
       "Name": "In It to Win It",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "0019",
@@ -4322,7 +4327,7 @@
       "Name": "For your Eyes only",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "0031",
@@ -4377,7 +4382,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6729,
+      "Progressed": 6730,
       "Completed": 0
     }
   ],
@@ -4385,8 +4390,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-10T20:59:27.172859+00:00",
-  "LastChanged_Achievements": "2023-06-11T03:28:10.2474167+00:00",
+  "LastChanged_Achievements": "2023-06-11T04:06:23.3753929+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:06.9075214+00:00",
-  "LastUpdate_Ratings": "2023-06-11T03:21:32.6117754+00:00",
-  "LastUpdate_Achievements": "2023-06-11T03:28:10.2474775+00:00"
+  "LastUpdate_Ratings": "2023-06-11T03:59:51.7266787+00:00",
+  "LastUpdate_Achievements": "2023-06-11T04:06:23.3754329+00:00"
 }
