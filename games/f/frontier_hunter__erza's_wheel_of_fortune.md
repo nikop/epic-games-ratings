@@ -14,13 +14,13 @@
 | Beginner Artificer | 80.00% | ~12 |
 | Flower Thief | 80.00% | ~12 |
 | Apostle of Flame | 73.00% | ~11 |
+| Giant Lizard Killer | 67.00% | ~10 |
 | Beginner Cook | 67.00% | ~10 |
 | Seal Breaker | 67.00% | ~10 |
 | Handyman | 67.00% | ~10 |
-| Giant Lizard Killer | 60.00% | ~9 |
+| Guardian | 60.00% | ~9 |
+| Nosebleeder | 60.00% | ~9 |
 | Weapon Boost | 60.00% | ~9 |
-| Guardian | 53.00% | ~8 |
-| Nosebleeder | 53.00% | ~8 |
 | Youth Magnet | 53.00% | ~8 |
 | Furious Scorpion Killer | 53.00% | ~8 |
 | Lethal Blade Mantis Killer | 53.00% | ~8 |

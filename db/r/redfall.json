@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1673,
+  "EOS_Progressed": 1674,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1821,6 +1821,11 @@
       "Time": "2023-06-11T05:03:52.2245389+00:00",
       "NumProgressed": 1673,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T09:03:08.1598664+00:00",
+      "NumProgressed": 1674,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1848,7 +1853,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "Achievement_004",
@@ -1880,7 +1885,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "Achievement_009",
@@ -1888,7 +1893,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "Achievement_010",
@@ -1896,7 +1901,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "Achievement_011",
@@ -1968,7 +1973,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "Achievement_020",
@@ -2056,7 +2061,7 @@
       "Name": "ICU",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "Achievement_031",
@@ -2080,7 +2085,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "Achievement_034",
@@ -2088,7 +2093,7 @@
       "Name": "Catch and Release",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "Achievement_035",
@@ -2359,7 +2364,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1673,
+      "Progressed": 1674,
       "Completed": 0
     }
   ],
@@ -2367,8 +2372,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-05T19:58:09.7958278+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:03:49.280466+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:03:08.1598658+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:01.2776264+00:00",
-  "LastUpdate_Ratings": "2023-06-11T07:58:24.1046966+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:03:49.2805461+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:57:36.9317233+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:03:08.1599237+00:00"
 }

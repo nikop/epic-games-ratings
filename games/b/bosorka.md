@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Path of purity | 82.00% | ~67 |
 | Witch's duty | 59.00% | ~48 |
-| A good start | 55.00% | ~45 |
+| A good start | 56.00% | ~46 |
 | Runes collector | 54.00% | ~44 |
 | First time, yes? | 51.00% | ~42 |
 | Skilled rider | 48.00% | ~39 |

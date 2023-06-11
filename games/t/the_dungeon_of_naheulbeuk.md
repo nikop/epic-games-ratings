@@ -8,7 +8,7 @@ Number of Ratings: 118  (23.09.2022)
 | ---- | ---------- | ----- |
 | Alt+F4 | 100.00% | ~62 |
 | Where's that freaking Dwarf? | 97.00% | ~60 |
-| Sock! SOCK! | 82.00% | ~51 |
+| Sock! SOCK! | 84.00% | ~52 |
 | Fireproof Wizardess | 68.00% | ~42 |
 | Livin' in a dwarven paradise | 66.00% | ~41 |
 | Déjà vu | 63.00% | ~39 |
@@ -50,11 +50,11 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 16.00% | ~10 |
 | It's been a hard day's night | 15.00% | ~9 |
 | An old poacher makes the best gamekeeper | 11.00% | ~7 |
+| Egghead | 10.00% | ~6 |
 | Super-Ultra-Lydian | 10.00% | ~6 |
 | Lëgal Legend | 10.00% | ~6 |
 | Lust and Debauchery | 10.00% | ~6 |
 | Holistic Adventuring Party | 8.00% | ~5 |
-| Egghead | 8.00% | ~5 |
 | Free customer service | 8.00% | ~5 |
 | We come in peace | 8.00% | ~5 |
 | Elite Adventurers | 6.00% | ~4 |

@@ -4,7 +4,7 @@
   "ProductSlug": "godfall",
   "Ranking_Rating": 887,
   "Ranking_Popularity": 185,
-  "Ranking_PopularitySum": 248,
+  "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 326,
@@ -961,10 +961,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 829,
       "NumberOfAwardsMax": 517
+    },
+    {
+      "Time": "2023-06-11T08:59:50.4940681+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 830,
+      "NumberOfAwardsMax": 517
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 829,
+  "NumberOfAwards": 830,
   "NumberOfAwardsMax": 517,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1002,7 +1008,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1040,8 +1046,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2023-06-11T00:00:49.8292319+00:00",
+  "LastChanged": "2023-06-11T08:59:50.494068+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:57.6571536+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:01:37.1060227+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:06:28.3632262+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:59:50.4940684+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:04:54.9704058+00:00"
 }

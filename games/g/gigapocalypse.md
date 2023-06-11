@@ -16,7 +16,7 @@
 | Quite A Snack | 57.00% | ~84 |
 | Overwhelming Power | 53.00% | ~78 |
 | Impenetrable Skin | 51.00% | ~75 |
-| Chomp Chomp! | 41.00% | ~61 |
+| Chomp Chomp! | 42.00% | ~62 |
 | Supreme Power | 40.00% | ~59 |
 | Glorious Battle | 40.00% | ~59 |
 | The Duelist | 39.00% | ~58 |
@@ -29,8 +29,8 @@
 | Happy Little Home | 29.00% | ~43 |
 | Final Evolution | 29.00% | ~43 |
 | You Shall Not Pass | 28.00% | ~41 |
+| Undying Skin | 28.00% | ~41 |
 | Fight Me! | 28.00% | ~41 |
-| Undying Skin | 27.00% | ~40 |
 | Mommy's Very Angry | 26.00% | ~38 |
 | Animal Lover | 26.00% | ~38 |
 | Supremacy | 26.00% | ~38 |

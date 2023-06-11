@@ -6,41 +6,41 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~36,327 |
-| Worth it | 63.00% | ~29,722 |
-| Eagle Eye | 55.00% | ~25,948 |
-| Corpseman I | 40.00% | ~18,871 |
-| Blast fishing | 38.00% | ~17,928 |
-| Not alone | 32.00% | ~15,097 |
-| Headhunter I | 27.00% | ~12,738 |
-| Manual Labour I | 25.00% | ~11,794 |
-| Developers, Developers, Developers | 24.00% | ~11,323 |
-| Basic Training | 24.00% | ~11,323 |
-| Furchtlos und Treu | 13.00% | ~6,133 |
-| Gott Mit Uns | 12.00% | ~5,661 |
-| This We'll Defend! | 9.00% | ~4,246 |
-| Anker wirf! | 9.00% | ~4,246 |
-| Providentiea Memor | 9.00% | ~4,246 |
-| For King and Country | 9.00% | ~4,246 |
-| Battle hardened | 8.00% | ~3,774 |
-| Semper Fidelis! | 7.00% | ~3,302 |
-| Honneur et Patrie | 7.00% | ~3,302 |
+| Setting an example | 77.00% | ~36,335 |
+| Worth it | 63.00% | ~29,728 |
+| Eagle Eye | 55.00% | ~25,953 |
+| Corpseman I | 40.00% | ~18,875 |
+| Blast fishing | 38.00% | ~17,931 |
+| Not alone | 32.00% | ~15,100 |
+| Headhunter I | 27.00% | ~12,741 |
+| Manual Labour I | 25.00% | ~11,797 |
+| Developers, Developers, Developers | 24.00% | ~11,325 |
+| Basic Training | 24.00% | ~11,325 |
+| Furchtlos und Treu | 13.00% | ~6,134 |
+| Gott Mit Uns | 12.00% | ~5,663 |
+| This We'll Defend! | 9.00% | ~4,247 |
+| Anker wirf! | 9.00% | ~4,247 |
+| Providentiea Memor | 9.00% | ~4,247 |
+| For King and Country | 9.00% | ~4,247 |
+| Battle hardened | 8.00% | ~3,775 |
+| Semper Fidelis! | 7.00% | ~3,303 |
+| Honneur et Patrie | 7.00% | ~3,303 |
 | In Treue Fest | 5.00% | ~2,359 |
 | Voor De Koning | 5.00% | ~2,359 |
 | Extreme Headhunter | 5.00% | ~2,359 |
-| Advance Australia | 4.00% | ~1,887 |
-| We Stand on Guard | 4.00% | ~1,887 |
-| Sidi Brahim | 4.00% | ~1,887 |
-| War is better with friends I | 4.00% | ~1,887 |
-| Let them, come to us | 4.00% | ~1,887 |
-| Corpseman II | 4.00% | ~1,887 |
-| Manual Labour II | 4.00% | ~1,887 |
-| Offense is the best defence | 3.00% | ~1,415 |
-| There is no I in team | 3.00% | ~1,415 |
-| Veteran | 3.00% | ~1,415 |
-| In My Defens God Me Defend | 3.00% | ~1,415 |
-| Silver x100 | 3.00% | ~1,415 |
-| Impavidum Ferient Bella! | 3.00% | ~1,415 |
+| Advance Australia | 4.00% | ~1,888 |
+| We Stand on Guard | 4.00% | ~1,888 |
+| Sidi Brahim | 4.00% | ~1,888 |
+| War is better with friends I | 4.00% | ~1,888 |
+| Let them, come to us | 4.00% | ~1,888 |
+| Corpseman II | 4.00% | ~1,888 |
+| Manual Labour II | 4.00% | ~1,888 |
+| Offense is the best defence | 3.00% | ~1,416 |
+| There is no I in team | 3.00% | ~1,416 |
+| Veteran | 3.00% | ~1,416 |
+| In My Defens God Me Defend | 3.00% | ~1,416 |
+| Silver x100 | 3.00% | ~1,416 |
+| Impavidum Ferient Bella! | 3.00% | ~1,416 |
 | Bronze x100 | 2.00% | ~944 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~944 |
 | Gold x100 | 1.00% | ~472 |
@@ -51,7 +51,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Do you even die? | 1.00% | ~472 |
 | Headhunter II | 1.00% | ~472 |
 | Corpseman III | 1.00% | ~472 |
-| Elite Player | 0.80% | ~377 |
+| Elite Player | 0.80% | ~378 |
 | War is better with friends II | 0.30% | ~142 |
 | Manual Labour III | 0.30% | ~142 |
 | Buddy | 0.30% | ~142 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~47 |
 | Blood Brother | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,178 (Ranked 81)  
+Progressed: 47,188 (Ranked 81)  
 Completed: 4 (0.01%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,10 +118,10 @@ Completed: 4 (0.01%) (Ranked 204)
 | 2023-06-08 | 46,873 | 3 |
 | 2023-06-09 | 47,009 | 4 |
 | 2023-06-10 | 47,141 | 4 |
-| 2023-06-11 | 47,178 | 4 |
+| 2023-06-11 | 47,188 | 4 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 337)  
-Sum: 740 (Ranked 257)  
+Sum: 742 (Ranked 257)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
@@ -132,9 +132,9 @@ Diff (max vs sum): 80
 | This game has Quickly Understood Controls | 82 |
 | This game is Educational | 76 |
 | This game is Relaxing | 73 |
-| This game has Competitive Players | 69 |
+| This game has Competitive Players | 70 |
+| This game has Realistic Visuals | 67 |
 | This game has Amazing Characters | 66 |
-| This game has Realistic Visuals | 66 |
 | This game has a Competitive Community | 63 |
 | This game has Amazing Storytelling | 57 |
 | This game has Challenging Combat | 55 |
@@ -247,3 +247,4 @@ Diff (max vs sum): 80
 | 2023-05-28 | 4.53 | - | 93 | 738 |
 | 2023-05-31 | 4.53 | - | 93 | 739 |
 | 2023-06-06 | 4.53 | - | 93 | 740 |
+| 2023-06-11 | 4.53 | - | 93 | 742 |

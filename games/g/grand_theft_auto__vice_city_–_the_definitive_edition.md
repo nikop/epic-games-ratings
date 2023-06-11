@@ -6,7 +6,7 @@ Rating: 4.61 (Ranked 359)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 43.00% | ~3,529 |
-| Greasy Palms | 39.00% | ~3,201 |
+| Greasy Palms | 40.00% | ~3,283 |
 | South American Connection | 23.00% | ~1,888 |
 | Life of the Party | 18.00% | ~1,477 |
 | Big Heat from Little Havana | 13.00% | ~1,067 |

@@ -5,18 +5,18 @@ Rating: 4.51 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~757 |
-| Confirming Suspicions | 24.00% | ~626 |
-| The Kraken Wakes | 20.00% | ~522 |
-| It's Starting to Crack | 17.00% | ~444 |
-| Lord of War | 14.00% | ~365 |
-| Change the Channel | 14.00% | ~365 |
-| Resourceful | 13.00% | ~339 |
-| Taking it back | 12.00% | ~313 |
-| Organ Grinder | 10.00% | ~261 |
-| As Quiet as a Mouse | 10.00% | ~261 |
-| Target America | 10.00% | ~261 |
-| The Kraken Sleeps | 9.00% | ~235 |
+| Meeting Resistance | 29.00% | ~759 |
+| Confirming Suspicions | 24.00% | ~628 |
+| The Kraken Wakes | 20.00% | ~523 |
+| It's Starting to Crack | 17.00% | ~445 |
+| Lord of War | 14.00% | ~366 |
+| Change the Channel | 14.00% | ~366 |
+| Resourceful | 13.00% | ~340 |
+| Taking it back | 12.00% | ~314 |
+| Organ Grinder | 10.00% | ~262 |
+| As Quiet as a Mouse | 10.00% | ~262 |
+| Target America | 10.00% | ~262 |
+| The Kraken Sleeps | 9.00% | ~236 |
 | Liberté | 8.00% | ~209 |
 | Enemy at the Gates | 8.00% | ~209 |
 | Just a Flesh Wound | 8.00% | ~209 |
@@ -29,13 +29,13 @@ Rating: 4.51 (Ranked 529)
 | Close Quarters | 6.00% | ~157 |
 | Snake in the Grass | 6.00% | ~157 |
 | Brains of the Operation | 6.00% | ~157 |
-| Climbing the Ladder | 5.00% | ~130 |
-| No Stone Unturned | 5.00% | ~130 |
-| Fields of Glory | 5.00% | ~130 |
-| Skirmisher | 5.00% | ~130 |
-| Set Europe Ablaze | 5.00% | ~130 |
-| Precision Is Key | 4.00% | ~104 |
-| Rigged to Blow | 3.00% | ~78 |
+| Climbing the Ladder | 5.00% | ~131 |
+| No Stone Unturned | 5.00% | ~131 |
+| Fields of Glory | 5.00% | ~131 |
+| Skirmisher | 5.00% | ~131 |
+| Set Europe Ablaze | 5.00% | ~131 |
+| Precision Is Key | 4.00% | ~105 |
+| Rigged to Blow | 3.00% | ~79 |
 | The Long Game | 2.00% | ~52 |
 | My Little Friend | 2.00% | ~52 |
 | It'll Buff Right Out | 2.00% | ~52 |
@@ -47,8 +47,8 @@ Rating: 4.51 (Ranked 529)
 | Herr Today, Gone Tomorrow | 1.00% | ~26 |
 | Operation Foxley | 1.00% | ~26 |
 | Ghost of Falaise | 0.90% | ~23 |
-| Last Resort | 0.80% | ~20 |
-| Siegebreaker | 0.80% | ~20 |
+| Last Resort | 0.80% | ~21 |
+| Siegebreaker | 0.80% | ~21 |
 | Burn after reading | 0.70% | ~18 |
 | From Paris with Love | 0.60% | ~16 |
 | Souvenir hunter | 0.60% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 529)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,610 (Ranked 146)  
+Progressed: 2,617 (Ranked 146)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
-| 2023-06-11 | 2,610 | 2 |
+| 2023-06-11 | 2,617 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

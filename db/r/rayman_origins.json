@@ -3,8 +3,8 @@
   "Name": "Rayman Origins",
   "ProductSlug": "rayman-origins",
   "Ranking_Rating": 58,
-  "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 485,
+  "Ranking_Popularity": 477,
+  "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 326,
@@ -226,18 +226,24 @@
       "Rating": 4.83,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-06-11T08:58:53.2810888+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
-  "NumberOfAwardsMax": 21,
+  "NumberOfAwards": 22,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -251,8 +257,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:19.1614924+00:00",
-  "LastChanged": "2023-06-02T21:04:04.6627061+00:00",
+  "LastChanged": "2023-06-11T08:58:53.2810887+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:42.0838792+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:00:14.8969626+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:03:47.7846901+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:58:53.2810891+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:03:07.0119941+00:00"
 }

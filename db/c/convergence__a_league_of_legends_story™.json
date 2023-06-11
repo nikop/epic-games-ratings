@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1212,9 +1212,9 @@
       "ID": "ChestCompletion1",
       "SetID": "a9e499d",
       "Name": "Treasure Trove",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 39
+      "UsersEstimate": 46
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1619,8 +1619,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:06:26.5511751+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:04:53.7484589+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:00:22.7479757+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:06:26.551234+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:58:58.4864786+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:04:53.7485011+00:00"
 }

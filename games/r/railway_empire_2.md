@@ -35,9 +35,9 @@ Rating: 4.36 (Ranked 719)
 | General Manager | 21.00% | ~230 |
 | Country Life | 21.00% | ~230 |
 | Hostile Takeover | 21.00% | ~230 |
-| Trailblazer | 17.00% | ~186 |
+| Trailblazer | 18.00% | ~197 |
 | Breaking Ground | 16.00% | ~175 |
-| Traffic Jam | 14.00% | ~153 |
+| Traffic Jam | 15.00% | ~164 |
 | Assimilated | 14.00% | ~153 |
 | Locusts | 14.00% | ~153 |
 | Traffic Junction | 14.00% | ~153 |

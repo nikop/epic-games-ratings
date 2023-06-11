@@ -29,11 +29,11 @@ Number of Ratings: 20  (23.09.2022)
 | Iron Man | 15.00% | ~47 |
 | For the Club! | 15.00% | ~47 |
 | Practical Palaeontology | 15.00% | ~47 |
+| The Director is Dead | 14.00% | ~44 |
 | Shortening of the Way | 14.00% | ~44 |
 | A Gentle Beast | 14.00% | ~44 |
 | Dapper | 14.00% | ~44 |
 | The New Director | 13.00% | ~41 |
-| The Director is Dead | 13.00% | ~41 |
 | Plays Well With Others | 13.00% | ~41 |
 | Adventurer | 12.00% | ~38 |
 | Discovery | 12.00% | ~38 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 313 (Ranked 227)  
+Progressed: 313 (Ranked 228)  
 Completed: 1 (0.32%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |

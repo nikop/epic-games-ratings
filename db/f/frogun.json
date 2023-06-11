@@ -4,7 +4,7 @@
   "ProductSlug": "frogun-9cf69e",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 203,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.49,
+  "EOS_Completed_Percentage": 1.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:55.639606+00:00",
@@ -82,6 +82,11 @@
       "Time": "2023-06-10T19:05:00.2236598+00:00",
       "NumProgressed": 202,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-11T09:04:05.873839+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 31,
@@ -93,7 +98,7 @@
       "Name": "Coin collector",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Achievement_Beelzebub",
@@ -109,7 +114,7 @@
       "Name": "Treasure hunter",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Achievement_Hexy",
@@ -125,15 +130,15 @@
       "Name": "Calory burner",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement_NoDeaths",
       "SetID": "cn6a29l",
       "Name": "Survivalist",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 166
     },
     {
       "ID": "Achievement_Notes",
@@ -141,7 +146,7 @@
       "Name": "Historian",
       "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Achievement_Prickly",
@@ -245,7 +250,7 @@
       "Name": "Floater",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Achievement_hat",
@@ -269,7 +274,7 @@
       "Name": "Pragmatic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Achievement_hubworld",
@@ -340,7 +345,7 @@
     {
       "ID": "cn6a29l",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 203,
       "Completed": 3
     }
   ],
@@ -348,8 +353,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:05:18.89555+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:04:05.8738385+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:13.4120635+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:00:49.4882967+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:05:18.8955748+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:59:17.5581693+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:04:05.8738584+00:00"
 }

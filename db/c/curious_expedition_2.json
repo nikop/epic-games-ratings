@@ -5,9 +5,9 @@
   "Ranking_Rating": 194,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
-  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "ach-ascension-die",
       "SetID": "17ih7ma",
       "Name": "The Director is Dead",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -677,8 +677,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:07:28.730876+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:05:40.9878934+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.3347821+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:01:52.1856745+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:07:28.730937+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:59:59.2260736+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:05:40.9879343+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.24 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,400 |
-| Don't I Know You...? | 76.00% | ~1,330 |
+| Rigged And Ready | 80.00% | ~1,401 |
+| Don't I Know You...? | 76.00% | ~1,331 |
 | Jailbreak | 65.00% | ~1,138 |
 | Suited and Booted | 38.00% | ~665 |
 | HEADSHOT! | 37.00% | ~648 |
-| Sleeping With The Fishes | 35.00% | ~612 |
+| Sleeping With The Fishes | 35.00% | ~613 |
 | Overheated | 30.00% | ~525 |
 | High Performance | 30.00% | ~525 |
 | Powered Up | 28.00% | ~490 |
@@ -20,13 +20,13 @@ Rating: 4.24 (Ranked 801)
 | It's a Trap | 22.00% | ~385 |
 | True Survivor | 21.00% | ~368 |
 | Shocking | 20.00% | ~350 |
-| Court Martial | 19.00% | ~332 |
-| Offensive Defense | 19.00% | ~332 |
-| Unforeseeable Consequences | 19.00% | ~332 |
+| Court Martial | 19.00% | ~333 |
+| Offensive Defense | 19.00% | ~333 |
+| Unforeseeable Consequences | 19.00% | ~333 |
 | Dead Again | 18.00% | ~315 |
 | Clean Cut | 18.00% | ~315 |
 | Full Arsenal | 17.00% | ~298 |
-| Can't Trust Banks | 15.00% | ~262 |
+| Can't Trust Banks | 15.00% | ~263 |
 | Mommy Dearest | 13.00% | ~228 |
 | Bad Dog | 13.00% | ~228 |
 | Where It All Began | 13.00% | ~228 |
@@ -34,12 +34,12 @@ Rating: 4.24 (Ranked 801)
 | What A Catchy Song | 13.00% | ~228 |
 | Marked For Success | 12.00% | ~210 |
 | Sorry, Didn't See You There | 12.00% | ~210 |
-| Corrupted Beauty | 11.00% | ~192 |
+| Corrupted Beauty | 11.00% | ~193 |
 | Stimulating The Local Economy | 10.00% | ~175 |
 | Triplets | 10.00% | ~175 |
+| Defense in Depth | 9.00% | ~158 |
+| A Little Banged Up | 8.00% | ~140 |
 | Denying Prophecy | 8.00% | ~140 |
-| Defense in Depth | 8.00% | ~140 |
-| A Little Banged Up | 7.00% | ~123 |
 | Reverse Engineering | 7.00% | ~123 |
 | Following In Their Footsteps | 7.00% | ~123 |
 | Turbo Booster | 6.00% | ~105 |
@@ -53,7 +53,7 @@ Rating: 4.24 (Ranked 801)
 | Geronimo! | 4.00% | ~70 |
 | Homewrecker | 4.00% | ~70 |
 | Plank of Wood | 4.00% | ~70 |
-| Gotta Craft 'em All | 3.00% | ~52 |
+| Gotta Craft 'em All | 3.00% | ~53 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~35 |
 | Box Office Smash | 2.00% | ~35 |
 | Going Postal | 2.00% | ~35 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 801)
 | Three Birds With One Stone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,750 (Ranked 155)  
+Progressed: 1,751 (Ranked 155)  
 Completed: 10 (0.57%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 10 (0.57%) (Ranked 111)
 | 2023-06-08 | 1,733 | 10 |
 | 2023-06-09 | 1,739 | 10 |
 | 2023-06-10 | 1,748 | 10 |
-| 2023-06-11 | 1,750 | 10 |
+| 2023-06-11 | 1,751 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

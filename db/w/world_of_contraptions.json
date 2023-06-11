@@ -2,7 +2,7 @@
   "ID": "494a9b22e0ce449aa1a362ba9dce9ba5",
   "Name": "World of Contraptions",
   "ProductSlug": "world-of-contraptions-6dbc07",
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 106,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -421,6 +421,11 @@
       "Time": "2023-06-11T02:36:25.2682859+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T09:05:12.3164045+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -654,9 +659,9 @@
       "ID": "LEVEL_MEDIUM",
       "SetID": "aemieak",
       "Name": "First medium level",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 8
     },
     {
       "ID": "TUTORIAL_FIRST",
@@ -664,21 +669,21 @@
       "Name": "Starting to take notes",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:06:52.5369541+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:05:12.316404+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:26.8919263+00:00",
-  "LastUpdate_Ratings": "2023-06-11T07:58:51.9475218+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:06:52.5369963+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:57:56.5161768+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:05:12.3164227+00:00"
 }

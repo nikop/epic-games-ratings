@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Treasure Trove | 7.00% | ~46 |
 | Cartographer | 7.00% | ~46 |
 | Time Heals All Wounds | 7.00% | ~46 |
 | The Steel Shadow | 6.00% | ~39 |
-| Treasure Trove | 6.00% | ~39 |
 | The Mysterious Stranger | 6.00% | ~39 |
 | Rail Rat | 6.00% | ~39 |
 | Make Up For Lost Time | 6.00% | ~39 |

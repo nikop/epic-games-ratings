@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,825 |
-| That's a Grand Army | 8.00% | ~4,289 |
-| That is mine! | 8.00% | ~4,289 |
-| Victorious! | 8.00% | ~4,289 |
-| Brothers in Arms | 6.00% | ~3,217 |
-| That's a Grand Navy | 6.00% | ~3,217 |
-| Seriously?! | 6.00% | ~3,217 |
-| For the Glory | 5.00% | ~2,681 |
-| Cold War | 4.00% | ~2,144 |
-| True Catholic | 4.00% | ~2,144 |
-| Defender of the Faith | 3.00% | ~1,608 |
-| It's all about the money | 3.00% | ~1,608 |
-| Respected | 3.00% | ~1,608 |
-| Truly Divine Ruler | 3.00% | ~1,608 |
-| Agressive Expander | 2.00% | ~1,072 |
-| Blockader | 2.00% | ~1,072 |
-| Combined Arms | 2.00% | ~1,072 |
-| Double the Love | 2.00% | ~1,072 |
-| Gentle Persuasion | 2.00% | ~1,072 |
-| It's all about luck | 2.00% | ~1,072 |
-| My armies are invincible! | 2.00% | ~1,072 |
-| Queen of Conquest | 2.00% | ~1,072 |
-| Royal Authority | 2.00% | ~1,072 |
-| The Princess is in this Castle | 2.00% | ~1,072 |
-| Total Control | 2.00% | ~1,072 |
+| Until death do us apart | 9.00% | ~4,827 |
+| That's a Grand Army | 8.00% | ~4,291 |
+| That is mine! | 8.00% | ~4,291 |
+| Victorious! | 8.00% | ~4,291 |
+| Brothers in Arms | 6.00% | ~3,218 |
+| That's a Grand Navy | 6.00% | ~3,218 |
+| Seriously?! | 6.00% | ~3,218 |
+| For the Glory | 5.00% | ~2,682 |
+| Cold War | 4.00% | ~2,145 |
+| True Catholic | 4.00% | ~2,145 |
+| Defender of the Faith | 3.00% | ~1,609 |
+| It's all about the money | 3.00% | ~1,609 |
+| Respected | 3.00% | ~1,609 |
+| Truly Divine Ruler | 3.00% | ~1,609 |
+| Agressive Expander | 2.00% | ~1,073 |
+| Blockader | 2.00% | ~1,073 |
+| Combined Arms | 2.00% | ~1,073 |
+| Double the Love | 2.00% | ~1,073 |
+| Gentle Persuasion | 2.00% | ~1,073 |
+| It's all about luck | 2.00% | ~1,073 |
+| My armies are invincible! | 2.00% | ~1,073 |
+| Queen of Conquest | 2.00% | ~1,073 |
+| Royal Authority | 2.00% | ~1,073 |
+| The Princess is in this Castle | 2.00% | ~1,073 |
+| Total Control | 2.00% | ~1,073 |
 | All That's Thine Shall Be Mine | 1.00% | ~536 |
 | Azur semé de lis or | 1.00% | ~536 |
 | Bright Spark | 1.00% | ~536 |
@@ -56,19 +56,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.50% | ~268 |
 | Trophy Hunter | 0.50% | ~268 |
 | Voting Streak | 0.50% | ~268 |
-| Absolutely | 0.40% | ~214 |
-| All Your Trade Are Belong to Us | 0.40% | ~214 |
-| Bleed Them Dry | 0.40% | ~214 |
-| Dude, Where's my Boat? | 0.40% | ~214 |
-| Four For Trade | 0.40% | ~214 |
-| Global Hegemony | 0.40% | ~214 |
-| Grand Coalition | 0.40% | ~214 |
-| In the Name of the Father | 0.40% | ~214 |
-| Just a Little Patience | 0.40% | ~214 |
-| Live Long and Prosper | 0.40% | ~214 |
-| One Night in Paris | 0.40% | ~214 |
-| Tear Down This Wall | 0.40% | ~214 |
-| The Continuation of Diplomacy | 0.40% | ~214 |
+| Absolutely | 0.40% | ~215 |
+| All Your Trade Are Belong to Us | 0.40% | ~215 |
+| Bleed Them Dry | 0.40% | ~215 |
+| Dude, Where's my Boat? | 0.40% | ~215 |
+| Four For Trade | 0.40% | ~215 |
+| Global Hegemony | 0.40% | ~215 |
+| Grand Coalition | 0.40% | ~215 |
+| In the Name of the Father | 0.40% | ~215 |
+| Just a Little Patience | 0.40% | ~215 |
+| Live Long and Prosper | 0.40% | ~215 |
+| One Night in Paris | 0.40% | ~215 |
+| Tear Down This Wall | 0.40% | ~215 |
+| The Continuation of Diplomacy | 0.40% | ~215 |
 | A Decent Reserve | 0.30% | ~161 |
 | A Pile of Gold | 0.30% | ~161 |
 | Grand Duchy | 0.30% | ~161 |
@@ -250,6 +250,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Rise of the White Sheep | 0.10% | ~54 |
 | Rozwi Empire | 0.10% | ~54 |
 | Sailor Mon | 0.10% | ~54 |
+| Sakoku Law | 0.10% | ~54 |
 | Saladins Legacy | 0.10% | ~54 |
 | Foremost Servitor of Jagannath | 0.10% | ~54 |
 | Shahanshah | 0.10% | ~54 |
@@ -346,7 +347,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
-| Sakoku Law | 0.00% | ~0 |
 | Shemot is Not | 0.00% | ~0 |
 | Sons of Carthage | 0.00% | ~0 |
 | Stardust Crusaders | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,612 (Ranked 78)  
+Progressed: 53,634 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,10 +413,10 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 52,261 | 0 |
 | 2023-06-09 | 52,837 | 0 |
 | 2023-06-10 | 53,460 | 0 |
-| 2023-06-11 | 53,612 | 0 |
+| 2023-06-11 | 53,634 | 0 |
 ## Awards
 Max (Educational): 5,376  (Ranked 61)  
-Sum: 44,395 (Ranked 27)  
+Sum: 44,412 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -425,8 +425,8 @@ Diff (max vs sum): 34
 | This game has Challenging Combat | 5,113 |
 | This game is Extremely Fun | 5,087 |
 | This game has Diverse Characters | 5,060 |
-| This game is Relaxing | 4,978 |
-| This game has Competitive Players | 4,830 |
+| This game is Relaxing | 4,988 |
+| This game has Competitive Players | 4,837 |
 | This game has Amazing Storytelling | 4,574 |
 | This game has Amazing Characters | 4,226 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -578,3 +578,4 @@ Diff (max vs sum): 34
 | 2023-06-08 | 4.68 | - | 5,363 | 44,296 |
 | 2023-06-09 | 4.68 | - | 5,371 | 44,348 |
 | 2023-06-10 | 4.68 | - | 5,376 | 44,395 |
+| 2023-06-11 | 4.68 | - | 5,376 | 44,412 |

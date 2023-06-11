@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6423,
+  "EOS_Progressed": 6425,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3704,6 +3704,11 @@
       "Time": "2023-06-11T08:04:25.1121498+00:00",
       "NumProgressed": 6423,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-11T09:03:26.6271122+00:00",
+      "NumProgressed": 6425,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 29,
@@ -3715,7 +3720,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5331
+      "UsersEstimate": 5333
     },
     {
       "ID": "ACH02",
@@ -3739,7 +3744,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     },
     {
       "ID": "ACH05",
@@ -3787,7 +3792,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "ACH11",
@@ -3835,7 +3840,7 @@
       "Name": "A Marked Man",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "ACH17",
@@ -3859,7 +3864,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH20",
@@ -3946,7 +3951,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6423,
+      "Progressed": 6425,
       "Completed": 36
     }
   ],
@@ -3954,8 +3959,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-09T22:58:07.1863302+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:04:25.1121492+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:03:26.6271117+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:05.8018306+00:00",
-  "LastUpdate_Ratings": "2023-06-11T07:58:28.9634837+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:04:25.112189+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:57:40.0485546+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:03:26.6271438+00:00"
 }

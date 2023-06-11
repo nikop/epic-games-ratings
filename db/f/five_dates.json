@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 421,
+  "EOS_Progressed": 422,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -462,6 +462,11 @@
       "Time": "2023-06-10T19:04:18.4907634+00:00",
       "NumProgressed": 421,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-11T09:03:35.355624+00:00",
+      "NumProgressed": 422,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -473,7 +478,7 @@
       "Name": "All Set Up",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "booty_call",
@@ -481,7 +486,7 @@
       "Name": "Booty Call",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "crash_and_burn",
@@ -497,7 +502,7 @@
       "Name": "Digital Casanova",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "hold_my_beer",
@@ -505,7 +510,7 @@
       "Name": "Hold my Beer",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -529,7 +534,7 @@
       "Name": "Light Sleepers",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "not_alone",
@@ -561,7 +566,7 @@
       "Name": "Planting the Seed",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "smooth_criminal",
@@ -577,7 +582,7 @@
       "Name": "Sore Loser",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "we_go_again",
@@ -592,7 +597,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 421,
+      "Progressed": 422,
       "Completed": 4
     }
   ],
@@ -600,8 +605,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:04:37.541742+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:03:35.3556235+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.5548432+00:00",
-  "LastUpdate_Ratings": "2023-06-11T07:58:43.9804718+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:04:37.5417581+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:57:51.0539559+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:03:35.3556356+00:00"
 }

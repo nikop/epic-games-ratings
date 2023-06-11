@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1628,
+  "EOS_Progressed": 1629,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1000,6 +1000,11 @@
       "Time": "2023-06-10T22:05:37.1420414+00:00",
       "NumProgressed": 1628,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T09:05:25.0191448+00:00",
+      "NumProgressed": 1629,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -1019,7 +1024,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1075,7 +1080,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -1243,7 +1248,7 @@
       "Name": "Off the Trail",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1259,7 +1264,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1305,9 +1310,9 @@
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1173
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1339,7 +1344,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -1387,7 +1392,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1395,7 +1400,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1419,7 +1424,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -1434,15 +1439,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1628,
+      "Progressed": 1629,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:07:08.6444552+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:05:25.0191444+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:42.9337885+00:00",
-  "LastUpdate_Ratings": "2023-06-11T07:59:08.9426793+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:07:08.6445075+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:58:08.7777154+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:05:25.0191832+00:00"
 }

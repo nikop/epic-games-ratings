@@ -116,25 +116,25 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "7pimpda",
       "Name": "Giant Lizard Killer",
-      "Percentage": 60,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 53,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 53,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -477,8 +477,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:07:01.6144536+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:05:19.7619067+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:08.1623296+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:00:43.3091318+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:07:01.6144933+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:59:13.5500341+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:05:19.761937+00:00"
 }

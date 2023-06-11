@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96,
+  "EOS_Progressed": 97,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -252,6 +252,11 @@
     {
       "Time": "2023-06-10T21:05:51.7272539+00:00",
       "NumProgressed": 96,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T09:05:36.4315611+00:00",
+      "NumProgressed": 97,
       "NumCompleted": 0
     }
   ],
@@ -814,7 +819,7 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
       "UsersEstimate": 39
     },
@@ -1055,7 +1060,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 96,
+      "Progressed": 97,
       "Completed": 0
     }
   ],
@@ -1063,8 +1068,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:07:23.0356877+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:05:36.4315606+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:07.3742261+00:00",
-  "LastUpdate_Ratings": "2023-06-11T07:59:34.4151722+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:07:23.0358099+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:58:26.9963291+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:05:36.4316542+00:00"
 }

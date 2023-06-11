@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2792,9 +2792,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9755,
+  "EOS_Progressed": 9757,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6207,6 +6207,11 @@
       "Time": "2023-06-11T07:06:17.0225957+00:00",
       "NumProgressed": 9755,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T09:05:43.3433091+00:00",
+      "NumProgressed": 9757,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6218,7 +6223,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "02_BurningCity",
@@ -6418,7 +6423,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "28_GreatUpstart",
@@ -7145,21 +7150,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8537,
+      "Progressed": 8539,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9755,
+      "Progressed": 9757,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-11T07:59:00.2954497+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:07:31.4247266+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:05:43.3433087+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-11T07:59:00.2954505+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:07:31.4249273+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:58:02.3731156+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:05:43.3434488+00:00"
 }

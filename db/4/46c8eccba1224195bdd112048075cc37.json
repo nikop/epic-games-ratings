@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -59,6 +59,11 @@
       "Time": "2023-06-11T03:23:16.2946253+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T09:02:06.3332596+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -84,7 +89,7 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -124,7 +129,7 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 111,
+      "Percentage": 100,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -132,7 +137,7 @@
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -140,9 +145,9 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FourthBoss",
@@ -156,7 +161,7 @@
       "ID": "KingBeatleHunter",
       "SetID": "7g1kpc8",
       "Name": "Royal Beetle",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -188,7 +193,7 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -196,7 +201,7 @@
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -204,7 +209,7 @@
       "ID": "SecondBoss",
       "SetID": "7g1kpc8",
       "Name": "Spider",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -229,13 +234,13 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:02:30.7781821+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:02:06.3332589+00:00",
   "LastUpdate_AppInfo": "2023-06-05T06:57:11.6079759+00:00",
-  "LastUpdate_Ratings": "2023-06-11T07:57:28.2702357+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:02:30.7781962+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:56:59.6384358+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:02:06.33327+00:00"
 }

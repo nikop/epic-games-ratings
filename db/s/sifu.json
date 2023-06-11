@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4536,10 +4536,10 @@
       "Count": 354
     }
   ],
-  "EOS_Progressed": 708673,
+  "EOS_Progressed": 708684,
   "EOS_Completed": 12765,
   "EOS_NewPlayers": 1403,
-  "EOS_NewCompleters": 11,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -9391,6 +9391,11 @@
       "Time": "2023-06-11T08:07:25.6618985+00:00",
       "NumProgressed": 708673,
       "NumCompleted": 12765
+    },
+    {
+      "Time": "2023-06-11T09:05:38.4853096+00:00",
+      "NumProgressed": 708684,
+      "NumCompleted": 12765
     }
   ],
   "TotalAchievements": 50,
@@ -9738,7 +9743,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -9801,21 +9806,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 17974,
-      "Completed": 10256
+      "Progressed": 17985,
+      "Completed": 10257
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708673,
+      "Progressed": 708684,
       "Completed": 12765
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-11T06:59:06.3786615+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:07:25.6618979+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:05:38.4853091+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-11T07:59:51.8664147+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:07:25.6619762+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:58:39.7293876+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:05:38.4853674+00:00"
 }

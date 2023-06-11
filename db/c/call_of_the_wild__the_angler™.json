@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4249,
+  "EOS_Progressed": 4251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3108,6 +3108,11 @@
       "Time": "2023-06-11T07:03:09.2145127+00:00",
       "NumProgressed": 4249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T09:03:11.6233361+00:00",
+      "NumProgressed": 4251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3119,7 +3124,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -3127,15 +3132,15 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 2762
+      "UsersEstimate": 2721
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -3151,7 +3156,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -3159,7 +3164,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3207,7 +3212,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -3215,7 +3220,7 @@
       "Name": "Hook, Line and Sinker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -3231,7 +3236,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -3247,7 +3252,7 @@
       "Name": "Head for Heights",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_018",
@@ -3271,7 +3276,7 @@
       "Name": "Marathon",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -3311,7 +3316,7 @@
       "Name": "Taylor Made",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -3335,7 +3340,7 @@
       "Name": "Golden Ridge Ranger",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -3343,7 +3348,7 @@
       "Name": "Buckaroo",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -3351,7 +3356,7 @@
       "Name": "Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -3398,13 +3403,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4249,
+      "Progressed": 4251,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3621,
+      "Progressed": 3623,
       "Completed": 112
     }
   ],
@@ -3412,8 +3417,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-11T08:04:04.3604147+00:00",
+  "LastChanged_Achievements": "2023-06-11T09:03:11.6233357+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:15.9620903+00:00",
-  "LastUpdate_Ratings": "2023-06-11T08:00:52.2232498+00:00",
-  "LastUpdate_Achievements": "2023-06-11T08:04:04.3604659+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:59:19.4205056+00:00",
+  "LastUpdate_Achievements": "2023-06-11T09:03:11.6233696+00:00"
 }
