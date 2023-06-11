@@ -34,13 +34,13 @@ Number of Ratings: 111  (23.09.2022)
 | Lines for days | 4.00% | ~95 |
 | Manny Destroys All | 4.00% | ~95 |
 | NAHELL! | 4.00% | ~95 |
+| Prince of Philly | 4.00% | ~95 |
 | Purple passion | 4.00% | ~95 |
 | Renaissance man | 4.00% | ~95 |
 | Tank commander | 4.00% | ~95 |
 | Cops called! | 3.00% | ~71 |
 | G.O.A.T. status | 3.00% | ~71 |
 | Hoarder | 3.00% | ~71 |
-| Prince of Philly | 3.00% | ~71 |
 | Trick shot marksman | 3.00% | ~71 |
 | We get it, you're good | 3.00% | ~71 |
 | Cross lock country | 2.00% | ~47 |

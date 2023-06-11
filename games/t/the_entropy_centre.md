@@ -15,7 +15,7 @@
 | Man's Best Friend | 30.00% | ~50 |
 | Handyman | 22.00% | ~36 |
 | No Time To Relax | 16.00% | ~26 |
-| Bad Robots | 14.00% | ~23 |
+| Bad Robots | 15.00% | ~25 |
 | Running Boots | 13.00% | ~21 |
 | Archivist | 12.00% | ~20 |
 | Fashionista | 12.00% | ~20 |

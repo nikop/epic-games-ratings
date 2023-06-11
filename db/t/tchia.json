@@ -2,20 +2,20 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 134,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.75,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
@@ -152,6 +152,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-11T10:57:37.9309159+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -159,10 +165,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 6424,
-  "EOS_Completed": 23,
+  "EOS_Completed": 24,
   "EOS_NewPlayers": 123,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.36,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.5163739+00:00",
@@ -3358,6 +3364,11 @@
       "Time": "2023-06-11T10:05:09.3907758+00:00",
       "NumProgressed": 6424,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-11T11:05:03.2783601+00:00",
+      "NumProgressed": 6424,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3537,15 +3548,15 @@
       "ID": "3cck1g6",
       "IsBase": true,
       "Progressed": 6424,
-      "Completed": 23
+      "Completed": 24
     }
   ],
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
-  "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-06-11T10:05:09.3907754+00:00",
+  "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
+  "LastChanged_Achievements": "2023-06-11T11:05:03.2783598+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-11T09:57:46.0400833+00:00",
-  "LastUpdate_Achievements": "2023-06-11T10:05:09.3908013+00:00"
+  "LastUpdate_Ratings": "2023-06-11T10:57:37.930917+00:00",
+  "LastUpdate_Achievements": "2023-06-11T11:05:03.2784021+00:00"
 }

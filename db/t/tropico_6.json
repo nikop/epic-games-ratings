@@ -3,8 +3,8 @@
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 257,
-  "Ranking_Popularity": 318,
-  "Ranking_PopularitySum": 256,
+  "Ranking_Popularity": 336,
+  "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 114,
@@ -832,12 +832,18 @@
       "Rating": 4.67,
       "NumberOfAwards": 758,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2023-06-11T10:59:33.5222388+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 652,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 758,
-  "NumberOfAwardsMax": 106,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 652,
+  "NumberOfAwardsMax": 93,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -906,9 +912,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3556,
+  "EOS_Progressed": 3557,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4156,6 +4162,11 @@
       "Time": "2023-06-11T10:00:13.0932046+00:00",
       "NumProgressed": 3556,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T11:00:02.0432294+00:00",
+      "NumProgressed": 3557,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4295,7 +4306,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -4447,7 +4458,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -4471,7 +4482,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -4486,15 +4497,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3556,
+      "Progressed": 3557,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-06-10T10:59:49.0940896+00:00",
-  "LastChanged_Achievements": "2023-06-11T10:00:13.0932041+00:00",
+  "LastChanged": "2023-06-11T10:59:33.5222387+00:00",
+  "LastChanged_Achievements": "2023-06-11T11:00:02.0432289+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-11T09:59:42.9703981+00:00",
-  "LastUpdate_Achievements": "2023-06-11T10:00:13.0932543+00:00"
+  "LastUpdate_Ratings": "2023-06-11T10:59:33.5222392+00:00",
+  "LastUpdate_Achievements": "2023-06-11T11:00:02.0432924+00:00"
 }

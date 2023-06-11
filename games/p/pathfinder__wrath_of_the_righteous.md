@@ -21,6 +21,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Transformation | 3.00% | ~293 |
 | The Legacy | 3.00% | ~293 |
 | Great Upstart | 3.00% | ~293 |
+| Divide and Rule | 3.00% | ~293 |
 | Voice from Your Dreams | 3.00% | ~293 |
 | All Paths Open | 3.00% | ~293 |
 | A Flame | 3.00% | ~293 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Trickster | 2.00% | ~195 |
 | Path of the Lich | 2.00% | ~195 |
 | Heroic Victory | 2.00% | ~195 |
-| Divide and Rule | 2.00% | ~195 |
 | Mythic Reinforcements | 2.00% | ~195 |
 | Core of the Riddle | 2.00% | ~195 |
 | Your First Big Enemy | 2.00% | ~195 |
@@ -45,7 +45,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 1.00% | ~98 |
 | Truly Important Deed | 1.00% | ~98 |
 | Abyssal Conspiracy | 0.90% | ~88 |
-| This Wall Won't Fall | 0.80% | ~68 |
+| This Wall Won't Fall | 0.90% | ~77 |
 | Not the Last Sarkorian | 0.80% | ~68 |
 | The Final Threshold | 0.70% | ~68 |
 | Strategic Victory | 0.70% | ~68 |

@@ -6,19 +6,19 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,945 |
-| Rookie | 25.00% | ~6,431 |
-| Nomad | 19.00% | ~4,887 |
+| Finding Your Footing | 27.00% | ~6,946 |
+| Rookie | 25.00% | ~6,432 |
+| Nomad | 19.00% | ~4,888 |
 | Picking Up Speed | 17.00% | ~4,373 |
 | Welcome Maya | 16.00% | ~4,116 |
 | Sightseer | 11.00% | ~2,830 |
-| Scout | 10.00% | ~2,572 |
+| Scout | 10.00% | ~2,573 |
 | Amateur | 9.00% | ~2,315 |
 | Wanderer | 9.00% | ~2,315 |
 | Enter Paz | 8.00% | ~2,058 |
 | Unlock Maya | 7.00% | ~1,801 |
-| Aviator | 6.00% | ~1,543 |
-| One With The Board | 6.00% | ~1,543 |
+| Aviator | 6.00% | ~1,544 |
+| One With The Board | 6.00% | ~1,544 |
 | My Little Friend | 5.00% | ~1,286 |
 | Voyager | 5.00% | ~1,286 |
 | Sandboarder | 4.00% | ~1,029 |
@@ -28,8 +28,8 @@ Number of Ratings: 332  (23.09.2022)
 | Journeyer | 3.00% | ~772 |
 | Unlock Paz | 3.00% | ~772 |
 | Here Comes Felipe | 3.00% | ~772 |
-| Pro | 2.00% | ~514 |
-| Human Flight | 2.00% | ~514 |
+| Pro | 2.00% | ~515 |
+| Human Flight | 2.00% | ~515 |
 | Explorer | 1.00% | ~257 |
 | Hoist the Mainsail | 1.00% | ~257 |
 | Unlock Izel | 1.00% | ~257 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~26 |
 | Windswept | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,723 (Ranked 91)  
+Progressed: 25,726 (Ranked 91)  
 Completed: 4 (0.02%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 4 (0.02%) (Ranked 197)
 | 2023-06-08 | 25,276 | 3 |
 | 2023-06-09 | 25,466 | 4 |
 | 2023-06-10 | 25,643 | 4 |
-| 2023-06-11 | 25,723 | 4 |
+| 2023-06-11 | 25,726 | 4 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 408)  
 Sum: 346 (Ranked 319)  

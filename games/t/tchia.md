@@ -1,7 +1,7 @@
 # Tchia
 [Store](https://store.epicgames.com/en-US/p/tchia)  
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.75 (Ranked 134)  
+Rating: 4.76 (Ranked 118)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,7 +28,7 @@ Rating: 4.75 (Ranked 134)
 | Thing | 1.00% | ~64 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,424 (Ranked 122)  
-Completed: 23 (0.36%) (Ranked 122)  
+Completed: 24 (0.37%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,7 +79,7 @@ Completed: 23 (0.36%) (Ranked 122)
 | 2023-06-08 | 6,365 | 23 |
 | 2023-06-09 | 6,388 | 23 |
 | 2023-06-10 | 6,414 | 23 |
-| 2023-06-11 | 6,424 | 23 |
+| 2023-06-11 | 6,424 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -105,3 +105,4 @@ Completed: 23 (0.36%) (Ranked 122)
 | 2023-05-21 | 4.78 | 0 | 0 |
 | 2023-05-22 | 4.76 | 0 | 0 |
 | 2023-05-23 | 4.75 | 0 | 0 |
+| 2023-06-11 | 4.76 | 0 | 0 |

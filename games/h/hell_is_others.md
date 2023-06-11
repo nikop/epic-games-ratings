@@ -5,13 +5,13 @@ Rating: 4.43 (Ranked 644)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,771 |
-| Predator I | 22.00% | ~55,192 |
-| Fixer I | 10.00% | ~25,087 |
-| A week in Century City | 10.00% | ~25,087 |
-| The Wait | 7.00% | ~17,561 |
-| Green thumb I | 6.00% | ~15,052 |
-| Cleaning Company | 6.00% | ~15,052 |
+| Survivor | 31.00% | ~77,772 |
+| Predator I | 22.00% | ~55,193 |
+| Fixer I | 10.00% | ~25,088 |
+| A week in Century City | 10.00% | ~25,088 |
+| The Wait | 7.00% | ~17,562 |
+| Green thumb I | 6.00% | ~15,053 |
+| Cleaning Company | 6.00% | ~15,053 |
 | Well-oiled machine | 5.00% | ~12,544 |
 | Saver I | 5.00% | ~12,544 |
 | The Ascent | 4.00% | ~10,035 |
@@ -19,14 +19,14 @@ Rating: 4.43 (Ranked 644)
 | Vandalism | 4.00% | ~10,035 |
 | Capitalist I | 4.00% | ~10,035 |
 | Adrenaline | 3.00% | ~7,526 |
-| By a hair | 2.00% | ~5,017 |
-| Fixer II | 2.00% | ~5,017 |
-| It took a while | 2.00% | ~5,017 |
-| Samurai | 2.00% | ~5,017 |
-| I Left You a Present | 2.00% | ~5,017 |
-| Predator II | 2.00% | ~5,017 |
-| Truffle Dog | 2.00% | ~5,017 |
-| A month in Century City | 2.00% | ~5,017 |
+| By a hair | 2.00% | ~5,018 |
+| Fixer II | 2.00% | ~5,018 |
+| It took a while | 2.00% | ~5,018 |
+| Samurai | 2.00% | ~5,018 |
+| I Left You a Present | 2.00% | ~5,018 |
+| Predator II | 2.00% | ~5,018 |
+| Truffle Dog | 2.00% | ~5,018 |
+| A month in Century City | 2.00% | ~5,018 |
 | The Strengthening | 1.00% | ~2,509 |
 | Saver II | 1.00% | ~2,509 |
 | It's the last one, I swear | 1.00% | ~2,509 |
@@ -41,9 +41,9 @@ Rating: 4.43 (Ranked 644)
 | The Gamble | 0.50% | ~1,254 |
 | The Descent | 0.50% | ~1,254 |
 | A major purchase | 0.50% | ~1,254 |
-| Expert Hunter | 0.40% | ~1,003 |
-| Fungi hunter | 0.40% | ~1,003 |
-| Predator III | 0.40% | ~1,003 |
+| Expert Hunter | 0.40% | ~1,004 |
+| Fungi hunter | 0.40% | ~1,004 |
+| Predator III | 0.40% | ~1,004 |
 | Arms dealer | 0.30% | ~753 |
 | Fixer III | 0.30% | ~753 |
 | AML questionnaire | 0.30% | ~753 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 644)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,873 (Ranked 42)  
+Progressed: 250,879 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,16 +114,16 @@ Completed: 1 (0.00%) (Ranked 214)
 | 2023-06-08 | 250,677 | 1 |
 | 2023-06-09 | 250,759 | 1 |
 | 2023-06-10 | 250,842 | 1 |
-| 2023-06-11 | 250,873 | 1 |
+| 2023-06-11 | 250,879 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 25  (Ranked 466)  
-Sum: 91 (Ranked 407)  
-Diff (max vs sum): 59  
+Sum: 92 (Ranked 406)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 25 |
 | This game has Unique Visuals | 24 |
-| This game has Amazing Characters | 22 |
+| This game has Amazing Characters | 23 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -203,3 +203,4 @@ Diff (max vs sum): 59
 | 2023-06-06 | 4.44 | 25 | 71 |
 | 2023-06-07 | 4.43 | 25 | 71 |
 | 2023-06-10 | 4.43 | 25 | 91 |
+| 2023-06-11 | 4.43 | 25 | 92 |

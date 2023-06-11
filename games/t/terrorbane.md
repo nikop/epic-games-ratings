@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First contact | 100.00% | ~40 |
-| System shocked | 57.00% | ~23 |
+| System shocked | 60.00% | ~24 |
 | Exposé | 53.00% | ~21 |
 | Blade of prophecy | 43.00% | ~17 |
 | Normal end | 43.00% | ~17 |
@@ -13,8 +13,8 @@
 | Armed robbery | 33.00% | ~13 |
 | Never learn | 30.00% | ~12 |
 | B Rank Bug-catcher | 25.00% | ~10 |
+| Secret Admirer | 18.00% | ~7 |
 | Errorbane | 15.00% | ~6 |
-| Secret Admirer | 15.00% | ~6 |
 | Bugged, not stupid | 13.00% | ~5 |
 | A Rank Bug-catcher | 10.00% | ~4 |
 | S Rank Bug-catcher | 10.00% | ~4 |

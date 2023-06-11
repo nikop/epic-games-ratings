@@ -1490,9 +1490,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64559,
+  "EOS_Progressed": 64565,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1018,
+  "EOS_NewPlayers": 1022,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5905,6 +5905,11 @@
       "Time": "2023-06-11T10:05:37.3931831+00:00",
       "NumProgressed": 64559,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-11T11:05:30.82741+00:00",
+      "NumProgressed": 64565,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6100,7 +6105,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -6298,9 +6303,9 @@
       "ID": "KNIGHTHOOD_2",
       "SetID": "4eo5ebm",
       "Name": "A Worthy Successor",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 387
     },
     {
       "ID": "MYSTERY_01",
@@ -6380,7 +6385,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -6403,13 +6408,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64559,
+      "Progressed": 64565,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34839,
+      "Progressed": 34845,
       "Completed": 2646
     }
   ],
@@ -6417,8 +6422,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-11T09:59:20.6373405+00:00",
-  "LastChanged_Achievements": "2023-06-11T10:05:37.3931826+00:00",
+  "LastChanged_Achievements": "2023-06-11T11:05:30.8274093+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-11T09:59:20.6373409+00:00",
-  "LastUpdate_Achievements": "2023-06-11T10:05:37.3932552+00:00"
+  "LastUpdate_Ratings": "2023-06-11T10:59:11.4372289+00:00",
+  "LastUpdate_Achievements": "2023-06-11T11:05:30.8275021+00:00"
 }

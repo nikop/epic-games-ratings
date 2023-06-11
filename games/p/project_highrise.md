@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~121 |
+| In the Black | 59.00% | ~123 |
 | Starting Skyward | 52.00% | ~109 |
 | Grime is Not Good | 46.00% | ~96 |
-| Campaign Launch | 39.00% | ~82 |
+| Campaign Launch | 40.00% | ~84 |
 | Floor Galore | 38.00% | ~79 |
 | Dinner Dash | 38.00% | ~79 |
 | It's Technical | 36.00% | ~75 |
 | Need a Consult | 34.00% | ~71 |
-| Upgrade Unlock | 33.00% | ~69 |
+| Upgrade Unlock | 34.00% | ~71 |
+| Delegate Maintenance | 34.00% | ~71 |
 | Proper Walls | 33.00% | ~69 |
-| Delegate Maintenance | 33.00% | ~69 |
 | Destination Destiny | 28.00% | ~59 |
 | Happy Tenants | 25.00% | ~52 |
 | Your Prestige is Rising | 23.00% | ~48 |

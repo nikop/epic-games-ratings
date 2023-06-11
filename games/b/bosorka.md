@@ -15,7 +15,7 @@
 | It doesn't work like that | 24.00% | ~20 |
 | A small victory | 17.00% | ~14 |
 | This is just the beginning... | 16.00% | ~13 |
-| Unstoppable Curiosity | 12.00% | ~10 |
+| Unstoppable Curiosity | 13.00% | ~11 |
 | Time is on my side | 10.00% | ~8 |
 | Gold Digger | 10.00% | ~8 |
 | Secret at the bottom | 0.00% | ~0 |

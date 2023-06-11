@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 585,
+  "EOS_Progressed": 586,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -505,6 +505,11 @@
       "Time": "2023-06-11T07:02:39.4952093+00:00",
       "NumProgressed": 585,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T10:59:56.9026673+00:00",
+      "NumProgressed": 586,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -650,9 +655,9 @@
       "ID": "DEFEAT_HARMLESSROCKGIANT",
       "SetID": "ccc0dlh",
       "Name": "Harmless",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 76
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -770,9 +775,9 @@
       "ID": "MISC_PULLANENEMY",
       "SetID": "ccc0dlh",
       "Name": "Yank",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 76
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -851,21 +856,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168,
+      "Progressed": 169,
       "Completed": 20
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 585,
+      "Progressed": 586,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-11T09:03:03.405301+00:00",
+  "LastChanged_Achievements": "2023-06-11T10:59:56.9026541+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.0328366+00:00",
-  "LastUpdate_Ratings": "2023-06-11T09:59:55.5750275+00:00",
-  "LastUpdate_Achievements": "2023-06-11T09:03:03.4053299+00:00"
+  "LastUpdate_Ratings": "2023-06-11T10:59:45.2765026+00:00",
+  "LastUpdate_Achievements": "2023-06-11T10:59:56.9027247+00:00"
 }

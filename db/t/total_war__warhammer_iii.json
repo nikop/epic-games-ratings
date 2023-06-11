@@ -3,11 +3,11 @@
   "Name": "Total War: WARHAMMER III",
   "ProductSlug": "total-war-warhammer-3",
   "Ranking_Rating": 194,
-  "Ranking_Popularity": 114,
+  "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
@@ -3641,18 +3641,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 5738,
       "NumberOfAwardsMax": 1581
+    },
+    {
+      "Time": "2023-06-11T10:59:36.1530768+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 5748,
+      "NumberOfAwardsMax": 1591
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5738,
-  "NumberOfAwardsMax": 1581,
+  "NumberOfAwards": 5748,
+  "NumberOfAwardsMax": 1591,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1581
+      "Count": 1591
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3738,8 +3744,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-06-11T08:59:40.9084651+00:00",
+  "LastChanged": "2023-06-11T10:59:36.1530767+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:44.9283833+00:00",
-  "LastUpdate_Ratings": "2023-06-11T09:59:45.5149525+00:00",
+  "LastUpdate_Ratings": "2023-06-11T10:59:36.1530774+00:00",
   "LastUpdate_Achievements": "2023-06-11T10:00:33.1178217+00:00"
 }

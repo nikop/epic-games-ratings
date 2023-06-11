@@ -684,7 +684,7 @@
   ],
   "EOS_Progressed": 2371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2630,9 +2630,9 @@
       "ID": "ACH_PRINCE-OF-PHILLY",
       "SetID": "72olkc5",
       "Name": "Prince of Philly",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -2798,8 +2798,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-09T15:59:24.8887834+00:00",
-  "LastChanged_Achievements": "2023-06-11T10:05:21.9656691+00:00",
+  "LastChanged_Achievements": "2023-06-11T11:05:15.7407084+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:26.2561369+00:00",
-  "LastUpdate_Ratings": "2023-06-11T09:58:44.4571336+00:00",
-  "LastUpdate_Achievements": "2023-06-11T10:05:21.9657093+00:00"
+  "LastUpdate_Ratings": "2023-06-11T10:58:36.2207019+00:00",
+  "LastUpdate_Achievements": "2023-06-11T11:05:15.7407604+00:00"
 }

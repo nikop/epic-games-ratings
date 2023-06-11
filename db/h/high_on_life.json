@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22828,
+  "EOS_Progressed": 22829,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1383,6 +1383,11 @@
       "Time": "2023-06-11T08:05:28.055061+00:00",
       "NumProgressed": 22828,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-11T11:04:05.3453854+00:00",
+      "NumProgressed": 22829,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1402,7 +1407,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7533
+      "UsersEstimate": 7534
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -1458,7 +1463,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17349
+      "UsersEstimate": 17350
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1498,7 +1503,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18947
+      "UsersEstimate": 18948
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1514,7 +1519,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13012
+      "UsersEstimate": 13013
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1562,7 +1567,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -1578,7 +1583,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16664
+      "UsersEstimate": 16665
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1586,7 +1591,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7533
+      "UsersEstimate": 7534
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -1610,7 +1615,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -1649,22 +1654,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22828,
+      "Progressed": 22829,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 121,
-      "Completed": 121
+      "Progressed": 122,
+      "Completed": 122
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-06-11T10:04:09.9410553+00:00",
+  "LastChanged_Achievements": "2023-06-11T11:04:05.345385+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:11.5213161+00:00",
-  "LastUpdate_Ratings": "2023-06-11T09:57:49.2769623+00:00",
-  "LastUpdate_Achievements": "2023-06-11T10:04:09.9410816+00:00"
+  "LastUpdate_Ratings": "2023-06-11T10:57:41.8188384+00:00",
+  "LastUpdate_Achievements": "2023-06-11T11:04:05.3454194+00:00"
 }

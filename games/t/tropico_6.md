@@ -22,9 +22,9 @@ Number of Ratings: 398  (23.09.2022)
 | Of Seals And Men | 10.00% | ~356 |
 | Shackadelic | 10.00% | ~356 |
 | Double Trouble | 9.00% | ~320 |
-| Firestarter | 8.00% | ~284 |
-| Make Tropico Great Again! | 8.00% | ~284 |
-| French Connection | 8.00% | ~284 |
+| Firestarter | 8.00% | ~285 |
+| Make Tropico Great Again! | 8.00% | ~285 |
+| French Connection | 8.00% | ~285 |
 | Don't Panic! | 7.00% | ~249 |
 | Computer Says "No" | 6.00% | ~213 |
 | Beware The Betman | 6.00% | ~213 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~36 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,556 (Ranked 135)  
+Progressed: 3,557 (Ranked 135)  
 Completed: 1 (0.03%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,11 +99,11 @@ Completed: 1 (0.03%) (Ranked 191)
 | 2023-06-08 | 3,491 | 1 |
 | 2023-06-09 | 3,519 | 1 |
 | 2023-06-10 | 3,547 | 1 |
-| 2023-06-11 | 3,556 | 1 |
+| 2023-06-11 | 3,557 | 1 |
 ## Awards
-Max (Great for Beginners): 106  (Ranked 318)  
-Sum: 758 (Ranked 256)  
-Diff (max vs sum): 62  
+Max (Quickly Understood Controls): 93  (Ranked 336)  
+Sum: 652 (Ranked 275)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
@@ -222,3 +222,4 @@ Diff (max vs sum): 62
 | 2023-06-05 | 4.67 | - | 106 | 756 |
 | 2023-06-08 | 4.67 | - | 106 | 757 |
 | 2023-06-10 | 4.67 | - | 106 | 758 |
+| 2023-06-11 | 4.67 | - | 93 | 652 |

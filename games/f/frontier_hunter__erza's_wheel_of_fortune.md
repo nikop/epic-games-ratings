@@ -21,6 +21,7 @@
 | Guardian | 60.00% | ~9 |
 | Nosebleeder | 60.00% | ~9 |
 | Weapon Boost | 60.00% | ~9 |
+| Flying Kobold Killer | 53.00% | ~8 |
 | Youth Magnet | 53.00% | ~8 |
 | Furious Scorpion Killer | 53.00% | ~8 |
 | Lethal Blade Mantis Killer | 53.00% | ~8 |
@@ -29,7 +30,6 @@
 | Mermaid Killer | 53.00% | ~8 |
 | Face Slapper | 53.00% | ~8 |
 | Trader | 53.00% | ~8 |
-| Flying Kobold Killer | 47.00% | ~7 |
 | Cave Master | 47.00% | ~7 |
 | Master Artificer | 40.00% | ~6 |
 | Master Cook | 33.00% | ~5 |

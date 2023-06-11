@@ -4,7 +4,7 @@
   "ProductSlug": "squad",
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T21:59:44.8198102+00:00",
-  "LastUpdate_Ratings": "2023-06-11T09:59:00.4577696+00:00",
-  "LastUpdate_Achievements": "2023-06-11T10:04:29.3683801+00:00"
+  "LastUpdate_Ratings": "2023-06-11T10:58:51.2677799+00:00",
+  "LastUpdate_Achievements": "2023-06-11T11:04:24.2525937+00:00"
 }

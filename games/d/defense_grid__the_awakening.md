@@ -6,55 +6,55 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~387,969 |
-| Hey! That's mine! | 78.00% | ~373,600 |
-| Happy Returns | 77.00% | ~368,810 |
-| Field Promotion | 74.00% | ~354,441 |
-| Leadhead | 71.00% | ~340,072 |
-| Eradicator | 67.00% | ~320,913 |
-| Surplus | 65.00% | ~311,333 |
-| I Spy | 64.00% | ~306,543 |
-| Burn Baby Burn | 59.00% | ~282,595 |
-| Yellow Beats Green | 55.00% | ~263,436 |
-| Salvage Rights | 53.00% | ~253,856 |
-| Pew Pew | 50.00% | ~239,487 |
-| What IS that? | 50.00% | ~239,487 |
-| Close Call | 49.00% | ~234,697 |
-| Penny Pincher | 49.00% | ~234,697 |
-| Arsenal | 46.00% | ~220,328 |
-| Boot Camp | 45.00% | ~215,538 |
-| Flawless Victory | 42.00% | ~201,169 |
+| First Blood | 81.00% | ~387,971 |
+| Hey! That's mine! | 78.00% | ~373,601 |
+| Happy Returns | 77.00% | ~368,812 |
+| Field Promotion | 74.00% | ~354,442 |
+| Leadhead | 71.00% | ~340,073 |
+| Eradicator | 67.00% | ~320,914 |
+| Surplus | 65.00% | ~311,334 |
+| I Spy | 64.00% | ~306,545 |
+| Burn Baby Burn | 59.00% | ~282,596 |
+| Yellow Beats Green | 55.00% | ~263,437 |
+| Salvage Rights | 53.00% | ~253,857 |
+| Pew Pew | 50.00% | ~239,488 |
+| What IS that? | 50.00% | ~239,488 |
+| Close Call | 49.00% | ~234,698 |
+| Penny Pincher | 49.00% | ~234,698 |
+| Arsenal | 46.00% | ~220,329 |
+| Boot Camp | 45.00% | ~215,539 |
+| Flawless Victory | 42.00% | ~201,170 |
 | Confident | 40.00% | ~191,590 |
 | Exterminator | 36.00% | ~172,431 |
-| Sharpshooter | 33.00% | ~158,061 |
+| Sharpshooter | 33.00% | ~158,062 |
 | Great Ball of Fire | 32.00% | ~153,272 |
 | Not So Fast | 32.00% | ~153,272 |
-| No Sale | 30.00% | ~143,692 |
-| Kaboom! | 29.00% | ~138,902 |
-| Liquidator | 29.00% | ~138,902 |
+| No Sale | 30.00% | ~143,693 |
+| Kaboom! | 29.00% | ~138,903 |
+| Liquidator | 29.00% | ~138,903 |
 | High Voltage | 24.00% | ~114,954 |
 | Filthy Rich | 19.00% | ~91,005 |
-| The Not-So-Friendly Skies | 18.00% | ~86,215 |
+| The Not-So-Friendly Skies | 18.00% | ~86,216 |
 | Power Builder | 17.00% | ~81,426 |
 | Pyrrhic Victory | 17.00% | ~81,426 |
 | Death From Above | 16.00% | ~76,636 |
 | Retry | 16.00% | ~76,636 |
 | Head Trauma | 12.00% | ~57,477 |
-| Full Defense | 10.00% | ~47,897 |
+| Full Defense | 10.00% | ~47,898 |
 | Overseer | 9.00% | ~43,108 |
 | Annihilator | 8.00% | ~38,318 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,318 |
-| Indecisive | 6.00% | ~28,738 |
+| Indecisive | 6.00% | ~28,739 |
 | Base Defender | 5.00% | ~23,949 |
 | Relay Race | 5.00% | ~23,949 |
 | Diversity | 3.00% | ~14,369 |
 | Full Potential | 3.00% | ~14,369 |
 | Tower Expert | 3.00% | ~14,369 |
-| Minimalist | 2.00% | ~9,579 |
-| Nail Biter | 2.00% | ~9,579 |
-| Siege Breaker | 2.00% | ~9,579 |
-| The Long Road | 2.00% | ~9,579 |
-| Untouchable | 2.00% | ~9,579 |
+| Minimalist | 2.00% | ~9,580 |
+| Nail Biter | 2.00% | ~9,580 |
+| Siege Breaker | 2.00% | ~9,580 |
+| The Long Road | 2.00% | ~9,580 |
+| Untouchable | 2.00% | ~9,580 |
 | Flurry | 1.00% | ~4,790 |
 | Well Invested | 1.00% | ~4,790 |
 | Gun Crazy | 0.90% | ~4,311 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~479 |
 | You Monster | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,974 (Ranked 32)  
+Progressed: 478,976 (Ranked 32)  
 Completed: 4 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,11 +146,11 @@ Completed: 4 (0.00%) (Ranked 214)
 | 2023-06-08 | 478,775 | 4 |
 | 2023-06-09 | 478,849 | 4 |
 | 2023-06-10 | 478,938 | 4 |
-| 2023-06-11 | 478,974 | 4 |
+| 2023-06-11 | 478,976 | 4 |
 ## Awards
 Max (Great for Beginners): 233  (Ranked 248)  
-Sum: 1,644 (Ranked 203)  
-Diff (max vs sum): 45  
+Sum: 1,645 (Ranked 201)  
+Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 233 |
@@ -161,7 +161,7 @@ Diff (max vs sum): 45
 | This game has Challenging Combat | 180 |
 | This game has Amazing Storytelling | 176 |
 | This game has Amazing Characters | 168 |
-| This game has a Creative Community | 70 |
+| This game has a Creative Community | 71 |
 | This game has Playful Visuals | 38 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -253,4 +253,4 @@ Diff (max vs sum): 45
 | 2023-05-20 | 4.45 | - | 232 | 1,641 |
 | 2023-05-24 | 4.45 | - | 232 | 1,642 |
 | 2023-05-27 | 4.45 | - | 232 | 1,643 |
-| 2023-06-11 | 4.45 | - | 233 | 1,644 |
+| 2023-06-11 | 4.45 | - | 233 | 1,645 |

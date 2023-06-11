@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2321,
+  "EOS_Progressed": 2322,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2488,6 +2488,11 @@
       "Time": "2023-06-11T05:07:11.5443557+00:00",
       "NumProgressed": 2321,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T11:05:21.3941909+00:00",
+      "NumProgressed": 2322,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2505,9 +2510,9 @@
       "ID": "STB_COLISSEUM_FIRST",
       "SetID": "3pe2bac",
       "Name": "Whispers in the Woods I",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 580
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -2523,7 +2528,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -2539,7 +2544,7 @@
       "Name": "Hijack",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -2563,7 +2568,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2579,7 +2584,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2603,7 +2608,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2675,7 +2680,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2683,7 +2688,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2707,7 +2712,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -2715,7 +2720,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2731,7 +2736,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2747,7 +2752,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2761,9 +2766,9 @@
       "ID": "STB_MISSION5B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Capelworth",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 464
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -2859,7 +2864,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -2875,7 +2880,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2922,7 +2927,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2321,
+      "Progressed": 2322,
       "Completed": 1
     }
   ],
@@ -2930,8 +2935,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-11T10:05:27.6455119+00:00",
+  "LastChanged_Achievements": "2023-06-11T11:05:21.3941906+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-11T09:57:29.8467354+00:00",
-  "LastUpdate_Achievements": "2023-06-11T10:05:27.6455658+00:00"
+  "LastUpdate_Ratings": "2023-06-11T10:57:21.1799565+00:00",
+  "LastUpdate_Achievements": "2023-06-11T11:05:21.3942536+00:00"
 }

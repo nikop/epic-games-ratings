@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -2482,9 +2482,9 @@
       "ID": "Arranging Boxes",
       "SetID": "b40dflc",
       "Name": "Arranging Boxes",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 208
+      "UsersEstimate": 224
     },
     {
       "ID": "Bernard",
@@ -2587,8 +2587,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-11T10:05:17.5043017+00:00",
+  "LastChanged_Achievements": "2023-06-11T11:05:11.2250691+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:00.0693666+00:00",
-  "LastUpdate_Ratings": "2023-06-11T09:59:12.7556457+00:00",
-  "LastUpdate_Achievements": "2023-06-11T10:05:17.5043195+00:00"
+  "LastUpdate_Ratings": "2023-06-11T10:59:03.3114977+00:00",
+  "LastUpdate_Achievements": "2023-06-11T11:05:11.2250961+00:00"
 }

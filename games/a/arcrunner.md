@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Augmented | 94.00% | ~312 |
-| Terminated I | 78.00% | ~259 |
+| Terminated I | 79.00% | ~262 |
 | Challenge Accepted | 77.00% | ~256 |
 | Nanonic I | 76.00% | ~252 |
 | Unlocked and Loaded | 71.00% | ~236 |
-| Terminated II | 60.00% | ~199 |
+| Terminated II | 61.00% | ~203 |
 | The City | 42.00% | ~139 |
-| Challenge Mastered | 35.00% | ~116 |
-| Terminated III | 35.00% | ~116 |
+| Challenge Mastered | 36.00% | ~120 |
+| Terminated III | 36.00% | ~120 |
 | Rookie | 32.00% | ~106 |
 | Nanonic II | 30.00% | ~100 |
-| Supply Run | 20.00% | ~66 |
+| Supply Run | 21.00% | ~70 |
 | Nanonic III | 17.00% | ~56 |
 | Starship Docks | 16.00% | ~53 |
 | Cybernetic | 14.00% | ~46 |

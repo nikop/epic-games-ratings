@@ -9,6 +9,7 @@
 | Graduated in contraptions | 21.00% | ~22 |
 | First medium level | 8.00% | ~9 |
 | Easy group | 5.00% | ~5 |
+| Medium group | 0.90% | ~1 |
 | Easy group with gold stars | 0.00% | ~0 |
 | Easy group with silver stars | 0.00% | ~0 |
 | Easy group with all stars | 0.00% | ~0 |
@@ -20,7 +21,6 @@
 | Hard group with gold stars | 0.00% | ~0 |
 | Hard group with silver stars | 0.00% | ~0 |
 | Hard group with all stars | 0.00% | ~0 |
-| Medium group | 0.00% | ~0 |
 | Medium group with gold stars | 0.00% | ~0 |
 | Medium group with silver stars | 0.00% | ~0 |
 | Medium group with all stars | 0.00% | ~0 |

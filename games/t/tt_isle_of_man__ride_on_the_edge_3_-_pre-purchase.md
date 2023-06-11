@@ -16,10 +16,10 @@
 | Upgradeaholic | 6.00% | ~5 |
 | Playing God | 6.00% | ~5 |
 | Seven-League Boots | 5.00% | ~4 |
+| Nerd | 5.00% | ~4 |
 | Tailor-Made for Two | 5.00% | ~4 |
 | Lone Wolf | 5.00% | ~4 |
 | Say My Name | 4.00% | ~3 |
-| Nerd | 4.00% | ~3 |
 | First and Foremost | 4.00% | ~3 |
 | Made Mother Proud | 4.00% | ~3 |
 | Winner Winner Chicken Dinner | 4.00% | ~3 |

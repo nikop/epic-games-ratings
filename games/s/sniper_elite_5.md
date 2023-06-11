@@ -8,11 +8,11 @@ Rating: 4.51 (Ranked 529)
 | Meeting Resistance | 29.00% | ~760 |
 | Confirming Suspicions | 24.00% | ~629 |
 | The Kraken Wakes | 20.00% | ~524 |
-| It's Starting to Crack | 17.00% | ~445 |
+| It's Starting to Crack | 17.00% | ~446 |
 | Lord of War | 14.00% | ~367 |
 | Change the Channel | 14.00% | ~367 |
 | Resourceful | 13.00% | ~341 |
-| Taking it back | 12.00% | ~314 |
+| Taking it back | 12.00% | ~315 |
 | Organ Grinder | 10.00% | ~262 |
 | As Quiet as a Mouse | 10.00% | ~262 |
 | Target America | 10.00% | ~262 |
@@ -23,7 +23,7 @@ Rating: 4.51 (Ranked 529)
 | Gunslinger | 8.00% | ~210 |
 | Sharpshooter | 8.00% | ~210 |
 | Explosive Efficiency | 8.00% | ~210 |
-| Opposing Force | 7.00% | ~183 |
+| Opposing Force | 7.00% | ~184 |
 | Die Nussknacker Sweet! | 6.00% | ~157 |
 | Der Geist | 6.00% | ~157 |
 | Close Quarters | 6.00% | ~157 |
@@ -36,8 +36,8 @@ Rating: 4.51 (Ranked 529)
 | Set Europe Ablaze | 5.00% | ~131 |
 | Precision Is Key | 4.00% | ~105 |
 | Rigged to Blow | 3.00% | ~79 |
+| My Little Friend | 3.00% | ~79 |
 | The Long Game | 2.00% | ~52 |
-| My Little Friend | 2.00% | ~52 |
 | It'll Buff Right Out | 2.00% | ~52 |
 | Strategist | 1.00% | ~26 |
 | Tinkerer | 1.00% | ~26 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 529)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,620 (Ranked 146)  
+Progressed: 2,622 (Ranked 146)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
-| 2023-06-11 | 2,620 | 2 |
+| 2023-06-11 | 2,622 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
