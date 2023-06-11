@@ -78,17 +78,17 @@
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 198 |
 | 75 | [Journey](games/j/journey.md) | 4.81 | 0 | 496 |
 | 75 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 496 |
-| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,303 | 51 |
-| 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 159 | 285 |
-| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 200 | 262 |
-| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 325 |
-| 79 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 496 |
-| 79 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.80 | 0 | 496 |
-| 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 317 | 225 |
-| 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 496 |
-| 79 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 463 |
-| 79 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 496 |
-| 79 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 496 |
+| 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 200 | 262 |
+| 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,303 | 51 |
+| 80 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 159 | 285 |
+| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 325 |
+| 80 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 496 |
+| 80 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.80 | 0 | 496 |
+| 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 317 | 225 |
+| 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 496 |
+| 80 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 463 |
+| 80 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 496 |
+| 80 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 496 |
 | 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,454 | 117 |
 | 90 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 375 | 208 |
 | 90 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 496 |
@@ -497,23 +497,23 @@
 | 489 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 496 |
 | 489 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 496 |
 | 489 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 499 | 187 |
-| 489 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.54 | 0 | 496 |
 | 489 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 496 |
 | 489 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 294 | 230 |
 | 489 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.54 | 0 | 496 |
 | 489 | [VALORANT](games/v/valorant.md) | 4.54 | 56,287 | 11 |
-| 503 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 496 |
-| 503 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 496 |
-| 503 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,168 | 17 |
-| 503 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 141,459 | 7 |
-| 503 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 496 |
-| 503 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 496 |
-| 503 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 475 |
-| 503 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 341 |
-| 503 | [UnMetal](games/u/unmetal.md) | 4.53 | 0 | 496 |
-| 503 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 338 |
-| 503 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.53 | 0 | 496 |
-| 503 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 28 | 458 |
+| 502 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 496 |
+| 502 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 496 |
+| 502 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,168 | 17 |
+| 502 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 141,459 | 7 |
+| 502 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 496 |
+| 502 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 496 |
+| 502 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 475 |
+| 502 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 341 |
+| 502 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.53 | 0 | 496 |
+| 502 | [UnMetal](games/u/unmetal.md) | 4.53 | 0 | 496 |
+| 502 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 338 |
+| 502 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.53 | 0 | 496 |
+| 502 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 28 | 458 |
 | 515 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 21 | 485 |
 | 515 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 746 | 153 |
 | 515 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 28,305 | 16 |
@@ -618,7 +618,7 @@
 | 616 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 0 | 496 |
 | 616 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 233 | 248 |
 | 616 | [Faeria](games/f/faeria.md) | 4.45 | 105 | 320 |
-| 616 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 727 | 155 |
+| 616 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 728 | 155 |
 | 616 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 0 | 496 |
 | 616 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,519 | 34 |
 | 616 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 496 |
@@ -890,12 +890,12 @@
 | 887 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 180 | 273 |
 | 889 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,928 | 64 |
 | 890 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.05 | 0 | 496 |
-| 890 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 496 |
 | 890 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 496 |
 | 890 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 496 |
-| 894 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 0 | 496 |
-| 894 | [Pinball FX](games/p/pinball_fx.md) | 4.04 | 175 | 276 |
-| 894 | [Second Extinction™](games/s/second_extinction™.md) | 4.04 | 433 | 196 |
+| 893 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 0 | 496 |
+| 893 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 496 |
+| 893 | [Pinball FX](games/p/pinball_fx.md) | 4.04 | 175 | 276 |
+| 893 | [Second Extinction™](games/s/second_extinction™.md) | 4.04 | 433 | 196 |
 | 897 | [Gravewood High](games/g/gravewood_high.md) | 4.03 | 0 | 496 |
 | 897 | [Lake](games/l/lake.md) | 4.03 | 0 | 496 |
 | 897 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 0 | 496 |

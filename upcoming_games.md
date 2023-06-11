@@ -178,6 +178,7 @@
 | [Train World](games/t/train_world.md) | 2023-12-31 | - |  | - | - |
 | [UFO ROBOT GRENDIZER - THE FEAST OF THE WOLVES](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-12-31 | - |  | - | - |
 | [VED](games/v/ved.md) | 2023-12-31 | - |  | - | - |
+| [Venatur](games/a/ac4ba4393ede46f1960596d753b6222c.md) | 2023-12-31 | - |  | - | - |
 | [Warpaws](games/w/warpaws.md) | 2023-12-31 | - |  | - | - |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2023-12-31 | - |  | - | - |
 | [World Eternal Online](games/w/world_eternal_online.md) | 2023-12-31 | - |  | - | - |
@@ -190,6 +191,7 @@
 | [Dismay](games/d/dismay.md) | 2024-12-31 | - |  | - | - |
 | [Lost Colony](games/0/06a110092f0143eeb0c13bdbf367fb55.md) | 2024-12-31 | - |  | - | - |
 | [MonTamer](games/m/montamer.md) | 2024-12-31 | - |  | - | - |
+| [Nova Roma](games/2/2e8cb86b0e9a4322bd9b57ae31d7e632.md) | 2024-12-31 | - |  | - | - |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-12-31 | - |  | - | - |
 | [While We Wait Here](games/w/while_we_wait_here.md) | 2024-12-31 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
