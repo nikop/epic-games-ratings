@@ -3,9 +3,9 @@
   "Name": "Deliver Us Mars",
   "ProductSlug": "deliver-us-mars",
   "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-02T15:00:00+00:00",
     "PcReleaseDate": "2023-02-02T15:00:00+00:00",
@@ -318,8 +318,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.5059025+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.8750622+00:00",
   "LastChanged": "2023-03-31T05:57:02.5059026+00:00",
-  "LastChanged_Achievements": "2023-06-11T22:06:10.5162343+00:00",
+  "LastChanged_Achievements": "2023-06-11T23:06:31.1732681+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:43.512176+00:00",
-  "LastUpdate_Ratings": "2023-06-11T21:59:22.5119384+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:06:10.5162553+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:59:40.9239862+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:06:31.1733082+00:00"
 }

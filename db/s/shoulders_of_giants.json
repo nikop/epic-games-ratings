@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2145,
+  "EOS_Progressed": 2146,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1171,6 +1171,11 @@
       "Time": "2023-06-10T17:05:59.8432813+00:00",
       "NumProgressed": 2145,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-11T23:06:35.0483359+00:00",
+      "NumProgressed": 2146,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1252,9 +1257,9 @@
       "ID": "fail_planet",
       "SetID": "236b9eg",
       "Name": "At Least We Have Each Other...",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1610
     },
     {
       "ID": "piercing_beam",
@@ -1286,7 +1291,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1310,7 +1315,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "stun_enemies",
@@ -1318,7 +1323,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "trash_truck",
@@ -1333,7 +1338,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2145,
+      "Progressed": 2146,
       "Completed": 9
     }
   ],
@@ -1341,8 +1346,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-06-11T22:06:13.9328329+00:00",
+  "LastChanged_Achievements": "2023-06-11T23:06:35.0483351+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:47.8202637+00:00",
-  "LastUpdate_Ratings": "2023-06-11T22:00:25.4672148+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:06:13.9328771+00:00"
+  "LastUpdate_Ratings": "2023-06-11T23:00:42.0581052+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:06:35.0483689+00:00"
 }

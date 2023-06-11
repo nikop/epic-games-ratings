@@ -4,8 +4,8 @@
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -104,17 +104,17 @@
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LEVEL_3",
       "SetID": "1fnbp5h",
       "Name": "Haunted Mansion",
-      "Percentage": 58,
+      "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_4",
@@ -174,8 +174,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-06-11T22:05:50.0694346+00:00",
+  "LastChanged_Achievements": "2023-06-11T23:06:10.5015262+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.550405+00:00",
-  "LastUpdate_Ratings": "2023-06-11T21:57:11.9767171+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:05:50.0694439+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:57:25.1046134+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:06:10.5015386+00:00"
 }

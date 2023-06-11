@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4222,9 +4222,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90478,
+  "EOS_Progressed": 90481,
   "EOS_Completed": 1929,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9582,6 +9582,11 @@
       "Time": "2023-06-11T22:06:32.160165+00:00",
       "NumProgressed": 90478,
       "NumCompleted": 1929
+    },
+    {
+      "Time": "2023-06-11T23:06:54.2074103+00:00",
+      "NumProgressed": 90481,
+      "NumCompleted": 1929
     }
   ],
   "TotalAchievements": 493,
@@ -11735,9 +11740,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 452
     },
     {
       "ID": "objective_completed_540",
@@ -13536,21 +13541,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56752,
+      "Progressed": 56755,
       "Completed": 2785
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90478,
+      "Progressed": 90481,
       "Completed": 1929
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-10T22:57:45.4027598+00:00",
-  "LastChanged_Achievements": "2023-06-11T22:06:32.1601644+00:00",
+  "LastChanged_Achievements": "2023-06-11T23:06:54.2074098+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-11T21:58:02.298132+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:06:32.1629108+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:58:17.7577595+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:06:54.2096508+00:00"
 }

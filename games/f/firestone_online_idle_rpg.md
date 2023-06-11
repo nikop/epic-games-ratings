@@ -15,8 +15,8 @@ Rating: 4.05 (Ranked 890)
 | The game is on | 18.00% | ~248 |
 | Exotic Merchant | 17.00% | ~234 |
 | Dragon Clicker | 16.00% | ~220 |
+| Miner Clicker | 16.00% | ~220 |
 | Inspection | 15.00% | ~206 |
-| Miner Clicker | 15.00% | ~206 |
 | Full Party | 14.00% | ~193 |
 | Dragon Master | 13.00% | ~179 |
 | Enlightenment | 13.00% | ~179 |
@@ -82,7 +82,7 @@ Rating: 4.05 (Ranked 890)
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,376 (Ranked 163)  
-Completed: 1 (0.07%) (Ranked 177)  
+Completed: 1 (0.07%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.80 (Ranked 79)  
+Rating: 4.80 (Ranked 80)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -60,7 +60,7 @@ Rating: 4.80 (Ranked 79)
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,331 (Ranked 150)  
-Completed: 1 (0.04%) (Ranked 187)  
+Completed: 1 (0.04%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

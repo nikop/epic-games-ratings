@@ -3,9 +3,9 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 192,
-  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -20,10 +20,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 661,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 59,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -1199,6 +1199,11 @@
       "Time": "2023-06-11T20:05:10.1815486+00:00",
       "NumProgressed": 661,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T23:05:52.4449397+00:00",
+      "NumProgressed": 661,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1296,9 +1301,9 @@
       "ID": "EntresolChests1",
       "SetID": "a9e499d",
       "Name": "Entresol Explorer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -1634,13 +1639,13 @@
       "ID": "a9e499d",
       "IsBase": true,
       "Progressed": 661,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-11T22:05:32.6619846+00:00",
+  "LastChanged_Achievements": "2023-06-11T23:05:52.4449391+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-11T21:59:28.1126486+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:05:32.6620365+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:59:46.6739204+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:05:52.445+00:00"
 }

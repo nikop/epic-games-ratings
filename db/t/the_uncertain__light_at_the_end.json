@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 88,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 453,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.11,
+  "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -329,6 +329,11 @@
       "Time": "2023-06-11T14:06:00.7434403+00:00",
       "NumProgressed": 452,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-11T23:06:41.0558187+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -418,9 +423,9 @@
       "ID": "Headshot",
       "SetID": "ek310c",
       "Name": "U Mad Bro?",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 50
     },
     {
       "ID": "Healthy_Child",
@@ -460,7 +465,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Leisurely_Strol",
@@ -556,7 +561,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -571,7 +576,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 453,
       "Completed": 5
     }
   ],
@@ -579,8 +584,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-06-11T22:06:19.4163382+00:00",
+  "LastChanged_Achievements": "2023-06-11T23:06:41.055818+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:06.3393279+00:00",
-  "LastUpdate_Ratings": "2023-06-11T22:00:42.1532398+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:06:19.4163602+00:00"
+  "LastUpdate_Ratings": "2023-06-11T23:00:59.7506975+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:06:41.0558418+00:00"
 }

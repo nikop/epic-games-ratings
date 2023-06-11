@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1604,
+  "EOS_Progressed": 1605,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 8.17,
+  "EOS_Completed_Percentage": 8.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2493,6 +2493,11 @@
       "Time": "2023-06-11T20:05:35.7571735+00:00",
       "NumProgressed": 1604,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-06-11T23:06:22.6597371+00:00",
+      "NumProgressed": 1605,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 12,
@@ -2512,7 +2517,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Building the Fox",
@@ -2536,7 +2541,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "Jakob",
@@ -2552,7 +2557,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Le Juif et la France",
@@ -2568,7 +2573,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -2592,14 +2597,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1604,
+      "Progressed": 1605,
       "Completed": 131
     }
   ],
@@ -2607,8 +2612,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-11T22:06:02.0889518+00:00",
+  "LastChanged_Achievements": "2023-06-11T23:06:22.6597364+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:00.0693666+00:00",
-  "LastUpdate_Ratings": "2023-06-11T21:59:39.2385087+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:06:02.0889742+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:59:56.9600858+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:06:22.6597764+00:00"
 }

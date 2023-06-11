@@ -27,18 +27,18 @@ Number of Ratings: 111  (23.09.2022)
 | Sup widdit big dog! | 5.00% | ~119 |
 | That pinch! | 5.00% | ~119 |
 | Tight lipslides | 5.00% | ~119 |
-| Commence the Hijinx! | 4.00% | ~95 |
-| DIY Boss | 4.00% | ~95 |
-| Globetrotter | 4.00% | ~95 |
-| Laid back | 4.00% | ~95 |
-| Lines for days | 4.00% | ~95 |
-| Manny Destroys All | 4.00% | ~95 |
-| NAHELL! | 4.00% | ~95 |
-| Prince of Philly | 4.00% | ~95 |
-| Purple passion | 4.00% | ~95 |
-| Renaissance man | 4.00% | ~95 |
-| Tank commander | 4.00% | ~95 |
-| Trick shot marksman | 4.00% | ~95 |
+| Commence the Hijinx! | 4.00% | ~96 |
+| DIY Boss | 4.00% | ~96 |
+| Globetrotter | 4.00% | ~96 |
+| Laid back | 4.00% | ~96 |
+| Lines for days | 4.00% | ~96 |
+| Manny Destroys All | 4.00% | ~96 |
+| NAHELL! | 4.00% | ~96 |
+| Prince of Philly | 4.00% | ~96 |
+| Purple passion | 4.00% | ~96 |
+| Renaissance man | 4.00% | ~96 |
+| Tank commander | 4.00% | ~96 |
+| Trick shot marksman | 4.00% | ~96 |
 | Cops called! | 3.00% | ~72 |
 | G.O.A.T. status | 3.00% | ~72 |
 | Hoarder | 3.00% | ~72 |
@@ -55,8 +55,8 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,387 (Ranked 149)  
-Completed: 0 (0.00%) (Ranked 215)  
+Progressed: 2,388 (Ranked 149)  
+Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 2,327 | 0 |
 | 2023-06-09 | 2,344 | 0 |
 | 2023-06-10 | 2,362 | 0 |
-| 2023-06-11 | 2,387 | 0 |
+| 2023-06-11 | 2,388 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 401)  
 Sum: 421 (Ranked 301)  

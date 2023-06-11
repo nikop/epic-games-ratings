@@ -35,6 +35,7 @@
 | Family Memories | 4.00% | ~26 |
 | Ask Questions Later | 4.00% | ~26 |
 | Sartorialist | 3.00% | ~20 |
+| Entresol Explorer | 3.00% | ~20 |
 | Factorywood Explorer | 3.00% | ~20 |
 | Whiz Kid | 3.00% | ~20 |
 | Sump Explorer | 3.00% | ~20 |
@@ -44,7 +45,6 @@
 | Corin Goes Home | 2.00% | ~13 |
 | Clovemary for Remembering | 2.00% | ~13 |
 | Cultivair Explorer | 2.00% | ~13 |
-| Entresol Explorer | 2.00% | ~13 |
 | Fairgrounds Explorer | 2.00% | ~13 |
 | Golem Hunter | 2.00% | ~13 |
 | Rungs Was Right | 2.00% | ~13 |
@@ -59,7 +59,7 @@
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 661 (Ranked 192)  
-Completed: 0 (0.00%) (Ranked 215)  
+Completed: 1 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,4 +82,4 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 633 | 0 |
 | 2023-06-09 | 642 | 0 |
 | 2023-06-10 | 653 | 0 |
-| 2023-06-11 | 661 | 0 |
+| 2023-06-11 | 661 | 1 |

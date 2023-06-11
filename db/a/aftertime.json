@@ -3,9 +3,9 @@
   "Name": "Aftertime",
   "ProductSlug": "aftertime-1ca584",
   "Ranking_EOS_Progress": 442,
-  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-18T03:00:00+00:00",
     "PcReleaseDate": "2022-10-31T10:30:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-27T04:56:55.1615837+00:00",
   "LastChanged": "2023-04-27T04:56:55.1615854+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:16.5582013+00:00",
-  "LastUpdate_Ratings": "2023-06-11T21:57:09.7113474+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:01:01.3650412+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:57:22.5655298+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:01:20.7586753+00:00"
 }

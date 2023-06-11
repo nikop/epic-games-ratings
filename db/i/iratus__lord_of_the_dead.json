@@ -6,7 +6,7 @@
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 88,
-  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
@@ -1990,9 +1990,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 31850,
+  "EOS_Progressed": 31851,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7400,6 +7400,11 @@
       "Time": "2023-06-11T22:06:27.2918109+00:00",
       "NumProgressed": 31850,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-11T23:06:49.163949+00:00",
+      "NumProgressed": 31851,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 75,
@@ -7427,7 +7432,7 @@
       "Name": "Blood Madness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     },
     {
       "ID": "achievements_12",
@@ -7443,7 +7448,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18154
+      "UsersEstimate": 18155
     },
     {
       "ID": "achievements_14",
@@ -7483,7 +7488,7 @@
       "Name": "More Mortal Suffering!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "achievements_20",
@@ -7507,7 +7512,7 @@
       "Name": "First Sacrifice",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     },
     {
       "ID": "achievements_23",
@@ -7515,7 +7520,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 19110
+      "UsersEstimate": 19111
     },
     {
       "ID": "achievements_24",
@@ -7563,7 +7568,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 10510
+      "UsersEstimate": 10511
     },
     {
       "ID": "achievements_3",
@@ -7603,7 +7608,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 9236
+      "UsersEstimate": 9237
     },
     {
       "ID": "achievements_34",
@@ -7659,7 +7664,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 21021
+      "UsersEstimate": 21022
     },
     {
       "ID": "achievements_40",
@@ -7683,7 +7688,7 @@
       "Name": "Forbidden Knowledge",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "achievements_43",
@@ -7715,7 +7720,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 27072
+      "UsersEstimate": 27073
     },
     {
       "ID": "achievements_47",
@@ -7723,7 +7728,7 @@
       "Name": "Master of Alchemy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     },
     {
       "ID": "achievements_48",
@@ -7779,7 +7784,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18154
+      "UsersEstimate": 18155
     },
     {
       "ID": "achievements_54",
@@ -7947,7 +7952,7 @@
       "Name": "Live Operation",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "achievements_74",
@@ -7987,7 +7992,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 23250
+      "UsersEstimate": 23251
     },
     {
       "ID": "achievements_8",
@@ -8003,22 +8008,22 @@
       "Name": "Blood Mage",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     }
   ],
   "AchievementSets": [
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 31850,
+      "Progressed": 31851,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-06-09T11:59:51.2581598+00:00",
-  "LastChanged_Achievements": "2023-06-11T22:06:27.2918104+00:00",
+  "LastChanged_Achievements": "2023-06-11T23:06:49.1639485+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:08.7743101+00:00",
-  "LastUpdate_Ratings": "2023-06-11T21:58:50.2746235+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:06:27.2919244+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:59:06.6430049+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:06:49.1641546+00:00"
 }

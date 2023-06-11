@@ -2,10 +2,10 @@
   "ID": "8f25cbefde7d4e7c8537aa860415d0b5",
   "Name": "Voltaire: The Vegan Vampire",
   "ProductSlug": "voltaire-e1c517",
-  "Ranking_EOS_Progress": 279,
-  "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 98,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -148,6 +148,11 @@
       "Time": "2023-06-11T16:03:33.7098108+00:00",
       "NumProgressed": 97,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T23:03:49.976659+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -191,7 +196,7 @@
       "Name": "Good to grow",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "FISH",
@@ -231,7 +236,7 @@
       "Name": "So it begins",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "HUNTING",
@@ -309,7 +314,7 @@
       "ID": "KILL_SKULLY",
       "SetID": "3c20ib3",
       "Name": "Night Shift",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 23
     },
@@ -406,7 +411,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 98,
       "Completed": 0
     }
   ],
@@ -414,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-06-11T22:03:43.5867172+00:00",
+  "LastChanged_Achievements": "2023-06-11T23:03:49.9766583+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:35.578677+00:00",
-  "LastUpdate_Ratings": "2023-06-11T21:57:25.000735+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:03:43.5867398+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:57:38.0823811+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:03:49.9767043+00:00"
 }

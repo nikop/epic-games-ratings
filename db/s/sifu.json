@@ -6,9 +6,9 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4554,9 +4554,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 708815,
+  "EOS_Progressed": 708823,
   "EOS_Completed": 12766,
-  "EOS_NewPlayers": 1403,
+  "EOS_NewPlayers": 1404,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9479,6 +9479,11 @@
       "Time": "2023-06-11T22:06:23.4743756+00:00",
       "NumProgressed": 708815,
       "NumCompleted": 12766
+    },
+    {
+      "Time": "2023-06-11T23:06:45.415448+00:00",
+      "NumProgressed": 708823,
+      "NumCompleted": 12766
     }
   ],
   "TotalAchievements": 50,
@@ -9826,7 +9831,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -9889,21 +9894,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18116,
+      "Progressed": 18124,
       "Completed": 10259
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708815,
+      "Progressed": 708823,
       "Completed": 12766
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-11T19:58:38.9031146+00:00",
-  "LastChanged_Achievements": "2023-06-11T22:06:23.4743751+00:00",
+  "LastChanged_Achievements": "2023-06-11T23:06:45.4154473+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-11T21:59:03.1612421+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:06:23.4744448+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:59:21.312086+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:06:45.4155744+00:00"
 }

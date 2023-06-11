@@ -1400,25 +1400,25 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 185
     },
     {
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 181
     },
     {
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 181
+      "UsersEstimate": 185
     },
     {
       "ID": "MQ05_4",
@@ -1521,8 +1521,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-11T22:04:12.8424207+00:00",
+  "LastChanged_Achievements": "2023-06-11T23:04:30.7007401+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-11T21:57:11.9240514+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:04:12.8424464+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:57:25.1068289+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:04:30.7007686+00:00"
 }

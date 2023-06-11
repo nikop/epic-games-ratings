@@ -6,25 +6,25 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 60.00% | ~154 |
-| Scrap Gatherer | 57.00% | ~146 |
-| Mushroom Picker | 55.00% | ~141 |
-| Scrapper | 48.00% | ~123 |
-| Cook | 41.00% | ~105 |
+| My New Home | 60.00% | ~155 |
+| Scrap Gatherer | 57.00% | ~147 |
+| Mushroom Picker | 55.00% | ~142 |
+| Scrapper | 48.00% | ~124 |
+| Cook | 41.00% | ~106 |
 | Teleport | 40.00% | ~103 |
-| Scrap Master | 39.00% | ~100 |
-| Smelter | 37.00% | ~95 |
-| Electro-Scrap Gatherer | 34.00% | ~87 |
-| Digger | 32.00% | ~82 |
-| Survivor | 32.00% | ~82 |
+| Scrap Master | 38.00% | ~98 |
+| Smelter | 36.00% | ~93 |
+| Electro-Scrap Gatherer | 34.00% | ~88 |
+| Digger | 32.00% | ~83 |
+| Survivor | 32.00% | ~83 |
 | Robot Destroyer | 31.00% | ~80 |
 | Herbalist | 28.00% | ~72 |
 | Lumberjack | 26.00% | ~67 |
 | Prepper | 25.00% | ~64 |
 | Electro-Scrap Master | 24.00% | ~62 |
 | Robot Hunter | 21.00% | ~54 |
-| Master Of Technology | 18.00% | ~46 |
 | Advanced Survivalist | 18.00% | ~46 |
+| Master Of Technology | 17.00% | ~44 |
 | Treasure Hunter | 17.00% | ~44 |
 | Blacksmith | 11.00% | ~28 |
 | Mythical Smelter | 11.00% | ~28 |
@@ -34,12 +34,12 @@ Number of Ratings: 38  (23.09.2022)
 | Smelting Master | 9.00% | ~23 |
 | Black Gold | 7.00% | ~18 |
 | Traveler | 4.00% | ~10 |
-| Survival Master | 4.00% | ~10 |
+| Survival Master | 3.00% | ~8 |
 | Forest Killer | 1.00% | ~3 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 238)  
-Completed: 0 (0.00%) (Ranked 215)  
+Progressed: 258 (Ranked 238)  
+Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 248 | 0 |
 | 2023-06-09 | 249 | 0 |
 | 2023-06-10 | 255 | 0 |
-| 2023-06-11 | 257 | 0 |
+| 2023-06-11 | 258 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -16,7 +16,7 @@ Rating: 3.89 (Ranked 920)
 | Occupy Mars! | 22.00% | ~266 |
 | Houston we have a problem | 21.00% | ~254 |
 | Detective | 18.00% | ~218 |
-| The Collector | 15.00% | ~181 |
+| The Collector | 15.00% | ~182 |
 | Get your hands dirty | 9.00% | ~109 |
 | All Wheel Trouble | 6.00% | ~73 |
 | Space Forest | 6.00% | ~73 |
@@ -54,8 +54,8 @@ Rating: 3.89 (Ranked 920)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,209 (Ranked 167)  
-Completed: 0 (0.00%) (Ranked 215)  
+Progressed: 1,210 (Ranked 167)  
+Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 1,162 | 0 |
 | 2023-06-09 | 1,179 | 0 |
 | 2023-06-10 | 1,195 | 0 |
-| 2023-06-11 | 1,209 | 0 |
+| 2023-06-11 | 1,210 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

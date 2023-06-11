@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,866 |
-| That's a Grand Army | 8.00% | ~4,325 |
-| That is mine! | 8.00% | ~4,325 |
-| Victorious! | 8.00% | ~4,325 |
+| Until death do us apart | 9.00% | ~4,867 |
+| That's a Grand Army | 8.00% | ~4,326 |
+| That is mine! | 8.00% | ~4,326 |
+| Victorious! | 8.00% | ~4,326 |
 | Brothers in Arms | 6.00% | ~3,244 |
 | That's a Grand Navy | 6.00% | ~3,244 |
 | Seriously?! | 6.00% | ~3,244 |
-| For the Glory | 5.00% | ~2,703 |
+| For the Glory | 5.00% | ~2,704 |
 | Cold War | 4.00% | ~2,163 |
 | True Catholic | 4.00% | ~2,163 |
 | Defender of the Faith | 3.00% | ~1,622 |
@@ -43,7 +43,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~487 |
 | Market Control | 0.90% | ~487 |
 | Down Under | 0.80% | ~433 |
-| Trustworthy | 0.70% | ~378 |
+| Trustworthy | 0.70% | ~379 |
 | All belongs to Mother Russia | 0.60% | ~324 |
 | At every continent | 0.60% | ~324 |
 | Early-Modern Warfare | 0.60% | ~324 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,064 (Ranked 78)  
-Completed: 0 (0.00%) (Ranked 215)  
+Progressed: 54,074 (Ranked 78)  
+Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -413,7 +413,7 @@ Completed: 0 (0.00%) (Ranked 215)
 | 2023-06-08 | 52,261 | 0 |
 | 2023-06-09 | 52,837 | 0 |
 | 2023-06-10 | 53,460 | 0 |
-| 2023-06-11 | 54,064 | 0 |
+| 2023-06-11 | 54,074 | 0 |
 ## Awards
 Max (Educational): 5,376  (Ranked 61)  
 Sum: 44,434 (Ranked 27)  

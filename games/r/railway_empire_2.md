@@ -21,7 +21,7 @@ Rating: 4.22 (Ranked 814)
 | Facility Manager | 51.00% | ~573 |
 | Producer | 47.00% | ~528 |
 | Apprentice | 41.00% | ~461 |
-| Bridge Builder | 38.00% | ~427 |
+| Bridge Builder | 39.00% | ~438 |
 | Stoker | 33.00% | ~371 |
 | Access granted | 33.00% | ~371 |
 | Going once, going twice, sold | 31.00% | ~348 |
@@ -62,7 +62,7 @@ Rating: 4.22 (Ranked 814)
 | United States | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,124 (Ranked 170)  
-Completed: 0 (0.00%) (Ranked 215)  
+Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

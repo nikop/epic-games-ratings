@@ -9,7 +9,7 @@ Rating: 4.36 (Ranked 719)
 | Ranidaphobia | 76.00% | ~835 |
 | Aspiring Editor | 73.00% | ~802 |
 | Gun for Hire | 68.00% | ~747 |
-| I am the law! | 59.00% | ~648 |
+| I am the law! | 60.00% | ~659 |
 | Lumberjack | 47.00% | ~517 |
 | Croaked | 42.00% | ~462 |
 | Limp Richard | 41.00% | ~451 |
@@ -58,7 +58,7 @@ Rating: 4.36 (Ranked 719)
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,099 (Ranked 171)  
-Completed: 0 (0.00%) (Ranked 215)  
+Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

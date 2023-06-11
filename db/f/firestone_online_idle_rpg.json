@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -3376,9 +3376,9 @@
       "ID": "minerclicker",
       "SetID": "3nl4bcg",
       "Name": "Miner Clicker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 220
     },
     {
       "ID": "missionsdedication",
@@ -3649,8 +3649,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-11T22:06:18.6049697+00:00",
+  "LastChanged_Achievements": "2023-06-11T23:06:40.2947824+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-11T21:58:00.5113759+00:00",
-  "LastUpdate_Achievements": "2023-06-11T22:06:18.6050605+00:00"
+  "LastUpdate_Ratings": "2023-06-11T22:58:15.3592503+00:00",
+  "LastUpdate_Achievements": "2023-06-11T23:06:40.2949479+00:00"
 }

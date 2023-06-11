@@ -14,10 +14,10 @@
 | Senior warrant officer Baran 1st class | 30.00% | ~13 |
 | Senior warrant officer Baran 2nd class | 30.00% | ~13 |
 | Senior warrant officer Baran 3rd class | 27.00% | ~12 |
-| Senior warrant officer Baran 4th class | 20.00% | ~9 |
-| Junior Lieutenant Baran | 20.00% | ~9 |
-| Baran Senior Warrant Officer Grade 5 | 18.00% | ~8 |
-| Senior Lieutenant Baran | 16.00% | ~7 |
+| Senior warrant officer Baran 4th class | 23.00% | ~10 |
+| Junior Lieutenant Baran | 23.00% | ~10 |
+| Baran Senior Warrant Officer Grade 5 | 20.00% | ~9 |
+| Senior Lieutenant Baran | 18.00% | ~8 |
 | Captain Baran | 7.00% | ~3 |
 | Senior Major Baran | 7.00% | ~3 |
 | Lieutenant Colonel Baran | 5.00% | ~2 |
@@ -28,7 +28,7 @@
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 44 (Ranked 314)  
-Completed: 0 (0.00%) (Ranked 215)  
+Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

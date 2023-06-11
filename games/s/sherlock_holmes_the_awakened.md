@@ -14,10 +14,10 @@
 | The New World | 45.00% | ~194 |
 | Lock, Stock, And Barrel | 44.00% | ~190 |
 | Gaze Into The Abyss | 43.00% | ~185 |
-| Open Sesame | 42.00% | ~181 |
-| Sticky Fingers | 42.00% | ~181 |
+| Open Sesame | 43.00% | ~185 |
+| Sticky Fingers | 43.00% | ~185 |
+| Back In The Saddle | 42.00% | ~181 |
 | Knives Out | 42.00% | ~181 |
-| Back In The Saddle | 41.00% | ~177 |
 | Land, Ho! | 41.00% | ~177 |
 | No Man Is An Island | 39.00% | ~168 |
 | At Wits' End | 38.00% | ~164 |

@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.50% | ~452 |
 | Unearthed Evil | 0.50% | ~452 |
 | The Crumbling Temple | 0.50% | ~452 |
+| Exploring Port Nyanzaru | 0.50% | ~452 |
 | Pure Energy | 0.50% | ~452 |
 | Quick or Quack | 0.50% | ~284 |
 | Maddening | 0.40% | ~362 |
@@ -35,7 +36,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.40% | ~362 |
 | Building Trust | 0.40% | ~362 |
 | Useless Allies | 0.40% | ~362 |
-| Exploring Port Nyanzaru | 0.40% | ~362 |
 | Running of the Saurs | 0.40% | ~362 |
 | The Contagious Curse | 0.40% | ~362 |
 | Escort to Waterdeep | 0.40% | ~362 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,478 (Ranked 64)  
+Progressed: 90,481 (Ranked 64)  
 Completed: 1,929 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 1,929 (2.13%) (Ranked 66)
 | 2023-06-08 | 90,164 | 1,924 |
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
-| 2023-06-11 | 90,478 | 1,929 |
+| 2023-06-11 | 90,481 | 1,929 |
 ## Awards
 Max (Diverse Characters): 4,928  (Ranked 64)  
 Sum: 30,075 (Ranked 37)  
