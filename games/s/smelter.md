@@ -30,9 +30,11 @@
 | All Beefed Up | 11.00% | ~4 |
 | The Smelter | 11.00% | ~4 |
 | What's Yours Is Mine | 11.00% | ~4 |
+| We're Breaking Up | 11.00% | ~4 |
 | Remains of the Rumbly Lands | 11.00% | ~4 |
 | How Do You Like Them Apples? | 11.00% | ~4 |
 | A Wingman Falls | 11.00% | ~4 |
+| With a Little Help from My Friends | 11.00% | ~4 |
 | Gotta Collect Them All | 8.00% | ~3 |
 | Keeping Things Tidy | 8.00% | ~3 |
 | Scheming Away | 8.00% | ~3 |
@@ -49,11 +51,9 @@
 | Nutoro Trial Extraordinaire | 8.00% | ~3 |
 | Scour the Nutoro Domain | 8.00% | ~3 |
 | Let the Undershell Flow | 8.00% | ~3 |
-| We're Breaking Up | 8.00% | ~3 |
 | He Who Smelt It Dealt It | 8.00% | ~3 |
 | Smelter's Got Your Back | 8.00% | ~3 |
 | In Her Prime | 8.00% | ~3 |
-| With a Little Help from My Friends | 8.00% | ~3 |
 | The More the Merrier | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 36 (Ranked 327)  

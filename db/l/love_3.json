@@ -3,9 +3,9 @@
   "Name": "LOVE 3",
   "ProductSlug": "love-3-c2516f",
   "Ranking_EOS_Progress": 442,
-  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-12-07T00:00:00+00:00",
     "PcReleaseDate": "2021-12-07T00:00:00+00:00",
@@ -47,8 +47,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.4140956+00:00",
   "FirstSeenAchievements": "2023-05-25T21:04:32.3599326+00:00",
   "LastChanged": "2023-03-31T05:58:42.4140957+00:00",
-  "LastChanged_Achievements": "2023-06-11T18:04:45.2094008+00:00",
+  "LastChanged_Achievements": "2023-06-11T19:04:45.2511714+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:53.2698054+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:59:06.5837018+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:04:45.2094052+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:59:12.9229471+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:04:45.2511742+00:00"
 }

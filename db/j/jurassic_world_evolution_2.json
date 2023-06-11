@@ -3,12 +3,12 @@
   "Name": "Jurassic World Evolution 2",
   "ProductSlug": "jurassic-world-evolution-2",
   "Ranking_Rating": 143,
-  "Ranking_Popularity": 167,
+  "Ranking_Popularity": 168,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 442,
-  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-11-09T14:00:00+00:00",
     "PcReleaseDate": "2021-11-09T14:00:00+00:00",
@@ -3482,10 +3482,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 5603,
       "NumberOfAwardsMax": 616
+    },
+    {
+      "Time": "2023-06-11T18:57:52.7027516+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 5608,
+      "NumberOfAwardsMax": 616
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5603,
+  "NumberOfAwards": 5608,
   "NumberOfAwardsMax": 616,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3505,7 +3511,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 547
+      "Count": 550
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3547,7 +3553,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 554
+      "Count": 556
     },
     {
       "Text": "This game has a Creative Community",
@@ -3567,8 +3573,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2023-06-11T17:57:45.7751355+00:00",
+  "LastChanged": "2023-06-11T18:57:52.7027515+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:02.8221554+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:57:45.7751367+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:04:12.3598274+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:57:52.7027521+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:04:13.5221028+00:00"
 }

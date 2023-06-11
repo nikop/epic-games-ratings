@@ -6,42 +6,42 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,855 |
-| That's a Grand Army | 8.00% | ~4,315 |
-| That is mine! | 8.00% | ~4,315 |
-| Victorious! | 8.00% | ~4,315 |
-| Brothers in Arms | 6.00% | ~3,237 |
-| That's a Grand Navy | 6.00% | ~3,237 |
-| Seriously?! | 6.00% | ~3,237 |
-| For the Glory | 5.00% | ~2,697 |
-| Cold War | 4.00% | ~2,158 |
-| True Catholic | 4.00% | ~2,158 |
-| Defender of the Faith | 3.00% | ~1,618 |
-| It's all about the money | 3.00% | ~1,618 |
-| Respected | 3.00% | ~1,618 |
-| Truly Divine Ruler | 3.00% | ~1,618 |
-| Agressive Expander | 2.00% | ~1,079 |
-| Blockader | 2.00% | ~1,079 |
-| Combined Arms | 2.00% | ~1,079 |
-| Double the Love | 2.00% | ~1,079 |
-| Gentle Persuasion | 2.00% | ~1,079 |
-| It's all about luck | 2.00% | ~1,079 |
-| My armies are invincible! | 2.00% | ~1,079 |
-| Queen of Conquest | 2.00% | ~1,079 |
-| Royal Authority | 2.00% | ~1,079 |
-| The Princess is in this Castle | 2.00% | ~1,079 |
-| Total Control | 2.00% | ~1,079 |
-| All That's Thine Shall Be Mine | 1.00% | ~539 |
-| Azur semé de lis or | 1.00% | ~539 |
-| Bright Spark | 1.00% | ~539 |
-| City of Cities | 1.00% | ~539 |
-| Factionalism | 1.00% | ~539 |
-| A Golden Empire | 1.00% | ~539 |
-| The Five Colonies | 1.00% | ~539 |
-| This navy can take it all | 1.00% | ~539 |
-| The Emperors new clothes | 0.90% | ~485 |
-| Isn't this the way to India? | 0.90% | ~485 |
-| Market Control | 0.90% | ~485 |
+| Until death do us apart | 9.00% | ~4,858 |
+| That's a Grand Army | 8.00% | ~4,318 |
+| That is mine! | 8.00% | ~4,318 |
+| Victorious! | 8.00% | ~4,318 |
+| Brothers in Arms | 6.00% | ~3,239 |
+| That's a Grand Navy | 6.00% | ~3,239 |
+| Seriously?! | 6.00% | ~3,239 |
+| For the Glory | 5.00% | ~2,699 |
+| Cold War | 4.00% | ~2,159 |
+| True Catholic | 4.00% | ~2,159 |
+| Defender of the Faith | 3.00% | ~1,619 |
+| It's all about the money | 3.00% | ~1,619 |
+| Respected | 3.00% | ~1,619 |
+| Truly Divine Ruler | 3.00% | ~1,619 |
+| Agressive Expander | 2.00% | ~1,080 |
+| Blockader | 2.00% | ~1,080 |
+| Combined Arms | 2.00% | ~1,080 |
+| Double the Love | 2.00% | ~1,080 |
+| Gentle Persuasion | 2.00% | ~1,080 |
+| It's all about luck | 2.00% | ~1,080 |
+| My armies are invincible! | 2.00% | ~1,080 |
+| Queen of Conquest | 2.00% | ~1,080 |
+| Royal Authority | 2.00% | ~1,080 |
+| The Princess is in this Castle | 2.00% | ~1,080 |
+| Total Control | 2.00% | ~1,080 |
+| All That's Thine Shall Be Mine | 1.00% | ~540 |
+| Azur semé de lis or | 1.00% | ~540 |
+| Bright Spark | 1.00% | ~540 |
+| City of Cities | 1.00% | ~540 |
+| Factionalism | 1.00% | ~540 |
+| A Golden Empire | 1.00% | ~540 |
+| The Five Colonies | 1.00% | ~540 |
+| This navy can take it all | 1.00% | ~540 |
+| The Emperors new clothes | 0.90% | ~486 |
+| Isn't this the way to India? | 0.90% | ~486 |
+| Market Control | 0.90% | ~486 |
 | Down Under | 0.80% | ~432 |
 | Trustworthy | 0.70% | ~378 |
 | All belongs to Mother Russia | 0.60% | ~324 |
@@ -88,6 +88,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Basileus | 0.20% | ~108 |
 | Fine Financials | 0.20% | ~108 |
 | A Fine Goosestep | 0.20% | ~108 |
+| Full House | 0.20% | ~108 |
 | Imperio español | 0.20% | ~108 |
 | Industrial Powerhouse | 0.20% | ~108 |
 | Magellan’s Voyage | 0.20% | ~108 |
@@ -163,7 +164,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | From Humble Origins | 0.10% | ~54 |
 | Frozen Assets | 0.10% | ~54 |
 | Fugger Banking | 0.10% | ~54 |
-| Full House | 0.10% | ~54 |
 | Ganges Khan | 0.10% | ~54 |
 | Georgia on my Mind | 0.10% | ~54 |
 | God Tier | 0.10% | ~54 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,942 (Ranked 78)  
-Completed: 0 (0.00%) (Ranked 214)  
+Progressed: 53,976 (Ranked 78)  
+Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -413,18 +413,18 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 52,261 | 0 |
 | 2023-06-09 | 52,837 | 0 |
 | 2023-06-10 | 53,460 | 0 |
-| 2023-06-11 | 53,942 | 0 |
+| 2023-06-11 | 53,976 | 0 |
 ## Awards
 Max (Educational): 5,376  (Ranked 61)  
-Sum: 44,422 (Ranked 27)  
+Sum: 44,434 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,376 |
-| This game is Highly Recommended | 5,151 |
+| This game is Highly Recommended | 5,158 |
 | This game has Challenging Combat | 5,120 |
 | This game is Extremely Fun | 5,090 |
-| This game has Diverse Characters | 5,060 |
+| This game has Diverse Characters | 5,065 |
 | This game is Relaxing | 4,988 |
 | This game has Competitive Players | 4,837 |
 | This game has Amazing Storytelling | 4,574 |
@@ -578,4 +578,4 @@ Diff (max vs sum): 34
 | 2023-06-08 | 4.68 | - | 5,363 | 44,296 |
 | 2023-06-09 | 4.68 | - | 5,371 | 44,348 |
 | 2023-06-10 | 4.68 | - | 5,376 | 44,395 |
-| 2023-06-11 | 4.68 | - | 5,376 | 44,422 |
+| 2023-06-11 | 4.68 | - | 5,376 | 44,434 |

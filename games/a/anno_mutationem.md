@@ -11,7 +11,7 @@ Rating: 4.56 (Ranked 452)
 | Keep 'em coming! | 40.00% | ~252 |
 | Big Spender | 37.00% | ~233 |
 | The things they print nowadays | 37.00% | ~233 |
-| That's gotta hurt | 34.00% | ~214 |
+| That's gotta hurt | 35.00% | ~220 |
 | I think it's broke | 25.00% | ~158 |
 | The Ann Flores Combo Experience | 25.00% | ~158 |
 | Club Star | 23.00% | ~145 |
@@ -43,7 +43,7 @@ Rating: 4.56 (Ranked 452)
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 630 (Ranked 195)  
-Completed: 0 (0.00%) (Ranked 214)  
+Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -628,9 +628,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6185,
+  "EOS_Progressed": 6186,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2568,6 +2568,11 @@
       "Time": "2023-06-11T18:03:05.5021569+00:00",
       "NumProgressed": 6185,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-11T19:03:09.3180146+00:00",
+      "NumProgressed": 6186,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2635,7 +2640,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -2691,7 +2696,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -2787,7 +2792,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -2931,14 +2936,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3216
+      "UsersEstimate": 3217
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6185,
+      "Progressed": 6186,
       "Completed": 8
     }
   ],
@@ -2946,8 +2951,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-10T21:57:23.9166861+00:00",
-  "LastChanged_Achievements": "2023-06-11T18:03:05.5021563+00:00",
+  "LastChanged_Achievements": "2023-06-11T19:03:09.3180142+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:57:20.6600023+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:03:05.502195+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:57:29.5630034+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:03:09.3180674+00:00"
 }

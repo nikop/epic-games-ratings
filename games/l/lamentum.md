@@ -10,7 +10,7 @@ Rating: 4.37 (Ranked 712)
 | A forgotten language | 70.00% | ~202 |
 | Lord Wesley | 35.00% | ~101 |
 | One step down | 28.00% | ~81 |
-| My dear Magda | 27.00% | ~78 |
+| My dear Magda | 28.00% | ~81 |
 | Lord Clayton | 23.00% | ~66 |
 | The other side of the mirror | 15.00% | ~43 |
 | Little Mary | 14.00% | ~40 |

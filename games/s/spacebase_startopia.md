@@ -36,7 +36,7 @@
 | My Precious! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9 (Ranked 367)  
-Completed: 0 (0.00%) (Ranked 214)  
+Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -7,7 +7,7 @@ Number of Ratings: 125  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 87.00% | ~1,419 |
-| Self-Improvement | 71.00% | ~1,158 |
+| Self-Improvement | 72.00% | ~1,174 |
 | Perky | 65.00% | ~1,060 |
 | Let’s Ride | 60.00% | ~979 |
 | Welcome to the Weird West | 57.00% | ~930 |
@@ -61,7 +61,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,631 (Ranked 158)  
-Completed: 2 (0.12%) (Ranked 162)  
+Completed: 2 (0.12%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

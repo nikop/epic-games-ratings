@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38527,
+  "EOS_Progressed": 38528,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3574,6 +3574,11 @@
       "Time": "2023-06-11T18:05:43.4605176+00:00",
       "NumProgressed": 38527,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T19:05:41.6967202+00:00",
+      "NumProgressed": 38528,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -3633,7 +3638,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -3921,7 +3926,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "SPRING_ALL",
@@ -4008,22 +4013,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38527,
+      "Progressed": 38528,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3364,
-      "Completed": 3364
+      "Progressed": 3365,
+      "Completed": 3365
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-06-10T21:58:21.201474+00:00",
-  "LastChanged_Achievements": "2023-06-11T18:05:43.460517+00:00",
+  "LastChanged_Achievements": "2023-06-11T19:05:41.6967198+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:46.8509231+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:58:17.9155893+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:05:43.4605748+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:58:23.0472065+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:05:41.6967788+00:00"
 }

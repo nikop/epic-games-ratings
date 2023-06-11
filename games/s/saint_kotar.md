@@ -50,8 +50,8 @@
 | You Decided to Stay With God | 6.00% | ~1 |
 | Antun Has a Father Now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 344)  
-Completed: 0 (0.00%) (Ranked 214)  
+Progressed: 18 (Ranked 345)  
+Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

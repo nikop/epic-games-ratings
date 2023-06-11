@@ -37,12 +37,12 @@
 | Scout | 0.50% | ~2 |
 | Good Sméagol! | 0.50% | ~2 |
 | Rule them all! | 0.20% | ~1 |
+| We Hates Them! | 0.20% | ~1 |
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
-| We Hates Them! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 427 (Ranked 209)  
-Completed: 0 (0.00%) (Ranked 214)  
+Completed: 1 (0.23%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 418 | 0 |
 | 2023-06-09 | 422 | 0 |
 | 2023-06-10 | 424 | 0 |
-| 2023-06-11 | 427 | 0 |
+| 2023-06-11 | 427 | 1 |

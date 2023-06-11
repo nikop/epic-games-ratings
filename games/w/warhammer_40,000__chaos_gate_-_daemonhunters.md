@@ -21,9 +21,9 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 11.00% | ~318 |
 | A Foul Creche | 11.00% | ~318 |
 | Gunmaster | 10.00% | ~289 |
+| Opportunist | 8.00% | ~231 |
 | Efficient Killer | 8.00% | ~231 |
 | Just a Scratch | 8.00% | ~231 |
-| Opportunist | 7.00% | ~202 |
 | Hold Your Ground | 6.00% | ~173 |
 | A Gift Spurned | 5.00% | ~144 |
 | Daemonkeeper | 4.00% | ~115 |
@@ -67,7 +67,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,887 (Ranked 142)  
-Completed: 0 (0.00%) (Ranked 214)  
+Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

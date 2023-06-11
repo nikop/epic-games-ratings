@@ -6,9 +6,9 @@
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1567,10 +1567,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2404,
       "NumberOfAwardsMax": 788
+    },
+    {
+      "Time": "2023-06-11T18:59:30.1237829+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2405,
+      "NumberOfAwardsMax": 788
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2404,
+  "NumberOfAwards": 2405,
   "NumberOfAwardsMax": 788,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1584,7 +1590,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1647,9 +1653,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42747,
+  "EOS_Progressed": 42748,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3677,6 +3683,11 @@
       "Time": "2023-06-11T18:05:49.5111459+00:00",
       "NumProgressed": 42747,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-11T19:05:47.6917656+00:00",
+      "NumProgressed": 42748,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -3760,7 +3771,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17526
+      "UsersEstimate": 17527
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -3880,7 +3891,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26503
+      "UsersEstimate": 26504
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3928,7 +3939,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7694
+      "UsersEstimate": 7695
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -3944,7 +3955,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -3960,7 +3971,7 @@
       "Name": "Shock therapy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9404
+      "UsersEstimate": 9405
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -3976,7 +3987,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15816
+      "UsersEstimate": 15817
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -3984,7 +3995,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 17526
+      "UsersEstimate": 17527
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -4016,7 +4027,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 29068
+      "UsersEstimate": 29069
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -4048,7 +4059,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23938
+      "UsersEstimate": 23939
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -4152,7 +4163,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10259
+      "UsersEstimate": 10260
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -4184,7 +4195,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9404
+      "UsersEstimate": 9405
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -4200,7 +4211,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7694
+      "UsersEstimate": 7695
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -4215,15 +4226,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42747,
+      "Progressed": 42748,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2023-06-11T17:00:12.9210316+00:00",
-  "LastChanged_Achievements": "2023-06-11T18:05:49.5111455+00:00",
+  "LastChanged": "2023-06-11T18:59:30.1237826+00:00",
+  "LastChanged_Achievements": "2023-06-11T19:05:47.6917651+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:18.0082179+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:59:25.941274+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:05:49.5112076+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:59:30.1237834+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:05:47.6918393+00:00"
 }

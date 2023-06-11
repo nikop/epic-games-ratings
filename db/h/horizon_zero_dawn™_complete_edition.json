@@ -4,11 +4,11 @@
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 118,
   "Ranking_Popularity": 73,
-  "Ranking_PopularitySum": 87,
+  "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 442,
-  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
     "PcReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -3575,10 +3575,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8699,
       "NumberOfAwardsMax": 4114
+    },
+    {
+      "Time": "2023-06-11T18:59:45.3268949+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8700,
+      "NumberOfAwardsMax": 4114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8699,
+  "NumberOfAwards": 8700,
   "NumberOfAwardsMax": 4114,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3640,7 +3646,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has a Creative Community",
@@ -3666,8 +3672,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-06-11T13:59:55.3156309+00:00",
+  "LastChanged": "2023-06-11T18:59:45.3268947+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:38.4762878+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:59:40.7981312+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:04:54.4691686+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:59:45.3268953+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:04:54.1763419+00:00"
 }

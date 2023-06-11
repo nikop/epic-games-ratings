@@ -5,29 +5,29 @@ Rating: 4.46 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,664 |
-| My First Runbow | 50.00% | ~122,324 |
-| It's The Fall | 26.00% | ~63,609 |
-| The Stunner | 21.00% | ~51,376 |
-| Be Aggressive | 20.00% | ~48,930 |
-| Curator | 20.00% | ~48,930 |
-| Crowning Around | 18.00% | ~44,037 |
-| Can You Dig It? | 17.00% | ~41,590 |
-| You Juan-A-Go? | 16.00% | ~39,144 |
-| Chan-tastic | 15.00% | ~36,697 |
-| Muddy Waters | 14.00% | ~34,251 |
-| Toasty! | 13.00% | ~31,804 |
+| In The Zone | 53.00% | ~129,667 |
+| My First Runbow | 50.00% | ~122,327 |
+| It's The Fall | 26.00% | ~63,610 |
+| The Stunner | 21.00% | ~51,377 |
+| Be Aggressive | 20.00% | ~48,931 |
+| Curator | 20.00% | ~48,931 |
+| Crowning Around | 18.00% | ~44,038 |
+| Can You Dig It? | 17.00% | ~41,591 |
+| You Juan-A-Go? | 16.00% | ~39,145 |
+| Chan-tastic | 15.00% | ~36,698 |
+| Muddy Waters | 14.00% | ~34,252 |
+| Toasty! | 13.00% | ~31,805 |
 | Lazy Laser | 8.00% | ~19,572 |
-| Into The Drift | 7.00% | ~17,125 |
-| Ready? Fight! | 7.00% | ~17,125 |
+| Into The Drift | 7.00% | ~17,126 |
+| Ready? Fight! | 7.00% | ~17,126 |
 | Just A Phaze | 6.00% | ~14,679 |
 | Butt Butt | 6.00% | ~14,679 |
-| He Who Laughs Last | 3.00% | ~7,339 |
-| Shoo, Cat! | 3.00% | ~7,339 |
+| He Who Laughs Last | 3.00% | ~7,340 |
+| Shoo, Cat! | 3.00% | ~7,340 |
 | And You're Okay | 2.00% | ~4,893 |
 | Blotbuster | 2.00% | ~4,893 |
-| Just A Bit | 1.00% | ~2,446 |
-| Thunderstruck | 1.00% | ~2,446 |
+| Just A Bit | 1.00% | ~2,447 |
+| Thunderstruck | 1.00% | ~2,447 |
 | Tubular, Dude | 0.90% | ~2,202 |
 | What A Trip | 0.90% | ~2,202 |
 | Please The King | 0.80% | ~1,957 |
@@ -52,8 +52,8 @@ Rating: 4.46 (Ranked 603)
 | Talent Scout | 0.10% | ~245 |
 | True Completionist | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,649 (Ranked 43)  
-Completed: 2 (0.00%) (Ranked 214)  
+Progressed: 244,654 (Ranked 43)  
+Completed: 2 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 2 (0.00%) (Ranked 214)
 | 2023-06-08 | 244,425 | 2 |
 | 2023-06-09 | 244,495 | 2 |
 | 2023-06-10 | 244,571 | 2 |
-| 2023-06-11 | 244,649 | 2 |
+| 2023-06-11 | 244,654 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

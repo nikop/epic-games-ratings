@@ -6,18 +6,20 @@
 | ---- | ---------- | ----- |
 | Treasure Trove | 7.00% | ~46 |
 | Cartographer | 7.00% | ~46 |
+| The Prince in Heels | 7.00% | ~46 |
 | Time Heals All Wounds | 7.00% | ~46 |
 | Immaculate Aim | 7.00% | ~46 |
-| The Steel Shadow | 6.00% | ~39 |
-| The Mysterious Stranger | 6.00% | ~39 |
-| Rail Rat | 6.00% | ~39 |
-| Make Up For Lost Time | 6.00% | ~39 |
-| Time Flies | 6.00% | ~39 |
-| The Harder They Fall | 6.00% | ~39 |
-| No, Thanks! | 6.00% | ~39 |
-| Breaking Down Barriers | 6.00% | ~39 |
-| The Prince in Heels | 6.00% | ~39 |
-| The Brass Boss | 6.00% | ~39 |
+| The Steel Shadow | 6.00% | ~40 |
+| The Mysterious Stranger | 6.00% | ~40 |
+| Rail Rat | 6.00% | ~40 |
+| Make Up For Lost Time | 6.00% | ~40 |
+| Time Flies | 6.00% | ~40 |
+| The Harder They Fall | 6.00% | ~40 |
+| No, Thanks! | 6.00% | ~40 |
+| Breaking Down Barriers | 6.00% | ~40 |
+| Immaculate Aim | 6.00% | ~40 |
+| The Brass Boss | 6.00% | ~40 |
+| Right On Time | 5.00% | ~33 |
 | Like Clockwork | 5.00% | ~33 |
 | Street Style | 5.00% | ~33 |
 | The Betrayer | 5.00% | ~33 |
@@ -28,10 +30,8 @@
 | Golem Chaser | 5.00% | ~33 |
 | Fast Learner | 5.00% | ~33 |
 | Check Your Pulse | 5.00% | ~33 |
-| Immaculate Aim | 5.00% | ~33 |
 | The Family Fortune | 5.00% | ~33 |
 | Chaincrawler Explorer | 4.00% | ~26 |
-| Right On Time | 4.00% | ~26 |
 | Family Memories | 4.00% | ~26 |
 | Ask Questions Later | 4.00% | ~26 |
 | Sartorialist | 3.00% | ~20 |
@@ -58,8 +58,8 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658 (Ranked 192)  
-Completed: 0 (0.00%) (Ranked 214)  
+Progressed: 660 (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,4 +82,4 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 633 | 0 |
 | 2023-06-09 | 642 | 0 |
 | 2023-06-10 | 653 | 0 |
-| 2023-06-11 | 658 | 0 |
+| 2023-06-11 | 660 | 0 |

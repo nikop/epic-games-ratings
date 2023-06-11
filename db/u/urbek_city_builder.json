@@ -3,9 +3,9 @@
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 241,
-  "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -843,9 +843,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "FELIZ_2",
@@ -1212,8 +1212,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-11T18:05:48.926776+00:00",
+  "LastChanged_Achievements": "2023-06-11T19:05:46.9567834+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:09.3377562+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:58:33.8075558+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:05:48.926894+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:58:39.7279271+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:05:46.956894+00:00"
 }

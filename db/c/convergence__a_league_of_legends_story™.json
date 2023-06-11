@@ -3,9 +3,9 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 192,
-  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 658,
+  "EOS_Progressed": 660,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -1189,6 +1189,11 @@
       "Time": "2023-06-11T15:05:01.8569194+00:00",
       "NumProgressed": 658,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-11T19:05:01.013218+00:00",
+      "NumProgressed": 660,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -1208,7 +1213,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1230,9 +1235,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1320,7 +1325,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1360,7 +1365,7 @@
       "Name": "Rail Rat",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "HexlockGift",
@@ -1392,7 +1397,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "MapCompletion1",
@@ -1440,7 +1445,7 @@
       "Name": "Time Flies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ParryBoss",
@@ -1448,7 +1453,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ParryRepeated1",
@@ -1456,7 +1461,7 @@
       "Name": "No, Thanks!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1464,7 +1469,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1478,9 +1483,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 46
     },
     {
       "ID": "RewindDamage1",
@@ -1574,9 +1579,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 40
     },
     {
       "ID": "WarwickDefeated",
@@ -1608,7 +1613,7 @@
       "Name": "The Brass Boss",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1623,14 +1628,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 658,
+      "Progressed": 660,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-11T18:05:01.5817847+00:00",
+  "LastChanged_Achievements": "2023-06-11T19:05:01.0132175+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:59:02.9780896+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:05:01.5818311+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:59:10.0817085+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:05:01.013273+00:00"
 }

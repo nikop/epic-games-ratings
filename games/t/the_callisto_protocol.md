@@ -6,13 +6,13 @@ Rating: 4.18 (Ranked 842)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 14.00% | ~2,108 |
-| The Outer Way | 13.00% | ~1,957 |
-| Desperate Times | 12.00% | ~1,806 |
+| The Outer Way | 13.00% | ~1,958 |
+| Desperate Times | 12.00% | ~1,807 |
 | Paper Jams | 11.00% | ~1,656 |
 | Chew 'Em Up | 9.00% | ~1,355 |
 | Reforged | 9.00% | ~1,355 |
-| Workplace Hazard | 8.00% | ~1,204 |
-| If the SHU Fits... | 8.00% | ~1,204 |
+| Workplace Hazard | 8.00% | ~1,205 |
+| If the SHU Fits... | 8.00% | ~1,205 |
 | Giving Back | 7.00% | ~1,054 |
 | Get a Grip | 7.00% | ~1,054 |
 | Without A Paddle | 7.00% | ~1,054 |
@@ -28,7 +28,7 @@ Rating: 4.18 (Ranked 842)
 | Instigator | 4.00% | ~119 |
 | Big Game Hunter | 4.00% | ~119 |
 | The Commonality | 3.00% | ~452 |
-| Bear Trap | 3.00% | ~89 |
+| Bear Trap | 3.00% | ~90 |
 | I Do Belong Here | 2.00% | ~301 |
 | In Striking Distance | 2.00% | ~301 |
 | Mugshot | 2.00% | ~301 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 842)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,054 (Ranked 104)  
+Progressed: 15,059 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,17 +97,17 @@ Completed: 54 (0.36%) (Ranked 123)
 | 2023-06-08 | 14,777 | 54 |
 | 2023-06-09 | 14,877 | 54 |
 | 2023-06-10 | 14,984 | 54 |
-| 2023-06-11 | 15,054 | 54 |
+| 2023-06-11 | 15,059 | 54 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
-Sum: 304 (Ranked 328)  
+Sum: 305 (Ranked 328)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 53 |
 | This game is Highly Recommended | 51 |
 | This game has Quickly Understood Controls | 51 |
-| This game has Amazing Characters | 47 |
+| This game has Amazing Characters | 48 |
 | This game is Extremely Fun | 46 |
 | This game has Challenging Combat | 36 |
 | This game has a Creative Community | 20 |
@@ -176,4 +176,4 @@ Diff (max vs sum): 58
 | 2023-06-08 | 4.18 | 52 | 297 |
 | 2023-06-09 | 4.18 | 52 | 301 |
 | 2023-06-10 | 4.18 | 52 | 302 |
-| 2023-06-11 | 4.18 | 53 | 304 |
+| 2023-06-11 | 4.18 | 53 | 305 |

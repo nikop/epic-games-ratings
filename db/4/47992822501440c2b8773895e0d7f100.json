@@ -3,9 +3,9 @@
   "Name": "Television Trivia",
   "ProductSlug": "television-trivia-b6c74b",
   "Ranking_EOS_Progress": 442,
-  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-10T23:00:00+00:00",
     "PcReleaseDate": "2020-11-07T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-08T03:57:15.5225504+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:57:01.6739859+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:00:16.1155519+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:57:12.1810763+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:00:22.8147344+00:00"
 }

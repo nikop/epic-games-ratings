@@ -5,12 +5,13 @@ Rating: 4.17 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 5.00% | ~3,230 |
+| First Step Into the Knight | 5.00% | ~3,231 |
 | To the Victor Go the Spoils | 3.00% | ~1,938 |
 | Har, Har, Har, Very Funny | 3.00% | ~1,938 |
 | Knighthood | 3.00% | ~1,938 |
 | Loose Ends | 3.00% | ~1,938 |
 | The Batman Family | 2.00% | ~1,292 |
+| Protector of Gotham | 2.00% | ~1,292 |
 | Something in the Clay | 2.00% | ~1,292 |
 | The Show Mud Go On | 2.00% | ~1,292 |
 | Quartzer Life Crisis | 2.00% | ~1,292 |
@@ -24,7 +25,6 @@ Rating: 4.17 (Ranked 850)
 | From Inside Gotham's Walls | 2.00% | ~1,292 |
 | End of an Era | 1.00% | ~646 |
 | In Your Element | 1.00% | ~646 |
-| Protector of Gotham | 1.00% | ~646 |
 | Rock and a Hard Place | 1.00% | ~646 |
 | Not On My Watch | 1.00% | ~646 |
 | Bulldozed | 1.00% | ~646 |
@@ -67,8 +67,8 @@ Rating: 4.17 (Ranked 850)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,602 (Ranked 71)  
-Completed: 95 (0.15%) (Ranked 156)  
+Progressed: 64,611 (Ranked 71)  
+Completed: 95 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,7 +119,7 @@ Completed: 95 (0.15%) (Ranked 156)
 | 2023-06-08 | 64,117 | 94 |
 | 2023-06-09 | 64,309 | 95 |
 | 2023-06-10 | 64,465 | 95 |
-| 2023-06-11 | 64,602 | 95 |
+| 2023-06-11 | 64,611 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,321  (Ranked 97)  
 Sum: 3,838 (Ranked 137)  

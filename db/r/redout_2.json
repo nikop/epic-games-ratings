@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -676,9 +676,9 @@
       "ID": "ONELIVERY",
       "SetID": "3dh70f3",
       "Name": "Suit up",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 172
     },
     {
       "ID": "ONEMODULE",
@@ -797,8 +797,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-11T18:05:41.8806717+00:00",
+  "LastChanged_Achievements": "2023-06-11T19:05:40.3420319+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.9246105+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:57:58.210782+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:05:41.8807134+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:58:04.7210264+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:05:40.3420799+00:00"
 }

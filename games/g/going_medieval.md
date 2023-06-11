@@ -6,40 +6,40 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 71.00% | ~2,543 |
-| Having A Field Day | 70.00% | ~2,507 |
-| Reap What You Sow | 68.00% | ~2,436 |
-| The First Day | 64.00% | ~2,292 |
-| Green Thumb | 63.00% | ~2,257 |
-| Novice Researcher | 60.00% | ~2,149 |
-| Putting Food on the Table | 57.00% | ~2,042 |
-| Onward | 52.00% | ~1,863 |
-| Home Cooked Meal | 49.00% | ~1,755 |
-| The First Week | 49.00% | ~1,755 |
-| Studious Researcher | 48.00% | ~1,719 |
+| Get A Room | 71.00% | ~2,545 |
+| Having A Field Day | 70.00% | ~2,509 |
+| Reap What You Sow | 68.00% | ~2,437 |
+| The First Day | 64.00% | ~2,294 |
+| Green Thumb | 63.00% | ~2,258 |
+| Novice Researcher | 61.00% | ~2,186 |
+| Putting Food on the Table | 57.00% | ~2,043 |
+| Onward | 52.00% | ~1,864 |
+| Home Cooked Meal | 49.00% | ~1,756 |
+| The First Week | 49.00% | ~1,756 |
+| Studious Researcher | 48.00% | ~1,720 |
 | Feast or Famine | 47.00% | ~1,684 |
-| Beam Me Up | 46.00% | ~1,648 |
-| Adept Researcher | 43.00% | ~1,540 |
+| Beam Me Up | 46.00% | ~1,649 |
+| Adept Researcher | 43.00% | ~1,541 |
 | Retribution | 36.00% | ~1,290 |
 | Fit For A King | 36.00% | ~1,290 |
 | ...And Don’t Come Back! | 36.00% | ~1,290 |
 | Luminary Researcher | 36.00% | ~1,290 |
 | Heating Up | 25.00% | ~896 |
-| Winter Is Coming | 21.00% | ~752 |
+| Winter Is Coming | 21.00% | ~753 |
 | Winter Is Here | 18.00% | ~645 |
 | A Party Now | 16.00% | ~573 |
 | Oh Deer! | 16.00% | ~573 |
 | All Year Round | 16.00% | ~573 |
-| Disassembled | 15.00% | ~537 |
+| Disassembled | 15.00% | ~538 |
 | Nothing Wasted | 10.00% | ~358 |
 | Don't Cry Wolf | 10.00% | ~358 |
-| Deerly Departed | 9.00% | ~322 |
+| Deerly Departed | 9.00% | ~323 |
 | Where Wolf? | 6.00% | ~215 |
 | Food Chain | 2.00% | ~72 |
 | Wabbit Season | 0.80% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,582 (Ranked 134)  
-Completed: 7 (0.20%) (Ranked 149)  
+Progressed: 3,584 (Ranked 134)  
+Completed: 7 (0.20%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,15 +69,15 @@ Completed: 7 (0.20%) (Ranked 149)
 | 2023-06-08 | 3,409 | 6 |
 | 2023-06-09 | 3,474 | 6 |
 | 2023-06-10 | 3,541 | 7 |
-| 2023-06-11 | 3,582 | 7 |
+| 2023-06-11 | 3,584 | 7 |
 ## Awards
 Max (Relaxing): 120  (Ranked 307)  
-Sum: 947 (Ranked 235)  
+Sum: 948 (Ranked 235)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 120 |
-| This game is Great for Beginners | 114 |
+| This game is Great for Beginners | 115 |
 | This game has Diverse Characters | 103 |
 | This game has Quickly Understood Controls | 102 |
 | This game is Extremely Fun | 100 |
@@ -188,4 +188,4 @@ Diff (max vs sum): 72
 | 2023-06-05 | 4.60 | - | 119 | 939 |
 | 2023-06-08 | 4.60 | - | 120 | 943 |
 | 2023-06-09 | 4.60 | - | 120 | 945 |
-| 2023-06-11 | 4.60 | - | 120 | 947 |
+| 2023-06-11 | 4.60 | - | 120 | 948 |

@@ -11,7 +11,7 @@
 | The spiritual world... | 23.00% | ~55 |
 | The woodcutter | 20.00% | ~48 |
 | I like books | 19.00% | ~46 |
-| I like my life | 18.00% | ~43 |
+| I like my life | 19.00% | ~46 |
 | Clean energy | 17.00% | ~41 |
 | Soviet town | 17.00% | ~41 |
 | Bucolic city | 13.00% | ~31 |
@@ -85,7 +85,7 @@
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 240 (Ranked 241)  
-Completed: 0 (0.00%) (Ranked 214)  
+Completed: 0 (0.00%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

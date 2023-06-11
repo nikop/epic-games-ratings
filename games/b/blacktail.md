@@ -16,12 +16,12 @@ Rating: 4.67 (Ranked 257)
 | Spirit animal | 6.00% | ~29 |
 | A friend in need... | 5.00% | ~24 |
 | Sneak peek | 4.00% | ~19 |
+| Favorite | 4.00% | ~19 |
 | Fishing fanatic | 4.00% | ~19 |
 | Liar Liar | 4.00% | ~19 |
 | The cycle acknowledged | 4.00% | ~19 |
 | Baba Yaga | 4.00% | ~19 |
 | Extensive retelling | 3.00% | ~14 |
-| Favorite | 3.00% | ~14 |
 | The word around is... | 3.00% | ~14 |
 | Both sides | 3.00% | ~14 |
 | Queen | 3.00% | ~14 |
@@ -39,7 +39,7 @@ Rating: 4.67 (Ranked 257)
 | Apex predator | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 476 (Ranked 201)  
-Completed: 1 (0.21%) (Ranked 145)  
+Completed: 1 (0.21%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

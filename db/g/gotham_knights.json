@@ -6,7 +6,7 @@
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 156,
+  "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
@@ -1490,9 +1490,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64602,
+  "EOS_Progressed": 64611,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1004,
+  "EOS_NewPlayers": 1002,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5945,6 +5945,11 @@
       "Time": "2023-06-11T18:05:47.3227544+00:00",
       "NumProgressed": 64602,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-11T19:05:45.2671867+00:00",
+      "NumProgressed": 64611,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6050,9 +6055,9 @@
       "ID": "CHALLENGES_1",
       "SetID": "4eo5ebm",
       "Name": "Protector of Gotham",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 1292
     },
     {
       "ID": "CLAYFACE_1",
@@ -6300,7 +6305,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -6443,13 +6448,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64602,
+      "Progressed": 64611,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34882,
+      "Progressed": 34891,
       "Completed": 2646
     }
   ],
@@ -6457,8 +6462,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-11T09:59:20.6373405+00:00",
-  "LastChanged_Achievements": "2023-06-11T18:05:47.3227537+00:00",
+  "LastChanged_Achievements": "2023-06-11T19:05:45.2671861+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:59:20.4246196+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:05:47.3228267+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:59:25.6694604+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:05:45.2672705+00:00"
 }

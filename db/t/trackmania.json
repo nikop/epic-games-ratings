@@ -6,9 +6,9 @@
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 442,
-  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -6099,10 +6099,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 23418,
       "NumberOfAwardsMax": 2750
+    },
+    {
+      "Time": "2023-06-11T18:58:11.2470254+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 23431,
+      "NumberOfAwardsMax": 2750
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23418,
+  "NumberOfAwards": 23431,
   "NumberOfAwardsMax": 2750,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -6134,7 +6140,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2459
+      "Count": 2466
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6158,7 +6164,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1909
+      "Count": 1914
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6176,7 +6182,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1217
+      "Count": 1218
     }
   ],
   "EOS_Progressed": 0,
@@ -6190,8 +6196,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-06-11T14:58:05.0384468+00:00",
+  "LastChanged": "2023-06-11T18:58:11.2470253+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:29.889871+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:58:05.5144819+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:02:10.3622251+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:58:11.2470259+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:02:15.0971262+00:00"
 }

@@ -12,7 +12,7 @@
 | Cozy Autumn | 39.00% | ~112 |
 | Bunny Party | 36.00% | ~103 |
 | Stylish Decorator | 32.00% | ~92 |
-| Ace Decorator | 23.00% | ~66 |
+| Ace Decorator | 24.00% | ~69 |
 | Debris Collector | 20.00% | ~57 |
 | Bunny Cuddles | 16.00% | ~46 |
 | Winter Wonderland | 14.00% | ~40 |

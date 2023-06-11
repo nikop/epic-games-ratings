@@ -5,30 +5,30 @@ Rating: 4.51 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~770 |
-| Confirming Suspicions | 24.00% | ~637 |
-| The Kraken Wakes | 20.00% | ~531 |
-| It's Starting to Crack | 17.00% | ~451 |
-| Lord of War | 15.00% | ~398 |
+| Meeting Resistance | 29.00% | ~771 |
+| Confirming Suspicions | 24.00% | ~638 |
+| The Kraken Wakes | 20.00% | ~532 |
+| It's Starting to Crack | 17.00% | ~452 |
+| Lord of War | 14.00% | ~372 |
 | Change the Channel | 14.00% | ~372 |
-| Resourceful | 13.00% | ~345 |
+| Resourceful | 13.00% | ~346 |
 | Taking it back | 12.00% | ~319 |
-| Target America | 11.00% | ~292 |
+| Target America | 11.00% | ~293 |
 | Organ Grinder | 10.00% | ~266 |
 | As Quiet as a Mouse | 10.00% | ~266 |
 | The Kraken Sleeps | 9.00% | ~239 |
-| Liberté | 8.00% | ~212 |
-| Enemy at the Gates | 8.00% | ~212 |
-| Just a Flesh Wound | 8.00% | ~212 |
-| Gunslinger | 8.00% | ~212 |
-| Sharpshooter | 8.00% | ~212 |
-| Explosive Efficiency | 8.00% | ~212 |
+| Liberté | 8.00% | ~213 |
+| Enemy at the Gates | 8.00% | ~213 |
+| Just a Flesh Wound | 8.00% | ~213 |
+| Gunslinger | 8.00% | ~213 |
+| Sharpshooter | 8.00% | ~213 |
+| Explosive Efficiency | 8.00% | ~213 |
 | Opposing Force | 7.00% | ~186 |
-| Die Nussknacker Sweet! | 6.00% | ~159 |
-| Der Geist | 6.00% | ~159 |
-| Close Quarters | 6.00% | ~159 |
-| Snake in the Grass | 6.00% | ~159 |
-| Brains of the Operation | 6.00% | ~159 |
+| Die Nussknacker Sweet! | 6.00% | ~160 |
+| Der Geist | 6.00% | ~160 |
+| Close Quarters | 6.00% | ~160 |
+| Snake in the Grass | 6.00% | ~160 |
+| Brains of the Operation | 6.00% | ~160 |
 | Climbing the Ladder | 5.00% | ~133 |
 | No Stone Unturned | 5.00% | ~133 |
 | Fields of Glory | 5.00% | ~133 |
@@ -46,9 +46,9 @@ Rating: 4.51 (Ranked 530)
 | Don't hold your breath | 1.00% | ~27 |
 | Herr Today, Gone Tomorrow | 1.00% | ~26 |
 | Operation Foxley | 1.00% | ~26 |
+| Last Resort | 0.90% | ~23 |
 | Siegebreaker | 0.90% | ~23 |
 | Ghost of Falaise | 0.90% | ~23 |
-| Last Resort | 0.80% | ~21 |
 | Burn after reading | 0.70% | ~19 |
 | From Paris with Love | 0.60% | ~16 |
 | Souvenir hunter | 0.60% | ~16 |
@@ -77,8 +77,8 @@ Rating: 4.51 (Ranked 530)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,655 (Ranked 146)  
-Completed: 2 (0.08%) (Ranked 173)  
+Progressed: 2,660 (Ranked 146)  
+Completed: 2 (0.08%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
-| 2023-06-11 | 2,655 | 2 |
+| 2023-06-11 | 2,660 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

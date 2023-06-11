@@ -552,10 +552,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 304,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-06-11T18:57:54.2801865+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 305,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 304,
+  "NumberOfAwards": 305,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -581,7 +587,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -602,7 +608,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15054,
+  "EOS_Progressed": 15059,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 1,
@@ -3572,6 +3578,11 @@
       "Time": "2023-06-11T18:04:00.5761818+00:00",
       "NumProgressed": 15054,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-11T19:04:01.9872981+00:00",
+      "NumProgressed": 15059,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3727,7 +3738,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3775,7 +3786,7 @@
       "Name": "The Outer Way",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3783,7 +3794,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "STORY_HABITAT",
@@ -3815,7 +3826,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3871,7 +3882,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -3902,22 +3913,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15054,
+      "Progressed": 15059,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 2980,
+      "Progressed": 2985,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-11T09:57:43.9891302+00:00",
-  "LastChanged_Achievements": "2023-06-11T18:04:00.5761811+00:00",
+  "LastChanged": "2023-06-11T18:57:54.2801863+00:00",
+  "LastChanged_Achievements": "2023-06-11T19:04:01.9872976+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-11T17:57:47.2125808+00:00",
-  "LastUpdate_Achievements": "2023-06-11T18:04:00.5762251+00:00"
+  "LastUpdate_Ratings": "2023-06-11T18:57:54.2801869+00:00",
+  "LastUpdate_Achievements": "2023-06-11T19:04:01.9873482+00:00"
 }
