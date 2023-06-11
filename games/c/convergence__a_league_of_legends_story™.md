@@ -11,6 +11,7 @@
 | The Mysterious Stranger | 6.00% | ~39 |
 | Rail Rat | 6.00% | ~39 |
 | Make Up For Lost Time | 6.00% | ~39 |
+| Breaking Down Barriers | 6.00% | ~39 |
 | The Prince in Heels | 6.00% | ~39 |
 | Immaculate Aim | 6.00% | ~39 |
 | The Betrayer | 5.00% | ~33 |
@@ -18,7 +19,6 @@
 | Time Flies | 5.00% | ~33 |
 | The Harder They Fall | 5.00% | ~33 |
 | No, Thanks! | 5.00% | ~33 |
-| Breaking Down Barriers | 5.00% | ~33 |
 | The Wicked Twins | 5.00% | ~33 |
 | Golem Chaser | 5.00% | ~33 |
 | Fast Learner | 5.00% | ~33 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 655 (Ranked 192)  
+Progressed: 656 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,4 +82,4 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 633 | 0 |
 | 2023-06-09 | 642 | 0 |
 | 2023-06-10 | 653 | 0 |
-| 2023-06-11 | 655 | 0 |
+| 2023-06-11 | 656 | 0 |

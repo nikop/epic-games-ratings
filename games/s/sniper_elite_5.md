@@ -5,30 +5,30 @@ Rating: 4.51 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 29.00% | ~755 |
-| Confirming Suspicions | 24.00% | ~625 |
-| The Kraken Wakes | 20.00% | ~521 |
-| It's Starting to Crack | 17.00% | ~443 |
+| Meeting Resistance | 29.00% | ~757 |
+| Confirming Suspicions | 24.00% | ~626 |
+| The Kraken Wakes | 20.00% | ~522 |
+| It's Starting to Crack | 17.00% | ~444 |
 | Lord of War | 14.00% | ~365 |
 | Change the Channel | 14.00% | ~365 |
 | Resourceful | 13.00% | ~339 |
-| Taking it back | 12.00% | ~312 |
-| Organ Grinder | 10.00% | ~260 |
-| As Quiet as a Mouse | 10.00% | ~260 |
-| Target America | 10.00% | ~260 |
-| The Kraken Sleeps | 9.00% | ~234 |
-| Liberté | 8.00% | ~208 |
-| Enemy at the Gates | 8.00% | ~208 |
-| Just a Flesh Wound | 8.00% | ~208 |
-| Gunslinger | 8.00% | ~208 |
-| Sharpshooter | 8.00% | ~208 |
-| Explosive Efficiency | 8.00% | ~208 |
-| Opposing Force | 7.00% | ~182 |
-| Die Nussknacker Sweet! | 6.00% | ~156 |
-| Der Geist | 6.00% | ~156 |
-| Close Quarters | 6.00% | ~156 |
-| Snake in the Grass | 6.00% | ~156 |
-| Brains of the Operation | 6.00% | ~156 |
+| Taking it back | 12.00% | ~313 |
+| Organ Grinder | 10.00% | ~261 |
+| As Quiet as a Mouse | 10.00% | ~261 |
+| Target America | 10.00% | ~261 |
+| The Kraken Sleeps | 9.00% | ~235 |
+| Liberté | 8.00% | ~209 |
+| Enemy at the Gates | 8.00% | ~209 |
+| Just a Flesh Wound | 8.00% | ~209 |
+| Gunslinger | 8.00% | ~209 |
+| Sharpshooter | 8.00% | ~209 |
+| Explosive Efficiency | 8.00% | ~209 |
+| Opposing Force | 7.00% | ~183 |
+| Die Nussknacker Sweet! | 6.00% | ~157 |
+| Der Geist | 6.00% | ~157 |
+| Close Quarters | 6.00% | ~157 |
+| Snake in the Grass | 6.00% | ~157 |
+| Brains of the Operation | 6.00% | ~157 |
 | Climbing the Ladder | 5.00% | ~130 |
 | No Stone Unturned | 5.00% | ~130 |
 | Fields of Glory | 5.00% | ~130 |
@@ -59,25 +59,25 @@ Rating: 4.51 (Ranked 529)
 | Eagle Eyed | 0.40% | ~10 |
 | Can't Outrun A Bullet | 0.40% | ~10 |
 | Reich To The Point | 0.30% | ~8 |
+| Covert Elimination | 0.30% | ~8 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~5 |
 | Out of Scope | 0.20% | ~5 |
 | Sight Beyond Sights | 0.20% | ~5 |
 | Führerious Repetition | 0.20% | ~5 |
-| Covert Elimination | 0.20% | ~5 |
+| Das Familienjuwel | 0.20% | ~5 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
-| Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.00% | ~0 |
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,604 (Ranked 146)  
+Progressed: 2,610 (Ranked 146)  
 Completed: 2 (0.08%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 2 (0.08%) (Ranked 173)
 | 2023-06-08 | 2,422 | 2 |
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
-| 2023-06-11 | 2,604 | 2 |
+| 2023-06-11 | 2,610 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

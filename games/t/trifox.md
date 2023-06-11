@@ -18,9 +18,9 @@
 | Complete Level 2-1 | 17.00% | ~15 |
 | Complete Level 2-2 | 17.00% | ~15 |
 | Versatile | 17.00% | ~15 |
+| Complete Level 2-3 | 14.00% | ~12 |
 | Well-off | 13.00% | ~11 |
 | Too many crates | 13.00% | ~11 |
-| Complete Level 2-3 | 13.00% | ~11 |
 | Defeat the engineer boss | 13.00% | ~11 |
 | Complete Level 3-1 | 13.00% | ~11 |
 | Baby steps | 12.00% | ~10 |

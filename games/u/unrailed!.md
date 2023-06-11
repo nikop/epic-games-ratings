@@ -6,28 +6,28 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~84,436 |
-| Incurious | 14.00% | ~84,436 |
-| Climate Change | 13.00% | ~78,405 |
-| Stroller | 12.00% | ~72,374 |
-| Toy Train | 11.00% | ~66,343 |
-| Advanced Hiker | 10.00% | ~60,312 |
-| Hiker | 9.00% | ~54,281 |
-| Mojave Courier | 4.00% | ~24,125 |
+| Advanced Stroller | 14.00% | ~84,439 |
+| Incurious | 14.00% | ~84,439 |
+| Climate Change | 13.00% | ~78,408 |
+| Stroller | 12.00% | ~72,377 |
+| Toy Train | 11.00% | ~66,345 |
+| Advanced Hiker | 10.00% | ~60,314 |
+| Hiker | 9.00% | ~54,283 |
+| Mojave Courier | 4.00% | ~24,126 |
 | Voyager | 3.00% | ~18,094 |
 | Advanced Voyager | 3.00% | ~18,094 |
 | Expert Stroller | 3.00% | ~18,094 |
 | Orient Express | 3.00% | ~18,094 |
 | Saved by Nausicaä | 3.00% | ~18,094 |
-| Expert Hiker | 2.00% | ~12,062 |
-| Marathon | 2.00% | ~12,062 |
-| Destructionist | 2.00% | ~12,062 |
+| Expert Hiker | 2.00% | ~12,063 |
+| Marathon | 2.00% | ~12,063 |
+| Destructionist | 2.00% | ~12,063 |
 | Lost | 1.00% | ~6,031 |
 | Rocketman | 0.60% | ~3,619 |
 | Expert Voyager | 0.50% | ~3,016 |
 | Nanuk | 0.50% | ~3,016 |
 | Shopaholic | 0.50% | ~3,016 |
-| Terminal Station | 0.40% | ~2,412 |
+| Terminal Station | 0.40% | ~2,413 |
 | Wayfarer | 0.30% | ~1,809 |
 | Advanced Wayfarer | 0.30% | ~1,809 |
 | Trans-Siberian Railway | 0.30% | ~1,809 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~603 |
 | 20 Miles under the Sea | 0.10% | ~603 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 603,117 (Ranked 23)  
+Progressed: 603,139 (Ranked 23)  
 Completed: 7 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 7 (0.00%) (Ranked 214)
 | 2023-06-08 | 601,587 | 7 |
 | 2023-06-09 | 602,192 | 7 |
 | 2023-06-10 | 602,946 | 7 |
-| 2023-06-11 | 603,117 | 7 |
+| 2023-06-11 | 603,139 | 7 |
 ## Awards
 Max (Diverse Characters): 188  (Ranked 268)  
 Sum: 1,518 (Ranked 210)  

@@ -4,7 +4,7 @@
   "ProductSlug": "overcooked-2",
   "Ranking_Rating": 155,
   "Ranking_Popularity": 250,
-  "Ranking_PopularitySum": 185,
+  "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 326,
@@ -2229,11 +2229,17 @@
       "Rating": 4.73,
       "NumberOfAwards": 2057,
       "NumberOfAwardsMax": 226
+    },
+    {
+      "Time": "2023-06-11T08:00:50.3397898+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2059,
+      "NumberOfAwardsMax": 228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2057,
-  "NumberOfAwardsMax": 226,
+  "NumberOfAwards": 2059,
+  "NumberOfAwardsMax": 228,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -2270,7 +2276,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 226
+      "Count": 228
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2326,8 +2332,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2023-06-10T17:59:36.5088229+00:00",
+  "LastChanged": "2023-06-11T08:00:50.3397896+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:13.8684372+00:00",
-  "LastUpdate_Ratings": "2023-06-11T06:59:52.5111716+00:00",
-  "LastUpdate_Achievements": "2023-06-11T07:03:30.159909+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:00:50.3397905+00:00",
+  "LastUpdate_Achievements": "2023-06-11T08:04:29.1598834+00:00"
 }

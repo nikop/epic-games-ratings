@@ -375,9 +375,9 @@
       "ID": "theNovice",
       "SetID": "5bkacmp",
       "Name": "A gift horse",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "thePirate",
@@ -448,8 +448,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-06-11T07:06:10.2543662+00:00",
+  "LastChanged_Achievements": "2023-06-11T08:07:23.7457114+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.4102894+00:00",
-  "LastUpdate_Ratings": "2023-06-11T07:00:37.6703884+00:00",
-  "LastUpdate_Achievements": "2023-06-11T07:06:10.2543971+00:00"
+  "LastUpdate_Ratings": "2023-06-11T08:01:44.8322243+00:00",
+  "LastUpdate_Achievements": "2023-06-11T08:07:23.7457483+00:00"
 }

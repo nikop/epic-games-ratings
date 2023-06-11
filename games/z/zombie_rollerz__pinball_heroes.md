@@ -19,8 +19,8 @@
 | Level Up!! | 38.00% | ~38 |
 | Kill-streak | 36.00% | ~36 |
 | The Bird | 29.00% | ~29 |
+| The Idol | 27.00% | ~27 |
 | Inferno Ruins | 27.00% | ~27 |
-| The Idol | 26.00% | ~26 |
 | The Ninja | 26.00% | ~26 |
 | Topped up | 25.00% | ~25 |
 | I'm Rich | 24.00% | ~24 |

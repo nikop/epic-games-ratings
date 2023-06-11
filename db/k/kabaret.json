@@ -160,9 +160,9 @@
       "ID": "2",
       "SetID": "37jn7be",
       "Name": "Welcome To The Kabaret",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "20",
@@ -560,9 +560,9 @@
       "ID": "65",
       "SetID": "37jn7be",
       "Name": "Let There Be Light",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "66",
@@ -592,9 +592,9 @@
       "ID": "8",
       "SetID": "37jn7be",
       "Name": "The Boy That Came With The Rain",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "9",
@@ -617,8 +617,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-06-11T07:03:11.851699+00:00",
+  "LastChanged_Achievements": "2023-06-11T08:04:07.6852888+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.0627793+00:00",
-  "LastUpdate_Ratings": "2023-06-11T06:58:02.9955863+00:00",
-  "LastUpdate_Achievements": "2023-06-11T07:03:11.851763+00:00"
+  "LastUpdate_Ratings": "2023-06-11T07:58:37.2664433+00:00",
+  "LastUpdate_Achievements": "2023-06-11T08:04:07.6853768+00:00"
 }

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 89.00% | ~147 |
-| Wake Up | 79.00% | ~130 |
-| Time Gates | 62.00% | ~102 |
-| Command Centre | 46.00% | ~76 |
+| It's Rewind Time | 90.00% | ~148 |
+| Wake Up | 80.00% | ~132 |
+| Time Gates | 63.00% | ~104 |
+| Command Centre | 47.00% | ~78 |
 | This is a Wall | 41.00% | ~68 |
 | Extendable Bridges | 35.00% | ~58 |
 | 48 Attempts | 32.00% | ~53 |
@@ -16,7 +16,7 @@
 | Handyman | 21.00% | ~35 |
 | No Time To Relax | 16.00% | ~26 |
 | Bad Robots | 14.00% | ~23 |
-| Running Boots | 12.00% | ~20 |
+| Running Boots | 13.00% | ~21 |
 | Fashionista | 12.00% | ~20 |
 | Archivist | 11.00% | ~18 |
 | Looper | 9.00% | ~15 |

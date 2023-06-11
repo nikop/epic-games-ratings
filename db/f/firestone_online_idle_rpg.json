@@ -3296,9 +3296,9 @@
       "ID": "lieutenant",
       "SetID": "3nl4bcg",
       "Name": "Lieutenant",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 177
     },
     {
       "ID": "lockandload",
@@ -3609,8 +3609,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-11T07:06:06.242764+00:00",
+  "LastChanged_Achievements": "2023-06-11T08:07:19.3857308+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-11T06:58:03.240535+00:00",
-  "LastUpdate_Achievements": "2023-06-11T07:06:06.2428539+00:00"
+  "LastUpdate_Ratings": "2023-06-11T07:58:37.4489276+00:00",
+  "LastUpdate_Achievements": "2023-06-11T08:07:19.385833+00:00"
 }

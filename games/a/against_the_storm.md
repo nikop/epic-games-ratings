@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,269 (Ranked 101)  
+Progressed: 15,269 (Ranked 102)  
 Completed: 34 (0.22%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |

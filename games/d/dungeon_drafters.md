@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunting | 43.00% | ~17 |
-| Might be useful… | 43.00% | ~17 |
-| Uncut Gem | 40.00% | ~16 |
-| Friend! | 38.00% | ~15 |
-| Setting Off | 35.00% | ~14 |
-| Shine! | 35.00% | ~14 |
-| Clear as Water | 30.00% | ~12 |
-| Riddlesolver | 23.00% | ~9 |
+| Treasure Hunting | 41.00% | ~17 |
+| Might be useful… | 41.00% | ~17 |
+| Uncut Gem | 39.00% | ~16 |
+| Friend! | 37.00% | ~15 |
+| Setting Off | 34.00% | ~14 |
+| Shine! | 34.00% | ~14 |
+| Clear as Water | 29.00% | ~12 |
+| Riddlesolver | 22.00% | ~9 |
 | Dungeon Mastery | 20.00% | ~8 |
 | Card Collector | 20.00% | ~8 |
 | The Steed | 15.00% | ~6 |
@@ -19,11 +19,11 @@
 | The Bodyguard | 10.00% | ~4 |
 | The Apprentice | 10.00% | ~4 |
 | The Familiar | 10.00% | ~4 |
-| Braving Miasma | 8.00% | ~3 |
-| Ancient Nemesis | 8.00% | ~3 |
-| Traveler Mastery | 8.00% | ~3 |
-| The Plot Thickens | 8.00% | ~3 |
-| No Stone Unturned | 8.00% | ~3 |
+| Braving Miasma | 7.00% | ~3 |
+| Ancient Nemesis | 7.00% | ~3 |
+| Traveler Mastery | 7.00% | ~3 |
+| The Plot Thickens | 7.00% | ~3 |
+| No Stone Unturned | 7.00% | ~3 |
 | Best Pupil | 5.00% | ~2 |
 | Oracle Mastery | 5.00% | ~2 |
 | FOR JUSTICE! | 5.00% | ~2 |
@@ -41,11 +41,11 @@
 | Sealed Once Again | 5.00% | ~2 |
 | A New Tomorrow | 5.00% | ~2 |
 | ACHOO! | 5.00% | ~2 |
-| The New Demon Lord | 3.00% | ~1 |
-| Gladiator | 3.00% | ~1 |
+| The New Demon Lord | 2.00% | ~1 |
+| Gladiator | 2.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 316)  
+Progressed: 41 (Ranked 316)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-06 | 37 | 0 |
 | 2023-06-08 | 38 | 0 |
 | 2023-06-09 | 40 | 0 |
+| 2023-06-11 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

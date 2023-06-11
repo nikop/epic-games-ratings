@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 53.00% | ~29 |
-| Seeds of War | 52.00% | ~55 |
-| Survivor | 47.00% | ~26 |
-| First Blood | 38.00% | ~40 |
-| Early Survivor | 37.00% | ~20 |
+| Aspairagus | 54.00% | ~30 |
+| Seeds of War | 53.00% | ~56 |
+| Survivor | 46.00% | ~26 |
+| First Blood | 39.00% | ~41 |
+| Early Survivor | 37.00% | ~21 |
 | Triple Kill | 35.00% | ~37 |
 | No Diggity | 34.00% | ~19 |
 | Cornivore | 32.00% | ~34 |
-| No Asperascope | 30.00% | ~32 |
-| I Believe I Can Fly | 29.00% | ~30 |
-| Amateur Survivor | 27.00% | ~15 |
-| Bouncemato | 23.00% | ~13 |
+| No Asperascope | 31.00% | ~33 |
+| I Believe I Can Fly | 29.00% | ~31 |
+| Amateur Survivor | 26.00% | ~15 |
+| Bouncemato | 24.00% | ~13 |
 | This Is My Boomstick | 22.00% | ~12 |
 | Quick-Draw Pod | 20.00% | ~11 |
 | 10K | 18.00% | ~19 |
@@ -25,11 +25,11 @@
 | Drinking Problem | 14.00% | ~15 |
 | Oh My Gourd | 10.00% | ~6 |
 | Summers Here | 10.00% | ~6 |
-| Skin Of Your Teeth | 9.00% | ~9 |
-| Pyromaniac | 9.00% | ~5 |
+| Skin Of Your Teeth | 8.00% | ~8 |
 | Eggtraordinary | 8.00% | ~8 |
 | Perfect | 8.00% | ~4 |
 | Expert Survivor | 8.00% | ~4 |
+| Pyromaniac | 8.00% | ~4 |
 | Quit Horsin' Around | 7.00% | ~7 |
 | Quadsparagus | 7.00% | ~4 |
 | Pork Chop Express | 6.00% | ~6 |
@@ -46,13 +46,13 @@
 | Pro Pyromancer | 2.00% | ~2 |
 | King of the Crow | 2.00% | ~1 |
 | Tomassacred | 2.00% | ~1 |
-| 15 Days | 1.00% | ~1 |
-| Honk Honk | 1.00% | ~1 |
-| Pro Carrocketeer | 1.00% | ~1 |
-| Berry Loved | 1.00% | ~1 |
-| Carrocket From Above | 1.00% | ~1 |
-| Death From Above | 1.00% | ~1 |
-| Heal Me Peas | 1.00% | ~1 |
+| 15 Days | 0.90% | ~1 |
+| Honk Honk | 0.90% | ~1 |
+| Pro Carrocketeer | 0.90% | ~1 |
+| Berry Loved | 0.90% | ~1 |
+| Carrocket From Above | 0.90% | ~1 |
+| Death From Above | 0.90% | ~1 |
+| Heal Me Peas | 0.90% | ~1 |
 | 30 Days | 0.00% | ~0 |
 | Darkside Survivor | 0.00% | ~0 |
 | Forestside Survivor | 0.00% | ~0 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 273)  
+Progressed: 106 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 0 (0.00%) (Ranked 214)
 | 2023-06-08 | 97 | 0 |
 | 2023-06-09 | 100 | 0 |
 | 2023-06-10 | 104 | 0 |
-| 2023-06-11 | 105 | 0 |
+| 2023-06-11 | 106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

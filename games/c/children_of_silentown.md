@@ -9,7 +9,7 @@
 | Spyglass | 84.00% | ~139 |
 | Broken toy | 78.00% | ~129 |
 | Egghead Lucy | 75.00% | ~124 |
-| Puppy | 62.00% | ~103 |
+| Puppy | 63.00% | ~105 |
 | Coal's fur | 58.00% | ~96 |
 | Blue's drawing | 53.00% | ~88 |
 | Mysterious footprints | 47.00% | ~78 |

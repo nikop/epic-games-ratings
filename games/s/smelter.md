@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 86.00% | ~31 |
-| Welcome to the Rumbly Lands! | 86.00% | ~31 |
+| What took you so long? | 89.00% | ~32 |
+| Welcome to the Rumbly Lands! | 89.00% | ~32 |
 | Time to Bash Some Heads! | 81.00% | ~29 |
 | Shiny! | 69.00% | ~25 |
 | Deep in the Mounds | 67.00% | ~24 |

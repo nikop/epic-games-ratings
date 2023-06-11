@@ -21,7 +21,7 @@ Rating: 4.05 (Ranked 890)
 | Dragon Master | 13.00% | ~177 |
 | Enlightenment | 13.00% | ~177 |
 | Hero inspection | 13.00% | ~177 |
-| Lieutenant | 12.00% | ~164 |
+| Lieutenant | 13.00% | ~177 |
 | The Unstoppable | 12.00% | ~164 |
 | Milestone collector | 11.00% | ~150 |
 | Mysterious Rock | 11.00% | ~150 |

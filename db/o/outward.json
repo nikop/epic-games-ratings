@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2870,
+  "EOS_Progressed": 2871,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2434,6 +2434,11 @@
       "Time": "2023-06-11T07:03:04.5913418+00:00",
       "NumProgressed": 2870,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-11T08:03:49.1544246+00:00",
+      "NumProgressed": 2871,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2469,7 +2474,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "BloodAndJustice_50",
@@ -2485,7 +2490,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "CrowdPleaser",
@@ -2517,7 +2522,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ForAllAurai_8",
@@ -2661,7 +2666,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Tapped_22",
@@ -2669,7 +2674,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2701,7 +2706,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -2765,7 +2770,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -2780,15 +2785,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2870,
+      "Progressed": 2871,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-11T07:03:04.5913412+00:00",
+  "LastChanged_Achievements": "2023-06-11T08:03:49.1544237+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.3082494+00:00",
-  "LastUpdate_Ratings": "2023-06-11T06:57:48.4620594+00:00",
-  "LastUpdate_Achievements": "2023-06-11T07:03:04.5913901+00:00"
+  "LastUpdate_Ratings": "2023-06-11T07:58:19.4123703+00:00",
+  "LastUpdate_Achievements": "2023-06-11T08:03:49.154482+00:00"
 }

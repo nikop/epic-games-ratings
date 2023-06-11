@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Your Journey Begins | 91.00% | ~10 |
-| The Boy That Came With The Rain | 55.00% | ~6 |
-| Welcome To The Kabaret | 45.00% | ~5 |
+| The Boy That Came With The Rain | 64.00% | ~7 |
+| Welcome To The Kabaret | 55.00% | ~6 |
+| Let There Be Light | 55.00% | ~6 |
 | Congkak Hero | 45.00% | ~5 |
 | Congkak Champion | 45.00% | ~5 |
-| Let There Be Light | 45.00% | ~5 |
 | All Alone With A Curse | 45.00% | ~5 |
 | I'll Become... A Beast | 36.00% | ~4 |
 | Equality | 36.00% | ~4 |

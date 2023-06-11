@@ -16,8 +16,8 @@ Rating: 4.52 (Ranked 514)
 | Collect Iron Ore | 46.00% | ~760 |
 | Defeat 25 Mozis | 45.00% | ~743 |
 | Kitchen Ready To Cook | 45.00% | ~743 |
-| Collect Gold | 43.00% | ~710 |
-| Smithy Ready to Craft | 43.00% | ~710 |
+| Collect Gold | 44.00% | ~727 |
+| Smithy Ready to Craft | 44.00% | ~727 |
 | Fix the Travellers Wagon | 42.00% | ~694 |
 | Complete Elder Faction | 39.00% | ~644 |
 | End of the Mozis | 36.00% | ~595 |
@@ -34,10 +34,10 @@ Rating: 4.52 (Ranked 514)
 | Complete Arena Faction | 14.00% | ~231 |
 | Complete Redgi's Armory | 8.00% | ~132 |
 | King of Kings | 7.00% | ~116 |
-| A new Warchief rises | 0.70% | ~12 |
+| A new Warchief rises | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,652 (Ranked 157)  
-Completed: 7 (0.42%) (Ranked 119)  
+Completed: 8 (0.48%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 7 (0.42%) (Ranked 119)
 | 2023-06-08 | 1,624 | 6 |
 | 2023-06-09 | 1,632 | 7 |
 | 2023-06-10 | 1,643 | 7 |
-| 2023-06-11 | 1,652 | 7 |
+| 2023-06-11 | 1,652 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

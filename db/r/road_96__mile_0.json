@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 281,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -689,6 +689,11 @@
       "Time": "2023-06-10T19:04:13.1745019+00:00",
       "NumProgressed": 280,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-11T08:04:31.8881455+00:00",
+      "NumProgressed": 281,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -700,7 +705,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "completeact2",
@@ -708,7 +713,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 44,
       "XP": 80,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "completeact3",
@@ -716,7 +721,7 @@
       "Name": "On the Road",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "findalltapes",
@@ -819,7 +824,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 281,
       "Completed": 2
     }
   ],
@@ -827,8 +832,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-11T07:03:32.4995293+00:00",
+  "LastChanged_Achievements": "2023-06-11T08:04:31.8881451+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:06.7741113+00:00",
-  "LastUpdate_Ratings": "2023-06-11T06:58:52.1388445+00:00",
-  "LastUpdate_Achievements": "2023-06-11T07:03:32.4995441+00:00"
+  "LastUpdate_Ratings": "2023-06-11T07:59:34.2343148+00:00",
+  "LastUpdate_Achievements": "2023-06-11T08:04:31.8881665+00:00"
 }

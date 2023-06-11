@@ -15,10 +15,10 @@
 | Flower Thief | 80.00% | ~12 |
 | Apostle of Flame | 73.00% | ~11 |
 | Beginner Cook | 67.00% | ~10 |
+| Seal Breaker | 67.00% | ~10 |
+| Handyman | 67.00% | ~10 |
 | Giant Lizard Killer | 60.00% | ~9 |
 | Weapon Boost | 60.00% | ~9 |
-| Seal Breaker | 60.00% | ~9 |
-| Handyman | 60.00% | ~9 |
 | Guardian | 53.00% | ~8 |
 | Nosebleeder | 53.00% | ~8 |
 | Youth Magnet | 53.00% | ~8 |
