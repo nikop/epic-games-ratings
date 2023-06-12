@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223736,
+  "EOS_Progressed": 223738,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5538,6 +5538,11 @@
       "Time": "2023-06-12T02:27:10.025339+00:00",
       "NumProgressed": 223736,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-12T03:22:46.2778605+00:00",
+      "NumProgressed": 223738,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -5613,7 +5618,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 80545
+      "UsersEstimate": 80546
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -5693,7 +5698,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76070
+      "UsersEstimate": 76071
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -5749,7 +5754,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8949
+      "UsersEstimate": 8950
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -5772,7 +5777,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 223736,
+      "Progressed": 223738,
       "Completed": 3
     }
   ],
@@ -5780,8 +5785,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-06-10T22:59:11.5974265+00:00",
-  "LastChanged_Achievements": "2023-06-12T02:27:10.0253385+00:00",
+  "LastChanged_Achievements": "2023-06-12T03:22:46.2778602+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:17.4929198+00:00",
-  "LastUpdate_Ratings": "2023-06-12T02:21:08.1984894+00:00",
-  "LastUpdate_Achievements": "2023-06-12T02:27:10.02539+00:00"
+  "LastUpdate_Ratings": "2023-06-12T03:16:14.7636102+00:00",
+  "LastUpdate_Achievements": "2023-06-12T03:22:46.2779105+00:00"
 }

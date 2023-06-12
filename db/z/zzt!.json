@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 45,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,10 +26,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2683,
+  "EOS_Progressed": 2684,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 49,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 50,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.32,
   "EosHistory": [
     {
@@ -2231,6 +2231,11 @@
       "Time": "2023-06-12T02:26:47.9473562+00:00",
       "NumProgressed": 2683,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-06-12T03:22:24.438481+00:00",
+      "NumProgressed": 2684,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 5,
@@ -2242,7 +2247,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2683
+      "UsersEstimate": 2684
     },
     {
       "ID": "2",
@@ -2274,14 +2279,14 @@
       "Name": "Hero",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2683,
+      "Progressed": 2684,
       "Completed": 89
     }
   ],
@@ -2289,8 +2294,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-06-12T02:26:47.9473554+00:00",
+  "LastChanged_Achievements": "2023-06-12T03:22:24.4384807+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:35.1525433+00:00",
-  "LastUpdate_Ratings": "2023-06-12T02:19:13.7793615+00:00",
-  "LastUpdate_Achievements": "2023-06-12T02:26:47.9473875+00:00"
+  "LastUpdate_Ratings": "2023-06-12T03:14:18.025177+00:00",
+  "LastUpdate_Achievements": "2023-06-12T03:22:24.4385016+00:00"
 }

@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1018,
+  "EOS_Progressed": 1019,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.73,
   "EosHistory": [
@@ -1266,6 +1266,11 @@
       "Time": "2023-06-12T02:26:52.1627459+00:00",
       "NumProgressed": 1018,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-12T03:22:28.4672764+00:00",
+      "NumProgressed": 1019,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 16,
@@ -1283,9 +1288,9 @@
       "ID": "ACH_DEEPLISTENER",
       "SetID": "7pam6gn",
       "Name": "Deep Listener",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 275
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -1317,7 +1322,7 @@
       "Name": "Graffiti Artist",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
@@ -1325,7 +1330,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -1333,7 +1338,7 @@
       "Name": "Home Leaver",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1341,7 +1346,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1357,7 +1362,7 @@
       "Name": "Music for Cows",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -1404,7 +1409,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1018,
+      "Progressed": 1019,
       "Completed": 38
     }
   ],
@@ -1412,8 +1417,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-12T02:26:52.1627452+00:00",
+  "LastChanged_Achievements": "2023-06-12T03:22:28.4672761+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:56.8883465+00:00",
-  "LastUpdate_Ratings": "2023-06-12T02:19:36.3659023+00:00",
-  "LastUpdate_Achievements": "2023-06-12T02:26:52.162776+00:00"
+  "LastUpdate_Ratings": "2023-06-12T03:14:41.5288635+00:00",
+  "LastUpdate_Achievements": "2023-06-12T03:22:28.4672934+00:00"
 }

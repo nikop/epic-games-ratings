@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2976,
+  "EOS_Progressed": 2977,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
@@ -2064,6 +2064,11 @@
       "Time": "2023-06-11T22:06:20.452149+00:00",
       "NumProgressed": 2976,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-12T03:22:56.7600828+00:00",
+      "NumProgressed": 2977,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -2123,7 +2128,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "campaign10",
@@ -2211,7 +2216,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "campaign20",
@@ -2227,7 +2232,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "campaign4",
@@ -2251,7 +2256,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "campaign7",
@@ -2259,7 +2264,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "campaign8",
@@ -2283,7 +2288,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "scenario2",
@@ -2338,7 +2343,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2976,
+      "Progressed": 2977,
       "Completed": 9
     }
   ],
@@ -2346,8 +2351,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-12T02:27:20.8008484+00:00",
+  "LastChanged_Achievements": "2023-06-12T03:22:56.7600824+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:43.3295912+00:00",
-  "LastUpdate_Ratings": "2023-06-12T02:21:35.2291623+00:00",
-  "LastUpdate_Achievements": "2023-06-12T02:27:20.8008876+00:00"
+  "LastUpdate_Ratings": "2023-06-12T03:16:43.6177209+00:00",
+  "LastUpdate_Achievements": "2023-06-12T03:22:56.7601159+00:00"
 }

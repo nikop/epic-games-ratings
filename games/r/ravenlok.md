@@ -41,21 +41,21 @@
 | Trick Question! | 33.00% | ~326 |
 | Pull the Plug | 32.00% | ~316 |
 | Soul Slayer | 32.00% | ~316 |
+| The Downfall | 32.00% | ~316 |
 | All Heart | 32.00% | ~316 |
 | Final Showdown | 32.00% | ~316 |
-| The Downfall | 31.00% | ~306 |
+| Spot of Tea? | 32.00% | ~316 |
+| Going Home | 32.00% | ~316 |
 | Extraordinary! | 31.00% | ~306 |
-| Spot of Tea? | 31.00% | ~306 |
-| Going Home | 31.00% | ~306 |
 | Mirror, Mirror | 29.00% | ~286 |
-| Flower Power | 25.00% | ~247 |
+| Flower Power | 26.00% | ~257 |
 | Shopping Spree! | 24.00% | ~237 |
 | Crowned | 22.00% | ~217 |
 | Max Level! | 14.00% | ~138 |
 | Dance Master | 9.00% | ~89 |
 | Bombs Away! | 9.00% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 987 (Ranked 178)  
+Progressed: 987 (Ranked 179)  
 Completed: 70 (7.09%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,24 +5,24 @@ Rating: 4.26 (Ranked 788)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 68.00% | ~122,828 |
-| Doubled Pawn | 55.00% | ~99,346 |
-| Check | 53.00% | ~95,733 |
-| Absolute pin | 45.00% | ~81,283 |
-| Promotion | 30.00% | ~54,189 |
-| Checkmate | 29.00% | ~52,382 |
-| O-O | 23.00% | ~41,545 |
-| Spanish Bishop | 20.00% | ~36,126 |
-| Queen Sacrifice | 19.00% | ~34,320 |
-| Stalemate | 17.00% | ~30,707 |
-| O-O-O | 12.00% | ~21,675 |
-| Octopus | 12.00% | ~21,675 |
-| Stranger Danger | 12.00% | ~21,675 |
-| En Passant | 8.00% | ~14,450 |
-| Double Check | 7.00% | ~12,644 |
-| Family Fork | 5.00% | ~9,031 |
-| Friendly Fire | 5.00% | ~9,031 |
-| Piece Collector | 5.00% | ~9,031 |
+| Chop Wood | 68.00% | ~122,833 |
+| Doubled Pawn | 55.00% | ~99,350 |
+| Check | 53.00% | ~95,738 |
+| Absolute pin | 45.00% | ~81,287 |
+| Promotion | 30.00% | ~54,191 |
+| Checkmate | 29.00% | ~52,385 |
+| O-O | 23.00% | ~41,547 |
+| Spanish Bishop | 20.00% | ~36,127 |
+| Queen Sacrifice | 19.00% | ~34,321 |
+| Stalemate | 17.00% | ~30,708 |
+| O-O-O | 12.00% | ~21,676 |
+| Octopus | 12.00% | ~21,676 |
+| Stranger Danger | 12.00% | ~21,676 |
+| En Passant | 8.00% | ~14,451 |
+| Double Check | 7.00% | ~12,645 |
+| Family Fork | 5.00% | ~9,032 |
+| Friendly Fire | 5.00% | ~9,032 |
+| Piece Collector | 5.00% | ~9,032 |
 | ELO | 4.00% | ~7,225 |
 | Underpromote | 4.00% | ~7,225 |
 | ELO ELO | 3.00% | ~5,419 |
@@ -44,7 +44,7 @@ Rating: 4.26 (Ranked 788)
 | Tournament Master | 0.10% | ~181 |
 | Tournament Pro | 0.10% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180,629 (Ranked 55)  
+Progressed: 180,637 (Ranked 55)  
 Completed: 1 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 1 (0.00%) (Ranked 216)
 | 2023-06-09 | 179,448 | 1 |
 | 2023-06-10 | 180,014 | 1 |
 | 2023-06-11 | 180,570 | 1 |
-| 2023-06-12 | 180,629 | 1 |
+| 2023-06-12 | 180,637 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

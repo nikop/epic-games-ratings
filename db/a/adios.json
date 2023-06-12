@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61075,
+  "EOS_Progressed": 61079,
   "EOS_Completed": 526,
-  "EOS_NewPlayers": 1240,
+  "EOS_NewPlayers": 1239,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -5560,6 +5560,11 @@
       "Time": "2023-06-12T02:27:11.9695717+00:00",
       "NumProgressed": 61075,
       "NumCompleted": 526
+    },
+    {
+      "Time": "2023-06-12T03:22:48.0167182+00:00",
+      "NumProgressed": 61079,
+      "NumCompleted": 526
     }
   ],
   "TotalAchievements": 25,
@@ -5603,7 +5608,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 12826
+      "UsersEstimate": 12827
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -5643,7 +5648,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12215
+      "UsersEstimate": 12216
     },
     {
       "ID": "Hearty",
@@ -5675,7 +5680,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12215
+      "UsersEstimate": 12216
     },
     {
       "ID": "Meaty",
@@ -5691,7 +5696,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 11604
+      "UsersEstimate": 11605
     },
     {
       "ID": "Nice Try",
@@ -5699,7 +5704,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9772
+      "UsersEstimate": 9773
     },
     {
       "ID": "Nothing Left to Say",
@@ -5707,7 +5712,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3664
+      "UsersEstimate": 3665
     },
     {
       "ID": "Piano Man",
@@ -5731,7 +5736,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4276
     },
     {
       "ID": "Spicy",
@@ -5763,14 +5768,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4276
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 61075,
+      "Progressed": 61079,
       "Completed": 526
     }
   ],
@@ -5778,8 +5783,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-10T22:00:06.058838+00:00",
-  "LastChanged_Achievements": "2023-06-12T02:27:11.9695706+00:00",
+  "LastChanged_Achievements": "2023-06-12T03:22:48.0167179+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.9949874+00:00",
-  "LastUpdate_Ratings": "2023-06-12T02:21:58.6697477+00:00",
-  "LastUpdate_Achievements": "2023-06-12T02:27:11.9696535+00:00"
+  "LastUpdate_Ratings": "2023-06-12T03:17:06.703794+00:00",
+  "LastUpdate_Achievements": "2023-06-12T03:22:48.0167884+00:00"
 }

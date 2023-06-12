@@ -7,24 +7,24 @@
 | To Hell In A Handcart | 62.00% | ~268 |
 | Read Between The Lines | 61.00% | ~264 |
 | High Profile | 55.00% | ~238 |
-| Whispers In The Dark | 54.00% | ~233 |
+| Whispers In The Dark | 54.00% | ~234 |
 | Fond Memories | 50.00% | ~216 |
-| A Method To His Madness | 48.00% | ~207 |
-| History Check | 47.00% | ~203 |
-| The New World | 45.00% | ~194 |
-| Lock, Stock, And Barrel | 44.00% | ~190 |
+| A Method To His Madness | 48.00% | ~208 |
+| History Check | 47.00% | ~204 |
+| The New World | 45.00% | ~195 |
+| Lock, Stock, And Barrel | 44.00% | ~191 |
 | Gaze Into The Abyss | 43.00% | ~186 |
 | Open Sesame | 43.00% | ~186 |
 | Sticky Fingers | 43.00% | ~186 |
-| Knives Out | 42.00% | ~181 |
-| Back In The Saddle | 41.00% | ~177 |
-| Land, Ho! | 41.00% | ~177 |
-| No Man Is An Island | 39.00% | ~168 |
-| At Wits' End | 38.00% | ~164 |
+| Knives Out | 42.00% | ~182 |
+| Back In The Saddle | 41.00% | ~178 |
+| Land, Ho! | 41.00% | ~178 |
+| No Man Is An Island | 39.00% | ~169 |
+| At Wits' End | 38.00% | ~165 |
 | Going Once... | 36.00% | ~156 |
 | Fhtagn! | 36.00% | ~156 |
-| Bookworm | 35.00% | ~151 |
-| Up In Flames | 35.00% | ~151 |
+| Bookworm | 35.00% | ~152 |
+| Up In Flames | 35.00% | ~152 |
 | Let Me Be Frank | 34.00% | ~147 |
 | Brain Food | 31.00% | ~134 |
 | No Stone Unturned | 30.00% | ~130 |
@@ -33,8 +33,8 @@
 | Big Breakthrough | 15.00% | ~65 |
 | Reawakened | 5.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432 (Ranked 208)  
-Completed: 17 (3.94%) (Ranked 35)  
+Progressed: 433 (Ranked 207)  
+Completed: 17 (3.93%) (Ranked 35)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,7 +83,7 @@ Completed: 17 (3.94%) (Ranked 35)
 | 2023-06-09 | 414 | 16 |
 | 2023-06-10 | 423 | 17 |
 | 2023-06-11 | 431 | 17 |
-| 2023-06-12 | 432 | 17 |
+| 2023-06-12 | 433 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

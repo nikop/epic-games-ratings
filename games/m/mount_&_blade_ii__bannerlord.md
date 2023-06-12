@@ -7,12 +7,12 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 36.00% | ~19,047 |
-| Landlord | 30.00% | ~15,872 |
-| Bannerlord | 21.00% | ~11,110 |
-| Horde breaker | 21.00% | ~11,110 |
-| Lawmaker | 21.00% | ~11,110 |
-| Trained | 20.00% | ~10,581 |
-| The king is pleased | 17.00% | ~8,994 |
+| Landlord | 30.00% | ~15,873 |
+| Bannerlord | 21.00% | ~11,111 |
+| Horde breaker | 21.00% | ~11,111 |
+| Lawmaker | 21.00% | ~11,111 |
+| Trained | 20.00% | ~10,582 |
+| The king is pleased | 17.00% | ~8,995 |
 | King Solomon | 16.00% | ~8,465 |
 | I can do it | 15.00% | ~7,936 |
 | Apple of my eye | 14.00% | ~7,407 |
@@ -23,10 +23,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | Dynasty | 8.00% | ~4,233 |
 | I spit on your grave | 8.00% | ~4,233 |
 | What have the Romans ever done for us? | 8.00% | ~4,233 |
-| Butterlord | 7.00% | ~3,703 |
-| Mastery | 7.00% | ~3,703 |
-| This Is Our Land | 7.00% | ~3,703 |
-| Know your enemy | 6.00% | ~3,174 |
+| Butterlord | 7.00% | ~3,704 |
+| Mastery | 7.00% | ~3,704 |
+| This Is Our Land | 7.00% | ~3,704 |
+| Know your enemy | 6.00% | ~3,175 |
 | Crowdfunded | 4.00% | ~2,116 |
 | Crush your enemies | 4.00% | ~2,116 |
 | My way | 4.00% | ~2,116 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,907 (Ranked 79)  
+Progressed: 52,909 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,11 +111,11 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 52,654 | 0 |
 | 2023-06-10 | 52,776 | 0 |
 | 2023-06-11 | 52,899 | 0 |
-| 2023-06-12 | 52,907 | 0 |
+| 2023-06-12 | 52,909 | 0 |
 ## Awards
 Max (Character Customization): 6,659  (Ranked 49)  
-Sum: 13,375 (Ranked 67)  
-Diff (max vs sum): -18  
+Sum: 13,375 (Ranked 68)  
+Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,659 |

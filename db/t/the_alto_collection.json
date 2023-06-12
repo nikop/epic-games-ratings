@@ -667,9 +667,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 25862,
+  "EOS_Progressed": 25867,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1169,
+  "EOS_NewPlayers": 1171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6127,6 +6127,11 @@
       "Time": "2023-06-12T02:27:05.139358+00:00",
       "NumProgressed": 25862,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-12T03:22:41.0580597+00:00",
+      "NumProgressed": 25867,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 39,
@@ -6162,7 +6167,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "distance500000",
@@ -6178,7 +6183,7 @@
       "Name": "Rookie",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6466
+      "UsersEstimate": 6467
     },
     {
       "ID": "goals180",
@@ -6258,7 +6263,7 @@
       "Name": "Nomad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "novice",
@@ -6290,7 +6295,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "playerPaz",
@@ -6346,7 +6351,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6983
+      "UsersEstimate": 6984
     },
     {
       "ID": "sandboarder",
@@ -6354,7 +6359,7 @@
       "Name": "Sandboarder",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "sightseer",
@@ -6362,7 +6367,7 @@
       "Name": "Sightseer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3103
+      "UsersEstimate": 3104
     },
     {
       "ID": "ultimate",
@@ -6394,7 +6399,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "unlockmaya",
@@ -6402,7 +6407,7 @@
       "Name": "Welcome Maya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "unlockpaz",
@@ -6449,15 +6454,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 25862,
+      "Progressed": 25867,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-07T17:59:37.4425865+00:00",
-  "LastChanged_Achievements": "2023-06-12T02:27:05.1393573+00:00",
+  "LastChanged_Achievements": "2023-06-12T03:22:41.0580589+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:39.490472+00:00",
-  "LastUpdate_Ratings": "2023-06-12T02:20:23.3091521+00:00",
-  "LastUpdate_Achievements": "2023-06-12T02:27:05.1394216+00:00"
+  "LastUpdate_Ratings": "2023-06-12T03:15:32.8712281+00:00",
+  "LastUpdate_Achievements": "2023-06-12T03:22:41.0581377+00:00"
 }

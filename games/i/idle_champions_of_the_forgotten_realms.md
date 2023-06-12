@@ -71,6 +71,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.30% | ~271 |
 | Premature Betrayal | 0.30% | ~271 |
 | A Tale of Two Cities | 0.30% | ~271 |
+| The Dead Three | 0.30% | ~271 |
 | Flying Monkey Skulls of Doom | 0.30% | ~271 |
 | Hearts Aflame | 0.30% | ~170 |
 | Look Out! | 0.30% | ~170 |
@@ -211,7 +212,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks in Lurkwood | 0.20% | ~181 |
 | Orcs Are Wild | 0.20% | ~181 |
 | A Tale of Two Fiends | 0.20% | ~181 |
-| The Dead Three | 0.20% | ~181 |
 | Slow and Steady | 0.20% | ~181 |
 | A Hero's Entourage | 0.20% | ~181 |
 | Sneak Attack | 0.20% | ~114 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,492 (Ranked 64)  
+Progressed: 90,495 (Ranked 64)  
 Completed: 1,929 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 1,929 (2.13%) (Ranked 65)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
-| 2023-06-12 | 90,492 | 1,929 |
+| 2023-06-12 | 90,495 | 1,929 |
 ## Awards
 Max (Diverse Characters): 4,934  (Ranked 64)  
 Sum: 30,081 (Ranked 37)  

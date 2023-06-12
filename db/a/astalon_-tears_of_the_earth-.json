@@ -4,7 +4,7 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -103,9 +103,9 @@
       "ID": "Buy_All_Arias_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Fighter Mastery",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Buy_All_Bram_Character_Deals",
@@ -304,8 +304,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-06-12T02:24:28.3234765+00:00",
+  "LastChanged_Achievements": "2023-06-12T03:20:05.6606869+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:38.1738285+00:00",
-  "LastUpdate_Ratings": "2023-06-12T02:19:15.9223119+00:00",
-  "LastUpdate_Achievements": "2023-06-12T02:24:28.3234985+00:00"
+  "LastUpdate_Ratings": "2023-06-12T03:14:20.1671243+00:00",
+  "LastUpdate_Achievements": "2023-06-12T03:20:05.6607035+00:00"
 }
