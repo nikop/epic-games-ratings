@@ -6,32 +6,32 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~29,076 |
-| Say goodbye, creep! | 65.00% | ~27,793 |
-| Blood splattered | 65.00% | ~27,793 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~29,077 |
+| Say goodbye, creep! | 65.00% | ~27,794 |
+| Blood splattered | 65.00% | ~27,794 |
 | Choo choo! | 62.00% | ~26,511 |
-| Groovy | 61.00% | ~26,083 |
+| Groovy | 61.00% | ~26,084 |
 | Cleanup on aisle 4! | 57.00% | ~24,373 |
 | Gold | 50.00% | ~21,380 |
-| The boat can leave now...tell the crew | 48.00% | ~20,524 |
-| Give me something to shoot! | 46.00% | ~19,669 |
-| Stand back boy! | 46.00% | ~19,669 |
+| The boat can leave now...tell the crew | 48.00% | ~20,525 |
+| Give me something to shoot! | 46.00% | ~19,670 |
+| Stand back boy! | 46.00% | ~19,670 |
 | Weird science | 44.00% | ~18,814 |
 | Chain reaction | 44.00% | ~18,814 |
-| Look mummy! A shark! | 41.00% | ~17,531 |
-| What did you say, Blain? | 41.00% | ~17,531 |
-| In the dark dark woods... | 38.00% | ~16,248 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,248 |
+| Look mummy! A shark! | 41.00% | ~17,532 |
+| What did you say, Blain? | 41.00% | ~17,532 |
+| In the dark dark woods... | 38.00% | ~16,249 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,249 |
 | Double tap | 37.00% | ~15,821 |
-| Cranial blowout! | 36.00% | ~15,393 |
-| Zombie killin' machine | 36.00% | ~15,393 |
-| Every bullet counts | 36.00% | ~15,393 |
+| Cranial blowout! | 36.00% | ~15,394 |
+| Zombie killin' machine | 36.00% | ~15,394 |
+| Every bullet counts | 36.00% | ~15,394 |
 | All of this has happened before… | 35.00% | ~14,966 |
 | You've got red on you | 34.00% | ~14,538 |
-| All roads lead to Rome | 33.00% | ~14,110 |
-| You're all going to die down here | 31.00% | ~13,255 |
-| He did Nazi that coming | 31.00% | ~13,255 |
-| Kill of the week | 31.00% | ~13,255 |
+| All roads lead to Rome | 33.00% | ~14,111 |
+| You're all going to die down here | 31.00% | ~13,256 |
+| He did Nazi that coming | 31.00% | ~13,256 |
+| Kill of the week | 31.00% | ~13,256 |
 | I never liked them anyway | 30.00% | ~12,828 |
 | Is it over? | 28.00% | ~11,973 |
 | Got your back | 27.00% | ~11,545 |
@@ -41,7 +41,7 @@ Number of Ratings: 743  (23.09.2022)
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,697 |
 | Take them down screaming | 18.00% | ~7,697 |
 | Weapons expert | 17.00% | ~7,269 |
-| Bad Blood | 16.00% | ~6,841 |
+| Bad Blood | 16.00% | ~6,842 |
 | The bigger they are... | 15.00% | ~6,414 |
 | I'm going deeper underground | 14.00% | ~5,986 |
 | Well equipped | 12.00% | ~5,131 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~428 |
 | None more hard | 0.50% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,759 (Ranked 84)  
+Progressed: 42,760 (Ranked 84)  
 Completed: 25 (0.06%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,11 +126,11 @@ Completed: 25 (0.06%) (Ranked 182)
 | 2023-06-09 | 42,686 | 25 |
 | 2023-06-10 | 42,719 | 25 |
 | 2023-06-11 | 42,752 | 25 |
-| 2023-06-12 | 42,759 | 25 |
+| 2023-06-12 | 42,760 | 25 |
 ## Awards
-Max (Great Boss Battles): 788  (Ranked 147)  
+Max (Great Boss Battles): 788  (Ranked 148)  
 Sum: 2,405 (Ranked 168)  
-Diff (max vs sum): -21  
+Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 788 |

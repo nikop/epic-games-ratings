@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1459,6 +1459,11 @@
       "Time": "2023-06-12T17:04:06.2090848+00:00",
       "NumProgressed": 358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T18:03:28.1906995+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1518,15 +1523,15 @@
       "Name": "French Flair",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "Clothes10",
@@ -1606,7 +1611,7 @@
       "Name": "Sous-Chef",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Level20",
@@ -1670,7 +1675,7 @@
       "Name": "Home Cook",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "RecipeDifferent30",
@@ -1789,7 +1794,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 359,
       "Completed": 0
     }
   ],
@@ -1797,8 +1802,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:04:06.2090844+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:03:28.1906989+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.9705413+00:00",
-  "LastUpdate_Ratings": "2023-06-12T16:58:43.8506997+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:04:06.2091201+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:58:34.4938803+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:03:28.190744+00:00"
 }

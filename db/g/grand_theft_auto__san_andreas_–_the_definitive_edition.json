@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 163
     }
   ],
-  "EOS_Progressed": 10336,
+  "EOS_Progressed": 10337,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4512,6 +4512,11 @@
       "Time": "2023-06-12T17:07:00.2812783+00:00",
       "NumProgressed": 10336,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-12T18:06:04.1045433+00:00",
+      "NumProgressed": 10337,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -4523,7 +4528,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8269
+      "UsersEstimate": 8270
     },
     {
       "ID": "ACH02",
@@ -4643,7 +4648,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "ACH17",
@@ -4699,7 +4704,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "ACH24",
@@ -4802,7 +4807,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10336,
+      "Progressed": 10337,
       "Completed": 17
     }
   ],
@@ -4810,8 +4815,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-11T14:59:43.8934917+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:07:00.281278+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:06:04.1045427+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-12T17:00:41.1695836+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:07:00.2813276+00:00"
+  "LastUpdate_Ratings": "2023-06-12T18:00:11.066841+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:06:04.104599+00:00"
 }

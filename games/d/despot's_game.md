@@ -5,18 +5,18 @@ Rating: 4.50 (Ranked 546)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 84.00% | ~334 |
+| Good start! | 84.00% | ~335 |
 | Vanquisher of Robots | 74.00% | ~295 |
-| Party | 47.00% | ~187 |
-| Impossible Cube | 44.00% | ~175 |
-| Knowledge is Power | 43.00% | ~171 |
-| No Mercy | 42.00% | ~167 |
-| Through the Darkness | 41.00% | ~163 |
-| The Return of a Rat | 40.00% | ~159 |
-| Fat of the Earth | 34.00% | ~135 |
-| Last Man Standing | 32.00% | ~127 |
-| Catch Jonathan_tostar | 27.00% | ~107 |
-| Great Hero | 26.00% | ~103 |
+| Party | 47.00% | ~188 |
+| Impossible Cube | 44.00% | ~176 |
+| Knowledge is Power | 43.00% | ~172 |
+| No Mercy | 42.00% | ~168 |
+| Through the Darkness | 41.00% | ~164 |
+| The Return of a Rat | 40.00% | ~160 |
+| Fat of the Earth | 34.00% | ~136 |
+| Last Man Standing | 32.00% | ~128 |
+| Catch Jonathan_tostar | 27.00% | ~108 |
+| Great Hero | 26.00% | ~104 |
 | Campaigning | 25.00% | ~100 |
 | Assemble a Meganewbie | 25.00% | ~100 |
 | He's Seen It All | 25.00% | ~100 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 546)
 | Vet | 1.00% | ~4 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398 (Ranked 213)  
+Progressed: 399 (Ranked 213)  
 Completed: 1 (0.25%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 1 (0.25%) (Ranked 140)
 | 2023-06-07 | 394 | 1 |
 | 2023-06-09 | 396 | 1 |
 | 2023-06-11 | 398 | 1 |
+| 2023-06-12 | 399 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

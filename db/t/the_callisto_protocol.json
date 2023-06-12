@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -614,9 +614,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15124,
+  "EOS_Progressed": 15126,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3684,6 +3684,11 @@
       "Time": "2023-06-12T17:04:59.3266512+00:00",
       "NumProgressed": 15124,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-12T18:04:22.2473072+00:00",
+      "NumProgressed": 15126,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3759,7 +3764,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -3791,7 +3796,7 @@
       "Name": "Parole Denied",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -3807,7 +3812,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "KILL_2HEAD",
@@ -3879,7 +3884,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -3893,9 +3898,9 @@
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1361
     },
     {
       "ID": "STORY_HABITAT",
@@ -3991,7 +3996,7 @@
       "Name": "Hoard Mode",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -4014,13 +4019,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15124,
+      "Progressed": 15126,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3050,
+      "Progressed": 3052,
       "Completed": 29
     }
   ],
@@ -4028,8 +4033,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T23:58:33.7302071+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:04:59.3266507+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:04:22.2473063+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-12T16:58:12.2297112+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:04:59.3267008+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:58:05.8845938+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:04:22.2473643+00:00"
 }

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 83.00% | ~20 |
+| Escape artist | 88.00% | ~21 |
+| Book Worm | 79.00% | ~19 |
+| Ooh, it's shiny! | 79.00% | ~19 |
 | Through the woods | 75.00% | ~18 |
-| Book Worm | 75.00% | ~18 |
 | My lost nightingale | 75.00% | ~18 |
-| Ooh, it's shiny! | 75.00% | ~18 |
 | Back to the anvil | 67.00% | ~16 |
 | Mystery solved | 63.00% | ~15 |
 | Honey, honey, honey… | 63.00% | ~15 |
@@ -35,24 +35,24 @@
 | Makeover | 42.00% | ~10 |
 | Singstar | 42.00% | ~10 |
 | Kill it! KILL IT! | 42.00% | ~10 |
+| Beekeeper | 38.00% | ~9 |
 | Guilty conscience | 38.00% | ~9 |
-| Beekeeper | 33.00% | ~8 |
+| Turn the last page | 33.00% | ~8 |
 | Cameodalic | 33.00% | ~8 |
 | Bahahahaha... | 33.00% | ~8 |
-| Turn the last page | 29.00% | ~7 |
 | What a mess | 25.00% | ~6 |
 | Clever reference #451 | 25.00% | ~6 |
-| Posterboy! | 21.00% | ~5 |
+| Posterboy! | 25.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24 (Ranked 338)  
-Completed: 4 (16.67%) (Ranked 7)  
+Completed: 5 (20.83%) (Ranked 6)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 21 | 4 |
 | 2023-05-27 | 22 | 4 |
 | 2023-06-01 | 23 | 4 |
-| 2023-06-12 | 24 | 4 |
+| 2023-06-12 | 24 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

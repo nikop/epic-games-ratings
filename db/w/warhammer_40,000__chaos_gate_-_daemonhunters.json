@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -540,9 +540,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2890,
+  "EOS_Progressed": 2891,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1790,6 +1790,11 @@
       "Time": "2023-06-12T17:07:04.96927+00:00",
       "NumProgressed": 2890,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T18:06:08.5270335+00:00",
+      "NumProgressed": 2891,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1895,9 +1900,9 @@
       "ID": "ExtractorSkullUses",
       "SetID": "3jha1np",
       "Name": "Surgical Excision",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 434
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1993,7 +1998,7 @@
       "Name": "Executioner",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "Kills_Exterminator",
@@ -2009,7 +2014,7 @@
       "Name": "Friendly Fire",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "Kills_Interactable",
@@ -2137,7 +2142,7 @@
       "Name": "Bloodless",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -2225,7 +2230,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -2272,21 +2277,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2890,
+      "Progressed": 2891,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2890,
+      "Progressed": 2891,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-11T21:58:41.3965578+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:07:04.9692695+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:06:08.527033+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:59.3316653+00:00",
-  "LastUpdate_Ratings": "2023-06-12T16:59:01.0368263+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:07:04.969332+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:58:47.3943651+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:06:08.5271272+00:00"
 }

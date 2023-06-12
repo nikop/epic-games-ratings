@@ -5,10 +5,10 @@
   "Ranking_Rating": 794,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 342,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -473,6 +473,11 @@
       "Time": "2023-06-12T02:22:20.7737305+00:00",
       "NumProgressed": 341,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T18:00:36.7356988+00:00",
+      "NumProgressed": 342,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 28,
@@ -482,9 +487,9 @@
       "ID": "GB_BUTCHER",
       "SetID": "8ga3kd9",
       "Name": "BUTCHER",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 86
     },
     {
       "ID": "GB_CELEBRITY",
@@ -492,7 +497,7 @@
       "Name": "CELEBRITY",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "GB_CORRUPTIONIST",
@@ -508,7 +513,7 @@
       "Name": "CRIMINAL",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "GB_DEBTOR",
@@ -546,9 +551,9 @@
       "ID": "GB_GRANDMA_WOULD_BE_PROUD",
       "SetID": "8ga3kd9",
       "Name": "GRANDMA WOULD BE PROUD",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 150
     },
     {
       "ID": "GB_GRATITUDE",
@@ -612,7 +617,7 @@
       "Name": "KEVIN!",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -700,14 +705,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 342,
       "Completed": 1
     }
   ],
@@ -715,8 +720,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:01:10.5247136+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:00:36.7356982+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:33.1582218+00:00",
-  "LastUpdate_Ratings": "2023-06-12T16:58:38.0608608+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:01:10.5247466+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:58:30.0701715+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:00:36.7357343+00:00"
 }

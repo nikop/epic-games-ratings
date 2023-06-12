@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -50,7 +50,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1145,
+  "EOS_Progressed": 1146,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
@@ -1775,6 +1775,11 @@
       "Time": "2023-06-12T17:07:01.3809114+00:00",
       "NumProgressed": 1145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T18:06:05.2199571+00:00",
+      "NumProgressed": 1146,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -1786,7 +1791,7 @@
       "Name": "Apprentice",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "A01",
@@ -1816,9 +1821,9 @@
       "ID": "A04",
       "SetID": "9b7p7eo",
       "Name": "Go West",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 103
     },
     {
       "ID": "A05",
@@ -1888,9 +1893,9 @@
       "ID": "A13",
       "SetID": "9b7p7eo",
       "Name": "Seven at one stroke",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 252
     },
     {
       "ID": "A14",
@@ -1898,7 +1903,7 @@
       "Name": "A new Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "A15",
@@ -1946,7 +1951,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "A21",
@@ -2010,7 +2015,7 @@
       "Name": "We brake for nobody",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "A29",
@@ -2056,9 +2061,9 @@
       "ID": "A34",
       "SetID": "9b7p7eo",
       "Name": "Producer",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 539
     },
     {
       "ID": "A35",
@@ -2072,9 +2077,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 779
     },
     {
       "ID": "A37",
@@ -2082,7 +2087,7 @@
       "Name": "All around the World",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "A38",
@@ -2090,7 +2095,7 @@
       "Name": "Poor Devil",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "A39",
@@ -2106,7 +2111,7 @@
       "Name": "Mind the Gap",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "A41",
@@ -2128,17 +2133,17 @@
       "ID": "A43",
       "SetID": "9b7p7eo",
       "Name": "Mole",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 286
     },
     {
       "ID": "A44",
       "SetID": "9b7p7eo",
       "Name": "Breaking Ground",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 195
     },
     {
       "ID": "A45",
@@ -2146,7 +2151,7 @@
       "Name": "Settler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "A46",
@@ -2162,15 +2167,15 @@
       "Name": "Travel Company",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 332
     },
     {
       "ID": "A49",
@@ -2225,7 +2230,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1145,
+      "Progressed": 1146,
       "Completed": 0
     }
   ],
@@ -2233,8 +2238,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-11T13:01:13.9933619+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:07:01.3809102+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:06:05.2199565+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-12T16:58:22.723212+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:07:01.3809752+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:58:16.4667979+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:06:05.2200899+00:00"
 }

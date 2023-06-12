@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109374,
+  "EOS_Progressed": 109375,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1134,6 +1134,11 @@
       "Time": "2023-06-12T16:05:30.3118452+00:00",
       "NumProgressed": 109374,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-12T18:05:40.0412211+00:00",
+      "NumProgressed": 109375,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -1145,7 +1150,7 @@
       "Name": "Getting Equipped!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "10",
@@ -1225,7 +1230,7 @@
       "Name": "Building Block - Silver",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "2",
@@ -1369,7 +1374,7 @@
       "Name": "Challenge Veteran",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "4",
@@ -1377,7 +1382,7 @@
       "Name": "Express Yourself - Silver",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "5",
@@ -1416,15 +1421,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109374,
+      "Progressed": 109375,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:06:31.8884634+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:05:40.0412205+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:31.1358086+00:00",
-  "LastUpdate_Ratings": "2023-06-12T16:58:35.8130429+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:06:31.8884927+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:58:27.421026+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:05:40.0412754+00:00"
 }

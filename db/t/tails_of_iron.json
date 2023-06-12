@@ -203,7 +203,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1665,
+  "EOS_Progressed": 1666,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 2,
@@ -1513,6 +1513,11 @@
       "Time": "2023-06-12T16:02:26.2846195+00:00",
       "NumProgressed": 1665,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-12T18:02:19.9569365+00:00",
+      "NumProgressed": 1666,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1524,7 +1529,7 @@
       "Name": "Become King",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "Collect20Gold",
@@ -1548,7 +1553,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "CollectAllStatues",
@@ -1596,7 +1601,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "CompleteGuardFaction",
@@ -1604,7 +1609,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1628,7 +1633,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "DefeatMoziQueen",
@@ -1636,7 +1641,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1660,7 +1665,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "GetRangedWeapon",
@@ -1668,7 +1673,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "GetTHWeapon",
@@ -1684,7 +1689,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "Kill25Frogs",
@@ -1700,7 +1705,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "MeetTheMoles",
@@ -1724,7 +1729,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "RepairSmith",
@@ -1740,7 +1745,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "RescueBrothers",
@@ -1748,7 +1753,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ReturnPowerInMines",
@@ -1763,22 +1768,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1665,
+      "Progressed": 1666,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 306,
-      "Completed": 306
+      "Progressed": 307,
+      "Completed": 307
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-11T02:28:32.7371002+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:03:32.7008173+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:02:19.9569359+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.129082+00:00",
-  "LastUpdate_Ratings": "2023-06-12T16:58:41.6571549+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:03:32.7008474+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:58:32.7179667+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:02:19.9569894+00:00"
 }

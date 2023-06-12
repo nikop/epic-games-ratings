@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -438,9 +438,9 @@
       "ID": "Headshot",
       "SetID": "ek310c",
       "Name": "U Mad Bro?",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 55
     },
     {
       "ID": "Healthy_Child",
@@ -599,8 +599,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:06:57.1013356+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:06:01.5970883+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:06.3393279+00:00",
-  "LastUpdate_Ratings": "2023-06-12T17:00:56.7565678+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:06:57.1013566+00:00"
+  "LastUpdate_Ratings": "2023-06-12T18:00:24.2605043+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:06:01.5971276+00:00"
 }

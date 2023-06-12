@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,811 |
-| Beast Intentions | 1.00% | ~905 |
-| The Cursed Farmer | 1.00% | ~905 |
-| The Mad Wizard | 1.00% | ~905 |
+| Beast Intentions | 1.00% | ~906 |
+| The Cursed Farmer | 1.00% | ~906 |
+| The Mad Wizard | 1.00% | ~906 |
 | The Court of Storms | 0.90% | ~511 |
 | The Ring of Regeneration | 0.80% | ~724 |
 | Beware the Jabberwock | 0.80% | ~455 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,546 (Ranked 64)  
+Progressed: 90,553 (Ranked 64)  
 Completed: 1,929 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,10 +553,10 @@ Completed: 1,929 (2.13%) (Ranked 65)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
-| 2023-06-12 | 90,546 | 1,929 |
+| 2023-06-12 | 90,553 | 1,929 |
 ## Awards
 Max (Diverse Characters): 4,934  (Ranked 64)  
-Sum: 30,083 (Ranked 37)  
+Sum: 30,084 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -566,7 +566,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,512 |
 | This game is Highly Recommended | 3,958 |
 | This game has Amazing Characters | 3,953 |
-| This game has Playful Visuals | 3,248 |
+| This game has Playful Visuals | 3,249 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -707,4 +707,4 @@ Diff (max vs sum): 27
 | 2023-06-09 | 4.06 | - | 4,925 | 30,064 |
 | 2023-06-10 | 4.06 | - | 4,928 | 30,075 |
 | 2023-06-11 | 4.06 | - | 4,934 | 30,081 |
-| 2023-06-12 | 4.06 | - | 4,934 | 30,083 |
+| 2023-06-12 | 4.06 | - | 4,934 | 30,084 |

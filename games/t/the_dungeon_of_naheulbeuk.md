@@ -6,41 +6,41 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 100.00% | ~73 |
-| Where's that freaking Dwarf? | 95.00% | ~69 |
-| Sock! SOCK! | 82.00% | ~60 |
-| Livin' in a dwarven paradise | 67.00% | ~49 |
-| Fireproof Wizardess | 67.00% | ~49 |
-| Déjà vu | 60.00% | ~44 |
-| GG EZ | 58.00% | ~42 |
-| DM intervention | 56.00% | ~41 |
+| Alt+F4 | 100.00% | ~74 |
+| Where's that freaking Dwarf? | 95.00% | ~70 |
+| Sock! SOCK! | 82.00% | ~61 |
+| Livin' in a dwarven paradise | 68.00% | ~50 |
+| Fireproof Wizardess | 68.00% | ~50 |
+| Déjà vu | 59.00% | ~44 |
+| GG EZ | 58.00% | ~43 |
+| DM intervention | 55.00% | ~41 |
+| Way of the Wimp | 53.00% | ~39 |
 | Oh, when I'll be level 10... | 53.00% | ~39 |
-| Way of the Wimp | 52.00% | ~38 |
-| Speedrun | 51.00% | ~37 |
-| I am the night | 47.00% | ~34 |
-| Thieves' Guild Accreditation | 45.00% | ~33 |
-| The plot thickens... At the tavern | 44.00% | ~32 |
-| The Ranger of Chaos | 42.00% | ~31 |
+| Speedrun | 50.00% | ~37 |
+| I am the night | 46.00% | ~34 |
+| Thieves' Guild Accreditation | 46.00% | ~34 |
+| The plot thickens... At the tavern | 43.00% | ~32 |
+| The Ranger of Chaos | 43.00% | ~32 |
 | Team Building Exercise | 42.00% | ~31 |
-| A beer, two curses, three companions | 40.00% | ~29 |
-| Dwarf Fortress | 40.00% | ~29 |
-| Look but don't touch | 40.00% | ~29 |
-| Shiny and Crôm | 37.00% | ~27 |
-| Material Girl | 36.00% | ~26 |
+| Dwarf Fortress | 41.00% | ~30 |
+| A beer, two curses, three companions | 39.00% | ~29 |
+| Look but don't touch | 39.00% | ~29 |
+| Shiny and Crôm | 36.00% | ~27 |
+| Material Girl | 36.00% | ~27 |
+| Gargantua | 35.00% | ~26 |
+| The demons' feast | 34.00% | ~25 |
+| Torture and Sensibility | 34.00% | ~25 |
 | The Statuette of Gladeulfeurah | 34.00% | ~25 |
 | A tale of adventurers not quite like the others... | 34.00% | ~25 |
-| Gargantua | 34.00% | ~25 |
-| The demons' feast | 33.00% | ~24 |
-| Torture and Sensibility | 33.00% | ~24 |
-| The Famous Dungeon of Naheulbeuk | 29.00% | ~21 |
-| The Great Library | 26.00% | ~19 |
-| The beards of change | 25.00% | ~18 |
+| The Famous Dungeon of Naheulbeuk | 28.00% | ~21 |
+| The Great Library | 27.00% | ~20 |
+| The beards of change | 26.00% | ~19 |
 | Cursed die | 23.00% | ~17 |
 | Urik's Depths | 22.00% | ~16 |
-| The Woman in the High Castle | 21.00% | ~15 |
-| The Blood Countess | 21.00% | ~15 |
-| Law and Order | 21.00% | ~15 |
-| In Navalu's footsteps | 19.00% | ~14 |
+| The Woman in the High Castle | 20.00% | ~15 |
+| The Blood Countess | 20.00% | ~15 |
+| Law and Order | 20.00% | ~15 |
+| In Navalu's footsteps | 20.00% | ~15 |
 | Res Judicata | 16.00% | ~12 |
 | Necrophilia | 16.00% | ~12 |
 | Dead for good | 16.00% | ~12 |
@@ -50,16 +50,16 @@ Number of Ratings: 118  (23.09.2022)
 | He’s alive! Aliiiive! | 14.00% | ~10 |
 | It's been a hard day's night | 12.00% | ~9 |
 | Lëgal Legend | 11.00% | ~8 |
-| An old poacher makes the best gamekeeper | 10.00% | ~7 |
-| Lust and Debauchery | 10.00% | ~7 |
+| An old poacher makes the best gamekeeper | 9.00% | ~7 |
+| Lust and Debauchery | 9.00% | ~7 |
 | Egghead | 8.00% | ~6 |
 | Free customer service | 8.00% | ~6 |
 | Super-Ultra-Lydian | 8.00% | ~6 |
 | Holistic Adventuring Party | 7.00% | ~5 |
 | We come in peace | 7.00% | ~5 |
+| Inception | 7.00% | ~5 |
 | Elite Adventurers | 5.00% | ~4 |
 | Insult to injury | 5.00% | ~4 |
-| Inception | 5.00% | ~4 |
 | Friendly fire | 4.00% | ~3 |
 | I'd rather... Just... Sing! | 4.00% | ~3 |
 | Deep changes | 4.00% | ~3 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 293)  
+Progressed: 74 (Ranked 293)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 52 | 0 |
 | 2023-06-10 | 61 | 0 |
 | 2023-06-11 | 70 | 0 |
-| 2023-06-12 | 73 | 0 |
+| 2023-06-12 | 74 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 379)  
 Sum: 61 (Ranked 432)  

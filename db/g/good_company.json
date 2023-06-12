@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -1960,9 +1960,9 @@
       "ID": "ach_frp_many_products2",
       "SetID": "8cb3id7",
       "Name": "Salesperson",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 199
     },
     {
       "ID": "ach_frp_many_products3",
@@ -2184,8 +2184,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:07:01.566269+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:06:05.4054359+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:18.7719837+00:00",
-  "LastUpdate_Ratings": "2023-06-12T16:59:18.4650639+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:07:01.5663581+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:59:02.8956811+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:06:05.4056093+00:00"
 }

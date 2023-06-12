@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61166,
+  "EOS_Progressed": 61173,
   "EOS_Completed": 527,
-  "EOS_NewPlayers": 1240,
+  "EOS_NewPlayers": 1237,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -5635,6 +5635,11 @@
       "Time": "2023-06-12T17:06:50.554327+00:00",
       "NumProgressed": 61166,
       "NumCompleted": 527
+    },
+    {
+      "Time": "2023-06-12T18:05:55.9698979+00:00",
+      "NumProgressed": 61173,
+      "NumCompleted": 527
     }
   ],
   "TotalAchievements": 25,
@@ -5662,7 +5667,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11010
+      "UsersEstimate": 11011
     },
     {
       "ID": "Audiophile",
@@ -5678,7 +5683,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 12845
+      "UsersEstimate": 12846
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -5686,7 +5691,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10398
+      "UsersEstimate": 10399
     },
     {
       "ID": "Butcher",
@@ -5702,7 +5707,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3058
+      "UsersEstimate": 3059
     },
     {
       "ID": "Fair\u0027sFair",
@@ -5718,7 +5723,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12233
+      "UsersEstimate": 12235
     },
     {
       "ID": "Hearty",
@@ -5734,7 +5739,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5505
+      "UsersEstimate": 5506
     },
     {
       "ID": "Magnetic Miracles",
@@ -5750,7 +5755,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12233
+      "UsersEstimate": 12235
     },
     {
       "ID": "Meaty",
@@ -5766,7 +5771,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 11622
+      "UsersEstimate": 11623
     },
     {
       "ID": "Nice Try",
@@ -5774,7 +5779,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9787
+      "UsersEstimate": 9788
     },
     {
       "ID": "Nothing Left to Say",
@@ -5845,7 +5850,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 61166,
+      "Progressed": 61173,
       "Completed": 527
     }
   ],
@@ -5853,8 +5858,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-10T22:00:06.058838+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:06:50.5543266+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:05:55.969897+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.9949874+00:00",
-  "LastUpdate_Ratings": "2023-06-12T17:00:55.0827232+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:06:50.554376+00:00"
+  "LastUpdate_Ratings": "2023-06-12T18:00:22.7123376+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:05:55.9699533+00:00"
 }

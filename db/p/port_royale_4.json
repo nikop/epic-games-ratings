@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -1033,9 +1033,9 @@
       "ID": "ACH015",
       "SetID": "69nfp41",
       "Name": "Groundskeeper",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH016",
@@ -1321,8 +1321,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:06:53.4220128+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:05:58.4105865+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.6076867+00:00",
-  "LastUpdate_Ratings": "2023-06-12T16:58:48.6451897+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:06:53.4220581+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:58:38.0764403+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:05:58.4106391+00:00"
 }

@@ -49,16 +49,16 @@
 | Golem Hunter | 2.00% | ~13 |
 | Rungs Was Right | 2.00% | ~13 |
 | Hexlock for Protection | 1.00% | ~7 |
-| Fitting In | 0.80% | ~5 |
-| Thinking Two Steps Ahead | 0.50% | ~3 |
+| Fitting In | 0.70% | ~5 |
+| Thinking Two Steps Ahead | 0.40% | ~3 |
 | Wunderkind | 0.30% | ~2 |
 | Wildlife Protection | 0.30% | ~2 |
-| A Lesson in Precision | 0.20% | ~1 |
+| A Lesson in Precision | 0.10% | ~1 |
 | Going to Live Forever | 0.00% | ~0 |
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665 (Ranked 192)  
+Progressed: 667 (Ranked 191)  
 Completed: 1 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,4 +83,4 @@ Completed: 1 (0.15%) (Ranked 157)
 | 2023-06-09 | 642 | 0 |
 | 2023-06-10 | 653 | 0 |
 | 2023-06-11 | 661 | 1 |
-| 2023-06-12 | 665 | 1 |
+| 2023-06-12 | 667 | 1 |

@@ -2,10 +2,10 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_EOS_Progress": 192,
+  "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 665,
+  "EOS_Progressed": 667,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1214,6 +1214,11 @@
       "Time": "2023-06-12T15:05:06.7627382+00:00",
       "NumProgressed": 665,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T18:05:23.0555716+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1223,7 +1228,7 @@
       "ID": "AllSpecials",
       "SetID": "a9e499d",
       "Name": "Thinking Two Steps Ahead",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -1399,7 +1404,7 @@
       "ID": "InxChromaInTheatre",
       "SetID": "a9e499d",
       "Name": "Fitting In",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -1455,7 +1460,7 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -1648,14 +1653,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 665,
+      "Progressed": 667,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:06:11.4612461+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:05:23.0555711+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-12T16:59:45.8619422+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:06:11.4612989+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:59:25.4251863+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:05:23.0556304+00:00"
 }

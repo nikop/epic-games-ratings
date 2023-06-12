@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6450,
+  "EOS_Progressed": 6451,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3449,6 +3449,11 @@
       "Time": "2023-06-12T17:06:30.7507796+00:00",
       "NumProgressed": 6450,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-12T18:05:39.2038151+00:00",
+      "NumProgressed": 6451,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3460,7 +3465,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ARRR",
@@ -3492,7 +3497,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CLAY_PIGEON",
@@ -3556,7 +3561,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "IN_A_PINCH",
@@ -3588,7 +3593,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "SNIP_SNIP",
@@ -3612,7 +3617,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "THING",
@@ -3620,14 +3625,14 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     }
   ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6450,
+      "Progressed": 6451,
       "Completed": 24
     }
   ],
@@ -3635,8 +3640,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
-  "LastChanged_Achievements": "2023-06-12T17:06:30.7507792+00:00",
+  "LastChanged_Achievements": "2023-06-12T18:05:39.2038147+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-12T16:58:14.6068526+00:00",
-  "LastUpdate_Achievements": "2023-06-12T17:06:30.7508124+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:58:09.1536949+00:00",
+  "LastUpdate_Achievements": "2023-06-12T18:05:39.2038509+00:00"
 }

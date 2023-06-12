@@ -15,7 +15,7 @@ Number of Ratings: 25  (23.09.2022)
 | Frugal | 85.00% | ~490 |
 | Dilligent | 82.00% | ~473 |
 | I... I did it? | 80.00% | ~462 |
-| Adored | 75.00% | ~433 |
+| Adored | 76.00% | ~439 |
 | The Hobbyist | 65.00% | ~375 |
 | A Forked Tongue | 54.00% | ~312 |
 | Between Two Fires | 51.00% | ~294 |
@@ -25,7 +25,7 @@ Number of Ratings: 25  (23.09.2022)
 | The Farmer | 38.00% | ~219 |
 | Ever After | 36.00% | ~208 |
 | Mandatory Sacrifice | 29.00% | ~167 |
-| Loyal | 27.00% | ~156 |
+| Loyal | 28.00% | ~162 |
 | The Collector | 24.00% | ~138 |
 | All Doors Open | 19.00% | ~110 |
 | Faithful | 10.00% | ~58 |

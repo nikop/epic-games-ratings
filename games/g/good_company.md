@@ -20,10 +20,10 @@ Number of Ratings: 75  (23.09.2022)
 | Extra Life: Wish Granted | 4.00% | ~199 |
 | High Five! | 4.00% | ~199 |
 | Modular Progress | 4.00% | ~199 |
+| Salesperson | 4.00% | ~199 |
 | Campaign: Lesson Learned | 3.00% | ~149 |
 | Level: Bet On Bots | 3.00% | ~149 |
 | Modular Performance | 3.00% | ~149 |
-| Salesperson | 3.00% | ~149 |
 | Level: Merry-Go-Around | 2.00% | ~100 |
 | Charlies's Circuits: Artist | 2.00% | ~100 |
 | Modular Peak | 2.00% | ~100 |
