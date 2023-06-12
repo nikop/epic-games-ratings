@@ -5,13 +5,13 @@
 | 2 | [Volley Pals](games/v/volley_pals.md) | 25.00% |
 | 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
-| 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 7 | [Anna's Quest](games/a/anna's_quest.md) | 16.67% |
+| 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
+| 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Island Cities](games/i/island_cities.md) | 15.43% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
-| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
 | 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.43% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 10.53% |
@@ -19,11 +19,11 @@
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.70% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.18% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.17% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.60% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 7.06% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.97% |
 | 27 | [Scorn](games/s/scorn.md) | 6.77% |
@@ -54,7 +54,7 @@
 | 52 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 54 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
-| 55 | [Lamentum](games/l/lamentum.md) | 2.77% |
+| 55 | [Lamentum](games/l/lamentum.md) | 2.76% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 57 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.62% |
 | 58 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.60% |
@@ -65,7 +65,7 @@
 | 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.20% |
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
 | 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
-| 66 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 66 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 67 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.08% |
 | 68 | [Iron Danger](games/i/iron_danger.md) | 1.98% |
 | 69 | [JARS](games/j/jars.md) | 1.89% |
@@ -441,4 +441,4 @@
 | 216 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 216 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 216 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,767 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,768 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
