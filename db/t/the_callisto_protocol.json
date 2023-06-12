@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -614,9 +614,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15092,
+  "EOS_Progressed": 15094,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3624,6 +3624,11 @@
       "Time": "2023-06-12T03:20:36.3457428+00:00",
       "NumProgressed": 15092,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-12T04:04:34.7357061+00:00",
+      "NumProgressed": 15094,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3651,7 +3656,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3673,9 +3678,9 @@
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 136
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -3739,7 +3744,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3779,7 +3784,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3835,7 +3840,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "STORY_HABITAT",
@@ -3843,7 +3848,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "STORY_HANGAR",
@@ -3954,13 +3959,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15092,
+      "Progressed": 15094,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3018,
+      "Progressed": 3020,
       "Completed": 29
     }
   ],
@@ -3968,8 +3973,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T23:58:33.7302071+00:00",
-  "LastChanged_Achievements": "2023-06-12T03:20:36.3457421+00:00",
+  "LastChanged_Achievements": "2023-06-12T04:04:34.7357055+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-12T03:13:44.1454075+00:00",
-  "LastUpdate_Achievements": "2023-06-12T03:20:36.3457924+00:00"
+  "LastUpdate_Ratings": "2023-06-12T03:58:02.1206655+00:00",
+  "LastUpdate_Achievements": "2023-06-12T04:04:34.7357548+00:00"
 }

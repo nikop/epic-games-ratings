@@ -11,11 +11,11 @@ Rating: 4.18 (Ranked 842)
 | Paper Jams | 11.00% | ~1,660 |
 | Chew 'Em Up | 9.00% | ~1,358 |
 | Reforged | 9.00% | ~1,358 |
-| Workplace Hazard | 8.00% | ~1,207 |
-| If the SHU Fits... | 8.00% | ~1,207 |
-| Giving Back | 7.00% | ~1,056 |
-| Get a Grip | 7.00% | ~1,056 |
-| Without A Paddle | 7.00% | ~1,056 |
+| Workplace Hazard | 8.00% | ~1,208 |
+| If the SHU Fits... | 8.00% | ~1,208 |
+| Giving Back | 7.00% | ~1,057 |
+| Get a Grip | 7.00% | ~1,057 |
+| Without A Paddle | 7.00% | ~1,057 |
 | Two Heads Are Better Than One | 5.00% | ~755 |
 | Terminated | 5.00% | ~755 |
 | Float Like A Butterfly | 5.00% | ~755 |
@@ -35,7 +35,7 @@ Rating: 4.18 (Ranked 842)
 | Big Spender | 2.00% | ~60 |
 | Parole Denied | 1.00% | ~30 |
 | Hoard Mode | 1.00% | ~30 |
-| Grim Reaper | 0.80% | ~121 |
+| Grim Reaper | 0.90% | ~136 |
 | Recidivist | 0.70% | ~21 |
 | Lifer | 0.70% | ~21 |
 | Armed to the Teeth | 0.30% | ~9 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 842)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,092 (Ranked 104)  
+Progressed: 15,094 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 54 (0.36%) (Ranked 124)
 | 2023-06-09 | 14,877 | 54 |
 | 2023-06-10 | 14,984 | 54 |
 | 2023-06-11 | 15,076 | 54 |
-| 2023-06-12 | 15,092 | 54 |
+| 2023-06-12 | 15,094 | 54 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
 Sum: 306 (Ranked 328)  

@@ -4178,10 +4178,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30081,
       "NumberOfAwardsMax": 4934
+    },
+    {
+      "Time": "2023-06-12T03:58:13.7803608+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30083,
+      "NumberOfAwardsMax": 4934
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30081,
+  "NumberOfAwards": 30083,
   "NumberOfAwardsMax": 4934,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4201,13 +4207,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4613
+      "Count": 4614
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4511
+      "Count": 4512
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4228,9 +4234,9 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90495,
+  "EOS_Progressed": 90498,
   "EOS_Completed": 1929,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9608,6 +9614,11 @@
       "Time": "2023-06-12T03:23:09.5977013+00:00",
       "NumProgressed": 90495,
       "NumCompleted": 1929
+    },
+    {
+      "Time": "2023-06-12T04:06:59.6352046+00:00",
+      "NumProgressed": 90498,
+      "NumCompleted": 1929
     }
   ],
   "TotalAchievements": 493,
@@ -13562,21 +13573,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56769,
+      "Progressed": 56772,
       "Completed": 2785
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90495,
+      "Progressed": 90498,
       "Completed": 1929
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-11T23:58:45.2091945+00:00",
-  "LastChanged_Achievements": "2023-06-12T03:23:09.5977007+00:00",
+  "LastChanged": "2023-06-12T03:58:13.7803606+00:00",
+  "LastChanged_Achievements": "2023-06-12T04:06:59.6352041+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-12T03:13:57.0133595+00:00",
-  "LastUpdate_Achievements": "2023-06-12T03:23:09.600056+00:00"
+  "LastUpdate_Ratings": "2023-06-12T03:58:13.7803613+00:00",
+  "LastUpdate_Achievements": "2023-06-12T04:06:59.637908+00:00"
 }

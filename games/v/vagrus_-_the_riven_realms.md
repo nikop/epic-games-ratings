@@ -8,7 +8,7 @@
 | Press-ganged | 40.00% | ~40 |
 | The Package | 21.00% | ~21 |
 | Randomized | 12.00% | ~12 |
-| Conquered | 10.00% | ~10 |
+| Conquered | 11.00% | ~11 |
 | Scribe | 4.00% | ~4 |
 | Conciliator | 3.00% | ~3 |
 | Tactician | 3.00% | ~3 |
@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 277)  
+Progressed: 99 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |

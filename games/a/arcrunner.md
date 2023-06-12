@@ -19,10 +19,10 @@
 | Nanonic III | 19.00% | ~71 |
 | Starship Docks | 18.00% | ~68 |
 | Cybernetic | 15.00% | ~56 |
+| The Bigger They Are | 14.00% | ~53 |
 | Up Close And Personal | 14.00% | ~53 |
-| The Bigger They Are | 13.00% | ~49 |
 | Eden Heights | 11.00% | ~41 |
-| Outer Core | 6.00% | ~23 |
+| Outer Core | 7.00% | ~26 |
 | Trickshot | 5.00% | ~19 |
 | Inner Core | 3.00% | ~11 |
 | Destruction | 2.00% | ~8 |

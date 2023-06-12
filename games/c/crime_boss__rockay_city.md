@@ -5,14 +5,14 @@ Rating: 3.93 (Ranked 914)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,012 |
-| First One’s Free | 65.00% | ~43,051 |
-| Neophyte Ninja | 50.00% | ~33,116 |
-| Too Old for This | 47.00% | ~31,129 |
-| Fancy Pants | 35.00% | ~23,181 |
-| Case Closed | 34.00% | ~22,519 |
-| King of the Hill | 34.00% | ~22,519 |
-| Underworld Initiate | 29.00% | ~19,207 |
+| Downed but Not Outed | 74.00% | ~49,013 |
+| First One’s Free | 65.00% | ~43,052 |
+| Neophyte Ninja | 50.00% | ~33,117 |
+| Too Old for This | 47.00% | ~31,130 |
+| Fancy Pants | 35.00% | ~23,182 |
+| Case Closed | 34.00% | ~22,520 |
+| King of the Hill | 34.00% | ~22,520 |
+| Underworld Initiate | 29.00% | ~19,208 |
 | Roid Ranger | 21.00% | ~13,909 |
 | True Player | 19.00% | ~12,584 |
 | Off the Rocks | 19.00% | ~12,584 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 914)
 | Geek Out | 0.50% | ~331 |
 | Full House | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,232 (Ranked 69)  
+Progressed: 66,234 (Ranked 69)  
 Completed: 32 (0.05%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,17 +96,17 @@ Completed: 32 (0.05%) (Ranked 184)
 | 2023-06-09 | 65,753 | 32 |
 | 2023-06-10 | 65,981 | 32 |
 | 2023-06-11 | 66,215 | 32 |
-| 2023-06-12 | 66,232 | 32 |
+| 2023-06-12 | 66,234 | 32 |
 ## Awards
 Max (Diverse Characters): 325  (Ranked 222)  
-Sum: 1,544 (Ranked 209)  
+Sum: 1,546 (Ranked 209)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 325 |
 | This game is Highly Recommended | 313 |
 | This game has Quickly Understood Controls | 306 |
-| This game has Amazing Characters | 301 |
+| This game has Amazing Characters | 303 |
 | This game has Challenging Combat | 299 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -189,3 +189,4 @@ Diff (max vs sum): 13
 | 2023-06-09 | 3.93 | 322 | 1,522 |
 | 2023-06-10 | 3.93 | 324 | 1,536 |
 | 2023-06-11 | 3.93 | 325 | 1,544 |
+| 2023-06-12 | 3.93 | 325 | 1,546 |

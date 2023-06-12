@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 661,
+  "EOS_Progressed": 663,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1204,6 +1204,11 @@
       "Time": "2023-06-11T23:05:52.4449397+00:00",
       "NumProgressed": 661,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T04:05:55.4001534+00:00",
+      "NumProgressed": 663,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1231,7 +1236,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ChestCompletion1",
@@ -1311,7 +1316,7 @@
       "Name": "Family Memories",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "FactorywoodChests1",
@@ -1325,17 +1330,17 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 40
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1373,9 +1378,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 40
     },
     {
       "ID": "HexlockGift",
@@ -1405,9 +1410,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 40
     },
     {
       "ID": "MapCompletion1",
@@ -1607,7 +1612,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "WatcherSpared",
@@ -1638,14 +1643,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 661,
+      "Progressed": 663,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-12T03:22:01.3514623+00:00",
+  "LastChanged_Achievements": "2023-06-12T04:05:55.4001524+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-12T03:15:43.9979509+00:00",
-  "LastUpdate_Achievements": "2023-06-12T03:22:01.3515058+00:00"
+  "LastUpdate_Ratings": "2023-06-12T03:59:48.1960106+00:00",
+  "LastUpdate_Achievements": "2023-06-12T04:05:55.4002064+00:00"
 }

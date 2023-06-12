@@ -52,7 +52,7 @@
   "Tags": [],
   "EOS_Progressed": 1130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1894,9 +1894,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 825
     },
     {
       "ID": "A21",
@@ -2158,9 +2158,9 @@
       "ID": "A53",
       "SetID": "9b7p7eo",
       "Name": "Networker",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 158
     },
     {
       "ID": "A54",
@@ -2183,8 +2183,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-11T13:01:13.9933619+00:00",
-  "LastChanged_Achievements": "2023-06-12T03:22:59.6823691+00:00",
+  "LastChanged_Achievements": "2023-06-12T04:06:49.7390592+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-12T03:13:57.5723131+00:00",
-  "LastUpdate_Achievements": "2023-06-12T03:22:59.6824215+00:00"
+  "LastUpdate_Ratings": "2023-06-12T03:58:14.1652088+00:00",
+  "LastUpdate_Achievements": "2023-06-12T04:06:49.7391221+00:00"
 }

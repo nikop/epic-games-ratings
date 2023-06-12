@@ -5,15 +5,15 @@ Rating: 4.25 (Ranked 793)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,406 |
-| Don't I Know You...? | 77.00% | ~1,354 |
+| Rigged And Ready | 80.00% | ~1,407 |
+| Don't I Know You...? | 76.00% | ~1,337 |
 | Jailbreak | 65.00% | ~1,143 |
 | Suited and Booted | 38.00% | ~668 |
-| HEADSHOT! | 37.00% | ~650 |
-| Sleeping With The Fishes | 35.00% | ~615 |
-| Overheated | 30.00% | ~527 |
-| High Performance | 30.00% | ~527 |
-| Powered Up | 28.00% | ~492 |
+| HEADSHOT! | 37.00% | ~651 |
+| Sleeping With The Fishes | 35.00% | ~616 |
+| Overheated | 30.00% | ~528 |
+| High Performance | 30.00% | ~528 |
+| Powered Up | 28.00% | ~493 |
 | Studied The Blade | 24.00% | ~422 |
 | Home Invasion | 22.00% | ~387 |
 | Luminary | 22.00% | ~387 |
@@ -23,8 +23,8 @@ Rating: 4.25 (Ranked 793)
 | Court Martial | 19.00% | ~334 |
 | Offensive Defense | 19.00% | ~334 |
 | Unforeseeable Consequences | 19.00% | ~334 |
-| Dead Again | 18.00% | ~316 |
-| Clean Cut | 18.00% | ~316 |
+| Dead Again | 18.00% | ~317 |
+| Clean Cut | 18.00% | ~317 |
 | Full Arsenal | 17.00% | ~299 |
 | Can't Trust Banks | 15.00% | ~264 |
 | Mommy Dearest | 13.00% | ~229 |
@@ -42,8 +42,8 @@ Rating: 4.25 (Ranked 793)
 | Following In Their Footsteps | 8.00% | ~141 |
 | Defense in Depth | 8.00% | ~141 |
 | Reverse Engineering | 7.00% | ~123 |
-| Turbo Booster | 6.00% | ~105 |
-| Squid Pro Quo | 6.00% | ~105 |
+| Turbo Booster | 6.00% | ~106 |
+| Squid Pro Quo | 6.00% | ~106 |
 | Reborn | 5.00% | ~88 |
 | Remote Surgery | 5.00% | ~88 |
 | Counter-Sniper | 5.00% | ~88 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 793)
 | Three Birds With One Stone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,758 (Ranked 155)  
+Progressed: 1,759 (Ranked 155)  
 Completed: 10 (0.57%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 10 (0.57%) (Ranked 111)
 | 2023-06-09 | 1,739 | 10 |
 | 2023-06-10 | 1,748 | 10 |
 | 2023-06-11 | 1,756 | 10 |
-| 2023-06-12 | 1,758 | 10 |
+| 2023-06-12 | 1,759 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

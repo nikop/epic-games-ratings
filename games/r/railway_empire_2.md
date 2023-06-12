@@ -5,7 +5,7 @@ Rating: 4.22 (Ranked 814)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 72.00% | ~814 |
+| Country Bumpkin | 73.00% | ~825 |
 | A new Journey | 71.00% | ~802 |
 | Departure | 70.00% | ~791 |
 | From X to Y | 69.00% | ~780 |
@@ -41,8 +41,8 @@ Rating: 4.22 (Ranked 814)
 | Assimilated | 14.00% | ~158 |
 | Locusts | 14.00% | ~158 |
 | Traffic Junction | 14.00% | ~158 |
+| Networker | 14.00% | ~158 |
 | Resistance is futile | 13.00% | ~147 |
-| Networker | 13.00% | ~147 |
 | Settler | 10.00% | ~113 |
 | Max Power | 9.00% | ~102 |
 | Go West | 8.00% | ~90 |

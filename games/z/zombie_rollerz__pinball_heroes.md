@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 89.00% | ~88 |
-| Bullseye! | 85.00% | ~84 |
-| Graduation! | 81.00% | ~80 |
-| Villfir Forest | 77.00% | ~76 |
-| Right in the kisser! | 63.00% | ~62 |
-| Duscot Steamcity | 52.00% | ~51 |
-| The Shaman | 51.00% | ~50 |
+| Level Up! | 89.00% | ~89 |
+| Bullseye! | 85.00% | ~85 |
+| Graduation! | 80.00% | ~80 |
+| Villfir Forest | 77.00% | ~77 |
+| Right in the kisser! | 63.00% | ~63 |
+| Duscot Steamcity | 51.00% | ~51 |
+| The Shaman | 50.00% | ~50 |
 | The Thrower | 48.00% | ~48 |
 | The Penguin | 46.00% | ~46 |
-| The Magician | 44.00% | ~44 |
+| The Magician | 45.00% | ~45 |
 | The Tunneler | 40.00% | ~40 |
 | The Shield | 39.00% | ~39 |
 | Level Up!! | 38.00% | ~38 |
@@ -78,7 +78,7 @@
 | Wu-wei | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 277)  
+Progressed: 100 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-08 | 93 | 0 |
 | 2023-06-09 | 96 | 0 |
 | 2023-06-10 | 99 | 0 |
+| 2023-06-12 | 100 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

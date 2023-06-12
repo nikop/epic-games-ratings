@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 587,
+  "EOS_Progressed": 588,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -515,6 +515,11 @@
       "Time": "2023-06-11T20:00:16.2038072+00:00",
       "NumProgressed": 587,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T04:02:06.0865749+00:00",
+      "NumProgressed": 588,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -598,7 +603,7 @@
       "Name": "Weeper",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -630,7 +635,7 @@
       "Name": "Scion",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -638,7 +643,7 @@
       "Name": "Glare",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -774,7 +779,7 @@
       "Name": "Breathsmith",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -790,7 +795,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -838,7 +843,7 @@
       "Name": "Kin",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "QUEST_LISTENER",
@@ -854,28 +859,28 @@
       "Name": "Proportions",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 20
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 587,
+      "Progressed": 588,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-12T03:18:07.578717+00:00",
+  "LastChanged_Achievements": "2023-06-12T04:02:06.0865746+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.0328366+00:00",
-  "LastUpdate_Ratings": "2023-06-12T03:16:59.2243022+00:00",
-  "LastUpdate_Achievements": "2023-06-12T03:18:07.5787758+00:00"
+  "LastUpdate_Ratings": "2023-06-12T04:00:59.7149206+00:00",
+  "LastUpdate_Achievements": "2023-06-12T04:02:06.086607+00:00"
 }

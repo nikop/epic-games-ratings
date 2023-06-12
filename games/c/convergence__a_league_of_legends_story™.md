@@ -7,12 +7,12 @@
 | Treasure Trove | 8.00% | ~53 |
 | Cartographer | 8.00% | ~53 |
 | Time Heals All Wounds | 8.00% | ~53 |
-| The Mysterious Stranger | 7.00% | ~46 |
-| Rail Rat | 7.00% | ~46 |
-| Make Up For Lost Time | 7.00% | ~46 |
 | The Prince in Heels | 7.00% | ~46 |
 | Immaculate Aim | 7.00% | ~46 |
 | The Steel Shadow | 6.00% | ~40 |
+| The Mysterious Stranger | 6.00% | ~40 |
+| Rail Rat | 6.00% | ~40 |
+| Make Up For Lost Time | 6.00% | ~40 |
 | Time Flies | 6.00% | ~40 |
 | The Harder They Fall | 6.00% | ~40 |
 | No, Thanks! | 6.00% | ~40 |
@@ -31,12 +31,13 @@
 | Fast Learner | 5.00% | ~33 |
 | Check Your Pulse | 5.00% | ~33 |
 | The Family Fortune | 5.00% | ~33 |
-| Chaincrawler Explorer | 4.00% | ~26 |
-| Family Memories | 4.00% | ~26 |
-| Ask Questions Later | 4.00% | ~26 |
+| Chaincrawler Explorer | 4.00% | ~27 |
+| Family Memories | 4.00% | ~27 |
+| Ask Questions Later | 4.00% | ~27 |
 | Sartorialist | 3.00% | ~20 |
 | Entresol Explorer | 3.00% | ~20 |
 | Factorywood Explorer | 3.00% | ~20 |
+| Fairgrounds Explorer | 3.00% | ~20 |
 | Whiz Kid | 3.00% | ~20 |
 | Sump Explorer | 3.00% | ~20 |
 | Syron for Hope | 3.00% | ~20 |
@@ -45,7 +46,6 @@
 | Corin Goes Home | 2.00% | ~13 |
 | Clovemary for Remembering | 2.00% | ~13 |
 | Cultivair Explorer | 2.00% | ~13 |
-| Fairgrounds Explorer | 2.00% | ~13 |
 | Golem Hunter | 2.00% | ~13 |
 | Rungs Was Right | 2.00% | ~13 |
 | Hexlock for Protection | 1.00% | ~7 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661 (Ranked 192)  
+Progressed: 663 (Ranked 192)  
 Completed: 1 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,3 +83,4 @@ Completed: 1 (0.15%) (Ranked 157)
 | 2023-06-09 | 642 | 0 |
 | 2023-06-10 | 653 | 0 |
 | 2023-06-11 | 661 | 1 |
+| 2023-06-12 | 663 | 1 |

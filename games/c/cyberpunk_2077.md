@@ -6,52 +6,52 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~578,085 |
-| Right Back At Ya | 38.00% | ~323,048 |
-| The Lovers | 33.00% | ~280,541 |
-| Stanislavski's Method | 27.00% | ~229,534 |
-| The Wheel of Fortune | 26.00% | ~221,032 |
-| The Hermit | 23.00% | ~195,529 |
-| Christmas Tree Attack | 22.00% | ~187,028 |
-| True Soldier | 22.00% | ~187,028 |
-| Legend of The Afterlife | 21.00% | ~178,526 |
-| The High Priestess | 20.00% | ~170,025 |
-| Life of the Road | 19.00% | ~161,524 |
-| Full Body Conversion | 17.00% | ~144,521 |
-| The World | 16.00% | ~136,020 |
-| Bushido and Chill | 15.00% | ~127,519 |
-| Gun Fu | 14.00% | ~119,018 |
-| True Warrior | 14.00% | ~119,018 |
-| To Protect and Serve | 13.00% | ~110,516 |
-| Master Crafter | 13.00% | ~110,516 |
-| I Am The Law | 13.00% | ~110,516 |
-| Judy vs Night City | 13.00% | ~110,516 |
-| Two Heads, One Bullet | 11.00% | ~93,514 |
-| The Wandering Fool | 9.00% | ~76,511 |
-| The Quick and the Dead | 9.00% | ~76,511 |
-| Ten out of Ten | 8.00% | ~68,010 |
-| Breathtaking | 7.00% | ~59,509 |
-| To Bad Decisions! | 6.00% | ~51,008 |
-| The Star | 6.00% | ~51,008 |
-| The Sun | 6.00% | ~51,008 |
-| Must Be Rats | 4.00% | ~34,005 |
-| Temperance | 4.00% | ~34,005 |
-| City Lights | 3.00% | ~25,504 |
-| Mean Streets | 3.00% | ~25,504 |
-| Little Tokyo | 3.00% | ~25,504 |
-| Greetings from Pacifica! | 3.00% | ~25,504 |
-| The Jungle | 3.00% | ~25,504 |
-| V for Vendetta | 3.00% | ~25,504 |
-| It's Elementary | 3.00% | ~25,504 |
-| Autojock | 2.00% | ~17,002 |
-| Frequent Flyer | 2.00% | ~17,002 |
-| The Wasteland | 2.00% | ~17,002 |
-| Daemon In The Shell | 2.00% | ~17,002 |
-| The Devil | 2.00% | ~17,002 |
-| Gunslinger | 1.00% | ~8,501 |
-| Rough Landing | 0.40% | ~3,400 |
+| The Fool | 68.00% | ~578,103 |
+| Right Back At Ya | 38.00% | ~323,058 |
+| The Lovers | 33.00% | ~280,550 |
+| Stanislavski's Method | 27.00% | ~229,541 |
+| The Wheel of Fortune | 26.00% | ~221,040 |
+| The Hermit | 23.00% | ~195,535 |
+| Christmas Tree Attack | 22.00% | ~187,033 |
+| True Soldier | 22.00% | ~187,033 |
+| Legend of The Afterlife | 21.00% | ~178,532 |
+| The High Priestess | 20.00% | ~170,030 |
+| Life of the Road | 19.00% | ~161,529 |
+| Full Body Conversion | 17.00% | ~144,526 |
+| The World | 16.00% | ~136,024 |
+| Bushido and Chill | 15.00% | ~127,523 |
+| Gun Fu | 14.00% | ~119,021 |
+| True Warrior | 14.00% | ~119,021 |
+| To Protect and Serve | 13.00% | ~110,520 |
+| Master Crafter | 13.00% | ~110,520 |
+| I Am The Law | 13.00% | ~110,520 |
+| Judy vs Night City | 13.00% | ~110,520 |
+| Two Heads, One Bullet | 11.00% | ~93,517 |
+| The Wandering Fool | 9.00% | ~76,514 |
+| The Quick and the Dead | 9.00% | ~76,514 |
+| Ten out of Ten | 8.00% | ~68,012 |
+| Breathtaking | 7.00% | ~59,511 |
+| To Bad Decisions! | 6.00% | ~51,009 |
+| The Star | 6.00% | ~51,009 |
+| The Sun | 6.00% | ~51,009 |
+| Must Be Rats | 4.00% | ~34,006 |
+| Temperance | 4.00% | ~34,006 |
+| City Lights | 3.00% | ~25,505 |
+| Mean Streets | 3.00% | ~25,505 |
+| Little Tokyo | 3.00% | ~25,505 |
+| Greetings from Pacifica! | 3.00% | ~25,505 |
+| The Jungle | 3.00% | ~25,505 |
+| V for Vendetta | 3.00% | ~25,505 |
+| It's Elementary | 3.00% | ~25,505 |
+| Autojock | 2.00% | ~17,003 |
+| Frequent Flyer | 2.00% | ~17,003 |
+| The Wasteland | 2.00% | ~17,003 |
+| Daemon In The Shell | 2.00% | ~17,003 |
+| The Devil | 2.00% | ~17,003 |
+| Gunslinger | 1.00% | ~8,502 |
+| Rough Landing | 0.40% | ~3,401 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 850,125 (Ranked 12)  
+Progressed: 850,152 (Ranked 12)  
 Completed: 1,763 (0.21%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1,763 (0.21%) (Ranked 146)
 | 2023-06-09 | 845,555 | 1,744 |
 | 2023-06-10 | 847,785 | 1,751 |
 | 2023-06-11 | 849,908 | 1,762 |
-| 2023-06-12 | 850,125 | 1,763 |
+| 2023-06-12 | 850,152 | 1,763 |
 ## Awards
 Max (Character Customization): 67,685  (Ranked 9)  
 Sum: 177,067 (Ranked 13)  

@@ -16,7 +16,7 @@
 | Rock It | 25.00% | ~19 |
 | Friends Will Be Friends | 11.00% | ~8 |
 | Killer Queen | 8.00% | ~6 |
-| Machines | 5.00% | ~4 |
+| Machines | 7.00% | ~5 |
 | Put Out the Fire | 5.00% | ~4 |
 | Cool Cat | 3.00% | ~2 |
 | Good Company | 1.00% | ~1 |
