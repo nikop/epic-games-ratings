@@ -4,8 +4,8 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -486,9 +486,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achi_35",
@@ -534,9 +534,9 @@
       "ID": "Achi_40",
       "SetID": "51a97k7",
       "Name": "Toe to Toe",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_41",
@@ -631,8 +631,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-06-12T04:06:49.1479768+00:00",
+  "LastChanged_Achievements": "2023-06-12T05:07:03.3282386+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:24.0987529+00:00",
-  "LastUpdate_Ratings": "2023-06-12T04:00:25.9529246+00:00",
-  "LastUpdate_Achievements": "2023-06-12T04:06:49.1480191+00:00"
+  "LastUpdate_Ratings": "2023-06-12T05:00:37.4294365+00:00",
+  "LastUpdate_Achievements": "2023-06-12T05:07:03.3282921+00:00"
 }

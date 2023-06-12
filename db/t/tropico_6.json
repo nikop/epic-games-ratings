@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -912,9 +912,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3576,
+  "EOS_Progressed": 3577,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4222,6 +4222,11 @@
       "Time": "2023-06-12T04:01:24.5282797+00:00",
       "NumProgressed": 3576,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T05:01:30.958134+00:00",
+      "NumProgressed": 3577,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4247,9 +4252,9 @@
       "ID": "ACH_DOUBLEESCALATION",
       "SetID": "1p8ab95",
       "Name": "Double Trouble",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -4393,7 +4398,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2718
+      "UsersEstimate": 2719
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -4417,7 +4422,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -4489,7 +4494,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -4552,15 +4557,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3576,
+      "Progressed": 3577,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-11T10:59:33.5222387+00:00",
-  "LastChanged_Achievements": "2023-06-12T04:01:24.5282791+00:00",
+  "LastChanged_Achievements": "2023-06-12T05:01:30.9581332+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-12T04:00:42.8576639+00:00",
-  "LastUpdate_Achievements": "2023-06-12T04:01:24.528334+00:00"
+  "LastUpdate_Ratings": "2023-06-12T05:00:52.159302+00:00",
+  "LastUpdate_Achievements": "2023-06-12T05:01:30.9582264+00:00"
 }

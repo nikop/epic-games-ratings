@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 25323,
+  "EOS_Progressed": 25329,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1235,
+  "EOS_NewPlayers": 1238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5686,6 +5686,11 @@
       "Time": "2023-06-12T04:06:33.361276+00:00",
       "NumProgressed": 25323,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-12T05:06:48.4816274+00:00",
+      "NumProgressed": 25329,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 29,
@@ -5697,7 +5702,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -5705,7 +5710,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5065
+      "UsersEstimate": 5066
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -5737,7 +5742,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -5809,7 +5814,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -5849,7 +5854,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -5857,7 +5862,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -5928,7 +5933,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 25323,
+      "Progressed": 25329,
       "Completed": 19
     }
   ],
@@ -5936,8 +5941,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-12T04:06:33.3612756+00:00",
+  "LastChanged_Achievements": "2023-06-12T05:06:48.4816266+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:28.781655+00:00",
-  "LastUpdate_Ratings": "2023-06-12T04:00:30.4131639+00:00",
-  "LastUpdate_Achievements": "2023-06-12T04:06:33.3613268+00:00"
+  "LastUpdate_Ratings": "2023-06-12T05:00:41.2872866+00:00",
+  "LastUpdate_Achievements": "2023-06-12T05:06:48.4816904+00:00"
 }

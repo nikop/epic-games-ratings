@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Deal with Shock | 57.00% | ~25 |
-| Skinner | 52.00% | ~23 |
-| Deal with Anger | 30.00% | ~13 |
+| Deal with Shock | 56.00% | ~25 |
+| Skinner | 51.00% | ~23 |
+| Deal with Anger | 29.00% | ~13 |
 | Robolimb Ripper | 18.00% | ~8 |
 | Deal with Depression | 18.00% | ~8 |
 | Total Shock | 11.00% | ~5 |
 | No Shock Race | 7.00% | ~3 |
 | Deal with Acceptance | 7.00% | ~3 |
 | Zero to Hero | 7.00% | ~3 |
-| Bronze Tunnel Collector | 5.00% | ~2 |
-| Max Health | 5.00% | ~2 |
-| Total Anger | 5.00% | ~2 |
-| No Anger Race | 5.00% | ~2 |
-| No Depression Race | 5.00% | ~2 |
-| Boss Rusher | 5.00% | ~2 |
-| Flawless Boss Rusher | 5.00% | ~2 |
+| Bronze Tunnel Collector | 4.00% | ~2 |
+| Max Health | 4.00% | ~2 |
+| Total Anger | 4.00% | ~2 |
+| No Anger Race | 4.00% | ~2 |
+| No Depression Race | 4.00% | ~2 |
+| Boss Rusher | 4.00% | ~2 |
+| Flawless Boss Rusher | 4.00% | ~2 |
 | Silver Tunnel Collector | 2.00% | ~1 |
 | Golden Tunnel Collector | 2.00% | ~1 |
 | Platinum Tunnel Collector | 2.00% | ~1 |
@@ -40,7 +40,7 @@
 | Catastrophe | 0.00% | ~0 |
 | Flawless Tunnel Runner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 315)  
+Progressed: 45 (Ranked 313)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,6 +61,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-02 | 41 | 0 |
 | 2023-06-03 | 42 | 0 |
 | 2023-06-09 | 44 | 0 |
+| 2023-06-12 | 45 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

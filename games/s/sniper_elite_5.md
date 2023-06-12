@@ -30,10 +30,10 @@ Rating: 4.51 (Ranked 529)
 | Close Quarters | 6.00% | ~161 |
 | Snake in the Grass | 6.00% | ~161 |
 | Brains of the Operation | 6.00% | ~161 |
-| Climbing the Ladder | 5.00% | ~134 |
-| No Stone Unturned | 5.00% | ~134 |
-| Skirmisher | 5.00% | ~134 |
-| Set Europe Ablaze | 5.00% | ~134 |
+| Climbing the Ladder | 5.00% | ~135 |
+| No Stone Unturned | 5.00% | ~135 |
+| Skirmisher | 5.00% | ~135 |
+| Set Europe Ablaze | 5.00% | ~135 |
 | Precision Is Key | 4.00% | ~108 |
 | Rigged to Blow | 3.00% | ~81 |
 | My Little Friend | 3.00% | ~81 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 529)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,690 (Ranked 145)  
+Progressed: 2,691 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.07%) (Ranked 178)
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
-| 2023-06-12 | 2,690 | 2 |
+| 2023-06-12 | 2,691 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

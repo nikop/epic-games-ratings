@@ -6,25 +6,25 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~76,236 |
-| No Escape | 86.00% | ~67,591 |
-| Seeker of Power | 85.00% | ~66,805 |
-| Hopes and Dreams | 82.00% | ~64,447 |
-| Lantern Smasher | 78.00% | ~61,303 |
+| Manifestation of the Soul | 97.00% | ~76,237 |
+| No Escape | 86.00% | ~67,592 |
+| Seeker of Power | 85.00% | ~66,806 |
+| Hopes and Dreams | 82.00% | ~64,448 |
+| Lantern Smasher | 78.00% | ~61,304 |
 | The Pirate's Way | 73.00% | ~57,374 |
 | Dark Crystal, Warrior's Heart | 71.00% | ~55,802 |
-| The King of the Dark Elves | 68.00% | ~53,444 |
-| Memories of the Distant Past | 66.00% | ~51,872 |
-| Distortion's Progeny | 63.00% | ~49,514 |
-| Savant | 62.00% | ~48,728 |
+| The King of the Dark Elves | 68.00% | ~53,445 |
+| Memories of the Distant Past | 66.00% | ~51,873 |
+| Distortion's Progeny | 63.00% | ~49,515 |
+| Savant | 62.00% | ~48,729 |
 | A Landscape of Memory | 58.00% | ~45,585 |
 | The Wind's Light | 54.00% | ~42,441 |
-| Vague Remembrances | 49.00% | ~38,511 |
-| The Fire's Light | 47.00% | ~36,939 |
-| Phantom Memories | 46.00% | ~36,153 |
-| Imbued Memories | 46.00% | ~36,153 |
-| The Earth's Light | 45.00% | ~35,367 |
-| Shared Recollections | 42.00% | ~33,009 |
+| Vague Remembrances | 49.00% | ~38,512 |
+| The Fire's Light | 47.00% | ~36,940 |
+| Phantom Memories | 46.00% | ~36,154 |
+| Imbued Memories | 46.00% | ~36,154 |
+| The Earth's Light | 45.00% | ~35,368 |
+| Shared Recollections | 42.00% | ~33,010 |
 | The Water's Light | 40.00% | ~31,438 |
 | Path of the Sage | 40.00% | ~31,438 |
 | Malice Takes Root | 37.00% | ~29,080 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,358 |
 | A Tale of Origins and Endings | 2.00% | ~1,572 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,594 (Ranked 65)  
+Progressed: 78,595 (Ranked 65)  
 Completed: 2,138 (2.72%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 2,138 (2.72%) (Ranked 56)
 | 2023-06-09 | 78,548 | 2,136 |
 | 2023-06-10 | 78,566 | 2,137 |
 | 2023-06-11 | 78,590 | 2,138 |
-| 2023-06-12 | 78,594 | 2,138 |
+| 2023-06-12 | 78,595 | 2,138 |
 ## Awards
 Max (Great Boss Battles): 754  (Ranked 152)  
 Sum: 1,555 (Ranked 206)  

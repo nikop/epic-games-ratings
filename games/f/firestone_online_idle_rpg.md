@@ -55,12 +55,12 @@ Rating: 4.05 (Ranked 890)
 | Dragon Slayer | 3.00% | ~41 |
 | Engineer Mastery | 3.00% | ~41 |
 | Lock And Load | 3.00% | ~41 |
+| Ebony Jungle Liberator | 2.00% | ~28 |
 | Sailor | 2.00% | ~28 |
 | The Alchemist | 2.00% | ~28 |
 | What lies behind the bush | 2.00% | ~28 |
 | Active Member | 1.00% | ~14 |
 | Arena Challenger | 1.00% | ~14 |
-| Ebony Jungle Liberator | 1.00% | ~14 |
 | Legendary | 1.00% | ~14 |
 | Training makes a Pro player | 0.70% | ~10 |
 | Transmute | 0.60% | ~8 |

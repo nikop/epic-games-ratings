@@ -5,10 +5,10 @@
   "Ranking_Rating": 854,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
-  "Ranking_EOS_Progress": 207,
+  "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 433,
+  "EOS_Progressed": 434,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -294,6 +294,11 @@
       "Time": "2023-06-11T14:06:02.665153+00:00",
       "NumProgressed": 433,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T05:07:02.2340059+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -361,7 +366,7 @@
       "Name": "Built in a Day",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -369,7 +374,7 @@
       "Name": "Path of Learning",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -407,9 +412,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "631ndc2",
       "Name": "More Brain Than Brawn",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -704,7 +709,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 433,
+      "Progressed": 434,
       "Completed": 1
     }
   ],
@@ -712,8 +717,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-12T04:06:48.0637507+00:00",
+  "LastChanged_Achievements": "2023-06-12T05:07:02.2340051+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:15.7148549+00:00",
-  "LastUpdate_Ratings": "2023-06-12T03:59:13.280178+00:00",
-  "LastUpdate_Achievements": "2023-06-12T04:06:48.0637952+00:00"
+  "LastUpdate_Ratings": "2023-06-12T04:59:31.3746197+00:00",
+  "LastUpdate_Achievements": "2023-06-12T05:07:02.234085+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 163
     }
   ],
-  "EOS_Progressed": 10293,
+  "EOS_Progressed": 10295,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 733,
+  "EOS_NewPlayers": 730,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4452,6 +4452,11 @@
       "Time": "2023-06-12T04:06:48.6522797+00:00",
       "NumProgressed": 10293,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-12T05:07:02.8356581+00:00",
+      "NumProgressed": 10295,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -4463,7 +4468,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8234
+      "UsersEstimate": 8236
     },
     {
       "ID": "ACH02",
@@ -4519,7 +4524,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5044
+      "UsersEstimate": 5045
     },
     {
       "ID": "ACH09",
@@ -4567,7 +4572,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "ACH15",
@@ -4639,7 +4644,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "ACH24",
@@ -4742,7 +4747,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10293,
+      "Progressed": 10295,
       "Completed": 17
     }
   ],
@@ -4750,8 +4755,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-11T14:59:43.8934917+00:00",
-  "LastChanged_Achievements": "2023-06-12T04:06:48.6522794+00:00",
+  "LastChanged_Achievements": "2023-06-12T05:07:02.8356573+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-12T04:00:50.4496097+00:00",
-  "LastUpdate_Achievements": "2023-06-12T04:06:48.6523283+00:00"
+  "LastUpdate_Ratings": "2023-06-12T05:00:59.0253512+00:00",
+  "LastUpdate_Achievements": "2023-06-12T05:07:02.8357462+00:00"
 }

@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~38,767 |
-| INFUSED WITH LIGHT | 52.00% | ~30,088 |
-| FOXIN' AROUND | 28.00% | ~16,201 |
-| FETCH | 27.00% | ~15,622 |
-| BLOOMS OF LIGHT | 26.00% | ~15,044 |
-| BEST FRIENDS | 22.00% | ~12,729 |
-| AWAKEN | 21.00% | ~12,151 |
-| ERADICATE | 20.00% | ~11,572 |
-| SPIRIT BARK | 20.00% | ~11,572 |
-| GARDEN OF LIGHT | 18.00% | ~10,415 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~38,770 |
+| INFUSED WITH LIGHT | 52.00% | ~30,090 |
+| FOXIN' AROUND | 28.00% | ~16,202 |
+| FETCH | 27.00% | ~15,624 |
+| BLOOMS OF LIGHT | 26.00% | ~15,045 |
+| BEST FRIENDS | 22.00% | ~12,730 |
+| AWAKEN | 21.00% | ~12,152 |
+| ERADICATE | 20.00% | ~11,573 |
+| SPIRIT BARK | 20.00% | ~11,573 |
+| GARDEN OF LIGHT | 18.00% | ~10,416 |
 | SPIRIT FORM | 16.00% | ~9,258 |
-| UPROOTING DARKNESS | 15.00% | ~8,679 |
-| WRITTEN IN STONE | 15.00% | ~8,679 |
+| UPROOTING DARKNESS | 15.00% | ~8,680 |
+| WRITTEN IN STONE | 15.00% | ~8,680 |
 | WEIGHTLESS | 11.00% | ~6,365 |
 | SPIRIT DASH | 10.00% | ~5,786 |
 | OLD COMPANION | 8.00% | ~4,629 |
 | PLAGUE DOCTOR | 8.00% | ~4,629 |
 | SPIRITED AWAY | 8.00% | ~4,629 |
-| MATCH MAKER | 7.00% | ~4,050 |
-| NORTHERN LIGHTS | 7.00% | ~4,050 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,314 |
+| MATCH MAKER | 7.00% | ~4,051 |
+| NORTHERN LIGHTS | 7.00% | ~4,051 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,315 |
 | ANCIENT HISTORY | 3.00% | ~1,736 |
 | NONE FORGOTTEN | 2.00% | ~1,157 |
 | KINDRED SPIRITS | 0.60% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,861 (Ranked 75)  
+Progressed: 57,865 (Ranked 75)  
 Completed: 290 (0.50%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 290 (0.50%) (Ranked 114)
 | 2023-06-09 | 57,528 | 289 |
 | 2023-06-10 | 57,693 | 289 |
 | 2023-06-11 | 57,842 | 290 |
-| 2023-06-12 | 57,861 | 290 |
+| 2023-06-12 | 57,865 | 290 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 467)  
 Sum: 93 (Ranked 406)  

@@ -33,12 +33,12 @@
 | The Family Fortune | 5.00% | ~33 |
 | Chaincrawler Explorer | 4.00% | ~27 |
 | Family Memories | 4.00% | ~27 |
+| Whiz Kid | 4.00% | ~27 |
 | Ask Questions Later | 4.00% | ~27 |
 | Sartorialist | 3.00% | ~20 |
 | Entresol Explorer | 3.00% | ~20 |
 | Factorywood Explorer | 3.00% | ~20 |
 | Fairgrounds Explorer | 3.00% | ~20 |
-| Whiz Kid | 3.00% | ~20 |
 | Sump Explorer | 3.00% | ~20 |
 | Syron for Hope | 3.00% | ~20 |
 | Theater Explorer | 3.00% | ~20 |

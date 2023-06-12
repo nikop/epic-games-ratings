@@ -42,8 +42,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.40% | ~362 |
 | Tall Tales | 0.30% | ~170 |
 | Third Third Out | 0.30% | ~170 |
-| The Silken Swamp | 0.30% | ~271 |
-| Supply Run | 0.30% | ~271 |
+| The Silken Swamp | 0.30% | ~272 |
+| Supply Run | 0.30% | ~272 |
 | Keep Your Distance | 0.30% | ~170 |
 | Hands Off! | 0.30% | ~170 |
 | The Dread Domain of Tovag | 0.30% | ~170 |
@@ -54,36 +54,36 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.30% | ~170 |
 | Pin and Skewer | 0.30% | ~170 |
 | Bully for Vecna | 0.30% | ~170 |
-| Homecoming | 0.30% | ~271 |
-| The Lost Heir of Omu | 0.30% | ~271 |
+| Homecoming | 0.30% | ~272 |
+| The Lost Heir of Omu | 0.30% | ~272 |
 | No One Can Hear You Scream | 0.30% | ~170 |
 | Welcome to the Rock | 0.30% | ~170 |
-| The Forbidden City | 0.30% | ~271 |
-| Captured! | 0.30% | ~271 |
-| Street War | 0.30% | ~271 |
-| March of the Undead | 0.30% | ~271 |
-| No Time To Rest | 0.30% | ~271 |
-| Invisible Shadows | 0.30% | ~271 |
-| The Dinner Party | 0.30% | ~271 |
-| The Botched Kidnapping | 0.30% | ~271 |
-| Trollskull Manor | 0.30% | ~271 |
-| Attack on the Manor | 0.30% | ~271 |
-| The Death Curse | 0.30% | ~271 |
-| Premature Betrayal | 0.30% | ~271 |
-| A Tale of Two Cities | 0.30% | ~271 |
-| The Dead Three | 0.30% | ~271 |
-| Flying Monkey Skulls of Doom | 0.30% | ~271 |
+| The Forbidden City | 0.30% | ~272 |
+| Captured! | 0.30% | ~272 |
+| Street War | 0.30% | ~272 |
+| March of the Undead | 0.30% | ~272 |
+| No Time To Rest | 0.30% | ~272 |
+| Invisible Shadows | 0.30% | ~272 |
+| The Dinner Party | 0.30% | ~272 |
+| The Botched Kidnapping | 0.30% | ~272 |
+| Trollskull Manor | 0.30% | ~272 |
+| Attack on the Manor | 0.30% | ~272 |
+| The Death Curse | 0.30% | ~272 |
+| Premature Betrayal | 0.30% | ~272 |
+| A Tale of Two Cities | 0.30% | ~272 |
+| The Dead Three | 0.30% | ~272 |
+| Flying Monkey Skulls of Doom | 0.30% | ~272 |
 | Hearts Aflame | 0.30% | ~170 |
 | Look Out! | 0.30% | ~170 |
 | Bad Odds in Avernus | 0.30% | ~170 |
 | An Even Worse Time in Avernus | 0.30% | ~170 |
-| Constant Banditry | 0.30% | ~271 |
-| Underdeep Cartography | 0.30% | ~271 |
-| Overdue Rendezvous | 0.30% | ~271 |
+| Constant Banditry | 0.30% | ~272 |
+| Underdeep Cartography | 0.30% | ~272 |
+| Overdue Rendezvous | 0.30% | ~272 |
 | Witty Riposting | 0.30% | ~170 |
 | How Far Away is Thay | 0.30% | ~170 |
-| The Templar's Camp | 0.30% | ~271 |
-| Rescue in the Jungle | 0.30% | ~271 |
+| The Templar's Camp | 0.30% | ~272 |
+| Rescue in the Jungle | 0.30% | ~272 |
 | Pros and CONs | 0.20% | ~181 |
 | Upholding the Law | 0.20% | ~181 |
 | Starving in the Jungle | 0.20% | ~181 |
@@ -300,6 +300,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 2 | 0.20% | ~114 |
 | Reghed Glacier Mysteries | 0.20% | ~114 |
 | Tekeli-li's Hunt | 0.20% | ~114 |
+| Neutral No More | 0.20% | ~114 |
 | The Rite of the Arcane Octad | 0.20% | ~114 |
 | An Icewind Dale Reunion | 0.20% | ~114 |
 | The Netherese Necropolis | 0.20% | ~114 |
@@ -490,7 +491,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Male Pattern Boldness | 0.10% | ~57 |
 | Cackling Horror | 0.10% | ~57 |
 | Working for the Weak End | 0.10% | ~57 |
-| Neutral No More | 0.10% | ~57 |
 | Fungal Excitation | 0.10% | ~57 |
 | Crimson Perception | 0.10% | ~57 |
 | Encroaching Madness | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,498 (Ranked 64)  
+Progressed: 90,500 (Ranked 64)  
 Completed: 1,929 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 1,929 (2.13%) (Ranked 65)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
-| 2023-06-12 | 90,498 | 1,929 |
+| 2023-06-12 | 90,500 | 1,929 |
 ## Awards
 Max (Diverse Characters): 4,934  (Ranked 64)  
 Sum: 30,083 (Ranked 37)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -3168,9 +3168,9 @@
       "ID": "ebonyjungleliberator",
       "SetID": "3nl4bcg",
       "Name": "Ebony Jungle Liberator",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "enchantingskill",
@@ -3649,8 +3649,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-12T04:06:45.2260867+00:00",
+  "LastChanged_Achievements": "2023-06-12T05:06:59.5612692+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-12T03:58:11.6286814+00:00",
-  "LastUpdate_Achievements": "2023-06-12T04:06:45.2261816+00:00"
+  "LastUpdate_Ratings": "2023-06-12T04:58:34.3164556+00:00",
+  "LastUpdate_Achievements": "2023-06-12T05:06:59.5614349+00:00"
 }

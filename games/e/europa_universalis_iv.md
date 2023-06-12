@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,871 |
+| Until death do us apart | 9.00% | ~4,872 |
 | That's a Grand Army | 8.00% | ~4,330 |
 | That is mine! | 8.00% | ~4,330 |
 | Victorious! | 8.00% | ~4,330 |
-| Brothers in Arms | 6.00% | ~3,247 |
-| That's a Grand Navy | 6.00% | ~3,247 |
-| Seriously?! | 6.00% | ~3,247 |
+| Brothers in Arms | 6.00% | ~3,248 |
+| That's a Grand Navy | 6.00% | ~3,248 |
+| Seriously?! | 6.00% | ~3,248 |
 | For the Glory | 5.00% | ~2,706 |
 | Cold War | 4.00% | ~2,165 |
 | True Catholic | 4.00% | ~2,165 |
@@ -20,17 +20,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about the money | 3.00% | ~1,624 |
 | Respected | 3.00% | ~1,624 |
 | Truly Divine Ruler | 3.00% | ~1,624 |
-| Agressive Expander | 2.00% | ~1,082 |
-| Blockader | 2.00% | ~1,082 |
-| Combined Arms | 2.00% | ~1,082 |
-| Double the Love | 2.00% | ~1,082 |
-| Gentle Persuasion | 2.00% | ~1,082 |
-| It's all about luck | 2.00% | ~1,082 |
-| My armies are invincible! | 2.00% | ~1,082 |
-| Queen of Conquest | 2.00% | ~1,082 |
-| Royal Authority | 2.00% | ~1,082 |
-| The Princess is in this Castle | 2.00% | ~1,082 |
-| Total Control | 2.00% | ~1,082 |
+| Agressive Expander | 2.00% | ~1,083 |
+| Blockader | 2.00% | ~1,083 |
+| Combined Arms | 2.00% | ~1,083 |
+| Double the Love | 2.00% | ~1,083 |
+| Gentle Persuasion | 2.00% | ~1,083 |
+| It's all about luck | 2.00% | ~1,083 |
+| My armies are invincible! | 2.00% | ~1,083 |
+| Queen of Conquest | 2.00% | ~1,083 |
+| Royal Authority | 2.00% | ~1,083 |
+| The Princess is in this Castle | 2.00% | ~1,083 |
+| Total Control | 2.00% | ~1,083 |
 | All That's Thine Shall Be Mine | 1.00% | ~541 |
 | Azur semé de lis or | 1.00% | ~541 |
 | Bright Spark | 1.00% | ~541 |
@@ -56,19 +56,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.50% | ~271 |
 | Trophy Hunter | 0.50% | ~271 |
 | Voting Streak | 0.50% | ~271 |
-| Absolutely | 0.40% | ~216 |
-| All Your Trade Are Belong to Us | 0.40% | ~216 |
-| Bleed Them Dry | 0.40% | ~216 |
-| Dude, Where's my Boat? | 0.40% | ~216 |
-| Four For Trade | 0.40% | ~216 |
-| Global Hegemony | 0.40% | ~216 |
-| Grand Coalition | 0.40% | ~216 |
-| In the Name of the Father | 0.40% | ~216 |
-| Just a Little Patience | 0.40% | ~216 |
-| Live Long and Prosper | 0.40% | ~216 |
-| One Night in Paris | 0.40% | ~216 |
-| Tear Down This Wall | 0.40% | ~216 |
-| The Continuation of Diplomacy | 0.40% | ~216 |
+| Absolutely | 0.40% | ~217 |
+| All Your Trade Are Belong to Us | 0.40% | ~217 |
+| Bleed Them Dry | 0.40% | ~217 |
+| Dude, Where's my Boat? | 0.40% | ~217 |
+| Four For Trade | 0.40% | ~217 |
+| Global Hegemony | 0.40% | ~217 |
+| Grand Coalition | 0.40% | ~217 |
+| In the Name of the Father | 0.40% | ~217 |
+| Just a Little Patience | 0.40% | ~217 |
+| Live Long and Prosper | 0.40% | ~217 |
+| One Night in Paris | 0.40% | ~217 |
+| Tear Down This Wall | 0.40% | ~217 |
+| The Continuation of Diplomacy | 0.40% | ~217 |
 | A Decent Reserve | 0.30% | ~162 |
 | A Pile of Gold | 0.30% | ~162 |
 | Grand Duchy | 0.30% | ~162 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,121 (Ranked 78)  
+Progressed: 54,130 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,14 +414,14 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 52,837 | 0 |
 | 2023-06-10 | 53,460 | 0 |
 | 2023-06-11 | 54,074 | 0 |
-| 2023-06-12 | 54,121 | 0 |
+| 2023-06-12 | 54,130 | 0 |
 ## Awards
-Max (Educational): 5,376  (Ranked 61)  
-Sum: 44,434 (Ranked 27)  
+Max (Educational): 5,381  (Ranked 61)  
+Sum: 44,439 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,376 |
+| This game is Educational | 5,381 |
 | This game is Highly Recommended | 5,158 |
 | This game has Challenging Combat | 5,120 |
 | This game is Extremely Fun | 5,090 |
@@ -580,3 +580,4 @@ Diff (max vs sum): 34
 | 2023-06-09 | 4.68 | - | 5,371 | 44,348 |
 | 2023-06-10 | 4.68 | - | 5,376 | 44,395 |
 | 2023-06-11 | 4.68 | - | 5,376 | 44,434 |
+| 2023-06-12 | 4.68 | - | 5,381 | 44,439 |

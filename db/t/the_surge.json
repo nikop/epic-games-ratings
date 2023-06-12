@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -325,9 +325,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4402,
+  "EOS_Progressed": 4404,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1245,6 +1245,11 @@
       "Time": "2023-06-12T02:23:15.2043667+00:00",
       "NumProgressed": 4402,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-12T05:03:39.4322416+00:00",
+      "NumProgressed": 4404,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -1264,7 +1269,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -1272,7 +1277,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -1304,7 +1309,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1312,7 +1317,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4140
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1320,7 +1325,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3390
+      "UsersEstimate": 3391
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1344,7 +1349,7 @@
       "Name": "Gear Up",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -1472,7 +1477,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1504,7 +1509,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1528,7 +1533,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -1544,7 +1549,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -1576,7 +1581,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -1592,7 +1597,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -1608,7 +1613,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -1791,15 +1796,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4402,
+      "Progressed": 4404,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-12T04:03:08.1765392+00:00",
+  "LastChanged_Achievements": "2023-06-12T05:03:39.4322407+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:11.7913925+00:00",
-  "LastUpdate_Ratings": "2023-06-12T03:58:09.3458411+00:00",
-  "LastUpdate_Achievements": "2023-06-12T04:03:08.1766164+00:00"
+  "LastUpdate_Ratings": "2023-06-12T04:58:32.1188879+00:00",
+  "LastUpdate_Achievements": "2023-06-12T05:03:39.4323633+00:00"
 }

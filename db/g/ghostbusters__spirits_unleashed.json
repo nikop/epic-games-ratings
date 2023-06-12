@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1132,10 +1132,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2113,
       "NumberOfAwardsMax": 236
+    },
+    {
+      "Time": "2023-06-12T04:59:31.9169773+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2114,
+      "NumberOfAwardsMax": 236
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2113,
+  "NumberOfAwards": 2114,
   "NumberOfAwardsMax": 236,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1197,7 +1203,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 204
+      "Count": 205
     },
     {
       "Text": "This game has Competitive Players",
@@ -1212,9 +1218,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22982,
+  "EOS_Progressed": 22983,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5222,6 +5228,11 @@
       "Time": "2023-06-12T04:06:47.7576118+00:00",
       "NumProgressed": 22982,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-12T05:07:02.0049668+00:00",
+      "NumProgressed": 22983,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -5233,7 +5244,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16777
+      "UsersEstimate": 16778
     },
     {
       "ID": "Animated",
@@ -5345,7 +5356,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14708
+      "UsersEstimate": 14709
     },
     {
       "ID": "Escape_Artist",
@@ -5369,7 +5380,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12640
+      "UsersEstimate": 12641
     },
     {
       "ID": "GB_In_Training",
@@ -5377,7 +5388,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "Ghost_Expert",
@@ -5449,7 +5460,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5975
+      "UsersEstimate": 5976
     },
     {
       "ID": "Reckless",
@@ -5465,7 +5476,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4596
+      "UsersEstimate": 4597
     },
     {
       "ID": "Rift_Seeker",
@@ -5521,7 +5532,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "Stunner",
@@ -5529,7 +5540,7 @@
       "Name": "Stunner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5975
+      "UsersEstimate": 5976
     },
     {
       "ID": "Stylish",
@@ -5561,7 +5572,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 12640
+      "UsersEstimate": 12641
     },
     {
       "ID": "Teamwork",
@@ -5569,7 +5580,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10112
+      "UsersEstimate": 10113
     },
     {
       "ID": "Terrifying",
@@ -5593,7 +5604,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 9882
+      "UsersEstimate": 9883
     },
     {
       "ID": "Tobins_Prodigy",
@@ -5617,7 +5628,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 11261
+      "UsersEstimate": 11262
     },
     {
       "ID": "Welcome_Crew",
@@ -5625,7 +5636,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "Whoopsie",
@@ -5640,16 +5651,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22982,
+      "Progressed": 22983,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-06-12T03:15:05.4949416+00:00",
-  "LastChanged_Achievements": "2023-06-12T04:06:47.7576114+00:00",
+  "LastChanged": "2023-06-12T04:59:31.9169771+00:00",
+  "LastChanged_Achievements": "2023-06-12T05:07:02.004966+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:16.8585642+00:00",
-  "LastUpdate_Ratings": "2023-06-12T03:59:14.0116594+00:00",
-  "LastUpdate_Achievements": "2023-06-12T04:06:47.7576688+00:00"
+  "LastUpdate_Ratings": "2023-06-12T04:59:31.9169779+00:00",
+  "LastUpdate_Achievements": "2023-06-12T05:07:02.0051901+00:00"
 }

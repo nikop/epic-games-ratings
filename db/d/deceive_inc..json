@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -156,7 +156,7 @@
   "Tags": [],
   "EOS_Progressed": 6749,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4241,9 +4241,9 @@
       "ID": "0012",
       "SetID": "2n2feee",
       "Name": "You Only Live Twice",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2227
     },
     {
       "ID": "0013",
@@ -4450,8 +4450,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-10T20:59:27.172859+00:00",
-  "LastChanged_Achievements": "2023-06-12T04:06:43.1620961+00:00",
+  "LastChanged_Achievements": "2023-06-12T05:06:57.6235567+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:06.9075214+00:00",
-  "LastUpdate_Ratings": "2023-06-12T04:00:06.8948035+00:00",
-  "LastUpdate_Achievements": "2023-06-12T04:06:43.1621442+00:00"
+  "LastUpdate_Ratings": "2023-06-12T05:00:19.9647142+00:00",
+  "LastUpdate_Achievements": "2023-06-12T05:06:57.6236247+00:00"
 }

@@ -17,8 +17,8 @@ Rating: 4.22 (Ranked 814)
 | Mind the Gap | 62.00% | ~701 |
 | All around the World | 60.00% | ~678 |
 | Right through the middle | 55.00% | ~622 |
+| Poor Devil | 52.00% | ~588 |
 | Facility Manager | 51.00% | ~576 |
-| Poor Devil | 51.00% | ~576 |
 | Producer | 47.00% | ~531 |
 | Apprentice | 41.00% | ~463 |
 | Bridge Builder | 38.00% | ~429 |
@@ -44,8 +44,8 @@ Rating: 4.22 (Ranked 814)
 | Networker | 14.00% | ~158 |
 | Resistance is futile | 13.00% | ~147 |
 | Settler | 10.00% | ~113 |
+| Go West | 9.00% | ~102 |
 | Max Power | 9.00% | ~102 |
-| Go West | 8.00% | ~90 |
 | Bold and beautiful | 8.00% | ~90 |
 | Tycoon | 6.00% | ~68 |
 | A new Hope | 5.00% | ~56 |
