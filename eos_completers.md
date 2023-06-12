@@ -11,15 +11,15 @@
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
-| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
-| 13 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 11.11% |
-| 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.45% |
+| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.94% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
+| 14 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 11.11% |
+| 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.38% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.20% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.19% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.77% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 22 | [Remains](games/r/remains.md) | 7.69% |
@@ -37,7 +37,7 @@
 | 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.93% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
-| 38 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.82% |
+| 38 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.79% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
@@ -118,7 +118,7 @@
 | 116 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
 | 117 | [Tails of Iron](games/t/tails_of_iron.md) | 0.48% |
 | 118 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
-| 119 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 119 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 120 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 121 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.37% |
 | 121 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
@@ -151,11 +151,11 @@
 | 146 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 150 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 151 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.17% |
-| 151 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
-| 153 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
-| 153 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 153 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
-| 153 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 152 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
+| 152 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.16% |
+| 152 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 152 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
+| 152 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 157 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.15% |
 | 157 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 157 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
