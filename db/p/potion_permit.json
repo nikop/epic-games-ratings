@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -316,9 +316,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1404,
+  "EOS_Progressed": 1405,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2023-06-12T14:06:47.5551886+00:00",
       "NumProgressed": 1404,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-12T16:05:53.2814335+00:00",
+      "NumProgressed": 1405,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 38,
@@ -1177,7 +1182,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1241,7 +1246,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -1257,7 +1262,7 @@
       "Name": "Expert Chemist",
       "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -1273,7 +1278,7 @@
       "Name": "Line Cook",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -1297,7 +1302,7 @@
       "Name": "Sociable",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -1329,7 +1334,7 @@
       "Name": "Decorative Mind",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -1417,7 +1422,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -1449,7 +1454,7 @@
       "Name": "Production Sorter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENTS_36",
@@ -1480,7 +1485,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1404,
+      "Progressed": 1405,
       "Completed": 7
     }
   ],
@@ -1488,8 +1493,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-11T00:00:50.897612+00:00",
-  "LastChanged_Achievements": "2023-06-12T15:05:47.7207639+00:00",
+  "LastChanged_Achievements": "2023-06-12T16:05:53.2814331+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.6229281+00:00",
-  "LastUpdate_Ratings": "2023-06-12T14:59:56.6321824+00:00",
-  "LastUpdate_Achievements": "2023-06-12T15:05:47.7207926+00:00"
+  "LastUpdate_Ratings": "2023-06-12T16:00:02.9026495+00:00",
+  "LastUpdate_Achievements": "2023-06-12T16:05:53.2814608+00:00"
 }

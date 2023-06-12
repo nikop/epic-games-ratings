@@ -21,7 +21,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Transformation | 3.00% | ~294 |
 | The Legacy | 3.00% | ~294 |
 | Great Upstart | 3.00% | ~294 |
-| Divide and Rule | 3.00% | ~294 |
 | Voice from Your Dreams | 3.00% | ~294 |
 | All Paths Open | 3.00% | ~294 |
 | A Flame | 3.00% | ~294 |
@@ -31,6 +30,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Trickster | 2.00% | ~196 |
 | Path of the Lich | 2.00% | ~196 |
 | Heroic Victory | 2.00% | ~196 |
+| Divide and Rule | 2.00% | ~196 |
 | Mythic Reinforcements | 2.00% | ~196 |
 | Core of the Riddle | 2.00% | ~196 |
 | Your First Big Enemy | 2.00% | ~196 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,800 (Ranked 112)  
+Progressed: 9,802 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 9,691 | 0 |
 | 2023-06-10 | 9,745 | 0 |
 | 2023-06-11 | 9,782 | 0 |
-| 2023-06-12 | 9,800 | 0 |
+| 2023-06-12 | 9,802 | 0 |
 ## Awards
 Max (Character Customization): 1,660  (Ranked 111)  
 Sum: 6,738 (Ranked 109)  

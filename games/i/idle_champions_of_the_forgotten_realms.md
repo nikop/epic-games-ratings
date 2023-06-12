@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 1.00% | ~905 |
 | The Court of Storms | 0.90% | ~511 |
 | The Ring of Regeneration | 0.80% | ~724 |
-| Beware the Jabberwock | 0.80% | ~454 |
+| Beware the Jabberwock | 0.80% | ~455 |
 | Were-verpowered | 0.70% | ~634 |
 | Seeking Allies | 0.70% | ~634 |
 | Are Ya Chicken? | 0.70% | ~634 |
@@ -292,6 +292,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Madness of Yeenoghu | 0.20% | ~114 |
 | Reya Reborn | 0.20% | ~114 |
 | The Radiant Nightmare | 0.20% | ~114 |
+| Quick Thinking | 0.20% | ~114 |
 | Waiting on Sunrise | 0.20% | ~114 |
 | Deekin's Mission | 0.20% | ~114 |
 | Dive Bomb | 0.20% | ~114 |
@@ -470,7 +471,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Every Day | 0.10% | ~57 |
 | Don't Pick at the Scab | 0.10% | ~57 |
 | Going To Eleven | 0.10% | ~57 |
-| Quick Thinking | 0.10% | ~57 |
 | Tough Acting | 0.10% | ~57 |
 | Frontline Fighters | 0.10% | ~57 |
 | A Chilling Encounter | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,533 (Ranked 64)  
+Progressed: 90,540 (Ranked 64)  
 Completed: 1,929 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 1,929 (2.13%) (Ranked 65)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
-| 2023-06-12 | 90,533 | 1,929 |
+| 2023-06-12 | 90,540 | 1,929 |
 ## Awards
 Max (Diverse Characters): 4,934  (Ranked 64)  
 Sum: 30,083 (Ranked 37)  

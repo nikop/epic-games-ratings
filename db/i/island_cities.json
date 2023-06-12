@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,7 +31,7 @@
   "EOS_Progressed": 324,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 55,
-  "EOS_NewCompleters": 11,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 15.43,
   "EosHistory": [
     {
@@ -1481,17 +1481,17 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 175
+      "UsersEstimate": 178
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 152
+      "UsersEstimate": 156
     },
     {
       "ID": "LEVEL_006",
@@ -1642,8 +1642,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-12T15:05:24.5680902+00:00",
+  "LastChanged_Achievements": "2023-06-12T16:05:30.6349018+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:14.620254+00:00",
-  "LastUpdate_Ratings": "2023-06-12T14:57:49.5171816+00:00",
-  "LastUpdate_Achievements": "2023-06-12T15:05:24.5681091+00:00"
+  "LastUpdate_Ratings": "2023-06-12T15:57:54.4540459+00:00",
+  "LastUpdate_Achievements": "2023-06-12T16:05:30.6349215+00:00"
 }

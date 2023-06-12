@@ -1,30 +1,30 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 276)  
+Rating: 4.66 (Ranked 277)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,646 |
-| Thorough | 9.00% | ~15,881 |
-| A thief's beginning | 8.00% | ~14,116 |
-| Disguised | 7.00% | ~12,352 |
-| Rollin' | 7.00% | ~12,352 |
-| Tanuki Time | 7.00% | ~12,352 |
-| Jonin | 6.00% | ~10,587 |
-| Rescue Takuma | 6.00% | ~10,587 |
-| Stoned Ox | 6.00% | ~10,587 |
-| Chunin | 5.00% | ~8,823 |
-| Flying Rocks | 5.00% | ~8,823 |
-| Happy Planning | 5.00% | ~8,823 |
-| Ice Ice Yuki | 5.00% | ~8,823 |
-| Mugen Unchained | 5.00% | ~8,823 |
-| Warzone | 5.00% | ~8,823 |
-| Yabu | 5.00% | ~8,823 |
-| Okkoto | 4.00% | ~7,058 |
-| Prisoners | 4.00% | ~7,058 |
-| Too Early | 4.00% | ~7,058 |
+| Genin | 10.00% | ~17,647 |
+| Thorough | 9.00% | ~15,882 |
+| A thief's beginning | 8.00% | ~14,118 |
+| Disguised | 7.00% | ~12,353 |
+| Rollin' | 7.00% | ~12,353 |
+| Tanuki Time | 7.00% | ~12,353 |
+| Jonin | 6.00% | ~10,588 |
+| Rescue Takuma | 6.00% | ~10,588 |
+| Stoned Ox | 6.00% | ~10,588 |
+| Chunin | 5.00% | ~8,824 |
+| Flying Rocks | 5.00% | ~8,824 |
+| Happy Planning | 5.00% | ~8,824 |
+| Ice Ice Yuki | 5.00% | ~8,824 |
+| Mugen Unchained | 5.00% | ~8,824 |
+| Warzone | 5.00% | ~8,824 |
+| Yabu | 5.00% | ~8,824 |
+| Okkoto | 4.00% | ~7,059 |
+| Prisoners | 4.00% | ~7,059 |
+| Too Early | 4.00% | ~7,059 |
 | Gear up | 3.00% | ~5,294 |
 | Happy little accidents | 3.00% | ~5,294 |
 | Noboru | 3.00% | ~5,294 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~176 |
 | Release the Kraken | 0.10% | ~176 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176,456 (Ranked 56)  
+Progressed: 176,471 (Ranked 56)  
 Completed: 52 (0.03%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 52 (0.03%) (Ranked 193)
 | 2023-06-09 | 175,568 | 51 |
 | 2023-06-10 | 175,925 | 51 |
 | 2023-06-11 | 176,276 | 52 |
-| 2023-06-12 | 176,456 | 52 |
+| 2023-06-12 | 176,471 | 52 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 179)  
 Sum: 4,681 (Ranked 126)  

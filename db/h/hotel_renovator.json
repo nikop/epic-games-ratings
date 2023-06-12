@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -878,9 +878,9 @@
       "ID": "ACH_STAR_2",
       "SetID": "7k95e4n",
       "Name": "Moving up",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_STAR_3",
@@ -943,8 +943,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-06-12T15:05:43.7835584+00:00",
+  "LastChanged_Achievements": "2023-06-12T16:05:49.3760555+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:10.7192989+00:00",
-  "LastUpdate_Ratings": "2023-06-12T14:57:02.6408507+00:00",
-  "LastUpdate_Achievements": "2023-06-12T15:05:43.7835816+00:00"
+  "LastUpdate_Ratings": "2023-06-12T15:57:04.8780073+00:00",
+  "LastUpdate_Achievements": "2023-06-12T16:05:49.3760747+00:00"
 }

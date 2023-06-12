@@ -34,8 +34,8 @@ Number of Ratings: 836  (23.09.2022)
 | Rocket Surgeon | 19.00% | ~1,214 |
 | Big Game Hunter | 17.00% | ~1,086 |
 | Friendly | 16.00% | ~1,022 |
+| Around the World | 16.00% | ~1,022 |
 | Spreading Influence | 16.00% | ~1,022 |
-| Around the World | 15.00% | ~958 |
 | Bookworm | 14.00% | ~895 |
 | Famous Adventurer | 13.00% | ~831 |
 | Prepared for Anything | 13.00% | ~831 |

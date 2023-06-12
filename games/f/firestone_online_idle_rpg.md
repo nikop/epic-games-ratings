@@ -5,17 +5,17 @@ Rating: 4.05 (Ranked 891)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,295 |
-| World Map | 80.00% | ~1,102 |
-| Temple of Eternals | 57.00% | ~785 |
-| Prestigious | 53.00% | ~730 |
+| Victor | 94.00% | ~1,296 |
+| World Map | 80.00% | ~1,103 |
+| Temple of Eternals | 57.00% | ~786 |
+| Prestigious | 53.00% | ~731 |
 | Fellowship Power | 41.00% | ~565 |
 | Guild Power | 24.00% | ~331 |
-| Prestigious x10 | 21.00% | ~289 |
+| Prestigious x10 | 21.00% | ~290 |
 | The game is on | 18.00% | ~248 |
 | Exotic Merchant | 17.00% | ~234 |
-| Dragon Clicker | 16.00% | ~220 |
-| Miner Clicker | 16.00% | ~220 |
+| Dragon Clicker | 16.00% | ~221 |
+| Miner Clicker | 16.00% | ~221 |
 | Inspection | 15.00% | ~207 |
 | Full Party | 14.00% | ~193 |
 | Dragon Master | 13.00% | ~179 |
@@ -33,11 +33,11 @@ Rating: 4.05 (Ranked 891)
 | Hunter | 8.00% | ~110 |
 | Scroll Master | 8.00% | ~110 |
 | The power of Awakening | 8.00% | ~110 |
-| Doing My Part | 7.00% | ~96 |
-| Frostfire Liberator | 7.00% | ~96 |
-| Mastery | 7.00% | ~96 |
-| Moving Up The Ladder | 7.00% | ~96 |
-| Relic Of The Past | 7.00% | ~96 |
+| Doing My Part | 7.00% | ~97 |
+| Frostfire Liberator | 7.00% | ~97 |
+| Mastery | 7.00% | ~97 |
+| Moving Up The Ladder | 7.00% | ~97 |
+| Relic Of The Past | 7.00% | ~97 |
 | Four Leaf Clover | 6.00% | ~83 |
 | Here We Go Again | 5.00% | ~69 |
 | How Do You Turn This On? | 5.00% | ~69 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 891)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,378 (Ranked 163)  
+Progressed: 1,379 (Ranked 163)  
 Completed: 1 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 1 (0.07%) (Ranked 177)
 | 2023-06-09 | 1,349 | 1 |
 | 2023-06-10 | 1,360 | 1 |
 | 2023-06-11 | 1,376 | 1 |
-| 2023-06-12 | 1,378 | 1 |
+| 2023-06-12 | 1,379 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

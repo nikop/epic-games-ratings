@@ -2810,9 +2810,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9800,
+  "EOS_Progressed": 9802,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6340,6 +6340,11 @@
       "Time": "2023-06-12T15:05:54.8934061+00:00",
       "NumProgressed": 9800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T16:06:00.4817595+00:00",
+      "NumProgressed": 9802,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6581,9 +6586,9 @@
       "ID": "31_DivideAndRule",
       "SetID": "989of5o",
       "Name": "Divide and Rule",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 196
     },
     {
       "ID": "32_MythicReinforcements",
@@ -7278,21 +7283,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8582,
+      "Progressed": 8584,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9800,
+      "Progressed": 9802,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-11T16:58:32.2444378+00:00",
-  "LastChanged_Achievements": "2023-06-12T15:05:54.8934057+00:00",
+  "LastChanged_Achievements": "2023-06-12T16:06:00.4817589+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-12T14:58:05.8913955+00:00",
-  "LastUpdate_Achievements": "2023-06-12T15:05:54.8935526+00:00"
+  "LastUpdate_Ratings": "2023-06-12T15:58:10.8244365+00:00",
+  "LastUpdate_Achievements": "2023-06-12T16:06:00.4821908+00:00"
 }

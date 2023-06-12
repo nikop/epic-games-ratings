@@ -7,29 +7,29 @@
 | Mighty Powers | 25.00% | ~1 |
 | Grand Re-Opening | 25.00% | ~1 |
 | Pup Pup Boogie | 25.00% | ~1 |
+| Mr. Porter | 25.00% | ~1 |
+| Break Time | 25.00% | ~1 |
+| Master of the Rope | 25.00% | ~1 |
 | Summer Day | 25.00% | ~1 |
+| In the Air | 25.00% | ~1 |
+| Clear the Road | 25.00% | ~1 |
 | You Have Been Everywhere | 25.00% | ~1 |
 | Animal Sighting | 25.00% | ~1 |
 | Risky Rescue | 25.00% | ~1 |
 | Carlos Is Tangled | 25.00% | ~1 |
+| Mandy Family | 25.00% | ~1 |
 | King of the Mountain | 0.00% | ~0 |
 | A Great Explorer | 0.00% | ~0 |
 | Nothing Can Stop You | 0.00% | ~0 |
 | Everything Under Control | 0.00% | ~0 |
-| Mr. Porter | 0.00% | ~0 |
-| Break Time | 0.00% | ~0 |
-| Master of the Rope | 0.00% | ~0 |
 | Training Day | 0.00% | ~0 |
 | The Fastest | 0.00% | ~0 |
-| In the Air | 0.00% | ~0 |
 | Air Ace | 0.00% | ~0 |
-| Clear the Road | 0.00% | ~0 |
 | Never Miss | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 | Paw patrol member | 0.00% | ~0 |
-| Mandy Family | 0.00% | ~0 |
 | Robot Out of Control | 0.00% | ~0 |
 | Don’t Miss Any | 0.00% | ~0 |
 | Mountain and Ice | 0.00% | ~0 |

@@ -24,8 +24,8 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 42.00% | ~30 |
 | A beer, two curses, three companions | 40.00% | ~29 |
 | Dwarf Fortress | 40.00% | ~29 |
-| Look but don't touch | 39.00% | ~28 |
-| Shiny and Crôm | 36.00% | ~26 |
+| Look but don't touch | 40.00% | ~29 |
+| Shiny and Crôm | 38.00% | ~27 |
 | Material Girl | 36.00% | ~26 |
 | The Statuette of Gladeulfeurah | 35.00% | ~25 |
 | A tale of adventurers not quite like the others... | 35.00% | ~25 |

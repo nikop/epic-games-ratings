@@ -4,15 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Cartographer | 9.00% | ~60 |
 | Treasure Trove | 8.00% | ~53 |
-| Cartographer | 8.00% | ~53 |
 | Time Heals All Wounds | 8.00% | ~53 |
 | The Steel Shadow | 7.00% | ~47 |
+| The Mysterious Stranger | 7.00% | ~47 |
 | Rail Rat | 7.00% | ~47 |
 | Make Up For Lost Time | 7.00% | ~47 |
 | The Prince in Heels | 7.00% | ~47 |
 | Immaculate Aim | 7.00% | ~47 |
-| The Mysterious Stranger | 6.00% | ~40 |
+| The Man Who Shattered Time | 6.00% | ~40 |
 | Time Flies | 6.00% | ~40 |
 | The Harder They Fall | 6.00% | ~40 |
 | No, Thanks! | 6.00% | ~40 |
@@ -25,7 +26,6 @@
 | Like Clockwork | 5.00% | ~33 |
 | Street Style | 5.00% | ~33 |
 | The Betrayer | 5.00% | ~33 |
-| The Man Who Shattered Time | 5.00% | ~33 |
 | The Loose Cannon | 5.00% | ~33 |
 | Honest Mistake | 5.00% | ~33 |
 | Golem Chaser | 5.00% | ~33 |

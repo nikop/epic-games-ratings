@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2713,
+  "EOS_Progressed": 2716,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
@@ -3327,6 +3327,11 @@
       "Time": "2023-06-12T15:05:42.3064538+00:00",
       "NumProgressed": 2713,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-12T16:05:47.9831423+00:00",
+      "NumProgressed": 2716,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3402,7 +3407,7 @@
       "Name": "Organ Grinder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3418,7 +3423,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3506,7 +3511,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3578,7 +3583,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3650,7 +3655,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3672,9 +3677,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 407
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3730,7 +3735,7 @@
       "Name": "Target America",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3816,17 +3821,17 @@
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
       "SetID": "83mdf7p",
       "Name": "Das Familienjuwel",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -3905,13 +3910,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2664,
+      "Progressed": 2667,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2713,
+      "Progressed": 2716,
       "Completed": 2
     }
   ],
@@ -3919,8 +3924,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-12T12:00:24.1242654+00:00",
-  "LastChanged_Achievements": "2023-06-12T15:05:42.3064533+00:00",
+  "LastChanged_Achievements": "2023-06-12T16:05:47.983142+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-12T15:00:01.1802061+00:00",
-  "LastUpdate_Achievements": "2023-06-12T15:05:42.3065209+00:00"
+  "LastUpdate_Ratings": "2023-06-12T16:00:07.9061779+00:00",
+  "LastUpdate_Achievements": "2023-06-12T16:05:47.9832068+00:00"
 }

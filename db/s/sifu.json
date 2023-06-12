@@ -4480,10 +4480,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10522,
       "NumberOfAwardsMax": 6165
+    },
+    {
+      "Time": "2023-06-12T15:58:46.8658869+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10523,
+      "NumberOfAwardsMax": 6165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10522,
+  "NumberOfAwards": 10523,
   "NumberOfAwardsMax": 6165,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4503,7 +4509,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 512
+      "Count": 513
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4560,9 +4566,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 708935,
+  "EOS_Progressed": 708947,
   "EOS_Completed": 12767,
-  "EOS_NewPlayers": 1408,
+  "EOS_NewPlayers": 1413,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9565,6 +9571,11 @@
       "Time": "2023-06-12T15:05:50.4138555+00:00",
       "NumProgressed": 708935,
       "NumCompleted": 12767
+    },
+    {
+      "Time": "2023-06-12T16:05:55.9997882+00:00",
+      "NumProgressed": 708947,
+      "NumCompleted": 12767
     }
   ],
   "TotalAchievements": 50,
@@ -9664,7 +9675,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5672
     },
     {
       "ID": "13_LowAge",
@@ -9848,7 +9859,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5672
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -9920,7 +9931,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9975,21 +9986,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18236,
+      "Progressed": 18248,
       "Completed": 10260
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708935,
+      "Progressed": 708947,
       "Completed": 12767
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-12T13:04:42.3500498+00:00",
-  "LastChanged_Achievements": "2023-06-12T15:05:50.4138552+00:00",
+  "LastChanged": "2023-06-12T15:58:46.8658868+00:00",
+  "LastChanged_Achievements": "2023-06-12T16:05:55.9997875+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-12T14:58:43.1173751+00:00",
-  "LastUpdate_Achievements": "2023-06-12T15:05:50.4139141+00:00"
+  "LastUpdate_Ratings": "2023-06-12T15:58:46.8658873+00:00",
+  "LastUpdate_Achievements": "2023-06-12T16:05:55.9998529+00:00"
 }

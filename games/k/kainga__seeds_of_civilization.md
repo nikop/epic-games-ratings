@@ -9,6 +9,7 @@
 | Canyonlands | 100.00% | ~1 |
 | Pillars of Stone | 100.00% | ~1 |
 | Bear the Burden | 100.00% | ~1 |
+| Feasts and Beasts | 100.00% | ~1 |
 | Master of Kainga | 100.00% | ~1 |
 | Riding the Crab | 0.00% | ~0 |
 | Best Friends For Now | 0.00% | ~0 |
@@ -25,7 +26,6 @@
 | Mountain of Ice | 0.00% | ~0 |
 | Archipelago | 0.00% | ~0 |
 | Smoke in a Bottle | 0.00% | ~0 |
-| Feasts and Beasts | 0.00% | ~0 |
 | The Woodcarver | 0.00% | ~0 |
 | The Dynamic Duo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

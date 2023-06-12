@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3146,
+  "EOS_Progressed": 3149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3791,6 +3791,11 @@
       "Time": "2023-06-12T15:05:21.4804625+00:00",
       "NumProgressed": 3146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T16:05:27.209547+00:00",
+      "NumProgressed": 3149,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -3802,7 +3807,7 @@
       "Name": "First Step",
       "Percentage": 44,
       "XP": 45,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1386
     },
     {
       "ID": "10",
@@ -3856,9 +3861,9 @@
       "ID": "2",
       "SetID": "1dkhij4",
       "Name": "Dense Forest",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1165
     },
     {
       "ID": "3",
@@ -3866,7 +3871,7 @@
       "Name": "Cactus Vally",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "4",
@@ -3874,7 +3879,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "5",
@@ -3921,7 +3926,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3146,
+      "Progressed": 3149,
       "Completed": 0
     }
   ],
@@ -3929,8 +3934,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-12T15:05:21.4804621+00:00",
+  "LastChanged_Achievements": "2023-06-12T16:05:27.2095468+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.95723+00:00",
-  "LastUpdate_Ratings": "2023-06-12T14:57:50.6837127+00:00",
-  "LastUpdate_Achievements": "2023-06-12T15:05:21.4804886+00:00"
+  "LastUpdate_Ratings": "2023-06-12T15:57:55.6973211+00:00",
+  "LastUpdate_Achievements": "2023-06-12T16:05:27.2095707+00:00"
 }

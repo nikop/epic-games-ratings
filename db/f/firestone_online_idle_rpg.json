@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1378,
+  "EOS_Progressed": 1379,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3041,6 +3041,11 @@
       "Time": "2023-06-12T15:05:46.2127236+00:00",
       "NumProgressed": 1378,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T16:05:51.8595438+00:00",
+      "NumProgressed": 1379,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3148,7 +3153,7 @@
       "Name": "Doing My Part",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "dragonclicker",
@@ -3156,7 +3161,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "dragonmaster",
@@ -3252,7 +3257,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "fullparty",
@@ -3372,7 +3377,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "milestonecollector",
@@ -3388,7 +3393,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "missionsdedication",
@@ -3404,7 +3409,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "mysteriousrock",
@@ -3444,7 +3449,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "prestigiousx10",
@@ -3452,7 +3457,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "relicofthepast",
@@ -3460,7 +3465,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "sailor",
@@ -3508,7 +3513,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "thealchemist",
@@ -3612,7 +3617,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "warmachinesarmy",
@@ -3644,14 +3649,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1378,
+      "Progressed": 1379,
       "Completed": 1
     }
   ],
@@ -3659,8 +3664,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-12T15:05:46.2127232+00:00",
+  "LastChanged_Achievements": "2023-06-12T16:05:51.8595435+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-12T14:57:49.2614865+00:00",
-  "LastUpdate_Achievements": "2023-06-12T15:05:46.2128005+00:00"
+  "LastUpdate_Ratings": "2023-06-12T15:57:54.235727+00:00",
+  "LastUpdate_Achievements": "2023-06-12T16:05:51.8596137+00:00"
 }

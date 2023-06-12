@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 102.00% | ~62 |
-| A bottomless pit | 84.00% | ~51 |
-| Pigeon | 80.00% | ~49 |
-| Baited | 67.00% | ~41 |
-| "Swoosh" | 56.00% | ~34 |
-| The light at the end of the tunnel | 54.00% | ~33 |
-| Splash! | 52.00% | ~32 |
-| Masochistic | 48.00% | ~29 |
-| Soft skin | 41.00% | ~25 |
-| Squid game | 33.00% | ~20 |
-| Sensitive soul | 33.00% | ~20 |
-| Rock Solid | 28.00% | ~17 |
-| The beast within | 28.00% | ~17 |
-| Rooftop | 28.00% | ~17 |
-| It's getting dark | 28.00% | ~17 |
+| A path of no return | 102.00% | ~63 |
+| A bottomless pit | 84.00% | ~52 |
+| Pigeon | 81.00% | ~50 |
+| Baited | 66.00% | ~41 |
+| "Swoosh" | 55.00% | ~34 |
+| The light at the end of the tunnel | 53.00% | ~33 |
+| Splash! | 53.00% | ~33 |
+| Masochistic | 47.00% | ~29 |
+| Soft skin | 40.00% | ~25 |
+| Squid game | 32.00% | ~20 |
+| Sensitive soul | 32.00% | ~20 |
+| Rock Solid | 27.00% | ~17 |
+| The beast within | 27.00% | ~17 |
+| Rooftop | 27.00% | ~17 |
+| It's getting dark | 27.00% | ~17 |
 | Hard Rock | 26.00% | ~16 |
-| Homeless | 25.00% | ~15 |
-| Big badaboom! | 25.00% | ~15 |
+| Homeless | 24.00% | ~15 |
+| Big badaboom! | 24.00% | ~15 |
 | Bookworm | 21.00% | ~13 |
-| Full power | 20.00% | ~12 |
-| "Ah sh*t... Here we go again!" | 20.00% | ~12 |
-| Compulsive hoarder | 20.00% | ~12 |
-| Nokron tower | 20.00% | ~12 |
+| Full power | 19.00% | ~12 |
+| "Ah sh*t... Here we go again!" | 19.00% | ~12 |
+| Compulsive hoarder | 19.00% | ~12 |
+| Nokron tower | 19.00% | ~12 |
 | Payback | 18.00% | ~11 |
 | Magnitude 5 | 16.00% | ~10 |
 | MayDay! MayDay! | 13.00% | ~8 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 301)  
+Progressed: 62 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,3 +64,4 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-04 | 59 | 0 |
 | 2023-06-07 | 60 | 0 |
 | 2023-06-10 | 61 | 0 |
+| 2023-06-12 | 62 | 0 |

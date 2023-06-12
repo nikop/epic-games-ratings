@@ -329,9 +329,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Epic_Formula_12",
@@ -353,9 +353,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -457,9 +457,9 @@
       "ID": "Epic_NinjaSword_1",
       "SetID": "ba1m2fc",
       "Name": "Knife Out",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Epic_Parasitic_1",
@@ -616,8 +616,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-12T15:00:25.0139012+00:00",
+  "LastChanged_Achievements": "2023-06-12T16:02:03.5190372+00:00",
   "LastUpdate_AppInfo": "2023-06-08T03:57:14.5111987+00:00",
-  "LastUpdate_Ratings": "2023-06-12T14:56:52.3570537+00:00",
-  "LastUpdate_Achievements": "2023-06-12T15:00:25.0139955+00:00"
+  "LastUpdate_Ratings": "2023-06-12T15:56:54.3192582+00:00",
+  "LastUpdate_Achievements": "2023-06-12T16:02:03.5190713+00:00"
 }

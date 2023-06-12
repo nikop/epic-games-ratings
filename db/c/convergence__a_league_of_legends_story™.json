@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1343,9 +1343,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1359,9 +1359,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 40
     },
     {
       "ID": "GadgetCompletion1",
@@ -1423,9 +1423,9 @@
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 60
     },
     {
       "ID": "NoCritterSump",
@@ -1654,8 +1654,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-12T15:05:06.7627373+00:00",
+  "LastChanged_Achievements": "2023-06-12T16:05:12.7107779+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-12T14:59:02.6056832+00:00",
-  "LastUpdate_Achievements": "2023-06-12T15:05:06.7627818+00:00"
+  "LastUpdate_Ratings": "2023-06-12T15:59:05.7354691+00:00",
+  "LastUpdate_Achievements": "2023-06-12T16:05:12.7108188+00:00"
 }

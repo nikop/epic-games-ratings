@@ -5,17 +5,17 @@ Rating: 4.52 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~814 |
-| Confirming Suspicions | 24.00% | ~651 |
+| Meeting Resistance | 30.00% | ~815 |
+| Confirming Suspicions | 24.00% | ~652 |
 | The Kraken Wakes | 20.00% | ~543 |
-| It's Starting to Crack | 17.00% | ~461 |
+| It's Starting to Crack | 17.00% | ~462 |
 | Lord of War | 15.00% | ~407 |
-| Change the Channel | 14.00% | ~380 |
+| Change the Channel | 15.00% | ~407 |
 | Resourceful | 13.00% | ~353 |
 | Taking it back | 12.00% | ~326 |
-| Organ Grinder | 11.00% | ~298 |
-| Target America | 11.00% | ~298 |
-| As Quiet as a Mouse | 10.00% | ~271 |
+| Organ Grinder | 11.00% | ~299 |
+| Target America | 11.00% | ~299 |
+| As Quiet as a Mouse | 10.00% | ~272 |
 | Liberté | 9.00% | ~244 |
 | The Kraken Sleeps | 9.00% | ~244 |
 | Enemy at the Gates | 8.00% | ~217 |
@@ -46,8 +46,8 @@ Rating: 4.52 (Ranked 514)
 | Don't hold your breath | 1.00% | ~27 |
 | Herr Today, Gone Tomorrow | 1.00% | ~27 |
 | Operation Foxley | 1.00% | ~27 |
+| Last Resort | 0.90% | ~24 |
 | Ghost of Falaise | 0.90% | ~24 |
-| Last Resort | 0.80% | ~21 |
 | Siegebreaker | 0.80% | ~21 |
 | Burn after reading | 0.70% | ~19 |
 | From Paris with Love | 0.60% | ~16 |
@@ -64,6 +64,7 @@ Rating: 4.52 (Ranked 514)
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~5 |
 | Führerious Repetition | 0.20% | ~5 |
+| Das Familienjuwel | 0.20% | ~5 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
@@ -71,13 +72,12 @@ Rating: 4.52 (Ranked 514)
 | Out of Scope | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
-| Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.00% | ~0 |
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,713 (Ranked 145)  
+Progressed: 2,716 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.07%) (Ranked 177)
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
-| 2023-06-12 | 2,713 | 2 |
+| 2023-06-12 | 2,716 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
