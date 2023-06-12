@@ -11,10 +11,10 @@
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
-| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.94% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
-| 14 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 11.11% |
-| 15 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
+| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.76% |
+| 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 15 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 10.53% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.38% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
@@ -26,7 +26,7 @@
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.97% |
-| 27 | [Scorn](games/s/scorn.md) | 6.78% |
+| 27 | [Scorn](games/s/scorn.md) | 6.77% |
 | 28 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.67% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -89,7 +89,7 @@
 | 87 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.11% |
 | 88 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.10% |
 | 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.05% |
-| 90 | [Late Shift](games/l/late_shift.md) | 0.99% |
+| 90 | [Late Shift](games/l/late_shift.md) | 0.98% |
 | 91 | [Sable](games/s/sable.md) | 0.95% |
 | 92 | [Five Dates](games/f/five_dates.md) | 0.94% |
 | 93 | [Hades](games/h/hades.md) | 0.89% |
@@ -137,8 +137,8 @@
 | 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
 | 134 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
 | 137 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 138 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
-| 139 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.26% |
+| 138 | [Aegis Descent](games/a/aegis_descent.md) | 0.26% |
+| 138 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.26% |
 | 140 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 141 | [Circus Electrique](games/c/circus_electrique.md) | 0.23% |
 | 141 | [Filament](games/f/filament.md) | 0.23% |
