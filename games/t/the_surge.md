@@ -1,22 +1,22 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.45 (Ranked 617)  
+Rating: 4.45 (Ranked 618)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,142 |
-| I'll Be Back | 84.00% | ~3,701 |
+| On My Own Two Feet | 94.00% | ~4,143 |
+| I'll Be Back | 84.00% | ~3,702 |
 | Sorry, I Dropped This | 77.00% | ~3,393 |
 | First Day on the Job | 76.00% | ~3,349 |
-| Butcher's Bill | 54.00% | ~2,379 |
-| P.A.X | 37.00% | ~1,630 |
-| Hey Listen | 36.00% | ~1,586 |
+| Butcher's Bill | 54.00% | ~2,380 |
+| P.A.X | 37.00% | ~1,631 |
+| Hey Listen | 36.00% | ~1,587 |
 | OPERATOR | 35.00% | ~1,542 |
 | It's Blue Light | 33.00% | ~1,454 |
 | Most Wanted | 26.00% | ~1,146 |
-| Infidel | 23.00% | ~1,013 |
+| Infidel | 23.00% | ~1,014 |
 | GOLIATH | 21.00% | ~925 |
 | Firebug | 20.00% | ~881 |
 | I Choose You | 17.00% | ~749 |
@@ -33,11 +33,11 @@ Number of Ratings: 62  (23.09.2022)
 | Right Tool for the Job | 10.00% | ~441 |
 | Raging Drones | 9.00% | ~397 |
 | Overconfident | 9.00% | ~397 |
-| Pusher Man | 8.00% | ~352 |
-| Melting Down | 8.00% | ~352 |
-| Squad Chief Helvig | 8.00% | ~352 |
-| No More Marching | 8.00% | ~352 |
-| Is This Real Life? | 8.00% | ~352 |
+| Pusher Man | 8.00% | ~353 |
+| Melting Down | 8.00% | ~353 |
+| Squad Chief Helvig | 8.00% | ~353 |
+| No More Marching | 8.00% | ~353 |
+| Is This Real Life? | 8.00% | ~353 |
 | Duty-Bound | 7.00% | ~308 |
 | Liberation | 7.00% | ~308 |
 | Risk Assessment | 7.00% | ~308 |
@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,406 (Ranked 130)  
-Completed: 13 (0.30%) (Ranked 132)  
+Progressed: 4,407 (Ranked 130)  
+Completed: 13 (0.29%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,7 +120,7 @@ Completed: 13 (0.30%) (Ranked 132)
 | 2023-06-09 | 4,378 | 13 |
 | 2023-06-10 | 4,387 | 13 |
 | 2023-06-11 | 4,400 | 13 |
-| 2023-06-12 | 4,406 | 13 |
+| 2023-06-12 | 4,407 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 463)  
 Sum: 26 (Ranked 472)  

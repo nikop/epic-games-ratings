@@ -51,13 +51,13 @@ Rating: 4.17 (Ranked 851)
 | Crime Is a Terrible Thing to Waste | 0.20% | ~70 |
 | The Cold, the Bad and the Ugly | 0.20% | ~70 |
 | Practice Makes Perfect | 0.20% | ~129 |
+| The Man-Bat Family | 0.20% | ~129 |
 | Element of Surprise | 0.10% | ~35 |
 | It's Nice to Be Wanted | 0.10% | ~35 |
 | Gotham's Greatest Depths | 0.10% | ~35 |
 | Showdown Sovereign | 0.10% | ~35 |
 | That's Showbiz, Clayby | 0.10% | ~35 |
 | Talonted | 0.10% | ~65 |
-| The Man-Bat Family | 0.10% | ~65 |
 | Icebreaker | 0.10% | ~35 |
 | Don't Mecha Big Deal About It | 0.10% | ~35 |
 | Batarang Collector | 0.10% | ~65 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 851)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,711 (Ranked 70)  
+Progressed: 64,716 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,14 +120,14 @@ Completed: 95 (0.15%) (Ranked 157)
 | 2023-06-09 | 64,309 | 95 |
 | 2023-06-10 | 64,465 | 95 |
 | 2023-06-11 | 64,650 | 95 |
-| 2023-06-12 | 64,711 | 95 |
+| 2023-06-12 | 64,716 | 95 |
 ## Awards
-Max (Great Boss Battles): 2,321  (Ranked 97)  
-Sum: 3,840 (Ranked 137)  
+Max (Great Boss Battles): 2,325  (Ranked 97)  
+Sum: 3,844 (Ranked 137)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,321 |
+| This game has Great Boss Battles | 2,325 |
 | This game is Extremely Fun | 198 |
 | This game has Quickly Understood Controls | 197 |
 | This game is Relaxing | 197 |
@@ -251,4 +251,4 @@ Diff (max vs sum): -40
 | 2023-06-09 | 4.17 | 2,313 | 3,821 |
 | 2023-06-10 | 4.18 | 2,317 | 3,830 |
 | 2023-06-11 | 4.17 | 2,321 | 3,838 |
-| 2023-06-12 | 4.17 | 2,321 | 3,840 |
+| 2023-06-12 | 4.17 | 2,325 | 3,844 |

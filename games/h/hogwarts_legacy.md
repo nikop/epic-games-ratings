@@ -5,36 +5,36 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,099 |
-| First Class Student | 8.00% | ~22,310 |
-| Troll with the Punches | 8.00% | ~22,310 |
-| Grappling with a Graphorn | 7.00% | ~19,521 |
-| The One Who Mastered Memories | 7.00% | ~19,521 |
-| The Hallowed Hero | 7.00% | ~19,521 |
-| The Hero of Hogwarts | 7.00% | ~19,521 |
-| The Defender of Dragons | 7.00% | ~19,521 |
-| A Keen Sense of Spell | 7.00% | ~19,521 |
-| Loom for Improvement | 7.00% | ~19,521 |
-| A Talent for Spending | 7.00% | ~19,521 |
-| Coasting Along | 7.00% | ~19,521 |
-| That's a Keeper | 7.00% | ~19,521 |
-| Challenge Accepted | 6.00% | ~16,733 |
-| Followed the Butterflies | 6.00% | ~16,733 |
-| Rising From the Ashes | 6.00% | ~16,733 |
-| The Avenging Gazelle | 5.00% | ~13,944 |
-| Beast Friends | 5.00% | ~13,944 |
-| A Sallow Grave | 5.00% | ~13,944 |
-| Flight the Good Flight | 5.00% | ~13,944 |
-| The Spell Master | 5.00% | ~13,944 |
-| The Seeker of Knowledge | 4.00% | ~11,155 |
-| The Root of the Problem | 4.00% | ~11,155 |
-| Third Time's a Charm | 4.00% | ~11,155 |
-| Raising Expectations | 4.00% | ~11,155 |
-| The Toast of the Town | 3.00% | ~8,366 |
-| Room with a View | 3.00% | ~8,366 |
-| The Intrepid Explorer | 3.00% | ~8,366 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,366 |
-| The Ends Petrify the Means | 3.00% | ~8,366 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,101 |
+| First Class Student | 8.00% | ~22,312 |
+| Troll with the Punches | 8.00% | ~22,312 |
+| Grappling with a Graphorn | 7.00% | ~19,523 |
+| The One Who Mastered Memories | 7.00% | ~19,523 |
+| The Hallowed Hero | 7.00% | ~19,523 |
+| The Hero of Hogwarts | 7.00% | ~19,523 |
+| The Defender of Dragons | 7.00% | ~19,523 |
+| A Keen Sense of Spell | 7.00% | ~19,523 |
+| Loom for Improvement | 7.00% | ~19,523 |
+| A Talent for Spending | 7.00% | ~19,523 |
+| Coasting Along | 7.00% | ~19,523 |
+| That's a Keeper | 7.00% | ~19,523 |
+| Challenge Accepted | 6.00% | ~16,734 |
+| Followed the Butterflies | 6.00% | ~16,734 |
+| Rising From the Ashes | 6.00% | ~16,734 |
+| The Avenging Gazelle | 5.00% | ~13,945 |
+| Beast Friends | 5.00% | ~13,945 |
+| A Sallow Grave | 5.00% | ~13,945 |
+| Flight the Good Flight | 5.00% | ~13,945 |
+| The Spell Master | 5.00% | ~13,945 |
+| The Seeker of Knowledge | 4.00% | ~11,156 |
+| The Root of the Problem | 4.00% | ~11,156 |
+| Third Time's a Charm | 4.00% | ~11,156 |
+| Raising Expectations | 4.00% | ~11,156 |
+| The Toast of the Town | 3.00% | ~8,367 |
+| Room with a View | 3.00% | ~8,367 |
+| The Intrepid Explorer | 3.00% | ~8,367 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,367 |
+| The Ends Petrify the Means | 3.00% | ~8,367 |
 | Going Through the Potions | 2.00% | ~5,578 |
 | Put Down Roots | 2.00% | ~5,578 |
 | The Auror's Apprentice | 2.00% | ~5,578 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,394 |
 | Collector's Edition | 0.20% | ~558 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 278,878 (Ranked 41)  
+Progressed: 278,895 (Ranked 41)  
 Completed: 401 (0.14%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,10 +104,10 @@ Completed: 401 (0.14%) (Ranked 160)
 | 2023-06-09 | 277,741 | 395 |
 | 2023-06-10 | 278,175 | 397 |
 | 2023-06-11 | 278,675 | 401 |
-| 2023-06-12 | 278,878 | 401 |
+| 2023-06-12 | 278,895 | 401 |
 ## Awards
 Max (Character Customization): 19,875  (Ranked 18)  
-Sum: 36,792 (Ranked 32)  
+Sum: 36,795 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -122,7 +122,7 @@ Diff (max vs sum): -14
 | This game is Highly Recommended | 770 |
 | This game has Quickly Understood Controls | 710 |
 | This game has Beautiful Visuals | 664 |
-| This game has a Creative Community | 504 |
+| This game has a Creative Community | 507 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -206,4 +206,4 @@ Diff (max vs sum): -14
 | 2023-06-09 | 4.77 | 19,738 | 36,553 |
 | 2023-06-10 | 4.77 | 19,774 | 36,629 |
 | 2023-06-11 | 4.77 | 19,818 | 36,728 |
-| 2023-06-12 | 4.77 | 19,875 | 36,792 |
+| 2023-06-12 | 4.77 | 19,875 | 36,795 |

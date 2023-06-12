@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,810 |
+| A Brief Tour of the Realms | 2.00% | ~1,811 |
 | Beast Intentions | 1.00% | ~905 |
 | The Cursed Farmer | 1.00% | ~905 |
 | The Mad Wizard | 1.00% | ~905 |
@@ -73,6 +73,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.30% | ~272 |
 | The Dead Three | 0.30% | ~272 |
 | Flying Monkey Skulls of Doom | 0.30% | ~272 |
+| Dinosaur Racing | 0.30% | ~272 |
 | Hearts Aflame | 0.30% | ~170 |
 | Look Out! | 0.30% | ~170 |
 | Bad Odds in Avernus | 0.30% | ~170 |
@@ -231,7 +232,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Faerûn's Most Neglected | 0.20% | ~114 |
 | Vault of Dragons | 0.20% | ~181 |
 | Champions of Waterdeep | 0.20% | ~181 |
-| Dinosaur Racing | 0.20% | ~181 |
 | Elturel Has Fallen | 0.20% | ~181 |
 | Everything is Awful | 0.20% | ~181 |
 | Earthquake! | 0.20% | ~114 |
@@ -252,6 +252,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Déjà Vu All Over Again | 0.20% | ~114 |
 | Into The Fire | 0.20% | ~114 |
 | A Difficult Descent | 0.20% | ~114 |
+| The Devil Arrives | 0.20% | ~114 |
 | Dreamscape | 0.20% | ~114 |
 | Dream Gauntlet | 0.20% | ~114 |
 | Zombie Dreams | 0.20% | ~114 |
@@ -293,6 +294,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Radiant Nightmare | 0.20% | ~114 |
 | Waiting on Sunrise | 0.20% | ~114 |
 | Deekin's Mission | 0.20% | ~114 |
+| Dive Bomb | 0.20% | ~114 |
+| Fire and Ice | 0.20% | ~114 |
 | Frozen Vengeance | 0.20% | ~114 |
 | The Battle of High Hall Tower | 0.20% | ~114 |
 | Elturel's Last Stand | 0.20% | ~114 |
@@ -432,7 +435,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Misty Undermountain | 0.10% | ~57 |
 | An Owlbear of an Undertaking | 0.10% | ~57 |
 | Ireena von Zarovich | 0.10% | ~57 |
-| The Devil Arrives | 0.10% | ~57 |
 | The Path of Trials | 0.10% | ~57 |
 | Zapper Overload | 0.10% | ~57 |
 | Best Friend Search Squad! | 0.10% | ~57 |
@@ -472,8 +474,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tough Acting | 0.10% | ~57 |
 | Frontline Fighters | 0.10% | ~57 |
 | A Chilling Encounter | 0.10% | ~57 |
-| Dive Bomb | 0.10% | ~57 |
-| Fire and Ice | 0.10% | ~57 |
 | Mimic Vengeance | 0.10% | ~57 |
 | REALLY Frozen Vengeance | 0.10% | ~57 |
 | Might Makes Right | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,523 (Ranked 64)  
+Progressed: 90,528 (Ranked 64)  
 Completed: 1,929 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 1,929 (2.13%) (Ranked 65)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
-| 2023-06-12 | 90,523 | 1,929 |
+| 2023-06-12 | 90,528 | 1,929 |
 ## Awards
 Max (Diverse Characters): 4,934  (Ranked 64)  
 Sum: 30,083 (Ranked 37)  

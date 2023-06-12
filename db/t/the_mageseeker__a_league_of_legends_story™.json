@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2332,
+  "EOS_Progressed": 2333,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2528,6 +2528,11 @@
       "Time": "2023-06-12T02:27:13.9708797+00:00",
       "NumProgressed": 2332,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T14:06:41.7217024+00:00",
+      "NumProgressed": 2333,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2547,7 +2552,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -2571,7 +2576,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -2579,7 +2584,7 @@
       "Name": "Hijack",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -2587,7 +2592,7 @@
       "Name": "Elemental master",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2595,7 +2600,7 @@
       "Name": "No more holding back",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -2603,7 +2608,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2215
+      "UsersEstimate": 2216
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2643,7 +2648,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2667,7 +2672,7 @@
       "Name": "Little light",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -2715,7 +2720,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2723,7 +2728,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2755,7 +2760,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2771,7 +2776,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2803,7 +2808,7 @@
       "Name": "Capelworth",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -2811,7 +2816,7 @@
       "Name": "Terbisia",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -2843,7 +2848,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2891,7 +2896,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -2915,7 +2920,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2947,7 +2952,7 @@
       "Name": "Ancient power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -2962,7 +2967,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2332,
+      "Progressed": 2333,
       "Completed": 1
     }
   ],
@@ -2970,8 +2975,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-12T13:11:42.7570919+00:00",
+  "LastChanged_Achievements": "2023-06-12T14:06:41.7216999+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:03:05.9622133+00:00",
-  "LastUpdate_Achievements": "2023-06-12T13:11:42.7571956+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:57:49.4460967+00:00",
+  "LastUpdate_Achievements": "2023-06-12T14:06:41.7217632+00:00"
 }

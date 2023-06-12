@@ -6,13 +6,13 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 79.00% | ~997 |
-| Lovebirds | 50.00% | ~631 |
+| Balding bloot! | 79.00% | ~998 |
+| Lovebirds | 50.00% | ~632 |
 | Life’s short, ride long | 45.00% | ~568 |
-| Hug therapy | 44.00% | ~555 |
+| Hug therapy | 44.00% | ~556 |
 | Over my dead body | 40.00% | ~505 |
 | Shake the rust off their feet | 21.00% | ~265 |
-| My little pony | 20.00% | ~252 |
+| My little pony | 20.00% | ~253 |
 | Strike! | 19.00% | ~240 |
 | A love supreme | 18.00% | ~227 |
 | In my shoes | 17.00% | ~215 |
@@ -20,8 +20,8 @@ Number of Ratings: 38  (23.09.2022)
 | Don't look back | 13.00% | ~164 |
 | Heartstrings | 13.00% | ~164 |
 | Head in the clouds | 13.00% | ~164 |
-| Back to rust | 12.00% | ~151 |
-| Flower Powered | 12.00% | ~151 |
+| Back to rust | 12.00% | ~152 |
+| Flower Powered | 12.00% | ~152 |
 | Perfect timing | 10.00% | ~126 |
 | Unstoppable | 10.00% | ~126 |
 | Self-sustainability | 8.00% | ~101 |
@@ -29,15 +29,15 @@ Number of Ratings: 38  (23.09.2022)
 | Can't get wetter... | 5.00% | ~63 |
 | Spring cleaning | 5.00% | ~63 |
 | An eye for an eye | 5.00% | ~63 |
-| Second thoughts | 4.00% | ~50 |
-| Mooning the moon | 4.00% | ~50 |
-| Strip-a-bobble | 4.00% | ~50 |
+| Second thoughts | 4.00% | ~51 |
+| Mooning the moon | 4.00% | ~51 |
+| Strip-a-bobble | 4.00% | ~51 |
 | Pearls before Birble | 3.00% | ~38 |
 | Last minute | 3.00% | ~38 |
 | Thar she blows | 2.00% | ~25 |
 | À la carte | 2.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,262 (Ranked 165)  
+Progressed: 1,263 (Ranked 165)  
 Completed: 9 (0.71%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 9 (0.71%) (Ranked 103)
 | 2023-06-09 | 1,240 | 8 |
 | 2023-06-10 | 1,250 | 9 |
 | 2023-06-11 | 1,258 | 9 |
-| 2023-06-12 | 1,262 | 9 |
+| 2023-06-12 | 1,263 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

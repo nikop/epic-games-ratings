@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~6,162 |
-| Battering Crew | 20.00% | ~3,081 |
-| The Kingsroad | 19.00% | ~2,927 |
-| Well Stocked | 14.00% | ~2,157 |
-| Royal Fleet | 14.00% | ~2,157 |
+| Conqueror | 40.00% | ~6,165 |
+| Battering Crew | 20.00% | ~3,082 |
+| The Kingsroad | 19.00% | ~2,928 |
+| Well Stocked | 14.00% | ~2,158 |
+| Royal Fleet | 14.00% | ~2,158 |
 | The Kraken’s Grasp | 10.00% | ~1,541 |
 | Alliance | 9.00% | ~1,387 |
-| Daggers in the Dark | 8.00% | ~1,232 |
-| Oathkeeper | 8.00% | ~1,232 |
-| Influential | 8.00% | ~1,232 |
-| A Long Journey | 8.00% | ~1,232 |
-| Ours is the Fury | 7.00% | ~1,078 |
-| We Do Not Sow | 7.00% | ~1,078 |
-| Winter is Coming | 7.00% | ~1,078 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~924 |
-| Hear me Roar! | 6.00% | ~924 |
-| Defender of the Wall | 6.00% | ~924 |
-| Growing Strong | 5.00% | ~770 |
+| Daggers in the Dark | 8.00% | ~1,233 |
+| Oathkeeper | 8.00% | ~1,233 |
+| Influential | 8.00% | ~1,233 |
+| A Long Journey | 8.00% | ~1,233 |
+| Ours is the Fury | 7.00% | ~1,079 |
+| We Do Not Sow | 7.00% | ~1,079 |
+| Winter is Coming | 7.00% | ~1,079 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~925 |
+| Hear me Roar! | 6.00% | ~925 |
+| Defender of the Wall | 6.00% | ~925 |
+| Growing Strong | 5.00% | ~771 |
 | What is Dead may Never Die | 3.00% | ~462 |
 | The Swift | 3.00% | ~462 |
 | King in the North | 2.00% | ~308 |
 | War of the Five Kings | 1.00% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,406 (Ranked 101)  
+Progressed: 15,412 (Ranked 101)  
 Completed: 32 (0.21%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 32 (0.21%) (Ranked 146)
 | 2023-06-09 | 15,105 | 32 |
 | 2023-06-10 | 15,236 | 32 |
 | 2023-06-11 | 15,364 | 32 |
-| 2023-06-12 | 15,406 | 32 |
+| 2023-06-12 | 15,412 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 305)  
 Sum: 782 (Ranked 253)  

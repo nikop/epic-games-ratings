@@ -8,11 +8,11 @@
 | Cartographer | 8.00% | ~53 |
 | Time Heals All Wounds | 8.00% | ~53 |
 | The Steel Shadow | 7.00% | ~46 |
+| Rail Rat | 7.00% | ~46 |
 | Make Up For Lost Time | 7.00% | ~46 |
 | The Prince in Heels | 7.00% | ~46 |
 | Immaculate Aim | 7.00% | ~46 |
 | The Mysterious Stranger | 6.00% | ~40 |
-| Rail Rat | 6.00% | ~40 |
 | Time Flies | 6.00% | ~40 |
 | The Harder They Fall | 6.00% | ~40 |
 | No, Thanks! | 6.00% | ~40 |
@@ -34,13 +34,13 @@
 | Chaincrawler Explorer | 4.00% | ~27 |
 | Family Memories | 4.00% | ~27 |
 | Whiz Kid | 4.00% | ~27 |
+| Sump Explorer | 4.00% | ~27 |
 | Ask Questions Later | 4.00% | ~27 |
 | Good Neighbor | 4.00% | ~27 |
 | Sartorialist | 3.00% | ~20 |
 | Entresol Explorer | 3.00% | ~20 |
 | Factorywood Explorer | 3.00% | ~20 |
 | Fairgrounds Explorer | 3.00% | ~20 |
-| Sump Explorer | 3.00% | ~20 |
 | Syron for Hope | 3.00% | ~20 |
 | Theater Explorer | 3.00% | ~20 |
 | Corin Goes Home | 2.00% | ~13 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -497,9 +497,9 @@
       "ID": "Achievement_KIA",
       "SetID": "c01p6e5",
       "Name": "KIA",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 164
     },
     {
       "ID": "Achievement_LastSupper",
@@ -658,8 +658,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-06-12T13:08:18.9342756+00:00",
+  "LastChanged_Achievements": "2023-06-12T14:03:30.6364935+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:13.4644914+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:04:32.6845532+00:00",
-  "LastUpdate_Achievements": "2023-06-12T13:08:18.9343394+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:59:22.5786179+00:00",
+  "LastUpdate_Achievements": "2023-06-12T14:03:30.6365503+00:00"
 }

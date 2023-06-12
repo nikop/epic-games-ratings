@@ -1428,18 +1428,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 3840,
       "NumberOfAwardsMax": 2321
+    },
+    {
+      "Time": "2023-06-12T14:00:25.9157804+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3844,
+      "NumberOfAwardsMax": 2325
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3840,
-  "NumberOfAwardsMax": 2321,
+  "NumberOfAwards": 3844,
+  "NumberOfAwardsMax": 2325,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2321
+      "Count": 2325
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1496,9 +1502,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64711,
+  "EOS_Progressed": 64716,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6041,6 +6047,11 @@
       "Time": "2023-06-12T13:11:53.3659648+00:00",
       "NumProgressed": 64711,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-12T14:06:52.2054818+00:00",
+      "NumProgressed": 64716,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6242,9 +6253,9 @@
       "ID": "DEFEAT_LOS_2",
       "SetID": "4eo5ebm",
       "Name": "The Man-Bat Family",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 129
     },
     {
       "ID": "DEFEAT_OC_1",
@@ -6539,22 +6550,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64711,
+      "Progressed": 64716,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34991,
+      "Progressed": 34996,
       "Completed": 2646
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-12T09:01:00.510468+00:00",
-  "LastChanged_Achievements": "2023-06-12T13:11:53.3659642+00:00",
+  "LastChanged": "2023-06-12T14:00:25.9157802+00:00",
+  "LastChanged_Achievements": "2023-06-12T14:06:52.2054814+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:05:32.7117939+00:00",
-  "LastUpdate_Achievements": "2023-06-12T13:11:53.3660527+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:00:25.9157808+00:00",
+  "LastUpdate_Achievements": "2023-06-12T14:06:52.2055654+00:00"
 }

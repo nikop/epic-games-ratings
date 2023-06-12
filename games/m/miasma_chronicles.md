@@ -33,8 +33,8 @@ Rating: 4.36 (Ranked 719)
 | Hold The Line | 19.00% | ~210 |
 | Endgame | 17.00% | ~188 |
 | Savior | 17.00% | ~188 |
+| Newtonian Knockout | 15.00% | ~165 |
 | The Watchers | 15.00% | ~165 |
-| Newtonian Knockout | 14.00% | ~154 |
 | Ruthless | 12.00% | ~132 |
 | Dr Jones | 11.00% | ~121 |
 | Chaos Theory | 10.00% | ~110 |

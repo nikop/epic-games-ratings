@@ -5,35 +5,35 @@ Rating: 4.52 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~812 |
-| Confirming Suspicions | 24.00% | ~650 |
+| Meeting Resistance | 30.00% | ~814 |
+| Confirming Suspicions | 24.00% | ~651 |
 | The Kraken Wakes | 20.00% | ~542 |
-| It's Starting to Crack | 17.00% | ~460 |
-| Lord of War | 15.00% | ~406 |
-| Change the Channel | 14.00% | ~379 |
-| Resourceful | 13.00% | ~352 |
+| It's Starting to Crack | 17.00% | ~461 |
+| Lord of War | 15.00% | ~407 |
+| Change the Channel | 14.00% | ~380 |
+| Resourceful | 13.00% | ~353 |
 | Taking it back | 12.00% | ~325 |
 | Organ Grinder | 11.00% | ~298 |
 | Target America | 11.00% | ~298 |
 | As Quiet as a Mouse | 10.00% | ~271 |
+| Liberté | 9.00% | ~244 |
 | The Kraken Sleeps | 9.00% | ~244 |
-| Liberté | 8.00% | ~217 |
 | Enemy at the Gates | 8.00% | ~217 |
 | Just a Flesh Wound | 8.00% | ~217 |
 | Gunslinger | 8.00% | ~217 |
 | Sharpshooter | 8.00% | ~217 |
 | Explosive Efficiency | 8.00% | ~217 |
 | Opposing Force | 7.00% | ~190 |
-| Fields of Glory | 6.00% | ~162 |
-| Die Nussknacker Sweet! | 6.00% | ~162 |
-| Der Geist | 6.00% | ~162 |
-| Close Quarters | 6.00% | ~162 |
-| Snake in the Grass | 6.00% | ~162 |
-| Brains of the Operation | 6.00% | ~162 |
-| Climbing the Ladder | 5.00% | ~135 |
-| No Stone Unturned | 5.00% | ~135 |
-| Skirmisher | 5.00% | ~135 |
-| Set Europe Ablaze | 5.00% | ~135 |
+| Die Nussknacker Sweet! | 6.00% | ~163 |
+| Der Geist | 6.00% | ~163 |
+| Close Quarters | 6.00% | ~163 |
+| Snake in the Grass | 6.00% | ~163 |
+| Brains of the Operation | 6.00% | ~163 |
+| Climbing the Ladder | 5.00% | ~136 |
+| No Stone Unturned | 5.00% | ~136 |
+| Fields of Glory | 5.00% | ~136 |
+| Skirmisher | 5.00% | ~136 |
+| Set Europe Ablaze | 5.00% | ~136 |
 | Precision Is Key | 4.00% | ~108 |
 | Rigged to Blow | 3.00% | ~81 |
 | My Little Friend | 3.00% | ~81 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 514)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,708 (Ranked 145)  
+Progressed: 2,712 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.07%) (Ranked 177)
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
-| 2023-06-12 | 2,708 | 2 |
+| 2023-06-12 | 2,712 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

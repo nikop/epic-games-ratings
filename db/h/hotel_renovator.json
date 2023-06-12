@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 813,
+  "EOS_Progressed": 814,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.85,
+  "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -704,6 +704,11 @@
       "Time": "2023-06-12T04:06:42.2529968+00:00",
       "NumProgressed": 813,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-12T14:06:42.9134471+00:00",
+      "NumProgressed": 814,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -723,7 +728,7 @@
       "Name": "King of hospitality",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -747,7 +752,7 @@
       "Name": "Kaboom",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -755,7 +760,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -769,9 +774,9 @@
       "ID": "ACH_ENGAGEMENT_RING",
       "SetID": "7k95e4n",
       "Name": "Broken heart",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -795,7 +800,7 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -803,7 +808,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -811,7 +816,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -819,7 +824,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -859,7 +864,7 @@
       "Name": "Unstoppable",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_STAR_1",
@@ -875,7 +880,7 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_STAR_3",
@@ -899,7 +904,7 @@
       "Name": "You\u0027re a star",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -915,7 +920,7 @@
       "Name": "Excellent service",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -923,14 +928,14 @@
       "Name": "I think you dropped this",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 813,
+      "Progressed": 814,
       "Completed": 15
     }
   ],
@@ -938,8 +943,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-06-12T13:11:44.0404181+00:00",
+  "LastChanged_Achievements": "2023-06-12T14:06:42.9134462+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:10.7192989+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:02:34.0208182+00:00",
-  "LastUpdate_Achievements": "2023-06-12T13:11:44.04044+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:57:16.5984027+00:00",
+  "LastUpdate_Achievements": "2023-06-12T14:06:42.9134711+00:00"
 }

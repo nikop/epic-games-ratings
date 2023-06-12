@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1138,10 +1138,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2114,
       "NumberOfAwardsMax": 236
+    },
+    {
+      "Time": "2023-06-12T13:59:26.0603818+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2115,
+      "NumberOfAwardsMax": 236
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2114,
+  "NumberOfAwards": 2115,
   "NumberOfAwardsMax": 236,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1191,7 +1197,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 211
+      "Count": 212
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1218,7 +1224,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22990,
+  "EOS_Progressed": 22991,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
@@ -5253,6 +5259,11 @@
       "Time": "2023-06-12T13:11:49.5973278+00:00",
       "NumProgressed": 22990,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-12T14:06:48.3645208+00:00",
+      "NumProgressed": 22991,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -5280,7 +5291,7 @@
       "Name": "Back Off",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 8276
+      "UsersEstimate": 8277
     },
     {
       "ID": "Best_Insurance",
@@ -5288,7 +5299,7 @@
       "Name": "We have the best insurance",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6207
+      "UsersEstimate": 6208
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -5336,7 +5347,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8046
+      "UsersEstimate": 8047
     },
     {
       "ID": "Diabolical",
@@ -5344,7 +5355,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "Discovery",
@@ -5384,7 +5395,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "Fragile_Panes",
@@ -5432,7 +5443,7 @@
       "Name": "Legions",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6207
+      "UsersEstimate": 6208
     },
     {
       "ID": "Liability",
@@ -5480,7 +5491,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "Reckless",
@@ -5512,7 +5523,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "Rivalry",
@@ -5528,7 +5539,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "Side_Hustle",
@@ -5560,7 +5571,7 @@
       "Name": "Stunner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "Stylish",
@@ -5568,7 +5579,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19771
+      "UsersEstimate": 19772
     },
     {
       "ID": "Summoner",
@@ -5576,7 +5587,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6207
+      "UsersEstimate": 6208
     },
     {
       "ID": "Surprise",
@@ -5648,7 +5659,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 11265
+      "UsersEstimate": 11266
     },
     {
       "ID": "Welcome_Crew",
@@ -5671,16 +5682,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22990,
+      "Progressed": 22991,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-06-12T04:59:31.9169771+00:00",
-  "LastChanged_Achievements": "2023-06-12T13:11:49.5973273+00:00",
+  "LastChanged": "2023-06-12T13:59:26.0603817+00:00",
+  "LastChanged_Achievements": "2023-06-12T14:06:48.3645202+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:16.8585642+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:04:36.0978193+00:00",
-  "LastUpdate_Achievements": "2023-06-12T13:11:49.5974049+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:59:26.0603825+00:00",
+  "LastUpdate_Achievements": "2023-06-12T14:06:48.3645893+00:00"
 }

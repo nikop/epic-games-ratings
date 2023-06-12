@@ -6,54 +6,54 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 31.00% | ~16,846 |
-| Let There Be Light | 24.00% | ~13,042 |
-| Float Like a Butterfly | 23.00% | ~12,498 |
-| Nordic Walking | 18.00% | ~9,781 |
-| Bright Falls' Finest | 18.00% | ~9,781 |
-| Under a Thin Layer of Skin | 16.00% | ~8,695 |
-| Park Ranger | 13.00% | ~7,064 |
-| Paging Mr. Wake | 13.00% | ~7,064 |
-| Back! Back, I Say! | 12.00% | ~6,521 |
-| Finders Keepers | 12.00% | ~6,521 |
-| Damn Good Cup of Coffee | 11.00% | ~5,978 |
-| Wheels Within Wheels | 10.00% | ~5,434 |
-| They're Heeeeeere! | 10.00% | ~5,434 |
-| Sound and Fury | 10.00% | ~5,434 |
-| Missed by a Mile | 10.00% | ~5,434 |
-| Heavy Metal | 9.00% | ~4,891 |
-| Iron Horse | 9.00% | ~4,891 |
-| The Six-Gun Scribe | 9.00% | ~4,891 |
-| Collateral Carnage | 9.00% | ~4,891 |
-| Come One, Come All | 9.00% | ~4,891 |
-| Perchance to Dream | 8.00% | ~4,347 |
-| It's Not Just a Typewriter Brand | 8.00% | ~4,347 |
-| Thunder and Lightning | 8.00% | ~4,347 |
-| Two For the Price of One | 8.00% | ~4,347 |
-| A Friend in Need | 8.00% | ~1,425 |
-| Gatekeeper | 7.00% | ~3,804 |
-| The Lady of the Light | 7.00% | ~3,804 |
-| Energized! | 7.00% | ~3,804 |
-| Right of Way | 7.00% | ~3,804 |
-| What Light Through Yonder Window | 6.00% | ~3,260 |
+| Follow the Light | 31.00% | ~16,849 |
+| Let There Be Light | 24.00% | ~13,044 |
+| Float Like a Butterfly | 23.00% | ~12,501 |
+| Nordic Walking | 18.00% | ~9,783 |
+| Bright Falls' Finest | 18.00% | ~9,783 |
+| Under a Thin Layer of Skin | 16.00% | ~8,696 |
+| Park Ranger | 13.00% | ~7,066 |
+| Paging Mr. Wake | 13.00% | ~7,066 |
+| Back! Back, I Say! | 12.00% | ~6,522 |
+| Finders Keepers | 12.00% | ~6,522 |
+| Sound and Fury | 11.00% | ~5,979 |
+| Damn Good Cup of Coffee | 11.00% | ~5,979 |
+| Wheels Within Wheels | 10.00% | ~5,435 |
+| They're Heeeeeere! | 10.00% | ~5,435 |
+| Missed by a Mile | 10.00% | ~5,435 |
+| Heavy Metal | 9.00% | ~4,892 |
+| Iron Horse | 9.00% | ~4,892 |
+| The Six-Gun Scribe | 9.00% | ~4,892 |
+| Collateral Carnage | 9.00% | ~4,892 |
+| Come One, Come All | 9.00% | ~4,892 |
+| Perchance to Dream | 8.00% | ~4,348 |
+| It's Not Just a Typewriter Brand | 8.00% | ~4,348 |
+| Thunder and Lightning | 8.00% | ~4,348 |
+| Two For the Price of One | 8.00% | ~4,348 |
+| A Friend in Need | 8.00% | ~1,426 |
+| Gatekeeper | 7.00% | ~3,805 |
+| The Lady of the Light | 7.00% | ~3,805 |
+| Energized! | 7.00% | ~3,805 |
+| Right of Way | 7.00% | ~3,805 |
+| What Light Through Yonder Window | 6.00% | ~3,261 |
 | A Friend Indeed | 6.00% | ~1,069 |
-| Tornado Wrangler | 5.00% | ~2,717 |
-| Departure | 5.00% | ~2,717 |
-| Ding! | 5.00% | ~890 |
+| Tornado Wrangler | 5.00% | ~2,718 |
+| Departure | 5.00% | ~2,718 |
+| Ding! | 5.00% | ~891 |
 | Children of the Elder God | 4.00% | ~2,174 |
 | Drink 'Em Both Up | 4.00% | ~2,174 |
 | Hardboiled Writer | 4.00% | ~2,174 |
-| Boob Tube | 3.00% | ~1,630 |
-| If It Flies, It Burns | 3.00% | ~1,630 |
-| KBF-FM | 3.00% | ~1,630 |
-| Kill Your Darlings | 3.00% | ~534 |
-| Heartbreaker | 3.00% | ~534 |
+| Boob Tube | 3.00% | ~1,631 |
+| If It Flies, It Burns | 3.00% | ~1,631 |
+| KBF-FM | 3.00% | ~1,631 |
+| Kill Your Darlings | 3.00% | ~535 |
+| Heartbreaker | 3.00% | ~535 |
 | Medical Opinions | 2.00% | ~1,087 |
 | Taken Season | 2.00% | ~1,087 |
 | Carny | 2.00% | ~1,087 |
 | Iron Will | 2.00% | ~356 |
-| An Idyllic Small Town | 1.00% | ~543 |
-| Couch Potato | 1.00% | ~543 |
+| An Idyllic Small Town | 1.00% | ~544 |
+| Couch Potato | 1.00% | ~544 |
 | Go Gentle Into That Good Light | 1.00% | ~178 |
 | Words Will Never Harm You | 0.60% | ~107 |
 | Fast and Furious | 0.50% | ~89 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~54 |
 | No Punctuation | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,341 (Ranked 77)  
+Progressed: 54,351 (Ranked 77)  
 Completed: 51 (0.09%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 51 (0.09%) (Ranked 172)
 | 2023-06-09 | 53,327 | 50 |
 | 2023-06-10 | 53,762 | 50 |
 | 2023-06-11 | 54,193 | 51 |
-| 2023-06-12 | 54,341 | 51 |
+| 2023-06-12 | 54,351 | 51 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

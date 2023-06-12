@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1378,9 +1378,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 46
     },
     {
       "ID": "HexlockGift",
@@ -1562,9 +1562,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     },
     {
       "ID": "SyronGift",
@@ -1649,8 +1649,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-12T13:10:57.3942209+00:00",
+  "LastChanged_Achievements": "2023-06-12T14:05:55.0536613+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:05:08.5952282+00:00",
-  "LastUpdate_Achievements": "2023-06-12T13:10:57.3942853+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:00:00.7447514+00:00",
+  "LastUpdate_Achievements": "2023-06-12T14:05:55.0537152+00:00"
 }

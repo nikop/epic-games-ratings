@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 989,
+  "EOS_Progressed": 990,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 7.08,
+  "EOS_Completed_Percentage": 7.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2337,6 +2337,11 @@
       "Time": "2023-06-12T13:11:26.9269164+00:00",
       "NumProgressed": 989,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-06-12T14:06:25.5652759+00:00",
+      "NumProgressed": 990,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 50,
@@ -2348,7 +2353,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "10",
@@ -2380,7 +2385,7 @@
       "Name": "Extinct Again!",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "14",
@@ -2388,7 +2393,7 @@
       "Name": "Bird of Prey",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "15",
@@ -2396,7 +2401,7 @@
       "Name": "Pull the Plug",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "16",
@@ -2404,7 +2409,7 @@
       "Name": "Soul Slayer",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "17",
@@ -2420,7 +2425,7 @@
       "Name": "Surprise!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "19",
@@ -2428,7 +2433,7 @@
       "Name": "A Grand Visit",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "2",
@@ -2436,7 +2441,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "20",
@@ -2444,7 +2449,7 @@
       "Name": "Stardust",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "21",
@@ -2460,7 +2465,7 @@
       "Name": "Heartbreaker",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "23",
@@ -2468,7 +2473,7 @@
       "Name": "All Heart",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "24",
@@ -2476,7 +2481,7 @@
       "Name": "Kidnapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "25",
@@ -2484,7 +2489,7 @@
       "Name": "Trick Question!",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "26",
@@ -2524,7 +2529,7 @@
       "Name": "Vibing",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "30",
@@ -2596,7 +2601,7 @@
       "Name": "Max Level!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "39",
@@ -2612,7 +2617,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "40",
@@ -2636,7 +2641,7 @@
       "Name": "Shopping Spree!",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "43",
@@ -2644,7 +2649,7 @@
       "Name": "An Actor!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "44",
@@ -2668,7 +2673,7 @@
       "Name": "Flower Power",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "47",
@@ -2692,7 +2697,7 @@
       "Name": "Final Showdown",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "5",
@@ -2722,9 +2727,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 614
     },
     {
       "ID": "8",
@@ -2732,7 +2737,7 @@
       "Name": "Tragic Brave",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "9",
@@ -2740,14 +2745,14 @@
       "Name": "Curtain Call",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 989,
+      "Progressed": 990,
       "Completed": 70
     }
   ],
@@ -2755,8 +2760,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-12T13:11:26.9269161+00:00",
+  "LastChanged_Achievements": "2023-06-12T14:06:25.5652756+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:02:53.1705333+00:00",
-  "LastUpdate_Achievements": "2023-06-12T13:11:26.9269822+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:57:37.3460522+00:00",
+  "LastUpdate_Achievements": "2023-06-12T14:06:25.5653393+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 118,
   "Ranking_Popularity": 73,
-  "Ranking_PopularitySum": 85,
+  "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
     "PcReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -3605,10 +3605,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8714,
       "NumberOfAwardsMax": 4122
+    },
+    {
+      "Time": "2023-06-12T14:00:52.7890263+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8719,
+      "NumberOfAwardsMax": 4122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8714,
+  "NumberOfAwards": 8719,
   "NumberOfAwardsMax": 4122,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3622,7 +3628,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2519
+      "Count": 2524
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3696,8 +3702,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-06-12T07:00:28.3654208+00:00",
+  "LastChanged": "2023-06-12T14:00:52.7890261+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:38.4762878+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:05:58.230456+00:00",
-  "LastUpdate_Achievements": "2023-06-12T13:10:46.4025625+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:00:52.7890267+00:00",
+  "LastUpdate_Achievements": "2023-06-12T14:05:43.441758+00:00"
 }

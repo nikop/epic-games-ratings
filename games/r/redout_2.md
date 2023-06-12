@@ -1,7 +1,7 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.45 (Ranked 617)  
+Rating: 4.45 (Ranked 618)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,9 +15,9 @@ Rating: 4.45 (Ranked 617)
 | Suit up | 16.00% | ~162 |
 | Walked like an Egyptian | 15.00% | ~152 |
 | Ride in the rising sun | 15.00% | ~152 |
+| Rookie No-No More | 13.00% | ~132 |
 | Running at the speed of sound | 13.00% | ~132 |
 | Martian explorer | 12.00% | ~122 |
-| Rookie No-No More | 12.00% | ~122 |
 | To the core | 9.00% | ~91 |
 | Blurred photofinish | 9.00% | ~91 |
 | EZ game EZ life | 7.00% | ~71 |

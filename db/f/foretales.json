@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -151,9 +151,9 @@
       "ID": "chapter3",
       "SetID": "5bkacmp",
       "Name": "Is this the end?",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "darkAndStinky",
@@ -448,8 +448,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-06-12T13:11:49.8357006+00:00",
+  "LastChanged_Achievements": "2023-06-12T14:06:48.663563+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.4102894+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:06:22.9168021+00:00",
-  "LastUpdate_Achievements": "2023-06-12T13:11:49.8357378+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:01:18.5600924+00:00",
+  "LastUpdate_Achievements": "2023-06-12T14:06:48.663596+00:00"
 }
