@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 15,
+  "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 67,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 43,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 10.45,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 11.94,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -326,6 +326,11 @@
       "Time": "2023-06-12T03:19:35.8548027+00:00",
       "NumProgressed": 67,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-12T11:04:14.0082343+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 6,
@@ -335,9 +340,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 175,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -385,13 +390,13 @@
       "ID": "4ocea6d",
       "IsBase": true,
       "Progressed": 67,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-06-12T10:04:02.2747579+00:00",
+  "LastChanged_Achievements": "2023-06-12T11:04:14.0082338+00:00",
   "LastUpdate_AppInfo": "2023-06-08T09:57:08.8988878+00:00",
-  "LastUpdate_Ratings": "2023-06-12T09:57:23.4086665+00:00",
-  "LastUpdate_Achievements": "2023-06-12T10:04:02.2747743+00:00"
+  "LastUpdate_Ratings": "2023-06-12T10:57:22.0957816+00:00",
+  "LastUpdate_Achievements": "2023-06-12T11:04:14.0082419+00:00"
 }

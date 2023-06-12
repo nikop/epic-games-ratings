@@ -5,7 +5,7 @@ Rating: 4.51 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~809 |
+| Meeting Resistance | 30.00% | ~810 |
 | Confirming Suspicions | 24.00% | ~648 |
 | The Kraken Wakes | 20.00% | ~540 |
 | It's Starting to Crack | 17.00% | ~459 |
@@ -44,15 +44,15 @@ Rating: 4.51 (Ranked 528)
 | Locomotion Commotion | 1.00% | ~27 |
 | Road Rage | 1.00% | ~27 |
 | Don't hold your breath | 1.00% | ~27 |
-| Herr Today, Gone Tomorrow | 1.00% | ~26 |
-| Operation Foxley | 1.00% | ~26 |
+| Herr Today, Gone Tomorrow | 1.00% | ~27 |
+| Operation Foxley | 1.00% | ~27 |
 | Last Resort | 0.90% | ~24 |
 | Siegebreaker | 0.90% | ~24 |
 | Ghost of Falaise | 0.90% | ~24 |
 | Burn after reading | 0.70% | ~19 |
 | From Paris with Love | 0.60% | ~16 |
 | Souvenir hunter | 0.60% | ~16 |
-| Shoot for the Moon | 0.50% | ~13 |
+| Shoot for the Moon | 0.50% | ~14 |
 | If You Go Down To The Woods Today | 0.50% | ~13 |
 | Fight Another Day | 0.50% | ~13 |
 | Eagle Eyed | 0.40% | ~11 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 528)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,698 (Ranked 145)  
+Progressed: 2,701 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.07%) (Ranked 177)
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
-| 2023-06-12 | 2,698 | 2 |
+| 2023-06-12 | 2,701 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

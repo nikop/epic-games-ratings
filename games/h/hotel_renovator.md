@@ -12,10 +12,10 @@ Rating: 4.52 (Ranked 514)
 | Let there be light | 58.00% | ~472 |
 | I think you dropped this | 54.00% | ~439 |
 | Soulmate? | 52.00% | ~423 |
-| Excellent service | 47.00% | ~382 |
+| Excellent service | 48.00% | ~390 |
 | Roll with it | 45.00% | ~366 |
+| Humble beginnings | 43.00% | ~350 |
 | Love is in the air | 43.00% | ~350 |
-| Humble beginnings | 42.00% | ~341 |
 | Fine, I'll do it myself | 41.00% | ~333 |
 | Moving up | 40.00% | ~325 |
 | No need to call anyone | 38.00% | ~309 |

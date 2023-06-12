@@ -1653,9 +1653,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42755,
+  "EOS_Progressed": 42756,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3713,6 +3713,11 @@
       "Time": "2023-06-12T09:07:45.4215153+00:00",
       "NumProgressed": 42755,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-12T11:07:21.1848383+00:00",
+      "NumProgressed": 42756,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -3780,7 +3785,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11971
+      "UsersEstimate": 11972
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -3916,7 +3921,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26508
+      "UsersEstimate": 26509
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -3940,7 +3945,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18812
+      "UsersEstimate": 18813
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -3972,7 +3977,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20522
+      "UsersEstimate": 20523
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -3980,7 +3985,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 14964
+      "UsersEstimate": 14965
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -4012,7 +4017,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15819
+      "UsersEstimate": 15820
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -4052,7 +4057,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 29073
+      "UsersEstimate": 29074
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -4068,7 +4073,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12826
+      "UsersEstimate": 12827
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -4076,7 +4081,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19667
+      "UsersEstimate": 19668
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -4092,7 +4097,7 @@
       "Name": "Stand back boy!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19667
+      "UsersEstimate": 19668
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -4116,7 +4121,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18812
+      "UsersEstimate": 18813
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -4140,7 +4145,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7268
+      "UsersEstimate": 7269
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -4251,15 +4256,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42755,
+      "Progressed": 42756,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-11T18:59:30.1237826+00:00",
-  "LastChanged_Achievements": "2023-06-12T10:07:31.0206063+00:00",
+  "LastChanged_Achievements": "2023-06-12T11:07:21.1848378+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:18.0082179+00:00",
-  "LastUpdate_Ratings": "2023-06-12T10:01:08.4001618+00:00",
-  "LastUpdate_Achievements": "2023-06-12T10:07:31.0207326+00:00"
+  "LastUpdate_Ratings": "2023-06-12T11:00:31.2496364+00:00",
+  "LastUpdate_Achievements": "2023-06-12T11:07:21.1848946+00:00"
 }

@@ -628,9 +628,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6196,
+  "EOS_Progressed": 6197,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2608,6 +2608,11 @@
       "Time": "2023-06-12T10:03:38.6744421+00:00",
       "NumProgressed": 6196,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-12T11:04:01.8558712+00:00",
+      "NumProgressed": 6197,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -2635,7 +2640,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2912
+      "UsersEstimate": 2913
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -2699,7 +2704,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -2763,7 +2768,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -2931,7 +2936,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -2955,7 +2960,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -2978,7 +2983,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6196,
+      "Progressed": 6197,
       "Completed": 8
     }
   ],
@@ -2986,8 +2991,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-10T21:57:23.9166861+00:00",
-  "LastChanged_Achievements": "2023-06-12T10:03:38.6744412+00:00",
+  "LastChanged_Achievements": "2023-06-12T11:04:01.8558708+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-12T09:57:57.4077914+00:00",
-  "LastUpdate_Achievements": "2023-06-12T10:03:38.6745492+00:00"
+  "LastUpdate_Ratings": "2023-06-12T10:57:50.6414508+00:00",
+  "LastUpdate_Achievements": "2023-06-12T11:04:01.855908+00:00"
 }

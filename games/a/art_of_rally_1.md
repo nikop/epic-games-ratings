@@ -6,21 +6,21 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,711 |
-| keep it tidy | 77.00% | ~7,789 |
+| light attack | 96.00% | ~9,712 |
+| keep it tidy | 77.00% | ~7,790 |
 | podium | 72.00% | ~7,284 |
-| medium attack | 59.00% | ~5,968 |
-| brail | 56.00% | ~5,665 |
-| good drivers have dead flies on the side windows | 40.00% | ~4,046 |
-| grocery-getter | 39.00% | ~3,945 |
+| medium attack | 59.00% | ~5,969 |
+| brail | 56.00% | ~5,666 |
+| good drivers have dead flies on the side windows | 40.00% | ~4,047 |
+| grocery-getter | 39.00% | ~3,946 |
 | rwd only | 26.00% | ~2,630 |
 | food tour: pasta | 26.00% | ~2,630 |
-| to finish first, first you must finish | 21.00% | ~2,124 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,124 |
+| to finish first, first you must finish | 21.00% | ~2,125 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,125 |
 | autopilot | 20.00% | ~2,023 |
 | turbo | 20.00% | ~2,023 |
 | food tour: pretzel | 19.00% | ~1,922 |
-| bicycle race | 15.00% | ~1,517 |
+| bicycle race | 15.00% | ~1,518 |
 | car wash | 14.00% | ~1,416 |
 | monster | 14.00% | ~1,416 |
 | perkele | 13.00% | ~1,315 |
@@ -30,7 +30,7 @@ Number of Ratings: 56  (23.09.2022)
 | where is the stage? | 11.00% | ~1,113 |
 | maximum attack | 11.00% | ~1,113 |
 | espresso | 10.00% | ~1,012 |
-| parallel universe | 9.00% | ~910 |
+| parallel universe | 9.00% | ~911 |
 | samir | 8.00% | ~809 |
 | eurobeat | 7.00% | ~708 |
 | master of rally | 7.00% | ~708 |
@@ -42,15 +42,15 @@ Number of Ratings: 56  (23.09.2022)
 | group b | 5.00% | ~506 |
 | in like a lamb, out like a lion | 5.00% | ~506 |
 | if in doubt, flat out! | 5.00% | ~506 |
-| comfy seats | 3.00% | ~303 |
-| simulator | 3.00% | ~303 |
+| comfy seats | 3.00% | ~304 |
+| simulator | 3.00% | ~304 |
 | real roads, real fast | 2.00% | ~202 |
 | absolute drift | 0.90% | ~91 |
 | you're here for a good time, not a long time | 0.70% | ~71 |
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,116 (Ranked 111)  
+Progressed: 10,117 (Ranked 111)  
 Completed: 9 (0.09%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 9 (0.09%) (Ranked 172)
 | 2023-06-09 | 10,105 | 9 |
 | 2023-06-10 | 10,111 | 9 |
 | 2023-06-11 | 10,116 | 9 |
+| 2023-06-12 | 10,117 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

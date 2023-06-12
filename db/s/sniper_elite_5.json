@@ -296,7 +296,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2698,
+  "EOS_Progressed": 2701,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
@@ -3296,6 +3296,11 @@
       "Time": "2023-06-12T10:07:16.1940314+00:00",
       "NumProgressed": 2698,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-12T11:07:07.6072054+00:00",
+      "NumProgressed": 2701,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3387,7 +3392,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3707,7 +3712,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -3771,7 +3776,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -3779,7 +3784,7 @@
       "Name": "Operation Foxley",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -3874,13 +3879,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2649,
+      "Progressed": 2652,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2698,
+      "Progressed": 2701,
       "Completed": 2
     }
   ],
@@ -3888,8 +3893,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-12T10:07:16.1940306+00:00",
+  "LastChanged_Achievements": "2023-06-12T11:07:07.6072048+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-12T10:02:02.7527247+00:00",
-  "LastUpdate_Achievements": "2023-06-12T10:07:16.1941202+00:00"
+  "LastUpdate_Ratings": "2023-06-12T11:01:15.6492072+00:00",
+  "LastUpdate_Achievements": "2023-06-12T11:07:07.6072729+00:00"
 }

@@ -1041,7 +1041,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6381,
+  "EOS_Progressed": 6382,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
@@ -5426,6 +5426,11 @@
       "Time": "2023-06-12T10:03:04.5368018+00:00",
       "NumProgressed": 6381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T11:03:30.8124538+00:00",
+      "NumProgressed": 6382,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -5493,7 +5498,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "17",
@@ -5525,7 +5530,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "20",
@@ -5605,7 +5610,7 @@
       "Name": "Trader",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "3",
@@ -5661,7 +5666,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "36",
@@ -5683,9 +5688,9 @@
       "ID": "38",
       "SetID": "8idi9ml",
       "Name": "Aspiring Inventor",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2872
     },
     {
       "ID": "39",
@@ -5693,7 +5698,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "4",
@@ -5829,7 +5834,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "55",
@@ -5908,15 +5913,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6381,
+      "Progressed": 6382,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-11T15:59:33.0428948+00:00",
-  "LastChanged_Achievements": "2023-06-12T10:03:04.5368011+00:00",
+  "LastChanged_Achievements": "2023-06-12T11:03:30.8124534+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.8731017+00:00",
-  "LastUpdate_Ratings": "2023-06-12T10:01:18.6143233+00:00",
-  "LastUpdate_Achievements": "2023-06-12T10:03:04.5369792+00:00"
+  "LastUpdate_Ratings": "2023-06-12T11:00:40.1472655+00:00",
+  "LastUpdate_Achievements": "2023-06-12T11:03:30.812519+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
-  "Ranking_Rating": 752,
+  "Ranking_Rating": 758,
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 443,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.31,
   "NumberOfRatings": 874,
   "RatingHistory": [
     {
@@ -1421,10 +1421,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 2662,
       "NumberOfAwardsMax": 347
+    },
+    {
+      "Time": "2023-06-12T10:58:07.0622513+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 2663,
+      "NumberOfAwardsMax": 347
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2662,
+  "NumberOfAwards": 2663,
   "NumberOfAwardsMax": 347,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1462,7 +1468,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 277
+      "Count": 278
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1500,8 +1506,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2023-06-11T02:27:39.4441231+00:00",
+  "LastChanged": "2023-06-12T10:58:07.0622512+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.5761783+00:00",
-  "LastUpdate_Ratings": "2023-06-12T09:58:15.1814601+00:00",
-  "LastUpdate_Achievements": "2023-06-12T10:04:38.7620967+00:00"
+  "LastUpdate_Ratings": "2023-06-12T10:58:07.0622516+00:00",
+  "LastUpdate_Achievements": "2023-06-12T11:04:46.1213504+00:00"
 }

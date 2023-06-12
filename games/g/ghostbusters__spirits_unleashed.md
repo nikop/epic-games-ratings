@@ -26,9 +26,9 @@ Rating: 4.49 (Ranked 565)
 | Side Hustle | 28.00% | ~6,437 |
 | We have the best insurance | 27.00% | ~6,207 |
 | Legions | 27.00% | ~6,207 |
+| Right back at ya | 27.00% | ~6,207 |
 | Summoner | 27.00% | ~6,207 |
 | Pesky Jerks | 26.00% | ~5,977 |
-| Right back at ya | 26.00% | ~5,977 |
 | Stunner | 26.00% | ~5,977 |
 | Animated | 25.00% | ~5,747 |
 | Skilled | 25.00% | ~5,747 |

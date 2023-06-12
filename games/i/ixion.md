@@ -10,33 +10,33 @@ Rating: 4.57 (Ranked 441)
 | Sputnik 2049 | 14.00% | ~363 |
 | Without Breaking Some Eggs... | 13.00% | ~337 |
 | Space Society | 9.00% | ~234 |
+| A Thousand Strong | 9.00% | ~234 |
 | Ready for a New World | 9.00% | ~234 |
-| A Thousand Strong | 8.00% | ~208 |
+| Guy de Borderlands | 7.00% | ~182 |
 | Permanent Redesigns | 7.00% | ~182 |
 | Ain't Nobody Got Time for That | 7.00% | ~182 |
-| Guy de Borderlands | 6.00% | ~156 |
 | Fully Recycled | 6.00% | ~156 |
 | Breaking Protocol | 6.00% | ~156 |
 | The Ship of Theseus | 6.00% | ~156 |
 | Hope Seeker | 6.00% | ~156 |
 | A Hunk of Junk | 5.00% | ~130 |
 | Exceeding Capacity | 5.00% | ~130 |
+| Power Outage | 4.00% | ~104 |
 | Please Make it Stop! | 4.00% | ~104 |
 | Man's Best Friend | 3.00% | ~78 |
 | Sightseeing | 3.00% | ~78 |
-| Power Outage | 3.00% | ~78 |
 | Access Granted | 3.00% | ~78 |
 | Necessary Enhancement | 3.00% | ~78 |
 | Convenient Transport | 3.00% | ~78 |
 | From the Past | 3.00% | ~78 |
 | Oats | 2.00% | ~52 |
 | What They Hide From Us | 2.00% | ~52 |
+| ...  in a finite world | 2.00% | ~52 |
 | In Dolos We Trust | 2.00% | ~52 |
 | BRAWL! | 2.00% | ~52 |
 | All in Good Health | 2.00% | ~52 |
 | What the Ruins Teach Us | 2.00% | ~52 |
 | Mutual Loyalty | 1.00% | ~26 |
-| ...  in a finite world | 1.00% | ~26 |
 | Sustainable Energy | 1.00% | ~26 |
 | Praise the Hull! | 1.00% | ~26 |
 | Delivery! | 1.00% | ~26 |
