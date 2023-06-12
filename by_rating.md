@@ -32,7 +32,7 @@
 | 30 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 496 |
 | 30 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 139 | 293 |
 | 30 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 38 | 422 |
-| 30 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 695 | 158 |
+| 30 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 696 | 157 |
 | 30 | [GRIT](games/g/grit.md) | 4.86 | 0 | 496 |
 | 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 332 | 220 |
 | 30 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 96 | 333 |
@@ -148,7 +148,7 @@
 | 143 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 777 | 148 |
 | 143 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 616 | 168 |
 | 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,659 | 49 |
-| 143 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 32,791 | 14 |
+| 143 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 32,850 | 14 |
 | 143 | [Star Atlas](games/s/star_atlas.md) | 4.74 | 0 | 496 |
 | 143 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 496 |
 | 143 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 496 |
@@ -217,7 +217,7 @@
 | 194 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,346 | 71 |
 | 194 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,598 | 114 |
 | 194 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 496 |
-| 218 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 111,009 | 8 |
+| 218 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 111,070 | 8 |
 | 218 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 496 |
 | 218 | [Dead Space](games/d/dead_space.md) | 4.69 | 61 | 379 |
 | 218 | [House Flipper](games/h/house_flipper.md) | 4.69 | 296 | 229 |
@@ -295,7 +295,7 @@
 | 277 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 459 | 192 |
 | 277 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 496 |
 | 295 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 496 |
-| 295 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,680 | 66 |
+| 295 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,684 | 66 |
 | 295 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 166 | 281 |
 | 295 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 325 | 222 |
 | 295 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.65 | 761 | 151 |
@@ -491,7 +491,6 @@
 | 489 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,402 | 69 |
 | 489 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 437 |
 | 489 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,128 | 129 |
-| 489 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.54 | 0 | 496 |
 | 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 437 |
 | 489 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 345 |
 | 489 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 496 |
@@ -501,18 +500,19 @@
 | 489 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 295 | 230 |
 | 489 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.54 | 0 | 496 |
 | 489 | [VALORANT](games/v/valorant.md) | 4.54 | 56,410 | 11 |
-| 502 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 496 |
-| 502 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 496 |
-| 502 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,168 | 17 |
-| 502 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 141,459 | 7 |
-| 502 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 496 |
-| 502 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 496 |
-| 502 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 475 |
-| 502 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 341 |
-| 502 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.53 | 0 | 496 |
-| 502 | [UnMetal](games/u/unmetal.md) | 4.53 | 0 | 496 |
-| 502 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 338 |
-| 502 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 28 | 458 |
+| 501 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 496 |
+| 501 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 496 |
+| 501 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,177 | 17 |
+| 501 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 141,459 | 7 |
+| 501 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 496 |
+| 501 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 496 |
+| 501 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.53 | 0 | 496 |
+| 501 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 475 |
+| 501 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 341 |
+| 501 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.53 | 0 | 496 |
+| 501 | [UnMetal](games/u/unmetal.md) | 4.53 | 0 | 496 |
+| 501 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 338 |
+| 501 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 28 | 458 |
 | 514 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 21 | 485 |
 | 514 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 746 | 153 |
 | 514 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 28,334 | 16 |
