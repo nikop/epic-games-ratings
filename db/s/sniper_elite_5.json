@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 528,
+  "Ranking_Rating": 514,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 145,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -290,15 +290,21 @@
       "Rating": 4.51,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-12T12:00:24.1242656+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2701,
+  "EOS_Progressed": 2705,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3301,6 +3307,11 @@
       "Time": "2023-06-12T11:07:07.6072054+00:00",
       "NumProgressed": 2701,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-12T12:06:04.0112928+00:00",
+      "NumProgressed": 2705,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3376,7 +3387,7 @@
       "Name": "Organ Grinder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3392,7 +3403,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 812
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3480,7 +3491,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3518,9 +3529,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 379
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3536,7 +3547,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3560,7 +3571,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3624,7 +3635,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3648,7 +3659,7 @@
       "Name": "Change the Channel",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3680,7 +3691,7 @@
       "Name": "Taking it back",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3704,7 +3715,7 @@
       "Name": "Target America",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3879,22 +3890,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2652,
+      "Progressed": 2656,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2701,
+      "Progressed": 2705,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-12T11:07:07.6072048+00:00",
+  "LastChanged": "2023-06-12T12:00:24.1242654+00:00",
+  "LastChanged_Achievements": "2023-06-12T12:06:04.0112925+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-12T11:01:15.6492072+00:00",
-  "LastUpdate_Achievements": "2023-06-12T11:07:07.6072729+00:00"
+  "LastUpdate_Ratings": "2023-06-12T12:00:24.1242661+00:00",
+  "LastUpdate_Achievements": "2023-06-12T12:06:04.0113742+00:00"
 }

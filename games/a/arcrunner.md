@@ -12,15 +12,15 @@
 | Terminated II | 62.00% | ~239 |
 | The City | 48.00% | ~185 |
 | Challenge Mastered | 38.00% | ~146 |
-| Terminated III | 37.00% | ~142 |
-| Nanonic II | 30.00% | ~116 |
+| Terminated III | 38.00% | ~146 |
+| Nanonic II | 31.00% | ~119 |
 | Rookie | 28.00% | ~108 |
-| Supply Run | 21.00% | ~81 |
+| Supply Run | 22.00% | ~85 |
 | Nanonic III | 20.00% | ~77 |
 | Starship Docks | 19.00% | ~73 |
 | Cybernetic | 16.00% | ~62 |
 | The Bigger They Are | 14.00% | ~54 |
-| Up Close And Personal | 13.00% | ~50 |
+| Up Close And Personal | 14.00% | ~54 |
 | Eden Heights | 12.00% | ~46 |
 | Outer Core | 8.00% | ~31 |
 | Trickshot | 5.00% | ~19 |

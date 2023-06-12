@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,881 |
-| That's a Grand Army | 8.00% | ~4,338 |
-| That is mine! | 8.00% | ~4,338 |
-| Victorious! | 8.00% | ~4,338 |
-| Brothers in Arms | 6.00% | ~3,254 |
-| That's a Grand Navy | 6.00% | ~3,254 |
-| Seriously?! | 6.00% | ~3,254 |
-| For the Glory | 5.00% | ~2,712 |
-| Cold War | 4.00% | ~2,169 |
-| True Catholic | 4.00% | ~2,169 |
-| Defender of the Faith | 3.00% | ~1,627 |
-| It's all about the money | 3.00% | ~1,627 |
-| Respected | 3.00% | ~1,627 |
-| Truly Divine Ruler | 3.00% | ~1,627 |
+| Until death do us apart | 9.00% | ~4,883 |
+| That's a Grand Army | 8.00% | ~4,341 |
+| That is mine! | 8.00% | ~4,341 |
+| Victorious! | 8.00% | ~4,341 |
+| Brothers in Arms | 6.00% | ~3,255 |
+| That's a Grand Navy | 6.00% | ~3,255 |
+| Seriously?! | 6.00% | ~3,255 |
+| For the Glory | 5.00% | ~2,713 |
+| Cold War | 4.00% | ~2,170 |
+| True Catholic | 4.00% | ~2,170 |
+| Defender of the Faith | 3.00% | ~1,628 |
+| It's all about the money | 3.00% | ~1,628 |
+| Respected | 3.00% | ~1,628 |
+| Truly Divine Ruler | 3.00% | ~1,628 |
 | Agressive Expander | 2.00% | ~1,085 |
 | Blockader | 2.00% | ~1,085 |
 | Combined Arms | 2.00% | ~1,085 |
@@ -31,25 +31,25 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~1,085 |
 | The Princess is in this Castle | 2.00% | ~1,085 |
 | Total Control | 2.00% | ~1,085 |
-| All That's Thine Shall Be Mine | 1.00% | ~542 |
-| Azur semé de lis or | 1.00% | ~542 |
-| Bright Spark | 1.00% | ~542 |
-| City of Cities | 1.00% | ~542 |
-| Factionalism | 1.00% | ~542 |
-| A Golden Empire | 1.00% | ~542 |
-| The Five Colonies | 1.00% | ~542 |
-| This navy can take it all | 1.00% | ~542 |
+| All That's Thine Shall Be Mine | 1.00% | ~543 |
+| Azur semé de lis or | 1.00% | ~543 |
+| Bright Spark | 1.00% | ~543 |
+| City of Cities | 1.00% | ~543 |
+| Factionalism | 1.00% | ~543 |
+| A Golden Empire | 1.00% | ~543 |
+| The Five Colonies | 1.00% | ~543 |
+| This navy can take it all | 1.00% | ~543 |
 | The Emperors new clothes | 0.90% | ~488 |
 | Isn't this the way to India? | 0.90% | ~488 |
 | Market Control | 0.90% | ~488 |
 | Down Under | 0.80% | ~434 |
-| Trustworthy | 0.70% | ~380 |
-| All belongs to Mother Russia | 0.60% | ~325 |
-| At every continent | 0.60% | ~325 |
-| Early-Modern Warfare | 0.60% | ~325 |
-| Electable! | 0.60% | ~325 |
-| Populists in Government | 0.60% | ~325 |
-| Time Bandit | 0.60% | ~325 |
+| Trustworthy | 0.80% | ~434 |
+| All belongs to Mother Russia | 0.60% | ~326 |
+| At every continent | 0.60% | ~326 |
+| Early-Modern Warfare | 0.60% | ~326 |
+| Electable! | 0.60% | ~326 |
+| Populists in Government | 0.60% | ~326 |
+| Time Bandit | 0.60% | ~326 |
 | One Family to Rule them All | 0.50% | ~271 |
 | Ruina Imperii | 0.50% | ~271 |
 | The pen is mightier than the sword | 0.50% | ~271 |
@@ -82,17 +82,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Vasa or Wettin? | 0.30% | ~163 |
 | Wonderful | 0.30% | ~163 |
 | World Discoverer | 0.30% | ~163 |
-| A Protected Market | 0.20% | ~108 |
-| AAA Credit | 0.20% | ~108 |
-| An early Reich | 0.20% | ~108 |
-| Basileus | 0.20% | ~108 |
-| Fine Financials | 0.20% | ~108 |
-| A Fine Goosestep | 0.20% | ~108 |
-| Full House | 0.20% | ~108 |
-| Imperio español | 0.20% | ~108 |
-| Industrial Powerhouse | 0.20% | ~108 |
-| Magellan’s Voyage | 0.20% | ~108 |
-| We bled for this | 0.20% | ~108 |
+| A Protected Market | 0.20% | ~109 |
+| AAA Credit | 0.20% | ~109 |
+| An early Reich | 0.20% | ~109 |
+| Basileus | 0.20% | ~109 |
+| Fine Financials | 0.20% | ~109 |
+| A Fine Goosestep | 0.20% | ~109 |
+| Full House | 0.20% | ~109 |
+| Imperio español | 0.20% | ~109 |
+| Industrial Powerhouse | 0.20% | ~109 |
+| Magellan’s Voyage | 0.20% | ~109 |
+| We bled for this | 0.20% | ~109 |
 | The 52 Garhs | 0.10% | ~54 |
 | I don't like sand | 0.10% | ~54 |
 | A Blessed Nation | 0.10% | ~54 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,230 (Ranked 78)  
+Progressed: 54,258 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 52,837 | 0 |
 | 2023-06-10 | 53,460 | 0 |
 | 2023-06-11 | 54,074 | 0 |
-| 2023-06-12 | 54,230 | 0 |
+| 2023-06-12 | 54,258 | 0 |
 ## Awards
 Max (Educational): 5,381  (Ranked 61)  
 Sum: 44,443 (Ranked 27)  

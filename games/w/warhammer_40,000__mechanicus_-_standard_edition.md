@@ -5,14 +5,14 @@ Rating: 4.43 (Ranked 645)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,473 |
+| No aid from the Omnissiah | 25.00% | ~53,474 |
 | This is only the beginning | 19.00% | ~40,640 |
-| Knowledge is power | 12.00% | ~25,667 |
-| Power Ranger | 9.00% | ~19,250 |
-| Galvanic Rifle | 9.00% | ~19,250 |
-| Taser Goad | 9.00% | ~19,250 |
-| Radium Ready | 9.00% | ~19,250 |
-| Half a cog | 9.00% | ~19,250 |
+| Knowledge is power | 12.00% | ~25,668 |
+| Power Ranger | 9.00% | ~19,251 |
+| Galvanic Rifle | 9.00% | ~19,251 |
+| Taser Goad | 9.00% | ~19,251 |
+| Radium Ready | 9.00% | ~19,251 |
+| Half a cog | 9.00% | ~19,251 |
 | Watch them crumble | 6.00% | ~12,834 |
 | Competent Cohort | 4.00% | ~8,556 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,556 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 645)
 | Perma-live | 0.10% | ~214 |
 | Purge the Heretek | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,893 (Ranked 50)  
+Progressed: 213,897 (Ranked 50)  
 Completed: 3 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,17 +93,17 @@ Completed: 3 (0.00%) (Ranked 216)
 | 2023-06-09 | 213,572 | 3 |
 | 2023-06-10 | 213,699 | 3 |
 | 2023-06-11 | 213,845 | 3 |
-| 2023-06-12 | 213,893 | 3 |
+| 2023-06-12 | 213,897 | 3 |
 ## Awards
 Max (Highly Recommended): 279  (Ranked 233)  
-Sum: 2,106 (Ranked 185)  
+Sum: 2,107 (Ranked 185)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 279 |
 | This game has Quickly Understood Controls | 271 |
 | This game is Extremely Fun | 268 |
-| This game has Amazing Characters | 257 |
+| This game has Amazing Characters | 258 |
 | This game has Diverse Characters | 252 |
 | This game has Amazing Storytelling | 242 |
 | This game is Relaxing | 236 |
@@ -147,4 +147,4 @@ Diff (max vs sum): 48
 | 2023-06-04 | 4.43 | 278 | 2,103 |
 | 2023-06-07 | 4.43 | 278 | 2,104 |
 | 2023-06-10 | 4.43 | 279 | 2,105 |
-| 2023-06-12 | 4.43 | 279 | 2,106 |
+| 2023-06-12 | 4.43 | 279 | 2,107 |

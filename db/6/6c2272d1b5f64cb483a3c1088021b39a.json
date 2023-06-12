@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
@@ -1026,6 +1026,11 @@
       "Time": "2023-06-12T11:04:11.4101242+00:00",
       "NumProgressed": 449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T12:03:40.9703904+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1133,7 +1138,7 @@
       "Name": "Collector 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "collector_2",
@@ -1205,7 +1210,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "elemental_stones_2",
@@ -1229,7 +1234,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "elite_deck_2",
@@ -1421,7 +1426,7 @@
       "Name": "Punctual 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "punctual_2",
@@ -1469,7 +1474,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "soul_shards_2",
@@ -1564,14 +1569,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-12T11:04:11.4101238+00:00",
+  "LastChanged_Achievements": "2023-06-12T12:03:40.97039+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-12T10:57:23.873533+00:00",
-  "LastUpdate_Achievements": "2023-06-12T11:04:11.410177+00:00"
+  "LastUpdate_Ratings": "2023-06-12T11:57:13.5327887+00:00",
+  "LastUpdate_Achievements": "2023-06-12T12:03:40.9704581+00:00"
 }

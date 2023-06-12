@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 528,
+  "Ranking_Rating": 529,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 48,
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224495,
+  "EOS_Progressed": 224496,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5608,6 +5608,11 @@
       "Time": "2023-06-12T11:06:48.2699173+00:00",
       "NumProgressed": 224495,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-12T12:05:47.2903621+00:00",
+      "NumProgressed": 224496,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -5651,7 +5656,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24694
+      "UsersEstimate": 24695
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -5755,7 +5760,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71838
+      "UsersEstimate": 71839
     },
     {
       "ID": "NOBUNAGA",
@@ -5890,15 +5895,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 224495,
+      "Progressed": 224496,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-12T11:06:48.269917+00:00",
+  "LastChanged_Achievements": "2023-06-12T12:05:47.2903618+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.7588472+00:00",
-  "LastUpdate_Ratings": "2023-06-12T10:58:51.6759879+00:00",
-  "LastUpdate_Achievements": "2023-06-12T11:06:48.2699645+00:00"
+  "LastUpdate_Ratings": "2023-06-12T11:58:25.2654438+00:00",
+  "LastUpdate_Achievements": "2023-06-12T12:05:47.2904168+00:00"
 }

@@ -8,13 +8,13 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Imprint | 26.00% | ~153 |
 | Taste | 25.00% | ~147 |
-| The Hunt | 22.00% | ~129 |
-| Ravenous | 22.00% | ~129 |
+| The Hunt | 22.00% | ~130 |
+| Ravenous | 22.00% | ~130 |
 | Weeper | 20.00% | ~118 |
 | Devourer | 15.00% | ~88 |
-| Harmless | 13.00% | ~76 |
-| Silenced Whispers | 13.00% | ~76 |
-| Yank | 13.00% | ~76 |
+| Harmless | 13.00% | ~77 |
+| Silenced Whispers | 13.00% | ~77 |
+| Yank | 13.00% | ~77 |
 | Scion | 12.00% | ~21 |
 | Glare | 12.00% | ~21 |
 | Sharpened Vessel | 12.00% | ~71 |
@@ -46,10 +46,10 @@ Number of Ratings: 46  (23.09.2022)
 | Zygote | 2.00% | ~3 |
 | Generous | 2.00% | ~12 |
 | Skinmaker | 1.00% | ~6 |
-| Instruments | 0.90% | ~5 |
+| Instruments | 0.80% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 588 (Ranked 198)  
+Progressed: 589 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-08 | 579 | 0 |
 | 2023-06-10 | 582 | 0 |
 | 2023-06-11 | 587 | 0 |
-| 2023-06-12 | 588 | 0 |
+| 2023-06-12 | 589 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

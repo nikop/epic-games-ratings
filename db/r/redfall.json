@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1676,
+  "EOS_Progressed": 1677,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1836,6 +1836,11 @@
       "Time": "2023-06-12T05:04:05.4756686+00:00",
       "NumProgressed": 1676,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T12:03:41.8000974+00:00",
+      "NumProgressed": 1677,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1847,7 +1852,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "Achievement_002",
@@ -1895,7 +1900,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "Achievement_009",
@@ -1903,7 +1908,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "Achievement_010",
@@ -1911,7 +1916,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "Achievement_011",
@@ -1983,7 +1988,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "Achievement_020",
@@ -1999,7 +2004,7 @@
       "Name": "Radio Silence",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "Achievement_022",
@@ -2031,7 +2036,7 @@
       "Name": "Grounded",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "Achievement_026",
@@ -2053,9 +2058,9 @@
       "ID": "Achievement_028",
       "SetID": "6b34g18",
       "Name": "You Clean It Up",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 168
     },
     {
       "ID": "Achievement_029",
@@ -2071,7 +2076,7 @@
       "Name": "ICU",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "Achievement_031",
@@ -2079,7 +2084,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "Achievement_032",
@@ -2095,7 +2100,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "Achievement_034",
@@ -2367,14 +2372,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1676,
+      "Progressed": 1677,
       "Completed": 0
     }
   ],
@@ -2382,8 +2387,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-05T19:58:09.7958278+00:00",
-  "LastChanged_Achievements": "2023-06-12T11:04:12.4692282+00:00",
+  "LastChanged_Achievements": "2023-06-12T12:03:41.8000969+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:01.2776264+00:00",
-  "LastUpdate_Ratings": "2023-06-12T10:58:21.5523145+00:00",
-  "LastUpdate_Achievements": "2023-06-12T11:04:12.4692903+00:00"
+  "LastUpdate_Ratings": "2023-06-12T11:58:01.825337+00:00",
+  "LastUpdate_Achievements": "2023-06-12T12:03:41.8001768+00:00"
 }

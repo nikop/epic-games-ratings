@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34649,
+  "EOS_Progressed": 34650,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -5074,6 +5074,11 @@
       "Time": "2023-06-12T11:01:40.4665391+00:00",
       "NumProgressed": 34649,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-06-12T12:00:47.0454334+00:00",
+      "NumProgressed": 34650,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 44,
@@ -5125,7 +5130,7 @@
       "Name": "Ruse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3811
+      "UsersEstimate": 3812
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -5189,7 +5194,7 @@
       "Name": "The Lion\u2019s Den",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -5197,7 +5202,7 @@
       "Name": "Heart of Fire",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -5205,7 +5210,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 28066
+      "UsersEstimate": 28067
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -5309,7 +5314,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 19403
+      "UsersEstimate": 19404
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -5325,7 +5330,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 21829
+      "UsersEstimate": 21830
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -5333,7 +5338,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 9355
+      "UsersEstimate": 9356
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -5349,7 +5354,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 20789
+      "UsersEstimate": 20790
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -5357,7 +5362,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 23561
+      "UsersEstimate": 23562
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -5405,7 +5410,7 @@
       "Name": "Pilgrimage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2426
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -5413,7 +5418,7 @@
       "Name": "Forest Spirits",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -5429,14 +5434,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 18017
+      "UsersEstimate": 18018
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 34649,
+      "Progressed": 34650,
       "Completed": 170
     }
   ],
@@ -5444,8 +5449,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-06-12T11:01:40.4665386+00:00",
+  "LastChanged_Achievements": "2023-06-12T12:00:47.0454331+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.5887202+00:00",
-  "LastUpdate_Ratings": "2023-06-12T10:58:57.0888509+00:00",
-  "LastUpdate_Achievements": "2023-06-12T11:01:40.4665914+00:00"
+  "LastUpdate_Ratings": "2023-06-12T11:58:29.604823+00:00",
+  "LastUpdate_Achievements": "2023-06-12T12:00:47.045489+00:00"
 }

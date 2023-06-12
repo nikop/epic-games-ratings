@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 990,
+  "EOS_Progressed": 991,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -828,6 +828,11 @@
       "Time": "2023-06-12T10:07:14.9329137+00:00",
       "NumProgressed": 990,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T12:06:02.9447532+00:00",
+      "NumProgressed": 991,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -871,7 +876,7 @@
       "Name": "The First Step",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "06",
@@ -885,9 +890,9 @@
       "ID": "07",
       "SetID": "73ikgfc",
       "Name": "Monster Hunter",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 515
     },
     {
       "ID": "08",
@@ -967,7 +972,7 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "18",
@@ -975,7 +980,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "19",
@@ -1015,14 +1020,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 990,
+      "Progressed": 991,
       "Completed": 0
     }
   ],
@@ -1030,8 +1035,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-06-12T11:07:06.3185405+00:00",
+  "LastChanged_Achievements": "2023-06-12T12:06:02.9447527+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-12T11:00:23.4478659+00:00",
-  "LastUpdate_Achievements": "2023-06-12T11:07:06.3185585+00:00"
+  "LastUpdate_Ratings": "2023-06-12T11:59:39.4092082+00:00",
+  "LastUpdate_Achievements": "2023-06-12T12:06:02.9447732+00:00"
 }

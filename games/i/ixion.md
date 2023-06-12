@@ -6,9 +6,9 @@ Rating: 4.57 (Ranked 441)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 17.00% | ~441 |
-| Infinite Growth... | 14.00% | ~363 |
-| Sputnik 2049 | 14.00% | ~363 |
-| Without Breaking Some Eggs... | 13.00% | ~337 |
+| Infinite Growth... | 14.00% | ~364 |
+| Sputnik 2049 | 14.00% | ~364 |
+| Without Breaking Some Eggs... | 13.00% | ~338 |
 | Space Society | 9.00% | ~234 |
 | A Thousand Strong | 9.00% | ~234 |
 | Ready for a New World | 9.00% | ~234 |
@@ -43,8 +43,8 @@ Rating: 4.57 (Ranked 441)
 | Pedal to the Metal | 1.00% | ~26 |
 | Pulsar Disciple | 1.00% | ~26 |
 | Catastrophe Avoided | 0.90% | ~23 |
+| Space Greenhouse | 0.90% | ~23 |
 | You Had One Job... | 0.80% | ~21 |
-| Space Greenhouse | 0.80% | ~21 |
 | Help of the Forgotten Member | 0.80% | ~21 |
 | Tiqqun Contender | 0.70% | ~18 |
 | Tiqqun Unchained | 0.70% | ~18 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,596 (Ranked 147)  
+Progressed: 2,597 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 2,541 | 0 |
 | 2023-06-10 | 2,570 | 0 |
 | 2023-06-11 | 2,591 | 0 |
-| 2023-06-12 | 2,596 | 0 |
+| 2023-06-12 | 2,597 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

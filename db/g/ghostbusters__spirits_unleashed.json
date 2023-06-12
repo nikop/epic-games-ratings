@@ -1218,9 +1218,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22988,
+  "EOS_Progressed": 22989,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5243,6 +5243,11 @@
       "Time": "2023-06-12T09:07:38.1360753+00:00",
       "NumProgressed": 22988,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-12T12:06:10.1129287+00:00",
+      "NumProgressed": 22989,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -5254,7 +5259,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16781
+      "UsersEstimate": 16782
     },
     {
       "ID": "Animated",
@@ -5366,7 +5371,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14712
+      "UsersEstimate": 14713
     },
     {
       "ID": "Escape_Artist",
@@ -5390,7 +5395,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12643
+      "UsersEstimate": 12644
     },
     {
       "ID": "GB_In_Training",
@@ -5398,7 +5403,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 7126
+      "UsersEstimate": 7127
     },
     {
       "ID": "Ghost_Expert",
@@ -5414,7 +5419,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6896
+      "UsersEstimate": 6897
     },
     {
       "ID": "Legions",
@@ -5500,9 +5505,9 @@
       "ID": "Right_Back",
       "SetID": "819popo",
       "Name": "Right back at ya",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6207
+      "UsersEstimate": 5977
     },
     {
       "ID": "Rivalry",
@@ -5558,7 +5563,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19770
+      "UsersEstimate": 19771
     },
     {
       "ID": "Summoner",
@@ -5582,7 +5587,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 12643
+      "UsersEstimate": 12644
     },
     {
       "ID": "Teamwork",
@@ -5638,7 +5643,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 11264
+      "UsersEstimate": 11265
     },
     {
       "ID": "Welcome_Crew",
@@ -5661,7 +5666,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22988,
+      "Progressed": 22989,
       "Completed": 40
     }
   ],
@@ -5669,8 +5674,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-12T04:59:31.9169771+00:00",
-  "LastChanged_Achievements": "2023-06-12T11:07:14.7474471+00:00",
+  "LastChanged_Achievements": "2023-06-12T12:06:10.112928+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:16.8585642+00:00",
-  "LastUpdate_Ratings": "2023-06-12T10:59:33.6664476+00:00",
-  "LastUpdate_Achievements": "2023-06-12T11:07:14.7474996+00:00"
+  "LastUpdate_Ratings": "2023-06-12T11:58:59.1772561+00:00",
+  "LastUpdate_Achievements": "2023-06-12T12:06:10.1129968+00:00"
 }
