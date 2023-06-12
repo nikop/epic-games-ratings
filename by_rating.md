@@ -165,19 +165,19 @@
 | 156 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 496 |
 | 156 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 314 | 226 |
 | 156 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 496 |
+| 156 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 496 |
 | 156 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 353 |
 | 156 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 496 |
-| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 467 | 191 |
-| 168 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 496 |
-| 168 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 139 | 293 |
-| 168 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 419 |
-| 168 | [shapez](games/s/shapez.md) | 4.72 | 186 | 269 |
-| 168 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 496 |
-| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 496 |
-| 168 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 496 |
-| 168 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 496 |
-| 168 | [Timberborn](games/t/timberborn.md) | 4.72 | 124 | 304 |
-| 168 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 496 |
+| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 467 | 191 |
+| 169 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 496 |
+| 169 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 139 | 293 |
+| 169 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 419 |
+| 169 | [shapez](games/s/shapez.md) | 4.72 | 186 | 269 |
+| 169 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 496 |
+| 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 496 |
+| 169 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 496 |
+| 169 | [Timberborn](games/t/timberborn.md) | 4.72 | 124 | 304 |
+| 169 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 496 |
 | 179 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 496 |
 | 179 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 341 | 216 |
 | 179 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 496 |
@@ -553,7 +553,7 @@
 | 547 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 496 |
 | 547 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,788 | 13 |
 | 547 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 496 |
-| 547 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,427 | 94 |
+| 547 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,431 | 94 |
 | 547 | [Horace](games/h/horace.md) | 4.50 | 0 | 496 |
 | 547 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.50 | 0 | 496 |
 | 547 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 328 |

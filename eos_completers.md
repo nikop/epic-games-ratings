@@ -24,10 +24,10 @@
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 22 | [Remains](games/r/remains.md) | 7.69% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.56% |
-| 25 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 7.14% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.97% |
-| 28 | [Scorn](games/s/scorn.md) | 6.74% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.97% |
+| 27 | [Scorn](games/s/scorn.md) | 6.78% |
+| 28 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.67% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.58% |
@@ -102,8 +102,8 @@
 | 100 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.75% |
 | 100 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 102 | [Them and Us](games/t/them_and_us.md) | 0.73% |
-| 103 | [Haven](games/h/haven.md) | 0.72% |
-| 104 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.71% |
+| 103 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.71% |
+| 103 | [Haven](games/h/haven.md) | 0.71% |
 | 105 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.69% |
 | 105 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.69% |
 | 107 | [Train Valley](games/t/train_valley.md) | 0.67% |
