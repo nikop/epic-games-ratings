@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 496 |
 | 3 | [Rain World](games/r/rain_world.md) | 4.94 | 0 | 496 |
 | 4 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.92 | 20 | 492 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,480 | 115 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,482 | 115 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,109 | 89 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 496 |
 | 8 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 496 |
@@ -90,7 +90,7 @@
 | 81 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 496 |
 | 81 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 496 |
 | 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,454 | 117 |
-| 90 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 375 | 208 |
+| 90 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 379 | 207 |
 | 90 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 496 |
 | 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 621 | 166 |
 | 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,883 | 55 |
@@ -99,7 +99,7 @@
 | 90 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 310 |
 | 90 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 496 |
 | 90 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 496 |
-| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,212 | 37 |
+| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,221 | 36 |
 | 100 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 496 |
 | 100 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 726 | 156 |
 | 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,304 | 98 |
@@ -261,7 +261,7 @@
 | 257 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 496 |
 | 257 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 72 | 362 |
 | 257 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 496 |
-| 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 552 | 178 |
+| 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 555 | 177 |
 | 257 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.67 | 0 | 496 |
 | 257 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.67 | 0 | 496 |
 | 257 | [High On Life](games/h/high_on_life.md) | 4.67 | 0 | 496 |
@@ -363,7 +363,7 @@
 | 358 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,217 | 72 |
 | 358 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 496 |
 | 358 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 214 | 255 |
-| 358 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 377 | 207 |
+| 358 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 377 | 208 |
 | 358 | [Darkwood](games/d/darkwood.md) | 4.61 | 320 | 224 |
 | 358 | [DOOM 3](games/d/doom_3.md) | 4.61 | 65 | 374 |
 | 358 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 51 | 389 |
@@ -375,7 +375,7 @@
 | 358 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,509 | 91 |
 | 358 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 626 | 164 |
 | 358 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 436 | 195 |
-| 358 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,214 | 36 |
+| 358 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,214 | 37 |
 | 358 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,062 | 133 |
 | 358 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 496 |
 | 358 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 271 | 237 |
@@ -605,7 +605,7 @@
 | 603 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 496 |
 | 603 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 496 |
 | 603 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 399 |
-| 603 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,352 | 81 |
+| 603 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,358 | 81 |
 | 603 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.46 | 0 | 496 |
 | 603 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 319 |
 | 603 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 496 |
@@ -751,7 +751,7 @@
 | 747 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 74 | 359 |
 | 747 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 496 |
 | 747 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 485 |
-| 752 | [Filament](games/f/filament.md) | 4.32 | 554 | 177 |
+| 752 | [Filament](games/f/filament.md) | 4.32 | 554 | 178 |
 | 752 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.32 | 0 | 496 |
 | 752 | [House Party](games/h/house_party.md) | 4.32 | 0 | 496 |
 | 752 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 455 |
@@ -920,12 +920,12 @@
 | 917 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 496 |
 | 919 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 324 |
 | 919 | [Warface](games/w/warface.md) | 3.91 | 394 | 205 |
-| 921 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.89 | 0 | 496 |
-| 922 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 496 |
-| 922 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 0 | 496 |
-| 924 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 496 |
-| 924 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 0 | 496 |
-| 926 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.83 | 0 | 496 |
+| 921 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 496 |
+| 921 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 0 | 496 |
+| 923 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 496 |
+| 923 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 0 | 496 |
+| 925 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.83 | 0 | 496 |
+| 925 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.83 | 0 | 496 |
 | 927 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 496 |
 | 928 | [Chainmonsters](games/c/chainmonsters.md) | 3.81 | 0 | 496 |
 | 928 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 66 | 371 |

@@ -35,8 +35,8 @@
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,267 | 4.69 | 218 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,519 | 4.45 | 617 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 9,722 | 4.88 | 19 |
-| 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,214 | 4.61 | 358 |
-| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,212 | 4.78 | 100 |
+| 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,221 | 4.78 | 100 |
+| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,214 | 4.61 | 358 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,588 | 4.76 | 118 |
 | 39 | [Control](games/c/control.md) | 8,332 | 4.60 | 385 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,692 | 4.58 | 422 |
@@ -80,7 +80,7 @@
 | 78 | [Days Gone](games/d/days_gone.md) | 3,817 | 4.68 | 238 |
 | 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,636 | 4.29 | 771 |
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,464 | 4.47 | 592 |
-| 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,352 | 4.46 | 603 |
+| 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,358 | 4.46 | 603 |
 | 82 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,330 | 4.68 | 238 |
 | 83 | [Paladins](games/p/paladins.md) | 3,298 | 4.34 | 737 |
 | 84 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,247 | 4.77 | 108 |
@@ -114,7 +114,7 @@
 | 112 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 1,614 | 4.47 | 592 |
 | 113 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,606 | 4.51 | 529 |
 | 114 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,591 | 4.70 | 194 |
-| 115 | [Celeste](games/c/celeste.md) | 1,480 | 4.92 | 4 |
+| 115 | [Celeste](games/c/celeste.md) | 1,482 | 4.92 | 4 |
 | 116 | [Ring of Pain](games/r/ring_of_pain.md) | 1,477 | 4.58 | 422 |
 | 117 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,454 | 4.79 | 90 |
 | 118 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,391 | 4.87 | 26 |
@@ -176,8 +176,8 @@
 | 174 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 569 | 4.73 | 156 |
 | 175 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 559 | 4.68 | 238 |
 | 176 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 556 | 4.39 | 694 |
-| 177 | [Filament](games/f/filament.md) | 554 | 4.32 | 752 |
-| 178 | [FAR CRY 4](games/f/far_cry_4.md) | 552 | 4.67 | 257 |
+| 177 | [FAR CRY 4](games/f/far_cry_4.md) | 555 | 4.67 | 257 |
+| 178 | [Filament](games/f/filament.md) | 554 | 4.32 | 752 |
 | 179 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 551 | 4.66 | 276 |
 | 180 | [Vampyr](games/v/vampyr.md) | 549 | 4.32 | 752 |
 | 181 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 544 | 4.62 | 345 |
@@ -206,8 +206,8 @@
 | 204 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 401 | 4.49 | 565 |
 | 205 | [Warface](games/w/warface.md) | 394 | 3.91 | 919 |
 | 206 | [Slime Rancher](games/s/slime_rancher.md) | 392 | 4.82 | 66 |
-| 207 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 377 | 4.61 | 358 |
-| 208 | [Dishonored 2](games/d/dishonored_2.md) | 375 | 4.79 | 90 |
+| 207 | [Dishonored 2](games/d/dishonored_2.md) | 379 | 4.79 | 90 |
+| 208 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 377 | 4.61 | 358 |
 | 209 | [For The King](games/f/for_the_king.md) | 370 | 4.70 | 194 |
 | 209 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 370 | 3.99 | 905 |
 | 209 | [Nuclear Throne](games/n/nuclear_throne.md) | 370 | 4.79 | 90 |
