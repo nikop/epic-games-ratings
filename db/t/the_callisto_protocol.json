@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -614,10 +614,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15133,
+  "EOS_Progressed": 15135,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 575,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 573,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
@@ -3694,6 +3694,11 @@
       "Time": "2023-06-12T19:04:37.6424282+00:00",
       "NumProgressed": 15133,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-12T20:04:55.1661669+00:00",
+      "NumProgressed": 15135,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3847,9 +3852,9 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1362
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3897,7 +3902,7 @@
       "Name": "The Outer Way",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3937,7 +3942,7 @@
       "Name": "Desperate Times",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4024,13 +4029,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15133,
+      "Progressed": 15135,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3059,
+      "Progressed": 3061,
       "Completed": 29
     }
   ],
@@ -4038,8 +4043,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T23:58:33.7302071+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:04:37.6424278+00:00",
+  "LastChanged_Achievements": "2023-06-12T20:04:55.1661663+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:58:09.1034318+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:04:37.6424679+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:58:18.6893216+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:04:55.1662232+00:00"
 }

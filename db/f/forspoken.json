@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38549,
+  "EOS_Progressed": 38550,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3654,6 +3654,11 @@
       "Time": "2023-06-12T19:06:39.4911201+00:00",
       "NumProgressed": 38549,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-12T20:06:59.6950886+00:00",
+      "NumProgressed": 38550,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -3713,7 +3718,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3469
+      "UsersEstimate": 3470
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -3761,7 +3766,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -3769,7 +3774,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -3777,7 +3782,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -3785,7 +3790,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -3817,7 +3822,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "CUFF_ATTACK",
@@ -3825,7 +3830,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -3881,7 +3886,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -3913,7 +3918,7 @@
       "Name": "Shocker",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -3961,7 +3966,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -4001,7 +4006,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3469
+      "UsersEstimate": 3470
     },
     {
       "ID": "SPRING_ALL",
@@ -4088,22 +4093,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38549,
+      "Progressed": 38550,
       "Completed": 2
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3386,
-      "Completed": 3386
+      "Progressed": 3387,
+      "Completed": 3387
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-06-10T21:58:21.201474+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:06:39.4911197+00:00",
+  "LastChanged_Achievements": "2023-06-12T20:06:59.6950878+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:46.8509231+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:58:47.2832908+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:06:39.4911726+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:58:58.6214135+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:06:59.6951814+00:00"
 }

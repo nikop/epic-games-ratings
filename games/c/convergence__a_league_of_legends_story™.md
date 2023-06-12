@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Cartographer | 9.00% | ~60 |
 | Time Heals All Wounds | 9.00% | ~60 |
-| Treasure Trove | 8.00% | ~53 |
+| Treasure Trove | 8.00% | ~54 |
 | The Steel Shadow | 7.00% | ~47 |
 | The Mysterious Stranger | 7.00% | ~47 |
 | Rail Rat | 7.00% | ~47 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668 (Ranked 190)  
+Progressed: 669 (Ranked 190)  
 Completed: 1 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,4 +83,4 @@ Completed: 1 (0.15%) (Ranked 157)
 | 2023-06-09 | 642 | 0 |
 | 2023-06-10 | 653 | 0 |
 | 2023-06-11 | 661 | 1 |
-| 2023-06-12 | 668 | 1 |
+| 2023-06-12 | 669 | 1 |

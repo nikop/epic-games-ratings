@@ -2,10 +2,10 @@
   "ID": "7e23872d64c54cb08e988a697bd03839",
   "Name": "The Spirit of the Samurai",
   "ProductSlug": "the-spirit-of-the-samurai-66e611",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-10T19:56:59.202288+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:57:04.450571+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:01:06.750726+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:57:07.9133042+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:01:22.9177741+00:00"
 }

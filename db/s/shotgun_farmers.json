@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -523,6 +523,11 @@
       "Time": "2023-06-12T17:03:54.6617478+00:00",
       "NumProgressed": 111,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T20:03:38.2140315+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -532,9 +537,9 @@
       "ID": "ach_all_ctf_points",
       "SetID": "cmg602e",
       "Name": "Bring Home The Bacon",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_all_points_in_chicken_run",
@@ -548,9 +553,9 @@
       "ID": "ach_crushed_by_supply_drop",
       "SetID": "cmg602e",
       "Name": "Fresh Pancake",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_daily_challenge_15",
@@ -590,15 +595,15 @@
       "Name": "Seeds of War",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -612,9 +617,9 @@
       "ID": "ach_hit_tree_with_shovel",
       "SetID": "cmg602e",
       "Name": "Getting Started",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_honk_horn",
@@ -820,9 +825,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -846,7 +851,7 @@
       "Name": "Triple Kill",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -924,9 +929,9 @@
       "ID": "ach_kill_self_with_pumpkin",
       "SetID": "bf10c8p",
       "Name": "Oh My Gourd",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_perfect",
@@ -990,7 +995,7 @@
       "Name": "Survivor",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_waves_10",
@@ -1006,7 +1011,7 @@
       "Name": "Amateur Survivor",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_waves_30",
@@ -1052,9 +1057,9 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -1068,9 +1073,9 @@
       "ID": "ach_x_victims_using_chillithrower",
       "SetID": "bf10c8p",
       "Name": "Pyromaniac",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_x_victims_using_double_barrel",
@@ -1092,9 +1097,9 @@
       "ID": "ach_x_victims_using_lmg",
       "SetID": "bf10c8p",
       "Name": "Summers Here",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_x_victims_using_pistol",
@@ -1108,15 +1113,15 @@
       "ID": "ach_x_victims_using_shovel",
       "SetID": "bf10c8p",
       "Name": "Grave Digger",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_y_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Quadsparagus",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 4
     }
@@ -1125,13 +1130,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 61,
+      "Progressed": 62,
       "Completed": 2
     }
   ],
@@ -1139,8 +1144,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:03:31.3593023+00:00",
+  "LastChanged_Achievements": "2023-06-12T20:03:38.2140308+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.5762228+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:58:36.6395979+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:03:31.3593624+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:58:47.6513063+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:03:38.2141134+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -258,9 +258,9 @@
       "ID": "mission_complete",
       "SetID": "84ad177",
       "Name": "Mission Complete",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "super_seducer",
@@ -331,8 +331,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:06:32.9280783+00:00",
+  "LastChanged_Achievements": "2023-06-12T20:06:53.0249435+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:23.6163439+00:00",
-  "LastUpdate_Ratings": "2023-06-12T19:00:19.9663882+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:06:32.928089+00:00"
+  "LastUpdate_Ratings": "2023-06-12T20:00:35.910045+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:06:53.0249601+00:00"
 }

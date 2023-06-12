@@ -20,7 +20,7 @@
 | Calory burner | 17.00% | ~35 |
 | Pacifist | 15.00% | ~31 |
 | Model | 15.00% | ~31 |
-| Snow digger | 13.00% | ~27 |
+| Snow digger | 14.00% | ~29 |
 | Hubworld fan | 11.00% | ~23 |
 | Fire extinguisher | 10.00% | ~20 |
 | Occult cataloger | 8.00% | ~16 |

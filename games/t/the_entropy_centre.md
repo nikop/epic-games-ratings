@@ -19,8 +19,8 @@
 | Running Boots | 12.00% | ~21 |
 | Archivist | 12.00% | ~21 |
 | Fashionista | 11.00% | ~19 |
+| Looper | 10.00% | ~17 |
 | Kaboom! | 9.00% | ~16 |
-| Looper | 9.00% | ~16 |
 | So Close | 8.00% | ~14 |
 | All Alone | 8.00% | ~14 |
 | Cataclysm | 8.00% | ~14 |

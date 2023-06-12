@@ -2,10 +2,10 @@
   "ID": "703100e4ec4746ff854e634572e6665e",
   "Name": "MADCAR F-1 Multiplayer",
   "ProductSlug": "madcar-f-multiplayer-65691b",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-09T19:00:00+00:00",
     "PcReleaseDate": "2023-06-09T19:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-10T14:56:55.1080056+00:00",
   "LastUpdate_AppInfo": "2023-06-09T06:57:08.9293817+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:57:06.9401605+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:03:11.9159933+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:57:10.4267746+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:03:18.2490197+00:00"
 }

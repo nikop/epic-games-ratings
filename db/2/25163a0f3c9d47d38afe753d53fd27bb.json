@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 447,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 6.94,
   "EosHistory": [
@@ -1288,33 +1288,33 @@
       "ID": "LEVEL_007",
       "SetID": "212bg48",
       "Name": "Animals in the farm",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 161
     },
     {
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 152
     },
     {
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 130
     },
     {
       "ID": "LEVEL_010",
       "SetID": "212bg48",
       "Name": "Rocks around the island",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_011",
@@ -1344,9 +1344,9 @@
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 85
     },
     {
       "ID": "LEVEL_015",
@@ -1487,8 +1487,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:04:27.483702+00:00",
+  "LastChanged_Achievements": "2023-06-12T20:04:45.5077789+00:00",
   "LastUpdate_AppInfo": "2023-06-12T15:56:50.8913307+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:57:18.5393463+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:04:27.4837248+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:57:24.0520343+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:04:45.5078148+00:00"
 }

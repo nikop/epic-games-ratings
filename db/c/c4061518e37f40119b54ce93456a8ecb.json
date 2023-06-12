@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
     "PcReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -64,9 +64,9 @@
       "ID": "ACH_AllRooms",
       "SetID": "aao9n96",
       "Name": "You call this archaeology?",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_AllWishes",
@@ -96,9 +96,9 @@
       "ID": "ACH_Bathroom",
       "SetID": "aao9n96",
       "Name": "He doesn\u0027t know how to use the three seashells",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_Beacon",
@@ -136,9 +136,9 @@
       "ID": "ACH_DarkRoom",
       "SetID": "aao9n96",
       "Name": "Let me risk a little more light",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_Disassemble",
@@ -168,17 +168,17 @@
       "ID": "ACH_Everett",
       "SetID": "aao9n96",
       "Name": "I KNOW HIM!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FirstWish",
       "SetID": "aao9n96",
       "Name": "As you wish",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FlawlessSecurity",
@@ -334,8 +334,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:04:46.2496556+00:00",
+  "LastChanged_Achievements": "2023-06-12T20:05:03.6871498+00:00",
   "LastUpdate_AppInfo": "2023-06-06T15:56:55.6615256+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:57:21.1935894+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:04:46.2496765+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:57:26.6025955+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:05:03.6871928+00:00"
 }

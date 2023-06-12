@@ -6,23 +6,23 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~435,162 |
-| The Three | 64.00% | ~335,547 |
-| The Banquet | 40.00% | ~209,717 |
-| Devara's Light | 30.00% | ~157,288 |
-| The Iron Ones | 18.00% | ~94,373 |
-| The Village | 16.00% | ~83,887 |
-| The Forest | 14.00% | ~73,401 |
-| Branded | 13.00% | ~68,158 |
-| The Imposter | 13.00% | ~68,158 |
-| The Keep | 13.00% | ~68,158 |
-| The Castle | 11.00% | ~57,672 |
-| The Dome | 9.00% | ~47,186 |
-| The Red Hall | 9.00% | ~47,186 |
-| The Sacrifice | 8.00% | ~41,943 |
-| The Cave | 7.00% | ~36,700 |
-| The Stone Roots | 7.00% | ~36,700 |
-| The Ziggurat | 7.00% | ~36,700 |
+| Find Sanctuary | 83.00% | ~435,168 |
+| The Three | 64.00% | ~335,551 |
+| The Banquet | 40.00% | ~209,720 |
+| Devara's Light | 30.00% | ~157,290 |
+| The Iron Ones | 18.00% | ~94,374 |
+| The Village | 16.00% | ~83,888 |
+| The Forest | 14.00% | ~73,402 |
+| Branded | 13.00% | ~68,159 |
+| The Imposter | 13.00% | ~68,159 |
+| The Keep | 13.00% | ~68,159 |
+| The Castle | 11.00% | ~57,673 |
+| The Dome | 9.00% | ~47,187 |
+| The Red Hall | 9.00% | ~47,187 |
+| The Sacrifice | 8.00% | ~41,944 |
+| The Cave | 7.00% | ~36,701 |
+| The Stone Roots | 7.00% | ~36,701 |
+| The Ziggurat | 7.00% | ~36,701 |
 | Storied | 6.00% | ~31,458 |
 | The Construct | 6.00% | ~31,458 |
 | The Mire | 6.00% | ~31,458 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,486 |
 | Fading Fast | 1.00% | ~5,243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,292 (Ranked 28)  
+Progressed: 524,299 (Ranked 28)  
 Completed: 1,446 (0.28%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,20 +97,20 @@ Completed: 1,446 (0.28%) (Ranked 137)
 | 2023-06-09 | 523,955 | 1,442 |
 | 2023-06-10 | 524,093 | 1,444 |
 | 2023-06-11 | 524,205 | 1,445 |
-| 2023-06-12 | 524,292 | 1,446 |
+| 2023-06-12 | 524,299 | 1,446 |
 ## Awards
 Max (Challenging Combat): 271  (Ranked 237)  
-Sum: 1,891 (Ranked 194)  
-Diff (max vs sum): 43  
+Sum: 1,893 (Ranked 193)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 271 |
 | This game has Quickly Understood Controls | 253 |
 | This game is Highly Recommended | 247 |
-| This game is Extremely Fun | 230 |
+| This game is Extremely Fun | 231 |
 | This game has Diverse Characters | 228 |
 | This game has Amazing Storytelling | 226 |
-| This game has Amazing Characters | 221 |
+| This game has Amazing Characters | 222 |
 | This game has Unique Visuals | 215 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
@@ -234,3 +234,4 @@ Diff (max vs sum): 43
 | 2023-06-08 | 4.61 | - | 271 | 1,889 |
 | 2023-06-10 | 4.61 | - | 271 | 1,890 |
 | 2023-06-11 | 4.61 | - | 271 | 1,891 |
+| 2023-06-12 | 4.61 | - | 271 | 1,893 |

@@ -2,10 +2,10 @@
   "ID": "8f18636e259a476493fe88d998ec45ed",
   "Name": "SHAFTED",
   "ProductSlug": "shafted-0a8b60",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2022-10-13T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T22:00:21.5788903+00:00",
-  "LastUpdate_Ratings": "2023-06-12T19:00:17.2203557+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:03:35.8482686+00:00"
+  "LastUpdate_Ratings": "2023-06-12T20:00:32.9248136+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:03:42.6858644+00:00"
 }

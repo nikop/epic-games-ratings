@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 668,
+  "EOS_Progressed": 669,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1224,6 +1224,11 @@
       "Time": "2023-06-12T19:05:51.7092511+00:00",
       "NumProgressed": 668,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T20:06:11.2753552+00:00",
+      "NumProgressed": 669,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1259,7 +1264,7 @@
       "Name": "Treasure Trove",
       "Percentage": 8,
       "XP": 75,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1658,14 +1663,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 668,
+      "Progressed": 669,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:05:51.7092502+00:00",
+  "LastChanged_Achievements": "2023-06-12T20:06:11.2753545+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:59:45.7514678+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:05:51.7092922+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:59:59.5912789+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:06:11.2754304+00:00"
 }

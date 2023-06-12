@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 81,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -255,9 +255,9 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement20",
@@ -344,8 +344,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:06:37.0454847+00:00",
+  "LastChanged_Achievements": "2023-06-12T20:06:57.2569729+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:46.0729891+00:00",
-  "LastUpdate_Ratings": "2023-06-12T19:00:40.1743024+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:06:37.0454977+00:00"
+  "LastUpdate_Ratings": "2023-06-12T20:00:56.0752773+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:06:57.2569913+00:00"
 }

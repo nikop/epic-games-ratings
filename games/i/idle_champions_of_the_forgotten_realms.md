@@ -10,8 +10,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 1.00% | ~906 |
 | The Cursed Farmer | 1.00% | ~906 |
 | The Mad Wizard | 1.00% | ~906 |
-| The Court of Storms | 0.90% | ~511 |
-| The Ring of Regeneration | 0.80% | ~724 |
+| The Court of Storms | 0.90% | ~512 |
+| The Ring of Regeneration | 0.80% | ~725 |
 | Beware the Jabberwock | 0.80% | ~455 |
 | Were-verpowered | 0.70% | ~634 |
 | Seeking Allies | 0.70% | ~634 |
@@ -40,24 +40,24 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.40% | ~362 |
 | Escort to Waterdeep | 0.40% | ~362 |
 | Waterdeep Detours | 0.40% | ~362 |
-| Tall Tales | 0.30% | ~170 |
-| Third Third Out | 0.30% | ~170 |
+| Tall Tales | 0.30% | ~171 |
+| Third Third Out | 0.30% | ~171 |
 | The Silken Swamp | 0.30% | ~272 |
 | Supply Run | 0.30% | ~272 |
-| Keep Your Distance | 0.30% | ~170 |
-| Hands Off! | 0.30% | ~170 |
-| The Dread Domain of Tovag | 0.30% | ~170 |
-| Frail Doesn't Mean Broken | 0.30% | ~170 |
-| The Castle of a Thousand Vecnas | 0.30% | ~170 |
-| Unreasonable Doesn't Mean Stupid | 0.30% | ~170 |
-| The Sanctum of the Sword | 0.30% | ~170 |
-| Get Back In The Castle | 0.30% | ~170 |
-| Pin and Skewer | 0.30% | ~170 |
-| Bully for Vecna | 0.30% | ~170 |
+| Keep Your Distance | 0.30% | ~171 |
+| Hands Off! | 0.30% | ~171 |
+| The Dread Domain of Tovag | 0.30% | ~171 |
+| Frail Doesn't Mean Broken | 0.30% | ~171 |
+| The Castle of a Thousand Vecnas | 0.30% | ~171 |
+| Unreasonable Doesn't Mean Stupid | 0.30% | ~171 |
+| The Sanctum of the Sword | 0.30% | ~171 |
+| Get Back In The Castle | 0.30% | ~171 |
+| Pin and Skewer | 0.30% | ~171 |
+| Bully for Vecna | 0.30% | ~171 |
 | Homecoming | 0.30% | ~272 |
 | The Lost Heir of Omu | 0.30% | ~272 |
-| No One Can Hear You Scream | 0.30% | ~170 |
-| Welcome to the Rock | 0.30% | ~170 |
+| No One Can Hear You Scream | 0.30% | ~171 |
+| Welcome to the Rock | 0.30% | ~171 |
 | The Forbidden City | 0.30% | ~272 |
 | Captured! | 0.30% | ~272 |
 | Street War | 0.30% | ~272 |
@@ -74,16 +74,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.30% | ~272 |
 | Flying Monkey Skulls of Doom | 0.30% | ~272 |
 | Dinosaur Racing | 0.30% | ~272 |
-| Hearts Aflame | 0.30% | ~170 |
-| Look Out! | 0.30% | ~170 |
-| Bad Odds in Avernus | 0.30% | ~170 |
-| An Even Worse Time in Avernus | 0.30% | ~170 |
+| Hearts Aflame | 0.30% | ~171 |
+| Look Out! | 0.30% | ~171 |
+| Bad Odds in Avernus | 0.30% | ~171 |
+| An Even Worse Time in Avernus | 0.30% | ~171 |
 | Close Escort | 0.30% | ~272 |
 | Constant Banditry | 0.30% | ~272 |
 | Underdeep Cartography | 0.30% | ~272 |
 | Overdue Rendezvous | 0.30% | ~272 |
-| Witty Riposting | 0.30% | ~170 |
-| How Far Away is Thay | 0.30% | ~170 |
+| Witty Riposting | 0.30% | ~171 |
+| How Far Away is Thay | 0.30% | ~171 |
 | The Templar's Camp | 0.30% | ~272 |
 | Rescue in the Jungle | 0.30% | ~272 |
 | Pros and CONs | 0.20% | ~181 |
@@ -163,6 +163,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.20% | ~114 |
 | Welcome to the Band | 0.20% | ~114 |
 | Periodic Petrification | 0.20% | ~181 |
+| No Good at All | 0.20% | ~181 |
 | Home Field Advantage | 0.20% | ~181 |
 | Double Vision | 0.20% | ~181 |
 | Force Grey Unleashed | 0.20% | ~181 |
@@ -350,7 +351,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Play's the Thing! | 0.10% | ~57 |
 | A Nimble Approach | 0.10% | ~57 |
 | The Egg of Nat's Desire | 0.10% | ~57 |
-| No Good at All | 0.10% | ~91 |
 | Fall From Grace | 0.10% | ~91 |
 | Underground Railroad | 0.10% | ~91 |
 | Never Split the Party | 0.10% | ~91 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,556 (Ranked 64)  
+Progressed: 90,563 (Ranked 64)  
 Completed: 1,930 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 1,930 (2.13%) (Ranked 65)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
-| 2023-06-12 | 90,556 | 1,930 |
+| 2023-06-12 | 90,563 | 1,930 |
 ## Awards
 Max (Diverse Characters): 4,934  (Ranked 64)  
 Sum: 30,084 (Ranked 37)  

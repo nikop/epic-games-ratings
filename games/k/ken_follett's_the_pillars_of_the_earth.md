@@ -6,21 +6,21 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,544 |
-| Man of politics | 35.00% | ~4,620 |
-| Friends of sorts | 34.00% | ~4,488 |
-| Yet another secret | 34.00% | ~4,488 |
-| Let there be darkness | 33.00% | ~4,356 |
-| End of Book One | 31.00% | ~4,092 |
-| Garden of Eden | 25.00% | ~3,300 |
-| Wannabe knight | 24.00% | ~3,168 |
-| Full house | 24.00% | ~3,168 |
-| Help an old friend | 22.00% | ~2,904 |
-| Two of us | 20.00% | ~2,640 |
-| Negotiation skills | 19.00% | ~2,508 |
-| Workers' union | 19.00% | ~2,508 |
-| End of Book Two | 18.00% | ~2,376 |
-| Everything's in order | 17.00% | ~2,244 |
+| Tattletale | 42.00% | ~5,545 |
+| Man of politics | 35.00% | ~4,621 |
+| Friends of sorts | 34.00% | ~4,489 |
+| Yet another secret | 34.00% | ~4,489 |
+| Let there be darkness | 33.00% | ~4,357 |
+| End of Book One | 31.00% | ~4,093 |
+| Garden of Eden | 25.00% | ~3,301 |
+| Wannabe knight | 24.00% | ~3,169 |
+| Full house | 24.00% | ~3,169 |
+| Help an old friend | 22.00% | ~2,905 |
+| Two of us | 20.00% | ~2,641 |
+| Negotiation skills | 19.00% | ~2,509 |
+| Workers' union | 19.00% | ~2,509 |
+| End of Book Two | 18.00% | ~2,377 |
+| Everything's in order | 17.00% | ~2,245 |
 | Jack was here! | 15.00% | ~1,980 |
 | Twist of Fate | 14.00% | ~1,848 |
 | Exterminator | 14.00% | ~1,848 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~396 |
 | Boy of mystery | 2.00% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,200 (Ranked 106)  
+Progressed: 13,203 (Ranked 106)  
 Completed: 100 (0.76%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 100 (0.76%) (Ranked 99)
 | 2023-06-09 | 13,111 | 99 |
 | 2023-06-10 | 13,143 | 99 |
 | 2023-06-11 | 13,175 | 99 |
-| 2023-06-12 | 13,200 | 100 |
+| 2023-06-12 | 13,203 | 100 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 290)  
 Sum: 188 (Ranked 359)  

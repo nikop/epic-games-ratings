@@ -2,10 +2,10 @@
   "ID": "2e404271085e4eb480f48c3d2e5f08ed",
   "Name": "Witchfire",
   "ProductSlug": "witchfire-db273e",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-20T00:00:00+00:00",
     "PcReleaseDate": "2023-09-20T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.4226491+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:57:39.998274+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:04:40.409804+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:57:47.6616168+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:04:57.9766154+00:00"
 }

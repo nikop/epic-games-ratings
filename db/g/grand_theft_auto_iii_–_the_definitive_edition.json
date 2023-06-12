@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6491,
+  "EOS_Progressed": 6492,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3849,6 +3849,11 @@
       "Time": "2023-06-12T18:03:45.8375718+00:00",
       "NumProgressed": 6491,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-12T20:04:22.5204326+00:00",
+      "NumProgressed": 6492,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 29,
@@ -3900,7 +3905,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACH07",
@@ -4004,7 +4009,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH20",
@@ -4091,7 +4096,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6491,
+      "Progressed": 6492,
       "Completed": 37
     }
   ],
@@ -4099,8 +4104,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-09T22:58:07.1863302+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:04:05.3118459+00:00",
+  "LastChanged_Achievements": "2023-06-12T20:04:22.520432+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:05.8018306+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:58:09.9382897+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:04:05.3118795+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:58:19.5793822+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:04:22.5204878+00:00"
 }

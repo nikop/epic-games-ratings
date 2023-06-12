@@ -39,6 +39,7 @@ Number of Ratings: 87  (23.09.2022)
 | Engineer | 2.00% | ~15 |
 | Industrial Age | 2.00% | ~15 |
 | Jewelry accuracy | 2.00% | ~15 |
+| Large construction | 2.00% | ~15 |
 | Living it large | 2.00% | ~15 |
 | Prick of conscience | 2.00% | ~15 |
 | Relocation | 2.00% | ~15 |
@@ -49,7 +50,6 @@ Number of Ratings: 87  (23.09.2022)
 | Environmental activist | 1.00% | ~7 |
 | Globalisation Age | 1.00% | ~7 |
 | Innovator | 1.00% | ~7 |
-| Large construction | 1.00% | ~7 |
 | Lucky vandal | 1.00% | ~7 |
 | Missed it! | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |

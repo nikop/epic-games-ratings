@@ -5,16 +5,16 @@ Rating: 4.15 (Ranked 860)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 9.00% | ~3,469 |
-| Unlocked Potential | 9.00% | ~3,469 |
-| Tinkerer | 7.00% | ~2,698 |
+| Attachments | 9.00% | ~3,470 |
+| Unlocked Potential | 9.00% | ~3,470 |
+| Tinkerer | 7.00% | ~2,699 |
 | Leapfrogger | 6.00% | ~2,313 |
 | Knock 'Em Dead | 6.00% | ~2,313 |
 | Pilgrimage: Initiate | 6.00% | ~2,313 |
 | Hell of a Run | 6.00% | ~2,313 |
 | Call of the Fount: Baptized | 6.00% | ~2,313 |
-| No Mercy | 5.00% | ~1,927 |
-| Explorer: Seeker | 5.00% | ~1,927 |
+| No Mercy | 5.00% | ~1,928 |
+| Explorer: Seeker | 5.00% | ~1,928 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,542 |
 | Stuck | 4.00% | ~1,542 |
 | Help Me Out Here | 4.00% | ~1,542 |
@@ -27,12 +27,12 @@ Rating: 4.15 (Ranked 860)
 | Damned If You Do... | 2.00% | ~771 |
 | Explorer: Pathfinder | 2.00% | ~771 |
 | From Every Angle | 2.00% | ~771 |
-| The Hue of Blue | 1.00% | ~385 |
-| The Truth Will Out | 1.00% | ~385 |
-| Breaking Point | 1.00% | ~385 |
-| None the Wiser | 1.00% | ~385 |
-| Shocker | 1.00% | ~385 |
-| Pilgrimage: Novice | 1.00% | ~385 |
+| The Hue of Blue | 1.00% | ~386 |
+| The Truth Will Out | 1.00% | ~386 |
+| Breaking Point | 1.00% | ~386 |
+| None the Wiser | 1.00% | ~386 |
+| Shocker | 1.00% | ~386 |
+| Pilgrimage: Novice | 1.00% | ~386 |
 | Forspoken | 0.90% | ~347 |
 | Wildfire | 0.70% | ~270 |
 | Awakening | 0.60% | ~231 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 860)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,549 (Ranked 85)  
+Progressed: 38,550 (Ranked 85)  
 Completed: 2 (0.01%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.01%) (Ranked 206)
 | 2023-06-09 | 38,488 | 2 |
 | 2023-06-10 | 38,511 | 2 |
 | 2023-06-11 | 38,532 | 2 |
-| 2023-06-12 | 38,549 | 2 |
+| 2023-06-12 | 38,550 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 455,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1046,6 +1046,11 @@
       "Time": "2023-06-12T18:03:27.4658963+00:00",
       "NumProgressed": 454,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T20:03:49.4981786+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1177,7 +1182,7 @@
       "Name": "Conqueror 1",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "conqueror_2",
@@ -1223,9 +1228,9 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 223
     },
     {
       "ID": "elemental_stones_2",
@@ -1584,14 +1589,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 455,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:03:42.5223236+00:00",
+  "LastChanged_Achievements": "2023-06-12T20:03:49.4981777+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:57:09.3616045+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:03:42.5223775+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:57:12.9082972+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:03:49.49825+00:00"
 }

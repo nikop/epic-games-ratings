@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2816,9 +2816,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9805,
+  "EOS_Progressed": 9809,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6366,6 +6366,11 @@
       "Time": "2023-06-12T19:06:47.4869847+00:00",
       "NumProgressed": 9805,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T20:07:07.7295234+00:00",
+      "NumProgressed": 9809,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6377,7 +6382,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "02_BurningCity",
@@ -6393,7 +6398,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "04_FithCrusade",
@@ -6513,7 +6518,7 @@
       "Name": "Mythic Choices",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "19_EqualToAroden",
@@ -6577,7 +6582,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "28_GreatUpstart",
@@ -6625,7 +6630,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -7304,21 +7309,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8587,
+      "Progressed": 8591,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9805,
+      "Progressed": 9809,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-12T17:58:31.0718208+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:06:47.4869843+00:00",
+  "LastChanged_Achievements": "2023-06-12T20:07:07.7295229+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:58:36.7768176+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:06:47.4871307+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:58:47.8081602+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:07:07.7297433+00:00"
 }

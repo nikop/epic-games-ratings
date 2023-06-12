@@ -2,13 +2,13 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 238,
+  "Ranking_Rating": 237,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -6450,10 +6450,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1342920,
       "NumberOfAwardsMax": 297739
+    },
+    {
+      "Time": "2023-06-12T19:59:21.1747979+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1342960,
+      "NumberOfAwardsMax": 297739
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1342920,
+  "NumberOfAwards": 1342960,
   "NumberOfAwardsMax": 297739,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6473,7 +6479,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 128920
+      "Count": 128945
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6515,7 +6521,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 109165
+      "Count": 109180
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -6535,8 +6541,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-06-12T14:58:33.2145778+00:00",
+  "LastChanged": "2023-06-12T19:59:21.1747977+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:08.9582221+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:59:08.5899297+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:04:38.3471061+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:59:21.1747983+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:04:55.879538+00:00"
 }

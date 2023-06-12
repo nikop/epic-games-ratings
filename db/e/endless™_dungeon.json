@@ -2,10 +2,10 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T22:00:45.4281339+00:00",
-  "LastUpdate_Ratings": "2023-06-12T19:00:39.3633711+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:05:50.8450314+00:00"
+  "LastUpdate_Ratings": "2023-06-12T20:00:55.2807198+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:06:10.3925076+00:00"
 }

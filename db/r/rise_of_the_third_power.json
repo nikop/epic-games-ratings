@@ -4,8 +4,8 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.1,
+  "EOS_Completed_Percentage": 3.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -86,6 +86,11 @@
       "Time": "2023-06-10T18:05:31.9223685+00:00",
       "NumProgressed": 129,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-12T20:06:39.6874082+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 21,
@@ -119,7 +124,7 @@
       "ID": "Bloodlust",
       "SetID": "4nce15l",
       "Name": "Bloodlust",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 72
     },
@@ -151,7 +156,7 @@
       "ID": "Feast",
       "SetID": "4nce15l",
       "Name": "Feast",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 55
     },
@@ -159,9 +164,9 @@
       "ID": "Geared",
       "SetID": "4nce15l",
       "Name": "Geared",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "GettingItDone",
@@ -169,7 +174,7 @@
       "Name": "Gettin\u0027 It Done",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "MasterCrafter",
@@ -177,7 +182,7 @@
       "Name": "Master Crafter",
       "Percentage": 12,
       "XP": 130,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MasterTrader",
@@ -185,7 +190,7 @@
       "Name": "Master Trader",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MysteriesOfRin",
@@ -193,7 +198,7 @@
       "Name": "Mysteries of Rin",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Opulent",
@@ -201,15 +206,15 @@
       "Name": "Opulent",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Overpowered",
       "SetID": "4nce15l",
       "Name": "Overpowered",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "Patience",
@@ -225,7 +230,7 @@
       "Name": "Ready to Rock",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SideJob",
@@ -239,9 +244,9 @@
       "ID": "Sparkly",
       "SetID": "4nce15l",
       "Name": "Sparkly",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "Specialist",
@@ -257,14 +262,14 @@
       "Name": "Teamwork",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 4
     }
   ],
@@ -272,8 +277,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:06:19.6339756+00:00",
+  "LastChanged_Achievements": "2023-06-12T20:06:39.6874074+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.4817304+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:59:19.1150462+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:06:19.6339866+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:59:32.474544+00:00",
+  "LastUpdate_Achievements": "2023-06-12T20:06:39.6874233+00:00"
 }

@@ -19,8 +19,8 @@
 | Her Eyes | 9.00% | ~39 |
 | Murderer | 8.00% | ~34 |
 | He's so Annoying | 7.00% | ~30 |
+| Gollum/Sméagol | 7.00% | ~30 |
 | Trigger-Happy | 7.00% | ~30 |
-| Gollum/Sméagol | 6.00% | ~26 |
 | The Friend | 5.00% | ~21 |
 | Master of the Old Game | 4.00% | ~17 |
 | So Silly! | 4.00% | ~17 |

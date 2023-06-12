@@ -1,27 +1,27 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 501)  
+Rating: 4.53 (Ranked 502)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~36,493 |
-| Worth it | 63.00% | ~29,858 |
-| Eagle Eye | 55.00% | ~26,067 |
-| Corpseman I | 40.00% | ~18,958 |
-| Blast fishing | 37.00% | ~17,536 |
-| Not alone | 32.00% | ~15,166 |
-| Headhunter I | 27.00% | ~12,796 |
-| Manual Labour I | 25.00% | ~11,848 |
-| Developers, Developers, Developers | 24.00% | ~11,375 |
-| Basic Training | 24.00% | ~11,375 |
-| Furchtlos und Treu | 13.00% | ~6,161 |
-| Gott Mit Uns | 12.00% | ~5,687 |
-| This We'll Defend! | 9.00% | ~4,265 |
-| Anker wirf! | 9.00% | ~4,265 |
-| Providentiea Memor | 9.00% | ~4,265 |
-| For King and Country | 9.00% | ~4,265 |
+| Setting an example | 77.00% | ~36,498 |
+| Worth it | 63.00% | ~29,862 |
+| Eagle Eye | 55.00% | ~26,070 |
+| Corpseman I | 40.00% | ~18,960 |
+| Blast fishing | 37.00% | ~17,538 |
+| Not alone | 32.00% | ~15,168 |
+| Headhunter I | 27.00% | ~12,798 |
+| Manual Labour I | 25.00% | ~11,850 |
+| Developers, Developers, Developers | 24.00% | ~11,376 |
+| Basic Training | 24.00% | ~11,376 |
+| Furchtlos und Treu | 13.00% | ~6,162 |
+| Gott Mit Uns | 12.00% | ~5,688 |
+| This We'll Defend! | 9.00% | ~4,266 |
+| Anker wirf! | 9.00% | ~4,266 |
+| Providentiea Memor | 9.00% | ~4,266 |
+| For King and Country | 9.00% | ~4,266 |
 | Battle hardened | 8.00% | ~3,792 |
 | Semper Fidelis! | 7.00% | ~3,318 |
 | Honneur et Patrie | 7.00% | ~3,318 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~47 |
 | Blood Brother | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,394 (Ranked 81)  
+Progressed: 47,400 (Ranked 81)  
 Completed: 4 (0.01%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 4 (0.01%) (Ranked 206)
 | 2023-06-09 | 47,009 | 4 |
 | 2023-06-10 | 47,141 | 4 |
 | 2023-06-11 | 47,287 | 4 |
-| 2023-06-12 | 47,394 | 4 |
+| 2023-06-12 | 47,400 | 4 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 338)  
 Sum: 744 (Ranked 256)  
