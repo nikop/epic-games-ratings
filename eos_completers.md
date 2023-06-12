@@ -116,8 +116,8 @@
 | 114 | [Potion Permit](games/p/potion_permit.md) | 0.50% |
 | 114 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 116 | [Aragami 2](games/a/aragami_2.md) | 0.49% |
-| 117 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
 | 117 | [Tails of Iron](games/t/tails_of_iron.md) | 0.48% |
+| 118 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 119 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 120 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 121 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.37% |

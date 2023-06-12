@@ -16,7 +16,7 @@
 | 14 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,380 | 44 |
 | 14 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 496 |
 | 14 | [Firework](games/f/firework.md) | 4.89 | 0 | 496 |
-| 14 | [RimWorld](games/r/rimworld.md) | 4.89 | 412 | 200 |
+| 14 | [RimWorld](games/r/rimworld.md) | 4.89 | 412 | 201 |
 | 14 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,810 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 298 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 259 | 240 |
@@ -385,7 +385,7 @@
 | 358 | [Wall World](games/w/wall_world.md) | 4.61 | 0 | 496 |
 | 358 | [Warframe](games/w/warframe.md) | 4.61 | 15,376 | 21 |
 | 385 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 0 | 496 |
-| 385 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,258 | 28 |
+| 385 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,280 | 28 |
 | 385 | [Control](games/c/control.md) | 4.60 | 8,332 | 39 |
 | 385 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 359 |
 | 385 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 37,917 | 12 |
@@ -666,13 +666,13 @@
 | 656 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 239 |
 | 656 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 133 | 299 |
 | 656 | [Tunche](games/t/tunche.md) | 4.42 | 20 | 492 |
-| 656 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,121 | 130 |
+| 656 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,123 | 130 |
 | 668 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 496 |
 | 668 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 496 |
 | 668 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 336 |
 | 668 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 0 | 496 |
 | 668 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 496 |
-| 668 | [MORDHAU](games/m/mordhau.md) | 4.41 | 250 | 242 |
+| 668 | [MORDHAU](games/m/mordhau.md) | 4.41 | 256 | 241 |
 | 668 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 496 |
 | 668 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 496 |
 | 668 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 32 | 442 |
@@ -688,7 +688,7 @@
 | 682 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 496 |
 | 682 | [Othercide](games/o/othercide.md) | 4.40 | 0 | 496 |
 | 682 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 496 |
-| 682 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 412 | 200 |
+| 682 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 413 | 199 |
 | 682 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 496 |
 | 682 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 496 |
 | 682 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 496 |
@@ -784,7 +784,7 @@
 | 779 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 277 |
 | 779 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.28 | 0 | 496 |
 | 784 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 496 |
-| 784 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,472 | 92 |
+| 784 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,475 | 92 |
 | 784 | [Steelrising](games/s/steelrising.md) | 4.27 | 36 | 428 |
 | 784 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 228 |
 | 788 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 496 |
