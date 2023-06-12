@@ -7,23 +7,23 @@
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 8 | [Island Cities](games/i/island_cities.md) | 15.38% |
+| 8 | [Island Cities](games/i/island_cities.md) | 15.34% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
-| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.43% |
+| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.27% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 10.53% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.38% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.70% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.16% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.15% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.57% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 7.06% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.94% |
 | 27 | [Scorn](games/s/scorn.md) | 6.77% |
@@ -32,7 +32,7 @@
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
+| 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.92% |
@@ -47,7 +47,7 @@
 | 45 | [ZZT!](games/z/zzt!.md) | 3.31% |
 | 46 | [The Complex](games/t/the_complex.md) | 3.28% |
 | 47 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.18% |
-| 48 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.10% |
+| 48 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.08% |
 | 49 | [The Bunker](games/t/the_bunker.md) | 2.97% |
 | 50 | [HordeCore](games/h/hordecore.md) | 2.95% |
 | 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
@@ -56,8 +56,8 @@
 | 54 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
 | 55 | [Lamentum](games/l/lamentum.md) | 2.76% |
 | 56 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 57 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.62% |
-| 58 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.60% |
+| 57 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.60% |
+| 57 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.60% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 61 | [Bloodshore](games/b/bloodshore.md) | 2.44% |
@@ -340,6 +340,7 @@
 | 216 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 0.00% |
 | 216 | [NHRA Championship Drag Racing - Speed For All](games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 0.00% |
 | 216 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 0.00% |
+| 216 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 0.00% |
 | 216 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 0.00% |
 | 216 | [One Hand Clapping](games/o/one_hand_clapping.md) | 0.00% |
 | 216 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.00% |

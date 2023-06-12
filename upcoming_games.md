@@ -25,6 +25,7 @@
 | [Dr. Fetus' Mean Meat Machine](games/d/dr._fetus'_mean_meat_machine.md) | 2023-06-22 | - |  | - | - |
 | [Vectoroids](games/e/e77f3dc66a514c68bd525d8f418c1be2.md) | 2023-06-23 | - |  | - | - |
 | [Bob A thousand lives - Enhanced Edition](games/b/bob_a_thousand_lives.md) | 2023-06-24 | - |  | - | - |
+| [One Lonely Outpost](games/o/one_lonely_outpost.md) | 2023-06-26 | - |  | - | - |
 | [SOULVARS](games/1/188fb42582e24d20b0a876ed817efd69.md) | 2023-06-26 | - |  | - | - |
 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 2023-06-28 | - |  | - | - |
 | [Your Computer Might Be At Risk](games/0/04db5160b1fa4fb9acd8f8603f65e12d.md) | 2023-06-28 | - |  | - | - |
@@ -294,7 +295,6 @@
 | [Night Loops](games/n/night_loops.md) | 2099-01-01 | - |  | - | - |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2099-01-01 | - |  | - | - |
 | [Nova Lands](games/n/nova_lands.md) | 2099-01-01 | - |  | - | - |
-| [One Lonely Outpost](games/o/one_lonely_outpost.md) | 2099-01-01 | - |  | - | - |
 | [One Military Camp](games/o/one_military_camp.md) | 2099-01-01 | - |  | - | - |
 | [Outbreak Island](games/o/outbreak_island.md) | 2099-01-01 | - |  | - | - |
 | [Paperplanes](games/p/paperplanes.md) | 2099-01-01 | - |  | - | - |
