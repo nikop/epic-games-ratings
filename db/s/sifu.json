@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4474,10 +4474,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10520,
       "NumberOfAwardsMax": 6165
+    },
+    {
+      "Time": "2023-06-12T13:04:42.3500501+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10522,
+      "NumberOfAwardsMax": 6165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10520,
+  "NumberOfAwards": 10522,
   "NumberOfAwardsMax": 6165,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4509,7 +4515,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 486
+      "Count": 488
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4554,10 +4560,10 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 708907,
-  "EOS_Completed": 12766,
-  "EOS_NewPlayers": 1400,
-  "EOS_NewCompleters": 8,
+  "EOS_Progressed": 708920,
+  "EOS_Completed": 12767,
+  "EOS_NewPlayers": 1405,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -9544,6 +9550,11 @@
       "Time": "2023-06-12T12:06:11.9417854+00:00",
       "NumProgressed": 708907,
       "NumCompleted": 12766
+    },
+    {
+      "Time": "2023-06-12T13:11:52.1151304+00:00",
+      "NumProgressed": 708920,
+      "NumCompleted": 12767
     }
   ],
   "TotalAchievements": 50,
@@ -9603,7 +9614,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4253
+      "UsersEstimate": 4254
     },
     {
       "ID": "08_Wude_H2",
@@ -9673,9 +9684,9 @@
       "ID": "16_Detective_H2",
       "SetID": "adcm20g",
       "Name": "Drunken Fighter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1418
+      "UsersEstimate": 2127
     },
     {
       "ID": "17_Detective_H3",
@@ -9891,7 +9902,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -9899,7 +9910,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9954,21 +9965,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18208,
+      "Progressed": 18221,
       "Completed": 10260
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708907,
-      "Completed": 12766
+      "Progressed": 708920,
+      "Completed": 12767
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-11T19:58:38.9031146+00:00",
-  "LastChanged_Achievements": "2023-06-12T12:06:11.9417849+00:00",
+  "LastChanged": "2023-06-12T13:04:42.3500498+00:00",
+  "LastChanged_Achievements": "2023-06-12T13:11:52.1151297+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-12T11:59:04.2251346+00:00",
-  "LastUpdate_Achievements": "2023-06-12T12:06:11.9418563+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:04:42.3500506+00:00",
+  "LastUpdate_Achievements": "2023-06-12T13:11:52.115202+00:00"
 }

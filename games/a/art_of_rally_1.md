@@ -6,12 +6,12 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,713 |
-| keep it tidy | 77.00% | ~7,791 |
-| podium | 72.00% | ~7,285 |
+| light attack | 96.00% | ~9,714 |
+| keep it tidy | 77.00% | ~7,792 |
+| podium | 72.00% | ~7,286 |
 | medium attack | 59.00% | ~5,970 |
-| brail | 56.00% | ~5,666 |
-| good drivers have dead flies on the side windows | 40.00% | ~4,047 |
+| brail | 56.00% | ~5,667 |
+| good drivers have dead flies on the side windows | 40.00% | ~4,048 |
 | grocery-getter | 39.00% | ~3,946 |
 | rwd only | 26.00% | ~2,631 |
 | food tour: pasta | 26.00% | ~2,631 |
@@ -19,7 +19,7 @@ Number of Ratings: 56  (23.09.2022)
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,125 |
 | autopilot | 20.00% | ~2,024 |
 | turbo | 20.00% | ~2,024 |
-| food tour: pretzel | 19.00% | ~1,922 |
+| food tour: pretzel | 19.00% | ~1,923 |
 | bicycle race | 15.00% | ~1,518 |
 | car wash | 14.00% | ~1,417 |
 | monster | 14.00% | ~1,417 |
@@ -31,7 +31,7 @@ Number of Ratings: 56  (23.09.2022)
 | maximum attack | 11.00% | ~1,113 |
 | espresso | 10.00% | ~1,012 |
 | parallel universe | 9.00% | ~911 |
-| samir | 8.00% | ~809 |
+| samir | 8.00% | ~810 |
 | eurobeat | 7.00% | ~708 |
 | master of rally | 7.00% | ~708 |
 | antilag | 7.00% | ~708 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,118 (Ranked 111)  
+Progressed: 10,119 (Ranked 111)  
 Completed: 9 (0.09%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 9 (0.09%) (Ranked 172)
 | 2023-06-09 | 10,105 | 9 |
 | 2023-06-10 | 10,111 | 9 |
 | 2023-06-11 | 10,116 | 9 |
-| 2023-06-12 | 10,118 | 9 |
+| 2023-06-12 | 10,119 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

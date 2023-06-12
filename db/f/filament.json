@@ -3,7 +3,7 @@
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 752,
-  "Ranking_Popularity": 177,
+  "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 141,
@@ -207,9 +207,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 193077,
+  "EOS_Progressed": 193083,
   "EOS_Completed": 436,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 796,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -5682,6 +5682,11 @@
       "Time": "2023-06-12T12:05:49.9743987+00:00",
       "NumProgressed": 193077,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2023-06-12T13:11:25.6281703+00:00",
+      "NumProgressed": 193083,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 29,
@@ -5717,7 +5722,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 181492
+      "UsersEstimate": 181498
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -5893,7 +5898,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13515
+      "UsersEstimate": 13516
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -5924,7 +5929,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 193077,
+      "Progressed": 193083,
       "Completed": 436
     }
   ],
@@ -5932,8 +5937,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-08T23:58:58.2054928+00:00",
-  "LastChanged_Achievements": "2023-06-12T12:05:49.9743982+00:00",
+  "LastChanged_Achievements": "2023-06-12T13:11:25.6281696+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:10.6376263+00:00",
-  "LastUpdate_Ratings": "2023-06-12T11:58:54.2222392+00:00",
-  "LastUpdate_Achievements": "2023-06-12T12:05:49.9744553+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:04:29.8016973+00:00",
+  "LastUpdate_Achievements": "2023-06-12T13:11:25.6282482+00:00"
 }

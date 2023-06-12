@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -179,9 +179,9 @@
       "ID": "ACH_11",
       "SetID": "2eg5kgc",
       "Name": "Hopes Rewarded",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_12",
@@ -499,8 +499,8 @@
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-06-12T12:03:37.6686049+00:00",
+  "LastChanged_Achievements": "2023-06-12T13:08:16.6560253+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:41.4932713+00:00",
-  "LastUpdate_Ratings": "2023-06-12T11:57:45.8123102+00:00",
-  "LastUpdate_Achievements": "2023-06-12T12:03:37.6686436+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:03:03.2907862+00:00",
+  "LastUpdate_Achievements": "2023-06-12T13:08:16.6560895+00:00"
 }

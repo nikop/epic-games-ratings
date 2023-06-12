@@ -3,8 +3,8 @@
   "Name": "Super Bit Blaster XL",
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_Completed": 39,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 133,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.79,
+  "EOS_Completed_Percentage": 3.76,
   "EosHistory": [
     {
       "Time": "2023-05-04T22:06:12.5880447+00:00",
@@ -616,6 +616,11 @@
       "Time": "2023-06-12T11:06:44.2377926+00:00",
       "NumProgressed": 132,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-12T13:11:18.1914982+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 17,
@@ -625,9 +630,9 @@
       "ID": "1.5 Million",
       "SetID": "1f269fc",
       "Name": "1.5 Million",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "10K",
@@ -651,7 +656,7 @@
       "Name": "1K",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "2.5K",
@@ -659,15 +664,15 @@
       "Name": "2.5K",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "25K",
       "SetID": "1f269fc",
       "Name": "25K",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 75,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "500K",
@@ -683,15 +688,15 @@
       "Name": "50K",
       "Percentage": 54,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "5K",
       "SetID": "1f269fc",
       "Name": "5K",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "75K",
@@ -699,13 +704,13 @@
       "Name": "75K",
       "Percentage": 47,
       "XP": 150,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Bit Blaster V2",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V2",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 20,
       "UsersEstimate": 51
     },
@@ -713,9 +718,9 @@
       "ID": "Bit Blaster V3",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V3",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Bit Blaster V4",
@@ -762,14 +767,14 @@
     {
       "ID": "1f269fc",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 133,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-06-12T12:05:43.9682925+00:00",
+  "LastChanged_Achievements": "2023-06-12T13:11:18.1914977+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.3101855+00:00",
-  "LastUpdate_Ratings": "2023-06-12T11:57:55.9498111+00:00",
-  "LastUpdate_Achievements": "2023-06-12T12:05:43.9683072+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:03:15.7770193+00:00",
+  "LastUpdate_Achievements": "2023-06-12T13:11:18.1915136+00:00"
 }

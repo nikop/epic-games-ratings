@@ -5,23 +5,23 @@ Rating: 4.59 (Ranked 408)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,250 |
-| Pay 'n' Spray | 49.00% | ~5,053 |
-| All Dressed Up for San Fierro | 23.00% | ~2,372 |
-| The American Dream | 17.00% | ~1,753 |
-| School's Out | 16.00% | ~1,650 |
-| Smooth Moves | 15.00% | ~1,547 |
-| Today Was a Good Day | 13.00% | ~1,341 |
-| What happens in Las Venturas... | 12.00% | ~1,237 |
-| Horror of the Santa Maria | 9.00% | ~928 |
+| Getting Started | 80.00% | ~8,256 |
+| Pay 'n' Spray | 49.00% | ~5,057 |
+| All Dressed Up for San Fierro | 23.00% | ~2,374 |
+| The American Dream | 17.00% | ~1,754 |
+| School's Out | 16.00% | ~1,651 |
+| Smooth Moves | 15.00% | ~1,548 |
+| Today Was a Good Day | 13.00% | ~1,342 |
+| What happens in Las Venturas... | 12.00% | ~1,238 |
+| Horror of the Santa Maria | 9.00% | ~929 |
 | Liberty City State of Mind | 7.00% | ~722 |
 | With Extra Dip | 6.00% | ~619 |
 | The End of the Line | 6.00% | ~619 |
 | Original Gangster | 6.00% | ~619 |
 | Saviour | 5.00% | ~516 |
-| Rescue a Kitten Too? | 4.00% | ~412 |
-| They Can’t Stop All of Us | 3.00% | ~309 |
-| What are the Odds | 3.00% | ~309 |
+| Rescue a Kitten Too? | 4.00% | ~413 |
+| They Can’t Stop All of Us | 3.00% | ~310 |
+| What are the Odds | 3.00% | ~310 |
 | I’ll Have Two Number 9s | 2.00% | ~206 |
 | Bike or Biker | 2.00% | ~206 |
 | What the City Needs | 2.00% | ~206 |
@@ -34,14 +34,14 @@ Rating: 4.59 (Ranked 408)
 | Assassin | 1.00% | ~103 |
 | Ain’t Nothing But a G Thing | 1.00% | ~103 |
 | Chick Magnet | 0.90% | ~93 |
-| Lucky Spinner | 0.80% | ~82 |
+| Lucky Spinner | 0.80% | ~83 |
 | Hoopin' it Up | 0.70% | ~72 |
 | Not a Player | 0.60% | ~62 |
 | Remastered | 0.40% | ~41 |
 | ...Here we go again | 0.20% | ~21 |
 | I Ain't No Buster | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,312 (Ranked 110)  
+Progressed: 10,320 (Ranked 110)  
 Completed: 17 (0.16%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 17 (0.16%) (Ranked 152)
 | 2023-06-09 | 10,052 | 17 |
 | 2023-06-10 | 10,174 | 17 |
 | 2023-06-11 | 10,282 | 17 |
-| 2023-06-12 | 10,312 | 17 |
+| 2023-06-12 | 10,320 | 17 |
 ## Awards
 Max (Great Boss Battles): 163  (Ranked 284)  
 Sum: 163 (Ranked 377)  

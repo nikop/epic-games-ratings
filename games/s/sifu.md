@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~728 |
-| Project Arena | 3.00% | ~546 |
+| Diligence as a goal | 4.00% | ~729 |
+| Project Arena | 3.00% | ~547 |
 | The Old Grandmaster | 1.00% | ~7,089 |
 | The Assault | 1.00% | ~7,089 |
 | The Hateful Pole Fighter | 1.00% | ~7,089 |
@@ -33,7 +33,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.70% | ~4,962 |
 | Qi Gong: Mind | 0.70% | ~4,962 |
 | I know Kung-Fu | 0.70% | ~4,962 |
-| Muk Yan Master | 0.60% | ~4,253 |
+| Muk Yan Master | 0.60% | ~4,254 |
 | Deadly Venom | 0.60% | ~109 |
 | A Touch of Acumen | 0.60% | ~109 |
 | Tiger on Fire | 0.50% | ~3,545 |
@@ -46,10 +46,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.40% | ~2,836 |
 | Martial Hub | 0.40% | ~73 |
 | Secure, Protect, Leave | 0.40% | ~73 |
+| Drunken Fighter | 0.30% | ~2,127 |
 | Martial Artist | 0.30% | ~2,127 |
 | Knowledge Greed | 0.30% | ~2,127 |
 | The Pit Protector | 0.30% | ~2,127 |
-| Drunken Fighter | 0.20% | ~1,418 |
 | Healing Memory | 0.20% | ~1,418 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,418 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,418 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.20% | ~1,418 |
 | Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,907 (Ranked 17)  
-Completed: 12,766 (1.80%) (Ranked 72)  
+Progressed: 708,920 (Ranked 17)  
+Completed: 12,767 (1.80%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,10 +110,10 @@ Completed: 12,766 (1.80%) (Ranked 72)
 | 2023-06-09 | 708,330 | 12,764 |
 | 2023-06-10 | 708,593 | 12,764 |
 | 2023-06-11 | 708,823 | 12,766 |
-| 2023-06-12 | 708,907 | 12,766 |
+| 2023-06-12 | 708,920 | 12,767 |
 ## Awards
 Max (Great Boss Battles): 6,165  (Ranked 52)  
-Sum: 10,520 (Ranked 78)  
+Sum: 10,522 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -123,8 +123,8 @@ Diff (max vs sum): -26
 | This game has Quickly Understood Controls | 512 |
 | This game is Extremely Fun | 503 |
 | This game has Amazing Storytelling | 501 |
+| This game has Amazing Characters | 488 |
 | This game is Highly Recommended | 488 |
-| This game has Amazing Characters | 486 |
 | This game has Unique Visuals | 463 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 355 |
@@ -278,3 +278,4 @@ Diff (max vs sum): -26
 | 2023-06-09 | 4.82 | - | 6,153 | 10,499 |
 | 2023-06-10 | 4.82 | - | 6,159 | 10,507 |
 | 2023-06-11 | 4.82 | - | 6,165 | 10,520 |
+| 2023-06-12 | 4.82 | - | 6,165 | 10,522 |

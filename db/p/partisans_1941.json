@@ -1222,9 +1222,9 @@
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 287
     },
     {
       "ID": "High_noon",
@@ -1342,8 +1342,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-12T12:06:04.6762358+00:00",
+  "LastChanged_Achievements": "2023-06-12T13:11:43.4230236+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:38.5405853+00:00",
-  "LastUpdate_Ratings": "2023-06-12T11:59:15.3027168+00:00",
-  "LastUpdate_Achievements": "2023-06-12T12:06:04.6762578+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:04:58.3547636+00:00",
+  "LastUpdate_Achievements": "2023-06-12T13:11:43.4230531+00:00"
 }

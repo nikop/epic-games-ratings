@@ -6,35 +6,35 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~84,536 |
-| Incurious | 14.00% | ~84,536 |
-| Climate Change | 13.00% | ~78,498 |
-| Stroller | 12.00% | ~72,460 |
-| Toy Train | 11.00% | ~66,421 |
-| Advanced Hiker | 10.00% | ~60,383 |
-| Hiker | 9.00% | ~54,345 |
-| Mojave Courier | 4.00% | ~24,153 |
-| Voyager | 3.00% | ~18,115 |
-| Advanced Voyager | 3.00% | ~18,115 |
-| Expert Stroller | 3.00% | ~18,115 |
-| Orient Express | 3.00% | ~18,115 |
-| Saved by Nausicaä | 3.00% | ~18,115 |
+| Advanced Stroller | 14.00% | ~84,541 |
+| Incurious | 14.00% | ~84,541 |
+| Climate Change | 13.00% | ~78,502 |
+| Stroller | 12.00% | ~72,463 |
+| Toy Train | 11.00% | ~66,425 |
+| Advanced Hiker | 10.00% | ~60,386 |
+| Hiker | 9.00% | ~54,348 |
+| Mojave Courier | 4.00% | ~24,154 |
+| Voyager | 3.00% | ~18,116 |
+| Advanced Voyager | 3.00% | ~18,116 |
+| Expert Stroller | 3.00% | ~18,116 |
+| Orient Express | 3.00% | ~18,116 |
+| Saved by Nausicaä | 3.00% | ~18,116 |
 | Expert Hiker | 2.00% | ~12,077 |
 | Marathon | 2.00% | ~12,077 |
 | Destructionist | 2.00% | ~12,077 |
-| Lost | 1.00% | ~6,038 |
+| Lost | 1.00% | ~6,039 |
 | Rocketman | 0.60% | ~3,623 |
 | Expert Voyager | 0.50% | ~3,019 |
 | Nanuk | 0.50% | ~3,019 |
 | Shopaholic | 0.50% | ~3,019 |
 | Terminal Station | 0.40% | ~2,415 |
-| Wayfarer | 0.30% | ~1,811 |
-| Advanced Wayfarer | 0.30% | ~1,811 |
-| Trans-Siberian Railway | 0.30% | ~1,811 |
-| Scrooge | 0.30% | ~1,811 |
-| Snowman's Land | 0.30% | ~1,811 |
-| Tough Nut! | 0.30% | ~1,811 |
-| Dynamite Fishing | 0.30% | ~1,811 |
+| Wayfarer | 0.30% | ~1,812 |
+| Advanced Wayfarer | 0.30% | ~1,812 |
+| Trans-Siberian Railway | 0.30% | ~1,812 |
+| Scrooge | 0.30% | ~1,812 |
+| Snowman's Land | 0.30% | ~1,812 |
+| Tough Nut! | 0.30% | ~1,812 |
+| Dynamite Fishing | 0.30% | ~1,812 |
 | Engineer | 0.20% | ~1,208 |
 | Satan's Minion | 0.20% | ~1,208 |
 | Explorer | 0.10% | ~604 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~604 |
 | 20 Miles under the Sea | 0.10% | ~604 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 603,830 (Ranked 23)  
+Progressed: 603,862 (Ranked 23)  
 Completed: 7 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 7 (0.00%) (Ranked 216)
 | 2023-06-09 | 602,192 | 7 |
 | 2023-06-10 | 602,946 | 7 |
 | 2023-06-11 | 603,631 | 7 |
-| 2023-06-12 | 603,830 | 7 |
+| 2023-06-12 | 603,862 | 7 |
 ## Awards
 Max (Diverse Characters): 188  (Ranked 268)  
 Sum: 1,519 (Ranked 211)  

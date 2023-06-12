@@ -6,24 +6,24 @@ Rating: 4.52 (Ranked 514)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 30.00% | ~812 |
-| Confirming Suspicions | 24.00% | ~649 |
-| The Kraken Wakes | 20.00% | ~541 |
+| Confirming Suspicions | 24.00% | ~650 |
+| The Kraken Wakes | 20.00% | ~542 |
 | It's Starting to Crack | 17.00% | ~460 |
-| Lord of War | 14.00% | ~379 |
+| Lord of War | 15.00% | ~406 |
 | Change the Channel | 14.00% | ~379 |
 | Resourceful | 13.00% | ~352 |
 | Taking it back | 12.00% | ~325 |
 | Organ Grinder | 11.00% | ~298 |
 | Target America | 11.00% | ~298 |
-| As Quiet as a Mouse | 10.00% | ~270 |
-| Liberté | 9.00% | ~243 |
-| The Kraken Sleeps | 9.00% | ~243 |
-| Enemy at the Gates | 8.00% | ~216 |
-| Just a Flesh Wound | 8.00% | ~216 |
-| Gunslinger | 8.00% | ~216 |
-| Sharpshooter | 8.00% | ~216 |
-| Explosive Efficiency | 8.00% | ~216 |
-| Opposing Force | 7.00% | ~189 |
+| As Quiet as a Mouse | 10.00% | ~271 |
+| The Kraken Sleeps | 9.00% | ~244 |
+| Liberté | 8.00% | ~217 |
+| Enemy at the Gates | 8.00% | ~217 |
+| Just a Flesh Wound | 8.00% | ~217 |
+| Gunslinger | 8.00% | ~217 |
+| Sharpshooter | 8.00% | ~217 |
+| Explosive Efficiency | 8.00% | ~217 |
+| Opposing Force | 7.00% | ~190 |
 | Fields of Glory | 6.00% | ~162 |
 | Die Nussknacker Sweet! | 6.00% | ~162 |
 | Der Geist | 6.00% | ~162 |
@@ -46,9 +46,9 @@ Rating: 4.52 (Ranked 514)
 | Don't hold your breath | 1.00% | ~27 |
 | Herr Today, Gone Tomorrow | 1.00% | ~27 |
 | Operation Foxley | 1.00% | ~27 |
-| Last Resort | 0.90% | ~24 |
-| Siegebreaker | 0.90% | ~24 |
 | Ghost of Falaise | 0.90% | ~24 |
+| Last Resort | 0.80% | ~21 |
+| Siegebreaker | 0.80% | ~21 |
 | Burn after reading | 0.70% | ~19 |
 | From Paris with Love | 0.60% | ~16 |
 | Souvenir hunter | 0.60% | ~16 |
@@ -58,11 +58,11 @@ Rating: 4.52 (Ranked 514)
 | Eagle Eyed | 0.40% | ~11 |
 | Up close and personal | 0.40% | ~11 |
 | Can't Outrun A Bullet | 0.40% | ~11 |
+| Sight Beyond Sights | 0.30% | ~8 |
 | Reich To The Point | 0.30% | ~8 |
 | Covert Elimination | 0.30% | ~8 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~5 |
-| Sight Beyond Sights | 0.20% | ~5 |
 | Führerious Repetition | 0.20% | ~5 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 514)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,705 (Ranked 145)  
+Progressed: 2,708 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.07%) (Ranked 177)
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
-| 2023-06-12 | 2,705 | 2 |
+| 2023-06-12 | 2,708 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

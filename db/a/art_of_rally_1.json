@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10118,
+  "EOS_Progressed": 10119,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -906,6 +906,11 @@
       "Time": "2023-06-12T12:05:51.2919094+00:00",
       "NumProgressed": 10118,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-12T13:11:27.1738973+00:00",
+      "NumProgressed": 10119,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1077,7 +1082,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7791
+      "UsersEstimate": 7792
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1125,7 +1130,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5666
+      "UsersEstimate": 5667
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1141,7 +1146,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9713
+      "UsersEstimate": 9714
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1205,7 +1210,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4047
+      "UsersEstimate": 4048
     },
     {
       "ID": "ACH_SNOW",
@@ -1221,7 +1226,7 @@
       "Name": "samir",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "ACH_TOUR_GERMANY",
@@ -1229,7 +1234,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1922
+      "UsersEstimate": 1923
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -1253,22 +1258,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7285
+      "UsersEstimate": 7286
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10118,
+      "Progressed": 10119,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-12T12:05:51.2919089+00:00",
+  "LastChanged_Achievements": "2023-06-12T13:11:27.1738968+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:31.6442423+00:00",
-  "LastUpdate_Ratings": "2023-06-12T11:57:38.7740563+00:00",
-  "LastUpdate_Achievements": "2023-06-12T12:05:51.291961+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:02:51.6383285+00:00",
+  "LastUpdate_Achievements": "2023-06-12T13:11:27.1739402+00:00"
 }

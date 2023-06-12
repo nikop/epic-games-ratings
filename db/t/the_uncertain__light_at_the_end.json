@@ -2,12 +2,12 @@
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
-  "Ranking_Rating": 924,
+  "Ranking_Rating": 923,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 455,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -339,6 +339,11 @@
       "Time": "2023-06-12T09:07:35.714281+00:00",
       "NumProgressed": 454,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-12T13:11:47.3230346+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -358,7 +363,7 @@
       "Name": "Identity Theft",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Butterfly",
@@ -438,7 +443,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Hitman",
@@ -470,7 +475,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "Leisurely_Strol",
@@ -478,7 +483,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "MISSING_DATA",
@@ -486,7 +491,7 @@
       "Name": "Does Not Compute",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Misanthrope",
@@ -581,7 +586,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 455,
       "Completed": 5
     }
   ],
@@ -589,8 +594,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-06-12T12:06:08.2172607+00:00",
+  "LastChanged_Achievements": "2023-06-12T13:11:47.3230339+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:06.3393279+00:00",
-  "LastUpdate_Ratings": "2023-06-12T12:00:24.777881+00:00",
-  "LastUpdate_Achievements": "2023-06-12T12:06:08.2172825+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:06:25.1288382+00:00",
+  "LastUpdate_Achievements": "2023-06-12T13:11:47.3230582+00:00"
 }

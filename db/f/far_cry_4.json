@@ -3,11 +3,11 @@
   "Name": "FAR CRY 4",
   "ProductSlug": "far-cry-4",
   "Ranking_Rating": 257,
-  "Ranking_Popularity": 178,
-  "Ranking_PopularitySum": 247,
+  "Ranking_Popularity": 177,
+  "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2014-11-18T16:00:00+00:00",
@@ -1078,18 +1078,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 832,
       "NumberOfAwardsMax": 552
+    },
+    {
+      "Time": "2023-06-12T13:03:03.8696552+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 835,
+      "NumberOfAwardsMax": 555
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 832,
-  "NumberOfAwardsMax": 552,
+  "NumberOfAwards": 835,
+  "NumberOfAwardsMax": 555,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 552
+      "Count": 555
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1157,8 +1163,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2023-06-11T13:57:42.8082962+00:00",
+  "LastChanged": "2023-06-12T13:03:03.8696549+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:41.8795552+00:00",
-  "LastUpdate_Ratings": "2023-06-12T11:57:46.3303896+00:00",
-  "LastUpdate_Achievements": "2023-06-12T12:04:11.0121463+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:03:03.8696559+00:00",
+  "LastUpdate_Achievements": "2023-06-12T13:09:18.9387658+00:00"
 }

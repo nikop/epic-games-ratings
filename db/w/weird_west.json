@@ -327,7 +327,7 @@
   ],
   "EOS_Progressed": 1633,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1154,9 +1154,9 @@
       "ID": "ACH_HERE_COMES_SANTA_CLAUS",
       "SetID": "8j30i9k",
       "Name": "Here Comes Santa Claus",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -1466,8 +1466,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-12T12:05:59.0632853+00:00",
+  "LastChanged_Achievements": "2023-06-12T13:11:36.314999+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:42.9337885+00:00",
-  "LastUpdate_Ratings": "2023-06-12T11:58:33.6983024+00:00",
-  "LastUpdate_Achievements": "2023-06-12T12:05:59.0633343+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:04:04.5694126+00:00",
+  "LastUpdate_Achievements": "2023-06-12T13:11:36.3150493+00:00"
 }

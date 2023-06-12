@@ -11,7 +11,7 @@ Number of Ratings: 743  (23.09.2022)
 | Blood splattered | 65.00% | ~27,792 |
 | Choo choo! | 62.00% | ~26,509 |
 | Groovy | 61.00% | ~26,082 |
-| Cleanup on aisle 4! | 56.00% | ~23,944 |
+| Cleanup on aisle 4! | 57.00% | ~24,371 |
 | Gold | 50.00% | ~21,378 |
 | The boat can leave now...tell the crew | 48.00% | ~20,523 |
 | Give me something to shoot! | 46.00% | ~19,668 |

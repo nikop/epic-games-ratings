@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~124 |
-| Starting Skyward | 53.00% | ~112 |
-| Grime is Not Good | 46.00% | ~97 |
-| Campaign Launch | 40.00% | ~84 |
-| Floor Galore | 38.00% | ~80 |
-| Dinner Dash | 38.00% | ~80 |
-| It's Technical | 36.00% | ~76 |
-| Need a Consult | 35.00% | ~74 |
+| In the Black | 59.00% | ~125 |
+| Starting Skyward | 52.00% | ~110 |
+| Grime is Not Good | 47.00% | ~100 |
+| Campaign Launch | 40.00% | ~85 |
+| Floor Galore | 38.00% | ~81 |
+| Dinner Dash | 38.00% | ~81 |
+| It's Technical | 35.00% | ~74 |
+| Need a Consult | 34.00% | ~72 |
 | Upgrade Unlock | 34.00% | ~72 |
 | Delegate Maintenance | 34.00% | ~72 |
 | Proper Walls | 33.00% | ~70 |
@@ -21,16 +21,16 @@
 | Potent Potables | 23.00% | ~49 |
 | Retail Revenue | 23.00% | ~49 |
 | Smooth Service | 23.00% | ~49 |
-| Lux Living | 22.00% | ~46 |
-| Leveled Up Shops | 22.00% | ~46 |
-| People Mover | 21.00% | ~44 |
+| Lux Living | 22.00% | ~47 |
+| Leveled Up Shops | 22.00% | ~47 |
+| People Mover | 21.00% | ~45 |
 | Don't Feel a Loan | 20.00% | ~42 |
 | Emporium Empire | 20.00% | ~42 |
 | Get Electrified | 20.00% | ~42 |
 | Rehab Expert | 19.00% | ~40 |
 | Tasty Profits | 19.00% | ~40 |
+| We Don't Need No Education | 19.00% | ~40 |
 | Artfully Done | 18.00% | ~38 |
-| We Don't Need No Education | 18.00% | ~38 |
 | Under One Roof | 17.00% | ~36 |
 | Cashflow Chief | 17.00% | ~36 |
 | Established Fame | 16.00% | ~34 |
@@ -38,20 +38,20 @@
 | Terrifically Trashed | 15.00% | ~32 |
 | Thrilled Tenants | 15.00% | ~32 |
 | Starred Dining | 14.00% | ~30 |
-| Smooth Operator | 13.00% | ~27 |
-| Swimming in Surplus | 13.00% | ~27 |
+| Smooth Operator | 13.00% | ~28 |
+| Swimming in Surplus | 13.00% | ~28 |
 | 28 Days Later | 11.00% | ~23 |
 | Master of Puppets | 10.00% | ~21 |
-| First 100 Days | 9.00% | ~19 |
-| Aestheticly Pleased | 9.00% | ~19 |
 | Plaza Plan | 9.00% | ~19 |
-| Maximum Reuse | 9.00% | ~19 |
 | Refined Palates | 9.00% | ~19 |
 | Revenue Royalty | 9.00% | ~19 |
-| Pipe Up | 9.00% | ~19 |
+| First 100 Days | 8.00% | ~17 |
+| Aestheticly Pleased | 8.00% | ~17 |
 | Meet Me at HQ | 8.00% | ~17 |
 | Profound Proceeds | 8.00% | ~17 |
+| Maximum Reuse | 8.00% | ~17 |
 | Phoning It In | 8.00% | ~17 |
+| Pipe Up | 8.00% | ~17 |
 | Careful Constructor | 7.00% | ~15 |
 | Tuned In | 7.00% | ~15 |
 | It's a Gas | 7.00% | ~15 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 247)  
+Progressed: 212 (Ranked 246)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-07 | 207 | 0 |
 | 2023-06-10 | 209 | 0 |
 | 2023-06-11 | 211 | 0 |
+| 2023-06-12 | 212 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

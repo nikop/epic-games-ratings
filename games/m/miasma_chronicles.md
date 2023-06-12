@@ -5,11 +5,11 @@ Rating: 4.36 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~1,003 |
+| First Blood | 91.00% | ~1,004 |
 | Ranidaphobia | 76.00% | ~838 |
-| Aspiring Editor | 73.00% | ~804 |
-| Gun for Hire | 67.00% | ~738 |
-| I am the law! | 59.00% | ~650 |
+| Aspiring Editor | 73.00% | ~805 |
+| Gun for Hire | 68.00% | ~750 |
+| I am the law! | 59.00% | ~651 |
 | Lumberjack | 47.00% | ~518 |
 | Croaked | 42.00% | ~463 |
 | Limp Richard | 41.00% | ~452 |
@@ -23,16 +23,16 @@ Rating: 4.36 (Ranked 719)
 | Technophobe | 30.00% | ~331 |
 | Recycler | 29.00% | ~320 |
 | Are you not entertained? | 25.00% | ~276 |
-| Jarhead | 25.00% | ~276 |
-| Ganglord | 24.00% | ~264 |
-| Infiltrator | 23.00% | ~253 |
-| Pushing Daisy | 23.00% | ~253 |
-| Chain Killer | 20.00% | ~220 |
-| Experienced | 20.00% | ~220 |
-| There Can Be Only One! | 20.00% | ~220 |
-| Hold The Line | 19.00% | ~209 |
-| Endgame | 17.00% | ~187 |
-| Savior | 17.00% | ~187 |
+| Ganglord | 24.00% | ~265 |
+| Jarhead | 24.00% | ~265 |
+| Infiltrator | 23.00% | ~254 |
+| Pushing Daisy | 23.00% | ~254 |
+| Chain Killer | 20.00% | ~221 |
+| Experienced | 20.00% | ~221 |
+| There Can Be Only One! | 20.00% | ~221 |
+| Hold The Line | 19.00% | ~210 |
+| Endgame | 17.00% | ~188 |
+| Savior | 17.00% | ~188 |
 | The Watchers | 15.00% | ~165 |
 | Newtonian Knockout | 14.00% | ~154 |
 | Ruthless | 12.00% | ~132 |
@@ -57,7 +57,7 @@ Rating: 4.36 (Ranked 719)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,102 (Ranked 171)  
+Progressed: 1,103 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 1,074 | 0 |
 | 2023-06-10 | 1,089 | 0 |
 | 2023-06-11 | 1,099 | 0 |
-| 2023-06-12 | 1,102 | 0 |
+| 2023-06-12 | 1,103 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

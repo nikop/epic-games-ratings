@@ -1418,9 +1418,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "MQ05_3",
@@ -1450,9 +1450,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 156
     },
     {
       "ID": "MQ06_3",
@@ -1531,8 +1531,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-06-12T12:04:20.878469+00:00",
+  "LastChanged_Achievements": "2023-06-12T13:09:31.5530105+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:19.4089051+00:00",
-  "LastUpdate_Ratings": "2023-06-12T11:57:30.2198669+00:00",
-  "LastUpdate_Achievements": "2023-06-12T12:04:20.878494+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:02:41.8524908+00:00",
+  "LastUpdate_Achievements": "2023-06-12T13:09:31.5530366+00:00"
 }

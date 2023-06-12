@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2705,
+  "EOS_Progressed": 2708,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3312,6 +3312,11 @@
       "Time": "2023-06-12T12:06:04.0112928+00:00",
       "NumProgressed": 2705,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-12T13:11:42.4221346+00:00",
+      "NumProgressed": 2708,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3329,9 +3334,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 243
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -3355,7 +3360,7 @@
       "Name": "Opposing Force",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -3363,7 +3368,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3379,7 +3384,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3443,7 +3448,7 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3459,7 +3464,7 @@
       "Name": "Sharpshooter",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -3491,7 +3496,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3523,15 +3528,15 @@
       "Name": "Explosive Efficiency",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 406
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3563,7 +3568,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3571,7 +3576,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3705,9 +3710,9 @@
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
       "SetID": "bm6el81",
       "Name": "Sight Beyond Sights",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_7_TARGET_AMERICA",
@@ -3731,7 +3736,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -3809,17 +3814,17 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 21
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 21
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -3890,13 +3895,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2656,
+      "Progressed": 2659,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2705,
+      "Progressed": 2708,
       "Completed": 2
     }
   ],
@@ -3904,8 +3909,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-12T12:00:24.1242654+00:00",
-  "LastChanged_Achievements": "2023-06-12T12:06:04.0112925+00:00",
+  "LastChanged_Achievements": "2023-06-12T13:11:42.4221339+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-12T12:00:24.1242661+00:00",
-  "LastUpdate_Achievements": "2023-06-12T12:06:04.0113742+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:06:24.2877776+00:00",
+  "LastUpdate_Achievements": "2023-06-12T13:11:42.4222188+00:00"
 }

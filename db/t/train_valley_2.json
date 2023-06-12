@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -271,9 +271,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 734,
+  "EOS_Progressed": 735,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -470,6 +470,11 @@
     {
       "Time": "2023-06-11T10:03:15.2773297+00:00",
       "NumProgressed": 734,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T13:08:34.7801092+00:00",
+      "NumProgressed": 735,
       "NumCompleted": 1
     }
   ],
@@ -968,9 +973,9 @@
       "ID": "AchievementTheHare",
       "SetID": "76o014g",
       "Name": "The Hare",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AchievementTheHareWithAnEspresso",
@@ -1081,21 +1086,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 734,
+      "Progressed": 735,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-10T08:57:46.2173648+00:00",
-  "LastChanged_Achievements": "2023-06-12T12:03:51.7684198+00:00",
+  "LastChanged_Achievements": "2023-06-12T13:08:34.7801086+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:37.4072923+00:00",
-  "LastUpdate_Ratings": "2023-06-12T11:57:42.8270352+00:00",
-  "LastUpdate_Achievements": "2023-06-12T12:03:51.7684973+00:00"
+  "LastUpdate_Ratings": "2023-06-12T13:02:57.6825708+00:00",
+  "LastUpdate_Achievements": "2023-06-12T13:08:34.780201+00:00"
 }

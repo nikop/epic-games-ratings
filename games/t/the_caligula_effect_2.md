@@ -32,8 +32,8 @@ Number of Ratings: 32  (23.09.2022)
 | Lost Souls For Sale | 19.00% | ~44 |
 | Pulling Heartstrings | 18.00% | ~42 |
 | Trigger Finger | 18.00% | ~42 |
+| Hopes Rewarded | 17.00% | ~39 |
 | Guarding Guru | 17.00% | ~39 |
-| Hopes Rewarded | 16.00% | ~37 |
 | Hustled and Bustled | 12.00% | ~28 |
 | To Each Their Own | 11.00% | ~26 |
 | Eat Your Heart Out | 10.00% | ~23 |
