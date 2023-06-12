@@ -19,11 +19,11 @@
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.22% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.21% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.77% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 22 | [Remains](games/r/remains.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.55% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 7.09% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.97% |
 | 27 | [Scorn](games/s/scorn.md) | 6.78% |

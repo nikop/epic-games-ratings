@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Delivery from the Pain](games/d/delivery_from_the_pain.md) | 2023-06-12 | - |  | - | - |
+| [Minimal Move](games/m/minimal_move.md) | 2023-06-13 | - |  | - | - |
 | [maze horror～迷宮ホラー～](games/9/9f81aca67daf4d269ae06257d7b6d460.md) | 2023-06-13 | - |  | - | - |
 | [Daydream. Forgotten Sorrow](games/7/7b8963f6857041fd97a4a23845eb113d.md) | 2023-06-14 | - |  | - | - |
 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 2023-06-14 | - |  | - | - |
