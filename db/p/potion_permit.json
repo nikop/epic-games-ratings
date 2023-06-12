@@ -6,9 +6,9 @@
   "Ranking_Popularity": 371,
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 119,
+  "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -317,10 +317,10 @@
     }
   ],
   "EOS_Progressed": 1402,
-  "EOS_Completed": 6,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 56,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.43,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:48.6875554+00:00",
@@ -1151,6 +1151,11 @@
       "Time": "2023-06-12T00:07:30.316039+00:00",
       "NumProgressed": 1402,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-12T06:07:16.0224901+00:00",
+      "NumProgressed": 1402,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 38,
@@ -1176,9 +1181,9 @@
       "ID": "ACHIEVEMENTS_03",
       "SetID": "d4o538a",
       "Name": "Good Samaritan",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -1456,9 +1461,9 @@
       "ID": "ACHIEVEMENTS_38",
       "SetID": "d4o538a",
       "Name": "Moonbury Navigator",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 80,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
@@ -1466,15 +1471,15 @@
       "ID": "d4o538a",
       "IsBase": true,
       "Progressed": 1402,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeen": "2022-09-23T04:00:21.3687329+00:00",
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-11T00:00:50.897612+00:00",
-  "LastChanged_Achievements": "2023-06-12T05:07:01.1641139+00:00",
+  "LastChanged_Achievements": "2023-06-12T06:07:16.0224895+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.6229281+00:00",
-  "LastUpdate_Ratings": "2023-06-12T05:01:08.8719591+00:00",
-  "LastUpdate_Achievements": "2023-06-12T05:07:01.1641733+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:01:44.6951594+00:00",
+  "LastUpdate_Achievements": "2023-06-12T06:07:16.022532+00:00"
 }

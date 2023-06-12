@@ -2,10 +2,10 @@
   "ID": "6c2272d1b5f64cb483a3c1088021b39a",
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
-  "Ranking_EOS_Progress": 205,
+  "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -1011,6 +1011,11 @@
       "Time": "2023-06-12T03:19:32.8735773+00:00",
       "NumProgressed": 444,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T06:03:50.7362418+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1022,7 +1027,7 @@
       "Name": "Adventurous 1",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "adventurous_2",
@@ -1068,9 +1073,9 @@
       "ID": "call_of_mana_1",
       "SetID": "53c1p3k",
       "Name": "Call of Mana 1",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "call_of_mana_2",
@@ -1196,9 +1201,9 @@
       "ID": "elemental_stones_2",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 2",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "elemental_stones_3",
@@ -1284,7 +1289,7 @@
       "ID": "good_host_1",
       "SetID": "53c1p3k",
       "Name": "Good Host 1",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1476,7 +1481,7 @@
       "ID": "stronghold_1",
       "SetID": "53c1p3k",
       "Name": "Stronghold 1",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1549,14 +1554,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-12T05:04:04.3435771+00:00",
+  "LastChanged_Achievements": "2023-06-12T06:03:50.7362411+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-12T04:57:25.4420132+00:00",
-  "LastUpdate_Achievements": "2023-06-12T05:04:04.343646+00:00"
+  "LastUpdate_Ratings": "2023-06-12T05:57:17.5987397+00:00",
+  "LastUpdate_Achievements": "2023-06-12T06:03:50.736331+00:00"
 }

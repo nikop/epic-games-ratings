@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 88.00% | ~88 |
-| The Routine | 79.00% | ~79 |
-| Mother | 76.00% | ~76 |
-| Failure | 74.00% | ~74 |
-| Replace Fuse | 66.00% | ~66 |
-| Alarm | 64.00% | ~64 |
-| Air Filtration | 63.00% | ~63 |
-| Broken | 61.00% | ~61 |
-| Radiation | 59.00% | ~59 |
-| Descent | 58.00% | ~58 |
-| Awakenings | 57.00% | ~57 |
-| Cold Storage | 57.00% | ~57 |
-| Sam | 52.00% | ~52 |
-| Churchill | 51.00% | ~51 |
+| Last Goodbye | 88.00% | ~89 |
+| The Routine | 78.00% | ~79 |
+| Mother | 75.00% | ~76 |
+| Failure | 73.00% | ~74 |
+| Replace Fuse | 65.00% | ~66 |
+| Alarm | 63.00% | ~64 |
+| Air Filtration | 62.00% | ~63 |
+| Broken | 60.00% | ~61 |
+| Radiation | 58.00% | ~59 |
+| Descent | 57.00% | ~58 |
+| Awakenings | 56.00% | ~57 |
+| Cold Storage | 56.00% | ~57 |
+| Sam | 51.00% | ~52 |
+| Churchill | 50.00% | ~50 |
 | Leave | 48.00% | ~48 |
 | Doctor | 48.00% | ~48 |
 | Commissioner | 47.00% | ~47 |
@@ -33,8 +33,8 @@
 | No Page Unturned | 4.00% | ~4 |
 | The Missing Piece | 4.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 276)  
-Completed: 3 (3.00%) (Ranked 49)  
+Progressed: 101 (Ranked 276)  
+Completed: 3 (2.97%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -47,6 +47,7 @@ Completed: 3 (3.00%) (Ranked 49)
 | 2023-05-29 | 97 | 3 |
 | 2023-06-07 | 99 | 3 |
 | 2023-06-09 | 100 | 3 |
+| 2023-06-12 | 101 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

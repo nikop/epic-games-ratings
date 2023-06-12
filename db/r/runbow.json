@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244680,
+  "EOS_Progressed": 244681,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
@@ -5004,6 +5004,11 @@
       "Time": "2023-06-12T05:06:51.5919155+00:00",
       "NumProgressed": 244680,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-12T06:07:05.7956982+00:00",
+      "NumProgressed": 244681,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -5111,7 +5116,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44042
+      "UsersEstimate": 44043
     },
     {
       "ID": "curator",
@@ -5191,7 +5196,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129680
+      "UsersEstimate": 129681
     },
     {
       "ID": "indegestible",
@@ -5335,7 +5340,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 31808
+      "UsersEstimate": 31809
     },
     {
       "ID": "treeMedalist",
@@ -5382,7 +5387,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 244680,
+      "Progressed": 244681,
       "Completed": 2
     }
   ],
@@ -5390,8 +5395,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-06-12T05:06:51.5919152+00:00",
+  "LastChanged_Achievements": "2023-06-12T06:07:05.7956977+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:32.8770125+00:00",
-  "LastUpdate_Ratings": "2023-06-12T04:59:46.106782+00:00",
-  "LastUpdate_Achievements": "2023-06-12T05:06:51.5919793+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:00:04.6541615+00:00",
+  "LastUpdate_Achievements": "2023-06-12T06:07:05.7957937+00:00"
 }

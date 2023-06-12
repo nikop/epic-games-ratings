@@ -38,11 +38,11 @@ Rating: 4.57 (Ranked 441)
 | Mutual Loyalty | 1.00% | ~26 |
 | ...  in a finite world | 1.00% | ~26 |
 | Sustainable Energy | 1.00% | ~26 |
+| Praise the Hull! | 1.00% | ~26 |
 | Delivery! | 1.00% | ~26 |
 | Pedal to the Metal | 1.00% | ~26 |
 | Pulsar Disciple | 1.00% | ~26 |
 | Catastrophe Avoided | 0.90% | ~23 |
-| Praise the Hull! | 0.90% | ~23 |
 | You Had One Job... | 0.80% | ~21 |
 | Space Greenhouse | 0.80% | ~21 |
 | Help of the Forgotten Member | 0.80% | ~21 |

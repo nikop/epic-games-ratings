@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -1940,9 +1940,9 @@
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 319
     },
     {
       "ID": "RUTHLESS",
@@ -2045,8 +2045,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-11T20:57:58.035574+00:00",
-  "LastChanged_Achievements": "2023-06-12T05:03:37.5775722+00:00",
+  "LastChanged_Achievements": "2023-06-12T06:03:19.4476955+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-12T04:58:51.0070185+00:00",
-  "LastUpdate_Achievements": "2023-06-12T05:03:37.5776314+00:00"
+  "LastUpdate_Ratings": "2023-06-12T05:58:59.2595133+00:00",
+  "LastUpdate_Achievements": "2023-06-12T06:03:19.447757+00:00"
 }

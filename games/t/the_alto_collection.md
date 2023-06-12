@@ -6,16 +6,16 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,987 |
-| Rookie | 25.00% | ~6,470 |
-| Nomad | 19.00% | ~4,917 |
-| Picking Up Speed | 17.00% | ~4,399 |
-| Welcome Maya | 16.00% | ~4,141 |
-| Sightseer | 12.00% | ~3,105 |
+| Finding Your Footing | 27.00% | ~6,989 |
+| Rookie | 25.00% | ~6,471 |
+| Nomad | 19.00% | ~4,918 |
+| Picking Up Speed | 17.00% | ~4,400 |
+| Welcome Maya | 16.00% | ~4,142 |
+| Sightseer | 12.00% | ~3,106 |
 | Scout | 10.00% | ~2,588 |
-| Amateur | 9.00% | ~2,329 |
-| Wanderer | 9.00% | ~2,329 |
-| Enter Paz | 8.00% | ~2,070 |
+| Amateur | 9.00% | ~2,330 |
+| Wanderer | 9.00% | ~2,330 |
+| Enter Paz | 8.00% | ~2,071 |
 | Unlock Maya | 7.00% | ~1,812 |
 | Aviator | 6.00% | ~1,553 |
 | One With The Board | 6.00% | ~1,553 |
@@ -23,11 +23,11 @@ Number of Ratings: 332  (23.09.2022)
 | Voyager | 5.00% | ~1,294 |
 | Sandboarder | 4.00% | ~1,035 |
 | Izel Has Arrived | 4.00% | ~1,035 |
-| Junkie | 3.00% | ~776 |
-| Traveler | 3.00% | ~776 |
-| Journeyer | 3.00% | ~776 |
-| Unlock Paz | 3.00% | ~776 |
-| Here Comes Felipe | 3.00% | ~776 |
+| Junkie | 3.00% | ~777 |
+| Traveler | 3.00% | ~777 |
+| Journeyer | 3.00% | ~777 |
+| Unlock Paz | 3.00% | ~777 |
+| Here Comes Felipe | 3.00% | ~777 |
 | Pro | 2.00% | ~518 |
 | Human Flight | 2.00% | ~518 |
 | Explorer | 1.00% | ~259 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~26 |
 | Windswept | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,879 (Ranked 91)  
+Progressed: 25,885 (Ranked 91)  
 Completed: 4 (0.02%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 4 (0.02%) (Ranked 199)
 | 2023-06-09 | 25,466 | 4 |
 | 2023-06-10 | 25,643 | 4 |
 | 2023-06-11 | 25,838 | 4 |
-| 2023-06-12 | 25,879 | 4 |
+| 2023-06-12 | 25,885 | 4 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 410)  
 Sum: 346 (Ranked 319)  

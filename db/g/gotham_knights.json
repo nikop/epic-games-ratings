@@ -1490,9 +1490,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64683,
+  "EOS_Progressed": 64687,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1000,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5995,6 +5995,11 @@
       "Time": "2023-06-12T05:07:06.0360072+00:00",
       "NumProgressed": 64683,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-12T06:07:21.2654247+00:00",
+      "NumProgressed": 64687,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6140,9 +6145,9 @@
       "ID": "CRAFTING_LEGENDARY_SET",
       "SetID": "4eo5ebm",
       "Name": "Dressed to Impress",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 323
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -6230,7 +6235,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "FREEZE_1_5",
@@ -6310,7 +6315,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "HARLEY_2",
@@ -6382,7 +6387,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -6398,7 +6403,7 @@
       "Name": "Loose Ends",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "MYSTERY_02",
@@ -6493,13 +6498,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64683,
+      "Progressed": 64687,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34963,
+      "Progressed": 34967,
       "Completed": 2646
     }
   ],
@@ -6507,8 +6512,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-11T09:59:20.6373405+00:00",
-  "LastChanged_Achievements": "2023-06-12T05:07:06.0360065+00:00",
+  "LastChanged_Achievements": "2023-06-12T06:07:21.265424+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-12T05:00:23.8683617+00:00",
-  "LastUpdate_Achievements": "2023-06-12T05:07:06.0361292+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:00:51.6830239+00:00",
+  "LastUpdate_Achievements": "2023-06-12T06:07:21.265526+00:00"
 }

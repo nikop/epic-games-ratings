@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6749,
+  "EOS_Progressed": 6750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4144,6 +4144,11 @@
       "Time": "2023-06-12T00:07:26.2229313+00:00",
       "NumProgressed": 6749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T06:07:12.1329524+00:00",
+      "NumProgressed": 6750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -4155,7 +4160,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "0002",
@@ -4195,7 +4200,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "0007",
@@ -4211,7 +4216,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2497
+      "UsersEstimate": 2498
     },
     {
       "ID": "0009",
@@ -4243,7 +4248,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "0013",
@@ -4275,7 +4280,7 @@
       "Name": "Live and let lie",
       "Percentage": 5,
       "XP": 115,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "0017",
@@ -4283,7 +4288,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2767
+      "UsersEstimate": 2768
     },
     {
       "ID": "0018",
@@ -4315,7 +4320,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "0022",
@@ -4347,7 +4352,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2497
+      "UsersEstimate": 2498
     },
     {
       "ID": "0026",
@@ -4395,7 +4400,7 @@
       "Name": "Private Collection",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "0032",
@@ -4411,7 +4416,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "0034",
@@ -4442,7 +4447,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6749,
+      "Progressed": 6750,
       "Completed": 0
     }
   ],
@@ -4450,8 +4455,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-10T20:59:27.172859+00:00",
-  "LastChanged_Achievements": "2023-06-12T05:06:57.6235567+00:00",
+  "LastChanged_Achievements": "2023-06-12T06:07:12.1329519+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:06.9075214+00:00",
-  "LastUpdate_Ratings": "2023-06-12T05:00:19.9647142+00:00",
-  "LastUpdate_Achievements": "2023-06-12T05:06:57.6236247+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:00:46.9665462+00:00",
+  "LastUpdate_Achievements": "2023-06-12T06:07:12.1330205+00:00"
 }

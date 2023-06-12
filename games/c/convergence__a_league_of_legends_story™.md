@@ -7,16 +7,18 @@
 | Treasure Trove | 8.00% | ~53 |
 | Cartographer | 8.00% | ~53 |
 | Time Heals All Wounds | 8.00% | ~53 |
+| Make Up For Lost Time | 7.00% | ~46 |
 | The Prince in Heels | 7.00% | ~46 |
 | Immaculate Aim | 7.00% | ~46 |
 | The Steel Shadow | 6.00% | ~40 |
 | The Mysterious Stranger | 6.00% | ~40 |
 | Rail Rat | 6.00% | ~40 |
-| Make Up For Lost Time | 6.00% | ~40 |
 | Time Flies | 6.00% | ~40 |
 | The Harder They Fall | 6.00% | ~40 |
 | No, Thanks! | 6.00% | ~40 |
 | Breaking Down Barriers | 6.00% | ~40 |
+| The Wicked Twins | 6.00% | ~40 |
+| Fast Learner | 6.00% | ~40 |
 | Immaculate Aim | 6.00% | ~40 |
 | The Brass Boss | 6.00% | ~40 |
 | Right On Time | 5.00% | ~33 |
@@ -25,16 +27,15 @@
 | The Betrayer | 5.00% | ~33 |
 | The Man Who Shattered Time | 5.00% | ~33 |
 | The Loose Cannon | 5.00% | ~33 |
-| The Wicked Twins | 5.00% | ~33 |
 | Honest Mistake | 5.00% | ~33 |
 | Golem Chaser | 5.00% | ~33 |
-| Fast Learner | 5.00% | ~33 |
 | Check Your Pulse | 5.00% | ~33 |
 | The Family Fortune | 5.00% | ~33 |
 | Chaincrawler Explorer | 4.00% | ~27 |
 | Family Memories | 4.00% | ~27 |
 | Whiz Kid | 4.00% | ~27 |
 | Ask Questions Later | 4.00% | ~27 |
+| Good Neighbor | 4.00% | ~27 |
 | Sartorialist | 3.00% | ~20 |
 | Entresol Explorer | 3.00% | ~20 |
 | Factorywood Explorer | 3.00% | ~20 |
@@ -42,7 +43,6 @@
 | Sump Explorer | 3.00% | ~20 |
 | Syron for Hope | 3.00% | ~20 |
 | Theater Explorer | 3.00% | ~20 |
-| Good Neighbor | 3.00% | ~20 |
 | Corin Goes Home | 2.00% | ~13 |
 | Clovemary for Remembering | 2.00% | ~13 |
 | Cultivair Explorer | 2.00% | ~13 |

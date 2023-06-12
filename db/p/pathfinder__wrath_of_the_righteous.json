@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2810,7 +2810,7 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9785,
+  "EOS_Progressed": 9786,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
@@ -6295,6 +6295,11 @@
       "Time": "2023-06-12T04:06:55.6911769+00:00",
       "NumProgressed": 9785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T06:07:25.0252616+00:00",
+      "NumProgressed": 9786,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6306,7 +6311,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "02_BurningCity",
@@ -6522,7 +6527,7 @@
       "Name": "Strategic Victory",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -6554,7 +6559,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -6610,7 +6615,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "41_PlayfulMood",
@@ -7233,21 +7238,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8567,
+      "Progressed": 8568,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9785,
+      "Progressed": 9786,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-11T16:58:32.2444378+00:00",
-  "LastChanged_Achievements": "2023-06-12T05:07:09.2926949+00:00",
+  "LastChanged_Achievements": "2023-06-12T06:07:25.0252611+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-12T04:58:52.872517+00:00",
-  "LastUpdate_Achievements": "2023-06-12T05:07:09.2930229+00:00"
+  "LastUpdate_Ratings": "2023-06-12T05:59:01.1731518+00:00",
+  "LastUpdate_Achievements": "2023-06-12T06:07:25.0254512+00:00"
 }

@@ -152,9 +152,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "1ejicho",
       "Name": "I Ain\u0027t Afraid of No Ghost",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -176,9 +176,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "1ejicho",
       "Name": "Card Sharp",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -207,8 +207,8 @@
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-06-12T05:03:51.1538895+00:00",
+  "LastChanged_Achievements": "2023-06-12T06:03:35.4614797+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:29.2823456+00:00",
-  "LastUpdate_Ratings": "2023-06-12T04:59:43.1589048+00:00",
-  "LastUpdate_Achievements": "2023-06-12T05:03:51.1539001+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:00:01.0632697+00:00",
+  "LastUpdate_Achievements": "2023-06-12T06:03:35.4614916+00:00"
 }

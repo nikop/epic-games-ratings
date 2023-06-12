@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -507,9 +507,9 @@
       "ID": "crash_and_burn",
       "SetID": "c4ipj3h",
       "Name": "Crash and Burn",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 13
     },
     {
       "ID": "digital_casanova",
@@ -547,9 +547,9 @@
       "ID": "light_sleepers",
       "SetID": "c4ipj3h",
       "Name": "Light Sleepers",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "not_alone",
@@ -620,8 +620,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-12T05:04:37.068636+00:00",
+  "LastChanged_Achievements": "2023-06-12T06:04:28.0464968+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.5548432+00:00",
-  "LastUpdate_Ratings": "2023-06-12T04:58:39.1966295+00:00",
-  "LastUpdate_Achievements": "2023-06-12T05:04:37.0686532+00:00"
+  "LastUpdate_Ratings": "2023-06-12T05:58:45.1309245+00:00",
+  "LastUpdate_Achievements": "2023-06-12T06:04:28.0465135+00:00"
 }

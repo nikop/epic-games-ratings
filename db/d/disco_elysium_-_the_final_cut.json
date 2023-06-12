@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1127,9 +1127,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 121239,
+  "EOS_Progressed": 121244,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 861,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6092,6 +6092,11 @@
       "Time": "2023-06-12T04:06:38.4233078+00:00",
       "NumProgressed": 121239,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-12T06:07:07.2701337+00:00",
+      "NumProgressed": 121244,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -6135,7 +6140,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21823
+      "UsersEstimate": 21824
     },
     {
       "ID": "ACH_COP_BAD",
@@ -6151,7 +6156,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9699
+      "UsersEstimate": 9700
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -6159,7 +6164,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29097
+      "UsersEstimate": 29099
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -6167,7 +6172,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9699
+      "UsersEstimate": 9700
     },
     {
       "ID": "ACH_COP_DORK",
@@ -6183,7 +6188,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33947
+      "UsersEstimate": 33948
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -6207,7 +6212,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19398
+      "UsersEstimate": 19399
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -6215,7 +6220,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24248
+      "UsersEstimate": 24249
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -6231,7 +6236,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15761
+      "UsersEstimate": 15762
     },
     {
       "ID": "ACH_COP_STAR",
@@ -6239,7 +6244,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18186
+      "UsersEstimate": 18187
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -6247,7 +6252,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13336
+      "UsersEstimate": 13337
     },
     {
       "ID": "ACH_CUNO",
@@ -6319,7 +6324,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16973
+      "UsersEstimate": 16974
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -6383,7 +6388,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15761
+      "UsersEstimate": 15762
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -6422,15 +6427,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 121239,
+      "Progressed": 121244,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-11T15:58:46.45701+00:00",
-  "LastChanged_Achievements": "2023-06-12T05:06:53.0152563+00:00",
+  "LastChanged_Achievements": "2023-06-12T06:07:07.2701332+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:27.3467618+00:00",
-  "LastUpdate_Ratings": "2023-06-12T04:59:40.8802819+00:00",
-  "LastUpdate_Achievements": "2023-06-12T05:06:53.015318+00:00"
+  "LastUpdate_Ratings": "2023-06-12T05:59:57.8883838+00:00",
+  "LastUpdate_Achievements": "2023-06-12T06:07:07.2702083+00:00"
 }

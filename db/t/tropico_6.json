@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -912,9 +912,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3577,
+  "EOS_Progressed": 3578,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4227,6 +4227,11 @@
       "Time": "2023-06-12T05:01:30.958134+00:00",
       "NumProgressed": 3577,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T06:02:16.7485966+00:00",
+      "NumProgressed": 3578,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -4262,7 +4267,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -4278,7 +4283,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -4334,7 +4339,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -4382,7 +4387,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -4420,9 +4425,9 @@
       "ID": "ACH_MISSION_NOELECTION",
       "SetID": "1p8ab95",
       "Name": "We Don\u0027t Have Time For That",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 680
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -4510,7 +4515,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -4557,15 +4562,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3577,
+      "Progressed": 3578,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-11T10:59:33.5222387+00:00",
-  "LastChanged_Achievements": "2023-06-12T05:01:30.9581332+00:00",
+  "LastChanged_Achievements": "2023-06-12T06:02:16.7485959+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.8257006+00:00",
-  "LastUpdate_Ratings": "2023-06-12T05:00:52.159302+00:00",
-  "LastUpdate_Achievements": "2023-06-12T05:01:30.9582264+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:01:23.9763401+00:00",
+  "LastUpdate_Achievements": "2023-06-12T06:02:16.7486658+00:00"
 }

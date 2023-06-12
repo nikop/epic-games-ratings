@@ -8,10 +8,10 @@
 | Con Artist | 22.00% | ~4 |
 | I See Dead People | 22.00% | ~4 |
 | Bedtime Storyteller | 22.00% | ~4 |
+| I Ain't Afraid of No Ghost | 22.00% | ~4 |
 | Exorcist | 22.00% | ~4 |
 | Electrician | 22.00% | ~4 |
-| I Ain't Afraid of No Ghost | 17.00% | ~3 |
-| Card Sharp | 17.00% | ~3 |
+| Card Sharp | 22.00% | ~4 |
 | Joyrider | 17.00% | ~3 |
 | Top Detective | 11.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

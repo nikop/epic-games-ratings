@@ -29,7 +29,7 @@ Rating: 3.81 (Ranked 927)
 | Line Cook | 11.00% | ~154 |
 | Sociable | 11.00% | ~154 |
 | Production Sorter | 11.00% | ~154 |
-| Good Samaritan | 9.00% | ~126 |
+| Good Samaritan | 10.00% | ~140 |
 | Acrobatic Adventurer | 8.00% | ~112 |
 | Animal Exterminator | 7.00% | ~98 |
 | Adolescent Love | 5.00% | ~70 |
@@ -41,11 +41,11 @@ Rating: 3.81 (Ranked 927)
 | Rock Exterminator | 2.00% | ~28 |
 | Tree Exterminator | 2.00% | ~28 |
 | Being forgetful... | 1.00% | ~14 |
-| Moonbury Navigator | 0.80% | ~11 |
+| Moonbury Navigator | 0.90% | ~13 |
 | Being a donut... | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,402 (Ranked 162)  
-Completed: 6 (0.43%) (Ranked 119)  
+Completed: 7 (0.50%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,7 +88,7 @@ Completed: 6 (0.43%) (Ranked 119)
 | 2023-06-09 | 1,379 | 6 |
 | 2023-06-10 | 1,389 | 6 |
 | 2023-06-11 | 1,401 | 6 |
-| 2023-06-12 | 1,402 | 6 |
+| 2023-06-12 | 1,402 | 7 |
 ## Awards
 Max (Character Customization): 66  (Ranked 371)  
 Sum: 66 (Ranked 428)  

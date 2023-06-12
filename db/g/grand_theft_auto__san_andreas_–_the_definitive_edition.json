@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 163
     }
   ],
-  "EOS_Progressed": 10295,
+  "EOS_Progressed": 10296,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 730,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4457,6 +4457,11 @@
       "Time": "2023-06-12T05:07:02.8356581+00:00",
       "NumProgressed": 10295,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-12T06:07:17.8365996+00:00",
+      "NumProgressed": 10296,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -4468,7 +4473,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8236
+      "UsersEstimate": 8237
     },
     {
       "ID": "ACH02",
@@ -4636,7 +4641,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "ACH23",
@@ -4747,7 +4752,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10295,
+      "Progressed": 10296,
       "Completed": 17
     }
   ],
@@ -4755,8 +4760,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-11T14:59:43.8934917+00:00",
-  "LastChanged_Achievements": "2023-06-12T05:07:02.8356573+00:00",
+  "LastChanged_Achievements": "2023-06-12T06:07:17.8365991+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-12T05:00:59.0253512+00:00",
-  "LastUpdate_Achievements": "2023-06-12T05:07:02.8357462+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:01:32.3773312+00:00",
+  "LastUpdate_Achievements": "2023-06-12T06:07:17.8366626+00:00"
 }
