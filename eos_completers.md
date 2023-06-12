@@ -19,7 +19,7 @@
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.21% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.20% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.77% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 22 | [Remains](games/r/remains.md) | 7.69% |
@@ -37,7 +37,7 @@
 | 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.93% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
-| 37 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.85% |
+| 38 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.82% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
@@ -76,8 +76,8 @@
 | 74 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 75 | [Somerville](games/s/somerville.md) | 1.58% |
 | 76 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
-| 77 | [Night Book](games/n/night_book.md) | 1.52% |
-| 78 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 77 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 77 | [Night Book](games/n/night_book.md) | 1.51% |
 | 79 | [Frogun](games/f/frogun.md) | 1.46% |
 | 80 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.33% |
 | 81 | [Ten Dates](games/t/ten_dates.md) | 1.23% |
@@ -313,6 +313,7 @@
 | 216 | [IXION](games/i/ixion.md) | 0.00% |
 | 216 | [JYDGE](games/j/jydge.md) | 0.00% |
 | 216 | [Kabaret](games/k/kabaret.md) | 0.00% |
+| 216 | [Kainga: Seeds of Civilization](games/k/kainga__seeds_of_civilization.md) | 0.00% |
 | 216 | [Last Labyrinth](games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 0.00% |
 | 216 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |
 | 216 | [Lichenvale](games/l/lichenvale.md) | 0.00% |
