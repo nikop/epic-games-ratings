@@ -26,7 +26,7 @@ Number of Ratings: 180  (23.09.2022)
 | First ship arrived | 46.00% | ~581 |
 | Now what? | 46.00% | ~581 |
 | High speed | 43.00% | ~544 |
-| Transport shark | 40.00% | ~506 |
+| Transport shark | 41.00% | ~518 |
 | First aircraft arrived | 40.00% | ~506 |
 | Exemplary student | 40.00% | ~506 |
 | Mass production | 34.00% | ~430 |
@@ -34,13 +34,13 @@ Number of Ratings: 180  (23.09.2022)
 | Crowd in a train | 31.00% | ~392 |
 | The future is now, old man | 31.00% | ~392 |
 | Not in my backyard | 30.00% | ~379 |
-| City | 28.00% | ~354 |
+| City | 29.00% | ~367 |
 | The king of the sea | 28.00% | ~354 |
 | Transport tycoon | 24.00% | ~303 |
-| Climate change | 22.00% | ~278 |
+| Climate change | 23.00% | ~291 |
 | Old timer | 22.00% | ~278 |
 | The ugly smell of success | 22.00% | ~278 |
-| Heavily loaded | 20.00% | ~253 |
+| Heavily loaded | 21.00% | ~265 |
 | Bob Ross | 16.00% | ~202 |
 | Campaign expert | 11.00% | ~139 |
 | No free seats | 10.00% | ~126 |

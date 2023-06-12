@@ -5,18 +5,18 @@ Rating: 3.33 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~12,835 |
-| Hard Worker | 20.00% | ~12,223 |
-| Master, Commander | 20.00% | ~12,223 |
-| Mechanic | 19.00% | ~11,612 |
-| Adios, Friendo | 18.00% | ~11,001 |
-| Bottom's Up | 17.00% | ~10,390 |
-| Nice Try | 16.00% | ~9,779 |
-| Right On Target | 13.00% | ~7,945 |
+| Be Seeing You | 21.00% | ~12,836 |
+| Hard Worker | 20.00% | ~12,225 |
+| Master, Commander | 20.00% | ~12,225 |
+| Mechanic | 19.00% | ~11,613 |
+| Adios, Friendo | 18.00% | ~11,002 |
+| Bottom's Up | 17.00% | ~10,391 |
+| Nice Try | 16.00% | ~9,780 |
+| Right On Target | 13.00% | ~7,946 |
 | Piano Man | 10.00% | ~6,112 |
 | Lazy Bones | 9.00% | ~5,501 |
-| Sniper | 7.00% | ~4,278 |
-| Vinyl Vibes | 7.00% | ~4,278 |
+| Sniper | 7.00% | ~4,279 |
+| Vinyl Vibes | 7.00% | ~4,279 |
 | Nothing Left to Say | 6.00% | ~3,667 |
 | Cut Call | 5.00% | ~3,056 |
 | Butcher | 4.00% | ~2,445 |
@@ -31,7 +31,7 @@ Rating: 3.33 (Ranked 940)
 | Audiophile | 2.00% | ~1,222 |
 | Tape Head | 1.00% | ~611 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,117 (Ranked 74)  
+Progressed: 61,123 (Ranked 74)  
 Completed: 526 (0.86%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 526 (0.86%) (Ranked 94)
 | 2023-06-09 | 60,639 | 519 |
 | 2023-06-10 | 60,833 | 523 |
 | 2023-06-11 | 61,054 | 526 |
-| 2023-06-12 | 61,117 | 526 |
+| 2023-06-12 | 61,123 | 526 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

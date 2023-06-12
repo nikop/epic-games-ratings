@@ -77,6 +77,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Look Out! | 0.30% | ~170 |
 | Bad Odds in Avernus | 0.30% | ~170 |
 | An Even Worse Time in Avernus | 0.30% | ~170 |
+| Close Escort | 0.30% | ~272 |
 | Constant Banditry | 0.30% | ~272 |
 | Underdeep Cartography | 0.30% | ~272 |
 | Overdue Rendezvous | 0.30% | ~272 |
@@ -268,7 +269,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.20% | ~114 |
 | The Everlasting Rime | 0.20% | ~114 |
 | Enemy Summit | 0.20% | ~114 |
-| Close Escort | 0.20% | ~181 |
 | The Long Haul | 0.20% | ~181 |
 | Lost in the Deep | 0.20% | ~181 |
 | Easily Distracted | 0.20% | ~181 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,514 (Ranked 64)  
+Progressed: 90,516 (Ranked 64)  
 Completed: 1,929 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 1,929 (2.13%) (Ranked 65)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
-| 2023-06-12 | 90,514 | 1,929 |
+| 2023-06-12 | 90,516 | 1,929 |
 ## Awards
 Max (Diverse Characters): 4,934  (Ranked 64)  
 Sum: 30,083 (Ranked 37)  

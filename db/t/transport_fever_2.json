@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -1813,9 +1813,9 @@
       "ID": "achAccumulate100M",
       "SetID": "dgl390n",
       "Name": "Transport shark",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 518
     },
     {
       "ID": "achAccumulate100MHard",
@@ -1869,9 +1869,9 @@
       "ID": "achAllClimates",
       "SetID": "dgl390n",
       "Name": "Climate change",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 291
     },
     {
       "ID": "achAllElecHighSpeed",
@@ -1933,9 +1933,9 @@
       "ID": "achCity",
       "SetID": "dgl390n",
       "Name": "City",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 367
     },
     {
       "ID": "achCollectAllMedals",
@@ -2101,9 +2101,9 @@
       "ID": "achHeavilyLoaded",
       "SetID": "dgl390n",
       "Name": "Heavily loaded",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 265
     },
     {
       "ID": "achHq",
@@ -2309,8 +2309,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-08T16:00:13.2391099+00:00",
-  "LastChanged_Achievements": "2023-06-12T09:07:44.6262941+00:00",
+  "LastChanged_Achievements": "2023-06-12T10:07:30.3502674+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.0789003+00:00",
-  "LastUpdate_Ratings": "2023-06-12T09:00:53.3435869+00:00",
-  "LastUpdate_Achievements": "2023-06-12T09:07:44.6264043+00:00"
+  "LastUpdate_Ratings": "2023-06-12T10:00:54.0614957+00:00",
+  "LastUpdate_Achievements": "2023-06-12T10:07:30.35038+00:00"
 }

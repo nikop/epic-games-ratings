@@ -22,11 +22,11 @@ Rating: 4.05 (Ranked 891)
 | Enlightenment | 13.00% | ~179 |
 | Hero inspection | 13.00% | ~179 |
 | Lieutenant | 13.00% | ~179 |
+| The Unstoppable | 12.00% | ~165 |
 | Milestone collector | 11.00% | ~151 |
 | Mysterious Rock | 11.00% | ~151 |
 | Natural Talent | 11.00% | ~151 |
 | Superior | 11.00% | ~151 |
-| The Unstoppable | 11.00% | ~151 |
 | Scientist | 9.00% | ~124 |
 | Challenger | 8.00% | ~110 |
 | Daily Quest Completionist | 8.00% | ~110 |
@@ -45,12 +45,12 @@ Rating: 4.05 (Ranked 891)
 | The Expeditioner | 5.00% | ~69 |
 | The father of Dragons | 5.00% | ~69 |
 | Trader | 5.00% | ~69 |
+| Weekly Quest Completionist | 5.00% | ~69 |
 | Ancient Knowledge | 4.00% | ~55 |
 | Background Story | 4.00% | ~55 |
 | Enchanting skill | 4.00% | ~55 |
 | Lock And Load | 4.00% | ~55 |
 | Missions Dedication | 4.00% | ~55 |
-| Weekly Quest Completionist | 4.00% | ~55 |
 | Blueprint Upgrades | 3.00% | ~41 |
 | Crystal Mining | 3.00% | ~41 |
 | Dragon Slayer | 3.00% | ~41 |

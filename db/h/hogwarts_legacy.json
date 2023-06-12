@@ -3606,9 +3606,9 @@
       "Count": 504
     }
   ],
-  "EOS_Progressed": 278824,
+  "EOS_Progressed": 278831,
   "EOS_Completed": 401,
-  "EOS_NewPlayers": 2431,
+  "EOS_NewPlayers": 2435,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -9056,6 +9056,11 @@
       "Time": "2023-06-12T09:05:54.293094+00:00",
       "NumProgressed": 278824,
       "NumCompleted": 401
+    },
+    {
+      "Time": "2023-06-12T10:05:41.7738604+00:00",
+      "NumProgressed": 278831,
+      "NumCompleted": 401
     }
   ],
   "TotalAchievements": 45,
@@ -9067,7 +9072,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25094
+      "UsersEstimate": 25095
     },
     {
       "ID": "PFA_10",
@@ -9115,7 +9120,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13941
+      "UsersEstimate": 13942
     },
     {
       "ID": "PFA_16",
@@ -9131,7 +9136,7 @@
       "Name": "Beast Friends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13941
+      "UsersEstimate": 13942
     },
     {
       "ID": "PFA_18",
@@ -9139,7 +9144,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13941
+      "UsersEstimate": 13942
     },
     {
       "ID": "PFA_19",
@@ -9147,7 +9152,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 13941
+      "UsersEstimate": 13942
     },
     {
       "ID": "PFA_2",
@@ -9171,7 +9176,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16729
+      "UsersEstimate": 16730
     },
     {
       "ID": "PFA_22",
@@ -9219,7 +9224,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "PFA_28",
@@ -9227,7 +9232,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "PFA_29",
@@ -9243,7 +9248,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "PFA_30",
@@ -9251,7 +9256,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16729
+      "UsersEstimate": 16730
     },
     {
       "ID": "PFA_31",
@@ -9283,7 +9288,7 @@
       "Name": "Floo Around the World",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "PFA_35",
@@ -9291,7 +9296,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16729
+      "UsersEstimate": 16730
     },
     {
       "ID": "PFA_36",
@@ -9371,7 +9376,7 @@
       "Name": "The Spell Master",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 13941
+      "UsersEstimate": 13942
     },
     {
       "ID": "PFA_45",
@@ -9387,7 +9392,7 @@
       "Name": "The Wise Owl",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "PFA_6",
@@ -9419,14 +9424,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16729
+      "UsersEstimate": 16730
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 278824,
+      "Progressed": 278831,
       "Completed": 401
     }
   ],
@@ -9434,8 +9439,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-12T04:57:50.5253403+00:00",
-  "LastChanged_Achievements": "2023-06-12T09:05:54.2930929+00:00",
+  "LastChanged_Achievements": "2023-06-12T10:05:41.7738598+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:27.3205704+00:00",
-  "LastUpdate_Ratings": "2023-06-12T08:57:50.3388812+00:00",
-  "LastUpdate_Achievements": "2023-06-12T09:05:54.2932124+00:00"
+  "LastUpdate_Ratings": "2023-06-12T09:57:55.4119041+00:00",
+  "LastUpdate_Achievements": "2023-06-12T10:05:41.7740683+00:00"
 }

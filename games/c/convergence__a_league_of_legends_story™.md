@@ -7,10 +7,10 @@
 | Treasure Trove | 8.00% | ~53 |
 | Cartographer | 8.00% | ~53 |
 | Time Heals All Wounds | 8.00% | ~53 |
+| The Steel Shadow | 7.00% | ~46 |
 | Make Up For Lost Time | 7.00% | ~46 |
 | The Prince in Heels | 7.00% | ~46 |
 | Immaculate Aim | 7.00% | ~46 |
-| The Steel Shadow | 6.00% | ~40 |
 | The Mysterious Stranger | 6.00% | ~40 |
 | Rail Rat | 6.00% | ~40 |
 | Time Flies | 6.00% | ~40 |

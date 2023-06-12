@@ -35,8 +35,8 @@
 | Extreme Makeover | 4.00% | ~25 |
 | The Improvinator | 3.00% | ~19 |
 | The Last Supper | 3.00% | ~19 |
+| 2018: A Soup Odyssey | 3.00% | ~19 |
 | Bovine Domain | 2.00% | ~13 |
-| 2018: A Soup Odyssey | 2.00% | ~13 |
 | That's No Moon! | 2.00% | ~13 |
 | AAARGH! | 1.00% | ~6 |
 | No Ticket | 1.00% | ~6 |

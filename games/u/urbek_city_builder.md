@@ -7,7 +7,7 @@
 | Small town | 62.00% | ~149 |
 | I like parks | 49.00% | ~118 |
 | It is nice to share with friends in the city | 25.00% | ~60 |
-| Sport is good for you | 25.00% | ~60 |
+| Sport is good for you | 24.00% | ~58 |
 | The spiritual world... | 23.00% | ~55 |
 | The woodcutter | 20.00% | ~48 |
 | I like books | 19.00% | ~46 |
@@ -18,19 +18,19 @@
 | King of fish | 9.00% | ~22 |
 | I love books! | 8.00% | ~19 |
 | I love parks | 8.00% | ~19 |
-| What would we do if we can't go out with friends? | 8.00% | ~19 |
+| What would we do if we can't go out with friends? | 7.00% | ~17 |
 | Food producer | 5.00% | ~12 |
 | Metropolurbek | 5.00% | ~12 |
 | Sport is the best thing | 4.00% | ~10 |
-| Banking city | 3.00% | ~7 |
-| Read! Everyone should read! | 3.00% | ~7 |
 | I am very happy! | 3.00% | ~7 |
 | Little Mayor | 3.00% | ~7 |
-| Temperate builder | 3.00% | ~7 |
+| Banking city | 2.00% | ~5 |
 | Food provider master | 2.00% | ~5 |
 | City crisis | 2.00% | ~5 |
+| Read! Everyone should read! | 2.00% | ~5 |
 | Oh, I love parks, listening to birds! | 2.00% | ~5 |
 | Rebel city | 2.00% | ~5 |
+| Temperate builder | 2.00% | ~5 |
 | Temperate urban planner | 2.00% | ~5 |
 | Archipelago builder | 1.00% | ~2 |
 | What is there after death? | 1.00% | ~2 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 241)  
+Progressed: 241 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 234 | 0 |
 | 2023-06-10 | 236 | 0 |
 | 2023-06-11 | 240 | 0 |
+| 2023-06-12 | 241 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

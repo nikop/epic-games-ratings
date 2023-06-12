@@ -1496,9 +1496,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64699,
+  "EOS_Progressed": 64703,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 1003,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6021,6 +6021,11 @@
       "Time": "2023-06-12T09:07:42.1770197+00:00",
       "NumProgressed": 64699,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-12T10:07:27.9496616+00:00",
+      "NumProgressed": 64703,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6168,15 +6173,15 @@
       "Name": "Dressed to Impress",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
       "SetID": "4eo5ebm",
       "Name": "Fusion Expert",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 453
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -6184,7 +6189,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -6519,13 +6524,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64699,
+      "Progressed": 64703,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34979,
+      "Progressed": 34983,
       "Completed": 2646
     }
   ],
@@ -6533,8 +6538,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-12T09:01:00.510468+00:00",
-  "LastChanged_Achievements": "2023-06-12T09:07:42.1770192+00:00",
+  "LastChanged_Achievements": "2023-06-12T10:07:27.9496605+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-12T09:01:00.5104688+00:00",
-  "LastUpdate_Achievements": "2023-06-12T09:07:42.177126+00:00"
+  "LastUpdate_Ratings": "2023-06-12T10:01:02.1695322+00:00",
+  "LastUpdate_Achievements": "2023-06-12T10:07:27.9497518+00:00"
 }

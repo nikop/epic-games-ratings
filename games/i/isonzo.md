@@ -6,16 +6,16 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,345 |
-| Tutti Eroi! | 54.00% | ~3,345 |
-| You Shall Not Pass | 52.00% | ~3,221 |
+| Peak Performance | 54.00% | ~3,346 |
+| Tutti Eroi! | 54.00% | ~3,346 |
+| You Shall Not Pass | 52.00% | ~3,222 |
 | Avanti Savoia! | 47.00% | ~2,912 |
-| Conrad von Hotzensocks | 36.00% | ~2,230 |
-| Mamma Mia! | 36.00% | ~2,230 |
-| Gabriele D'Annunzio | 32.00% | ~1,982 |
+| Conrad von Hotzensocks | 36.00% | ~2,231 |
+| Mamma Mia! | 36.00% | ~2,231 |
+| Gabriele D'Annunzio | 32.00% | ~1,983 |
 | Silver Lining | 28.00% | ~1,735 |
 | Aurelio Baruzzi | 22.00% | ~1,363 |
-| Veni Vidi Vici | 22.00% | ~1,363 |
+| Veni Vidi Vici | 21.00% | ~1,301 |
 | Decimation | 20.00% | ~1,239 |
 | Donatello | 20.00% | ~1,239 |
 | Insubordination | 19.00% | ~1,177 |
@@ -26,10 +26,10 @@ Number of Ratings: 98  (23.09.2022)
 | Dirty Dozen | 13.00% | ~805 |
 | Luigi Cadorna | 13.00% | ~805 |
 | Uomo Universale | 13.00% | ~805 |
-| Machiavelli | 12.00% | ~743 |
-| Shaken, Not Stirred | 12.00% | ~743 |
-| Die Bosniaken Kommen! | 11.00% | ~681 |
-| The Devil's Paintbrush | 11.00% | ~681 |
+| Machiavelli | 12.00% | ~744 |
+| Shaken, Not Stirred | 12.00% | ~744 |
+| Die Bosniaken Kommen! | 11.00% | ~682 |
+| The Devil's Paintbrush | 11.00% | ~682 |
 | Dante's Inferno | 10.00% | ~620 |
 | I Have the High Ground | 9.00% | ~558 |
 | Millenial | 9.00% | ~558 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,195 (Ranked 124)  
+Progressed: 6,196 (Ranked 124)  
 Completed: 8 (0.13%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 8 (0.13%) (Ranked 162)
 | 2023-06-09 | 6,139 | 8 |
 | 2023-06-10 | 6,159 | 8 |
 | 2023-06-11 | 6,189 | 8 |
-| 2023-06-12 | 6,195 | 8 |
+| 2023-06-12 | 6,196 | 8 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 442)  
 Sum: 245 (Ranked 345)  

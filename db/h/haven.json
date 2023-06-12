@@ -946,9 +946,9 @@
       "ID": "17",
       "SetID": "n50no0",
       "Name": "Balding bloot!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 995
     },
     {
       "ID": "18",
@@ -1130,8 +1130,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-12T09:07:30.6723393+00:00",
+  "LastChanged_Achievements": "2023-06-12T10:07:16.8006219+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:57.0089553+00:00",
-  "LastUpdate_Ratings": "2023-06-12T09:00:44.1003526+00:00",
-  "LastUpdate_Achievements": "2023-06-12T09:07:30.6723829+00:00"
+  "LastUpdate_Ratings": "2023-06-12T10:00:44.6943935+00:00",
+  "LastUpdate_Achievements": "2023-06-12T10:07:16.800666+00:00"
 }

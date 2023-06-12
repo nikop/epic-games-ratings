@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -688,7 +688,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2400,
+  "EOS_Progressed": 2401,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -2478,6 +2478,11 @@
       "Time": "2023-06-12T08:07:29.2727488+00:00",
       "NumProgressed": 2400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T10:07:09.6075189+00:00",
+      "NumProgressed": 2401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2487,9 +2492,9 @@
       "ID": "ACH_BACKPACKER",
       "SetID": "72olkc5",
       "Name": "Backpacker",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_BING-BONG",
@@ -2519,9 +2524,9 @@
       "ID": "ACH_COPS-CALLED",
       "SetID": "72olkc5",
       "Name": "Cops called!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -2711,9 +2716,9 @@
       "ID": "ACH_PRINCE-OF-PHILLY",
       "SetID": "72olkc5",
       "Name": "Prince of Philly",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -2823,9 +2828,9 @@
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
       "SetID": "72olkc5",
       "Name": "Trick shot marksman",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -2865,22 +2870,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2400,
+      "Progressed": 2401,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-11T15:58:45.9409739+00:00",
-  "LastChanged_Achievements": "2023-06-12T09:07:23.0873384+00:00",
+  "LastChanged_Achievements": "2023-06-12T10:07:09.6075183+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:26.2561369+00:00",
-  "LastUpdate_Ratings": "2023-06-12T09:00:07.6272537+00:00",
-  "LastUpdate_Achievements": "2023-06-12T09:07:23.0874601+00:00"
+  "LastUpdate_Ratings": "2023-06-12T10:00:07.7489003+00:00",
+  "LastUpdate_Achievements": "2023-06-12T10:07:09.6075701+00:00"
 }

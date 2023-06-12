@@ -667,7 +667,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 25895,
+  "EOS_Progressed": 25896,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 1177,
   "EOS_NewCompleters": 1,
@@ -6162,6 +6162,11 @@
       "Time": "2023-06-12T09:07:21.0019396+00:00",
       "NumProgressed": 25895,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-12T10:07:07.5085661+00:00",
+      "NumProgressed": 25896,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 39,
@@ -6397,7 +6402,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "ultimate",
@@ -6484,15 +6489,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 25895,
+      "Progressed": 25896,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-07T17:59:37.4425865+00:00",
-  "LastChanged_Achievements": "2023-06-12T09:07:21.0019391+00:00",
+  "LastChanged_Achievements": "2023-06-12T10:07:07.5085653+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:39.490472+00:00",
-  "LastUpdate_Ratings": "2023-06-12T09:00:24.0831377+00:00",
-  "LastUpdate_Achievements": "2023-06-12T09:07:21.002049+00:00"
+  "LastUpdate_Ratings": "2023-06-12T10:00:24.4769831+00:00",
+  "LastUpdate_Achievements": "2023-06-12T10:07:07.5086773+00:00"
 }
