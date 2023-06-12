@@ -1,27 +1,27 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 515)  
+Rating: 4.52 (Ranked 514)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 42.00% | ~5,534 |
-| Man of politics | 35.00% | ~4,611 |
+| Man of politics | 35.00% | ~4,612 |
 | Friends of sorts | 34.00% | ~4,480 |
 | Yet another secret | 34.00% | ~4,480 |
 | Let there be darkness | 33.00% | ~4,348 |
-| End of Book One | 31.00% | ~4,084 |
+| End of Book One | 31.00% | ~4,085 |
 | Garden of Eden | 25.00% | ~3,294 |
 | Wannabe knight | 24.00% | ~3,162 |
 | Full house | 24.00% | ~3,162 |
-| Help an old friend | 22.00% | ~2,898 |
+| Help an old friend | 22.00% | ~2,899 |
 | Two of us | 20.00% | ~2,635 |
-| Negotiation skills | 19.00% | ~2,503 |
-| Workers' union | 19.00% | ~2,503 |
+| Negotiation skills | 19.00% | ~2,504 |
+| Workers' union | 19.00% | ~2,504 |
 | End of Book Two | 18.00% | ~2,372 |
 | Everything's in order | 17.00% | ~2,240 |
-| Jack was here! | 15.00% | ~1,976 |
+| Jack was here! | 15.00% | ~1,977 |
 | Twist of Fate | 14.00% | ~1,845 |
 | Exterminator | 14.00% | ~1,845 |
 | Whodunnit | 13.00% | ~1,713 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,186 |
 | A cry for help | 8.00% | ~1,054 |
 | Silentium est aureum | 7.00% | ~922 |
-| Rebel without a cause | 6.00% | ~790 |
+| Rebel without a cause | 6.00% | ~791 |
 | Staring contest champion | 5.00% | ~659 |
 | Lone wolf | 5.00% | ~659 |
 | Vox Populi | 5.00% | ~659 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~395 |
 | Boy of mystery | 2.00% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,175 (Ranked 106)  
+Progressed: 13,177 (Ranked 106)  
 Completed: 99 (0.75%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 99 (0.75%) (Ranked 100)
 | 2023-06-09 | 13,111 | 99 |
 | 2023-06-10 | 13,143 | 99 |
 | 2023-06-11 | 13,175 | 99 |
+| 2023-06-12 | 13,177 | 99 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 290)  
 Sum: 188 (Ranked 359)  

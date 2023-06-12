@@ -6,23 +6,23 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,044 |
-| Landlord | 30.00% | ~15,870 |
-| Bannerlord | 21.00% | ~11,109 |
-| Horde breaker | 21.00% | ~11,109 |
-| Lawmaker | 21.00% | ~11,109 |
-| Trained | 20.00% | ~10,580 |
-| The king is pleased | 17.00% | ~8,993 |
-| King Solomon | 16.00% | ~8,464 |
-| I can do it | 15.00% | ~7,935 |
-| Apple of my eye | 14.00% | ~7,406 |
-| God of the Arena | 12.00% | ~6,348 |
-| Against all odds | 10.00% | ~5,290 |
-| Duelist | 9.00% | ~4,761 |
-| Swordbearer | 9.00% | ~4,761 |
-| Dynasty | 8.00% | ~4,232 |
-| I spit on your grave | 8.00% | ~4,232 |
-| What have the Romans ever done for us? | 8.00% | ~4,232 |
+| Lawbringer | 36.00% | ~19,047 |
+| Landlord | 30.00% | ~15,872 |
+| Bannerlord | 21.00% | ~11,110 |
+| Horde breaker | 21.00% | ~11,110 |
+| Lawmaker | 21.00% | ~11,110 |
+| Trained | 20.00% | ~10,581 |
+| The king is pleased | 17.00% | ~8,994 |
+| King Solomon | 16.00% | ~8,465 |
+| I can do it | 15.00% | ~7,936 |
+| Apple of my eye | 14.00% | ~7,407 |
+| God of the Arena | 12.00% | ~6,349 |
+| Against all odds | 10.00% | ~5,291 |
+| Duelist | 9.00% | ~4,762 |
+| Swordbearer | 9.00% | ~4,762 |
+| Dynasty | 8.00% | ~4,233 |
+| I spit on your grave | 8.00% | ~4,233 |
+| What have the Romans ever done for us? | 8.00% | ~4,233 |
 | Butterlord | 7.00% | ~3,703 |
 | Mastery | 7.00% | ~3,703 |
 | This Is Our Land | 7.00% | ~3,703 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,901 (Ranked 79)  
+Progressed: 52,907 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 52,654 | 0 |
 | 2023-06-10 | 52,776 | 0 |
 | 2023-06-11 | 52,899 | 0 |
-| 2023-06-12 | 52,901 | 0 |
+| 2023-06-12 | 52,907 | 0 |
 ## Awards
 Max (Character Customization): 6,659  (Ranked 49)  
 Sum: 13,375 (Ranked 67)  

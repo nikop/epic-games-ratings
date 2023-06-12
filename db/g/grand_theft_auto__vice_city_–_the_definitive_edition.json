@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 357,
+  "Ranking_Rating": 358,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 115,
-  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -418,11 +418,11 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 8268,
-  "EOS_Completed": 29,
-  "EOS_NewPlayers": 550,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Progressed": 8271,
+  "EOS_Completed": 30,
+  "EOS_NewPlayers": 549,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -4308,6 +4308,11 @@
       "Time": "2023-06-12T00:03:37.4136782+00:00",
       "NumProgressed": 8268,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-06-12T02:23:32.9058814+00:00",
+      "NumProgressed": 8271,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 34,
@@ -4407,7 +4412,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH13",
@@ -4423,7 +4428,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "ACH15",
@@ -4447,7 +4452,7 @@
       "Name": "Gun for Hire",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH18",
@@ -4479,7 +4484,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3557
     },
     {
       "ID": "ACH22",
@@ -4487,7 +4492,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "ACH23",
@@ -4495,7 +4500,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "ACH24",
@@ -4527,7 +4532,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH28",
@@ -4590,16 +4595,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8268,
-      "Completed": 29
+      "Progressed": 8271,
+      "Completed": 30
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-10T11:58:23.7824085+00:00",
-  "LastChanged_Achievements": "2023-06-12T00:03:37.4136775+00:00",
+  "LastChanged_Achievements": "2023-06-12T02:23:32.9058807+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-11T23:58:59.3225777+00:00",
-  "LastUpdate_Achievements": "2023-06-12T00:03:37.4137157+00:00"
+  "LastUpdate_Ratings": "2023-06-12T02:19:07.9353663+00:00",
+  "LastUpdate_Achievements": "2023-06-12T02:23:32.9059462+00:00"
 }

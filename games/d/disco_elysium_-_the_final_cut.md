@@ -6,28 +6,28 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,941 |
-| Biggest Communism Builder | 24.00% | ~29,093 |
-| The World's Most Laughable Centrist | 20.00% | ~24,244 |
-| Il Coppo Del'Arte! | 18.00% | ~21,819 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,395 |
-| Hyperstellar Law Official | 15.00% | ~18,183 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~16,971 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,758 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,758 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,334 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,910 |
+| Goodest Of The Good Cops | 28.00% | ~33,944 |
+| Biggest Communism Builder | 24.00% | ~29,095 |
+| The World's Most Laughable Centrist | 20.00% | ~24,246 |
+| Il Coppo Del'Arte! | 18.00% | ~21,821 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,397 |
+| Hyperstellar Law Official | 15.00% | ~18,184 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~16,972 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,760 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,760 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,335 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,911 |
 | Unbelievably Boring **** | 8.00% | ~9,698 |
 | Enemy Of The Physical Realm | 8.00% | ~9,698 |
-| Hardie's Heroes | 5.00% | ~6,061 |
+| Hardie's Heroes | 5.00% | ~6,062 |
 | The Lawbringer | 4.00% | ~4,849 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,849 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,637 |
 | Bother Kim After Hours | 3.00% | ~3,637 |
-| Baddest Of the Bad Cops | 2.00% | ~2,424 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,424 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,424 |
-| Wheel of Pleasure and Light | 2.00% | ~2,424 |
+| Baddest Of the Bad Cops | 2.00% | ~2,425 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,425 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,425 |
+| Wheel of Pleasure and Light | 2.00% | ~2,425 |
 | Massive Torque Dork | 1.00% | ~1,212 |
 | Avowed Inframaterialist | 0.90% | ~1,091 |
 | Real Musor | 0.90% | ~1,091 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~121 |
 | What body? | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,219 (Ranked 59)  
+Progressed: 121,230 (Ranked 59)  
 Completed: 25 (0.02%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 25 (0.02%) (Ranked 199)
 | 2023-06-09 | 120,942 | 25 |
 | 2023-06-10 | 121,075 | 25 |
 | 2023-06-11 | 121,213 | 25 |
-| 2023-06-12 | 121,219 | 25 |
+| 2023-06-12 | 121,230 | 25 |
 ## Awards
 Max (Character Customization): 695  (Ranked 158)  
 Sum: 1,054 (Ranked 231)  

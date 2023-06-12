@@ -242,6 +242,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Once More Into The Breach | 0.20% | ~181 |
 | Nightmare Mode | 0.20% | ~114 |
 | Wyllowwood | 0.20% | ~181 |
+| Smooth Talkers | 0.20% | ~114 |
 | An Illithid Undertaking | 0.20% | ~114 |
 | An Illithid Ambush | 0.20% | ~114 |
 | Déjà Vu | 0.20% | ~114 |
@@ -425,7 +426,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thrice More Into The Breach | 0.10% | ~57 |
 | Displaced Anger | 0.10% | ~90 |
 | Ettercap Swarm | 0.10% | ~57 |
-| Smooth Talkers | 0.10% | ~57 |
 | Relay Race | 0.10% | ~90 |
 | Misty Undermountain | 0.10% | ~57 |
 | An Owlbear of an Undertaking | 0.10% | ~57 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,483 (Ranked 64)  
-Completed: 1,929 (2.13%) (Ranked 66)  
+Progressed: 90,492 (Ranked 64)  
+Completed: 1,929 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -553,7 +553,7 @@ Completed: 1,929 (2.13%) (Ranked 66)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
-| 2023-06-12 | 90,483 | 1,929 |
+| 2023-06-12 | 90,492 | 1,929 |
 ## Awards
 Max (Diverse Characters): 4,934  (Ranked 64)  
 Sum: 30,081 (Ranked 37)  

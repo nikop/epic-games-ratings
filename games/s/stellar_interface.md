@@ -4,61 +4,61 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 83.00% | ~33 |
-| Killing Spree | 68.00% | ~27 |
-| 5Gb HDD | 48.00% | ~19 |
-| Merchant Prince I | 45.00% | ~18 |
-| Dominating | 30.00% | ~12 |
-| Fighting Fit I | 28.00% | ~11 |
-| Rambo I | 23.00% | ~9 |
-| 10Gb HDD | 23.00% | ~9 |
+| First Blood | 83.00% | ~34 |
+| Killing Spree | 68.00% | ~28 |
+| 5Gb HDD | 49.00% | ~20 |
+| Merchant Prince I | 46.00% | ~19 |
+| Dominating | 32.00% | ~13 |
+| Fighting Fit I | 29.00% | ~12 |
+| Rambo I | 24.00% | ~10 |
+| 10Gb HDD | 24.00% | ~10 |
 | The Vette | 20.00% | ~8 |
 | Mega Kill | 15.00% | ~6 |
-| Almost There I | 13.00% | ~5 |
+| Almost There I | 15.00% | ~6 |
 | Omicron Alpha | 10.00% | ~4 |
 | Stoic | 10.00% | ~4 |
-| Bronze Prince of Ball-air | 8.00% | ~3 |
-| Pacifist | 8.00% | ~3 |
-| Collateral Damage I | 8.00% | ~3 |
+| Bronze Prince of Ball-air | 7.00% | ~3 |
+| Pacifist | 7.00% | ~3 |
+| Collateral Damage I | 7.00% | ~3 |
 | Hoarder | 5.00% | ~2 |
 | Defrosted | 5.00% | ~2 |
 | Galactic Cadet | 5.00% | ~2 |
-| Bronze Foundation | 3.00% | ~1 |
-| System Ensign | 3.00% | ~1 |
-| Sectoral Ensign | 3.00% | ~1 |
-| Bronze BBQ | 3.00% | ~1 |
-| Bronze Pest Control | 3.00% | ~1 |
-| Cartridge Hoarder | 3.00% | ~1 |
-| Rambo III | 3.00% | ~1 |
-| Rambo IV | 3.00% | ~1 |
-| Curious | 3.00% | ~1 |
-| Rambo II | 3.00% | ~1 |
-| Hitchhiker | 3.00% | ~1 |
-| Pilgrim | 3.00% | ~1 |
-| Diligent | 3.00% | ~1 |
-| Omicron Theta | 3.00% | ~1 |
-| Omicron Beta | 3.00% | ~1 |
-| No Peace | 3.00% | ~1 |
-| Bird of Prey | 3.00% | ~1 |
-| Food Poisoning | 3.00% | ~1 |
-| Golden Prince of Ball-air | 3.00% | ~1 |
-| Space Surfer | 3.00% | ~1 |
-| Wicked Sick | 3.00% | ~1 |
-| Usurper I | 3.00% | ~1 |
-| Usurper II | 3.00% | ~1 |
-| Unstoppable | 3.00% | ~1 |
-| Flower Power | 3.00% | ~1 |
-| 25Gb HDD | 3.00% | ~1 |
-| 50Gb HDD | 3.00% | ~1 |
-| Galactic Lieutenant | 3.00% | ~1 |
-| Silver Prince of Ball-air | 3.00% | ~1 |
-| Silver Foundation | 3.00% | ~1 |
-| Sectoral Captain | 3.00% | ~1 |
-| Silver Pest Control | 3.00% | ~1 |
-| Mysterious Skin | 3.00% | ~1 |
-| Collateral Damage II | 3.00% | ~1 |
-| Merchant Prince II | 3.00% | ~1 |
-| Fighting Fit II | 3.00% | ~1 |
+| Bronze Foundation | 2.00% | ~1 |
+| System Ensign | 2.00% | ~1 |
+| Sectoral Ensign | 2.00% | ~1 |
+| Bronze BBQ | 2.00% | ~1 |
+| Bronze Pest Control | 2.00% | ~1 |
+| Cartridge Hoarder | 2.00% | ~1 |
+| Rambo III | 2.00% | ~1 |
+| Rambo IV | 2.00% | ~1 |
+| Curious | 2.00% | ~1 |
+| Rambo II | 2.00% | ~1 |
+| Hitchhiker | 2.00% | ~1 |
+| Pilgrim | 2.00% | ~1 |
+| Diligent | 2.00% | ~1 |
+| Omicron Theta | 2.00% | ~1 |
+| Omicron Beta | 2.00% | ~1 |
+| No Peace | 2.00% | ~1 |
+| Bird of Prey | 2.00% | ~1 |
+| Food Poisoning | 2.00% | ~1 |
+| Golden Prince of Ball-air | 2.00% | ~1 |
+| Space Surfer | 2.00% | ~1 |
+| Wicked Sick | 2.00% | ~1 |
+| Usurper I | 2.00% | ~1 |
+| Usurper II | 2.00% | ~1 |
+| Unstoppable | 2.00% | ~1 |
+| Flower Power | 2.00% | ~1 |
+| 25Gb HDD | 2.00% | ~1 |
+| 50Gb HDD | 2.00% | ~1 |
+| Galactic Lieutenant | 2.00% | ~1 |
+| Silver Prince of Ball-air | 2.00% | ~1 |
+| Silver Foundation | 2.00% | ~1 |
+| Sectoral Captain | 2.00% | ~1 |
+| Silver Pest Control | 2.00% | ~1 |
+| Mysterious Skin | 2.00% | ~1 |
+| Collateral Damage II | 2.00% | ~1 |
+| Merchant Prince II | 2.00% | ~1 |
+| Fighting Fit II | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
@@ -137,7 +137,7 @@
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 317)  
+Progressed: 41 (Ranked 316)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,3 +163,4 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 35 | 0 |
 | 2023-06-10 | 36 | 0 |
 | 2023-06-11 | 40 | 0 |
+| 2023-06-12 | 41 | 0 |

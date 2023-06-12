@@ -26,8 +26,8 @@ Rating: 4.57 (Ranked 441)
 | Enchanted Archipelago | 28.00% | ~1,280 |
 | Impenetrable Fortress | 27.00% | ~1,234 |
 | The Magic That Empowers Me! | 20.00% | ~914 |
+| Arch Mage | 20.00% | ~914 |
 | Preparation Is Everything | 20.00% | ~914 |
-| Arch Mage | 19.00% | ~868 |
 | God Emperor | 18.00% | ~823 |
 | Eternal Lord | 17.00% | ~777 |
 | Crimson Caldera | 17.00% | ~777 |

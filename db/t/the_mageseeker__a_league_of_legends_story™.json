@@ -2,13 +2,13 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 80,
+  "Ranking_Rating": 81,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -118,7 +118,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2331,
+  "EOS_Progressed": 2332,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -2523,6 +2523,11 @@
       "Time": "2023-06-11T22:06:14.4926808+00:00",
       "NumProgressed": 2331,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T02:27:13.9708797+00:00",
+      "NumProgressed": 2332,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2534,7 +2539,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 11,
       "XP": 120,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -2550,7 +2555,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -2598,7 +2603,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2614,7 +2619,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2686,7 +2691,7 @@
       "Name": "Do you trust me?",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -2702,7 +2707,7 @@
       "Name": "Chains master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -2758,7 +2763,7 @@
       "Name": "Thornbarrow",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2774,7 +2779,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2846,7 +2851,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "STB_PLATINUM",
@@ -2870,7 +2875,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2918,7 +2923,7 @@
       "Name": "Spellcrafting",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -2957,7 +2962,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2331,
+      "Progressed": 2332,
       "Completed": 1
     }
   ],
@@ -2965,8 +2970,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-12T00:07:23.9609506+00:00",
+  "LastChanged_Achievements": "2023-06-12T02:27:13.9708792+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-11T23:58:13.2587129+00:00",
-  "LastUpdate_Achievements": "2023-06-12T00:07:23.9609979+00:00"
+  "LastUpdate_Ratings": "2023-06-12T02:18:17.5420582+00:00",
+  "LastUpdate_Achievements": "2023-06-12T02:27:13.9709798+00:00"
 }

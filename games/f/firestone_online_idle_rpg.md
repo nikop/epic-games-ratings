@@ -30,11 +30,11 @@ Rating: 4.05 (Ranked 890)
 | Scientist | 9.00% | ~124 |
 | Challenger | 8.00% | ~110 |
 | Daily Quest Completionist | 8.00% | ~110 |
+| Hunter | 8.00% | ~110 |
 | Scroll Master | 8.00% | ~110 |
 | The power of Awakening | 8.00% | ~110 |
 | Doing My Part | 7.00% | ~96 |
 | Frostfire Liberator | 7.00% | ~96 |
-| Hunter | 7.00% | ~96 |
 | Mastery | 7.00% | ~96 |
 | Moving Up The Ladder | 7.00% | ~96 |
 | Relic Of The Past | 7.00% | ~96 |
@@ -70,9 +70,9 @@ Rating: 4.05 (Ranked 890)
 | Guardian Master | 0.40% | ~6 |
 | Mythic Power | 0.40% | ~6 |
 | Pokerface | 0.30% | ~4 |
+| Titan Power | 0.30% | ~4 |
 | Beast War Machines | 0.20% | ~3 |
 | Enhanced War Machines | 0.20% | ~3 |
-| Titan Power | 0.20% | ~3 |
 | Angel Power | 0.10% | ~1 |
 | Conqueror | 0.10% | ~1 |
 | Enchanting skill x5 | 0.10% | ~1 |

@@ -6,16 +6,16 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,419 |
-| Self-Improvement | 72.00% | ~1,174 |
-| Perky | 65.00% | ~1,060 |
+| Unforgiven | 87.00% | ~1,420 |
+| Self-Improvement | 72.00% | ~1,175 |
+| Perky | 65.00% | ~1,061 |
 | Let’s Ride | 60.00% | ~979 |
 | Welcome to the Weird West | 57.00% | ~930 |
-| Dead or Alive | 55.00% | ~897 |
-| Full House | 36.00% | ~587 |
+| Dead or Alive | 55.00% | ~898 |
+| Full House | 36.00% | ~588 |
 | Off the Trail | 34.00% | ~555 |
 | Justice Served | 29.00% | ~473 |
-| Chain Reaction | 27.00% | ~440 |
+| Chain Reaction | 27.00% | ~441 |
 | Dishonored | 25.00% | ~408 |
 | Rain of Death | 25.00% | ~408 |
 | Scholar | 25.00% | ~408 |
@@ -32,13 +32,13 @@ Number of Ratings: 125  (23.09.2022)
 | Out on the Ebb Tide | 12.00% | ~196 |
 | Power Behind the Pulpit | 12.00% | ~196 |
 | Turning the Tables | 12.00% | ~196 |
-| Something Wicked This Way Comes… | 11.00% | ~179 |
-| There is Hope | 11.00% | ~179 |
+| Something Wicked This Way Comes… | 11.00% | ~180 |
+| There is Hope | 11.00% | ~180 |
 | Loyalty to the Pack | 9.00% | ~147 |
 | Mystery Machine | 9.00% | ~147 |
 | The Philosopher’s Stone | 9.00% | ~147 |
-| Gold Digger | 8.00% | ~130 |
-| Eternity Can Wait | 8.00% | ~130 |
+| Gold Digger | 8.00% | ~131 |
+| Eternity Can Wait | 8.00% | ~131 |
 | Do Not Pass Go… | 7.00% | ~114 |
 | Getting the Gang Back Together | 7.00% | ~114 |
 | Monster Hunter | 7.00% | ~114 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.30% | ~5 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,631 (Ranked 158)  
+Progressed: 1,632 (Ranked 158)  
 Completed: 2 (0.12%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 2 (0.12%) (Ranked 164)
 | 2023-06-09 | 1,624 | 2 |
 | 2023-06-10 | 1,628 | 2 |
 | 2023-06-11 | 1,631 | 2 |
+| 2023-06-12 | 1,632 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 471)  
 Sum: 24 (Ranked 477)  

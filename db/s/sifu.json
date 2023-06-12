@@ -4554,9 +4554,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 708829,
+  "EOS_Progressed": 708848,
   "EOS_Completed": 12766,
-  "EOS_NewPlayers": 1405,
+  "EOS_NewPlayers": 1414,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9489,6 +9489,11 @@
       "Time": "2023-06-12T00:07:33.8774784+00:00",
       "NumProgressed": 708829,
       "NumCompleted": 12766
+    },
+    {
+      "Time": "2023-06-12T02:27:23.9265255+00:00",
+      "NumProgressed": 708848,
+      "NumCompleted": 12766
     }
   ],
   "TotalAchievements": 50,
@@ -9628,7 +9633,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2126
+      "UsersEstimate": 2127
     },
     {
       "ID": "18_Detective_H4",
@@ -9636,7 +9641,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2126
+      "UsersEstimate": 2127
     },
     {
       "ID": "19_Detective_H5",
@@ -9796,7 +9801,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2126
+      "UsersEstimate": 2127
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -9844,7 +9849,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -9899,21 +9904,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18130,
+      "Progressed": 18149,
       "Completed": 10259
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708829,
+      "Progressed": 708848,
       "Completed": 12766
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-11T19:58:38.9031146+00:00",
-  "LastChanged_Achievements": "2023-06-12T00:07:33.8774779+00:00",
+  "LastChanged_Achievements": "2023-06-12T02:27:23.926525+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-11T23:59:52.3642277+00:00",
-  "LastUpdate_Achievements": "2023-06-12T00:07:33.8775327+00:00"
+  "LastUpdate_Ratings": "2023-06-12T02:20:04.8403007+00:00",
+  "LastUpdate_Achievements": "2023-06-12T02:27:23.9266022+00:00"
 }

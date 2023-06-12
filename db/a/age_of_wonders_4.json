@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -222,7 +222,7 @@
   "Tags": [],
   "EOS_Progressed": 4571,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -3756,9 +3756,9 @@
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 914
     },
     {
       "ID": "19",
@@ -4051,8 +4051,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-10T19:59:37.6294765+00:00",
-  "LastChanged_Achievements": "2023-06-12T00:05:39.3941312+00:00",
+  "LastChanged_Achievements": "2023-06-12T02:25:24.8039904+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-12T00:00:23.6019431+00:00",
-  "LastUpdate_Achievements": "2023-06-12T00:05:39.394177+00:00"
+  "LastUpdate_Ratings": "2023-06-12T02:20:38.2521102+00:00",
+  "LastUpdate_Achievements": "2023-06-12T02:25:24.8040496+00:00"
 }

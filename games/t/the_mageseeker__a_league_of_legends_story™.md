@@ -1,13 +1,13 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.80 (Ranked 80)  
+Rating: 4.80 (Ranked 81)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,214 |
+| For Demacia | 95.00% | ~2,215 |
 | No more cages! | 92.00% | ~2,145 |
-| Everfrost | 77.00% | ~1,795 |
+| Everfrost | 77.00% | ~1,796 |
 | Pentakill | 76.00% | ~1,772 |
 | Dark Forest | 76.00% | ~1,772 |
 | The use of petricite | 73.00% | ~1,702 |
@@ -15,13 +15,13 @@ Rating: 4.80 (Ranked 80)
 | Big Helmet Bro | 35.00% | ~816 |
 | Clarion Cove | 35.00% | ~816 |
 | Past trauma | 34.00% | ~793 |
-| Thornbarrow | 33.00% | ~769 |
-| Ternmoat Headquarters | 33.00% | ~769 |
+| Thornbarrow | 33.00% | ~770 |
+| Ternmoat Headquarters | 33.00% | ~770 |
 | Elemental master | 32.00% | ~746 |
 | Cypress Glen Headquarters | 31.00% | ~723 |
 | Old friend | 28.00% | ~653 |
 | Petricite Burst | 28.00% | ~653 |
-| Devineur | 27.00% | ~629 |
+| Devineur | 27.00% | ~630 |
 | Whispers in the Woods I | 26.00% | ~606 |
 | Hijack | 26.00% | ~606 |
 | Ancient power | 23.00% | ~536 |
@@ -43,23 +43,23 @@ Rating: 4.80 (Ranked 80)
 | Meltridge | 13.00% | ~303 |
 | The Central Headquarters | 13.00% | ~303 |
 | Cloven Dell Headquarters | 13.00% | ~303 |
-| Embrace the darkness | 11.00% | ~256 |
-| Whispers in the Woods IV | 11.00% | ~256 |
+| Embrace the darkness | 11.00% | ~257 |
+| Whispers in the Woods IV | 11.00% | ~257 |
 | I smell fear | 10.00% | ~233 |
 | The end of the experiments | 10.00% | ~233 |
 | The Great City of Demacia | 10.00% | ~233 |
 | Call it 'redistribution of magic | 10.00% | ~233 |
 | Truth is a dark mirror | 9.00% | ~210 |
 | Back to sleep, then... | 9.00% | ~210 |
-| Do you trust me? | 8.00% | ~186 |
-| Chains master | 8.00% | ~186 |
-| You can pet the... horse | 8.00% | ~186 |
-| Spellcrafting | 8.00% | ~186 |
+| Do you trust me? | 8.00% | ~187 |
+| Chains master | 8.00% | ~187 |
+| You can pet the... horse | 8.00% | ~187 |
+| Spellcrafting | 8.00% | ~187 |
 | The great mage rebellion starts now | 7.00% | ~163 |
 | Silverwing nest | 2.00% | ~47 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,331 (Ranked 150)  
+Progressed: 2,332 (Ranked 150)  
 Completed: 1 (0.04%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 1 (0.04%) (Ranked 188)
 | 2023-06-09 | 2,305 | 1 |
 | 2023-06-10 | 2,317 | 1 |
 | 2023-06-11 | 2,331 | 1 |
+| 2023-06-12 | 2,332 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

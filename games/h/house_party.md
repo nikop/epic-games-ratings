@@ -30,6 +30,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Magic Number | 0.30% | ~17 |
 | Vickie | 0.30% | ~17 |
 | Amy: Scavenger Hunt | 0.20% | ~11 |
+| Ashley | 0.20% | ~11 |
 | Benedict Brahrnold | 0.20% | ~11 |
 | Casanova | 0.20% | ~11 |
 | Love Conquers All | 0.20% | ~11 |
@@ -39,7 +40,6 @@ Number of Ratings: 177  (23.09.2022)
 | Good Ol' Days | 0.20% | ~11 |
 | Te Amo Lety | 0.20% | ~11 |
 | Against All Odds | 0.10% | ~6 |
-| Ashley | 0.10% | ~6 |
 | Beyond the Call of Dude-y | 0.10% | ~6 |
 | The Bride | 0.10% | ~6 |
 | Casabrova | 0.10% | ~6 |

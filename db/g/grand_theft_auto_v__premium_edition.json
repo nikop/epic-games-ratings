@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5450,11 +5450,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 1427917,
       "NumberOfAwardsMax": 181065
+    },
+    {
+      "Time": "2023-06-12T02:21:33.6835623+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1429327,
+      "NumberOfAwardsMax": 181574
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1427917,
-  "NumberOfAwardsMax": 181065,
+  "NumberOfAwards": 1429327,
+  "NumberOfAwardsMax": 181574,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5467,13 +5473,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 152846
+      "Count": 153248
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 166669
+      "Count": 167168
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5515,7 +5521,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 181065
+      "Count": 181574
     }
   ],
   "EOS_Progressed": 0,
@@ -5529,8 +5535,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-06-11T05:01:14.6634292+00:00",
+  "LastChanged": "2023-06-12T02:21:33.6835621+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:41.2445312+00:00",
-  "LastUpdate_Ratings": "2023-06-12T00:01:14.9244584+00:00",
-  "LastUpdate_Achievements": "2023-06-12T00:05:35.1429536+00:00"
+  "LastUpdate_Ratings": "2023-06-12T02:21:33.6835688+00:00",
+  "LastUpdate_Achievements": "2023-06-12T02:25:20.5079875+00:00"
 }

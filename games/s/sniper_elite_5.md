@@ -1,29 +1,30 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.51 (Ranked 530)  
+Rating: 4.51 (Ranked 529)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~804 |
-| Confirming Suspicions | 24.00% | ~643 |
-| The Kraken Wakes | 20.00% | ~536 |
-| It's Starting to Crack | 17.00% | ~456 |
-| Lord of War | 15.00% | ~402 |
-| Change the Channel | 14.00% | ~375 |
-| Resourceful | 13.00% | ~349 |
-| Taking it back | 12.00% | ~322 |
-| Organ Grinder | 11.00% | ~295 |
-| Target America | 11.00% | ~295 |
-| As Quiet as a Mouse | 10.00% | ~268 |
-| The Kraken Sleeps | 9.00% | ~241 |
-| Liberté | 8.00% | ~214 |
-| Enemy at the Gates | 8.00% | ~214 |
-| Just a Flesh Wound | 8.00% | ~214 |
-| Gunslinger | 8.00% | ~214 |
-| Sharpshooter | 8.00% | ~214 |
-| Explosive Efficiency | 8.00% | ~214 |
+| Meeting Resistance | 30.00% | ~807 |
+| Confirming Suspicions | 24.00% | ~645 |
+| The Kraken Wakes | 20.00% | ~538 |
+| It's Starting to Crack | 17.00% | ~457 |
+| Lord of War | 15.00% | ~403 |
+| Change the Channel | 14.00% | ~376 |
+| Resourceful | 13.00% | ~350 |
+| Taking it back | 12.00% | ~323 |
+| Organ Grinder | 11.00% | ~296 |
+| Target America | 11.00% | ~296 |
+| As Quiet as a Mouse | 10.00% | ~269 |
+| The Kraken Sleeps | 9.00% | ~242 |
+| Liberté | 8.00% | ~215 |
+| Enemy at the Gates | 8.00% | ~215 |
+| Just a Flesh Wound | 8.00% | ~215 |
+| Gunslinger | 8.00% | ~215 |
+| Sharpshooter | 8.00% | ~215 |
+| Explosive Efficiency | 8.00% | ~215 |
 | Opposing Force | 7.00% | ~188 |
+| Fields of Glory | 6.00% | ~161 |
 | Die Nussknacker Sweet! | 6.00% | ~161 |
 | Der Geist | 6.00% | ~161 |
 | Close Quarters | 6.00% | ~161 |
@@ -31,12 +32,11 @@ Rating: 4.51 (Ranked 530)
 | Brains of the Operation | 6.00% | ~161 |
 | Climbing the Ladder | 5.00% | ~134 |
 | No Stone Unturned | 5.00% | ~134 |
-| Fields of Glory | 5.00% | ~134 |
 | Skirmisher | 5.00% | ~134 |
 | Set Europe Ablaze | 5.00% | ~134 |
-| Precision Is Key | 4.00% | ~107 |
-| Rigged to Blow | 3.00% | ~80 |
-| My Little Friend | 3.00% | ~80 |
+| Precision Is Key | 4.00% | ~108 |
+| Rigged to Blow | 3.00% | ~81 |
+| My Little Friend | 3.00% | ~81 |
 | The Long Game | 2.00% | ~54 |
 | It'll Buff Right Out | 2.00% | ~54 |
 | Strategist | 1.00% | ~27 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 530)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,681 (Ranked 146)  
+Progressed: 2,689 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.07%) (Ranked 178)
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
-| 2023-06-12 | 2,681 | 2 |
+| 2023-06-12 | 2,689 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -17,7 +17,7 @@ Rating: 4.58 (Ranked 422)
 | Goal | 22.00% | ~138 |
 | I ran the numbers | 15.00% | ~94 |
 | Taking the plunge | 13.00% | ~82 |
-| Hidden Packages | 10.00% | ~63 |
+| Hidden Packages | 11.00% | ~69 |
 | GOOOAAAL | 9.00% | ~57 |
 | New Kid on the Block | 7.00% | ~44 |
 | Ahoy Hoy | 6.00% | ~38 |

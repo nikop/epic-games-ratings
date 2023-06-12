@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~6,147 |
-| Battering Crew | 20.00% | ~3,073 |
-| The Kingsroad | 19.00% | ~2,920 |
-| Well Stocked | 14.00% | ~2,151 |
-| Royal Fleet | 14.00% | ~2,151 |
-| The Kraken’s Grasp | 10.00% | ~1,537 |
-| Alliance | 9.00% | ~1,383 |
-| Daggers in the Dark | 8.00% | ~1,229 |
-| Oathkeeper | 8.00% | ~1,229 |
-| Influential | 8.00% | ~1,229 |
-| A Long Journey | 8.00% | ~1,229 |
+| Conqueror | 40.00% | ~6,150 |
+| Battering Crew | 20.00% | ~3,075 |
+| The Kingsroad | 19.00% | ~2,921 |
+| Well Stocked | 14.00% | ~2,153 |
+| Royal Fleet | 14.00% | ~2,153 |
+| The Kraken’s Grasp | 10.00% | ~1,538 |
+| Alliance | 9.00% | ~1,384 |
+| Daggers in the Dark | 8.00% | ~1,230 |
+| Oathkeeper | 8.00% | ~1,230 |
+| Influential | 8.00% | ~1,230 |
+| A Long Journey | 8.00% | ~1,230 |
 | Ours is the Fury | 7.00% | ~1,076 |
 | We Do Not Sow | 7.00% | ~1,076 |
 | Winter is Coming | 7.00% | ~1,076 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~922 |
-| Hear me Roar! | 6.00% | ~922 |
-| Defender of the Wall | 6.00% | ~922 |
-| Growing Strong | 5.00% | ~768 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~923 |
+| Hear me Roar! | 6.00% | ~923 |
+| Defender of the Wall | 6.00% | ~923 |
+| Growing Strong | 5.00% | ~769 |
 | What is Dead may Never Die | 3.00% | ~461 |
 | The Swift | 3.00% | ~461 |
-| King in the North | 2.00% | ~307 |
+| King in the North | 2.00% | ~308 |
 | War of the Five Kings | 1.00% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,367 (Ranked 101)  
+Progressed: 15,376 (Ranked 101)  
 Completed: 32 (0.21%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 32 (0.21%) (Ranked 146)
 | 2023-06-09 | 15,105 | 32 |
 | 2023-06-10 | 15,236 | 32 |
 | 2023-06-11 | 15,364 | 32 |
-| 2023-06-12 | 15,367 | 32 |
+| 2023-06-12 | 15,376 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 305)  
 Sum: 782 (Ranked 253)  

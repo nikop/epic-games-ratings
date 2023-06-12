@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 352,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1424,6 +1424,11 @@
       "Time": "2023-06-11T23:03:30.9227928+00:00",
       "NumProgressed": 350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T02:23:45.9697815+00:00",
+      "NumProgressed": 352,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1451,7 +1456,7 @@
       "Name": "Culinary Arts",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "5OvenDishesMenu",
@@ -1491,7 +1496,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Clothes10",
@@ -1609,9 +1614,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 225
     },
     {
       "ID": "Packing20",
@@ -1619,7 +1624,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "PerfectGrade25",
@@ -1633,9 +1638,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 99
     },
     {
       "ID": "RecipeDifferent30",
@@ -1691,7 +1696,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "TrattoriaSet",
@@ -1731,7 +1736,7 @@
       "Name": "Leaning Tower of Pizza",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "WholeBeefDishesMenu",
@@ -1754,7 +1759,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 352,
       "Completed": 0
     }
   ],
@@ -1762,8 +1767,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-12T00:04:11.0920343+00:00",
+  "LastChanged_Achievements": "2023-06-12T02:23:45.9697807+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.9705413+00:00",
-  "LastUpdate_Ratings": "2023-06-11T23:59:08.5153504+00:00",
-  "LastUpdate_Achievements": "2023-06-12T00:04:11.092065+00:00"
+  "LastUpdate_Ratings": "2023-06-12T02:19:17.7010049+00:00",
+  "LastUpdate_Achievements": "2023-06-12T02:23:45.969847+00:00"
 }

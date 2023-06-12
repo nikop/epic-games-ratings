@@ -4,8 +4,8 @@
   "ProductSlug": "guacamelee-2-ac4977",
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
-  "LastChanged_Achievements": "2023-06-12T00:02:25.7952192+00:00",
+  "LastChanged_Achievements": "2023-06-12T02:22:49.2456201+00:00",
   "LastUpdate_AppInfo": "2023-06-08T14:56:56.6198253+00:00",
-  "LastUpdate_Ratings": "2023-06-11T23:57:23.2080937+00:00",
-  "LastUpdate_Achievements": "2023-06-12T00:02:25.7952217+00:00"
+  "LastUpdate_Ratings": "2023-06-12T02:17:24.6123745+00:00",
+  "LastUpdate_Achievements": "2023-06-12T02:22:49.2456249+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 55.00% | ~1,315 |
-| Keeping it classy | 24.00% | ~574 |
-| Welcome to the family | 18.00% | ~430 |
+| You're free now! | 55.00% | ~1,317 |
+| Keeping it classy | 24.00% | ~575 |
+| Welcome to the family | 18.00% | ~431 |
 | The finer things in life | 16.00% | ~383 |
 | Backpacker | 11.00% | ~263 |
 | Go with the Flow | 11.00% | ~263 |
-| Plastic Surgeon | 9.00% | ~215 |
-| Keep the dream alive | 8.00% | ~191 |
-| The flip trick crown jewel | 8.00% | ~191 |
-| The hard way | 8.00% | ~191 |
-| Good vibes | 7.00% | ~167 |
-| Upfront shredder | 7.00% | ~167 |
-| Finally he zips it | 6.00% | ~143 |
+| Plastic Surgeon | 9.00% | ~216 |
+| Keep the dream alive | 8.00% | ~192 |
+| The flip trick crown jewel | 8.00% | ~192 |
+| The hard way | 8.00% | ~192 |
+| Good vibes | 7.00% | ~168 |
+| Upfront shredder | 7.00% | ~168 |
+| Finally he zips it | 6.00% | ~144 |
+| That pinch! | 6.00% | ~144 |
 | Bottom ply killer | 5.00% | ~120 |
 | Fashionista | 5.00% | ~120 |
 | Fulfilled the dream | 5.00% | ~120 |
 | G'Day Mate! | 5.00% | ~120 |
 | Squad goals | 5.00% | ~120 |
 | Sup widdit big dog! | 5.00% | ~120 |
-| That pinch! | 5.00% | ~120 |
 | Tight lipslides | 5.00% | ~120 |
 | Commence the Hijinx! | 4.00% | ~96 |
 | DIY Boss | 4.00% | ~96 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,391 (Ranked 149)  
+Progressed: 2,395 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 2,344 | 0 |
 | 2023-06-10 | 2,362 | 0 |
 | 2023-06-11 | 2,388 | 0 |
-| 2023-06-12 | 2,391 | 0 |
+| 2023-06-12 | 2,395 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 401)  
 Sum: 421 (Ranked 301)  
