@@ -1,25 +1,25 @@
 # New Tales from the Borderlands
 [Store](https://store.epicgames.com/en-US/p/new-tales-from-the-borderlands)  
 [View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
-Rating: 4.09 (Ranked 881)  
+Rating: 4.09 (Ranked 882)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Who Needs Keys? | 48.00% | ~1,643 |
-| Totally Intentional | 44.00% | ~1,506 |
-| Each Sold Separately | 36.00% | ~1,232 |
-| We're In | 32.00% | ~1,095 |
+| Who Needs Keys? | 48.00% | ~1,644 |
+| Totally Intentional | 44.00% | ~1,507 |
+| Each Sold Separately | 36.00% | ~1,233 |
+| We're In | 32.00% | ~1,096 |
 | Tale in the Toilet | 29.00% | ~993 |
-| You're Not Naked | 28.00% | ~958 |
-| From Zeroes... | 28.00% | ~958 |
+| You're Not Naked | 28.00% | ~959 |
+| From Zeroes... | 28.00% | ~959 |
 | Don't Get Cocky | 26.00% | ~890 |
 | Shard Snatchers | 24.00% | ~822 |
 | You Rich Now! | 22.00% | ~753 |
 | Our Lucky Winner | 20.00% | ~685 |
 | You Poor Now! | 20.00% | ~685 |
 | You Got the Goods, Kid | 20.00% | ~685 |
-| The Shardmenstration | 19.00% | ~650 |
-| Those Were the Days... | 19.00% | ~650 |
+| The Shardmenstration | 19.00% | ~651 |
+| Those Were the Days... | 19.00% | ~651 |
 | ...To Heroes | 18.00% | ~616 |
 | Mas, Por Favor | 17.00% | ~582 |
 | And Still Champion... | 14.00% | ~479 |
@@ -32,7 +32,7 @@ Rating: 4.09 (Ranked 881)
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,423 (Ranked 137)  
+Progressed: 3,424 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-05 | 3,419 | 0 |
 | 2023-06-06 | 3,420 | 0 |
 | 2023-06-09 | 3,423 | 0 |
+| 2023-06-12 | 3,424 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

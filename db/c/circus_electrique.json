@@ -2,12 +2,12 @@
   "ID": "396a808f269241aba0fe2ad322ebd6d5",
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
-  "Ranking_Rating": 854,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 435,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -299,6 +299,11 @@
       "Time": "2023-06-12T05:07:02.2340059+00:00",
       "NumProgressed": 434,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T07:06:32.6076135+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -326,7 +331,7 @@
       "Name": "Lion Tamer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -382,7 +387,7 @@
       "Name": "Time Travel!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -412,9 +417,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "631ndc2",
       "Name": "More Brain Than Brawn",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -548,9 +553,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "631ndc2",
       "Name": "King of District 2",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -598,7 +603,7 @@
       "Name": "Flawless Presentation",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -630,7 +635,7 @@
       "Name": "Self Defense",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -709,7 +714,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 435,
       "Completed": 1
     }
   ],
@@ -717,8 +722,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-12T06:07:17.2451966+00:00",
+  "LastChanged_Achievements": "2023-06-12T07:06:32.607613+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:15.7148549+00:00",
-  "LastUpdate_Ratings": "2023-06-12T05:59:45.742035+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:07:17.2452504+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:59:15.0462137+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:06:32.6076471+00:00"
 }

@@ -1,21 +1,21 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 238)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,872 |
-| That's a Grand Army | 8.00% | ~4,331 |
-| That is mine! | 8.00% | ~4,331 |
-| Victorious! | 8.00% | ~4,331 |
-| Brothers in Arms | 6.00% | ~3,248 |
-| That's a Grand Navy | 6.00% | ~3,248 |
-| Seriously?! | 6.00% | ~3,248 |
-| For the Glory | 5.00% | ~2,707 |
-| Cold War | 4.00% | ~2,165 |
-| True Catholic | 4.00% | ~2,165 |
+| Until death do us apart | 9.00% | ~4,874 |
+| That's a Grand Army | 8.00% | ~4,332 |
+| That is mine! | 8.00% | ~4,332 |
+| Victorious! | 8.00% | ~4,332 |
+| Brothers in Arms | 6.00% | ~3,249 |
+| That's a Grand Navy | 6.00% | ~3,249 |
+| Seriously?! | 6.00% | ~3,249 |
+| For the Glory | 5.00% | ~2,708 |
+| Cold War | 4.00% | ~2,166 |
+| True Catholic | 4.00% | ~2,166 |
 | Defender of the Faith | 3.00% | ~1,624 |
 | It's all about the money | 3.00% | ~1,624 |
 | Respected | 3.00% | ~1,624 |
@@ -31,14 +31,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~1,083 |
 | The Princess is in this Castle | 2.00% | ~1,083 |
 | Total Control | 2.00% | ~1,083 |
-| All That's Thine Shall Be Mine | 1.00% | ~541 |
-| Azur semé de lis or | 1.00% | ~541 |
-| Bright Spark | 1.00% | ~541 |
-| City of Cities | 1.00% | ~541 |
-| Factionalism | 1.00% | ~541 |
-| A Golden Empire | 1.00% | ~541 |
-| The Five Colonies | 1.00% | ~541 |
-| This navy can take it all | 1.00% | ~541 |
+| All That's Thine Shall Be Mine | 1.00% | ~542 |
+| Azur semé de lis or | 1.00% | ~542 |
+| Bright Spark | 1.00% | ~542 |
+| City of Cities | 1.00% | ~542 |
+| Factionalism | 1.00% | ~542 |
+| A Golden Empire | 1.00% | ~542 |
+| The Five Colonies | 1.00% | ~542 |
+| This navy can take it all | 1.00% | ~542 |
 | The Emperors new clothes | 0.90% | ~487 |
 | Isn't this the way to India? | 0.90% | ~487 |
 | Market Control | 0.90% | ~487 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,134 (Ranked 78)  
+Progressed: 54,150 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 52,837 | 0 |
 | 2023-06-10 | 53,460 | 0 |
 | 2023-06-11 | 54,074 | 0 |
-| 2023-06-12 | 54,134 | 0 |
+| 2023-06-12 | 54,150 | 0 |
 ## Awards
 Max (Educational): 5,381  (Ranked 61)  
 Sum: 44,439 (Ranked 27)  

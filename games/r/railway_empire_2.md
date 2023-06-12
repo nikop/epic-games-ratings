@@ -13,8 +13,8 @@ Rating: 4.22 (Ranked 814)
 | Mystery Tour | 66.00% | ~746 |
 | Brainstorm | 64.00% | ~724 |
 | We brake for nobody | 64.00% | ~724 |
+| Mind the Gap | 63.00% | ~713 |
 | Travel Company | 63.00% | ~713 |
-| Mind the Gap | 62.00% | ~701 |
 | All around the World | 60.00% | ~679 |
 | Right through the middle | 55.00% | ~622 |
 | Facility Manager | 51.00% | ~577 |
@@ -38,9 +38,9 @@ Rating: 4.22 (Ranked 814)
 | Trailblazer | 18.00% | ~204 |
 | Breaking Ground | 16.00% | ~181 |
 | Traffic Jam | 15.00% | ~170 |
+| Traffic Junction | 15.00% | ~170 |
 | Assimilated | 14.00% | ~158 |
 | Locusts | 14.00% | ~158 |
-| Traffic Junction | 14.00% | ~158 |
 | Networker | 14.00% | ~158 |
 | Resistance is futile | 13.00% | ~147 |
 | Settler | 10.00% | ~113 |

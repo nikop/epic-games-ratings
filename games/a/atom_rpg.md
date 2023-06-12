@@ -7,10 +7,10 @@ Number of Ratings: 54  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Atom Agent | 99.00% | ~940 |
+| Wanderer | 35.00% | ~332 |
 | One HIT wonder | 34.00% | ~323 |
-| Wanderer | 34.00% | ~323 |
 | One shot, one kill | 28.00% | ~266 |
-| Traveler | 24.00% | ~228 |
+| Traveler | 25.00% | ~238 |
 | Explorer | 18.00% | ~171 |
 | Head Burst | 18.00% | ~171 |
 | Grave Robber | 17.00% | ~162 |

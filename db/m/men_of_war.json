@@ -2,9 +2,12 @@
   "ID": "8b234aeb354e4688b000853a2085fd71",
   "Name": "Men of War",
   "ProductSlug": "men-of-war-74bf75",
+  "Ranking_Rating": 825,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-12-06T14:00:00+00:00",
@@ -16,10 +19,17 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:41.8479655+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-12T06:57:49.9405314+00:00",
+      "Rating": 4.2,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -40,8 +50,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-06T22:57:57.9535341+00:00",
   "FirstSeenRating": "2023-03-31T05:58:41.8479653+00:00",
-  "LastChanged": "2023-03-31T05:58:41.8479654+00:00",
+  "LastChanged": "2023-06-12T06:57:49.9405312+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:36.0704192+00:00",
-  "LastUpdate_Ratings": "2023-06-12T05:57:57.183184+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:03:49.5770893+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:57:49.9405318+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:03:34.6930959+00:00"
 }

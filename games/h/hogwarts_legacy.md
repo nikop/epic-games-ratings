@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,090 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,091 |
 | First Class Student | 8.00% | ~22,303 |
 | Troll with the Punches | 8.00% | ~22,303 |
 | Grappling with a Graphorn | 7.00% | ~19,515 |
@@ -17,24 +17,24 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 7.00% | ~19,515 |
 | Coasting Along | 7.00% | ~19,515 |
 | That's a Keeper | 7.00% | ~19,515 |
-| Challenge Accepted | 6.00% | ~16,727 |
-| A Talent for Spending | 6.00% | ~16,727 |
-| Followed the Butterflies | 6.00% | ~16,727 |
-| Rising From the Ashes | 6.00% | ~16,727 |
-| The Avenging Gazelle | 5.00% | ~13,939 |
-| Beast Friends | 5.00% | ~13,939 |
-| A Sallow Grave | 5.00% | ~13,939 |
-| Flight the Good Flight | 5.00% | ~13,939 |
-| The Spell Master | 5.00% | ~13,939 |
-| The Seeker of Knowledge | 4.00% | ~11,151 |
-| The Root of the Problem | 4.00% | ~11,151 |
-| Third Time's a Charm | 4.00% | ~11,151 |
-| Raising Expectations | 4.00% | ~11,151 |
-| The Toast of the Town | 3.00% | ~8,363 |
-| Room with a View | 3.00% | ~8,363 |
-| The Intrepid Explorer | 3.00% | ~8,363 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,363 |
-| The Ends Petrify the Means | 3.00% | ~8,363 |
+| Challenge Accepted | 6.00% | ~16,728 |
+| A Talent for Spending | 6.00% | ~16,728 |
+| Followed the Butterflies | 6.00% | ~16,728 |
+| Rising From the Ashes | 6.00% | ~16,728 |
+| The Avenging Gazelle | 5.00% | ~13,940 |
+| Beast Friends | 5.00% | ~13,940 |
+| A Sallow Grave | 5.00% | ~13,940 |
+| Flight the Good Flight | 5.00% | ~13,940 |
+| The Spell Master | 5.00% | ~13,940 |
+| The Seeker of Knowledge | 4.00% | ~11,152 |
+| The Root of the Problem | 4.00% | ~11,152 |
+| Third Time's a Charm | 4.00% | ~11,152 |
+| Raising Expectations | 4.00% | ~11,152 |
+| The Toast of the Town | 3.00% | ~8,364 |
+| Room with a View | 3.00% | ~8,364 |
+| The Intrepid Explorer | 3.00% | ~8,364 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,364 |
+| The Ends Petrify the Means | 3.00% | ~8,364 |
 | Going Through the Potions | 2.00% | ~5,576 |
 | Put Down Roots | 2.00% | ~5,576 |
 | The Auror's Apprentice | 2.00% | ~5,576 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 108)
 | A Forte for Achievement | 1.00% | ~2,788 |
 | Savvy Spender | 0.90% | ~2,509 |
 | Demiguise Dread | 0.90% | ~2,509 |
-| Merlin's Beard! | 0.70% | ~1,951 |
+| Merlin's Beard! | 0.70% | ~1,952 |
 | Spilled Milk | 0.60% | ~1,673 |
 | The Nature of the Beast | 0.50% | ~1,394 |
 | Collector's Edition | 0.20% | ~558 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 278,783 (Ranked 41)  
+Progressed: 278,792 (Ranked 41)  
 Completed: 401 (0.14%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 401 (0.14%) (Ranked 160)
 | 2023-06-09 | 277,741 | 395 |
 | 2023-06-10 | 278,175 | 397 |
 | 2023-06-11 | 278,675 | 401 |
-| 2023-06-12 | 278,783 | 401 |
+| 2023-06-12 | 278,792 | 401 |
 ## Awards
 Max (Character Customization): 19,875  (Ranked 18)  
 Sum: 36,792 (Ranked 32)  

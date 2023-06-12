@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 169,
+  "EOS_Progressed": 170,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -443,6 +443,11 @@
       "Time": "2023-06-11T17:06:21.7809284+00:00",
       "NumProgressed": 169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T07:06:11.9913326+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -452,9 +457,9 @@
       "ID": "ACH_ACT1",
       "SetID": "2310cb1",
       "Name": "Wake Up",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_ACT10",
@@ -518,7 +523,7 @@
       "Name": "Time Gates",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_ACT3",
@@ -534,7 +539,7 @@
       "Name": "This is a Wall",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_ACT5",
@@ -548,9 +553,9 @@
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_ACT7",
@@ -598,7 +603,7 @@
       "Name": "Chain Reaction",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_DATARESEARCH",
@@ -622,7 +627,7 @@
       "Name": "Handyman",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_LOOPER",
@@ -646,7 +651,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -669,7 +674,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 169,
+      "Progressed": 170,
       "Completed": 0
     }
   ],
@@ -677,8 +682,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-12T06:06:54.1165087+00:00",
+  "LastChanged_Achievements": "2023-06-12T07:06:11.991332+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:34.3357794+00:00",
-  "LastUpdate_Ratings": "2023-06-12T05:57:55.4023695+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:06:54.1165351+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:57:48.5226897+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:06:11.9913487+00:00"
 }

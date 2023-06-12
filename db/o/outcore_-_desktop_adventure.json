@@ -4,7 +4,7 @@
   "ProductSlug": "outcore-desktop-adventure-eb3aff",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-07T07:00:00+00:00",
@@ -290,8 +290,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-06-12T06:02:32.7619661+00:00",
+  "LastChanged_Achievements": "2023-06-12T07:02:01.4876062+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:07.5928925+00:00",
-  "LastUpdate_Ratings": "2023-06-12T06:00:48.1505537+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:02:32.7623471+00:00"
+  "LastUpdate_Ratings": "2023-06-12T07:00:01.6702862+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:02:01.4877984+00:00"
 }

@@ -2969,9 +2969,9 @@
       "ID": "ach.050.builder",
       "SetID": "384aaja",
       "Name": "Builder",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15548
+      "UsersEstimate": 15738
     },
     {
       "ID": "ach.060.goingdistance",
@@ -3242,8 +3242,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-06-04T19:59:14.0053535+00:00",
-  "LastChanged_Achievements": "2023-06-12T06:07:02.9969025+00:00",
+  "LastChanged_Achievements": "2023-06-12T07:06:19.7689614+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:45.2420743+00:00",
-  "LastUpdate_Ratings": "2023-06-12T06:00:20.830497+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:07:02.9969577+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:59:40.6443453+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:06:19.7689946+00:00"
 }

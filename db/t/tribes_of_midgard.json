@@ -2,12 +2,12 @@
   "ID": "6774af9524fe4f63b2a6717d04269cd6",
   "Name": "Tribes of Midgard",
   "ProductSlug": "tribes-of-midgard",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 451,
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-12-14T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 120,
   "RatingHistory": [
     {
@@ -409,6 +409,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 76,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-06-12T06:58:36.862988+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": true,
@@ -434,8 +440,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:40.7309672+00:00",
-  "LastChanged": "2023-06-10T06:58:03.8423902+00:00",
+  "LastChanged": "2023-06-12T06:58:36.8629878+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.031166+00:00",
-  "LastUpdate_Ratings": "2023-06-12T05:58:58.5688251+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:04:08.4657769+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:58:36.8629884+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:03:50.0821753+00:00"
 }

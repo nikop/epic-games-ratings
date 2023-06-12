@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1606,
+  "EOS_Progressed": 1607,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 8.22,
+  "EOS_Completed_Percentage": 8.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2503,6 +2503,11 @@
       "Time": "2023-06-12T02:26:59.4617325+00:00",
       "NumProgressed": 1606,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-06-12T07:06:13.3200471+00:00",
+      "NumProgressed": 1607,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 12,
@@ -2546,7 +2551,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "Jakob",
@@ -2586,7 +2591,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Nazis in Paris",
@@ -2609,7 +2614,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1606,
+      "Progressed": 1607,
       "Completed": 132
     }
   ],
@@ -2617,8 +2622,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-12T06:06:55.8818799+00:00",
+  "LastChanged_Achievements": "2023-06-12T07:06:13.3200464+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:00.0693666+00:00",
-  "LastUpdate_Ratings": "2023-06-12T06:00:37.7816918+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:06:55.8820846+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:59:54.346269+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:06:13.320066+00:00"
 }

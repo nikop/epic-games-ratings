@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1041,7 +1041,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6377,
+  "EOS_Progressed": 6378,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
@@ -5411,6 +5411,11 @@
       "Time": "2023-06-12T06:03:05.4519541+00:00",
       "NumProgressed": 6377,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T07:02:20.0725154+00:00",
+      "NumProgressed": 6378,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -5422,7 +5427,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3826
+      "UsersEstimate": 3827
     },
     {
       "ID": "10",
@@ -5462,7 +5467,7 @@
       "Name": "Famous Explorer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "15",
@@ -5518,7 +5523,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "21",
@@ -5542,7 +5547,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "24",
@@ -5574,7 +5579,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "28",
@@ -5668,9 +5673,9 @@
       "ID": "38",
       "SetID": "8idi9ml",
       "Name": "Aspiring Inventor",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2806
     },
     {
       "ID": "39",
@@ -5750,7 +5755,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "48",
@@ -5893,15 +5898,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6377,
+      "Progressed": 6378,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-11T15:59:33.0428948+00:00",
-  "LastChanged_Achievements": "2023-06-12T06:03:05.4519533+00:00",
+  "LastChanged_Achievements": "2023-06-12T07:02:20.0725149+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:26.8731017+00:00",
-  "LastUpdate_Ratings": "2023-06-12T06:01:08.8599827+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:03:05.4520577+00:00"
+  "LastUpdate_Ratings": "2023-06-12T07:00:19.2083212+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:02:20.0725802+00:00"
 }

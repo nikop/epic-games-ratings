@@ -12,7 +12,7 @@
 | Exorcist | 22.00% | ~4 |
 | Electrician | 22.00% | ~4 |
 | Card Sharp | 22.00% | ~4 |
-| Joyrider | 17.00% | ~3 |
+| Joyrider | 22.00% | ~4 |
 | Top Detective | 11.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18 (Ranked 345)  

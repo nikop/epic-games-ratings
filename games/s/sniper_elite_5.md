@@ -1,14 +1,14 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.51 (Ranked 529)  
+Rating: 4.51 (Ranked 528)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~807 |
+| Meeting Resistance | 30.00% | ~808 |
 | Confirming Suspicions | 24.00% | ~646 |
-| The Kraken Wakes | 20.00% | ~538 |
-| It's Starting to Crack | 17.00% | ~457 |
+| The Kraken Wakes | 20.00% | ~539 |
+| It's Starting to Crack | 17.00% | ~458 |
 | Lord of War | 15.00% | ~404 |
 | Change the Channel | 14.00% | ~377 |
 | Resourceful | 13.00% | ~350 |
@@ -23,13 +23,13 @@ Rating: 4.51 (Ranked 529)
 | Gunslinger | 8.00% | ~215 |
 | Sharpshooter | 8.00% | ~215 |
 | Explosive Efficiency | 8.00% | ~215 |
-| Opposing Force | 7.00% | ~188 |
-| Fields of Glory | 6.00% | ~161 |
-| Die Nussknacker Sweet! | 6.00% | ~161 |
-| Der Geist | 6.00% | ~161 |
-| Close Quarters | 6.00% | ~161 |
-| Snake in the Grass | 6.00% | ~161 |
-| Brains of the Operation | 6.00% | ~161 |
+| Opposing Force | 7.00% | ~189 |
+| Fields of Glory | 6.00% | ~162 |
+| Die Nussknacker Sweet! | 6.00% | ~162 |
+| Der Geist | 6.00% | ~162 |
+| Close Quarters | 6.00% | ~162 |
+| Snake in the Grass | 6.00% | ~162 |
+| Brains of the Operation | 6.00% | ~162 |
 | Climbing the Ladder | 5.00% | ~135 |
 | No Stone Unturned | 5.00% | ~135 |
 | Skirmisher | 5.00% | ~135 |
@@ -77,7 +77,7 @@ Rating: 4.51 (Ranked 529)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,691 (Ranked 145)  
+Progressed: 2,693 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.07%) (Ranked 177)
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
-| 2023-06-12 | 2,691 | 2 |
+| 2023-06-12 | 2,693 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

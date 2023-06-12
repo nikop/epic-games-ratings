@@ -2,12 +2,12 @@
   "ID": "196202dd9d8f453bb50ceea83a759840",
   "Name": "Banished",
   "ProductSlug": "banished-a8eee5",
-  "Ranking_Rating": 901,
+  "Ranking_Rating": 902,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-01T04:00:00+00:00",
@@ -63,6 +63,6 @@
   "FirstSeenRating": "2023-02-04T23:58:43.0680409+00:00",
   "LastChanged": "2023-04-22T20:58:57.144354+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:32.6563335+00:00",
-  "LastUpdate_Ratings": "2023-06-12T06:01:14.5005404+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:06:15.4433002+00:00"
+  "LastUpdate_Ratings": "2023-06-12T07:00:23.6893172+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:05:41.443871+00:00"
 }

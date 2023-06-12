@@ -2019,9 +2019,9 @@
       "ID": "A35",
       "SetID": "9b7p7eo",
       "Name": "Traffic Junction",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 170
     },
     {
       "ID": "A36",
@@ -2059,9 +2059,9 @@
       "ID": "A40",
       "SetID": "9b7p7eo",
       "Name": "Mind the Gap",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 701
+      "UsersEstimate": 713
     },
     {
       "ID": "A41",
@@ -2188,8 +2188,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-11T13:01:13.9933619+00:00",
-  "LastChanged_Achievements": "2023-06-12T06:07:19.0474694+00:00",
+  "LastChanged_Achievements": "2023-06-12T07:06:34.313704+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-12T05:58:42.1315633+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:07:19.0475732+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:58:24.3391169+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:06:34.313749+00:00"
 }

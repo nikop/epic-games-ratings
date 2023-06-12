@@ -1,30 +1,30 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.16 (Ranked 854)  
+Rating: 4.16 (Ranked 855)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 42.00% | ~182 |
+| Self Defense | 42.00% | ~183 |
 | Grand Opening | 38.00% | ~165 |
 | Circus Electrique Proudly Presents... | 38.00% | ~165 |
 | Path of Learning | 37.00% | ~161 |
 | Built in a Day | 31.00% | ~135 |
-| More Brain Than Brawn | 26.00% | ~113 |
+| More Brain Than Brawn | 27.00% | ~117 |
 | Perfect Illusion | 21.00% | ~91 |
 | Hundred Percent First | 21.00% | ~91 |
 | Fan Service | 17.00% | ~74 |
 | Dirty Dozen | 17.00% | ~74 |
-| Lion Tamer | 16.00% | ~69 |
+| Lion Tamer | 16.00% | ~70 |
 | King of District 1 | 14.00% | ~61 |
 | Amazing! | 14.00% | ~61 |
-| Flawless Presentation | 13.00% | ~56 |
+| Flawless Presentation | 13.00% | ~57 |
 | One More Thing... | 12.00% | ~52 |
 | Lucky Day | 12.00% | ~52 |
 | Bar Brawler | 12.00% | ~52 |
-| King of District 2 | 12.00% | ~52 |
-| Time Travel! | 10.00% | ~43 |
+| King of District 2 | 11.00% | ~48 |
+| Time Travel! | 10.00% | ~44 |
 | Marketing Manager | 9.00% | ~39 |
 | Circus Versus Circus | 8.00% | ~35 |
 | King of District 3 | 8.00% | ~35 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434 (Ranked 206)  
+Progressed: 435 (Ranked 206)  
 Completed: 1 (0.23%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 1 (0.23%) (Ranked 141)
 | 2023-06-09 | 431 | 1 |
 | 2023-06-10 | 432 | 1 |
 | 2023-06-11 | 433 | 1 |
-| 2023-06-12 | 434 | 1 |
+| 2023-06-12 | 435 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

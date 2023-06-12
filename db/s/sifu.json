@@ -4554,9 +4554,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 708871,
+  "EOS_Progressed": 708877,
   "EOS_Completed": 12766,
-  "EOS_NewPlayers": 1408,
+  "EOS_NewPlayers": 1409,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9514,6 +9514,11 @@
       "Time": "2023-06-12T06:07:19.3830981+00:00",
       "NumProgressed": 708871,
       "NumCompleted": 12766
+    },
+    {
+      "Time": "2023-06-12T07:06:34.7368437+00:00",
+      "NumProgressed": 708877,
+      "NumCompleted": 12766
     }
   ],
   "TotalAchievements": 50,
@@ -9621,7 +9626,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2836
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -9741,7 +9746,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2836
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -9781,7 +9786,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2836
     },
     {
       "ID": "34_TimedTakedown",
@@ -9924,21 +9929,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18172,
+      "Progressed": 18178,
       "Completed": 10260
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 708871,
+      "Progressed": 708877,
       "Completed": 12766
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-11T19:58:38.9031146+00:00",
-  "LastChanged_Achievements": "2023-06-12T06:07:19.3830978+00:00",
+  "LastChanged_Achievements": "2023-06-12T07:06:34.7368431+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-12T05:59:54.0772435+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:07:19.3831822+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:59:21.2148176+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:06:34.7369039+00:00"
 }

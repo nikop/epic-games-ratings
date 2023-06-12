@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,7 +168,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1259,
+  "EOS_Progressed": 1260,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
@@ -868,6 +868,11 @@
       "Time": "2023-06-12T04:06:41.1684177+00:00",
       "NumProgressed": 1259,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-12T07:06:26.3303726+00:00",
+      "NumProgressed": 1260,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -943,7 +948,7 @@
       "Name": "Balding bloot!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "18",
@@ -1069,9 +1074,9 @@
       "ID": "4",
       "SetID": "n50no0",
       "Name": "Head in the clouds",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 164
     },
     {
       "ID": "5",
@@ -1118,15 +1123,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1259,
+      "Progressed": 1260,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-12T06:07:09.9958229+00:00",
+  "LastChanged_Achievements": "2023-06-12T07:06:26.330372+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:57.0089553+00:00",
-  "LastUpdate_Ratings": "2023-06-12T06:00:33.2008698+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:07:09.9958524+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:59:51.1132292+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:06:26.3303931+00:00"
 }

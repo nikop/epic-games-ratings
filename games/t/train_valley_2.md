@@ -1,7 +1,7 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.15 (Ranked 859)  
+Rating: 4.15 (Ranked 860)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,13 +21,13 @@ Number of Ratings: 87  (23.09.2022)
 | Get out my way | 4.00% | ~29 |
 | Just in time! | 4.00% | ~29 |
 | Need to think | 4.00% | ~29 |
+| Pink Ruby | 4.00% | ~3 |
 | Upgrade complete | 4.00% | ~29 |
 | Bridgemania | 3.00% | ~22 |
 | Miner | 3.00% | ~2 |
 | Multilevel road | 3.00% | ~22 |
 | One way | 3.00% | ~22 |
 | Overseer | 3.00% | ~22 |
-| Pink Ruby | 3.00% | ~2 |
 | Star Sapphire | 3.00% | ~2 |
 | Steam Age | 3.00% | ~22 |
 | The Tortoise | 3.00% | ~22 |

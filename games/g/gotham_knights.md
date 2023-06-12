@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 850)  
+Rating: 4.17 (Ranked 851)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,21 +36,21 @@ Rating: 4.17 (Ranked 850)
 | Gotham Knight | 1.00% | ~647 |
 | Gotham City Confidential | 1.00% | ~647 |
 | Drone You Out | 0.90% | ~582 |
-| Out of Their League | 0.80% | ~517 |
-| Solid Alibi | 0.80% | ~517 |
+| Out of Their League | 0.80% | ~518 |
+| Solid Alibi | 0.80% | ~518 |
 | Fusion Expert | 0.60% | ~388 |
 | Family Meeting | 0.60% | ~388 |
 | A Worthy Successor | 0.60% | ~388 |
 | Dressed to Impress | 0.50% | ~323 |
 | Expert Crime Fighter | 0.50% | ~323 |
 | A Momentum Occasion | 0.40% | ~259 |
+| He'd Be So Proud of You | 0.30% | ~194 |
 | Bat Out of Hell | 0.30% | ~194 |
 | Hammer and Icicle | 0.20% | ~70 |
 | Renewable Enemy Source | 0.20% | ~70 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~70 |
 | The Cold, the Bad and the Ugly | 0.20% | ~70 |
 | Practice Makes Perfect | 0.20% | ~129 |
-| He'd Be So Proud of You | 0.20% | ~129 |
 | Element of Surprise | 0.10% | ~35 |
 | It's Nice to Be Wanted | 0.10% | ~35 |
 | Gotham's Greatest Depths | 0.10% | ~35 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 850)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,687 (Ranked 70)  
+Progressed: 64,690 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 95 (0.15%) (Ranked 157)
 | 2023-06-09 | 64,309 | 95 |
 | 2023-06-10 | 64,465 | 95 |
 | 2023-06-11 | 64,650 | 95 |
-| 2023-06-12 | 64,687 | 95 |
+| 2023-06-12 | 64,690 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,321  (Ranked 97)  
 Sum: 3,838 (Ranked 137)  

@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 987,
+  "EOS_Progressed": 988,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 7.09,
   "EosHistory": [
@@ -2327,6 +2327,11 @@
       "Time": "2023-06-12T02:26:57.3069154+00:00",
       "NumProgressed": 987,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-06-12T07:06:11.5379716+00:00",
+      "NumProgressed": 988,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 50,
@@ -2362,7 +2367,7 @@
       "Name": "Spellbound",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "13",
@@ -2400,9 +2405,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 316
+      "UsersEstimate": 306
     },
     {
       "ID": "18",
@@ -2410,7 +2415,7 @@
       "Name": "Surprise!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "19",
@@ -2426,7 +2431,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "20",
@@ -2482,7 +2487,7 @@
       "Name": "Ancient Wisdom",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "27",
@@ -2490,7 +2495,7 @@
       "Name": "Frog Facts!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "28",
@@ -2498,7 +2503,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "29",
@@ -2506,7 +2511,7 @@
       "Name": "All That Glistens",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "3",
@@ -2514,7 +2519,7 @@
       "Name": "Vibing",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "30",
@@ -2578,7 +2583,7 @@
       "Name": "Stronger!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "38",
@@ -2594,7 +2599,7 @@
       "Name": "All Skilled Up!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "4",
@@ -2602,7 +2607,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "40",
@@ -2610,7 +2615,7 @@
       "Name": "Mirror, Mirror",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "41",
@@ -2634,7 +2639,7 @@
       "Name": "An Actor!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "44",
@@ -2642,7 +2647,7 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "45",
@@ -2674,7 +2679,7 @@
       "Name": "Into the Barn",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "49",
@@ -2696,17 +2701,17 @@
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 306
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 316
+      "UsersEstimate": 306
     },
     {
       "ID": "7",
@@ -2714,7 +2719,7 @@
       "Name": "Fun Guy",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "8",
@@ -2722,7 +2727,7 @@
       "Name": "Tragic Brave",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "9",
@@ -2730,14 +2735,14 @@
       "Name": "Curtain Call",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 987,
+      "Progressed": 988,
       "Completed": 70
     }
   ],
@@ -2745,8 +2750,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-12T06:06:53.5737089+00:00",
+  "LastChanged_Achievements": "2023-06-12T07:06:11.5379713+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-12T05:57:53.3764499+00:00",
-  "LastUpdate_Achievements": "2023-06-12T06:06:53.573767+00:00"
+  "LastUpdate_Ratings": "2023-06-12T06:57:46.8837599+00:00",
+  "LastUpdate_Achievements": "2023-06-12T07:06:11.5380148+00:00"
 }

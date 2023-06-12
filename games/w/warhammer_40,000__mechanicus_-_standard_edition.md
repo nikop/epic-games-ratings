@@ -5,27 +5,27 @@ Rating: 4.43 (Ranked 645)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,468 |
+| No aid from the Omnissiah | 25.00% | ~53,469 |
 | This is only the beginning | 19.00% | ~40,636 |
 | Knowledge is power | 12.00% | ~25,665 |
-| Power Ranger | 9.00% | ~19,248 |
-| Galvanic Rifle | 9.00% | ~19,248 |
-| Taser Goad | 9.00% | ~19,248 |
-| Radium Ready | 9.00% | ~19,248 |
-| Half a cog | 9.00% | ~19,248 |
-| Watch them crumble | 6.00% | ~12,832 |
+| Power Ranger | 9.00% | ~19,249 |
+| Galvanic Rifle | 9.00% | ~19,249 |
+| Taser Goad | 9.00% | ~19,249 |
+| Radium Ready | 9.00% | ~19,249 |
+| Half a cog | 9.00% | ~19,249 |
+| Watch them crumble | 6.00% | ~12,833 |
 | Competent Cohort | 4.00% | ~8,555 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,555 |
 | One with the Machine | 4.00% | ~8,555 |
 | Legio Cybernetica | 3.00% | ~6,416 |
 | Fleshy Disposal | 3.00% | ~6,416 |
-| Battle Servitor | 2.00% | ~4,277 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,277 |
-| Impatient destruction | 2.00% | ~4,277 |
-| Vivisected Vizier | 2.00% | ~4,277 |
-| Architect Abortion | 2.00% | ~4,277 |
+| Battle Servitor | 2.00% | ~4,278 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,278 |
+| Impatient destruction | 2.00% | ~4,278 |
+| Vivisected Vizier | 2.00% | ~4,278 |
+| Architect Abortion | 2.00% | ~4,278 |
 | Cohortus Maximus | 0.70% | ~1,497 |
-| Mother of Xenarites | 0.40% | ~855 |
+| Mother of Xenarites | 0.40% | ~856 |
 | False God | 0.30% | ~642 |
 | Hard | 0.20% | ~428 |
 | Sterile Perfection | 0.10% | ~214 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 645)
 | Perma-live | 0.10% | ~214 |
 | Purge the Heretek | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,872 (Ranked 50)  
+Progressed: 213,876 (Ranked 50)  
 Completed: 3 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,10 +93,10 @@ Completed: 3 (0.00%) (Ranked 216)
 | 2023-06-09 | 213,572 | 3 |
 | 2023-06-10 | 213,699 | 3 |
 | 2023-06-11 | 213,845 | 3 |
-| 2023-06-12 | 213,872 | 3 |
+| 2023-06-12 | 213,876 | 3 |
 ## Awards
 Max (Highly Recommended): 279  (Ranked 233)  
-Sum: 2,105 (Ranked 184)  
+Sum: 2,106 (Ranked 184)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -105,7 +105,7 @@ Diff (max vs sum): 49
 | This game is Extremely Fun | 268 |
 | This game has Amazing Characters | 257 |
 | This game has Diverse Characters | 252 |
-| This game has Amazing Storytelling | 241 |
+| This game has Amazing Storytelling | 242 |
 | This game is Relaxing | 236 |
 | This game has Unique Visuals | 205 |
 | This game has a Creative Community | 96 |
@@ -147,3 +147,4 @@ Diff (max vs sum): 49
 | 2023-06-04 | 4.43 | 278 | 2,103 |
 | 2023-06-07 | 4.43 | 278 | 2,104 |
 | 2023-06-10 | 4.43 | 279 | 2,105 |
+| 2023-06-12 | 4.43 | 279 | 2,106 |
