@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 871,
+  "Ranking_Rating": 870,
   "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 131,
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4292,
+  "EOS_Progressed": 4296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3213,6 +3213,11 @@
       "Time": "2023-06-12T22:03:31.0937593+00:00",
       "NumProgressed": 4292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T23:03:12.2559094+00:00",
+      "NumProgressed": 4296,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3224,7 +3229,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3219
+      "UsersEstimate": 3222
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -3232,7 +3237,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2105
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3240,7 +3245,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2790
+      "UsersEstimate": 2792
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -3248,7 +3253,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -3256,7 +3261,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -3264,7 +3269,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2363
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3272,7 +3277,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -3280,7 +3285,7 @@
       "Name": "Scaling up",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 2060
+      "UsersEstimate": 2062
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3288,7 +3293,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -3296,7 +3301,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1375
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -3304,7 +3309,7 @@
       "Name": "More than a Tourist",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -3320,7 +3325,7 @@
       "Name": "Hook, Line and Sinker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -3328,7 +3333,7 @@
       "Name": "Goldfish?",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -3336,7 +3341,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -3376,7 +3381,7 @@
       "Name": "Marathon",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -3392,7 +3397,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -3503,13 +3508,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4292,
+      "Progressed": 4296,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3664,
+      "Progressed": 3668,
       "Completed": 112
     }
   ],
@@ -3517,8 +3522,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-12T22:03:31.0937588+00:00",
+  "LastChanged_Achievements": "2023-06-12T23:03:12.2559091+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:15.9620903+00:00",
-  "LastUpdate_Ratings": "2023-06-12T21:59:38.393288+00:00",
-  "LastUpdate_Achievements": "2023-06-12T22:03:31.0938034+00:00"
+  "LastUpdate_Ratings": "2023-06-12T22:59:33.3343965+00:00",
+  "LastUpdate_Achievements": "2023-06-12T23:03:12.255952+00:00"
 }

@@ -19,6 +19,7 @@
 | No, Thanks! | 6.00% | ~40 |
 | Breaking Down Barriers | 6.00% | ~40 |
 | The Wicked Twins | 6.00% | ~40 |
+| Golem Chaser | 6.00% | ~40 |
 | Fast Learner | 6.00% | ~40 |
 | Immaculate Aim | 6.00% | ~40 |
 | The Brass Boss | 6.00% | ~40 |
@@ -29,7 +30,6 @@
 | The Betrayer | 5.00% | ~33 |
 | The Loose Cannon | 5.00% | ~33 |
 | Honest Mistake | 5.00% | ~33 |
-| Golem Chaser | 5.00% | ~33 |
 | Check Your Pulse | 5.00% | ~33 |
 | Chaincrawler Explorer | 4.00% | ~27 |
 | Family Memories | 4.00% | ~27 |
@@ -37,13 +37,13 @@
 | Sump Explorer | 4.00% | ~27 |
 | Ask Questions Later | 4.00% | ~27 |
 | Good Neighbor | 4.00% | ~27 |
+| Corin Goes Home | 3.00% | ~20 |
 | Sartorialist | 3.00% | ~20 |
 | Entresol Explorer | 3.00% | ~20 |
 | Factorywood Explorer | 3.00% | ~20 |
 | Fairgrounds Explorer | 3.00% | ~20 |
 | Syron for Hope | 3.00% | ~20 |
 | Theater Explorer | 3.00% | ~20 |
-| Corin Goes Home | 2.00% | ~13 |
 | Clovemary for Remembering | 2.00% | ~13 |
 | Cultivair Explorer | 2.00% | ~13 |
 | Golem Hunter | 2.00% | ~13 |

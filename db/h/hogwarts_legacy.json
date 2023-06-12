@@ -3550,10 +3550,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 36807,
       "NumberOfAwardsMax": 19875
+    },
+    {
+      "Time": "2023-06-12T22:57:23.5103161+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 36836,
+      "NumberOfAwardsMax": 19875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36807,
+  "NumberOfAwards": 36836,
   "NumberOfAwardsMax": 19875,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3567,7 +3573,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 9409
+      "Count": 9438
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -3630,9 +3636,9 @@
       "Count": 507
     }
   ],
-  "EOS_Progressed": 279038,
+  "EOS_Progressed": 279048,
   "EOS_Completed": 403,
-  "EOS_NewPlayers": 2480,
+  "EOS_NewPlayers": 2481,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -9140,6 +9146,11 @@
       "Time": "2023-06-12T22:04:38.3243281+00:00",
       "NumProgressed": 279038,
       "NumCompleted": 403
+    },
+    {
+      "Time": "2023-06-12T23:04:20.4334409+00:00",
+      "NumProgressed": 279048,
+      "NumCompleted": 403
     }
   ],
   "TotalAchievements": 45,
@@ -9151,7 +9162,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25113
+      "UsersEstimate": 25114
     },
     {
       "ID": "PFA_10",
@@ -9255,7 +9266,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16742
+      "UsersEstimate": 16743
     },
     {
       "ID": "PFA_22",
@@ -9375,7 +9386,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16742
+      "UsersEstimate": 16743
     },
     {
       "ID": "PFA_36",
@@ -9479,7 +9490,7 @@
       "Name": "First Class Student",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22323
+      "UsersEstimate": 22324
     },
     {
       "ID": "PFA_7",
@@ -9487,7 +9498,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22323
+      "UsersEstimate": 22324
     },
     {
       "ID": "PFA_8",
@@ -9503,23 +9514,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16742
+      "UsersEstimate": 16743
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 279038,
+      "Progressed": 279048,
       "Completed": 403
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-12T21:57:34.0323086+00:00",
-  "LastChanged_Achievements": "2023-06-12T22:04:38.3243276+00:00",
+  "LastChanged": "2023-06-12T22:57:23.510316+00:00",
+  "LastChanged_Achievements": "2023-06-12T23:04:20.4334405+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:27.3205704+00:00",
-  "LastUpdate_Ratings": "2023-06-12T21:57:34.0323094+00:00",
-  "LastUpdate_Achievements": "2023-06-12T22:04:38.3245524+00:00"
+  "LastUpdate_Ratings": "2023-06-12T22:57:23.5103166+00:00",
+  "LastUpdate_Achievements": "2023-06-12T23:04:20.4335123+00:00"
 }

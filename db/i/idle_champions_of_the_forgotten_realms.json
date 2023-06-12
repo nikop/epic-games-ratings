@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4240,9 +4240,9 @@
       "Count": 3249
     }
   ],
-  "EOS_Progressed": 90572,
+  "EOS_Progressed": 90575,
   "EOS_Completed": 1930,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9710,6 +9710,11 @@
       "Time": "2023-06-12T22:06:00.6071164+00:00",
       "NumProgressed": 90572,
       "NumCompleted": 1930
+    },
+    {
+      "Time": "2023-06-12T23:05:54.7597446+00:00",
+      "NumProgressed": 90575,
+      "NumCompleted": 1930
     }
   ],
   "TotalAchievements": 493,
@@ -9721,7 +9726,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "objective_completed_10",
@@ -13423,9 +13428,9 @@
       "ID": "objective_completed_893",
       "SetID": "415jc5c",
       "Name": "Ambitious Speakers - Part 2",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_completed_894",
@@ -13664,21 +13669,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56846,
+      "Progressed": 56849,
       "Completed": 2788
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90572,
+      "Progressed": 90575,
       "Completed": 1930
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-12T17:58:16.2062674+00:00",
-  "LastChanged_Achievements": "2023-06-12T22:06:00.6071159+00:00",
+  "LastChanged_Achievements": "2023-06-12T23:05:54.759744+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-12T21:58:09.491046+00:00",
-  "LastUpdate_Achievements": "2023-06-12T22:06:00.6114067+00:00"
+  "LastUpdate_Ratings": "2023-06-12T22:58:01.1958057+00:00",
+  "LastUpdate_Achievements": "2023-06-12T23:05:54.762131+00:00"
 }

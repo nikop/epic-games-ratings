@@ -6,27 +6,27 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 62.00% | ~214 |
-| Cowardice | 54.00% | ~186 |
-| NO LIFE IS WORTH SAVING... | 47.00% | ~162 |
-| Eat Lead! | 45.00% | ~155 |
-| Prospector | 41.00% | ~141 |
-| Here Comes the Boom | 41.00% | ~141 |
+| Explorer | 62.00% | ~215 |
+| Cowardice | 54.00% | ~187 |
+| NO LIFE IS WORTH SAVING... | 47.00% | ~163 |
+| Eat Lead! | 45.00% | ~156 |
+| Prospector | 41.00% | ~142 |
+| Here Comes the Boom | 41.00% | ~142 |
 | The Breaking Point | 40.00% | ~138 |
 | Treasure Hunter | 39.00% | ~135 |
-| Sniper Wolf | 36.00% | ~124 |
+| Sniper Wolf | 36.00% | ~125 |
 | The Motivation | 35.00% | ~121 |
-| Missing in Action | 34.00% | ~117 |
-| Heroism | 32.00% | ~110 |
-| Collectibles of Chapter I | 31.00% | ~107 |
+| Missing in Action | 34.00% | ~118 |
+| Collectibles of Chapter I | 32.00% | ~111 |
+| Heroism | 32.00% | ~111 |
 | King of Knives | 30.00% | ~104 |
 | Consequences | 28.00% | ~97 |
 | Opportunities | 27.00% | ~93 |
-| The Horror | 26.00% | ~90 |
-| Collectibles of Chapter II | 23.00% | ~79 |
+| The Horror | 25.00% | ~86 |
+| Collectibles of Chapter II | 23.00% | ~80 |
 | The Difference | 22.00% | ~76 |
-| Vengeance | 21.00% | ~72 |
-| It's Just an Accident | 21.00% | ~72 |
+| It's Just an Accident | 22.00% | ~76 |
+| Vengeance | 21.00% | ~73 |
 | Broken Hopes | 18.00% | ~62 |
 | Food Massacre | 18.00% | ~62 |
 | Bullseye! | 18.00% | ~62 |
@@ -34,15 +34,15 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter III | 15.00% | ~52 |
 | Collectibles of Chapter IV | 15.00% | ~52 |
 | Atonement | 14.00% | ~48 |
-| Helping Hand | 12.00% | ~41 |
-| Without a Second Thought | 12.00% | ~41 |
+| Helping Hand | 12.00% | ~42 |
+| Without a Second Thought | 12.00% | ~42 |
 | Collectibles of Chapter V | 9.00% | ~31 |
 | Such is War! | 8.00% | ~28 |
 | Tiptoe Around | 8.00% | ~28 |
 | Collectibles of Chapter VII | 6.00% | ~21 |
-| Collectibles of Chapter XII | 6.00% | ~21 |
 | Piece of Cake | 6.00% | ~21 |
 | Collectibles of Chapter VIII | 5.00% | ~17 |
+| Collectibles of Chapter XII | 5.00% | ~17 |
 | Collectibles of Chapter X | 4.00% | ~14 |
 | Collectibles of Chapter XI | 4.00% | ~14 |
 | Collectibles of Chapter VI | 3.00% | ~10 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345 (Ranked 222)  
+Progressed: 346 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 333 | 0 |
 | 2023-06-10 | 339 | 0 |
 | 2023-06-11 | 342 | 0 |
-| 2023-06-12 | 345 | 0 |
+| 2023-06-12 | 346 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2744,
+  "EOS_Progressed": 2745,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3357,6 +3357,11 @@
       "Time": "2023-06-12T22:05:45.0264015+00:00",
       "NumProgressed": 2744,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-12T23:05:39.1189785+00:00",
+      "NumProgressed": 2745,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3448,7 +3453,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3680,7 +3685,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3935,13 +3940,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2695,
+      "Progressed": 2696,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2744,
+      "Progressed": 2745,
       "Completed": 2
     }
   ],
@@ -3949,8 +3954,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-12T12:00:24.1242654+00:00",
-  "LastChanged_Achievements": "2023-06-12T22:05:45.0264011+00:00",
+  "LastChanged_Achievements": "2023-06-12T23:05:39.1189781+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:00:13.4363833+00:00",
-  "LastUpdate_Achievements": "2023-06-12T22:05:45.0264885+00:00"
+  "LastUpdate_Ratings": "2023-06-12T23:00:11.2374598+00:00",
+  "LastUpdate_Achievements": "2023-06-12T23:05:39.1190625+00:00"
 }

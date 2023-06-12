@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -441,9 +441,9 @@
       "ID": "finished-quest-sword",
       "SetID": "799afm0",
       "Name": "Holy Vengeance",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "get-all",
@@ -578,8 +578,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-12T22:05:43.9857037+00:00",
+  "LastChanged_Achievements": "2023-06-12T23:05:37.9541061+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:01.3809708+00:00",
-  "LastUpdate_Ratings": "2023-06-12T21:58:42.7219562+00:00",
-  "LastUpdate_Achievements": "2023-06-12T22:05:43.9857316+00:00"
+  "LastUpdate_Ratings": "2023-06-12T22:58:36.4145766+00:00",
+  "LastUpdate_Achievements": "2023-06-12T23:05:37.9541343+00:00"
 }

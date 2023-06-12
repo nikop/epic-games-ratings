@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -463,6 +463,11 @@
       "Time": "2023-06-12T19:06:19.1430198+00:00",
       "NumProgressed": 173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T23:05:27.0351608+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -480,9 +485,9 @@
       "ID": "ACH_ACT10",
       "SetID": "2310cb1",
       "Name": "So Close",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_ACT11",
@@ -562,7 +567,7 @@
       "Name": "Extendable Bridges",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_ACT6",
@@ -600,9 +605,9 @@
       "ID": "ACH_ARCHIVIST",
       "SetID": "2310cb1",
       "Name": "Archivist",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BESTFRIEND",
@@ -642,7 +647,7 @@
       "Name": "Handyman",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_LOOPER",
@@ -666,7 +671,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -689,7 +694,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 174,
       "Completed": 0
     }
   ],
@@ -697,8 +702,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-12T22:05:33.3824894+00:00",
+  "LastChanged_Achievements": "2023-06-12T23:05:27.0351601+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:34.3357794+00:00",
-  "LastUpdate_Ratings": "2023-06-12T21:57:38.9767776+00:00",
-  "LastUpdate_Achievements": "2023-06-12T22:05:33.3825121+00:00"
+  "LastUpdate_Ratings": "2023-06-12T22:57:30.4413967+00:00",
+  "LastUpdate_Achievements": "2023-06-12T23:05:27.0351824+00:00"
 }

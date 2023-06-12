@@ -44,9 +44,9 @@ Rating: 4.58 (Ranked 422)
 | Pulsar Disciple | 1.00% | ~26 |
 | Catastrophe Avoided | 0.90% | ~23 |
 | Space Greenhouse | 0.90% | ~23 |
+| Tiqqun Contender | 0.80% | ~21 |
 | You Had One Job... | 0.80% | ~21 |
 | Help of the Forgotten Member | 0.80% | ~21 |
-| Tiqqun Contender | 0.70% | ~18 |
 | Tiqqun Unchained | 0.70% | ~18 |
 | Scientifically Accurate | 0.70% | ~18 |
 | Gregor Spinoza | 0.60% | ~16 |

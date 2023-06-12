@@ -5,19 +5,19 @@ Rating: 4.59 (Ranked 408)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,282 |
-| Pay 'n' Spray | 49.00% | ~5,073 |
-| All Dressed Up for San Fierro | 23.00% | ~2,381 |
-| The American Dream | 17.00% | ~1,760 |
-| School's Out | 16.00% | ~1,656 |
-| Smooth Moves | 15.00% | ~1,553 |
-| Today Was a Good Day | 13.00% | ~1,346 |
-| What happens in Las Venturas... | 12.00% | ~1,242 |
+| Getting Started | 80.00% | ~8,287 |
+| Pay 'n' Spray | 49.00% | ~5,076 |
+| All Dressed Up for San Fierro | 23.00% | ~2,383 |
+| The American Dream | 17.00% | ~1,761 |
+| School's Out | 16.00% | ~1,657 |
+| Smooth Moves | 15.00% | ~1,554 |
+| Today Was a Good Day | 13.00% | ~1,347 |
+| What happens in Las Venturas... | 12.00% | ~1,243 |
 | Horror of the Santa Maria | 9.00% | ~932 |
 | Liberty City State of Mind | 7.00% | ~725 |
-| With Extra Dip | 6.00% | ~621 |
-| The End of the Line | 6.00% | ~621 |
-| Original Gangster | 6.00% | ~621 |
+| With Extra Dip | 6.00% | ~622 |
+| The End of the Line | 6.00% | ~622 |
+| Original Gangster | 6.00% | ~622 |
 | Saviour | 5.00% | ~518 |
 | Rescue a Kitten Too? | 4.00% | ~414 |
 | They Can’t Stop All of Us | 3.00% | ~311 |
@@ -35,13 +35,13 @@ Rating: 4.59 (Ranked 408)
 | Ain’t Nothing But a G Thing | 1.00% | ~104 |
 | Chick Magnet | 0.90% | ~93 |
 | Lucky Spinner | 0.80% | ~83 |
-| Hoopin' it Up | 0.70% | ~72 |
+| Hoopin' it Up | 0.70% | ~73 |
 | Not a Player | 0.60% | ~62 |
 | Remastered | 0.40% | ~41 |
 | ...Here we go again | 0.20% | ~21 |
 | I Ain't No Buster | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,353 (Ranked 110)  
+Progressed: 10,359 (Ranked 110)  
 Completed: 17 (0.16%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 17 (0.16%) (Ranked 152)
 | 2023-06-09 | 10,052 | 17 |
 | 2023-06-10 | 10,174 | 17 |
 | 2023-06-11 | 10,282 | 17 |
-| 2023-06-12 | 10,353 | 17 |
+| 2023-06-12 | 10,359 | 17 |
 ## Awards
 Max (Great Boss Battles): 163  (Ranked 284)  
 Sum: 163 (Ranked 377)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2352,18 +2352,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 6407,
       "NumberOfAwardsMax": 2304
+    },
+    {
+      "Time": "2023-06-12T23:00:14.7885155+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6413,
+      "NumberOfAwardsMax": 2310
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6407,
-  "NumberOfAwardsMax": 2304,
+  "NumberOfAwards": 6413,
+  "NumberOfAwardsMax": 2310,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2304
+      "Count": 2310
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2432,9 +2438,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49260,
+  "EOS_Progressed": 49261,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 735,
+  "EOS_NewPlayers": 732,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -7042,6 +7048,11 @@
       "Time": "2023-06-12T22:05:53.0689975+00:00",
       "NumProgressed": 49260,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2023-06-12T23:05:47.0009728+00:00",
+      "NumProgressed": 49261,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 45,
@@ -7077,7 +7088,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 38915
+      "UsersEstimate": 38916
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -7165,7 +7176,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29063
+      "UsersEstimate": 29064
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -7189,7 +7200,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23152
+      "UsersEstimate": 23153
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -7229,7 +7240,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 9359
+      "UsersEstimate": 9360
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -7245,7 +7256,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28078
+      "UsersEstimate": 28079
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -7317,7 +7328,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 47782
+      "UsersEstimate": 47783
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -7373,7 +7384,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18226
+      "UsersEstimate": 18227
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -7412,15 +7423,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49260,
+      "Progressed": 49261,
       "Completed": 180
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-06-12T16:00:11.1681073+00:00",
-  "LastChanged_Achievements": "2023-06-12T22:05:53.068997+00:00",
+  "LastChanged": "2023-06-12T23:00:14.7885153+00:00",
+  "LastChanged_Achievements": "2023-06-12T23:05:47.0009724+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:09.3457729+00:00",
-  "LastUpdate_Ratings": "2023-06-12T22:00:16.3700485+00:00",
-  "LastUpdate_Achievements": "2023-06-12T22:05:53.0690626+00:00"
+  "LastUpdate_Ratings": "2023-06-12T23:00:14.788516+00:00",
+  "LastUpdate_Achievements": "2023-06-12T23:05:47.0010353+00:00"
 }

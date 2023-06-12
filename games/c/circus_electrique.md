@@ -12,8 +12,8 @@ Number of Ratings: 22  (23.09.2022)
 | Path of Learning | 38.00% | ~166 |
 | Built in a Day | 31.00% | ~135 |
 | More Brain Than Brawn | 27.00% | ~118 |
-| Perfect Illusion | 21.00% | ~92 |
-| Hundred Percent First | 21.00% | ~92 |
+| Perfect Illusion | 22.00% | ~96 |
+| Hundred Percent First | 22.00% | ~96 |
 | Fan Service | 17.00% | ~74 |
 | Dirty Dozen | 17.00% | ~74 |
 | Lion Tamer | 16.00% | ~70 |

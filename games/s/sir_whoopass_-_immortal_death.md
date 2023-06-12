@@ -55,10 +55,10 @@
 | You're looking mozzare-hella good! | 11.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~8 |
 | Timber! | 11.00% | ~8 |
+| Grumpy Immortal | 11.00% | ~8 |
 | Free Of Chains | 11.00% | ~8 |
 | Spoiler alert! | 10.00% | ~7 |
 | Ancient Ruins of Moist Overhangs | 10.00% | ~7 |
-| Grumpy Immortal | 10.00% | ~7 |
 | Scrambled Eggs | 10.00% | ~7 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~5 |
 | Ancient Ruins of Misplaced Belongings | 6.00% | ~4 |

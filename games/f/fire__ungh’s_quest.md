@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blunga 1 | 99.00% | ~196 |
-| Mjam-Mjam | 98.00% | ~194 |
-| Onk Boga I | 96.00% | ~190 |
-| Sniarb! | 91.00% | ~180 |
-| Blunga 5 | 65.00% | ~129 |
-| Onk Boga II | 61.00% | ~121 |
+| Blunga 1 | 99.00% | ~197 |
+| Mjam-Mjam | 97.00% | ~193 |
+| Onk Boga I | 95.00% | ~189 |
+| Sniarb! | 91.00% | ~181 |
+| Blunga 5 | 64.00% | ~127 |
+| Onk Boga II | 60.00% | ~119 |
 | Bzzzzzz | 54.00% | ~107 |
-| Onk Boga III | 46.00% | ~91 |
-| Danka, Lagga, Wonwon | 39.00% | ~77 |
-| Onk Boga IV | 39.00% | ~77 |
-| BumBum | 39.00% | ~77 |
-| Blunga 10 | 38.00% | ~75 |
-| Onk Boga V | 36.00% | ~71 |
-| Onk Boga VI | 33.00% | ~65 |
-| IQ62 | 33.00% | ~65 |
-| 1978 | 32.00% | ~63 |
-| Onk Boga VII | 32.00% | ~63 |
-| Onk Boga VIII | 30.00% | ~59 |
-| Blubb | 30.00% | ~59 |
-| ParaPara! | 29.00% | ~57 |
-| Onk Boga IX | 29.00% | ~57 |
-| AKRE! | 29.00% | ~57 |
-| Blunga 15 | 28.00% | ~55 |
-| Kokakoka | 28.00% | ~55 |
+| Onk Boga III | 46.00% | ~92 |
+| Danka, Lagga, Wonwon | 39.00% | ~78 |
+| Onk Boga IV | 39.00% | ~78 |
+| BumBum | 39.00% | ~78 |
+| Blunga 10 | 38.00% | ~76 |
+| Onk Boga V | 36.00% | ~72 |
+| Onk Boga VI | 33.00% | ~66 |
+| IQ62 | 33.00% | ~66 |
+| 1978 | 32.00% | ~64 |
+| Onk Boga VII | 32.00% | ~64 |
+| Onk Boga VIII | 30.00% | ~60 |
+| Blubb | 30.00% | ~60 |
+| ParaPara! | 29.00% | ~58 |
+| Onk Boga IX | 29.00% | ~58 |
+| AKRE! | 29.00% | ~58 |
+| Blunga 15 | 28.00% | ~56 |
+| Kokakoka | 28.00% | ~56 |
 | Blunga 20 | 11.00% | ~22 |
 | Blunga 25 | 6.00% | ~12 |
 | Blunga 30 | 6.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198 (Ranked 251)  
-Completed: 11 (5.56%) (Ranked 31)  
+Progressed: 199 (Ranked 250)  
+Completed: 11 (5.53%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,7 +67,7 @@ Completed: 11 (5.56%) (Ranked 31)
 | 2023-06-09 | 191 | 10 |
 | 2023-06-10 | 193 | 10 |
 | 2023-06-11 | 196 | 11 |
-| 2023-06-12 | 198 | 11 |
+| 2023-06-12 | 199 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

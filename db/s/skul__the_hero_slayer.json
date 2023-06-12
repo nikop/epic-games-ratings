@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -848,7 +848,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7777,
+  "EOS_Progressed": 7778,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
@@ -2783,6 +2783,11 @@
       "Time": "2023-06-12T20:06:35.6229806+00:00",
       "NumProgressed": 7777,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-12T23:05:24.1799279+00:00",
+      "NumProgressed": 7778,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -2890,7 +2895,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "LeoniasFall_2",
@@ -2914,7 +2919,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "SavedElderEnt",
@@ -2930,7 +2935,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "SkeletonKing",
@@ -2946,7 +2951,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "TheLegendBegins",
@@ -2954,7 +2959,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7233
+      "UsersEstimate": 7234
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2962,7 +2967,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -2978,22 +2983,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6455
+      "UsersEstimate": 6456
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7777,
+      "Progressed": 7778,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-11T05:59:46.6382038+00:00",
-  "LastChanged_Achievements": "2023-06-12T22:05:30.4221771+00:00",
+  "LastChanged_Achievements": "2023-06-12T23:05:24.1799274+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.8794336+00:00",
-  "LastUpdate_Ratings": "2023-06-12T21:58:54.2860095+00:00",
-  "LastUpdate_Achievements": "2023-06-12T22:05:30.4222062+00:00"
+  "LastUpdate_Ratings": "2023-06-12T22:58:48.8585647+00:00",
+  "LastUpdate_Achievements": "2023-06-12T23:05:24.1799548+00:00"
 }

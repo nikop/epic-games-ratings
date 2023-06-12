@@ -9,9 +9,9 @@ Rating: 4.18 (Ranked 843)
 | The Outer Way | 13.00% | ~1,968 |
 | Desperate Times | 13.00% | ~1,968 |
 | Paper Jams | 11.00% | ~1,665 |
+| Reforged | 10.00% | ~1,514 |
 | Chew 'Em Up | 9.00% | ~1,363 |
 | Workplace Hazard | 9.00% | ~1,363 |
-| Reforged | 9.00% | ~1,363 |
 | If the SHU Fits... | 9.00% | ~1,363 |
 | Giving Back | 7.00% | ~1,060 |
 | Get a Grip | 7.00% | ~1,060 |

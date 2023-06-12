@@ -226,7 +226,7 @@
   "Tags": [],
   "EOS_Progressed": 2609,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2701,9 +2701,9 @@
       "ID": "ACH_BASE_16",
       "SetID": "92iocjf",
       "Name": "Tiqqun Contender",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_BASE_17",
@@ -3124,8 +3124,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-12T15:58:18.411081+00:00",
-  "LastChanged_Achievements": "2023-06-12T22:05:42.9184807+00:00",
+  "LastChanged_Achievements": "2023-06-12T23:05:37.0599856+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:44.0613417+00:00",
-  "LastUpdate_Ratings": "2023-06-12T21:58:31.6103286+00:00",
-  "LastUpdate_Achievements": "2023-06-12T22:05:42.9185567+00:00"
+  "LastUpdate_Ratings": "2023-06-12T22:58:24.0536246+00:00",
+  "LastUpdate_Achievements": "2023-06-12T23:05:37.0600559+00:00"
 }

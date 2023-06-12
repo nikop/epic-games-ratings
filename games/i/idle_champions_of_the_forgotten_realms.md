@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,811 |
+| A Brief Tour of the Realms | 2.00% | ~1,812 |
 | Beast Intentions | 1.00% | ~906 |
 | The Cursed Farmer | 1.00% | ~906 |
 | The Mad Wizard | 1.00% | ~906 |
@@ -310,6 +310,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Leemooggoogoon Rises | 0.20% | ~114 |
 | Ending the Rime - Part 1 | 0.20% | ~114 |
 | Ending the Rime - Part 2 | 0.20% | ~114 |
+| Ambitious Speakers - Part 2 | 0.20% | ~114 |
 | Reghed Glacier Mysteries | 0.20% | ~114 |
 | Tekeli-li's Hunt | 0.20% | ~114 |
 | Neutral No More | 0.20% | ~114 |
@@ -485,7 +486,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Volo's Guide to Kuo-toa | 0.10% | ~57 |
 | Ambitious Speakers - Part 1 | 0.10% | ~57 |
 | Shady Sidekicks - Part 1 | 0.10% | ~57 |
-| Ambitious Speakers - Part 2 | 0.10% | ~57 |
 | Shady Sidekicks - Part 2 | 0.10% | ~57 |
 | Mysteries Unlocked | 0.10% | ~57 |
 | Male Pattern Boldness | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,572 (Ranked 64)  
+Progressed: 90,575 (Ranked 64)  
 Completed: 1,930 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 1,930 (2.13%) (Ranked 65)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
-| 2023-06-12 | 90,572 | 1,930 |
+| 2023-06-12 | 90,575 | 1,930 |
 ## Awards
 Max (Diverse Characters): 4,934  (Ranked 64)  
 Sum: 30,084 (Ranked 37)  

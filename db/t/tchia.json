@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6458,
+  "EOS_Progressed": 6460,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3469,6 +3469,11 @@
       "Time": "2023-06-12T22:05:27.176772+00:00",
       "NumProgressed": 6458,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-12T23:05:20.6327771+00:00",
+      "NumProgressed": 6460,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3520,7 +3525,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ENERGY_SAVER",
@@ -3528,7 +3533,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -3552,7 +3557,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -3568,7 +3573,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ICONOCLAST",
@@ -3624,7 +3629,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -3647,7 +3652,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6458,
+      "Progressed": 6460,
       "Completed": 24
     }
   ],
@@ -3655,8 +3660,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
-  "LastChanged_Achievements": "2023-06-12T22:05:27.1767716+00:00",
+  "LastChanged_Achievements": "2023-06-12T23:05:20.6327766+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-12T21:58:03.263622+00:00",
-  "LastUpdate_Achievements": "2023-06-12T22:05:27.1768087+00:00"
+  "LastUpdate_Ratings": "2023-06-12T22:57:54.2079286+00:00",
+  "LastUpdate_Achievements": "2023-06-12T23:05:20.6328111+00:00"
 }

@@ -44,8 +44,8 @@ Number of Ratings: 20  (23.09.2022)
 | Cold Blood, Warm Heart | 9.00% | ~28 |
 | Errand Runner | 9.00% | ~28 |
 | SCHMETTERLING | 8.00% | ~25 |
+| No Laughing Matter | 8.00% | ~25 |
 | The Great Library | 8.00% | ~25 |
-| No Laughing Matter | 7.00% | ~22 |
 | Level Up | 7.00% | ~22 |
 | The Workshop | 6.00% | ~19 |
 | Zookeeper | 5.00% | ~16 |

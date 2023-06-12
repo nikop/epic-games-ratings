@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 669,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1278,9 +1278,9 @@
       "ID": "ClockworkCompletion1",
       "SetID": "a9e499d",
       "Name": "Corin Goes Home",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "ClockworkProgress1",
@@ -1550,9 +1550,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 40
     },
     {
       "ID": "SkillCompletion1",
@@ -1669,8 +1669,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-12T22:05:11.1427996+00:00",
+  "LastChanged_Achievements": "2023-06-12T23:05:04.4018969+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-12T21:59:18.2768117+00:00",
-  "LastUpdate_Achievements": "2023-06-12T22:05:11.1428624+00:00"
+  "LastUpdate_Ratings": "2023-06-12T22:59:12.7075721+00:00",
+  "LastUpdate_Achievements": "2023-06-12T23:05:04.4019538+00:00"
 }

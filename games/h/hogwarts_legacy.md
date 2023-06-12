@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,113 |
-| First Class Student | 8.00% | ~22,323 |
-| Troll with the Punches | 8.00% | ~22,323 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,114 |
+| First Class Student | 8.00% | ~22,324 |
+| Troll with the Punches | 8.00% | ~22,324 |
 | Grappling with a Graphorn | 7.00% | ~19,533 |
 | The One Who Mastered Memories | 7.00% | ~19,533 |
 | The Hallowed Hero | 7.00% | ~19,533 |
@@ -18,9 +18,9 @@ Rating: 4.77 (Ranked 107)
 | A Talent for Spending | 7.00% | ~19,533 |
 | Coasting Along | 7.00% | ~19,533 |
 | That's a Keeper | 7.00% | ~19,533 |
-| Challenge Accepted | 6.00% | ~16,742 |
-| Followed the Butterflies | 6.00% | ~16,742 |
-| Rising From the Ashes | 6.00% | ~16,742 |
+| Challenge Accepted | 6.00% | ~16,743 |
+| Followed the Butterflies | 6.00% | ~16,743 |
+| Rising From the Ashes | 6.00% | ~16,743 |
 | The Avenging Gazelle | 5.00% | ~13,952 |
 | Beast Friends | 5.00% | ~13,952 |
 | A Sallow Grave | 5.00% | ~13,952 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,395 |
 | Collector's Edition | 0.20% | ~558 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279,038 (Ranked 41)  
+Progressed: 279,048 (Ranked 41)  
 Completed: 403 (0.14%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,15 +104,15 @@ Completed: 403 (0.14%) (Ranked 160)
 | 2023-06-09 | 277,741 | 395 |
 | 2023-06-10 | 278,175 | 397 |
 | 2023-06-11 | 278,675 | 401 |
-| 2023-06-12 | 279,038 | 403 |
+| 2023-06-12 | 279,048 | 403 |
 ## Awards
 Max (Character Customization): 19,875  (Ranked 18)  
-Sum: 36,807 (Ranked 32)  
+Sum: 36,836 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 19,875 |
-| This game has Great Boss Battles | 9,409 |
+| This game has Great Boss Battles | 9,438 |
 | This game is Great for Beginners | 831 |
 | This game is Relaxing | 829 |
 | This game is Extremely Fun | 822 |
@@ -206,4 +206,4 @@ Diff (max vs sum): -14
 | 2023-06-09 | 4.77 | 19,738 | 36,553 |
 | 2023-06-10 | 4.77 | 19,774 | 36,629 |
 | 2023-06-11 | 4.77 | 19,818 | 36,728 |
-| 2023-06-12 | 4.77 | 19,875 | 36,807 |
+| 2023-06-12 | 4.77 | 19,875 | 36,836 |
