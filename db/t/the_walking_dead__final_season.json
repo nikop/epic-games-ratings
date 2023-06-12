@@ -2,7 +2,7 @@
   "ID": "ocelot",
   "Name": "The Walking Dead: Final Season",
   "ProductSlug": "walking-dead-final-season",
-  "Ranking_Rating": 143,
+  "Ranking_Rating": 144,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 443,
@@ -222,6 +222,6 @@
   "FirstSeen": "2022-07-22T20:21:34.1366366+00:00",
   "LastChanged": "2023-05-19T13:58:56.2476912+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:53.2056694+00:00",
-  "LastUpdate_Ratings": "2023-06-12T17:59:29.1769316+00:00",
-  "LastUpdate_Achievements": "2023-06-12T18:05:04.8499343+00:00"
+  "LastUpdate_Ratings": "2023-06-12T18:59:50.7495486+00:00",
+  "LastUpdate_Achievements": "2023-06-12T19:05:28.9694167+00:00"
 }

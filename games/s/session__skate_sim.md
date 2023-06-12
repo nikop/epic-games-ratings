@@ -37,11 +37,11 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 4.00% | ~96 |
 | Renaissance man | 4.00% | ~96 |
 | Tank commander | 4.00% | ~96 |
+| Trick shot marksman | 4.00% | ~96 |
 | Cops called! | 3.00% | ~72 |
 | G.O.A.T. status | 3.00% | ~72 |
 | Hoarder | 3.00% | ~72 |
 | Prince of Philly | 3.00% | ~72 |
-| Trick shot marksman | 3.00% | ~72 |
 | We get it, you're good | 3.00% | ~72 |
 | Cross lock country | 2.00% | ~48 |
 | Many plys later... | 2.00% | ~48 |

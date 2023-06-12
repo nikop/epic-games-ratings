@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1485,
+  "EOS_Progressed": 1487,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1856,6 +1856,11 @@
       "Time": "2023-06-12T18:03:46.0824897+00:00",
       "NumProgressed": 1485,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T19:04:05.5144557+00:00",
+      "NumProgressed": 1487,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1875,7 +1880,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "BOT_DESTROYER",
@@ -1891,7 +1896,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "CONQUEROR",
@@ -1899,7 +1904,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -1947,7 +1952,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "GLOVE_SLAP",
@@ -1971,7 +1976,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "GUARD_MAKER",
@@ -2042,14 +2047,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1485,
+      "Progressed": 1487,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-12T18:03:46.0824889+00:00",
+  "LastChanged_Achievements": "2023-06-12T19:04:05.5144553+00:00",
   "LastUpdate_AppInfo": "2023-06-06T15:56:55.6600857+00:00",
-  "LastUpdate_Ratings": "2023-06-12T17:57:26.4970129+00:00",
-  "LastUpdate_Achievements": "2023-06-12T18:03:46.0825346+00:00"
+  "LastUpdate_Ratings": "2023-06-12T18:57:18.0571188+00:00",
+  "LastUpdate_Achievements": "2023-06-12T19:04:05.5144762+00:00"
 }

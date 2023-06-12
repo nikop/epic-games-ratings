@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cartographer | 9.00% | ~60 |
+| Time Heals All Wounds | 9.00% | ~60 |
 | Treasure Trove | 8.00% | ~53 |
-| Time Heals All Wounds | 8.00% | ~53 |
 | The Steel Shadow | 7.00% | ~47 |
 | The Mysterious Stranger | 7.00% | ~47 |
 | Rail Rat | 7.00% | ~47 |
@@ -22,6 +22,7 @@
 | Fast Learner | 6.00% | ~40 |
 | Immaculate Aim | 6.00% | ~40 |
 | The Brass Boss | 6.00% | ~40 |
+| The Family Fortune | 6.00% | ~40 |
 | Right On Time | 5.00% | ~33 |
 | Like Clockwork | 5.00% | ~33 |
 | Street Style | 5.00% | ~33 |
@@ -30,7 +31,6 @@
 | Honest Mistake | 5.00% | ~33 |
 | Golem Chaser | 5.00% | ~33 |
 | Check Your Pulse | 5.00% | ~33 |
-| The Family Fortune | 5.00% | ~33 |
 | Chaincrawler Explorer | 4.00% | ~27 |
 | Family Memories | 4.00% | ~27 |
 | Whiz Kid | 4.00% | ~27 |
@@ -50,7 +50,7 @@
 | Rungs Was Right | 2.00% | ~13 |
 | Hexlock for Protection | 1.00% | ~7 |
 | Fitting In | 0.70% | ~5 |
-| Thinking Two Steps Ahead | 0.40% | ~3 |
+| Thinking Two Steps Ahead | 0.60% | ~4 |
 | Wunderkind | 0.30% | ~2 |
 | Wildlife Protection | 0.30% | ~2 |
 | A Lesson in Precision | 0.10% | ~1 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667 (Ranked 191)  
+Progressed: 668 (Ranked 190)  
 Completed: 1 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,4 +83,4 @@ Completed: 1 (0.15%) (Ranked 157)
 | 2023-06-09 | 642 | 0 |
 | 2023-06-10 | 653 | 0 |
 | 2023-06-11 | 661 | 1 |
-| 2023-06-12 | 667 | 1 |
+| 2023-06-12 | 668 | 1 |

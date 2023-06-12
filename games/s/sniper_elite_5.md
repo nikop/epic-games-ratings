@@ -1,28 +1,28 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.52 (Ranked 514)  
+Rating: 4.52 (Ranked 515)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~819 |
-| Confirming Suspicions | 24.00% | ~655 |
-| The Kraken Wakes | 20.00% | ~546 |
-| It's Starting to Crack | 17.00% | ~464 |
+| Meeting Resistance | 30.00% | ~820 |
+| Confirming Suspicions | 24.00% | ~656 |
+| The Kraken Wakes | 20.00% | ~547 |
+| It's Starting to Crack | 17.00% | ~465 |
 | Lord of War | 15.00% | ~410 |
 | Change the Channel | 15.00% | ~410 |
 | Resourceful | 13.00% | ~355 |
 | Taking it back | 12.00% | ~328 |
-| Organ Grinder | 11.00% | ~300 |
-| Target America | 11.00% | ~300 |
+| Organ Grinder | 11.00% | ~301 |
+| Target America | 11.00% | ~301 |
 | As Quiet as a Mouse | 10.00% | ~273 |
 | Liberté | 9.00% | ~246 |
 | The Kraken Sleeps | 9.00% | ~246 |
-| Enemy at the Gates | 8.00% | ~218 |
-| Just a Flesh Wound | 8.00% | ~218 |
-| Gunslinger | 8.00% | ~218 |
-| Sharpshooter | 8.00% | ~218 |
-| Explosive Efficiency | 8.00% | ~218 |
+| Enemy at the Gates | 8.00% | ~219 |
+| Just a Flesh Wound | 8.00% | ~219 |
+| Gunslinger | 8.00% | ~219 |
+| Sharpshooter | 8.00% | ~219 |
+| Explosive Efficiency | 8.00% | ~219 |
 | Opposing Force | 7.00% | ~191 |
 | Fields of Glory | 6.00% | ~164 |
 | Die Nussknacker Sweet! | 6.00% | ~164 |
@@ -30,10 +30,10 @@ Rating: 4.52 (Ranked 514)
 | Close Quarters | 6.00% | ~164 |
 | Snake in the Grass | 6.00% | ~164 |
 | Brains of the Operation | 6.00% | ~164 |
-| Climbing the Ladder | 5.00% | ~136 |
-| No Stone Unturned | 5.00% | ~136 |
-| Skirmisher | 5.00% | ~136 |
-| Set Europe Ablaze | 5.00% | ~136 |
+| Climbing the Ladder | 5.00% | ~137 |
+| No Stone Unturned | 5.00% | ~137 |
+| Skirmisher | 5.00% | ~137 |
+| Set Europe Ablaze | 5.00% | ~137 |
 | Precision Is Key | 4.00% | ~109 |
 | Rigged to Blow | 3.00% | ~82 |
 | My Little Friend | 3.00% | ~82 |
@@ -47,8 +47,8 @@ Rating: 4.52 (Ranked 514)
 | Herr Today, Gone Tomorrow | 1.00% | ~27 |
 | Operation Foxley | 1.00% | ~27 |
 | Last Resort | 0.90% | ~24 |
+| Siegebreaker | 0.90% | ~24 |
 | Ghost of Falaise | 0.90% | ~24 |
-| Siegebreaker | 0.80% | ~21 |
 | Burn after reading | 0.70% | ~19 |
 | From Paris with Love | 0.60% | ~16 |
 | Souvenir hunter | 0.50% | ~14 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 514)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,730 (Ranked 145)  
+Progressed: 2,733 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.07%) (Ranked 177)
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
-| 2023-06-12 | 2,730 | 2 |
+| 2023-06-12 | 2,733 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

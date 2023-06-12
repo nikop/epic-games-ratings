@@ -10,7 +10,7 @@ Number of Ratings: 62  (23.09.2022)
 | I'll Be Back | 84.00% | ~3,703 |
 | Sorry, I Dropped This | 77.00% | ~3,394 |
 | First Day on the Job | 76.00% | ~3,350 |
-| Butcher's Bill | 54.00% | ~2,380 |
+| Butcher's Bill | 55.00% | ~2,424 |
 | P.A.X | 37.00% | ~1,631 |
 | Hey Listen | 36.00% | ~1,587 |
 | OPERATOR | 35.00% | ~1,543 |
@@ -122,9 +122,9 @@ Completed: 13 (0.29%) (Ranked 133)
 | 2023-06-11 | 4,400 | 13 |
 | 2023-06-12 | 4,408 | 13 |
 ## Awards
-Max (Great Boss Battles): 26  (Ranked 463)  
+Max (Great Boss Battles): 26  (Ranked 464)  
 Sum: 26 (Ranked 472)  
-Diff (max vs sum): -9  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 26 |

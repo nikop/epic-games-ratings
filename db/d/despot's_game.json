@@ -385,9 +385,9 @@
       "ID": "finished-quest-monster",
       "SetID": "799afm0",
       "Name": "Campaigning",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 104
     },
     {
       "ID": "finished-quest-nurgle",
@@ -425,9 +425,9 @@
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "finished-quest-secret",
@@ -578,8 +578,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-06-12T18:05:56.6917995+00:00",
+  "LastChanged_Achievements": "2023-06-12T19:06:32.0352533+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:01.3809708+00:00",
-  "LastUpdate_Ratings": "2023-06-12T17:58:49.5096829+00:00",
-  "LastUpdate_Achievements": "2023-06-12T18:05:56.6918487+00:00"
+  "LastUpdate_Ratings": "2023-06-12T18:59:01.1873424+00:00",
+  "LastUpdate_Achievements": "2023-06-12T19:06:32.0352743+00:00"
 }

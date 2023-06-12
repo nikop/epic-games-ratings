@@ -1,30 +1,30 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 472)  
+Rating: 4.55 (Ranked 473)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~32,246 |
-| First Steps | 81.00% | ~28,085 |
+| Awakening | 93.00% | ~32,247 |
+| First Steps | 81.00% | ~28,086 |
 | Control the Shadows | 68.00% | ~23,578 |
-| Tools of the Trade | 63.00% | ~21,844 |
+| Tools of the Trade | 63.00% | ~21,845 |
 | Apprentice | 60.00% | ~20,804 |
 | Secret Seeker | 57.00% | ~19,764 |
 | Forge of Assassins | 56.00% | ~19,417 |
 | Revenant | 52.00% | ~18,030 |
 | I don’t Care! | 45.00% | ~15,603 |
 | Bird of Prey | 37.00% | ~12,829 |
-| Engraved with Power | 32.00% | ~11,095 |
+| Engraved with Power | 32.00% | ~11,096 |
 | Lady | 30.00% | ~10,402 |
 | Fashionable Assassin | 27.00% | ~9,362 |
 | Apex Predator | 24.00% | ~8,322 |
 | Soul Reaver | 22.00% | ~7,628 |
-| Embers | 21.00% | ~7,281 |
+| Embers | 21.00% | ~7,282 |
 | Wall Lizard | 20.00% | ~6,935 |
 | Clinging to Life | 18.00% | ~6,241 |
-| Burning | 17.00% | ~5,894 |
+| Burning | 17.00% | ~5,895 |
 | Look Behind You | 16.00% | ~5,548 |
 | Sleeping on the Job | 16.00% | ~5,548 |
 | Family | 14.00% | ~4,854 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~347 |
 | Anger Management | 1.00% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,673 (Ranked 86)  
+Progressed: 34,674 (Ranked 86)  
 Completed: 170 (0.49%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 170 (0.49%) (Ranked 116)
 | 2023-06-09 | 34,411 | 167 |
 | 2023-06-10 | 34,502 | 169 |
 | 2023-06-11 | 34,599 | 170 |
-| 2023-06-12 | 34,673 | 170 |
+| 2023-06-12 | 34,674 | 170 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

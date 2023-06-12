@@ -1,7 +1,7 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.65 (Ranked 295)  
+Rating: 4.65 (Ranked 296)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 36  (23.09.2022)
 | Post No Bills | 54.00% | ~409 |
 | Truly Shocking! | 46.00% | ~348 |
 | Critical Thinker | 34.00% | ~257 |
-| Always Finding Your Mark | 28.00% | ~212 |
+| Always Finding Your Mark | 29.00% | ~220 |
 | The Weight of the World | 28.00% | ~212 |
 | Act I Complete | 27.00% | ~204 |
 | No Niños | 27.00% | ~204 |

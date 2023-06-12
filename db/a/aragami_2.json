@@ -2,7 +2,7 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 86,
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34673,
+  "EOS_Progressed": 34674,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -5109,6 +5109,11 @@
       "Time": "2023-06-12T18:00:49.6544691+00:00",
       "NumProgressed": 34673,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-06-12T19:02:05.7109411+00:00",
+      "NumProgressed": 34674,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 44,
@@ -5136,7 +5141,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 7281
+      "UsersEstimate": 7282
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -5144,7 +5149,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5894
+      "UsersEstimate": 5895
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -5240,7 +5245,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 28085
+      "UsersEstimate": 28086
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -5352,7 +5357,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 11095
+      "UsersEstimate": 11096
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -5360,7 +5365,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 21844
+      "UsersEstimate": 21845
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -5456,7 +5461,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 32246
+      "UsersEstimate": 32247
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -5471,7 +5476,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 34673,
+      "Progressed": 34674,
       "Completed": 170
     }
   ],
@@ -5479,8 +5484,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-06-12T18:00:49.6544682+00:00",
+  "LastChanged_Achievements": "2023-06-12T19:02:05.7109406+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.5887202+00:00",
-  "LastUpdate_Ratings": "2023-06-12T17:58:32.8454002+00:00",
-  "LastUpdate_Achievements": "2023-06-12T18:00:49.6545913+00:00"
+  "LastUpdate_Ratings": "2023-06-12T18:58:39.3355513+00:00",
+  "LastUpdate_Achievements": "2023-06-12T19:02:05.7110054+00:00"
 }

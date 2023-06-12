@@ -1,15 +1,15 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 592)  
+Rating: 4.47 (Ranked 593)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,542 |
-| Leader | 60.00% | ~3,838 |
-| Explorer | 53.00% | ~3,390 |
-| Healer | 53.00% | ~3,390 |
+| First Step | 71.00% | ~4,543 |
+| Leader | 60.00% | ~3,839 |
+| Explorer | 53.00% | ~3,391 |
+| Healer | 53.00% | ~3,391 |
 | Aspiring Inventor | 44.00% | ~2,815 |
 | Adventurer | 41.00% | ~2,623 |
 | Famous Healer | 38.00% | ~2,431 |
@@ -18,21 +18,21 @@ Number of Ratings: 836  (23.09.2022)
 | Famous Explorer | 33.00% | ~2,111 |
 | Energized | 33.00% | ~2,111 |
 | The Long Haul | 33.00% | ~2,111 |
+| The Great Healer | 31.00% | ~1,983 |
 | Survivor | 31.00% | ~1,983 |
-| The Great Healer | 30.00% | ~1,919 |
 | Cleaner | 28.00% | ~1,791 |
 | Catastrofan | 28.00% | ~1,791 |
 | Legendary Explorer | 27.00% | ~1,727 |
 | Finders, Keepers | 26.00% | ~1,663 |
-| Top Notch | 24.00% | ~1,535 |
-| Mentor | 23.00% | ~1,471 |
-| Great Leader | 22.00% | ~1,407 |
-| Ice Lakes | 22.00% | ~1,407 |
-| Real Survivor | 22.00% | ~1,407 |
-| Merchant | 21.00% | ~1,343 |
-| War Never Changes | 19.00% | ~1,215 |
-| Rocket Surgeon | 19.00% | ~1,215 |
-| Big Game Hunter | 17.00% | ~1,087 |
+| Top Notch | 24.00% | ~1,536 |
+| Ice Lakes | 23.00% | ~1,472 |
+| Mentor | 23.00% | ~1,472 |
+| Great Leader | 22.00% | ~1,408 |
+| Real Survivor | 22.00% | ~1,408 |
+| Merchant | 21.00% | ~1,344 |
+| War Never Changes | 19.00% | ~1,216 |
+| Rocket Surgeon | 19.00% | ~1,216 |
+| Big Game Hunter | 17.00% | ~1,088 |
 | Friendly | 16.00% | ~1,024 |
 | Spreading Influence | 16.00% | ~1,024 |
 | Around the World | 15.00% | ~960 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Fun and Games | 0.10% | ~6 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,397 (Ranked 123)  
+Progressed: 6,398 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 6,285 | 0 |
 | 2023-06-10 | 6,322 | 0 |
 | 2023-06-11 | 6,370 | 0 |
-| 2023-06-12 | 6,397 | 0 |
+| 2023-06-12 | 6,398 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 328)  
 Sum: 665 (Ranked 269)  

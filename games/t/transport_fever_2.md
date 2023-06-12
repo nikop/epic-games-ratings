@@ -6,7 +6,7 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~975 |
+| First line | 78.00% | ~987 |
 | First cargo item on board | 71.00% | ~899 |
 | First cargo item waiting | 71.00% | ~899 |
 | First bus stop | 70.00% | ~886 |
@@ -35,11 +35,11 @@ Number of Ratings: 180  (23.09.2022)
 | The future is now, old man | 31.00% | ~392 |
 | Not in my backyard | 30.00% | ~380 |
 | City | 29.00% | ~367 |
-| The king of the sea | 28.00% | ~354 |
+| The king of the sea | 29.00% | ~367 |
 | Transport tycoon | 24.00% | ~304 |
 | Climate change | 23.00% | ~291 |
+| The ugly smell of success | 23.00% | ~291 |
 | Old timer | 22.00% | ~279 |
-| The ugly smell of success | 22.00% | ~279 |
 | Heavily loaded | 21.00% | ~266 |
 | Bob Ross | 16.00% | ~203 |
 | Campaign expert | 11.00% | ~139 |

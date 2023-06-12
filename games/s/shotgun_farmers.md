@@ -7,13 +7,13 @@
 | Seeds of War | 55.00% | ~61 |
 | Aspairagus | 54.00% | ~33 |
 | Survivor | 46.00% | ~28 |
-| First Blood | 40.00% | ~44 |
+| First Blood | 41.00% | ~46 |
 | Triple Kill | 38.00% | ~42 |
 | Early Survivor | 37.00% | ~23 |
+| Cornivore | 33.00% | ~37 |
 | No Diggity | 33.00% | ~20 |
+| I Believe I Can Fly | 32.00% | ~36 |
 | No Asperascope | 32.00% | ~36 |
-| Cornivore | 32.00% | ~36 |
-| I Believe I Can Fly | 31.00% | ~34 |
 | Amateur Survivor | 27.00% | ~16 |
 | Bouncemato | 23.00% | ~14 |
 | This Is My Boomstick | 21.00% | ~13 |
@@ -27,7 +27,7 @@
 | Summers Here | 10.00% | ~6 |
 | Pyromaniac | 9.00% | ~5 |
 | Skin Of Your Teeth | 8.00% | ~9 |
-| Eggtraordinary | 7.00% | ~8 |
+| Eggtraordinary | 8.00% | ~9 |
 | Perfect | 7.00% | ~4 |
 | Expert Survivor | 7.00% | ~4 |
 | Quit Horsin' Around | 6.00% | ~7 |

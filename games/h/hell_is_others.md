@@ -5,11 +5,11 @@ Rating: 4.43 (Ranked 646)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,803 |
-| Predator I | 22.00% | ~55,215 |
+| Survivor | 31.00% | ~77,805 |
+| Predator I | 22.00% | ~55,216 |
 | Fixer I | 10.00% | ~25,098 |
 | A week in Century City | 10.00% | ~25,098 |
-| The Wait | 7.00% | ~17,568 |
+| The Wait | 7.00% | ~17,569 |
 | Green thumb I | 6.00% | ~15,059 |
 | Cleaning Company | 6.00% | ~15,059 |
 | Well-oiled machine | 5.00% | ~12,549 |
@@ -18,7 +18,7 @@ Rating: 4.43 (Ranked 646)
 | Pacifist | 4.00% | ~10,039 |
 | Vandalism | 4.00% | ~10,039 |
 | Capitalist I | 4.00% | ~10,039 |
-| Adrenaline | 3.00% | ~7,529 |
+| Adrenaline | 3.00% | ~7,530 |
 | By a hair | 2.00% | ~5,020 |
 | Fixer II | 2.00% | ~5,020 |
 | It took a while | 2.00% | ~5,020 |
@@ -62,7 +62,7 @@ Rating: 4.43 (Ranked 646)
 | Capitalist III | 0.10% | ~251 |
 | Hell Is You | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,978 (Ranked 42)  
+Progressed: 250,984 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,14 +115,14 @@ Completed: 1 (0.00%) (Ranked 216)
 | 2023-06-09 | 250,759 | 1 |
 | 2023-06-10 | 250,842 | 1 |
 | 2023-06-11 | 250,922 | 1 |
-| 2023-06-12 | 250,978 | 1 |
+| 2023-06-12 | 250,984 | 1 |
 ## Awards
-Max (Great for Quick Sessions): 25  (Ranked 467)  
-Sum: 112 (Ranked 398)  
-Diff (max vs sum): 69  
+Max (Great for Quick Sessions): 27  (Ranked 459)  
+Sum: 114 (Ranked 396)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 25 |
+| This game is Great for Quick Sessions | 27 |
 | This game has Unique Visuals | 24 |
 | This game has Amazing Characters | 23 |
 | This game has Quickly Understood Controls | 20 |
@@ -206,4 +206,4 @@ Diff (max vs sum): 69
 | 2023-06-07 | 4.43 | 25 | 71 |
 | 2023-06-10 | 4.43 | 25 | 91 |
 | 2023-06-11 | 4.43 | 25 | 92 |
-| 2023-06-12 | 4.43 | 25 | 112 |
+| 2023-06-12 | 4.43 | 27 | 114 |

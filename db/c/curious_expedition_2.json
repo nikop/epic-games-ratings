@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -189,6 +189,11 @@
       "Time": "2023-06-12T14:06:53.272934+00:00",
       "NumProgressed": 315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T19:06:44.3338003+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -206,7 +211,7 @@
       "ID": "ach-ailments",
       "SetID": "17ih7ma",
       "Name": "Everything is FINE...",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -286,9 +291,9 @@
       "ID": "ach-campaign-fameThreshold",
       "SetID": "17ih7ma",
       "Name": "And Here Is Your Statue",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -296,7 +301,7 @@
       "Name": "Traveller",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -320,7 +325,7 @@
       "Name": "Iron Man",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -336,7 +341,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ach-campaign-story2",
@@ -438,9 +443,9 @@
       "ID": "ach-interspeciesLove",
       "SetID": "17ih7ma",
       "Name": "It\u0027s Complicated",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "ach-joinClubChallenge",
@@ -462,9 +467,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "ach-kill-hyenas",
@@ -528,7 +533,7 @@
       "Name": "Spooky!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ach-noEquipment",
@@ -552,7 +557,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach-paleMask-cure",
@@ -566,9 +571,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 76
     },
     {
       "ID": "ach-portal-return",
@@ -592,7 +597,7 @@
       "Name": "Good Mama",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ach-redElk",
@@ -679,7 +684,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 1
     }
   ],
@@ -687,8 +692,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-12T18:06:07.7492287+00:00",
+  "LastChanged_Achievements": "2023-06-12T19:06:44.3337999+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.3347821+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:00:26.6547577+00:00",
-  "LastUpdate_Achievements": "2023-06-12T18:06:07.7493297+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:01:02.8642777+00:00",
+  "LastUpdate_Achievements": "2023-06-12T19:06:44.3338463+00:00"
 }

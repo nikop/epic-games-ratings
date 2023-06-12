@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -1991,9 +1991,9 @@
       "ID": "achCreateLine",
       "SetID": "dgl390n",
       "Name": "First line",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 975
+      "UsersEstimate": 987
     },
     {
       "ID": "achCrowdInATrain",
@@ -2231,17 +2231,17 @@
       "ID": "achShipEarnings",
       "SetID": "dgl390n",
       "Name": "The king of the sea",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 367
     },
     {
       "ID": "achSmellOfSuccess",
       "SetID": "dgl390n",
       "Name": "The ugly smell of success",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 291
     },
     {
       "ID": "achSmellOfSuccessCargo",
@@ -2319,8 +2319,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-08T16:00:13.2391099+00:00",
-  "LastChanged_Achievements": "2023-06-12T18:06:09.2399929+00:00",
+  "LastChanged_Achievements": "2023-06-12T19:06:45.6381131+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.0789003+00:00",
-  "LastUpdate_Ratings": "2023-06-12T17:59:39.1484705+00:00",
-  "LastUpdate_Achievements": "2023-06-12T18:06:09.2401501+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:00:02.1905626+00:00",
+  "LastUpdate_Achievements": "2023-06-12T19:06:45.638165+00:00"
 }

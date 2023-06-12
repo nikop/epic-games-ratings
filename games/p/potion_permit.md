@@ -17,7 +17,7 @@ Rating: 3.81 (Ranked 928)
 | Intermediate Chemist | 38.00% | ~534 |
 | Decorative Mind | 31.00% | ~436 |
 | Lumber Specialist | 29.00% | ~407 |
-| Catch of the Day | 23.00% | ~323 |
+| Catch of the Day | 24.00% | ~337 |
 | Kind-hearted | 22.00% | ~309 |
 | Amateur Chef | 20.00% | ~281 |
 | Fishing Guru | 18.00% | ~253 |
@@ -32,7 +32,7 @@ Rating: 3.81 (Ranked 928)
 | Good Samaritan | 10.00% | ~140 |
 | Acrobatic Adventurer | 8.00% | ~112 |
 | Animal Exterminator | 7.00% | ~98 |
-| Adolescent Love | 5.00% | ~70 |
+| Adolescent Love | 6.00% | ~84 |
 | Mail Carrier | 5.00% | ~70 |
 | Plantation Exterminator | 4.00% | ~56 |
 | Grape Supplier | 4.00% | ~56 |

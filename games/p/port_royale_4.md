@@ -6,7 +6,7 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~521 |
+| Cabin boy | 81.00% | ~522 |
 | My little farm | 64.00% | ~412 |
 | Every beginning is difficult | 62.00% | ~399 |
 | 3, 2, 1, mine | 55.00% | ~354 |
@@ -15,7 +15,7 @@ Number of Ratings: 53  (23.09.2022)
 | O Captain! My Captain! | 53.00% | ~341 |
 | Greed for gold | 42.00% | ~270 |
 | Intangible | 41.00% | ~264 |
-| I'm out of here for a while | 40.00% | ~257 |
+| I'm out of here for a while | 40.00% | ~258 |
 | In a mint condition | 37.00% | ~238 |
 | Licence to Kill | 34.00% | ~219 |
 | Pirates! | 34.00% | ~219 |
@@ -31,9 +31,9 @@ Number of Ratings: 53  (23.09.2022)
 | Panic buying | 11.00% | ~71 |
 | Just a scratch | 9.00% | ~58 |
 | Your vessel, my vessel | 9.00% | ~58 |
-| All mine! | 8.00% | ~51 |
-| Paths of Glory | 8.00% | ~51 |
-| Panel of experts | 8.00% | ~51 |
+| All mine! | 8.00% | ~52 |
+| Paths of Glory | 8.00% | ~52 |
+| Panel of experts | 8.00% | ~52 |
 | Maker | 7.00% | ~45 |
 | Conglomerate | 6.00% | ~39 |
 | The Grande Bouffe | 5.00% | ~32 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643 (Ranked 194)  
+Progressed: 644 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 630 | 0 |
 | 2023-06-10 | 635 | 0 |
 | 2023-06-11 | 641 | 0 |
-| 2023-06-12 | 643 | 0 |
+| 2023-06-12 | 644 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

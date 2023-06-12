@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -418,9 +418,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 8312,
+  "EOS_Progressed": 8316,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 544,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4393,6 +4393,11 @@
       "Time": "2023-06-12T18:03:19.6396345+00:00",
       "NumProgressed": 8312,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-12T19:03:32.9673575+00:00",
+      "NumProgressed": 8316,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 34,
@@ -4428,7 +4433,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH05",
@@ -4484,7 +4489,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "ACH12",
@@ -4508,7 +4513,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3325
+      "UsersEstimate": 3326
     },
     {
       "ID": "ACH15",
@@ -4524,7 +4529,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH17",
@@ -4540,7 +4545,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH19",
@@ -4564,7 +4569,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3574
+      "UsersEstimate": 3576
     },
     {
       "ID": "ACH22",
@@ -4572,7 +4577,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "ACH23",
@@ -4580,7 +4585,7 @@
       "Name": "South American Connection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "ACH24",
@@ -4612,7 +4617,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH28",
@@ -4675,7 +4680,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8312,
+      "Progressed": 8316,
       "Completed": 30
     }
   ],
@@ -4683,8 +4688,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-10T11:58:23.7824085+00:00",
-  "LastChanged_Achievements": "2023-06-12T18:03:19.6396339+00:00",
+  "LastChanged_Achievements": "2023-06-12T19:03:32.967357+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-12T17:58:26.8453403+00:00",
-  "LastUpdate_Achievements": "2023-06-12T18:03:19.6397269+00:00"
+  "LastUpdate_Ratings": "2023-06-12T18:58:32.7841375+00:00",
+  "LastUpdate_Achievements": "2023-06-12T19:03:32.9673962+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "conanexiles",
   "Name": "Conan Exiles",
   "ProductSlug": "conan-exiles",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 124,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 443,
@@ -3901,10 +3901,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 8717,
       "NumberOfAwardsMax": 1230
+    },
+    {
+      "Time": "2023-06-12T19:00:35.7295756+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 8718,
+      "NumberOfAwardsMax": 1230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8717,
+  "NumberOfAwards": 8718,
   "NumberOfAwardsMax": 1230,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3960,7 +3966,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 826
+      "Count": 827
     }
   ],
   "EOS_Progressed": 0,
@@ -3974,8 +3980,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-06-12T12:00:06.2433384+00:00",
+  "LastChanged": "2023-06-12T19:00:35.7295755+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:42.024906+00:00",
-  "LastUpdate_Ratings": "2023-06-12T18:00:05.8776782+00:00",
-  "LastUpdate_Achievements": "2023-06-12T18:03:45.6196401+00:00"
+  "LastUpdate_Ratings": "2023-06-12T19:00:35.729576+00:00",
+  "LastUpdate_Achievements": "2023-06-12T19:04:04.9944796+00:00"
 }
