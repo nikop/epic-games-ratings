@@ -7,23 +7,23 @@
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.08% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 17.39% |
-| 8 | [Island Cities](games/i/island_cities.md) | 15.48% |
+| 8 | [Island Cities](games/i/island_cities.md) | 15.43% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 15.00% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.33% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
-| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.59% |
+| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 11.43% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 10.53% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.38% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.19% |
-| 21 | [Time Loader](games/t/time_loader.md) | 7.77% |
-| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
-| 22 | [Remains](games/r/remains.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.18% |
+| 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
+| 21 | [Remains](games/r/remains.md) | 7.69% |
+| 21 | [Time Loader](games/t/time_loader.md) | 7.69% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 7.07% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.97% |
 | 27 | [Scorn](games/s/scorn.md) | 6.77% |
@@ -34,8 +34,8 @@
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.93% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
+| 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.92% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.76% |
@@ -44,7 +44,7 @@
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.65% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 45 | [ZZT!](games/z/zzt!.md) | 3.32% |
+| 45 | [ZZT!](games/z/zzt!.md) | 3.31% |
 | 46 | [The Complex](games/t/the_complex.md) | 3.28% |
 | 47 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.18% |
 | 48 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.10% |
@@ -80,9 +80,9 @@
 | 77 | [Night Book](games/n/night_book.md) | 1.51% |
 | 79 | [Frogun](games/f/frogun.md) | 1.46% |
 | 80 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.33% |
-| 81 | [Ten Dates](games/t/ten_dates.md) | 1.23% |
-| 82 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
-| 82 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.22% |
+| 81 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
+| 81 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.22% |
+| 81 | [Ten Dates](games/t/ten_dates.md) | 1.22% |
 | 84 | [Trifox](games/t/trifox.md) | 1.15% |
 | 85 | [Chorus](games/c/chorus.md) | 1.14% |
 | 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
@@ -441,4 +441,4 @@
 | 216 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 216 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 216 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,765 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,767 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
