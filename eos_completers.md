@@ -16,7 +16,7 @@
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 15 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 10.53% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.38% |
-| 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
+| 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.70% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.18% |
@@ -60,7 +60,7 @@
 | 58 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.60% |
 | 59 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 60 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 61 | [Bloodshore](games/b/bloodshore.md) | 2.45% |
+| 61 | [Bloodshore](games/b/bloodshore.md) | 2.44% |
 | 62 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.41% |
 | 63 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.20% |
 | 64 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.17% |
@@ -70,7 +70,7 @@
 | 68 | [Iron Danger](games/i/iron_danger.md) | 1.99% |
 | 69 | [JARS](games/j/jars.md) | 1.89% |
 | 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.84% |
-| 71 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
+| 71 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
 | 72 | [Sifu](games/s/sifu.md) | 1.80% |
 | 73 | [Poosh XL](games/p/poosh_xl.md) | 1.67% |
 | 74 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
@@ -129,8 +129,8 @@
 | 127 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
 | 127 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 127 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
 | 127 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
-| 131 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 132 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 133 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 133 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
