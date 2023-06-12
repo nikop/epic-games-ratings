@@ -5,29 +5,29 @@ Rating: 4.05 (Ranked 891)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,299 |
-| World Map | 80.00% | ~1,106 |
-| Temple of Eternals | 57.00% | ~788 |
-| Prestigious | 53.00% | ~732 |
-| Fellowship Power | 41.00% | ~567 |
+| Victor | 94.00% | ~1,302 |
+| World Map | 80.00% | ~1,108 |
+| Temple of Eternals | 57.00% | ~789 |
+| Prestigious | 53.00% | ~734 |
+| Fellowship Power | 41.00% | ~568 |
 | Guild Power | 24.00% | ~332 |
-| Prestigious x10 | 21.00% | ~290 |
-| The game is on | 19.00% | ~263 |
+| Prestigious x10 | 21.00% | ~291 |
+| The game is on | 18.00% | ~249 |
 | Exotic Merchant | 17.00% | ~235 |
-| Dragon Clicker | 16.00% | ~221 |
-| Miner Clicker | 16.00% | ~221 |
-| Inspection | 15.00% | ~207 |
-| Full Party | 14.00% | ~193 |
+| Dragon Clicker | 16.00% | ~222 |
+| Miner Clicker | 16.00% | ~222 |
+| Inspection | 15.00% | ~208 |
+| Full Party | 14.00% | ~194 |
 | Dragon Master | 13.00% | ~180 |
 | Enlightenment | 13.00% | ~180 |
 | Hero inspection | 13.00% | ~180 |
 | Lieutenant | 12.00% | ~166 |
 | Natural Talent | 12.00% | ~166 |
-| The Unstoppable | 12.00% | ~166 |
 | Mysterious Rock | 11.00% | ~152 |
 | Superior | 11.00% | ~152 |
+| The Unstoppable | 11.00% | ~152 |
 | Milestone collector | 10.00% | ~138 |
-| Scientist | 9.00% | ~124 |
+| Scientist | 9.00% | ~125 |
 | Challenger | 8.00% | ~111 |
 | Daily Quest Completionist | 8.00% | ~111 |
 | Hunter | 8.00% | ~111 |
@@ -52,9 +52,9 @@ Rating: 4.05 (Ranked 891)
 | Engineer Mastery | 4.00% | ~55 |
 | Lock And Load | 4.00% | ~55 |
 | Missions Dedication | 4.00% | ~55 |
-| Blueprint Upgrades | 3.00% | ~41 |
-| Crystal Mining | 3.00% | ~41 |
-| Dragon Slayer | 3.00% | ~41 |
+| Blueprint Upgrades | 3.00% | ~42 |
+| Crystal Mining | 3.00% | ~42 |
+| Dragon Slayer | 3.00% | ~42 |
 | Ebony Jungle Liberator | 2.00% | ~28 |
 | Sailor | 2.00% | ~28 |
 | The Alchemist | 2.00% | ~28 |
@@ -62,7 +62,7 @@ Rating: 4.05 (Ranked 891)
 | Active Member | 1.00% | ~14 |
 | Arena Challenger | 1.00% | ~14 |
 | Legendary | 1.00% | ~14 |
-| Training makes a Pro player | 0.70% | ~10 |
+| Training makes a Pro player | 0.60% | ~8 |
 | Transmute | 0.60% | ~8 |
 | Tree of Life | 0.50% | ~7 |
 | Cauldron Liberator | 0.40% | ~6 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 891)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,382 (Ranked 163)  
+Progressed: 1,385 (Ranked 163)  
 Completed: 1 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 1 (0.07%) (Ranked 177)
 | 2023-06-09 | 1,349 | 1 |
 | 2023-06-10 | 1,360 | 1 |
 | 2023-06-11 | 1,376 | 1 |
-| 2023-06-12 | 1,382 | 1 |
+| 2023-06-12 | 1,385 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

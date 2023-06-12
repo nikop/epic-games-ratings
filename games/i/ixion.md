@@ -5,20 +5,20 @@ Rating: 4.58 (Ranked 422)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 17.00% | ~443 |
+| Wakey Wakey | 17.00% | ~444 |
 | Infinite Growth... | 14.00% | ~365 |
 | Sputnik 2049 | 14.00% | ~365 |
 | Without Breaking Some Eggs... | 13.00% | ~339 |
-| Space Society | 9.00% | ~234 |
-| A Thousand Strong | 9.00% | ~234 |
-| Ready for a New World | 9.00% | ~234 |
-| Guy de Borderlands | 7.00% | ~182 |
-| Permanent Redesigns | 7.00% | ~182 |
-| Ain't Nobody Got Time for That | 7.00% | ~182 |
-| Hope Seeker | 7.00% | ~182 |
-| Fully Recycled | 6.00% | ~156 |
-| Breaking Protocol | 6.00% | ~156 |
-| The Ship of Theseus | 6.00% | ~156 |
+| Space Society | 9.00% | ~235 |
+| A Thousand Strong | 9.00% | ~235 |
+| Ready for a New World | 9.00% | ~235 |
+| Guy de Borderlands | 7.00% | ~183 |
+| Permanent Redesigns | 7.00% | ~183 |
+| Ain't Nobody Got Time for That | 7.00% | ~183 |
+| Hope Seeker | 7.00% | ~183 |
+| Fully Recycled | 6.00% | ~157 |
+| Breaking Protocol | 6.00% | ~157 |
+| The Ship of Theseus | 6.00% | ~157 |
 | A Hunk of Junk | 5.00% | ~130 |
 | Exceeding Capacity | 5.00% | ~130 |
 | Power Outage | 4.00% | ~104 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 422)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,605 (Ranked 147)  
+Progressed: 2,609 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 2,541 | 0 |
 | 2023-06-10 | 2,570 | 0 |
 | 2023-06-11 | 2,591 | 0 |
-| 2023-06-12 | 2,605 | 0 |
+| 2023-06-12 | 2,609 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,22 +1,22 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.14 (Ranked 866)  
+Rating: 4.14 (Ranked 865)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~5,388 |
-| Disposing of the Evidence | 36.00% | ~2,337 |
-| Without a Scratch | 33.00% | ~2,142 |
-| Wreckless Driving | 27.00% | ~1,753 |
-| A Marked Man | 24.00% | ~1,558 |
+| First Day on the Job | 83.00% | ~5,392 |
+| Disposing of the Evidence | 36.00% | ~2,339 |
+| Without a Scratch | 33.00% | ~2,144 |
+| Wreckless Driving | 27.00% | ~1,754 |
+| A Marked Man | 24.00% | ~1,559 |
 | Street Sweeper | 17.00% | ~1,104 |
 | Liberty City Minute | 16.00% | ~1,039 |
-| Offshore Delivery | 12.00% | ~779 |
-| Dirty Money | 11.00% | ~714 |
-| By a Mile | 9.00% | ~584 |
-| Not So Fast | 9.00% | ~584 |
-| Right-hand Man | 9.00% | ~584 |
+| Offshore Delivery | 12.00% | ~780 |
+| Dirty Money | 11.00% | ~715 |
+| By a Mile | 9.00% | ~585 |
+| Not So Fast | 9.00% | ~585 |
+| Right-hand Man | 9.00% | ~585 |
 | A Gift from the King | 6.00% | ~390 |
 | Full Artillery | 4.00% | ~260 |
 | Mob Boss | 2.00% | ~130 |
@@ -35,7 +35,7 @@ Rating: 4.14 (Ranked 866)
 | Is That All You've Got? | 0.80% | ~52 |
 | King of Liberty City | 0.60% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,492 (Ranked 121)  
+Progressed: 6,496 (Ranked 121)  
 Completed: 37 (0.57%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 37 (0.57%) (Ranked 111)
 | 2023-06-09 | 6,351 | 33 |
 | 2023-06-10 | 6,411 | 36 |
 | 2023-06-11 | 6,456 | 37 |
-| 2023-06-12 | 6,492 | 37 |
+| 2023-06-12 | 6,496 | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

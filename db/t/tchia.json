@@ -2,12 +2,12 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 117,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6454,
+  "EOS_Progressed": 6458,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3464,6 +3464,11 @@
       "Time": "2023-06-12T20:06:31.657372+00:00",
       "NumProgressed": 6454,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-12T22:05:27.176772+00:00",
+      "NumProgressed": 6458,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3499,7 +3504,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -3579,7 +3584,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "LIBERATOR",
@@ -3627,7 +3632,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "THING",
@@ -3642,7 +3647,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6454,
+      "Progressed": 6458,
       "Completed": 24
     }
   ],
@@ -3650,8 +3655,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
-  "LastChanged_Achievements": "2023-06-12T20:06:31.6573713+00:00",
+  "LastChanged_Achievements": "2023-06-12T22:05:27.1767716+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-12T19:58:21.0141454+00:00",
-  "LastUpdate_Achievements": "2023-06-12T20:06:31.6574056+00:00"
+  "LastUpdate_Ratings": "2023-06-12T21:58:03.263622+00:00",
+  "LastUpdate_Achievements": "2023-06-12T22:05:27.1768087+00:00"
 }

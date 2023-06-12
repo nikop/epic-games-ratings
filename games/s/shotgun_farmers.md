@@ -17,7 +17,7 @@
 | Amateur Survivor | 27.00% | ~17 |
 | Bouncemato | 23.00% | ~14 |
 | This Is My Boomstick | 21.00% | ~13 |
-| Quick-Draw Pod | 19.00% | ~12 |
+| Quick-Draw Pod | 20.00% | ~12 |
 | Professional Survivor | 19.00% | ~12 |
 | 10K | 18.00% | ~20 |
 | Grave Digger | 18.00% | ~11 |

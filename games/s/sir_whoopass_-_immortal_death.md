@@ -54,17 +54,18 @@
 | Deal with it | 14.00% | ~10 |
 | You're looking mozzare-hella good! | 11.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~8 |
+| Timber! | 11.00% | ~8 |
+| Free Of Chains | 11.00% | ~8 |
 | Spoiler alert! | 10.00% | ~7 |
 | Ancient Ruins of Moist Overhangs | 10.00% | ~7 |
-| Timber! | 10.00% | ~7 |
+| Grumpy Immortal | 10.00% | ~7 |
 | Scrambled Eggs | 10.00% | ~7 |
-| Free Of Chains | 10.00% | ~7 |
-| Grumpy Immortal | 8.00% | ~6 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~5 |
+| Ancient Ruins of Misplaced Belongings | 6.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 6.00% | ~4 |
 | I want to throw up! | 6.00% | ~4 |
-| Ancient Ruins of Misplaced Belongings | 4.00% | ~3 |
 | Ancient Ruins of Imperfectly Designed Walls | 4.00% | ~3 |
+| Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~3 |
 | Ancient Ruins of Leaky Roof | 4.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 4.00% | ~3 |
 | European karaoke king | 4.00% | ~3 |
@@ -72,7 +73,6 @@
 | Ancient Ruins of Empty Echoes | 3.00% | ~2 |
 | Ancient Ruins of Vitamin D Addition | 3.00% | ~2 |
 | Ancient Ruins of Moldy Ceiling | 3.00% | ~2 |
-| Ancient Ruins of Poor Intrusion Prevention | 3.00% | ~2 |
 | Ancient Ruins of Peekaboo | 3.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~2 |
 | Ancient Ruins of Stubbed Toes | 3.00% | ~2 |

@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 314,
+  "Ranking_Rating": 313,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 49,
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223798,
+  "EOS_Progressed": 223804,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5623,6 +5623,11 @@
       "Time": "2023-06-12T20:06:50.106759+00:00",
       "NumProgressed": 223798,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-12T22:05:42.2042765+00:00",
+      "NumProgressed": 223804,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -5698,7 +5703,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 80567
+      "UsersEstimate": 80569
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -5778,7 +5783,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76091
+      "UsersEstimate": 76093
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -5794,7 +5799,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49236
+      "UsersEstimate": 49237
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -5842,7 +5847,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38046
+      "UsersEstimate": 38047
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -5857,7 +5862,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 223798,
+      "Progressed": 223804,
       "Completed": 3
     }
   ],
@@ -5865,8 +5870,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-06-10T22:59:11.5974265+00:00",
-  "LastChanged_Achievements": "2023-06-12T20:06:50.1067582+00:00",
+  "LastChanged_Achievements": "2023-06-12T22:05:42.204276+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:17.4929198+00:00",
-  "LastUpdate_Ratings": "2023-06-12T20:00:29.5711107+00:00",
-  "LastUpdate_Achievements": "2023-06-12T20:06:50.1068239+00:00"
+  "LastUpdate_Ratings": "2023-06-12T21:59:39.5818926+00:00",
+  "LastUpdate_Achievements": "2023-06-12T22:05:42.2043317+00:00"
 }

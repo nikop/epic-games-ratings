@@ -13,9 +13,9 @@ Number of Ratings: 371  (23.09.2022)
 | An Ill Omen | 29.00% | ~838 |
 | Purging Spree | 23.00% | ~665 |
 | Blood for the Blood God! | 18.00% | ~520 |
+| Surgical Excision | 16.00% | ~463 |
 | Friendly Fire | 16.00% | ~463 |
 | Bloodless | 16.00% | ~463 |
-| Surgical Excision | 15.00% | ~434 |
 | Honoured Battle-Brother | 11.00% | ~318 |
 | The Emperor Protects | 11.00% | ~318 |
 | Nemesis Master | 11.00% | ~318 |

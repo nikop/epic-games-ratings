@@ -3,9 +3,9 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 205,
-  "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_Completed": 25,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 447,
-  "EOS_Completed": 31,
+  "EOS_Completed": 32,
   "EOS_NewPlayers": 37,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.94,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 7.16,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1231,6 +1231,11 @@
       "Time": "2023-06-12T19:04:27.4837023+00:00",
       "NumProgressed": 447,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-06-12T22:04:03.5323166+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 30,
@@ -1360,9 +1365,9 @@
       "ID": "LEVEL_016",
       "SetID": "212bg48",
       "Name": "Where\u0027s the toilet, sir?",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_017",
@@ -1482,13 +1487,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 447,
-      "Completed": 31
+      "Completed": 32
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-12T20:04:45.5077789+00:00",
+  "LastChanged_Achievements": "2023-06-12T22:04:03.5323162+00:00",
   "LastUpdate_AppInfo": "2023-06-12T15:56:50.8913307+00:00",
-  "LastUpdate_Ratings": "2023-06-12T19:57:24.0520343+00:00",
-  "LastUpdate_Achievements": "2023-06-12T20:04:45.5078148+00:00"
+  "LastUpdate_Ratings": "2023-06-12T21:57:22.3051533+00:00",
+  "LastUpdate_Achievements": "2023-06-12T22:04:03.5323463+00:00"
 }

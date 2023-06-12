@@ -6,42 +6,42 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~29,080 |
-| Say goodbye, creep! | 65.00% | ~27,797 |
-| Blood splattered | 65.00% | ~27,797 |
-| Choo choo! | 62.00% | ~26,514 |
-| Groovy | 61.00% | ~26,086 |
-| Cleanup on aisle 4! | 57.00% | ~24,375 |
-| Gold | 50.00% | ~21,382 |
-| The boat can leave now...tell the crew | 48.00% | ~20,527 |
-| Give me something to shoot! | 46.00% | ~19,671 |
-| Stand back boy! | 46.00% | ~19,671 |
-| Weird science | 44.00% | ~18,816 |
-| Chain reaction | 44.00% | ~18,816 |
-| Look mummy! A shark! | 41.00% | ~17,533 |
-| What did you say, Blain? | 41.00% | ~17,533 |
-| In the dark dark woods... | 38.00% | ~16,250 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,250 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~29,081 |
+| Say goodbye, creep! | 65.00% | ~27,798 |
+| Blood splattered | 65.00% | ~27,798 |
+| Choo choo! | 62.00% | ~26,515 |
+| Groovy | 61.00% | ~26,087 |
+| Cleanup on aisle 4! | 57.00% | ~24,377 |
+| Gold | 50.00% | ~21,383 |
+| The boat can leave now...tell the crew | 48.00% | ~20,528 |
+| Give me something to shoot! | 46.00% | ~19,672 |
+| Stand back boy! | 46.00% | ~19,672 |
+| Weird science | 44.00% | ~18,817 |
+| Chain reaction | 44.00% | ~18,817 |
+| Look mummy! A shark! | 41.00% | ~17,534 |
+| What did you say, Blain? | 41.00% | ~17,534 |
+| In the dark dark woods... | 38.00% | ~16,251 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,251 |
 | Double tap | 37.00% | ~15,823 |
-| Cranial blowout! | 36.00% | ~15,395 |
-| Zombie killin' machine | 36.00% | ~15,395 |
-| Every bullet counts | 36.00% | ~15,395 |
-| All of this has happened before… | 35.00% | ~14,967 |
+| Cranial blowout! | 36.00% | ~15,396 |
+| Zombie killin' machine | 36.00% | ~15,396 |
+| Every bullet counts | 36.00% | ~15,396 |
+| All of this has happened before… | 35.00% | ~14,968 |
 | You've got red on you | 34.00% | ~14,540 |
-| All roads lead to Rome | 33.00% | ~14,112 |
+| All roads lead to Rome | 33.00% | ~14,113 |
 | You're all going to die down here | 31.00% | ~13,257 |
 | He did Nazi that coming | 31.00% | ~13,257 |
 | Kill of the week | 31.00% | ~13,257 |
-| I never liked them anyway | 30.00% | ~12,829 |
+| I never liked them anyway | 30.00% | ~12,830 |
 | Is it over? | 28.00% | ~11,974 |
-| Got your back | 27.00% | ~11,546 |
-| Gore soaked | 24.00% | ~10,263 |
-| Shock therapy | 22.00% | ~9,408 |
-| Leave the limbs you've lost | 22.00% | ~9,408 |
+| Got your back | 27.00% | ~11,547 |
+| Gore soaked | 24.00% | ~10,264 |
+| Shock therapy | 22.00% | ~9,409 |
+| Leave the limbs you've lost | 22.00% | ~9,409 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,698 |
 | Take them down screaming | 18.00% | ~7,698 |
 | Weapons expert | 17.00% | ~7,270 |
-| Bad Blood | 16.00% | ~6,842 |
+| Bad Blood | 16.00% | ~6,843 |
 | The bigger they are... | 15.00% | ~6,415 |
 | I'm going deeper underground | 14.00% | ~5,987 |
 | Well equipped | 12.00% | ~5,132 |
@@ -49,12 +49,12 @@ Number of Ratings: 743  (23.09.2022)
 | Damnedbusters | 9.00% | ~3,849 |
 | I can do anything I want. I got guns | 8.00% | ~3,421 |
 | Send me an angel | 8.00% | ~3,421 |
-| Plane sailing | 7.00% | ~2,993 |
-| This is no Sunday School picnic! | 7.00% | ~2,993 |
-| I never redoubted you! | 7.00% | ~2,993 |
-| Gotcha, didn't I? | 7.00% | ~2,993 |
-| A gross gross | 7.00% | ~2,993 |
-| Hail to the king, baby! | 7.00% | ~2,993 |
+| Plane sailing | 7.00% | ~2,994 |
+| This is no Sunday School picnic! | 7.00% | ~2,994 |
+| I never redoubted you! | 7.00% | ~2,994 |
+| Gotcha, didn't I? | 7.00% | ~2,994 |
+| A gross gross | 7.00% | ~2,994 |
+| Hail to the king, baby! | 7.00% | ~2,994 |
 | Something wicked this way comes | 6.00% | ~2,566 |
 | Not today you won't | 6.00% | ~2,566 |
 | Take a little bit of Italy with you | 6.00% | ~2,566 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~428 |
 | None more hard | 0.50% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,764 (Ranked 84)  
+Progressed: 42,766 (Ranked 84)  
 Completed: 25 (0.06%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 25 (0.06%) (Ranked 182)
 | 2023-06-09 | 42,686 | 25 |
 | 2023-06-10 | 42,719 | 25 |
 | 2023-06-11 | 42,752 | 25 |
-| 2023-06-12 | 42,764 | 25 |
+| 2023-06-12 | 42,766 | 25 |
 ## Awards
 Max (Great Boss Battles): 788  (Ranked 148)  
 Sum: 2,405 (Ranked 168)  

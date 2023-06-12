@@ -614,9 +614,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15135,
+  "EOS_Progressed": 15140,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3699,6 +3699,11 @@
       "Time": "2023-06-12T20:04:55.1661669+00:00",
       "NumProgressed": 15135,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-12T22:04:11.2110106+00:00",
+      "NumProgressed": 15140,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3726,7 +3731,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3734,7 +3739,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "DISARM_ENEMY",
@@ -3742,7 +3747,7 @@
       "Name": "Flesh Wound",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3814,7 +3819,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3838,7 +3843,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "KILL_ROBOT",
@@ -3854,7 +3859,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -3878,7 +3883,7 @@
       "Name": "Reforged",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3910,7 +3915,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "STORY_HABITAT",
@@ -3918,7 +3923,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "STORY_HANGAR",
@@ -3934,7 +3939,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -3958,7 +3963,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "STORY_TUNNELS",
@@ -3982,7 +3987,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -3990,7 +3995,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -4029,13 +4034,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15135,
+      "Progressed": 15140,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3061,
+      "Progressed": 3066,
       "Completed": 29
     }
   ],
@@ -4043,8 +4048,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T23:58:33.7302071+00:00",
-  "LastChanged_Achievements": "2023-06-12T20:04:55.1661663+00:00",
+  "LastChanged_Achievements": "2023-06-12T22:04:11.2110103+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-12T19:58:18.6893216+00:00",
-  "LastUpdate_Achievements": "2023-06-12T20:04:55.1662232+00:00"
+  "LastUpdate_Ratings": "2023-06-12T21:58:01.5089453+00:00",
+  "LastUpdate_Achievements": "2023-06-12T22:04:11.2110628+00:00"
 }

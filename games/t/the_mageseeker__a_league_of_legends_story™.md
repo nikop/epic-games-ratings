@@ -1,26 +1,26 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.80 (Ranked 81)  
+Rating: 4.80 (Ranked 80)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,216 |
-| No more cages! | 92.00% | ~2,146 |
-| Everfrost | 77.00% | ~1,796 |
-| Pentakill | 76.00% | ~1,773 |
-| Dark Forest | 76.00% | ~1,773 |
-| The use of petricite | 73.00% | ~1,703 |
+| For Demacia | 95.00% | ~2,217 |
+| No more cages! | 92.00% | ~2,147 |
+| Everfrost | 77.00% | ~1,797 |
+| Pentakill | 76.00% | ~1,774 |
+| Dark Forest | 76.00% | ~1,774 |
+| The use of petricite | 73.00% | ~1,704 |
 | You can pet the dog | 60.00% | ~1,400 |
 | Big Helmet Bro | 35.00% | ~817 |
 | Clarion Cove | 35.00% | ~817 |
-| Past trauma | 34.00% | ~793 |
+| Past trauma | 34.00% | ~794 |
 | Thornbarrow | 33.00% | ~770 |
 | Ternmoat Headquarters | 33.00% | ~770 |
 | Elemental master | 32.00% | ~747 |
-| Cypress Glen Headquarters | 31.00% | ~723 |
-| Old friend | 28.00% | ~653 |
-| Petricite Burst | 28.00% | ~653 |
+| Cypress Glen Headquarters | 31.00% | ~724 |
+| Old friend | 28.00% | ~654 |
+| Petricite Burst | 28.00% | ~654 |
 | Devineur | 27.00% | ~630 |
 | Whispers in the Woods I | 26.00% | ~607 |
 | Hijack | 26.00% | ~607 |
@@ -36,10 +36,10 @@ Rating: 4.80 (Ranked 81)
 | Quickmoore Headquarters | 16.00% | ~373 |
 | Whispers in the Woods III | 14.00% | ~327 |
 | No more holding back | 14.00% | ~327 |
-| True power | 14.00% | ~327 |
 | Terbisia | 14.00% | ~327 |
 | My heart and sword always for Demacia | 13.00% | ~303 |
 | Friendly fire | 13.00% | ~303 |
+| True power | 13.00% | ~303 |
 | Meltridge | 13.00% | ~303 |
 | The Central Headquarters | 13.00% | ~303 |
 | Cloven Dell Headquarters | 13.00% | ~303 |
@@ -59,7 +59,7 @@ Rating: 4.80 (Ranked 81)
 | Silverwing nest | 2.00% | ~47 |
 | The Unshackled | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,333 (Ranked 150)  
+Progressed: 2,334 (Ranked 150)  
 Completed: 1 (0.04%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 1 (0.04%) (Ranked 188)
 | 2023-06-09 | 2,305 | 1 |
 | 2023-06-10 | 2,317 | 1 |
 | 2023-06-11 | 2,331 | 1 |
-| 2023-06-12 | 2,333 | 1 |
+| 2023-06-12 | 2,334 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

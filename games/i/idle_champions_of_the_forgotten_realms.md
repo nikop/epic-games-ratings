@@ -16,12 +16,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.70% | ~634 |
 | Seeking Allies | 0.70% | ~634 |
 | Are Ya Chicken? | 0.70% | ~634 |
+| A Persistent Buzzing | 0.60% | ~543 |
 | Mad Cow Disease | 0.60% | ~543 |
 | Friendly Imps | 0.60% | ~543 |
 | Coasting to the Finish | 0.60% | ~341 |
 | Checkmate | 0.50% | ~284 |
 | Vecna Out! | 0.50% | ~284 |
-| A Persistent Buzzing | 0.50% | ~453 |
 | Terror in the Dark | 0.50% | ~453 |
 | Unearthed Evil | 0.50% | ~453 |
 | The Crumbling Temple | 0.50% | ~453 |
@@ -228,6 +228,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~181 |
 | Troublesome Prisoner | 0.20% | ~181 |
 | Dark Doppelgangers | 0.20% | ~181 |
+| Faerûn's Most Wanted | 0.20% | ~114 |
 | Difficult Terrain | 0.20% | ~181 |
 | Cold & Wet | 0.20% | ~181 |
 | Madcap Adventures | 0.20% | ~181 |
@@ -261,6 +262,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Zombie Dreams | 0.20% | ~114 |
 | The Path of Dreams | 0.20% | ~114 |
 | The Path of Redcaps | 0.20% | ~114 |
+| The Path of Trials | 0.20% | ~114 |
 | The Lost Hollyphant | 0.20% | ~114 |
 | Alterdeep | 0.20% | ~114 |
 | The Gargoyle | 0.20% | ~114 |
@@ -290,6 +292,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.20% | ~114 |
 | Fortress Assault | 0.20% | ~114 |
 | Hats off to you! | 0.20% | ~114 |
+| It's Cold Out There Every Day | 0.20% | ~114 |
 | The Bleeding Citadel | 0.20% | ~114 |
 | Idyllglen | 0.20% | ~114 |
 | The Madness of Yeenoghu | 0.20% | ~114 |
@@ -416,7 +419,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Meepo's Quest | 0.10% | ~91 |
 | She's Harmless! | 0.10% | ~91 |
 | The Tallest of Kobolds | 0.10% | ~57 |
-| Faerûn's Most Wanted | 0.10% | ~57 |
 | Vault of Pixies | 0.10% | ~91 |
 | Vault of Poison | 0.10% | ~91 |
 | Vault of Cuteness | 0.10% | ~57 |
@@ -436,7 +438,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relay Race | 0.10% | ~91 |
 | Misty Undermountain | 0.10% | ~57 |
 | Ireena von Zarovich | 0.10% | ~57 |
-| The Path of Trials | 0.10% | ~57 |
 | Zapper Overload | 0.10% | ~57 |
 | Best Friend Search Squad! | 0.10% | ~57 |
 | Elder Rune Attack | 0.10% | ~57 |
@@ -468,7 +469,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rickety Rubble | 0.10% | ~57 |
 | Mimic Perception | 0.10% | ~57 |
 | It's Cold Out There Today | 0.10% | ~57 |
-| It's Cold Out There Every Day | 0.10% | ~57 |
 | Don't Pick at the Scab | 0.10% | ~57 |
 | Going To Eleven | 0.10% | ~57 |
 | Tough Acting | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,563 (Ranked 64)  
+Progressed: 90,572 (Ranked 64)  
 Completed: 1,930 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 1,930 (2.13%) (Ranked 65)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
-| 2023-06-12 | 90,563 | 1,930 |
+| 2023-06-12 | 90,572 | 1,930 |
 ## Awards
 Max (Diverse Characters): 4,934  (Ranked 64)  
 Sum: 30,084 (Ranked 37)  

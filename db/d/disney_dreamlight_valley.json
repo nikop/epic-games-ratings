@@ -2,7 +2,7 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 117,
   "Ranking_Popularity": 145,
   "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 444,
@@ -2020,10 +2020,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7125,
       "NumberOfAwardsMax": 860
+    },
+    {
+      "Time": "2023-06-12T21:58:09.2031517+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7128,
+      "NumberOfAwardsMax": 860
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7125,
+  "NumberOfAwards": 7128,
   "NumberOfAwardsMax": 860,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2055,7 +2061,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 717
+      "Count": 718
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2079,7 +2085,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 728
+      "Count": 730
     },
     {
       "Text": "This game has a Creative Community",
@@ -2106,8 +2112,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
-  "LastChanged": "2023-06-12T15:57:55.9151879+00:00",
+  "LastChanged": "2023-06-12T21:58:09.2031516+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.6016514+00:00",
-  "LastUpdate_Ratings": "2023-06-12T19:58:29.1348384+00:00",
-  "LastUpdate_Achievements": "2023-06-12T20:05:10.5892065+00:00"
+  "LastUpdate_Ratings": "2023-06-12T21:58:09.2031522+00:00",
+  "LastUpdate_Achievements": "2023-06-12T22:04:23.5972408+00:00"
 }

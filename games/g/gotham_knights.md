@@ -5,11 +5,11 @@ Rating: 4.17 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 5.00% | ~3,237 |
-| To the Victor Go the Spoils | 3.00% | ~1,942 |
-| Har, Har, Har, Very Funny | 3.00% | ~1,942 |
-| Knighthood | 3.00% | ~1,942 |
-| Loose Ends | 3.00% | ~1,942 |
+| First Step Into the Knight | 5.00% | ~3,238 |
+| To the Victor Go the Spoils | 3.00% | ~1,943 |
+| Har, Har, Har, Very Funny | 3.00% | ~1,943 |
+| Knighthood | 3.00% | ~1,943 |
+| Loose Ends | 3.00% | ~1,943 |
 | The Batman Family | 2.00% | ~1,295 |
 | Protector of Gotham | 2.00% | ~1,295 |
 | Something in the Clay | 2.00% | ~1,295 |
@@ -23,24 +23,24 @@ Rating: 4.17 (Ranked 851)
 | Lock and Key | 2.00% | ~1,295 |
 | Bad Apples in Every Orchard | 2.00% | ~1,295 |
 | From Inside Gotham's Walls | 2.00% | ~1,295 |
-| End of an Era | 1.00% | ~647 |
-| In Your Element | 1.00% | ~647 |
-| Rock and a Hard Place | 1.00% | ~647 |
-| Not On My Watch | 1.00% | ~647 |
-| Bulldozed | 1.00% | ~647 |
-| Shock Til They Drop | 1.00% | ~647 |
-| Cooldown | 1.00% | ~647 |
-| Universal Health Scare | 1.00% | ~647 |
-| Voiceless | 1.00% | ~647 |
-| Seeking Asylum | 1.00% | ~647 |
-| Gotham Knight | 1.00% | ~647 |
-| Gotham City Confidential | 1.00% | ~647 |
+| End of an Era | 1.00% | ~648 |
+| In Your Element | 1.00% | ~648 |
+| Rock and a Hard Place | 1.00% | ~648 |
+| Not On My Watch | 1.00% | ~648 |
+| Bulldozed | 1.00% | ~648 |
+| Shock Til They Drop | 1.00% | ~648 |
+| Cooldown | 1.00% | ~648 |
+| Universal Health Scare | 1.00% | ~648 |
+| Voiceless | 1.00% | ~648 |
+| Seeking Asylum | 1.00% | ~648 |
+| Gotham Knight | 1.00% | ~648 |
+| Gotham City Confidential | 1.00% | ~648 |
 | Drone You Out | 0.90% | ~583 |
 | Out of Their League | 0.80% | ~518 |
 | Solid Alibi | 0.80% | ~518 |
 | Fusion Expert | 0.70% | ~453 |
-| Family Meeting | 0.60% | ~388 |
-| A Worthy Successor | 0.60% | ~388 |
+| Family Meeting | 0.60% | ~389 |
+| A Worthy Successor | 0.60% | ~389 |
 | Dressed to Impress | 0.50% | ~324 |
 | Expert Crime Fighter | 0.50% | ~324 |
 | A Momentum Occasion | 0.40% | ~259 |
@@ -50,8 +50,8 @@ Rating: 4.17 (Ranked 851)
 | Renewable Enemy Source | 0.20% | ~70 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~70 |
 | The Cold, the Bad and the Ugly | 0.20% | ~70 |
-| Practice Makes Perfect | 0.20% | ~129 |
-| The Man-Bat Family | 0.20% | ~129 |
+| Practice Makes Perfect | 0.20% | ~130 |
+| The Man-Bat Family | 0.20% | ~130 |
 | Element of Surprise | 0.10% | ~35 |
 | It's Nice to Be Wanted | 0.10% | ~35 |
 | Gotham's Greatest Depths | 0.10% | ~35 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 851)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,748 (Ranked 70)  
+Progressed: 64,761 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 95 (0.15%) (Ranked 157)
 | 2023-06-09 | 64,309 | 95 |
 | 2023-06-10 | 64,465 | 95 |
 | 2023-06-11 | 64,650 | 95 |
-| 2023-06-12 | 64,748 | 95 |
+| 2023-06-12 | 64,761 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,325  (Ranked 97)  
 Sum: 3,845 (Ranked 137)  

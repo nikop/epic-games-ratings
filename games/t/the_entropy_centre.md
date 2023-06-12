@@ -10,7 +10,7 @@
 | Command Centre | 46.00% | ~80 |
 | This is a Wall | 42.00% | ~73 |
 | Extendable Bridges | 36.00% | ~62 |
-| 48 Attempts | 32.00% | ~55 |
+| 48 Attempts | 33.00% | ~57 |
 | Chain Reaction | 30.00% | ~52 |
 | Man's Best Friend | 29.00% | ~50 |
 | Handyman | 21.00% | ~36 |

@@ -3,7 +3,7 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 25,
+  "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 992,
+  "EOS_Progressed": 993,
   "EOS_Completed": 70,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 7.06,
+  "EOS_Completed_Percentage": 7.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2352,6 +2352,11 @@
       "Time": "2023-06-12T20:06:38.6140941+00:00",
       "NumProgressed": 992,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-06-12T22:05:32.7665544+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 50,
@@ -2363,7 +2368,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "10",
@@ -2387,7 +2392,7 @@
       "Name": "Spellbound",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "13",
@@ -2395,7 +2400,7 @@
       "Name": "Extinct Again!",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "14",
@@ -2403,7 +2408,7 @@
       "Name": "Bird of Prey",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "15",
@@ -2411,7 +2416,7 @@
       "Name": "Pull the Plug",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "16",
@@ -2419,7 +2424,7 @@
       "Name": "Soul Slayer",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "17",
@@ -2435,7 +2440,7 @@
       "Name": "Surprise!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "19",
@@ -2443,7 +2448,7 @@
       "Name": "A Grand Visit",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "2",
@@ -2451,7 +2456,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "20",
@@ -2459,7 +2464,7 @@
       "Name": "Stardust",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "21",
@@ -2475,7 +2480,7 @@
       "Name": "Heartbreaker",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "23",
@@ -2483,7 +2488,7 @@
       "Name": "All Heart",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "24",
@@ -2491,7 +2496,7 @@
       "Name": "Kidnapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "25",
@@ -2499,7 +2504,7 @@
       "Name": "Trick Question!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "26",
@@ -2523,7 +2528,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "29",
@@ -2539,7 +2544,7 @@
       "Name": "Vibing",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "30",
@@ -2555,7 +2560,7 @@
       "Name": "Little Shop",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "32",
@@ -2619,7 +2624,7 @@
       "Name": "All Skilled Up!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "4",
@@ -2627,7 +2632,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "40",
@@ -2659,7 +2664,7 @@
       "Name": "An Actor!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "44",
@@ -2667,7 +2672,7 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "45",
@@ -2699,7 +2704,7 @@
       "Name": "Into the Barn",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "49",
@@ -2739,7 +2744,7 @@
       "Name": "Fun Guy",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "8",
@@ -2762,7 +2767,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 992,
+      "Progressed": 993,
       "Completed": 70
     }
   ],
@@ -2770,8 +2775,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-12T20:06:38.6140935+00:00",
+  "LastChanged_Achievements": "2023-06-12T22:05:32.766554+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-12T19:57:47.1675436+00:00",
-  "LastUpdate_Achievements": "2023-06-12T20:06:38.6141666+00:00"
+  "LastUpdate_Ratings": "2023-06-12T21:57:37.6328949+00:00",
+  "LastUpdate_Achievements": "2023-06-12T22:05:32.7666338+00:00"
 }

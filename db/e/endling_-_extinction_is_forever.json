@@ -2,9 +2,9 @@
   "ID": "f0757a2ab13941d89476cfa09df9a545",
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
-  "Ranking_EOS_Progress": 207,
+  "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 436,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -381,6 +381,11 @@
       "Time": "2023-06-10T22:03:29.0186415+00:00",
       "NumProgressed": 434,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-12T22:00:23.5968702+00:00",
+      "NumProgressed": 436,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -432,7 +437,7 @@
       "Name": "A Friend in Need",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "TROP006",
@@ -440,7 +445,7 @@
       "Name": "Maternity",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "TROP007",
@@ -456,7 +461,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 414
     },
     {
       "ID": "TROP009",
@@ -472,7 +477,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "TROP011",
@@ -488,7 +493,7 @@
       "Name": "Never Give Up",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "TROP013",
@@ -552,7 +557,7 @@
       "Name": "Peaceful Instinct",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "TROP021",
@@ -568,7 +573,7 @@
       "Name": "A Barking Fox Doesn\u0027t Bite",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "TROP023",
@@ -584,7 +589,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "TROP025",
@@ -592,7 +597,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "TROP026",
@@ -600,7 +605,7 @@
       "Name": "Lullaby",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "TROP027",
@@ -615,7 +620,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 436,
       "Completed": 3
     }
   ],
@@ -623,8 +628,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-06-12T20:01:26.2559921+00:00",
+  "LastChanged_Achievements": "2023-06-12T22:00:23.5968695+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:14.0709355+00:00",
-  "LastUpdate_Ratings": "2023-06-12T19:59:25.6201818+00:00",
-  "LastUpdate_Achievements": "2023-06-12T20:01:26.2560254+00:00"
+  "LastUpdate_Ratings": "2023-06-12T21:58:52.027074+00:00",
+  "LastUpdate_Achievements": "2023-06-12T22:00:23.5968981+00:00"
 }

@@ -5,36 +5,36 @@ Rating: 4.52 (Ranked 515)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~821 |
-| Confirming Suspicions | 24.00% | ~657 |
-| The Kraken Wakes | 20.00% | ~547 |
-| It's Starting to Crack | 17.00% | ~465 |
-| Lord of War | 15.00% | ~410 |
-| Change the Channel | 15.00% | ~410 |
-| Resourceful | 13.00% | ~356 |
-| Taking it back | 13.00% | ~356 |
-| Organ Grinder | 11.00% | ~301 |
-| Target America | 11.00% | ~301 |
+| Meeting Resistance | 30.00% | ~823 |
+| Confirming Suspicions | 24.00% | ~659 |
+| The Kraken Wakes | 20.00% | ~549 |
+| It's Starting to Crack | 17.00% | ~466 |
+| Lord of War | 15.00% | ~412 |
+| Change the Channel | 15.00% | ~412 |
+| Resourceful | 13.00% | ~357 |
+| Taking it back | 13.00% | ~357 |
+| Organ Grinder | 11.00% | ~302 |
+| Target America | 11.00% | ~302 |
 | As Quiet as a Mouse | 10.00% | ~274 |
-| Liberté | 9.00% | ~246 |
-| The Kraken Sleeps | 9.00% | ~246 |
-| Enemy at the Gates | 8.00% | ~219 |
-| Just a Flesh Wound | 8.00% | ~219 |
-| Gunslinger | 8.00% | ~219 |
-| Sharpshooter | 8.00% | ~219 |
-| Explosive Efficiency | 8.00% | ~219 |
+| The Kraken Sleeps | 10.00% | ~274 |
+| Liberté | 9.00% | ~247 |
+| Enemy at the Gates | 8.00% | ~220 |
+| Just a Flesh Wound | 8.00% | ~220 |
+| Gunslinger | 8.00% | ~220 |
+| Sharpshooter | 8.00% | ~220 |
+| Explosive Efficiency | 8.00% | ~220 |
 | Opposing Force | 7.00% | ~192 |
-| Fields of Glory | 6.00% | ~164 |
-| Die Nussknacker Sweet! | 6.00% | ~164 |
-| Der Geist | 6.00% | ~164 |
-| Close Quarters | 6.00% | ~164 |
-| Snake in the Grass | 6.00% | ~164 |
-| Brains of the Operation | 6.00% | ~164 |
+| Fields of Glory | 6.00% | ~165 |
+| Die Nussknacker Sweet! | 6.00% | ~165 |
+| Der Geist | 6.00% | ~165 |
+| Close Quarters | 6.00% | ~165 |
+| Snake in the Grass | 6.00% | ~165 |
+| Brains of the Operation | 6.00% | ~165 |
 | Climbing the Ladder | 5.00% | ~137 |
 | No Stone Unturned | 5.00% | ~137 |
 | Skirmisher | 5.00% | ~137 |
 | Set Europe Ablaze | 5.00% | ~137 |
-| Precision Is Key | 4.00% | ~109 |
+| Precision Is Key | 4.00% | ~110 |
 | Rigged to Blow | 3.00% | ~82 |
 | My Little Friend | 3.00% | ~82 |
 | The Long Game | 2.00% | ~55 |
@@ -51,7 +51,7 @@ Rating: 4.52 (Ranked 515)
 | Ghost of Falaise | 0.90% | ~24 |
 | Burn after reading | 0.70% | ~19 |
 | From Paris with Love | 0.60% | ~16 |
-| Souvenir hunter | 0.50% | ~14 |
+| Souvenir hunter | 0.60% | ~16 |
 | Up close and personal | 0.50% | ~14 |
 | Shoot for the Moon | 0.50% | ~14 |
 | If You Go Down To The Woods Today | 0.50% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 515)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,736 (Ranked 145)  
+Progressed: 2,744 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.07%) (Ranked 177)
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
-| 2023-06-12 | 2,736 | 2 |
+| 2023-06-12 | 2,744 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,18 +6,18 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,681 |
+| Colonize a Planet | 79.00% | ~4,682 |
 | Worker Specialization | 78.00% | ~4,622 |
-| First Contact | 73.00% | ~4,325 |
+| First Contact | 73.00% | ~4,326 |
 | Win a Battle | 67.00% | ~3,970 |
 | Anomaly Researcher | 63.00% | ~3,733 |
 | Unleash My Power | 62.00% | ~3,674 |
 | Own 30 Planets | 35.00% | ~2,074 |
-| Xenocide | 33.00% | ~1,955 |
+| Xenocide | 33.00% | ~1,956 |
 | Commodity Trader | 32.00% | ~1,896 |
 | Design a Civilization | 32.00% | ~1,896 |
-| Design a Ship | 29.00% | ~1,718 |
-| Commodity Seller | 26.00% | ~1,540 |
+| Design a Ship | 29.00% | ~1,719 |
+| Commodity Seller | 26.00% | ~1,541 |
 | Prestige Victory! | 14.00% | ~830 |
 | Galactic War | 11.00% | ~652 |
 | Trading Partner | 9.00% | ~533 |
@@ -30,11 +30,11 @@ Number of Ratings: 429  (23.09.2022)
 | Conquest Victory! | 4.00% | ~237 |
 | Pirate Cleansing | 3.00% | ~178 |
 | Win an Immense Game | 3.00% | ~178 |
-| Artifact Mastery | 2.00% | ~118 |
-| Win as Altarians | 2.00% | ~118 |
-| Win as the Mimot | 2.00% | ~118 |
-| Win as the Yor | 2.00% | ~118 |
-| Influence Victory! | 2.00% | ~118 |
+| Artifact Mastery | 2.00% | ~119 |
+| Win as Altarians | 2.00% | ~119 |
+| Win as the Mimot | 2.00% | ~119 |
+| Win as the Yor | 2.00% | ~119 |
+| Influence Victory! | 2.00% | ~119 |
 | Win as Arceans | 1.00% | ~59 |
 | Win as the Baratak | 1.00% | ~59 |
 | Win as Festron | 1.00% | ~59 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,925 (Ranked 125)  
+Progressed: 5,926 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 5,911 | 0 |
 | 2023-06-10 | 5,915 | 0 |
 | 2023-06-11 | 5,923 | 0 |
-| 2023-06-12 | 5,925 | 0 |
+| 2023-06-12 | 5,926 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 341)  
 Sum: 663 (Ranked 270)  

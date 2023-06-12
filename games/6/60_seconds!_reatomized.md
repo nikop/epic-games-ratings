@@ -1,42 +1,42 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.64 (Ranked 314)  
+Rating: 4.64 (Ranked 313)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~3,924 |
-| All thumbs | 91.00% | ~3,881 |
-| I will survive! | 91.00% | ~3,881 |
-| Home, sweet home | 89.00% | ~3,796 |
-| Survivalist | 88.00% | ~3,753 |
-| One way ticket | 83.00% | ~3,540 |
-| Last man standing | 77.00% | ~3,284 |
-| Family guy | 75.00% | ~3,199 |
-| Out of the Bag | 72.00% | ~3,071 |
-| The Dark Side | 67.00% | ~2,858 |
-| Duck and cover! | 62.00% | ~2,644 |
-| Souper! | 60.00% | ~2,559 |
-| Pacifist | 56.00% | ~2,388 |
-| 2-1-6 | 54.00% | ~2,303 |
-| A gift | 50.00% | ~2,132 |
+| Prepper | 92.00% | ~3,926 |
+| All thumbs | 91.00% | ~3,883 |
+| I will survive! | 91.00% | ~3,883 |
+| Home, sweet home | 89.00% | ~3,798 |
+| Survivalist | 88.00% | ~3,755 |
+| One way ticket | 83.00% | ~3,542 |
+| Last man standing | 77.00% | ~3,286 |
+| Family guy | 75.00% | ~3,200 |
+| Out of the Bag | 72.00% | ~3,072 |
+| The Dark Side | 67.00% | ~2,859 |
+| Duck and cover! | 62.00% | ~2,646 |
+| Souper! | 61.00% | ~2,603 |
+| Pacifist | 56.00% | ~2,390 |
+| 2-1-6 | 54.00% | ~2,304 |
+| A gift | 50.00% | ~2,134 |
 | Girl Power | 44.00% | ~1,877 |
-| What goes around... | 40.00% | ~1,706 |
+| What goes around... | 40.00% | ~1,707 |
 | Be Prepared | 35.00% | ~1,493 |
-| Unbreakable | 34.00% | ~1,450 |
+| Unbreakable | 34.00% | ~1,451 |
 | Atomic drill | 32.00% | ~1,365 |
 | This is the end | 32.00% | ~1,365 |
 | Gotta get 'em all | 30.00% | ~1,280 |
 | Disco Roach | 26.00% | ~1,109 |
-| Dawkins Residence | 19.00% | ~810 |
-| Rescue time! | 16.00% | ~682 |
+| Dawkins Residence | 19.00% | ~811 |
+| Rescue time! | 16.00% | ~683 |
 | New order | 15.00% | ~640 |
 | New species | 15.00% | ~640 |
 | A New Hope | 14.00% | ~597 |
 | Enigma | 14.00% | ~597 |
 | Challenger | 11.00% | ~469 |
 | Men in Black | 11.00% | ~469 |
-| No stone unturned | 10.00% | ~426 |
+| No stone unturned | 10.00% | ~427 |
 | Unplugged | 7.00% | ~299 |
 | Holidays! | 6.00% | ~256 |
 | Mad Hatter | 6.00% | ~256 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 314)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,265 (Ranked 132)  
+Progressed: 4,267 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 4,226 | 0 |
 | 2023-06-10 | 4,246 | 0 |
 | 2023-06-11 | 4,255 | 0 |
-| 2023-06-12 | 4,265 | 0 |
+| 2023-06-12 | 4,267 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

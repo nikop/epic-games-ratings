@@ -62,9 +62,9 @@
       "ID": "Nocturnal_Achivement_2_Shrine",
       "SetID": "329ifed",
       "Name": "A Light in Dark Places",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Nocturnal_Achivement_3_Azita",
@@ -118,9 +118,9 @@
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -132,8 +132,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-06-12T20:01:31.4959956+00:00",
+  "LastChanged_Achievements": "2023-06-12T22:00:27.6894314+00:00",
   "LastUpdate_AppInfo": "2023-06-12T15:56:50.6945748+00:00",
-  "LastUpdate_Ratings": "2023-06-12T19:57:07.3664107+00:00",
-  "LastUpdate_Achievements": "2023-06-12T20:01:31.4960189+00:00"
+  "LastUpdate_Ratings": "2023-06-12T21:57:10.4393881+00:00",
+  "LastUpdate_Achievements": "2023-06-12T22:00:27.6894484+00:00"
 }

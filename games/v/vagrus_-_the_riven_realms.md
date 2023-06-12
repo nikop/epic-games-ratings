@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 56.00% | ~56 |
+| A Second Chance | 55.00% | ~56 |
 | Press-ganged | 41.00% | ~41 |
 | The Package | 21.00% | ~21 |
 | Randomized | 12.00% | ~12 |
@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 277)  
+Progressed: 101 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-08 | 94 | 0 |
 | 2023-06-10 | 96 | 0 |
 | 2023-06-11 | 98 | 0 |
-| 2023-06-12 | 100 | 0 |
+| 2023-06-12 | 101 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

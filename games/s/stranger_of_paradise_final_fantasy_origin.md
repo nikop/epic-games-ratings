@@ -6,19 +6,19 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~76,242 |
-| No Escape | 86.00% | ~67,596 |
-| Seeker of Power | 85.00% | ~66,810 |
-| Hopes and Dreams | 82.00% | ~64,452 |
-| Lantern Smasher | 78.00% | ~61,308 |
-| The Pirate's Way | 73.00% | ~57,378 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~55,806 |
-| The King of the Dark Elves | 68.00% | ~53,448 |
-| Memories of the Distant Past | 66.00% | ~51,876 |
-| Distortion's Progeny | 63.00% | ~49,518 |
-| Savant | 62.00% | ~48,732 |
-| A Landscape of Memory | 58.00% | ~45,588 |
-| The Wind's Light | 54.00% | ~42,444 |
+| Manifestation of the Soul | 97.00% | ~76,243 |
+| No Escape | 86.00% | ~67,597 |
+| Seeker of Power | 85.00% | ~66,811 |
+| Hopes and Dreams | 82.00% | ~64,453 |
+| Lantern Smasher | 78.00% | ~61,309 |
+| The Pirate's Way | 73.00% | ~57,379 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~55,807 |
+| The King of the Dark Elves | 68.00% | ~53,449 |
+| Memories of the Distant Past | 66.00% | ~51,877 |
+| Distortion's Progeny | 63.00% | ~49,519 |
+| Savant | 62.00% | ~48,733 |
+| A Landscape of Memory | 58.00% | ~45,589 |
+| The Wind's Light | 54.00% | ~42,445 |
 | Vague Remembrances | 49.00% | ~38,514 |
 | The Fire's Light | 47.00% | ~36,942 |
 | Phantom Memories | 46.00% | ~36,156 |
@@ -38,8 +38,8 @@ Number of Ratings: 1,919  (23.09.2022)
 | Path of the Tyrant | 34.00% | ~26,724 |
 | Path of the Ninja | 33.00% | ~25,938 |
 | Terminus of Fate | 32.00% | ~25,152 |
-| Path of the Assassin | 32.00% | ~25,152 |
 | His Name Is Garland | 32.00% | ~25,152 |
+| Path of the Assassin | 31.00% | ~24,366 |
 | Seeker of Ultimate Power | 23.00% | ~18,078 |
 | Artifact Collector | 22.00% | ~17,292 |
 | True Potential | 21.00% | ~16,506 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,358 |
 | A Tale of Origins and Endings | 2.00% | ~1,572 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,600 (Ranked 65)  
+Progressed: 78,601 (Ranked 65)  
 Completed: 2,138 (2.72%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 2,138 (2.72%) (Ranked 56)
 | 2023-06-09 | 78,548 | 2,136 |
 | 2023-06-10 | 78,566 | 2,137 |
 | 2023-06-11 | 78,590 | 2,138 |
-| 2023-06-12 | 78,600 | 2,138 |
+| 2023-06-12 | 78,601 | 2,138 |
 ## Awards
 Max (Great Boss Battles): 754  (Ranked 152)  
 Sum: 1,555 (Ranked 207)  

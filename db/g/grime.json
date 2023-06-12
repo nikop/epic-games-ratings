@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 589,
+  "EOS_Progressed": 590,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -525,6 +525,11 @@
       "Time": "2023-06-12T12:00:56.8736748+00:00",
       "NumProgressed": 589,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T22:00:18.7644003+00:00",
+      "NumProgressed": 590,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -598,9 +603,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 153
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -686,9 +691,9 @@
       "ID": "DEFEAT_JAWSTAG",
       "SetID": "ccc0dlh",
       "Name": "Jawstag",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 53
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -768,7 +773,7 @@
       "Name": "Kinship",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -816,7 +821,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -824,7 +829,7 @@
       "Name": "Passage",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "QUEST_CHILD",
@@ -871,21 +876,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 172,
+      "Progressed": 173,
       "Completed": 20
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 589,
+      "Progressed": 590,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-12T19:02:14.4941196+00:00",
+  "LastChanged_Achievements": "2023-06-12T22:00:18.7643999+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:58.0328366+00:00",
-  "LastUpdate_Ratings": "2023-06-12T20:01:07.1163001+00:00",
-  "LastUpdate_Achievements": "2023-06-12T19:02:14.4941476+00:00"
+  "LastUpdate_Ratings": "2023-06-12T22:00:07.5244025+00:00",
+  "LastUpdate_Achievements": "2023-06-12T22:00:18.764477+00:00"
 }

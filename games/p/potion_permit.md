@@ -11,7 +11,7 @@ Rating: 3.81 (Ranked 928)
 | Rookie Chemist | 62.00% | ~871 |
 | Great Doctor | 50.00% | ~702 |
 | Dog Whisperer | 48.00% | ~674 |
-| Friendly | 46.00% | ~646 |
+| Friendly | 47.00% | ~660 |
 | K.O.! | 42.00% | ~590 |
 | The Capitalist | 42.00% | ~590 |
 | Intermediate Chemist | 38.00% | ~534 |

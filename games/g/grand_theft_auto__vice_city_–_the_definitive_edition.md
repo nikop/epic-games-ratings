@@ -5,16 +5,16 @@ Rating: 4.61 (Ranked 359)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,577 |
-| Greasy Palms | 40.00% | ~3,327 |
-| South American Connection | 24.00% | ~1,996 |
-| Life of the Party | 18.00% | ~1,497 |
-| Big Heat from Little Havana | 13.00% | ~1,081 |
-| Chauffeur | 13.00% | ~1,081 |
-| Tommy Two-Wheels | 13.00% | ~1,081 |
+| Legal Counsel | 43.00% | ~3,578 |
+| Greasy Palms | 40.00% | ~3,328 |
+| South American Connection | 24.00% | ~1,997 |
+| Life of the Party | 18.00% | ~1,498 |
+| Big Heat from Little Havana | 13.00% | ~1,082 |
+| Chauffeur | 13.00% | ~1,082 |
+| Tommy Two-Wheels | 13.00% | ~1,082 |
 | Salutations My Little Friend | 10.00% | ~832 |
 | Iron-y | 9.00% | ~749 |
-| Gun for Hire | 8.00% | ~665 |
+| Gun for Hire | 8.00% | ~666 |
 | Mischief Managed | 7.00% | ~582 |
 | Vice City Mogul | 6.00% | ~499 |
 | Bloodstained Hands | 6.00% | ~499 |
@@ -40,7 +40,7 @@ Rating: 4.61 (Ranked 359)
 | Done it All | 0.60% | ~50 |
 | Kingpin | 0.40% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,318 (Ranked 115)  
+Progressed: 8,321 (Ranked 115)  
 Completed: 30 (0.36%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,14 +93,14 @@ Completed: 30 (0.36%) (Ranked 124)
 | 2023-06-09 | 8,080 | 27 |
 | 2023-06-10 | 8,173 | 29 |
 | 2023-06-11 | 8,264 | 29 |
-| 2023-06-12 | 8,318 | 30 |
+| 2023-06-12 | 8,321 | 30 |
 ## Awards
-Max (Great Boss Battles): 51  (Ranked 389)  
-Sum: 51 (Ranked 439)  
+Max (Great Boss Battles): 52  (Ranked 388)  
+Sum: 52 (Ranked 438)  
 Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 51 |
+| This game has Great Boss Battles | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -170,3 +170,4 @@ Diff (max vs sum): -50
 | 2023-06-07 | 4.61 | 49 | 49 |
 | 2023-06-08 | 4.61 | 50 | 50 |
 | 2023-06-10 | 4.61 | 51 | 51 |
+| 2023-06-12 | 4.61 | 52 | 52 |

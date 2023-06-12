@@ -1,61 +1,61 @@
 # HITMAN World of Assassination
 [Store](https://store.epicgames.com/en-US/p/hitman-3)  
 [View Rawdata](../../db/h/hitman_3.json)  
-Rating: 4.78 (Ranked 100)  
+Rating: 4.78 (Ranked 99)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~594,888 |
-| Death From Above | 46.00% | ~594,888 |
-| Master of the Household | 39.00% | ~504,361 |
-| Death of the Party | 36.00% | ~465,564 |
-| NEXUS-47 | 33.00% | ~426,767 |
-| The Last Tango | 32.00% | ~413,835 |
-| Nightmare Fuel | 31.00% | ~400,903 |
-| The Result of Previous Training | 28.00% | ~362,106 |
-| Tools of the Trade | 28.00% | ~362,106 |
-| Cleared for Field Duty | 27.00% | ~349,173 |
-| Seizing the Opportunity | 25.00% | ~323,308 |
-| Bullet Train | 22.00% | ~284,511 |
-| Stylish Assassin | 20.00% | ~258,647 |
-| Silent Assassin | 14.00% | ~181,053 |
-| Rise Up | 13.00% | ~168,120 |
-| Evil Wine Club | 12.00% | ~155,188 |
-| Console Cowboy | 10.00% | ~129,323 |
-| Last Stop | 10.00% | ~129,323 |
-| A New Profile | 9.00% | ~116,391 |
-| Full House | 9.00% | ~116,391 |
-| Dune Raider | 8.00% | ~103,459 |
-| No Stone Unturned | 8.00% | ~103,459 |
-| Train Surfing | 8.00% | ~103,459 |
-| Family Feud | 7.00% | ~90,526 |
-| Icebreaker | 7.00% | ~90,526 |
-| Rich Harvest | 6.00% | ~77,594 |
-| Count Down From 47 | 6.00% | ~77,594 |
-| Shortcut Killer | 5.00% | ~64,662 |
-| Treacherous Architecture | 5.00% | ~64,662 |
-| Stair Master | 5.00% | ~64,662 |
-| Followed the Trails | 5.00% | ~64,662 |
-| Last Call | 5.00% | ~64,662 |
-| Upstairs, Downstairs | 4.00% | ~51,729 |
-| The Great Outdoors | 4.00% | ~51,729 |
-| Partied Out | 4.00% | ~51,729 |
-| Surveillance Master | 4.00% | ~51,729 |
-| Hack the Planet | 4.00% | ~51,729 |
-| Training Escalated | 3.00% | ~38,797 |
-| Keep Your Eyes Peeled | 3.00% | ~38,797 |
-| Warehouse Veteran | 3.00% | ~38,797 |
-| Future Shock | 3.00% | ~38,797 |
-| Master the Terroir | 3.00% | ~38,797 |
-| Vineyard Virtuoso | 3.00% | ~38,797 |
-| Bird Art | 2.00% | ~25,865 |
-| Top of the Class | 1.00% | ~12,932 |
-| Ripe for the Picking | 1.00% | ~12,932 |
+| Unseen Assassin | 46.00% | ~594,910 |
+| Death From Above | 46.00% | ~594,910 |
+| Master of the Household | 39.00% | ~504,380 |
+| Death of the Party | 36.00% | ~465,582 |
+| NEXUS-47 | 33.00% | ~426,783 |
+| The Last Tango | 32.00% | ~413,850 |
+| Nightmare Fuel | 31.00% | ~400,917 |
+| The Result of Previous Training | 28.00% | ~362,119 |
+| Tools of the Trade | 28.00% | ~362,119 |
+| Cleared for Field Duty | 27.00% | ~349,186 |
+| Seizing the Opportunity | 25.00% | ~323,320 |
+| Bullet Train | 22.00% | ~284,522 |
+| Stylish Assassin | 20.00% | ~258,656 |
+| Silent Assassin | 14.00% | ~181,059 |
+| Rise Up | 13.00% | ~168,127 |
+| Evil Wine Club | 12.00% | ~155,194 |
+| Console Cowboy | 10.00% | ~129,328 |
+| Last Stop | 10.00% | ~129,328 |
+| A New Profile | 9.00% | ~116,395 |
+| Full House | 9.00% | ~116,395 |
+| Dune Raider | 8.00% | ~103,463 |
+| No Stone Unturned | 8.00% | ~103,463 |
+| Train Surfing | 8.00% | ~103,463 |
+| Family Feud | 7.00% | ~90,530 |
+| Icebreaker | 7.00% | ~90,530 |
+| Rich Harvest | 6.00% | ~77,597 |
+| Count Down From 47 | 6.00% | ~77,597 |
+| Shortcut Killer | 5.00% | ~64,664 |
+| Treacherous Architecture | 5.00% | ~64,664 |
+| Stair Master | 5.00% | ~64,664 |
+| Followed the Trails | 5.00% | ~64,664 |
+| Last Call | 5.00% | ~64,664 |
+| Upstairs, Downstairs | 4.00% | ~51,731 |
+| The Great Outdoors | 4.00% | ~51,731 |
+| Partied Out | 4.00% | ~51,731 |
+| Surveillance Master | 4.00% | ~51,731 |
+| Hack the Planet | 4.00% | ~51,731 |
+| Training Escalated | 3.00% | ~38,798 |
+| Keep Your Eyes Peeled | 3.00% | ~38,798 |
+| Warehouse Veteran | 3.00% | ~38,798 |
+| Future Shock | 3.00% | ~38,798 |
+| Master the Terroir | 3.00% | ~38,798 |
+| Vineyard Virtuoso | 3.00% | ~38,798 |
+| Bird Art | 2.00% | ~25,866 |
+| Top of the Class | 1.00% | ~12,933 |
+| Ripe for the Picking | 1.00% | ~12,933 |
 | The Creative Assassin | 0.70% | ~9,053 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,293,234 (Ranked 8)  
-Completed: 2,080 (0.16%) (Ranked 152)  
+Progressed: 1,293,282 (Ranked 8)  
+Completed: 2,081 (0.16%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,16 +107,16 @@ Completed: 2,080 (0.16%) (Ranked 152)
 | 2023-06-09 | 1,291,166 | 2,079 |
 | 2023-06-10 | 1,291,955 | 2,079 |
 | 2023-06-11 | 1,292,689 | 2,080 |
-| 2023-06-12 | 1,293,234 | 2,080 |
+| 2023-06-12 | 1,293,282 | 2,081 |
 ## Awards
 Max (Diverse Characters): 9,221  (Ranked 36)  
-Sum: 67,139 (Ranked 19)  
+Sum: 67,142 (Ranked 19)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 9,221 |
 | This game is Highly Recommended | 8,793 |
-| This game is Extremely Fun | 8,686 |
+| This game is Extremely Fun | 8,689 |
 | This game has Amazing Storytelling | 8,482 |
 | This game is Great for Beginners | 8,394 |
 | This game has Amazing Characters | 8,283 |
@@ -292,4 +292,4 @@ Diff (max vs sum): 17
 | 2023-06-09 | 4.78 | - | 9,185 | 66,970 |
 | 2023-06-10 | 4.78 | - | 9,199 | 67,047 |
 | 2023-06-11 | 4.78 | - | 9,212 | 67,103 |
-| 2023-06-12 | 4.78 | - | 9,221 | 67,139 |
+| 2023-06-12 | 4.78 | - | 9,221 | 67,142 |

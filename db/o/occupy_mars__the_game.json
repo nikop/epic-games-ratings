@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1219,
+  "EOS_Progressed": 1221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1885,6 +1885,11 @@
       "Time": "2023-06-12T18:04:08.7796712+00:00",
       "NumProgressed": 1219,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T22:03:58.0098766+00:00",
+      "NumProgressed": 1221,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2016,7 +2021,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -2048,7 +2053,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -2070,9 +2075,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 403
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -2112,7 +2117,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -2152,7 +2157,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2168,7 +2173,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -2279,7 +2284,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1219,
+      "Progressed": 1221,
       "Completed": 0
     }
   ],
@@ -2287,8 +2292,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-12T13:02:51.5238485+00:00",
-  "LastChanged_Achievements": "2023-06-12T20:04:38.6323466+00:00",
+  "LastChanged_Achievements": "2023-06-12T22:03:58.009876+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-12T19:57:46.2965039+00:00",
-  "LastUpdate_Achievements": "2023-06-12T20:04:38.6324082+00:00"
+  "LastUpdate_Ratings": "2023-06-12T21:57:36.9036219+00:00",
+  "LastUpdate_Achievements": "2023-06-12T22:03:58.0099635+00:00"
 }

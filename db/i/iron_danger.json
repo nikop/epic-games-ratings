@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 202,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -274,9 +274,9 @@
       "ID": "ACH_FORAGER_BERRY",
       "SetID": "ao59f0i",
       "Name": "Berry Nice",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_GOOD_STEW",
@@ -443,8 +443,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-06-12T20:06:53.9274284+00:00",
+  "LastChanged_Achievements": "2023-06-12T22:05:45.5294116+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:31.445644+00:00",
-  "LastUpdate_Ratings": "2023-06-12T20:00:42.3533405+00:00",
-  "LastUpdate_Achievements": "2023-06-12T20:06:53.927447+00:00"
+  "LastUpdate_Ratings": "2023-06-12T21:59:48.8821342+00:00",
+  "LastUpdate_Achievements": "2023-06-12T22:05:45.529433+00:00"
 }

@@ -14,15 +14,15 @@ Number of Ratings: 38  (23.09.2022)
 | Teleport | 40.00% | ~104 |
 | Scrap Master | 38.00% | ~99 |
 | Smelter | 36.00% | ~94 |
-| Electro-Scrap Gatherer | 33.00% | ~86 |
+| Electro-Scrap Gatherer | 34.00% | ~88 |
 | Digger | 32.00% | ~83 |
 | Survivor | 32.00% | ~83 |
 | Robot Destroyer | 31.00% | ~81 |
 | Herbalist | 28.00% | ~73 |
-| Lumberjack | 25.00% | ~65 |
-| Prepper | 25.00% | ~65 |
+| Lumberjack | 26.00% | ~68 |
+| Prepper | 26.00% | ~68 |
 | Electro-Scrap Master | 24.00% | ~62 |
-| Robot Hunter | 21.00% | ~55 |
+| Robot Hunter | 22.00% | ~57 |
 | Master Of Technology | 18.00% | ~47 |
 | Advanced Survivalist | 18.00% | ~47 |
 | Treasure Hunter | 17.00% | ~44 |
@@ -30,9 +30,9 @@ Number of Ratings: 38  (23.09.2022)
 | Mythical Smelter | 12.00% | ~31 |
 | Fuel | 10.00% | ~26 |
 | Master Of Management | 9.00% | ~23 |
+| Forest Lord | 9.00% | ~23 |
 | Smelting Master | 9.00% | ~23 |
 | Black Gold | 8.00% | ~21 |
-| Forest Lord | 8.00% | ~21 |
 | Traveler | 4.00% | ~10 |
 | Survival Master | 4.00% | ~10 |
 | Forest Killer | 1.00% | ~3 |
