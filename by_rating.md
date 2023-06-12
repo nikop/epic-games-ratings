@@ -7,12 +7,12 @@
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,480 | 115 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,109 | 89 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 496 |
-| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 1,824 | 107 |
-| 9 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 496 |
-| 9 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 0 | 496 |
-| 9 | [Mago](games/m/mago.md) | 4.90 | 0 | 496 |
-| 9 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 496 |
-| 9 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 496 |
+| 8 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 496 |
+| 8 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 0 | 496 |
+| 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 496 |
+| 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 496 |
+| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,824 | 107 |
+| 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 496 |
 | 14 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,380 | 44 |
 | 14 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 496 |
 | 14 | [Firework](games/f/firework.md) | 4.89 | 0 | 496 |
@@ -424,7 +424,7 @@
 | 422 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 496 |
 | 422 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 158 | 286 |
 | 422 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 496 |
-| 422 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 7,659 | 40 |
+| 422 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 7,692 | 40 |
 | 422 | [Everything](games/e/everything.md) | 4.58 | 0 | 496 |
 | 422 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 249 | 243 |
 | 422 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 37 | 424 |
@@ -623,7 +623,7 @@
 | 617 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,519 | 34 |
 | 617 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 496 |
 | 617 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 496 |
-| 617 | [SMITE](games/s/smite.md) | 4.45 | 3,878 | 77 |
+| 617 | [SMITE](games/s/smite.md) | 4.45 | 3,884 | 77 |
 | 617 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 496 |
 | 617 | [The Surge](games/t/the_surge.md) | 4.45 | 26 | 463 |
 | 617 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 314 |
@@ -741,7 +741,7 @@
 | 737 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 496 |
 | 737 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 53 | 386 |
 | 737 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 496 |
-| 737 | [Paladins](games/p/paladins.md) | 4.34 | 3,291 | 83 |
+| 737 | [Paladins](games/p/paladins.md) | 4.34 | 3,298 | 83 |
 | 737 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 496 |
 | 737 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,016 | 63 |
 | 737 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 242 | 245 |
@@ -937,6 +937,6 @@
 | 932 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 60 | 382 |
 | 936 | [To The Rescue](games/t/to_the_rescue.md) | 3.76 | 0 | 496 |
 | 937 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.74 | 0 | 496 |
-| 938 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.52 | 0 | 496 |
+| 938 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.54 | 0 | 496 |
 | 939 | [Redfall](games/r/redfall.md) | 3.44 | 0 | 496 |
 | 940 | [Adios](games/a/adios.md) | 3.33 | 0 | 496 |
