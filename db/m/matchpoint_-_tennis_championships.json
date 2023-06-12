@@ -2,7 +2,7 @@
   "ID": "ccf1eda0e53c4e01ba1a114fdb561cf7",
   "Name": "Matchpoint - Tennis Championships",
   "ProductSlug": "matchpoint-tennis-championships-26d55a",
-  "Ranking_EOS_Progress": 442,
+  "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 105,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:04.1093379+00:00",
   "LastChanged": "2023-03-31T05:57:04.109338+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:36.1007997+00:00",
-  "LastUpdate_Ratings": "2023-06-12T07:59:11.105546+00:00",
-  "LastUpdate_Achievements": "2023-06-12T08:02:11.5402414+00:00"
+  "LastUpdate_Ratings": "2023-06-12T08:59:08.1468452+00:00",
+  "LastUpdate_Achievements": "2023-06-12T09:02:12.4976519+00:00"
 }

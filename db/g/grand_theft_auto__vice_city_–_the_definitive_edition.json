@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -418,9 +418,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 8283,
+  "EOS_Progressed": 8285,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4343,6 +4343,11 @@
       "Time": "2023-06-12T08:04:05.0833262+00:00",
       "NumProgressed": 8283,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-12T09:03:36.0097149+00:00",
+      "NumProgressed": 8285,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 34,
@@ -4370,7 +4375,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH04",
@@ -4394,7 +4399,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH07",
@@ -4402,7 +4407,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH08",
@@ -4410,7 +4415,7 @@
       "Name": "Pie Guy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH09",
@@ -4458,7 +4463,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "ACH15",
@@ -4498,7 +4503,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH20",
@@ -4514,7 +4519,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3562
+      "UsersEstimate": 3563
     },
     {
       "ID": "ACH22",
@@ -4625,7 +4630,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8283,
+      "Progressed": 8285,
       "Completed": 30
     }
   ],
@@ -4633,8 +4638,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-10T11:58:23.7824085+00:00",
-  "LastChanged_Achievements": "2023-06-12T08:04:05.0833256+00:00",
+  "LastChanged_Achievements": "2023-06-12T09:03:36.0097141+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-12T07:59:04.2101586+00:00",
-  "LastUpdate_Achievements": "2023-06-12T08:04:05.0833759+00:00"
+  "LastUpdate_Ratings": "2023-06-12T08:59:00.9791187+00:00",
+  "LastUpdate_Achievements": "2023-06-12T09:03:36.0097951+00:00"
 }

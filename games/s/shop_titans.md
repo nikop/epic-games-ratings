@@ -6,39 +6,39 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~126,493 |
-| Titan's First Steps | 96.00% | ~125,189 |
+| Sponsored by Argon | 97.00% | ~126,494 |
+| Titan's First Steps | 96.00% | ~125,190 |
 | Basic in Bulk | 91.00% | ~118,669 |
-| Tinkle of Coins | 87.00% | ~113,452 |
-| Disintermediation | 76.00% | ~99,108 |
+| Tinkle of Coins | 87.00% | ~113,453 |
+| Disintermediation | 76.00% | ~99,109 |
 | Capitalism Ho! | 74.00% | ~96,500 |
 | It's Free Real Estate | 70.00% | ~91,284 |
-| Budding Merchant | 66.00% | ~86,067 |
-| Another Satisfied Customer | 61.00% | ~79,547 |
-| One Easy Payment | 60.00% | ~78,243 |
-| Own the Means of Production | 60.00% | ~78,243 |
+| Budding Merchant | 66.00% | ~86,068 |
+| Another Satisfied Customer | 61.00% | ~79,548 |
+| One Easy Payment | 60.00% | ~78,244 |
+| Own the Means of Production | 60.00% | ~78,244 |
 | Some Assembly Required | 58.00% | ~75,635 |
 | Pretty Penny | 57.00% | ~74,331 |
-| One-Armed Bandit | 50.00% | ~65,202 |
-| Through Repetition, Perfection | 46.00% | ~59,986 |
-| The Daily Grind | 45.00% | ~58,682 |
-| Bounty Hunters | 44.00% | ~57,378 |
-| Where it Hurts | 43.00% | ~56,074 |
-| Dungeon Imports | 42.00% | ~54,770 |
+| One-Armed Bandit | 50.00% | ~65,203 |
+| Through Repetition, Perfection | 46.00% | ~59,987 |
+| The Daily Grind | 45.00% | ~58,683 |
+| Bounty Hunters | 44.00% | ~57,379 |
+| Where it Hurts | 43.00% | ~56,075 |
+| Dungeon Imports | 42.00% | ~54,771 |
 | Flooding the Market | 41.00% | ~53,466 |
 | Demand for Supplies | 38.00% | ~49,554 |
 | Gild-Gotten Goods | 37.00% | ~48,250 |
 | Did we pack lunch? | 35.00% | ~45,642 |
 | Arcane Industries | 34.00% | ~44,338 |
 | Accomplished Merchant | 31.00% | ~40,426 |
-| Ascended | 28.00% | ~36,513 |
-| Gem Expert | 28.00% | ~36,513 |
-| Helping Hand | 28.00% | ~36,513 |
-| On the Path to Greatness | 27.00% | ~35,209 |
-| Blank Page Syndrome | 27.00% | ~35,209 |
-| Efficient Floor Space | 27.00% | ~35,209 |
-| Vanity, Verily | 26.00% | ~33,905 |
-| Research & Development | 25.00% | ~32,601 |
+| Ascended | 28.00% | ~36,514 |
+| Gem Expert | 28.00% | ~36,514 |
+| Helping Hand | 28.00% | ~36,514 |
+| On the Path to Greatness | 27.00% | ~35,210 |
+| Blank Page Syndrome | 27.00% | ~35,210 |
+| Efficient Floor Space | 27.00% | ~35,210 |
+| Vanity, Verily | 26.00% | ~33,906 |
+| Research & Development | 25.00% | ~32,602 |
 | Power of Love | 24.00% | ~31,297 |
 | Flawless Fusion | 24.00% | ~31,297 |
 | Natural 20 | 23.00% | ~29,993 |
@@ -69,11 +69,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 11.00% | ~14,345 |
 | Exotic Commodities | 11.00% | ~14,345 |
 | Complete Monopoly | 11.00% | ~14,345 |
-| Master Recycler | 10.00% | ~13,040 |
-| Supercharged | 9.00% | ~11,736 |
-| Ritualist | 9.00% | ~11,736 |
-| Master Merchant | 9.00% | ~11,736 |
-| Glittering Collection | 9.00% | ~11,736 |
+| Master Recycler | 10.00% | ~13,041 |
+| Supercharged | 9.00% | ~11,737 |
+| Ritualist | 9.00% | ~11,737 |
+| Master Merchant | 9.00% | ~11,737 |
+| Glittering Collection | 9.00% | ~11,737 |
 | Cream of the Crop | 8.00% | ~10,432 |
 | The King's Caprice | 8.00% | ~10,432 |
 | Item of Renown | 8.00% | ~10,432 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~652 |
 | Capitalist Camaraderie | 0.20% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,405 (Ranked 58)  
+Progressed: 130,406 (Ranked 58)  
 Completed: 94 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 94 (0.07%) (Ranked 177)
 | 2023-06-09 | 130,203 | 94 |
 | 2023-06-10 | 130,282 | 94 |
 | 2023-06-11 | 130,389 | 94 |
-| 2023-06-12 | 130,405 | 94 |
+| 2023-06-12 | 130,406 | 94 |
 ## Awards
 Max (Great for Beginners): 4,616  (Ranked 67)  
 Sum: 26,741 (Ranked 44)  

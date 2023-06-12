@@ -296,7 +296,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2694,
+  "EOS_Progressed": 2696,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
@@ -3286,6 +3286,11 @@
       "Time": "2023-06-12T08:07:36.1845282+00:00",
       "NumProgressed": 2694,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-12T09:07:29.9836969+00:00",
+      "NumProgressed": 2696,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3305,7 +3310,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -3361,7 +3366,7 @@
       "Name": "Organ Grinder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3377,7 +3382,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3537,7 +3542,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3665,7 +3670,7 @@
       "Name": "Taking it back",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3689,7 +3694,7 @@
       "Name": "Target America",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3705,7 +3710,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -3864,13 +3869,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2645,
+      "Progressed": 2647,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2694,
+      "Progressed": 2696,
       "Completed": 2
     }
   ],
@@ -3878,8 +3883,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-12T08:07:36.1845255+00:00",
+  "LastChanged_Achievements": "2023-06-12T09:07:29.9836963+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-12T08:02:01.6840995+00:00",
-  "LastUpdate_Achievements": "2023-06-12T08:07:36.1846424+00:00"
+  "LastUpdate_Ratings": "2023-06-12T09:02:01.8414304+00:00",
+  "LastUpdate_Achievements": "2023-06-12T09:07:29.9838423+00:00"
 }

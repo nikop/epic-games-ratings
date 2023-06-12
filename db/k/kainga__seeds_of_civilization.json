@@ -2,7 +2,7 @@
   "ID": "52e35776f1a04663b8f961dee7122a7d",
   "Name": "Kainga: Seeds of Civilization",
   "ProductSlug": "kainga-seeds-of-civilization-7314ee",
-  "Ranking_EOS_Progress": 442,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 105,
@@ -19,12 +19,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-06-12T09:07:20.5931231+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "TotalAchievements": 24,
   "TotalAchievementsXP": 1000,
   "Achievements": [
@@ -48,9 +54,9 @@
       "ID": "Ach_COM_Beasts",
       "SetID": "4k3h0fh",
       "Name": "The Wildlife of Kainga",
-      "Percentage": 0,
+      "Percentage": 200,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach_COM_City",
@@ -128,9 +134,9 @@
       "ID": "Ach_LOC_Edg",
       "SetID": "4k3h0fh",
       "Name": "Canyonlands",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ach_LOC_Gre",
@@ -160,17 +166,17 @@
       "ID": "Ach_LOC_Tow",
       "SetID": "4k3h0fh",
       "Name": "Pillars of Stone",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ach_TH_Ach",
       "SetID": "4k3h0fh",
       "Name": "The Whisperer",
-      "Percentage": 0,
+      "Percentage": 200,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach_TH_Ajo",
@@ -184,9 +190,9 @@
       "ID": "Ach_TH_Cha",
       "SetID": "4k3h0fh",
       "Name": "Bear the Burden",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ach_TH_Gal",
@@ -225,13 +231,13 @@
     {
       "ID": "4k3h0fh",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:47.8999799+00:00",
-  "LastChanged_Achievements": "2023-06-12T08:07:26.9834301+00:00",
+  "LastChanged_Achievements": "2023-06-12T09:07:20.5931226+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:47.1588135+00:00",
-  "LastUpdate_Ratings": "2023-06-12T08:00:33.4896638+00:00",
-  "LastUpdate_Achievements": "2023-06-12T08:07:26.9834467+00:00"
+  "LastUpdate_Ratings": "2023-06-12T09:00:31.8921168+00:00",
+  "LastUpdate_Achievements": "2023-06-12T09:07:20.5931465+00:00"
 }

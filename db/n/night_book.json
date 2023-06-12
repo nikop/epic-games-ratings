@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198,
+  "EOS_Progressed": 199,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.52,
+  "EOS_Completed_Percentage": 1.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -143,6 +143,11 @@
       "Time": "2023-06-11T00:06:07.9652398+00:00",
       "NumProgressed": 198,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-12T09:07:10.3257758+00:00",
+      "NumProgressed": 199,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 17,
@@ -170,7 +175,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "hopeful",
@@ -194,7 +199,7 @@
       "Name": "Impress Theron",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "marriage_is_off",
@@ -208,9 +213,9 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 125
     },
     {
       "ID": "off_his_meds",
@@ -226,7 +231,7 @@
       "Name": "On Your Bike",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "pearce",
@@ -242,7 +247,7 @@
       "Name": "Personal Life",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "save_dad",
@@ -280,16 +285,16 @@
       "ID": "will_this_help",
       "SetID": "a3kkelb",
       "Name": "Will This Help?",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 141
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 198,
+      "Progressed": 199,
       "Completed": 3
     }
   ],
@@ -297,8 +302,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-06-12T08:07:16.6681242+00:00",
+  "LastChanged_Achievements": "2023-06-12T09:07:10.3257751+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:27.562273+00:00",
-  "LastUpdate_Ratings": "2023-06-12T07:57:54.6248834+00:00",
-  "LastUpdate_Achievements": "2023-06-12T08:07:16.6681396+00:00"
+  "LastUpdate_Ratings": "2023-06-12T08:57:50.9728223+00:00",
+  "LastUpdate_Achievements": "2023-06-12T09:07:10.3257914+00:00"
 }

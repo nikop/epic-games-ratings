@@ -5,15 +5,15 @@ Rating: 4.61 (Ranked 358)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~3,562 |
-| Greasy Palms | 40.00% | ~3,313 |
+| Legal Counsel | 43.00% | ~3,563 |
+| Greasy Palms | 40.00% | ~3,314 |
 | South American Connection | 24.00% | ~1,988 |
 | Life of the Party | 18.00% | ~1,491 |
 | Big Heat from Little Havana | 13.00% | ~1,077 |
 | Chauffeur | 13.00% | ~1,077 |
 | Tommy Two-Wheels | 13.00% | ~1,077 |
 | Salutations My Little Friend | 10.00% | ~828 |
-| Iron-y | 9.00% | ~745 |
+| Iron-y | 9.00% | ~746 |
 | Gun for Hire | 8.00% | ~663 |
 | Mischief Managed | 7.00% | ~580 |
 | Vice City Mogul | 6.00% | ~497 |
@@ -21,10 +21,10 @@ Rating: 4.61 (Ranked 358)
 | Catch Me if You Can | 5.00% | ~414 |
 | Grand Theft Auto | 5.00% | ~414 |
 | Not my First Time | 4.00% | ~331 |
-| Point A to Point B | 3.00% | ~248 |
-| High Quality H2O | 3.00% | ~248 |
-| Pie Guy | 3.00% | ~248 |
-| Don't Need Roads | 3.00% | ~248 |
+| Point A to Point B | 3.00% | ~249 |
+| High Quality H2O | 3.00% | ~249 |
+| Pie Guy | 3.00% | ~249 |
+| Don't Need Roads | 3.00% | ~249 |
 | Running Rampant | 2.00% | ~166 |
 | Bull in a China Shop | 2.00% | ~166 |
 | Somebody Call the Wambulance? | 2.00% | ~166 |
@@ -40,7 +40,7 @@ Rating: 4.61 (Ranked 358)
 | Done it All | 0.70% | ~58 |
 | Kingpin | 0.40% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,283 (Ranked 115)  
+Progressed: 8,285 (Ranked 115)  
 Completed: 30 (0.36%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 30 (0.36%) (Ranked 124)
 | 2023-06-09 | 8,080 | 27 |
 | 2023-06-10 | 8,173 | 29 |
 | 2023-06-11 | 8,264 | 29 |
-| 2023-06-12 | 8,283 | 30 |
+| 2023-06-12 | 8,285 | 30 |
 ## Awards
 Max (Great Boss Battles): 51  (Ranked 389)  
 Sum: 51 (Ranked 439)  

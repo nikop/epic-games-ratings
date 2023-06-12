@@ -35,8 +35,8 @@ Number of Ratings: 20  (23.09.2022)
 | Dapper | 14.00% | ~44 |
 | The New Director | 13.00% | ~41 |
 | Adventurer | 13.00% | ~41 |
+| Discovery | 13.00% | ~41 |
 | Plays Well With Others | 13.00% | ~41 |
-| Discovery | 12.00% | ~38 |
 | And Here Is Your Statue | 11.00% | ~35 |
 | Very Classy | 11.00% | ~35 |
 | Under the Table | 10.00% | ~31 |

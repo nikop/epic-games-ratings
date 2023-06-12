@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,875 |
-| That's a Grand Army | 8.00% | ~4,333 |
-| That is mine! | 8.00% | ~4,333 |
-| Victorious! | 8.00% | ~4,333 |
-| Brothers in Arms | 6.00% | ~3,250 |
-| That's a Grand Navy | 6.00% | ~3,250 |
-| Seriously?! | 6.00% | ~3,250 |
-| For the Glory | 5.00% | ~2,708 |
+| Until death do us apart | 9.00% | ~4,877 |
+| That's a Grand Army | 8.00% | ~4,335 |
+| That is mine! | 8.00% | ~4,335 |
+| Victorious! | 8.00% | ~4,335 |
+| Brothers in Arms | 6.00% | ~3,251 |
+| That's a Grand Navy | 6.00% | ~3,251 |
+| Seriously?! | 6.00% | ~3,251 |
+| For the Glory | 5.00% | ~2,709 |
 | Cold War | 4.00% | ~2,167 |
 | True Catholic | 4.00% | ~2,167 |
-| Defender of the Faith | 3.00% | ~1,625 |
-| It's all about the money | 3.00% | ~1,625 |
-| Respected | 3.00% | ~1,625 |
-| Truly Divine Ruler | 3.00% | ~1,625 |
-| Agressive Expander | 2.00% | ~1,083 |
-| Blockader | 2.00% | ~1,083 |
-| Combined Arms | 2.00% | ~1,083 |
-| Double the Love | 2.00% | ~1,083 |
-| Gentle Persuasion | 2.00% | ~1,083 |
-| It's all about luck | 2.00% | ~1,083 |
-| My armies are invincible! | 2.00% | ~1,083 |
-| Queen of Conquest | 2.00% | ~1,083 |
-| Royal Authority | 2.00% | ~1,083 |
-| The Princess is in this Castle | 2.00% | ~1,083 |
-| Total Control | 2.00% | ~1,083 |
+| Defender of the Faith | 3.00% | ~1,626 |
+| It's all about the money | 3.00% | ~1,626 |
+| Respected | 3.00% | ~1,626 |
+| Truly Divine Ruler | 3.00% | ~1,626 |
+| Agressive Expander | 2.00% | ~1,084 |
+| Blockader | 2.00% | ~1,084 |
+| Combined Arms | 2.00% | ~1,084 |
+| Double the Love | 2.00% | ~1,084 |
+| Gentle Persuasion | 2.00% | ~1,084 |
+| It's all about luck | 2.00% | ~1,084 |
+| My armies are invincible! | 2.00% | ~1,084 |
+| Queen of Conquest | 2.00% | ~1,084 |
+| Royal Authority | 2.00% | ~1,084 |
+| The Princess is in this Castle | 2.00% | ~1,084 |
+| Total Control | 2.00% | ~1,084 |
 | All That's Thine Shall Be Mine | 1.00% | ~542 |
 | Azur semé de lis or | 1.00% | ~542 |
 | Bright Spark | 1.00% | ~542 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,167 (Ranked 78)  
+Progressed: 54,184 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 52,837 | 0 |
 | 2023-06-10 | 53,460 | 0 |
 | 2023-06-11 | 54,074 | 0 |
-| 2023-06-12 | 54,167 | 0 |
+| 2023-06-12 | 54,184 | 0 |
 ## Awards
 Max (Educational): 5,381  (Ranked 61)  
 Sum: 44,439 (Ranked 27)  

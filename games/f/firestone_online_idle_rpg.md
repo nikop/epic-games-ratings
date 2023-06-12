@@ -48,13 +48,13 @@ Rating: 4.05 (Ranked 891)
 | Ancient Knowledge | 4.00% | ~55 |
 | Background Story | 4.00% | ~55 |
 | Enchanting skill | 4.00% | ~55 |
+| Lock And Load | 4.00% | ~55 |
 | Missions Dedication | 4.00% | ~55 |
 | Weekly Quest Completionist | 4.00% | ~55 |
 | Blueprint Upgrades | 3.00% | ~41 |
 | Crystal Mining | 3.00% | ~41 |
 | Dragon Slayer | 3.00% | ~41 |
 | Engineer Mastery | 3.00% | ~41 |
-| Lock And Load | 3.00% | ~41 |
 | Ebony Jungle Liberator | 2.00% | ~28 |
 | Sailor | 2.00% | ~28 |
 | The Alchemist | 2.00% | ~28 |

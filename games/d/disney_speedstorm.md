@@ -12,7 +12,7 @@
 | A TIGER'S FEAR | 29.00% | ~799 |
 | HERE ARE SOME BARE NECESSITIES | 29.00% | ~799 |
 | AGGRESSIVE RACER | 29.00% | ~799 |
-| ACE SPEEDSTER | 21.00% | ~579 |
+| ACE SPEEDSTER | 22.00% | ~606 |
 | IT'S A LONG WAY TO THE TOP | 18.00% | ~496 |
 | DEFEAT OUR CHAMPION | 12.00% | ~331 |
 | RELEASE THE KRAKEN | 11.00% | ~303 |
@@ -29,7 +29,7 @@
 | FRAMED! | 3.00% | ~83 |
 | PERFECTLY POISED | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,755 (Ranked 144)  
+Progressed: 2,756 (Ranked 144)  
 Completed: 6 (0.22%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,4 +82,4 @@ Completed: 6 (0.22%) (Ranked 144)
 | 2023-06-09 | 2,746 | 6 |
 | 2023-06-10 | 2,750 | 6 |
 | 2023-06-11 | 2,754 | 6 |
-| 2023-06-12 | 2,755 | 6 |
+| 2023-06-12 | 2,756 | 6 |

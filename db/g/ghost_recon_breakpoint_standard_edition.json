@@ -4,8 +4,8 @@
   "ProductSlug": "ghost-recon-breakpoint",
   "Ranking_Rating": 490,
   "Ranking_Popularity": 129,
-  "Ranking_PopularitySum": 87,
-  "Ranking_EOS_Progress": 442,
+  "Ranking_PopularitySum": 86,
+  "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 105,
@@ -4795,10 +4795,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8694,
       "NumberOfAwardsMax": 1128
+    },
+    {
+      "Time": "2023-06-12T08:58:01.5854379+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8701,
+      "NumberOfAwardsMax": 1128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8694,
+  "NumberOfAwards": 8701,
   "NumberOfAwardsMax": 1128,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4824,7 +4830,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 949
+      "Count": 956
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4874,8 +4880,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-06-11T13:00:46.5781846+00:00",
+  "LastChanged": "2023-06-12T08:58:01.5854375+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:38.4664287+00:00",
-  "LastUpdate_Ratings": "2023-06-12T07:58:05.6727621+00:00",
-  "LastUpdate_Achievements": "2023-06-12T08:05:05.0080416+00:00"
+  "LastUpdate_Ratings": "2023-06-12T08:58:01.5854384+00:00",
+  "LastUpdate_Achievements": "2023-06-12T09:04:58.4662941+00:00"
 }

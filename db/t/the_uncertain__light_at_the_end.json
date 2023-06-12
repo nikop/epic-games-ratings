@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 453,
+  "EOS_Progressed": 454,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -334,6 +334,11 @@
       "Time": "2023-06-11T23:06:41.0558187+00:00",
       "NumProgressed": 453,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-12T09:07:35.714281+00:00",
+      "NumProgressed": 454,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -375,9 +380,9 @@
       "ID": "Doors_Closing",
       "SetID": "ek310c",
       "Name": "Mind the Gap",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 59
     },
     {
       "ID": "Echoes",
@@ -433,7 +438,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Hitman",
@@ -511,17 +516,17 @@
       "ID": "Ninja",
       "SetID": "ek310c",
       "Name": "A Stealthy Outlook",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "Old_Friend",
       "SetID": "ek310c",
       "Name": "A Familiar Face",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 73
     },
     {
       "ID": "Paparazzi",
@@ -569,14 +574,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 453,
+      "Progressed": 454,
       "Completed": 5
     }
   ],
@@ -584,8 +589,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-06-12T08:07:41.7537853+00:00",
+  "LastChanged_Achievements": "2023-06-12T09:07:35.7142803+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:06.3393279+00:00",
-  "LastUpdate_Ratings": "2023-06-12T08:02:02.491645+00:00",
-  "LastUpdate_Achievements": "2023-06-12T08:07:41.7538103+00:00"
+  "LastUpdate_Ratings": "2023-06-12T09:02:02.6606758+00:00",
+  "LastUpdate_Achievements": "2023-06-12T09:07:35.7143193+00:00"
 }

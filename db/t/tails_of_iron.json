@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -203,7 +203,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1662,
+  "EOS_Progressed": 1663,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 2,
@@ -1498,6 +1498,11 @@
       "Time": "2023-06-12T04:02:27.1905432+00:00",
       "NumProgressed": 1662,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-12T09:03:06.6386251+00:00",
+      "NumProgressed": 1663,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1509,7 +1514,7 @@
       "Name": "Become King",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "Collect20Gold",
@@ -1517,7 +1522,7 @@
       "Name": "Collect Gold",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "Collect20Iron",
@@ -1533,7 +1538,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "CollectAllStatues",
@@ -1589,7 +1594,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1597,7 +1602,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "CompleteStoryDM",
@@ -1621,7 +1626,7 @@
       "Name": "End of the Mozis",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -1629,7 +1634,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -1653,7 +1658,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "GetTHWeapon",
@@ -1661,7 +1666,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "Kill25Bugs",
@@ -1717,7 +1722,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "RepairThroneRoom",
@@ -1725,7 +1730,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "RescueBrothers",
@@ -1748,22 +1753,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1662,
+      "Progressed": 1663,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 303,
-      "Completed": 303
+      "Progressed": 304,
+      "Completed": 304
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-11T02:28:32.7371002+00:00",
-  "LastChanged_Achievements": "2023-06-12T08:03:16.0027104+00:00",
+  "LastChanged_Achievements": "2023-06-12T09:03:06.6386245+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:37.129082+00:00",
-  "LastUpdate_Ratings": "2023-06-12T07:59:11.481979+00:00",
-  "LastUpdate_Achievements": "2023-06-12T08:03:16.0027605+00:00"
+  "LastUpdate_Ratings": "2023-06-12T08:59:08.5383064+00:00",
+  "LastUpdate_Achievements": "2023-06-12T09:03:06.6386712+00:00"
 }
