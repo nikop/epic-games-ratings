@@ -12,7 +12,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Gehenna Stones | 51.00% | ~10,176 |
 | No one has to die today! | 47.00% | ~9,377 |
 | Death and destruction! | 46.00% | ~9,178 |
-| The Swamplanders from the swamplands | 44.00% | ~8,779 |
+| The Swamplanders from the swamplands | 45.00% | ~8,978 |
 | Rusty Steel | 42.00% | ~8,380 |
 | The One-Huge-Army-Building Evil | 41.00% | ~8,180 |
 | The last burger | 39.00% | ~7,781 |

@@ -20,7 +20,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter I | 32.00% | ~109 |
 | Heroism | 32.00% | ~109 |
 | King of Knives | 30.00% | ~103 |
-| Consequences | 28.00% | ~96 |
+| Consequences | 29.00% | ~99 |
 | Opportunities | 27.00% | ~92 |
 | The Horror | 25.00% | ~86 |
 | Collectibles of Chapter II | 23.00% | ~79 |
@@ -36,7 +36,7 @@ Number of Ratings: 34  (23.09.2022)
 | Atonement | 14.00% | ~48 |
 | Helping Hand | 13.00% | ~44 |
 | Without a Second Thought | 13.00% | ~44 |
-| Collectibles of Chapter V | 8.00% | ~27 |
+| Collectibles of Chapter V | 9.00% | ~31 |
 | Such is War! | 8.00% | ~27 |
 | Tiptoe Around | 8.00% | ~27 |
 | Collectibles of Chapter VII | 6.00% | ~21 |

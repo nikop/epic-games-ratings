@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-18T23:00:00+00:00",
     "PcReleaseDate": "2022-05-12T13:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "ACH_EvolutionRevolution",
       "SetID": "1od64h3",
       "Name": "Evolution Revolution",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ExpertSummoner",
@@ -403,8 +403,8 @@
   ],
   "FirstSeen": "2023-05-24T05:57:01.1343555+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2023-06-12T07:05:04.8330781+00:00",
+  "LastChanged_Achievements": "2023-06-12T08:05:56.618968+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:15.0713756+00:00",
-  "LastUpdate_Ratings": "2023-06-12T06:57:33.3052251+00:00",
-  "LastUpdate_Achievements": "2023-06-12T07:05:04.8330943+00:00"
+  "LastUpdate_Ratings": "2023-06-12T07:57:42.3643569+00:00",
+  "LastUpdate_Achievements": "2023-06-12T08:05:56.6190026+00:00"
 }

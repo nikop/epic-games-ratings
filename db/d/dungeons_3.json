@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2184,7 +2184,7 @@
   ],
   "EOS_Progressed": 19952,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 880,
+  "EOS_NewPlayers": 877,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -7804,9 +7804,9 @@
       "ID": "ACH_D3_Campaign_Graves_Completed",
       "SetID": "cda475f",
       "Name": "The Swamplanders from the swamplands",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 8779
+      "UsersEstimate": 8978
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -8084,8 +8084,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-06-10T18:59:48.1048312+00:00",
-  "LastChanged_Achievements": "2023-06-12T07:05:04.7422645+00:00",
+  "LastChanged_Achievements": "2023-06-12T08:05:56.614583+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:33.2587756+00:00",
-  "LastUpdate_Ratings": "2023-06-12T06:59:30.2075585+00:00",
-  "LastUpdate_Achievements": "2023-06-12T07:05:04.742333+00:00"
+  "LastUpdate_Ratings": "2023-06-12T08:00:17.9060736+00:00",
+  "LastUpdate_Achievements": "2023-06-12T08:05:56.6147213+00:00"
 }

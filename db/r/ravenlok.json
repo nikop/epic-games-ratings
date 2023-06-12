@@ -2717,9 +2717,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 613
     },
     {
       "ID": "8",
@@ -2750,8 +2750,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-12T07:06:11.5379713+00:00",
+  "LastChanged_Achievements": "2023-06-12T08:07:20.0464432+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-12T06:57:46.8837599+00:00",
-  "LastUpdate_Achievements": "2023-06-12T07:06:11.5380148+00:00"
+  "LastUpdate_Ratings": "2023-06-12T07:57:59.1484833+00:00",
+  "LastUpdate_Achievements": "2023-06-12T08:07:20.0465015+00:00"
 }

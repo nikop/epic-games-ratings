@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5473,10 +5473,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 37144,
       "NumberOfAwardsMax": 4360
+    },
+    {
+      "Time": "2023-06-12T08:00:54.3338336+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 37152,
+      "NumberOfAwardsMax": 4360
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37144,
+  "NumberOfAwards": 37152,
   "NumberOfAwardsMax": 4360,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5502,7 +5508,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3867
+      "Count": 3875
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5553,9 +5559,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 43951,
+  "EOS_Progressed": 43952,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10053,6 +10059,11 @@
       "Time": "2023-06-12T05:06:54.2347078+00:00",
       "NumProgressed": 43951,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-12T08:07:35.3450356+00:00",
+      "NumProgressed": 43952,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -10160,7 +10171,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26810
+      "UsersEstimate": 26811
     },
     {
       "ID": "DeliveryGrapes",
@@ -10200,7 +10211,7 @@
       "Name": "Plant get enough",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26810
+      "UsersEstimate": 26811
     },
     {
       "ID": "Harvested",
@@ -10216,7 +10227,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 33403
+      "UsersEstimate": 33404
     },
     {
       "ID": "HorseJumps",
@@ -10264,7 +10275,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 16701
+      "UsersEstimate": 16702
     },
     {
       "ID": "Money",
@@ -10272,7 +10283,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 23294
+      "UsersEstimate": 23295
     },
     {
       "ID": "NumBeehives",
@@ -10288,7 +10299,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 17580
+      "UsersEstimate": 17581
     },
     {
       "ID": "NumPlaceables",
@@ -10296,7 +10307,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 19338
+      "UsersEstimate": 19339
     },
     {
       "ID": "NumProductionPoints",
@@ -10328,7 +10339,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12306
+      "UsersEstimate": 12307
     },
     {
       "ID": "PlayTime",
@@ -10336,7 +10347,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 25931
+      "UsersEstimate": 25932
     },
     {
       "ID": "Sow",
@@ -10352,7 +10363,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27689
+      "UsersEstimate": 27690
     },
     {
       "ID": "Stones",
@@ -10384,7 +10395,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11427
+      "UsersEstimate": 11428
     },
     {
       "ID": "VehicleRepair",
@@ -10407,15 +10418,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 43951,
+      "Progressed": 43952,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-06-11T20:59:06.8466399+00:00",
-  "LastChanged_Achievements": "2023-06-12T07:06:25.1241505+00:00",
+  "LastChanged": "2023-06-12T08:00:54.3338334+00:00",
+  "LastChanged_Achievements": "2023-06-12T08:07:35.345035+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.5023398+00:00",
-  "LastUpdate_Ratings": "2023-06-12T06:59:59.4881065+00:00",
-  "LastUpdate_Achievements": "2023-06-12T07:06:25.1241964+00:00"
+  "LastUpdate_Ratings": "2023-06-12T08:00:54.3338343+00:00",
+  "LastUpdate_Achievements": "2023-06-12T08:07:35.3451092+00:00"
 }

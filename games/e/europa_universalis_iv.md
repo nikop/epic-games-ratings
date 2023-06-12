@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,874 |
-| That's a Grand Army | 8.00% | ~4,332 |
-| That is mine! | 8.00% | ~4,332 |
-| Victorious! | 8.00% | ~4,332 |
-| Brothers in Arms | 6.00% | ~3,249 |
-| That's a Grand Navy | 6.00% | ~3,249 |
-| Seriously?! | 6.00% | ~3,249 |
+| Until death do us apart | 9.00% | ~4,875 |
+| That's a Grand Army | 8.00% | ~4,333 |
+| That is mine! | 8.00% | ~4,333 |
+| Victorious! | 8.00% | ~4,333 |
+| Brothers in Arms | 6.00% | ~3,250 |
+| That's a Grand Navy | 6.00% | ~3,250 |
+| Seriously?! | 6.00% | ~3,250 |
 | For the Glory | 5.00% | ~2,708 |
-| Cold War | 4.00% | ~2,166 |
-| True Catholic | 4.00% | ~2,166 |
-| Defender of the Faith | 3.00% | ~1,624 |
-| It's all about the money | 3.00% | ~1,624 |
-| Respected | 3.00% | ~1,624 |
-| Truly Divine Ruler | 3.00% | ~1,624 |
+| Cold War | 4.00% | ~2,167 |
+| True Catholic | 4.00% | ~2,167 |
+| Defender of the Faith | 3.00% | ~1,625 |
+| It's all about the money | 3.00% | ~1,625 |
+| Respected | 3.00% | ~1,625 |
+| Truly Divine Ruler | 3.00% | ~1,625 |
 | Agressive Expander | 2.00% | ~1,083 |
 | Blockader | 2.00% | ~1,083 |
 | Combined Arms | 2.00% | ~1,083 |
@@ -39,9 +39,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~542 |
 | The Five Colonies | 1.00% | ~542 |
 | This navy can take it all | 1.00% | ~542 |
-| The Emperors new clothes | 0.90% | ~487 |
-| Isn't this the way to India? | 0.90% | ~487 |
-| Market Control | 0.90% | ~487 |
+| The Emperors new clothes | 0.90% | ~488 |
+| Isn't this the way to India? | 0.90% | ~488 |
+| Market Control | 0.90% | ~488 |
 | Down Under | 0.80% | ~433 |
 | Trustworthy | 0.70% | ~379 |
 | All belongs to Mother Russia | 0.60% | ~325 |
@@ -69,19 +69,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~217 |
 | Tear Down This Wall | 0.40% | ~217 |
 | The Continuation of Diplomacy | 0.40% | ~217 |
-| A Decent Reserve | 0.30% | ~162 |
-| A Pile of Gold | 0.30% | ~162 |
-| Grand Duchy | 0.30% | ~162 |
-| Italian Ambition | 0.30% | ~162 |
-| Multiculturalism | 0.30% | ~162 |
-| No Pirates in my Caribbean | 0.30% | ~162 |
-| Not so sad a state... | 0.30% | ~162 |
-| The Chrysanthemum Throne | 0.30% | ~162 |
-| Three Trivial Tributary Tribes | 0.30% | ~162 |
-| Traditional Player | 0.30% | ~162 |
-| Vasa or Wettin? | 0.30% | ~162 |
-| Wonderful | 0.30% | ~162 |
-| World Discoverer | 0.30% | ~162 |
+| A Decent Reserve | 0.30% | ~163 |
+| A Pile of Gold | 0.30% | ~163 |
+| Grand Duchy | 0.30% | ~163 |
+| Italian Ambition | 0.30% | ~163 |
+| Multiculturalism | 0.30% | ~163 |
+| No Pirates in my Caribbean | 0.30% | ~163 |
+| Not so sad a state... | 0.30% | ~163 |
+| The Chrysanthemum Throne | 0.30% | ~163 |
+| Three Trivial Tributary Tribes | 0.30% | ~163 |
+| Traditional Player | 0.30% | ~163 |
+| Vasa or Wettin? | 0.30% | ~163 |
+| Wonderful | 0.30% | ~163 |
+| World Discoverer | 0.30% | ~163 |
 | A Protected Market | 0.20% | ~108 |
 | AAA Credit | 0.20% | ~108 |
 | An early Reich | 0.20% | ~108 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,150 (Ranked 78)  
+Progressed: 54,167 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 52,837 | 0 |
 | 2023-06-10 | 53,460 | 0 |
 | 2023-06-11 | 54,074 | 0 |
-| 2023-06-12 | 54,150 | 0 |
+| 2023-06-12 | 54,167 | 0 |
 ## Awards
 Max (Educational): 5,381  (Ranked 61)  
 Sum: 44,439 (Ranked 27)  

@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 427,
+  "EOS_Progressed": 428,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -795,6 +795,11 @@
       "Time": "2023-06-11T19:05:22.9303892+00:00",
       "NumProgressed": 427,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T08:07:19.0147529+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -852,9 +857,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "Chapter4",
@@ -886,7 +891,7 @@
       "Name": "Good as Fish",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Chapter8",
@@ -972,9 +977,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 154
     },
     {
       "ID": "Memories",
@@ -1093,14 +1098,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 427,
+      "Progressed": 428,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-12T07:06:10.751858+00:00",
+  "LastChanged_Achievements": "2023-06-12T08:07:19.0147523+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-12T06:58:05.0016285+00:00",
-  "LastUpdate_Achievements": "2023-06-12T07:06:10.7518829+00:00"
+  "LastUpdate_Ratings": "2023-06-12T07:58:24.6111493+00:00",
+  "LastUpdate_Achievements": "2023-06-12T08:07:19.0147856+00:00"
 }

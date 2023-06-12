@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2693,
+  "EOS_Progressed": 2694,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3281,6 +3281,11 @@
       "Time": "2023-06-12T07:06:25.7259067+00:00",
       "NumProgressed": 2693,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-12T08:07:36.1845282+00:00",
+      "NumProgressed": 2694,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3332,7 +3337,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -3348,7 +3353,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -3412,7 +3417,7 @@
       "Name": "Gunslinger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -3428,7 +3433,7 @@
       "Name": "Sharpshooter",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -3460,7 +3465,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3492,7 +3497,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -3859,13 +3864,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2644,
+      "Progressed": 2645,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2693,
+      "Progressed": 2694,
       "Completed": 2
     }
   ],
@@ -3873,8 +3878,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-09T21:00:02.9470468+00:00",
-  "LastChanged_Achievements": "2023-06-12T07:06:25.7259062+00:00",
+  "LastChanged_Achievements": "2023-06-12T08:07:36.1845255+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-12T07:00:52.2728595+00:00",
-  "LastUpdate_Achievements": "2023-06-12T07:06:25.7259727+00:00"
+  "LastUpdate_Ratings": "2023-06-12T08:02:01.6840995+00:00",
+  "LastUpdate_Achievements": "2023-06-12T08:07:36.1846424+00:00"
 }

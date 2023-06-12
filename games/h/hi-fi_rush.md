@@ -1,37 +1,37 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.90 (Ranked 9)  
+Rating: 4.90 (Ranked 8)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 79.00% | ~2,421 |
-| Feeling the beat! | 79.00% | ~2,421 |
-| You can pet the cat! | 74.00% | ~2,268 |
+| Start with a bang! | 79.00% | ~2,422 |
+| Feeling the beat! | 79.00% | ~2,422 |
+| You can pet the cat! | 74.00% | ~2,269 |
 | Who put gears in there? | 67.00% | ~2,054 |
-| Cream of the Crop | 62.00% | ~1,900 |
+| Cream of the Crop | 62.00% | ~1,901 |
 | Thanks for the free chip, Peppermint! | 61.00% | ~1,870 |
-| You got this, Peppermint? | 56.00% | ~1,716 |
-| Perfect Parry | 54.00% | ~1,655 |
-| Alright, that felt AWESOME! | 53.00% | ~1,624 |
+| You got this, Peppermint? | 56.00% | ~1,717 |
+| Perfect Parry | 54.00% | ~1,656 |
+| Alright, that felt AWESOME! | 53.00% | ~1,625 |
 | I play my own way! | 49.00% | ~1,502 |
 | This will cost you big time | 47.00% | ~1,441 |
 | Uh, they were broken when I got here | 46.00% | ~1,410 |
 | Z-shielding's got nothing on us! | 44.00% | ~1,349 |
 | Kissing the sky! | 43.00% | ~1,318 |
 | Does that say weakpoint? | 41.00% | ~1,257 |
-| Whoa! There's ANOTHER health bar!? | 39.00% | ~1,195 |
+| Whoa! There's ANOTHER health bar!? | 39.00% | ~1,196 |
 | The Negotiator | 38.00% | ~1,165 |
-| You must like calling me in, Chai | 33.00% | ~1,011 |
-| Out in a puff of smoke | 33.00% | ~1,011 |
+| You must like calling me in, Chai | 33.00% | ~1,012 |
+| Out in a puff of smoke | 33.00% | ~1,012 |
 | Headliner | 32.00% | ~981 |
 | Time to pay up! | 29.00% | ~889 |
 | Perfecter Parry-er! | 29.00% | ~889 |
 | Who's the boss now? | 28.00% | ~858 |
-| I have to read these things? | 28.00% | ~858 |
+| I have to read these things? | 27.00% | ~828 |
 | I look cool. But I can look COOLER. | 27.00% | ~828 |
 | There's such a thing as TOO helpful | 21.00% | ~644 |
-| That's a lot of junk metal… | 19.00% | ~582 |
+| That's a lot of junk metal… | 19.00% | ~583 |
 | Beat-hit mania | 18.00% | ~552 |
 | Well that was a rush! | 17.00% | ~521 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~521 |
@@ -67,7 +67,7 @@ Rating: 4.90 (Ranked 9)
 | Didn't skip a beat! | 0.30% | ~9 |
 | What a journey it was... | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,065 (Ranked 139)  
+Progressed: 3,066 (Ranked 139)  
 Completed: 4 (0.13%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 4 (0.13%) (Ranked 162)
 | 2023-06-09 | 2,936 | 4 |
 | 2023-06-10 | 3,015 | 4 |
 | 2023-06-11 | 3,058 | 4 |
-| 2023-06-12 | 3,065 | 4 |
+| 2023-06-12 | 3,066 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

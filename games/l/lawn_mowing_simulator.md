@@ -6,27 +6,27 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 81.00% | ~507,905 |
-| Every story has a beginning | 36.00% | ~225,735 |
-| The first of many | 32.00% | ~200,654 |
-| Positive word of mouth | 18.00% | ~112,868 |
-| Lawn in the U.S.A. | 15.00% | ~94,056 |
-| Blade Runner | 9.00% | ~56,434 |
-| Credible | 7.00% | ~43,893 |
+| The dream begins | 81.00% | ~507,915 |
+| Every story has a beginning | 36.00% | ~225,740 |
+| The first of many | 32.00% | ~200,658 |
+| Positive word of mouth | 18.00% | ~112,870 |
+| Lawn in the U.S.A. | 15.00% | ~94,058 |
+| Blade Runner | 9.00% | ~56,435 |
+| Credible | 7.00% | ~43,894 |
 | Teamwork makes the dream work | 6.00% | ~37,623 |
 | Bigger and better | 4.00% | ~25,082 |
 | Aggressive expansion | 4.00% | ~25,082 |
-| Where there's muck there's brass | 3.00% | ~18,811 |
-| Size isn't everything | 3.00% | ~18,811 |
-| Close shave | 3.00% | ~18,811 |
-| Established | 3.00% | ~18,811 |
+| Where there's muck there's brass | 3.00% | ~18,812 |
+| Size isn't everything | 3.00% | ~18,812 |
+| Close shave | 3.00% | ~18,812 |
+| Established | 3.00% | ~18,812 |
 | Mighty Mowing Park Ranger | 2.00% | ~12,541 |
 | Every good deed… | 2.00% | ~12,541 |
 | Leaner and meaner | 2.00% | ~12,541 |
 | First step on the ladder | 2.00% | ~12,541 |
 | Trusted | 2.00% | ~12,541 |
-| Fighting on all fronts | 1.00% | ~6,270 |
-| The top of the mountain | 1.00% | ~6,270 |
+| Fighting on all fronts | 1.00% | ~6,271 |
+| The top of the mountain | 1.00% | ~6,271 |
 | Earn your stripes | 0.90% | ~5,643 |
 | Lawn & Order | 0.90% | ~5,643 |
 | Jack of all trades | 0.90% | ~5,643 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~627 |
 | Mo mowers, mo problems | 0.10% | ~627 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 627,043 (Ranked 21)  
+Progressed: 627,055 (Ranked 21)  
 Completed: 12 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 12 (0.00%) (Ranked 216)
 | 2023-06-09 | 625,828 | 12 |
 | 2023-06-10 | 626,369 | 12 |
 | 2023-06-11 | 626,935 | 12 |
-| 2023-06-12 | 627,043 | 12 |
+| 2023-06-12 | 627,055 | 12 |
 ## Awards
 Max (Quickly Understood Controls): 180  (Ranked 273)  
 Sum: 964 (Ranked 233)  
