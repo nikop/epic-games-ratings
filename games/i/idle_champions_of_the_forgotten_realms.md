@@ -132,6 +132,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Destruction | 0.20% | ~114 |
 | Speeds of Destruction | 0.20% | ~114 |
 | The Evacuation of Waterdeep | 0.20% | ~114 |
+| Flapjacks and Waffles | 0.20% | ~114 |
 | On the Hunt | 0.20% | ~181 |
 | Vecna Lives! | 0.20% | ~114 |
 | Overwhelmed with Knowledge | 0.20% | ~114 |
@@ -247,6 +248,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Smooth Talkers | 0.20% | ~114 |
 | An Illithid Undertaking | 0.20% | ~114 |
 | An Illithid Ambush | 0.20% | ~114 |
+| An Owlbear of an Undertaking | 0.20% | ~114 |
 | Déjà Vu | 0.20% | ~114 |
 | Wait, What? | 0.20% | ~114 |
 | Déjà Vu All Over Again | 0.20% | ~114 |
@@ -341,7 +343,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pincushion Party | 0.10% | ~57 |
 | G. O. A. T. | 0.10% | ~57 |
 | Strength of Character | 0.10% | ~57 |
-| Flapjacks and Waffles | 0.10% | ~57 |
 | A Whale of a Time | 0.10% | ~57 |
 | Wagon Train | 0.10% | ~91 |
 | Taking Responsibility | 0.10% | ~91 |
@@ -434,7 +435,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ettercap Swarm | 0.10% | ~57 |
 | Relay Race | 0.10% | ~91 |
 | Misty Undermountain | 0.10% | ~57 |
-| An Owlbear of an Undertaking | 0.10% | ~57 |
 | Ireena von Zarovich | 0.10% | ~57 |
 | The Path of Trials | 0.10% | ~57 |
 | Zapper Overload | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,540 (Ranked 64)  
+Progressed: 90,546 (Ranked 64)  
 Completed: 1,929 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 1,929 (2.13%) (Ranked 65)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
-| 2023-06-12 | 90,540 | 1,929 |
+| 2023-06-12 | 90,546 | 1,929 |
 ## Awards
 Max (Diverse Characters): 4,934  (Ranked 64)  
 Sum: 30,083 (Ranked 37)  

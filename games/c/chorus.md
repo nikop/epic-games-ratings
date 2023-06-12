@@ -6,33 +6,33 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 84.00% | ~807 |
+| Another Life | 85.00% | ~818 |
 | Voices from the Past | 78.00% | ~750 |
 | Space Traveler | 78.00% | ~750 |
-| Demigod | 76.00% | ~730 |
-| The Great Destroyer | 74.00% | ~711 |
-| Shields Down | 73.00% | ~702 |
-| Safe Home | 68.00% | ~653 |
-| Helping Hand | 67.00% | ~644 |
-| Paragon | 63.00% | ~605 |
+| Demigod | 76.00% | ~731 |
+| The Great Destroyer | 74.00% | ~712 |
+| Shields Down | 72.00% | ~693 |
+| Safe Home | 68.00% | ~654 |
+| Helping Hand | 67.00% | ~645 |
+| Paragon | 63.00% | ~606 |
 | Old Days Born Anew | 62.00% | ~596 |
 | Full Arsenal | 57.00% | ~548 |
 | Controlled Demolition | 55.00% | ~529 |
-| Payback | 53.00% | ~509 |
-| Huntress | 53.00% | ~509 |
+| Payback | 53.00% | ~510 |
+| Huntress | 53.00% | ~510 |
 | Born to Drift | 52.00% | ~500 |
-| Relentless | 48.00% | ~461 |
-| The Path Forward | 45.00% | ~432 |
+| Relentless | 48.00% | ~462 |
+| The Path Forward | 45.00% | ~433 |
 | Disruption | 44.00% | ~423 |
 | Phoenix | 44.00% | ~423 |
 | Cult Slayer | 41.00% | ~394 |
-| Origin | 40.00% | ~384 |
+| Origin | 40.00% | ~385 |
 | It Was An Accident | 39.00% | ~375 |
-| Set in Motion | 38.00% | ~365 |
+| Set in Motion | 38.00% | ~366 |
 | In the Eye of the Storm | 37.00% | ~356 |
 | The Crimson Void | 34.00% | ~327 |
 | The Nameless Dread | 33.00% | ~317 |
-| Time to Spear | 30.00% | ~288 |
+| Time to Spear | 30.00% | ~289 |
 | Mastery of Weapons | 29.00% | ~279 |
 | Disciple | 29.00% | ~279 |
 | Two Birds | 25.00% | ~240 |
@@ -47,10 +47,10 @@ Number of Ratings: 58  (23.09.2022)
 | Rise as One | 18.00% | ~173 |
 | Showoff | 15.00% | ~144 |
 | Radiation Area | 10.00% | ~96 |
-| Overcharged | 9.00% | ~86 |
+| Overcharged | 9.00% | ~87 |
 | At Least You Tried | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 961 (Ranked 180)  
+Progressed: 962 (Ranked 180)  
 Completed: 11 (1.14%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 11 (1.14%) (Ranked 85)
 | 2023-06-09 | 946 | 11 |
 | 2023-06-10 | 953 | 11 |
 | 2023-06-11 | 961 | 11 |
+| 2023-06-12 | 962 | 11 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 442)  
 Sum: 32 (Ranked 465)  

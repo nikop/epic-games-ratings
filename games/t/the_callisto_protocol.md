@@ -5,17 +5,17 @@ Rating: 4.18 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,268 |
-| The Outer Way | 13.00% | ~1,965 |
-| Desperate Times | 13.00% | ~1,965 |
-| Paper Jams | 11.00% | ~1,663 |
+| Flesh Wound | 15.00% | ~2,269 |
+| The Outer Way | 13.00% | ~1,966 |
+| Desperate Times | 13.00% | ~1,966 |
+| Paper Jams | 11.00% | ~1,664 |
 | Chew 'Em Up | 9.00% | ~1,361 |
 | Reforged | 9.00% | ~1,361 |
 | Workplace Hazard | 8.00% | ~1,210 |
 | If the SHU Fits... | 8.00% | ~1,210 |
-| Giving Back | 7.00% | ~1,058 |
-| Get a Grip | 7.00% | ~1,058 |
-| Without A Paddle | 7.00% | ~1,058 |
+| Giving Back | 7.00% | ~1,059 |
+| Get a Grip | 7.00% | ~1,059 |
+| Without A Paddle | 7.00% | ~1,059 |
 | Two Heads Are Better Than One | 5.00% | ~756 |
 | Terminated | 5.00% | ~756 |
 | Float Like A Butterfly | 5.00% | ~756 |
@@ -28,7 +28,7 @@ Rating: 4.18 (Ranked 843)
 | Instigator | 4.00% | ~122 |
 | Big Game Hunter | 4.00% | ~122 |
 | The Commonality | 3.00% | ~454 |
-| Bear Trap | 3.00% | ~91 |
+| Bear Trap | 3.00% | ~92 |
 | I Do Belong Here | 2.00% | ~302 |
 | In Striking Distance | 2.00% | ~302 |
 | Mugshot | 2.00% | ~302 |
@@ -39,14 +39,14 @@ Rating: 4.18 (Ranked 843)
 | Recidivist | 0.70% | ~21 |
 | Lifer | 0.70% | ~21 |
 | Armed to the Teeth | 0.30% | ~9 |
-| The Protocol is About Life | 0.20% | ~30 |
+| The Protocol is About Life | 0.30% | ~45 |
 | It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~3 |
 | You Belong Here | 0.10% | ~3 |
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,119 (Ranked 104)  
+Progressed: 15,124 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 54 (0.36%) (Ranked 124)
 | 2023-06-09 | 14,877 | 54 |
 | 2023-06-10 | 14,984 | 54 |
 | 2023-06-11 | 15,076 | 54 |
-| 2023-06-12 | 15,119 | 54 |
+| 2023-06-12 | 15,124 | 54 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
 Sum: 306 (Ranked 328)  

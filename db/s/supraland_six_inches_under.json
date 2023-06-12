@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -1338,9 +1338,9 @@
       "ID": "Win",
       "SetID": "5lok9mm",
       "Name": "Win",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1579
     }
   ],
   "AchievementSets": [
@@ -1354,8 +1354,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-06-12T16:05:58.402786+00:00",
+  "LastChanged_Achievements": "2023-06-12T17:07:04.6386243+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:31.3024022+00:00",
-  "LastUpdate_Ratings": "2023-06-12T15:59:41.2679505+00:00",
-  "LastUpdate_Achievements": "2023-06-12T16:05:58.4028281+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:00:24.842967+00:00",
+  "LastUpdate_Achievements": "2023-06-12T17:07:04.6386651+00:00"
 }

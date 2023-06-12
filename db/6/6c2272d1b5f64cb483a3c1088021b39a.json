@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1290,9 +1290,9 @@
       "ID": "glitter_of_gold_1",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 1",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 23
     },
     {
       "ID": "glitter_of_gold_2",
@@ -1554,9 +1554,9 @@
       "ID": "tomb_raider_1",
       "SetID": "53c1p3k",
       "Name": "Tomb Raider 1",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "tomb_raider_2",
@@ -1585,8 +1585,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-12T16:03:25.0643017+00:00",
+  "LastChanged_Achievements": "2023-06-12T17:04:05.4555367+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-12T15:56:55.2741511+00:00",
-  "LastUpdate_Achievements": "2023-06-12T16:03:25.0643685+00:00"
+  "LastUpdate_Ratings": "2023-06-12T16:57:14.3642575+00:00",
+  "LastUpdate_Achievements": "2023-06-12T17:04:05.4556037+00:00"
 }

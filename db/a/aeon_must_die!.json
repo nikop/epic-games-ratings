@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 2767,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3496,
+  "EOS_Progressed": 3498,
   "EOS_Completed": -29,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.83,
   "EosHistory": [
@@ -221,6 +221,11 @@
       "Time": "2023-06-12T15:05:31.3785196+00:00",
       "NumProgressed": 3496,
       "NumCompleted": -29
+    },
+    {
+      "Time": "2023-06-12T17:06:40.3218833+00:00",
+      "NumProgressed": 3498,
+      "NumCompleted": -29
     }
   ],
   "TotalAchievements": 35,
@@ -232,7 +237,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "10",
@@ -304,7 +309,7 @@
       "Name": "Rightfully Yours",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "19",
@@ -368,7 +373,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "26",
@@ -440,7 +445,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "34",
@@ -511,7 +516,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3496,
+      "Progressed": 3498,
       "Completed": -29
     }
   ],
@@ -519,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-06-12T16:05:37.3567698+00:00",
+  "LastChanged_Achievements": "2023-06-12T17:06:40.3218827+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:15.8710909+00:00",
-  "LastUpdate_Ratings": "2023-06-12T15:57:08.7374694+00:00",
-  "LastUpdate_Achievements": "2023-06-12T16:05:37.3567912+00:00"
+  "LastUpdate_Ratings": "2023-06-12T16:57:31.4066163+00:00",
+  "LastUpdate_Achievements": "2023-06-12T17:06:40.3219092+00:00"
 }

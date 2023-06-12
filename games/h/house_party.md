@@ -37,6 +37,7 @@ Number of Ratings: 177  (23.09.2022)
 | Now It's a Party! | 0.20% | ~11 |
 | Rachael | 0.20% | ~11 |
 | The Muse: Derek | 0.20% | ~11 |
+| The Elder Brahs | 0.20% | ~11 |
 | Good Ol' Days | 0.20% | ~11 |
 | Te Amo Lety | 0.20% | ~11 |
 | Against All Odds | 0.10% | ~6 |
@@ -68,7 +69,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Crush(es) | 0.10% | ~6 |
 | La Coochadora | 0.10% | ~6 |
 | Derezzed | 0.10% | ~6 |
-| The Elder Brahs | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 | Snapped | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |

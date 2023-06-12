@@ -20,6 +20,7 @@
 | Handyman | 69.00% | ~11 |
 | Guardian | 63.00% | ~10 |
 | Nosebleeder | 63.00% | ~10 |
+| Trader | 63.00% | ~10 |
 | Weapon Boost | 63.00% | ~10 |
 | Flying Kobold Killer | 56.00% | ~9 |
 | Youth Magnet | 56.00% | ~9 |
@@ -29,7 +30,6 @@
 | Kind Adventurer | 56.00% | ~9 |
 | Mermaid Killer | 56.00% | ~9 |
 | Face Slapper | 56.00% | ~9 |
-| Trader | 56.00% | ~9 |
 | Cave Master | 50.00% | ~8 |
 | Master Artificer | 44.00% | ~7 |
 | Master Cook | 31.00% | ~5 |

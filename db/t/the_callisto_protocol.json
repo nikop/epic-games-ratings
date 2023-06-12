@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -614,9 +614,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15119,
+  "EOS_Progressed": 15124,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3679,6 +3679,11 @@
       "Time": "2023-06-12T16:04:11.1105407+00:00",
       "NumProgressed": 15119,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-12T17:04:59.3266512+00:00",
+      "NumProgressed": 15124,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3706,7 +3711,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3722,7 +3727,7 @@
       "Name": "Flesh Wound",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3760,9 +3765,9 @@
       "ID": "FINISH_GAME_HARD",
       "SetID": "4hj6d86",
       "Name": "The Protocol is About Life",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "FINISH_GAME_HARDCORE",
@@ -3794,7 +3799,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3866,7 +3871,7 @@
       "Name": "Paper Jams",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3882,7 +3887,7 @@
       "Name": "The Outer Way",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "STORY_ESCAPE",
@@ -3898,7 +3903,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "STORY_HANGAR",
@@ -3922,7 +3927,7 @@
       "Name": "Desperate Times",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3978,7 +3983,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -4009,13 +4014,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15119,
+      "Progressed": 15124,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3045,
+      "Progressed": 3050,
       "Completed": 29
     }
   ],
@@ -4023,8 +4028,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T23:58:33.7302071+00:00",
-  "LastChanged_Achievements": "2023-06-12T16:04:11.1105404+00:00",
+  "LastChanged_Achievements": "2023-06-12T17:04:59.3266507+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-12T15:57:47.2126865+00:00",
-  "LastUpdate_Achievements": "2023-06-12T16:04:11.1105803+00:00"
+  "LastUpdate_Ratings": "2023-06-12T16:58:12.2297112+00:00",
+  "LastUpdate_Achievements": "2023-06-12T17:04:59.3267008+00:00"
 }

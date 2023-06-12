@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 54.00% | ~59 |
-| Aspairagus | 54.00% | ~32 |
-| Survivor | 47.00% | ~28 |
+| Seeds of War | 54.00% | ~60 |
+| Aspairagus | 53.00% | ~32 |
+| Survivor | 46.00% | ~28 |
 | First Blood | 39.00% | ~43 |
-| Early Survivor | 38.00% | ~22 |
-| Triple Kill | 37.00% | ~40 |
-| No Diggity | 34.00% | ~20 |
-| No Asperascope | 32.00% | ~35 |
-| Cornivore | 32.00% | ~35 |
+| Early Survivor | 37.00% | ~23 |
+| Triple Kill | 36.00% | ~40 |
+| No Diggity | 33.00% | ~20 |
+| No Asperascope | 32.00% | ~36 |
+| Cornivore | 32.00% | ~36 |
 | I Believe I Can Fly | 31.00% | ~34 |
-| Amateur Survivor | 28.00% | ~17 |
-| Bouncemato | 24.00% | ~14 |
-| This Is My Boomstick | 21.00% | ~12 |
-| Quick-Draw Pod | 19.00% | ~11 |
-| Professional Survivor | 19.00% | ~11 |
+| Amateur Survivor | 27.00% | ~16 |
+| Bouncemato | 23.00% | ~14 |
+| This Is My Boomstick | 21.00% | ~13 |
+| Quick-Draw Pod | 19.00% | ~12 |
+| Professional Survivor | 19.00% | ~12 |
 | 10K | 18.00% | ~20 |
 | 15K | 17.00% | ~19 |
-| Grave Digger | 16.00% | ~9 |
-| Drinking Problem | 15.00% | ~16 |
+| Grave Digger | 15.00% | ~9 |
+| Drinking Problem | 14.00% | ~16 |
 | Oh My Gourd | 10.00% | ~6 |
 | Summers Here | 10.00% | ~6 |
 | Pyromaniac | 9.00% | ~5 |
@@ -32,12 +32,12 @@
 | Expert Survivor | 7.00% | ~4 |
 | Quit Horsin' Around | 6.00% | ~7 |
 | Pork Chop Express | 6.00% | ~7 |
-| Carrocketeer | 6.00% | ~7 |
-| Master Survivor | 6.00% | ~4 |
 | Quadsparagus | 6.00% | ~4 |
-| Bring Home The Bacon | 5.00% | ~5 |
-| Fresh Pancake | 5.00% | ~5 |
-| Getting Started | 5.00% | ~5 |
+| Bring Home The Bacon | 5.00% | ~6 |
+| Fresh Pancake | 5.00% | ~6 |
+| Getting Started | 5.00% | ~6 |
+| Carrocketeer | 5.00% | ~6 |
+| Master Survivor | 5.00% | ~3 |
 | Heart Breaker | 4.00% | ~2 |
 | Chick Magnet | 3.00% | ~3 |
 | Early Bird | 3.00% | ~3 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109 (Ranked 273)  
+Progressed: 111 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 100 | 0 |
 | 2023-06-10 | 104 | 0 |
 | 2023-06-11 | 107 | 0 |
-| 2023-06-12 | 109 | 0 |
+| 2023-06-12 | 111 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

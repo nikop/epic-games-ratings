@@ -5,25 +5,25 @@ Rating: 4.52 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~815 |
-| Confirming Suspicions | 24.00% | ~652 |
-| The Kraken Wakes | 20.00% | ~543 |
-| It's Starting to Crack | 17.00% | ~462 |
-| Lord of War | 15.00% | ~407 |
-| Change the Channel | 15.00% | ~407 |
-| Resourceful | 13.00% | ~353 |
-| Taking it back | 12.00% | ~326 |
-| Organ Grinder | 11.00% | ~299 |
-| Target America | 11.00% | ~299 |
+| Meeting Resistance | 30.00% | ~817 |
+| Confirming Suspicions | 24.00% | ~654 |
+| The Kraken Wakes | 20.00% | ~545 |
+| It's Starting to Crack | 17.00% | ~463 |
+| Lord of War | 15.00% | ~409 |
+| Change the Channel | 15.00% | ~409 |
+| Resourceful | 13.00% | ~354 |
+| Taking it back | 12.00% | ~327 |
+| Organ Grinder | 11.00% | ~300 |
+| Target America | 11.00% | ~300 |
 | As Quiet as a Mouse | 10.00% | ~272 |
-| Liberté | 9.00% | ~244 |
-| The Kraken Sleeps | 9.00% | ~244 |
-| Enemy at the Gates | 8.00% | ~217 |
-| Just a Flesh Wound | 8.00% | ~217 |
-| Gunslinger | 8.00% | ~217 |
-| Sharpshooter | 8.00% | ~217 |
-| Explosive Efficiency | 8.00% | ~217 |
-| Opposing Force | 7.00% | ~190 |
+| Liberté | 9.00% | ~245 |
+| The Kraken Sleeps | 9.00% | ~245 |
+| Enemy at the Gates | 8.00% | ~218 |
+| Just a Flesh Wound | 8.00% | ~218 |
+| Gunslinger | 8.00% | ~218 |
+| Sharpshooter | 8.00% | ~218 |
+| Explosive Efficiency | 8.00% | ~218 |
+| Opposing Force | 7.00% | ~191 |
 | Fields of Glory | 6.00% | ~163 |
 | Die Nussknacker Sweet! | 6.00% | ~163 |
 | Der Geist | 6.00% | ~163 |
@@ -35,8 +35,8 @@ Rating: 4.52 (Ranked 514)
 | Skirmisher | 5.00% | ~136 |
 | Set Europe Ablaze | 5.00% | ~136 |
 | Precision Is Key | 4.00% | ~109 |
-| Rigged to Blow | 3.00% | ~81 |
-| My Little Friend | 3.00% | ~81 |
+| Rigged to Blow | 3.00% | ~82 |
+| My Little Friend | 3.00% | ~82 |
 | The Long Game | 2.00% | ~54 |
 | It'll Buff Right Out | 2.00% | ~54 |
 | Strategist | 1.00% | ~27 |
@@ -77,7 +77,7 @@ Rating: 4.52 (Ranked 514)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,716 (Ranked 145)  
+Progressed: 2,724 (Ranked 145)  
 Completed: 2 (0.07%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.07%) (Ranked 177)
 | 2023-06-09 | 2,482 | 2 |
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
-| 2023-06-12 | 2,716 | 2 |
+| 2023-06-12 | 2,724 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 34.00% | ~426 |
 | Me and My Familiar | 32.00% | ~401 |
-| This Too Shall Pass | 27.00% | ~338 |
+| This Too Shall Pass | 27.00% | ~339 |
 | Passing Shadow | 26.00% | ~326 |
 | Cutthroat Competitors | 26.00% | ~326 |
 | How Romantic! | 24.00% | ~301 |
@@ -54,16 +54,16 @@ Number of Ratings: 45  (23.09.2022)
 | Symbiosis | 2.00% | ~25 |
 | Tempest | 2.00% | ~25 |
 | Lochias's Hunger | 2.00% | ~25 |
+| A Lowly Crust of Beef | 1.00% | ~13 |
 | Solid as the Hills | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |
 | Thwack! | 1.00% | ~13 |
 | A Temperamental Shrub | 1.00% | ~13 |
-| A Lowly Crust of Beef | 0.90% | ~11 |
 | Overwhelming Monstrosity | 0.70% | ~9 |
 | Peacemaker | 0.50% | ~6 |
 | We Call That Mortificient! | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,253 (Ranked 166)  
+Progressed: 1,254 (Ranked 166)  
 Completed: 4 (0.32%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 4 (0.32%) (Ranked 127)
 | 2023-06-08 | 1,247 | 4 |
 | 2023-06-09 | 1,248 | 4 |
 | 2023-06-10 | 1,252 | 4 |
-| 2023-06-12 | 1,253 | 4 |
+| 2023-06-12 | 1,254 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 459)  
 Sum: 27 (Ranked 470)  

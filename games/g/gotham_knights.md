@@ -35,7 +35,7 @@ Rating: 4.17 (Ranked 851)
 | Seeking Asylum | 1.00% | ~647 |
 | Gotham Knight | 1.00% | ~647 |
 | Gotham City Confidential | 1.00% | ~647 |
-| Drone You Out | 0.90% | ~582 |
+| Drone You Out | 0.90% | ~583 |
 | Out of Their League | 0.80% | ~518 |
 | Solid Alibi | 0.80% | ~518 |
 | Fusion Expert | 0.70% | ~453 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 851)
 | A Sophisticated Mallet | 0.10% | ~35 |
 | Confronting Your Demon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,721 (Ranked 70)  
+Progressed: 64,725 (Ranked 70)  
 Completed: 95 (0.15%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,10 +120,10 @@ Completed: 95 (0.15%) (Ranked 157)
 | 2023-06-09 | 64,309 | 95 |
 | 2023-06-10 | 64,465 | 95 |
 | 2023-06-11 | 64,650 | 95 |
-| 2023-06-12 | 64,721 | 95 |
+| 2023-06-12 | 64,725 | 95 |
 ## Awards
 Max (Great Boss Battles): 2,325  (Ranked 97)  
-Sum: 3,844 (Ranked 137)  
+Sum: 3,845 (Ranked 137)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -133,7 +133,7 @@ Diff (max vs sum): -40
 | This game is Relaxing | 197 |
 | This game has Amazing Characters | 194 |
 | This game has Diverse Characters | 187 |
-| This game has Amazing Storytelling | 183 |
+| This game has Amazing Storytelling | 184 |
 | This game is Highly Recommended | 182 |
 | This game is Great for Beginners | 181 |
 | This game is Great for Quick Sessions | 60 |
@@ -251,4 +251,4 @@ Diff (max vs sum): -40
 | 2023-06-09 | 4.17 | 2,313 | 3,821 |
 | 2023-06-10 | 4.18 | 2,317 | 3,830 |
 | 2023-06-11 | 4.17 | 2,321 | 3,838 |
-| 2023-06-12 | 4.17 | 2,325 | 3,844 |
+| 2023-06-12 | 4.17 | 2,325 | 3,845 |

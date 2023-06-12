@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1253,
+  "EOS_Progressed": 1254,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -820,6 +820,11 @@
       "Time": "2023-06-12T02:27:05.5344267+00:00",
       "NumProgressed": 1253,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-12T17:06:45.5189233+00:00",
+      "NumProgressed": 1254,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -885,9 +890,9 @@
       "ID": "achievement_beatGameOnWalkingLunch",
       "SetID": "95dc8p",
       "Name": "A Lowly Crust of Beef",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_catchAllElementalSpiritTypes",
@@ -991,7 +996,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1278,15 +1283,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1253,
+      "Progressed": 1254,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-12T16:05:42.0323393+00:00",
+  "LastChanged_Achievements": "2023-06-12T17:06:45.5189228+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.528783+00:00",
-  "LastUpdate_Ratings": "2023-06-12T16:00:12.2481546+00:00",
-  "LastUpdate_Achievements": "2023-06-12T16:05:42.0323953+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:01:01.3091763+00:00",
+  "LastUpdate_Achievements": "2023-06-12T17:06:45.5189731+00:00"
 }

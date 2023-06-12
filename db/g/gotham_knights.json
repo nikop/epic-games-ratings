@@ -1434,10 +1434,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3844,
       "NumberOfAwardsMax": 2325
+    },
+    {
+      "Time": "2023-06-12T17:00:07.1619467+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3845,
+      "NumberOfAwardsMax": 2325
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3844,
+  "NumberOfAwards": 3845,
   "NumberOfAwardsMax": 2325,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1469,7 +1475,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 183
+      "Count": 184
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1502,9 +1508,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64721,
+  "EOS_Progressed": 64725,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6062,6 +6068,11 @@
       "Time": "2023-06-12T16:05:57.0601217+00:00",
       "NumProgressed": 64721,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-12T17:07:03.1610836+00:00",
+      "NumProgressed": 64725,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6289,7 +6300,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "FREEZE_1",
@@ -6560,22 +6571,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64721,
+      "Progressed": 64725,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35001,
+      "Progressed": 35005,
       "Completed": 2646
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-12T14:00:25.9157802+00:00",
-  "LastChanged_Achievements": "2023-06-12T16:05:57.0601212+00:00",
+  "LastChanged": "2023-06-12T17:00:07.1619465+00:00",
+  "LastChanged_Achievements": "2023-06-12T17:07:03.1610831+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-12T15:59:24.9580529+00:00",
-  "LastUpdate_Achievements": "2023-06-12T16:05:57.0601987+00:00"
+  "LastUpdate_Ratings": "2023-06-12T17:00:07.1619472+00:00",
+  "LastUpdate_Achievements": "2023-06-12T17:07:03.1611662+00:00"
 }

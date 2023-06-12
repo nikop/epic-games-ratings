@@ -4,7 +4,7 @@
   "ProductSlug": "pile-up-b1e2af",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-03-25T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:30.4058035+00:00",
   "LastChanged": "2023-03-31T05:58:30.4058036+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.7650984+00:00",
-  "LastUpdate_Ratings": "2023-06-12T15:57:31.2303704+00:00",
-  "LastUpdate_Achievements": "2023-06-12T16:03:22.261617+00:00"
+  "LastUpdate_Ratings": "2023-06-12T16:57:55.1398743+00:00",
+  "LastUpdate_Achievements": "2023-06-12T17:04:02.0844531+00:00"
 }

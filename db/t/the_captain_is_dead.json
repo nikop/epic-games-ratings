@@ -4,7 +4,7 @@
   "ProductSlug": "the-captain-is-dead-b35c02",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -326,8 +326,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:02.588189+00:00",
-  "LastChanged_Achievements": "2023-06-12T16:03:33.4323777+00:00",
+  "LastChanged_Achievements": "2023-06-12T17:04:15.6238333+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:50.2750004+00:00",
-  "LastUpdate_Ratings": "2023-06-12T15:57:35.4492481+00:00",
-  "LastUpdate_Achievements": "2023-06-12T16:03:33.432396+00:00"
+  "LastUpdate_Ratings": "2023-06-12T16:58:00.4196192+00:00",
+  "LastUpdate_Achievements": "2023-06-12T17:04:15.6238591+00:00"
 }

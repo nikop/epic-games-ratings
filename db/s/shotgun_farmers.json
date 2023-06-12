@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -518,6 +518,11 @@
       "Time": "2023-06-12T05:03:52.76815+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T17:03:54.6617478+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -529,7 +534,7 @@
       "Name": "Bring Home The Bacon",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_all_points_in_chicken_run",
@@ -545,7 +550,7 @@
       "Name": "Fresh Pancake",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_daily_challenge_15",
@@ -585,7 +590,7 @@
       "Name": "Seeds of War",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -599,7 +604,7 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -609,7 +614,7 @@
       "Name": "Getting Started",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_honk_horn",
@@ -817,7 +822,7 @@
       "Name": "No Asperascope",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -839,7 +844,7 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -863,9 +868,9 @@
       "ID": "ach_x_victims_using_rocket_launcher",
       "SetID": "cmg602e",
       "Name": "Carrocketeer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_x_victims_using_shotgun",
@@ -873,7 +878,7 @@
       "Name": "Cornivore",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_all_koth_points",
@@ -903,7 +908,7 @@
       "ID": "ach_hit_player_with_bounce_grenade",
       "SetID": "bf10c8p",
       "Name": "Bouncemato",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -913,7 +918,7 @@
       "Name": "Quick-Draw Pod",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -983,7 +988,7 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -991,17 +996,17 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_waves_30",
@@ -1009,7 +1014,7 @@
       "Name": "Professional Survivor",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_waves_40",
@@ -1023,15 +1028,15 @@
       "ID": "ach_waves_50",
       "SetID": "bf10c8p",
       "Name": "Master Survivor",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -1047,7 +1052,7 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -1073,7 +1078,7 @@
       "Name": "This Is My Boomstick",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_x_victims_using_grenade_launcher",
@@ -1103,7 +1108,7 @@
       "ID": "ach_x_victims_using_shovel",
       "SetID": "bf10c8p",
       "Name": "Grave Digger",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -1120,13 +1125,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 111,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 59,
+      "Progressed": 61,
       "Completed": 2
     }
   ],
@@ -1134,8 +1139,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-12T16:03:16.0145591+00:00",
+  "LastChanged_Achievements": "2023-06-12T17:03:54.6617474+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.5762228+00:00",
-  "LastUpdate_Ratings": "2023-06-12T15:58:10.9606213+00:00",
-  "LastUpdate_Achievements": "2023-06-12T16:03:16.0146354+00:00"
+  "LastUpdate_Ratings": "2023-06-12T16:58:39.1272749+00:00",
+  "LastUpdate_Achievements": "2023-06-12T17:03:54.6618245+00:00"
 }
