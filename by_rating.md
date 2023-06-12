@@ -41,7 +41,7 @@
 | 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 472 | 190 |
 | 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,616 | 42 |
 | 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,488 | 60 |
-| 40 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 337 | 217 |
+| 40 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 337 | 218 |
 | 40 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 496 |
 | 40 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 232 | 249 |
 | 40 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 251 |
@@ -273,7 +273,7 @@
 | 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 496 |
 | 257 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 86 | 346 |
 | 257 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 496 |
-| 257 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,750 | 90 |
+| 257 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,753 | 90 |
 | 257 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 93 | 338 |
 | 276 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 413 |
 | 276 | [Crashlands](games/c/crashlands.md) | 4.66 | 190 | 267 |
@@ -381,7 +381,7 @@
 | 358 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 271 | 237 |
 | 358 | [Supraland](games/s/supraland.md) | 4.61 | 7,624 | 41 |
 | 358 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 496 |
-| 358 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 335 | 218 |
+| 358 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 338 | 217 |
 | 358 | [Wall World](games/w/wall_world.md) | 4.61 | 0 | 496 |
 | 358 | [Warframe](games/w/warframe.md) | 4.61 | 15,376 | 21 |
 | 385 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 0 | 496 |
@@ -838,7 +838,7 @@
 | 835 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 496 |
 | 835 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 496 |
 | 835 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 437 |
-| 835 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 183,953 | 4 |
+| 835 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 184,019 | 4 |
 | 835 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 496 |
 | 835 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 496 |
 | 842 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 341 |
@@ -909,8 +909,8 @@
 | 907 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 496 |
 | 907 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,236 | 99 |
 | 909 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 496 |
-| 910 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 406 |
-| 910 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 0 | 496 |
+| 910 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.96 | 0 | 496 |
+| 911 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 406 |
 | 912 | [Chimeraland](games/c/chimeraland.md) | 3.94 | 22 | 478 |
 | 912 | [Patron](games/p/patron.md) | 3.94 | 0 | 496 |
 | 914 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 325 | 222 |

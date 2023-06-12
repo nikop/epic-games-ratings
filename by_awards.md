@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,407,329 | 4.30 | 765 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 441,137 | 4.50 | 547 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 297,685 | 4.68 | 239 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 183,953 | 4.19 | 835 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 184,019 | 4.19 | 835 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 181,574 | 4.68 | 239 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 148,616 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 141,459 | 4.53 | 502 |
@@ -89,7 +89,7 @@
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,147 | 4.69 | 218 |
 | 88 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,120 | 4.57 | 441 |
 | 89 | [Hades](games/h/hades.md) | 3,109 | 4.92 | 4 |
-| 90 | [Trackmania](games/t/trackmania.md) | 2,750 | 4.67 | 257 |
+| 90 | [Trackmania](games/t/trackmania.md) | 2,753 | 4.67 | 257 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,509 | 4.61 | 358 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,472 | 4.27 | 784 |
 | 93 | [Among Us](games/a/among_us.md) | 2,456 | 4.57 | 441 |
@@ -216,8 +216,8 @@
 | 214 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 347 | 4.32 | 752 |
 | 215 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 345 | 4.60 | 385 |
 | 216 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 341 | 4.71 | 179 |
-| 217 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 337 | 4.85 | 40 |
-| 218 | [The Sims™ 4](games/t/the_sims™_4.md) | 335 | 4.61 | 358 |
+| 217 | [The Sims™ 4](games/t/the_sims™_4.md) | 338 | 4.61 | 358 |
+| 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 337 | 4.85 | 40 |
 | 219 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 334 | 4.76 | 118 |
 | 220 | [Inscryption](games/i/inscryption.md) | 332 | 4.86 | 30 |
 | 221 | [Tannenberg](games/t/tannenberg.md) | 326 | 4.39 | 694 |
@@ -406,7 +406,7 @@
 | 404 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.56 | 451 |
 | 404 | [Expeditions: Rome](games/e/expeditions__rome.md) | 46 | 4.64 | 313 |
 | 406 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 45 | 4.59 | 408 |
-| 406 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 910 |
+| 406 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 911 |
 | 406 | [Quake](games/q/quake.md) | 45 | 4.76 | 118 |
 | 406 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 45 | 4.24 | 801 |
 | 410 | [The Alto Collection](games/t/the_alto_collection.md) | 44 | 4.69 | 218 |

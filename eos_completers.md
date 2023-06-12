@@ -14,7 +14,7 @@
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 13 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 11.11% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.61% |
+| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.45% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.38% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.71% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
@@ -34,10 +34,10 @@
 | 32 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.94% |
+| 35 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.93% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 37 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.88% |
-| 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
+| 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
+| 37 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.85% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
@@ -78,7 +78,7 @@
 | 76 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
 | 77 | [Night Book](games/n/night_book.md) | 1.52% |
 | 78 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 79 | [Frogun](games/f/frogun.md) | 1.47% |
+| 79 | [Frogun](games/f/frogun.md) | 1.46% |
 | 80 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.33% |
 | 81 | [Ten Dates](games/t/ten_dates.md) | 1.23% |
 | 82 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
