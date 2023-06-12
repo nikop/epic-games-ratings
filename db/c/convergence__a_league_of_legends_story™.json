@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 665,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1209,6 +1209,11 @@
       "Time": "2023-06-12T04:05:55.4001534+00:00",
       "NumProgressed": 663,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T15:05:06.7627382+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1228,7 +1233,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1380,7 +1385,7 @@
       "Name": "Rail Rat",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "HexlockGift",
@@ -1412,7 +1417,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "MapCompletion1",
@@ -1500,7 +1505,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "RewindDamage1",
@@ -1604,7 +1609,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "WatcherFought",
@@ -1643,14 +1648,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 665,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-12T14:05:55.0536613+00:00",
+  "LastChanged_Achievements": "2023-06-12T15:05:06.7627373+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-12T14:00:00.7447514+00:00",
-  "LastUpdate_Achievements": "2023-06-12T14:05:55.0537152+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:59:02.6056832+00:00",
+  "LastUpdate_Achievements": "2023-06-12T15:05:06.7627818+00:00"
 }

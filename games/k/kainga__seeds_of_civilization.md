@@ -9,6 +9,7 @@
 | Canyonlands | 100.00% | ~1 |
 | Pillars of Stone | 100.00% | ~1 |
 | Bear the Burden | 100.00% | ~1 |
+| Master of Kainga | 100.00% | ~1 |
 | Riding the Crab | 0.00% | ~0 |
 | Best Friends For Now | 0.00% | ~0 |
 | Metropolis | 0.00% | ~0 |
@@ -27,7 +28,6 @@
 | Feasts and Beasts | 0.00% | ~0 |
 | The Woodcarver | 0.00% | ~0 |
 | The Dynamic Duo | 0.00% | ~0 |
-| Master of Kainga | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 418)  
 Completed: 0 (0.00%) (Ranked 216)  

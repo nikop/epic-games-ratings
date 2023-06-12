@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 378,
+  "EOS_Progressed": 379,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -187,6 +187,11 @@
       "Time": "2023-06-12T12:03:04.6898718+00:00",
       "NumProgressed": 378,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T15:02:12.4266205+00:00",
+      "NumProgressed": 379,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -198,7 +203,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Award_BigSpender",
@@ -238,7 +243,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -268,9 +273,9 @@
       "ID": "Award_DocKing",
       "SetID": "9ojec6n",
       "Name": "DocKing",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 174
     },
     {
       "ID": "Award_EarlyBird",
@@ -366,7 +371,7 @@
       "Name": "Killer Elite",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Award_LineOfDuty",
@@ -374,7 +379,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -422,7 +427,7 @@
       "Name": "Perky",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Award_PowerUp",
@@ -542,14 +547,14 @@
       "Name": "What-A-Shot",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 378,
+      "Progressed": 379,
       "Completed": 1
     }
   ],
@@ -557,8 +562,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-12T14:02:15.7753108+00:00",
+  "LastChanged_Achievements": "2023-06-12T15:02:12.42662+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.2611684+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:58:36.4678284+00:00",
-  "LastUpdate_Achievements": "2023-06-12T14:02:15.7753486+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:58:01.6904287+00:00",
+  "LastUpdate_Achievements": "2023-06-12T15:02:12.4266734+00:00"
 }

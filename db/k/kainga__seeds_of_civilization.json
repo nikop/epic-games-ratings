@@ -222,9 +222,9 @@
       "ID": "Ach_TH_Ser",
       "SetID": "4k3h0fh",
       "Name": "Master of Kainga",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -236,8 +236,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:47.8999799+00:00",
-  "LastChanged_Achievements": "2023-06-12T14:06:32.270909+00:00",
+  "LastChanged_Achievements": "2023-06-12T15:05:35.0590948+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:47.1588135+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:59:58.7851773+00:00",
-  "LastUpdate_Achievements": "2023-06-12T14:06:32.2709304+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:59:01.2838244+00:00",
+  "LastUpdate_Achievements": "2023-06-12T15:05:35.0591059+00:00"
 }

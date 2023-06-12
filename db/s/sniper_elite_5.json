@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2712,
+  "EOS_Progressed": 2713,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3322,6 +3322,11 @@
       "Time": "2023-06-12T14:06:41.301749+00:00",
       "NumProgressed": 2712,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-12T15:05:42.3064538+00:00",
+      "NumProgressed": 2713,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3379,9 +3384,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 163
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -3493,7 +3498,7 @@
       "Name": "Precision Is Key",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -3581,7 +3586,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3701,7 +3706,7 @@
       "Name": "Taking it back",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3900,13 +3905,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2663,
+      "Progressed": 2664,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2712,
+      "Progressed": 2713,
       "Completed": 2
     }
   ],
@@ -3914,8 +3919,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-12T12:00:24.1242654+00:00",
-  "LastChanged_Achievements": "2023-06-12T14:06:41.3017487+00:00",
+  "LastChanged_Achievements": "2023-06-12T15:05:42.3064533+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-12T14:01:19.9925786+00:00",
-  "LastUpdate_Achievements": "2023-06-12T14:06:41.3018369+00:00"
+  "LastUpdate_Ratings": "2023-06-12T15:00:01.1802061+00:00",
+  "LastUpdate_Achievements": "2023-06-12T15:05:42.3065209+00:00"
 }

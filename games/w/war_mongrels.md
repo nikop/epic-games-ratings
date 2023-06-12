@@ -22,7 +22,7 @@ Number of Ratings: 34  (23.09.2022)
 | King of Knives | 30.00% | ~103 |
 | Consequences | 29.00% | ~99 |
 | Opportunities | 27.00% | ~92 |
-| The Horror | 25.00% | ~86 |
+| The Horror | 26.00% | ~89 |
 | Collectibles of Chapter II | 23.00% | ~79 |
 | The Difference | 22.00% | ~75 |
 | It's Just an Accident | 22.00% | ~75 |

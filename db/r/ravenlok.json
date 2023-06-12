@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 990,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 7.07,
   "EosHistory": [
@@ -2559,9 +2559,9 @@
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 495
     },
     {
       "ID": "34",
@@ -2760,8 +2760,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-12T14:06:25.5652756+00:00",
+  "LastChanged_Achievements": "2023-06-12T15:05:29.1776506+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:32.2285903+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:57:37.3460522+00:00",
-  "LastUpdate_Achievements": "2023-06-12T14:06:25.5653393+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:57:18.2892156+00:00",
+  "LastUpdate_Achievements": "2023-06-12T15:05:29.1776944+00:00"
 }

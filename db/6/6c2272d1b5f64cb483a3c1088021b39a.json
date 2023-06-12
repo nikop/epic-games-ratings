@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1098,9 +1098,9 @@
       "ID": "call_of_mana_1",
       "SetID": "53c1p3k",
       "Name": "Call of Mana 1",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 23
     },
     {
       "ID": "call_of_mana_2",
@@ -1194,9 +1194,9 @@
       "ID": "diehard_1",
       "SetID": "53c1p3k",
       "Name": "Diehard 1",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "diehard_2",
@@ -1585,8 +1585,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-12T14:03:32.7829233+00:00",
+  "LastChanged_Achievements": "2023-06-12T15:03:17.7972562+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:57:03.8462268+00:00",
-  "LastUpdate_Achievements": "2023-06-12T14:03:32.7830014+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:56:53.3316087+00:00",
+  "LastUpdate_Achievements": "2023-06-12T15:03:17.7973088+00:00"
 }

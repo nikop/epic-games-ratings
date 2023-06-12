@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32035,
+  "EOS_Progressed": 32038,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -4922,6 +4922,11 @@
       "Time": "2023-06-12T14:06:30.0613952+00:00",
       "NumProgressed": 32035,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-12T15:05:33.3278399+00:00",
+      "NumProgressed": 32038,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -4949,7 +4954,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8329
+      "UsersEstimate": 8330
     },
     {
       "ID": "allItems",
@@ -5005,7 +5010,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "firstBunny",
@@ -5013,7 +5018,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8009
+      "UsersEstimate": 8010
     },
     {
       "ID": "firstItem",
@@ -5021,7 +5026,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 24987
+      "UsersEstimate": 24990
     },
     {
       "ID": "roots",
@@ -5044,15 +5049,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 32035,
+      "Progressed": 32038,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-05-23T23:00:58.9617247+00:00",
-  "LastChanged_Achievements": "2023-06-12T14:06:30.0613948+00:00",
+  "LastChanged_Achievements": "2023-06-12T15:05:33.3278395+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:44.467267+00:00",
-  "LastUpdate_Ratings": "2023-06-12T14:00:58.5073273+00:00",
-  "LastUpdate_Achievements": "2023-06-12T14:06:30.0614355+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:59:45.4659918+00:00",
+  "LastUpdate_Achievements": "2023-06-12T15:05:33.3278704+00:00"
 }

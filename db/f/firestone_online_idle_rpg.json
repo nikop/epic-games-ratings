@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1377,
+  "EOS_Progressed": 1378,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -3036,6 +3036,11 @@
       "Time": "2023-06-12T12:06:07.8203575+00:00",
       "NumProgressed": 1377,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-12T15:05:46.2127236+00:00",
+      "NumProgressed": 1378,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3279,7 +3284,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "herewegoagain",
@@ -3375,7 +3380,7 @@
       "Name": "Milestone collector",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "minerclicker",
@@ -3407,7 +3412,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "mythicpower",
@@ -3423,7 +3428,7 @@
       "Name": "Natural Talent",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "pokerface",
@@ -3495,7 +3500,7 @@
       "Name": "Superior",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "templeofeternals",
@@ -3607,7 +3612,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "warmachinesarmy",
@@ -3646,7 +3651,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1377,
+      "Progressed": 1378,
       "Completed": 1
     }
   ],
@@ -3654,8 +3659,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-12T14:06:45.8207184+00:00",
+  "LastChanged_Achievements": "2023-06-12T15:05:46.2127232+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:58:20.2802355+00:00",
-  "LastUpdate_Achievements": "2023-06-12T14:06:45.8208115+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:57:49.2614865+00:00",
+  "LastUpdate_Achievements": "2023-06-12T15:05:46.2128005+00:00"
 }

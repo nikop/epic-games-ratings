@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -848,7 +848,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7772,
+  "EOS_Progressed": 7773,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
@@ -2763,6 +2763,11 @@
       "Time": "2023-06-12T13:11:24.1378143+00:00",
       "NumProgressed": 7772,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-12T15:05:26.8274249+00:00",
+      "NumProgressed": 7773,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -2862,7 +2867,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2098
+      "UsersEstimate": 2099
     },
     {
       "ID": "LeoniasFall",
@@ -2894,7 +2899,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "SavedElderEnt",
@@ -2934,7 +2939,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7228
+      "UsersEstimate": 7229
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -2950,7 +2955,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "WhattoBuy",
@@ -2958,22 +2963,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6451
+      "UsersEstimate": 6452
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7772,
+      "Progressed": 7773,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-11T05:59:46.6382038+00:00",
-  "LastChanged_Achievements": "2023-06-12T14:06:22.5084554+00:00",
+  "LastChanged_Achievements": "2023-06-12T15:05:26.8274244+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:17.8794336+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:59:27.5563564+00:00",
-  "LastUpdate_Achievements": "2023-06-12T14:06:22.5084814+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:58:38.9781213+00:00",
+  "LastUpdate_Achievements": "2023-06-12T15:05:26.8274472+00:00"
 }

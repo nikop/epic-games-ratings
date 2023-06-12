@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6446,
+  "EOS_Progressed": 6449,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3439,6 +3439,11 @@
       "Time": "2023-06-12T12:05:45.3574884+00:00",
       "NumProgressed": 6446,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-12T15:05:23.3334785+00:00",
+      "NumProgressed": 6449,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 21,
@@ -3498,7 +3503,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -3554,7 +3559,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "LIBERATOR",
@@ -3617,7 +3622,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6446,
+      "Progressed": 6449,
       "Completed": 24
     }
   ],
@@ -3625,8 +3630,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-11T10:57:37.9309158+00:00",
-  "LastChanged_Achievements": "2023-06-12T14:06:17.6036902+00:00",
+  "LastChanged_Achievements": "2023-06-12T15:05:23.3334781+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:07.9204633+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:58:13.739144+00:00",
-  "LastUpdate_Achievements": "2023-06-12T14:06:17.6037302+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:57:43.9080112+00:00",
+  "LastUpdate_Achievements": "2023-06-12T15:05:23.3335066+00:00"
 }

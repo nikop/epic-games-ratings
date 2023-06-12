@@ -1,25 +1,25 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 345)  
+Rating: 4.62 (Ranked 346)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,199 |
-| Wallbanger | 5.00% | ~19,199 |
-| Exploitative | 4.00% | ~15,359 |
-| High Speed Low Drag | 4.00% | ~15,359 |
-| Turf War | 4.00% | ~15,359 |
-| Wet Feet | 4.00% | ~15,359 |
-| Checkpoint Victory | 3.00% | ~11,519 |
-| Lucky | 3.00% | ~11,519 |
-| Stylin' | 3.00% | ~11,519 |
-| Banged | 2.00% | ~7,679 |
-| First Blood | 2.00% | ~7,679 |
-| Flaccid Paralysis | 2.00% | ~7,679 |
-| Push Victory | 2.00% | ~7,679 |
-| Self-destructive | 2.00% | ~7,679 |
+| Point Shooting | 5.00% | ~19,200 |
+| Wallbanger | 5.00% | ~19,200 |
+| Exploitative | 4.00% | ~15,360 |
+| High Speed Low Drag | 4.00% | ~15,360 |
+| Turf War | 4.00% | ~15,360 |
+| Wet Feet | 4.00% | ~15,360 |
+| Checkpoint Victory | 3.00% | ~11,520 |
+| Lucky | 3.00% | ~11,520 |
+| Stylin' | 3.00% | ~11,520 |
+| Banged | 2.00% | ~7,680 |
+| First Blood | 2.00% | ~7,680 |
+| Flaccid Paralysis | 2.00% | ~7,680 |
+| Push Victory | 2.00% | ~7,680 |
+| Self-destructive | 2.00% | ~7,680 |
 | Blindfire | 1.00% | ~3,840 |
 | Efficient | 1.00% | ~3,840 |
 | Ruthless | 1.00% | ~3,840 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~384 |
 | Road Hazard | 0.10% | ~384 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383,974 (Ranked 39)  
+Progressed: 383,998 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 2 (0.00%) (Ranked 216)
 | 2023-06-09 | 382,511 | 2 |
 | 2023-06-10 | 383,048 | 2 |
 | 2023-06-11 | 383,678 | 2 |
-| 2023-06-12 | 383,974 | 2 |
+| 2023-06-12 | 383,998 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 357  (Ranked 213)  
 Sum: 2,704 (Ranked 162)  

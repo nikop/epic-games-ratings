@@ -14,7 +14,7 @@ Number of Ratings: 177  (23.09.2022)
 | Life Found a Way | 1.00% | ~26 |
 | Relentless | 1.00% | ~55 |
 | If at First You Don't Succeed... | 1.00% | ~55 |
-| Drunk and Disorderly: Stephanie | 0.80% | ~44 |
+| Drunk and Disorderly: Stephanie | 0.90% | ~50 |
 | Drunk and Disorderly: Ashley | 0.50% | ~28 |
 | IRL Let's Player | 0.50% | ~28 |
 | Inspector | 0.50% | ~28 |
@@ -22,6 +22,7 @@ Number of Ratings: 177  (23.09.2022)
 | Social Butterfly | 0.50% | ~28 |
 | Amy | 0.30% | ~17 |
 | I'll Be Back | 0.30% | ~17 |
+| Casanova | 0.30% | ~17 |
 | It Smells Like Roses | 0.30% | ~8 |
 | Smooth Operator: Ashley | 0.30% | ~17 |
 | Stephanie | 0.30% | ~17 |
@@ -32,7 +33,6 @@ Number of Ratings: 177  (23.09.2022)
 | Amy: Scavenger Hunt | 0.20% | ~11 |
 | Ashley | 0.20% | ~11 |
 | Benedict Brahrnold | 0.20% | ~11 |
-| Casanova | 0.20% | ~11 |
 | Love Conquers All | 0.20% | ~11 |
 | Now It's a Party! | 0.20% | ~11 |
 | Rachael | 0.20% | ~11 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,544 (Ranked 126)  
+Progressed: 5,545 (Ranked 126)  
 Completed: 3 (0.05%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 3 (0.05%) (Ranked 184)
 | 2023-06-09 | 5,480 | 3 |
 | 2023-06-10 | 5,515 | 3 |
 | 2023-06-11 | 5,535 | 3 |
-| 2023-06-12 | 5,544 | 3 |
+| 2023-06-12 | 5,545 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

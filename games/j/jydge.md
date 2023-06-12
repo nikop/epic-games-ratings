@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Dawn of Jydgement | 36.00% | ~4 |
-| Mission Mastered | 36.00% | ~4 |
-| Savior | 18.00% | ~2 |
-| The Jydgement Day | 9.00% | ~1 |
-| The Dusk Falls | 9.00% | ~1 |
-| Cyberware | 9.00% | ~1 |
-| Crime Reaper | 9.00% | ~1 |
-| Hardcore Law | 9.00% | ~1 |
-| Law Enforced | 9.00% | ~1 |
-| Firemodes to the Max | 9.00% | ~1 |
-| Weapon Mods | 9.00% | ~1 |
+| The Dawn of Jydgement | 33.00% | ~4 |
+| Mission Mastered | 33.00% | ~4 |
+| Savior | 17.00% | ~2 |
+| The Jydgement Day | 8.00% | ~1 |
+| The Dusk Falls | 8.00% | ~1 |
+| Cyberware | 8.00% | ~1 |
+| Crime Reaper | 8.00% | ~1 |
+| Hardcore Law | 8.00% | ~1 |
+| Law Enforced | 8.00% | ~1 |
+| Firemodes to the Max | 8.00% | ~1 |
+| Weapon Mods | 8.00% | ~1 |
 | Collector | 0.00% | ~0 |
 | Nightmare Law | 0.00% | ~0 |
 | Lawful Not Awful | 0.00% | ~0 |
 | Special Specialist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 363)  
+Progressed: 12 (Ranked 358)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -32,6 +32,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-05-02 | 9 | 0 |
 | 2023-05-03 | 10 | 0 |
 | 2023-05-16 | 11 | 0 |
+| 2023-06-12 | 12 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

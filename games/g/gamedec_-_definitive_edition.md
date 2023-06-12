@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~64,816 |
-| Powergamer | 27.00% | ~62,501 |
-| Barely scratched the surface | 25.00% | ~57,872 |
-| Write that down | 24.00% | ~55,557 |
-| Guns, lots of guns | 12.00% | ~27,778 |
-| Collector | 11.00% | ~25,464 |
-| Elementary! | 8.00% | ~18,519 |
-| Pumpkin Jack | 8.00% | ~18,519 |
-| Wake up! | 8.00% | ~18,519 |
-| It's honest work | 7.00% | ~16,204 |
-| Griever | 7.00% | ~16,204 |
-| Me smart | 6.00% | ~13,889 |
-| Good listener | 5.00% | ~11,574 |
-| Trash compactor | 5.00% | ~11,574 |
-| Valedictorian | 5.00% | ~11,574 |
-| BOY! | 4.00% | ~9,259 |
-| Ka-ching! | 4.00% | ~9,259 |
-| So you like to read? | 4.00% | ~9,259 |
+| I will finish what you started | 28.00% | ~64,821 |
+| Powergamer | 27.00% | ~62,506 |
+| Barely scratched the surface | 25.00% | ~57,876 |
+| Write that down | 24.00% | ~55,560 |
+| Guns, lots of guns | 12.00% | ~27,780 |
+| Collector | 11.00% | ~25,465 |
+| Elementary! | 8.00% | ~18,520 |
+| Pumpkin Jack | 8.00% | ~18,520 |
+| Wake up! | 8.00% | ~18,520 |
+| It's honest work | 7.00% | ~16,205 |
+| Griever | 7.00% | ~16,205 |
+| Me smart | 6.00% | ~13,890 |
+| Good listener | 5.00% | ~11,575 |
+| Trash compactor | 5.00% | ~11,575 |
+| Valedictorian | 5.00% | ~11,575 |
+| BOY! | 4.00% | ~9,260 |
+| Ka-ching! | 4.00% | ~9,260 |
+| So you like to read? | 4.00% | ~9,260 |
 | I like to sniff around | 3.00% | ~6,945 |
 | Mind reader | 3.00% | ~6,945 |
 | Gentleman's classic | 2.00% | ~4,630 |
@@ -41,25 +41,25 @@ Number of Ratings: 33  (23.09.2022)
 | Random encounter | 1.00% | ~2,315 |
 | SysOp on duty | 1.00% | ~2,315 |
 | Take the blue pill | 1.00% | ~2,315 |
-| A true blacksmith | 0.90% | ~2,083 |
-| The power of three | 0.90% | ~2,083 |
+| A true blacksmith | 0.90% | ~2,084 |
+| The power of three | 0.90% | ~2,084 |
 | Let's try another | 0.80% | ~1,852 |
 | Home run | 0.80% | ~1,852 |
-| I have the high ground | 0.70% | ~1,620 |
-| It's blue, always blue | 0.70% | ~1,620 |
-| Who wouldn't love a troll? | 0.50% | ~1,157 |
+| I have the high ground | 0.70% | ~1,621 |
+| It's blue, always blue | 0.70% | ~1,621 |
+| Who wouldn't love a troll? | 0.50% | ~1,158 |
 | Enjoy these little moments | 0.40% | ~926 |
 | Irondec | 0.40% | ~926 |
 | Un-bear-able | 0.40% | ~926 |
-| LET ME OUT! | 0.30% | ~694 |
-| Well-deserved reunion | 0.30% | ~694 |
+| LET ME OUT! | 0.30% | ~695 |
+| Well-deserved reunion | 0.30% | ~695 |
 | Breaking the chains | 0.20% | ~463 |
 | Aren't you overthinking? | 0.20% | ~463 |
 | Take the red pill | 0.20% | ~463 |
 | This is the way | 0.20% | ~463 |
-| Memory 5 | 0.10% | ~231 |
+| Memory 5 | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,487 (Ranked 44)  
+Progressed: 231,502 (Ranked 44)  
 Completed: 5 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 5 (0.00%) (Ranked 216)
 | 2023-06-09 | 230,904 | 5 |
 | 2023-06-10 | 231,141 | 5 |
 | 2023-06-11 | 231,376 | 5 |
-| 2023-06-12 | 231,487 | 5 |
+| 2023-06-12 | 231,502 | 5 |
 ## Awards
 Max (Character Customization): 74  (Ranked 359)  
 Sum: 74 (Ranked 420)  

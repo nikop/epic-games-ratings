@@ -1,24 +1,24 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
 [Store](https://store.epicgames.com/en-US/p/stranger-of-paradise-final-fantasy-origin)  
 [View Rawdata](../../db/s/stranger_of_paradise_final_fantasy_origin.json)  
-Rating: 4.50 (Ranked 547)  
+Rating: 4.50 (Ranked 546)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~76,241 |
-| No Escape | 86.00% | ~67,595 |
-| Seeker of Power | 85.00% | ~66,809 |
-| Hopes and Dreams | 82.00% | ~64,451 |
-| Lantern Smasher | 78.00% | ~61,307 |
-| The Pirate's Way | 73.00% | ~57,377 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~55,805 |
-| The King of the Dark Elves | 68.00% | ~53,447 |
-| Memories of the Distant Past | 66.00% | ~51,875 |
-| Distortion's Progeny | 63.00% | ~49,517 |
-| Savant | 62.00% | ~48,731 |
-| A Landscape of Memory | 58.00% | ~45,587 |
-| The Wind's Light | 54.00% | ~42,443 |
+| Manifestation of the Soul | 97.00% | ~76,242 |
+| No Escape | 86.00% | ~67,596 |
+| Seeker of Power | 85.00% | ~66,810 |
+| Hopes and Dreams | 82.00% | ~64,452 |
+| Lantern Smasher | 78.00% | ~61,308 |
+| The Pirate's Way | 73.00% | ~57,378 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~55,806 |
+| The King of the Dark Elves | 68.00% | ~53,448 |
+| Memories of the Distant Past | 66.00% | ~51,876 |
+| Distortion's Progeny | 63.00% | ~49,518 |
+| Savant | 62.00% | ~48,732 |
+| A Landscape of Memory | 58.00% | ~45,588 |
+| The Wind's Light | 54.00% | ~42,444 |
 | Vague Remembrances | 49.00% | ~38,514 |
 | The Fire's Light | 47.00% | ~36,942 |
 | Phantom Memories | 46.00% | ~36,156 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,358 |
 | A Tale of Origins and Endings | 2.00% | ~1,572 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,599 (Ranked 65)  
+Progressed: 78,600 (Ranked 65)  
 Completed: 2,138 (2.72%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 2,138 (2.72%) (Ranked 56)
 | 2023-06-09 | 78,548 | 2,136 |
 | 2023-06-10 | 78,566 | 2,137 |
 | 2023-06-11 | 78,590 | 2,138 |
-| 2023-06-12 | 78,599 | 2,138 |
+| 2023-06-12 | 78,600 | 2,138 |
 ## Awards
 Max (Great Boss Battles): 754  (Ranked 152)  
 Sum: 1,555 (Ranked 207)  

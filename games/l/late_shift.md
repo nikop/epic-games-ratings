@@ -21,8 +21,8 @@
 | Choices Matter | 8.00% | ~33 |
 | The Fool | 6.00% | ~24 |
 | The Lion's Den | 5.00% | ~20 |
+| Proficient Storyteller | 4.00% | ~16 |
 | The Coward | 3.00% | ~12 |
-| Proficient Storyteller | 3.00% | ~12 |
 | Expert Storyteller | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 407 (Ranked 211)  

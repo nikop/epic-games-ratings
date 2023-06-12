@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,266 |
-| The Outer Way | 13.00% | ~1,964 |
-| Desperate Times | 13.00% | ~1,964 |
+| Flesh Wound | 15.00% | ~2,267 |
+| The Outer Way | 13.00% | ~1,965 |
+| Desperate Times | 13.00% | ~1,965 |
 | Paper Jams | 11.00% | ~1,662 |
 | Chew 'Em Up | 9.00% | ~1,360 |
 | Reforged | 9.00% | ~1,360 |
@@ -16,17 +16,17 @@ Rating: 4.18 (Ranked 843)
 | Giving Back | 7.00% | ~1,058 |
 | Get a Grip | 7.00% | ~1,058 |
 | Without A Paddle | 7.00% | ~1,058 |
-| Two Heads Are Better Than One | 5.00% | ~755 |
-| Terminated | 5.00% | ~755 |
-| Float Like A Butterfly | 5.00% | ~755 |
-| In the Pipe, Five by Five | 5.00% | ~755 |
-| Crash Site | 5.00% | ~755 |
-| Power Up | 5.00% | ~755 |
-| You Need a Gun | 4.00% | ~604 |
-| What Lies Beneath | 4.00% | ~604 |
-| Full Circle | 4.00% | ~604 |
-| Instigator | 4.00% | ~121 |
-| Big Game Hunter | 4.00% | ~121 |
+| Two Heads Are Better Than One | 5.00% | ~756 |
+| Terminated | 5.00% | ~756 |
+| Float Like A Butterfly | 5.00% | ~756 |
+| In the Pipe, Five by Five | 5.00% | ~756 |
+| Crash Site | 5.00% | ~756 |
+| Power Up | 5.00% | ~756 |
+| You Need a Gun | 4.00% | ~605 |
+| What Lies Beneath | 4.00% | ~605 |
+| Full Circle | 4.00% | ~605 |
+| Instigator | 4.00% | ~122 |
+| Big Game Hunter | 4.00% | ~122 |
 | The Commonality | 3.00% | ~453 |
 | Bear Trap | 3.00% | ~91 |
 | I Do Belong Here | 2.00% | ~302 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 843)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,109 (Ranked 104)  
+Progressed: 15,113 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 54 (0.36%) (Ranked 124)
 | 2023-06-09 | 14,877 | 54 |
 | 2023-06-10 | 14,984 | 54 |
 | 2023-06-11 | 15,076 | 54 |
-| 2023-06-12 | 15,109 | 54 |
+| 2023-06-12 | 15,113 | 54 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
 Sum: 306 (Ranked 328)  

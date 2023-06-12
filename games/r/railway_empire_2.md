@@ -17,11 +17,11 @@ Rating: 4.22 (Ranked 814)
 | Travel Company | 63.00% | ~719 |
 | All around the World | 60.00% | ~685 |
 | Right through the middle | 55.00% | ~628 |
+| Poor Devil | 52.00% | ~594 |
 | Facility Manager | 51.00% | ~582 |
-| Poor Devil | 51.00% | ~582 |
 | Producer | 47.00% | ~537 |
 | Apprentice | 41.00% | ~468 |
-| Bridge Builder | 38.00% | ~434 |
+| Bridge Builder | 39.00% | ~445 |
 | Stoker | 33.00% | ~377 |
 | Access granted | 33.00% | ~377 |
 | Going once, going twice, sold | 31.00% | ~354 |
@@ -31,10 +31,10 @@ Rating: 4.22 (Ranked 814)
 | Financial Shark | 25.00% | ~286 |
 | All mine | 24.00% | ~274 |
 | Socializer | 24.00% | ~274 |
+| Seven at one stroke | 22.00% | ~251 |
 | General Manager | 22.00% | ~251 |
 | Country Life | 22.00% | ~251 |
-| Seven at one stroke | 21.00% | ~240 |
-| Hostile Takeover | 21.00% | ~240 |
+| Hostile Takeover | 22.00% | ~251 |
 | Trailblazer | 18.00% | ~206 |
 | Breaking Ground | 16.00% | ~183 |
 | Traffic Jam | 15.00% | ~171 |

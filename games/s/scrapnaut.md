@@ -26,8 +26,8 @@ Number of Ratings: 38  (23.09.2022)
 | Advanced Survivalist | 19.00% | ~49 |
 | Master Of Technology | 18.00% | ~47 |
 | Treasure Hunter | 17.00% | ~44 |
+| Blacksmith | 12.00% | ~31 |
 | Mythical Smelter | 12.00% | ~31 |
-| Blacksmith | 11.00% | ~28 |
 | Fuel | 10.00% | ~26 |
 | Master Of Management | 9.00% | ~23 |
 | Smelting Master | 9.00% | ~23 |

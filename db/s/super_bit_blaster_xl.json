@@ -4,7 +4,7 @@
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
@@ -742,9 +742,9 @@
       "ID": "Bit Blaster V6",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V6",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Bit Blaster V7",
@@ -773,8 +773,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-06-12T14:06:15.9811695+00:00",
+  "LastChanged_Achievements": "2023-06-12T15:05:22.1375937+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.3101855+00:00",
-  "LastUpdate_Ratings": "2023-06-12T13:58:00.9192196+00:00",
-  "LastUpdate_Achievements": "2023-06-12T14:06:15.9811899+00:00"
+  "LastUpdate_Ratings": "2023-06-12T14:57:34.6586755+00:00",
+  "LastUpdate_Achievements": "2023-06-12T15:05:22.1376076+00:00"
 }
