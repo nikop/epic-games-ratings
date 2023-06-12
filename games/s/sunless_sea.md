@@ -6,11 +6,11 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,219 |
+| Sink Beneath the Waves | 36.00% | ~11,220 |
 | Sweet Sorrow | 18.00% | ~5,610 |
-| Rules the Waves | 17.00% | ~5,298 |
+| Rules the Waves | 17.00% | ~5,299 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,675 |
-| Rival | 14.00% | ~4,363 |
+| Rival | 14.00% | ~4,364 |
 | Correspondent | 12.00% | ~3,740 |
 | Lose Your Mind | 12.00% | ~3,740 |
 | Sound Mind? | 12.00% | ~3,740 |
@@ -19,10 +19,10 @@ Number of Ratings: 401  (23.09.2022)
 | The Fall of the House | 11.00% | ~3,428 |
 | Shipmate | 11.00% | ~3,428 |
 | One Year at Zee | 8.00% | ~2,493 |
-| Pupil | 7.00% | ~2,181 |
-| Salvager | 7.00% | ~2,181 |
-| Open Your Ears | 7.00% | ~2,181 |
-| The Ascent of Man | 7.00% | ~2,181 |
+| Pupil | 7.00% | ~2,182 |
+| Salvager | 7.00% | ~2,182 |
+| Open Your Ears | 7.00% | ~2,182 |
+| The Ascent of Man | 7.00% | ~2,182 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,558 |
 | Zee Fever | 5.00% | ~1,558 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,247 |
@@ -43,11 +43,11 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~312 |
 | Under the zee | 1.00% | ~312 |
 | A current under zee | 1.00% | ~312 |
-| A zee-change | 0.90% | ~280 |
-| Never Stop Sinking... | 0.90% | ~280 |
-| Leviathan | 0.90% | ~280 |
-| No regrets | 0.90% | ~280 |
-| Depth charge | 0.90% | ~280 |
+| A zee-change | 0.90% | ~281 |
+| Never Stop Sinking... | 0.90% | ~281 |
+| Leviathan | 0.90% | ~281 |
+| No regrets | 0.90% | ~281 |
+| Depth charge | 0.90% | ~281 |
 | What lies beneath | 0.80% | ~249 |
 | Stone's Curse | 0.70% | ~218 |
 | Five Years at Zee | 0.50% | ~156 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~31 |
 | Ten Years at Zee | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,164 (Ranked 89)  
+Progressed: 31,168 (Ranked 89)  
 Completed: 3 (0.01%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 3 (0.01%) (Ranked 206)
 | 2023-06-09 | 31,008 | 3 |
 | 2023-06-10 | 31,083 | 3 |
 | 2023-06-11 | 31,164 | 3 |
+| 2023-06-12 | 31,168 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 258)  
 Sum: 278 (Ranked 333)  

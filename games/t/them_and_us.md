@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alone with Them | 69.00% | ~95 |
-| Forced to Kill | 68.00% | ~93 |
-| A Night To Remember | 36.00% | ~49 |
+| Forced to Kill | 69.00% | ~95 |
+| A Night To Remember | 37.00% | ~51 |
 | Safe...For now? | 30.00% | ~41 |
 | Open Sesame | 26.00% | ~36 |
 | Them and Us | 16.00% | ~22 |

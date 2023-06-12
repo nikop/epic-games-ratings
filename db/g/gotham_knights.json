@@ -1490,9 +1490,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64650,
+  "EOS_Progressed": 64659,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1005,
+  "EOS_NewPlayers": 1002,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5970,6 +5970,11 @@
       "Time": "2023-06-11T23:06:46.8428333+00:00",
       "NumProgressed": 64650,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-12T00:07:35.7207975+00:00",
+      "NumProgressed": 64659,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6061,7 +6066,7 @@
       "Name": "End of an Era",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "APPLY_STATUS",
@@ -6069,7 +6074,7 @@
       "Name": "In Your Element",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "CHALLENGES_1",
@@ -6101,7 +6106,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -6141,7 +6146,7 @@
       "Name": "Not On My Watch",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -6157,7 +6162,7 @@
       "Name": "Bulldozed",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -6189,7 +6194,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -6229,7 +6234,7 @@
       "Name": "Cooldown",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -6309,7 +6314,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -6325,7 +6330,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3232
+      "UsersEstimate": 3233
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -6413,7 +6418,7 @@
       "Name": "Voiceless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "MYSTERY_07",
@@ -6421,7 +6426,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "MYSTERY_08",
@@ -6429,7 +6434,7 @@
       "Name": "Gotham Knight",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "SECRET_CACHE",
@@ -6437,7 +6442,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -6468,13 +6473,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64650,
+      "Progressed": 64659,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 34930,
+      "Progressed": 34939,
       "Completed": 2646
     }
   ],
@@ -6482,8 +6487,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-11T09:59:20.6373405+00:00",
-  "LastChanged_Achievements": "2023-06-11T23:06:46.8428328+00:00",
+  "LastChanged_Achievements": "2023-06-12T00:07:35.7207971+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-11T23:00:08.8988466+00:00",
-  "LastUpdate_Achievements": "2023-06-11T23:06:46.8429202+00:00"
+  "LastUpdate_Ratings": "2023-06-12T00:00:43.6022184+00:00",
+  "LastUpdate_Achievements": "2023-06-12T00:07:35.7208654+00:00"
 }

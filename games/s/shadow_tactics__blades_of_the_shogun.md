@@ -1,17 +1,17 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 277)  
+Rating: 4.66 (Ranked 276)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 10.00% | ~17,628 |
 | Thorough | 9.00% | ~15,865 |
-| A thief's beginning | 8.00% | ~14,102 |
-| Disguised | 7.00% | ~12,339 |
-| Rollin' | 7.00% | ~12,339 |
-| Tanuki Time | 7.00% | ~12,339 |
+| A thief's beginning | 8.00% | ~14,103 |
+| Disguised | 7.00% | ~12,340 |
+| Rollin' | 7.00% | ~12,340 |
+| Tanuki Time | 7.00% | ~12,340 |
 | Jonin | 6.00% | ~10,577 |
 | Rescue Takuma | 6.00% | ~10,577 |
 | Stoned Ox | 6.00% | ~10,577 |
@@ -38,7 +38,7 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~1,763 |
 | No Gimmicks | 1.00% | ~1,763 |
 | The End | 1.00% | ~1,763 |
-| Undeserved Honor | 0.90% | ~1,586 |
+| Undeserved Honor | 0.90% | ~1,587 |
 | When Cut Across the Neck | 0.80% | ~1,410 |
 | High Five the Moon | 0.70% | ~1,234 |
 | The Cave | 0.60% | ~1,058 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~176 |
 | Release the Kraken | 0.10% | ~176 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176,276 (Ranked 56)  
+Progressed: 176,282 (Ranked 56)  
 Completed: 52 (0.03%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 52 (0.03%) (Ranked 193)
 | 2023-06-09 | 175,568 | 51 |
 | 2023-06-10 | 175,925 | 51 |
 | 2023-06-11 | 176,276 | 52 |
+| 2023-06-12 | 176,282 | 52 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 179)  
 Sum: 4,681 (Ranked 126)  

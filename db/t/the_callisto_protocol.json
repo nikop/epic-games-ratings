@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -558,10 +558,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 305,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-06-11T23:58:33.7302083+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 306,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 305,
+  "NumberOfAwards": 306,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -581,7 +587,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Amazing Characters",
@@ -608,9 +614,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15076,
+  "EOS_Progressed": 15080,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3603,6 +3609,11 @@
       "Time": "2023-06-11T23:04:37.2761129+00:00",
       "NumProgressed": 15076,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-12T00:05:13.688113+00:00",
+      "NumProgressed": 15080,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3630,7 +3641,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -3718,7 +3729,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -3790,7 +3801,7 @@
       "Name": "Paper Jams",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3822,7 +3833,7 @@
       "Name": "Without A Paddle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "STORY_HANGAR",
@@ -3846,7 +3857,7 @@
       "Name": "Desperate Times",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -3933,22 +3944,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15076,
+      "Progressed": 15080,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3002,
+      "Progressed": 3006,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-11T18:57:54.2801863+00:00",
-  "LastChanged_Achievements": "2023-06-11T23:04:37.2761123+00:00",
+  "LastChanged": "2023-06-11T23:58:33.7302071+00:00",
+  "LastChanged_Achievements": "2023-06-12T00:05:13.6881126+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-11T22:58:06.6024005+00:00",
-  "LastUpdate_Achievements": "2023-06-11T23:04:37.2761961+00:00"
+  "LastUpdate_Ratings": "2023-06-11T23:58:33.7302088+00:00",
+  "LastUpdate_Achievements": "2023-06-12T00:05:13.6881518+00:00"
 }

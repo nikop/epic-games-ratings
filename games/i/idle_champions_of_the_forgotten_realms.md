@@ -79,6 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Constant Banditry | 0.30% | ~271 |
 | Underdeep Cartography | 0.30% | ~271 |
 | Overdue Rendezvous | 0.30% | ~271 |
+| Witty Riposting | 0.30% | ~170 |
 | How Far Away is Thay | 0.30% | ~170 |
 | The Templar's Camp | 0.30% | ~271 |
 | Rescue in the Jungle | 0.30% | ~271 |
@@ -255,6 +256,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Redcaps | 0.20% | ~114 |
 | The Lost Hollyphant | 0.20% | ~114 |
 | Alterdeep | 0.20% | ~114 |
+| The Gargoyle | 0.20% | ~114 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~114 |
 | The Wandering Emporium | 0.20% | ~114 |
 | Tiamat's Army | 0.20% | ~114 |
@@ -286,7 +288,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Madness of Yeenoghu | 0.20% | ~114 |
 | Reya Reborn | 0.20% | ~114 |
 | The Radiant Nightmare | 0.20% | ~114 |
-| Witty Riposting | 0.20% | ~114 |
 | Waiting on Sunrise | 0.20% | ~114 |
 | Deekin's Mission | 0.20% | ~114 |
 | Frozen Vengeance | 0.20% | ~114 |
@@ -434,7 +435,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Zapper Overload | 0.10% | ~57 |
 | Best Friend Search Squad! | 0.10% | ~57 |
 | Elder Rune Attack | 0.10% | ~57 |
-| The Gargoyle | 0.10% | ~57 |
 | Madcap Adventures Redux | 0.10% | ~57 |
 | When the Going Gets Tough | 0.10% | ~57 |
 | Show of Strength | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,481 (Ranked 64)  
+Progressed: 90,483 (Ranked 64)  
 Completed: 1,929 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,13 +553,14 @@ Completed: 1,929 (2.13%) (Ranked 66)
 | 2023-06-09 | 90,268 | 1,925 |
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
+| 2023-06-12 | 90,483 | 1,929 |
 ## Awards
-Max (Diverse Characters): 4,928  (Ranked 64)  
-Sum: 30,075 (Ranked 37)  
+Max (Diverse Characters): 4,934  (Ranked 64)  
+Sum: 30,081 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,928 |
+| This game has Diverse Characters | 4,934 |
 | This game is Great for Beginners | 4,864 |
 | This game has Quickly Understood Controls | 4,613 |
 | This game is Relaxing | 4,511 |
@@ -705,3 +706,4 @@ Diff (max vs sum): 27
 | 2023-06-08 | 4.06 | - | 4,922 | 30,051 |
 | 2023-06-09 | 4.06 | - | 4,925 | 30,064 |
 | 2023-06-10 | 4.06 | - | 4,928 | 30,075 |
+| 2023-06-11 | 4.06 | - | 4,934 | 30,081 |

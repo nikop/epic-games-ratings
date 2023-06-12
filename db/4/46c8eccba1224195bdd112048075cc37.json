@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -171,9 +171,9 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 95,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "FirstBoss",
@@ -282,8 +282,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-06-11T23:02:10.9421159+00:00",
+  "LastChanged_Achievements": "2023-06-12T00:03:07.1136508+00:00",
   "LastUpdate_AppInfo": "2023-06-05T06:57:11.6079759+00:00",
-  "LastUpdate_Ratings": "2023-06-11T22:57:15.2295897+00:00",
-  "LastUpdate_Achievements": "2023-06-11T23:02:10.9421419+00:00"
+  "LastUpdate_Ratings": "2023-06-11T23:57:38.2999746+00:00",
+  "LastUpdate_Achievements": "2023-06-12T00:03:07.113664+00:00"
 }

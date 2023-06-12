@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 83.00% | ~33 |
-| Killing Spree | 65.00% | ~26 |
-| 5Gb HDD | 45.00% | ~18 |
+| Killing Spree | 68.00% | ~27 |
+| 5Gb HDD | 48.00% | ~19 |
 | Merchant Prince I | 45.00% | ~18 |
 | Dominating | 30.00% | ~12 |
 | Fighting Fit I | 28.00% | ~11 |
@@ -55,6 +55,7 @@
 | Silver Foundation | 3.00% | ~1 |
 | Sectoral Captain | 3.00% | ~1 |
 | Silver Pest Control | 3.00% | ~1 |
+| Mysterious Skin | 3.00% | ~1 |
 | Collateral Damage II | 3.00% | ~1 |
 | Merchant Prince II | 3.00% | ~1 |
 | Fighting Fit II | 3.00% | ~1 |
@@ -123,7 +124,6 @@
 | Galactic Captain | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |
 | Silver BBQ | 0.00% | ~0 |
-| Mysterious Skin | 0.00% | ~0 |
 | Beetle | 0.00% | ~0 |
 | Anger Management | 0.00% | ~0 |
 | Consumist | 0.00% | ~0 |

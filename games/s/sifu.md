@@ -44,8 +44,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.40% | ~2,835 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,835 |
 | Sword Stained With Blood | 0.40% | ~2,835 |
-| Martial Hub | 0.40% | ~72 |
-| Secure, Protect, Leave | 0.40% | ~72 |
+| Martial Hub | 0.40% | ~73 |
+| Secure, Protect, Leave | 0.40% | ~73 |
 | Martial Artist | 0.30% | ~2,126 |
 | Knowledge Greed | 0.30% | ~2,126 |
 | The Pit Protector | 0.30% | ~2,126 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.20% | ~1,418 |
 | Warriors from the Mountain | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,823 (Ranked 17)  
+Progressed: 708,829 (Ranked 17)  
 Completed: 12,766 (1.80%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 12,766 (1.80%) (Ranked 72)
 | 2023-06-09 | 708,330 | 12,764 |
 | 2023-06-10 | 708,593 | 12,764 |
 | 2023-06-11 | 708,823 | 12,766 |
+| 2023-06-12 | 708,829 | 12,766 |
 ## Awards
 Max (Great Boss Battles): 6,165  (Ranked 52)  
 Sum: 10,520 (Ranked 78)  

@@ -39,7 +39,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Undercover | 0.80% | ~423 |
 | Crackshot | 0.70% | ~370 |
 | Fat Cat | 0.60% | ~317 |
-| Catch | 0.50% | ~264 |
+| Catch | 0.50% | ~265 |
 | Slice 'n dice | 0.40% | ~212 |
 | Mounted Archery | 0.30% | ~159 |
 | Ride it like you stole it | 0.30% | ~159 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,899 (Ranked 79)  
+Progressed: 52,901 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 52,654 | 0 |
 | 2023-06-10 | 52,776 | 0 |
 | 2023-06-11 | 52,899 | 0 |
+| 2023-06-12 | 52,901 | 0 |
 ## Awards
 Max (Character Customization): 6,659  (Ranked 49)  
 Sum: 13,375 (Ranked 67)  

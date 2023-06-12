@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4172,11 +4172,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 30075,
       "NumberOfAwardsMax": 4928
+    },
+    {
+      "Time": "2023-06-11T23:58:45.2091947+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30081,
+      "NumberOfAwardsMax": 4934
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30075,
-  "NumberOfAwardsMax": 4928,
+  "NumberOfAwards": 30081,
+  "NumberOfAwardsMax": 4934,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4189,7 +4195,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4928
+      "Count": 4934
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4222,7 +4228,7 @@
       "Count": 3248
     }
   ],
-  "EOS_Progressed": 90481,
+  "EOS_Progressed": 90483,
   "EOS_Completed": 1929,
   "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 14,
@@ -9587,6 +9593,11 @@
       "Time": "2023-06-11T23:06:54.2074103+00:00",
       "NumProgressed": 90481,
       "NumCompleted": 1929
+    },
+    {
+      "Time": "2023-06-12T00:07:43.0641955+00:00",
+      "NumProgressed": 90483,
+      "NumCompleted": 1929
     }
   ],
   "TotalAchievements": 493,
@@ -12508,9 +12519,9 @@
       "ID": "objective_completed_657",
       "SetID": "415jc5c",
       "Name": "The Gargoyle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_completed_658",
@@ -13092,9 +13103,9 @@
       "ID": "objective_completed_850",
       "SetID": "415jc5c",
       "Name": "Witty Riposting",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 170
     },
     {
       "ID": "objective_completed_852",
@@ -13541,21 +13552,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56755,
+      "Progressed": 56757,
       "Completed": 2785
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90481,
+      "Progressed": 90483,
       "Completed": 1929
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-10T22:57:45.4027598+00:00",
-  "LastChanged_Achievements": "2023-06-11T23:06:54.2074098+00:00",
+  "LastChanged": "2023-06-11T23:58:45.2091945+00:00",
+  "LastChanged_Achievements": "2023-06-12T00:07:43.064195+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-11T22:58:17.7577595+00:00",
-  "LastUpdate_Achievements": "2023-06-11T23:06:54.2096508+00:00"
+  "LastUpdate_Ratings": "2023-06-11T23:58:45.2091952+00:00",
+  "LastUpdate_Achievements": "2023-06-12T00:07:43.0664127+00:00"
 }

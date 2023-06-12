@@ -21,8 +21,8 @@ Number of Ratings: 46  (23.09.2022)
 | Jawcrab | 11.00% | ~65 |
 | Feast | 11.00% | ~65 |
 | Host | 10.00% | ~17 |
+| Jawstag | 10.00% | ~59 |
 | Shapely | 9.00% | ~53 |
-| Jawstag | 9.00% | ~53 |
 | Celebration | 8.00% | ~47 |
 | Watcher | 8.00% | ~47 |
 | Inevitable | 7.00% | ~41 |

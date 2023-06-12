@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224462,
+  "EOS_Progressed": 224465,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 1,
@@ -5553,6 +5553,11 @@
       "Time": "2023-06-11T23:06:16.1675381+00:00",
       "NumProgressed": 224462,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-12T00:07:03.5639345+00:00",
+      "NumProgressed": 224465,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -5580,7 +5585,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62849
+      "UsersEstimate": 62850
     },
     {
       "ID": "CENTAUR",
@@ -5604,7 +5609,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15712
+      "UsersEstimate": 15713
     },
     {
       "ID": "DRAGOON",
@@ -5652,7 +5657,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44892
+      "UsersEstimate": 44893
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -5700,7 +5705,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71828
+      "UsersEstimate": 71829
     },
     {
       "ID": "NOBUNAGA",
@@ -5732,7 +5737,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15712
+      "UsersEstimate": 15713
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -5780,7 +5785,7 @@
       "Name": "SHOWOFF",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 8978
+      "UsersEstimate": 8979
     },
     {
       "ID": "SNEAKYSNEAKY",
@@ -5804,7 +5809,7 @@
       "Name": "TAKATORA",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8978
+      "UsersEstimate": 8979
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -5828,22 +5833,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 92029
+      "UsersEstimate": 92031
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 224462,
+      "Progressed": 224465,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-11T23:06:16.1675373+00:00",
+  "LastChanged_Achievements": "2023-06-12T00:07:03.5639341+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.7588472+00:00",
-  "LastUpdate_Ratings": "2023-06-11T22:58:31.461683+00:00",
-  "LastUpdate_Achievements": "2023-06-11T23:06:16.1676245+00:00"
+  "LastUpdate_Ratings": "2023-06-11T23:58:59.9203419+00:00",
+  "LastUpdate_Achievements": "2023-06-12T00:07:03.5639779+00:00"
 }

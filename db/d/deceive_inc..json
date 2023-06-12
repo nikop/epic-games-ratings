@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6748,
+  "EOS_Progressed": 6749,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4139,6 +4139,11 @@
       "Time": "2023-06-11T21:05:35.9740475+00:00",
       "NumProgressed": 6748,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T00:07:26.2229313+00:00",
+      "NumProgressed": 6749,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -4238,7 +4243,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "0013",
@@ -4374,7 +4379,7 @@
       "Name": "A view to Win",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "0030",
@@ -4412,9 +4417,9 @@
       "ID": "0034",
       "SetID": "2n2feee",
       "Name": "Smells Like Trouble",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1755
     },
     {
       "ID": "0035",
@@ -4437,7 +4442,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6748,
+      "Progressed": 6749,
       "Completed": 0
     }
   ],
@@ -4445,8 +4450,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-10T20:59:27.172859+00:00",
-  "LastChanged_Achievements": "2023-06-11T23:06:38.1648387+00:00",
+  "LastChanged_Achievements": "2023-06-12T00:07:26.2229308+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:06.9075214+00:00",
-  "LastUpdate_Ratings": "2023-06-11T23:00:03.8009696+00:00",
-  "LastUpdate_Achievements": "2023-06-11T23:06:38.1649248+00:00"
+  "LastUpdate_Ratings": "2023-06-12T00:00:38.4354555+00:00",
+  "LastUpdate_Achievements": "2023-06-12T00:07:26.2229702+00:00"
 }

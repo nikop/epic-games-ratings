@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 64.00% | ~224 |
+| The Big Day | 65.00% | ~228 |
 | You're the Expert! | 32.00% | ~112 |
-| Home Cook | 28.00% | ~98 |
+| Home Cook | 29.00% | ~102 |
 | So Clean You Can Eat Off the Floor | 19.00% | ~66 |
 | French Flair | 17.00% | ~60 |
 | S is for Scrumptious | 17.00% | ~60 |

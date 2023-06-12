@@ -1167,9 +1167,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22166,
+  "EOS_Progressed": 22168,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4032,6 +4032,11 @@
       "Time": "2023-06-11T20:05:46.6259479+00:00",
       "NumProgressed": 22166,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-12T00:07:24.235767+00:00",
+      "NumProgressed": 22168,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -4051,7 +4056,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "AllEquipment",
@@ -4115,7 +4120,7 @@
       "Name": "For Glory",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "BossCastleDefeated",
@@ -4203,7 +4208,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -4354,21 +4359,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22166,
+      "Progressed": 22168,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1096,
+      "Progressed": 1098,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-10T10:58:58.7946026+00:00",
-  "LastChanged_Achievements": "2023-06-11T23:06:36.0013397+00:00",
+  "LastChanged_Achievements": "2023-06-12T00:07:24.2357666+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:32.4946327+00:00",
-  "LastUpdate_Ratings": "2023-06-11T22:59:30.8569059+00:00",
-  "LastUpdate_Achievements": "2023-06-11T23:06:36.0014191+00:00"
+  "LastUpdate_Ratings": "2023-06-12T00:00:02.467096+00:00",
+  "LastUpdate_Achievements": "2023-06-12T00:07:24.2358048+00:00"
 }

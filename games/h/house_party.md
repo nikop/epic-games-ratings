@@ -19,7 +19,7 @@ Number of Ratings: 177  (23.09.2022)
 | IRL Let's Player | 0.50% | ~28 |
 | Inspector | 0.50% | ~28 |
 | Newcomer: Vickie | 0.50% | ~28 |
-| Social Butterfly | 0.40% | ~22 |
+| Social Butterfly | 0.50% | ~28 |
 | Amy | 0.30% | ~17 |
 | I'll Be Back | 0.30% | ~17 |
 | It Smells Like Roses | 0.30% | ~8 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,535 (Ranked 126)  
+Progressed: 5,536 (Ranked 126)  
 Completed: 3 (0.05%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 3 (0.05%) (Ranked 184)
 | 2023-06-09 | 5,480 | 3 |
 | 2023-06-10 | 5,515 | 3 |
 | 2023-06-11 | 5,535 | 3 |
+| 2023-06-12 | 5,536 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

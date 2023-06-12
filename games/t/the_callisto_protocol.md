@@ -7,15 +7,15 @@ Rating: 4.18 (Ranked 842)
 | ---- | ---------- | ----- |
 | Flesh Wound | 14.00% | ~2,111 |
 | The Outer Way | 13.00% | ~1,960 |
-| Desperate Times | 12.00% | ~1,809 |
-| Paper Jams | 11.00% | ~1,658 |
+| Desperate Times | 12.00% | ~1,810 |
+| Paper Jams | 11.00% | ~1,659 |
 | Chew 'Em Up | 9.00% | ~1,357 |
 | Reforged | 9.00% | ~1,357 |
 | Workplace Hazard | 8.00% | ~1,206 |
 | If the SHU Fits... | 8.00% | ~1,206 |
-| Giving Back | 7.00% | ~1,055 |
-| Get a Grip | 7.00% | ~1,055 |
-| Without A Paddle | 7.00% | ~1,055 |
+| Giving Back | 7.00% | ~1,056 |
+| Get a Grip | 7.00% | ~1,056 |
+| Without A Paddle | 7.00% | ~1,056 |
 | Two Heads Are Better Than One | 5.00% | ~754 |
 | Terminated | 5.00% | ~754 |
 | Float Like A Butterfly | 5.00% | ~754 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 842)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,076 (Ranked 104)  
+Progressed: 15,080 (Ranked 104)  
 Completed: 54 (0.36%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,15 +98,16 @@ Completed: 54 (0.36%) (Ranked 124)
 | 2023-06-09 | 14,877 | 54 |
 | 2023-06-10 | 14,984 | 54 |
 | 2023-06-11 | 15,076 | 54 |
+| 2023-06-12 | 15,080 | 54 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
-Sum: 305 (Ranked 328)  
+Sum: 306 (Ranked 328)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 53 |
+| This game has Quickly Understood Controls | 52 |
 | This game is Highly Recommended | 51 |
-| This game has Quickly Understood Controls | 51 |
 | This game has Amazing Characters | 48 |
 | This game is Extremely Fun | 46 |
 | This game has Challenging Combat | 36 |
@@ -176,4 +177,4 @@ Diff (max vs sum): 58
 | 2023-06-08 | 4.18 | 52 | 297 |
 | 2023-06-09 | 4.18 | 52 | 301 |
 | 2023-06-10 | 4.18 | 52 | 302 |
-| 2023-06-11 | 4.18 | 53 | 305 |
+| 2023-06-11 | 4.18 | 53 | 306 |

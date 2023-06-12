@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4276,
+  "EOS_Progressed": 4278,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3168,6 +3168,11 @@
       "Time": "2023-06-11T21:03:11.663293+00:00",
       "NumProgressed": 4276,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T00:04:15.199803+00:00",
+      "NumProgressed": 4278,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3179,7 +3184,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3207
+      "UsersEstimate": 3208
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -3187,7 +3192,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3195,7 +3200,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2781
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -3203,7 +3208,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -3219,7 +3224,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3227,7 +3232,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -3235,7 +3240,7 @@
       "Name": "Scaling up",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3251,7 +3256,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -3291,7 +3296,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -3458,13 +3463,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4276,
+      "Progressed": 4278,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3648,
+      "Progressed": 3650,
       "Completed": 112
     }
   ],
@@ -3472,8 +3477,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-06-11T23:03:34.5419047+00:00",
+  "LastChanged_Achievements": "2023-06-12T00:04:15.1998026+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:15.9620903+00:00",
-  "LastUpdate_Ratings": "2023-06-11T23:00:13.6368519+00:00",
-  "LastUpdate_Achievements": "2023-06-11T23:03:34.5419861+00:00"
+  "LastUpdate_Ratings": "2023-06-12T00:00:48.2629488+00:00",
+  "LastUpdate_Achievements": "2023-06-12T00:04:15.1998369+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 443,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1001,6 +1001,11 @@
       "Time": "2023-06-11T21:03:07.1715695+00:00",
       "NumProgressed": 441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-12T00:04:09.0123165+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1012,7 +1017,7 @@
       "Name": "Adventurous 1",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "adventurous_2",
@@ -1036,7 +1041,7 @@
       "Name": "Archmage 1",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "archmage_2",
@@ -1138,7 +1143,7 @@
       "ID": "conqueror_2",
       "SetID": "53c1p3k",
       "Name": "Conqueror 2",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -1180,7 +1185,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 222
     },
     {
       "ID": "elemental_stones_2",
@@ -1322,9 +1327,9 @@
       "ID": "lord_of_the_tower_1",
       "SetID": "53c1p3k",
       "Name": "Lord of the Tower 1",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "lord_of_the_tower_2",
@@ -1539,14 +1544,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 443,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-11T23:03:30.0168432+00:00",
+  "LastChanged_Achievements": "2023-06-12T00:04:09.0123158+00:00",
   "LastUpdate_AppInfo": "2023-06-05T19:57:17.4404543+00:00",
-  "LastUpdate_Ratings": "2023-06-11T22:57:04.6297338+00:00",
-  "LastUpdate_Achievements": "2023-06-11T23:03:30.0169487+00:00"
+  "LastUpdate_Ratings": "2023-06-11T23:57:27.9492549+00:00",
+  "LastUpdate_Achievements": "2023-06-12T00:04:09.0123689+00:00"
 }

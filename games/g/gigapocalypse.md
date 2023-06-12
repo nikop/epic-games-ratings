@@ -34,9 +34,9 @@
 | Mommy's Very Angry | 27.00% | ~40 |
 | Animal Lover | 27.00% | ~40 |
 | Supremacy | 27.00% | ~40 |
+| Immortal Skin | 23.00% | ~34 |
 | Loyal Companion | 23.00% | ~34 |
 | Back To The Future | 22.00% | ~33 |
-| Immortal Skin | 22.00% | ~33 |
 | Fire Beacon | 21.00% | ~32 |
 | Lunch Before The Lunch | 19.00% | ~28 |
 | From Here To Eternity | 17.00% | ~26 |

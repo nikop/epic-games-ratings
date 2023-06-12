@@ -14,11 +14,11 @@ Rating: 4.64 (Ranked 313)
 | From the Vault with Love | 37.00% | ~2,497 |
 | Tailor-Made | 37.00% | ~2,497 |
 | Fully Decked Out | 35.00% | ~2,362 |
-| You Only Live Twice | 32.00% | ~2,159 |
-| A view to Win | 28.00% | ~1,889 |
+| You Only Live Twice | 32.00% | ~2,160 |
+| A view to Win | 28.00% | ~1,890 |
+| Smells Like Trouble | 26.00% | ~1,755 |
 | Private Collection | 25.00% | ~1,687 |
 | Hostile Takeover | 25.00% | ~1,687 |
-| Smells Like Trouble | 25.00% | ~1,687 |
 | Assistant Accountant | 24.00% | ~1,620 |
 | The Living Portrait | 24.00% | ~1,620 |
 | My Motto, My Creed | 24.00% | ~1,620 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 313)
 | Extraction Confusion | 0.30% | ~20 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,748 (Ranked 119)  
+Progressed: 6,749 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-09 | 6,697 | 0 |
 | 2023-06-10 | 6,727 | 0 |
 | 2023-06-11 | 6,748 | 0 |
+| 2023-06-12 | 6,749 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
