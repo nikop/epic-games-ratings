@@ -23,7 +23,7 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.60% |
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.16% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.04% |
 | 27 | [Scorn](games/s/scorn.md) | 6.81% |
@@ -48,9 +48,9 @@
 | 46 | [The Complex](games/t/the_complex.md) | 3.27% |
 | 47 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.18% |
 | 48 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.08% |
-| 49 | [The Bunker](games/t/the_bunker.md) | 2.97% |
-| 50 | [HordeCore](games/h/hordecore.md) | 2.95% |
-| 51 | [MultiVersus](games/m/multiversus.md) | 2.94% |
+| 49 | [HordeCore](games/h/hordecore.md) | 2.95% |
+| 50 | [MultiVersus](games/m/multiversus.md) | 2.94% |
+| 50 | [The Bunker](games/t/the_bunker.md) | 2.94% |
 | 52 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 2.79% |
 | 54 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.78% |
@@ -105,7 +105,7 @@
 | 103 | [Haven](games/h/haven.md) | 0.71% |
 | 104 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.70% |
 | 105 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.69% |
-| 105 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.69% |
+| 106 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.68% |
 | 107 | [Train Valley](games/t/train_valley.md) | 0.67% |
 | 108 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.66% |
 | 109 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
@@ -129,8 +129,8 @@
 | 127 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 127 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
 | 127 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 127 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
 | 127 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
+| 131 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 132 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 133 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 133 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
