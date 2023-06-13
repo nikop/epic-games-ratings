@@ -5,14 +5,14 @@ Rating: 4.22 (Ranked 814)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 72.00% | ~834 |
+| Country Bumpkin | 73.00% | ~845 |
 | A new Journey | 71.00% | ~822 |
+| From X to Y | 70.00% | ~811 |
 | Departure | 70.00% | ~811 |
-| From X to Y | 69.00% | ~799 |
 | Way of Iron | 68.00% | ~787 |
 | Mystery Tour | 66.00% | ~764 |
+| Brainstorm | 65.00% | ~753 |
 | We brake for nobody | 65.00% | ~753 |
-| Brainstorm | 64.00% | ~741 |
 | Mind the Gap | 63.00% | ~730 |
 | Travel Company | 63.00% | ~730 |
 | All around the World | 60.00% | ~695 |
@@ -21,7 +21,7 @@ Rating: 4.22 (Ranked 814)
 | Facility Manager | 51.00% | ~591 |
 | Producer | 48.00% | ~556 |
 | Apprentice | 41.00% | ~475 |
-| Bridge Builder | 38.00% | ~440 |
+| Bridge Builder | 39.00% | ~452 |
 | Stoker | 33.00% | ~382 |
 | Access granted | 33.00% | ~382 |
 | Going once, going twice, sold | 31.00% | ~359 |

@@ -29,8 +29,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.50% | ~453 |
 | Quick or Quack | 0.50% | ~284 |
 | Maddening | 0.40% | ~362 |
-| Owlbear Necessities | 0.40% | ~227 |
-| Best Thay Ever | 0.40% | ~227 |
+| Owlbear Necessities | 0.40% | ~228 |
+| Best Thay Ever | 0.40% | ~228 |
 | Beast Mode | 0.40% | ~362 |
 | Low Initiative | 0.40% | ~362 |
 | A Mysterious Summons | 0.40% | ~362 |
@@ -93,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold as Ice | 0.20% | ~114 |
 | Friends and Foes | 0.20% | ~114 |
 | Nightmare Rats! | 0.20% | ~114 |
+| Back to Nature | 0.20% | ~114 |
 | The Witchlight Carnival | 0.20% | ~114 |
 | A Monarch Among Us | 0.20% | ~114 |
 | A Dragon Against Us | 0.20% | ~114 |
@@ -327,7 +328,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~57 |
 | And Your Enemies Closer | 0.10% | ~57 |
 | An Unexpected Geist | 0.10% | ~57 |
-| Back to Nature | 0.10% | ~57 |
 | The Spire of Iriolarthas | 0.10% | ~57 |
 | Always Watching | 0.10% | ~57 |
 | The Fall of Ythryn | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,599 (Ranked 64)  
+Progressed: 90,603 (Ranked 64)  
 Completed: 1,930 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,10 +554,10 @@ Completed: 1,930 (2.13%) (Ranked 65)
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
-| 2023-06-13 | 90,599 | 1,930 |
+| 2023-06-13 | 90,603 | 1,930 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
-Sum: 30,087 (Ranked 37)  
+Sum: 30,089 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -565,7 +565,7 @@ Diff (max vs sum): 27
 | This game is Great for Beginners | 4,864 |
 | This game has Quickly Understood Controls | 4,614 |
 | This game is Relaxing | 4,512 |
-| This game is Highly Recommended | 3,958 |
+| This game is Highly Recommended | 3,960 |
 | This game has Amazing Characters | 3,953 |
 | This game has Playful Visuals | 3,249 |
 ## Ratings History
@@ -709,4 +709,4 @@ Diff (max vs sum): 27
 | 2023-06-10 | 4.06 | - | 4,928 | 30,075 |
 | 2023-06-11 | 4.06 | - | 4,934 | 30,081 |
 | 2023-06-12 | 4.06 | - | 4,934 | 30,084 |
-| 2023-06-13 | 4.06 | - | 4,937 | 30,087 |
+| 2023-06-13 | 4.06 | - | 4,937 | 30,089 |

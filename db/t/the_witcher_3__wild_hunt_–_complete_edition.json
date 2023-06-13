@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-05-14T14:00:00+00:00",
@@ -6377,18 +6377,24 @@
       "Rating": 4.89,
       "NumberOfAwards": 38516,
       "NumberOfAwardsMax": 15810
+    },
+    {
+      "Time": "2023-06-13T09:00:29.3095286+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 38579,
+      "NumberOfAwardsMax": 15860
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 38516,
-  "NumberOfAwardsMax": 15810,
+  "NumberOfAwards": 38579,
+  "NumberOfAwardsMax": 15860,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 15810
+      "Count": 15860
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6412,7 +6418,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2453
+      "Count": 2457
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6448,7 +6454,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2397
+      "Count": 2406
     },
     {
       "Text": "This game has a Creative Community",
@@ -6468,8 +6474,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2023-06-12T21:59:11.7852466+00:00",
+  "LastChanged": "2023-06-13T09:00:29.3095284+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:41.6942268+00:00",
-  "LastUpdate_Ratings": "2023-06-13T08:00:10.4235081+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:04:18.7100575+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:00:29.3095291+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:04:37.2521891+00:00"
 }

@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 62.00% | ~272 |
-| Read Between The Lines | 61.00% | ~267 |
+| Read Between The Lines | 61.00% | ~268 |
 | High Profile | 55.00% | ~241 |
 | Whispers In The Dark | 54.00% | ~237 |
-| Fond Memories | 50.00% | ~219 |
+| Fond Memories | 50.00% | ~220 |
 | A Method To His Madness | 49.00% | ~215 |
-| History Check | 48.00% | ~210 |
-| Lock, Stock, And Barrel | 45.00% | ~197 |
-| The New World | 45.00% | ~197 |
+| History Check | 48.00% | ~211 |
+| Lock, Stock, And Barrel | 45.00% | ~198 |
+| The New World | 45.00% | ~198 |
 | Open Sesame | 44.00% | ~193 |
 | Sticky Fingers | 44.00% | ~193 |
-| Gaze Into The Abyss | 43.00% | ~188 |
-| Knives Out | 43.00% | ~188 |
+| Gaze Into The Abyss | 43.00% | ~189 |
+| Knives Out | 43.00% | ~189 |
 | Back In The Saddle | 42.00% | ~184 |
 | Land, Ho! | 41.00% | ~180 |
 | No Man Is An Island | 39.00% | ~171 |
-| At Wits' End | 38.00% | ~166 |
+| At Wits' End | 38.00% | ~167 |
 | Going Once... | 36.00% | ~158 |
 | Bookworm | 36.00% | ~158 |
 | Up In Flames | 36.00% | ~158 |
@@ -33,8 +33,8 @@
 | Big Breakthrough | 15.00% | ~66 |
 | Reawakened | 5.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 438 (Ranked 206)  
-Completed: 17 (3.88%) (Ranked 36)  
+Progressed: 439 (Ranked 206)  
+Completed: 17 (3.87%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,7 +84,7 @@ Completed: 17 (3.88%) (Ranked 36)
 | 2023-06-10 | 423 | 17 |
 | 2023-06-11 | 431 | 17 |
 | 2023-06-12 | 435 | 17 |
-| 2023-06-13 | 438 | 17 |
+| 2023-06-13 | 439 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2983,
+  "EOS_Progressed": 2984,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -2094,6 +2094,11 @@
       "Time": "2023-06-13T08:07:30.2451741+00:00",
       "NumProgressed": 2983,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-13T09:07:48.8301607+00:00",
+      "NumProgressed": 2984,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -2151,9 +2156,9 @@
       "ID": "campaign1",
       "SetID": "2h56gn1",
       "Name": "You and what Army?",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2656
     },
     {
       "ID": "campaign10",
@@ -2201,7 +2206,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "campaign16",
@@ -2217,7 +2222,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "campaign18",
@@ -2257,7 +2262,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "campaign4",
@@ -2281,7 +2286,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "campaign7",
@@ -2289,7 +2294,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "campaign8",
@@ -2361,14 +2366,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2983,
+      "Progressed": 2984,
       "Completed": 9
     }
   ],
@@ -2376,8 +2381,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-13T08:07:30.2451732+00:00",
+  "LastChanged_Achievements": "2023-06-13T09:07:48.8301602+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:43.3295912+00:00",
-  "LastUpdate_Ratings": "2023-06-13T08:01:15.7227162+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:07:30.2452374+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:01:35.3795691+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:07:48.8301971+00:00"
 }

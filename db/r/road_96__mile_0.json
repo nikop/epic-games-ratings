@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -739,6 +739,11 @@
       "Time": "2023-06-12T17:04:32.5056944+00:00",
       "NumProgressed": 290,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T09:04:58.0258662+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -869,7 +874,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 2
     }
   ],
@@ -877,8 +882,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-13T08:04:38.4904084+00:00",
+  "LastChanged_Achievements": "2023-06-13T09:04:58.0258656+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:06.7741113+00:00",
-  "LastUpdate_Ratings": "2023-06-13T07:59:32.9775884+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:04:38.4904245+00:00"
+  "LastUpdate_Ratings": "2023-06-13T08:59:51.6392764+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:04:58.0258819+00:00"
 }

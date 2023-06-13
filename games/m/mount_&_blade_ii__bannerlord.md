@@ -11,15 +11,15 @@ Number of Ratings: 5,603  (23.09.2022)
 | Bannerlord | 21.00% | ~11,136 |
 | Horde breaker | 21.00% | ~11,136 |
 | Lawmaker | 21.00% | ~11,136 |
-| Trained | 20.00% | ~10,605 |
+| Trained | 20.00% | ~10,606 |
 | The king is pleased | 17.00% | ~9,015 |
 | King Solomon | 16.00% | ~8,484 |
 | I can do it | 15.00% | ~7,954 |
 | Apple of my eye | 14.00% | ~7,424 |
 | God of the Arena | 12.00% | ~6,363 |
 | Against all odds | 10.00% | ~5,303 |
-| Duelist | 9.00% | ~4,772 |
-| Swordbearer | 9.00% | ~4,772 |
+| Duelist | 9.00% | ~4,773 |
+| Swordbearer | 9.00% | ~4,773 |
 | Dynasty | 8.00% | ~4,242 |
 | I spit on your grave | 8.00% | ~4,242 |
 | What have the Romans ever done for us? | 8.00% | ~4,242 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,027 (Ranked 79)  
+Progressed: 53,028 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,14 +112,14 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 52,776 | 0 |
 | 2023-06-11 | 52,899 | 0 |
 | 2023-06-12 | 53,008 | 0 |
-| 2023-06-13 | 53,027 | 0 |
+| 2023-06-13 | 53,028 | 0 |
 ## Awards
-Max (Character Customization): 6,659  (Ranked 49)  
-Sum: 13,383 (Ranked 68)  
+Max (Character Customization): 6,660  (Ranked 49)  
+Sum: 13,384 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,659 |
+| This game has Inclusive Character Customization | 6,660 |
 | This game is Great for Beginners | 850 |
 | This game has Diverse Characters | 827 |
 | This game is Highly Recommended | 792 |
@@ -283,3 +283,4 @@ Diff (max vs sum): -19
 | 2023-06-10 | 4.74 | - | 6,654 | 13,356 |
 | 2023-06-11 | 4.74 | - | 6,659 | 13,375 |
 | 2023-06-12 | 4.75 | - | 6,659 | 13,383 |
+| 2023-06-13 | 4.75 | - | 6,660 | 13,384 |

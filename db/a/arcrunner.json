@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -818,6 +818,11 @@
       "Time": "2023-06-12T22:02:16.9855883+00:00",
       "NumProgressed": 415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T09:03:28.0852436+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -829,7 +834,7 @@
       "Name": "Augmented",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 396
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -845,15 +850,15 @@
       "Name": "Challenge Accepted",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 334
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 163
     },
     {
       "ID": "ACHV_CITY",
@@ -861,7 +866,7 @@
       "Name": "The City",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -893,7 +898,7 @@
       "Name": "Starship Docks",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHV_EDEN",
@@ -933,7 +938,7 @@
       "Name": "Integration",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHV_NANONIC1",
@@ -941,7 +946,7 @@
       "Name": "Nanonic I",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -957,7 +962,7 @@
       "Name": "Nanonic III",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -981,7 +986,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -989,7 +994,7 @@
       "Name": "Supply Run",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHV_TERMINATED1",
@@ -997,7 +1002,7 @@
       "Name": "Terminated I",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHV_TERMINATED2",
@@ -1005,7 +1010,7 @@
       "Name": "Terminated II",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -1013,15 +1018,15 @@
       "Name": "Terminated III",
       "Percentage": 41,
       "XP": 90,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHV_TRICKSHOT",
       "SetID": "cceobco",
       "Name": "Trickshot",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHV_UNLOCKEDANDLOADED",
@@ -1029,7 +1034,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -1052,7 +1057,7 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 417,
       "Completed": 0
     }
   ],
@@ -1060,8 +1065,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-13T08:03:29.2683062+00:00",
+  "LastChanged_Achievements": "2023-06-13T09:03:28.0852427+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:05.1383169+00:00",
-  "LastUpdate_Ratings": "2023-06-13T08:00:34.8169308+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:03:29.2683398+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:00:53.9087932+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:03:28.0852687+00:00"
 }

@@ -52,7 +52,7 @@
   "Tags": [],
   "EOS_Progressed": 1158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1899,9 +1899,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 811
     },
     {
       "ID": "A11",
@@ -1979,9 +1979,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 834
+      "UsersEstimate": 845
     },
     {
       "ID": "A21",
@@ -1995,9 +1995,9 @@
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 753
     },
     {
       "ID": "A23",
@@ -2155,9 +2155,9 @@
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 452
     },
     {
       "ID": "A43",
@@ -2268,8 +2268,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-11T13:01:13.9933619+00:00",
-  "LastChanged_Achievements": "2023-06-13T08:07:32.9043625+00:00",
+  "LastChanged_Achievements": "2023-06-13T09:07:51.5549471+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:16.145695+00:00",
-  "LastUpdate_Ratings": "2023-06-13T07:58:39.9647754+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:07:32.90447+00:00"
+  "LastUpdate_Ratings": "2023-06-13T08:58:58.806818+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:07:51.5550048+00:00"
 }

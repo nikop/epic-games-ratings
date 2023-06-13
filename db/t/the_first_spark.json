@@ -4,7 +4,7 @@
   "ProductSlug": "the-first-spark-108e8a",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-12T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T22:00:14.2582113+00:00",
-  "LastUpdate_Ratings": "2023-06-13T08:00:44.9426961+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:03:10.2386776+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:01:04.1194229+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:03:09.3259256+00:00"
 }

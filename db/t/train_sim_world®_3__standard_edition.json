@@ -2,12 +2,12 @@
   "ID": "a64d4c5460384218b17de5bd785085f8",
   "Name": "Train Sim World\u00AE 3: Standard Edition",
   "ProductSlug": "train-sim-world-3",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 170,
   "RatingHistory": [
     {
@@ -1465,10 +1465,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 2179,
       "NumberOfAwardsMax": 295
+    },
+    {
+      "Time": "2023-06-13T09:00:23.2006626+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 2181,
+      "NumberOfAwardsMax": 295
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2179,
+  "NumberOfAwards": 2181,
   "NumberOfAwardsMax": 295,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1482,7 +1488,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 256
+      "Count": 257
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1530,7 +1536,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 161
+      "Count": 162
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1557,8 +1563,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2023-06-12T13:59:46.9572619+00:00",
+  "LastChanged": "2023-06-13T09:00:23.2006624+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:36.1729159+00:00",
-  "LastUpdate_Ratings": "2023-06-13T08:00:04.2010336+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:05:13.2751405+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:00:23.2006631+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:05:31.8714561+00:00"
 }

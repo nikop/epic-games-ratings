@@ -4196,10 +4196,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30087,
       "NumberOfAwardsMax": 4937
+    },
+    {
+      "Time": "2023-06-13T08:58:58.4168088+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30089,
+      "NumberOfAwardsMax": 4937
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30087,
+  "NumberOfAwards": 30089,
   "NumberOfAwardsMax": 4937,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4231,7 +4237,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3958
+      "Count": 3960
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4246,9 +4252,9 @@
       "Count": 3249
     }
   ],
-  "EOS_Progressed": 90599,
+  "EOS_Progressed": 90603,
   "EOS_Completed": 1930,
-  "EOS_NewPlayers": 684,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9756,6 +9762,11 @@
       "Time": "2023-06-13T08:07:43.397039+00:00",
       "NumProgressed": 90599,
       "NumCompleted": 1930
+    },
+    {
+      "Time": "2023-06-13T09:08:01.3949212+00:00",
+      "NumProgressed": 90603,
+      "NumCompleted": 1930
     }
   ],
   "TotalAchievements": 493,
@@ -9861,9 +9872,9 @@
       "ID": "objective_completed_1053",
       "SetID": "415jc5c",
       "Name": "Back to Nature",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_completed_1055",
@@ -10407,7 +10418,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "objective_completed_1158",
@@ -10439,7 +10450,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "objective_completed_1163",
@@ -13710,21 +13721,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56873,
+      "Progressed": 56877,
       "Completed": 2788
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90599,
+      "Progressed": 90603,
       "Completed": 1930
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-06-13T02:08:33.751113+00:00",
-  "LastChanged_Achievements": "2023-06-13T08:07:43.3970378+00:00",
+  "LastChanged": "2023-06-13T08:58:58.4168086+00:00",
+  "LastChanged_Achievements": "2023-06-13T09:08:01.3949205+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-13T07:58:39.5869803+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:07:43.4004971+00:00"
+  "LastUpdate_Ratings": "2023-06-13T08:58:58.4168094+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:08:01.3979538+00:00"
 }

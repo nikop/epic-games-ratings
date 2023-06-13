@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 25497,
+  "EOS_Progressed": 25503,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1246,
+  "EOS_NewPlayers": 1245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5811,6 +5811,11 @@
       "Time": "2023-06-13T08:07:15.7711734+00:00",
       "NumProgressed": 25497,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-13T09:07:34.4271782+00:00",
+      "NumProgressed": 25503,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 29,
@@ -5830,7 +5835,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5099
+      "UsersEstimate": 5101
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -5854,7 +5859,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -5870,7 +5875,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -5910,7 +5915,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -5918,7 +5923,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -5926,7 +5931,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -5958,7 +5963,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -6006,7 +6011,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -6014,7 +6019,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -6022,7 +6027,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -6030,7 +6035,7 @@
       "Name": "Too Metal For Magic",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_29_FINISHED_GAME_NO_DEATHS",
@@ -6038,7 +6043,7 @@
       "Name": "Heart Of Steel",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_30_FINISHED_HARDCORE_MODE",
@@ -6053,7 +6058,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 25497,
+      "Progressed": 25503,
       "Completed": 19
     }
   ],
@@ -6061,8 +6066,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-13T08:07:15.7711728+00:00",
+  "LastChanged_Achievements": "2023-06-13T09:07:34.4271777+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:28.781655+00:00",
-  "LastUpdate_Ratings": "2023-06-13T08:01:00.4099161+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:07:15.7712346+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:01:20.1925331+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:07:34.4272393+00:00"
 }

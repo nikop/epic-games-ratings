@@ -24,7 +24,7 @@ Number of Ratings: 20  (23.09.2022)
 | Traveller | 23.00% | ~73 |
 | Nahua Seeker | 22.00% | ~70 |
 | Roll to Save | 21.00% | ~66 |
-| Red Flag Pirate | 18.00% | ~57 |
+| Red Flag Pirate | 19.00% | ~60 |
 | Veteran Explorer | 18.00% | ~57 |
 | Iron Man | 16.00% | ~51 |
 | For the Club! | 15.00% | ~47 |
@@ -37,8 +37,8 @@ Number of Ratings: 20  (23.09.2022)
 | Adventurer | 13.00% | ~41 |
 | Discovery | 13.00% | ~41 |
 | Plays Well With Others | 13.00% | ~41 |
+| Very Classy | 12.00% | ~38 |
 | And Here Is Your Statue | 11.00% | ~35 |
-| Very Classy | 11.00% | ~35 |
 | Under the Table | 10.00% | ~32 |
 | It's Complicated | 9.00% | ~28 |
 | Cold Blood, Warm Heart | 9.00% | ~28 |

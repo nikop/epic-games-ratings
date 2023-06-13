@@ -411,9 +411,9 @@
       "ID": "ach-find-treasure",
       "SetID": "17ih7ma",
       "Name": "Red Flag Pirate",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "ach-find-treasure-high",
@@ -659,9 +659,9 @@
       "ID": "ach-unlockAllLeaders",
       "SetID": "17ih7ma",
       "Name": "Very Classy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ach-villageQuests",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-06-13T08:07:35.813609+00:00",
+  "LastChanged_Achievements": "2023-06-13T09:07:54.1750175+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:10.3347821+00:00",
-  "LastUpdate_Ratings": "2023-06-13T08:01:43.5973802+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:07:35.8137054+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:02:03.5492172+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:07:54.1750937+00:00"
 }

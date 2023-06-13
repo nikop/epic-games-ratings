@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 645,
+  "EOS_Progressed": 646,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -914,6 +914,11 @@
       "Time": "2023-06-13T02:17:31.0064889+00:00",
       "NumProgressed": 645,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T09:07:43.7766131+00:00",
+      "NumProgressed": 646,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -925,7 +930,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACH001",
@@ -941,7 +946,7 @@
       "Name": "Conquistador",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH003",
@@ -1013,7 +1018,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH012",
@@ -1157,7 +1162,7 @@
       "Name": "Licence to Kill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH030",
@@ -1213,7 +1218,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH037",
@@ -1317,22 +1322,22 @@
       "Name": "Wholesale",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 645,
+      "Progressed": 646,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-13T08:07:25.0237094+00:00",
+  "LastChanged_Achievements": "2023-06-13T09:07:43.7766125+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.6076867+00:00",
-  "LastUpdate_Ratings": "2023-06-13T07:59:09.6681217+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:07:25.0237594+00:00"
+  "LastUpdate_Ratings": "2023-06-13T08:59:28.4373471+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:07:43.7766578+00:00"
 }

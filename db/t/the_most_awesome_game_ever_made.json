@@ -4,7 +4,7 @@
   "ProductSlug": "the-most-awesome-game-ever-made-9b4643",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T21:57:49.4894828+00:00",
-  "LastUpdate_Ratings": "2023-06-13T07:58:11.0738021+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:04:06.8788787+00:00"
+  "LastUpdate_Ratings": "2023-06-13T08:58:29.9321505+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:04:25.5340738+00:00"
 }

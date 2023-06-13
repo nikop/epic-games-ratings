@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -190,9 +190,9 @@
       "ID": "DemonHunter",
       "SetID": "7g1kpc8",
       "Name": "Demonologist",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FinalBoss",
@@ -317,8 +317,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-06-13T08:03:32.5925932+00:00",
+  "LastChanged_Achievements": "2023-06-13T09:03:31.2710454+00:00",
   "LastUpdate_AppInfo": "2023-06-12T06:57:13.2452928+00:00",
-  "LastUpdate_Ratings": "2023-06-13T07:57:30.2025831+00:00",
-  "LastUpdate_Achievements": "2023-06-13T08:03:32.5926164+00:00"
+  "LastUpdate_Ratings": "2023-06-13T08:57:48.3457462+00:00",
+  "LastUpdate_Achievements": "2023-06-13T09:03:31.2710636+00:00"
 }
