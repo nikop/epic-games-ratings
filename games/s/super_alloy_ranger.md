@@ -8,11 +8,11 @@
 | Gear Up | 70.00% | ~28 |
 | A Grand Show | 70.00% | ~28 |
 | Freshen Up | 63.00% | ~25 |
-| GG EZ | 55.00% | ~22 |
+| GG EZ | 57.00% | ~23 |
 | Hydrophobia | 35.00% | ~14 |
-| Ka-Ching! | 30.00% | ~12 |
+| Ka-Ching! | 33.00% | ~13 |
 | Stop Right There | 30.00% | ~12 |
-| Get to the Point | 23.00% | ~9 |
+| Get to the Point | 25.00% | ~10 |
 | Phew! | 15.00% | ~6 |
 | Toe to Toe | 13.00% | ~5 |
 | Mr. Want It All | 10.00% | ~4 |

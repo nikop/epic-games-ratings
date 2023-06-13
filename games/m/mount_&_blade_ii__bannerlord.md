@@ -6,26 +6,26 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,092 |
-| Landlord | 30.00% | ~15,910 |
-| Bannerlord | 21.00% | ~11,137 |
-| Horde breaker | 21.00% | ~11,137 |
-| Lawmaker | 21.00% | ~11,137 |
-| Trained | 20.00% | ~10,606 |
-| The king is pleased | 17.00% | ~9,015 |
-| King Solomon | 16.00% | ~8,485 |
-| I can do it | 15.00% | ~7,955 |
-| Apple of my eye | 14.00% | ~7,424 |
+| Lawbringer | 36.00% | ~19,093 |
+| Landlord | 30.00% | ~15,911 |
+| Bannerlord | 21.00% | ~11,138 |
+| Horde breaker | 21.00% | ~11,138 |
+| Lawmaker | 21.00% | ~11,138 |
+| Trained | 20.00% | ~10,607 |
+| The king is pleased | 17.00% | ~9,016 |
+| King Solomon | 16.00% | ~8,486 |
+| I can do it | 15.00% | ~7,956 |
+| Apple of my eye | 14.00% | ~7,425 |
 | God of the Arena | 12.00% | ~6,364 |
-| Against all odds | 10.00% | ~5,303 |
+| Against all odds | 10.00% | ~5,304 |
 | Duelist | 9.00% | ~4,773 |
 | Swordbearer | 9.00% | ~4,773 |
 | Dynasty | 8.00% | ~4,243 |
 | I spit on your grave | 8.00% | ~4,243 |
 | What have the Romans ever done for us? | 8.00% | ~4,243 |
-| Butterlord | 7.00% | ~3,712 |
-| Mastery | 7.00% | ~3,712 |
-| This Is Our Land | 7.00% | ~3,712 |
+| Butterlord | 7.00% | ~3,713 |
+| Mastery | 7.00% | ~3,713 |
+| This Is Our Land | 7.00% | ~3,713 |
 | Know your enemy | 6.00% | ~3,182 |
 | Crowdfunded | 4.00% | ~2,121 |
 | Crush your enemies | 4.00% | ~2,121 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,032 (Ranked 79)  
+Progressed: 53,037 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 52,776 | 0 |
 | 2023-06-11 | 52,899 | 0 |
 | 2023-06-12 | 53,008 | 0 |
-| 2023-06-13 | 53,032 | 0 |
+| 2023-06-13 | 53,037 | 0 |
 ## Awards
 Max (Character Customization): 6,660  (Ranked 49)  
 Sum: 13,384 (Ranked 68)  

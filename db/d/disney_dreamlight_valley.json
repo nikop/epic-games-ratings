@@ -2127,11 +2127,20 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "chapdi4",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
+  "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-06-13T06:58:25.8870777+00:00",
+  "LastChanged_Achievements": "2023-06-13T11:04:21.3893065+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.6016514+00:00",
-  "LastUpdate_Ratings": "2023-06-13T09:58:02.3930941+00:00",
-  "LastUpdate_Achievements": "2023-06-13T10:04:29.2371839+00:00"
+  "LastUpdate_Ratings": "2023-06-13T10:57:52.1971183+00:00",
+  "LastUpdate_Achievements": "2023-06-13T11:04:21.3893116+00:00"
 }

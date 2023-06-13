@@ -686,9 +686,9 @@
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Management",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
@@ -871,8 +871,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-13T10:05:50.5980032+00:00",
+  "LastChanged_Achievements": "2023-06-13T11:05:28.6794152+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:45.5979411+00:00",
-  "LastUpdate_Ratings": "2023-06-13T09:58:27.0598267+00:00",
-  "LastUpdate_Achievements": "2023-06-13T10:05:50.598023+00:00"
+  "LastUpdate_Ratings": "2023-06-13T10:58:12.3586388+00:00",
+  "LastUpdate_Achievements": "2023-06-13T11:05:28.6794464+00:00"
 }

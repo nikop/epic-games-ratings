@@ -6,13 +6,13 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,698 |
-| A Grove Replanted | 53.00% | ~3,500 |
-| Fields Watered | 41.00% | ~2,707 |
-| Seekers Found | 41.00% | ~2,707 |
-| Settling the Skies | 41.00% | ~2,707 |
-| Wind Powered | 40.00% | ~2,641 |
-| It Takes a Village | 34.00% | ~2,245 |
+| A Small Community | 56.00% | ~3,699 |
+| A Grove Replanted | 53.00% | ~3,501 |
+| Fields Watered | 41.00% | ~2,708 |
+| Seekers Found | 41.00% | ~2,708 |
+| Settling the Skies | 41.00% | ~2,708 |
+| Wind Powered | 40.00% | ~2,642 |
+| It Takes a Village | 34.00% | ~2,246 |
 | On the Town | 28.00% | ~1,849 |
 | Daylight Found | 25.00% | ~1,651 |
 | Irons Scorched | 25.00% | ~1,651 |
@@ -24,17 +24,17 @@ Number of Ratings: 74  (23.09.2022)
 | Knowledge Shared | 20.00% | ~1,321 |
 | Relic Finder | 20.00% | ~1,321 |
 | Worthy of the Title | 19.00% | ~1,255 |
-| A Peaceful Respite | 14.00% | ~924 |
-| Prophecy Fulfilled | 13.00% | ~858 |
-| A Learned Scholar | 12.00% | ~792 |
-| A Wanderer’s Guide | 11.00% | ~726 |
+| A Peaceful Respite | 14.00% | ~925 |
+| Prophecy Fulfilled | 13.00% | ~859 |
+| A Learned Scholar | 12.00% | ~793 |
+| A Wanderer’s Guide | 11.00% | ~727 |
 | Knowledge Seeker | 7.00% | ~462 |
 | The Cycle Continues | 3.00% | ~198 |
 | Glowing Waters | 2.00% | ~132 |
 | Sparkling Alloys | 2.00% | ~132 |
 | A True Challenge | 2.00% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,603 (Ranked 120)  
+Progressed: 6,605 (Ranked 120)  
 Completed: 52 (0.79%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,6 +88,7 @@ Completed: 52 (0.79%) (Ranked 97)
 | 2023-06-10 | 6,578 | 52 |
 | 2023-06-11 | 6,591 | 52 |
 | 2023-06-12 | 6,603 | 52 |
+| 2023-06-13 | 6,605 | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

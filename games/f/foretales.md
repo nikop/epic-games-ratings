@@ -11,7 +11,7 @@
 | Aboard the Sea Bird | 31.00% | ~82 |
 | Elephant in the room | 30.00% | ~79 |
 | Dark and stinky | 29.00% | ~76 |
-| Sneak in, sneak out | 26.00% | ~68 |
+| Sneak in, sneak out | 27.00% | ~71 |
 | Is this the end? | 25.00% | ~66 |
 | A gift horse | 24.00% | ~63 |
 | You sssaved me | 24.00% | ~63 |
@@ -23,7 +23,7 @@
 | Stronk | 15.00% | ~39 |
 | Welcome to Forte Ailes | 13.00% | ~34 |
 | Super Moth Boy | 12.00% | ~32 |
-| The Bad Place | 9.00% | ~24 |
+| The Bad Place | 10.00% | ~26 |
 | Meet your maker | 8.00% | ~21 |
 | Pacifist fanatic | 8.00% | ~21 |
 | A grave matter | 7.00% | ~18 |

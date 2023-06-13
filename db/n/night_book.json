@@ -178,9 +178,9 @@
       "ID": "deal_or_no_deal",
       "SetID": "a3kkelb",
       "Name": "Deal Or No Deal",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "hopeful",
@@ -234,9 +234,9 @@
       "ID": "on_your_bike",
       "SetID": "a3kkelb",
       "Name": "On Your Bike",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "pearce",
@@ -307,8 +307,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-06-13T10:05:49.4917421+00:00",
+  "LastChanged_Achievements": "2023-06-13T11:05:27.6855574+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:27.562273+00:00",
-  "LastUpdate_Ratings": "2023-06-13T09:57:20.865728+00:00",
-  "LastUpdate_Achievements": "2023-06-13T10:05:49.4917551+00:00"
+  "LastUpdate_Ratings": "2023-06-13T10:57:19.3533165+00:00",
+  "LastUpdate_Achievements": "2023-06-13T11:05:27.68557+00:00"
 }

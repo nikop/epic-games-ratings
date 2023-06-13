@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2764,
+  "EOS_Progressed": 2766,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3407,6 +3407,11 @@
       "Time": "2023-06-13T10:06:07.0396678+00:00",
       "NumProgressed": 2764,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T11:05:42.5092009+00:00",
+      "NumProgressed": 2766,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3450,7 +3455,7 @@
       "Name": "Opposing Force",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -3498,7 +3503,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3584,9 +3589,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 663
+      "UsersEstimate": 692
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3642,7 +3647,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3658,7 +3663,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3786,7 +3791,7 @@
       "Name": "Taking it back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3826,7 +3831,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -3985,13 +3990,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2715,
+      "Progressed": 2717,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2764,
+      "Progressed": 2766,
       "Completed": 2
     }
   ],
@@ -3999,8 +4004,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-12T12:00:24.1242654+00:00",
-  "LastChanged_Achievements": "2023-06-13T10:06:07.0396675+00:00",
+  "LastChanged_Achievements": "2023-06-13T11:05:42.5092004+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:00:30.5946741+00:00",
-  "LastUpdate_Achievements": "2023-06-13T10:06:07.0397347+00:00"
+  "LastUpdate_Ratings": "2023-06-13T10:59:51.418571+00:00",
+  "LastUpdate_Achievements": "2023-06-13T11:05:42.509289+00:00"
 }

@@ -209,6 +209,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Stumbling Escape | 0.20% | ~181 |
 | Fugitives | 0.20% | ~181 |
 | From The Shadows | 0.20% | ~181 |
+| Spined Nuisances | 0.20% | ~181 |
 | Excavating History | 0.20% | ~181 |
 | Towering Expectations | 0.20% | ~181 |
 | Hopelessly Lost | 0.20% | ~181 |
@@ -392,7 +393,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Late Game | 0.10% | ~91 |
 | Shadowfell Stalwarts | 0.10% | ~57 |
 | Distracted Escape | 0.10% | ~57 |
-| Spined Nuisances | 0.10% | ~91 |
 | Twilight Twist | 0.10% | ~57 |
 | Screams of the Dead | 0.10% | ~91 |
 | Frantic Excavation | 0.10% | ~91 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,606 (Ranked 64)  
+Progressed: 90,609 (Ranked 64)  
 Completed: 1,930 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,7 +554,7 @@ Completed: 1,930 (2.13%) (Ranked 65)
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
-| 2023-06-13 | 90,606 | 1,930 |
+| 2023-06-13 | 90,609 | 1,930 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
 Sum: 30,089 (Ranked 37)  

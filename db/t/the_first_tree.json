@@ -6,7 +6,7 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 87,
-  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
@@ -232,11 +232,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32063,
+  "EOS_Progressed": 32064,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:12.9453937+00:00",
@@ -4987,6 +4987,11 @@
       "Time": "2023-06-13T10:05:55.9905146+00:00",
       "NumProgressed": 32063,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-06-13T11:05:33.0640631+00:00",
+      "NumProgressed": 32064,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 14,
@@ -5014,7 +5019,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8336
+      "UsersEstimate": 8337
     },
     {
       "ID": "allItems",
@@ -5086,7 +5091,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 25009
+      "UsersEstimate": 25010
     },
     {
       "ID": "roots",
@@ -5109,15 +5114,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 32063,
+      "Progressed": 32064,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-05-23T23:00:58.9617247+00:00",
-  "LastChanged_Achievements": "2023-06-13T10:05:55.9905137+00:00",
+  "LastChanged_Achievements": "2023-06-13T11:05:33.0640626+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:44.467267+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:00:11.9765562+00:00",
-  "LastUpdate_Achievements": "2023-06-13T10:05:55.9905442+00:00"
+  "LastUpdate_Ratings": "2023-06-13T10:59:36.5494803+00:00",
+  "LastUpdate_Achievements": "2023-06-13T11:05:33.0640998+00:00"
 }

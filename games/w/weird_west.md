@@ -6,15 +6,15 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,425 |
-| Self-Improvement | 72.00% | ~1,179 |
+| Unforgiven | 87.00% | ~1,426 |
+| Self-Improvement | 72.00% | ~1,180 |
 | Perky | 65.00% | ~1,065 |
 | Let’s Ride | 60.00% | ~983 |
 | Welcome to the Weird West | 57.00% | ~934 |
 | Dead or Alive | 55.00% | ~901 |
 | Full House | 36.00% | ~590 |
 | Off the Trail | 33.00% | ~541 |
-| Justice Served | 29.00% | ~475 |
+| Justice Served | 28.00% | ~459 |
 | Chain Reaction | 26.00% | ~426 |
 | Dishonored | 25.00% | ~410 |
 | Scholar | 25.00% | ~410 |
@@ -30,13 +30,13 @@ Number of Ratings: 125  (23.09.2022)
 | Workers' Rights | 13.00% | ~213 |
 | Elusive Prey | 12.00% | ~197 |
 | Out on the Ebb Tide | 12.00% | ~197 |
+| Power Behind the Pulpit | 12.00% | ~197 |
 | Turning the Tables | 12.00% | ~197 |
-| Power Behind the Pulpit | 11.00% | ~180 |
 | Something Wicked This Way Comes… | 11.00% | ~180 |
 | There is Hope | 11.00% | ~180 |
-| Loyalty to the Pack | 9.00% | ~147 |
-| Mystery Machine | 9.00% | ~147 |
-| The Philosopher’s Stone | 9.00% | ~147 |
+| Loyalty to the Pack | 9.00% | ~148 |
+| Mystery Machine | 9.00% | ~148 |
+| The Philosopher’s Stone | 9.00% | ~148 |
 | Gold Digger | 8.00% | ~131 |
 | Eternity Can Wait | 8.00% | ~131 |
 | Do Not Pass Go… | 7.00% | ~115 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.30% | ~5 |
 | Winter Has Come | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,638 (Ranked 158)  
+Progressed: 1,639 (Ranked 158)  
 Completed: 2 (0.12%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 2 (0.12%) (Ranked 164)
 | 2023-06-10 | 1,628 | 2 |
 | 2023-06-11 | 1,631 | 2 |
 | 2023-06-12 | 1,636 | 2 |
-| 2023-06-13 | 1,638 | 2 |
+| 2023-06-13 | 1,639 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 471)  
 Sum: 24 (Ranked 477)  

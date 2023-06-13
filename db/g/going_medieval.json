@@ -1066,7 +1066,7 @@
   ],
   "EOS_Progressed": 3650,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -2880,9 +2880,9 @@
       "ID": "KILL_RAIDER",
       "SetID": "5349c2e",
       "Name": "Retribution",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1350
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -3024,8 +3024,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-11T18:59:30.6021277+00:00",
-  "LastChanged_Achievements": "2023-06-13T10:06:03.8902333+00:00",
+  "LastChanged_Achievements": "2023-06-13T11:05:39.6215285+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:18.1224495+00:00",
-  "LastUpdate_Ratings": "2023-06-13T09:59:48.9109222+00:00",
-  "LastUpdate_Achievements": "2023-06-13T10:06:03.8902582+00:00"
+  "LastUpdate_Ratings": "2023-06-13T10:59:18.2094668+00:00",
+  "LastUpdate_Achievements": "2023-06-13T11:05:39.6215622+00:00"
 }

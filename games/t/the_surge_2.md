@@ -5,16 +5,16 @@ Rating: 4.25 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,414 |
-| Don't I Know You...? | 77.00% | ~1,361 |
-| Jailbreak | 65.00% | ~1,149 |
+| Rigged And Ready | 80.00% | ~1,415 |
+| Don't I Know You...? | 77.00% | ~1,362 |
+| Jailbreak | 65.00% | ~1,150 |
 | Suited and Booted | 38.00% | ~672 |
-| HEADSHOT! | 37.00% | ~654 |
+| HEADSHOT! | 37.00% | ~655 |
 | Sleeping With The Fishes | 35.00% | ~619 |
-| High Performance | 30.00% | ~530 |
+| High Performance | 30.00% | ~531 |
 | Overheated | 29.00% | ~513 |
 | Powered Up | 28.00% | ~495 |
-| Studied The Blade | 24.00% | ~424 |
+| Studied The Blade | 24.00% | ~425 |
 | Home Invasion | 22.00% | ~389 |
 | Luminary | 22.00% | ~389 |
 | It's a Trap | 22.00% | ~389 |
@@ -34,13 +34,13 @@ Rating: 4.25 (Ranked 794)
 | What A Catchy Song | 13.00% | ~230 |
 | Marked For Success | 12.00% | ~212 |
 | Sorry, Didn't See You There | 12.00% | ~212 |
-| Corrupted Beauty | 11.00% | ~194 |
-| Stimulating The Local Economy | 10.00% | ~177 |
+| Corrupted Beauty | 11.00% | ~195 |
 | Triplets | 10.00% | ~177 |
-| A Little Banged Up | 8.00% | ~141 |
-| Denying Prophecy | 8.00% | ~141 |
-| Following In Their Footsteps | 8.00% | ~141 |
-| Defense in Depth | 8.00% | ~141 |
+| Stimulating The Local Economy | 9.00% | ~159 |
+| A Little Banged Up | 8.00% | ~142 |
+| Denying Prophecy | 8.00% | ~142 |
+| Following In Their Footsteps | 8.00% | ~142 |
+| Defense in Depth | 8.00% | ~142 |
 | Reverse Engineering | 7.00% | ~124 |
 | Turbo Booster | 6.00% | ~106 |
 | Squid Pro Quo | 6.00% | ~106 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 794)
 | Three Birds With One Stone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,768 (Ranked 155)  
+Progressed: 1,769 (Ranked 155)  
 Completed: 10 (0.57%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 10 (0.57%) (Ranked 111)
 | 2023-06-10 | 1,748 | 10 |
 | 2023-06-11 | 1,756 | 10 |
 | 2023-06-12 | 1,764 | 10 |
-| 2023-06-13 | 1,768 | 10 |
+| 2023-06-13 | 1,769 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

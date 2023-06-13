@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 88.00% | ~89 |
-| The Routine | 79.00% | ~80 |
-| Mother | 76.00% | ~77 |
+| Last Goodbye | 88.00% | ~90 |
+| The Routine | 79.00% | ~81 |
+| Mother | 76.00% | ~78 |
 | Failure | 74.00% | ~75 |
 | Replace Fuse | 65.00% | ~66 |
 | Alarm | 63.00% | ~64 |
@@ -17,13 +17,13 @@
 | Awakenings | 56.00% | ~57 |
 | Cold Storage | 56.00% | ~57 |
 | Sam | 51.00% | ~52 |
-| Churchill | 50.00% | ~50 |
-| Doctor | 49.00% | ~49 |
-| Leave | 48.00% | ~48 |
-| Commissioner | 48.00% | ~48 |
-| Engineer | 47.00% | ~47 |
-| Soldier | 46.00% | ~46 |
-| Press Play | 37.00% | ~37 |
+| Churchill | 50.00% | ~51 |
+| Doctor | 48.00% | ~49 |
+| Leave | 47.00% | ~48 |
+| Commissioner | 47.00% | ~48 |
+| Engineer | 46.00% | ~47 |
+| Soldier | 45.00% | ~46 |
+| Press Play | 36.00% | ~37 |
 | Bookworm | 23.00% | ~23 |
 | General | 23.00% | ~23 |
 | Stay | 15.00% | ~15 |
@@ -33,8 +33,8 @@
 | No Page Unturned | 4.00% | ~4 |
 | The Missing Piece | 4.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 276)  
-Completed: 3 (2.97%) (Ranked 49)  
+Progressed: 102 (Ranked 276)  
+Completed: 3 (2.94%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -48,6 +48,7 @@ Completed: 3 (2.97%) (Ranked 49)
 | 2023-06-07 | 99 | 3 |
 | 2023-06-09 | 100 | 3 |
 | 2023-06-12 | 101 | 3 |
+| 2023-06-13 | 102 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

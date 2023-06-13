@@ -311,9 +311,9 @@
       "ID": "sneakInSneakOut",
       "SetID": "5bkacmp",
       "Name": "Sneak in, sneak out",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "stronk",
@@ -335,9 +335,9 @@
       "ID": "theBadPlace",
       "SetID": "5bkacmp",
       "Name": "The Bad Place",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "theGoodPlace",
@@ -448,8 +448,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-06-13T10:06:13.435194+00:00",
+  "LastChanged_Achievements": "2023-06-13T11:05:48.0857827+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:04.4102894+00:00",
-  "LastUpdate_Ratings": "2023-06-13T10:00:29.9274717+00:00",
-  "LastUpdate_Achievements": "2023-06-13T10:06:13.4352195+00:00"
+  "LastUpdate_Ratings": "2023-06-13T10:59:50.8869803+00:00",
+  "LastUpdate_Achievements": "2023-06-13T11:05:48.0858163+00:00"
 }

@@ -15,6 +15,7 @@
 | Breaking Down Barriers | 7.00% | ~47 |
 | The Prince in Heels | 7.00% | ~47 |
 | Immaculate Aim | 7.00% | ~47 |
+| Right On Time | 6.00% | ~40 |
 | The Betrayer | 6.00% | ~40 |
 | The Man Who Shattered Time | 6.00% | ~40 |
 | The Loose Cannon | 6.00% | ~40 |
@@ -27,7 +28,6 @@
 | Immaculate Aim | 6.00% | ~40 |
 | The Brass Boss | 6.00% | ~40 |
 | The Family Fortune | 6.00% | ~40 |
-| Right On Time | 5.00% | ~34 |
 | Like Clockwork | 5.00% | ~34 |
 | Street Style | 5.00% | ~34 |
 | Whiz Kid | 5.00% | ~34 |

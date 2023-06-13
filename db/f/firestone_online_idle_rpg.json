@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1389,
+  "EOS_Progressed": 1390,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
@@ -3081,6 +3081,11 @@
       "Time": "2023-06-13T10:06:11.2740268+00:00",
       "NumProgressed": 1389,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T11:05:46.262706+00:00",
+      "NumProgressed": 1390,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3276,7 +3281,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "fourleafclover",
@@ -3300,7 +3305,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "gearenchanting",
@@ -3324,7 +3329,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "herewegoagain",
@@ -3332,7 +3337,7 @@
       "Name": "Here We Go Again",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "heroinspection",
@@ -3348,7 +3353,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "hunter",
@@ -3404,7 +3409,7 @@
       "Name": "Master Enchanter",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "mastery",
@@ -3484,7 +3489,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "prestigiousx10",
@@ -3498,9 +3503,9 @@
       "ID": "relicofthepast",
       "SetID": "3nl4bcg",
       "Name": "Relic Of The Past",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 111
     },
     {
       "ID": "sailor",
@@ -3564,7 +3569,7 @@
       "Name": "The Expeditioner",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "thefatherofdragons",
@@ -3572,7 +3577,7 @@
       "Name": "The father of Dragons",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "thegameison",
@@ -3612,7 +3617,7 @@
       "Name": "Trader",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -3652,7 +3657,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "warmachinesarmy",
@@ -3668,7 +3673,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "whatliesbehindthebush",
@@ -3684,14 +3689,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1389,
+      "Progressed": 1390,
       "Completed": 1
     }
   ],
@@ -3699,8 +3704,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-08T16:58:06.3193776+00:00",
-  "LastChanged_Achievements": "2023-06-13T10:06:11.2740264+00:00",
+  "LastChanged_Achievements": "2023-06-13T11:05:46.2627055+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:13.4430659+00:00",
-  "LastUpdate_Ratings": "2023-06-13T09:58:00.6283533+00:00",
-  "LastUpdate_Achievements": "2023-06-13T10:06:11.2741005+00:00"
+  "LastUpdate_Ratings": "2023-06-13T10:57:50.7712897+00:00",
+  "LastUpdate_Achievements": "2023-06-13T11:05:46.2628039+00:00"
 }

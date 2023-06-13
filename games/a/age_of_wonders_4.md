@@ -24,7 +24,7 @@ Rating: 4.57 (Ranked 442)
 | Against the Odds | 32.00% | ~1,472 |
 | Digging for Treasure | 31.00% | ~1,426 |
 | Enchanted Archipelago | 28.00% | ~1,288 |
-| Impenetrable Fortress | 27.00% | ~1,242 |
+| Impenetrable Fortress | 28.00% | ~1,288 |
 | The Magic That Empowers Me! | 20.00% | ~920 |
 | Arch Mage | 20.00% | ~920 |
 | Preparation Is Everything | 20.00% | ~920 |

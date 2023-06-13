@@ -8,7 +8,7 @@ Rating: 4.20 (Ranked 825)
 | “Occupied!“ | 14.00% | ~221 |
 | Worlds best dad. | 13.00% | ~206 |
 | Resignation Reprise. | 9.00% | ~142 |
-| War of the worlds. | 6.00% | ~95 |
+| War of the worlds. | 7.00% | ~111 |
 | Admiring the view. | 6.00% | ~95 |
 | Resignation. | 5.00% | ~79 |
 | Blues Jam. | 3.00% | ~47 |

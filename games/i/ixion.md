@@ -21,8 +21,8 @@ Rating: 4.58 (Ranked 421)
 | Breaking Protocol | 6.00% | ~157 |
 | The Ship of Theseus | 6.00% | ~157 |
 | Exceeding Capacity | 5.00% | ~131 |
-| Power Outage | 4.00% | ~104 |
-| Please Make it Stop! | 4.00% | ~104 |
+| Power Outage | 4.00% | ~105 |
+| Please Make it Stop! | 4.00% | ~105 |
 | Man's Best Friend | 3.00% | ~78 |
 | Sightseeing | 3.00% | ~78 |
 | Access Granted | 3.00% | ~78 |
@@ -44,9 +44,9 @@ Rating: 4.58 (Ranked 421)
 | Pulsar Disciple | 1.00% | ~26 |
 | Catastrophe Avoided | 0.90% | ~24 |
 | Space Greenhouse | 0.90% | ~24 |
+| Help of the Forgotten Member | 0.90% | ~24 |
 | Tiqqun Contender | 0.80% | ~21 |
 | You Had One Job... | 0.80% | ~21 |
-| Help of the Forgotten Member | 0.80% | ~21 |
 | Tiqqun Unchained | 0.70% | ~18 |
 | Scientifically Accurate | 0.70% | ~18 |
 | Gregor Spinoza | 0.60% | ~16 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 421)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,612 (Ranked 147)  
+Progressed: 2,613 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 2,570 | 0 |
 | 2023-06-11 | 2,591 | 0 |
 | 2023-06-12 | 2,609 | 0 |
-| 2023-06-13 | 2,612 | 0 |
+| 2023-06-13 | 2,613 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

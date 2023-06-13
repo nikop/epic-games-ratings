@@ -30,7 +30,7 @@
 | Fashion victim | 0.00% | ~0 |
 | One last step | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 394)  
+Progressed: 3 (Ranked 395)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |

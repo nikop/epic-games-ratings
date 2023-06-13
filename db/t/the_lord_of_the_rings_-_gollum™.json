@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
@@ -805,6 +805,11 @@
       "Time": "2023-06-13T09:07:25.3695127+00:00",
       "NumProgressed": 429,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T11:05:29.6739568+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -840,7 +845,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "Chapter10",
@@ -848,7 +853,7 @@
       "Name": "The Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Chapter2",
@@ -918,9 +923,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 215
     },
     {
       "ID": "Collectibles2",
@@ -968,7 +973,7 @@
       "Name": "Like Flying...",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "GollumChoices",
@@ -984,7 +989,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Memories",
@@ -1103,14 +1108,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-13T10:05:51.8263442+00:00",
+  "LastChanged_Achievements": "2023-06-13T11:05:29.6739562+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:54.0912371+00:00",
-  "LastUpdate_Ratings": "2023-06-13T09:57:43.6401859+00:00",
-  "LastUpdate_Achievements": "2023-06-13T10:05:51.8263696+00:00"
+  "LastUpdate_Ratings": "2023-06-13T10:57:37.5213134+00:00",
+  "LastUpdate_Achievements": "2023-06-13T11:05:29.674015+00:00"
 }
