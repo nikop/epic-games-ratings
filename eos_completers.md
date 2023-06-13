@@ -19,7 +19,7 @@
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.70% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.16% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.15% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.69% |
@@ -35,7 +35,7 @@
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 38 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 39 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
@@ -72,15 +72,15 @@
 | 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.83% |
 | 71 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 72 | [Sifu](games/s/sifu.md) | 1.80% |
-| 73 | [Poosh XL](games/p/poosh_xl.md) | 1.67% |
-| 74 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.66% |
-| 75 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 76 | [Somerville](games/s/somerville.md) | 1.58% |
-| 77 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
-| 78 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 79 | [Night Book](games/n/night_book.md) | 1.49% |
-| 80 | [Frogun](games/f/frogun.md) | 1.46% |
-| 81 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1.38% |
+| 73 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1.72% |
+| 74 | [Poosh XL](games/p/poosh_xl.md) | 1.67% |
+| 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.66% |
+| 76 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
+| 77 | [Somerville](games/s/somerville.md) | 1.58% |
+| 78 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
+| 79 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 80 | [Night Book](games/n/night_book.md) | 1.49% |
+| 81 | [Frogun](games/f/frogun.md) | 1.46% |
 | 82 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.32% |
 | 83 | [Late Shift](games/l/late_shift.md) | 1.23% |
 | 84 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
@@ -121,23 +121,23 @@
 | 118 | [Tails of Iron](games/t/tails_of_iron.md) | 0.48% |
 | 120 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 121 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.37% |
 | 122 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 122 | [Tchia](games/t/tchia.md) | 0.37% |
-| 125 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.36% |
-| 125 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.36% |
-| 125 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
+| 124 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.36% |
+| 124 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.36% |
+| 124 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
+| 124 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 128 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 129 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 129 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
 | 129 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 129 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
 | 133 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.30% |
 | 134 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 135 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
-| 135 | [Dead Island 2](games/d/dead_island_2.md) | 0.29% |
-| 135 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
-| 135 | [The Surge](games/t/the_surge.md) | 0.29% |
+| 136 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
+| 136 | [Godlike Burger](games/g/godlike_burger.md) | 0.29% |
+| 136 | [The Surge](games/t/the_surge.md) | 0.29% |
 | 139 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 140 | [Aegis Descent](games/a/aegis_descent.md) | 0.26% |
 | 140 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.26% |
@@ -177,23 +177,23 @@
 | 173 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 176 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 176 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 178 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.07% |
 | 178 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.07% |
 | 178 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
 | 178 | [Shop Titans](games/s/shop_titans.md) | 0.07% |
 | 178 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 178 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.07% |
 | 178 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 184 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 184 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 186 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 186 | [House Party](games/h/house_party.md) | 0.05% |
-| 186 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
-| 186 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 190 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 190 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.04% |
-| 190 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
-| 190 | [High On Life](games/h/high_on_life.md) | 0.04% |
-| 190 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.04% |
+| 185 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 185 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 187 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 187 | [House Party](games/h/house_party.md) | 0.05% |
+| 187 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
+| 187 | [Saints Row](games/s/saints_row.md) | 0.05% |
+| 191 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 191 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
+| 191 | [High On Life](games/h/high_on_life.md) | 0.04% |
+| 191 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.04% |
 | 195 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 195 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 195 | [Old World](games/o/old_world.md) | 0.03% |
@@ -284,6 +284,7 @@
 | 218 | [Figment 2: Creed Valley](games/f/figment_2__creed_valley.md) | 0.00% |
 | 218 | [Filthy Animals \| Heist Simulator](games/f/filthy_animals___heist_simulator.md) | 0.00% |
 | 218 | [Flat Heroes](games/f/flat_heroes.md) | 0.00% |
+| 218 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.00% |
 | 218 | [Football Manager 2022](games/f/football_manager_2022.md) | 0.00% |
 | 218 | [Foretales](games/f/foretales.md) | 0.00% |
 | 218 | [Forklift Extreme - Deluxe Edition](games/f/forklift_extreme_-_deluxe_edition.md) | 0.00% |

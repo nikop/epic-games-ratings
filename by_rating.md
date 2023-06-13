@@ -146,7 +146,7 @@
 | 144 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 496 |
 | 144 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 580 | 173 |
 | 144 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.74 | 67 | 370 |
-| 144 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 777 | 150 |
+| 144 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 777 | 151 |
 | 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 618 | 169 |
 | 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 32,850 | 14 |
 | 144 | [Star Atlas](games/s/star_atlas.md) | 4.74 | 0 | 496 |
@@ -202,7 +202,7 @@
 | 195 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 496 |
 | 195 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 496 |
 | 195 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 394 |
-| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,300 | 122 |
+| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,301 | 122 |
 | 195 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.70 | 0 | 496 |
 | 195 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 1,175 | 128 |
 | 195 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,838 | 107 |
@@ -216,10 +216,10 @@
 | 195 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 496 |
 | 195 | [The Witness](games/t/the_witness.md) | 4.70 | 174 | 277 |
 | 195 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,346 | 71 |
-| 195 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,598 | 115 |
+| 195 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,601 | 115 |
 | 195 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 496 |
 | 219 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 3,151 | 87 |
-| 219 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 111,070 | 8 |
+| 219 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 111,131 | 8 |
 | 219 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 496 |
 | 219 | [House Flipper](games/h/house_flipper.md) | 4.69 | 296 | 229 |
 | 219 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 496 |
@@ -384,7 +384,7 @@
 | 361 | [Supraland](games/s/supraland.md) | 4.61 | 7,626 | 41 |
 | 361 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 496 |
 | 361 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 338 | 218 |
-| 361 | [Warframe](games/w/warframe.md) | 4.61 | 15,390 | 21 |
+| 361 | [Warframe](games/w/warframe.md) | 4.61 | 15,407 | 21 |
 | 361 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 0 | 496 |
 | 387 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 0 | 496 |
 | 387 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,294 | 28 |
@@ -434,7 +434,7 @@
 | 420 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 496 |
 | 420 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 51 | 391 |
 | 420 | [The Medium](games/t/the_medium.md) | 4.58 | 0 | 496 |
-| 420 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 980 | 141 |
+| 420 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 982 | 141 |
 | 420 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,158 | 53 |
 | 420 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 496 |
 | 420 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 496 |
@@ -457,7 +457,7 @@
 | 452 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 394 |
 | 452 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 496 |
 | 452 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.56 | 34 | 434 |
-| 452 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 777 | 150 |
+| 452 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 778 | 150 |
 | 452 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 432 |
 | 452 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 496 |
 | 452 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 142 | 292 |
@@ -575,7 +575,7 @@
 | 565 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 236 | 247 |
 | 565 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 496 |
 | 565 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 496 |
-| 565 | [Maneater](games/m/maneater.md) | 4.49 | 13,506 | 25 |
+| 565 | [Maneater](games/m/maneater.md) | 4.49 | 13,509 | 25 |
 | 565 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 622 | 168 |
 | 565 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 496 |
 | 565 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 350 |
@@ -852,7 +852,7 @@
 | 843 | [Wreckfest](games/w/wreckfest.md) | 4.18 | 0 | 496 |
 | 851 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 465 |
 | 851 | [Gone Home](games/g/gone_home.md) | 4.17 | 0 | 496 |
-| 851 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,325 | 98 |
+| 851 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,331 | 98 |
 | 851 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 496 |
 | 855 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 496 |
 | 855 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 608 | 170 |

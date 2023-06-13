@@ -250,7 +250,7 @@
 | [Field Hospital: Dr. Taylor's Story](games/f/field_hospital__dr._taylor's_story.md) | 2099-01-01 | - |  | - | - |
 | [First Dwarf](games/f/first_dwarf.md) | 2099-01-01 | - |  | - | - |
 | [FlipScapes](games/f/flipscapes.md) | 2099-01-01 | - |  | - | - |
-| [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 2099-01-01 | 42 (1,000 XP) | 0 | - | - |
+| [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 2099-01-01 | 42 (1,000 XP) | 1 | - | - |
 | [Forgive Me Father 2](games/f/forgive_me_father_2.md) | 2099-01-01 | - |  | - | - |
 | [Forza Polpo](games/1/11e946fd34244e56b7af5d99e87bf5d4.md) | 2099-01-01 | - |  | - | - |
 | [FrontlineGrunt](games/a/ad2063ad8cea49618dfd85af4c2aaf1f.md) | 2099-01-01 | - |  | - | - |
