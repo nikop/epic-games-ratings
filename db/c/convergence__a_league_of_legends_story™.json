@@ -1539,9 +1539,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 40
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1674,8 +1674,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-13T04:06:01.5911604+00:00",
+  "LastChanged_Achievements": "2023-06-13T05:05:45.3771397+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-13T03:59:50.4180362+00:00",
-  "LastUpdate_Achievements": "2023-06-13T04:06:01.5912032+00:00"
+  "LastUpdate_Ratings": "2023-06-13T04:59:33.7389477+00:00",
+  "LastUpdate_Achievements": "2023-06-13T05:05:45.3771932+00:00"
 }

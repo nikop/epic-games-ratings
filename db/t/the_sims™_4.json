@@ -4,7 +4,7 @@
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 361,
   "Ranking_Popularity": 218,
-  "Ranking_PopularitySum": 181,
+  "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 326,
@@ -2846,10 +2846,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2132,
       "NumberOfAwardsMax": 338
+    },
+    {
+      "Time": "2023-06-13T04:57:44.4505408+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2133,
+      "NumberOfAwardsMax": 338
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2132,
+  "NumberOfAwards": 2133,
   "NumberOfAwardsMax": 338,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2911,7 +2917,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 175
+      "Count": 176
     },
     {
       "Text": "This game has Easy Combat",
@@ -2932,8 +2938,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-06-12T21:57:46.3850416+00:00",
+  "LastChanged": "2023-06-13T04:57:44.4505406+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:42.8303443+00:00",
-  "LastUpdate_Ratings": "2023-06-13T03:57:44.1352728+00:00",
-  "LastUpdate_Achievements": "2023-06-13T04:03:20.1573997+00:00"
+  "LastUpdate_Ratings": "2023-06-13T04:57:44.4505411+00:00",
+  "LastUpdate_Achievements": "2023-06-13T05:03:22.1790805+00:00"
 }

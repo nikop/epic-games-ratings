@@ -486,7 +486,7 @@
   ],
   "EOS_Progressed": 2894,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2747,9 +2747,9 @@
       "ID": "Tapped_22",
       "SetID": "c4hee28",
       "Name": "Tapped!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1042
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -2867,8 +2867,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-06-13T04:03:40.3638509+00:00",
+  "LastChanged_Achievements": "2023-06-13T05:03:39.5084585+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:56.3082494+00:00",
-  "LastUpdate_Ratings": "2023-06-13T03:57:59.2247042+00:00",
-  "LastUpdate_Achievements": "2023-06-13T04:03:40.3638879+00:00"
+  "LastUpdate_Ratings": "2023-06-13T04:57:57.3344182+00:00",
+  "LastUpdate_Achievements": "2023-06-13T05:03:39.5085016+00:00"
 }

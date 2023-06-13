@@ -14,9 +14,9 @@ Number of Ratings: 209  (23.09.2022)
 | Knee bending | 96.00% | ~1,998 |
 | Pickaxe | 94.00% | ~1,956 |
 | Revenge | 94.00% | ~1,956 |
+| Cage Town | 94.00% | ~1,956 |
 | Entered Cage Town | 93.00% | ~1,935 |
 | Stone Pickaxe | 93.00% | ~1,935 |
-| Cage Town | 93.00% | ~1,935 |
 | Surprise | 93.00% | ~1,935 |
 | Force Beam | 92.00% | ~1,915 |
 | Magnet | 90.00% | ~1,873 |
@@ -24,8 +24,8 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet Repel | 88.00% | ~1,831 |
 | Boomeraxe | 87.00% | ~1,810 |
 | You feel middle classy | 86.00% | ~1,790 |
+| Banking District | 86.00% | ~1,790 |
 | Iron Pickaxe | 86.00% | ~1,790 |
-| Banking District | 85.00% | ~1,769 |
 | Arrested | 85.00% | ~1,769 |
 | Zappy Gun | 85.00% | ~1,769 |
 | Got your own one now | 85.00% | ~1,769 |

@@ -5,19 +5,19 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 9.00% | ~25,120 |
-| First Class Student | 8.00% | ~22,329 |
-| Troll with the Punches | 8.00% | ~22,329 |
-| Grappling with a Graphorn | 7.00% | ~19,538 |
-| The One Who Mastered Memories | 7.00% | ~19,538 |
-| The Hallowed Hero | 7.00% | ~19,538 |
-| The Hero of Hogwarts | 7.00% | ~19,538 |
-| The Defender of Dragons | 7.00% | ~19,538 |
-| A Keen Sense of Spell | 7.00% | ~19,538 |
-| Loom for Improvement | 7.00% | ~19,538 |
-| A Talent for Spending | 7.00% | ~19,538 |
-| Coasting Along | 7.00% | ~19,538 |
-| That's a Keeper | 7.00% | ~19,538 |
+| The Sort Who Makes an Entrance | 9.00% | ~25,121 |
+| First Class Student | 8.00% | ~22,330 |
+| Troll with the Punches | 8.00% | ~22,330 |
+| Grappling with a Graphorn | 7.00% | ~19,539 |
+| The One Who Mastered Memories | 7.00% | ~19,539 |
+| The Hallowed Hero | 7.00% | ~19,539 |
+| The Hero of Hogwarts | 7.00% | ~19,539 |
+| The Defender of Dragons | 7.00% | ~19,539 |
+| A Keen Sense of Spell | 7.00% | ~19,539 |
+| Loom for Improvement | 7.00% | ~19,539 |
+| A Talent for Spending | 7.00% | ~19,539 |
+| Coasting Along | 7.00% | ~19,539 |
+| That's a Keeper | 7.00% | ~19,539 |
 | Challenge Accepted | 6.00% | ~16,747 |
 | Followed the Butterflies | 6.00% | ~16,747 |
 | Rising From the Ashes | 6.00% | ~16,747 |
@@ -30,11 +30,11 @@ Rating: 4.77 (Ranked 107)
 | The Root of the Problem | 4.00% | ~11,165 |
 | Third Time's a Charm | 4.00% | ~11,165 |
 | Raising Expectations | 4.00% | ~11,165 |
-| The Toast of the Town | 3.00% | ~8,373 |
-| Room with a View | 3.00% | ~8,373 |
-| The Intrepid Explorer | 3.00% | ~8,373 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,373 |
-| The Ends Petrify the Means | 3.00% | ~8,373 |
+| The Toast of the Town | 3.00% | ~8,374 |
+| Room with a View | 3.00% | ~8,374 |
+| The Intrepid Explorer | 3.00% | ~8,374 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,374 |
+| The Ends Petrify the Means | 3.00% | ~8,374 |
 | Going Through the Potions | 2.00% | ~5,582 |
 | Put Down Roots | 2.00% | ~5,582 |
 | The Auror's Apprentice | 2.00% | ~5,582 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,396 |
 | Collector's Edition | 0.20% | ~558 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279,113 (Ranked 41)  
+Progressed: 279,122 (Ranked 41)  
 Completed: 403 (0.14%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,14 +105,14 @@ Completed: 403 (0.14%) (Ranked 160)
 | 2023-06-10 | 278,175 | 397 |
 | 2023-06-11 | 278,675 | 401 |
 | 2023-06-12 | 279,048 | 403 |
-| 2023-06-13 | 279,113 | 403 |
+| 2023-06-13 | 279,122 | 403 |
 ## Awards
-Max (Character Customization): 19,875  (Ranked 18)  
-Sum: 36,836 (Ranked 32)  
+Max (Character Customization): 19,915  (Ranked 18)  
+Sum: 36,876 (Ranked 32)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 19,875 |
+| This game has Inclusive Character Customization | 19,915 |
 | This game has Great Boss Battles | 9,438 |
 | This game is Great for Beginners | 831 |
 | This game is Relaxing | 829 |
@@ -208,3 +208,4 @@ Diff (max vs sum): -14
 | 2023-06-10 | 4.77 | 19,774 | 36,629 |
 | 2023-06-11 | 4.77 | 19,818 | 36,728 |
 | 2023-06-12 | 4.77 | 19,875 | 36,836 |
+| 2023-06-13 | 4.77 | 19,915 | 36,876 |

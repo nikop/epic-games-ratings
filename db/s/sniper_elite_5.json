@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2754,
+  "EOS_Progressed": 2755,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3377,6 +3377,11 @@
       "Time": "2023-06-13T04:06:47.1124382+00:00",
       "NumProgressed": 2754,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T05:06:25.8174265+00:00",
+      "NumProgressed": 2755,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3628,7 +3633,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -3666,9 +3671,9 @@
       "ID": "REWARD_43_X_FILES",
       "SetID": "bm6el81",
       "Name": "Burn after reading",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -3698,9 +3703,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 468
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3754,9 +3759,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 358
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3796,7 +3801,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -3955,13 +3960,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2705,
+      "Progressed": 2706,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2754,
+      "Progressed": 2755,
       "Completed": 2
     }
   ],
@@ -3969,8 +3974,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-12T12:00:24.1242654+00:00",
-  "LastChanged_Achievements": "2023-06-13T04:06:47.1124379+00:00",
+  "LastChanged_Achievements": "2023-06-13T05:06:25.8174258+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-13T04:01:07.9221124+00:00",
-  "LastUpdate_Achievements": "2023-06-13T04:06:47.112504+00:00"
+  "LastUpdate_Ratings": "2023-06-13T05:00:40.2733527+00:00",
+  "LastUpdate_Achievements": "2023-06-13T05:06:25.817509+00:00"
 }

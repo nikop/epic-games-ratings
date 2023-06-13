@@ -6,20 +6,20 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~102,265 |
-| Comeback | 81.00% | ~93,073 |
-| Information is Key | 80.00% | ~91,924 |
+| Immovable Object | 89.00% | ~102,266 |
+| Comeback | 81.00% | ~93,074 |
+| Information is Key | 80.00% | ~91,925 |
 | Unlucky | 71.00% | ~81,583 |
-| Anarchist | 68.00% | ~78,135 |
-| Wallhack | 65.00% | ~74,688 |
-| Steady Supply | 60.00% | ~68,943 |
+| Anarchist | 68.00% | ~78,136 |
+| Wallhack | 65.00% | ~74,689 |
+| Steady Supply | 60.00% | ~68,944 |
 | Lucky Shot | 53.00% | ~60,900 |
 | Forward Observer | 52.00% | ~59,751 |
 | Ring Ring! | 52.00% | ~59,751 |
-| Bossing Around | 45.00% | ~51,707 |
-| Frostbite | 45.00% | ~51,707 |
-| Night Owl | 44.00% | ~50,558 |
-| Strength in Numbers | 44.00% | ~50,558 |
+| Bossing Around | 45.00% | ~51,708 |
+| Frostbite | 45.00% | ~51,708 |
+| Night Owl | 44.00% | ~50,559 |
+| Strength in Numbers | 44.00% | ~50,559 |
 | Fog of War | 41.00% | ~47,111 |
 | Stronghold Denied | 39.00% | ~44,813 |
 | Anyone Else? | 38.00% | ~43,664 |
@@ -31,7 +31,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Lost Batallion | 33.00% | ~37,919 |
 | This is MY Machine Gun! | 31.00% | ~35,621 |
 | Together As One | 31.00% | ~35,621 |
-| Gavrilo Princip | 27.00% | ~31,024 |
+| Gavrilo Princip | 27.00% | ~31,025 |
 | Lead Harvest | 25.00% | ~28,726 |
 | Skynet Confirmed | 23.00% | ~26,428 |
 | Kesselschlacht | 22.00% | ~25,279 |
@@ -43,10 +43,10 @@ Number of Ratings: 13,393  (23.09.2022)
 | Oops! | 17.00% | ~19,534 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~18,385 |
 | Butcher | 12.00% | ~13,789 |
-| Before the Leaves Fall | 10.00% | ~11,490 |
-| Close Call | 10.00% | ~11,490 |
-| Pinpoint | 10.00% | ~11,490 |
-| Tannenberg | 9.00% | ~10,341 |
+| Before the Leaves Fall | 10.00% | ~11,491 |
+| Close Call | 10.00% | ~11,491 |
+| Pinpoint | 10.00% | ~11,491 |
+| Tannenberg | 9.00% | ~10,342 |
 | For the Emperor | 8.00% | ~9,192 |
 | Hawk Eye | 8.00% | ~9,192 |
 | Hötzendorf | 7.00% | ~8,043 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,034 |
 | Road to Berlin | 0.60% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114,905 (Ranked 60)  
+Progressed: 114,906 (Ranked 60)  
 Completed: 23 (0.02%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 23 (0.02%) (Ranked 199)
 | 2023-06-10 | 114,507 | 23 |
 | 2023-06-11 | 114,744 | 23 |
 | 2023-06-12 | 114,890 | 23 |
-| 2023-06-13 | 114,905 | 23 |
+| 2023-06-13 | 114,906 | 23 |
 ## Awards
 Max (Competitive Players): 326  (Ranked 221)  
 Sum: 2,844 (Ranked 158)  

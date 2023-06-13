@@ -6,35 +6,35 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 10.00% | ~57,528 |
-| Into the Unknown | 9.00% | ~51,775 |
-| First Shot | 9.00% | ~51,775 |
-| Herzlich Wilkommen! | 9.00% | ~51,775 |
-| Sancho Panza | 8.00% | ~46,022 |
-| Good Night & Good Luck | 8.00% | ~46,022 |
-| Under Pressure | 7.00% | ~40,269 |
-| Flag Burning | 7.00% | ~40,269 |
-| Oh, So This Is How It Works! | 7.00% | ~40,269 |
-| On the Trail of the Enemy | 6.00% | ~34,517 |
-| Light in the Darkness | 6.00% | ~34,517 |
-| Get Outta My House! | 6.00% | ~34,517 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,517 |
-| Night Hunter | 6.00% | ~34,517 |
-| Being All Social | 6.00% | ~34,517 |
-| We Will Be Heard! | 5.00% | ~28,764 |
-| After the Fall | 5.00% | ~28,764 |
-| Can't Touch This! | 5.00% | ~28,764 |
-| Debris and Ashes | 4.00% | ~23,011 |
-| Known Associate | 4.00% | ~23,011 |
-| Brush with Death | 4.00% | ~23,011 |
-| Going Down | 4.00% | ~23,011 |
-| Family First | 4.00% | ~23,011 |
-| Your World, Your Rules | 4.00% | ~23,011 |
-| Tunnel Entrance | 4.00% | ~23,011 |
-| Death From Afar | 4.00% | ~23,011 |
-| Terminal Headache | 4.00% | ~23,011 |
-| Slowpoke! | 4.00% | ~23,011 |
-| You're Going Down! | 3.00% | ~17,258 |
+| You Never Forget Your First... | 10.00% | ~57,531 |
+| Into the Unknown | 9.00% | ~51,778 |
+| First Shot | 9.00% | ~51,778 |
+| Herzlich Wilkommen! | 9.00% | ~51,778 |
+| Sancho Panza | 8.00% | ~46,025 |
+| Good Night & Good Luck | 8.00% | ~46,025 |
+| Under Pressure | 7.00% | ~40,271 |
+| Flag Burning | 7.00% | ~40,271 |
+| Oh, So This Is How It Works! | 7.00% | ~40,271 |
+| On the Trail of the Enemy | 6.00% | ~34,518 |
+| Light in the Darkness | 6.00% | ~34,518 |
+| Get Outta My House! | 6.00% | ~34,518 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,518 |
+| Night Hunter | 6.00% | ~34,518 |
+| Being All Social | 6.00% | ~34,518 |
+| We Will Be Heard! | 5.00% | ~28,765 |
+| After the Fall | 5.00% | ~28,765 |
+| Can't Touch This! | 5.00% | ~28,765 |
+| Debris and Ashes | 4.00% | ~23,012 |
+| Known Associate | 4.00% | ~23,012 |
+| Brush with Death | 4.00% | ~23,012 |
+| Going Down | 4.00% | ~23,012 |
+| Family First | 4.00% | ~23,012 |
+| Your World, Your Rules | 4.00% | ~23,012 |
+| Tunnel Entrance | 4.00% | ~23,012 |
+| Death From Afar | 4.00% | ~23,012 |
+| Terminal Headache | 4.00% | ~23,012 |
+| Slowpoke! | 4.00% | ~23,012 |
+| You're Going Down! | 3.00% | ~17,259 |
 | Tickets, Please! | 2.00% | ~11,506 |
 | Parkour Master | 2.00% | ~11,506 |
 | Combat Master | 2.00% | ~11,506 |
@@ -46,9 +46,9 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,753 |
 | Fit as a Fiddle | 1.00% | ~5,753 |
 | Ironheart | 1.00% | ~5,753 |
-| Nemesis | 1.00% | ~2,207 |
-| That's Teamwork! | 0.90% | ~5,177 |
-| Enter the Hall | 0.90% | ~1,986 |
+| Nemesis | 1.00% | ~2,208 |
+| That's Teamwork! | 0.90% | ~5,178 |
+| Enter the Hall | 0.90% | ~1,987 |
 | Find Anything Interesting? | 0.80% | ~4,602 |
 | Boot Licker | 0.80% | ~4,602 |
 | Night of Terrors | 0.80% | ~1,766 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~221 |
 | Connoisseur | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 575,277 (Ranked 25)  
+Progressed: 575,307 (Ranked 25)  
 Completed: 49 (0.01%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 49 (0.01%) (Ranked 206)
 | 2023-06-10 | 573,182 | 49 |
 | 2023-06-11 | 574,270 | 49 |
 | 2023-06-12 | 575,163 | 49 |
-| 2023-06-13 | 575,277 | 49 |
+| 2023-06-13 | 575,307 | 49 |
 ## Awards
 Max (Character Customization): 7,692  (Ranked 40)  
 Sum: 17,365 (Ranked 58)  

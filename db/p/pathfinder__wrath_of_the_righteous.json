@@ -2816,9 +2816,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 9816,
+  "EOS_Progressed": 9819,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6381,6 +6381,11 @@
       "Time": "2023-06-13T02:17:46.0257895+00:00",
       "NumProgressed": 9816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T05:06:39.8775324+00:00",
+      "NumProgressed": 9819,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -6408,7 +6413,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "04_FithCrusade",
@@ -6464,7 +6469,7 @@
       "Name": "Path of the Azata",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "11_PathOfAeon",
@@ -6520,7 +6525,7 @@
       "Name": "Transformation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "18_MythicChoices",
@@ -6576,7 +6581,7 @@
       "Name": "The Legacy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "25_MasterfulDispell",
@@ -6592,7 +6597,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "28_GreatUpstart",
@@ -6600,7 +6605,7 @@
       "Name": "Great Upstart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "29_StrategicVictory",
@@ -6736,7 +6741,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "46_AllPathsOpen",
@@ -6744,7 +6749,7 @@
       "Name": "All Paths Open",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -6768,7 +6773,7 @@
       "Name": "A Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -6816,7 +6821,7 @@
       "Name": "Next-Door Play",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "56_GetToad",
@@ -6824,7 +6829,7 @@
       "Name": "Get the Toad",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "57_PathOfDevil",
@@ -7319,21 +7324,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8598,
+      "Progressed": 8601,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9816,
+      "Progressed": 9819,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-12T17:58:31.0718208+00:00",
-  "LastChanged_Achievements": "2023-06-13T04:07:02.8496415+00:00",
+  "LastChanged_Achievements": "2023-06-13T05:06:39.8775316+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.9680588+00:00",
-  "LastUpdate_Ratings": "2023-06-13T03:58:35.9345656+00:00",
-  "LastUpdate_Achievements": "2023-06-13T04:07:02.849787+00:00"
+  "LastUpdate_Ratings": "2023-06-13T04:58:28.9529197+00:00",
+  "LastUpdate_Achievements": "2023-06-13T05:06:39.8777126+00:00"
 }

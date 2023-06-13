@@ -21,6 +21,7 @@
 | Time Flies | 6.00% | ~40 |
 | The Harder They Fall | 6.00% | ~40 |
 | The Wicked Twins | 6.00% | ~40 |
+| Honest Mistake | 6.00% | ~40 |
 | Golem Chaser | 6.00% | ~40 |
 | Fast Learner | 6.00% | ~40 |
 | Immaculate Aim | 6.00% | ~40 |
@@ -30,7 +31,6 @@
 | Like Clockwork | 5.00% | ~34 |
 | Street Style | 5.00% | ~34 |
 | Whiz Kid | 5.00% | ~34 |
-| Honest Mistake | 5.00% | ~34 |
 | Check Your Pulse | 5.00% | ~34 |
 | Chaincrawler Explorer | 4.00% | ~27 |
 | Family Memories | 4.00% | ~27 |

@@ -3122,9 +3122,9 @@
       "Count": 274
     }
   ],
-  "EOS_Progressed": 114905,
+  "EOS_Progressed": 114906,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1277,
+  "EOS_NewPlayers": 1275,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8727,6 +8727,11 @@
       "Time": "2023-06-13T04:07:00.3032228+00:00",
       "NumProgressed": 114905,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-13T05:06:37.6994119+00:00",
+      "NumProgressed": 114906,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 67,
@@ -8738,7 +8743,7 @@
       "Name": "Anarchist",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 78135
+      "UsersEstimate": 78136
     },
     {
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
@@ -8762,7 +8767,7 @@
       "Name": "Before the Leaves Fall",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11490
+      "UsersEstimate": 11491
     },
     {
       "ID": "TANNENBERG_ACH_BOSSING_AROUND",
@@ -8770,7 +8775,7 @@
       "Name": "Bossing Around",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 51707
+      "UsersEstimate": 51708
     },
     {
       "ID": "TANNENBERG_ACH_BUTCHER",
@@ -8802,7 +8807,7 @@
       "Name": "Close Call",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11490
+      "UsersEstimate": 11491
     },
     {
       "ID": "TANNENBERG_ACH_COMEBACK",
@@ -8810,7 +8815,7 @@
       "Name": "Comeback",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 93073
+      "UsersEstimate": 93074
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -8898,7 +8903,7 @@
       "Name": "Frostbite",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 51707
+      "UsersEstimate": 51708
     },
     {
       "ID": "TANNENBERG_ACH_GAVRILO_PRINCIP",
@@ -8906,7 +8911,7 @@
       "Name": "Gavrilo Princip",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 31024
+      "UsersEstimate": 31025
     },
     {
       "ID": "TANNENBERG_ACH_GOTT_MIT_UNS",
@@ -8946,7 +8951,7 @@
       "Name": "Immovable Object",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 102265
+      "UsersEstimate": 102266
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -8962,7 +8967,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 91924
+      "UsersEstimate": 91925
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -9034,7 +9039,7 @@
       "Name": "Night Owl",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 50558
+      "UsersEstimate": 50559
     },
     {
       "ID": "TANNENBERG_ACH_OOPS",
@@ -9074,7 +9079,7 @@
       "Name": "Pinpoint",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11490
+      "UsersEstimate": 11491
     },
     {
       "ID": "TANNENBERG_ACH_PULCEJATIES_ZEM",
@@ -9138,7 +9143,7 @@
       "Name": "Steady Supply",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 68943
+      "UsersEstimate": 68944
     },
     {
       "ID": "TANNENBERG_ACH_STRENGTH_IN_NUMBERS",
@@ -9146,7 +9151,7 @@
       "Name": "Strength in Numbers",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 50558
+      "UsersEstimate": 50559
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD",
@@ -9194,7 +9199,7 @@
       "Name": "Tannenberg",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10341
+      "UsersEstimate": 10342
     },
     {
       "ID": "TANNENBERG_ACH_THIS_BELONGS_TO_US_NOW",
@@ -9250,7 +9255,7 @@
       "Name": "Wallhack",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 74688
+      "UsersEstimate": 74689
     },
     {
       "ID": "TANNENBERG_ACH_YOUR_FAMILY_WILL_BE_PROUD",
@@ -9273,15 +9278,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 114905,
+      "Progressed": 114906,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-06-13T02:10:57.387158+00:00",
-  "LastChanged_Achievements": "2023-06-13T04:07:00.3032224+00:00",
+  "LastChanged_Achievements": "2023-06-13T05:06:37.6994109+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:31.6296794+00:00",
-  "LastUpdate_Ratings": "2023-06-13T04:00:33.8689392+00:00",
-  "LastUpdate_Achievements": "2023-06-13T04:07:00.3033039+00:00"
+  "LastUpdate_Ratings": "2023-06-13T05:00:11.1369999+00:00",
+  "LastUpdate_Achievements": "2023-06-13T05:06:37.6995093+00:00"
 }

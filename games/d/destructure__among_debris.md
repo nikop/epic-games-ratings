@@ -12,7 +12,7 @@
 | Master Destructor | 9.00% | ~13 |
 | Avaricerite | 8.00% | ~11 |
 | Ball Galore | 6.00% | ~9 |
-| Easy Victory | 5.00% | ~7 |
+| Easy Victory | 6.00% | ~9 |
 | You Are Actually Supposed To Use Those | 5.00% | ~7 |
 | Back From The Dead | 4.00% | ~6 |
 | Ball Protector | 4.00% | ~6 |

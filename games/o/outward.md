@@ -10,7 +10,7 @@ Number of Ratings: 266  (23.09.2022)
 | Ready for Winter | 64.00% | ~1,852 |
 | Ready for Summer | 51.00% | ~1,476 |
 | Cordon Bleu | 43.00% | ~1,244 |
-| Tapped! | 35.00% | ~1,013 |
+| Tapped! | 36.00% | ~1,042 |
 | Eureka | 31.00% | ~897 |
 | Scourge Slayer | 25.00% | ~724 |
 | Science, Troglodyte! | 23.00% | ~666 |

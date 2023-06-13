@@ -614,9 +614,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15151,
+  "EOS_Progressed": 15157,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3714,6 +3714,11 @@
       "Time": "2023-06-13T03:04:33.6543304+00:00",
       "NumProgressed": 15151,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-13T05:04:33.0725853+00:00",
+      "NumProgressed": 15157,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3757,7 +3762,7 @@
       "Name": "Flesh Wound",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -3893,7 +3898,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3917,7 +3922,7 @@
       "Name": "The Outer Way",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "STORY_ESCAPE",
@@ -4044,13 +4049,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15151,
+      "Progressed": 15157,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3077,
+      "Progressed": 3083,
       "Completed": 29
     }
   ],
@@ -4058,8 +4063,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T23:58:33.7302071+00:00",
-  "LastChanged_Achievements": "2023-06-13T04:04:40.0077254+00:00",
+  "LastChanged_Achievements": "2023-06-13T05:04:33.0725846+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-13T03:58:05.710272+00:00",
-  "LastUpdate_Achievements": "2023-06-13T04:04:40.0077663+00:00"
+  "LastUpdate_Ratings": "2023-06-13T04:58:03.0909357+00:00",
+  "LastUpdate_Achievements": "2023-06-13T05:04:33.0726336+00:00"
 }

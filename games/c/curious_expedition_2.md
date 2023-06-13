@@ -28,9 +28,9 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 18.00% | ~57 |
 | Iron Man | 16.00% | ~51 |
 | For the Club! | 15.00% | ~47 |
+| Shortening of the Way | 15.00% | ~47 |
 | Practical Palaeontology | 15.00% | ~47 |
 | The Director is Dead | 14.00% | ~44 |
-| Shortening of the Way | 14.00% | ~44 |
 | A Gentle Beast | 14.00% | ~44 |
 | Dapper | 14.00% | ~44 |
 | The New Director | 13.00% | ~41 |
@@ -47,8 +47,8 @@ Number of Ratings: 20  (23.09.2022)
 | No Laughing Matter | 8.00% | ~25 |
 | The Great Library | 8.00% | ~25 |
 | Level Up | 7.00% | ~22 |
+| Zookeeper | 6.00% | ~19 |
 | The Workshop | 6.00% | ~19 |
-| Zookeeper | 5.00% | ~16 |
 | Islander Understanding | 5.00% | ~16 |
 | A Paris Sunset | 5.00% | ~16 |
 | The Director Perseveres | 4.00% | ~13 |
