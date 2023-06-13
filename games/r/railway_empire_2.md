@@ -5,19 +5,19 @@ Rating: 4.22 (Ranked 814)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~845 |
-| A new Journey | 71.00% | ~822 |
-| From X to Y | 70.00% | ~811 |
+| Country Bumpkin | 72.00% | ~834 |
+| A new Journey | 71.00% | ~823 |
 | Departure | 70.00% | ~811 |
-| Way of Iron | 68.00% | ~787 |
-| Mystery Tour | 66.00% | ~764 |
-| Brainstorm | 65.00% | ~753 |
+| From X to Y | 69.00% | ~800 |
+| Way of Iron | 68.00% | ~788 |
+| Mystery Tour | 66.00% | ~765 |
 | We brake for nobody | 65.00% | ~753 |
+| Brainstorm | 64.00% | ~742 |
 | Mind the Gap | 63.00% | ~730 |
 | Travel Company | 63.00% | ~730 |
 | All around the World | 60.00% | ~695 |
 | Right through the middle | 55.00% | ~637 |
-| Poor Devil | 52.00% | ~602 |
+| Poor Devil | 52.00% | ~603 |
 | Facility Manager | 51.00% | ~591 |
 | Producer | 48.00% | ~556 |
 | Apprentice | 41.00% | ~475 |
@@ -35,7 +35,7 @@ Rating: 4.22 (Ranked 814)
 | General Manager | 22.00% | ~255 |
 | Country Life | 22.00% | ~255 |
 | Hostile Takeover | 22.00% | ~255 |
-| Trailblazer | 18.00% | ~208 |
+| Trailblazer | 18.00% | ~209 |
 | Breaking Ground | 17.00% | ~197 |
 | Traffic Jam | 15.00% | ~174 |
 | Traffic Junction | 15.00% | ~174 |
@@ -47,8 +47,8 @@ Rating: 4.22 (Ranked 814)
 | Settler | 10.00% | ~116 |
 | Go West | 9.00% | ~104 |
 | Bold and beautiful | 8.00% | ~93 |
-| A new Hope | 6.00% | ~69 |
-| Tycoon | 6.00% | ~69 |
+| A new Hope | 6.00% | ~70 |
+| Tycoon | 6.00% | ~70 |
 | Unstoppable | 3.00% | ~35 |
 | Track to the Future | 3.00% | ~35 |
 | Conductor | 2.00% | ~23 |
@@ -61,7 +61,7 @@ Rating: 4.22 (Ranked 814)
 | Three Cheers for Progress | 0.10% | ~1 |
 | United States | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,158 (Ranked 168)  
+Progressed: 1,159 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 1,091 | 0 |
 | 2023-06-11 | 1,124 | 0 |
 | 2023-06-12 | 1,152 | 0 |
-| 2023-06-13 | 1,158 | 0 |
+| 2023-06-13 | 1,159 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "tony-hawks-pro-skater-1-and-2",
   "Ranking_Rating": 58,
   "Ranking_Popularity": 351,
-  "Ranking_PopularitySum": 274,
+  "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-09-04T01:00:00+00:00",
     "PcReleaseDate": "2020-09-04T01:00:00+00:00",
@@ -1295,10 +1295,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 660,
       "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2023-06-13T09:59:34.304486+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 661,
+      "NumberOfAwardsMax": 82
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 660,
+  "NumberOfAwards": 661,
   "NumberOfAwardsMax": 82,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1366,7 +1372,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1392,8 +1398,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2023-06-13T02:10:26.0210066+00:00",
+  "LastChanged": "2023-06-13T09:59:34.3044858+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:00.9652221+00:00",
-  "LastUpdate_Ratings": "2023-06-13T09:00:51.0338905+00:00",
-  "LastUpdate_Achievements": "2023-06-13T09:03:36.1629208+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:59:34.3044863+00:00",
+  "LastUpdate_Achievements": "2023-06-13T10:02:26.4599902+00:00"
 }

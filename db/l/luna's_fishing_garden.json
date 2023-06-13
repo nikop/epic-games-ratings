@@ -4,8 +4,8 @@
   "ProductSlug": "lunas-fishing-garden",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
     "PcReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 668,
+  "EOS_Progressed": 669,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.44,
+  "EOS_Completed_Percentage": 6.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.7835451+00:00",
@@ -55,6 +55,11 @@
     {
       "Time": "2023-06-10T18:05:22.6747235+00:00",
       "NumProgressed": 668,
+      "NumCompleted": 43
+    },
+    {
+      "Time": "2023-06-13T10:05:43.180856+00:00",
+      "NumProgressed": 669,
       "NumCompleted": 43
     }
   ],
@@ -83,7 +88,7 @@
       "Name": "The Ones that Got Away",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "12_art",
@@ -115,7 +120,7 @@
       "Name": "A Feel for the Reel",
       "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "3_master_angler",
@@ -123,7 +128,7 @@
       "Name": "Master Angler",
       "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "4_bird_breeder",
@@ -131,7 +136,7 @@
       "Name": "Bird Breeder",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "5_science",
@@ -147,15 +152,15 @@
       "Name": "Immortal",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "7_cleanup",
       "SetID": "459695l",
       "Name": "Cleanup Duty",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 120
+      "UsersEstimate": 114
     },
     {
       "ID": "8_else",
@@ -163,7 +168,7 @@
       "Name": "Anything Else?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "9_lotus",
@@ -178,7 +183,7 @@
     {
       "ID": "459695l",
       "IsBase": true,
-      "Progressed": 668,
+      "Progressed": 669,
       "Completed": 43
     }
   ],
@@ -186,8 +191,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-06-13T09:07:15.3041025+00:00",
+  "LastChanged_Achievements": "2023-06-13T10:05:43.1808556+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.6376+00:00",
-  "LastUpdate_Ratings": "2023-06-13T08:58:10.3328489+00:00",
-  "LastUpdate_Achievements": "2023-06-13T09:07:15.304115+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:57:23.2297993+00:00",
+  "LastUpdate_Achievements": "2023-06-13T10:05:43.1808649+00:00"
 }

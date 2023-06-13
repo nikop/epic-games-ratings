@@ -13,9 +13,9 @@
 | History Check | 48.00% | ~211 |
 | Lock, Stock, And Barrel | 45.00% | ~198 |
 | The New World | 45.00% | ~198 |
+| Gaze Into The Abyss | 44.00% | ~193 |
 | Open Sesame | 44.00% | ~193 |
 | Sticky Fingers | 44.00% | ~193 |
-| Gaze Into The Abyss | 43.00% | ~189 |
 | Knives Out | 43.00% | ~189 |
 | Back In The Saddle | 42.00% | ~184 |
 | Land, Ho! | 41.00% | ~180 |

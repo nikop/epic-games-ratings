@@ -15,7 +15,7 @@ Rating: 4.90 (Ranked 8)
 | Perfect Parry | 53.00% | ~1,648 |
 | Alright, that felt AWESOME! | 53.00% | ~1,648 |
 | I play my own way! | 49.00% | ~1,524 |
-| This will cost you big time | 46.00% | ~1,431 |
+| This will cost you big time | 47.00% | ~1,462 |
 | Uh, they were broken when I got here | 45.00% | ~1,400 |
 | Z-shielding's got nothing on us! | 44.00% | ~1,368 |
 | Kissing the sky! | 43.00% | ~1,337 |

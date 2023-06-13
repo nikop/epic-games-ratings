@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 89.00% | ~2,656 |
+| You and what Army? | 90.00% | ~2,686 |
 | Flanked! | 79.00% | ~2,357 |
 | Economics 101 | 65.00% | ~1,940 |
 | Get Rich Quick | 47.00% | ~1,402 |

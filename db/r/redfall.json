@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2087,9 +2087,9 @@
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 705
     },
     {
       "ID": "Achievement_032",
@@ -2103,9 +2103,9 @@
       "ID": "Achievement_033",
       "SetID": "6b34g18",
       "Name": "Wounded Whispers",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 991
     },
     {
       "ID": "Achievement_034",
@@ -2392,8 +2392,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-05T19:58:09.7958278+00:00",
-  "LastChanged_Achievements": "2023-06-13T09:02:24.4033001+00:00",
+  "LastChanged_Achievements": "2023-06-13T10:00:53.3195899+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:01.2776264+00:00",
-  "LastUpdate_Ratings": "2023-06-13T08:58:41.5746731+00:00",
-  "LastUpdate_Achievements": "2023-06-13T09:02:24.4034171+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:57:49.4489837+00:00",
+  "LastUpdate_Achievements": "2023-06-13T10:00:53.3196531+00:00"
 }

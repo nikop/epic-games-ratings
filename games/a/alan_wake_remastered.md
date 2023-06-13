@@ -6,18 +6,18 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 31.00% | ~16,916 |
-| Let There Be Light | 25.00% | ~13,642 |
-| Float Like a Butterfly | 24.00% | ~13,096 |
+| Follow the Light | 31.00% | ~16,917 |
+| Let There Be Light | 25.00% | ~13,643 |
+| Float Like a Butterfly | 24.00% | ~13,097 |
 | Nordic Walking | 19.00% | ~10,368 |
-| Bright Falls' Finest | 18.00% | ~9,822 |
+| Bright Falls' Finest | 18.00% | ~9,823 |
 | Under a Thin Layer of Skin | 16.00% | ~8,731 |
 | Park Ranger | 13.00% | ~7,094 |
 | Paging Mr. Wake | 13.00% | ~7,094 |
-| Back! Back, I Say! | 12.00% | ~6,548 |
-| Finders Keepers | 12.00% | ~6,548 |
-| Sound and Fury | 11.00% | ~6,002 |
-| Damn Good Cup of Coffee | 11.00% | ~6,002 |
+| Back! Back, I Say! | 12.00% | ~6,549 |
+| Finders Keepers | 12.00% | ~6,549 |
+| Sound and Fury | 11.00% | ~6,003 |
+| Damn Good Cup of Coffee | 11.00% | ~6,003 |
 | Wheels Within Wheels | 10.00% | ~5,457 |
 | They're Heeeeeere! | 10.00% | ~5,457 |
 | Missed by a Mile | 10.00% | ~5,457 |
@@ -26,19 +26,19 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 9.00% | ~4,911 |
 | Collateral Carnage | 9.00% | ~4,911 |
 | Come One, Come All | 9.00% | ~4,911 |
-| Perchance to Dream | 8.00% | ~4,365 |
-| Gatekeeper | 8.00% | ~4,365 |
-| It's Not Just a Typewriter Brand | 8.00% | ~4,365 |
-| Thunder and Lightning | 8.00% | ~4,365 |
-| Two For the Price of One | 8.00% | ~4,365 |
+| Perchance to Dream | 8.00% | ~4,366 |
+| Gatekeeper | 8.00% | ~4,366 |
+| It's Not Just a Typewriter Brand | 8.00% | ~4,366 |
+| Thunder and Lightning | 8.00% | ~4,366 |
+| Two For the Price of One | 8.00% | ~4,366 |
 | A Friend in Need | 8.00% | ~1,443 |
 | The Lady of the Light | 7.00% | ~3,820 |
 | Energized! | 7.00% | ~3,820 |
 | Right of Way | 7.00% | ~3,820 |
 | What Light Through Yonder Window | 6.00% | ~3,274 |
 | A Friend Indeed | 6.00% | ~1,082 |
-| Tornado Wrangler | 5.00% | ~2,728 |
-| Departure | 5.00% | ~2,728 |
+| Tornado Wrangler | 5.00% | ~2,729 |
+| Departure | 5.00% | ~2,729 |
 | Ding! | 5.00% | ~902 |
 | Children of the Elder God | 4.00% | ~2,183 |
 | Drink 'Em Both Up | 4.00% | ~2,183 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~55 |
 | No Punctuation | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,568 (Ranked 78)  
+Progressed: 54,571 (Ranked 78)  
 Completed: 51 (0.09%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 51 (0.09%) (Ranked 172)
 | 2023-06-10 | 53,762 | 50 |
 | 2023-06-11 | 54,193 | 51 |
 | 2023-06-12 | 54,490 | 51 |
-| 2023-06-13 | 54,568 | 51 |
+| 2023-06-13 | 54,571 | 51 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 995,
+  "EOS_Progressed": 996,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -854,6 +854,11 @@
       "Time": "2023-06-13T03:06:26.866129+00:00",
       "NumProgressed": 995,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T10:06:04.7950062+00:00",
+      "NumProgressed": 996,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -913,7 +918,7 @@
       "Name": "Monster Hunter",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "08",
@@ -993,7 +998,7 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "18",
@@ -1048,7 +1053,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 995,
+      "Progressed": 996,
       "Completed": 0
     }
   ],
@@ -1056,8 +1061,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-13T09:07:40.0338492+00:00",
+  "LastChanged_Achievements": "2023-06-13T10:06:04.7950058+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:09.1992252+00:00",
-  "LastUpdate_Ratings": "2023-06-13T09:00:59.1396142+00:00",
-  "LastUpdate_Achievements": "2023-06-13T09:07:40.0338853+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:59:41.0016607+00:00",
+  "LastUpdate_Achievements": "2023-06-13T10:06:04.7950211+00:00"
 }

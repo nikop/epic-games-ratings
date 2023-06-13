@@ -4,8 +4,8 @@
   "ProductSlug": "jawbreaker-bb17a4",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-09T22:01:02.536144+00:00",
-  "LastUpdate_Ratings": "2023-06-13T09:01:55.6082876+00:00",
-  "LastUpdate_Achievements": "2023-06-13T09:07:04.9108687+00:00"
+  "LastUpdate_Ratings": "2023-06-13T10:00:28.0213526+00:00",
+  "LastUpdate_Achievements": "2023-06-13T10:05:34.8561524+00:00"
 }

@@ -4252,9 +4252,9 @@
       "Count": 3249
     }
   ],
-  "EOS_Progressed": 90603,
+  "EOS_Progressed": 90606,
   "EOS_Completed": 1930,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 684,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -9767,6 +9767,11 @@
       "Time": "2023-06-13T09:08:01.3949212+00:00",
       "NumProgressed": 90603,
       "NumCompleted": 1930
+    },
+    {
+      "Time": "2023-06-13T10:06:24.4066353+00:00",
+      "NumProgressed": 90606,
+      "NumCompleted": 1930
     }
   ],
   "TotalAchievements": 493,
@@ -13400,9 +13405,9 @@
       "ID": "objective_completed_877",
       "SetID": "415jc5c",
       "Name": "Lost in the Underdark",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_completed_878",
@@ -13721,21 +13726,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 56877,
+      "Progressed": 56880,
       "Completed": 2788
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 90603,
+      "Progressed": 90606,
       "Completed": 1930
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-13T08:58:58.4168086+00:00",
-  "LastChanged_Achievements": "2023-06-13T09:08:01.3949205+00:00",
+  "LastChanged_Achievements": "2023-06-13T10:06:24.4066349+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:15.9709789+00:00",
-  "LastUpdate_Ratings": "2023-06-13T08:58:58.4168094+00:00",
-  "LastUpdate_Achievements": "2023-06-13T09:08:01.3979538+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:58:02.8034223+00:00",
+  "LastUpdate_Achievements": "2023-06-13T10:06:24.4087797+00:00"
 }

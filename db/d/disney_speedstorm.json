@@ -2,10 +2,10 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 140,
+  "Ranking_EOS_Progress": 145,
+  "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -16,10 +16,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 2763,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 49,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -2560,6 +2560,11 @@
       "Time": "2023-06-13T09:05:06.8517091+00:00",
       "NumProgressed": 2763,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-13T10:03:55.813657+00:00",
+      "NumProgressed": 2763,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 24,
@@ -2585,9 +2590,9 @@
       "ID": "11",
       "SetID": "9p3jgda",
       "Name": "PERFECTLY POISED",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "12",
@@ -2763,12 +2768,12 @@
       "ID": "9p3jgda",
       "IsBase": true,
       "Progressed": 2763,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-13T09:05:06.8517083+00:00",
+  "LastChanged_Achievements": "2023-06-13T10:03:55.8136566+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-13T09:00:05.8534394+00:00",
-  "LastUpdate_Achievements": "2023-06-13T09:05:06.8517604+00:00"
+  "LastUpdate_Ratings": "2023-06-13T09:58:57.4062011+00:00",
+  "LastUpdate_Achievements": "2023-06-13T10:03:55.813681+00:00"
 }

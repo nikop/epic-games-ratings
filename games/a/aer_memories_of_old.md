@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~9,327 |
-| Mama? | 28.00% | ~3,436 |
-| People's Haven | 19.00% | ~2,332 |
-| Cartographer | 17.00% | ~2,086 |
-| Knowledge for Power | 15.00% | ~1,841 |
-| Antlers of Stone | 15.00% | ~1,841 |
-| Gaze into the abyss | 14.00% | ~1,718 |
-| Mausoleum of Ice | 14.00% | ~1,718 |
-| Equilibrium | 13.00% | ~1,595 |
+| Light at the end of the tunnel | 76.00% | ~9,331 |
+| Mama? | 28.00% | ~3,438 |
+| People's Haven | 19.00% | ~2,333 |
+| Cartographer | 17.00% | ~2,087 |
+| Knowledge for Power | 15.00% | ~1,842 |
+| Antlers of Stone | 15.00% | ~1,842 |
+| Gaze into the abyss | 14.00% | ~1,719 |
+| Mausoleum of Ice | 14.00% | ~1,719 |
+| Equilibrium | 13.00% | ~1,596 |
 | In the belly of the beast | 12.00% | ~1,473 |
 | Wings of Stone | 12.00% | ~1,473 |
-| Condor condo | 10.00% | ~1,227 |
+| Condor condo | 10.00% | ~1,228 |
 | Memorial | 9.00% | ~1,105 |
 | An uninvited guest | 8.00% | ~982 |
 | Written in stone | 7.00% | ~859 |
 | Talk to all the spirit animals | 7.00% | ~859 |
-| Ripples on the surface | 6.00% | ~736 |
-| Tails of Stone | 6.00% | ~736 |
-| Baa from the past | 6.00% | ~736 |
+| Ripples on the surface | 6.00% | ~737 |
+| Tails of Stone | 6.00% | ~737 |
+| Baa from the past | 6.00% | ~737 |
 | Hide and Seek | 5.00% | ~614 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,273 (Ranked 107)  
+Progressed: 12,277 (Ranked 107)  
 Completed: 256 (2.09%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 256 (2.09%) (Ranked 66)
 | 2023-06-10 | 12,032 | 254 |
 | 2023-06-11 | 12,154 | 256 |
 | 2023-06-12 | 12,247 | 256 |
-| 2023-06-13 | 12,273 | 256 |
+| 2023-06-13 | 12,277 | 256 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

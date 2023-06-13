@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 163
     }
   ],
-  "EOS_Progressed": 10397,
+  "EOS_Progressed": 10398,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 723,
+  "EOS_NewPlayers": 721,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4577,6 +4577,11 @@
       "Time": "2023-06-13T09:07:50.2794979+00:00",
       "NumProgressed": 10397,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-06-13T10:06:13.6831961+00:00",
+      "NumProgressed": 10398,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -4636,7 +4641,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "ACH08",
@@ -4764,7 +4769,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "ACH24",
@@ -4867,7 +4872,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10397,
+      "Progressed": 10398,
       "Completed": 17
     }
   ],
@@ -4875,8 +4880,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-11T14:59:43.8934917+00:00",
-  "LastChanged_Achievements": "2023-06-13T09:07:50.2794974+00:00",
+  "LastChanged_Achievements": "2023-06-13T10:06:13.6831958+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:48.3258209+00:00",
-  "LastUpdate_Ratings": "2023-06-13T09:01:40.4709317+00:00",
-  "LastUpdate_Achievements": "2023-06-13T09:07:50.2795601+00:00"
+  "LastUpdate_Ratings": "2023-06-13T10:00:15.5752277+00:00",
+  "LastUpdate_Achievements": "2023-06-13T10:06:13.6832355+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~868,093 |
-| I Need a Bigger Garage | 62.00% | ~604,739 |
-| Pump my Ride | 46.00% | ~448,677 |
-| Ghostbuster | 32.00% | ~312,123 |
-| Call Roadside Assistance | 17.00% | ~165,815 |
-| That Was Close | 17.00% | ~165,815 |
-| Quickie | 10.00% | ~97,538 |
-| California Dreamer | 7.00% | ~68,277 |
-| Can't Touch This | 5.00% | ~48,769 |
+| The First of Many | 89.00% | ~868,119 |
+| I Need a Bigger Garage | 62.00% | ~604,757 |
+| Pump my Ride | 46.00% | ~448,691 |
+| Ghostbuster | 32.00% | ~312,133 |
+| Call Roadside Assistance | 17.00% | ~165,821 |
+| That Was Close | 17.00% | ~165,821 |
+| Quickie | 10.00% | ~97,542 |
+| California Dreamer | 7.00% | ~68,279 |
+| Can't Touch This | 5.00% | ~48,771 |
 | Carménère Taster | 3.00% | ~29,262 |
 | Comeback | 3.00% | ~29,262 |
 | Marathonist | 3.00% | ~29,262 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~9,754 |
 | Golden Passport | 1.00% | ~9,754 |
 | Brave and Bold | 1.00% | ~9,754 |
-| Bollywood Star | 0.90% | ~8,778 |
+| Bollywood Star | 0.90% | ~8,779 |
 | Crocodile Hunter | 0.80% | ~7,803 |
 | Old Master | 0.80% | ~7,803 |
 | Volcano Surfer | 0.70% | ~6,828 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~975 |
 | Look Mom, No Hands! | 0.10% | ~975 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975,385 (Ranked 11)  
+Progressed: 975,415 (Ranked 11)  
 Completed: 301 (0.03%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 301 (0.03%) (Ranked 193)
 | 2023-06-10 | 972,660 | 300 |
 | 2023-06-11 | 974,036 | 300 |
 | 2023-06-12 | 975,044 | 301 |
-| 2023-06-13 | 975,385 | 301 |
+| 2023-06-13 | 975,415 | 301 |
 ## Awards
 Max (Great for Beginners): 142  (Ranked 292)  
 Sum: 1,151 (Ranked 228)  
