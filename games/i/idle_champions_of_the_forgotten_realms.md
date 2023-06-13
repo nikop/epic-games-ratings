@@ -19,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.60% | ~544 |
 | Mad Cow Disease | 0.60% | ~544 |
 | Friendly Imps | 0.60% | ~544 |
+| Pure Energy | 0.60% | ~544 |
 | Coasting to the Finish | 0.60% | ~341 |
 | Checkmate | 0.50% | ~285 |
 | Vecna Out! | 0.50% | ~285 |
@@ -26,7 +27,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.50% | ~453 |
 | The Crumbling Temple | 0.50% | ~453 |
 | Exploring Port Nyanzaru | 0.50% | ~453 |
-| Pure Energy | 0.50% | ~453 |
 | Quick or Quack | 0.50% | ~285 |
 | Maddening | 0.40% | ~363 |
 | Owlbear Necessities | 0.40% | ~228 |
@@ -62,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.30% | ~272 |
 | Street War | 0.30% | ~272 |
 | March of the Undead | 0.30% | ~272 |
+| Wisdom Check | 0.30% | ~272 |
 | No Time To Rest | 0.30% | ~272 |
 | Invisible Shadows | 0.30% | ~272 |
 | The Dinner Party | 0.30% | ~272 |
@@ -125,6 +126,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hatchlings Underfoot | 0.20% | ~181 |
 | Don't Look Up! | 0.20% | ~181 |
 | Will of the Feywild | 0.20% | ~114 |
+| All Damage, All The Time | 0.20% | ~114 |
 | Will of the Frozen Feywild | 0.20% | ~114 |
 | The Roots of Loomlurch | 0.20% | ~114 |
 | The Lutes of Loomlurch | 0.20% | ~114 |
@@ -171,7 +173,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.20% | ~181 |
 | Force Grey Unleashed | 0.20% | ~181 |
 | Vajra's Guards | 0.20% | ~181 |
-| Wisdom Check | 0.20% | ~181 |
 | Sleuth It Out | 0.20% | ~181 |
 | The Newcomers of Notoriety | 0.20% | ~114 |
 | A Grand Puzzle | 0.20% | ~181 |
@@ -279,6 +280,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wandering Emporium | 0.20% | ~114 |
 | Tiamat's Army | 0.20% | ~114 |
 | Questlines | 0.20% | ~114 |
+| Raggadragga's Crew | 0.20% | ~114 |
 | Bel's Forge | 0.20% | ~114 |
 | The Giant's Bane Tavern | 0.20% | ~114 |
 | Rime Bandits | 0.20% | ~114 |
@@ -354,7 +356,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Head over Heals | 0.10% | ~57 |
 | The Demon Lords of the Abyss | 0.10% | ~57 |
 | Speed Demons | 0.10% | ~57 |
-| All Damage, All The Time | 0.10% | ~57 |
 | The Loots of Loomlurch | 0.10% | ~57 |
 | Pincushion Party | 0.10% | ~57 |
 | G. O. A. T. | 0.10% | ~57 |
@@ -450,7 +451,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | When the Going Gets Tough | 0.10% | ~57 |
 | Show of Strength | 0.10% | ~57 |
 | Fight Dragons with Dragons | 0.10% | ~57 |
-| Raggadragga's Crew | 0.10% | ~57 |
 | Just The Worst | 0.10% | ~57 |
 | Extreme Heat | 0.10% | ~57 |
 | Fire and Brimstone | 0.10% | ~57 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,636 (Ranked 64)  
-Completed: 1,931 (2.13%) (Ranked 65)  
+Progressed: 90,642 (Ranked 64)  
+Completed: 1,931 (2.13%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -554,7 +554,7 @@ Completed: 1,931 (2.13%) (Ranked 65)
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
-| 2023-06-13 | 90,636 | 1,931 |
+| 2023-06-13 | 90,642 | 1,931 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
 Sum: 30,094 (Ranked 37)  

@@ -6,19 +6,19 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 75.00% | ~3,235 |
-| Hey Good Hookin | 65.00% | ~2,803 |
-| I'm on a Boat! | 55.00% | ~2,372 |
-| Can you smell what the Rod is Hooking | 49.00% | ~2,113 |
-| Scaling up | 48.00% | ~2,070 |
-| Ready to Rod and Roll | 41.00% | ~1,768 |
-| More Fish in the Sea | 40.00% | ~1,725 |
-| License to Gill | 32.00% | ~1,380 |
-| Fish Out of Water | 31.00% | ~1,337 |
-| Things that go Splash in the Night | 26.00% | ~1,121 |
-| Goldfish? | 26.00% | ~1,121 |
-| Going for Gold | 23.00% | ~992 |
-| I'm Hooked! | 18.00% | ~776 |
+| Fish Just Got Reel | 75.00% | ~3,238 |
+| Hey Good Hookin | 65.00% | ~2,807 |
+| I'm on a Boat! | 55.00% | ~2,375 |
+| Can you smell what the Rod is Hooking | 49.00% | ~2,116 |
+| Scaling up | 48.00% | ~2,073 |
+| Ready to Rod and Roll | 41.00% | ~1,770 |
+| More Fish in the Sea | 40.00% | ~1,727 |
+| License to Gill | 32.00% | ~1,382 |
+| Fish Out of Water | 31.00% | ~1,339 |
+| Things that go Splash in the Night | 26.00% | ~1,123 |
+| Goldfish? | 26.00% | ~1,123 |
+| Going for Gold | 23.00% | ~993 |
+| I'm Hooked! | 18.00% | ~777 |
 | More than a Tourist | 12.00% | ~518 |
 | Diamond in the Rough | 12.00% | ~518 |
 | Hook, Line and Sinker | 7.00% | ~302 |
@@ -26,7 +26,7 @@ Number of Ratings: 281  (23.09.2022)
 | Big Fish Small Pond | 6.00% | ~259 |
 | I'm the Captain Now | 5.00% | ~216 |
 | School's Out for Summer | 4.00% | ~173 |
-| Gonna Need a Bigger Boat | 3.00% | ~129 |
+| Gonna Need a Bigger Boat | 3.00% | ~130 |
 | The Beetles | 2.00% | ~86 |
 | Taylor Made | 1.00% | ~43 |
 | Rod and Troll | 1.00% | ~37 |
@@ -42,8 +42,8 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,313 (Ranked 131)  
-Completed: 0 (0.00%) (Ranked 218)  
+Progressed: 4,318 (Ranked 131)  
+Completed: 0 (0.00%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 218)
 | 2023-06-10 | 4,239 | 0 |
 | 2023-06-11 | 4,276 | 0 |
 | 2023-06-12 | 4,296 | 0 |
-| 2023-06-13 | 4,313 | 0 |
+| 2023-06-13 | 4,318 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 442)  
 Sum: 158 (Ranked 380)  

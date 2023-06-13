@@ -2,10 +2,10 @@
   "ID": "a5c7f255d82b45c29d9ae3e3d2e5563a",
   "Name": "The Case of the Golden Idol",
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
-  "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_Progress": 268,
+  "Ranking_EOS_Completed": 43,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 140,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.6,
+  "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -488,6 +488,11 @@
       "Time": "2023-06-13T03:03:53.3325857+00:00",
       "NumProgressed": 139,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-13T21:03:57.3259433+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 11,
@@ -499,13 +504,13 @@
       "Name": "Solved first case",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "1",
       "SetID": "acl54ke",
       "Name": "Solved second case",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 90,
       "UsersEstimate": 118
     },
@@ -521,9 +526,9 @@
       "ID": "2",
       "SetID": "acl54ke",
       "Name": "Solved third case",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 98
     },
     {
       "ID": "3",
@@ -537,25 +542,25 @@
       "ID": "4",
       "SetID": "acl54ke",
       "Name": "Solved fifth case",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "5",
       "SetID": "acl54ke",
       "Name": "Solved sixth case",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 48
     },
     {
       "ID": "6",
       "SetID": "acl54ke",
       "Name": "Solved seventh case",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "7",
@@ -571,7 +576,7 @@
       "Name": "Solved ninth case",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "9",
@@ -579,29 +584,29 @@
       "Name": "Solved tenth case",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 140,
       "Completed": 5
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 86,
-      "Completed": 86
+      "Progressed": 87,
+      "Completed": 87
     }
   ],
   "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-06-13T20:03:24.5446646+00:00",
+  "LastChanged_Achievements": "2023-06-13T21:03:57.3259426+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:02.1380523+00:00",
-  "LastUpdate_Ratings": "2023-06-13T19:58:28.2380271+00:00",
-  "LastUpdate_Achievements": "2023-06-13T20:03:24.5446895+00:00"
+  "LastUpdate_Ratings": "2023-06-13T20:58:59.9928921+00:00",
+  "LastUpdate_Achievements": "2023-06-13T21:03:57.3259611+00:00"
 }

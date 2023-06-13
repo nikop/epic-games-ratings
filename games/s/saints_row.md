@@ -6,43 +6,43 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 31.00% | ~14,098 |
-| To The Nines | 27.00% | ~12,279 |
-| Optimized | 23.00% | ~10,460 |
-| Performance Review | 22.00% | ~10,005 |
-| Making a Name | 21.00% | ~9,551 |
-| Wet Work | 20.00% | ~9,096 |
-| Tune Up | 20.00% | ~9,096 |
-| The Side Job | 19.00% | ~8,641 |
-| Landlord | 19.00% | ~8,641 |
-| Food for Thought | 17.00% | ~7,731 |
-| Wrecking Ball | 16.00% | ~7,277 |
-| Finders Keepers | 15.00% | ~6,822 |
-| A Young Empire | 15.00% | ~6,822 |
-| Work Ethic | 13.00% | ~5,912 |
-| Picking Fights | 11.00% | ~5,003 |
-| Quality Time | 10.00% | ~4,548 |
-| Power Players | 10.00% | ~4,548 |
-| Showdown | 9.00% | ~4,093 |
-| Et tu? | 9.00% | ~4,093 |
-| Took It to The Limit | 9.00% | ~4,093 |
-| Kitted Out | 8.00% | ~3,638 |
-| Hijacked | 6.00% | ~2,729 |
-| The Spins | 6.00% | ~2,729 |
-| Masters of Santo Ileso | 6.00% | ~2,729 |
-| The Mechanic | 5.00% | ~2,274 |
-| Producer Credit | 5.00% | ~856 |
-| We could go home, or… | 4.00% | ~1,819 |
-| Challenge Accepted | 4.00% | ~1,819 |
-| A Golden Age | 4.00% | ~1,819 |
-| Closet Space | 4.00% | ~1,819 |
-| Face Off | 4.00% | ~685 |
-| The Professional | 3.00% | ~1,364 |
-| Untouchable | 3.00% | ~1,364 |
-| Free Refills | 3.00% | ~1,364 |
-| Prankster | 3.00% | ~1,364 |
-| Smooth Moves | 3.00% | ~1,364 |
-| Hazardous Heist | 3.00% | ~513 |
+| First F#@!ing Day | 31.00% | ~14,108 |
+| To The Nines | 27.00% | ~12,288 |
+| Optimized | 23.00% | ~10,467 |
+| Performance Review | 22.00% | ~10,012 |
+| Making a Name | 21.00% | ~9,557 |
+| Wet Work | 20.00% | ~9,102 |
+| Tune Up | 20.00% | ~9,102 |
+| The Side Job | 19.00% | ~8,647 |
+| Landlord | 19.00% | ~8,647 |
+| Food for Thought | 17.00% | ~7,737 |
+| Wrecking Ball | 16.00% | ~7,282 |
+| Finders Keepers | 15.00% | ~6,826 |
+| A Young Empire | 15.00% | ~6,826 |
+| Work Ethic | 13.00% | ~5,916 |
+| Picking Fights | 11.00% | ~5,006 |
+| Quality Time | 10.00% | ~4,551 |
+| Power Players | 10.00% | ~4,551 |
+| Showdown | 9.00% | ~4,096 |
+| Et tu? | 9.00% | ~4,096 |
+| Took It to The Limit | 9.00% | ~4,096 |
+| Kitted Out | 8.00% | ~3,641 |
+| Hijacked | 6.00% | ~2,731 |
+| The Spins | 6.00% | ~2,731 |
+| Masters of Santo Ileso | 6.00% | ~2,731 |
+| The Mechanic | 5.00% | ~2,276 |
+| Producer Credit | 5.00% | ~857 |
+| We could go home, or… | 4.00% | ~1,820 |
+| Challenge Accepted | 4.00% | ~1,820 |
+| A Golden Age | 4.00% | ~1,820 |
+| Closet Space | 4.00% | ~1,820 |
+| Face Off | 4.00% | ~686 |
+| The Professional | 3.00% | ~1,365 |
+| Untouchable | 3.00% | ~1,365 |
+| Free Refills | 3.00% | ~1,365 |
+| Prankster | 3.00% | ~1,365 |
+| Smooth Moves | 3.00% | ~1,365 |
+| Hazardous Heist | 3.00% | ~514 |
 | Shopping Spree | 2.00% | ~910 |
 | Always Be Hustling | 2.00% | ~910 |
 | Chaos Tamer | 2.00% | ~910 |
@@ -51,16 +51,16 @@ Number of Ratings: 22,103  (23.09.2022)
 | Bonus Round | 1.00% | ~455 |
 | Community Outreach | 1.00% | ~455 |
 | It's a Bird! | 0.80% | ~364 |
-| The Collector | 0.70% | ~318 |
-| All Mine | 0.70% | ~318 |
+| The Collector | 0.70% | ~319 |
+| All Mine | 0.70% | ~319 |
 | Armor Piercing | 0.60% | ~273 |
 | Heard You Like Wheels | 0.40% | ~182 |
-| Jack of All Trades | 0.30% | ~136 |
+| Jack of All Trades | 0.30% | ~137 |
 | Statement Pieces | 0.20% | ~91 |
-| A Car Named Simone | 0.10% | ~45 |
-| Fiesta Time | 0.10% | ~45 |
+| A Car Named Simone | 0.10% | ~46 |
+| Fiesta Time | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,479 (Ranked 82)  
+Progressed: 45,510 (Ranked 82)  
 Completed: 23 (0.05%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,10 +114,10 @@ Completed: 23 (0.05%) (Ranked 187)
 | 2023-06-10 | 44,171 | 23 |
 | 2023-06-11 | 44,748 | 23 |
 | 2023-06-12 | 45,140 | 23 |
-| 2023-06-13 | 45,479 | 23 |
+| 2023-06-13 | 45,510 | 23 |
 ## Awards
 Max (Extremely Fun): 1,037  (Ranked 136)  
-Sum: 8,418 (Ranked 89)  
+Sum: 8,419 (Ranked 89)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -128,7 +128,7 @@ Diff (max vs sum): 47
 | This game has Diverse Characters | 963 |
 | This game has Amazing Characters | 963 |
 | This game is Relaxing | 960 |
-| This game has Amazing Storytelling | 955 |
+| This game has Amazing Storytelling | 956 |
 | This game has Playful Visuals | 777 |
 | This game has a Silly Community | 582 |
 ## Ratings History
@@ -231,4 +231,4 @@ Diff (max vs sum): 47
 | 2023-06-10 | 3.78 | - | 1,035 | 8,413 |
 | 2023-06-11 | 3.78 | - | 1,037 | 8,416 |
 | 2023-06-12 | 3.78 | - | 1,037 | 8,417 |
-| 2023-06-13 | 3.78 | - | 1,037 | 8,418 |
+| 2023-06-13 | 3.78 | - | 1,037 | 8,419 |

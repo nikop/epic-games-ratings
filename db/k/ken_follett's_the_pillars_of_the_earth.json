@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13229,
+  "EOS_Progressed": 13231,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -4084,6 +4084,11 @@
       "Time": "2023-06-13T19:07:06.184157+00:00",
       "NumProgressed": 13229,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-13T21:06:15.0982501+00:00",
+      "NumProgressed": 13231,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 41,
@@ -4119,7 +4124,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "tpote_achievement_13",
@@ -4127,7 +4132,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "tpote_achievement_14",
@@ -4135,7 +4140,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4498
+      "UsersEstimate": 4499
     },
     {
       "ID": "tpote_achievement_15",
@@ -4183,7 +4188,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4498
+      "UsersEstimate": 4499
     },
     {
       "ID": "tpote_achievement_20",
@@ -4199,7 +4204,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4101
+      "UsersEstimate": 4102
     },
     {
       "ID": "tpote_achievement_22",
@@ -4287,7 +4292,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "tpote_achievement_32",
@@ -4295,7 +4300,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "tpote_achievement_33",
@@ -4335,7 +4340,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "tpote_achievement_38",
@@ -4359,7 +4364,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5556
+      "UsersEstimate": 5557
     },
     {
       "ID": "tpote_achievement_40",
@@ -4383,7 +4388,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "tpote_achievement_6",
@@ -4407,7 +4412,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2910
+      "UsersEstimate": 2911
     },
     {
       "ID": "tpote_achievement_9",
@@ -4415,22 +4420,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4630
+      "UsersEstimate": 4631
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13229,
+      "Progressed": 13231,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-13T20:05:21.0230307+00:00",
+  "LastChanged_Achievements": "2023-06-13T21:06:15.0982493+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:29.1633629+00:00",
-  "LastUpdate_Ratings": "2023-06-13T19:59:30.3810104+00:00",
-  "LastUpdate_Achievements": "2023-06-13T20:05:21.023077+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:00:18.037479+00:00",
+  "LastUpdate_Achievements": "2023-06-13T21:06:15.0983385+00:00"
 }

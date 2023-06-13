@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.62,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:19.8064239+00:00",
@@ -191,6 +191,11 @@
       "Time": "2023-06-11T12:05:02.4502243+00:00",
       "NumProgressed": 325,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T21:04:27.3515724+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -234,7 +239,7 @@
       "Name": "The Collector",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -282,7 +287,7 @@
       "Name": "Monkey Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DRIFT_500M",
@@ -322,7 +327,7 @@
       "Name": "To and Fro",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -368,9 +373,9 @@
       "ID": "HIGH_COMBO_SCORE",
       "SetID": "20koof9",
       "Name": "C-C-C-Combo!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 95
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -424,9 +429,9 @@
       "ID": "HONK_100_TIMES",
       "SetID": "20koof9",
       "Name": "Toot Toot!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -456,9 +461,9 @@
       "ID": "LOADED_LVL_DESERT",
       "SetID": "20koof9",
       "Name": "The Wild West",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -488,9 +493,9 @@
       "ID": "MAX_MULTIPLIER",
       "SetID": "20koof9",
       "Name": "Multiply that!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 95
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -520,9 +525,9 @@
       "ID": "STUNT_EVENT",
       "SetID": "20koof9",
       "Name": "Bag of Tricks",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -562,7 +567,7 @@
       "Name": "I see the light!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -576,9 +581,9 @@
       "ID": "WIN_10_EVENTS",
       "SetID": "20koof9",
       "Name": "Event Amateur",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -618,7 +623,7 @@
       "Name": "In the Bag!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -626,7 +631,7 @@
       "Name": "You\u0027re it",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -641,7 +646,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 2
     }
   ],
@@ -649,8 +654,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-13T20:03:50.699183+00:00",
+  "LastChanged_Achievements": "2023-06-13T21:04:27.3515715+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:03.8621551+00:00",
-  "LastUpdate_Ratings": "2023-06-13T19:58:29.75622+00:00",
-  "LastUpdate_Achievements": "2023-06-13T20:03:50.6992312+00:00"
+  "LastUpdate_Ratings": "2023-06-13T20:59:01.7916911+00:00",
+  "LastUpdate_Achievements": "2023-06-13T21:04:27.3516605+00:00"
 }

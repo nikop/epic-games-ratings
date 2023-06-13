@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4578,9 +4578,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 709146,
+  "EOS_Progressed": 709159,
   "EOS_Completed": 12769,
-  "EOS_NewPlayers": 1432,
+  "EOS_NewPlayers": 1441,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9708,6 +9708,11 @@
       "Time": "2023-06-13T19:07:30.1963631+00:00",
       "NumProgressed": 709146,
       "NumCompleted": 12769
+    },
+    {
+      "Time": "2023-06-13T21:06:38.9267994+00:00",
+      "NumProgressed": 709159,
+      "NumCompleted": 12769
     }
   ],
   "TotalAchievements": 50,
@@ -9719,7 +9724,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "02_Vengeance_H1",
@@ -9727,7 +9732,7 @@
       "Name": "The Assault",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "03_Vengeance_H2",
@@ -9735,7 +9740,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "04_Vengeance_H3",
@@ -9743,7 +9748,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "05_Vengeance_H4",
@@ -9751,7 +9756,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "06_Vengeance_H5",
@@ -9759,7 +9764,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "07_Wude_H1",
@@ -9823,7 +9828,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "15_Detective_H1",
@@ -9871,7 +9876,7 @@
       "Name": "Stuntmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -9887,7 +9892,7 @@
       "Name": "Street Fighting",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -9895,7 +9900,7 @@
       "Name": "Life is your teacher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -9903,7 +9908,7 @@
       "Name": "State of constant learning",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "25_ShrineMind",
@@ -9919,7 +9924,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "27_ShrineBody",
@@ -9927,7 +9932,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -9967,7 +9972,7 @@
       "Name": "Old Child",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "33_BladeOneShot",
@@ -9983,7 +9988,7 @@
       "Name": "Lightning Hands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "35_WideStrike",
@@ -9999,7 +10004,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -10007,7 +10012,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -10031,7 +10036,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -10055,7 +10060,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -10071,7 +10076,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -10103,7 +10108,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -10118,21 +10123,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18447,
+      "Progressed": 18460,
       "Completed": 10263
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709146,
+      "Progressed": 709159,
       "Completed": 12769
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-13T02:09:44.3853194+00:00",
-  "LastChanged_Achievements": "2023-06-13T20:05:42.4693458+00:00",
+  "LastChanged_Achievements": "2023-06-13T21:06:38.9267987+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-13T19:58:43.8381598+00:00",
-  "LastUpdate_Achievements": "2023-06-13T20:05:42.469422+00:00"
+  "LastUpdate_Ratings": "2023-06-13T20:59:18.7628604+00:00",
+  "LastUpdate_Achievements": "2023-06-13T21:06:38.9268751+00:00"
 }

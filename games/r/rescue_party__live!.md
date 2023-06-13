@@ -11,7 +11,7 @@
 | Professional team! | 23.00% | ~42 |
 | Dawn of Victory | 13.00% | ~24 |
 | Resource manager | 13.00% | ~24 |
-| Team assemble | 11.00% | ~20 |
+| Team assemble | 12.00% | ~22 |
 | Gloable operation | 5.00% | ~9 |
 | Give me a hand | 4.00% | ~7 |
 | Love and peace | 4.00% | ~7 |

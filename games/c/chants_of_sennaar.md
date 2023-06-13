@@ -6,32 +6,32 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 100.00% | ~3 |
 | Rascal | 67.00% | ~2 |
+| Champollion | 67.00% | ~2 |
 | Scholar | 67.00% | ~2 |
 | Welcome to the Tower | 67.00% | ~2 |
+| Cable guy | 33.00% | ~1 |
+| A good beginning | 33.00% | ~1 |
+| Feels like springtime | 33.00% | ~1 |
 | The Preacher's fate | 33.00% | ~1 |
-| Champollion | 33.00% | ~1 |
 | The great escape | 33.00% | ~1 |
 | A new dawn | 33.00% | ~1 |
 | The darkness | 33.00% | ~1 |
+| One last step | 33.00% | ~1 |
 | I did it | 0.00% | ~0 |
 | In this together | 0.00% | ~0 |
 | Peace walker | 0.00% | ~0 |
-| Cable guy | 0.00% | ~0 |
-| A good beginning | 0.00% | ~0 |
 | Half the way | 0.00% | ~0 |
 | Open door | 0.00% | ~0 |
 | Free at last | 0.00% | ~0 |
-| Feels like springtime | 0.00% | ~0 |
 | A great audience | 0.00% | ~0 |
 | For its own good | 0.00% | ~0 |
 | A Link to the Past | 0.00% | ~0 |
 | Alchemists Express | 0.00% | ~0 |
 | True G4M3R | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |
-| One last step | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 397)  
-Completed: 0 (0.00%) (Ranked 218)  
+Progressed: 3 (Ranked 398)  
+Completed: 0 (0.00%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -12,7 +12,7 @@ Number of Ratings: 111  (23.09.2022)
 | The finer things in life | 16.00% | ~387 |
 | Backpacker | 12.00% | ~290 |
 | Go with the Flow | 11.00% | ~266 |
-| Plastic Surgeon | 9.00% | ~217 |
+| Plastic Surgeon | 9.00% | ~218 |
 | Keep the dream alive | 8.00% | ~193 |
 | The flip trick crown jewel | 8.00% | ~193 |
 | The hard way | 8.00% | ~193 |
@@ -39,10 +39,10 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~97 |
 | Tank commander | 4.00% | ~97 |
 | Trick shot marksman | 4.00% | ~97 |
-| Cops called! | 3.00% | ~72 |
-| G.O.A.T. status | 3.00% | ~72 |
-| Hoarder | 3.00% | ~72 |
-| We get it, you're good | 3.00% | ~72 |
+| Cops called! | 3.00% | ~73 |
+| G.O.A.T. status | 3.00% | ~73 |
+| Hoarder | 3.00% | ~73 |
+| We get it, you're good | 3.00% | ~73 |
 | Cross lock country | 2.00% | ~48 |
 | Many plys later... | 2.00% | ~48 |
 | Pew-Pew | 2.00% | ~48 |
@@ -55,8 +55,8 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,416 (Ranked 149)  
-Completed: 0 (0.00%) (Ranked 218)  
+Progressed: 2,417 (Ranked 149)  
+Completed: 0 (0.00%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 218)
 | 2023-06-10 | 2,362 | 0 |
 | 2023-06-11 | 2,388 | 0 |
 | 2023-06-12 | 2,406 | 0 |
-| 2023-06-13 | 2,416 | 0 |
+| 2023-06-13 | 2,417 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 401)  
 Sum: 421 (Ranked 301)  

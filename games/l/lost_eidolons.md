@@ -1,7 +1,7 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.32 (Ranked 752)  
+Rating: 4.32 (Ranked 751)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.32 (Ranked 752)
 | Monster Slayer | 28.00% | ~279 |
 | Awakening | 22.00% | ~220 |
 | Huntmaster | 21.00% | ~210 |
-| Complete the sidequest 'Malice and Greed' | 16.00% | ~160 |
+| Complete the sidequest 'Malice and Greed' | 17.00% | ~170 |
 | Digging Deep | 13.00% | ~130 |
 | House Vulisica's Heirloom | 13.00% | ~130 |
 | Broken Oath | 8.00% | ~80 |
@@ -30,7 +30,7 @@ Rating: 4.32 (Ranked 752)
 | Lean on Me | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 998 (Ranked 179)  
-Completed: 0 (0.00%) (Ranked 218)  
+Completed: 0 (0.00%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

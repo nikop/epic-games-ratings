@@ -24,7 +24,7 @@ Number of Ratings: 36  (23.09.2022)
 | Bing Bang BOOM | 17.00% | ~129 |
 | Breaking the Ice | 15.00% | ~114 |
 | Solidarity Forever | 11.00% | ~84 |
-| A Tucked Tale | 9.00% | ~68 |
+| A Tucked Tale | 10.00% | ~76 |
 | The best thing money can buy | 8.00% | ~61 |
 | Act III Complete | 6.00% | ~46 |
 | Fire and Brimstone | 5.00% | ~38 |
@@ -35,7 +35,7 @@ Number of Ratings: 36  (23.09.2022)
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 761 (Ranked 187)  
-Completed: 0 (0.00%) (Ranked 218)  
+Completed: 0 (0.00%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

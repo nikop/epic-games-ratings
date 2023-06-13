@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corporal | 53.00% | ~19 |
-| Facility Online | 50.00% | ~18 |
-| It's Good to have Allies | 47.00% | ~17 |
-| Covert Operative | 47.00% | ~17 |
-| Defenses Online | 44.00% | ~16 |
-| Sergeant | 39.00% | ~14 |
-| Stocking Up | 39.00% | ~14 |
-| On Target | 36.00% | ~13 |
-| Getting Deployment | 28.00% | ~10 |
-| Lieutenant | 25.00% | ~9 |
-| Fighting for Survival | 19.00% | ~7 |
-| Brothers in Arms | 19.00% | ~7 |
-| Silver Competitor | 17.00% | ~6 |
-| Keeping Busy | 17.00% | ~6 |
-| Infantry Reporting | 14.00% | ~5 |
-| Exterminator | 11.00% | ~4 |
+| Facility Online | 63.00% | ~25 |
+| Corporal | 63.00% | ~25 |
+| It's Good to have Allies | 57.00% | ~23 |
+| Defenses Online | 55.00% | ~22 |
+| Covert Operative | 48.00% | ~19 |
+| Sergeant | 40.00% | ~16 |
+| Stocking Up | 38.00% | ~15 |
+| On Target | 35.00% | ~14 |
+| Lieutenant | 30.00% | ~12 |
+| Getting Deployment | 28.00% | ~11 |
+| Brothers in Arms | 20.00% | ~8 |
+| Infantry Reporting | 20.00% | ~8 |
+| Fighting for Survival | 18.00% | ~7 |
+| Silver Competitor | 18.00% | ~7 |
+| Keeping Busy | 15.00% | ~6 |
+| Exterminator | 10.00% | ~4 |
 | Moving On Up | 8.00% | ~3 |
-| Player Betrayer | 6.00% | ~2 |
-| Advanced Warfare | 6.00% | ~2 |
-| Captain | 6.00% | ~2 |
-| Battle Ready | 6.00% | ~2 |
-| Factory Expansion | 6.00% | ~2 |
+| Captain | 8.00% | ~3 |
+| Player Betrayer | 5.00% | ~2 |
+| Advanced Warfare | 5.00% | ~2 |
+| Battle Ready | 5.00% | ~2 |
+| Factory Expansion | 5.00% | ~2 |
 | Know The Enemy | 3.00% | ~1 |
 | Gold Achiever | 3.00% | ~1 |
 | Silver Achiever | 3.00% | ~1 |
@@ -43,9 +43,9 @@
 | Resourceful | 0.00% | ~0 |
 | Shock Troops | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 329)  
-Completed: 0 (0.00%) (Ranked 218)  
+Progressed: 40 (Ranked 320)  
+Completed: 0 (0.00%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-06-13 | 36 | 0 |
+| 2023-06-13 | 40 | 0 |

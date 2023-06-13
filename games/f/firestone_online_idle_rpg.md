@@ -21,7 +21,7 @@ Rating: 4.05 (Ranked 891)
 | Dragon Master | 13.00% | ~181 |
 | Enlightenment | 13.00% | ~181 |
 | Hero inspection | 13.00% | ~181 |
-| Lieutenant | 12.00% | ~167 |
+| Lieutenant | 13.00% | ~181 |
 | Natural Talent | 12.00% | ~167 |
 | The Unstoppable | 12.00% | ~167 |
 | Mysterious Rock | 11.00% | ~153 |

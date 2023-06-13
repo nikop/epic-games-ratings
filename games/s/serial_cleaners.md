@@ -30,7 +30,7 @@
 | Bee Squat | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 194 (Ranked 253)  
-Completed: 5 (2.58%) (Ranked 57)  
+Completed: 5 (2.58%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

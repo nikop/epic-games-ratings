@@ -3,9 +3,9 @@
   "Name": "Terror of Hemasaurus",
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 43,
+  "Ranking_EOS_Completed": 44,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -174,9 +174,9 @@
       "ID": "ACH_100_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Crushing All Cars",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
@@ -358,9 +358,9 @@
       "ID": "ACH_KILL_1000_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Horror Show",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_KILL_100_ENEMIES",
@@ -398,9 +398,9 @@
       "ID": "ACH_UFO_STAGE",
       "SetID": "aio76gp",
       "Name": "Kill All Humans!",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -415,8 +415,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-06-13T20:02:06.1721856+00:00",
+  "LastChanged_Achievements": "2023-06-13T21:02:20.4781707+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.0054511+00:00",
-  "LastUpdate_Ratings": "2023-06-13T19:58:12.0497323+00:00",
-  "LastUpdate_Achievements": "2023-06-13T20:02:06.1722078+00:00"
+  "LastUpdate_Ratings": "2023-06-13T20:58:39.4959222+00:00",
+  "LastUpdate_Achievements": "2023-06-13T21:02:20.4781952+00:00"
 }

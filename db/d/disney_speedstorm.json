@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2768,
+  "EOS_Progressed": 2769,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2590,6 +2590,11 @@
       "Time": "2023-06-13T19:05:09.7849997+00:00",
       "NumProgressed": 2768,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-13T21:04:18.3534338+00:00",
+      "NumProgressed": 2769,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2625,7 +2630,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "13",
@@ -2657,7 +2662,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "17",
@@ -2665,7 +2670,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "18",
@@ -2673,7 +2678,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "19",
@@ -2697,7 +2702,7 @@
       "Name": "PROTECTED",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "21",
@@ -2753,7 +2758,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "6",
@@ -2767,9 +2772,9 @@
       "ID": "7",
       "SetID": "9p3jgda",
       "Name": "MASTER",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 65,
-      "UsersEstimate": 304
+      "UsersEstimate": 332
     },
     {
       "ID": "8",
@@ -2785,20 +2790,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2768,
+      "Progressed": 2769,
       "Completed": 11
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-13T20:03:43.2801923+00:00",
+  "LastChanged_Achievements": "2023-06-13T21:04:18.3534331+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-13T19:58:40.7983006+00:00",
-  "LastUpdate_Achievements": "2023-06-13T20:03:43.2802231+00:00"
+  "LastUpdate_Ratings": "2023-06-13T20:59:15.5735857+00:00",
+  "LastUpdate_Achievements": "2023-06-13T21:04:18.3534852+00:00"
 }

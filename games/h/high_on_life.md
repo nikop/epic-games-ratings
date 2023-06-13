@@ -5,18 +5,18 @@ Rating: 4.67 (Ranked 257)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,969 |
-| Mods Please Ban | 77.00% | ~17,598 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,369 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,683 |
-| First Bounty Down | 59.00% | ~13,484 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,027 |
-| Luglox Genocide | 43.00% | ~9,827 |
+| Eye Scream, You Scream | 83.00% | ~18,970 |
+| Mods Please Ban | 77.00% | ~17,599 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,371 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,685 |
+| First Bounty Down | 59.00% | ~13,485 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,028 |
+| Luglox Genocide | 43.00% | ~9,828 |
 | Playing Card To Get | 33.00% | ~7,542 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,542 |
 | Creature Feature | 29.00% | ~6,628 |
-| Satisfied Gus-tomer | 28.00% | ~6,399 |
-| Cold-Blooded Driller | 28.00% | ~6,399 |
+| Satisfied Gus-tomer | 28.00% | ~6,400 |
+| Cold-Blooded Driller | 28.00% | ~6,400 |
 | Are You Packin'? | 25.00% | ~5,714 |
 | G3 Graduation | 25.00% | ~5,714 |
 | RIP Davey Glutes | 24.00% | ~5,485 |
@@ -26,11 +26,11 @@ Rating: 4.67 (Ranked 257)
 | Lezduit! | 20.00% | ~4,571 |
 | Who's The Boss? | 20.00% | ~4,571 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,571 |
-| Self-Actualization | 19.00% | ~4,342 |
+| Self-Actualization | 19.00% | ~4,343 |
 | Legendary Bounty Hunter | 18.00% | ~4,114 |
 | Seeing All The Sights | 16.00% | ~3,657 |
 | Carried Stan's Load To Completion | 13.00% | ~2,971 |
-| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,742 |
+| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,743 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,057 |
 | Sequel-Bait | 8.00% | ~1,828 |
 | Gunning For Your Job | 7.00% | ~1,600 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 257)
 | Epic Legendary Prize | 1.00% | ~229 |
 | A Starfish Is Born | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,854 (Ranked 94)  
+Progressed: 22,856 (Ranked 94)  
 Completed: 8 (0.04%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 8 (0.04%) (Ranked 191)
 | 2023-06-10 | 22,825 | 8 |
 | 2023-06-11 | 22,838 | 8 |
 | 2023-06-12 | 22,848 | 8 |
-| 2023-06-13 | 22,854 | 8 |
+| 2023-06-13 | 22,856 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

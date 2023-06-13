@@ -5,25 +5,25 @@ Rating: 4.64 (Ranked 314)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~3,935 |
-| All thumbs | 91.00% | ~3,892 |
-| I will survive! | 91.00% | ~3,892 |
+| Prepper | 92.00% | ~3,936 |
+| All thumbs | 91.00% | ~3,893 |
+| I will survive! | 91.00% | ~3,893 |
 | Home, sweet home | 89.00% | ~3,807 |
-| Survivalist | 88.00% | ~3,764 |
-| One way ticket | 83.00% | ~3,550 |
-| Last man standing | 77.00% | ~3,293 |
+| Survivalist | 88.00% | ~3,765 |
+| One way ticket | 83.00% | ~3,551 |
+| Last man standing | 77.00% | ~3,294 |
 | Family guy | 75.00% | ~3,208 |
-| Out of the Bag | 72.00% | ~3,079 |
+| Out of the Bag | 72.00% | ~3,080 |
 | The Dark Side | 67.00% | ~2,866 |
 | Duck and cover! | 62.00% | ~2,652 |
-| Souper! | 61.00% | ~2,609 |
-| Pacifist | 56.00% | ~2,395 |
+| Souper! | 61.00% | ~2,610 |
+| Pacifist | 56.00% | ~2,396 |
 | 2-1-6 | 54.00% | ~2,310 |
-| A gift | 50.00% | ~2,138 |
+| A gift | 50.00% | ~2,139 |
 | Girl Power | 44.00% | ~1,882 |
 | What goes around... | 40.00% | ~1,711 |
 | Be Prepared | 35.00% | ~1,497 |
-| Unbreakable | 34.00% | ~1,454 |
+| Unbreakable | 34.00% | ~1,455 |
 | Atomic drill | 32.00% | ~1,369 |
 | This is the end | 32.00% | ~1,369 |
 | Gotta get 'em all | 30.00% | ~1,283 |
@@ -34,8 +34,8 @@ Rating: 4.64 (Ranked 314)
 | New species | 15.00% | ~642 |
 | A New Hope | 14.00% | ~599 |
 | Enigma | 14.00% | ~599 |
-| Challenger | 11.00% | ~470 |
-| Men in Black | 11.00% | ~470 |
+| Challenger | 11.00% | ~471 |
+| Men in Black | 11.00% | ~471 |
 | No stone unturned | 10.00% | ~428 |
 | Unplugged | 7.00% | ~299 |
 | Holidays! | 6.00% | ~257 |
@@ -66,8 +66,8 @@ Rating: 4.64 (Ranked 314)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,277 (Ranked 132)  
-Completed: 0 (0.00%) (Ranked 218)  
+Progressed: 4,278 (Ranked 132)  
+Completed: 0 (0.00%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 218)
 | 2023-06-10 | 4,246 | 0 |
 | 2023-06-11 | 4,255 | 0 |
 | 2023-06-12 | 4,267 | 0 |
-| 2023-06-13 | 4,277 | 0 |
+| 2023-06-13 | 4,278 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 56.00% | ~64 |
+| Seeds of War | 57.00% | ~66 |
 | Aspairagus | 52.00% | ~34 |
 | Survivor | 45.00% | ~29 |
 | First Blood | 40.00% | ~46 |
@@ -80,7 +80,7 @@
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 115 (Ranked 274)  
-Completed: 0 (0.00%) (Ranked 218)  
+Completed: 0 (0.00%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

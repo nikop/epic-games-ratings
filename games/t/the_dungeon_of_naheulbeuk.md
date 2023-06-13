@@ -47,7 +47,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Dungeon Master | 15.00% | ~12 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 15.00% | ~12 |
 | Scholar of the Lands of Fangh | 13.00% | ~11 |
-| He’s alive! Aliiiive! | 12.00% | ~10 |
+| He’s alive! Aliiiive! | 13.00% | ~11 |
 | It's been a hard day's night | 11.00% | ~9 |
 | Lëgal Legend | 11.00% | ~9 |
 | An old poacher makes the best gamekeeper | 9.00% | ~7 |
@@ -96,7 +96,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 82 (Ranked 288)  
-Completed: 0 (0.00%) (Ranked 218)  
+Completed: 0 (0.00%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

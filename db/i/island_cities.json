@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 332,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 15.06,
   "EosHistory": [
@@ -1577,9 +1577,9 @@
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "LEVEL_012",
@@ -1593,9 +1593,9 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_014",
@@ -1682,8 +1682,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-13T20:05:17.2702726+00:00",
+  "LastChanged_Achievements": "2023-06-13T21:06:10.9341915+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:14.620254+00:00",
-  "LastUpdate_Ratings": "2023-06-13T19:57:54.5229498+00:00",
-  "LastUpdate_Achievements": "2023-06-13T20:05:17.2702953+00:00"
+  "LastUpdate_Ratings": "2023-06-13T20:58:17.6223967+00:00",
+  "LastUpdate_Achievements": "2023-06-13T21:06:10.9342242+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10122,
+  "EOS_Progressed": 10124,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -926,6 +926,11 @@
       "Time": "2023-06-13T17:06:33.8080328+00:00",
       "NumProgressed": 10122,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-13T21:06:16.0210165+00:00",
+      "NumProgressed": 10124,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -961,7 +966,7 @@
       "Name": "autopilot",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -977,7 +982,7 @@
       "Name": "bicycle race",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACH_CAR_WASH",
@@ -1057,7 +1062,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -1097,7 +1102,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7794
+      "UsersEstimate": 7795
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1129,7 +1134,7 @@
       "Name": "where is the stage?",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -1145,7 +1150,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5668
+      "UsersEstimate": 5669
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1161,7 +1166,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9717
+      "UsersEstimate": 9719
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1169,7 +1174,7 @@
       "Name": "maximum attack",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ACH_MAX_SPEED_MEDIUM",
@@ -1177,7 +1182,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5972
+      "UsersEstimate": 5973
     },
     {
       "ID": "ACH_NIGHT",
@@ -1225,7 +1230,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4049
+      "UsersEstimate": 4050
     },
     {
       "ID": "ACH_SNOW",
@@ -1249,7 +1254,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -1273,22 +1278,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7288
+      "UsersEstimate": 7289
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10122,
+      "Progressed": 10124,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-13T20:05:21.871257+00:00",
+  "LastChanged_Achievements": "2023-06-13T21:06:16.0210156+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:31.6442423+00:00",
-  "LastUpdate_Ratings": "2023-06-13T19:57:24.0205027+00:00",
-  "LastUpdate_Achievements": "2023-06-13T20:05:21.8712916+00:00"
+  "LastUpdate_Ratings": "2023-06-13T20:57:40.8978087+00:00",
+  "LastUpdate_Achievements": "2023-06-13T21:06:16.0210561+00:00"
 }

@@ -2,20 +2,20 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 746,
+  "Ranking_Rating": 751,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 172,
-  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.33,
+  "Rating": 4.32,
   "RatingHistory": [
     {
       "Time": "2023-05-29T20:58:20.2954549+00:00",
@@ -92,6 +92,12 @@
     {
       "Time": "2023-06-12T21:58:22.035868+00:00",
       "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-13T20:58:34.2004717+00:00",
+      "Rating": 4.32,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1715,9 +1721,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 815
     },
     {
       "ID": "ATTENBOROUGH",
@@ -1779,9 +1785,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 480
     },
     {
       "ID": "CRUELTY",
@@ -1843,9 +1849,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 446
     },
     {
       "ID": "ENDGAME",
@@ -1947,9 +1953,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 670
     },
     {
       "ID": "INFILTRATOR",
@@ -2003,9 +2009,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 848
     },
     {
       "ID": "RECYCLER",
@@ -2043,9 +2049,9 @@
       "ID": "SHADOW_BOXING",
       "SetID": "9a4jnji",
       "Name": "Shadow Boxin\u0027",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SIDE_ORDER",
@@ -2115,9 +2121,9 @@
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged": "2023-06-12T21:58:22.0358678+00:00",
-  "LastChanged_Achievements": "2023-06-13T20:02:24.6044581+00:00",
+  "LastChanged": "2023-06-13T20:58:34.2004652+00:00",
+  "LastChanged_Achievements": "2023-06-13T21:03:22.9636144+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-13T19:58:07.8573178+00:00",
-  "LastUpdate_Achievements": "2023-06-13T20:02:24.6045082+00:00"
+  "LastUpdate_Ratings": "2023-06-13T20:58:34.2004724+00:00",
+  "LastUpdate_Achievements": "2023-06-13T21:03:22.9637057+00:00"
 }

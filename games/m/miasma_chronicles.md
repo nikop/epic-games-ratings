@@ -1,21 +1,21 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.33 (Ranked 746)  
+Rating: 4.32 (Ranked 751)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 91.00% | ~1,016 |
-| Ranidaphobia | 75.00% | ~837 |
-| Aspiring Editor | 72.00% | ~804 |
+| Ranidaphobia | 76.00% | ~848 |
+| Aspiring Editor | 73.00% | ~815 |
 | Gun for Hire | 68.00% | ~759 |
-| I am the law! | 59.00% | ~658 |
+| I am the law! | 60.00% | ~670 |
 | Lumberjack | 47.00% | ~525 |
-| Croaked | 42.00% | ~469 |
+| Croaked | 43.00% | ~480 |
 | Limp Richard | 41.00% | ~458 |
 | From Darkness to Light | 41.00% | ~458 |
+| Editor Adept | 40.00% | ~446 |
 | Exorcist | 40.00% | ~446 |
-| Editor Adept | 39.00% | ~435 |
 | Firestarter | 38.00% | ~424 |
 | Giant Killer | 36.00% | ~402 |
 | Sensei | 34.00% | ~379 |
@@ -50,15 +50,15 @@ Rating: 4.33 (Ranked 746)
 | Fratricide | 0.70% | ~8 |
 | Alpha Editor | 0.60% | ~7 |
 | QA Has Suffered! (Redux) | 0.60% | ~7 |
+| Shadow Boxin' | 0.60% | ~7 |
 | Goaaaaal! | 0.50% | ~6 |
-| Shadow Boxin' | 0.50% | ~6 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,116 (Ranked 172)  
-Completed: 0 (0.00%) (Ranked 218)  
+Completed: 0 (0.00%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,3 +100,4 @@ Completed: 0 (0.00%) (Ranked 218)
 | 2023-06-10 | 4.29 | 0 | 0 |
 | 2023-06-11 | 4.36 | 0 | 0 |
 | 2023-06-12 | 4.33 | 0 | 0 |
+| 2023-06-13 | 4.32 | 0 | 0 |

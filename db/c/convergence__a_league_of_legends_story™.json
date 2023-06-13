@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 673,
+  "EOS_Progressed": 674,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1244,6 +1244,11 @@
       "Time": "2023-06-13T19:06:41.8278589+00:00",
       "NumProgressed": 673,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T21:05:50.4429549+00:00",
+      "NumProgressed": 674,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1277,9 +1282,9 @@
       "ID": "ChestCompletion1",
       "SetID": "a9e499d",
       "Name": "Treasure Trove",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 54
+      "UsersEstimate": 61
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1373,9 +1378,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 54
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1453,9 +1458,9 @@
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 61
     },
     {
       "ID": "NoCritterSump",
@@ -1493,9 +1498,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     },
     {
       "ID": "ParryBoss",
@@ -1525,9 +1530,9 @@
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     },
     {
       "ID": "PidgeDefeated",
@@ -1613,9 +1618,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 40
     },
     {
       "ID": "TheaterChests1",
@@ -1661,9 +1666,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1678,14 +1683,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 673,
+      "Progressed": 674,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-13T20:05:00.799703+00:00",
+  "LastChanged_Achievements": "2023-06-13T21:05:50.4429542+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-13T19:59:01.6673497+00:00",
-  "LastUpdate_Achievements": "2023-06-13T20:05:00.7997571+00:00"
+  "LastUpdate_Ratings": "2023-06-13T20:59:41.3955565+00:00",
+  "LastUpdate_Achievements": "2023-06-13T21:05:50.4430262+00:00"
 }

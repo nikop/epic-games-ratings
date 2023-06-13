@@ -31,12 +31,12 @@ Rating: 3.44 (Ranked 939)
 | Block Party | 7.00% | ~118 |
 | From the Shadows | 5.00% | ~84 |
 | Bell-ringer | 4.00% | ~67 |
+| Right This Way | 4.00% | ~67 |
 | Nice Try | 4.00% | ~67 |
 | Revelations | 3.00% | ~50 |
 | Sic Transit Umbra | 3.00% | ~50 |
 | Silence Is Golden | 3.00% | ~50 |
 | Check, Please! | 3.00% | ~50 |
-| Right This Way | 3.00% | ~50 |
 | Enemy of My Enemy | 3.00% | ~50 |
 | Contingency Plans | 2.00% | ~34 |
 | Scream Team | 2.00% | ~34 |
@@ -73,7 +73,7 @@ Rating: 3.44 (Ranked 939)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,681 (Ranked 156)  
-Completed: 0 (0.00%) (Ranked 218)  
+Completed: 0 (0.00%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

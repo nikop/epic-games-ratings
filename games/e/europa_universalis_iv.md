@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~4,948 |
-| That's a Grand Army | 8.00% | ~4,399 |
-| That is mine! | 8.00% | ~4,399 |
-| Victorious! | 8.00% | ~4,399 |
-| Brothers in Arms | 6.00% | ~3,299 |
-| That's a Grand Navy | 6.00% | ~3,299 |
-| Seriously?! | 6.00% | ~3,299 |
-| For the Glory | 5.00% | ~2,749 |
-| Cold War | 4.00% | ~2,199 |
-| True Catholic | 4.00% | ~2,199 |
-| Defender of the Faith | 3.00% | ~1,649 |
-| It's all about the money | 3.00% | ~1,649 |
-| Respected | 3.00% | ~1,649 |
-| Truly Divine Ruler | 3.00% | ~1,649 |
+| Until death do us apart | 9.00% | ~4,952 |
+| That's a Grand Army | 8.00% | ~4,401 |
+| That is mine! | 8.00% | ~4,401 |
+| Victorious! | 8.00% | ~4,401 |
+| Brothers in Arms | 6.00% | ~3,301 |
+| That's a Grand Navy | 6.00% | ~3,301 |
+| Seriously?! | 6.00% | ~3,301 |
+| For the Glory | 5.00% | ~2,751 |
+| Cold War | 4.00% | ~2,201 |
+| True Catholic | 4.00% | ~2,201 |
+| Defender of the Faith | 3.00% | ~1,651 |
+| It's all about the money | 3.00% | ~1,651 |
+| Respected | 3.00% | ~1,651 |
+| Truly Divine Ruler | 3.00% | ~1,651 |
 | Agressive Expander | 2.00% | ~1,100 |
 | Blockader | 2.00% | ~1,100 |
 | Combined Arms | 2.00% | ~1,100 |
@@ -91,6 +91,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Imperio español | 0.20% | ~110 |
 | Industrial Powerhouse | 0.20% | ~110 |
 | Magellan’s Voyage | 0.20% | ~110 |
+| Viva la Revolución! | 0.20% | ~110 |
 | We bled for this | 0.20% | ~110 |
 | The 52 Garhs | 0.10% | ~55 |
 | I don't like sand | 0.10% | ~55 |
@@ -311,7 +312,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ultimate Military | 0.10% | ~55 |
 | Venetian Sea | 0.10% | ~55 |
 | Victorian Three | 0.10% | ~55 |
-| Viva la Revolución! | 0.10% | ~55 |
 | Voltaire's Nightmare | 0.10% | ~55 |
 | Where are the penguins? | 0.10% | ~55 |
 | The White Elephant | 0.10% | ~55 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,982 (Ranked 77)  
-Completed: 0 (0.00%) (Ranked 218)  
+Progressed: 55,018 (Ranked 77)  
+Completed: 0 (0.00%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -415,7 +415,7 @@ Completed: 0 (0.00%) (Ranked 218)
 | 2023-06-10 | 53,460 | 0 |
 | 2023-06-11 | 54,074 | 0 |
 | 2023-06-12 | 54,579 | 0 |
-| 2023-06-13 | 54,982 | 0 |
+| 2023-06-13 | 55,018 | 0 |
 ## Awards
 Max (Educational): 5,386  (Ranked 61)  
 Sum: 44,506 (Ranked 27)  
