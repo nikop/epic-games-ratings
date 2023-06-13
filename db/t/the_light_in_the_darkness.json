@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1626,
+  "EOS_Progressed": 1627,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 8.18,
+  "EOS_Completed_Percentage": 8.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -2563,6 +2563,11 @@
       "Time": "2023-06-13T02:17:15.3822234+00:00",
       "NumProgressed": 1626,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-06-13T04:06:33.5539764+00:00",
+      "NumProgressed": 1627,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 12,
@@ -2590,7 +2595,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "Green Ticket Roundup",
@@ -2606,7 +2611,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "Jakob",
@@ -2614,7 +2619,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Jude",
@@ -2630,7 +2635,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Little Helper",
@@ -2638,7 +2643,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -2654,7 +2659,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "Nuremberg Laws",
@@ -2669,7 +2674,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1626,
+      "Progressed": 1627,
       "Completed": 133
     }
   ],
@@ -2677,8 +2682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-13T03:06:16.1754725+00:00",
+  "LastChanged_Achievements": "2023-06-13T04:06:33.553976+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:00.0693666+00:00",
-  "LastUpdate_Ratings": "2023-06-13T02:59:40.0073535+00:00",
-  "LastUpdate_Achievements": "2023-06-13T03:06:16.1754908+00:00"
+  "LastUpdate_Ratings": "2023-06-13T04:00:02.0324641+00:00",
+  "LastUpdate_Achievements": "2023-06-13T04:06:33.5539956+00:00"
 }

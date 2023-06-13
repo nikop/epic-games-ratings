@@ -18,7 +18,7 @@ Number of Ratings: 34  (23.09.2022)
 | The Motivation | 35.00% | ~122 |
 | Missing in Action | 34.00% | ~118 |
 | Heroism | 33.00% | ~115 |
-| Collectibles of Chapter I | 31.00% | ~108 |
+| Collectibles of Chapter I | 32.00% | ~111 |
 | King of Knives | 30.00% | ~104 |
 | Consequences | 28.00% | ~97 |
 | Opportunities | 26.00% | ~90 |

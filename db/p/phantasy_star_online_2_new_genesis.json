@@ -3,12 +3,12 @@
   "Name": "Phantasy Star Online 2 New Genesis",
   "ProductSlug": "phantasy-star-online-2",
   "Ranking_Rating": 473,
-  "Ranking_Popularity": 145,
+  "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-02-17T06:00:00+00:00",
     "PcReleaseDate": "2021-02-17T06:00:00+00:00",
@@ -2379,10 +2379,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 3773,
       "NumberOfAwardsMax": 862
+    },
+    {
+      "Time": "2023-06-13T03:58:32.8601124+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3774,
+      "NumberOfAwardsMax": 862
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3773,
+  "NumberOfAwards": 3774,
   "NumberOfAwardsMax": 862,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2456,7 +2462,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 212
+      "Count": 213
     }
   ],
   "EOS_Progressed": 0,
@@ -2470,8 +2476,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2023-06-12T18:58:33.9543075+00:00",
+  "LastChanged": "2023-06-13T03:58:32.8601122+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.9479748+00:00",
-  "LastUpdate_Ratings": "2023-06-13T02:58:21.9921142+00:00",
-  "LastUpdate_Achievements": "2023-06-13T03:02:04.3125164+00:00"
+  "LastUpdate_Ratings": "2023-06-13T03:58:32.860113+00:00",
+  "LastUpdate_Achievements": "2023-06-13T04:01:37.7164897+00:00"
 }

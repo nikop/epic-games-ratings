@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2752,
+  "EOS_Progressed": 2754,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3372,6 +3372,11 @@
       "Time": "2023-06-13T03:06:29.0150493+00:00",
       "NumProgressed": 2752,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T04:06:47.1124382+00:00",
+      "NumProgressed": 2754,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3551,7 +3556,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3631,7 +3636,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3693,9 +3698,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 496
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3717,9 +3722,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 413
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3749,9 +3754,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 330
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3950,13 +3955,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2703,
+      "Progressed": 2705,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2752,
+      "Progressed": 2754,
       "Completed": 2
     }
   ],
@@ -3964,8 +3969,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-12T12:00:24.1242654+00:00",
-  "LastChanged_Achievements": "2023-06-13T03:06:29.0150488+00:00",
+  "LastChanged_Achievements": "2023-06-13T04:06:47.1124379+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-13T03:00:38.2733156+00:00",
-  "LastUpdate_Achievements": "2023-06-13T03:06:29.0151255+00:00"
+  "LastUpdate_Ratings": "2023-06-13T04:01:07.9221124+00:00",
+  "LastUpdate_Achievements": "2023-06-13T04:06:47.112504+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4578,9 +4578,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 709013,
+  "EOS_Progressed": 709022,
   "EOS_Completed": 12767,
-  "EOS_NewPlayers": 1424,
+  "EOS_NewPlayers": 1425,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -9628,6 +9628,11 @@
       "Time": "2023-06-13T03:06:37.5379918+00:00",
       "NumProgressed": 709013,
       "NumCompleted": 12767
+    },
+    {
+      "Time": "2023-06-13T04:06:56.9407408+00:00",
+      "NumProgressed": 709022,
+      "NumCompleted": 12767
     }
   ],
   "TotalAchievements": 50,
@@ -9975,7 +9980,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -10038,21 +10043,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 18314,
-      "Completed": 10260
+      "Progressed": 18323,
+      "Completed": 10261
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709013,
+      "Progressed": 709022,
       "Completed": 12767
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-13T02:09:44.3853194+00:00",
-  "LastChanged_Achievements": "2023-06-13T03:06:37.5379915+00:00",
+  "LastChanged_Achievements": "2023-06-13T04:06:56.9407405+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:22.8228523+00:00",
-  "LastUpdate_Ratings": "2023-06-13T02:59:07.3004231+00:00",
-  "LastUpdate_Achievements": "2023-06-13T03:06:37.5380462+00:00"
+  "LastUpdate_Ratings": "2023-06-13T03:59:24.7649016+00:00",
+  "LastUpdate_Achievements": "2023-06-13T04:06:56.9407964+00:00"
 }

@@ -20,8 +20,8 @@ Number of Ratings: 801  (23.09.2022)
 | Meching Enemies | 49.00% | ~3,542 |
 | Ticket Toddler | 45.00% | ~3,253 |
 | Booty Bashing | 43.00% | ~3,108 |
+| Here Comes a New Challenger | 38.00% | ~2,747 |
 | Field Medic | 37.00% | ~2,674 |
-| Here Comes a New Challenger | 37.00% | ~2,674 |
 | Rapid Response | 33.00% | ~2,385 |
 | Guardian Angel | 31.00% | ~2,241 |
 | Surge Ahead | 31.00% | ~2,241 |
@@ -113,9 +113,9 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-12 | 7,217 | 0 |
 | 2023-06-13 | 7,228 | 0 |
 ## Awards
-Max (Relaxing): 62  (Ranked 377)  
+Max (Relaxing): 62  (Ranked 378)  
 Sum: 485 (Ranked 295)  
-Diff (max vs sum): 82  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 62 |
