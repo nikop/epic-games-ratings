@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Facility Online | 66.00% | ~29 |
-| It's Good to have Allies | 61.00% | ~27 |
-| Corporal | 59.00% | ~26 |
-| Defenses Online | 50.00% | ~22 |
-| Covert Operative | 43.00% | ~19 |
-| Sergeant | 39.00% | ~17 |
+| Facility Online | 68.00% | ~30 |
+| It's Good to have Allies | 64.00% | ~28 |
+| Corporal | 61.00% | ~27 |
+| Defenses Online | 55.00% | ~24 |
+| Covert Operative | 45.00% | ~20 |
+| Sergeant | 41.00% | ~18 |
 | Stocking Up | 36.00% | ~16 |
-| On Target | 34.00% | ~15 |
-| Lieutenant | 30.00% | ~13 |
-| Getting Deployment | 27.00% | ~12 |
-| Infantry Reporting | 23.00% | ~10 |
+| On Target | 36.00% | ~16 |
+| Lieutenant | 32.00% | ~14 |
+| Getting Deployment | 30.00% | ~13 |
+| Infantry Reporting | 25.00% | ~11 |
 | Fighting for Survival | 18.00% | ~8 |
+| Silver Competitor | 18.00% | ~8 |
+| Keeping Busy | 18.00% | ~8 |
 | Brothers in Arms | 18.00% | ~8 |
-| Silver Competitor | 16.00% | ~7 |
-| Keeping Busy | 16.00% | ~7 |
 | Exterminator | 9.00% | ~4 |
+| Captain | 9.00% | ~4 |
 | Moving On Up | 7.00% | ~3 |
-| Captain | 7.00% | ~3 |
+| Factory Expansion | 7.00% | ~3 |
 | Player Betrayer | 5.00% | ~2 |
 | Advanced Warfare | 5.00% | ~2 |
 | Battle Ready | 5.00% | ~2 |
-| Factory Expansion | 5.00% | ~2 |
 | Know The Enemy | 2.00% | ~1 |
 | Gold Achiever | 2.00% | ~1 |
 | Silver Achiever | 2.00% | ~1 |

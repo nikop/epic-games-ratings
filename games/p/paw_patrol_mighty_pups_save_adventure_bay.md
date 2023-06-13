@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 25.00% | ~1 |
-| Grand Re-Opening | 25.00% | ~1 |
-| Pup Pup Boogie | 25.00% | ~1 |
-| Mr. Porter | 25.00% | ~1 |
-| Break Time | 25.00% | ~1 |
-| Master of the Rope | 25.00% | ~1 |
-| Summer Day | 25.00% | ~1 |
-| In the Air | 25.00% | ~1 |
-| Clear the Road | 25.00% | ~1 |
-| You Have Been Everywhere | 25.00% | ~1 |
-| Animal Sighting | 25.00% | ~1 |
-| Risky Rescue | 25.00% | ~1 |
-| Carlos Is Tangled | 25.00% | ~1 |
-| Mandy Family | 25.00% | ~1 |
+| Mighty Powers | 40.00% | ~2 |
+| Pup Pup Boogie | 40.00% | ~2 |
+| Grand Re-Opening | 20.00% | ~1 |
+| Mr. Porter | 20.00% | ~1 |
+| Break Time | 20.00% | ~1 |
+| Master of the Rope | 20.00% | ~1 |
+| Summer Day | 20.00% | ~1 |
+| In the Air | 20.00% | ~1 |
+| Clear the Road | 20.00% | ~1 |
+| You Have Been Everywhere | 20.00% | ~1 |
+| Animal Sighting | 20.00% | ~1 |
+| Risky Rescue | 20.00% | ~1 |
+| Carlos Is Tangled | 20.00% | ~1 |
+| Mandy Family | 20.00% | ~1 |
 | King of the Mountain | 0.00% | ~0 |
 | A Great Explorer | 0.00% | ~0 |
 | Nothing Can Stop You | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Mountain and Ice | 0.00% | ~0 |
 | Adventure Bay’s Citizen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 392)  
+Progressed: 5 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -43,6 +43,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-04-25 | 2 | 0 |
 | 2023-05-30 | 3 | 0 |
 | 2023-06-11 | 4 | 0 |
+| 2023-06-13 | 5 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

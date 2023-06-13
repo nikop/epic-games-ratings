@@ -5,36 +5,36 @@ Rating: 4.54 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,603 |
-| Before the Downfall | 93.00% | ~17,654 |
+| Trevithick's Legacy | 98.00% | ~18,604 |
+| Before the Downfall | 93.00% | ~17,655 |
 | Money like Water | 91.00% | ~17,275 |
-| Minimalist | 90.00% | ~17,085 |
-| Builder | 82.00% | ~15,566 |
-| Eraser | 70.00% | ~13,288 |
-| Pocket of Trains | 65.00% | ~12,339 |
-| Inspector | 59.00% | ~11,200 |
+| Minimalist | 90.00% | ~17,086 |
+| Builder | 82.00% | ~15,567 |
+| Eraser | 70.00% | ~13,289 |
+| Pocket of Trains | 65.00% | ~12,340 |
+| Inspector | 59.00% | ~11,201 |
 | Going the Distance | 54.00% | ~10,251 |
 | Oil Baron | 42.00% | ~7,973 |
 | Loads-a-Money | 42.00% | ~7,973 |
-| Helper of the People | 39.00% | ~7,403 |
-| Simplification | 34.00% | ~6,454 |
-| Box of Trains | 33.00% | ~6,264 |
+| Helper of the People | 39.00% | ~7,404 |
+| Simplification | 34.00% | ~6,455 |
+| Box of Trains | 33.00% | ~6,265 |
 | Let There be Light | 32.00% | ~6,075 |
 | Hot Water | 31.00% | ~5,885 |
 | Indecisive | 29.00% | ~5,505 |
-| The scenic route | 27.00% | ~5,125 |
+| The scenic route | 27.00% | ~5,126 |
 | Industrialist | 25.00% | ~4,746 |
 | Perfectionist | 23.00% | ~4,366 |
 | Trains over Pipes | 23.00% | ~4,366 |
 | 8K is Enough for Everyone | 22.00% | ~4,176 |
 | Man of Steel | 16.00% | ~3,037 |
 | Room Full of Trains | 12.00% | ~2,278 |
-| Investor | 9.00% | ~1,708 |
+| Investor | 9.00% | ~1,709 |
 | Multiverse | 7.00% | ~1,329 |
 | The poor groundwater levels | 7.00% | ~1,329 |
 | Metropolis | 7.00% | ~1,329 |
-| High Flier | 3.00% | ~569 |
-| To infinity, and beyond! | 3.00% | ~569 |
+| High Flier | 3.00% | ~570 |
+| To infinity, and beyond! | 3.00% | ~570 |
 | Space industrialization | 2.00% | ~380 |
 | Deertastic | 1.00% | ~190 |
 | High tech | 1.00% | ~190 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 489)
 | Overdeer | 0.50% | ~95 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,983 (Ranked 99)  
+Progressed: 18,984 (Ranked 99)  
 Completed: 30 (0.16%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 30 (0.16%) (Ranked 155)
 | 2023-06-10 | 18,937 | 30 |
 | 2023-06-11 | 18,958 | 30 |
 | 2023-06-12 | 18,973 | 30 |
-| 2023-06-13 | 18,983 | 30 |
+| 2023-06-13 | 18,984 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 345)  
 Sum: 651 (Ranked 276)  

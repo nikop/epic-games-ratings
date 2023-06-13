@@ -4,7 +4,7 @@
   "ProductSlug": "warforwards-fd05ed",
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-24T05:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:36.9299627+00:00",
   "LastChanged": "2023-03-31T05:57:36.9299628+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:06.9610647+00:00",
-  "LastUpdate_Ratings": "2023-06-13T21:58:13.1246658+00:00",
-  "LastUpdate_Achievements": "2023-06-13T22:03:40.0473978+00:00"
+  "LastUpdate_Ratings": "2023-06-13T22:57:45.4995623+00:00",
+  "LastUpdate_Achievements": "2023-06-13T23:03:04.1029413+00:00"
 }

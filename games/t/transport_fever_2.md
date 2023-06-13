@@ -26,7 +26,7 @@ Number of Ratings: 180  (23.09.2022)
 | First ship arrived | 46.00% | ~585 |
 | Now what? | 46.00% | ~585 |
 | High speed | 43.00% | ~547 |
-| Transport shark | 40.00% | ~509 |
+| Transport shark | 41.00% | ~522 |
 | First aircraft arrived | 40.00% | ~509 |
 | Exemplary student | 40.00% | ~509 |
 | Mass production | 34.00% | ~432 |
@@ -38,8 +38,8 @@ Number of Ratings: 180  (23.09.2022)
 | The king of the sea | 28.00% | ~356 |
 | Transport tycoon | 24.00% | ~305 |
 | Climate change | 23.00% | ~293 |
+| The ugly smell of success | 23.00% | ~293 |
 | Old timer | 22.00% | ~280 |
-| The ugly smell of success | 22.00% | ~280 |
 | Heavily loaded | 21.00% | ~267 |
 | Bob Ross | 16.00% | ~204 |
 | Campaign expert | 11.00% | ~140 |

@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 674,
+  "EOS_Progressed": 676,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1249,6 +1249,11 @@
       "Time": "2023-06-13T21:05:50.4429549+00:00",
       "NumProgressed": 674,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T23:05:00.3885817+00:00",
+      "NumProgressed": 676,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1292,7 +1297,7 @@
       "Name": "Right On Time",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1308,7 +1313,7 @@
       "Name": "Like Clockwork",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ClovemaryGift",
@@ -1316,7 +1321,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CosmeticCompletion1",
@@ -1332,7 +1337,7 @@
       "Name": "Street Style",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "CultivairChests1",
@@ -1340,7 +1345,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "EntresolChests1",
@@ -1388,7 +1393,7 @@
       "Name": "The Betrayer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1444,7 +1449,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "LacunaCompleted",
@@ -1548,7 +1553,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "RewindParry",
@@ -1556,7 +1561,7 @@
       "Name": "Honest Mistake",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1564,7 +1569,7 @@
       "Name": "Golem Hunter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ScrambotProgress1",
@@ -1572,7 +1577,7 @@
       "Name": "Golem Chaser",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "SkillCompletion1",
@@ -1580,7 +1585,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SkillProgress1",
@@ -1588,7 +1593,7 @@
       "Name": "Fast Learner",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "SpeedRun",
@@ -1620,7 +1625,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "TheaterChests1",
@@ -1676,21 +1681,21 @@
       "Name": "The Family Fortune",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 674,
+      "Progressed": 676,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-13T22:06:04.9047652+00:00",
+  "LastChanged_Achievements": "2023-06-13T23:05:00.3885813+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.053279+00:00",
-  "LastUpdate_Ratings": "2023-06-13T21:59:44.8365538+00:00",
-  "LastUpdate_Achievements": "2023-06-13T22:06:04.9048325+00:00"
+  "LastUpdate_Ratings": "2023-06-13T22:58:57.3619089+00:00",
+  "LastUpdate_Achievements": "2023-06-13T23:05:00.3886346+00:00"
 }

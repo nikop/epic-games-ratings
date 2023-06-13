@@ -39,9 +39,9 @@ Rating: 4.53 (Ranked 503)
 | My Little Friend | 3.00% | ~84 |
 | The Long Game | 2.00% | ~56 |
 | It'll Buff Right Out | 2.00% | ~56 |
-| Locomotion Commotion | 2.00% | ~56 |
 | Strategist | 1.00% | ~28 |
 | Tinkerer | 1.00% | ~28 |
+| Locomotion Commotion | 1.00% | ~28 |
 | Road Rage | 1.00% | ~28 |
 | Don't hold your breath | 1.00% | ~28 |
 | Herr Today, Gone Tomorrow | 1.00% | ~28 |
@@ -60,10 +60,10 @@ Rating: 4.53 (Ranked 503)
 | Can't Outrun A Bullet | 0.40% | ~11 |
 | Sight Beyond Sights | 0.30% | ~8 |
 | Reich To The Point | 0.30% | ~8 |
-| Covert Elimination | 0.30% | ~8 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~6 |
+| Covert Elimination | 0.20% | ~6 |
 | Das Familienjuwel | 0.20% | ~6 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.53 (Ranked 503)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,799 (Ranked 144)  
+Progressed: 2,801 (Ranked 144)  
 Completed: 2 (0.07%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 2 (0.07%) (Ranked 180)
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
-| 2023-06-13 | 2,799 | 2 |
+| 2023-06-13 | 2,801 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 58.00% | ~68 |
-| Aspairagus | 52.00% | ~35 |
+| Aspairagus | 53.00% | ~36 |
 | Survivor | 44.00% | ~30 |
 | First Blood | 41.00% | ~48 |
 | Triple Kill | 38.00% | ~45 |
@@ -15,7 +15,7 @@
 | Cornivore | 33.00% | ~39 |
 | I Believe I Can Fly | 31.00% | ~37 |
 | Amateur Survivor | 25.00% | ~17 |
-| Bouncemato | 23.00% | ~16 |
+| Bouncemato | 24.00% | ~16 |
 | Quick-Draw Pod | 19.00% | ~13 |
 | This Is My Boomstick | 19.00% | ~13 |
 | Professional Survivor | 18.00% | ~12 |

@@ -1529,9 +1529,9 @@
       "ID": "5CustomDishesMenus",
       "SetID": "d1bm05f",
       "Name": "Culinary Arts",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "5OvenDishesMenu",
@@ -1842,8 +1842,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-13T22:03:56.2556847+00:00",
+  "LastChanged_Achievements": "2023-06-13T23:03:17.0075612+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:39.9705413+00:00",
-  "LastUpdate_Ratings": "2023-06-13T21:58:43.1572374+00:00",
-  "LastUpdate_Achievements": "2023-06-13T22:03:56.2557259+00:00"
+  "LastUpdate_Ratings": "2023-06-13T22:58:09.4187073+00:00",
+  "LastUpdate_Achievements": "2023-06-13T23:03:17.007595+00:00"
 }

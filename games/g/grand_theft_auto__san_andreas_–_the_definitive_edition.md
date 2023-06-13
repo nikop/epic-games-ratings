@@ -5,21 +5,21 @@ Rating: 4.58 (Ranked 420)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,349 |
-| Pay 'n' Spray | 49.00% | ~5,114 |
-| All Dressed Up for San Fierro | 23.00% | ~2,400 |
-| The American Dream | 17.00% | ~1,774 |
+| Getting Started | 80.00% | ~8,352 |
+| Pay 'n' Spray | 49.00% | ~5,116 |
+| All Dressed Up for San Fierro | 23.00% | ~2,401 |
+| The American Dream | 17.00% | ~1,775 |
 | School's Out | 16.00% | ~1,670 |
-| Smooth Moves | 15.00% | ~1,565 |
+| Smooth Moves | 15.00% | ~1,566 |
 | Today Was a Good Day | 13.00% | ~1,357 |
-| What happens in Las Venturas... | 12.00% | ~1,252 |
-| Horror of the Santa Maria | 9.00% | ~939 |
+| What happens in Las Venturas... | 12.00% | ~1,253 |
+| Horror of the Santa Maria | 9.00% | ~940 |
 | Liberty City State of Mind | 7.00% | ~731 |
 | With Extra Dip | 6.00% | ~626 |
 | The End of the Line | 6.00% | ~626 |
 | Original Gangster | 6.00% | ~626 |
 | Saviour | 5.00% | ~522 |
-| Rescue a Kitten Too? | 4.00% | ~417 |
+| Rescue a Kitten Too? | 4.00% | ~418 |
 | They Can’t Stop All of Us | 3.00% | ~313 |
 | What are the Odds | 3.00% | ~313 |
 | I’ll Have Two Number 9s | 2.00% | ~209 |
@@ -34,14 +34,14 @@ Rating: 4.58 (Ranked 420)
 | Assassin | 1.00% | ~104 |
 | Ain’t Nothing But a G Thing | 1.00% | ~104 |
 | Chick Magnet | 0.90% | ~94 |
-| Lucky Spinner | 0.80% | ~83 |
+| Lucky Spinner | 0.80% | ~84 |
 | Hoopin' it Up | 0.70% | ~73 |
 | Not a Player | 0.60% | ~63 |
 | Remastered | 0.40% | ~42 |
 | ...Here we go again | 0.20% | ~21 |
 | I Ain't No Buster | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,436 (Ranked 110)  
+Progressed: 10,440 (Ranked 110)  
 Completed: 18 (0.17%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 18 (0.17%) (Ranked 153)
 | 2023-06-10 | 10,174 | 17 |
 | 2023-06-11 | 10,282 | 17 |
 | 2023-06-12 | 10,359 | 17 |
-| 2023-06-13 | 10,436 | 18 |
+| 2023-06-13 | 10,440 | 18 |
 ## Awards
 Max (Great Boss Battles): 163  (Ranked 284)  
 Sum: 163 (Ranked 377)  

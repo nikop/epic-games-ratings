@@ -5,27 +5,27 @@ Rating: 4.18 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 15.00% | ~2,280 |
-| The Outer Way | 14.00% | ~2,128 |
-| Desperate Times | 13.00% | ~1,976 |
-| Paper Jams | 11.00% | ~1,672 |
-| Reforged | 10.00% | ~1,520 |
-| Chew 'Em Up | 9.00% | ~1,368 |
-| Workplace Hazard | 9.00% | ~1,368 |
-| If the SHU Fits... | 9.00% | ~1,368 |
-| Giving Back | 7.00% | ~1,064 |
-| Get a Grip | 7.00% | ~1,064 |
-| Without A Paddle | 7.00% | ~1,064 |
-| Terminated | 6.00% | ~912 |
-| In the Pipe, Five by Five | 6.00% | ~912 |
-| Crash Site | 6.00% | ~912 |
-| Two Heads Are Better Than One | 5.00% | ~760 |
-| Float Like A Butterfly | 5.00% | ~760 |
-| Power Up | 5.00% | ~760 |
-| You Need a Gun | 4.00% | ~608 |
-| What Lies Beneath | 4.00% | ~608 |
-| Full Circle | 4.00% | ~608 |
-| Instigator | 4.00% | ~125 |
+| Flesh Wound | 15.00% | ~2,282 |
+| The Outer Way | 14.00% | ~2,130 |
+| Desperate Times | 13.00% | ~1,978 |
+| Paper Jams | 11.00% | ~1,674 |
+| Reforged | 10.00% | ~1,521 |
+| Chew 'Em Up | 9.00% | ~1,369 |
+| Workplace Hazard | 9.00% | ~1,369 |
+| If the SHU Fits... | 9.00% | ~1,369 |
+| Giving Back | 7.00% | ~1,065 |
+| Get a Grip | 7.00% | ~1,065 |
+| Without A Paddle | 7.00% | ~1,065 |
+| Terminated | 6.00% | ~913 |
+| In the Pipe, Five by Five | 6.00% | ~913 |
+| Crash Site | 6.00% | ~913 |
+| Two Heads Are Better Than One | 5.00% | ~761 |
+| Float Like A Butterfly | 5.00% | ~761 |
+| Power Up | 5.00% | ~761 |
+| You Need a Gun | 4.00% | ~609 |
+| What Lies Beneath | 4.00% | ~609 |
+| Full Circle | 4.00% | ~609 |
+| Instigator | 4.00% | ~126 |
 | The Commonality | 3.00% | ~456 |
 | Big Game Hunter | 3.00% | ~94 |
 | Bear Trap | 3.00% | ~94 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 843)
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,202 (Ranked 104)  
+Progressed: 15,214 (Ranked 104)  
 Completed: 55 (0.36%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 55 (0.36%) (Ranked 128)
 | 2023-06-10 | 14,984 | 54 |
 | 2023-06-11 | 15,076 | 54 |
 | 2023-06-12 | 15,140 | 54 |
-| 2023-06-13 | 15,202 | 55 |
+| 2023-06-13 | 15,214 | 55 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
 Sum: 307 (Ranked 328)  

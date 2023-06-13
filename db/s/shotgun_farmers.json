@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -933,7 +933,7 @@
       "ID": "ach_hit_player_with_bounce_grenade",
       "SetID": "bf10c8p",
       "Name": "Bouncemato",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -1061,9 +1061,9 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -1164,8 +1164,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-13T22:03:46.964165+00:00",
+  "LastChanged_Achievements": "2023-06-13T23:03:09.4030084+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:34.5762228+00:00",
-  "LastUpdate_Ratings": "2023-06-13T21:58:38.1380746+00:00",
-  "LastUpdate_Achievements": "2023-06-13T22:03:46.9643028+00:00"
+  "LastUpdate_Ratings": "2023-06-13T22:58:05.5392443+00:00",
+  "LastUpdate_Achievements": "2023-06-13T23:03:09.4030863+00:00"
 }

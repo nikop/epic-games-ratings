@@ -13,7 +13,7 @@ Number of Ratings: 36  (23.09.2022)
 | Post No Bills | 55.00% | ~419 |
 | Truly Shocking! | 46.00% | ~350 |
 | Critical Thinker | 34.00% | ~259 |
-| Always Finding Your Mark | 28.00% | ~213 |
+| Always Finding Your Mark | 29.00% | ~221 |
 | The Weight of the World | 28.00% | ~213 |
 | Act I Complete | 27.00% | ~205 |
 | No Niños | 27.00% | ~205 |
@@ -25,7 +25,7 @@ Number of Ratings: 36  (23.09.2022)
 | Breaking the Ice | 15.00% | ~114 |
 | Solidarity Forever | 11.00% | ~84 |
 | A Tucked Tale | 10.00% | ~76 |
-| The best thing money can buy | 8.00% | ~61 |
+| The best thing money can buy | 9.00% | ~68 |
 | Act III Complete | 6.00% | ~46 |
 | Fire and Brimstone | 5.00% | ~38 |
 | See you Space Cowboy | 5.00% | ~38 |

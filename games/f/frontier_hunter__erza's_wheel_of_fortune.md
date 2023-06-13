@@ -33,8 +33,8 @@
 | Cave Master | 47.00% | ~9 |
 | Master Artificer | 42.00% | ~8 |
 | Master Cook | 32.00% | ~6 |
+| Boss challenge | 21.00% | ~4 |
 | Berserker Slayer | 21.00% | ~4 |
-| Boss challenge | 16.00% | ~3 |
 | Giantess Slayer | 11.00% | ~2 |
 | Warden Slayer | 11.00% | ~2 |
 | Big Face Goalkeeper Challenge | 5.00% | ~1 |

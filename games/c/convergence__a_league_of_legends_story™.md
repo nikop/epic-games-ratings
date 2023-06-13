@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 10.00% | ~67 |
+| Time Heals All Wounds | 10.00% | ~68 |
 | Treasure Trove | 9.00% | ~61 |
 | Cartographer | 9.00% | ~61 |
 | The Steel Shadow | 8.00% | ~54 |
@@ -21,16 +21,16 @@
 | The Wicked Twins | 7.00% | ~47 |
 | Immaculate Aim | 7.00% | ~47 |
 | The Brass Boss | 7.00% | ~47 |
-| Right On Time | 6.00% | ~40 |
-| Like Clockwork | 6.00% | ~40 |
-| Street Style | 6.00% | ~40 |
-| The Betrayer | 6.00% | ~40 |
-| The Loose Cannon | 6.00% | ~40 |
-| Honest Mistake | 6.00% | ~40 |
-| Golem Chaser | 6.00% | ~40 |
-| Fast Learner | 6.00% | ~40 |
-| Check Your Pulse | 6.00% | ~40 |
-| The Family Fortune | 6.00% | ~40 |
+| Right On Time | 6.00% | ~41 |
+| Like Clockwork | 6.00% | ~41 |
+| Street Style | 6.00% | ~41 |
+| The Betrayer | 6.00% | ~41 |
+| The Loose Cannon | 6.00% | ~41 |
+| Honest Mistake | 6.00% | ~41 |
+| Golem Chaser | 6.00% | ~41 |
+| Fast Learner | 6.00% | ~41 |
+| Check Your Pulse | 6.00% | ~41 |
+| The Family Fortune | 6.00% | ~41 |
 | Whiz Kid | 5.00% | ~34 |
 | Chaincrawler Explorer | 4.00% | ~27 |
 | Family Memories | 4.00% | ~27 |
@@ -44,10 +44,10 @@
 | Factorywood Explorer | 3.00% | ~20 |
 | Fairgrounds Explorer | 3.00% | ~20 |
 | Theater Explorer | 3.00% | ~20 |
-| Clovemary for Remembering | 2.00% | ~13 |
-| Cultivair Explorer | 2.00% | ~13 |
-| Golem Hunter | 2.00% | ~13 |
-| Rungs Was Right | 2.00% | ~13 |
+| Clovemary for Remembering | 2.00% | ~14 |
+| Cultivair Explorer | 2.00% | ~14 |
+| Golem Hunter | 2.00% | ~14 |
+| Rungs Was Right | 2.00% | ~14 |
 | Hexlock for Protection | 1.00% | ~7 |
 | Fitting In | 0.70% | ~5 |
 | Thinking Two Steps Ahead | 0.60% | ~4 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.00% | ~0 |
 | No Time to Waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674 (Ranked 191)  
+Progressed: 676 (Ranked 191)  
 Completed: 1 (0.15%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,4 +84,4 @@ Completed: 1 (0.15%) (Ranked 159)
 | 2023-06-10 | 653 | 0 |
 | 2023-06-11 | 661 | 1 |
 | 2023-06-12 | 669 | 1 |
-| 2023-06-13 | 674 | 1 |
+| 2023-06-13 | 676 | 1 |

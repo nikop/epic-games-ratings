@@ -5,21 +5,21 @@ Rating: 3.82 (Ranked 927)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~14,908 |
-| No Half Measures | 88.00% | ~13,810 |
-| Personal Matter | 87.00% | ~13,653 |
-| But You Have Heard of Me | 72.00% | ~11,299 |
-| Double the Barrels, double the Fun | 55.00% | ~8,631 |
+| Eeligally Ambitious | 95.00% | ~14,909 |
+| No Half Measures | 88.00% | ~13,811 |
+| Personal Matter | 87.00% | ~13,654 |
+| But You Have Heard of Me | 72.00% | ~11,300 |
+| Double the Barrels, double the Fun | 55.00% | ~8,632 |
 | Pimp My Glide | 47.00% | ~7,376 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,434 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,435 |
 | House Party! | 33.00% | ~5,179 |
-| Make It Rain | 23.00% | ~3,609 |
+| Make It Rain | 23.00% | ~3,610 |
 | Curse of the Seven Seas | 21.00% | ~3,296 |
 | Head First | 16.00% | ~2,511 |
 | To the World's End | 12.00% | ~1,883 |
 | Table for Six | 11.00% | ~1,726 |
 | Sharing Is Caring | 10.00% | ~1,569 |
-| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,255 |
+| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,256 |
 | Morally Flexible | 6.00% | ~942 |
 | Fishing for Compliments | 5.00% | ~785 |
 | After All, Why Shouldn't I Keep It? | 2.00% | ~314 |
@@ -32,7 +32,7 @@ Rating: 3.82 (Ranked 927)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,693 (Ranked 100)  
+Progressed: 15,694 (Ranked 100)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-10 | 15,633 | 0 |
 | 2023-06-11 | 15,664 | 0 |
 | 2023-06-12 | 15,675 | 0 |
-| 2023-06-13 | 15,693 | 0 |
+| 2023-06-13 | 15,694 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

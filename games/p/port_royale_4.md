@@ -18,7 +18,7 @@ Number of Ratings: 53  (23.09.2022)
 | I'm out of here for a while | 40.00% | ~260 |
 | In a mint condition | 37.00% | ~240 |
 | Licence to Kill | 34.00% | ~221 |
-| Pirates! | 33.00% | ~214 |
+| Pirates! | 34.00% | ~221 |
 | Collectionitis | 28.00% | ~182 |
 | Megalomania | 28.00% | ~182 |
 | Christening | 26.00% | ~169 |

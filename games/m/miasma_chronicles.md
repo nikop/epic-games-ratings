@@ -5,31 +5,31 @@ Rating: 4.32 (Ranked 751)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~1,016 |
-| Ranidaphobia | 76.00% | ~849 |
-| Aspiring Editor | 73.00% | ~815 |
+| First Blood | 91.00% | ~1,017 |
+| Ranidaphobia | 75.00% | ~838 |
+| Aspiring Editor | 73.00% | ~816 |
 | Gun for Hire | 68.00% | ~760 |
-| I am the law! | 60.00% | ~670 |
+| I am the law! | 60.00% | ~671 |
 | Lumberjack | 47.00% | ~525 |
-| Croaked | 43.00% | ~480 |
+| Croaked | 43.00% | ~481 |
 | Limp Richard | 41.00% | ~458 |
 | From Darkness to Light | 41.00% | ~458 |
 | Editor Adept | 40.00% | ~447 |
 | Exorcist | 40.00% | ~447 |
-| Firestarter | 38.00% | ~424 |
+| Firestarter | 38.00% | ~425 |
 | Giant Killer | 36.00% | ~402 |
-| Sensei | 34.00% | ~380 |
+| Sensei | 35.00% | ~391 |
 | The meaning of Kain | 33.00% | ~369 |
-| Technophobe | 30.00% | ~335 |
+| Technophobe | 31.00% | ~347 |
 | Recycler | 29.00% | ~324 |
-| Are you not entertained? | 26.00% | ~290 |
-| Ganglord | 25.00% | ~279 |
-| Jarhead | 25.00% | ~279 |
+| Are you not entertained? | 25.00% | ~280 |
+| Ganglord | 25.00% | ~280 |
+| Jarhead | 25.00% | ~280 |
 | Infiltrator | 24.00% | ~268 |
 | Pushing Daisy | 23.00% | ~257 |
 | Experienced | 21.00% | ~235 |
-| There Can Be Only One! | 21.00% | ~235 |
-| Chain Killer | 20.00% | ~223 |
+| Chain Killer | 20.00% | ~224 |
+| There Can Be Only One! | 20.00% | ~224 |
 | Hold The Line | 19.00% | ~212 |
 | Endgame | 18.00% | ~201 |
 | Savior | 17.00% | ~190 |
@@ -57,7 +57,7 @@ Rating: 4.32 (Ranked 751)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,117 (Ranked 172)  
+Progressed: 1,118 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 222)
 | 2023-06-10 | 1,089 | 0 |
 | 2023-06-11 | 1,099 | 0 |
 | 2023-06-12 | 1,111 | 0 |
-| 2023-06-13 | 1,117 | 0 |
+| 2023-06-13 | 1,118 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
