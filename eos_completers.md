@@ -19,11 +19,11 @@
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.70% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.18% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.17% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.52% |
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.16% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.04% |
 | 27 | [Scorn](games/s/scorn.md) | 6.82% |
@@ -67,7 +67,7 @@
 | 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.13% |
 | 66 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 67 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.08% |
-| 68 | [Iron Danger](games/i/iron_danger.md) | 1.98% |
+| 68 | [Iron Danger](games/i/iron_danger.md) | 1.97% |
 | 69 | [JARS](games/j/jars.md) | 1.89% |
 | 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.84% |
 | 71 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
