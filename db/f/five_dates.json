@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 93,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -606,9 +606,9 @@
       "ID": "only_thyme_will_tell",
       "SetID": "c4ipj3h",
       "Name": "Only Thyme Will Tell",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     },
     {
       "ID": "planting_the_seed",
@@ -638,9 +638,9 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     }
   ],
   "AchievementSets": [
@@ -655,8 +655,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:04:13.8383216+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:04:26.1599928+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:19.5548432+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:58:22.2708805+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:04:13.8383379+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:58:24.7754281+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:04:26.1600181+00:00"
 }

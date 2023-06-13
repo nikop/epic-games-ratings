@@ -5,16 +5,16 @@ Rating: 4.53 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 30.00% | ~838 |
-| Confirming Suspicions | 25.00% | ~699 |
-| The Kraken Wakes | 20.00% | ~559 |
-| It's Starting to Crack | 18.00% | ~503 |
-| Lord of War | 15.00% | ~419 |
-| Change the Channel | 15.00% | ~419 |
-| Resourceful | 13.00% | ~363 |
-| Taking it back | 13.00% | ~363 |
-| Organ Grinder | 11.00% | ~307 |
-| Target America | 11.00% | ~307 |
+| Meeting Resistance | 30.00% | ~840 |
+| Confirming Suspicions | 25.00% | ~700 |
+| The Kraken Wakes | 20.00% | ~560 |
+| It's Starting to Crack | 18.00% | ~504 |
+| Lord of War | 15.00% | ~420 |
+| Change the Channel | 15.00% | ~420 |
+| Resourceful | 13.00% | ~364 |
+| Taking it back | 13.00% | ~364 |
+| Organ Grinder | 11.00% | ~308 |
+| Target America | 11.00% | ~308 |
 | As Quiet as a Mouse | 10.00% | ~280 |
 | The Kraken Sleeps | 10.00% | ~280 |
 | Liberté | 9.00% | ~252 |
@@ -39,19 +39,19 @@ Rating: 4.53 (Ranked 503)
 | My Little Friend | 3.00% | ~84 |
 | The Long Game | 2.00% | ~56 |
 | It'll Buff Right Out | 2.00% | ~56 |
+| Locomotion Commotion | 2.00% | ~56 |
 | Strategist | 1.00% | ~28 |
 | Tinkerer | 1.00% | ~28 |
-| Locomotion Commotion | 1.00% | ~28 |
 | Road Rage | 1.00% | ~28 |
 | Don't hold your breath | 1.00% | ~28 |
-| Herr Today, Gone Tomorrow | 1.00% | ~27 |
-| Operation Foxley | 1.00% | ~27 |
+| Herr Today, Gone Tomorrow | 1.00% | ~28 |
+| Operation Foxley | 1.00% | ~28 |
 | Last Resort | 0.90% | ~25 |
 | Siegebreaker | 0.90% | ~25 |
 | Ghost of Falaise | 0.90% | ~25 |
 | Burn after reading | 0.80% | ~22 |
 | From Paris with Love | 0.70% | ~20 |
-| Souvenir hunter | 0.60% | ~17 |
+| Souvenir hunter | 0.70% | ~20 |
 | Shoot for the Moon | 0.60% | ~17 |
 | Eagle Eyed | 0.50% | ~14 |
 | Up close and personal | 0.50% | ~14 |
@@ -63,8 +63,8 @@ Rating: 4.53 (Ranked 503)
 | Covert Elimination | 0.30% | ~8 |
 | Sink or Swim | 0.30% | ~2 |
 | Best of the Best | 0.20% | ~6 |
-| Führerious Repetition | 0.20% | ~5 |
-| Das Familienjuwel | 0.20% | ~5 |
+| Führerious Repetition | 0.20% | ~6 |
+| Das Familienjuwel | 0.20% | ~6 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
@@ -77,8 +77,8 @@ Rating: 4.53 (Ranked 503)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,795 (Ranked 144)  
-Completed: 2 (0.07%) (Ranked 178)  
+Progressed: 2,799 (Ranked 144)  
+Completed: 2 (0.07%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,7 +130,7 @@ Completed: 2 (0.07%) (Ranked 178)
 | 2023-06-10 | 2,577 | 2 |
 | 2023-06-11 | 2,680 | 2 |
 | 2023-06-12 | 2,745 | 2 |
-| 2023-06-13 | 2,795 | 2 |
+| 2023-06-13 | 2,799 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

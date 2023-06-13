@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2338,
+  "EOS_Progressed": 2339,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2553,6 +2553,11 @@
       "Time": "2023-06-13T16:07:29.9931805+00:00",
       "NumProgressed": 2338,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-13T22:06:45.3522265+00:00",
+      "NumProgressed": 2339,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2628,7 +2633,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2644,7 +2649,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2668,7 +2673,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2676,7 +2681,7 @@
       "Name": "I chose my shackles",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -2732,7 +2737,7 @@
       "Name": "Chains master",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -2740,7 +2745,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2748,7 +2753,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2780,7 +2785,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2796,7 +2801,7 @@
       "Name": "Clarion Cove",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2804,7 +2809,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2860,7 +2865,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "STB_PET_DOG",
@@ -2892,7 +2897,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -2987,7 +2992,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2338,
+      "Progressed": 2339,
       "Completed": 1
     }
   ],
@@ -2995,8 +3000,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:06:30.5106339+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:06:45.3522258+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:44.9465936+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:57:51.4973063+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:06:30.5107382+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:57:53.5550563+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:06:45.3523355+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5112,
+  "EOS_Progressed": 5113,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -550,6 +550,11 @@
       "Time": "2023-06-13T17:06:59.6853786+00:00",
       "NumProgressed": 5112,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-06-13T22:06:54.775035+00:00",
+      "NumProgressed": 5113,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 49,
@@ -561,7 +566,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -577,7 +582,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -585,7 +590,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -601,7 +606,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -617,7 +622,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -633,7 +638,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -665,7 +670,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3068
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -689,7 +694,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5010
+      "UsersEstimate": 5011
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -697,7 +702,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -761,7 +766,7 @@
       "Name": "The Poison You Just Drank",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_1000",
@@ -769,7 +774,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 3987
+      "UsersEstimate": 3988
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -785,7 +790,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2709
+      "UsersEstimate": 2710
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -801,7 +806,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -825,7 +830,7 @@
       "Name": "Survived The Slaughter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACHIEVE_LVL_15_COMPLETE",
@@ -833,7 +838,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3016
+      "UsersEstimate": 3017
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -849,7 +854,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5010
+      "UsersEstimate": 5011
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -905,7 +910,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2709
+      "UsersEstimate": 2710
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -952,15 +957,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5112,
+      "Progressed": 5113,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:06:39.5511964+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:06:54.7750343+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:33.2240138+00:00",
-  "LastUpdate_Ratings": "2023-06-13T21:00:21.1519556+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:06:39.5512418+00:00"
+  "LastUpdate_Ratings": "2023-06-13T22:00:24.626291+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:06:54.7751087+00:00"
 }

@@ -13,7 +13,7 @@ Number of Ratings: 38  (23.09.2022)
 | Cook | 41.00% | ~107 |
 | Teleport | 40.00% | ~105 |
 | Scrap Master | 39.00% | ~102 |
-| Smelter | 36.00% | ~94 |
+| Smelter | 37.00% | ~97 |
 | Electro-Scrap Gatherer | 34.00% | ~89 |
 | Digger | 32.00% | ~84 |
 | Survivor | 32.00% | ~84 |
@@ -39,7 +39,7 @@ Number of Ratings: 38  (23.09.2022)
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 262 (Ranked 239)  
-Completed: 0 (0.00%) (Ranked 219)  
+Completed: 1 (0.38%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 219)
 | 2023-06-10 | 255 | 0 |
 | 2023-06-11 | 258 | 0 |
 | 2023-06-12 | 260 | 0 |
-| 2023-06-13 | 262 | 0 |
+| 2023-06-13 | 262 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

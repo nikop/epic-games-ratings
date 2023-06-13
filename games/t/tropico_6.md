@@ -6,13 +6,13 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,749 |
-| Un-Lonely Island | 48.00% | ~1,736 |
-| The Beginning of a Servantship | 45.00% | ~1,628 |
-| Trade Is My Trait | 37.00% | ~1,338 |
-| Number 18 | 25.00% | ~904 |
-| We Don't Have Time For That | 20.00% | ~723 |
-| The Governator | 18.00% | ~651 |
+| Just One...More...Term... | 76.00% | ~2,751 |
+| Un-Lonely Island | 48.00% | ~1,738 |
+| The Beginning of a Servantship | 45.00% | ~1,629 |
+| Trade Is My Trait | 36.00% | ~1,303 |
+| Number 18 | 25.00% | ~905 |
+| We Don't Have Time For That | 20.00% | ~724 |
+| The Governator | 18.00% | ~652 |
 | The Legend of Langostino | 17.00% | ~615 |
 | Caribbean Comrade | 16.00% | ~579 |
 | The Dreamer of Dreams | 16.00% | ~579 |
@@ -21,17 +21,17 @@ Number of Ratings: 398  (23.09.2022)
 | For Science! | 11.00% | ~398 |
 | Of Seals And Men | 10.00% | ~362 |
 | Shackadelic | 10.00% | ~362 |
-| Double Trouble | 8.00% | ~289 |
-| Firestarter | 8.00% | ~289 |
-| Make Tropico Great Again! | 8.00% | ~289 |
-| French Connection | 8.00% | ~289 |
+| Double Trouble | 8.00% | ~290 |
+| Firestarter | 8.00% | ~290 |
+| Make Tropico Great Again! | 8.00% | ~290 |
+| French Connection | 8.00% | ~290 |
 | Don't Panic! | 7.00% | ~253 |
 | Beware The Betman | 6.00% | ~217 |
 | I Owe You Nothing | 6.00% | ~217 |
 | Watch The World Burn | 6.00% | ~217 |
-| Fairy Tale Come True | 6.00% | ~217 |
 | Viva Tropico! | 5.00% | ~181 |
 | Computer Says "No" | 5.00% | ~181 |
+| Fairy Tale Come True | 5.00% | ~181 |
 | Apocalypso | 4.00% | ~145 |
 | Been there, Done That | 3.00% | ~109 |
 | Narcissist | 3.00% | ~109 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~36 |
 | My Ways | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,617 (Ranked 135)  
-Completed: 1 (0.03%) (Ranked 195)  
+Progressed: 3,620 (Ranked 135)  
+Completed: 1 (0.03%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,7 +101,7 @@ Completed: 1 (0.03%) (Ranked 195)
 | 2023-06-10 | 3,547 | 1 |
 | 2023-06-11 | 3,572 | 1 |
 | 2023-06-12 | 3,598 | 1 |
-| 2023-06-13 | 3,617 | 1 |
+| 2023-06-13 | 3,620 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 339)  
 Sum: 653 (Ranked 275)  

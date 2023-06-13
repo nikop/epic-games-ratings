@@ -8,8 +8,8 @@
 | The Routine | 79.00% | ~81 |
 | Mother | 76.00% | ~78 |
 | Failure | 74.00% | ~75 |
-| Replace Fuse | 65.00% | ~66 |
-| Alarm | 63.00% | ~64 |
+| Replace Fuse | 66.00% | ~67 |
+| Alarm | 64.00% | ~65 |
 | Air Filtration | 62.00% | ~63 |
 | Broken | 60.00% | ~61 |
 | Radiation | 58.00% | ~59 |
@@ -22,7 +22,7 @@
 | Leave | 47.00% | ~48 |
 | Commissioner | 47.00% | ~48 |
 | Engineer | 46.00% | ~47 |
-| Soldier | 45.00% | ~46 |
+| Soldier | 46.00% | ~47 |
 | Press Play | 36.00% | ~37 |
 | Bookworm | 23.00% | ~23 |
 | General | 23.00% | ~23 |

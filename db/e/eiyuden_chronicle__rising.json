@@ -5,10 +5,10 @@
   "Ranking_Rating": 565,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
-  "Ranking_EOS_Progress": 193,
+  "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -158,11 +158,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 668,
+  "EOS_Progressed": 669,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.68,
+  "EOS_Completed_Percentage": 8.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -198,6 +198,11 @@
       "Time": "2023-06-13T21:06:39.2311721+00:00",
       "NumProgressed": 668,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-06-13T22:06:54.3904247+00:00",
+      "NumProgressed": 669,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 50,
@@ -209,7 +214,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -217,7 +222,7 @@
       "Name": "Partners?",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -233,7 +238,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -241,7 +246,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -249,7 +254,7 @@
       "Name": "The Lords of the Snowpeak",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -263,9 +268,9 @@
       "ID": "ACHIEVEMENT008",
       "SetID": "dejhjd5",
       "Name": "This Treasure I\u0027ve Found",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT009",
@@ -281,7 +286,7 @@
       "Name": "One-Hundred Resident Record",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT011",
@@ -295,9 +300,9 @@
       "ID": "ACHIEVEMENT012",
       "SetID": "dejhjd5",
       "Name": "The Go-To Girl",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -313,7 +318,7 @@
       "Name": "A Local Hero",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT015",
@@ -321,7 +326,7 @@
       "Name": "Scavenger\u0027s Honor",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHIEVEMENT016",
@@ -361,7 +366,7 @@
       "Name": "Full Force - Garoo",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT021",
@@ -369,7 +374,7 @@
       "Name": "Full Force - Isha",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT022",
@@ -385,7 +390,7 @@
       "Name": "Armor Master",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -393,7 +398,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -417,7 +422,7 @@
       "Name": "Natural Born Monster-Killer",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -425,7 +430,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -481,7 +486,7 @@
       "Name": "First Time Fishing",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -489,15 +494,15 @@
       "Name": "First Time Hunting",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACHIEVEMENT037",
       "SetID": "dejhjd5",
       "Name": "Rune Wall Wreckage",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 321
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -521,7 +526,7 @@
       "Name": "Rune Wall Master",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -529,7 +534,7 @@
       "Name": "The Great Forest...On Foot!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHIEVEMENT042",
@@ -545,7 +550,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -553,7 +558,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -608,15 +613,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 668,
+      "Progressed": 669,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-03-31T05:58:46.4032746+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:06:39.2311715+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:06:54.3904239+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:46.8286518+00:00",
-  "LastUpdate_Ratings": "2023-06-13T21:00:33.2115113+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:06:39.2312205+00:00"
+  "LastUpdate_Ratings": "2023-06-13T22:00:36.8433362+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:06:54.390501+00:00"
 }

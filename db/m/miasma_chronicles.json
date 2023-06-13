@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 172,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1116,
+  "EOS_Progressed": 1117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1696,6 +1696,11 @@
       "Time": "2023-06-13T19:04:14.0373969+00:00",
       "NumProgressed": 1116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T22:03:34.8536676+00:00",
+      "NumProgressed": 1117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -1713,9 +1718,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 290
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -1851,7 +1856,7 @@
       "Name": "Editor Adept",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ENDGAME",
@@ -1867,7 +1872,7 @@
       "Name": "Exorcist",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "EXPERIENCED",
@@ -1875,7 +1880,7 @@
       "Name": "Experienced",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "FIRESTARTER",
@@ -1939,7 +1944,7 @@
       "Name": "Gun for Hire",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -1987,7 +1992,7 @@
       "Name": "Newtonian Knockout",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "PUSHING_DAISY",
@@ -2011,7 +2016,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "RECYCLER",
@@ -2043,7 +2048,7 @@
       "Name": "Sensei",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2081,9 +2086,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 235
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -2091,7 +2096,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "THE_WATCHERS",
@@ -2099,7 +2104,7 @@
       "Name": "The Watchers",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "WIPE_OUT",
@@ -2114,7 +2119,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1116,
+      "Progressed": 1117,
       "Completed": 0
     }
   ],
@@ -2122,8 +2127,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-13T20:58:34.2004652+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:03:22.9636144+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:03:34.853667+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5497295+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:58:34.2004724+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:03:22.9637057+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:58:36.5438265+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:03:34.853767+00:00"
 }

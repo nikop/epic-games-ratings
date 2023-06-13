@@ -6,15 +6,15 @@ Rating: 4.25 (Ranked 794)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,418 |
-| Don't I Know You...? | 77.00% | ~1,364 |
+| Don't I Know You...? | 77.00% | ~1,365 |
 | Jailbreak | 65.00% | ~1,152 |
-| Suited and Booted | 38.00% | ~673 |
+| Suited and Booted | 38.00% | ~674 |
 | HEADSHOT! | 37.00% | ~656 |
-| Sleeping With The Fishes | 35.00% | ~620 |
+| Sleeping With The Fishes | 35.00% | ~621 |
 | High Performance | 30.00% | ~532 |
 | Overheated | 29.00% | ~514 |
 | Powered Up | 28.00% | ~496 |
-| Studied The Blade | 24.00% | ~425 |
+| Studied The Blade | 24.00% | ~426 |
 | Home Invasion | 22.00% | ~390 |
 | Luminary | 22.00% | ~390 |
 | It's a Trap | 22.00% | ~390 |
@@ -36,11 +36,11 @@ Rating: 4.25 (Ranked 794)
 | Sorry, Didn't See You There | 12.00% | ~213 |
 | Corrupted Beauty | 11.00% | ~195 |
 | Triplets | 10.00% | ~177 |
-| Stimulating The Local Economy | 9.00% | ~159 |
+| Defense in Depth | 9.00% | ~160 |
+| Stimulating The Local Economy | 9.00% | ~160 |
 | A Little Banged Up | 8.00% | ~142 |
 | Denying Prophecy | 8.00% | ~142 |
 | Following In Their Footsteps | 8.00% | ~142 |
-| Defense in Depth | 8.00% | ~142 |
 | Reverse Engineering | 7.00% | ~124 |
 | Turbo Booster | 6.00% | ~106 |
 | Squid Pro Quo | 6.00% | ~106 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 794)
 | Three Birds With One Stone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,772 (Ranked 155)  
+Progressed: 1,773 (Ranked 155)  
 Completed: 10 (0.56%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 10 (0.56%) (Ranked 113)
 | 2023-06-10 | 1,748 | 10 |
 | 2023-06-11 | 1,756 | 10 |
 | 2023-06-12 | 1,764 | 10 |
-| 2023-06-13 | 1,772 | 10 |
+| 2023-06-13 | 1,773 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~126 |
+| In the Black | 58.00% | ~124 |
 | Starting Skyward | 52.00% | ~111 |
 | Grime is Not Good | 46.00% | ~98 |
-| Campaign Launch | 40.00% | ~85 |
+| Campaign Launch | 40.00% | ~86 |
 | Floor Galore | 38.00% | ~81 |
 | Dinner Dash | 38.00% | ~81 |
 | Need a Consult | 35.00% | ~75 |
 | It's Technical | 35.00% | ~75 |
-| Upgrade Unlock | 34.00% | ~72 |
-| Delegate Maintenance | 34.00% | ~72 |
+| Upgrade Unlock | 34.00% | ~73 |
+| Delegate Maintenance | 34.00% | ~73 |
 | Proper Walls | 32.00% | ~68 |
 | Destination Destiny | 28.00% | ~60 |
-| Happy Tenants | 25.00% | ~53 |
+| Happy Tenants | 25.00% | ~54 |
 | Your Prestige is Rising | 23.00% | ~49 |
 | Potent Potables | 23.00% | ~49 |
 | Retail Revenue | 23.00% | ~49 |
 | Smooth Service | 23.00% | ~49 |
 | Lux Living | 22.00% | ~47 |
-| Leveled Up Shops | 22.00% | ~47 |
 | People Mover | 21.00% | ~45 |
+| Leveled Up Shops | 21.00% | ~45 |
 | Don't Feel a Loan | 20.00% | ~43 |
 | Emporium Empire | 20.00% | ~43 |
 | Get Electrified | 20.00% | ~43 |
-| Artfully Done | 19.00% | ~40 |
-| Rehab Expert | 19.00% | ~40 |
-| Tasty Profits | 19.00% | ~40 |
-| We Don't Need No Education | 19.00% | ~40 |
+| Artfully Done | 19.00% | ~41 |
+| Rehab Expert | 19.00% | ~41 |
+| Tasty Profits | 19.00% | ~41 |
+| We Don't Need No Education | 19.00% | ~41 |
 | Under One Roof | 16.00% | ~34 |
 | Established Fame | 16.00% | ~34 |
 | Cashflow Chief | 16.00% | ~34 |
-| Boutique Benefits | 15.00% | ~32 |
 | Terrifically Trashed | 15.00% | ~32 |
-| Thrilled Tenants | 15.00% | ~32 |
 | Starred Dining | 14.00% | ~30 |
+| Boutique Benefits | 14.00% | ~30 |
+| Thrilled Tenants | 14.00% | ~30 |
 | Smooth Operator | 13.00% | ~28 |
 | Swimming in Surplus | 13.00% | ~28 |
 | 28 Days Later | 12.00% | ~26 |
@@ -47,12 +47,12 @@
 | Revenue Royalty | 9.00% | ~19 |
 | First 100 Days | 8.00% | ~17 |
 | Aestheticly Pleased | 8.00% | ~17 |
-| Meet Me at HQ | 8.00% | ~17 |
-| Profound Proceeds | 8.00% | ~17 |
 | Maximum Reuse | 8.00% | ~17 |
 | Phoning It In | 8.00% | ~17 |
 | Pipe Up | 8.00% | ~17 |
 | Careful Constructor | 7.00% | ~15 |
+| Meet Me at HQ | 7.00% | ~15 |
+| Profound Proceeds | 7.00% | ~15 |
 | Tuned In | 7.00% | ~15 |
 | It's a Gas | 7.00% | ~15 |
 | Meet ADA/360 | 6.00% | ~13 |
@@ -93,8 +93,8 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213 (Ranked 247)  
-Completed: 0 (0.00%) (Ranked 219)  
+Progressed: 214 (Ranked 247)  
+Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 219)
 | 2023-06-10 | 209 | 0 |
 | 2023-06-11 | 211 | 0 |
 | 2023-06-12 | 212 | 0 |
-| 2023-06-13 | 213 | 0 |
+| 2023-06-13 | 214 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

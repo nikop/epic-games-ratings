@@ -62,7 +62,7 @@ Number of Ratings: 401  (23.09.2022)
 | Ten Years at Zee | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31,311 (Ranked 89)  
-Completed: 3 (0.01%) (Ranked 208)  
+Completed: 3 (0.01%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

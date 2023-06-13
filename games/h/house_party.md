@@ -30,6 +30,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Crush | 0.30% | ~17 |
 | The Magic Number | 0.30% | ~17 |
 | Vickie | 0.30% | ~17 |
+| Te Amo Lety | 0.30% | ~17 |
 | Amy: Scavenger Hunt | 0.20% | ~11 |
 | Ashley | 0.20% | ~11 |
 | Benedict Brahrnold | 0.20% | ~11 |
@@ -39,7 +40,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Derek | 0.20% | ~11 |
 | The Elder Brahs | 0.20% | ~11 |
 | Good Ol' Days | 0.20% | ~11 |
-| Te Amo Lety | 0.20% | ~11 |
 | Against All Odds | 0.10% | ~6 |
 | Beyond the Call of Dude-y | 0.10% | ~6 |
 | The Bride | 0.10% | ~6 |
@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,564 (Ranked 126)  
-Completed: 3 (0.05%) (Ranked 187)  
+Progressed: 5,565 (Ranked 126)  
+Completed: 3 (0.05%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,7 +129,7 @@ Completed: 3 (0.05%) (Ranked 187)
 | 2023-06-10 | 5,515 | 3 |
 | 2023-06-11 | 5,535 | 3 |
 | 2023-06-12 | 5,553 | 3 |
-| 2023-06-13 | 5,564 | 3 |
+| 2023-06-13 | 5,565 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,48 +6,48 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~58,221 |
-| The Pyromancer | 86.00% | ~55,633 |
-| The Wastes | 83.00% | ~53,693 |
-| Waste Not | 80.00% | ~51,752 |
-| The Cryomancer | 76.00% | ~49,164 |
-| Stock Up | 75.00% | ~48,518 |
-| The Hydromancer | 73.00% | ~47,224 |
-| The Matriarch | 70.00% | ~45,283 |
-| The Aeromancer | 66.00% | ~42,695 |
-| The Venomancer | 66.00% | ~42,695 |
-| The Huntsman | 65.00% | ~42,048 |
-| Dawnlight Order | 64.00% | ~41,402 |
-| The Electromancer | 61.00% | ~39,461 |
-| The Terramancer | 59.00% | ~38,167 |
-| The Exalted | 57.00% | ~36,873 |
-| Blueheart Runners | 55.00% | ~35,580 |
-| Sheriff Inquisitors | 55.00% | ~35,580 |
-| The Necromancer | 52.00% | ~33,639 |
-| The Swamp | 50.00% | ~32,345 |
-| The Fungalmancer | 47.00% | ~30,404 |
-| The Thaumamancer | 47.00% | ~30,404 |
-| The Hag | 45.00% | ~29,110 |
-| The Corpumancer | 42.00% | ~27,170 |
-| The Mountain | 40.00% | ~25,876 |
-| The Treeheart | 40.00% | ~25,876 |
-| Shroud Alliance | 39.00% | ~25,229 |
-| The Two Monks | 37.00% | ~23,935 |
+| The Champion | 90.00% | ~58,223 |
+| The Pyromancer | 86.00% | ~55,635 |
+| The Wastes | 83.00% | ~53,694 |
+| Waste Not | 80.00% | ~51,754 |
+| The Cryomancer | 76.00% | ~49,166 |
+| Stock Up | 75.00% | ~48,519 |
+| The Hydromancer | 73.00% | ~47,225 |
+| The Matriarch | 70.00% | ~45,284 |
+| The Aeromancer | 66.00% | ~42,697 |
+| The Venomancer | 66.00% | ~42,697 |
+| The Huntsman | 65.00% | ~42,050 |
+| Dawnlight Order | 64.00% | ~41,403 |
+| The Electromancer | 61.00% | ~39,462 |
+| The Terramancer | 59.00% | ~38,168 |
+| The Exalted | 57.00% | ~36,874 |
+| Blueheart Runners | 55.00% | ~35,581 |
+| Sheriff Inquisitors | 55.00% | ~35,581 |
+| The Necromancer | 52.00% | ~33,640 |
+| The Swamp | 50.00% | ~32,346 |
+| The Fungalmancer | 47.00% | ~30,405 |
+| The Thaumamancer | 47.00% | ~30,405 |
+| The Hag | 45.00% | ~29,111 |
+| The Corpumancer | 42.00% | ~27,171 |
+| The Mountain | 40.00% | ~25,877 |
+| The Treeheart | 40.00% | ~25,877 |
+| Shroud Alliance | 39.00% | ~25,230 |
+| The Two Monks | 37.00% | ~23,936 |
 | The Neuromancer | 35.00% | ~22,642 |
 | Oathbound Watchers | 33.00% | ~21,348 |
 | The Chronomancer | 32.00% | ~20,701 |
 | The Mechanomancer | 32.00% | ~20,701 |
-| The Copse | 30.00% | ~19,407 |
-| The Dragon | 30.00% | ~19,407 |
-| The Dracomancer | 29.00% | ~18,760 |
-| Well Stocked | 28.00% | ~18,113 |
-| The Umbramancer | 28.00% | ~18,113 |
-| Chaos Hunger | 27.00% | ~17,466 |
-| The Kinetomancer | 27.00% | ~17,466 |
-| The Sanguimancer | 27.00% | ~17,466 |
-| The Luminimancer | 26.00% | ~16,819 |
-| The Bibliomancer | 25.00% | ~16,172 |
-| The Skylord | 25.00% | ~16,172 |
+| The Copse | 30.00% | ~19,408 |
+| The Dragon | 30.00% | ~19,408 |
+| The Dracomancer | 29.00% | ~18,761 |
+| Well Stocked | 28.00% | ~18,114 |
+| The Umbramancer | 28.00% | ~18,114 |
+| Chaos Hunger | 27.00% | ~17,467 |
+| The Kinetomancer | 27.00% | ~17,467 |
+| The Sanguimancer | 27.00% | ~17,467 |
+| The Luminimancer | 26.00% | ~16,820 |
+| The Bibliomancer | 25.00% | ~16,173 |
+| The Skylord | 25.00% | ~16,173 |
 | The Firelord | 24.00% | ~15,526 |
 | Want Not | 21.00% | ~13,585 |
 | The Diablomancer | 21.00% | ~13,585 |
@@ -58,10 +58,10 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Soldier | 11.00% | ~7,116 |
 | Make The Climb | 10.00% | ~6,469 |
 | The Scholar | 10.00% | ~6,469 |
-| Top Shelf | 5.00% | ~3,234 |
+| Top Shelf | 5.00% | ~3,235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,690 (Ranked 71)  
-Completed: 1,174 (1.81%) (Ranked 72)  
+Progressed: 64,692 (Ranked 71)  
+Completed: 1,175 (1.82%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,7 +114,7 @@ Completed: 1,174 (1.81%) (Ranked 72)
 | 2023-06-10 | 64,621 | 1,172 |
 | 2023-06-11 | 64,648 | 1,173 |
 | 2023-06-12 | 64,671 | 1,174 |
-| 2023-06-13 | 64,690 | 1,174 |
+| 2023-06-13 | 64,692 | 1,175 |
 ## Awards
 Max (Character Customization): 947  (Ranked 142)  
 Sum: 1,891 (Ranked 195)  

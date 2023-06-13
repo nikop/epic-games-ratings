@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -780,9 +780,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ETUA_StayDead",
@@ -901,8 +901,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:03:53.5130913+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:04:05.6260871+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:13.6620801+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:57:27.6822575+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:03:53.5131293+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:57:29.5977065+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:04:05.6261462+00:00"
 }

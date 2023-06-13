@@ -35,7 +35,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | The Lonely Path | 25.00% | ~106,494 |
 | Say Cheese | 16.00% | ~68,156 |
 | Skillful Spirit Guide | 15.00% | ~63,896 |
-| Piercing Blow | 13.00% | ~55,377 |
+| Piercing Blow | 14.00% | ~59,637 |
 | Zen Master | 8.00% | ~34,078 |
 | Curse Collector | 7.00% | ~29,818 |
 | The Last Stop | 7.00% | ~29,818 |
@@ -49,7 +49,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Master Spirit Guide | 0.30% | ~1,278 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 425,976 (Ranked 36)  
-Completed: 506 (0.12%) (Ranked 165)  
+Completed: 506 (0.12%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

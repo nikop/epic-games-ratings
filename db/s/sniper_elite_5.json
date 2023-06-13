@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2795,
+  "EOS_Progressed": 2799,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3463,6 +3463,11 @@
       "Time": "2023-06-13T21:06:31.0195269+00:00",
       "NumProgressed": 2795,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T22:06:45.8587107+00:00",
+      "NumProgressed": 2799,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3538,7 +3543,7 @@
       "Name": "Organ Grinder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -3554,7 +3559,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 838
+      "UsersEstimate": 840
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3642,7 +3647,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -3682,7 +3687,7 @@
       "Name": "Lord of War",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3698,7 +3703,7 @@
       "Name": "Resourceful",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -3722,7 +3727,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -3760,9 +3765,9 @@
       "ID": "REWARD_44_FRIEND_OR_FOE",
       "SetID": "bm6el81",
       "Name": "Souvenir hunter",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -3786,7 +3791,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3800,9 +3805,9 @@
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 56
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -3810,7 +3815,7 @@
       "Name": "Change the Channel",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -3842,7 +3847,7 @@
       "Name": "Taking it back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -3866,7 +3871,7 @@
       "Name": "Target America",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -3898,7 +3903,7 @@
       "Name": "F\u00FChrerious Repetition",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
@@ -3938,7 +3943,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -3946,7 +3951,7 @@
       "Name": "Operation Foxley",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -3954,7 +3959,7 @@
       "Name": "Das Familienjuwel",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC01_09_LAST_RESORT",
@@ -4041,13 +4046,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2746,
+      "Progressed": 2750,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2795,
+      "Progressed": 2799,
       "Completed": 2
     }
   ],
@@ -4055,8 +4060,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:06:31.0195263+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:06:45.85871+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-13T21:00:49.8298668+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:06:31.0196146+00:00"
+  "LastUpdate_Ratings": "2023-06-13T22:00:53.259638+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:06:45.858863+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 266  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 75.00% | ~2,176 |
-| Ready for Winter | 63.00% | ~1,828 |
+| Ready for Winter | 64.00% | ~1,857 |
 | Ready for Summer | 51.00% | ~1,480 |
 | Cordon Bleu | 43.00% | ~1,248 |
 | Tapped! | 36.00% | ~1,045 |
@@ -50,7 +50,7 @@ Number of Ratings: 266  (23.09.2022)
 | The Absolute Pinnacle. | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,902 (Ranked 142)  
-Completed: 1 (0.03%) (Ranked 195)  
+Completed: 1 (0.03%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

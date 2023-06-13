@@ -3,9 +3,9 @@
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 303,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -594,8 +594,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:06:14.8823645+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:06:29.3977908+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:10.4309817+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:58:14.3875104+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:06:14.8824106+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:58:16.650355+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:06:29.3978353+00:00"
 }

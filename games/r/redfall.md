@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.44 (Ranked 939)  
+Rating: 3.46 (Ranked 939)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -73,7 +73,7 @@ Rating: 3.44 (Ranked 939)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,681 (Ranked 156)  
-Completed: 0 (0.00%) (Ranked 219)  
+Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -141,3 +141,4 @@ Completed: 0 (0.00%) (Ranked 219)
 | 2023-05-30 | 3.43 | 0 | 0 |
 | 2023-05-31 | 3.46 | 0 | 0 |
 | 2023-06-05 | 3.44 | 0 | 0 |
+| 2023-06-13 | 3.46 | 0 | 0 |

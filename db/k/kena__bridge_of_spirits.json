@@ -6,9 +6,9 @@
   "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 36,
-  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -5119,9 +5119,9 @@
       "ID": "ACH_CHALLENGE_ARROW",
       "SetID": "231ghgk",
       "Name": "Piercing Blow",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 55377
+      "UsersEstimate": 59637
     },
     {
       "ID": "ACH_CHALLENGE_BOMB",
@@ -5391,8 +5391,8 @@
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-06-13T16:58:47.1145545+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:03:40.7109781+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:03:52.8630574+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:32.5917744+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:58:34.3672175+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:03:40.7110378+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:58:36.7051036+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:03:52.8631544+00:00"
 }

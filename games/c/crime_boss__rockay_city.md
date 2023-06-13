@@ -5,24 +5,24 @@ Rating: 3.93 (Ranked 915)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,220 |
-| First One’s Free | 65.00% | ~43,234 |
-| Neophyte Ninja | 50.00% | ~33,257 |
-| Too Old for This | 47.00% | ~31,262 |
-| Fancy Pants | 35.00% | ~23,280 |
-| Case Closed | 34.00% | ~22,615 |
-| King of the Hill | 34.00% | ~22,615 |
-| Underworld Initiate | 29.00% | ~19,289 |
-| Roid Ranger | 21.00% | ~13,968 |
+| Downed but Not Outed | 74.00% | ~49,223 |
+| First One’s Free | 65.00% | ~43,237 |
+| Neophyte Ninja | 50.00% | ~33,259 |
+| Too Old for This | 47.00% | ~31,263 |
+| Fancy Pants | 35.00% | ~23,281 |
+| Case Closed | 34.00% | ~22,616 |
+| King of the Hill | 34.00% | ~22,616 |
+| Underworld Initiate | 29.00% | ~19,290 |
+| Roid Ranger | 21.00% | ~13,969 |
 | True Player | 19.00% | ~12,638 |
 | Off the Rocks | 19.00% | ~12,638 |
-| Raider’s Ruin | 16.00% | ~10,642 |
-| Dragonslayer | 16.00% | ~10,642 |
+| Raider’s Ruin | 16.00% | ~10,643 |
+| Dragonslayer | 16.00% | ~10,643 |
 | Hidden Sonata | 13.00% | ~8,647 |
 | Rockay Rex | 11.00% | ~7,317 |
-| Freebooter | 10.00% | ~6,651 |
-| Track Star | 9.00% | ~5,986 |
-| Classy Joint | 9.00% | ~5,986 |
+| Freebooter | 10.00% | ~6,652 |
+| Track Star | 9.00% | ~5,987 |
+| Classy Joint | 9.00% | ~5,987 |
 | I Like Trains | 8.00% | ~5,321 |
 | Headhunter | 8.00% | ~5,321 |
 | Ding Dong | 8.00% | ~5,321 |
@@ -33,8 +33,8 @@ Rating: 3.93 (Ranked 915)
 | Olympus Ascended | 4.00% | ~2,661 |
 | Cracked the Jack | 4.00% | ~2,661 |
 | Red Star | 4.00% | ~2,661 |
-| Privateer | 3.00% | ~1,995 |
-| Groundhog Days | 3.00% | ~1,995 |
+| Privateer | 3.00% | ~1,996 |
+| Groundhog Days | 3.00% | ~1,996 |
 | Rockay Raider | 2.00% | ~1,330 |
 | Moneybags | 2.00% | ~1,330 |
 | Impossible Dreamer | 2.00% | ~1,330 |
@@ -43,8 +43,8 @@ Rating: 3.93 (Ranked 915)
 | Geek Out | 0.50% | ~333 |
 | Full House | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,514 (Ranked 69)  
-Completed: 33 (0.05%) (Ranked 187)  
+Progressed: 66,518 (Ranked 69)  
+Completed: 33 (0.05%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,7 +97,7 @@ Completed: 33 (0.05%) (Ranked 187)
 | 2023-06-10 | 65,981 | 32 |
 | 2023-06-11 | 66,215 | 32 |
 | 2023-06-12 | 66,353 | 32 |
-| 2023-06-13 | 66,514 | 33 |
+| 2023-06-13 | 66,518 | 33 |
 ## Awards
 Max (Diverse Characters): 326  (Ranked 221)  
 Sum: 1,554 (Ranked 208)  

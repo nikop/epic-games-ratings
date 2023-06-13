@@ -3,9 +3,9 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2769,
+  "EOS_Progressed": 2770,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2595,6 +2595,11 @@
       "Time": "2023-06-13T21:04:18.3534338+00:00",
       "NumProgressed": 2769,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-13T22:04:30.8595763+00:00",
+      "NumProgressed": 2770,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -2606,7 +2611,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "10",
@@ -2614,7 +2619,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "11",
@@ -2646,7 +2651,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "15",
@@ -2700,9 +2705,9 @@
       "ID": "20",
       "SetID": "9p3jgda",
       "Name": "PROTECTED",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 831
+      "UsersEstimate": 803
     },
     {
       "ID": "21",
@@ -2797,13 +2802,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2769,
+      "Progressed": 2770,
       "Completed": 11
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:04:18.3534331+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:04:30.8595757+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:19.7676902+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:59:15.5735857+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:04:18.3534852+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:59:18.4721451+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:04:30.859633+00:00"
 }

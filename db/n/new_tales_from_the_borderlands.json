@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 137,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3425,
+  "EOS_Progressed": 3426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -503,6 +503,11 @@
       "Time": "2023-06-13T16:07:24.1188985+00:00",
       "NumProgressed": 3425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T22:06:39.8962685+00:00",
+      "NumProgressed": 3426,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -594,7 +599,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -698,7 +703,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -721,7 +726,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3425,
+      "Progressed": 3426,
       "Completed": 0
     }
   ],
@@ -729,8 +734,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:06:25.3791883+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:06:39.8962678+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:53.8421349+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:59:45.920934+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:06:25.3792105+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:59:49.4897123+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:06:39.8963026+00:00"
 }

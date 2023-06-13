@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 891)  
+Rating: 4.05 (Ranked 892)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,12 +39,12 @@ Rating: 4.05 (Ranked 891)
 | Mastery | 7.00% | ~97 |
 | Moving Up The Ladder | 7.00% | ~97 |
 | Four Leaf Clover | 6.00% | ~83 |
+| Trader | 6.00% | ~83 |
 | Here We Go Again | 5.00% | ~70 |
 | How Do You Turn This On? | 5.00% | ~70 |
 | Master Enchanter | 5.00% | ~70 |
 | The Expeditioner | 5.00% | ~70 |
 | The father of Dragons | 5.00% | ~70 |
-| Trader | 5.00% | ~70 |
 | Weekly Quest Completionist | 5.00% | ~70 |
 | Ancient Knowledge | 4.00% | ~56 |
 | Background Story | 4.00% | ~56 |
@@ -81,8 +81,8 @@ Rating: 4.05 (Ranked 891)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,390 (Ranked 163)  
-Completed: 1 (0.07%) (Ranked 178)  
+Progressed: 1,390 (Ranked 164)  
+Completed: 1 (0.07%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

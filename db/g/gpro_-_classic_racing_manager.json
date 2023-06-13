@@ -3,9 +3,9 @@
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -341,6 +341,11 @@
       "Time": "2023-06-13T21:05:36.5489572+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T22:05:51.1652216+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -352,7 +357,7 @@
       "Name": "First taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -416,7 +421,7 @@
       "Name": "Newbie",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -488,7 +493,7 @@
       "Name": "Amateur hitchhiker",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_189",
@@ -1647,14 +1652,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:05:36.5489566+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:05:51.1652209+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:10.5331894+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:57:24.0298496+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:05:36.5493203+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:57:25.8318857+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:05:51.1658319+00:00"
 }

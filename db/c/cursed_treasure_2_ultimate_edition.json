@@ -3,9 +3,9 @@
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 264,
-  "Ranking_EOS_Completed": 11,
+  "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -566,6 +566,6 @@
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
   "LastChanged_Achievements": "2023-06-13T21:03:59.2896472+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:53.8163071+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:58:51.5846986+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:03:59.2897108+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:58:54.4716419+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:04:11.5159203+00:00"
 }

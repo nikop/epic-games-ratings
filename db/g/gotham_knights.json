@@ -6,9 +6,9 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1532,7 +1532,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 64884,
+  "EOS_Progressed": 64891,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 1027,
   "EOS_NewCompleters": 1,
@@ -6217,6 +6217,11 @@
       "Time": "2023-06-13T21:06:40.0909434+00:00",
       "NumProgressed": 64884,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-06-13T22:06:55.4075091+00:00",
+      "NumProgressed": 64891,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 61,
@@ -6572,7 +6577,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3244
+      "UsersEstimate": 3245
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -6715,13 +6720,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 64884,
+      "Progressed": 64891,
       "Completed": 95
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 35164,
+      "Progressed": 35171,
       "Completed": 2646
     }
   ],
@@ -6729,8 +6734,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-13T19:00:41.4326976+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:06:40.0909428+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:06:55.4075085+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:11.4248132+00:00",
-  "LastUpdate_Ratings": "2023-06-13T21:00:02.838086+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:06:40.091036+00:00"
+  "LastUpdate_Ratings": "2023-06-13T22:00:06.4773088+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:06:55.4075953+00:00"
 }

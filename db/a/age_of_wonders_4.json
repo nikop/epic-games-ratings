@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 129,
-  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4614,
+  "EOS_Progressed": 4615,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3800,6 +3800,11 @@
       "Time": "2023-06-13T21:04:59.0704747+00:00",
       "NumProgressed": 4614,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-13T22:05:12.3304618+00:00",
+      "NumProgressed": 4615,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 44,
@@ -3859,7 +3864,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "16",
@@ -3915,7 +3920,7 @@
       "Name": "Eternal Lord",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "22",
@@ -3931,7 +3936,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "24",
@@ -3939,7 +3944,7 @@
       "Name": "Secret Technique",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "25",
@@ -3947,7 +3952,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 3368
+      "UsersEstimate": 3369
     },
     {
       "ID": "26",
@@ -3963,7 +3968,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "28",
@@ -4003,7 +4008,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "32",
@@ -4011,7 +4016,7 @@
       "Name": "My Final Form",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "33",
@@ -4027,7 +4032,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "35",
@@ -4051,7 +4056,7 @@
       "Name": "Against the Odds",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "38",
@@ -4075,7 +4080,7 @@
       "Name": "The Eternal Court",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "40",
@@ -4083,7 +4088,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "41",
@@ -4115,7 +4120,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "5",
@@ -4162,13 +4167,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4614,
-      "Completed": 4614
+      "Progressed": 4615,
+      "Completed": 4615
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4614,
+      "Progressed": 4615,
       "Completed": 3
     }
   ],
@@ -4176,8 +4181,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-10T19:59:37.6294765+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:04:59.070474+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:05:12.3304611+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:51.888268+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:59:44.3936088+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:04:59.0705353+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:59:47.9950271+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:05:12.3305696+00:00"
 }

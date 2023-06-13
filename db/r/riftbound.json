@@ -2,10 +2,10 @@
   "ID": "62c5dc16e57d4850916f5de42635625d",
   "Name": "Riftbound",
   "ProductSlug": "riftbound-db891d",
-  "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Progress": 327,
+  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-18T23:00:00+00:00",
     "PcReleaseDate": "2022-05-12T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -181,6 +181,11 @@
       "Time": "2023-06-12T23:04:16.9830685+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T22:05:18.4251979+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -198,9 +203,9 @@
       "ID": "ACH_AdventureTime",
       "SetID": "1od64h3",
       "Name": "Adventure Time",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_ApprenticeSummoner",
@@ -310,7 +315,7 @@
       "ID": "ACH_HoldTheLine",
       "SetID": "1od64h3",
       "Name": "Hold The Line",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -318,7 +323,7 @@
       "ID": "ACH_ImAWizard",
       "SetID": "1od64h3",
       "Name": "I\u0027m A Wizard",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -326,9 +331,9 @@
       "ID": "ACH_MasterOfTheArts",
       "SetID": "1od64h3",
       "Name": "Master Of The Arts",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_OneHandTied",
@@ -407,14 +412,14 @@
     {
       "ID": "1od64h3",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-24T05:57:01.1343555+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2023-06-13T21:05:05.2718964+00:00",
+  "LastChanged_Achievements": "2023-06-13T22:05:18.4251974+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:15.0713756+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:57:28.3378905+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:05:05.2719304+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:57:30.0764265+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:05:18.4252252+00:00"
 }

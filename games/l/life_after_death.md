@@ -66,7 +66,7 @@
 | Break the rules!!! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 406)  
-Completed: 0 (0.00%) (Ranked 219)  
+Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

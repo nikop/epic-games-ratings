@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.64 (Ranked 314)  
+Rating: 4.64 (Ranked 313)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -67,7 +67,7 @@ Rating: 4.64 (Ranked 314)
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,278 (Ranked 132)  
-Completed: 0 (0.00%) (Ranked 219)  
+Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

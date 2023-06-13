@@ -26,28 +26,28 @@ Rating: 4.18 (Ranked 843)
 | What Lies Beneath | 4.00% | ~608 |
 | Full Circle | 4.00% | ~608 |
 | Instigator | 4.00% | ~125 |
-| Big Game Hunter | 4.00% | ~125 |
 | The Commonality | 3.00% | ~456 |
+| Big Game Hunter | 3.00% | ~94 |
 | Bear Trap | 3.00% | ~94 |
 | I Do Belong Here | 2.00% | ~304 |
 | In Striking Distance | 2.00% | ~304 |
 | Mugshot | 2.00% | ~304 |
-| Big Spender | 2.00% | ~62 |
+| Big Spender | 2.00% | ~63 |
 | Parole Denied | 1.00% | ~31 |
 | Hoard Mode | 1.00% | ~31 |
 | Grim Reaper | 0.90% | ~137 |
 | Recidivist | 0.70% | ~22 |
 | Lifer | 0.70% | ~22 |
 | Armed to the Teeth | 0.30% | ~9 |
-| The Protocol is About Life | 0.30% | ~46 |
+| The Protocol is About Life | 0.20% | ~30 |
 | It's over, Jacob! | 0.10% | ~15 |
 | Glutton for Punishment | 0.10% | ~3 |
 | You Belong Here | 0.10% | ~3 |
 | Subject Alpha | 0.10% | ~3 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,198 (Ranked 104)  
-Completed: 55 (0.36%) (Ranked 126)  
+Progressed: 15,202 (Ranked 104)  
+Completed: 55 (0.36%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,7 +99,7 @@ Completed: 55 (0.36%) (Ranked 126)
 | 2023-06-10 | 14,984 | 54 |
 | 2023-06-11 | 15,076 | 54 |
 | 2023-06-12 | 15,140 | 54 |
-| 2023-06-13 | 15,198 | 55 |
+| 2023-06-13 | 15,202 | 55 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 386)  
 Sum: 307 (Ranked 328)  

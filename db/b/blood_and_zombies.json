@@ -3,9 +3,9 @@
   "Name": "Blood and Zombies",
   "ProductSlug": "blood-and-zombies-4273b6",
   "Ranking_EOS_Progress": 450,
-  "Ranking_EOS_Completed": 219,
+  "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-01-27T08:00:00+00:00",
     "PcReleaseDate": "2022-01-27T08:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:35.8315657+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315658+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:58.5774381+00:00",
-  "LastUpdate_Ratings": "2023-06-13T20:58:57.1416122+00:00",
-  "LastUpdate_Achievements": "2023-06-13T21:01:14.572819+00:00"
+  "LastUpdate_Ratings": "2023-06-13T21:58:59.842622+00:00",
+  "LastUpdate_Achievements": "2023-06-13T22:01:18.9206029+00:00"
 }

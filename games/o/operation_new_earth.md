@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Facility Online | 63.00% | ~25 |
-| Corporal | 63.00% | ~25 |
-| It's Good to have Allies | 57.00% | ~23 |
-| Defenses Online | 55.00% | ~22 |
-| Covert Operative | 48.00% | ~19 |
-| Sergeant | 40.00% | ~16 |
-| Stocking Up | 38.00% | ~15 |
-| On Target | 35.00% | ~14 |
-| Lieutenant | 30.00% | ~12 |
-| Getting Deployment | 28.00% | ~11 |
-| Brothers in Arms | 20.00% | ~8 |
-| Infantry Reporting | 20.00% | ~8 |
-| Fighting for Survival | 18.00% | ~7 |
-| Silver Competitor | 18.00% | ~7 |
-| Keeping Busy | 15.00% | ~6 |
-| Exterminator | 10.00% | ~4 |
-| Moving On Up | 8.00% | ~3 |
-| Captain | 8.00% | ~3 |
+| Facility Online | 66.00% | ~29 |
+| It's Good to have Allies | 61.00% | ~27 |
+| Corporal | 59.00% | ~26 |
+| Defenses Online | 50.00% | ~22 |
+| Covert Operative | 43.00% | ~19 |
+| Sergeant | 39.00% | ~17 |
+| Stocking Up | 36.00% | ~16 |
+| On Target | 34.00% | ~15 |
+| Lieutenant | 30.00% | ~13 |
+| Getting Deployment | 27.00% | ~12 |
+| Infantry Reporting | 23.00% | ~10 |
+| Fighting for Survival | 18.00% | ~8 |
+| Brothers in Arms | 18.00% | ~8 |
+| Silver Competitor | 16.00% | ~7 |
+| Keeping Busy | 16.00% | ~7 |
+| Exterminator | 9.00% | ~4 |
+| Moving On Up | 7.00% | ~3 |
+| Captain | 7.00% | ~3 |
 | Player Betrayer | 5.00% | ~2 |
 | Advanced Warfare | 5.00% | ~2 |
 | Battle Ready | 5.00% | ~2 |
 | Factory Expansion | 5.00% | ~2 |
-| Know The Enemy | 3.00% | ~1 |
-| Gold Achiever | 3.00% | ~1 |
-| Silver Achiever | 3.00% | ~1 |
-| Major | 3.00% | ~1 |
-| General | 3.00% | ~1 |
-| Seek & Destroy | 3.00% | ~1 |
-| Advanced Interceptors | 3.00% | ~1 |
-| Titan Tanks | 3.00% | ~1 |
-| Jet Troops | 3.00% | ~1 |
-| Control the Skies | 3.00% | ~1 |
+| Know The Enemy | 2.00% | ~1 |
+| Gold Achiever | 2.00% | ~1 |
+| Silver Achiever | 2.00% | ~1 |
+| Major | 2.00% | ~1 |
+| General | 2.00% | ~1 |
+| Seek & Destroy | 2.00% | ~1 |
+| Advanced Interceptors | 2.00% | ~1 |
+| Titan Tanks | 2.00% | ~1 |
+| Jet Troops | 2.00% | ~1 |
+| Control the Skies | 2.00% | ~1 |
 | Gold Competitor | 0.00% | ~0 |
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
@@ -43,9 +43,9 @@
 | Resourceful | 0.00% | ~0 |
 | Shock Troops | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 320)  
-Completed: 0 (0.00%) (Ranked 219)  
+Progressed: 44 (Ranked 317)  
+Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-06-13 | 40 | 0 |
+| 2023-06-13 | 44 | 0 |

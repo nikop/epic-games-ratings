@@ -24,7 +24,7 @@ Number of Ratings: 34  (23.09.2022)
 | Opportunities | 26.00% | ~92 |
 | The Horror | 25.00% | ~88 |
 | Collectibles of Chapter II | 22.00% | ~78 |
-| The Difference | 21.00% | ~74 |
+| The Difference | 22.00% | ~78 |
 | It's Just an Accident | 21.00% | ~74 |
 | Vengeance | 20.00% | ~71 |
 | Broken Hopes | 18.00% | ~64 |
@@ -67,7 +67,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 354 (Ranked 223)  
-Completed: 0 (0.00%) (Ranked 219)  
+Completed: 0 (0.00%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
