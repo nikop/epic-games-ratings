@@ -13,6 +13,7 @@
 | The Mysterious Stranger | 7.00% | ~47 |
 | The Man Who Shattered Time | 7.00% | ~47 |
 | Make Up For Lost Time | 7.00% | ~47 |
+| The Harder They Fall | 7.00% | ~47 |
 | No, Thanks! | 7.00% | ~47 |
 | Breaking Down Barriers | 7.00% | ~47 |
 | The Prince in Heels | 7.00% | ~47 |
@@ -22,7 +23,6 @@
 | The Betrayer | 6.00% | ~40 |
 | The Loose Cannon | 6.00% | ~40 |
 | Time Flies | 6.00% | ~40 |
-| The Harder They Fall | 6.00% | ~40 |
 | The Wicked Twins | 6.00% | ~40 |
 | Honest Mistake | 6.00% | ~40 |
 | Golem Chaser | 6.00% | ~40 |
@@ -51,7 +51,7 @@
 | Hexlock for Protection | 1.00% | ~7 |
 | Fitting In | 0.70% | ~5 |
 | Thinking Two Steps Ahead | 0.60% | ~4 |
-| Wunderkind | 0.30% | ~2 |
+| Wunderkind | 0.40% | ~3 |
 | Wildlife Protection | 0.30% | ~2 |
 | A Lesson in Precision | 0.10% | ~1 |
 | Going to Live Forever | 0.00% | ~0 |

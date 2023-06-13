@@ -1578,7 +1578,7 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 19582,
+  "EOS_Progressed": 19584,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
@@ -4433,6 +4433,11 @@
       "Time": "2023-06-13T17:06:36.9752351+00:00",
       "NumProgressed": 19582,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-13T18:06:26.9830029+00:00",
+      "NumProgressed": 19584,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -4468,7 +4473,7 @@
       "Name": "Do it ASAP",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "DolanTrusk",
@@ -4476,7 +4481,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "EstateAgent",
@@ -4492,7 +4497,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18407
+      "UsersEstimate": 18409
     },
     {
       "ID": "GameOver",
@@ -4612,7 +4617,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "YouDoItWrong",
@@ -4627,15 +4632,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19582,
+      "Progressed": 19584,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-09T17:00:13.2044899+00:00",
-  "LastChanged_Achievements": "2023-06-13T17:06:36.9752346+00:00",
+  "LastChanged_Achievements": "2023-06-13T18:06:26.9830026+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:49.9952882+00:00",
-  "LastUpdate_Ratings": "2023-06-13T16:59:59.2037218+00:00",
-  "LastUpdate_Achievements": "2023-06-13T17:06:36.97529+00:00"
+  "LastUpdate_Ratings": "2023-06-13T17:59:43.9710401+00:00",
+  "LastUpdate_Achievements": "2023-06-13T18:06:26.983034+00:00"
 }

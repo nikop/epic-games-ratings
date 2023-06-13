@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ASAP | 95.00% | ~174 |
-| Medal of honor | 36.00% | ~66 |
+| Medal of honor | 37.00% | ~68 |
 | Life matters | 34.00% | ~62 |
 | Safety first | 32.00% | ~59 |
-| Professional team! | 22.00% | ~40 |
+| Professional team! | 23.00% | ~42 |
 | Dawn of Victory | 13.00% | ~24 |
 | Team assemble | 11.00% | ~20 |
 | Resource manager | 11.00% | ~20 |
@@ -23,7 +23,7 @@
 | The song of water and fire | 0.00% | ~0 |
 | Working carefully | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 255)  
+Progressed: 183 (Ranked 256)  
 Completed: 7 (3.83%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |

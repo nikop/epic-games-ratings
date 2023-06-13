@@ -2073,9 +2073,9 @@
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
       "SetID": "l546gc",
       "Name": "Bull\u2019s eye",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_CAVEMAN",
@@ -2338,8 +2338,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-13T13:03:50.7193106+00:00",
-  "LastChanged_Achievements": "2023-06-13T17:04:33.8357729+00:00",
+  "LastChanged_Achievements": "2023-06-13T18:04:29.4084703+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-13T16:57:50.4870869+00:00",
-  "LastUpdate_Achievements": "2023-06-13T17:04:33.835825+00:00"
+  "LastUpdate_Ratings": "2023-06-13T17:57:42.5846126+00:00",
+  "LastUpdate_Achievements": "2023-06-13T18:04:29.4085184+00:00"
 }

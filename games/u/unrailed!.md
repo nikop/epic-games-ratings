@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~84,623 |
-| Incurious | 14.00% | ~84,623 |
-| Climate Change | 13.00% | ~78,578 |
-| Stroller | 12.00% | ~72,534 |
-| Toy Train | 11.00% | ~66,489 |
-| Hiker | 10.00% | ~60,445 |
-| Advanced Hiker | 10.00% | ~60,445 |
-| Mojave Courier | 4.00% | ~24,178 |
-| Voyager | 3.00% | ~18,133 |
-| Advanced Voyager | 3.00% | ~18,133 |
-| Expert Stroller | 3.00% | ~18,133 |
-| Orient Express | 3.00% | ~18,133 |
-| Saved by Nausicaä | 3.00% | ~18,133 |
-| Expert Hiker | 2.00% | ~12,089 |
-| Marathon | 2.00% | ~12,089 |
-| Destructionist | 2.00% | ~12,089 |
-| Lost | 1.00% | ~6,044 |
+| Advanced Stroller | 14.00% | ~84,627 |
+| Incurious | 14.00% | ~84,627 |
+| Climate Change | 13.00% | ~78,582 |
+| Stroller | 12.00% | ~72,537 |
+| Toy Train | 11.00% | ~66,493 |
+| Hiker | 10.00% | ~60,448 |
+| Advanced Hiker | 10.00% | ~60,448 |
+| Mojave Courier | 4.00% | ~24,179 |
+| Voyager | 3.00% | ~18,134 |
+| Advanced Voyager | 3.00% | ~18,134 |
+| Expert Stroller | 3.00% | ~18,134 |
+| Orient Express | 3.00% | ~18,134 |
+| Saved by Nausicaä | 3.00% | ~18,134 |
+| Expert Hiker | 2.00% | ~12,090 |
+| Marathon | 2.00% | ~12,090 |
+| Destructionist | 2.00% | ~12,090 |
+| Lost | 1.00% | ~6,045 |
 | Rocketman | 0.60% | ~3,627 |
 | Expert Voyager | 0.50% | ~3,022 |
 | Nanuk | 0.50% | ~3,022 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~604 |
 | 20 Miles under the Sea | 0.10% | ~604 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 604,449 (Ranked 23)  
+Progressed: 604,478 (Ranked 23)  
 Completed: 7 (0.00%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 7 (0.00%) (Ranked 218)
 | 2023-06-10 | 602,946 | 7 |
 | 2023-06-11 | 603,631 | 7 |
 | 2023-06-12 | 604,131 | 7 |
-| 2023-06-13 | 604,449 | 7 |
+| 2023-06-13 | 604,478 | 7 |
 ## Awards
 Max (Diverse Characters): 188  (Ranked 268)  
 Sum: 1,519 (Ranked 211)  

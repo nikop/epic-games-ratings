@@ -28,8 +28,8 @@ Rating: 4.27 (Ranked 786)
 | The Council | 0.90% | ~8 |
 | The Mad | 0.70% | ~6 |
 | Charismatic Leader | 0.50% | ~4 |
+| Metropolis | 0.50% | ~4 |
 | Like the dream | 0.50% | ~4 |
-| Metropolis | 0.30% | ~3 |
 | Knowledge is Power | 0.30% | ~3 |
 | Six Faces | 0.20% | ~2 |
 | The Great Winter | 0.20% | ~2 |

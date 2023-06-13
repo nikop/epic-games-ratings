@@ -158,9 +158,9 @@
       "ID": "7_cleanup",
       "SetID": "459695l",
       "Name": "Cleanup Duty",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 114
+      "UsersEstimate": 120
     },
     {
       "ID": "8_else",
@@ -191,8 +191,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-06-13T17:06:23.9825034+00:00",
+  "LastChanged_Achievements": "2023-06-13T18:06:14.2205428+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.6376+00:00",
-  "LastUpdate_Ratings": "2023-06-13T16:57:50.1437832+00:00",
-  "LastUpdate_Achievements": "2023-06-13T17:06:23.9825158+00:00"
+  "LastUpdate_Ratings": "2023-06-13T17:57:42.242492+00:00",
+  "LastUpdate_Achievements": "2023-06-13T18:06:14.2205522+00:00"
 }

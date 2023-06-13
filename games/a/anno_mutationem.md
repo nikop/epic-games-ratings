@@ -20,7 +20,7 @@ Rating: 4.56 (Ranked 452)
 | The Warlord | 19.00% | ~120 |
 | You are the One | 19.00% | ~120 |
 | Deadly Kombationem | 18.00% | ~114 |
-| The truth is out there | 14.00% | ~88 |
+| The truth is out there | 15.00% | ~95 |
 | Annakin Skyscroller | 13.00% | ~82 |
 | In the smacker...I think | 10.00% | ~63 |
 | Arm Wrestlin' | 9.00% | ~57 |

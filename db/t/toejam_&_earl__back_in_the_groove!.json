@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55175,
+  "EOS_Progressed": 55178,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3667,6 +3667,11 @@
       "Time": "2023-06-13T17:03:15.2933121+00:00",
       "NumProgressed": 55175,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-13T18:03:23.6135002+00:00",
+      "NumProgressed": 55178,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -4014,7 +4019,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     },
     {
       "ID": "TimelySplash",
@@ -4069,7 +4074,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55175,
+      "Progressed": 55178,
       "Completed": 4
     }
   ],
@@ -4077,8 +4082,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-06-13T17:03:15.2933117+00:00",
+  "LastChanged_Achievements": "2023-06-13T18:03:23.6134997+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:08.1371786+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:01:10.1970205+00:00",
-  "LastUpdate_Achievements": "2023-06-13T17:03:15.293374+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:00:51.1702342+00:00",
+  "LastUpdate_Achievements": "2023-06-13T18:03:23.613646+00:00"
 }

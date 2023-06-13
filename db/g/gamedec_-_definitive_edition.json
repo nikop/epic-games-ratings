@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -348,9 +348,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 231719,
+  "EOS_Progressed": 231721,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1448,
+  "EOS_NewPlayers": 1441,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6018,6 +6018,11 @@
       "Time": "2023-06-13T17:06:45.9607026+00:00",
       "NumProgressed": 231719,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-13T18:06:35.9568664+00:00",
+      "NumProgressed": 231721,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 52,
@@ -6029,7 +6034,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 62564
+      "UsersEstimate": 62565
     },
     {
       "ID": "ACH_AON",
@@ -6093,7 +6098,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27806
+      "UsersEstimate": 27807
     },
     {
       "ID": "ACH_HATTRICK",
@@ -6173,7 +6178,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 64881
+      "UsersEstimate": 64882
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -6444,7 +6449,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 231719,
+      "Progressed": 231721,
       "Completed": 6
     }
   ],
@@ -6452,8 +6457,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-09T19:58:05.9453311+00:00",
-  "LastChanged_Achievements": "2023-06-13T17:06:45.960702+00:00",
+  "LastChanged_Achievements": "2023-06-13T18:06:35.9568661+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:10.0505523+00:00",
-  "LastUpdate_Ratings": "2023-06-13T16:58:26.5987519+00:00",
-  "LastUpdate_Achievements": "2023-06-13T17:06:45.9608084+00:00"
+  "LastUpdate_Ratings": "2023-06-13T17:58:16.7856159+00:00",
+  "LastUpdate_Achievements": "2023-06-13T18:06:35.956945+00:00"
 }

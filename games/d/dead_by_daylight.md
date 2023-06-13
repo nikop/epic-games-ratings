@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~550 |
 | Adept Gabriel | 0.10% | ~550 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 550,183 (Ranked 27)  
+Progressed: 550,420 (Ranked 27)  
 Completed: 42 (0.01%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,19 +281,19 @@ Completed: 42 (0.01%) (Ranked 208)
 | 2023-06-10 | 538,458 | 42 |
 | 2023-06-11 | 543,617 | 42 |
 | 2023-06-12 | 547,712 | 42 |
-| 2023-06-13 | 550,183 | 42 |
+| 2023-06-13 | 550,420 | 42 |
 ## Awards
 Max (Diverse Characters): 28,386  (Ranked 16)  
-Sum: 226,781 (Ranked 12)  
+Sum: 226,864 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 28,386 |
 | This game has Competitive Players | 26,121 |
-| This game is Highly Recommended | 25,757 |
+| This game is Highly Recommended | 25,796 |
 | This game has Amazing Characters | 25,655 |
 | This game is Extremely Fun | 25,635 |
-| This game has Quickly Understood Controls | 25,433 |
+| This game has Quickly Understood Controls | 25,477 |
 | This game has Challenging Combat | 24,800 |
 | This game has Amazing Storytelling | 23,347 |
 | This game has a Competitive Community | 21,647 |
@@ -442,4 +442,4 @@ Diff (max vs sum): 4
 | 2023-06-10 | 4.52 | - | 28,263 | 226,081 |
 | 2023-06-11 | 4.52 | - | 28,305 | 226,349 |
 | 2023-06-12 | 4.52 | - | 28,334 | 226,560 |
-| 2023-06-13 | 4.52 | - | 28,386 | 226,781 |
+| 2023-06-13 | 4.52 | - | 28,386 | 226,864 |

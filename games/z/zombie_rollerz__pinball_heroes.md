@@ -13,14 +13,14 @@
 | The Shaman | 51.00% | ~52 |
 | The Thrower | 49.00% | ~49 |
 | The Penguin | 48.00% | ~48 |
-| The Magician | 46.00% | ~46 |
+| The Magician | 47.00% | ~47 |
 | The Tunneler | 42.00% | ~42 |
 | Level Up!! | 40.00% | ~40 |
 | The Shield | 40.00% | ~40 |
 | Kill-streak | 36.00% | ~36 |
 | The Bird | 30.00% | ~30 |
 | The Idol | 28.00% | ~28 |
-| The Ninja | 27.00% | ~27 |
+| The Ninja | 28.00% | ~28 |
 | Inferno Ruins | 27.00% | ~27 |
 | Topped up | 26.00% | ~26 |
 | Untouchable | 25.00% | ~25 |

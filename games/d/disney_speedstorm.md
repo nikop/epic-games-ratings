@@ -27,10 +27,10 @@
 | ACE TRICKSTER | 7.00% | ~194 |
 | EXPERIENCED CREW | 4.00% | ~111 |
 | FRAMED! | 3.00% | ~83 |
-| PERFECTLY POISED | 0.40% | ~11 |
+| PERFECTLY POISED | 0.50% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,767 (Ranked 145)  
-Completed: 10 (0.36%) (Ranked 124)  
+Completed: 11 (0.40%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,4 +83,4 @@ Completed: 10 (0.36%) (Ranked 124)
 | 2023-06-10 | 2,750 | 6 |
 | 2023-06-11 | 2,754 | 6 |
 | 2023-06-12 | 2,760 | 7 |
-| 2023-06-13 | 2,767 | 10 |
+| 2023-06-13 | 2,767 | 11 |

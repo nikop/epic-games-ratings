@@ -308,9 +308,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2783,
+  "EOS_Progressed": 2784,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3448,6 +3448,11 @@
       "Time": "2023-06-13T17:06:50.2371519+00:00",
       "NumProgressed": 2783,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T18:06:39.3480879+00:00",
+      "NumProgressed": 2784,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3467,7 +3472,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -3585,9 +3590,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 167
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -3595,7 +3600,7 @@
       "Name": "Sharpshooter",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -3643,7 +3648,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -3651,7 +3656,7 @@
       "Name": "My Little Friend",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -3667,7 +3672,7 @@
       "Name": "Lord of War",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -3769,9 +3774,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 501
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3795,7 +3800,7 @@
       "Name": "Change the Channel",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -4026,13 +4031,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2734,
+      "Progressed": 2735,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2783,
+      "Progressed": 2784,
       "Completed": 2
     }
   ],
@@ -4040,8 +4045,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-13T13:59:54.5870018+00:00",
-  "LastChanged_Achievements": "2023-06-13T17:06:50.2371512+00:00",
+  "LastChanged_Achievements": "2023-06-13T18:06:39.3480877+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-13T17:01:08.300315+00:00",
-  "LastUpdate_Achievements": "2023-06-13T17:06:50.2372978+00:00"
+  "LastUpdate_Ratings": "2023-06-13T18:00:49.4606215+00:00",
+  "LastUpdate_Achievements": "2023-06-13T18:06:39.3481753+00:00"
 }

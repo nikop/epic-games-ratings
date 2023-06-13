@@ -5,7 +5,7 @@ Rating: 4.22 (Ranked 814)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 72.00% | ~843 |
+| Country Bumpkin | 73.00% | ~855 |
 | A new Journey | 71.00% | ~831 |
 | Departure | 70.00% | ~820 |
 | From X to Y | 69.00% | ~808 |
@@ -19,7 +19,7 @@ Rating: 4.22 (Ranked 814)
 | Right through the middle | 55.00% | ~644 |
 | Facility Manager | 51.00% | ~597 |
 | Poor Devil | 51.00% | ~597 |
-| Producer | 47.00% | ~550 |
+| Producer | 48.00% | ~562 |
 | Apprentice | 41.00% | ~480 |
 | Bridge Builder | 39.00% | ~457 |
 | Access granted | 34.00% | ~398 |

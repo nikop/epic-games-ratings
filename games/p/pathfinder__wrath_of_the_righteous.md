@@ -7,13 +7,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 17.00% | ~1,671 |
-| A Spark | 12.00% | ~1,179 |
+| A Spark | 12.00% | ~1,180 |
 | Burning City | 11.00% | ~1,081 |
 | Mythic Choices | 10.00% | ~983 |
 | Defender's Heart | 10.00% | ~983 |
 | Banner over the Citadel | 9.00% | ~885 |
 | Queen's Gratitude | 8.00% | ~786 |
-| Fifth Crusade | 5.00% | ~491 |
+| Fifth Crusade | 5.00% | ~492 |
 | Embrace of the Abyss | 4.00% | ~393 |
 | Path of the Angel | 4.00% | ~393 |
 | Great Upstart | 4.00% | ~393 |
@@ -21,6 +21,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Azata | 3.00% | ~295 |
 | Transformation | 3.00% | ~295 |
 | The Legacy | 3.00% | ~295 |
+| Divide and Rule | 3.00% | ~295 |
 | Voice from Your Dreams | 3.00% | ~295 |
 | All Paths Open | 3.00% | ~295 |
 | A Flame | 3.00% | ~295 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Trickster | 2.00% | ~197 |
 | Path of the Lich | 2.00% | ~197 |
 | Heroic Victory | 2.00% | ~197 |
-| Divide and Rule | 2.00% | ~197 |
 | Mythic Reinforcements | 2.00% | ~197 |
 | Core of the Riddle | 2.00% | ~197 |
 | Your First Big Enemy | 2.00% | ~197 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,828 (Ranked 112)  
+Progressed: 9,830 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 0 (0.00%) (Ranked 218)
 | 2023-06-10 | 9,745 | 0 |
 | 2023-06-11 | 9,782 | 0 |
 | 2023-06-12 | 9,811 | 0 |
-| 2023-06-13 | 9,828 | 0 |
+| 2023-06-13 | 9,830 | 0 |
 ## Awards
 Max (Character Customization): 1,661  (Ranked 112)  
 Sum: 6,742 (Ranked 109)  

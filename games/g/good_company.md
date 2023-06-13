@@ -15,9 +15,9 @@ Number of Ratings: 75  (23.09.2022)
 | Rising Markets: Avoiding the Reds | 7.00% | ~349 |
 | Data Churn Type I | 7.00% | ~349 |
 | Millionaire | 6.00% | ~299 |
+| Extra Life: Wish Granted | 5.00% | ~249 |
 | Data Churn Type II | 5.00% | ~249 |
 | Speedy | 5.00% | ~249 |
-| Extra Life: Wish Granted | 4.00% | ~200 |
 | High Five! | 4.00% | ~200 |
 | Modular Progress | 4.00% | ~200 |
 | Salesperson | 4.00% | ~200 |

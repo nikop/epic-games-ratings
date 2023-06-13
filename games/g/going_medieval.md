@@ -6,24 +6,24 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 71.00% | ~2,601 |
-| Having A Field Day | 70.00% | ~2,564 |
-| Reap What You Sow | 68.00% | ~2,491 |
-| Green Thumb | 64.00% | ~2,344 |
-| The First Day | 64.00% | ~2,344 |
-| Novice Researcher | 61.00% | ~2,234 |
-| Putting Food on the Table | 58.00% | ~2,125 |
-| Onward | 53.00% | ~1,941 |
+| Get A Room | 71.00% | ~2,602 |
+| Having A Field Day | 70.00% | ~2,566 |
+| Reap What You Sow | 68.00% | ~2,492 |
+| Green Thumb | 64.00% | ~2,346 |
+| The First Day | 64.00% | ~2,346 |
+| Novice Researcher | 61.00% | ~2,236 |
+| Putting Food on the Table | 58.00% | ~2,126 |
+| Onward | 53.00% | ~1,942 |
 | Home Cooked Meal | 50.00% | ~1,832 |
 | The First Week | 50.00% | ~1,832 |
-| Feast or Famine | 48.00% | ~1,758 |
-| Studious Researcher | 48.00% | ~1,758 |
-| Beam Me Up | 47.00% | ~1,722 |
-| Adept Researcher | 43.00% | ~1,575 |
-| Retribution | 37.00% | ~1,355 |
+| Studious Researcher | 49.00% | ~1,796 |
+| Feast or Famine | 48.00% | ~1,759 |
+| Beam Me Up | 47.00% | ~1,723 |
+| Adept Researcher | 43.00% | ~1,576 |
+| Retribution | 37.00% | ~1,356 |
 | Fit For A King | 36.00% | ~1,319 |
 | ...And Don’t Come Back! | 36.00% | ~1,319 |
-| Luminary Researcher | 35.00% | ~1,282 |
+| Luminary Researcher | 35.00% | ~1,283 |
 | Heating Up | 25.00% | ~916 |
 | Winter Is Coming | 22.00% | ~806 |
 | Winter Is Here | 19.00% | ~696 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~73 |
 | Wabbit Season | 0.80% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,663 (Ranked 134)  
+Progressed: 3,665 (Ranked 134)  
 Completed: 7 (0.19%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 7 (0.19%) (Ranked 151)
 | 2023-06-10 | 3,541 | 7 |
 | 2023-06-11 | 3,594 | 7 |
 | 2023-06-12 | 3,637 | 7 |
-| 2023-06-13 | 3,663 | 7 |
+| 2023-06-13 | 3,665 | 7 |
 ## Awards
 Max (Relaxing): 120  (Ranked 307)  
 Sum: 948 (Ranked 235)  

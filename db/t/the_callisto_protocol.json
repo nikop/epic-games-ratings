@@ -6,7 +6,7 @@
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 124,
+  "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
@@ -614,9 +614,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15185,
+  "EOS_Progressed": 15189,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3764,6 +3764,11 @@
       "Time": "2023-06-13T17:04:50.5939935+00:00",
       "NumProgressed": 15185,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-06-13T18:04:45.3847045+00:00",
+      "NumProgressed": 15189,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 40,
@@ -3799,7 +3804,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "DISARM_ENEMY",
@@ -3943,7 +3948,7 @@
       "Name": "Reforged",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "PRINT_WEAPON",
@@ -3951,7 +3956,7 @@
       "Name": "Paper Jams",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "SHARE_PHOTO",
@@ -3999,7 +4004,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -4007,7 +4012,7 @@
       "Name": "Desperate Times",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -4023,7 +4028,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "STORY_TUNNELS",
@@ -4047,7 +4052,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -4055,7 +4060,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -4094,13 +4099,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15185,
+      "Progressed": 15189,
       "Completed": 54
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3111,
+      "Progressed": 3115,
       "Completed": 29
     }
   ],
@@ -4108,8 +4113,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-11T23:58:33.7302071+00:00",
-  "LastChanged_Achievements": "2023-06-13T17:04:50.5939928+00:00",
+  "LastChanged_Achievements": "2023-06-13T18:04:45.3847042+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:04.5689874+00:00",
-  "LastUpdate_Ratings": "2023-06-13T16:58:21.2442196+00:00",
-  "LastUpdate_Achievements": "2023-06-13T17:04:50.5940866+00:00"
+  "LastUpdate_Ratings": "2023-06-13T17:58:11.6838858+00:00",
+  "LastUpdate_Achievements": "2023-06-13T18:04:45.384756+00:00"
 }
