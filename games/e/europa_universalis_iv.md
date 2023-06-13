@@ -7,15 +7,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 9.00% | ~4,920 |
-| That's a Grand Army | 8.00% | ~4,373 |
-| That is mine! | 8.00% | ~4,373 |
-| Victorious! | 8.00% | ~4,373 |
+| That's a Grand Army | 8.00% | ~4,374 |
+| That is mine! | 8.00% | ~4,374 |
+| Victorious! | 8.00% | ~4,374 |
 | Brothers in Arms | 6.00% | ~3,280 |
 | That's a Grand Navy | 6.00% | ~3,280 |
 | Seriously?! | 6.00% | ~3,280 |
-| For the Glory | 5.00% | ~2,733 |
-| Cold War | 4.00% | ~2,186 |
-| True Catholic | 4.00% | ~2,186 |
+| For the Glory | 5.00% | ~2,734 |
+| Cold War | 4.00% | ~2,187 |
+| True Catholic | 4.00% | ~2,187 |
 | Defender of the Faith | 3.00% | ~1,640 |
 | It's all about the money | 3.00% | ~1,640 |
 | Respected | 3.00% | ~1,640 |
@@ -85,10 +85,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Protected Market | 0.20% | ~109 |
 | AAA Credit | 0.20% | ~109 |
 | An early Reich | 0.20% | ~109 |
-| Basileus | 0.20% | ~109 |
 | Fine Financials | 0.20% | ~109 |
 | A Fine Goosestep | 0.20% | ~109 |
-| Full House | 0.20% | ~109 |
 | Imperio español | 0.20% | ~109 |
 | Industrial Powerhouse | 0.20% | ~109 |
 | Magellan’s Voyage | 0.20% | ~109 |
@@ -118,6 +116,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Back to the Piast | 0.10% | ~55 |
 | Baltic Crusader | 0.10% | ~55 |
 | These Banners need a Saga | 0.10% | ~55 |
+| Basileus | 0.10% | ~55 |
 | Basque in Glory | 0.10% | ~55 |
 | Bengal Tiger | 0.10% | ~55 |
 | Better than Napoleon | 0.10% | ~55 |
@@ -163,6 +162,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | From Humble Origins | 0.10% | ~55 |
 | Frozen Assets | 0.10% | ~55 |
 | Fugger Banking | 0.10% | ~55 |
+| Full House | 0.10% | ~55 |
 | Ganges Khan | 0.10% | ~55 |
 | Georgia on my Mind | 0.10% | ~55 |
 | God Tier | 0.10% | ~55 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,662 (Ranked 77)  
+Progressed: 54,672 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -415,7 +415,7 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-06-10 | 53,460 | 0 |
 | 2023-06-11 | 54,074 | 0 |
 | 2023-06-12 | 54,579 | 0 |
-| 2023-06-13 | 54,662 | 0 |
+| 2023-06-13 | 54,672 | 0 |
 ## Awards
 Max (Educational): 5,381  (Ranked 61)  
 Sum: 44,475 (Ranked 27)  

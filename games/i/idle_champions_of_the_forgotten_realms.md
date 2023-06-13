@@ -69,6 +69,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.30% | ~272 |
 | Attack on the Manor | 0.30% | ~272 |
 | The Death Curse | 0.30% | ~272 |
+| Nimble Escape | 0.30% | ~272 |
 | Premature Betrayal | 0.30% | ~272 |
 | A Tale of Two Cities | 0.30% | ~272 |
 | The Dead Three | 0.30% | ~272 |
@@ -191,6 +192,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.20% | ~181 |
 | Tower on the Lake | 0.20% | ~181 |
 | Seeds of Deceit | 0.20% | ~181 |
+| Visions of Strahd | 0.20% | ~181 |
 | The Gargoyle's Apprentice | 0.20% | ~181 |
 | House of Darkness | 0.20% | ~181 |
 | The Trepidatious Trio | 0.20% | ~181 |
@@ -202,7 +204,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.20% | ~181 |
 | Flies on the Wall | 0.20% | ~181 |
 | Backtracking Through Barovia | 0.20% | ~181 |
-| Nimble Escape | 0.20% | ~181 |
 | Nimblest Escape | 0.20% | ~181 |
 | Stumbling Escape | 0.20% | ~181 |
 | Fugitives | 0.20% | ~181 |
@@ -375,7 +376,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only the Strong Survive | 0.10% | ~91 |
 | Shorty's Day Off | 0.10% | ~91 |
 | Intelligence Hunt | 0.10% | ~91 |
-| Visions of Strahd | 0.10% | ~91 |
 | Seeds of Corruption | 0.10% | ~91 |
 | The Strahd Squad | 0.10% | ~57 |
 | Home Not So Alone | 0.10% | ~57 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~57 |
 | Overwhelming Force | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,594 (Ranked 64)  
+Progressed: 90,597 (Ranked 64)  
 Completed: 1,930 (2.13%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,7 +554,7 @@ Completed: 1,930 (2.13%) (Ranked 65)
 | 2023-06-10 | 90,364 | 1,926 |
 | 2023-06-11 | 90,481 | 1,929 |
 | 2023-06-12 | 90,575 | 1,930 |
-| 2023-06-13 | 90,594 | 1,930 |
+| 2023-06-13 | 90,597 | 1,930 |
 ## Awards
 Max (Diverse Characters): 4,937  (Ranked 64)  
 Sum: 30,087 (Ranked 37)  

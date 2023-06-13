@@ -1245,9 +1245,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15473,
+  "EOS_Progressed": 15475,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 721,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -6720,6 +6720,11 @@
       "Time": "2023-06-13T06:05:27.3319802+00:00",
       "NumProgressed": 15473,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-06-13T07:07:02.4658835+00:00",
+      "NumProgressed": 15475,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 22,
@@ -6811,7 +6816,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "1026",
@@ -6827,7 +6832,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "1028",
@@ -6867,7 +6872,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6189
+      "UsersEstimate": 6190
     },
     {
       "ID": "1033",
@@ -6906,15 +6911,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 15473,
+      "Progressed": 15475,
       "Completed": 32
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-04T11:01:39.0273267+00:00",
-  "LastChanged_Achievements": "2023-06-13T06:05:27.3319794+00:00",
+  "LastChanged_Achievements": "2023-06-13T07:07:02.4658828+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:44.2764715+00:00",
-  "LastUpdate_Ratings": "2023-06-13T05:59:46.9153108+00:00",
-  "LastUpdate_Achievements": "2023-06-13T06:05:27.332031+00:00"
+  "LastUpdate_Ratings": "2023-06-13T07:01:05.1633387+00:00",
+  "LastUpdate_Achievements": "2023-06-13T07:07:02.4659553+00:00"
 }

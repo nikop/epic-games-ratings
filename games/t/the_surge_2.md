@@ -8,11 +8,11 @@ Rating: 4.25 (Ranked 794)
 | Rigged And Ready | 80.00% | ~1,414 |
 | Don't I Know You...? | 77.00% | ~1,361 |
 | Jailbreak | 65.00% | ~1,149 |
-| Suited and Booted | 38.00% | ~671 |
+| Suited and Booted | 38.00% | ~672 |
 | HEADSHOT! | 37.00% | ~654 |
-| Sleeping With The Fishes | 35.00% | ~618 |
+| Sleeping With The Fishes | 35.00% | ~619 |
 | High Performance | 30.00% | ~530 |
-| Overheated | 29.00% | ~512 |
+| Overheated | 29.00% | ~513 |
 | Powered Up | 28.00% | ~495 |
 | Studied The Blade | 24.00% | ~424 |
 | Home Invasion | 22.00% | ~389 |
@@ -25,7 +25,7 @@ Rating: 4.25 (Ranked 794)
 | Unforeseeable Consequences | 19.00% | ~336 |
 | Dead Again | 18.00% | ~318 |
 | Clean Cut | 18.00% | ~318 |
-| Full Arsenal | 17.00% | ~300 |
+| Full Arsenal | 17.00% | ~301 |
 | Can't Trust Banks | 15.00% | ~265 |
 | Mommy Dearest | 13.00% | ~230 |
 | Bad Dog | 13.00% | ~230 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 794)
 | Three Birds With One Stone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,767 (Ranked 155)  
+Progressed: 1,768 (Ranked 155)  
 Completed: 10 (0.57%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 10 (0.57%) (Ranked 111)
 | 2023-06-10 | 1,748 | 10 |
 | 2023-06-11 | 1,756 | 10 |
 | 2023-06-12 | 1,764 | 10 |
-| 2023-06-13 | 1,767 | 10 |
+| 2023-06-13 | 1,768 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

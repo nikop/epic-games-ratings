@@ -5,16 +5,16 @@ Rating: 4.25 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~147,963 |
-| Copacetic Coordination | 16.00% | ~51,465 |
-| Fronting the Money | 14.00% | ~45,032 |
-| The Dawn of Automation | 14.00% | ~45,032 |
-| Extraordinary Logistics | 14.00% | ~45,032 |
+| Corner Clout | 46.00% | ~147,965 |
+| Copacetic Coordination | 16.00% | ~51,466 |
+| Fronting the Money | 14.00% | ~45,033 |
+| The Dawn of Automation | 14.00% | ~45,033 |
+| Extraordinary Logistics | 14.00% | ~45,033 |
 | Dirty Money | 13.00% | ~41,816 |
 | Family First | 13.00% | ~41,816 |
-| Cleaning House | 12.00% | ~38,599 |
-| Room in the Back | 12.00% | ~38,599 |
-| Booze Baron | 11.00% | ~35,382 |
+| Cleaning House | 12.00% | ~38,600 |
+| Room in the Back | 12.00% | ~38,600 |
+| Booze Baron | 11.00% | ~35,383 |
 | Beating the Heat | 10.00% | ~32,166 |
 | Friends on the Force | 10.00% | ~32,166 |
 | Neighborhood Watch | 10.00% | ~32,166 |
@@ -36,11 +36,11 @@ Rating: 4.25 (Ranked 794)
 | Mission Mastery | 5.00% | ~16,083 |
 | Wise Head | 5.00% | ~16,083 |
 | Killing Them Softly | 5.00% | ~16,083 |
-| Considerable Clams | 4.00% | ~12,866 |
-| Gin Joint | 4.00% | ~12,866 |
-| An Affront to the Enemy | 4.00% | ~12,866 |
-| Friends from Back Home | 4.00% | ~12,866 |
-| Half Century Mark | 4.00% | ~12,866 |
+| Considerable Clams | 4.00% | ~12,867 |
+| Gin Joint | 4.00% | ~12,867 |
+| An Affront to the Enemy | 4.00% | ~12,867 |
+| Friends from Back Home | 4.00% | ~12,867 |
+| Half Century Mark | 4.00% | ~12,867 |
 | Corner Opportunities | 3.00% | ~9,650 |
 | 2122 North Clark Street | 3.00% | ~9,650 |
 | Copious Cabbage | 3.00% | ~9,650 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 794)
 | High Pillow | 0.10% | ~322 |
 | Station Master | 0.10% | ~322 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321,659 (Ranked 40)  
+Progressed: 321,664 (Ranked 40)  
 Completed: 4 (0.00%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 4 (0.00%) (Ranked 216)
 | 2023-06-10 | 321,047 | 4 |
 | 2023-06-11 | 321,356 | 4 |
 | 2023-06-12 | 321,601 | 4 |
-| 2023-06-13 | 321,659 | 4 |
+| 2023-06-13 | 321,664 | 4 |
 ## Awards
 Max (Highly Recommended): 25  (Ranked 468)  
 Sum: 91 (Ranked 409)  

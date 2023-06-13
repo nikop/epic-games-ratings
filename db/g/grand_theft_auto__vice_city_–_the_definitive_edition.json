@@ -424,9 +424,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 8348,
+  "EOS_Progressed": 8350,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4439,6 +4439,11 @@
       "Time": "2023-06-13T06:00:12.8322734+00:00",
       "NumProgressed": 8348,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-06-13T07:01:46.4839407+00:00",
+      "NumProgressed": 8350,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 34,
@@ -4466,7 +4471,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ACH04",
@@ -4482,7 +4487,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH06",
@@ -4538,7 +4543,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH13",
@@ -4554,7 +4559,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3339
+      "UsersEstimate": 3340
     },
     {
       "ID": "ACH15",
@@ -4608,9 +4613,9 @@
       "ID": "ACH21",
       "SetID": "9llo822",
       "Name": "Legal Counsel",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3673
+      "UsersEstimate": 3590
     },
     {
       "ID": "ACH22",
@@ -4634,7 +4639,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ACH25",
@@ -4642,7 +4647,7 @@
       "Name": "Chauffeur",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ACH26",
@@ -4650,7 +4655,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ACH27",
@@ -4658,7 +4663,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH28",
@@ -4690,7 +4695,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH32",
@@ -4721,7 +4726,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8348,
+      "Progressed": 8350,
       "Completed": 30
     }
   ],
@@ -4729,8 +4734,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-12T21:58:19.9793121+00:00",
-  "LastChanged_Achievements": "2023-06-13T06:00:12.8322725+00:00",
+  "LastChanged_Achievements": "2023-06-13T07:01:46.48394+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:58:30.0694832+00:00",
-  "LastUpdate_Ratings": "2023-06-13T05:58:13.5118491+00:00",
-  "LastUpdate_Achievements": "2023-06-13T06:00:12.832335+00:00"
+  "LastUpdate_Ratings": "2023-06-13T06:58:40.7976163+00:00",
+  "LastUpdate_Achievements": "2023-06-13T07:01:46.4840077+00:00"
 }

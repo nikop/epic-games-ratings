@@ -3,9 +3,9 @@
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 256,
-  "Ranking_EOS_Completed": 87,
+  "Ranking_EOS_Completed": 74,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 181,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 9,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.1,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -163,6 +163,11 @@
       "Time": "2023-06-13T06:05:20.7814843+00:00",
       "NumProgressed": 181,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T07:06:54.4319933+00:00",
+      "NumProgressed": 181,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -220,9 +225,9 @@
       "ID": "07",
       "SetID": "6glb5g1",
       "Name": "Swimming on a dino\u0027s back.",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "08",
@@ -244,9 +249,9 @@
       "ID": "10",
       "SetID": "6glb5g1",
       "Name": "The mountain of peril.",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "11",
@@ -294,15 +299,15 @@
       "ID": "6glb5g1",
       "IsBase": true,
       "Progressed": 181,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2022-12-04T10:57:37.9087586+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-06-13T06:05:20.7814839+00:00",
+  "LastChanged_Achievements": "2023-06-13T07:06:54.4319928+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:43.4344723+00:00",
-  "LastUpdate_Ratings": "2023-06-13T05:57:41.7930314+00:00",
-  "LastUpdate_Achievements": "2023-06-13T06:05:20.7814976+00:00"
+  "LastUpdate_Ratings": "2023-06-13T06:57:52.3181671+00:00",
+  "LastUpdate_Achievements": "2023-06-13T07:06:54.4320035+00:00"
 }

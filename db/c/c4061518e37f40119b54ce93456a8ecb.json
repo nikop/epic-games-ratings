@@ -2,10 +2,10 @@
   "ID": "c4061518e37f40119b54ce93456a8ecb",
   "Name": "Return to Grace",
   "ProductSlug": "return-to-grace-92a75a",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
     "PcReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-06-11T03:26:01.1331192+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T07:05:08.1943725+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -64,7 +69,7 @@
       "ID": "ACH_AllRooms",
       "SetID": "aao9n96",
       "Name": "You call this archaeology?",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -80,9 +85,9 @@
       "ID": "ACH_AllZenItems",
       "SetID": "aao9n96",
       "Name": "I\u0027m curious what makes you so curious",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_AllenEnding",
@@ -96,7 +101,7 @@
       "ID": "ACH_Bathroom",
       "SetID": "aao9n96",
       "Name": "He doesn\u0027t know how to use the three seashells",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -104,9 +109,9 @@
       "ID": "ACH_Beacon",
       "SetID": "aao9n96",
       "Name": "This means something",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CastDevice",
@@ -136,7 +141,7 @@
       "ID": "ACH_DarkRoom",
       "SetID": "aao9n96",
       "Name": "Let me risk a little more light",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -144,7 +149,7 @@
       "ID": "ACH_Disassemble",
       "SetID": "aao9n96",
       "Name": "No disassemble!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -160,15 +165,15 @@
       "ID": "ACH_EscapeTrap",
       "SetID": "aao9n96",
       "Name": "they\u0027ll never take... OUR FREEDOM!",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Everett",
       "SetID": "aao9n96",
       "Name": "I KNOW HIM!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -176,7 +181,7 @@
       "ID": "ACH_FirstWish",
       "SetID": "aao9n96",
       "Name": "As you wish",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -208,7 +213,7 @@
       "ID": "ACH_Inukshuk",
       "SetID": "aao9n96",
       "Name": "Please send me a sign",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -240,7 +245,7 @@
       "ID": "ACH_MoonSurface",
       "SetID": "aao9n96",
       "Name": "Not all those who wander are lost",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -256,9 +261,9 @@
       "ID": "ACH_QuestionControl",
       "SetID": "aao9n96",
       "Name": "Frankly, my dear, I don\u0027t give a damn",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ResetRelay",
@@ -312,7 +317,7 @@
       "ID": "ACH_TransitWorking",
       "SetID": "aao9n96",
       "Name": "It\u0027s working! It\u0027s working!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -329,13 +334,13 @@
     {
       "ID": "aao9n96",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-06-13T06:04:07.6138493+00:00",
+  "LastChanged_Achievements": "2023-06-13T07:05:08.194372+00:00",
   "LastUpdate_AppInfo": "2023-06-06T15:56:55.6615256+00:00",
-  "LastUpdate_Ratings": "2023-06-13T05:57:20.1853118+00:00",
-  "LastUpdate_Achievements": "2023-06-13T06:04:07.6138797+00:00"
+  "LastUpdate_Ratings": "2023-06-13T06:57:18.848572+00:00",
+  "LastUpdate_Achievements": "2023-06-13T07:05:08.1943989+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -630,7 +630,7 @@
   ],
   "EOS_Progressed": 6209,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2958,9 +2958,9 @@
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
       "SetID": "akchbl3",
       "Name": "The Lion of the Isonzo",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1118
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -3031,8 +3031,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-10T21:57:23.9166861+00:00",
-  "LastChanged_Achievements": "2023-06-13T06:02:30.2959002+00:00",
+  "LastChanged_Achievements": "2023-06-13T07:03:37.3464914+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:29.8172536+00:00",
-  "LastUpdate_Ratings": "2023-06-13T05:57:32.7258805+00:00",
-  "LastUpdate_Achievements": "2023-06-13T06:02:30.2959534+00:00"
+  "LastUpdate_Ratings": "2023-06-13T06:57:38.2401588+00:00",
+  "LastUpdate_Achievements": "2023-06-13T07:03:37.3465743+00:00"
 }

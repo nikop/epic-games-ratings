@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242,
+  "EOS_Progressed": 243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -572,6 +572,11 @@
       "Time": "2023-06-13T02:17:43.0950244+00:00",
       "NumProgressed": 242,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-13T07:07:24.6144478+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -909,9 +914,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 119
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -933,9 +938,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "MILLS",
@@ -1015,7 +1020,7 @@
       "Name": "Small town",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "POPULATION_2",
@@ -1103,7 +1108,7 @@
       "Name": "Sport is good for you",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "SPORTS_2",
@@ -1189,9 +1194,9 @@
       "ID": "VILLAS",
       "SetID": "44dlcg0",
       "Name": "Bucolic city",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "WELFARE_1",
@@ -1214,7 +1219,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 242,
+      "Progressed": 243,
       "Completed": 0
     }
   ],
@@ -1222,8 +1227,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-13T06:05:44.0940701+00:00",
+  "LastChanged_Achievements": "2023-06-13T07:07:24.6144472+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:09.3377562+00:00",
-  "LastUpdate_Ratings": "2023-06-13T05:58:40.8694989+00:00",
-  "LastUpdate_Achievements": "2023-06-13T06:05:44.0941679+00:00"
+  "LastUpdate_Ratings": "2023-06-13T06:59:22.8824894+00:00",
+  "LastUpdate_Achievements": "2023-06-13T07:07:24.6145435+00:00"
 }

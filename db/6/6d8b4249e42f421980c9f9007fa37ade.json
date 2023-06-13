@@ -4,8 +4,8 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -358,9 +358,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -621,8 +621,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-13T06:00:15.2642497+00:00",
+  "LastChanged_Achievements": "2023-06-13T07:01:50.3233159+00:00",
   "LastUpdate_AppInfo": "2023-06-08T03:57:14.5111987+00:00",
-  "LastUpdate_Ratings": "2023-06-13T05:57:10.4993736+00:00",
-  "LastUpdate_Achievements": "2023-06-13T06:00:15.2642984+00:00"
+  "LastUpdate_Ratings": "2023-06-13T06:57:04.3970388+00:00",
+  "LastUpdate_Achievements": "2023-06-13T07:01:50.323398+00:00"
 }

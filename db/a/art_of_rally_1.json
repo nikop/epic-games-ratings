@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "ID": "ACH_COMPLETE_GROUPS",
       "SetID": "9002fpg",
       "Name": "parallel universe",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 911
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACH_COMPLETE_NEAR_TOTALLED",
@@ -1277,8 +1277,8 @@
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-13T06:05:20.9864828+00:00",
+  "LastChanged_Achievements": "2023-06-13T07:06:54.7040572+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:31.6442423+00:00",
-  "LastUpdate_Ratings": "2023-06-13T05:57:33.2154014+00:00",
-  "LastUpdate_Achievements": "2023-06-13T06:05:20.9865206+00:00"
+  "LastUpdate_Ratings": "2023-06-13T06:57:39.0794073+00:00",
+  "LastUpdate_Achievements": "2023-06-13T07:06:54.7041364+00:00"
 }

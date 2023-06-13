@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 657809,
+  "EOS_Progressed": 657810,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5790,6 +5790,11 @@
       "Time": "2023-06-13T06:05:29.4556822+00:00",
       "NumProgressed": 657809,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-13T07:07:05.4397127+00:00",
+      "NumProgressed": 657810,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -5801,7 +5806,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 473622
+      "UsersEstimate": 473623
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -5809,7 +5814,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381529
+      "UsersEstimate": 381530
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -6184,15 +6189,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 657809,
+      "Progressed": 657810,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-13T06:05:29.4556812+00:00",
+  "LastChanged_Achievements": "2023-06-13T07:07:05.4397122+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:47.1826609+00:00",
-  "LastUpdate_Ratings": "2023-06-13T05:57:44.1027592+00:00",
-  "LastUpdate_Achievements": "2023-06-13T06:05:29.455764+00:00"
+  "LastUpdate_Ratings": "2023-06-13T06:57:55.1012801+00:00",
+  "LastUpdate_Achievements": "2023-06-13T07:07:05.4397892+00:00"
 }

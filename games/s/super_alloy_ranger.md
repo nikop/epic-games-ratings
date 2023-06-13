@@ -15,16 +15,16 @@
 | Get to the Point | 23.00% | ~9 |
 | Phew! | 15.00% | ~6 |
 | Toe to Toe | 13.00% | ~5 |
-| Mr. Want It All | 8.00% | ~3 |
+| Mr. Want It All | 10.00% | ~4 |
+| The Hidden Secret | 8.00% | ~3 |
+| The Abyss Conqueror | 5.00% | ~2 |
 | The Paradox Coordinate Conqueror | 5.00% | ~2 |
 | Grand Escape | 5.00% | ~2 |
 | Space Warrior: Prologue | 5.00% | ~2 |
-| The Hidden Secret | 5.00% | ~2 |
 | Antaeus | 5.00% | ~2 |
 | Air Interception | 5.00% | ~2 |
 | Decapitation Strike | 5.00% | ~2 |
 | The Deep Frozen Conqueror | 3.00% | ~1 |
-| The Abyss Conqueror | 3.00% | ~1 |
 | The Infinite Train Conqueror | 3.00% | ~1 |
 | The Inactivated Frozen Conqueror | 3.00% | ~1 |
 | The Hypergravitational Abyss Conqueror | 3.00% | ~1 |
