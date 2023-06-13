@@ -5,7 +5,7 @@
 | 3 | [Rain World](games/r/rain_world.md) | 4.94 | 0 | 496 |
 | 4 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.92 | 20 | 492 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,482 | 116 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,109 | 89 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,114 | 89 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 496 |
 | 8 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 496 |
 | 8 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 0 | 496 |
@@ -40,7 +40,7 @@
 | 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,270 | 124 |
 | 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 472 | 190 |
 | 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,617 | 42 |
-| 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,488 | 60 |
+| 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,490 | 60 |
 | 40 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 337 | 219 |
 | 40 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 496 |
 | 40 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 232 | 249 |
@@ -342,7 +342,7 @@
 | 333 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 227 |
 | 333 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.63 | 0 | 496 |
 | 333 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.63 | 72 | 362 |
-| 333 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,745 | 111 |
+| 333 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,746 | 111 |
 | 333 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 496 |
 | 333 | [Wall World](games/w/wall_world.md) | 4.63 | 0 | 496 |
 | 346 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 67,885 | 9 |
@@ -475,7 +475,7 @@
 | 473 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 496 |
 | 473 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 496 |
 | 473 | [Aztez](games/a/aztez.md) | 4.55 | 0 | 496 |
-| 473 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,230 | 126 |
+| 473 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,236 | 125 |
 | 473 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 485 |
 | 473 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 208 | 259 |
 | 473 | [Hue](games/h/hue.md) | 4.55 | 0 | 496 |
@@ -535,7 +535,7 @@
 | 530 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 496 |
 | 530 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 105 | 320 |
 | 530 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 185 | 270 |
-| 530 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 1,234 | 125 |
+| 530 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.51 | 1,234 | 126 |
 | 530 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 496 |
 | 530 | [Sable](games/s/sable.md) | 4.51 | 0 | 496 |
 | 530 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 496 |
@@ -633,6 +633,7 @@
 | 630 | [ELEX](games/e/elex.md) | 4.44 | 24 | 471 |
 | 630 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 496 |
 | 630 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 496 |
+| 630 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.44 | 0 | 496 |
 | 630 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 859 | 147 |
 | 630 | [Predecessor](games/p/predecessor.md) | 4.44 | 112 | 316 |
 | 630 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 50 | 393 |
@@ -645,16 +646,15 @@
 | 630 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 331 |
 | 630 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 496 |
 | 630 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 384 |
-| 646 | [Death Coming](games/d/death_coming.md) | 4.43 | 0 | 496 |
-| 646 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 496 |
-| 646 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 27 | 459 |
-| 646 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 0 | 496 |
-| 646 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.43 | 0 | 496 |
-| 646 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.43 | 0 | 496 |
-| 646 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.43 | 0 | 496 |
-| 646 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 371 |
-| 646 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 496 |
-| 646 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 279 | 233 |
+| 647 | [Death Coming](games/d/death_coming.md) | 4.43 | 0 | 496 |
+| 647 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 496 |
+| 647 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 27 | 459 |
+| 647 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 0 | 496 |
+| 647 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.43 | 0 | 496 |
+| 647 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.43 | 0 | 496 |
+| 647 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 371 |
+| 647 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 496 |
+| 647 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 279 | 233 |
 | 656 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.42 | 0 | 496 |
 | 656 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 61 | 380 |
 | 656 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 30 | 452 |
@@ -734,17 +734,17 @@
 | 728 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 261 |
 | 728 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 496 |
 | 728 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.35 | 0 | 496 |
+| 728 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.35 | 0 | 496 |
 | 728 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 0 | 496 |
-| 736 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 459 |
-| 736 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 496 |
-| 736 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 496 |
-| 736 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 53 | 386 |
-| 736 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 496 |
-| 736 | [Paladins](games/p/paladins.md) | 4.34 | 3,298 | 83 |
-| 736 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 496 |
-| 736 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,020 | 63 |
-| 736 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 242 | 245 |
-| 736 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 0 | 496 |
+| 737 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 459 |
+| 737 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 496 |
+| 737 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 496 |
+| 737 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 53 | 386 |
+| 737 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 496 |
+| 737 | [Paladins](games/p/paladins.md) | 4.34 | 3,298 | 83 |
+| 737 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 496 |
+| 737 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,020 | 63 |
+| 737 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 242 | 245 |
 | 746 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 116 | 312 |
 | 746 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 496 |
 | 746 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 74 | 359 |

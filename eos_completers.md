@@ -73,23 +73,23 @@
 | 71 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.82% |
 | 72 | [Sifu](games/s/sifu.md) | 1.80% |
 | 73 | [Poosh XL](games/p/poosh_xl.md) | 1.67% |
-| 74 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 75 | [Somerville](games/s/somerville.md) | 1.58% |
-| 76 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
-| 77 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 77 | [Night Book](games/n/night_book.md) | 1.51% |
-| 79 | [Frogun](games/f/frogun.md) | 1.46% |
-| 80 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.32% |
-| 81 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
-| 81 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.22% |
-| 81 | [Ten Dates](games/t/ten_dates.md) | 1.22% |
-| 84 | [Trifox](games/t/trifox.md) | 1.15% |
-| 85 | [Chorus](games/c/chorus.md) | 1.14% |
-| 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
-| 87 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.10% |
-| 88 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
-| 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.05% |
-| 90 | [Late Shift](games/l/late_shift.md) | 0.98% |
+| 74 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.66% |
+| 75 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
+| 76 | [Somerville](games/s/somerville.md) | 1.58% |
+| 77 | [A Musical Story](games/a/a_musical_story.md) | 1.54% |
+| 78 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 78 | [Night Book](games/n/night_book.md) | 1.51% |
+| 80 | [Frogun](games/f/frogun.md) | 1.46% |
+| 81 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.32% |
+| 82 | [Late Shift](games/l/late_shift.md) | 1.23% |
+| 83 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.22% |
+| 83 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.22% |
+| 83 | [Ten Dates](games/t/ten_dates.md) | 1.22% |
+| 86 | [Trifox](games/t/trifox.md) | 1.15% |
+| 87 | [Chorus](games/c/chorus.md) | 1.14% |
+| 88 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
+| 89 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
+| 90 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.05% |
 | 91 | [Sable](games/s/sable.md) | 0.95% |
 | 92 | [Five Dates](games/f/five_dates.md) | 0.93% |
 | 93 | [Hades](games/h/hades.md) | 0.89% |
