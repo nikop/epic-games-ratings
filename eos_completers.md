@@ -12,10 +12,10 @@
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
-| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.96% |
+| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.81% |
 | 14 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 15 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 10.53% |
-| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.38% |
+| 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.33% |
+| 16 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 10.00% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.70% |
 | 18 | [Smelter](games/s/smelter.md) | 8.33% |
 | 18 | [Without Escape](games/w/without_escape.md) | 8.33% |
@@ -23,7 +23,7 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 7.69% |
 | 21 | [Remains](games/r/remains.md) | 7.69% |
 | 21 | [Time Loader](games/t/time_loader.md) | 7.69% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.57% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.56% |
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.14% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.04% |
 | 27 | [Scorn](games/s/scorn.md) | 6.85% |
@@ -69,10 +69,10 @@
 | 67 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.08% |
 | 68 | [Iron Danger](games/i/iron_danger.md) | 1.97% |
 | 69 | [JARS](games/j/jars.md) | 1.89% |
-| 70 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.83% |
-| 71 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
-| 72 | [Sifu](games/s/sifu.md) | 1.80% |
-| 73 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1.72% |
+| 70 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1.87% |
+| 71 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.83% |
+| 72 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
+| 73 | [Sifu](games/s/sifu.md) | 1.80% |
 | 74 | [Poosh XL](games/p/poosh_xl.md) | 1.67% |
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.66% |
 | 76 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
@@ -121,12 +121,12 @@
 | 118 | [Tails of Iron](games/t/tails_of_iron.md) | 0.48% |
 | 120 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 121 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 122 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 122 | [Tchia](games/t/tchia.md) | 0.37% |
-| 124 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.36% |
-| 124 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.36% |
-| 124 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
-| 124 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
+| 122 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.40% |
+| 123 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.37% |
+| 123 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 123 | [Tchia](games/t/tchia.md) | 0.37% |
+| 126 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
+| 126 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 128 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 129 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 129 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.32% |
@@ -148,8 +148,8 @@
 | 146 | [Against the Storm](games/a/against_the_storm.md) | 0.22% |
 | 147 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 147 | [BLACKTAIL](games/b/blacktail.md) | 0.21% |
-| 147 | [Blanc](games/b/blanc.md) | 0.21% |
 | 147 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 150 | [Blanc](games/b/blanc.md) | 0.20% |
 | 151 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 152 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.17% |
 | 153 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
