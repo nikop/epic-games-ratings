@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.31 (Ranked 759)  
+Rating: 4.32 (Ranked 752)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,7 +34,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter III | 15.00% | ~52 |
 | Collectibles of Chapter IV | 15.00% | ~52 |
 | Atonement | 14.00% | ~49 |
-| Helping Hand | 12.00% | ~42 |
+| Helping Hand | 13.00% | ~45 |
 | Without a Second Thought | 12.00% | ~42 |
 | Collectibles of Chapter V | 9.00% | ~31 |
 | Such is War! | 8.00% | ~28 |
@@ -155,3 +155,4 @@ Completed: 0 (0.00%) (Ranked 216)
 | 2023-05-08 | 4.31 | - | 0 | 0 |
 | 2023-05-09 | 4.32 | - | 0 | 0 |
 | 2023-05-30 | 4.31 | - | 0 | 0 |
+| 2023-06-13 | 4.32 | - | 0 | 0 |

@@ -244,9 +244,9 @@
       "ID": "Sparkly",
       "SetID": "4nce15l",
       "Name": "Sparkly",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "Specialist",
@@ -277,8 +277,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-06-13T05:06:12.3496011+00:00",
+  "LastChanged_Achievements": "2023-06-13T06:05:22.0790843+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:59:21.4817304+00:00",
-  "LastUpdate_Ratings": "2023-06-13T04:59:09.6614043+00:00",
-  "LastUpdate_Achievements": "2023-06-13T05:06:12.3496165+00:00"
+  "LastUpdate_Ratings": "2023-06-13T05:58:48.9455823+00:00",
+  "LastUpdate_Achievements": "2023-06-13T06:05:22.0791041+00:00"
 }

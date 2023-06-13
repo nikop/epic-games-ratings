@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2755,
+  "EOS_Progressed": 2756,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
@@ -3382,6 +3382,11 @@
       "Time": "2023-06-13T05:06:25.8174265+00:00",
       "NumProgressed": 2755,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T06:05:33.8841047+00:00",
+      "NumProgressed": 2756,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -3473,7 +3478,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -3703,9 +3708,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 496
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -3960,13 +3965,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 2706,
+      "Progressed": 2707,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 2755,
+      "Progressed": 2756,
       "Completed": 2
     }
   ],
@@ -3974,8 +3979,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-12T12:00:24.1242654+00:00",
-  "LastChanged_Achievements": "2023-06-13T05:06:25.8174258+00:00",
+  "LastChanged_Achievements": "2023-06-13T06:05:33.8841039+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:01:05.5466727+00:00",
-  "LastUpdate_Ratings": "2023-06-13T05:00:40.2733527+00:00",
-  "LastUpdate_Achievements": "2023-06-13T05:06:25.817509+00:00"
+  "LastUpdate_Ratings": "2023-06-13T06:00:01.7335623+00:00",
+  "LastUpdate_Achievements": "2023-06-13T06:05:33.8842013+00:00"
 }

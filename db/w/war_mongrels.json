@@ -2,7 +2,7 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 759,
+  "Ranking_Rating": 752,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 222,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.32,
   "NumberOfRatings": 34,
   "RatingHistory": [
     {
@@ -218,6 +218,12 @@
     {
       "Time": "2023-05-30T02:57:27.9814131+00:00",
       "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-13T05:57:37.0906228+00:00",
+      "Rating": 4.32,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1131,9 +1137,9 @@
       "ID": "ACH_HEAL",
       "SetID": "1j25agn",
       "Name": "Helping Hand",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -1274,9 +1280,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
-  "LastChanged": "2023-05-30T02:57:27.9814128+00:00",
-  "LastChanged_Achievements": "2023-06-13T05:03:50.8841718+00:00",
+  "LastChanged": "2023-06-13T05:57:37.0906225+00:00",
+  "LastChanged_Achievements": "2023-06-13T06:03:17.3346069+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:37.2138018+00:00",
-  "LastUpdate_Ratings": "2023-06-13T04:57:39.8794801+00:00",
-  "LastUpdate_Achievements": "2023-06-13T05:03:50.8842277+00:00"
+  "LastUpdate_Ratings": "2023-06-13T05:57:37.0906231+00:00",
+  "LastUpdate_Achievements": "2023-06-13T06:03:17.3346718+00:00"
 }

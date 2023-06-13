@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 180,
+  "EOS_Progressed": 181,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.11,
+  "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -158,6 +158,11 @@
       "Time": "2023-06-11T02:36:30.962801+00:00",
       "NumProgressed": 180,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-13T06:05:20.7814843+00:00",
+      "NumProgressed": 181,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -177,15 +182,15 @@
       "Name": "Crazy Jungle.",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "03",
       "SetID": "6glb5g1",
       "Name": "In the treetops.",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "04",
@@ -255,9 +260,9 @@
       "ID": "12",
       "SetID": "6glb5g1",
       "Name": "Dinosaur graveyard.",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "13",
@@ -288,7 +293,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 180,
+      "Progressed": 181,
       "Completed": 2
     }
   ],
@@ -296,8 +301,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-06-13T05:06:10.9882231+00:00",
+  "LastChanged_Achievements": "2023-06-13T06:05:20.7814839+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:43.4344723+00:00",
-  "LastUpdate_Ratings": "2023-06-13T04:57:45.7472828+00:00",
-  "LastUpdate_Achievements": "2023-06-13T05:06:10.9882353+00:00"
+  "LastUpdate_Ratings": "2023-06-13T05:57:41.7930314+00:00",
+  "LastUpdate_Achievements": "2023-06-13T06:05:20.7814976+00:00"
 }

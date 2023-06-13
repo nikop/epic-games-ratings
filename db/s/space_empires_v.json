@@ -4,7 +4,7 @@
   "ProductSlug": "space-empires-v-0319fd",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-08-13T04:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:56:55.8416393+00:00",
   "LastChanged": "2023-03-31T05:56:55.8416394+00:00",
   "LastUpdate_AppInfo": "2023-06-09T22:00:04.2628259+00:00",
-  "LastUpdate_Ratings": "2023-06-13T04:59:47.2249928+00:00",
-  "LastUpdate_Achievements": "2023-06-13T05:05:25.4616518+00:00"
+  "LastUpdate_Ratings": "2023-06-13T05:59:19.4621056+00:00",
+  "LastUpdate_Achievements": "2023-06-13T06:04:43.3059738+00:00"
 }

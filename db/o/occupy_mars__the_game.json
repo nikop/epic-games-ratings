@@ -2085,9 +2085,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 416
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -2302,8 +2302,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-12T13:02:51.5238485+00:00",
-  "LastChanged_Achievements": "2023-06-13T05:04:16.0290909+00:00",
+  "LastChanged_Achievements": "2023-06-13T06:03:37.9395036+00:00",
   "LastUpdate_AppInfo": "2023-06-09T21:57:30.7181363+00:00",
-  "LastUpdate_Ratings": "2023-06-13T04:57:34.905326+00:00",
-  "LastUpdate_Achievements": "2023-06-13T05:04:16.0291413+00:00"
+  "LastUpdate_Ratings": "2023-06-13T05:57:33.1474235+00:00",
+  "LastUpdate_Achievements": "2023-06-13T06:03:37.9395611+00:00"
 }
