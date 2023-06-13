@@ -346,6 +346,7 @@
 | [Salt and Sacrifice](../games/s/salt_and_sacrifice.md) | 53 | 1,000 |
 | [Salt and Sanctuary](../games/s/salt_and_sanctuary.md) | 37 | 1,000 |
 | [Saturnalia](../games/s/saturnalia.md) | 20 | 1,000 |
+| [Scathe](../games/s/scathe.md) | 30 | 1,000 |
 | [Scorn](../games/s/scorn.md) | 12 | 1,000 |
 | [Scrapnaut](../games/s/scrapnaut.md) | 31 | 1,000 |
 | [SEASON®: A letter to the future](../games/s/season®__a_letter_to_the_future.md) | 16 | 1,000 |
