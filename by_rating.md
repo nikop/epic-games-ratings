@@ -25,20 +25,20 @@
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,741 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 478 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 496 |
-| 26 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 485 |
 | 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,391 | 119 |
 | 26 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,617 | 32 |
 | 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,009 | 139 |
-| 30 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 496 |
-| 30 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 139 | 293 |
-| 30 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 38 | 422 |
-| 30 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 696 | 158 |
-| 30 | [GRIT](games/g/grit.md) | 4.86 | 0 | 496 |
-| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 332 | 220 |
-| 30 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 96 | 333 |
-| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 40 | 416 |
-| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,270 | 124 |
-| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 472 | 190 |
+| 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 496 |
+| 29 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 485 |
+| 29 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 139 | 293 |
+| 29 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 38 | 422 |
+| 29 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 696 | 158 |
+| 29 | [GRIT](games/g/grit.md) | 4.86 | 0 | 496 |
+| 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 332 | 220 |
+| 29 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 96 | 333 |
+| 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 40 | 416 |
+| 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,270 | 124 |
+| 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 472 | 190 |
 | 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,617 | 42 |
 | 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,488 | 60 |
 | 40 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 337 | 219 |
@@ -91,7 +91,7 @@
 | 89 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,455 | 118 |
 | 89 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 379 | 207 |
 | 89 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 496 |
-| 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 621 | 168 |
+| 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 626 | 165 |
 | 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,883 | 55 |
 | 89 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,387 | 95 |
 | 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 371 | 209 |
@@ -389,7 +389,7 @@
 | 386 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,280 | 28 |
 | 386 | [Control](games/c/control.md) | 4.60 | 8,339 | 39 |
 | 386 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 359 |
-| 386 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 37,917 | 12 |
+| 386 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 38,021 | 12 |
 | 386 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,379 | 26 |
 | 386 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 496 |
 | 386 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 120 | 307 |
@@ -416,7 +416,7 @@
 | 407 | [Moving Out](games/m/moving_out.md) | 4.59 | 0 | 496 |
 | 407 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 496 |
 | 407 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 358 |
-| 407 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,244 | 85 |
+| 407 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,246 | 85 |
 | 407 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.59 | 197 | 264 |
 | 407 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 284 | 231 |
 | 407 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 696 | 158 |
@@ -576,7 +576,7 @@
 | 565 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 496 |
 | 565 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 496 |
 | 565 | [Maneater](games/m/maneater.md) | 4.49 | 13,506 | 25 |
-| 565 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 622 | 167 |
+| 565 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 622 | 168 |
 | 565 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 496 |
 | 565 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 350 |
 | 565 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 428 |
@@ -758,11 +758,11 @@
 | 752 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 455 |
 | 752 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 496 |
 | 752 | [Vampyr](games/v/vampyr.md) | 4.32 | 549 | 181 |
-| 759 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 496 |
-| 759 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 347 | 214 |
-| 759 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 947 | 142 |
-| 759 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 496 |
-| 759 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 0 | 496 |
+| 752 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 496 |
+| 760 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 496 |
+| 760 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 347 | 214 |
+| 760 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 947 | 142 |
+| 760 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 496 |
 | 764 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 496 |
 | 764 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 0 | 496 |
 | 764 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,410,726 | 1 |

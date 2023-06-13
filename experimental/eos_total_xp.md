@@ -163,6 +163,7 @@
 | [Firestone Online Idle RPG](../games/f/firestone_online_idle_rpg.md) | 75 | 1,000 |
 | [Five Dates](../games/f/five_dates.md) | 15 | 1,000 |
 | [Flat Heroes](../games/f/flat_heroes.md) | 44 | 1,000 |
+| [Fly Corp](../games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 42 | 1,000 |
 | [Football Manager 2022](../games/f/football_manager_2022.md) | 98 | 1,000 |
 | [Football Manager 2023](../games/f/football_manager_2023.md) | 100 | 1,000 |
 | [FORECLOSED](../games/f/foreclosed.md) | 24 | 1,000 |

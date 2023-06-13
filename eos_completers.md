@@ -35,7 +35,7 @@
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.94% |
 | 34 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.88% |
 | 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.85% |
 | 38 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
@@ -86,7 +86,7 @@
 | 84 | [Trifox](games/t/trifox.md) | 1.15% |
 | 85 | [Chorus](games/c/chorus.md) | 1.14% |
 | 86 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.12% |
-| 87 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.11% |
+| 87 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.10% |
 | 88 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
 | 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.05% |
 | 90 | [Late Shift](games/l/late_shift.md) | 0.98% |
@@ -442,4 +442,4 @@
 | 216 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 216 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 216 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,769 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,771 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
