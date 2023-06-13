@@ -50,13 +50,13 @@
 | 40 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 0 | 496 |
 | 40 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 496 |
 | 40 | [TUNIC](games/t/tunic.md) | 4.85 | 34 | 434 |
-| 51 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 390 |
-| 51 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 402 |
-| 51 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 215 | 254 |
-| 51 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 496 |
-| 51 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 408 | 202 |
-| 51 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 256 | 241 |
-| 51 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.84 | 0 | 496 |
+| 40 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.85 | 0 | 496 |
+| 52 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 390 |
+| 52 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 402 |
+| 52 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 215 | 254 |
+| 52 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 496 |
+| 52 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 408 | 202 |
+| 52 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 256 | 241 |
 | 58 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 496 |
 | 58 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 496 |
 | 58 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 496 |
@@ -147,7 +147,7 @@
 | 144 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 580 | 173 |
 | 144 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.74 | 67 | 370 |
 | 144 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 777 | 150 |
-| 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 616 | 169 |
+| 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 618 | 169 |
 | 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 32,850 | 14 |
 | 144 | [Star Atlas](games/s/star_atlas.md) | 4.74 | 0 | 496 |
 | 144 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 496 |
@@ -371,7 +371,7 @@
 | 361 | [DOOM 3](games/d/doom_3.md) | 4.61 | 65 | 374 |
 | 361 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 52 | 388 |
 | 361 | [GRIME](games/g/grime.md) | 4.61 | 0 | 496 |
-| 361 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,109 | 132 |
+| 361 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,111 | 132 |
 | 361 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 496 |
 | 361 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,510 | 91 |
 | 361 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 626 | 165 |
@@ -404,7 +404,7 @@
 | 386 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 0 | 496 |
 | 386 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 21 | 485 |
 | 386 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 496 |
-| 386 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 345 | 215 |
+| 386 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 346 | 215 |
 | 386 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 347 |
 | 407 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 406 |
 | 407 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.59 | 0 | 496 |
@@ -896,7 +896,7 @@
 | 894 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 0 | 496 |
 | 894 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 496 |
 | 894 | [Pinball FX](games/p/pinball_fx.md) | 4.04 | 176 | 274 |
-| 894 | [Second Extinction™](games/s/second_extinction™.md) | 4.04 | 433 | 196 |
+| 894 | [Second Extinction™](games/s/second_extinction™.md) | 4.04 | 435 | 196 |
 | 898 | [Gravewood High](games/g/gravewood_high.md) | 4.03 | 0 | 496 |
 | 898 | [Lake](games/l/lake.md) | 4.03 | 0 | 496 |
 | 898 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 0 | 496 |
