@@ -26,7 +26,7 @@
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 478 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 496 |
 | 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,393 | 119 |
-| 26 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,617 | 32 |
+| 26 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,635 | 32 |
 | 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,009 | 139 |
 | 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 496 |
 | 29 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 485 |
@@ -447,7 +447,7 @@
 | 441 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 496 |
 | 441 | [Hob](games/h/hob.md) | 4.57 | 0 | 496 |
 | 441 | [IXION](games/i/ixion.md) | 4.57 | 0 | 496 |
-| 441 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,125 | 88 |
+| 441 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,126 | 88 |
 | 441 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 452 |
 | 441 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,640 | 19 |
 | 441 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,752 | 110 |
@@ -471,7 +471,7 @@
 | 452 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.56 | 0 | 496 |
 | 452 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 76 | 356 |
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 50 | 394 |
-| 452 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,020 | 76 |
+| 452 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,027 | 76 |
 | 473 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 496 |
 | 473 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 496 |
 | 473 | [Aztez](games/a/aztez.md) | 4.55 | 0 | 496 |
@@ -488,7 +488,7 @@
 | 473 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 343 |
 | 473 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 496 |
 | 473 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,181 | 127 |
-| 489 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,419 | 69 |
+| 489 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,444 | 69 |
 | 489 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 437 |
 | 489 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,129 | 130 |
 | 489 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.54 | 0 | 496 |
@@ -505,7 +505,7 @@
 | 503 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 496 |
 | 503 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 496 |
 | 503 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,186 | 17 |
-| 503 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 141,555 | 7 |
+| 503 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 141,649 | 7 |
 | 503 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 496 |
 | 503 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 119 | 309 |
 | 503 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 496 |
@@ -659,7 +659,7 @@
 | 656 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 61 | 380 |
 | 656 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 30 | 452 |
 | 656 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 192 | 266 |
-| 656 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,137 | 30 |
+| 656 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,145 | 30 |
 | 656 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 496 |
 | 656 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,137 | 129 |
 | 656 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 48 |
@@ -930,11 +930,11 @@
 | 928 | [Chainmonsters](games/c/chainmonsters.md) | 3.81 | 0 | 496 |
 | 928 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 66 | 371 |
 | 930 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.79 | 0 | 496 |
+| 931 | [Poker Club](games/p/poker_club.md) | 3.78 | 0 | 496 |
 | 931 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,037 | 136 |
-| 932 | [Blood of Steel](games/b/blood_of_steel.md) | 3.77 | 0 | 496 |
-| 932 | [Poker Club](games/p/poker_club.md) | 3.77 | 0 | 496 |
-| 932 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 496 |
-| 932 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 60 | 383 |
+| 933 | [Blood of Steel](games/b/blood_of_steel.md) | 3.77 | 0 | 496 |
+| 933 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 496 |
+| 933 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 60 | 383 |
 | 936 | [To The Rescue](games/t/to_the_rescue.md) | 3.76 | 0 | 496 |
 | 937 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.74 | 0 | 496 |
 | 938 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.54 | 0 | 496 |

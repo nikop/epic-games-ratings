@@ -6,7 +6,7 @@
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 184,073 | 4.19 | 836 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 182,972 | 4.68 | 238 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 149,316 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 141,555 | 4.53 | 503 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 141,649 | 4.53 | 503 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 111,131 | 4.69 | 219 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 68,126 | 4.62 | 346 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 57,817 | 4.59 | 407 |
@@ -29,9 +29,9 @@
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,501 | 4.36 | 719 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 12,294 | 4.60 | 387 |
 | 29 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 12,160 | 4.24 | 802 |
-| 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,137 | 4.42 | 656 |
+| 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,145 | 4.42 | 656 |
 | 31 | [NBA 2K21](games/n/nba_2k21.md) | 11,684 | 4.39 | 694 |
-| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,617 | 4.87 | 26 |
+| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,635 | 4.87 | 26 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,268 | 4.69 | 219 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,531 | 4.45 | 618 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 9,810 | 4.88 | 19 |
@@ -68,14 +68,14 @@
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,695 | 4.65 | 296 |
 | 67 | [Shop Titans](games/s/shop_titans.md) | 4,623 | 3.99 | 905 |
 | 68 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,534 | 4.70 | 195 |
-| 69 | [Dead Island 2](games/d/dead_island_2.md) | 4,419 | 4.54 | 489 |
+| 69 | [Dead Island 2](games/d/dead_island_2.md) | 4,444 | 4.54 | 489 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,366 | 4.70 | 195 |
 | 71 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,346 | 4.70 | 195 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,222 | 4.61 | 361 |
 | 73 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,131 | 4.76 | 117 |
 | 74 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,095 | 4.51 | 530 |
 | 75 | [God of War](games/g/god_of_war.md) | 4,062 | 4.88 | 19 |
-| 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,020 | 4.56 | 452 |
+| 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,027 | 4.56 | 452 |
 | 77 | [SMITE](games/s/smite.md) | 3,888 | 4.45 | 618 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,819 | 4.68 | 238 |
 | 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,637 | 4.29 | 770 |
@@ -87,7 +87,7 @@
 | 85 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,246 | 4.59 | 407 |
 | 86 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,224 | 4.76 | 117 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,151 | 4.69 | 219 |
-| 88 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,125 | 4.57 | 441 |
+| 88 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,126 | 4.57 | 441 |
 | 89 | [Hades](games/h/hades.md) | 3,114 | 4.92 | 4 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,760 | 4.67 | 257 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,513 | 4.61 | 361 |
@@ -382,7 +382,7 @@
 | 380 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 61 | 4.42 | 656 |
 | 380 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 61 | 4.63 | 331 |
 | 380 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 61 | 4.70 | 195 |
-| 383 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 60 | 3.77 | 932 |
+| 383 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 60 | 3.77 | 933 |
 | 384 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 630 |
 | 385 | [Heavy Rain](games/h/heavy_rain.md) | 58 | 4.59 | 407 |
 | 386 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 53 | 4.34 | 737 |

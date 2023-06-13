@@ -33,11 +33,11 @@
 | 31 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.50% |
 | 33 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
-| 34 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.83% |
+| 34 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.70% |
 | 35 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
-| 37 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
-| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.80% |
+| 36 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.03% |
+| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
+| 38 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.83% |
 | 39 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 40 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
 | 41 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
