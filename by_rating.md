@@ -21,7 +21,7 @@
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 298 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 259 | 240 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,056 | 75 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 148,992 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 149,316 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,741 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 478 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 496 |
@@ -66,7 +66,7 @@
 | 58 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.83 | 0 | 496 |
 | 58 | [WarmSnow](games/w/warmsnow.md) | 4.83 | 0 | 496 |
 | 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,372 | 120 |
-| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,553 | 59 |
+| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,555 | 59 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 496 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 496 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 437 |
@@ -109,7 +109,7 @@
 | 107 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 0 | 496 |
 | 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,247 | 84 |
 | 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 5,655 | 57 |
-| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 19,875 | 18 |
+| 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 19,915 | 18 |
 | 107 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 37 | 424 |
 | 107 | [SpiderHeck](games/s/spiderheck.md) | 4.77 | 0 | 496 |
 | 107 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 144 | 291 |
@@ -465,7 +465,7 @@
 | 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 496 |
 | 452 | [Minit](games/m/minit.md) | 4.56 | 0 | 496 |
 | 452 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,741 | 65 |
-| 452 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 7,446 | 43 |
+| 452 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 7,450 | 43 |
 | 452 | [Observation](games/o/observation.md) | 4.56 | 0 | 496 |
 | 452 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,783 | 109 |
 | 452 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.56 | 0 | 496 |

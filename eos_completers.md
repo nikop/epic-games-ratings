@@ -26,7 +26,7 @@
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.52% |
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.16% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.04% |
-| 27 | [Scorn](games/s/scorn.md) | 6.82% |
+| 27 | [Scorn](games/s/scorn.md) | 6.81% |
 | 28 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 6.67% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.44% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -44,7 +44,7 @@
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.60% |
 | 43 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.57% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
-| 45 | [ZZT!](games/z/zzt!.md) | 3.31% |
+| 45 | [ZZT!](games/z/zzt!.md) | 3.30% |
 | 46 | [The Complex](games/t/the_complex.md) | 3.27% |
 | 47 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.18% |
 | 48 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.08% |
@@ -442,4 +442,4 @@
 | 216 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 216 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 216 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,768 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,769 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
